@@ -1,0 +1,14 @@
+{
+ "tarih": "2026-10-10",
+ "kaynak": "prod, salt-okunur toplu sorgu (scripts/psychometrics/iskur-matching/gercek_sonuc_sql.mjs); kişi verisi dışarı alınmadı",
+ "havuz": "katalogdaki 932 kariyer, katalogda kayıtlı profillerle (her iki formül aynı veriyle)",
+ "olcut": "kullanıcının seçtiği kariyerin, o kullanıcı için 932 kariyer arasındaki ortalama yüzdelik sırası (0 = en üst, 0,5 = rastgele) ve ilk 30'a girme oranı",
+ "favori": {"kullanici": 222, "kariyer": 1189,
+   "bugunku_formul": [0.034, 0.798], "v2_045_030_025": [0.237, 0.188], "v2_esit": [0.255, 0.168],
+   "v2_06_02_02": [0.230, 0.191], "v2_sadece_riasec": [0.249, 0.155], "v2_kisilik_agir": [0.268, 0.162], "v2_deger_agir": [0.268, 0.169],
+   "populerlik_kisisellestirmesiz": [0.085, 0.428]},
+ "oncelik": {"kullanici": 207, "kariyer": 698,
+   "bugunku_formul": [0.060, 0.754], "v2_045_030_025": [0.260, 0.179], "v2_esit": [0.277, 0.154],
+   "v2_06_02_02": [0.254, 0.184], "v2_sadece_riasec": [0.275, 0.147], "v2_kisilik_agir": [0.288, 0.153], "v2_deger_agir": [0.289, 0.151]},
+ "maruz_kalma": "Seçimlerin tamamı kullanıcı eşleşme listesini gördükten sonra yapılmış (testten önce yapılmış seçim: 4 favori / 1 kullanıcı). 932 kariyerden yalnız 301'i en az bir kez favorilenmiş. Kişiselleştirme içermeyen popülerlik sıralaması bile favorileri %8,5 yüzdeliğe koyuyor. Bu veri, kullanıcıya gösterilen sıralamayı yansıtıyor; yöntemleri tarafsız karşılaştırmak için kullanılamaz."
+}

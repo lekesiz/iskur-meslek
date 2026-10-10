@@ -1,0 +1,541 @@
+{
+ "ornek_meslek": 400,
+ "kullanici_normu": "kullanici-norm-2026-10",
+ "senaryolar": [
+  {
+   "senaryo": "G1 gerçek dağılım ρ=0.8",
+   "n": 400,
+   "bugunku": {
+    "medyan_sira": 1398,
+    "ilk10_oran": 0.013,
+    "ilk50_oran": 0.043,
+    "ilk_yuzde5_oran": 0.245,
+    "isco4_ilk20": 0.105,
+    "ana_grup_ilk10": 0.178
+   },
+   "v1": {
+    "medyan_sira": 491,
+    "ilk10_oran": 0.033,
+    "ilk50_oran": 0.15,
+    "ilk_yuzde5_oran": 0.438,
+    "isco4_ilk20": 0.19,
+    "ana_grup_ilk10": 0.247
+   },
+   "v2": {
+    "medyan_sira": 211,
+    "ilk10_oran": 0.08,
+    "ilk50_oran": 0.253,
+    "ilk_yuzde5_oran": 0.615,
+    "isco4_ilk20": 0.28,
+    "ana_grup_ilk10": 0.323
+   },
+   "v2_ayirt": {
+    "medyan_sira": 199,
+    "ilk10_oran": 0.072,
+    "ilk50_oran": 0.237,
+    "ilk_yuzde5_oran": 0.647,
+    "isco4_ilk20": 0.26,
+    "ana_grup_ilk10": 0.312
+   }
+  },
+  {
+   "senaryo": "G1 gerçek dağılım ρ=0.6",
+   "n": 400,
+   "bugunku": {
+    "medyan_sira": 1716,
+    "ilk10_oran": 0.013,
+    "ilk50_oran": 0.048,
+    "ilk_yuzde5_oran": 0.175,
+    "isco4_ilk20": 0.068,
+    "ana_grup_ilk10": 0.15
+   },
+   "v1": {
+    "medyan_sira": 757,
+    "ilk10_oran": 0.018,
+    "ilk50_oran": 0.085,
+    "ilk_yuzde5_oran": 0.343,
+    "isco4_ilk20": 0.11,
+    "ana_grup_ilk10": 0.187
+   },
+   "v2": {
+    "medyan_sira": 515,
+    "ilk10_oran": 0.055,
+    "ilk50_oran": 0.14,
+    "ilk_yuzde5_oran": 0.43,
+    "isco4_ilk20": 0.195,
+    "ana_grup_ilk10": 0.25
+   },
+   "v2_ayirt": {
+    "medyan_sira": 548,
+    "ilk10_oran": 0.05,
+    "ilk50_oran": 0.135,
+    "ilk_yuzde5_oran": 0.427,
+    "isco4_ilk20": 0.19,
+    "ana_grup_ilk10": 0.234
+   }
+  },
+  {
+   "senaryo": "G2 O*NET şekli (stres testi) ρ=0.8",
+   "n": 400,
+   "bugunku": {
+    "medyan_sira": 204,
+    "ilk10_oran": 0.115,
+    "ilk50_oran": 0.275,
+    "ilk_yuzde5_oran": 0.608,
+    "isco4_ilk20": 0.268,
+    "ana_grup_ilk10": 0.246
+   },
+   "v1": {
+    "medyan_sira": 139,
+    "ilk10_oran": 0.092,
+    "ilk50_oran": 0.28,
+    "ilk_yuzde5_oran": 0.713,
+    "isco4_ilk20": 0.34,
+    "ana_grup_ilk10": 0.328
+   },
+   "v2": {
+    "medyan_sira": 469,
+    "ilk10_oran": 0.022,
+    "ilk50_oran": 0.085,
+    "ilk_yuzde5_oran": 0.44,
+    "isco4_ilk20": 0.203,
+    "ana_grup_ilk10": 0.242
+   },
+   "v2_ayirt": {
+    "medyan_sira": 556,
+    "ilk10_oran": 0.02,
+    "ilk50_oran": 0.083,
+    "ilk_yuzde5_oran": 0.412,
+    "isco4_ilk20": 0.193,
+    "ana_grup_ilk10": 0.206
+   }
+  }
+ ],
+ "cesitlilik": {
+  "bugunku": {
+   "ilk10da_gorulen_farkli_meslek": 1363,
+   "en_sik_meslek": "Amerikan Kültürü ve Edebiyatı Öğretim Üyesi (kullanıcıların %8.1'i)",
+   "en_sik_10_meslegin_payi": 0.066,
+   "isco_ana_grup_dagilimi": {
+    "0": 0.007,
+    "1": 0.172,
+    "2": 0.723,
+    "3": 0.071,
+    "4": 0.008,
+    "5": 0.014,
+    "7": 0.004,
+    "8": 0,
+    "9": 0.001
+   }
+  },
+  "v1": {
+   "ilk10da_gorulen_farkli_meslek": 2567,
+   "en_sik_meslek": "Spiker (kullanıcıların %5.0'i)",
+   "en_sik_10_meslegin_payi": 0.045,
+   "isco_ana_grup_dagilimi": {
+    "0": 0,
+    "1": 0.07,
+    "2": 0.475,
+    "3": 0.202,
+    "4": 0.085,
+    "5": 0.047,
+    "6": 0.015,
+    "7": 0.069,
+    "8": 0.018,
+    "9": 0.019
+   }
+  },
+  "v2": {
+   "ilk10da_gorulen_farkli_meslek": 3596,
+   "en_sik_meslek": "Görüntü ve Ses Sistemleri Elemanı (kullanıcıların %2.4'i)",
+   "en_sik_10_meslegin_payi": 0.017,
+   "isco_ana_grup_dagilimi": {
+    "0": 0.005,
+    "1": 0.029,
+    "2": 0.222,
+    "3": 0.258,
+    "4": 0.066,
+    "5": 0.065,
+    "6": 0.055,
+    "7": 0.183,
+    "8": 0.077,
+    "9": 0.041
+   }
+  },
+  "v2_ayirt": {
+   "ilk10da_gorulen_farkli_meslek": 3105,
+   "en_sik_meslek": "Görüntü, Ses ve Işıklandırma Sistemleri Bakım Onarımcısı (kullanıcıların %4.2'i)",
+   "en_sik_10_meslegin_payi": 0.032,
+   "isco_ana_grup_dagilimi": {
+    "0": 0.004,
+    "1": 0.024,
+    "2": 0.225,
+    "3": 0.281,
+    "4": 0.051,
+    "5": 0.068,
+    "6": 0.064,
+    "7": 0.189,
+    "8": 0.062,
+    "9": 0.033
+   }
+  }
+ },
+ "ortalama_kullanici": {
+  "bugunku": [
+   "Genel Yayın Müdürü (79)",
+   "Basınla İlişkiler Görevlisi (79)",
+   "Halkla İlişkiler Görevlisi (79)",
+   "Halkla İlişkiler ve Tanıtım Uzmanı (79)",
+   "Halkla İlişkiler ve Tanıtım Meslek Elemanı (79)"
+  ],
+  "v1": [
+   "Spiker (71)",
+   "Takdimci (71)",
+   "Anons Görevlisi (71)",
+   "Diskjokey(DJ) (71)",
+   "Spor Spikeri (71)"
+  ],
+  "v2": [
+   "Subaylar (50)",
+   "Genel Kurmay Başkanı (50)",
+   "Mareşal(Kara Kuvvetleri) (50)",
+   "Mareşal(Hava Kuvvetleri) (50)",
+   "Büyükamiral(Deniz Kuvvetleri) (50)"
+  ],
+  "v2_ayirt": [
+   "Hukuk İlmi Öğretim Üyesi (50)",
+   "Türk Dili ve Edebiyatı Öğretim Üyesi (50)",
+   "Kalite Kontrol Teknisyeni (İnşaat) (50)",
+   "Kontrol Teknisyeni-İnşaat (50)",
+   "Termik Santrallerde Enerji Üretim Teknikeri (50)"
+  ]
+ },
+ "arketipler": {
+  "Araştırmacı-bilimsel (I, O yüksek)": {
+   "puanlar": {
+    "riasec": {
+     "R": 74,
+     "I": 99,
+     "A": 79,
+     "S": 72,
+     "E": 71,
+     "C": 72
+    },
+    "bigfive": {
+     "O": 96,
+     "C": 74,
+     "E": 70,
+     "A": 75,
+     "N": 60
+    },
+    "values": {
+     "CRE": 97,
+     "ALT": 71,
+     "SEC": 77,
+     "AUT": 94,
+     "REL": 75,
+     "REU": 81
+    }
+   },
+   "v2": [
+    "Jeomorfolog (IRC, 93)",
+    "Ziraat Mühendisi (Bitkisel Üretim) (IRC, 93)",
+    "Ziraat Mühendisi (IRC, 93)",
+    "Jeofizik Mühendisi (IRC, 93)",
+    "Yapısal Jeoloji Uzmanı (IRC, 93)",
+    "Jeokimya Uzmanı (IRC, 93)",
+    "Mineralog (IRC, 93)",
+    "Paleontolog (Fosil Bilimci) (IRC, 93)",
+    "Petrografi Uzmanı (Petrograf) (IRC, 93)",
+    "Kıyı ve Deniz Jeolojisi Uzmanı (Deniz Jeoloğu) (IRC, 93)"
+   ],
+   "bugunku": [
+    "Antropolog (IAR, 83)",
+    "Arkeolog (IAR, 83)",
+    "Sosyal Antropolog (IAR, 83)",
+    "Fiziki Antropolog (IAR, 83)",
+    "Halkbilimci (Folklorcu) (IAR, 83)",
+    "Etnolog (IAR, 83)",
+    "Diğer Sosyologlar, Antropologlar ve İlgili Bilim Adamları (ISA, 82)",
+    "Hititolog (IAC, 81)",
+    "Dilbilimci (ISA, 81)",
+    "Antropoloji Öğretim Üyesi (ISA, 80)"
+   ]
+  },
+  "Sosyal-yardım (S, A yüksek)": {
+   "puanlar": {
+    "riasec": {
+     "R": 63,
+     "I": 76,
+     "A": 82,
+     "S": 100,
+     "E": 71,
+     "C": 72
+    },
+    "bigfive": {
+     "O": 77,
+     "C": 74,
+     "E": 82,
+     "A": 94,
+     "N": 60
+    },
+    "values": {
+     "CRE": 79,
+     "ALT": 100,
+     "SEC": 77,
+     "AUT": 77,
+     "REL": 90,
+     "REU": 81
+    }
+   },
+   "v2": [
+    "Usta Öğretici (Kat Elemanlığı) (SRC, 97)",
+    "Değirmencilik Öğretmeni-Orta Öğretim (SRC, 97)",
+    "Engelli Bakımı ve Rehabilitasyon Sağlık Teknikeri (SCR, 97)",
+    "Usta Öğretici (Kantin İşletmeciliği) (SCR, 97)",
+    "Plastik Teknolojisi Öğretmeni (SRC, 97)",
+    "Usta Öğretici (Kuru Temizlemecilik) (SRC, 96)",
+    "Usta Öğretici (Dokumacılık) (SRC, 96)",
+    "Usta Öğretici (Örmecilik) (SRC, 96)",
+    "Tekstil Terbiye Öğretmeni (SRC, 96)",
+    "Tekstil, Boya, Baskı ve Desen Öğretmeni-Ortaöğretim (SRC, 96)"
+   ],
+   "bugunku": [
+    "Sınıf Öğretmeni (SAC, 85)",
+    "Okutman (Türk Dili) (SIA, 84)",
+    "İmam Hatip Lisesi Meslek Dersleri Öğretmeni (SAC, 84)",
+    "Öğretmenlik Meslek Bilgisi Dersleri Öğretmeni (SIC, 84)",
+    "Din Kültürü ve Ahlak Bilgisi Öğretmeni (SAC, 84)",
+    "Diğer Sınıf Öğretmenleri (SAC, 84)",
+    "Çocuk Gelişimcisi/Çocuk Gelişim Uzmanı (SIC, 83)",
+    "Çocuk Gelişimcisi/Çocuk Gelişim Uzmanı(Özel Eğitim Kurumları/Rehberlik ve Araştırma Merkezleri) (SIC, 83)",
+    "Çocuk Gelişimcisi/Çocuk Gelişim Uzmanı(Toplum Merkezleri) (SIC, 83)",
+    "Çocuk Gelişimcisi/Çocuk Gelişim Uzmanı (Çocuk ve Gençlik Merkezleri) (SCI, 83)"
+   ]
+  },
+  "Girişimci-lider (E yüksek)": {
+   "puanlar": {
+    "riasec": {
+     "R": 63,
+     "I": 68,
+     "A": 71,
+     "S": 83,
+     "E": 100,
+     "C": 80
+    },
+    "bigfive": {
+     "O": 77,
+     "C": 84,
+     "E": 96,
+     "A": 75,
+     "N": 60
+    },
+    "values": {
+     "CRE": 79,
+     "ALT": 71,
+     "SEC": 77,
+     "AUT": 91,
+     "REL": 75,
+     "REU": 100
+    }
+   },
+   "v2": [
+    "Koordinatör-Avcılık, Balıkçılık, Ormancılık ve Tarım (ERC, 95)",
+    "Yönetici (Balıkçılık) (ERC, 95)",
+    "Spor Hakemi (ECR, 94)",
+    "Futbol Hakemi (Orta Hakem) (ECR, 94)",
+    "Masa Tenisi Baş Hakemi (ECR, 94)",
+    "Masa Tenisi Yardımcı Hakemi (ECR, 94)",
+    "Masa Tenisi Hakemi (ECR, 94)",
+    "Satranç Hakemi (ECR, 94)",
+    "Buz Pateni Hakemi (ECR, 94)",
+    "Futbol Hakemi (Dördüncü Hakem) (ECR, 94)"
+   ],
+   "bugunku": [
+    "Dernek, Vakıf, Birlik ve STK Başkan ve Üst Düzey Yöneticileri (ECS, 84)",
+    "Kızılay Genel Başkanı (ECS, 84)",
+    "Cumhurbaşkanı (ECS, 83)",
+    "Başbakan (ECS, 83)",
+    "Bakan (ECS, 83)",
+    "Büyükşehir Belediye Başkanı (ECS, 83)",
+    "İl Belediye Başkanı (ECS, 83)",
+    "İlçe Belediye Başkanı (ECS, 83)",
+    "Muhtar-Köy (ECS, 83)",
+    "Siyasi Parti Genel Başkanı (ECS, 83)"
+   ]
+  },
+  "El becerisi-teknik (R yüksek)": {
+   "puanlar": {
+    "riasec": {
+     "R": 94,
+     "I": 79,
+     "A": 71,
+     "S": 72,
+     "E": 71,
+     "C": 80
+    },
+    "bigfive": {
+     "O": 77,
+     "C": 84,
+     "E": 70,
+     "A": 75,
+     "N": 60
+    },
+    "values": {
+     "CRE": 79,
+     "ALT": 71,
+     "SEC": 93,
+     "AUT": 87,
+     "REL": 75,
+     "REU": 81
+    }
+   },
+   "v2": [
+    "Katener İşçisi (RCI, 100)",
+    "Elektrik Dağıtım Şebekesi İşletme Bakım Teknisyeni (RCI, 99)",
+    "Elektrik Dağıtım Şebekesi İşletme Bakım Görevlisi (RCI, 99)",
+    "Diğer Hat Çekiciler ve Kablo Ekleyiciler (RCI, 99)",
+    "Kablo Ekleyici-Elektrik (RCI, 99)",
+    "Soğutma Sistemleri Teknisyeni (RCI, 98)",
+    "Klima Sistemleri Teknisyeni (RCI, 98)",
+    "Soğutma ve İklimlendirme Sistemleri Teknisyeni (RCI, 98)",
+    "İklimlendirme Sistemleri Elemanı (RCI, 98)",
+    "Brülör Bakım ve Onarımcısı (RCI, 98)"
+   ],
+   "bugunku": [
+    "Diğer İnşaat Mühendisleri (RIC, 81)",
+    "İnşaat Mühendisi (RIC, 81)",
+    "İnşaat Mühendisi-Köprü (RIC, 81)",
+    "İnşaat Mühendisi-Su (RIC, 81)",
+    "İnşaat Mühendisi-Toprak Tahlili (RIC, 81)",
+    "Geoteknik Mühendisi/Uzmanı (RIC, 81)",
+    "İnşaat Mühendisi-Bina (RCI, 80)",
+    "İnşaat Mühendisi-Havaalanı (RIC, 80)",
+    "İnşaat Mühendisi-Sıhhi Tesisler (RIC, 80)",
+    "Mimar (RCA, 80)"
+   ]
+  },
+  "Sanatsal (A, O yüksek)": {
+   "puanlar": {
+    "riasec": {
+     "R": 63,
+     "I": 76,
+     "A": 100,
+     "S": 81,
+     "E": 71,
+     "C": 72
+    },
+    "bigfive": {
+     "O": 96,
+     "C": 74,
+     "E": 70,
+     "A": 75,
+     "N": 73
+    },
+    "values": {
+     "CRE": 100,
+     "ALT": 71,
+     "SEC": 77,
+     "AUT": 94,
+     "REL": 75,
+     "REU": 81
+    }
+   },
+   "v2": [
+    "Animasyon Programcısı (ACR, 97)",
+    "Grafik Animasyoncu (ARC, 96)",
+    "Üç Boyutlu Grafik Animasyoncu (3Ds Max) (ARC, 96)",
+    "Çizgi Film ve Animasyoncu (ARC, 96)",
+    "Canlandırmacı (Post Prodüksiyon) (ARC, 96)",
+    "Çok Boyutlu Modelleme ve Animasyon Teknikeri (ARC, 96)",
+    "Görsel Tasarımcı (Post Prodüksiyon) (ARC, 96)",
+    "Görsel Efekt Uzmanı (Post Prodüksiyon) (ARC, 96)",
+    "Bilgisayar Destekli Tasarım ve Animasyon Teknikeri (ARC, 96)",
+    "Sanal ve Artırılmış Gerçeklik Teknikeri (ACI, 96)"
+   ],
+   "bugunku": [
+    "Kompozisyon ve Orkestra Şefliği Ana Sanat Dalı Öğretim Üyesi (ASI, 79)",
+    "Dijital Oyun Tasarımcısı (AIE, 78)",
+    "İletişim Tasarımı Uzmanı (AEC, 77)",
+    "Roman Yazarı (AEI, 77)",
+    "Şair (AIE, 77)",
+    "Metin Yazarı (AEI, 77)",
+    "Görsel Efekt Yönetmeni (Post Prodüksiyon) (AEC, 77)",
+    "Görsel İletişim Tasarımcısı (ACR, 76)",
+    "Çoklu Ortam (Multimedya) Tasarımcısı (ARC, 76)",
+    "Yayın Tasarımcısı (ACR, 76)"
+   ]
+  },
+  "Düzenli-büro (C yüksek)": {
+   "puanlar": {
+    "riasec": {
+     "R": 63,
+     "I": 68,
+     "A": 71,
+     "S": 72,
+     "E": 83,
+     "C": 100
+    },
+    "bigfive": {
+     "O": 77,
+     "C": 96,
+     "E": 70,
+     "A": 75,
+     "N": 60
+    },
+    "values": {
+     "CRE": 79,
+     "ALT": 71,
+     "SEC": 96,
+     "AUT": 77,
+     "REL": 86,
+     "REU": 81
+    }
+   },
+   "v2": [
+    "Tesisler Başkontrolörü (Demiryolu) (CRI, 93)",
+    "Büro Memuru (Dış Ticaret) (CER, 92)",
+    "Biyogaz Sistemleri Sorumlusu (RCE, 91)",
+    "Tren Kontrolörü (CRE, 90)",
+    "Hazine Operasyon Uzmanı (Banka) (CES, 90)",
+    "Sürveyan (Gemi) (RCI, 90)",
+    "Elektrik Tevzii Tablosu Operatörü-Enerji Merkezi (RCE, 90)",
+    "Güverte Enspektörü (CRE, 90)",
+    "Nükleer Enerji Santral Operatörü (RCI, 90)",
+    "Baş Müfettiş (CEI, 89)"
+   ],
+   "bugunku": [
+    "Yönetici (Haberleşme) (CEI, 77)",
+    "Yönetici-Hesaplama Hizmetleri (CEI, 77)",
+    "Yönetici (Bilgi İşlem) (CEI, 77)",
+    "Bilgi Teknolojileri (BT) Müdürü (CEI, 77)",
+    "Başhekim (ECS, 76)",
+    "Başhekim Yardımcısı (ECS, 76)",
+    "Tıbbi Direktör (ECS, 76)",
+    "Katip Üye (Kooperatif) (CES, 76)",
+    "Yazılım Müdürü (CEI, 76)",
+    "Sistem Koordinatörü (CEI, 76)"
+   ]
+  }
+ },
+ "holland_altigen": {
+  "komsu_ort_r": 0.103,
+  "karsi_ort_r": -0.435
+ },
+ "riasec_ayirt": {
+  "p10": 0.558,
+  "medyan": 0.758,
+  "p90": 1.413
+ },
+ "deger_ayirt": {
+  "p10": 0.263,
+  "medyan": 0.533,
+  "p90": 0.909
+ },
+ "bigfive_ayirt": {
+  "p10": 0.425,
+  "medyan": 0.786,
+  "p90": 1.23
+ },
+ "essiz_profil": 3504
+}

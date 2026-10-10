@@ -93,3 +93,23 @@ Big Five boyutları (çok dilli embedding ile eşleştirme). Düşük güvenli e
 
 > Buradaki profil ilk sürümdür (v1). LLM ile yeniden sıralanmış, daha doğru v2 eşleştirmesi
 > reflektif/reflektif PR #2726'dadır; sisteme alınırken v2 esas alınmalıdır.
+
+## Algoritmik eşleştirme değerleri (`eslestirme/`)
+
+Reflektif kullanıcısının test sonuçlarını (RIASEC, Big Five, Değerler) 7765 İŞKUR mesleğiyle
+yapay zekâ çağrısı olmadan eşleştirmek için meslek başına önceden hesaplanmış vektörler.
+Kaynak ve inceleme: reflektif/reflektif PR #2726 (17 boyutlu O*NET profili, v2) ve PR #2779
+(eşleştirme değerleri, yöntem ve doğrulama).
+
+| Dosya | İçerik |
+|---|---|
+| `iskur_17boyut_profil.csv` | v2 17 boyutlu meslek profili (PR #2726; `profil/` klasöründeki v1'in yerine) |
+| `meslek_eslestirme.{csv,json}` | Meslek başına eşleştirme vektörleri, z puanları, belirginlik, eğitim sırası |
+| `eslestirme.mjs` | Üretim + referans eşleştirici (`userVectors`, `scoreNew`; Node, bağımlılıksız) |
+| `dogrulama.mjs`, `dogrulama_raporu.json` | Sentetik kullanıcı doğrulaması ve bugünkü formülle kıyas |
+| `gercek_sonuc_sql.mjs`, `gercek_sonuc_raporu.json` | Gerçek favori/öncelik seçimleriyle toplu kontrol |
+| `README.md` | Yöntem, sonuçlar ve sınırlar (yollar reflektif reposuna göredir) |
+
+```bash
+node eslestirme/eslestirme.mjs eslestirme/iskur_17boyut_profil.csv eslestirme/
+```
