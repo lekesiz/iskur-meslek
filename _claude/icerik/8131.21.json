@@ -1,0 +1,72 @@
+{
+ "gorevler": [
+  "Hazır karışımlardan imbikle kimyasal damıtma ve tepkime yaptırır.",
+  "Üniteleri kontrol eder, ocakları ateşler ve imbik cihazlarının çalıştırılmasına yardımcı olur.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "arac_gerec": [
+  "İmbik (damıtma) kazanları ve reaktörler",
+  "Kontrol panelleri ve otomasyon sistemleri",
+  "Sıcaklık ve basınç göstergeleri (termometre, manometre)",
+  "Vana ve valfler",
+  "Pompa ve boru hatları",
+  "Ocak/fırın yakma sistemleri",
+  "Soğutucu (kondenser) üniteleri",
+  "Depolama ve besleme tankları",
+  "Numune alma ekipmanları",
+  "Debimetre ve seviye göstergeleri",
+  "Kişisel koruyucu donanım (eldiven, gözlük, maske, koruyucu elbise)",
+  "Yangın söndürme ekipmanları"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve tedbirli,",
+  "Sorumluluk duygusu yüksek,",
+  "Fiziksel olarak dayanıklı,",
+  "Göz ve ellerini eşgüdümle kullanabilen,",
+  "Takım çalışmasına uyumlu,",
+  "Teknik alet ve cihaz kullanımına yatkın,",
+  "Hızlı ve doğru karar verebilen,",
+  "Talimat ve kurallara titizlikle uyan,"
+ ],
+ "calisma_ortami": "İmbik reaktör operatörleri genellikle kimya, ilaç, boya, kozmetik, tarım ilacı veya orman ürünleri (terementin, distilasyon) gibi damıtma ve tepkime işlemlerinin yapıldığı fabrika ve tesislerde, kapalı alanlarda çalışır. Çalışma ortamında yüksek ısı, basınç, buhar ve kimyasal maddelerin bulunması nedeniyle yanık, zehirlenme, patlama ve solunum yolu maruziyeti gibi riskler söz konusu olabilir; bu nedenle iş sağlığı ve güvenliği kurallarına ve kişisel koruyucu donanım kullanımına titizlikle uyulması gerekir.\n\nİş genellikle ayakta ve vardiyalı olarak yürütülür. Çalışanlar süreç boyunca üretim amirleri, mühendisler ve diğer vardiya arkadaşlarıyla sürekli iletişim halindedir; üretimin kesintisiz ve güvenli ilerlemesi için ekip içi koordinasyon önemlidir.",
+ "egitim": {
+  "verildigi_yerler": "Bu mesleğe yönelik örgün ve standart bir eğitim programı bulunmamaktadır. Mesleğe genellikle işletmelerde usta yanında işbaşı eğitimiyle veya Halk Eğitim Merkezleri ile İŞKUR'un açtığı kimya ve proses operatörlüğüne ilişkin mesleki eğitim kurslarına katılarak girilmektedir. Kimya teknolojisi alanındaki mesleki ve teknik eğitim programları da ilgi duyanlar için temel bilgi sağlayabilir.",
+  "giris_kosullari": [
+   "İlköğretim mezunu olmak",
+   "Kurs veya işbaşı eğitim programının öngördüğü temel becerileri gerçekleştirebilecek fiziksel ve psikomotor yeterliğe sahip olmak",
+   "18 yaşını doldurmuş olmak"
+  ],
+  "sure_ve_icerik": "Mesleğe özgü standart bir eğitim süresi ve müfredatı bulunmamaktadır. İşletmelerde usta yanında yetişme süreci işletmenin ihtiyacına ve çalışanın öğrenme hızına göre değişir; bu süreçte iş sağlığı ve güvenliği, kimyasal maddelerle çalışma, imbik/reaktör cihazlarının çalıştırılması ve kontrolü konularında pratik bilgi ve beceri kazandırılır. Kurs programlarına katılım durumunda ise süre ve içerik, kursu açan kuruma göre değişmekle birlikte genellikle temel kimyasal işlemler ve cihaz kullanımı konularını kapsar.",
+  "belge": "Kurs yoluyla eğitim alanlara Kurs Bitirme Belgesi verilebilir; işletmede usta yanında yetişenler için resmi bir belge söz konusu değildir. Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Mesleğin gerektirdiği bilgi ve beceriyi kazanan kişiler; kimyasal damıtma ve tepkime işlemlerinin yapıldığı kimya, ilaç, boya, kozmetik, tarım ilaçları veya orman ürünleri (terementin, reçine distilasyonu gibi) üretimi yapan fabrika ve işletmelerde imbik/reaktör operatörü olarak çalışabilir.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğe yönelik örgün bir eğitim programı bulunmadığından, işletmede usta yanında işbaşı eğitimi sürecinde çalışan genellikle asgari ücret düzeyinde bir kazanç elde edebilir; kurs yoluyla alınan eğitimlerde ise genellikle herhangi bir kazanç söz konusu değildir.",
+  "egitim_sonrasi": [
+   "Kazanç, çalışılan işletmenin büyüklüğüne, sektöre ve kişinin deneyimine göre değişmektedir.",
+   "İşe yeni başlayanlar genellikle asgari ücret düzeyinde ücret almaktadır.",
+   "Deneyim ve sorumluluk arttıkça kazanç artış gösterebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğin örgün bir eğitim basamağı bulunmamaktadır; ancak ilgi duyanlar kimya teknolojisi alanındaki mesleki ve teknik eğitim programlarına veya ileri düzey kurslara yönelerek bilgi ve becerilerini geliştirebilir.",
+  "is_hayatinda": "Bilgi, beceri ve deneyim arttıkça usta, ekip lideri, vardiya amiri veya proses operatörü gibi unvanlar alarak ilerleme imkanı bulunmaktadır."
+ },
+ "benzer_meslekler": [
+  "İmbik Operatörü (Aralıklı İşleyen) (Petrol Hariç)",
+  "İmbik Operatörü (Devamlı İşleyen) (Petrol Hariç)",
+  "İmbikçi (Odun Distilasyonu) -Orman",
+  "Evaporatör Operatörü-Kimyasal İşlemler",
+  "Aralıklı ve Devamlı İşleyen İmbik Reaktör Operatörü-Eczacılık ve Tuvalet Malzemeleri",
+  "Reaktör İşçisi (Boya)"
+ ],
+ "ek_bilgiler": "Mesleğin icra edildiği bazı iş kollarında kullanılan kimyasal maddeler, yüksek ısı ve basınç koşulları nedeniyle çalışma ortamı tehlikeli veya çok tehlikeli işler kapsamına girebilir; bu durumlarda iş sağlığı ve güvenliği mevzuatına uyum ve kişisel koruyucu donanım kullanımı özel önem taşır.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T12:06:33",
+  "usage": {
+   "input_tokens": 4,
+   "output_tokens": 9198
+  }
+ }
+}

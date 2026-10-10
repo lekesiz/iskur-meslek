@@ -1,0 +1,78 @@
+{
+ "gorevler": [
+  "İş organizasyonu yapar",
+  "Türbinlerin bakımını yapmak üzere parçalarını söker, temizler, yağlar ve yerine monte eder",
+  "Türbinde meydana gelen arızanın nedenini ve yerini belirlemek için kontrol ve ölçümler yaparak arızalı parçayı tespit eder",
+  "Arızalı parçayı tümüyle ya da kısmen söker",
+  "Parçaları onarır veya onarılamayacak olanları yenisiyle değiştirir",
+  "Parçaları yerine monte eder, ayarlarını yapar",
+  "Basınç, sıcaklık, titreşim ve verim testlerini yaparak türbinin düzgün çalışıp çalışmadığını kontrol eder",
+  "Periyodik bakım programlarına göre türbinin rulman, yatak, conta, filtre gibi parçalarının bakım ve ayarlarının yapılmasını sağlar",
+  "Bakım ve tamir işlerini düzenli olarak yapabilmek için el takımlarını ve ölçü aletlerini temiz ve çalışır durumda tutar",
+  "Yaptığı çalışmaları raporlayarak üstüne iletir",
+  "Mesleki gelişim faaliyetlerinde bulunur"
+ ],
+ "arac_gerec": [
+  "El takımları (anahtarlar, tornavidalar, penseler, çekiçler, eğeler vb.)",
+  "Ölçme ve kontrol aletleri (kumpas, komparatör, mikrometre vb.)",
+  "Tork anahtarları",
+  "Basınç ve sıcaklık ölçüm cihazları (manometre, termometre)",
+  "Titreşim ve balans ölçüm cihazları",
+  "Yağlama ekipmanları ve endüstriyel yağlar",
+  "Kaldırma ve taşıma ekipmanları (vinç, kriko, zincirli palanga)",
+  "Taşlama ve kaynak makineleri",
+  "Hidrolik pres ve çekme aparatları",
+  "Kişisel koruyucu donanım (eldiven, gözlük, kulaklık, iş elbisesi)"
+ ],
+ "genel_ozellikler": [
+  "Makine parçaları arasındaki ilişkiyi görebilen,",
+  "El becerisine sahip,",
+  "El ve gözünü eşgüdümle kullanabilen,",
+  "Dikkatli ve sabırlı,",
+  "Teknik çizim ve şemaları okuyup yorumlayabilen,",
+  "Sorumluluk sahibi,",
+  "Aletlerle ve makinelerle çalışmaktan hoşlanan,",
+  "Takım çalışmasına yatkın"
+ ],
+ "calisma_ortami": "Mekaniker-türbin, genellikle elektrik üretim santralleri, büyük endüstriyel tesisler ve fabrikaların bakım atölyelerinde çalışır. Çalışma ortamı sıcak, gürültülü, yağlı olabilir; bazı durumlarda yüksekte, dar veya kapalı alanlarda çalışma gerekebilir. Türbinlerin yüksek basınç, yüksek sıcaklık ve hızlı dönen parçalar içermesi nedeniyle iş sağlığı ve güvenliği kurallarına titizlikle uyulması gereken riskli bir çalışma ortamı söz konusudur.\n\nEnerji üretim tesislerinin kesintisiz çalışma zorunluluğu nedeniyle vardiyalı çalışma ve planlı/plansız bakım dönemlerinde mesai saatleri dışında çalışma söz konusu olabilir. Bu mesleği yürütenler, birlikte çalıştıkları teknisyen, mühendis ve diğer bakım personeliyle sık sık iletişim kurar.",
+ "egitim": {
+  "verildigi_yerler": "Bu mesleğe özgü, resmî olarak tanımlanmış ayrı bir eğitim programı bulunmamaktadır. Meslek, genellikle mesleki ve teknik ortaöğretim kurumlarının ve mesleki eğitim merkezlerinin Makine Teknolojisi alanı ile ilgili dallarında alınan temel bakım-onarım eğitiminin ardından, enerji santralleri veya endüstriyel tesislerde işbaşında, usta yanında özel ihtisaslaşma yoluyla kazanılmaktadır. Halk Eğitim Merkezleri ile İŞKUR'un açtığı mesleki eğitim kursları da temel makine bakım bilgisi kazandırabilir.",
+  "giris_kosullari": [
+   "En az ortaokul mezunu olmak",
+   "14 yaşını doldurmuş olmak",
+   "Sağlık durumunun mesleğin gerektirdiği işlere elverişli olması (gerektiğinde sağlık raporuyla belgelendirilir)",
+   "Mesleki eğitim merkezi yoluyla eğitim alınacaksa ilgili işyeri ile çıraklık sözleşmesi imzalamak"
+  ],
+  "sure_ve_icerik": "Mesleki eğitim merkezlerinde Makine Teknolojisi alanının ilgili dalında kalfalık ve ustalık eğitimi birkaç yıl sürer; eğitim haftanın bir bölümünde okulda teorik derslerle, kalan günlerde işyerinde usta öğretici gözetiminde uygulamalı olarak yürütülür. Türbin bakım ve onarımına yönelik özel bilgi ve beceriler ise bu temel eğitimin ardından, türbinlerle çalışılan işyerlerinde deneyimli ustalar yanında uzun süreli uygulamalı çalışma ile kazanılır.",
+  "belge": "Mesleki eğitim merkezinden kalfalık ve ustalık belgesi alınabilir. Ayrıca iş deneyimine dayalı olarak Mesleki Yeterlilik Kurumu (MYK) belgesi alınabilir; bu belge istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Mekaniker-türbinler başta elektrik üretim santralleri (termik, doğalgaz çevrim, jeotermal vb.) olmak üzere, türbin kullanılan büyük endüstriyel tesislerde (çimento, petrokimya, rafineri, şeker fabrikası gibi) istihdam edilebilir. Ayrıca türbin üreticisi veya bakım-onarım hizmeti veren özel firmaların saha ve atölye ekiplerinde de çalışabilirler. Kamu ve özel sektördeki enerji üretim ve dağıtım kuruluşları bu meslek için başlıca istihdam alanlarıdır.",
+ "kazanc": {
+  "egitim_suresince": "Mesleki eğitim merkezinde çıraklık/kalfalık eğitimi görenlere 3308 sayılı Mesleki Eğitim Kanunu kapsamında işletmelerde yasal olarak belirlenen asgari ücret oranlarında ücret ödenir; sigorta primleri devletçe karşılanır.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında (örneğin kamuya ait enerji üretim şirketlerinde) çalışanlar 657 sayılı Kanun'a veya işçi statüsündeyse ilgili toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde kazanç işletmenin büyüklüğü, kişinin deneyimi, bilgi ve becerisi ile sektörün ücret düzeyine göre değişir; mesleğe yeni başlayanlarda kazanç genellikle asgari ücret düzeyinde olup deneyim arttıkça yükselebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleki eğitim merkezi veya meslek lisesinden mezun olanlar, alanının devamı niteliğindeki ön lisans/lisans programlarını (örneğin makine, enerji sistemleri gibi) tercih ettiklerinde sınav sonucuna göre bu programlara yerleşebilirler. Çeşitli kurs ve sertifika programlarıyla mesleki bilgi ve beceriler geliştirilebilir.",
+  "is_hayatinda": "Deneyim kazandıkça kıdemli usta, bakım ekip sorumlusu veya bakım şefliği gibi görevlere yükselebilirler. Türbin bakımı konusunda açılan özel kurs ve seminerlere katılarak uzmanlaşabilir, kestirimci bakım gibi ileri bakım tekniklerinde yetkinlik kazanabilirler."
+ },
+ "benzer_meslekler": [
+  "Mekaniker-Buhar Kazanları",
+  "Mekaniker-Fabrika Bakımı",
+  "Mekaniker-Pistonlu Buhar Makineleri",
+  "Makine Bakım ve Onarımcısı",
+  "Mekaniker-Yüksek Fırın, Çelikhane, Haddehane ve Yardımcı Tesisler",
+  "Kestirimci Bakım Elemanı"
+ ],
+ "ek_bilgiler": "Türbinlerin yüksek basınç, yüksek sıcaklık ve hızlı dönen parçalar içermesi nedeniyle bu meslek tehlikeli/çok tehlikeli işler kapsamında değerlendirilebilir; bu nedenle iş sağlığı ve güvenliği eğitimi önem taşır. Enerji sektöründeki yatırımların (özellikle doğalgaz çevrim santralleri ve sanayi tesislerinin) artmasına bağlı olarak nitelikli türbin bakım-onarım personeline duyulan ihtiyaç sürmektedir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T02:48:00",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 7782
+  }
+ }
+}

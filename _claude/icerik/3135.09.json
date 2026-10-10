@@ -1,0 +1,83 @@
+{
+ "arac_gerec": [
+  "Ergitme ocakları (elektrik ark ocağı, indüksiyon ocağı, yüksek fırın, konverter vb.)",
+  "Potalar ve pota taşıma ekipmanları",
+  "Köprü vinç ve diğer kaldırma-taşıma araçları",
+  "Numune alma kalıpları ve numune maşaları",
+  "Sıcaklık ölçüm cihazları (pirometre, termoçift)",
+  "Spektrometre ve diğer metal analiz cihazları",
+  "Cüruf alma ve temizleme ekipmanları",
+  "Flaks, alaşım elementi ve katkı malzemeleri",
+  "Oksijen lansı ve gaz besleme hatları",
+  "Ocak kumanda ve kontrol panelleri",
+  "Maşa, kepçe ve diğer el aletleri",
+  "Kişisel koruyucu donanım (alüminize/ısıya dayanıklı elbise, yüz siperi, kaynakçı gözlüğü, eldiven, çelik burunlu ayakkabı, baret, kulaklık)"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve tedbirli,",
+  "Sorumluluk duygusu yüksek,",
+  "Fiziksel olarak güçlü ve dayanıklı,",
+  "Yüksek ısı ve ağır çalışma koşullarına uyum sağlayabilen,",
+  "Hızlı ve doğru karar verebilen,",
+  "El-göz koordinasyonu iyi,",
+  "Ekip çalışmasına yatkın,",
+  "Vardiyalı çalışma düzenine uyum sağlayabilen,"
+ ],
+ "calisma_ortami": "İzabeciler, metal üretim ve döküm tesislerinde, genellikle kapalı ancak çok sıcak, gürültülü ve tozlu atölye ortamlarında çalışır. Ergitme ocaklarının yaydığı yüksek ısıya, duman ve metal buharlarına, bazen kimyasal maddelere maruz kalınır; ergimiş metal ve cürufla doğrudan çalışıldığından yanık, sıçrama ve ağır yük kaynaklı iş kazası riski bulunur. Bu nedenle kişisel koruyucu donanım kullanımı zorunludur.\n\nÇalışma genellikle vardiya sistemiyle (gündüz-gece) ve ekip halinde yürütülür. İzabeciler; ocak başında birlikte çalıştığı diğer işçiler, ustabaşı/vardiya amiri, kalite kontrol ve bakım personeli ile sürekli iletişim ve koordinasyon içindedir. İşin niteliği, dikkatin sürekli yüksek tutulmasını ve ekip içi uyumlu çalışmayı gerektirir.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin örgün mesleki ve teknik eğitim içinde doğrudan karşılığı olan ayrı bir alan/dal bulunmamaktadır. İzabecilik, genellikle metal üretim ve döküm işletmelerinde işbaşında, usta yanında çalışılarak öğrenilir. Metalurji ve malzeme mühendisliği veya metal teknolojisi ile ilgili mesleki ve teknik eğitim programları, mesleğin teorik temelini oluşturmada destekleyici olabilir. Ayrıca Halk Eğitim Merkezleri ve İŞKUR tarafından açılan mesleki eğitim kursları da mesleğe hazırlayıcı nitelikte olabilir.",
+  "giris_kosullari": [
+   "İlköğretim (ortaokul) mezunu olmak",
+   "Fiziksel olarak sağlıklı ve yüksek ısı, ağır iş koşullarına uygun olmak",
+   "İşletmelerin kendi açtığı işbaşı eğitim programlarına veya kurslara katılım için işe alım şartlarını sağlamak"
+  ],
+  "sure_ve_icerik": "Mesleğe özgü standart bir eğitim süresi bulunmamaktadır. Meslekte yetkinlik, işletme içinde usta yanında çalışılarak, uzunca bir süre içinde kazanılan uygulamalı deneyimle oluşur. Eğitim içeriği; iş sağlığı ve güvenliği kuralları, ocak hazırlığı ve işletimi, şarj malzemesinin hazırlanması, ergitme ve tasfiye işlemleri, sıvı metalin potaya alınması ve sevkine ilişkin uygulamaları kapsar.",
+  "belge": "Örgün bir diploma yerine, işletme içi eğitim/sertifika veya usta yanında yetişme belgesi alınabilir. Metal ergitme ve döküm işleri, yüksek ısı ve ergimiş metalle çalışma içerdiğinden genellikle tehlikeli/çok tehlikeli işler kapsamında değerlendirilebilir; bu kapsamda Mesleki Yeterlilik Kurumu (MYK) Mesleki Yeterlilik Belgesi istihdamda tercih sebebi olabilir."
+ },
+ "gorevler": [
+  "İş sağlığı ve güvenliği konusundaki yasal ve işyerine ait kuralları uygular.",
+  "Kalite yönetim sistemi dokümanlarına uygun çalışır.",
+  "Çalışılan yeri düzenler.",
+  "Çalışma alet ve donanımının koruyucu ve talimatlı bakımlarını sağlar.",
+  "Çalışma öncesi hazırlık işlemlerini yapar.",
+  "İş organizasyonu yapar.",
+  "İzabe tesisi donanımları ve süreçle ilgili malzeme, alet ve ekipmanı kontrol ve takip eder.",
+  "Ergitme ocağı işlemlerini yapar.",
+  "Potayı, ergimiş metal ile doldurmaya hazırlar.",
+  "Metali ergitir.",
+  "Sıvı metal ile ilgili son işlemleri yapar.",
+  "Ergiyiğe, döküme gönderme öncesi son işlemleri uygular.",
+  "Sıvı metali sevk eder ve raporları hazırlar.",
+  "Mesleki gelişim faaliyetlerine katılır."
+ ],
+ "calisma_alanlari": "İzabeciler; demir-çelik, bakır, alüminyum, çinko, kurşun gibi metallerin cevherden veya hurdadan üretildiği izabe/ergitme tesislerinde, metal üretim fabrikalarında, döküm atölyelerinde ve hurda metal geri dönüşüm tesislerinde istihdam edilir. İş bulma olanakları, metal sanayisinin yoğunlaştığı organize sanayi bölgeleri ve kıyı sanayi tesislerinin bulunduğu illerde (Kocaeli, İskenderun, Karabük, Aliağa, Zonguldak vb.) daha fazladır. Sektördeki üretim hacmi ve yatırımlara bağlı olarak istihdam olanakları dönemsel olarak değişebilir.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğin örgün bir eğitim programı bulunmadığından, işbaşında eğitim alan ve deneyim kazanan kişiler genellikle çalıştıkları işletmenin ücret politikasına göre, çoğunlukla asgari ücret düzeyinde bir ücret alır.",
+  "egitim_sonrasi": [
+   "İlk işe girişte ücret genellikle asgari ücret düzeyindedir.",
+   "Kamu iktisadi teşekkülü niteliğindeki kuruluşlarda işçi statüsünde çalışanların ücreti toplu iş sözleşmesi hükümlerine göre belirlenir.",
+   "Özel sektörde deneyim, işletmenin büyüklüğü, üretilen metal türü ve vardiya/ocak başı sorumluluğuna bağlı olarak ücret artabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğin örgün eğitim içinde doğrudan bir ilerleme basamağı bulunmamaktadır. İlgilenenler, metalurji ve malzeme mühendisliği veya metal teknolojisi alanındaki mesleki ve teknik eğitim ile yükseköğretim programlarına yönelerek mesleki bilgi ve becerilerini geliştirebilir.",
+  "is_hayatinda": "Deneyim ve bilgi birikimine bağlı olarak ocak başı sorumluluğu, ekip/vardiya amirliği, ustabaşılık gibi görevlere yükselinebilir; yeterlilik ve liyakate göre daha üst düzey işletme/yönetim pozisyonlarına ilerleme mümkündür."
+ },
+ "benzer_meslekler": [
+  "Yüksek Fırın Kumanda Operatörü",
+  "Ark Ocağı Operatörü",
+  "Ark Ocağı Sorumlusu",
+  "Konverter Operatörü",
+  "Konverter Operatör Sorumlusu",
+  "Sürekli Döküm Ustası"
+ ],
+ "ek_bilgiler": "Metal ergitme ve döküm işleri, yüksek ısı, ergimiş metalle doğrudan çalışma ve ağır iş yükü içermesi nedeniyle genellikle tehlikeli/çok tehlikeli işler sınıfında değerlendirilmektedir; bu nedenle işe alımlarda sağlık raporu ve kişisel koruyucu donanım kullanımı önem taşır. Mesleğe örgün eğitim yoluyla değil, ağırlıklı olarak işbaşında usta yanında çalışılarak girilmektedir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T11:18:46",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6744
+  }
+ }
+}

@@ -1,0 +1,86 @@
+{
+ "arac_gerec": [
+  "Ampermetre, voltmetre, ohmmetre, multimetre gibi elektriksel ölçü aletleri",
+  "Röle test ve ayar cihazları (sekonder enjeksiyon test cihazı)",
+  "İzolasyon direnç ölçüm cihazı (megger)",
+  "Topraklama direnç ölçüm cihazı",
+  "Akım ve gerilim trafoları",
+  "Koruma röleleri (elektromekanik/dijital) ve kumanda panoları",
+  "Akü grubu ve şarj üniteleri",
+  "Kesici, kesici anahtar ve yardımcı kontak takımları",
+  "El takımları (tornavida, pense, kargaburnu, kontrol kalemi)",
+  "Kablo pabucu sıkma ve bağlantı takımları",
+  "Röle ayar ve programlama yazılımlarının yüklü olduğu bilgisayar",
+  "Topraklama ve kısa devre-topraklama ekipmanları",
+  "Kişisel koruyucu donanım (izolasyonlu eldiven, baret, yalıtkan ayakkabı, iş elbisesi)"
+ ],
+ "genel_ozellikler": [
+  "El ve göz koordinasyonu gelişmiş,",
+  "Dikkatli, tedbirli ve sabırlı,",
+  "Sorumluluk duygusu yüksek,",
+  "Elektrik ve elektronik konularına ilgili ve yetenekli,",
+  "Analitik düşünebilen ve problem çözme becerisine sahip,",
+  "Ekip halinde çalışmaya uyumlu,",
+  "Fiziksel olarak zorlu ve değişken koşullarda çalışmaya uygun"
+ ],
+ "calisma_ortami": "Röle Ölçü Aletleri Teknisyeni / Röle Görevlisi, elektrik dağıtım şebekesine ait trafo merkezleri, dağıtım merkezleri ve kök binalar gibi hem kapalı hem açık alanlarda görev yapar. Çalışma ortamı yüksek gerilim içeren pano ve teçhizatın bulunduğu, dikkat ve tedbir gerektiren bir ortamdır; zaman zaman farklı hava koşullarında, yüksekte veya yerleşim yerlerinden uzak sahalarda çalışılabilir. Elektrik çarpması gibi riskler nedeniyle iş güvenliği kurallarına ve kişisel koruyucu donanım kullanımına titizlikle uyulması gerekir.\n\nÇalışma saatleri genellikle düzenlidir ancak arıza giderme ve bakım çalışmaları gerektiğinde vardiyalı veya çağrı üzerine mesai dışı çalışmayı gerektirebilir. Görevini genellikle bir ekip içinde, diğer teknisyen ve mühendislerle iş birliği içinde yürütür; saha amirleri ve ilgili kurum personeli ile düzenli iletişim kurar.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin temel elektrik bilgi ve becerileri, mesleki ve teknik ortaöğretim kurumlarının Elektrik-Elektronik Teknolojisi alanındaki ilgili dallarında verilir. Röle ve koruma sistemleri, trafo ve pano bağlantıları gibi mesleğe özgü bilgi ve beceriler ise büyük ölçüde elektrik dağıtım şirketleri ve ilgili kamu kuruluşlarında işbaşında, deneyimli teknisyen ve mühendislerin gözetiminde kazandırılır. Ayrıca Halk Eğitim Merkezleri ile İŞKUR'un açtığı elektrik alanındaki mesleki eğitim kursları, bu mesleğe hazırlık için temel oluşturabilir.",
+  "giris_kosullari": [
+   "Ortaokulu tamamlamış olmak (mesleki ve teknik ortaöğretime giriş için)",
+   "Milli Eğitim Bakanlığınca belirlenen alan/dal giriş koşullarını taşımak",
+   "İstihdam edileceği işyeri/kurumun aradığı sağlık ve diğer şartları taşımak"
+  ],
+  "sure_ve_icerik": "Mesleki ve teknik ortaöğretimde Elektrik-Elektronik Teknolojisi alanına ait eğitim süresi 4 yıldır; 9. sınıfta ortak temel dersler, sonraki sınıflarda alana özgü meslek dersleri okutulur. Röle ayarları, koruma sistemleri, trafo ve kumanda panosu bağlantıları gibi mesleğe özgü uygulamalı bilgiler, çoğunlukla işbaşında, üretici firmaların cihaza özel eğitimleriyle ve kurumların hizmet içi eğitim programlarıyla kazandırılır.",
+  "belge": "Mesleki ve teknik ortaöğretimi tamamlayanlara diploma verilir. İşbaşı ve hizmet içi eğitimler sonunda kurum/kuruluşlarca katılım veya yeterlilik belgesi düzenlenebilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Röle Ölçü Aletleri Teknisyeni / Röle Görevlisi; elektrik dağıtım şirketlerinde, elektrik üretim ve iletim kuruluşlarında, organize sanayi bölgeleri ile büyük sanayi tesislerinin elektrik bakım birimlerinde ve trafo merkezlerinin işletilmesinden sorumlu kurum ve kuruluşlarda görev alabilir. Elektrik çarpması riski ve ağır fiziksel koşullar nedeniyle bu meslekte kadınların çalışma oranı düşüktür.",
+ "gorevler": [
+  "Çalışmaya başlamadan önce güvenlik önlemlerini alır, gerekli kontrolleri yapar.",
+  "Akım trafosu ile kumanda panosu kesici anahtar düğmeleri ve topraklama bağlantılarını yapar.",
+  "Akım trafosunun topraklama hattı bağlantısını ve kesici bağlantılarını yapar.",
+  "Kesici ile kesici anahtar panosu bağlantılarını yapar.",
+  "Gerilim trafosu topraklaması ile kumanda panosu bağlantılarını yapar.",
+  "Akü grubu ile röle cihazının bağlantılarını yapar.",
+  "Büyük güçteki (2,5 MVA ve üstü) trafolarda koruyucu röle bağlantılarını yapar.",
+  "Trafo içinde ve dışında oluşabilecek olumsuzluklara karşı koruma rölelerinin bağlantılarını yapar.",
+  "Alçak gerilim panosu ve kumanda panosunun bağlantılarını yapar.",
+  "Rölenin akım ayarlarını, arıza akım ayarlarını ve zaman ayarlarını elle veya bilgisayar ile yapar.",
+  "Yerleşim yerlerinden uzak kök binalarında tekrar kapama rölesi montajını yapar ve zaman ayarını yapar.",
+  "Kumanda panosu arızalarını giderir, arızalı olan parçaları yenisi ile değiştirir.",
+  "Kesiciye ait yardımcı kontak, açma-kapama bobini ve benzerinin arızalarını tespit eder, arızalı parçayı yenisi ile değiştirir.",
+  "Kumanda panosundaki röle, yardımcı röle, redresör, sinyal kutusu, ölçü aletleri, bobin, kesici anahtar vb. arızalarını tespit eder, arızalı olan parçayı yenisi ile değiştirir.",
+  "Arızalı aküleri yenisi ile değiştirir.",
+  "Mesleği ile ilgili gelişmeleri takip eder ve uygular.",
+  "İşçi sağlığı ve iş güvenliği ile ilgili kurallara uyar, uyulmasını sağlar.",
+  "Görev alanı ile ilgili konularda amirinin verdiği diğer işleri yapar."
+ ],
+ "kazanc": {
+  "egitim_suresince": "Mesleki ve teknik ortaöğretim kapsamında işletmelerde mesleki eğitim gören öğrencilere 3308 sayılı Mesleki Eğitim Kanunu hükümlerine göre ücret ödenir; öğrencilerin iş kazası ve meslek hastalıkları sigortası primleri devletçe karşılanır.",
+  "egitim_sonrasi": [
+   "Kamu kurum ve kuruluşlarında çalışanlar 657 sayılı Devlet Memurları Kanunu'na veya işçi statüsünde ise ilgili toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde ücret; işyerinin büyüklüğü, çalışanın deneyimi, bilgi ve becerisi ile sektörün ücret düzeyine göre karşılıklı anlaşma ile belirlenir; meslekte yeni başlayanlarda kazanç genellikle asgari ücret düzeyindedir ve deneyim arttıkça yükselebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleki ve teknik ortaöğretim kurumlarının Elektrik-Elektronik Teknolojisi alanından mezun olanlar, bu alanın devamı niteliğindeki yükseköğretim ön lisans programlarına (örneğin elektrik, elektrik-elektronik teknolojisi programları) YKS'de ek puan ve kontenjan avantajıyla yerleşebilir; başarılı oldukları takdirde ilgili lisans programlarına da devam edebilirler.",
+  "is_hayatinda": "Deneyim kazandıkça ekip lideri, ustabaşı veya saha sorumlusu gibi görevlere yükselebilir; röle ve koruma sistemleri, yüksek gerilim teçhizatı test ve bakımı gibi konularda uzmanlaşabilirler."
+ },
+ "benzer_meslekler": [
+  "Elektrik Dağıtım Şebekesi İşletme Bakım Teknisyeni",
+  "Elektrik Dağıtım Şebekesi Test Görevlisi",
+  "Elektrik Dağıtım Şebekesi Hat Bakım Görevlisi",
+  "Yüksek Gerilim Teçhizatı Test Elemanı",
+  "Yüksek Gerilim Teçhizatı Test Sorumlusu",
+  "Elektrik Tesisatları ve Dağıtımı Teknisyeni / Elektrik Teknisyeni"
+ ],
+ "ek_bilgiler": "Bu meslek, elektrik dağıtım şebekesinde yüksek gerilim içeren trafo, kesici ve pano gibi teçhizatla çalışmayı gerektirdiğinden tehlikeli/çok tehlikeli işler kapsamında değerlendirilebilir; bu nedenle işe alımda belirli sağlık raporu ve iş güvenliği eğitimi şartları aranabilir, Mesleki Yeterlilik Kurumu (MYK) belgesi de istihdamda tercih sebebi olabilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T09:04:17",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 7962
+  }
+ }
+}

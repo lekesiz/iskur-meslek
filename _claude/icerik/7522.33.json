@@ -1,0 +1,80 @@
+{
+ "arac_gerec": [
+  "Çivi çakma makinesi",
+  "Çivi tabancası (pnömatik)",
+  "Zımba tabancası",
+  "Kaynak makinesi (elektrik ark)",
+  "Cıvata-somun-rondela takımı",
+  "El aletleri (anahtar takımı, tornavida, pense)",
+  "Ölçü aletleri (metre, gönye)",
+  "Ahşap çıta ve kereste",
+  "Metal iskelet parçaları",
+  "Keçe malzemesi",
+  "Kompresör",
+  "Kişisel koruyucu donanım (iş eldiveni, koruyucu gözlük, kulaklık)",
+  "Taşıma arabası/el arabası"
+ ],
+ "genel_ozellikler": [
+  "El ve göz koordinasyonuna sahip,",
+  "Dikkatli ve tedbirli,",
+  "Makine ve aletlerle çalışmaktan hoşlanan,",
+  "Fiziksel olarak dayanıklı,",
+  "Düzenli ve sistemli çalışabilen,",
+  "Ekip çalışmasına uyumlu,",
+  "Sorumluluk sahibi,",
+  "İşçi sağlığı ve iş güvenliği kurallarına duyarlı"
+ ],
+ "calisma_ortami": "Çivi çakma makinesi operatörleri, mobilya iskeleti üreten fabrika ve atölyelerde, kapalı mekânda ayakta çalışır. Çalışma ortamı; çivi tabancası, zımba tabancası ve diğer makinelerin kullanımı nedeniyle gürültülü, ahşap işleme nedeniyle tozlu olabilir. Metal parça kesme, kaynak ve çivi tabancası kullanımı sırasında dikkat gerektiren iş güvenliği riskleri bulunur; bu nedenle kişisel koruyucu donanım kullanımı önemlidir.\n\nÇalışma genellikle işletmenin üretim programına göre belirlenen vardiyalar halinde ve tekrarlayan hareketlerle yürütülür. Meslek elemanı; aynı üretim hattında çalışan diğer operatörler, ustabaşı, kalite kontrol görevlileri ve işletme yöneticileriyle sürekli iletişim halindedir.",
+ "gorevler": [
+  "Makine ve malzemeleri kullanıma hazırlar.",
+  "Kullanılacak mobilya iskelet parçalarını ve diğer malzemeleri depodan temin eder.",
+  "Çivi çakma makinesini kullanıma hazırlar.",
+  "Metal mobilya iskeletlerini cıvata ve kaynak ile sabitler, montajlar.",
+  "İskelet yan klapalarına ahşap çıta yerleştirerek makineyle çivi ile çakar.",
+  "İskelet makaslarını iskelete yerleştirir ve sabitler.",
+  "Bazı ürünlerde iskelet üzerine keçe yerleştirir ve zımbalayarak sabitler.",
+  "Çalışma alanının genel temizliğini yapar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Bu mesleğe yönelik belirli bir okul türü veya örgün mesleki eğitim programı bulunmamaktadır. Meslek, genellikle mobilya iskeleti üreten işletmelerde işbaşında usta yanında yetişerek öğrenilir. Ayrıca Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kurslarında da ilgili temel beceriler kazanılabilmektedir.",
+  "giris_kosullari": [
+   "İlköğretim mezunu olmak,",
+   "Mesleğin gerektirdiği fiziksel koşullara (ayakta çalışma, el-kol kuvveti kullanma) sağlık durumunun uygun olması,",
+   "Makine ve aletlerle çalışmaya istekli olmak,",
+   "İşe alınacağı işletmenin belirlediği yaş ve sağlık koşullarını taşımak"
+  ],
+  "sure_ve_icerik": "Mesleğin eğitimi için belirli bir sınıf veya yıl süresi tanımlı değildir. İşbaşında eğitim süresi işletmeye ve kişinin önceki deneyimine göre değişmekle birlikte genellikle usta yanında birkaç ay süren uygulamalı bir eğitim sürecinde çivi çakma makinesinin kullanımı, metal iskelet montajı, kaynak ve vidalama işlemleri, ahşap çıta çakma ve keçe tutturma işlemleri öğretilir.",
+  "belge": "İşbaşında yetişenler, çalıştıkları işletme tarafından verilen hizmet/deneyim belgesi alabilir. Halk Eğitim Merkezleri veya İŞKUR kurslarına katılanlara kurs bitirme belgesi/sertifika verilir. Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Çivi çakma makinesi operatörleri; mobilya iskeleti üreten fabrika, atölye ve imalathanelerde çalışır. Bu işletmeler genellikle mobilya sanayi sitelerinde veya organize sanayi bölgelerinde yoğunlaşmıştır. Mobilya sektöründeki üretim hacmine ve işletmelerin ihtiyacına bağlı olarak istihdam olanakları değişebilir; deneyim ve referanslar iş bulmayı kolaylaştırır.",
+ "kazanc": {
+  "egitim_suresince": "Usta yanında işbaşı eğitimi alanlar, çalıştıkları işletmenin uygulamasına göre bir ücret alabilir; bu dönemde genellikle asgari ücret düzeyinde bir kazanç söz konusudur.",
+  "egitim_sonrasi": [
+   "İşe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Kazanç; çalışılan işletmenin büyüklüğü, kişinin deneyimi, bilgi ve becerisi ile sektörün ücret düzeyine göre değişebilir.",
+   "Özel sektörde çalışanların ücreti işveren ile yapılan anlaşmaya bağlıdır; kamuya bağlı işletmelerde işçi statüsünde çalışanlar için toplu iş sözleşmesi hükümleri uygulanır."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Bu meslekte örgün bir eğitim kademesi veya diploma ilerleme basamağı bulunmamaktadır. Kişiler, Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kurslarına katılarak bilgi ve becerilerini geliştirebilir, Mesleki Yeterlilik Kurumu (MYK) belgesi alarak yeterliliklerini belgeleyebilirler.",
+  "is_hayatinda": "Deneyim kazandıkça farklı makine ve montaj işlemlerinde uzmanlaşabilir; usta, formen veya vardiya/ekip sorumlusu gibi görevlere yükselebilirler. Üretim sürecinde kalite kontrol veya yeni personelin eğitimiyle görevlendirilme gibi sorumluluklar üstlenebilirler."
+ },
+ "benzer_meslekler": [
+  "Ahşap İskeletçi",
+  "Mobilya Montajcısı",
+  "Sandalye Monte İşçisi (Ağaç)",
+  "Helezon Yay Makinası Operatörü",
+  "Helezon Yay Dizgi Makinesi Operatörü",
+  "Ahşap Mobilya İmalatçısı"
+ ],
+ "ek_bilgiler": "",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T07:57:08",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5905
+  }
+ }
+}

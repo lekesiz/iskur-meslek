@@ -1,0 +1,80 @@
+{
+ "arac_gerec": [
+  "Bağ makası (üzüm kesme makası)",
+  "Budama makası ve testeresi",
+  "Aşı bıçağı/kalemi, aşı macunu ve parafin",
+  "Kazık ve bağlama teli",
+  "Bel, çapa ve toprak işleme el aletleri",
+  "İlaç püskürtme makinesi (pülverizatör)",
+  "Bitki koruma ilaçları ve uygulama ekipmanları",
+  "Organik ve kimyasal gübreler",
+  "Sulama ekipmanları (damla sulama boruları, hortum vb.)",
+  "Hasat sepetleri ve kasaları",
+  "El arabası ve taşıma ekipmanları",
+  "Koruyucu kıyafet, eldiven, maske ve gözlük"
+ ],
+ "genel_ozellikler": [
+  "Açık havada fiziksel olarak çalışmaya uygun ve dayanıklı,",
+  "El becerisine sahip,",
+  "Dikkatli ve sabırlı,",
+  "Bitki yetiştirmeye ilgili,",
+  "Mevsimlik ve yoğun çalışma temposuna uyum sağlayabilen,",
+  "İş sağlığı ve güvenliği kurallarına uyan,",
+  "Sorumluluk sahibi, düzenli ve sistemli çalışabilen,",
+  "Ekip çalışmasına uyumlu"
+ ],
+ "calisma_ortami": "Asma yetiştiricisi, açık arazide bağlarda görev yapar. Çalışma ortamı sıcak, güneşli, tozlu ve bazen nemli olabilir; işler genellikle ayakta, eğilerek ve gündüz saatlerinde yürütülür. Dikim, budama, aşılama ve özellikle hasat dönemlerinde çalışma yoğunluğu artar ve mevsimlik/geçici istihdam yaygındır.\n\nÇalışma esnasında dikkatli olunmadığında zirai ilaç kaynaklı zehirlenme, böcek sokması, güneş çarpması, bağ makası veya aşı bıçağı kaynaklı kesilme gibi kazalarla karşılaşılabilir. Bu mesleği yürütenler bağ/işletme sahipleri, diğer tarım işçileri, ziraat mühendisi ve teknisyenleri, tarımsal ilaç-gübre bayileri ve mevsiminde üzüm alıcıları/komisyoncuları ile iletişim kurar.",
+ "egitim": {
+  "verildigi_yerler": "Asma yetiştiriciliği için örgün mesleki ve teknik eğitim kurumlarında doğrudan ayrı bir alan/dal bulunmamaktadır. Meslek genellikle aile işletmelerinde veya bağcılık işletmelerinde usta yanında işbaşı eğitimiyle öğrenilir. Ayrıca Halk Eğitim Merkezleri, İl/İlçe Tarım ve Orman Müdürlükleri ile İŞKUR'un açtığı bağcılık, budama ve aşılama konulu kısa süreli mesleki eğitim kursları bilgi ve beceri kazandırabilir. Mesleki ve teknik ortaöğretimdeki bitkisel üretim/bahçe tarımı ile ilgili alanlardan mezun olmak da bu mesleğe yönelmeyi destekleyebilir.",
+  "giris_kosullari": [
+   "İlköğretim/ortaokul mezunu olmak (örgün bir dal şartı aranmaz)",
+   "Kurslara katılım için genellikle okuryazar olmak yeterli görülür",
+   "Açılan kursların belirlediği yaş ve sağlık koşullarını taşımak",
+   "Fiziksel olarak tarla/bağ işlerine uygun olmak"
+  ],
+  "sure_ve_icerik": "Doğrudan örgün bir 'Asma Yetiştiriciliği' alan/dalı bulunmadığından standart bir eğitim süresi ve müfredatı yoktur. Kurumlarca açılan kısa süreli kurslar genellikle birkaç hafta sürer ve toprak hazırlığı, dikim, budama, aşılama, sulama, gübreleme ve hastalık-zararlı mücadelesi konularını kapsar. Mesleğin büyük ölçüde işbaşında, usta yanında zaman içinde deneyimle kazanıldığı görülmektedir.",
+  "belge": "Kursları tamamlayanlara kurs bitirme belgesi/sertifika verilir. Örgün mesleki eğitimle kazanılan resmi bir diploma genellikle bulunmamaktadır. Mesleki Yeterlilik Kurumu (MYK) belgesi, varsa, istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Asma yetiştiricileri başta bağcılığın yoğun olarak yapıldığı bölgelerdeki bağ ve bahçe işletmelerinde, kendi bağlarını işleten çiftçiler yanında, tarımsal kooperatifler ve üretici birliklerine bağlı işletmelerde, üzüm ve bağ ürünlerine dayalı tarım işletmelerinde çalışma bulabilirler. Ayrıca mevsimlik olarak hasat, budama ve aşılama dönemlerinde geçici işçi olarak istihdam edilebilirler. İşini öğrenenler kendi bağlarını kurup işletebilir.",
+ "kazanc": {
+  "egitim_suresince": "Örgün bir mesleki eğitim programı bulunmadığından düzenli bir eğitim ücreti söz konusu değildir. Kısa süreli kurslarda genellikle ücret ödenmez; işbaşında usta yanında çalışılan dönemlerde ise günlük veya mevsimlik ücret alınabilir.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında işçi statüsünde çalışanlar, ilgili toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektör ve tarım işletmelerinde genellikle mevsimlik veya günlük ücretle çalışılır; ücret deneyime, işletmenin büyüklüğüne ve bölgeye göre değişmekle birlikte yeni başlayanlar için genellikle asgari ücret düzeyindedir.",
+   "Deneyim ve ihtisas kazanan, özellikle aşı ve budama konusunda usta işçiler daha yüksek ücret talep edebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Meslekte doğrudan örgün bir ilerleme basamağı bulunmamaktadır. İsteyenler mesleki ve teknik ortaöğretimin bitkisel üretim/bahçe tarımı ile ilgili alanlarına ya da tarım teknisyenliği/teknikerliği gibi ön lisans programlarına yönelerek mesleki bilgisini belgelendirebilir ve geliştirebilir.",
+  "is_hayatinda": "Deneyim kazanan asma yetiştiricileri usta işçi, bağ ustası veya işletme/ekip sorumlusu konumuna gelebilir. Yeterli birikim ve sermayeye sahip olanlar kendi bağlarını kurup işletebilir ya da bağcılık işletmesi açabilir."
+ },
+ "benzer_meslekler": [
+  "Çiftçi (Meyve Bahçesi, Üzüm Bağı, ilgili Ağaç ve Fidanlık Ürünleri)",
+  "Diğer Meyve Bahçesi, Üzüm Bağı, İlgili Ağaç ve Fidanlık İşçileri",
+  "Üzümsü Meyve Yetiştiricisi",
+  "Meyve Bahçesi İşçisi",
+  "Budamacı",
+  "Meyve Ağaçları Budamacısı"
+ ],
+ "ek_bilgiler": "Asma yetiştiriciliği, özellikle bağcılığın yoğun yapıldığı bölgelerde mevsimlik işgücü talebinin yüksek olduğu bir alandır. Hasat, budama ve aşılama dönemlerinde iş yoğunluğu artar; bu dönemler dışında istihdam azalabilir.",
+ "gorevler": [
+  "Meyve bahçesi işçisinde belirtilen benzer işleri yapar,",
+  "Özel bilgiye ihtiyaç gösteren üzüm asmalarını dikme ve yetiştirmede ihtisas sahibi olur,",
+  "Asmalar için kazık dikip telle bağlayarak asmaları desteklemek için gerekli olan diğer işleri yapar,",
+  "Toprağı havalandırmak için belleyip yabancı otları temizler,",
+  "Gücün dağılmasını önlemek için yeni filizleri eliyle kırar,",
+  "Budama ve aşılama yapar,",
+  "Hastalıklara ve haşerelere karşı ilaçlama yapar,",
+  "Olgunlaşan üzümleri bağ makası ile keserek toplar, sepetlere ve kasalara istifler,",
+  "Kullandığı ilaç püskürtme makinesi ve üzüm kesme makası gibi aletlerin bakımını yapar,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T20:34:48",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6163
+  }
+ }
+}

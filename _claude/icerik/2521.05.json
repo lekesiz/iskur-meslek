@@ -1,0 +1,73 @@
+{
+ "arac_gerec": [
+  "Bilgisayar ve sunucu sistemleri",
+  "ETL yazılımları ve platformları",
+  "Veritabanı yönetim sistemleri (RDBMS)",
+  "SQL sorgulama ve veri işleme araçları",
+  "Veri modelleme ve şema tasarım araçları",
+  "İş akışı otomasyon ve zamanlama (scheduler) araçları",
+  "Veri kalitesi ve doğrulama/test araçları",
+  "Bulut tabanlı veri depolama ve işleme platformları",
+  "Ağ ve bilgi güvenliği altyapısı",
+  "Raporlama ve dokümantasyon araçları",
+  "Sürüm kontrol sistemleri"
+ ],
+ "benzer_meslekler": [
+  "Veri Tabanı Yöneticisi",
+  "Veri Tabanı Analisti",
+  "Büyük Veri Uzmanı/Danışmanı",
+  "İş Zekası Uzmanı",
+  "Veri ve Bilgi Mühendisi",
+  "Veri Madenciliği Uzmanı/Danışmanı"
+ ],
+ "calisma_alanlari": "ETL Uzmanı/Danışmanı; kamu kuruluşları, özel sektör işletmeleri ve bağımsız danışman olarak çalışabilir. Bankacılık ve finans, e-ticaret, telekomünikasyon, sağlık, enerji, lojistik, perakende, sanayi ve bilişim sektörlerindeki kuruluşların bilgi işlem/bilgi teknolojileri departmanlarında; yazılım geliştirme, veri analitiği, iş zekası ve danışmanlık firmalarında istihdam edilebilir. Kurumların veri ambarı ve büyük veri projelerinde proje bazlı olarak da görev alabilir.",
+ "calisma_ortami": "ETL Uzmanı/Danışmanı, genellikle kapalı ortamda, büro veya bilgi işlem merkezi gibi ofis ortamlarında bilgisayar başında oturarak çalışır. Çalışma saatleri genellikle düzenlidir; ancak proje teslim tarihleri, sistem geçişleri veya veri aktarım süreçlerinde yoğunluk yaşandığında mesai saatleri uzayabilir. İşin niteliğine bağlı olarak esnek çalışma veya uzaktan çalışma olanağı bulunabilir.\n\nGörevlerini yerine getirirken veri mühendisleri, veritabanı yöneticileri, iş zekası uzmanları, yazılım geliştiriciler, sistem yöneticileri ve ilgili işletme birimleriyle sürekli iletişim ve koordinasyon içinde çalışır. Uzun süre ekran başında kalmak zamanla göz ve bel sağlığı açısından risk oluşturabilir; dikkat ve yoğunlaşma gerektiren bir meslektir.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi, üniversitelerin Bilgisayar Mühendisliği, Yazılım Mühendisliği, Bilgisayar Bilimleri, Yönetim Bilişim Sistemleri, Endüstri Mühendisliği gibi lisans programlarında verilmektedir. Bunun yanında, bilişim ve veri alanında açılan yüksek lisans programları ile üniversiteler ve çeşitli eğitim akademileri tarafından düzenlenen ETL araçları, veri ambarı ve veri mühendisliği konulu sertifika programları da mesleğe yönelik eğitim seçenekleri arasındadır.",
+  "giris_kosullari": [
+   "Lise ve dengi okuldan mezun olmak ve YKS sınavında ilgili lisans programına yerleşmeye yeterli puanı almak",
+   "Bazı üniversitelerde Bilgisayar Mühendisliği, Yazılım Mühendisliği, Bilgisayar Bilimleri, Yönetim Bilişim Sistemleri, İstatistik veya Endüstri Mühendisliği gibi bölümlerden mezun olmak işe giriş ve istihdamda tercih sebebidir",
+   "Sertifika programlarına katılabilmek için, programı düzenleyen kurumun belirlediği koşullara göre genellikle ilgili alanda lisans mezuniyeti veya temel düzeyde programlama ve veritabanı bilgisine sahip olmak gerekir"
+  ],
+  "sure_ve_icerik": "İlgili lisans programları 4 yıl sürmektedir. Eğitim süresince; programlama dilleri, veritabanı yönetim sistemleri, SQL ve veri modelleme, veri ambarı (data warehouse) kavramları, ETL süreçlerinin tasarımı ve otomasyonu, veri kalitesi ve veri güvenliği, büyük veri teknolojileri gibi konularda bilgi ve beceri kazandırılır. Mesleğe yönelik sertifika programları ise kullanılan ETL yazılımına ve kuruma göre birkaç haftadan birkaç aya kadar değişen sürelerde yürütülmektedir.",
+  "belge": "Lisans eğitimini tamamlayanlara ilgili bölümden \"Lisans\" diploması verilmektedir. Katılınan sertifika programları sonunda ise katılım veya başarı sertifikası verilmektedir."
+ },
+ "ek_bilgiler": "ETL (Extract, Transform, Load); farklı kaynaklardan toplanan verilerin ayıklanıp temizlenerek dönüştürülmesi ve veri ambarına yüklenmesi sürecidir. Bu süreç, kurumların büyük veri, iş zekası ve veriye dayalı karar alma uygulamalarının temelini oluşturur. Mesleki Yeterlilik Kurumu (MYK) belgesi veya belirli bir ETL yazılımına ilişkin üretici sertifikaları, istihdamda tercih sebebi olabilir ancak mesleğin icrası için yasal bir zorunluluk bulunmamaktadır.",
+ "genel_ozellikler": [
+  "Sayısal yetenek sahibi,",
+  "Dikkatli ve ayrıntılara özen gösteren,",
+  "Analitik düşünme ve problem çözme yeteneği olan,",
+  "Sistematik ve sabırlı çalışabilen,",
+  "Ekip çalışmasına uygun,",
+  "Yeni teknolojileri öğrenmeye açık,",
+  "Sorumluluk sahibi,",
+  "İletişim yeteneği güçlü,"
+ ],
+ "gorevler": [
+  "Veri kaynaklarını analiz ederek hedef veri modellerini oluşturur.",
+  "Veri temizleme ve dönüşüm kurallarını (mapping) tanımlar.",
+  "ETL iş akışlarını geliştirir ve otomatize eder.",
+  "Veri transfer süreçlerinin performansını izler ve optimize eder.",
+  "Veri bütünlüğü ve güvenliği testlerini gerçekleştirir.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "İlgili alanda yüksek lisans ve doktora yaparak akademik kariyer yapabilir veya veri mühendisliği, veri ambarı yönetimi, büyük veri gibi konularda uzmanlık sertifikaları alarak bilgi ve becerisini geliştirebilir.",
+  "is_hayatinda": "Deneyim kazandıkça kıdemli ETL uzmanı, veri mühendisliği ekip lideri, veri ambarı yöneticisi veya bilgi teknolojileri yöneticisi gibi pozisyonlara yükselme olanağına sahiptir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Lisans eğitimi süresince öğrenciler Kredi ve Yurtlar Genel Müdürlüğünün sağladığı öğrenim kredisi ve yurt hizmetlerinden yararlanabilir; ayrıca bazı üniversiteler burs imkânı sunabilir.",
+  "egitim_sonrasi": [
+   "Kamu kurum ve kuruluşlarında istihdam edilenler 657 sayılı Devlet Memurları Kanunu'na tabi olarak maaş alır",
+   "Özel sektörde yeni başlayanların kazancı genellikle asgari ücret düzeyinin üzerinde başlar; işyerinin büyüklüğü, kişinin bilgi ve deneyimi, çalıştığı sektör ile piyasa koşullarına göre değişiklik gösterir ve zamanla artış kaydedebilir"
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T06:06:04",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5875
+  }
+ }
+}

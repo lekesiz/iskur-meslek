@@ -1,0 +1,87 @@
+{
+ "arac_gerec": [
+  "Tıbbi atık taşıma kamyonu (özel donanımlı kapalı kasa araç)",
+  "Mobil terminal / el terminali (TKN-TDN eşleştirme ve kayıt için)",
+  "Radyoaktivite detektörü (ölçüm cihazı)",
+  "Araç üstü veya taşınabilir tartım/baskül sistemi",
+  "Kişisel koruyucu donanım (eldiven, maske, tulum, koruyucu bot, gözlük)",
+  "Tıbbi atık konteyner ve kapları",
+  "Tıbbi atık alındı belgesi ve ilgili evraklar",
+  "MOTAT (Mobil Atık Takip Sistemi) yazılımı",
+  "Ağır vasıta sürücü belgesi (C/E sınıfı ehliyet)",
+  "Araç arındırma/dezenfeksiyon ekipmanları",
+  "İlk yardım çantası",
+  "Yangın söndürme tüpü",
+  "Haberleşme cihazı (telsiz/telefon)"
+ ],
+ "genel_ozellikler": [
+  "Sorumluluk sahibi ve dikkatli,",
+  "Hijyen kurallarına duyarlı,",
+  "Bedensel ve sağlık açısından ağır vasıta kullanmaya uygun,",
+  "Dayanıklı ve tedbirli,",
+  "Araç kullanma becerisine sahip,",
+  "Kurallara ve mevzuata uyumlu,",
+  "Acil ve riskli durumlarda sakin ve hızlı karar verebilen,",
+  "Takım çalışmasına uyumlu"
+ ],
+ "calisma_ortami": "Tıbbi Atık Toplama ve Taşıma Kamyon Şoförü, görevini büyük ölçüde açık havada (karayolunda) ve kısmen kapalı alanlarda (sağlık kuruluşları, bertaraf tesisleri) yürütür. İş, araç içinde oturarak sürüş yapmanın yanı sıra atığın teslim alınması, tartılması, araca yüklenmesi ve boşaltılması sırasında ayakta ve bedensel güç gerektiren hareketlerle sürdürülür. Enfeksiyöz ve bazı durumlarda radyoaktif atıklarla temas riski bulunduğundan kişisel koruyucu donanım kullanımı ve hijyen kurallarına uyum büyük önem taşır.\n\nÇalışma genellikle tam gün esasına dayanır; toplama planına göre vardiyalı çalışma ve hafta sonu çalışması söz konusu olabilir. Meslek elemanı; sağlık kuruluşu personeli, bertaraf tesisi görevlileri, diğer şoförler ve amirleriyle sürekli iletişim halindedir. Trafik yoğunluğu, hava koşulları ve atık kaynaklı kaza/acil durum riskleri çalışma ortamının zorlayıcı unsurlarındandır.",
+ "gorevler": [
+  "Tıbbi atık taşıma kamyonunun gerekli kontrollerini yaptıktan sonra toplama planına göre tıbbi atığın teslim alınacağı atık üreticisi sağlık kuruluşuna gider.",
+  "Atık üreticisinin talebini kaydettikten sonra bu talebe ilişkin oluşan taşıma kontrol numarasını (TKN) ve taşıyıcı firmanın sisteminde oluşan taşıma doğrulama numarasını (TDN) mobil terminal üzerinden taşıma ekleme kısmına, doğruluğunu kontrol ederek girer ve eşleştirir.",
+  "Atığı teslim almadan önce tartım işlemi yapar.",
+  "Tıbbi atığı teslim almadan önce radyoaktif detektör ile radyoaktivite kontrolünü ve ölçümünü yapar.",
+  "Radyoaktivite ölçümü sonucunda içerisinde radyoaktif madde olduğu tespit edilirse atığı teslim almaz.",
+  "Atığı üreticiden teslim alırken, atık üreticisinde, taşıma işlemini yapan kuruluşta ve bertaraf tesisinde birer nüshası kalacak şekilde üç nüsha olan, atığın teslim ve tesliminin belgelenmesi amacıyla tıbbi atık alındı belgesi düzenler ve imzalar.",
+  "Tartımı gerçekleştirilen atığın miktar bilgisini MOTAT (Mobil Atık Takip Sistemi) üzerinden kaydeder ve taşımayı onaylar.",
+  "Atıkları araca yükler.",
+  "Atığı emniyetli bir şekilde bertaraf edileceği tesise götürür.",
+  "Atıklar bertaraf tesisine getirildikten sonra boşaltma işleminin gerçekleşebilmesi için tesis sisteminde oluşan Boşaltma Onaylama Numarasını (BON) talep eder.",
+  "Tekrar tartım yapar.",
+  "Atığı araçtan boşaltır.",
+  "Boşaltma işleminden sonra aracı arındırır.",
+  "Patolojik atıkları, atık yoğunluğuna göre belirli periyotlarla (ortalama yılda on iki kez olacak şekilde) bu atıkların bertarafını yapabilen tesise götürür.",
+  "Kaza ve acil durum hâlinde alınması gereken tedbirlere uyar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Tıbbi Atık Toplama ve Taşıma Kamyon Şoförlüğü için örgün bir okul eğitimi bulunmamaktadır. Meslek elemanları öncelikle ağır vasıta sürücü kursları aracılığıyla gerekli sürücü belgesini edinir; tıbbi atık taşımacılığına özgü bilgi ve beceriler ise genellikle işe girdikleri firma bünyesinde işbaşında usta yanında eğitim yoluyla veya ilgili kurum/kuruluşların düzenlediği kısa süreli iş sağlığı güvenliği ve mevzuat kurslarında kazanılır.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "C veya E sınıfı ağır vasıta sürücü belgesine (ehliyete) sahip olmak",
+   "Bedensel ve sağlık açısından ağır vasıta kullanmaya ve atık taşımacılığına uygun olmak",
+   "Sürücü belgesi mevzuatında belirtilen yaş şartını taşımak"
+  ],
+  "sure_ve_icerik": "Mesleğe özgü standart ve süresi belirlenmiş bir eğitim programı bulunmamaktadır. Adaylar önce ilgili ağır vasıta sürücü belgesini alır. İşe başladıktan sonra işveren bünyesinde; tıbbi atık yönetimi mevzuatı, radyoaktivite kontrolü, kişisel koruyucu donanım kullanımı, tartım ve belgeleme işlemleri, MOTAT sistemi kullanımı ile iş sağlığı güvenliği ve acil durum prosedürleri konularında uygulamalı olarak bilgilendirilir.",
+  "belge": "Ağır vasıta sürücü belgesi (C/E sınıfı ehliyet) ve çalıştığı kurum/firma tarafından verilen iş sağlığı güvenliği ile tıbbi atık mevzuatına ilişkin eğitim katılım belgesi."
+ },
+ "calisma_alanlari": "Bu meslek elemanları; tıbbi atık toplama ve taşıma hizmeti veren özel firmalarda, belediyelere bağlı çevre ve temizlik işletmelerinde, sterilizasyon/bertaraf tesisleri bünyesinde çalışabilirler. Hastane ve sağlık kuruluşu yoğunluğunun yüksek olduğu büyükşehirlerde ve tıbbi atık bertaraf tesisi bulunan illerde iş bulma olanağı daha fazladır.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğe yönelik örgün bir eğitim süreci bulunmadığından eğitim/kurs döneminde genellikle bir kazanç söz konusu değildir; işe alınan adaylar, işbaşı eğitim sürecinde çalıştıkları işletme tarafından ücretlendirilebilir.",
+  "egitim_sonrasi": [
+   "Kamuya bağlı işletmelerde işçi statüsünde çalışanlar toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde çalışanların ücreti işletmenin büyüklüğüne, deneyime ve çalışma koşullarına göre değişir; işe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Deneyim ve sorumluluk arttıkça ücret düzeyi de yükselebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Bu meslekte doğrudan bir örgün mesleki eğitim ilerleme basamağı bulunmamaktadır. Ağır vasıta sürücü belgesinin ek sınıflarının edinilmesi veya tehlikeli madde taşımacılığına ilişkin ek belge ve sertifikaların alınması mesleki yetkinliği artırabilir.",
+  "is_hayatinda": "Deneyim kazanan şoförler, zaman içinde ekip sorumlusu, saha/operasyon şefi veya araç filosu yöneticisi gibi görevlere yükselebilir. İsteyenler, kazandıkları ehliyet ve deneyimle diğer ağır vasıta şoförlüğü alanlarına geçiş yapabilir."
+ },
+ "benzer_meslekler": [
+  "Çöp Kamyonu Sürücüsü",
+  "Vidanjör Şoförü",
+  "Kara Tankeri Operatörü (Tehlikeli Madde Taşımacılığı)",
+  "Arazöz Şoförü",
+  "Kamyon Şoförü",
+  "Tır-Çekici Şoförü"
+ ],
+ "ek_bilgiler": "Tıbbi atık taşımacılığı, ilgili çevre mevzuatı kapsamında özel izin/lisansa tabi araçlarla yürütülen, enfeksiyon ve kaza riski taşıyan bir meslektir; bu nedenle kişisel koruyucu donanımın eksiksiz kullanılması ve hijyen kurallarına titizlikle uyulması büyük önem taşır. Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda tercih sebebi olabilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T18:28:49",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 7702
+  }
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "arac_gerec": [
+  "Kazma, kürek, balyoz gibi el aletleri",
+  "Matkap ve delme ekipmanları",
+  "Kafa lambası ve aydınlatma cihazları",
+  "Kişisel koruyucu donanım (baret, maske, eldiven, iş elbisesi, çelik burunlu bot)",
+  "Takım ve malzeme rafları, dolaplar",
+  "Stok takip defteri/kayıt formları",
+  "Etiketleme ve envanter malzemeleri",
+  "El arabası ve taşıma ekipmanları",
+  "Basit bakım-onarım el aletleri",
+  "Yangın söndürme tüpü gibi acil durum ekipmanları"
+ ],
+ "genel_ozellikler": [
+  "Düzenli ve organize,",
+  "Sorumluluk sahibi,",
+  "Dikkatli ve tedbirli,",
+  "Fiziksel olarak dayanıklı,",
+  "El becerisine sahip,",
+  "İşçi sağlığı ve iş güvenliği kurallarına duyarlı,",
+  "Ekip çalışmasına uyumlu,",
+  "Kayıt tutabilen ve basit hesaplama yapabilen"
+ ],
+ "calisma_ortami": "Takımcı - Maden, yeraltı veya yerüstü maden ocaklarına bağlı takım ve malzeme deposunda (takım odası) görev yapar. Çalışma ortamı kapalı, bazen dar, tozlu ve nemli olabilir; yeraltı işletmelerinde sınırlı aydınlatma ve havalandırma koşulları söz konusudur. Çalışma genellikle vardiyalı düzende sürdürülür ve ocağın üretim temposuna bağlı olarak gece çalışması gerekebilir.\n\nMeslek elemanı görevini genellikle tek başına yürütse de vardiya öncesinde ve sonrasında ocak işçileri, vardiya amirleri ve bakım-onarım elemanlarıyla sürekli iletişim halindedir. Maden ocağı ortamının taşıdığı düşme, sıkışma, toz ve kimyasal maruziyet gibi riskler nedeniyle kişisel koruyucu donanımın eksiksiz kullanılması ve iş güvenliği kurallarına titizlikle uyulması gerekir.",
+ "gorevler": [
+  "Kazma, kürek, matkap ve lamba gibi takımları hazır tutar,",
+  "Arızalı aletleri onarıma gönderir veya yenisini temin eder,",
+  "Vardiya öncesi malzeme dağıtımını ve kayıtlarını yapar,",
+  "Sarf malzemelerinin (maske, eldiven vb.) stok takibini yürütür,",
+  "Takım odasının düzenini ve güvenliğini sağlar,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Mesleğe özgü, örgün eğitim kurumlarında (meslek lisesi/mesleki eğitim merkezi) tanımlanmış ayrı bir çıraklık dalı bulunmamaktadır. Mesleğin gerektirdiği bilgi ve beceri genellikle işbaşında, deneyimli işçi veya ustaların gözetiminde kazanılır. İşe giriş öncesinde işletmelerin kendi bünyesinde düzenlediği oryantasyon eğitimleri ile Halk Eğitim Merkezleri ve İŞKUR'un açtığı iş sağlığı ve güvenliği/madencilik konulu mesleki eğitim kursları da bu alanda bilgi edinmeyi destekler.",
+  "giris_kosullari": [
+   "İlköğretim (ilkokul/ortaokul) mezunu olmak",
+   "18 yaşını doldurmuş olmak (madencilik faaliyetlerinin tehlikeli ve çok tehlikeli işler kapsamında değerlendirilmesi nedeniyle)",
+   "Sağlık durumunun maden ocağı çalışma koşullarına uygun olduğunun sağlık raporuyla belgelenmesi"
+  ],
+  "sure_ve_icerik": "Mesleğe özgü belirli bir süresi ve müfredatı olan örgün bir eğitim programı bulunmamaktadır. İşe başlamadan önce iş sağlığı ve güvenliği, temel madencilik bilgisi, yangından korunma ve ilk yardım gibi konularda kısa süreli zorunlu eğitimler alınır; mesleğin ayrıntıları ise işbaşında, deneyimli çalışanların rehberliğinde öğrenilir.",
+  "belge": "Katılınan iş sağlığı ve güvenliği eğitimleri sonunda katılım belgesi alınır. Ayrı bir diploma veya ustalık belgesi söz konusu değildir. Mesleki Yeterlilik Kurumu (MYK) belgesi, madencilik sektöründeki bazı ilgili görevler için istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Takımcı - Maden, kamuya veya özel sektöre ait kömür, metal ve diğer maden ocakları ile taş ocağı işletmelerinin takım ve malzeme depolarında çalışır. İş bulma olanakları, bulunduğu bölgedeki maden işletmelerinin faaliyet yoğunluğuna ve sektörün üretim hacmine bağlı olarak değişmektedir. Kömür havzaları ve maden işletmelerinin yoğun olduğu bölgelerde istihdam olanağı daha fazladır.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğe özgü örgün bir eğitim süreci bulunmadığından ayrı bir öğrencilik dönemi kazancı söz konusu değildir. İşe alınan kişi, deneme veya oryantasyon sürecinde işletmenin ücret politikasına göre ücretlendirilir.",
+  "egitim_sonrasi": [
+   "Kamuya ait maden işletmelerinde işçi statüsünde çalışanlar toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde kazanç; işyerinin büyüklüğü, kişinin tecrübesi ve sektörün o dönemdeki ücret düzeyine göre değişmekte olup yeni başlayanlarda genellikle asgari ücret düzeyindedir.",
+   "Madencilik sektöründeki çalışma koşulları nedeniyle bazı işletmelerde ek ödemeler (prim, tazminat vb.) söz konusu olabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğe özgü örgün bir eğitim kademesi bulunmadığından, kişi isterse iş sağlığı ve güvenliği, depo/stok yönetimi veya madencilik alanında açılan kurs ve sertifika programlarına katılarak bilgi ve becerilerini geliştirebilir.",
+  "is_hayatinda": "Deneyim ve bilgi birikimi arttıkça ocak başçılığı, vardiya amiri yardımcılığı veya depo/ambar sorumluluğu gibi görevlere yönelmek; ilgi ve eğitimle iş güvenliği gibi alanlarda uzmanlaşmak mümkündür. Meslekte ilerleme büyük ölçüde işletmenin politikasına ve kişinin kendi performansına bağlıdır."
+ },
+ "benzer_meslekler": [
+  "Takımcı - Taşocağı",
+  "Diğer Madenciler ve Taş Ocakçılar (Nitelik Gerektirmeyen)",
+  "Maden Arama Yardımcı Elemanı",
+  "Direkçi - Maden",
+  "Vagoncu - Maden"
+ ],
+ "ek_bilgiler": "Madencilik faaliyetleri, 6331 sayılı İş Sağlığı ve Güvenliği Kanunu kapsamında \"çok tehlikeli işler\" sınıfında değerlendirilmektedir; bu nedenle bu meslekte çalışanların periyodik sağlık muayeneleri ve düzenli iş güvenliği eğitimleri almaları yasal bir gerekliliktir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T19:49:54",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5897
+  }
+ }
+}

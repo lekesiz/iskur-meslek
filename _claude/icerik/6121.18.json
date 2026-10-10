@@ -1,0 +1,79 @@
+{
+ "arac_gerec": [
+  "Ahır, padok ve barınak ekipmanları",
+  "Yemlik ve suluklar",
+  "Yem karma ve dağıtma makineleri",
+  "Sağım makinesi ve süt soğutma tankı",
+  "Süt analiz ve ölçüm araçları",
+  "Hayvan kulak küpesi ve kayıt malzemeleri",
+  "Dezenfeksiyon ve temizlik malzemeleri",
+  "Gübre temizleme ekipmanları (kürek, traktör ataşmanları)",
+  "Veteriner ilk yardım ve ilaçlama malzemeleri",
+  "Termometre ve vücut sıcaklığı ölçüm araçları",
+  "Koruyucu kıyafet, çizme ve eldiven",
+  "Silaj/yem hazırlama makineleri",
+  "Taşıma ve nakliye araçları (traktör, römork)"
+ ],
+ "genel_ozellikler": [
+  "Hayvanları seven ve onlarla ilgilenmekten hoşlanan,",
+  "Fiziksel olarak dayanıklı ve güçlü,",
+  "Sabırlı, dikkatli ve sorumluluk sahibi,",
+  "Gözlem yeteneği gelişmiş,",
+  "Açık havada ve zor hava koşullarında çalışmaya istekli,",
+  "El becerisine sahip,",
+  "Düzenli, planlı ve disiplinli çalışabilen,",
+  "Erken saatlerde ve uzun süre çalışmaya uygun"
+ ],
+ "calisma_ortami": "Süt sığırı yetiştiricisi, genellikle kırsal alanlarda bulunan çiftlik ve ahırlarda, hem kapalı hem de açık alanlarda çalışır. Çalışma ortamı gübre, yem ve hayvan kokusu içerir; toz, nem ve sıcaklık değişimlerine açıktır. İş, ayakta durmayı, eğilmeyi ve fiziksel güç gerektiren hareketleri içerir; hayvan ısırması, tekmelemesi veya zoonotik hastalıklara maruz kalma gibi riskler bulunabilir.\n\nÇalışma saatleri hayvanların bakım ve sağım ihtiyaçlarına bağlı olarak sabah erken saatlerden başlar, günün farklı zamanlarına yayılır ve genellikle hafta sonu tatili içermez; hayvanların günlük bakımı sürekliliği gerektirir. Çalışırken işletme sahibi, diğer çiftlik çalışanları, veteriner hekimler ve süt toplama/satış firmalarıyla iletişim kurar.",
+ "gorevler": [
+  "Yem bitkilerini yetiştirir.",
+  "Süt sığırı çiftliklerini planlar.",
+  "Süt sığırı çiftliğinde alet ve ekipmanları kullanır.",
+  "Süt sığırlarını besler.",
+  "Süt sığırlarında sürüyü yönetir.",
+  "Süt sığırlarında sağlıklı ve kaliteli süt üretir.",
+  "Süt sığırı hastalıklarını bilir, hastalıklara karşı koruyucu önlemleri alır.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Süt sığırı yetiştiriciliği için örgün bir meslek lisesi veya yükseköğretim programı zorunlu değildir; meslek genellikle işbaşında usta yanında veya aile işletmesinde öğrenilir. Bilgi ve becerilerin geliştirilmesi amacıyla Halk Eğitim Merkezleri, İl/İlçe Tarım ve Orman Müdürlükleri ile İŞKUR tarafından açılan hayvancılık ve sürü yönetimi kurslarından yararlanılabilir. İsteyenler tarım meslek liselerinin hayvancılık alanlarında veya üniversitelerin ziraat fakültelerinin zootekni bölümlerinde daha ileri düzey teknik eğitim alabilir.",
+  "giris_kosullari": [
+   "En az ilkokul/ilköğretim mezunu olmak",
+   "Kursu düzenleyen kurumun belirlediği yaş ve sağlık koşullarını taşımak",
+   "Hayvancılığa ilgi duymak ve fiziksel olarak uygun olmak"
+  ],
+  "sure_ve_icerik": "Hayvancılık kurslarının süresi düzenleyen kuruma göre değişmekle birlikte genellikle birkaç gün ile birkaç ay arasında sürer. İçerikte süt sığırı besleme ve sürü yönetimi, sağım teknikleri ve hijyen, hastalıklardan korunma, damızlık seçimi ve barınak düzenlemeleri gibi konular yer alır. Uygulamalı eğitim, işletmelerde veya çiftliklerde fiilen çalışarak da kazanılır.",
+  "belge": "Kurs sonunda katılım veya başarı belgesi verilir. Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir; mesleğe girişte zorunlu bir diploma veya sertifika bulunmamaktadır."
+ },
+ "calisma_alanlari": "Süt sığırı yetiştiricileri; özel süt sığırcılığı çiftliklerinde, kendi işletmelerinde, tarımsal kalkınma kooperatiflerine bağlı çiftliklerde ve büyük entegre süt üretim tesislerinde çalışabilir. Ayrıca damızlık yetiştiriciliği yapan işletmelerde, besi çiftliklerinde ve kırsal kalkınma projeleri kapsamındaki tarım işletmelerinde istihdam edilebilirler. Birçok kişi bu mesleği kendi aile işletmesinde serbest olarak sürdürmektedir.",
+ "kazanc": {
+  "egitim_suresince": "Hayvancılık kursları genellikle ücretsizdir; İŞKUR tarafından düzenlenen kurslara katılanlara kursiyer harçlığı ödenebilir.",
+  "egitim_sonrasi": [
+   "Bir işletmede ücretli olarak çalışmaya başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Kendi işletmesini kuranların kazancı sürü büyüklüğü, süt verimi, yem maliyetleri ve piyasa fiyatlarına göre değişkenlik gösterir.",
+   "Deneyim, işletme büyüklüğü ve verimlilik arttıkça kazanç düzeyi yükselebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Deneyim kazandıkça ve ilgili kurs/sertifika programlarına katılarak hayvan besleme, sürü yönetimi, veteriner hijyen ve süt kalitesi konularında bilgi ve beceriler geliştirilebilir. İsteyenler tarım meslek liselerinde veya üniversitelerin zootekni/ziraat bölümlerinde eğitim alarak teknik eleman, ziraat teknisyeni veya ziraat mühendisi olabilir.",
+  "is_hayatinda": "Deneyim kazanan süt sığırı yetiştiricileri büyük işletmelerde sürü yöneticisi veya işletme sorumlusu konumuna yükselebilir, usta başı olarak görev alabilir. Zamanla sermaye biriktirerek kendi çiftliğini kurabilir veya mevcut işletmesini büyütebilir."
+ },
+ "benzer_meslekler": [
+  "Sığır Yetiştiricisi",
+  "Manda Yetiştiricisi",
+  "Çiftçi (Hayvancılık)",
+  "Sağım İşçisi (Makine İle)",
+  "Sağım İşçisi (Elle)",
+  "Süthane İşçisi",
+  "Çoban/Sürü Yönetim Elemanı (Büyükbaş Hayvan)"
+ ],
+ "ek_bilgiler": "Süt sığırı yetiştiriciliği yapan işletmelerin, hayvan kayıt ve sağlık takip sistemlerine (TÜRKVET gibi) kayıt yaptırması ve dönemsel veteriner kontrollerine uyması gerekebilir. Tarım ve Orman Bakanlığı tarafından sağlanan hayvancılık destekleri ve hibe programları, mesleği sürdürenler için önemli bir gelir katkısı sağlayabilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T21:40:34",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5233
+  }
+ }
+}

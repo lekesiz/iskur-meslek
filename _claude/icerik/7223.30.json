@@ -1,0 +1,82 @@
+{
+ "gorevler": [
+  "İmal edilecek parçanın proje ve diğer şartnamelerini inceler.",
+  "Civatalar, klempler veya diğer aletler yardımıyla metali doğru olarak tezgahın tablasına bağlar.",
+  "Gerekli freze bıçağını seçerek tezgaha tespit eder.",
+  "Freze bıçağını metale veya metali freze bıçağına daldırmak üzere tezgahı el çarkları ile veya otomatik kontrol ayarlarını yaparak çalıştırır.",
+  "Freze bıçağına akıtılan yağın miktarını kontrol eder.",
+  "Gerektiğinde freze bıçağının ve metalin durumunu değiştirir.",
+  "Ölçme aletleri yardımıyla talaş alma işleminin seyrini kontrol eder ve parçanın doğru bir şekilde işlenmesi için gerekli ayarları yapar.",
+  "Tezgahı bir operatör tarafından çalıştırılmak üzere ayarlar.",
+  "Belirli tipteki bir freze tezgahında (profil tezgahı gibi) ihtisaslaşabilir.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "arac_gerec": [
+  "Freze tezgahı (konvansiyonel/üniversal)",
+  "Çeşitli tip ve ölçülerde freze bıçakları (kesiciler)",
+  "Metali tablaya bağlamak için civata, klemp ve bağlama aparatları",
+  "Mengene ve özel tutucular",
+  "Kumpas, mikrometre gibi ölçme aletleri",
+  "Mastar ve şablonlar",
+  "Komparatör",
+  "Kesme/soğutma sıvısı ve yağlama sistemi",
+  "Tezgah el çarkları ve kontrol panosu",
+  "Basınçlı hava tabancası (talaş temizleme)",
+  "Tork anahtarı ve el takımları",
+  "İş ve montaj resimleri, teknik şartnameler",
+  "Kişisel koruyucu donanım (gözlük, eldiven, iş elbisesi)"
+ ],
+ "genel_ozellikler": [
+  "Şekilleri doğru algılayan ve zihinde canlandırabilen,",
+  "El becerisine sahip,",
+  "El ve gözünü eşgüdümle kullanabilen,",
+  "Dikkatli ve sabırlı,",
+  "Ölçme ve hesaplama becerisine sahip,",
+  "Sorumluluk bilinci gelişmiş,",
+  "Alet ve makinelerle çalışmaktan hoşlanan,",
+  "Fiziksel olarak dayanıklı"
+ ],
+ "calisma_ortami": "Freze tezgahı ayarcı-operatörü, genellikle fabrika veya atölye ortamında, kapalı mekânda ve ayakta çalışır. Çalışma ortamında tezgah gürültüsü, yağ ve talaş kirliliği bulunabilir; metal parçalar ve kesici takımlarla çalışırken yaralanma riskine karşı dikkatli olmak ve kişisel koruyucu donanım kullanmak gerekir. İşletmenin üretim programına göre vardiyalı çalışma söz konusu olabilir.\n\nMeslek genellikle tezgah başında bağımsız biçimde yürütülür; işbaşı ve tezgah ayarları için teknik resim ve şartnameler üzerinden mühendis, teknisyen veya usta ile, üretim akışı için ise diğer tezgah operatörleri ve kalite kontrol personeli ile kısa süreli iletişim kurulur.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi, yeterli talep olması durumunda Mesleki Eğitim Merkezlerinde Metal Teknolojisi alanı kapsamındaki ilgili dallarda çıraklık eğitimi şeklinde verilebilmektedir. Ayrıca mesleğe, Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kursları ile işyerlerinde işbaşında usta yanında yetişerek de girilebilmektedir. Mesleğin gerektirdiği minimum eğitim düzeyi ilköğretimdir.",
+  "giris_kosullari": [
+   "En az ilkokul/ortaokul mezunu olmak",
+   "14 yaşını doldurmuş olmak",
+   "Mesleğin öğrenimine sağlık durumunun elverişli olması (gerektiğinde sağlık raporuyla belgelenir)",
+   "Çıraklık eğitimi için eğitim görülecek işyeri bulunması ve işveren ile çıraklık sözleşmesi imzalanması",
+   "Kurs yoluyla eğitimde ilgili kurumun belirlediği yaş ve öğrenim şartlarını taşımak"
+  ],
+  "sure_ve_icerik": "Mesleki Eğitim Merkezi yoluyla eğitimde süre, ilgili dalın müfredatına göre genellikle kalfalık ve ustalık eğitimini kapsayacak şekilde birkaç yıl sürer; eğitim haftada belirli gün sayısı merkezde teorik ders, kalan günlerde işyerinde usta öğretici gözetiminde uygulamalı çalışma şeklinde yürütülür. Eğitimde freze tezgahının tanıtımı, kesici takımların seçimi ve bağlanması, iş parçasının tespiti, teknik resim okuma, ölçme ve kontrol teknikleri, yağlama ve soğutma sıvısı kullanımı, iş sağlığı ve güvenliği ile mesleki ahlak konuları işlenir. Kurs yoluyla eğitimde ise süre kursun içeriğine göre değişmekte olup daha kısa, yoğunlaştırılmış bir programla temel beceriler kazandırılır. Mesleğe işbaşında usta yanında çalışarak da yetişilebilir.",
+  "belge": "Mesleki Eğitim Merkezi yoluyla eğitimi tamamlayanlara kalfalık ve ardından ustalık belgesi, fark derslerinin tamamlanması halinde meslek lisesi diploması verilir. Kurs yoluyla eğitim alanlara kurs bitirme/katılım belgesi verilir. Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Freze tezgahı ayarcı-operatörleri başta metal işleme ve makine imalat fabrikaları ile atölyeleri, otomotiv yedek parça üretimi, tarım makineleri, kalıp imalatı, makine ve teçhizat üretimi yapan işletmeler olmak üzere metal parça işleme gerektiren her tür özel sektör işletmesinde istihdam edilebilir. Çalışma alanı büyük ölçüde özel sektöre dayalıdır; kamu kuruluşlarının bakım-onarım atölyelerinde de ihtiyaç duyulabilir. Konvansiyonel freze tezgahlarının yanı sıra CNC freze tezgahlarının yaygınlaşması, mesleğin istihdam yapısını ve aranan beceri profilini etkilemektedir.",
+ "kazanc": {
+  "egitim_suresince": "3308 sayılı Mesleki Eğitim Kanunu kapsamında işletmelerde mesleki eğitim gören öğrencilere yasal düzenlemelerle belirlenen bir ücret ödenir; öğrencilerin iş kazası ve meslek hastalığı sigortası devletçe karşılanır ve işletmenin sosyal imkânlarından yararlanabilirler. Kurs yoluyla eğitimde ise genellikle ücret ödenmez; işbaşında usta yanında yetişenlere ise işveren ile yapılan anlaşmaya göre ücret verilebilir.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Deneyim, uzmanlaşma (örneğin CNC freze bilgisi) ve çalışılan işletmenin büyüklüğüne bağlı olarak kazanç artabilir.",
+   "Özel sektörde ücret, işveren ile çalışan arasındaki anlaşmaya, tecrübeye ve işletme koşullarına göre değişir; kamu kuruluşlarında çalışanlar ise 657 sayılı Devlet Memurları Kanunu veya ilgili toplu iş sözleşmesi hükümlerine göre ücret alır."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleki Eğitim Merkezinden diploma alarak mezun olanlar, alanın/bölümün devamı niteliğindeki ve ilgili yükseköğretim kılavuzlarında belirtilen ön lisans/lisans programlarını tercih ettiklerinde sınavsız geçiş veya ek puan hakkından yararlanabilir. Ayrıca kişi, isterse Metal Teknolojisi alanında farklı tezgah tiplerinde (CNC freze, torna vb.) ek eğitim ve kurslarla uzmanlığını genişletebilir.",
+  "is_hayatinda": "Deneyim ve beceri kazandıkça kalfalıktan ustalığa, ardından tezgah ayarcılığına ve ekip/vardiya sorumluluğuna geçilebilir. Zaman içinde atölye şefliği, üretim planlama veya kalite kontrol gibi görevlere yönelinebilir. Konvansiyonel freze bilgisi üzerine CNC freze operatörlüğü eğitimi alarak daha ileri teknolojili tezgahlarda çalışma imkânı elde edilebilir. Yeterli sermaye ve tecrübe ile kendi atölyesini açma imkânı da bulunmaktadır."
+ },
+ "benzer_meslekler": [
+  "CNC Freze Tezgahı Operatörü",
+  "Frezeci",
+  "Metal İşleme Tezgahı Ayarcısı",
+  "Metal İşleme Tezgâhları Ayarcı-Operatörleri",
+  "Matkap Tezgahı Ayarcı-Operatörü (Metal İşçiliği)",
+  "Planya Tezgâhı Ayarcı-Operatörü (Metal İşçiliği)"
+ ],
+ "ek_bilgiler": "Teknolojik gelişmelerle birlikte konvansiyonel freze tezgahlarının yerini giderek CNC freze tezgahları almaktadır; bu nedenle konvansiyonel tezgah bilgisinin yanında CNC bilgisi edinmek, istihdam olanaklarını artırabilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T01:37:20",
+  "usage": {
+   "input_tokens": 4,
+   "output_tokens": 11357
+  }
+ }
+}

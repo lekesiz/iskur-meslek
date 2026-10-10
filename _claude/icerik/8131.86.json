@@ -1,0 +1,74 @@
+{
+ "arac_gerec": [
+  "Titrasyon düzeneği (büret, erlen, pipet)",
+  "Hassas terazi",
+  "pH metre",
+  "Numune alma kapları ve numune şişeleri",
+  "Beher, balon joje ve ölçü kapları",
+  "Köpük testi için ölçüm silindirleri/cihazları",
+  "Spektrofotometre veya benzeri analiz cihazları",
+  "Reaktif ve çözelti kimyasalları",
+  "Deterjan üretim/karıştırma tankları",
+  "Dolum ve paketleme hattı ekipmanları",
+  "Etiketleme ve kayıt formları",
+  "Kişisel koruyucu donanım (eldiven, gözlük, maske, önlük)"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve titiz,",
+  "Sorumluluk duygusu yüksek,",
+  "Analitik düşünebilen ve sayısal işlemlere yatkın,",
+  "El becerisine sahip,",
+  "Kimyasal maddelerle çalışmaya uygun sağlık durumuna sahip,",
+  "Ekip çalışmasına uyumlu,",
+  "Düzenli ve temiz çalışmaya özen gösteren,",
+  "Talimat ve standart prosedürlere uyabilen,"
+ ],
+ "calisma_ortami": "Deterjan üretim işçisi, deterjan ve temizlik ürünleri üreten fabrikalarda, genellikle üretim hattına bağlı kalite kontrol/laboratuvar bölümlerinde çalışır. Çalışma ortamı kapalı mekanlardır; kimyasal maddeler, çözeltiler ve bazı durumlarda tahriş edici veya kokulu maddelerle temas söz konusu olabileceğinden kişisel koruyucu donanım kullanımı önemlidir. Ortam genellikle orta düzeyde gürültülü olabilir, iş büyük ölçüde ayakta ve hareketli olarak, bazen vardiya usulü yürütülür.\n\nMeslek elemanı, üretim ve kalite kontrol süreçlerinde diğer üretim çalışanları, vardiya amirleri ve kalite kontrol sorumluları ile sürekli iletişim halindedir. Analiz ve tayin işlemleri sırasında dikkat ve özen gerektiren, tekrarlanan işlemlerin doğru ve standartlara uygun şekilde yapılması beklenir.",
+ "calisma_alanlari": "Mesleğin gerektirdiği bilgi ve becerilere sahip kişiler; deterjan, temizlik ürünleri, çamaşır suyu ve benzeri kimyasal ürünleri üreten fabrikaların üretim ve kalite kontrol/laboratuvar bölümlerinde istihdam edilebilirler. İş bulma olanakları, bu tür üretim tesislerinin bulunduğu sanayi bölgelerinde ve organize sanayi sitelerinde daha fazladır.",
+ "ek_bilgiler": "Deterjan üretiminde kullanılan kimyasal maddelerle (klor, fosfat, silikat vb.) çalışıldığından iş sağlığı ve güvenliği kurallarına ve kişisel koruyucu donanım kullanımına dikkat edilmesi önemlidir. Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda tercih sebebi olabilir.",
+ "gorevler": [
+  "Deterjanlarda klorür tayini yapar.",
+  "Deterjanlarda köpük tayini yapar.",
+  "Deterjanda suda çözünmeyen madde tayini yapar.",
+  "Toz deterjanda fosfat ve silikat tayini yapar.",
+  "Çamaşır suyunda klor tayini yapar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Deterjan üretim işçiliğine yönelik resmi olarak tanımlanmış, örgün bir meslek eğitimi programı bulunmamaktadır. Mesleğe genellikle işletme içinde işbaşında usta yanında veya işletmenin düzenlediği iç eğitimler yoluyla girilmektedir. Halk Eğitim Merkezleri ve İŞKUR tarafından açılan kimya/laboratuvar ile ilgili mesleki eğitim kursları da bu alana hazırlık bakımından destekleyici olabilir. Mesleki ve teknik eğitim okullarının kimya teknolojisiyle ilişkili alanlarında alınan eğitim de mesleğe geçişi kolaylaştırabilir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak (mesleğin gerektirdiği minimum eğitim düzeyi)",
+   "Okuryazar olmak",
+   "Kimyasal maddelerle çalışmaya uygun sağlık durumuna sahip olmak",
+   "İşletme içi eğitim ve uygulamaları takip edebilecek dikkat ve algı düzeyine sahip olmak"
+  ],
+  "sure_ve_icerik": "Standart ve resmi olarak belirlenmiş bir eğitim süresi ve içeriği bulunmamaktadır. İşletmeler, çalışanlarına kendi üretim süreçlerine uygun iç eğitimler vererek klorür tayini, köpük testi, suda çözünmeyen madde tayini, fosfat-silikat tayini ve klor tayini gibi analiz yöntemlerini, iş sağlığı ve güvenliği kurallarını ve kalite standartlarını öğretir.",
+  "belge": "Mesleğin icrası için zorunlu bir diploma veya sertifika bulunmamaktadır. İşletme içi eğitimler sonunda kurum içi eğitim/katılım belgesi verilebilir. Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Mesleğe genellikle doğrudan işletmede çalışan statüsünde başlanıldığından, işbaşında eğitim sürecinde de ücret alınabilir; bu durum işletmeden işletmeye değişir.",
+  "egitim_sonrasi": [
+   "Ücret, çalışılan işletmeye, deneyime ve üstlenilen sorumluluğa göre değişmekle birlikte, yeni başlayanlarda genellikle asgari ücret düzeyindedir.",
+   "Deneyim, bilgi ve beceri arttıkça kazanç düzeyi yükselebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğe yönelik resmi ve kademeli bir eğitimde ilerleme basamağı tanımlanmamıştır. İsteyen kişiler, ek kurslar ve deneyimle kalite kontrol veya laboratuvar teknisyenliği gibi yakın alanlara yönelebilirler.",
+  "is_hayatinda": "Bilgi, beceri ve deneyim arttıkça usta, ekip lideri, vardiya amiri veya kalite kontrol sorumlusu gibi unvanlarla ilerleme imkanı bulunabilir."
+ },
+ "benzer_meslekler": [
+  "Karıştırma Makinesi Operatörü-Kimyasal Maddeler",
+  "Kozmetik Sıvı Ürün Hazırlama İşçisi",
+  "Proses İşçisi",
+  "Boya Renk Ayar Elemanı",
+  "Toz Dolum Makinesi Operatörü"
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T12:31:26",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5560
+  }
+ }
+}

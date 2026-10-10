@@ -1,0 +1,79 @@
+{
+ "arac_gerec": [
+  "Bilgisayar ve stok/depo takip yazılımları (ör. SAP, Netsis benzeri ERP programları)",
+  "Barkod okuyucu ve etiketleme cihazı",
+  "Telefon, telsiz ve diğer iletişim araçları",
+  "Yazıcı, fotokopi makinesi ve diğer büro ekipmanları",
+  "Sayım ve ölçüm araçları (metre, kumpas, tartı/kantar)",
+  "Raf ve palet sistemleri",
+  "Transpalet, forklift gibi malzeme taşıma ekipmanları",
+  "Stok kayıt formları, irsaliye ve fatura belgeleri",
+  "Kişisel koruyucu donanım (baret, iş ayakkabısı, iş eldiveni, yelek)"
+ ],
+ "benzer_meslekler": [
+  "Ambarcı (Tersane)",
+  "Depo Sorumlusu",
+  "Ambar Sorumlusu",
+  "Büro Memuru (Stok Kayıt)",
+  "Stok Kontrol Uzmanı",
+  "Malzeme Takip ve Dağıtım İşçisi"
+ ],
+ "calisma_alanlari": "Sayım ve Stok Kontrol İşçisi (Tersane), başta gemi inşa ve gemi onarım tersaneleri olmak üzere, bu işletmelerin depo/ambar, satın alma ve malzeme yönetimi birimlerinde istihdam edilir. Ayrıca tersanelere malzeme tedarik eden sanayi işletmelerinin ve büyük ölçekli üretim tesislerinin depo, stok kontrol veya lojistik birimlerinde de görev alabilir. Çalışma alanı, tersane sektörünün kapasitesine ve yatırım hacmine bağlı olarak değişmekle birlikte, özellikle kıyı şeridinde gemi inşa sanayinin yoğun olduğu bölgelerde iş bulma olanağı daha fazladır.",
+ "calisma_ortami": "Sayım ve Stok Kontrol İşçisi (Tersane), tersane bünyesindeki depo ve ambar alanlarında, kimi zaman da açık sahada istiflenen malzemelerin bulunduğu bölgelerde çalışır. Çalışma ortamı; ağır ve hacimli malzemelerin elleçlenmesi, forklift/vinç trafiği, gürültü ve değişken hava koşulları gibi unsurlar nedeniyle dikkat ve iş güvenliği önlemleri gerektirir. Genellikle tam gün çalışılır, işletmenin üretim yoğunluğuna göre vardiyalı çalışma söz konusu olabilir.\n\nGörevi sırasında satın alma, üretim, planlama ve ambar birimlerindeki çalışanlarla sürekli iletişim halindedir. İş sağlığı ve güvenliği kurallarına uygun kişisel koruyucu donanım (baret, iş ayakkabısı vb.) kullanımı, tersane ortamının riskleri nedeniyle önemlidir.",
+ "egitim": {
+  "verildigi_yerler": "Sayım ve Stok Kontrol İşçisi (Tersane) mesleğine özgü resmî bir örgün eğitim programı bulunmamaktadır. Meslek için ortaöğretim (lise ve dengi) mezuniyeti yeterli görülmekte olup, gerekli bilgi ve beceriler genellikle işbaşında usta/deneyimli personel yanında uygulamalı olarak kazanılır. Stok ve depo yönetimi, sayım teknikleri ile ilgili bilgisayar programlarının kullanımına yönelik Halk Eğitim Merkezleri ve İŞKUR tarafından açılan mesleki eğitim kursları da bu alanda bilgi edinmeye yardımcı olabilir. Ayrıca lojistik, işletme veya dış ticaret alanlarındaki meslek yüksekokulu (önlisans) programları, mesleğe hazırlık açısından tercih edilebilir.",
+  "giris_kosullari": [
+   "Lise ve dengi okul mezunu olmak",
+   "Tersane ortamında çalışmaya uygun sağlık durumuna sahip olmak",
+   "Temel düzeyde bilgisayar kullanabilmek",
+   "Dikkatli, düzenli ve sayısal işlemlere yatkın olmak"
+  ],
+  "sure_ve_icerik": "Mesleğe özgü standart bir eğitim süresi bulunmamaktadır. İşe başlayanlar, işyerinde usta veya deneyimli personel eşliğinde depo düzeni, malzeme tanıma, sayım ve envanter çıkarma teknikleri, stok takip yazılımlarının kullanımı ve satın alma-depo koordinasyonu konularında uygulamalı olarak yetişir. İsteyenler, Halk Eğitim Merkezleri, İŞKUR veya özel kurumların açtığı depo yönetimi, stok kontrol ve temel bilgisayar/ofis programları kurslarına katılarak bilgi ve becerilerini geliştirebilir.",
+  "belge": "Mesleğe giriş için zorunlu bir diploma veya sertifika bulunmamaktadır. Katılınan kurslar sonunda kurs bitirme belgesi alınabilir; Mesleki Yeterlilik Kurumu (MYK) belgesine sahip olmak istihdamda tercih sebebi olabilir."
+ },
+ "ek_bilgiler": "Tersaneler, iş sağlığı ve güvenliği açısından riskli üretim alanları içerdiğinden, bu ortamda çalışacakların temel iş güvenliği eğitimi almaları ve kişisel koruyucu donanımı eksiksiz kullanmaları önemlidir. Gemi inşa sanayindeki yatırım ve sipariş hacmine bağlı olarak sektördeki istihdam olanakları dönemsel olarak değişebilir.",
+ "genel_ozellikler": [
+  "Dikkatli ve titiz çalışan,",
+  "Sayısal işlemlere ve düzene önem veren,",
+  "Sorumluluk sahibi ve güvenilir,",
+  "Planlama ve takip becerisine sahip,",
+  "Ekip çalışmasına uyumlu,",
+  "İletişim becerisi iyi,",
+  "Fiziksel olarak sağlıklı ve dayanıklı,",
+  "Temel düzeyde bilgisayar kullanabilen kişiler olmaları gerekir."
+ ],
+ "gorevler": [
+  "Malzemeyi tanımak ve depodaki eksiklikleri belirlemek için depoyu kontrol eder.",
+  "Depoya alınacak malzemelerin taleplerini yaptıktan sonra malzemelerin kontrolünü yapar.",
+  "Stokları belirleyerek eksikliklerin tespitini ve alımını sağlar.",
+  "Sipariş veren birimlerin istediği miktarları depo stoklarından karşılar.",
+  "İhtiyaç fazlası malzemenin alınmasını önler.",
+  "Malzemenin hangi gün temin edileceği ve gecikme nedenleri konusunda ilgililere bilgi verir.",
+  "Malzemenin zamanında ve yeterli miktarda temin edilmesini sağlar.",
+  "Satın alma ile depo arasındaki koordinasyonu sağlar.",
+  "Stok kontrolü, depo sayımı ve gelen malzemelerin depoya yönlendirilmesi gibi işlemleri yapar.",
+  "Haftalık ve aylık envanteri ve raporları diğer birimlere gönderir.",
+  "Mesleğindeki gelişmeleri takip eder ve uygular.",
+  "İş sağlığı ve güvenliği ile ilgili kurallara uyar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğe özgü kademeli bir eğitim sistemi bulunmamaktadır. İsteyen çalışanlar, lojistik, işletme veya dış ticaret gibi alanlarda açıköğretim ya da örgün önlisans/lisans programlarına yönelerek mesleki bilgi ve birikimlerini artırabilir.",
+  "is_hayatinda": "Deneyim ve bilgi birikimini artıran Sayım ve Stok Kontrol İşçileri, zaman içinde depo/ambar şefliği, satın alma-depo koordinasyon sorumluluğu veya stok kontrol uzmanlığı gibi daha üst düzey görevlere yükselebilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Mesleğe özgü örgün bir eğitim programı bulunmadığından eğitim sırasında genellikle ayrı bir kazanç söz konusu değildir; işbaşında eğitim alanlar çalıştıkları işletmeye göre ücret alabilir.",
+  "egitim_sonrasi": [
+   "Kamuya bağlı tersanelerde memur statüsünde çalışanlar 657 sayılı Devlet Memurları Kanunu'na, işçi statüsünde çalışanlar ise ilgili toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektördeki tersanelerde ücret; işyerinin büyüklüğü, çalışanın deneyimi ve karşılıklı anlaşmaya göre değişmekte olup, mesleğe yeni başlayanlarda genellikle asgari ücret düzeyindedir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T16:19:54",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6396
+  }
+ }
+}

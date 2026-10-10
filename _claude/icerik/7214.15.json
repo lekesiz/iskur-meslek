@@ -1,0 +1,81 @@
+{
+ "arac_gerec": [
+  "Çelik levha ve profil malzemeler",
+  "Büküm (abkant) makinesi",
+  "Sac makası",
+  "Punta (nokta) kaynak makinesi",
+  "Gazaltı (CO2/MIG-MAG) kaynak makinesi ve ekipmanı",
+  "Kaynak maskesi ve koruyucu başlık",
+  "Ölçme ve kontrol aletleri (şerit metre, gönye, kumpas)",
+  "Markalama/çizme aletleri",
+  "El taşlama (flex) makinesi ve zımpara",
+  "Küçük el aletleri (pense, çekiç, mengene, anahtar takımı)",
+  "Kaynak teli/elektrot",
+  "İş eldiveni, iş gözlüğü, tulum ve iş ayakkabısı gibi kişisel koruyucu donanım",
+  "Malzeme taşıma/kaldırma ekipmanları"
+ ],
+ "genel_ozellikler": [
+  "El becerisine sahip ve el-göz koordinasyonu iyi,",
+  "Fiziksel olarak dayanıklı ve güçlü,",
+  "Dikkatli ve tedbirli,",
+  "Ölçü, şekil ve teknik çizimi anlayabilen,",
+  "Düzenli ve planlı çalışabilen,",
+  "Gürültülü ve sıcak ortamda çalışmaya uygun,",
+  "Takım halinde çalışmaya istekli,",
+  "Sorumluluk sahibi ve işçi sağlığı-iş güvenliği kurallarına uyan"
+ ],
+ "calisma_ortami": "\"Raf üretim işçisi, metal imalat atölyelerinde ve fabrikalarda, genellikle kapalı mekânlarda çalışır. Çalışma ortamı; makine ve kaynak işlemleri nedeniyle gürültülü, metal tozu ve kaynak dumanı içerebilen, bazı bölümlerinde sıcak bir ortamdır. Ayakta ve bazen eğilerek çalışmayı gerektiren bu meslekte, bükme, kesme ve kaynak işlemleri sırasında kesilme, yanık ve göz kamaşması gibi riskler bulunduğundan kişisel koruyucu donanım kullanımı önemlidir.\\n\\nÇalışma saatleri genellikle işyerinin üretim programına göre belirlenir, sipariş yoğunluğuna bağlı olarak fazla çalışma gerekebilir. Meslek elemanı; atölye içinde ustabaşı, diğer imalat işçileri ve boyahane/sevkiyat bölümü çalışanlarıyla sürekli iş ilişkisi içindedir.\"",
+ "egitim": {
+  "verildigi_yerler": "Raf üretim işçiliği için ayrı, resmî bir mesleki ve teknik ortaöğretim alanı/dalı bulunmamaktadır. Meslek, genellikle metal işleri, metal doğrama veya kaynak teknolojisi alanına yakın mesleki eğitim merkezi programlarıyla, ayrıca işbaşında usta yanında çalışılarak öğrenilmektedir. İŞKUR ve Halk Eğitim Merkezlerinin açtığı metal işleme ve kaynakçılık kursları da mesleğe hazırlıkta destekleyici olabilmektedir.",
+  "giris_kosullari": [
+   "En az ilkokul/ortaokul mezunu olmak (meslek için gereken minimum eğitim düzeyi ilköğretimdir)",
+   "Mesleki eğitim merkezi veya çıraklık eğitimine girmek isteyenler için 14 yaşını doldurmuş olmak",
+   "Ağır ve fiziksel güç gerektiren, kaynak işlemi içeren bir meslek olduğundan sağlık durumunun bu işe uygun olması",
+   "İlgili işyerinde çalışarak işbaşında/usta yanında yetişmeye istekli olmak"
+  ],
+  "sure_ve_icerik": "Mesleğe özgü standart ve tek bir eğitim süresi/programı bulunmamaktadır. Kişiler genellikle metal işleri veya kaynak alanındaki mesleki eğitim merkezi/meslek lisesi programlarından temel bilgi edindikten sonra, işyerinde usta gözetiminde malzeme hazırlama, kesme, bükme, puntalama ve kaynak işlemlerini uygulayarak mesleği öğrenirler. İŞKUR ve Halk Eğitim Merkezlerinin açtığı metal işleme/kaynakçılık kursları da temel beceri kazandırabilir.",
+  "belge": "İlgili mesleki eğitim merkezi/meslek lisesi programını tamamlayanlara diploma; kurs tamamlayanlara kurs bitirme belgesi verilir. Kaynak işlemleri yapıldığından, Mesleki Yeterlilik Kurumu (MYK) kaynakçılık ile ilgili mesleki yeterlilik belgesi istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "\"Raf üretim işçileri; market, mağaza ve depo ekipmanı (raf, ünite, aksesuar) üreten metal imalat firmalarında, metal levha ve metal inşaat malzemesi işleyen küçük ve orta ölçekli atölye ve fabrikalarda istihdam edilmektedir. İş bulma olanakları, perakende sektörünün ve market zincirlerinin yaygınlaşmasına bağlı olarak bu alandaki üretim talebine göre değişmektedir.\"",
+ "kazanc": {
+  "egitim_suresince": "Mesleğe mesleki eğitim merkezi veya çıraklık yoluyla girenler, 3308 sayılı Mesleki Eğitim Kanunu kapsamında işletmede eğitim gördükleri süre boyunca asgari ücretin belirli bir oranında ücret alırlar; sigorta primleri bu süre için devletçe karşılanır. İşbaşında usta yanında yetişenler ise genellikle çalıştıkları işyerinin belirlediği başlangıç ücretini alırlar.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanların kazancı genellikle asgari ücret düzeyindedir.",
+   "Deneyim, beceri ve çalışılan işyerinin büyüklüğüne göre kazanç artabilir.",
+   "Kamuda bu meslekte istihdam yaygın değildir; çalışanlar genellikle özel sektörde işveren ile karşılıklı anlaşma esasına göre ücretlendirilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleki eğitim merkezi veya meslek lisesinin metal işleri/metal teknolojisi alanına yakın bir programından mezun olanlar, başarılı oldukları takdirde yükseköğretime giriş sınavlarıyla ilgili ön lisans programlarına yerleşebilirler. Ayrıca kaynakçılık, metal işleme gibi kurslara katılarak mesleki bilgi ve beceriler geliştirilebilir.",
+  "is_hayatinda": "Deneyim kazanan raf üretim işçileri ustabaşılığa veya atölye/üretim sorumluluğuna yükselebilir, kalite kontrol görevlerinde çalışabilir; yeterli bilgi, birikim ve sermayeye sahip olanlar kendi imalat atölyelerini açabilir."
+ },
+ "benzer_meslekler": [
+  "Metal Doğramacı /Alüminyum Doğramacı",
+  "Diğer Metal Levha ve Metal İnşaat İşçileri",
+  "Endüstriyel ve Yapısal Çelik Konstrüksiyon İşçisi",
+  "İnşaat Çeliği İşçisi-Atölye",
+  "Korkuluk İmal İşçisi",
+  "El Perçincisi"
+ ],
+ "ek_bilgiler": "\"Mesleğin kaynak ve kesme işlemleri içermesi nedeniyle çalışma sırasında iş sağlığı ve güvenliği kurallarına uyum büyük önem taşır. Mesleki Yeterlilik Kurumu (MYK) tarafından verilen kaynakçılıkla ilgili mesleki yeterlilik belgesine sahip olmak, istihdamda tercih sebebi olabilir.\"",
+ "gorevler": [
+  "Tulum, eldiven, gözlük vb. iş kıyafetlerini giyer,",
+  "Çelik malzeme ve kullanılacak aletleri hazırlar,",
+  "Müşteri sipariş formunda yer alan ölçü ve model doğrultusunda kullanılacak malzemeyi makinede büker ya da makasla keser,",
+  "Bükülen ve kesilen malzemeyi punta makinesi ile puntalar,",
+  "Malzemede gerekli görülen yerleri gazaltı kaynağından geçirir,",
+  "Formda belirtilen talimatlar doğrultusunda hazırlanan malzemeyi el ve göz kontrolünden geçirir,",
+  "Sorun varsa küçük el aletleri ile giderir,",
+  "İşlemi biten malzemeyi boyahaneye teslim eder,",
+  "Kullanılan malzeme ve mekanın bakım ve temizliğini yapar,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T00:42:51",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5501
+  }
+ }
+}

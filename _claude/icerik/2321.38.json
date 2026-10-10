@@ -1,0 +1,73 @@
+{
+ "arac_gerec": [
+  "Alanı ile ilgili meslek dersleri müfredat programı, yıllık ve günlük çalışma planları",
+  "Ders kitapları, yardımcı kitaplar, iş ve işlem yaprakları, bilgi yaprakları",
+  "Raylı sistem alt yapı ve üst yapı elemanlarına ait örnek ve maketler (ray, travers, balast, kaynak bağlantıları vb.)",
+  "Ölçme ve nivelman aletleri (nivo, teodolit/takeometre, şerit metre, mastar)",
+  "Bilgisayar, projeksiyon, bilgisayar destekli çizim (CAD) yazılımları ve eğitim yazılımları",
+  "Atölye ve laboratuvar donanımları, geoteknik/zemin deney seti ve örnekleri",
+  "Kişisel koruyucu donanım (baret, iş eldiveni, iş ayakkabısı, reflektörlü yelek)",
+  "Teknik resim ve proje çizim malzemeleri, maket yapım malzemeleri",
+  "Ders, yoklama ve not defterleri, öğrenci iş takip formları"
+ ],
+ "genel_ozellikler": [
+  "İnşaat ve raylı sistemler teknolojisine ilgili,",
+  "Matematik ve fen bilimlerine karşı yetenekli ve başarılı,",
+  "El ve gözünü eşgüdümle kullanabilen, teknik çizim ve ölçme becerisine sahip,",
+  "Düşüncelerini açık ve anlaşılır biçimde aktarabilen,",
+  "Dikkatli, planlı ve işine özen gösteren,",
+  "İnsanlarla iyi iletişim kurabilen, hoşgörülü ve sabırlı,",
+  "Öğrencilerin gelişimini takip edebilen, rehberlik etmeye istekli,",
+  "Kendini ve mesleki bilgisini sürekli geliştirmeye açık"
+ ],
+ "calisma_ortami": "\"Raylı Sistemler İnşaat Öğretmeni görevini genellikle okul içinde; sınıf, atölye ve laboratuvar ortamında yürütür. Teorik dersler sınıfta, uygulamalı dersler ise atölye ve laboratuvar ortamında yapılır; bu ortamlarda zaman zaman toz, gürültü ve makine/el aletleriyle çalışma gibi koşullarla karşılaşılabilir. Öğrencilerin işletmelerde yaptığı staj çalışmalarını izlemek üzere zaman zaman şantiye veya demiryolu inşaat sahalarına da gidebilir; bu durumda açık hava koşulları ve inşaat sahasına özgü riskler söz konusu olabilir.\\n\\nÇalışma saatleri okulun ders programına göre belirlenir; nöbet günlerinde okulun düzen ve disiplininden de sorumludur. Öğrenciler, diğer öğretmenler, okul idaresi, veliler ve staj yapılan işletmelerin yetkilileriyle sürekli iletişim içindedir.\"",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi, üniversitelerin Teknoloji Fakülteleri veya Teknik Eğitim Fakültelerinin raylı sistemler/inşaat teknolojisi alanıyla ilişkili öğretmenlik lisans programlarında verilmektedir. Bu alana özgü doğrudan bir öğretmenlik lisans programının bulunmadığı durumlarda; İnşaat Mühendisliği, Harita Mühendisliği, Mimarlık gibi ilgili mühendislik/mimarlık lisans programlarını bitirip Milli Eğitim Bakanlığı ile Yükseköğretim Kurulu (YÖK) iş birliğiyle açılan Öğretmenlik Meslek Bilgisi Tezsiz Yüksek Lisans Programı veya Pedagojik Formasyon Eğitimi Sertifika Programını tamamlayanlar da bu alanda öğretmen olarak atanabilmektedir.",
+  "giris_kosullari": [
+   "Lise veya dengi okul mezunu olmak",
+   "YKS (Yükseköğretim Kurumları Sınavı) kılavuzunda ilgili lisans programı için belirtilen giriş koşullarını taşımak ve yeterli puanı almak",
+   "İlgili önlisans programlarından mezun olanların, Dikey Geçiş Sınavı (DGS) ile ilgili lisans programlarına geçiş yapabilmesi"
+  ],
+  "sure_ve_icerik": "Lisans düzeyindeki eğitim süresi 4 yıldır. Eğitim süresince matematik, fizik, yapı bilgisi, zemin mekaniği, ölçme bilgisi, demiryolu alt yapı ve üst yapı teknolojileri, teknik resim gibi alan dersleriyle birlikte öğretmenlik meslek bilgisi dersleri (eğitim bilimleri, öğretim yöntemleri, rehberlik vb.) okutulur. Öğrenciler genellikle ara sınıflarda sanayi/işletme stajı, son sınıfta ise okullarda öğretmenlik uygulaması stajı yaparlar.",
+  "belge": "Eğitimini başarı ile tamamlayanlara lisans diploması verilir; öğretmen olarak atanabilmek için ayrıca Milli Eğitim Bakanlığının ilgili atama şartlarının (gerekiyorsa pedagojik formasyon/öğretmenlik sertifikası dahil) karşılanması gerekir."
+ },
+ "calisma_alanlari": "\"Raylı Sistemler İnşaat Öğretmenleri, başta Milli Eğitim Bakanlığına bağlı mesleki ve teknik Anadolu liselerinin raylı sistemler alanı bulunan okulları ile çıraklık ve yaygın eğitim kurumlarında atölye ve meslek dersi öğretmeni olarak görev alırlar. Ayrıca Halk Eğitim Merkezleri ve özel eğitim kurumlarının açtığı ilgili kurslarda eğitmen olarak çalışabilirler. Kamuda öğretmen olarak atanma, bu alanda açılan öğretmen kadrolarının sayısına ve bölgesel ihtiyaca bağlıdır.\"",
+ "kazanc": {
+  "egitim_suresince": "Eğitim süresince öğrenciler, diğer lisans öğrencileri gibi Kredi ve Yurtlar Kurumu (KYK) öğrenim kredisi veya bursundan yararlanabilir; staj dönemlerinde işletmeler tarafından asgari ücret düzeyinde bir ödeme yapılabilir.",
+  "egitim_sonrasi": [
+   "Kamu okullarında çalışan öğretmenler, 657 sayılı Devlet Memurları Kanunu çerçevesinde maaş ve ek ders ücreti alır.",
+   "Özel okul ve kurumlarda çalışanların ücreti, işveren ile yapılan sözleşmeye, tecrübeye ve okulun imkanlarına göre değişir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Lisans eğitimini tamamlayanlar, alanıyla ilgili yüksek lisans ve doktora eğitimi yaparak akademik kariyer geliştirebilir; ayrıca alan şefliği gibi görevler üstlenebilirler.",
+  "is_hayatinda": "Mesleğinde deneyim kazanan öğretmenler, müdür yardımcılığı, okul müdürlüğü, eğitim müfettişliği veya Milli Eğitim Bakanlığı bünyesinde şube müdürlüğü gibi idari görevlere yükselebilirler."
+ },
+ "benzer_meslekler": [
+  "Raylı Sistemler Elektrik - Elektronik Öğretmeni",
+  "Raylı Sistemler İşletme Öğretmeni",
+  "Raylı Sistemler Makine Öğretmeni",
+  "Raylı Sistemler Mekatronik Öğretmeni"
+ ],
+ "ek_bilgiler": "\"Ülkemizde raylı sistem yatırımlarının artması, bu alandaki nitelikli meslek elemanı ve öğretmen ihtiyacını da artırmaktadır. Saha/staj ziyaretlerinde iş sağlığı ve güvenliği kurallarına uyulması önemlidir.\"",
+ "gorevler": [
+  "Eğitiminden sorumlu olduğu grubun düzeyine uygun bir çalışma planı hazırlar.",
+  "Sorumlu olduğu atölye, laboratuvar, işlik vb. yerleri eğitime hazır durumda tutar.",
+  "Kendisine ayrılan ders saatlerinde çalışma planını uygulayarak öğrencilere raylı sistemler inşaat alanı ile ilgili bilgi ve beceriler kazandırır.",
+  "Öğrencilerin başarılarını ölçer, değerlendirir, idareye sonuçları verir.",
+  "Alanı ile ilgili gelişmeleri izler, ihtiyaçları saptar, bunların öğretim programlarına yansıtılması için ilgililere önerilerde bulunur.",
+  "Öğrencilerin gelişimlerine katkıda bulunacak eğitim-öğretim yöntemlerini geliştirir ve uygular.",
+  "Nöbetçi olduğu günlerde, okulun düzen ve disiplinini sağlar.",
+  "Öğrencilerin gelişimlerini izler, sorunlarının çözümüne yardımcı olur.",
+  "Mesleği alanındaki gelişmeleri takip eder ve uygular.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T03:01:50",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6082
+  }
+ }
+}

@@ -1,0 +1,83 @@
+{
+ "arac_gerec": [
+  "Egzoz gaz analiz ve muayene cihazı",
+  "Elektrik ark kaynak makinesi",
+  "Oksijen-gaz (oksi-asetilen) kaynak takımı",
+  "Gazaltı (MIG/MAG) kaynak makinesi",
+  "Araç kaldırma lifti, köprü veya kriko-sehpa takımı",
+  "Muayene kanalı",
+  "Anahtar takımları (somun, cıvata anahtarları)",
+  "Kesme taşı ve zımpara makinesi",
+  "Matkap ve kılavuz takımı",
+  "Pense, kargaburun, tornavida takımları",
+  "Egzoz borusu şekillendirme/bükme ekipmanı",
+  "Çekiç, keski, eğe gibi el aletleri",
+  "Kaynak maskesi, eldiven, önlük gibi kişisel koruyucu donanım"
+ ],
+ "benzer_meslekler": [
+  "Oto Bakım-Onarımcısı (Otomotiv Mekanikcisi)",
+  "Radyatör Tamircisi (Motorlu Taşıt)",
+  "Kaporta Tamircisi/Otomotiv Gövdecisi",
+  "Otomotiv Gövde Onarım İşçisi",
+  "Şaft Tamircisi (Motorlu Taşıt)",
+  "Oto Fren Bakım-Onarımcısı"
+ ],
+ "calisma_alanlari": "Egzoz tamircileri; bağımsız egzoz tamir dükkânlarında, oto sanayi sitelerindeki atölyelerde, oto servis istasyonlarında ve büyük oto bakım-onarım işletmelerinin kaynak/egzoz bölümlerinde çalışabilir. Deneyim ve sermaye birikimi sağladıktan sonra kendi işyerini açabilirler.\n\nÜlkemizde motorlu taşıt sayısının artması ve araçların düzenli egzoz emisyon muayenesine tabi tutulması, bu meslekte iş bulma olanağını sürekli kılmaktadır. Buna karşılık mesleğin kapsamı giderek daralmakta, egzoz bakım-onarımı çoğu zaman genel oto tamircileri, kaporta-kaynak ustaları veya oto bakım-onarımcıları tarafından da yürütülebilmektedir. Bu nedenle egzoz tamirciliği, bağımsız bir uzmanlık olmakla birlikte genellikle oto tamir sektörünün bir parçası olarak değerlendirilmektedir.",
+ "calisma_ortami": "Egzoz tamircisi, oto tamir atölyeleri ve egzoz servis dükkânlarında çalışır; çalışma genellikle kapalı mekânda yapılır, bazı durumlarda açık alanda da iş yapılabilir. Ortam; kaynak dumanı, gaz kokusu, gürültü ve yağ-is nedeniyle kirli olabilir. Araç altına girerek, eğilerek veya ayakta uzun süre çalışma gerektirir; kaynak kıvılcımı, keskin metal parçalar ve sıcak yüzeyler nedeniyle yanık, kesik ve göz yaralanması riski bulunur, bu nedenle kişisel koruyucu donanım kullanımı önemlidir.\n\nÇalışma saatleri genellikle gündüzdür ve iş yoğunluğuna göre mesai gerekebilir. Egzoz tamircisi; müşterilerle, işyeri sahibi veya ustasıyla, diğer tamircilerle ve yedek parça tedarikçileriyle sürekli iletişim halindedir.",
+ "egitim": {
+  "verildigi_yerler": "Egzoz tamirciliği için ayrı ve bağımsız bir mesleki eğitim merkezi dalı bulunmamaktadır. Meslek genellikle Mesleki Eğitim Merkezlerinin Motorlu Araçlar Teknolojisi alanı kapsamındaki eğitimle ilişkili olarak veya işbaşında usta yanında çalışılarak öğrenilmektedir. Kaynak ve oto tamirciliğine yönelik bilgi ve becerileri geliştirmek isteyenler, Halk Eğitim Merkezleri ile İŞKUR'un açtığı mesleki eğitim kurslarından da yararlanabilir.",
+  "giris_kosullari": [
+   "En az ilköğretim/ortaokul mezunu olmak",
+   "Çıraklık eğitimine başlamak için 14 yaşını doldurmuş olmak",
+   "Mesleğin gerektirdiği bedensel çalışmaya ve işi yapmaya elverişli sağlık durumuna sahip olmak",
+   "Bir işyeri bulup işveren ile çıraklık sözleşmesi imzalamak veya işyerinde usta yanında çalışmaya başlamak"
+  ],
+  "sure_ve_icerik": "Mesleğin resmî olarak tanımlanmış bağımsız bir eğitim süresi ve müfredatı bulunmamaktadır. Meslek, genellikle usta-çırak ilişkisi içinde işbaşında uygulamalı olarak, zaman içinde deneyim kazanılarak öğrenilir. İlgi duyanlar, Motorlu Araçlar Teknolojisi alanındaki mesleki eğitim programlarından ve kaynakçılık, oto tamirciliği gibi kısa süreli kurslardan da yararlanabilir.",
+  "belge": "Çıraklık eğitimi yoluyla yetişenlere kalfalık, ardından ustalık belgesi verilir. Kurs yoluyla yetişenlere katıldıkları kursun niteliğine göre kurs bitirme belgesi veya sertifika verilebilir; ilgili alanda düzenlenmiş olması durumunda Mesleki Yeterlilik Kurumu (MYK) belgesi de alınabilir ve istihdamda tercih sebebi olabilir."
+ },
+ "ek_bilgiler": "Kaynak işlemleri nedeniyle kaynak dumanı, kıvılcım ve sıcak yüzeylere karşı kişisel koruyucu donanım kullanımı meslekte önemlidir. Motorlu taşıtların periyodik egzoz emisyon muayenesine tabi olması, bu meslekteki iş hacmini etkileyen bir unsurdur.",
+ "genel_ozellikler": [
+  "El ve kol becerisine sahip,",
+  "Dikkatli ve sabırlı,",
+  "Fiziksel olarak dayanıklı,",
+  "Mekanik problemleri çözebilme gücüne sahip,",
+  "Makine ve kaynak aletlerini güvenli şekilde kullanabilen,",
+  "Müşteri ilişkilerinde güler yüzlü ve ikna edici,",
+  "Yenilikleri takip eden"
+ ],
+ "gorevler": [
+  "İşletmenin genel çalışma prensipleri doğrultusunda, araç, gereç ve ekipmanları etkin bir şekilde kullanarak işçi sağlığı, iş güvenliği ve çevre koruma düzenlemelerine uygun çalışır.",
+  "Aracın muayene ve kontrol edilmesi için muayene kanalına park edilmesini sağlar.",
+  "Araç çalışır ve stop halindeyken egzoz muayenesi ve kontrolünü yapar.",
+  "Arızalı kısmı tespit eder, egzozun tamir ya da tamamen değiştirilmesine karar verir.",
+  "Yapılacak işlemler hakkında müşteriyi bilgilendirir.",
+  "Uygun kaynak makinesini kullanarak elektrik, oksijen ya da gaz altı kaynağı ile arızalı yeri kaynatarak tamir eder.",
+  "Egzozun değiştirilmesine karar verildiğinde müşteriye monte edilecek egzoz hakkında fiyat ve kalite açısından bilgi verir.",
+  "Müşteri tercihine göre uygun egzozu araca monte eder.",
+  "Her araç ve modele göre farklı olan egzozu iş yerinde bulundurur veya piyasadan temin eder.",
+  "Yeni monte edilen egzozun garanti belgesini ve satış faturasını düzenler.",
+  "Yapılan iş ve egzoz ücretini tahsil eder.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Çıraklık eğitimi yoluyla yetişenler kalfalık, ardından ustalık belgesi alarak ilerler. Usta olan kişiler işyeri açma belgesi alarak bağımsız çalışabilir.",
+  "is_hayatinda": "Deneyim kazandıkça daha karmaşık arızaları çözebilen, kaynak işçiliğinde ustalaşan bir çalışan haline gelir; atölye sorumluluğu üstlenebilir, kendi egzoz/oto tamir işyerini kurabilir veya daha büyük oto bakım-onarım işletmelerinde usta ya da bölüm sorumlusu olarak çalışabilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Çıraklık eğitimi kapsamında eğitim görenlere 3308 sayılı Mesleki Eğitim Kanunu hükümlerine göre asgari ücretin belirli bir oranından az olmamak üzere ücret ödenir; ayrıca eğitim gören öğrencilerin iş kazası ve meslek hastalığı sigorta primleri devletçe karşılanır.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Kazanç; deneyim, beceri, kaynak işçiliğindeki ustalık ve çalışılan işletmenin büyüklüğüne göre artabilir.",
+   "Kendi işyerini açanların kazancı işletmenin müşteri potansiyeline ve kârlılığına bağlı olarak değişir.",
+   "Özel sektörde ücret taraflar arasında karşılıklı olarak belirlenir; işçi statüsünde çalışanlar için toplu iş sözleşmesi hükümleri uygulanabilir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T02:19:02",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 7308
+  }
+ }
+}

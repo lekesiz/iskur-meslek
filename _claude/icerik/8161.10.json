@@ -1,0 +1,86 @@
+{
+ "arac_gerec": [
+  "Tartı (kantar)",
+  "Islama havuzu",
+  "Taşıyıcı helezon",
+  "Harman karıştırıcı palet",
+  "Tuzlu su ayrıştırma havuzu",
+  "Kavurma ocağı/fırını",
+  "Soğutma havuzu",
+  "Elek",
+  "Taş değirmen",
+  "Depolama tankı",
+  "Dolum ve ambalaj makinesi",
+  "Kayıt defteri/üretim formları",
+  "Koruyucu iş elbisesi, eldiven, bone ve maske"
+ ],
+ "genel_ozellikler": [
+  "El ve bilek becerisine sahip,",
+  "Koku, tat ve görme algısı gelişmiş,",
+  "Dikkatli ve sabırlı,",
+  "Fiziksel olarak dayanıklı,",
+  "Hijyen kurallarına duyarlı,",
+  "Gözlem yeteneği gelişmiş,",
+  "Sorumluluk duygusu yüksek,",
+  "Ekip çalışmasına uyumlu"
+ ],
+ "calisma_ortami": "Tahin ustası, tahin ve tahin helvası üreten gıda imalathane ve fabrikalarında, genellikle kapalı alanlarda çalışır. Çalışma ortamı susam kavurma işlemi nedeniyle sıcak, ayrıca nemli, tozlu ve kokuludur; makinelerin bulunduğu bölümlerde gürültü de söz konusu olabilir. Çalışma büyük ölçüde ayakta ve hareketli geçer, üretim yoğunluğuna göre vardiyalı çalışma uygulanabilir.\n\nİş sırasında işletme sahibi/yöneticisi, kendisine bağlı çalışan işçiler ve kalite kontrol personeliyle sürekli iletişim halindedir. Islama, kavurma, değirmen ve dolum bölümleri arasında geçişler yapıldığından, iş sağlığı ve güvenliği kurallarına (sıcak yüzeyler, dönen aksam, nem nedeniyle kayma riskleri) dikkat edilmesi gerekir.",
+ "gorevler": [
+  "İş organizasyonu ve planlaması yapar,",
+  "Üretim planına uygun miktarda malzemeyi tedarik eder, getirtir,",
+  "Susamın tartılmasını ve ıslama havuzuna alınmasını sağlar,",
+  "Susamı ıslama havuzunda uygun sürede bekletir ve kabuklarının yumuşamasını sağlar,",
+  "Kabukları yumuşayan susamın taşıyıcı helezon ile harman karıştırıcı paleye alınmasını sağlar,",
+  "Harman karıştırıcı palet yardımıyla susamları kabuklarından ayrıştırır,",
+  "Kabuk ve iç karışımından oluşan kitleyi tuzlu su havuzunda kabuk ve iç olarak birbirinden ayrıştırır,",
+  "Susamların kavurma ocaklarında karıştırılarak kavrulmasını sağlar,",
+  "Kavrulan ve istenilen kıvama gelen susamı soğutma havuzuna alır ve soğumasını sağlar,",
+  "Kavrulan, dinlendirilen ve soğutulan susamı elekten geçirir ve yabancı maddeleri ayıklar,",
+  "Öğütme işlemi için susamı taş değirmene aktarır,",
+  "Değirmenden çıkan tahinin depolama tanklarına alınmasını sağlar,",
+  "Günlük dolum formunda belirtilen miktarda tahinin dolum ve ambalajının yapılmasını sağlar,",
+  "Kullanılan susam miktarıyla ilgili kayıtları tutar,",
+  "Mesleği alanındaki gelişmeleri takip eder ve uygular."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Tahin ustalığı için örgün bir meslek lisesi alanı/dalı ya da çıraklık programı bulunmamaktadır. Meslek genellikle işyerinde, deneyimli bir usta yanında çalışarak öğrenilir. Ayrıca Halk Eğitim Merkezleri ile İŞKUR'un açtığı gıda işleme/imalat konulu mesleki eğitim kurslarına katılarak temel bilgi ve beceri kazanılabilir.",
+  "giris_kosullari": [
+   "İlköğretim mezunu olmak (mesleğin gerektirdiği asgari eğitim düzeyi),",
+   "Okuma yazma bilmek,",
+   "Sağlık durumunun ayakta ve fiziksel güç gerektiren işe uygun olması,",
+   "El becerisine ve dikkatli çalışma yeteneğine sahip olmak"
+  ],
+  "sure_ve_icerik": "Mesleki eğitimi tanımlı, standart bir süresi yoktur. Genellikle işe yeni başlayan kişi önce yardımcı işçi olarak çalışır, zamanla ustanın gözetiminde ıslama, ayrıştırma, kavurma, öğütme ve dolum aşamalarını uygulamalı olarak öğrenir; tecrübe kazandıkça ustalık düzeyine ulaşır. Bu süreç işyerine ve kişinin kabiliyetine göre değişebilir. Halk Eğitim Merkezi veya İŞKUR kurslarının süresi ilgili kursun programına göre belirlenir.",
+  "belge": "Mesleğe özgü zorunlu bir diploma veya sertifika bulunmamaktadır. Katılınan kurslardan alınan katılım belgesi ve varsa ilgili alanda düzenlenmiş Mesleki Yeterlilik Kurumu (MYK) belgesi, iş bulmada tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Tahin ustası; tahin, tahin helvası ve susam bazlı ürünler üreten gıda imalathane ve fabrikalarında çalışabilir. Ayrıca susam/yağlı tohum işleme tesislerinde ve bu ürünleri üreten küçük ve orta ölçekli işletmelerde istihdam edilir. İş bulma olanakları, tahin üretiminin yoğun olduğu bölgelerde ve bu konuda üretim yapan gıda sanayi kuruluşlarının bulunduğu yerlerde daha fazladır.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğe özgü tanımlı bir çıraklık/eğitim ücreti düzenlemesi bulunmadığından, işe yeni başlayan ve usta yanında çalışarak öğrenen kişiler genellikle işverenle anlaşılan bir ücret, çoğunlukla asgari ücret düzeyinde kazanç elde eder.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Deneyim, bilgi ve beceri arttıkça, çalışılan işletmenin büyüklüğüne ve sektördeki ücret düzeyine göre kazanç yükselebilir.",
+   "Özel sektörde ücret, işveren ile çalışan arasında karşılıklı olarak belirlenir; bu meslekte kamuda doğrudan istihdam yaygın değildir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğin örgün bir meslek lisesi veya çıraklık eğitimi programı bulunmadığından ilerleme büyük ölçüde işbaşında kazanılan deneyimle sağlanır. İlgili gıda işleme/imalat konularında açılan Halk Eğitim Merkezi ve İŞKUR kurslarına katılarak bilgi ve beceriler geliştirilebilir.",
+  "is_hayatinda": "Tecrübe kazandıkça yardımcı işçilikten ustalığa, ardından vardiya/üretim sorumluluğuna kadar yükselebilir. Yeterli bilgi, birikim ve sermayeye sahip olanlar kendi tahin/tahin helvası imalathanesini kurarak girişimci olabilir."
+ },
+ "benzer_meslekler": [
+  "Tahin İmal İşçisi",
+  "Un İmal Ustası",
+  "Yer Fıstığı Kavurma Makinesi Operatörü",
+  "Bitkisel Yağ Üretim Operatörü",
+  "Fındık İşleme İşçisi",
+  "Yöresel Gıda Ürünleri Üretim Elemanı"
+ ],
+ "ek_bilgiler": "Tahin üretimi gıda sektörüne bağlı bir faaliyet olduğundan, çalışılan işletmelerde hijyen ve gıda güvenliği kurallarına (örneğin HACCP benzeri uygulamalara) uyulması, ayrıca kavurma ve değirmen bölümlerinde iş sağlığı ve güvenliği tedbirlerine özen gösterilmesi önemlidir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T15:48:41",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6348
+  }
+ }
+}

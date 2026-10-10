@@ -1,0 +1,76 @@
+{
+ "arac_gerec": [
+  "Bilgisayar",
+  "Barkod yazıcı",
+  "Barkod okuyucu (barkod tarayıcı)",
+  "Etiket/barkod tasarım yazılımı",
+  "Stok takip/ERP programları",
+  "Etiket ruloları ve yapışkanlı etiketler",
+  "Yazıcı şeridi (ribon)",
+  "El terminali (taşınabilir barkod okuyucu)",
+  "Klavye ve ekran donanımları",
+  "Hesap makinesi",
+  "Yazıcı kartuşu/toner",
+  "Etiket kesme aparatı"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve titiz,",
+  "Düzenli ve sistemli çalışabilen,",
+  "Sayılarla işlem yapabilen,",
+  "Bilgisayar kullanımına ilgili,",
+  "Sorumluluk sahibi,",
+  "Hızlı ve doğru veri girişi yapabilen,",
+  "Ekip çalışmasına uyumlu,",
+  "Görsel algısı ve dikkati gelişmiş"
+ ],
+ "calisma_ortami": "Barkodcu genellikle kapalı ortamda; işletmenin büro, depo veya üretim alanı içindeki bir bölümünde bilgisayar başında çalışır. Çalışma saatleri işyerinin genel mesai düzenine göre belirlenir; işin yoğunluğuna bağlı olarak vardiyalı çalışma veya mesai saatleri dışında çalışma söz konusu olabilir.\n\nUzun süre bilgisayar ekranı karşısında oturarak çalışma nedeniyle göz ve bilek yorgunluğu gibi riskler bulunabilir. Barkodcu; görevi sırasında depo/üretim birimi çalışanları, satış-pazarlama, muhasebe/maliyet birimi çalışanları ve işletme yöneticileri ile sık sık bilgi alışverişinde bulunur.",
+ "gorevler": [
+  "Barkodları çıkartılacak malların cinslerine göre ayrımını yapar,",
+  "Barkodda olması gereken bilgileri ilgili birimlerden alır,",
+  "Gerekli maliyet hesaplamalarını yapar,",
+  "Barkodda olması gereken verilerin giriş işlemlerini yapar,",
+  "Barkodları çıkartır,",
+  "Çıkartılan barkodları ilgili birime verir,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Barkodcu mesleğine yönelik örgün bir okul programı bulunmamaktadır. Meslek genellikle işyerlerinde işbaşında, usta-çırak ilişkisi içinde öğrenilir. Ayrıca Halk Eğitim Merkezleri ve İŞKUR tarafından açılan bilgisayar kullanımı, ofis programları ve veri giriş/barkod uygulamalarına yönelik kurslarda da temel beceriler kazandırılabilir. Meslek liselerinin büro yönetimi, lojistik veya bilgisayar ile ilgili alanlarından mezun olmak da bu mesleğe hazırlayıcı olabilir.",
+  "giris_kosullari": [
+   "En az ilköğretim (ilkokul/ortaokul) mezunu olmak,",
+   "Okuma yazma bilmek ve temel düzeyde sayısal işlem yapabilmek,",
+   "Temel bilgisayar kullanımına ilişkin bilgi sahibi olmak veya öğrenmeye istekli olmak,",
+   "Kurslara katılacaklar için ilgili kurumun belirlediği yaş ve kayıt şartlarını taşımak."
+  ],
+  "sure_ve_icerik": "Meslek için standart bir örgün eğitim süresi bulunmamaktadır. İşbaşında kazanılan beceriler işletmenin büyüklüğüne ve kullanılan sisteme göre günler ile haftalar içinde edinilebilir. Açılan kurs programlarında ise genellikle temel bilgisayar kullanımı, veri giriş teknikleri, barkod sistemlerinin ve ilgili yazılımların kullanımı, stok/ürün takibi ile basit maliyet hesaplama konuları yer alır.",
+  "belge": "Kurslara katılıp tamamlayanlara kurumların verdiği kurs bitirme/katılım belgesi verilir. İşbaşında yetişenler için ayrıca bir diploma söz konusu değildir. Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Barkodcular; üretim, perakende, market ve süpermarket zincirleri, lojistik ve depolama, tekstil, gıda, ilaç gibi sektörlerdeki özel işletmelerin stok takip, ürün yönetimi, satış ve envanter birimlerinde çalışabilirler. Ayrıca kamu kurum ve kuruluşlarının ambar, stok veya satın alma birimlerinde de istihdam edilme olanağına sahiptirler.",
+ "kazanc": {
+  "egitim_suresince": "Örgün bir eğitim süreci bulunmadığından, meslek öğrenilirken genellikle bir ücret söz konusu değildir. İşbaşında yetiştirilenler, çalıştıkları işletmenin belirlediği şartlara göre bu dönemde de ücret alabilirler. Kurs dönemlerinde ise katılımcılara genellikle ücret ödenmez.",
+  "egitim_sonrasi": [
+   "Özel sektörde yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Kazanç; çalışılan işyerinin büyüklüğü, kişinin tecrübesi, bilgi ve becerisi ile sektörün ücret düzeyine göre değişebilmektedir.",
+   "Kamu kurumlarında işçi statüsünde çalışanlar, tabi oldukları toplu iş sözleşmesi hükümlerine göre ücret alır."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Bu meslek için kademeli, örgün bir eğitim basamağı bulunmamaktadır. İsteyenler açık öğretim veya örgün eğitim yoluyla ortaöğretim ve yükseköğretime devam ederek büro yönetimi, lojistik veya bilgisayar programcılığı gibi alanlarda eğitim alıp mesleki bilgi ve becerilerini geliştirebilirler.",
+  "is_hayatinda": "Deneyim kazanan barkodcular işletme içinde veri giriş sorumlusu, depo/stok sorumlusu veya büro elemanı gibi görevlere; ilgili eğitimleri tamamlayanlar ise bilgisayar işletmenliği, stok/lojistik yönetimi gibi daha nitelikli pozisyonlara yükselebilirler."
+ },
+ "benzer_meslekler": [
+  "Bilgisayar İşletmeni",
+  "Veri Giriş Elemanı",
+  "Veri Giriş Kontrol İşletmeni",
+  "Daktilograf",
+  "Steno Daktilograf"
+ ],
+ "ek_bilgiler": "",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T15:38:26",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5238
+  }
+ }
+}

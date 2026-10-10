@@ -1,0 +1,76 @@
+{
+ "arac_gerec": [
+  "Yatak torna tezgahı",
+  "Vinç ve kaldırma aparatları",
+  "Sabitleme papuçları ve bağlama elemanları",
+  "Talaş kaldırmaya mahsus kesici bıçaklar (takımlar)",
+  "Teknik resim ve ölçü planları",
+  "Ölçme ve kontrol aletleri (kumpas, mikrometre, mastar, şablon)",
+  "Yağlama ve soğutma sıvıları",
+  "Bakım ve temizlik gereçleri (fırça, bez, yağdanlık)",
+  "Kişisel koruyucu donanım (eldiven, koruyucu gözlük, kulaklık, iş elbisesi)"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve sabırlı,",
+  "El ve göz koordinasyonu gelişmiş,",
+  "Şekilleri ve ölçüleri doğru algılayıp zihinde canlandırabilen,",
+  "Teknik resim okuyabilen,",
+  "Makine ve aletlerle çalışmaktan hoşlanan,",
+  "Fiziksel olarak dayanıklı,",
+  "Sorumluluk sahibi ve güvenlik kurallarına uyan,",
+  "Takım halinde çalışmaya uyumlu"
+ ],
+ "calisma_ortami": "Yatak Torna Tezgâhı Ayarcı-Operatörü, genellikle fabrika ve atölyelerin kapalı üretim alanlarında, ayakta ve bazen vardiyalı olarak çalışır. Çalışma ortamı tezgah sesine bağlı olarak gürültülü olabilir; metal talaşı, yağ ve soğutma sıvısı nedeniyle kısmen kirli bir ortamda görev yapar. Ağır parçaların kaldırılması sırasında vinç kullanımı ve dikkatli hareket gerektiren riskler bulunduğundan iş güvenliği kurallarına ve koruyucu ekipman kullanımına uyulması önemlidir.\n\nÇalışma sırasında büyük ölçüde tezgah ve takımlarla ilgilenir; görevini genellikle bağımsız olarak yürütür. Ustabaşı, diğer tezgah operatörleri, kalite kontrol personeli ve bakım ekipleriyle kısa süreli ve işle ilgili iletişim kurar.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin temel eğitimi, yeterli talep olması durumunda Mesleki Eğitim Merkezlerinde Metal Teknolojisi alanı kapsamında çıraklık, kalfalık ve ustalık eğitimi şeklinde verilmektedir. Bunun yanında meslek, işyerlerinde usta yanında yetişme yoluyla veya Halk Eğitim Merkezleri ile İŞKUR tarafından açılan mesleki eğitim kurslarıyla da kazanılabilmektedir.",
+  "giris_kosullari": [
+   "En az ortaokul mezunu olmak",
+   "Mesleki eğitim merkezi yoluyla eğitime başlayacaklar için 14 yaşını doldurmuş olmak",
+   "Sağlık durumunun mesleğin gerektirdiği işlere (ağır parça kaldırma, ayakta çalışma, tezgah kullanımı) uygun olması",
+   "Eğitim görülecek işyeri bulunarak işveren ile çıraklık/mesleki eğitim sözleşmesi imzalanması"
+  ],
+  "sure_ve_icerik": "Mesleki Eğitim Merkezi yoluyla eğitime gidildiğinde süre, ilgili alanın öğretim programına göre değişmekle birlikte genellikle birkaç yılı kapsar ve kalfalık ile ustalık eğitimi aşamalarından oluşur. Eğitim, haftanın bir bölümünde mesleki eğitim merkezinde teorik derslerle, kalan günlerde işyerinde usta öğretici gözetiminde uygulamalı çalışmayla yürütülür. Eğitim içeriğinde metal malzemelerin tanınması, teknik resim okuma, torna tezgahının yapısı ve çalışma prensibi, kesici takım seçimi, tezgah ayarları, ölçme-kontrol teknikleri, iş güvenliği ve tezgah bakımı gibi konular yer alır. Mesleğe işyerinde usta yanında çalışarak girenlerde ise bilgi ve beceri, kıdemli operatörlerin gözetiminde kademeli olarak kazanılır.",
+  "belge": "Mesleki eğitim merkezi yoluyla eğitimi tamamlayanlara kalfalık ve ardından ustalık belgesi, fark derslerinin tamamlanması halinde meslek lisesi diploması verilir. Kurs yoluyla eğitim alanlara ise kurs bitirme belgesi düzenlenir. Mesleki Yeterlilik Kurumu (MYK) tarafından düzenlenen belgeler, istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Yatak Torna Tezgâhı Ayarcı-Operatörleri, metal işleme ve makine imalat sanayiinde, ağır sanayi atölyelerinde, tersanelerde, tarım makineleri ve yedek parça üreten işletmelerde çalışma imkânı bulur. İstihdam büyük ölçüde özel sektördeki üretim ve bakım-onarım işletmelerinde yoğunlaşmaktadır.\n\nSon yıllarda bilgisayar kontrollü (CNC) torna tezgahlarının yaygınlaşması, geleneksel yatak torna tezgahlarının kullanım alanını daraltmaktadır. Bu nedenle, bu meslekte çalışanların CNC teknolojisine ilişkin bilgi ve beceri edinmesi, iş bulma ve istihdamda sürekliliğini koruma açısından önem taşımaktadır.",
+ "kazanc": {
+  "egitim_suresince": "Mesleki eğitim merkezinde veya işyerinde çıraklık/mesleki eğitim kapsamında eğitim gören öğrencilere, 3308 sayılı Mesleki Eğitim Kanunu hükümleri doğrultusunda işletmelerde asgari ücretin belirli bir oranından az olmamak üzere ücret ödenir; ayrıca eğitim gören öğrencilerin iş kazası ve meslek hastalığı sigortası devletçe karşılanır.",
+  "egitim_sonrasi": [
+   "Özel sektörde çalışanların kazancı, işyerinin büyüklüğü, çalışanın deneyimi ve beceri düzeyine göre işveren ile karşılıklı anlaşma yoluyla belirlenir; yeni başlayanlarda kazanç genellikle asgari ücret düzeyindedir, deneyim ve uzmanlaştıkça artabilir.",
+   "Kamuya bağlı işletmelerde işçi statüsünde çalışanların ücreti, ilgili toplu iş sözleşmesi hükümlerine göre belirlenir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleki eğitim merkezinden ustalık belgesi alarak mezun olanlar, alanın devamı niteliğindeki mesleki ve teknik yükseköğretim (ön lisans) programlarına sınavla veya ilgili düzenlemelere göre ek puan avantajıyla geçiş yapabilirler. Ayrıca çeşitli kurumların açtığı CNC torna, CNC freze gibi ileri seviye tezgah eğitimlerine katılarak mesleki bilgisini güncelleyebilirler.",
+  "is_hayatinda": "Deneyim ve beceri kazanan operatörler, ustabaşı, atölye şefi veya kalite kontrol sorumlusu gibi görevlere yükselebilir. CNC tezgah teknolojisine yönelik ek eğitim alan operatörler, CNC torna tezgahı operatörlüğüne geçiş yapabilir. Yeterli sermaye ve deneyime sahip olanlar kendi işyerini/atölyesini açabilir."
+ },
+ "benzer_meslekler": [
+  "CNC Torna Tezgahı Operatörü",
+  "Hadde Torna Tezgâhı Ayarcı-Operatörü (Metal İşçiliği)",
+  "Çok Milli Özel Torna Tezgâhı Ayarcı-Operatörü (Metal İşçiliği)",
+  "Freze Tezgahı Ayarcı-Operatörü (Metal İşçiliği)",
+  "Boring Matkap Tezgâhı Ayarcı-Operatörü (Metal İşçiliği)",
+  "Metal İşleme Tezgahı Ayarcısı"
+ ],
+ "ek_bilgiler": "Bilgisayar kontrollü (CNC) tezgahların yaygınlaşması nedeniyle geleneksel yatak torna tezgahı operatörlüğüne olan talep azalma eğilimindedir. Bu alanda çalışmayı düşünenlerin, istihdam olanaklarını artırmak amacıyla CNC tezgah teknolojilerine yönelik ek bilgi ve beceri edinmeleri önerilir.",
+ "gorevler": [
+  "İşlenecek parçanın teknik resim veya diğer ölçülerini inceler.",
+  "İşlenecek yatak kasasını vinç yardımıyla kaldırarak tezgahın sehpası üzerine yerleştirir ve papuçlar ile sabitler.",
+  "Kullanacağı talaş almaya mahsus bıçağı seçer ve tezgahtaki bıçak yuvasına takar.",
+  "Tezgahın hız ve bıçağın paso ayarını yapar, tezgahı çalıştırır.",
+  "Parçanın otomatik olarak işlenişini takip eder ve ölçme aletleriyle işlenen parçanın ölçülerini kontrol eder.",
+  "Gerekirse parçanın durumunda ve tezgahın çalışma ayarlarında değişiklikler yapar.",
+  "Torna işinin bitiminde tezgahın çalışmasını durdurur.",
+  "İşlenen parçayı tezgah sehpasından alır ve son kontrolünü yaparak ilgili kısma gönderir.",
+  "Tezgahın bakım ve temizliğini yapar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T02:03:39",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6545
+  }
+ }
+}

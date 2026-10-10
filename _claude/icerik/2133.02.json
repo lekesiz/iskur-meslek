@@ -1,0 +1,86 @@
+{
+ "arac_gerec": [
+  "Bilgisayar ve projeksiyon cihazı",
+  "Eğitim sunum materyalleri (slayt, afiş, broşür, el kitabı)",
+  "Yazı tahtası / flipchart",
+  "Ses sistemi ve mikrofon",
+  "Basit hava, su ve toprak kalitesi test kitleri",
+  "Gürültü ölçer (desibelmetre)",
+  "Numune alma kapları ve ekipmanları",
+  "Kişisel koruyucu donanım (eldiven, maske, bot vb.)",
+  "Saha gözlem araçları (dürbün, GPS cihazı)",
+  "Eğitim amaçlı belgesel ve video materyalleri",
+  "Geri dönüşüm ve atık ayrıştırma örnek malzemeleri",
+  "Saha gezileri için ulaşım araçları"
+ ],
+ "genel_ozellikler": [
+  "Çevre konularına ilgili ve duyarlı,",
+  "İletişim becerisi güçlü, topluluk önünde rahat konuşabilen,",
+  "Sabırlı ve anlatım becerisine sahip,",
+  "Araştırmaya ve sürekli öğrenmeye istekli,",
+  "Gözlem yeteneği gelişmiş,",
+  "Sorumluluk sahibi ve güvenilir,",
+  "Farklı kesimlerle (çiftçi, öğrenci, işletme çalışanı vb.) çalışmaya yatkın,",
+  "Saha koşullarında çalışmaya istekli ve dayanıklı"
+ ],
+ "calisma_ortami": "Çevre eğiticileri hem kapalı ortamlarda (eğitim salonları, okullar, halk eğitim merkezleri, belediye ve kamu kurumu toplantı salonları) hem de açık alanlarda (sanayi tesisleri, tarım arazileri, ormanlık alanlar, su kaynakları, atık/geri dönüşüm tesisleri) görev yapar. Saha çalışmaları sırasında hava koşullarına, tozlu veya kirli ortamlara ve zaman zaman gürültülü işletmelere maruz kalınabilir; bu durumlarda gerekli kişisel koruyucu donanım kullanılır.\n\nÇalışma saatleri genellikle yürütülen eğitim programının ve etkinliklerin zamanlamasına göre değişir; hafta sonu veya akşam saatlerinde topluluk eğitimleri verilebilir. Görevi gereği belediye ve kamu kurumu çalışanları, öğretmenler, çiftçiler, sanayi işletmecileri, sivil toplum kuruluşu gönüllüleri, öğrenciler ve yerel halkla sürekli iletişim halinde çalışılır; bu nedenle ekip çalışmasına ve farklı kesimlerle iyi ilişki kurmaya yatkın olmak önemlidir.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin Türk Meslekler Sözlüğü kaydında belirtilen gerekli minimum eğitim düzeyi ilköğretimdir; bu nedenle meslek, standart ve zorunlu bir örgün yükseköğretim programına bağlı değildir. Uygulamada çevre eğiticiliği görevi; Halk Eğitim Merkezleri, İŞKUR, belediyeler, Çevre, Şehircilik ve İklim Değişikliği Bakanlığı'na bağlı birimler ile çevre alanında çalışan sivil toplum kuruluşlarının açtığı 'çevre bilinci', 'çevre eğitimi' veya 'sürdürülebilirlik' konulu kurs ve sertifika programlarıyla kazandırılmaktadır. Ayrıca üniversitelerin çevre mühendisliği, biyoloji, çevre bilimleri gibi ilgili bölümlerinden mezun olanlar da bu alanda eğiticilik yapabilmektedir.",
+  "giris_kosullari": [
+   "Kursu düzenleyen kuruma göre değişmekle birlikte en az ilköğretim mezunu olmak,",
+   "Okuma yazma ve temel düzeyde iletişim becerisine sahip olmak,",
+   "Bazı kurum ve kuruluşlarca açılan eğitimlerde lise veya üniversite mezuniyeti şartı aranabilmektedir,",
+   "İlgili kurumun belirlediği başvuru koşullarını (yaş, sağlık durumu vb.) taşımak"
+  ],
+  "sure_ve_icerik": "Meslek için standart ve zorunlu tek bir eğitim programı bulunmamaktadır; süre ve içerik eğitimi veren kuruma göre değişir. Halk Eğitim Merkezleri, İŞKUR, belediyeler ve çevre konusunda faaliyet gösteren kurum/kuruluşlarca açılan kurslarda genellikle hava, su ve toprak kirliliği, erozyon, ekoloji, küresel ısınma, yenilenebilir enerji kaynakları, radyasyon ve atık yönetimi gibi konular teorik ve uygulamalı olarak birkaç haftalık programlar hâlinde işlenir. Üniversitelerin ilgili lisans/önlisans programlarını tamamlayanlar da bu konularda daha kapsamlı bir eğitim almış olur.",
+  "belge": "Katıldığı kurs veya programı tamamlayanlara, programı düzenleyen kurum tarafından katılım/başarı belgesi ya da sertifika verilir. İlgili üniversite programlarını tamamlayanlara önlisans veya lisans diploması verilir."
+ },
+ "gorevler": [
+  "Hava kirliliğinin insan sağlığına ve çevreye olan etkilerini kavrar.",
+  "Hava kirliliğine etki eden kaynakları kontrol eder.",
+  "Su kirliliğine karşı alınması gereken kurumsal önlemlerin kontrolünü yapar.",
+  "Kirlenmiş suların insan ve çevreye etkisinin kontrolünü yapar.",
+  "Toprak kirlilik kaynaklarını tespit eder.",
+  "Erozyonun ve tarımsal faaliyetlerin toprak kirliliğine etkisinin kontrolünü yapar.",
+  "Çevre kirliliği olarak gürültü kaynaklarını tespit eder.",
+  "Ekolojiyi ve kapsamını açıklar.",
+  "Ülkemizin kaynaklarını tanır.",
+  "Çevre kirleticilerin etkilerini kavrar.",
+  "Küresel ısınmayı açıklar.",
+  "Nüfusun çevreye etkilerini kavrar.",
+  "Çevre kuruluşlarını tanır.",
+  "Yenilenebilir kaynakları açıklar.",
+  "Radyasyonu tanır.",
+  "Çevreye karşı duyarlı olur ve çevreyi korur.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "calisma_alanlari": "Çevre eğiticileri; belediyeler, il çevre ve şehircilik müdürlükleri, Tarım ve Orman Bakanlığı'na bağlı kuruluşlar, Halk Eğitim Merkezleri, okullar, çevre alanında faaliyet gösteren sivil toplum kuruluşları ve dernekler, atık yönetimi ve geri dönüşüm tesisleri, sanayi kuruluşlarının çevre veya iş sağlığı-güvenliği birimleri ile tarımsal kalkınma kooperatifleri bünyesinde çalışabilirler. Ayrıca kamu kurumları, yerel yönetimler ve özel sektör tarafından yürütülen çevre bilinci artırma, sürdürülebilirlik ve kırsal kalkınma projelerinde eğitimci olarak görev alabilirler.\n\nİş bulma olanakları; bölgesel çevre projelerinin, belediyelerin ve sivil toplum kuruluşlarının faaliyet yoğunluğuna, ayrıca ilgili kurumların bütçe ve personel ihtiyacına göre değişiklik göstermektedir.",
+ "kazanc": {
+  "egitim_suresince": "Kursiyerler genellikle Halk Eğitim Merkezi veya İŞKUR tarafından açılan kurslardan ücretsiz yararlanır; bazı kurumlar katılımcılara kurs süresince yol/yemek desteği sağlayabilir. Üniversitelerin ilgili bölümlerine devam edenler ise öğrenim kredisi ve burs olanaklarından faydalanabilir.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında bu görevi yürütenler, istihdam şekline göre 657 sayılı Devlet Memurları Kanunu hükümlerine veya ilgili toplu iş sözleşmesine göre ücretlendirilir.",
+   "Özel sektörde ve sivil toplum kuruluşlarında çalışanların kazancı; işin kapsamına, yürütülen projenin süresine, deneyime ve işverenle yapılan anlaşmaya göre değişiklik gösterir.",
+   "Göreve yeni başlayanların kazancı genellikle asgari ücret düzeyinde olup, deneyim ve üstlenilen sorumluluk arttıkça gelir de artabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "İlgi duyulan çevre konularında (atık yönetimi, su kaynakları, iklim değişikliği, enerji verimliliği gibi) ek kurs ve sertifika programlarına katılarak uzmanlaşılabilir. İsteyenler çevre mühendisliği, biyoloji veya çevre bilimleri gibi alanlarda örgün öğrenime yönelerek mesleki bilgi düzeyini yükseltebilir.",
+  "is_hayatinda": "Deneyim kazandıkça proje koordinatörlüğü, eğitim birimi sorumluluğu veya çevre danışmanlığı gibi daha kapsamlı görevlere yükselinebilir. Kamu kurumlarında kıdeme bağlı olarak unvan ve derece ilerlemesi sağlanabilir."
+ },
+ "benzer_meslekler": [
+  "Atık Yöneticisi",
+  "Deniz Kirliliği Önleme Uzmanı",
+  "Ormancılık Danışmanı",
+  "Tarım Müşaviri/Danışmanı",
+  "Balıkçılık Danışmanı"
+ ],
+ "ek_bilgiler": "Bu meslek için Türk Meslekler Sözlüğü'nde belirtilen gerekli minimum eğitim düzeyi ilköğretim olup, meslek standart ve zorunlu bir mesleki eğitim programına bağlı değildir. Bu nedenle istihdamda, katılınan kurs ve sertifika programları, konuya ilişkin bilgi birikimi ve iletişim/anlatım becerisi önemli rol oynamaktadır. Çevre bilinci ve sürdürülebilirlik konularındaki güncel kamu politikaları ve projeler, bu alandaki istihdam olanaklarını etkileyebilmektedir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-07T21:12:35",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 8734
+  }
+ }
+}

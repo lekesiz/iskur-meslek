@@ -1,0 +1,84 @@
+{
+ "arac_gerec": [
+  "Fıçı yıkama makinesi",
+  "Palet bozma/boşaltma makinesi",
+  "Fıçı iletme konveyör bant sistemi",
+  "İç ve dış yıkama istasyonları (nozül/püskürtme başlıkları)",
+  "Su, buhar ve basınçlı hava hatları",
+  "Makine kontrol paneli",
+  "El aletleri (anahtar takımı, basit tamir gereçleri)",
+  "Yedek parça (conta, nozül, contalar vb.)",
+  "Koruyucu eldiven, gözlük ve kulaklık",
+  "İş elbisesi ve çizme",
+  "Matbu kayıt formları",
+  "Temizlik ve dezenfeksiyon malzemeleri"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve gözlem gücü yüksek,",
+  "Sorumluluk duygusu gelişmiş,",
+  "El ve göz koordinasyonuna sahip,",
+  "Makine ve ekipman kullanımına yatkın,",
+  "Düzenli ve temiz çalışmaya özen gösteren,",
+  "Fiziksel olarak dayanıklı,",
+  "Ekip çalışmasına uyumlu,",
+  "Talimatlara ve iş güvenliği kurallarına uyan"
+ ],
+ "calisma_ortami": "Fıçı yıkama makinesi operatörü, genellikle bira, meşrubat veya benzeri sıvı ürünlerin fıçılarla dolaştırıldığı gıda ve içecek üretim tesislerinde, kapalı alanlarda çalışır. Çalışma ortamı su, buhar ve nem oranının yüksek olduğu, zaman zaman gürültülü olabilen bir atölye/üretim hattı niteliğindedir. Islak zeminlerde çalışma, ağır fıçı ve ekipmanlarla temas, makine hareketli parçalarına yakınlık gibi nedenlerle iş sağlığı ve güvenliği kurallarına tam uyum önemlidir; koruyucu giysi, eldiven ve gerektiğinde işitme koruyucu kullanılır.\n\nÜretim genellikle vardiyalı düzende ve tam gün esasına göre yürütülür. Operatör; forklift operatörleri, bant/hat çalışanları, bakım-onarım personeli ve vardiya amiri ile sürekli iletişim halinde çalışır, üretim akışının aksamadan devam etmesi için ekip içinde koordinasyon sağlar.",
+ "gorevler": [
+  "Fıçı yıkama makinesinin ürüne uygun ayarlarını yapar ve kullanıma hazırlar.",
+  "Palet bozma makinesini kullanıma hazırlar.",
+  "Fıçı iletme konveyör bandını kullanıma hazırlar.",
+  "Banttaki fıçıların ve beslenen paletlerin gözle kontrollerini yapar.",
+  "Bant üzerinde olası fıçı sıkışmalarını önler.",
+  "Fıçı ağızlarındaki plastik kapakların yıkama öncesinde çıkarılmasını sağlar.",
+  "Otomatik makineyle istasyonlarda fıçıların dış ve iç çeper yıkama işlemlerini gerçekleştirir.",
+  "Makine arıza ve aksaklıklarının giderilmesini sağlar.",
+  "Yıkama işlemi sonrası yıkanan fıçıları gözle kontrol eder.",
+  "Sistemin hava, su, buhar vb. yardımcı tesis ihtiyaçlarını temin eder.",
+  "Ürün değişiminde, makine ve bant ayarlarını değiştirir.",
+  "Makine aparatları yıprandığında veya kırıldığında parça değişimi yapar.",
+  "İşlemlere ait matbu form kayıtlarını tutar.",
+  "Çalışma alanının temizlenmesini sağlar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Fıçı yıkama makinesi operatörlüğü için örgün eğitimde ayrı, standart bir meslek eğitim programı bulunmamaktadır. Meslek genellikle işyerlerinde işbaşında usta yanında uygulamalı olarak öğrenilir. Ayrıca Halk Eğitim Merkezleri ile İŞKUR'un açtığı mesleki eğitim kursları da bu mesleğe yönelik temel bilgi ve beceri kazandırabilir. Mesleki ve teknik eğitimin gıda teknolojisi alanından mezun olanlar, bu göreve daha hazırlıklı başlayabilir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "Sağlık durumunun ayakta, nemli ve gürültülü ortamda çalışmaya elverişli olması",
+   "Görme ve işitme duyularının makine kontrolü yapmaya uygun olması",
+   "Gıda sektöründe çalışmaya engel bir durumunun bulunmaması"
+  ],
+  "sure_ve_icerik": "Mesleğin resmî/örgün bir eğitim süresi bulunmamaktadır. İşe alınan kişi, işletmenin bünyesinde deneyimli bir usta veya ustabaşı gözetiminde, makinenin çalışma prensipleri, ürüne göre ayar yapma, yıkama istasyonlarının kullanımı, arıza tespiti, hijyen kuralları ve iş güvenliği konularında işbaşında yetiştirilir. Bu süreç işletmenin büyüklüğüne ve makine karmaşıklığına göre birkaç haftadan birkaç aya kadar değişebilir. İŞKUR veya Halk Eğitim Merkezleri tarafından açılan kurslara katılım bu süreci destekleyebilir.",
+  "belge": "Örgün eğitimde diploma veren bir program olmadığından, katılım gösterilen kurslar sonunda kurs bitirme/katılım belgesi alınabilir. İlgili alanda Mesleki Yeterlilik Kurumu (MYK) belgesi bulunması, istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Fıçı yıkama makinesi operatörleri başta bira ve meşrubat fabrikaları olmak üzere, çok kullanımlık (iade edilebilir) fıçı kullanan içecek ve gıda üretim tesislerinde istihdam edilir. Bu işletmelerin yıkama-dolum hatlarında görev alırlar. İş imkânları, fıçılı ürün üreten tesislerin bulunduğu bölgelerde ve sektörün üretim hacmine göre şekillenmektedir.",
+ "kazanc": {
+  "egitim_suresince": "İşbaşında usta yanında yetiştirilme sürecinde çalışan, işletmenin belirlediği ücret üzerinden genellikle asgari ücret düzeyinde bir kazanç elde eder. Katılınan kurslar ücretsiz olabilir veya işletme tarafından desteklenebilir.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanların kazancı genellikle asgari ücret düzeyindedir.",
+   "Özel sektörde çalışanların ücreti; işletmenin büyüklüğü, çalışanın deneyimi, bilgisi, çalışma temposu ve sektörün genel ücret düzeyine göre karşılıklı anlaşma ile değişebilir.",
+   "Kamu kurumlarına bağlı tesislerde işçi statüsünde çalışılması hâlinde ücret, ilgili toplu iş sözleşmesi hükümlerine göre belirlenir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Örgün bir diploma programı bulunmadığından ilerleme büyük ölçüde kurs ve sertifikalarla desteklenir. İsteyenler, mesleki ve teknik eğitimin gıda teknolojisi alanına yönelerek veya ilgili önlisans/lisans programlarına girerek bilgi ve becerilerini artırabilir. MYK belgesi edinmek, bilgi ve becerinin belgelendirilmesini sağlayabilir.",
+  "is_hayatinda": "Deneyim ve bilgi birikimi arttıkça operatör; vardiya sorumluluğu, hat/ekip liderliği veya üretim/bakım sorumluluğu gibi görevlere yükselebilir. İlgili teknik bilgiyi geliştirenler, makine bakım-onarım veya kalite kontrol gibi alanlara geçiş yapabilir."
+ },
+ "benzer_meslekler": [
+  "Boş Şişe Yıkama Makinesi Operatörü",
+  "Fıçı Bira Dolum Makinesi Operatörü",
+  "Bira Filtreleme İşçisi",
+  "Fermantasyon İşçisi (Şarap, Bira vb.)",
+  "Diğer Bira, Şarap ve İçki İmalat İşçileri"
+ ],
+ "ek_bilgiler": "Gıda ve içecek üretiminde çalışıldığından, mesleğin icrasında kişisel hijyen kurallarına ve işletmenin gıda güvenliği standartlarına tam uyum önemlidir. Nemli ve ıslak zeminlerde çalışma nedeniyle iş sağlığı ve güvenliği tedbirlerine özen gösterilmesi gerekir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T15:17:48",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5406
+  }
+ }
+}

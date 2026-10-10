@@ -1,0 +1,77 @@
+{
+ "arac_gerec": [
+  "Teodolit (açı ölçme aleti)",
+  "Elektronik takometre (total station)",
+  "Nivo (yükseklik ölçüm aleti)",
+  "Elektronik mesafe ölçer",
+  "GPS/GNSS alıcıları",
+  "Prizma ve jalon (saha işaretleme ekipmanları)",
+  "Çelik şerit metre",
+  "Bilgisayar ve CAD/CBS (coğrafi bilgi sistemleri) yazılımları",
+  "Fotogrametri ve uzaktan algılama yazılımları",
+  "Plotter (sayısal verileri harita çizimine dönüştüren yazıcı)",
+  "İnsansız hava aracı (İHA/drone) ile görüntüleme sistemleri",
+  "Saha defteri ve ölçüm formları",
+  "Koruyucu iş kıyafeti ve ekipmanı (saha çalışmalarında)"
+ ],
+ "genel_ozellikler": [
+  "Matematik ve geometriye yetenekli,",
+  "Şekil ve uzay ilişkilerini zihninde canlandırabilen,",
+  "Çizim yapabilme yeteneğine sahip,",
+  "Dikkatli ve sabırlı gözlem yapabilen,",
+  "Başkalarıyla işbirliği içinde ve ekip halinde çalışabilen,",
+  "Hem büroda hem de açık havada çalışmaktan hoşlanan,",
+  "Sorumluluk sahibi ve titiz,",
+  "Teknolojik gelişmeleri takip etmeye istekli"
+ ],
+ "calisma_ortami": "\"Harita mühendisleri çalışmalarını hem büroda hem de arazide yürütür. Büro ortamında bilgisayar başında ölçüm verilerini değerlendirir, hesaplamalar yapar ve harita çizimlerini tamamlar; saha çalışmalarında ise açık havada, bazen zorlu arazi ve iklim koşullarında (sıcak, soğuk, yağış) ölçüm yapar. Görev gereği sık sık şehir dışına ve farklı bölgelere seyahat etmek gerekebilir.\\n\\nÇalışma süresince inşaat, jeoloji, çevre, şehir plancılığı gibi alanlardaki mühendis ve teknik personelle, topoğraflarla, kadastro çalışanlarıyla ve kurum/belediye yetkilileriyle yakın işbirliği içinde çalışılır. Mesleğin uygulanmasında ekip çalışması ve koordinasyon önemlidir; çalışma saatleri genellikle büro mesaisine uygun olmakla birlikte, saha çalışmalarında proje teslim süreleri nedeniyle esneyebilir.\"",
+ "gorevler": [
+  "Mevcut not, plan, eski harita, tapu kayıtları ve harita çizimine yardımcı olacak diğer belgeleri ve çizimde istenen şartları inceler.",
+  "Çizimi yapılacak yerin karadan, havadan ve denizden görünümünü araştırır ve gerekli hesapları yapar.",
+  "Sahada kullanılacak aletlerin ayarlarını yapar veya yaptırır.",
+  "Yeryüzü, yer altı ve su altı bölgelerine ait hakiki noktalar, yükseklikler, kotlar, hatlar, açılar, eğriler ve diğer verilerin tespiti için etütler yapar.",
+  "Poligonları hazırlar, teodolit ile poligonların açı ve kenarlarının yükseklik ölçülerini alır.",
+  "Saha çalışmaları sonucu elde edilen değerleri ve diğer şartnameleri göz önünde bulundurarak belli bir ölçekte harita çizer.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi, üniversitelerin mühendislik fakültelerine bağlı \"Harita Mühendisliği\", \"Jeodezi ve Fotogrametri Mühendisliği\" veya \"Geomatik Mühendisliği\" bölümlerinde verilmektedir.",
+  "giris_kosullari": [
+   "Lise veya dengi okul mezunu olmak",
+   "YKS (Yükseköğretim Kurumları Sınavı) sonucuna göre ilgili puan türünde yeterli puanı alarak ilgili lisans programına yerleşmek",
+   "Meslek yüksekokullarının ilgili önlisans programlarından mezun olanlar, Dikey Geçiş Sınavı (DGS) ile ilgili lisans programlarına geçiş yapabilir"
+  ],
+  "sure_ve_icerik": "Eğitim süresi 4 yıldır. Eğitimin ilk yıllarında matematik, fizik, geometri, bilgisayar ve temel mühendislik dersleri okutulur. Sonraki yıllarda ölçme bilgisi, jeodezi, fotogrametri, uzaktan algılama, coğrafi bilgi sistemleri (CBS), kadastro ve mülkiyet hukuku gibi alana özgü dersler ağırlık kazanır. Eğitim süresince staj yapma ve bitirme projesi hazırlama zorunluluğu bulunur.",
+  "belge": "Eğitimini başarıyla tamamlayanlara lisans diploması (Harita Mühendisi / Geomatik Mühendisi unvanı) verilir."
+ },
+ "calisma_alanlari": "\"Harita mühendisleri; Tapu ve Kadastro Genel Müdürlüğü, belediyeler, Karayolları Genel Müdürlüğü, Devlet Su İşleri (DSİ) Genel Müdürlüğü, İller Bankası, Çevre, Şehircilik ve İklim Değişikliği Bakanlığı gibi kamu kurumlarında; özel harita-kadastro büroları, mühendislik ve müşavirlik firmaları, inşaat ve madencilik şirketlerinde; ayrıca akademik kurumlarda ve araştırma merkezlerinde çalışabilirler. Kent imar planlaması, kadastro çalışmaları, yol-su-enerji projeleri, coğrafi bilgi sistemleri uygulamaları ve doğal afet risk haritalaması bu mesleğin başlıca çalışma alanlarını oluşturur. İmar ve altyapı projelerinin artmasına bağlı olarak sektörde istihdam olanağı sürmektedir.\"",
+ "kazanc": {
+  "egitim_suresince": "Lisans eğitimi süresince öğrenciler, devlet veya özel kuruluşların sağladığı burs ve öğrenim kredisi olanaklarından yararlanabilir; staj dönemlerinde işletmelerden cüzi bir ücret alabilirler.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında 657 sayılı Devlet Memurları Kanunu'na göre maaş ve mühendislik tazminatı alırlar.",
+   "Özel sektörde çalışanların kazancı deneyim, uzmanlık ve işletmenin büyüklüğüne göre karşılıklı anlaşmayla belirlenir; yeni mezunlar için kazanç genellikle asgari ücret düzeyine yakın başlayıp deneyimle artar.",
+   "Serbest çalışan harita mühendisleri, büro sahibi olarak proje bazlı kazanç sağlayabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Lisans eğitimini tamamlayanlar, jeodezi, fotogrametri, kadastro veya coğrafi bilgi sistemleri gibi alanlarda yüksek lisans ve doktora yaparak akademik kariyer yapabilir; mesleki gelişim için ilgili kurum ve kuruluşların düzenlediği uzmanlık kurs ve sertifika programlarına katılabilirler.",
+  "is_hayatinda": "Kamuda kıdem ve sınav sonuçlarına göre şube müdürlüğü, daire başkanlığı gibi yönetici kademelerine yükselinebilir. Özel sektörde proje müdürlüğü veya işletme ortaklığına; meslek odasına kayıt ve gerekli şartları sağlayarak Lisanslı Harita Kadastro Mühendisleri ve Bürolarına (LİHKAB) ilişkin faaliyetlerde bulunmaya ya da kendi mühendislik bürosunu kurmaya yönelebilirler."
+ },
+ "benzer_meslekler": [
+  "Arazi Topoğrafı",
+  "Fotogrametrist",
+  "Harita/Harita ve Kadastro/Jeodezi ve Fotogrametri/Geomatik Mühendisi",
+  "Coğrafi Bilgi Sistemleri Uzmanı",
+  "Tapu ve Kadastro Uzmanı",
+  "Şehir (Kent) Plancısı"
+ ],
+ "ek_bilgiler": "\"Harita mühendisleri, ilgili meslek odasına (TMMOB Harita ve Kadastro Mühendisleri Odası) kayıt olarak mesleki faaliyetlerini sürdürür. Ayrıca gerekli şartları taşıyan harita mühendisleri, Lisanslı Harita Kadastro Mühendisleri ve Bürolarına (LİHKAB) ilişkin mevzuat kapsamında kadastro ve özel ölçme hizmetleri de verebilir.\"",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-07T21:58:55",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5746
+  }
+ }
+}

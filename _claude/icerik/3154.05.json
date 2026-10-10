@@ -1,0 +1,75 @@
+{
+ "arac_gerec": [
+  "Radar ekranları ve kontrol konsolları",
+  "Hava trafik yönetim sistemleri (ATM) yazılımları",
+  "Telsiz ve sesli haberleşme cihazları",
+  "Koordinasyon telefon hatları ve direkt hatlar",
+  "Meteorolojik veri izleme sistemleri",
+  "Uçuş planı ve veri işleme sistemleri",
+  "Vardiya ve personel çizelgeleme yazılımları",
+  "Acil durum ve kriz yönetim prosedür dokümanları",
+  "Ses/konuşma kayıt ve dinleme sistemleri",
+  "Eğitim amaçlı simülatör sistemleri",
+  "Bilgisayar ve ofis yazılımları"
+ ],
+ "genel_ozellikler": [
+  "Hızlı ve doğru karar verebilen,",
+  "Yüksek dikkat ve konsantrasyon gösterebilen,",
+  "Stres altında sakin ve soğukkanlı kalabilen,",
+  "Liderlik ve yönetim becerisine sahip,",
+  "Sorumluluk sahibi ve güvenilir,",
+  "İyi derecede İngilizce bilen,",
+  "İletişim becerisi gelişmiş,",
+  "Ekip çalışmasına uyumlu"
+ ],
+ "calisma_ortami": "Hava Trafik Baş Kontrolörü, kule, radar/yaklaşma kontrol üniteleri veya saha kontrol merkezleri gibi kapalı mekanlarda çalışır. Çalışma, 24 saat kesintisiz işletilen hava trafik hizmetinin gereği olarak vardiya düzeninde (gece, gündüz, hafta sonu ve resmi tatiller dahil) yürütülür. Görev, yüksek sorumluluk ve bilişsel yoğunluk gerektirir; kontrolörlerin çalışmasını denetlemek, acil durumlarda sorumluluğu devralmak gibi görevler nedeniyle stres düzeyi yüksek olabilir.\n\nÇalışma sırasında kendisine bağlı kontrolörler, havaalanı işletmesi yöneticileri, meteoroloji ve teknik birimler, ilgili sivil havacılık kurumları ve bazı durumlarda pilotlarla sürekli iletişim halindedir.",
+ "calisma_alanlari": "Hava Trafik Baş Kontrolörleri, başta Devlet Hava Meydanları İşletmesi (DHMİ) Genel Müdürlüğü'ne bağlı kule, yaklaşma kontrol ve saha kontrol merkezleri olmak üzere hava trafik hizmeti veren birimlerde görev alır. Bazı özel havalimanı işletmelerinde ve uygun olduğu durumlarda askeri hava trafik kontrol ünitelerinde de istihdam edilebilirler. Kamu istihdamı bu meslekte ağırlıklıdır.",
+ "ek_bilgiler": "Hava trafik kontrolü, havacılık emniyeti açısından yüksek sorumluluk taşıyan bir meslek alanıdır; görevliler düzenli olarak sağlık muayenesi ve mesleki yeterlilik değerlendirmesinden geçer. Bu meslekte istihdam ve yetkilendirme, Mesleki Yeterlilik Kurumu belgesinden farklı olarak ilgili sivil havacılık otoritesi tarafından verilen hava trafik kontrolörü lisansı ve kurum içi yetkilendirmeye dayanır.",
+ "egitim": {
+  "verildigi_yerler": "Türkiye'de hava trafik kontrolörlüğüne giriş eğitimi, başta Devlet Hava Meydanları İşletmesi (DHMİ) Genel Müdürlüğü'nün eğitim birimleri olmak üzere, ilgili sivil havacılık otoritesi tarafından yetkilendirilmiş eğitim kurumlarında ve bazı üniversitelerin hava trafik kontrol ile ilgili lisans programlarında verilmektedir. 'Hava Trafik Baş Kontrolörü' ayrı bir okul veya program sonucunda değil, hava trafik kontrolörü olarak göreve başlayan kişinin kurum içinde kıdem, performans değerlendirmesi ve ek eğitimler yoluyla yükseldiği bir denetleyici/yönetici pozisyondur.",
+  "giris_kosullari": [
+   "En az lisans düzeyinde öğrenim görmüş olmak (hava trafik kontrol veya ilgili mühendislik/bilim alanlarından mezuniyet tercih edilmektedir)",
+   "İlgili kurumun açtığı yazılı sınav, İngilizce dil yeterliliği sınavı ve mülakatlarda başarılı olmak",
+   "Psikoteknik değerlendirme ve sağlık muayenelerinde (özellikle görme ve işitme) belirlenen şartları karşılamak",
+   "İyi derecede İngilizce bilmek"
+  ],
+  "sure_ve_icerik": "Hava trafik kontrolörü olarak göreve başlayanlar önce teorik dersler ve simülatör uygulamalarından oluşan bir temel eğitim sürecinden geçer; ardından kule, radar veya yaklaşma kontrol ünitelerinde belirli bir süre kontrolör olarak görev yapar. Baş kontrolörlüğe yükselme; kurum içi kıdem, düzenli performans değerlendirmeleri ve yönetici/denetleyici niteliğindeki ek eğitimler sonucunda gerçekleşir. Bu sürecin uzunluğu kişinin performansına ve kurumun ihtiyaçlarına göre değişebilir.",
+  "belge": "İlgili sivil havacılık otoritesi tarafından düzenlenen hava trafik kontrolörü lisansı/yetkilendirme belgesi ile kurum içi baş kontrolör görevlendirme yetkisi."
+ },
+ "gorevler": [
+  "Kontrolörlerin vardiya düzenini ve operasyonel iş yükünü yönetir.",
+  "Acil durum ve kaza kırım süreçlerinde kule yönetimini devralır.",
+  "Hava trafik sistemlerinin ve radar cihazlarının faal olmasını denetler.",
+  "Personel eğitimlerini ve yetkinlik değerlendirmelerini yürütür.",
+  "Üst makamlarla hava sahası kapasite ve emniyet planlamasını koordine eder.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "kazanc": {
+  "egitim_suresince": "Hava trafik kontrolörü olarak göreve başlayanlar, eğitim ve görev süresince kurumun çalışan statüsünde ücret alır; bu dönemdeki kazanç, kurumun uygulamalarına ve çalışanın statüsüne göre değişir.",
+  "egitim_sonrasi": [
+   "Kamu kurumunda (başta DHMİ) çalışanlar, 657 sayılı Devlet Memurları Kanunu veya ilgili personel statüsüne göre ücretlendirilir.",
+   "Kıdem, üstlenilen sorumluluk düzeyi ve göreve bağlı ek tazminatlar (baş kontrolörlük gibi denetleyici görevler dahil) arttıkça kazanç da yükselir.",
+   "Özel havalimanı işletmelerinde çalışanların ücreti, işveren ile kişi arasındaki anlaşmaya ve sektörün genel ücret düzeyine göre belirlenir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Hava trafik kontrolörleri, kurum içi ek eğitimler, düzenli yetkinlik sınavları ve kıdem kazanımı yoluyla önce vardiya amirliği gibi ara kademelere, ardından baş kontrolörlük gibi denetleyici pozisyonlara yükselebilir.",
+  "is_hayatinda": "Baş kontrolörler, deneyim, performans ve ek yönetici eğitimleriyle ünite şefliği, operasyon müdürlüğü gibi daha üst yönetim kademelerine ilerleyebilir."
+ },
+ "benzer_meslekler": [
+  "Hava Trafik Kontrolörü-Radar",
+  "Hava Trafik Kontrolörü-Kule",
+  "Uçuş Performans ve Planlama Kontrolörü",
+  "ATSEP (Hava Trafik Emniyeti Elektronik Personeli)",
+  "AİM (Havacılık Bilgi Yönetimi) Memuru",
+  "AFTN Memuru"
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T12:00:09",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5882
+  }
+ }
+}

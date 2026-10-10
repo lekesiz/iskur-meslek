@@ -1,0 +1,78 @@
+{
+ "arac_gerec": [
+  "Bilgisayar kumandalı proses kontrol paneli ve ekranları",
+  "Vana ve boru hatları",
+  "Sıvı hammadde stok tankları",
+  "Seviye ve miktar gösterge sistemleri",
+  "Reaktörler ve mikser motorları",
+  "Isı ve basınç kontrol sistemleri",
+  "Reaktör soğutma sistemi",
+  "İnceltme (dinlenme) tankları",
+  "Azot basınç sistemi",
+  "Üretim kartları ve günlük program defteri",
+  "Tartım/ölçüm ekipmanları",
+  "Kişisel koruyucu donanım (eldiven, gözlük, maske, kulaklık, iş elbisesi)"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve tedbirli,",
+  "Sorumluluk duygusu yüksek,",
+  "Sayısal işlemlere ve ölçümlere yatkın,",
+  "Bilgisayar destekli kontrol sistemlerini kullanabilen,",
+  "Talimatlara uyma konusunda disiplinli,",
+  "Ekip çalışmasına uyumlu,",
+  "Fiziksel olarak sağlıklı ve dayanıklı,",
+  "Vardiyalı çalışma düzenine uyumlu,"
+ ],
+ "calisma_ortami": "Proses işçisi, kimyasal madde üreten fabrika ve tesislerin proses/reaktör bölümlerinde çalışır. Çalışma genellikle kapalı alanda, bilgisayar kontrol paneli önünde ve reaktör/tank sahasında ayakta ve hareketli olarak yürütülür. Kimyasal maddelerle temas, buhar, koku ve orta düzeyde gürültü gibi etkenler nedeniyle kişisel koruyucu donanım kullanımı ve iş sağlığı güvenliği kurallarına dikkat etmek gerekir.\n\nİşlemlerin sürekliliği nedeniyle vardiyalı çalışma düzeni yaygındır. Meslek elemanı; vardiya amiri, diğer proses operatörleri, bakım ve kalite kontrol personeli ile sürekli iletişim halinde, zaman zaman bireysel zaman zaman ekip halinde çalışır.",
+ "gorevler": [
+  "Bilgisayar ortamında vana ve boruların otomatik kontrollerini yapar, arıza varsa ilgili birime bildirir,",
+  "Bilgisayar ortamında sıvı hammadde stok tanklarının seviye ve miktar gösterge kontrollerini yapar,",
+  "Üretim kartlarında belirtilen kod ve miktardaki sıvı hammaddeyi reaktörlere transfer eder,",
+  "Reaktörlerin mikser motorlarını çalıştırır ve reaktörleri devreye sokar,",
+  "Ürünlerin karıştırılma ve kimyasal reaksiyona tabi tutulma süresine göre reaktörlerin çalışmasını, ısısını ve motor hızlarını ayarlar,",
+  "Reaktördeki kimyasal işlemin bitiminde reaktör soğutma sistemini çalıştırır ve inceltme tanklarının ısısını ayarlar,",
+  "Ürünleri reaktörden inceltme tanklarına alır,",
+  "İş bitiminde vana ve boruların temizlenmesi için sisteme belli bir basınçta azot basar,",
+  "Ürünlerin şarj sürelerini, ürün değerini günlük program defterine yazar,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Proses işçiliği mesleğinin örgün eğitimde doğrudan bir karşılığı bulunmamaktadır. Meslek genellikle kimya sanayi işyerlerinde işbaşında usta yanında eğitim yoluyla veya işletmelerin kendi içinde düzenlediği eğitimlerle kazanılmaktadır. Halk Eğitim Merkezleri ve İŞKUR tarafından açılan kimya teknolojisi alanındaki mesleki eğitim kursları da bu mesleğe hazırlayıcı nitelikte olabilir. Mesleki ve teknik eğitim veren okulların kimya teknolojisi alanından mezun olmak meslekte işe başlarken avantaj sağlayabilir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "18 yaşını doldurmuş olmak",
+   "Kurs/işbaşı eğitiminin gerektirdiği temel becerileri yerine getirebilecek fiziksel ve psikomotor yeterliğe sahip olmak"
+  ],
+  "sure_ve_icerik": "Örgün bir eğitim programı bulunmadığından süre ve içerik işletmeden işletmeye değişmektedir. İşbaşı eğitimlerde genellikle iş sağlığı ve güvenliği, kimyasal madde güvenliği, bilgisayar destekli proses kontrol sistemlerinin kullanımı, reaktör ve tank işletim süreçleri konularında uygulamalı bilgi ve beceri kazandırılır.",
+  "belge": "İşyerinde verilen işbaşı eğitimler sonunda genellikle resmi bir diploma verilmez; kurslara katılım halinde Kurs Bitirme Belgesi alınabilir. Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Proses işçileri; boya, plastik, deterjan, gübre, ilaç, kozmetik ve diğer kimyasal madde üretimi yapan fabrika ve tesislerin üretim/reaktör bölümlerinde istihdam edilir. İş bulma olanakları, bulunulan bölgedeki kimya sanayi yoğunluğuna ve işletme sayısına göre değişmektedir.",
+ "kazanc": {
+  "egitim_suresince": "Eğitim işyerinde işbaşında verildiğinden genellikle ayrı bir eğitim ücreti söz konusu değildir; stajyer/çırak olarak çalışılan dönemde sınırlı bir ödeme yapılabilir.",
+  "egitim_sonrasi": [
+   "Meslek elemanlarının ücreti çalıştıkları işletmeye, deneyime ve bölgeye göre değişmekle birlikte yeni başlayanlarda genellikle asgari ücret düzeyindedir.",
+   "Deneyim ve sorumluluk arttıkça ücret düzeyi işletme imkanlarına göre yükselebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğin örgün eğitimde bir ilerleme basamağı bulunmamaktadır. İlgili kimya teknolojisi alanında alınacak ek eğitim ve kurslar bilgi ve beceri düzeyini artırabilir.",
+  "is_hayatinda": "Bilgi, beceri ve deneyim arttıkça usta, ustabaşı, vardiya amiri veya bölüm/üretim şefliği gibi unvanlar alarak ilerleme imkanı bulunabilir."
+ },
+ "benzer_meslekler": [
+  "Reaktör İşçisi (Boya)",
+  "Karıştırma Makinesi Operatörü-Kimyasal Maddeler",
+  "Otoklav Operatörü (Kimyasal ve İlgili İşlemler)",
+  "Evaporatör Operatörü-Kimyasal İşlemler",
+  "Pişirici (Kimyasal ve İlgili İşlemler)",
+  "Kurutma Makinesi Operatörü-Kimyasal ve İlgili İşlemler"
+ ],
+ "ek_bilgiler": "Kimyasal madde ile çalışıldığından iş sağlığı ve güvenliği kurallarına, kişisel koruyucu donanım kullanımına ve işletmelerin belirlediği prosedürlere uyulması önemlidir. Yürütülen işlemlerin niteliğine göre işyerinde ek güvenlik eğitimleri gerekebilir. Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T12:16:22",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5223
+  }
+ }
+}

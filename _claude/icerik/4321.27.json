@@ -1,0 +1,77 @@
+{
+ "arac_gerec": [
+  "Emanete bırakma/teslim fişi veya formu",
+  "Kasa veya yazar kasa",
+  "Eşya rafları ve numaralı dolaplar/kasalar",
+  "Numaralı etiket, bant ve mühür malzemeleri",
+  "Bilgisayar ve yazıcı",
+  "Telefon ve anons/telsiz sistemi",
+  "Güvenlik kamerası ve kayıt sistemi",
+  "El arabası veya troley (büyük/ağır eşya taşımak için)",
+  "Kilit ve anahtar sistemleri",
+  "Ücret tarifesi ve bilgilendirme panoları",
+  "Temizlik malzemeleri"
+ ],
+ "genel_ozellikler": [
+  "Dürüst ve güvenilir,",
+  "Dikkatli ve titiz çalışan,",
+  "İletişim becerisi iyi,",
+  "Sabırlı ve hoşgörülü,",
+  "Sorumluluk sahibi,",
+  "Düzenli ve organize çalışabilen,",
+  "Fiziksel olarak dayanıklı,",
+  "Müşteri odaklı ve hizmet anlayışına sahip"
+ ],
+ "calisma_ortami": "Emanet görevlileri genellikle otogar, tren ve metro istasyonu, havalimanı gibi ulaşım terminallerinde, otellerde, hastanelerde, alışveriş merkezlerinde, müzelerde, kütüphanelerde, spor ve eğlence tesislerinde bulunan emanet/bagaj bölümlerinde çalışır. Çalışma kapalı mekanda, genellikle ayakta ve bazen eşya taşıma gerektiren fiziksel bir faaliyettir.\n\nÇalıştığı kurumun hizmet saatlerine bağlı olarak gündüz veya vardiyalı (gece dahil) çalışabilir; bazı işyerlerinde yoğun müşteri trafiği ve sürekli farklı kişilerle muhatap olma durumu söz konusudur. Bırakılan eşyaların kaybolmaması, hasar görmemesi ve doğru kişiye teslim edilmesi için dikkat ve özen gerektirir; ayrıca salon amiri, güvenlik personeli ve diğer çalışanlarla iş birliği içinde görev yapar.",
+ "egitim": {
+  "verildigi_yerler": "Emanet görevlisi olmak için ayrı bir örgün mesleki eğitim programı bulunmamaktadır. Meslek, genellikle işe girişte işbaşında deneyimli personel eşliğinde öğrenilir. Bunun yanı sıra Halk Eğitim Merkezleri ve İŞKUR tarafından açılan müşteri ilişkileri, temel bilgisayar kullanımı, kasa/fiş işlemleri gibi kısa süreli kurslarla bilgi ve beceriler desteklenebilir.",
+  "giris_kosullari": [
+   "En az lise ve dengi okul mezunu olmak",
+   "Okuma yazma ve temel aritmetik işlemlerde yeterli olmak",
+   "Bazı işyerlerinde temel düzeyde yabancı dil bilgisi tercih sebebi olabilir"
+  ],
+  "sure_ve_icerik": "Standart bir meslek lisesi alanı/dalı veya belirli süreli bir eğitim programı tanımlanmamıştır. Çalışılacak işyerinin niteliğine göre işbaşı eğitimi kısa sürede (günler-haftalar içinde) verilir ve emanet kabul-teslim usulleri, fiş düzenleme, ücret tarifesi uygulama ile müşteri ilişkileri konularında pratik bilgi kazandırılır.",
+  "belge": "Örgün bir eğitim sonunda verilen diploma veya zorunlu bir sertifika bulunmamaktadır. Katılınan kurslar sonunda kurs bitirme/katılım belgesi alınabilir; Mesleki Yeterlilik Kurumu (MYK) belgesi varsa istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Otogar, tren ve metro istasyonları, havalimanları gibi ulaşım terminalleri; oteller; hastaneler; alışveriş merkezleri ve büyük mağazalar; müzeler, kütüphaneler, spor kulüpleri, yüzme havuzları ve hamamlar; sinema, tiyatro ve eğlence tesisleri gibi müşterilerine emanet/bagaj hizmeti sunan kamu ve özel sektör işletmelerinde istihdam edilebilirler.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğe özgü örgün bir eğitim süreci bulunmadığından ayrı bir eğitim dönemi kazancından söz edilemez; işbaşında eğitim alanlar genellikle çalıştıkları işyerinden ücret alır.",
+  "egitim_sonrasi": [
+   "Kamu kurum ve kuruluşlarına bağlı tesislerde çalışanlar, statülerine göre 657 sayılı Devlet Memurları Kanunu veya işçi statüsündeyse ilgili toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde ücret; işyerinin büyüklüğüne, sektörüne ve çalışanın deneyimine göre değişir; işe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğe özgü kademeli bir örgün eğitim basamağı bulunmamaktadır. Kişi, zaman içinde kazandığı deneyim ve katıldığı kurslarla bilgi ve becerilerini geliştirebilir.",
+  "is_hayatinda": "Deneyim kazandıkça vardiya sorumluluğu, salon sorumluluğu veya müşteri hizmetleri biriminde daha üst görevlere ve yöneticilik pozisyonlarına yükselme olanağı bulunmaktadır."
+ },
+ "benzer_meslekler": [
+  "Emanet Memuru",
+  "Tesellüm Görevlisi (Otel)",
+  "Yediemin",
+  "Ambar/Depo Görevlisi"
+ ],
+ "ek_bilgiler": "Bu meslekte doğruluk, güvenilirlik ve dikkat büyük önem taşır; bazı işyerleri, emanete bırakılan eşyaların güvenliği nedeniyle çalışanlardan sabıka kaydı temiz olma gibi şartlar isteyebilir.",
+ "gorevler": [
+  "Emanet ücret tarifelerini ve bilgilendirme yazılarını görülebilecek uygun yerlere asar.",
+  "Gelen müşterileri karşılar, emanet ücret tarifeleri ve emanet talimatları hakkında bilgi verir.",
+  "Müşterilerin emanete bırakmak istediği çanta, paket, valiz vb. eşyaların büyüklüğüne ve ağırlığına göre ücretini belirler.",
+  "Emanete bırakma fişi düzenler.",
+  "Ücret tahsil eder.",
+  "Emanete bırakılan eşyayı teslim alır, emanette kalacağı yere taşır.",
+  "Emanetini almaya gelen müşterileri karşılar, emanete bırakma fişini kontrol eder, fişteki kimlik bilgileri ile emaneti almaya gelenin kimlik bilgilerinin aynı olmasına dikkat eder.",
+  "Emanet salonunun temizlik ve düzenini sağlar.",
+  "Emanet salonunun ve emanete bırakılan eşyaların güvenliğine dikkat eder.",
+  "Müşterilerle karşılaşılan sorunlarda çözemediği durumları ilgililere iletir.",
+  "Müşterilerden gelen dilek, istek, şikayet ve memnuniyetleri değerlendirir, ilgililere iletir.",
+  "Mesleğiyle ilgili gelişmeleri takip eder ve uygular."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T16:25:45",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6090
+  }
+ }
+}

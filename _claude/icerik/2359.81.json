@@ -1,0 +1,77 @@
+{
+ "arac_gerec": [
+  "Traktör ve tarım alet-makineleri (pulluk, mibzer, römork, tarım römorku vb.)",
+  "El takımları (anahtar seti, tornavida, pense, çekiç)",
+  "Motor ve hidrolik sistem test cihazları",
+  "Kaynak makinesi ve kompresör",
+  "Yağlama ve bakım ekipmanları",
+  "Ölçüm aletleri (kumpas, multimetre, basınç ölçer)",
+  "Yedek parça kataloğu ve teknik şemalar",
+  "Eğitim amaçlı maket ve kesit modeller",
+  "Kişisel koruyucu donanım (eldiven, gözlük, iş elbisesi, iş ayakkabısı)",
+  "Bilgisayar ve projeksiyon cihazı (teorik dersler için)"
+ ],
+ "genel_ozellikler": [
+  "Mesleğinde ustalık düzeyinde bilgi ve beceriye sahip,",
+  "Öğretmeyi seven, sabırlı,",
+  "İyi iletişim kurabilen, anlatım gücüne sahip,",
+  "El ve beden becerisi gelişmiş, pratik zekalı,",
+  "Dikkatli ve sorumluluk sahibi,",
+  "Planlı ve düzenli çalışabilen,",
+  "Teknolojik gelişmeleri takip etmeye istekli,",
+  "Öğrencilere örnek olabilecek iş disiplinine sahip"
+ ],
+ "calisma_ortami": "Usta öğretici, çoğunlukla atölye veya işletme ortamında çalışır; tarım makinelerinin arıza tespiti, bakım ve tamiri sırasında zaman zaman açık alanda (tarla, çiftlik, saha) da görev yapabilir. Çalışma ortamında yağ, gürültü, toz ve kesici-delici aletlerle çalışma gibi riskler bulunduğundan iş sağlığı ve güvenliği kurallarına uyulması gerekir.\n\nMesleğini yürütürken aday çırak, çırak, kalfa ve mesleki eğitim öğrencileriyle, işletme sahipleriyle, okul yönetimi ve diğer öğretmenlerle sürekli ilişki içindedir. Çalışma saatleri genellikle gündüz ve işletme ya da eğitim kurumunun çalışma düzenine göre belirlenir; mesleki eğitim dönemlerinde (teorik-uygulamalı eğitim takvimine bağlı olarak) saatler değişebilir.",
+ "egitim": {
+  "verildigi_yerler": "Bu meslek için ayrı, örgün bir okul eğitimi programı bulunmamaktadır. Usta öğreticilik; tarım (ziraat) alet ve makineleri bakım ve onarımı alanında ustalık yeterliğini işbaşında veya mesleki eğitim merkezlerinde kazanmış kişilerin, Milli Eğitim Bakanlığına bağlı kurumlarca açılan usta öğreticilik (pedagojik formasyon) eğitimini tamamlamasıyla kazanılan bir yeterliliktir.",
+  "giris_kosullari": [
+   "Tarım alet ve makineleri bakım ve onarımı alanında ustalık belgesine veya bu alanda yeterli mesleki deneyime sahip olmak",
+   "En az ilköğretim/ortaokul mezunu olmak",
+   "Milli Eğitim Bakanlığı veya ilgili kurumlarca açılan usta öğreticilik (pedagojik formasyon) kursuna katılım koşullarını taşımak",
+   "Çeşitli yaş, sağlık ve adli sicil şartlarını (ilgili kurumun aradığı ölçüde) taşımak"
+  ],
+  "sure_ve_icerik": "Meslek alanındaki ustalık (tarım alet ve makineleri bakım ve onarımı), çıraklık eğitim merkezleri, mesleki eğitim merkezleri veya işbaşında usta yanında yıllar süren bir süreçte kazanılır. Ustalık düzeyine erişen kişiler, Milli Eğitim Bakanlığı veya Halk Eğitim Merkezleri tarafından açılan kısa süreli usta öğreticilik kurslarına katılarak öğretim teknikleri, ölçme-değerlendirme, iletişim, iş sağlığı ve güvenliği gibi konularda eğitim alır. Bu kurs sonunda, meslek dersi ve atölye uygulamalarında öğrenci/çırak eğitiminden sorumlu olabilecek yeterlik kazanılır.",
+  "belge": "Ustalık belgesi ve usta öğreticilik (pedagojik formasyon) sertifikası/belgesi verilir."
+ },
+ "calisma_alanlari": "Usta öğretici; mesleki eğitim merkezleri, çıraklık eğitim merkezleri, mesleki ve teknik eğitim okul ve kurumları, halk eğitim merkezlerinin açtığı kurslar, tarım alet ve makineleri bakım-onarım atölyeleri, tarım makineleri bayi ve servisleri gibi işyerlerinde çalışabilir. Bu unvanla kamuda doğrudan kadrolu memur istihdamı sınırlıdır; genellikle kendi işletmesinde ustalığını sürdürürken eğitim kurumlarında ders saati esasına göre görevlendirilir veya özel sektördeki işletmelerde çalışmaya devam eder.",
+ "kazanc": {
+  "egitim_suresince": "Usta öğreticilik için alınan kurs süresi kısa olduğundan ayrıca bir öğrenim kredisi veya burs imkânı genellikle bulunmaz; kursiyerler bu süreçte çoğunlukla kendi işlerinde çalışmayı sürdürür.",
+  "egitim_sonrasi": [
+   "Eğitim kurumlarında usta öğretici olarak görevlendirilenler, 657 sayılı Devlet Memurları Kanunu çerçevesinde ek ders ücreti esasına göre ücretlendirilir.",
+   "Kendi işletmesini işleten usta öğreticilerin kazancı, işin hacmine ve müşteri potansiyeline göre değişir.",
+   "Bir işletmede ücretli olarak çalışanlar, genellikle asgari ücret düzeyinde başlayıp deneyim ve işletmenin büyüklüğüne göre değişen ücretler alabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Alanında deneyim ve kıdem kazanan usta öğretici, atölye şefliği veya alan şefliği gibi görevlere ilerleyebilir; gerekli pedagojik formasyonu tamamlayarak ilgili alanda teknik öğretmenlik yapabilir.",
+  "is_hayatinda": "Kendi işletmesini kurarak veya büyüterek tarım makineleri servis/bayi işletmeciliğine geçebilir; eğitim kurumlarında koordinatörlük veya bölüm şefliği gibi idari görevlere yükselebilir."
+ },
+ "benzer_meslekler": [
+  "Usta Öğretici (İş Makineleri Bakım Onarımcılığı)",
+  "Usta Öğretici (Kaynakçılık)",
+  "Usta Öğretici (Isıtma ve Gaz Yakıcı Cihazlar Servisçiliği)",
+  "Alan Şefi (Mesleki ve Teknik Eğitim)",
+  "Diğer Öğretmenler"
+ ],
+ "ek_bilgiler": "Usta öğreticilik görevi, 3308 sayılı Mesleki Eğitim Kanunu kapsamında düzenlenmektedir. Eğitim kurumlarında görevlendirilebilmek için ilgili alanda ustalık belgesi ve usta öğreticilik sertifikasına sahip olmak yaygın bir uygulamadır. Mesleki Yeterlilik Kurumu (MYK) belgesi, ilgili alanda istihdamda tercih sebebi olabilir.",
+ "gorevler": [
+  "Aday çırak, çırak ve mesleki eğitim öğrencilerinin iş yerindeki eğitiminden sorumludur.",
+  "Tarım (ziraat) alet ve makineleri bakım ve onarımcılığı eğitimi ile ilgili gereken makine, araç-gereç ve malzemeler ile eğitim materyallerinin hazırlanmasını sağlar.",
+  "Aday çırak, çırak, kalfa ile mesleki ve teknik eğitim okul ve kurumları öğrencilerine, tarım (ziraat) alet ve makineleri bakım ve onarımcılığında kullanılması gereken makine, araç-gereç ve malzemeleri tanıtır.",
+  "Öğrencilere mesleği ile ilgili konularda eğitim verir.",
+  "Öğrencilerin, tarım (ziraat) alet ve makineleri bakım ve onarımcılığı ile ilgili konularda uygulama yapmalarını sağlar, gördüğü hata ve eksikliklerin düzeltilmesini sağlar.",
+  "Öğrencilere, tarım (ziraat) alet ve makineleri bakım ve onarımcılığı işlerinde kullanılan makine, araç-gereç ve malzemelerin basit bakım-onarım, kontrol ve ayar işleriyle ilgili gerekli eğitimleri verir.",
+  "Öğrencilere iş sağlığı ve güvenliği konularında eğitim verir.",
+  "Meslek dersleri ve atölye uygulama sınavlarında komisyon üyesi olarak görev yapar.",
+  "Meslek alanı ile ilgili gelişmeleri takip eder, uygular.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T04:20:16",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 7164
+  }
+ }
+}

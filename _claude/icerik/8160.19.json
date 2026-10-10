@@ -1,0 +1,75 @@
+{
+ "arac_gerec": [
+  "Baharat değirmeni (öğütme silindirleri)",
+  "Elle veya mekanik besleme deposu",
+  "Ambar kapakları ve besleme ayar düzenekleri",
+  "Elek ve süzgeç sistemleri",
+  "Öğütülmüş ürünü toplama kapları",
+  "Tartı ve ölçü aletleri",
+  "Harman/karıştırma kapları",
+  "Taşıma kapları, çuval ve kovalar",
+  "Temizlik ve bakım gereçleri",
+  "Koruyucu maske",
+  "Eldiven",
+  "İş elbisesi"
+ ],
+ "genel_ozellikler": [
+  "El ve beden becerisine sahip,",
+  "Dikkatli ve düzenli,",
+  "Fiziksel olarak dayanıklı,",
+  "Toz ve kokuya karşı duyarlılığı olmayan,",
+  "Sorumluluk duygusu gelişmiş,",
+  "Talimatlara uygun ve disiplinli çalışabilen,",
+  "Makine ve ekipman kullanımına yatkın,",
+  "Ekip çalışmasına uyumlu"
+ ],
+ "calisma_ortami": "Değirmen işçisi (baharat), baharat işleme ve gıda üretimi yapan fabrika ve işletmelerin genellikle kapalı ve tozlu ortamlarında çalışır. Çalışma ortamı, öğütme işlemi nedeniyle toz, koku ve gürültü açısından hassas olabilir; iş genellikle ayakta ve bedensel güç gerektiren bir tempoda yürütülür. İşletmenin üretim hacmine ve sipariş yoğunluğuna göre tam gün veya vardiyalı çalışma düzeni uygulanabilir.\\n\\nMeslek mensubu çalışma sırasında işletme içindeki ustabaşı, diğer üretim işçileri ve kalite kontrol personeliyle iletişim kurar. Toz ve kokuya karşı koruyucu maske, eldiven ve iş elbisesi kullanımı ile iş sağlığı ve güvenliği kurallarına uyulması önemlidir; bu tedbirlerin işveren tarafından sağlanması ve çalışan tarafından eksiksiz uygulanması gerekir.",
+ "gorevler": [
+  "Ambar kapaklarını ayarlar veya besleme deposunu elle baharatla doldurur.",
+  "Öğütülecek baharatın inceliğine göre öğütme silindirlerini ayarlar, makineyi çalıştırır ve eleklerin altına kapları yerleştirir.",
+  "Eleklerden geçmeyen baharatı tekrar öğütür.",
+  "Öğütülmüş baharatı, konserve ve salamura işlerinde kullanılmak üzere formüle göre harmanlar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Bu meslek için örgün eğitim sisteminde ayrı ve standart bir meslek lisesi veya çıraklık programı bulunmamaktadır. Mesleğin temel bilgi ve becerileri genellikle işbaşında, usta yanında çalışılarak kazanılır. Halk Eğitim Merkezleri ile İŞKUR'un açtığı mesleki eğitim kursları, gıda teknolojisi alanındaki ilgili mesleki ve teknik eğitim programları da bu mesleğe hazırlık niteliğinde temel bilgi ve beceri kazandırabilir.",
+  "giris_kosullari": [
+   "İlköğretim mezunu olmak (gereken minimum eğitim düzeyi)",
+   "Çalışma yaşı mevzuatına uygun yaşta olmak",
+   "Gıda işleme ortamında çalışmaya sağlık durumu açısından elverişli olmak",
+   "Toz ve kokuya karşı alerjik hassasiyeti bulunmamak"
+  ],
+  "sure_ve_icerik": "Mesleğe özgü standart ve süresi belirlenmiş bir eğitim programı bulunmadığından, beceriler işyerinde usta-çırak ilişkisi içinde uygulamalı olarak kazanılır. Kurum içi eğitimler; öğütme makinelerinin kullanımı, baharat inceliğinin ayarlanması, elekleme ve harman işlemleri ile iş sağlığı ve güvenliği konularını kapsar. Katılınabilecek kurslar genellikle kısa süreli ve uygulamalı niteliktedir.",
+  "belge": "İşyerinde kazanılan deneyim esastır; örgün bir diploma veya sertifika programı bulunmamaktadır. Katılınan kurslar sonunda katılım/kurs bitirme belgesi alınabilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, ilgili alanda açılmışsa istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Değirmen işçisi (baharat); baharat üretimi ve işleme yapan fabrikalarda, gıda sanayi işletmelerinde, konserve ve salamura üretimi yapan tesislerde, baharat değirmenlerinde ve gıda işleme-paketleme işletmelerinde istihdam edilebilir. İş imkânları, baharat üretimi ve işlemesinin yoğun olduğu bölgelerdeki gıda işletmelerinin sayısına ve üretim hacmine bağlı olarak değişebilir.",
+ "kazanc": {
+  "egitim_suresince": "Standart bir çıraklık eğitimi bulunmadığından, işbaşı eğitim veya kurs sürecinde genellikle ücret ödenmez; bazı işletmelerde deneme/eğitim süresi için sembolik bir ücret verilebilir. Kısa süreli kamu kurslarına katılım genellikle ücretsizdir.",
+  "egitim_sonrasi": [
+   "İşe yeni başlayanların kazancı genellikle asgari ücret düzeyindedir.",
+   "Özel sektörde kazanç, çalışılan işletmenin büyüklüğü, kişinin deneyimi, bilgisi ve sektördeki ücret düzeyine göre değişebilir ve karşılıklı anlaşmayla belirlenir.",
+   "Kamu kuruluşlarına bağlı işletmelerde çalışanlar işçi statüsündeyse ücretleri toplu iş sözleşmesi hükümlerine göre belirlenir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Gıda teknolojisi alanındaki mesleki ve teknik eğitim kurumlarına yönelebilir, Halk Eğitim Merkezleri ve İŞKUR kurslarına katılarak bilgi ve becerilerini geliştirebilir. İlgili alanda açılmışsa Mesleki Yeterlilik Kurumu (MYK) belgesi alarak mesleki yeterliliğini belgeleyebilir.",
+  "is_hayatinda": "Deneyim ve bilgi birikimi arttıkça usta, ustabaşı veya vardiya sorumlusu gibi görevlere yükselebilir. Üretim süreçlerini tanıyıp yönetim becerisi kazanarak üretim sorumluluğuna kadar ilerleyebilir. Girişimci ruhuna sahip olanlar, yeterli sermaye ve deneyime ulaştıklarında kendi küçük ölçekli baharat işleme işletmelerini kurabilir."
+ },
+ "benzer_meslekler": [
+  "Değirmen İşçisi (Mısır)",
+  "Değirmen İşçisi (Bulgur Dövme)",
+  "Değirmen İşçisi (Bulgur Kırma)",
+  "Değirmen İşçisi (Hububat)",
+  "Değirmen İşçisi (Yağlı Tohum)",
+  "Diğer Değirmen İşçileri (Hububat, Baklagil ve İlgili Ürünler)"
+ ],
+ "ek_bilgiler": "Baharat tozuna karşı alerjik hassasiyeti veya solunum yolu rahatsızlığı bulunanların bu mesleği seçerken dikkatli olmaları ve sağlık durumlarını değerlendirmeleri önerilir. Çalışma sırasında koruyucu maske ve eldiven kullanımı önem taşır.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T15:10:25",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5307
+  }
+ }
+}

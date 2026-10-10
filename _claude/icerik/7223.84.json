@@ -1,0 +1,94 @@
+{
+ "arac_gerec": [
+  "Üniversal freze tezgahı",
+  "Çeşitli freze bıçakları (parmak freze, disk freze vb.)",
+  "Parça bağlama aparatları (mengene, pens, bağlama tablası)",
+  "Ölçü ve kontrol aletleri (kumpas, mikrometre, mastar, şablon)",
+  "Bilezikler ve mil yatakları",
+  "Civata, somun ve sıkma takımları",
+  "Kesme/soğutma sıvısı ve yağlama sistemi",
+  "El aletleri (anahtar takımı, çektirme)",
+  "Teknik resim ve ölçü planları",
+  "Bıçak bileme ve bakım aletleri",
+  "Kişisel koruyucu donanım (iş gözlüğü, eldiven, iş elbisesi, koruyucu ayakkabı)"
+ ],
+ "genel_ozellikler": [
+  "Şekilleri doğru algılama ve zihinde canlandırma yeteneğine sahip,",
+  "El ve göz koordinasyonunu iyi kullanabilen,",
+  "El becerisi olan,",
+  "Dikkatli ve tedbirli,",
+  "Temel matematiksel hesaplamaları yapabilen,",
+  "Teknik resim okuyabilen,",
+  "Alet ve makinelerle çalışmaktan hoşlanan,",
+  "Sorumluluk sahibi ve işine özen gösteren"
+ ],
+ "calisma_ortami": "Üniversal Freze Tezgâhı Ayarcı-Operatörü genellikle fabrika veya atölye ortamında, ayakta ve makine başında çalışır. Çalışma ortamı gürültülü olabilir; metal talaşı, kesme yağı ve soğutma sıvısı nedeniyle kısmen kirlidir. Makinenin hareketli parçaları ve kesici takımlar nedeniyle iş kazası riski bulunduğundan iş sağlığı ve güvenliği kurallarına uyulması önemlidir.\\n\\nÇalışma süresi işletmenin üretim programına göre değişebilir, vardiyalı çalışma söz konusu olabilir. Kişi işini genellikle bağımsız olarak yürütür; ustabaşı, kalite kontrol personeli ve diğer tezgah operatörleriyle kısa süreli iletişim kurar.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi, yeterli talep olması durumunda mesleki eğitim merkezlerinde Metal Teknolojisi alanının ilgili dalında (tezgahçılık/talaşlı üretim) çıraklık eğitimi olarak verilebilir. Ayrıca mesleki ve teknik Anadolu liselerinin Makine Teknolojisi alanında temel kazanımlar edinilebilir. Halk Eğitim Merkezleri ile İŞKUR'un açtığı mesleki eğitim kursları ve işyerinde usta yanında yetişme de bu mesleğe girişte yaygın yollardır.",
+  "giris_kosullari": [
+   "Çıraklık eğitimine başlamak için en az ortaokul mezunu olmak",
+   "14 yaşını doldurmuş olmak",
+   "Sağlık durumunun ayakta çalışmaya ve makinelerle çalışmaya elverişli olması",
+   "Eğitim görmek istediği meslekte bir işyeri bulup işvereniyle çıraklık sözleşmesi imzalamak (çıraklık eğitimi için)",
+   "Kurs yoluyla yetişmek isteyenler için genellikle okuryazar/ilköğretim mezunu olmak yeterli sayılır"
+  ],
+  "sure_ve_icerik": "Mesleki eğitim merkezlerinde eğitim, teorik derslerin bir bölümü okulda, uygulamalı kısmı ise işyerinde usta öğretici gözetiminde olmak üzere kalfalık ve ardından ustalık eğitimi şeklinde yürütülür. Eğitim süresince teknik resim okuma, ölçme-kontrol, metal malzeme bilgisi, tezgah ayarları ve talaşlı imalat teknikleri öğretilir. Kurs veya işbaşı eğitiminde ise süre ve içerik, kişinin önceki bilgisine ve işletmenin ihtiyacına göre değişebilir; genellikle tezgah tanıma, bıçak-parça bağlama, ölçü kontrolü ve güvenli çalışma uygulamaları üzerinde durulur.",
+  "belge": "Mesleki eğitim merkezi programını tamamlayanlara kalfalık, ardından ustalık belgesi verilir. Kurs yoluyla yetişenlere kurs bitirme belgesi/sertifika verilir. Mesleki Yeterlilik Kurumu (MYK) tarafından ilgili alanda düzenlenen bir yeterlilik belgesi bulunuyorsa, bu belge istihdamda tercih sebebi olabilir."
+ },
+ "gorevler": [
+  "İşlenecek parçanın teknik resim ve diğer ölçülerini inceleyerek gerekli hesaplamaları yapar.",
+  "İşlenecek parçanın cinsine ve ölçülerine göre kullanacağı bıçakları ve parça bağlama aparatlarını seçer.",
+  "Bıçağı bağlamak için tezgahın üst kızağını mil boyu kadar elle çeker.",
+  "Mili yuvasına oturtur ve çektirmeyi çevirerek mili tezgaha tespit eder.",
+  "Mil üzerine bilezikleri ve bıçakları takar.",
+  "Mil başındaki somunu sıkarak milin eğilmesini önler ve üst kızaktaki karşı mil yatağına geçirerek mili destekler.",
+  "Somun ve civatalarla yatağı üst kızağa kilitler.",
+  "İşlenecek parçayı tezgaha bağlamak üzere tezgah masası üzerine parça bağlama aparatını yerleştirir.",
+  "Masa kanallarına civata ve somunları geçirerek bağlama aparatını masaya tespit eder.",
+  "Bağlama aparatı üzerine parçayı yerleştirir.",
+  "Civata, papuç veya eksantrikler yardımıyla parçayı sabitleştirir.",
+  "Masayı bıçağa yaklaştırıp uzaklaştırarak parçayı bıçağa göre ayarlar.",
+  "Talaş ayarlarını yapar.",
+  "Tezgahı çalıştırır.",
+  "Bıçak kavrama kolunu çekerek bıçağın dönmesini sağlar.",
+  "Masa hareket kolunu çevirerek masa üzerindeki parçayı bıçağa temas ettirir.",
+  "Isınmayı önlemek için parça üzerine yağ akıtmaya başlar.",
+  "Tezgahın çalışmasını otomatiğe bağlar ve parçanın boyuna göre otomatik aşıkları ayarlar.",
+  "Otomatik olarak yapılan talaş alma işlemini izler.",
+  "Zaman zaman işlenen parçayı ölçme aletleri ile kontrol eder.",
+  "Gerekirse parça durumunda ve tezgahın ayarında değişiklik yapar.",
+  "İşlemin sonunda işlenen parçayı tezgahtan çıkarır ve parçanın son kontrolünü yaparak ilgili kısma gönderir.",
+  "Tezgahın bakım ve temizliğini yapar, kullandığı bıçakları biler.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "calisma_alanlari": "Üniversal Freze Tezgâhı Ayarcı-Operatörleri başta metal işleme, makine imalatı, kalıp ve yedek parça üretimi olmak üzere her ölçekte metal sanayi işletmelerinde, özel atölyelerde ve fabrikalarda istihdam edilir. Otomotiv, makine imalatı, tarım makineleri, yedek parça ve bakım-onarım sektörlerinde iş bulma olanakları bulunur. Küçük ve orta ölçekli işletmelerde özellikle özel parça imalatı ve tamir-bakım işlerinde bu tezgahlara ihtiyaç duyulmaktadır.\\n\\nÜretimde otomasyon ve CNC teknolojilerinin yaygınlaşması, geleneksel (konvansiyonel) üniversal freze tezgahlarının kullanım alanını daraltmaktadır. Buna karşın küçük işletmelerde, özel imalat ve prototip çalışmalarında geleneksel tezgahlara duyulan ihtiyaç sürmektedir.",
+ "kazanc": {
+  "egitim_suresince": "Çıraklık eğitimi kapsamında işletmelerde mesleki eğitim gören öğrencilere, 3308 sayılı Mesleki Eğitim Kanunu gereğince asgari ücretin net tutarının belirli bir oranından aşağı olmamak üzere ücret ödenir. Eğitim gören öğrencilerin iş kazası ve meslek hastalığı sigortası primleri devletçe karşılanır.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Deneyim, uzmanlaşma (örneğin farklı tezgah türlerinde veya CNC bilgisinde yetkinlik) ve çalışılan işletmenin büyüklüğüne göre kazanç artabilir.",
+   "Özel sektörde ücret, işveren ile çalışan arasında karşılıklı anlaşmayla belirlenir; kamu kuruluşlarında işçi statüsünde istihdam edilenler toplu iş sözleşmesi hükümlerine tabi olur."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleki eğitim merkezinden diploma alarak mezun olanlar, fark derslerini tamamlamaları hâlinde meslek lisesi diploması alabilir ve alanın devamı niteliğindeki ön lisans/lisans programlarını tercih ettiklerinde sınavsız geçiş veya ek puandan yararlanabilirler.",
+  "is_hayatinda": "Mesleğinde deneyim kazanan operatör, ustabaşı, atölye şefi veya kalite kontrol sorumlusu gibi görevlere yükselebilir. CNC tezgahları öğrenerek CNC freze operatörlüğüne geçiş yapabilir, ileri düzeyde ise kendi atölyesini açabilir."
+ },
+ "benzer_meslekler": [
+  "Freze Tezgahı Ayarcı-Operatörü (Metal İşçiliği)",
+  "Frezeci",
+  "CNC Freze Tezgahı Operatörü",
+  "Metal İşleme Tezgahı Ayarcısı",
+  "Metal İşleme Tezgâhları Ayarcı-Operatörleri",
+  "Matkap Tezgahı Ayarcı-Operatörü (Metal İşçiliği)"
+ ],
+ "ek_bilgiler": "CNC teknolojisinin metal işleme sektöründe yaygınlaşması, geleneksel (konvansiyonel) üniversal freze tezgahlarına olan talebi zamanla azaltabilmektedir. Bu nedenle mesleği öğrenenlerin, istihdam olanaklarını artırmak amacıyla CNC tezgah kullanımına ilişkin bilgi ve beceri de edinmesi faydalı olabilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T02:00:58",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 7084
+  }
+ }
+}

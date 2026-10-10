@@ -1,0 +1,86 @@
+{
+ "arac_gerec": [
+  "Bilgisayar ve sunum yazılımları (sunum/projeksiyon araçları)",
+  "Elektrik-elektronik ölçüm ve test cihazları (multimetre, osiloskop)",
+  "Devre ve sistem tasarım/simülasyon yazılımları (MATLAB/Simulink ve benzerleri)",
+  "Güç kaynakları, sinyal üreteçleri gibi laboratuvar cihazları",
+  "Haberleşme ve otomasyon sistemleri test donanımları",
+  "Kütüphane kaynakları ve bilimsel veritabanları",
+  "Ders materyalleri (kitap, ders notu, slayt)",
+  "Araştırma ve laboratuvar sarf malzemeleri",
+  "Ofis araç ve gereçleri",
+  "Akademik yazım ve atıf yönetimi yazılımları"
+ ],
+ "genel_ozellikler": [
+  "Matematik ve fen bilimlerine yetenekli,",
+  "Analitik düşünme ve problem çözme becerisine sahip,",
+  "Araştırmaya ve bilimsel çalışmaya istekli,",
+  "Sözlü ve yazılı anlatım becerisi gelişmiş,",
+  "Sabırlı, öğretmeye ve bilgi paylaşmaya istekli,",
+  "Teknolojik gelişmeleri takip eden, yeniliklere açık,",
+  "Ekip çalışmasına uyumlu,",
+  "Sorumluluk sahibi ve özgüvenli,"
+ ],
+ "calisma_ortami": "Elektrik Elektronik ve Telekomünikasyon Öğretim Üyesi, üniversitelerin ilgili fakülte ve bölümlerinde; derslik, laboratuvar, araştırma merkezi ve ofis gibi genellikle kapalı ortamlarda çalışır. Laboratuvar çalışmalarında elektrikli cihaz ve sistemlerle çalışıldığından iş güvenliği kurallarına uyulması gerekir; bunun dışında çalışma ortamı fiziksel olarak ağır riskler içermez.\n\nÇalışma saatleri ders programına, araştırma ve idari görevlere göre değişir; genellikle düzenli olmakla birlikte proje teslim, tez danışmanlığı ve sınav dönemlerinde yoğun ve esnek çalışma gerekebilir. Öğrenciler, akademik ve idari personel, sektör temsilcileri ve kamu/özel kurum araştırmacıları ile sürekli iletişim halindedir. Bilimsel toplantı, kongre ve danışmanlık faaliyetleri nedeniyle şehir içi ve şehirler arası (bazen yurt dışı) seyahat gerekebilir.",
+ "egitim": {
+  "verildigi_yerler": "Bu meslek için gereken doktora eğitimi, üniversitelerin Elektrik-Elektronik Mühendisliği, Elektronik ve Haberleşme Mühendisliği veya ilgili mühendislik bölümlerinin lisansüstü (yüksek lisans ve doktora) programlarında verilir. Doktora sonrası akademik unvanlar (dr. öğretim üyesi, doçent, profesör) üniversitelerin ilgili bölümlerinde kazanılır.",
+  "giris_kosullari": [
+   "Lise veya dengi okul mezunu olup merkezi yerleştirme sınavı ile Elektrik-Elektronik Mühendisliği veya ilgili bir mühendislik lisans programına yerleşmek",
+   "Lisans eğitimini tamamladıktan sonra ALES ve ilgili yabancı dil sınavı (YDS/YÖKDİL vb.) şartlarını sağlayarak tezli yüksek lisans programına kabul edilmek",
+   "Yüksek lisans eğitimini tamamladıktan sonra ALES ve dil şartlarını sağlayarak doktora programına kabul edilmek"
+  ],
+  "sure_ve_icerik": "Lisans eğitimi genellikle 4 yıl sürer. Yüksek lisans eğitimi tezli programlarda ortalama 2 yıl, doktora eğitimi ise ortalama 4-5 yıl sürmektedir. Doktora eğitiminde alan dersleri, seminerler, yeterlik sınavı ve özgün bir bilimsel tez çalışması bulunur. Doktora sonrasında araştırma görevliliği, dr. öğretim üyeliği gibi akademik kadrolara atanarak mesleğe başlanır; doçentlik ve profesörlük unvanlarına ilerleme, Üniversitelerarası Kurul tarafından belirlenen yayın, proje ve atıf kriterlerinin sağlanmasına bağlıdır.",
+  "belge": "Doktora diploması ve ilgili akademik unvan/kadroya atanma belgesi (araştırma görevlisi, dr. öğretim üyesi, doçent, profesör)"
+ },
+ "calisma_alanlari": "Elektrik Elektronik ve Telekomünikasyon Öğretim Üyeleri, başta devlet ve vakıf üniversitelerinin Elektrik-Elektronik Mühendisliği, Elektronik ve Haberleşme Mühendisliği veya ilgili mühendislik fakülte ve bölümleri olmak üzere yükseköğretim kurumlarında çalışır. Bunun dışında üniversitelere bağlı araştırma merkezlerinde, TÜBİTAK gibi kamu Ar-Ge kurumlarında, özel sektörün Ar-Ge birimlerinde danışmanlık ve proje yürütücülüğü yaparak da görev alabilirler.\n\nİstihdam, üniversitelerin açtığı akademik kadro ilanlarına, üniversite ve bölüm sayısındaki artışa, kişinin bilimsel yayın, proje ve atıf performansına bağlıdır. Akademik kadroların sınırlı sayıda olması nedeniyle bu alanda iş bulma rekabeti yüksektir.",
+ "kazanc": {
+  "egitim_suresince": "Lisans eğitimi süresince öğrenciler Yüksek Öğrenim Kredi ve Yurtlar Kurumu'nun kredi ve yurt imkânlarından yararlanabilir. Yüksek lisans ve doktora döneminde araştırma görevlisi kadrosunda çalışanlar 657 sayılı Devlet Memurları Kanunu'na göre maaş alır; ayrıca TÜBİTAK gibi kurumların lisansüstü bursları da bu dönemde bir kazanç kaynağı olabilir.",
+  "egitim_sonrasi": [
+   "Devlet üniversitelerinde görev alan dr. öğretim üyesi, doçent ve profesörler 657 sayılı Devlet Memurları Kanunu'na göre maaş ve akademik unvanlarına bağlı ek göstergeler ile ders/mesai ücretleri alır.",
+   "Vakıf üniversitelerinde ücret, kurumla yapılan sözleşmeye, akademik unvana ve deneyime göre değişiklik gösterir.",
+   "Proje yürütücülüğü, danışmanlık ve bilirkişilik gibi faaliyetler ek gelir kaynağı oluşturabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Lisans eğitimi sonrasında yüksek lisans ve doktora yapılarak akademik kariyere devam edilir. Doktora sonrasında dr. öğretim üyeliği, ardından yayın, proje ve atıf gibi kriterlerin sağlanmasıyla doçentlik ve profesörlük unvanları Üniversitelerarası Kurulun belirlediği merkezi süreçle kazanılır.",
+  "is_hayatinda": "Akademik kadroda araştırma görevlisi, dr. öğretim üyesi, doçent ve profesör unvanlarıyla kademeli olarak ilerlenir. Deneyim ve performansa bağlı olarak bölüm başkanlığı, dekanlık, enstitü veya araştırma merkezi müdürlüğü gibi idari görevlere de atanılabilir."
+ },
+ "benzer_meslekler": [
+  "Elektrik-Elektronik Mühendisliği Öğretim Üyesi",
+  "Elektronik Öğretim Üyesi",
+  "Elektronik ve Haberleşme Mühendisliği Öğretim Üyesi",
+  "Elektrik Öğretim Üyesi",
+  "Elektrik Makinaları Öğretim Üyesi",
+  "Devreler ve Sistemler Öğretim Üyesi"
+ ],
+ "ek_bilgiler": "Akademik kariyerde ilerleme büyük ölçüde bilimsel yayın, atıf, proje ve ders yükü gibi performans kriterlerine bağlıdır. Üniversitelerdeki akademik kadro sayısının sınırlı olması nedeniyle bu meslekte istihdam rekabeti yüksektir. Doçentlik unvanı, Üniversitelerarası Kurul tarafından belirlenen merkezi kriterlere göre kazanılır.",
+ "gorevler": [
+  "Elektrik enerjisinin en ekonomik yollarla üretilmesini, dağıtımını, elektrik donanımlarının parça ve sistemlerinin yapımını araştırır ve inceler.",
+  "Kuvvetli (elektrik) ve zayıf (elektronik) akımlarla çalışan alet ve sistemleri inceler.",
+  "Elektrik enerjisi tüketen tesislerin (ev, fabrika, büro, park vb.) projesini yapar.",
+  "Elektrik enerjisinin dağıtımını yapan sistemleri (direkler, kablolar ve şalt sahaları) inceler.",
+  "Haberleşme, tıp, bilgisayar, ulaşım gibi alanlarda kullanılacak elektronik sistemleri inceler.",
+  "Endüstriyel otomasyonun elektrik ve elektronik temellerini inceler ve geliştirir.",
+  "Bilimsel yöntem oluşturur, geliştirir, uygular.",
+  "Yükseköğretim kurumlarında alanı ile ilgili bilimsel araştırma ve projeler üretir ve yapar.",
+  "Araştırma sonuçlarını ilgili ulusal ve uluslararası bilimsel toplantı ve kongrelerde sunar ya da bilimsel dergilerde veya elektronik formatlarda yayınlar.",
+  "Araştırma ya da projelerin uygulamaya dönük sonuçlarını ilgili kurum ve kuruluşlarla paylaşır.",
+  "Yükseköğretim kurumlarında eğitim, öğretim ve uygulama çalışmaları yapar ve yaptırır; müfredat programlarını geliştirir, yeniler ve uygular.",
+  "Ders yılı içerisinde ve bitiminde öğrencilerin bilgi düzeyini ölçmek için ödevler hazırlatır, sınavlar yapar, sınav kağıtlarını okuyup değerlendirir, sonuçlarını idareye bildirir.",
+  "Lisansüstü öğrencilerine tez konularını verir ya da tez konularının seçiminde öğrencilere yardımcı olur ve çalışmalarını izler.",
+  "İlgili birim başkanlığınca düzenlenen programa göre belirli günlerde öğrencileri kabul ederek onlara gerekli konularda yardımcı olur, ilgili kanundaki amaç ve ana ilkeler doğrultusunda yol gösterir ve rehberlik eder.",
+  "Kamu ve özel sektörde bilimsel danışmanlık yapar, alanı ile ilgili konularda bilirkişilik yapar.",
+  "Çeşitli bilimsel yayınlarda hakemlik yapar, yurt içinde ve yurt dışında konferanslar verir.",
+  "Gerektiğinde idari sorumluluk yüklenir.",
+  "Konusundaki gelişme ve yenilikleri izler, araştırmalar yapar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T00:31:56",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 8083
+  }
+ }
+}

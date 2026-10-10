@@ -1,0 +1,77 @@
+{
+ "arac_gerec": [
+  "Gaztaşı (kontrol taşı)",
+  "Revizyon eğesi",
+  "Taşlama motoru (zımpara/flex)",
+  "Ölçü aletleri (şerit metre, kumpas)",
+  "Kontrol şablonları ve tertibatları",
+  "Şalumo (oksi-gaz ısıtma/kaynak takımı)",
+  "Ağır balyoz ve çeşitli çekiçler",
+  "El aletleri (pense, anahtar takımı, levye)",
+  "Kişisel koruyucu donanım (eldiven, koruyucu gözlük, iş elbisesi, kulak koruyucu)",
+  "Araç/iş takip kartı ve kayıt formları",
+  "Taşıma ve kaldırma ekipmanları (bant hattı, vinç, kaldırma aparatları)"
+ ],
+ "genel_ozellikler": [
+  "El ve kol kaslarını etkin kullanabilecek fiziksel güce ve dayanıklılığa sahip,",
+  "Şekiller ve yüzeyler arasındaki ince farkları algılayabilen,",
+  "El becerisine ve el-göz koordinasyonuna sahip,",
+  "Dikkatli ve titiz çalışabilen,",
+  "Ayakta ve bazen eğilerek uzun süre çalışmaya uygun,",
+  "Takım hâlinde ve bant hızına uyumlu çalışabilen,",
+  "İş sağlığı ve güvenliği kurallarına duyarlı"
+ ],
+ "calisma_ortami": "İskelet Doğrultma İşçisi (Otomotiv), genellikle otomotiv ana sanayi fabrikalarının kaporta/gövde üretim atölyelerinde, kapalı ortamda çalışır. Çalışma, üretim bandı hızına bağlı olarak düzenli bir tempoda, ayakta ve zaman zaman eğilerek veya zorlayıcı duruşlarla yürütülür. Ortamda taşlama ve balyoz kullanımına bağlı gürültü, kıvılcım, metal tozu ve ısıtma işlemlerinden kaynaklanan sıcaklık riskleri bulunabilir; bu nedenle kişisel koruyucu donanım kullanımı önemlidir.\n\nÇalışma genellikle fabrikaların vardiya sistemine bağlı olarak sürdürülür. Meslek sahibi çalışması sırasında bant hattındaki diğer işçilerle, kalite kontrol personeliyle, formen ve vardiya amiriyle sürekli iletişim halindedir; işlemlerle ilgili kayıtları araç kartına işlemekten de sorumludur.",
+ "calisma_alanlari": "İskelet Doğrultma İşçisi (Otomotiv) başlıca otomotiv ana sanayi fabrikalarında (binek araç, kamyon, otobüs üretim tesisleri) gövde/kaporta üretim bölümlerinde istihdam edilir. Bu meslek, büyük ölçekli seri üretim yapılan karoser atölyelerine özgü dar bir uzmanlık alanı olduğundan iş bulma olanakları doğrudan otomotiv üretim sektörünün büyüklüğü ve üretim hacmiyle sınırlıdır. Üretim teknolojilerindeki otomasyon artışı (robotlu kaynak ve şekillendirme hatları) bu alandaki elle yapılan doğrultma işlerinin bir kısmını azaltabilmekte, ancak kalite kontrol ve son düzeltme aşamalarında deneyimli işçilere halen ihtiyaç duyulmaktadır. Bazı büyük ölçekli kaporta-boya onarım merkezlerinde de benzer beceriler aranabilir.",
+ "ek_bilgiler": "Meslekte kullanılan şalumo ile ısıtma ve ağır balyozla doğrultma işlemleri, iş sağlığı ve güvenliği açısından dikkat gerektiren süreçlerdir; bu nedenle işin bazı aşamaları ağır ve tehlikeli işler kapsamında değerlendirilebilir ve 18 yaşından küçüklerin bu görevlerde çalıştırılması sınırlandırılabilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, tehlikeli/çok tehlikeli iş kolu kapsamında istihdamda tercih sebebi olabilir. Üretim teknolojilerindeki otomasyon eğilimi nedeniyle meslekte istihdam, otomotiv sektörünün üretim hacmine ve üretim yöntemlerine bağlı olarak değişkenlik gösterebilir.",
+ "gorevler": [
+  "Gövde hazırlamadan gelen gövdeleri bant üzerinden alır.",
+  "Gövdeyi (aracın yan duvar, tavan, ön ve arka iskeletlerinin cam, kapı, bagaj, motor odası kapağı, akü ve radyatör odası kapağı, tampon vb.) dış görünüm olarak el, göz ve gaztaşı ile kontrolden geçirir.",
+  "Hata bulunursa önce revizyon eğesi ile tesviye ederek düzeltir.",
+  "Saç üzerinde oluşan iz ve hataları taşlama motoru ile alarak hatayı sıfırlar.",
+  "Üretimin çeşitli aşamalarında gövde kaynak deformasyonlarının neden olduğu hatalı bölümleri ölçü aletleri, şablonlar ve tertibatlar ile kontrol ederek tespit eder.",
+  "Tespit edilen hataların giderilmesi için iskeleti şalumo ile ısıtarak kaynak yerlerine ve iskelet borularına zarar vermeden ölçülerine ve formuna uygun olarak ağır balyoz ile doğrultma işlemini yapar.",
+  "Düzeltilen ve/veya doğrultulan yerlerin şablonları ile kontrollerini yapar.",
+  "Araç kartına yapılan işlemleri işler.",
+  "Çalışılan mekân, kullanılan ölçü aletleri ve takımların günlük temizliğini yapar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Bu meslek için Türkiye'de resmî olarak ayrı bir çıraklık, kalfalık veya ustalık eğitimi programı bulunmamaktadır. Meslek genellikle otomotiv ana sanayi fabrikalarının gövde/kaporta atölyelerinde işbaşında, usta işçinin gözetiminde uygulamalı olarak öğrenilir. Motorlu Araçlar Teknolojisi alanındaki mesleki ve teknik eğitim programları ile Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kursları, metal şekillendirme ve kaporta işlemlerine ilişkin temel bilgi ve beceri kazandırabilir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "Fiziksel olarak ağır işlere (balyoz kullanımı, uzun süre ayakta çalışma) uygun sağlık durumuna sahip olmak",
+   "18 yaşını doldurmuş olmak (işin ağır ve tehlikeli iş kapsamına giren bölümleri nedeniyle)",
+   "El becerisi ve dikkat gerektiren işlere ilgi duymak"
+  ],
+  "sure_ve_icerik": "Resmî bir eğitim programı tanımlı olmadığından eğitim süresi işletmeden işletmeye değişir. Çalışan, işe alındıktan sonra bir usta işçinin yanında gözetim altında gövde kontrolü, hata tespiti, eğeleme, taşlama, ısıtma ve doğrultma işlemlerini uygulayarak zaman içinde beceri kazanır. Bu süreçte iş sağlığı ve güvenliği, kalite kontrol ve ölçü aletlerinin kullanımı konularında da bilgilendirme yapılır.",
+  "belge": "Mesleğe ilişkin ulusal düzeyde zorunlu bir diploma veya sertifika bulunmamaktadır. İşyerinde kazanılan deneyim esastır; işin tehlikeli iş kolu kapsamında olması durumunda Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Mesleğin resmî bir çıraklık eğitimi bulunmadığından, işe yeni başlayanlar genellikle işbaşında eğitim alırken asgari ücret düzeyinde bir gelir elde eder. Bazı büyük ölçekli fabrikalarda yeni başlayanlara işletmenin belirlediği başlangıç ücreti uygulanabilir.",
+  "egitim_sonrasi": [
+   "Deneyim kazandıkça ücret, işletmenin büyüklüğüne, çalışanın performansına ve varsa toplu iş sözleşmesi hükümlerine göre asgari ücretin üzerine çıkabilir.",
+   "Büyük ölçekli otomotiv fabrikalarında işçi statüsünde çalışanlar, varsa sendikal toplu iş sözleşmesi kapsamındaki ücret ve sosyal haklardan yararlanabilir.",
+   "Kamuda bu meslekte doğrudan istihdam yaygın değildir; istihdam büyük ölçüde özel sektör otomotiv üretim tesislerinde gerçekleşir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Resmî bir eğitim kademesi bulunmadığından ilerleme, işyerinde kazanılan deneyim ve beceri düzeyine bağlıdır. Zaman içinde daha karmaşık hata tespiti ve doğrultma işlemlerini yapabilecek düzeye gelen çalışanlar, kalite kontrol ve ölçüm konularında da yetkinlik kazanabilir.",
+  "is_hayatinda": "Deneyim kazanan İskelet Doğrultma İşçisi, usta işçi, ekip lideri, formen veya vardiya amiri gibi görevlere yükselebilir. İleri düzey beceri ve tecrübeyle kalite kontrol uzmanlığı veya üretim süreçlerinde denetim görevlerine geçiş yapabilir."
+ },
+ "benzer_meslekler": [
+  "Kaporta Tamircisi/Otomotiv Gövdecisi",
+  "Otomotiv Gövde Onarım İşçisi",
+  "Otomotiv Gövde ve Boya Onarımcısı",
+  "Otomotiv Boya Onarımcısı",
+  "Otomotiv Kontrol, Test ve Ayar İşçisi"
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T02:16:32",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6999
+  }
+ }
+}

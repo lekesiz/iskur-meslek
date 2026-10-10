@@ -1,0 +1,81 @@
+{
+ "arac_gerec": [
+  "Yer tezgahı (çalışma tezgahı)",
+  "Zımpara taşı kalıpları (çeşitli kaba/ince dereceli)",
+  "Sünger taşı",
+  "Silici taş kalıpları",
+  "Keçe",
+  "Cila tozu",
+  "İnce bileyi taşı",
+  "Portatif (taşınabilir) perdah makinesi",
+  "Su hortumu / sulama kabı",
+  "Renkli macun malzemeleri (çatlak-yarık doldurma için)",
+  "Koruyucu gözlük",
+  "Toz maskesi",
+  "Koruyucu eldiven",
+  "İş elbisesi ve iş ayakkabısı"
+ ],
+ "genel_ozellikler": [
+  "El becerisine sahip,",
+  "Dikkatli ve sabırlı,",
+  "Fiziksel olarak dayanıklı,",
+  "El ve gözünü eşgüdümle kullanabilen,",
+  "Şekil, yüzey ve doku farklılıklarını ayırt edebilen,",
+  "Ayakta ve eğilerek uzun süre çalışabilen,",
+  "Renk ayırt etme yeteneğine sahip,",
+  "Düzenli ve tertipli çalışabilen"
+ ],
+ "calisma_ortami": "\"Taş perdah işçileri (elle), mermer ve doğaltaş işleme atölyelerinde, bazen de inşaat veya restorasyon şantiyelerinde çalışırlar. Çalışma ortamı genellikle tozlu, nemli ve kısmen gürültülüdür; taş tozuna, ıslak zemine ve aşındırıcı malzemelere sürekli maruziyet söz konusudur. Görev büyük ölçüde ayakta, eğilerek veya diz çökerek, elle ve bazı durumlarda portatif makine kullanılarak yürütülür; ağır blok ve plakaların taşınması veya yerleştirilmesi sırasında fiziksel güç gerekebilir.\\n\\nÇalışma, hafta içi genellikle gündüz saatlerinde yürütülür; iş yoğunluğuna göre mesai değişebilir. Meslek elemanı, atölye veya şantiyede usta, diğer taş işçileri, işveren ve bazen müşterilerle iş birliği içinde çalışır.\"",
+ "egitim": {
+  "verildigi_yerler": "Taş Perdah İşçisi (Elle) mesleği için bağımsız, resmi olarak tanımlanmış ayrı bir örgün eğitim programı/dalı bulunmamaktadır. Mesleğin bilgi ve becerileri büyük ölçüde işyerlerinde usta yanında çıraklık yoluyla kazanılır; ayrıca mermer-doğaltaş işleme veya inşaat teknolojisi alanı kapsamındaki mesleki eğitim merkezi programları, Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kursları da bu meslekle ilgili temel beceri eğitimleri sunabilmektedir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "Çıraklık eğitimine başlamak için 14 yaşını doldurmuş olmak",
+   "Eğitim görülecek işyeri sahibi ile çıraklık sözleşmesi imzalamak (çıraklık yolu seçilirse)",
+   "Kurs programlarına katılım için genel sağlık durumunun ağır fiziksel işe uygun olması"
+  ],
+  "sure_ve_icerik": "İşbaşında usta yanında yetişme süreci kişinin becerisine göre değişmekle birlikte genellikle birkaç yıl sürer; bu süreçte taş yüzeyinin düzgünleştirilmesi, zımpara ve sünger taşı kullanımı, ıslatma, kalıntı temizleme, keçe ve cila tozuyla perdahlama, çatlak-yarık doldurma ve portatif perdah makinesi kullanımı gibi temel işlemler uygulamalı olarak öğrenilir. Mesleki eğitim merkezi veya kurs programlarına katılım halinde eğitim, teorik bilgilerle desteklenen uygulamalı atölye çalışmalarını içerir.",
+  "belge": "Çıraklık eğitimini tamamlayanlara kalfalık, ardından ustalık sınavında başarılı olanlara ustalık belgesi verilebilir. Kurs programlarına katılanlara ise genellikle katılım veya başarı belgesi verilir. Mesleki Yeterlilik Kurumu (MYK) tarafından ilgili alanda bir yeterlilik belgesi düzenlenmişse, bu belge istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "\"Taş perdah işçileri (elle); mermer ve doğaltaş işleme atölyelerinde, mermer fabrikalarında, taş ocaklarına bağlı işleme tesislerinde, mezar taşı ve anıt imalathanelerinde, ayrıca inşaat ve restorasyon şantiyelerinde çalışabilirler. Mermer ve doğaltaşın yapı ve dekorasyon sektöründe yaygın kullanımı nedeniyle, özellikle deneyimli ve ustalaşmış kişiler için iş bulma olanağı bulunmaktadır; ancak mekanize perdahlama makinelerinin yaygınlaşması, tamamen elle yapılan perdah işlerine olan talebi daraltabilmektedir.\"",
+ "kazanc": {
+  "egitim_suresince": "Çıraklık yoluyla eğitim alınması durumunda, 3308 sayılı Mesleki Eğitim Kanunu kapsamında çırağa ilgili yasal düzenlemelere uygun bir ücret ödenir ve iş kazası-meslek hastalığı sigorta primleri karşılanır. Kurs programlarına katılım genellikle ücretsizdir ve bu süreçte ayrıca bir kazanç söz konusu olmaz.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Deneyim arttıkça, işin niteliğine ve çalışılan işletmenin büyüklüğüne göre kazanç artabilir.",
+   "Kamu kurumlarında işçi statüsünde çalışanlar için ücret, ilgili toplu iş sözleşmesi hükümlerine göre belirlenir; özel sektörde ise işveren ile işçi arasında karşılıklı anlaşmaya göre değişir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Çıraklık eğitimi tamamlanıp kalfa olunduktan sonra, işyerinde çalışmaya devam ederek ustalık eğitimine ve ustalık belgesine ulaşılabilir. İlköğretim mezunu kalfa ve ustalar, isterlerse mesleki ve teknik açık öğretim yoluyla örgün eğitimlerine devam edebilirler.",
+  "is_hayatinda": "Meslekte deneyim kazanan kişiler usta veya usta öğretici konumuna yükselebilir. Ustalık belgesine sahip olanlar bağımsız bir atölye açabilir; ayrıca mermer-doğaltaş işleme, taş oyma veya restorasyon taş ustalığı gibi yakın alanlara yönelerek uzmanlaşabilirler."
+ },
+ "benzer_meslekler": [
+  "Taşçı",
+  "Taş Taşlama İşçisi",
+  "Taş Ayırıcı (Mermer, Granit)",
+  "Mermer İşçisi",
+  "Taş Oyma İşçisi (Elle)",
+  "Mermerci ve Süsleme Taşçısı"
+ ],
+ "ek_bilgiler": "\"Mesleğe özgü ayrı ve bağımsız bir örgün eğitim programı bulunmadığından, bu alanda çalışmak isteyenlerin bilgi ve becerilerini büyük ölçüde işbaşında usta yanında veya kısa süreli mesleki kurslarla kazandıkları unutulmamalıdır. Taş tozuna uzun süreli maruziyet solunum yolu sağlığı açısından risk oluşturabileceğinden, çalışma sırasında kişisel koruyucu donanım kullanımı önemlidir.\"",
+ "gorevler": [
+  "Blok veya plakayı yer tezgahı üzerine yerleştirir.",
+  "Zımpara taşı veya sünger taşı gibi çeşitli cins ve özellikte silici taş kalıplarıyla yüzleri aşındırıp düzgün bir hale getirir.",
+  "Perdah işlemini kolaylaştırmak için taşın yüzünü sık sık ıslatır.",
+  "Kalıntıları yıkayarak akıtır.",
+  "Bir keçe ve cila tozu veya çok ince bir bileyi taşı kullanarak taş yüzünü parlak bir şekilde perdahlar.",
+  "Renkli macunları seçip eriterek cila işleminden önce mermerlerin yüzündeki çatlak ve yarıklara akıtır.",
+  "Portatif perdah makinesi kullanır.",
+  "Mermer veya granit gibi belirli cins bir taşın perdahlanmasında ihtisaslaşabilir.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T22:26:13",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6130
+  }
+ }
+}

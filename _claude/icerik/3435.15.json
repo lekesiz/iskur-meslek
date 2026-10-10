@@ -1,0 +1,71 @@
+{
+ "arac_gerec": [
+  "CNC ahşap işleme makineleri ve kontrol panelleri",
+  "Bilgisayar destekli tasarım ve üretim (CAD/CAM) yazılımları",
+  "Nem ölçüm cihazı (higrometre)",
+  "Ölçme ve kontrol aletleri (kumpas, mikrometre, metre, gönye)",
+  "Ahşap işleme makineleri (planya, freze, zımpara makinesi, şerit/daire testere)",
+  "Kurutma fırınları ve kurutma kabinleri",
+  "Yüzey işlem ekipmanları (vernik ve boya tabancası, sprey kabini)",
+  "Montaj el aletleri (tornavida, çekiç, işkence, matkap)",
+  "Kalite kontrol formları ve ölçüm şablonları",
+  "Bilgisayar ve ofis yazılımları",
+  "Kişisel koruyucu donanım (gözlük, maske, kulaklık, eldiven)"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli, titiz ve sabırlı,",
+  "Teknik resim ve proje okuyabilen, üç boyutlu düşünebilen,",
+  "Sayısal/analitik düşünme yeteneğine sahip,",
+  "El ve göz koordinasyonu iyi,",
+  "Takım halinde çalışmaya uygun ve sorumluluk sahibi,",
+  "CNC ve bilgisayar destekli üretim teknolojilerine ilgili ve bunları öğrenmeye istekli,",
+  "Tozlu, kokulu ve gürültülü ortamlarda çalışabilen,",
+  "İş güvenliği kurallarına uyma konusunda duyarlı"
+ ],
+ "calisma_ortami": "Ahşap Teknolojisi Teknisyeni, mobilya ve yapı elemanı üreten fabrika ve atölyelerde, kapalı mekânlarda çalışır. Çalışma ortamı zaman zaman tozlu, talaşlı ve gürültülü olabilir; bu nedenle kişisel koruyucu donanım kullanımı önemlidir. Görevlerinin bir bölümünü CNC kontrol odası veya büro ortamında bilgisayar başında (program hazırlama, proje/kalite kayıtlarını değerlendirme) geçirir, bir bölümünü ise üretim ve montaj hattında saha içinde yürütür.\n\nGenellikle tam gün ve belirli çalışma saatleri içinde görev yapar; üretim yoğunluğuna göre vardiyalı çalışma söz konusu olabilir. Görevleri sırasında mühendis, usta, üretim işçileri, kalite kontrol personeli ve bazen tasarım ekibiyle iş birliği içinde çalışır.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi, mesleki ve teknik ortaöğretim okul/kurumlarının Mobilya ve İç Mekân Tasarımı alanı ile ilgili dallarında verilmektedir. Ayrıca mesleki eğitim merkezlerinde ilgili alanda kalfalık ve ustalık eğitimleri alınabilir. Lise sonrası yükseköğretim düzeyinde, üniversitelerin ön lisans programları arasında bulunan ahşap/mobilya teknolojileri ile ilgili bölümlerden mezun olanlar da bu mesleği daha teknik düzeyde yürütebilir.",
+  "giris_kosullari": [
+   "Ortaokulu tamamlamış olmak,",
+   "Milli Eğitim Bakanlığınca okul türlerine ve alan/dala göre belirlenen giriş koşullarını taşımak."
+  ],
+  "sure_ve_icerik": "Ortaöğretim düzeyindeki mesleki eğitimin süresi 4 yıldır. 9. sınıfta ortak genel kültür dersleri verilir ve yıl sonunda alan seçimi yapılır. 10. sınıfta alana yönelik ortak yeterlikler kazandırılır; 10. sınıf sonunda bölgesel/sektörel ihtiyaçlar ile okulun donanımı ve öğrencinin ilgisi doğrultusunda dal seçimi yapılır. 11. ve 12. sınıflarda dala ait yeterlikler (ahşap malzeme bilgisi, CNC ve üretim teknolojileri, kalite kontrol, tasarım desteği vb.) kazandırılır. Eğitim; okulda teorik/uygulamalı, işletme ve atölye ortamında ise uygulamalı olarak yürütülür. Yükseköğretim düzeyinde tercih edilmesi halinde ön lisans programlarında ahşap teknolojisi, mobilya üretimi, CAD/CAM uygulamaları ve kalite yönetimi konularında dersler yer alır.",
+  "belge": "Ortaöğretim düzeyinde eğitimi tamamlayanlara meslek lisesi diploması; mesleki eğitim merkezlerinden mezun olanlara ustalık belgesi; ön lisans programını tamamlayanlara ise ön lisans diploması verilir."
+ },
+ "calisma_alanlari": "Ahşap Teknolojisi Teknisyenleri, başta mobilya üretim fabrikaları ve atölyeleri olmak üzere, yapı elemanları (kapı, pencere, iç mekân doğramaları) üreten işletmelerde, CNC üretim merkezlerinde ve iç mekân tasarım firmalarında çalışabilirler. Mobilya ve ahşap sanayinin yoğunlaştığı İstanbul, Bursa, Kayseri, Ankara, İnegöl gibi illerde çalışma ve iş bulma olanağı daha fazladır. Kamu kurumlarında bu meslekte doğrudan istihdam sınırlı olup, çalışma büyük ölçüde özel sektörde yoğunlaşmaktadır; deneyim kazananlar kendi işyerlerini de açabilmektedir.",
+ "kazanc": {
+  "egitim_suresince": "3308 sayılı Mesleki Eğitim Kanunu kapsamında, işletmelerde mesleki eğitim gören öğrencilere ücret ödenmekte, iş kazası ve meslek hastalığına ilişkin sigorta primleri devlet tarafından karşılanmaktadır. Öğrenciler ayrıca eğitim gördükleri işletmenin bazı sosyal imkânlarından yararlanabilir.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanların kazancı genellikle asgari ücret düzeyindedir.",
+   "Deneyim, uzmanlık (özellikle CNC programlama ve kalite kontrol becerisi) ve işletmenin büyüklüğüne göre kazanç artabilir.",
+   "Özel sektörde ücret, işveren ile çalışan arasındaki anlaşmaya veya toplu iş sözleşmesi hükümlerine göre belirlenir.",
+   "Kendi işini kuranların kazancı, işin hacmine ve pazar koşullarına göre değişiklik gösterir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleki ve teknik ortaöğretim kurumlarının ilgili alanından mezun olanlar, alanın devamı niteliğindeki yükseköğretim (ön lisans/lisans) programlarını tercih ettiklerinde sınavla veya ek puan avantajıyla yerleşebilirler. Ayrıca mesleki eğitim merkezlerinde kalfalık ve ustalık eğitimleriyle mesleki yeterlilik düzeyini ilerletebilirler.",
+  "is_hayatinda": "İş hayatında deneyim kazandıkça usta başı, atölye/üretim şefi, kalite kontrol sorumlusu gibi görevlere yükselebilir; CNC programlama ve tasarım bilgisini geliştirenler teknik ofis veya Ar-Ge birimlerinde görev alabilir. Yeterli sermaye ve deneyime sahip olanlar kendi üretim işletmelerini kurabilir."
+ },
+ "benzer_meslekler": [
+  "Ahşap Doğrama Teknolojisi Teknisyeni",
+  "Mobilya Süslemecisi",
+  "Dekoratif El Sanatları Üretim Elemanı"
+ ],
+ "ek_bilgiler": "Mesleğin icrasında CNC programlama ve bilgisayar destekli tasarım/üretim (CAD/CAM) bilgisi giderek daha fazla önem kazanmaktadır. Mesleki Yeterlilik Kurumu (MYK) tarafından ilgili alanda verilen belgeler istihdamda tercih sebebi olabilir. İşin niteliğine göre bazı üretim süreçlerinde iş sağlığı ve güvenliği açısından ek tedbirler ve kişisel koruyucu donanım kullanımı önem taşır.",
+ "gorevler": [
+  "Üretim makinelerinin CNC programlarını ve ayarlarını yapar.",
+  "Ahşap malzeme seçimini ve nem kontrolünü gerçekleştirir.",
+  "Üretim akışını ve standartlara uygunluğunu denetler.",
+  "Tasarım ve projelendirme aşamalarına teknik destek verir.",
+  "Montaj ve yüzey işlem süreçlerini kontrol eder.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T14:50:12",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6347
+  }
+ }
+}

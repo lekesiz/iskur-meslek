@@ -1,0 +1,81 @@
+{
+ "arac_gerec": [
+  "El takımları (tornavida, pense, anahtar takımı vb.)",
+  "Ölçü ve test aletleri (multimetre, ampermetre, kumpas, çelik cetvel)",
+  "Elektriksel arıza tespit cihazları",
+  "Lehim takımı ve kablo-konnektör malzemeleri",
+  "İlik makinesi ve yedek parçaları (iğne, bıçak, dişli grupları vb.)",
+  "Yağlama ekipmanları",
+  "Kompresör ve basınçlı hava tabancası",
+  "El feneri ve aydınlatma ekipmanları",
+  "Koruyucu donanım (eldiven, gözlük)",
+  "Tornavida ve lokma takımları",
+  "Elektrik şeması ve teknik dokümanlar"
+ ],
+ "benzer_meslekler": [
+  "İlik Makinesi Kurulum ve Bakım Onarımcısı",
+  "Düğme ve Punteriz Makineleri Kurulum ve Bakım Elemanı",
+  "Düz Dikiş (Sanayi) Makinesi Kurulum ve Bakım Elemanı",
+  "Overlok Makinesi Kurulum ve Bakım Elemanı",
+  "Reçme Makinesi Kurulum ve Bakım Elemanı",
+  "Zincir Dikiş Makinesi Kurulum ve Bakım Elemanı",
+  "Çift İğne Makinesi Kurulum ve Bakım Elemanı",
+  "Konfeksiyon Makineleri Tamircisi"
+ ],
+ "calisma_alanlari": "Bu meslek, tekstil ve konfeksiyon üretimi yapan fabrikalarda, hazır giyim atölyelerinde ve bu işletmelerin bakım-onarım birimlerinde istihdam olanağı sunar. Ayrıca dikiş makinesi ve yedek parça satış-servis hizmeti veren firmalarda da çalışılabilir. Konfeksiyon sektörünün yoğun olduğu illerde iş bulma olanağı nispeten daha fazladır. Sektörün büyük ölçüde ithal ve yurt içi üretim makinelerine bağımlı olması nedeniyle, bu alandaki bakım-onarım elemanlarına olan ihtiyaç devam etmektedir.",
+ "calisma_ortami": "İlik makinesi kurulum ve bakım elemanları, genellikle tekstil/konfeksiyon fabrikalarının üretim atölyelerinde veya bakım bölümlerinde, kapalı mekânlarda çalışır. Çalışma ortamı makine sesi nedeniyle gürültülü olabilir; bazı işletmelerde toz ve yağ kalıntılarına rastlanabilir. İş, küçük parçalarla dikkatli ve hassas çalışmayı, zaman zaman eğilerek veya ayakta durarak iş görmeyi gerektirir.\n\nÇalışma saatleri genellikle işletmenin üretim vardiyalarına bağlı olarak düzenlenir; arıza durumlarında mesai dışı çalışma gerekebilir. Bu meslekte çalışanlar, makine operatörleri, üretim sorumluları ve diğer bakım personeliyle sürekli iletişim halindedir.",
+ "egitim": {
+  "verildigi_yerler": "Bu meslek için örgün mesleki ve teknik eğitim içinde doğrudan tanımlanmış bir alan/dal bulunmamaktadır. Meslek bilgi ve becerisi genellikle işbaşında usta yanında, işletmelerin kendi içi eğitim uygulamalarıyla ya da Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kurslarında kazanılmaktadır. Elektrik-Elektronik Teknolojisi, Makine Teknolojisi veya Tekstil Teknolojisi alanlarından mezun olanlar bu mesleğe daha kolay yönelebilmektedir.",
+  "giris_kosullari": [
+   "En az ilköğretim/ortaokul mezunu olmak",
+   "Mesleğin gerektirdiği fiziksel ve sağlık koşullarına uygun olmak",
+   "El becerisine ve temel elektrik-elektronik bilgisine ilgi duymak",
+   "İşyerinde işbaşı eğitimine kabul edilmek"
+  ],
+  "sure_ve_icerik": "Resmî, standart süreli bir çıraklık veya mesleki eğitim programı bulunmadığından eğitim süresi işyerine, kişinin önceki bilgi birikimine (temel elektrik-elektronik, makine bakım bilgisi gibi) ve öğrenme hızına göre değişmektedir. Eğitim genellikle usta yanında uygulamalı olarak, kurslarda ise temel elektrik-elektronik devreler, elektriksel ölçme ve arıza analizi, ilik makinesi mekanizması ve ayarları konularını kapsayacak şekilde verilmektedir.",
+  "belge": "Katılınan kursların bitiminde kurs katılım/başarı belgesi verilebilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "ek_bilgiler": "Bu meslek, tekstil ve konfeksiyon sektöründeki dikiş makinelerinin özel bir türü olan ilik makineleri üzerinde uzmanlaşmayı gerektirir. Sektördeki teknolojik gelişmelere bağlı olarak makinelerin elektronik kontrol sistemlerinin yaygınlaşması, çalışanların güncel bilgi ve beceriyi sürekli takip etmesini önemli kılmaktadır.",
+ "genel_ozellikler": [
+  "El ve göz koordinasyonuna sahip,",
+  "Küçük parçalarla dikkatli ve hassas çalışabilen,",
+  "Mekanizmalar ve şekiller arasındaki ilişkiyi kavrayabilen,",
+  "Temel elektrik-elektronik bilgisine ve ilgisine sahip,",
+  "Sabırlı ve dikkatli,",
+  "Sorumluluk sahibi,",
+  "Yeniliklere açık, yeni bilgi ve teknikleri öğrenmeye istekli,",
+  "El becerisine sahip"
+ ],
+ "gorevler": [
+  "İşletmenin genel çalışma prensipleri ile iş sağlığı, iş güvenliği ve çevre koruma düzenlemelerine uygun olarak çalışır,",
+  "Temel elektrik-elektronik devreleri çizer,",
+  "Temel elektrik-elektronik devreleri kurar,",
+  "Elektriksel bağlantıları yapar,",
+  "Elektriksel ölçmeler yapar,",
+  "Temel elektrik-elektronik elemanları kullanır,",
+  "Elektriksel arıza analizi yapar,",
+  "İlik makinesinin ayarlarını yapar,",
+  "Otomatta ilik açar, düğme diker,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Bu meslekte örgün bir ilerleme basamağı (kalfalık-ustalık gibi) bulunmamaktadır. Kişiler, temel elektrik-elektronik ve makine bakım konularında açılan kurs ve seminerlere katılarak bilgi ve becerilerini geliştirebilir; isteyenler ilgili mesleki ve teknik eğitim programlarına veya açık öğretim yoluyla eğitimlerine devam edebilir.",
+  "is_hayatinda": "Deneyim kazandıkça usta, bakım-onarım sorumlusu veya ekip şefi gibi görevlere yükselebilirler. Yeterli deneyim ve sermaye birikimine sahip olanlar kendi bakım-onarım/servis işyerlerini açabilirler."
+ },
+ "kazanc": {
+  "egitim_suresince": "Örgün bir çıraklık eğitimi bulunmadığından, işbaşında eğitim alanlar genellikle çalıştıkları işletmenin ücret politikasına göre, çoğunlukla asgari ücret düzeyinde bir kazanç elde ederler.",
+  "egitim_sonrasi": [
+   "Özel sektörde çalışanların kazancı; işyerinin büyüklüğü, kişinin tecrübesi, bilgi ve becerisi ile sektörün genel ücret düzeyine göre değişebilmektedir.",
+   "Mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar; deneyim ve uzmanlaşma arttıkça kazanç da artabilir.",
+   "Kamu sektöründe bu meslekte doğrudan istihdam yaygın değildir; istihdam edilenler tabi oldukları mevzuata göre ücret alır."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T03:01:58",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6356
+  }
+ }
+}

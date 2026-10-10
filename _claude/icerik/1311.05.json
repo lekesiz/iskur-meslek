@@ -1,0 +1,74 @@
+{
+ "arac_gerec": [
+  "Bilgisayar ve ofis yazılımları",
+  "Yazıcı, fotokopi ve faks cihazı",
+  "Telefon",
+  "Hesap makinesi",
+  "Muhasebe ve kooperatif yönetim yazılımları",
+  "Resmi defter ve evraklar (ortaklık pay defteri, genel kurul tutanakları, karar defteri)",
+  "Arşiv ve dosyalama sistemleri",
+  "Saha ziyaretleri için taşıt",
+  "Ürün alım-satımına yönelik tartı ve ölçüm ekipmanları (tarım kooperatiflerinde)",
+  "Depo ve stok takip sistemleri",
+  "Diğer büro malzemeleri"
+ ],
+ "genel_ozellikler": [
+  "Liderlik ve yöneticilik vasfına sahip,",
+  "İnsan ilişkilerinde başarılı ve ikna gücü yüksek,",
+  "Sorumluluk sahibi ve güvenilir,",
+  "Analitik düşünme ve planlama yeteneğine sahip,",
+  "Mali, hukuki ve idari konulara ilgili,",
+  "Sözlü ve yazılı iletişim becerisi gelişmiş,",
+  "Sabırlı, farklı görüş ve çıkarları uzlaştırabilen,",
+  "Değişen koşullara ve mevzuata uyum sağlayabilen"
+ ],
+ "calisma_ortami": "Kooperatif Müdürü çalışmalarını genellikle büro ortamında yürütür; ancak kooperatifin faaliyet alanına göre (tarımsal üretim, yapı, satış vb.) zaman zaman tarla, depo, inşaat alanı veya satış noktalarında saha ziyaretleri de yapar. Çalışma ortamı büroda kapalı, sahada ise açık veya yarı açık olabilir.\n\nGörevi gereği ortaklar, kooperatif yönetim kurulu ve denetim kurulu üyeleri, kooperatif personeli, tedarikçi ve müşteriler ile ilgili kamu kurumları (Ticaret Bakanlığı, Tarım ve Orman Bakanlığı, ilgili birlik ve odalar) ile sık sık iletişim kurar. Genel kurul dönemlerinde, hasat/satış sezonlarında veya proje teslim süreçlerinde çalışma temposu artabilir; bu dönemlerde mesai saatleri dışında da çalışması gerekebilir.",
+ "calisma_alanlari": "Kooperatif Müdürleri; tarım satış kooperatifleri, tarımsal kalkınma kooperatifleri, kredi ve kefalet kooperatifleri, yapı (konut) kooperatifleri, üretim ve pazarlama kooperatifleri ile kooperatif birliklerinde istihdam edilebilirler. Ayrıca Tarım ve Orman Bakanlığı, Ticaret Bakanlığı ve bağlı kuruluşların kooperatifçilik hizmetleriyle ilgili birimlerinde de görev alabilirler. İş bulma olanakları, kooperatifin ortak sayısına, mali büyüklüğüne ve faaliyet alanına göre değişiklik göstermektedir.",
+ "ek_bilgiler": "Kooperatif müdürlüğü yapmak isteyenlerin, 1163 sayılı Kooperatifler Kanunu ile ilgili mevzuat, muhasebe ve işletme yönetimi konularında bilgi sahibi olmaları, görevlerini etkin biçimde yürütmelerinde önemli bir avantaj sağlar. Mesleğe giriş için tek ve standart bir eğitim yolu bulunmadığından, işletme/iktisat/kooperatifçilik alanında eğitim veya kooperatif bünyesinde kazanılan deneyim istihdamda belirleyici olabilmektedir.",
+ "egitim": {
+  "verildigi_yerler": "Kooperatif Müdürlüğü için örgün, standart bir meslek eğitimi programı bulunmamaktadır. Meslek genellikle üniversitelerin işletme, iktisat, kooperatifçilik veya tarım ekonomisi gibi lisans ve önlisans programlarından mezun olan kişiler tarafından ya da kooperatif bünyesinde zaman içinde deneyim kazanılarak yürütülmektedir. Halk Eğitim Merkezleri ile İŞKUR'un açtığı kooperatifçilik, işletme yönetimi ve muhasebe alanındaki kurslar da bu meslek için bilgi ve beceri kazandırabilir.",
+  "giris_kosullari": [
+   "Lise ve dengi okul mezunu olmak (mesleğin gerektirdiği minimum eğitim düzeyi)",
+   "Üniversitelerin ilgili lisans/önlisans programlarına girmek isteyenlerin YKS kılavuzunda belirtilen koşulları taşıması",
+   "İşletme, iktisat, kooperatifçilik, tarım ekonomisi gibi bölümlerde eğitim almak isteyenlerin ilgili sınav ve yerleştirme süreçlerini takip etmesi",
+   "Kooperatif bünyesinde işbaşında yetişmek isteyenler için ilgili kooperatifte istihdam edilmiş olmak"
+  ],
+  "sure_ve_icerik": "Mesleğe özgü tek bir standart eğitim süresi ve içeriği bulunmamaktadır. Üniversitelerin işletme, iktisat, kooperatifçilik veya tarım ekonomisi bölümlerinde eğitim önlisansta 2 yıl, lisansta 4 yıl sürmekte; bu programlarda muhasebe, işletme yönetimi, kooperatifçilik mevzuatı, pazarlama ve tarım ekonomisi gibi dersler okutulmaktadır. Bunun yanında, lise mezuniyeti sonrası kooperatif bünyesinde çalışarak deneyim ve hizmet içi eğitimler yoluyla da bu mesleğe girilebilmektedir.",
+  "belge": "Üniversite programlarını tamamlayanlara önlisans veya lisans diploması verilir; kurs ve hizmet içi eğitim programlarına katılanlara ise katılım veya başarı belgesi verilmektedir."
+ },
+ "gorevler": [
+  "Kooperatifin bütçe ve iş planlarını hazırlar.",
+  "Ortaklar ile olan ilişkileri ve pay dağılım süreçlerini yönetir.",
+  "Ürün alım-satım ve pazarlama operasyonlarını koordine eder.",
+  "Genel kurul toplantı hazırlıklarını ve yasal kayıtları yürütür.",
+  "Kooperatif personelini sevk ve idare eder.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "kazanc": {
+  "egitim_suresince": "Mesleğe özgü örgün bir eğitim dönemi olmadığından ayrı bir eğitim ücreti genellikle bulunmaz. Üniversitede eğitim alanlar öğrenim kredisi ve burslardan yararlanabilir; kooperatif bünyesinde işbaşında yetişenler ise çalıştıkları süre boyunca ücret alabilirler.",
+  "egitim_sonrasi": [
+   "Kamuya bağlı kooperatif birliklerinde çalışanlar, 657 sayılı Devlet Memurları Kanunu'na veya ilgili kurumun statüsüne göre ücret alır.",
+   "Özel kooperatiflerde çalışanların ücreti; kooperatifin büyüklüğüne, çalışma süresine ve deneyime göre karşılıklı anlaşmayla belirlenir; göreve yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "İlgili lisans programlarından mezun olanlar işletme, iktisat veya kooperatifçilik alanında yüksek lisans yaparak akademik kariyer yapabilir; ayrıca kooperatifçilik, işletme yönetimi ve muhasebe alanlarında açılan sertifika programlarına katılarak bilgi ve becerilerini geliştirebilirler.",
+  "is_hayatinda": "Deneyim kazanan Kooperatif Müdürleri, daha büyük kooperatiflerde veya kooperatif birliklerinde üst düzey yönetim pozisyonlarına, genel müdürlük ya da bölge müdürlüğü görevlerine yükselebilirler."
+ },
+ "benzer_meslekler": [
+  "Kooperatif Başkanı",
+  "Kooperatif Başkan Yardımcısı",
+  "Katip Üye (Kooperatif)",
+  "Muhasip Üye (Kooperatif)",
+  "Hayvancılık İşletme Yöneticisi",
+  "Çiftlik Yöneticisi"
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-07T19:40:39",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6171
+  }
+ }
+}

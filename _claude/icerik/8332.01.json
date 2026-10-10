@@ -1,0 +1,75 @@
+{
+ "arac_gerec": [
+  "Elektrikle çalışan ara-taşıt (shuttle car) kamyonu",
+  "Kontrol levyeleri ve pedallar",
+  "Direksiyon simidi",
+  "Yükleme makinesi (bom)",
+  "Konveyör bandı sistemi",
+  "Yağlama ekipmanları ve yağlama malzemeleri",
+  "Basit tamir için el aletleri",
+  "Araç farı/aydınlatma lambası",
+  "Telsiz veya iletişim cihazı",
+  "Gaz ölçüm cihazı",
+  "Kişisel koruyucu donanım (baret, maske, kulaklık, iş elbisesi, çelik burunlu bot)",
+  "Yangın söndürme tüpü"
+ ],
+ "genel_ozellikler": [
+  "El, ayak ve göz koordinasyonunu birlikte kullanabilen,",
+  "Dikkatli ve tedbirli,",
+  "Sorumluluk sahibi,",
+  "Dar ve kapalı alanlarda çalışmaya uygun bedensel yapıya sahip,",
+  "Fiziksel olarak sağlıklı ve dayanıklı,",
+  "Takım çalışmasına uyumlu,",
+  "Stres ve yorgunluğa karşı dayanıklı,",
+  "İşitme ve görme duyuları yeterli düzeyde olan"
+ ],
+ "calisma_ortami": "Ara-taşıt aracı operatörü, yer altı veya yer üstü maden ocaklarında, genellikle kapalı, karanlık, tozlu, nemli ve gürültülü ortamlarda çalışır. İş, elektrikli bir aracı kullanarak oturur pozisyonda yapılır; ancak çalışılan alanın dar ve sınırlı olması, zaman zaman eğilerek veya zorlu fiziksel koşullarda hareket etmeyi gerektirebilir. Çalışma ortamında toz, nem, yetersiz havalandırma, gaz birikimi ve gürültü gibi riskler bulunabileceğinden iş sağlığı ve güvenliği kurallarına titizlikle uyulması gerekir.\n\nÇalışma genellikle vardiyalı sistemle yürütülür; gece çalışması, hafta sonu çalışması ve nöbet tutma durumu söz konusu olabilir. Meslek elemanı; ocak nezaretçileri, maden mühendisleri, diğer operatörler ve bakım personeli ile sürekli iletişim ve koordinasyon içinde çalışır.",
+ "egitim": {
+  "verildigi_yerler": "Ara-Taşıt Aracı Operatörü (Maden Ocağı) mesleğine yönelik örgün bir okul programı bulunmamaktadır. Meslek genellikle maden işletmelerinde işbaşında, deneyimli bir operatör veya usta nezaretinde uygulamalı olarak kazanılır. Ayrıca Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kursları bünyesinde ağır vasıta/iş makinesi operatörlüğüne yönelik temel eğitimler de bu mesleğe hazırlık niteliğinde olabilir. Maden ocaklarında çalışacak herkes için ayrıca yasal olarak iş sağlığı ve güvenliği eğitimi alınması gerekmektedir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "18 yaşını doldurmuş olmak",
+   "Sağlık açısından maden ocağı ve kapalı alan koşullarında çalışmaya uygun olduğunu gösteren sağlık raporuna sahip olmak",
+   "Fiziksel ve bedensel engeli bulunmamak",
+   "İşe alındığı işletmenin talep ettiği sürücü belgesine (varsa) sahip olmak"
+  ],
+  "sure_ve_icerik": "Eğitim süresi, çalışılan işletmenin uygulamalarına göre değişmekle birlikte genellikle birkaç haftadan birkaç aya kadar sürebilen işbaşı eğitimi şeklinde yürütülür. Eğitimde; aracın tanıtımı ve kullanımı, kontrol levyeleri ile pedalların işlevleri, bom altında aracın doğru şekilde konumlandırılması, mineralin konveyör bandına boşaltılması, aracın günlük bakım ve yağlama işlemleri, basit arızalara müdahale, maden ocağına özgü iş sağlığı ve güvenliği kuralları, gaz ve toz tehlikelerine karşı alınacak tedbirler ile acil durum prosedürleri konuları yer alır.",
+  "belge": "Eğitim sonunda genellikle işletme veya kurum tarafından verilen işbaşı eğitim/kurs bitirme belgesi ile maden ocaklarında çalışma için zorunlu olan iş sağlığı ve güvenliği eğitim belgesi alınır. Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Ara-Taşıt Aracı Operatörü (Maden Ocağı), başta kömür ve metal madenciliği olmak üzere mineral çıkarılan yer altı ve yer üstü maden ocaklarında istihdam edilir. Kamuya bağlı maden işletmeleri ile özel sektöre ait maden şirketlerinde çalışma imkânı bulunmaktadır. Bu meslek, madencilik faaliyetlerinin yoğun olduğu bölgelerde (kömür havzaları ve maden ocaklarının bulunduğu iller) daha fazla iş bulma olanağı sunar; madencilik sektörünün yapısı ve istihdam düzeyi, iş bulma olanaklarını doğrudan etkilemektedir.",
+ "kazanc": {
+  "egitim_suresince": "İşbaşı eğitimi süresince çalışan adaylar genellikle asgari ücret düzeyinde bir kazanç elde eder.",
+  "egitim_sonrasi": [
+   "Kamu kuruluşlarına bağlı maden işletmelerinde işçi statüsünde çalışanlar, toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektördeki maden işletmelerinde ücret; işletmenin büyüklüğüne, çalışma koşullarına (yer altı/yer üstü), deneyime ve varsa risk tazminatına göre değişiklik gösterir.",
+   "Mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar; deneyim arttıkça kazanç da artabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Meslekte örgün bir eğitim basamağı ve resmî bir ilerleme sistemi bulunmamaktadır. Deneyim kazanan operatörler, maden ocağında kullanılan farklı araç ve iş makinelerini kullanmayı öğrenerek mesleki bilgi ve becerilerini geliştirebilir.",
+  "is_hayatinda": "Deneyim ve performansına göre operatör, ekip sorumluluğu üstlenebilir, usta operatör konumuna gelebilir veya nezaretçi yardımcılığı gibi görevlere yükselebilir. Ayrıca iş sağlığı ve güvenliği alanında ek eğitimler alarak farklı sorumluluklar üstlenmesi mümkündür."
+ },
+ "benzer_meslekler": [
+  "Kaya Kamyonu Operatörü",
+  "Kamyon Şoförü",
+  "Şoför-Yük Taşıma",
+  "Kendinden Tahrikli Motorlu Taşıyıcı (SPMT) Ağır Nakliye (Low-Bed) İş Makinesi Operatörü",
+  "Çekici Tahrikli Ağır Nakliye (Low-Bed) İş Makinesi Operatörü"
+ ],
+ "ek_bilgiler": "Bu meslek, yer altı veya yer üstü maden ocaklarında, sınırlı ve kapalı alanlarda elektrikli bir taşıma aracının kullanılmasını gerektiren özel ve yaygın olmayan bir meslektir. Maden ocaklarında çalışma, iş sağlığı ve güvenliği mevzuatı kapsamında tehlikeli veya çok tehlikeli işler sınıfında değerlendirilebileceğinden, bu alanda çalışacakların ilgili güvenlik eğitimlerini almaları ve düzenli sağlık kontrollerinden geçmeleri önem taşır.",
+ "gorevler": [
+  "Aracı yükleme makinesinin bomu altına gelecek şekilde hizalamak için kontrol levyelerini, pedalları ve direksiyon simidini kullanır.",
+  "Aracı mineralle doluncaya kadar bom altında ileri geri hareket ettirir.",
+  "Aracı konveyör kayışının yüklendiği yere kadar yürütür ve mineralleri konveyör kayışına boşaltır.",
+  "Kamyonu yağlar ve gerekli ufak tamirlerini yapar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T18:22:12",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6304
+  }
+ }
+}

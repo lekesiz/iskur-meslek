@@ -1,0 +1,87 @@
+{
+ "arac_gerec": [
+  "Tornavida, pense, kargaburun, yan keski gibi el aletleri",
+  "Faz kalemi ve seri lamba",
+  "Avometre, voltmetre, ampermetre, megger gibi ölçü aletleri",
+  "Kaçak akım test cihazı ve multimetre",
+  "Elektrikli/darbeli matkap",
+  "Kablo soyma ve sıkma pensesi",
+  "Kablo kanalı, spiral boru, buat, priz, anahtar, sigorta gibi tesisat malzemeleri",
+  "Lehim havyası ve lehim teli",
+  "El testeresi, eğe, pafta ve kılavuz takımları",
+  "Merdiven ve seyyar iskele",
+  "Yalıtkan eldiven, baret, koruyucu gözlük gibi kişisel koruyucu donanım",
+  "Kablo makası ve kablo pabuçlama aparatları"
+ ],
+ "benzer_meslekler": [
+  "Elektrik Tesisatçısı (Bina)",
+  "Diğer Elektrik Tesisatçıları",
+  "Kuvvetli Akım Tesisatçısı",
+  "Elektrik Tamircisi",
+  "Zayıf Akım Tesisatçısı (Çağırma - Haberleşme - Güvenlik)",
+  "İşletme Elektrik Bakımcısı"
+ ],
+ "calisma_alanlari": "Elektrikçi (Genel), konut, işyeri, apartman ve atölyelerin elektrik tesisatının kurulumu, bakımı ve onarımını yapan elektrik taahhüt firmalarında, elektrik malzemesi satan ve kurulum hizmeti sunan işletmelerde, inşaat firmalarında, site/apartman yönetimlerinde ve bakım-onarım hizmeti veren işletmelerde çalışabilir.\\n\\nMeslek elemanları ayrıca kendi işyerini açarak serbest olarak da çalışabilmektedir. Konut ve işyeri sayısının artması, elektrikli cihaz kullanımının yaygınlaşması ve mevcut tesisatların yenileme ihtiyacı nedeniyle bu meslek elemanlarına olan talep sürmektedir.",
+ "calisma_ortami": "Elektrikçi (Genel), konut, işyeri ve atölye gibi kapalı mekânlarda, bazen de bina dışı tesisat ve direk gibi açık alanlarda çalışır. Çalışma sırasında merdiven veya iskele üzerinde yükseklikte çalışma, elektrik çarpması, dar ve tozlu alanlarda çalışma gibi riskler bulunabilir; bu nedenle iş sağlığı ve güvenliği kurallarına ve kişisel koruyucu donanım kullanımına dikkat edilmesi gerekir.\\n\\nÇalışma genellikle gündüz saatlerinde olmakla birlikte, arıza giderme amacıyla çağrı üzerine mesai dışında veya gece çalışma da gerekebilir. Meslek elemanları çalışmaları sırasında müşteriler, işverenler, usta-çırak, malzeme satıcıları ve inşaat/tesisat alanındaki diğer çalışanlarla iletişim kurar.",
+ "ek_bilgiler": "Elektrik tesisatı üzerinde yapılan işler, iş sağlığı ve güvenliği mevzuatı kapsamında tehlikeli/çok tehlikeli işler arasında değerlendirilebilmektedir. Bu nedenle Mesleki Yeterlilik Kurumu (MYK) Mesleki Yeterlilik Belgesi, istihdamda tercih sebebi olabilir ve bazı işlerde talep edilebilir.",
+ "genel_ozellikler": [
+  "El becerisine sahip,",
+  "Dikkatli ve titiz,",
+  "Elektrik-elektronik konularına ilgili ve yetenekli,",
+  "Yükseklikte çalışmaya uygun (yükseklik korkusu olmayan),",
+  "Analitik düşünebilen ve arıza tespitinde başarılı,",
+  "Renkleri ayırt edebilen,",
+  "Fiziksel olarak dayanıklı,",
+  "Sorumluluk sahibi"
+ ],
+ "gorevler": [
+  "Proje ve diğer şartnameleri inceler.",
+  "Tevzi tablosu, sigorta kutusu, anahtar, ampul ve priz yerleri (sortiler) gibi eşyayı yerine takar ve tespit eder.",
+  "Tesisatı, düğmeleri ve sigorta tabloları gibi donanımı, motorları ve diğer elektrikli mekanizmaları inceler.",
+  "İçinden iletkenler geçen boruları keser, büker, köşe kıvrımlarını yapar ve yerlerine takar.",
+  "İçlerinden iletken teller geçirir veya antigron kablo çeker.",
+  "Tesisatı sortilere ve elektrik teçhizatına bağlar.",
+  "Tesisat ve plan şemasına bakarak ve test cihazları kullanarak arızaların yerini belirler.",
+  "Arızalı kablolar, yanmış sigortalar gibi parçaları ve diğer elektrik cihazlarının elemanlarını onarır ya da yenileriyle değiştirir.",
+  "Elektrik tesisatının ve cihazlarının durumlarının inşaat kurallarına ve güvenlik talimatlarına uygunluğunu inceler ve yeterli çalışma koşullarında çalışması için bakımını yapar.",
+  "Yeni elektrik tesisatlarının bağlantısını yapar.",
+  "Elektrikli ev aletlerinde kullanılan elektrik motorlarının bakım ve onarımını yapar.",
+  "Arıza elektrikse akım, gerilim ve direnç ölçümü yapar.",
+  "Yeni elektrik cihazları ya da sistemleri kurar, bobinleri yeniden sarar.",
+  "Cihazların onarım ve revizyonunu yapar ya da tadilat yapar.",
+  "Hazır olan bir bakım programını izler ve tesisatın durumu hakkında kayıtlar tutar.",
+  "Yüksek ve alçak voltaj tesisatı üzerinde ihtisas sahibi olabilir.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi, mesleki ve teknik eğitim okul/kurumlarının \"Elektrik-Elektronik Teknolojisi\" alanı ile ilişkili dallarında ve mesleki eğitim merkezlerinde çıraklık eğitimi şeklinde verilmektedir. Ayrıca Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kurslarında da bu mesleğe yönelik eğitim alınabilmekte, mesleğe işbaşında usta yanında çalışarak da girilebilmektedir.",
+  "giris_kosullari": [
+   "Mesleğin gerektirdiği minimum eğitim düzeyi ilköğretim olup en az ilkokul/ortaokul mezunu olmak",
+   "Çıraklık eğitimine başlamak için 14 yaşını doldurmuş olmak",
+   "Mesleğin öğrenimine sağlık durumu bakımından uygun olmak (gerektiğinde sağlık raporuyla belgelendirme)",
+   "Mesleki eğitim merkezi yoluyla eğitim alınacaksa ilgili işyeri ile çıraklık sözleşmesi imzalamak"
+  ],
+  "sure_ve_icerik": "Mesleki eğitim merkezleri yoluyla alınan çıraklık eğitiminde teorik dersler haftada bir gün merkezde, uygulamalı eğitim ise işyerinde usta öğretici gözetiminde verilir; eğitim kalfalık ve ardından ustalık eğitimi aşamalarını kapsar. Mesleğe, çıraklık eğitimi dışında Halk Eğitim Merkezleri veya İŞKUR'un açtığı kurslara katılarak ya da doğrudan işyerlerinde usta yanında çalışarak da girilebilmektedir.",
+  "belge": "Mesleki eğitim merkezinde eğitimini tamamlayanlara kalfalık, ardından ustalık belgesi verilir. Kurs yoluyla eğitim alanlara kurs bitirme belgesi verilir; ayrıca Mesleki Yeterlilik Kurumu (MYK) tarafından yapılan sınavlarda başarılı olanlara ilgili alanda Mesleki Yeterlilik Belgesi verilebilmektedir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Çıraklık eğitimi kapsamında işyerinde eğitim görenlere, 3308 sayılı Mesleki Eğitim Kanunu çerçevesinde asgari ücretin belirli bir oranından az olmamak üzere ücret ödenir; eğitim gören öğrencilerin iş kazası ve meslek hastalıkları sigorta primleri devletçe karşılanır.",
+  "egitim_sonrasi": [
+   "Kamuda istihdam edilenler, statülerine göre 657 sayılı Kanun'a veya işçi statüsündeyse toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde çalışanların kazancı işyerinin büyüklüğüne, kişinin deneyim ve yeteneğine göre değişmekle birlikte, yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar; deneyim ve uzmanlaşma ile bu tutar artabilir.",
+   "Kendi işyerini açarak çalışanların kazancı işin hacmine, müşteri çevresine ve bölgeye göre değişmektedir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleki eğitim merkezinden diploma alanlar, alanın devamı niteliğindeki yükseköğretim programlarını tercih ettiklerinde yükseköğretime geçiş sınavlarında ek puandan yararlanabilir. Ayrıca çeşitli kurs ve sertifika programlarına katılarak yüksek/alçak voltaj tesisatı, zayıf akım, otomasyon gibi alanlarda uzmanlaşabilirler.",
+  "is_hayatinda": "Deneyim kazandıkça usta, ekip şefi veya formen gibi görevlere yükselebilir; kendi işyerini açarak bağımsız çalışabilir ya da elektrik taahhüt işine girebilir."
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T05:52:26",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 8381
+  }
+ }
+}

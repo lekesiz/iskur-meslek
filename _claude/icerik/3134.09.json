@@ -1,0 +1,76 @@
+{
+ "arac_gerec": [
+  "Sıcaklık ölçüm ve kontrol cihazları (termometre, termokupl)",
+  "Basınç göstergeleri ve basınç kontrol vanaları",
+  "Seviye göstergeleri (şamandıralı ve basınçlı tip seviye ölçerler)",
+  "Akış miktarı ölçüm cihazları (flowmetreler)",
+  "Kontrol vanaları ve aktüatörler",
+  "Alarm sistemleri ve otomatik devreden çıkarma (kesme) enstrümanları",
+  "Dağıtık kontrol sistemi (DKS/DCS) panelleri ve bilgisayar",
+  "Numune alma ekipmanları",
+  "Gaz dedektörleri",
+  "Kişisel koruyucu donanım (koruyucu elbise, baret, gaz maskesi, kulaklık, eldiven)",
+  "Telsiz/haberleşme cihazları",
+  "Pompa ve vana kontrol üniteleri",
+  "Kayıt, rapor ve vardiya devir-teslim formları"
+ ],
+ "benzer_meslekler": [
+  "Rafineri ve Petrokimya Teknikeri",
+  "Karıştırıcı (Petrol Rafinesi)",
+  "Kontrolör (Petrol Rafinesi)",
+  "İmbik Operatörü (Petrol Rafinesi)",
+  "Pompacı (Petrol Rafinesi)",
+  "Petrol-Gaz Üretim Operatörü"
+ ],
+ "calisma_alanlari": "Reaktör Operatörleri (Petrol Rafinerisi), ham petrolün işlendiği petrol rafinerilerinde ve bu rafinerilere bağlı petrokimya tesislerinde istihdam edilir. Türkiye'de büyük ölçekli rafinerilerin sayısının sınırlı olması nedeniyle iş olanakları, bu tesislerin kurulu bulunduğu bölgelerle sınırlıdır. Ancak rafinerilerde üretimin kesintisiz (vardiyalı) esasa göre yürütülmesi nedeniyle, bu tesislerde nitelikli ve deneyimli operatörlere sürekli ihtiyaç duyulmaktadır.",
+ "calisma_ortami": "Reaktör Operatörü, petrol rafinerilerinin üretim/proses üniteleri ile bu üniteleri izleyip yönettiği kontrol odalarında çalışır. Saha çalışması genellikle açık havada kurulu reaktör, kolon ve boru hatlarının bulunduğu alanlarda; izleme ve yönlendirme çalışması ise kapalı kontrol odalarında yürütülür. Çalışma ortamı gürültülü, kimyasal koku ile yüklü olabilir; yüksek sıcaklık, basınç, yanıcı ve parlayıcı maddelerle çalışma nedeniyle belirli riskler taşır ve iş sağlığı ve güvenliği kurallarına titizlikle uyulması gerekir.\n\nÜretim süreci kesintisiz yürütüldüğü için çalışma vardiyalar halinde (gece-gündüz, hafta sonu ve resmî tatiller dâhil) düzenlenir. Çalışırken vardiya arkadaşları, mühendisler, teknisyenler, vardiya amirleri ve bakım-onarım personeli ile sürekli iletişim ve koordinasyon içindedir.",
+ "ek_bilgiler": "Petrol rafinerilerinde yürütülen üretim süreçleri; yüksek sıcaklık, basınç, yanıcı-parlayıcı madde ve kimyasal madde riskleri taşıması nedeniyle genel olarak \"çok tehlikeli işler\" kapsamında değerlendirilmektedir. Bu nedenle mesleğin icrasında iş sağlığı ve güvenliği mevzuatına uyum büyük önem taşımaktadır. Mesleki Yeterlilik Kurumu (MYK) tarafından ilgili alanda düzenlenebilecek bir Mesleki Yeterlilik Belgesi, işe alımlarda tercih sebebi olabilir.",
+ "egitim": {
+  "verildigi_yerler": "Reaktör Operatörlüğü için standart bir ön lisans veya lisans eğitim programı bulunmamaktadır. Meslek, genellikle lise veya dengi okulun (tercihen kimya teknolojisi, petrol ve doğalgaz, endüstriyel otomasyon teknolojileri gibi alanların) ardından, rafineri işletmelerinin kendi bünyesinde düzenlediği işbaşı eğitimler, usta-çırak ilişkisi içinde kademeli olarak yetişme ve kurum içi sertifika programları yoluyla kazanılmaktadır. Halk Eğitim Merkezleri ve İŞKUR'un açtığı ilgili alanlardaki mesleki eğitim kursları da destekleyici olabilir.",
+  "giris_kosullari": [
+   "Lise veya dengi okul mezunu olmak (tercihen kimya teknolojisi, petrol ve doğalgaz, endüstriyel otomasyon teknolojileri gibi ilgili alanlardan)",
+   "İşe alım sınav ve mülakat süreçlerinde başarılı olmak",
+   "Vardiyalı ve çok tehlikeli iş kategorisindeki görevlere uygun sağlık durumuna sahip olmak (sağlık raporu ile belgelemek)",
+   "18 yaşını doldurmuş olmak"
+  ],
+  "sure_ve_icerik": "Mesleğin standart bir eğitim süresi ve müfredatı bulunmamaktadır. İşe yeni başlayanlar, bir süre deneyimli operatör ve mühendislerin gözetiminde yardımcı operatör olarak çalışarak reaktörün çalışma prensiplerini; hidrokarbon akışının düzenlenmesini, ısı, basınç ve sıvı seviyesi kontrollerini, teçhizatın bütünsel işletilmesini ve acil durum prosedürlerini öğrenir. Bu süreçte işletme içi teorik ve uygulamalı eğitimler ile iş sağlığı ve güvenliği eğitimleri alınır.",
+  "belge": "Mesleğe özgü resmî bir diploma bulunmamaktadır; işletme içi eğitim sürecini tamamlayanlara genellikle kurum sertifikası verilir. Ayrıca ilgili alanda bir Mesleki Yeterlilik Kurumu (MYK) Mesleki Yeterlilik Belgesi alınması, istihdamda tercih sebebi olabilir."
+ },
+ "genel_ozellikler": [
+  "Dikkatli ve tedbirli,",
+  "Sorumluluk sahibi ve güvenilir,",
+  "Fiziksel ve zihinsel olarak sağlıklı, dayanıklı,",
+  "Yönergeleri doğru ve hızlı uygulayabilen,",
+  "Ekip çalışmasına uyumlu,",
+  "Acil durumlarda hızlı ve doğru karar verebilen,",
+  "Göstergeleri ve verileri doğru okuyup yorumlayabilen,",
+  "Vardiyalı çalışmaya uygun"
+ ],
+ "gorevler": [
+  "Hidrokarbonların reaktöre akışını düzenler.",
+  "Isı, basınç ve sıvı seviyesini devam ettirip diğer çalıştırma kontrollerini belirli sınırlara göre düzenler.",
+  "Teçhizatın bir bütün olarak çalışmasını sağlar, yardımcılarını gereğine göre idare ve kontrol eder.",
+  "Üretilen malzemeyi tipine göre ayırt eder.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğin standart bir örgün eğitim programı bulunmadığından dikey/yatay geçiş olanağı sınırlıdır. İsteyen kişiler, ilgili lisans tamamlama sınavları yoluyla kimya mühendisliği veya petrol ve doğalgaz mühendisliği gibi lisans programlarına geçiş yapabilir; ya da kimya teknolojisi, petrol ve doğalgaz gibi ilgili ön lisans programlarını tamamlayarak mesleki bilgisini pekiştirebilir.",
+  "is_hayatinda": "Deneyim kazanan Reaktör Operatörleri; kıdemli operatör, vardiya amiri, ünite sorumlusu, üretim şefi gibi daha üst düzey görevlere ve sorumluluklara yükselebilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Mesleğe yardımcı operatör olarak başlayanlar, işe alındıkları işletmenin ücret politikasına göre genellikle asgari ücret düzeyinde veya buna yakın bir ücretle çalışmaya başlar; bu süreçte sosyal güvenlik hak ve yükümlülükleri çalıştıkları işletme tarafından sağlanır.",
+  "egitim_sonrasi": [
+   "Kamu kuruluşlarına bağlı rafinerilerde işçi statüsünde çalışanlar, ilgili toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde çalışanların kazancı; işletmenin büyüklüğü, kişinin deneyimi, bilgi ve becerisi ile sektörün genel ücret düzeyine göre değişebilir.",
+   "Deneyim kazanan ve sorumluluk üstlenen operatörlerin ücretleri zaman içinde artış gösterebilir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T11:12:16",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 7865
+  }
+ }
+}

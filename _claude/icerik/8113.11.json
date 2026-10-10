@@ -1,0 +1,85 @@
+{
+ "arac_gerec": [
+  "Sondaj makinesi ve tahrik ünitesi",
+  "Çamur pompası ve emici hortumlar",
+  "Piston gömlekleri, kütük yatakları, bilya yatakları",
+  "Takım dizisi (tij, matkap ucu, karot borusu)",
+  "Karot sandığı ve numune kutuları",
+  "Anahtar takımları",
+  "Kazma, kürek, balyoz",
+  "Vinç ve kule sistemi",
+  "Jeneratör ve aydınlatma ekipmanı",
+  "Telsiz/haberleşme cihazı",
+  "Kişisel koruyucu donanım (baret, eldiven, iş ayakkabısı, koruyucu gözlük, kulaklık)"
+ ],
+ "genel_ozellikler": [
+  "El ve beden becerisine sahip,",
+  "Dikkatli ve sabırlı,",
+  "Fiziksel olarak güçlü ve dayanıklı,",
+  "Ekip çalışmasına uygun,",
+  "Açık arazide ve zor hava koşullarında çalışmaya istekli,",
+  "Sorumluluk sahibi,",
+  "İş sağlığı ve güvenliği kurallarına uyan,",
+  "Mekanik aletlere ilgili"
+ ],
+ "calisma_ortami": "Maden Sondörü, maden sahalarında açık arazide veya yer altı işletmelerinde çalışır. Çalışma ortamı hava koşullarına (sıcak, soğuk, yağmur) açık olabileceği gibi yer altında dar, nemli ve tozlu alanlarda da olabilir; gürültü, titreşim ve toz gibi fiziksel risk etmenleriyle karşılaşır. Sondaj çalışması belirli bir süre kesintisiz sürdürüldüğünden vardiyalı ve bazen gece çalışması gerekebilir.\n\nGörevini genellikle sondaj ustası, sondaj yardımcısı, jeolog/jeoloji mühendisi ve diğer saha ekibi üyeleriyle birlikte, ekip halinde yerine getirir. İşveren tarafından sağlanan kişisel koruyucu donanımı kullanarak çalışır; işin niteliği gereği belirli dönemlerde şehir dışında ve saha konaklamalı olarak görev yapabilir.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi, Halk Eğitim Merkezlerinde ve İŞKUR tarafından açılan mesleki eğitim kurslarında verilen sondaj işçiliği/maden sondörlüğü kurs programları yoluyla kazanılabilmektedir. Bunun yanında meslek, işletmelerde usta yanında işbaşı eğitimi yoluyla da öğrenilebilmektedir.",
+  "giris_kosullari": [
+   "En az ilkokul/ilköğretim mezunu olmak",
+   "18 yaşını doldurmuş olmak",
+   "Ağır ve tehlikeli işlerde çalışmaya uygun olduğunu gösteren sağlık raporuna sahip olmak"
+  ],
+  "sure_ve_icerik": "Halk Eğitim Merkezleri ve İŞKUR kurslarında açılan modül eğitimleri, sondaj makinesinin tanıtımı, montaj-demontaj, çamur hazırlama, numune alma ve iş güvenliği konularını içerecek şekilde teorik ve uygulamalı olarak verilir; kursun süresi kurumdan kuruma ve modül içeriğine göre değişebilir. İşbaşında yetişme yolunda ise kişi, deneyimli bir sondör/usta yanında çalışarak mesleğin uygulamalı bilgi ve becerilerini zaman içinde kazanır.",
+  "belge": "Kurs yoluyla yetişenlere kurs bitirme belgesi verilir. Mesleki Yeterlilik Kurumu (MYK) Mesleki Yeterlilik Belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Maden Sondörü; maden arama ve işletme şirketlerinde, kamu kurumlarının maden arama birimlerinde (örneğin jeolojik etüt ve sondaj çalışması yürüten kuruluşlarda), jeotermal kaynak arama firmalarında ve özel sondaj hizmeti veren işletmelerde çalışabilir. İş genellikle proje bazlı olduğundan, çalışılan sahaya göre farklı illerde ve zaman zaman şehir dışında görev yapılabilir.",
+ "gorevler": [
+  "Sondaj makinesinin bakım, ikmal ve kontrolünü yapar.",
+  "Sondaj makinesini kurma (montaj) işlemlerini yapar.",
+  "Çamur pompasının bakımını yapar.",
+  "Piston gömleklerini, kütük yataklarını, bilya yataklarını ve bilyaları değiştirir.",
+  "Emici hortumları bağlar.",
+  "Çamur havuzu açar.",
+  "Kanal açar.",
+  "Kanal üzerine dinlenme havuzu kazar.",
+  "Çamur pompasını kurar.",
+  "Çamur hazırlar.",
+  "Takım dizisi oluşturur.",
+  "Kırıntı numunesi, karot numunesi ve örselenmemiş numune alır.",
+  "Çıkan numunelerin korunmasını sağlar.",
+  "Sondaj makinesini sökme (demontaj) işlemlerini yapar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "kazanc": {
+  "egitim_suresince": "Kurs yoluyla yetişenler için eğitim süresince genellikle bir kazanç söz konusu değildir. İşbaşında usta yanında yetişme sürecinde, çalışılan işletmeye göre genellikle asgari ücret düzeyinde bir gelir elde edilebilir.",
+  "egitim_sonrasi": [
+   "Özel sektörde kazanç; işletmenin büyüklüğüne, çalışılan sahanın koşullarına, kişinin deneyim ve becerisine göre karşılıklı anlaşma yoluyla belirlenir.",
+   "Kamu kurumlarında işçi statüsünde çalışanların ücreti ilgili toplu iş sözleşmesi hükümlerine göre belirlenir.",
+   "Yeni başlayanların kazancı genellikle asgari ücret düzeyinde olmakla birlikte, deneyim arttıkça kazanç da artış gösterebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğe ilişkin resmî, kademeli bir ilerleme programı bulunmamaktadır. Kişi, deneyim ve becerisini artırarak farklı sondaj teknikleri ve makine tiplerinde yetkinlik kazanabilir.",
+  "is_hayatinda": "Deneyim, bilgi birikimi ve yeteneklerine göre usta sondörlük, ekip şefliği, sondaj ustabaşılığı ve saha amirliği gibi görevlere yükselebilirler."
+ },
+ "benzer_meslekler": [
+  "Sondaj İşçisi",
+  "Sondaj Operatörü/Sondör",
+  "Döner Sondaj Makinesi Operatörü-Petrol ve Doğal Gaz Kuyuları",
+  "Kablolu Sondaj Makinesi Operatörü-Petrol ve Doğal Gaz Kuyuları",
+  "Su Sondaj Operatörü",
+  "Zemin Delgi (Delik Delme ve Sondaj) Makinesi Operatörü",
+  "Sondaj Çamurcusu",
+  "Petrol Sondörü"
+ ],
+ "ek_bilgiler": "Maden sondörlüğü, maden sahalarında yürütülen ağır ve tehlikeli iş niteliği taşıyabileceğinden, çalışacak kişilerin fiziksel ve sağlık açısından işe uygun olması önemlidir. Mesleki Yeterlilik Kurumu (MYK) Mesleki Yeterlilik Belgesine sahip olmak, iş bulma ve istihdamda tercih sebebi olabilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T10:36:51",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5259
+  }
+ }
+}

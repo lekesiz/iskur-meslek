@@ -1,0 +1,74 @@
+{
+ "arac_gerec": [
+  "Hassas tartım terazisi",
+  "Karıştırma makinesi (mikser)",
+  "Öğütme makinesi (değirmen)",
+  "Elek ve filtrasyon sistemleri",
+  "Torba/paket doldurma makinesi",
+  "Taşıma bantları/konveyörler",
+  "Reçete ve üretim formülü kayıtları",
+  "Ambalaj malzemeleri (torba, kutu, etiket)",
+  "Toz emme ve havalandırma sistemleri",
+  "Toz maskesi, eldiven, gözlük gibi kişisel koruyucu donanımlar (KKD)",
+  "Temizlik ekipmanları"
+ ],
+ "benzer_meslekler": [
+  "Karıştırma Makinesi Operatörü-Kimyasal Maddeler",
+  "Öğütme Makinesi Operatörü (Kimyasal ve İlgili İşlemler)",
+  "Tablet İlaç İmal İşçisi",
+  "Süspansiyon İlaç İmal İşçisi",
+  "Granül İmal İşçisi",
+  "Toz Dolum Makinesi Operatörü"
+ ],
+ "calisma_alanlari": "Toz ilaç imal işçileri; beşeri ve veteriner ilaç üretimi yapan fabrikalarda, kimyasal ürün üretim tesislerinde ve bazı özel kimyasal/tarım ilacı üretim işletmelerinde çalışabilirler. İstihdam, genellikle orta ve büyük ölçekli üretim tesislerinde söz konusudur; mesleğin istihdam hacmi sektördeki üretim yoğunluğuna göre değişmektedir.",
+ "calisma_ortami": "Toz ilaç imal işçileri, ilaç veya kimyasal madde üretimi yapan fabrikaların üretim bölümlerinde, kapalı mekânlarda çalışır. Ortamda toz partikülleri ve kimyasal madde kokuları bulunabileceğinden, çalışırken kişisel koruyucu donanım (maske, eldiven, gözlük) kullanımı önem taşır. İş genellikle ayakta ve bazen vardiya usulüyle yürütülür; dikkat ve titizlik gerektiren, tekrarlayan işlemler içerir.\n\nÇalışma sırasında üretim ekibindeki diğer işçiler, vardiya sorumlusu ve kalite kontrol personeli ile iletişim halinde olunur. İşin niteliği gereği hijyen kurallarına ve iş güvenliği talimatlarına titizlikle uyulması gerekir.",
+ "ek_bilgiler": "Toz ilaç imal işçileri kimyasal maddelerle iç içe çalıştıklarından iş sağlığı ve güvenliği kurallarına uyum büyük önem taşır. Çalışılan işletmenin üretim koluna göre bu mesleğin tehlikeli/çok tehlikeli işler kapsamına girip girmediği değişebilir; bu durumda işyeri, ilgili mevzuat çerçevesinde ek eğitim ve belge şartı arayabilir. Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin örgün bir eğitim/öğretim programı bulunmamaktadır. Genellikle işyerinde usta yanında uygulamalı olarak öğrenilir; ayrıca Halk Eğitim Merkezleri ve İşkur tarafından açılan kimya/ilaç üretimi alanındaki mesleki eğitim kurslarına katılarak da bilgi ve beceri kazanılabilir.",
+  "giris_kosullari": [
+   "Okuryazar olmak",
+   "İlköğretim mezunu olmak (meslek için gereken minimum eğitim düzeyi)",
+   "Kurs veya işbaşı eğitiminin öngördüğü fiziksel ve psikomotor yeterliliğe sahip olmak"
+  ],
+  "sure_ve_icerik": "Açılacak kursların süresi ve içeriği kurumdan kuruma değişmekle birlikte, genellikle iş sağlığı ve güvenliği, kimyasal maddelerle güvenli çalışma, tartım, karıştırma, öğütme ve paketleme işlemlerine ilişkin temel bilgi ve beceriler kazandırılır. İşbaşı eğitiminde ise usta yanında uygulamalı olarak, işletmenin üretim süreçlerine özgü bilgi ve beceriler zaman içinde kazanılır.",
+  "belge": "Kurs yoluyla eğitim alanlara kursu açan kurum tarafından 'Kurs Bitirme Belgesi' verilir. İşbaşında yetişenler için resmi bir eğitim belgesi düzenlenmeyebilir; işyeri deneyim ve referansı ile istihdam edilir."
+ },
+ "genel_ozellikler": [
+  "Dikkatli ve titiz,",
+  "El ve göz koordinasyonunu iyi kullanabilen,",
+  "Sorumluluk duygusu gelişmiş,",
+  "Talimat ve reçetelere eksiksiz uyabilen,",
+  "Fiziksel olarak dayanıklı,",
+  "Hijyen ve temizlik kurallarına özen gösteren,",
+  "Ekip çalışmasına yatkın,"
+ ],
+ "gorevler": [
+  "Reçeteye göre kimyevi maddeleri tartar.",
+  "Tartılan maddeleri karıştırma makinesinde karıştırır.",
+  "Meydana gelen karışımın homojenliğini artırmak için öğütme makinesinde öğütür.",
+  "Öğütülen karışımı tekrar karıştırma makinesinde işleme tabi tutar.",
+  "İmal edilen toz ilacı torbalara doldurur.",
+  "Belirli tip ilaç imalinde ihtisaslaşabilir.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğin örgün bir ilerleme basamağı bulunmamaktadır. İlgili kimya/ilaç üretimi alanındaki mesleki eğitim kurslarına katılarak bilgi ve beceriler geliştirilebilir.",
+  "is_hayatinda": "Deneyim ve bilgi birikimi arttıkça usta, vardiya sorumlusu veya üretim şefi gibi görevlere yükselme imkânı bulunabilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Meslek genellikle işbaşında usta yanında öğrenildiğinden, bu dönemde çalışan kişi işletmede yardımcı eleman statüsünde çalışarak bir ücret alabilir; bu ücret işletmeden işletmeye değişiklik gösterir. Kurs yoluyla eğitim alınması durumunda ise kurs süresince herhangi bir kazanç söz konusu değildir.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanların ücreti genellikle asgari ücret düzeyindedir.",
+   "Deneyim, işletmenin büyüklüğü ve sektöre göre ücret zamanla değişkenlik gösterebilir.",
+   "Kamuya bağlı üretim tesislerinde işçi statüsünde çalışanlar için toplu iş sözleşmesi hükümleri, memur statüsündekiler için 657 sayılı Devlet Memurları Kanunu hükümleri geçerli olabilir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T12:19:32",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5187
+  }
+ }
+}

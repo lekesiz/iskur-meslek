@@ -1,0 +1,87 @@
+{
+ "arac_gerec": [
+  "Ayna makinesi",
+  "Yarma makinesi",
+  "Tıraş (traşlama) makinesi",
+  "Şerit kesme makinesi",
+  "Yarma bıçağı",
+  "Tıraş bıçağı",
+  "Tıraş makinesinin yumurta adı verilen parçası",
+  "Ayna mukavvası ve iç takım malzemeleri (mukavva, salpa)",
+  "Cam koruma paneli",
+  "Kalınlık/genişlik ayar aparatları",
+  "Ölçü aletleri (kumpas, şerit metre)",
+  "Makine bakımında kullanılan basit el aletleri (tornavida, anahtar takımı vb.)",
+  "Koruyucu eldiven ve iş önlüğü"
+ ],
+ "genel_ozellikler": [
+  "El becerisine sahip,",
+  "Dikkatli ve titiz,",
+  "Gözünü ve elini eşgüdümlü kullanabilen,",
+  "Makine ve aletlerle çalışmaktan hoşlanan,",
+  "Fiziksel olarak dayanıklı,",
+  "Sorumluluk sahibi,",
+  "Tekrarlı ve tekdüze işleri sabırla yapabilen,",
+  "Kesici alet kullanırken iş güvenliği kurallarına uyan"
+ ],
+ "calisma_ortami": "Saraciye traşçıları, deri ve saraciye ürünleri üreten küçük atölyelerde veya fabrikalarda, genellikle kapalı mekanlarda çalışır. Çalışma süresince ayakta durur, makine başında eğilerek veya oturarak iş parçalarını işler. Ortamda makine gürültüsü, deri tozu ve yarma/tıraş bıçaklarının kullanımından kaynaklanan kesilme-yaralanma riski bulunabilir; bu nedenle iş güvenliği kurallarına ve koruyucu ekipman kullanımına dikkat edilmesi gerekir.\n\nGenel olarak gündüz ve normal mesai saatlerinde çalışılır, ancak işletmenin üretim yoğunluğuna göre çalışma temposu değişebilir. Meslek elemanı; saya hazırlayıcı, deri kesici, dikişçi, saraç ve diğer saraciye/deri imalat elemanlarıyla iş birliği içinde, genellikle ekip hâlinde çalışır.",
+ "egitim": {
+  "verildigi_yerler": "Saraciye Traşçısı mesleği için örgün eğitimde ayrı, bağımsız bir meslek programı bulunmamaktadır. Meslek genellikle deri ve saraciye imalatı yapan işletmelerde işbaşında, usta yanında çalışarak öğrenilmektedir. Halk Eğitim Merkezleri ile İŞKUR tarafından açılan mesleki eğitim kurslarında deri işleme/saraciye konularına yönelik beceri kazandırıcı eğitimler de bu mesleğe hazırlık açısından destek sağlayabilir. Ayrıca \"Ayakkabı ve Saraciye Teknolojisi\" alanındaki mesleki ve teknik eğitim programları, bu meslekle ilişkili temel bilgi ve becerilerin kazanılmasına katkı sağlar.",
+  "giris_kosullari": [
+   "Mesleğin gerektirdiği minimum eğitim düzeyi okuryazar olmaktır; örgün bir giriş koşulu bulunmamaktadır",
+   "İşbaşında eğitim için ilgili işletmede çalışmaya başlamak yeterli olabilir",
+   "El becerisi ve makinelerle çalışmaya yatkınlık önemli bir ön koşuldur",
+   "Yaygın eğitim kurslarına katılım için genellikle belirli bir asgari yaş şartı ve sağlık durumunun işe elverişli olması aranır"
+  ],
+  "sure_ve_icerik": "Meslek, çoğunlukla işbaşında usta yanında uygulamalı olarak öğrenilir; süresi kişinin öğrenme hızına ve işletmenin uygulamasına göre değişir. Eğitim sürecinde ayna, yarma ve tıraş makinelerinin çalıştırılması ve ayarlanması, deri iş parçalarının mukavvaya dizilmesi, yarma bıçağının keskinlik kontrolü, kalınlık ve genişlik ayarlarının yapılması, belirlenen ölçülere göre tıraşlama işlemi ile makinelerin basit bakım ve onarımı gibi konular uygulamalı olarak öğretilir. Yaygın eğitim kurumlarında açılan kurslarda ise deri işleme teknikleri ve iş güvenliği konularında teorik ve uygulamalı dersler verilir.",
+  "belge": "Örgün eğitimde belirli bir diploma veya sertifika programı bulunmadığından, meslek genellikle işyerinde kazanılan deneyimle icra edilir. Katılınan yaygın eğitim kurslarının sonunda kurs bitirme/katılım belgesi verilebilir. Mesleki Yeterlilik Kurumu (MYK) tarafından ilgili alanda bir belge düzenlenmesi hâlinde bu belgenin istihdamda tercih sebebi olabileceği değerlendirilmelidir."
+ },
+ "gorevler": [
+  "Ayna, yarma ve tıraş makinelerini çalışmaya hazırlar",
+  "Yarma ve tıraş makinelerinin atık deri depolarını boşaltır",
+  "Ayna makinesinin tonaj, sıcaklık ve zaman ayarlarını yapar",
+  "Deri iş parçalarını ayna mukavvasına dizer",
+  "Mukavvayı ayna bandına koyup ütüler",
+  "Yarma bıçağının keskinliğini kontrol eder",
+  "Makinenin kalınlık ayarını yapar",
+  "İş parçalarını yarma makinesinden geçirir",
+  "İç takım malzemelerini (mukavva, salpa) gerekiyorsa yarmadan geçirir",
+  "Şerit kesme makinesinin cam koruma panelini takar, makinenin genişlik ayarını yapar",
+  "Kesilecek deriyi makineye verir",
+  "Tıraş makinesinin yumurtasını yerleştirir, tıraşlanacak kenara uygun ayak takar, tıraş bıçağının keskinliğini kontrol eder",
+  "Belirlenen kalınlık ve genişlik ölçülerine göre deri iş parçalarını tıraşlar",
+  "Makinelerin basit bakım ve onarımlarını yapar",
+  "Mesleki gelişim faaliyetlerinde bulunur"
+ ],
+ "calisma_alanlari": "Saraciye traşçıları, deri ve saraciye ürünleri (çanta, kemer, koşum takımı, ayakkabı ve benzeri deri eşya) üreten küçük ölçekli atölyelerde ve fabrikalarda istihdam edilmektedir. Çalışma alanları genellikle deri işleme sanayinin yoğun olduğu bölgelerdedir. Meslekte yeterli deneyim ve sermayeye sahip kişiler kendi atölyelerini kurabilir. Sektördeki teknolojik gelişmeler ve makineleşme, nitelikli ve modern makineleri kullanabilen meslek elemanlarına olan talebi artırabilirken, geleneksel yöntemlerle çalışan niteliksiz iş gücü için istihdam olanaklarını daraltabilir.",
+ "kazanc": {
+  "egitim_suresince": "Meslek işbaşında öğrenildiğinden, eğitim sürecinde çalışan kişiye genellikle asgari ücret düzeyinde veya işveren ile yapılan anlaşmaya göre bir ücret ödenir. Örgün çıraklık eğitimi kapsamında çalışılması hâlinde 3308 sayılı Mesleki Eğitim Kanunu'nda belirtilen esaslara göre ücretlendirme yapılabilir.",
+  "egitim_sonrasi": [
+   "Meslekte yeni başlayanlar genellikle asgari ücret düzeyinde kazanç elde eder",
+   "Deneyim, beceri düzeyi ve çalışılan işletmenin büyüklüğüne bağlı olarak ücret artabilir",
+   "Kamuda bu meslekte doğrudan istihdam yaygın değildir; özel sektörde ücret, işveren ile çalışan arasındaki anlaşmaya göre belirlenir",
+   "Kendi atölyesini kuran meslek elemanlarının kazancı işin hacmine ve piyasa koşullarına göre değişkenlik gösterir"
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğe yönelik ayrı bir örgün ilerleme basamağı (kalfalık-ustalık gibi) bulunmamaktadır. Kişi, işbaşında edindiği deneyim ve beceriyle zaman içinde daha karmaşık iş parçalarında ve daha fazla sorumlulukla çalışabilir. İlgili yaygın eğitim kurumlarında açılan ileri düzey deri işleme kurslarına katılarak bilgi ve becerisini geliştirebilir.",
+  "is_hayatinda": "Deneyim kazandıkça usta işçi veya atölye/üretim sorumlusu konumuna yükselebilir, yeni çalışanların yetişmesinde usta öğretici rolü üstlenebilir. Yeterli sermaye ve deneyime sahip olanlar kendi deri/saraciye atölyesini açarak işveren konumuna geçebilir."
+ },
+ "benzer_meslekler": [
+  "Saraciye Üretim Elemanı",
+  "Saraç",
+  "Deri Kesici (Elle)",
+  "Saya Hazırlayıcı",
+  "Deri Eşya/Aksesuar İmal İşçisi",
+  "Ayakkabı ve Saraciye Tamircisi"
+ ],
+ "ek_bilgiler": "Meslek, kesici alet ve makinelerle (yarma bıçağı, tıraş bıçağı vb.) çalışmayı içerdiğinden iş güvenliği kurallarına ve koruyucu ekipman kullanımına özen gösterilmesi büyük önem taşır. Deri sektöründeki üretim hacmine bağlı olarak istihdam olanakları değişkenlik gösterebilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T09:39:23",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5891
+  }
+ }
+}

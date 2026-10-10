@@ -1,0 +1,73 @@
+{
+ "arac_gerec": [
+  "Steteskop",
+  "Enjektör ve sarf malzemeleri (iğne, kanül vb.)",
+  "Sterilizatör ve dezenfeksiyon malzemeleri",
+  "Cerrahi aletler (bistüri, makas, pens, dikiş iplikleri)",
+  "Muayene masası ve hayvan sabitleme ekipmanları (ağızlık, tasma, bukağı)",
+  "Laboratuvar tahlil malzemeleri (tüp, lam, mikroskop, kan/idrar/dışkı numune kapları)",
+  "Koruyucu ekipman (önlük, eldiven, maske, bazı durumlarda çizme)",
+  "Klinik kayıt sistemleri (dosya, bilgisayar yazılımı)",
+  "Aşı, serum ve tedaviye yönelik ilaçlar (hekim gözetiminde)",
+  "Görüntüleme cihazları (röntgen, ultrason) - gözlem ve yardımcı olma amaçlı",
+  "Pansuman malzemeleri (gazlı bez, bandaj, antiseptik solüsyonlar)"
+ ],
+ "genel_ozellikler": [
+  "İnceleme ve araştırma merakı olan,",
+  "Fen bilimlerine, özellikle biyoloji ve kimyaya ilgi duyan,",
+  "Hayvanlarla ilgilenmekten hoşlanan ve onlara karşı sabırlı olan,",
+  "Dikkatli, gözlem yeteneği gelişmiş,",
+  "Sorumluluk sahibi ve güvenilir,",
+  "Takım çalışmasına uyumlu, denetim altında çalışabilen,",
+  "Hayvan sahipleriyle sağlıklı iletişim kurabilen,",
+  "Fiziksel olarak dayanıklı ve stresli durumlarda sakin kalabilen"
+ ],
+ "gorevler": [
+  "Hasta hayvanların muayene ve tedavi süreçlerine yardımcı olur.",
+  "Cerrahi operasyonlarda asistanlık yapar.",
+  "Laboratuvar tahlilleri için numune alır ve ön analizleri yapar.",
+  "Hayvan sahiplerini bakım ve besleme konularında bilgilendirir.",
+  "Klinik kayıtlarını tutar ve ilaç uygulamalarını takip eder.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "calisma_ortami": "İntörn veterinerler çoğunlukla veteriner fakültelerine bağlı eğitim ve araştırma hastanelerinde, üniversite kliniklerinde, bazen anlaşmalı özel hayvan hastanelerinde ve saha çalışmaları kapsamında çiftlik, ahır veya hayvan barınaklarında bulunur. Ayakta, eğilerek, diz çökerek çalışmayı gerektiren bu ortamda, hayvanların bulunduğu alanların nemli olması, rahatsız edici koku, tırmalama, ısırma ve tepme gibi hayvan kaynaklı tehlikeler söz konusudur; çalışırken önlük, eldiven ve gerektiğinde maske kullanılır.\n\nÇalışma, öğretim üyeleri veya uzman veteriner hekimlerin gözetim ve sorumluluğu altında yürütülür; intörn, ekip içinde diğer stajyerler, hekimler, hemşire/teknikerler ve hayvan sahipleriyle sürekli iletişim halindedir. Fakültenin eğitim programına ve klinik ihtiyaçlarına bağlı olarak çalışma saatleri düzensiz olabilir, nöbet veya acil vaka durumlarında mesai saatleri dışında da görev yapılabilir.",
+ "egitim": {
+  "verildigi_yerler": "İntörn veterinerlik bağımsız bir meslek eğitimi değildir; üniversitelerin Veteriner Fakültelerinde verilen 5 yıllık lisans eğitiminin son aşamasında yürütülen zorunlu klinik ve saha uygulaması (intörnlük/staj) dönemidir.",
+  "giris_kosullari": [
+   "Veteriner Fakültesi'ne YKS (Yükseköğretim Kurumları Sınavı) ile kayıt yaptırmış öğrenci olmak",
+   "Fakültenin müfredatında belirlenen alt sınıf/dönem derslerini ve ön koşul uygulamalarını başarıyla tamamlamış olmak",
+   "Fakültenin intörnlük/staj dönemine geçiş için belirlediği akademik şartları yerine getirmiş olmak"
+  ],
+  "sure_ve_icerik": "Veteriner Fakültesi lisans eğitimi 5 yıl sürer; intörnlük (klinik ve saha stajı) bu eğitimin son yılında veya son dönemlerinde, fakülteden fakülteye değişen süre ve içerikte uygulanır. Bu dönemde öğrenciler, öğretim üyeleri ve uzman veteriner hekimlerin gözetiminde hasta hayvanların muayenesine katılır, cerrahi operasyonlarda asistanlık yapar, laboratuvar numunesi alıp ön analizler gerçekleştirir, hayvan sahiplerini bilgilendirir ve klinik kayıt tutma gibi uygulamalı deneyimler kazanır.",
+  "belge": "İntörnlük dönemi için ayrı bir sertifika veya diploma verilmez; bu dönem lisans eğitiminin bir parçası olarak not/kredi ile değerlendirilir. Eğitimini başarıyla tamamlayan öğrencilere Veteriner Fakültesi lisans diploması verilir ve kişi 'Veteriner Hekim' unvanını kazanır."
+ },
+ "calisma_alanlari": "İntörn veterinerlik, bağımsız bir istihdam alanı değil, veteriner fakültesi eğitimi sırasında geçirilen zorunlu bir staj dönemidir. Bu dönemde öğrenciler; üniversitelere bağlı veteriner fakültesi hastaneleri ve kliniklerinde, fakültenin anlaşmalı olduğu bazı özel hayvan hastanelerinde, çiftlik, ahır ve hayvan barınaklarında yürütülen saha uygulamalarında görev alır. Dönem sonunda mezun olup diploma alan kişiler, Veteriner Hekim unvanıyla kamu kurumlarında (ilgili bakanlıklar, belediyeler, üniversiteler, araştırma enstitüleri vb.) veya özel sektörde (hayvan hastaneleri, klinikler, çiftlikler, ilaç ve gıda firmaları) istihdam olanağı bulur.",
+ "kazanc": {
+  "egitim_suresince": "İntörnlük dönemi lisans öğrenciliği kapsamında olduğundan genellikle ücretsiz yürütülür; bazı üniversiteler veya fakülteler sınırlı burs ya da harçlık desteği sağlayabilir, bu uygulama kurumdan kuruma değişir.",
+  "egitim_sonrasi": [
+   "İntörnlük, veteriner hekimliğe geçiş öncesi bir eğitim aşaması olduğundan bu döneme özgü ayrı bir kazanç söz konusu değildir.",
+   "Lisans eğitimini tamamlayıp Veteriner Hekim unvanı alanlar; kamuda 657 sayılı Devlet Memurları Kanunu'na, işçi statüsünde çalışanlar ise ilgili toplu iş sözleşmesine göre ücret alır.",
+   "Özel sektörde çalışan veteriner hekimlerin kazancı işveren ile yapılan anlaşmaya, deneyime, uzmanlık alanına ve işletmenin büyüklüğüne göre değişiklik gösterir; yeni mezunlarda ücret genellikle sektör başlangıç seviyesindedir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "İntörnlük dönemini başarıyla tamamlayan öğrenciler, veteriner fakültesi lisans eğitimini bitirerek 'Veteriner Hekim' unvanını kazanır. Mezunlar isterlerse cerrahi, iç hastalıkları, doğum-jinekoloji, halk sağlığı, laboratuvar hayvanları gibi alanlarda yüksek lisans ve doktora yaparak akademik kariyer veya uzmanlaşma yoluna gidebilir.",
+  "is_hayatinda": "Mesleğe başlayan veteriner hekimler deneyim kazandıkça kendi muayenehanesini veya hayvan hastanesini açabilir, kamu kurumlarında kıdem ve liyakate bağlı olarak kariyer basamaklarında ilerleyebilir, akademik unvanlar edinebilir veya gıda denetimi, halk sağlığı, hayvan ıslahı gibi özel alanlarda uzman olarak çalışabilir."
+ },
+ "benzer_meslekler": [
+  "Veteriner Hekim",
+  "Halk Sağlığı Veterineri",
+  "Epidemiyolog (Veteriner)",
+  "Hayvan Patalogu",
+  "Diğer Veterinerler"
+ ],
+ "ek_bilgiler": "İntörn Veterinerlik bağımsız bir meslek değil, veteriner fakültesi lisans eğitiminin son aşamasında yürütülen zorunlu klinik ve saha stajı niteliğindedir. Bu dönemde yapılan tüm uygulamalar, deneyimli öğretim üyeleri veya uzman veteriner hekimlerin gözetim ve sorumluluğu altında gerçekleştirilir; intörn öğrenciler bağımsız olarak teşhis koyma, tedavi veya ilaç uygulama yetkisine sahip değildir. Eğitimini tamamlayıp diploma alan kişiler, mesleği bağımsız olarak uygulayabilmek için gerekli yasal şartları (ilgili meslek odasına kayıt gibi) yerine getirerek Veteriner Hekim unvanıyla çalışmaya başlar.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-07T23:24:28",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6847
+  }
+ }
+}

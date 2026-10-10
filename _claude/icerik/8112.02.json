@@ -1,0 +1,73 @@
+{
+ "arac_gerec": [
+  "Salınımlı (titreşimli) elek ve tezgahlar",
+  "Püskürtme tesisatı",
+  "Santrifüj kurutma tesisatı",
+  "Toz tutucu filtre tesisatı",
+  "Konveyör bantları ve besleme ünitesi",
+  "Taş işleme el aletleri (keski, çekiç, murç ve benzeri)",
+  "El arabası, kürek ve basit taşıma ekipmanları",
+  "Tesis kumanda panelleri ve kontrol düğmeleri",
+  "Kişisel koruyucu donanım (toz maskesi, eldiven, kulaklık, koruyucu gözlük, iş elbisesi, çelik burunlu ayakkabı)",
+  "Temizlik ve bakım için basit el takımları"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve sabırlı,",
+  "El ve göz koordinasyonuna sahip,",
+  "Fiziksel olarak güçlü ve dayanıklı,",
+  "Ekip çalışmasına uyumlu,",
+  "Talimat ve kurallara uyan,",
+  "Sorumluluk sahibi,",
+  "Monoton ve tekrarlı işlerde dikkatini sürdürebilen,",
+  "Değişen çalışma koşullarına uyum sağlayabilen"
+ ],
+ "gorevler": [
+  "Püskürtme tesisatını işletir, salınımlı elek veya tezgahı çalıştırır.",
+  "İşleme tabi tutulan kömür ve maden içerisindeki taş ve yabancı maddeleri elle ayıklar.",
+  "Eleklerden çıkan ıslak kömür ve madenleri santrifüj tesisatında kurutur.",
+  "Kömür ve madenlerin işleme tabi tutulması esnasında çıkan tozu önleyen filtre tesisatını çalıştırır.",
+  "Çamurla karışık civayı elle yoğurarak civayı ayırır.",
+  "Taş blokları kabaca yontar, şekillendirir, işler veya düzeltir.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "calisma_ortami": "Diğer Mineralleri Muameleye Tabi Tutanlar; kömür ve maden zenginleştirme tesisleri, taş ve mermer işleme atölyeleri ile mineral işleme fabrikaları gibi genellikle kapalı, bazı durumlarda açık alanlarda çalışır. Çalışma ortamı tozlu, nemli veya ıslak, gürültülü olabilir; iş sırasında sürekli hareketli ve ayakta çalışılır. Vücut, solunum ve işitme sağlığını korumak için işveren tarafından sağlanan kişisel koruyucu donanımların kullanılması gerekir.\\n\\nÇalışma süresi genellikle işyerinin üretim programına göre belirlenir ve vardiyalı çalışma söz konusu olabilir. Meslek mensubu; tesis operatörleri, ustabaşı, diğer işçiler ve gerektiğinde mühendislerle iş birliği içinde çalışır.",
+ "egitim": {
+  "verildigi_yerler": "Bu meslek için örgün bir okul veya üniversite programı bulunmamaktadır. Meslek genellikle işyerinde usta yanında çalışılarak öğrenilir. Ayrıca Halk Eğitim Merkezleri ve İŞKUR tarafından açılan maden/mineral işleme konulu mesleki eğitim kurslarına katılmak mümkündür.",
+  "giris_kosullari": [
+   "En az ilkokul mezunu olmak",
+   "Bedenen bu işi yapmaya uygun olduğunu gösteren sağlık raporuna sahip olmak"
+  ],
+  "sure_ve_icerik": "İşbaşında yetişme süresi işyerinin büyüklüğüne ve iş kolunun özelliğine göre değişir. Açılan kurslarda eğitim süresi ve içeriği, ilgili kurumun modül programına göre belirlenir ve genellikle birkaç hafta ile birkaç ay arasında değişir.",
+  "belge": "İşbaşında yetişenlere işyeri tarafından deneyim/çalışma belgesi, kurs tamamlayanlara ise kurs bitirme belgesi verilir. Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Kömür ve maden zenginleştirme/yıkama tesisleri, taş ve mermer işleme atölyeleri, mineral işleme fabrikaları ve ilgili madencilik işletmelerinde istihdam edilirler. Çalışma olanakları genellikle madencilik ve mineral işleme faaliyetinin yoğun olduğu bölgelerde yoğunlaşmaktadır.",
+ "kazanc": {
+  "egitim_suresince": "İşbaşında yetişme sürecinde çalışılan işletmeden ücret alınabilir. Kurs şeklinde alınan eğitimlerde genellikle bir kazanç söz konusu değildir.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde gelir elde eder.",
+   "Deneyim, çalışılan işletmenin büyüklüğü ve sektöre göre ücret artabilir.",
+   "Kamuya bağlı tesislerde çalışanlar 657 sayılı Kanun'a veya ilgili toplu iş sözleşmesi hükümlerine göre ücret alır; özel sektörde ücret işveren ile çalışan arasında karşılıklı olarak belirlenir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Meslekte örgün bir ilerleme basamağı bulunmamaktadır. Deneyim kazandıkça ilgili tesis operatörlüğüne yönelik kurslara katılarak bilgi ve becerilerini geliştirebilirler.",
+  "is_hayatinda": "Mesleki tecrübe ve bilgi birikimine bağlı olarak usta, vardiya sorumlusu veya tesis operatörü gibi görevlere yükselebilirler."
+ },
+ "benzer_meslekler": [
+  "Ayırıcı Cihaz Operatörü-Maden",
+  "Filtre Tesisi Operatörü-Maden",
+  "Jig Operatörü",
+  "Manyetik Ayırıcı Operatörü-Maden",
+  "Mineral Kırma Makinesi Operatörü",
+  "Yıkama Makinesi Operatörü (Maden)"
+ ],
+ "ek_bilgiler": "Bu meslekte toz, gürültü ve nem gibi çevresel etkenlere bağlı sağlık risklerine karşı kişisel koruyucu donanım kullanımı önemlidir. Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T10:21:39",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5066
+  }
+ }
+}

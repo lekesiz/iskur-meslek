@@ -1,0 +1,79 @@
+{
+ "gorevler": [
+  "Müdür veya müdür yardımcıları tarafından kendisine verilen yazışmaları yürütür.",
+  "Gelen-giden yazılarla ilgili dosya ve defterleri tutar.",
+  "Yazışmaların asıl veya örneklerini dosyalayarak saklar ve gerekenlere cevap hazırlar.",
+  "Kendisine teslim edilen gizli ya da şahıslarla ilgili yazıların gizlilik içinde saklanmasını sağlar.",
+  "Okulda görevli personelin özlük dosyalarını tutar, bunlarla ilgili değişiklikleri dosyalara işler.",
+  "Okulun arşiv işlerini düzenler.",
+  "Kurum personeline ait aylık, ücret, sosyal yardım, yolluk, sağlık ve benzeri özlük haklarının zamanında ödenmesini sağlar, bunlarla ilgili belgeleri dosyalar.",
+  "Okulla ilgili mali işleri izler, gerekli iş ve işlemleri yapar ve bunlarla ilgili yazı, belge, defter ve dosyaları düzenleyerek saklar.",
+  "Büro işleri ile ilgili olarak okul yönetimince kendisine verilen diğer görevleri yapar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "arac_gerec": [
+  "Bilgisayar ve ofis yazılımları",
+  "Yazıcı",
+  "Fotokopi makinesi",
+  "Tarayıcı",
+  "Telefon ve faks cihazı",
+  "Evrak kayıt defteri",
+  "Dosya ve klasör çeşitleri",
+  "Gizli evrak saklama dolabı/kasa",
+  "Evrak imha makinesi",
+  "Personel özlük dosyası formları ve klasörleri",
+  "Resmi yazışma kağıdı, antetli kağıt",
+  "Zımba, ataç, delgeç gibi kırtasiye malzemeleri",
+  "Ajanda ve takvim"
+ ],
+ "genel_ozellikler": [
+  "Düzenli ve dikkatli,",
+  "Gizliliğe önem veren, güvenilir,",
+  "Yazılı ve sözlü anlatım becerisine sahip,",
+  "Sorumluluk sahibi,",
+  "Planlı ve organize çalışabilen,",
+  "İnsan ilişkilerinde başarılı,",
+  "Bilgisayar ve ofis programlarını kullanmaya yatkın,",
+  "Sabırlı ve tahammüllü"
+ ],
+ "calisma_ortami": "Memur (Okul), okulun idare binasındaki büroda, kapalı ortamda ve genellikle masa başında, bilgisayar ve diğer büro ekipmanlarıyla çalışır. Çalışma saatleri okulun mesai düzenine bağlıdır; kayıt dönemleri, sınav dönemleri ve yıl sonu gibi bazı dönemlerde iş yoğunluğu artabilir.\n\nİş sırasında okul müdürü, müdür yardımcıları, öğretmenler, diğer idari personel, öğrenciler, veliler ve zaman zaman resmi kurum yetkilileriyle iletişim kurar. Görev, fiziksel olarak ağır olmamakla birlikte uzun süre oturarak ve ekran karşısında çalışmayı, dikkat ve düzenli evrak takibini gerektirir.",
+ "egitim": {
+  "verildigi_yerler": "Memur (Okul) mesleği için ayrı ve zorunlu bir mesleki ve teknik eğitim alanı/dalı tanımlanmamıştır; ortaöğretim (lise ve dengi) mezuniyeti temel koşuldur. Resmi okullarda bu görevi yürütecek kişiler, genellikle kamu personeli alım sınavları yoluyla devlet memuru kadrolarına atanır. Büro yönetimi, resmi yazışma kuralları, evrak-arşiv yönetimi ve temel bilgisayar kullanımı konularında Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kursları, ayrıca meslek liselerinin büro yönetimiyle ilgili alanlarındaki örgün eğitim, bu mesleğe hazırlık açısından faydalı olabilir.",
+  "giris_kosullari": [
+   "Ortaöğretim (lise ve dengi okul) mezunu olmak.",
+   "Resmi okullarda devlet memuru olarak görev almak için ilgili kamu personeli alım sınavlarına (merkezi sınavlar) girmek ve başarılı olmak.",
+   "Özel öğretim kurumlarında çalışmak için kurumun belirlediği koşulları taşımak."
+  ],
+  "sure_ve_icerik": "Bu meslek için belirli süreli, zorunlu bir resmi mesleki eğitim programı bulunmamaktadır. Lise ve dengi okul eğitimi sonrasında büro yönetimi, resmi yazışma kuralları, evrak ve arşiv yönetimi, temel bilgisayar ve ofis programları kullanımı gibi konularda kurslarla bilgi ve beceri geliştirilebilir. Devlet okullarında görev alacakların resmi yazışma kuralları, personel mevzuatı ve mali mevzuat konusundaki bilgileri genellikle işbaşında ve hizmet içi eğitimlerle gelişir.",
+  "belge": "Lise veya dengi okul diploması temel şarttır. Resmi okullarda çalışmak için kamu personeli alım sınavlarında başarılı olunduğunu gösteren belgeler ve atama sonrası düzenlenen göreve başlama belgesi gerekir. Bilgisayar kullanımı ve resmi yazışma gibi konularda alınan kurs sertifikaları istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Memur (Okul)ler, resmi ve özel ilköğretim, ortaöğretim okulları ile çeşitli eğitim kurumlarının idari/büro bölümlerinde istihdam edilir. Kamuya ait okullarda devlet memuru statüsünde, özel okullarda ise işçi statüsünde çalışabilirler. Eğitim kurumu sayısının fazlalığı nedeniyle çalışma alanı genel olarak geniştir; ancak kamu okullarındaki istihdam, memur kadrolarına atama koşuluna ve merkezi sınav sonuçlarına bağlıdır.",
+ "kazanc": {
+  "egitim_suresince": "Bu meslek için ayrı bir mesleki eğitim dönemi ve buna bağlı bir kazanç düzenlemesi bulunmamaktadır.",
+  "egitim_sonrasi": [
+   "Resmi okullarda devlet memuru olarak çalışanların maaş ve özlük hakları 657 sayılı Devlet Memurları Kanunu ve ilgili mevzuata göre belirlenir.",
+   "Özel okullarda işçi statüsünde çalışanların ücreti işyeriyle yapılan sözleşmeye, deneyime ve işletmenin büyüklüğüne göre değişiklik gösterir; işe yeni başlayanlarda genellikle asgari ücret düzeyinde olabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Bu meslekte belirli bir eğitim kademesinden bir üst kademeye geçişi tanımlayan resmi bir ilerleme sistemi bulunmamaktadır. Açık öğretim veya örgün eğitim yoluyla büro yönetimi, kamu yönetimi, işletme gibi alanlarda ön lisans veya lisans düzeyinde eğitim alınması mesleki bilgi ve ilerleme olanaklarını artırabilir.",
+  "is_hayatinda": "Deneyim kazandıkça ve gerekli sınav/atama süreçlerini tamamladıkça, kamuda kıdeme bağlı olarak veya sınavlarla daha üst düzey idari büro görevlerine (şef, idari işler yetkilisi gibi) yükselme imkânı bulunabilir."
+ },
+ "benzer_meslekler": [
+  "Büro Memuru (Genel)",
+  "Diğer Büro Memurları",
+  "Memur",
+  "İdari Büro Görevlisi",
+  "İdari Destek Görevlisi",
+  "Büro Yönetimi Elemanı"
+ ],
+ "ek_bilgiler": "Memur (Okul) unvanıyla resmi okullarda çalışabilmek için genellikle kamu personeli alım sınavları (merkezi sınavlar) sonucunda ilgili kadrolara atanmak gerekir; bu nedenle resmi kurumlarda istihdam büyük ölçüde sınav sonuçlarına ve mevcut kadro durumuna bağlıdır.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T15:30:24",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6472
+  }
+ }
+}

@@ -1,0 +1,93 @@
+{
+ "arac_gerec": [
+  "Yüksek gerilim (YG) test cihazları ve test setleri",
+  "Darbe gerilimi (impuls) jeneratörü",
+  "Kısmi boşalma (partial discharge) ölçüm cihazları",
+  "Güç katsayısı (tangent delta) test cihazı",
+  "Transformatör oran/açı ölçüm cihazı (TTR)",
+  "Kısa devre akım test düzenekleri ve kalibrasyon ekipmanları",
+  "Yalıtım direnci ölçüm cihazı (megger)",
+  "Topraklama direnci ölçüm cihazı",
+  "Ampermetre, voltmetre, ohmmetre, multimetre gibi ölçü aletleri",
+  "Bağlantı ve topraklama kabloları",
+  "Test raporu kayıt yazılımları ve bilgisayar",
+  "El aletleri (pense, tornavida, kargaburun vb.)",
+  "Yalıtkan eldiven, yalıtkan ayakkabı, kask, yüz koruyucu gibi kişisel koruyucu donanımlar"
+ ],
+ "genel_ozellikler": [
+  "Elektrik ve elektronik konularına ilgili ve bu alanda yetenekli,",
+  "Dikkatli, tedbirli ve sorumluluk duygusu gelişmiş,",
+  "Sayısal ve teknik verileri doğru okuyup yorumlayabilen,",
+  "El ve göz koordinasyonu iyi,",
+  "Yüksek gerilimle çalışırken soğukkanlı ve disiplinli davranabilen,",
+  "Takım halinde çalışmaya istekli,",
+  "Teknik doküman ve rapor okuyup yazabilen"
+ ],
+ "calisma_ortami": "\"Yüksek Gerilim Teçhizatı Test Sorumlusu, genellikle test laboratuvarlarında, yüksek gerilim ekipmanı üreten fabrikalarda, enerji iletim/dağıtım tesislerinde ve bazı durumlarda saha/şantiye ortamlarında çalışır. Çalışma ortamı kapalı mekânlar olabildiği gibi, saha testlerinde açık alanlarda da görev yapılabilir. Yüksek gerilimle doğrudan çalışıldığından iş kazası riski yüksektir; bu nedenle kişisel koruyucu donanım kullanımı ve iş güvenliği kurallarına uyum büyük önem taşır.\\n\\nÇalışma genellikle belirli mesai saatleri içinde yürütülür, ancak test taleplerine ve üretim programına göre zaman zaman fazla çalışma gerekebilir. Görev sırasında test teknisyenleri, mühendisler, kalite kontrol personeli ve müşteri temsilcileriyle yakın iletişim kurulur; iş birinci derecede cihaz, ölçü aletleri ve test ekipmanı ile ilgilidir.\"",
+ "gorevler": [
+  "İş sağlığı ve güvenliği, yangın ve acil durum kurallarını uygular",
+  "Kalite yönetim sistemi ile ilgili faaliyetleri yürütür",
+  "İş organizasyonu yapar",
+  "Müşteriden gelen test isteğini alır",
+  "Cihazı teslim alır",
+  "Test öncesi hazırlık yapar",
+  "Numune alır",
+  "Test için değerlendirme yapar",
+  "Test edilecek cihazın yapılmış bağlantılarını ve koruma önlemlerini kontrol eder",
+  "Test ortamını hazırlar",
+  "Ölçü aletlerinin kalibrasyon/anlık kalibrasyon kontrolünü yapar",
+  "YG yalıtım testini yapar",
+  "Cihaza gerilim verir ve doğrulama testini yapar",
+  "Cihaza darbe gerilimleri (DG) verir",
+  "Cihaza verilecek gerilimi belirler ve gerilim verir",
+  "Kısa devre akım testi yapar",
+  "Cihaza kısa devre kalibrasyon akımını uygular",
+  "Cihaza kısa devre akımını uygular ve doğrulama testi yapar",
+  "Güç katsayısı (tangent delta) testi yapar",
+  "Transformatörlerde oran ve açı hatalarını belirler",
+  "Gerilim transformatörlerinde oran ve açı hatalarını belirler",
+  "Dağıtım ve güç transformatörlerinde dönüştürme oran hatalarını belirler",
+  "Testi sonlandırır ve raporlar",
+  "Mesleki gelişim faaliyetlerini yürütür"
+ ],
+ "egitim": {
+  "verildigi_yerler": "Mesleğin temel eğitimi, mesleki ve teknik ortaöğretim kurumlarının Elektrik-Elektronik Teknolojisi alanında ve yükseköğretim düzeyinde meslek yüksekokullarının Elektrik, Elektrik Enerjisi Üretim, İletim ve Dağıtımı gibi ilgili ön lisans programlarında verilmektedir. Yüksek gerilim teçhizatının test edilmesine ilişkin ileri düzey bilgi ve beceriler ise genellikle işyerlerinde deneyimli mühendis ve teknik personel gözetiminde uygulamalı eğitim ve kurum içi sertifika programlarıyla kazandırılmaktadır.",
+  "giris_kosullari": [
+   "Mesleki ve teknik ortaöğretim için ortaokulu tamamlamış olmak ve Milli Eğitim Bakanlığınca belirlenen giriş koşullarını taşımak",
+   "Ön lisans programları için ortaöğretimi (lise ve dengi) tamamlamış ve YKS'de yeterli puanı almış olmak",
+   "Yüksek gerilimle çalışmaya elverişli sağlık durumuna sahip olmak"
+  ],
+  "sure_ve_icerik": "Ortaöğretim düzeyindeki eğitim 4 yıl sürer ve Elektrik-Elektronik Teknolojisi alanının temel elektrik, elektronik ve ölçme derslerini içerir. Ön lisans düzeyindeki eğitim 2 yıl sürer ve elektrik ölçme teknikleri, yüksek gerilim teknolojisi, transformatörler, elektrik tesisleri ve test-ölçüm uygulamaları gibi dersleri kapsar. Bu mesleğe özgü ileri test teknikleri (YG yalıtım testi, darbe gerilimi testi, kısmi boşalma testi, tangent delta testi, transformatör oran-açı testleri vb.) okul eğitiminin ötesinde, işyerinde uygulamalı olarak ve deneyim kazanılarak öğrenilir.",
+  "belge": "Mesleki ve teknik ortaöğretim kurumlarından diploma, ön lisans programlarından ön lisans diploması alınır. Ayrıca işyerlerinde verilen kurum içi eğitimler sonunda sertifika düzenlenebilir; Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "\"Yüksek Gerilim Teçhizatı Test Sorumlusu; transformatör, kesici, ayırıcı, izolatör gibi yüksek gerilim ekipmanı üreten fabrikalarda, elektrik iletim ve dağıtım şirketlerinin test ve bakım birimlerinde, bağımsız test ve kalibrasyon laboratuvarlarında, enerji santrallerinde ve elektrik mühendisliği/danışmanlık firmalarının saha ekiplerinde çalışma olanağı bulur. Sektörde yüksek gerilim ekipmanlarına olan talebin sürekliliği nedeniyle nitelikli test personeline ihtiyaç duyulmaktadır.\"",
+ "kazanc": {
+  "egitim_suresince": "Mesleki ve teknik ortaöğretim kapsamında işletmelerde mesleki eğitim gören öğrencilere, 3308 sayılı Mesleki Eğitim Kanunu gereğince asgari ücretin belirli bir oranından az olmamak üzere ücret ödenir ve iş kazası ile meslek hastalıkları sigortası devletçe karşılanır.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında istihdam edilenler 657 sayılı Devlet Memurları Kanunu veya ilgili mevzuata, işçi statüsünde çalışanlar ise toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar; ücret, işyerinin büyüklüğü, çalışanın deneyimi, bilgi ve becerisi ile sektörün ücret düzeyine göre değişebilir.",
+   "Test sorumluluğu gibi deneyim ve uzmanlık gerektiren görevlerde, kıdem ve sorumluluk arttıkça kazanç da artabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleki ve teknik ortaöğretim kurumlarının Elektrik-Elektronik Teknolojisi alanından mezun olanlar, YKS Kılavuzunda belirtilen Elektrik, Elektrik Enerjisi Üretim İletim ve Dağıtımı gibi ön lisans programlarını tercih ettiklerinde ek puan avantajından yararlanabilir. Ön lisans mezunları ise Dikey Geçiş Sınavı (DGS) ile Elektrik-Elektronik Mühendisliği gibi ilgili lisans programlarına geçiş yapabilir.",
+  "is_hayatinda": "Deneyim kazanan meslek elemanları kıdemli test sorumlusu, test laboratuvarı şefi/sorumlusu, kalite kontrol sorumlusu veya teknik servis şefi gibi pozisyonlara yükselebilir. Mühendislerle birlikte çalışarak belirli ekipman türlerinde (transformatör, kesici, kablo aksesuarları vb.) uzmanlaşabilir ve kurumlarında eğitim verme sorumluluğu üstlenebilirler."
+ },
+ "benzer_meslekler": [
+  "Yüksek Gerilim Teçhizatı Test Elemanı",
+  "Yüksek Gerilim Sistemleri Teknisyeni",
+  "Yüksek Gerilim Sistemcisi",
+  "Röle Ölçü Aletleri Teknisyeni / Röle Görevlisi",
+  "Elektrik Dağıtım Şebekesi Test Görevlisi",
+  "Elektrik Teknisyeni-Yüksek Voltaj"
+ ],
+ "ek_bilgiler": "\"Yüksek gerilimle doğrudan çalışma içerdiğinden, bu meslek genellikle iş sağlığı ve güvenliği mevzuatı kapsamında tehlikeli veya çok tehlikeli işler sınıfında değerlendirilmekte olup, periyodik sağlık muayenesi, özel iş güvenliği eğitimi ve kişisel koruyucu donanım kullanımı önem taşımaktadır.\"",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T09:11:27",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 8312
+  }
+ }
+}

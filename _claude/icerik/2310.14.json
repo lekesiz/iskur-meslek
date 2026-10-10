@@ -1,0 +1,82 @@
+{
+ "arac_gerec": [
+  "Bilgisayar ve internet erişimi",
+  "Programlama dilleri, derleyici ve geliştirme ortamları (IDE)",
+  "Sunucu, bulut bilişim ve sanallaştırma sistemleri",
+  "Veri analizi, istatistik ve simülasyon yazılımları",
+  "Akademik veritabanları ve bilimsel literatür tarama sistemleri",
+  "Projeksiyon, sunum ve görsel sunu cihazları",
+  "Bilimsel yazım ve belge hazırlama yazılımları (LaTeX vb.)",
+  "Laboratuvar bilgisayarları ve ağ ekipmanları",
+  "Ders notları, sınav kâğıtları ve değerlendirme materyalleri",
+  "Proje yönetimi ve ofis yazılımları",
+  "Bilimsel kitap, makale ve diğer yayınlar"
+ ],
+ "genel_ozellikler": [
+  "Üst düzey analitik düşünme ve problem çözme yeteneğine sahip,",
+  "Matematiksel ve mantıksal akıl yürütmeye ilgili,",
+  "Araştırmaya, bilimsel çalışmaya ve sürekli öğrenmeye istekli,",
+  "Yazılı ve sözlü anlatımı güçlü, bilgisini başkalarına aktarabilen,",
+  "Sabırlı, öğrenciye rehberlik etmeye istekli,",
+  "Yeniliklere açık, kendini sürekli güncelleyen,",
+  "Ekip çalışmasına ve disiplinler arası işbirliğine uygun,",
+  "En az bir yabancı dili, tercihen İngilizceyi iyi derecede kullanabilen."
+ ],
+ "calisma_ortami": "Bilgisayar bilimleri öğretim üyesi, çalışmalarını genellikle devlet veya vakıf üniversitelerinde; derslik ve amfilerde, araştırma laboratuvarlarında ve kendi çalışma odasında kapalı ortamda yürütür. Çalışma büyük ölçüde bilgisayar başında masa başı niteliktedir; uzun süreli ekran kullanımı nedeniyle göz ve bel sağlığı açısından ergonomik önlemler almak önemlidir. Fiziksel risk düzeyi düşüktür.\n\nÇalışma saatleri ders programına, sınav dönemlerine ve araştırma/proje yüküne göre değişkenlik gösterir; mesai saatleri dışında yayın hazırlama, proje başvurusu ve tez danışmanlığı için ek çalışma gerekebilir. Öğrenciler, akademik ve idari personel, diğer üniversite ve kurum temsilcileriyle sürekli iletişim kurar; bilimsel toplantı, kongre ve konferanslara katılmak için şehir içi ve şehir dışı, bazen yurt dışı seyahat gerekebilir.",
+ "egitim": {
+  "verildigi_yerler": "Bu mesleğe ulaşmak için öncelikle üniversitelerin Bilgisayar Mühendisliği, Bilgisayar Bilimleri, Yazılım Mühendisliği veya yakın bir mühendislik/fen bölümünde lisans eğitimi tamamlanır. Ardından ilgili alanda yüksek lisans ve doktora eğitimi, üniversitelerin Fen Bilimleri Enstitüsü bünyesindeki Bilgisayar Mühendisliği/Bilgisayar Bilimleri ana bilim dallarında alınır.",
+  "giris_kosullari": [
+   "Lise veya dengi okul mezunu olmak,",
+   "YKS (Yükseköğretim Kurumları Sınavı) sonucuna göre ilgili lisans programına yerleşmek,",
+   "Lisans eğitimini tamamladıktan sonra ALES (Akademik Personel ve Lisansüstü Eğitimi Giriş Sınavı) ve ilgili yabancı dil yeterliliği (YÖKDİL, YDS vb.) şartlarını karşılayarak yüksek lisans ve doktora programlarına kabul edilmek,",
+   "Doktora sonrasında öğretim üyeliği kadrolarına başvuru için ilgili üniversitenin ve Yükseköğretim Kurulunun (YÖK) belirlediği akademik koşulları (bilimsel yayın, dil yeterliliği vb.) sağlamak."
+  ],
+  "sure_ve_icerik": "Lisans eğitimi 4 yıl sürer; bu süreçte matematik, algoritma ve programlama, veri yapıları, bilgisayar ağları, veri tabanı sistemleri, yapay zekâ gibi temel ve mesleki dersler okutulur. Yüksek lisans eğitimi genellikle 2 yıl, doktora eğitimi ise genellikle 4 yıl veya daha uzun sürer; bu dönemde ileri düzey ders çalışmalarının yanı sıra bilimsel araştırma ve tez çalışması yürütülür. Doktora sonrasında araştırma görevliliği, doktor öğretim üyeliği, doçentlik ve profesörlük unvanlarıyla ilerleyen uzun bir akademik kariyer süreci izlenir.",
+  "belge": "Eğitim sürecini başarıyla tamamlayanlar sırasıyla lisans, yüksek lisans ve doktora diploması alır. Doktora sonrasında ilgili üniversitenin ve YÖK'ün akademik kriterlerini karşılayanlar \"Doktor Öğretim Üyesi\" unvanıyla atanır; akademik kariyerde ilerleyenler ilgili sınav ve kriterler çerçevesinde doçentlik ve profesörlük unvanlarını kazanır."
+ },
+ "calisma_alanlari": "Bilgisayar bilimleri öğretim üyesi, başta devlet ve vakıf üniversitelerinin bilgisayar mühendisliği, bilgisayar bilimleri, yazılım mühendisliği veya yakın bölümleri olmak üzere yükseköğretim kurumlarında görev alır. Ayrıca kamu ve özel sektörün Ar-Ge merkezlerinde, araştırma kuruluşlarında bilimsel danışman, bilirkişi veya proje araştırmacısı olarak çalışabilir.\n\nAkademik kadro sayısının sınırlı olması nedeniyle istihdam olanağı büyük ölçüde üniversitelerin açtığı doktor öğretim üyesi, doçent ve profesör kadrolarına bağlıdır; bu nedenle akademik kariyere giriş ve ilerleme süreci rekabetçi bir niteliktedir.",
+ "kazanc": {
+  "egitim_suresince": "Lisans öğrencileri Yükseköğrenim Kredi ve Yurtlar Kurumunun kredi ve yurt imkânlarından yararlanabilir. Yüksek lisans ve doktora öğrencileri çoğunlukla üniversitelerde araştırma görevlisi kadrosunda istihdam edilerek 657 sayılı Devlet Memurları Kanununa göre maaş alır; ayrıca TÜBİTAK ve benzeri kurumların burs ve destek programlarından yararlanabilirler.",
+  "egitim_sonrasi": [
+   "Kamu üniversitelerinde görev alanlar, 657 sayılı Devlet Memurları Kanununa göre akademik unvan ve kadro derecesine uygun maaş ile ek ders ücreti alır.",
+   "Vakıf üniversitelerinde çalışanların kazancı, üniversite ile yapılan sözleşmeye, akademik unvana (Dr. Öğretim Üyesi, Doçent, Profesör) ve deneyime göre değişir.",
+   "Akademik unvan yükseldikçe (doçentlik, profesörlük) ve bilimsel proje, danışmanlık gelirleriyle kazanç genellikle artış gösterir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Lisans eğitimi sonrasında yüksek lisans ve doktora yapılarak akademik kariyere devam edilir. Doktora sonrasında alanda bilimsel yayın, proje ve araştırma çalışmaları sürdürülerek doçentlik ve ardından profesörlük unvanları kazanılabilir.",
+  "is_hayatinda": "Akademik kariyerine doktor öğretim üyesi olarak başlayan kişi, bilimsel yayın, proje ve ders yükümlülüklerini karşılayarak doçent, ardından profesör unvanına yükselebilir. Ayrıca bölüm başkanlığı, dekan yardımcılığı, dekanlık veya enstitü/fakülte yöneticiliği gibi idari görevlere getirilebilir."
+ },
+ "benzer_meslekler": [
+  "Bilgisayar Mühendisliği Öğretim Üyesi",
+  "Bilgisayar Yazılımı Öğretim Üyesi",
+  "Bilgisayar Donanımı Öğretim Üyesi",
+  "Bilgisayar Destekli Tasarım Öğretim Üyesi",
+  "Bilgisayarlı Eğitim Teknolojisi Öğretim Üyesi"
+ ],
+ "ek_bilgiler": "Akademik kadroya atanma ve unvan ilerlemesinde Yükseköğretim Kurulunun (YÖK) belirlediği bilimsel yayın, atıf ve yabancı dil yeterliliği kriterleri belirleyicidir. Akademik kadro ilanlarının sınırlı sayıda olması nedeniyle, doktora sonrası yurt dışında araştırma deneyimi (post-doktora) ve güçlü bir yayın geçmişi istihdamda önemli bir avantaj sağlayabilir.",
+ "gorevler": [
+  "Bilgisayar bilimleri konularında çalışmalar yürütür.",
+  "Bilimsel yöntem oluşturur, geliştirir ve uygular.",
+  "Yükseköğretim kurumlarında alanıyla ilgili bilimsel araştırma ve projeler üretir ve yapar.",
+  "Araştırma sonuçlarını ilgili ulusal ve uluslararası bilimsel toplantı ve kongrelerde sunar ya da bilimsel dergilerde veya elektronik formatlarda yayınlar.",
+  "Araştırma ya da projelerin uygulamaya dönük sonuçlarını ilgili kurum ve kuruluşlarla paylaşır.",
+  "Yükseköğretim kurumlarında eğitim, öğretim ve uygulama çalışmaları yapar ve yaptırır; müfredat programlarını geliştirir, yeniler ve uygular.",
+  "Ders yılı içinde ve sonunda öğrencilerin bilgi düzeyini ölçmek için ödevler hazırlatır, sınavlar yapar, sınav kâğıtlarını okuyup değerlendirir, sonuçlarını idareye bildirir.",
+  "Lisansüstü öğrencilerine tez konularını verir ya da tez konusu seçiminde öğrencilere yardımcı olur ve çalışmalarını izler.",
+  "İlgili birim başkanlığınca düzenlenen programa göre belirli günlerde öğrencileri kabul ederek gerekli konularda yardımcı olur, ilgili kanundaki amaç ve ana ilkeler doğrultusunda yol gösterir ve rehberlik eder.",
+  "Kamu ve özel sektörde bilimsel danışmanlık yapar, alanıyla ilgili konularda bilirkişilik yapar.",
+  "Çeşitli bilimsel yayınlarda hakemlik yapar, yurt içinde ve yurt dışında konferanslar verir.",
+  "Gerektiğinde idari sorumluluk yüklenir.",
+  "Konusundaki gelişme ve yenilikleri izleyip araştırmalar yapar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T00:06:52",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 8644
+  }
+ }
+}

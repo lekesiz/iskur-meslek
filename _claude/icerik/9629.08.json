@@ -1,0 +1,81 @@
+{
+ "arac_gerec": [
+  "Bilgisayar, klavye ve fare",
+  "Kulaklık ve mikrofon",
+  "Yazıcı ve tarayıcı",
+  "Modem/router ve ağ kabloları",
+  "İnternet salonu zaman/ücretlendirme takip yazılımı",
+  "Yazar kasa veya basit ödeme-tahsilat cihazı",
+  "Temizlik malzemeleri (süpürge, paspas, deterjan, bez)",
+  "Çay-kahve makinesi ve basit mutfak gereçleri",
+  "Temel bilgisayar bakım-onarım el aletleri (tornavida seti vb.)",
+  "Yangın söndürme cihazı"
+ ],
+ "benzer_meslekler": [
+  "Vestiyer elemanı",
+  "Otopark Görevlisi",
+  "Garaj Görevlisi (Otel)",
+  "Spor Tesisi Konuk Karşılama Elemanı",
+  "Kapı Görevlisi (Doorman)"
+ ],
+ "calisma_alanlari": "İnternet Salon Görevlisi, genellikle küçük ve orta ölçekli özel işletmeler olan internet salonlarında (internet kafelerde) çalışır. Bazı durumlarda bu hizmet, oyun salonu, kırtasiye veya büfe gibi birden fazla hizmetin bir arada sunulduğu işletmelerde de yürütülebilir. İş bulma olanağı, bu tür işletmelerin yoğun olduğu şehir merkezleri, üniversite ve okul çevreleri ile öğrenci yoğunluğu bulunan semtlerde daha fazladır.",
+ "calisma_ortami": "İnternet Salon Görevlisi, genellikle kapalı mekânda, bilgisayarların bulunduğu salon içinde çalışır. Çalışma ortamı sürekli ekran ışığına ve zaman zaman gürültüye (müşteri sesleri, oyun sesleri) açık olabilir; uzun süre ayakta durmayı veya masa başında oturmayı gerektirebilir. İşletmenin açılış-kapanış temizliği nedeniyle temizlik malzemelerine ve bazı kimyasallara maruz kalınabilir. Çalışma saatleri işletmenin açık olduğu süreye göre değişir; akşam ve gece saatlerini kapsayan vardiyalı çalışma sık görülür.\n\nBu meslekte çalışanlar; işletme sahibi/amiri, müşteriler ve zaman zaman teknik destek alınan kişilerle (internet servis sağlayıcısı, bilgisayar tamircisi gibi) iletişim halindedir. İşin niteliği gereği farklı yaş ve profilden çok sayıda müşteriyle doğrudan ve sık etkileşim kurulur.",
+ "egitim": {
+  "verildigi_yerler": "Bu meslek için örgün mesleki ve teknik eğitim veren resmi bir okul programı veya diploma düzeyinde bir eğitim bulunmamaktadır. Meslek, genellikle işbaşında, işletme sahibi veya deneyimli bir çalışanın yanında kısa süreli uygulamalı öğrenme yoluyla edinilir. Temel bilgisayar kullanımı, ofis programları ve internet uygulamaları konusunda Halk Eğitim Merkezleri ile İŞKUR tarafından açılan mesleki eğitim kurslarından yararlanılabilir.",
+  "giris_kosullari": [
+   "Okuryazar olmak",
+   "Temel düzeyde bilgisayar ve internet kullanabilmek",
+   "İlgili işin gerektirdiği yaş ve sağlık şartlarını taşımak (işletmeler genellikle reşit olmayı tercih eder)"
+  ],
+  "sure_ve_icerik": "Mesleğe yönelik belirli bir sürede ve standart bir müfredatla yürütülen resmi bir eğitim programı yoktur. Kişi işe başladığında kısa bir süre içinde bilgisayarların açılış-kapanış işlemleri, ağ (server-client) bağlantılarının kontrolü, basit arıza tespiti, yazıcı-tarayıcı kullanımı, müşteri karşılama, hesap/kasa işlemleri ve temizlik konularında işbaşında eğitim alır. İsteyen kişiler, Halk Eğitim Merkezleri veya İŞKUR kurslarında temel bilgisayar işletmenliği ve bilgi teknolojileri konularında kısa süreli kurslara katılarak bilgisini destekleyebilir.",
+  "belge": "Örgün eğitim sonunda verilen bir diploma bulunmamaktadır. Katılım sağlanması durumunda Halk Eğitim Merkezleri veya İŞKUR kurslarından kurs bitirme/katılım belgesi alınabilir."
+ },
+ "ek_bilgiler": "İnternet salonlarının (internet kafe) işletilmesi, toplu kullanım sağlayıcılarına ilişkin mevzuat kapsamında bazı düzenlemelere tabi olabilmektedir; bu nedenle görevlilerin işletme tarafından bildirilen kurallara (örneğin öğrencilerin ders saatlerinde salona alınmaması gibi uygulamalara) uygun davranması gerekebilir. Bu meslekte istihdam, genellikle küçük işletme bünyesinde ve işveren ile doğrudan anlaşma yoluyla gerçekleşmektedir.",
+ "genel_ozellikler": [
+  "İnsan ilişkilerinde başarılı ve güler yüzlü,",
+  "Sabırlı ve hoşgörülü,",
+  "Temel bilgisayar ve internet kullanımına hâkim,",
+  "Dikkatli ve sorumluluk sahibi,",
+  "Temizlik ve düzene özen gösteren,",
+  "Dürüst ve güvenilir,",
+  "Fiziksel olarak uzun süre ayakta kalabilecek sağlığa sahip,",
+  "Zamanını iyi planlayabilen"
+ ],
+ "gorevler": [
+  "İşletmenin genel sabah temizliğini yapar",
+  "Bilgisayarları kullanıma hazırlar",
+  "Server-client bağlantısını kontrol eder",
+  "Sorunlu bağlantılar varsa bunları tespit eder",
+  "Tamir edilebilir olan sorunları halleder",
+  "Müşterileri güler yüzle karşılar",
+  "Müşteriyi kullanacağı bilgisayara yönlendirir",
+  "Müşterinin isteği doğrultusunda yazıcı ve tarayıcı hizmeti verir",
+  "Müşterinin internette yaşadığı sorunlara çözüm bulur",
+  "Yiyecek-içecek servisi yapar",
+  "Gerektiğinde hesap çıkartır, tahsil eder",
+  "Amirine gün içindeki gelişmeler hakkında bilgi verir",
+  "Gün sonunda bilgisayarları kapatır",
+  "İnternet salonunun temizliğini yapar",
+  "Mesleki gelişim faaliyetlerinde bulunur"
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Bu meslekte örgün bir eğitim kademesi ve buna bağlı bir ilerleme basamağı bulunmamaktadır. İsteyen kişiler bilgi teknolojileri, bilgisayar programcılığı veya işletmecilik gibi alanlarda açık öğretim ya da örgün eğitim yoluyla kendilerini geliştirerek farklı mesleklere geçiş yapabilir.",
+  "is_hayatinda": "Deneyim kazanan İnternet Salon Görevlileri, işletmede daha fazla sorumluluk üstlenerek sorumlu personel veya işletme müdürü konumuna yükselebilir. Yeterli birikim ve sermayeye sahip olanlar zaman içinde kendi internet salonu veya benzeri bir işletmeyi açarak işveren konumuna geçebilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Bu meslek için örgün bir mesleki eğitim süreci bulunmadığından eğitim süresince ayrıca bir kazançtan söz edilmemektedir; kişi genellikle doğrudan çalışmaya başlar ve ücretini bu süreçten elde eder.",
+  "egitim_sonrasi": [
+   "Kazanç, işyerinin büyüklüğüne, çalışma saatlerine ve kişinin tecrübesine göre işveren ile karşılıklı anlaşma yoluyla belirlenir.",
+   "Mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç elde eder.",
+   "Kendi işyerini açanların kazancı işletmenin cirosuna ve işletme giderlerine bağlı olarak değişkenlik gösterir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T21:12:54",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6071
+  }
+ }
+}

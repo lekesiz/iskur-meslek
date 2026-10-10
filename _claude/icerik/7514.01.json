@@ -1,0 +1,83 @@
+{
+ "arac_gerec": [
+  "Yıkama ve ayıklama tankları/makineleri",
+  "Soyma, doğrama ve dilimleme makineleri",
+  "Haşlama (blanching) kazanları",
+  "Dolum makineleri",
+  "Dolgu sıvısı (salamura, şurup, sos) hazırlama kazanları",
+  "Kutu ve kavanoz kapama makineleri",
+  "Otoklav (sterilizasyon) ve pastörizasyon üniteleri",
+  "Konserve kutuları ve kavanozları",
+  "Etiketleme ve kodlama makineleri",
+  "Tartılar",
+  "Sıcaklık, süre ve basınç ölçüm cihazları",
+  "Taşıma bantları (konveyörler)",
+  "Depolama ve soğutma üniteleri",
+  "Kişisel koruyucu donanım (eldiven, önlük, bone, bot)"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve titiz,",
+  "Hijyen ve temizlik kurallarına özen gösteren,",
+  "Herhangi bir bulaşıcı hastalığı olmayan,",
+  "El ve göz koordinasyonu iyi,",
+  "Fiziksel olarak dayanıklı ve ayakta uzun süre çalışabilen,",
+  "Sorumluluk sahibi ve kurallara uyan,",
+  "Takım çalışmasına uyumlu,",
+  "Talimatları doğru uygulayabilen"
+ ],
+ "calisma_ortami": "Konserve üretim elemanı, meyve-sebze işleme ve konserve fabrikalarında kapalı ortamda çalışır. Çalışma alanı bölümlere göre değişen koşullara sahiptir; hammadde kabul ve yıkama bölümleri nemli, ısıl işlem (pastörizasyon/sterilizasyon) bölümleri sıcak ve buharlıdır, depolama alanları ise serin olabilir. Çalışma sırasında ayakta durma, su ve buharla temas, bazı makinelerin yakınında çalışma ve kayganlık gibi durumlar söz konusu olabileceğinden iş sağlığı ve güvenliği kurallarına, hijyen ve sanitasyon uygulamalarına dikkat edilmesi gerekir.\n\nİşletmenin üretim hacmine ve hasat dönemlerine bağlı olarak çalışma, vardiyalı ve mevsimsel yoğunluk gösterebilir. Üretim bandında diğer üretim elemanları, usta, kalite kontrol ve işletme sorumlularıyla sürekli iş birliği içinde çalışılır.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğe yönelik, standart süreli ve yaygın biçimde yapılandırılmış ayrı bir çıraklık/mesleki eğitim merkezi dalı bulunmamaktadır. Gıda teknolojisi alanındaki mesleki ve teknik eğitim programları ile Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kursları, bu meslekte gereken temel bilgi ve becerilerin kazandırılmasında önemli rol oynamaktadır. Meslek, büyük ölçüde işe girilen işletmede usta işçi veya ustabaşı gözetiminde işbaşında öğrenilmektedir.",
+  "giris_kosullari": [
+   "İlköğretim mezunu olmak",
+   "Sağlık durumunun gıda üretiminde çalışmaya uygun olması (gerektiğinde sağlık raporuyla belgelendirilir)",
+   "Katılınacak kursun düzenleyici kurumunun (Halk Eğitim Merkezi, İŞKUR vb.) belirlediği kayıt ve yaş şartlarını taşımak"
+  ],
+  "sure_ve_icerik": "Mesleğe özgü resmî ve standart süreli bir örgün eğitim programı bulunmamaktadır. Halk Eğitim Merkezleri ve İŞKUR tarafından açılan mesleki eğitim kursları genellikle kısa süreli olup (birkaç haftadan birkaç aya kadar); hammadde kabulü ve üretime hazırlama, yıkama-ayıklama-doğrama, ısıl işlem öncesi uygulamalar (dolum, dolgu sıvısı hazırlama, hava çıkarma, kapama), pastörizasyon ve sterilizasyon, hijyen-sanitasyon kuralları, ambalajlama ve depolama konularında teorik ve uygulamalı eğitim verilmektedir. Mesleğin önemli bir kısmı işletmede fiilen çalışılarak, usta işçilerin gözetiminde uygulamalı olarak öğrenilmektedir.",
+  "belge": "Katılınan kurs veya programın türüne göre katılım/başarı belgesi verilir. Mesleki Yeterlilik Kurumu (MYK) tarafından yetkilendirilmiş kuruluşlardan alınacak ilgili alandaki mesleki yeterlilik belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "gorevler": [
+  "Sebze ve meyveyi işletmeye alır,",
+  "Sebze ve meyveleri üretime hazırlar,",
+  "Konserve kutu ve kavanozlarını hazırlar,",
+  "Sebze ve meyve konserveleri için ısıl işlem öncesi işlemleri (dolum, dolgu sıvısı hazırlama ve oldurma, hava çıkarma ve kapama) yapar,",
+  "Konserveleri ürüne uygun sıcaklık ve sürede pastörize ve sterilize eder,",
+  "Sebze konserveleri üretir,",
+  "Meyve konserveleri üretir,",
+  "Hazır yemek konserveleri üretir,",
+  "Bombaj yapmış ürünlere dikkat eder,",
+  "Bombaj yapmış ürünleri bozuk ürünler olarak ayırır,",
+  "İnkübasyon testi başarılı olan ürünleri etiketleme ünitesine sevk eder,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "calisma_alanlari": "Konserve üretim elemanı, başta meyve-sebze konserve fabrikaları olmak üzere, hazır yemek konservesi üreten işletmeler, gıda sanayi tesisleri ve bu alanlarda faaliyet gösteren üretim tesislerinde istihdam edilebilir. İş bulma olanakları, konserve ve gıda işleme sektörünün yoğun olduğu bölgelerde ve hasat/üretim sezonlarında daha fazladır. Bazı işletmelerde üretim mevsimsel özellik taşıdığından, sezonluk istihdam da söz konusu olabilir.",
+ "kazanc": {
+  "egitim_suresince": "Halk Eğitim Merkezleri ve İŞKUR kurslarına katılanlar genellikle bir ücret almaz; İŞKUR'un işbaşı eğitim programı kapsamında katılım sağlanması durumunda katılımcılara günlük cep harçlığı ödenebilir. İşletmede usta yanında çalışarak öğrenenler ise, çalıştıkları süre için işveren ile yapılan anlaşmaya göre ücretlendirilir.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarına bağlı üretim tesislerinde istihdam edilenler, 657 sayılı Devlet Memurları Kanunu veya ilgili toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde çalışanların kazancı, genellikle asgari ücret düzeyinde başlar; işletmenin büyüklüğü, kişinin tecrübesi, bilgi ve becerisi ile sektördeki ücret düzeyine göre değişebilir.",
+   "Toplu iş sözleşmesi uygulanan işyerlerinde ücret, toplu iş sözleşmesi hükümlerine göre belirlenir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "İlgili mesleki ve teknik eğitim programlarını (örneğin gıda teknolojisi alanı) tamamlayanlar, sınavla girilen yükseköğretim programlarına yönelerek bilgi ve becerilerini ileri düzeye taşıyabilir. Ayrıca çeşitli kurum ve kuruluşlarca düzenlenen mesleki eğitim ve gelişim kurslarına katılarak bilgi ve beceriler güncellenip artırılabilir.",
+  "is_hayatinda": "Tecrübe ve bilgi birikimini artıran konserve üretim elemanları; usta, ekip/vardiya sorumlusu, üretim şefi gibi daha üst sorumluluk gerektiren görevlere yükselebilir. Yeterli birikim ve sermayeye sahip olanlar, kendi küçük ölçekli üretim işletmesini kurabilir."
+ },
+ "benzer_meslekler": [
+  "Pişirici-Konserveci (Meyve ve Sebze)",
+  "Pişirici-Konserveci (Hazır Çorba)",
+  "Reçel ve Marmelat İmal İşçisi",
+  "Meyve Sebze Ayıklama İşçisi",
+  "Yıkama ve Ayıklama İşçisi (Meyve Sebze) (Elle)",
+  "Meyve Sebze Doğrama İşçisi"
+ ],
+ "ek_bilgiler": "Üretimin bir bölümü hasat dönemlerine bağlı olarak mevsimsel yoğunluk gösterebileceğinden, bu dönemlerde çalışma temposu ve istihdam talebi artabilir. Gıda üretimi yapıldığından hijyen, sanitasyon ve gıda güvenliği kurallarına uyum mesleğin her aşamasında büyük önem taşır.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T07:24:42",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6690
+  }
+ }
+}

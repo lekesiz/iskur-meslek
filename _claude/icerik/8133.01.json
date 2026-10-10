@@ -1,0 +1,77 @@
+{
+ "arac_gerec": [
+  "Granülatör (granül oluşturma ünitesi)",
+  "Kurutma fırını/kurutucu",
+  "Karıştırma ünitesi (mikser)",
+  "Eleme/elek sistemi",
+  "Torbalama ve paketleme makinesi",
+  "Tartım terazisi/baskül",
+  "Hammadde depolama siloları",
+  "Taşıma bantları (konveyör sistemleri)",
+  "Nem ölçüm cihazı",
+  "Sıcaklık kontrol panelleri",
+  "Toz maskesi/solunum koruyucu",
+  "Koruyucu gözlük ve eldiven",
+  "İş elbisesi/tulum",
+  "Kişisel koruyucu donanım (KKD)"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve tedbirli,",
+  "Sorumluluk duygusu gelişmiş,",
+  "Fiziksel olarak dayanıklı,",
+  "Talimatlara uyan,",
+  "Makine ve ekipman kullanımına yatkın,",
+  "Ekip çalışmasına uyumlu,",
+  "Toz, koku ve değişen sıcaklık koşullarına dayanıklı,",
+  "Vardiyalı çalışma düzenine uyum sağlayabilen,"
+ ],
+ "gorevler": [
+  "İş organizasyonu yapar,",
+  "Reçeteye göre azot, fosfor ve potas gibi hammaddeleri sisteme besler,",
+  "Karıştırma ve granül oluşturma ünitelerinin ayarlarını izler,",
+  "Kurutma fırınlarının sıcaklığını ve ürünün nem oranını kontrol eder,",
+  "Eleme sisteminde standart dışı parçaları ayıklayarak geri dönüşüme yollar,",
+  "Bitmiş gübreyi torbalama ünitesine sevk eder ve paketler,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "calisma_ortami": "Gübre üretim işçisi, tarımsal gübre üreten fabrika ve tesislerde, genellikle kapalı üretim alanlarında (üretim hattı, granülasyon ve kurutma üniteleri, torbalama bölümü) çalışır. Çalışma ortamında toz, kimyasal koku, orta-yüksek düzeyde gürültü ve kurutma fırınları nedeniyle yüksek sıcaklık görülebilir; bazı hammaddeler yanıcı veya tahriş edici özellik taşıyabildiğinden iş sağlığı ve güvenliği kurallarına, kişisel koruyucu donanım kullanımına dikkat edilmesi gerekir.\n\nİş genellikle ayakta ve hareketli biçimde, zaman zaman fiziksel güç gerektiren yükleme-boşaltma işlemleriyle birlikte yürütülür. Üretim tesislerinde çoğunlukla vardiyalı çalışma düzeni uygulanır. Meslek mensupları; vardiya arkadaşları, ustabaşı, üretim şefi ve kalite kontrol personeli ile sürekli iletişim halinde çalışır.",
+ "egitim": {
+  "verildigi_yerler": "Gübre üretim işçiliği için standart, ulusal düzeyde tanımlanmış bir örgün meslek eğitimi programı bulunmamaktadır. Meslek genellikle işyerlerinde işbaşında, deneyimli usta ve ustabaşı gözetiminde uygulamalı olarak öğrenilir. Ayrıca Halk Eğitim Merkezleri ve İŞKUR'un açtığı kimya/üretim teknolojileri alanındaki mesleki eğitim kursları da temel bilgi ve beceri kazandırabilir.",
+  "giris_kosullari": [
+   "Mesleğin gerektirdiği minimum eğitim düzeyi okuryazar olmaktır.",
+   "18 yaşını doldurmuş olmak genellikle aranan bir koşuldur (işin fiziksel yapısı ve olası tehlikeli iş kapsamı nedeniyle).",
+   "Kurs veya işbaşı eğitim programına katılabilecek fiziksel ve psikomotor yeterliğe sahip olmak gerekir."
+  ],
+  "sure_ve_icerik": "Resmî bir eğitim programı söz konusu olduğunda süre ve içerik kursu açan kuruma göre değişebilir; genel olarak iş sağlığı ve güvenliği, hammadde tanıma, karıştırma/granülasyon, kurutma ve paketleme süreçlerine ilişkin temel bilgiler verilir. İşbaşında yetişme durumunda süre işyerinin uygulamasına ve kişinin öğrenme hızına bağlı olarak değişir.",
+  "belge": "Kurs yoluyla eğitim alanlara, eğitimi tamamladıklarında kurumun uygun gördüğü bir kurs bitirme belgesi verilebilir. İşbaşında yetişenler için resmî bir diploma/sertifika söz konusu değildir; ancak Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Gübre üretim işçileri; tarımsal gübre üreten fabrika ve üretim tesislerinde, kimyasal hammaddelerin karıştırılıp granül haline getirilmesi, kurutulması, elenmesi ve paketlenmesi işlemlerinin yürütüldüğü işletmelerde istihdam edilir. Bu tesisler genellikle gübre imalatçısı özel sektör işletmeleridir; tarım girdileri sektöründeki üretim hacmine bağlı olarak istihdam olanağı değişkenlik gösterebilir.",
+ "kazanc": {
+  "egitim_suresince": "Eğitim bir kurs yoluyla alınıyorsa genellikle herhangi bir kazanç söz konusu değildir. İşbaşında usta yanında yetişme sürecinde ise işyerinin uygulamasına göre değişen düzeyde bir ücret ödenebilir.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanların kazancı genellikle asgari ücret düzeyindedir.",
+   "Özel sektörde çalışan meslek elemanlarının ücreti; işletmenin büyüklüğüne, deneyime ve çalışma koşullarına göre değişebilir.",
+   "Kamu kuruluşlarına bağlı üretim tesislerinde çalışılması halinde işçi statüsünde istihdamda toplu iş sözleşmesi hükümleri geçerli olur."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğin standart bir eğitim basamakları sistemi bulunmamaktadır; ilgili alanda açılan ileri düzey mesleki eğitim kurslarına katılarak bilgi ve beceriler geliştirilebilir.",
+  "is_hayatinda": "Deneyim ve bilgi birikimi arttıkça usta, ustabaşı, vardiya sorumlusu veya üretim şefliği gibi görevlere yükselme imkânı bulunabilir."
+ },
+ "benzer_meslekler": [
+  "Süper Fosfatlı Gübre İmalat Makinesi Operatörü",
+  "Granül İmal İşçisi",
+  "Karıştırma Makinesi Operatörü-Kimyasal Maddeler",
+  "Kurutma Makinesi Operatörü-Kimyasal ve İlgili İşlemler",
+  "Kırma Makinesi Operatörü-Kimyasal Maddeler"
+ ],
+ "ek_bilgiler": "Gübre üretiminde kullanılan amonyum nitrat gibi bazı kimyasal hammaddeler yanıcı veya belirli koşullarda tehlikeli özellik taşıyabildiğinden, çalışanların iş sağlığı ve güvenliği kurallarına, kişisel koruyucu donanım kullanımına ve yangın/patlama önleme tedbirlerine eksiksiz uyması önem taşır.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T12:38:15",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5096
+  }
+ }
+}

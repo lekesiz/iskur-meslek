@@ -1,0 +1,79 @@
+{
+ "arac_gerec": [
+  "Rektefiye (yüzey düzeltme) makinesi",
+  "Polisaj makinesi",
+  "Elmas tozu",
+  "Polisaj macunu",
+  "Temizleme ve tesviye alet ve aparatları",
+  "Mastar takımı",
+  "Mikroskop",
+  "Kumpas ve mikrometre",
+  "Çap ölçme aletleri",
+  "Kayıt defteri/formları",
+  "Vinç veya kaldırma ekipmanı",
+  "İş eldiveni, koruyucu gözlük, iş elbisesi",
+  "Çeşitli çaplarda karbür, çelik ve elmas hadde",
+  "El takımları (anahtar, tornavida vb.)"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli,",
+  "El becerisine sahip,",
+  "Şekil ve uzay ilişkilerini algılayabilen,",
+  "Göz-el koordinasyonu gelişmiş,",
+  "Sabırlı ve titiz çalışabilen,",
+  "Fiziksel olarak dayanıklı,",
+  "Sorumluluk sahibi,",
+  "Ekip çalışmasına uyumlu,"
+ ],
+ "calisma_ortami": "Hadde Onarım İşçisi (Tel Çekme), bakır, alüminyum, çelik vb. metal tel ve filmaşin üreten haddehane ve tel çekme tesislerinin atölye bölümlerinde çalışır. Çalışma ortamı kapalı, genellikle gürültülü olup metal tozu, yağ ve soğutma sıvılarıyla temas söz konusu olabilir; dönen aksam ve kesici/aşındırıcı aletlerle çalışıldığından iş güvenliği kurallarına ve kişisel koruyucu donanım kullanımına uyulması önemlidir.\n\nMeslek elemanı, işletmenin üretim temposuna bağlı olarak vardiyalı çalışabilir. Görevini genellikle tek başına yürütse de üretim bölümü çalışanları, vardiya amiri ve bakım ekibiyle sürekli bilgi ve rapor paylaşımı içindedir.",
+ "egitim": {
+  "verildigi_yerler": "Bu meslek için örgün eğitimde ayrı bir ders programı bulunmamaktadır. Meslek elemanları genellikle haddehane ve tel çekme işletmelerinde usta yanında işbaşında yetişir; Halk Eğitim Merkezleri ile İŞKUR'un açtığı mesleki eğitim kursları ve mesleki eğitim merkezlerinin Metal Teknolojisi alanındaki ilgili dalları, bu beceriler için temel bilgi ve beceri kazandırabilir.",
+  "giris_kosullari": [
+   "En az ilköğretim/ortaokul mezunu olmak",
+   "Mesleğin gerektirdiği işlere engel bir sağlık sorunu bulunmamak",
+   "El becerisine ve fiziksel dayanıklılığa sahip olmak"
+  ],
+  "sure_ve_icerik": "Bu meslek için belirlenmiş resmi bir çıraklık eğitimi süresi bulunmamaktadır. Beceri, işyerinde usta yanında çalışarak zamanla kazanılır; süre işyerine ve kişinin öğrenme hızına göre değişir. Verilen kurslarda içerik; metal ve hadde tanıma, ölçme-kontrol teknikleri, rektefiye ve polisaj işlemleri, araç-gereç kullanımı ile iş sağlığı ve güvenliği konularını kapsar.",
+  "belge": "İşbaşında kazanılan beceri için zorunlu bir diploma bulunmamaktadır. Katılınan kurslardan katılım veya başarı belgesi alınabilir; Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "gorevler": [
+  "Bakır, alüminyum, çelik vb. metal tellerin veya filmaşinlerin haddelenmesinde kullanılan karbür, çelik, elmas vb. haddelerde oluşan aşınma, zedelenme, kopma ve çizilme türünden hasarları gidermek ve gerektiğinde daha geniş çaplara çıkarmak amacıyla çeşitli rektefiye, temizleme ve tesviye makine, alet ve aparatlarını kullanarak elmas tozu, macun vb. malzeme ile hadde yüzeylerinin rektefiye ve polisajını yapar.",
+  "Ölçme amacıyla çeşitli ölçme aletleri, mastarlar ve mikroskop kullanır.",
+  "Hadde çapları ile ilgili kayıtları tutar.",
+  "Haddeleri sistemli bir şekilde stoklayarak kullanıma hazır durumda bulundurur.",
+  "Üretim bölümüne ve amirine yazılı ve sözlü rapor ve bilgi verir.",
+  "Kullandığı aletlerin bakım ve temizliğini yapar.",
+  "Çalışma alanının temizlik ve düzenini sağlar.",
+  "Meslek alanı ile ilgili gelişmeleri takip eder ve uygular.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "calisma_alanlari": "Hadde Onarım İşçisi (Tel Çekme), bakır, alüminyum ve çelik gibi metallerden tel ve filmaşin üreten haddehanelerde, tel çekme fabrikalarında ve metal işleme tesislerinde çalışır. İş bulma olanağı, bu tür üretim yapan kamu ve özel sektöre ait orta ve büyük ölçekli işletmelerle sınırlıdır; bu nedenle meslek dar kapsamlı ve belirli sanayi bölgelerinde yoğunlaşmış bir uzmanlık alanıdır.",
+ "kazanc": {
+  "egitim_suresince": "Bu meslek için resmi bir çıraklık eğitimi düzenlemesi bulunmadığından, eğitim süresince standart bir ücret uygulaması yoktur. İşbaşında yetişenler, çalıştıkları işyerinin belirlediği stajyer veya yeni işçi ücretini alır.",
+  "egitim_sonrasi": [
+   "Kamu kuruluşlarında işçi statüsünde çalışanlar, tabi oldukları toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde işe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar; deneyim, beceri düzeyi ve işletmenin büyüklüğüne göre ücret bu seviyenin üzerine çıkabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Bu meslek için kademeli, resmi bir mesleki eğitim ilerleme basamağı (kalfalık-ustalık gibi) tanımlanmamıştır. Kişi, işyerinde deneyim kazanarak ustalaşabilir; isteyenler mesleki ve teknik eğitim kurumlarının Metal Teknolojisi alanındaki ilgili programlarına yönelerek bilgi ve becerisini artırabilir.",
+  "is_hayatinda": "Deneyim kazandıkça usta hadde onarım işçiliğine, ekip sorumluluğuna veya vardiya amirliğine yükselebilir; bazı meslek elemanları kalite kontrol ve üretim planlama gibi görevlere geçiş yapabilir. Yeterli deneyim ve sermaye ile kendi atölyesini açma imkânı da bulunur."
+ },
+ "benzer_meslekler": [
+  "Hadde Ayarcısı (Metal)",
+  "Haddeci-Demir Dışı Metaller",
+  "Bitirme Haddecisi (Metal) (Soğuk Haddehane)",
+  "Haddehane Maniplatörü",
+  "Diğer Haddehane Operatörleri (Metal)",
+  "Galvanizli/Galvanizsiz Tel Ürünleri Üretim İşçisi"
+ ],
+ "ek_bilgiler": "Bu meslek, haddehane ve tel çekme sektörüne özgü, sınırlı sayıda işletmede istihdam olanağı sunan dar kapsamlı bir uzmanlık alanıdır. Çalışma, dönen ve aşındırıcı makine/aparatlarla yapıldığından iş güvenliği eğitimi ve koruyucu donanım kullanımı önem taşır.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T11:30:32",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5976
+  }
+ }
+}

@@ -1,0 +1,78 @@
+{
+ "arac_gerec": [
+  "Toprak işleme aletleri (pulluk, tırmık, çapa)",
+  "Traktör ve tarımsal ekipmanlar (küçük işletmelerde)",
+  "Tohumluk bezelye",
+  "Gübre dağıtıcısı ve kimyasal/organik gübreler",
+  "Sulama ekipmanları (hortum, damlama sulama sistemi)",
+  "Tarım ilaçları (insektisit, fungisit, herbisit)",
+  "İlaçlama pülverizatörü",
+  "El aletleri (bel, kürek, çapa, budama makası)",
+  "Hasat/toplama sepetleri ve çuvallar",
+  "Ölçme ve kontrol aletleri (gübre-ilaç dozaj ölçümü için)",
+  "Koruyucu iş elbisesi, eldiven, maske"
+ ],
+ "genel_ozellikler": [
+  "Toprağı ve bitkiyi seven, üretime ilgi duyan,",
+  "Açık havada çalışmaktan hoşlanan,",
+  "Fiziksel olarak dayanıklı ve bedensel çalışmaya istekli,",
+  "Dikkatli ve gözlemci (hastalık-zararlı belirtilerini fark edebilen),",
+  "El becerisine sahip,",
+  "Sabırlı ve mevsimsel çalışma temposuna uyum sağlayabilen,",
+  "Ekip çalışmasına yatkın,",
+  "Sorumluluk sahibi"
+ ],
+ "calisma_ortami": "\"Bezelye Yetiştiricisi, çalışmasını büyük ölçüde açık arazi koşullarında, tarla ve bahçelerde; bazı durumlarda örtü altı (sera, tünel) üretim alanlarında yürütür. Çalışma, toprak hazırlığından ekim, bakım, gübreleme, ilaçlama ve hasada kadar fiziksel güç gerektiren, eğilip kalkmayı ve ayakta uzun süre durmayı içeren bir temposa sahiptir. Çalışma saatleri mevsime, hava koşullarına ve ürünün yetişme dönemine göre değişkenlik gösterir; hasat döneminde yoğun ve uzun saatler çalışılabilir.\\n\\nMeslek elemanı, güneş, yağmur, soğuk gibi iklim koşullarına açık biçimde çalışır; toz, toprak ve kullanılan tarım ilaçlarına karşı koruyucu önlemler almak gerekebilir. Çalışma sırasında işletme sahibi, diğer tarım işçileri, mevsimlik işçiler, ziraat teknisyeni/mühendisi ve ürünü alan tüccar veya kooperatif temsilcileriyle iletişim kurar.\"",
+ "calisma_alanlari": "\"Bezelye Yetiştiricisi, kendi tarlasında veya bahçesinde müstahsil olarak çalışabileceği gibi, tarımsal üretim yapan işletmelerde, aile işletmelerinde, tarım kooperatiflerinde ve sebze üretim çiftliklerinde mevsimlik veya sürekli tarım işçisi olarak istihdam edilebilir. Ayrıca tohumculuk şirketlerinde, gıda ve konserve sanayine hammadde sağlayan üretim çiftliklerinde, organik tarım işletmelerinde ve örtü altı (sera) üretim yapan tesislerde çalışma imkânı bulunmaktadır. Tarım il/ilçe müdürlüklerinin ve tarımsal kalkınma kooperatiflerinin yürüttüğü projelerde üretici olarak yer alabilir.\"",
+ "kazanc": {
+  "egitim_suresince": "Mesleğin örgün bir çıraklık/mesleki eğitim programı bulunmadığından, eğitim süresince standart bir ücret düzenlemesi yoktur. Halk Eğitim Merkezleri veya İŞKUR tarafından açılan kurslara katılım genellikle ücretsizdir; işbaşında usta yanında yetişme döneminde ise işveren ile yapılan anlaşmaya göre günlük yevmiye veya düşük bir ücret ödenebilir.",
+  "egitim_sonrasi": [
+   "Mevsimlik veya sürekli tarım işçisi olarak çalışanlar, genellikle asgari ücret düzeyinde veya yapılan iş miktarına göre (parça/gün bazlı) ücret alır.",
+   "Kendi arazisinde üretim yapan müstahsillerin kazancı, ürün verimine, pazarlama koşullarına ve bezelye fiyatlarına bağlı olarak değişkenlik gösterir.",
+   "Kamu kurumlarına bağlı tarımsal işletmelerde çalışanlar, tabi oldukları mevzuata (işçi statüsünde ise toplu iş sözleşmesine) göre ücret alır."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğin örgün bir diploma programı bulunmadığından, mesleki eğitimde ilerleme genellikle Halk Eğitim Merkezleri, İŞKUR ve Tarım ve Orman Bakanlığı il/ilçe müdürlüklerinin düzenlediği sebze/baklagil yetiştiriciliği, bitki koruma, organik tarım, sulama teknikleri gibi kısa süreli kurs ve sertifika programlarına katılımla sağlanır. İlgi ve isteyen kişiler, tarım meslek liseleri veya ön lisans/lisans düzeyindeki tarım, bitkisel üretim, bahçe bitkileri gibi programlara yönelerek mesleki bilgisini ilerletebilir.",
+  "is_hayatinda": "Deneyim kazanan meslek elemanı tarım işçiliğinden usta/ustabaşı konumuna, işletme yöneticiliğine veya kendi üretim işletmesini kurarak müstahsilliğe yükselebilir. Organik tarım, iyi tarım uygulamaları gibi sertifikalar edinerek katma değeri yüksek ürün yetiştiriciliğine geçebilir, tarımsal kooperatiflerde görev alabilir veya üretim çeşitliliğini artırarak farklı sebze ve baklagil yetiştiriciliğine yönelebilir."
+ },
+ "benzer_meslekler": [
+  "Bakla Yetiştiricisi",
+  "Fasulye Yetiştiricisi",
+  "Nohut Yetiştiricisi",
+  "Mercimek Yetiştiricisi",
+  "Baklagil Sebzeler Yetiştiricisi",
+  "Yemeklik Dane Baklagil Yetiştiricisi",
+  "Baklagil Yem Bitkileri Yetiştiricisi",
+  "Börülce Yetiştiricisi"
+ ],
+ "ek_bilgiler": "\"Bezelye, kısa yetişme süresine sahip serin iklim sevgili bir baklagil sebzedir; yetiştiriciliği genellikle ilkbahar ve sonbahar dönemlerinde açık arazide, bazı bölgelerde ise örtü altında (sera) yapılır. Üretim, iklim ve toprak koşullarına bağlı mevsimsellik gösterdiğinden iş yoğunluğu yıl içinde dönemsel olarak değişir. Mesleki Yeterlilik Kurumu (MYK) belgesi bu meslekte yasal bir zorunluluk olmamakla birlikte, istihdamda tercih sebebi olabilir.\"",
+ "egitim": {
+  "verildigi_yerler": "Bezelye Yetiştiricisi mesleği için örgün eğitim kurumlarında ayrı bir diploma programı bulunmamaktadır. Mesleğe yönelik temel bilgi ve beceriler genellikle Halk Eğitim Merkezleri ile İŞKUR tarafından açılan tarımsal üretim/sebze yetiştiriciliği kurslarında, Tarım ve Orman Bakanlığı il/ilçe müdürlüklerinin düzenlediği eğitim ve yayım faaliyetlerinde veya işbaşında usta yanında, aile işletmelerinde tecrübe yoluyla kazanılır.",
+  "giris_kosullari": [
+   "Okuryazar olmak veya ilköğretim mezunu olmak genellikle yeterlidir.",
+   "Açık havada ve fiziksel olarak yorucu şartlarda çalışmaya uygun sağlık durumuna sahip olmak.",
+   "Kurslara katılım için belirlenen yaş ve kayıt şartlarını taşımak."
+  ],
+  "sure_ve_icerik": "Standart ve zorunlu bir eğitim süresi bulunmamaktadır. Halk Eğitim Merkezleri veya İŞKUR tarafından açılan kurslar genellikle birkaç hafta ile birkaç ay arasında sürmekte; toprak hazırlığı, tohum seçimi, ekim, gübreleme, sulama, hastalık ve zararlılarla mücadele, hasat ve ürün değerlendirme gibi konuları kapsamaktadır. Pratik beceriler ise genellikle işbaşında, usta yanında ve yıllar içinde deneyimle geliştirilir.",
+  "belge": "Kurslara katılanlara kurs bitirme/katılım belgesi verilir. Resmî bir diploma veya ustalık belgesi şartı bulunmamaktadır; ancak Mesleki Yeterlilik Kurumu (MYK) belgesi edinmek istihdamda tercih sebebi olabilir."
+ },
+ "gorevler": [
+  "Üretim tekniklerini araştırır,",
+  "Ekim dikim yerlerini hazırlar,",
+  "Gübreleme yapar,",
+  "Kültürel işlemleri (çapalama, sulama, seyreltme vb.) yapar,",
+  "Bitkilerde görülen zararlıları inceler,",
+  "Hastalık, zararlılar ve yabancı otlarla mücadele eder,",
+  "Bezelye yetiştirir,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T20:19:08",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5482
+  }
+ }
+}

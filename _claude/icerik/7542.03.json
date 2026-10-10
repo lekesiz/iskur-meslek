@@ -1,0 +1,74 @@
+{
+ "arac_gerec": [
+  "Bomba imha robotu (EOD robotu)",
+  "Taşınabilir x-ray cihazı",
+  "Patlayıcı buharı/koku dedektörü",
+  "Bomba imha koruyucu kıyafeti (EOD takım elbisesi, kask, vizör)",
+  "Kit çantası ve imha takımları",
+  "Sinyal karıştırıcı (jammer)",
+  "Su jeti (disruptor) sistemi",
+  "Teleskopik çengel, ip ve uzaktan kumandalı manipülatör",
+  "Kontrollü patlatma malzemeleri (fünye, imha kalıbı vb.)",
+  "Metal dedektörü",
+  "Güvenlik şeridi, kum torbası ve koruyucu blendaj",
+  "Telsiz ve iletişim cihazları"
+ ],
+ "genel_ozellikler": [
+  "Soğukkanlı, sakin ve yüksek stres altında net düşünebilen,",
+  "Çabuk ve doğru karar verebilen,",
+  "Dikkatli, titiz ve sabırlı,",
+  "Fiziksel ve psikolojik yönden sağlam ve dayanıklı,",
+  "Sorumluluk sahibi, cesur ve risk yönetimine yatkın,",
+  "El ve göz koordinasyonu iyi, ince işçilik yapabilen,",
+  "Ekip çalışmasına uyumlu ve disiplinli,",
+  "Öngörülü ve tehlike anında planlı hareket edebilen"
+ ],
+ "calisma_ortami": "\"Patlayıcı madde imha uzmanı, görevini hem açık hem kapalı alanlarda; şehir merkezleri, kırsal bölgeler, havalimanları, toplu taşıma araçları, kamu binaları gibi çok çeşitli mekânlarda yerine getirir. İhbar üzerine olay yerine hızla intikal etmesi gerektiğinden çalışma saatleri düzensizdir ve genellikle vardiya/çağrı esasına göre 7 gün 24 saat göreve hazır olma durumu söz konusudur. Çalışma sırasında ağır ve hareket kısıtlayıcı koruyucu kıyafet giyilebilir; görev, yaralanma ve ölüm riski taşıyan yüksek tehlikeli bir iştir.\\n\\nGörevini genellikle bir ekip hâlinde yürütür; imha ekibi arkadaşları, kolluk güçleri (polis, jandarma veya askeri personel), itfaiye ve sağlık ekipleri, güvenlik güçleri ile sürekli iletişim ve koordinasyon içinde çalışır. Çalışma ortamı yüksek konsantrasyon, stres toleransı ve ekip disiplini gerektirir.\"",
+ "gorevler": [
+  "Gelen ihbar üzerine olay mahalline intikal eder.",
+  "Bomba ve benzeri şüpheli paketin çevresinde güvenlik önlemlerini alır, alınmasını sağlar.",
+  "Usulüne uygun olarak patlayıcı maddenin imha işlemini yapar.",
+  "Kit çantası araçları, koku dedektörü ve x-ray cihazının bakımını yapar.",
+  "Meslekle ilgili hizmet içi eğitim, iş başı eğitim, toplantı, seminer vb. faaliyetlere katılır.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Türkiye'de patlayıcı madde imha uzmanlığı, ağırlıklı olarak Emniyet Genel Müdürlüğü, Jandarma Genel Komutanlığı ve Türk Silahlı Kuvvetleri gibi kamu güvenlik kurumları bünyesinde, bu kurumlara mensup personelin özel seçim ve branşlaşma süreçlerinden geçirilmesiyle kazanılan bir uzmanlık alanıdır. Doğrudan sivil bireylerin alabileceği bağımsız bir örgün eğitim programı (lise veya üniversite bölümü) bulunmamaktadır. Patlayıcı madde üretimi veya kullanımı yapılan maden ve inşaat gibi sektörlerde çalışacak \"ateşleyici\" niteliğindeki personel için ise Mesleki Yeterlilik Kurumu (MYK) yetkilendirilmiş kuruluşların açtığı sınav ve sertifika programları bulunmaktadır; ancak bu, bomba imha uzmanlığından farklı ve daha sınırlı kapsamlı bir yetkilendirmedir.",
+  "giris_kosullari": [
+   "İlgili güvenlik kurumuna (polis, jandarma, TSK) personel olarak girmiş olmak,",
+   "Kurumun açtığı özel seçim sınavlarını, mülakat ve değerlendirmeleri başarıyla geçmek,",
+   "Göreve engel bir sağlık sorununun bulunmaması (iyi işitme, görme, el-kol sağlamlığı ve genel sağlık durumu),",
+   "İyi derecede fiziksel uygunluk ve dayanıklılığa sahip olmak,",
+   "Psikolojik açıdan sağlam ve stres yönetimine uygun olmak"
+  ],
+  "sure_ve_icerik": "Seçilen personel, kurumların düzenlediği patlayıcı madde tanıma, imha teknikleri, EOD ekipmanlarının kullanımı, risk değerlendirmesi, kontrollü patlatma ve el yapımı patlayıcılarla (EYP) baş etme gibi konuları kapsayan teorik ve uygulamalı kurslara katılır. Eğitim süresi kuruma ve göreve göre değişmekle birlikte, kurs eğitiminin ardından kıdemli uzmanlar refakatinde saha tecrübesi kazanılır. Mesleki bilgi ve beceriler, periyodik hizmet içi eğitim, tatbikat ve seminerlerle güncellenir.",
+  "belge": "Eğitimini başarıyla tamamlayan personele, bağlı olduğu kurum tarafından \"Patlayıcı Madde İmha Uzmanı\" yetki belgesi/sertifikası verilir; bu belge kurum bünyesinde ilgili görevi yürütmeye yetki sağlar."
+ },
+ "calisma_alanlari": "\"Patlayıcı madde imha uzmanları, büyük ölçüde kamu güvenlik kurumları bünyesinde istihdam edilir: Emniyet Genel Müdürlüğü'ne bağlı il/ilçe bomba imha ekipleri, Jandarma Genel Komutanlığı ve Türk Silahlı Kuvvetleri bu alanda başlıca iş bulma olanağı sunan kurumlardır. Bunun yanında büyük havalimanları, kritik altyapı tesisleri ve bazı özel güvenlik kuruluşlarında sınırlı sayıda ilgili pozisyon bulunabilir. Patlayıcı madde üretimi veya kullanımının yapıldığı maden, taş ocağı ve büyük inşaat projelerinde ise \\\"ateşleyici\\\" unvanıyla farklı kapsamda ancak benzer nitelikte görevler üstlenilebilir.\"",
+ "kazanc": {
+  "egitim_suresince": "Eğitim, ilgili güvenlik kurumuna mensup personele verildiğinden, personel eğitim sürecinde de bağlı olduğu kurumdaki maaş ve özlük haklarını almaya devam eder; göreve özgü ek tazminatlar kurumdan kuruma farklılık gösterebilir.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında (polis, jandarma, TSK) 657 sayılı Devlet Memurları Kanunu veya ilgili kurumun özel personel rejimine göre maaş, görev riski tazminatı ve fiili hizmet zammı gibi ek ödemeler alınabilir.",
+   "Özel sektörde (güvenlik şirketleri, patlayıcı madde kullanılan işletmeler) ücret, deneyime, işletmenin büyüklüğüne ve karşılıklı anlaşmaya göre değişir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Kurum içi kıdem arttıkça ve ek eğitimler (ileri düzey imha teknikleri, yeni ekipman kullanımı, el yapımı patlayıcılarla mücadele vb.) tamamlandıkça daha karmaşık ve yüksek riskli operasyonlarda görevlendirilme, eğitmenlik ve ekip liderliği gibi sorumluluklara yükselme mümkündür.",
+  "is_hayatinda": "Deneyim kazanan uzmanlar, ekip amirliği, eğitim biriminde eğitmenlik, kıdemli uzmanlık unvanları veya kurum içi idari/yönetici pozisyonlarına yükselebilir."
+ },
+ "benzer_meslekler": [
+  "Ateşçi (Dinamitçi)",
+  "Havai Fişek Ateşleyicisi",
+  "Patlayıcı Madde Fişek Dolum Makinesi Operatörü",
+  "Dalgıç (Balıkadam)"
+ ],
+ "ek_bilgiler": "\"Bu meslek Türkiye'de büyük ölçüde kamu güvenlik kurumları (polis, jandarma, Türk Silahlı Kuvvetleri) bünyesinde icra edilmektedir; mesleğe doğrudan sivil olarak girmek için ayrı bir okul veya sınav bulunmamaktadır, ilgi duyanların önce bu kurumlara personel olarak katılmaları ve ardından branşlaşma sürecinden geçmeleri gerekir. Görev, yaşamsal tehlike ve yüksek stres içerdiğinden fiziksel ve psikolojik sağlamlık mesleğin olmazsa olmaz koşullarındandır.\"",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T09:44:27",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 7665
+  }
+ }
+}

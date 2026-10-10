@@ -1,0 +1,81 @@
+{
+ "arac_gerec": [
+  "Empermeabilizasyon (su geçirmezlik) makinesi",
+  "Kimyasal madde hazne/tankı",
+  "Kılavuz silindirler ve kumaş taşıma aparatları",
+  "Dikiş makinesi (kılavuz kumaş ekleme için)",
+  "Isıtma/kurutma ünitesi",
+  "Durulama ve yıkama ünitesi",
+  "Makine kontrol paneli",
+  "Hassas terazi ve ölçüm kapları",
+  "Numune alma aparatı",
+  "Transpalet/taşıyıcı araba",
+  "Kişisel koruyucu donanım (eldiven, gözlük, maske, önlük)",
+  "El aletleri (bakım-onarım için)"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve tedbirli,",
+  "El becerisine sahip,",
+  "El-göz koordinasyonu gelişmiş,",
+  "Kimyasal maddelerle çalışmaya elverişli sağlık durumuna sahip,",
+  "Fiziksel olarak dayanıklı,",
+  "Talimatlara uyan ve sorumluluk sahibi,",
+  "Renk ve kumaş özelliklerini ayırt edebilen,",
+  "Ekip çalışmasına yatkın"
+ ],
+ "benzer_meslekler": [
+  "Tekstil Terbiye İşçisi (Apre)",
+  "Tekstil Bitim İşlemecisi (Apreci)",
+  "Boyama Makinesi Operatörü-Tekstil",
+  "Fiksaj İşçisi",
+  "Apre Hazırlama İşçisi",
+  "Ram Makinesi Operatörü (Tekstil)"
+ ],
+ "gorevler": [
+  "Verilen reçetelere göre hazırladığı veya daha önceden hazırlanan kimyasal maddeleri makine haznesine doldurur.",
+  "Kumaş ucunu makine üzerindeki kılavuz ve silindirlerden geçirir veya makinede takılı bulunan kılavuz kumaşın ucuna diker.",
+  "Kumaşın makineden geçiş süratini ayarlar.",
+  "Makinenin istenilen derecede ısınması için otomatik sistemleri işletir.",
+  "Makineyi çalıştırıp, makinenin otomatik çalışmasına nezaret eder.",
+  "Kumaşın silindirler arasından geçişini kontrol eder.",
+  "Gerekli anlarda makinenin çalışmasını durdurarak meydana gelen aksaklıkları giderir.",
+  "Su geçirmez hale gelen kumaşı zaman zaman muayene eder.",
+  "Muayene neticesine göre işlemi uzatır veya durdurur.",
+  "Kumaşı makineden çıkartarak ilgili kısma gönderip makineyi temizler.",
+  "Makineden çıkan kumaşı durulayabilir veya kurutabilir, diğer mensucat mamullerini de aynı işlemi tekrarlayarak empermeabilize edebilir, makinenin bakım ve onarımını yapabilir.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "calisma_ortami": "Empermeabilize işçisi, genellikle tekstil terbiye (apre) işletmelerinin kapalı atölye ortamında çalışır. Çalışma ortamı, kullanılan kimyasal maddeler ve ısıl işlemler nedeniyle sıcak ve nemli olup havalandırma sisteminin yeterli olması gerekir. Ortamda kimyasal madde kokusu, gürültü, titreşim ve zaman zaman ıslak-kaygan zemin gibi olumsuz koşullar bulunabilir; bu nedenle çalışma sırasında Kişisel Koruyucu Donanım (KKD) kullanımı önemlidir.\n\nÇalışma genellikle işletmenin üretim programına bağlı olarak vardiyalı düzende yürütülür. Meslek elemanı, çalışması sırasında vardiya arkadaşları, usta/ustabaşı, kalite kontrol personeli ve bölüm şefi ile iş birliği içinde bulunur.",
+ "egitim": {
+  "verildigi_yerler": "Empermeabilize işçiliğinin, mesleğe özgü ayrı bir örgün eğitim programı bulunmamaktadır. Meslek, genellikle işyerlerinde usta yanında uygulamalı olarak öğrenilir. Ayrıca mesleki eğitim merkezlerinin Tekstil Teknolojisi alanına bağlı ilgili dallarında çıraklık eğitimi yoluyla, Halk Eğitim Merkezleri ile İŞKUR'un açtığı mesleki eğitim kurslarında da ilgili bilgi ve beceriler kazandırılabilir.",
+  "giris_kosullari": [
+   "Mesleğin gerektirdiği minimum eğitim düzeyi ilköğretimdir; okuryazar/ilkokul-ortaokul mezunları işbaşında eğitimle mesleğe başlayabilir.",
+   "Çıraklık eğitimine girmek isteyenlerin en az ortaokul mezunu ve 14 yaşını doldurmuş olması, ayrıca eğitim görülecek işyeri ile çıraklık sözleşmesi imzalaması gerekir.",
+   "Kimyasal maddelerle ve nemli-sıcak ortamda çalışmaya elverişli sağlık durumuna sahip olmak gerekir; bu durum gerektiğinde sağlık raporu ile belgelendirilir."
+  ],
+  "sure_ve_icerik": "Meslek, ağırlıklı olarak işbaşında usta nezaretinde uygulamalı olarak kazanılır; eğitim süresi kişinin önceki deneyimine ve işyerinin uygulamasına göre değişir. Çıraklık eğitimi tercih edildiğinde, mesleki eğitim merkezlerinde haftada belirli gün genel ve meslek bilgisi dersleri, kalan günlerde ise işyerinde uygulamalı eğitim verilir. Eğitim içeriğinde kumaşa uygulanan kimyasal terbiye işlemleri, makine kullanımı, iş güvenliği ve kalite kontrol konuları yer alır.",
+  "belge": "İşbaşı eğitimini tamamlayanlara işyerince deneyim/çalışma belgesi; çıraklık eğitimini tamamlayanlara kalfalık, devamında ustalık belgesi; kurs yoluyla eğitim alanlara ise kurs bitirme/katılım belgesi verilir."
+ },
+ "calisma_alanlari": "Empermeabilize işçisi; tekstil terbiye (apre) işletmeleri, dokuma ve örme kumaş fabrikaları, su geçirmez/su itici özellikli teknik tekstil ve outdoor kumaş üreten tesisler ile tekstil boyama-terbiye atölyelerinde istihdam edilir. Meslek elemanları, bu işletmelerde ücretli çalışan statüsünde görev alırlar; bağımsız çalışma imkânı bulunmamaktadır.",
+ "kazanc": {
+  "egitim_suresince": "Çıraklık eğitimi kapsamında öğrenim gören adaylara, 3308 sayılı Mesleki Eğitim Kanunu'nda belirtilen esaslara göre ücret ödenir ve iş kazası-meslek hastalığı sigortası devletçe karşılanır. İşbaşında usta yanında yetişenlere ise işyerinin uygulamasına göre ücret ödenebilir.",
+  "egitim_sonrasi": [
+   "İşe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Deneyimli ve yetkin meslek elemanlarının kazancı, deneyim, iş performansı, pozisyon ve çalışılan işletmenin büyüklüğüne göre değişiklik gösterir.",
+   "Çalışılan işletmenin özel sektöre ait olması nedeniyle ücretler işçi ile işveren arasındaki anlaşmaya bağlı olarak belirlenir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Meslek elemanı, çeşitli kurs ve eğitim programlarına katılarak kimyasal terbiye işlemleri ve makine kullanımı konusundaki bilgi ve becerilerini geliştirebilir. Çıraklık eğitimi yoluyla mesleğe giren ve kalfalık/ustalık belgesi alanlar, isteğe bağlı olarak örgün eğitime dönüp meslek lisesi diploması alabilir.",
+  "is_hayatinda": "Meslek elemanları, deneyim kazandıkça farklı terbiye makinelerinde (boyama, apre, fiksaj vb.) çalışabilir; zaman içinde usta, ustabaşı, bölüm şefi veya atölye şefi düzeyine kadar ilerleyebilirler."
+ },
+ "ek_bilgiler": "Meslek, kimyasal maddelerle ve ısıl işlem gerektiren makinelerle çalışmayı içerdiğinden iş sağlığı ve güvenliği kurallarına, özellikle kişisel koruyucu donanım kullanımına dikkat edilmesi önemlidir. Mesleki Yeterlilik Kurumu (MYK) tarafından ilgili tekstil terbiye alanında verilen belgeler, istihdamda tercih sebebi olabilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T14:21:24",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6246
+  }
+ }
+}

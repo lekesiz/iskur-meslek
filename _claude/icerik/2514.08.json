@@ -1,0 +1,72 @@
+{
+ "arac_gerec": [
+  "Bilgisayar ve yüksek performanslı grafik işlemci birimleri",
+  "Oyun motorları (Unity, Unreal Engine ve benzeri platformlar)",
+  "Programlama dilleri ve kod yazım ortamları (C#, C++, Python vb.)",
+  "Entegre geliştirme ortamları (IDE) ve kod düzenleyiciler",
+  "Versiyon kontrol sistemleri (Git ve benzeri)",
+  "Hata (bug) takip ve performans analiz araçları",
+  "Grafik, animasyon ve ses dosyalarını içeri aktarma/düzenleme araçları",
+  "Test amaçlı farklı platform ve cihazlar (bilgisayar, konsol, mobil cihaz)",
+  "Proje ve görev takip yazılımları",
+  "Dokümantasyon ve ekip içi iletişim araçları"
+ ],
+ "benzer_meslekler": [
+  "Bilgisayar Programcısı",
+  "Uygulama Programcısı",
+  "Mobil Yazılım Geliştirme Uzmanı",
+  "Dijital Oyun Tasarımcısı",
+  "Animasyon Programcısı",
+  "Bilgisayar Oyunları Programcısı",
+  "Çoklu Ortam Programcısı"
+ ],
+ "calisma_alanlari": "Oyun Geliştirme Uzmanı; bağımsız (indie) oyun geliştirme stüdyoları, büyük oyun şirketleri, mobil uygulama geliştiren firmalar, yazılım ve bilişim şirketleri bünyesinde çalışabilir. Ayrıca reklam ve dijital pazarlama ajanslarının oyunlaştırma (gamification) projelerinde, e-spor ve dijital eğlence sektörü kuruluşlarında istihdam edilebilir. Serbest (freelance) çalışma veya kendi projelerini geliştirerek bağımsız yayıncılık yapma olanağı da bulunmaktadır. Dijital oyun sektörünün dünyada ve Türkiye'de büyüme eğiliminde olması, bu alandaki istihdam olanaklarını genişletmektedir.",
+ "calisma_ortami": "Oyun Geliştirme Uzmanı genellikle kapalı ortamda, büro veya stüdyo koşullarında, bilgisayar başında oturarak çalışır. Çalışma ortamı sakin ve teknoloji yoğunluklu olup, uzun süre ekran karşısında kalmayı gerektirir; bu nedenle göz ve bilek yorgunluğu, hareketsizliğe bağlı sağlık riskleri söz konusu olabilir. Proje teslim tarihlerine yaklaşıldığında çalışma saatleri yoğunlaşabilir ve esnek/fazladan çalışma gerekebilir.\n\nMeslek mensubu; senaryo yazarları, grafik ve görsel tasarımcılar, ses tasarımcıları, oyun tasarımcıları, yazılım test uzmanları ve proje yöneticileriyle sürekli etkileşim ve koordinasyon içinde, çoğunlukla ekip çalışması şeklinde görev yapar. Günümüzde uzaktan veya hibrit çalışma modelleri de yaygın olarak uygulanmaktadır.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi, üniversitelere bağlı meslek yüksekokullarının bilgisayar programcılığı, oyun programcılığı/geliştirme veya bilgisayar teknolojileri gibi ön lisans programlarında ve bazı üniversitelerin oyun tasarımı/geliştirme, yazılım mühendisliği gibi lisans programlarında verilmektedir. Ayrıca Halk Eğitim Merkezleri, İŞKUR ve özel eğitim kurumlarının açtığı oyun motoru ve programlama kursları ile çevrim içi eğitim programları da mesleki gelişime katkı sağlayabilir.",
+  "giris_kosullari": [
+   "Ön lisans programlarına girebilmek için lise veya dengi okul mezunu olmak ve YKS (Yükseköğretim Kurumları Sınavı) kılavuzunda belirtilen koşulları taşımak",
+   "Lisans programlarına girebilmek için YKS'de ilgili bölüm için gerekli puan türünde yeterli başarıyı sağlamak"
+  ],
+  "sure_ve_icerik": "Ön lisans programlarında eğitim süresi 2 yıl, lisans programlarında ise genellikle 4 yıldır. Eğitim süresince programlama temelleri, nesne tabanlı programlama, veri yapıları ve algoritmalar, oyun motorları (Unity, Unreal Engine vb.) kullanımı, oyun fiziği ve matematiği, bilgisayar grafikleri, yapay zeka uygulamaları, yazılım test ve optimizasyon teknikleri gibi mesleki dersler ile genel kültür dersleri okutulmaktadır.",
+  "belge": "Ön lisans programını başarıyla tamamlayanlara \"ön lisans diploması\", lisans programını başarıyla tamamlayanlara \"lisans diploması\" verilir."
+ },
+ "ek_bilgiler": "Dijital oyun sektörünün hızlı teknolojik değişim göstermesi nedeniyle, meslek mensuplarının güncel oyun motorları ve programlama teknikleri konusunda kendilerini sürekli geliştirmeleri önemlidir. Oyun motoru üreticilerinin verdiği uluslararası sertifikalar ile Mesleki Yeterlilik Kurumu (MYK) belgeleri, istihdamda tercih sebebi olabilir.",
+ "genel_ozellikler": [
+  "Analitik ve sistemli düşünme gücüne sahip,",
+  "Matematik ve mantıksal akıl yürütmede başarılı,",
+  "Yaratıcı ve yenilikçi,",
+  "Detaylara dikkat eden ve titiz,",
+  "Takım çalışmasına uyumlu ve iletişimi güçlü,",
+  "Sabırlı ve sorun çözme odaklı,",
+  "Kendini sürekli yenileyebilen, araştırmacı,",
+  "Görsel-uzamsal algısı gelişmiş"
+ ],
+ "gorevler": [
+  "Oyun mekaniklerini ve fizik motorlarını programlar,",
+  "Karakter yapay zekası (AI) ve grafik entegrasyonlarını gerçekleştirir,",
+  "Oyun içi hata (bug) analizlerini ve performans optimizasyonlarını yapar,",
+  "Senaryo ve görsel tasarım ekipleriyle koordineli çalışır,",
+  "Oyunun farklı cihazlarda ve platformlarda çalışma testlerini yürütür,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Ön lisans programını başarıyla tamamlayan öğrenciler, DGS (Dikey Geçiş Sınavı) ile başarılı oldukları takdirde ilgili lisans programlarına dikey geçiş yapabilirler. Lisans mezunları ise ilgili alanlarda yüksek lisans ve doktora eğitimine devam edebilir.",
+  "is_hayatinda": "Mesleki bilgi, beceri ve tecrübe arttıkça kıdemli oyun geliştirici, oyun programcıları ekip lideri, teknik yönetmen veya proje/stüdyo yöneticisi gibi üst görevlere yükselme olanağına sahiptir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Öğrenciler eğitimleri süresince Kredi ve Yurtlar Genel Müdürlüğü'nün sağladığı öğrenim kredisi ve yurt hizmetlerinden, ayrıca çeşitli resmi ve özel kurum/kuruluşların burslarından yararlanabilirler.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında memur statüsünde istihdam edilenler 657 sayılı Devlet Memurları Kanunu'na, işçi statüsünde çalışanlar ise ilgili toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde kazanç; işyerinin büyüklüğüne, kişinin bilgi, deneyim ve yeteneğine, sektörün genel ücret düzeyine göre değişmekle birlikte, mesleğe yeni başlayanlar için genellikle asgari ücret düzeyinde başlayıp deneyim ve performansla birlikte artabilmektedir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T06:00:23",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5664
+  }
+ }
+}

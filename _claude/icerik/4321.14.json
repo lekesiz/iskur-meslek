@@ -1,0 +1,79 @@
+{
+ "arac_gerec": [
+  "Bilgisayar ve stok takip/ERP yazılımları (depo yönetim sistemleri)",
+  "Barkod okuyucu ve etiketleme cihazları",
+  "El terminali (taşınabilir veri toplama cihazı)",
+  "Forklift, transpalet ve istif makineleri (kullanım yetkisi varsa)",
+  "Raf, palet ve istifleme ekipmanları",
+  "Tartı/kantar cihazları",
+  "Depo giriş-çıkış fişleri, iş emri formları ve kayıt belgeleri",
+  "Telefon, faks ve diğer iletişim araçları",
+  "Yazıcı, tarayıcı ve büro ekipmanları",
+  "Koruyucu iş kıyafeti, eldiven ve iş güvenliği ekipmanları (ayakkabı, baret vb.)",
+  "Kasa/konteyner ve taşıma arabaları"
+ ],
+ "benzer_meslekler": [
+  "Depo Sorumlusu",
+  "Ambar Sorumlusu",
+  "Büro Memuru (Stok Kayıt)",
+  "Diğer Stok Memurları",
+  "Ambar/Depo Görevlisi",
+  "Malzeme Takip ve Dağıtım İşçisi"
+ ],
+ "calisma_alanlari": "Ambarcı (Otomotiv), başta otomotiv ana ve yedek parça üreticileri olmak üzere otomotiv sektöründeki fabrika, montaj hattı, yedek parça ve lojistik merkezlerinin ambar/depo bölümlerinde istihdam edilir. Ayrıca otomotiv yedek parça toptan ve perakende satış işletmelerinin, bayilerin ve servis ağlarının depolarında da çalışabilir. Sektördeki üretim hacmine ve lojistik faaliyetlerin yoğunluğuna bağlı olarak iş bulma olanakları değişkenlik gösterir; deneyim ve stok takip sistemlerini (bilgisayarlı stok/ERP programları) kullanabilme becerisi istihdam olanaklarını artırır.",
+ "calisma_ortami": "Ambarcı (Otomotiv), genellikle kapalı depo ve ambar alanlarında, bazen de açık depolama sahalarında çalışır. Çalışma ortamı malzeme istifleri, raf sistemleri ve forklift/transpalet gibi araçların hareket ettiği bir alandır; bu nedenle iş kazası riskine karşı dikkatli olunması ve iş güvenliği kurallarına uyulması gerekir. Ortam zaman zaman gürültülü olabilir, ayakta ve hareketli çalışma, kaldırma-taşıma işleri söz konusu olabilir.\n\nÇalışma saatleri genellikle işletmenin vardiya ve üretim planına göre belirlenir; tam gün çalışma yaygındır, üretim yoğunluğuna bağlı olarak fazla çalışma gerekebilir. Meslek, depo/ambar personeli, üretim ve sevkiyat çalışanları, satın alma ve lojistik birimleri ile sık irtibat gerektirir.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitim düzeyi için ilköğretim mezuniyeti yeterli görülmektedir. Mesleğe yönelik örgün bir okul programı bulunmamakla birlikte, Halk Eğitim Merkezleri ile İŞKUR tarafından açılan mesleki eğitim kurslarında ve ilgili mesleki ve teknik eğitim programlarında temel depo/ambar ve stok yönetimi bilgi ve becerileri kazandırılabilir. Meslek, büyük ölçüde işbaşında, usta-çırak ilişkisi içinde ve çalışılan işletmenin kendi içi eğitimleriyle de öğrenilmektedir.",
+  "giris_kosullari": [
+   "İlköğretim/ortaokul mezunu olmak",
+   "Okuma-yazma ve temel aritmetik işlemlere hakim olmak",
+   "Mesleki eğitim kurslarının genel giriş şartlarını (yaş, sağlık durumu vb.) taşımak"
+  ],
+  "sure_ve_icerik": "Kurs süreleri ve içerikleri açan kuruma göre değişmekle birlikte genellikle depo düzeni, malzeme sayımı ve kontrolü, stok kayıtlarının tutulması, basit bilgisayar/stok takip programları kullanımı, iş sağlığı ve güvenliği konuları ile forklift/transpalet kullanımı gibi uygulamalı eğitimler yer alır. Mesleğin asıl pratik bilgi ve becerisi işbaşında, deneyimli çalışanların yanında çalışarak kazanılır.",
+  "belge": "Katıldığı kurs veya programı tamamlayanlara kurs bitirme/katılım belgesi verilir. Mesleki Yeterlilik Kurumu (MYK) tarafından yetkilendirilmiş kuruluşlardan alınabilecek depo/stok alanına ilişkin ulusal yeterlilik belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "ek_bilgiler": "Otomotiv sektöründe üretim hattının kesintisiz işlemesi için malzeme ve parça akışının doğru ve zamanında sağlanması büyük önem taşır; bu nedenle işletmeler, dikkatli ve düzenli çalışan ambar personeline öncelik vermektedir. Forklift ve benzeri iş makinelerini kullanacak kişilerin ilgili operatör belgesine sahip olması gerekir.",
+ "genel_ozellikler": [
+  "Dikkatli ve düzenli çalışan,",
+  "Sorumluluk sahibi ve güvenilir,",
+  "Sayısal işlemlere yatkın,",
+  "Organizasyon ve planlama becerisine sahip,",
+  "Fiziksel olarak hareketli ve dayanıklı,",
+  "Ekip çalışmasına uyumlu,",
+  "Kayıt tutma ve raporlama konusunda titiz,",
+  "İş güvenliği kurallarına duyarlı kişiler olmaları gerekir."
+ ],
+ "gorevler": [
+  "Ambara giren malın sayımını ve kontrolünü yaparak teslim alır.",
+  "Ambara giren malın ambar içindeki dağılımını yapar.",
+  "Malın teslim alacak birimlere iletilmesini sağlar.",
+  "Depo içi organizasyonu yapar.",
+  "Talep edilen malzemenin takibini yapar.",
+  "Malın teslim edilmesi aşamasında gerekli kayıtları tutar.",
+  "Envanteri kontrol altında tutar.",
+  "Depo çıkışlarını, depo çıkış fişi ve iş emri formlarıyla kayıt altına alır.",
+  "Kayıtların yedeklenmesini ve saklanmasını sağlar.",
+  "Üretim sürecinde ihtiyaç duyulan sarf malzemelerinin stok durumunu kontrol eder.",
+  "Mesleği alanındaki gelişmeleri takip eder ve uygular.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Deneyim kazanan ve ilgili kurslara/sertifika programlarına katılan Ambarcı (Otomotiv), stok kontrol, depo yönetimi veya lojistik alanlarında daha ileri düzey mesleki eğitim ve sertifika programlarına yönelebilir. Dileyen kişiler açık öğretim veya örgün eğitim yoluyla ön lisans/lisans düzeyinde lojistik, işletme veya üretim yönetimi alanlarında eğitim alarak mesleki bilgisini derinleştirebilir.",
+  "is_hayatinda": "İş hayatında deneyim kazanan Ambarcı (Otomotiv), depo/ambar sorumlusu, stok kontrol sorumlusu veya depo şefi gibi daha üst sorumluluk gerektiren pozisyonlara yükselebilir. Yönetim becerisi ve işletme bilgisi gelişen kişiler, zamanla lojistik ve depolama operasyonlarının yönetiminde görev alabilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Mesleğe yönelik örgün bir eğitim programı bulunmadığından eğitim süresince düzenli bir kazançtan söz edilemez. Halk Eğitim Merkezleri veya İŞKUR tarafından açılan kurslara katılanlar genellikle bir ücret ödemez; işbaşı eğitim programlarına katılanlar ise İŞKUR'un ilgili mevzuatı kapsamında belirli bir destek ödemesinden yararlanabilir.",
+  "egitim_sonrasi": [
+   "Kamu kurum ve kuruluşlarında bu görevi yürütenler 657 sayılı Devlet Memurları Kanunu'na veya işçi statüsünde çalışıyorlarsa ilgili toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde ücret, işletmenin büyüklüğüne, çalışanın deneyimine ve sorumluluk düzeyine göre değişmekle birlikte, mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar; deneyim ve beceri arttıkça ücret düzeyi yükselebilir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T16:21:21",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 4071
+  }
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "arac_gerec": [
+  "Beton boru üretim makinesi (otomatik/santrifüjlü veya paket vibrasyonlu kalıp sistemi)",
+  "Çeşitli çaplarda çelik boru kalıpları",
+  "Donatı (demir) kafes hazırlama ve kaynak ekipmanları",
+  "Vibrasyon ve presleme ünitesi",
+  "Beton besleme/transfer sistemleri (konveyör, kova, hazne)",
+  "Conta/mühür yuvası şekillendirme aparatları",
+  "Kalıp yağlama ve temizleme ekipmanları",
+  "Vinç ve kaldırma-taşıma ekipmanları",
+  "Ölçüm aletleri (kumpas, mastar, şerit metre)",
+  "Buharlı kür odası veya kür havuzu",
+  "Basit el aletleri (anahtar takımı, tornavida, çekiç)",
+  "Kişisel koruyucu donanım (baret, eldiven, koruyucu gözlük, kulaklık, iş elbisesi, çelik burunlu ayakkabı)"
+ ],
+ "genel_ozellikler": [
+  "El ve beden becerisine sahip,",
+  "Dikkatli ve sorumluluk sahibi,",
+  "Fiziksel olarak dayanıklı,",
+  "Makine ve ekipan kullanımına ilgili,",
+  "El ve göz koordinasyonu gelişmiş,",
+  "Takım halinde çalışabilen,",
+  "İşçi sağlığı ve iş güvenliği kurallarına duyarlı,"
+ ],
+ "calisma_ortami": "Beton Boru Üretim Makinası Operatörü, genellikle hazır beton ve beton boru üretim tesislerinin fabrika/atölye bölümlerinde, kapalı mekanlarda çalışır. Çalışma ortamı tozlu, nemli ve gürültülü olabilir; ağır malzeme ve kalıplarla çalışıldığı için kaldırma-taşıma ve makine kaynaklı kazalara karşı dikkat gerektirir. Çalışma genellikle ayakta ve bazı işletmelerde vardiya usulü yürütülür.\n\nMeslek elemanı; vinç operatörü, demirci/kafes hazırlama işçisi, beton santral operatörü, bakım personeli, usta başı ve diğer üretim çalışanlarıyla sürekli iletişim halinde çalışır.",
+ "egitim": {
+  "verildigi_yerler": "Bu meslek için örgün eğitim sisteminde ayrı bir meslek lisesi alanı/dalı bulunmamaktadır. Beceriler genellikle işyerinde usta yanında çalışarak kazanılır. Ayrıca Halk Eğitim Merkezleri ile İŞKUR'un açtığı mesleki eğitim kurslarında ve mesleki eğitim merkezlerinin yapı/inşaat malzemeleri üretimine ilişkin temel programlarında ilgili beceriler desteklenebilir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "Çalışma mevzuatında belirtilen asgari yaşı doldurmuş olmak",
+   "Ağır işlerde çalışmaya ve fiziksel efor gerektiren görevlere uygun sağlık durumuna sahip olmak"
+  ],
+  "sure_ve_icerik": "Mesleğin resmî olarak tanımlanmış sabit bir eğitim süresi bulunmamaktadır. Yeni başlayanlar genellikle işbaşında, deneyimli bir operatör veya usta gözetiminde kalıp hazırlama, donatı yerleştirme, beton dökümü, presleme/vibrasyon ayarları ve kalite kontrol işlemlerini uygulamalı olarak öğrenir. Bu süreç işletmenin büyüklüğüne ve kullanılan makine teknolojisine göre birkaç haftadan birkaç aya kadar sürebilir. Kısa süreli kurslarda ise makine kullanımı, iş güvenliği ve temel üretim süreçleri teorik ve uygulamalı olarak anlatılır.",
+  "belge": "Katıldığı kurslardan kurs bitirme/katılım belgesi alabilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, varsa ilgili ulusal yeterlilik kapsamında alınabilir ve istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Beton Boru Üretim Makinası Operatörü; hazır beton ve prefabrik beton ürünler sanayiinde, içme suyu ve kanalizasyon hattı malzemesi üreten fabrikalarda, altyapı malzemesi imal eden işletmelerde ve inşaat malzemeleri üretim tesislerinde çalışabilir. Büyükşehir ve organize sanayi bölgelerinde bu tür üretim tesislerinin yoğunlaştığı görülmektedir.",
+ "kazanc": {
+  "egitim_suresince": "İşbaşında yetişme sürecinde çalışanlar genellikle çırak veya yardımcı eleman statüsünde, işyerinin uygulamasına göre asgari ücret düzeyinde veya daha düşük bir ücretle çalıştırılabilir. Kurs döneminde ise genellikle ücret söz konusu değildir.",
+  "egitim_sonrasi": [
+   "Göreve yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Deneyim, beceri, çalışılan işletmenin büyüklüğü ve sektörün ücret düzeyine göre kazanç artabilir.",
+   "Kamu kurumlarına bağlı işletmelerde işçi statüsünde çalışanların ücreti ilgili toplu iş sözleşmesi hükümlerine göre belirlenir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Resmî bir ilerleme basamağı (kalfalık-ustalık gibi) tanımlı değildir. Deneyim arttıkça ve katılınan kurslarla bilgi/beceri geliştirilerek daha karmaşık makinelerde ve farklı boru çaplarında çalışma yetkinliği kazanılabilir.",
+  "is_hayatinda": "Deneyim kazanan operatörler usta, vardiya sorumlusu veya üretim hattı sorumlusu gibi görevlere yükselebilir. Ayrıca makine bakım ve kalite kontrol gibi ilgili görevlere geçiş yapabilirler."
+ },
+ "benzer_meslekler": [
+  "Beton Parke Üretim Makinası Operatörü",
+  "Beton Baca Üretim Makinası Operatörü",
+  "Büz İmal İşçisi",
+  "Dökme Beton İmal İşçisi",
+  "Betoniyer Operatörü",
+  "Beton Santral Operatörü"
+ ],
+ "ek_bilgiler": "Bu meslekte ağır kalıp ve malzemelerle çalışma, kaldırma-taşıma ekipmanlarının kullanımı ve makine ile temas riski bulunduğundan işe alımlarda işletmeler sağlık durumu ve fiziksel uygunluk koşulu arayabilir.",
+ "gorevler": [
+  "Boru çapına uygun kalıpları ve donatı (demir) kafeslerini hazırlar,",
+  "Betonun kalıba dökülmesini ve presleme/vibrasyon ayarlarını yönetir,",
+  "Üretilen boruların pürüzsüzlüğünü ve ölçü doğruluğunu kontrol eder,",
+  "Boruların mühür (conta) yuvalarının formunu denetler,",
+  "Makine arızalarını izler ve üretim sahasını temiz tutar,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T10:54:30",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5197
+  }
+ }
+}

@@ -1,0 +1,78 @@
+{
+ "arac_gerec": [
+  "Bilgisayar ve sunucu sistemleri",
+  "Ağ anahtarlama (switch) ve yönlendirme (router) cihazları",
+  "Güvenlik duvarı (firewall) donanım ve yazılımları",
+  "Veritabanı yönetim sistemleri (SQL Server, MySQL, Oracle, PostgreSQL vb.)",
+  "Ağ izleme ve performans analiz yazılımları",
+  "Yedekleme ve veri kurtarma yazılım/donanımları",
+  "Kablolama ve ağ bağlantı ekipmanları",
+  "Sunucu işletim sistemleri ve yönetim araçları",
+  "Kesintisiz güç kaynağı (UPS) sistemleri",
+  "Uzaktan erişim ve izleme yazılımları",
+  "Dokümantasyon ve teknik raporlama araçları"
+ ],
+ "benzer_meslekler": [
+  "Veri Tabanı Yöneticisi",
+  "Veri Tabanı Mimarı",
+  "Bilgisayar Ağ ve Güvenliği Yöneticisi",
+  "Bilgisayar Sistemleri Yöneticisi",
+  "Ağ Teknolojileri ve Bilgi Güvenliği Uzmanı",
+  "Bilgisayar Ağı Analisti"
+ ],
+ "calisma_alanlari": "Ağ Veri Tabanı Yöneticileri; kamu kurumları ve özel sektör işletmelerinin bilgi işlem/bilgi teknolojileri birimlerinde çalışabilirler. Bankacılık ve finans, telekomünikasyon, e-ticaret, sağlık, eğitim, kamu yönetimi, lojistik, üretim ve hizmet sektörü başta olmak üzere, bilgisayar ağı ve veritabanı altyapısına ihtiyaç duyan hemen her kurum ve işletmede istihdam olanağı bulunmaktadır.\n\nDijitalleşmenin ve kurumların bilgi teknolojilerine bağımlılığının artması nedeniyle bu meslekte iş bulma olanağının zaman içinde genişlemesi beklenmektedir. Deneyim ve sahip olunan sertifikalar, iş bulma sürecinde önemli bir avantaj sağlamaktadır.",
+ "calisma_ortami": "Ağ Veri Tabanı Yöneticileri genellikle kapalı ortamlarda; sunucu odaları, veri merkezleri ve büro ortamında masa başında bilgisayar ekranı önünde çalışırlar. Çalışma sırasında sistemlerin kesintisiz işlemesini sağlamak amacıyla zaman zaman mesai saatleri dışında, gece veya hafta sonu bakım ve güncelleme çalışmaları yapmaları, ani arızalara hızlı müdahale etmeleri gerekebilir.\n\nGörevleri sırasında işletme/kurum içindeki diğer bilgi teknolojileri çalışanları, yöneticiler ve sistemi kullanan diğer personelle sürekli iletişim halinde çalışırlar. İş, genel olarak fiziksel açıdan ağır olmamakla birlikte, uzun süre ekran karşısında çalışma ve zaman zaman yoğun iş baskısı altında hızlı ve doğru karar verme gerekliliği söz konusudur.",
+ "egitim": {
+  "verildigi_yerler": "Bu mesleğin eğitimi; mesleki ve teknik eğitim veren ortaöğretim kurumlarının bilişim teknolojileri alanı bilgisayar ağları/veritabanı ile ilgili dallarında, üniversitelerin ön lisans düzeyindeki bilgisayar programcılığı ve ağ teknolojileri ile ilgili bölümlerinde, lisans düzeyinde ise bilgisayar mühendisliği, bilgisayar bilimleri, bilişim sistemleri mühendisliği gibi bölümlerde verilmektedir. Ayrıca Halk Eğitim Merkezleri ve İŞKUR tarafından açılan mesleki eğitim kursları ile özel eğitim kurumlarının düzenlediği ağ ve veritabanı yönetimine yönelik sertifika programları da bulunmaktadır.",
+  "giris_kosullari": [
+   "Ortaöğretim mezunu olmak (ilgili meslek lisesi/dengi okul mezuniyeti tercih sebebidir).",
+   "Ön lisans veya lisans düzeyinde eğitim almak isteyenlerin ilgili merkezi yerleştirme sınavlarıyla (YKS) uygun bölümlere yerleşmiş olmaları gerekir.",
+   "Kurs ve sertifika programlarına katılmak için ilgili kurumların belirlediği temel bilgisayar bilgisi gibi ön şartları taşımak."
+  ],
+  "sure_ve_icerik": "Eğitim programlarında; işletim sistemleri, bilgisayar ağları ve iletişim protokolleri, ağ cihazlarının yapılandırılması, veritabanı tasarımı ve yönetimi (ilişkisel veritabanı sistemleri ve SQL), sistem ve ağ güvenliği, sunucu yönetimi, yedekleme ve felaket kurtarma yöntemleri gibi konular yer alır. Eğitim süresi alınan eğitim düzeyine göre değişmekte olup; ortaöğretim düzeyinde dört yıl, ön lisans düzeyinde iki yıl, lisans düzeyinde dört yıl, kurs ve sertifika programlarında ise programın içeriğine bağlı olarak değişen sürelerde gerçekleşmektedir.",
+  "belge": "Eğitimi tamamlayanlara, aldıkları eğitimin düzeyine göre diploma (ortaöğretim, ön lisans veya lisans diploması) ya da kurs/sertifika programlarını başarıyla tamamlayanlara katılım belgesi verilir. Ayrıca, Mesleki Yeterlilik Kurumu (MYK) tarafından verilen ilgili alan belgeleri istihdamda tercih sebebi olabilir."
+ },
+ "ek_bilgiler": "Bu meslek, iş hayatında sıklıkla \"Veritabanı Yöneticisi (DBA)\" veya \"Ağ Yöneticisi\" unvanlarıyla da anılmaktadır. Dijitalleşmenin ve kurumsal bilgi teknolojileri altyapısına olan bağımlılığın artması, bu alandaki istihdam olanaklarının gelecekte de artmasını beklenir kılmaktadır.",
+ "genel_ozellikler": [
+  "Sayısal ve mantıksal düşünme yeteneğine sahip,",
+  "Dikkatli ve titiz,",
+  "Analitik düşünebilen ve problem çözme yeteneği gelişmiş,",
+  "Sorumluluk sahibi ve güvenilir,",
+  "Yeni teknolojileri öğrenmeye istekli ve kendini sürekli geliştiren,",
+  "Takım çalışmasına uygun,",
+  "Acil durumlarda sakin kalabilen ve hızlı karar verebilen,",
+  "İletişim becerisi gelişmiş,"
+ ],
+ "gorevler": [
+  "Kurumun bilgisayar ağlarını ve veritabanı sistemlerini kurar, yönetir ve sürekliliğini sağlar,",
+  "Ağ altyapısının güvenli, hızlı ve kesintisiz çalışmasını takip eder,",
+  "Veritabanlarının yedekleme, güncelleme ve bakım işlemlerini yürütür,",
+  "Kullanıcı erişim yetkilerini düzenler ve bilgi güvenliğini sağlar,",
+  "Sistem arızalarını, bağlantı sorunlarını ve performans problemlerini tespit edip çözer,",
+  "Sunucu, ağ cihazları ve veritabanı bileşenlerinin düzenli kontrolünü yapar,",
+  "Veri kaybını önlemeye yönelik tedbirler alır ve kurtarma süreçlerini uygular,",
+  "Yeni yazılım ve donanımların mevcut sisteme uyumunu değerlendirir,",
+  "Teknik raporlar hazırlar ve sistemlerin verimli çalışması için iyileştirme önerileri sunar,",
+  "Kurumun bilgi işlem altyapısının düzenli, güvenli ve verimli şekilde işlemesine katkı sağlar,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleki eğitimini tamamlayanlar, isterlerse ön lisanstan lisansa, lisanstan yüksek lisans ve doktora düzeyine geçerek bilgisayar ağları, veritabanı yönetimi veya bilgi güvenliği alanlarında uzmanlaşabilir; ulusal ve uluslararası sertifika programlarına katılarak bilgi ve becerilerini geliştirebilirler.",
+  "is_hayatinda": "Deneyim kazandıkça Kıdemli Veritabanı/Ağ Yöneticisi, Bilgi İşlem Şefi veya Müdürü, Bilgi Teknolojileri Direktörü gibi kademelere yükselebilir; işletmelerin bilgi teknolojileri birimlerinde yönetici pozisyonlarına geçebilirler."
+ },
+ "kazanc": {
+  "egitim_suresince": "Örgün eğitim kurumlarında (ortaöğretim, ön lisans, lisans) öğrenim görenler, koşulları taşımaları halinde Kredi ve Yurtlar Genel Müdürlüğünün burs ve kredi olanaklarından yararlanabilir. Kurs ve sertifika programlarına katılanlar genellikle bir ücret ödemez; bazı programlarda İŞKUR'un kursiyer harçlığı uygulamasından yararlanılabilir.",
+  "egitim_sonrasi": [
+   "Kamu kurum ve kuruluşlarında çalışanlar, 657 sayılı Devlet Memurları Kanunu'na veya bağlı oldukları diğer statülere göre ücret alır.",
+   "Özel sektörde yeni başlayanların kazancı genellikle asgari ücret düzeyinde olmakla birlikte, çalışılan işyerinin büyüklüğü, kişinin bilgi birikimi, deneyimi, sahip olduğu sertifikalar ve sektörün ücret düzeyine göre bu miktar artabilmektedir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T06:05:43",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 7514
+  }
+ }
+}

@@ -1,0 +1,85 @@
+{
+ "gorevler": [
+  "İş sağlığı ve güvenliği, yangın ve acil durum kurallarını uygular",
+  "Kalite yönetim sistemi ile ilgili faaliyetleri yürütür",
+  "İş organizasyonu yapar",
+  "Mekanik ve elektriksel sistem tasarımını yapar",
+  "Tasarlanacak sistemin elektriksel ve mekanik gereksinimlerini ve yerleşimini belirler",
+  "Elektriksel ve mekanik sistemin optimizasyonunu sağlar",
+  "Mekanik ve elektriksel alt sistem bileşenlerinin saha montajını yapar",
+  "Saha hazırlık çalışmaları ve denetimini yapar",
+  "Elektrik ve mekanik tasarım ile ilgili yasal prosedürleri uygular",
+  "Sistem kurulumunu yapar",
+  "Bağlantı ve sistem kontrollerini yapar",
+  "Sistem çıkışı ile mekanik ve elektriksel kontrol sınamasını yapar",
+  "Elektriksel ve mekanik denetim yapar",
+  "Sistemin çalışma altında denetimini yapar",
+  "Sistem güvenliğini sağlar",
+  "Bakım ve onarım işlemlerini gerçekleştirir",
+  "Mesleki gelişim faaliyetlerini yürütür"
+ ],
+ "arac_gerec": [
+  "Rüzgâr türbini kule, kanat (pala), göbek, jeneratör ve dişli kutusu gibi ana bileşenler",
+  "Vinç ve mobil kaldırma ekipmanları",
+  "Kule içi tırmanma ve yükseklikte çalışma ekipmanları (emniyet kemeri, halat, karabina)",
+  "Tork anahtarları ve çeşitli el aletleri (anahtar takımları, pense, tornavida vb.)",
+  "Ölçme ve kontrol cihazları (avometre, megommetre, termometre vb.)",
+  "Elektrik bağlantı kabloları ve klemensler",
+  "Hidrolik ve pnömatik el aletleri",
+  "Vinç, sepetli platform ve diğer taşıma-kaldırma araçları",
+  "SCADA/izleme ve kontrol yazılımları",
+  "Bilgisayar ve teknik çizim/dokümantasyon araçları",
+  "Kişisel koruyucu donanım (baret, emniyet kemeri, iş elbisesi, eldiven, kulaklık, çelik burunlu ayakkabı, gözlük)"
+ ],
+ "genel_ozellikler": [
+  "Yükseklikte çalışmaya engel bir durumu olmayan,",
+  "El ve beden becerisi gelişmiş,",
+  "Yoğun ve sürekli dikkat gerektiren işlere uygun,",
+  "Fiziksel olarak dayanıklı,",
+  "Ekip çalışmasına yatkın,",
+  "Sorumluluk duygusu yüksek,",
+  "Elektrik ve mekaniğe ilgili,",
+  "Acil ve riskli durumlarda soğukkanlı davranabilen,"
+ ],
+ "calisma_ortami": "Rüzgâr güç sistemi ustaları, büyük ölçüde açık havada ve rüzgâr türbinlerinin kurulduğu sahalarda; ayrıca türbin kulesi içinde ve kule tepesindeki nacelde (yüksekte) çalışırlar. Çalışma ortamı hava koşullarına (rüzgâr, soğuk, sıcak, yağış) açıktır; yükseklikte çalışma, elektrik çarpması ve hareketli mekanik parçalardan kaynaklanan iş kazası riskleri bulunur. Montaj ve bakım işleri sırasında vinç, kaldırma ekipmanları ve ağır parçalarla birlikte çalışılır.\n\nÇalışma saatleri işletmenin ve saha koşullarının gerektirdiği şekilde değişebilir; arıza ve bakım işlerinde vardiya veya çağrı usulü çalışma söz konusu olabilir. Meslek mensupları, saha ekibi, mühendisler ve amirleriyle sürekli iletişim ve koordinasyon içinde görev yapar.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin gerektirdiği minimum eğitim düzeyi ortaöğretimdir (lise ve dengi). Mesleki ve teknik ortaöğretim kurumlarının elektrik-elektronik teknolojisi ve yenilenebilir enerji teknolojileri ile ilgili alanlarından mezun olanlar, mesleğe temel bilgi ve beceriyle hazırlanabilir. Mesleğin uygulamaya yönelik asıl yetkinlikleri büyük ölçüde işletmelerde işbaşında, üstleri ve deneyimli ustalar nezaretinde, ayrıca Halk Eğitim Merkezleri ile İŞKUR'un açtığı mesleki eğitim kurslarında kazandırılır.",
+  "giris_kosullari": [
+   "Mesleki ve teknik ortaöğretim kurumlarına girişte ortaokulu tamamlamış olmak ve Millî Eğitim Bakanlığınca belirlenen alan/dal giriş koşullarını taşımak",
+   "Kurs programlarına katılım için genellikle ilköğretim/ortaöğretim mezunu olmak ve ilgili kurumun belirlediği yaş ve sağlık şartlarını taşımak",
+   "Yükseklikte çalışmaya engel teşkil edecek bir sağlık sorununun bulunmaması"
+  ],
+  "sure_ve_icerik": "Mesleki ve teknik ortaöğretimde eğitim süresi 4 yıl olup ilk yıllarda ortak genel kültür ve temel mesleki dersler, üst sınıflarda ise seçilen alan/dala özgü teorik ve uygulamalı dersler verilir. Okul eğitiminin ardından ya da bu eğitimi almamış kişiler için işletmelerde ustalar nezaretinde yürütülen uygulamalı eğitim ve kısa süreli mesleki eğitim kursları, rüzgâr türbini montajı, elektrik-mekanik bağlantılar, saha güvenliği ve yükseklikte çalışma konularını kapsar.",
+  "belge": "Mesleki ve teknik ortaöğretim kurumlarından mezun olanlara lise diploması verilir. Kurs programlarını tamamlayanlara katılım/başarı belgesi düzenlenir. Mesleki Yeterlilik Kurumu (MYK) tarafından düzenlenen Mesleki Yeterlilik Belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Rüzgâr güç sistemi ustaları, başta rüzgâr enerji santralleri (RES) işletmeciliği yapan özel şirketler olmak üzere, türbin üreticisi ve türbin montaj/bakım hizmeti veren firmalarda istihdam edilir. Ülkemizde yenilenebilir enerji yatırımlarının yoğunlaştığı rüzgâr kaynağı yüksek bölgelerde (özellikle Ege, Marmara ve bazı Akdeniz illeri) iş bulma olanakları daha fazladır. Meslekte yöresel farklılıklar görülmekte olup iş imkânları, bölgedeki kurulu rüzgâr santrali sayısına ve yeni yatırımlara bağlı olarak değişmektedir. Elektrik-elektronik alanındaki temel yetkinlikleri nedeniyle, iş bulunamadığı durumlarda elektrik tesisatçılığı gibi yakın alanlarda da istihdam edilebilirler.",
+ "kazanc": {
+  "egitim_suresince": "Mesleki ve teknik ortaöğretim kapsamında işletmelerde mesleki eğitim gören öğrencilere, 3308 sayılı Mesleki Eğitim Kanunu gereğince ilgili mevzuatla belirlenen oranlarda ücret ödenir; öğrencilerin iş kazası ve meslek hastalığı sigortası primleri devletçe karşılanır ve öğrenciler işletmenin sosyal imkânlarından yararlanabilir. Kurs yoluyla yetişenler için bu dönemde genellikle ücret söz konusu değildir.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanların kazancı genellikle asgari ücret düzeyindedir.",
+   "Deneyim, bilgi-beceri düzeyi ve işletmenin büyüklüğüne bağlı olarak kazanç zamanla artabilir.",
+   "Kamu kurumlarında istihdam edilenler için 657 sayılı Devlet Memurları Kanunu veya ilgili toplu iş sözleşmesi hükümleri geçerlidir; özel sektörde ücret işveren ile çalışan arasında karşılıklı olarak belirlenir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleki ve teknik ortaöğretim kurumlarının elektrik-elektronik teknolojisi veya yenilenebilir enerji teknolojileri alanlarından mezun olanlar, alanlarının devamı niteliğindeki önlisans ve lisans programlarına (elektrik-elektronik, enerji sistemleri mühendisliği ve benzeri) sınavla girebilir ve bazı programlarda ek puan avantajından yararlanabilirler.",
+  "is_hayatinda": "Deneyim ve bilgi birikimi arttıkça ekip lideri, usta başı, saha sorumlusu veya Rüzgâr Güç Sistemi Sorumlusu gibi daha üst sorumluluk gerektiren görevlere yükselebilirler."
+ },
+ "benzer_meslekler": [
+  "Rüzgâr Güç Sistemi Sorumlusu",
+  "Rüzgar Enerji Sistemleri Teknisyeni",
+  "Güneş Enerji Sistemleri Teknisyeni",
+  "Fotovoltaik Güç Sistemi Ustası",
+  "Fotovoltaik Güç Sistemi Sorumlusu",
+  "Yenilenebilir Enerji Teknolojileri Teknisyeni"
+ ],
+ "ek_bilgiler": "Mesleğin önemli bir bölümü yüksekte (türbin kulesi ve nacel içinde) yürütüldüğünden çalışanların yükseklikte çalışmaya uygun sağlık durumuna sahip olması ve düzenli sağlık kontrolünden geçmesi beklenir. Bu nedenle işe alımlarda ve çalışma sürecinde iş sağlığı ve güvenliği mevzuatına uygun eğitim ve belgelendirme (yükseklikte çalışma eğitimi, kişisel koruyucu donanım kullanımı) önem taşır. Yenilenebilir enerji yatırımlarındaki artış doğrultusunda bu meslek dalına olan talebin önümüzdeki dönemde artması beklenmektedir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T10:45:39",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6990
+  }
+ }
+}

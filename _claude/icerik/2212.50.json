@@ -1,0 +1,81 @@
+{
+ "gorevler": [
+  "Olay yeri incelemesi yapar.",
+  "Ölü muayenesi, kimlik tespiti ve yaş tayini yapar.",
+  "Otopsi hazırlığı yapar, otopsi uygular.",
+  "Adli patolojik muayene yapar.",
+  "Psikiyatrik adli tıp incelemeleri yapar.",
+  "DNA analizi, babalık tespiti gibi kimlik tespitine yönelik incelemeleri yapar.",
+  "Her türlü şiddet olgusu ve şüpheli ölüm olaylarının saptanmasına yönelik incelemeler yapar.",
+  "Trafik kazaları, meslek hastalıkları ve tıbbi uygulama hatalarıyla ilgili incelemeler yapar.",
+  "Zehirlenme ve alerjik reaksiyon olgularını inceler.",
+  "Adli belgeleri inceler.",
+  "Kriminalistik ve balistik incelemeler yapar.",
+  "Çocuk istismarı, kadına yönelik şiddet ve aile içi şiddet olgularını değerlendirir.",
+  "Mesleği alanındaki gelişmeleri takip eder ve uygular."
+ ],
+ "arac_gerec": [
+  "Otopsi masası ve ilgili otopsi ekipmanı",
+  "Bistüri, neşter, makas, pens gibi disseksiyon aletleri",
+  "Otopsi testeresi",
+  "Kişisel koruyucu donanım (eldiven, maske, gözlük, önlük)",
+  "Fotoğraf makinesi ve görüntü/kayıt cihazları",
+  "Ölçüm aletleri (cetvel, kumpas, tartı)",
+  "Numune alma ve saklama kapları",
+  "Mikroskop ve temel laboratuvar malzemeleri",
+  "Toksikoloji ve DNA analizine yönelik laboratuvar cihazları",
+  "Radyolojik görüntüleme cihazları (röntgen vb.)",
+  "Bilgisayar ve adli rapor/kayıt yazılımları",
+  "Olay yeri inceleme çantası ve malzemeleri"
+ ],
+ "genel_ozellikler": [
+  "Fen bilimlerine (biyoloji, kimya) ilgili ve bu alanlarda başarılı,",
+  "Dikkatli, gözlem gücü yüksek,",
+  "Analitik düşünebilen, olaylar arasında neden-sonuç ilişkisi kurabilen,",
+  "Sabırlı, soğukkanlı ve stresli ortamlarda çalışabilen,",
+  "Hijyen ve iş güvenliği kurallarına özen gösteren,",
+  "Etik değerlere bağlı, gizliliğe önem veren,",
+  "Yazılı ve sözlü anlatımı güçlü, raporlama becerisine sahip,",
+  "Mesleki yaşamı boyunca bilimsel gelişmeleri izleme sorumluluğu üstlenebilecek"
+ ],
+ "calisma_ortami": "Adli tıp uzmanları çoğunlukla Adli Tıp Kurumu birimlerinde, üniversite ve eğitim araştırma hastanelerinin adli tıp anabilim dalı/kliniklerinde, morg ve otopsi salonlarında, laboratuvarlarda çalışır; gerektiğinde olay yerinde de inceleme yapar. Çalışma ortamı zaman zaman biyolojik materyal, kimyasal madde ve kötü koku gibi unsurlar nedeniyle zorlayıcı olabilir; enfeksiyon riskine karşı kişisel koruyucu donanım kullanılması gerekir. Ölüm, şiddet ve travma ile sürekli yüzleşmek, mesleğin psikolojik açıdan yıpratıcı olabilen bir boyutudur.\n\nÇalışma saatleri genellikle düzensizdir; adli vakalar günün her saatinde ortaya çıkabildiğinden nöbet ve çağrı usulü çalışma söz konusudur. Meslek yaşamında savcılar, hakimler, avukatlar, kolluk kuvvetleri mensupları, diğer sağlık personeli ve bazen olay/ölüm ile ilgili aile bireyleriyle yoğun biçimde ilişki kurulur; mahkemelerde bilirkişi sıfatıyla ifade verme de görevin bir parçasıdır.",
+ "egitim": {
+  "verildigi_yerler": "Adli tıp uzmanı olabilmek için önce üniversitelerin tıp fakültelerinde 6 yıllık lisans eğitiminin tamamlanması gerekir. Tıp fakültesini bitirip tabip (pratisyen hekim) unvanı alanlar, Tıpta Uzmanlık Sınavı (TUS) ile üniversite hastaneleri, eğitim ve araştırma hastaneleri ile Adli Tıp Kurumu bünyesindeki adli tıp anabilim dalı/kliniklerine uzmanlık öğrencisi (asistan) olarak yerleşerek adli tıp uzmanlık eğitimi alırlar.",
+  "giris_kosullari": [
+   "Lise veya dengi okul mezunu olmak,",
+   "YKS (Yükseköğretim Kurumları Sınavı) sonucuna göre bir tıp fakültesine yerleşmek ve 6 yıllık tıp eğitimini başarıyla tamamlamak,",
+   "Tıpta Uzmanlık Sınavı'nda (TUS) adli tıp uzmanlık dalı için yeterli puanı alarak ilgili anabilim dalına veya kuruma yerleşmek."
+  ],
+  "sure_ve_icerik": "Tıp fakültesi eğitimi teorik ve uygulamalı olarak 6 yıl sürer; ilk yıllarda temel fen ve tıp bilimleri, insan anatomisi ve fizyolojisi dersleri, sonraki yıllarda klinik stajlar ve hasta başı eğitimler yer alır. Tıp fakültesi sonrasında TUS ile başlanan adli tıp uzmanlık eğitimi, ilgili mevzuatla belirlenen süre (genel olarak yaklaşık 4-5 yıl) boyunca devam eder. Bu dönemde olay yeri incelemesi, otopsi uygulamaları, adli patoloji, adli psikiyatri, toksikoloji, DNA/kimlik tespiti ve kriminalistik gibi konularda teorik ders ve uygulamalı eğitim verilir.",
+  "belge": "Tıp fakültesini tamamlayanlara tıp doktorluğu lisans diploması, uzmanlık eğitimini başarıyla tamamlayanlara ise 'Adli Tıp Uzmanı' unvanını gösteren uzmanlık belgesi verilir."
+ },
+ "calisma_alanlari": "Adli tıp uzmanları en çok Adliye Tıp Kurumu'nun merkez ve taşra birimlerinde, üniversitelerin tıp fakültelerine bağlı adli tıp anabilim dallarında, bazı büyük eğitim ve araştırma hastanelerinin adli tıp kliniklerinde görev alır. Yargı organlarına bilirkişilik hizmeti verdiklerinden görevleri mahkemeler ve savcılıklarla da yakından ilişkilidir.\n\nBu uzmanlık dalı sınırlı sayıda kadro/kontenjana sahip olduğundan istihdam büyük ölçüde kamu kurumlarında yoğunlaşır; özel sektörde doğrudan istihdam imkânı oldukça sınırlıdır, ancak zaman zaman özel bilirkişilik ve danışmanlık hizmeti verilebilmektedir. Akademik kariyer yapmak isteyenler üniversitelerde öğretim üyesi olarak da çalışabilir.",
+ "kazanc": {
+  "egitim_suresince": "Tıp fakültesi öğrencileri, Kredi ve Yurtlar Genel Müdürlüğü'nün öğrenim kredisi ve yurt imkânlarından, ayrıca çeşitli kurum/kuruluşların burslarından yararlanabilir. Uzmanlık eğitimi sırasında kamu kurumunda araştırma görevlisi/uzmanlık öğrencisi (asistan hekim) kadrosunda çalışıldığından 657 sayılı Devlet Memurları Kanunu'na tabi bir maaş ve ilgili döner sermaye ek ödemesi alınır.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında (Adli Tıp Kurumu, üniversite hastaneleri, Sağlık Bakanlığı'na bağlı kurumlar) çalışan adli tıp uzmanlarının özlük hakları 657 sayılı Devlet Memurları Kanunu'na göre belirlenir; uzman hekim kadro/unvanına bağlı maaşa ek olarak döner sermaye ödemesi gelire eklenir.",
+   "Üniversitede akademik kadroda (öğretim üyesi) çalışanların kazancı akademik unvan ve ilgili mevzuata göre değişir.",
+   "Özel sektörde bilirkişilik/danışmanlık hizmeti veren adli tıp uzmanlarının kazancı, hizmet verilen kurum, deneyim ve karşılıklı anlaşmaya göre değişkenlik gösterir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Tıp fakültesini bitiren hekimler TUS ile adli tıp uzmanlık eğitimine başlayabilir. Uzmanlık eğitimini tamamlayanlar isterlerse akademik kariyere yönelerek yardımcı doçentlik, doçentlik ve profesörlük basamaklarında ilerleyebilir. Adli tıp alanında yan dal uzmanlık imkânı sınırlıdır.",
+  "is_hayatinda": "Adli Tıp Kurumu bünyesinde çalışanlar kıdem ve performansa bağlı olarak grup başkanlığı, ihtisas kurulu üyeliği, bölge adli tıp birimi sorumluluğu gibi idari görevlere yükselebilir. Üniversitede görev yapanlar anabilim dalı başkanlığı, bölüm başkanlığı gibi akademik ve idari pozisyonlara ilerleyebilir. Deneyim arttıkça daha karmaşık ve önemli adli vakalarda bilirkişilik yapma sorumluluğu artar."
+ },
+ "benzer_meslekler": [
+  "Tıbbi Patoloji Uzmanı",
+  "Tıbbi Genetik Uzmanı",
+  "Psikiyatri Uzmanı (Psikiyatr)",
+  "Epidemiyolog",
+  "Diğer Uzman Tıp Doktorları"
+ ],
+ "ek_bilgiler": "Adli tıp, sınırlı sayıda uzmanlık kontenjanına sahip bir dal olduğundan istihdam büyük ölçüde kamu kurumlarında (Adli Tıp Kurumu, üniversiteler) yoğunlaşmaktadır. Otopsi ve olay yeri incelemesi gibi uygulamalar biyolojik materyal ve kimyasal maddelere maruziyet içerdiğinden iş sağlığı ve güvenliği önlemlerine titizlikle uyulması önem taşır. Görevin niteliği gereği yargı organlarına bilirkişilik yapıldığından tarafsızlık, gizlilik ve etik ilkelere bağlılık mesleğin temel gerekliliklerindendir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-07T22:45:32",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 8235
+  }
+ }
+}

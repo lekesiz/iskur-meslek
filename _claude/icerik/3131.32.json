@@ -1,0 +1,78 @@
+{
+ "arac_gerec": [
+  "Yakıt kabul ve besleme bantları (konveyörler)",
+  "Kırıcı/parçalayıcı makineler (shredder)",
+  "Eleme ve ayırma ekipmanları (elek, manyetik ayırıcı)",
+  "Tartım ve dozajlama sistemleri",
+  "Isı değeri ölçüm cihazı (kalorimetre)",
+  "Nem ölçüm cihazı",
+  "Yükleyici ve forklift gibi malzeme taşıma araçları",
+  "Depolama siloları/bunkerleri",
+  "PLC/SCADA kontrol panoları ve saha göstergeleri",
+  "Toz toplama ve havalandırma sistemleri",
+  "Yangın algılama ve söndürme sistemleri",
+  "Temel bakım-onarım el aletleri",
+  "Kişisel koruyucu donanım (baret, eldiven, toz maskesi, kulaklık, iş elbisesi, çelik burunlu ayakkabı)"
+ ],
+ "benzer_meslekler": [
+  "Enerji Üretim Tesisleri İşletme ve Bakım Onarımcısı",
+  "Atık Isıdan Enerji Üretim Tesisi Kumanda Operatörü",
+  "Atık Isıdan Enerji Üretim Tesisi Saha Elemanı",
+  "Termik Santral Kazan İşletme Operatörü",
+  "Biyogaz Sistemleri Personeli",
+  "Yenilenebilir Enerji Teknolojileri Teknisyeni"
+ ],
+ "calisma_alanlari": "Alternatif Yakıt Hazırlama Operatörleri genellikle alternatif yakıt (atıktan türetilmiş yakıt/RDF, lastik, biyokütle vb.) kullanan veya üreten tesislerde istihdam edilir. Başlıca çalışma alanları arasında çimento fabrikalarının alternatif yakıt hazırlama üniteleri, atık yönetimi ve geri dönüşüm tesisleri, atık ısıdan enerji üretim tesisleri ve benzer enerji üretim tesisleri sayılabilir. Meslek, özellikle çimento ve enerji sektöründe atıkların yakıt olarak değerlendirilmesine yönelik yatırımların arttığı bölgelerde daha fazla istihdam olanağı sunmaktadır.",
+ "calisma_ortami": "Alternatif Yakıt Hazırlama Operatörleri, yakıt hazırlama tesislerinin hem kapalı hacimlerinde (kumanda odası, depolama/işleme binaları) hem de açık saha alanlarında çalışır. Çalışma ortamında toz, koku, gürültü ve değişken sıcaklık gibi fiziksel koşullar söz konusudur; hareketli ekipmanlar, kırıcı makineler ve yanıcı/parlayıcı malzemelerle çalışma nedeniyle iş kazası ve yangın riski bulunabilir. Bu nedenle kişisel koruyucu donanım kullanımı ve iş sağlığı güvenliği kurallarına uyum önemlidir.\n\nÇalışma genellikle vardiya sistemiyle, gündüz ve gece saatlerini kapsayacak şekilde yürütülür. Operatör, görevleri sırasında birlikte çalıştığı yakıt hazırlama ekibi, vardiya amiri/sorumlu teknisyen ve bakım personeli ile sürekli iletişim halindedir.",
+ "egitim": {
+  "verildigi_yerler": "Bu meslek için Milli Eğitim Bakanlığı tarafından tanımlanmış, doğrudan bu mesleğe yönelik bir alan/dal bulunmamaktadır. Meslek elemanları genellikle ortaöğretim (lise ve dengi) mezuniyeti sonrasında ilgili tesislerde işbaşında eğitim yoluyla yetişir. Enerji, kimya teknolojisi, çevre koruma gibi mesleki ve teknik eğitim programlarından mezun olmak ya da Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kursları, bu mesleğe geçişte destekleyici olabilir.",
+  "giris_kosullari": [
+   "En az ortaöğretim (lise ve dengi) mezunu olmak",
+   "İşletmenin belirlediği fiziksel ve sağlık şartlarını taşımak",
+   "Tercihen enerji, kimya, çevre, elektrik-elektronik veya makine ile ilgili mesleki ve teknik eğitim almış olmak"
+  ],
+  "sure_ve_icerik": "Mesleğe özgü standart ve resmi bir eğitim süresi tanımlı değildir. İşe yeni başlayanlar, tesiste deneyimli bir operatör veya usta nezaretinde işbaşı eğitimi alır. Bu eğitim sürecinde iş sağlığı ve güvenliği ile çevre koruma kuralları, yakıt kabul ve depolama işlemleri, yakıtın işlemeye hazırlanması, yakıt kalitesinin kontrolü ve yakıt hazırlama sistemlerinin bakım onarımı konularında bilgi ve beceri kazandırılır.",
+  "belge": "Mesleğe özgü standart bir diploma veya sertifika programı bulunmamaktadır. İşletme içi eğitimlere katılım belgeleri verilebilir; ayrıca Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "ek_bilgiler": "Bu meslek daha çok çimento fabrikalarının alternatif yakıt üniteleri ile atık yönetimi/enerji üretim tesislerinde uygulama alanı bulmaktadır. Çalışma koşulları işlenen atık/yakıt türüne göre (toz, koku, yanıcı malzeme) değişebileceğinden iş sağlığı ve güvenliği kurallarına uyum büyük önem taşır.",
+ "genel_ozellikler": [
+  "Dikkatli ve tedbirli,",
+  "Sorumluluk duygusu gelişmiş,",
+  "Fiziksel olarak dayanıklı,",
+  "El ve beden becerisine sahip,",
+  "Makine ve ekipman kullanımına yatkın,",
+  "Takım çalışmasına uygun,",
+  "İş sağlığı ve güvenliği kurallarına duyarlı,",
+  "Hızlı ve doğru karar verebilen,"
+ ],
+ "gorevler": [
+  "İş sağlığı ve güvenliği (İSG) ile çevre koruma önlemlerini uygular.",
+  "İş organizasyonunu yapar.",
+  "Yakıt kalitesini kontrol eder.",
+  "Malzeme ve ürünün kabul ve depolama işlemlerini yürütür.",
+  "Alternatif yakıtı işlemeye hazırlar.",
+  "Yakıtın ısı değerini artırıcı işlemler yapar, paçal hazırlar, katı malzemeyi parçalar, fire malzemeyi ayırır ve işlenmiş yakıtı fırına veya stok alanına sevk eder.",
+  "Yakıt hazırlama sistemlerinin bakım onarımını yapar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Bu mesleğin doğrudan devamı niteliğinde örgün bir yükseköğretim programı tanımlı değildir. İlgilenenler kimya teknolojisi, çevre, enerji sistemleri veya makine alanlarındaki ön lisans/lisans programlarına yönelerek bilgi ve becerilerini geliştirebilir.",
+  "is_hayatinda": "Deneyim ve performansa bağlı olarak operatörler ekip lideri, vardiya amiri veya sorumlu teknisyen gibi görevlere yükselebilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Mesleğe yönelik örgün ve standart bir mesleki eğitim programı bulunmadığından, bu mesleğe işe yeni başlayanlar genellikle doğrudan işletmede çalışan statüsünde istihdam edilir ve yürürlükteki asgari ücret düzeyinde ücretlendirilir.",
+  "egitim_sonrasi": [
+   "İlk işe girişte ücretler genellikle asgari ücret düzeyinde olur.",
+   "Deneyim, işletmenin büyüklüğü ve faaliyet gösterilen sektöre (çimento, enerji, atık yönetimi) bağlı olarak ücretler değişkenlik gösterebilir.",
+   "Özel sektörde ücret işveren ile çalışan arasında karşılıklı olarak belirlenir; kamuya bağlı tesislerde çalışanlar 657 sayılı Kanun veya ilgili toplu iş sözleşmesi hükümlerine tabi olabilir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T10:53:12",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 7381
+  }
+ }
+}

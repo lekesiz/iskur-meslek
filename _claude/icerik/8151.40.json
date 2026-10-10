@@ -1,0 +1,75 @@
+{
+ "arac_gerec": [
+  "Cağlık (bobin besleme ünitesi)",
+  "İplik bobinleri",
+  "İplik rehberleri (kılavuzlar)",
+  "Şişirme fırını (ısıl işlem ünitesi)",
+  "Baraba (tambur)",
+  "Patron (koni/bobin kovanı)",
+  "İplik düğümleme/bağlama aparatları",
+  "Makine kontrol paneli",
+  "Temizlik malzemeleri ve el aletleri",
+  "Kişisel koruyucu donanım (eldiven, iş elbisesi vb.)"
+ ],
+ "genel_ozellikler": [
+  "El becerisine sahip,",
+  "Göz ve elini eşgüdümle kullanabilen,",
+  "Dikkatli ve sabırlı,",
+  "Vücut koordinasyonu iyi olan,",
+  "Monoton ve tekrarlı işlerde çalışmaya uyumlu,",
+  "Fiziksel olarak dayanıklı,",
+  "Yönergelere uygun çalışabilen,",
+  "Sorumluluk sahibi,"
+ ],
+ "calisma_ortami": "Şişirmeciler (İplik), iplik üretimi yapan tekstil fabrikalarının HB (high-bulk) iplik şişirme bölümlerinde çalışır. Çalışma ortamı kapalı mekandır; makine gürültüsü, fırın nedeniyle yükselen sıcaklık ve havada asılı lif tozu çalışma koşulları arasında sayılabilir. İş genellikle ayakta ve makine başında, bazen vardiyalı sistemde sürdürülür.\n\nŞişirmeciler çalışırken ağırlıklı olarak makine ve iplikle ilgilenir; bunun yanında ustabaşı, vardiya amiri, kalite kontrol personeli ve diğer makine operatörleri ile iş birliği içinde bulunur.",
+ "gorevler": [
+  "Bobini kontrol eder,",
+  "Bobini cağlığa takar,",
+  "Yeni taktığı bobinin ucunu çalışan ipliğe düğümler,",
+  "İpliği iplik rehberlerinden geçirir,",
+  "Fırından geçen ipliğin şişme oranını kontrol eder,",
+  "Fırından çıkan ipliği barabana bağlayarak patrona rezerve yapar,",
+  "Makinenin temizliğini yapar,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Şişirmeci (İplik) mesleğine özgü, Milli Eğitim Bakanlığı tarafından belirlenmiş ayrı bir okul programı bulunmamaktadır. Meslek genellikle iplik/tekstil fabrikalarında işbaşında, usta yanında uygulamalı olarak öğrenilir. Ayrıca Halk Eğitim Merkezleri ve İŞKUR tarafından açılan tekstil/iplik üretimine yönelik mesleki eğitim kursları da bu alana temel oluşturabilir. Mesleki ve teknik eğitim veren okulların tekstil teknolojisi alanı, mesleğe hazırlık açısından yararlı olabilir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak (mesleğin gerektirdiği minimum eğitim düzeyi ilköğretimdir),",
+   "Ayakta ve uzun süreli çalışmaya, vardiyalı çalışma düzenine fiziksel olarak uygun olmak,",
+   "Katılınacak kurslara ilişkin genel koşullar (yaş, 18 yaşından küçükler için veli izni vb.) kurumlarca belirlenir."
+  ],
+  "sure_ve_icerik": "İşbaşı eğitiminin süresi işletmeden işletmeye değişmekte olup, iplik üretim süreci, HB iplik şişirme (hacim kazandırma) işleminin aşamaları, makinenin çalıştırılması ve ayarlanması, iplik bağlama/düğümleme teknikleri, makine bakım-temizliği ile iş sağlığı ve güvenliği konuları uygulamalı olarak öğretilir.",
+  "belge": "Katılınan bir kurs varsa 'Kurs Bitirme Belgesi' verilir; işbaşında kazanılan yeterlilik için genellikle işyeri tarafından düzenlenen bir belge ya da deneyim süresi esas alınır. Mesleki Yeterlilik Kurumu (MYK) tarafından ilgili alanda bir ulusal yeterlilik belgesi bulunması hâlinde bu belgeye sahip olmak istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Şişirmeciler (İplik), HB (high-bulk) iplik üreten tekstil/iplik fabrikalarının şişirme ve tekstüre bölümlerinde istihdam edilir. Meslek, kamu kurumlarında istihdam olanağı sunmamaktadır; istihdam özel sektördeki iplik üretim tesislerinde gerçekleşir. Tekstil sanayinin yoğun olduğu bölgelerdeki iplik fabrikalarında iş bulma olanağı daha fazladır. Deneyim kazanan kişiler aynı işletmede farklı iplik işleme makinelerinde de çalışabilir.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğin eğitimi genellikle işbaşında usta yanında verildiğinden, bu dönemde çalışana işletmenin belirlediği, genellikle asgari ücret düzeyinde veya bu düzeyin altında bir ödeme yapılabilir.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanların kazancı genellikle asgari ücret düzeyindedir.",
+   "Deneyim, bilgi düzeyi ve işletmedeki konuma (vardiya, fazla mesai vb.) bağlı olarak ücret artabilir.",
+   "Özel sektörde ücret, işveren ile çalışan arasındaki anlaşmaya, işletmenin büyüklüğüne ve çalışma koşullarına göre değişiklik gösterir. İşçi statüsünde çalışanlar için toplu iş sözleşmesi hükümleri geçerli olabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "İşletmenin yapısına ve büyüklüğüne göre, çalışanlara iplik üretiminin farklı aşamalarına (tekstüre, bobin sarma, kurutma vb.) yönelik hizmet içi eğitimler verilebilir; bu sayede çalışan farklı makine ve süreçlerde görev alabilir.",
+  "is_hayatinda": "Deneyim ve performansa bağlı olarak çalışan, vardiya sorumlusu, usta veya bölüm şefi gibi görevlere yükselebilir. İlgili alanda bilgi ve beceri geliştirerek iplik üretiminin diğer kademelerinde (tekstüre, eğirme, kurutma gibi) de çalışabilir."
+ },
+ "benzer_meslekler": [
+  "Tekstüre İplik Üretim Makinesi Operatörü",
+  "Bobin Sarıcı (Mensucat)",
+  "Bobin Makinesi Operatörü",
+  "Kurutmacı (İplik)",
+  "İplik Bitim İşleri Operatörü",
+  "Filament İplik Üretim İşçisi"
+ ],
+ "ek_bilgiler": "Şişirme işlemi sırasında kullanılan fırın ve sıcak yüzeyler nedeniyle çalışanların iş sağlığı ve güvenliği kurallarına, kişisel koruyucu donanım kullanımına özellikle dikkat etmesi gerekir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T13:34:51",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5484
+  }
+ }
+}

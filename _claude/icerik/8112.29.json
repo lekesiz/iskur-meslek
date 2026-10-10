@@ -1,0 +1,70 @@
+{
+ "arac_gerec": [
+  "Çözelti karıştırma tankları ve mikserler",
+  "Hassas tartı/terazi",
+  "pH metre ve ölçüm cihazları",
+  "Besleme pompaları, vana ve hortumlar",
+  "Ölçüm kapları, kova, kürek",
+  "Kişisel koruyucu donanım (eldiven, gözlük, maske, çizme, iş elbisesi)",
+  "Kimyasal depolama ve taşıma kapları",
+  "Temizlik malzemeleri ve ekipmanları",
+  "Vardiya rapor formları",
+  "Reaktif stok ve envanter kayıt defterleri"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve tedbirli,",
+  "Kimyasal maddelerle çalışmaya uygun sağlık durumuna sahip,",
+  "Fiziksel olarak dayanıklı,",
+  "Sorumluluk sahibi,",
+  "Talimat ve kurallara uyan,",
+  "Ekip çalışmasına yatkın,",
+  "Temiz ve düzenli çalışmaya özen gösteren,"
+ ],
+ "calisma_ortami": "Reaktif Hazırlayıcı, maden ve mineral işleme tesislerinin reaktifhane bölümünde, genellikle kapalı mekanda çalışır. Çalışma ortamı kimyasal madde kokusu, nem, bazen gürültü gibi unsurlar içerebilir; kullanılan kimyasalların türüne göre solunum, cilt ve göz sağlığına yönelik riskler bulunabileceğinden kişisel koruyucu donanım kullanımı ve iş güvenliği kurallarına uyum büyük önem taşır.\n\nTesisin çalışma düzenine göre vardiyalı çalışabilir, ayakta ve bazen fiziksel güç gerektiren işler yapabilir. Çalışma sırasında tesis operatörleri, vardiya amirleri, laboratuvar personeli ve iş güvenliği uzmanlarıyla iş birliği içinde bulunur.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin örgün bir okul eğitimi bulunmamaktadır. Genellikle işbaşında usta yanında yetişme yoluyla veya Halk Eğitim Merkezleri ile İŞKUR'un açtığı mesleki eğitim kurslarında kazanılmaktadır.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak.",
+   "İşin gerektirdiği fiziksel koşullara ve kimyasallarla çalışmaya uygun sağlık durumuna sahip olmak."
+  ],
+  "sure_ve_icerik": "Kurs süreleri düzenleyen kuruma göre değişmekle birlikte genellikle kısa sürelidir. İçerikte reaktif ve kimyasal çözelti hazırlama teknikleri, iş sağlığı ve güvenliği kuralları, kişisel koruyucu donanım kullanımı ve temel tesis bilgileri yer alır. Beceriler çoğunlukla işbaşında usta yanında uygulamalı olarak da geliştirilir.",
+  "belge": "Kurs bitirme belgesi veya katılım sertifikası verilmektedir."
+ },
+ "calisma_alanlari": "Reaktif Hazırlayıcılar başta madencilik olmak üzere cevher zenginleştirme, flotasyon ve mineral işleme tesislerinde çalışabilirler. İstihdam olanakları, madencilik faaliyetlerinin yoğun olduğu bölgelerdeki büyük ve orta ölçekli maden işletmelerinde ve işleme tesislerinde daha fazladır.",
+ "kazanc": {
+  "egitim_suresince": "Kurs yoluyla eğitim alınması durumunda genellikle bir kazanç söz konusu değildir. İşbaşında usta yanında yetişme sürecinde ise işletme politikasına göre değişen bir ücret ödenebilir.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Kazanç; deneyim, çalışılan işletmenin büyüklüğü, vardiya ve fazla çalışma durumuna göre artış gösterebilir.",
+   "Kamu kuruluşlarında çalışanlar için 657 sayılı Devlet Memurları Kanunu veya ilgili toplu iş sözleşmesi hükümleri, özel sektörde ise işveren ile çalışan arasındaki anlaşma koşulları geçerlidir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğe yönelik kademeli bir eğitim ilerleme basamağı bulunmamaktadır. İlgili kurslara katılım ve işbaşı eğitimlerle bilgi ve beceriler geliştirilebilir.",
+  "is_hayatinda": "Deneyim, bilgi birikimi ve yeteneklerine göre ustalık, ekip/vardiya sorumluluğu veya tesis operatörlüğü gibi görevlere yükselebilirler."
+ },
+ "benzer_meslekler": [
+  "Kimyasal Cevher Zenginleştirme Operatörü",
+  "Mekanik(Fiziksel) Cevher Zenginleştirme Operatörü",
+  "Siyanür Cihazı Operatörü (Cevher İşleme)",
+  "Yüzdürme İşletme Operatörü-Maden",
+  "Öğütme Tesisi Operatörü-Madencilik",
+  "Değirmen İşçisi (Maden)"
+ ],
+ "ek_bilgiler": "Mesleğin icrası sırasında kullanılan kimyasal maddelerin niteliğine bağlı olarak işin tehlikeli veya çok tehlikeli işler sınıfında değerlendirilebileceği göz önünde bulundurulmalıdır; bu kapsamdaki işletmelerde Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir veya mevzuat gereği aranabilir. Kesin bilgi için çalışılacak işyerinin ve güncel mevzuatın kontrol edilmesi önerilir.",
+ "gorevler": [
+  "İş organizasyonu yapar.",
+  "Reaktif çözeltisi hazırlama öncesi işlemleri yapar (çözelti tanklarını kontrol eder, reaktif kontrolü yapar, reaktifhaneyi kontrol eder).",
+  "Reaktif çözeltisi hazırlar (reaktif çözeltisini karıştırır, reaktif çözeltisini besleme tankına aktarır).",
+  "Reaktif çözeltisi hazırlama sonrası işlemleri yapar (reaktifhanenin temizliğini yapar, vardiya raporu hazırlar).",
+  "Mesleki gelişim faaliyetlerine katılır."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T10:32:07",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 4492
+  }
+ }
+}

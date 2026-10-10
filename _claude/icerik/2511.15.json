@@ -1,0 +1,85 @@
+{
+ "gorevler": [
+  "İş planlaması yapar.",
+  "Faaliyetler için yazılım, donanım ve ekipman temin eder.",
+  "Yapılan işlerin kaydını tutar.",
+  "Dijital arşivleme yapar.",
+  "Çalışma alanının düzenini takip eder.",
+  "Verinin organize edilmesine yönelik yöntemleri araştırır.",
+  "Modelin kurgulanacağı veri setinin önişleme tabi tutulmasına katkı sağlar.",
+  "Verideki dengesizlik, eksik ve uç değerlere yönelik uygun işlemin yapılmasına katkı sağlar.",
+  "Veri etiketlerini kontrol eder.",
+  "Modelin belirlenmesine katkı sağlar.",
+  "Ön eğitimli modelin probleme uyarlanmasına destek olur.",
+  "Model oluşturulmasına katkı sağlar.",
+  "Modelin overfitting (ezberleme) yapmasının engellenmesine katkı sağlar.",
+  "Model seçimi yapılmasına katkı sunar.",
+  "Model hata analizinin yapılmasına destek olur.",
+  "Kendisinin ve başkalarının mesleki gelişimi konusunda çalışmalar yapar."
+ ],
+ "arac_gerec": [
+  "Bilgisayar donanımı",
+  "Programlama dilleri ve geliştirme ortamları (Python, R vb.)",
+  "Yapay zeka ve makine öğrenmesi kütüphaneleri (TensorFlow, PyTorch, scikit-learn vb.)",
+  "Veri işleme, temizleme ve analiz araçları",
+  "Veri tabanı yönetim sistemleri",
+  "Bulut bilişim platformları",
+  "Versiyon kontrol sistemleri (Git vb.)",
+  "Grafik işlemci (GPU) destekli iş istasyonları/sunucular",
+  "Entegre geliştirme ortamları (IDE)",
+  "Model izleme ve deney takip araçları",
+  "Dokümantasyon ve proje yönetim yazılımları",
+  "Büro yazılımları ve donanımları"
+ ],
+ "genel_ozellikler": [
+  "Matematik ve istatistiğe ilgili ve bu alanda yetkin,",
+  "Analitik düşünme ve problem çözme yeteneğine sahip,",
+  "Mantıksal çıkarım yapabilen,",
+  "Dikkatli ve sabırlı,",
+  "Yeni teknolojileri takip etmeye istekli,",
+  "Ekip çalışmasına uyumlu,",
+  "Sürekli öğrenmeye ve kendini geliştirmeye açık,",
+  "Sorumluluk sahibi"
+ ],
+ "calisma_ortami": "Bu meslekte kişiler genellikle büro/ofis ortamında, bilgisayar başında oturarak çalışır; işin niteliğine göre uzaktan çalışma da mümkündür. Çalışma sırasında veri bilimcileri, yazılım geliştiricileri, sistem analistleri ve ilgili diğer proje ekibi üyeleriyle sıkı iletişim kurar.\n\nÇalışma ortamı genellikle sessiz ve kapalı bir ofis niteliğindedir; uzun süre ekran karşısında kalmaya bağlı göz ve bilek yorgunluğu görülebilir. Çalışma saatleri çoğunlukla düzenli mesai şeklindedir; ancak proje teslim tarihlerine yaklaşıldığında yoğun çalışma ve gerektiğinde ek mesai söz konusu olabilir.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğe yönelik temel eğitim, üniversitelerin bilgisayar mühendisliği, yazılım mühendisliği, bilgisayar bilimleri, elektrik-elektronik mühendisliği ve benzeri bilişim/mühendislik bölümlerinde lisans düzeyinde verilmektedir. Yapay zekaya özgü bilgi ve beceriler bu bölümlerdeki ilgili ders ve seçmeli programlarla; ayrıca üniversitelerin yapay zeka, veri bilimi veya makine öğrenmesi alanındaki lisansüstü programlarıyla, üniversitelerin sürekli eğitim merkezleri ile çeşitli kurum ve kuruluşlarca düzenlenen sertifika programları ve kurslarla desteklenmektedir.",
+  "giris_kosullari": [
+   "Lise veya dengi okul mezunu olmak,",
+   "YKS (Yükseköğretim Kurumları Sınavı) kılavuzunda ilgili mühendislik/bilişim lisans programları için belirtilen giriş koşullarını taşımak,",
+   "Meslek yüksekokulu veya açıköğretim önlisans programı mezunlarının Dikey Geçiş Sınavı (DGS) ile ilgili lisans programlarına geçiş yapabilmesi."
+  ],
+  "sure_ve_icerik": "Lisans eğitiminin süresi genellikle 4 yıldır. Eğitim süresince matematik, istatistik, algoritmalar ve programlama, veri yapıları, veri tabanları, makine öğrenmesi, derin öğrenme, veri madenciliği ve yapay zekanın temelleri gibi dersler okutulmaktadır. Yapay zeka alanında uzmanlaşmak isteyenler, lisans eğitiminin yanı sıra ilgili yüksek lisans/doktora programlarına veya sertifika ve kurs programlarına yönelebilmektedir.",
+  "belge": "Lisans eğitimini başarıyla tamamlayanlara diploma; katılınan sertifika veya kurs programları sonunda ise katılım ya da başarı belgesi verilir."
+ },
+ "calisma_alanlari": "Bu mesleğin mensupları; bilişim ve yazılım şirketlerinde, yapay zeka ve veri bilimi odaklı Ar-Ge merkezlerinde, bankacılık ve finans kuruluşlarında, e-ticaret ve perakende şirketlerinde, sağlık, üretim, lojistik, telekomünikasyon ve enerji gibi sektörlerin bilgi işlem/dijital dönüşüm birimlerinde, kamu kurumlarının bilgi işlem daire başkanlıklarında, üniversite ve araştırma kurumlarının Ar-Ge birimlerinde istihdam edilebilmektedir.\n\nYapay zeka uygulamalarına olan talebin hızla artması nedeniyle bu alanda nitelikli işgücüne duyulan ihtiyaç da artmaktadır; bu durum mesleğin iş bulma olanaklarını olumlu yönde desteklemektedir.",
+ "kazanc": {
+  "egitim_suresince": "Lisans eğitimi süresince öğrenciler Kredi ve Yurtlar Genel Müdürlüğünün sağladığı öğrenim kredisi ve yurt hizmetlerinden, ayrıca çeşitli resmi ve özel kurum/kuruluşların burslarından yararlanabilir. İstek ve donanımına göre staj yaparak veya yarı zamanlı projelerde çalışarak da deneyim ve gelir elde edebilirler.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında çalışanlar, 657 sayılı Devlet Memurları Kanunu'na göre unvan ve derecelerine uygun maaş ve yan ödeme alır.",
+   "Özel sektörde ücret; çalışılan kurumun büyüklüğü, kişinin deneyimi, uzmanlık alanı ve pazarlık gücüne göre değişmekle birlikte, mesleğe yeni başlayanlarda genellikle asgari ücret düzeyinin üzerinde seyretmektedir.",
+   "Deneyim ve uzmanlaşma arttıkça kazanç düzeyi de yükselmektedir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Yüksek lisans ve doktora yaparak akademik kariyere yönelebilir; araştırma görevlisi, öğretim üyesi olarak çalışabilir. Ayrıca doğal dil işleme, bilgisayarlı görü, pekiştirmeli öğrenme gibi yapay zeka alt alanlarında uzmanlaşabilir.",
+  "is_hayatinda": "Deneyim kazandıkça kıdemli yapay zeka/makine öğrenmesi mühendisi, veri bilimi ekip lideri, proje yöneticisi veya yapay zeka danışmanı gibi pozisyonlara yükselebilir."
+ },
+ "benzer_meslekler": [
+  "Yapay Zeka Mühendisi",
+  "Yapay Zekâ ve Veri Mühendisi",
+  "Yapay Zeka Sistem Analisti",
+  "Yazılım Mühendisi",
+  "Bilgisayar Mühendisi",
+  "Bilgisayar Programcısı"
+ ],
+ "ek_bilgiler": "Yapay zeka alanı hızla gelişmekte olduğundan, bu meslekte çalışacak kişilerin bilgi ve becerilerini sürekli güncellemesi, yeni araç, yöntem ve modelleri takip etmesi önemlidir. Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda tercih sebebi olabilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T05:53:23",
+  "usage": {
+   "input_tokens": 4,
+   "output_tokens": 7046
+  }
+ }
+}

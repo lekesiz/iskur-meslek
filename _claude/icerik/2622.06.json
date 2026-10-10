@@ -1,0 +1,79 @@
+{
+ "arac_gerec": [
+  "Bilgisayar ve kütüphane otomasyon sistemi",
+  "Barkod okuyucu",
+  "Üyelik/kullanıcı kayıt sistemi",
+  "Katalog tarama terminalleri",
+  "Kitap ve süreli yayınlar",
+  "Görsel-işitsel materyaller (CD, DVD vb.)",
+  "Mikrofiş/mikrofilm okuma cihazları (varsa)",
+  "Fotokopi ve tarayıcı cihazları",
+  "Ödünç verme-iade yazılımı",
+  "Telefon ve e-posta iletişim araçları",
+  "Kütüphaneler arası ödünç verme (ILL) sistemleri",
+  "Çevrimiçi bilgi kaynağı ve veritabanı erişim araçları",
+  "Raf etiketleme ve yerleşim ekipmanları"
+ ],
+ "benzer_meslekler": [
+  "Kütüphaneci",
+  "Kütüphaneci (Aksesyon /derleme Hizmetleri)",
+  "Kütüphaneci (Kataloglama-Sınıflama Hizmetleri)",
+  "Bilgi ve Belge Yöneticisi",
+  "Diğer Kütüphaneciler ve Sorumluları",
+  "Arşivci"
+ ],
+ "calisma_alanlari": "Kütüphaneci (Okuyucu Hizmetleri), Milli Kütüphane, halk kütüphaneleri, üniversite ve okul kütüphaneleri, kamu kurumlarına bağlı kurum kütüphaneleri, özel sektör kütüphaneleri ile dokümantasyon ve bilgi merkezlerinde çalışma imkânı bulur.\\n\\nKamu kurumlarında kütüphaneci kadrosuna atanma genellikle KPSS sonucuna göre yapılan merkezi veya kurumsal yerleştirmelerle gerçekleşir. Özel kuruluşlarda ve vakıf üniversitelerinde ise işe alım, kurumun kendi başvuru ve mülakat süreçleriyle yürütülür.",
+ "calisma_ortami": "Kütüphaneci (Okuyucu Hizmetleri), kütüphanenin danışma ve okuyucu hizmetleri bölümü gibi kapalı, düzenli ve genellikle sessiz bir ortamda görev yapar. Çalışma, çoğunlukla masa başında ve banko/danışma kısmında ayakta geçen süreleri de içerir; gün içinde kullanıcılarla, diğer kütüphane personeliyle, okul ve kurum temsilcileriyle sürekli yüz yüze veya telefon/e-posta yoluyla iletişim kurar.\\n\\nÇalışma saatleri genellikle kütüphanenin hizmet verdiği saatlere bağlıdır; bazı kurumlarda vardiyalı çalışma veya hafta sonu mesaisi gerekebilir. İş, bilgisayar ve kütüphane otomasyon sistemleriyle sürekli temas halinde, fiziksel olarak ağır olmayan ancak dikkat ve sürekli etkileşim gerektiren bir nitelik taşır.",
+ "ek_bilgiler": "Kamu kurumlarında kütüphaneci olarak istihdam genellikle KPSS sonuçlarına göre yapılan başvuru ve yerleştirme süreçleriyle gerçekleşir; ilan edilen kadro şartları kurumdan kuruma değişebilir. Dijitalleşme ve elektronik bilgi kaynaklarının artmasıyla birlikte meslekte bilgi teknolojileri kullanım becerisinin önemi giderek artmaktadır.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi, üniversitelerin Bilgi ve Belge Yönetimi bölümlerinde lisans düzeyinde verilmektedir.",
+  "giris_kosullari": [
+   "Lise veya dengi okul mezunu olmak",
+   "YKS (Yükseköğretim Kurumları Sınavı) sonucuna göre ilgili lisans programına yerleşmek"
+  ],
+  "sure_ve_icerik": "Eğitim süresi 4 yıldır. Eğitim süresince bilgi kaynaklarının düzenlenmesi ve sınıflandırılması, kataloglama, bilgi hizmetleri ve kullanıcı hizmetleri, arşivcilik, bilgi teknolojileri ve veritabanı yönetimi gibi mesleki dersler okutulur; bazı programlarda öğrencilerden staj yapmaları istenir.",
+  "belge": "Bilgi ve Belge Yönetimi lisans diploması"
+ },
+ "genel_ozellikler": [
+  "İnsanlarla iyi iletişim kurabilen,",
+  "Okumaktan, araştırmaktan ve bilgi paylaşmaktan hoşlanan,",
+  "Güler yüzlü, yardımsever ve hoşgörülü,",
+  "Sabırlı ve dikkatli,",
+  "Düzenli ve sistemli çalışabilen,",
+  "Sözlü ve yazılı anlatım gücü iyi,",
+  "Bilgi ve iletişim teknolojilerini etkin kullanabilen,",
+  "Ekip çalışmasına uyumlu"
+ ],
+ "gorevler": [
+  "Kütüphaneden yararlanmak isteyen kullanıcılara kütüphaneyi tanıtır ve yararlanma olanaklarını öğretir.",
+  "Bilgi kaynaklarından yararlanmak isteyen okuyuculara ilgili formların doldurulması ve kütüphane kuralları hakkında bilgi verir.",
+  "Kütüphane materyallerinden yararlanmak isteyen kullanıcılara yayın tarama hizmeti sunar, yeni çıkan yayınları duyurur.",
+  "Gerektiğinde kullanıcılara aranılan konuyu bulmasında yardımcı olur.",
+  "Kütüphane hizmetlerinden e-posta, telefon vb. yollarla talep edilen istekleri değerlendirir ve kullanıcıya bilgi verir.",
+  "Kütüphane bilgi kaynaklarından bazılarının belli süreler için ödünç verme işlemlerini yürütür.",
+  "Ödünç verilen materyallerin süresi ve zamanında getirilmemesi durumunda uygulanacak yaptırımlar için kullanıcılara bilgi verir.",
+  "Kullanıcıların yararlanması için başka kütüphanelerden kütüphaneler arası ödünç verme işlemlerini yapar.",
+  "Eğitim-öğretim ve araştırmayı destekleyecek görsel-işitsel araç ve gereçleri seçer, çoğaltır ve belli bir düzen içinde hizmete sunar.",
+  "Okul vb. yerlerde öğrencilere kütüphaneyi tanıtıcı seminerler düzenler ve kütüphane hakkında bilgi verir.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Lisans eğitimini tamamlayanlar, Bilgi ve Belge Yönetimi veya ilgili alanlarda yüksek lisans ve doktora yaparak akademik kariyer yapabilir, araştırma görevlisi olabilirler.",
+  "is_hayatinda": "Mesleki deneyim ve çalışma süresinin artmasına bağlı olarak birim sorumlusu, şube müdürü veya kütüphane müdürü gibi yönetici kadrolarına yükselebilirler."
+ },
+ "kazanc": {
+  "egitim_suresince": "Lisans eğitimi süresince öğrenciler, Kredi ve Yurtlar Kurumu tarafından sağlanan burs/krediden veya resmi ve özel kuruluşların sağladığı burslardan yararlanabilirler.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında çalışanlar 657 sayılı Devlet Memurları Kanunu'na göre maaş alırlar.",
+   "Özel sektörde ücret, işletmenin büyüklüğüne, deneyime ve çalışılan kuruma göre değişir; mesleğe yeni başlayanlarda genellikle asgari ücret düzeyinde olabilir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T06:21:06",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5404
+  }
+ }
+}

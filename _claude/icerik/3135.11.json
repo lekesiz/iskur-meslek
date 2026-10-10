@@ -1,0 +1,72 @@
+{
+ "gorevler": [
+  "Besleme bantlarının ve bunkerlerin doluluk oranlarını izler",
+  "Hammaddelerin belirlenen oranlarda karıştırılmasını sağlar",
+  "Bantlar üzerindeki yabancı maddeleri ve metal parçaları ayıklar",
+  "Tıkanan kanal ve olukları uygun aletlerle temizler",
+  "Toz bastırma sistemlerini faal tutarak çalışma alanını düzenler",
+  "Mesleki gelişim faaliyetlerinde bulunur"
+ ],
+ "arac_gerec": [
+  "Besleme bantları ve konveyör sistemleri",
+  "Bunkerler ve silolar",
+  "Kırıcı ve harmanlama ekipmanları",
+  "Toz bastırma ve su püskürtme sistemleri",
+  "Kumanda panelleri ve doluluk gösterge sistemleri",
+  "Kanal ve oluk temizleme aletleri",
+  "Mıknatıslı ayıklama düzenekleri",
+  "Temel el aletleri (kürek, çekiç, manivela, kazma vb.)",
+  "Taşıma ve kaldırma ekipmanları",
+  "Kişisel koruyucu donanım (baret, toz maskesi, kulaklık, iş elbisesi, çelik burunlu ayakkabı, eldiven, gözlük)"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve tedbirli olan,",
+  "Fiziksel olarak dayanıklı olan,",
+  "Sorumluluk duygusu gelişmiş olan,",
+  "Ekip çalışmasına yatkın olan,",
+  "Tertipli ve düzenli çalışabilen,",
+  "Vardiyalı ve değişken çalışma koşullarına uyum sağlayabilen,",
+  "İş sağlığı ve güvenliği kurallarına titizlikle uyan,",
+  "El becerisine sahip olan,"
+ ],
+ "calisma_ortami": "Yüksek fırın hammadde hazırlama işçileri, demir-çelik üretimi yapan entegre tesislerin hammadde hazırlama, sinter ve kok sahalarında, hem açık hem de kapalı alanlarda çalışırlar. Çalışma ortamında toz, gürültü, yüksek sıcaklık, hareketli bant ve kırıcı sistemleri gibi riskler bulunur; bu nedenle kişisel koruyucu donanım kullanımı zorunludur. İş genellikle vardiya sistemiyle, gece ve gündüz yürütülür.\n\nÇalışma sırasında vardiya arkadaşları, ekip sorumluları ve operatörlerle sürekli iletişim halinde olunur. Ağır sanayi işi olması nedeniyle fiziksel dayanıklılık gerektirir ve iş kazası riski bulunan bir ortamdır.",
+ "egitim": {
+  "verildigi_yerler": "Bu meslek için ayrı, örgün bir eğitim programı bulunmamaktadır. Meslek genellikle demir-çelik işletmelerinde işbaşında, deneyimli işçi (usta) yanında uygulamalı olarak öğrenilmekte; ayrıca Halk Eğitim Merkezleri ile İŞKUR tarafından açılan mesleki eğitim kursları da ilgili temel bilgi ve becerilerin kazandırılmasında yardımcı olmaktadır. Metalurji ve malzeme teknolojisi alanındaki mesleki ve teknik eğitim programları da ilgili temel bilgileri sağlayabilir.",
+  "giris_kosullari": [
+   "İlköğretim mezunu olmak",
+   "İşletmenin belirlediği yaş, sağlık ve fiziksel yeterlilik şartlarını taşımak"
+  ],
+  "sure_ve_icerik": "Mesleğe özgü, süresi ve içeriği resmî olarak belirlenmiş bir eğitim programı bulunmamaktadır. İşe yeni başlayanlar, işletme bünyesinde deneyimli işçilerin gözetiminde hammadde besleme ve harmanlama süreçlerini, ekipman kullanımını, bakım-temizlik işlemlerini ve iş sağlığı ve güvenliği kurallarını uygulamalı olarak öğrenir.",
+  "belge": "Örgün bir diploma söz konusu değildir; katılınan mesleki eğitim kurslarının sonunda kurs bitirme belgesi/sertifika verilebilir. Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Yüksek fırın hammadde hazırlama işçileri, demir-çelik üretimi yapan entegre tesislerde, yüksek fırın işletmelerinde, sinter ve kok tesislerinin hammadde hazırlama bölümlerinde istihdam edilirler. Çalışma alanları ağırlıklı olarak büyük entegre demir-çelik fabrikalarının bulunduğu sanayi bölgeleridir.",
+ "kazanc": {
+  "egitim_suresince": "Bu meslek için örgün bir eğitim süreci bulunmadığından, işe yeni başlayanlar genellikle işletmenin belirlediği şartlarla deneme/alıştırma sürecinde çalışır ve bu süre boyunca ücret alırlar.",
+  "egitim_sonrasi": [
+   "İşe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç elde eder.",
+   "Deneyim, kıdem ve çalışılan işletmenin büyüklüğüne bağlı olarak ücret artış gösterebilir.",
+   "Kamu iktisadi teşekküllerine bağlı demir-çelik işletmelerinde çalışanlar için toplu iş sözleşmesi hükümleri geçerlidir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Bu meslekte örgün eğitimde ilerlemeye yönelik özel bir düzenleme bulunmamaktadır. İsteyenler, metalurji ve malzeme teknolojisi alanındaki mesleki ve teknik eğitim programlarına yönelerek bilgi ve becerilerini geliştirebilir.",
+  "is_hayatinda": "Deneyim kazandıkça usta, ekip lideri, vardiya sorumlusu veya ilgili üretim hattında operatör gibi görevlere yükselebilirler."
+ },
+ "benzer_meslekler": [
+  "Yüksek Fırın Kumanda Operatörü",
+  "Yüksek Fırın Miksercisi (Cevher Ergitme)",
+  "Yüksek Fırın Hammadde Hazırlamacısı",
+  "İzabeci",
+  "Konverter Operatörü",
+  "Sürekli Döküm İşçisi"
+ ],
+ "ek_bilgiler": "Bu meslek, demir-çelik sektöründeki ağır sanayi işlerinden biri olup fiziksel olarak yorucu; toz, gürültü ve yüksek sıcaklığa maruz kalınan bir çalışma ortamı gerektirir. İşe alımlarda genellikle fiziksel yeterlilik ve sağlık raporu şartı aranmaktadır.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T11:19:47",
+  "usage": {
+   "input_tokens": 4,
+   "output_tokens": 7410
+  }
+ }
+}

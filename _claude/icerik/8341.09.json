@@ -1,0 +1,81 @@
+{
+ "arac_gerec": [
+  "Biçerdöver (biçme tablası/header, harman ve dane tankı üniteleri ile)",
+  "Yedek bıçak, kayış, zincir gibi yedek parçalar",
+  "Anahtar takımı, pense, tornavida gibi el aletleri",
+  "Yağdanlık ve çeşitli madeni yağlar",
+  "Akaryakıt (mazot) ve yakıt ikmal ekipmanı",
+  "Yangın söndürme tüpü",
+  "Toz maskesi, koruyucu gözlük, eldiven, kulaklık",
+  "Üstübü, hava ve yakıt filtreleri",
+  "Basit arıza giderme ve bakım malzemeleri",
+  "İletişim için telsiz veya cep telefonu"
+ ],
+ "genel_ozellikler": [
+  "Ellerini, gözlerini ve ayaklarını eşgüdümle kullanabilen,",
+  "Dikkatli, tedbirli ve sorumluluk sahibi,",
+  "Mekaniğe ve motorlu araçlara ilgili,",
+  "Çevredeki uyarıcıları (arazi engelleri, diğer araçlar vb.) aynı anda algılayabilen,",
+  "Fiziksel olarak dayanıklı, uzun saatler araç içinde çalışabilen,",
+  "Açık havada, toz ve sıcak koşullarda çalışmaya istekli,",
+  "Zaman baskısı altında sakin ve planlı davranabilen"
+ ],
+ "calisma_ortami": "\"Biçerdöver Operatörü, çalışmalarını açık arazide, araç içinde ve genellikle hasat mevsiminde (yaz aylarında) yürütür. Çalışma ortamı tozlu, gürültülü ve sıcaktır; arazi koşullarına, eğime ve yüzey düzgünsüzlüğüne bağlı olarak fiziksel zorluklar yaşanabilir. Hasat zamanlaması ürün kaybını önlemek açısından kritik olduğundan, gün içinde uzun saatler ve bazen gece çalışılabilir. Dikkatsizlik hâlinde araç kazaları, yangın gibi riskler söz konusudur.\\n\\nMeslek genellikle mevsimliktir; operatörler hasat dönemlerinde arazi sahipleri, işletme yöneticileri, diğer tarım makinesi operatörleri ve bazen bölgeler arası gezici çalışan ekiplerle etkileşim içindedir. Hasat dışı dönemlerde iş yoğunluğu azalır.\"",
+ "gorevler": [
+  "İşe başlamadan önce biçerdöverin gözle kontrolünü yapar, varsa eksiklikleri giderir.",
+  "Biçerdöveri çalıştırarak güvenli ve dane kaybına sebep olmadan hasat yapar.",
+  "Aracı kullanım esnasında gerekli önlemleri alarak herhangi bir yangına sebebiyet vermeden hasadı gerçekleştirir.",
+  "Karayolu üzerinde biçerdöveri kullanırken trafik kurallarına uyarak seyri gerçekleştirir.",
+  "Arazi yapısına göre uygun yöntemleri kullanarak ürün kaybına neden olmadan hasadı gerçekleştirir.",
+  "Hasat esnasında çit ve benzeri yerlere yakın dönüş yaparken dönüş çapına dikkat eder.",
+  "Eğimli ve bozuk arazilerde aracın sevk ve idaresini uygun yöntemlerle yaparak hasat eder.",
+  "Biçerdöverin periyodik bakımlarını yaptırarak kaliteli hasat yapar.",
+  "Biçerdöverde yangın söndürme tüpleri bulundurur, olası kazalarda hemen müdahale eder.",
+  "Zamanında kuralına göre yakıt ikmali yapar.",
+  "Hasat yapılacak arazi ölçülerine göre fiyatlandırma yapar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Biçerdöver Operatörlüğü için standart bir örgün mesleki eğitim programı bulunmamaktadır. Meslek genellikle usta yanında işbaşında öğrenilir. Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kursları ile tarım makineleri üreticileri veya bayilerinin düzenlediği kısa süreli tanıtım ve kullanım eğitimleri de temel bilgi ve beceri kazandırabilir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "18 yaşını doldurmuş olmak",
+   "Operatörlük yapmaya engel bir sağlık probleminin (görme, işitme vb.) bulunmaması",
+   "İş makinesi kullanımına uygun sürücü/operatörlük belgesine sahip olmak (ilgili mevzuat gereği)"
+  ],
+  "sure_ve_icerik": "Resmî olarak belirlenmiş sabit bir eğitim süresi bulunmamaktadır. İşbaşında usta yanında yetişme süreci, biçerdöverin teknik yapısı, periyodik bakımı, güvenli ve verimli kullanımı, arazi koşullarına göre hasat teknikleri gibi konuları kapsar. Üretici firma ve bayilerce verilen kısa süreli kurslarda ise yeni model araçların kullanımı ve bakımı öğretilir.",
+  "belge": "Usta yanında yetişenlere resmî bir belge verilmez; işbaşında kazanılan deneyim esastır. Kurs ve eğitimlere katılanlara katılım belgesi, iş makinesi kullanımı için gerekli sürücü/operatörlük belgesi ayrıca ilgili kurumlarca verilir."
+ },
+ "calisma_alanlari": "\"Biçerdöver Operatörleri, tarım işletmeleri, çiftlikler, tarımsal kooperatifler ve tarım makineleri kiralama/hizmet firmalarında çalışabilir. Kendi biçerdöverine sahip olanlar bağımsız olarak çiftçilere hizmet verebilir. Hasat mevsiminde (genellikle yaz aylarında) talep arttığından, bazı operatörler güneyden kuzeye doğru farklı bölgelerde hasat takip ederek gezici şekilde çalışır. Mesleğin mevsimlik niteliği nedeniyle iş bulma olanağı hasat dönemiyle sınırlı olabilir; hasat dışı dönemde iş hacmi azalır.\"",
+ "kazanc": {
+  "egitim_suresince": "Usta yanında işbaşında yetişme sürecinde genellikle düzenli bir ücret söz konusu değildir; bazı işletmelerde sembolik bir ücret ödenebilir.",
+  "egitim_sonrasi": [
+   "Çalışanlar genellikle mevsimlik olarak ya da hasadı yapılan arazi büyüklüğüne (dönüm/dekar) göre anlaşmalı ücretle çalışır.",
+   "Kendi biçerdöverine sahip olup hizmet verenlerin kazancı, hasat ettikleri arazi miktarına ve sezon yoğunluğuna göre değişir.",
+   "Başka bir işletmenin biçerdöverini kullanan operatörlerin kazancı, genellikle asgari ücret düzeyinde başlayıp deneyim ve sezon yoğunluğuna göre artabilir.",
+   "Kamu kuruluşlarında (tarım kooperatifleri vb.) istihdam edilenler, tabi oldukları mevzuata göre ücret alır."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "--",
+  "is_hayatinda": "Deneyim kazanan operatörler ekip sorumlusu veya usta operatör konumuna gelebilir. Birikim sağlayanlar kendi biçerdöverini satın alarak işletme sahibi olabilir. Ayrıca traktör, pamuk toplama makinesi gibi diğer tarım makinelerinin kullanımında da uzmanlaşarak iş olanaklarını genişletebilirler."
+ },
+ "benzer_meslekler": [
+  "Diğer Çiftlik Makineleri Operatörleri",
+  "Motorlu Çiftlik Makineleri Operatörü-Tarım",
+  "Tarımsal Mücadele Alet ve Makineleri Operatörü",
+  "Pamuk Toplama Makinesi Operatörü",
+  "Biçerdöver Operatör Yardımcısı",
+  "Pancar Boşaltma Operatörü",
+  "Traktör Şoförü"
+ ],
+ "ek_bilgiler": "\"Biçerdöver Operatörlüğü mevsimsel bir meslektir; iş yoğunluğu hasat dönemiyle sınırlıdır ve bu dönemde operatörlerin bölgeler arası gezici olarak çalışması yaygındır. Mesleki Yeterlilik Kurumu (MYK) belgesi, mevcut olduğu durumlarda istihdamda tercih sebebi olabilir.\"",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T18:33:45",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5939
+  }
+ }
+}

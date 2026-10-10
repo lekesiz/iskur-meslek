@@ -1,0 +1,73 @@
+{
+ "arac_gerec": [
+  "Aspiratör (havalandırma fanı/vantilatörü) ve elektrik motoru",
+  "Anemometre (hava hızı/debisi ölçüm cihazı)",
+  "Gaz ölçüm cihazı (metan, karbonmonoksit, oksijen dedektörü)",
+  "Basınç ölçüm cihazı (manometre)",
+  "Yağlama ekipmanları ve yağlama malzemeleri",
+  "El aletleri (anahtar takımı, tornavida, pense, kerpeten)",
+  "Yedek parça (kayış, rulman, filtre, conta vb.)",
+  "Telsiz veya yer altı telefonu",
+  "Kişisel koruyucu donanım (baret, iş elbisesi, kulaklık, toz maskesi, iş ayakkabısı)",
+  "Bakım/kontrol kayıt defteri ve formları",
+  "Temizlik ve filtre bakım malzemeleri",
+  "Aydınlatma cihazı (kafa lambası, el feneri)"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve sorumluluk sahibi,",
+  "El ve bedensel beceriye sahip,",
+  "Teknik alet ve makineleri kullanmaya istekli,",
+  "Ekip çalışmasına uyumlu,",
+  "Fiziksel olarak sağlıklı ve dayanıklı,",
+  "Kurallara ve iş güvenliği talimatlarına uyan,",
+  "Acil durumlarda soğukkanlı ve hızlı karar verebilen,",
+  "Gözlem ve takip yeteneği gelişmiş,"
+ ],
+ "calisma_ortami": "Aspiratör Operatörü, maden sahalarında ve mineral işleme tesislerinde, havalandırma sisteminin bulunduğu yer altı veya yer üstü bölümlerde çalışır. Çalışma ortamı genellikle gürültülü, tozlu, nemli ve bazı durumlarda gazlı olabilir; yer altında çalışıldığında ortam karanlık ve dar alanlı olabilir. Çalışma süresince işveren tarafından sağlanan kişisel koruyucu donanımı kullanır.\n\nÇalıştığı işletmenin özelliğine göre dönüşümlü vardiyalarda ve genellikle ayakta, hareketli olarak görev yapar. Görevi sırasında ekip arkadaşları, bakım-onarım personeli, elektrik teknisyenleri, iş güvenliği uzmanları ve vardiya amirleriyle iş birliği içinde çalışır.",
+ "calisma_alanlari": "Aspiratör Operatörü, başta kömür ve metal madenleri olmak üzere yer altı ve yer üstü maden ocaklarında, taş ocaklarında ve mineral işleme tesislerinde havalandırma sisteminin işletilmesi gereken iş yerlerinde istihdam edilir. Kamuya bağlı maden işletmelerinde işçi statüsünde, özel sektöre ait maden ve taş ocağı işletmelerinde ise işçi statüsünde çalışabilir. İstihdam olanakları, ülkedeki madencilik ve mineral işleme sektörünün üretim hacmine bağlı olarak değişkenlik gösterir.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğin örgün bir eğitim programı bulunmadığından eğitim süresince genel olarak bir kazanç söz konusu değildir. İşbaşında usta yanında yetişme veya kısa süreli kurslara katılım sürecinde, işe alınmışsa işveren tarafından ödenen ücret söz konusu olabilir.",
+  "egitim_sonrasi": [
+   "Kamuya bağlı maden işletmelerinde işçi statüsünde çalışanların ücreti ilgili toplu iş sözleşmesi hükümlerine göre belirlenir.",
+   "Özel sektördeki maden ve taş ocağı işletmelerinde ücret, işletmenin büyüklüğüne, çalışanın tecrübesine ve üstlendiği sorumluluğa göre değişir; yeni başlayanlar için genellikle asgari ücret düzeyindedir.",
+   "Yer altında çalışılması durumunda, yer altı maden işçileri için kanunla belirlenmiş çalışma süresi ve taban ücret düzenlemeleri uygulanabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Meslekte standart bir örgün ilerleme basamağı bulunmamaktadır. İş deneyimi ve katılınan ek kurslarla havalandırma sistemleri, maden makineleri bakımı veya iş güvenliği gibi alanlarda uzmanlaşma mümkündür.",
+  "is_hayatinda": "Tecrübe, bilgi birikimi ve liyakate göre ustalık, ekip liderliği, vardiya amirliği veya nezaretçilik gibi görevlere yükselebilir."
+ },
+ "benzer_meslekler": [
+  "Tesis İşçisi (Maden)",
+  "Kumanda Merkezi Operatörü (Kömür Madeni)",
+  "Bant Kontrol Merkezi Operatörü (Kömür Madeni)",
+  "Yeraltı Müteferrik İşçisi",
+  "Yeraltı Hazırlık İşçisi (Madencilik ve Maden Çıkarma)",
+  "Otomatik Maden Makinesi Operatörü"
+ ],
+ "ek_bilgiler": "Maden işletmelerinde yer altı ve yer üstü çalışma koşullarına bağlı olarak işe giriş ve periyodik sağlık muayeneleri zorunludur. Madencilik sektöründeki tehlikeli ve çok tehlikeli iş kollarında bazı unvanlar için Mesleki Yeterlilik Kurumu (MYK) belgesi zorunlu tutulmuş olup, aspiratör operatörlüğü için bu belgenin istihdamda tercih sebebi olabileceği, güncel yasal düzenlemelerin ilgili iş yeri ve resmi kaynaklardan takip edilmesinin uygun olacağı değerlendirilmektedir.",
+ "gorevler": [
+  "İş organizasyonu yapar.",
+  "Aspiratörün çalışmasını kontrol eder.",
+  "Aspiratörün bakımını sağlar.",
+  "Meslek alanı ile ilgili gelişmeleri takip eder ve yenilikleri uygular."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Aspiratör Operatörlüğü için örgün bir meslek eğitimi programı bulunmamaktadır. Meslek genellikle maden işletmelerinde işbaşında usta yanında yetişme yoluyla öğrenilir. Halk Eğitim Merkezleri ve İŞKUR tarafından açılan mesleki eğitim kurslarında havalandırma ve maden iş güvenliği konularında temel bilgiler verilebilir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak.",
+   "Maden işlerinde (ağır ve tehlikeli işler kapsamında) çalışabilir sağlık raporuna sahip olmak.",
+   "Fiziksel olarak maden ortamında çalışmaya uygun olmak."
+  ],
+  "sure_ve_icerik": "Standart bir eğitim süresi ve müfredatı bulunmamaktadır. İşe alınan kişiye işveren tarafından iş sağlığı ve güvenliği eğitimleri ile aspiratörün çalışma prensibi, günlük kontrol ve bakım işlemlerine yönelik işbaşı eğitimi verilir. Ayrıca kısa süreli mesleki kurslara katılım sağlanabilir.",
+  "belge": "İşyeri tarafından verilen iç eğitim/işbaşı eğitim belgesi veya katılınan kursa ait kurs bitirme belgesi düzenlenebilir."
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T10:16:56",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5747
+  }
+ }
+}

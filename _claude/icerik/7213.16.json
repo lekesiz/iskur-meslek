@@ -1,0 +1,83 @@
+{
+ "gorevler": [
+  "Müşteri talebi doğrultusunda sobanın ebatlarına ve işlevine göre sacın kalınlığını tespit eder.",
+  "Talep edilen soba cinsine göre uygun kalınlıkta sac temin eder.",
+  "Sac tabakalarını siparişi alınan sobanın özelliklerine göre (yuvarlak, fırınlı, kuzine, merzifon tipi vb.) şablon kullanarak çizer ve giyotin makasla keser.",
+  "Şablon kullanarak dekupajla kapak yerlerini açar.",
+  "Caka ile sobanın şekline göre eğimlerini yapar.",
+  "Punta makinesi ile kaynak yapar.",
+  "Kordon makinesinde nakış işler.",
+  "Sobanın kapaklarını punta ile kaynaklar, fırınlı soba ise fırını yerine kaynaklar.",
+  "Sobanın alt ve üst kapaklarını gövdeye punta ile kaynaklar.",
+  "Emaye yapılacak ise emaye yaptırır.",
+  "Emaye yapılan sobayı son kontrolden geçirerek satışa hazır hale getirir.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "arac_gerec": [
+  "Sac levha (çeşitli kalınlıklarda)",
+  "Şablonlar",
+  "Giyotin makas",
+  "Dekupaj makinesi",
+  "Caka (bükme makinesi)",
+  "Punta kaynak makinesi",
+  "Kordon (nakış) makinesi",
+  "Kumpas, metre ve gönye",
+  "Çizim ve işaretleme gereçleri (kalem, mastar)",
+  "El aletleri (çekiç, tornavida, pense)",
+  "Zımpara ve taşlama aletleri",
+  "Koruyucu eldiven, gözlük ve önlük",
+  "Toz ve duman maskesi"
+ ],
+ "genel_ozellikler": [
+  "El ve beden becerisine sahip,",
+  "Şekil ve uzay ilişkilerini görebilen,",
+  "El ve gözünü eşgüdümle kullanabilen,",
+  "Dikkatli ve tedbirli,",
+  "Fiziksel olarak dayanıklı,",
+  "Alet ve makinelerle çalışmaktan hoşlanan,",
+  "Sabırlı ve sorumluluk sahibi,",
+  "Elle yapılan işlerde estetik duyguya sahip kişiler olmaları gerekir."
+ ],
+ "calisma_ortami": "Soba ustaları genellikle küçük ve orta ölçekli metal işleme atölyelerinde veya imalathanelerde, kapalı mekânlarda çalışırlar. Çalışma ortamı kesme, bükme ve kaynak işlemleri nedeniyle gürültülü olabilir; metal tozu, kaynak dumanı ve kıvılcım gibi riskler bulunur, bu nedenle kişisel koruyucu donanım kullanımı önemlidir. Çalışma genellikle ayakta ve bedensel güç gerektiren koşullarda sürdürülür, kış mevsimi öncesi dönemlerde iş yoğunluğu artabilir.\n\nÇalışma süresince işveren, usta, çırak ve diğer atölye çalışanlarıyla, ayrıca sac ve malzeme tedarikçileri, emaye uygulayan işletmeler ve müşterilerle sürekli iletişim halinde bulunulur.",
+ "egitim": {
+  "verildigi_yerler": "Soba ustalığı için Milli Eğitim Bakanlığına bağlı mesleki eğitim merkezlerinde bu adla ayrı bir dal yaygın olarak bulunmamaktadır. Meslek, çoğunlukla usta-çırak ilişkisi içinde işbaşında öğrenilmekte; bazı bölgelerde Metal Teknolojisi alanı kapsamındaki ilgili dallarda çıraklık eğitimi alınabilmektedir. Ayrıca Halk Eğitim Merkezleri ile İŞKUR tarafından açılan mesleki eğitim kurslarından da yararlanılabilir.",
+  "giris_kosullari": [
+   "En az ilkokul/ortaokul mezunu olmak",
+   "Çıraklık eğitimine girecekler için ilgili mesleki eğitim mevzuatında belirtilen yaş ve öğrenim şartlarını taşımak",
+   "Bedensel olarak ağır ve uzun süreli çalışmaya, ayakta çalışmaya elverişli bir sağlık durumuna sahip olmak"
+  ],
+  "sure_ve_icerik": "Eğitim süresi standart bir programa bağlı değildir; işbaşında usta yanında çalışarak sac işleme, kesme, bükme, kaynak ve emaye hazırlama gibi işlemler aşamalı olarak öğrenilir. Çıraklık eğitimi alınması halinde teorik dersler ile işyerinde uygulamalı çalışma birlikte yürütülür.",
+  "belge": "Mesleki eğitim merkezi programına kayıtlı olarak eğitim alanlara kalfalık ve ustalık belgesi verilebilir. İşbaşında yetişenler için Halk Eğitim Merkezi veya İŞKUR kurs katılım belgesi, ayrıca Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Soba ustaları genellikle küçük ve orta ölçekli soba imalathanelerinde, metal/sac işleme atölyelerinde ve hırdavat-nalbur işletmelerine bağlı üretim birimlerinde çalışırlar. Deneyim kazandıktan sonra kendi atölyelerini açarak bağımsız olarak üretim yapabilirler. İş talebi, bölgenin iklim koşullarına ve doğalgaz/merkezi ısıtma yaygınlığına bağlı olarak değişkenlik gösterebilir ve genellikle kış mevsimi öncesinde yoğunlaşır.",
+ "kazanc": {
+  "egitim_suresince": "Mesleki eğitim merkezi kapsamında çıraklık eğitimi alanlara 3308 sayılı Mesleki Eğitim Kanunu çerçevesinde ücret ödenir. İşbaşında usta yanında yetişenler için eğitim dönemindeki kazanç genellikle asgari ücret düzeyinde veya altında olabilir ve işyerinin imkânlarına göre değişir.",
+  "egitim_sonrasi": [
+   "Çalışanların kazancı genellikle asgari ücret düzeyinde başlar.",
+   "Kazanç; kişinin tecrübesi, becerisi, çalıştığı işletmenin büyüklüğü ve bölgedeki talep yoğunluğuna göre değişebilir.",
+   "Kendi işyerini açanların kazancı, iş hacmine ve piyasa koşullarına göre daha yüksek olabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleki eğitim merkezi programına kayıtlı olarak eğitim alanlar kalfalık belgesinden sonra ustalık belgesi alabilir; fark derslerini tamamlayanlar meslek lisesi diploması ve işyeri açma belgesi alabilirler. Usta yanında yetişenler ise deneyim ve beceri düzeyine göre yeterlilik belgesi almaya yönlendirilebilir.",
+  "is_hayatinda": "Tecrübe kazanan soba ustaları atölyede usta başı veya atölye sorumlusu konumuna gelebilir, daha fazla sayıda çırak ve işçi çalıştırabilir. Kendi işyerini açarak işveren konumuna geçebilir, ayrıca kazan, radyatör veya diğer sac imalatı gibi yakın alanlara yönelebilir."
+ },
+ "benzer_meslekler": [
+  "Metal Levha İşlemecisi",
+  "Metal Levha İşçisi",
+  "Metal Sac İşleme İşçisi",
+  "Sac İşçisi",
+  "Çelik Levha Bükücüsü",
+  "Panel Radyatör İmalatçısı",
+  "Kalorifer Kazan İmalatçısı"
+ ],
+ "ek_bilgiler": "Soba imalatı, doğalgaz ve merkezi ısıtma sistemlerinin yaygınlaşmasıyla bazı şehirlerde talep daralan bir alandır; ancak kırsal bölgelerde ve kışları sert geçen illerde talep sürmektedir. Bu nedenle meslekte iş bulma olanakları bölgeye ve mevsime göre değişkenlik gösterebilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T00:28:57",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5629
+  }
+ }
+}

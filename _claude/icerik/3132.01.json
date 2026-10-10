@@ -1,0 +1,83 @@
+{
+ "arac_gerec": [
+  "Kumanda panoları ve otomasyon/SCADA ekranları",
+  "Pompalar, tanklar ve havuzlar",
+  "Boru hatları, vanalar ve hidrofor",
+  "Klor ünitesi ve dozajlama ekipmanları",
+  "Filtreler ve ızgaralar",
+  "Karıştırıcılar ve çamur sıyırıcılar",
+  "Hava üfleyici (blower)",
+  "Debimetre, pH metre ve milivoltmetre",
+  "Seviye, bulanıklık, oksijen, bakiye klor, basınç ve sıcaklık ölçüm cihazları",
+  "Basit bakım-onarım el aletleri",
+  "Kişisel koruyucu donanım (eldiven, maske, çizme, gözlük)",
+  "Kayıt ve rapor formları/defterleri",
+  "Haberleşme araçları (telsiz, telefon)"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve sorumluluk sahibi,",
+  "Teknik ve mekanik konulara ilgili,",
+  "Fiziksel olarak dayanıklı,",
+  "Kimyasal maddelerle ve kötü kokulu ortamlarda çalışmaya istekli,",
+  "Gözlem ve ölçüm sonuçlarını doğru yorumlayabilen,",
+  "Takım çalışmasına yatkın,",
+  "Acil durumlarda hızlı ve doğru karar verebilen,",
+  "Çevre bilincine sahip,"
+ ],
+ "calisma_ortami": "\"Arıtma Tesisi İşletme Operatörü, belediyelere, organize sanayi bölgelerine veya sanayi işletmelerine ait içme suyu ya da atıksu arıtma tesislerinde çalışır. Çalışma alanı kumanda/kontrol odası gibi kapalı mekânları, havuz, tank ve pompa istasyonlarının bulunduğu açık ve yarı açık sahaları kapsar. Tesis içinde kötü koku, nem, kimyasal madde ve biyolojik atıklarla teması nedeniyle iş sağlığı ve güvenliği kurallarına ve kişisel koruyucu donanım kullanımına özellikle dikkat edilmesi gerekir; dikkatsizlik hâlinde kayma-düşme, kimyasal maruziyet ve solunum yolu riskleriyle karşılaşılabilir.\\n\\nTesislerin sürekli çalışması nedeniyle genellikle vardiya usulüyle görev yapılır. Operatör, çalışması sırasında mühendis, tekniker, bakım-onarım personeli ve amirleriyle sürekli iletişim halinde olur; arıza, aksaklık ve ölçüm sonuçlarını ilgililere raporlar.\"",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi, ortaöğretim düzeyindeki mesleki ve teknik eğitim kurumlarının ilgili alan ve dallarında, meslek yüksekokullarının çevre koruma ve kontrol gibi ön lisans programlarında, Halk Eğitim Merkezleri ile İŞKUR tarafından açılan mesleki eğitim kurslarında ve işyerlerinde işbaşında usta yanında verilmektedir.",
+  "giris_kosullari": [
+   "En az ortaöğretim (lise ve dengi okul) mezunu olmak",
+   "Ön lisans programları için ilgili merkezi yerleştirme sınavından yeterli puanı almış olmak",
+   "Kurslara katılım için kurum tarafından belirlenen yaş ve sağlık koşullarını taşımak"
+  ],
+  "sure_ve_icerik": "Örgün mesleki ve teknik eğitimde süre ve içerik okutulan programa göre değişmekte, genel olarak su/atıksu arıtma teknikleri, fiziksel-kimyasal-biyolojik arıtma prensipleri, çamur arıtma ve bertaraf işlemleri, ölçüm ve kontrol cihazlarının kullanımı, otomasyon sistemleri, iş sağlığı ve güvenliği ile çevre mevzuatı konularını içermektedir. Kurs yoluyla edinilen eğitimlerde süre ve içerik kursu açan kuruma göre değişmekte, uygulamalı işbaşı eğitimi ön planda tutulmaktadır.",
+  "belge": "Örgün eğitim sonunda diploma; kurs sonunda katılım veya başarı belgesi verilmektedir. Mesleki Yeterlilik Kurumu (MYK) tarafından düzenlenen ilgili alan yeterlilik belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "\"Arıtma Tesisi İşletme Operatörü; belediyelerin içme suyu ve atıksu arıtma tesislerinde, organize sanayi bölgelerinin ortak atıksu arıtma tesislerinde, sanayi işletmelerinin kendi bünyesindeki arıtma ünitelerinde ve çevre hizmetleri alanında faaliyet gösteren özel firmalarda istihdam edilebilir. Kamu kurumlarında genellikle işçi statüsünde, özel sektörde ise işletmenin büyüklüğüne ve ihtiyacına göre çalışma olanağı bulunmaktadır. Çevre mevzuatının gelişmesi ve arıtma yükümlülüklerinin artması, bu meslekte iş bulma olanaklarını olumlu etkilemektedir.\"",
+ "kazanc": {
+  "egitim_suresince": "Örgün eğitim sırasında genellikle bir kazanç söz konusu değildir; işbaşı eğitimi veya staj döneminde işletmeye bağlı olarak sınırlı bir ödeme yapılabilir.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında işçi statüsünde çalışanların ücreti ilgili toplu iş sözleşmesi hükümlerine göre belirlenir.",
+   "Özel sektörde ücret, işletmenin büyüklüğü, kişinin deneyimi ve bilgi birikimine göre değişmekte, meslekte yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlamaktadır.",
+   "Deneyim ve sorumluluk arttıkça kazanç düzeyi de yükselmektedir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Operatörler, hizmet içi eğitimlere ve mesleki kurslara katılarak bilgi ve becerilerini geliştirebilir; ilgili ön lisans veya lisans programlarını tamamlayarak çevre teknikerliği veya çevre mühendisliği gibi daha üst düzey mesleklere geçiş yapabilirler.",
+  "is_hayatinda": "Deneyim kazandıkça usta operatörlüğe, vardiya amirliğine veya tesis sorumluluğuna yükselebilir; bakım-onarım ve işletme ekiplerinin sevk ve idaresinde görev alabilirler."
+ },
+ "benzer_meslekler": [
+  "Su Arıtma Tesisi İşletme Operatörü",
+  "Atıksu Arıtma Operatörü",
+  "Vardiya Amiri (Çöp-Atık Su Arıtma Tesisleri)",
+  "Çamur Susuzlaştırma Ünitesi Operatörü",
+  "Su SCADA Operatörü",
+  "Atıksu Pompa Operatörü"
+ ],
+ "ek_bilgiler": "\"Arıtma tesislerinde kimyasal madde ve biyolojik atıklarla çalışılması nedeniyle iş sağlığı ve güvenliği eğitimleri ile kişisel koruyucu donanım kullanımı büyük önem taşır. Mesleki Yeterlilik Kurumu (MYK) belgesine sahip olmak, istihdam sürecinde tercih sebebi olabilir.\"",
+ "gorevler": [
+  "Arıtma tesisinin günlük olarak kumanda panolarını, pompalarını, tanklarını, havuzlarını, borularını, klor ünitesini, vanalarını, filtrelerini ve ızgaralarını, karıştırıcı ve çamur sıyırıcılarını, hava üfleyicisini ve hidroforunu kontrol eder.",
+  "Arıtma tesisinin debimetresini, pH metresini, seviye ölçme, bulanıklık ölçme, oksijen ölçme, bakiye klor ölçme, basınç ölçme, sıcaklık ölçme aletlerini ve milivoltmetreyi kontrol eder.",
+  "Basit arıza ve eksiklikleri giderir ve ölçü aletlerinin kalibrasyonunu yapar.",
+  "Fiziksel arıtma yapmak için sisteme elektrik verir, ham su pompasıyla sisteme su verir, ızgarayı devreye sokarak katı atıkları uzaklaştırır.",
+  "Ön havalandırma sistemini, yağ ve kum tutucuyu devreye sokar.",
+  "Ön çöktürme havuzunu devreye sokar.",
+  "Kimyasal ve biyolojik arıtma yapmak için kimyasalları hazırlar, suyu reaksiyon tankına alır, kimyasalları suya katar ve atık suda bakteri üretir.",
+  "Suyu çöktürme havuzuna alır, filtreler ve dezenfekte eder.",
+  "Atık çamur işlemleri yapmak için çamuru tanka toplar.",
+  "Çamuru yoğunlaştırır ve şartlandırır.",
+  "Çamuru susuzlaştırır ve çürütür.",
+  "Çamur ve katı atıkların uzaklaşmasını sağlar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T10:56:52",
+  "usage": {
+   "input_tokens": 4,
+   "output_tokens": 9912
+  }
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "arac_gerec": [
+  "Bilgisayar ve çevre birimleri (klavye, fare, monitör)",
+  "Entegre geliştirme ortamları (IDE) ve kod düzenleyiciler",
+  "Programlama dilleri ve derleyiciler/yorumlayıcılar",
+  "Veritabanı yönetim sistemleri",
+  "Sürüm kontrol sistemleri (örn. Git)",
+  "Hata ayıklama ve test araçları",
+  "Ağ ve sunucu altyapısı, sanallaştırma/bulut platformları",
+  "Proje ve görev yönetim yazılımları",
+  "Teknik dokümantasyon araçları",
+  "Yedekleme ve veri depolama sistemleri"
+ ],
+ "genel_ozellikler": [
+  "Mantıksal ve sistemli düşünme gücüne sahip,",
+  "Matematik ve analitik düşünmede başarılı,",
+  "Dikkatli ve sabırlı,",
+  "Araştırmacı ve kendini sürekli yenileyebilen,",
+  "Ekip çalışmasına uyumlu,",
+  "Problem çözme becerisi gelişmiş,",
+  "Yoğun ve ayrıntılı bilgiyle çalışmaya istekli"
+ ],
+ "calisma_ortami": "\"Uygulama programcıları genellikle büro ortamında, bilgisayar başında oturarak çalışırlar. Çalışma ortamı kapalı mekan olup, genellikle sessiz ve düzenlidir; ancak proje teslim tarihlerinin yaklaştığı dönemlerde yoğun ve zaman baskılı çalışma söz konusu olabilir, uzun süre ekran karşısında kalmak göz ve bel/boyun sağlığı açısından dikkat gerektirir.\\n\\nMeslek mensubu, çalışmaları sırasında sistem tasarımcıları, diğer programcılar, test uzmanları ve proje yöneticileriyle sürekli etkileşim halindedir. Çalışma saatleri genellikle standart mesai düzenindedir; bazı işyerlerinde uzaktan çalışma veya esnek çalışma modelleri de uygulanabilmektedir.\"",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi, üniversitelerin dört yıllık lisans düzeyindeki bilgisayar mühendisliği, yazılım mühendisliği, bilgisayar bilimleri, bilişim sistemleri mühendisliği ve benzeri bölümlerinde verilmektedir.",
+  "giris_kosullari": [
+   "Lise veya dengi okul mezunu olmak",
+   "YKS (Yükseköğretim Kurumları Sınavı) kılavuzunda ilgili lisans programları için belirtilen puan türünden yeterli puanı almış olmak",
+   "YKS Yükseköğretim Programları ve Kontenjanları Kılavuzunda belirtilen taban puan ve kontenjan koşullarını sağlamak"
+  ],
+  "sure_ve_icerik": "Eğitim süresi 4 yıldır. Eğitim süresince programlama dilleri, algoritma ve veri yapıları, nesne tabanlı programlama, veritabanı yönetim sistemleri, yazılım mühendisliği, sistem analizi ve tasarımı, ağ ve sistem bilgisi gibi mesleki dersler ile genel kültür ve matematik ağırlıklı dersler okutulur. Birçok programda zorunlu veya isteğe bağlı staj uygulaması bulunmaktadır.",
+  "belge": "Eğitimini başarı ile tamamlayanlara bölümün niteliğine göre mühendislik veya bilim lisans diploması verilir."
+ },
+ "calisma_alanlari": "\"Uygulama programcıları; özel sektöre ait yazılım geliştirme şirketlerinde, bankalarda ve finans kuruluşlarında, e-ticaret ve teknoloji firmalarında, telekomünikasyon şirketlerinde, kamu kurum ve kuruluşlarının bilgi işlem birimlerinde, bilişim danışmanlık firmalarında çalışabilmektedirler. Ayrıca serbest çalışan (freelance) olarak proje bazlı yazılım geliştirme hizmeti verenler de bulunmaktadır. Bilgisayar ve yazılım teknolojilerinin her alanda yaygınlaşması, bu meslekte iş bulma olanaklarını genişletmektedir.\"",
+ "kazanc": {
+  "egitim_suresince": "Öğrenciler eğitimleri süresince Kredi ve Yurtlar Genel Müdürlüğünün sağladığı öğrenim kredisi ve yurt hizmetlerinden, ayrıca çeşitli resmi ve özel kurum/kuruluşların sunduğu burslardan yararlanabilirler.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında istihdam edilenler, 657 sayılı Devlet Memurları Kanunu'na tabi olarak maaş alırlar.",
+   "Özel sektörde kazanç; işyerinin büyüklüğü, kişinin tecrübesi, bilgisi, uzmanlaştığı teknoloji alanı ve sektörün ücret düzeyine göre değişmektedir; mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde veya biraz üzerinde bir ücretle çalışmaya başlayabilir, deneyim kazandıkça kazanç düzeyi artabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Lisans eğitimini tamamlayanlar, ilgili alanlarda yüksek lisans ve doktora programlarına devam ederek akademik veya uzmanlık alanında ilerleme sağlayabilirler.",
+  "is_hayatinda": "Mesleki bilgi, tecrübe ve uzmanlaşılan teknolojiye bağlı olarak kıdemli yazılım geliştirici, takım lideri, yazılım mimarı, sistem analisti veya proje yöneticisi gibi pozisyonlara yükselme olanağı bulunmaktadır."
+ },
+ "benzer_meslekler": [
+  "Bilgisayar Programcısı",
+  "Sistem Programcısı",
+  "Yazılım Mühendisi",
+  "Program Analisti",
+  "Sistem Analisti (BT)",
+  "Web Programcısı"
+ ],
+ "ek_bilgiler": "\"Mesleki Yeterlilik Kurumu (MYK) tarafından ilgili bilişim mesleklerinde düzenlenen belgeler, istihdamda tercih sebebi olabilir. Yazılım geliştirme alanı sürekli değişen teknolojilere sahip olduğundan, meslekte başarı için güncel programlama dilleri ve araçları takip etmek önem taşımaktadır.\"",
+ "gorevler": [
+  "Sistem tasarımına yardımcı olur.",
+  "Program spesifikasyonlarının standartlara uygunluğunu kontrol eder.",
+  "Spesifikasyonlara ve geçerli standartlara uygun program mantığı tasarlar.",
+  "Belirtilen programlama dilini kullanarak programı yazar.",
+  "Programın doğru çalışıp çalışmadığını kontrol eder.",
+  "Kuruluşun standartlarına uygun olarak programları belirler.",
+  "Tam, doğru ve verimli bilgisayar programları geliştirir.",
+  "Geçerli programlama dilleri, program yazma ve işletme yöntemleri konularında güncel bilgi sahibi olur.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T05:57:45",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 4481
+  }
+ }
+}

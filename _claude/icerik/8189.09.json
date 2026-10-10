@@ -1,0 +1,77 @@
+{
+ "arac_gerec": [
+  "Talaş kurutma fırını/kurutma ünitesi",
+  "Öğütücü (kırıcı/değirmen) makine",
+  "Pelet pres makinesi (disk ve rulo sistemli)",
+  "Soğutma ünitesi",
+  "Eleme (siever) sistemi",
+  "Torbalama ve paketleme makinesi",
+  "Konveyör bant hatları",
+  "Nem ölçüm cihazı",
+  "Yoğunluk/kalite test cihazları",
+  "El arabası, forklift",
+  "Kişisel koruyucu donanım (toz maskesi, eldiven, kulaklık, iş elbisesi, koruyucu gözlük)",
+  "Yangın söndürme ekipmanları",
+  "Temel tamir takımları (anahtar, tornavida vb.)"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve tedbirli,",
+  "Sorumluluk sahibi,",
+  "Makine ve teçhizat kullanımına yatkın,",
+  "El ve göz koordinasyonu gelişmiş,",
+  "Fiziksel olarak dayanıklı,",
+  "Ekip çalışmasına uyumlu,",
+  "Talimatlara uyan,",
+  "Temiz ve düzenli çalışmaya özen gösteren"
+ ],
+ "calisma_ortami": "Pelet yakıt imal işçisi, genellikle kapalı alanlarda kurulu biyokütle/pelet üretim tesislerinde ve atölyelerde çalışır. Çalışma ortamında talaş tozu, gürültü, kurutma ve öğütme üniteleri nedeniyle yüksek sıcaklık, titreşim ve makine kaynaklı yaralanma riskleri bulunabilir; bu nedenle iş sağlığı ve güvenliği kurallarına ve kişisel koruyucu donanım kullanımına dikkat edilmesi önemlidir. Çalışma genellikle ayakta ve bazı dönemlerde vardiyalı düzende sürdürülür.\n\nÇalışma sırasında vardiya arkadaşları, bakım-onarım personeli, kalite kontrol görevlileri ve üretim amiri/ustabaşı ile iş birliği içinde çalışılır. Üretim hattındaki makinelerin sürekli izlenmesi ve ayarlanması gerektiğinden dikkat ve tedbirli olma gerekliliği ön plandadır.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitim düzeyi ilköğretim olarak belirlenmiştir; bu mesleğe özgü örgün bir meslek lisesi programı bulunmamaktadır. Meslek genellikle işbaşında, usta yanında uygulamalı olarak öğrenilir. Ayrıca Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kursları ile ilgili alanlardaki (makine, üretim teknolojileri gibi) mesleki ve teknik eğitim programları da temel bilgi kazandırabilir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "18 yaşını doldurmuş olmak (fiziksel iş gücü gerektiren bir meslek olduğundan)",
+   "Sağlık durumunun ağır ve sürekli ayakta çalışmaya uygun olması",
+   "İşbaşı eğitim veya kurslara katılım için ilgili kurumun belirlediği koşulları sağlamak"
+  ],
+  "sure_ve_icerik": "Örgün bir eğitim programı bulunmadığından süre işyerine ve kursa göre değişmektedir. İşbaşı eğitim veya açılabilecek kurslarda genel olarak hammadde (talaş) hazırlama, kurutma ve öğütme işlemleri, pelet pres makinesinin çalışma prensibi ve ayarları, ürün kalite kontrolü (yoğunluk, nem, yanma özellikleri), soğutma-eleme sistemleri, paketleme ve iş sağlığı güvenliği konuları kuramsal ve uygulamalı olarak işlenir.",
+  "belge": "İşbaşında yetiştirilenlere genellikle resmî bir belge verilmez; işyerinde edinilen deneyim esastır. Halk Eğitim Merkezleri veya İŞKUR aracılığıyla açılan bir kursa katılım durumunda “Kurs Bitirme Belgesi” alınabilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Pelet yakıt (odun talaşı) imal işçileri; biyokütle/biyoyakıt pelet üretim tesislerinde, kereste ve orman ürünleri fabrikalarına bağlı pelet üretim hatlarında, odun talaşı ve ağaç atıklarını değerlendiren üretim işletmelerinde istihdam edilir. Yenilenebilir enerji ve biyoyakıt kullanımına yönelik artan ilgi, bu alandaki üretim tesislerinin sayısını ve dolayısıyla meslek elemanı ihtiyacını zaman içinde artırabilmektedir. Çalışma alanları, tesisin bulunduğu bölge ve sektörün gelişimine göre değişkenlik gösterir.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğe özgü örgün bir eğitim programı bulunmadığından, bu meslek genellikle işbaşında öğrenilir; işbaşı eğitim sürecinde çalışan, işyerinin uygulamasına göre ücret alabilir. Kursa katılım durumunda eğitim süresince ayrıca bir kazanç söz konusu değildir.",
+  "egitim_sonrasi": [
+   "İşe başlangıçta genellikle asgari ücret düzeyinde kazanç sağlanır.",
+   "Deneyim, uzmanlaşma ve işletmenin büyüklüğüne göre ücret zamanla artabilir.",
+   "Kamu kurumlarına bağlı tesislerde çalışılması durumunda ilgili kamu personeli statüsüne (işçi statüsünde ise toplu iş sözleşmesi hükümlerine) göre ücretlendirme yapılır.",
+   "Özel sektörde ücret, işveren ile çalışan arasındaki karşılıklı anlaşmaya, deneyime ve işletmenin koşullarına göre değişiklik gösterir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğe özgü kademeli bir örgün eğitim basamağı bulunmamaktadır. İlgili makine, üretim teknolojileri veya tesisat alanlarında açılan mesleki ve teknik eğitim programları ile iş güvenliği ve kalite kontrol konularında alınacak kurslar, mesleki bilgi ve becerinin geliştirilmesine katkı sağlar.",
+  "is_hayatinda": "Meslekte edinilen tecrübe ile çalışan, önce makine operatörlüğü sorumluluklarını üstlenebilir, ardından vardiya sorumlusu, ustabaşı veya üretim/kalite kontrol sorumlusu gibi görevlere ilerleyebilir. Tesis büyüklüğüne ve işletmenin yapısına göre üretim şefliği düzeyine kadar yükselme olanağı bulunabilir."
+ },
+ "benzer_meslekler": [
+  "Pelet Presleme Makinesi Operatörü (Hayvan Yemi)",
+  "Balyalama Pres Operatörü",
+  "Diğer İmalat ve İlgili İşçiler (Makine İle)",
+  "Atık Yakma Ön İşlem Elemanı",
+  "Endüstriyel Ambalaj Yeniden Kullanıma Hazırlama İşçisi"
+ ],
+ "ek_bilgiler": "Pelet yakıt üretimi, yenilenebilir enerji kaynaklarına yönelik artan talep nedeniyle gelişmekte olan bir üretim alanıdır. Üretim sürecinde ince talaş tozunun oluşturabileceği solunum ve toz birikimi riskleri nedeniyle iş sağlığı ve güvenliği kurallarına, kişisel koruyucu donanım kullanımına özen gösterilmesi önemlidir.",
+ "gorevler": [
+  "Talaş kurutma ve öğütme ünitelerinin ayarlarını yapar.",
+  "Pelet pres makinesinin disk ve rulo ayarlarını kontrol eder.",
+  "Peletlerin yoğunluk, nem ve yanma kalitesini izler.",
+  "Soğutma ve eleme sistemlerinin akışını denetler.",
+  "Ürünleri torbalama ünitesine sevk ederek paketler.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T17:27:39",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5049
+  }
+ }
+}

@@ -1,0 +1,81 @@
+{
+ "gorevler": [
+  "Makinede düz dikiş yapar.",
+  "Overlok dikişi yapar.",
+  "Giysi için ölçü alır.",
+  "Kesim yapar.",
+  "Giyside süsleme yapar.",
+  "Ütüleme yapar.",
+  "Palto-kaban, erkek pardösü, erkek mont kalıbı hazırlar.",
+  "Palto-kaban, erkek pardösü, erkek mont diker.",
+  "Otomatta ilik açar, düğme diker.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "arac_gerec": [
+  "Sanayi tipi düz dikiş makinesi",
+  "Overlok makinesi",
+  "Otomatik ilik açma ve düğme dikme makinesi (otomat)",
+  "Kalıp kağıdı, karton ve kalıp hazırlama araçları",
+  "Kesim makası ve kumaş kesim bıçağı",
+  "Mezür (şerit metre), cetvel, gönye",
+  "Tebeşir, işaretleme kalemi, karbon kağıdı",
+  "Ütü ve ütü masası, buharlı ütü sistemleri",
+  "İğne, yüksük, çeşitli kalınlık ve renkte iplik",
+  "Palto, kaban, pardösü, mont kumaşları",
+  "Astar, vatka, keçe gibi yardımcı malzemeler",
+  "Düğme, kopça, fermuar, çıt çıt gibi tamamlayıcı malzemeler",
+  "Dikiş sökücü"
+ ],
+ "genel_ozellikler": [
+  "El becerisine ve el-göz koordinasyonuna sahip,",
+  "Dikkatli ve titiz,",
+  "Estetik görüşe ve renk-form uyumunu ayırt edebilen,",
+  "Sabırlı, düzenli ve temiz çalışan,",
+  "Belirli ölçü ve standartlara uygun çalışmaya özen gösteren,",
+  "Takım halinde çalışmaya uyumlu,",
+  "Ayakta ve oturarak uzun süre çalışabilecek fiziksel dayanıklılığa sahip"
+ ],
+ "calisma_ortami": "Erkek dış giysileri dikimi elemanı genellikle konfeksiyon fabrikalarının, tekstil atölyelerinin ve terzihanelerin üretim bölümlerinde, kapalı mekânlarda çalışır. Çalışma ortamı zaman zaman gürültülü olabilir; kumaş tozu ile ütüleme işlemlerinden kaynaklanan nem ve sıcaklık söz konusudur. Çalışma büyük ölçüde oturarak (dikiş makinesi başında) yürütülür; kesim ve ütüleme gibi bazı aşamalarda ayakta çalışılır.\n\nÇalışma saatleri genellikle hafta içi tam gün olup, işletmenin çalışma düzenine göre cumartesi günlerini de kapsayabilir. Meslek elemanı çalışması sırasında kesimci, kalıpçı, kalite kontrol elemanları, atölye şefi/ustabaşı ve diğer dikiş çalışanlarıyla sürekli iletişim halindedir. Dikkatsizlik durumunda iğne batması, kesim aletleriyle yaralanma ve ütüden kaynaklanan yanık gibi riskler bulunabilir.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi; Halk Eğitim Merkezlerinde \"Giyim Üretim Teknolojisi\" alanında açılan kurslarda, mesleki ve teknik eğitim veren okulların ilgili alan/dallarında, belediyeler ile özel kurum ve kuruluşların açtığı meslek kurslarında verilmektedir. Ayrıca konfeksiyon işletmelerinde işbaşında, usta yanında yetişme yoluyla da bu mesleğe girilebilmektedir.",
+  "giris_kosullari": [
+   "İlköğretim mezunu olmak (mesleğin gerektirdiği minimum eğitim düzeyi)",
+   "Halk eğitim merkezi kurslarına her yaş, eğitim ve kültür düzeyinden kişiler katılabilir",
+   "18 yaşından küçükler veli izniyle katılabilir",
+   "El becerisi ve dikkat gerektiren işlere uygunluk"
+  ],
+  "sure_ve_icerik": "Kurs süreleri, uygulanan programa ve kuruma göre değişmekle birlikte genellikle birkaç aydan bir yıla kadar sürebilmektedir. Eğitim içeriğinde; dikiş makinelerinin ve overlok makinesinin tanınması ve kullanımı, ölçü alma, kalıp hazırlama, kumaş kesimi, palto-kaban-pardösü-mont dikim teknikleri, ilik açma ve düğme dikme, ütüleme ve süsleme işlemleri, iş sağlığı ve güvenliği konuları yer alır. İşyerlerinde işbaşında eğitim ile yetişme süresi, kişinin önceki beceri düzeyine göre değişebilir.",
+  "belge": "Halk eğitim merkezi ve benzeri kurumlarda eğitimi tamamlayanlara \"Kurs Bitirme Belgesi\" verilmektedir. Ayrıca Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Erkek dış giysileri dikimi elemanı başlıca hazır giyim ve konfeksiyon fabrikalarında, tekstil ve terzi atölyelerinde, moda evlerinde ve kişiye özel dikim yapan terzihanelerde istihdam edilir. Giyinme insanların temel gereksinimlerinden biri olduğundan bu meslek her zaman belirli bir istihdam hacmine sahiptir; ancak sektör, iç ve dış piyasa koşullarına, sipariş hacmine ve mevsimsel dalgalanmalara bağlı olarak zaman zaman daralma ve genişleme gösterebilir. İşverenler, sipariş durumuna göre çalışan sayısını artırıp azaltabilmektedir.",
+ "kazanc": {
+  "egitim_suresince": "Halk eğitim merkezi ve benzeri kurumlarda açılan kurslara katılanlar genellikle herhangi bir ücret almaz; kursa katılım ücretsiz olup kişi kendi masraflarını karşılar. İşyerlerinde işbaşında usta yanında yetişenler, çalıştıkları süre için işveren ile yaptıkları anlaşmaya göre düşük düzeyde bir ücret alabilir.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanların kazancı genellikle asgari ücret düzeyindedir.",
+   "Deneyim, beceri düzeyi ve çalışılan işyerinin büyüklüğüne bağlı olarak ücret artabilir.",
+   "Bazı işletmelerde parça başı (adet üzerinden) ücretlendirme de uygulanabilmektedir.",
+   "Kamuda bu meslekle doğrudan istihdam yaygın değildir; çalışma genellikle özel sektörde işveren ile karşılıklı anlaşmaya dayanır."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Meslekte resmî ve kademeli bir dikey ilerleme basamağı bulunmamaktadır. Kişi deneyim kazandıkça kalıp hazırlama, artistik çizim veya kesim gibi daha uzmanlık isteyen işlemlere yönelerek bilgi ve becerisini geliştirebilir; isteğe bağlı olarak Halk Eğitim Merkezleri ve İŞKUR'un açtığı ileri düzey kurslara katılabilir.",
+  "is_hayatinda": "Deneyim kazanan erkek dış giysileri dikimi elemanı, çalıştığı işyerinde usta, ekip lideri, atölye şefi veya formen olabilir; kalite kontrol sorumluluğu üstlenebilir. Yeterli sermaye ve deneyime sahip olanlar kendi atölyesini kurarak fason üretim yapabilir veya kişiye özel dikim hizmeti verebilir."
+ },
+ "benzer_meslekler": [
+  "Kadın Dış Giysileri Dikim Elemanı",
+  "Çocuk Dış Giysileri Dikim Elemanı",
+  "Erkek Üst Giysileri Dikim Elemanı",
+  "Erkek İç Giysileri Dikimi Elemanı",
+  "Erkek Giysileri Kalıp Hazırlama Elemanı",
+  "El ve Makine Dikişçisi"
+ ],
+ "ek_bilgiler": "Mesleğin icrası sırasında kesici ve dikişli makinelerle çalışıldığından iş sağlığı ve güvenliği kurallarına uyulması önemlidir. Hazır giyim sektöründeki talep, mevsimsel koleksiyon dönemlerine göre dalgalanma gösterebilir; bu durum çalışma yoğunluğunu ve istihdamı etkileyebilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T08:57:07",
+  "usage": {
+   "input_tokens": 4,
+   "output_tokens": 8258
+  }
+ }
+}

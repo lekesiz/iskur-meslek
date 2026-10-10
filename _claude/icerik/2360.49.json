@@ -1,0 +1,76 @@
+{
+ "arac_gerec": [
+  "Statik ve dinamik tırmanma halatları",
+  "Oturak kemer (harness) ve emniyet kemer sistemleri",
+  "Karabina ve konnektörler",
+  "İniş cihazları (descender)",
+  "Çıkış/tırmanma cihazları (ascender)",
+  "Ankraj ve bağlantı ekipmanları, şutlar",
+  "Baret/kask ve kişisel koruyucu donanım (KKD)",
+  "Kurtarma kitleri ve taşıma sedyeleri (rescue stretcher)",
+  "PPE (kişisel koruyucu ekipman) muayene ve kontrol formları",
+  "Eğitim amaçlı yapay tırmanma yapıları, kuleler veya platformlar",
+  "İlk yardım malzemeleri",
+  "Görsel eğitim araçları (projeksiyon, sunum, eğitim videoları)",
+  "Müfredat ve değerlendirme/sınav dokümanları",
+  "Düğüm örnekleri ve eğitim maketleri"
+ ],
+ "benzer_meslekler": [
+  "Eğitmen",
+  "Uzman Öğretici",
+  "Usta Öğretici (Diğer)"
+ ],
+ "calisma_alanlari": "İple erişim eğitmenleri; enerji sektöründe (rüzgar türbini bakımı, elektrik iletim hatları), inşaat ve cephe işlerinde, petrol-gaz tesisleri ve rafinerilerde, telekomünikasyon kulelerinde, gemi ve offshore yapılarda, endüstriyel tesislerin bakım-onarım birimlerinde ve maden/tünel gibi yüksekte veya derinlikte çalışma gerektiren alanlarda görev alan kişilere eğitim verirler.\\n\\nBu eğitmenler genellikle özel eğitim ve belgelendirme şirketlerinde, iş güvenliği danışmanlık firmalarında, büyük sanayi kuruluşlarının eğitim birimlerinde veya kendi kurdukları eğitim merkezlerinde çalışırlar. Kamu kurumlarının yüksekte çalışma veya kurtarma ekiplerine (itfaiye, arama-kurtarma birimleri vb.) eğitim desteği verme olanağı da bulunmaktadır. İş bulma olanakları, sektörde yüksekte çalışma güvenliğine yönelik farkındalık ve mevzuat uyumu arttıkça gelişmektedir.",
+ "calisma_ortami": "İple erişim eğitmeni, eğitimlerin bir kısmını kapalı mekânlarda (sınıf, eğitim salonu) teorik olarak verirken, uygulamalı eğitimleri genellikle açık alanlarda, yapay tırmanma yapılarında, inşaat sahalarında, endüstriyel tesislerde veya yüksek yapılarda gerçekleştirir. Çalışma ortamı fiziksel efor gerektirir; yükseklikte çalışma nedeniyle düşme riski başta olmak üzere belirli iş güvenliği riskleri taşır, bu nedenle kişisel koruyucu donanım kullanımı ve güvenlik protokollerine titizlikle uyulması gerekir. Hava koşullarına bağlı olarak açık hava çalışmaları etkilenebilir.\\n\\nÇalışma saatleri, verilen eğitimin programına ve müşteri kuruluşun ihtiyacına göre değişkenlik gösterebilir; bazı eğitimler saha ziyaretleri nedeniyle şehir dışı veya farklı tesislerde yoğun program şeklinde yürütülebilir. Eğitmen; kursiyerler, işveren veya işletme temsilcileri, iş güvenliği uzmanları ve belgelendirme kuruluşlarının yetkilileriyle sürekli iletişim halindedir.",
+ "egitim": {
+  "verildigi_yerler": "İple erişim eğitmenliği için Türkiye'de örgün bir okul veya üniversite programı bulunmamaktadır. Bu alanda eğitmenlik yetkisi, uluslararası düzeyde tanınan IRATA (International Rope Access Trade Association) veya SPRAT (Society of Professional Rope Access Technicians) gibi kuruluşların onayladığı eğitim ve değerlendirme (Trainer/Assessor) programları ile kazanılır. Bu programlar Türkiye'de ilgili kuruluşlardan yetki almış özel eğitim şirketleri tarafından yürütülmektedir.",
+  "giris_kosullari": [
+   "En az ortaöğretim (lise ve dengi) mezunu olmak",
+   "İple erişim teknisyenliğinde (IRATA/SPRAT sistemine göre) en üst teknisyen seviyesine (Seviye 3) ulaşmış olmak",
+   "Belirlenen asgari saha deneyimi ve çalışma saati şartlarını karşılamak",
+   "Yüksekte çalışmaya engel bir sağlık sorunu bulunmadığını gösteren sağlık raporuna sahip olmak",
+   "İlgili sertifikasyon kuruluşunun eğitmen/değerlendirici adaylığı için belirlediği başvuru ve değerlendirme sürecinden geçmek"
+  ],
+  "sure_ve_icerik": "Meslek eğitimi, kademeli bir sistemle ilerler: önce iple erişim teknisyenliğinin farklı seviyelerinde (temel tırmanış ve iniş teknikleri, ekipman kullanımı, kurtarma senaryoları) pratik ve teorik eğitimler alınır; yeterli deneyim ve en üst teknisyen seviyesi kazanıldıktan sonra, eğitmen/değerlendirici yetkisi için ayrı bir eğitmenlik kursu ve değerlendirme süreci tamamlanır. Eğitimin toplam süresi kazanılan deneyim süresine ve ilgili sertifikasyon kuruluşunun şartlarına göre değişmekte olup standart bir süre belirtilememektedir. İçerikte; ip sistemleri ve düğümler, emniyet ekipmanlarının kullanımı ve periyodik kontrolü, yüksekte kurtarma teknikleri, eğitim müfredatı hazırlama ve sınav/değerlendirme yöntemleri yer alır.",
+  "belge": "Eğitimini başarı ile tamamlayanlara, ilgili uluslararası kuruluş (IRATA veya SPRAT) tarafından onaylanmış \"Eğitmen/Değerlendirici (Trainer/Assessor)\" sertifikası verilir. Ayrıca Mesleki Yeterlilik Kurumu (MYK) tarafından düzenlenen ilgili ulusal yeterlilik belgesi de istihdamda tercih sebebi olabilir."
+ },
+ "ek_bilgiler": "İple erişim eğitmenliği, yüksekte çalışma riski taşıyan ve bu nedenle dikkat, deneyim ve fiziksel uygunluk gerektiren özel bir alandır. Bu mesleği uygulayabilmek için öncelikle iple erişim teknisyenliğinde (IRATA/SPRAT) üst düzey sertifika ve ciddi miktarda saha deneyimi kazanılması gerekir; dolayısıyla meslek, genellikle teknisyenlikten ilerleyerek ulaşılan bir uzmanlık basamağıdır. Yüksekte çalışma, ilgili mevzuat kapsamında tehlikeli veya çok tehlikeli işler arasında değerlendirilebileceğinden, eğitmenlerin ve kursiyerlerin iş sağlığı ve güvenliği kurallarına eksiksiz uyması önemlidir.",
+ "genel_ozellikler": [
+  "Yükseklik korkusu olmayan, fiziksel olarak güçlü ve dayanıklı",
+  "Dikkatli, titiz ve sorumluluk sahibi",
+  "Kriz ve acil durumlarda soğukkanlı kalıp hızlı ve doğru karar verebilen",
+  "İyi anlatım gücüne sahip, bilgi ve beceriyi başkalarına aktarabilen",
+  "Sabırlı ve öğretici yaklaşıma sahip",
+  "Teknik bilgiye ve kapsamlı pratik deneyime sahip",
+  "Liderlik özellikleri taşıyan ve grup yönetebilen",
+  "Takım çalışmasına uyumlu, güvenlik kurallarına titizlikle uyan"
+ ],
+ "gorevler": [
+  "Uluslararası standartlara (IRATA/SPRAT) uygun eğitim müfredatı hazırlar",
+  "İp sistemleri, düğümler ve emniyet ekipmanlarının kullanımını uygulamalı olarak gösterir",
+  "Kursiyerlere yüksekte kurtarma senaryoları üzerine eğitim verir",
+  "Ekipmanların periyodik muayene ve standart uygunluk kontrollerini (PPE) öğretir",
+  "Eğitim sonu yeterlilik sınavlarını yönetir ve belgelendirme yapar",
+  "Mesleki gelişim faaliyetlerinde bulunur"
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Meslek eğitiminde ilerleme, iple erişim teknisyenliğinin ilk seviyesinden başlayarak deneyim kazanıldıkça üst seviyelere (Seviye 2, Seviye 3) yükselme ve ardından eğitmen/değerlendirici yetkisi kazanma şeklinde gerçekleşir. İleri düzeyde, kurtarma teknikleri veya ekipman denetimi gibi alt alanlarda uzmanlaşma sağlanabilir.",
+  "is_hayatinda": "İş hayatında deneyim arttıkça baş eğitmenlik, eğitim koordinatörlüğü veya eğitim merkezi yöneticiliği gibi görevlere geçilebilir. Ayrıca iş sağlığı ve güvenliği uzmanlığı gibi tamamlayıcı yetkinliklerle birleştirerek danışmanlık hizmeti verilebilir veya kendi eğitim/sertifikasyon işletmesi kurulabilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Eğitim süresince standart bir öğrenci kazancı bulunmamaktadır; teknisyenlik seviyelerinden eğitmenliğe geçiş sürecinde kişi genellikle zaten bir işte çalışmakta olup, eğitmenlik kursu ve sertifikasyon giderlerini kendisi veya çalıştığı işletme karşılar.",
+  "egitim_sonrasi": [
+   "Eğitim sonrasında kazanç, çalışılan sektöre, eğitmenin deneyimine, sahip olduğu sertifika seviyesine ve iş hacmine göre değişmektedir.",
+   "Kamu kurum veya kuruluşlarında istihdam edilenler için 657 sayılı Devlet Memurları Kanunu veya ilgili toplu iş sözleşmesi hükümleri geçerlidir.",
+   "Özel sektörde çalışanların kazancı işveren ile yapılan anlaşmaya, verilen eğitim sayısına ve piyasa koşullarına bağlı olarak değişir; yeni başlayanlarda kazanç genellikle asgari ücret düzeyinde olabilirken, deneyim ve talep arttıkça bu düzeyin üzerine çıkabilir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T05:00:15",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6934
+  }
+ }
+}

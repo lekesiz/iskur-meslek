@@ -1,0 +1,83 @@
+{
+ "arac_gerec": [
+  "Güç transformatörleri",
+  "Kesiciler ve ayırıcılar",
+  "OG (orta gerilim) modüler giriş, ölçüm ve çıkış hücreleri",
+  "Kısa devre ve kaçak akım koruma röleleri",
+  "Aşırı akım, ısınma koruma ve bucholz röleleri",
+  "Dağıtım transformatör merkezi donanımları",
+  "Kuranportör ve haberleşme ağı ekipmanları",
+  "DA kaynak makineleri ve motorları",
+  "Ölçü ve kontrol aletleri (avometre, megger, topraklama ölçer vb.)",
+  "İzoleli el aletleri (tornavida, pense, anahtar takımı vb.)",
+  "Bağlantı kabloları ve bağlama elemanları",
+  "Kaldırma ve taşıma ekipmanları (vinç, transpalet, el arabası vb.)",
+  "Kişisel koruyucu donanım (izoleli eldiven, baret, yalıtkan ayakkabı, emniyet kemeri, gözlük, kulaklık vb.)"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve sorumluluk sahibi,",
+  "El ve beden koordinasyonu iyi,",
+  "Matematik ve fizik bilgisine sahip,",
+  "Teknik resim ve şema okuyabilen,",
+  "Renk körlüğü bulunmayan,",
+  "Takım çalışmasına uygun,",
+  "Elektrik ve elektronik alanına ilgili,",
+  "Acil ve riskli durumlarda soğukkanlı kalabilen,"
+ ],
+ "calisma_ortami": "Enerji Üretim Tesisleri İşletme ve Bakım Onarımcısı; termik, hidroelektrik, rüzgâr, güneş ve biyogaz santralleri ile trafo merkezleri ve enerji dağıtım tesislerinde, hem kapalı mekânlarda (kumanda odaları, şalt binaları) hem de açık havada (şalt sahaları, direk ve hat çalışmaları) görev yapar. Yüksek gerilimle çalışması nedeniyle elektrik çarpması, yanık ve düşme riski bulunur; gürültü, toz ve mevsim koşullarına açık ortamlarda çalışabilir.\n\nEnerji üretim tesisleri genellikle kesintisiz hizmet verdiğinden çalışma vardiyalı sistemle (gündüz-gece) yürütülür. Meslek mensubu; mühendisler, teknisyenler, vardiya amirleri ve diğer bakım-onarım personeli ile sürekli iletişim ve iş birliği içinde çalışır; iş sağlığı ve güvenliği kurallarına uyum büyük önem taşır.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi, mesleki ve teknik Anadolu liselerinin ilgili elektrik-elektronik teknolojisi alanı ve enerji ile ilişkili dallarında verilmektedir. Ayrıca Halk Eğitim Merkezleri ile İŞKUR'un açtığı mesleki eğitim kurslarında ve işletmelerde işbaşında usta yanında yetişme yoluyla da bu meslekte bilgi ve beceri kazanılabilmektedir. Konuyla ilgili üniversitelerin ön lisans düzeyindeki elektrik enerjisi üretim, iletim ve dağıtımı ile ilişkili programları da mesleğe hazırlayıcı niteliktedir.",
+  "giris_kosullari": [
+   "Ortaokulu tamamlamış olmak,",
+   "Milli Eğitim Bakanlığınca ilgili alan/dal için belirlenen giriş koşullarını taşımak,",
+   "Kurs programlarına katılım için okuryazar olmak ve kurumun belirlediği yaş ve sağlık şartlarını taşımak."
+  ],
+  "sure_ve_icerik": "Meslek lisesi düzeyindeki eğitim 4 yıl sürer; 9. sınıfta ortak genel kültür dersleri, 10. sınıfta alana yönelik ortak yeterlikler, 11. ve 12. sınıflarda ise elektrik tesisleri ve enerji sistemleriyle ilgili dal dersleri okul, atölye ve işletme ortamında teorik ve uygulamalı olarak verilir. İş başında yetişenler için eğitim süresi ve içeriği, çalışılan işletmenin ve kursun programına göre değişir; transformatör, kesici, ayırıcı, röle montajı ve bağlantıları gibi uygulamalı konular öne çıkar.",
+  "belge": "Meslek lisesi mezunları diploma alır. İşbaşında veya kurs yoluyla yetişenlere kurs/katılım belgesi verilebilir. Mesleki Yeterlilik Kurumu (MYK) Mesleki Yeterlilik Belgesi, bu meslekte istihdamda tercih sebebi olabilir; yüksek gerilimle çalışma içeren işlerde işveren tarafından aranabilir."
+ },
+ "calisma_alanlari": "Enerji Üretim Tesisleri İşletme ve Bakım Onarımcıları; termik, hidroelektrik, rüzgâr, güneş ve biyogaz santrallerinde, trafo merkezlerinde, elektrik dağıtım ve iletim şirketlerinde, büyük sanayi tesislerinin enerji üretim ve dağıtım ünitelerinde istihdam edilebilirler. Kamuya bağlı enerji üretim ve iletim kuruluşları ile özel sektöre ait enerji santrallerinde çalışma imkânı bulunmaktadır. Türkiye'de yenilenebilir enerji yatırımlarının artması, bu alandaki iş imkânlarını da genişletmektedir.",
+ "kazanc": {
+  "egitim_suresince": "3308 sayılı Mesleki Eğitim Kanunu kapsamında işletmelerde mesleki eğitim gören öğrencilere ücret ödenir; öğrencilerin iş kazası ve meslek hastalığı sigorta primleri devletçe karşılanır. Kurs yoluyla eğitim alanlarda ise genellikle ücret söz konusu değildir.",
+  "egitim_sonrasi": [
+   "İlk işe girişte kazanç genellikle asgari ücret düzeyindedir.",
+   "Deneyim, bilgi-beceri düzeyi ve çalışılan işletmenin büyüklüğüne göre kazanç artabilir.",
+   "Kamu kuruluşlarında çalışanlar için ücret 657 sayılı Devlet Memurları Kanunu veya ilgili toplu iş sözleşmesi hükümlerine göre belirlenir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Meslek lisesi mezunları, alanının devamı niteliğinde olan ve ilgili sınav kılavuzlarında belirtilen elektrik-elektronik, elektrik tesisleri veya enerji sistemleri ile ilgili ön lisans/lisans programlarını tercih ettiklerinde ek puan alabilir ve bu programlara yerleşebilirler.",
+  "is_hayatinda": "Mesleki deneyim ve bilgi birikimi arttıkça usta, ekip şefi, vardiya amiri veya tesis/saha sorumlusu gibi görevlere yükselme imkânı bulunmaktadır."
+ },
+ "benzer_meslekler": [
+  "Yüksek Gerilim Trafo Merkezi İşletme Elemanı",
+  "Termik Santral Elektrik İşletme Operatörü",
+  "Termik Santral Elektrik Bakımcısı",
+  "Elektrik Tevzii Tablosu Operatörü-Enerji Merkezi",
+  "Hidroelektrik Santral Operatörü",
+  "Vardiya Amiri/Elektrik Enerjisi Üretimi"
+ ],
+ "ek_bilgiler": "Türkiye'de yenilenebilir ve konvansiyonel enerji üretim kapasitesindeki artış, trafo merkezleri ve santrallerde işletme-bakım onarım personeline olan talebi artırmaktadır. Yüksek gerilimle çalışma nedeniyle meslek, iş sağlığı ve güvenliği açısından titizlikle uygulanan eğitim ve sertifikasyon süreçlerini gerektirebilir.",
+ "gorevler": [
+  "Enerji üretimi santral donanımlarının özelliklerini seçer.",
+  "Güç transformatörlerinin yapısını ve özelliklerini seçer.",
+  "Kesicilerin montajını yapar.",
+  "Ayırıcıların montajını yapar.",
+  "Dağıtım transformatör merkezlerinin özelliklerini seçer ve montajını yapar.",
+  "Enerji üretim ve trafo merkezi kuranportör ve ağ sistemini seçer.",
+  "Kısa devre ve kaçak akım koruma rölelerinin montaj ve bağlantılarını yapar.",
+  "Aşırı akım, ısınma koruma ve bucholz rölelerinin montaj ve bağlantılarını yapar.",
+  "DA kaynak ve motorlarının montaj ve bağlantılarını yapar.",
+  "OG modüler giriş hücresinin montajını yapar.",
+  "OG modüler ölçüm hücresinin montajını yapar.",
+  "OG modüler çıkış hücresinin montajını yapar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T10:53:07",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 7491
+  }
+ }
+}

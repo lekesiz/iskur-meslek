@@ -1,0 +1,78 @@
+{
+ "gorevler": [
+  "Ekstrüzyon kalıplarını makine üzerinde uygun biçimde söker ve bağlar.",
+  "Ekstrüzyonla üretim için istenilen özellikte hammadde hazırlar.",
+  "İstenilen özelikte ürün elde edecek şekilde makineyi ayarlar.",
+  "Plastik ekstrüzyon makinesinde istenilen özellikte ürün elde eder.",
+  "Plastik ekstrüzyon makinesini kurallara uygun olarak kapatır.",
+  "Plastik ekstrüzyon makinesinde meydana gelen ürün hatalarını giderir.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "arac_gerec": [
+  "Plastik ekstrüzyon makinesi",
+  "Ekstrüzyon kalıpları (die/baş)",
+  "Hammadde besleme hunisi (hopper)",
+  "Ekstruder vida ve silindir (screw-barrel) grubu",
+  "Isıtıcı bantlar ve ısı kontrol üniteleri",
+  "Soğutma havuzu/soğutma sistemi",
+  "Çekme ünitesi (haddeler/silindirler)",
+  "Kesme/kesim üniteleri",
+  "Kalibratör",
+  "Karıştırıcı/mikser",
+  "Ölçüm aletleri (kumpas, metre, kalınlık ölçer)",
+  "Kontrol paneli/PLC ekranı",
+  "El aletleri (anahtar, tornavida vb.)",
+  "Kişisel koruyucu donanım (eldiven, koruyucu gözlük, kulaklık)"
+ ],
+ "genel_ozellikler": [
+  "El ve göz koordinasyonuna sahip,",
+  "Dikkatli ve sorumluluk sahibi,",
+  "Makine ve mekanik sistemlere ilgili,",
+  "Fiziksel olarak dayanıklı,",
+  "Vardiyalı çalışmaya uygun,",
+  "Takım çalışmasına uygun,",
+  "Temizlik ve düzene özen gösteren,"
+ ],
+ "calisma_ortami": "Plastik ekstrüzyon makinesi operatörleri genellikle fabrika ve atölyelerde, kapalı mekanlarda çalışırlar. Çalışma ortamı makinelerin çalışması nedeniyle gürültülü, ısıtıcı elemanlar ve eriyik plastik hammadde nedeniyle sıcak ve kokulu olabilir. Ayakta ve uzun süre makine başında çalışmayı gerektirir; sıcak yüzeyler, hareketli parçalar ve hammadde taşınması nedeniyle iş kazası riski bulunduğundan iş sağlığı ve güvenliği kurallarına uyulması önemlidir.\n\nÇalışma genellikle vardiyalı sistemde (gündüz, akşam, gece) yürütülür. Meslek mensupları çalışması sırasında makine, vardiya arkadaşları, bakım personeli ve amirleriyle sürekli iletişim içindedir.",
+ "egitim": {
+  "verildigi_yerler": "Plastik Ekstrüzyon Makinesi Operatörlüğü için standart bir örgün meslek lisesi programı bulunmamaktadır. Meslek genellikle işyerinde usta yanında uygulamalı olarak öğrenilir. Bunun yanında Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kursları ile Milli Eğitim Bakanlığına bağlı mesleki ve teknik eğitim kurumlarının plastik teknolojisi alanına ilişkin programları da mesleğe temel bilgi ve beceri kazandırabilir.",
+  "giris_kosullari": [
+   "En az ilköğretim/ortaokul mezunu olmak",
+   "Vardiyalı ve fiziksel çalışmaya uygun sağlık durumuna sahip olmak",
+   "İşbaşında eğitim için ilgili işletmede çalışmaya başlamak"
+  ],
+  "sure_ve_icerik": "Mesleğin eğitim süresi ve içeriği standart bir programla belirlenmemiştir. İşbaşında eğitim süresi işletmeye ve kişinin öğrenme hızına göre değişmekle birlikte genellikle usta yanında birkaç ay içinde temel beceriler kazanılır. Kurslarda hammadde özellikleri, makine kullanımı, kalıp takma-sökme, makine ayarları, üretim hataları ve giderilmesi, iş sağlığı ve güvenliği gibi konularda teorik ve uygulamalı eğitim verilir.",
+  "belge": "İşbaşında eğitimin sonunda resmi bir diploma verilmemektedir; kurslara katılanlara katılım/başarı belgesi verilebilir. Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Plastik Ekstrüzyon Makinesi Operatörleri; plastik boru, profil, levha, film, ambalaj malzemesi, kablo kaplama ve benzeri ürünlerin üretildiği plastik işleme fabrika ve atölyelerinde çalışırlar. Bu meslek mensupları çoğunlukla özel sektöre ait işletmelerde istihdam edilir. Plastik sektörünün Türkiye'de yaygın ve gelişmekte olan bir sanayi kolu olması nedeniyle, nitelikli ve tecrübeli operatörlere iş bulma konusunda genel olarak olanak bulunmaktadır.",
+ "kazanc": {
+  "egitim_suresince": "İşbaşında usta yanında eğitim gören kişi, çalıştığı işletmenin belirlediği ücretle istihdam edilir; bu dönemde genellikle asgari ücret düzeyinde bir kazanç söz konusudur. Halk Eğitim Merkezi veya İŞKUR kurslarına katılanlara eğitim süresince ücret ödenmeyebilir; bazı kurs programlarında kursiyerlere sınırlı tutarda harcırah verilebilir.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Deneyim, bilgi, beceri ve çalışılan işletmenin büyüklüğüne göre kazanç artabilir.",
+   "Vardiyalı çalışma ve fazla mesai uygulamaları ek kazanç sağlayabilir.",
+   "Bu meslekte istihdam ağırlıklı olarak özel sektörde gerçekleşmektedir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Çeşitli kurum ve kuruluşlarca düzenlenen mesleki eğitim kurslarına katılarak bilgi ve becerilerini geliştirebilir; isteyenler Milli Eğitim Bakanlığına bağlı mesleki ve teknik eğitim kurumlarının plastik teknolojisi alanına yönelerek daha kapsamlı teknik eğitim alabilirler.",
+  "is_hayatinda": "Deneyim ve bilgi birikimi kazandıkça usta, ekip lideri, bakım sorumlusu veya üretim şefliği gibi görevlere yükselebilirler."
+ },
+ "benzer_meslekler": [
+  "Plastik Çekme Makinesi Operatörü",
+  "Plastik Levha ve Dökme Film Üretim Operatörü (Ekstrüzyon)",
+  "Plastik Profil Üretim Operatörü (Ekstrüzyon)",
+  "Plastik Şişirme Film Üretim Operatörü (Ekstrüzyon)",
+  "Plastik Ekstrüzyon Kalıpçısı",
+  "Plastik Boru İmal İşçisi"
+ ],
+ "ek_bilgiler": "Çalışma sırasında makinenin sıcak yüzeyleri, hareketli parçaları ve eriyik hammaddeyle doğrudan çalışma nedeniyle yanık, sıkışma ve kesilme gibi iş kazası risklerine karşı iş sağlığı ve güvenliği önlemlerine özellikle uyulması gerekir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T13:01:16",
+  "usage": {
+   "input_tokens": 4,
+   "output_tokens": 8869
+  }
+ }
+}

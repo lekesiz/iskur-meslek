@@ -1,0 +1,69 @@
+{
+ "arac_gerec": [
+  "Sır solüsyonu/küveti (banyosu)",
+  "Maşa",
+  "Seramik mutfak eşyaları (tabak, çanak, fincan vb.)",
+  "Kurutma rafları",
+  "Keçe disk",
+  "Koruyucu eldiven",
+  "Koruyucu önlük",
+  "Toz/kimyasal maskesi",
+  "Sır hazırlama kapları ve karıştırıcılar",
+  "İş elbisesi",
+  "Temizlik bezleri ve fırçaları"
+ ],
+ "genel_ozellikler": [
+  "El becerisine sahip,",
+  "Dikkatli ve sabırlı,",
+  "Düzenli ve sistemli çalışabilen,",
+  "El-göz koordinasyonu gelişmiş,",
+  "Ayakta ve tekrarlı hareketlerle çalışmaya uygun fiziksel yapıya sahip,",
+  "Kullanılan kimyasal maddelere alerjisi olmayan,",
+  "Takım halinde çalışmaya istekli"
+ ],
+ "calisma_ortami": "Seramik boyacıları (daldırmayla), seramik mutfak eşyaları, porselen ve çini üreten fabrika ve atölyelerde, kapalı mekânlarda çalışırlar. Çalışma süresince sır küvetlerinin başında ayakta durarak, elleriyle veya maşa kullanarak tekrarlayan hareketlerle görev yaparlar. Ortam nemli olabilir ve sır solüsyonundaki kimyasallarla sürekli temas söz konusu olduğundan eldiven, önlük ve gerektiğinde maske gibi koruyucu donanım kullanılması gerekir.\n\nMeslek elemanları genellikle üretim bandı temposuna uygun, vardiyalı çalışma düzeninde, ekip arkadaşları, ustabaşı ve kalite kontrol elemanlarıyla iş birliği içinde görev yaparlar. İşin niteliği, çalışanların malzeme ve ekipmanla yoğun ilgilenmesini gerektirdiğinden dışarıyla iletişim sınırlıdır.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi için örgün olarak tanımlanmış, standart bir mesleki eğitim programı bulunmamaktadır. Meslek genellikle seramik/porselen üretim işletmelerinde işbaşında usta yanında yetiştirilerek kazanılmaktadır. Ayrıca Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kurslarında da temel bilgi ve uygulama eğitimi verilebilmektedir.",
+  "giris_kosullari": [
+   "İlköğretim mezunu olmak",
+   "Kurs veya işletme tarafından belirlenen yaş ve sağlık şartlarını taşımak"
+  ],
+  "sure_ve_icerik": "İşbaşı eğitimde süre işletmeye ve kişinin becerisine göre değişmekle birlikte, usta yanında birkaç aydan bir yıla kadar sürebilir. Açılan kurslarda ise seramik hammaddeleri, sır hazırlama, daldırma tekniği, kurutma işlemleri ve kalite kontrol gibi konularda bilgi ve uygulamalı eğitim verilmektedir.",
+  "belge": "İşbaşında yetişenlere genellikle resmi bir belge verilmemektedir. Kurs yoluyla eğitim alanlara 'Kurs Bitirme Belgesi' verilir. Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Bu meslek elemanları, seramik mutfak eşyaları, porselen ve çini üreten özel sektöre ait fabrika ve atölyelerde çalışabilirler. Seramik sanayinin yoğunlaştığı Kütahya, Bolu, Eskişehir, Çanakkale gibi illerde iş bulma imkânları daha yüksektir. Küçük ölçekli el sanatları ve dekoratif seramik üretimi yapan atölyelerde de istihdam edilebilirler.",
+ "kazanc": {
+  "egitim_suresince": "İşbaşında yetişenler, çalıştıkları işletmeden genellikle asgari ücret düzeyinde bir ücret alabilir; kurs yoluyla eğitim alanlara ise doğrudan bir ücret ödenmemektedir.",
+  "egitim_sonrasi": [
+   "Ücretler çalışılan işletmenin büyüklüğüne, bölgeye ve kişinin deneyimine göre değişmekle birlikte yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Deneyim ve beceri arttıkça ücretler işveren ile yapılan anlaşmaya göre yükselebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Bu meslekte örgün bir ilerleme basamağı tanımlanmamıştır. Deneyim kazanan meslek elemanları ustalık düzeyine ulaşabilir ve yeni başlayan çalışanları eğitebilir.",
+  "is_hayatinda": "Deneyim ve beceri kazandıkça usta, ekip sorumlusu veya kalite kontrol elemanı olarak görev alabilir; büyük fabrikalarda vardiya amirliğine kadar yükselebilirler."
+ },
+ "benzer_meslekler": [
+  "Boyacı (Daldırma İle)",
+  "Seramik Süsleyicisi (Elle)",
+  "Seramik Süsleyici (Püskürtmeyle)",
+  "Seramik Dekoratörü",
+  "Lak Sürücü (Fırça İle)"
+ ],
+ "ek_bilgiler": "Sır banyolarında kullanılan kimyasal maddelerle sürekli temas söz konusu olduğundan, çalışma sırasında eldiven, önlük ve gerektiğinde maske gibi koruyucu ekipmanların kullanılması önemlidir.",
+ "gorevler": [
+  "Tabak, çanak ve fincan gibi eşyayı maşa veya parmaklarıyla tutup içinde sıvı halinde sır bulunan bir küvete daldırır.",
+  "Eşyayı çıkarıp sıvı halindeki sırın hemen üstüne tutarak sağa sola ve aşağı yukarı çevirir, bu suretle her tarafın sırlanmasını ve sıvı fazlasının sızmasını sağlar.",
+  "Eşyayı rafa koyarak kurutup maşa veya parmak izlerini ovarak giderir.",
+  "Kurumuş eşya üzerindeki sır fazlasını keçe bir disk kullanarak veya diğer usullerle giderir.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T04:17:52",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 4663
+  }
+ }
+}

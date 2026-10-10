@@ -1,0 +1,89 @@
+{
+ "arac_gerec": [
+  "Gaz dedektörü (gaz kaçak ölçüm cihazı)",
+  "Basınç ölçüm cihazı (manometre)",
+  "Sızdırmazlık test köpüğü/solüsyonu",
+  "Boru sıkıştırma (squeeze-off) aparatları",
+  "Vana, regülatör sökme-takma el takımları",
+  "Sayaç sökme-takma ekipmanları",
+  "Genel el aletleri (anahtar takımı, pense, tornavida, testere)",
+  "Kazı için küçük el aletleri (kazma, kürek, balyoz)",
+  "Uyarı levhası, bariyer, işaret şeridi gibi alan güvenliği malzemeleri",
+  "Kişisel koruyucu donanım (iş elbisesi, eldiven, baret, gaz maskesi)",
+  "Telsiz / mobil haberleşme cihazı",
+  "Acil müdahale servis aracı",
+  "El feneri, projektör",
+  "İhbar kayıt formları, tablet/el terminali"
+ ],
+ "genel_ozellikler": [
+  "El ve beden becerisine sahip,",
+  "Hızlı ve doğru karar verebilen,",
+  "Acil ve stresli durumlarda sakin kalabilen,",
+  "Dikkatli ve sorumluluk sahibi,",
+  "Fiziksel olarak dayanıklı,",
+  "Ekip çalışmasına uyumlu,",
+  "Vardiyalı ve düzensiz çalışma saatlerine uyum sağlayabilen,",
+  "İş sağlığı ve güvenliği kurallarına duyarlı,"
+ ],
+ "calisma_ortami": "Doğal gaz acil müdahale personeli görevini büyük ölçüde açık havada (sokak, cadde, kaldırım, inşaat/kazı alanı), bazen de bina içlerinde (mutfak, kazan dairesi, bodrum gibi kapalı mekânlarda) yürütür. Hava koşullarından, trafikten ve bazen dar, havasız mekânlardan etkilenebilir; görev gaz kaçağı, patlama ve yangın riski taşıyan ortamlarda yapıldığından iş sağlığı ve güvenliği kurallarına titizlikle uyulması zorunludur.\n\nÇalışma genellikle 24 saat esasına göre vardiyalı sistemde yürütülür; ihbar geldiğinde gece-gündüz, hafta sonu ve resmî tatil fark etmeksizin en kısa sürede olay yerine ulaşılması gerekir. Meslek elemanı ihbarda bulunan vatandaşlar, bina yöneticileri, itfaiye ve polis gibi diğer güvenlik birimleri ile doğal gaz dağıtım şirketinin diğer teknik personeliyle sürekli iletişim halinde, genellikle ekip halinde çalışır.",
+ "egitim": {
+  "verildigi_yerler": "Bu meslekte standart bir örgün eğitim programı bulunmamaktadır. Meslek elemanı olmak için gerekli bilgi ve beceriler, genellikle doğal gaz dağıtım şirketlerinin kendi bünyesinde düzenlediği işbaşı/kurum içi eğitimler, usta-çırak ilişkisiyle işbaşında öğrenme ve Halk Eğitim Merkezleri ile İŞKUR'un açtığı mesleki kurslar yoluyla kazanılır. Mesleki eğitim merkezlerinde Tesisat Teknolojisi ve İklimlendirme alanının doğal gaz ile ilgili dallarından mezun olmak, bu mesleğe geçişi kolaylaştırır.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak (meslek lisesi tesisat/doğal gaz bölümlerinden mezun olmak tercih sebebidir)",
+   "Vardiyalı ve 7/24 esasına göre çalışmaya, acil çağrılara hızlı müdahale edebilecek sağlık ve fiziksel duruma sahip olmak",
+   "B sınıfı sürücü belgesine sahip olmak (işyerine göre tercih sebebi)",
+   "Doğal gaz dağıtım şirketinin işe alım sürecini ve kurum içi/işbaşı eğitim programını tamamlamak"
+  ],
+  "sure_ve_icerik": "Mesleğin belirli bir örgün eğitim süresi yoktur. İşe yeni başlayanlar, doğal gaz dağıtım şirketinin eğitim biriminde veya deneyimli personel gözetiminde doğal gaz hatları, sayaç ve regülatör bilgisi, gaz dedektörü kullanımı, kaçak tespiti, acil durum müdahale protokolleri ile iş sağlığı ve güvenliği konularında teorik ve uygulamalı eğitim alır. Bu süreç genellikle birkaç haftadan birkaç aya kadar sürer ve görev süresince periyodik tazeleme eğitimleriyle desteklenir.",
+  "belge": "Eğitim sonunda çoğunlukla şirket içi katılım/yeterlilik sertifikası verilir. Ayrıca, Mesleki Yeterlilik Kurumu (MYK) tarafından yetkilendirilmiş kuruluşlarca yapılan sınavlarda başarılı olunması hâlinde doğal gaz dağıtım hizmetleri alanına ilişkin Mesleki Yeterlilik Belgesi alınabilir; doğal gaz dağıtım faaliyetlerinin tehlikeli/çok tehlikeli işler kapsamında değerlendirilmesi nedeniyle bu belge birçok işveren tarafından istihdamda ön şart olarak aranabilir."
+ },
+ "calisma_alanlari": "Doğal gaz acil müdahale personeli, başta illerde doğal gaz dağıtımı yapan özel veya kamu statüsündeki doğal gaz dağıtım şirketlerinin acil durum/acil müdahale ekiplerinde istihdam edilir. Bu şirketlere hizmet veren taşeron/yüklenici firmalarda da çalışma imkânı bulunmaktadır. Türkiye'de doğal gaz dağıtım ağının giderek daha fazla il ve ilçeye yaygınlaşması, bu alandaki istihdam olanaklarını artırmaktadır.",
+ "kazanc": {
+  "egitim_suresince": "Meslek eğitimi genellikle işbaşında ve kısa süreli kurumsal eğitimler şeklinde yürütüldüğünden, bu dönemde kişi çoğunlukla işe alınmış personel statüsünde ilgili mevzuata göre ücret alır. Örgün mesleki eğitim kapsamında (çıraklık/stajyerlik) eğitim görülmesi hâlinde 3308 sayılı Mesleki Eğitim Kanunu hükümleri uygulanabilir.",
+  "egitim_sonrasi": [
+   "Kamu kurumu veya belediye iktisadi teşekkülü bünyesinde işçi statüsünde çalışanlar, ilgili toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde çalışanların başlangıç ücreti genellikle asgari ücret düzeyindedir; deneyim, kıdem, nöbet/vardiya ödemeleri ve işletmenin büyüklüğüne göre değişebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Bu meslekte örgün bir ilerleme basamağı bulunmamaktadır. İlgili mesleki ve teknik eğitim programlarından (Tesisat Teknolojisi ve İklimlendirme alanı gibi) mezun olmak, açık öğretim yoluyla ortaöğretim/yükseköğretimi tamamlamak ve ilgili mesleki yeterlilik/sertifika programlarına katılmak kariyer gelişimine katkı sağlar.",
+  "is_hayatinda": "Deneyim kazanan personel ekip sorumlusu, vardiya amiri veya acil müdahale ekip şefi gibi görevlere yükselebilir; ayrıca doğal gaz işletme-bakım operatörlüğü ve şebeke bakım-onarım gibi ilgili birimlere geçiş yapabilir."
+ },
+ "benzer_meslekler": [
+  "Doğal Gaz Tesisatçısı",
+  "Doğal Gaz Isıtma ve Gaz Yakıcı Cihaz Servis Personeli",
+  "Doğal Gaz İşletme Bakım Operatörü",
+  "Doğal Gaz Altyapı Yapım ve Kontrol Personeli",
+  "Kayıp-Kaçak Tespit ve Müdahale Elemanı",
+  "Gaz Yakıcı Cihazlar Servis Elemanı"
+ ],
+ "ek_bilgiler": "Doğal gaz dağıtım faaliyetleri, iş sağlığı ve güvenliği mevzuatında tehlikeli/çok tehlikeli işler kapsamında değerlendirilmektedir; bu nedenle işe alımlarda sağlık muayenesi, periyodik eğitim ve Mesleki Yeterlilik Kurumu (MYK) belgesi gibi şartlar aranabilir. Meslek, doğal gaz acil ihbar hattına gelen çağrılara 7/24 esasına göre, en kısa sürede müdahale edilmesini gerektirir.",
+ "gorevler": [
+  "İş sağlığı ve güvenliği önlemlerini alır,",
+  "Çevre güvenlik önlemlerini alır,",
+  "Kalite yönetim sistemi dokümanlarına uygun çalışır,",
+  "İş organizasyonu yapar,",
+  "Çalışma kayıtlarını tutar,",
+  "İş bitiminde donanım ve iş alanı temizliğini yapar,",
+  "Doğal gaz ihbarlarına müdahale eder,",
+  "İhbar kayıtlarını alır,",
+  "İhbar mahalline hareket eder,",
+  "İhbar tipini tespit eder,",
+  "Problemi lokalize eder,",
+  "Problemi çözer,",
+  "Sayaç sökme-takma işlemini yapar,",
+  "Gaz kesme-açma işlemini yapar,",
+  "Servis regülatörü sökme-takma işlemlerini yapar,",
+  "Uyarı levha montajlarını yapar,",
+  "Kazı kontrollerini yapar,",
+  "Mesleki gelişime ilişkin faaliyetleri yürütür."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T23:31:33",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 8843
+  }
+ }
+}

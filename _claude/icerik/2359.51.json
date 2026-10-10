@@ -1,0 +1,83 @@
+{
+ "arac_gerec": [
+  "Elektrik ark kaynağı makinesi",
+  "MIG/MAG (gazaltı) kaynak makinesi",
+  "TIG kaynak makinesi",
+  "Oksi-gaz (oksijen-asetilen) kaynak takımı",
+  "Kaynak elektrotları ve kaynak teli",
+  "Oksijen, asetilen, argon, CO2 gibi gaz tüpleri",
+  "Kaynak maskesi/kaskı ve koruyucu gözlük",
+  "Kaynakçı eldiveni, önlüğü ve iş elbisesi",
+  "Metal kesme ve taşlama makineleri",
+  "Mengene, gönye, kumpas gibi ölçü ve tutturma araçları",
+  "Metal yüzey temizleme araçları (tel fırça, zımpara)",
+  "Demonstrasyon amaçlı örnek kaynak parçaları ve eğitim materyalleri",
+  "Yangın söndürme ve kişisel koruyucu donanım ekipmanları",
+  "Bilgisayar ve ofis araçları (kayıt ve değerlendirme işleri için)"
+ ],
+ "genel_ozellikler": [
+  "El ve beden becerisine sahip,",
+  "Dikkatli, sabırlı ve titiz,",
+  "Öğretmeye ve bilgi/deneyim aktarmaya istekli,",
+  "İyi iletişim kurabilen ve anlatım gücüne sahip,",
+  "Sorumluluk sahibi ve güvenilir,",
+  "Fiziksel olarak dayanıklı,",
+  "İş sağlığı ve güvenliği kurallarına duyarlı,",
+  "Mesleki gelişmeleri takip etmeye istekli"
+ ],
+ "calisma_ortami": "Usta öğretici (kaynakçılık), çalışmalarını genellikle kapalı mekanlardaki atölyelerde, bazen de inşaat veya montaj sahaları gibi açık alanlarda sürdürür. Çalışma ortamında kaynak işlemlerinden kaynaklanan ışık, kıvılcım, duman, gürültü ve yüksek ısı bulunur; bu nedenle koruyucu maske, gözlük, eldiven ve iş elbisesi gibi kişisel koruyucu donanım kullanımı zorunludur. Çalışma saatleri genellikle görev yaptığı mesleki eğitim merkezi, okul veya işletmenin çalışma saatlerine paralel olup gündüz yürütülür, bazı durumlarda vardiyalı çalışma söz konusu olabilir.\n\nMesleğini uygularken aday çırak, çırak, kalfa ve öğrenciler ile sürekli bir arada bulunur; okul/kurum idaresi, diğer öğretmenler, işyeri sahipleri ve ustalarla iş birliği içinde çalışır. Hem bireysel uygulamalı eğitim hem de grup halinde atölye dersleri yürütür.",
+ "egitim": {
+  "verildigi_yerler": "Usta öğreticilik için ayrı, bağımsız bir örgün eğitim programı bulunmamaktadır. Kaynakçılık alanında ustalık yeterliğini kazanmış kişiler, Milli Eğitim Bakanlığına bağlı mesleki eğitim merkezleri (çıraklık eğitim merkezleri), Halk Eğitim Merkezleri veya ilgili kurumlarca düzenlenen usta öğreticilik (pedagojik formasyon) kurslarını tamamlayarak bu unvanı kazanır. Görev aldıkları yerler ise genellikle mesleki eğitim merkezleri, mesleki ve teknik ortaokul/lise atölyeleri ile Halk Eğitim Merkezleridir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak (meslek lisesi veya dengi mezuniyeti tercih sebebidir)",
+   "Kaynakçılık alanında kalfalık ve ustalık belgesine veya ilgili mesleki ve teknik eğitim diplomasına/mesleki yeterlilik belgesine sahip olmak",
+   "Belirlenen mesleki deneyim süresini tamamlamış olmak",
+   "Usta öğreticilik (pedagojik formasyon) eğitimine kabul koşullarını sağlamak"
+  ],
+  "sure_ve_icerik": "Kaynakçılık mesleğinde ustalık, mesleki eğitim merkezlerinde yürütülen çıraklık eğitimi sürecinde (teorik dersler ile işyerinde uygulamalı eğitimin bir arada yürütüldüğü, genellikle birkaç yıl süren bir süreçte) veya mesleki ve teknik eğitim okullarında (meslek lisesi düzeyinde) kazanılır. Ustalık belgesini alan kişiler, usta öğretici olabilmek için ilgili kurumlarca açılan usta öğreticilik kursuna/sertifika programına katılır. Bu programda kaynak teknikleri (elektrik ark, gazaltı/MIG-MAG, TIG, oksi-gaz kaynağı), metal malzeme bilgisi, teknik resim, iş sağlığı ve güvenliği gibi mesleki içerikler ile öğretim yöntem ve teknikleri, ölçme-değerlendirme, iletişim gibi pedagojik içerikli konular yer alır.",
+  "belge": "Kaynakçılık alanında ustalık belgesi ve usta öğreticilik belgesi/sertifikası verilir."
+ },
+ "gorevler": [
+  "Aday çırak, çırak, kalfa ve öğrencilerin iş yerindeki eğitiminden sorumlu olur.",
+  "Kaynakçılık eğitimi ile ilgili gereken makine, araç-gereç ve malzemeler ile eğitim materyallerinin hazırlanmasını sağlar.",
+  "Aday çırak, çırak, kalfa ile mesleki ve teknik eğitim okul ve kurumları öğrencilerine, kaynakçılık ile ilgili kullanılması gereken makine, araç-gereç ve malzemeleri tanıtır.",
+  "Öğrencilere mesleği ile ilgili konularda eğitim verir.",
+  "Öğrencilerin, kaynakçılık ile ilgili konularda uygulama yapmalarını sağlar, gördüğü hata ve eksikliklerin düzeltilmesini sağlar.",
+  "Öğrencilere, kaynakçılık işlerinde kullanılan makine, araç-gereç ve malzemelerin basit bakım-onarım, kontrol ve ayar işleriyle ilgili gerekli eğitimleri verir.",
+  "Öğrencilere iş sağlığı ve güvenliği konularında eğitim verir.",
+  "Meslek dersleri ve atölye uygulama sınavlarında komisyon üyesi olarak görev yapar.",
+  "Öğrencilerin yaptıkları ürünlerin sergilenmesine yardımcı olur.",
+  "Meslek alanı ile ilgili gelişmeleri takip eder, uygular.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "calisma_alanlari": "Usta öğretici (kaynakçılık), başta Milli Eğitim Bakanlığına bağlı mesleki eğitim merkezleri (çıraklık eğitim merkezleri) olmak üzere, mesleki ve teknik ortaokul/lise bünyesindeki metal/kaynak atölyelerinde, Halk Eğitim Merkezlerinde çalışabilir. Ayrıca metal işleri ve kaynak atölyesi bulunan kamu veya özel işletmelerin kendi bünyesinde yürüttükleri eğitim/işbaşı eğitim programlarında, İŞKUR tarafından düzenlenen mesleki eğitim ve işbaşı eğitim programlarında eğitici olarak görev alabilir.",
+ "kazanc": {
+  "egitim_suresince": "Kaynakçılık alanında mesleki eğitim merkezinde çırak veya kalfa olarak eğitim görenler, ilgili mevzuat çerçevesinde işletme tarafından ödenen bir ücret veya harçlıktan yararlanabilir. Usta öğreticilik için düzenlenen sertifika/formasyon eğitimi sürecinde ise genellikle ayrıca bir kazanç söz konusu değildir.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarına bağlı mesleki eğitim merkezi veya okullarda görev alan usta öğreticiler, 657 sayılı Devlet Memurları Kanunu çerçevesinde genellikle ek ders ücreti esasına göre ücretlendirilir; kadrolu değilse ücretli usta öğretici statüsünde çalışabilir.",
+   "Özel sektörde işveren ile yapılan anlaşmaya, mesleki deneyime ve verdiği ders saatine göre değişen ücret alınabilir.",
+   "Mesleğe yeni başlayanlarda kazanç genellikle asgari ücret düzeyinde olabilir; deneyim ve verilen ek ders sayısı arttıkça kazanç da yükselebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "İsteyen usta öğreticiler, ilgili mesleki ve teknik eğitim programlarına veya öğretmenlik formasyonu/pedagojik sertifika programlarına yönelerek kadrolu öğretmenliğe geçiş için gerekli koşulları tamamlayabilir. Ayrıca mesleki yeterlilik sisteminde üst düzey ustalık, eğiticilik ve değerlendiricilik belgeleri alarak yetkinliklerini artırabilir.",
+  "is_hayatinda": "Deneyim kazandıkça atölye şefliği veya alan şefliği gibi görevlere yükselebilir, mesleki eğitim merkezi/okul bünyesinde idari görevlere (müdür yardımcılığı gibi) getirilebilir, kendi atölyesini/işletmesini kurarak hem üretim hem eğitim faaliyetini birlikte sürdürebilir ya da özel kurslarda eğitmen olarak çalışabilir."
+ },
+ "benzer_meslekler": [
+  "Alan Şefi (Mesleki ve Teknik Eğitim)",
+  "Usta Öğretici (Metal Doğramacılığı)",
+  "Usta Öğretici (Metal Levha İşlemeciliği (Bakırcılık)",
+  "Usta Öğretici (Frezecilik)",
+  "Usta Öğretici (Isıl İşlemciliği)",
+  "Usta Öğretici (İş Makineleri Bakım Onarımcılığı)"
+ ],
+ "ek_bilgiler": "Kaynak işleri, iş sağlığı ve güvenliği mevzuatı kapsamında tehlikeli veya çok tehlikeli işler arasında değerlendirilebildiğinden, usta öğreticilerin öğrencilere kişisel koruyucu donanım kullanımı ve iş güvenliği kurallarını eksiksiz öğretmesi büyük önem taşır. Mesleki Yeterlilik Kurumu (MYK) tarafından verilen kaynakçılık ve usta öğreticilik belgeleri, istihdamda tercih sebebi olabilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T04:04:54",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 8657
+  }
+ }
+}

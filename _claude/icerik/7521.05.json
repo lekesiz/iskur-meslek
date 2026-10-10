@@ -1,0 +1,85 @@
+{
+ "arac_gerec": [
+  "Emprenye tesisi/kazanı",
+  "Buhar kazanı ve buhar hatları",
+  "Su ve kimyasal madde tankları",
+  "Giriş-çıkış vanaları",
+  "Basınç ve seviye göstergeleri",
+  "Vakum pompası ve sistemi",
+  "Ağaç istifleme arabası (vagon)",
+  "Parafin banyosu",
+  "Parafin eritme kazanı",
+  "İstif ve taşıma aparatları",
+  "Koruyucu iş elbisesi, eldiven ve iş ayakkabısı",
+  "Koruyucu gözlük ve maske",
+  "Temizlik ve bakım araç gereçleri"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve tedbirli,",
+  "Talimatlara uyan ve sorumluluk sahibi,",
+  "Fiziksel olarak güçlü ve dayanıklı,",
+  "Kimyasal maddelerle ve yüksek sıcaklıkla çalışmaktan çekinmeyen,",
+  "Göstergeleri doğru okuyup yorumlayabilen,",
+  "El ve kollarını eşgüdümle kullanabilen,",
+  "İşçi sağlığı ve iş güvenliği kurallarına duyarlı,",
+  "Ekip çalışmasına uyumlu"
+ ],
+ "calisma_ortami": "Ağaç emprenye işçileri, kereste ve ahşap ürünleri fabrikalarında, orman ürünleri sanayi tesislerinde ve mobilya üretim işletmelerinde, emprenye kazanlarının bulunduğu kapalı atölye ve tesis ortamlarında çalışırlar. Çalışma ortamında buhar, ısı, nem ve kimyasal madde kokusu bulunabilir; kazan ve vanalarla çalışma, dikkatsizlik durumunda yanık, haşlanma veya kimyasal maruziyet riski taşıdığından koruyucu donanım kullanımı ve iş güvenliği kurallarına uyum önemlidir.\n\nÇalışma genellikle ayakta ve bazen vardiyalı düzende sürdürülür. İş sırasında ustabaşı, diğer tesis işçileri, bakım personeli ve kalite kontrol görevlileriyle sürekli iletişim halinde bulunulur.",
+ "gorevler": [
+  "Tesise su, buhar ve sıvı haldeki kimyevi maddeleri doldurur.",
+  "Hazne içine konulan maddelerin miktarını göstergelerden kontrol eder.",
+  "Yumuşatılacak ağaç parçalarını kazanın içindeki arabaya istifler.",
+  "Vanaları açarak kazana su, buhar ve sıvı kimyevi maddeler akıtır.",
+  "Tesisi çalıştırır.",
+  "İşlemin seyrini göstergelerden takip eder.",
+  "Muamele şekline göre suyun kazanda devri-daim yapmasını sağlar.",
+  "Ağaçların yumuşaması için gereken süre bekler.",
+  "İşlemin sonunda kazana sıcak buhar vererek ağaç parçalarına nüfuz eden suyun süzülmesini sağlar.",
+  "Muameleye tabi tutulan ağaç cinsine göre kazana vakum vererek ağacın kurumasını sağlar.",
+  "Çıkış vanasını açarak kazandaki buharı boşaltır.",
+  "Muamele sonunda kazan kapağını açar ve ağaç dolu arabayı kazandan çıkarır.",
+  "Yumuşatılan ağaçları iyi boya tutması için parafin banyosuna daldırır ve çıkarır.",
+  "Üzerindeki fazla parafinleri eritme kazanında eritir.",
+  "Ağaçları kazan içinden çıkarır ve istifler.",
+  "İş bitiminde tesisin bakım ve temizliğini yapar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Ağaç emprenye işçiliği için standart bir örgün mesleki eğitim programı bulunmamaktadır. Meslek genellikle işbaşında, usta yanında çalışılarak öğrenilir. Ayrıca Halk Eğitim Merkezleri ve İŞKUR tarafından açılan mesleki eğitim kurslarında ilgili konularda temel bilgi ve beceri edinilebilir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "Kimyasal maddeler ve yüksek sıcaklıkla çalışmaya uygun sağlık durumuna sahip olmak",
+   "Fiziksel olarak dayanıklı olmak"
+  ],
+  "sure_ve_icerik": "Mesleğe özgü belirli bir eğitim süresi ve müfredatı bulunmamaktadır. Kişi, işe girdiği işletmede deneyimli bir usta veya ustabaşının gözetiminde çalışarak tesisin kullanımını, kimyasal madde dozajlarını, işlem sürelerini ve iş güvenliği kurallarını uygulamalı olarak öğrenir. İŞKUR ve Halk Eğitim Merkezlerinin açtığı kurslarda ise kısa süreli teorik ve uygulamalı eğitim verilebilir.",
+  "belge": "İşbaşında yetişenler için resmi bir diploma söz konusu değildir; katıldıkları kurslardan katılım/kurs tamamlama belgesi alabilirler. Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Ağaç emprenye işçileri; kereste ve ahşap ürünleri üreten fabrikalarda, orman ürünleri sanayi tesislerinde, direk, travers, bahçe mobilyası, palet ve benzeri ürünlerin üretildiği işletmelerde, mobilya sanayine bağlı emprenye tesislerinde istihdam edilirler. İş bulma olanağı, bu tür tesislerin bulunduğu organize sanayi bölgeleri ve orman ürünleri sanayinin yoğun olduğu bölgelerde daha fazladır.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğe özgü standart bir eğitim süreci olmadığından, işbaşında eğitim alan kişiler çalıştıkları işletmenin ücret politikasına göre genellikle asgari ücret düzeyinde bir gelir elde ederler.",
+  "egitim_sonrasi": [
+   "Meslekte yeni başlayanların kazancı genellikle asgari ücret düzeyindedir.",
+   "Çalışılan işletmenin büyüklüğü, kişinin tecrübesi, bilgisi ve sektörün ücret düzeyine göre kazanç değişebilir.",
+   "Özel sektörde ücret, işveren ile çalışan arasındaki anlaşmaya ve işletmenin toplu iş sözleşmesi uygulamasına göre belirlenir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğe özgü örgün bir eğitim kademesi bulunmadığından ilerleme, deneyim kazanımı ve ilgili kurs/sertifika programlarına katılımla sağlanır. Kişiler, iş güvenliği, kimyasal madde kullanımı ve tesis işletimi konularında düzenlenen eğitimlerle bilgi ve becerilerini geliştirebilirler.",
+  "is_hayatinda": "Deneyim kazanan işçiler, zamanla ustabaşı veya tesis sorumlusu konumuna gelebilir. Ayrıca ağaç kurutma, kaplamacılık gibi yakın alanlarda da çalışma deneyimi kazanarak mesleki birikimlerini genişletebilirler."
+ },
+ "benzer_meslekler": [
+  "Ağaç Kurutma İşçisi",
+  "Ağaç İlaçlama İşçisi (Ağaç İşlemede)",
+  "Diğer Ağaç İşlem İşçileri",
+  "Ağaç Değerlendiricisi"
+ ],
+ "ek_bilgiler": "Meslek, yüksek sıcaklık, basınçlı buhar ve kimyasal maddelerle çalışmayı gerektirdiğinden işçi sağlığı ve iş güvenliği önlemlerine özel bir dikkat gösterilmesi gerekir. Çalışanların kullanılan kimyasal maddelerin özelliklerine ve güvenlik talimatlarına uygun koruyucu ekipman kullanması önemlidir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T07:42:59",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5141
+  }
+ }
+}

@@ -1,0 +1,78 @@
+{
+ "gorevler": [
+  "Derileri sınıflandırır, ön budamasını yapar, sayar ve tartar",
+  "Havuzu suyla doldurur, derileri havuza atar, kullanılacak kimyasalların süresini belirler, fiziksel kontroller yapar ve derileri yıkar",
+  "Tulum derileri karın kısmından keserek açar, derinin suda bekleme süresini belirler, derileri sudan çıkarır ve istifler",
+  "Kimyasal malzemeleri dolap içine aktarır, badana için dolabı hazırlar, derileri dolaba alır, elle kılları temizler, kılların temizlenmesi için kimyasal hazırlar ve kılların temizlenme süresini belirler",
+  "Kireçleme yapar, kireç giderir, sama yapar, yağ giderir ve derinin kenarlarını temizler",
+  "Bazifikasyon yapar, istif yapar, tasnif eder, derileri sıkar ve yarır",
+  "Dolapta yıkama işlemini yapar, yıkama işlemine krom verir ve derileri dolaptan döker",
+  "Tıraş makinesinde kalınlık-incelik ayarını yapar ve derileri tıraşlar",
+  "Yağlama ve dolap boyama yapar",
+  "Fiksasyon yapar",
+  "Mesleki gelişim faaliyetlerinde bulunur"
+ ],
+ "arac_gerec": [
+  "Islatma ve kireçleme havuzları",
+  "Tabaklama dolabı (fıçı/drum)",
+  "Tıraşlama (traş) makinesi",
+  "Kesim bıçağı ve el aletleri",
+  "Tartı aletleri",
+  "Kireç, sülfür bileşikleri gibi kimyasal maddeler",
+  "Krom tuzları ve tabaklama kimyasalları",
+  "Yağlama ve boyama maddeleri",
+  "pH ölçüm ve kontrol araçları",
+  "İstifleme ve taşıma ekipmanları (transpalet, araba vb.)",
+  "Kişisel koruyucu donanım (eldiven, çizme, önlük, maske, gözlük)"
+ ],
+ "genel_ozellikler": [
+  "Fiziksel olarak dayanıklı,",
+  "El becerisine sahip,",
+  "Dikkatli ve titiz,",
+  "Kimyasal madde ve kokulu ortamda çalışmaya uyumlu,",
+  "Talimatlara uygun çalışabilen,",
+  "Takım çalışmasına yatkın,",
+  "Sorumluluk sahibi"
+ ],
+ "calisma_ortami": "Deri dolapcılar, tabakhane olarak adlandırılan deri işleme ve tabaklama fabrika ile atölyelerinde çalışır. Çalışma ortamı genellikle nemli, kimyasal madde kokulu ve gürültülüdür; ıslatma havuzları ve dolaplarla iç içe, ayakta ve bazen eğilerek yapılan fiziksel bir çalışma söz konusudur. İşin niteliği gereği eldiven, çizme, önlük, maske ve gözlük gibi kişisel koruyucu donanımların kullanılması gerekir.\n\nÇalışma tam gün sürdürülür; işletmenin üretim yoğunluğuna göre vardiyalı çalışma söz konusu olabilir. Deri dolapcı çalışırken ağırlıklı olarak deri, kimyasal malzeme ve dolap/havuz düzenekleriyle ilgilenir; usta, ustabaşı ve diğer işçilerle sürekli iletişim ve iş birliği içinde bulunur.",
+ "egitim": {
+  "verildigi_yerler": "Deri dolapcılığın örgün bir okul eğitimi sınırlıdır. Meslek, genellikle mesleki ve teknik eğitim kurumlarının deri işleme ile ilgili alanlarında, çıraklık eğitim merkezlerinde ve işletmelerde işbaşında usta yanında yetişilerek kazanılır. Zaman zaman Halk Eğitim Merkezleri ile İŞKUR tarafından açılan mesleki eğitim kurslarında da temel bilgiler verilebilmektedir.",
+  "giris_kosullari": [
+   "İlköğretim mezunu olmak",
+   "Çıraklık eğitimi kapsamında ilgili yaş ve sağlık şartlarını taşımak",
+   "Kimyasal madde ve kokulu, nemli ortamda çalışmaya engel bir sağlık durumunun bulunmaması"
+  ],
+  "sure_ve_icerik": "Eğitim süresi işletmeden işletmeye değişmekle birlikte, işbaşında usta yanında belirli bir süre uygulamalı olarak yürütülür. Eğitim içeriğinde derilerin sınıflandırılması ve hazırlanması, ıslatma, kireçleme, kıl temizleme, bazifikasyon, krom tabaklama, tıraşlama, yağlama, dolap boyama ve fiksasyon gibi işlem basamakları ile iş sağlığı ve güvenliği kuralları yer alır.",
+  "belge": "Çıraklık eğitimini tamamlayanlara kalfalık, ardından ustalık belgesi verilir. Mesleki Yeterlilik Kurumu (MYK) tarafından düzenlenen ilgili alan yeterlilik belgesi, bazı işletmelerde istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Deri dolapcılar, ham veya yarı işlenmiş deriyi işleyen tabakhane ve deri fabrikalarında çalışır. Bu işletmeler çoğunlukla deri organize sanayi bölgelerinde (ör. Tuzla, Çorlu gibi bölgelerde) ve bazı küçük-orta ölçekli atölyelerde yoğunlaşmıştır. Kamu kurumlarında bu meslekte istihdam olanağı bulunmamaktadır; çalışma alanı tamamen özel sektördeki deri işleme işletmeleridir.",
+ "kazanc": {
+  "egitim_suresince": "Çıraklık eğitimi döneminde, 3308 sayılı Kanun kapsamında işletmeler tarafından asgari ücretin belirli bir oranında ücret ödenebilir; işbaşında yetişme sürecinde kazanç işletmenin uygulamasına göre değişir.",
+  "egitim_sonrasi": [
+   "Meslekte yeni başlayanların kazancı genellikle asgari ücret düzeyindedir.",
+   "Deneyim, bilgi birikimi ve işletmedeki konuma bağlı olarak ücret düzeyi zamanla artabilir.",
+   "Özel sektörde çalışıldığından ücret, işveren ile çalışan arasındaki anlaşmaya ve işletmenin büyüklüğüne göre değişebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "İşletme bünyesinde hizmet içi eğitimlerle çıraklıktan kalfalığa, kalfalıktan ustalığa geçiş sağlanabilir.",
+  "is_hayatinda": "Deneyim kazandıkça usta, ustabaşı veya atölye şefi konumuna yükselebilir; yeterli bilgi birikimi ve sermayeye sahip olanlar kendi deri işleme atölyesini açabilir."
+ },
+ "benzer_meslekler": [
+  "Deri Islah İşçisi (Makineyle)",
+  "Deri Temizleme İşçisi (Makineyle)",
+  "Post Temizleme İşçisi (Makineyle)",
+  "Deri-Finisajcı",
+  "Deri Ayakçı",
+  "Makine Operatörü (Deri İşlenti)"
+ ],
+ "ek_bilgiler": "Tabaklama sürecinde kullanılan kireç, sülfür bileşikleri ve krom tuzları gibi kimyasal maddeler nedeniyle iş sağlığı ve güvenliği önlemlerine (koruyucu eldiven, çizme, maske, gözlük vb.) titizlikle uyulması önem taşır. Bu nedenle meslek, tehlikeli işler kapsamında değerlendirilebilmekte ve bazı işletmelerde ilgili alanda Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilmektedir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T14:46:02",
+  "usage": {
+   "input_tokens": 4,
+   "output_tokens": 8870
+  }
+ }
+}

@@ -1,0 +1,77 @@
+{
+ "arac_gerec": [
+  "Ayar formu, şema ve çalışma talimatları",
+  "Teknik resim, kroki ve numune parçalar",
+  "Ölçü ve kontrol aletleri (kumpas, mikrometre, komparatör, mastar, şablon)",
+  "El takımı ve anahtar setleri (tornavida, pense, İngiliz anahtarı vb.)",
+  "Tezgah/makine kumanda panelleri ve CNC kontrol üniteleri",
+  "Yağlama ve soğutma sıvısı ekipmanları",
+  "Basınçlı hava tabancası ve temizlik ekipmanları",
+  "Kalibrasyon mastarları ve gösterge saatleri",
+  "Elektronik ölçüm ve test cihazları",
+  "Kişisel koruyucu donanım (iş gözlüğü, eldiven, kulaklık, iş ayakkabısı)",
+  "Yedek parça ve aşınma parçaları (takım, bıçak, kalıp elemanı vb.)",
+  "Bilgisayar/PLC arayüzü ve üretim takip yazılımları"
+ ],
+ "genel_ozellikler": [
+  "Teknik resim, şema ve talimatları doğru okuyup yorumlayabilen,",
+  "El ve göz koordinasyonu iyi, el becerisine sahip,",
+  "Dikkatli, sabırlı ve titiz,",
+  "Analitik düşünebilen, sorun çözme yeteneğine sahip,",
+  "Makine ve tezgahlarla çalışmaktan hoşlanan,",
+  "Sorumluluk sahibi ve güvenilir,",
+  "Takım halinde çalışmaya uyumlu,",
+  "Ayakta ve bazen zor koşullarda çalışmaya dayanıklı"
+ ],
+ "calisma_ortami": "\"Tezgah Ayar İşçisi, genellikle fabrika veya atölye ortamında, tam veya yarı otomatik tezgah, makine ve makine grubu başında, çoğunlukla ayakta çalışır. Çalışma ortamı kısmen gürültülü olabilir; makine yağı, metal talaşı ve soğutma sıvısı nedeniyle ortam kirlenebilir. İşin niteliğine göre vardiyalı çalışma söz konusu olabilir. İşçi sağlığı ve iş güvenliği kurallarına uyum, çalışma hızında ve dikkatinde önemli bir unsurdur.\\n\\nMeslek çalışanı; üretim personeli, operatörler, bakım ve kalite kontrol çalışanları ile vardiya amirleri/mühendislerle sürekli iletişim halindedir. Çalışma sırasında makine ve tezgahlarla etkileşim ön plandadır; gerektiğinde sorunları amirine bildirerek koordineli çalışır.\"",
+ "gorevler": [
+  "Ayar formu, şema veya talimatına ya da teknik resim, kroki veya numunelere göre tam ve yarı otomatik tezgah, makine ve makine gruplarını inceler.",
+  "Tam ve yarı otomatik tezgah, makine ve makine gruplarının gerekli ayarlarını yapar, üretime hazır duruma getirir ve deneme üretimi gerçekleştirir.",
+  "Deneme üretimini tolerans ve spesifikasyonlara uygunluk açısından kontrol ederek gereken ayarları yeniden yapar ve tekrar dener.",
+  "Önemli bir sorun olduğunda amirine bildirir, sorun yoksa tezgah, makine ve makine gruplarını üretime hazır olarak teslim eder.",
+  "Üretim sırasında önemli ayar sapmalarını kontrol eder, gerekiyorsa yeniden ayarlar.",
+  "Aşınan parçaların zamanında değiştirilmesi için uyarılarda bulunur.",
+  "Mesleği ile ilgili alandaki gelişmeleri takip eder ve uygular.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Tezgah Ayar İşçiliği için ayrı ve bağımsız bir okul programı bulunmamaktadır. Meslek genellikle mesleki ve teknik eğitim okullarının Metal Teknolojisi alanı kapsamındaki ilgili dallarda (örneğin makine/CNC ve metal işleme ile ilgili dallar) eğitim alan kişilerin, işyerlerinde deneyim kazanarak ilerlemesiyle edinilir. Ayrıca Halk Eğitim Merkezleri ve İŞKUR tarafından açılan mesleki eğitim kurslarında da ilgili tezgah/makine konularında eğitim verilebilmektedir.",
+  "giris_kosullari": [
+   "En az ortaokul (ilköğretim) mezunu olmak",
+   "Çıraklık/mesleki eğitim için 14 yaşını doldurmuş olmak",
+   "Sağlık durumunun mesleğin gerektirdiği işlere (ayakta çalışma, makine kullanımı) uygun olması",
+   "İşyeri bulup işveren ile çıraklık/eğitim sözleşmesi imzalamak (örgün mesleki eğitim yolunu seçenler için)"
+  ],
+  "sure_ve_icerik": "Örgün mesleki eğitim yoluyla ilgili alan/dalda eğitim alanlar için süre genellikle ilköğretim sonrası 3-4 yıl arasında değişir ve kalfalık ile ustalık eğitimlerini içerir; eğitim haftanın bir kısmı okulda teorik, kalan günleri işyerinde pratik olarak yürütülür. Bu yolu izlemeyenler için ise meslek, genellikle metal işleme sektöründe çalışan kişilerin tezgah/makine operatörlüğünden başlayarak işbaşında usta yanında deneyim kazanmasıyla, ayar ve kurulum bilgi-becerisini zamanla edinmesiyle öğrenilir. Eğitim/edinim sürecinde ölçü aletleri kullanımı, teknik resim okuma, tezgah ve makine ayarları, tolerans ve spesifikasyon kontrolü, iş güvenliği konuları öğretilir.",
+  "belge": "Örgün mesleki eğitim yolunu izleyenlere kalfalık ve ustalık belgesi, fark derslerini tamamlayanlara meslek lisesi diploması verilir. Kurs yoluyla eğitim alanlara ise kurs bitirme/katılım belgesi verilir. Mesleki Yeterlilik Kurumu (MYK) Ulusal Yeterlilik Belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "\"Tezgah Ayar İşçileri başta metal işleme ve makine imalatı sektörü olmak üzere, otomotiv yan sanayi, makine parçaları üretimi, beyaz eşya ve metal eşya imalatı yapan fabrika ve atölyelerde istihdam edilmektedir. İstihdam ağırlıklı olarak özel sektördedir; kamuya bağlı sanayi kuruluşlarında da sınırlı sayıda çalışma imkânı bulunabilir. Otomasyon ve CNC teknolojilerinin yaygınlaşması, tezgah ayarı ve kurulumu konusunda bilgi ve beceri sahibi kişilere olan ihtiyacı sürdürmektedir; ancak aynı teknolojik gelişmeler bazı basit ayar işlerinin otomatikleşmesine de yol açabilmektedir.\"",
+ "kazanc": {
+  "egitim_suresince": "Örgün mesleki eğitim kapsamında işletmelerde eğitim gören öğrencilere 3308 sayılı Mesleki Eğitim Kanunu hükümlerine göre ücret ödenir ve iş kazası-meslek hastalığı sigorta primleri devletçe karşılanır. Kurs yoluyla eğitim alanlarda ise genellikle ücret söz konusu değildir; bazı İŞKUR kurslarında katılımcılara kursiyer harçlığı ödenebilir.",
+  "egitim_sonrasi": [
+   "Özel sektörde çalışanların ücreti işyerinin büyüklüğüne, çalışanın deneyim ve becerisine göre karşılıklı anlaşma ile belirlenir; yeni başlayanlarda genellikle asgari ücret düzeyinde olup deneyim arttıkça yükselebilir.",
+   "Kamuya bağlı işletmelerde işçi statüsünde çalışanların ücreti ilgili toplu iş sözleşmesi hükümlerine göre belirlenir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleki eğitim merkezinden diploma alarak mezun olanlar, meslek lisesi diploması aldıkları takdirde alanının devamı niteliğindeki yükseköğretim (önlisans) programlarını tercih edebilir ve bu programlara girişte ilgili alanda ek puandan yararlanabilirler.",
+  "is_hayatinda": "Deneyim ve bilgi birikimi arttıkça tezgah ayar işçisi; usta, atölye/vardiya şefi, bakım-onarım sorumlusu, kalite kontrol veya üretim sorumlusu gibi görevlere yükselebilir. Yeterli sermaye ve deneyime sahip olanlar kendi atölyelerini kurarak işveren konumuna geçebilir."
+ },
+ "benzer_meslekler": [
+  "Metal İşleme Tezgahı Ayarcısı",
+  "Metal İşleme Tezgâhları Ayarcı-Operatörleri",
+  "Kalıp Bağlama ve Ayar İşçisi",
+  "Freze Tezgahı Ayarcı-Operatörü (Metal İşçiliği)",
+  "CNC Torna Tezgahı Operatörü",
+  "CNC Freze Tezgahı Operatörü"
+ ],
+ "ek_bilgiler": "\"Üretimde CNC ve otomasyon teknolojilerinin yaygınlaşması nedeniyle bu meslekte çalışanların bilgisayar kontrollü tezgah ve makinelerin ayar/kurulum mantığına da aşina olmaları günümüzde önem kazanmaktadır. Mesleğin gerektirdiği hassas ayar ve kontrol işlemleri nedeniyle dikkat ve iş güvenliği kurallarına uyum büyük önem taşır.\"",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T01:59:29",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6516
+  }
+ }
+}

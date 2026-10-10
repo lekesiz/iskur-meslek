@@ -1,0 +1,90 @@
+{
+ "arac_gerec": [
+  "Mala, perdah malası ve derz malası",
+  "Plastik veya lastik çekiç",
+  "Su terazisi, şakül ve lazerli nivo",
+  "Alüminyum mastar, metre ve gönye",
+  "Taş kesme makinesi (diskli/el taşlama) ve karot matkabı",
+  "Harç/yapıştırma harcı karıştırma mikseri",
+  "El arabası ve taşıma ekipmanları",
+  "Noktasal ve profilli montaj aparatları, ankraj elemanları",
+  "Derz dolgu malzemesi ve uygulama aletleri",
+  "Sünger, fırça ve temizlik malzemeleri",
+  "Çimento, kum, kireç, hazır yapıştırma harcı",
+  "Doğal taş (mermer, granit, traverten, andezit, bazalt) ve yapay taş/karo malzemeleri",
+  "Kişisel koruyucu donanım (eldiven, gözlük, toz maskesi, diz koruyucu, baret)"
+ ],
+ "genel_ozellikler": [
+  "El becerisine sahip,",
+  "Şekiller ve ölçüler arasındaki ilişkiyi görebilen,",
+  "Dikkatli ve düzenli çalışabilen,",
+  "Fiziksel olarak dayanıklı ve güçlü,",
+  "Renk ve doku farklılıklarını ayırt edebilen,",
+  "Ekip halinde çalışmaya uyumlu,",
+  "Dar alanda eğilerek veya ayakta uzun süre çalışabilen"
+ ],
+ "calisma_ortami": "\"Doğal ve yapay taş kaplamacıları genellikle inşaat şantiyelerinde, yeni yapılan veya tadilat gören bina, konut ve iş yerlerinin iç ve dış cephelerinde, zemin, merdiven ve duvar yüzeylerinde çalışır. Çalışma ortamı tozlu, gürültülü ve bazen rutubetlidir; iş ayakta, eğilerek ve bazen yüksekte yapılır, ağır malzeme taşıma gerektirebilir. Dış mekan uygulamalarında hava koşullarından etkilenebilirler.\\n\\nÇalışma süresi genellikle şantiyenin iş programına bağlıdır; hafta sonu dahil uzun saatler çalışılabilir. Meslek elemanı; müteahhit, şantiye şefi, diğer inşaat ustaları ve yardımcı işçilerle sürekli iletişim halindedir.\"",
+ "calisma_alanlari": "\"Doğal ve yapay taş kaplamacıları, konut, iş yeri, kamu binası ve restorasyon projelerinde duvar, zemin ve basamak kaplama işlerinde; inşaat firmalarına, taş/mermer işleme atölyelerine veya yapı malzemesi bayilerine bağlı olarak ya da bağımsız (kendi hesabına) çalışabilirler. İstihdam büyük ölçüde inşaat sektörünün hacmine ve mevsimsel koşullara bağlıdır; kış aylarında dış mekan işlerinde iş yoğunluğu azalabilir. Deneyimli ustalar yurt içinde olduğu gibi yurt dışında çalışan inşaat firmalarının şantiyelerinde de iş bulabilir.\"",
+ "gorevler": [
+  "İş organizasyonu yapar.",
+  "Uygulama öncesi hazırlık ve yüzey kontrolü yapar.",
+  "Noktasal montaj ile doğal veya yapay taş kaplaması yapar.",
+  "Profilli montaj ile doğal veya yapay taş kaplaması yapar.",
+  "Yapıştırma harcı ile doğal veya yapay taş kaplaması yapar.",
+  "Tabana doğal veya yapay taş kaplaması yapar.",
+  "Uygulama öncesi hazırlık ve yüzey kontrolü yapar.",
+  "Tabana harç/yapıştırma harcı ile doğal veya yapay taş kaplaması yapar.",
+  "Tabana harçsız doğal veya yapay taş kaplaması yapar.",
+  "Doğal veya yapay taş kaplamalarda derz dolgusu yapar.",
+  "Basamaklara doğal veya yapay taş kaplaması yapar.",
+  "Basamaklara harç/yapıştırma harcı ile doğal veya yapay taş kaplaması yapar.",
+  "Uygulama sonrası derz dolgusu ve kontrolleri yapar.",
+  "Mozaik karo uygulaması yapar/mozaik karo döşer.",
+  "Yapıştırma harcı ile mozaik döşemesi yapar.",
+  "Uygulama sonrası derz dolgusu ve kontrolleri yapar.",
+  "Uygulama sonrası derz dolgusu ve kontrolleri yapar.",
+  "Kaplama sonrası işlemleri yapar.",
+  "Mesleki gelişim faaliyetlerine katılır."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi, yeterli talep olması durumunda mesleki eğitim merkezlerinin İnşaat Teknolojisi alanı ile ilgili dallarında kalfalık ve ustalık eğitimi olarak verilebilmektedir. Ayrıca mesleki ve teknik ortaöğretim kurumlarının ilgili inşaat alanlarında da kapsamlı bir eğitim alınabilir. Örgün eğitim dışında, Halk Eğitim Merkezleri ve İŞKUR tarafından açılan mesleki eğitim kurslarında ve işbaşında usta yanında yetişerek de bu mesleğe girilebilmektedir.",
+  "giris_kosullari": [
+   "En az ortaokul mezunu olmak (çıraklık/mesleki eğitim merkezi yolu için)",
+   "14 yaşını doldurmuş olmak",
+   "Mesleğin gerektirdiği fiziksel işleri yapmaya uygun sağlık durumuna sahip olmak",
+   "Çıraklık eğitimi için bir işyeri bulup işveren ile çıraklık sözleşmesi imzalamak",
+   "Yetişkinler için kurs veya işbaşı eğitimine katılım için belirli bir okul şartı aranmayabilir"
+  ],
+  "sure_ve_icerik": "Mesleki eğitim merkezi yoluyla eğitime girildiğinde süre ilköğretim sonrası yaklaşık 4 yıldır; bu sürenin bir kısmı kalfalık, kalan kısmı ustalık eğitimine ayrılır. Eğitim, haftanın bir günü mesleki eğitim merkezinde teorik ders, kalan günlerde işyerinde usta öğretici gözetiminde uygulamalı çalışma şeklinde yürütülür. Kurs yoluyla eğitimde ise süre ve içerik, kursun müfredatına göre değişmekle birlikte temel taş kesme, montaj, derzleme ve iş güvenliği konularını kapsar.",
+  "belge": "Mesleki eğitim merkezi yolunda eğitimi başarıyla tamamlayanlara kalfalık, ardından ustalık belgesi verilir; fark derslerinin tamamlanması halinde meslek lisesi diploması da alınabilir. Kurs yoluyla eğitim alanlara kurs bitirme/katılım belgesi verilir. Mesleki Yeterlilik Kurumu (MYK) Mesleki Yeterlilik Belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Mesleki eğitim merkezi yoluyla eğitim görenler, 3308 sayılı Mesleki Eğitim Kanunu kapsamında işletmede geçirdikleri süre için asgari ücretin belirli bir oranından az olmamak üzere ücret alır; iş kazası ve meslek hastalığı sigorta primleri devletçe karşılanır. İŞKUR kursu veya işbaşında yetişme yoluyla eğitim alanlarda ise genellikle düzenli bir ücret söz konusu değildir; bazı kurslarda katılımcılara kursiyer zaruri gideri ödenebilir.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Deneyim, ustalık ve çalışılan işin kapsamına (lüks konut, restorasyon vb.) bağlı olarak kazanç artabilir.",
+   "Bağımsız çalışanların kazancı aldıkları iş miktarına ve piyasa koşullarına göre değişir; inşaat sektöründeki mevsimsel dalgalanmalar kazancı etkileyebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleki eğitim merkezinden diploma alarak mezun olanlar, ilgili alanın devamı niteliğindeki yükseköğretim ön lisans programlarına sınavsız veya ek puanla yerleşme hakkından yararlanabilir; yükseköğretime giriş sınavlarında başarılı olanlar ilgili lisans/ön lisans programlarına da yerleşebilir. Çeşitli kurs ve sertifika programlarıyla mesleki bilgi ve beceriler geliştirilebilir.",
+  "is_hayatinda": "Deneyim kazanan meslek elemanları ustalık düzeyine ulaşarak ekip veya şantiyede sorumluluk alabilir, usta öğreticilik yapabilir ya da bağımsız işyeri/atölye açarak kendi işini kurabilir."
+ },
+ "benzer_meslekler": [
+  "Mermer Döşeyici",
+  "Karo-Fayans Döşeyicisi",
+  "Mozaik Kesici ve Döşeyici",
+  "Mermer ve Taş Kaplamacısı",
+  "Mermerit Montaj İşçisi",
+  "Beton Parke ve Bordür Taşı Döşeme İşçisi"
+ ],
+ "ek_bilgiler": "\"İnşaat işleri, iş sağlığı ve güvenliği mevzuatı çerçevesinde tehlikeli/çok tehlikeli işler kapsamında değerlendirilebileceğinden, bu meslekte çalışacakların ilgili iş güvenliği eğitimlerini almaları ve kişisel koruyucu donanımı eksiksiz kullanmaları önemlidir.\"",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T23:06:03",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6064
+  }
+ }
+}

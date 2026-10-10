@@ -1,0 +1,74 @@
+{
+ "arac_gerec": [
+  "Deniz devriye botu/gemisi",
+  "Radar ve sonar sistemleri",
+  "Telsiz ve uydu haberleşme cihazları",
+  "Seyir ve navigasyon ekipmanları (pusula, harita, GPS)",
+  "Dürbün ve gözetleme cihazları",
+  "Kişisel silah ve mühimmat",
+  "Can yeleği ve kişisel koruyucu donanım",
+  "Arama kurtarma ekipmanları",
+  "Bilgisayar ve rapor yazılımları",
+  "Üniforma ve rütbe işaretleri"
+ ],
+ "benzer_meslekler": [
+  "Üsteğmen (Kara Kuvvetleri)",
+  "Üsteğmen (Hava Kuvvetleri)",
+  "Üsteğmen(Deniz Kuvvetleri)",
+  "Üsteğmen (Jandarma)",
+  "Teğmen (Sahil Güvenlik)",
+  "Yüzbaşı (Sahil Güvenlik)"
+ ],
+ "calisma_alanlari": "Üsteğmen (Sahil Güvenlik), Sahil Güvenlik Komutanlığına bağlı bot ve gemi komutanlıklarında, bölge ve grup komutanlıklarında, karargahlarda ve liman/deniz üslerinde görev yapar.\n\nGörev yeri, kıdem ve ihtiyaca göre Türkiye'nin farklı sahil bölgelerindeki birimler arasında değişebilir. Operasyonel görevlerde deniz üzerinde, idari ve eğitim görevlerinde ise kara tesislerinde çalışır.",
+ "calisma_ortami": "Üsteğmen (Sahil Güvenlik), görevinin niteliğine göre hem açık denizde bot veya gemi üzerinde hem de kapalı mekanlarda (karargah, ofis, eğitim tesisi) çalışır. Deniz koşullarına (dalga, rüzgâr, sıcak-soğuk hava) maruz kalabilir; kaçakçılıkla mücadele, arama kurtarma ve sınır güvenliği gibi riskli operasyonlarda görev alabilir. Çalışma saatleri vardiyalı ve düzensiz olabilir, gerektiğinde gece ve uzun süreli görevler üstlenir.\n\nGörevi gereği emrindeki personeli yönetir, astlarını denetler, üstlerine rapor sunar; diğer kamu kurumları (sahil koruma, emniyet, gümrük gibi) ile koordinasyon kurar. Disiplinli bir hiyerarşik yapı içinde, ekip çalışmasına ve komuta zincirine dayalı bir ortamda görev yapar.",
+ "egitim": {
+  "verildigi_yerler": "Üsteğmen (Sahil Güvenlik) ayrı bir okul veya program sonucu doğrudan kazanılan bir unvan değildir; Sahil Güvenlik Komutanlığı bünyesinde subaylık mesleğinin, teğmenlik rütbesinden sonra kıdem ve terfi yoluyla ulaşılan bir basamağıdır. Subaylığa giriş, ilgili harp okulları, Sahil Güvenlik Akademisi veya üniversitelerin ilgili lisans programlarından mezun olup Sahil Güvenlik Komutanlığının subay adaylığı sürecini tamamlayarak sağlanır.",
+  "giris_kosullari": [
+   "Türkiye Cumhuriyeti vatandaşı olmak",
+   "İlgili lisans programından mezun olmak veya askeri/akademi eğitimini tamamlamış olmak",
+   "Sahil Güvenlik Komutanlığının subaylık için aradığı yaş, sağlık ve güvenlik soruşturması şartlarını taşımak",
+   "Subay nasıp (teğmen) olduktan sonra belirli kıdem süresini tamamlamış olmak"
+  ],
+  "sure_ve_icerik": "Dört yıllık lisans eğitimi ve buna ek temel askeri/mesleki eğitim sonrasında teğmen rütbesiyle göreve başlanır. Belirli bir kıdem süresinin tamamlanması ve terfi şartlarının sağlanmasıyla üsteğmenliğe yükselinir. Bu süreçte denizcilik, seyir, operasyon yönetimi ve liderlik konularında hizmet içi eğitimler verilir.",
+  "belge": "Subaylık rütbe nasıp belgesi ve lisans diploması"
+ },
+ "ek_bilgiler": "Üsteğmen (Sahil Güvenlik), bağımsız bir meslek olarak değil, Sahil Güvenlik Komutanlığı subaylık kariyer basamaklarından biri olarak değerlendirilmelidir. Bu unvana doğrudan bir sınavla değil, lisans eğitimi sonrası subay adaylığı sürecini tamamlayıp teğmen olarak göreve başlayan kişilerin kıdem ve terfi yoluyla ulaştığı bir rütbedir. Görev, kamu güvenliği ve ulusal savunma hizmeti niteliği taşır; atama ve yer değişiklikleri Sahil Güvenlik Komutanlığının ihtiyaçlarına göre belirlenir.",
+ "genel_ozellikler": [
+  "Liderlik vasıflarına sahip,",
+  "Disiplinli ve sorumluluk bilinci yüksek,",
+  "Fiziksel ve psikolojik olarak sağlıklı,",
+  "Hızlı ve isabetli karar verebilen,",
+  "Ekip yönetme ve koordinasyon becerisine sahip,",
+  "Stres altında soğukkanlı çalışabilen,",
+  "Vatan ve görev sevgisiyle hareket eden,",
+  "Komuta zincirine ve hiyerarşiye uyumlu"
+ ],
+ "gorevler": [
+  "Verilen deniz operasyonlarını ve devriyeleri yönetir.",
+  "Nöbetçi amirliği görevlerini ve güvenlik kontrollerini yapar.",
+  "Personelin eğitim ve harbe hazırlık süreçlerini denetler.",
+  "Teknik donanım ve mühimmatın korunmasını sağlar.",
+  "Görev raporlarını hazırlayarak üstlerine iletir.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Subaylık mesleğinde ilerleme, belirli kıdem sürelerinin tamamlanması, hizmet içi eğitimlerin ve terfi sınavlarının başarıyla geçilmesiyle sağlanır. Üsteğmenlik, teğmenlik sonrası kıdemle ulaşılan bir rütbedir.",
+  "is_hayatinda": "Üsteğmenlikten sonra kıdem ve başarı durumuna göre sırasıyla yüzbaşı, binbaşı, yarbay, albay ve amiral rütbelerine kadar terfi edilebilir. İlerleme, Sahil Güvenlik Komutanlığının terfi mevzuatına ve mevcut kadro durumuna bağlıdır."
+ },
+ "kazanc": {
+  "egitim_suresince": "Subay adayları, lisans eğitimleri süresince askeri eğitim kurumlarına bağlı olarak barınma, iaşe ve bir miktar harçlık/burs imkânlarından yararlanabilir.",
+  "egitim_sonrasi": [
+   "Subaylar, 926 sayılı Türk Silahlı Kuvvetleri Personel Kanunu ve ilgili mevzuat kapsamında rütbe ve kıdemlerine göre maaş ile çeşitli tazminat ve ek ödemeler alır.",
+   "Kazanç düzeyi rütbe, hizmet yılı, görev yeri ve görev riskine göre değişiklik gösterir.",
+   "Deniz ve operasyonel görevlerde ek tazminatlar söz konusu olabilir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-07T17:32:14",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 4681
+  }
+ }
+}

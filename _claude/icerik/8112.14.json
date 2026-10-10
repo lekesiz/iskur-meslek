@@ -1,0 +1,80 @@
+{
+ "arac_gerec": [
+  "Flotasyon (yüzdürme) hücreleri ve makineleri",
+  "Kondisyoner tankları ve motorları",
+  "Reaktif besleme/dozaj sistemleri ve pompaları",
+  "Pulp yoğunluk ölçer",
+  "pH metre",
+  "Siklon ve siklon bar basınç göstergeleri",
+  "Artık (tailing) pompası",
+  "Numune alıcılar",
+  "Kontrol paneli/kumanda panosu",
+  "Telsiz veya haberleşme cihazı",
+  "El aletleri (anahtar takımı, kürek vb.)",
+  "Oluk ve boru sistemleri",
+  "Kişisel koruyucu donanım (eldiven, koruyucu gözlük, baret, maske, kulaklık, çizme)"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve gözlem gücü yüksek,",
+  "Sorumluluk sahibi,",
+  "Ekip çalışmasına yatkın,",
+  "Fiziksel olarak dayanıklı,",
+  "Kimyasal maddelerle çalışırken titiz,",
+  "Teknik gösterge ve ölçüm değerlerini okuyup yorumlayabilen,",
+  "Soğukkanlı ve hızlı karar verebilen,",
+  "Kurallara uyan"
+ ],
+ "calisma_ortami": "Yüzdürme İşletme Operatörü, maden cevherlerinin zenginleştirildiği flotasyon (cevher hazırlama) tesislerinde çalışır. Çalışma ortamı genellikle kapalı tesis alanıdır; nemli, kimyasal koku içeren, gürültülü ve zeminin ıslak/kaygan olabileceği koşullarda ayakta ve hareketli bir şekilde çalışılır. İş, kondisyoner ve flotasyon hücrelerinin bulunduğu bölümlerde yapıldığından reaktif kimyasallarla teması söz konusu olabilir ve kişisel koruyucu donanım kullanımı gereklidir.\n\nTesisler genellikle 24 saat kesintisiz çalıştığından operatörler vardiyalı sistemde görev yapar. Çalışma sırasında vardiya amiri, tesis mühendisi ve diğer tesis operatörleri (öğütme, kırma-eleme, filtre tesisi operatörleri vb.) ile sürekli iş birliği ve iletişim içindedir.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğe yönelik örgün bir okul programı bulunmamaktadır. Meslek genellikle işyerlerinde usta yanında işbaşı eğitimi yoluyla ya da Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kurslarında kazanılır. Meslek liselerinin madencilik ve maden çıkarma teknolojisi alanından mezun olanlar da bu mesleğe daha kolay yönelebilir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak.",
+   "18 yaşını doldurmuş olmak.",
+   "İşin gerektirdiği fiziksel ve sağlık şartlarına uygun olmak."
+  ],
+  "sure_ve_icerik": "Mesleğe özgü standart süreli ve içerikli resmi bir eğitim programı bulunmamaktadır. Çalışanlar işyerinde usta yanında uygulamalı olarak kondisyonlama, reaktif kullanımı, flotasyon hücrelerinin çalıştırılması, pulp yoğunluğu ve pH ayarlarının takibi gibi konularda kademeli olarak yetiştirilir. Bu süreç işletmenin büyüklüğüne ve kişinin tecrübesine göre değişmekle birlikte genellikle birkaç ay sürer. Ayrıca iş sağlığı ve güvenliği ile kimyasallarla güvenli çalışmaya yönelik eğitimler zorunlu olarak verilir.",
+  "belge": "Örgün eğitim sonunda diploma verilmemektedir. Katılınan kurslardan kurs bitirme belgesi alınabilir; işyerinde yetiştirilenlere işveren tarafından iş bitirme/deneyim belgesi düzenlenebilir. Mesleki Yeterlilik Kurumu (MYK) tarafından yetkilendirilen sınav merkezlerinde girilen sınavlarda başarılı olunması halinde Mesleki Yeterlilik Belgesi alınabilir."
+ },
+ "calisma_alanlari": "Yüzdürme İşletme Operatörleri; bakır, çinko, kurşun, altın gibi metalik madenler ile bazı endüstriyel hammaddelerin zenginleştirildiği cevher hazırlama ve flotasyon tesislerinde istihdam edilir. Bu tesisler genellikle maden ocaklarının yakınında kurulu, özel sektöre ait madencilik ve mineral işleme şirketlerine bağlı olarak faaliyet gösterir. İş bulma olanakları, madencilik sektöründeki faaliyet yoğunluğuna ve açılan yeni maden işletmelerinin sayısına bağlı olarak değişmektedir.",
+ "kazanc": {
+  "egitim_suresince": "Eğitim genellikle işbaşında yapıldığından, kişi bu süreçte çalışan statüsünde ücret alabilir ya da kursiyer olarak sınırlı bir destekten yararlanabilir.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde gelir elde eder.",
+   "Çalışma koşulları ve ücret, 4857 sayılı İş Kanunu ve işin ağır/tehlikeli işler kapsamında olmasına ilişkin düzenlemelere tabidir.",
+   "Deneyim, bilgi birikimi ve çalışılan işletmenin büyüklüğüne göre kazanç artabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleki eğitimde belirli bir ilerleme basamağı tanımlı değildir; çalışan deneyim kazandıkça farklı tesis operatörlüğü alanlarına (öğütme, kırma-eleme, filtre tesisi vb.) yönelik kurslara katılarak bilgi ve becerisini genişletebilir.",
+  "is_hayatinda": "Mesleki tecrübe, bilgi birikimi ve yeteneklerine göre usta operatörlük, vardiya sorumluluğu ve nezaretçilik görevlerine yükselebilir; ilerleyen süreçte tesis şefliği gibi görevlere atanabilir."
+ },
+ "benzer_meslekler": [
+  "Ayırıcı Cihaz Operatörü-Maden",
+  "Filtre Tesisi Operatörü-Maden",
+  "Jig Operatörü",
+  "Kimyasal Cevher Zenginleştirme Operatörü",
+  "Mekanik(Fiziksel) Cevher Zenginleştirme Operatörü",
+  "Reaktif Hazırlayıcı"
+ ],
+ "ek_bilgiler": "Mesleğin bazı işlemleri kimyasal reaktiflerle çalışmayı içerdiğinden, iş sağlığı ve güvenliği kurallarına titizlikle uyulması gerekir. Mesleki Yeterlilik Kurumu (MYK) belgesine sahip olmak istihdamda tercih sebebi olabilir.",
+ "gorevler": [
+  "Kondisyoner giriş tenörünü, yoğunluğu, PH dengesini ve reaktif akışını kontrol eder, reaktiflerin ilave/azaltma işlemlerinin yapılmasını sağlar ve tane boyutunu kontrol etmek gibi kıvamlaştırma işlemlerini yapar.",
+  "Sistemlerin enerjisini, kondisyoner motorların çalışıp çalışmadığını kontrol eder, kondisyonel safhada start verir ve değirmenden malzeme gelmesini sağlar vb. gibi makine durduğunda, yeniden çalıştırma işlemlerini yapar.",
+  "Kıvamlaştırılmış malzemenin gelip gelmediğini kontrol eder, pulp seviyelerini ayarlar, köpükleri/selül yoğunluğunu/artık ve konsantre tenörlerini/selül alt pulp akışını/numune alıcılarını/oluk sularını kontrol eder vb. gibi yüzdürme işlemlerini yapar.",
+  "Artık pompasını devreye alır.",
+  "Siklon bar basıncını kontrol eder.",
+  "Pulp yoğunluklarını, PH derecesini, reaktifleri ayarlar.",
+  "Suyu havuzda dinlendirir ve sisteme tekrar gönderir.",
+  "Aksaklık/arıza durumlarında sistemi durdurur.",
+  "Arıza tespiti yapar ve yetkiliye bildirir.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T10:26:13",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6635
+  }
+ }
+}

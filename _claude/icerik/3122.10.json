@@ -1,0 +1,79 @@
+{
+ "gorevler": [
+  "Üretim programını inceler ve işgücü ihtiyaçlarını tespit eder.",
+  "Proje şartname ve iş emirlerini inceler ve işlemlerin sırasını tespit eder.",
+  "Gerekli olan hammadde ve malzeme miktarlarını tespit eder ve çalışma mahalline getirtir.",
+  "Üretim programı gereklerini karşılayacak iş usullerini tayin eder ve işlerin işçiler arasında taksimini sağlar.",
+  "Ünitedeki işlerin, işletme dahilindeki diğer üretim ünitelerinin işleriyle koordineli bir şekilde yürütülmesini sağlar.",
+  "Üretim metotlarını, teçhizat performansını ve mamul kalitelerini geliştirmek için tavsiyelerde bulunur; randımanı artırmak için çalışma şartlarında ve teçhizatın kullanılmasında değişiklikler önerir.",
+  "İş problemlerini analiz eder ve çözümler.",
+  "Kuruluşun politikaları konusunda işçilere bilgi verir ve emniyet kurallarının uygulanmasını sağlar.",
+  "Emrinde bulunan ustabaşıların çalışmalarına nezaret eder ve koordine eder.",
+  "Terfiler, transferler, işten çıkartmalar ve disiplin gibi personel işlerinde tavsiyelerde bulunur ve uygulamalarını sağlar.",
+  "Elektronik teçhizatın donanımını yapan işçilere de nezaret eder.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "arac_gerec": [
+  "Üretim programı, proje şartnamesi ve iş emri dosyaları",
+  "Elektronik montaj hattı ekipmanları (SMT makineleri, lehimleme istasyonları)",
+  "El aletleri (tornavida, pense, cımbız vb.)",
+  "Ölçüm ve test cihazları (multimetre, osiloskop, fonksiyon test cihazları)",
+  "Kalite kontrol formları ve ölçüm ekipmanları",
+  "ESD (elektrostatik deşarj) önleyici bileklik, eldiven ve kıyafetler",
+  "Kişisel koruyucu donanım (gözlük, önlük vb.)",
+  "Bilgisayar ve üretim takip/raporlama yazılımları",
+  "Haberleşme araçları (telsiz, telefon)",
+  "İş sağlığı ve güvenliği ile ilgili doküman ve ekipmanlar"
+ ],
+ "genel_ozellikler": [
+  "Liderlik ve yönlendirme becerisine sahip,",
+  "Sorumluluk sahibi ve kararlı,",
+  "İnsan ilişkilerinde başarılı, iletişimi güçlü,",
+  "Planlama ve organizasyon becerisine sahip,",
+  "Analitik düşünebilen ve problem çözebilen,",
+  "Elektronik üretim süreçleri ve teçhizatı hakkında teknik bilgiye sahip,",
+  "Dikkatli ve disiplinli,",
+  "İş sağlığı ve güvenliği kurallarına duyarlı,"
+ ],
+ "calisma_ortami": "\"Nezaretçi ve ustabaşılar, elektronik teçhizat imal eden fabrika ve işletmelerin üretim hatlarında, genellikle kapalı ortamlarda çalışır. Çalışma alanı, montaj bantları, lehimleme ve test istasyonlarının bulunduğu üretim atölyeleridir; bazı bölümlerde lehim dumanı, hafif kimyasal koku ve makine sesleri bulunabilir, bu nedenle gerektiğinde kişisel koruyucu donanım kullanılır. Görevin niteliği nedeniyle çalışma sırasında büyük ölçüde ayakta durma ve üretim hattı boyunca hareket etme söz konusudur.\\n\\nÇalışma saatleri işletmenin üretim programına göre genellikle tam gün ve bazen vardiyalı düzende sürer. Meslek mensubu; emrindeki işçiler, diğer ustabaşılar, mühendisler, kalite kontrol personeli ve üretim yöneticileriyle sürekli iletişim ve koordinasyon içinde çalışır.\"",
+ "egitim": {
+  "verildigi_yerler": "Nezaretçi ve Ustabaşı (Elektronik Teçhizat İmalat ve Donanımı) mesleğine yönelik, doğrudan bu unvanı veren ayrı bir örgün mesleki eğitim programı bulunmamaktadır. Bu meslek, genellikle elektrik-elektronik teknolojisi veya ilgili alanlarda mesleki ve teknik ortaöğretim kurumlarından (meslek lisesi) mezun olduktan veya ortaöğretim düzeyinde eğitim aldıktan sonra, elektronik teçhizat üreten işletmelerde işçi olarak çalışmaya başlayıp deneyim ve performansla ulaşılan bir kademedir. İşletme içi hizmet içi eğitimler, Halk Eğitim Merkezleri ile İŞKUR tarafından açılan mesleki eğitim kursları ve ustabaşılık/liderlik eğitimleri bu süreci destekler.",
+  "giris_kosullari": [
+   "Ortaokulu tamamlamış olmak ve ilgili ortaöğretim alan/dalının giriş koşullarını taşımak (lise eğitimi için)",
+   "Elektronik üretim hattında işçi olarak belirli bir süre çalışmış ve mesleki deneyim kazanmış olmak",
+   "İşletmenin belirlediği performans ve liderlik kriterlerini karşılamak"
+  ],
+  "sure_ve_icerik": "Mesleğe özgü standart bir eğitim süresi bulunmamaktadır. Elektrik-elektronik teknolojisi alanında mesleki ve teknik ortaöğretim eğitimi 4 yıl sürmektedir; bu eğitimde ortak genel kültür dersleri, alan ortak dersleri ve elektronik üretim/montaj süreçlerine yönelik uygulamalı dersler okutulur. Lise eğitimini tamamlayanlar ya da benzer düzeyde bilgi birikimine sahip kişiler, işletmede üretim işçisi olarak çalışmaya başlar; zaman içinde kazandıkları tecrübe, teknik bilgi ve yönetim becerisiyle nezaretçi/ustabaşı pozisyonuna atanır. Bu süreçte işletmelerin düzenlediği iş sağlığı ve güvenliği, kalite yönetimi ve ekip yönetimi konulu kısa süreli eğitimlerden de yararlanılır.",
+  "belge": "Mesleki ve teknik ortaöğretim kurumlarından alınan lise diploması bu mesleğe temel oluşturabilir. Ayrıca, Mesleki Yeterlilik Kurumu (MYK) tarafından ilgili alanda düzenlenen belgeler, istihdamda ve pozisyona atanmada tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "\"Bu meslek mensupları, elektronik teçhizat, cihaz, kart ve donanım üreten fabrika ve işletmelerin üretim birimlerinde istihdam edilir. Elektronik sanayinin yapısı ve teknolojik gelişmeler nedeniyle üretim hatlarının otomasyon düzeyi arttıkça işçi ihtiyacı değişebilmekte, ancak deneyimli ve yönetim becerisine sahip nezaretçi/ustabaşılara her zaman ihtiyaç duyulmaktadır. İş bulma olanakları, elektronik üretim sektörünün bulunduğu bölgelerde ve bu alanda yatırımı olan işletmelerde daha fazladır.\"",
+ "kazanc": {
+  "egitim_suresince": "Bu mesleğe özgü ayrı bir örgün eğitim dönemi bulunmadığından, kişi genellikle işletmede üretim işçisi olarak çalışırken deneyim kazanır. Bu dönemde kazanç, işçi statüsündeki ücretlere karşılık gelir ve yeni başlayanlar için genellikle asgari ücret düzeyindedir.",
+  "egitim_sonrasi": [
+   "Nezaretçi/ustabaşı pozisyonuna yükselenlerin kazancı, işletmenin büyüklüğü, sektördeki konumu ve kişinin deneyim/sorumluluk düzeyine göre işçi ücretinin üzerinde belirlenir.",
+   "İşçi statüsünde çalışanların ücreti, varsa işyerindeki toplu iş sözleşmesi hükümlerine göre; sözleşme bulunmayan işyerlerinde işveren ile karşılıklı anlaşmaya göre belirlenir.",
+   "Deneyim ve işletmedeki kıdem arttıkça kazanç genellikle artış gösterir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Elektrik-elektronik teknolojisi alanında mesleki ve teknik ortaöğretim kurumlarından mezun olanlar, isterlerse yükseköğretime giriş sınavlarında başarılı olmaları durumunda elektronik teknolojisi, elektrik-elektronik mühendisliği gibi ilgili ön lisans veya lisans programlarına yönelebilir ve bu alandaki bilgi birikimlerini artırabilirler.",
+  "is_hayatinda": "İşletmede işçi olarak çalışmaya başlayanlar, deneyim ve performanslarına bağlı olarak önce ekip lideri, ardından nezaretçi/ustabaşı pozisyonuna yükselebilir. Bu görevde başarılı olanlar, işletmenin yapısına göre vardiya amiri, üretim şefi veya üretim müdürü gibi daha üst yönetim kademelerine terfi edebilir."
+ },
+ "benzer_meslekler": [
+  "Nezaretçi ve Ustabaşı (Metal İşleme)",
+  "Nezaretçi ve Ustabaşı (Makine ve Metal Mamuller İmalatı)",
+  "Nezaretçi ve Ustabaşı (Elektrik Teçhizat İmalat ve Donanımı)",
+  "Ustabaşı/Postabaşı/Formen/Atölye Sorumlusu",
+  "Vardiya Amiri - İmalat",
+  "İmalat ve Kalite Sorumlusu (Metal)"
+ ],
+ "ek_bilgiler": "\"Bu mesleğe özgü, doğrudan okullarda okutulan bağımsız bir eğitim programı bulunmamaktadır; nezaretçilik/ustabaşılık, elektronik üretim sektöründe işçi olarak başlayıp deneyim, teknik bilgi ve liderlik becerisi kazanarak ulaşılan bir pozisyondur. Bu nedenle sektörde geçirilen süre ve edinilen pratik bilgi, mesleğe giriş ve ilerlemede belirleyici rol oynar.\"",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T10:22:50",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6773
+  }
+ }
+}

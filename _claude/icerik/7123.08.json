@@ -1,0 +1,97 @@
+{
+ "arac_gerec": [
+  "Metre ve lazer/su terazisi",
+  "Vidalama tabancası (akülü tornavida)",
+  "Matkap ve darbeli matkap",
+  "Sac/profil kesme makası veya taşlama",
+  "Maket bıçağı",
+  "Spatula ve mala",
+  "Alüminyum mastar",
+  "Merdiven ve iskele",
+  "Galvaniz kaplı profiller (tavan, duvar, kenar)",
+  "Alçı levha (alçıpan)",
+  "Vida ve dübel",
+  "Derz bandı ve derz dolgu alçısı",
+  "Yalıtım malzemesi (cam yünü, taş yünü vb.)",
+  "Zımpara kağıdı"
+ ],
+ "genel_ozellikler": [
+  "El becerisine sahip,",
+  "Yükseklikte çalışmaktan çekinmeyen,",
+  "El ve gözünü eşgüdümlü kullanabilen,",
+  "Ölçü alma ve basit hesap yapabilen,",
+  "Düzenli, dikkatli ve sabırlı,",
+  "Fiziksel olarak dayanıklı,",
+  "Ekip çalışmasına uyumlu,",
+  "Sorumluluk sahibi"
+ ],
+ "calisma_ortami": "Alçı levha uygulayıcısı, genellikle yeni yapılan veya tadilat gören bina ve işyerlerinde, kapalı mekânlarda çalışır. Çalışma ortamı zaman zaman tozludur; tavan ve üst kot işlerinde merdiven veya iskele üzerinde, yüksekte çalışma söz konusu olabilir. İş; eğilerek, ayakta ve kollarını kullanarak yapılan, fiziksel efor gerektiren bir iştir.\\n\\nMeslek elemanı çoğunlukla bir usta veya ekip başı gözetiminde, diğer inşaat ve tesisat çalışanlarıyla (elektrikçi, tesisatçı, boyacı vb.) koordineli biçimde çalışır. İş sahipleri, müteahhitler ve şantiye sorumlularıyla da iletişim kurar. Çalışma saatleri genellikle inşaatın iş programına göre belirlenir; iş yoğunluğuna bağlı olarak mesai süresi değişebilir.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi; Halk Eğitim Merkezlerinde açılan İnşaat Teknolojisi alanına bağlı alçı levha (alçıpan) uygulamacılığı kurslarında, Çıraklık ve Mesleki Eğitim Merkezlerinin ilgili inşaat dallarında ve çoğunlukla işbaşında usta yanında yetişme yoluyla kazanılmaktadır. Bazı İŞKUR işgücü yetiştirme kursları da alanla ilgili eğitim imkânı sunabilmektedir.",
+  "giris_kosullari": [
+   "Halk Eğitim Merkezi kurslarına her yaş, eğitim ve kültür düzeyinden kişi katılabilir; 18 yaşından küçükler veli izniyle devam edebilir.",
+   "Çıraklık/Mesleki Eğitim Merkezlerine girişte ilköğretim/ortaokul mezunu olmak ve ilgili yaş şartlarını taşımak gerekir.",
+   "İşbaşında usta yanında yetişme yolunda belirli bir eğitim koşulu aranmaz; işverenin belirlediği kriterler geçerlidir."
+  ],
+  "sure_ve_icerik": "Kurs programlarının süresi kurumdan kuruma değişmekle birlikte genellikle birkaç yüz saat civarındadır. Eğitimde; iş sağlığı ve güvenliği, ölçü alma, malzeme ve ekipman hazırlığı, galvaniz profil montajı, alçı levha ile asma tavan, bölme duvar ve giydirme duvar yapımı, yalıtım malzemesi yerleştirme, derz dolgusu ve yüzey rötuşu gibi konular işlenir. İşbaşında yetişmede ise beceriler usta gözetiminde uygulamalı olarak kazanılır.",
+  "belge": "Halk Eğitim Merkezi kurslarını tamamlayanlara Kurs Bitirme Belgesi, Mesleki Eğitim Merkezlerinde eğitim alanlara ise kalfalık/ustalık belgesi verilebilir. Ayrıca Mesleki Yeterlilik Kurumu (MYK) Mesleki Yeterlilik Belgesi, bazı işlerde istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Alçı levha uygulayıcıları; özel inşaat firmalarında, yapı/iç mekân dekorasyon firmalarında ve taşeron ekiplerde çalışabilir, ayrıca deneyim kazandıktan sonra serbest/kendi işini kurarak hizmet verebilir. Konut, işyeri, ofis gibi yapılarda asma tavan, bölme duvar ve duvar giydirme uygulamalarına yönelik talep, hafif ve hızlı uygulanabilir yapı malzemelerine olan ilginin artmasıyla birlikte genişlemektedir. Sektördeki iş hacmi, inşaat ve tadilat faaliyetlerine bağlı olarak mevsimsel dalgalanma gösterebilir.",
+ "kazanc": {
+  "egitim_suresince": "Halk Eğitim Merkezi kurslarında genellikle bir kazanç söz konusu değildir. İşbaşında usta yanında yetişme veya çıraklık eğitimi sürecinde, ilgili mevzuat kapsamında asgari ücretin bir kısmı oranında ücret ödenebilir.",
+  "egitim_sonrasi": [
+   "Özel sektörde çalışanların kazancı, işyerinin büyüklüğü, kişinin deneyimi, beceri düzeyi ve sektörün genel ücret seviyesine göre değişir.",
+   "Mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar; deneyimli ve hızlı çalışan ustaların kazancı daha yüksek olabilir.",
+   "Serbest çalışanların kazancı, aldıkları iş hacmine ve anlaştıkları ücrete göre farklılık gösterir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Çıraklık/Mesleki Eğitim Merkezi sistemi içinde eğitim alanlar kalfalık ve ardından ustalık belgesi alabilir. Kurs bitirme belgeleri de ilerleyen süreçte kalfalık/ustalık sınavlarına girişte değerlendirmeye esas olabilir.",
+  "is_hayatinda": "Deneyim kazanan meslek elemanları ekip başı veya usta konumuna yükselebilir, daha büyük ve kapsamlı projelerde görev alabilir. Yeterli sermaye ve müşteri çevresine ulaşanlar kendi işlerini kurarak taşeron olarak faaliyet gösterebilir."
+ },
+ "benzer_meslekler": [
+  "Alçı Dekorasyoncu (Kartonpiyer)",
+  "Alçı Sıva Uygulayıcısı",
+  "Sıvacı",
+  "Diğer Sıvacılar",
+  "Yapı Yüzey Kaplamacısı/Döşeme ve Duvar Kaplamacısı"
+ ],
+ "ek_bilgiler": "Mesleğin bazı işlemleri (iskele/merdiven üzerinde yükseklikte çalışma gibi) iş sağlığı ve güvenliği açısından ek dikkat ve kişisel koruyucu donanım kullanımı gerektirir. Mesleki Yeterlilik Kurumu (MYK) belgesine sahip olmak, iş bulmada ve bazı işverenlerce tercih edilmede avantaj sağlayabilir.",
+ "gorevler": [
+  "İş sağlığı ve güvenliği, yangın ve acil durum kurallarını uygular.",
+  "Kalite yönetim sistemi ile ilgili faaliyetleri yürütür.",
+  "İş organizasyonu yapar.",
+  "Alçı levha uygulama öncesi hazırlık işlemlerini yürütür.",
+  "Yüzey kontrolü yapar ve gerekli önlemleri alır.",
+  "Malzeme ve ekipmanı kullanıma hazır hale getirir.",
+  "Kot alır.",
+  "Alçı levha ile asma tavan yapar.",
+  "Galvaniz kaplı profillerle asma tavan taşıyıcı sistemini oluşturur.",
+  "Asma tavanda yalıtım malzemesinin yerleştirilmesini sağlar.",
+  "Alçı levhayı galvaniz kaplı profillere vidalar.",
+  "Galvaniz kaplı profillerle bölme duvar taşıyıcı sistemini oluşturur.",
+  "Alçı levhayı galvaniz kaplı profillere ilk yüzünden vidalar.",
+  "Bölme duvara yalıtım malzemesi yerleştirir.",
+  "Alçı levhayı diğer yüzden galvaniz kaplı profillere vidalar.",
+  "Köşe profili yerleştirir.",
+  "Alçı levha ile galvaniz kaplı profiller kullanarak giydirme duvar yapar.",
+  "Galvaniz kaplı profillerle giydirme duvar taşıyıcı sistemini oluşturur.",
+  "Giydirme duvarda yalıtım malzemesinin yerleştirilmesini sağlar.",
+  "Alçı levhayı galvaniz kaplı profillere vidalar.",
+  "Yüzey hazırlığı yapar.",
+  "Mevcut duvar yüzeyine alçı levhaların yapıştırılmasını sağlar.",
+  "Uygulama sonrası yüzey işlemlerini yapar.",
+  "Derz dolgusu yapar.",
+  "Alçı levha yüzeyine perdah alçısı yapar.",
+  "İş sonu kontrol ve temizlik işlemlerini yürütür.",
+  "Mesleki gelişime ilişkin faaliyetlerde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T23:09:15",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6317
+  }
+ }
+}

@@ -1,0 +1,80 @@
+{
+ "arac_gerec": [
+  "Tav fırınları ve su verme fırınları",
+  "Tuz banyosu potaları",
+  "Soğutma/sulama tankları (su, yağ, tuzlu su banyoları)",
+  "Pirometre ve sıcaklık ölçüm-kontrol cihazları",
+  "Fırın kumanda panelleri",
+  "Karbon potansiyeli ölçüm cihazı (karbosensör)",
+  "Sertlik ölçme cihazları",
+  "Vinç, kanca ve malzeme taşıma ekipmanları",
+  "Maşa, kıskaç ve tutma aparatları",
+  "Forklift",
+  "İş emri ve üretim/ısıl işlem kayıt formları",
+  "Koruyucu iş elbisesi, eldiven, gözlük, baret",
+  "Yangın söndürme cihazı"
+ ],
+ "benzer_meslekler": [
+  "Isıl İşlemci",
+  "Metal Sertleştirici",
+  "Sementasyon Tavcısı-Metal",
+  "Su Verici (Metal)",
+  "Diğer Tavcılar, Su Vericiler ve Sementasyon Tavcıları"
+ ],
+ "calisma_alanlari": "Haruri Muameleci (Döküm), döküm fabrikaları, dökümhaneler, çelikhaneler ve makine imalat sanayi kuruluşlarının ısıl işlem (tav) atölyelerinde çalışır. Kamuya ve özel sektöre ait küçük, orta ve büyük ölçekli metal işleme işletmelerinde, özellikle döküm ve dövme parçaların işlendiği tesislerde iş bulma olanağı bulunmaktadır. Metal işleme ve döküm sektörünün yaygınlığı nedeniyle meslek elemanlarının istihdam alanı genellikle sanayi bölgeleri ve organize sanayi siteleridir.",
+ "calisma_ortami": "Haruri Muameleci (Döküm), fabrika ve atölye ortamında, kapalı mekânlarda çalışır. Çalışma ortamı fırınlar nedeniyle yüksek sıcaklıktadır; ayrıca gürültü, duman ve koku gibi etkenler de söz konusu olabilir. Fırınlar, soğutma tankları ve ağır malzemelerle yapılan çalışma fiziksel güç gerektirir; iş güvenliği tedbirlerine uyulmaması durumunda yanık, sıcak çarpması ve kaza riski bulunur. Çalışma genellikle işletmenin üretim programına bağlı olarak vardiyalı düzende sürdürülür.\n\nMeslek elemanı, çalışma sırasında diğer ısıl işlem ve döküm çalışanları, ustabaşı, kalite kontrol personeli ve mühendislerle iş birliği içinde bulunur.",
+ "egitim": {
+  "verildigi_yerler": "Bu meslek için ayrı, bağımsız bir meslek lisesi alanı/dalı bulunmamaktadır. Mesleğe ilişkin temel bilgiler, mesleki ve teknik eğitim kurumlarının Metal Teknolojisi alanı kapsamında verilmekte; mesleğin uygulamaya dayalı becerileri büyük ölçüde işyerinde işbaşında, deneyimli bir usta gözetiminde kazanılmaktadır. Halk Eğitim Merkezleri ve İŞKUR tarafından açılan mesleki eğitim kursları da ilgili beceriyi kazandırabilir.",
+  "giris_kosullari": [
+   "En az ilköğretim/ortaokul mezunu olmak",
+   "Sağlık durumunun yüksek sıcaklıkta ve fiziksel güç gerektiren işlerde çalışmaya uygun olması",
+   "İşyerinde fiilen çalışarak deneyim kazanmaya istekli olmak"
+  ],
+  "sure_ve_icerik": "Meslek, mesleki ve teknik eğitim programlarının Metal Teknolojisi alanında verilen genel ısıl işlem bilgileri ile birlikte, işyerinde deneyimli bir usta/ustabaşı gözetiminde uzun süreli uygulamalı çalışma yoluyla öğrenilmektedir. Eğitim süresi ve içeriği, kişinin yeteneğine ve çalıştığı işletmenin uygulama olanaklarına göre değişebilmektedir. Bu süreçte malzeme ve ısıl işlem temel bilgileri, fırın kullanımı, sıcaklık kontrolü ve soğutma yöntemleri uygulamalı olarak öğretilir.",
+  "belge": "Mesleki ve teknik eğitim kurumlarından alınan diploma/sertifika veya mesleki eğitim kursları sonunda verilen katılım/başarı belgesi edinilebilir. Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "ek_bilgiler": "Bu meslek, dökülen veya makine fabrikalarından gelen metal ve alaşımlara ısıl işlem (tavlama, sertleştirme, menevişleme, sementasyon vb.) yoluyla istenilen özellikleri kazandırmayı kapsar ve uygulama alanı itibarıyla genel \"Isıl İşlemci\" mesleğiyle büyük ölçüde örtüşmektedir. İşin yüksek sıcaklıkta fırın ve kimyasal maddelerle yapılması nedeniyle, işyerlerinde iş sağlığı ve güvenliği kurallarına uyulması önem taşımaktadır.",
+ "genel_ozellikler": [
+  "Dikkatli,",
+  "Sabırlı ve dayanıklı,",
+  "Fiziksel olarak güçlü ve yüksek sıcaklıkta çalışmaya uygun,",
+  "El becerisine sahip,",
+  "Temel fizik, matematik ve malzeme bilgisine sahip,",
+  "Sorumluluk sahibi,",
+  "İş sağlığı ve güvenliği kurallarına duyarlı,",
+  "Ekip çalışmasına uyumlu,"
+ ],
+ "gorevler": [
+  "Şekil verme, döküm veya kaynak işlemlerinden doğan iç gerilmeleri azaltmak amacıyla malzemeyi belli bir sıcaklığın altındaki bir sıcaklığa ısıtıp fırında soğutur.",
+  "Fiziksel ve mekanik özellikleri elde etmek, talaş kaldırmayı veya soğuk şekillendirmeyi kolaylaştırmak için malzemeyi uygun sıcaklığa çıkarır, bu sıcaklıkta gerekli değişiklikler sağlanıncaya kadar tutar ve yavaş soğutur.",
+  "Çelik iç yapısındaki tane boyutunu küçülterek sertliği azaltır, talaş kaldırmayı kolaylaştırır, döküm ve dövme parçalardaki iç gerilmeleri giderir.",
+  "Malzemenin kristal yapısını daha homojen ve daha ince bir hale getirmek, sonraki ısıl işleminde karbürün uygun şekilde dağılmasını sağlamak amacıyla çeliği kritik sıcaklığın 40-60° üstünde tavlayıp havada soğutur.",
+  "Malzemeyi belli bir sıcaklığa (östenit bölgesine) kadar ısıtır, bütün yapı östenit fazına dönüşünceye kadar bekletir; su, yağ, tuzlu su veya hava ile hızlı soğutarak martenzit bir yapı sağlar.",
+  "Sertleştirilmiş çeliğin su verme sonunda soğutmadan kaynaklanan gerginlikleri gidermek, çeliğin martenzitik özlülüğünü ve direncini artırmak amacıyla meneviş işlemini uygular.",
+  "Düşük karbonlu, işlenmiş çelik parçanın yüzeyine karbon emdirme (sementasyon) işlemini yapar.",
+  "Aşırı doymuş katı fazdan, zaman ve sıcaklık etkisiyle yeni bir fazın çökelmesi sonucu malzemenin sertlik ve mukavemetinin artmasını sağlar.",
+  "Demir esaslı ürünü yüksek bir sıcaklığa ısıtır, ardından homojen östenit yapısını korumak üzere yeterince hızlı bir şekilde oda sıcaklığına soğutur.",
+  "Yumuşatma, normalizasyon, ıslah, sementasyon, çökelme sertleşmesi ve çözme tavlaması işlemlerini yapar.",
+  "Meslek alanı ile ilgili gelişmeleri takip eder, uygular.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Meslekte deneyim kazanan çalışanlar ustabaşılığa, usta öğreticiliğe veya işletme içinde ısıl işlem/kalite kontrol alanında daha üst teknik görevlere yükselebilir. İsteyenler ilgili mesleki ve teknik eğitim programlarını tamamlayarak belge/diploma düzeylerini yükseltebilir.",
+  "is_hayatinda": "Deneyim ve performansa bağlı olarak vardiya amirliği, atölye şefliği gibi görevlere veya olanakların bulunması halinde kendi işyerini açma durumuna ulaşabilirler."
+ },
+ "kazanc": {
+  "egitim_suresince": "İşyerinde çalışarak mesleği öğrenenler genellikle asgari ücret düzeyinde ücret alır. Mesleki eğitim kapsamında işletmelerde staj/işbaşı eğitimi gören öğrencilere 3308 sayılı Mesleki Eğitim Kanunu hükümlerine göre ücret ödenir.",
+  "egitim_sonrasi": [
+   "Kamu kuruluşlarında işçi statüsünde çalışanlar toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde ücret; işin niteliği, çalışanın deneyimi, işletmeye uyumu ve işletmenin büyüklüğüne göre karşılıklı anlaşma ile belirlenir; genellikle asgari ücret düzeyinde başlayıp deneyim arttıkça yükselir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T11:20:22",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 7028
+  }
+ }
+}

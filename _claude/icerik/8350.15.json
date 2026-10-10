@@ -1,0 +1,73 @@
+{
+ "arac_gerec": [
+  "Palamar halatı",
+  "Usturmaça (fender)",
+  "Halat bağlama babası/bitası",
+  "İş eldiveni",
+  "Can yeleği",
+  "Baret",
+  "Kaymaz tabanlı iş ayakkabısı",
+  "El telsizi",
+  "El feneri",
+  "Düdük/işaret verme aracı",
+  "Yağmurluk ve koruyucu kıyafet",
+  "Halat makarası/çarmıh"
+ ],
+ "genel_ozellikler": [
+  "Fiziksel olarak güçlü ve dayanıklı,",
+  "Kol ve el kaslarını etkin biçimde kullanabilen,",
+  "Dikkatli ve tedbirli,",
+  "Ekip halinde çalışmaya uyumlu,",
+  "Talimatlara hızlı tepki verebilen,",
+  "Açık havada ve zor hava koşullarında çalışmaya istekli,",
+  "Suya yakın ve hareketli ortamlarda çalışmaktan çekinmeyen,",
+  "Sorumluluk sahibi ve güvenilir"
+ ],
+ "calisma_ortami": "Çımacılar, limanlarda ve iskelelerde açık havada çalışır. Görev yeri genellikle rıhtım, iskele kenarı ve gemi güvertesine yakın alanlardır; kapalı mekân çalışması söz konusu değildir. Çalışma, güneş, yağmur, soğuk ve rüzgâr gibi hava koşullarına doğrudan açıktır ve gemi tarifelerine bağlı olarak günün her saatinde, gerektiğinde gece ve vardiyalı şekilde çalışma gerekebilir.\\n\\nİş, ayakta, hareketli ve fiziksel güç gerektiren bir niteliktedir. Halatların ani gerilmesi, kayma, düşme veya suya girme gibi iş kazası riskleri bulunduğundan can yeleği, eldiven ve koruyucu ayakkabı gibi kişisel koruyucu donanımın kullanılması önemlidir. Çımacı; kaptan, gemici, lostromo ve liman işletme personeli ile sürekli iletişim ve koordinasyon içinde çalışır.",
+ "egitim": {
+  "verildigi_yerler": "Çımacılık mesleğinde örgün bir mesleki eğitim programı bulunmamaktadır. Meslek genellikle liman işletmeleri bünyesinde işbaşında, usta yanında uygulamalı olarak öğrenilir. Ayrıca Halk Eğitim Merkezleri ile İŞKUR'un açtığı mesleki eğitim kurslarında ve liman işletmelerinin kendi bünyesinde düzenlediği oryantasyon/iş güvenliği eğitimlerinde de temel bilgiler verilmektedir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "Fiziksel olarak işin gerektirdiği güç ve dayanıklılığa sahip olmak, buna uygun sağlık durumunda bulunmak",
+   "İlgili işletmenin belirlediği yaş ve diğer çalışma şartlarını karşılamak"
+  ],
+  "sure_ve_icerik": "Mesleğe giriş için belirli bir süre öngörülmemektedir; çalışmaya başlayan kişi, deneyimli bir çımacı veya lostromo gözetiminde, iş güvenliği kuralları, halat bağlama ve çözme teknikleri, gemi-iskele iletişimi ve liman operasyonlarına ilişkin uygulamalı eğitimle mesleği öğrenir. Kısa süreli iş güvenliği ve temel liman operasyonları kursları da bu sürece destek olabilir.",
+  "belge": "İşbaşı eğitim sonunda resmî bir diploma verilmez; katılınan kurslardan katılım belgesi alınabilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, ilgili alanda açılmışsa istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Çımacılar başlıca limanlarda, iskelelerde, feribot işletmelerinde, liman işletme şirketlerinde, belediyelere bağlı yolcu iskelelerinde ve gemi acenteleri bünyesinde çalışabilirler. Yurt içi deniz ticareti, yolcu ve yük taşımacılığının yoğun olduğu kıyı şehirlerinde istihdam olanağı daha fazladır. Liman trafiğinin ve deniz taşımacılığının gelişmesine bağlı olarak bu alandaki iş gücü ihtiyacı sürmektedir.",
+ "kazanc": {
+  "egitim_suresince": "Meslek genellikle doğrudan işe başlayarak işbaşında öğrenildiğinden, eğitim süresine özgü ayrı bir ücret söz konusu değildir; kişi çalıştığı işletmeden ücret alır. Kısa süreli kurslara katılım genellikle ücretsizdir.",
+  "egitim_sonrasi": [
+   "İşe yeni başlayan çımacılar genellikle asgari ücret düzeyinde gelir elde eder.",
+   "Kamu kurumlarına bağlı limanlarda işçi statüsünde çalışanların ücreti ilgili toplu iş sözleşmesi hükümlerine göre belirlenir.",
+   "Özel sektörde ücret, işletmenin büyüklüğü, deneyim ve yapılan iş hacmine göre karşılıklı anlaşmaya göre değişebilir; vardiya ve fazla mesai ödemeleri gelire eklenebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Çımacılık için örgün bir eğitim kademesi bulunmadığından mesleki eğitimde dikey bir ilerleme söz konusu değildir. Kişi, ilgi ve isteğine göre gemicilik, güvertecilik veya liman operasyonlarına yönelik kurslara katılarak bilgi ve becerisini artırabilir.",
+  "is_hayatinda": "Deneyim kazanan çımacı, liman içinde usta çımacı veya ekip sorumlusu konumuna gelebilir. Gerekli belge ve eğitimleri tamamlayarak gemici, güverte tayfası veya lostromo gibi gemi mürettebatı görevlerine geçiş yapabilir; liman işletmelerinde operasyon personeli olarak da ilerleyebilir."
+ },
+ "benzer_meslekler": [
+  "Palamarcı",
+  "Gemici",
+  "Güverte Tayfası",
+  "Usta Gemici",
+  "Genel Servis İşçisi (gemi)",
+  "Gemi Rampa Elemanı"
+ ],
+ "ek_bilgiler": "Çımacılık, liman işletmelerinin gemi sefer tarifelerine bağlı olarak değişken ve vardiyalı bir çalışma düzeni gerektirebilir. İskele ve rıhtımda halatlarla yapılan çalışma nedeniyle iş kazası riski bulunduğundan can yeleği, eldiven ve koruyucu ayakkabı gibi kişisel koruyucu donanımın kullanılması önem taşır.",
+ "gorevler": [
+  "Gemilerin tarifede belirtilen varış zamanından önce iskelede hazır bulunur.",
+  "Gemi iskeleye yanaştığında halatı alır ve bağlama noktasına takar.",
+  "Gemi iskeleden ayrılırken halatı çıkarır ve gemiciye verir.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T19:12:10",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 4808
+  }
+ }
+}

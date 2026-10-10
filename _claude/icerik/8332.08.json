@@ -1,0 +1,78 @@
+{
+ "arac_gerec": [
+  "Vidanjör/kombine kanal temizleme aracı",
+  "Yüksek basınçlı su püskürtme tesisatı",
+  "Vakumlu emme tankı ve hortumları",
+  "Kanal temizleme başlıkları (nozullar)",
+  "Trafik uyarı ve işaretleme malzemeleri (koni, reflektör, işaret levhası)",
+  "Koruyucu iş elbisesi, eldiven ve çizme",
+  "Solunum koruyucu maske",
+  "El feneri",
+  "Basit araç bakım ve kontrol el aletleri",
+  "Ağır vasıta sürücü belgesi (ehliyet)",
+  "Telsiz veya mobil haberleşme cihazı"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve sorumluluk sahibi,",
+  "Fiziksel olarak sağlıklı ve dayanıklı,",
+  "El-göz koordinasyonuna sahip,",
+  "Trafik kurallarına uyan, sabırlı,",
+  "Ekip çalışmasına uygun, iletişimi iyi,",
+  "Kötü koku ve zorlu çalışma koşullarına tahammül edebilen,",
+  "Mekanik/teknik konulara ilgili"
+ ],
+ "calisma_ortami": "Vidanjör şoförü, görevini büyük ölçüde açık havada; kanalizasyon bacaları, rögarlar, ızgaralar ve atık su hatlarının bulunduğu şehir içi ve sanayi alanlarında yürütür. Çalışma ortamı kötü koku, nem, kirlilik ve bazı durumlarda zararlı gaz riski içerebileceğinden iş sağlığı ve güvenliği kurallarına titizlikle uyulması gerekir. Çalışma genellikle tam gün esasına dayanır; acil çağrılar nedeniyle vardiyalı, hafta sonu veya gece çalışması söz konusu olabilir.\n\nMeslek, araç içinde oturarak sürüş ve araç dışında ayakta durarak ekipman kullanımını birlikte içerir. Belediye veya firma yöneticileri, iş arkadaşları (yardımcı personel) ve hizmet verilen vatandaşlar/işletme sahipleriyle sürekli iletişim halinde çalışılır.",
+ "egitim": {
+  "verildigi_yerler": "Vidanjör şoförlüğü için ayrı, resmî olarak tanımlanmış örgün bir meslek eğitim programı bulunmamaktadır. Meslek; ağır vasıta sürücü belgesi veren sürücü kurslarında alınan ehliyet eğitiminin ardından, belediyeler veya özel temizlik firmaları bünyesinde işbaşında usta-çırak ilişkisiyle öğrenilir. Ayrıca İŞKUR ve Halk Eğitim Merkezlerinin açtığı mesleki eğitim kurslarından da destek alınabilir.",
+  "giris_kosullari": [
+   "İlköğretim mezunu olmak (meslek için gereken minimum eğitim düzeyi)",
+   "Ağır vasıta kullanmaya uygun sürücü belgesine (ilgili sınıf ehliyet) sahip olmak",
+   "18 yaşını doldurmuş olmak",
+   "Araç kullanmaya ve zorlu çalışma koşullarına engel bir sağlık durumu bulunmamak"
+  ],
+  "sure_ve_icerik": "Sürücü kurslarında ehliyet eğitimi teorik (trafik, araç tekniği, ilk yardım) ve pratik (direksiyon) dersleri içerir. Vidanjör aracının özel donanımının (vakum/basınçlı yıkama sistemi) kullanımı ile kanal temizleme işlemleri ise genellikle işe başlandıktan sonra deneyimli bir şoför yanında belirli bir süre uygulamalı olarak öğrenilir. İş güvenliği ve ilk yardım konularında kısa süreli tamamlayıcı kurslara da katılım sağlanabilir.",
+  "belge": "Ağır vasıta sürücü belgesi (ilgili sınıf ehliyet); varsa iş sağlığı ve güvenliği ile ilk yardım konularında alınan sertifikalar ve işe başlanılan kurum/firma tarafından verilen iç eğitim katılım belgesi."
+ },
+ "calisma_alanlari": "Vidanjör şoförleri, belediyelerin temizlik işleri veya altyapı müdürlükleri, kanalizasyon ve atık su işletmeleri bünyesinde; özel çevre temizlik ve kanal temizleme firmalarında; organize sanayi bölgeleri, fabrikalar ve büyük işletmelerin bakım/temizlik birimlerinde istihdam edilebilir. Belediyelere taşeron olarak hizmet veren özel firmalar aracılığıyla da çalışma olanağı bulunmaktadır.",
+ "kazanc": {
+  "egitim_suresince": "Vidanjör şoförlüğüne yönelik ayrı bir örgün eğitim bulunmadığından eğitim süresince düzenli bir kazanç söz konusu değildir; ağır vasıta sürücü kursu ücretleri genellikle kursiyer tarafından karşılanır.",
+  "egitim_sonrasi": [
+   "Belediyelerde işçi statüsünde çalışanlar toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde ve taşeron firmalarda çalışanların ücreti işyeri büyüklüğüne, deneyime ve çalışma koşullarına göre değişmekle birlikte, yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Bu meslekte resmî olarak tanımlanmış bir eğitim basamağı bulunmamaktadır. Deneyim kazanan şoförler, farklı sınıflarda sürücü belgesi edinerek diğer ağır vasıta sürücülüğü mesleklerine geçiş yapabilir.",
+  "is_hayatinda": "Deneyim ve performansına göre vidanjör şoförleri ekip sorumlusu, şef şoför veya saha amiri gibi görevlere yükselebilir. Ayrıca belediye veya firma bünyesinde diğer ağır vasıta sürücülüğü görevlerine (çöp kamyonu, arazöz vb.) geçiş yapabilirler."
+ },
+ "benzer_meslekler": [
+  "Çöp Kamyonu Sürücüsü",
+  "Arazöz Şoförü",
+  "Kamyon Şoförü",
+  "Tıbbi Atık Toplama ve Taşıma Kamyon Şoförü",
+  "Kara Tankeri Operatörü (Tehlikeli Madde Taşımacılığı)",
+  "Oto Kurtarıcı-Çekici Araç Şoförü"
+ ],
+ "ek_bilgiler": "Çalışma koşullarının zorlu ve hijyen açısından riskli olması nedeniyle iş sağlığı ve güvenliği kurallarına uyulması önemlidir. Bazı işyerlerinde Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir.",
+ "gorevler": [
+  "Mesai başlangıcında aracın lastik, hava, basınç seviyeleri ile yağını ve suyunu kontrol eder,",
+  "Aracı çalıştırarak 10 dakika rölantide bekletir ve motorun ısınmasını sağlar,",
+  "Farların, sinyallerin ve araçta bulunan tüm aydınlatma tesisatının/lambaların çalışıp çalışmadığını kontrol eder,",
+  "Program dahilinde veya acil çağrıları dikkate alarak görev yerine doğru yola çıkar,",
+  "Kullanılan araç üzerindeki tesisat nedeniyle emsallerine göre daha yüksek olduğu için aracı dikkatli bir şekilde kullanır,",
+  "Temizlenecek kanalizasyon bacası, ızgara veya mekana en uygun ve dikkatli şekilde aracı yanaştırır,",
+  "Aracın etrafına gerekli trafik uyarı malzemelerini yerleştirerek güvenliği sağlar,",
+  "Temizlik işleminin tamamlanmasının ardından araç etrafına yerleştirilen uyarı malzemelerini toplayarak dikkatli bir şekilde bir sonraki görev yerine hareket eder,",
+  "Program çerçevesinde kanalizasyon, baca ve ızgaraların temizliği dışında acil bir çağrı olursa aracı acil çağrı yapılan bölgeye götürür,",
+  "Düzenli olarak aracın temizliğini ve bakımını yaptırır,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T18:24:49",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5900
+  }
+ }
+}

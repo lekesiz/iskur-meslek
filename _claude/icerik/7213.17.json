@@ -1,0 +1,78 @@
+{
+ "arac_gerec": [
+  "Delme makinaları (matkap tezgâhı, el breyzi, çeşitli delme aparatları)",
+  "Kesme araçları (taşlama/flex makinası, el testeresi)",
+  "Taşlama makinaları (zımpara taşı, spiral taşlama makinası)",
+  "Kaynak makinaları (MIG/MAG, elektrik ark kaynak makinası)",
+  "Markalama ve ölçü aletleri (metre, gönye, mastar, şablon, mercek)",
+  "Ölçü kontrol tertibatları (şasi ölçüm sistemleri, lazer/optik ölçüm cihazları)",
+  "Doğrultma araçları (çekiç, örs, pres, hidrolik doğrultma ekipmanı, kriko)",
+  "Birleştirme araçları (vida, cıvata, somun, pim, mengene)",
+  "El aletleri (anahtar takımı, pense, tornavida)",
+  "Kişisel koruyucu donanım (iş gözlüğü, eldiven, kaynak maskesi, kulaklık, iş elbisesi)"
+ ],
+ "genel_ozellikler": [
+  "El ve gözlerini eşgüdümle kullanabilen,",
+  "Şekil ve uzamsal ilişkileri görebilen,",
+  "Dikkatli ve tedbirli,",
+  "Fiziksel olarak güçlü ve dayanıklı,",
+  "El becerisine sahip,",
+  "Alet ve makinelerle çalışmaktan hoşlanan,",
+  "Takım çalışmasına uyumlu,",
+  "Düzenli ve sorumluluk sahibi kişiler olmaları gerekir."
+ ],
+ "calisma_ortami": "Otomotiv Şasi ve İskelet İşçileri, genellikle otomotiv ana ve yan sanayi fabrikalarında, şasi/karoser imalat atölyelerinde kapalı mekânlarda çalışırlar. Çalışma ortamı metal tozu, kaynak dumanı ve kıvılcım içerebilir; kısmen gürültülüdür ve kesme, delme, taşlama gibi işlemler nedeniyle iş kazası riski taşır. Bu nedenle iş sağlığı ve güvenliği kurallarına, kişisel koruyucu donanım kullanımına dikkat edilmesi önemlidir.\n\nÇalışma genellikle ayakta, eğilerek ve bazen vardiyalı düzende yürütülür. Meslek elemanları; iş arkadaşları, ustabaşı, kalite kontrol personeli ve diğer üretim bölümü çalışanlarıyla sürekli iletişim ve iş birliği içinde bulunur.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi, ilgili metal/motorlu araçlar teknolojisi alanı kapsamında mesleki eğitim merkezlerinde çıraklık eğitimi yoluyla ve işletmelerde usta yanında verilmektedir. Ayrıca Halk Eğitim Merkezleri ile İŞKUR'un açtığı mesleki eğitim kurslarında da mesleğe yönelik beceriler kazandırılabilmektedir.",
+  "giris_kosullari": [
+   "En az ilköğretim/ortaokul mezunu olmak",
+   "Çıraklık eğitimi için 14 yaşını doldurmuş olmak",
+   "Mesleğin gerektirdiği fiziksel ve sağlık durumuna uygun olmak",
+   "Eğitim görülecek işyeri ile çıraklık sözleşmesi imzalamak"
+  ],
+  "sure_ve_icerik": "Çıraklık/mesleki eğitim merkezi programı kapsamında eğitim süresi genellikle birkaç yıl sürer; haftanın bir günü mesleki eğitim merkezinde teorik dersler, kalan günlerde ise işyerinde usta öğreticinin gözetiminde uygulamalı eğitim verilir. Eğitim içeriğinde metal şekillendirme, kaynak, kesme-delme, ölçü kontrol ve doğrultma teknikleri yer alır. Kurs programlarında ise doğrudan uygulamaya yönelik, daha kısa süreli eğitim verilir.",
+  "belge": "Mesleki eğitim merkezi programını tamamlayanlara kalfalık ve ardından ustalık belgesi verilir. Kurs yoluyla eğitim alanlara katılım/başarı belgesi düzenlenir. Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Otomotiv Şasi ve İskelet İşçileri; otomotiv ana sanayi fabrikaları (otobüs, kamyon, iş makinesi üreticileri), otomotiv yan sanayi işletmeleri, şasi ve karoser imalat atölyeleri, ticari araç üretim ve dönüşüm tesisleri gibi yerlerde istihdam edilebilirler.",
+ "kazanc": {
+  "egitim_suresince": "Çıraklık eğitimi veya mesleki eğitim merkezi kapsamında eğitim gören kişilere, 3308 sayılı Mesleki Eğitim Kanunu çerçevesinde asgari ücretin belirli bir oranından az olmamak üzere ücret ödenir ve iş kazası ile meslek hastalığına karşı sigorta primleri devletçe karşılanır. İŞKUR kursu ile eğitim alanlara ise kurs süresince belirli bir cep harçlığı ödenebilir.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Deneyim, bilgi, beceri ve işyerinin büyüklüğüne göre kazanç artabilir.",
+   "Özel sektörde ücret, işveren ile çalışan arasında karşılıklı anlaşmaya ve sektör koşullarına göre değişebilir.",
+   "Kamuda işçi statüsünde çalışanlar ilgili toplu iş sözleşmesi hükümlerine tabi olur."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleki eğitim merkezinden diploma alarak mezun olanlar, alanının devamı niteliğindeki yükseköğretim programlarına ilgili mevzuat çerçevesinde geçiş yapabilirler. Ustalık belgesi almaya hak kazananlar, dilerlerse işyeri açma belgesi alabilirler.",
+  "is_hayatinda": "Deneyim kazandıkça ustabaşı, atölye sorumlusu veya kalite kontrol sorumlusu gibi görevlere yükselebilirler. Yeterli bilgi, beceri ve sermayeye sahip olanlar kendi imalat/onarım atölyelerini kurabilirler."
+ },
+ "benzer_meslekler": [
+  "Karoserci",
+  "Otomotiv Kaportacısı",
+  "Otomotiv Kaporta İşçisi",
+  "Metal Levha İşçisi",
+  "Otomotiv Sac Şekillendirme İşçisi",
+  "Çelik Konstrüksiyon (Yapılandırmacı) Elemanı"
+ ],
+ "ek_bilgiler": "Meslek, kaynak, kesme ve taşlama gibi işlemleri içerdiğinden, çalışılan işyerinin faaliyet alanına göre iş sağlığı ve güvenliği mevzuatı kapsamında ek eğitim ve koruyucu donanım gerekliliği söz konusu olabilir. Otomotiv sektöründeki üretim hacmine bağlı olarak istihdam olanakları değişkenlik gösterebilir.",
+ "gorevler": [
+  "Şasi üzerindeki çeşitli bağlantı deliklerini değişik aparatlar yardımıyla deler.",
+  "Şasilerin enine taşıyıcı boru ve yan konsol fazlalıklarını markalar, bunları keser ve taşlar.",
+  "Bagaj odası saclarını kaynakla gerdirir.",
+  "Kaynak işlemi tamamlanmış ön, arka ve orta karkas şasileri ile araç iskeletinin ölçü kontrollerini yaparak hatalı yerlerini belirler.",
+  "Gerekli doğrultma ve düzenleme işlemleri sonrasında yeniden ölçü kontrolleri yapar.",
+  "Kullanılan aletlerin gerekli bakım ve temizliğini yapar.",
+  "Çalışma alanının temizlik ve düzenini sağlar.",
+  "Meslek alanı ile ilgili gelişmeleri takip eder, uygular.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T00:29:35",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5748
+  }
+ }
+}

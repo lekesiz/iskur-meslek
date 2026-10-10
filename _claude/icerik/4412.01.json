@@ -1,0 +1,85 @@
+{
+ "arac_gerec": [
+  "Bilgisayar ve posta/kargo takip yazılımları",
+  "Telefon ve dahili haberleşme cihazları (telsiz vb.)",
+  "Faks ve fotokopi makinesi",
+  "Yazıcı ve tarayıcı",
+  "Posta tartı/terazi cihazları",
+  "Zarf, paket ve koli ayırma/sınıflandırma ekipmanları",
+  "Damga, mühür ve tarih damgası",
+  "Cihet defteri ve dağıtım kayıt defterleri",
+  "Evrak dosyaları ve arşiv dolapları",
+  "İdari yazışma ve rapor formları",
+  "Personel izin, kadro ve sicil takip formları",
+  "Para sayma ve havale işlemlerinde kullanılan kasa/makbuz sistemleri"
+ ],
+ "genel_ozellikler": [
+  "Yöneticilik ve organizasyon yeteneğine sahip,",
+  "Sorumluluk duygusu gelişmiş,",
+  "Planlı ve düzenli çalışabilen,",
+  "İnsan ilişkilerinde başarılı ve iletişime açık,",
+  "Dikkatli ve ayrıntılara özen gösteren,",
+  "Sorun çözme becerisine sahip,",
+  "Kararlı ve güvenilir,",
+  "Ekip çalışmasına uygun ve emir-komuta zincirine saygılı"
+ ],
+ "calisma_ortami": "\"Posta şefi, postane veya posta dağıtım merkezi gibi kapalı büro ortamlarında çalışır. Çalışma süresinin önemli bir kısmını masa başında evrak kontrolü, yazışma hazırlama ve personel iş bölümü yaparak geçirirken, dağıtım ve ayrım servislerindeki çalışmaları yerinde denetlemek için zaman zaman salon içinde ve bazen de saha/güzergâh kontrollerinde bulunur. Vatandaşla doğrudan muhatap olunan gişe ve hizmet alanlarına yakın çalıştığından ortam zaman zaman kalabalık ve hareketlidir.\\n\\nGörevini yürütürken müdür, şefler, memurlar, dağıtıcılar ve posta hizmeti alan vatandaşlarla sürekli iletişim halindedir. Çalışma saatleri genellikle belirli bir düzen içindedir, ancak posta/kargo hacminin arttığı dönemlerde (resmî tatiller, kampanya dönemleri vb.) fazla çalışma gerekebilir. İş, dikkat ve koordinasyon gerektirdiğinden belirli bir gerginlik ve zaman baskısı içerebilir.\"",
+ "egitim": {
+  "verildigi_yerler": "Posta şefliği için ayrı, bağımsız bir örgün okul programı veya bölüm bulunmamaktadır. Bu mesleğe genellikle en az ortaöğretim (lise ve dengi) mezunu olarak posta/kargo kuruluşlarında memur, dağıtıcı veya benzeri bir görevde işe başlayıp, kurumun açtığı hizmet içi eğitimler, sınavlar ve kıdem yoluyla şeflik kadrosuna yükselerek ulaşılır. Bazı durumlarda ilgili kuruluşun açtığı sınavlarla (örneğin kamu personeli seçme sınavı sonucuna göre) doğrudan şeflik veya eşdeğer bir kadroya atama da yapılabilir.",
+  "giris_kosullari": [
+   "En az lise veya dengi okul mezunu olmak",
+   "İlgili kuruluşun (PTT ve benzeri posta/kargo işletmeleri) açtığı personel alım sınavlarına girmek ve kazanmak",
+   "Kurum içinde belirli bir hizmet süresi ve kıdem edinmek",
+   "Kurumun şeflik/yöneticilik kadrolarına atama için öngördüğü sınav, mülakat veya değerlendirme süreçlerini başarıyla tamamlamak"
+  ],
+  "sure_ve_icerik": "Resmî olarak tanımlanmış, belirli bir süreye ve müfredata sahip ayrı bir meslek eğitimi bulunmamaktadır. Mesleğe giriş genellikle lise eğitimi sonrasında ilgili kurumda memur/dağıtıcı olarak başlanan göreve dayanır. Kurum, çalışanlarına posta mevzuatı, posta işlemleri, evrak yönetimi, müşteri ilişkileri, personel idaresi ve temel yöneticilik konularında hizmet içi eğitimler verir. Zaman içinde kazanılan deneyim, başarılı performans ve kurum içi değerlendirmeler sonucunda şeflik görevine atanma gerçekleşir.",
+  "belge": "Bu meslek için örgün eğitim sonunda verilen bir diploma bulunmamaktadır. Kurum içi hizmet içi eğitimlere katılanlara katılım/başarı belgesi verilebilir; şeflik görevine atanma ise kurumun resmî atama kararı ile belgelendirilir."
+ },
+ "calisma_alanlari": "\"Posta şefleri başta PTT A.Ş. olmak üzere posta hizmeti veren kamu kuruluşlarının şube ve merkezlerinde, ayrıca özel sektörde faaliyet gösteren kargo ve kurye şirketlerinin benzer nitelikteki şube/operasyon yönetimi birimlerinde görev alabilirler. Posta ve kargo sektörünün e-ticaretin gelişimine paralel olarak büyümesi, bu alanda görev yapan deneyimli, organizasyon ve personel yönetimi becerisine sahip ara kademe yöneticilere olan ihtiyacı sürekli kılmaktadır. İş bulma olanakları, büyükşehirlerdeki posta/kargo merkezlerinin yoğunluğuna ve kurumların personel ihtiyacına göre değişmektedir.\"",
+ "kazanc": {
+  "egitim_suresince": "Bu mesleğe özgü ayrı bir örgün eğitim programı bulunmadığından, eğitim süresince ayrıca bir kazançtan söz edilemez. Kişi, mesleğe genellikle lise eğitimini tamamladıktan sonra ilgili kuruluşta çalışan statüsünde başlar ve bu dönemde çalıştığı kadronun ücretini alır.",
+  "egitim_sonrasi": [
+   "Kamu niteliğindeki posta kuruluşlarında (örneğin PTT A.Ş.) çalışanların ücreti, kurumun ücret politikası, ilgili toplu iş sözleşmesi hükümleri veya memur statüsündeyse 657 sayılı Kanun'a bağlı derece/kademe esaslarına göre belirlenir.",
+   "Özel sektördeki kargo/kurye şirketlerinde ücret, işletmenin büyüklüğüne, çalışanın deneyimine ve karşılıklı anlaşmaya göre değişir.",
+   "Mesleğe yeni başlayanlarda ya da düşük kıdemde ücret genellikle asgari ücret düzeyinde seyrederken, kıdem ve sorumluluk arttıkça ücret de yükselir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Posta şefleri, görev süresince kurumun açtığı hizmet içi eğitimlere, yöneticilik ve iletişim becerilerini geliştiren seminerlere katılabilirler. Ayrıca açık öğretim veya uzaktan eğitim yoluyla işletme, kamu yönetimi veya lojistik gibi alanlarda ön lisans/lisans eğitimi tamamlayarak mesleki bilgi ve birikimlerini artırabilirler.",
+  "is_hayatinda": "Kıdem, performans ve kurum içi değerlendirmelere bağlı olarak posta şefleri; müdür yardımcısı, posta/şube müdürü, bölge müdürü gibi daha üst düzey yöneticilik pozisyonlarına yükselebilirler."
+ },
+ "benzer_meslekler": [
+  "Dağıtıcı (Posta Dağıtım Hizmetleri)",
+  "Posta Ayırım Memuru",
+  "Baş Dağıtıcı/Posta Servis Nezaretçisi",
+  "Diğer Posta Dağıtım Görevlileri",
+  "Büro Memuru (Personel)",
+  "Puantör"
+ ],
+ "ek_bilgiler": "\"Posta şefliği, günümüzde genellikle ilgili kuruluşlarda (başta PTT A.Ş.) belirli bir hizmet süresi ve performans sonucunda ulaşılan bir yöneticilik kademesi niteliğindedir; kurumların personel politikaları ve atama/terfi usulleri zaman içinde değişebileceğinden, mesleğe giriş ve ilerleme koşulları hakkında güncel bilgi için ilgili kuruluşun insan kaynakları birimlerine başvurulması önerilir.\"",
+ "gorevler": [
+  "Personel arasında iş bölümü yapar.",
+  "Posta, telgraf, telefon, teleks, havale ve muhasebe servisinde çıkan yazıları kontrol eder.",
+  "Yazıları paraflar ve müdürü ile personeli arasında koordineyi sağlar.",
+  "Ortaya çıkan sorunları çözmeye çalışır.",
+  "İş hacimlerine göre servisler arasında memur değişikliği yapar.",
+  "Gelen evrakları ilgili servislere havale eder.",
+  "Havale edilen evrakın neticesini takip eder.",
+  "Dağıtıcıların cihet defterini imzalamalarını ve çalışmalarını yerinde kontrol eder.",
+  "Gerektiğinde çalışmalarla ilgili rapor hazırlayarak amirine iletir.",
+  "Elemanların izin, kadro ve sicil durumlarını takip eder.",
+  "İdari yazışmaların taslaklarını hazırlar.",
+  "Şeflerin, memurların ve posta dağıtım görevlilerinin sorunlarını halleder.",
+  "Personelin disiplinli bir şekilde çalışmalarını ve vatandaşlara davranışlarını izler.",
+  "Personeli yönetir ve yönlendirir.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T17:08:29",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6105
+  }
+ }
+}

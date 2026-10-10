@@ -1,0 +1,77 @@
+{
+ "arac_gerec": [
+  "Rıhtım (liman) vinci ve kumanda kabini",
+  "Vinç kumanda kolları/joystickler ve kontrol panosu",
+  "Halat, kanca ve bağlama donanımları",
+  "Telsiz/haberleşme cihazı",
+  "İşaretleşme flaması, düdük ve el işaret sistemleri",
+  "Kask, iş elbisesi, emniyet ayakkabısı, eldiven, gözlük",
+  "Emniyet kemeri/yüksekte çalışma ekipmanı",
+  "Gres pompası ve yağlama malzemeleri",
+  "Bakım el aletleri",
+  "Yangın söndürme ve ilk yardım malzemeleri"
+ ],
+ "benzer_meslekler": [
+  "Gemi Vinç Operatörü",
+  "Liman Vinç Operatörü (RTG ve SSG)",
+  "Mobil Vinç Operatörü (MHC, Sahil ve Gemi Vinci)",
+  "Gantry Crane Vinç Operatörü",
+  "Liman RTG Operatörü",
+  "Liman SSG Operatörü",
+  "Yüzer Vinç Operatörü",
+  "Vinç Operatörü"
+ ],
+ "calisma_alanlari": "Rıhtım vinç operatörleri; kamu ve özel sektöre ait limanlarda, rıhtımlarda, liman işletmelerinde, gemi tersanelerinde ve yük taşımacılığı/lojistik firmalarında çalışabilirler. Ülkemizde deniz ticareti ve liman kapasitelerindeki artışa bağlı olarak nitelikli vinç operatörlerine ihtiyaç duyulmaktadır. Deneyim kazandıkça farklı tip ve büyüklükte liman vinçlerinde (RTG, SSG, mobil liman vinci vb.) çalışma olanağı artabilir.",
+ "calisma_ortami": "Rıhtım vinç operatörü işini, limanlarda rıhtım üzerinde sabit veya ray üzerinde hareketli vinçlerin kumanda kabininde, genellikle yüksekte ve açık havada yürütür. Çalışma ortamı yağmurlu, rüzgârlı, soğuk veya sıcak olabilir; gürültü ve sarsıntı söz konusudur. Liman faaliyetlerinin sürekliliği nedeniyle vardiyalı ve bazen gece çalışması gerekebilir. Dikkatsizlik hâlinde yük düşmesi, çarpma gibi kazalara yol açabileceğinden iş güvenliği kurallarına titizlikle uyulması gerekir.\n\nOperatör, çalışması sırasında serdümen, liman işçileri, gemi personeli ve vardiya sorumluları ile telsiz ve işaretleşme yoluyla sürekli iletişim ve koordinasyon içindedir.",
+ "egitim": {
+  "verildigi_yerler": "Rıhtım vinç operatörlüğü için ayrı ve örgün bir mesleki eğitim programı bulunmamaktadır. Meslek genellikle liman işletmelerinde işbaşında usta yanında yetişme yoluyla, işletmelerin düzenlediği iç eğitimlerle veya Halk Eğitim Merkezleri ile İŞKUR'un açtığı mesleki eğitim kurslarıyla kazanılmaktadır. Mesleki ve teknik eğitim veren lojistik/denizcilik ağırlıklı programlarda konuya ilişkin dersler yer alabilir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "18 yaşını doldurmuş olmak",
+   "Vinç operatörlüğünü engelleyecek işitme, görme, denge vb. sağlık sorunu olmamak",
+   "Yükseklikte ve dar/kapalı kabinde çalışmaya uygun olmak"
+  ],
+  "sure_ve_icerik": "Eğitimin süresi ve içeriği, eğitimi veren kuruma ve işletmeye göre değişmektedir. Genel olarak vinç ve kumanda sistemlerinin tanınması, yük elleçleme ve bağlama teknikleri, serdümen ile koordineli çalışma ve işaretleşme yöntemleri, iş sağlığı ve güvenliği kuralları ile temel bakım konuları işlenir.",
+  "belge": "Eğitim/kurs sonunda katılım veya kurs bitirme belgesi verilebilir; işletmeler kendi iç yetkilendirme belgelerini de düzenleyebilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "ek_bilgiler": "Liman ortamında çalışma, vardiyalı ve bazen gece çalışmasını gerektirebilir. Meslek, yüksekte ve ağır yük elleçleme içerdiğinden iş sağlığı ve güvenliği açısından riskli işler kapsamında değerlendirilebilir; bu nedenle işe alımlarda ayrıntılı sağlık kontrolü uygulanabilir.",
+ "genel_ozellikler": [
+  "El ve gözlerini eşgüdümle kullanabilen,",
+  "Çevredeki çeşitli uyarıları (sesli işaret, telsiz, görsel sinyal) aynı anda algılayabilen,",
+  "Dikkatli, tedbirli ve sorumluluk sahibi,",
+  "Yükseklikte çalışmaktan korkmayan,",
+  "Takım çalışmasına ve serdümenle koordineli çalışmaya uyumlu,",
+  "Mekaniğe ve tekniğe ilgi duyan,",
+  "Fiziksel ve psikolojik yönden sağlıklı,",
+  "Soğukkanlı ve hızlı karar verebilen"
+ ],
+ "gorevler": [
+  "İşe başlamadan vincin bağlantı ve güvenlik önlemlerinin genel kontrolünü yapar.",
+  "Elleçleme yapılacak yükün ağırlık merkezi ve ambalajı hakkında bilgi edinir.",
+  "Ray üzerinde hareket eden vinci yükleme ya da boşaltma yapılacak yere göre ileri geri hareket ettirerek konumunu ayarlar.",
+  "Vinç kulesini yükleme ya da boşaltma yapılacak malzeme üzerine getirir ve halatları indirir.",
+  "Yükleme-boşaltma yapılacak malzeme ile halat bağlantılarının yapılmasını bekler.",
+  "Malzemeyi mayna-vira (aşağı-yukarı) ve ayranta (sağa-sola dönüş) yaparak kaldırır, taşır ve istenilen yere yerleştirir.",
+  "Malzeme bağlantılarının çözülmesini bekler.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Rıhtım vinç operatörlüğü için ayrı bir kademeli örgün eğitim sistemi bulunmamaktadır. Deneyim kazandıkça operatör, ek eğitimlerle daha büyük kapasiteli veya farklı tip liman vinçlerini (örneğin RTG, SSG, mobil liman vinci) kullanmak üzere yetkinlik kazanabilir.",
+  "is_hayatinda": "Deneyimli operatörler usta operatör, ekip/vardiya sorumlusu veya vinç bakım-kontrol sorumlusu gibi görevlere yükselebilir. Yeterli deneyim ve sermayeye sahip olanların bağımsız çalışma olanağı sınırlıdır; meslekte üst düzey yönetim kademelerine geçiş genellikle ek eğitim ve kıdem gerektirir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Kurs/eğitim süresince genellikle ayrıca bir kazanç elde edilmez; işbaşında usta yanında yetişme döneminde çırak/stajyer ücreti ödenebilir.",
+  "egitim_sonrasi": [
+   "Kamu kurum ve kuruluşlarında çalışanlar, memur statüsünde 657 sayılı Kanun'a, işçi statüsünde ise ilgili toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar; işyerinin büyüklüğü, kişinin deneyimi ve bilgisi ile sektördeki ücret düzeyine göre kazanç artabilir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T18:55:45",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5467
+  }
+ }
+}

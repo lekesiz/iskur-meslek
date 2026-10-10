@@ -1,0 +1,87 @@
+{
+ "gorevler": [
+  "Biriminin vazife cetveline kaydı yapılan cenazeleri sırayla gasilhaneye alır.",
+  "Beklemesi gereken mevtaların morga alınmasını sağlar.",
+  "Cenaze yıkama işlemleri için gerekli hazırlıkları tamamlar.",
+  "Tekerlekli cenaze taşıma sehpasını yıkama mahalline (teneşir) yanaştırır.",
+  "Görevliler veya mevta yakınlarıyla birlikte mevtayı teneşir üzerine alır.",
+  "Mevtanın cinsiyetine göre avret yeri bezlerini avret yerlerine koyar.",
+  "Belirli usul ve esaslar dahilinde mevtaya gusül abdesti aldırır.",
+  "Mevtanın tüm vücudunu yıkar ve bol su ile durular.",
+  "Cenaze yakınlarının talebi üzerine mevta üzerine su dökmelerini sağlar.",
+  "Kurulama havlusu ile mevtayı kurular.",
+  "Mevtanın vücudunda akıntı bölgelerini tampon ve pamukla kapatır.",
+  "Önceden hazırlanan hasse beziyle mevta kefenleme işlemini gerçekleştirir.",
+  "Kefen bezleri arasına sünnet olan otlardan atar ve gül suyu serper.",
+  "Kefen uçlarını büzerek çözülebilecek şekilde bağlar.",
+  "Boş tabut içine mevtayı usulüne uygun olarak yerleştirir.",
+  "Tabutun kapağını kapatarak kapak klipslerini tutturur.",
+  "Yıkama ve kefenleme işlemi tamamlanan tabutu bekleme alanına alır.",
+  "Gömüye hazır haldeki cenazeyi cenaze yakınlarına teslim eder.",
+  "Cenazenin gasilhane bölümünden (vazife cetvelinden) resmi çıkışını yapar.",
+  "Gasilhanenin dezenfeksiyonunu yapar ve sonraki kullanıma hazır hale getirir.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "arac_gerec": [
+  "Teneşir (cenaze yıkama sehpası/masası)",
+  "Tekerlekli cenaze taşıma sehpası",
+  "Kefen bezi (hasse bezi)",
+  "Pamuk ve tampon malzemeleri",
+  "Gusül suyu için ibrik, kova ve hortum",
+  "Sabun ve temizlik malzemeleri",
+  "Eldiven, önlük, maske gibi kişisel koruyucu donanım",
+  "Gül suyu",
+  "Sünnet otu (sedef/sedir otu benzeri hoş kokulu bitkiler)",
+  "Kurulama havlusu",
+  "Tabut",
+  "Dezenfektan ve temizlik ekipmanları",
+  "Cenaze kayıt defteri/vazife cetveli"
+ ],
+ "genel_ozellikler": [
+  "Dini kural ve geleneklere saygılı,",
+  "Dikkatli ve titiz,",
+  "Sabırlı ve metanetli,",
+  "Fiziksel olarak dayanıklı,",
+  "Hijyen kurallarına duyarlı,",
+  "İnsan ilişkilerinde nazik ve ölçülü,",
+  "Gizliliğe ve mahremiyete önem veren,",
+  "Duygusal olarak dengeli ve strese dayanıklı,"
+ ],
+ "calisma_ortami": "Gassallar, belediyelere bağlı mezarlık ve gasilhanelerde, hastane morglarına bağlı birimlerde ya da Diyanet İşleri Başkanlığı'na bağlı cami ve cenaze hizmetleri mekânlarında, kapalı mekânlarda çalışır. Çalışma ortamı soğuk olabilir, dezenfektan kokusu hâkimdir; hijyen ve enfeksiyondan korunma kurallarına uyulması, kişisel koruyucu donanım kullanılması gerekir. Görev, bedensel çaba ve duygusal olgunluk gerektirir.\n\nÇalışma saatleri cenazelerin geliş sıklığına bağlı olarak değişkendir; vardiyalı ya da çağrı üzerine, gece ve hafta sonları da dâhil olmak üzere düzensiz saatlerde çalışılabilir. Gassal, görevi sırasında cenaze yakınları, din görevlileri (imam), belediye ve mezarlık görevlileri ile diğer gassallarla iletişim halindedir; mesleğin icrasında sükûnet, nezaket ve ciddiyet büyük önem taşır.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin standart bir örgün okul eğitimi bulunmamaktadır. Bilgi ve beceriler, belediyelerin cenaze hizmetleri birimlerinde, Diyanet İşleri Başkanlığı'na bağlı kurumlarda ya da özel cenaze hizmetleri işletmelerinde usta-çırak ilişkisi içinde işbaşında öğrenilir. Zaman zaman Halk Eğitim Merkezleri ya da ilgili kurumlarca cenaze hizmetleri ve hijyen konulu kısa süreli bilgilendirme kursları da düzenlenebilmektedir.",
+  "giris_kosullari": [
+   "Okuryazar olmak",
+   "İşe alım yapan kurumun (belediye, Diyanet İşleri Başkanlığı vb.) belirlediği yaş ve sağlık şartlarını taşımak",
+   "Görevin niteliği gereği genellikle aynı cinsiyetten görevli istihdamı esas alınır (kadın cenazeleri için kadın, erkek cenazeleri için erkek gassal görevlendirilir)"
+  ],
+  "sure_ve_icerik": "Mesleğe özgü standart süreli ve içerikli bir eğitim programı bulunmamaktadır. Bilgi ve beceriler genellikle deneyimli bir gassalın yanında uygulamalı olarak; gusül, kefenleme ve defin işlemlerine ilişkin dini usul ve esaslar ile temel hijyen, enfeksiyon kontrolü ve kişisel koruyucu donanım kullanımı konularında aktarılarak kazandırılır.",
+  "belge": "Örgün bir diploma veya sertifika zorunluluğu bulunmamaktadır. Görev, çalışılan kurumun (belediye, Diyanet İşleri Başkanlığı vb.) belirlediği şartları taşıyan kişilere işbaşında eğitim ve deneyime dayalı olarak verilir. Katılım sağlanan kurslardan katılım belgesi alınabilir."
+ },
+ "calisma_alanlari": "Gassallar; belediyelere bağlı mezarlık ve gasilhanelerde, hastane morglarına bağlı birimlerde, Diyanet İşleri Başkanlığı'na bağlı cami ve cenaze hizmetleri birimlerinde ve özel cenaze hizmetleri işletmelerinde görev alabilir. Kamu kurumlarında işçi statüsünde ya da sözleşmeli olarak istihdam edilebildikleri gibi, özel sektörde faaliyet gösteren cenaze hizmetleri firmalarında da çalışabilirler.\n\nİş bulma olanakları, yerleşim yerinin nüfusuna, kurumların kadro ve ihtiyaç durumuna bağlı olarak değişmektedir. Mesleğin dini hassasiyet gerektirmesi nedeniyle genellikle görev dağılımı cinsiyete göre yapılmaktadır.",
+ "kazanc": {
+  "egitim_suresince": "Eğitim, çalışılan kurumda işbaşında usta yanında yürütüldüğünden bu süreçte elde edilen kazanç, kuruma ve istihdam şekline göre değişmekle birlikte genellikle asgari ücret düzeyinde olabilmektedir.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında (belediye, Diyanet İşleri Başkanlığı vb.) işçi statüsünde istihdam edilenlerin ücreti, ilgili toplu iş sözleşmesi hükümlerine göre belirlenir",
+   "Özel sektörde çalışanların kazancı, işletmeyle yapılan anlaşmaya, deneyime ve çalışılan bölgeye göre değişiklik gösterir",
+   "Mesleğe yeni başlayanlar için kazanç genellikle asgari ücret düzeyindedir"
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğe özgü kademeli ve resmî bir ilerleme sistemi bulunmamaktadır. Deneyim arttıkça gassal, özel sağlık koşulları taşıyan veya adli vaka niteliğindeki cenazelerin yıkanması gibi daha hassas görevlerde yer alabilir; hijyen, enfeksiyon kontrolü ve ilk yardım konularında düzenlenen kısa süreli kurslara katılarak bilgi ve becerisini geliştirebilir.",
+  "is_hayatinda": "Deneyim kazandıkça gasilhane sorumluluğu veya cenaze hizmetleri biriminde ekip sorumluluğu gibi görevlere yükselebilir. Kamu kurumlarında çalışanlar için kıdeme bağlı olarak unvan ve ücrette iyileşme söz konusu olabilir."
+ },
+ "benzer_meslekler": [
+  "Cenaze Levazımatcısı",
+  "Mezarlık Görevlisi"
+ ],
+ "ek_bilgiler": "Gassallık, dini usul ve esaslara dayalı, manevi açıdan hassasiyet ve ciddiyet gerektiren bir hizmet alanıdır. Görevin icrasında gizlilik, saygı ve nezaket büyük önem taşır. Genellikle kadın cenazeleri kadın gassallar, erkek cenazeleri erkek gassallar tarafından yıkanır. Çalışma sırasında enfeksiyon riskine karşı kişisel koruyucu donanım kullanımı ve hijyen kurallarına uyulması önemlidir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T18:04:57",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6937
+  }
+ }
+}

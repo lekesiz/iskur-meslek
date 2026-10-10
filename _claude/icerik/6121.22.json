@@ -1,0 +1,76 @@
+{
+ "arac_gerec": [
+  "Hayvan sevk ve yönlendirme değneği/baston",
+  "İp, kement ve halat",
+  "Zincir ve tasma",
+  "Dağlama demiri veya diğer tanıtma/damgalama araçları",
+  "Kantar/tartı aleti",
+  "Hayvan nakil aracı (kamyon, kamyonet, römork)",
+  "Yem ve su kapları",
+  "Basit ilk yardım ve tedavi malzemeleri (ilaç, pansuman malzemesi)",
+  "Koruyucu giysi, çizme ve eldiven",
+  "Hesap defteri veya not defteri",
+  "Cep telefonu",
+  "Nakit para ve ödeme belgeleri"
+ ],
+ "benzer_meslekler": [
+  "Çiftçi (Hayvancılık)",
+  "Sığır Yetiştiricisi",
+  "Koyun Yetiştiricisi",
+  "Keçi Yetiştiricisi",
+  "Çoban/Sürü Yönetim Elemanı (Büyükbaş Hayvan)",
+  "Çoban/Sürü Yönetim Elemanı (Küçükbaş Hayvan)"
+ ],
+ "calisma_alanlari": "Celepler çoğunlukla bağımsız olarak kendi hesabına çalışan, serbest meslek sahibi kişilerdir. Köylerden, çiftliklerden ve özellikle hayvan pazarlarından koyun, keçi, sığır gibi hayvanları toplayarak bunları besi çiftliklerine, süt üreticilerine, kasaplara, kurban satış noktalarına veya diğer yetiştiricilere satarlar.\\n\\nİş bulma, örgün bir işe alım sürecinden ziyade kişinin kendi sermayesine, ticari ilişkilerine ve hayvan pazarındaki tanınırlığına bağlıdır. Sektör, kırsal nüfusun ve hayvancılık faaliyetlerinin yoğun olduğu bölgelerde daha canlıdır; mevsimsel olarak özellikle kurban bayramı öncesi talep artabilir.",
+ "calisma_ortami": "Celepler büyük ölçüde açık havada çalışır; köyler, mera ve otlaklar, çiftlikler ve hayvan pazarları başlıca çalışma mekânlarıdır. İş, sürekli seyahat gerektirir; hayvan alacağı veya satacağı yerlere gitmek için uzun mesafeler kat edilebilir. Hava koşullarına (sıcak, soğuk, yağmur) açık ortamlarda çalışılır, gübre ve hayvan kokusu yoğun olabilir. Fiziksel güç ve dayanıklılık gerektiren bir meslektir; hayvanlardan kaynaklanan tekme, çiftleşme/boynuz yaralanması gibi riskler ile zaman zaman hayvanlardan insana geçebilen hastalıklara (zoonoz) karşı dikkatli olunması gerekir.\n\nÇalışma saatleri düzensizdir; hayvan pazarı günlerine, hasat ve kurban dönemlerine göre değişir, sabahın erken saatlerinde veya gece yarısı dahi çalışma söz konusu olabilir. Celepler; hayvan yetiştiricileri, çiftçiler, kasaplar, hayvan pazarı esnafı, nakliyeciler ve zaman zaman veteriner hekimlerle sürekli iletişim halinde çalışır.",
+ "egitim": {
+  "verildigi_yerler": "Celeplik mesleğine yönelik örgün bir okul veya üniversite eğitim programı bulunmamaktadır. Meslek, geleneksel olarak ailede veya bir celebin yanında çalışarak, usta-çırak ilişkisi içinde işbaşında öğrenilir. Hayvan sağlığı, besi, bakım ve pazarlama konularında Halk Eğitim Merkezleri ile İŞKUR'un açtığı mesleki eğitim kursları ve ilgili tarım/hayvancılık kursları temel bilgi ve beceri kazandırabilir.",
+  "giris_kosullari": [
+   "En az ilkokul/ilköğretim mezunu olmak genellikle yeterlidir",
+   "Belirli bir okul diploması veya sınav şartı aranmamaktadır",
+   "Hayvanlarla fiziksel olarak çalışmaya uygun sağlık durumuna sahip olmak",
+   "Açık havada, seyahat gerektiren koşullarda çalışmaya istekli olmak"
+  ],
+  "sure_ve_icerik": "Mesleğin resmî olarak belirlenmiş bir eğitim süresi veya müfredatı yoktur. Hayvan seçme, değerlendirme, bakım, sağlık kontrolü ve alım-satım pazarlığı gibi bilgi ve beceriler, uzun süreli deneyim, gözlem ve bir celebin yanında çalışma yoluyla kazanılır. Katılınabilecek kısa süreli kurslarda genel olarak hayvan besiciliği, hayvan sağlığı ve pazarlama konuları işlenir.",
+  "belge": "Mesleğe özgü resmî bir diploma veya sertifika verilmemektedir. Katılınan kurslardan katılım veya başarı belgesi alınabilir."
+ },
+ "ek_bilgiler": "Celeplik, resmî bir eğitim programıyla değil, geleneksel usta-çırak ilişkisi ve deneyimle öğrenilen bir hayvan ticareti mesleğidir. Hayvan nakli ve alım-satımı sırasında hayvan sağlığı mevzuatına (nakil belgeleri, karantina uygulamaları gibi) uyulması, hayvan hastalıklarının yayılmasını önlemek açısından önemlidir. Meslek büyük ölçüde sermaye birikimi ve ticari ilişkilere dayandığından, kazanç kişiden kişiye önemli ölçüde farklılık gösterebilir.",
+ "genel_ozellikler": [
+  "Hayvanlara ilgi duyan ve hayvanlarla çalışmaktan hoşlanan,",
+  "Fiziksel olarak güçlü ve dayanıklı,",
+  "Hayvan davranışlarını iyi gözlemleyebilen ve tanıyabilen,",
+  "Pazarlık yapabilen ve ikna gücüne sahip,",
+  "Dürüst ve güvenilir,",
+  "Risk alabilen, hesap yapabilen ve pratik zekaya sahip,",
+  "Seyahat etmeye ve değişken çalışma koşullarına uyum sağlamaya istekli,",
+  "Sabırlı ve dikkatli"
+ ],
+ "gorevler": [
+  "İnek, koyun, keçi vb. hayvanları seçer ve satın alır.",
+  "Hayvanların satışını gerçekleştirene kadar çayır ve otlaklardan faydalanmalarını sağlar, hayvanlara yem verir.",
+  "Hayvanların sağlığına dikkat eder, küçük hastalıklarda hayvanları tedavi eder.",
+  "Satılacak ve kesimi yapılacak hayvanları seçer.",
+  "Hayvanları dağlamak suretiyle veya diğer usullerle tanıtma işaretleri yapar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğe yönelik örgün bir eğitimde ilerleme basamağı bulunmamaktadır. Deneyim ve sermaye birikimi, kişinin daha geniş çaplı hayvan ticareti yapabilmesini sağlar; isteyenler hayvan besiciliği, damızlık yetiştiriciliği veya hayvan pazarı işletmeciliği gibi konularda kısa süreli kurslara katılarak bilgisini geliştirebilir.",
+  "is_hayatinda": "Deneyim ve sermaye arttıkça celepler daha büyük hacimli hayvan ticareti işlemlerine girişebilir, kendi besi çiftliğini veya canlı hayvan ticareti işletmesini kurabilir. Zamanla hayvan pazarında komisyonculuk, aracılık veya hayvan pazarı/borsası yönetimi gibi alanlara geçiş yapabilirler."
+ },
+ "kazanc": {
+  "egitim_suresince": "Celeplik mesleğine yönelik örgün bir eğitim programı bulunmadığından eğitim süresince düzenli bir kazançtan söz edilemez. Meslek genellikle bir celebin yanında yardımcı veya çırak olarak çalışılarak öğrenilir; bu dönemde kişiye günlük veya haftalık olarak değişken ücret ödenebilir.",
+  "egitim_sonrasi": [
+   "Celepler büyük ölçüde kendi hesabına çalıştığından sabit bir ücret yerine yaptıkları alım-satımdan elde ettikleri kâr üzerinden kazanç sağlar.",
+   "Kazanç; alım satımı yapılan hayvan sayısı, piyasa koşulları, sermaye büyüklüğü ve ticari tecrübeye göre önemli ölçüde değişmektedir.",
+   "Mesleğe yeni başlayanların ve düşük sermayeyle çalışanların kazancı genellikle sınırlıdır; tecrübe ve sermaye arttıkça kazanç yükselebilir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T21:42:27",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5917
+  }
+ }
+}

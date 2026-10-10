@@ -1,0 +1,76 @@
+{
+ "arac_gerec": [
+  "Kürek, bel, çapa gibi basit toprak işleme aletleri",
+  "Tırmık",
+  "Sulama hortumu ve basit sulama ekipmanları",
+  "El arabası",
+  "Kova, sepet, çuval",
+  "Gübre ve gübreleme ekipmanları (suni ve hayvansal gübre)",
+  "Saman çatalı",
+  "Hayvan yemliği ve suluğu",
+  "Hasat için elle toplama kapları/sepetleri",
+  "Koruyucu eldiven, çizme ve iş elbisesi",
+  "Basit temizlik ekipmanları (ahır/kümes temizliği için faraş, süpürge)"
+ ],
+ "benzer_meslekler": [
+  "Amele-Karma Çiftlik (Bitkisel Üretim ve Hayvan Yetiştiriciliği)",
+  "Çiftlik İşçisi (Karma Bitki ve Çiftlik Hayvanı)",
+  "Tarım İşçisi-Karma Çiftlik (Bitkisel Üretim ve Hayvan Yetiştiriciliği)",
+  "Ahırcı (Hayvan Bakan ve Ahırları Temizleyen)",
+  "Tarla Ürünü Çiftlik İşçisi",
+  "Tarım İşçisi (Tarla Ürünleri)"
+ ],
+ "calisma_alanlari": "Yardımcı çiftlik işçileri; özel çiftlikler, aile işletmeleri, bitkisel üretim yapan tarım işletmeleri, bahçecilik işletmeleri ve hayvancılık yapılan tesislerde çalışabilmektedirler. İş bulma olanakları bölgeye, mevsime ve tarımsal üretimin yoğunluğuna göre değişmektedir; özellikle ekim, dikim, çapa ve hasat dönemlerinde işgücü talebi artmakta, kış aylarında ve tarım dışı dönemlerde çalışma olanakları azalabilmektedir. Bu meslekte çalışma genellikle geçici ve mevsimlik niteliktedir; sürekli/daimi istihdam oranı sınırlıdır.",
+ "calisma_ortami": "Yardımcı çiftlik işçisi açık havada tarla, bahçe ve bostan gibi alanlarda; ayrıca ahır, kümes gibi kapalı hayvan barınaklarında çalışır. Çalışma koşulları mevsim ve hava şartlarına bağlı olarak değişir; sıcak, soğuk, yağmur, toz, nem ve hayvan kokusu gibi etkenlere açıktır. İş, eğilme, kaldırma, yük taşıma gibi bedensel güç gerektiren hareketleri içerir ve genellikle ayakta ya da hareketli pozisyonda geçer.\n\nÇalışma saatleri tarımsal faaliyetin niteliğine ve mevsimine göre değişkenlik gösterir; ekim, dikim ve özellikle hasat dönemlerinde uzun ve yoğun çalışma söz konusu olabilir. Yardımcı çiftlik işçisi işini genellikle çiftlik sahibi veya sorumlu kişinin denetimi altında, diğer çiftlik işçileriyle birlikte yürütür; iş çoğunlukla ekip halinde yapılır.",
+ "egitim": {
+  "verildigi_yerler": "Yardımcı çiftlik işçiliği için belirli bir örgün mesleki eğitim programı bulunmamaktadır. Meslek genellikle işbaşında, deneyimli çiftlik işçileri veya işveren gözetiminde çalışılarak öğrenilmektedir. Bunun yanında Halk Eğitim Merkezleri ile İŞKUR tarafından açılan tarım ve hayvancılık konulu kısa süreli mesleki eğitim kursları da bilgi ve beceri kazandırmaktadır.",
+  "giris_kosullari": [
+   "Okuryazar olmak",
+   "Fiziksel olarak açık hava koşullarında ve bedensel güç gerektiren işlerde çalışmaya uygun ve sağlıklı olmak",
+   "Değişken hava koşullarında ve mevsimlik çalışma düzenine uyum sağlayabilecek durumda olmak"
+  ],
+  "sure_ve_icerik": "Mesleğin belirli bir eğitim süresi ve standart bir müfredatı yoktur. Bilgi ve beceriler genellikle işyerinde çalışarak, deneyimli işçileri gözlemleyerek kazanılır. Katılınan kurslar varsa bunlar genellikle kısa süreli (günlük veya haftalık) olup toprak işleme, basit sulama, gübreleme ve hayvan bakımı gibi temel konuları kapsar.",
+  "belge": "Mesleğe giriş için zorunlu bir diploma, sertifika veya belge bulunmamaktadır. Katılınan kurslar sonunda katılım belgesi verilebilir."
+ },
+ "ek_bilgiler": "Bu meslekte çalışma büyük ölçüde mevsimlik ve geçici niteliktedir; bazı bölgelerde mevsimlik tarım işçileri, iş bulmak amacıyla ailece farklı bölgelere geçici olarak göç edebilmektedir. İşe alımda ve çalışma koşullarında genellikle resmî bir eğitim veya belge şartı aranmaz; fiziksel uygunluk ve çalışma isteği ön plandadır.",
+ "genel_ozellikler": [
+  "Fiziksel olarak güçlü ve dayanıklı,",
+  "Açık havada ve değişken hava koşullarında çalışmaya istekli,",
+  "El ve beden becerisine sahip,",
+  "Dikkatli ve sorumluluk sahibi,",
+  "Emir ve talimatlara uyabilen,",
+  "Sabırlı ve düzenli çalışabilen,",
+  "Hayvan ve bitkilerle ilgilenmekten hoşlanan,",
+  "Ekip halinde çalışabilen"
+ ],
+ "gorevler": [
+  "Çiftlik hayvanlarını besler ve su verir, hayvanların kaldığı bölümleri temizler,",
+  "Meyve ağaçlarını, fidanlıkları, tarlaları ve çiçekleri sular, yabani otları temizler,",
+  "Toprağı kürekle atar, arkları ve diğer gerekli yerleri temizler, suni ve hayvansal gübreleme yapar,",
+  "Samanı tırmık ve kürekle yığar,",
+  "Elle meyve ve sebze toplar, diğer basit harmanlama işlerine katılır,",
+  "Çiftliğin genel işlerine denetim altında yardımcı olur,",
+  "İstihdam edildiği işe veya yapılması gereken işe görevlendirilebilir,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğin örgün bir eğitim basamağı bulunmadığından, mesleki eğitimde ilerleme imkânı sınırlıdır. Kişi isterse tarım, bahçıvanlık, sulama veya hayvan yetiştiriciliği konularında açılan kısa süreli kurslara katılarak bilgi ve becerisini artırabilir.",
+  "is_hayatinda": "İş hayatında ilerleme kişinin deneyimi, bilgisi ve çalışma performansına bağlıdır. Deneyim kazanan işçiler zamanla daha nitelikli ve uzmanlık gerektiren tarım işlerine (örneğin belirli ürünlerde uzmanlaşmış işçilik, ekip sorumluluğu) yönelebilir; küçük ölçekli işletmelerde zamanla daha fazla sorumluluk üstlenebilirler."
+ },
+ "kazanc": {
+  "egitim_suresince": "Mesleğe yönelik örgün ve ücretli bir eğitim süreci bulunmadığından, eğitim süresince ayrıca bir ücret veya burs söz konusu değildir. Kişi genellikle çalışarak öğrenir ve bu süre içinde de işveren tarafından ücretlendirilir.",
+  "egitim_sonrasi": [
+   "Yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Mevsimlik ve geçici işlerde çoğunlukla yevmiye (günlük ücret) usulü çalışılır; kazanç çalışılan gün sayısına göre değişir.",
+   "Deneyim, işin yoğunluğu, çalışılan işletmenin büyüklüğü ve bölgedeki tarımsal üretim düzeyine göre kazanç farklılık gösterebilir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T19:29:25",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5710
+  }
+ }
+}

@@ -1,0 +1,76 @@
+{
+ "arac_gerec": [
+  "Strofor kesme ve şekillendirme makinesi",
+  "Bantlama makinesi ve bant",
+  "Rafya ipi ve bağlama aparatı",
+  "Silikon tabancası ve silikon",
+  "Taşıma paleti",
+  "Palet taşıma arabası (transpalet)",
+  "Etiketleme malzemeleri (etiket, kalem)",
+  "Üretim takip/rapor formları",
+  "Koruyucu eldiven",
+  "Toz maskesi",
+  "İş elbisesi ve güvenlik ayakkabısı",
+  "Kutu bağlama/paketleme malzemeleri"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve tedbirli,",
+  "Fiziksel olarak dayanıklı,",
+  "El ve göz koordinasyonu iyi,",
+  "Düzenli, titiz ve sorumluluk sahibi,",
+  "Tekrarlayan işlerde dikkatini sürdürebilen,",
+  "Ekip halinde çalışmaya uyumlu,",
+  "Talimat ve kurallara uyan,",
+  "Ayakta uzun süre çalışabilen"
+ ],
+ "gorevler": [
+  "İş plan ve organizasyonunu yapar.",
+  "Strofor makinesinden çıkan malzemeleri özelliklerine göre rafya ile bağlar veya bantlama işlemi uygular.",
+  "Bazı malzemelerde silikon ile montaj işlemi yapar.",
+  "Malzemeleri paketleyip palete koyar.",
+  "Çıkan ürünlerin sayısını raporlar.",
+  "Çıkan malzeme paleti dolduğunda tarih, vardiya, adet ve isim bilgilerini yazarak paleti etiketler.",
+  "Gün sonunda toplam üretilen ürün sayısını raporlar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "calisma_ortami": "\"Panel strofor işçisi, strofor (genişletilmiş polistiren-EPS) üretimi yapılan fabrika ve atölyelerde, kapalı mekânlarda görev yapar. Çalışma ortamında strofor tozu, hafif kimyasal koku ve makine gürültüsü bulunabilir; bu nedenle koruyucu eldiven ve maske gibi kişisel koruyucu donanım kullanılması gerekir. Çalışma genellikle ayakta, hareketli ve tekrarlayan hareketlerle yapılan bir iştir; vardiyalı çalışma düzeni yaygındır.\\n\\nMeslek elemanı görevini genellikle ekip halinde, üretim bandı düzeninde yürütür. Çalışma sırasında aynı bölümdeki diğer işçilerle, postabaşı veya üretim sorumlusu ile sürekli iletişim halindedir. İşin niteliği nedeniyle dikkatin sürekli yüksek tutulması ve iş güvenliği kurallarına titizlikle uyulması önemlidir.\"",
+ "calisma_alanlari": "\"Panel strofor işçileri; strofor (EPS) levha, panel ve ambalaj malzemesi üreten fabrikalarda, yalıtım malzemesi üreten işletmelerde, inşaat malzemesi üretim tesislerinde ve ambalaj sanayinde istihdam edilmektedir. İş bulma olanakları, inşaat ve ambalaj sektörlerindeki üretim hacmine ve bölgesel sanayi yoğunluğuna göre değişmektedir. Sanayi bölgelerinde ve organize sanayi sitelerinin bulunduğu illerde bu meslekte çalışma olanakları daha fazladır.\"",
+ "kazanc": {
+  "egitim_suresince": "Mesleğe yönelik örgün bir çıraklık/eğitim programı bulunmadığından, işe yeni başlayanlar genellikle işbaşında usta yanında veya kısa süreli uyum eğitimiyle çalışmaya başlar. İşbaşı eğitim veya staj dönemlerinde ücret, işyerinin uygulamasına ve ilgili mevzuata göre değişebilir; Halk Eğitim Merkezleri veya İŞKUR kursu kapsamında eğitim alanlar ise kursiyer harçlığından yararlanabilir.",
+  "egitim_sonrasi": [
+   "Özel sektörde çalışanların kazancı, genellikle asgari ücret düzeyinde başlar; işyerinin büyüklüğü, kişinin tecrübesi ve çalışma kapasitesine göre artabilir.",
+   "Kamu kurumlarında bu meslekte istihdam yaygın değildir; istihdam edilmesi durumunda ilgili mevzuata (işçi statüsünde ise toplu iş sözleşmesine) göre ücret alınır."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğe yönelik resmî, kademeli bir örgün eğitim programı bulunmamaktadır. Meslek elemanları, Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kurslarına katılarak bilgi ve becerilerini geliştirebilir; isteyenler, ilgili mesleki ve teknik eğitim programlarına veya yükseköğretime yönelerek farklı alanlarda ilerleme sağlayabilir.",
+  "is_hayatinda": "Meslekte ilerleme, kişinin deneyimi, performansı ve işletmenin olanaklarına bağlıdır. Deneyim kazanan işçiler ekip sorumlusu, postabaşı veya vardiya amiri gibi görevlere yükselebilir."
+ },
+ "benzer_meslekler": [
+  "Malzeme Taşıyıcısı",
+  "Meydancı - İmalat",
+  "Şişe Tasnifçisi",
+  "Battaniye/Nevresim Katlama İşçisi",
+  "Karton ve Mukavva Kutu İmal İşçisi (Elle)",
+  "Desen Yapıştırma İşçisi"
+ ],
+ "ek_bilgiler": "\"Strofor (EPS) üretiminde ortaya çıkan toz ve hafif kimyasal kokulara karşı kişisel koruyucu donanım (maske, eldiven) kullanımı önemlidir. Bazı işletmelerde bu işler tehlikeli işler kapsamında değerlendirilebileceğinden, Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir.\"",
+ "egitim": {
+  "verildigi_yerler": "Panel strofor işçiliği için örgün bir mesleki eğitim programı bulunmamaktadır. Meslek, genellikle işbaşında usta yanında uygulamalı olarak veya Halk Eğitim Merkezleri ile İŞKUR'un açtığı mesleki eğitim kurslarında kazanılmaktadır.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "18 yaşını doldurmuş olmak (ağır ve tehlikeli iş niteliği taşıyabileceğinden)",
+   "Sağlık durumunun fiziksel güç gerektiren işlere uygun olması"
+  ],
+  "sure_ve_icerik": "Belirli bir eğitim süresi ve müfredatı bulunmamaktadır. İşe alınan kişi, işyerinde deneyimli bir usta veya ekip sorumlusu gözetiminde strofor makinesinin çalışma düzenini, bağlama/bantlama ve paketleme tekniklerini kısa sürede uygulamalı olarak öğrenir. İş sağlığı ve güvenliği konularında da işyeri tarafından temel eğitim verilir.",
+  "belge": "Örgün bir diploma veya sertifika programı bulunmamaktadır. Katılınan kurslar sonunda kurs bitirme belgesi, iş güvenliği eğitimleri sonunda ise katılım belgesi verilebilir."
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T20:04:56",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 4176
+  }
+ }
+}

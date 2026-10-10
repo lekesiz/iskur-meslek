@@ -1,0 +1,78 @@
+{
+ "arac_gerec": [
+  "Kumanda panoları ve kontrol masaları",
+  "Merkezi skola/uzaktan kumanda sistemleri ve bilgisayar donanımları",
+  "Sesli ve ışıklı arıza uyarı/alarm panoları",
+  "Ampermetre, voltmetre, ohmmetre, multimetre gibi elektriksel ölçü aletleri",
+  "Telsiz, telefon gibi haberleşme cihazları",
+  "İzolasyonlu el aletleri (pense, tornavida, kontrol kalemi)",
+  "Kişisel koruyucu donanım (izolasyonlu eldiven, baret, iş elbisesi)",
+  "Röle, kesici ve ayırıcı gibi şalt malzemeleri",
+  "Trafo ve yüksek gerilim teçhizatına yönelik test ve ölçüm cihazları",
+  "Arıza kayıt ve raporlama için bilgisayar ve ilgili yazılımlar"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli, tedbirli ve sorumluluk duygusu gelişmiş,",
+  "Hızlı ve doğru karar verebilen,",
+  "Stres altında sakin kalabilen,",
+  "Elektrik ve elektronik konularına ilgili ve yetenekli,",
+  "İşitsel ve görsel uyarıları hızla algılayıp yorumlayabilen,",
+  "Takım çalışmasına uyumlu,",
+  "Vardiyalı ve düzenli çalışmaya uygun fiziksel ve psikolojik yapıya sahip"
+ ],
+ "calisma_ortami": "\"Elektrik Sinyal ve Uzaktan Kumanda Teknisyenleri genellikle demiryolu işletmelerine ait kumanda merkezlerinde, kapalı ortamlarda görev yaparlar; bu merkezlerde pano, ekran ve kontrol masaları başında sesli ve ışıklı uyarı sistemlerini sürekli izleyerek enerji akışını takip ve kontrol ederler. Arıza tespiti, bakım-onarım ile montaj-demontaj çalışmaları gerektiğinde trafo merkezleri, cer postaları ve demiryolu hattı boyunca açık alanda, yüksek gerilim riski taşıyan ortamlarda da çalışmak zorunda kalabilirler.\\n\\nDemiryolu taşımacılığının kesintisiz sürdürülmesi gerekliliği nedeniyle çalışma genellikle vardiyalı ve 7/24 esasına göre yürütülür; gece, hafta sonu ve resmî tatil çalışması olağandır. Görev yüksek gerilimli sistemlerle doğrudan veya dolaylı ilişki içinde yürütüldüğünden, dikkatsizlik ciddi iş kazalarına yol açabilir; bu nedenle iş sağlığı ve güvenliği kurallarına titizlikle uyulması gerekir. Meslek elemanı, çalıştığı birimdeki diğer teknisyenler, saha/trafo ekipleri, sinyalizasyon ve işletme personeli ile amirleriyle sürekli iletişim ve koordinasyon içinde çalışır.\"",
+ "calisma_alanlari": "\"Elektrik Sinyal ve Uzaktan Kumanda Teknisyenleri başta demiryolu işletmeciliği yapan kamu kuruluşları olmak üzere, şehir içi raylı sistem (metro, tramvay, hafif raylı sistem) işletmecisi belediye şirketlerinde ve elektrikli demiryolu hatlarının enerji besleme ile sinyalizasyon sistemlerinin işletildiği özel kuruluşlarda istihdam edilmektedir. İş bulma olanağı, demiryolu ve raylı sistem yatırımlarının yaygınlığına, işletmelerin açtığı kadro sayısına ve meslek elemanının elektrik-elektronik alanındaki eğitim ve deneyimine bağlı olarak değişmektedir. Yüksek gerilim ve uzaktan kumanda sistemleri konusunda deneyim kazanmış kişiler için istihdam olanağı daha fazladır.\"",
+ "kazanc": {
+  "egitim_suresince": "Mesleğin örgün bir ortaöğretim sonrası eğitim programı bulunmadığından, kazanç genellikle çalışılan kuruluşun kurum içi eğitim/stajyerlik dönemi ücret politikasına göre belirlenir. Mesleki ve teknik ortaöğretim kapsamında işletmelerde staj veya mesleki eğitim gören öğrenciler için 3308 sayılı Mesleki Eğitim Kanunu hükümleri uygulanır.",
+  "egitim_sonrasi": [
+   "Kamu kuruluşlarında memur statüsünde istihdam edilenler 657 sayılı Devlet Memurları Kanunu'na, işçi statüsünde çalışanlar ise ilgili toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde çalışanların ücreti; işletmenin büyüklüğü, kişinin bilgi, beceri ve deneyimi ile sektördeki ücret düzeyine göre karşılıklı anlaşma yoluyla belirlenir.",
+   "Mesleğe yeni başlayanların kazancı genellikle asgari ücret düzeyinde olup, deneyim ve kıdem arttıkça kazanç da yükselebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Elektrik-elektronik teknolojisi alanında mesleki ve teknik ortaöğretim kurumlarından mezun olanlar, bu alanın devamı niteliğindeki yükseköğretim ön lisans programlarına (elektrik, elektronik, elektrik-elektronik teknikerliği vb.) ve başarılı oldukları takdirde ilgili lisans programlarına (örneğin elektrik-elektronik mühendisliği) yönelebilirler.",
+  "is_hayatinda": "Meslek elemanları, çalıştıkları kuruluşlarda deneyim ve kıdemlerine bağlı olarak kıdemli teknisyen, ekip/vardiya sorumlusu, şef veya amir pozisyonlarına yükselebilirler. Yüksek gerilim tesisleri, sinyalizasyon sistemleri veya uzaktan kumanda (skola/SCADA) sistemleri gibi alanlarda uzmanlaşarak kariyerlerini bu yönde geliştirebilirler."
+ },
+ "benzer_meslekler": [
+  "Diğer Elektrik Teknisyenleri",
+  "Röle Ölçü Aletleri Teknisyeni / Röle Görevlisi",
+  "Elektrik Tevzii İşçisi (Enerji Merkezi)",
+  "Yüksek Gerilim Sistemleri Teknisyeni",
+  "Elektrik Dağıtım Şebekesi İşletme Bakım Teknisyeni",
+  "Elektrik Dağıtımı SCADA Operatörü"
+ ],
+ "ek_bilgiler": "\"Meslek, yüksek gerilimli sistemlerle ve demiryolu güzergahındaki kesintisiz enerji işletmeciliği ile ilgili olduğundan, çalışanların periyodik sağlık muayenesinden geçmeleri ve iş güvenliği mevzuatına uygun eğitimler almaları gerekebilir. Vardiyalı çalışma düzeni nedeniyle gece ve resmî tatil çalışması söz konusudur.\"",
+ "egitim": {
+  "verildigi_yerler": "Bu meslek, Türk Meslekler Sözlüğünde ortaöğretim (lise ve dengi) düzeyinde bir meslek olarak tanımlanmaktadır. Mesleğe özgü, bağımsız bir mesleki ve teknik ortaöğretim alanı/dalı bulunmamaktadır; meslek genellikle elektrik-elektronik teknolojisi alanında mesleki ve teknik ortaöğretim kurumlarından (meslek lisesi) mezun olanların, demiryolu işletmeciliği yapan kamu/özel kuruluşlarda işe alınarak kurum içi hizmet içi eğitim ve işbaşında deneyimli personel refakatinde yetiştirilmesiyle kazanılmaktadır. Ayrıca ilgili kuruluşların açtığı sinyalizasyon, yüksek gerilim ve uzaktan kumanda sistemlerine yönelik kurumsal eğitim programları ile Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kursları da bu alanda bilgi ve beceri kazandırabilir.",
+  "giris_kosullari": [
+   "En az ortaöğretim (lise veya dengi okul) mezunu olmak",
+   "Tercihen elektrik-elektronik teknolojisi alanında mesleki ve teknik ortaöğretim mezunu olmak",
+   "Çalışılacak kuruluşun açtığı sınav ve/veya mülakatta başarılı olmak",
+   "İşin gerektirdiği sağlık koşullarına (işitme, görme, renk ayırt etme vb.) sahip olmak"
+  ],
+  "sure_ve_icerik": "Mesleğin standart bir ortaöğretim sonrası eğitim süresi ve müfredatı bulunmamaktadır. Elektrik-elektronik alanında mesleki ve teknik eğitim veren okullarda temel elektrik, elektronik, ölçme, kumanda sistemleri ve iş güvenliği konuları öğretilir. Bu temel eğitimin üzerine, demiryolu işletmelerinde göreve başlayanlar; sinyalizasyon sistemleri, uzaktan kumanda (skola) sistemleri, trafo merkezlerinin işletilmesi ve yüksek gerilim tesisatları konularında kurum içi teorik ve uygulamalı eğitimlerden ve belirli bir süre deneyimli personel refakatinde işbaşı eğitiminden geçirilir.",
+  "belge": "Mesleki ve teknik ortaöğretim kurumlarından mezun olanlara diploma verilir. Kurum içi eğitim ve uyum sürecini tamamlayanlara çalıştıkları kuruluş tarafından sertifika veya yetki belgesi düzenlenebilir. Mesleki Yeterlilik Kurumu (MYK) tarafından bu meslekle ilişkili bir ulusal yeterlilik kapsamında belge almak, istihdamda tercih sebebi olabilir."
+ },
+ "gorevler": [
+  "Elektrikle çalışan tren makinelerine enerji vermek üzere merkezden (kumanda odasındaki panodan) enerji verilmesini sağlar.",
+  "Demiryolu hattında bulunan enerji trafo merkezlerinde ve trafo santrallerinde meydana gelen arızaya anında merkez skola sistemi ile kumanda eder.",
+  "Sistemde oluşacak arızaları sesli ve ışıklı panodan takip eder.",
+  "Verilen komuta göre enerjiyi keser, açar.",
+  "Arızalı trafo devre dışı olduğunda diğer trafo merkezinden enerji verilmesini sağlar.",
+  "Enerji hatlarında meydana gelen arızaların ihbarlarında ilgili bölgenin enerjisini keser, arızanın giderilmesini sağlar.",
+  "Trafolarda meydana gelen arıza ve ihbarları takip eder, değerlendirir.",
+  "Elektrik sinyal ve uzaktan kumanda tesislerinin montaj ve demontajını, tesisle ilgili enerji kaynakları cihazlarının bağlantılarını yapar.",
+  "Yüksek gerilim tesisatları ile bunlara ait kumanda tablosu, transformatör ve teçhizatın arızalarının tespit ve giderilmesini sağlar.",
+  "Mesleği ile ilgili gelişmeleri takip eder ve uygular.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T09:06:02",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 8952
+  }
+ }
+}

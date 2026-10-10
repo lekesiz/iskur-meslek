@@ -1,0 +1,90 @@
+{
+ "gorevler": [
+  "Demiryolu üzerinde meydana gelen hadise ve olaylarla ilgili verilen tahkikatları yapar.",
+  "Dereyman, heyelan, sel tahribatı, kar fırtınası ve benzeri olağanüstü hallerde arıza yerlerine seri bir şekilde gider, durumdan bölge müdürlüğüne bilgi verir.",
+  "Gerek planlı yatırımlarda gerekse arızalı durumlarda, mıntıkada demiryolu üst yapısı ile yatırım ve bakım işlerini, keşif ve projelerini tetkik eder.",
+  "Programa alınan ve ödeneği verilen işlerin bitirilmesini takip eder.",
+  "Denetim sırasında mıntıkada meydana gelen veya tedbir alınmaması durumunda olabilecek hadiselere karşı alınacak önlemleri rapor eder.",
+  "Sorumluluk alanındaki köprü, menfez, tünel, yarma, dolma, tahkimat ve istinat duvarları gibi altyapı bölümlerini ve üst yapının hal ve durumlarında incelenmesi gereken bir değişiklik meydana geldiğinde turneleri muayene eder, gerekiyorsa teknik aletlerle ölçüm yaparak sonuçlarını bir kroki ile görüşüyle birlikte rapor eder.",
+  "Turneleri sırasında her iş yerinde durarak yapılan işlerin verimini, ödenek ve fiziksel gerçekleşmeyi karşılaştırır, giderilmesi gereken kusur ve eksiklikleri rapor eder.",
+  "Oto turnelerinde gerek gördüğü kesimlerde sondaj usulü, yol geometri parametrelerini ölçmek suretiyle kontrol eder.",
+  "Yıllık turne programına göre üç ayda bir belirlenen mıntıkada turne-denetim yapar.",
+  "Turnelerini lokomotif, çekici oto, oto drezin, yol muayene makinası ve motorlu drezin ile, lüzum görülen yerlerde yaya olarak yapar.",
+  "Denetim turnesinde tespit edilen düzensizlikleri o iş yerinin teftiş defterine yazarak işyeri amirine yazılı tebliğini sağlar, turne dönüşü düzensizlikleri bir rapor halinde yol müdürüne sunar.",
+  "Denetim raporunda yazılmasına rağmen aynı noksanlıkların iki kez üst üste giderilmediği tespit edildiğinde, olayın takibi için bölge müdürüne bildirir.",
+  "Oto turneleri esnasında, turne güzergahında bulunan iş ve tamirat makinalarının operatörlerini kontrol eder ve makinanın verimini değerlendirir.",
+  "Demiryolu güzergahında meydana gelen kaza/olayların nedeninin araştırılması ve soruşturulması amacıyla oluşturulacak kurulda görevlendirilir.",
+  "Gizlilik arz eden tahkikatlar sırasında gizlilik kuralına kesinlikle uyar.",
+  "İşyerleri ile ilgili her türlü şikâyetleri inceler.",
+  "Yol servisi ile ilgili davalarda mahkemelere bilgi ve belge verir.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "arac_gerec": [
+  "El ölçüm aletleri (metre, şerit metre, su terazisi vb.)",
+  "Yol geometri ölçüm cihazları",
+  "Sondaj/ölçüm ekipmanları",
+  "Teftiş defteri ve rapor formları",
+  "Kroki çizim malzemeleri",
+  "İletişim araçları (telsiz, telefon)",
+  "El feneri",
+  "Kişisel koruyucu donanım (reflektörlü yelek, baret, çelik burunlu ayakkabı)",
+  "Oto drezin / motorlu drezin",
+  "Yol muayene makinası",
+  "Çekici oto / lokomotif (ulaşım amaçlı)",
+  "İlkyardım çantası",
+  "İşaret bayrakları ve levhaları",
+  "Tevkif takozu"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve gözlem gücü yüksek,",
+  "Sorumluluk sahibi ve güvenilir,",
+  "Açık havada, zorlu arazi ve iklim koşullarında çalışmaya elverişli bedensel yapıya sahip,",
+  "Teknik ölçüm yapabilen ve sayısal verilerle çalışabilen,",
+  "Açık ve düzenli rapor yazabilen,",
+  "Acil ve kriz durumlarında hızlı, soğukkanlı karar verebilen,",
+  "Ekip çalışmasına yatkın ve iletişimi güçlü,",
+  "Demiryolu güvenliği konusunda duyarlı ve kurallara titizlikle uyan kişiler olmaları gerekir."
+ ],
+ "calisma_ortami": "\"Demiryolu Yol Kontrol Görevlisi, görevinin büyük bölümünü açık havada, demiryolu hattı boyunca sahada yürüterek veya oto drezin, motorlu drezin, yol muayene makinası gibi araçlarla dolaşarak yürütür. Çalışma; yağmur, kar, aşırı sıcak veya soğuk gibi her türlü hava koşulunda sürebilir; heyelan, sel, kar fırtınası gibi olağanüstü durumlarda hızla arıza bölgesine intikal etmesi gerekebilir. Köprü, tünel, menfez gibi yapılarda inceleme yaparken yüksekte veya dar alanlarda çalışma söz konusu olabilir; hareketli tren trafiği nedeniyle iş kazası riski bulunur ve iş sağlığı-güvenliği kurallarına titizlikle uyulması gerekir.\\n\\nÇalışma saatleri genellikle belirli bir vardiya düzeninde olmakla birlikte, olağanüstü hal ve arıza durumlarında mesai saatleri dışında da göreve çağrılabilir. Görevi gereği bölge müdürlüğü, yol müdürü, işyeri amirleri, makine operatörleri, diğer demiryolu personeli ve gerektiğinde adli/idari makamlarla (mahkemeler, soruşturma kurulları) yazılı ve sözlü iletişim kurar.\"",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin ayrı, bağımsız bir örgün eğitim programı bulunmamaktadır. Genellikle TCDD ve benzeri demiryolu işletmeciliği yapan kuruluşlarda, yol bakım-onarım birimlerinde deneyim kazanmış personel; kurum içi sınav ve hizmet içi eğitim süreçleri ile bu göreve atanır. İlgili teknik lise (inşaat, raylı sistemler vb.) veya ön lisans düzeyindeki raylı sistemler programlarından mezun olanlar da bu sürece dâhil olabilir.",
+  "giris_kosullari": [
+   "Resmî kayıtta mesleğin gerektirdiği asgari eğitim düzeyi ilköğretim olarak belirtilmektedir; uygulamada kurumların açtığı sınavlarda genellikle lise, meslek lisesi (inşaat/raylı sistemler) veya ön lisans mezuniyeti tercih sebebi olabilir.",
+   "İlgili kurumun açacağı personel alım sınavını kazanmak.",
+   "Sağlık durumunun açık havada, sahada ve zaman zaman yüksekte çalışmaya elverişli olması.",
+   "Demiryolu güvenlik mevzuatı ve iş sağlığı-güvenliği kurallarına ilişkin hizmet içi eğitimleri tamamlamak."
+  ],
+  "sure_ve_icerik": "Meslek için önceden belirlenmiş, standart süre ve içerikte ulusal bir eğitim programı bulunmamaktadır. Göreve başlayan personele kurum bünyesinde demiryolu üst yapısı, yol geometrisi, ölçüm teknikleri, rapor yazımı, iş sağlığı ve güvenliği gibi konularda hizmet içi eğitim ve deneyimli bir sorumlu refakatinde uygulamalı eğitim verilir. Deneyim arttıkça görev ve yetki kapsamı genişler.",
+  "belge": "Hizmet içi eğitimleri tamamlayan personele kurum tarafından katılım belgesi veya iç yeterlilik belgesi verilebilir. Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "\"Meslek elemanları başta TCDD olmak üzere demiryolu altyapı işletmeciliği yapan kamu kuruluşlarında ve şehir içi raylı sistem (metro, tramvay) işletmelerinin yol bakım-onarım ve denetim birimlerinde görev alırlar. Bu görev kamuda genellikle 657 sayılı Devlet Memurları Kanunu'na tabi memur kadrosunda veya kurumun toplu iş sözleşmesine tabi işçi statüsünde yürütülmektedir. Demiryolu ağının genişlemesi ve modernizasyonu, mevcut hatların düzenli denetim ve bakım ihtiyacını artırmakta olup bu durum meslek elemanlarına yönelik istihdamı destekleyen bir etkendir.\"",
+ "kazanc": {
+  "egitim_suresince": "Göreve başlamadan önce ayrı bir örgün eğitim dönemi bulunmadığından bu aşamada ayrıca bir ücret söz konusu değildir; kurum bünyesinde alt kademelerde (yol bakım-onarım işçiliği vb.) çalışanlar bulundukları kademenin ücretini alır.",
+  "egitim_sonrasi": [
+   "Kamu kuruluşlarında (TCDD vb.) memur statüsünde çalışanların ücreti 657 sayılı Devlet Memurları Kanunu'na göre belirlenir.",
+   "İşçi statüsünde istihdam edilenlerin ücreti kurumun tabi olduğu toplu iş sözleşmesi hükümlerine göre belirlenir.",
+   "Göreve yeni başlayanlarda ücret düzeyi kurumun kadro ve ücret politikasına göre değişmekle birlikte, kıdem ve görev artışıyla birlikte yükselir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Çalışırken tamamlanacak açık öğretim veya örgün ön lisans/lisans programları (raylı sistemler teknolojisi, inşaat, raylı sistemler mühendisliği vb.) ile teknik bilgi ve unvan açısından ilerleme sağlanabilir.",
+  "is_hayatinda": "Deneyim ve kıdem kazandıkça yol sürveyanlığı, tesisler kontrolörlüğü gibi daha kapsamlı denetim görevlerine, zamanla da yol müdür yardımcılığı gibi yönetim kademelerine yükselme imkânı bulunur."
+ },
+ "benzer_meslekler": [
+  "Yol Sürveyanı (Demiryolu)",
+  "Tesisler Kontrolörü (Demiryolu)",
+  "Demiryolu Tesisler Sürveyanı",
+  "Demiryolu Frencisi",
+  "Demiryolu Sinyalcisi",
+  "Geçit Bekçisi (Demiryolu)"
+ ],
+ "ek_bilgiler": "\"Bu meslek demiryolu trafik güvenliğiyle doğrudan ilgili olduğundan, olağanüstü hava koşullarında ve acil durumlarda sahaya hızlı intikal edebilme ile mesai saatleri dışında göreve çağrılabilme gibi özel çalışma şartları içerebilir. Görev, teknik inceleme, raporlama ve zaman zaman soruşturma kurullarında görev alma gibi idari sorumluluklar da gerektirir.\"",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T18:11:06",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 9082
+  }
+ }
+}

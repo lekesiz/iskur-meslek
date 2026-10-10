@@ -1,0 +1,90 @@
+{
+ "gorevler": [
+  "Kalite, çevre ve iş sağlığı ve güvenliği politikalarını uygular",
+  "İş organizasyonu yapar",
+  "Üretim sürecini takip eder",
+  "Üretim için kimyasal karışım hazırlar",
+  "Üretim reçetesini uygular",
+  "Test yapar",
+  "Asorti kontrolü yapar",
+  "Fiziksel kontrol yapılmasını sağlar",
+  "Penetrasyon kontrolü yapılmasını sağlar",
+  "Sınıflandırma kontrolü yapar",
+  "Yüzey boyama işlemleri kontrolü yapar",
+  "Pistole makinesinde yüzey boyama işlemi kontrolü yapar",
+  "Silindir makinesinde yüzey boyama işlemi kontrolü yapar",
+  "Pres işlemleri kontrolü yapar",
+  "Polisaj kontrolü yapar",
+  "Son işlemler/bitirme işlemleri kontrolü yapar",
+  "Üretim performansını değerlendirir",
+  "Mesleki gelişime yönelik faaliyetleri yürütür"
+ ],
+ "arac_gerec": [
+  "Pistole (sprey) boyama makinesi",
+  "Silindir boyama makinesi",
+  "Pres makinesi",
+  "Polisaj makinesi",
+  "Kimyasal karışım hazırlama tankları ve karıştırıcılar",
+  "Hassas tartı ve ölçüm aletleri",
+  "Penetrasyon (nüfuziyet) test cihazı",
+  "Renk ve asorti kontrol kabinleri",
+  "Deri kalınlık ölçüm aletleri",
+  "Üretim reçeteleri ve kalite kontrol formları",
+  "Boya, apre ve son işlem kimyasalları",
+  "Deri numuneleri",
+  "Kişisel koruyucu donanım (eldiven, maske, gözlük, önlük)",
+  "Nem ve sıcaklık ölçüm cihazları"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve gözlem gücü yüksek,",
+  "El becerisine sahip,",
+  "Renkleri ve ton farklarını iyi ayırt edebilen,",
+  "Kimyasal maddelere karşı alerjisi olmayan,",
+  "Sorumluluk sahibi ve ekip yönetebilen,",
+  "İş organizasyonu yapabilen,",
+  "Zamanını iyi planlayabilen,",
+  "Ayakta ve hareketli çalışmaya uygun bedensel ve ruhsal sağlığa sahip,"
+ ],
+ "calisma_ortami": "Deri bitim işlemleri sorumluları, genellikle debbağhane ve deri işleme tesislerinin finisaj (bitirme) bölümlerinde görev yaparlar. Çalışma ortamında kimyasal madde kokusu, nem, boya ve toz bulunabilir; bu nedenle havalandırma sistemleri ve kişisel koruyucu donanım kullanımı önem taşır. Çalışma genellikle ayakta, hareketli ve dikkat gerektiren bir şekilde yürütülür; makine ve kimyasal madde kullanımına bağlı riskler mevcuttur.\n\nMesleğin sorumluluk gerektiren niteliği nedeniyle, kişi üretim ekibini yönlendirme, işçilerle ve işletme yöneticileriyle sürekli iletişim kurma durumundadır. Çalışma saatleri genellikle işletmenin vardiya düzenine göre belirlenir ve üretim yoğunluğuna bağlı olarak değişebilir.",
+ "egitim": {
+  "verildigi_yerler": "Deri Bitim İşlemleri (Finisaj) Sorumlusu olmaya yönelik, doğrudan bu unvana özgü resmi bir örgün eğitim programı bulunmamaktadır. Meslek elemanları genellikle, meslek liselerinin ve mesleki eğitim merkezlerinin \"Kimya Teknolojisi\" alanı \"Deri İşleme/Deri Teknolojisi\" dalı gibi ilgili programlarından veya çıraklık eğitiminden mezun olup, deri işleme/debbağlık işçisi olarak işe başladıktan sonra, işyerinde kazandıkları deneyim ve mesleki eğitim kursları yoluyla bu sorumluluk pozisyonuna yükselirler.",
+  "giris_kosullari": [
+   "Meslek lisesi/mesleki eğitim merkezi programına girmek için en az ortaokul mezunu olmak ve zorunlu eğitim çağında bulunmak gerekir.",
+   "Çıraklık eğitimine başlamak için 14 yaşını doldurmuş olmak ve eğitim görülecek işyeri ile çıraklık sözleşmesi imzalamak gerekir.",
+   "Finisaj sorumlusu pozisyonuna geçiş için genellikle deri işleme/bitim işlemleri alanında belirli bir süre fiilen çalışmış olmak ve ustalaşmak beklenir.",
+   "Sağlık durumunun kimyasal madde ile çalışmaya ve mesleğin gerektirdiği fiziksel koşullara uygun olması gerekir."
+  ],
+  "sure_ve_icerik": "Örgün eğitim yolu izlenirse, ilgili alan/dalda mesleki eğitim merkezlerinde veya meslek liselerinde eğitim ilköğretim sonrası yaklaşık 4 yıl sürer; bu sürede genel kültür dersleri ile deri işleme teknikleri, kimyasal madde kullanımı, iş sağlığı ve güvenliği gibi meslek dersleri verilir, haftanın bir günü okulda teorik eğitim, kalan günlerde işyerinde uygulamalı eğitim yapılır. Ancak finisaj sorumluluğu, bu temel eğitimin üzerine işyerinde kazanılan deneyimle (genellikle birkaç yıllık uygulamalı çalışma sonrasında) ulaşılan bir pozisyondur. Ayrıca Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kursları, kimyasal karışım hazırlama, kalite kontrol ve üretim yönetimi konularında destekleyici eğitim sağlayabilir.",
+  "belge": "Mesleki eğitim merkezi/meslek lisesi yolunu izleyenlere kalfalık ve ardından ustalık belgesi verilir; fark derslerini tamamlayanlar meslek lisesi diploması alabilir. Mesleki Yeterlilik Kurumu (MYK) tarafından deri sektörüne yönelik düzenlenen ulusal yeterlilik belgeleri, bu meslekte istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Deri bitim işlemleri (finisaj) sorumluları, başta özel sektöre ait debbağhane ve deri işleme fabrikaları ile deri konfeksiyon, ayakkabı ve saraciye üretimine girdi sağlayan işletmelerin finisaj bölümlerinde çalışırlar. Bu meslek elemanlarına, deri sanayinin yoğunlaştığı İstanbul, Bursa, İzmir, Kocaeli, Tekirdağ-Çorlu, Uşak, Bolu-Gerede, Niğde gibi illerde daha fazla istihdam olanağı bulunmaktadır. Deneyimli ve nitelikli işgücüne sektörde sürekli ihtiyaç duyulmaktadır.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğe örgün eğitim (çıraklık/mesleki eğitim merkezi) yoluyla hazırlananlara, 3308 sayılı Mesleki Eğitim Kanunu çerçevesinde işletmelerde mesleki eğitim gören öğrenciler için belirlenen ve genellikle asgari ücretin bir bölümüne karşılık gelen bir ücret ödenir; bu öğrencilerin iş kazası ve meslek hastalığı sigorta primleri devletçe karşılanır.",
+  "egitim_sonrasi": [
+   "Deri işleme/debbağlık işçisi olarak işe başlayanlar, genellikle asgari ücret düzeyinde bir kazançla çalışmaya başlar.",
+   "Finisaj sorumlusu pozisyonuna yükselenlerin kazancı, üstlendikleri sorumluluk, deneyim, işletmenin büyüklüğü ve bulundukları bölgeye göre değişir; özel sektörde ücret genellikle işveren ile karşılıklı anlaşma yoluyla belirlenir.",
+   "Kamu kurumlarına bağlı üretim tesislerinde işçi statüsünde çalışanların ücreti ilgili toplu iş sözleşmesi hükümlerine göre belirlenir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleki eğitim merkezi veya meslek lisesinden diploma alarak mezun olanlar, YKS Kılavuzunda belirtilen ve alanın devamı niteliğindeki yükseköğretim (ön lisans/lisans) programlarını tercih ettiklerinde ek puandan yararlanabilirler. Çeşitli hizmet içi eğitim ve kurslara katılarak kimyasal karışım hazırlama, kalite kontrol ve üretim yönetimi konularında bilgi ve beceriler geliştirilebilir.",
+  "is_hayatinda": "Deri işleme/debbağlık işçisi olarak başlayan kişi, deneyim kazandıkça usta, ardından finisaj (bitim işlemleri) sorumlusu, vardiya amiri ve üretim şefi gibi daha üst sorumluluk gerektiren pozisyonlara yükselebilir. Yeterli bilgi birikimi ve sermaye edinildiğinde bağımsız deri işleme/finisaj atölyesi açılabilir."
+ },
+ "benzer_meslekler": [
+  "Deri İşlenti Sorumlusu",
+  "Deri Yaş İşlenti Sorumlusu",
+  "Diğer Üretim Nezaretçi ve Ustabaşıları (Ham Deri)",
+  "Debbağ (Sepici)",
+  "Deri İşlemecisi",
+  "Diğer Debbağlar"
+ ],
+ "ek_bilgiler": "Deri bitim işlemlerinde kullanılan boya, apre ve kimyasal maddeler nedeniyle iş sağlığı ve güvenliği kurallarına uyum ile kişisel koruyucu donanım kullanımı önemlidir. Mesleki Yeterlilik Kurumu (MYK) belgesi, bu meslekte istihdamda tercih sebebi olabilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T09:30:19",
+  "usage": {
+   "input_tokens": 4,
+   "output_tokens": 9861
+  }
+ }
+}

@@ -1,0 +1,83 @@
+{
+ "arac_gerec": [
+  "Elektronik ölçü aletleri (multimetre, osiloskop, güç analizörü vb.)",
+  "Lehim makineleri ve havyalar",
+  "Çeşitli el takımları (tornavida, pense, kablo soyma/sıkma aletleri vb.)",
+  "Güç kaynakları ve adaptörler",
+  "Programlanabilir Lojik Kontrolör (PLC) cihazları ve yazılımları",
+  "Mikro denetleyici kartları ve geliştirme setleri",
+  "Bilgisayar ve elektronik devre çizim/programlama yazılımları",
+  "Sensörler, aktüatörler ve röleler",
+  "Endüstriyel iletişim/ağ ekipmanları (switch, modem, endüstriyel kablolama malzemeleri)",
+  "Endüstriyel veri izleme (SCADA) yazılımları",
+  "Elektrik-elektronik devre elemanları (direnç, kapasitör, entegre devre vb.)",
+  "Otomasyon panoları ve kontrol üniteleri"
+ ],
+ "genel_ozellikler": [
+  "Mekanik ve elektronik alanlara ilgili ve meraklı,",
+  "El becerisine sahip,",
+  "Şema, plan ve teknik çizimleri okuyup yorumlayabilen,",
+  "Analitik düşünebilen ve problem çözme yeteneği gelişmiş,",
+  "Dikkatli ve sabırlı,",
+  "Teknolojik gelişmeleri takip etmeye istekli,",
+  "Ekip çalışmasına uyumlu,",
+  "Sorumluluk sahibi"
+ ],
+ "calisma_ortami": "Endüstriyel Kontrol Teknisyeni; fabrika, üretim tesisi, otomasyon panoları, kontrol odaları, atölye ve bazı durumlarda şantiye gibi ortamlarda görev yapar. Çalışma sırasında elektrikli pano ve sistemlerle, mikro denetleyici devreleriyle, bilgisayarla ve ölçü aletleriyle doğrudan ilgilenir; işin niteliğine göre ayakta, dar ve bazen yüksekte çalışılan alanlarda görev alabilir. Elektrikle çalışılan ortamlarda bulunduğundan iş sağlığı ve güvenliği kurallarına titizlikle uyulması gerekir.\n\nMesleğini çoğunlukla mühendis ve teknikerlerle iş birliği içinde, bazen de bağımsız olarak yürütür; arıza giderme ve bakım çağrılarına bağlı olarak işletmenin mesai saatleri dışında veya vardiyalı çalışma söz konusu olabilir. Görevi sırasında işletme çalışanları, mühendisler, teknikerler, diğer teknisyenler ve bazı durumlarda müşterilerle iletişim kurar.",
+ "gorevler": [
+  "Günlük iş planı ve iş organizasyonu yapar.",
+  "Temel elektrik-elektronik işlemlerini yapar.",
+  "Bilgisayarlı elektronik devre çizimi yapar.",
+  "Bilgisayar programı yazar.",
+  "Temel el becerisi işlemlerini yapar.",
+  "Mikro denetleyici devreleri kurar.",
+  "Otomatik kumanda sistemlerini kurar, arıza takibini ve bakımını yapar.",
+  "Bilgisayar ağları ile çalışır.",
+  "Programlanabilir kumanda sistemlerini kurar, arıza takibini ve bakımını yapar.",
+  "İnternet üzerinden sistem kontrolü yapar.",
+  "Robot sistemlerini kontrol eder.",
+  "Endüstriyel veri izleme programlarını kullanır.",
+  "Yabancı dilde süreli yayınları ve internet kaynaklarını takip eder.",
+  "Kullandığı araç ve gereçlerin temizliğini yapar.",
+  "Mesleği alanındaki gelişmeleri takip eder ve uygular.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi, mesleki ve teknik Anadolu liselerinin elektrik-elektronik teknolojisi alanı ile bu alanın ilgili dallarında verilmektedir. Ayrıca Halk Eğitim Merkezleri ile İŞKUR'un açtığı mesleki eğitim kurslarında da temel otomasyon ve kontrol sistemleri konularında beceri kazandırılabilir.",
+  "giris_kosullari": [
+   "Ortaokulu tamamlamış olmak,",
+   "Milli Eğitim Bakanlığınca okul türüne ve alan/dala göre belirlenen giriş koşullarını taşımak."
+  ],
+  "sure_ve_icerik": "Örgün mesleki eğitimde öğrenim süresi 4 yıldır. 9. sınıfta ortak genel kültür dersleri verilir ve öğrenci alanını belirler; 10. sınıfda alana yönelik ortak yeterlikler kazandırılır ve dönem sonunda dal seçimi yapılır. 11. ve 12. sınıflarda ise seçilen dala ait yeterlikleri kazandıran dersler (temel elektrik-elektronik, mikro denetleyici devreleri, otomatik kumanda sistemleri, programlanabilir kumanda sistemleri, bilgisayar ağları, endüstriyel otomasyon gibi konular) okutulur. Eğitim; okulda teorik ve uygulamalı, işletmelerde ise uygulamalı olarak yürütülür.",
+  "belge": "Örgün eğitimi tamamlayanlara meslek lisesi diploması verilir. Kurs yoluyla yetişenler kurs bitirme belgesi alabilir; Mesleki Yeterlilik Kurumu (MYK) belgesi de istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Endüstriyel Kontrol Teknisyenleri; otomotiv, gıda, tekstil, metal, kimya ve elektronik gibi sektörlerde otomasyon sistemleri kullanan üretim fabrika ve tesislerinde, endüstriyel otomasyon ve kontrol sistemleri kuran/bakımını yapan firmalarda, akıllı bina ve ev otomasyonu ile güvenlik sistemleri üzerine çalışan işletmelerde, bakım-onarım servislerinde istihdam edilebilirler. Deneyim ve sermaye birikimine bağlı olarak kendi işletmelerini kurarak da çalışabilirler. Sanayinin otomasyona yönelmesiyle bu alandaki iş bulma olanaklarının zamanla arttığı görülmektedir.",
+ "kazanc": {
+  "egitim_suresince": "3308 sayılı Mesleki Eğitim Kanunu çerçevesinde işletmelerde mesleki eğitim gören öğrencilere, asgari ücretin net tutarının belirli bir oranından az olmamak üzere ücret ödenir. Ayrıca eğitim gören öğrencilerin iş kazası ve meslek hastalığı sigortası primleri devletçe karşılanır.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanların kazancı genellikle asgari ücret düzeyindedir.",
+   "Deneyim, bilgi/beceri düzeyi, ek sertifikalar ve çalışılan işletmenin büyüklüğü/sektörüne bağlı olarak kazanç zamanla artabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Meslek lisesi mezunları, alanının devamı niteliğinde olan ve YKS Kılavuzunda belirtilen elektrik-elektronik, otomasyon, mekatronik gibi ön lisans/lisans programlarını tercih ettiklerinde ek puandan yararlanabilir; ilgili sınavlarda başarılı oldukları takdirde bu programlara yerleşebilirler.",
+  "is_hayatinda": "Mesleki deneyim kazandıkça usta, ekip lideri veya bakım-onarım şefi gibi görevlere yükselebilirler. İlgili yükseköğrenimi (ön lisans/lisans) tamamlayanlar, tekniker veya mühendis unvanıyla çalışma olanağına kavuşabilir."
+ },
+ "benzer_meslekler": [
+  "Elektrik-Elektronik Teknisyeni",
+  "Endüstriyel Bakım Onarım Teknisyeni/Endüstriyel Elektronik Teknisyeni",
+  "Elektronik Teknisyeni",
+  "Endüstriyel Elektronik Teknikeri",
+  "İşletme Elektronik Bakımcısı",
+  "Gömülü Sistem Geliştirici"
+ ],
+ "ek_bilgiler": "Elektrik enerjisinin kullanıldığı pano ve sistemlerle çalışıldığından iş sağlığı ve güvenliği kurallarına, özellikle elektrik güvenliği önlemlerine titizlikle uyulması gerekir. Mesleki Yeterlilik Kurumu (MYK) tarafından verilen belgeler, istihdamda tercih sebebi olabilir. Endüstride otomasyon ve dijitalleşme eğiliminin artması bu mesleğe olan talebi olumlu etkilemektedir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T09:18:39",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5891
+  }
+ }
+}

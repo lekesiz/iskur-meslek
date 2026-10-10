@@ -1,0 +1,75 @@
+{
+ "arac_gerec": [
+  "Termal kamera",
+  "Vibrasyon ölçüm cihazı (vibrometre)",
+  "Yağ numunesi alma ve analiz kitleri",
+  "Ultrasonik ölçüm cihazı",
+  "Sıcaklık ölçüm cihazları (termometre, pirometre)",
+  "Takometre ve stroboskop",
+  "Taşınabilir veri kayıt cihazı (data logger)",
+  "Dizüstü bilgisayar ve veri izleme/analiz yazılımları",
+  "Lazer hizalama cihazı",
+  "Basınç ölçüm cihazları",
+  "El takımları (anahtar, tornavida, pense vb.)",
+  "Kişisel koruyucu donanım (baret, kulaklık, eldiven, koruyucu gözlük vb.)"
+ ],
+ "benzer_meslekler": [
+  "Makine Bakım Ustası",
+  "Makine Montaj ve Bakım Onarımcısı",
+  "Mekanik Bakım ve Onarımcısı (Motorlu Taşıtlar Hariç)",
+  "Makine Bakım ve Onarımcısı",
+  "Makine Bakım Onarım Yardımcı Elemanı",
+  "Planlı Bakım Vizitörü (Çimento)"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve gözlem gücü yüksek,",
+  "Analitik düşünme yeteneğine sahip,",
+  "Sayısal verileri ve grafikleri yorumlayabilen,",
+  "Makine ve ekipmanlarla çalışmaktan hoşlanan,",
+  "Sorumluluk sahibi ve güvenilir,",
+  "Düzenli, sistemli ve planlı çalışabilen,",
+  "El-göz koordinasyonu iyi,",
+  "Yeni teknolojileri öğrenmeye ve takip etmeye açık,"
+ ],
+ "calisma_ortami": "\"Kestirimci bakım elemanları genellikle fabrika, üretim tesisi ve atölye gibi kapalı mekanlarda, bazen de saha ölçümleri için açık alanlarda çalışır. Çalışılan ortam makinelerin bulunduğu üretim hatları olduğundan gürültülü, titreşimli, zaman zaman yağlı, tozlu ve yüksek sıcaklıklı olabilir; yüksekte veya dar alanlarda ölçüm yapmak gerekebilir. İşin niteliğine göre dikkat ve iş güvenliği ekipmanı kullanımı önemlidir.\\n\\nÇalışma genellikle gündüz mesaisi şeklindedir, ancak işletmenin üretim programına bağlı olarak vardiyalı çalışma da söz konusu olabilir. Bu meslekte çalışanlar; bakım mühendisleri, bakım teknisyenleri, makine operatörleri ve işletme yöneticileriyle sürekli iletişim halindedir.\"",
+ "egitim": {
+  "verildigi_yerler": "Kestirimci bakım elemanlığı, bağımsız bir çıraklık dalı veya mesleki ve teknik ortaöğretim alanı olarak resmi şekilde tanımlanmamıştır. Makine, elektrik-elektronik, mekatronik ve makine teknolojileri gibi ilgili mesleki ve teknik eğitim programlarından mezun olanlar, işletmelerde işbaşı eğitimi alarak veya vibrasyon analizi, termografi (ısıl görüntüleme) ve yağ analizi gibi konularda uzman kuruluşların, üniversitelerin sürekli eğitim merkezlerinin ya da Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kurslarına katılarak bu mesleğe yönelebilir.",
+  "giris_kosullari": [
+   "İlköğretim mezunu olmak (sözlükte belirtilen asgari düzey)",
+   "İşletmeler genellikle mesleki ve teknik eğitim (meslek lisesi veya meslek yüksekokulunun makine, elektrik-elektronik, mekatronik gibi alanları) mezunlarını tercih etmektedir",
+   "Sağlık durumunun saha koşullarında (gürültü, yükseklik, kapalı/sıcak ortamlar) çalışmaya uygun olması"
+  ],
+  "sure_ve_icerik": "Mesleğin standart bir çıraklık veya örgün eğitim süresi bulunmamaktadır. Eğitim genellikle işletme bünyesinde usta veya uzman personel gözetiminde işbaşı eğitimi şeklinde, buna ek olarak vibrasyon analizi, termografi, yağ analizi gibi konularda düzenlenen kısa süreli sertifika kursları ile verilmektedir. Kurs içerikleri; veri toplama cihazlarının kullanımı, ölçüm sonuçlarının yorumlanması, arıza teşhisi ve raporlama konularını kapsar; süreleri içeriğe göre günler ile haftalar arasında değişebilir.",
+  "belge": "İşbaşı eğitimi sonunda işletme tarafından verilen deneyim/çalışma belgesi; katıldığı kurslardan alınan katılım veya başarı sertifikası. Vibrasyon analizi, termografi gibi alanlarda alınan Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir, ancak bu mesleğe özgü zorunlu bir belge bulunduğuna dair kesin bilgi yoktur."
+ },
+ "calisma_alanlari": "\"Kestirimci bakım elemanları; otomotiv, tekstil, çimento, enerji üretimi, metal, gıda ve kimya gibi sanayi kollarındaki üretim tesislerinin bakım-onarım birimlerinde, enerji santrallerinde, petrokimya tesislerinde ve ağır sanayi işletmelerinde çalışabilir. Ayrıca işletmelere dışarıdan kestirimci bakım (vibrasyon analizi, termografi, yağ analizi vb.) hizmeti sunan özel danışmanlık ve mühendislik firmalarında da istihdam edilebilirler. Sanayi işletmelerinde dijitalleşme ve otomasyonun artmasıyla bu alandaki ihtiyacın genişlemesi beklenmektedir.\"",
+ "gorevler": [
+  "Termal kamera, vibrasyon ölçer gibi cihazlarla veri toplar,",
+  "Makine yağlarından numune alarak analiz sonuçlarını izler,",
+  "Toplanan verileri grafiklerle yorumlayarak arıza risklerini belirler,",
+  "Planlı duruş ve bakım önerilerini ilgili birime raporlar,",
+  "Ekipmanların kalan ekonomik ömür analizlerini yapar,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "kazanc": {
+  "egitim_suresince": "Mesleğin resmi bir çıraklık modeli bulunmadığından, işletme bünyesindeki işbaşı eğitim veya staj dönemlerinde işveren ile yapılan anlaşmaya bağlı olarak değişen bir ücret ödenebilir.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında istihdam edilenler 657 sayılı Devlet Memurları Kanunu'na veya işçi statüsündeyse ilgili toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde işe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Deneyim, bilgi birikimi, sahip olunan sertifikalar ve çalışılan işletmenin büyüklüğüne bağlı olarak kazanç artabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "İlgili mesleki ve teknik eğitim programlarından (makine, elektrik-elektronik, mekatronik vb.) mezun olanlar, sınavla ön lisans veya lisans programlarına (makine mühendisliği, mekatronik mühendisliği, endüstri mühendisliği, makine programları gibi) geçiş yapabilir. Ayrıca vibrasyon analizi, termografi ve yağ analizi gibi alanlarda ileri seviye sertifika kurslarına katılarak uzmanlaşma sağlanabilir.",
+  "is_hayatinda": "Deneyim kazanan kestirimci bakım elemanları bakım planlayıcısı, bakım mühendisi veya bakım şefi/sorumlusu gibi pozisyonlara yükselebilir; alanında uzmanlaştıktan sonra bağımsız danışmanlık veya hizmet firması kurabilir."
+ },
+ "ek_bilgiler": "\"Kestirimci bakım elemanlığı, Endüstri 4.0 ve dijitalleşme süreçleriyle birlikte sanayi işletmelerinde önem kazanan, Türkiye'de henüz standart bir eğitim programıyla tanımlanmamış, gelişmekte olan bir meslek alanıdır. İlgili teknik eğitim geçmişi ve sektörel sertifikalar istihdamda tercih sebebi olabilir.\"",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T02:56:36",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6381
+  }
+ }
+}

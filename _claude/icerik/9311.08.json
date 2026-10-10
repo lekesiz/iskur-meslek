@@ -1,0 +1,74 @@
+{
+ "arac_gerec": [
+  "Kazma, kürek, balyoz",
+  "El arabası, vagon/lavar",
+  "Maden kaskı (baret)",
+  "Baretli kafa lambası veya el feneri",
+  "İş eldiveni ve koruyucu iş elbisesi",
+  "Toz maskesi/solunum koruyucu",
+  "Kulak tıkacı/koruyucu",
+  "Çelik burunlu bot/çizme",
+  "Manivela, kama gibi basit el aletleri",
+  "Kırma ve ayıklama için basit aletler (keski, çekiç)",
+  "Havalandırma ve aydınlatma donanımı (ortamda bulunan)",
+  "Güvenlik ipi/emniyet kemeri (gerektiğinde)"
+ ],
+ "benzer_meslekler": [
+  "Dolgucu-Maden (Elle)",
+  "Vagoncu - Maden",
+  "Kürekçi - Kömür Ocağı",
+  "Kürekçi - maden ocağı",
+  "Takımcı - Maden",
+  "Maden Seçme Ayırma İşçisi"
+ ],
+ "calisma_alanlari": "Bu meslek elemanları, yeraltı kömür ve maden ocakları ile yerüstü taş ocaklarında, madencilik ve taş ocakçılığı faaliyeti yürüten kamu ve özel sektör işletmelerinde çalışır. Türkiye Taşkömürü Kurumu, Türkiye Kömür İşletmeleri gibi kamu kuruluşlarına bağlı ocaklarda, özel maden işletmelerinde, taş, mermer ve agrega ocaklarında istihdam edilirler. İş bulma olanakları, bölgenin maden ve taş ocağı yoğunluğuna, sektördeki üretim hacmine ve mevsimsel koşullara göre değişiklik gösterir. Mekanizasyonun artması bu meslekte vasıfsız işgücüne olan talebi zamanla azaltabilmektedir.",
+ "calisma_ortami": "Diğer madenciler ve taş ocakçılar (nitelik gerektirmeyen), görevlerine göre yeraltındaki dar, karanlık ve havalandırması sınırlı galerilerde veya açık taş ocaklarında çalışır. Çalışma ortamı toz, nem, gürültü, sıcaklık değişimleri ve sınırlı hareket alanı gibi zorlu fiziksel koşullar içerir; göçük, gaz birikimi, düşme ve yaralanma gibi iş kazası riskleri bulunur, bu nedenle iş sağlığı ve güvenliği kurallarına titizlikle uyulması gerekir. Çalışma genellikle vardiya usulüyle yürütülür, gece ve hafta sonu çalışması söz konusu olabilir.\n\nMeslek elemanı işini büyük ölçüde ekip halinde, diğer maden işçileri, ustabaşı ve teknik personelle birlikte, eğilme, uzanma, ağır kaldırma gibi bedensel güç gerektiren hareketlerle yürütür. Yöneticilerden ve teknik personelden talimat alarak, zaman baskısı ve fiziksel yorgunluğun yüksek olduğu bir ortamda çalışır.",
+ "egitim": {
+  "verildigi_yerler": "Bu meslek için örgün bir mesleki ve teknik eğitim programı bulunmamaktadır. Gerekli bilgi ve beceriler genellikle işbaşında, deneyimli işçi/usta gözetiminde uygulamalı olarak kazanılır. Ayrıca İŞKUR'un açtığı işgücü yetiştirme kursları ile Halk Eğitim Merkezlerinde ve işyerlerinin düzenlediği temel iş sağlığı ve güvenliği eğitimlerinde mesleğe yönelik bilgiler edinilebilir.",
+  "giris_kosullari": [
+   "Okuryazar olmak (meslek için asgari eğitim düzeyi)",
+   "18 yaşını doldurmuş olmak (işin ağır ve tehlikeli iş niteliği nedeniyle)",
+   "Sağlık durumunun yeraltı/açık ocak çalışmasına ve ağır işlere elverişli olması, gerektiğinde sağlık raporuyla belgelenmesi"
+  ],
+  "sure_ve_icerik": "Mesleğe özgü belirli bir eğitim süresi ve müfredatı bulunmamaktadır. Yeni başlayanlar, işe alındıktan sonra kısa süreli bir uyum (oryantasyon) döneminde iş sağlığı ve güvenliği kuralları, kullanılan araç-gereçler ve temel iş adımları konusunda usta işçi/ustabaşı eşliğinde uygulamalı olarak bilgilendirilir. Mesleki Yeterlilik Kurumu (MYK) tarafından ilgili çalışma alanına yönelik düzenlenen eğitim ve belgelendirme programlarına katılım, istihdamda tercih sebebi olabilir.",
+  "belge": "Mesleğe özgü resmî bir diploma veya sertifika bulunmamaktadır; işyerlerinin düzenlediği iş sağlığı ve güvenliği eğitim belgesi ile katılınan kurslara ait katılım belgeleri alınabilir."
+ },
+ "ek_bilgiler": "İş Kanunu kapsamında yeraltında yürütülen maden işleri ağır ve tehlikeli işler arasında sayılır; bu işlerde kadın ve 18 yaşından küçüklerin çalıştırılması yasaktır. Çalışanların periyodik sağlık muayenesinden geçmesi ve işyerinde verilen iş sağlığı ve güvenliği eğitimlerine katılması zorunludur.",
+ "genel_ozellikler": [
+  "Fiziksel olarak güçlü ve dayanıklı,",
+  "Dar, kapalı veya açık ocak ortamlarında çalışmaya elverişli,",
+  "Dikkatli ve tedbirli,",
+  "İş sağlığı ve güvenliği kurallarına uyan,",
+  "Takım halinde çalışmaya uyumlu,",
+  "Emir ve talimatlara uyabilen,",
+  "Sabırlı ve sorumluluk sahibi,",
+  "Sağlık durumu ağır işlere uygun"
+ ],
+ "gorevler": [
+  "Ocaklardaki ara yolları ve su kanallarını temizler,",
+  "Kömür ve madenleri nakledilmek üzere oluklar ya da kürek vasıtasıyla vagonlara doldurur,",
+  "Bu vagonları taşıma hattı üzerinde iter ve boşaltır,",
+  "Kömür ve cevherler içindeki yabancı büyük parçaları kırar ve ayıklar,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğe yönelik örgün bir eğitim kademesi bulunmadığından, bu alanda eğitim yoluyla ilerleme kısıtlıdır. Çalışanlar, katıldıkları iş sağlığı ve güvenliği kursları ile Mesleki Yeterlilik Kurumu belgelendirme programları aracılığıyla bilgi ve becerilerini artırabilir; isteyenler Halk Eğitim Merkezleri veya İŞKUR kurslarıyla farklı mesleklere yönelebilir.",
+  "is_hayatinda": "Deneyim kazandıkça daha nitelikli maden/taş ocağı işlerinde (örneğin belirli makine veya ekipman kullanımı gerektiren görevlerde) çalışabilir; zaman içinde vardiya sorumlusu veya ustabaşı gibi gözetim görevlerine yükselme olanağı bulunmaktadır. İlerleme büyük ölçüde işletmenin yapısına, kişinin performansına ve deneyimine bağlıdır."
+ },
+ "kazanc": {
+  "egitim_suresince": "Mesleğe yönelik örgün bir eğitim programı bulunmadığından eğitim süresince ücret söz konusu değildir; işe yeni başlayanlar genellikle işyerinde kısa süreli uyum döneminde işveren tarafından belirlenen ücretle çalışmaya başlar.",
+  "egitim_sonrasi": [
+   "Kamu kuruluşlarına bağlı maden işletmelerinde işçi statüsünde çalışanların ücreti ilgili toplu iş sözleşmesi hükümlerine göre belirlenir.",
+   "Özel sektörde çalışanların kazancı genellikle asgari ücret düzeyinde başlar; işyerinin büyüklüğü, çalışma koşulları, kişinin deneyimi ve performansına göre değişebilir.",
+   "Vardiyalı veya tehlikeli iş niteliğine bağlı olarak işyeri uygulamalarına göre ek ödemeler yapılabilir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T19:40:32",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5127
+  }
+ }
+}

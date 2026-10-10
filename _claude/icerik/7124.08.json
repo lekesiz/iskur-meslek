@@ -1,0 +1,84 @@
+{
+ "arac_gerec": [
+  "Yüksek basınçlı su jeti makinesi",
+  "Yüksek basınçlı hava kompresörü ve püskürtme tabancası",
+  "Kumlama/aşındırıcı malzemeler (kum, grid, garnet, olivin kumu)",
+  "Raspa aletleri",
+  "Emniyet kemeri ve yüksekte çalışma ekipmanları",
+  "Yüz maskesi, gaz maskesi ve koruyucu gözlük",
+  "Koruyucu tulum ve emniyet ayakkabısı",
+  "Boya fırçası, rulo ve mamul hazırlama ekipmanları",
+  "Isı/ses yalıtım malzemeleri (cam yünü, taş yünü, köpük panel vb.)",
+  "Ölçüm aletleri (metre, mastar, su terazisi)",
+  "Taşıma ekipmanları (vinç, forklift, el arabası)",
+  "İskele ve çalışma platformları",
+  "Havalandırma ve toz emme cihazları"
+ ],
+ "genel_ozellikler": [
+  "El becerisine sahip,",
+  "Fiziksel olarak güçlü ve dayanıklı,",
+  "Dikkatli ve tedbirli,",
+  "Kapalı, dar ve yüksek mekanlarda çalışmaya uygun bedensel yapıya sahip,",
+  "İş güvenliği kurallarına titizlikle uyan,",
+  "Ekip halinde çalışmaya istekli,",
+  "Yönergeleri doğru şekilde izleyebilen,",
+  "Sağlık durumu tersane ortamına uygun olan"
+ ],
+ "calisma_ortami": "İzolasyoncu (Gemi), tersanelerde gemi inşa ve onarım sahalarında çalışır. Çalışma; karina yıkama ve temizleme gibi işlerde açık havada, gemi içindeki sarnıç, tank ve kapalı bölmelerde yalıtım ve temizleme işlemlerinde ise dar ve kapalı mekanlarda yürütülür. Çalışma ortamında toz, gürültü, kimyasal madde ve boya kokusu, yüksekte çalışma ve dar alanda bulunma gibi riskler mevcuttur; bu nedenle kişisel koruyucu donanım kullanımı zorunludur.\n\nMeslek elemanı, iş programına göre vardiyalı veya tersanenin iş yoğunluğuna bağlı olarak değişken sürelerde çalışabilir. Çalışma sırasında iş keşifçisi, mühendis, kalite kontrol elemanları, usta ve diğer tersane işçileriyle sürekli iş birliği içindedir.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin örgün ortaöğretim düzeyinde ayrı, standart bir alan/dalı bulunmamaktadır. Meslek genellikle tersanelerde işbaşında usta yanında uygulamalı olarak öğrenilmekte; ayrıca Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kursları ile ilgili mesleki ve teknik eğitim kurumlarının inşaat teknolojisi/yalıtım alanındaki genel programları da temel bilgi ve beceri kazandırabilmektedir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "Fiziksel sağlık durumunun dar, kapalı ve yüksek mekanlarda, kimyasal maddelerle çalışmaya uygun olması",
+   "İşbaşı eğitim/çıraklık için ilgili işyeri ile sözleşme yapılabilir olması",
+   "Kurs programlarının belirlediği yaş ve öğrenim şartlarını taşımak"
+  ],
+  "sure_ve_icerik": "Resmi olarak tanımlanmış standart bir çıraklık veya meslek lisesi programı bulunmadığından eğitim süresi ve içeriği katılınan kursa veya çalışılan işyerine göre değişmektedir. Genel olarak iş sağlığı ve güvenliği, malzeme tanıma, yüksek basınçlı su/hava ekipmanlarının kullanımı, yüzey temizleme ve yalıtım malzemelerinin hazırlanıp uygulanması konularını kapsayan kısa süreli kurslar ile işbaşında usta gözetiminde yürütülen uzun süreli uygulamalı eğitim şeklinde gerçekleşir.",
+  "belge": "Katılınan kurslar sonunda katılım veya başarı belgesi verilebilir; işbaşı eğitiminde usta onayı ile mesleki yeterlilik kazanılır. Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Başlıca istihdam alanı tersaneler ile gemi inşa, bakım ve onarım firmalarıdır. Ayrıca bu firmalara hizmet veren gemi izolasyonu/yalıtımı konusunda uzmanlaşmış alt yüklenici işletmelerde de çalışma olanağı bulunmaktadır. Türkiye'de gemi inşa sanayinin yoğunlaştığı bölgelerde iş bulma olanağı daha fazladır. Sektördeki istihdam, gemi inşa ve onarım talebine bağlı olarak dönemsel dalgalanmalar gösterebilir.",
+ "kazanc": {
+  "egitim_suresince": "İşbaşında çıraklık tarzı eğitim alanlara, 3308 sayılı Mesleki Eğitim Kanunu kapsamında asgari ücretin belirli bir oranında ücret ödenebilir; kurs şeklinde alınan kısa süreli eğitimlerde genellikle ücret ödenmemektedir.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Deneyim, beceri ve çalışılan tersane/firmanın büyüklüğüne göre kazanç artabilir.",
+   "Özel sektörde ücret, işveren ile çalışan arasında karşılıklı anlaşmaya göre belirlenir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Resmi, kademeli bir kalfalık-ustalık sistemi bulunmamaktadır. Deneyim kazanan izolasyoncular, ilgili mesleki ve teknik eğitim kurumları veya kurs merkezlerince açılan ileri düzey eğitimlere katılarak bilgi ve becerilerini geliştirebilir.",
+  "is_hayatinda": "Deneyim ve beceri kazandıkça ekip lideri, ustabaşı veya saha sorumlusu gibi görevlere yükselebilir; yeterli bilgi birikimi ve sermaye ile kendi işini (yalıtım/izolasyon alt yüklenici firması) kurabilir."
+ },
+ "benzer_meslekler": [
+  "Gemi İzolasyoncusu",
+  "Yapı Yalıtımcısı",
+  "Isı Yalıtımcısı",
+  "Su Yalıtımcısı",
+  "Akustik Tecritçisi",
+  "Boru Tesisatçısı-Gemi"
+ ],
+ "ek_bilgiler": "Gemi izolasyonu işi; tersane ortamında dar/kapalı alanlarda (tank, sarnıç içi), yükseklikte ve kimyasal/aşındırıcı maddelerle çalışmayı gerektirdiğinden iş sağlığı ve güvenliği açısından dikkat edilmesi gereken bir meslektir. Düzenli sağlık kontrolü, kişisel koruyucu donanımın eksiksiz kullanılması ve iş güvenliği eğitimleri bu meslekte önem taşımaktadır.",
+ "gorevler": [
+  "İş keşifçisi tarafından hazırlanan, işin nerede, hangi malzemeler ile ve ne kadar zamanda yapılacağını gösteren belgede yazılı malzemeleri temin eder.",
+  "Yarı mamul olan malzemeleri mamul haline getirir.",
+  "Mamul hale getirilen veya mamul olarak temin edilen malzemelerin gemiye veya işin yapılacağı yere götürülmesini sağlar.",
+  "Verilen plan dahilinde işin yapılacağı alanı veya zemini işin durumuna göre temizler, boyatır, mekanı havalandırır, tozlanmaya ve yangına karşı emniyet tedbiri aldırır.",
+  "Çalışılacak yere göre, iş emniyet kuralları dahilinde emniyet kemeri, yüz maskesi, gözlük, tulum, emniyet ayakkabısı vb. kullanır.",
+  "Karina bölgesinin tuzdan arındırılması amacıyla yüksek basınçlı su jeti ile yıkar.",
+  "Karina yüzeyini boya, pas, yağ ve kirden arındırmak için yüksek basınçlı hava ile püskürtülen arındırıcılar vasıtasıyla yüzeyin temizlenmesini sağlar.",
+  "Yeni gemi inşa bloklarını karada yüksek basınçlı hava ile çeşitli arındırıcılar kullanarak metal yüzeydeki kir, pas ve kaynak curuflarından temizler.",
+  "Ağaç, cunife boru gibi paslanmaz yüzeylerde deforme olmuş boyaları yüksek basınçlı su jeti ile temizler.",
+  "Sarnıç ve tankların içindeki deforme olmuş boyaların, pas ve pitinglerin temizlenmesi ve raspa yapılması için yüksek basınçlı hava ile aşındırıcılar (kum, grid, garnet, olivin kumu vb.) kullanarak yüzeyin temizlenmesini sağlar.",
+  "Kalite kontrol bölümü ile birlikte kontrolleri yapıp boya işlemini yapacak birime teslim eder.",
+  "Meslek alanı ile ilgili gelişmeleri takip eder ve uygular.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T23:13:42",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 7227
+  }
+ }
+}

@@ -1,0 +1,78 @@
+{
+ "arac_gerec": [
+  "Bilgisayar (masaüstü veya dizüstü)",
+  "Klavye ve fare",
+  "Monitör / ekran",
+  "Yazıcı ve tarayıcı",
+  "Kesintisiz güç kaynağı (UPS)",
+  "Harici depolama birimleri (disk, bellek)",
+  "Ofis yazılımları (kelime işlemci, hesap tablosu, sunum programı)",
+  "Veri tabanı ve kurumsal uygulama yazılımları",
+  "Ağ bağlantı ekipmanları (modem, switch)",
+  "Telefon / faks cihazı",
+  "Dosyalama ve arşivleme malzemeleri",
+  "Kağıt ve büro sarf malzemeleri"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve titiz,",
+  "El ve göz koordinasyonu gelişmiş, klavye kullanımında hızlı ve hatasız,",
+  "Sorumluluk sahibi ve gizliliğe önem veren,",
+  "Mantıksal ve sistematik düşünebilen,",
+  "Bilgisayar teknolojilerine ve yeniliklere ilgili,",
+  "Sabırlı, düzenli ve planlı çalışabilen,",
+  "İletişim becerisi gelişmiş ve ekip çalışmasına uygun,",
+  "Yoğun ve tekrarlı işlerde dikkatini sürdürebilen"
+ ],
+ "calisma_ortami": "Bilgisayar işletmeni, kapalı ortamda, genellikle bir büro içinde masa başında bilgisayar karşısında oturarak çalışır. Çalışma ortamı çoğunlukla aydınlık, ısıtılmış ve havalandırılmış olup fiziksel olarak ağır bir iş yükü içermez; buna karşılık uzun süre ekran karşısında oturmak göz yorgunluğu, bel ve boyun şikayetlerine yol açabilir. Çalışma saatleri genellikle kurumun resmi çalışma saatleri ile sınırlıdır, ancak iş yoğunluğuna göre fazla çalışma gerekebilir.\n\nGörevini yerine getirirken birim amirleri, diğer büro personeli, ilgili birimlerdeki çalışanlar ve bazı durumlarda kurum dışından kişi ve kuruluşlarla iletişim kurar. İş, büyük ölçüde bireysel olarak yürütülmekle birlikte, veri akışının sağlanması açısından diğer çalışanlarla uyum içinde çalışılması gerekir.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi, ortaöğretim düzeyinde meslek liselerinin bilişim teknolojileri veya büro yönetimi gibi ilgili alanlarında verilebilmektedir. Bunun yanında Halk Eğitim Merkezleri ile İŞKUR tarafından açılan bilgisayar işletmenliği, veri giriş elemanlığı ve ofis programları kurslarında da mesleğe yönelik eğitim verilmektedir. Meslek, işbaşında usta yanında veya kurum içi eğitimlerle de öğrenilebilmektedir.",
+  "giris_kosullari": [
+   "Meslek liselerinin ilgili alanına girebilmek için en az ortaokul mezunu olmak",
+   "Halk Eğitim Merkezi ve İŞKUR kurslarına katılabilmek için genellikle okuryazar olmak ve kursun belirlediği yaş ve öğrenim şartlarını taşımak",
+   "Kurumların açtığı bilgisayar işletmenliği kadrolarına başvuruda genellikle en az lise ve dengi okul mezunu olmak şartı aranmaktadır",
+   "Temel düzeyde bilgisayar kullanımına ilgili ve isteli olmak"
+  ],
+  "sure_ve_icerik": "Meslek liselerinde eğitim 4 yıl sürer; bu süreçte genel kültür derslerinin yanında bilgisayar kullanımı, klavye teknikleri, ofis yazılımları, veri tabanı uygulamaları ve temel işletim sistemi bilgisi gibi mesleki dersler okutulur. Halk Eğitim Merkezleri ve İŞKUR tarafından açılan kurs programlarında ise eğitim süresi haftalar ile aylar arasında değişmekte olup; klavye kullanımı, hızlı ve doğru veri girişi, ofis yazılım programları, dosyalama ve temel bilgisayar işletim bilgileri üzerinde durulmaktadır.",
+  "belge": "Meslek lisesi mezunlarına diploma verilir; Halk Eğitim Merkezi veya İŞKUR kurslarını tamamlayanlara ise kurs bitirme/katılım belgesi verilmektedir. Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Bilgisayar işletmenleri; kamu kurum ve kuruluşlarının bilgi işlem, personel, muhasebe, arşiv ve yazı işleri gibi birimlerinde çalışabilmektedir. Özel sektörde ise bankalar, sigorta şirketleri, ticari işletmeler, çağrı merkezleri, eğitim kurumları, sağlık kuruluşları ve her türlü büro/veri işleme ihtiyacı bulunan işletmelerde istihdam edilmektedirler. Bilgisayar kullanımının yaygınlaşması nedeniyle bu meslek dalı farklı sektörlerde geniş bir çalışma alanına sahiptir.",
+ "gorevler": [
+  "Gerekli sistem yazılımıyla bilgisayarı çalıştırır,",
+  "Uygulama sistemlerinin gereksinimlerine göre girdi ve çıktıları doğru ve tam olarak sağlar,",
+  "Sorunları tanımlamak için işletimi gözleyerek performansı inceler,",
+  "Bilgi ve yetkisi dahilinde gereğinde düzeltici işlemleri başlatır,",
+  "Sistem yazılımı ve uygulama programlarından gelen konsol mesajlarını anlayarak gereken işlemleri yapar,",
+  "Giriş ve çıkış ortamlarında gerekli işlemleri yapar,",
+  "Bilgisayar işletim yöntemleri ve işletim standartları konularında güncel bilgi sahibi olur,",
+  "Sistem arızalarını tanımlar ve işletim dizilerinin ve çıktıların bütünlüğünü ve doğruluğunu koruyacak biçimde düzeltici işlemler yapar,",
+  "Bilgisayarda yapılan işleri belirlenen zamanlamaya göre yapar,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "kazanc": {
+  "egitim_suresince": "Örgün eğitim sürecinde öğrenciler için ayrıca bir kazanç söz konusu değildir. İŞKUR tarafından açılan aktif işgücü kurslarına katılanlar ise belirli koşullarda kursiyer harcırahından yararlanabilmektedir.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında memur statüsünde çalışanlar 657 sayılı Devlet Memurları Kanunu'na, işçi statüsünde çalışanlar ise tabi oldukları toplu iş sözleşmesi hükümlerine göre ücret almaktadır.",
+   "Özel sektörde yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar; deneyim, bilgi birikimi, çalışılan işyerinin büyüklüğü ve sektöre göre kazanç değişebilmektedir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Meslek lisesi mezunları, alanlarıyla ilgili ön lisans programlarına sınavsız geçiş hakkından yararlanabilmekte; ayrıca açık öğretim veya örgün eğitim yoluyla büro yönetimi, bilgi işlem veya ilgili diğer alanlarda daha üst düzey eğitim alarak kendilerini geliştirebilmektedirler.",
+  "is_hayatinda": "Deneyim ve bilgi birikimi arttıkça büro sorumluluğu, veri işleme biriminde kıdemli personel gibi görevlere yükselebilir. Ek eğitimler ve sertifikalarla bilgisayar programcılığı, sistem yöneticiliği veya ilgili diğer bilişim alanlarına yönelebilirler."
+ },
+ "benzer_meslekler": [
+  "Veri Giriş Elemanı",
+  "Veri Giriş Kontrol İşletmeni",
+  "Bilgisayar Bilgi Yönetim Elemanı",
+  "Daktilograf",
+  "Steno Daktilograf"
+ ],
+ "ek_bilgiler": "Bilgisayarların ofis ortamlarında yaygın kullanımı ve dijitalleşme nedeniyle bilgisayar işletmenliği, kamu ve özel sektörün çok farklı birimlerinde ihtiyaç duyulan temel bir meslek alanı olma özelliğini sürdürmektedir. Mesleğe ilişkin görevler, kurumların kullandığı yazılım ve sistemlere göre farklılık gösterebilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T15:35:53",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6229
+  }
+ }
+}

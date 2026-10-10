@@ -1,0 +1,82 @@
+{
+ "arac_gerec": [
+  "Vinç",
+  "Halat ve çeşitli kalınlıkta ipler",
+  "Kızak yastıkları",
+  "Domuz damı (ahşap destek/takoz elemanları)",
+  "Kızak arabası",
+  "Deniz katırı (makara-halat düzeni)",
+  "Irgat",
+  "Civata ve bağlantı elemanları",
+  "İskele babası",
+  "Köstek zinciri",
+  "El aletleri (anahtar takımı, çeşitli aletler)",
+  "El feneri",
+  "Kişisel koruyucu donanım (kask, iş eldiveni, iş elbisesi, bot, can yeleği)"
+ ],
+ "benzer_meslekler": [
+  "Gemi Vinç Operatörü",
+  "Havuz Operatörü-Kanal ve Liman",
+  "Yüzer Vinç Operatörü",
+  "Rıhtım Vinç Operatörü",
+  "Transteynir Operatörü (Gemi)"
+ ],
+ "calisma_alanlari": "Kızakçılar; tersaneler, gemi bakım onarım işletmeleri, tekne çekek yerleri ve liman tesislerinde çalışabilirler. Çalışma alanı genellikle gemi ve tekne bakım onarımı yapan özel işletmelerdir; kamuya bağlı tersanelerde de istihdam edilebilirler.\\n\\nMeslek elemanlarına olan ihtiyaç, deniz taşımacılığı, balıkçılık ve gemi inşa/bakım sektörünün yoğunluğuna bağlı olarak değişmektedir. Kıyı bölgelerinde ve tersane yoğunluğu bulunan illerde iş bulma olanakları daha fazladır.",
+ "calisma_ortami": "Kızakçı, işini genellikle açık havada, tersane ve kızak alanlarında, su kenarında yürütür. Çalışma ortamı yağmurlu, rüzgârlı, soğuk veya sıcak olabilir; zeminler yağlı ve kaygan olabileceğinden kayma ve düşme riski bulunur. Ağır yüklerle, vinç, halat ve zincirlerle çalışıldığından iş kazası riski yüksektir; bu nedenle iş güvenliği kurallarına titizlikle uyulması gerekir. İş genellikle fiziksel güç ve dayanıklılık gerektirir, ayakta ve bazen eğilerek çalışma söz konusudur.\\n\\nGemi bakım onarım sürelerinin ve liman trafiğinin gerektirmesi halinde vardiyalı veya mesai saatleri dışında çalışma yapılabilir. Kızakçı; vinç operatörleri, ustabaşı, diğer tersane işçileri ve mühendislerle sürekli iletişim ve iş birliği içinde çalışır.",
+ "egitim": {
+  "verildigi_yerler": "Kızakçılık mesleği için resmî olarak tanımlanmış, örgün bir okul veya kurs programı bulunmamaktadır. Meslek genellikle tersanelerde işbaşında, usta yanında çalışılarak öğrenilmektedir. Halk Eğitim Merkezleri ile İŞKUR tarafından açılan mesleki eğitim kursları, iş güvenliği ve temel beceri konularında destekleyici eğitim olanağı sağlayabilir.",
+  "giris_kosullari": [
+   "Okuryazar olmak, tercihen ilköğretim mezunu olmak",
+   "18 yaşını doldurmuş olmak",
+   "İşin gerektirdiği ağır fiziksel çalışma koşullarına uygun sağlık durumuna sahip olmak",
+   "El ve beden becerisi gerektiren işlerde çalışmaya engel bir durumu olmamak"
+  ],
+  "sure_ve_icerik": "Mesleğin standart bir eğitim süresi ve müfredatı bulunmamaktadır. Kızağa alınacak gemiye yastık seçimi, yastıkların ve domuz damlarının yerleştirilmesi, halat ve vinç kullanımı, gemi sabitleme ve denize indirme işlemleri gibi bilgi ve beceriler, işbaşında usta gözetiminde zaman içinde kazanılır. Çalışılan işyerinde iş sağlığı ve güvenliği konularında da eğitim verilir.",
+  "belge": "Örgün bir meslek eğitimi programı sonunda verilen resmî bir diploma veya sertifika bulunmamaktadır. İşyerinde alınan iş sağlığı ve güvenliği eğitimleri ile katılınan kurslar sonunda katılım belgesi alınabilir."
+ },
+ "ek_bilgiler": "Kızakçılık, ağır yüklerle, halat, zincir ve vinç gibi ekipmanlarla yapılan, fiziksel güç gerektiren ve iş kazası riski taşıyan bir meslektir. Çalışma sırasında kişisel koruyucu donanımların eksiksiz kullanılması ve iş güvenliği kurallarına titizlikle uyulması büyük önem taşır.",
+ "genel_ozellikler": [
+  "El ve beden becerisine sahip,",
+  "Fiziksel olarak güçlü ve dayanıklı,",
+  "Dikkatli ve tedbirli,",
+  "Sorumluluk sahibi,",
+  "Takım çalışmasına uyumlu,",
+  "Açık havada ve zorlu çalışma koşullarına dayanıklı,",
+  "Su kenarında ve yüksekte çalışmaktan çekinmeyen,",
+  "Mekanik araç ve gereçlere ilgi duyan"
+ ],
+ "gorevler": [
+  "Kızağa alınacak geminin cinsine göre uygun yastıkları seçer.",
+  "Arabaşlar üzerine yastıkları ve domuz damlarını vinç yardımıyla yerleştirir, civatalarıyla arabaya bağlar.",
+  "Gemilerin cinsine göre ara serenle bağlayarak kızağa çekime hazırlar.",
+  "Gemi havuza girmeden trim ve meyil ayarlarını yapar.",
+  "Geminin su içinde kalan kısmını halatlar kullanarak deniz katırları yardımıyla çeker.",
+  "Geminin baş ve kıçından halatlarla iskele babalarına bağlayarak sabitler.",
+  "Düz donanım telini başa alır, ters donanım telini ırgat yardımıyla gerekli yere indirir.",
+  "Bağlı halatları iskele babalarına sabitleyerek gemiyi emniyete alır.",
+  "Ters donanım telini başa alır, düz donanım telini ırgat yardımıyla ağır ağır çeker.",
+  "Gemi tamamen yastıklara oturduktan sonra plangaları ve halatları çözer.",
+  "Geminin köstek zincirini bağlayarak gemiyi sabitler.",
+  "Bakım onarımları tamamlanan gemilerin denize indirilmesi işlemlerini yürütür.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Meslekte örgün bir eğitim kademesi bulunmadığından, mesleki eğitimde ilerleme imkânı sınırlıdır. Deneyim ve bilgi birikimine bağlı olarak işyerlerinde düzenlenen iş güvenliği ve beceri geliştirme kurslarına katılarak bilgi tazelenebilir.",
+  "is_hayatinda": "Deneyim kazanan kızakçılar; usta, ekip lideri, formen veya tersane bölüm sorumlusu gibi görevlere yükselebilir. Yeterli bilgi ve beceriye sahip olanlar vinç operatörlüğü gibi ilişkili mesleklere geçiş yapabilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Meslek örgün bir eğitim sürecine dayanmadığından, işbaşında öğrenme döneminde genellikle yardımcı/çırak statüsünde düşük düzeyde bir ücret alınabilir.",
+  "egitim_sonrasi": [
+   "Kamuya bağlı tersane ve işletmelerde işçi statüsünde istihdam edilenler, tabi oldukları toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde çalışanların kazancı genellikle asgari ücret düzeyinde başlar; işyerinin büyüklüğü, kişinin tecrübesi, bilgisi ve sektördeki ücret düzeyine göre değişebilir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T18:56:17",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5699
+  }
+ }
+}

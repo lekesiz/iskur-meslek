@@ -1,0 +1,76 @@
+{
+ "arac_gerec": [
+  "CNC tel erezyon tezgahı",
+  "Pirinç veya bakır kesim teli",
+  "Deiyonize su devresi ve filtre sistemi",
+  "Jeneratör (elektrik arkı) ünitesi",
+  "Komparatör ve mihengir",
+  "Kumpas, mikrometre",
+  "Yüzey pürüzlülük ölçüm cihazı",
+  "Teknik resim ve CAD/CAM yazılımları",
+  "Bilgisayarlı kontrol paneli",
+  "İş parçası bağlama aparatları (fikstür)",
+  "El takımları (anahtar, tornavida vb.)",
+  "Koruyucu gözlük ve eldiven"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve sabırlı,",
+  "El ve göz koordinasyonu gelişmiş,",
+  "Şekilleri doğru algılama ve zihinde canlandırma yeteneğine sahip,",
+  "Teknik resim okuyabilen,",
+  "Sayısal hesaplama yapabilen,",
+  "Bilgisayar ve elektronik kontrollü cihazlarla çalışmaktan hoşlanan,",
+  "Alet ve makinelerle çalışmaktan hoşlanan,",
+  "Sorumluluk sahibi"
+ ],
+ "calisma_ortami": "CNC Tel Erezyon Tezgah Operatörü, kapalı mekanlarda, genellikle metal işleme atölyelerinde veya fabrika imalat bölümlerinde, tezgah başında oturarak ya da ayakta çalışır. Çalışma ortamında tezgahın çalışması sırasında deiyonize su kullanılması, elektrik arkı ile kesim yapılması ve ince kesim teliyle çalışılması nedeniyle elektrik güvenliği, su ile temas ve kesici yaralanma risklerine karşı dikkatli olunması gerekir; ortam genellikle sanayide yaygın gürültü düzeyine sahiptir.\n\nÇalışma saatleri işletmenin üretim programına göre değişebilir; vardiyalı çalışma yaygındır. Operatör, iş sırasında mühendisler, ustabaşı, kalite kontrol elemanları ve diğer tezgah operatörleriyle iletişim kurar; görevini genellikle bağımsız olarak, tezgahın başında yürütür.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin tek bir resmi mesleki eğitim merkezi dalı olarak yaygın bir düzenlemesi bulunmamaktadır. CNC tezgah operatörlüğüne yönelik temel eğitim; Mesleki ve Teknik Anadolu Liselerinin Makine Teknolojisi/CNC ile ilgili alanlarında, Mesleki Eğitim Merkezlerinde (çıraklık eğitimi yoluyla), Halk Eğitim Merkezleri ile İŞKUR'un açtığı CNC tezgah operatörlüğü kurslarında verilmektedir. Ayrıca işletmelerde usta yanında işbaşı eğitimiyle de bu mesleğe geçiş yapılabilmektedir. Üniversitelerin ilgili meslek yüksekokullarındaki Makine, Mekatronik veya CNC Programcılığı ön lisans programları da bu alanda çalışmak isteyenler için temel oluşturabilir.",
+  "giris_kosullari": [
+   "İlköğretim mezunu olmak (mesleğin gerektirdiği asgari eğitim düzeyi)",
+   "Mesleki eğitim merkezi yoluyla eğitime başlamak için en az ortaokul mezunu olmak ve 14 yaşını doldurmuş olmak",
+   "Sağlık durumunun mesleğin gerektirdiği çalışmaya uygun olması",
+   "Mesleki eğitim merkezi yolunda, ilgili işyeri ile çıraklık sözleşmesi imzalamak"
+  ],
+  "sure_ve_icerik": "Mesleki eğitim merkezi yoluyla eğitim alınması durumunda süre, ilgili alan müfredatına bağlı olarak genellikle birkaç yıl olup kalfalık ve ustalık eğitim kademelerinden oluşur; içerikte teknik resim, ölçme-kontrol, malzeme bilgisi, CNC tezgah programlama ve CAD/CAM temelleri yer alır. Halk Eğitim Merkezleri ve İŞKUR kursları ise genellikle kısa süreli (birkaç hafta ile birkaç ay arasında), teorik ve uygulamalı kurslar şeklinde düzenlenir ve tezgahın kullanımı, program yükleme, parça bağlama ve kalite kontrolüne yönelik pratik bilgi verir.",
+  "belge": "Mesleki eğitim merkezi yoluyla eğitim alanlara kalfalık/ustalık belgesi; kurs yoluyla eğitim alanlara katılım veya başarı belgesi verilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "CNC Tel Erezyon Tezgah Operatörleri; metal işleme sanayi, kalıp imalat atölyeleri, otomotiv, havacılık, makine imalat sanayi ve organize sanayi bölgelerindeki hassas parça üretimi yapan işletmelerde istihdam edilmektedir. Özellikle kalıpçılık ve hassas parça imalatı sektörlerinde bu mesleğe olan talep sürmektedir.",
+ "kazanc": {
+  "egitim_suresince": "Mesleki eğitim merkezi/çıraklık yoluyla eğitim alanlara 3308 sayılı Mesleki Eğitim Kanunu kapsamında asgari ücretin net tutarının belirli bir yüzdesinden az olmamak üzere ücret ödenir ve iş kazası-meslek hastalığı sigorta primleri devletçe karşılanır. Halk Eğitim Merkezi veya İŞKUR kursları yoluyla eğitim alınması durumunda genellikle ücret ödenmez.",
+  "egitim_sonrasi": [
+   "Yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Deneyim, tezgah ve program bilgisi, çalışılan işletmenin büyüklüğüne göre kazanç artabilir.",
+   "Özel sektörde ücret işveren ile çalışan arasındaki anlaşmaya göre belirlenir; kamuya bağlı işletmelerde işçi statüsünde çalışanlar toplu iş sözleşmesi hükümlerine göre ücret alır."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleki eğitim merkezinden diploma alarak mezun olanlar, programın özelliğine göre meslek lisesi diplomasına denk belge alabilir ve YKS'de alanın devamı niteliğindeki Makine, Mekatronik, Üretim gibi ön lisans/lisans programlarını tercih ettiklerinde ek puandan yararlanabilirler.",
+  "is_hayatinda": "Deneyim kazanan operatör, tezgah ayarcılığı, usta başılık, vardiya amirliği veya kalite kontrol sorumluluğu gibi pozisyonlara yükselebilir. CAD/CAM ve programlama bilgisini geliştirerek CNC program hazırlama görevlerine geçebilir; yeterli birikim ve sermaye ile kendi atölyesini kurabilir."
+ },
+ "benzer_meslekler": [
+  "CNC Dalma Erozyon Tezgah Operatörü",
+  "CNC Freze Tezgahı Operatörü",
+  "CNC Torna Tezgahı Operatörü",
+  "CNC Lazerle Kesme Operatörü",
+  "CNC Plazma Kesim Operatörü",
+  "NC/CNC Tezgah Operatörü"
+ ],
+ "ek_bilgiler": "Tezgahın elektrik arkı ve deiyonize su kullanarak çalışması nedeniyle elektrik güvenliği ve topraklama kurallarına uyulması önem taşır. İşyerinin iş sağlığı ve güvenliği risk sınıflandırmasına göre bu meslek bazı işletmelerde tehlikeli işler kapsamında değerlendirilebilir; bu durumda MYK Mesleki Yeterlilik Belgesi istihdamda aranabilir.",
+ "gorevler": [
+  "Teknik resme göre CNC kesim programını hazırlar ve yükler.",
+  "İş parçasını tezgaha hassas komparatör ayarlarıyla bağlar.",
+  "Kesim telini (pirinç vb.) makineye takar ve gerginliğini ayarlar.",
+  "Deiyonize su seviyesini ve jeneratör parametrelerini denetler.",
+  "Kesim sonrası parçaların yüzey pürüzlülüğünü ve ölçülerini kontrol eder.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T02:04:10",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5997
+  }
+ }
+}

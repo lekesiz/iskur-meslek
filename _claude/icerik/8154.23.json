@@ -1,0 +1,76 @@
+{
+ "arac_gerec": [
+  "Çektirme (gerdirme) makinesi ve silindir sistemleri",
+  "Su deposu/tankı",
+  "Isıtma ve buhar sistemi",
+  "Solüsyon hazırlama kapları ve ölçü kapları",
+  "Dikiş makinesi (malzeme uçlarını birleştirmek için)",
+  "Sıcaklık ölçer (termometre)",
+  "Kurutma teçhizatı",
+  "Elyafı keçeleştiren/pekleştiren teçhizat",
+  "Dövme, sıkıştırma ve buharla ısıtma teçhizatı",
+  "Taşıma arabası/transpalet",
+  "Kişisel koruyucu donanım (eldiven, önlük, çizme, gözlük)"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli,",
+  "Sabırlı,",
+  "El becerisine sahip,",
+  "Fiziksel olarak dayanıklı,",
+  "Sorumluluk sahibi,",
+  "Talimatları eksiksiz uygulayabilen,",
+  "Takım çalışmasına uyumlu,"
+ ],
+ "calisma_ortami": "Mensucat çektirici, tekstil terbiye ve bitim işlemleri yapılan fabrika ve atölyelerde, kapalı ortamda çalışır. Çalışma ortamı sıcak buhar ve su kullanımı nedeniyle genellikle nemli ve sıcaktır; solüsyon ve kimyasal maddelerden kaynaklanan koku bulunabilir. Islak ve kaygan zemin, gürültü ve sıcak yüzeylerle temas gibi riskler nedeniyle iş sağlığı ve güvenliği kurallarına ve kişisel koruyucu donanım kullanımına dikkat edilmesi gerekir.\n\nÇalışma genellikle ayakta ve vardiyalı düzende sürdürülür. Meslek elemanı; aynı bölümde çalışan diğer işçiler, ustabaşı ve atölye/bölüm şefleriyle sürekli iletişim halindedir.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin ayrı ve bağımsız bir örgün meslek lisesi programı bulunmamaktadır. Beceriler, yeterli talep olması durumunda mesleki eğitim merkezlerinin Tekstil Teknolojisi alanı bünyesindeki ilgili terbiye/bitim işlemleri dalı kapsamında çıraklık eğitimi yoluyla; ayrıca işbaşında usta yanında, Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kursları aracılığıyla da kazanılabilir.",
+  "giris_kosullari": [
+   "İlköğretim/ortaokul mezunu olmak",
+   "Çıraklık eğitimi için 14 yaşını doldurmuş olmak",
+   "Sağlık durumunun işin gerektirdiği koşullara (sıcak, nemli ortamda çalışma vb.) uygun olması",
+   "El becerisi ve dikkat gerektiren işleri yapabilecek fiziksel uygunluğa sahip olmak"
+  ],
+  "sure_ve_icerik": "Mesleki eğitim merkezi kapsamında çıraklık eğitimine alınanlar için eğitim, ortak genel kültür dersleri ile meslek bilgisi derslerinden oluşur ve işyerinde usta öğreticinin gözetiminde pratik çalışmayla desteklenir. Bu yol dışında, çoğu zaman meslek, işletmeye girilerek deneyimli bir ustanın yanında işbaşında uygulamalı olarak, kısa süreli mesleki eğitim kursları ile birlikte öğrenilmektedir.",
+  "belge": "Mesleki eğitim merkezi yoluyla eğitim alanlara kalfalık/ustalık belgesi; kurs yoluyla eğitim alanlara ise kurs katılım/başarı belgesi veya ilgili yeterlilik belgesi verilir."
+ },
+ "gorevler": [
+  "Su deposunu doldurur.",
+  "Suyu istenilen dereceye kadar ısıtarak içerisine dokunmuş malzemeyi çektirecek maddeleri katar.",
+  "Malzemeyi uzunlamasına silindirlere vererek uçlarını birbirine diker.",
+  "Solüsyonun hararetini (sıcaklığını) kontrol eder.",
+  "Malzemeyi istenilen sonuç elde edilinceye kadar solüsyon ve silindirlerden geçirir, teçhizatı temizler.",
+  "Malzeme elyafını keçeleştiren veya pekleştiren teçhizatı kullanır.",
+  "Malzemeyi döven, sıkıştıran ve buharla ısıtan diğer teçhizatı çalıştırır; durulama ve kurutma işlerini yapar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "calisma_alanlari": "Mensucat çektirici; dokuma kumaş üreten tekstil fabrikalarının terbiye/apre bölümlerinde, tekstil bitim işlemleri atölye ve işletmelerinde, kumaş çektirme ve genişletme işlemlerinin yapıldığı üretim tesislerinde çalışabilir. İstihdam olanakları, tekstil sektöründeki üretim hacmine ve talebe bağlı olarak değişmektedir.",
+ "kazanc": {
+  "egitim_suresince": "Mesleki eğitim merkezi bünyesinde çıraklık eğitimi alınması durumunda 3308 sayılı Mesleki Eğitim Kanunu hükümleri uygulanır ve öğrencilere yaşlarına uygun asgari ücretin belirli bir oranında ücret ödenir; iş kazası ve meslek hastalığı sigorta primleri devletçe karşılanır. İşbaşında veya kurs yoluyla yetişenler ise çoğunlukla işletmede çalışarak ücret almaya başlar.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Deneyim kazandıkça, işteki performansa, görev ve sorumluluğun artmasına, çalışılan işletmenin büyüklüğüne göre kazanç değişkenlik gösterir.",
+   "Özel sektörde ücret, işveren ile çalışan arasındaki anlaşmaya ve toplu iş sözleşmesi hükümlerine göre belirlenir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleki eğitim merkezinden diploma alarak mezun olanlar, YKS Kılavuzunda belirtilen ilgili ön lisans/lisans programlarına yerleştirilebilir. Ayrıca çeşitli kurum ve kuruluşların düzenlediği mesleki kurslara katılarak bilgi ve becerilerini geliştirebilirler.",
+  "is_hayatinda": "Deneyim kazanan meslek elemanları; usta, ustabaşı ve çalıştığı işletmede bölüm/atölye şefliği düzeyine kadar ilerleyebilir."
+ },
+ "benzer_meslekler": [
+  "Ram Makinesi Operatörü (Tekstil)",
+  "Mensucat Pekleyici",
+  "Mensucat Kalandır Makinesi İşçisi",
+  "Dakatir Makinesi Operatörü",
+  "Kurutma-Apre Makinesi Operatörü",
+  "Tekstil Bitim İşlemecisi (Apreci)"
+ ],
+ "ek_bilgiler": "",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T14:27:11",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5164
+  }
+ }
+}

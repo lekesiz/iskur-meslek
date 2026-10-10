@@ -1,0 +1,80 @@
+{
+ "gorevler": [
+  "Haberleşme ve yazı işlerinin zamanında yapılmasını sağlar.",
+  "Liste, beyanname ve bildirileri düzenler, ilgili mercilere zamanında gönderir.",
+  "Noterlikte tutulması zorunlu defterleri usulüne uygun tutar, tutulmasını sağlar.",
+  "Emanetlerin teslim ve muhafazası için gerekli işlemleri yapar.",
+  "Her türlü karton ve dosyayı usulüne uygun olarak tutar, günlük işlem kâğıtlarının ciltbentlere yerleştirilmesini sağlar.",
+  "Arşiv bölümünü tanzim eder, çalışma tarzını tespit eder, yürütür ve denetler.",
+  "Noterlik dairesinin iç hizmetleri, temizlik ve koruma tedbirlerinin yerine getirilmesini sağlar.",
+  "Aylık ve yıllık iş cetvellerini, beyannameleri ve her türlü cetveli düzenler, ilgili yerlere gönderilmesini ve gerekli ödemelerin gecikmeye meydan vermeden zamanında yapılmasını sağlar.",
+  "İşlemler servisinden çıkan her işlemin tahakkukunun doğru olup olmadığını kontrol eder.",
+  "Mesleği alanındaki gelişmeleri takip eder ve uygulamalara yansıtır.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "arac_gerec": [
+  "Bilgisayar ve noterlik işlemlerine ilişkin yazılımlar",
+  "Yazıcı, tarayıcı ve fotokopi makinesi",
+  "Telefon ve faks cihazı",
+  "Noterlikte tutulması zorunlu resmi defterler",
+  "Damga, mühür ve ilgili resmi malzemeler",
+  "Dosya, klasör ve ciltbent malzemeleri",
+  "Emanetlerin muhafazası için kasa/dolap",
+  "Arşiv rafları ve arşivleme malzemeleri",
+  "Kırtasiye malzemeleri (kağıt, kalem, zımba vb.)",
+  "Evrak takip ve kayıt defterleri"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve titiz,",
+  "Güvenilir, gizliliğe önem veren,",
+  "Sorumluluk sahibi,",
+  "Düzenli ve planlı çalışabilen,",
+  "İnsan ilişkilerinde başarılı,",
+  "Sözlü ve yazılı ifade yeteneğine sahip,",
+  "Hukuki ve resmi yazışma kurallarına ilgili,",
+  "Zamanı etkili kullanabilen"
+ ],
+ "calisma_ortami": "Noter başkâtibi, kapalı ortamda, noterlik dairesi içinde masa başında çalışır. İş yoğunluğu genellikle evrak, dosya ve bilgisayar başında geçer; dikkat ve özen gerektiren resmi işlemlerin takibi, kayıt altına alınması ve sürelerin kaçırılmaması önemlidir. Çalışma saatleri genellikle resmi kurumların mesai saatleriyle paralel olmakla birlikte, iş hacmine bağlı olarak zaman zaman mesai uzayabilir.\n\nGörevi sırasında noter, noterlikte çalışan diğer kâtip ve personel, iş sahipleri (vatandaşlar), avukatlar ve resmi kurum çalışanlarıyla sürekli iletişim halindedir. İşlemlerin doğruluğu ve gizliliği konusunda yüksek sorumluluk taşıdığından, görev stresli ve yoğun bir çalışma temposu gerektirebilir.",
+ "egitim": {
+  "verildigi_yerler": "Noter başkâtipliği, örgün bir okul programı sonunda doğrudan kazanılan bir meslek değildir. Kişi önce noterlikte kâtip olarak göreve başlar; mesleki deneyim ve kıdem kazandıktan sonra, ilgili noterlik mevzuatında belirtilen şartları yerine getirerek başkâtipliğe yükselir. Hukuk, adalet, büro yönetimi ve sekreterlik gibi alanlardaki ortaöğretim veya ön lisans programları bu mesleğe hazırlık açısından destekleyici olabilir.",
+  "giris_kosullari": [
+   "En az lise ve dengi okul mezunu olmak",
+   "Noterlikte kâtip olarak göreve başlamak ve mesleki deneyim/kıdem kazanmak",
+   "Noterlik mevzuatında belirtilen genel şartları (örneğin iyi ahlak sahibi olmak, kamu haklarından mahrum olmamak gibi) taşımak",
+   "İyi derecede yazım, ifade ve bilgisayar kullanma becerisine sahip olmak"
+  ],
+  "sure_ve_icerik": "Noter başkâtipliği için belirli bir süreye bağlı, standart bir örgün eğitim programı bulunmamaktadır. Kişi noterlikte kâtip olarak işe başladıktan sonra noterlik işlemleri, ilgili kanun ve yönetmelikler, defter ve dosya düzeni, tahakkuk-tahsilat işlemleri, arşivleme ve resmi yazışma kurallarını işbaşında, usta-çırak ilişkisi içinde öğrenir. Mesleki deneyim ve kıdem kazandıkça, noterin ve ilgili mevzuatın belirlediği koşulları yerine getirerek başkâtipliğe yükselir. Ayrıca Halk Eğitim Merkezleri, İŞKUR ve çeşitli kuruluşların düzenlediği büro yönetimi, dosyalama-arşivleme, bilgisayar ve ofis programları kursları mesleki bilgi ve beceriyi geliştirmede destekleyici olabilir.",
+  "belge": "Örgün bir diploma veya sertifika programının sonunda verilen resmi bir belge bulunmamaktadır; başkâtiplik, mesleki deneyim ve kıdeme bağlı olarak kazanılan bir unvandır. Katılınan kurs ve eğitimler sonunda katılım/başarı sertifikası alınabilir."
+ },
+ "calisma_alanlari": "Noter başkâtibi, yalnızca noterlik dairelerinde (noter bürolarında) çalışır. Türkiye'nin her il ve ilçesindeki noterlik dairelerinde, noterin yönetimi ve gözetimi altında görev yapar. İş bulma olanağı, bulunulan bölgedeki noterlik sayısına, noterliklerin iş hacmine ve personel ihtiyacına bağlıdır. Mesleğe genellikle noterlikte kâtip olarak başlanır; deneyim ve kıdem kazanıldıktan sonra başkâtipliğe yükselme yoluyla bu unvana erişilir.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğe özgü örgün bir eğitim süreci bulunmadığından, kişi noterlikte kâtip olarak göreve başladığında noterlik tarafından ödenen ücretle kazanç sağlar; işe yeni başlayanlarda kazanç genellikle asgari ücret düzeyinde olabilir.",
+  "egitim_sonrasi": [
+   "Noter başkâtipleri, çalıştıkları noterlik ile aralarındaki iş sözleşmesi çerçevesinde ücret alırlar.",
+   "Kazanç düzeyi; çalışılan noterliğin iş hacmine, bulunduğu il/ilçeye, kişinin kıdemine, deneyimine ve bilgi birikimine göre değişebilir.",
+   "Deneyim ve kıdem arttıkça kazanç genellikle yükselme eğilimi gösterir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Noter kâtibi olarak göreve başlayanlar, mesleki deneyim ve kıdem kazandıkça, ilgili noterlik mevzuatında belirtilen şartları taşımaları halinde noter başkâtipliğine yükselebilirler. Ayrıca hukuk, adalet veya büro yönetimi gibi alanlarda açık öğretim ya da örgün ön lisans/lisans programlarına devam ederek mesleki bilgi birikimlerini artırabilirler.",
+  "is_hayatinda": "Deneyim kazandıkça daha yüksek iş hacmine sahip noterliklerde çalışma imkânı bulabilirler. Hukuk fakültesi mezunu olup ilgili şartları taşıyanlar, noterlik stajı ve ilgili sınav süreçlerini tamamlayarak noter adaylığına ve noterlik mesleğine geçiş yapabilirler."
+ },
+ "benzer_meslekler": [
+  "Noter Katibi",
+  "Hukuk Büro Yönetimi ve Sekreteri",
+  "Zabıt Katibi",
+  "İcra Katibi",
+  "İcra Memuru",
+  "Dava Takip Memuru",
+  "Adalet Meslek Elemanı"
+ ],
+ "ek_bilgiler": "Noterlik mesleği ve noterlik personelinin görev, yetki ve çalışma koşulları 1512 sayılı Noterlik Kanunu ve ilgili yönetmeliklerle düzenlenmektedir. Başkâtiplik, noterlikte kazanılan kıdeme ve mevzuatta belirtilen şartların yerine getirilmesine bağlı bir unvandır.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T13:33:41",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 7236
+  }
+ }
+}

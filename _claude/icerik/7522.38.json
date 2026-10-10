@@ -1,0 +1,80 @@
+{
+ "arac_gerec": [
+  "El rendesi ve elektrikli rende makinesi",
+  "Zımpara kağıdı ve zımpara makinesi (bantlı, titreşimli, eksantrik)",
+  "Freze ve şekillendirme makineleri",
+  "Testere (şerit testere, daire testere)",
+  "Matkap ve delik delme makineleri",
+  "Mengene, işkence ve sabitleme aparatları",
+  "Metre, gönye, pergel gibi ölçüm aletleri",
+  "Perdah bıçağı ve kazıma aletleri",
+  "Fırça ve temizlik bezleri",
+  "Kompresör ve basınçlı hava tabancası",
+  "Kenar bantlama aparatları",
+  "Keski ve çekiç gibi el aletleri",
+  "Kişisel koruyucu donanım (toz maskesi, gözlük, eldiven, kulaklık)"
+ ],
+ "genel_ozellikler": [
+  "El ve göz koordinasyonu gelişmiş,",
+  "El becerisine sahip,",
+  "Dikkatli ve sabırlı,",
+  "Estetik duyguya sahip,",
+  "Fiziksel olarak dayanıklı,",
+  "Alet ve makinelerle çalışmaktan hoşlanan,",
+  "Talimatlara uyan ve tedbirli,",
+  "Takım çalışmasına uyumlu,"
+ ],
+ "gorevler": [
+  "İşlenecek parçalar için kullanacağı ekipmanları hazırlar.",
+  "Elde ve makinede rendeleme yapar.",
+  "Elde ve makinede kesme yapar.",
+  "Elde ve makinede delik deler.",
+  "Elde ve makinede yüzey ve kenar şekillendirir.",
+  "Elde ve makinede birleştirme ve perdah yapar.",
+  "Kullanılan ekipmanların temizlik ve bakımını yapar.",
+  "Mesleği ile ilgili teknolojik gelişmeleri takip eder.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "calisma_ortami": "Perdah elemanları genellikle mobilya imalathaneleri, fabrikalar ve atölyeler gibi kapalı mekânlarda çalışır. Çalışma ortamı ahşap tozu ve talaş nedeniyle tozlu, kullanılan el ve makine ekipmanları nedeniyle de kısmen gürültülü olabilir; bu nedenle kişisel koruyucu donanım kullanımı önemlidir. İş genellikle ayakta ve belirli bir fiziksel güç gerektiren şekilde yürütülür.\n\nÇalışma saatleri işyerinin üretim programına göre değişebilir, yoğun sipariş dönemlerinde fazla çalışma gerekebilir. Perdah elemanı çalışma sırasında işyerindeki diğer mobilya üretim işçileri, ustabaşı ve işveren ile sürekli iletişim içindedir.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi, yeterli talep olması durumunda mesleki eğitim merkezlerinin ahşap/mobilya üretimine yönelik alan ve dallarında verilebilmektedir. Ayrıca bu meslek büyük ölçüde işbaşında, usta yanında çalışılarak; Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kurslarıyla da kazanılabilmektedir.",
+  "giris_kosullari": [
+   "Çıraklık eğitimine başlamak için en az ortaokul mezunu olmak",
+   "14 yaşını doldurmuş olmak",
+   "Sağlık durumunun mesleğin gerektirdiği işlere uygun olması",
+   "Eğitim görülecek işyeri bulup işveren ile çıraklık sözleşmesi imzalamak"
+  ],
+  "sure_ve_icerik": "Örgün mesleki eğitim merkezi yoluyla eğitime gidilmesi halinde eğitim süresi ilköğretim sonrası birkaç yılı kapsar; teorik genel bilgi ve meslek dersleri ile işyerinde usta öğreticinin gözetiminde yapılan pratik çalışmalardan oluşur. Meslek, eğitim düzeyi ilköğretim olarak belirlendiğinden, çoğu zaman kısa süreli kurslar ve işbaşında uygulamalı eğitimle de öğrenilebilmektedir.",
+  "belge": "Mesleki eğitim merkezi yoluyla eğitim alanlara kalfalık/ustalık belgesi verilir. Kurs yoluyla eğitim alanlara ise kurs bitirme/katılım belgesi düzenlenir. Mesleki Yeterlilik Kurumu (MYK) Mesleki Yeterlilik Belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Perdah elemanları başta ahşap mobilya imalathaneleri ve fabrikaları olmak üzere, küçük ve büyük ölçekli mobilya üretim işletmelerinde çalışabilirler. Deneyim kazandıktan sonra kendi atölyelerini açarak bağımsız olarak da çalışabilirler.",
+ "kazanc": {
+  "egitim_suresince": "Mesleki eğitim merkezi yoluyla çıraklık eğitimi alanlara, 3308 sayılı Mesleki Eğitim Kanunu kapsamında yasal düzenlemelerle belirlenen tutarlarda ücret ödenir ve iş kazası ile meslek hastalıklarına karşı sigorta primleri devletçe karşılanır. Kurs yoluyla eğitim alanlarda ücret genellikle söz konusu değildir.",
+  "egitim_sonrasi": [
+   "Yeni başlayanların kazancı genellikle asgari ücret düzeyindedir.",
+   "Deneyim, bilgi, çalışma kapasitesi ve işyerinin büyüklüğüne göre kazanç artabilir.",
+   "Kendi işyerini kuranların kazancı piyasadaki iş hacmine göre değişebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleki eğitim merkezinden mezun olanlar ustalık belgesi alabilir, fark derslerini tamamlayarak meslek lisesi diploması edinebilir ve çeşitli kurslara katılarak mesleki bilgi ve becerilerini geliştirebilirler.",
+  "is_hayatinda": "Deneyim kazandıkça usta, ustabaşı veya kalite kontrol sorumlusu gibi pozisyonlara yükselebilir, belirli üretim türlerinde uzmanlaşabilir ve bağımsız işyeri açabilirler."
+ },
+ "benzer_meslekler": [
+  "Perdah İşçisi (Elle) -Mobilya",
+  "Mobilya Üst Yüzey İşlemcisi",
+  "Ahşap Mobilya İmalatçısı",
+  "Kaplamacı-Ahşap",
+  "Diğer Mobilya İşçileri",
+  "Mobilya Montajcısı"
+ ],
+ "ek_bilgiler": "Çalışma ortamındaki ahşap tozu nedeniyle kişisel koruyucu donanım kullanımı önem taşır. Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda tercih sebebi olabilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T07:59:29",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 4318
+  }
+ }
+}

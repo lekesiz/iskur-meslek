@@ -1,0 +1,84 @@
+{
+ "arac_gerec": [
+  "Gaz dolum ve vakumlama makinesi",
+  "Gaz tüpleri ve tüp bağlantı rakorları",
+  "Vakum pompası, basınç ve vakum göstergeleri",
+  "Bağlantı hortumları ve aparatları",
+  "Kesici kutuplar (yüksek gerilim enerji hücresi parçaları)",
+  "Gaz kaçak dedektörü/sızdırmazlık test cihazı",
+  "Tartı/ölçüm sistemi (dolum miktarı kontrolü için)",
+  "El aletleri (anahtar takımı, tornavida vb.)",
+  "Dolum ve kontrol formları, kayıt belgeleri",
+  "Kişisel koruyucu donanım (eldiven, koruyucu gözlük, iş elbisesi)"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve tedbirli,",
+  "El ve gözünü eşgüdümle kullanabilen,",
+  "Makine ve teknik aletlerle çalışmaktan hoşlanan,",
+  "Sorumluluk sahibi ve talimatlara uyan,",
+  "Fiziksel olarak sağlıklı,",
+  "Takım çalışmasına uyumlu,",
+  "İş güvenliği kurallarına duyarlı,"
+ ],
+ "calisma_ortami": "Kutup Gaz Dolum Elemanları (Kesici), genellikle yüksek gerilim enerji hücreleri, şalt cihazları ve kesici üretimi yapılan fabrika ve montaj atölyelerinde, kapalı mekânlarda çalışır. Çalışma ortamı büyük ölçüde makine ve ekipmanla çevrili olup, basınçlı gaz tüpleri ve dolum makineleriyle temas gerektirir; bu nedenle ortamın iyi havalandırılması ve iş güvenliği kurallarına titizlikle uyulması önemlidir. Görev, kısmen ayakta ve dikkat gerektiren işlemlerle yürütülür.\n\nMeslek elemanları çalışma süresince ustabaşı, kalite kontrol personeli ve diğer montaj çalışanlarıyla iş birliği içinde bulunur. Çalışma saatleri genellikle işletmenin vardiya düzenine göre belirlenir.",
+ "egitim": {
+  "verildigi_yerler": "Bu mesleğe özgü, örgün eğitimde doğrudan karşılığı olan bir program bulunmamaktadır. Gerekli bilgi ve beceriler genellikle işletme içinde işbaşında usta/teknisyen gözetiminde, ayrıca Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kurslarıyla kazanılır. Elektrik-elektronik teknolojisi alanındaki mesleki ve teknik eğitim programları temel elektrik bilgisi sağlayarak bu mesleğe hazırlık niteliği taşıyabilir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "Mesleğin gerektirdiği fiziksel ve sağlık koşullarına sahip olmak",
+   "İşe alınacağı işletmenin belirlediği yaş ve sağlık şartlarını taşımak"
+  ],
+  "sure_ve_icerik": "Mesleğe özgü standart bir eğitim süresi ve müfredat bulunmamaktadır. İşe yeni başlayanlar, deneyimli bir usta veya teknisyen gözetiminde işbaşı eğitimi alarak gaz dolum makinesinin kullanımını, kutup tiplerine göre dolum parametrelerini, iş güvenliği kurallarını ve kalite kontrol prosedürlerini öğrenir. Bu süreç işletmeden işletmeye değişmekle birlikte genellikle birkaç hafta ile birkaç ay arasında sürebilir.",
+  "belge": "Örgün eğitim sonunda diploma niteliğinde bir belge verilmemektedir. İşletme içi eğitim sonunda çalışma yeterliliğini gösteren işletme belgesi veya katılınan kurslara ilişkin katılım belgesi alınabilir. Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Kutup Gaz Dolum Elemanları (Kesici), genellikle yüksek gerilim enerji hücreleri, şalt cihazları, kesici ve trafo gibi elektrik ekipmanlarının üretildiği fabrika ve montaj atölyelerinde istihdam edilir. Elektrik-elektronik sanayinin yoğun olduğu illerde ve organize sanayi bölgelerinde iş bulma olanağı daha fazladır.",
+ "kazanc": {
+  "egitim_suresince": "İşletme bünyesinde işbaşı eğitimi gören adaylara, çalıştıkları işletmenin uygulamalarına göre genellikle asgari ücret düzeyinde bir ödeme yapılır.",
+  "egitim_sonrasi": [
+   "Özel sektörde çalışanların kazancı asgari ücret düzeyinden başlar; işyerinin büyüklüğü, kişinin deneyimi, bilgisi ve sektördeki ücret düzeyine göre değişebilir.",
+   "Kamu kuruluşlarına bağlı işletmelerde işçi statüsünde çalışanların ücreti ilgili toplu iş sözleşmesi hükümlerine göre belirlenir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Bu meslekte örgün bir ilerleme basamağı bulunmamaktadır. Çalışanlar, işletme içi eğitimler, Halk Eğitim Merkezi ve İŞKUR kurslarına katılarak bilgi ve becerilerini geliştirebilir; isteyen ve koşulları uyan kişiler açık öğretim yoluyla eğitim düzeyini yükseltebilir.",
+  "is_hayatinda": "Deneyim kazandıkça ekip sorumluluğu veya ustabaşılık gibi görevlere, ayrıca bakım-onarım veya kalite kontrol gibi ilişkili görevlere yönelebilirler."
+ },
+ "benzer_meslekler": [
+  "Kesici Ön Montaj İşçisi (Trafo)",
+  "Kesici ve Bara Montaj Elemanı (Trafo)",
+  "Ayırıcı Test ve Montaj Elemanı (Trafo)",
+  "Yüksek Gerilim Trafo Montaj İşçisi",
+  "Alçak Gerilim Şalt Cihazları İmalat İşçisi",
+  "Elektrik Pano Montaj İşçisi"
+ ],
+ "ek_bilgiler": "Bu meslekte kullanılan gazın (genellikle kükürt hekzaflorür - SF6) kapalı ortamda yüksek konsantrasyonda havayı yer değiştirerek boğucu etki yaratabilmesi nedeniyle çalışma ortamının iyi havalandırılması ve iş sağlığı ve güvenliği kurallarına titizlikle uyulması önemlidir.",
+ "gorevler": [
+  "Gaz dolumu yapılacak kutup tiplerini tespit eder.",
+  "Tanımlı gaz tüpünü kullanıma hazırlar.",
+  "Gaz dolum makinesini açar ve dolum yapılacak kutup tipine göre tanımlı vakum değerlerini makineye girer.",
+  "Kesici kutupları dolum işlemine hazırlar.",
+  "Dolum makinesi ile kutup arasındaki bağlantıyı yapar.",
+  "Kutup tipine uygun dolum programını makineye tanıtır.",
+  "Bağlantı aparatları ve makine hazır hale geldiğinde makinenin şalterini açarak işlemi başlatır.",
+  "Makinenin vakumlama ve gaz doldurma işlemini takip ve kontrol eder.",
+  "Dolum işlemi bitince kutup içine yapılan dolum miktarını kontrol eder.",
+  "Gaz kaçağı olup olmadığını kontrol eder.",
+  "Tanımlanan değerlerde dolmayan kutupları ayırarak dolum işlemini tekrarlar.",
+  "İşlemler bittiğinde makineyi kapatır.",
+  "Dolumu tamamlanan kutuplardan bağlantı aparatlarını söker.",
+  "Dolum işlemi ile ilgili formları doldurur.",
+  "Dolum işlemleri süresince gaz tüpünün seviyesini ilgili göstergelerden kontrol eder.",
+  "Biten tüpleri dolusuyla değiştirir.",
+  "Çalıştığı alanın genel tertip ve düzenini sağlar.",
+  "İş sağlığı ve güvenliği ile ilgili kurallara uyar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T17:49:52",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6525
+  }
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "arac_gerec": [
+  "Kazma, kürek, balyoz",
+  "Anahtar takımı",
+  "Demir testeresi",
+  "Delici/kırıcı makine",
+  "Kriko, halat ve zincir takımları",
+  "Kişisel koruyucu donanım (baret, maske, kafa lambası, eldiven, iş ayakkabısı, oksijenli ferdi kurtarıcı)",
+  "Yer altı telefonu ve telsizi",
+  "Metre, el aletleri",
+  "Tahkimat malzemeleri (direk, bulon, hasır vb.)",
+  "Nakliyat/taşıma ekipmanları (bant, vagon, konveyör bağlantı parçaları)"
+ ],
+ "benzer_meslekler": [
+  "Tamir Tarama Sökümcüsü",
+  "Tahkimatçı-Maden Ocağı",
+  "Yeraltı Hazırlık İşçisi (Madencilik ve Maden Çıkarma)",
+  "İhrazat İşçisi",
+  "Yeraltı Müteferrik İşçisi",
+  "Yeraltı Nakliyat İşçisi"
+ ],
+ "calisma_alanlari": "Tamir Tarama Söküm İşçisi, yer altında kömür ve diğer madenlerin üretildiği işletmelerde çalışır. Üretimi tamamlanmış veya terk edilmiş galeri ve panolardaki tahkimat, tesisat ve ekipmanın sökülmesi (söküm), kullanılabilir galerilerin temizlenip açıklığının korunması (tarama) ve bozulan tahkimat, tesisat ile ekipmanın onarılması (tamir) işlerinin yapıldığı bölümlerde görev alır. Bu meslek elemanları genellikle kamuya bağlı maden işletmelerinde (örneğin Türkiye Taşkömürü Kurumu gibi kurumlarda) ve özel sektöre ait yer altı maden işletmelerinde istihdam edilmektedir.",
+ "calisma_ortami": "Tamir Tarama Söküm İşçisi, yer altında gazlı (metan, karbonmonoksit, karbondioksit, hidrojen sülfür gibi), tozlu, nemli, ıslak, dar, yetersiz aydınlatılmış ve gürültülü ortamlarda çalışır. Çalışma alanının zemini bozuk ve eğimli olabilir; iş genellikle ayakta, eğilerek ve bedensel güç gerektiren hareketlerle yürütülür. Amirinin gözetiminde ve bir ekip hâlinde çalışır; iş sağlığı ve güvenliği kuralları ile kişisel koruyucu donanımların eksiksiz kullanılması büyük önem taşır.\n\nÇalışma saatleri genellikle vardiyalı sistemle düzenlenir ve çalışılan işletmenin üretim programına göre dönüşümlü vardiyalar uygulanabilir. Çalışma sırasında galeri açma makinesi operatörü, nakliyat işçisi, tahkimatçı, ateşleyici, elektrik işçisi ve nezaretçi gibi diğer yer altı meslek elemanlarıyla yakın iş birliği içinde bulunur.",
+ "ek_bilgiler": "Yer altı maden işleri, iş sağlığı ve güvenliği mevzuatına göre çok tehlikeli işler sınıfında yer almaktadır; bu nedenle Mesleki Yeterlilik Kurumu (MYK) tarafından yayımlanan tebliğler kapsamında bazı yer altı maden mesleklerinde MYK Mesleki Yeterlilik Belgesi zorunlu tutulmuş olup, bu mesleği yapacak kişiler için de ilgili belgenin güncel mevzuat çerçevesinde araştırılması önerilir. Ayrıca iş kanunu uyarınca yer altı işlerinde 18 yaşını doldurmamış kişiler ile kadın işçiler çalıştırılamaz ve yer altında çalışacak kişilerin ağır ve tehlikeli işlerde çalışabileceğine dair sağlık raporuna sahip olması gerekir.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi, büyük ölçüde işbaşında usta yanında uygulamalı olarak kazanılır. Bunun yanında Halk Eğitim Merkezleri ile İŞKUR'un açtığı yer altı madencilik alanına yönelik mesleki eğitim kurslarında da ilgili bilgi ve beceriler verilebilmektedir.",
+  "giris_kosullari": [
+   "En az ilkokul/ilköğretim mezunu olmak",
+   "18 yaşını doldurmuş olmak",
+   "Yer altında ağır ve tehlikeli işlerde çalışabileceğine dair sağlık raporuna sahip olmak",
+   "Kapalı ve dar alanlarda çalışmaya engel bir durumunun bulunmaması"
+  ],
+  "sure_ve_icerik": "Resmî olarak standart bir örgün eğitim programı bulunmamaktadır. Eğitim süresi ve içeriği, verildiği kuruma göre değişmekle birlikte genellikle iş sağlığı ve güvenliği, yer altı çalışma ortamı, tahkimat bilgisi, galeri tamir-tarama-söküm teknikleri ve kullanılan araç-gereçlerin tanıtımı gibi konuları kapsar. İşe başlayan kişi, bir süre deneyimli bir usta veya nezaretçi gözetiminde işbaşı eğitimi alarak mesleği öğrenir.",
+  "belge": "Kurs yoluyla eğitim alanlara kurs bitirme belgesi verilir. Ayrıca işe başlamadan önce işveren tarafından iş sağlığı ve güvenliği eğitim belgesi alınması sağlanır."
+ },
+ "genel_ozellikler": [
+  "Ekip çalışmasına uygun,",
+  "Dikkatli ve tedbirli,",
+  "Fiziksel olarak güçlü ve dayanıklı,",
+  "Kapalı, dar ve kısıtlı alanlarda çalışmaya uygun,",
+  "Sorumluluk sahibi ve kurallara uyan,",
+  "El ve beden becerisine sahip,",
+  "Talimatları doğru uygulayabilen,",
+  "Soğukkanlı ve tehlikeli durumlara karşı tedbirli"
+ ],
+ "gorevler": [
+  "İş yeri kalite, çevre, iş sağlığı ve güvenliği çalışmalarını destekler.",
+  "Günlük iş planı yapar.",
+  "Tamir yapar.",
+  "Tarama yapar.",
+  "Söküm yapar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğin resmî olarak tanımlanmış kademeli bir örgün eğitim basamağı bulunmamaktadır. Çalışan kişi, deneyim kazandıkça iş başında daha ileri uygulamalı eğitimlere ve ilgili kurs/sertifika programlarına yönlendirilebilir.",
+  "is_hayatinda": "Mesleki tecrübe, bilgi birikimi ve yeteneklerine bağlı olarak usta, posta başı veya ekip lideri gibi görevlere, ileri aşamada ise nezaretçilik ve formenlik gibi pozisyonlara ilerleyebilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Eğitim işbaşında usta yanında yapılıyorsa genellikle işletmenin belirlediği bir eğitim/çıraklık ödemesi söz konusu olabilir; kurs yoluyla alınan eğitimlerde ise ayrıca bir ücret ödenmez.",
+  "egitim_sonrasi": [
+   "Kamuya bağlı maden işletmelerinde çalışanlar 657 sayılı Devlet Memurları Kanunu kapsamında değil, işçi statüsünde istihdam edilir ve ücretleri toplu iş sözleşmesi hükümlerine göre belirlenir.",
+   "Özel sektörde ücret, işletmenin büyüklüğüne, deneyime ve karşılıklı anlaşmaya göre değişmekle birlikte yeni başlayanlar için genellikle asgari ücret düzeyinde başlar.",
+   "Yer altı maden işlerinde çalışanların günlük ve haftalık çalışma süreleri ile ücretlerine ilişkin yasal düzenlemeler bulunmaktadır; bu nedenle yer altı maden çalışanlarının ücreti, yer üstünde aynı işi yapan çalışanlara göre genellikle daha yüksektir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T10:19:34",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6679
+  }
+ }
+}

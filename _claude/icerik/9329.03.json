@@ -1,0 +1,79 @@
+{
+ "arac_gerec": [
+  "Kişisel koruyucu donanım (baret, iş elbisesi, koruyucu gözlük, eldiven, maske, kulaklık, iş ayakkabısı)",
+  "Temizlik malzeme ve ekipmanları (fırça, bez, süpürge, basınçlı hava/su tabancası)",
+  "Yağlama ekipmanları (yağdanlık, gres pompası, yağlama tabancası)",
+  "El takımları (anahtar takımı, tornavida, pense, çekiç)",
+  "Ürün ve hammadde numunesi alma kapları/torbaları",
+  "Saha içi haberleşme cihazları (telsiz, el telefonu)",
+  "Basınç, sıcaklık ve seviye gösterge/ölçüm aletleri",
+  "Taşıma ve kaldırma ekipmanları (el arabası, vinç kumandası)",
+  "Arıza ve kontrol kayıt formları/raporlar",
+  "Temizlik ve bakım programı takip çizelgeleri"
+ ],
+ "benzer_meslekler": [
+  "Meydancı - Dökümhane",
+  "Meydancı - İmalat",
+  "Malzeme Taşıyıcısı",
+  "Metal Yıkama Yağlama İşçisi"
+ ],
+ "calisma_alanlari": "Çimento üretim yardımcı elemanları, çimento fabrikalarının üretim sahalarında (döner fırın, değirmen, konkasör, stok sahası, paketleme üniteleri vb. bölümlerde) istihdam edilir. Ülkemizde çimento sektörünün hammadde kaynaklarına yakın bölgelerde (özellikle Anadolu'nun farklı illerinde kurulu fabrikalarda) yoğunlaştığı görülmektedir. Benzer nitelikteki beceriler hazır beton, kireç, alçı ve benzeri hammadde işleme tesislerinde de kullanılabildiğinden, bu meslek elemanları ilgili sektörlerde de iş bulabilmektedir. İş bulma olanağı, sektördeki üretim kapasitesi ve yatırımların durumuna göre değişkenlik gösterebilir.",
+ "calisma_ortami": "Çimento üretim yardımcı elemanı, fabrika sahasında hem kapalı hem açık alanlarda, döner fırın, değirmen, konkasör, stok sahası ve paketleme üniteleri gibi farklı bölümlerde çalışır. Çalışma ortamı genellikle tozlu, gürültülü ve sıcaktır; yüksekte çalışma, hareketli makine ve ekipmanlara yakın çalışma gibi riskler bulunabilir. Bu nedenle kişisel koruyucu donanım kullanımı önemlidir.\n\nÇalışma genellikle vardiya usulüyle (gündüz/gece, hafta sonu dâhil) sürdürülür; üretim sürekliliği gerektiren bir sektör olması nedeniyle çalışma saatleri düzensiz olabilir. Görevini çoğunlukla ekip halinde yürütür; makine operatörleri, teknisyenler, bakım-onarım ekipleri ve vardiya amirleriyle sürekli iletişim ve koordinasyon içindedir.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin örgün bir eğitim programı (meslek lisesi alanı/dalı) bulunmamaktadır. Meslek, genellikle işyerlerinde işbaşında usta/vardiya sorumlusu gözetiminde uygulamalı olarak öğrenilir. Ayrıca Halk Eğitim Merkezleri ile Türkiye İş Kurumunun (İŞKUR) açtığı mesleki eğitim kursları kapsamında iş sağlığı ve güvenliği, temel makine ve bakım bilgisi gibi konularda kısa süreli eğitimler alınabilmektedir. Çimento üretimi yapan işletmeler de çoğunlukla kendi bünyelerinde yeni işe başlayanlara oryantasyon ve işbaşı eğitimi verir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "İşin gerektirdiği fiziksel koşullara uygun olduğunu gösteren sağlık raporuna sahip olmak",
+   "18 yaşını doldurmuş olmak (işin ağır ve tehlikeli iş kapsamında değerlendirilebilecek yönleri nedeniyle)"
+  ],
+  "sure_ve_icerik": "Belirli bir süresi ve müfredatı olan örgün bir eğitim programı bulunmamaktadır. İşe alınan kişi, deneyimli usta işçi veya vardiya sorumlusunun gözetiminde, işbaşında uygulamalı olarak saha kontrolü, temizlik, yağlama ve basit arıza tespiti gibi görevleri öğrenir. Bu süreç, kişinin yeteneğine ve işletmenin uygulamasına göre değişmekle birlikte genellikle birkaç haftadan birkaç aya kadar sürebilir.",
+  "belge": "Örgün bir diploma veya meslek belgesi bulunmamaktadır. Katılınan iş sağlığı ve güvenliği ile mesleki eğitim kurslarından katılım/eğitim belgesi alınabilir. Mesleki Yeterlilik Kurumu (MYK) Mesleki Yeterlilik Belgesi, ilgili alanda varsa, istihdamda tercih sebebi olabilir."
+ },
+ "ek_bilgiler": "Çimento üretim sahasında yapılan işler, kullanılan ağır ekipman, yükseklik ve toz gibi etkenler nedeniyle riskli iş kolları arasında değerlendirilebilir; bu nedenle çalışanların periyodik sağlık muayenesinden geçmesi ve kişisel koruyucu donanımı eksiksiz kullanması önem taşır.",
+ "genel_ozellikler": [
+  "Fiziksel olarak güçlü ve dayanıklı",
+  "Dikkatli ve sorumluluk sahibi",
+  "El ve beden becerisine sahip",
+  "Takım çalışmasına uygun",
+  "Talimatları doğru anlayıp uygulayabilen",
+  "Vardiyalı ve düzensiz çalışma saatlerine uyum sağlayabilen",
+  "Toz, gürültü ve sıcak gibi zorlu ortam koşullarına dayanıklı",
+  "İş sağlığı ve güvenliği kurallarına duyarlı"
+ ],
+ "gorevler": [
+  "İş sağlığı ve güvenliği, yangın ve acil durum kurallarını uygular.",
+  "Kalite yönetim sistemi ile ilgili faaliyetleri yürütür.",
+  "İş organizasyonu yapar.",
+  "Döner fırınlar, konkasör/kırıcı ve ezici sistemler, hammadde ocakları, farin, kömür ve çimento değirmenleri, siklonlar, soğutma ve kurutma üniteleri, gezer vinç ve hatları, stok sahaları, ön homojene sistemler, paketleme üniteleri gibi donanım, sistem ve ünitelerde görevleri kapsamındaki kontrolleri yapar, makineleri temizler ve yağlar, çalışma alanlarını temizler.",
+  "Saha kontrol çalışmalarına katkıda bulunur.",
+  "Sahadaki makinelerin ve hatların işlevsellik izlemesini yapar.",
+  "Arıza bildiriminde bulunur.",
+  "Paketleme bilgilerinin doğruluğunu kontrol eder.",
+  "Sahayı/sistemi bakım-onarıma hazırlar.",
+  "Cihaz ve sistemlerin revizyonlarına katkıda bulunur.",
+  "Ürün ve hammadde numunesi alır.",
+  "Temizlik ve yağlama programını izler.",
+  "Sistem ve donanımların temizliğini ve yağlamalarını yapar.",
+  "Mesleki gelişim faaliyetlerine katılır."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğin örgün bir ilerleme basamağı bulunmamaktadır. Kişi isterse ilgili mesleki ve teknik eğitim kurumlarına (meslek liseleri, meslek yüksekokullarının makine, mekatronik, metalurji gibi ilgili bölümleri) yönelerek kendini geliştirebilir ve daha nitelikli unvanlara geçiş için eğitim düzeyini yükseltebilir.",
+  "is_hayatinda": "Deneyim ve bilgi birikiminin artmasıyla birlikte makine operatörlüğü, bakım-onarım elemanlığı veya vardiya sorumluluğu gibi daha nitelikli görevlere yükselme imkânı bulunur. İlerleme, kişinin performansına ve işletmenin terfi uygulamalarına bağlıdır."
+ },
+ "kazanc": {
+  "egitim_suresince": "Mesleğin örgün bir eğitim süreci bulunmadığından kişi genellikle doğrudan işe alınarak çalışmaya başlar. İşe alım sürecinde varsa deneme süresi ücreti, işveren ile yapılan iş sözleşmesi hükümlerine göre belirlenir.",
+  "egitim_sonrasi": [
+   "Yeni başlayanlarda kazanç genellikle asgari ücret düzeyindedir.",
+   "Kamu iktisadi teşekküllerine bağlı işletmelerde çalışanlar işçi statüsünde olup toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde kazanç; işletmenin büyüklüğü, çalışanın deneyimi ve sektördeki ücret düzeyine göre değişebilir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T20:05:38",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6277
+  }
+ }
+}

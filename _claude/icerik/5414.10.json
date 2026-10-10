@@ -1,0 +1,80 @@
+{
+ "arac_gerec": [
+  "Telsiz ve kişisel iletişim cihazları",
+  "Kurşun geçirmez yelek",
+  "Güvenlik kameraları ve izleme sistemleri",
+  "Metal dedektörü ve güvenlik tarama cihazları",
+  "GPS ve konum takip cihazları",
+  "Koruma/eskort aracı",
+  "İlk yardım çantası",
+  "Kelepçe",
+  "El feneri",
+  "Kişisel savunma ve müdahale ekipmanları",
+  "Ruhsatlı ateşli silah (silahlı görevlendirme durumunda)",
+  "Kulaklıklı iletişim seti (kulak mikrofonu)"
+ ],
+ "genel_ozellikler": [
+  "Güvenilir ve gizliliğe önem veren,",
+  "Dikkatli, tetikte ve iş ayrıntılarına özen gösteren,",
+  "Fiziksel olarak güçlü, dayanıklı ve çevik,",
+  "Ani gelişen olaylar karşısında hızlı ve doğru karar verebilen,",
+  "Olaylar karşısında sakin ve soğukkanlı davranabilen,",
+  "Sorumluluk sahibi ve disiplinli,",
+  "İyi bir gözlem ve analiz yeteneğine sahip,",
+  "Takım çalışmasına ve talimatlara uyuma yatkın,"
+ ],
+ "gorevler": [
+  "Korunacak kişi hakkında ön bilgi alır,",
+  "Gelebilecek olan muhtemel tehditler hakkında önlemler alır,",
+  "Diğer koruma görevlileri ile irtibatta olur,",
+  "Korunan kişi açık alanda iken sürekli gözetleme yapar,",
+  "Araç takiplerinde eşlik eder,",
+  "Gerektiğinde yakın koruma tekniklerini kullanır,",
+  "Olası bir saldırıda korunan kişiyi korur,",
+  "Koruma için istihbarat toplar, toplanan istihbaratı değerlendirir,",
+  "Gerektiğinde kolluk kuvvetlerine bilgi verir,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "calisma_ortami": "Yakın koruma görevlisi, korunan kişinin bulunduğu ortama göre açık veya kapalı alanlarda; yaya, araçlı ya da seyir halinde görev yapar. İş adresleri, ikametgâh, toplantı salonları, havalimanları, otel ve sosyal etkinlik mekânları gibi çok farklı ortamlarda bulunabilir. Çalışma saatleri düzensizdir; korunan kişinin programına bağlı olarak gece-gündüz, hafta sonu ve tatil günlerinde, bazen uzun süre ayakta ve dikkatini yüksek düzeyde tutarak görev yapması gerekir.\n\nMeslek, yüksek düzeyde stres ve fiziksel risk içerebilir; ani ve beklenmedik durumlara hızlı tepki vermeyi gerektirir. Görevli, birincil olarak korumakla yükümlü olduğu kişiyle, ekip arkadaşı diğer koruma görevlileriyle, güvenlik koordinatörleriyle ve gerektiğinde kolluk kuvvetleriyle yakın ilişki içindedir. Seyahat gerektiren görevlerde uzun süre evden uzak kalınabilir.",
+ "egitim": {
+  "verildigi_yerler": "Yakın koruma hizmetine özgü, bağımsız bir örgün diploma/ön lisans programı bulunmamaktadır. Meslek eğitimi, İl Emniyet Müdürlüklerince yetkilendirilmiş özel güvenlik eğitim kurumlarında verilen Özel Güvenlik Temel Eğitimi (silahsız/silahlı) üzerine, bu alanda uzmanlaşmış kurumların düzenlediği yakın koruma teknikleri kurslarıyla tamamlanır. Ayrıca Halk Eğitim Merkezleri ve bazı özel kuruluşlar bünyesinde dövüş sporları, ilk yardım ve risk yönetimi gibi tamamlayıcı kurslara katılım yaygındır.",
+  "giris_kosullari": [
+   "Türk vatandaşı olmak ve 5188 sayılı Özel Güvenlik Hizmetlerine Dair Kanun'da belirtilen özel güvenlik görevlisi olma şartlarını taşımak",
+   "18 yaşını doldurmuş olmak",
+   "En az ilköğretim mezunu olmak; özel sektörde yakın koruma görevi için işverenler genellikle en az lise mezuniyetini tercih sebebi sayar",
+   "Görevin gerektirdiği fiziksel ve psikolojik sağlık koşullarına sahip olmak, güvenlik soruşturmasının olumlu sonuçlanması",
+   "Silahlı görev yapabilmek için ayrıca ilgili ek şartları taşımak ve arşiv araştırmasından geçmek"
+  ],
+  "sure_ve_icerik": "Özel Güvenlik Temel Eğitimi, yetkilendirilmiş eğitim kurumlarında belirli saatlik teorik ve uygulamalı derslerden oluşur; silah kullanımı, hukuk bilgisi, ilk yardım, iletişim ve temel koruma teknikleri konularını kapsar. Bu temel eğitime ek olarak yakın koruma alanında uzmanlaşmak isteyenler; ileri düzey yakın koruma teknikleri, risk analizi, VIP koruma protokolleri, kendini savunma/dövüş sporları ve araçlı koruma gibi konularda özel kurslara ve sertifika programlarına katılır. Bu tamamlayıcı eğitimlerin süresi ve içeriği kurumdan kuruma değişiklik gösterebilir.",
+  "belge": "Özel Güvenlik Temel Eğitimini tamamlayanlara Emniyet Genel Müdürlüğü onaylı Özel Güvenlik Kimlik Kartı, katıldıkları ek kurslar sonunda ise ilgili kurumdan kurs bitirme/katılım sertifikası verilir."
+ },
+ "calisma_alanlari": "Yakın koruma görevlileri, çoğunlukla özel güvenlik şirketleri bünyesinde iş insanları, sanatçılar, sporcular, siyasetçiler ve diğer tanınmış/önemli kişilerin (VIP) korunması amacıyla istihdam edilir. Büyük şirket yöneticilerinin kişisel korumasında, yabancı misyon temsilciliklerinde, önemli toplantı ve organizasyonlarda geçici görevlendirmelerde çalışabilirler. Bazı durumlarda doğrudan korunacak kişi veya ailesi tarafından özel olarak istihdam edilirler. Sektördeki talep, güvenlik ihtiyacı duyan bireylerin ve kurumların sayısındaki artışa bağlı olarak şekillenir; deneyim, referans ve güvenilirlik bu alanda iş bulmada belirleyici rol oynar.",
+ "kazanc": {
+  "egitim_suresince": "Özel Güvenlik Temel Eğitimi ve yakın koruma kurslarına katılanlar bu süre zarfında genellikle bir gelir elde etmez; bazı kurumlar kurs ücreti talep ederken bazı işverenler çalıştıracakları personelin eğitim masraflarını karşılayabilir.",
+  "egitim_sonrasi": [
+   "Özel sektörde yeni göreve başlayanların kazancı genellikle asgari ücret düzeyinde başlar; korunan kişinin statüsü, görevin risk düzeyi, deneyim ve işverenle yapılan anlaşmaya göre bu tutar önemli ölçüde artabilir.",
+   "Kamuda bu mesleğe özgü ayrı bir kadrolu istihdam yaygın değildir; bazı kamu kurum ve kuruluşlarında benzer koruma görevlerini yürütenler 657 sayılı Devlet Memurları Kanunu veya işçi statüsünde ise ilgili toplu iş sözleşmesi hükümlerine tabi olarak ücret alır."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Meslekte ilerlemek isteyenler; ileri düzey yakın koruma teknikleri, silah kullanımı, istihbarat ve risk analizi, yabancı dil, ilk yardım ve kriz yönetimi gibi konularda ek kurs ve sertifika programlarına katılarak uzmanlaşabilir. Mesleki Yeterlilik Kurumu (MYK) tarafından düzenlenen ilgili güvenlik alanı belgeleri istihdamda tercih sebebi olabilir.",
+  "is_hayatinda": "Deneyim ve performansına bağlı olarak koruma ekibi lideri, koruma amiri/sorumlusu, güvenlik koordinatörü veya güvenlik müdürü gibi yönetici pozisyonlarına yükselebilir. Yeterli sermaye ve deneyime sahip olanlar kendi özel güvenlik/koruma danışmanlık şirketini kurabilir."
+ },
+ "benzer_meslekler": [
+  "Özel Güvenlik Görevlisi (Silahlı)",
+  "Özel Güvenlik Görevlisi (Silahsız)",
+  "Özel Güvenlik ve Koruma Meslek Elemanı",
+  "Savunma ve Güvenlik Meslek Elemanı",
+  "Güvenlik Amiri/Sorumlusu",
+  "Vardiya Amiri - Güvenlik Hizmetleri"
+ ],
+ "ek_bilgiler": "Yakın koruma faaliyeti, 5188 sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve ilgili mevzuat çerçevesinde yürütülür; silahlı görev yapabilmek için kanunda öngörülen ek şartların karşılanması ve ilgili ruhsatın alınması gerekir. Meslek, fiziksel risk ve stres içerebileceğinden adayların sağlık ve fiziksel uygunluk koşullarını taşıması, güvenlik soruşturmasından geçmesi önem taşır. Yabancı dil bilgisi, uluslararası düzeyde korunan kişilerle çalışma imkânı açısından avantaj sağlayabilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T19:54:32",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6128
+  }
+ }
+}

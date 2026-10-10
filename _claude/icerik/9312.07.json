@@ -1,0 +1,78 @@
+{
+ "arac_gerec": [
+  "Kürek, kazma, balyoz, çekiç gibi el aletleri",
+  "Mala, tırmık, el arabası",
+  "Asfalt yama malzemeleri ve kaplama gereçleri",
+  "Beton, harç ve dolgu malzemeleri",
+  "Kanal ve menfez temizleme aletleri",
+  "Trafik uyarı levhaları, koni ve bariyerler",
+  "Yol korkuluğu montaj malzemeleri ve el takımları",
+  "Kompaktör/tokmak gibi sıkıştırma ekipmanları",
+  "Kamyon, kamyonet gibi taşıma araçları",
+  "Baret, iş eldiveni, reflektörlü yelek, iş ayakkabısı gibi kişisel koruyucu donanımlar",
+  "Temizlik ve ot kesme ekipmanları"
+ ],
+ "genel_ozellikler": [
+  "Fiziksel olarak güçlü ve dayanıklı,",
+  "Açık havada ve değişken hava koşullarında çalışmaya uygun,",
+  "El ve beden becerisine sahip,",
+  "Dikkatli ve tedbirli,",
+  "Takım halinde çalışmaya uyumlu,",
+  "Trafik ve iş güvenliği kurallarına duyarlı,",
+  "Sorumluluk sahibi,",
+  "Emir ve talimatlara uyabilen"
+ ],
+ "calisma_ortami": "Karayolu bakım işçisi, genellikle açık havada, şehir içi veya şehirlerarası karayolları üzerinde görev yapar. Çalışma ortamı mevsim koşullarına bağlı olarak sıcak, soğuk, yağmurlu veya tozlu olabilir; trafiğe açık yol kenarında çalışma nedeniyle dikkat ve iş güvenliği önlemleri büyük önem taşır. İş genellikle eğilme, kazma, taşıma gibi bedensel güç gerektiren hareketlerle yürütülür.\n\nMeslek elemanı çoğunlukla ekip halinde çalışır; yol ustası, şef ve diğer bakım işçileriyle sürekli iletişim halindedir. Kaza, afet veya olumsuz hava koşulları nedeniyle acil müdahale gerektiren durumlarda mesai saatleri dışında da çalışma söz konusu olabilir.",
+ "egitim": {
+  "verildigi_yerler": "Karayolu bakım işçiliği için örgün eğitim sisteminde ayrı bir meslek lisesi alanı veya çıraklık programı bulunmamaktadır. Mesleğe giriş genellikle iş başında usta yanında yetişme yoluyla olur. Halk Eğitim Merkezleri ve İŞKUR tarafından açılan mesleki eğitim kurslarında da temel bilgi ve beceriler kazandırılabilir.",
+  "giris_kosullari": [
+   "İlköğretim mezunu olmak",
+   "Fiziksel olarak açık hava koşullarında çalışmaya ve bedensel güç gerektiren işleri yapmaya uygun olmak",
+   "Sağlık durumunun mesleğin gerektirdiği çalışmaya elverişli olması"
+  ],
+  "sure_ve_icerik": "Mesleğin belirli bir süre ve müfredata sahip resmi bir eğitim programı bulunmamaktadır. Kişi işe başladığında deneyimli ustaların gözetiminde kısa süreli işbaşı eğitimiyle yol bakım, onarım, temizlik ve iş güvenliği konularında bilgi ve beceri kazanır. İŞKUR ve Halk Eğitim Merkezlerinin açtığı kurslarla da temel düzeyde bilgi edinilebilir.",
+  "belge": "Çoğunlukla resmi bir diploma veya meslek belgesi gerekmez. Katılınan kurslar sonunda katılım belgesi verilebilir; işe başlarken iş sağlığı ve güvenliği eğitimi belgesi alınması gerekebilir."
+ },
+ "calisma_alanlari": "Karayolu bakım işçileri; Karayolları Genel Müdürlüğü ve bağlı bölge müdürlükleri, belediyelerin yol bakım birimleri, yol yapım-onarım işleri üstlenen özel inşaat ve altyapı firmaları ile taahhüt şirketlerinde istihdam edilmektedir.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğe girişte resmi bir çıraklık eğitimi süreci bulunmadığından, eğitim süresine ilişkin ayrı bir ücret düzenlemesi yoktur. İşe başlayan kişi, çalıştığı süre için işveren tarafından ücretlendirilir.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında (Karayolları Genel Müdürlüğü, belediyeler vb.) işçi statüsünde çalışanların ücreti ilgili toplu iş sözleşmesi hükümlerine göre belirlenir.",
+   "Özel sektörde çalışanların kazancı işyerinin büyüklüğü, kişinin tecrübesi ve bölgesel koşullara göre değişebilir; mesleğe yeni başlayanlar için kazanç genellikle asgari ücret düzeyindedir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğin resmi bir çıraklık veya örgün mesleki eğitim programı bulunmadığından, bu alandaki gelişme büyük ölçüde kişinin kendi isteğiyle katılacağı kurslara ve iş deneyimine bağlıdır. İsteyenler açık öğretim yoluyla eğitim düzeyini yükseltip ilgili teknik eğitim programlarına geçiş yapabilir.",
+  "is_hayatinda": "Deneyim ve bilgi birikimi arttıkça kişi ekip lideri, yol ustası veya şef konumuna yükselebilir. Performans, kıdem ve işletme politikalarına bağlı olarak sorumluluk alanı genişleyebilir."
+ },
+ "benzer_meslekler": [
+  "Beden İşçisi (İnşaat)",
+  "Asfalt İşçisi",
+  "Yol Ustası",
+  "Hafriyat İşçisi",
+  "Su Kanalı İşçisi",
+  "İnşaat İşçisi"
+ ],
+ "ek_bilgiler": "Karayolu bakım işçiliği, trafiğe açık alanlarda yürütülen çalışmalar nedeniyle iş kazası riski taşıyan mesleklerden biridir; bu nedenle iş sağlığı ve güvenliği kurallarına uyum ve ilgili eğitimler önem taşır. Çalışma yoğunluğu mevsimsel olarak değişebilir; kış aylarında kar ve buzlanmayla mücadele, yaz aylarında asfalt ve onarım çalışmaları ön plana çıkar.",
+ "gorevler": [
+  "Sanat yapıları bakım onarım yapım işleri yapar.",
+  "Üst yapı işlerini yapar.",
+  "Menfez yapımında çalışır.",
+  "Yol korkulukları yapımında çalışır.",
+  "Bordür yapımında çalışır.",
+  "Yama işleri yapar.",
+  "Kaza anında yolun temizliğini sağlar.",
+  "Kanal temizliği yapar.",
+  "Menfez temizliği yapar.",
+  "Karayolunun temizlik, tertip ve düzenini sağlar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T19:54:56",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5130
+  }
+ }
+}

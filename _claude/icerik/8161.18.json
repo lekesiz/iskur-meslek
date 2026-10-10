@@ -1,0 +1,78 @@
+{
+ "gorevler": [
+  "Yıkanmaya hazır buğdayları makine ile karıştırır.",
+  "Temizleme makinesini çalıştırır.",
+  "Temizleme makinesinde temizlenen buğdayları yıkama makinesine gönderir.",
+  "Yıkanan buğdayları tav silolarında bekletir.",
+  "Kurutulmuş buğdayları öğütülmek üzere değirmenlere gönderir.",
+  "Buğdayları kalitesine göre ayrı ayrı silolara gönderir.",
+  "Yıkama, temizleme ve kabuk soyma makinelerini çalıştırır ve kontrol eder.",
+  "Makinelerde meydana gelen küçük arızalara müdahale eder.",
+  "Yıkama makinesi ve ambarın temizliğini yapar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "arac_gerec": [
+  "Temizleme makinesi",
+  "Yıkama makinesi",
+  "Kabuk soyma makinesi",
+  "Tav siloları",
+  "Taşıma bantları ve konveyörler",
+  "Elek ve ayıklama ekipmanları",
+  "Ambar ve silo tesisatı",
+  "Basit el aletleri (anahtar, tornavida vb.)",
+  "Koruyucu iş elbisesi ve eldiven",
+  "Toz/solunum maskesi",
+  "Kulak koruyucu (gürültüye karşı)",
+  "Baret ve diğer kişisel koruyucu donanım"
+ ],
+ "genel_ozellikler": [
+  "Fiziksel olarak güçlü ve dayanıklı,",
+  "Dikkatli ve tedbirli,",
+  "Makine ve tesisatla uyumlu çalışabilen,",
+  "El ve beden becerisine sahip,",
+  "Vardiyalı ve düzenli çalışma temposuna uyum sağlayabilen,",
+  "Sorumluluk duygusu gelişmiş,",
+  "Ekip çalışmasına uygun,",
+  "Makinelerdeki küçük arızaları fark edebilecek gözlem gücüne sahip"
+ ],
+ "calisma_ortami": "Yıkamacı (Buğday), değirmen ve un fabrikalarının üretim bölümlerinde, tahıl ambarlarında ve silo tesislerinde çalışır. Çalışma ortamı genellikle kapalı alan olup, bazı işlemler ambar ve dış mekâna açılan taşıma hatlarında yürütülür. Ortamda tahıl tozu, nem, gürültü ve makine kaynaklı titreşim bulunabilir; bu nedenle toz maskesi, eldiven ve kulak koruyucu gibi kişisel koruyucu donanımların kullanılması önemlidir.\n\nÇalışma genellikle fabrika üretim temposuna bağlı olarak vardiyalı düzende sürer. Meslek çalışanı; aynı üretim hattında görev yapan diğer işçiler, vardiya amiri/usta başı ve bakım-onarım personeliyle sürekli iletişim halinde çalışır.",
+ "egitim": {
+  "verildigi_yerler": "Bu mesleğin örgün eğitimde ayrı bir diploma veya çıraklık programı bulunmamaktadır. Meslek genellikle un fabrikaları ve değirmenlerde işbaşında usta yanında uygulamalı olarak öğrenilmekte, ayrıca İŞKUR ve Halk Eğitim Merkezlerinin açtığı kısa süreli mesleki eğitim kurslarıyla da kazanılabilmektedir. Gıda teknolojisi alanındaki mesleki ve teknik eğitim programları, mesleğe ilişkin temel bilgi birikimi sağlayabilir.",
+  "giris_kosullari": [
+   "Okuryazar olmak",
+   "İşin gerektirdiği bedensel çalışmayı yürütebilecek sağlık durumuna sahip olmak",
+   "18 yaşını doldurmuş olmak (ağır ve tehlikeli işler kapsamında değerlendirilebilecek görevler için)"
+  ],
+  "sure_ve_icerik": "Mesleğin standart ve zorunlu bir eğitim süresi bulunmamaktadır. İşbaşında yetişme süreci, kişinin öğrenme hızına ve işletmenin uygulamalarına göre değişmekte; kurslar ise genellikle birkaç haftadan birkaç aya kadar sürmektedir. Eğitim içeriğinde tahıl temizleme, yıkama, kabuk soyma makinelerinin kullanımı, iş sağlığı ve güvenliği kuralları ile temel bakım bilgileri yer alır.",
+  "belge": "Kursu tamamlayanlara katılım belgesi/sertifika verilebilir; mesleğe özgü resmî bir diploma veya ustalık belgesi bulunmamaktadır. Meslekte ilerleme büyük ölçüde işyerinde kazanılan deneyime bağlıdır."
+ },
+ "calisma_alanlari": "Yıkamacı (Buğday), un fabrikaları ve değirmenlerde, tahıl depolama ve silo tesislerinde, kamuya ait tarım ürünleri depolama kuruluşlarında ve özel gıda sanayi işletmelerinde istihdam edilebilir. İş bulma olanakları, tahıl işleme ve un üretimi yapılan bölgelerde daha yoğun olmak üzere ülke genelinde bulunmaktadır.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğin örgün bir çıraklık eğitimi bulunmadığından, kurs dönemlerinde genellikle ücret ödenmez. İşbaşında usta yanında yetişenler, çalıştıkları işletmede genellikle asgari ücret düzeyinde kazanç sağlayabilir.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç elde eder.",
+   "Kamu kuruluşlarında işçi statüsünde çalışanların ücreti ilgili toplu iş sözleşmesi hükümlerine göre belirlenir.",
+   "Özel sektörde kazanç; işletmenin büyüklüğü, kişinin tecrübesi, bilgisi ve bölgesel iş piyasası koşullarına göre değişebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğin örgün bir eğitim kademesi veya diploma programı bulunmadığından, ilgili gıda teknolojisi alanındaki mesleki eğitim kurslarına katılarak ya da İŞKUR'un açtığı eğitimlerle bilgi ve beceriler geliştirilebilir.",
+  "is_hayatinda": "Deneyim ve bilgi birikimi arttıkça vardiya sorumluluğu, usta başılığı veya üretim hattı sorumluluğu gibi görevlere yükselinebilir. Tecrübeli çalışanlar değirmen işletmeciliği veya üretim yönetimi alanlarına yönelebilir."
+ },
+ "benzer_meslekler": [
+  "Un İmal İşçisi",
+  "Un İmal Ustası",
+  "Un Tedarik İşçisi (Bisküvi)",
+  "Tarhana İmal İşçisi",
+  "Kuru Baklagil Elemanı"
+ ],
+ "ek_bilgiler": "Tahıl tozu nedeniyle solunum yolu rahatsızlıkları ile yangın ve patlama riski bulunabildiğinden, iş sağlığı ve güvenliği kurallarına ve kişisel koruyucu donanım kullanımına titizlikle uyulması önemlidir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T15:52:18",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5501
+  }
+ }
+}

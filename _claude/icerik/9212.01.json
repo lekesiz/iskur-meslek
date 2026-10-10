@@ -1,0 +1,73 @@
+{
+ "arac_gerec": [
+  "Kürek, tırmık ve faraş gibi temizlik araçları",
+  "Gübre taşıma el arabası",
+  "Süpürge ve fırça",
+  "Su hortumu ve basınçlı yıkama ekipmanı",
+  "Yem kovası ve yemlik",
+  "Suluk ve su kapları",
+  "Koruyucu eldiven, çizme ve iş elbisesi",
+  "Toz/koku maskesi",
+  "El feneri",
+  "Dezenfektan ve temizlik malzemeleri",
+  "Basit ilk yardım malzemeleri"
+ ],
+ "benzer_meslekler": [
+  "Amele-Karma Çiftlik (Bitkisel Üretim ve Hayvan Yetiştiriciliği)",
+  "Çiftlik İşçisi (Karma Bitki ve Çiftlik Hayvanı)",
+  "Yardımcı Çiftlik İşçisi (Genel)",
+  "Tarım İşçisi-Karma Çiftlik (Bitkisel Üretim ve Hayvan Yetiştiriciliği)",
+  "Çapacı-Karma Çiftlik (Bitkisel Üretim ve Hayvan Yetiştiriciliği)"
+ ],
+ "calisma_alanlari": "Ahırcılar; büyükbaş ve küçükbaş hayvancılık işletmeleri, süt ve besi çiftlikleri, tarımsal işletmelerin hayvancılık bölümleri, hayvan barınakları ve belediyelere bağlı hayvan bakımevleri gibi yerlerde çalışma imkânı bulurlar.\n\nİş bulma olanakları, hayvancılığın yoğun olduğu kırsal bölgelerde daha fazladır. Doğum, sağım ve bakım dönemlerinde geçici veya mevsimlik iş gücü ihtiyacı artabilir. Mesleğin büyük kısmı küçük ve orta ölçekli aile işletmelerinde, kayıt dışı veya sınırlı sayıda kişinin istihdam edildiği işyerlerinde sürdürülür.",
+ "calisma_ortami": "Ahırcı, genellikle hayvan barınaklarında (ahır, ağıl, padok) çalışır; ortam kapalı, yarı açık veya açık olabilir. Çalışma ortamında kötü koku, nem, toz, gübre ve hayvan atıklarıyla sürekli temas söz konusudur. İş; eğilme, kaldırma, taşıma gibi fiziksel olarak yorucu hareketler gerektirir ve hava koşullarından (sıcak, soğuk, yağış) doğrudan etkilenebilir.\n\nHayvanlarla yakın temas nedeniyle tekme yeme, ısırılma gibi kazalar ile hayvanlardan insana geçebilen bazı hastalıklara (zoonoz) maruz kalma riski bulunur. Çalışma saatleri genellikle hayvanların yem, su ve bakım ihtiyaçlarına göre belirlenir; sabah erken ve akşam geç saatlerde, hafta sonu ve resmî tatillerde de çalışma gerekebilir. Ahırcı, işini çoğunlukla tek başına yürütür; zaman zaman çiftlik sahibi, çiftçi, veteriner hekim veya diğer çiftlik çalışanlarıyla iletişim kurar.",
+ "egitim": {
+  "verildigi_yerler": "Bu meslek için örgün (okul tabanlı) bir mesleki eğitim programı ve örgün çıraklık eğitimi bulunmamaktadır. Mesleğe ilişkin temel bilgi ve beceriler genellikle işbaşında, deneyimli bir ahırcı veya çiftlik sahibinin gözetiminde kazanılır. Halk Eğitim Merkezleri ile Türkiye İş Kurumunun (İŞKUR) açtığı hayvan yetiştiriciliği, çiftlik işçiliği veya hayvan bakımı konulu mesleki eğitim kursları da bilgi ve beceri kazandırabilir.",
+  "giris_kosullari": [
+   "Okuryazar olmak (mesleğin gerektirdiği asgari eğitim düzeyi)",
+   "Fiziksel olarak hayvan bakımı ve ağır işleri yapmaya elverişli bir sağlık durumuna sahip olmak",
+   "Hayvanlarla çalışmaya karşı isteksizlik veya korku göstermemek",
+   "İş sağlığı ve güvenliği mevzuatı kapsamında çalışma yaşına ilişkin koşulları taşımak"
+  ],
+  "sure_ve_icerik": "Mesleğin resmî olarak tanımlanmış bir eğitim süresi ve müfredatı yoktur. Kişi, genellikle çalıştığı çiftlikte kısa sürede işbaşında öğrenerek yetişir. Halk Eğitim Merkezleri ve İŞKUR tarafından açılan kurslarda ise hayvan besleme ve suvarma, ahır/barınak hijyeni, basit hayvan sağlığı gözlemi, gübre yönetimi gibi konularda kısa süreli teorik ve uygulamalı eğitim verilebilir.",
+  "belge": "Örgün bir diploma veya zorunlu bir sertifika bulunmamaktadır. Katılınan kurslar sonunda genellikle katılım/başarı belgesi verilir. Mesleki Yeterlilik Kurumu (MYK) tarafından ilgili alanda bir yeterlilik belgesi düzenlenmesi hâlinde bu belge istihdamda tercih sebebi olabilir."
+ },
+ "ek_bilgiler": "Hayvanlarla sürekli temas nedeniyle hijyen kurallarına ve kişisel koruyucu donanım kullanımına dikkat edilmesi, hayvandan insana geçebilen hastalıklara karşı önemlidir. İş, fiziksel olarak yorucu olup mevsimsel ve bölgesel olarak istihdam dalgalanmaları gösterebilir.",
+ "genel_ozellikler": [
+  "Hayvanları seven ve onlarla doğru iletişim kurabilen,",
+  "Fiziksel olarak dayanıklı ve güçlü,",
+  "Dikkatli ve gözlem yeteneği gelişmiş,",
+  "Sorumluluk sahibi ve düzenli,",
+  "Erken saatlerde ve zor hava koşullarında çalışmaya istekli,",
+  "Kirli ve ağır çalışma koşullarına uyum sağlayabilen,",
+  "Sabırlı,",
+  "Gerektiğinde tek başına çalışabilen"
+ ],
+ "gorevler": [
+  "Ahır zeminlerini temizler ve gübreleri uzaklaştırır.",
+  "Hayvanlara yem ve su dağıtımı yapar.",
+  "Hayvanların genel sağlık ve temizlik durumunu gözlemler.",
+  "Barınakların havalandırma ve aydınlatma düzenini sağlar.",
+  "Basit yaralanma veya hastalık durumlarını yetkililere bildirir.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğe yönelik kademeli bir örgün eğitim sistemi bulunmamaktadır. Kişi isterse Halk Eğitim Merkezleri veya İŞKUR'un açtığı hayvan yetiştiriciliği, sağım teknikleri, hayvan sağlığı gibi konulardaki kurslara katılarak bilgi ve becerisini geliştirebilir.",
+  "is_hayatinda": "Deneyim kazandıkça çiftlikte daha fazla sorumluluk üstlenebilir; sorumlu bakıcı veya ustabaşı konumuna yükselebilir. Yeterli birikim ve imkân sağlandığında kendi küçük ölçekli hayvancılık işletmesini kurabilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Mesleğe yönelik örgün bir çıraklık eğitimi bulunmadığından, kişi genellikle işbaşında öğrenirken aynı zamanda çalıştığı işyerinden ücret alır. Ücret, işveren ile kişi arasında karşılıklı olarak belirlenir.",
+  "egitim_sonrasi": [
+   "Kamuya bağlı tarım işletmelerinde memur statüsünde çalışanlar 657 sayılı Devlet Memurları Kanunu'na, işçi statüsünde çalışanlar ise toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde çalışanların kazancı işletmenin büyüklüğüne, kişinin deneyimine, bölgeye ve sektörün genel ücret düzeyine göre değişir; işe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç elde eder."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T19:31:31",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5874
+  }
+ }
+}

@@ -1,0 +1,85 @@
+{
+ "arac_gerec": [
+  "El takımları (anahtar, pense, tornavida takımları)",
+  "Tork anahtarı",
+  "Kumpas, mikrometre gibi hassas ölçüm aletleri",
+  "Caraskal, vinç gibi kaldırma ve taşıma ekipmanları",
+  "Kaynak makinesi",
+  "Taşlama ve zımpara makinesi",
+  "Matkap",
+  "Hidrolik pres ve çekme aparatları",
+  "Yağlama ekipmanları ve yağ pompaları",
+  "Basınç ve sızdırmazlık test cihazları",
+  "Titreşim/vibrasyon ölçüm cihazları",
+  "Kişisel koruyucu donanım (baret, iş gözlüğü, eldiven, kulaklık, iş elbisesi, emniyet kemeri)",
+  "Makine kullanım kılavuzları ve teknik dokümanlar",
+  "Taşınabilir aydınlatma araçları"
+ ],
+ "genel_ozellikler": [
+  "Mekanik problemleri çözebilme gücüne sahip,",
+  "El ve parmaklarını ustalıkla kullanabilen,",
+  "Dikkatli ve sabırlı,",
+  "Dar, kapalı ve yüksek alanlarda çalışmaya uygun fiziksel yapıya sahip,",
+  "Takım halinde çalışmaya istekli,",
+  "İş sağlığı ve güvenliği kurallarına duyarlı,",
+  "Teknik resim, kılavuz ve talimatları okuyup anlayabilen,",
+  "Sorumluluk sahibi"
+ ],
+ "calisma_ortami": "Gemi makine bakımcısı, gemi inşa ve tersane işletmelerinde, bakım-onarım ve tadilat halindeki gemilerin makine daireleri gibi genellikle kapalı, dar, sıcak/nemli, gürültülü ve yağlı ortamlarda çalışır. Gerektiğinde açık güvertede, yüksekte veya dar/kapalı alanlarda da görev yapabilir; iş yoğunluğuna göre vardiyalı çalışma söz konusu olabilir.\n\nÇalışma sırasında ağır parça kaldırma, yüksekte çalışma, kimyasal ve yağ maruziyeti, gürültü ve kapalı alan gibi riskler bulunduğundan iş güvenliği kurallarına ve kişisel koruyucu donanım kullanımına özellikle uyulması gerekir. Meslek, gemi mühendisleri, diğer bakım-onarım teknisyenleri, tersane personeli ve yetkilileriyle sürekli iletişim ve koordinasyon gerektirir.",
+ "egitim": {
+  "verildigi_yerler": "Bu meslek için örgün eğitimde doğrudan bu adla açılmış bir meslek lisesi alanı/dalı bulunmamaktadır. Mesleğe ilişkin bilgi ve beceriler genellikle gemi bakım-onarım ve tersane işletmelerinde işbaşında, deneyimli ustaların gözetiminde kazanılır. Motorlu Araçlar Teknolojisi veya Gemi Yapımı gibi ilgili mesleki ve teknik eğitim programlarından edinilen temel bilgiler bu mesleğe geçişte temel oluşturabilir. Ayrıca Halk Eğitim Merkezleri ile İŞKUR tarafından açılan mesleki eğitim kurslarında da bu alana yönelik temel beceriler kazandırılabilir.",
+  "giris_kosullari": [
+   "İlköğretim mezunu olmak (meslek için gereken asgari eğitim düzeyi)",
+   "Dar, kapalı ve yükseklik gerektiren ortamlarda çalışmaya elverişli sağlık durumuna sahip olmak",
+   "Çıraklık veya mesleki eğitim kurslarına katılacaklar için ilgili mevzuatta belirtilen yaş ve diğer koşulları taşımak"
+  ],
+  "sure_ve_icerik": "Mesleğe özgü standart ve resmî bir çıraklık ya da meslek lisesi programı bulunmamaktadır. Mesleki bilgi ve beceriler genellikle gemi bakım-onarım işletmelerinde deneyimli ustaların gözetiminde işbaşı eğitimiyle, bunun yanında kısa süreli mesleki eğitim kursları ve sertifika programlarıyla desteklenerek kazanılır. Eğitim süresi kişinin önceki mesleki birikimine (örneğin otomotiv veya makine bakım geçmişine) ve işletmenin uygulamalarına göre değişmekle birlikte, yeterli ustalık düzeyine erişim genellikle birkaç yılı bulan bir uygulamalı çalışma sürecini gerektirir.",
+  "belge": "Katılınan kurs veya programa göre kurs bitirme/katılım belgesi, işbaşı eğitim sürecinin sonunda işletme tarafından verilen kalfalık/ustalık niteliğinde belge alınabilir. Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Gemi makine bakımcısı; gemi inşa ve tersane işletmelerinde, bakım-onarım ve tadilat hizmeti veren tersanelerde, gemi makineleri bakım-onarım firmalarında ve deniz taşımacılığı sektörüne hizmet veren teknik servislerde çalışabilir. Türkiye'de deniz taşımacılığı ve gemi inşa sanayinin yoğunlaştığı bölgelerde (örneğin Tuzla, Yalova, İzmit gibi tersane bölgelerinde) iş bulma olanağı daha fazladır. Sektördeki gemi sayısının ve bakım-onarım ihtiyacının artmasına bağlı olarak nitelikli eleman talebi sürmektedir.",
+ "kazanc": {
+  "egitim_suresince": "Bu meslek için örgün/resmî bir çıraklık eğitim programı bulunmadığından, mesleki bilgi ve beceriler genellikle işbaşında çalışılarak kazanılır. Bu süreçte çalışanlar işyeri ile yaptıkları anlaşmaya göre ücret alır; bu ücret genellikle asgari ücret düzeyinde başlar.",
+  "egitim_sonrasi": [
+   "Kamu tersanelerinde işçi statüsünde çalışanlar, ilgili toplu iş sözleşmesi hükümlerine göre ücretlendirilir.",
+   "Özel sektörde kazanç; işletmenin büyüklüğü, çalışanın tecrübesi, bilgisi ve becerisine göre karşılıklı anlaşmayla belirlenir. Yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar, deneyim ve ustalık arttıkça kazanç da artabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Deneyim ve ustalık kazandıkça ekip lideri, usta başı veya bakım şefi gibi görevlere yükselebilir; ilgili mesleki ve teknik eğitim kurslarına katılarak veya Mesleki Yeterlilik Kurumu (MYK) belgelendirme sınavlarına girerek mesleki yeterliliğini belgelendirebilir.",
+  "is_hayatinda": "Tecrübe kazandıkça bakım-onarım ekiplerinde sorumluluk üstlenebilir, planlama ve denetim görevlerine geçebilir veya işletme bünyesinde daha üst teknik kadrolara yükselebilir; birikim ve sermaye sahibi olunması durumunda kendi bakım-onarım işletmesini kurabilir."
+ },
+ "benzer_meslekler": [
+  "Diğer Motorlu Araç Tamirci Makinistleri",
+  "Oto Bakım-Onarımcısı (Otomotiv Mekanikcisi)",
+  "Otobüs/Kamyon Bakım Onarımcısı",
+  "Motor Yenileştirmecisi (Motor Rektifiyecisi)",
+  "Otomotiv Mekanikeri",
+  "Motor Test Operatörü"
+ ],
+ "ek_bilgiler": "Gemi makine dairesi gibi kapalı, dar ve bazen yüksekte çalışma gerektiren ortamlarda görev yapılması, ağır ekipmanla temas ve iş kazası riskini artırabileceğinden bu meslek iş sağlığı ve güvenliği açısından dikkat gerektiren işler kapsamında değerlendirilebilir. Bu nedenle periyodik sağlık kontrolü, kişisel koruyucu donanım kullanımı ve iş güvenliği eğitimleri meslekte önem taşır.",
+ "gorevler": [
+  "İş sağlığı ve güvenliği kurallarına uygun çalışır.",
+  "Çevre koruma mevzuatına uygun çalışır.",
+  "Kalite yönetim sistemi dokümantasyonunda belirtilen şartlara uygun çalışır.",
+  "İş emirleri ile belirlenmiş çalışma sahasını prosese uygun hale getirir/getirilmesini sağlar.",
+  "İş emrinin gerçekleştirilmesinde kullanılacak kişisel koruyucu donanımı (KKD), makine ve donanımı hazırlar.",
+  "Makine bakımını gerçekleştirir.",
+  "Bakımı iş emrine ve talimatlara uygun olarak gerçekleştirir.",
+  "Bakıma ait otokontrolleri gerçekleştirir.",
+  "Bakımı sonuçlandırır.",
+  "Gerektiği durumlarda ana/yardımcı makinelerin/teçhizatın/donanımın onarımını gerçekleştirir.",
+  "Onarımı iş emrine ve talimatlara uygun gerçekleştirir.",
+  "Onarıma ait otokontrolleri gerçekleştirir.",
+  "Onarımı sonuçlandırır.",
+  "Araç ve gereçlerin bakım ve ayarını yapar.",
+  "Mesleki gelişim faaliyetlerine katılır."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T02:29:32",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6945
+  }
+ }
+}

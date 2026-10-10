@@ -1,0 +1,81 @@
+{
+ "arac_gerec": [
+  "Haddeleme tezgahı ve silindirler",
+  "Kumanda/kontrol panosu",
+  "Konveyör bant sistemi",
+  "Su püskürtme ve soğutma sistemi",
+  "Kaldırma vinci veya forklift",
+  "Ölçüm aletleri (kumpas, mikrometre, metre)",
+  "Kesme ve makas tezgahları",
+  "Hammadde (metal külçe, ingot, bobin)",
+  "Bitmiş ürün (levha, saç, folyo, tel, çubuk)",
+  "İş eldiveni ve koruyucu önlük",
+  "Baret",
+  "Koruyucu gözlük",
+  "Kulak koruyucu",
+  "Yağlama ekipmanları"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli,",
+  "Fiziksel olarak güçlü ve dayanıklı,",
+  "El ve göz koordinasyonu gelişmiş,",
+  "Makine ve mekanik sistemlere ilgili,",
+  "Sorumluluk sahibi,",
+  "Ekip çalışmasına yatkın,",
+  "Yüksek sıcaklık ve gürültülü ortamda çalışabilen,",
+  "Talimatları hızlı ve doğru uygulayabilen,"
+ ],
+ "calisma_ortami": "Haddeci-Demir Dışı Metaller, demir dışı metal (alüminyum, bakır, çinko, kurşun vb.) üreten fabrika ve haddehanelerde, kapalı atölye ortamında çalışır. Çalışma ortamı genellikle sıcak, gürültülü ve makine kaynaklı titreşimlerin bulunduğu bir ortamdır; hareketli parçalar, ağır malzeme taşıma ve yüksek sıcaklık nedeniyle iş kazası riski bulunduğundan iş güvenliği kurallarına ve kişisel koruyucu donanım kullanımına dikkat edilmesi gerekir.\n\nÜretim genellikle sürekli vardiya düzeninde (gündüz, akşam, gece vardiyaları) yürütüldüğünden meslek elemanları çoğunlukla vardiyalı olarak çalışır. Görevi sırasında vardiya arkadaşları, ustabaşı, kalite kontrol ve bakım personeli ile sürekli iletişim ve koordinasyon içinde bulunur.",
+ "egitim": {
+  "verildigi_yerler": "Haddeci-Demir Dışı Metaller mesleğinde, bağımsız bir meslek lisesi dalı veya resmi çıraklık programı olarak yaygın bir eğitim düzenlemesi bulunmamaktadır. Meslek genellikle işletmelerde işbaşında usta yanında yetişme yoluyla kazanılır. Metal işleme teknolojisi alanındaki mesleki ve teknik eğitim programları ile Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kursları, temel bilgi ve beceri kazandırma konusunda destekleyici olabilir.",
+  "giris_kosullari": [
+   "İlköğretim mezunu olmak (mesleğin gerektirdiği asgari eğitim düzeyi)",
+   "Sağlık durumunun ağır, sıcak ve gürültülü ortamda çalışmaya uygun olması",
+   "Fiziksel olarak dayanıklı ve el becerisine sahip olmak",
+   "İşletmede çalışmaya başlamak için ilgili işyeri ile anlaşma"
+  ],
+  "sure_ve_icerik": "Resmi olarak tanımlanmış bir çıraklık veya meslek lisesi programı bulunmadığından, eğitim süresi işletmeden işletmeye ve kişinin öğrenme hızına göre değişmektedir. Yeni başlayanlar genellikle belirli bir süre usta yanında gözlem ve uygulamalı çalışma yaparak haddeleme tezgahının çalışma prensiplerini, kumanda ayarlarını, ürün muayene ve ölçüm işlemlerini öğrenir. Metal işleme alanındaki kurslar ve mesleki eğitim programları ise temel malzeme bilgisi, makine kullanımı ve iş güvenliği konularında kuramsal bilgi sağlar.",
+  "belge": "İşyerinde edinilen deneyim için işveren tarafından verilen çalışma/deneyim belgesi, katıldığı kurslar için katılım sertifikası ve iş güvenliği eğitim belgesi alınabilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Haddeci-Demir Dışı Metaller, alüminyum, bakır, çinko, kurşun gibi demir dışı metalleri işleyerek levha, saç, folyo, tel veya çubuk üreten fabrika ve haddehanelerde istihdam edilir. Bu meslek elemanları, demir dışı metal üretimi ve işlenmesi yapan küçük, orta ve büyük ölçekli özel sektör işletmelerinde çalışma olanağı bulur. Kamu sektöründe istihdam olanağı sınırlıyken, metal sanayinin yoğun olduğu bölgelerdeki üretim tesislerinde iş bulma olanağı daha fazladır.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğe resmi bir örgün eğitim programı kapsamında girilmediğinden, işbaşında usta yanında yetişme döneminde işveren ile yapılan anlaşmaya göre değişen, genellikle asgari ücret düzeyinde bir kazanç söz konusu olabilir.",
+  "egitim_sonrasi": [
+   "Kamu sektöründe istihdam edilenler 657 sayılı Devlet Memurları Kanunu veya işçi statüsünde çalışanlar için toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Deneyim, vardiya türü, ihtisaslaşma düzeyi ve işletmenin büyüklüğüne bağlı olarak ücret asgari ücretin üzerine çıkabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Meslek elemanları, metal işleme teknolojisi alanındaki mesleki ve teknik eğitim programlarına veya ilgili ön lisans/lisans programlarına (örneğin metalurji ve malzeme mühendisliği) yönelerek bilgi ve becerilerini geliştirebilir.",
+  "is_hayatinda": "İşyerinde deneyim kazandıkça usta, ekip lideri, vardiya amiri veya üretim şefi gibi görevlere yükselebilir; belirli bir haddehane türünde (kütük, çubuk, blok veya soğuk hadde) ihtisaslaşabilir."
+ },
+ "benzer_meslekler": [
+  "Bitirme Haddecisi (Metal) (Soğuk Haddehane)",
+  "Diğer Haddehane Operatörleri (Metal)",
+  "Dikişsiz Boru Haddecisi",
+  "Sıcak Haddeci-Çelik",
+  "Soğuk Haddeci-Çelik",
+  "Hadde Ayarcısı (Metal)"
+ ],
+ "ek_bilgiler": "Bu meslekte resmi olarak tanımlanmış, bağımsız bir meslek lisesi dalı veya çıraklık programı bulunmamaktadır; mesleki bilgi ve beceri genellikle işbaşında usta yanında yetişme yoluyla kazanılır.",
+ "gorevler": [
+  "Yazılı ya da sözlü talimatları yorumlayıp çalışma biçimine karar verir.",
+  "Silindirlerin, haddehanenin ve konveyör hızının ayarlanması için talimat verir, su püskürtmeyi düzenler.",
+  "Haddehanenin çalışmasını gözler, haddeleme işlemi sırasında ürünleri inceler ve gerekirse kumanda ayarları için talimat verir.",
+  "Bitmiş ürünleri muayene eder ve ölçer.",
+  "Kütük haddesi, çubuk haddesi ya da blok haddesi gibi özel tip bir haddehanede ihtisaslaşabilir ve buna göre sınıflandırılabilir.",
+  "Programlı olarak metale otomatik şekil veren elektronik bir haddehaneye kumanda edebilir.",
+  "Soğuk hadde tezgahını çalıştırmada ihtisaslaşabilir.",
+  "Demirden gayrı metallerin haddelenmesinde ihtisas sahibidir.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T11:10:36",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5615
+  }
+ }
+}

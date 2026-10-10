@@ -1,0 +1,75 @@
+{
+ "arac_gerec": [
+  "Eğitim amaçlı çift kumandalı uçak",
+  "Uçuş simülatörü",
+  "Uçağın kontrol tablosu ve kokpit göstergeleri",
+  "Pusula ve altimetre",
+  "Telsiz ve haberleşme cihazları",
+  "Pilot el kitabı",
+  "Uçuş kontrol listesi",
+  "Uçuş günlüğü ve eğitim kayıt formları",
+  "Havayolu ve fiziki haritalar",
+  "Hava durumu raporları",
+  "Kulaklık ve mikrofon seti",
+  "Teorik ders için eğitim materyalleri ve yazı tahtası",
+  "Uçuş simülasyon yazılımları"
+ ],
+ "genel_ozellikler": [
+  "Pilotluk mesleğinde deneyimli ve yetkin,",
+  "Öğretme ve bilgi aktarma becerisine sahip,",
+  "Sabırlı ve anlayışlı,",
+  "İletişim becerisi güçlü,",
+  "Soğukkanlı, dikkatli ve sorumluluk sahibi,",
+  "Hızlı ve doğru karar verebilen,",
+  "Yükseklik korkusu olmayan,",
+  "Örnek davranış sergileyebilen"
+ ],
+ "calisma_ortami": "Uçuş öğretmenleri derslerini kısmen sınıf ortamında (teorik eğitim) kısmen de uçak kokpitinde (pratik uçuş eğitimi) verirler. Uçuş sırasında gürültülü, titreşimli ve zaman zaman stresli bir ortamda çalışırlar; hava koşullarına bağlı olarak çalışma programı değişebilir ve görev gereği belirli bir risk düzeyi taşıyan bu meslekte iş sağlığı ve güvenliği kurallarına titizlikle uyulması gerekir.\n\nÖğrenci pilotlarla, diğer uçuş öğretmenleriyle, hava trafik kontrolörleriyle ve havaalanı personeliyle sürekli iletişim halinde çalışırlar. Çalışma saatleri uçuş programına ve hava koşullarına göre düzensiz olabilir, bazen hafta sonu ve tatil günlerinde de çalışmayı gerektirebilir.",
+ "gorevler": [
+  "Uçağın kontrol tablosu, dümen, kanatlar, kanatçık, pusula, altimetre gibi bölümlerinin işleyiş ve kullanımı hakkında öğrencilere teorik ve pratik bilgiler verir.",
+  "Öğrencilerin eğitim uçuşlarına katılarak kalkma, dönme, hız kaybetme, alana inme gibi durumlarda uçağı kontrol etme tekniklerini gösterir ve beceri kazanmalarını sağlar.",
+  "Havaalanı kurallarını, havalanma ve inme izni alma yöntemlerini tüm ayrıntılarıyla öğretir.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Uçuş öğretmenliği eğitimi, sivil havacılık eğitimi veren üniversitelerin ilgili bölümlerinde (Pilotaj, Havacılık ve Uzay Bilimleri vb.) ve Sivil Havacılık Genel Müdürlüğü tarafından yetkilendirilmiş uçuş eğitim organizasyonlarında (uçuş okullarında) verilmektedir.",
+  "giris_kosullari": [
+   "Ticari pilot lisansına (CPL) sahip olmak",
+   "Sivil Havacılık Genel Müdürlüğü tarafından belirlenen uçuş saati ve deneyim şartlarını sağlamak",
+   "Uçuş öğretmenliği (Flight Instructor) eğitim programını tamamlamak",
+   "Uçuculara yönelik geçerli sağlık sertifikasına sahip olmak",
+   "İyi derecede İngilizce bilmek"
+  ],
+  "sure_ve_icerik": "Uçuş öğretmeni olabilmek için öncelikle pilotluk lisansı alınması, ardından belirli bir uçuş deneyimi kazanılması gerekir. Bu sürecin ardından Sivil Havacılık Genel Müdürlüğü tarafından onaylanmış uçuş eğitim organizasyonlarında, teorik dersler ile uçuş değerlendirmelerini içeren uçuş öğretmenliği eğitim programına katılım sağlanır. Eğitimin süresi ve içeriği kişinin mevcut lisans türüne ve deneyim düzeyine göre değişiklik gösterebilir; eğitim sonunda teorik ve uçuş değerlendirme sınavları uygulanır.",
+  "belge": "Eğitimi başarıyla tamamlayanlara, Sivil Havacılık Genel Müdürlüğü tarafından pilot lisansına eklenen \"Uçuş Öğretmeni\" yetkisi (rating) verilir."
+ },
+ "calisma_alanlari": "Uçuş öğretmenleri başlıca sivil havacılık uçuş okullarında, üniversitelerin havacılık bölümlerine bağlı uçuş eğitim organizasyonlarında, havayolu şirketlerinin eğitim birimlerinde ve Türk Hava Kurumu gibi kuruluşlarda görev alırlar. Askeri havacılık eğitim kurumlarında görev yapan uçuş öğretmenleri ilgili kurumun statüsüne tabi olarak istihdam edilir; özel sektördeki uçuş okullarında ise işveren ile yapılan sözleşme esastır.",
+ "kazanc": {
+  "egitim_suresince": "Uçuş öğretmenliği eğitimi genellikle kişi daha önce edindiği pilotluk mesleğinde çalışırken veya deneyim kazanırken sürdürülür; eğitim sürecinde ayrı bir ücret söz konusu değildir, eğitim giderleri kişi veya bağlı olduğu kurum tarafından karşılanabilir.",
+  "egitim_sonrasi": [
+   "Özel sektördeki uçuş okullarında çalışan uçuş öğretmenlerinin ücretleri işveren ile yapılan anlaşmaya, deneyime ve çalışılan kuruma göre değişiklik gösterir.",
+   "Kamu kurumu bünyesinde istihdam edilenlerin ücretleri 657 sayılı Devlet Memurları Kanunu veya bağlı bulundukları kurumun statüsüne göre belirlenir.",
+   "Mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde veya biraz üzerinde bir gelirle işe başlayabilir; deneyim ve yetki genişledikçe kazanç düzeyi yükselir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Uçuş öğretmenleri, farklı uçak tiplerine ve uçuş koşullarına yönelik ek eğitimler alarak yetkilerini genişletebilir; aletli uçuş öğretmenliği, çok motorlu uçak öğretmenliği gibi ileri düzey yetkiler kazanabilir. Ayrıca kontrol pilotu (examiner) olabilmek için ek eğitim ve yetkilendirme süreçlerine katılabilirler.",
+  "is_hayatinda": "Deneyim kazandıkça uçuş okullarında baş öğretmenlik, eğitim koordinatörlüğü veya eğitim müdürlüğü gibi yönetsel görevlere yükselebilirler. Havayolu şirketlerinde ise kıdemli pilotluk veya tip eğitmenliği gibi pozisyonlara geçiş yapabilirler."
+ },
+ "benzer_meslekler": [
+  "Pilot",
+  "Helikopter Pilotu",
+  "Test Pilotu",
+  "Balon Pilotu",
+  "Seyrüseferci"
+ ],
+ "ek_bilgiler": "Bu meslekte çalışabilmek için Sivil Havacılık Genel Müdürlüğü tarafından verilen uçuş öğretmenliği yetkisinin düzenli aralıklarla yenilenmesi ve uçuculara yönelik sağlık muayenelerinin periyodik olarak tekrarlanması gerekmektedir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T11:56:17",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6274
+  }
+ }
+}

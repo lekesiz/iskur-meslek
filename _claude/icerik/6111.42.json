@@ -1,0 +1,78 @@
+{
+ "arac_gerec": [
+  "Traktör ve toprak işleme ekipmanları (pulluk, kültivatör, tırmık)",
+  "Bel, çapa, kazma gibi el aletleri",
+  "Dikim materyali (yavru sürgün/fide)",
+  "Gübre dağıtıcısı ve kimyasal/organik gübreler",
+  "Sulama ekipmanları (damla sulama sistemi, hortum)",
+  "Tarım ilaçları (herbisit, insektisit, fungisit)",
+  "Pülverizatör (ilaçlama makinesi)",
+  "Budama ve hasat bıçağı/makası",
+  "Taşıma kasaları ve sepetler",
+  "Koruyucu kıyafet, eldiven ve maske",
+  "Basit ölçme ve kontrol aletleri (toprak nem/pH ölçer)"
+ ],
+ "genel_ozellikler": [
+  "Açık havada ve zorlu arazi koşullarında çalışmaktan hoşlanan,",
+  "Toprağı ve bitkiyi seven, bitkisel üretime ilgi duyan,",
+  "Fiziksel olarak dayanıklı ve el becerisine sahip,",
+  "Dikkatli, sabırlı ve düzenli çalışabilen,",
+  "Hastalık ve zararlı belirtilerini ayırt edebilecek gözlem gücüne sahip,",
+  "Mevsimsel ve değişken çalışma koşullarına uyum sağlayabilen,",
+  "Ekip halinde çalışmaya yatkın,",
+  "Çevre ve doğa bilincine sahip"
+ ],
+ "calisma_ortami": "\"Enginar yetiştiricisi, görevini genellikle açık tarım arazilerinde, doğrudan toprak ve bitkiyle iç içe yürütür. Çalışma, mevsime ve yetiştirme takvimine bağlı olarak yoğunlaşır; toprak hazırlığı, dikim, gübreleme, sulama, çapalama ve hasat dönemlerinde uzun saatler açık havada, güneş, sıcak, soğuk ve yağış gibi değişken hava koşullarına maruz kalarak çalışılır. Eğilme, kaldırma ve tekrarlı hareketler içeren beden gücüne dayalı bir iş olduğundan fiziksel yorgunluğa yol açabilir; ayrıca gübre ve tarım ilaçlarıyla temas riski bulunur, bu nedenle koruyucu ekipman kullanımı önemlidir.\\n\\nMeslek elemanı çalışmalarını genellikle tarla/bahçe sahibi, diğer tarım işçileri, mevsimlik işçiler, tarım teknisyenleri ve ziraat mühendisleriyle eş güdüm içinde sürdürür. Kendi işletmesinde çalışanlar için iş saatleri gün ışığına ve tarımsal işlemlerin gerekliliğine göre değişkenlik gösterir; ücretli olarak çalışanlarda ise işletmenin belirlediği çalışma düzeni geçerlidir.\"",
+ "egitim": {
+  "verildigi_yerler": "Enginar yetiştiriciliğine özgü, örgün eğitim sistemi içinde ayrı bir meslek dalı bulunmamaktadır. Tarım meslek liselerinin ve mesleki eğitim merkezlerinin bahçe bitkileri/sebze yetiştiriciliği ile ilgili alan ve dalları, ziraat fakültelerinin bahçe bitkileri bölümleri temel ve ileri düzey bilgi kazandırabilir. Bunun dışında Halk Eğitim Merkezleri, Tarım ve Orman Bakanlığı il/ilçe müdürlüklerinin düzenlediği tarımsal yayım kursları ve İŞKUR'un açtığı mesleki eğitim/işbaşı eğitim programları ile işbaşında usta çiftçi yanında yetişmek mümkündür.",
+  "giris_kosullari": [
+   "Mesleki eğitim merkezi programları için en az ortaokul mezunu olmak",
+   "Kurs ve yayım eğitimlerine katılım için genellikle okuryazar olmak yeterlidir",
+   "Sağlık durumunun açık arazi şartlarında fiziksel çalışmaya elverişli olması",
+   "Mesleki eğitim merkezi için işyeri bulup işveren ile eğitim sözleşmesi yapmak"
+  ],
+  "sure_ve_icerik": "Eğitimin süresi ve içeriği katılınan kuruma göre değişiklik gösterir. Halk Eğitim Merkezi ve İŞKUR kursları genellikle kısa süreli (birkaç hafta-ay) olup teorik ve uygulamalı eğitim içerir; mesleki eğitim merkezi kapsamındaki tarım alanı programları ise yıllara yayılan çıraklık-kalfalık-ustalık eğitimi şeklinde yürütülür. İçerikte enginar çeşitleri ve ekolojik istekleri, toprak hazırlığı, dikim/çoğaltım, gübreleme, sulama, hastalık ve zararlılarla mücadele, yabancı ot kontrolü, hasat ve depolama gibi konular işlenir. En kapsamlı yetişme biçimi, deneyimli bir çiftçi/işletme yanında uzun süreli uygulamalı çalışmadır.",
+  "belge": "Katılınan kursun türüne göre katılım veya başarı belgesi, mesleki eğitim merkezi programını tamamlayanlara kalfalık/ustalık belgesi verilebilir. Mesleki Yeterlilik Kurumu (MYK) tarafından ilgili alanda bir yeterlilik belgesi düzenlenmişse, bu belge istihdamda tercih sebebi olabilir."
+ },
+ "gorevler": [
+  "Üretim tekniklerini araştırır,",
+  "Ekim dikim yerlerini hazırlar,",
+  "Gübreleme yapar,",
+  "Kültürel işlemleri yapar,",
+  "Bitkilerde görülen zararlıları inceler,",
+  "Hastalık, zararlılar ve yabancı otlarla mücadele yapar,",
+  "Enginar yetiştirir,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "calisma_alanlari": "\"Enginar yetiştiricisi başta kendi tarım arazisi/işletmesi olmak üzere, enginar ve diğer sebze üretimi yapan tarım işletmelerinde, tarımsal üretim kooperatiflerinde, tohum/fide üretim ve pazarlama şirketlerinde, sebze-meyve ihracatı yapan firmalarda, soğuk hava deposu ve paketleme tesislerinde mevsimlik veya sürekli işçi olarak çalışabilir. Ayrıca Tarım ve Orman Bakanlığı'na bağlı araştırma enstitüleri ve deneme istasyonlarında, belediyelerin tarımsal üretim birimlerinde yardımcı personel olarak istihdam edilebilir.\"",
+ "kazanc": {
+  "egitim_suresince": "Halk Eğitim Merkezi ve İŞKUR kurslarına katılım genellikle ücretsizdir ve katılımcıya ayrıca ücret ödenmez. Mesleki eğitim merkezi kapsamında işletmede eğitim görülmesi durumunda 3308 sayılı Mesleki Eğitim Kanunu gereğince öğrenciye asgari ücretin belirli bir oranında ücret ödenebilir.",
+  "egitim_sonrasi": [
+   "Ücretli olarak işe başlayanlar genellikle asgari ücret düzeyinde kazanç elde eder.",
+   "Kendi arazisinde üretim yapanların kazancı ürün verimine, enginarın piyasa fiyatına ve işletme büyüklüğüne göre değişir.",
+   "Mevsimlik işçi olarak çalışanlara günlük veya yapılan iş miktarına göre ücret ödenebilir.",
+   "Deneyim, uzmanlaşma ve işletme ölçeğinin büyümesiyle kazanç artabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleki eğitim merkezi programından diploma alanlar, alanın devamı niteliğindeki tarım ile ilgili ön lisans/lisans programlarına sınavla yerleşebilir. Kurs düzeyinde eğitim alanlar, ileri düzey tarımsal yayım eğitimleri ve kurslarla bilgi ve becerilerini geliştirebilir.",
+  "is_hayatinda": "Deneyim kazanan kişi usta işçi, tarla/bahçe sorumlusu ya da işletme yöneticisi konumuna yükselebilir; birikim ve sermaye oluşturarak kendi üretim işletmesini kurabilir, üretici kooperatiflerinde görev alabilir."
+ },
+ "benzer_meslekler": [
+  "Sebze Yetiştiricisi",
+  "Örtü Altı Sebze Yetiştiricisi",
+  "Organik Tarım Ürünler Üreticisi",
+  "Fide Yetiştiricisi",
+  "Brokoli Yetiştiricisi",
+  "Kereviz Yetiştiricisi"
+ ],
+ "ek_bilgiler": "\"Enginar, iklim ve toprak isteği bakımından belirli bölgelerde yoğunlaşan bir sebze türüdür; bu nedenle bu meslekte istihdam, enginar üretiminin yapıldığı bölgelerde daha yaygındır. Mesleğe özgü zorunlu bir eğitim programı veya yasal belge bulunmamakla birlikte, Mesleki Yeterlilik Kurumu belgesi ve tarımsal yayım kurslarına katılım iş bulmada tercih sebebi olabilir.\"",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T20:20:54",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6400
+  }
+ }
+}

@@ -1,0 +1,77 @@
+{
+ "arac_gerec": [
+  "Dokuma tezgahları (manuel ve otomatik/jakarlı tezgahlar)",
+  "Çözgü hazırlama ve haşıllama makineleri",
+  "İplik büküm, bobin ve çözgü makineleri",
+  "Kumaş analiz ve test cihazları (mukavemet, sıklık, gramaj ölçerler)",
+  "Örgü-desen şablonları, kartela ve numune kumaşlar",
+  "Mesleki resim ve desen çizim araçları, bilgisayar destekli tasarım yazılımları",
+  "Bilgisayar, projeksiyon cihazı gibi görsel eğitim araçları",
+  "Ders kitapları, yardımcı kaynaklar, iş ve işlem yaprakları",
+  "Yıllık ve günlük çalışma planı, not defteri, yoklama ve değerlendirme formları",
+  "Kişisel koruyucu donanım (iş önlüğü, eldiven vb.)"
+ ],
+ "genel_ozellikler": [
+  "El ve göz koordinasyonu iyi,",
+  "Renk ve desen ayırt etme becerisi gelişmiş,",
+  "Dikkatli ve sabırlı,",
+  "Sanata ve el sanatlarına ilgili,",
+  "Öğretmeyi seven, insanlarla iyi iletişim kurabilen,",
+  "Planlı ve düzenli çalışabilen,",
+  "Yeniliklere ve teknolojik gelişmelere açık,",
+  "Ekip çalışmasına uyumlu,"
+ ],
+ "calisma_ortami": "Tekstil dokuma öğretmeni, mesleki ve teknik ortaöğretim kurumlarının sınıf ve atölyelerinde görev yapar. Teorik dersler sınıf ortamında, uygulamalı dersler ise dokuma tezgahlarının bulunduğu atölyede yürütülür; atölye ortamı zaman zaman gürültülü olabilir ve iplik/kumaş tozuna bağlı rahatsızlıklar görülebilir, dikkatsizlik durumunda makine ve kesici aletlerle ilgili kazalar yaşanabilir. Çalışma süresi okulun ders programına göre belirlenir, gerektiğinde nöbet tutulur. Görev sırasında öğrenciler, diğer öğretmenler, okul idarecileri ve velilerle sürekli iletişim içindedir.\n\nBazı durumlarda, uygulamalı projeler veya staj kapsamında tekstil işletmelerine yapılan ziyaretler nedeniyle atölye dışı çalışma ortamlarına da çıkılabilir.",
+ "egitim": {
+  "verildigi_yerler": "Bu mesleğin lisans eğitimi, geçmişte bazı üniversitelerin Mesleki Eğitim Fakültesi bünyesindeki tekstil/giyim eğitimi bölümlerinde verilmekteydi; günümüzde bu bölümlerin büyük bölümüne öğrenci alınmamaktadır. Halen tekstil alanında eğitim veren üniversitelerin Tekstil Mühendisliği, Tekstil Teknolojisi ve Tasarımı gibi bölümlerinden mezun olanlar, ilgili mevzuat çerçevesinde pedagojik formasyon eğitimi alarak mesleki ve teknik Anadolu liselerinde tekstil dokuma öğretmeni olarak atanabilmektedir.",
+  "giris_kosullari": [
+   "Lise veya dengi okul mezunu olmak",
+   "YKS (Yükseköğretim Kurumları Sınavı) sonucuna göre ilgili puan türünden yeterli puanı almak",
+   "ÖSYM tercih kılavuzunda belirtilen koşulları taşımak"
+  ],
+  "sure_ve_icerik": "Lisans eğitimi normal şartlarda 4 yıl sürer. Eğitim süresince genel tekstil bilgisi, tekstil kimyası, örgü ve dokuma bilgisi, kumaş analizi, üretim ve işlem metotları, meslek resmi ile birlikte temel mühendislik ve tasarım dersleri okutulur. Öğretmenlik mesleğine girebilmek için bu derslere ek olarak pedagojik formasyon eğitimi (öğretim yöntemleri, ölçme-değerlendirme, sınıf yönetimi vb.) alınması ve genellikle bir dönem okullarda öğretmenlik uygulaması yapılması gerekir.",
+  "belge": "Eğitimini başarı ile tamamlayanlara ilgili bölümden lisans diploması, ayrıca öğretmenlik yapabilmek için pedagojik formasyon belgesi/sertifikası verilir."
+ },
+ "calisma_alanlari": "Tekstil dokuma öğretmenleri başlıca Milli Eğitim Bakanlığı'na bağlı resmi veya özel mesleki ve teknik Anadolu liselerinin tekstil teknolojisi alanı/dokuma dalında öğretmen olarak istihdam edilir. Ayrıca Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kurslarında eğitmen olarak görev alabilir; özel öğretim kurslarında ders verebilir. Mesleki bilgi ve deneyimleri sayesinde tekstil ve dokuma işletmelerinde eğitim sorumlusu, kalite kontrol veya üretim takip personeli olarak da çalışabilirler.",
+ "kazanc": {
+  "egitim_suresince": "Eğitim süresince öğrencilerin düzenli bir kazancı yoktur. Yüksek Öğrenim Kredi ve Yurtlar Kurumu Genel Müdürlüğü'nün sağladığı yurt hizmetleri, öğrenci kredisi ve harç imkânlarından yararlanılabilir; ayrıca çeşitli kurum ve kuruluşların burslarından yararlanılabilir.",
+  "egitim_sonrasi": [
+   "Milli Eğitim Bakanlığı'na bağlı resmi okullarda göreve başlayanlar 657 sayılı Devlet Memurları Kanunu'na göre maaş ve ek ders ücreti alır.",
+   "Özel okullarda çalışanların kazancı, okulun imkânlarına, öğretmenin deneyim ve niteliklerine göre işveren ile yapılan anlaşma doğrultusunda değişir.",
+   "Tekstil işletmelerinde eğitimci veya uzman olarak çalışanların kazancı işletmenin büyüklüğüne ve kişinin deneyimine göre farklılık gösterir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "İlgili alanda yüksek lisans ve doktora yaparak akademik kariyer yapabilir; branşıyla ilgili ek sertifika ve eğitim programlarına katılarak uzmanlık alanını genişletebilir.",
+  "is_hayatinda": "Deneyim ve performansa bağlı olarak zümre başkanlığı, bölüm/alan şefliği, müdür başyardımcılığı ve okul müdürlüğü gibi idari görevlere; Milli Eğitim Bakanlığı bünyesinde eğitim uzmanlığı veya müfettişlik gibi görevlere yükselebilir."
+ },
+ "benzer_meslekler": [
+  "Çiçek, Örgü, Dokuma Öğretmeni",
+  "Giyim/Hazır Giyim/Moda Tasarımı Öğretmeni",
+  "Giyim Endüstrisi Öğretmeni",
+  "Giyim Öğretmeni-Ortaöğretim",
+  "Hazır Giyim Öğretmeni",
+  "Moda Tasarımı Öğretmeni"
+ ],
+ "ek_bilgiler": "Tekstil sektöründeki teknolojik değişim ve mesleki eğitim programlarındaki güncellemeler, bu alandaki öğretmen kadrolarının sayısını ve dağılımını etkileyebilir. İstihdamda, güncel dokuma teknolojileri ve bilgisayar destekli tasarım konusundaki bilgi ve belgeler tercih sebebi olabilir.",
+ "gorevler": [
+  "Eğitiminden sorumlu olduğu öğrenci grubunun düzeyine uygun yıllık ve günlük çalışma planı hazırlar.",
+  "Sorumlu olduğu dokuma atölyesi ve laboratuvarı eğitime hazır durumda bulundurur.",
+  "Yıllık müfredat programı ve günlük çalışma planına göre öğrencilere tekstil dokuma konusunda ders verir.",
+  "Genel tekstil bilgisi, test metotları ve uygulaması, mesleki matematik ve istatistik, tekstil kimyası ve uygulaması, üretim ve işlem metotları, örgü bilgisi, dokuma kumaş analizi, kumaş bilgisi, dokuma şablonu, meslek resmi, temel sanat eğitimi, iş yönetimi ve insan ilişkileri, dokuma hesapları konularında açıklamalarda bulunur.",
+  "Uygulama çalışmaları yaptırarak öğrencilerin mesleki bilgi ve becerilerini geliştirmesini sağlar.",
+  "Öğrencileri belirli dönemlerde yazılı ve sözlü sınava tabi tutarak değerlendirir.",
+  "Öğrencilerin gelişimini izler, karşılaştıkları sorunların çözümüne yardımcı olur.",
+  "Zümre öğretmenler kurulu ve öğretmenler kurulu toplantılarına katılır.",
+  "Alanındaki teknolojik ve mesleki gelişmeleri izleyerek öğretim programlarına yansıtılması için önerilerde bulunur.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T02:34:40",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 8486
+  }
+ }
+}

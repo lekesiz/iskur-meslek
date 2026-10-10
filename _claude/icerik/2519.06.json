@@ -1,0 +1,71 @@
+{
+ "arac_gerec": [
+  "Bilgisayar ve sunucu donanımları",
+  "Ağ ve iletişim ekipmanları",
+  "Hata takip/ticket yönetim sistemleri",
+  "Veritabanı yönetim ve sorgulama araçları (SQL)",
+  "Test ve kurulum ortamları, yazılım dağıtım paketleri",
+  "Uzaktan erişim ve uzak masaüstü yazılımları",
+  "Versiyon kontrol sistemleri",
+  "Dokümantasyon ve sunum yazılımları",
+  "Çağrı merkezi/canlı destek yazılımları",
+  "Ofis yazılımları"
+ ],
+ "benzer_meslekler": [
+  "BT Çözümleri Uzmanı",
+  "Uygulama Uzmanı/Danışmanı (Bilişim)",
+  "Bilgi İşlem Destek Uzmanı",
+  "Sistem Uzmanı/Danışmanı",
+  "BT İş Analisti (Bilişim Teknolojileri İş Analisti)",
+  "Kalite Güvence Analisti (Bilgisayar)"
+ ],
+ "calisma_alanlari": "Uygulama Destek Uzmanı, kurumsal yazılım kullanan özel sektör işletmelerinin ve kamu kurumlarının bilgi işlem/bilgi teknolojileri birimlerinde; ERP, CRM gibi kurumsal uygulamalar geliştiren veya satan yazılım firmalarında; bilişim danışmanlık şirketlerinde ve çağrı/destek merkezlerinde çalışabilir.\\n\\nKurumların dijitalleşme sürecinin hızlanması, kurumsal yazılım kullanımının yaygınlaşması ve müşteri/kullanıcı desteğine verilen önemin artması bu mesleğe olan ihtiyacı sürekli kılmaktadır. İlgili lisans programlarından mezun olan ve yazılım/veritabanı bilgisine, iletişim becerisine sahip kişiler için iş bulma olanakları genel olarak olumludur.",
+ "calisma_ortami": "Uygulama Destek Uzmanı genellikle kapalı ortamda, büro içinde masa başında bilgisayar ile çalışır. Çalışma düzeni çoğunlukla ekip hâlindedir; yazılım geliştirme ekipleri, kullanıcılar ve müşterilerle sürekli iletişim gerektirir. Bazı durumlarda kurulum veya eğitim amacıyla kullanıcıların bulunduğu birimlere/sahaya gidilebilir.\\n\\nİş genellikle masa başı ve ekran önünde yoğun şekilde geçer; hata bildirimlerinin aciliyetine bağlı olarak zaman baskısı yaşanabilir, bazı kurumlarda vardiyalı çalışma veya mesai saatleri dışında nöbet/çağrı üzerine destek verme söz konusu olabilir. Uzun süre ekran karşısında oturarak çalışmanın getirdiği göz ve sırt yorgunluğu gibi riskler bulunur.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi üniversitelerin bilgisayar mühendisliği, yazılım mühendisliği, bilgisayar bilimleri, bilgi sistemleri mühendisliği, yönetim bilişim sistemleri gibi ilgili dört yıllık lisans programlarında verilmektedir.",
+  "giris_kosullari": [
+   "Lise veya dengi okul mezunu olmak",
+   "YKS (Yükseköğretim Kurumları Sınavı) kılavuzunda belirtilen giriş koşullarını taşımak",
+   "İlgili lisans programı için yeterli puan ve sıralamaya sahip olmak"
+  ],
+  "sure_ve_icerik": "Eğitim süresi 4 yıldır. Eğitim süresince programlama dilleri, veritabanı yönetim sistemleri, yazılım mühendisliği, sistem analizi ve tasarımı, ağ ve sistem yönetimi, yazılım test ve kalite güvencesi gibi dersler okutulmaktadır. Lisans eğitimine ek olarak, mezuniyet sonrası uygulamaya yönelik kurumsal yazılım (ERP, CRM vb.) ürünlerine özgü eğitimler ve sertifika programları da mesleğe hazırlıkta önemli rol oynar.",
+  "belge": "Eğitimini başarı ile tamamlayanlara lisans diploması verilir."
+ },
+ "ek_bilgiler": "Mesleki Yeterlilik Kurumu (MYK) belgesi ve kurumsal yazılım/ERP üreticilerinin verdiği ürüne özgü sertifikalar istihdamda tercih sebebi olabilir. Mesleğin tehlikeli veya çok tehlikeli işler kapsamında yasal bir zorunluluğu bulunmamaktadır.",
+ "genel_ozellikler": [
+  "Analitik düşünme ve problem çözme yeteneğine sahip,",
+  "Bilgisayar ve yazılım teknolojilerine ilgili,",
+  "İletişim becerisi gelişmiş,",
+  "Dikkatli ve sabırlı,",
+  "Sorumluluk sahibi ve güvenilir,",
+  "Ekip çalışmasına uyumlu,",
+  "Yeni teknolojileri öğrenmeye açık ve kendini sürekli geliştiren"
+ ],
+ "gorevler": [
+  "Yeni yazılım sürümlerinin testlerini ve kurulumunu yapar.",
+  "Kullanıcılardan gelen hata kayıtlarını (ticket) analiz eder ve çözer.",
+  "Uygulama kullanımı hakkında eğitim dokümanları hazırlar.",
+  "Veritabanı sorguları yaparak veri tutarlılığını kontrol eder.",
+  "Yazılım geliştirme ekibine hata ve iyileştirme geri bildirimleri sunar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "İlgilenenler yüksek lisans ve doktora yaparak akademik kariyer yapabilir, ileri düzey yazılım/veritabanı sertifikaları ve kurumsal uygulama alanında uzmanlık sertifikaları alarak bilgi ve becerilerini geliştirebilirler.",
+  "is_hayatinda": "Deneyim kazandıkça kıdemli uygulama destek uzmanı, destek ekibi lideri, proje yöneticisi, sistem analisti veya danışman gibi pozisyonlara yükselebilirler."
+ },
+ "kazanc": {
+  "egitim_suresince": "Lisans eğitimi süresince öğrenciler Kredi ve Yurtlar Genel Müdürlüğünün sunduğu öğrenim kredisi ve yurt hizmetlerinden, çeşitli kurum/kuruluşların burslarından yararlanabilir; staj ve part-time çalışmalar yoluyla da gelir elde edebilirler.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında çalışanlar 657 sayılı Devlet Memurları Kanunu'na göre öğrenim düzeyine uygun maaş ve yan ödeme alır.",
+   "Özel sektörde ücret; işletmenin büyüklüğüne, sektöre, çalışılan konuma ve deneyime göre değişir; mesleğe yeni başlayanlarda genellikle asgari ücret düzeyinde olabilir, deneyim arttıkça kazanç yükselir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T06:02:37",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 4625
+  }
+ }
+}

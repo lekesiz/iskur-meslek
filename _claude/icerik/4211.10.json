@@ -1,0 +1,84 @@
+{
+ "arac_gerec": [
+  "Bilgisayar ve banka gişe/çekirdek bankacılık yazılımları",
+  "Nakit sayma, tasnif ve bantlama makineleri",
+  "Sahte para dedektörü (ultraviyole lamba)",
+  "Kasa, kasa anahtarı/şifresi ve güvenlik dolabı",
+  "Yazıcı, dekont, fiş ve diğer işlem formları",
+  "Kimlik doğrulama/okuma cihazı ve güvenlik kamerası",
+  "İmza sirküleri ve müşteri kimlik/işlem belgeleri",
+  "POS cihazı ve kart okuyucu",
+  "Hesap makinesi",
+  "Telefon ve kurum içi iletişim sistemleri",
+  "Döviz kuru ve işlem ekranları",
+  "Evrak dosyalama ve arşivleme malzemeleri",
+  "Alarm ve güvenlik sistemleri"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve titiz,",
+  "Dürüst ve güvenilir,",
+  "Sayılarla çalışmaktan hoşlanan ve matematiksel işlem yapma becerisine sahip,",
+  "Düzenli, sistemli ve kurallara uygun çalışabilen,",
+  "İnsanlarla iyi iletişim kurabilen ve müşteri odaklı,",
+  "Sabırlı ve stresli ortamlarda sakin kalabilen,",
+  "Sorumluluk sahibi ve gizliliğe önem veren,",
+  "Takım çalışmasına uyumlu"
+ ],
+ "calisma_ortami": "Banka gişe yetkilisi, banka şubelerinin gişe bölümünde kapalı, genellikle temiz ve aydınlık bir büro ortamında çalışır. Çalışma, çoğunlukla masa başında bilgisayar ve nakit işlem ekipmanlarıyla oturarak yürütülür; ancak yoğun saatlerde ayakta ve hızlı tempoda işlem yapmak gerekebilir. Mesai, bankacılık sektörünün çalışma saatlerine bağlı olup ay sonu, yıl sonu veya kampanya dönemlerinde fazla çalışma gerekebilir.\\n\\nMeslek, sürekli olarak nakit ve kıymetli evrakla ilgilendiğinden dikkat gerektirir; hata, sahtecilik ve güvenlik (hırsızlık/soygun) riskine karşı tedbirli olunması gerekir. Çalışan; şube müdürü, diğer banka personeli ve özellikle çok sayıda ve çeşitli müşteri ile sürekli yüz yüze iletişim halindedir.",
+ "egitim": {
+  "verildigi_yerler": "Banka Gişe Yetkilisi mesleği için ayrı, resmi olarak tanımlanmış tek bir mesleki eğitim programı bulunmamaktadır. Ortaöğretim düzeyinde ticaret meslek liselerinin bankacılık ve sigortacılık ile ilgili alanları, üniversitelerin bankacılık, bankacılık ve sigortacılık gibi ön lisans/lisans programları ve bankaların kendi eğitim merkezlerinde verilen hizmet içi eğitimler bu mesleğe yönelik bilgi ve beceri kazandırır.",
+  "giris_kosullari": [
+   "En az lise veya dengi okul mezunu olmak",
+   "Bankaların kendi açtığı işe alım sınavı, mülakat ve değerlendirme süreçlerini başarıyla tamamlamak",
+   "Bazı bankalarda ön lisans veya lisans mezuniyeti tercih sebebi olabilir",
+   "Temiz adli sicil kaydı ve güvenilirlik şartı gibi bankaca belirlenen kriterleri taşımak"
+  ],
+  "sure_ve_icerik": "Örgün bir mesleki eğitim süresi tanımlı değildir. Lise veya ön lisans eğitimi genel bankacılık, muhasebe ve finans bilgisi sağlar; işe alındıktan sonra bankalar tarafından genellikle birkaç haftadan birkaç aya kadar sürebilen hizmet içi eğitimler verilir. Bu eğitimlerde gişe işlemleri, bankacılık mevzuatı, müşteri ilişkileri, iş güvenliği ve kullanılan yazılımlar üzerinde uygulamalı olarak çalışılır; ayrıca işbaşında usta/deneyimli personel yanında yetiştirme yöntemi uygulanır.",
+  "belge": "Lise veya ön lisans/lisans diploması mesleğe giriş için temel koşuldur. Bankaların kendi düzenlediği hizmet içi eğitimler sonunda resmi bir diploma değil, kurum içi eğitim sertifikası/katılım belgesi verilir."
+ },
+ "calisma_alanlari": "Banka gişe yetkilileri başta kamu ve özel sektöre ait mevduat ve katılım bankaları olmak üzere, gişe hizmeti veren PTT gibi kamu kurumlarının şubelerinde istihdam edilebilir. Bankacılık sektörünün ekonomik hayattaki sürekli yeri nedeniyle, güvenilir, dikkatli ve müşteri ilişkilerine önem veren meslek mensupları için iş bulma olanakları genel olarak istikrarlıdır; ancak dijital bankacılığın yaygınlaşması gişe işlemlerinin bir bölümünün otomatikleşmesine ve istihdam yapısının zamanla değişmesine yol açabilmektedir.",
+ "gorevler": [
+  "Mesai saati başlamadan önce gişe gün başı hazırlığını yapar.",
+  "Şube mevduat ve kredi hesaplarına nakit veya çekle para yatırma/çekme işlemlerini yapar.",
+  "Müşteri hesap açılış talebini yerine getirir.",
+  "Satış ekipleri tarafından gerçekleştirilen işlemlerin nakit tahsilatlarını gerçekleştirir.",
+  "Müşterilere ödeme yapılması gereken işlemlerde kimlik tespiti yapar ve müşteri imzasını doğrular, yetkisini aşan durumları ilgili yöneticiye iletir.",
+  "Para yatırma-çekme, gelen havale/EFT işlemlerini yapar.",
+  "Döviz tevdiat hesaplarının efektif açılış, işleyiş ve kapanış işlemlerini ve bu hesaplardan ödeme işlemlerini yapar.",
+  "Çek/senet bedellerinin tahsilat/ödeme işlemlerini yapar.",
+  "Bireysel sigorta prim ödeme/iade/hasar ödemelerini yapar.",
+  "Otomatik/düzenli ödeme talimatı alır, fatura/kredi kartı tahsilatı yapar, tahvil ana para ve faiz kuponu ödeme işlemlerini gerçekleştirir.",
+  "Gün sonu işlemlerini gerçekleştirir; kendi kasası için gün sonu raporlarını alır ve kasa mutabakatlarını yapar.",
+  "Gün içinde gerçekleştirilen havale, çek, fatura tahsilatı, para yatırma, para çekme gibi işlemlere ait dokümanları düzenli olarak dosyalar.",
+  "Resmi kurumlar tarafından talep edilen ve banka prosedürlerinin gerektirdiği ek dokümanları müşteriden kontrol ederek teslim alır, eksik belgeleri müşteriye bildirir.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "kazanc": {
+  "egitim_suresince": "Bu meslek için ayrı, örgün bir mesleki eğitim programı bulunmadığından, lise veya ön lisans öğrenimi sırasında bu mesleğe özgü bir kazanç söz konusu değildir. Bankaya işe alındıktan sonra verilen hizmet içi eğitim dönemi genellikle ücretli çalışma kapsamında değerlendirilir.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde veya buna yakın bir ücretle çalışmaya başlar.",
+   "Deneyim, kıdem, çalışılan banka ve performansa göre ücretler zamanla artabilir; kamu bankalarında statüye göre 657 sayılı Kanun veya toplu iş sözleşmesi hükümleri, özel bankalarda ise kurumsal ücret politikaları ve ek prim/ikramiye uygulamaları ücreti belirleyen başlıca etkenlerdir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Bu meslek için tanımlı ayrı bir dikey mesleki eğitim basamağı yoktur. Ön lisans bankacılık/bankacılık ve sigortacılık eğitimi alanlar Dikey Geçiş Sınavı (DGS) ile ilgili lisans programlarına geçebilir; lisans eğitimi alanlar ise bankacılık, finans veya işletme alanlarında yüksek lisans yaparak bilgi ve niteliklerini artırabilir.",
+  "is_hayatinda": "Deneyim kazanan banka gişe yetkilileri, kurum içindeki performans ve kıdemlerine göre müşteri temsilciliği, servis/yetkili yardımcılığı, operasyon uzmanlığı gibi görevlere; ilerleyen süreçte şube müdür yardımcılığı ve şube müdürlüğü gibi üst pozisyonlara yükselme olanağına sahiptir."
+ },
+ "benzer_meslekler": [
+  "Veznedar-Banka",
+  "Veznedar",
+  "Gişe Memuru-Ptt",
+  "Müşteri Temsilcisi (banka)",
+  "Servis Yetkilisi (Banka)",
+  "Bankacılık Meslek Elemanı"
+ ],
+ "ek_bilgiler": "Banka gişe işlemleri doğrudan nakit ve kıymetli evrakla ilgili olduğundan, bankalar işe alım sürecinde adaylarda dürüstlük, güvenilirlik ve temiz adli sicil kaydı gibi şartlar arayabilir. Mesleki Yeterlilik Kurumu (MYK) belgesi bu meslekte yasal bir zorunluluk olmamakla birlikte, istihdamda tercih sebebi olabilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T15:44:58",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6792
+  }
+ }
+}

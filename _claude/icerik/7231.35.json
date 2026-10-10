@@ -1,0 +1,89 @@
+{
+ "arac_gerec": [
+  "Arıza tespit (diyagnostik) cihazı",
+  "Motor test cihazı",
+  "Kompresyon ölçer",
+  "Avometre/multimetre",
+  "Anahtar takımları (açık, yıldız, lokma)",
+  "Tornavida ve pense takımları",
+  "Tork anahtarı (torkmetre)",
+  "Kriko ve araç kaldırma lifti (post)",
+  "Yağ değiştirme ve yağlama ekipmanları",
+  "Fren hidrolik test ve kanama cihazı",
+  "Enjektör ve karbüratör temizleme/test cihazı",
+  "Buji anahtarı ve temizleme cihazı",
+  "El aletleri (çekiç, keski, eğe, matkap)",
+  "Basınçlı hava tabancası",
+  "Kaynak makinesi"
+ ],
+ "genel_ozellikler": [
+  "Mekanik problemleri çözebilme gücüne sahip,",
+  "El ve kol becerisi gelişmiş,",
+  "Şekiller ve parçalar arasındaki ilişkiyi algılayabilen,",
+  "Dikkatli ve sabırlı,",
+  "Sorumluluk sahibi,",
+  "Gelişen araç teknolojilerini takip etmeye açık,",
+  "Fiziksel olarak dayanıklı,",
+  "Takım çalışmasına uyumlu"
+ ],
+ "calisma_ortami": "Benzinli otomotiv mekanikeri, oto tamir atölyelerinde, yetkili servislerde ve bakım istasyonlarında, genellikle kapalı mekanlarda; bazı durumlarda araç çekme ve yol yardımı gibi işler için açık havada çalışır. Ortam yağlı, gürültülü olabilir; yakıt, yağ ve kimyasal madde kokusuna maruz kalınır. Ayakta, eğilerek veya araç altında çalışma gerektirdiğinden fiziksel efor ister; kesilme, yanma, ağır parça kaldırma gibi iş kazası riskleri bulunur, bu nedenle iş sağlığı ve güvenliği kurallarına, koruyucu donanım kullanımına özen gösterilmesi gerekir.\n\nÇalışma saatleri genellikle gündüz mesai düzenindedir, ancak işletmenin yoğunluğuna göre uzayabilir. Meslek çalışanı; müşteriler, usta, çırak ve diğer servis personeli, yedek parça tedarikçileri ile sürekli iletişim halindedir.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi, yeterli talep olması durumunda mesleki eğitim merkezlerinde \"Motorlu Araçlar Teknolojisi\" alanının otomotiv mekanikerliği ile ilgili dalında çıraklık, kalfalık ve ustalık eğitimi olarak verilmektedir. Benzer içerikli eğitim, mesleki ve teknik Anadolu liselerinin ilgili alanlarında da sunulmaktadır. Ayrıca Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kursları ile temel düzeyde beceri kazandırılabilir; birçok kişi mesleği işbaşında usta yanında çalışarak öğrenmektedir.",
+  "giris_kosullari": [
+   "En az ortaokul mezunu olmak",
+   "14 yaşını doldurmuş olmak",
+   "Mesleğin gerektirdiği bedensel ve sağlık yeterliliğine sahip olmak (gerektiğinde sağlık raporu ile belgelendirilir)",
+   "Çıraklık eğitimi için eğitim görmek istediği işyerini bulup işveren ile çıraklık sözleşmesi imzalamak"
+  ],
+  "sure_ve_icerik": "Mesleki eğitim merkezlerinde eğitim, ilköğretim sonrası yaklaşık 4 yıl sürmektedir; bu sürenin bir kısmı kalfalık, kalan kısmı ustalık eğitimine ayrılır. Eğitim, haftada bir gün mesleki eğitim merkezinde teorik ders, kalan günlerde çıraklık sözleşmesi yapılan işyerinde usta öğretici gözetiminde uygulamalı çalışma şeklinde yürütülür. Eğitim içeriğinde temel mekanik, elektrik-elektronik, motor, fren, direksiyon, süspansiyon, şanzıman ve periyodik bakım konuları yer alır. Kısa süreli kurslarla da temel beceriler kazanılabilir; ancak mesleki ustalık genellikle uzun süreli uygulamalı deneyimle gelişir.",
+  "belge": "Eğitimi başarıyla tamamlayanlara kalfalık belgesi, ardından ustalık belgesi verilir; fark derslerinin tamamlanması halinde meslek lisesi diploması alınabilir. Ayrıca Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "gorevler": [
+  "Arıza tespit işlemlerini yapar.",
+  "Temel mekanik işlemlerini yapar.",
+  "Temel elektrik ve elektronik işlemlerini yapar.",
+  "Motor mekaniğinin bakım ve onarımını yapar.",
+  "Direksiyon sistemlerinin bakım ve onarımını yapar.",
+  "Ön düzen ve tekerleklerin bakım ve onarımını yapar.",
+  "Süspansiyon sistemlerinin bakım ve onarımını yapar.",
+  "Araçlarda hidrolik sistemlerle ilgili işlem ve hesaplamaları yapar.",
+  "Araçlarda pnömatik sistemlerle ilgili işlem ve hesaplamaları yapar.",
+  "Fren sistemlerinin bakım ve onarımını yapar.",
+  "Kavramaların ve mekanik vites kutularının bakım ve onarımını yapar.",
+  "Otomatik transmisyonların bakım ve onarımını yapar.",
+  "Şaft, diferansiyel ve aksların bakım ve onarımını yapar.",
+  "Benzinli motorların yakıt ve ateşleme sistemlerinin bakım ve onarımını yapar.",
+  "Araçlarda periyodik bakım yapar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "calisma_alanlari": "Benzinli otomotiv mekanikerleri; özel oto tamirhanelerinde, yetkili marka servislerinde, akaryakıt istasyonlarına bağlı servis noktalarında, filo ve araç kiralama şirketlerinin bakım birimlerinde, toplu taşıma işletmelerinin ve belediyelerin araç bakım atölyelerinde, kamu kurumlarının taşıt park ve bakım birimlerinde çalışabilirler. Deneyim ve sermaye biriktirdikten sonra kendi işyerlerini (oto tamirhanesi/servis) açma olanağına da sahiptirler. Otomotiv sektörünün ülkemizde gelişmekte olan sektörlerden biri olması, bu alanda nitelikli iş gücü talebinin sürmesini sağlamaktadır.",
+ "kazanc": {
+  "egitim_suresince": "Çıraklık eğitimi sırasında 3308 sayılı Mesleki Eğitim Kanunu kapsamında işletmelerde mesleki eğitim gören öğrencilere yasal düzenlemelerle belirlenen oranlarda ücret ödenir ve iş kazası-meslek hastalığı sigorta primleri devletçe karşılanır.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanların kazancı genellikle asgari ücret düzeyindedir.",
+   "Deneyim, bilgi, beceri ve çalışılan işletmenin büyüklüğüne göre kazanç artabilir.",
+   "Kendi işyerini açanların kazancı işletmenin büyüklüğü ve müşteri potansiyeline göre değişkenlik gösterir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Çırak olarak başlayan kişi, eğitimini tamamladığında kalfalık belgesi, ardından ustalık belgesi alarak mesleki unvanını ilerletebilir. İsteyenler fark derslerini tamamlayarak meslek lisesi diploması ve mesleğiyle ilgili işyeri açma belgesi alabilir.",
+  "is_hayatinda": "Deneyim kazandıkça usta, servis/atölye sorumlusu, ekip şefi veya servis danışmanı gibi görevlere yükselebilir; birikim ve sermaye oluşturduğunda kendi işyerini açabilir."
+ },
+ "benzer_meslekler": [
+  "Otomotiv Mekanikeri",
+  "Dizel Otomotiv Mekanikeri",
+  "Oto Bakım-Onarımcısı (Otomotiv Mekanikcisi)",
+  "Otobüs/Kamyon Bakım Onarımcısı",
+  "Traktör Bakım Onarımcısı",
+  "Motorlu Araçlar LPG Sistemleri Bakım ve Onarımcısı"
+ ],
+ "ek_bilgiler": "Bu meslek, tanımı itibarıyla benzinli motorlu araçların elektrik sistemleri hariç mekanik bakım ve onarımını kapsar; araç elektrik-elektronik arızaları genellikle otomotiv elektromekanikeri/diagnostik uzmanlarının çalışma alanına girer. Elektrikli ve hibrit araçların yaygınlaşması, gelecekte bu mesleğin bilgi ve beceri kapsamını da etkileyebilecek bir sektörel eğilimdir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T02:28:04",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6791
+  }
+ }
+}

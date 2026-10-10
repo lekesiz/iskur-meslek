@@ -1,0 +1,82 @@
+{
+ "arac_gerec": [
+  "El takımları (anahtar takımları, tornavida, pense, çekiç vb.)",
+  "Torkmetre ve tork anahtarları",
+  "Hidrolik kriko, vinç ve köprülü vinç gibi kaldırma-taşıma ekipmanları",
+  "Ölçme ve kontrol aletleri (kumpas, mikrometre, manometre, basınç ölçerler)",
+  "Yağlama ekipmanları ve yağlama malzemeleri",
+  "Temizlik solventleri ve koruyucu kaplama malzemeleri",
+  "Yedek parça ve sarf malzemeleri",
+  "Silah bakım-onarımına özel test ve kontrol cihazları",
+  "Teknik resim, şema ve bakım kılavuzları",
+  "Pnömatik ve elektrikli el aletleri",
+  "Torna, freze gibi destek amaçlı metal işleme tezgâhları",
+  "Kişisel koruyucu donanım (iş elbisesi, eldiven, koruyucu gözlük, kulaklık, iş ayakkabısı)"
+ ],
+ "genel_ozellikler": [
+  "El ve beden becerisi gelişmiş,",
+  "Mekanik ve teknik konulara ilgili ve yetenekli,",
+  "Dikkatli, sabırlı ve sorumluluk sahibi,",
+  "Fiziksel olarak güçlü ve sağlıklı,",
+  "Takım halinde çalışmaya uyumlu,",
+  "Analitik düşünebilen ve arıza tespitinde başarılı,",
+  "İş güvenliği kurallarına titizlikle uyan,",
+  "Gizlilik ve disiplin ilkelerine bağlı"
+ ],
+ "calisma_ortami": "Ağır Silah Bakım Onarımcıları, genellikle savunma sanayi tesislerinde, askeri bakım fabrikalarında ve atölye ortamlarında çalışır. Çalışma ortamı çoğunlukla kapalı atölye alanlarıdır; ancak test ve deneme çalışmaları için açık alanlara da çıkılabilir. Ortamda yağ, metal tozu, gürültü ve ağır parça kaldırma gibi fiziksel riskler bulunur; bu nedenle iş sağlığı ve güvenliği kurallarına tam uyum büyük önem taşır. Çalışma genellikle ekip halinde yürütülür; teknisyenler, mühendisler, kalite kontrol personeli ve ilgili kurumların görevlileriyle yakın iş birliği gerektirir. İşin niteliğine göre vardiyalı çalışma ve bazen uzun süreli yoğun bakım dönemleri söz konusu olabilir.",
+ "gorevler": [
+  "Yapılacak bakım ve onarım işine göre kullanılacak takım ve yedek parçaları hazırlar.",
+  "İş emrinde verilen süre içinde arızayı izole eder.",
+  "Çıkabilecek olumsuzlukları ve malzeme ihtiyacını durum raporu ile ilgili birimlere bildirir.",
+  "İlgili birimden gelen direktifler doğrultusunda malzeme ihtiyacını ve olumsuzlukları giderir.",
+  "Bakım için gelen ağır silahların bakımını yapar ve gerekli parçalarını değiştirir.",
+  "Zincir gevşemesi ve kopması, motordaki tortu birikmesi, namlu içindeki barut gazı basıncı sistem tıkanması gibi arızaları giderir.",
+  "Namlu besleme sistemindeki ayarsızlıkları giderir.",
+  "Silah üzerindeki atışı sağlayan mekanik parçaların bakım ve kontrolünü yapar.",
+  "Silahların top kısmının hareket kabiliyetindeki arızaları giderir.",
+  "Ana toplardaki hidrolik ve yağ kaçaklarını giderir.",
+  "Genel bakım (overhol) kapsamında fabrikaya alınan silahı komple söker, kontrol ve ayarlarını yaparak değişecek parçaları değiştirir, toplayıp testlerini yaparak ilgili yerine tekrar takılmasını sağlar.",
+  "Meslek alanı ile ilgili gelişmeleri takip eder, uygular.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Bu meslek için örgün eğitimde ayrı bir meslek lisesi alanı/dalı veya çıraklık eğitimi programı bulunmamaktadır. Eğitim, genellikle savunma sanayii kuruluşları ile Türk Silahlı Kuvvetleri'ne bağlı bakım fabrikalarının kendi bünyesinde, usta-çırak ilişkisi içinde iş başında ve kurum içi teknik eğitim programları ile verilmektedir. Makine, motor, metal teknolojisi gibi mesleki ve teknik eğitim alanlarından mezun olanlar bu mesleğe daha kolay yönelebilir.",
+  "giris_kosullari": [
+   "En az ilköğretim/ortaokul mezunu olmak",
+   "Fiziksel ve sağlık durumunun ağır işlere uygun olduğunu belgelemek",
+   "İlgili kurumun talep ettiği güvenlik soruşturması ve arşiv araştırması şartını karşılamak",
+   "İş başında eğitim verecek işyeri/kurumla ilişki kurmak"
+  ],
+  "sure_ve_icerik": "Resmî olarak belirlenmiş sabit bir eğitim süresi bulunmamaktadır. Eğitim, kurumların ihtiyacına göre değişen sürelerde, teorik bilgilerin yanında işbaşında usta gözetiminde pratik uygulama şeklinde yürütülür. İçerik; silah sistemlerinin mekanik, hidrolik yapısı, bakım-onarım teknikleri, kullanılan ölçme-kontrol aletleri ve iş güvenliği uygulamalarını kapsar.",
+  "belge": "Eğitimi tamamlayanlara genellikle kurum içi yeterlilik/sertifika belgesi verilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, ilgili meslek standardı yayımlanmışsa istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Ağır Silah Bakım Onarımcıları başlıca savunma sanayii alanında üretim ve bakım-onarım yapan kamu ve özel sektör kuruluşlarında, Türk Silahlı Kuvvetleri'ne bağlı bakım fabrikaları ve arsenallerde, zırhlı araç ve ağır silah sistemleri üreten/bakımını yapan işletmelerde istihdam edilir. İş bulma olanakları, savunma sanayii yatırımlarının yoğunlaştığı bölgelerde ve bu alandaki kurum/kuruluşların personel ihtiyacına bağlı olarak değişmektedir.",
+ "kazanc": {
+  "egitim_suresince": "Kurum içi eğitim veya işbaşı uygulama döneminde genellikle asgari ücret düzeyinde veya kurumun belirlediği ücret ödenir.",
+  "egitim_sonrasi": [
+   "Kamu kurumuna bağlı işyerlerinde işçi statüsünde çalışanların ücreti, ilgili toplu iş sözleşmesi hükümlerine göre belirlenir.",
+   "Memur statüsünde görev yapılması durumunda 657 sayılı Devlet Memurları Kanunu'na bağlı ücretlendirme uygulanır.",
+   "Özel sektörde kazanç, işyerinin büyüklüğü, çalışanın tecrübesi, bilgi ve becerisine göre değişmekle birlikte yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Kurum içi düzenlenen ileri teknik kurslara ve sertifika programlarına katılarak bilgi ve beceriler geliştirilebilir. Makine, metal veya ilgili teknik alanlarda örgün eğitim alanlar, mesleki bilgi birikimini daha da ilerletme olanağı bulabilir.",
+  "is_hayatinda": "Deneyim ve performansa bağlı olarak usta, ekip şefi, bakım-onarım şefi veya kalite kontrol sorumlusu gibi pozisyonlara yükselinebilir."
+ },
+ "benzer_meslekler": [
+  "Makine Montaj İşçisi",
+  "Makine Montajcısı",
+  "Gemi Makine Montajcısı",
+  "Alıştırıcı-Montör (Hafriyat Makineleri)",
+  "Alıştırıcı-Montör (İçten Ateşlemeli Motorlar) (Deniz ve Uçak Motorları Hariç)"
+ ],
+ "ek_bilgiler": "Bu meslek genellikle savunma sanayii ve Türk Silahlı Kuvvetleri'ne bağlı kurum ve kuruluşlarda uygulandığından, çalışanlardan güvenlik soruşturması ve arşiv araştırmasının olumlu sonuçlanması istenebilir. Çalışma alanının hassas niteliği nedeniyle gizlilik ilkelerine uyum ve iş sağlığı-güvenliği kurallarına tam bağlılık büyük önem taşır.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T17:39:31",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6542
+  }
+ }
+}

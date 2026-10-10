@@ -1,0 +1,79 @@
+{
+ "arac_gerec": [
+  "Testere (el testeresi/motorlu testere)",
+  "Planya",
+  "Keser ve keski",
+  "Çekiç ve tokmak",
+  "Matkap ve burgu uçları",
+  "Tornavida",
+  "Mengene",
+  "Gönye ve metre/şerit metre",
+  "Zımpara ve zımpara kağıdı",
+  "Çivi, vida, cıvata, somun, rondela",
+  "Payanda ve köşebent gibi takviye malzemeleri",
+  "Tekerlek parçaları (jant, dingil, poyra)",
+  "Boya, fırça ve vernik",
+  "Ahşap malzeme (kayın, meşe, dut, akasya, çam gibi)",
+  "El aletleri kutusu"
+ ],
+ "genel_ozellikler": [
+  "El becerisine sahip,",
+  "Şekil-uzay ilişkilerini iyi görebilen,",
+  "El ve gözünü eşgüdümlü kullanabilen,",
+  "Dikkatli ve sabırlı,",
+  "Fiziksel olarak güçlü ve dayanıklı,",
+  "Alet ve makinelerle çalışmaktan hoşlanan,",
+  "Yaratıcı ve estetik duyguya sahip,",
+  "Sorumluluk sahibi"
+ ],
+ "calisma_ortami": "Ağaç araba (talika) yapımcıları genellikle küçük atölye veya imalathanelerde, kapalı ortamda çalışır; bazı işler (büyük parçaların taşınması, boyama gibi) açık alanda da yapılabilir. Çalışma ortamı talaşlı ve tozlu olabilir, boya ve vernik kokusu bulunabilir, kesme ve şekillendirme işlemleri nedeniyle belirli ölçüde gürültülüdür. İş, ayakta ve eğilerek yapılan fiziksel güç gerektiren çalışmaları içerir; kesici ve delici el aletlerinin kullanımı nedeniyle kesilme ve yaralanma riski taşır, bu nedenle iş güvenliği önlemlerine uyulması gerekir.\n\nMeslek elemanı genellikle usta-çırak ilişkisi içinde çalışır; müşterilerle (araba/talika sahipleri, tarım ve hayvancılıkla uğraşan kişiler, bazı bölgelerde turizm işletmecileri), tedarikçilerle ve diğer ahşap işi ustalarıyla iletişim kurar. Çalışma saatleri genellikle gündüz saatleridir, sipariş yoğunluğuna göre değişebilir.",
+ "egitim": {
+  "verildigi_yerler": "Ağaç araba (talika) yapımcılığı günümüzde oldukça sınırlı sayıda kişi tarafından, genellikle kırsal bölgelerde icra edilen geleneksel bir zanaattır. Bu meslek için örgün mesleki ve teknik eğitimde ayrı, standart bir alan/dal bulunmamaktadır. Meslek büyük ölçüde ustanın yanında çıraklık yoluyla öğrenilir; bazı bölgelerde Halk Eğitim Merkezleri ve İŞKUR'un açtığı ahşap işleri/marangozluk konulu kısa süreli mesleki eğitim kursları da bu mesleğe temel oluşturabilir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "El becerisine ve yeterli fiziksel güce sahip olmak",
+   "Mesleği öğrenmek için bir usta/işyeri bulmak",
+   "Sağlık durumunun ağır fiziksel çalışmaya uygun olması"
+  ],
+  "sure_ve_icerik": "Eğitim süresi, ustanın değerlendirmesine ve kişinin öğrenme hızına göre değişmekle birlikte genellikle birkaç yılı kapsar. Bu süreçte ağaç malzeme seçimi, kesim ve şekillendirme, parçaların birleştirilmesi, araba kasasının takviye edilmesi, dingil ve tekerlek yapımı/montajı, tamir işleri ve boya-vernik uygulamaları işbaşında, usta gözetiminde uygulamalı olarak öğretilir. Halk Eğitim Merkezleri veya İŞKUR kursları kapsamında alınan temel ahşap işçiliği/marangozluk eğitimi bu bilgi ve becerilerin bir bölümünü destekleyebilir.",
+  "belge": "Bu meslek için örgün eğitim kapsamında standart bir kalfalık/ustalık belgesi düzenlenmemektedir; usta yanında yetişenler deneyimle ustalık kazanır. Katılınan halk eğitim/İŞKUR kurslarının sonunda katılım veya başarı belgesi verilebilir. Mesleki Yeterlilik Kurumu (MYK) tarafından ilgili ahşap işleri alanlarında verilen belgeler, istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Ağaç araba (talika) yapımcıları, kendi atölyelerinde veya küçük imalathanelerde çalışabilir. Başlıca iş alanı, kırsal bölgelerde tarım ve hayvancılıkla uğraşan kişilere yönelik ağaç araba/talika imalatı ve tamiri yapan küçük işletmelerdir; ayrıca nostaljik, dekoratif veya turistik amaçlı talika üreten atölyelerde de çalışılabilir. Motorlu taşıtların yaygınlaşmasıyla bu mesleğe olan talep büyük ölçüde azalmış olup, iş bulma olanakları oldukça sınırlıdır ve genellikle belirli bölgelerle sınırlı kalmaktadır.",
+ "kazanc": {
+  "egitim_suresince": "Usta yanında çıraklık şeklinde yetişenlere, işveren ile yapılan anlaşmaya göre değişen düzeyde ücret ödenebilir. Resmî çıraklık sözleşmesi kapsamında eğitim görenler için 3308 sayılı Mesleki Eğitim Kanunu hükümleri uygulanabilir.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanların kazancı genellikle asgari ücret düzeyindedir.",
+   "Kıdem, beceri düzeyi, işletmenin büyüklüğü ve bölgedeki talebe göre kazanç değişebilir.",
+   "Kendi işyerini açanların geliri, aldıkları sipariş sayısına ve iş hacmine göre değişmektedir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Bu meslekte örgün eğitim kapsamında tanımlanmış bir ilerleme basamağı bulunmamaktadır. İsteyen kişiler Halk Eğitim Merkezleri veya mesleki eğitim merkezlerinde ahşap işleri, marangozluk ya da mobilyacılık alanında eğitim alarak bilgi ve becerilerini geliştirebilir; yükseköğretime giriş sınavlarında başarılı olanlar ilgili ön lisans/lisans programlarına yönelebilir.",
+  "is_hayatinda": "Deneyim kazanan kişi usta düzeyine ulaşabilir, yanında çırak çalıştırabilir ve kendi atölyesini/işyerini açabilir. Ahşap karoserciliği, mobilyacılık veya diğer ahşap işçiliği alanlarına geçiş yaparak çalışma alanını genişletebilir."
+ },
+ "benzer_meslekler": [
+  "Ahşap Karoserci",
+  "Ahşap İskeletçi",
+  "Tekerlek İmalat İşçisi-Ağaç",
+  "Ağaç Palet İmalatçısı",
+  "Fıçı İmalat İşçisi (Ağaç)",
+  "Gufa Yapımcısı"
+ ],
+ "ek_bilgiler": "Bu meslek, motorlu taşımacılığın yaygınlaşmasıyla günümüzde çok az sayıda kişi tarafından icra edilen geleneksel bir zanaat niteliğindedir. Günümüzde talep, kırsal bölgelerde tarımsal taşımacılık amacıyla kullanılan araçların tamiri ile nostaljik/turistik ürün ihtiyacına bağlı olarak sınırlı ölçüde sürmektedir.",
+ "gorevler": [
+  "Ağacı proje ve diğer şartnamelere göre kesip şekillendirerek araba kasası imalinde kullanır.",
+  "Ağaç kısımlarını birbirine cıvata, vida ve çivilerle tutturur.",
+  "Araba kasasını payanda ve köşebentlerle takviye ederek dingilleri şekillendirir ve araba kasasına takar.",
+  "Tekerlikleri monte ederek çürük veya sakat parçaları tamir eder.",
+  "Ahşap tekerleri imal ve tamir eder ve boya işleri yapar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T07:44:29",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6734
+  }
+ }
+}

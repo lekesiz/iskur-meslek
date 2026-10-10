@@ -1,0 +1,75 @@
+{
+ "arac_gerec": [
+  "Bilgisayar, klavye, mouse ve monitör",
+  "İnternet bağlantısı ve ağ ekipmanları",
+  "Web tarayıcıları",
+  "Kod/metin düzenleme programları (editörler)",
+  "Grafik ve görsel tasarım yazılımları",
+  "Veri tabanı yönetim sistemleri",
+  "Sunucu ve barındırma (hosting) panelleri",
+  "Dosya transfer (FTP) programları",
+  "Versiyon kontrol sistemleri",
+  "Test ve hata ayıklama araçları",
+  "Programlama ve işaretleme dilleri için geliştirme ortamları (HTML, CSS, JavaScript vb.)"
+ ],
+ "genel_ozellikler": [
+  "Analitik ve sistematik düşünebilen,",
+  "Mantık yürütme ve problem çözme yeteneğine sahip,",
+  "Dikkatli ve ayrıntıları gözden kaçırmayan,",
+  "Görsel tasarıma ve estetiğe ilgili,",
+  "Teknolojik gelişmeleri takip etmeye istekli, kendini sürekli geliştirebilen,",
+  "Sabırlı, araştırmacı ve çözüm odaklı,",
+  "Ekip çalışmasına uyumlu ve iletişim kurabilen,",
+  "Zamanını planlı kullanabilen"
+ ],
+ "gorevler": [
+  "İhtiyaçları değerlendirir ve istenilen projeyi analiz eder,",
+  "İhtiyaçlar doğrultusunda araştırma yapar,",
+  "Analiz edilen projeyi küçük bölümlere ayrıştırır,",
+  "Web sitesinin görsel (arayüz) tasarımını yapar,",
+  "Web sitesinin temel veri tabanı ihtiyaçlarını karşılayacak kod yazar,",
+  "Arayüz ile veri tabanı uyumluluğunu denetler,",
+  "Tasarlanan sitenin yerel yayınını yaparak test eder,",
+  "Web sitesini yayınlar ve yönetir,",
+  "Mesleki gelişime ilişkin faaliyetleri yürütür."
+ ],
+ "calisma_ortami": "Web Programcılığı Teknisyeni, genellikle kapalı, aydınlık ve bilgisayar donanımlı büro veya ofis ortamında çalışır. Çalışma süresinin büyük bölümünü bilgisayar başında oturarak, ekran karşısında geçirir; bu nedenle göz ve bilek yorgunluğu, hareketsizliğe bağlı sağlık riskleri ile karşılaşabilir. Proje teslim tarihlerine yaklaşıldığında yoğun ve esnek çalışma saatleri (mesai saatleri dışında çalışma) söz konusu olabilir.\n\nÇalışma sırasında işyerindeki diğer teknik personel, tasarımcılar, proje yöneticileri ve müşteriler/işverenlerle sürekli iletişim halindedir. Çalışmalar genellikle ekip içinde yürütülür; bazı durumlarda uzaktan (evden) çalışma da mümkündür.",
+ "egitim": {
+  "verildigi_yerler": "Meslek eğitimi ortaöğretim düzeyinde, Mesleki ve Teknik Anadolu Liselerinin Bilişim Teknolojileri alanı bünyesindeki web tasarımı ve programlama ile ilgili dallarında verilmektedir. Ayrıca Halk Eğitim Merkezleri ile İŞKUR tarafından açılan mesleki eğitim kurslarında da bu alanda beceri kazandırılabilmektedir.",
+  "giris_kosullari": [
+   "İlköğretim/ortaokul mezunu olmak,",
+   "İlgili ortaöğretim kurumunun kayıt ve giriş koşullarını taşımak."
+  ],
+  "sure_ve_icerik": "Ortaöğretim düzeyindeki meslek eğitimi 4 yıl sürer. Eğitim süresince bilgisayar donanımı temelleri, işletim sistemleri, web tasarımı, programlama dillerinin temelleri, veri tabanı yönetimi gibi mesleki dersler yanında ortak genel kültür dersleri de okutulur. Eğitim sürecinde işletmelerde beceri eğitimi/staj uygulaması yapılır. Mesleğe ilgi duyanlar ayrıca kısa süreli mesleki eğitim kurslarıyla da bilgi ve becerilerini geliştirebilir.",
+  "belge": "Ortaöğretim düzeyindeki eğitimi başarıyla tamamlayanlara diploma verilir. Kurs programlarını tamamlayanlara ise kurs bitirme belgesi/sertifika verilir."
+ },
+ "calisma_alanlari": "Web Programcılığı Teknisyenleri; yazılım ve web tasarım firmalarında, reklam ve dijital pazarlama ajanslarında, e-ticaret firmalarında, kamu kurum ve kuruluşlarının bilgi işlem birimlerinde ve her türlü işletmenin web sitesi/kurumsal internet varlığını oluşturan ve yöneten departmanlarında istihdam edilebilirler. Ayrıca serbest (freelance) çalışarak farklı müşteriler için proje bazlı web sitesi geliştirme hizmeti verebilir veya kendi işyerini açabilirler. İnternet kullanımının ve dijitalleşmenin yaygınlaşması, bu meslekte iş bulma olanaklarını olumlu etkilemektedir.",
+ "kazanc": {
+  "egitim_suresince": "Mesleki ve teknik ortaöğretim kurumlarında öğrenim gören öğrenciler, işletmelerde yaptıkları beceri eğitimi/staj süresince ilgili mevzuat çerçevesinde ücret alabilir; ayrıca burs ve benzeri desteklerden yararlanabilirler.",
+  "egitim_sonrasi": [
+   "Kamu kurum ve kuruluşlarında memur statüsünde çalışanlar 657 sayılı Devlet Memurları Kanunu'na, işçi statüsünde çalışanlar ise toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde ücret; işyerinin büyüklüğü, çalışanın bilgi, beceri ve deneyimine, sektörün ücret düzeyine göre değişir; mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Ortaöğretimdeki mesleki eğitimini tamamlayanlar, ilgili sınav sonuçlarına göre Bilgisayar Programcılığı, Web Tasarımı ve Kodlama gibi ön lisans programlarına ya da Bilgisayar Mühendisliği, Yazılım Mühendisliği gibi lisans programlarına devam edebilirler.",
+  "is_hayatinda": "Mesleki deneyim ve ileri eğitimle web geliştirici, yazılım geliştirici, sistem/ağ uzmanı veya proje yöneticisi gibi pozisyonlara ilerleyebilirler. Çeşitli programlama dilleri, veri tabanı sistemleri ve proje yönetimi konularında sertifikalı kurslara katılarak uzmanlaşabilir, kıdemli geliştiriciliğe veya ekip liderliğine yükselebilir, isterlerse kendi işyerlerini açabilirler."
+ },
+ "benzer_meslekler": [
+  "Web Sitesi Yöneticisi",
+  "Web ve Çoklu Ortam Geliştiricisi",
+  "Web Tasarımı ve Kodlama Teknikeri",
+  "Veri Tabanı Programcısı Teknisyeni",
+  "Bilgisayar Program Teknisyeni",
+  "Bilgisayar Programcılığı Teknikeri"
+ ],
+ "ek_bilgiler": "Web teknolojileri ve programlama dilleri hızla değiştiğinden, bu meslekte çalışanların bilgi ve becerilerini sürekli güncellemesi, yeni araç ve yöntemleri öğrenmesi önem taşımaktadır. Alanda alınabilecek Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda tercih sebebi olabilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T15:06:10",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5559
+  }
+ }
+}

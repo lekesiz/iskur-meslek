@@ -1,0 +1,84 @@
+{
+ "arac_gerec": [
+  "Buhar kazanı (boyler)",
+  "Brülör (sıvı/gaz yakıtlı sistemlerde)",
+  "Katı yakıt besleme ve ateşleme ekipmanları",
+  "Manometre (basınç göstergesi)",
+  "Su seviye göstergesi ve kontrol sistemleri",
+  "Emniyet valfleri",
+  "Blöf vanası ve blöf hattı",
+  "Ateşçi küreği (foyrap küreği)",
+  "Çeşitli anahtar takımları, pense ve tornavidalar",
+  "Yağdanlık, üstüpü, çelik tel fırça",
+  "Kişisel koruyucu donanım (eldiven, koruyucu gözlük, baret, iş elbisesi)",
+  "Yangın söndürme ekipmanları",
+  "Sıcaklık ve basınç kontrol panelleri"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve sorumluluk sahibi,",
+  "Fiziksel olarak sağlıklı ve dayanıklı,",
+  "Teknik konulara ilgili ve mekanik yeteneği gelişmiş,",
+  "Soğukkanlı olup acil durumlarda hızlı ve doğru karar verebilen,",
+  "Tertipli, düzenli ve kurallara uyan,",
+  "Takım çalışmasına uyumlu,",
+  "Öğrenmeye ve mesleki gelişime açık"
+ ],
+ "calisma_ortami": "Buhar kazanı operatörleri/kazan ateşçileri genellikle kapalı ortamlarda, kazan dairelerinde çalışır. Çalışma ortamı yüksek ısı, gürültü ve nem içerebilir; yakıt türüne göre (katı yakıt, sıvı yakıt, doğalgaz) toz, duman veya gaz riskiyle karşılaşılabilir. Görev sırasında genellikle ayakta ve hareketli çalışılır; kazan kontrolleri, ateşleme, blöf ve bakım işlemleri sırasında fiziksel güç gerekebilir.\n\nBuhar üretimi süreklilik gerektiren bir ihtiyaç olduğundan, bazı işletmelerde vardiyalı (gece dahil) çalışma düzeni uygulanabilir. İş sağlığı ve güvenliği açısından yanma, buhar kaçağı, basınç kaynaklı kazalar gibi riskler bulunduğundan koruyucu ekipman kullanımı ve kurallara uyum önemlidir. Çalışma sırasında tesis sorumluları, bakım-onarım teknisyenleri ve diğer işletme personeliyle iş birliği içinde hareket edilir.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin örgün bir eğitim programı bulunmamaktadır. Meslek genellikle işbaşında usta yanında yetişme yoluyla veya halk eğitim merkezleri ile İŞKUR'un açtığı kazan dairesi işletmeciliği/ateşçilik konulu kurslarda kazanılır. Ayrıca ortaöğretim düzeyinde makine/tesisat teknolojisi alanında mesleki ve teknik eğitim görenler de bu mesleğe yönelebilir.",
+  "giris_kosullari": [
+   "Mesleğin gerektirdiği minimum eğitim düzeyi ilköğretimdir.",
+   "Her yaş, eğitim ve kültür düzeyinden kişi kurslara katılabilir; 18 yaşından küçükler veli izniyle katılabilir.",
+   "Ağır, yüksek ısılı ve basınçlı ortamlarda çalışmaya uygun genel sağlık durumuna sahip olmak gerekir.",
+   "Kazan basıncı ve kapasitesine göre, bazı işletmelerde ilgili mevzuat kapsamında belirli eğitim/belge şartı aranabilir."
+  ],
+  "sure_ve_icerik": "Kurs süresi, eğitim verilen kuruma ve programa göre değişmekle birlikte genellikle birkaç yüz saat arasındadır. Eğitimde; kazan türleri ve çalışma prensipleri, yanma ve ısı bilgisi, yakıt türlerine göre ateşleme ve brülör sistemleri, basınç ve su seviyesi kontrolleri, emniyet sistemleri, blöf işlemleri, bakım-temizlik esasları ile iş sağlığı ve güvenliği ve acil durum müdahale yöntemleri teorik ve uygulamalı olarak verilir.",
+  "belge": "Eğitimi tamamlayanlara genellikle \"Kurs Bitirme Belgesi\" verilir. Kazan basıncı ve işletmenin özelliğine göre, mevzuat kapsamında ayrıca kazan operatörlüğüne ilişkin belgelendirme istenebilir; Mesleki Yeterlilik Kurumu (MYK) belgesi de istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Buhar kazanı operatörleri/kazan ateşçileri, buhar üretimine ihtiyaç duyan her türlü sanayi tesisinde çalışabilir. Bunlar arasında tekstil, gıda, kimya, kâğıt, deri ve çimento fabrikaları; hastaneler, oteller, alışveriş merkezleri gibi büyük binaların merkezi ısıtma ve buhar sistemleri; enerji üretim tesisleri ve kazan dairesi bulunan kamu veya özel sektör işletmeleri sayılabilir. Özellikle üretim süreçlerinde buhar kullanımının yoğun olduğu sektörlerde (tekstil boyahaneleri, gıda işleme tesisleri gibi) nitelikli kazan operatörlerine sürekli ihtiyaç duyulmaktadır.",
+ "kazanc": {
+  "egitim_suresince": "Halk eğitim merkezleri ve benzeri kurumlarda verilen kurslarda herhangi bir kazanç söz konusu değildir. İşbaşında usta yanında yetişme sürecinde ise genellikle asgari ücretin altında bir ödeme yapılabilir.",
+  "egitim_sonrasi": [
+   "Özel sektörde genellikle asgari ücret düzeyinde işe başlanır; deneyim, işletmenin büyüklüğü ve çalışılan sektöre göre ücret artış gösterebilir.",
+   "Kamu kurumlarında memur statüsünde çalışanlar için 657 sayılı Devlet Memurları Kanunu, işçi statüsünde çalışanlar için ise ilgili toplu iş sözleşmesi hükümleri uygulanır."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Meslekte resmi ve kademeli bir eğitim ilerleme sistemi bulunmamaktadır. Farklı yakıt türleri (katı, sıvı, gaz) ve farklı kapasite/basınçtaki kazanlara ilişkin ek kurslar ve sertifikalarla bilgi ve beceri geliştirilebilir.",
+  "is_hayatinda": "Deneyim kazandıkça usta ateşçi veya kazan dairesi sorumlusu konumuna yükselinebilir. Büyük işletmelerde, zamanla tesis bakım-işletme şefliği veya ekip sorumluluğu gibi görevler üstlenilebilir."
+ },
+ "benzer_meslekler": [
+  "Kalorifer Ateşçisi",
+  "Doğal Gaz Kalorifer Ateşçisi",
+  "Kızgın Yağ Kazanı Operatörü",
+  "Sıcak Su Kazanı Operatörü",
+  "Atık Isı Kazanı Operatörü",
+  "Isıtma ve Havalandırma Cihazı Operatörü"
+ ],
+ "ek_bilgiler": "Buhar kazanı operatörlüğü, kazanın kapasitesi ve basıncına göre tehlikeli veya çok tehlikeli işler kapsamında değerlendirilebilir. Bu nedenle işe alım süreçlerinde ilgili eğitim, sağlık raporu ve belgelendirme şartları işletmenin ve mevzuatın gereğine göre aranabilir.",
+ "gorevler": [
+  "İş sağlığı ve güvenliği ile çevre güvenliği önlemlerini uygular.",
+  "İş organizasyonu yapar.",
+  "Kazan çalışma ayarlarını yapar.",
+  "Çalışma öncesi kazan emniyetine yönelik kontrolleri yapar.",
+  "Yakıcı ayarlarını ve kontrollerini yapar.",
+  "Kazanı çalıştırır, yakıcıyı ateşler.",
+  "Kazan basıncını yükseltir.",
+  "Kazanın normal ve sürekli çalışmasını temin eder.",
+  "Kazanın normal ve sürekli çalışmasını temin eder.",
+  "Kazan blöf işlemlerini yapar.",
+  "Kazanı durdurur ve kapatır.",
+  "Acil durumlarda müdahale eder.",
+  "Faal olan kazanla ilgili temizlik ve bakımları yapar.",
+  "Faal olmayan kazanların temizlik ve bakımlarını yapar.",
+  "Mesleki gelişim faaliyetlerine katılır."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T17:06:49",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6862
+  }
+ }
+}

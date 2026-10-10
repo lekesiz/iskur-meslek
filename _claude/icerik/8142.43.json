@@ -1,0 +1,83 @@
+{
+ "arac_gerec": [
+  "Plastik ekstrüzyon film makinesi (ekstruder)",
+  "Vida-silindir (screw-barrel) ünitesi",
+  "Film kalıbı (die/kafa)",
+  "Hava halkası ve soğutma sistemi",
+  "Çekme ve sarma (wind-up) ünitesi",
+  "Dilme/kesme (slitting) ünitesi",
+  "Kalınlık ölçüm cihazı",
+  "Granül besleme hunisi ve kurutucu",
+  "Isıtıcı bant/rezistanslar",
+  "Elektronik kontrol paneli/PLC ekranı",
+  "Hidrolik devre elemanları",
+  "Pnömatik devre elemanları",
+  "El aletleri (anahtar takımı, tornavida vb.)",
+  "Kumpas, metre gibi ölçüm aletleri",
+  "Kişisel koruyucu donanım (eldiven, gözlük, kulaklık)"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve tedbirli,",
+  "El ve göz koordinasyonu güçlü,",
+  "Makine ve teknik sistemlere ilgili,",
+  "Sorumluluk sahibi,",
+  "Fiziksel olarak dayanıklı,",
+  "Vardiyalı ve düzenli çalışmaya uyumlu,",
+  "Problem çözme becerisine sahip,",
+  "Takım hâlinde çalışmaya yatkın,"
+ ],
+ "calisma_ortami": "Plastik Film İşleme Operatörü, genellikle plastik ambalaj, film ve levha üreten fabrikaların üretim atölyelerinde, kapalı mekânda çalışır. Çalışma ortamı makine sesinden dolayı gürültülü olabilir, ekstrüzyon makinelerinin ısıtma sistemleri nedeniyle sıcaklık yüksek olabilir ve hareketli parçalar, sıcak yüzeyler gibi iş güvenliği riskleri bulunur. Bu nedenle çalışırken kişisel koruyucu donanım kullanılması önemlidir.\n\nÇalışma genellikle vardiyalı düzende ve ayakta sürdürülür. Meslek mensubu, çalışması sırasında makine operatörleri, bakım-onarım personeli, vardiya sorumluları ve kalite kontrol çalışanlarıyla sürekli iletişim hâlindedir.",
+ "gorevler": [
+  "Bilgisayarla çizim yapar.",
+  "Geometrik çizimler yapar.",
+  "Görünüş çıkarır.",
+  "Yüzey sembolleri ve ölçülendirme yapar.",
+  "El aletleri ile talaşlı üretim yapar.",
+  "Yardımcı ekipmanlarla üretim yapar.",
+  "Hidrolik devre çizer ve devre kurar.",
+  "Pnömatik devre çizer ve devre kurar.",
+  "Plastik film ekstrüzyon makinelerinde üretim yapar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Mesleğin gerektirdiği minimum eğitim düzeyi ilköğretim olup mesleğe özgü, örgün eğitim kurumlarında ayrı bir diploma programı bulunmamaktadır. Bu meslekte yetişme genellikle işyerlerinde usta yanında çalışarak, mesleki eğitim merkezlerinin ilgili alanlarında (yeterli öğrenci başvurusu hâlinde) ve Halk Eğitim Merkezleri ile İŞKUR'un açtığı mesleki eğitim kurslarında gerçekleşmektedir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "Mesleki eğitim merkezi yoluyla yetişmek isteyenler için ilgili yaş ve sağlık şartlarını taşımak, çıraklık sözleşmesi için bir işyeri bulmak",
+   "Kurs yoluyla yetişmek isteyenler için kursun aradığı genel kayıt şartlarını (yaş, sağlık durumu vb.) taşımak",
+   "Ekstrüzyon makineleri ve plastik malzemelerle çalışmaya elverişli fiziksel sağlık durumuna sahip olmak"
+  ],
+  "sure_ve_icerik": "Mesleki eğitim merkezi yoluyla yetişenlerde eğitim süresi ve içeriği ilgili alanın müfredatına göre belirlenir; teorik derslerin yanı sıra işyerinde usta öğretici gözetiminde uygulamalı eğitim verilir. Kurs yoluyla yetişmek isteyenler için ise süre kurumdan kuruma değişen, genellikle kısa süreli programlar söz konusudur; bu programlarda plastik malzeme özellikleri, ekstrüzyon makinelerinin çalışma prensibi, makine ayarları, ürün kontrolü ve iş güvenliği konuları işlenir. Her iki yolda da uygulamalı eğitim ve işbaşında usta yanında yetişme süreci önemli yer tutar.",
+  "belge": "Mesleki eğitim merkezinden mezun olanlara kalfalık/ustalık belgesi, kurs programlarını tamamlayanlara ise kurs bitirme belgesi verilir. Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Plastik Film İşleme Operatörleri, plastik ambalaj filmi, streç film, tarım örtüsü, poşet ve benzeri ürünleri üreten plastik sanayi işletmelerinin üretim bölümlerinde çalışır. Çalışma alanları genellikle özel sektöre ait orta ve büyük ölçekli fabrikalardır. Plastik ambalaj ve film ürünlerine olan talebin sürekliliği nedeniyle, mesleğin istihdam olanakları sektörün genel durumuna bağlı olarak devam etmektedir. Deneyimli ve makine bilgisine sahip operatörlere işletmeler tarafından ihtiyaç duyulmaktadır.",
+ "kazanc": {
+  "egitim_suresince": "Mesleki eğitim merkezi yoluyla yetişenlere, ilgili mevzuat çerçevesinde işletmede geçirdikleri eğitim süresi için ücret ödenebilir. Kurs yoluyla yetişenler için genellikle ayrı bir ücret söz konusu değildir; işbaşında usta yanında yetişenler ise çalıştıkları işletmeyle anlaşmalarına göre ücret alabilir.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç elde eder.",
+   "Deneyim, işletmenin büyüklüğü ve sektördeki ücret düzeyine göre kazanç farklılık gösterebilir.",
+   "Özel sektörde çalışanların ücreti işveren ile karşılıklı anlaşmaya bağlı olarak belirlenir; vardiyalı çalışma ve fazla mesai ek kazanç sağlayabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleki eğitim merkezi veya meslek lisesi mezunları, alanın devamı niteliğindeki ön lisans/lisans programlarına sınavla yerleşebilir. Ayrıca çeşitli kurum ve kuruluşların açtığı kurs ve sertifika programlarına katılarak mesleki bilgi ve beceriler geliştirilebilir.",
+  "is_hayatinda": "Deneyim ve bilgi birikimi arttıkça usta operatörlüğe, vardiya veya üretim hattı sorumluluğuna, makine bakım-onarım görevlerine ya da kalite kontrol ve üretim şefliği gibi görevlere yükselme imkânı bulunur."
+ },
+ "benzer_meslekler": [
+  "Plastik Levha ve Dökme Film Üretim Operatörü (Ekstrüzyon)",
+  "Plastik Şişirme Film Üretim Operatörü (Ekstrüzyon)",
+  "Plastik Profil Üretim Operatörü (Ekstrüzyon)",
+  "Plastik Ekstrüzyon Makinesi Operatörü (Ekstrüder)",
+  "Plastik Film Kesim Makinesi Operatörü",
+  "Plastik Çekme Makinesi Operatörü"
+ ],
+ "ek_bilgiler": "Ekstrüzyon makinelerinin yüksek sıcaklıkta ve hareketli parçalarla çalışması nedeniyle bu meslek, iş sağlığı ve güvenliği açısından dikkat gerektiren işler arasında değerlendirilebilir; bu nedenle düzenli iş güvenliği eğitimi alınması önemlidir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T13:06:11",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 7101
+  }
+ }
+}

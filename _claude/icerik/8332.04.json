@@ -1,0 +1,81 @@
+{
+ "arac_gerec": [
+  "Çöp kamyonu (sıkıştırmalı/hidrolik tip)",
+  "Hidrolik kepçe ve yükleme sistemi",
+  "Kızak (sıkıştırma pistonu) sistemi",
+  "Sürücü belgesi (ilgili araç sınıfı)",
+  "Telsiz veya mobil haberleşme cihazı",
+  "Kişisel koruyucu donanım (iş eldiveni, maske, çizme, reflektörlü yelek)",
+  "Yedek lastik, takoz ve basit bakım el aletleri",
+  "İlk yardım çantası",
+  "Yangın söndürücü",
+  "Araç bakım ve kontrol formları",
+  "Konteynır/çöp bidonu kaldırma aparatları"
+ ],
+ "benzer_meslekler": [
+  "Kamyon Şoförü",
+  "Vidanjör Şoförü",
+  "Tıbbi Atık Toplama ve Taşıma Kamyon Şoförü",
+  "Arazöz Şoförü",
+  "Şoför-Yük Taşıma"
+ ],
+ "calisma_alanlari": "Çöp kamyonu şoförleri başlıca belediyelerin temizlik işleri müdürlüklerinde ve belediyelere bağlı şirketlerde görev alır. Ayrıca belediyelerle hizmet sözleşmesi yapan özel temizlik ve katı atık toplama firmalarında, organize sanayi bölgelerinin atık yönetim birimlerinde ve bazı büyük işletmelerin iç hizmet birimlerinde de istihdam edilir. Meslek, nüfusu olan hemen her yerleşim yerinde ihtiyaç duyulan, yaygın bir meslektir.",
+ "calisma_ortami": "Çöp kamyonu şoförü görevini açık havada, şehir içi ve bazen kırsal güzergâhlarda sürer. Çalışma; sıcak, soğuk, yağmurlu gibi değişken hava koşullarında, kötü koku ve hijyen açısından elverişsiz ortamlarda yürütülür. Görev genellikle erken sabah veya gece saatlerinde başlayan vardiyalı bir düzende, bazen hafta sonu çalışmasını da içerecek şekilde sürdürülür. Trafik yoğunluğu, sık duraklama-kalkış, araçtan inip binme ve ekipmanla çalışma nedeniyle iş kazası (çarpma, sıkışma, düşme) riski bulunur.\n\nMeslek sırasında çöp toplama işçileri, araç bakım personeli, belediye veya firma yöneticileri ve zaman zaman vatandaşlarla iletişim kurulur. İş genellikle fiziksel efor gerektirir ve ekip halinde yürütülür.",
+ "egitim": {
+  "verildigi_yerler": "Çöp kamyonu şoförlüğü için örgün bir okul programı bulunmamaktadır. Meslek; ilgili sürücü belgesinin alınmasının ardından işbaşında usta yanında uygulamalı olarak, belediyelerin veya bağlı firmaların düzenlediği hizmet içi eğitimlerde, ayrıca Halk Eğitim Merkezleri ile İŞKUR'un açtığı sürücü ve iş güvenliği kurslarında öğrenilmektedir.",
+  "giris_kosullari": [
+   "İlköğretim mezunu olmak",
+   "18 yaşını doldurmuş olmak",
+   "Ağır vasıta kullanımına uygun sürücü belgesine (ilgili araç sınıfı) sahip olmak",
+   "Sağlık açısından mesleği yapmaya (görme, işitme, bedensel dayanıklılık) engel durumu bulunmamak",
+   "Askerlik görevini tamamlamış olmak (erkek adaylarda, kurumun talebine göre)"
+  ],
+  "sure_ve_icerik": "Mesleğe yönelik standart ve belirli süreli bir eğitim programı bulunmamaktadır. Adaylar önce ilgili sınıftaki sürücü belgesini sürücü kurslarında alır; bu süreçte trafik kuralları, araç mekaniği ve güvenli sürüş bilgisi verilir. Belge alındıktan sonra, çalışılacak belediye veya firma bünyesinde kısa süreli uygulamalı eğitimle çöp kamyonunun hidrolik sıkıştırma ve kızak sisteminin kullanımı, iş sağlığı-güvenliği kuralları ve atık toplama rotaları öğretilir; genellikle deneyimli bir şoför veya ekip sorumlusu refakatinde işbaşı eğitimi uygulanır.",
+  "belge": "Sürücü belgesi (ilgili araç sınıfı) ve varsa kurs/katılım belgesi; bazı işverenlerde Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "ek_bilgiler": "Çöp toplama hizmetleri genellikle belediyeler veya belediyelere bağlı/hizmet sözleşmeli özel firmalar tarafından yürütülür; bu nedenle istihdam biçimi (memur, işçi, taşeron personeli) işe göre değişebilir. Görev genellikle vardiyalı ve erken saatlerde başlayan bir çalışma düzeni gerektirir.",
+ "genel_ozellikler": [
+  "Fiziksel olarak güçlü ve dayanıklı,",
+  "Dikkatli ve tedbirli,",
+  "Sorumluluk sahibi,",
+  "Trafik kurallarına özenle uyan,",
+  "Göz-el-ayak koordinasyonuna sahip,",
+  "Sabırlı ve soğukkanlı,",
+  "Takım çalışmasına uyumlu,",
+  "İş sağlığı, güvenliği ve hijyen kurallarına duyarlı,"
+ ],
+ "gorevler": [
+  "Çöp kamyonunun mesai öncesi hazırlığını yapar.",
+  "Belli noktalardaki çöp bidonları ve konteynırların önünde aracı durdurur, çöp toplama işçileri tarafından çöplerin kamyonun ilgili yerine atılmasını bekler.",
+  "Çöp kamyonu kepçesinin şanzımana bağlama ve çıkarma işlemini yapar.",
+  "Çöp toplama işçilerini takip ederek aracını hareket ettirir.",
+  "Çöp teknesi dolduğunda çöp boşaltma merkezlerinde pistonla çalışan çöp teknesini kaldırır.",
+  "Kızağı çalıştırarak sıkışmış çöpleri kızak ile ittirerek çöpü boşaltır.",
+  "Araç arızalarında ilgililere haber verir.",
+  "Aracın zamanında bakımının yapılmasını sağlar.",
+  "Mevsim koşullarına göre araç hazırlığını yapar.",
+  "Görev esnasında aracı trafik kural ve işaretlerine uygun olarak kullanır.",
+  "Mesai bitiminde aracı çöp toplamaya hazır halde park alanına park eder.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Bu meslekte örgün bir eğitim kademesi veya diploma ilerlemesi bulunmamaktadır. Deneyim kazanan şoförler, sürücü belgesini üst sınıfa (örneğin E sınıfına) yükselterek farklı ağır vasıta tiplerinde çalışma imkânı elde edebilir.",
+  "is_hayatinda": "Deneyim ve performansıyla öne çıkan çöp kamyonu şoförleri ekip şefliği, araç amirliği, ustabaşılık veya belediye temizlik işleri biriminde sorumlu/şef pozisyonlarına yükselebilir. İsteyen ve uygun sürücü belgesine sahip olanlar kamyon şoförlüğü, otobüs şoförlüğü gibi diğer sürücülük mesleklerine geçiş yapabilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Mesleğe yönelik örgün bir eğitim süreci bulunmadığından eğitim süresince ayrıca bir kazanç söz konusu değildir; sürücü belgesi alımına ilişkin masraflar adaylarca karşılanır.",
+  "egitim_sonrasi": [
+   "Belediyelerde memur statüsünde çalışanlar 657 sayılı Devlet Memurları Kanunu'na göre ücret alır.",
+   "Belediyelerde veya bağlı şirketlerde işçi statüsünde çalışanların ücreti toplu iş sözleşmesi hükümlerine göre belirlenir.",
+   "Özel sektördeki taşeron/hizmet firmalarında çalışanların ücreti işletmeye, deneyime ve çalışma koşullarına göre değişir; yeni başlayanlarda genellikle asgari ücret düzeyinde olabilir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T18:23:32",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5955
+  }
+ }
+}

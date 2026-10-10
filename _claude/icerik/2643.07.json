@@ -1,0 +1,84 @@
+{
+ "gorevler": [
+  "Eserin varsa cilt sayısı, yaprak sayısı, eserin başlama ve bitiş yaprakları, eserin içi ve dış ölçüleri, varsa tezhip (süsleme) özelliklerini tespit fişine kaydeder.",
+  "Yazma eser tespit fişine eserin demirbaş numarasını yazar.",
+  "Eser içerisinden veya kaynaklardan tarama yaparak eserin adı ve yazarını tespit eder.",
+  "Eser adı ve yazarı tespit edilememişse konusuna uygun eser adı verir.",
+  "Tespit edilen eser adı ve yazarı Arap ve Latin alfabesiyle transkribe ederek yazar.",
+  "Kitabın adı, yazarı, niteliği, muhteviyatı ve fiziki (yazının şekli, cilt durumu) özelliklerini dikkate alarak tasnif yapar.",
+  "Eserin başlangıç ve bitiş cümlelerini Arap alfabesiyle tespit fişine yazar.",
+  "Esere İslam ilimleri tasnif cetveline göre konu numarası verir.",
+  "Kitabın yazılış zamanı konusunda kullanılan cilt, yazı, tezhip ve kağıt özelliklerini inceleyerek yazılış tarihini yaklaşık olarak belirler.",
+  "Hatime bölümüne bakarak varsa müstensihi (kopyalayanı), yazım yeri, yazım tarihi (miladi karşılığı), telif tarihi bilgilerini tespit fişine kaydeder.",
+  "Kitabı alanın ve kitabı okuyanların isimlerini, grup halinde okunma durumu varsa dinleyicilerin (sima) kaydını, üzerine basılmış vakıf mühür ve sonradan yazılmış yazılar ile dönemin önemli olaylarının kaydı varsa tespit eder.",
+  "Kitabın incelenmesi sırasında tespit edilen bütün muhteviyat verileri ile birlikte kitabın bütün iç ve dış fiziki durumunu (yırtık, küflü, sararmış, silinmiş, yıpranmış vb.) Kitap Tespit Fişine kaydeder.",
+  "Kitabın boyutlarını; yazmalarda milimetrik, matbularda küçük, orta ve büyük boy olarak belirler.",
+  "Eseri inceleyen tarafından ilave edilen fevaid, sima, tashih, mütalaa, kıraat, rivayet, vakıf, tuğra, ferağ, tebellük, rabıta kayıtları ile ilgili bilgileri forma kaydeder.",
+  "Yırtık, yıpranmış, sayfaları dağılmış, ciltleri parçalanmış olan kitapları, restorasyon çalışması ve yeniden aslına uygun klasik cilt yapılmak üzere diğer kitaplardan ayırır ve ilgili bölüme teslim eder.",
+  "Restorasyon çalışması ve cilt işlemlerinin aslına uygun yapılıp yapılmadığını kontrol eder.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "arac_gerec": [
+  "Büyüteç (lup)",
+  "Koruyucu pamuklu eldiven ve maske",
+  "Milimetrik cetvel ve ölçüm aletleri",
+  "Tespit fişi ve kayıt formları",
+  "Bilgisayar ve arşiv/katalog yazılımları",
+  "Dijital fotoğraf makinesi ve tarayıcı",
+  "Koruyucu arşiv kutuları ve asitsiz malzemeler",
+  "Soğuk ışık kaynağı / UV lamba",
+  "Tasnif cetvelleri, katalog ve bibliyografya kaynakları",
+  "Nem ve sıcaklık ölçüm cihazları",
+  "Büro malzemeleri"
+ ],
+ "genel_ozellikler": [
+  "Sabırlı ve dikkatli,",
+  "Osmanlıca, Arapça ve Farsça dillerine ilgili ve bu dillerde okuma bilgisine sahip,",
+  "Tarih, sanat tarihi ve kültür mirasına meraklı,",
+  "Araştırmacı ve titiz,",
+  "Eski yazı (paleografi) konusunda bilgili,",
+  "Analitik düşünme yeteneğine sahip,",
+  "Belgeler ve kayıtlarla uzun süre çalışmaktan sıkılmayan,"
+ ],
+ "calisma_ortami": "Kütüphane, arşiv ve müze gibi kapalı mekânlarda, genellikle büro ve inceleme masası ortamında görev yapar. Eski ve hassas eserlerle çalıştığından ortamın nem, ışık ve sıcaklık açısından kontrollü olması gerekir; eserleri koruyucu eldiven, maske gibi ekipmanlarla inceler ve toz, küf gibi unsurlara karşı dikkatli olur. Çalışma genellikle düzenli mesai saatlerinde yürütülür, ancak özel koleksiyon tespiti, sergi hazırlığı veya restorasyon öncesi çalışmalarda yoğunluk artabilir.\n\nGörevini yerine getirirken kütüphane ve arşiv yöneticileri, restoratörler, araştırmacılar, akademisyenler ve kurum içi diğer uzmanlarla iş birliği içinde çalışır. Çalışma, dikkat gerektiren, uzun süre oturarak ve detaylara odaklanarak yapılan bir faaliyettir.",
+ "egitim": {
+  "verildigi_yerler": "Bu meslek için doğrudan \"El Yazması ve Nadir Eserler Uzmanlığı\" adıyla ayrı bir lisans programı bulunmamaktadır. Meslek genellikle üniversitelerin Edebiyat/Fen-Edebiyat Fakültelerine bağlı Tarih, Türk Dili ve Edebiyatı, Bilgi ve Belge Yönetimi (Kütüphanecilik), Arap Dili ve Edebiyatı veya Fars Dili ve Edebiyatı gibi bölümlerden lisans mezuniyeti sonrasında, eski yazı (Osmanlıca), paleografi, kodikoloji ve arşivcilik alanlarında edinilen ek bilgi, kurs ve işbaşı deneyimle kazanılmaktadır. Bazı üniversitelerin Bilgi ve Belge Yönetimi bölümleri ile ilgili yüksek lisans programlarında nadir eser ve arşivcilik konularına yönelik dersler yer alabilmektedir.",
+  "giris_kosullari": [
+   "Lise veya dengi okul mezunu olmak",
+   "Yükseköğretim Kurumları Sınavı (YKS) kılavuzunda belirtilen giriş koşullarını taşımak",
+   "İlgili lisans programına (Tarih, Türk Dili ve Edebiyatı, Bilgi ve Belge Yönetimi, Arap Dili ve Edebiyatı, Fars Dili ve Edebiyatı vb.) yerleşmek"
+  ],
+  "sure_ve_icerik": "İlgili lisans programlarının eğitim süresi 4 yıldır. Eğitim süresince alana göre Osmanlı Türkçesi (eski yazı), paleografi, kodikoloji, arşivcilik, kütüphanecilik, İslam el yazmaları tarihi, Arapça ve Farsça dil dersleri ile bilimsel araştırma yöntemleri verilir. Lisans eğitimi sonrasında, çalışılan kütüphane, arşiv veya müzede işbaşında uygulamalı eğitim ve hizmet içi eğitim programlarıyla mesleki uzmanlaşma sağlanır.",
+  "belge": "Lisans diploması verilir; ayrıca çalışılan kurumların düzenlediği hizmet içi eğitim sertifikaları ve varsa ilgili alanlarda alınan kurs/sertifika belgeleri meslekte uzmanlaşmayı destekler."
+ },
+ "calisma_alanlari": "El Yazması ve Nadir Eserler Uzmanları; Milli Kütüphane, üniversite kütüphaneleri, Türkiye Yazma Eserler Kurumu Başkanlığına bağlı kütüphaneler, müzeler, Devlet Arşivleri Başkanlığına bağlı arşiv birimleri, vakıf kütüphaneleri ile özel koleksiyon ve müzayede evlerinde görev alabilirler. Kamu kurumlarında genellikle kütüphaneci, arşivist veya uzman unvanlarıyla, 657 sayılı Devlet Memurları Kanunu'na göre istihdam edilirler. Özel sektörde antika ve nadir eser koleksiyonları, müzayede evleri ile eser restorasyon atölyelerinde çalışma olanağı bulunmaktadır.\n\nMeslek, dar bir uzmanlık alanına hitap ettiğinden iş bulma olanakları sınırlıdır; Arapça, Farsça ve Osmanlıca gibi dilleri okuyabilen ve eski yazı/paleografi bilgisine sahip kişiler istihdamda avantajlı olmaktadır.",
+ "kazanc": {
+  "egitim_suresince": "Lisans eğitimi süresince öğrenciler Kredi ve Yurtlar Genel Müdürlüğünün öğrenim kredisi ve yurt hizmetlerinden yararlanabilir; çeşitli resmi ve özel kurum/kuruluşların burslarından faydalanabilirler.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında (kütüphane, arşiv, müze) çalışanlar 657 sayılı Devlet Memurları Kanunu'na göre maaş, ek ödeme ve tazminatlardan yararlanır.",
+   "Özel sektörde (müzayede evleri, özel koleksiyonlar, restorasyon atölyeleri) ücretler işyerinin büyüklüğü, deneyim ve uzmanlık düzeyine göre karşılıklı anlaşmayla belirlenir.",
+   "Yeni başlayanlar için ücretler genellikle asgari ücret düzeyinde olup, uzmanlık ve kıdeme bağlı olarak artış gösterebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mezunlar; Türk Dili ve Edebiyatı, Tarih, Bilgi ve Belge Yönetimi, Arap Dili ve Edebiyatı veya Fars Dili ve Edebiyatı gibi alanlarda yüksek lisans ve doktora yaparak akademik kariyer olanağı bulabilir; üniversitelerde araştırma görevlisi, öğretim görevlisi, doktor öğretim üyesi, doçent ve profesör unvanlarına yükselebilirler.",
+  "is_hayatinda": "Kamu kurumlarında kıdem, deneyim ve liyakate bağlı olarak uzman, baş uzman, şube müdürü gibi kadrolara; kütüphane ve müzelerde müdürlük görevlerine yükselme olanağı bulunmaktadır."
+ },
+ "benzer_meslekler": [
+  "Tercüman (Osmanlıca)",
+  "Filolog (Arap Dili ve Edebiyatı)",
+  "Filolog (Fars Dili ve Edebiyatı)",
+  "Tercüman (Arapça)",
+  "Tercüman (Farsça)",
+  "Filolog (Türk Dili ve Edebiyatı)"
+ ],
+ "ek_bilgiler": "Bu meslek, kültürel mirasın korunması ve gelecek kuşaklara aktarılması açısından önem taşır. Arapça, Farsça ve Osmanlıca okuma bilgisi ile eski yazı (paleografi) ve kodikoloji alanında uzmanlık, istihdamda belirgin bir avantaj sağlamaktadır. Mesleki Yeterlilik Kurumu (MYK) belgesi, ilgili alanlarda tanımlanmışsa istihdamda tercih sebebi olabilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T06:54:30",
+  "usage": {
+   "input_tokens": 4,
+   "output_tokens": 9844
+  }
+ }
+}

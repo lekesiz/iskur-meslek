@@ -1,0 +1,90 @@
+{
+ "arac_gerec": [
+  "Ana makine (dizel/buhar) ve yardımcı makineler",
+  "Yardımcı dizel jeneratörler ve elektrik üretim donanımı",
+  "Elektrik dağıtım panoları ve kumanda tabloları",
+  "Dümen motoru ve hidrolik/pnömatik sistemler",
+  "Yangın söndürme pompası ve köpük tankı sistemi",
+  "Balans ve tulumba (pompa) sistemleri",
+  "Hidrofor ve içme suyu dağıtım sistemi",
+  "Sintine (pis su) tankı ve pompaları",
+  "Ekzos gazı tahliye sistemi",
+  "Yakıt ve içme suyu depolama tankları",
+  "Basınç, sıcaklık ve seviye ölçüm/kontrol cihazları",
+  "El aletleri ve bakım-onarım takımları",
+  "Vinç ve güverte makinelerinin teknik donanımı",
+  "Kişisel koruyucu donanım (iş elbisesi, eldiven, kulaklık, baret)"
+ ],
+ "genel_ozellikler": [
+  "Fen bilimlerine (fizik, kimya) ilgili ve bu alanda başarılı,",
+  "Makine, elektrik ve hidrolik sistemlere ilgili,",
+  "El ve beden becerisine sahip,",
+  "Fiziksel olarak dayanıklı ve sağlıklı,",
+  "Dikkatli, sorumluluk sahibi ve disiplinli,",
+  "Ani gelişen arızalarda hızlı ve doğru karar verebilen,",
+  "Ekip çalışmasına uyumlu ve liderlik özelliğine sahip,",
+  "Dar ve kapalı mekanlarda, uzun süre aileden ayrı çalışmaya uygun"
+ ],
+ "calisma_ortami": "Çarkçıbaşılar, geminin makine dairesinde; genellikle gürültülü, sıcak, titreşimli ve dar bir ortamda çalışır. Çalışma, seyir halindeki gemide vardiya sistemine göre düzenlenir ve gece-gündüz, hafta sonu dâhil kesintisiz sürebilir. Görev süresince kaptan, güverte ve makine zabitleri, yağcı ve diğer gemi personeliyle sürekli iletişim ve koordinasyon içinde çalışılır.\n\nMeslek; yanık, sıkışma, elektrik çarpması, zehirli gaz solunumu ve yangın gibi riskler barındırdığından iş sağlığı ve güvenliği kurallarına ve koruyucu ekipman kullanımına titizlikle uyulması gerekir. Özellikle uzun seferlerde aileden uzak kalma ve dar yaşam alanlarında bulunma, mesleğin zorlayıcı yönlerindendir.",
+ "gorevler": [
+  "Geminin hareketi için makinenin çalışmasını sağlar.",
+  "Makinede problem olduğunda talimat verir.",
+  "Gemideki elektrik ihtiyacını karşılayan yardımcı dizel jeneratörlerin ürettiği elektrik ile geminin aydınlatılmasını, vinçlerin çalışmasını ve diğer hizmet araç-gereçlerinin çalışmasını sağlar; gerekli enerjiyi sağlayan jeneratörün bakım, onarım ve takibini yapar.",
+  "Geminin hareketini sağlayan dümen motorlarının bakımının yapılmasını sağlar.",
+  "Yük gemilerindeki vinçlerin tüm teknik donanımını sağlar.",
+  "Geminin gerekli yakıtının ve içme suyunun depolanması ile muhafazasını sağlar.",
+  "Mutfak donanımındaki tüm teknik donanımın çalıştırılmasını ve çıkan arızaların giderilmesini sağlar.",
+  "Geminin tüm teknik aksamında çıkabilecek arızaların giderilmesini sağlar.",
+  "Gemide çıkabilecek yangınlarda köpük tankıyla müdahale edilmesini sağlar.",
+  "Güverte ve yangın devresini dengelemek için balans tulumbalarına deniz suyu basar.",
+  "Jeneratörün elektrik üretmesini sağlar.",
+  "Üretilen elektrik ile bütün elektrik motorlarının çalıştırılmasını ve geminin aydınlatılmasını sağlar.",
+  "Elektrik panosundan tüm makinelere dağıtım yapılmasını sağlar.",
+  "Yangın tulumbasını kontrol eder.",
+  "İçme suyunu hidrofor aracılığıyla musluklara basar.",
+  "Geminin tüm pis giderlerinin sintine tankına (pis su tankı) boşaltılmasını sağlar.",
+  "Makinenin çıkardığı zehirli gazları ekzos borusu aracılığıyla dışarı atar.",
+  "Mesleği alanındaki gelişmeleri takip eder ve uygular."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Mesleğin temel eğitimine, mesleki ve teknik ortaöğretim kurumlarının Denizcilik alanı Gemi Makineleri dalında başlanır. Bu alandan mezun olanlar, isteğe bağlı olarak denizcilik yüksekokulları ve ilgili ön lisans/lisans programlarıyla eğitimlerini ileriye taşıyabilir. Çarkçıbaşı unvanı, gemi makineleri eğitiminin ardından STCW Sözleşmesi ve ilgili Gemiadamları mevzuatı çerçevesinde belirli süre deniz hizmeti (gemi yolculuğu) tamamlanması ve Ulaştırma ve Altyapı Bakanlığı (İdare) tarafından yapılan sınavda başarılı olunmasıyla kazanılan bir yeterliliktir.",
+  "giris_kosullari": [
+   "Ortaokulu tamamlamış olmak,",
+   "Milli Eğitim Bakanlığınca ilgili alan/dala göre belirlenen giriş koşullarını taşımak,",
+   "Denizde çalışmaya engel bir hastalığı bulunmadığına dair 'Gemiadamı Sağlık Raporu' almış olmak,",
+   "Çarkçıbaşı yeterliliği için öngörülen eğitim süresi ve deniz hizmeti şartlarını tamamlamış olmak."
+  ],
+  "sure_ve_icerik": "Ortaöğretim düzeyindeki Denizcilik alanı Gemi Makineleri dalı eğitimi 4 yıl sürer. 9. sınıfta ortak genel kültür dersleri ve temel meslek dersleri verilir, yılsonunda dal seçimi yapılır; 10, 11 ve 12. sınıflarda alan/dal derslerine ağırlık verilir. Eğitim; okulda teorik ve uygulamalı derslerin yanı sıra atölye ortamlarında ve gemilerde uygulamalı olarak sürdürülür. Mezuniyet sonrasında çarkçıbaşılık yeterliliğine ulaşmak için, ilgili mevzuatta belirtilen süre ve nitelikte deniz hizmetinin (gemi yolculuğu) tamamlanması ve Ulaştırma ve Altyapı Bakanlığı tarafından açılan yeterlilik sınavında başarılı olunması gerekir.",
+  "belge": "Ortaöğretim eğitimini tamamlayanlara meslek lisesi diploması verilir. Öngörülen deniz hizmeti ve sınav şartlarını yerine getirenlere, Ulaştırma ve Altyapı Bakanlığı (İdare) tarafından çarkçıbaşı yeterlilik belgesi ve gemiadamı cüzdanı düzenlenir."
+ },
+ "calisma_alanlari": "Çarkçıbaşılar; kabotaj hattında ve uluslararası sularda seyreden yük, yolcu, balıkçı ve hizmet gemilerinde, Türk ve yabancı bandıralı ticaret gemilerinde makine dairesinin en üst düzey sorumlusu olarak çalışır. Ayrıca tersanelerde, gemi bakım-onarım işletmelerinde ve denizcilik şirketlerinin teknik birimlerinde istihdam edilebilirler. Deniz ticaretindeki hareketlilik, filoya katılan gemi sayısı ve dış ticaret hacmi, bu meslekte istihdamı etkileyen başlıca unsurlardır.",
+ "kazanc": {
+  "egitim_suresince": "Mesleki eğitim sırasında işletmelerde uygulamalı eğitim/staj gören öğrencilere ilgili mevzuat çerçevesinde bir ücret ödenebilir; öğrencilerin iş kazası ve meslek hastalığı sigortası devletçe karşılanır.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanların kazancı genellikle asgari ücret düzeyinde olup, çalışılan geminin büyüklüğü, bandırası ve işletmesine göre değişebilir.",
+   "Deneyim, yabancı dil bilgisi ve uluslararası sularda çalışma arttıkça kazanç düzeyi yükselebilir.",
+   "Kamu kurumlarına bağlı gemilerde çalışanlar, 657 sayılı Devlet Memurları Kanunu veya ilgili toplu iş sözleşmesi hükümlerine göre ücret alır; özel sektörde ücret işveren ile karşılıklı anlaşmaya göre belirlenir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Denizcilik alanı Gemi Makineleri dalından mezun olanlar, bu alanın devamı niteliğindeki yükseköğretim ön lisans ve lisans programlarını (örneğin gemi makineleri işletme mühendisliği) tercih ederek eğitimlerini ilerletebilir. Deneyim kazandıkça ve gerekli deniz hizmeti sürelerini tamamladıkça sırasıyla yağcılık, makine zabitliği, ikinci makinistlik ve çarkçıbaşılık/başmakinistlik rütbelerine doğru yükselinebilir.",
+  "is_hayatinda": "Yabancı dil bilgisi ve uluslararası yeterlilik sertifikaları (STCW) meslekte ilerlemeyi hızlandırır. Deneyimli çarkçıbaşılar, armatör şirketlerinde teknik müdürlük veya filo teknik denetimi (makine enspektörlüğü) gibi görevlere yükselebilir."
+ },
+ "benzer_meslekler": [
+  "Uzakyol Başmühendisi/Başmakinisti",
+  "Sınırlı Başmakinist",
+  "Gemi Makine Zabiti",
+  "Sınırlı Makine Zabiti",
+  "Deniz Buhar ve Motor Makinisti",
+  "Gemi Yağcısı"
+ ],
+ "ek_bilgiler": "Çarkçıbaşı, gemi makine dairesinin en üst düzey sorumlusu olduğundan görev ve sorumluluk ağırdır; açık denizde çıkabilecek arızalara anında ve doğru müdahale edilmesi gerekliliği risk taşımaktadır. Gemi tipine ve tonajına göre bu rütbe yerine bazı işletmelerde \"başmühendis/başmakinist\" unvanı da kullanılmaktadır. Mesleki Yeterlilik Kurumu (MYK) belgesi, kara tesislerinde yapılacak teknik işlerde istihdamda tercih sebebi olabilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T11:45:04",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 9341
+  }
+ }
+}

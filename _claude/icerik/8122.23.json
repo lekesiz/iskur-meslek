@@ -1,0 +1,88 @@
+{
+ "arac_gerec": [
+  "Elektroliz banyoları (kaplama tankları)",
+  "Anot ve katot plakaları",
+  "Askı baraları ve askı telleri",
+  "Redresör (doğrultmaç)",
+  "Terazi ve tartı aletleri",
+  "Arı su (deiyonize su) cihazı",
+  "Su ve asit pompaları",
+  "pH metre ve ölçüm cihazları",
+  "Voltmetre/ampermetre, bara voltaj ve sıcaklık göstergeleri",
+  "Fosfatlama ve kataforez kaplama kimyasalları",
+  "Kesme aletleri (katot/anot kesimi için)",
+  "Temizlik ve bakım malzemeleri",
+  "İş eldiveni, gözlük, maske, iş elbisesi, çizme gibi kişisel koruyucu donanım",
+  "Kronometre ve kontrol çizelgeleri"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve tedbirli,",
+  "Sabırlı ve işine özen gösteren,",
+  "El becerisi gelişmiş,",
+  "Kimyasal maddelere karşı alerjisi ve hassasiyeti olmayan,",
+  "Fiziksel olarak dayanıklı,",
+  "Yönergelere ve iş güvenliği kurallarına uyabilen,",
+  "Ekip çalışmasına yatkın,",
+  "Düzenli ve titiz"
+ ],
+ "calisma_ortami": "Elektroliz işçisi, metal kaplama ve galvanizhane niteliğindeki üretim tesislerinde, genellikle kapalı alanlarda ve atölye/fabrika ortamında çalışır. Çalışma ortamında kimyasal kokular, nem, asit ve elektrolit buharları bulunabilir; elektrikli donanımlar nedeniyle elektrik çarpması ve kimyasal madde teması riski söz konusudur. Görev genellikle ayakta, banyo ve tankların başında, çeşitli aletleri kullanarak yürütülür.\n\nMeslek elemanı çalışırken eldiven, gözlük, maske, iş elbisesi gibi kişisel koruyucu donanım kullanmak zorundadır. İşletmenin üretim düzenine göre vardiyalı çalışma söz konusu olabilir. Çalışma sırasında diğer işçiler, usta/vardiya sorumlusu ve kalite kontrol birimi ile iletişim kurar.",
+ "gorevler": [
+  "Belirlenmiş standartlara göre anot ve katotları banyoya yükler,",
+  "Kısa devre kontrollerini yapar,",
+  "Katot ve artık anot çıkış işlemlerini yürütür,",
+  "Anot ve katotlarda istenilen maddeyi elde etmek üzere tartı işlemlerini yapar,",
+  "Katot ve artık anotları keser, banyo temizliğini yapar, başlangıç plakasını hazırlar,",
+  "Askı baralarını parlatır,",
+  "Başlangıç plakalarını soyar,",
+  "Redresörleri kontrol eder,",
+  "Ana katotların temizlik ve bakımını yürütür,",
+  "Arı su cihazını çalıştırır,",
+  "Banyo altlarının temizlik ve kontrolünü yapar,",
+  "Anot çamurunu yıkayıp kurutur,",
+  "Gerektiğinde su ve asit pompalar,",
+  "Bara voltajını ve elektrolit sıcaklığını kontrol eder,",
+  "Çalışılan yerin ve cihazların genel temizliğini yapar,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Elektroliz işçiliğinin örgün bir eğitim programı bulunmamaktadır. Meslek, genellikle işyerinde usta yanında işbaşında öğrenilmektedir. Ayrıca Halk Eğitim Merkezleri ile İŞKUR'un açtığı mesleki eğitim kurslarında metal kaplama ve yüzey işlemleri alanına yönelik kısa süreli kurslar takip edilerek mesleğe giriş desteklenebilir.",
+  "giris_kosullari": [
+   "İlköğretim mezunu olmak (mesleğin gerektirdiği minimum eğitim düzeyi)",
+   "18 yaşını doldurmuş olmak (işyerlerinin çoğunda bu şart aranır)",
+   "Kimyasal maddelerle ve elektrikli ekipmanla çalışmaya engel bir sağlık sorunu bulunmamak",
+   "İşe alım görüşmesinde işverenin belirlediği koşulları karşılamak"
+  ],
+  "sure_ve_icerik": "İşyerinde usta yanında verilen eğitimde; anot ve katotların banyoya yüklenmesi, fosfatlama ve kataforez kaplama süreçleri, banyo ve ekipman temizliği, redresör ve voltaj kontrolleri, arı su cihazının kullanımı, iş sağlığı ve güvenliği kuralları uygulamalı olarak öğretilir. Bu süreç işyerine göre değişmekle birlikte genellikle birkaç hafta ile birkaç ay arasında sürer. Halk Eğitim Merkezi veya İŞKUR kurslarına katılınması durumunda kursun süresi ve içeriği açılan programa göre belirlenir.",
+  "belge": "İşbaşı eğitimini tamamlayanlara resmî bir diploma verilmez; işyeri tarafından deneyim kazandığı kabul edilir. Kursa katılım halinde 'Kurs Bitirme Belgesi' alınabilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Elektroliz işçileri, metal kaplama ve galvaniz tesislerinde, otomotiv ve otomotiv yan sanayi işletmelerinde, beyaz eşya ve metal eşya üretim fabrikalarında, elektrolitik yüzey kaplama (kataforez, fosfatlama, krom, nikel, çinko kaplama vb.) yapan sanayi kuruluşlarında çalışabilirler. İş bulma olanakları, metal işleme ve kaplama sektörünün yoğun olduğu sanayi bölgelerinde daha fazladır. Sektördeki üretim hacmine ve kaplama teknolojilerindeki gelişmelere bağlı olarak nitelikli ve deneyimli elemana ihtiyaç duyulmaktadır.",
+ "kazanc": {
+  "egitim_suresince": "İşbaşında eğitim alınan dönemde, çalışılan işyerinin uygulamasına göre asgari ücret düzeyinde ya da vasıfsız işçi yevmiyesi ödenebilir. Halk Eğitim Merkezi veya İŞKUR kurslarına katılım genellikle ücretsizdir.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Deneyim, bilgi düzeyi ve işyerinin büyüklüğüne bağlı olarak ücret artabilir.",
+   "Özel sektörde çalışanların ücreti işveren ile karşılıklı anlaşmaya göre belirlenir; kamuda işçi statüsünde istihdam söz konusu olduğunda ilgili toplu iş sözleşmesi hükümleri uygulanır."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Meslekte ilerleme; deneyim kazanılması, farklı kaplama yöntemlerinde (krom, nikel, çinko, kataforez vb.) uzmanlaşma ve daha büyük/teknolojik işletmelerde çalışma şeklinde olabilir.",
+  "is_hayatinda": "Deneyim ve performansa bağlı olarak vardiya sorumluluğu, ustabaşılık veya kalite kontrol gibi görevlere geçilebilir. Ayrıca işletme bünyesinde eğitim alınarak farklı metal işleme ve kaplama süreçlerinde görev alınabilir."
+ },
+ "benzer_meslekler": [
+  "Eloksal Kaplama İşçisi",
+  "Krom Kaplama İşçisi (Elektroliz İle)",
+  "Kadmiyum Kaplama Tanburu İşçisi",
+  "Kalay Kaplama Tanburu İşçisi",
+  "Krom ve Nikel Sökme İşçisi (Elektroliz İle)",
+  "Metal Yüzey Kaplamacı"
+ ],
+ "ek_bilgiler": "Meslek, kimyasal maddeler ve elektrikli ekipmanla iç içe yürütüldüğünden, çalışanların iş sağlığı ve güvenliği kurallarına eksiksiz uyması önemlidir. Bazı işyerlerinde bu nedenle periyodik sağlık muayenesi ve kişisel koruyucu donanım kullanımı zorunlu tutulabilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T11:52:15",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5037
+  }
+ }
+}

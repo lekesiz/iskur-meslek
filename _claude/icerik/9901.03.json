@@ -1,0 +1,74 @@
+{
+ "arac_gerec": [
+  "Uygulama/iş kıyafeti ve kişisel koruyucu donanım",
+  "Eğitim gördüğü meslek alan/dalına özgü atölye, laboratuvar veya işyeri araç-gereç ve makineleri",
+  "İş dosyası ve uygulama değerlendirme çizelgeleri",
+  "Devam ve uygulama takip defteri (staj/koordinasyon defteri)",
+  "Meslek dersi kitapları, föyler ve ders notları",
+  "Bilgisayar ve temel ofis yazılımları (rapor ve dosya hazırlığı için)",
+  "Öğrenci/stajyer kimlik kartı",
+  "Okul-işletme arasındaki eğitim sözleşmesi ve protokol belgeleri"
+ ],
+ "benzer_meslekler": [
+  "Stajyer (Öğrenci)",
+  "Öğrenci (Lisans)",
+  "Öğrenci (Önlisans)",
+  "Diğer Kursiyer"
+ ],
+ "calisma_alanlari": "İşletmede Beceri Eğitimi Öğrenciliği doğrudan bir meslek değil, 3308 sayılı Mesleki Eğitim Kanunu kapsamında İl İstihdam ve Mesleki Eğitim Kurulunca belirlenen alan/dallarda ortaöğretim düzeyinde yürütülen bir eğitim/staj sürecidir. Bu nedenle \"çalışma alanı\", öğrencinin kayıtlı olduğu meslek alan/dalına göre okulla protokol yapan her türlü özel veya kamu işletmesi olabilir; imalat, hizmet, ticaret, sağlık, turizm, inşaat ve benzeri sektörlerin tamamında uygulama görülebilir.\n\nBu statüde doğrudan bir \"iş bulma\" süreci yoktur; öğrenci, okulun koordinatör öğretmeni aracılığıyla anlaşmalı işletmelerle eşleştirilir. Öğrencinin ilerideki iş bulma olanakları, eğitim gördüğü meslek alanının istihdam koşullarına göre değişir.",
+ "calisma_ortami": "Çalışma ortamı, öğrencinin kayıtlı olduğu meslek alan/dalına göre değişir; işletmenin atölyesi, imalathanesi, bürosu, mağazası, sahası veya hizmet birimi olabilir. Öğrenci, haftanın bir bölümünde okulda teorik ve atölye/laboratuvar eğitimi alırken, diğer bölümünde işletmede uygulamalı eğitim görür. Çalışma koşulları (gürültü, sıcaklık, ayakta/hareketli çalışma, vardiya vb.) bağlı olduğu işletmenin ve mesleğin niteliğine göre farklılaşır.\n\nÖğrenci, işletmede usta öğretici, iş yeri personeli ve yöneticilerle; okulda ise koordinatör öğretmen ve diğer öğretmenlerle sürekli iletişim halindedir. Disiplin, devam ve iş güvenliği kurallarına uyma zorunluluğu bulunur; işletmenin çalışma saatlerine ve okulun eğitim takvimine bağlı olarak program değişebilir.",
+ "egitim": {
+  "verildigi_yerler": "Bu süreç, mesleki ve teknik eğitim veren ortaöğretim kurumlarının (meslek liseleri ve mesleki eğitim merkezlerinin) İl İstihdam ve Mesleki Eğitim Kurulunca 3308 sayılı Mesleki Eğitim Kanunu kapsamına alınan meslek alan/dallarında, 11. ve/veya 12. sınıf öğrencileri için okul ile anlaşmalı işletmeler arasında yürütülür.",
+  "giris_kosullari": [
+   "Mesleki ve teknik eğitim veren bir ortaöğretim kurumunun ilgili alan/dalında 11. veya 12. sınıf öğrencisi olmak",
+   "Okulun koordinatör öğretmeni aracılığıyla, İl İstihdam ve Mesleki Eğitim Kurulunca kapsama alınmış ve okulla protokol imzalayan bir işletmeyle eşleştirilmiş olmak",
+   "Sağlık durumunun eğitim görülecek alan/dala uygun olması (gerektiğinde sağlık raporuyla belgelendirilir)",
+   "Okul ile işletme arasında düzenlenen eğitim sözleşmesi/protokolünün tarafı olmak",
+   "Uygulamaya devam ve disiplin kurallarına uyacağını kabul etmek"
+  ],
+  "sure_ve_icerik": "Eğitimin süresi ve içeriği, öğrencinin kayıtlı olduğu meslek alan/dalının öğretim programına göre belirlenir. Genellikle haftanın belirli günleri işletmede uygulamalı eğitim, kalan günleri okulda teorik ders ve atölye/laboratuvar çalışması şeklinde yürütülür. İçerik, ilgili alan/dalın öğretim programındaki temrin, iş, proje, deney veya hizmetlerden oluşur; öğrencinin bunların en az %80'ini işletmede tamamlaması ve her birinin öğretmen ile birlikte değerlendirme çizelgesi üzerinde imzalanarak bir iş dosyasında belgelenmesi gerekir. Uygulamaların bir kısmı işletmede tamamlanamazsa, okul ile işletmenin anlaşmasıyla başka bir işletmede veya okulda telafi eğitimiyle, hâlâ tamamlanamayan kısımlar ise ikinci dönemin son beş haftasında yoğunlaştırılmış telafi eğitim programıyla tamamlanır.",
+  "belge": "Eğitim sürecinin kendisi için ayrı bir belge düzenlenmez; öğrencinin işletmedeki performansı iş dosyası ve değerlendirme çizelgeleriyle kayda alınır. Öğrenci, öğretim programını ve uygulamaları başarıyla tamamladığında kayıtlı olduğu alan/dala göre meslek lisesi diploması ve/veya kalfalık/ustalık belgesi almaya hak kazanır."
+ },
+ "ek_bilgiler": "İşletmede Beceri Eğitimi Öğrenciliği, bağımsız bir meslek değil; 3308 sayılı Mesleki Eğitim Kanunu kapsamında ortaöğretim düzeyinde yürütülen bir eğitim/staj statüsüdür. Türk Meslekler Sözlüğü'nde istatistiksel sınıflandırma amacıyla meslek kodu altında yer almaktadır. Öğrencinin gerçek mesleki kimliği ve gelecekteki kazanç/ilerleme olanakları, kayıtlı olduğu meslek alan/dalına göre belirlenir.",
+ "genel_ozellikler": [
+  "Sorumluluk bilincine sahip,",
+  "Disiplinli ve kurallara uyan,",
+  "Öğrenmeye istekli ve meraklı,",
+  "El ve beden becerisine sahip,",
+  "Takım çalışmasına uyumlu,",
+  "Dikkatli ve düzenli,",
+  "Değişen çalışma ortam ve koşullarına uyum sağlayabilen,",
+  "İletişim kurabilen"
+ ],
+ "gorevler": [
+  "İşletmede beceri eğitimi, staj veya yaz uygulamasına ve okul atölye/laboratuvar çalışmalarına uygulama kıyafetiyle katılır.",
+  "Dersin özelliğine göre yaptığı temrin, iş, proje, deney veya hizmetin değerlendirmesini çizelge üzerinde yapar, çizelgeyi öğretmeniyle birlikte imzalar ve bu belgelerin yer aldığı bir iş dosyası tutar.",
+  "Uygulamaya devam esaslarına ve disiplinle ilgili kurallara uyar.",
+  "İşletme kurallarına, okul atölye/laboratuvar çalışmalarında ise okul kurallarına uyar.",
+  "İşletmeye ve hastalara ait özel bilgileri başkalarıyla paylaşmaz, işletmede görev yapan personelin katıldığı grev ve benzeri olaylara katılmaz.",
+  "Alan/dalının öğretim programındaki ilgili sınıfa ait temrin, iş, proje, deney veya hizmetin en az %80'ini yapar ve uygulamalardan başarılı olur.",
+  "Mesleki eğitimini aynı işyerinde sürdürür; ilgili sınıfa ait uygulamaların bir kısmının işletmede yapılamaması durumunda, eksik kalan uygulamaları işletme ile okul müdürlüğünün anlaşmasıyla ders yılı içinde başka bir işletmede veya okulda telafi eğitimi programıyla tamamlar.",
+  "Öğretim programında öngörülen uygulamaların bir kısmının ders yılı içinde tamamlanamaması durumunda, ikinci dönemin son beş haftasında eksik kalan uygulamaların okulda tamamlanması amacıyla yoğunlaştırılmış telafi eğitim programına katılır.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Beceri eğitimini öğretim programına uygun biçimde ve başarıyla tamamlayan öğrenciler, kayıtlı oldukları alan/dala göre meslek lisesi diploması ve/veya kalfalık-ustalık belgesi almaya hak kazanır. Mezuniyet sonrasında, alanlarının devamı niteliğindeki ön lisans veya lisans programlarına sınavla, bazı durumlarda ek puan avantajıyla yerleşebilirler.",
+  "is_hayatinda": "Beceri eğitimini tamamlayan öğrenciler, mezuniyet sonrasında genellikle eğitim gördükleri aynı işletmede veya sektördeki başka işletmelerde çalışmaya başlayabilir. İş hayatındaki ilerleme, öğrencinin eğitim gördüğü ve mezun olduğu meslek alanına, deneyimine ve kişisel çabasına bağlı olarak zaman içinde kademeli şekilde gerçekleşir."
+ },
+ "kazanc": {
+  "egitim_suresince": "3308 sayılı Mesleki Eğitim Kanunu gereğince, işletmede beceri eğitimi gören öğrencilere, işletmenin çalışan sayısına göre değişen oranlarda ve yasayla belirlenen tutarın altında kalmamak üzere ücret ödenir. Öğrencilerin iş kazası ve meslek hastalığı sigortası primleri devlet tarafından karşılanır; ayrıca eğitim gördükleri işletmenin sosyal imkânlarından yararlanabilirler.",
+  "egitim_sonrasi": [
+   "Bu süreç ayrı bir meslek olmadığından, \"eğitim sonrası kazanç\" doğrudan beceri eğitimi öğrenciliğine değil, öğrencinin mezuniyet sonrası yöneleceği mesleğe bağlıdır.",
+   "Kamuda istihdam edilenler 657 sayılı Devlet Memurları Kanunu'na veya işçi statüsündeyse ilgili toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde çalışanların kazancı, işyerinin büyüklüğü, kişinin deneyimi, bilgi ve becerisi ile sektörün ücret düzeyine göre değişir; yeni başlayanlarda genellikle asgari ücret düzeyinde başlar."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T21:17:54",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 7967
+  }
+ }
+}

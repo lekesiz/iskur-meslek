@@ -1,0 +1,74 @@
+{
+ "arac_gerec": [
+  "Sondaj tijleri (boru) ve tij anahtarları",
+  "Sondaj matkap uçları (kuyu açma uçları)",
+  "Yağlama ekipmanları ve gresörlük",
+  "Sondaj çamuru pompaları",
+  "Sondaj çamuru havuzu ve karıştırıcıları",
+  "Kuyu ağzı ekipmanları ve güvenlik valfleri",
+  "Vinç, halat ve zincir takımları",
+  "El aletleri (anahtar takımı, balyoz, kazma, kürek)",
+  "Kişisel koruyucu donanım (baret, eldiven, koruyucu gözlük, çelik burunlu ayakkabı, iş elbisesi)",
+  "Telsiz veya haberleşme cihazı",
+  "Ölçüm aletleri (metre, derinlik ölçer)"
+ ],
+ "genel_ozellikler": [
+  "Fiziksel olarak güçlü ve dayanıklı,",
+  "El ve beden becerisine sahip,",
+  "Ekip çalışmasına yatkın,",
+  "Dikkatli ve sorumluluk sahibi,",
+  "Zor hava ve arazi koşullarında çalışmaya istekli,",
+  "Talimatları eksiksiz uygulayan, kurallara uyan,",
+  "Değişen çalışma şartlarına çevik uyum sağlayabilen"
+ ],
+ "calisma_ortami": "Sondaj işçisi, petrol, doğalgaz, maden veya yeraltı suyu arama ve çıkarma çalışmalarının yapıldığı sondaj sahalarında, genellikle açık havada; sondaj kulesi, platform veya kuyu başı çevresinde görev yapar. Çalışma ortamı gürültülü, tozlu, yağlı ve sondaj çamuru gibi kimyasal maddelere maruz kalınan, ayakta ve sürekli hareket halinde çalışmayı gerektiren fiziksel bir ortamdır; sıcak, soğuk, yağmur gibi değişen hava koşullarında da çalışılabilir.\n\nÇalışma genellikle vardiyalı sistemle, ekip halinde yürütülür; işçi, sondaj ustası/sondörü, sondaj operatörü, makine bakımcısı ve mühendisle yakın iş birliği içinde çalışır. Saha bazlı çalışma nedeniyle farklı bölgelere, bazen şehir merkezlerinden uzak sahalara geçici görevlendirmeler söz konusu olabilir. Çalışma süresince işveren tarafından sağlanan kişisel koruyucu donanımların kullanılması gerekir.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi için resmi örgün bir okul programı bulunmamaktadır. Meslek, genellikle sondaj sahalarında usta yanında işbaşında yetişilerek veya Halk Eğitim Merkezleri ile İŞKUR'un açtığı mesleki eğitim kurslarında temel düzeyde kazanılmaktadır.",
+  "giris_kosullari": [
+   "En az ilkokul mezunu olmak",
+   "Sondaj sahası çalışma koşullarına uygun sağlık durumuna sahip olmak (ağır ve tehlikeli işlerde çalışabilir sağlık raporu gerekebilir)",
+   "Fiziksel olarak dayanıklı ve açık hava koşullarında çalışmaya uygun olmak"
+  ],
+  "sure_ve_icerik": "Mesleki eğitim kurslarının süresi kurumdan kuruma değişmekle birlikte genellikle birkaç haftadan birkaç aya kadar sürebilir. Bu kurslarda sondaj ekipmanlarının tanıtımı, tij bağlama-sökme teknikleri, sondaj çamuru sisteminin temelleri, kuyu ağzı güvenlik ekipmanları ve iş sağlığı güvenliği konuları işlenir. İşbaşında usta yanında yetişme süreci ise daha uzun sürebilir ve uygulamalı olarak ilerler.",
+  "belge": "Kurs bitirme veya katılım belgesi verilmektedir. Mesleki Yeterlilik Kurumu (MYK) belgesi, çalıştığı sektöre ve işyerine göre istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Sondaj işçileri; petrol, doğalgaz, maden arama-çıkarma ve yeraltı suyu sondajı yapan kamu ve özel sektöre ait firmaların sondaj sahalarında çalışır. Bu sahalar kamu kuruluşlarına veya özel sondaj ve enerji şirketlerine bağlı olabilir. Saha bazlı çalışma nedeniyle ülkenin farklı bölgelerindeki projelerde görevlendirilebilirler.",
+ "kazanc": {
+  "egitim_suresince": "Kurs eğitimi süresince genellikle ücret söz konusu değildir. İşbaşında usta yanında yetişme sürecinde yardımcı eleman olarak çalışılması durumunda düşük düzeyde bir ücret alınabilir.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanlarda kazanç genellikle asgari ücret düzeyindedir.",
+   "Deneyim arttıkça, çalışılan sahanın koşullarına (yeraltı, uzak bölge, vardiya) ve işin zorluğuna göre ücretler artabilir.",
+   "Özel sektörde kazanç, işveren ile çalışan arasındaki karşılıklı anlaşmaya göre belirlenir.",
+   "Kamu kuruluşlarına bağlı sahalarda işçi statüsünde çalışanların ücretleri toplu iş sözleşmesi hükümlerine tabidir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğin örgün bir ilerleme basamağı bulunmamaktadır. Mesleki Yeterlilik Kurumu belgeleri ve iş güvenliği sertifikaları ile bilgi ve beceri düzeyi geliştirilebilir.",
+  "is_hayatinda": "Deneyim ve bilgi birikimine göre sondaj ustalığına, vardiya sorumluluğuna veya sondaj makinesi operatörlüğü gibi daha üst görevlere ilerleme mümkündür. Zamanla saha şefliği gibi sorumluluklara yükselebilir."
+ },
+ "benzer_meslekler": [
+  "Sondaj Çamurcusu",
+  "Çektirmeci-Petrol ve Doğal Gaz Kuyuları",
+  "Kule Operatörü-Petrol",
+  "Maden Sondörü",
+  "Petrol Sondörü",
+  "Zemin Delgi (Delik Delme ve Sondaj) Makinesi Operatörü"
+ ],
+ "ek_bilgiler": "Sondaj işçiliği, çalışılan sahanın türüne (petrol, doğalgaz, maden veya su sondajı) göre ağır ve riskli iş kapsamında değerlendirilebilir. Bu nedenle iş güvenliği eğitimlerinin alınması ve kişisel koruyucu donanımların eksiksiz kullanılması mesleğin önemli bir parçasıdır.",
+ "gorevler": [
+  "Sondaj dizisini (tijleri) ekler veya söker.",
+  "Sondaj matkabının değişimine ve yağlanmasına yardımcı olur.",
+  "Sondaj çamuru havuzlarını ve pompalarını kontrol eder.",
+  "Kuyu ağzı ekipmanlarını ve güvenlik valflerini hazır tutar.",
+  "Çalışma alanının temizliğini ve takım düzenini sağlar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T10:39:30",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5820
+  }
+ }
+}

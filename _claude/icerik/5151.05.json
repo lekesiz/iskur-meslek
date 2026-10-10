@@ -1,0 +1,74 @@
+{
+ "arac_gerec": [
+  "Temizlik malzemeleri ve kimyasalları (deterjan, dezenfektan, cila vb.)",
+  "Süpürge, paspas, fırça, bez gibi el temizlik araçları",
+  "Elektrikli temizlik makineleri (endüstriyel elektrikli süpürge, halı yıkama ve cilalama makineleri)",
+  "Kişisel koruyucu donanım (eldiven, maske, önlük, bot)",
+  "Temizlik arabaları/trolileri",
+  "Çöp torbaları ve atık kovaları",
+  "İş planı, kontrol çizelgesi ve denetim formları",
+  "Stok takip defteri veya bilgisayar programı",
+  "Telsiz veya telefon"
+ ],
+ "genel_ozellikler": [
+  "Sorumluluk sahibi,",
+  "Planlı ve organize çalışabilen,",
+  "Yöneticilik ve liderlik özelliklerine sahip,",
+  "İletişimi iyi, ekip çalışmasına uygun,",
+  "Dikkatli ve titiz,",
+  "Fiziksel olarak dayanıklı,",
+  "Hijyen ve temizlik kurallarına duyarlı,",
+  "Sabırlı ve disiplinli,"
+ ],
+ "calisma_ortami": "Temizlik Şefleri; otel, hastane, alışveriş merkezi, iş merkezi, okul, fabrika gibi kapalı mekanlarda, bazen de bahçe, otopark gibi açık alanlarda çalışır. İşin gereği olarak gün boyu ayakta durma, yürüme ve bina içinde sürekli hareket halinde olma durumu vardır. Vardiyalı çalışma düzeni yaygındır; hafta sonu ve resmî tatillerde de çalışılabilir.\n\nÇalışma sırasında temizlik kimyasallarıyla temas, kayma-düşme ve bazı ekipmanların kullanımına bağlı riskler bulunabilir; bu nedenle kişisel koruyucu donanım kullanımı önemlidir. Temizlik personeli, işyeri yöneticileri, diğer departman çalışanları ve zaman zaman müşteri/ziyaretçilerle sürekli iletişim halinde çalışılır.",
+ "gorevler": [
+  "Temizlik personelinin iş planına uygun şekilde çalışmasını sağlar.",
+  "Hijyen standartlarına uygun şekilde temizlenmesini sağlar.",
+  "İşe yeni başlayan temizlik personeline gerekli eğitimleri verir ve iş prosedürlerini öğrenmesini sağlar.",
+  "İş güvenliği ve sağlığı yönetmeliğine uygun şekilde çalışmak için personeli yönlendirir, olası kaza durumlarında gerekli prosedürleri uygular.",
+  "Temizlik personeline her gün iş dağılımı yaparak genel hijyeni ve düzeni sağlar.",
+  "Personelin kılık kıyafet kurallarına uymasını sağlar.",
+  "Kullanılan temizlik malzemelerini denetler, olası israfı önler.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Temizlik Şefliği için ayrı, resmi bir örgün eğitim programı (ön lisans/lisans) bulunmamaktadır. Mesleğe genellikle temizlik personeli olarak başlanıp, zaman içinde kazanılan deneyim ve beceriyle şeflik pozisyonuna yükselinerek ulaşılır. Halk Eğitim Merkezleri ve İŞKUR'un açtığı hijyen, temizlik teknikleri ve bina bakım hizmetleri konulu kısa süreli mesleki eğitim kursları da bu alana hazırlık için kullanılabilir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak (mesleğin gerektirdiği minimum eğitim düzeyi)",
+   "Temizlik sektöründe personel olarak çalışma tecrübesine sahip olmak",
+   "Açılan kurslara katılım için kurumların belirlediği yaş ve sağlık şartlarını taşımak"
+  ],
+  "sure_ve_icerik": "Mesleğin resmi, standart bir eğitim süresi ve müfredatı bulunmamaktadır. Kişi genellikle önce temizlik personeli olarak işe başlar, usta-çırak ilişkisi içinde ve işbaşı eğitimlerle temizlik teknikleri, hijyen kuralları, malzeme ve ekipman kullanımı, iş güvenliği ve ekip yönetimi konularında bilgi ve beceri kazanarak zamanla şeflik görevine getirilir. Halk Eğitim Merkezleri ile İŞKUR tarafından açılan kurslar genellikle birkaç haftalık olup hijyen, temizlik kimyasalları ve iş güvenliği konularını kapsar.",
+  "belge": "Katılınan kurslar sonunda kurs bitirme/katılım belgesi verilir. Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Temizlik Şefleri; oteller, hastaneler, alışveriş merkezleri, iş merkezleri, okullar, kamu kurum ve kuruluşları ile fabrikalar gibi geniş ve çeşitli mekânlarda istihdam edilebilir. Özellikle bina yönetim şirketleri ve dışarıdan temizlik hizmeti sağlayan (outsourcing) firmalar bu meslek elemanlarına sıklıkla ihtiyaç duyar. Temizlik hizmetlerinin birçok sektörde dışarıdan temin edilmesi eğiliminin artması nedeniyle iş bulma olanakları genellikle olumludur.",
+ "kazanc": {
+  "egitim_suresince": "Meslek için resmi bir eğitim süreci bulunmadığından, genellikle temizlik personeli olarak çalışılırken kazanılan deneyimle bu pozisyona ulaşılır; bu dönemde çalışanlar İş Kanunu kapsamında ücret alır.",
+  "egitim_sonrasi": [
+   "Özel sektörde çalışanların kazancı; işyerinin büyüklüğü, taşınan sorumluluk, kişinin deneyimi ve sektörün genel ücret düzeyine göre değişmektedir.",
+   "Kamu kurumlarında bu görevde çalışanlar genellikle işçi statüsünde istihdam edilip ilgili toplu iş sözleşmesi hükümlerine tabi olabilir.",
+   "Yeni başlayanlarda kazanç genellikle asgari ücret düzeyinde olup, deneyim ve yönetilen personel sayısı arttıkça artış gösterebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Meslekte dikey geçiş sınavı gibi resmi bir eğitim ilerleme basamağı bulunmamaktadır; ancak katılınan kurs, sertifika ve mesleki gelişim programlarıyla bilgi ve beceri düzeyi artırılabilir.",
+  "is_hayatinda": "Deneyim kazanan Temizlik Şefleri; Kat Hizmetleri (Housekeeping) Yöneticiliği, Bina Yönetim Sorumluluğu veya Operasyon Müdürlüğü gibi daha üst düzey yönetim pozisyonlarına yükselebilir; isterlerse kendi temizlik hizmetleri işletmelerini kurabilirler."
+ },
+ "benzer_meslekler": [
+  "Kat Şefi/Sorumlusu",
+  "Hausekeeping Yöneticisi (Hausekeeper)",
+  "Genel Alan Sorumlusu / Meydancı Şefi (Otel)",
+  "İşletmelerde Hijyen Görevlisi",
+  "Gıda Hijyeni ve Sanitasyon Görevlisi",
+  "Bina Bakımcısı"
+ ],
+ "ek_bilgiler": "Temizlikte kullanılan kimyasal maddelerin doğru ve güvenli kullanımı için iş sağlığı ve güvenliği eğitimleri önem taşır; bazı işyerlerinde bu konuda periyodik eğitim ve koruyucu donanım kullanımı beklenir. Temizlik hizmetlerinin birçok işyerinde dışarıdan hizmet alımı (outsourcing) yoluyla sağlanması, bu meslekte istihdam olanaklarını artırmaktadır.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T17:54:04",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5902
+  }
+ }
+}

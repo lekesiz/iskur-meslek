@@ -1,0 +1,74 @@
+{
+ "arac_gerec": [
+  "Çeneli ve darbeli kırıcı makineleri",
+  "Malzeme besleme bantları (konveyörler)",
+  "Bunkerler ve besleme hunileri",
+  "Elek ve ızgara sistemleri",
+  "Toz bastırma/su püskürtme sistemleri",
+  "Makine kumanda panosu",
+  "Kişisel koruyucu donanım (baret, kulaklık, toz maskesi, gözlük, eldiven, iş ayakkabısı)",
+  "El aletleri (anahtar takımı, kürek, balyoz, manivela)",
+  "Yağlama ve bakım ekipmanları",
+  "Telsiz/haberleşme cihazları",
+  "Temizlik malzemeleri ve süpürgeler"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve tedbirli,",
+  "Fiziksel olarak güçlü ve dayanıklı,",
+  "El ve göz koordinasyonu iyi,",
+  "Makine ve mekanik sistemlere ilgili,",
+  "Ekip halinde uyum içinde çalışabilen,",
+  "Sorumluluk sahibi ve talimatlara uyan,",
+  "İşitme ve görme duyuları sağlıklı,",
+  "Vardiyalı ve zaman zaman gürültülü-tozlu ortamda çalışmaya uygun,"
+ ],
+ "calisma_ortami": "Kırıcı - Maden, maden işletmelerinin kırma-eleme tesislerinde, genellikle açık veya yarı açık alanlarda çalışır. Çalışma ortamında toz, gürültü ve titreşim yüksek düzeydedir; bu nedenle kişisel koruyucu donanım kullanımı zorunludur. Mesleğin icrası sırasında ağır ve hareketli makine ekipmanlarının yakınında bulunma, fiziksel efor gerektiren hareketler ve bazen olumsuz hava koşullarında çalışma söz konusudur.\n\nÇalışma genellikle vardiya usulü yürütülür ve hafta sonu/gece çalışması gerekebilir. Kırıcı operatörü, görevini çoğunlukla bir ekip içinde; vardiya arkadaşları, usta, formen ve iş güvenliği sorumlularıyla sürekli iletişim halinde yürütür. İş süreçlerinde makine arızalarının ve tıkanıklıkların hızlı biçimde ilgililere bildirilmesi, iş sağlığı ve güvenliği kurallarına titizlikle uyulması önem taşır.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin örgün bir eğitim programı bulunmamaktadır. Mesleğe ilişkin bilgi ve beceriler genellikle işbaşında, deneyimli bir kırıcı operatörü veya usta gözetiminde; ayrıca Halk Eğitim Merkezleri ile İŞKUR'un açtığı mesleki eğitim kurslarında kazanılmaktadır.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak,",
+   "18 yaşını doldurmuş olmak (madencilik işleri ağır ve tehlikeli işler kapsamında değerlendirildiğinden),",
+   "Sağlık durumunun (işitme, görme, genel fiziksel kondisyon) mesleğin gerektirdiği koşullara uygun olması ve bu durumun sağlık raporuyla belgelenmesi,",
+   "İşe alınacağı işletmenin belirlediği iş güvenliği eğitimi ve diğer ek şartları karşılamak."
+  ],
+  "sure_ve_icerik": "Mesleğin resmî/örgün bir eğitim süresi ve müfredatı yoktur. Yeni başlayanlar, kırma-eleme makinelerinin çalışma prensipleri, besleme ve tane boyutlandırma işlemleri, arıza tespiti ve bildirimi, toz bastırma sistemlerinin kullanımı ile iş sağlığı ve güvenliği kuralları konusunda işletme içinde uygulamalı olarak eğitilir. Ayrıca İŞKUR ve Halk Eğitim Merkezlerinin açtığı kısa süreli mesleki eğitim kurslarına katılınabilir.",
+  "belge": "Örgün eğitim sonunda verilen bir diploma bulunmamaktadır. Katılınan kurslar sonunda kurs bitirme/katılım belgesi, işletme içi eğitimler sonunda iş sağlığı ve güvenliği eğitim sertifikası düzenlenebilir. Mesleki Yeterlilik Kurumu (MYK) Mesleki Yeterlilik Belgesine sahip olmak, madencilik sektöründe istihdamda tercih sebebi olabilir ve bazı işyerlerinde aranabilir."
+ },
+ "calisma_alanlari": "Kırıcı - Maden, kömür ocakları, metal maden işletmeleri ve taş ocakları gibi maden işletmelerinin kırma-eleme tesislerinde; agrega/mıcır üretim tesislerinde ve çimento fabrikalarının hammadde hazırlama bölümlerinde istihdam edilir. İş bulma olanakları, bölgedeki maden ve taş ocağı faaliyetlerinin yoğunluğuna, inşaat ve agrega sektörünün canlılığına ve genel ekonomik koşullara bağlı olarak değişkenlik gösterir.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğin örgün bir eğitim süreci bulunmadığından öğrencilik dönemine özgü bir ücret düzenlemesi yoktur. İşe yeni başlayanlar genellikle deneme/adaptasyon sürecinde, işyerinin belirlediği koşullarda ve genellikle asgari ücret düzeyinde bir ücretle çalışmaya başlar.",
+  "egitim_sonrasi": [
+   "Kamuya bağlı işletmelerde çalışanlar, memur statüsündeyse 657 sayılı Devlet Memurları Kanunu'na, işçi statüsündeyse ilgili toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde çalışanların kazancı; işyerinin büyüklüğü, kişinin deneyimi, çalıştığı maden/taş türü, vardiya ve tehlike tazminatları gibi unsurlara göre değişir; genellikle asgari ücret düzeyinde başlar ve deneyimle birlikte artabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğin örgün bir eğitim kademesi bulunmadığından mesleki eğitimde belirli bir dikey ilerleme basamağı yoktur. Kişi, iş sağlığı ve güvenliği, makine bakım-onarımı ve kırma-eleme teknolojileri konularında kurslara katılarak bilgi ve becerisini geliştirebilir.",
+  "is_hayatinda": "Deneyim kazandıkça kırıcı operatörlüğünden vardiya sorumluluğuna, ekip liderliğine veya tesis/ocak formenliğine kadar ilerlemek mümkündür. İlgili sertifikaları tamamlayan kişiler, makine bakım-onarımı veya iş sağlığı ve güvenliği gibi destek alanlarına yönelebilir."
+ },
+ "benzer_meslekler": [
+  "Takımcı - Maden",
+  "Takımcı - Taşocağı",
+  "Maden Seçme Ayırma İşçisi",
+  "Kum Ocağı İşçisi",
+  "Tumbacı-Maden ocağı",
+  "Diğer Madenciler ve Taş Ocakçılar (Nitelik Gerektirmeyen)"
+ ],
+ "ek_bilgiler": "Madencilik işleri, 4857 sayılı İş Kanunu ve ilgili mevzuat kapsamında ağır ve tehlikeli işler arasında değerlendirildiğinden, bu meslekte 18 yaşından küçüklerin çalıştırılması mümkün değildir. Çalışma sırasında yoğun toz maruziyeti söz konusu olduğundan, uzun süreli korunmasız çalışma akciğer sağlığı açısından risk oluşturabilir; bu nedenle kişisel koruyucu donanımların düzenli kullanımı ve periyodik sağlık kontrolleri önemlidir.",
+ "gorevler": [
+  "Kırıcı (çeneli, darbeli vb.) makinesini işletmeye hazırlar.",
+  "Malzeme besleme bantlarını ve bunkerleri kontrol eder.",
+  "Kırma işlemi sırasında ürün tane boyutunu takip eder.",
+  "Makine tıkanıklıklarına müdahale eder ve arızaları bildirir.",
+  "Toz bastırma sistemlerini çalıştırır ve alanı temizler.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T19:46:04",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 7298
+  }
+ }
+}

@@ -1,0 +1,76 @@
+{
+ "arac_gerec": [
+  "Ambalaj kâğıdı ve karton",
+  "Streç film",
+  "Köpük/strafor koruyucu malzeme",
+  "Köşe ve kenar koruyucular",
+  "Bantlama makinesi",
+  "Koli bandı",
+  "Zımba/tel çakma tabancası",
+  "Barkod ve etiket yazıcısı",
+  "El arabası / transpalet",
+  "Cutter, makas",
+  "Metre, ölçüm aletleri",
+  "Streç/shrink sarma makinesi",
+  "Forklift (bazı işletmelerde)"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli,",
+  "Düzenli ve sistemli çalışan,",
+  "El ve göz koordinasyonu iyi,",
+  "Fiziksel olarak dayanıklı,",
+  "Sorumluluk sahibi,",
+  "Takım çalışmasına uyumlu,",
+  "Talimatlara ve iş akışına uyan"
+ ],
+ "calisma_ortami": "Mobilya paketleme işçisi, genellikle mobilya üretim fabrikalarının veya depolarının kapalı paketleme bölümlerinde çalışır. Çalışma sırasında büyük bölümünü ayakta geçirir; mobilya parçalarını kaldırma, taşıma ve istifleme gibi fiziksel güç gerektiren işler yapar. Ortamda toz, ambalaj malzemesi kokusu ve makine sesi bulunabilir; işletmenin üretim temposuna göre vardiyalı çalışma söz konusu olabilir.\n\nÇalışma sırasında paketleme bölümü arkadaşları, üretim hattı çalışanları, kalite kontrol personeli ve sevkiyat/depo görevlileri ile iş birliği içinde bulunur. Kesici/delici ekipman ve ağır yük taşıma nedeniyle iş sağlığı ve güvenliği kurallarına dikkat edilmesi gerekir.",
+ "calisma_alanlari": "Mobilya paketleme işçileri başlıca mobilya üretim fabrikaları ve atölyelerinin paketleme/sevkiyat bölümlerinde, ayrıca mobilya lojistiği ve depolama hizmeti veren işletmelerde istihdam edilir.",
+ "ek_bilgiler": "Mobilya sektöründeki üretim ve ihracat hacmine bağlı olarak bu meslekteki istihdam talebi dönemsel olarak değişkenlik gösterebilir. Ağır kaldırma ve taşıma içeren işlerde iş güvenliği kurallarına uyum önemlidir.",
+ "benzer_meslekler": [
+  "Ambalajcı (Makine İle)",
+  "Etiketçi (Makineyle)",
+  "Kolileme Makinesi Operatörü",
+  "Palet Etiketleme İşçisi"
+ ],
+ "gorevler": [
+  "Paketleme bölümüne gelen mobilyaların paketleme öncesi gerekli kontrollerini yapar",
+  "Hatalı ürün varsa ilgili bölüme gönderir",
+  "Paketleme malzemelerini hazırlar",
+  "Mobilyaların paketleme işlemlerini yapar",
+  "Paketlerin üzerine uygun barkod, etiket, yazı vb. koyar",
+  "Paketleri istifler, istenilen yerlere koyar",
+  "Çalışma alanının temizlik ve düzenini sağlar",
+  "Meslek alanı ile ilgili gelişmeleri takip eder, uygular",
+  "Mesleki gelişim faaliyetlerinde bulunur"
+ ],
+ "egitim": {
+  "verildigi_yerler": "Bu mesleğe özgü, örgün bir okul programı bulunmamaktadır; meslek genellikle işyerlerinde işbaşında usta yanında öğrenilerek edinilir. Ayrıca Halk Eğitim Merkezleri ve İŞKUR tarafından açılan ambalaj/paketleme alanındaki mesleki eğitim kurslarında da temel beceriler kazandırılabilir.",
+  "giris_kosullari": [
+   "İlköğretim mezunu olmak",
+   "18 yaşından küçükler için veli izni gerekir",
+   "İşin gerektirdiği fiziksel güce ve dayanıklılığa sahip olmak"
+  ],
+  "sure_ve_icerik": "Mesleğin eğitimi için standart bir süre ve resmi müfredat tanımlanmamıştır. İşbaşı eğitimi genellikle kısa sürede, gözlem ve uygulama yoluyla kazanılır. Açılan kurslarda ise ambalaj malzemeleri, paketleme teknikleri, barkod/etiketleme uygulamaları ve iş sağlığı güvenliği konuları kısa süreli modüller halinde işlenir.",
+  "belge": "İşbaşında kazanılan eğitim sonunda resmi bir belge genellikle verilmez. Halk Eğitim Merkezi veya İŞKUR kurslarına katılım halinde \"Kurs Bitirme Belgesi\" alınabilir. Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "İşbaşında eğitim alırken işletmenin uygulamasına göre genellikle asgari ücret düzeyinde bir kazanç söz konusu olabilir; kurs şeklinde alınan eğitimlerde ise herhangi bir kazanç bulunmaz.",
+  "egitim_sonrasi": [
+   "İşe başlangıçta genellikle asgari ücret düzeyinde kazanç sağlanır.",
+   "Deneyim, performans ve işletmenin uygulamasına göre ücrette artış olabilir.",
+   "Kamu kurumlarında işçi statüsünde çalışılması halinde ücret, toplu iş sözleşmesi hükümlerine göre belirlenir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Bu mesleğe özgü örgün bir eğitimde ilerleme basamağı bulunmamaktadır; ilgili ambalaj ve paketleme kurslarına katılarak bilgi ve beceriler geliştirilebilir.",
+  "is_hayatinda": "Deneyim kazandıkça ekip lideri, vardiya sorumlusu, paketleme bölümü sorumlusu veya kalite kontrol görevlisi gibi pozisyonlara yükselme olanağı bulunmaktadır."
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T17:17:56",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 4401
+  }
+ }
+}

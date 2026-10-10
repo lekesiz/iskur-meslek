@@ -1,0 +1,85 @@
+{
+ "arac_gerec": [
+  "Bağlama halatları, kayışlar (strap) ve zincirler",
+  "Kanca ve bağlantı aparatları",
+  "Transpalet ve el forklifti gibi yardımcı taşıma araçları",
+  "El arabası (kango/trolley)",
+  "Paletler ve ambalaj malzemeleri",
+  "Streç film ve bantlama ekipmanları",
+  "Koruyucu eldiven",
+  "Baret",
+  "Çelik burunlu iş ayakkabısı/bot",
+  "Reflektörlü iş yeleği",
+  "Taşıma irsaliyesi, sevk fişi gibi belgeleme formları",
+  "Barkod okuyucu",
+  "İlkyardım çantası",
+  "Yangın söndürme cihazı"
+ ],
+ "genel_ozellikler": [
+  "Fiziksel olarak güçlü ve dayanıklı,",
+  "Dikkatli ve tedbirli,",
+  "Sorumluluk sahibi,",
+  "El ve göz koordinasyonu gelişmiş,",
+  "Takım çalışmasına uygun,",
+  "Kurallara ve talimatlara uyan,",
+  "Mekanik alet ve ekipman kullanabilen,",
+  "Fiziksel çalışma ortamına uyumlu"
+ ],
+ "gorevler": [
+  "İş sağlığı ve güvenliği, yangın ve acil durum kurallarını uygular.",
+  "Çevre koruma mevzuatına uygun çalışır.",
+  "Kalite yönetim sistemi dokümanlarına uygun çalışır.",
+  "Çalıştığı yeri düzenler.",
+  "Çalışma alet ve donanımlarının koruyucu ve talimatlı bakımlarını sağlar.",
+  "Taşıma öncesinde hazırlık işlemlerini yapar.",
+  "Taşıma donanımını veya aracını hazırlar.",
+  "Taşınacak yük ile ilgili kontrol işlemlerini gerçekleştirir.",
+  "Yükü taşıma işlemi için hazırlar.",
+  "Yük taşıma alanı ve rotası ile ilgili düzenlemeleri yapar.",
+  "Taşıma işlemlerini gerçekleştirmek için yükü kaldırır, taşır ve yerleştirir.",
+  "Taşıma işleminin ve yükün cinsine göre yardımcı kişilerle çalışır.",
+  "Taşıma sırasında kullanılan yardımcı aparatları yükten ayırır.",
+  "Tekrar kullanılabilir aparatları tek kullanımlık malzemelerden ayrıştırır.",
+  "Belgeleme işlemlerini yapar.",
+  "Mesleki gelişim faaliyetlerine katılır."
+ ],
+ "calisma_ortami": "\"Endüstriyel taşımacılar genellikle fabrika, depo, antrepo, liman ve dağıtım merkezi gibi kapalı veya yarı açık alanlarda çalışır; iş yerinin niteliğine göre açık sahalarda da görev alabilirler. Çalışma ortamı tozlu, gürültülü ve bazen soğuk veya sıcak olabilir; ağır yüklerle ve bağlama-sabitleme ekipmanlarıyla sürekli temas söz konusudur. Yük düşmesi, çarpma, sıkışma ve kas-iskelet sistemi yaralanmaları açısından dikkatli olunması gereken bir iş güvenliği riski bulunur. Çalışma saatleri genellikle düzenlidir ancak işin yoğunluğuna bağlı olarak vardiyalı çalışma da söz konusu olabilir. Meslek mensupları çalışma sırasında depo sorumluları, forklift/vinç operatörleri, sevkiyat personeli ve diğer çalışanlarla sürekli iletişim halindedir.\\n\\nİş, bedensel güç ve dayanıklılık gerektirir; yükün cinsine göre yardımcı personelle ekip halinde çalışılabilir. Belgeleme ve kayıt tutma gibi idari işler de görevin bir parçasıdır.\"",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi için resmî olarak tanımlanmış, örgün bir okul programı bulunmamaktadır. Temel bilgi ve beceriler genellikle Halk Eğitim Merkezleri ile İŞKUR'un açtığı mesleki eğitim kurslarında, bazı durumlarda ise işyerlerinde usta yanında işbaşı eğitimi şeklinde kazandırılır.",
+  "giris_kosullari": [
+   "En az ilkokul/ilköğretim mezunu olmak",
+   "18 yaşını doldurmuş olmak",
+   "Ağır yük kaldırma ve taşıma işine engel bir sağlık probleminin bulunmaması"
+  ],
+  "sure_ve_icerik": "Kursların süresi ve içeriği düzenleyen kuruma göre değişmekle birlikte genel olarak; iş sağlığı ve güvenliği, yük bağlama ve sabitleme teknikleri, taşıma ekipmanlarının kullanımı, yükleme-boşaltma ve istifleme yöntemleri, temel ilkyardım gibi konuları kapsar. İşbaşında usta yanında eğitimde ise beceriler fiilen çalışılan ortamda uygulamalı olarak kazanılır.",
+  "belge": "Kursu tamamlayanlara katılım veya başarı belgesi verilir. Mesleki Yeterlilik Kurumu (MYK) tarafından yetkilendirilmiş kuruluşlardan alınacak Mesleki Yeterlilik Belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "\"Endüstriyel taşımacılar; üretim tesisleri, fabrikalar, depolar, antrepolar, lojistik ve dağıtım merkezleri, limanlar ve büyük ölçekli ticari işletmelerin sevkiyat/yükleme-boşaltma birimlerinde istihdam edilebilirler. Sanayi üretiminin ve lojistik sektörünün yaygınlığı nedeniyle bu meslekte çalışan kişilere özel sektörde sürekli ihtiyaç duyulmaktadır. Kamu kurumlarının depo ve ikmal birimlerinde de sınırlı sayıda istihdam olanağı bulunabilir.\"",
+ "kazanc": {
+  "egitim_suresince": "Kurs veya işbaşı eğitimi sürecinde genel olarak bir kazanç söz konusu değildir; bazı kurum içi eğitimlerde eğitim ödeneği verilebilir.",
+  "egitim_sonrasi": [
+   "Özel sektörde yeni başlayanlar genellikle asgari ücret düzeyinde kazanç elde eder; kazanç işyerinin büyüklüğü, kişinin tecrübesi, bilgisi ve sektörün ücret düzeyine göre değişebilir.",
+   "Kamuda işçi statüsünde çalışanların ücreti ilgili toplu iş sözleşmesi hükümlerine göre belirlenir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğe özgü kademeli bir örgün eğitim basamaklanması bulunmamaktadır. Kişiler, mesleki eğitim merkezleri veya kurs kurumlarınca açılan ileri düzey ekipman kullanımı ve iş güvenliği eğitimlerine katılarak bilgi ve becerilerini geliştirebilirler.",
+  "is_hayatinda": "Deneyim kazanan endüstriyel taşımacılar forklift, transpalet gibi araçların operatörlük sertifikalarını alarak ilgili iş makinesi operatörlüğüne geçiş yapabilir; çalıştıkları işyerlerinde ekip lideri veya depo sorumlusu gibi görevlere yükselebilirler."
+ },
+ "benzer_meslekler": [
+  "Transpalet Operatörü",
+  "Forklift Operatörü",
+  "Yan Forklift (Reachtruck) Operatörü",
+  "Liman Saha İstif Makineleri Operatörü (CRS ve ECS)",
+  "Diğer Malzeme Taşıma Makinesi Operatörleri"
+ ],
+ "ek_bilgiler": "\"Mesleğin icrası sırasında ağır yüklerle çalışıldığından, iş güvenliği eğitimi ve kişisel koruyucu donanım kullanımı önem taşır. Bazı işyerlerinde forklift veya transpalet gibi yardımcı ekipmanların kullanılması gerekebileceğinden, ilgili iş makinesi operatörlük belgesine sahip olmak istihdamda avantaj sağlayabilir.\"",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T19:04:49",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 4978
+  }
+ }
+}

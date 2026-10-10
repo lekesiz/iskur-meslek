@@ -1,0 +1,76 @@
+{
+ "arac_gerec": [
+  "Yakma (bekleme) makinesi",
+  "Gaz beki ve alev başlıkları",
+  "Hava ve gaz vanaları",
+  "Dönen kalıp tablası ve kalıplar",
+  "Yarı mamul cam eşya",
+  "Maşa, pens gibi tutma araçları",
+  "Koruyucu eldiven",
+  "Koruyucu gözlük veya yüz siperi",
+  "Isıya dayanıklı önlük",
+  "Makine ayar ve bakım aletleri",
+  "Basit ölçüm aparatları (yükseklik ayarı için)"
+ ],
+ "benzer_meslekler": [
+  "Cam Mamul İmalatçısı",
+  "Cam Eşya Kesicisi (Elle)",
+  "Cam Kenarı Perdahlayıcısı",
+  "Cam Presçi (Elle)",
+  "Cam Mamul İşlemecisi (Finisaj)",
+  "Endüstriyel Cam Isıl İşlem Elemanı"
+ ],
+ "calisma_alanlari": "Yakmacılar (cam eşya), başta züccaciye ve cam eşya üretimi yapan fabrika ve atölyeler olmak üzere, yarı mamul cam ürünlerin son işlemlerinin yapıldığı üretim hatlarında çalışırlar. Sofra ve mutfak eşyası, dekoratif cam eşya, bardak, vazo gibi ürünlerin üretildiği işletmeler bu mesleğin temel istihdam alanıdır.\\n\\nSektördeki üretim büyük ölçüde fabrikalarda, kısmen de küçük ve orta ölçekli atölyelerde sürmektedir. Üretim hattındaki bu işlem makineli bir süreç olduğundan, iş bulma imkânı genel olarak cam eşya sektöründeki üretim hacmine ve işletmelerin kapasite kullanımına bağlı olarak değişir. Deneyim kazanan ve makine kullanımında uzmanlaşan kişiler için sektörde istihdam imkânı bulunmaktadır.",
+ "calisma_ortami": "Yakmacılar, cam eşya fabrikalarının veya atölyelerinin üretim bölümlerinde, kapalı mekânlarda çalışırlar. Çalışma ortamı, kullanılan gaz bekleri ve alev nedeniyle sıcak olup, üretim makinelerinin çalışmasından kaynaklanan gürültü de söz konusudur. İş genellikle ayakta ve makine başında yürütülür; alevle ve sıcak cam eşya ile doğrudan çalışıldığından yanma ve yangın riskine karşı dikkatli olmak, iş güvenliği kurallarına ve koruyucu ekipman kullanımına uymak gerekir.\\n\\nÜretim hattının bir parçası olarak çalışan yakmacı, kalıp hazırlayan, taşlama ve diğer işlemleri yapan iş arkadaşları ve vardiya amiri/ustabaşı ile sürekli iletişim halindedir. İşletmenin üretim programına göre vardiyalı çalışma düzeni uygulanabilir.",
+ "egitim": {
+  "verildigi_yerler": "Yakmacı (cam eşya) için ayrı ve resmi olarak tanımlanmış bağımsız bir çıraklık dalı veya örgün mesleki eğitim programı bulunmamaktadır. Meslek, genellikle cam eşya üreten fabrika ve atölyelerde işbaşında, usta yanında çalışılarak öğrenilir. Cam eşya üretim süreçlerine ilişkin genel temel bilgiler, mesleki ve teknik eğitim veren okullarda cam/seramik teknolojisi ile ilgili alanlarda ya da Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kurslarında kazanılabilir; ancak bu eğitimler mesleğe doğrudan özgü değildir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "Sağlık durumunun yüksek ısılı ortamda ve ayakta çalışmaya uygun olması",
+   "Çalışma mevzuatına göre asgari çalışma yaşını doldurmuş olmak",
+   "El becerisi ve dikkat gerektiren işlerde çalışmaya istekli olmak"
+  ],
+  "sure_ve_icerik": "Resmi olarak belirlenmiş bir eğitim süresi bulunmamaktadır. İşbaşında eğitim, işletmedeki üretim sürecine, kullanılan makinelere ve kişinin öğrenme hızına bağlı olarak değişen bir sürede, usta gözetiminde pratik çalışmalar yoluyla tamamlanır. Eğitim süresince makine kullanımı, kalıp ayarları, yakma (alevle temas) işleminin kontrolü ve iş güvenliği uygulamaları öğretilir.",
+  "belge": "Mesleğe özgü zorunlu bir diploma veya sertifika bulunmamaktadır. İşyerinde edinilen deneyim esastır. Cam üretimi alanında Mesleki Yeterlilik Kurumu (MYK) tarafından düzenlenmiş ulusal yeterlilik belgeleri varsa, bu belgelerin alınması istihdamda tercih sebebi olabilir."
+ },
+ "ek_bilgiler": "Bu meslekte alevle ve sıcak cam eşya ile doğrudan çalışıldığından iş sağlığı ve güvenliği kurallarına, koruyucu donanım kullanımına özellikle dikkat edilmesi gerekir. Cam eşya üretiminde otomasyon düzeyinin artması, bu işlemin bazı işletmelerde daha ileri düzeyde makineleşmiş hatlara kaymasına yol açabilmekte; bu nedenle makine kullanımı ve teknik bilgiye sahip olmak istihdamda avantaj sağlayabilir.",
+ "genel_ozellikler": [
+  "El becerisine sahip,",
+  "Göz ve ellerini eşgüdümle kullanabilen,",
+  "Dikkatli ve tedbirli,",
+  "Şekilleri algılama yeteneğine sahip,",
+  "Ayakta ve yüksek ısılı ortamda uzun süre çalışabilen,",
+  "Rutin işlerde dikkatini sürdürebilen,",
+  "Sabırlı,",
+  "İş güvenliği kurallarına uyma konusunda sorumluluk sahibi"
+ ],
+ "gorevler": [
+  "İşlenecek yarı mamul cam eşyanın ebadına göre makine kalıplarının yükseklik ayarını yapar,",
+  "Hava ve gaz vanalarını açıp gaz bekini yakar ve gerekli ayarları yaparak makineyi çalıştırır,",
+  "Cam eşyayı ekseni etrafında dönmekte olan kalıplara yerleştirir,",
+  "Kalıpların bulunduğu tablayı hafifçe çevirerek cam eşyanın alevle temas etmesini sağlar,",
+  "Yakma işlemini kontrol eder ve istenilen şekle giren cam eşyayı kalıplardan çıkarır,",
+  "Makinenin bakım ve temizliğini yapar,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Bu meslekte örgün bir mesleki eğitim kademelenmesi bulunmadığından ilerleme, işyerinde kazanılan deneyim ve beceriye bağlıdır. İşbaşında geçirilen süre arttıkça kişi farklı makine ve kalıp türlerinde çalışabilecek yetkinliğe ulaşabilir.",
+  "is_hayatinda": "Deneyim kazanan yakmacılar, üretim hattında daha karmaşık işlemleri üstlenebilir, vardiya sorumluluğu alabilir veya ustabaşı/nezaretçi gibi pozisyonlara yükselebilir. Üretim süreçlerinin tümünü öğrenen bazı kişiler zamanla kendi küçük atölyelerini kurabilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Mesleğe özgü resmi bir çıraklık eğitimi programı bulunmadığından, işbaşında eğitim alanların kazancı işyerinin uyguladığı ücret politikasına göre değişir. Böyle bir eğitim 3308 sayılı Mesleki Eğitim Kanunu kapsamında yürütülüyorsa, öğrenciye/çırağa yasal olarak belirlenen asgari ücret oranları üzerinden ödeme yapılır.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanların kazancı genellikle asgari ücret düzeyindedir.",
+   "Deneyim, iş hızı ve uzmanlık arttıkça kazanç işletme imkânlarına ve karşılıklı anlaşmaya bağlı olarak yükselebilir.",
+   "Büyük fabrikalarda çalışanlar için ücret, işyerinin toplu iş sözleşmesi veya ücret politikasına göre belirlenir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T04:09:18",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5738
+  }
+ }
+}

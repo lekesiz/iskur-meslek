@@ -1,0 +1,72 @@
+{
+ "arac_gerec": [
+  "Bilgisayar ve yüksek performanslı iş istasyonları",
+  "Elektronik Tasarım Otomasyonu (EDA) yazılımları",
+  "VHDL/Verilog gibi donanım tanımlama dilleri ve yazılımları",
+  "Devre simülasyon ve doğrulama yazılımları",
+  "FPGA geliştirme kartları ve kitleri",
+  "Osiloskop ve lojik analizör",
+  "Multimetre ve diğer elektronik ölçüm cihazları",
+  "Devre tasarım ve çizim (CAD) yazılımları",
+  "Prototip test ve lehimleme ekipmanları",
+  "Teknik dokümantasyon ve veri sayfaları (datasheet)",
+  "Bilgisayar donanım bileşenleri ve test düzenekleri"
+ ],
+ "genel_ozellikler": [
+  "Matematiksel ve mantıksal düşünme yeteneği güçlü,",
+  "Analitik düşünebilen ve problem çözme becerisine sahip,",
+  "Elektronik ve bilgisayar donanımına ilgi duyan,",
+  "Ayrıntılara dikkat eden ve sabırlı,",
+  "Takım çalışmasına yatkın,",
+  "Teknolojik gelişmeleri yakından takip edebilen,",
+  "Teknik İngilizce okuyup anlayabilen,",
+  "Yaratıcı ve yenilikçi düşünebilen"
+ ],
+ "calisma_ortami": "Mikroişlem Tasarımcısı genellikle ofis veya Ar-Ge laboratuvarı ortamında, bilgisayar başında çalışır. Tasarım, benzetim ve doğrulama çalışmalarının büyük bölümü ekran başında gerçekleştirilir; zaman zaman prototip test aşamalarında elektronik ölçüm cihazlarıyla veya yarı iletken üretim süreçlerinin takip edildiği kontrollü (temiz oda benzeri) ortamlarla da teması olabilir.\n\nÇalışma genellikle ekip hâlinde yürütülür; donanım ve yazılım mühendisleri, test mühendisleri, üretim ve kalite birimleriyle sıkı iş birliği gerektirir. Çalışma saatleri çoğunlukla düzenli ofis saatleri şeklindedir, ancak proje teslim tarihlerine yaklaşıldığında çalışma süresi uzayabilir. Mesleğin fiziksel riskleri sınırlıdır; uzun süre ekran başında oturmaya bağlı göz ve duruş yorgunluğu söz konusu olabilir.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin temel eğitimi üniversitelerin Bilgisayar Mühendisliği, Elektrik-Elektronik Mühendisliği veya Elektronik ve Haberleşme Mühendisliği gibi bölümlerinde verilmektedir. Mikroişlemci/çip tasarımı (VLSI tasarımı) konusunda uzmanlaşma genellikle lisans sonrasında ilgili yüksek lisans/doktora programları veya kurumsal ihtisas eğitimleriyle pekiştirilir.",
+  "giris_kosullari": [
+   "Lise veya dengi okul mezunu olmak",
+   "YKS (Yükseköğretim Kurumları Sınavı) kılavuzunda belirtilen koşulları sağlayarak ilgili mühendislik lisans programına yerleşmek"
+  ],
+  "sure_ve_icerik": "Lisans eğitimi 4 yıl sürer. Eğitim süresince elektronik devreler, sayısal tasarım, bilgisayar mimarisi, mikroişlemci/mikrodenetleyici sistemleri, VLSI tasarımı, donanım tanımlama dilleri, yarı iletken fiziği ve gömülü sistemler gibi dersler okutulur. Mikroişlemci tasarımına yönelik ileri bilgi ve beceriler çoğunlukla lisansüstü eğitim veya sektördeki Ar-Ge projelerinde kazanılır.",
+  "belge": "Lisans diploması (ilgili mühendislik unvanı); uzmanlaşma için ayrıca yüksek lisans/doktora diploması alınabilir."
+ },
+ "calisma_alanlari": "Mikroişlem Tasarımcıları başta çip ve yarı iletken tasarımı yapan (fabless) şirketler olmak üzere, elektronik ve bilgisayar donanımı üreten firmalarda, telekomünikasyon şirketlerinde, savunma sanayiinde, otomotiv elektroniği firmalarında, gömülü sistem geliştiren şirketlerde, üniversite ve kamu Ar-Ge merkezlerinde (TÜBİTAK gibi kurumlar dâhil) çalışabilirler.\n\nTürkiye'de yerli mikroişlemci ve çip tasarımı alanına yönelik yatırımların ve kamu destekli projelerin artmasıyla bu alanda nitelikli uzmana duyulan ihtiyaç büyümektedir; ancak bu konuda derinlemesine uzmanlaşmış işgücü sayısı sınırlıdır, bu da donanıma hâkim ve deneyimli adaylar için iş bulma olanağını artırmaktadır.",
+ "kazanc": {
+  "egitim_suresince": "Eğitim süresince Kredi ve Yurtlar Genel Müdürlüğünün sağladığı öğrenim kredisi ve yurt imkânlarından, ayrıca çeşitli resmi ve özel kurum/kuruluşların burslarından yararlanılabilir. Staj dönemlerinde ilgili firmalarda çalışılarak hem deneyim hem de gelir elde edilebilir.",
+  "egitim_sonrasi": [
+   "Kamu kurum ve kuruluşlarında (üniversiteler, kamu Ar-Ge kurumları vb.) çalışanlar 657 sayılı Devlet Memurları Kanunu'na göre öğrenim düzeyine uygun teknik hizmetler sınıfından maaş ve yan ödeme alır.",
+   "Özel sektörde ücret; çalışılan firmanın büyüklüğüne, projenin niteliğine, kişinin deneyim ve uzmanlık düzeyine göre karşılıklı anlaşma ile belirlenir. Yeni mezunlar genellikle sektör ortalaması düzeyinde bir ücretle işe başlar, deneyim ve uzmanlık arttıkça kazanç belirgin biçimde yükselebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Lisans eğitiminin ardından ilgili mühendislik alanında yüksek lisans ve doktora yaparak akademik kariyere yönelebilir; ayrıca VLSI/çip tasarımı, donanım tanımlama dilleri ve ileri EDA araçları konusunda uzmanlık eğitimleri ve sertifika programlarıyla kendini geliştirebilir.",
+  "is_hayatinda": "Deneyim kazandıkça kıdemli tasarımcı, proje veya ekip lideri, Ar-Ge grup yöneticisi gibi pozisyonlara yükselebilir; birikimine göre danışmanlık da yapabilir."
+ },
+ "benzer_meslekler": [
+  "Donanım Geliştirme Uzmanı",
+  "Mikrodenetleyici Programcısı",
+  "Sistem Mimarı/Tasarımcısı",
+  "Bilgisayar Mühendisi",
+  "Bilişim Sistemleri Mühendisi"
+ ],
+ "ek_bilgiler": "Türkiye'de yerli mikroişlemci ve çip tasarımı alanına yönelik kamu destekli projeler ve sektörel yatırımlar son yıllarda artış göstermektedir; bu da alanda uzmanlaşmış işgücüne duyulan talebi beslemektedir. Mesleğin icrası için zorunlu bir ruhsat veya sertifika bulunmamakla birlikte, ilgili donanım tanımlama dilleri ve EDA araçlarına hâkimiyet istihdamda önemli bir tercih sebebidir.",
+ "gorevler": [
+  "Mikroişlemcinin kullanılacağı alana göre emir kümesini oluşturur.",
+  "Gerekli fonksiyonel birimleri tasarlar, geliştirir ve benzetimini yapar.",
+  "Mikroişlemcinin kullanılacağı yerlere uygun olacak şekilde boyutlarını, bacak sayılarını ve diğer fiziksel özelliklerini tasarlar.",
+  "Mikroişlemcinin donanımını amaca uygun şekilde tasarladıktan sonra mevcut yarı iletken teknolojisiyle mikroişlemciyi gerçekleştirir.",
+  "Mikroişlemcinin gerektirdiği arayüzleri, varsa, mikroişlemciyle uyumlu olacak şekilde tasarlar ve üretir.",
+  "Mikroişlemcinin, yan parçalarının ve makine dilinin kullanımına ilişkin yönergeler hazırlayarak bu teknolojiyi kullanacak şirket, araştırma grupları veya üniversitedeki personelin eğitimini sağlar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T06:00:23",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6064
+  }
+ }
+}

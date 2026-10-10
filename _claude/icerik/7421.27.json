@@ -1,0 +1,90 @@
+{
+ "arac_gerec": [
+  "Ampermetre, voltmetre, ohmmetre, multimetre ve avometre gibi ölçüm cihazları",
+  "İzolasyon direnci ölçer (megger)",
+  "Sinyal ve röle test cihazları",
+  "Kablo arıza tespit cihazları (kablo lokalizasyon cihazı)",
+  "El takımları (tornavida, pense, kargaburnu, anahtar takımları, havya)",
+  "Tork anahtarı ve özel sıkma aletleri",
+  "Taşınabilir bilgisayar ve arıza teşhis/diagnostik yazılımları",
+  "Osiloskop",
+  "Telsiz, el telefonu gibi haberleşme cihazları",
+  "Kişisel koruyucu donanım (baret, iş elbisesi, çelik burunlu ayakkabı, reflektörlü yelek, eldiven)",
+  "Merdiven, iskele gibi yükseklik ekipmanları",
+  "Makas motoru ve sinyal armatürlerine ait yedek parça ve malzemeler",
+  "Kablo, konektör, klemens, sigorta gibi elektrik/elektronik malzemeler",
+  "Teknik proje ve devre şemaları, el aletleri çantası"
+ ],
+ "benzer_meslekler": [
+  "Raylı Sistem Araçları Elektronik Bakım ve Onarımcısı",
+  "Elektronik İşçisi (Tren)",
+  "Endüstriyel Bakım-Onarım Elektronikçisi",
+  "Mekatronik Bakım Onarımcısı",
+  "Programlanabilir Lojik Kontrol (PLC) İşçisi",
+  "Endüstriyel Kontrol Teknisyeni/Kontrol ve Enstrümantasyon Teknolojisi Teknisyeni"
+ ],
+ "calisma_alanlari": "Raylı Sistemler Sinyalizasyon Bakım ve Onarımcıları başta TCDD olmak üzere, büyükşehirlerdeki metro, tramvay ve hafif raylı sistem işletmelerinde (belediyelere bağlı ulaşım şirketlerinde) istihdam edilir. Ayrıca raylı sistem sinyalizasyon altyapısının kurulumunu ve bakımını üstlenen özel taahhüt/yüklenici firmalarında, sinyalizasyon ekipmanı üreten veya ithal eden şirketlerin teknik servis birimlerinde çalışabilirler.\n\nTürkiye'de kentsel raylı sistem yatırımlarının (metro, tramvay hatları) artması bu alandaki istihdam ihtiyacını büyütmektedir. Yeni hatların açılması ve mevcut hatların modernizasyonu, nitelikli sinyalizasyon bakım personeline olan talebi sürekli kılmaktadır.",
+ "calisma_ortami": "Meslek elemanları büyük ölçüde açık havada, ray hatları, istasyonlar, tüneller ve sinyalizasyon kabinleri gibi saha ortamlarında çalışır; zaman zaman atölye ve büro ortamında da görev yaparlar. Çalışma her türlü hava koşulunda (sıcak, soğuk, yağmur) sürdürülebilir; iş genellikle vardiyalı sistemle, bazen gece saatlerinde veya trenlerin sefer yapmadığı zaman dilimlerinde yürütülür. Yüksek gerilimli ekipmanlarla, hareketli araçların bulunduğu hat üzerinde ve bazen yüksekte çalışma riski bulunduğundan iş sağlığı ve güvenliği kurallarına titizlikle uyulması gerekir.\n\nGörevler genellikle ekip halinde yürütülür; mühendisler, teknisyenler, hat bakım personeli ve işletme/trafik kontrol birimleriyle sürekli iletişim ve koordinasyon içinde çalışılır. Arıza müdahalelerinde hızlı hareket edilmesi gerekebileceğinden çalışma temposu değişkenlik gösterebilir, bazı işletmelerde görev yerine bağlı olarak şehir içi/dışı seyahat gerekebilir.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi resmî olarak tek bir örgün okul programına bağlı değildir. TCDD, metro/tramvay işletmeleri ve raylı sistem sinyalizasyonu alanında çalışan özel firmalar, işe aldıkları personele kurum içi teorik eğitimler ve işbaşında usta yanında uygulamalı eğitim vererek bu mesleğe hazırlar. Elektrik-elektronik teknolojisi, raylı sistemler teknolojisi, mekatronik gibi alanlarda eğitim veren meslek liseleri, meslek yüksekokulları ve mesleki eğitim merkezleri bu mesleğe temel oluşturabilir. Ayrıca İŞKUR ve Halk Eğitim Merkezleri tarafından açılan elektrik-elektronik ve raylı sistemler ile ilgili mesleki eğitim kursları da bu alana yönelmek isteyenlere temel bilgi ve beceri kazandırabilir.",
+  "giris_kosullari": [
+   "En az ilköğretim/ortaokul mezunu olmak (işe alınacak kurumun ilan ettiği pozisyona göre lise veya meslek yüksekokulu mezuniyeti tercih sebebi olabilir)",
+   "Sağlık durumunun işin niteliğine uygun olması; özellikle işitme, görme ve renk ayırt etme (sinyal renklerini doğru algılama) açısından engel bulunmaması",
+   "İşe alım yapan kurumun açtığı sınav, mülakat veya değerlendirme sürecini başarıyla tamamlamak",
+   "Saha koşullarında ve vardiyalı çalışmaya fiziksel ve psikolojik olarak uygun olmak"
+  ],
+  "sure_ve_icerik": "Eğitim süresi ve içeriği, eğitimin verildiği kuruma göre değişiklik gösterir. İşe yeni başlayanlara genellikle belirli bir süre (işletmenin uygulamasına göre haftalar veya aylar) teorik dersler (elektrik-elektronik temelleri, sinyalizasyon sistemlerinin çalışma mantığı, İSG kuralları, ilgili mevzuat) ve uygulamalı saha eğitimi verilir. Bu süreçte aday, deneyimli bir usta/teknisyenin gözetiminde makas, sinyal, tren algılama ve haberleşme sistemleri üzerinde pratik yapar. Meslek liselerinin ve meslek yüksekokullarının ilgili alanlarındaki örgün eğitim ise genel olarak elektrik-elektronik devreleri, ölçme teknikleri, kontrol sistemleri ve mesleki uygulama derslerini kapsar.",
+  "belge": "Kurum içi eğitimi tamamlayanlara işveren tarafından katılım belgesi veya yetkinlik belgesi verilebilir. Örgün eğitim kurumlarından mezun olanlar diploma alır. Mesleki Yeterlilik Kurumu (MYK) tarafından düzenlenen ulusal yeterliliğe dayalı belge, istihdamda ve ilerlemede tercih sebebi olabilir; bu belgenin alınması gereken durumlar işin tehlike sınıfına ve işyeri uygulamalarına göre değişebileceğinden ilgili kurumdan güncel bilgi alınması önerilir."
+ },
+ "ek_bilgiler": "Bu meslek, tren işletim güvenliğini doğrudan etkileyen kritik bir görev niteliği taşır; bu nedenle çalışanların İSG kurallarına ve işletme talimatlarına titizlikle uyması büyük önem taşır. Türkiye'de kentsel raylı sistem (metro, tramvay) yatırımlarının artması, bu alanda nitelikli personele olan ihtiyacı sürekli kılmaktadır. Mesleki Yeterlilik Kurumu (MYK) belgesinin bazı işyerlerinde zorunlu veya tercih sebebi olabileceği unutulmamalıdır; güncel düzenlemeler için ilgili kurumlardan bilgi alınması önerilir.",
+ "genel_ozellikler": [
+  "Elektrik-elektronik konularına ilgili ve bu alanda temel bilgiye sahip,",
+  "Dikkatli, tedbirli ve sorumluluk duygusu gelişmiş,",
+  "El ve göz koordinasyonu iyi, teknik alet kullanımında becerikli,",
+  "Renkleri (özellikle sinyal renklerini) doğru ayırt edebilen,",
+  "Fiziksel olarak sağlıklı, açık havada ve farklı hava koşullarında çalışmaya uygun,",
+  "Vardiyalı ve zaman zaman gece çalışmasına uyum sağlayabilen,",
+  "Ekip içinde uyumlu çalışabilen ve iletişim kurabilen,",
+  "Acil durumlarda hızlı ve doğru karar verebilen kişiler olmaları gerekir."
+ ],
+ "gorevler": [
+  "İş sağlığı ve güvenliği konusundaki yasal ve işyerine ait kuralları uygular",
+  "Çevre koruma mevzuatı hükümlerini yerine getirir",
+  "Kalite yönetim sistemi düzenlemelerine uygun çalışır",
+  "İş öncesi hazırlıkları yapar",
+  "Kullanılan donanım ve malzemeyi çalışmaya hazırlar",
+  "Periyodik bakım yapar",
+  "Makas kontrol sistemlerinin bakımını, montaj ve demontajını yapar, arızasını onarır",
+  "Sinyallerin bakımını, montaj ve demontajını yapar, arızasını onarır",
+  "Tren algılama sistemlerinin bakımını, montaj ve demontajını yapar, arızasını onarır",
+  "Hemzemin geçit koruma sistemlerinin bakımını, montaj ve demontajını yapar, arızasını onarır",
+  "ATP ve ATC araç üstü ekipmanların bakımını, montaj ve demontajını yapar, arızasını onarır",
+  "ATS (otomatik tren durdurma), ATP ve ATC yol boyu ekipmanların bakımını, montaj ve demontajını yapar, arızasını onarır",
+  "Merkezi ve yerel kumanda/izleme sistemleri ve alt sistemlerinin bakımını, montaj ve demontajını yapar, arızasını onarır",
+  "Haberleşme sistemleri ve alt sistemlerinin bakımını, montaj ve demontajını yapar, arızasını onarır",
+  "Kablo dağıtım kutularının bakımını, montaj ve demontajını yapar, arızasını onarır",
+  "İş sonu teslim işlemlerini yapar",
+  "İş bitiminde donanım ve iş alanı temizliğini yapar",
+  "Mesleki gelişim faaliyetlerinde bulunur"
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Meslek elemanları, elektrik-elektronik teknolojisi, raylı sistemler teknolojisi, mekatronik mühendisliği gibi ilgili ön lisans veya lisans programlarına yönelerek teknisyen veya mühendis unvanıyla kariyerlerini ilerletebilirler. Kurum içi veya dışı düzenlenen ileri düzey sinyalizasyon, otomasyon ve kontrol sistemleri kurslarına katılarak bilgi ve becerilerini güncel tutabilirler.",
+  "is_hayatinda": "Deneyim kazandıkça ekip lideri, bakım şefi, saha amiri veya sinyalizasyon uzmanı gibi pozisyonlara yükselebilirler. Farklı sinyalizasyon teknolojilerinde (ATP/ATC, CBTC gibi) uzmanlaşarak daha üst düzey teknik sorumluluklar üstlenebilir, eğitimci veya denetleyici rollerine geçebilirler."
+ },
+ "kazanc": {
+  "egitim_suresince": "Eğitim bir çıraklık veya staj programı kapsamında yürütülüyorsa 3308 sayılı Mesleki Eğitim Kanunu hükümlerine göre öğrenciye asgari ücretin belirli bir oranında ödeme yapılabilir. İşe alım sonrası verilen kurum içi işbaşı eğitimi sürecinde ise ücret, işverenin belirlediği politikaya göre değişir; genellikle bu dönemde de normal çalışan ücreti ödenir.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında (örneğin TCDD gibi) işçi statüsünde çalışanların ücreti, ilgili toplu iş sözleşmesi hükümlerine göre belirlenir.",
+   "Özel sektörde ücret; işletmenin büyüklüğü, çalışanın deneyimi, performansı ve üstlendiği sorumluluğa göre karşılıklı anlaşma ile belirlenir.",
+   "Mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar; deneyim ve uzmanlaşma arttıkça kazanç da artabilir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T06:32:38",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 8123
+  }
+ }
+}

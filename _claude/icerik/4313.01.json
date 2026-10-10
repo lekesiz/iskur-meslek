@@ -1,0 +1,75 @@
+{
+ "arac_gerec": [
+  "Bilgisayar ve bordro/puantaj yazılımları",
+  "Hesap makinesi",
+  "Personel özlük dosyaları ve puantaj kayıtları",
+  "Bordro defteri",
+  "Sigorta bildirge formları ve ilgili elektronik sistemler",
+  "Ödeme çeki ve maaş zarfı",
+  "Yazıcı ve fotokopi makinesi",
+  "Telefon ve diğer iletişim araçları",
+  "Dosyalama ve arşivleme ekipmanları",
+  "Diğer büro malzemeleri"
+ ],
+ "benzer_meslekler": [
+  "Tahakkuk Memuru",
+  "Özlük İşleri Personeli",
+  "Büro Memuru (Maliyet Hesabı)",
+  "Muhasebe Elemanı",
+  "Ön Muhasebeci",
+  "Sigorta Memuru"
+ ],
+ "calisma_alanlari": "Büro Memuru (Ücret Hesaplama), kamu kurum ve kuruluşlarının personel/özlük ve maaş birimlerinde, özel sektör işletmelerinin insan kaynakları ve bordro departmanlarında, muhasebe ve mali müşavirlik bürolarında, fabrika ve büyük işletmelerin personel servislerinde çalışabilir.\n\nBordro ve ücret hesaplama işlemleri her sektörde ve her büyüklükteki işletmede ihtiyaç duyulan bir alan olduğundan meslek mensupları için iş bulma olanakları görece geniştir. Bununla birlikte, bu alanda ayrı bir ünvan olarak istihdam genellikle büyük işletmelerde görülmekte; küçük işletmelerde bu görev muhasebe veya insan kaynakları personeli tarafından birlikte yürütülmektedir.",
+ "calisma_ortami": "Büro Memuru (Ücret Hesaplama) genellikle kapalı, aydınlık ve ısıtma/havalandırma koşulları uygun büro ortamlarında, masa başında ve bilgisayar karşısında çalışır. İşin niteliği gereği önemli bir fiziksel risk bulunmamakla birlikte, uzun süre bilgisayar ekranı karşısında oturarak çalışmak göz, sırt ve boyun bölgesinde sağlık sorunlarına yol açabilir. Çalışılan rakamların hassasiyeti ve yasal süreler (bordro dönemi, sigorta bildirim tarihleri gibi) nedeniyle zaman baskısı altında, dikkat ve doğruluk gerektiren bir tempoda çalışılır.\n\nMeslek mensubu işletme içinde insan kaynakları, muhasebe ve mali işler birimleri ile üst yönetim; işletme dışında ise SGK ve ilgili diğer kamu kurumlarının yetkilileri ile iletişim kurar. Çalışma genellikle normal mesai saatleri içinde yürütülür; ancak bordro dönemlerinde ve yasal bildirim tarihlerine yaklaşıldığında iş yoğunluğu artabilir ve fazla çalışma gerekebilir.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğe özgü, ayrı bir eğitim programı bulunmamaktadır. Meslek; mesleki ve teknik ortaöğretim kurumlarının büro yönetimi, muhasebe ve finansman gibi ilgili alanlarından mezun olunarak veya işbaşında usta-çırak ilişkisi içinde öğrenilerek edinilmektedir. Ayrıca Halk Eğitim Merkezleri ile İŞKUR'un açtığı mesleki eğitim kurslarından ve bordro/muhasebe programları kullanımına yönelik kurslardan da faydalanılabilmektedir.",
+  "giris_kosullari": [
+   "Ortaokul mezunu olmak",
+   "İlgili mesleki ve teknik ortaöğretim programının giriş koşullarını taşımak",
+   "Kurslara katılım için Milli Eğitim Bakanlığı ve/veya kursu açan kurumun belirlediği koşulları taşımak"
+  ],
+  "sure_ve_icerik": "Mesleki ve teknik ortaöğretim kapsamında ilgili alanda eğitim süresi 4 yıldır; ortak genel kültür dersleri ile birlikte büro yönetimi, muhasebe ve ofis uygulamalarına yönelik teorik ve uygulamalı dersler, ayrıca işletmelerde staj uygulaması yer alır. Bu eğitimi almamış kişiler, işbaşında usta yanında veya kısa süreli mesleki kurslarla bordro, puantaj ve sigorta bildirgesi hazırlama konularında bilgi ve beceri kazanabilir.",
+  "belge": "Mesleki ve teknik ortaöğretim kurumundan alınan diploma veya katılınan mesleki eğitim kursu sonunda verilen kurs katılım belgesi/sertifika."
+ },
+ "ek_bilgiler": "Meslek mensuplarının sigorta bildirgesi ve bordro işlemlerinde kullanılan elektronik sistemleri (ör. SGK'nın elektronik bildirge uygulamaları, bordro yazılımları) etkin kullanabilmesi günümüzde önemli bir beceri haline gelmiştir. Mesleki Yeterlilik Kurumu (MYK) belgesi, iş bulma ve istihdamda tercih sebebi olabilir.",
+ "genel_ozellikler": [
+  "Dikkatli ve titiz çalışma alışkanlığına sahip,",
+  "Sayısal işlemlerde ve matematikle ilgili konularda başarılı,",
+  "Gizliliğe özen gösteren ve güvenilir,",
+  "Sorumluluk sahibi,",
+  "Zaman yönetimine önem veren,",
+  "Ayrıntılar üzerinde uzun süre dikkatle çalışabilen,",
+  "İnsan ilişkilerinde uyumlu,",
+  "İlgili mevzuat ve uygulamalardaki değişiklikleri takip etmeye istekli,"
+ ],
+ "gorevler": [
+  "Personelin kaç saat çalıştığını tespit eder.",
+  "Çalışılan saat, vergi miktarı, sigorta primleri ve diğer faktörlere dayanarak ödenecek meblağları hesaplar.",
+  "Fazla çalışma, ikramiye veya parça başı çalışma kazançlarını hesaplar.",
+  "Hesaplamalara göre ödenecek meblağları, işçilerin isimleri, ücretleri ve diğer bilgilerle birlikte bordro defterine işler.",
+  "Gerektiğinde yapılan hesaplamaları ve diğer dokümanları bilgi işlem merkezine gönderir.",
+  "Ödeme çeklerini düzenler.",
+  "Sigorta bildirgelerini hazırlar.",
+  "Maaş zarflarını hazırlar ve dağıtır, hesap makinelerini kullanır.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleki ve teknik ortaöğretimin ilgili alanından (büro yönetimi, muhasebe ve finansman vb.) mezun olanlar, yükseköğretime giriş sınavlarında başarılı oldukları takdirde işletme, muhasebe, çalışma ekonomisi ve insan kaynakları yönetimi gibi ilgili ön lisans veya lisans programlarına yerleşebilirler. Ayrıca bordro ve sigorta uygulamalarına yönelik açılan kurs ve sertifika programlarıyla bilgi ve becerilerini güncelleyebilirler.",
+  "is_hayatinda": "Deneyim kazandıkça bordro sorumluluğu, personel/özlük işleri şefliği veya insan kaynakları biriminde kıdemli pozisyonlara yükselebilir. Ek eğitim ve sertifikalarla insan kaynakları uzmanlığı veya muhasebe/mali işler alanında ilerleme sağlanabilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Mesleki eğitim kapsamında işletmede staj yapan öğrencilere, 3308 sayılı Mesleki Eğitim Kanunu çerçevesinde belirlenen bir ücret ödenebilir; eğitim gören öğrencilerin iş kazası ve meslek hastalığı sigortası primleri devletçe karşılanır.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında memur statüsünde çalışanlar 657 sayılı Devlet Memurları Kanunu'na, işçi statüsünde çalışanlar ise ilgili toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde ücret, işletmenin büyüklüğü, çalışanın deneyimi ve bulunduğu sektöre göre değişmekle birlikte, mesleğe yeni başlayanlarda genellikle asgari ücret düzeyinde olabilir; deneyim ve sorumluluk arttıkça kazanç da artabilir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T16:14:28",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5274
+  }
+ }
+}

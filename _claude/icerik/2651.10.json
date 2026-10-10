@@ -1,0 +1,72 @@
+{
+ "arac_gerec": [
+  "İp ve teller",
+  "Küçük ampuller / elektrik lambaları",
+  "Elektrik kabloları ve bağlantı malzemeleri",
+  "Geleneksel kandiller (bazı uygulamalarda)",
+  "Desen ve şablon kağıtları",
+  "Çizim ve tasarım gereçleri (kalem, cetvel, pergel)",
+  "Makara ve çekme halatları",
+  "Merdiven, iskele ve yükseğe çıkma ekipmanları",
+  "Emniyet kemeri ve koruyucu donanım",
+  "Minareler arası germe ve bağlama düzenekleri",
+  "Ölçüm aletleri (şerit metre vb.)",
+  "Elektrik test cihazları"
+ ],
+ "genel_ozellikler": [
+  "El becerisine ve ince işçiliğe sahip,",
+  "Yükseklikte çalışmaktan çekinmeyen,",
+  "Tasarım ve estetik anlayışına sahip,",
+  "Dikkatli ve sabırlı,",
+  "Fiziksel olarak dayanıklı,",
+  "Geleneksel sanatlara ve dini/kültürel değerlere ilgili,",
+  "Ekip halinde çalışmaya uyumlu,",
+  "İş güvenliği kurallarına duyarlı,"
+ ],
+ "gorevler": [
+  "Mahya yapılacak kompozisyonu seçer veya tasarlar.",
+  "Kağıt üzerine desen, yazı veya resmi aktarır.",
+  "İplerin ve tellerin üzerine küçük ampuller yerleştirir.",
+  "Yerde yapılan kontrollerden sonra yazıyı iki minare arasına kurar.",
+  "İşçi sağlığı ve iş güvenliği kurallarına uyar, uyulmasını sağlar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "calisma_ortami": "Mahyacı, çalışmalarını büyük ölçüde açık havada, camilerin minareleri arasında ve yükseklikte gerçekleştirir. İşin kurulum aşaması genellikle gece saatlerinde, iskele, merdiven ve halat sistemleri kullanılarak yapılır; bu nedenle yükseklik ve dengeyle ilgili riskler taşır ve iş güvenliği önlemlerine titizlikle uyulması gerekir. Çalışma büyük ölçüde mevsimlik niteliktedir ve yoğunluğu Ramazan ayı ile kandil gecelerinde artar.\n\nMeslek genellikle bir ustanın önderliğinde küçük bir ekip halinde yürütülür; mahyacı, çalışmaları sırasında cami görevlileri, vakıf veya belediye temsilcileri ve diğer ekip üyeleriyle iletişim kurar. Hava koşullarına bağlı olarak soğuk, rüzgârlı veya yağışlı ortamlarda çalışmak gerekebilir.",
+ "egitim": {
+  "verildigi_yerler": "Mahyacılığın örgün bir eğitim programı bulunmamaktadır. Meslek, genellikle İstanbul gibi tarihi cami yoğunluğu bulunan şehirlerde, sınırlı sayıda usta tarafından usta-çırak ilişkisi içinde işbaşında öğretilmektedir. Zaman zaman belediyeler, vakıflar veya kültür kurumlarınca düzenlenen geleneksel sanatlarla ilgili atölye ve kurslarda mahyacılığa ilişkin tanıtım ve temel bilgiler verilebilmektedir.",
+  "giris_kosullari": [
+   "Okuma yazma bilmek ve ilköğretim mezunu olmak",
+   "Yükseklikte ve açık havada çalışmaya uygun sağlık durumuna sahip olmak",
+   "Bir mahya ustasının yanında çırak olarak kabul edilmek",
+   "El becerisine ve tasarım/estetik ilgisine sahip olmak"
+  ],
+  "sure_ve_icerik": "Mesleğin öğrenimi için belirli bir eğitim süresi veya standart bir müfredat bulunmamaktadır. Aday, yıllar süren bir çıraklık sürecinde ustasının yanında çalışarak mahya kompozisyonlarının tasarımını, desenin kağıda aktarılmasını, ip ve teller üzerine ampul dizme tekniklerini, minareler arasında yazı ve resimlerin güvenli biçimde kurulmasını ve iş güvenliği uygulamalarını öğrenir. Deneyim arttıkça çırak, ustanın gözetiminde daha fazla sorumluluk alır ve zamanla kendisi de mahya hazırlayabilecek düzeye gelir.",
+  "belge": "Mesleğin resmî bir diploma veya sertifika programı bulunmamaktadır. Usta-çırak ilişkisiyle kazanılan bilgi ve beceri; ustalar, cami ve vakıf çevreleri tarafından kabul görülmesiyle belgelenir. Katılınan kurs veya atölye çalışmaları için düzenlenen katılım belgeleri olabilir; bu belgeler istihdamda tercih sebebi olabilir ancak mesleği icra etme yetkisi vermez."
+ },
+ "calisma_alanlari": "Mahyacılar büyük ölçüde İstanbul gibi tarihi cami ve minare yoğunluğu bulunan şehirlerde, Diyanet İşleri Başkanlığına bağlı camilerde, bazı vakıfların ve belediyelerin kültür hizmetleri birimlerinde görevlendirilerek çalışır. Çalışma yoğun biçimde Ramazan ayı ve kandil geceleriyle sınırlı olduğundan iş genellikle mevsimlik ve proje bazlıdır; bu nedenle mahyacılar çoğunlukla bu uğraşı başka bir meslekle birlikte sürdürür. Meslekte çalışan usta sayısı çok sınırlı olduğundan iş bulma olanakları da sınırlıdır; yeni mahyacılar genellikle deneyimli bir ustanın ekibinde yer alarak bu alana girer.",
+ "kazanc": {
+  "egitim_suresince": "Çıraklık döneminde düzenli bir ücret güvencesi bulunmamaktadır; çırak genellikle ustasının yanında gönüllü ya da sembolik bir karşılık ile çalışarak mesleği öğrenir.",
+  "egitim_sonrasi": [
+   "Mahyacılık mevsimlik bir faaliyet olduğundan düzenli ve sürekli bir gelir kaynağı değildir; kazanç, üstlenilen işin büyüklüğüne, cami, vakıf veya belediye ile yapılan anlaşmaya ve ustanın deneyimine göre değişir.",
+   "Diyanet İşleri Başkanlığı veya belediyeler bünyesinde kadrolu/sözleşmeli olarak çalışanlar için ücret ilgili kamu mevzuatına (657 sayılı Kanun veya toplu iş sözleşmesi hükümlerine) göre belirlenir; özel anlaşmalarla çalışanlarda ise kazanç karşılıklı pazarlığa ve deneyime bağlı olarak değişir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğin basamaklı veya akademik bir eğitim sistemi bulunmadığından ilerleme, deneyim kazanma ve ustalaşma yoluyla gerçekleşir. Çırak, yıllar içinde ustasının desteğiyle daha karmaşık kompozisyonları hazırlayabilecek bilgi ve beceriye erişir.",
+  "is_hayatinda": "Deneyim kazanan mahyacılar kendi ekiplerini kurarak bağımsız biçimde iş alabilir, daha büyük ve karmaşık mahya kompozisyonlarını üstlenebilir ve yeni çıraklar yetiştirerek ustalık konumuna gelebilir."
+ },
+ "benzer_meslekler": [
+  "Hattat",
+  "Geleneksel Türk Sanatları Sanatçısı",
+  "Kalemkar"
+ ],
+ "ek_bilgiler": "Mahyacılık, günümüzde sayıca çok az ustanın sürdürdüğü, kültürel ve dini değeri yüksek geleneksel bir meslektir. Çalışma yoğunluğu büyük ölçüde Ramazan ayı ve kutlu gecelerle sınırlı olduğundan mevsimlik niteliktedir; bu nedenle mahyacılar genellikle bu uğraşı başka bir meslekle birlikte icra eder. Meslek, usta-çırak ilişkisiyle nesilden nesile aktarılmaktadır ve devamlılığı büyük ölçüde geleneğe duyulan ilgiye bağlıdır.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T07:20:20",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 8254
+  }
+ }
+}

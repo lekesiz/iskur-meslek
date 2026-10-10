@@ -1,0 +1,79 @@
+{
+ "arac_gerec": [
+  "Patlayıcı maddeler (dinamit, amonyum nitrat esaslı patlayıcılar vb.)",
+  "Fitil ve ateşleme kabloları",
+  "Elektrikli/elektriksiz ateşleme tertibatı (detonatör, kapsül)",
+  "Delik delme aletleri (matkap, delgi makinesi)",
+  "Gaz ölçüm cihazı (metan ve diğer parlayıcı gaz dedektörü)",
+  "Bıçak ve kesici aletler",
+  "Sıkıştırma ve doldurma çubukları",
+  "Metre, şerit ve ölçüm aletleri",
+  "İşaret ve uyarı ekipmanları (düdük, bayrak, ikaz lambası)",
+  "Koruyucu baret, gözlük, eldiven, kulaklık ve iş elbisesi",
+  "Patlayıcı madde taşıma kutuları ve depolama kapları",
+  "İletişim cihazları (telsiz vb.)"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve tedbirli,",
+  "Sorumluluk bilincine sahip ve disiplinli,",
+  "El ve göz koordinasyonu iyi,",
+  "Fiziksel olarak sağlıklı ve dayanıklı,",
+  "Ani ve beklenmedik durumlarda hızlı ve doğru karar verebilen,",
+  "İş güvenliği kurallarına titizlikle uyan,",
+  "Takım halinde çalışmaya uyumlu,",
+  "Stresli ve riskli ortamlarda soğukkanlı davranabilen"
+ ],
+ "calisma_ortami": "Ateşçi (Dinamitçi), genellikle maden ocakları, taş ocakları, tünel, yol ve baraj inşaatı gibi açık veya yeraltı çalışma alanlarında görev yapar. Çalışma ortamı tozlu, gürültülü, nemli ve bazen havalandırması sınırlı olabilir; yeraltında çalışıldığında ışık yetersizliği ve dar alanlarda hareket zorunluluğu söz konusudur. Meslek, patlama, göçük, zehirli ya da parlayıcı gaz birikimi gibi önemli riskler taşıdığından iş sağlığı ve güvenliği kurallarına eksiksiz uyulması gerekir.\n\nÇalışma saatleri işin niteliğine ve işletmenin vardiya düzenine göre değişebilir; bazı işlerde gündüz, bazı maden işletmelerinde vardiyalı çalışma söz konusudur. Ateşçi, çalışması sırasında maden/inşaat mühendisleri, ustabaşı, diğer ateşçiler ve saha işçileriyle sıkı iletişim ve koordinasyon içinde bulunur; patlatma öncesi ve sonrası güvenlik önlemlerinin alınmasında ekip çalışması önem taşır.",
+ "gorevler": [
+  "Kullanılacak patlayıcı miktarını hesaplar.",
+  "Açılan deliklere patlayıcı maddeleri yerleştirir.",
+  "Fitil ya da kablolarla bağlantıları yapar.",
+  "Deliği çamur, toprak, kum ve diğer maddelerle doldurur ve sıkıştırır.",
+  "Diğer işçilere korunmaları için işaret verir.",
+  "Fitil uçlarını bıçakla yarar ya da kabloyu ateşleme tertibatına bağlar.",
+  "Dinamiti patlatmak üzere fitili ateşler ya da ateşleme tertibatının koluna basar.",
+  "Yeraltında çalışıyorsa havada parlayıcı gazların bulunup bulunmadığını tespit eder ve örtü altına alınmasını sağlar.",
+  "Gerektiğinde delik delme aletlerini de kullanır.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Ateşçilik (Dinamitçilik) için örgün eğitim veren bağımsız bir okul veya üniversite programı bulunmamaktadır. Meslek genellikle maden ocakları, taş ocakları veya inşaat firmalarında usta ateşçi yanında işbaşında eğitim alınarak öğrenilir. Ayrıca Halk Eğitim Merkezleri, İŞKUR'un açtığı mesleki eğitim kursları ve madencilik sektöründe faaliyet gösteren kurumların düzenlediği patlayıcı madde kullanımı ve iş güvenliği kursları aracılığıyla da bu mesleğe yönelik bilgi ve beceri kazanılabilir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "18 yaşını doldurmuş olmak",
+   "Genel sağlık durumunun (işitme, görme, fiziksel dayanıklılık) bu işe uygun olduğunu belgelemek",
+   "Patlayıcı madde ile çalışmaya engel bir sağlık sorununun bulunmaması",
+   "İlgili mevzuatta istenen diğer şartları (adli sicil kaydı vb.) taşımak"
+  ],
+  "sure_ve_icerik": "Eğitim süresi ve içeriği, çalışılan işletmeye ve katılınan kursa göre değişmektedir. İşbaşında eğitimde; patlayıcı madde çeşitleri ve özellikleri, delik açma teknikleri, fitil ve ateşleme tertibatlarının kullanımı, güvenli mesafe ve sıkıştırma yöntemleri, gaz ölçümü ve iş güvenliği kuralları gibi konular usta ateşçi gözetiminde uygulamalı olarak öğretilir. Kurumsal kurslarda ise bu konular teorik ve uygulamalı derslerle desteklenir.",
+  "belge": "Eğitimi tamamlayanlara, eğitimi veren kurum tarafından kurs katılım/başarı belgesi verilir. Patlayıcı madde ile çalışabilmek için ayrıca, ilgili kamu kurumları (örneğin maden işletmelerinde yetkili kurumlar) tarafından düzenlenen ateşleme/patlatma yetki belgesi veya izin alınması gerekebilir. Mesleki Yeterlilik Kurumu (MYK) tarafından düzenlenen ulusal yeterlilik belgesi de istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Ateşçi (Dinamitçi), hem kamu hem de özel sektörde istihdam edilebilir. Kamu sektöründe kömür ve maden işletmecisi kuruluşlar; özel sektörde ise metal maden ve taş ocağı işletmeleri, inşaat firmaları (yol, tünel, baraj yapımı), altyapı ve hafriyat şirketleri başlıca çalışma alanlarıdır. Madencilik ve büyük ölçekli altyapı yatırımlarının sürdüğü bölgelerde iş bulma olanağı daha fazladır.",
+ "kazanc": {
+  "egitim_suresince": "İşbaşında usta yanında eğitim alınırken genellikle asgari ücret düzeyinde veya işletmenin belirlediği çırak/stajyer ücreti ödenir. İŞKUR kurslarına katılanlara kurs süresince kursiyer harcırahı verilebilir.",
+  "egitim_sonrasi": [
+   "Kamu kuruluşlarında işçi statüsünde çalışanların ücretleri toplu iş sözleşmesi hükümlerine göre belirlenir.",
+   "Özel sektörde ücret; işletmenin büyüklüğüne, çalışılan bölgeye, deneyime ve işin risk düzeyine göre değişmekte olup karşılıklı anlaşma ile belirlenir.",
+   "Deneyim ve sorumluluk arttıkça kazanç düzeyi de genellikle yükselir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğe yeni başlayanlar önce basit patlatma işlemlerinde usta ateşçi gözetiminde çalışır; deneyim kazandıkça daha karmaşık ve sorumluluk gerektiren patlatma işlerini bağımsız şekilde yürütebilir hale gelir.",
+  "is_hayatinda": "Deneyim ve performansa bağlı olarak usta ateşçilikten ekip şefliğine, patlatma sorumluluğuna veya saha şefliğine yükselinebilir. İlgili ek eğitim ve sertifikalarla iş güvenliği uzmanlığı gibi tamamlayıcı alanlara yönelme de mümkündür."
+ },
+ "benzer_meslekler": [
+  "Cephane Islahatçısı",
+  "Patlayıcı Madde İmha Uzmanı",
+  "Havai Fişek Ateşleyicisi",
+  "Patlayıcı Madde Fişek Dolum Makinesi Operatörü"
+ ],
+ "ek_bilgiler": "Patlayıcı madde ile çalışma yüksek risk taşıdığından bu meslek, iş sağlığı ve güvenliği mevzuatı kapsamında tehlikeli/çok tehlikeli işler arasında değerlendirilebilir; bu nedenle periyodik sağlık kontrolleri ve iş güvenliği eğitimleri önem taşır. Patlayıcı madde temini, taşınması ve kullanımı yasal izin ve denetime tabidir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T09:43:01",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6055
+  }
+ }
+}

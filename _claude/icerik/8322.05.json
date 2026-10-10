@@ -1,0 +1,82 @@
+{
+ "arac_gerec": [
+  "Servis aracı (minibüs, midibüs veya otobüs)",
+  "Emniyet kemeri ve çocuk koltuğu sistemleri",
+  "İlk yardım çantası",
+  "Yangın söndürme tüpü",
+  "Dörtlü ikaz/flaşör sistemi",
+  "Araç bakım ve kontrol aletleri (yağ, su, lastik ölçümü için)",
+  "Lastik basınç ölçer",
+  "Araç ruhsatı, sigorta ve sürücü belgesi",
+  "Telsiz veya cep telefonu",
+  "Araç kapı ve pencere güvenlik kilitleri",
+  "Araç içi güvenlik kamerası (varsa)",
+  "Araç temizlik ve bakım malzemeleri",
+  "Yakıt ikmal ekipmanları"
+ ],
+ "genel_ozellikler": [
+  "Sorumluluk sahibi,",
+  "Dikkatli ve tedbirli,",
+  "Sabırlı, çocuklarla sağlıklı iletişim kurabilen,",
+  "Bedensel ve ruhsal olarak sağlıklı,",
+  "Trafik kurallarına eksiksiz uyan,",
+  "Göz-el-ayak koordinasyonu iyi,",
+  "Zamanını doğru planlayabilen,",
+  "Soğukkanlı ve stres yönetimi iyi olan"
+ ],
+ "calisma_ortami": "Servis şoförleri çalışma sürelerinin büyük bölümünü araç içinde, trafik ortamında geçirirler. Çalışma, genellikle sabah ve öğleden sonra olmak üzere günün belirli saatlerinde yoğunlaşır ve okul/kurum çalışma takvimine bağlı olarak süreklilik gösterir; hava koşulları, yoğun trafik ve zaman baskısı önemli stres kaynaklarıdır. Çocukların güvenliğinden sorumlu olmaları nedeniyle sürekli yüksek dikkat gerektiren bir meslektir ve trafik kazası riski taşır.\n\nMeslek elemanları çalışmaları sırasında öğrenciler, veliler, okul idaresi, servis hostesi/rehberi ve gerektiğinde trafik görevlileri ile iletişim kurar. Çalışma saatleri genellikle gün içinde bölünmüş (sabah-akşam) şekildedir ve kısmi zamanlı istihdam da yaygındır.",
+ "gorevler": [
+  "Her sabah servis işleminin yapıldığı aracın lastiklerini, yağını, suyunu vb. kontrol eder.",
+  "Aracın altı ayda bir bakım ve onarımlarını yaptırır.",
+  "Hava durumuna göre aracın içinin ısınmasını veya soğumasını sağlar.",
+  "Okul servis rehberini aldıktan sonra yola çıkar.",
+  "Her öğrenciyi daha önce belirlenen noktalardan veya durmaya uygun bir yerden, evinin önünde ise okul servis hostesi aracılığıyla teslim alır.",
+  "Öğrenciyi ailesinden teslim almadan önce servis aracını dikkatli bir şekilde duracağı yere yaklaştırır, gerekli ikaz lambalarını yakar.",
+  "Okulda servisler için ayrılmış özel bir alan varsa buraya, yoksa kapı önüne en yakın noktaya dikkatli bir şekilde yanaşır.",
+  "Tüm öğrencilerin servisten inip okul kapısından içeri girmelerini bekler.",
+  "Öğrenciler ve servis rehberinden başka kimseyi servise almaz.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Bu meslek için örgün bir mesleki eğitim programı bulunmamaktadır. Meslek, gerekli sürücü belgesine sahip kişiler tarafından genellikle işbaşında deneyim yoluyla edinilir. Çalışılacak il/ilçe Milli Eğitim Müdürlüğü tarafından okul servis araçları ve şoförlerine yönelik düzenlenen bilgilendirme ve hizmet içi eğitim seminerlerine katılım gereklidir.",
+  "giris_kosullari": [
+   "En az ilkokul mezunu olmak",
+   "Kullanılacak araç türüne uygun sürücü belgesine (B, D veya E sınıfı) sahip olmak",
+   "Araç tonajına göre gerekiyorsa SRC belgesine sahip olmak",
+   "Psikoteknik değerlendirmeden ve sağlık muayenesinden geçmiş olmak",
+   "Çocuklarla çalışmaya uygunluk açısından adli sicil kaydının temiz olması"
+  ],
+  "sure_ve_icerik": "Mesleğe yönelik belirli bir süre ve müfredatı olan resmi bir okul eğitimi yoktur. Adaylar önce sürücü kurslarında ehliyet eğitimini tamamlar, ardından okul servis taşımacılığına ilişkin düzenlemeler kapsamında açılan bilgilendirme/hizmet içi eğitim seminerlerine katılır. Bu seminerlerde genellikle trafik güvenliği, çocuk güvenliği, ilk yardım ve iletişim konuları işlenir.",
+  "belge": "Seminer sonunda katılım belgesi ve ilgili il Milli Eğitim Müdürlüğü onaylı \"Okul Servis Şoförü Tanıtım Kartı\" verilir."
+ },
+ "calisma_alanlari": "Servis şoförleri; özel okullar, anaokulu ve kreşler, dershaneler, özel eğitim kurumları, öğrenci taşımacılığı yapan servis firmaları ve kooperatiflerde istihdam edilebilirler. Kendi aracıyla esnaf olarak çalışabilecekleri gibi bir taşımacılık firmasına bağlı ücretli şoför olarak da çalışabilirler. Şehirlerin yaygınlaşması, okulların geniş alanlardan öğrenci kabul etmesi ve velilerin güvenli ulaşım talebi nedeniyle öğrenci servis taşımacılığına olan ihtiyaç sürmektedir.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğe yönelik örgün ve ücretli bir eğitim süreci bulunmadığından, eğitim/seminer süresince düzenli bir kazanç söz konusu değildir.",
+  "egitim_sonrasi": [
+   "Bir firma veya kooperatife bağlı çalışanlar, işletmenin ücret politikasına göre genellikle asgari ücret düzeyinde veya buna yakın bir gelir elde ederler.",
+   "Kendi aracıyla esnaf olarak çalışanların kazancı, taşıdıkları öğrenci sayısına ve velilerle yapılan anlaşmaya göre değişmektedir.",
+   "Deneyim, araç sahipliği ve taşınan öğrenci sayısı arttıkça kazanç da artabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Meslekte dikey bir eğitim basamağı bulunmamaktadır. Sürücüler isteğe bağlı olarak SRC, ilk yardım ve psikoteknik belgelerini güncelleyerek mesleki bilgi ve belgelerini güçlendirebilirler.",
+  "is_hayatinda": "Deneyim kazanan servis şoförleri kendi araçlarını edinerek esnaf olarak çalışabilir, zamanla birden fazla araçtan oluşan küçük ölçekli bir servis/taşımacılık işletmesi kurabilir veya filo sorumluluğu üstlenebilirler."
+ },
+ "benzer_meslekler": [
+  "Kamyonet Şoförü",
+  "Taksi Şoförü",
+  "Minibüs Şoförü",
+  "Vasıta Sürücüsü",
+  "Servis Aracı Şoförü",
+  "Diğer Motorlu Araç Sürücüleri"
+ ],
+ "ek_bilgiler": "Okul servis şoförlüğü, Milli Eğitim Bakanlığı'nın okul servis araçlarına ilişkin düzenlemeleri kapsamında yürütülür; bu düzenlemeler gereği adaylardan ilgili sürücü belgesi, psikoteknik raporu ve temiz adli sicil kaydı istenmektedir. Çocukların güvenliğinin korunması, mesleğin en önemli sorumluluk alanıdır.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T18:17:02",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5859
+  }
+ }
+}

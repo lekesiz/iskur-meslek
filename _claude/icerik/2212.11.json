@@ -1,0 +1,87 @@
+{
+ "gorevler": [
+  "Ameliyat öncesinde hastanın anestezi yönünden değerlendirilmesini, konsültasyonunu ve hazırlanmasını sağlar.",
+  "Hastaya, hastanın yakınına veya hasta hakkında karar verecek kişilere anestezi seçenekleri, riskleri ve olası komplikasyonları hakkında bilgi verir.",
+  "Ameliyat öncesinde hastaya uygun anesteziyi verir ve güvenli bir şekilde uyutulmasını sağlar.",
+  "Uygulanacak cerrahi girişim için hastaya uygun pozisyon verilmesine yardımcı olur.",
+  "Anestezi uygulanan hastalarda hava ve damar yolunun açıklığını ve devamlılığını sağlar.",
+  "Ameliyat süresince hastanın hayati fonksiyonlarını izler.",
+  "Cerrahi işlemler sırasında ağrının giderilmesini ve hayati fonksiyonların devam ettirilmesini sağlar, takibini yapar.",
+  "Ameliyatta gereken sıvı ve kan ihtiyacını damar yolundan karşılar, ısı kaybına engel olur.",
+  "Her türlü anestezi uygulamasında, anestezinin başlangıcından sonuna kadar hastanın fizyolojik parametrelerinin ölçümünü yapar, gerekli kayıtları tutar.",
+  "Ameliyat bitiminde anesteziyi sonlandırır ve hastanın yoğun bakım odasına transfer edilmesini sağlar.",
+  "Uyandırılan ve servise çıkarılan hastaları kardiyovasküler, solunum, bilinç durumu ve anesteziye bağlı muhtemel komplikasyonlar yönünden değerlendirir.",
+  "Hastaların kalp ve solunum fonksiyonlarını değerlendirerek tüm solunum tedavisi yöntemlerini uygular.",
+  "Gerektiğinde kalp ve solunum durmalarına müdahale ederek solunum tüpü takar.",
+  "Durumu kritik, bitkisel hayatta veya yaralı durumda olan hastaların yoğun bakım ünitesinde takip ve tedavilerini yapar.",
+  "Ağrı kliniklerinde altı aydan daha fazla süren kronik ağrıların teşhis ve tedavisini yapar.",
+  "Gerektiğinde ilgili hekimlerle konsültasyonda bulunur.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "arac_gerec": [
+  "Anestezi cihazı",
+  "Hasta başı monitör (EKG, nabız oksimetre, kapnograf, invaziv/noninvaziv tansiyon ölçer)",
+  "Laringoskop ve entübasyon tüpleri",
+  "Mekanik ventilatör",
+  "Defibrilatör",
+  "Damar içi kateterler ve infüzyon pompaları",
+  "Anestezi ilaçları ve ilaç kasetleri",
+  "Aspiratör",
+  "Kan gazı analiz cihazı",
+  "Isı koruma cihazları (ısıtıcı battaniye, sıvı ısıtıcısı)",
+  "Resüsitasyon (canlandırma) seti",
+  "Yoğun bakım izlem ve yaşam destek cihazları",
+  "Steteskop",
+  "Epidural/spinal anestezi iğneleri ve setleri"
+ ],
+ "genel_ozellikler": [
+  "Üstün sorumluluk duygusuna sahip,",
+  "Stresli ve acil durumlarda soğukkanlı kalıp hızlı karar verebilen,",
+  "El ve göz koordinasyonu iyi, dikkatli,",
+  "Fen bilimlerine (biyoloji, kimya, fizyoloji) ilgili ve bu alanlarda başarılı,",
+  "Takım çalışmasına uyumlu, iletişim becerisi gelişmiş,",
+  "Fiziksel ve psikolojik olarak dayanıklı, yoğun tempoda çalışabilen,",
+  "Analitik düşünebilen, meslek yaşamı boyunca tıptaki gelişmeleri takip etme sorumluluğu üstlenebilen"
+ ],
+ "calisma_ortami": "Anesteziyoloji ve Reanimasyon Uzmanı, hastanelerin ameliyathane, yoğun bakım üniteleri ve ağrı kliniklerinde, bazı durumlarda acil servislerde görev yapar. Ameliyathane ve yoğun bakım ortamı sterildir; sürekli dikkat, odaklanma ve hızlı tepki gerektirir. Çalışma sırasında enfeksiyon riskine, bazı görüntüleme eşliğinde yapılan girişimlerde radyasyona karşı koruyucu önlemler alınır. Meslek, nöbet sistemiyle yürütülür; gece ve hafta sonu nöbetleri, acil çağrılara anında yanıt verme zorunluluğu bulunduğundan çalışma saatleri düzensizdir.\n\nCerrahlar, hemşireler, anestezi teknisyenleri, diğer uzman hekimler ve hasta ile hasta yakınlarıyla sürekli iletişim ve iş birliği içinde ekip halinde çalışılır. Görev, yüksek sorumluluk ve stres içerir; hastanın yaşamsal fonksiyonlarına anlık müdahale gerekliliği fiziksel ve zihinsel olarak yoğun bir tempo oluşturur.",
+ "egitim": {
+  "verildigi_yerler": "Üniversitelerin tıp fakültelerinde verilen lisans eğitimi sonrasında, Tıpta Uzmanlık Sınavı (TUS) ile girilen anesteziyoloji ve reanimasyon uzmanlık eğitimi; üniversite hastaneleri ile Sağlık Bakanlığına bağlı eğitim ve araştırma hastanelerinde verilir.",
+  "giris_kosullari": [
+   "Lise veya dengi okul mezunu olmak,",
+   "YKS (Yükseköğretim Kurumları Sınavı) kılavuzunda belirtilen giriş koşullarını taşıyarak bir tıp fakültesini kazanmak,",
+   "Tıp fakültesi eğitimini tamamladıktan sonra Tıpta Uzmanlık Sınavı (TUS)'nda başarılı olup anesteziyoloji ve reanimasyon uzmanlık dalını tercih etmek."
+  ],
+  "sure_ve_icerik": "Tıp fakültesi eğitimi teorik ve uygulamalı olarak 6 yıl sürer. İlk yıllarda fen bilimleri ve tıbbın temel bilimleri (anatomi, fizyoloji, biyokimya vb.), sonraki yıllarda hastalıklar ve tedavi yöntemlerine ilişkin dersler ve klinik stajlar okutulur; son sınıfta öğrenciler (intern) hastanede hekim gibi çalışarak iş başında eğitim alır. Tıp fakültesi sonrasında TUS ile girilen anesteziyoloji ve reanimasyon uzmanlık eğitimi genellikle 4-5 yıl sürer; bu süreçte ameliyathane, yoğun bakım ve ağrı kliniği rotasyonlarında uygulamalı olarak anestezi yöntemleri, hayati fonksiyonların izlenmesi ve yoğun bakım tedavileri öğrenilir.",
+  "belge": "Tıp fakültesini tamamlayanlara tıp doktoru lisans diploması, uzmanlık eğitimini başarı ile tamamlayanlara ise anesteziyoloji ve reanimasyon uzmanlık belgesi (uzmanlık diploması) verilir."
+ },
+ "calisma_alanlari": "Anesteziyoloji ve Reanimasyon Uzmanları; kamu ve özel hastanelerin ameliyathane, yoğun bakım üniteleri ve ağrı kliniklerinde, eğitim ve araştırma hastanelerinde, üniversite hastanelerinde, özel tıp merkezlerinde ve bazı özel sağlık kuruluşlarının ayakta tedavi (günübirlik cerrahi) ünitelerinde çalışabilirler. Ülkemizde ameliyathane ve yoğun bakım hizmetlerinin vazgeçilmez unsuru olan anesteziyoloji ve reanimasyon uzmanlarına yönelik ihtiyaç sürmektedir; bu alanda hekimlerin iş bulma olanağı genel olarak elverişlidir.",
+ "kazanc": {
+  "egitim_suresince": "Tıp fakültesi öğrencileri, Kredi ve Yurtlar Genel Müdürlüğünün öğrenim kredisi ve yurt hizmetlerinden, ayrıca çeşitli resmi ve özel kurum/kuruluşların burslarından yararlanabilir. Uzmanlık eğitimi (asistanlık) döneminde ise araştırma görevlisi/asistan hekim olarak kadroya bağlı ücret alınır.",
+  "egitim_sonrasi": [
+   "Kamu hastanelerinde 657 sayılı Devlet Memurları Kanunu'na tabi olarak çalışanların maaş, ek ödeme ve döner sermaye payları ilgili mevzuata göre belirlenir.",
+   "Özel hastane ve tıp merkezlerinde kazanç; deneyim, unvan, çalışılan kurumun büyüklüğü ve karşılıklı anlaşmaya göre değişkenlik gösterir.",
+   "Kendi muayenehanesini veya özel ağrı kliniğini işleten uzman hekimlerin kazancı, hasta sayısı ve işletme giderlerine göre farklılaşır."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Tıp fakültesi eğitimi sonrasında Tıpta Uzmanlık Sınavı (TUS) ile anesteziyoloji ve reanimasyon alanında uzmanlık eğitimi alınır. Uzmanlık sonrasında yoğun bakım, algoloji (ağrı tedavisi) gibi ilgi alanlarında ileri düzey eğitim ve sertifika programlarına katılınabilir; akademik kariyerde doçentlik ve profesörlük unvanlarına ilerlenebilir.",
+  "is_hayatinda": "Deneyim kazanıldıkça ameliyathane ve yoğun bakım sorumlu hekimliği, klinik şefliği, başhekim yardımcılığı veya başhekimlik gibi idari görevlere; üniversitelerde akademik kadrolara ya da kendi muayenehanesini veya özel ağrı kliniğini açarak serbest çalışmaya ilerlenebilir."
+ },
+ "benzer_meslekler": [
+  "Yoğun Bakım Uzmanı",
+  "Acil Tıp Uzmanı",
+  "Genel Cerrahi Uzmanı",
+  "Kalp ve Damar Cerrahisi Uzmanı",
+  "Beyin ve Sinir Cerrahisi Uzmanı",
+  "Göğüs Cerrahisi Uzmanı"
+ ],
+ "ek_bilgiler": "Anesteziyoloji ve reanimasyon, tıpta uzmanlık mevzuatı kapsamında belirlenen bir uzmanlık dalıdır; bu alanda yoğun bakım ve algoloji (ağrı tedavisi) gibi konularda ileri düzey eğitim ve sertifika programları bulunmaktadır. Mesleğin icrası tıpta uzmanlık diploması ve ilgili mevzuata göre düzenlenir; Mesleki Yeterlilik Kurumu (MYK) belgesi bu meslek için söz konusu değildir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-07T22:18:18",
+  "usage": {
+   "input_tokens": 4,
+   "output_tokens": 12520
+  }
+ }
+}

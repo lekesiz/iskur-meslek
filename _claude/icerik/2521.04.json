@@ -1,0 +1,72 @@
+{
+ "arac_gerec": [
+  "Bilgisayar ve sunucu sistemleri",
+  "Veri tabanı yönetim sistemi (DBMS) yazılımları",
+  "Veri modelleme ve tasarım araçları",
+  "SQL sorgu ve geliştirme araçları",
+  "Yedekleme ve geri kurtarma yazılımları",
+  "Performans izleme ve optimizasyon araçları",
+  "Diyagram ve şema çizim araçları (ER diyagramları için)",
+  "Versiyon kontrol sistemleri",
+  "Bilgisayar ağı ve sunucu altyapısı",
+  "Bulut tabanlı veri tabanı hizmet platformları",
+  "Dokümantasyon ve proje yönetimi yazılımları"
+ ],
+ "benzer_meslekler": [
+  "Veri Tabanı Yöneticisi",
+  "Veri Tabanı Analisti",
+  "Ağ Veri Tabanı Yöneticisi",
+  "Veri ve Bilgi Mühendisi",
+  "Büyük Veri Uzmanı/Danışmanı",
+  "İş Zekası Uzmanı"
+ ],
+ "calisma_alanlari": "Veri Tabanı Mimarları; kamu kurumlarının bilgi işlem/bilgi teknolojileri birimlerinde, özel sektörde bilişim ve yazılım şirketlerinde, bankacılık ve finans kuruluşlarında, e-ticaret şirketlerinde, telekomünikasyon, sigorta, sağlık, lojistik ve enerji sektörlerinde, kamu veya özel kuruluşlara danışmanlık veren bilgi teknolojileri firmalarında çalışabilirler. Büyük ölçekli kurumsal bilgi sistemlerine ve veri altyapısına ihtiyaç duyan her sektörde istihdam olanağı bulunmaktadır. Serbest çalışan danışman olarak da hizmet verebilirler.",
+ "calisma_ortami": "Veri Tabanı Mimarları, genellikle büro ortamında bilgisayar başında oturarak çalışırlar. Çalışmaları büyük ölçüde ekran başında, teknik dokümantasyon üzerinde ve yazılım araçlarıyla yürütülür. İşin niteliğine göre, zaman zaman esnek çalışma saatleri veya uzaktan çalışma imkânından yararlanabilirler; ancak veri tabanı bakımı, yedekleme ve sistem güncellemeleri gibi kritik işlemler nedeniyle, mesai saatleri dışında veya hafta sonları da çalışmaları gerekebilir.\n\nGörevlerini yerine getirirken yazılım geliştiriciler, sistem yöneticileri, ağ uzmanları, iş analistleri ve ilgili iş birimi çalışanlarıyla sürekli iletişim ve iş birliği içinde bulunurlar. Uzun süre ekran karşısında oturarak çalışmanın getirdiği göz ve bel yorgunluğu gibi ergonomik riskler söz konusu olabilir; işin veri güvenliği ve gizliliğiyle ilgili olması nedeniyle yüksek dikkat ve sorumluluk gerektirir.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi, üniversitelerin bilgisayar mühendisliği, yazılım mühendisliği, bilgisayar bilimleri, bilişim sistemleri mühendisliği, elektrik-elektronik mühendisliği gibi ilgili lisans programlarında verilmektedir. Lisans eğitiminin yanı sıra, bilgi teknolojileri, veri bilimi veya bilgisayar mühendisliği alanlarında yüksek lisans programları da bulunmaktadır. Ayrıca üniversiteler, teknoloji şirketleri ve çeşitli eğitim kuruluşları tarafından veri tabanı tasarımı ve yönetimi konusunda sertifika programları düzenlenmektedir.",
+  "giris_kosullari": [
+   "Lise ve dengi okul mezunu olmak,",
+   "YKS (Yükseköğretim Kurumları Sınavı) kapsamında TYT ve AYT puan türlerinden yeterli puanı alarak ilgili lisans programına yerleşmek,",
+   "Yüksek lisans programlarına girmek isteyenlerin ilgili bir lisans diplomasına ve gerekli ALES/yabancı dil puanına sahip olmaları gerekmektedir."
+  ],
+  "sure_ve_icerik": "Lisans eğitimi normal şartlarda dört yıl sürmektedir. Eğitim süresince; programlama dilleri, algoritmalar ve veri yapıları, veri tabanı yönetim sistemleri, ilişkisel ve ilişkisel olmayan veri modelleme teknikleri, SQL ve sorgu optimizasyonu, ağ ve sistem yönetimi, yazılım mühendisliği ilkeleri, veri güvenliği ve yedekleme stratejileri gibi konularda teorik ve uygulamalı dersler alınır. Mesleğe yönelik derinleşme genellikle lisans sonrası iş deneyimi, yüksek lisans çalışmaları ve sektörel sertifika programlarıyla sağlanır.",
+  "belge": "Eğitim sonunda lisans diploması verilmektedir. Ayrıca, çeşitli veri tabanı yönetim sistemi üreticilerinin (örneğin Oracle, Microsoft gibi) düzenlediği sertifika programlarından başarı belgesi alınabilmektedir."
+ },
+ "ek_bilgiler": "Kurumların veri hacminin ve bulut tabanlı veri altyapısı kullanımının artmasıyla birlikte, veri tabanı tasarımı ve mimarisi konusunda uzmanlaşmış kişilere olan talebin öneminin arttığı değerlendirilmektedir. Mesleki Yeterlilik Kurumu (MYK) belgesi veya çeşitli uluslararası veri tabanı sertifikaları, istihdamda tercih sebebi olabilmektedir.",
+ "genel_ozellikler": [
+  "Sayısal ve analitik düşünme yeteneği gelişmiş,",
+  "Dikkatli, titiz ve sistematik çalışan,",
+  "Soyut düşünme ve problem çözme becerisine sahip,",
+  "Yeni teknolojileri öğrenmeye ve kendini geliştirmeye istekli,",
+  "Ekip çalışmasına uygun,",
+  "Sorumluluk sahibi ve veri gizliliğine önem veren,",
+  "İletişim yeteneği güçlü,"
+ ],
+ "gorevler": [
+  "Mantıksal veri tabanı modelini oluşturur.",
+  "Mantıksal veri tabanı modelinin fiziksel veri modeline dönüşümünü sağlar.",
+  "Etkin veri tabanları oluşturmak için verilerin belirli fiziksel karakteristiklerini belirler, indeksleri oluşturur ve veri tabanı nesnelerini uygun fiziksel depolama aygıtlarında saklar.",
+  "Verimli SQL kullanımını ve uygun veri tabanı tasarımını sağlamak için gereksinim duyulan veri girişlerini ve değişikliklerini analiz eder.",
+  "Yeni veri tabanları için yedekleme ve geri kurtarma stratejilerini belirler.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "İlgili alanda yüksek lisans ve doktora yaparak akademik kariyer edinebilir, üniversitelerde araştırma görevlisi, öğretim üyesi gibi unvanlara yükselebilirler. Ayrıca çeşitli veri tabanı teknolojilerine yönelik sertifika programlarıyla uzmanlık alanlarını geliştirebilirler.",
+  "is_hayatinda": "Deneyim kazandıkça kıdemli veri tabanı mimarı, veri tabanı yöneticisi, bilgi teknolojileri proje yöneticisi veya bilgi teknolojileri müdürü/direktörü gibi görevlere yükselebilirler."
+ },
+ "kazanc": {
+  "egitim_suresince": "Lisans eğitimi süresince öğrenciler, Kredi ve Yurtlar Genel Müdürlüğünün sağladığı öğrenim kredisi ve yurt hizmetlerinden yararlanabilirler. Bazı üniversite öğrencileri, yarı zamanlı çalışma veya staj yoluyla ek gelir elde edebilirler.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında istihdam edilenler, 657 sayılı Devlet Memurları Kanunu'na tabi olarak çalışmakta ve buna göre maaş almaktadır.",
+   "Özel sektörde çalışanların kazancı, işyerinin büyüklüğü, kişinin deneyimi, bilgi ve beceri düzeyi ile sektörün ücret politikalarına göre değişmekle birlikte, yeni başlayanlar genellikle asgari ücret düzeyinin üzerinde bir ücretle işe başlamaktadır. Deneyim arttıkça kazanç düzeyi de yükselmektedir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T06:05:39",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5507
+  }
+ }
+}

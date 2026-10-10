@@ -1,0 +1,82 @@
+{
+ "arac_gerec": [
+  "CNC plazma kesim tezgahı/makinesi",
+  "Plazma torcu, nozul, elektrot ve koruma zırhı",
+  "Kompresör ve kesim gazı tüpleri (hava, oksijen, azot vb.)",
+  "CNC kontrol paneli/bilgisayar",
+  "İmalat resmi ve teknik çizimler",
+  "Markalama/çizim aletleri (mastar, şablon)",
+  "Ölçü aletleri (metre, çap kumpası, kumpas)",
+  "Malzeme taşıma ekipmanı (vinç, forklift, transpalet)",
+  "Kişisel koruyucu donanım (kaynak maskesi/gözlüğü, eldiven, önlük, iş ayakkabısı)",
+  "El aletleri (anahtar, tornavida vb.)"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve sabırlı,",
+  "El ve göz koordinasyonu gelişmiş,",
+  "Teknik resim okuyabilen ve ölçülü düşünebilen,",
+  "Sorumluluk sahibi ve titiz,",
+  "Makine ve elektronik kontrol sistemleriyle çalışmaktan hoşlanan,",
+  "Fiziksel olarak dayanıklı,",
+  "Hesap yapabilen ve problem çözme becerisine sahip,",
+  "Takım halinde çalışmaya uyumlu"
+ ],
+ "calisma_ortami": "CNC Plazma Kesim Operatörü, genellikle fabrika veya atölye ortamında, kapalı mekanda ve ayakta çalışır. Çalışma sırasında yüksek ısı, parlak ışık (ark), metal tozu, gaz kokusu ve gürültü gibi unsurlarla karşılaşılabileceğinden kişisel koruyucu donanım kullanımı önemlidir. İş yoğunluğuna göre vardiyalı çalışma söz konusu olabilir.\n\nÇalışma sırasında imalat resimlerine uygun kesim yapabilmek için mühendis, teknik ressam, usta ve kalite kontrol personeli ile iletişim kurar; malzeme taşıma ve yerleştirme işlemlerinde diğer çalışanlarla iş birliği yapar.",
+ "gorevler": [
+  "Kesilecek malzemeyi tezgaha yerleştirir.",
+  "Kesime uygunluğu için malzemenin kalınlığını, kaplama kalınlığını, yüzey pürüzlülüğünü ve dalgalılığını kontrol eder.",
+  "İmalata uygun olarak markalama yapılacak yüzeyi hazırlar.",
+  "İş parçasını imalat resmine uygun olarak markalar.",
+  "Plazma kesim makinesi için gerekli parametrelerin seçimini yapar.",
+  "Plazma kesme tezgahında seçtiği parametreye uygun nozulun, koruma zırhının ve elektrodun torca takılmasını sağlar.",
+  "Plazma kesme tezgahında malzemenin kalınlığına göre ilgili tablodan akım değerini, torç yüksekliğini ve kesim gaz basıncını seçer.",
+  "Kesilecek malzemenin referans konumunu ayarlar.",
+  "Kesilecek malzemenin ebatlarını girer.",
+  "Plazma kesme tezgahında kesim işlemini yapar.",
+  "Kesilen ilk parçanın imalat resmindeki ölçülere uygunluğunu kontrol eder.",
+  "Ölçüm sonuçlarına göre makinenin ayarlarını yapar.",
+  "Kesim süresince kesimi gözlemleyerek problem oluştuğunda müdahale eder.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi; mesleki ve teknik eğitim kurumlarının Makine/Metal Teknolojisi alanı ile ilgili dallarında, mesleki eğitim merkezlerinde çıraklık eğitimi yoluyla ve işyerlerinde işbaşında usta yanında verilmektedir. Ayrıca Halk Eğitim Merkezleri ile İŞKUR'un açtığı mesleki eğitim kursları da bu alanda temel düzeyde beceri kazandırmaktadır.",
+  "giris_kosullari": [
+   "Mesleki eğitim merkezi/çıraklık eğitimine başlamak için en az ortaokul mezunu olmak",
+   "Meslek lisesinin ilgili alanına kayıt için ortaokul mezunu olup merkezi yerleştirme ile ilgili alana yerleşmek",
+   "Sağlık durumunun ayakta, yüksek ısı ve gürültülü ortamda çalışmaya uygun olması",
+   "İŞKUR veya Halk Eğitim Merkezi kurslarına katılım için kursun belirlediği yaş ve öğrenim şartlarını taşımak"
+  ],
+  "sure_ve_icerik": "Mesleki ve teknik eğitimde süre, okul türüne ve dala göre değişmekte olup teorik derslerin yanında atölye ortamında uygulamalı eğitim verilmektedir. Eğitim içeriğinde teknik resim okuma, malzeme bilgisi, ölçme-kontrol, CNC tezgah kullanımı, plazma kesim parametrelerinin ayarlanması ve iş sağlığı-güvenliği konuları yer alır. Çıraklık eğitiminde genellikle haftanın bir günü mesleki eğitim merkezinde teorik ders, kalan günlerde işyerinde usta öğretici gözetiminde uygulamalı eğitim yürütülür. Kısa süreli kurslarla da mesleğe giriş düzeyinde beceri kazanılabilir; mesleğin ileri düzeyi genellikle işyerinde deneyimle gelişir.",
+  "belge": "Mesleki ve teknik eğitim kurumlarından diploma, mesleki eğitim merkezinden kalfalık/ustalık belgesi veya kurs sonunda katılım/başarı belgesi alınabilir. Mesleki Yeterlilik Kurumu (MYK) Mesleki Yeterlilik Belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "CNC Plazma Kesim Operatörleri; metal işleme, makine imalatı, metal konstrüksiyon, tarım makineleri, otomotiv yan sanayi, beyaz eşya, gemi inşa ve metal tabela/dekorasyon gibi sac ve metal levha kesimi gerektiren özel sektör işletmelerinde çalışabilirler. Sanayinin yoğun olduğu bölgelerde iş bulma olanakları daha fazladır. Kamuda bu meslekte istihdam sınırlı olup, bulunması halinde ilgili kamu kurumlarının atölye/teknik birimlerinde 657 sayılı Devlet Memurları Kanunu veya işçi statüsünde ilgili toplu iş sözleşmesi hükümlerine göre çalışılabilir.",
+ "kazanc": {
+  "egitim_suresince": "Mesleki eğitim merkezi veya meslek lisesi öğrencilerine, işletmede mesleki eğitim gördükleri süre için 3308 sayılı Mesleki Eğitim Kanunu hükümlerine göre asgari ücretin belirli bir oranında ücret ödenir ve sigorta primleri devletçe karşılanır. İŞKUR tarafından düzenlenen kurslara katılan kursiyerlere ise kurs süresince zaruri gider ödemesi yapılabilir.",
+  "egitim_sonrasi": [
+   "Yeni başlayanlarda kazanç genellikle asgari ücret düzeyindedir.",
+   "Deneyim, CNC sistemlerine hâkimiyet, vardiya ve sorumluluk düzeyine göre ücret artabilir.",
+   "Özel sektörde ücret, işveren ile çalışan arasında karşılıklı olarak ve işletmenin büyüklüğüne göre belirlenir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Meslek lisesi veya mesleki eğitim merkezi mezunları, alanının devamı niteliğindeki ön lisans/lisans programlarını (makine, metal teknolojisi, mekatronik ve benzeri ilgili bölümler) sınav sonuçlarına göre tercih edebilirler. Mesleki eğitim merkezinde ustalık belgesi alanlar, gerekli şartları sağlamaları hâlinde usta öğreticilik yapabilirler.",
+  "is_hayatinda": "Deneyim kazanan operatör; ekip/vardiya sorumluluğu, CNC programcılığı veya kalite kontrol gibi görevlere yükselebilir. Yeterli sermaye, deneyim ve iş bilgisi birikimiyle kendi atölyesini kurabilir."
+ },
+ "benzer_meslekler": [
+  "CNC Lazerle Kesme Operatörü",
+  "CNC Punch Makinesi Operatörü",
+  "NC/CNC Tezgah Operatörü",
+  "Metal Levha İşleme Tezgah Operatörü",
+  "Metal Levha İşleme Tezgah İşçisi",
+  "Hidrolik Makas Tezgahı Operatörü (Metal Levha)"
+ ],
+ "ek_bilgiler": "Plazma kesim işlemi; yüksek akım, ısı ve parlak ışık (ark) oluşturduğundan, iş sağlığı ve güvenliği kuralları ile kişisel koruyucu donanım (kaynak maskesi/gözlüğü, eldiven, önlük vb.) kullanımına özellikle dikkat edilmesi gerekir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T01:32:20",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6682
+  }
+ }
+}

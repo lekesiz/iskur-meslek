@@ -1,0 +1,77 @@
+{
+ "arac_gerec": [
+  "Bilgisayar ve UYAP (Ulusal Yargı Ağı Bilgi Sistemi) gibi elektronik kayıt/takip programları",
+  "Yazıcı ve fotokopi makinesi",
+  "Haciz bildirim defteri ve diğer resmi defterler",
+  "Tutanak, tebligat ve ödeme emri formları",
+  "Dosya, klasör ve arşiv malzemeleri",
+  "Resmi mühür ve damga",
+  "Telefon ve faks",
+  "Tahsilat için kasa/vezne ekipmanı ve para sayma cihazı",
+  "Hacze gidişte kullanılan resmi taşıt",
+  "Kalem, dosya gömleği gibi kırtasiye malzemeleri"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve titiz,",
+  "Sorumluluk sahibi,",
+  "Sözel ve yazılı ifade becerisine sahip,",
+  "Gergin ve değişken durumlarda sakin kalabilen,",
+  "İkna kabiliyeti yüksek,",
+  "Hukuk kurallarına ve gizliliğe bağlı kalabilen,",
+  "İnsan ilişkilerinde kararlı ve tutarlı,",
+  "Kayıt ve belge düzenine özen gösteren"
+ ],
+ "calisma_ortami": "İcra katipleri görevlerini büyük ölçüde icra dairelerinde büro ortamında, masa başında evrak düzenleyerek ve bilgisayar üzerinden kayıt yaparak yürütürler. Haciz işlemleri söz konusu olduğunda ise borçlunun evine, iş yerine veya malının bulunduğu yere giderek sahada da çalışırlar.\n\nSaha çalışması sırasında farklı mekân ve koşullarla, zaman zaman gergin ve çatışmaya açık ortamlarla karşılaşabilirler; bu nedenle gerektiğinde güvenlik görevlileriyle birlikte hareket ederler. Çalışma saatleri genellikle resmi kurum mesai saatleriyle sınırlıdır. İcra müdürü ve icra müdür yardımcısı, borçlu, alacaklı, avukat, banka görevlileri ve diğer kurum personeliyle sürekli iletişim halinde çalışırlar.",
+ "gorevler": [
+  "Haciz yoluyla tahsil edilmesi gereken evrakları teslim alır, inceleyerek önemine göre ayırır ve haciz işlemlerini derhal başlatır.",
+  "Hacze gidildiğinde borçluya kendini tanıtır, haciz gerekçesini bildirir ve işlemlere başlar; borcun o esnada nakit olarak ödenmek istenmesi durumunda yetkileri çerçevesinde tahsilatı yapar.",
+  "Haciz işlemleri başladığında haczedilecek malların tespitini ve değerlendirmesini yaparak alacak miktarı kadar malın haczini gerçekleştirir.",
+  "Haciz işlemlerinde yapılan her türlü işlemi tutanağa kaydeder.",
+  "Borçlunun itirazda bulunması durumunda itiraz gerekçesini tutanağa kaydeder, tutanağın bir nüshasını borçluya verir ve borçludan üç gün içinde delilleriyle birlikte vergi dairesine başvurmasını ister.",
+  "Haciz sırasında borçlu veya borçlular tarafından gösterilen tepkiler üzerine güvenlik görevlisi çağırır.",
+  "Haciz bildirimlerini haciz bildirim defterine kaydeder ve haciz işlemlerini bu defterden takip eder.",
+  "Alacağın maaş veya kira benzeri gelirlerden tahsil edilmesi gerektiğinde borçlunun hesabının bulunduğu banka veya çalıştığı iş yerine tebligat çıkarır, yedi gün içinde itiraz olmaması durumunda tahsilatı gerçekleştirir.",
+  "Haciz sırasında yapılan nakit veya kıymetli eşya tahsilatlarını aynı gün veya ertesi gün ilgili vezneye teslim eder.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Mesleğe yönelik, kendine özgü ve belirli bir süreyle sınırlandırılmış örgün bir ön lisans veya lisans programı bulunmamaktadır. İcra katipliği; adliyelerde bulunan icra müdürlüklerinde, Adalet Bakanlığı tarafından açılan kadrolara atanan personele işbaşında ve hizmet içi eğitimlerle kazandırılan bir meslektir. Ortaöğretim düzeyinde adalet alanı ile yükseköğretimde adalet ön lisans/zabıt katipliği gibi programlar, mesleğe hazırlık niteliğinde temel hukuk bilgisi sağlar.",
+  "sure_ve_icerik": "Mesleğin kendine özgü, belirli bir süreyle sınırlı örgün bir eğitim programı yoktur. Göreve başlayan personel; icra ve iflas hukuku, tebligat usulleri, haciz işlemleri, tutanak ve defter düzeni, dosyalama ile UYAP gibi elektronik kayıt sistemlerinin kullanımı konularında kurum içi hizmet içi eğitimler alır ve deneyimli personel gözetiminde işbaşında eğitim görür. Adalet alanında lise veya adalet ön lisans programı mezunu olanlar, mesleğe temel hukuk bilgisiyle başlarlar.",
+  "belge": "Mesleğe özgü bir diploma bulunmamaktadır; atama ile göreve başlayanlara kurumlarınca verilen hizmet içi eğitim sertifikaları olabilir.",
+  "giris_kosullari": [
+   "En az lise ve dengi okul mezunu olmak",
+   "Kamu Personel Seçme Sınavı (KPSS)'na girerek yeterli puanı almak",
+   "Adalet Bakanlığı tarafından açılan icra katipliği/zabıt katipliği kadrolarının başvuru şartlarını (yaş, sağlık durumu, güvenlik soruşturması vb.) taşımak",
+   "Kurumun açtığı sınav ve/veya mülakatlarda başarılı olmak"
+  ]
+ },
+ "calisma_alanlari": "İcra katipleri, adliyelerde bulunan icra müdürlüklerinde ve icra dairelerinde kamu personeli (memur) statüsünde istihdam edilirler. Mesleğin temel ve neredeyse tek çalışma alanı, adalet teşkilatına bağlı icra müdürlükleridir; özel sektörde bu unvanla doğrudan istihdam söz konusu değildir. İstihdam, Adalet Bakanlığı'nın açtığı kadro ilanları ve KPSS sonuçlarına göre merkezi veya kurum bazlı atamalar yoluyla gerçekleşmektedir.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğe özgü, bağımsız bir örgün eğitim süreci bulunmadığından eğitim süresince ayrı bir kazanç söz konusu değildir. Kadroya atananlar, göreve başladıkları andan itibaren işbaşı eğitim sürecinde de memur maaşı almaya başlarlar.",
+  "egitim_sonrasi": [
+   "İcra katipleri kamu kurumunda memur statüsünde çalıştıklarından 657 sayılı Devlet Memurları Kanunu hükümlerine göre maaş ve ek ödeme alırlar.",
+   "Kazanç düzeyi; kadro derecesi, hizmet yılı (kıdem) ve kurumun belirlediği ek ödeme/performans kriterlerine göre değişebilmektedir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğe özgü dikey bir örgün eğitim programı bulunmamaktadır. Göreve başlayanlar, açık öğretim veya örgün yükseköğretim programlarını (örneğin adalet, hukuk) tamamlayarak mesleki niteliklerini ve ilerleme olanaklarını artırabilirler.",
+  "is_hayatinda": "Kıdem, kurum içi sınav ve performansa bağlı olarak icra müdür yardımcılığına, daha sonra icra müdürlüğüne terfi edebilirler. Ayrıca kurum içi sınavlarla zabıt katipliği, yazı işleri müdürlüğü gibi farklı unvanlara geçiş yapabilirler."
+ },
+ "benzer_meslekler": [
+  "İcra Memuru",
+  "Zabıt Katibi",
+  "Cezaevi Katibi",
+  "Noter Katibi",
+  "Dava Takip Memuru",
+  "Mübaşir"
+ ],
+ "ek_bilgiler": "İcra katipliği, kamu kurumu bünyesinde (adliye icra müdürlükleri) yürütülen bir memuriyet görevidir; mesleğe giriş genellikle Adalet Bakanlığı'nın açtığı kadrolara KPSS sonucuna göre yapılan atamalarla gerçekleşir. Görev sırasında borçlularla yüz yüze gerçekleştirilen haciz işlemleri nedeniyle gerginlik ve çatışma riski bulunabileceğinden, gerektiğinde güvenlik tedbirlerine ve işbirliğine önem verilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T13:35:22",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 8398
+  }
+ }
+}

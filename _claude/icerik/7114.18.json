@@ -1,0 +1,80 @@
+{
+ "arac_gerec": [
+  "Buhar kazanı",
+  "Yakıt besleme sistemi (katı, sıvı veya gaz yakıt)",
+  "Kazan kontrol paneli",
+  "Basınç göstergeleri (manometre)",
+  "Termometre ve ısı ölçüm cihazları",
+  "Buhar boru hattı ve vanalar",
+  "Kür odası/kür hücresi",
+  "Nem ve sıcaklık kayıt cihazları",
+  "Bakım takımları (anahtar takımı, tornavida vb.)",
+  "Kişisel koruyucu donanım (eldiven, baret, koruyucu gözlük, iş elbisesi, çelik burunlu ayakkabı)",
+  "Kayıt defteri/vardiya formları",
+  "Su tesisatı ve su seviye göstergesi"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve tedbirli,",
+  "Sorumluluk sahibi,",
+  "Teknik konulara ilgili,",
+  "El ve beden becerisine sahip,",
+  "Yüksek ısı ve basınçlı ortamda çalışmaya uygun,",
+  "Talimatlara titizlikle uyan,",
+  "Takım halinde çalışmaya istekli,",
+  "Fiziksel olarak dayanıklı"
+ ],
+ "calisma_ortami": "Ön dökümlü beton kürcüsü, kapalı alanda, genellikle ön dökümlü (prekast) beton eleman üreten fabrikaların kazan dairesinde ve kür odalarında çalışır. Çalışma ortamı sıcak, nemli ve buharlıdır; yüksek ısı ve basınçla çalışılması nedeniyle dikkat ve tedbir gerektirir, bu nedenle iş sağlığı ve güvenliği kurallarına titizlikle uyulması önemlidir. Ortamda zaman zaman gürültü ve toz da bulunabilir.\n\nÇalışma saatleri işletmenin üretim programına göre belirlenir; üretim sürekliliği gerektiren tesislerde vardiyalı çalışma söz konusu olabilir. Meslek elemanı çalışırken üretim hattındaki diğer işçiler, ustabaşı, üretim sorumlusu ve mühendis/teknikerlerle sürekli iletişim halindedir.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin ilköğretim düzeyinde bir giriş koşulu bulunması nedeniyle örgün eğitimde ayrı bir okul programı bulunmamaktadır. Meslek genellikle ön dökümlü beton üretim tesislerinde işbaşında, usta yanında yetiştirilerek kazanılır. Bunun yanında Halk Eğitim Merkezleri ile İŞKUR'un açtığı inşaat/yapı teknolojileri alanındaki mesleki eğitim kursları da temel bilgi ve beceri kazandırılması açısından destekleyici olabilir.",
+  "giris_kosullari": [
+   "İlköğretim mezunu olmak",
+   "Kurs ve işbaşı eğitim programlarına ilişkin genel katılım koşullarını (yaş, sağlık durumu vb.) sağlamak",
+   "Yüksek ısı ve basınçlı sistemlerle çalışmaya engel bir sağlık sorununun bulunmaması"
+  ],
+  "sure_ve_icerik": "Eğitim süresi ve içeriği, uygulandığı işletmeye veya kursa göre değişmekle birlikte genel olarak; buhar kazanının çalıştırılması, buharın oluşturulması ve kazanın ateşlenmesi, kürleme tesisatının uygunluğunun kontrol edilmesi, termometre yerleştirme ve kürleme süresinin ayarlanması, kullanılan ekipmanların periyodik bakım ve kontrollerinin yapılması, iş sağlığı ve güvenliği ile kalite yönetim sistemi kurallarının uygulanması konularını kapsar.",
+  "belge": "İşbaşı eğitimi tamamlayanlara işletme tarafından düzenlenen bir çalışma/deneyim belgesi verilebilir; katılınan kurslarda ise Kurs Bitirme Belgesi düzenlenir. Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Ön dökümlü beton kürcüleri başlıca ön dökümlü (prekast) beton eleman üreten fabrikalarda, hazır beton ve beton santrallerinde, yapı elemanları üretim tesislerinde istihdam edilir. İnşaat sektöründeki üretim hacmine bağlı olarak bu tesislerde elemana ihtiyaç duyulmakta, sektördeki dalgalanmalar istihdam olanaklarını doğrudan etkilemektedir.",
+ "kazanc": {
+  "egitim_suresince": "Eğitim işbaşında, çalışılan işletmede verildiğinden kursiyer/çırak statüsünde iken genellikle asgari ücret düzeyinde veya işletme ile yapılan anlaşmaya bağlı bir ücret söz konusu olabilir; Halk Eğitim Merkezlerinde alınan kurslarda ise ücret talep edilmez.",
+  "egitim_sonrasi": [
+   "Yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Deneyim, işletmedeki pozisyon ve işveren ile yapılan anlaşmaya bağlı olarak ücret artabilir.",
+   "Kamuya bağlı işletmelerde işçi statüsünde çalışanlar için ücret toplu iş sözleşmesi hükümlerine göre belirlenir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğe özgü kademeli bir örgün eğitim basamağı bulunmamaktadır. Deneyim kazanan kişiler, ilgili alanlarda açılan ustalık/kalfalık sınavlarına ve ileri düzey mesleki kurslara katılarak belge düzeyini yükseltebilir.",
+  "is_hayatinda": "Deneyim kazanan ön dökümlü beton kürcüleri; usta, ekip sorumlusu veya üretim hattı sorumlusu gibi görevlere yükselebilir. İleri düzey teknik bilgi ve yönetim becerisi kazananlar, üretim tesislerinde vardiya amirliği veya kalite kontrol sorumluluğu üstlenebilir."
+ },
+ "benzer_meslekler": [
+  "Ön Dökümlü Beton Üretim Hattı Sorumlusu",
+  "Ön Dökümlü Beton Eleman Montajcısı",
+  "Ön Dökümlü Beton Öngermecisi",
+  "Beton ve Betonarme Kalıpçısı",
+  "Gaz Beton Kalıp Temizleme ve Yağlama İşçisi",
+  "Gazbeton Ayıklama/paketleme İşçisi"
+ ],
+ "ek_bilgiler": "Mesleğin yüksek ısı ve basınçlı buhar kazanıyla yapılması nedeniyle iş sağlığı ve güvenliği kurallarına titizlikle uyulması büyük önem taşır. İş yoğunluğu, ön dökümlü (prekast) beton kullanımının yaygınlaştığı inşaat sektöründeki üretim hacmine bağlı olarak değişebilir.",
+ "gorevler": [
+  "İş sağlığı ve güvenliği, yangın ve acil durum kurallarını uygular.",
+  "Kalite yönetim sistemi ile ilgili faaliyetleri yürütür.",
+  "İş organizasyonu yapar.",
+  "Kazanı çalıştırır.",
+  "Buharı oluşturur.",
+  "Kazanı ateşler.",
+  "Kürleme işlemi için tesisatın uygunluğunu kontrol eder.",
+  "Termometre yerleştirir.",
+  "Kürleme süresini ayarlar.",
+  "Periyodik bakım ve kontrolleri yapar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T22:35:42",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5025
+  }
+ }
+}

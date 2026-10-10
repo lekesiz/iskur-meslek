@@ -1,0 +1,83 @@
+{
+ "arac_gerec": [
+  "Arama kurtarma halatları, karabina ve makaralar",
+  "İlk yardım çantası ve malzemeleri",
+  "Sedye, boyunluk ve atel",
+  "El feneri, baret ve iş eldiveni",
+  "Koruyucu kıyafet (tulum, çelik burunlu bot, gözlük)",
+  "Telsiz ve diğer haberleşme cihazları",
+  "Kazma, kürek, balyoz, keski gibi basit kurtarma aletleri",
+  "Bina ve alan işaretleme malzemeleri (boya, şerit, işaret kartları)",
+  "Oksijen tüpü ve maske",
+  "Jeneratör ve taşınabilir aydınlatma ekipmanı",
+  "Mesleğe ait diğer araç ve gereçler"
+ ],
+ "benzer_meslekler": [
+  "Arama Kurtarma Elemanı",
+  "Arama Kurtarma Uzmanı",
+  "Sivil Savunma Uzmanı",
+  "Sivil Savunma Amiri",
+  "İtfaiyeci",
+  "Orman İtfaiyecisi"
+ ],
+ "calisma_alanlari": "Afet müdahale elemanları başta AFAD olmak üzere, belediyelerin itfaiye ve afet koordinasyon birimleri, Kızılay, gönüllü arama kurtarma dernekleri ve sivil toplum kuruluşları bünyesindeki afet müdahale ekiplerinde görev alabilirler. Bazı büyük işletmeler ve organize sanayi bölgeleri de kendi acil durum/afet müdahale ekiplerinde bu nitelikte personel bulundurabilir.\n\nBu meslekte çoğu zaman gönüllülük esası geçerlidir; ücretli ve sürekli istihdam imkânı, ilgili kurum ve kuruluşların kadro, sözleşme veya proje bazlı çalışma olanaklarına bağlı olarak değişmektedir.",
+ "calisma_ortami": "Afet müdahale elemanları, deprem, yangın, sel, çığ gibi doğal afetlerin yaşandığı enkaz ve afet bölgelerinde, genellikle açık havada ve zor koşullarda çalışır. Çalışma ortamı tozlu, gürültülü, dar, karanlık ve dengesiz olabilir; enkaz altında, yüksekte veya suya yakın alanlarda çalışma gerekebilir. Afet anında çalışma saatleri düzensizdir, uzun süreli ve yorucu nöbetler söz konusu olabilir.\n\nGörev sırasında AFAD, itfaiye, sağlık ekipleri, jandarma/polis ve diğer profesyonel arama kurtarma ekipleriyle yakın iş birliği içinde ekip halinde çalışılır. İş kazası, yaralanma ve psikolojik stres riski yüksek olduğundan iş sağlığı ve güvenliği kurallarına titizlikle uyulması gerekir.",
+ "egitim": {
+  "verildigi_yerler": "Türkiye'de bu mesleğe yönelik örgün bir mesleki ve teknik eğitim programı (lise veya üniversite düzeyinde ayrı bir bölüm) bulunmamaktadır. Eğitim genellikle AFAD, Kızılay, belediyeler ve gönüllü arama kurtarma dernekleri gibi sivil toplum kuruluşları ile Halk Eğitim Merkezleri ve İŞKUR'un açtığı arama kurtarma ve ilk yardım kurslarıyla kazanılmaktadır.",
+  "giris_kosullari": [
+   "En az ortaöğretim (lise ve dengi) mezunu olmak",
+   "18 yaşını doldurmuş olmak",
+   "Sağlık durumunun fiziksel olarak zorlu arama kurtarma çalışmalarına uygun olduğunu belgelemek",
+   "Kursu düzenleyen kurumun belirlediği fiziksel yeterlilik ve mülakat şartlarını sağlamak"
+  ],
+  "sure_ve_icerik": "Eğitim süresi kursu düzenleyen kuruma göre değişmekle birlikte genellikle birkaç günden birkaç haftaya kadar sürer. Eğitimde; temel afet bilgisi, enkaz çevresinde güvenlik ve hafif arama kurtarma teknikleri, uluslararası bina işaretleme sistemi, triyaj ve ilk yardım uygulamaları, yaralı taşıma teknikleri, haberleşme ve ekip çalışması gibi konular teorik ve uygulamalı olarak verilir.",
+  "belge": "Eğitimi tamamlayanlara, kursu düzenleyen kurum tarafından katılım veya başarı belgesi verilir; ilk yardım eğitimini tamamlayanlara ayrıca yetkili sağlık kuruluşlarınca onaylı ilk yardımcı sertifikası verilebilir."
+ },
+ "ek_bilgiler": "Bu meslek Türkiye'de büyük ölçüde gönüllülük esasına dayanmaktadır; AFAD ve benzeri kurumların gönüllü afet gönüllüsü programlarına kayıt olmak, bu alanda deneyim ve beceri kazanmak için önemli bir yoldur. Mesleki Yeterlilik Kurumu (MYK) belgesi, bazı kurumlarca istihdamda tercih sebebi olabilir.",
+ "genel_ozellikler": [
+  "Fiziksel olarak güçlü ve dayanıklı,",
+  "Soğukkanlı ve hızlı, doğru karar verebilen,",
+  "Ekip çalışmasına uyumlu,",
+  "Sorumluluk sahibi ve özverili,",
+  "Zor ve riskli koşullara dayanıklı,",
+  "Dikkatli ve gözlem yeteneği gelişmiş,",
+  "İnsanlarla iyi iletişim kurabilen,",
+  "Tehlikeli ortamlarda çalışmaya istekli"
+ ],
+ "gorevler": [
+  "Herhangi bir doğal afet durumunda kendisi, ailesi ve çevresinin emniyetini sağladıktan sonra en yakın afet koordinasyon merkezine intikal eder.",
+  "Enkaz çevresinde güvenlik önlemlerini alır.",
+  "Yıkılan yapı hakkında bilgi toplar, doğal gaz, elektrik ve su tesisatını kapatır/kapattırır.",
+  "Enkaz etrafında dolaşarak gözle kontrol eder, arama kurtarmayla ilgili tespitlerde bulunur.",
+  "Makine ve teçhizat gerektirmeyen ve risk taşımayan hafif arama ve kurtarma işlerini yapar.",
+  "Enkaz içerisinde arama ve kurtarma kural ve yöntemlerini bilir ve uygular.",
+  "Profesyonel ekipler geldiğinde onlara yaptığı işler hakkında bilgi verir.",
+  "Binaya girmeden önce ve binadan çıktıktan sonra uluslararası bina işaretleme sistemine göre binayı işaretler.",
+  "Yaralının sağlık durumundaki aciliyete göre renk vererek müdahale ve nakil önceliğini belirler (triyaj), bilinç, hava yolu, solunum ve nabız kontrolünü yapar, gerektiğinde müdahale eder, yaralıları uygun taşıma teknikleriyle güvenli bir yere taşır, kanamayı durdurma tekniklerini uygular ve yaptığı işlerle ilgili bilgileri kayıt eder.",
+  "Halk sağlığı ile ilgili tıbbi atık ve çöplerin yönetimi, arazide tuvalet hazırlığı ve bakımı, suların arıtılması gibi konulardaki çalışmalara katılır.",
+  "Afetzedelerin yiyecek ve barınak gibi ihtiyaçlarının karşılanmasında bölgedeki insanlara yardımcı olur.",
+  "Afet durumunda gerekirse ambulans, itfaiye aracı, otobüs gibi araçları her türlü hava ve yol şartlarında emniyetli bir şekilde kullanır.",
+  "Afet çalışmalarında kullanılan malzeme ve ekipmanın bakım, kontrol ve muhafazasını yapar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Deneyim kazandıkça ileri düzey arama kurtarma, triyaj, haberleşme ve ekip liderliği eğitimlerine katılarak uzmanlaşma sağlanabilir; ilgili kurumların açtığı eğitmenlik kurslarına katılarak eğitmen olunabilir.",
+  "is_hayatinda": "Deneyim ve ek eğitimlerle ekip lideri, saha amiri veya eğitmen gibi görevlere yükselinebilir; kariyer basamakları, görev yapılan kurumun kendi personel mevzuatına ve yapısına göre belirlenir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Eğitim genellikle kısa süreli kurslar şeklinde olup, kursu düzenleyen kurum veya kuruluş tarafından çoğunlukla ücretsiz verilir; kursiyerler bu süreçte genellikle herhangi bir ücret almaz.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında (örneğin AFAD veya belediye bünyesinde) istihdam edilenler 657 sayılı Devlet Memurları Kanunu'na veya ilgili kurumun toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel kuruluşlarda çalışanların ücreti işletmenin büyüklüğüne, deneyime ve görev kapsamına göre değişir; işe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Gönüllülük esasıyla çalışılan sivil toplum kuruluşlarında çoğunlukla ücret söz konusu değildir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T19:57:46",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 7606
+  }
+ }
+}

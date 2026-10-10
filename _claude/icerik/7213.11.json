@@ -1,0 +1,79 @@
+{
+ "arac_gerec": [
+  "Merdane (kenar kıvırma) makinesi",
+  "Presleme makinesi",
+  "Saç/sac sarma (makara) makinesi",
+  "Kesme makası ve kalıpları",
+  "Petek (fin) kalıpları",
+  "Lehim teli/parçaları",
+  "Lehim eritme fırını",
+  "Radyatör boruları ve petek sac parçaları",
+  "Maşa, pense",
+  "Çekiç, tokmak gibi el takımları",
+  "Kumpas, şerit metre gibi ölçüm aletleri",
+  "İş eldiveni, koruyucu gözlük ve önlük gibi kişisel koruyucu donanım"
+ ],
+ "benzer_meslekler": [
+  "Metal Levha İşlemecisi",
+  "Panel Radyatör İmalatçısı",
+  "Kalorifer Kazan İmalatçısı",
+  "Metal Levha İşçisi",
+  "Sac İşçisi",
+  "Metal Sac İşleme İşçisi"
+ ],
+ "calisma_alanlari": "Radyatör imalat işçileri; motorlu araç radyatörü ve ısı eşanjörü üreten fabrikalarda, otomotiv yedek parça imalathanelerinde ve radyatör tamir-bakım atölyelerinde çalışabilirler.\\n\\nAyrıca büyük sanayi tesislerinin bakım-onarım bölümlerinde, ısıtma ve soğutma sistemleri üreten işletmelerde iş bulabilir, yeterli tecrübe ve sermayeye sahip olanlar kendi atölyelerini açarak serbest olarak da çalışabilirler.",
+ "calisma_ortami": "Radyatör imalat işçileri genellikle atölye veya fabrika gibi kapalı mekanlarda çalışırlar. Lehim fırını nedeniyle çalışma ortamı sıcaktır; metal tozu, duman ve kısmen gürültülü koşullar söz konusu olabilir. İş, çoğunlukla ayakta ve küçük parçalarla dikkatli çalışmayı gerektirir; sıcak yüzeyle temas, yanma ve kesilme gibi iş kazası riskleri bulunduğundan kişisel koruyucu donanım kullanımı önemlidir.\\n\\nÇalışma saatleri genellikle gündüz vardiyasında ve yasal çalışma süreleriyle sınırlıdır; sipariş yoğunluğuna göre fazla çalışma gerekebilir. Çalışma arkadaşları, ustabaşı, kalite kontrol elemanları ve işletme yöneticileriyle sürekli iletişim halinde bulunurlar.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi öncelikli olarak işyerlerinde usta yanında (işbaşı eğitimi) verilmektedir. Talep olması durumunda mesleki eğitim merkezlerinde “Metal Teknolojisi” alanı kapsamındaki ilgili dallarda çıraklık eğitimi açılabilmektedir. Ayrıca Halk Eğitim Merkezleri ve İŞKUR tarafından açılan mesleki eğitim kurslarında da bu mesleğe yönelik beceri geliştirme eğitimleri düzenlenebilmektedir.",
+  "giris_kosullari": [
+   "Meslek için aranan minimum eğitim düzeyi ilköğretimdir",
+   "Çıraklık eğitimine başlamak için en az ortaokul mezunu olup zorunlu eğitim çağında bulunmak gerekir",
+   "14 yaşını doldurmuş olmak gerekir",
+   "Mesleğin gerektirdiği işleri yapmaya engel bir sağlık sorununun bulunmaması gerekir",
+   "Eğitim görmek istenen meslekte bir işyeri bulup işvereniyle çıraklık sözleşmesi imzalamak gerekir"
+  ],
+  "sure_ve_icerik": "Mesleki eğitim merkezlerinde yürütülen çıraklık eğitiminde süre ve müfredat, ilgili alan/dal programına göre belirlenir; eğitim genellikle haftada bir gün merkezde teorik ders, kalan günlerde işyerinde usta öğretici gözetiminde uygulamalı çalışma şeklinde yürütülür. Mesleğe, işyerinde usta yanında çalışarak ve tecrübe kazanarak ya da kısa süreli mesleki kurslara katılarak da girilebilmektedir; bu durumda eğitim süresi kişinin ve işletmenin özelliklerine göre değişir.",
+  "belge": "Çıraklık eğitimini tamamlayanlara kalfalık, ardından ustalık belgesi verilir. Kurs yoluyla edinilen beceriler için katılım/kurs bitirme belgesi düzenlenebilir. Mesleki Yeterlilik Kurumu (MYK) tarafından ilgili alanda bir yeterlilik belgesi düzenlenmesi halinde bu belge istihdamda tercih sebebi olabilir."
+ },
+ "ek_bilgiler": "Radyatör imalat işçiliği, otomotiv yedek parça ve ısıtma-soğutma ekipmanları sektörlerindeki üretim ve bakım-onarım talebine bağlı olarak istihdam olanağı sunan, görece dar bir uzmanlık alanıdır. Fırın ve lehim işlemleri nedeniyle iş sağlığı ve güvenliği kurallarına uyum büyük önem taşır.",
+ "genel_ozellikler": [
+  "El becerisine sahip,",
+  "Dikkatli ve tedbirli,",
+  "El ve gözünü eşgüdümlü kullanabilen,",
+  "Küçük parçalarla ve ayrıntılarla çalışmaktan hoşlanan,",
+  "Fiziksel olarak dayanıklı,",
+  "Isı ve yüksek sıcaklık ortamında çalışabilen,",
+  "Takım halinde çalışmaya uyumlu,",
+  "Sorumluluk sahibi kişiler olması gerekir."
+ ],
+ "gorevler": [
+  "İş organizasyonunu yapar, araç, gereç ve ekipmanları işçi sağlığı, iş güvenliği ve çevre koruma düzenlemelerine uygun şekilde kullanır",
+  "Bakır rolelerin kenarlarını merdanede kıvırır",
+  "Sacı makaraya sarar, preslenen petek parçalarını ölçüye uygun şekilde keser",
+  "Petek kalıbını seçer, kalıp içine radyatör borularını ve petek parçalarını yerleştirir",
+  "Borularla petek parçaları arasına lehim parçaları koyarak fırına atar, fırın içinde lehimlerin eriyerek petek parçaları ile boruların birbirine yapışmasını sağlar",
+  "Petekleri fırından çıkartır, soğumasını bekler ve ilgililere teslim eder",
+  "İş bitiminde kullandığı takımları temizleyip yerlerine kaldırır",
+  "Mesleki gelişim faaliyetlerinde bulunur"
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Çıraklık eğitimini tamamlayarak kalfalık ve ardından ustalık belgesi alınabilir. Gerekli şartları tamamlayanlar usta öğreticilik belgesi alarak mesleki eğitim merkezlerinde usta öğretici olarak görev yapabilir. İlgili mesleki ve teknik eğitim programlarına devam edilerek alan bilgisi geliştirilebilir.",
+  "is_hayatinda": "Deneyim kazanan radyatör imalat işçileri ustabaşı veya atölye/bölüm sorumlusu konumuna yükselebilir. Yeterli tecrübe ve sermayeye sahip olanlar kendi radyatör imalat veya tamir atölyelerini açabilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "İşyerinde çıraklık veya işbaşı eğitimi sürecinde, 3308 sayılı Mesleki Eğitim Kanunu kapsamında eğitim gören kişilere asgari ücretin belirli bir oranından az olmamak üzere ücret ödenir; ayrıca iş kazası ve meslek hastalığı sigortası primleri devlet tarafından karşılanır.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanların kazancı genellikle asgari ücret düzeyindedir",
+   "Deneyim, bilgi, çalışma hızı ve işletmenin büyüklüğüne göre kazanç artabilir",
+   "Kendi atölyesini açan veya ustalaşan kişiler, iş hacmine bağlı olarak daha yüksek gelir elde edebilir"
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T00:26:47",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6292
+  }
+ }
+}

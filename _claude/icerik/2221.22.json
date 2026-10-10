@@ -1,0 +1,85 @@
+{
+ "genel_ozellikler": [
+  "Sorumluluk duygusu yüksek,",
+  "İnsanlara yardım etmekten hoşlanan,",
+  "Dikkatli ve tedbirli,",
+  "Hızlı ve doğru karar verebilen,",
+  "İletişim becerisi gelişmiş,",
+  "Hijyen ve iş güvenliği kurallarına duyarlı,",
+  "Stresli ve acil durumlarda sakin kalabilen,",
+  "Gizliliğe ve hasta/çalışan haklarına önem veren,"
+ ],
+ "gorevler": [
+  "Çalışanların özellikleri ve sağlık düzeyleri ile ilgili veri toplar.",
+  "Çalışanların sağlık ve çalışma öykülerini işe giriş/periyodik muayene formuna yazar.",
+  "İşyeri hekimi tarafından yapılan fiziki muayene sırasında hekime yardımcı olur.",
+  "Muayeneye gelen personelin ateş, nabız ve tansiyonunu alarak muayeneye hazırlar, kayıtlarını alır.",
+  "İşyerinde sağlık taramaları yapar ve şüpheli durumda olanları hekime sevk eder.",
+  "Acil durumlarda hastaya (damar yolu açmak, kan şekeri ölçmek gibi) müdahale eder.",
+  "Çalışanların hastaneye sevk işlemlerinin yapılmasını sağlar.",
+  "Hamile ve emzikli kadınların izlenmesini ve zararlı maddelerden korunmasını sağlar.",
+  "Çocuk bakımı ile ilgili çalışmaların planlanması, yürütülmesi ve kontrolüne katılır.",
+  "Gözlük reçete onaylarının kayıtlarını tutar.",
+  "İhtiyaç duyulan malzemelerin teminini sağlar.",
+  "İlk yardım hizmetlerinin organizasyonu ve yürütümünde işyeri hekimine yardımcı olur.",
+  "İşyerinde çalışanların sağlık eğitiminde görev alır.",
+  "Enjeksiyon ve pansuman hizmetlerini yürütür.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "arac_gerec": [
+  "Tansiyon aleti",
+  "Derece (ısı ölçer)",
+  "Nabız oksimetre",
+  "Kan şekeri ölçüm cihazı (glukometre)",
+  "Enjektör ve ilaçlar",
+  "Pansuman malzemeleri (gazlı bez, antiseptik, bandaj vb.)",
+  "Muayene masası/sedye",
+  "İlk yardım ve acil müdahale çantası",
+  "Damar yolu açma malzemeleri (branül, serum seti)",
+  "Steril eldiven ve kişisel koruyucu donanım",
+  "İlaç ve tıbbi malzeme dolabı",
+  "Bilgisayar ve sağlık kayıt/takip yazılımları",
+  "Ateş/nabız/tansiyon takip formları"
+ ],
+ "calisma_ortami": "\"İşyeri hemşireleri, fabrika, maden, inşaat şantiyesi, ofis, üretim tesisi gibi çalışma alanlarında kurulan sağlık birimlerinde (revirlerde) görev yapar. Çalışma ortamı genellikle kapalı ve düzenli olmakla birlikte, çalıştığı işyerinin faaliyet alanına bağlı olarak zaman zaman atölye, şantiye veya saha ortamına da çıkması gerekebilir. İşyerinin tehlike sınıfına göre gürültü, kimyasal madde veya fiziksel risklere maruz kalınabilen bölümlere de girilebileceğinden kişisel koruyucu donanım kullanımı gerekebilir.\\n\\nÇalışma saatleri genellikle işyerinin mesai düzenine uygundur; ancak vardiyalı veya 24 saat üretim yapan işletmelerde nöbet usulü çalışma söz konusu olabilir. Görevi sırasında işyeri hekimi, iş güvenliği uzmanı, insan kaynakları birimi, çalışanlar ve gerektiğinde hastane personeli ile yakın iletişim içindedir.\"",
+ "egitim": {
+  "verildigi_yerler": "Üniversitelerin hemşirelik lisans programlarında (hemşirelik fakülteleri/yüksekokulları) verilir. Bu mesleği yapabilmek için lisans eğitiminin ardından, iş sağlığı ve güvenliği mevzuatı kapsamında 'diğer sağlık personeli (işyeri hemşiresi)' olarak çalışmaya yönelik ek bir eğitim programının tamamlanması gerekir.",
+  "giris_kosullari": [
+   "Lise veya dengi okul mezunu olmak",
+   "YKS (Yükseköğretim Kurumları Sınavı) sonucuna göre hemşirelik lisans programına yeterli puan ve başarı sıralamasıyla yerleşmek",
+   "İlgili önlisans programlarından mezun olanların Dikey Geçiş Sınavı (DGS) ile hemşirelik lisans programına geçiş yapabilmesi"
+  ],
+  "sure_ve_icerik": "Hemşirelik lisans eğitimi 4 yıl sürer ve anatomi-fizyoloji, hemşirelik esasları, iç hastalıkları hemşireliği, cerrahi hastalıkları hemşireliği, halk sağlığı hemşireliği, ilk yardım ve acil bakım gibi teorik ve klinik dersleri kapsar. Hemşirelik diplomasını aldıktan sonra, işyeri hemşiresi olarak çalışabilmek için ilgili mevzuat kapsamında yetkilendirilmiş eğitim kurumlarınca verilen 'diğer sağlık personeli' eğitim programına katılmak ve sonunda yapılan değerlendirmede başarılı olmak gerekir. Bu program, iş sağlığı ve güvenliği mevzuatı, meslek hastalıkları, işyerinde ilk yardım ve sağlık gözetimi konularını içerir.",
+  "belge": "Hemşirelik lisans diploması ve iş sağlığı ve güvenliği mevzuatı kapsamında alınan 'Diğer Sağlık Personeli (İşyeri Hemşiresi) Belgesi'"
+ },
+ "calisma_alanlari": "\"İşyeri hemşireleri; sanayi tesisleri, fabrikalar, madenler, inşaat şantiyeleri, büyük ölçekli üretim ve hizmet işletmeleri ile kamu kurumlarının bünyesinde kurulan iş sağlığı ve güvenliği birimlerinde görev alabilir. Ayrıca, işletmelere dışarıdan hizmet veren Ortak Sağlık ve Güvenlik Birimleri (OSGB) bünyesinde çalışarak birden fazla işyerine hizmet verebilirler. Belirli çalışan sayısı ve tehlike sınıfına sahip işyerlerinde işyeri hemşiresi istihdamı mevzuat gereği zorunlu olabildiğinden, bu alanda istihdam olanağı bulunmaktadır.\"",
+ "kazanc": {
+  "egitim_suresince": "Hemşirelik lisans eğitimi süresince öğrenciler, Kredi ve Yurtlar Genel Müdürlüğü'nün öğrenim kredisi ve yurt hizmetlerinden yararlanabilir; bazı üniversiteler ve kurumlar burs sağlayabilir.",
+  "egitim_sonrasi": [
+   "Kamu kurum ve kuruluşlarında çalışanlar 657 sayılı Devlet Memurları Kanunu'na göre ücretlendirilir.",
+   "Özel işletmelerde veya OSGB'lerde çalışanların ücreti işveren ile yapılan sözleşmeye, deneyime, işletmenin büyüklüğüne ve sektöre göre değişir.",
+   "Mesleğe yeni başlayanlarda ücret genellikle asgari ücret düzeyinde olabilir; deneyim ve sorumluluk arttıkça kazanç yükselebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Hemşirelik lisans eğitiminin ardından iş sağlığı ve güvenliği, halk sağlığı veya hemşirelik alanında yüksek lisans ve doktora programlarına devam edilebilir. Ayrıca işyeri hemşireliğine yönelik sertifika ve ileri düzey eğitim/kurslara katılarak bilgi ve beceriler güncellenebilir.",
+  "is_hayatinda": "Deneyim kazandıkça işletme bünyesinde veya OSGB'lerde sorumlu hemşire, sağlık birimi koordinatörü gibi pozisyonlara yükselinebilir. İş sağlığı ve güvenliği alanında uzmanlaşarak eğitim verme, denetim ve danışmanlık gibi görevler üstlenilebilir."
+ },
+ "benzer_meslekler": [
+  "Meslek Sağlığı Hemşiresi",
+  "Hemşire (Koruyucu Sağlık Hizmetleri)",
+  "Halk Sağlığı Hemşiresi",
+  "Hemşire",
+  "Poliklinik Hemşiresi",
+  "Diğer Sağlık Personeli(Sağlık Memuru)"
+ ],
+ "ek_bilgiler": "\"6331 sayılı İş Sağlığı ve Güvenliği Kanunu ve ilgili mevzuat kapsamında, çalışan sayısı ve işyerinin tehlike sınıfına göre işyerlerinde 'diğer sağlık personeli' (işyeri hemşiresi) çalıştırılması zorunlu tutulabilmektedir. Bu meslekte çalışabilmek için hemşirelik lisans diplomasına ek olarak, ilgili mevzuat kapsamında yetkilendirilmiş eğitim kurumlarınca verilen 'Diğer Sağlık Personeli' eğitim programının tamamlanıp belgenin alınması gerekmektedir.\"",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-07T23:12:41",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 7001
+  }
+ }
+}

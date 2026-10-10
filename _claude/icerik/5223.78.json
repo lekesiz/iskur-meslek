@@ -1,0 +1,85 @@
+{
+ "arac_gerec": [
+  "Cam, porselen ve kristal züccaciye ürünleri",
+  "Mutfak gereçleri (tencere, tava, servis takımları vb.)",
+  "Etiketleme makinesi / el etiket tabancası",
+  "Barkod okuyucu",
+  "Yazar kasa / POS cihazı",
+  "Vitrin ve raf düzenleme ekipmanları",
+  "Ambalaj ve paketleme malzemeleri (kutu, köpük dolgu, streç film, kağıt)",
+  "Taşıma arabası ve depo rafları",
+  "Fatura, sevk irsaliyesi ve satış fişi",
+  "Hesap makinesi",
+  "Garanti belgesi formları",
+  "Temizlik malzemeleri (reyon ve vitrin bakımı için)"
+ ],
+ "genel_ozellikler": [
+  "İnsan ilişkilerinde başarılı, güler yüzlü ve girişken,",
+  "Dikkatli ve özenli (kırılabilir ürünlerle çalıştığı için),",
+  "El becerisine sahip,",
+  "İkna yeteneği olan ve düzgün konuşabilen,",
+  "Sabırlı ve hoşgörülü,",
+  "Sorumluluk sahibi ve güvenilir,",
+  "Estetik görüşe sahip (vitrin ve reyon düzenlemesi için),",
+  "Uzun süre ayakta çalışmaya uygun bedensel yapıya sahip"
+ ],
+ "calisma_ortami": "Züccaciye satış elemanı, genellikle kapalı mekanlarda; müstakil züccaciye mağazalarında, ev eşyası reyonlarında veya büyük mağaza/market zincirlerinin ilgili bölümlerinde çalışır. Çalışma ortamı genel olarak temiz ve düzenlidir; ancak cam, porselen ve kristal gibi kırılabilir ürünlerle sürekli temas halinde olduğundan kesilme ve yaralanma riskine karşı dikkatli olmayı gerektirir. İş, uzun süre ayakta durmayı ve zaman zaman ürün taşıma/istifleme nedeniyle fiziksel efor sarf etmeyi gerektirebilir.\n\nÇalışma saatleri genellikle mağazanın açılış-kapanış saatlerine bağlıdır; özel gün, bayram ve kampanya dönemlerinde (örneğin çeyiz, hediyelik ürün talebinin arttığı dönemlerde) iş yoğunluğu artabilir ve hafta sonu çalışması söz konusu olabilir. Meslek üyesi; müşteriler, mağaza yönetimi, tedarikçi/firma temsilcileri ve varsa güvenlik görevlileri ile sürekli iletişim halindedir.",
+ "gorevler": [
+  "Satışı yapılmak üzere gelen züccaciye ürünlerini teslim alır, satış yapılacak yerlere taşır, fazlasını depoya kaldırır.",
+  "Satışa sunulacak cam, porselen gibi züccaciye ürünlerini etiketler, reyonlara ve vitrinlere yerleştirir, vitrin düzenlemesi yapar, fiyatlar değiştiğinde etiketleri güncelleştirir.",
+  "Müşterileri karşılar, almak istedikleri ürünleri gösterir, bu ürünlerle ilgili bilgi verir ve alternatif ürünler sunar.",
+  "Müşterinin ürün seçiminde karar vermesine yardımcı olur.",
+  "Satışı yapılan ürünler garantili ise garanti belgelerini doldurur.",
+  "Satışı yapılan ürünlerin kullanımları hakkında müşterilere bilgi verir, ürünün normal çalışıp çalışmadığını kontrol eder.",
+  "Satışı yapılan ürünleri paketler ve müşteriye teslim eder, gerektiğinde ücretini alır, fatura, sevk irsaliyesi ya da yazar kasa fişi düzenler, kredi kartı ile ücretini tahsil eder.",
+  "Satışı yapılan ürünlerin stok kontrolünü yapar, azalan ürünlerin temini için sipariş verir ya da sipariş verilmesi için ilgililere bilgi verir.",
+  "Müşterilerin satın aldıkları ürünlerle ilgili memnuniyet ve şikayetlerini alır, gerekli gördüklerini yetkililere iletir.",
+  "İade veya değişim talebiyle gelen müşterilerle ilgilenir, iade ve değişim işlemlerini yapar.",
+  "Hatalı ürünleri ayırır, hatalı olduğu için iadesi gelen ürünlerin ilgili firmaya gönderilmesini sağlar.",
+  "Sorumlu olduğu ürünlerin güvenliğine dikkat eder, varsa güvenlik görevlileri ile koordineli çalışır.",
+  "Satışı yapılacak ürünler hakkında bilgilendirme toplantılarına katılır.",
+  "Sorumlu olduğu bölümün temizlik ve düzenini sağlar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Züccaciye satış elemanlığına özgü, ayrı bir meslek lisesi alanı/dalı bulunmamaktadır. Meslek, Milli Eğitim Bakanlığına bağlı mesleki eğitim merkezlerinde yürütülen \"Pazarlama ve Perakende\" alanı \"Satış Elemanlığı\" dalı kapsamındaki genel satış eğitimiyle veya işyerlerinde işbaşında usta yanında yetişme yoluyla kazanılmaktadır. Ayrıca Halk Eğitim Merkezleri ile İŞKUR tarafından açılan mesleki eğitim kurslarından da yararlanılabilir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "Çıraklık eğitimi yoluyla yetişmek isteyenler için belirlenen yaş aralığında olmak ve sağlık durumunun mesleğin gerektirdiği işlere uygun olması",
+   "Eğitim görmek istediği meslekte bir işyeri bulup işveren ile çıraklık sözleşmesi imzalamak (işbaşında eğitim tercih edilirse)",
+   "Kurs yoluyla yetişmek isteyenler için ilgili kurumların belirlediği kayıt koşullarını sağlamak"
+  ],
+  "sure_ve_icerik": "Mesleğe özgü standart ve zorunlu bir eğitim süresi bulunmamaktadır. İşbaşında usta yanında yetişme süreci genellikle birkaç aydan 1-2 yıla kadar sürebilir. Eğitim ve kurs içeriğinde; ürün tanıtımı ve bilgisi (cam, porselen, kristal ve diğer ev eşyaları), müşteri ilişkileri ve satış teknikleri, vitrin ve reyon düzenleme, stok takibi, kasa/satış belgesi düzenleme, iade-değişim işlemleri ile iş sağlığı ve güvenliği konuları yer almaktadır.",
+  "belge": "Mesleki eğitim merkezi kapsamında çıraklık eğitimi tamamlanıp kalfalık sınavında başarılı olunması durumunda \"Kalfalık Belgesi\" alınabilir. Kurs yoluyla eğitim alanlara ise kurs sonunda katılım/başarı belgesi verilir. Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Züccaciye satış elemanları; cam, porselen, kristal ve ev eşyası satan müstakil mağazalarda, ev gereçleri reyonu bulunan büyük mağaza ve hipermarket zincirlerinde, ev tekstili ve dekorasyon mağazalarında, çeyiz ve hediyelik eşya satış noktalarında iş bulabilirler. Deneyim ve sermaye birikimi olanlar kendi adlarına züccaciye mağazası açabilirler.",
+ "kazanc": {
+  "egitim_suresince": "İşyerinde çıraklık eğitimi gören adaylara 3308 sayılı Mesleki Eğitim Kanunu kapsamında belirlenen esaslara göre ücret ödenir; ayrıca iş kazası ve meslek hastalıklarına karşı sigorta primleri devletçe karşılanır. Kurs yoluyla eğitim alanlarda ise genellikle ücret söz konusu değildir.",
+  "egitim_sonrasi": [
+   "İşe başlangıçta genellikle asgari ücret düzeyinde kazanç sağlanır.",
+   "Deneyim, mağazanın büyüklüğü ve ciro performansına bağlı olarak ücret artabilir, bazı işyerlerinde satış primi uygulaması olabilir.",
+   "Kendi işyerini açanların kazancı yaptıkları satış hacmine göre değişir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Çıraklık eğitimi yoluyla kalfa olarak yetişenler, ilköğretim mezunu iseler mesleki ve teknik açık öğretim lisesine devam ederek meslek lisesi diploması alabilirler. Çalışırken usta öğreticilik için gerekli eğitim ve belgeleri edinerek yetkinliklerini artırabilirler.",
+  "is_hayatinda": "Deneyim kazanan satış elemanları; kıdemli satış danışmanı, reyon sorumlusu, mağaza şefi veya mağaza müdürü gibi pozisyonlara ilerleyebilir. Yeterli sermaye ve deneyime sahip olanlar kendi adlarına züccaciye mağazası açabilirler."
+ },
+ "benzer_meslekler": [
+  "Dekorasyon Malzemeleri Satış Elemanı",
+  "Perde ve Mefruşat (Ev Tekstil) Satış Elemanı",
+  "Reyon Görevlisi",
+  "Perakende Satış Elemanı (Gıda)",
+  "El Sanatları Ürünleri Satış Elemanı",
+  "Aydınlatma Malzemeleri Satış Elemanı"
+ ],
+ "ek_bilgiler": "Cam, porselen ve kristal gibi kırılabilir ürünlerle çalışıldığından; taşıma, istifleme ve raf/vitrin düzenlemesi sırasında dikkatli ve özenli olmak önemlidir. Çeyiz, hediyelik eşya ve özel gün (bayram, düğün sezonu vb.) dönemlerinde sektörde iş hacmi ve istihdam talebi artış gösterebilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T19:11:42",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6658
+  }
+ }
+}

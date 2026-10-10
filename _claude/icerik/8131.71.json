@@ -1,0 +1,99 @@
+{
+ "arac_gerec": [
+  "Karıştırma ve dispersiyon tankları/kazanları",
+  "Öğütme (değirmen) makinesi",
+  "Tartım ve ölçüm terazileri",
+  "Vana ve boru hattı sistemleri",
+  "Filtre ve pompalar",
+  "Kaldırma ve taşıma ekipmanları (forklift, vinç vb.)",
+  "Havalandırma sistemi ekipmanları",
+  "Azot tüpü ve basınç ekipmanları (solvent bazlı üretimde)",
+  "Tank temizleme ekipmanları",
+  "Viskozimetre ve renk/ dispersiyon ölçüm cihazları",
+  "Hammadde depolama tankları",
+  "Kişisel koruyucu donanım (eldiven, gözlük, maske, tulum, çizme)"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve sorumluluk sahibi,",
+  "Kimyasal maddelerle çalışmaya karşı duyarlı ve tedbirli,",
+  "El ve göz koordinasyonu iyi,",
+  "Fiziksel olarak dayanıklı,",
+  "Ekip çalışmasına uyumlu,",
+  "Talimat ve reçetelere titizlikle uyan,",
+  "Makine ve ekipman kullanımına yatkın,",
+  "Temizlik ve düzene özen gösteren"
+ ],
+ "calisma_ortami": "Boya üretim operatörleri, fabrika ve atölye ortamlarında, genellikle kapalı mekânlarda çalışır. Çalışma ortamında kimyasal koku, toz ve solvent buharı bulunabileceğinden kişisel koruyucu donanım kullanımı önemlidir. İş çoğunlukla ayakta ve hareketli olarak yürütülür; hammadde yükleme, kaldırma ve taşıma işlemleri fiziksel güç gerektirebilir. İşletmelerde vardiyalı çalışma düzeni yaygındır.\n\nMeslek elemanları; üretim ekibi, kalite kontrol personeli, bakım teknisyenleri ve vardiya/bölüm amirleriyle sürekli iletişim halinde çalışır. İş sağlığı ve güvenliği kurallarına uyma zorunluluğu nedeniyle dikkatli, tedbirli ve disiplinli çalışmak gerekir.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi için resmi bir ön lisans veya lisans programı bulunmamaktadır. Meslek genellikle Halk Eğitim Merkezleri ile İŞKUR tarafından açılan mesleki eğitim kurslarında ya da işyerlerinde işbaşında, usta yanında eğitim yoluyla kazanılmaktadır. Mesleki ve teknik eğitim kurumlarının kimya teknolojisi alanındaki programları da bu mesleğe hazırlayıcı nitelikte olabilir.",
+  "giris_kosullari": [
+   "İlköğretim mezunu olmak",
+   "Okuryazar olmak",
+   "Kurs/eğitim programının öngördüğü temel becerileri gerçekleştirebilecek fiziksel ve psikomotor yeterliğe sahip olmak"
+  ],
+  "sure_ve_icerik": "Kursun süresi ve içeriği eğitimi veren kuruma göre değişmekle birlikte; genellikle iş sağlığı ve güvenliği, kimyasal madde kullanımı ve depolaması, boya hammaddeleri, karıştırma ve dispersiyon işlemleri, üretim ekipmanlarının kullanımı ve kontrolü ile kalite kontrol esasları konularında temel bilgi ve beceriler kazandırılır.",
+  "belge": "Eğitimi tamamlayanlara \"Kurs Bitirme Belgesi\" verilir. Talep edenlere Europass Sertifika Eki verilebilir. Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Mesleğin gerektirdiği yeterlilikleri kazanan bireyler; boya, vernik, mürekkep ve benzeri kimyasal ürünleri üreten fabrika ve işletmelerde boya üretim operatörü olarak çalışabilirler.",
+ "kazanc": {
+  "egitim_suresince": "Kurs yoluyla alınan eğitimlerde genellikle bir kazanç söz konusu değildir. İşbaşında usta yanında eğitimde ise bazı işletmeler sınırlı bir ödeme yapabilir.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanların ücreti genellikle asgari ücret düzeyindedir.",
+   "Ücret; deneyim, işletmenin büyüklüğü ve sektöre göre değişebilir.",
+   "Kamu kurumlarında işçi statüsünde istihdam edilenler için toplu iş sözleşmesi hükümleri geçerlidir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğe özgü resmi bir ilerleme basamağı bulunmamaktadır. Kimya teknolojisi alanında açılan ileri düzey kurs ve eğitimlere katılarak bilgi ve becerilerini geliştirebilirler.",
+  "is_hayatinda": "Bilgi, beceri ve deneyim arttıkça usta, formen, ustabaşı ya da vardiya/bölüm şefliği gibi unvanlar alarak iş hayatında ilerleme imkânı bulabilirler."
+ },
+ "benzer_meslekler": [
+  "Karıştırma Makinesi Operatörü-Kimyasal Maddeler",
+  "Öğütme Makinesi Operatörü (Kimyasal ve İlgili İşlemler)",
+  "Reaktör İşçisi (Boya)",
+  "Hammadde Hazırlama İşçisi (Boya)",
+  "Boya Renk Ayar Elemanı",
+  "Boyahane Tesis Takip İşçisi"
+ ],
+ "ek_bilgiler": "Boya üretiminde kullanılan bazı kimyasal maddeler (solventler, pigmentler, bağlayıcılar) nedeniyle işin bazı aşamaları tehlikeli işler kapsamında değerlendirilebilir. Bu nedenle çalışanların iş sağlığı ve güvenliği eğitimi almaları ve kişisel koruyucu donanım kullanmaları önemlidir.",
+ "gorevler": [
+  "İş sağlığı ve güvenliği, yangın ve acil durum kurallarını uygular.",
+  "Kalite yönetim sistemi ile ilgili faaliyetleri yürütür.",
+  "İş organizasyonu yapar.",
+  "Boya hammaddesini temin eder.",
+  "Donanım kontrolü yapar.",
+  "Tankın ürüne uygunluğunu kontrol eder.",
+  "Vana kontrolünü yapar.",
+  "Tank temizliği yapar.",
+  "Sıyırıcı ve karıştırıcıları kontrol eder.",
+  "Tartım ve ölçüm araçlarının kontrolünü yapar.",
+  "Kaldırma ve taşıma araçlarını kontrol eder.",
+  "Havalandırma sistemini kontrol eder.",
+  "Isıtma ve soğutma suyu kontrolünü yapar.",
+  "Filtre ve pompaların kontrolünü yapar.",
+  "Hava basıncı kontrolünü yapar.",
+  "Öğütme makinesinin kontrolünü yapar (solvent bazlı boyalarda).",
+  "Azot tüpünün kontrolünü yapar (solvent bazlı boyalarda).",
+  "Arıza/eksiklik bildirimi yapar.",
+  "Hammadde yükleme ve karıştırma süreci işlemlerini yürütür.",
+  "Kazana su ve bağlayıcı çeker.",
+  "Dispersiyon ajanlarını ve toz katkı maddelerini ilave eder.",
+  "Karışımı homojenize eder.",
+  "Karışımı disperse eder.",
+  "Karışımı öğütür.",
+  "Karışımın son kontrolünün yapılmasını sağlar.",
+  "Dispersiyon kontrolü yapar.",
+  "Ürünü tamamlar.",
+  "Ürünü depolar.",
+  "Çalışılan yerin temizliğini yapar.",
+  "Mesleki gelişim faaliyetlerini yürütür."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T12:25:31",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6095
+  }
+ }
+}

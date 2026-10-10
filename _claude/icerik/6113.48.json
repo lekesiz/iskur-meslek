@@ -1,0 +1,79 @@
+{
+ "arac_gerec": [
+  "Toprak işleme aletleri (pulluk, kültivatör, diskaro)",
+  "Tohum ekim makinesi (mibzer)",
+  "Traktör ve tarım römorku",
+  "Gübre ve gübreleme makinesi",
+  "Sulama ekipmanları (yağmurlama/sprinkler sistemi, sulama hortumu)",
+  "İlaçlama ekipmanı (sırt pompası, tarla ilaçlama makinesi)",
+  "Çayır biçme makinesi (tırpan/biçer)",
+  "Balya makinesi",
+  "Toprak analiz kiti/pH metre",
+  "El aletleri (çapa, kürek, tırmık, orak)",
+  "Koruyucu eldiven, maske, çizme ve iş tulumu",
+  "Depolama ve taşıma ekipmanları"
+ ],
+ "genel_ozellikler": [
+  "Doğayı ve bitkileri seven,",
+  "Açık havada ve zorlu iklim koşullarında çalışabilen,",
+  "Fiziksel olarak dayanıklı,",
+  "Sabırlı ve dikkatli,",
+  "Gözlem gücü yüksek,",
+  "El ve bedenini uyumlu kullanabilen,",
+  "Mevsim koşullarına ve tarımsal takvime uyum gösterebilen,",
+  "Takım halinde çalışmaya istekli"
+ ],
+ "calisma_ortami": "Çayır mera ve yem bitkileri yetiştiricisi, büyük ölçüde açık arazide; tarla, çayır ve mera alanlarında çalışır. Çalışma koşulları mevsime bağlı olarak değişir; sıcak, soğuk, yağmurlu veya tozlu ortamlarda uzun süre açık havada bulunmak gerekebilir. Toprak, gübre ve bazı dönemlerde ilaç gibi kimyasal maddelerle temas söz konusu olduğundan koruyucu önlemlere dikkat edilmesi gerekir.\n\nÇalışma saatleri, ekim, bakım ve hasat dönemlerinde yoğunlaşabilir; hava koşullarına ve ürünün gelişim evresine göre uzun ve düzensiz olabilir. Meslek sahibi; işletme sahibi, ziraat mühendisi/teknisyeni, diğer tarım işçileri ve hayvancılık işletmeleriyle iş birliği içinde çalışır.",
+ "gorevler": [
+  "Arazide üretim için hazırlık yapar.",
+  "Generatif üretim yapar.",
+  "Yonca, üçgül ve burçak yetiştirir.",
+  "Fiğ, korunga ve gazal boynuzu yetiştirir.",
+  "Ayrık, çim, yumak ve brom yetiştirir.",
+  "Çayır mera tesisi yapar.",
+  "Çayır meraların bakımını ve yönetimini yapar.",
+  "Tarla bitkileri hastalıkları ile mücadele eder.",
+  "Tarla bitkileri zararlıları ile mücadele eder.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Mesleğin bağımsız bir örgün ön lisans ya da lisans programı bulunmamaktadır. Tarım ve bitkisel üretim alanındaki mesleki ve teknik eğitim programları (tarım meslek liseleri ve ilgili meslek yüksekokulu programları), Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kursları ile işbaşında usta yanında yetişme bu mesleğe hazırlayan temel yollardır.",
+  "giris_kosullari": [
+   "Mesleğe ilköğretim mezunu olarak girmek mümkündür.",
+   "Tarım/bitkisel üretim alanındaki mesleki ve teknik eğitim programlarına girmek için ortaokul mezunu olmak ve ilgili okulun kayıt şartlarını taşımak gerekir.",
+   "Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kurslarına katılmak için genellikle kursun belirlediği yaş ve temel şartları taşımak yeterlidir."
+  ],
+  "sure_ve_icerik": "Eğitim süresi ve içeriği izlenen yola göre farklılık gösterir. Tarım alanındaki meslek liselerinde eğitim dört yıl sürer; toprak hazırlığı, tohumluk seçimi, gübreleme, sulama, hastalık ve zararlılarla mücadele, hasat ve hasat sonrası işlemler gibi konular öğretilir. Halk Eğitim Merkezleri ve İŞKUR kurslarında ise süre daha kısa olup, çayır mera ve yem bitkileri yetiştiriciliğinin temel uygulamalı işlemlerine ağırlık verilir. Mesleğin önemli bir bölümü, deneyimli çiftçi veya usta yanında işbaşında öğrenilir.",
+  "belge": "Tarım alanında meslek lisesi eğitimini tamamlayanlar diploma alır. Halk Eğitim Merkezleri ve İŞKUR kurslarını başarıyla tamamlayanlara katılım belgesi veya kurs sertifikası verilir."
+ },
+ "calisma_alanlari": "Çayır mera ve yem bitkileri yetiştiricileri; tarım il ve ilçe müdürlükleri gibi kamu kurumlarında, hayvancılık işletmelerinde, yem bitkisi ve tohumluk üreten özel tarım işletmelerinde, tarımsal kooperatiflerde ve çiftliklerde iş bulabilirler. Bunun yanında kendi tarım arazisi veya kiraladığı arazide bağımsız olarak çayır mera ve yem bitkisi üretimi yapabilirler.",
+ "kazanc": {
+  "egitim_suresince": "Örgün mesleki eğitim kapsamında staj yapan öğrenciler, staj yapılan işletmenin olanaklarına göre ücret alabilir. Halk Eğitim Merkezleri ve İŞKUR kurslarında genellikle ücret ödenmez; işbaşında usta yanında öğrenim sürecinde ise karşılıklı anlaşmaya bağlı küçük bir ücret söz konusu olabilir.",
+  "egitim_sonrasi": [
+   "İşe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Deneyim, çalışılan işletmenin büyüklüğü ve bölgenin tarımsal yapısına göre kazanç değişebilir.",
+   "Kendi işletmesini kuranların kazancı, üretim miktarı, ürün fiyatları ve pazar koşullarına bağlı olarak farklılık gösterir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Tarım alanındaki meslek lisesi eğitimini tamamlayanlar, sınavla girdikleri takdirde tarla bitkileri, bitkisel üretim veya ziraat mühendisliği gibi ilgili ön lisans/lisans programlarında öğrenimlerine devam edebilirler.",
+  "is_hayatinda": "Deneyim kazanan çalışanlar tarım çavuşu veya tarım kısım şefi gibi görevlere, büyük işletmelerde saha/üretim sorumluluğuna yükselebilir. Sermaye biriktirenler kendi tarım işletmelerini kurarak bağımsız üretici olabilirler."
+ },
+ "benzer_meslekler": [
+  "Çiftçi (Bahçıvan)",
+  "Tarım Çavuşu",
+  "Tarım Kısım Şefi",
+  "Endüstri Bitkileri Yetiştiricisi",
+  "Lif Bitkileri Yetiştiricisi",
+  "İlaç ve Baharat Bitkileri Yetiştiricisi"
+ ],
+ "ek_bilgiler": "Çayır ve meraların kullanımı, 4342 sayılı Mera Kanunu ve ilgili yönetmelikler kapsamında düzenlenmektedir. Bu nedenle meslek sahiplerinin, mera tahsis ve otlatma düzenine ilişkin kamu kurumlarının belirlediği kurallara uyması gerekir. Mesleki Yeterlilik Kurumu (MYK) belgesi, zorunlu olmamakla birlikte istihdamda tercih sebebi olabilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T21:16:17",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5689
+  }
+ }
+}

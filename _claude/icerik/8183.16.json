@@ -1,0 +1,72 @@
+{
+ "arac_gerec": [
+  "Kapaklama ve mühürleme makinesi",
+  "Yarı otomatik kapaklama makinesi",
+  "Otomatik (dikiş) bitiştirme makinesi",
+  "Şişe, teneke kutu, kavanoz ve benzeri kaplar",
+  "Metal kapak ve kapatma parçaları",
+  "El takımları (anahtar takımı, tornavida, pense)",
+  "Baskı tablası",
+  "Besleme mekanizması",
+  "Yağdanlık",
+  "Koruyucu eldiven ve gözlük",
+  "Temizlik malzemeleri (üstüpü, fırça vb.)"
+ ],
+ "genel_ozellikler": [
+  "El ve göz koordinasyonuna sahip,",
+  "Dikkatli ve tedbirli,",
+  "Makine ve ekipman kullanımına yatkın,",
+  "Sorumluluk sahibi,",
+  "Takım halinde çalışmaya uyumlu,",
+  "Fiziksel olarak dayanıklı,",
+  "Düzenli ve disiplinli"
+ ],
+ "calisma_ortami": "Kapaklama ve mühürleme makinesi operatörleri, genellikle fabrika veya üretim tesislerinin ambalajlama/dolum hatlarında, kapalı mekânlarda çalışırlar. Çalışma süresince büyük ölçüde ayakta durulur, makine gürültüsü ve hareketli parçalarla çalışma söz konusu olduğundan iş güvenliği kurallarına uyulması önemlidir. Sektöre ve işletmeye göre vardiyalı çalışma düzeni uygulanabilir.\n\nÇalışma sırasında hat arkadaşları, ustabaşı, kalite kontrol ve bakım personeli ile sürekli iletişim içinde bulunulur. Üretim temposuna bağlı olarak hızlı ve kesintisiz çalışma gerekebilir.",
+ "egitim": {
+  "verildigi_yerler": "Bu meslek için örgün bir eğitim programı bulunmamaktadır. Meslek genellikle işyerlerinde işbaşında, usta yanında veya işletme içi kısa eğitimlerle öğrenilir. Halk Eğitim Merkezleri ve İŞKUR tarafından açılan mesleki eğitim kursları ile ilgili mesleki ve teknik eğitim okullarının gıda/ambalaj üretim teknolojileri alanındaki programları mesleğe temel oluşturabilir.",
+  "giris_kosullari": [
+   "İlköğretim mezunu olmak",
+   "Belirli bir beden gücüne ve fiziksel dayanıklılığa sahip olmak"
+  ],
+  "sure_ve_icerik": "Standart bir eğitim süresi ve içeriği belirlenmemiştir. Genellikle işe alınan kişi, kısa süreli bir işbaşı eğitimi sürecinde makinenin kurulumu, çalıştırılması, iş güvenliği kuralları ve kalite kontrol esasları konusunda uygulamalı olarak bilgilendirilir.",
+  "belge": "Çalışılan işletme veya katılınan kurs tarafından katılım/kurs bitirme belgesi verilebilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Kapaklama ve mühürleme makinesi operatörleri; gıda, içecek, kozmetik, ilaç, kimya ve benzeri ürünlerin üretildiği ve paketlendiği işletmelerin ambalajlama/dolum hatlarında istihdam edilirler. Üretim sektörünün ve ambalajlı ürün çeşitliliğinin genişlemesi, bu meslekte iş bulma olanaklarını artırmaktadır.",
+ "kazanc": {
+  "egitim_suresince": "İşbaşı eğitim sürecinde genellikle asgari ücret düzeyinde veya işletmenin belirlediği bir ücret ödenir.",
+  "egitim_sonrasi": [
+   "İşe başlangıçta genellikle asgari ücret düzeyinde kazanç sağlanır.",
+   "Deneyim, işletmenin büyüklüğü ve çalışılan sektöre göre ücret zamanla artabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Meslekte örgün bir eğitim basamağı bulunmamaktadır; ilgili alanda açılan kurslarla bilgi ve beceriler geliştirilebilir.",
+  "is_hayatinda": "Deneyim ve performansa bağlı olarak operatörler, hat sorumlusu, ustabaşı veya üretim/paketleme amirliği gibi görevlere yükselebilirler."
+ },
+ "benzer_meslekler": [
+  "Kap Doldurma Makinesi Operatörü",
+  "Şişe Etiketleme Makinesi Operatörü",
+  "Su Şişeleme Makinesi Operatörü",
+  "Sıvı Dolum Makinesi Operatörü",
+  "Kapak-Pipet Makinesi Operatörü",
+  "Yağ Dolum Makinesi Operatörü"
+ ],
+ "ek_bilgiler": "",
+ "gorevler": [
+  "El takımları kullanarak makineyi kapaklanacak veya mühürlenecek kapların tipine ve boyuna göre ayarlar,",
+  "Yarı otomatik kapaklama makinesi kullanılıyorsa kapağı kabın üzerine ve kabı da baskı tablası altına veya besleme mekanizması üzerine koyar,",
+  "Makineyi çalıştırır,",
+  "Baskı tablasını indirip bastırarak kapağı kaba geçirir,",
+  "Otomatik (dikiş) bitiştirme makinesi kullanılıyorsa, makinenin deposuna teneke kutuların ağızlarını kapayacak metal parçaları doldurur,",
+  "Dolu teneke kutuların makineye girişini ve kapatma parçalarının kutu ağızlarına geçme işlemini takip eder,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T17:14:40",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 4038
+  }
+ }
+}

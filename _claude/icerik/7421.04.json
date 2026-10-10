@@ -1,0 +1,81 @@
+{
+ "arac_gerec": [
+  "Havya ve lehim istasyonu, lehim teli",
+  "Lehim emici pompa/örgü (lehim sökücü)",
+  "Pense, kargaburnu, cımbız",
+  "Tornavida takımları (düz/yıldız, hassas uçlu)",
+  "Kablo soyma ve sıkma pensesi",
+  "Multimetre (ampermetre, voltmetre, ohmmetre)",
+  "Osiloskop ve sinyal jeneratörü",
+  "Büyüteçli çalışma lambası/lup, mikroskop",
+  "Anti-statik bilek bandı ve çalışma matı",
+  "El matkabı, zımpara, küçük el aletleri",
+  "Çeşitli kablolar, konnektörler, bağlantı elemanları",
+  "Şasi, pano, baskılı devre kartları",
+  "Kalibrasyon ve test cihazları",
+  "Elektronik devre elemanları (direnç, kondansatör, entegre vb.)"
+ ],
+ "genel_ozellikler": [
+  "El ve göz koordinasyonunu iyi kullanabilen,",
+  "Küçük parçalarla dikkatli ve sabırlı çalışabilen,",
+  "Fen bilimlerine ve elektroniğe ilgi duyan,",
+  "Renkleri ayırt edebilen (kablo renk kodları için),",
+  "El becerisine sahip,",
+  "Sorumluluk duygusu gelişmiş,",
+  "Düzenli ve tertipli çalışabilen,",
+  "Başkalarıyla iş birliği içinde çalışabilen kişiler olmaları gerekir."
+ ],
+ "calisma_ortami": "Elektronik Montörü (Genel), genellikle fabrika, üretim atölyesi veya teknik servis ortamında, kapalı mekânlarda çalışır. Çoğunlukla oturarak, masa başında veya üretim bandında, dikkat gerektiren ince işler üzerinde uzun süre yoğunlaşarak çalışır. Lehim dumanı, küçük parçalarla uğraşma ve bazı işyerlerinde vardiyalı çalışma düzeni görülebilir; iş sağlığı ve güvenliği kurallarına (havalandırma, statik elektriğe karşı koruma vb.) uyulması gerekir.\n\nÇalışma sırasında mühendis, teknisyen, usta ve diğer montaj/üretim elemanlarıyla iş birliği içinde bulunur. İşin niteliğine göre bazı işletmelerde kalite kontrol ve test bölümleriyle de yakın ilişki içinde çalışır.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi, yeterli talep olması durumunda mesleki eğitim merkezlerinin Elektrik-Elektronik Teknolojisi alanı kapsamındaki ilgili dallarında çıraklık eğitimi şeklinde verilebilmektedir. Bunun yanında Halk Eğitim Merkezleri ile İŞKUR'un açtığı mesleki eğitim kurslarında da temel beceriler kazandırılmakta; meslek büyük ölçüde işbaşında, usta yanında uygulamalı olarak da öğrenilebilmektedir.",
+  "giris_kosullari": [
+   "En az ortaokul mezunu olmak",
+   "14 yaşını doldurmuş olmak",
+   "Mesleğin öğrenimine sağlık durumunun uygun olması (gerektiğinde sağlık raporuyla belgelendirilir)",
+   "Çıraklık eğitimi için bir işyeri bulup işveren ile çıraklık sözleşmesi imzalamak",
+   "İŞKUR/Halk Eğitim Merkezi kurslarına katılım için kursun kendi başvuru koşullarını (yaş, öğrenim düzeyi vb.) karşılamak"
+  ],
+  "sure_ve_icerik": "Mesleki eğitim merkezi yolunda eğitim, ortak genel kültür dersleri ile mesleki bilgi ve uygulama derslerini kapsar; öğrenciler haftanın bir bölümünde dersliklerde teorik eğitim alırken, kalan günlerde işyerinde usta öğreticinin gözetiminde uygulamalı çalışma yapar. Eğitim süresi ve içeriği, izlenen programa (mesleki eğitim merkezi, kurs veya işbaşı eğitim) göre değişiklik gösterebilir. Elektronik devre okuma, lehimleme, montaj, kalibrasyon ve arıza bulma teknikleri eğitimin temel konularını oluşturur.",
+  "belge": "Mesleki eğitim merkezi yolunu izleyenlere kalfalık ve ardından ustalık belgesi; fark derslerini tamamlayanlara meslek lisesi diploması verilir. Kurslara katılanlara ise kurs bitirme/katılım belgesi düzenlenir. Mesleki Yeterlilik Kurumu (MYK) belgesi, bazı işletmelerde istihdamda tercih sebebi olabilir."
+ },
+ "gorevler": [
+  "Proje ve kablaj şemalarını inceler.",
+  "Parçaların yerlerine doğru bir şekilde uyup uymadıklarını kontrol eder ve ufak ayarlar yapar.",
+  "Parçaları birleştirir veya el aletleri yardımıyla bunları şasi yahut panolar üzerinde monte eder.",
+  "Tel irtibatlarını yapar ve gereken yerlerde bunları lehimler.",
+  "Teçhizatı kontrol eder, kalibrasyon ayarı ve diğer ayarları yapar.",
+  "Elektronik kontrol cihazları yardımıyla arızaları bulur.",
+  "Gerekirse teçhizatı söker ve arızalı parça veya tel irtibatlarını değiştirir.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "calisma_alanlari": "Elektronik Montörü (Genel), başta elektronik eşya üretimi yapan fabrikalar olmak üzere; telekomünikasyon cihazları, beyaz eşya, bilgisayar ve çevre birimleri, savunma sanayii, otomotiv elektroniği ve çeşitli endüstriyel elektronik ürünlerin üretildiği fabrika ve atölyelerde çalışabilir. Ayrıca elektronik cihazların bakım ve onarımını yapan teknik servislerde de istihdam edilebilir. Elektronik ve teknoloji sektörünün gelişmesine bağlı olarak nitelikli montaj ve bakım-onarım elemanlarına olan ihtiyaç sürmektedir.",
+ "kazanc": {
+  "egitim_suresince": "Mesleki eğitim merkezi bünyesinde çıraklık eğitimi alanlara, 3308 sayılı Mesleki Eğitim Kanunu kapsamındaki düzenlemelere göre işletme tarafından ücret ödenir; eğitim gören öğrencilerin iş kazası ve meslek hastalığı sigortası primleri devletçe karşılanır. İŞKUR veya Halk Eğitim Merkezi kurslarına katılanlarda ise genellikle ücret söz konusu değildir; bazı İŞKUR kurs programlarında katılımcılara kursiyer harçlığı ödenebilir.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç elde eder.",
+   "Kazanç; deneyim, işteki performans, çalışılan işletmenin büyüklüğü ve sektörüne göre değişebilir.",
+   "Özel sektörde ücret, işveren ile çalışan arasındaki anlaşmaya bağlı olarak belirlenir; kamuya bağlı kuruluşlarda işçi statüsünde çalışanlar için ilgili toplu iş sözleşmesi hükümleri geçerlidir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleki eğitim merkezinden diploma alarak mezun olanlar, alanının devamı niteliğindeki ön lisans/lisans programlarına yönelebilir ve bu programlara yerleştirilmede ek puandan yararlanabilir. Ayrıca çalışırken çeşitli kurs ve sertifika programlarına katılarak bilgi ve becerilerini güncelleyebilir, elektronik ve mekatronik alanındaki yeni teknolojilere uyum sağlayabilir.",
+  "is_hayatinda": "Deneyim kazandıkça ustabaşı, şef veya ekip lideri gibi pozisyonlara yükselebilir. Belirli bir uzmanlık alanında (örneğin belirli cihaz türlerinde) uzmanlaşabilir, kalite kontrol veya teknik servis sorumluluğu üstlenebilir. Yeterli deneyim ve sermaye ile kendi elektronik tamir/servis işyerini açabilir."
+ },
+ "benzer_meslekler": [
+  "Elektronik Montörü (Elektronik İkaz Sistemleri)",
+  "Elektronik Montörü (Tıbbi Teçhizat)",
+  "Elektro Komponent Dizgi İşçisi",
+  "Elektronik Montörü (Bilgisayar ve İlgili Cihazlar)",
+  "Telekomünikasyon Elektronik Kart Üretim, Montaj ve Test Elemanı",
+  "Telekomünikasyon Elektronik Kart Üretim, Montaj ve Test Ustası"
+ ],
+ "ek_bilgiler": "Elektronik sektöründeki teknolojik gelişmeler ve otomasyonun yaygınlaşması, montaj süreçlerinde kullanılan cihaz ve tekniklerin sürekli güncellenmesini gerektirmektedir; bu nedenle meslek elemanlarının yeni nesil elektronik devre ve test ekipmanlarına ilişkin bilgilerini güncel tutması önem taşır.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T06:22:33",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5857
+  }
+ }
+}

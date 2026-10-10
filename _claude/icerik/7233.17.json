@@ -1,0 +1,80 @@
+{
+ "arac_gerec": [
+  "El takımları (anahtar, çekiç, tornavida, pense, eğe, testere vb.)",
+  "Ölçme ve kontrol aletleri (çelik cetvel, kumpas, komparatör, multimetre vb.)",
+  "Elektrik el aletleri ve kablo bağlantı malzemeleri",
+  "Kaynak makinesi ve kesme ekipmanları",
+  "Matkap ve taşlama tezgâhı",
+  "Yağlama ekipmanları (gres tabancası, yağ pompası)",
+  "Ahşap işleme el aletleri (rende, keser, çekiç, testere)",
+  "Boya malzemeleri, fırça ve rulo",
+  "Kaldırma ve taşıma ekipmanları (vinç, kriko, transpalet)",
+  "Kişisel koruyucu donanım (baret, eldiven, koruyucu gözlük, izole ayakkabı, iş elbisesi)",
+  "Yedek parça ve bağlantı elemanları"
+ ],
+ "genel_ozellikler": [
+  "Şekilleri ve makine parçaları arasındaki ilişkiyi doğru algılayabilen,",
+  "El becerisine sahip ve elini-gözünü eşgüdümle kullanabilen,",
+  "Dikkatli, sabırlı ve sorumluluk sahibi,",
+  "Elektrikle ve yüksek gerilimle çalışmanın gerektirdiği güvenlik kurallarına uyan,",
+  "Farklı meslek dallarına (mekanik, elektrik, marangozluk, boya) ilgi duyan ve öğrenmeye açık,",
+  "Takım halinde çalışmaya uyumlu,",
+  "Fiziksel olarak dayanıklı,",
+  "Aletlerle ve makinelerle çalışmaktan hoşlanan"
+ ],
+ "calisma_ortami": "Mekaniker-Fabrika Bakımı, sanayi kuruluşlarının üretim atölyelerinde, fabrika bakım birimlerinde ve tesis içindeki çeşitli bölümlerde (makine daireleri, enerji odaları, depolar vb.) çalışır. Çalışma ortamı genellikle gürültülü, yağlı ve tozlu olabilir; bazı görevler yüksekte, dar alanlarda veya elektrik riski taşıyan bölümlerde yürütülür. Arızaların aniden ortaya çıkması nedeniyle çalışma saatleri düzensizleşebilir, vardiyalı çalışma ve mesai gerekebilir.\n\nGörevlerini yerine getirirken işletme mühendisleri, diğer bakım teknisyenleri, üretim personeli ve ustabaşı ile sürekli iletişim halindedir. İş sağlığı ve güvenliği kurallarına uyum, özellikle yüksek gerilim hatları ve hareketli makine parçalarıyla çalışırken büyük önem taşır.",
+ "gorevler": [
+  "İşletmenin çalışma prensipleri doğrultusunda iş organizasyonu yapar,",
+  "Fabrikadaki makinelerin bakımını yapmak üzere parçaları söker, temizler, yağlar ve yerine monte eder,",
+  "Makinelerde meydana gelen arızanın nedenini ve yerini belirlemek için kontrol ve ölçüm yaparak arızalı parçayı tespit eder,",
+  "Arızalı parçayı tümüyle ya da kısmen söker, onarır veya onarılamayacak durumda olanları yenisiyle değiştirir,",
+  "Bir kuruluşun mekanik donanımının tamir ve bakımında ihtisas sahibi olacak şekilde mekanik bakım-onarım işlerini yürütür,",
+  "Yüksek gerilim hatlarının elektrik teçhizatını, kablolarını ve bağlantılarını kurar ve tamir eder,",
+  "Fabrika bünyesindeki ahşap bölümleri (kapı, pencere, platform, dolap vb.) yapar ve tamir eder,",
+  "Duvarları, döşemeleri ve ahşap yerleri boyar,",
+  "Bakım ve tamir işlerini düzenli yürütebilmek için el takımlarını ve ekipmanlarını temiz ve çalışır durumda tutar,",
+  "Çıkabilecek arızaları önlemek için periyodik bakım programlarına göre kontrol ve ayarları yapar,",
+  "Yaptığı çalışmaları raporlayarak ilgililere iletir,",
+  "Mesleki gelişim faaliyetlerinde bulunur"
+ ],
+ "egitim": {
+  "verildigi_yerler": "Mekaniker-Fabrika Bakımı mesleği için resmî olarak tanımlanmış, bu adla açılan ayrı bir mesleki ve teknik eğitim alanı/dalı bulunmamaktadır. Mesleğe yönelik beceriler, Mesleki Eğitim Merkezlerinin \"Makine Teknolojisi\", \"Elektrik-Elektronik Teknolojisi\" gibi ilgili alan/dallarında, Halk Eğitim Merkezleri ile İŞKUR'un açtığı mesleki eğitim kurslarında ve işletmelerde işbaşında usta yanında kazanılmaktadır.",
+  "sure_ve_icerik": "Standart ve zorunlu olarak tanımlanmış tek bir eğitim süresi yoktur. İlgili mesleki eğitim merkezi programları genellikle çıraklık ve kalfalık/ustalık kademeleriyle birkaç yıl sürmekte, haftanın bir günü teorik ders, kalan günlerinde işyerinde usta öğretici gözetiminde pratik çalışma şeklinde yürütülmektedir. İçerikte genel mekanik bakım-onarım bilgisi yanında temel elektrik tesisatı, basit marangozluk ve boya-badana bilgileri de yer alabilir.",
+  "belge": "İlgili mesleki eğitim merkezinden kalfalık ve ustalık belgesi alınabilir. Ayrıca Mesleki Yeterlilik Kurumu (MYK) tarafından ilgili bakım-onarım alanlarında verilen yeterlilik belgeleri, istihdamda tercih sebebi olabilir.",
+  "giris_kosullari": [
+   "En az ilköğretim/ortaokul mezunu olmak",
+   "Çıraklık eğitimine başlamak için 14 yaşını doldurmuş olmak",
+   "Mesleğin gerektirdiği fiziksel işleri yapabilecek sağlık durumuna sahip olmak"
+  ]
+ },
+ "calisma_alanlari": "Mekaniker-Fabrika Bakımı, başta imalat ve üretim tesisleri olmak üzere makine donanımına sahip her türlü sınai kuruluşun bakım-onarım birimlerinde çalışabilir. Tekstil, gıda, metal, kimya, enerji üretimi gibi çok çeşitli sektörlerdeki fabrikaların bakım ekiplerinde, ayrıca büyük işletmelerin tesis yönetimi/teknik hizmet birimlerinde istihdam edilme olanağı bulunmaktadır. Hem kamu hem de özel sektör işletmelerinde iş bulma imkânı vardır; tecrübe ve çok yönlü beceri (mekanik, elektrik, ahşap işleri) sahibi olanlar tercih edilmektedir.",
+ "kazanc": {
+  "egitim_suresince": "Çıraklık/mesleki eğitim kapsamında işletmede eğitim görenlere, 3308 sayılı Mesleki Eğitim Kanunu çerçevesinde asgari ücretin belirli bir oranından aşağı olmamak üzere ücret ödenir; sigorta primleri devletçe karşılanır.",
+  "egitim_sonrasi": [
+   "Kamu kuruluşlarında çalışanlar, tabi oldukları kanun (657 sayılı Kanun veya işçi statüsünde toplu iş sözleşmesi) hükümlerine göre ücret alır.",
+   "Özel sektörde yeni başlayanların kazancı genellikle asgari ücret düzeyindedir; işletme büyüklüğü, deneyim, bilgi-beceri düzeyi ve sektöre göre bu ücret artabilir.",
+   "Çok yönlü beceriye (mekanik-elektrik-ahşap-boya) sahip, tecrübeli ve ihtisaslaşmış mekanikerler daha yüksek ücret elde edebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleki eğitim merkezinden kalfalık/ustalık belgesi alanlar, ilgili alanın devamı niteliğindeki ön lisans/lisans programlarına yönelebilir; ayrıca çeşitli mesleki eğitim kurslarına ve sertifika programlarına katılarak bilgi ve becerilerini geliştirebilirler.",
+  "is_hayatinda": "Deneyim kazandıkça ekip lideri, usta başı veya bakım-onarım şefliği gibi görevlere yükselebilirler. Mesleki gelişim kursları ve seminerlere katılarak uzmanlaşabilir, özellikle belirli bir makine türünde ihtisas sahibi olarak tercih edilen bir teknisyen konumuna gelebilirler."
+ },
+ "benzer_meslekler": [
+  "Makine Bakım Ustası",
+  "Makine Bakım ve Onarımcısı",
+  "Makine Montaj ve Bakım Onarımcısı",
+  "Mekanik Bakım ve Onarımcısı (Motorlu Taşıtlar Hariç)",
+  "Makine Kurma ve Tesisat İşçisi",
+  "İş Makineleri Tamircisi"
+ ],
+ "ek_bilgiler": "Mekaniker-Fabrika Bakımı, diğer bakım-onarım mesleklerinden farklı olarak tek bir kuruluşun genel bakım ihtiyaçlarını karşılayan, mekanik bakım-onarımın yanı sıra yüksek gerilim elektrik tesisatı, ahşap işleri ve boya-badana gibi birden fazla alanda görev üstlenen çok yönlü bir meslektir. Bu nedenle farklı alanlarda temel bilgi ve beceri sahibi olmak, istihdamda önemli bir avantaj sağlar.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T02:44:23",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6466
+  }
+ }
+}

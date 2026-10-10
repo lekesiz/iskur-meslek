@@ -1,0 +1,83 @@
+{
+ "arac_gerec": [
+  "Su pompaları ve pompa grupları",
+  "Filtreler",
+  "Fanlar",
+  "Vanalar ve boru hatları",
+  "Kaplin ve salmastra malzemeleri",
+  "Yağlama ekipmanları ve yağlar",
+  "El takımları (anahtar, pense, tornavida vb.)",
+  "Basınç ve debi ölçüm cihazları",
+  "Kişisel koruyucu donanım (baret, eldiven, kulaklık, iş elbisesi, çizme)",
+  "Vardiya ve çalışma raporu defterleri",
+  "Telsiz/haberleşme cihazı",
+  "Taşıma ve kaldırma ekipmanları (gerektiğinde)"
+ ],
+ "benzer_meslekler": [
+  "Arıtma Tesisi İşletme Operatörü",
+  "Atıksu Pompa Operatörü",
+  "Pompa İstasyonu Operatörü (Petrol ve Doğal Gaz Hariç)",
+  "Su Arıtma Tesisi İşletme Operatörü",
+  "Nezaretçi ve Ustabaşı (Su İstihsal ve Dağıtımı)",
+  "Su SCADA Operatörü"
+ ],
+ "calisma_alanlari": "Su Pompası Operatörü; belediyelerin su ve kanalizasyon idarelerine bağlı su üretim, iletim ve dağıtım tesislerinde, içme suyu ve atık su pompa istasyonlarında, sulama birliklerine bağlı tesislerde, sanayi işletmelerinin su temin ve proses suyu pompalama ünitelerinde, maden işletmelerinde ve enerji üretim tesislerinin su sistemlerinde istihdam edilebilir.\\n\\nKentleşme, sanayileşme ve içme suyu-atık su altyapı yatırımlarının sürmesi bu alandaki istihdam olanaklarını desteklemektedir. İş bulma olanağı, bölgedeki su ve kanalizasyon idareleri, belediyeler ile su kullanan sanayi tesislerinin yoğunluğuna göre değişmektedir.",
+ "calisma_ortami": "Su Pompası Operatörü, su üretim, arıtma veya dağıtım tesislerindeki pompa dairelerinde, makine dairelerinde ve pompa istasyonlarında, genellikle kapalı mekanlarda, bazen de açık sahalarda çalışır. Çalışma ortamında nem, gürültü ve titreşim gibi fiziksel etkenler bulunabilir; dar alanlarda, su ile temas halinde veya yükseklik gerektiren noktalarda çalışması gerekebileceğinden iş sağlığı ve güvenliği kurallarına titizlikle uyması önemlidir.\n\nTesisler çoğunlukla kesintisiz (7/24) işletildiğinden çalışma genellikle vardiyalı düzende yürütülür. Görevini yerine getirirken amirleri, diğer işletme personeli ve bakım-onarım ekipleriyle yakın iş birliği içinde olur; gerektiğinde ekip çalışması kapsamında fiziksel güç gerektiren taşıma ve yükleme-boşaltma işlerinde de görev alabilir.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi genellikle işyerlerinde işbaşında usta/deneyimli operatör yanında uygulamalı olarak verilmektedir. Bunun yanında Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kursları ile ilgili mesleki ve teknik eğitim kurumlarında da temel düzeyde eğitim alınabilmektedir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "İşin gerektirdiği fiziksel koşullara ve sağlık durumuna uygun olmak",
+   "Bazı işletmelerde ortaokul veya lise mezuniyeti tercih sebebi olabilir"
+  ],
+  "sure_ve_icerik": "Mesleğin eğitimi için resmi olarak standartlaştırılmış, belirli süreli bir okul programı bulunmamaktadır. Eğitim genellikle işe alındıktan sonra işyerinde kısa süreli (birkaç hafta ile birkaç ay arasında değişebilen) işbaşı eğitimi şeklinde verilir. Eğitim içeriğinde; pompa, filtre ve fanların çalışma prensipleri, çalıştırma-durdurma ve ayar işlemleri, boru hattı ve vana kontrolleri, kaplin ve salmastra bakımı, yağlama ve periyodik bakım işlemleri, arıza tespiti, iş sağlığı ve güvenliği kuralları ile vardiya/rapor tutma usulleri yer alır.",
+  "belge": "İşyerinde verilen işbaşı eğitimleri sonunda genellikle resmi bir diploma düzenlenmez. Halk Eğitim Merkezleri veya İŞKUR kursları sonunda katılım/kurs bitirme belgesi verilebilir. Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "ek_bilgiler": "Görev yapılan tesisin niteliğine ve çalışma koşullarına (dar alan, yükseklik, su ile temas gibi) bağlı olarak işe giriş sağlık muayenesi ve periyodik iş sağlığı güvenliği eğitimleri gerekebilir.",
+ "genel_ozellikler": [
+  "Mekanik ilgisi olan,",
+  "El ve beden becerisi gelişmiş,",
+  "Dikkatli ve sorumluluk sahibi,",
+  "Fiziksel olarak sağlıklı ve dayanıklı,",
+  "Takım çalışmasına yatkın,",
+  "Vardiyalı çalışma düzenine uyum sağlayabilen,",
+  "Sorun çözme becerisine sahip,",
+  "Talimat ve kurallara uyan"
+ ],
+ "gorevler": [
+  "İşletme talimatı ve amirlerinin direktifleri doğrultusunda günlük çalışma programını yapar ve uygular.",
+  "Pompa, filtre ve fanların gerekli çalıştırma, durdurma, ayarlama gibi operasyonlarını yapar.",
+  "Boru hatlarındaki akışları kontrol eder.",
+  "Tesisteki vana kontrollerini yapar.",
+  "Pompa kaplin ayarı yapar.",
+  "Filtre değişimi yapar.",
+  "Çalıştığı makinelerin yağlarını kontrol eder, eksilmişse tamamlar, eskimişse değiştirir.",
+  "Pompaların salmastrasını değiştirir.",
+  "Kullandığı makine, takım, teçhizat ile çalıştığı kısmın gerekli bakım ve temizlik işlerini yapar.",
+  "Vardiya raporlarını işler.",
+  "İşletmede meydana gelen anormal durumları, aksaklık ve arızaları zamanında tespit eder, giderilmesi için gerekli çalışmayı yapar; gideremediği arızayı amirine bildirir.",
+  "İşletme anında ve genel bakım ve arıza duruşlarında diğer işletme personeline ve bakım onarım ekibine yardımcı olur.",
+  "Gerektiğinde yükleme, boşaltma, taşıma gibi işleri yapar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Deneyim kazandıkça katıldığı işbaşı eğitimler, kurslar ve sertifika programlarıyla bilgi ve becerilerini geliştirebilir; pompa ve tesis sistemleri konusunda ileri düzey eğitimlere yönelebilir.",
+  "is_hayatinda": "Tecrübe ve performansına göre usta başı, vardiya amiri veya işletme sorumlusu gibi görevlere yükselebilir. İlgili alanda ek eğitim alarak tekniker düzeyinde pozisyonlara geçiş yapma şansı da bulunmaktadır."
+ },
+ "kazanc": {
+  "egitim_suresince": "İşyerinde verilen işbaşı eğitimler süresince genellikle ayrı bir ücret söz konusu değildir. İŞKUR tarafından düzenlenen mesleki eğitim kurslarına katılanlara ilgili mevzuat kapsamında kursiyer harçlığı ödenebilir.",
+  "egitim_sonrasi": [
+   "Kamuya bağlı kuruluşlarda (belediye, su ve kanalizasyon idareleri gibi) işçi statüsünde çalışanların ücreti toplu iş sözleşmesi hükümlerine göre belirlenir.",
+   "Özel sektörde ücret, işletmenin büyüklüğü, kişinin tecrübe ve bilgi birikimine göre değişmektedir.",
+   "Mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar; deneyim arttıkça ücret düzeyi yükselebilir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T11:00:05",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6407
+  }
+ }
+}

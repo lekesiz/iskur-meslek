@@ -1,0 +1,75 @@
+{
+ "arac_gerec": [
+  "Çözgülü örme makinesi (warp örme tezgahı)",
+  "İplik bobinleri/koniler ve çözgü levendi",
+  "Desen kartları veya bilgisayarlı desen hazırlama programları",
+  "Makine kontrol paneli ve elektronik ayar üniteleri",
+  "İğne, platin ve kılavuz elemanları",
+  "Kesim makası ve el aletleri",
+  "Bakım ve yağlama ekipmanları, anahtar takımları",
+  "Kalite kontrol aletleri (büyüteç, cetvel, örnek karşılaştırma panoları)",
+  "Kumaş sarma ve toplama tertibatı",
+  "Kişisel koruyucu donanım (eldiven, koruyucu gözlük, kulak koruyucu)"
+ ],
+ "genel_ozellikler": [
+  "El ve göz koordinasyonuna sahip,",
+  "Dikkatli ve titiz,",
+  "Renk ve deseni ayırt edebilen,",
+  "Sabırlı ve düzenli çalışabilen,",
+  "Teknik alet ve makineleri kullanmaya yatkın,",
+  "Uzun süre ayakta çalışabilecek fiziksel dayanıklılığa sahip,",
+  "Takım halinde çalışmaya uyumlu"
+ ],
+ "calisma_ortami": "Çözgülü Örme Makinesi Operatörü, tekstil fabrikaları ile örme kumaş üreten atölyelerde, kapalı mekanlarda çalışır. Çalışma ortamı genellikle gürültülü olup, havalandırmanın yetersiz olduğu işyerlerinde ortamda iplik tozu bulunabilir. Makinelerin hareketli parçaları nedeniyle iş güvenliği kurallarına uyulması önemlidir.\n\nÇalışma tam gün esasına dayanır; işletmenin üretim programına göre vardiyalı çalışma söz konusu olabilir. Meslek elemanı, çalışırken ağırlıklı olarak makine ve iplik ile ilgilenir; zaman zaman vardiya arkadaşları, bakım personeli ve işyeri yöneticileriyle iletişim kurar.",
+ "gorevler": [
+  "Hazırlık işlemlerini yapar.",
+  "Desen tasarımı yapar.",
+  "Deseni örme makinesine aktarır.",
+  "Üretim planlaması yapar.",
+  "Örme makinesinde üretim yapar.",
+  "Ürünlerin kalitesini kontrol eder.",
+  "Örme makinelerinin bakım, onarım ve temizliğini yapar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi, mesleki ve teknik eğitim okullarının tekstil teknolojisi alanına bağlı örme ile ilgili programlarında verilmektedir. Ayrıca Halk Eğitimi Merkezleri ve İŞKUR tarafından açılan mesleki eğitim kurslarında da bu mesleğe yönelik eğitim verilebilmektedir. Mesleğe, işyerlerinde işbaşında usta yanında yetişerek de girilebilmektedir.",
+  "giris_kosullari": [
+   "Örgün mesleki ve teknik eğitim programlarına kayıt için ilgili okulun aradığı öğrenim şartlarını taşımak",
+   "Halk Eğitimi Merkezi ve benzeri kurslara katılmak için okur yazar olmak ve kursun belirlediği yaş/sağlık şartlarını taşımak",
+   "18 yaşından küçüklerin kurslara katılımı veli izni ile mümkündür",
+   "İşbaşında yetişme yolunda, işverenin belirlediği fiziksel ve sağlık koşullarını taşımak"
+  ],
+  "sure_ve_icerik": "Örgün mesleki ve teknik eğitimde eğitim süresi ilgili programın müfredatına göre değişmekte olup, iplik bilgisi, örme teknolojisi, desen hazırlama ve aktarma, makine bakımı ve kalite kontrolü gibi konuları kapsamaktadır. Kurslarda ve işbaşı eğitimde süre işletmeye ve kursun içeriğine göre değişmekle birlikte genellikle birkaç aya kadar sürebilmekte; bu süreçte iplik takma, çözgü hazırlama, desen aktarma, makinenin çalıştırılması, hata tespiti ve giderilmesi ile temel bakım konularında bilgi ve beceri kazandırılmaktadır.",
+  "belge": "Örgün eğitimi tamamlayanlara diploma, kurslara katılanlara Kurs Bitirme Belgesi verilmektedir. Ayrıca Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Çözgülü Örme Makinesi Operatörü, tekstil ve örme sektöründe örme kumaş üreten fabrika ve atölyelerde istihdam edilebilir. Mesleğin kamu kurumlarında istihdam olanağı bulunmamaktadır. Özel sektörde iş bulma olanağı, tekstil sanayinin yoğunlaştığı illerde ve organize sanayi bölgelerinde daha fazladır.",
+ "kazanc": {
+  "egitim_suresince": "Örgün eğitim süresince herhangi bir kazanç söz konusu değildir. İşbaşında usta yanında yetişenler, çıraklık döneminde işletmenin uygulamasına bağlı olarak sınırlı bir ücret alabilir.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanların kazancı genellikle asgari ücret düzeyindedir.",
+   "Deneyim, bilgi ve beceri düzeyi ile çalışılan işletmenin büyüklüğüne bağlı olarak ücret artabilmektedir.",
+   "Özel sektörde ücret, işveren ile çalışan arasındaki anlaşmaya göre belirlenmektedir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "İşletme bünyesinde düzenlenen hizmet içi eğitim programlarıyla mesleki bilgi ve beceriler geliştirilebilir. İsteyenler, Mesleki Yeterlilik Kurumu (MYK) tarafından yapılan sınavlara girerek yeterlilik belgesi alabilir.",
+  "is_hayatinda": "Deneyim kazanan meslek elemanları usta, formen, vardiya amiri veya atölye şefi gibi pozisyonlara yükselebilir. Yeterli bilgi, beceri ve sermaye birikimine sahip olanlar kendi işyerini açabilir."
+ },
+ "benzer_meslekler": [
+  "Çorap Örme Makinesi Operatörü",
+  "Örgü Makinası Operatörü",
+  "Örgü Makinesi Operatörü (Bilgisayarlı)/Trikotaj",
+  "Trikotajcı/Endüstriyel Örmeci",
+  "Örme Operatörü",
+  "Kompleci (Yuvarlak Örme Makinesi Operatörü)"
+ ],
+ "ek_bilgiler": "Mesleğin icrası, makine ve ekipman kullanımı nedeniyle iş sağlığı ve güvenliği açısından dikkat gerektirmektedir. Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T13:59:51",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5120
+  }
+ }
+}

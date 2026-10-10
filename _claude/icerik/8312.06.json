@@ -1,0 +1,75 @@
+{
+ "arac_gerec": [
+  "El feneri (portatif aydınlatma)",
+  "Vagon muayene çekici (kontrol çekici)",
+  "Fren hortumu ve contaları",
+  "İletişim araçları (telsiz, telefon)",
+  "Arıza/muayene bildirim formları",
+  "İşaret bayrakları ve işaret levhaları",
+  "Isı kontrolüne yardımcı el aletleri",
+  "Yağlama ekipmanları",
+  "El aletleri (anahtar takımı, pense vb.)",
+  "Koruyucu iş elbisesi ve reflektörlü yelek",
+  "İş eldiveni ve koruyucu baret",
+  "İlkyardım çantası"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve gözlem gücü yüksek,",
+  "Sorumluluk sahibi ve titiz,",
+  "İşitme duyusu gelişmiş (ses ile arıza fark edebilen),",
+  "El becerisine sahip,",
+  "Fiziksel olarak sağlıklı ve dayanıklı,",
+  "Açık havada, her türlü iklim koşulunda ve gerektiğinde gece çalışmaya istekli,",
+  "Ekip halinde çalışmaya uyumlu,",
+  "İş güvenliği kurallarına eksiksiz uyan"
+ ],
+ "calisma_ortami": "\"Revizörler, tren istasyonlarında, manevra alanlarında ve vagon park yerlerinde, çoğunlukla açık havada çalışır. Görevlerini yerine getirirken vagonların altına ve yanlarına eğilerek, zaman zaman dar ve karanlık alanlarda kontrol yapmaları gerekir. Çalışma ortamında gürültü, titreşim, soğuk veya sıcak hava koşulları, hareketli araçların yakınında bulunma gibi riskler söz konusudur; bu nedenle iş sağlığı ve güvenliği kurallarına titizlikle uyulması önemlidir.\\n\\nÇalışma saatleri vardiyalı olup gece, gündüz, hafta sonu ve resmî tatillerde de çalışma gerektirebilir. Revizörler görevleri sırasında istasyon görevlileri, tren teşkil memurları, makinistler ve atölye/fabrika personeli ile sürekli iletişim ve koordinasyon içinde çalışır.\"",
+ "gorevler": [
+  "Yolcu ve yük trenlerini sefere hazırlama kapsamında camları, koltukları, perdeleri, frenleri, sofaj ve fren hortumlarını, elektrik bağlantılarını ve vagonların alt bandajlarını elle ve gözle kontrol eder.",
+  "Arızaları belirler ve mümkün olduğunca onarmaya çalışır.",
+  "Trenin gelişinde tren sesini dinleyerek arıza olup olmadığını anlar.",
+  "Dingil başlıklarında ısınma olup olmadığını kontrol eder.",
+  "Onarılamayan arızalar için arıza formları doldurur ve onarım için atölye ya da fabrikaya bildirir.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Revizörlük mesleğinin eğitimi genellikle TCDD'nin kendi eğitim merkezlerinde ve işbaşında usta-çırak ilişkisi içinde verilmektedir. Ayrıca Türkiye İş Kurumu (İŞKUR) ve Halk Eğitim Merkezleri tarafından açılan mesleki eğitim kurslarında da ilgili temel bilgiler kazandırılabilir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "TCDD veya ilgili demiryolu işletmesinin açtığı işe alım sürecine (sınav/mülakat) katılmak",
+   "Görevin gerektirdiği sağlık şartlarını (özellikle işitme ve görme sağlığı) taşıyor olmak",
+   "İşe alım sürecinde istenen yaş ve diğer genel şartları karşılamak"
+  ],
+  "sure_ve_icerik": "Mesleğin resmî olarak tanımlanmış standart bir örgün eğitim programı bulunmamaktadır. İşe alınan kişiler, kurum içi oryantasyon ve işbaşı eğitim sürecinde; vagon ve lokomotif tanıma, fren sistemleri, elektrik bağlantıları, arıza tespit teknikleri ve iş sağlığı-güvenliği konularında teorik ve uygulamalı eğitim alır. Eğitim süresi kuruma göre değişebilir.",
+  "belge": "Eğitim sürecini tamamlayanlara, görevi yapmaya yeterli olduklarını gösteren kurum içi sertifika veya göreve başlama onayı verilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "\"Revizörler başta Türkiye Cumhuriyeti Devlet Demiryolları (TCDD) olmak üzere, demiryolu taşımacılığı yapan kamu ve özel sektör işletmelerinde, yük ve yolcu vagonlarının bulunduğu istasyon ve manevra sahalarında istihdam edilir. Demiryolu taşımacılığının geliştirilmesine yönelik yatırımlar arttıkça bu alandaki istihdam olanaklarının da artması beklenmektedir.\"",
+ "kazanc": {
+  "egitim_suresince": "İşe alım ve işbaşı eğitim sürecinde çalışanlar genellikle asgari ücret düzeyinde bir ücret alır.",
+  "egitim_sonrasi": [
+   "Kamu kurumunda (TCDD gibi) memur statüsünde çalışanlar 657 sayılı Devlet Memurları Kanunu'na, işçi statüsünde çalışanlar ise ilgili toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde çalışanların ücreti işveren ile yapılan anlaşmaya, deneyime ve işletmenin büyüklüğüne göre değişiklik gösterir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Revizörler, deneyim kazandıkça kurum içi ek eğitimlere katılarak bilgi ve becerilerini geliştirebilir; isteyenler ilgili mesleki ve teknik eğitim programlarına yönelerek demiryolu alanında daha üst düzey teknik unvanlara hazırlanabilir.",
+  "is_hayatinda": "Deneyimli revizörler, kurum içindeki kariyer basamaklarında usta revizör, vardiya sorumlusu, sürveyan veya kontrolör gibi gözetim ve denetim görevlerine yükselebilir."
+ },
+ "benzer_meslekler": [
+  "Demiryolu Frencisi",
+  "Tren Teşkil Memuru (Gar)",
+  "Tren Teşkil Memuru (Trende)",
+  "Tren Teşkil Memuru (Ara İstasyonlarda)",
+  "Demiryolu Yol Kontrol Görevlisi",
+  "Tesisler Kontrolörü (Demiryolu)"
+ ],
+ "ek_bilgiler": "\"Revizörlük, vagonların hareketli olduğu alanlarda ve bazen dar/karanlık bölgelerde yapılan kontrolleri içerdiğinden iş güvenliği kurallarına uyum büyük önem taşır. Görev, tren hareketleriyle koordineli yürütüldüğü için dikkat ve zamanlama becerisi gerektirir.\"",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T18:08:32",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 4776
+  }
+ }
+}

@@ -1,0 +1,77 @@
+{
+ "gorevler": [
+  "Günlük iş planı ve iş organizasyonu yapar.",
+  "Su ürünlerinin temizlenme özelliğine göre temizliğini yapar.",
+  "Su ürünlerinin ön işleme işlemlerini uygular.",
+  "Su ürünlerini işler.",
+  "İşlenmiş su ürünlerini paketler ve etiketler.",
+  "İşlenen ürünlerin soğuk zincir ve şoklama kurallarına uygun olarak muhafazasını sağlar.",
+  "Çalıştığı ortamda sağlık ve hijyen kurallarına uyar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "arac_gerec": [
+  "Temizleme ve fileto bıçakları",
+  "Pullama ve ayıklama aletleri",
+  "Kesme tahtaları ve çalışma tezgahları",
+  "Yıkama ve temizleme havuzları",
+  "Tartılar",
+  "Şoklama ve dondurma dolapları",
+  "Soğuk hava depoları, buzdolapları",
+  "Paketleme ve vakumlama makineleri",
+  "Etiketleme makinesi",
+  "Buz üretim makinesi",
+  "Taşıma kasaları ve bantları",
+  "Koruyucu giysi, önlük, eldiven, çizme",
+  "Hijyen ve dezenfeksiyon malzemeleri"
+ ],
+ "genel_ozellikler": [
+  "El becerisine sahip,",
+  "Dikkatli ve titiz,",
+  "Kokuya ve suya karşı hassasiyeti olmayan,",
+  "Soğuk ve nemli ortamda çalışabilecek sağlık durumuna sahip,",
+  "Hijyen kurallarına duyarlı,",
+  "Takım halinde çalışabilen,",
+  "Fiziksel olarak dayanıklı,",
+  "El-göz koordinasyonu gelişmiş,"
+ ],
+ "calisma_ortami": "Su Ürünleri Gıda İşleme İşçisi, su ürünleri işleme tesislerinde, soğuk hava depolarında ve bazı durumlarda kıyı/deniz kenarındaki işleme ünitelerinde çalışır. Çalışma ortamı genellikle nemli, soğuk ve kaygandır; sürekli su, buz ve deniz ürünü kokusuyla teması vardır. Kesici aletlerle çalışıldığından el kesilmesi, ıslak ve kaygan zeminden dolayı düşme gibi riskler bulunur. Uzun süre ayakta ve eğilerek çalışma gerektirir.\n\nÇalışma saatleri, işlenen su ürününün türüne ve av/üretim sezonuna göre değişebilir; sezon yoğunluğunda vardiyalı veya uzun süreli çalışma söz konusu olabilir. Meslek elemanı; işyeri yöneticileri, diğer işleme işçileri, kalite kontrol personeli ve gerektiğinde tedarikçilerle iletişim kurar.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin örgün bir meslek lisesi programı bulunmamaktadır. Temel beceriler genellikle işbaşında usta yanında çalışılarak kazanılır. Ayrıca Halk Eğitim Merkezleri ve İŞKUR tarafından açılan mesleki eğitim kurslarında su ürünleri işleme konusunda eğitim verilebilmektedir. İlerlemek isteyenler için su ürünleri/gıda teknolojisi alanında meslek yüksekokulu ve ilgili lisans programları (örneğin Su Ürünleri Mühendisliği) bulunmaktadır.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "Soğuk ve nemli ortamda, ayakta çalışmaya uygun sağlık durumuna sahip olmak",
+   "Kurslara katılım için ilgili kurumun belirlediği yaş ve eğitim şartlarını taşımak"
+  ],
+  "sure_ve_icerik": "İşbaşında yetişme süresi işyerine ve kişinin beceri kazanma hızına göre değişir. Kurum ve kuruluşlarca açılan kursların süresi değişmekle birlikte genellikle su ürünlerinin tanınması, temizleme ve ayıklama, ön işleme, işleme, paketleme-etiketleme, soğuk zincir uygulamaları ve iş sağlığı-hijyen kuralları gibi konuları kapsar.",
+  "belge": "İşbaşı eğitimlerde resmi bir diploma verilmez; katılınan kurslar sonunda katılım veya kurs tamamlama belgesi alınır. Mesleki Yeterlilik Kurumu (MYK) belgesi, bazı işyerlerinde istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Su Ürünleri Gıda İşleme İşçisi; su ürünleri işleme ve paketleme tesislerinde, balık ve deniz ürünleri üretim/avlanma işletmelerinde, su ürünleri çiftliklerinde, kooperatiflerde, soğuk hava depolarında, ihracata yönelik su ürünleri işleme fabrikalarında ve market/şarküteri su ürünleri reyonlarında çalışabilir. Sektördeki istihdam, su ürünleri üretim ve ihracat hacmine bağlı olarak mevsimsel dalgalanma gösterebilir.",
+ "kazanc": {
+  "egitim_suresince": "İşbaşında yetişenler çalıştıkları işyerinden ücret alır. Kurslara katılanlar, kursu düzenleyen kurumun (İŞKUR, Halk Eğitim Merkezi vb.) uygulamalarına göre değişen haklardan yararlanabilir.",
+  "egitim_sonrasi": [
+   "Yeni başlayanlarda kazanç genellikle asgari ücret düzeyindedir.",
+   "Kamuya bağlı işletmelerde işçi statüsünde çalışanların ücreti toplu iş sözleşmesi hükümlerine göre belirlenir.",
+   "Özel sektörde kazanç; işyerinin büyüklüğü, kişinin deneyimi, bilgisi ve sektörün ücret düzeyine göre değişebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Deneyim ve beceri kazandıkça ustabaşılık, vardiya sorumluluğu veya kalite kontrol gibi görevlere yükselebilir. Su ürünleri/gıda teknolojisi alanında meslek yüksekokulu veya lisans eğitimi alarak teknik ve mühendislik kademelerine geçiş yapabilir.",
+  "is_hayatinda": "Deneyimli işçiler ustabaşı, bölüm sorumlusu veya üretim/kalite kontrol şefi olabilir. Yeterli deneyim ve sermaye birikimiyle kendi işletmesini kurabilir."
+ },
+ "benzer_meslekler": [
+  "Balık Temizleme İşçisi",
+  "Ton Balığı Temizleme Ayıklama İşçisi",
+  "Tuzlayıcı ve Fümeci-Balık",
+  "Midye Dolma İşçisi",
+  "Salyangoz İşleme İşçisi"
+ ],
+ "ek_bilgiler": "Su ürünleri işleme işçiliğinde gıda güvenliği standartlarına (örneğin HACCP benzeri hijyen ve soğuk zincir uygulamaları) uyulması önemlidir; bu nedenle işyerleri genellikle çalışanlarına düzenli hijyen ve gıda güvenliği eğitimi verir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T06:47:20",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5372
+  }
+ }
+}

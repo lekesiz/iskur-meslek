@@ -1,0 +1,84 @@
+{
+ "arac_gerec": [
+  "El takımları (anahtar, tornavida, pense, çekiç, eğe takımları vb.)",
+  "Ölçü ve kontrol aletleri (kumpas, mikrometre, komparatör, çelik cetvel)",
+  "Motor söküm-takma takım setleri",
+  "Hidrolik kaldırma ekipmanları, caraskal ve vinç",
+  "Kompresör ve basınçlı hava tabancaları",
+  "Enjektör ve yakıt sistemi test cihazları",
+  "Yağ ve soğutma suyu test aletleri",
+  "Taşlama, zımpara ve polisaj aletleri",
+  "Kaynak ve kesme ekipmanları",
+  "Elektrikli ve pnömatik tornavida/matkap",
+  "Kişisel koruyucu donanım (iş eldiveni, koruyucu gözlük, iş elbisesi, kulak tıkacı)",
+  "Temizlik, yağlama ve conta malzemeleri",
+  "El feneri, ayna ve iç mekan kontrol yardımcıları"
+ ],
+ "genel_ozellikler": [
+  "Makine ve motor mekanizmalarına ilgili olan,",
+  "El becerisine ve el-göz koordinasyonuna sahip,",
+  "Dar, kapalı ve hareketli (gemi/tekne) ortamlarda çalışabilen,",
+  "Dikkatli ve sabırlı,",
+  "Fiziksel olarak dayanıklı ve güçlü,",
+  "Sorumluluk sahibi ve güvenilir,",
+  "Ekip içinde uyumlu çalışabilen,",
+  "Teknik yenilikleri takip etmeye açık"
+ ],
+ "calisma_ortami": "\"Mekaniker-Deniz Motorları, çalışmalarını atölyede veya limanda bağlı bulunan gemi/tekne üzerindeki motor dairesinde yürütür. Çalışma ortamı genellikle kapalı, dar, bazen sıcak bazen nemli ve soğuk olabilir; gürültü, yağ ve yakıt kokusu ile kirlilik sık görülen koşullardır. Gemi üzerinde çalışırken dar alanlarda eğilip bükülmek, ağır parçaları kaldırmak ve denizin hareketine bağlı sallanma gibi zorluklarla karşılaşılabilir; kesilme, yanma, elektrik çarpması ve ağır cisim düşmesi gibi iş kazası riskleri bulunur, bu nedenle iş sağlığı ve güvenliği kurallarına titizlikle uyulması gerekir.\\n\\nÇalışma saatleri genellikle düzenlidir, ancak gemi arızalarında acil müdahale gerektiğinden mesai dışı veya hafta sonu çalışma söz konusu olabilir. Meslek sahibi; gemi kaptanı, gemi mühendisi/baş makinist, diğer tamirci ve teknisyenler, işveren ve müşterilerle sürekli iletişim halindedir.\"",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi, ilgili mesleki ve teknik ortaöğretim kurumları ile mesleki eğitim merkezlerinde (örneğin motorlu araçlar/makine teknolojisi veya gemi ile ilgili alanlarda) verilebilmektedir. Bunun yanında usta yanında çıraklık yoluyla, Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kurslarıyla da bu mesleğe yönelik bilgi ve beceri kazanılabilir.",
+  "giris_kosullari": [
+   "En az ilköğretim/ortaokul mezunu olmak",
+   "14 yaşını doldurmuş olmak (çıraklık eğitimi için)",
+   "Sağlık durumunun mesleğin gerektirdiği fiziksel koşullara (dar alanda çalışma, ağır kaldırma vb.) uygun olması",
+   "Çıraklık eğitimi için bir işyeri bulup işveren ile çıraklık sözleşmesi imzalamak"
+  ],
+  "sure_ve_icerik": "Mesleğe yönelik resmî olarak tanımlanmış tek bir okul/alan/dal bulunmamaktadır; eğitim genellikle ilgili mesleki eğitim merkezlerinde çıraklık eğitimi şeklinde, teorik meslek dersleri ile işyerinde usta öğretici gözetiminde yürütülen uygulamalı çalışmaların birleşiminden oluşur. Deniz motorlarına özgü bilgiler (dizel, buhar, gaz motorları, gemi sistemleri) çoğunlukla işbaşında, ustanın yanında ve kurslarla kazanılır.",
+  "belge": "Çıraklık eğitimini tamamlayanlara kalfalık, ardından ustalık belgesi verilir. Ayrıca katılınan mesleki eğitim kurslarından kurs bitirme belgesi, ilgili alanda Mesleki Yeterlilik Kurumu (MYK) Mesleki Yeterlilik Belgesi alınabilir."
+ },
+ "calisma_alanlari": "\"Mekaniker-Deniz Motorları; limanlar, tersaneler, gemi bakım-onarım atölyeleri, marinalar, balıkçı barınakları ve denizcilik/nakliye şirketlerinde istihdam edilebilir. Kamu kesiminde liman başkanlıkları, Sahil Güvenlik ve benzeri kurumların bakım atölyelerinde; özel sektörde ise yat/tekne/balıkçı gemisi bakım işletmelerinde, motor servis atölyelerinde ve gemi inşa/onarım firmalarında çalışma olanağı bulunmaktadır. Deniz taşımacılığının, balıkçılığın ve tekne turizminin yoğun olduğu kıyı bölgelerinde bu mesleğe yönelik iş bulma olanakları daha fazladır.\"",
+ "gorevler": [
+  "İşletmenin genel çalışma prensipleri doğrultusunda, araç, gereç ve ekipmanları etkin biçimde kullanarak işçi sağlığı, iş güvenliği ve çevre koruma düzenlemelerine uygun olarak iş organizasyonu yapar",
+  "Atölyede veya limandaki gemi üzerinde, dizel, buhar, gaz ya da diğer tip deniz motorlarının çalışma durumunu kontrol ederek arızanın türünü ve yerini belirler",
+  "Arızalı motor parçalarını söker ve temizler",
+  "Söktüğü parçaları inceleyerek aşınma, kırılma veya bozulma olup olmadığını tespit eder",
+  "Onarılabilir parçaları tamir eder, onarılamayacak parçaları yenisiyle değiştirir",
+  "Motor parçalarını yağlayarak yerine monte eder ve ayarlarını yapar",
+  "Motorun yakıt, yağlama, soğutma ve ilgili sistemlerinin bakımını yapar",
+  "Deniz motorunu çalıştırarak basınç, sıcaklık ve verim testleri yapar ve çalışıp çalışmadığını kontrol eder",
+  "Çıkabilecek arızaları önlemek için periyodik bakım programına göre motorun düzenli bakımının yapılmasını sağlar",
+  "Bakım ve onarım işlerinde kullandığı el aletlerini, ölçü aletlerini ve ekipmanları temiz ve çalışır durumda tutar",
+  "Yaptığı çalışmaları ve değiştirdiği parçaları raporlayarak ilgililere iletir",
+  "Mesleki gelişim faaliyetlerinde bulunur"
+ ],
+ "kazanc": {
+  "egitim_suresince": "Çıraklık eğitimi kapsamında eğitim gören öğrencilere, 3308 sayılı Mesleki Eğitim Kanunu'na ve ilgili düzenlemelere uygun olarak ücret ödenir; iş kazası ve meslek hastalığı sigorta primleri karşılanır. Kurslar yoluyla eğitim alanlarda ise genellikle doğrudan bir kazanç söz konusu olmaz.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında istihdam edilenler 657 sayılı Devlet Memurları Kanunu'na veya işçi statüsünde ise ilgili toplu iş sözleşmesi hükümlerine göre ücret alır",
+   "Özel sektörde yeni başlayanların kazancı genellikle asgari ücret düzeyindedir",
+   "Deneyim, bilgi, çalıştığı işletmenin büyüklüğü ve sektör koşullarına bağlı olarak kazanç zamanla artabilir",
+   "Kendi atölyesini açanların kazancı, işletmenin büyüklüğüne ve müşteri hacmine göre değişkenlik gösterir"
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleki eğitim merkezi veya ilgili mesleki ve teknik ortaöğretim kurumundan mezun olanlar, sınavla ilgili ön lisans/lisans programlarına (örneğin gemi makineleri, motor teknolojileri ile ilgili bölümler) geçiş yapabilir. Ayrıca katıldıkları kurs ve sertifika programlarıyla deniz motorları konusundaki bilgi ve becerilerini geliştirebilirler.",
+  "is_hayatinda": "Deneyim kazanan mekanikçiler usta, atölye sorumlusu veya bakım ekip şefi konumuna yükselebilir. Gemi işletmelerinde kıdemli mekanikçi olarak görev alabilir, kendi bakım-onarım atölyesini açarak bağımsız çalışabilir."
+ },
+ "benzer_meslekler": [
+  "Mekanik Bakım ve Onarımcısı (Motorlu Taşıtlar Hariç)",
+  "Mekaniker (Dizel Motor) (Motorlu Araçlar Hariç)",
+  "Mekaniker-Pistonlu Buhar Makineleri",
+  "Mekaniker-Türbin (Uçak ve Gemi Türbinleri Hariç)",
+  "Hidrolikçi (Gemi)",
+  "Makine Bakım ve Onarımcısı"
+ ],
+ "ek_bilgiler": "\"Gemi motorlarının karmaşık yapısı ve çalışma koşullarının güvenlik açısından hassas olması nedeniyle bu meslekte uygulamalı deneyim ve usta yanında yetişme büyük önem taşır. Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda tercih sebebi olabilir.\"",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T02:43:49",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 9405
+  }
+ }
+}

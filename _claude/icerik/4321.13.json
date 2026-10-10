@@ -1,0 +1,83 @@
+{
+ "arac_gerec": [
+  "Kumanya/iaşe kayıt defteri ve talep formları",
+  "Soğuk hava deposu ve buzdolabı/dondurucu ekipmanları",
+  "Terazi ve ölçü aletleri",
+  "Stok takip çizelgeleri ve etiketleme malzemeleri",
+  "Taşıma arabaları, paletler ve istif ekipmanları",
+  "Temizlik ve hijyen malzemeleri (dezenfektan, temizlik aletleri)",
+  "Koruyucu kıyafet (önlük, eldiven, bone)",
+  "Sıcaklık ve nem ölçer (termometre)",
+  "Telsiz veya telefon gibi iletişim araçları",
+  "Havalandırma sistemleri",
+  "Kayıt ve raporlama için bilgisayar/defter"
+ ],
+ "benzer_meslekler": [
+  "Ambar Sorumlusu",
+  "Depo Sorumlusu",
+  "Ambarcı (Tersane)",
+  "Ambar/Depo Görevlisi",
+  "Sayım ve Stok Kontrol İşçisi (Tersane)",
+  "Tesellüm Görevlisi (Otel)"
+ ],
+ "calisma_alanlari": "Kumanyacılar başta ticaret gemileri (yük gemileri, tankerler, yolcu gemileri) olmak üzere, denizcilik şirketlerine ve gemi işletmeciliği yapan firmalara bağlı olarak görev alır. Deniz ticaret filosuna sahip kamu ve özel sektör kuruluşlarında, gemi acenteliklerinde ve liman işletmelerinde de istihdam edilebilirler.\\n\\nMeslekte iş bulma olanakları, ülkenin denizcilik ve deniz ticareti sektöründeki canlılığına, filo büyüklüğüne ve sefer sayılarına bağlı olarak değişmektedir. İş arayanlar genellikle denizcilik şirketlerinin doğrudan ilanları, tanıdık çevre veya İŞKUR aracılığıyla iş bulabilmektedir.",
+ "calisma_ortami": "Kumanyacılar gemilerde, kumanyalık, kuzine (gemi mutfağı) ve soğuk hava depolarında çalışır. Çalışma ortamı kapalı, zaman zaman dar, soğuk ve nemli olabilir; ağır yüklerin taşınması ve istiflenmesi nedeniyle fiziksel güç gerektiren işler yapılabilir. Gemi seferleri süresince uzun süre denizde ve kapalı mekânlarda bulunmak, çalışma hayatının bir parçasıdır.\\n\\nÇalışma saatleri, geminin sefer programına ve vardiya düzenine göre değişkenlik gösterir; düzensiz ve uzun çalışma süreleri söz konusu olabilir. Görevi sırasında gemi kaptanı ve zabitleri, gemi aşçısı ve mutfak personeli, tedarikçiler ve yiyecek-içecek teslim heyetinde görev alan kişilerle sürekli iletişim halindedir.",
+ "ek_bilgiler": "Kumanyacılık, gemi adamlığı kapsamında değerlendirilen bir meslektir. Gemide çalışabilmek için ilgili denizcilik mevzuatında yer alan sağlık muayenesi, temel güvenlik eğitimleri ve gemiadamı cüzdanı gibi şartların yerine getirilmesi gerekmektedir.",
+ "egitim": {
+  "verildigi_yerler": "Kumanyacılık mesleğine yönelik örgün bir okul eğitimi programı bulunmamaktadır. Meslek genellikle gemilerde işbaşında, deneyimli personel yanında uygulamalı olarak öğrenilir. Gemi adamı yetiştirmeye yönelik kurumların ve denizcilikle ilgili kursların verdiği temel eğitimler de mesleğe hazırlıkta destekleyici olabilir.",
+  "giris_kosullari": [
+   "İlköğretim mezunu olmak",
+   "Gemide çalışabilmek için gerekli sağlık şartlarını taşımak",
+   "Gemiadamları için öngörülen temel güvenlik eğitimlerini tamamlamış olmak",
+   "İlgili mevzuatta belirtilen asgari yaş şartını karşılamak"
+  ],
+  "sure_ve_icerik": "Mesleğe giriş genellikle gemilerde yardımcı personel olarak başlanıp zamanla deneyim kazanılması yoluyla gerçekleşir. Hijyen ve gıda güvenliği kuralları, depolama ve stok takibi, soğuk hava deposu yönetimi, yiyecek-içecek teslim alma ve kayıt tutma gibi bilgi ve beceriler işbaşında usta yanında veya ilgili kısa süreli mesleki kurslarda kazanılır. Gemide görev alabilmek için ayrıca denizcilik mevzuatınca zorunlu kılınan temel güvenlik ve denizcilik eğitimlerinin tamamlanması gerekmektedir.",
+  "belge": "Meslek için resmî bir okul diploması bulunmamaktadır; katılınan kurslardan kurs bitirme veya katılım belgesi alınabilir. Gemide çalışabilmek için gemiadamı cüzdanı ve ilgili güvenlik eğitim sertifikalarına sahip olunması gerekmektedir."
+ },
+ "genel_ozellikler": [
+  "Sorumluluk sahibi,",
+  "Düzenli ve planlı çalışan,",
+  "Dikkatli ve titiz,",
+  "Hijyen ve temizlik kurallarına önem veren,",
+  "Fiziksel olarak dayanıklı,",
+  "Ekip çalışmasına uyumlu,",
+  "Güvenilir,",
+  "Pratik ve hızlı karar verebilen kişiler olmaları gerekir."
+ ],
+ "gorevler": [
+  "Geminin kumanyalık, kuzine gibi kısımlarının temizliğinin yapılmasını ve her an hizmete hazır halde bulunmasını sağlar.",
+  "Yiyecek ve içeceklerin temini hususunda düzenlenmiş talep formunu kontrol eder.",
+  "Yiyecek ve içecek maddelerini teslim alma heyetinde görev yapar.",
+  "Kumanyalık demirbaşlarından 1. zabite karşı sorumludur.",
+  "Yiyecek listesi düzenleme heyetinde görev yapar.",
+  "Yiyecek atıklarından dolayı meydana gelecek deniz kirliliğini önlemek için gerekli tedbirleri alır.",
+  "Yemek servisinin zamanında, temiz ve düzenli yapılmasını sağlar.",
+  "Gemi kumanyalığında ve geminin iaşe maddelerine tahsis edilen soğuk hava deposundaki iaşe maddelerinin en iyi şekilde muhafaza edilmesini sağlar.",
+  "Günlük yemek listelerine ve tespit edilmiş gramaja göre lüzumlu iaşe maddelerini kumanyalıktan, soğuk hava deposundan çıkararak gemi aşçısına teslim eder, bunların miktarını kumanya defterine işler.",
+  "Gemi kumanyalıklarının soğuk hava deposunun temiz bir şekilde bulundurulmasını sağlar.",
+  "Gemiye gelen iaşe maddelerini kumanyalığa istif eder.",
+  "Kumanyalığı belirli zamanlarda havalandırır.",
+  "Temizlik kurallarına uyar, kendisine bağlı personelin temizlik kurallarına azami şekilde uymasını sağlar, uygun olmayan bir durum görmesi halinde personeli ikaz eder.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğe yönelik kademeli bir örgün eğitim sistemi bulunmamaktadır. Deneyim kazanan kumanyacılar, denizcilik alanındaki ek kurs ve sertifika programlarına katılarak bilgi ve becerilerini geliştirebilir.",
+  "is_hayatinda": "Deneyim kazandıkça daha büyük gemilerde veya daha kapsamlı iaşe yönetimi gerektiren görevlerde çalışabilir; iaşe ve kumanya işlerinin yürütülmesinde daha fazla sorumluluk taşıyan pozisyonlara yükselebilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Mesleğe yönelik örgün bir eğitim süreci bulunmadığından eğitim süresince düzenli bir kazançtan söz etmek mümkün değildir. İşbaşında yetişenler, gemide çalıştıkları süre boyunca ücret alabilirler.",
+  "egitim_sonrasi": [
+   "Yeni başlayanlar genellikle asgari ücret düzeyinde gelir elde eder.",
+   "Kamuya bağlı gemilerde çalışanlar, kamu personeli statüsüne göre 657 sayılı Devlet Memurları Kanunu veya ilgili toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde ücret, çalışılan şirkete, geminin türüne, sefer süresine ve kişinin deneyimine göre değişiklik gösterir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T16:21:20",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6599
+  }
+ }
+}

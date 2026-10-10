@@ -1,0 +1,52 @@
+Loading O*NET ...
+  Interests.txt: scale OI, 923 occupations
+  Work Values.txt: scale EX, 874 occupations
+  Work Styles.txt: scale WI, 891 occupations
+  Work Activities.txt: scale IM, 894 occupations
+  Work Styles elements: ['achievement orientation', 'adaptability', 'attention to detail', 'cautiousness', 'cooperation', 'dependability', 'empathy', 'humility', 'initiative', 'innovation', 'integrity', 'intellectual curiosity', 'leadership orientation', 'optimism', 'perseverance', 'self-confidence', 'self-control', 'sincerity', 'social orientation', 'stress tolerance', 'tolerance for ambiguity']
+  Work Styles NOT mapped to Big Five: ['initiative', 'integrity']
+  O*NET occupations with a full 17-dim profile: 842 / 1016
+Loading crosswalk ...
+  2019_to_SOC_Crosswalk.csv: 0 links (cols isco=None soc10=None soc18=O*NET-SOC 2019 Code)
+  2019_to_SOC_Crosswalk.xlsx: 0 links (cols isco=None soc10=None soc18=O*NET-SOC 2019 Code)
+  ISCO_SOC_Crosswalk.xls: 1123 links (cols isco=ISCO-08 Code soc10=2010 SOC Code soc18=None)
+  soc_2010_to_2018_crosswalk.xlsx: 900 links (cols isco=None soc10=2010 SOC Code soc18=2018 SOC Code)
+Loading ISKUR ...
+  7765 occupations
+  onet_desc: cached (842)
+  onet_tasks: cached (16385)
+  iskur_desc: cached (7765)
+  ISKUR task lines: 72017
+  iskur_tasks: embedding 72017 texts ...
+Loading weights:   0%|          | 0/199 [00:00<?, ?it/s]Loading weights: 100%|██████████| 199/199 [00:00<00:00, 33873.08it/s]
+Leave-one-out check on O*NET ...
+   {'n': 842, 'median_r_riasec': 0.9697838519127079, 'median_r_values': 0.8714486592479866, 'median_r_bigfive': 0.9690271016000283, 'first_letter_agreement': 0.8040380047505938}
+Scoring ISKUR occupations ...
+{
+  "iskur_n": 7765,
+  "onet_profiles_used": 842,
+  "iskur_with_crosswalk": 7253,
+  "iskur_with_task_text": 7765,
+  "similarity_median": 0.7209439277648926,
+  "similarity_p10_cutoff": 0.6338385820388794,
+  "low_confidence_n": 771,
+  "holland_first_letter_counts": {
+    "R": 4472,
+    "I": 370,
+    "A": 313,
+    "S": 820,
+    "E": 979,
+    "C": 811
+  },
+  "leave_one_out_onet": {
+    "n": 842,
+    "median_r_riasec": 0.9697838519127079,
+    "median_r_values": 0.8714486592479866,
+    "median_r_bigfive": 0.9690271016000283,
+    "first_letter_agreement": 0.8040380047505938
+  },
+  "model": "sentence-transformers/paraphrase-multilingual-mpnet-base-v2",
+  "top_k": 3,
+  "crosswalk_bonus": 0.04
+}
+Wrote data/iskur-meslek/profil/iskur_17boyut_profil.csv

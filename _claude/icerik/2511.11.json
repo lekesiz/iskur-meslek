@@ -1,0 +1,73 @@
+{
+ "arac_gerec": [
+  "Bilgisayar ve sunucu sistemleri",
+  "Kurumsal yazılımlar (ERP, CRM vb.)",
+  "Veritabanı yönetim sistemleri",
+  "Test ve konfigürasyon ortamları",
+  "Talep/çağrı takip (ticketing) sistemleri",
+  "Proje yönetim yazılımları",
+  "Versiyon kontrol araçları",
+  "Sunum ve eğitim materyalleri",
+  "Ağ ve uzaktan bağlantı araçları (VPN, uzak masaüstü vb.)",
+  "Ofis yazılımları",
+  "Dokümantasyon ve raporlama araçları"
+ ],
+ "benzer_meslekler": [
+  "Sistem Analisti (BT)",
+  "BT Çözümleri Uzmanı",
+  "Sistem Uzmanı/Danışmanı",
+  "BT İş Analisti (Bilişim Teknolojileri İş Analisti)",
+  "Uygulama Destek Uzmanı (Bilişim)",
+  "Bilgi İşlem Destek Uzmanı"
+ ],
+ "calisma_alanlari": "Uygulama Uzmanı/Danışmanı (Bilişim), başta kurumsal yazılım (ERP, CRM vb.) üreten ve bu yazılımların kurulum, uyarlama ve destek hizmetlerini veren bilişim ve danışmanlık firmalarında istihdam edilmektedir. Ayrıca bankacılık ve finans kuruluşlarının, kamu kurumlarının, büyük ölçekli üretim ve hizmet işletmelerinin bilgi işlem/bilişim teknolojileri birimlerinde, mevcut kurumsal yazılımların işletilmesi ve kullanıcı desteği için de çalışabilmektedir.\\n\\nİşletmelerin iş süreçlerini dijitalleştirme ve mevcut sistemlerini daha verimli kullanma eğilimlerinin artması bu mesleğe olan talebi desteklemektedir. Belirli bir yazılım ürününde (örneğin belirli bir ERP/CRM paketi) deneyim ve sertifikasyon sahibi olmak, iş bulma ve kariyer olanaklarını önemli ölçüde artırmaktadır.",
+ "calisma_ortami": "Bu meslek genellikle ofis/büro ortamında, bilgisayar başında oturarak yürütülür. Çalışmalar sıklıkla ekip halinde, proje ekipleri ve farklı birimlerle (müşteri temsilcileri, yazılım geliştirme ekibi, son kullanıcılar) yoğun iletişim gerektirecek şekilde yapılır. Uygulamanın kurulumu, test edilmesi veya kullanıcı eğitimlerinin verilmesi amacıyla müşteri işyerlerine ziyaretler düzenlenebilir; bazı pozisyonlarda uzaktan çalışma da mümkündür.\\n\\nÇalışma saatleri genellikle düzenli mesai şeklindedir; ancak proje teslim tarihlerine yaklaşıldığında veya sistemde kritik bir sorun yaşandığında yoğun çalışma ve mesai gerekebilir. İş, fiziksel olarak ağır bir yük getirmemekle birlikte, uzun süre ekran karşısında çalışmak ve zaman zaman baskı altında, hızlı çözüm üretmek gerekebilir.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi üniversitelerin; Bilgisayar Mühendisliği, Yazılım Mühendisliği, Bilgisayar Bilimleri, Yönetim Bilişim Sistemleri ve ilgili diğer mühendislik/bilgisayar bölümlerinde verilmektedir. Bu bölümlerden mezun olanlar, çalıştıkları kurumsal yazılım (ERP, CRM vb.) ürününe özgü eğitim ve sertifika programlarıyla mesleğe uyum sağlarlar.",
+  "giris_kosullari": [
+   "Lise veya dengi okul mezunu olmak",
+   "YKS (Yükseköğretim Kurumları Sınavı) kılavuzunda ilgili bölüm için belirtilen giriş koşullarını taşımak",
+   "İlgili önlisans programlarından mezun olup Dikey Geçiş Sınavı (DGS) ile lisans programına geçiş yapmak"
+  ],
+  "sure_ve_icerik": "Lisans eğitiminin süresi 4 yıldır. Eğitim süresince programlama, veritabanı yönetimi, sistem analizi ve tasarımı, iş süreçleri analizi, yazılım test yöntemleri gibi derslerle teorik ve uygulamalı bilgiler verilir. Lisans eğitimine ek olarak, çalışılan kurumsal yazılım üreticisinin (ERP, CRM vb.) sunduğu ürüne özel sertifika programları ve işbaşında eğitimler mesleğe uyum sürecinin önemli bir parçasıdır.",
+  "belge": "Eğitimini başarı ile tamamlayanlara lisans diploması verilir. Ayrıca, çalışılan kurumsal yazılım ürününe ilişkin alınan uzmanlık sertifikaları istihdamda ve kariyer ilerlemesinde tercih sebebi olabilir."
+ },
+ "ek_bilgiler": "Belirli bir kurumsal yazılım üreticisine (ERP, CRM vb.) ait uzmanlık/sertifikasyon programlarını tamamlamış olmak, bu meslekte istihdam ve kariyer ilerlemesinde önemli bir avantaj sağlamaktadır. İyi düzeyde İngilizce bilgisi, uluslararası yazılım dokümantasyonu ve destek kaynaklarının takip edilebilmesi açısından mesleğin icrasında önemli bir unsurdur.",
+ "genel_ozellikler": [
+  "Analitik düşünme ve problem çözme becerisine sahip,",
+  "Bilişim teknolojilerine ilgili ve öğrenmeye açık,",
+  "İyi düzeyde sözlü ve yazılı iletişim kurabilen,",
+  "Ekip çalışmasına uyumlu,",
+  "Dikkatli ve sabırlı,",
+  "Planlı ve düzenli çalışabilen,",
+  "Kullanıcılara bilgi aktarırken anlaşılır ifade kullanabilen,",
+  "Değişen teknolojik koşullara uyum sağlayabilen"
+ ],
+ "gorevler": [
+  "Müşteri ihtiyaçlarını analiz ederek yazılım konfigürasyonunu yapar,",
+  "Uygulama modüllerinin kurulumunu ve testlerini gerçekleştirir,",
+  "Son kullanıcılara yönelik sistem eğitimleri düzenler,",
+  "Yazılımsal hataları tespit ederek geliştirme ekibine iletir,",
+  "Mevcut sistemlerin verimliliğini artıracak modifikasyonlar önerir,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Mezunlar, bilgisayar mühendisliği, yazılım mühendisliği veya yönetim bilişim sistemleri alanlarında yüksek lisans ve doktora yaparak akademik kariyer yapabilir; ayrıca proje yönetimi, bilgi teknolojileri yönetimi veya çalıştıkları yazılım ürününe özgü ileri düzey sertifikasyon programlarına katılarak uzmanlıklarını geliştirebilirler.",
+  "is_hayatinda": "Deneyim kazandıkça kıdemli danışman/uzman, proje yöneticisi, ekip lideri gibi pozisyonlara; uzun vadede bilgi işlem/bilişim teknolojileri müdürlüğü gibi yönetici kademelerine yükselme olanağı bulunmaktadır."
+ },
+ "kazanc": {
+  "egitim_suresince": "Lisans eğitimi süresince öğrenciler, Kredi ve Yurtlar Genel Müdürlüğünün sağladığı öğrenim kredisi ve yurt hizmetlerinden, çeşitli resmi ve özel kurum/kuruluşların burslarından yararlanabilir. İsteyenler, staj veya yarı zamanlı çalışmalarla hem deneyim hem de ek kazanç elde edebilir.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında çalışanlar, 657 sayılı Devlet Memurları Kanunu'na göre öğrenim düzeylerine uygun olarak teknik hizmetler sınıfından maaş ve yan ödeme alırlar.",
+   "Özel sektörde çalışanların ücreti, çalışılan firmanın büyüklüğüne, uzmanlaşılan yazılım ürününe ve kişinin deneyimine göre değişmekte; mesleğe yeni başlayanlarda kazanç genellikle asgari ücret düzeyine yakın başlayıp deneyim arttıkça yükselmektedir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T05:50:40",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 4605
+  }
+ }
+}

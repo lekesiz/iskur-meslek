@@ -1,0 +1,69 @@
+{
+ "arac_gerec": [
+  "Bilgisayar ve ofis yazılımları",
+  "Telefon ve faks",
+  "İnternet ve e-posta sistemleri",
+  "Fotokopi makinesi ve yazıcı",
+  "Gemi evrakları (manifesto, konşimento, yük listesi vb.)",
+  "Liman ve gümrük formları",
+  "Resmi yazışma ve dosyalama malzemeleri",
+  "Telsiz/iletişim cihazları",
+  "Denizcilik mevzuatı ve el kitapları",
+  "Ulaşım aracı (liman ve kurum ziyaretleri için)",
+  "Tanıtım kartı (resmî kimlik belgesi)"
+ ],
+ "genel_ozellikler": [
+  "İletişim becerisine sahip,",
+  "Sorumluluk sahibi ve güvenilir,",
+  "Organizasyon yeteneği olan,",
+  "Dikkatli ve titiz,",
+  "Tercihen yabancı dil (özellikle İngilizce) bilen,",
+  "Değişken ve esnek çalışma saatlerine uyum sağlayabilen,",
+  "İnsan ilişkilerinde başarılı,",
+  "Resmî kurumlarla iş takibi yapabilecek ikna ve takip gücüne sahip"
+ ],
+ "calisma_ortami": "Gemi Acente Personeli, çalışmalarının bir bölümünü büro ortamında (acente ofisi), bir bölümünü de liman, gümrük, sahil sağlık ve emniyet idareleri gibi kurumlarda ve bazen geminin kendisinde yürütür. Bürodaki çalışmalar evrak takibi, yazışma ve bilgilendirme ağırlıklı olup kapalı, aydınlatılmış ortamlarda geçer; liman ve gemi ziyaretlerinde ise açık havada, bazen olumsuz hava koşullarında çalışmak gerekebilir.\n\nGemilerin liman giriş-çıkış saatleri önceden belirlenemediğinden çalışma saatleri düzensiz olabilir; gece, hafta sonu ve resmî tatillerde de çalışma gerekebilir. Meslek elemanı; gemi kaptanı ve mürettebatı, liman başkanlığı, gümrük, sahil sağlık, emniyet görevlileri, yük sahipleri ve işletme yöneticileri ile sürekli iletişim halindedir.",
+ "calisma_alanlari": "Gemi Acente Personeli; gemi acenteleri, liman işletmeleri, denizcilik ve lojistik şirketleri ile dış ticaret yapan firmaların denizcilik/ithalat-ihracat birimlerinde istihdam edilir. İş bulma olanakları, İstanbul, İzmir, Mersin, Samsun, Trabzon, Kocaeli gibi liman kentlerinde ve deniz taşımacılığının yoğun olduğu bölgelerde daha fazladır. Türkiye'nin dış ticaret hacminin ve deniz taşımacılığının büyümesine bağlı olarak sektörde istihdam talebi artabilmektedir.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğin resmî ve standart bir eğitim süreci bulunmadığından, bu alanda çalışmaya stajyer veya işbaşında eğitim alan personel olarak başlanır; bu dönemde genellikle asgari ücret düzeyinde veya işletmenin belirlediği bir ücret ödenir.",
+  "egitim_sonrasi": [
+   "Özel sektörde çalışan Gemi Acente Personeli'nin ücreti; işyerinin büyüklüğüne, deneyimine, yabancı dil bilgisine ve üstlendiği sorumluluğa göre değişmektedir; yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Deneyim ve kıdem arttıkça, ayrıca yönetici konumuna geldiğinde kazanç yükselebilmektedir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğe özgü kademeli bir resmî eğitim basamağı bulunmamaktadır. İlgilenenler, lojistik, denizcilik işletmeleri yönetimi, uluslararası ticaret gibi alanlarda önlisans veya lisans eğitimi alarak mesleki bilgi ve becerilerini geliştirebilir.",
+  "is_hayatinda": "Deneyim kazanan Gemi Acente Personeli; operasyon sorumlusu, acente müdür yardımcısı ve acente müdürü gibi kademelere yükselebilir. Yeterli deneyim, sermaye ve mevzuat bilgisine sahip olanlar kendi acentelik işletmelerini kurabilir."
+ },
+ "benzer_meslekler": [],
+ "ek_bilgiler": "Mesleği uygulayabilmek için ilgili idare (Ulaştırma ve Altyapı Bakanlığı Deniz Ticareti Genel Müdürlüğü) tarafından düzenlenen tanıtım kartına sahip olunması gerekmektedir. Yabancı gemi kaptanları ve uluslararası kurumlarla iletişim sıklıkla yaşandığından yabancı dil bilgisi, özellikle İngilizce, işe alımlarda önemli bir avantajdır. Mesleki Yeterlilik Kurumu (MYK) belgesi, bu alanda zorunlu olmamakla birlikte istihdamda tercih sebebi olabilir.",
+ "gorevler": [
+  "İşletmenin genel çalışma prensipleri doğrultusunda, araç, gereç ve ekipmanları etkin bir şekilde kullanarak, işçi sağlığı, iş güvenliği ve çevre koruma düzenlemelerine ve mesleğin verimlilik ve kalite gereklerine uygun olarak çalışır.",
+  "Acentelik yapılan gemilerin proforma işlemlerini yapar.",
+  "Gemi evraklarının takibini yapar.",
+  "Gemi tarafından hizmet istendiği takdirde (yedek parça, kumanya, su, yakıt, personel değişikliği vb.) gerekli hizmetlerin verilmesini sağlar.",
+  "Geminin ne zaman geleceği ile ilgili bilgilendirme yapar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Gemi Acente Personeli olabilmek için standart ve resmî bir mesleki eğitim programı bulunmamaktadır. Meslek, genellikle gemi acenteleri bünyesinde işbaşında ve usta-çırak ilişkisiyle öğrenilir. Ayrıca lojistik, denizcilik işletmeleri yönetimi, uluslararası ticaret gibi alanlardaki ortaöğretim, önlisans ve lisans programlarından mezun olanlar da bu mesleğe yönelebilmektedir. Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kurslarında da ilgili temel bilgiler kazandırılabilir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "Okuma-yazma ve temel düzeyde bilgisayar kullanma becerisine sahip olmak",
+   "İletişim ve organizasyon becerisine sahip olmak",
+   "Tercihen yabancı dil (özellikle İngilizce) bilgisine sahip olmak",
+   "Göreve başlarken ilgili idare tarafından düzenlenen tanıtım kartına sahip olmak",
+   "Lojistik, denizcilik işletmeleri, uluslararası ticaret gibi ilgili alanlarda ön lisans/lisans eğitimi tercih sebebi olabilir"
+  ],
+  "sure_ve_icerik": "Mesleğin standart bir eğitim süresi ve müfredatı bulunmamaktadır. Bilgi ve beceriler çoğunlukla işbaşında, deneyimli personelin gözetiminde kazanılır. İlgili yükseköğretim programlarında veya kurslarda denizcilik mevzuatı, liman ve gümrük işlemleri, ticari belgeler ve yazışma usulleri gibi konular öğretilebilir.",
+  "belge": "Mesleğe özgü zorunlu bir diploma veya sertifika bulunmamaktadır; ancak göreve başlamak için ilgili idare tarafından düzenlenen tanıtım kartına sahip olunması gerekmektedir. Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T19:09:32",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6252
+  }
+ }
+}

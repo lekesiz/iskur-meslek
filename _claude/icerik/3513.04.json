@@ -1,0 +1,98 @@
+{
+ "arac_gerec": [
+  "Kişisel bilgisayarlar, dizüstü bilgisayarlar ve çevre birimleri (yazıcı, tarayıcı, projeksiyon vb.)",
+  "Sunucu bilgisayarlar ve sunucu kabinleri/rackleri",
+  "Switch, router, modem ve kablosuz erişim noktası (access point) gibi aktif ağ cihazları",
+  "Ağ kabloları, RJ45 konektörler, kablo test cihazı ve patch panel",
+  "Kesintisiz güç kaynağı (UPS) ve güç dağıtım üniteleri",
+  "İşletim sistemi ve sürücü kurulum ortamları (USB bellek, DVD, görüntü dosyaları)",
+  "Donanım/yazılım envanter ve destek talebi (help desk/ticketing) yazılımları",
+  "Ağ izleme, güvenlik ve yapılandırma yazılımları (güvenlik duvarı, antivirüs vb.)",
+  "El aletleri (tornavida takımı, pense, kablo soyma/sıkma aletleri)",
+  "Veri yedekleme ve sistem görüntüleme (imaging/klonlama) cihazları",
+  "Ofis yazılımları ve uzaktan erişim/yönetim uygulamaları",
+  "Kablosuz ağ tarama ve sinyal ölçüm cihazları"
+ ],
+ "benzer_meslekler": [
+  "Ağ İşletmeni / Ağ Teknolojileri Elemanı",
+  "Sistem İşletme Sorumlusu",
+  "Sistem İşletmeni",
+  "Sistem ve Ağ Uzmanı",
+  "Bilgi İşlem Donanım Görevlisi",
+  "Bilgi İşlem Destek Elemanı"
+ ],
+ "genel_ozellikler": [
+  "Mantıksal ve sistemli düşünebilen,",
+  "Dikkatli, sabırlı ve sorumluluk sahibi,",
+  "Analitik düşünme ve problem çözme becerisine sahip,",
+  "İletişim becerisi gelişmiş ve kullanıcılarla sağlıklı diyalog kurabilen,",
+  "Yeniliklere açık, teknolojik gelişmeleri takip eden ve kendini sürekli geliştiren,",
+  "Takım çalışmasına uyumlu,",
+  "Ayrıntılara önem veren ve düzenli çalışabilen,",
+  "Acil ve beklenmedik durumlarda hızlı ve doğru karar verebilen"
+ ],
+ "calisma_ortami": "Bilgi İşlem Destek Sorumluları, genellikle kapalı ortamlarda; işletmelerin bilgi işlem/BT destek birimlerinde, sunucu odalarında ve ofis ortamlarında çalışırlar. Kurulum, bakım ve arıza giderme işlemleri sırasında işletmenin farklı birimlerine giderek saha çalışması yapmaları da gerekebilir. Çalışma süresinin büyük bölümü bilgisayar başında oturarak geçer; kurulum ve kablolama gibi işlemlerde ayakta çalışma ve fiziksel efor da söz konusu olabilir.\n\nMesleğin gerektirdiği uzun süreli ekran başında çalışma nedeniyle göz, boyun, sırt ve bilek bölgelerinde yorgunluğa bağlı rahatsızlıklar görülebilir. İşletmenin faaliyet yoğunluğuna bağlı olarak düzenli çalışma saatleri dışında, özellikle sistem arızalarına acil müdahale gerektiğinde mesai dışı veya vardiyalı çalışma söz konusu olabilir. Görevleri gereği işletme içindeki tüm çalışanlarla, teknik ekip arkadaşlarıyla, tedarikçilerle ve yöneticilerle sürekli iletişim halinde bulunurlar.",
+ "egitim": {
+  "verildigi_yerler": "Bu mesleğin eğitimi, mesleki ve teknik ortaöğretim kurumlarının Bilişim Teknolojileri alanının bilgisayar ağları ve bilgisayar donanımı/teknik servis ile ilişkili dallarında verilmektedir. Ayrıca üniversitelerin ön lisans düzeyindeki bilgisayar ağları, bilgi teknolojileri ve bilgisayar programcılığı gibi ilgili programlarında; Halk Eğitim Merkezleri ile İŞKUR'un açtığı mesleki eğitim kurslarında ve özel kuruluşların düzenlediği sertifika programlarında da bu mesleğe yönelik eğitim alınabilmektedir.",
+  "giris_kosullari": [
+   "Ortaöğretim düzeyindeki eğitim için ortaokulu tamamlamış olmak ve Millî Eğitim Bakanlığınca belirlenen alan/dal giriş koşullarını taşımak",
+   "Ön lisans programları için lise veya dengi okul diplomasına sahip olmak ve ilgili merkezi yerleştirme sınavı sonucuna göre bu programlardan birine yerleşmiş olmak",
+   "Kurs programlarına katılım için genellikle en az ortaöğretim mezunu olmak ve temel bilgisayar kullanım bilgisine sahip olmak"
+  ],
+  "sure_ve_icerik": "Ortaöğretim düzeyinde eğitim süresi 4 yıldır; 9. sınıfta ortak alan dersleri verilir, 10, 11 ve 12. sınıflarda alanla ilgili temel elektrik-elektronik, bilgisayar donanımı, işletim sistemleri, ağ teknolojileri, sorun giderme ve kullanıcı desteğine yönelik teorik ve uygulamalı dersler okutulur; eğitimin bir bölümü işletmelerde uygulamalı olarak gerçekleştirilir. Ön lisans düzeyinde eğitim süresi 2 yıl olup bilgisayar donanımı, işletim sistemleri, ağ ve sistem yönetimi, veri tabanı ve BT destek süreçlerine ilişkin dersler verilir. Bunların dışında, mesleğe yönelik bilgi ve beceri; işbaşında usta/uzman yanında çalışarak veya kısa süreli kurs ve sertifika programları yoluyla da kazanılabilmektedir.",
+  "belge": "Ortaöğretim düzeyindeki eğitimi tamamlayanlara \"Meslek Lisesi Diploması\" verilir. Ön lisans programını tamamlayanlar \"Ön Lisans Diploması\" alırlar. Kurs ve sertifika programlarına katılanlara ise ilgili kuruluşlarca \"Kurs Bitirme/Katılım Belgesi\" veya mesleki/teknik içerikli sertifikalar verilmektedir."
+ },
+ "calisma_alanlari": "Bilgi İşlem Destek Sorumluları, bilgisayar ve ağ sistemlerinin kullanıldığı hemen her türlü kamu kurumu ve özel işletmenin bilgi işlem/BT destek birimlerinde çalışabilirler. Bankalar, sigorta şirketleri, üretim ve ticaret işletmeleri, eğitim kurumları, sağlık kuruluşları, bilişim ve teknoloji firmaları, internet servis sağlayıcıları, lojistik ve hizmet sektörü kuruluşları bu mesleğin istihdam alanlarından bazılarıdır. Bilgisayar kullanımının ve kurumsal BT altyapılarının her sektörde yaygınlaşması, bu meslek mensuplarına geniş bir iş bulma olanağı sunmaktadır.\n\nDeneyim, bilgi birikimi ve ilgili sertifikalara sahip olanlar; BT danışmanlığı, teknik servis veya bilgisayar/ağ kurulumu alanında kendi işlerini kurabilir ya da serbest olarak hizmet verebilirler. Yabancı dil bilgisi ve teknolojik gelişmeleri takip etme, iş bulma ve kariyer gelişimi açısından avantaj sağlamaktadır.",
+ "kazanc": {
+  "egitim_suresince": "Mesleki ve teknik ortaöğretim kapsamında işletmelerde uygulamalı eğitim gören öğrencilere, 3308 sayılı Mesleki Eğitim Kanunu hükümleri doğrultusunda belirlenen oranlarda ücret ödenir ve bu öğrencilerin iş kazası ile meslek hastalığına karşı sigorta primleri işveren tarafından karşılanır. Halk Eğitim Merkezleri, İŞKUR veya özel kuruluşlarca düzenlenen kurs ve sertifika programlarında genellikle herhangi bir ücret ödenmez; kursiyerlere İŞKUR işbaşı eğitim programları kapsamında katılım sağlanması durumunda ilgili mevzuata göre ödeme yapılabilir.",
+  "egitim_sonrasi": [
+   "Kamu kurum ve kuruluşlarında istihdam edilenler, 657 sayılı Devlet Memurları Kanunu veya ilgili diğer mevzuat hükümlerine göre ücret alırlar.",
+   "Özel sektörde çalışanların ücreti; işyerinin büyüklüğüne, çalışanın deneyim, bilgi birikimi ve sahip olduğu sertifikalara göre değişmektedir. İşe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar; deneyim ve yetkinlik kazandıkça bu düzeyin üzerine çıkabilirler."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Ortaöğretim düzeyinde mesleğini tamamlayanlar, ilgili alanlarda açılan ön lisans veya lisans programlarına geçiş yaparak eğitimlerini ilerletebilirler. Ayrıca ağ yönetimi, sistem yönetimi, siber güvenlik ve bulut teknolojileri gibi alanlarda düzenlenen ileri düzey kurs ve sertifika programlarına katılarak uzmanlık kazanabilirler.",
+  "is_hayatinda": "Mesleki deneyim ve bilgi birikimi arttıkça Sistem Yöneticisi, Ağ Yöneticisi, BT Birim Sorumlusu/Şefi gibi daha üst düzey teknik ve yönetsel pozisyonlara yükselebilirler. İş hayatında edinilen deneyim ve sertifikalarla kendi BT danışmanlık veya teknik servis işletmelerini kurabilirler."
+ },
+ "gorevler": [
+  "İş sağlığı ve güvenliği, yangın ve acil durum kurallarını uygular.",
+  "Kalite yönetim sistemi ile ilgili faaliyetleri yürütür.",
+  "İş organizasyonu yapar.",
+  "Bilgisayar ve ağ sistemlerini kurar ve yapılandırır, meydana gelebilecek arızaları tespit eder ve arızaları giderir; bu işlemleri yerine getirebilecek düzeyde elektrik, elektronik, bilgisayar ve ağ teknolojileri, internet ve ofis programlarını kullanır.",
+  "BT donanım parkının oluşturulmasına ve yazılımların teminine destek verir.",
+  "İşletmenin BT donanım ve yazılım alımlarına teknik destek sağlar.",
+  "Satın alınan BT donanımlarının ve yazılımların teslim alma işlemlerini kontrol eder.",
+  "İşletmenin envanterindeki donanım ve yazılımlar ile ilgili periyodik takipleri gerçekleştirir.",
+  "BT sistemlerinin fiziksel kurulumlarını yapar/yapılmasını sağlar.",
+  "Kurulum öncesi hazırlık yapar.",
+  "Ağ kablolaması yaptırır.",
+  "BT donanımlarının fiziksel kurulumlarının gerçekleşmesini sağlar.",
+  "Ağ donanımlarını ve sunucu sistemlerini yapılandırır.",
+  "Aktif ağ donanımlarını yapılandırır.",
+  "Kablosuz ağ güvenliğini sağlar.",
+  "Sunucu işletim sistemlerinin kurulumlarını yaptırır.",
+  "Sunucu servislerinin yapılandırılmasını değerlendirir.",
+  "Dizin hizmetini yapılandırır.",
+  "Sunucular üzerinde çalışacak diğer ağ servislerini yapılandırır.",
+  "Kişisel bilgisayar sistemlerini ve çevre birimlerini yapılandırır.",
+  "Kişisel bilgisayarların ilk çalıştırmasını yaptırır ve işletim sistemini yükletir.",
+  "Donanım sürücülerini yükletir.",
+  "Ağ ve internet bağlantısını kurdurur.",
+  "Kurulum sonrası işlemleri yaptırır.",
+  "Ortak kullanıma sunulacak çevre birimlerini yapılandırır.",
+  "BT sistemlerinin bakımını yaptırır.",
+  "BT donanımlarını ve ağ yapılarını değiştirir.",
+  "BT sistemlerinin harici ve dahili bileşenlerini değiştirir.",
+  "İşletme içi kullanıcılara BT desteği verilmesini sağlar.",
+  "Mesleki gelişim faaliyetlerini yürütür."
+ ],
+ "ek_bilgiler": "Bilgi teknolojilerindeki hızlı değişim nedeniyle bu meslekte çalışanların yeni donanım, yazılım ve ağ teknolojilerini düzenli olarak takip etmesi ve kendini sürekli geliştirmesi önem taşır. Mesleki Yeterlilik Kurumu (MYK) tarafından ilgili alanda düzenlenen yeterlilik belgeleri zorunlu olmamakla birlikte istihdamda tercih sebebi olabilmektedir. Ayrıca uluslararası geçerliliği olan bilgisayar ağı ve sistem teknolojilerine yönelik üretici sertifikalarına sahip olmak, iş bulma ve kariyer gelişimi açısından avantaj sağlamaktadır.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T15:05:22",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 9164
+  }
+ }
+}

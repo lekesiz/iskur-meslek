@@ -1,0 +1,104 @@
+{
+ "arac_gerec": [
+  "Elektrik sayaçları (mekanik, elektronik ve akıllı sayaç tipleri)",
+  "Akım ve gerilim ölçü trafoları",
+  "Avometre / multimetre",
+  "Pens ampermetre",
+  "İzoleli el aletleri (tornavida takımı, pense, anahtar takımı)",
+  "Kablo soyma ve sıkma pensesi",
+  "İzole bant ve izoleli malzemeler",
+  "Topraklama takımı ve topraklama kısa devre aparatları",
+  "Mühürleme (plomba) tabancası ve mühürler",
+  "Kişisel koruyucu donanım (izoleli eldiven, baret, yalıtkan iş ayakkabısı, yüz siperliği)",
+  "El feneri ve taşınabilir aydınlatma",
+  "Merdiven",
+  "El terminali / taşınabilir bilgisayar (sayaç bilgilerinin okunması ve kayıt için)",
+  "Servis aracı"
+ ],
+ "benzer_meslekler": [
+  "Elektrik Montörü-Ölçü Aletleri",
+  "İşletme Elektrik Bakımcısı",
+  "İşletme Elektrik Bakım Yardımcısı",
+  "Elektrik Pano Elemanı",
+  "Kablo Montaj İşçisi",
+  "Endüstriyel Bakım-Onarım Elektrikçisi"
+ ],
+ "calisma_alanlari": "Elektrik sayacı sökme takma elemanları, başta elektrik dağıtım şirketleri olmak üzere, bu şirketlere hizmet veren yüklenici ve taşeron firmalarda, sayaç okuma-bakım hizmeti sunan özel şirketlerde ve bazı büyük sanayi tesislerinin elektrik bakım birimlerinde çalışma olanağı bulurlar.\n\nElektrik enerjisi kullanımının ve abone sayısının sürekli artması, mesleğe olan ihtiyacı büyük ölçüde sürekli kılmaktadır. Akıllı sayaç (uzaktan okuma/izleme) sistemlerine geçişin yaygınlaşması, ileride sayaç değişim ve kurulum ihtiyacını artırabilirken, uzaktan okuma nedeniyle bazı saha ziyaretlerinin azalmasına da yol açabilir; bu nedenle mesleğin iş yükü ve niteliği teknolojik gelişmelere paralel olarak değişim göstermektedir.",
+ "calisma_ortami": "Elektrik sayacı sökme takma elemanı, görevini büyük ölçüde açık alanda; konutların, işyerlerinin, direk üstü veya bina giriş panolarındaki sayaç bölmelerinde yürütür. Zaman zaman dar, karanlık ya da yüksekte bulunan sayaç kabinlerinde çalışmak gerekebilir. Görev gereği bir bölgeden diğerine sürekli hareket halindedir ve farklı hava koşullarında (sıcak, yağmur, soğuk) dışarıda çalışmak zorunda kalabilir. Elektrik enerjisiyle doğrudan ilişkili olduğu için elektrik çarpması, yüksekten düşme ve kesici alet yaralanmaları gibi riskler taşıyan bir meslektir; bu nedenle iş sağlığı ve güvenliği kurallarına, kişisel koruyucu donanım kullanımına titizlikle uyulması gerekir.\n\nÇalışma genellikle hafta içi gündüz saatlerinde yürütülür, ancak kaçak ihbarı, arıza veya acil enerji kesme/açma talepleri nedeniyle nöbet veya mesai dışı görevlendirme söz konusu olabilir. Meslek elemanı; abonelerle (ev ve işyeri sahipleriyle), ekip arkadaşlarıyla, saha amirleriyle ve dağıtım şirketinin diğer teknik birimleriyle sürekli iletişim halindedir.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi, mesleki eğitim merkezlerinde elektrik-elektronik teknolojisi alanı kapsamında çıraklık eğitimi yoluyla kazanılabileceği gibi, çoğunlukla elektrik dağıtım şirketleri ve bu şirketlere hizmet veren yüklenici firmalarca düzenlenen işbaşı eğitimlerle, usta yanında uygulamalı olarak da öğrenilmektedir. Halk Eğitim Merkezleri ve İŞKUR tarafından açılan mesleki eğitim kursları da temel elektrik bilgisi ve güvenliği konusunda destekleyici eğitim sağlayabilir. Doğrudan bu mesleğe özgü, ayrı bir örgün meslek lisesi dalı bulunmamakta; genellikle elektrik-elektronik teknolojisi alanı mezunları veya ilköğretim/ortaöğretim mezunları işe alınarak işbaşında yetiştirilmektedir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak (mesleğin gerektirdiği minimum eğitim düzeyi ilköğretimdir)",
+   "Çıraklık eğitimi yoluyla yetişmek isteyenler için en az ortaokul mezunu olmak ve 14 yaşını doldurmuş olmak",
+   "Sağlık durumunun elektrikle çalışmaya ve sahada görev yapmaya uygun olması",
+   "İlgili işyeri ile çıraklık sözleşmesi veya iş sözleşmesi imzalamak"
+  ],
+  "sure_ve_icerik": "Elektrik-elektronik teknolojisi alanında çıraklık eğitimi tercih edildiğinde, eğitim süresi ilköğretimden sonra 4 yıl olup ilk 3 yılı kalfalık, son 1 yılı ustalık eğitimidir; haftada 1 gün mesleki eğitim merkezinde teorik ders, 4 gün işyerinde uygulamalı eğitim verilir. Bu yolu izlemeyenler için ise işe alındıktan sonra, dağıtım şirketi veya yüklenici firma tarafından iş sağlığı ve güvenliği, topraklama, ölçü devresi kontrolü, sayaç sökme-takma ve kaçak tespiti konularında kısa süreli uygulamalı eğitimler ile usta yanında işbaşı eğitimi verilir.",
+  "belge": "Çıraklık/mesleki eğitim yolunu tamamlayanlara kalfalık ve ustalık belgesi verilir. Bunun yanında, çalışılan firmanın düzenlediği iç eğitim/katılım sertifikaları yaygındır. Mesleki Yeterlilik Kurumu (MYK) Mesleki Yeterlilik Belgesi, ilgili alanda düzenlenmişse istihdamda tercih sebebi olabilir."
+ },
+ "ek_bilgiler": "Elektrik dağıtım sektöründe akıllı sayaç (uzaktan okuma/izleme) sistemlerine geçişin yaygınlaşması, mesleğin iş yükünü ve gerektirdiği nitelikleri orta-uzun vadede değiştirebilir. Elektrikle doğrudan çalışıldığından, elektrik çarpması ve yüksekte çalışma gibi risklere karşı düzenli iş sağlığı ve güvenliği eğitimi alınması ve kişisel koruyucu donanımın eksiksiz kullanılması önem taşır.",
+ "genel_ozellikler": [
+  "Dikkatli ve tedbirli,",
+  "El ve bedensel beceriye sahip,",
+  "Sorumluluk sahibi ve güvenilir,",
+  "Fiziksel olarak sağlıklı ve bedenen çalışmaya uygun,",
+  "Elektrik çarpması gibi risklere karşı temkinli hareket edebilen,",
+  "Sayısal işlemlere ve kayıt tutmaya yatkın,",
+  "İnsan ilişkilerinde başarılı ve iletişime açık"
+ ],
+ "gorevler": [
+  "İş sağlığı ve güvenliği konusundaki ilgili yönetmelikleri ve işyerine ait kuralları uygular,",
+  "Risk etmenlerini azaltır,",
+  "Tehlike anında acil durum prosedürlerini uygular,",
+  "Topraklama işlemlerini yapar,",
+  "Topraklamayı kaldırır,",
+  "Çevre koruma standart ve yöntemlerini uygular,",
+  "Çevresel risklerin azaltılmasına katkıda bulunur,",
+  "İşe ait kalite gerekliliklerini uygular,",
+  "Kalite sağlamadaki teknik prosedürleri uygular,",
+  "Yapılan çalışmaların kalitesini denetim altında tutar,",
+  "Süreçlerde saptanan hata ve arızaları engelleme çalışmalarına katılır,",
+  "İşletme kaynaklarının tüketiminde tasarruflu hareket eder,",
+  "Çalışma teçhizatının çalışabilirlik durumlarını denetler,",
+  "Çalışma teçhizatının bakımını sağlar,",
+  "Teçhizat teminine destek verir,",
+  "Alınan iş emrinin kontrolünü yapar,",
+  "Yapılacak işi tespit eder,",
+  "Çalışmada kullanılacak her türlü malzemeyi hazırlar,",
+  "Ölçü devresi yeri uygunluğunu kontrol eder,",
+  "Enerji kesme işlemi uygulanacak aboneleri belirler,",
+  "Son faturalandırılmayı sağlar,",
+  "Enerjiyi keser,",
+  "Kayıtların veri tabanına işlenmesini sağlar,",
+  "Enerji açma işlemi uygulanacak aboneleri belirler,",
+  "Enerjiyi açar,",
+  "İhbar ve olası şüpheleri tespit eder,",
+  "Ölçü devresi cihazlarının teknik kontrollerini yapar,",
+  "Sayaç ve diğer ölçü cihazlarından geçmiş dönem bilgilerini alır,",
+  "Kaçak kontrolü yapar,",
+  "Ölçü devresi elemanının sökme işlemini yapar,",
+  "Ölçü devresi elemanının takma işlemini yapar,",
+  "Bireysel mesleki gelişimi konusunda çalışmalar yapar,",
+  "Astlarına ve diğer çalışanlara mesleki eğitimler verir."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Çıraklık eğitimini tamamlayarak kalfalık ve ardından ustalık belgesi alanlar, isterlerse yükseköğretime giriş sınavına girip ilgili ön lisans/lisans programlarına yerleşebilirler. Ayrıca çalışırken katıldığı kurslar ve sertifika programları ile mesleki bilgi ve becerilerini geliştirebilir.",
+  "is_hayatinda": "Deneyim ve bilgi birikimi arttıkça ekip lideri, usta, saha sorumlusu veya sayaç bakım-kontrol birimi şefliği gibi görevlere yükselebilir. Ayrıca elektrik tesisatçılığı, pano montajı, ölçü aletleri bakımı gibi yakın alanlara yatay geçiş yapma imkânı bulunmaktadır."
+ },
+ "kazanc": {
+  "egitim_suresince": "Çıraklık/mesleki eğitim yoluyla yetişenlere, 3308 sayılı Mesleki Eğitim Kanunu gereğince işletmelerde mesleki eğitim gören öğrencilere ödenmesi gereken asgari ücretin net tutarının belirli bir yüzdesi ödenir. İşe doğrudan alınıp işbaşı eğitim/kurs sürecinden geçenlerde ise bu dönemdeki ücret, işletmenin uygulamasına ve ilgili mevzuata göre değişebilir.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanlarda kazanç genellikle asgari ücret düzeyindedir.",
+   "Kamu iktisadi teşekkülü niteliğindeki dağıtım şirketlerinde veya bu şirketlere bağlı işçi statüsünde çalışanlarda ücret, ilgili toplu iş sözleşmesi hükümlerine göre belirlenir.",
+   "Özel sektörde çalışanların kazancı; işyerinin büyüklüğü, kişinin deneyimi, bilgisi ve sektördeki genel ücret düzeyine göre değişebilmektedir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T06:15:04",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 8326
+  }
+ }
+}

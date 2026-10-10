@@ -1,0 +1,81 @@
+{
+ "arac_gerec": [
+  "Ampermetre, voltmetre, ohmmetre, multimetre gibi ölçme ve kontrol cihazları",
+  "İzolasyon direnci ölçüm cihazı (meger)",
+  "Osiloskop ve diğer elektronik test cihazları",
+  "El aletleri (tornavida, pense, kargaburun, izole kablo makası vb.)",
+  "Havya ve lehim takımları",
+  "Akü ve batarya test cihazları",
+  "Kablo, duy, fiş, konektör ve yalıtım malzemeleri",
+  "Elektrik devre şemaları, bakım-onarım el kitapları ve teknik dokümanlar",
+  "Dahili haberleşme ve telsiz sistemleri",
+  "Jeneratör, alternatör ve dinamo bakım takımları",
+  "Kişisel koruyucu donanımlar (iş elbisesi, eldiven, baret, emniyet kemeri, iş ayakkabısı)",
+  "Yedek elektrik malzemesi stok ve kayıt defterleri"
+ ],
+ "genel_ozellikler": [
+  "El ve parmak becerisine sahip,",
+  "Elektrik-elektronik sistemlere ilgi ve yetenekli,",
+  "Dikkatli, tedbirli ve sorumluluk duygusu gelişmiş,",
+  "Ekip çalışmasına uyumlu,",
+  "Fiziksel olarak sağlıklı ve dayanıklı,",
+  "Dar, kapalı ve hareketli (gemi) ortamlarda çalışabilen,",
+  "Uzun süre denizde ve aileden ayrı kalmaya uyumlu,",
+  "Acil durumlarda hızlı ve soğukkanlı karar verebilen"
+ ],
+ "calisma_ortami": "Elektrik Zabiti, görevini geminin makine dairesi, elektrik panoları, jeneratör odaları ve geminin çeşitli bölümlerinde yürütür. Çalışma ortamı kapalı mekanlar ile güverte gibi açık alanları kapsar; gürültü, titreşim, sıcaklık, nem ve geminin hareketinden kaynaklanan dengesizlik gibi fiziksel koşullara maruz kalınabilir. Elektrikle çalışma, dar/kapalı alanlarda görev yapma ve bazen yüksekte çalışma gerekebileceğinden iş güvenliği kurallarına titizlikle uyulması gerekir; dikkatsizlik ciddi kazalara yol açabilir.\n\nÇalışma genellikle vardiya düzeninde ve 24 saat esasına göre sürer; gemi seyir halindeyken acil arızalara anında müdahale edilmesi gerekebilir. Meslek, geminin seferine bağlı olarak uzun süreler boyunca karadan ve aileden ayrı kalmayı gerektirir. Görevi sırasında baş mühendis/makinist, diğer gemi zabitleri ve makine personeliyle sürekli iş birliği ve iletişim içinde çalışılır.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin temel eğitimi, mesleki ve teknik ortaöğretim kurumlarının denizcilik ile ilgili alan ve dallarında (gemi elektrik-elektronik ve haberleşme sistemleriyle ilişkili programlarda) verilmektedir. Bu eğitimin yanında, Ulaştırma ve Altyapı Bakanlığı Denizcilik Genel Müdürlüğü'nün STCW Sözleşmesi gerekleri doğrultusunda açtığı temel güvenlik ve mesleki kurslar ile belirli bir süre gemide staj/deniz hizmeti de meslekte fiilen çalışabilmek için gereklidir. Ayrıca gemi makineleri işletme veya elektrik-elektronik mühendisliği gibi ilgili ön lisans/lisans programlarından mezun olup gerekli deniz hizmetini ve sertifika eğitimlerini tamamlayarak bu mesleğe yönelenler de bulunmaktadır.",
+  "giris_kosullari": [
+   "Ortaokulu tamamlamış olmak (ortaöğretim düzeyinde mesleki eğitime başlamak için)",
+   "Gemi adamı olmaya engel bir sağlık durumunun bulunmaması (denizci sağlık raporu alabilecek durumda olmak)",
+   "İlgili mesleki ve teknik ortaöğretim kurumlarının veya yükseköğretim programlarının belirlediği giriş koşullarını taşımak"
+  ],
+  "sure_ve_icerik": "Ortaöğretim düzeyindeki mesleki eğitim 4 yıl sürmekte; genel kültür dersleri ile birlikte elektrik-elektronik esasları, gemi elektrik sistemleri, iş sağlığı ve güvenliği gibi mesleki dersleri ve uygulamalı atölye çalışmalarını içermektedir. Bunun yanında STCW Sözleşmesi kapsamında zorunlu temel güvenlik eğitimleri (yangın, ilk yardım, kişisel can kurtarma, sosyal sorumluluk vb.) ile mesleğe özgü kısa süreli sertifika kursları alınır. Meslekte fiilen çalışabilmek için ayrıca belirli bir süre gemide deniz hizmeti (staj) yapılması ve Denizcilik Genel Müdürlüğü tarafından yürütülen değerlendirme süreçlerinin tamamlanması gerekmektedir.",
+  "belge": "Eğitimi tamamlayanlara mesleki ve teknik ortaöğretim diploması verilir. Meslekte fiilen çalışabilmek için ayrıca gemi adamı cüzdanı ile Ulaştırma ve Altyapı Bakanlığı Denizcilik Genel Müdürlüğü tarafından STCW gerekleri doğrultusunda düzenlenen ilgili yeterlilik belgesinin alınması gerekmektedir."
+ },
+ "calisma_alanlari": "Elektrik Zabitleri başta yük, yolcu, tanker ve konteyner gemileri olmak üzere çeşitli ticaret gemilerinde; kamu kurumlarına bağlı gemilerde (sahil güvenlik, araştırma, kılavuzluk gemileri gibi); balıkçı ve özel amaçlı gemilerde çalışabilmektedir. Ayrıca gemi inşa ve bakım-onarım tersanelerinde, denizcilik şirketlerinin teknik birimlerinde ve liman işletmelerinde de istihdam olanağı bulunmaktadır. İş bulma olanakları; sahip olunan yeterlilik belgelerine, deniz hizmeti deneyimine ve Türk deniz ticaret filosunun büyüklüğü ile sektördeki hareketliliğe bağlı olarak değişmektedir.",
+ "kazanc": {
+  "egitim_suresince": "Ortaöğretim düzeyinde eğitim gören öğrenciler, mesleki eğitim ve staj uygulamaları kapsamında ilgili mevzuat çerçevesinde bir ücret alabilir; gemide yapılan deniz hizmeti stajı sırasında ise ücretlendirme çalışılan gemi işletmesinin uygulamalarına göre değişebilir.",
+  "egitim_sonrasi": [
+   "Elektrik Zabitleri, Deniz İş Kanunu kapsamında gemi adamı statüsünde çalışmakta ve ücretleri armatör/işveren ile yapılan iş sözleşmesine göre belirlenmektedir.",
+   "Ücret düzeyi; geminin büyüklüğü ve türü, seferin niteliği (iç hat/dış hat), kişinin deneyimi ve sahip olduğu yeterlilik belgelerine göre değişmekte, deneyimli ve uluslararası sefer yapan personel genellikle daha yüksek kazanç elde etmektedir.",
+   "Kamuya bağlı gemilerde çalışanlar, tabi oldukları statüye göre (memur veya işçi statüsü) ilgili mevzuat kapsamında ücret almaktadır."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Ortaöğretim sonrası, ilgili alanın devamı niteliğindeki yükseköğretim ön lisans/lisans programlarına (gemi makineleri işletme, elektrik-elektronik mühendisliği veya denizcilikle ilgili programlar gibi) sınavla veya ilgili düzenlemeler çerçevesinde geçiş yapılabilir. Ayrıca gerekli deniz hizmeti süresinin tamamlanması ve ek sınavlarla daha üst düzey gemi adamı yeterlilik belgeleri alınarak kariyerde ilerleme sağlanabilir.",
+  "is_hayatinda": "Deneyim kazandıkça Elektrik Zabitleri, daha büyük ve karmaşık elektrik-elektronik sistemlere sahip gemilerde görev alabilir; baş elektrik zabitliği veya teknik amirlik gibi kademelere yükselebilirler. Kara görevine geçmek isteyenler, denizcilik şirketlerinin teknik işletme, bakım-onarım veya filo teknik destek birimlerinde görev alabilmektedir."
+ },
+ "benzer_meslekler": [
+  "Elektrik Teknisyeni",
+  "Elektrik Tesisatları ve Dağıtımı Teknisyeni / Elektrik Teknisyeni",
+  "Elektrik Teknikeri",
+  "Diğer Elektrik Teknisyenleri",
+  "Elektrik-Elektronik Teknolojisi Teknisyeni"
+ ],
+ "ek_bilgiler": "Bu meslek, Uluslararası Denizcilik Örgütü'nün (IMO) STCW Sözleşmesi'nde tanımlanan gemi elektrik personeli yeterliliğiyle ilişkilidir. Meslek icrası, düzenli sağlık muayenelerinin yapılmasını ve geçerli gemi adamı belgelerinin bulundurulmasını gerektirir. Meslek, uzun süreler aileden ve karadan ayrı, gemi ortamında yaşamayı gerektirdiğinden bu duruma uyum önem taşır.",
+ "gorevler": [
+  "Geminin bütün elektrik, elektronik aksamını ve dahili haberleşme tesisatını çalışır halde bulundurur.",
+  "Elektrik-elektronik tesisat ve teçhizatının, gemi imkanlarıyla yapılması mümkün olan tamir ve bakım işlerini yapar.",
+  "Dinamo, alternatör, elektrik kuvvet ve aydınlatma devrelerini çalışır halde bulundurur, bakım ve onarımlarını yapar.",
+  "Elektrik donanımlarının planlarını, bakım, onarım ve kullanım talimatlarını gemide bulundurur.",
+  "Akümülatörler ile elektronik cihazların kuvvet devrelerinin bakım ve onarımını yapar.",
+  "Geminin liman kalkış ve varışlarında geminin telefon, elektrik vb. bağlantılarını sağlar.",
+  "Geminin elektrik malzeme ihtiyaçlarını tespit eder, baş mühendis/makiniste bildirir.",
+  "Geminin seyir emniyetine herhangi bir sorun çıkarmaması için sistemleri çalışır vaziyette hazır bulundurur.",
+  "Motorların meger testlerini yapar.",
+  "Gemide açıktan geçen ve çıplak kablo olmamasına dikkat eder, varsa bunları izole eder.",
+  "Geminin elektrik malzeme ihtiyacını tespit eder, baş mühendise/makiniste bildirir.",
+  "Geminin mevcut elektrik cihazlarının tamirleri ile ilgili olarak makine personeli ile işbirliği yapar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T09:06:53",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 11237
+  }
+ }
+}

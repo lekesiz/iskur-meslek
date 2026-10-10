@@ -1,0 +1,79 @@
+{
+ "arac_gerec": [
+  "Kömür kurutma tesisi (fırın) kumanda panosu",
+  "Siklon ve filtre üniteleri",
+  "Besleme konveyörleri ve besleyici vanalar",
+  "Sıcaklık, basınç ve debi ölçüm göstergeleri",
+  "Toz ve gaz tahliye sistemi",
+  "Yangın söndürme tüpü ve sabit yangın söndürme ekipmanları",
+  "El takımları (anahtar takımı, pense, tornavida)",
+  "Yağlama ve bakım ekipmanları",
+  "Hava tabancası ve temizlik malzemeleri",
+  "Kişisel koruyucu donanım (toz maskesi, baret, iş gözlüğü, kulaklık, eldiven, iş elbisesi)",
+  "Telsiz veya dahili haberleşme cihazı",
+  "Vardiya rapor defteri/formları"
+ ],
+ "benzer_meslekler": [
+  "Tesis Kumanda Operatörü (Kömür)",
+  "Fırın Operatörü-Mineral Kurutma",
+  "Filtre Tesisi Operatörü-Maden",
+  "Konkasör Operatörü (Kırma-Eleme)",
+  "Kırma Eleme Tesis Operatörü",
+  "Öğütme Tesisi Operatörü-Madencilik"
+ ],
+ "calisma_alanlari": "Kurutmacı (Kömür), başta linyit ve taşkömürü olmak üzere kömür briketi üreten işletmelerin kurutma tesislerinde istihdam edilir. Kamuya bağlı maden işletmeleri ile özel sektöre ait kömür hazırlama ve briketleme tesislerinde çalışabilirler. İstihdam alanı, bu tür tesislerin sayısına ve kömür madenciliği sektöründeki üretim hacmine bağlı olarak sınırlı ve bölgesel (kömür havzalarının bulunduğu iller) özellik gösterir. İş bulma olanakları, tecrübeli ve iş güvenliği eğitimlerini tamamlamış kişiler için daha yüksektir.",
+ "calisma_ortami": "Kurutmacı (Kömür), kapalı mekanda, kömür tozunun bulunduğu, sıcak ve genellikle gürültülü bir tesis ortamında çalışır. Çalışma alanında toz birikimi, yüksek sıcaklık, nem ve zaman zaman gaz çıkışı görülebilir; bu nedenle toz maskesi, gözlük, kulaklık ve diğer kişisel koruyucu donanımların kullanılması gerekir. Tesisin yapısı nedeniyle yangın ve toz patlaması riski bulunduğundan iş güvenliği kurallarına titizlikle uyulması önem taşır.\n\nÇalışma genellikle vardiyalı sistemle (örneğin sabah, akşam, gece vardiyaları) sürdürülür ve işin kesintisiz devam etmesi gerektiğinden hafta sonu ve resmi tatillerde de çalışma söz konusu olabilir. Kurutmacı, çalışması süresince tesis amiri, diğer vardiya operatörleri, bakım-onarım personeli ve iş güvenliği uzmanlarıyla sürekli iletişim halindedir.",
+ "egitim": {
+  "verildigi_yerler": "Kurutmacı (Kömür) mesleğinin örgün bir eğitim programı bulunmamaktadır. Meslek genellikle işyerlerinde usta yanında uygulamalı olarak öğrenilir. Ayrıca Halk Eğitim Merkezleri ve İŞKUR tarafından açılan mesleki eğitim kurslarında ilgili temel bilgi ve beceriler kazandırılabilir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "Fiziksel olarak sıcak ve tozlu ortamda çalışmaya uygun sağlık durumuna sahip olmak"
+  ],
+  "sure_ve_icerik": "Eğitim; tesisin çalışma prensipleri, kurutma sisteminin işletilmesi, siklon ve filtre bakımı, iş sağlığı ve güvenliği, yangın ve patlama önlemleri gibi konuları kapsar. Süre, işletmenin ve varsa kursun programına göre değişmekte olup genellikle işbaşında usta yanında kısa süreli uygulamalı eğitimle tamamlanır.",
+  "belge": "İşletme içi eğitim sonunda genellikle resmi bir diploma verilmez; katılım belgesi veya işbaşı eğitim sertifikası düzenlenebilir. Kurs yoluyla eğitim alınması durumunda kurs bitirme belgesi verilir."
+ },
+ "ek_bilgiler": "Kömür kurutma tesislerinde toz patlaması ve yangın riski bulunduğundan iş güvenliği eğitimlerinin düzenli olarak alınması önemlidir. Mesleki Yeterlilik Kurumu (MYK) belgesi, bazı işletmelerde istihdamda tercih sebebi olabilir; mesleğin zorunlu MYK belgesi kapsamında olup olmadığı işletmenin ve çalışma koşullarının tehlike sınıfına göre değişebilir.",
+ "genel_ozellikler": [
+  "Dikkatli ve tedbirli,",
+  "Sorumluluk sahibi,",
+  "Fiziksel olarak dayanıklı,",
+  "Makine ve tesisatla ilgili,",
+  "Takım çalışmasına uyumlu,",
+  "Kurallara ve talimatlara uyan,",
+  "Tozlu ve sıcak ortamda çalışmaya istekli,",
+  "Hızlı ve doğru karar verebilen"
+ ],
+ "gorevler": [
+  "Önceki vardiyadan çalıştıracağı makineleri teslim alır.",
+  "Bir aksaklık gördüğünde amirine bilgi verir.",
+  "Pres debisini karşılayacak şekilde kurutulacak tozu tesise alır.",
+  "Tozu kuruduktan sonra imalata verir.",
+  "Sistemden gaz ve toz çıkışını engeller.",
+  "Siklon ve filtrenin verimli bir şekilde çalışmasını sağlar.",
+  "Tesise giren kömür tozlarında bulunan yabancı maddelerin temizlenmesini sağlar.",
+  "Sistemde meydana gelecek arızaları giderir, giderilmeyen arızaları amirine bildirir.",
+  "Tesiste olabilecek yangın, patlama vb. durumları amirlerine bildirir, ilk müdahalenin yapılmasını sağlar.",
+  "Sistemlerin her türlü temizlik ve bakımlarını yapar.",
+  "Vardiya sonunda düzenlenecek rapora esas bilgileri ilgililere verir.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğin örgün bir ilerleme basamağı bulunmamaktadır; ancak iş güvenliği ve tesis işletimine yönelik ek kurs ve sertifikalarla bilgi ve beceriler geliştirilebilir.",
+  "is_hayatinda": "Kurutmacı (Kömür), kazandığı tecrübe ve bilgi birikimi ile vardiya sorumlusu, usta başı veya tesis şefliği gibi görevlere yükselebilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Meslek genellikle işbaşında öğrenildiğinden ayrı bir eğitim süreci ve buna bağlı eğitim ücreti çoğunlukla söz konusu değildir; işletme bünyesinde çalışarak öğrenenler için kazanç, çalıştığı işletmenin ücret politikasına göre değişebilir.",
+  "egitim_sonrasi": [
+   "Özel sektörde çalışanların ücreti işveren ile yapılan anlaşmaya, deneyime ve işletmenin büyüklüğüne göre değişmekte olup işe yeni başlayanlar için genellikle asgari ücret düzeyindedir.",
+   "Kamuya bağlı işletmelerde işçi statüsünde çalışanların ücreti ilgili toplu iş sözleşmesi hükümlerine göre belirlenir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T10:28:18",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 4930
+  }
+ }
+}

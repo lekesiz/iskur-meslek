@@ -1,0 +1,78 @@
+{
+ "arac_gerec": [
+  "Fırın tipi ocaklar (karbonlama fırını)",
+  "İmbikli tip fırın",
+  "Potasyum/sodyum siyanür banyosu kazanları",
+  "Tel sepetler",
+  "Karbonlu paketleme malzemesi (karbon tozu/granülü) ve paketleme kapları",
+  "Amonyak gazı tüpü/jeneratörü",
+  "Su verme/soğutma tankları",
+  "Pirometre ve diğer sıcaklık ölçüm cihazları",
+  "Maşa, kanca, uzun saplı taşıma aparatları",
+  "Vinç/forklift gibi kaldırma-taşıma araçları",
+  "Koruyucu gözlük, baret, iş eldiveni, iş elbisesi, önlük",
+  "Gaz maskesi/solunum koruyucu ekipman",
+  "Termokupl ve kontrol panelleri",
+  "Yangın söndürme cihazı"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli,",
+  "Sabırlı ve tedbirli,",
+  "Fiziksel olarak dayanıklı,",
+  "Yüksek sıcaklıkta çalışmaya uygun,",
+  "El ve göz koordinasyonu gelişmiş,",
+  "Kimyasal maddelerle çalışırken temkinli,",
+  "Sorumluluk sahibi,",
+  "Ekip çalışmasına yatkın,"
+ ],
+ "calisma_ortami": "Sementasyon Tavcısı, metal işleme ve ısıl işlem atölyelerinde, genellikle kapalı mekanlarda çalışır. Çalışma ortamı fırınların ve banyoların yaydığı yüksek ısı nedeniyle sıcak, bazen gürültülü ve nemlidir. Karbonlama, siyanürleme ve nitratlama işlemlerinde kullanılan kimyasal maddeler (siyanür tuzları, amonyak gazı gibi) zehirli ve yanıcı olabileceğinden, iş sağlığı ve güvenliği kurallarına, kişisel koruyucu donanım kullanımına titizlikle uyulması gerekir.\n\nÇalışma genellikle gündüz mesaisinde olmakla birlikte, üretim yoğunluğuna göre vardiyalı çalışma da söz konusu olabilir. Meslek elemanı; atölye içinde ustabaşı, diğer metal işleme operatörleri, kalite kontrol elemanları ve bakım personeli ile iş birliği içinde çalışır.",
+ "gorevler": [
+  "İşletmenin genel çalışma prensipleri doğrultusunda araç, gereç ve ekipmanları etkin biçimde kullanır; işçi sağlığı, iş güvenliği ve çevre koruma düzenlemelerine, mesleğin verimlilik ve kalite gereklerine uyar.",
+  "Karbonlu malzeme içine paketlenmiş çelik eşyayı önceden belirlenmiş ısıda, belirli bir süre içinde fırın tipi bir ocakta (karbonlama) tavlayarak su verir.",
+  "Çelik eşyaları sıcak potasyum ya da sodyum siyanür banyosuna tel sepetler içinde daldırarak belirli bir ısıda, istenilen sürede tavlar (siyanürleme).",
+  "Çelik eşyaları imbikli tip bir fırında amonyak gazı ile (nitratlama) belirli bir ısıda, istenilen sürede tavlar ve yavaşça soğumaya bırakır.",
+  "Diğer semente etme yöntemlerini kullanır; özel tip bir eşyanın sementasyonunda veya özel bir sementasyon yönteminin uygulanmasında ihtisaslaşabilir.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Gereken minimum eğitim düzeyi ilköğretim olan bu meslekte, örgün eğitim kapsamında ayrı bir meslek lisesi programı bulunmamaktadır. Mesleğe genellikle metal işleme ve ısıl işlem atölyelerinde işbaşında usta yanında yetişme yoluyla girilir. Ayrıca yeterli talep olması durumunda mesleki eğitim merkezlerinin metal teknolojisi/ısıl işlem alanındaki ilgili dallarında çıraklık eğitimi alınabilir; Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kursları da temel bilgi ve beceri kazandırılmasında kullanılabilir.",
+  "giris_kosullari": [
+   "En az ilköğretim/ortaokul mezunu olmak",
+   "Çıraklık eğitimi için 14 yaşını doldurmuş olmak",
+   "Sağlık durumunun yüksek ısı ve kimyasal maddelerle çalışmaya elverişli olması (gerektiğinde sağlık raporuyla belgelenir)",
+   "Çıraklık eğitimi için bir işyeri bulup işveren ile çıraklık sözleşmesi imzalamak"
+  ],
+  "sure_ve_icerik": "Mesleki eğitim merkezi yoluyla çıraklık eğitimine girenler için eğitim süresi ortaokul sonrası yaklaşık 3-4 yıldır; bu sürenin bir kısmı kalfalık, son yılı ustalık eğitimine ayrılır. Eğitim, haftanın bir günü mesleki eğitim merkezinde teorik ders, kalan günlerde ise işyerinde usta öğretici gözetiminde pratik çalışma şeklinde yürütülür. Örgün çıraklık eğitimi dışında, mesleğe doğrudan bir işyerinde çalışmaya başlayıp deneyimli bir usta yanında uygulamalı olarak yetişme yoluyla da girilebilir.",
+  "belge": "Çıraklık eğitimini tamamlayanlara kalfalık, ardından ustalık belgesi verilir. İşbaşında yetişenler ise çalıştıkları işyerinden aldıkları deneyimle mesleği sürdürür; isteyenler Mesleki Yeterlilik Kurumu (MYK) belgesi alabilir, bu belge istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Sementasyon Tavcısı; metal işleme, döküm, makine imalatı, otomotiv parçaları, takım-kalıp imalatı ve benzeri sektörlerde ısıl işlem/sementasyon atölyesi bulunan küçük, orta ve büyük ölçekli özel sektör işletmelerinde çalışabilir. Kamuya bağlı sanayi kuruluşlarının bakım-onarım ve üretim atölyelerinde de istihdam olanağı bulunur.",
+ "kazanc": {
+  "egitim_suresince": "Çıraklık eğitimi kapsamında 3308 sayılı Mesleki Eğitim Kanunu gereğince işletmelerde eğitim gören öğrencilere asgari ücretin belirli bir yüzdesi ödenir; bu öğrencilerin iş kazası ve meslek hastalığı sigortası primleri devletçe karşılanır. İşbaşında usta yanında yetişenlerin kazancı ise çalıştıkları işyeri ile yapılan anlaşmaya bağlıdır.",
+  "egitim_sonrasi": [
+   "Kamu kuruluşlarında çalışanlar, memur statüsündeyse 657 sayılı Devlet Memurları Kanunu'na, işçi statüsündeyse ilgili toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde ücret; işin niteliği, çalışanın deneyimi, işyerine uyumu ve işletmenin büyüklüğüne göre değişir.",
+   "Mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar; deneyim ve uzmanlık arttıkça ücret düzeyi yükselebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Çıraklık eğitimini tamamlayıp kalfalık ve ustalık belgesi alanlar, eksik derslerini tamamlamaları halinde meslek lisesi diploması alabilir. Bu belgeyle isteyenler, ilgili alanlardaki ön lisans programlarına veya mesleki ve teknik alanlardaki ileri eğitim fırsatlarına yönelebilir.",
+  "is_hayatinda": "Deneyim ve bilgi birikimi arttıkça usta, ekip/vardiya sorumlusu veya atölye şefliği gibi görevlere yükselinebilir. Yeterli sermaye ve deneyime sahip olanlar kendi ısıl işlem/sementasyon atölyesini açabilir."
+ },
+ "benzer_meslekler": [
+  "Isıl İşlemci",
+  "Metal Sertleştirici",
+  "Su Verici (Metal)",
+  "Diğer Tavcılar, Su Vericiler ve Sementasyon Tavcıları",
+  "Diğer Metal Ergitme, Tavlama ve Tasfiye İzabecileri",
+  "İzabeci (Metal Tavlama Ocağı)"
+ ],
+ "ek_bilgiler": "Siyanürleme işleminde kullanılan potasyum/sodyum siyanür gibi maddeler ile nitratlamada kullanılan amonyak gazı zehirli ve yanıcı olabileceğinden, bu meslekte iş sağlığı ve güvenliği kurallarına, kişisel koruyucu donanım kullanımına ve havalandırma şartlarına titizlikle uyulması önem taşır. Bu nedenle çalışma koşulları tehlikeli/çok tehlikeli işler kapsamında değerlendirilebilir; işyerlerinin bu yönde ek eğitim ve sertifikasyon istemesi mümkündür.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T11:24:59",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6666
+  }
+ }
+}

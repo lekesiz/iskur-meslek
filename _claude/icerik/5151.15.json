@@ -1,0 +1,71 @@
+{
+ "arac_gerec": [
+  "Kişisel koruyucu donanım (bone, maske, eldiven, önlük, koruyucu ayakkabı)",
+  "Dezenfektan ve temizlik kimyasalları",
+  "Sıcaklık ölçüm cihazları (termometre)",
+  "pH metre",
+  "Hijyen kontrol test kitleri (ATP ölçüm cihazı vb.)",
+  "Temizlik ekipmanları (fırça, mop, bez, sprey vb.)",
+  "Numune alma araç ve gereçleri",
+  "Etiketleme ve ambalaj kontrol malzemeleri",
+  "El yıkama ve dezenfeksiyon üniteleri",
+  "HACCP kayıt formları ve kontrol çizelgeleri",
+  "Yasal mevzuat ve uygulama dokümanları",
+  "İletişim araçları (telsiz, telefon)"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve titiz,",
+  "Sorumluluk sahibi,",
+  "Hijyen ve temizlik kurallarına duyarlı,",
+  "Gözlem gücü yüksek,",
+  "Düzenli ve disiplinli çalışabilen,",
+  "Takım çalışmasına yatkın,",
+  "Talimat ve prosedürlere uyan,",
+  "Fiziksel olarak sağlıklı ve dayanıklı,"
+ ],
+ "calisma_ortami": "Gıda hijyeni ve sanitasyon görevlisi; gıda üretim tesisleri, fabrikalar, oteller, restoranlar, catering firmaları, hastane ve okul mutfakları gibi kapalı alanlarda çalışır. Çalışma ortamı sıklıkla nemli, soğuk veya sıcak olabilir; uzun süre ayakta durmayı ve bazen vardiyalı çalışmayı gerektirir. Kişisel koruyucu donanım kullanımı ve hijyen kurallarına titizlikle uyulması esastır.\n\nGörevini yerine getirirken üretim ve mutfak personeli, kalite kontrol birimi, vardiya sorumluları ve işletme yöneticileriyle sürekli iletişim halindedir. İş, temizlik kimyasallarıyla temas, kayma/düşme riski gibi bazı riskler taşıdığından iş sağlığı ve güvenliği kurallarına uyulması önemlidir.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin resmi olarak tanımlanmış, örgün bir okul eğitimi bulunmamaktadır. Bilgi ve beceriler genellikle gıda üretim işletmelerinde işbaşında usta yanında yetişme yoluyla, Halk Eğitim Merkezleri ile İŞKUR'un ve özel kurumların açtığı hijyen, sanitasyon ve gıda güvenliği kurslarıyla kazanılmaktadır. İlgili alanda bilgi düzeyini artırmak isteyenler gıda teknolojisi, gıda mühendisliği gibi mesleki ve teknik eğitim programlarından da yararlanabilir.",
+  "giris_kosullari": [
+   "İlköğretim mezunu olmak (meslek için aranan minimum eğitim düzeyi)",
+   "Kurslara katılım için genellikle okuryazar olmak ve temel okuma-yazma becerisine sahip olmak yeterlidir",
+   "Bazı işletmeler sağlık raporu ve portör muayenesi şartı arayabilir"
+  ],
+  "sure_ve_icerik": "Kurs süreleri kurumdan kuruma değişmekle birlikte genellikle kısa süreli (birkaç gün ile birkaç hafta arası) programlardır. İçerikte gıda güvenliği ve hijyeni, kişisel hijyen kuralları, temizlik ve dezenfeksiyon yöntemleri, HACCP ve kritik kontrol noktaları, ilgili mevzuat gibi konular yer alır. Mesleğin büyük bölümü işbaşında uygulamalı olarak öğrenilir.",
+  "belge": "Kursu başarıyla tamamlayanlara katılım belgesi veya sertifika verilir. Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Gıda hijyeni ve sanitasyon görevlileri; gıda üretim ve işleme tesisleri, gıda fabrikaları, restoran ve otel mutfakları, catering firmaları, hastane ve okul mutfakları, market ve süpermarketlerin gıda bölümleri gibi gıdayla temas edilen hemen her işletmede istihdam edilebilir. Çalışma alanları ağırlıklı olarak özel sektördedir; kamuya bağlı kurumların mutfak ve yemekhane hizmetlerinde de görev alınabilir. Gıda güvenliği mevzuatının yaygınlaşmasıyla bu alandaki istihdam olanakları artmaktadır.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğin eğitimi genellikle kısa süreli kurslar veya işbaşında öğrenme şeklinde olduğundan eğitim süresince düzenli bir ücret söz konusu değildir. İşveren tarafından desteklenen kurslarda ulaşım veya yemek gibi giderler işletme tarafından karşılanabilir.",
+  "egitim_sonrasi": [
+   "Özel sektörde yeni başlayanlar genellikle asgari ücret düzeyinde kazanç elde eder.",
+   "Deneyim, bilgi birikimi ve çalışılan işletmenin büyüklüğüne göre ücret artabilir.",
+   "Kamu kurumlarına bağlı yerlerde çalışanlar tabi oldukları mevzuata (işçi statüsündeyse toplu iş sözleşmesine) göre ücret alır."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Meslekte belirli bir dikey ilerleme basamağı bulunmamaktadır. Kişiler aldıkları ek hijyen, sanitasyon ve gıda güvenliği kurslarıyla bilgi ve becerilerini geliştirebilir; isteyenler gıda teknolojisi veya gıda mühendisliği gibi ilgili mesleki ve teknik eğitim programlarına yönelerek mesleki bilgisini ileri düzeye taşıyabilir.",
+  "is_hayatinda": "Deneyim kazandıkça hijyen sorumlusu, kalite kontrol sorumlusu veya vardiya/ekip sorumlusu gibi görevlere yükselebilir; büyük işletmelerde hijyen ve sanitasyon biriminin yönetiminde görev alabilir."
+ },
+ "benzer_meslekler": [
+  "İşletmelerde Hijyen Görevlisi"
+ ],
+ "ek_bilgiler": "Gıda sektöründe çalışanlar için ilgili mevzuat gereği hijyen eğitimi alma zorunluluğu bulunmaktadır. Bu nedenle Halk Eğitim Merkezleri ve yetkilendirilmiş kurumlarca verilen hijyen eğitimi sertifikaları, bu meslekte çalışmak isteyenler için önemli bir gerekliliktir ve istihdamda avantaj sağlar.",
+ "gorevler": [
+  "Gıdaların üretiminde hijyeni sağlar.",
+  "Hijyen ve sanitasyon kurallarını uygular.",
+  "İşletme temizlik ve dezenfeksiyon programlarını uygular.",
+  "Ambalaj, etiket ve gıdadaki fiziksel kontrolleri yapar.",
+  "Kişisel hijyeni sağlar.",
+  "Kritik kontrol noktalarını belirler (HACCP).",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T17:57:30",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6662
+  }
+ }
+}

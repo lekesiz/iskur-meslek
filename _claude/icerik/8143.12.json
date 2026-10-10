@@ -1,0 +1,76 @@
+{
+ "arac_gerec": [
+  "Kağıt mendil katlama makinası",
+  "Ham kağıt rulosu / hammadde besleme ünitesi",
+  "Kesme ve bıçak ünitesi",
+  "Makine ayar anahtarları ve el aletleri",
+  "Yağlama ekipmanları ve bakım malzemeleri",
+  "Kumpas, metre gibi ölçüm aletleri",
+  "Koruyucu eldiven",
+  "Kulak koruyucu / iş güvenliği ekipmanları",
+  "İş elbisesi/önlük",
+  "Paketleme bandı/konveyör",
+  "Temizlik malzemeleri",
+  "Yedek parça takımı"
+ ],
+ "benzer_meslekler": [
+  "Kağıt Peçete Katlama Makinası Operatörü",
+  "Islak Mendil Rulo Besleme İşçisi",
+  "Islak Havlu Mendil Makinesi Operatörü",
+  "Islak Kutu Mendil Makinesi Operatörü",
+  "Islak Mendil Kesim İşçisi",
+  "Islak Mendil Etiketleme Makinesioperatörü"
+ ],
+ "calisma_alanlari": "Kağıt mendil, peçete ve benzeri kağıt ürünleri üreten fabrika ve işletmelerde istihdam edilirler. Ambalaj ve hijyen ürünleri sektöründeki üretimin artmasıyla birlikte bu alanda çalışan nitelikli makine operatörlerine ihtiyaç duyulmaktadır. Çalışma alanları genellikle orta ve büyük ölçekli kağıt ürünleri üretim tesisleridir.",
+ "calisma_ortami": "Meslek mensupları genellikle fabrika ve atölye ortamında, kapalı mekanlarda çalışırlar. Çalışma ortamı makine gürültüsü, titreşim ve kağıt tozu içerebilir; çoğunlukla ayakta ve makine başında geçer. İşletmenin üretim yoğunluğuna göre vardiyalı çalışma düzeni söz konusu olabilir.\n\nÇalışma sırasında makine ile sürekli etkileşim içindedir; üretim hattındaki diğer operatörler, bakım-onarım personeli ve vardiya sorumlusu/formen ile iş birliği içinde çalışır. İş sağlığı ve güvenliği kurallarına uyum, makine ile çalışmanın getirdiği riskler nedeniyle önemlidir.",
+ "egitim": {
+  "verildigi_yerler": "Bu meslek için örgün eğitim sisteminde ayrı bir meslek lisesi alanı/dalı tanımlanmamıştır. Meslek, genellikle işbaşında usta yanında yetişerek veya Halk Eğitim Merkezleri ile İŞKUR'un açtığı mesleki eğitim kurslarına katılarak öğrenilir. Kağıt ve kağıt ürünleri üreten işletmeler, işe alınan personele kısa süreli oryantasyon ve iş başı eğitimi verir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak (meslek için gereken minimum eğitim düzeyi)",
+   "İş mevzuatına göre gerekli yaş koşulunu sağlamış olmak",
+   "Sağlık durumunun makine başında ayakta ve dikkat gerektiren işte çalışmaya uygun olması"
+  ],
+  "sure_ve_icerik": "Meslekte standart bir eğitim süresi ve müfredatı bulunmamaktadır. İşe yeni başlayan kişi, deneyimli bir operatör veya usta gözetiminde kısa süreli (günler veya haftalar sürebilen) uygulamalı eğitim alarak makinenin çalışma prensiplerini, ayarlarını, ürün kontrolünü, basit bakım işlemlerini ve iş güvenliği kurallarını öğrenir. İşletme içi eğitimler ve ilgili kurslarla bilgi ve beceriler zamanla geliştirilir.",
+  "belge": "Eğitim sonunda resmi bir diploma verilmez; çalışılan işletme tarafından düzenlenen iç eğitim/katılım belgesi verilebilir. Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "ek_bilgiler": "",
+ "genel_ozellikler": [
+  "El ve göz koordinasyonuna sahip,",
+  "Dikkatli ve tedbirli,",
+  "Makine ve ekipman kullanımına ilgili,",
+  "Fiziksel olarak dayanıklı,",
+  "Takım çalışmasına uyumlu,",
+  "Sorumluluk sahibi,",
+  "Vardiyalı ve yoğun tempoda çalışmaya uygun,"
+ ],
+ "gorevler": [
+  "Kağıt mendil katlama makinasını kontrol ederek teslim alır,",
+  "Katlama makinesinin yapılacak işlerin niteliğine göre gerekli ayarlarını yapar,",
+  "Makinayı çalıştırarak kağıt mendil katlama işlemlerini yapar,",
+  "Makinadan çıkan ürünleri kontrol eder, hatalı katlamaları ayırır,",
+  "Katlama işlemi biten ürünleri paketleme bölümüne gönderir,",
+  "Makinanın arızalanması durumunda tamir edilmesini sağlar,",
+  "Makinanın bakım ve yağlama işlemlerini yapar/yapılmasını sağlar,",
+  "Meslek alanı ile ilgili gelişmeleri takip eder, uygular,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Bu meslekte kademeli bir örgün mesleki eğitim ilerleme sistemi bulunmamaktadır. Kişi iş başında kazandığı deneyimle ustalık seviyesine ulaşabilir; ayrıca Halk Eğitim Merkezleri ve İŞKUR'un açtığı ilgili kurslara katılarak bilgi ve becerilerini geliştirebilir.",
+  "is_hayatinda": "Deneyim ve performansına bağlı olarak usta operatör, ekip sorumlusu, vardiya amiri veya üretim şefi gibi görevlere yükselebilirler."
+ },
+ "kazanc": {
+  "egitim_suresince": "Meslekte resmi bir çıraklık eğitimi sistemi bulunmadığından, işe yeni başlayanlar genellikle işletmedeki deneme/eğitim süresi boyunca genellikle asgari ücret düzeyinde ücret alır; çalıştıkları süre boyunca sosyal güvenlik kapsamında sigortalanırlar.",
+  "egitim_sonrasi": [
+   "Çalışanların kazancı, çalıştığı işletmenin büyüklüğüne, kişinin tecrübesine, bilgi ve beceri düzeyine ve sektörün ücret düzeyine göre değişebilmektedir.",
+   "Özel sektörde istihdam edilen bu meslek mensuplarının ücretleri işveren ile yapılan anlaşmaya göre belirlenir; deneyim ve sorumluluk arttıkça ücret düzeyi de artabilir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T13:12:51",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 4847
+  }
+ }
+}

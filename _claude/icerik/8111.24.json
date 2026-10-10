@@ -1,0 +1,86 @@
+{
+ "arac_gerec": [
+  "Tamburlu kesici makine (shearer)",
+  "Makine kumanda/kontrol ünitesi ve gösterge paneli",
+  "Konveyör bant sistemi",
+  "Yürüyen tahkimat (powered roof support) sistemi ile koordinasyon donanımı",
+  "Su püskürtme ve soğutma sistemi",
+  "Elektrik kabloları ve bağlantı ekipmanları",
+  "Su hortumları",
+  "Yeraltı telefonu/telsizi",
+  "Gaz ölçüm cihazı (dedektör)",
+  "Anahtar takımı ve temel el aletleri",
+  "Kumanda şarj ünitesi",
+  "Kişisel koruyucu donanım (baret, kafa lambası, oksijenli ferdi kurtarıcı, toz maskesi, koruyucu gözlük, eldiven, çelik burunlu bot)"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve tedbirli,",
+  "El-göz koordinasyonu ve mekanik alet kullanım becerisine sahip,",
+  "Fiziksel olarak dayanıklı,",
+  "Ekip çalışmasına uyumlu,",
+  "Sorumluluk sahibi ve kurallara bağlı,",
+  "Kapalı, dar ve sınırlı alanlarda çalışmaya elverişli,",
+  "Soğukkanlı ve hızlı karar verebilen,",
+  "Değişen çalışma koşullarına uyum sağlayabilen"
+ ],
+ "calisma_ortami": "Tamburlu kesici operatörü, yer altı kömür madenlerinde uzun ayak (longwall) üretim yönteminin uygulandığı dar, kapalı ve sınırlı yükseklikteki çalışma alanlarında görev yapar. Çalışma ortamı gürültülü, tozlu, nemli/ıslak olabilir; gaz (metan, karbonmonoksit vb.), hava sıcaklığı ve hava hızı gibi fiziksel koşullar olağan dışı şekilde değişebilir. Bu nedenle çalışma süresince kişisel koruyucu donanım kullanımı zorunludur ve iş sağlığı güvenliği kurallarına titizlikle uyulması gerekir.\n\nOperatör, vardiya esasına göre (gündüz/gece dönüşümlü) çalışır; vardiya boyunca ayakta, hareketli ve dikkatli bir şekilde makineyi güvenli mesafeden kumanda eder. Çalışma sırasında şilt (tahkimat) operatörü, galeri açma makinesi operatörü, konveyör ve nakliyat işçileri, elektrik-mekanik bakım personeli, bir önceki/sonraki vardiya operatörü ve saha amirleriyle sürekli koordinasyon ve iletişim içindedir.",
+ "gorevler": [
+  "Araç ve gereçleri kullanım ve güvenlik kurallarına uygun şekilde hazırlar.",
+  "Makine kontrol listesine göre makine ve donanımlarını kontrol eder.",
+  "Yetkisi dahilindeki eksiklikleri tamamlar.",
+  "Bir önceki vardiya operatöründen aldığı bilgiler doğrultusunda çalışma alanını kontrol eder.",
+  "Ortamda gaz, su, toz, hava sıcaklığı, hava hızı gibi fiziksel şartlardaki olağan dışı durumları amirine bildirir.",
+  "Çalışma ortamında kazı makinesinin çalışmasına ve kazı yapılmasına engel olabilecek faktörleri kontrol ederek engellerin ortadan kaldırılmasını sağlar.",
+  "Çalışma ortamının kontrollerini yer altı özelliğine (damar yapısı, tavan-taban koşulları) göre şilt operatörü ile koordineli olarak yapar.",
+  "Çalışma ortamında sağlık ve güvenlik yönünden ciddi ve yakın bir tehlike veya olumsuzlukla karşılaştığında ve koruma tedbirlerinde bir eksiklik gördüğünde ilgili birim/sorumluya derhal bildirir.",
+  "Amirlerinden ve bir önceki vardiya operatöründen aldığı bilgilerle iş planını yapar.",
+  "Makinenin kontrol listesine göre gösterge paneli, elektrik kablosu, su hortumları, mekanik aksam ve donanımları gözle kontrol eder.",
+  "Konveyörün çalışıp çalışmadığını gözle kontrol eder.",
+  "Ayak boyunca makineyi güvenli mesafeden kumanda ederek kesim yapar.",
+  "Vardiya süresince yaptığı iş ve işlemlerle ilgili bilgileri vardiya raporuna işler.",
+  "Makinenin enerjisini keser.",
+  "İşi bitince makinenin özelliğine göre kumandasını şarja takar.",
+  "Kesici makinenin ve çalışma alanının son durumu hakkında bir sonraki vardiya operatörüne bilgi verir.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi için örgün bir meslek lisesi veya üniversite programı bulunmamaktadır. Meslek, genellikle yer altı kömür madenciliği yapan işletmelerde usta yanında işbaşında eğitim yoluyla; ayrıca işveren, İŞKUR ve Halk Eğitim Merkezleri tarafından açılan iş sağlığı güvenliği ve ilgili mesleki eğitim kursları ile kazanılmaktadır.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "18 yaşını doldurmuş olmak",
+   "Yer altında ağır ve tehlikeli işlerde çalışabilir olduğunu gösteren sağlık raporuna sahip olmak"
+  ],
+  "sure_ve_icerik": "Eğitim süreci; iş sağlığı ve güvenliği eğitimleri ile işletme bünyesinde usta yanında uygulamalı çalışma şeklinde yürütülür. Bu süreçte tamburlu kesici makinenin tanıtımı, kullanım ve temel bakım esasları, ayak kesim teknikleri, konveyör ve tahkimat sistemleriyle koordinasyon, gaz ve ortam kontrolleri ile iş güvenliği uygulamaları öğretilir. Eğitim süresi, işletmenin eğitim programına göre değişkenlik gösterir.",
+  "belge": "İşletme veya kurs tarafından düzenlenen eğitim/kurs bitirme belgesi verilir. Mesleğin yer altı kömür madenciliğinde tehlikeli ve çok tehlikeli işler kapsamında değerlendirilmesi nedeniyle, Mesleki Yeterlilik Kurumu (MYK) Mesleki Yeterlilik Belgesi istihdamda önemli bir koşul veya tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Tamburlu kesici operatörleri, uzun ayak (longwall) üretim yönteminin uygulandığı yer altı kömür madenlerinde istihdam edilirler. Bu kapsamda Türkiye Taşkömürü Kurumu (TTK) gibi kamuya bağlı maden işletmelerinde ve özel sektöre ait yer altı kömür madenciliği faaliyeti gösteren işletmelerde çalışabilirler.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğin kazanılması örgün bir eğitim programına bağlı olmadığından standart bir eğitim ücreti bulunmamaktadır. İşbaşında usta yanında yetişme sürecinde, çalışılan işletmenin uygulamasına göre genellikle asgari ücret düzeyinde bir kazanç söz konusu olabilir.",
+  "egitim_sonrasi": [
+   "Yer altı maden işlerinde çalışanların çalışma süresi, kanunla günde en çok 7,5 saat ve haftada en çok 37,5 saat olarak sınırlandırılmıştır.",
+   "Yer altında çalışan maden işçileri için kanunla belirlenmiş bir taban ücret uygulaması bulunmaktadır.",
+   "Kamuya bağlı maden işletmelerinde işçi statüsünde çalışanların ücretleri toplu iş sözleşmesi hükümlerine göre belirlenir; özel sektörde ise ücret, işletmenin büyüklüğü, deneyim, kıdem ve mevcut toplu iş sözleşmesi koşullarına göre değişebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğe yönelik kademeli bir örgün mesleki eğitim programı bulunmamaktadır. Deneyim kazandıkça işletme içi ileri düzey makine kullanımı ve iş güvenliği eğitimlerine yönelebilirler.",
+  "is_hayatinda": "Mesleki tecrübe, bilgi birikimi ve performanslarına göre usta, posta başı (vardiya amiri), nezaretçi veya saha şefliği gibi görevlere yükselebilirler."
+ },
+ "benzer_meslekler": [
+  "Galeri Açma Makinesi Operatörü (Maden Ocağı)",
+  "Yürüyen Tahkimat Sürücüsü",
+  "Mekanize Kazı Operatörü",
+  "Otomatik Maden Makinesi Operatörü",
+  "Kumanda Merkezi Operatörü (Kömür Madeni)",
+  "Dragline Operatörü"
+ ],
+ "ek_bilgiler": "Yer altı kömür madenciliği, İş Kanunu kapsamında ağır ve tehlikeli işler arasında değerlendirildiğinden, bu işlerde kadın işçi çalıştırılmasına yasal olarak izin verilmemektedir. Mesleğin tehlikeli ve çok tehlikeli işler kapsamında olması nedeniyle düzenli sağlık kontrolü ve iş sağlığı güvenliği eğitimi önem taşımakta, Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilmektedir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T10:14:11",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 8181
+  }
+ }
+}

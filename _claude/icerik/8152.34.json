@@ -1,0 +1,79 @@
+{
+ "arac_gerec": [
+  "Kumaş sarma makinesi",
+  "Boş mil (bobin)",
+  "Sarım silindirleri ve iplik/kumaş kılavuzları",
+  "Gerginlik ayar sistemi",
+  "Uzunluk ölçer (numaratör/sayaç)",
+  "Kesim makası",
+  "İşaretleme kalemi veya etiket",
+  "Koruyucu eldiven ve iş önlüğü",
+  "Temizlik bezi ve fırça",
+  "Kumaş topu taşıma arabası",
+  "Tartı/baskül",
+  "Basit bakım el aletleri"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve titiz,",
+  "El ve göz koordinasyonu iyi,",
+  "Fiziksel olarak dayanıklı ve ayakta çalışmaya uygun,",
+  "Sorumluluk sahibi,",
+  "Renk ve doku farklılıklarını ayırt edebilen,",
+  "Makine ve teknik aletlere ilgi duyan,",
+  "Düzenli ve sistemli çalışabilen,",
+  "Ekip içinde uyumlu çalışabilen,"
+ ],
+ "calisma_ortami": "Kumaş sarıcılar, dokuma ve tekstil üretimi yapılan fabrika ve atölyelerin üretim bölümlerinde, kapalı mekânlarda çalışır. Çalışma ortamı genellikle gürültülü olup, havada lif ve toz bulunabilir; bu nedenle işyerinin havalandırma düzeni önem taşır. Görev büyük ölçüde ayakta ve makine başında sürdürülür, işin niteliğine göre tekrarlayan hareketler ve fiziksel eforu içerir.\n\nÇalışma tam gün esasına dayanır; üretim hacmine bağlı olarak vardiyalı çalışma söz konusu olabilir. Meslek elemanı çalışırken öncelikle makine ve kumaşla ilgilenir; zaman zaman vardiya arkadaşları, atölye şefi ve bakım personeli ile iletişim kurar.",
+ "egitim": {
+  "verildigi_yerler": "Kumaş Sarıcılık için örgün eğitimde ayrı bir okul programı bulunmamaktadır. Meslek genellikle tekstil işletmelerinde işbaşında, usta yanında uygulamalı olarak öğrenilir. Ayrıca Halk Eğitim Merkezleri ve İŞKUR tarafından açılan tekstil/dokuma alanındaki mesleki eğitim kursları ile Mesleki Eğitim Merkezlerinin ilgili tekstil dallarında da temel bilgi ve beceriler kazandırılabilir.",
+  "giris_kosullari": [
+   "İlköğretim mezunu olmak (meslek için gereken minimum eğitim düzeyi ilköğretimdir)",
+   "18 yaşını doldurmuş olmak (işbaşı eğitimlerde); mesleki eğitim merkezi programlarına küçük yaşta veli izniyle devam edilebilir",
+   "Ayakta ve fiziksel efor gerektiren çalışmaya uygun sağlık durumuna sahip olmak",
+   "El ve göz koordinasyonunun iyi olması"
+  ],
+  "sure_ve_icerik": "Eğitim süresi işletmeden işletmeye ve kursa göre değişmekle birlikte, işbaşı eğitimler genellikle birkaç haftadan birkaç aya kadar sürebilir. Eğitim içeriğinde kumaş sarma makinesinin tanıtımı ve kullanımı, kumaş ve iplik özellikleri, makine ayarları (hız, gerginlik), kalite kontrol ve hata tespiti, basit bakım-onarım işlemleri ile iş sağlığı ve güvenliği konuları yer alır.",
+  "belge": "İşbaşı eğitimlerde işletme tarafından deneyim/çalışma belgesi, kurs yoluyla edinilen eğitimlerde ise Kurs Bitirme Belgesi verilebilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Kumaş Sarıcılar, dokuma kumaş üreten tekstil fabrikaları, dokuma ve örme atölyeleri ile kumaş terbiye (bitim) işletmelerinin sarım bölümlerinde çalışabilir. Bu meslek daha çok özel sektörde, tekstil sanayinin yoğun olduğu Bursa, Denizli, Kahramanmaraş, İstanbul, Gaziantep gibi illerdeki işletmelerde istihdam alanı bulur. Kamu kurumlarında bu meslek için istihdam olanağı bulunmamaktadır.",
+ "kazanc": {
+  "egitim_suresince": "İşbaşında usta yanında eğitim alanlar için genellikle asgari ücret düzeyinde veya işletmenin belirlediği çıraklık/eğitim ücreti söz konusudur. Kurs yoluyla alınan eğitimlerde ise herhangi bir kazanç bulunmamaktadır.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanların ücreti genellikle asgari ücret düzeyindedir.",
+   "Deneyim, iş hızı, hatasız üretim becerisi ve çalışılan işletmenin büyüklüğüne bağlı olarak ücret artabilir.",
+   "Özel sektörde çalışıldığından ücret, işveren ile çalışan arasındaki anlaşmaya ve toplu iş sözleşmesi varsa buna göre belirlenir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "İşletme bünyesinde düzenlenen hizmet içi eğitimlerle, çalışan kumaş sarma dışında diğer dokuma/örme makineleri operatörlüğü gibi yakın mesleklere yönelik bilgi ve beceri kazanabilir.",
+  "is_hayatinda": "Deneyim ve performansa bağlı olarak ekip lideri, atölye ustası veya bölüm sorumlusu konumuna yükselebilir; ilgili makine operatörlüğü alanlarında uzmanlaşabilir."
+ },
+ "benzer_meslekler": [
+  "Kumaş Katlama Makinesi Operatörü",
+  "Kumaş Açıcı",
+  "Kumaş Serim Makinesi Operatörü",
+  "Denim Kumaş Operatörü",
+  "Dokuma Makineleri Operatörü ve Ayarcısı",
+  "Sanfor Operatörü(Sanforcu)"
+ ],
+ "ek_bilgiler": "Mesleki Yeterlilik Kurumu (MYK) belgesi bu meslek için istihdamda tercih sebebi olabilir. İstihdam düzeyi, tekstil sektörünün üretim ve ihracat hacmine bağlı olarak değişebilir.",
+ "gorevler": [
+  "İşletmenin genel çalışma prensipleri doğrultusunda, araç, gereç ve ekipmanları etkin bir şekilde kullanarak, işçi sağlığı, iş güvenliği ve çevre koruma düzenlemelerine ve mesleğin verimlilik ve kalite gereklerine uygun olarak çalışır,",
+  "Sarılacak kumaş ucunu makine üzerindeki silindir ve kılavuzlardan geçirerek boş mile sarar,",
+  "Makinenin süratini ve sarılacak kumaşın gerginliğini temin eden sistemi ayarlar,",
+  "Kumaş uzunluğunu tespit eden numaratörü sıfıra alır,",
+  "Makineyi çalıştırıp, makinenin çalışmasını ve sarılmakta olan kumaşı kontrol ederek kırışıkları düzeltir,",
+  "Kumaş yüzeyinde tespit ettiği yağlı ve kirli kısımları işaretler,",
+  "Dolan kumaş topunu makineden çıkartıp makineyi temizler,",
+  "Makinenin bakım ve onarımını yapabilir, sarılan kumaşların uzunluğunu ve ağırlığını gösteren kayıtları tutabilir, kumaş toplarına cins ve ölçü bildiren işaretler koyabilir,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T13:53:42",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5420
+  }
+ }
+}

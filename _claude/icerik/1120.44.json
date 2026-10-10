@@ -1,0 +1,69 @@
+{
+ "gorevler": [
+  "Proje planını oluşturur ve kaynakları atar.",
+  "Yazılım ekibi ile paydaşlar arasındaki iletişimi yönetir.",
+  "Risk analizleri yaparak önleyici faaliyetler planlar.",
+  "Yazılım geliştirme süreçlerini (Agile, Waterfall vb.) denetler.",
+  "Teslimatların kalite standartlarına uygunluğunu kontrol eder.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "arac_gerec": [
+  "Bilgisayar",
+  "Proje yönetim yazılımları (Jira, Trello, MS Project vb.)",
+  "Görev takip ve zaman çizelgesi araçları",
+  "Versiyon kontrol sistemleri (Git vb.)",
+  "Kurumsal iletişim ve video konferans uygulamaları (Teams, Slack vb.)",
+  "Doküman ve gereksinim yönetim araçları",
+  "Bulut tabanlı işbirliği ve paylaşım platformları",
+  "Sunum hazırlama araçları",
+  "Diğer büro malzemeleri"
+ ],
+ "genel_ozellikler": [
+  "Analitik düşünebilen ve problem çözme becerisine sahip,",
+  "Planlama ve organizasyon yeteneği güçlü,",
+  "İyi iletişim kurabilen ve ikna becerisine sahip,",
+  "Liderlik özellikleri taşıyan,",
+  "Sorumluluk sahibi ve güvenilir,",
+  "Zaman yönetimine önem veren,",
+  "Teknolojik gelişmeleri yakından takip eden,",
+  "Takım çalışmasına yatkın ve işbirliğine açık,"
+ ],
+ "calisma_ortami": "Yazılım Proje Yöneticisi genellikle ofis ortamında, bilgisayar başında oturarak çalışır; çalışma biçimi günümüzde ofiste, uzaktan veya hibrit olarak sürdürülebilmektedir. Çalışma sırasında yazılım geliştiriciler, test uzmanları, tasarımcılar, müşteriler, proje paydaşları ve üst yönetimle sık sık toplantılar yapar, yazılı ve sözlü iletişim kurar.\n\nÇalışma saatleri genellikle büro çalışma düzenine uygundur; ancak proje teslim tarihlerine yaklaşıldığında yoğun tempo, zaman zaman mesai saatleri dışında çalışma gerekebilir. Uzun süre ekran başında oturmaya bağlı fiziksel yorgunluk ve zaman baskısından kaynaklanan stres, mesleğin dikkat edilmesi gereken yönleri arasındadır.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin temel eğitimi üniversitelerin bilgisayar mühendisliği, yazılım mühendisliği, bilgisayar bilimleri gibi lisans programlarında verilmektedir. Yazılım geliştirme deneyiminin yanında yönetim bilgisi edinmek isteyenler işletme, endüstri mühendisliği veya yönetim bilişim sistemleri gibi bölümlerden de mezun olabilir. Proje yönetimi metodolojileri (Agile, Scrum, Waterfall vb.) konusunda üniversitelerin sürekli eğitim merkezleri ve özel eğitim kurumlarınca sertifika programları düzenlenmektedir.",
+  "giris_kosullari": [
+   "Lise veya dengi okul mezunu olmak,",
+   "YKS (Yükseköğretim Kurumları Sınavı) kılavuzunda belirtilen giriş koşullarını taşımak."
+  ],
+  "sure_ve_icerik": "İlgili lisans eğitimi 4 yıl sürer; bu süreçte programlama, yazılım mühendisliği, veri yapıları, sistem analizi ve tasarımı gibi dersler verilir. Türkiye'de doğrudan \"Yazılım Proje Yöneticiliği\" adıyla resmî bir lisans programı bulunmamaktadır; meslek genellikle yazılım geliştirici, sistem analisti gibi pozisyonlarda edinilen iş deneyiminin ardından proje yönetimi bilgi ve becerilerinin kazanılmasıyla ulaşılan bir uzmanlık/yönetim görevidir. Bu amaçla proje yönetimi metodolojileri üzerine düzenlenen kurs ve sertifika programlarına katılım mesleki gelişim açısından önemlidir.",
+  "belge": "İlgili lisans programından mezuniyet sonunda lisans diploması alınır. Proje yönetimi alanında katılınan kurs ve sertifika programları sonunda katılım veya başarı belgesi verilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Yazılım Proje Yöneticileri; yazılım geliştirme şirketlerinde, bilgi teknolojileri danışmanlık firmalarında, bankacılık ve finans kuruluşlarında, e-ticaret, telekomünikasyon şirketlerinde ve kamu kurumlarının bilgi işlem birimlerinde görev yapabilir. Yazılım üreten veya kullanan hemen her sektörde istihdam olanağı bulunmaktadır.\n\nKamu kurumlarında bu görev genellikle mühendis veya uzman kadrosunda, 657 sayılı Devlet Memurları Kanunu'na tabi olarak yürütülür. Özel sektörde işe alım koşulları, görev unvanı ve ücretlendirme işveren ile çalışan arasındaki anlaşmaya, deneyime ve işletmenin büyüklüğüne göre değişir. Yazılım sektörünün sürekli büyümesi, bu meslekte istihdam olanaklarını artırmaktadır.",
+ "kazanc": {
+  "egitim_suresince": "Lisans eğitimi süresince öğrenciler düzenli bir kazanç elde etmez; burs, kredi veya staj dönemlerinde sınırlı bir ödeme alabilirler.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında çalışanlar 657 sayılı Devlet Memurları Kanunu'na tabi olarak unvan ve derecelerine göre maaş alır.",
+   "Özel sektörde yeni mezun yazılım geliştiricisi olarak işe başlayanlar genellikle asgari ücret düzeyinde veya biraz üzerinde bir ücretle çalışmaya başlar; deneyim kazanıp proje yöneticiliği pozisyonuna yükseldikçe kazanç, işletmenin büyüklüğüne, sektöre ve bireysel performansa göre artış gösterir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Bilgisayar mühendisliği, yazılım mühendisliği veya ilgili bölümlerde lisans eğitimini tamamlayanlar; proje yönetimi, Agile/Scrum gibi metodolojiler üzerine sertifika programlarına katılarak veya işletme/yönetim alanında yüksek lisans yaparak kendilerini bu mesleğe yönelik geliştirebilirler.",
+  "is_hayatinda": "Genellikle yazılım geliştirici, sistem analisti veya yazılım test uzmanı gibi pozisyonlarda deneyim kazanan kişiler; ekip lideri, proje yöneticisi, kıdemli proje yöneticisi, program yöneticisi ve ardından bilgi teknolojileri direktörlüğü veya genel müdür yardımcılığı gibi üst düzey yönetim pozisyonlarına yükselebilir."
+ },
+ "benzer_meslekler": [
+  "Direktör",
+  "Koordinatör-Depolama, İletişim ve Ulaştırma",
+  "Genel Müdür-Depolama, İletişim ve Ulaştırma (Özel Sektör)",
+  "Genel Müdür Yardımcısı-Depolama, İletişim ve Ulaştırma (Özel Sektör)",
+  "Tepe Yönetici-İcra Kurulu Başkanı (CEO)"
+ ],
+ "ek_bilgiler": "Yazılım Proje Yöneticiliği, Türkiye'de doğrudan bir lisans programıyla kazanılan bir meslek olmaktan çok; yazılım geliştirme alanında edinilen mesleki deneyimin üzerine proje yönetimi bilgi ve becerisinin eklenmesiyle ulaşılan bir uzmanlık/yönetim pozisyonudur. Bu nedenle mesleğe genellikle doğrudan değil, kariyer basamaklarıyla ulaşılır.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-07T18:46:54",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6802
+  }
+ }
+}

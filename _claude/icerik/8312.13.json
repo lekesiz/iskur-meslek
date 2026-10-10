@@ -1,0 +1,83 @@
+{
+ "arac_gerec": [
+  "Makas ve makas çevirme kolu",
+  "El feneri",
+  "Gündüz ve gece işaret bayrakları",
+  "İşaret levhaları ve sinyal fenerleri",
+  "Telsiz, telefon gibi iletişim araçları",
+  "Takoz ve kal",
+  "Vagon el frenleri",
+  "Vagon bağlantı/kaplin ekipmanları",
+  "Kişisel koruyucu donanım (reflektörlü yelek, baret, eldiven, çelik burunlu ayakkabı)",
+  "İlkyardım çantası",
+  "Düdük/çağrı aleti",
+  "Manevra ve vagon kayıt defterleri/formları"
+ ],
+ "benzer_meslekler": [
+  "Tren Teşkil Memuru (Ara İstasyonlarda)",
+  "Tren Teşkil Memuru (Makasçı)",
+  "Tren Teşkil Memuru (Trende)",
+  "Tren Teşkil İşçisi",
+  "Demiryolu Frencisi",
+  "Revizör-Demiryolu"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve tedbirli,",
+  "Sorumluluk sahibi ve kurallara titizlikle uyan,",
+  "Fiziksel olarak dayanıklı, hareketli ve açık havada çalışmaya uygun,",
+  "Renkleri ve ışıklı işaretleri ayırt edebilen,",
+  "İşitme ve görme duyuları güçlü,",
+  "Takım halinde uyum içinde çalışabilen,",
+  "Hızlı ve doğru karar verebilen,",
+  "Gece ve vardiyalı çalışmaya istekli"
+ ],
+ "calisma_ortami": "Tren Teşkil Memuru (Gar), büyük ölçüde açık havada, gar ve istasyon sahalarında, tren hatları ile makaslar arasında hareket halinde çalışır. Çalışma ortamı yağmur, kar, aşırı sıcak ve soğuk gibi her türlü hava koşuluna açıktır; vagonlar, lokomotifler ve hareketli raylı araçlarla birlikte çalışıldığından çarpma, düşme, sıkışma gibi riskler bulunur. Bu nedenle iş sağlığı ve güvenliği kurallarına eksiksiz uyulması gerekir.\n\nÇalışma saatleri genellikle vardiyalıdır; gece, gündüz, hafta sonu ve resmi tatil günlerinde çalışma söz konusudur. Görevini yerine getirirken makinist, revizör, istasyon memurları ve diğer teşkil/manevra görevlileriyle sürekli iletişim ve koordinasyon içinde bulunur.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin, belirli bir örgün okul programına bağlı resmî bir eğitimi bulunmamaktadır. Temel bilgiler Halk Eğitim Merkezleri ve İŞKUR işbirliğiyle açılan mesleki eğitim kurslarında verilebilir; mesleğin esas eğitimi, işe alındıktan sonra TCDD veya ilgili demiryolu işletmesi tarafından düzenlenen hizmet içi eğitim programları ve deneyimli personel gözetiminde işbaşında tamamlanır.",
+  "giris_kosullari": [
+   "En az ilköğretim (ilkokul/ortaokul) mezunu olmak",
+   "İlgili kurumun açtığı işe alım sınavı veya mülakatını kazanmak",
+   "Görevin gerektirdiği sağlık koşullarına (görme, işitme, renk ayırt etme, fiziksel uygunluk) sahip olmak",
+   "Erkek adaylar için askerlik görevini tamamlamış, tecilli veya muaf olmak"
+  ],
+  "sure_ve_icerik": "Standart ve belirli bir süreye bağlı örgün bir eğitim programı yoktur. İşe yeni alınan personele; makasların yapısı ve kullanımı, manevra ve teşkil kuralları, işaretleşme, demiryolu mevzuatı, iş sağlığı ve güvenliği konularında teorik ve uygulamalı bir işe giriş/kurs eğitimi verilir. Bu eğitimin ardından görevliler, deneyimli bir teşkil memuru veya usta gözetiminde sahada uygulamalı olarak yetiştirilir.",
+  "belge": "Eğitimini ve uygulama sürecini başarıyla tamamlayanlara, çalıştığı kurum tarafından görev yetkisini gösteren bir sertifika veya belge verilir. Mesleki Yeterlilik Kurumu (MYK) tarafından ilgili alanda bir yeterlilik belgesi düzenlenmesi durumunda bu belge, istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Meslek elemanları başta TCDD olmak üzere, yük ve yolcu taşımacılığı yapan demiryolu işletmelerinin gar ve istasyonlarındaki tren teşkil ve manevra birimlerinde çalışır. İstihdam olanakları, ülkedeki demiryolu altyapı yatırımlarının ve yük/yolcu taşımacılığı hacminin artışına bağlı olarak değişkenlik gösterir.",
+ "gorevler": [
+  "Trenlerin dağıtım ve teşkil hizmetlerini yapar.",
+  "Makasın gördüğü hizmeti, çeşitlerini, önemini, parçalarını, çalışmasını, fener ve işaretlerini bilir; bunları kurallara uygun olarak kullanır.",
+  "Gereken araç, gereç ve işaretleri yanında bulundurur.",
+  "Temizlik ve bakımları yapılacak emniyet tesisatı ve makasların günlük ve haftalık temizliklerinin zamanında ve eksiksiz yapılmasını, bu makasların sürekli temiz ve aydınlık bulundurulmasını sağlar.",
+  "İstasyon yolları, makasları ve tesisleri tanır ve bilir; görev ve yetkisi dahilinde olanları kurallara uygun olarak kullanır.",
+  "Manevraların çeşitlerini, ayırma ve teşkil manevralarının nasıl ve ne şekilde yapıldığını ve manevrada gösterilmesi gereken teknik özeni bilir.",
+  "Manevraları yürürlükteki yönetmelik, genel emir ve emirlere uygun olarak, vagonlara ve içindeki eşyaya zarar vermeyecek şekilde yapar; emir ve işaretleri makinist ve diğer görevlilere kurallara uygun olarak verir.",
+  "Trenlerin sınıflarını, teşkilini, kendi işyerindeki trenlerin kalkış ve varış saatlerini bilir; trenin cinsine ve hızına uygun olmayan veya arızalı vagonların diziye konulmamasını sağlar.",
+  "Manevranın kısa sürede yapılmasını sağlar; manevra bitiminden sonra gerekli önlemleri alır.",
+  "Lokomotif ve vagonların ilgili birimlere verilmesi ve alınmasına ilişkin kayıtları tutar/tutulmasını sağlar.",
+  "Manevraları, gerektiğinde tren kabul ve sevk durumlarına göre belirli sürelerde durdurur; manevrayı izin hızını aşmayacak şekilde yapar.",
+  "Manevra sırasında ve bitiminde vagonların kendiliğinden hareket etmemesi için el frenlerini sıkar, gerektiğinde altlarına kal ve takoz koyar, vagonları birbirine bağlar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğin belirli bir örgün ilerleme basamağı bulunmamaktadır. Kurum içi ek eğitimler ve kurslarla revizörlük, demiryolu frenciliği, sinyalizasyon veya istasyon memurluğu gibi ilgili demiryolu mesleklerine geçiş yapılabilir.",
+  "is_hayatinda": "Kurum içinde kıdem, deneyim ve başarılı performansa bağlı olarak şef teşkil memurluğu, istasyon şefliği gibi daha yüksek sorumluluk gerektiren görevlere veya denetim/kontrolörlük pozisyonlarına yükselme imkânı bulunur."
+ },
+ "kazanc": {
+  "egitim_suresince": "İşe giriş eğitimi/kurs süresince genellikle çalışılan kurumun ödeme politikasına göre ücret alınır; kamu kurumlarında bu süreç aday memur maaşı veya eğitim ödeneği kapsamında değerlendirilebilir.",
+  "egitim_sonrasi": [
+   "Kamu kurumunda (TCDD gibi) memur statüsünde çalışanlar 657 sayılı Devlet Memurları Kanunu'na, işçi statüsünde çalışanlar ise ilgili toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde çalışanların ücreti işletmenin büyüklüğüne, deneyime ve çalışma koşullarına göre değişir; yeni başlayanlar genellikle asgari ücret düzeyinde bir ücretle işe başlar.",
+   "Vardiyalı çalışma, gece ve resmi tatil mesaileri nedeniyle ek ücret veya mesai ödemesi alınabilir."
+  ]
+ },
+ "ek_bilgiler": "Bu meslek, hareketli raylı araçlar ve vagonlarla birlikte açık sahada yürütüldüğünden tehlikeli işler kapsamında değerlendirilebilir; bu nedenle işe giriş ve periyodik sağlık muayeneleri ile düzenli iş güvenliği eğitimleri önem taşır.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T18:12:10",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6986
+  }
+ }
+}

@@ -1,0 +1,73 @@
+{
+ "arac_gerec": [
+  "Bilgisayar ve sunucu/bulut bilişim altyapısı",
+  "Programlama dilleri ve geliştirme ortamları (Python, R vb.)",
+  "Veritabanı yönetim sistemleri ve SQL",
+  "Büyük veri işleme platformları (Hadoop, Spark vb.)",
+  "Makine öğrenmesi ve yapay zeka kütüphaneleri",
+  "Veri görselleştirme ve raporlama araçları (Power BI, Tableau vb.)",
+  "İstatistiksel analiz yazılımları",
+  "Bulut bilişim servisleri",
+  "Versiyon kontrol sistemleri",
+  "Bilgisayar ağı altyapısı",
+  "Proje ve görev yönetim yazılımları"
+ ],
+ "benzer_meslekler": [
+  "Büyük Veri Uzmanı/Danışmanı",
+  "İş Zekası Uzmanı",
+  "Veri Madenciliği Uzmanı/Danışmanı",
+  "Veri ve Bilgi Mühendisi",
+  "Veri/Bilgi Yönetimi Danışmanı",
+  "Veri Tabanı Analisti"
+ ],
+ "calisma_alanlari": "Veri Bilimci; kamu kurumları, bankacılık ve finans kuruluşları, e-ticaret şirketleri, telekomünikasyon, sağlık, perakende, lojistik, enerji ve sanayi kuruluşları ile bilişim ve danışmanlık firmaları başta olmak üzere, veriye dayalı karar alma süreçlerine ihtiyaç duyan her sektörde istihdam edilebilir. Araştırma kuruluşlarında ve üniversitelerde de çalışabilir; ayrıca uzaktan çalışma veya bağımsız danışman olarak proje bazlı görev alabilir.",
+ "calisma_ortami": "Veri Bilimci, genellikle kapalı ortamda, büro veya ofis içinde bilgisayar başında oturarak çalışır. Çalışma düzeni çoğu zaman standart mesai saatleri içinde olmakla birlikte, bazı kuruluşlarda esnek veya uzaktan çalışma olanağı bulunur; proje teslim tarihlerine yaklaşıldığında yoğun çalışma dönemleri yaşanabilir.\n\nGörevlerini yerine getirirken yazılım geliştiriciler, veri mühendisleri, iş birimi yöneticileri ve üst düzey yöneticilerle sık sık iletişim kurar, ekip çalışması yoğundur. Uzun süre ekran karşısında oturarak çalışmanın getirdiği göz ve bel yorgunluğu gibi ergonomik riskler söz konusu olabilir.",
+ "ek_bilgiler": "Veri bilimi alanı, yapay zeka ve büyük veri teknolojilerindeki hızlı gelişmelere paralel olarak giderek daha fazla sektörde önem kazanmakta, istihdam olanakları artmaktadır. Mesleki Yeterlilik Kurumu (MYK) belgesi veya alana özgü uluslararası sertifikalar istihdamda tercih sebebi olabilir.",
+ "genel_ozellikler": [
+  "Sayısal yetenek sahibi,",
+  "Analitik ve mantıksal düşünebilen,",
+  "Araştırmacı ve meraklı bir yapıya sahip,",
+  "Problem çözme yeteneği gelişmiş,",
+  "Dikkatli ve ayrıntılarla uğraşmayı seven,",
+  "İletişim yeteneği güçlü,",
+  "Ekip çalışmasına uyumlu,",
+  "Sürekli öğrenmeye ve kendini geliştirmeye açık,"
+ ],
+ "gorevler": [
+  "Farklı kaynaklardan ham verileri toplar ve temizler.",
+  "Makine öğrenmesi ve veri madenciliği algoritmaları geliştirir.",
+  "İş problemlerine yönelik tahminleme modelleri oluşturur.",
+  "Veri görselleştirme araçlarıyla bulguları raporlar.",
+  "Veri odaklı karar alma süreçleri için stratejik destek sunar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi üniversitelerin lisans düzeyinde Veri Bilimi, Veri Mühendisliği, Bilgisayar Mühendisliği, Yazılım Mühendisliği, İstatistik, Matematik, Endüstri Mühendisliği gibi ilgili bölümlerinde verilmektedir. Ayrıca bazı üniversitelerde Veri Bilimi/Veri Analitiği alanında yüksek lisans programları da bulunmaktadır.",
+  "giris_kosullari": [
+   "Lise ve dengi okul mezunu olmak,",
+   "YKS (Yükseköğretim Kurumları Sınavı) sayısal puan türünden yeterli puanı almış olmak,",
+   "İlgili lisans programına (Bilgisayar Mühendisliği, Yazılım Mühendisliği, İstatistik, Matematik, Endüstri Mühendisliği vb.) yerleşmek."
+  ],
+  "sure_ve_icerik": "Lisans eğitimi genellikle 4 yıl sürer. Eğitim içeriğinde programlama, veri yapıları ve algoritmalar, olasılık ve istatistik, veritabanı yönetim sistemleri, makine öğrenmesi, veri madenciliği, büyük veri teknolojileri ve veri görselleştirme gibi konular yer alır. İlgili yüksek lisans programlarında ise bu konular daha ileri düzeyde ve uygulamalı olarak işlenir.",
+  "belge": "Lisans diploması; ilgili yüksek lisans programlarını tamamlayanlara ayrıca yüksek lisans diploması verilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Lisans eğitimi süresince Kredi ve Yurtlar Genel Müdürlüğünün sağladığı öğrenim kredisi ve yurt hizmetlerinden yararlanılabilir; staj dönemlerinde bazı işletmelerden ücret alınabilir.",
+  "egitim_sonrasi": [
+   "Kamu kurum ve kuruluşlarında istihdam edilenler 657 sayılı Devlet Memurları Kanunu'na tabi olarak maaş alır.",
+   "Özel sektörde çalışanların kazancı işyerinin büyüklüğü, kişinin bilgi birikimi, deneyimi ve çalıştığı sektöre göre değişmekle birlikte, yeni başlayanlar için genellikle asgari ücret düzeyinin üzerinde seyreder ve deneyim arttıkça kazanç artış gösterir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Lisans eğitimini tamamlayanlar, ilgili alanlarda yüksek lisans ve doktora yaparak akademik kariyere yönelebilir; araştırma görevlisi, öğretim üyesi gibi unvanlara ilerleyebilirler.",
+  "is_hayatinda": "Deneyim kazandıkça Kıdemli Veri Bilimci, Veri Bilimi Ekip Lideri, Veri Analitiği/Bilim Müdürü gibi pozisyonlara; büyük kuruluşlarda Veri veya Yapay Zekâ Direktörlüğü gibi üst düzey yönetici kademelerine yükselebilirler."
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T06:06:45",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5197
+  }
+ }
+}

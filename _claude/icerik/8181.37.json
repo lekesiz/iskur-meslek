@@ -1,0 +1,75 @@
+{
+ "arac_gerec": [
+  "Cam iplik demetleri (cam elyafı)",
+  "Sehpa/çerçeve düzenekleri",
+  "Otomatik cam keçe imal makinesi",
+  "Fırın (ısıtma ünitesi)",
+  "Bant/konveyör sistemi",
+  "Toz bağlayıcı madde ve dolum haznesi",
+  "Bobin sarma ünitesi",
+  "Su besleme sistemi",
+  "Kontrol paneli ve göstergeler (sıcaklık, bant hızı ayarları)",
+  "Temizlik gereçleri (fırça, bez vb.)",
+  "Kişisel koruyucu donanım (eldiven, gözlük, toz maskesi, kulaklık, iş elbisesi)"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve tedbirli,",
+  "Sabırlı ve düzenli çalışabilen,",
+  "El ve göz koordinasyonu gelişmiş,",
+  "Fiziksel olarak dayanıklı,",
+  "Makine ve teknik sistemlerle ilgilenmekten hoşlanan,",
+  "Talimatlara ve iş güvenliği kurallarına titizlikle uyan,",
+  "Ekip çalışmasına uyumlu,",
+  "Sorumluluk sahibi"
+ ],
+ "calisma_ortami": "Cam keçe imal işçisi, cam elyafı ve yalıtım malzemesi üreten fabrikaların üretim atölyelerinde, kapalı ortamda çalışır. Çalışma sırasında fırın bulunması nedeniyle ortam sıcaklığı yüksek olabilir; ayrıca makine gürültüsü ve ince cam elyafı tozuna bağlı solunum ve cilt tahrişi riskleri bulunur. Bu nedenle kişisel koruyucu donanım kullanımı önemlidir. Görev büyük ölçüde ayakta ve makinenin başında yürütülür; işletmenin üretim düzenine göre vardiyalı çalışma söz konusu olabilir. Çalışma sırasında işyerindeki diğer makine operatörleri, ustabaşı ve vardiya amiri ile iş birliği içinde bulunulur.",
+ "calisma_alanlari": "Cam keçe imal işçileri; cam elyafı, cam yünü ve bunlardan üretilen koruyucu/yalıtım malzemelerini imal eden fabrikalarda, cam sanayi işletmelerinin üretim hatlarında istihdam edilir. Bu malzemeler başta yapı yalıtımı, otomotiv ve sanayi sektörleri olmak üzere çeşitli alanlarda kullanıldığından, çalışma alanları bu üretim tesisleriyle sınırlıdır ve sayıca görece azdır.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimine yönelik, ülke çapında standart hale gelmiş resmî bir örgün eğitim programı bulunmamaktadır. Meslek genellikle, işe alınan kişinin işletme bünyesinde usta işçi veya vardiya amiri gözetiminde işbaşında (usta-çırak ilişkisi içinde) eğitilmesiyle öğrenilmektedir. Cam/seramik teknolojisi alanındaki mesleki ve teknik eğitim programları ile Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kursları, mesleğe temel oluşturabilecek bilgi ve becerileri sağlayabilir.",
+  "giris_kosullari": [
+   "İlköğretim mezunu olmak (meslek için aranan asgari eğitim düzeyi),",
+   "18 yaşını doldurmuş ve işin gerektirdiği fiziksel koşullara (ayakta çalışma, sıcak ortam, tozla temas) uygun sağlık durumuna sahip olmak,",
+   "Makine ile çalışmaya ve talimatlara uymaya istekli olmak"
+  ],
+  "sure_ve_icerik": "Mesleğe özgü standart bir eğitim süresi ve müfredatı bulunmamaktadır. İşbaşı eğitimler işletmeden işletmeye değişmekle birlikte genellikle; makinenin tanıtılması, cam iplik demetlerinin sehpalara yerleştirilmesi, fırının ateşlenmesi ve ayarlarının yapılması, toz bağlayıcıların doldurulması, üretim sürecinin izlenmesi, bobinlerin değiştirilmesi ile iş sağlığı ve güvenliği kurallarını kapsar. Bu süreç, kişinin beceri kazanmasına göre haftalar veya aylar sürebilir.",
+  "belge": "Örgün bir diploma veya standart kurs bitirme belgesi yaygın değildir; işletme içi eğitimi tamamlayanlara işletmenin kendi uygulamasına göre bir çalışma/eğitim belgesi verilebilir. Mesleki Yeterlilik Kurumu (MYK) tarafından ilgili alanda yetkilendirme yapılmışsa alınacak MYK Mesleki Yeterlilik Belgesi istihdamda tercih sebebi olabilir."
+ },
+ "gorevler": [
+  "Cam iplik demetlerini sehpalara yerleştirip uçlarını makinedeki yerlerine bağlar.",
+  "Fırını ateşler.",
+  "Su miktarını, üretilecek keçenin cinsine göre bant hızını, fırın ısısını ve diğer ayarları yapar.",
+  "Toz bağlayıcıları doldurup makineyi otomatik çalışma durumuna getirir.",
+  "Cam keçenin otomatik olarak üretilip bobinlere sarılmasına nezaret eder.",
+  "Keçe üzerindeki çöp ve yabancı maddeleri eliyle alır, dolan bobinleri boşlarıyla değiştirir.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "kazanc": {
+  "egitim_suresince": "Meslek genellikle doğrudan işbaşında öğrenildiğinden, eğitim sürecinde işletmenin uygulamasına göre asgari ücret düzeyinde veya stajyer/çırak ücreti ödenebilir; bağımsız bir kursa devam edilmesi durumunda bu süreçte herhangi bir kazanç söz konusu değildir.",
+  "egitim_sonrasi": [
+   "İşe yeni başlayanlar genellikle asgari ücret düzeyinde çalışmaya başlar.",
+   "Deneyim, işletmenin büyüklüğü ve üretim hacmine göre ücret artışı olabilir.",
+   "Kamu kuruluşlarına bağlı bir işletmede işçi statüsünde çalışılması durumunda ücret, ilgili toplu iş sözleşmesi hükümlerine göre belirlenir; özel sektörde ücret işveren ile çalışan arasındaki anlaşmaya bağlıdır."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Meslekte örgün bir ilerleme basamağı tanımlı değildir. Cam ve cam elyafı teknolojisi alanında açılan mesleki eğitim programları ve kurslarla bilgi ve becerilerin geliştirilmesi mümkündür.",
+  "is_hayatinda": "Deneyim kazanan cam keçe imal işçisi, zaman içinde usta işçi, vardiya amiri veya ustabaşı konumuna yükselebilir; ayrıca işletme içindeki diğer cam/cam elyafı üretim makinelerinde operatörlük yapabilecek beceriler edinebilir."
+ },
+ "benzer_meslekler": [
+  "Cam Elyaf İmal İşçisi",
+  "Cam Elyaf Kalıplama İşçisi",
+  "Fitil İmal İşçisi (Cam Elyafı)",
+  "Kesme Makinesi İşçisi (Cam Elyafı)",
+  "Harman Operatörü (Cam)",
+  "Karıştırıcı (Cam İmali)"
+ ],
+ "ek_bilgiler": "Cam elyafı ile çalışma, ince cam parçacıklarının cilde ve solunum yollarına zarar verme riski taşıdığından, kişisel koruyucu donanımın (eldiven, gözlük, toz maskesi vb.) eksiksiz ve doğru kullanılması mesleğin önemli bir gereğidir. Üretim hattında fırın bulunması nedeniyle yüksek ısıya karşı da dikkatli olunmalıdır.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T16:51:28",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 4908
+  }
+ }
+}

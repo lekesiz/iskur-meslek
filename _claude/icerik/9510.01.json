@@ -1,0 +1,72 @@
+{
+ "arac_gerec": [
+  "Süpürge ve faraş",
+  "Çöp poşeti ve çöp torbaları",
+  "El arabası (kesme/taşıma arabası)",
+  "Çöp konteyneri/bidonu",
+  "Basit bahçe ve çevre düzenleme aletleri (tırmık, bel, kürek)",
+  "Kurulum malzemeleri (masa, sandalye, tezgâh, tente/branda, ip)",
+  "İş eldiveni ve koruyucu iş kıyafeti",
+  "Reflektif/görünür yelek",
+  "Basit el aletleri (çekiç, tornavida, pense)",
+  "Su hortumu ve temizlik malzemeleri",
+  "Düdük/işaretleşme ekipmanı (kalabalık yönetiminde)"
+ ],
+ "genel_ozellikler": [
+  "Fiziksel olarak güçlü ve dayanıklı,",
+  "Açık havada ve değişken hava koşullarında çalışmaya uygun sağlık durumuna sahip,",
+  "Dikkatli ve sorumluluk sahibi,",
+  "Takım halinde çalışmaya istekli,",
+  "Emir ve talimatlara uyabilen,",
+  "Düzenli ve temiz çalışmaya önem veren,",
+  "Sabırlı ve çevresiyle iyi ilişkiler kurabilen"
+ ],
+ "calisma_ortami": "Diğer servis işçileri (sokak hizmetleri) görevini genellikle açık havada; sokak, cadde, meydan, pazar yeri ve etkinlik alanlarında yürütür. Çalışma ortamı hava koşullarına (sıcak, soğuk, yağmur) açıktır; işin niteliğine göre ayakta durma, eğilme, taşıma ve kaldırma gibi fiziksel efor gerektiren hareketler sık görülür. Trafik, kesici-batıcı atıklarla temas ve kalabalık ortamlarda çalışma gibi riskler bulunduğundan koruyucu ekipman kullanımı önem taşır.\n\nÇalışma genellikle bir ekip hâlinde ve amir gözetiminde yürütülür; etkinlik, pazar günleri veya belediye programlarına bağlı olarak vardiyalı ya da düzensiz saatlerde çalışma söz konusu olabilir. Meslek elemanı çalışma sırasında ekip arkadaşları, amirleri ve zaman zaman sokakta bulunan vatandaşlarla iletişim kurar.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin örgün bir eğitim programı bulunmamaktadır. Genellikle işe girişte işbaşında, deneyimli çalışan veya amir gözetiminde uygulamalı olarak öğrenilir. Belediyelerin, İŞKUR'un ve Halk Eğitim Merkezlerinin açtığı genel hizmet, temizlik veya çevre düzenlemesine yönelik kurslar mesleki bilgi ve beceri kazandırmada destekleyici olabilir.",
+  "giris_kosullari": [
+   "Okuryazar olmak",
+   "İşin gerektirdiği fiziksel çalışmaları yapabilecek sağlık durumuna sahip olmak",
+   "İşe alınacağı kurum veya firmanın belirlediği yaş ve diğer şartları (sağlık raporu vb.) taşımak"
+  ],
+  "sure_ve_icerik": "Mesleğin belirli bir eğitim süresi ve müfredatı bulunmamaktadır. İşe başlayan kişi, kullanılan araç ve gereçler, iş güvenliği kuralları ve yapılacak işlerin usulleri konusunda kısa süreli bir uyum eğitimi alır. İsteyenler İŞKUR, belediyeler veya Halk Eğitim Merkezlerinin açtığı ilgili mesleki eğitim kurslarına katılarak bilgi ve becerilerini geliştirebilir.",
+  "belge": "Örgün eğitim sonunda verilen resmî bir diploma bulunmamaktadır. Katılınan kurslar sonunda kurs bitirme belgesi verilebilir."
+ },
+ "calisma_alanlari": "Meslek elemanları; belediyeler ve belediyelere bağlı temizlik/çevre işleri birimleri, bu alanda hizmet veren özel temizlik ve çevre düzenleme firmaları, organizasyon/etkinlik şirketleri, pazar yeri işletmeleri ve benzeri kamu veya özel kuruluşlarda istihdam edilir. Özellikle büyükşehirlerde ve yerel yönetimlerde bu tür nitelik gerektirmeyen hizmet personeline sürekli ihtiyaç duyulmaktadır; genel iş bulma olanağı görece geniştir, ancak çalışma koşulları, süresi ve devamlılığı çalışılan kuruma veya etkinliğin niteliğine göre değişebilir.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğin belirli bir örgün eğitim süreci bulunmadığından eğitim süresince ödenen ayrı bir ücret söz konusu değildir. İŞKUR, belediye veya Halk Eğitim Merkezlerinin açtığı kurslara katılım genellikle ücretsizdir.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında (belediyeler vb.) işçi statüsünde çalışanlar toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde çalışanların kazancı, işe yeni başlayanlarda genellikle asgari ücret düzeyindedir; deneyim, çalışılan işyerinin büyüklüğü ve işin sürekliliğine göre değişebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğin örgün bir eğitim kademesi bulunmadığından mesleki eğitimde ilerleme söz konusu değildir. Kişi isterse açık öğretim yoluyla genel eğitimine devam edebilir veya ilgi duyduğu başka bir mesleğe yönelik kurslara katılarak nitelik kazanabilir.",
+  "is_hayatinda": "Deneyim kazanan kişiler, çalıştığı kurum bünyesinde ekip sorumluluğu gibi görevlere getirilebilir. Belediye veya firmaların açtığı kurslara katılarak temizlik, bahçıvanlık, şoförlük gibi daha nitelikli pozisyonlara geçiş yapılabilir."
+ },
+ "benzer_meslekler": [
+  "Afiş Asıcısı",
+  "El ilanı dağıtıcısı",
+  "Değnekçi - Taşıt",
+  "Çığırtkan",
+  "Baskülcü - Sokak",
+  "Ayakkabı Boyacısı"
+ ],
+ "ek_bilgiler": "Bu meslek, resmî bir eğitim veya belge zorunluluğu bulunmayan, nitelik gerektirmeyen işler kapsamında değerlendirilmektedir. Görevler kurum veya etkinliğe göre değişebileceğinden çalışma süresi ve koşulları, bazı durumlarda mevsimlik veya geçici nitelik taşıyabilir.",
+ "gorevler": [
+  "Kamusal alanlarda çevre düzenleme ve basit bakım işlerine yardım eder.",
+  "Etkinlik veya pazar alanlarında kurulum ve toplama süreçlerine destek verir.",
+  "Sokaklardaki basit atıkların temizlenmesi işlerini yürütür.",
+  "Üst amirlerin verdiği genel nitelikli operasyonel görevleri yapar.",
+  "Çalışma sırasında genel güvenlik ve nizam kurallarına uyar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T20:46:28",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5759
+  }
+ }
+}

@@ -1,0 +1,84 @@
+{
+ "arac_gerec": [
+  "Testere makineleri (şerit, tepsi, daire)",
+  "Planya ve kalınlık makinesi",
+  "Ahşap bükme ve şekillendirme kalıpları",
+  "Prefabrik parça tespit aparatları (fikstür)",
+  "Ölçü ve kontrol aletleri (kumpas, mastar, gönye, metre)",
+  "Kontrplak ve çeşitli kereste malzemeleri",
+  "Tutkal ve yapıştırıcılar",
+  "Çivi, vida ve bağlantı elemanları",
+  "El rendeleri, keski, kerpeten, tornavida",
+  "Matkap ve matkap uçları",
+  "Zımpara ve törpüler",
+  "Takım bileme taşı/makinesi",
+  "Proje ozalit kopyaları ve kroki/teknik çizimler",
+  "Çekiç ve tokmak"
+ ],
+ "genel_ozellikler": [
+  "El becerisine sahip,",
+  "Dikkatli ve tedbirli,",
+  "El ve gözünü eşgüdümlü kullanabilen,",
+  "Teknik çizim ve kroki okuyabilen,",
+  "Hassas ölçüm yapabilen,",
+  "Sabırlı ve titiz çalışabilen,",
+  "Alet ve makinelerle çalışmaktan hoşlanan,",
+  "İş güvenliği kurallarına uyan"
+ ],
+ "calisma_ortami": "Uçak Doğramacısı, genellikle hangar veya atölye ortamında, kapalı mekânlarda çalışır. Çalışma ortamı ahşap talaşı, tutkal ve boya kokularıyla yüklü olabilir; kesme, delme ve bükme işlemleri sırasında makine gürültüsü ve ağaç tozuna bağlı riskler bulunur. Bu nedenle iş güvenliği ekipmanlarının (koruyucu gözlük, maske, eldiven vb.) kullanılması önemlidir. Bazı görevlerde el ve kol kuvveti gerektiren fiziksel çalışma söz konusudur.\n\nMeslek elemanı çalışmalarını genellikle gündüz mesaisinde yürütür; ancak üretim veya bakım takvimine göre vardiyalı çalışma da söz konusu olabilir. Çalışma sırasında mühendisler, kalite kontrol personeli, diğer uçak bakım-üretim teknisyenleri ve atölye çalışma arkadaşlarıyla yakın iş birliği içinde bulunur.",
+ "gorevler": [
+  "Proje ozalit kopyalarını ve krokileri inceler.",
+  "Belirli tip ve ebatta kontrplak seçer ve hazırlar.",
+  "Tahta işlerini düzenler.",
+  "Monte edilecek ve yerlerine takılacak parçaları keser, şekillendirir ve büker.",
+  "Prefabrik ahşap konstrüksiyon parçalarını tespit aparatlarına takar.",
+  "Tespit aparatının durumunu ölçü aletleri ile kontrol eder.",
+  "Ek yerlerini tutkalla ve çivilerle takviye eder.",
+  "Ünitelerin konstrüksiyon parçalarını düzeltir ve bunlara bağlanacak aksamı tespit eder.",
+  "Tahta kaplamaları iskelete yapıştırır.",
+  "Tutkal kuruyunca çivileri söker, yüzeyi düzeltir ve uçağın ahşap kısımlarının çıta işlerini tamir eder.",
+  "Takımları biler.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Uçak Doğramacılığına özgü, bağımsız ve standart bir örgün mesleki eğitim programı bulunmamaktadır. Meslek, genellikle ahşap işleri/marangozluk-doğramacılık alanında temel mesleki eğitim alındıktan sonra, uçak üretim veya bakım-onarım işletmelerinde deneyimli ustaların gözetiminde işbaşında kazanılmaktadır. Mesleki eğitim merkezlerinin ahşap işleri ile ilgili dallarından ve mesleki ve teknik Anadolu liselerinin ilgili alanlarından mezun olanlar, bu mesleğe geçişte temel beceriler edinmiş olarak avantajlı olabilir. Ayrıca Halk Eğitim Merkezleri ile İŞKUR'un açtığı ahşap işleri/marangozluk kursları da temel beceri kazandırabilir.",
+  "giris_kosullari": [
+   "En az ilkokul/ortaokul mezunu olmak (çıraklık eğitimine girişte zorunlu eğitim çağı koşullarına uygunluk aranır)",
+   "El becerisine ve ahşap malzeme ile çalışmaya ilgi duymak",
+   "İlgili işyeri veya kurumun aradığı sağlık ve fiziksel uygunluk şartlarını taşımak",
+   "Mümkünse ahşap işleri/marangozluk alanında temel eğitim veya deneyim sahibi olmak"
+  ],
+  "sure_ve_icerik": "Mesleğe özgü standart bir eğitim süresi ve müfredat yoktur. Genel ahşap işleri/marangozluk eğitimi alındıktan sonra, ilgili işletmede uygulamalı olarak kontrplak işleme, prefabrik ahşap parçaların montajı, bükme ve şekillendirme teknikleri, yapıştırma ve tamir yöntemleri gibi uçağa özgü bilgi ve beceriler usta öğretici gözetiminde öğretilir. Bu süreç işletmenin ihtiyacına ve çalışanın önceki tecrübesine göre değişebilir.",
+  "belge": "Genel ahşap işleri eğitimi sonunda kalfalık/ustalık belgesi alınabilir. Uçak doğramacılığına özgü ayrı, resmi bir diploma veya ulusal yeterlilik belgesi bulunmamaktadır; çalışılan işletmeler kendi iç eğitim süreçleri sonunda yeterlilik/sertifika verebilir. Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Uçak Doğramacıları, uçak üretim ve bakım-onarım tesislerinde, havacılık sanayi işletmelerinde, askeri hava bakım merkezlerinde ve tarihi/eski uçak, planör ile hafif hava araçlarının restorasyonunu yapan kurum ve atölyelerde çalışabilir.\n\nGünümüzde modern uçak gövdelerinde ahşap malzeme kullanımı büyük ölçüde kompozit malzemeler ve metal alaşımlarla yer değiştirdiğinden, bu meslek oldukça özelleşmiş ve niş bir alan haline gelmiştir. Bu nedenle istihdam olanağı sınırlıdır; iş bulma genellikle belirli uzmanlaşmış işletmeler, restorasyon projeleri veya özel üretim hava araçlarıyla sınırlı kalmaktadır. Genel ahşap işçiliği bilgisine sahip kişiler, ihtiyaç duyulduğunda bu alana yönlendirilebilir.",
+ "kazanc": {
+  "egitim_suresince": "İşletme bünyesinde çıraklık veya işbaşı eğitimi alanlara, 3308 sayılı Mesleki Eğitim Kanunu kapsamında asgari ücretin belirli bir oranında ücret ödenebilir. Eğitim süresince iş kazası ve meslek hastalığı sigortası ilgili mevzuat kapsamında karşılanır.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Kamu kurumu veya askeri bakım merkezlerinde çalışanlar 657 sayılı Kanun ya da ilgili toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde ücret, işletmenin büyüklüğü, çalışanın deneyimi, bilgi ve becerisine göre karşılıklı anlaşma ile belirlenir ve değişkenlik gösterebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Ahşap işleri alanında kalfalık-ustalık eğitimini tamamlayanlar, isterlerse ilgili mesleki ve teknik eğitim kurumlarının üst düzey programlarına veya mobilya-dekorasyon, uçak bakım teknolojisi gibi ilgili ön lisans/lisans programlarına yönelebilir.",
+  "is_hayatinda": "Meslekte deneyim kazanan çalışanlar usta, atölye sorumlusu veya kalite kontrol görevlisi gibi pozisyonlara yükselebilir. Girişimcilik yeteneği olanlar, özellikle eski/tarihi uçak restorasyonu alanında kendi işyerini kurarak bağımsız çalışabilir."
+ },
+ "benzer_meslekler": [
+  "Gemi Doğramacısı",
+  "Gemi Marangozu",
+  "Atölye Marangozu",
+  "Doğramacı/Ahşap Doğramacı",
+  "Ahşap Şekillendirmeci",
+  "İnşaat Marangozu"
+ ],
+ "ek_bilgiler": "Modern uçaklarda ahşap gövde ve kaplama malzemesi kullanımı büyük ölçüde kompozit ve metal malzemelerle yer değiştirdiğinden, Uçak Doğramacılığı günümüzde oldukça niş ve sınırlı bir çalışma alanına sahiptir. Meslek, günümüzde çoğunlukla tarihi/eski uçak ve planör restorasyonu, hafif hava araçları veya özel üretim projelerinde karşımıza çıkmaktadır.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T22:43:44",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6709
+  }
+ }
+}

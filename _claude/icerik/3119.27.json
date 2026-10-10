@@ -1,0 +1,72 @@
+{
+ "arac_gerec": [
+  "Kimyasal çözücüler ve yağ/karbon temizleme solüsyonları",
+  "Koruyucu maskeleme bant ve örtüleri",
+  "Basınçlı yıkama ve püskürtme (sprey) sistemleri",
+  "Mekanik fırçalar (tel fırça, naylon fırça vb.)",
+  "Korozyon giderici aşındırıcı maddeler",
+  "Kişisel koruyucu donanım (eldiven, koruyucu gözlük, maske, tulum)",
+  "Basınçlı hava tabancası ve kompresör",
+  "Kurutma ekipmanları (hava üfleyici, emici bez)",
+  "Tehlikeli atık toplama ve depolama kapları",
+  "Kimyasal madde ölçüm ve dozajlama ekipmanları",
+  "Parça taşıma ve destekleme ekipmanları (stand, vinç, sehpa)",
+  "Muayene için basit kontrol araçları (büyüteç, el feneri)"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve titiz,",
+  "El becerisine sahip,",
+  "Kimyasal maddelerle çalışmaya karşı duyarlı ve tedbirli,",
+  "Talimat ve prosedürlere uyan,",
+  "Fiziksel olarak sağlıklı ve dayanıklı,",
+  "Sorumluluk sahibi,",
+  "Ekip çalışmasına uyumlu,",
+  "Temizlik ve düzene özen gösteren"
+ ],
+ "calisma_ortami": "Uçak Kimyasal ve Mekanik Temizlemecisi, genellikle uçak bakım hangarlarında ve işletmelerin atölye ortamlarında çalışır. Çalışma ortamı kimyasal madde buharları, gürültü (basınçlı sistemler nedeniyle) ve bazen dar/kapalı alanlar (uçak gövdesi ve motor bölmeleri gibi) içerebilir. Kimyasal maddelerle çalışıldığından kişisel koruyucu donanım kullanımı ve iş güvenliği kurallarına uyum büyük önem taşır.\n\nÇalışma saatleri genellikle düzenlidir; ancak uçak bakım takvimine bağlı olarak vardiyalı çalışma veya mesai gerekebilir. Görev sırasında uçak bakım teknisyenleri, mühendisler, kalite kontrol personeli ve diğer bakım ekibi üyeleriyle iş birliği içinde çalışır.",
+ "gorevler": [
+  "Uçak parçalarını temizlik öncesi korumaya alır ve maskeler.",
+  "Kimyasal çözücüler kullanarak yağ ve karbon kalıntılarını temizler.",
+  "Mekanik fırçalama veya basınçlı sistemlerle korozyon giderme işlemi yapar.",
+  "Temizlik sonrası parçaların kurulanmasını ve muayene hazırlığını sağlar.",
+  "Tehlikeli atık yönetimi ve iş güvenliği kurallarına sıkı sıkıya uyar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Bu meslek için bağımsız bir mesleki ve teknik ortaöğretim alan/dalı bulunmamaktadır. Mesleğin eğitimi, havacılık sektöründe uçak bakım hizmeti veren işletmelerde (hava yolu şirketlerinin teknik birimleri, bakım-onarım kuruluşları/MRO firmaları) işbaşında, usta yanında ve kurum içi eğitim programlarıyla verilmektedir. İş güvenliği, kimyasal madde yönetimi ve tehlikeli atık konularında Halk Eğitim Merkezleri ile İŞKUR'un açtığı mesleki eğitim kursları da destekleyici nitelikte olabilir.",
+  "giris_kosullari": [
+   "Ortaöğretimi (lise ve dengi okul) tamamlamış olmak,",
+   "İşe alım sürecinde ilgili işletmenin belirlediği sağlık şartlarını taşımak,",
+   "Kimyasal maddelerle çalışmaya engel bir sağlık sorunu bulunmamak."
+  ],
+  "sure_ve_icerik": "Eğitim süresi, işletmenin eğitim programına göre değişmekle birlikte genellikle birkaç haftadan birkaç aya kadar sürmektedir. Eğitim içeriği; iş sağlığı ve güvenliği, kimyasal madde güvenliği ve kullanımı, uçak parça ve malzemelerinin tanınması, temizlik ve korozyon giderme yöntemleri, tehlikeli atık yönetimi gibi teorik bilgileri ve atölye/hangar ortamında uygulamalı çalışmaları kapsar.",
+  "belge": "İşletme içi eğitim sonunda genellikle katılım/yeterlilik belgesi verilmektedir. Mesleki Yeterlilik Kurumu (MYK) Mesleki Yeterlilik Belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Uçak Kimyasal ve Mekanik Temizlemecileri; havayolu şirketlerinin teknik ve bakım birimlerinde, uçak bakım-onarım kuruluşlarında (MRO firmaları), havacılık sektörüne hizmet veren işletmelerde çalışırlar. İş bulma olanakları, havacılık sektörünün yoğunlaştığı büyük şehirlerde ve havalimanı çevrelerinde daha fazladır. Havacılık sektörünün gelişimine ve filoya eklenen uçak sayısına bağlı olarak bu meslekteki istihdam olanakları değişebilmektedir.",
+ "kazanc": {
+  "egitim_suresince": "Bu mesleğin eğitimi genellikle işe alım sonrasında işletme bünyesinde işbaşında verildiğinden, eğitim süresince çalışanlar işletmenin belirlediği ücret politikasına göre ücret almaktadır. Örgün mesleki eğitim kapsamında (3308 sayılı Mesleki Eğitim Kanunu) eğitim alınması durumunda, asgari ücretin net tutarının belirli bir oranından az olmamak üzere ücret ödenir.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanların kazancı genellikle asgari ücret düzeyindedir.",
+   "Deneyim, işletmenin büyüklüğü, çalışma kapasitesi ve sektördeki ücret düzeyine göre kazanç değişebilir.",
+   "Kamu kurumlarına bağlı havacılık işletmelerinde çalışanlar 657 sayılı Devlet Memurları Kanunu'na veya ilgili toplu iş sözleşmesi hükümlerine tabi olabilir; özel sektörde ücret işveren ile karşılıklı anlaşmaya göre belirlenir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Bu meslekte örgün bir yükseköğretim programı bulunmamaktadır. İlgi duyan ve isteyen kişiler, havacılık ve uzay mühendisliği, uçak bakım teknolojisi gibi ilgili ön lisans veya lisans programlarına yönelerek kariyerlerini ilerletebilirler.",
+  "is_hayatinda": "Mesleki deneyim kazanan çalışanlar, kıdemli temizleme teknisyeni, ekip sorumlusu veya vardiya amiri gibi pozisyonlara yükselebilir. İlave eğitim ve sertifikasyonlarla uçak bakım teknisyenliği gibi daha kapsamlı görev ve sorumluluk alanlarına geçiş yapabilirler."
+ },
+ "benzer_meslekler": [
+  "Diğer Mühendislik Teknisyenleri",
+  "Diğer Teknisyen ve Teknikerler",
+  "Metal İşleri Teknisyeni"
+ ],
+ "ek_bilgiler": "Bu meslek, havacılık sektörüne özgü ve sivil havacılık güvenlik ve bakım standartlarına tabi bir destek mesleğidir. Çalışanlar kimyasal maddelerle doğrudan temas edebileceğinden kişisel koruyucu donanım kullanımı ve ilgili iş güvenliği eğitimleri zorunludur. Bazı işlemler, dar/kapalı alanlarda veya yüksekte çalışmayı gerektirebilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T09:55:20",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6743
+  }
+ }
+}

@@ -1,0 +1,82 @@
+{
+ "arac_gerec": [
+  "Proses kontrol panelleri ve kontrol odası ekranları",
+  "Bilgisayar ve SCADA/otomasyon yazılımları",
+  "Basınç, sıcaklık, akış ve seviye ölçüm cihazları",
+  "Analizör cihazları",
+  "Alarm ve haberleşme sistemleri",
+  "Yazıcı ve kayıt cihazları",
+  "Viskozimetre",
+  "Vana, pompa ve motor kumanda üniteleri",
+  "Devir ve akım ölçüm aletleri",
+  "Kalibrasyon ve bakım el aletleri",
+  "Kişisel koruyucu donanım (baret, koruyucu gözlük, iş elbisesi, gaz maskesi, kulaklık)"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve sorumluluk sahibi,",
+  "Sayısal verilerle çalışmaya istekli,",
+  "Hızlı ve doğru karar verebilen,",
+  "Stres altında sakin kalabilen,",
+  "Teknik konulara ilgili,",
+  "Takım çalışmasına uygun,",
+  "Vardiyalı çalışma düzenine uyumlu,",
+  "Görsel ve işitsel algısı güçlü kişiler olmaları gerekir."
+ ],
+ "calisma_ortami": "Üretim Paneli Kontrol Operatörü, genellikle petrokimya, kimya, rafineri, çimento, enerji üretimi gibi sürekli ve otomasyona dayalı üretim yapılan sanayi tesislerinin kontrol odalarında çalışır. Kontrol odası kapalı ve iklimlendirilmiş bir ortam olmakla birlikte, gerektiğinde sahaya çıkarak ekipmanları ve proses ünitelerini yerinde denetler; saha ortamında gürültü, yüksek sıcaklık, basınçlı sistemler ve kimyasal maddelere bağlı riskler bulunabilir.\n\nÜretim sürekli olduğundan çalışma genellikle vardiyalı (gece-gündüz) düzende yürütülür. Meslek mensubu, görevi sırasında mühendisler, teknisyenler, saha operatörleri, ustabaşı ve bağlantılı ünitelerdeki çalışanlarla sürekli bilgi alışverişi içinde olur.",
+ "egitim": {
+  "verildigi_yerler": "Bu meslek için üniversite düzeyinde ayrı bir ön lisans veya lisans programı bulunmamaktadır. Meslek, ortaöğretim (lise ve dengi) düzeyindeki eğitimin ardından işletme içinde verilen işbaşı eğitimle kazanılmaktadır. Meslek ve teknik liselerin kimya teknolojisi, petrokimya, elektrik-elektronik, otomasyon veya kontrol ve enstrümantasyon ile ilgili alanlarından mezun olanlar bu mesleğe daha kolay yönelebilmektedir. Ayrıca Halk Eğitim Merkezleri ile İŞKUR'un açtığı mesleki eğitim kursları da bu alanda yetişmeye katkı sağlayabilir.",
+  "giris_kosullari": [
+   "En az ortaöğretim (lise veya dengi okul) mezunu olmak",
+   "Tercihen meslek ve teknik liselerin kimya, petrokimya, elektrik-elektronik, otomasyon veya kontrol ve enstrümantasyon ile ilgili alanlarından mezun olmak",
+   "İşe alınacak işletmenin belirlediği sağlık ve fiziksel uygunluk şartlarını taşımak"
+  ],
+  "sure_ve_icerik": "Resmî olarak tanımlanmış standart bir ön lisans veya lisans eğitim programı bulunmamaktadır. Meslek; ilgili teknik lise eğitiminin ardından, işe giriş sonrasında işletme içinde deneyimli operatör veya usta yanında verilen uygulamalı eğitim ile kazanılır. Eğitimin süresi ve içeriği, çalışılan işletmenin proses türüne ve kullanılan teknolojiye göre değişiklik gösterir.",
+  "belge": "Eğitimini tamamlayanlara işletme tarafından düzenlenen işbaşı eğitim veya sertifika belgesi verilebilir. Çalışılan tesisin tehlikeli veya çok tehlikeli işler sınıfında yer alması durumunda, Mesleki Yeterlilik Kurumu (MYK) Mesleki Yeterlilik Belgesi istihdamda tercih sebebi olabilir."
+ },
+ "gorevler": [
+  "Proses ekipmanlarının basınç, sıcaklık, akış, seviye, devir ve ağırlık kontrol elemanlarını kontrol eder.",
+  "Alarm ve haberleşme sistemlerini kontrol eder.",
+  "Yazıcıları kontrol eder.",
+  "Arızaları tespit eder, arızaların giderilmesini ve periyodik bakım yapılmasını sağlar.",
+  "Üretim panelinin basınç, sıcaklık, akış değerlerini ve sıvı/katı maddelerin seviyelerini tespit eder.",
+  "Ekipmanların devir değerlerini ve enerjinin akım şiddetini tespit eder.",
+  "Sıvıların viskozitesini ve üretim girdi/çıktılarının ağırlıklarını tespit eder.",
+  "Analizör değerlerini tespit eder ve laboratuvar değerlerini kaydeder.",
+  "Üretim panelinin basınç, sıcaklık, akış, sıvı/katı maddelerin seviye, ekipmanların devir, üretim girdi/çıktı maddelerinin ağırlık ve sıvıların viskozite değerlerini ayarlar.",
+  "Nihai ürün kalitesini kontrol eder.",
+  "Üretim panelinin proses ünitelerini devreye almak için emniyet tedbirleri alır.",
+  "Bağlantılı kuruluş/ünitelere (kuyu, doldurma ünitesi vb.) bilgi verir.",
+  "Prosese yardımcı maddelerin akışını ve ham madde beslemesini başlatır.",
+  "Proses değerlerini tedrici olarak normal işletme değerlerine getirir.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "calisma_alanlari": "Üretim Paneli Kontrol Operatörleri; petrokimya, kimya, rafineri, çimento, enerji üretimi, gıda ve içecek, cam ve kâğıt gibi sürekli ve otomasyona dayalı üretim yapılan büyük ölçekli sanayi tesislerinde istihdam edilir. Kamu iktisadi teşekkülleri ile özel sektöre ait büyük ölçekli üretim tesislerinde iş bulma imkânı bulunmaktadır. Sektördeki otomasyon yatırımlarının artması, bu alanda nitelikli operatör ihtiyacını sürdürmektedir.",
+ "kazanc": {
+  "egitim_suresince": "Bu meslek için örgün bir eğitim programı bulunmadığından, mesleğe giriş genellikle işbaşında ücretli olarak sürdürülür; işe yeni başlayanlar çoğunlukla asgari ücret düzeyinde gelir elde eder.",
+  "egitim_sonrasi": [
+   "Kamu kuruluşlarında işçi statüsünde çalışanların ücreti toplu iş sözleşmesi hükümlerine göre belirlenir.",
+   "Özel sektörde ücret; işletme ile çalışan arasında deneyim, bilgi ve beceri düzeyi göz önünde bulundurularak belirlenir ve çalışılan sektöre göre değişkenlik gösterebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Bu meslekte resmî bir ön lisans veya lisans eğitimi bulunmadığından standart bir dikey geçiş olanağı yoktur; isteyen meslek mensupları ilgili teknik alanlarda açılan sertifika programları, meslek yüksekokulu veya üniversite eğitimleriyle bilgi ve becerilerini geliştirebilir.",
+  "is_hayatinda": "Deneyim ve bilgi birikimi arttıkça vardiya amirliği, saha sorumluluğu, kıdemli operatörlük veya üretim şefliği gibi daha üst sorumluluk gerektiren görevlere yükselme imkânı bulunmaktadır."
+ },
+ "benzer_meslekler": [
+  "Otomatik Kumanda Teknisyeni",
+  "Endüstriyel Otomasyon Teknolojisi/Otomatik Kumanda/Endüstriyel Otomasyon Teknolojisi (Elektronik)/Kontrol ve Enstrümantasyon Teknisyeni",
+  "Otomasyon Sistemleri Teknisyeni / Otomatik Kumanda Teknisyeni",
+  "Otomasyon Sistemleri Programcısı",
+  "Çimento Üretim Nezaretçi-Ustabaşısı",
+  "Kalite Kontrol Sorumlusu"
+ ],
+ "ek_bilgiler": "Üretim Paneli Kontrol Operatörü; petrokimya, rafineri, çimento gibi riskli üretim süreçlerinin yürütüldüğü tesislerde çalışabilmektedir. Bu nedenle çalışılan işletmenin risk sınıfına göre düzenli iş sağlığı ve güvenliği eğitimleri alınması önemlidir ve Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T11:24:31",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 7051
+  }
+ }
+}

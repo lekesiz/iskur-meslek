@@ -1,0 +1,79 @@
+{
+ "arac_gerec": [
+  "Pik döküm makinesi",
+  "Erimiş metal potası",
+  "Kalıp kumu ve kum karıştırma ekipmanı",
+  "Kanal kurutma fırını/sıcak hava üfleyici",
+  "Döküm kalıpları",
+  "Kepçe ve maşa takımları",
+  "Isıya dayanıklı iş eldiveni ve iş elbisesi",
+  "Yüz siperliği ve koruyucu gözlük",
+  "Baret",
+  "Isıya dayanıklı iş ayakkabısı",
+  "Hurda ve artık taşıma vagonu/arabası",
+  "El arabası",
+  "Basit el aletleri (kazıma, temizleme takımları)",
+  "Yangın söndürme cihazı"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli,",
+  "Fiziksel olarak güçlü ve dayanıklı,",
+  "Yüksek ısıya ve yoğun çalışma temposuna dayanıklı,",
+  "El ve göz koordinasyonu gelişmiş,",
+  "Sorumluluk sahibi ve tedbirli,",
+  "İş güvenliği kurallarına titizlikle uyan,",
+  "Ekip çalışmasına uyumlu,",
+  "Makine ve mekanik sistemlere ilgili"
+ ],
+ "calisma_ortami": "Pik Dökümcüsü (Makine İle), döküm fabrikaları ve atölyelerinde, genellikle kapalı mekânlarda çalışır. Çalışma ortamı erimiş metal nedeniyle sıcak, bazen tozlu, dumanlı ve gürültülüdür. Makinelerin ve erimiş metalin bulunduğu alanda çalışıldığından yanık, sıçrama ve iş kazası riskleri bulunur; bu nedenle koruyucu donanımın eksiksiz kullanılması ve iş güvenliği kurallarına titizlikle uyulması gerekir.\n\nÇalışma saatleri işletmenin üretim programına göre değişebilir; vardiyalı çalışma yaygındır. Meslek elemanı çalışma sırasında ustabaşı, vardiya amiri, kalite kontrol personeli ve diğer atölye çalışanlarıyla sürekli iletişim halindedir.",
+ "gorevler": [
+  "Kanal için gerekli kumu hazırlar ve su ile karıştırarak erimiş metalin akacağı kanalı yapar,",
+  "Kanalı sıcak hava ile kurutur,",
+  "Makinenin ve potanın ağzındaki sakalları ve potanın içini temizler,",
+  "Makine kalıplarına erimiş metali doldurur,",
+  "Makineyi çalıştırıp otomatik olarak pik dökümü yapılmasını sağlar,",
+  "Dökümden sonra dökülen pik artıklarını ve hurdalarını vagonlara atar,",
+  "Kırılan kalıpların değiştirilmesini temin eder,",
+  "Makineyi temizler,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Mesleğe ilişkin örgün ve standart bir mesleki ve teknik eğitim programı bulunmamaktadır. Eğitim büyük ölçüde işyerinde usta yanında yetişme yoluyla gerçekleşir. Halk Eğitim Merkezleri ve İŞKUR tarafından açılan mesleki eğitim kursları ile metal teknolojisi alanındaki mesleki ve teknik eğitim programları, bu mesleğe temel oluşturacak bilgi ve beceriler sağlayabilir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak,",
+   "Sağlık durumunun yüksek ısı, duman ve ağır fiziksel koşullarda çalışmaya uygun olması (gerektiğinde sağlık raporuyla belgelendirilir),",
+   "İşverenin belirleyeceği koşulları karşılamak."
+  ],
+  "sure_ve_icerik": "Mesleğin standart ve resmî bir eğitim süresi/müfredatı bulunmamaktadır. Çalışmaya başlayan kişi, işyerinde deneyimli bir ustanın gözetiminde kalıp kumu hazırlama, kanal açma, pota ve makine temizliği, erimiş metal ile çalışma, döküm makinesinin kullanımı ve iş güvenliği uygulamalarını uygulamalı olarak öğrenir. İŞKUR ve Halk Eğitim Merkezleri tarafından açılabilecek kısa süreli kurslarda temel döküm bilgisi ve iş güvenliği konuları verilir.",
+  "belge": "Örgün bir diploma veya zorunlu meslek belgesi bulunmamaktadır. Katılınan kurslar sonunda katılım/başarı belgesi alınabilir. Mesleki Yeterlilik Kurumu (MYK) Mesleki Yeterlilik Belgesi, ilgili alanda düzenlenmesi halinde istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Pik Dökümcüsü (Makine İle), başta pik döküm fabrikaları olmak üzere, demir-çelik ve metal sanayine bağlı döküm atölyelerinde, makine ve otomotiv yan sanayine parça üreten döküm işletmelerinde çalışabilir. İş bulma olanakları büyük ölçüde özel sektördeki üretim yoğunluğuna bağlıdır; döküm sanayinin yoğunlaştığı sanayi bölgelerinde iş bulma olasılığı daha yüksektir. Kamu kuruluşlarında bu meslekte doğrudan istihdam sınırlıdır.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğe çıraklık eğitimi yoluyla giriliyorsa 3308 sayılı Mesleki Eğitim Kanunu kapsamında öğrenciye asgari ücretin bir bölümü ödenir ve iş kazası ile meslek hastalığı sigortası devletçe karşılanır. İŞKUR tarafından düzenlenen mesleki eğitim kurslarına katılanlara ise kursiyer harçlığı ödenebilir.",
+  "egitim_sonrasi": [
+   "Özel sektörde çalışanların ücreti işin niteliğine, deneyime, işletmenin büyüklüğüne ve çalışma koşullarına göre değişmekte, işe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlamaktadır.",
+   "Kamuya bağlı işletmelerde işçi statüsünde çalışanların ücreti ilgili toplu iş sözleşmesi hükümlerine göre belirlenir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Meslekte ilerleme büyük ölçüde işyerinde kazanılan deneyime bağlıdır. İsteyenler, metal teknolojisi alanındaki mesleki ve teknik eğitim programlarına veya çıraklık eğitimine yönelerek kalfalık ve ustalık belgesi alabilir, bu yolla meslek lisesi diploması edinebilir.",
+  "is_hayatinda": "Deneyim ve performansa bağlı olarak vardiya amirliğine, ustabaşılığına veya döküm atölyesi sorumluluğuna yükselinebilir. Yeterli sermaye ve deneyime sahip olanlar, kendi döküm işletmesini kurma yoluna gidebilir."
+ },
+ "benzer_meslekler": [
+  "Basınçlı Döküm Makinesi Operatörü",
+  "Kupol Ocağı Operatörü",
+  "Enjeksiyon Pres Döküm Makinesi Operatörü",
+  "Pres Döküm Makinesi Operatörü",
+  "Santrifüj Döküm Makinesi Operatörü",
+  "Potacı-Dökümcü"
+ ],
+ "ek_bilgiler": "Erimiş metalle çalışılması nedeniyle bu meslek, iş sağlığı ve güvenliği açısından riskli işler kapsamında değerlendirilebilir; işletmeler bu doğrultuda ek koruyucu donanım ve yaş/sağlık şartı uygulayabilir. Pik döküm sektörü; otomotiv, makine ve inşaat sanayine girdi sağladığından, bu sanayilerin yoğunlaştığı bölgelerde istihdam olanağı daha fazladır.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T11:36:05",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6327
+  }
+ }
+}

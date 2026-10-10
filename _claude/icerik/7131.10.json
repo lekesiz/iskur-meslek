@@ -1,0 +1,80 @@
+{
+ "arac_gerec": [
+  "Raspa makinesi ve kazıyıcılar",
+  "Zımpara makinesi ve çeşitli zımpara kağıtları",
+  "Basınçlı su (hidroblasting) makinesi",
+  "Kumlama (kum/granül püskürtme) ekipmanı",
+  "Boya tabancası / airless boya pompası",
+  "Fırça ve rulo takımları",
+  "Kompresör ve hava hortumları",
+  "İskele ve çalışma platformları",
+  "Boya kalınlık ölçer (dry film thickness gauge) ve nem ölçer",
+  "Boya karıştırma kapları, karıştırıcılar ve süzgeçler",
+  "Solvent/tiner ve dolgu macunları",
+  "Koruyucu tulum, eldiven, çizme, baret",
+  "Solunum maskesi/respiratör ve gaz maskesi",
+  "Emniyet kemeri ve can yeleği",
+  "Göz koruyucu gözlük ve kulaklık"
+ ],
+ "genel_ozellikler": [
+  "El ve göz koordinasyonuna sahip,",
+  "Fiziksel olarak dayanıklı ve belirli bir güce sahip,",
+  "Yükseklikte, dar ve kapalı alanlarda (tank, bodoslama vb.) çalışabilen,",
+  "Renkleri iyi ayırt edebilen,",
+  "Dikkatli, tedbirli ve sabırlı,",
+  "Kimyasal madde ve kokulara karşı dayanıklı,",
+  "Ekip halinde uyum içinde çalışabilen,",
+  "İş sağlığı ve güvenliği kurallarına titizlikle uyan"
+ ],
+ "calisma_ortami": "Gemi Yüzey Hazırlama Elemanı, genellikle tersanelerde, gemi inşa ve bakım-onarım sahalarında, bazen açık havada iskelelerde, bazen de geminin güvertesi, tank ve bodoslama gibi dar ve kapalı bölümlerinde çalışır. Çalışma ortamında raspa, kumlama ve boya işlemleri sırasında toz, gürültü, boya-tiner kokusu ve kimyasal madde buharı bulunur; bu nedenle kişisel koruyucu donanım kullanımı önemlidir. Yükseklikte veya kapalı alanda çalışma, düşme ve solunum yolu riskleri taşıdığından iş sağlığı ve güvenliği kurallarına titizlikle uyulması gerekir.\n\nÇalışma genellikle ekip halinde yürütülür; ustabaşı, mühendis ve diğer meslektaşlarla sürekli iletişim gerektirir. Gemi inşa ve bakım projelerinin takvimine bağlı olarak zaman zaman vardiyalı çalışma, hafta sonu veya mesai sonrası çalışma söz konusu olabilir.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin örgün bir okul programı kapsamında, standart bir müfredatla yürütülen eğitimi bulunmamaktadır. Mesleğin bilgi ve becerileri büyük ölçüde tersanelerde işbaşında usta yanında yetişme yoluyla kazanılır. Bunun yanında Halk Eğitim Merkezleri ile İŞKUR tarafından açılan mesleki eğitim kursları ve işbaşı eğitim programları da bu alanda beceri kazandırabilir. Mesleki ve teknik eğitim okullarının gemi yapımı, metal teknolojisi veya boya ile ilgili alanlarından alınan temel eğitim, mesleğe geçişte avantaj sağlayabilir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "Çalışma çağına (asgari çalışma yaşına) gelmiş olmak",
+   "Yükseklikte, dar ve kapalı alanlarda çalışmaya; kimyasal madde ve koku içeren ortamlarda bulunmaya elverişli sağlık durumuna sahip olmak",
+   "Fiziksel olarak dayanıklı olmak"
+  ],
+  "sure_ve_icerik": "Belirli ve standart bir eğitim süresi bulunmamaktadır. Meslek, genellikle işyerinde usta yanında çalışarak, kademeli olarak iş öncesi hazırlık, yüzey temizleme, raspa ve boya/vernik uygulama işlemlerinin öğrenilmesiyle kazanılır. İŞKUR ve Halk Eğitim Merkezlerinin açtığı kurslar kısa süreli olup temel bilgi ve güvenlik uygulamalarını içerir.",
+  "belge": "Örgün bir diploma veya standart bir meslek belgesi bulunmamaktadır; katılınan kurslar sonunda kurs bitirme belgesi/sertifika verilebilir. Gemi inşa sanayii, iş sağlığı ve güvenliği mevzuatı kapsamında tehlikeli/çok tehlikeli işler sınıfında değerlendirilebildiğinden, bu alanda çalışacaklar için Mesleki Yeterlilik Kurumu (MYK) belgesi istenebilir veya tercih sebebi olabilir; güncel yasal düzenlemelerin ilgili kurumlardan teyit edilmesi önerilir."
+ },
+ "calisma_alanlari": "Gemi Yüzey Hazırlama Elemanları başta tersaneler olmak üzere, gemi inşa ve bakım-onarım tesislerinde, gemi söküm tesislerinde, liman ve denizcilik işletmelerine bağlı bakım birimlerinde çalışabilir. Ayrıca yüzey hazırlama ve boya uygulaması konusunda hizmet veren özel firmalarda da istihdam edilirler. Gemi inşa ve onarım sektörünün faaliyet hacmine bağlı olarak, bu alanda yetişmiş ve deneyimli elemanlara genellikle talep bulunmaktadır; özellikle büyük tersane bölgelerinde iş bulma olanakları nispeten daha iyidir.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğin örgün bir çıraklık eğitimi bulunmadığından, işyerinde usta yanında yetişenlere işveren tarafından ücret ödenir. İŞKUR'un açtığı işbaşı eğitim programlarına katılanlara ise programın koşullarına göre katılımcı ödemesi yapılabilir.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanların kazancı genellikle asgari ücret düzeyindedir.",
+   "Deneyim, uzmanlaşma ve çalışılan işletmenin (tersane/firma) büyüklüğüne bağlı olarak kazanç artabilir.",
+   "Kamuya bağlı tersanelerde işçi statüsünde çalışanların ücreti ilgili toplu iş sözleşmesi hükümlerine göre belirlenir; özel sektörde ücret işveren ile karşılıklı anlaşmaya göre değişir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Meslekte ilerleme büyük ölçüde iş deneyimi ve katılınan kurslarla sağlanır. İsteyenler, ilgili mesleki ve teknik eğitim programlarına veya denizcilik/gemi inşaatı ile ilgili ön lisans programlarına yönelerek bilgi ve becerilerini belgeleyebilir.",
+  "is_hayatinda": "Deneyim kazanan elemanlar ekip lideri, ustabaşı veya kalite kontrol sorumlusu gibi görevlere yükselebilir; aldıkları sertifika ve yeterliliklerle uzman boyacı/yüzey hazırlama teknisyeni konumuna gelebilirler."
+ },
+ "benzer_meslekler": [
+  "Boyacı (Çelik İnşaat ve Gemi)",
+  "Gemi-Yat-Tekne Boyacısı",
+  "Gemi Karina Kontrol Boyacısı",
+  "Cilacı (Gemi)",
+  "Metal Yüzey Boyacısı",
+  "Yüzey Boyama Elemanı"
+ ],
+ "ek_bilgiler": "Gemi inşa ve bakım-onarım sektörü, iş sağlığı ve güvenliği mevzuatı kapsamında tehlikeli/çok tehlikeli işler sınıfında değerlendirilebilmektedir; bu nedenle kişisel koruyucu donanım kullanımı ve iş güvenliği eğitimleri meslekte büyük önem taşır. Sektördeki gemi inşa ve onarım talebine bağlı olarak istihdam düzeyi dönemsel dalgalanma gösterebilir.",
+ "gorevler": [
+  "İş sağlığı ve güvenliği, çevre koruma ve kalite önlemlerini uygular.",
+  "İş öncesi hazırlık yapar.",
+  "Gemi yüzeyini (metal, ahşap ve kompozit) kazıma, yıkama ve kurutma işlemleriyle temizler.",
+  "Raspa işlemlerini gerçekleştirir.",
+  "Boya/vernik öncesi yüzey hazırlığını yapar.",
+  "Uygun yöntemleri kullanarak boya/vernik işlemlerini gerçekleştirir.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T23:55:52",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 7143
+  }
+ }
+}

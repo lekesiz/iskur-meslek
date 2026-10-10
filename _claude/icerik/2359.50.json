@@ -1,0 +1,78 @@
+{
+ "arac_gerec": [
+  "Yazar kasa / POS cihazı",
+  "Soğutucu ve teşhir dolapları",
+  "Gıda hazırlama ve ısıtma cihazları (fırın, tost makinesi, su ısıtıcısı vb.)",
+  "Stok ve envanter kayıt defterleri/bilgisayar programları",
+  "Hijyen ve temizlik malzemeleri",
+  "Ambalaj ve sunum malzemeleri",
+  "Kişisel koruyucu donanım (önlük, eldiven, bone)",
+  "Eğitim materyalleri (föy, çizelge, değerlendirme formları)",
+  "Basit bakım-onarım el aletleri",
+  "Barkod okuyucu",
+  "Tartı ve ölçü aletleri"
+ ],
+ "benzer_meslekler": [
+  "Usta Öğretici (Aşçılık)",
+  "Usta Öğretici (Barmenlik)",
+  "Usta Öğretici (Fırıncılık)",
+  "Usta Öğretici (Ön Büro Elemanlığı)",
+  "Usta Öğretici (Kat Elemanlığı)",
+  "Usta Öğretici (Et ve Et Ürünleri İşlemeciliği)"
+ ],
+ "calisma_alanlari": "Usta Öğretici (Kantin İşletmeciliği); mesleki eğitim merkezleri bünyesinde çıraklık eğitimi gören aday çırak, çırak ve kalfaların işbaşında eğitiminden sorumlu olduğu işletmelerde (okul kantinleri, kurum/kuruluş kantinleri, kafeterya ve benzeri işletmelerde) çalışır. Ayrıca mesleki ve teknik eğitim okul ve kurumlarının uygulama/atölye birimlerinde, meslek dersleri ve atölye uygulama sınavlarında komisyon üyesi olarak görev alabilir. Çoğunlukla kendi kantin işletmesini yürütürken bünyesinde çırak ve öğrenci yetiştiren kişiler bu unvanla anılır; kamu veya özel mesleki eğitim merkezleriyle protokol yapan işletme sahipleri de bu kapsamda değerlendirilir.",
+ "calisma_ortami": "Usta Öğretici (Kantin İşletmeciliği), genellikle kapalı mekânlarda; okul, kurum veya işletme bünyesindeki kantin, kafeterya veya satış/servis alanlarında çalışır. Çalışma ortamı gıda ve içecek ürünleriyle, satış ve stok işlemleriyle, hijyen ve temizlik uygulamalarıyla iç içedir; genellikle ayakta ve hareketli bir çalışma temposu gerektirir. Yoğun saatlerde (teneffüs, yemek arası vb.) iş yükü artabilir.\n\nÇalışma saatleri, bağlı olduğu okulun veya işletmenin çalışma düzenine göre belirlenir. Aday çırak, çırak, kalfa ve öğrencilerle, okul idaresiyle, diğer öğretmen ve usta öğreticilerle, müşterilerle ve tedarikçilerle sürekli iletişim halindedir. İşin niteliği gereği gıda güvenliği ve hijyen kurallarına özen gösterilmesi gerekir.",
+ "egitim": {
+  "verildigi_yerler": "Usta Öğretici (Kantin İşletmeciliği) için örgün bir okul eğitimi bulunmamaktadır. Usta öğreticilik, ilgili alanda (kantin işletmeciliği/yiyecek-içecek hizmetleri) mesleki deneyim ve ustalık yeterliğine sahip kişilerin, Milli Eğitim Bakanlığına bağlı halk eğitim merkezleri veya mesleki eğitim merkezlerince açılan usta öğreticilik (pedagojik formasyon) kurslarını tamamlayarak kazandıkları bir yeterliliktir.",
+  "giris_kosullari": [
+   "İlgili alanda (kantin işletmeciliği/yiyecek-içecek hizmetleri) ustalık belgesine veya buna denk mesleki deneyime sahip olmak",
+   "En az ilköğretim mezunu olmak",
+   "Usta öğreticilik kurslarının açıldığı kurumun belirlediği yaş ve sağlık koşullarını taşımak"
+  ],
+  "sure_ve_icerik": "Usta öğreticilik eğitimi, ilgili alanda mesleki birikime sahip kişilere yönelik olarak düzenlenen kısa süreli bir formasyon/pedagojik eğitim programıdır. Bu programlarda genel öğretim teknikleri, iletişim, sınıf/atölye yönetimi, ölçme-değerlendirme, iş sağlığı ve güvenliği gibi konularda eğitim verilir; kantin işletmeciliği alanına özgü mesleki bilgi ve beceriler ayrıca değerlendirilir. Programın süresi ve içeriği, kursu açan kuruma göre değişebilir.",
+  "belge": "Eğitimi tamamlayanlara \"Usta Öğreticilik Belgesi\" verilir."
+ },
+ "ek_bilgiler": "Usta öğretici olarak görev alabilmek için ilgili alanda (kantin işletmeciliği/yiyecek-içecek hizmetleri) ustalık düzeyinde mesleki yeterlik ve usta öğreticilik formasyonu önemli bir ön koşuldur. Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda ve işletme açarken tercih sebebi olabilir. Gıda ile çalışıldığından hijyen sertifikası gibi belgeler yerel uygulamalara göre gerekebilir.",
+ "genel_ozellikler": [
+  "İnsanlarla iyi iletişim kurabilen,",
+  "Sabırlı ve hoşgörülü,",
+  "Sorumluluk sahibi ve güvenilir,",
+  "El becerisine sahip,",
+  "Hijyen ve temizlik kurallarına dikkat eden,",
+  "Mesleğini iyi bilen ve aktarabilen,",
+  "Planlı ve organize çalışabilen,",
+  "Öğretmeye istekli, sabırlı"
+ ],
+ "gorevler": [
+  "Aday çırak, çırak, kalfa ve öğrencilerin işyerindeki eğitiminden sorumlu olur.",
+  "Kantin işletmeciliği eğitimi ile ilgili gereken araç-gereç ve malzemeler ile eğitim materyallerinin hazırlanmasını sağlar.",
+  "Aday çırak, çırak, kalfa ile mesleki ve teknik eğitim okul ve kurumları öğrencilerine, kantin işletmeciliği ile ilgili kullanılması gereken araç-gereç ve malzemeleri tanıtır.",
+  "Öğrencilere mesleği ile ilgili konularda eğitim verir.",
+  "Öğrencilerin, kantin işletmeciliği ile ilgili konularda uygulama yapmalarını sağlar, gördüğü hata ve eksikliklerin düzeltilmesini sağlar.",
+  "Öğrencilere, kantin işletmeciliği işlerinde kullanılan araç-gereç ve malzemelerin basit bakım-onarım, kontrol ve ayar işleriyle ilgili gerekli eğitimleri verir.",
+  "Öğrencilere iş sağlığı ve güvenliği konularında eğitim verir.",
+  "Meslek dersleri ve atölye uygulama sınavlarında komisyon üyesi olarak görev yapar.",
+  "Meslek alanı ile ilgili gelişmeleri takip eder, uygular.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Usta öğreticiler, deneyim kazandıkça alan şefliği veya atölye şefliği gibi görevlere yükselebilir; farklı konularda ek ustalık belgeleri alarak eğitim verebilecekleri alan sayısını artırabilirler.",
+  "is_hayatinda": "Kendi kantin işletmesini büyütebilir, işletme sahibi/yöneticisi olarak ilerleyebilir; mesleki eğitim merkezleriyle protokol kapsamındaki işletmelerde koordinatörlük gibi görevler üstlenebilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Usta öğreticilik eğitimi kısa süreli kurs şeklinde düzenlendiğinden genellikle ayrı bir burs veya kredi imkânı bulunmaz; katılımcılar çoğunlukla kendi işlerini sürdürürken bu eğitime katılır.",
+  "egitim_sonrasi": [
+   "Mesleki eğitim merkezlerinde ek ders ücreti karşılığında görev alanlar, ilgili mevzuat çerçevesinde belirlenen ek ders ücretinden yararlanır.",
+   "Kendi işletmesinde (kantin) çalışanların kazancı işletmenin büyüklüğüne, müşteri hacmine ve bölgeye göre değişir; genellikle asgari ücret düzeyinden başlayarak deneyim ve işletme büyüklüğüne göre artar.",
+   "Özel sektörde usta öğretici olarak görev yapanların ücreti işveren ile yapılan anlaşmaya göre belirlenir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T04:04:05",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 7188
+  }
+ }
+}

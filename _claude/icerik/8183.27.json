@@ -1,0 +1,75 @@
+{
+ "gorevler": [
+  "Kodlama makinesine güncel tarih ve vardiya bilgilerini girer.",
+  "Kapak besleme elevatörlerini ve dizici üniteleri kontrol eder.",
+  "Baskının okunaklılığını ve kapak üzerindeki konumunu izler.",
+  "Mürekkep, solvent veya lazer soğutma suyu seviyelerini takip eder.",
+  "Hatalı baskılı ürünleri ayıklar ve makine temizliğini yapar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "arac_gerec": [
+  "Lazer veya inkjet tarihleme/kodlama makinesi",
+  "Kapak besleme elevatörü",
+  "Dizici ünite",
+  "Mürekkep kartuşu ve solvent",
+  "Lazer soğutma suyu devresi",
+  "Makine kontrol paneli",
+  "Basınçlı hava tabancası",
+  "Temizlik bez ve solüsyonları",
+  "Koruyucu gözlük",
+  "Koruyucu eldiven",
+  "Kulak koruyucu",
+  "Yedek nozul ve baskı başlığı"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli,",
+  "Göz-el koordinasyonu güçlü,",
+  "Sorumluluk sahibi,",
+  "Düzenli ve tertipli,",
+  "Teknik aletleri kullanabilen,",
+  "El ve parmak becerisine sahip,",
+  "Vardiyalı çalışma düzenine uyum sağlayabilen,",
+  "Takım çalışmasına yatkın"
+ ],
+ "calisma_ortami": "Plastik kapak üretimi yapılan fabrika ve ambalaj işletmelerinde, genellikle kapalı ortamda ve ayakta çalışılır. Makine sesi, mürekkep veya solvent kokusu, lazerli sistemlerde ışın kaynaklı riskler söz konusu olabileceğinden iş sağlığı ve güvenliği kurallarına ve koruyucu ekipman kullanımına dikkat edilmesi gerekir.\n\nÜretim genellikle vardiyalı sistemde sürdürüldüğünden vardiyalı çalışma yaygındır. Çalışma sırasında üretim hattındaki diğer operatörler, bakım-onarım personeli ve vardiya sorumlusu ile sürekli iletişim halinde olunur.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin örgün bir diploma veya sertifika programı bulunmamaktadır. Eğitim genellikle işletmelerde işbaşında, usta operatör gözetiminde verilir. Halk eğitim merkezlerinde zaman zaman paketleme/ambalaj makineleri operatörlüğüne yönelik kısa süreli kurslar açılabilir. Meslek liselerinin Gıda Teknolojisi, Kimya Teknolojisi veya Makine Teknolojisi gibi ilgili alanlarından mezun olanlar da bu mesleğe daha kolay yönelebilir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "İşletmenin belirlediği yaş ve sağlık şartlarını taşımak",
+   "Açılan kurslara katılım için halk eğitim merkezlerinin genel koşullarını sağlamak (her yaş ve eğitim düzeyinden kişi katılabilir; 18 yaşından küçükler veli izniyle katılabilir)"
+  ],
+  "sure_ve_icerik": "İşbaşında verilen eğitimin süresi işletmeden işletmeye değişmekle birlikte genellikle birkaç günden birkaç haftaya kadar sürer. Eğitimde; tarihleme/kodlama makinesinin çalışma prensibi, mürekkep/solvent veya lazer sisteminin kullanımı, kapak besleme ve dizici ünitelerin kontrolü, baskı kalite kontrolü, hatalı ürünlerin ayıklanması, makine temizliği ve basit bakımı ile iş sağlığı ve güvenliği konuları uygulamalı olarak verilir.",
+  "belge": "Mesleğin örgün bir diploma veya sertifika programı bulunmadığından genellikle resmi bir belge verilmez; katıldığı kurs varsa Kurs Bitirme Belgesi, işletme içi eğitimlerde ise katılım belgesi alınabilir. Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Plastik kapak üretimi yapan fabrikalar, ambalaj sanayi işletmeleri, gıda ve içecek sektörüne kapak üreten tesisler ile kozmetik ve kimya sektörüne yönelik kapak üreticileri bu mesleğin başlıca istihdam alanlarıdır. Ambalaj ve plastik sanayinin gelişimine bağlı olarak bu alanda iş bulma olanakları orta düzeydedir ve genellikle büyük ya da orta ölçekli üretim tesislerinde istihdam söz konusudur.",
+ "kazanc": {
+  "egitim_suresince": "İşbaşında verilen eğitim sırasında işletmenin uygulamasına göre bir ücret ödenebilir; örgün kurslarda ise eğitim süresince herhangi bir kazanç söz konusu değildir.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde çalışmaya başlar.",
+   "Deneyim, vardiya düzeni ve işletmenin büyüklüğüne göre ücrette artış olabilir.",
+   "Özel sektörde çalışıldığından ücret, işveren ile çalışan arasındaki anlaşmaya ve işletme uygulamalarına göre belirlenir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğe yönelik örgün bir ilerleme basamağı bulunmamaktadır. Kişi deneyim kazandıkça farklı paketleme ve ambalaj makinelerinin kullanımını öğrenerek bilgi ve becerisini artırabilir.",
+  "is_hayatinda": "Deneyim kazanan operatörler usta operatörlüğe, vardiya sorumluluğuna veya üretim hattı/bölüm şefliğine yükselebilir; ileri düzeyde teknik bilgiyle makine bakım-onarım görevlerine geçiş sağlayabilir."
+ },
+ "benzer_meslekler": [
+  "Kapaklama ve Mühürleme Makinesi Operatörü",
+  "Kapak-Pipet Makinesi Operatörü",
+  "Şişe Etiketleme Makinesi Operatörü",
+  "Etiketçi (Makineyle)",
+  "Palet Etiketleme İşçisi",
+  "Tarihleme Makinesi Operatörü"
+ ],
+ "ek_bilgiler": "Lazer kullanılan kodlama sistemlerinde lazer güvenliği kurallarına ve koruyucu ekipman kullanımına dikkat edilmesi gerekir. Solvent bazlı mürekkep kullanılan sistemlerde kimyasal maddelere maruziyete karşı iş sağlığı ve güvenliği önlemlerine uyulması önemlidir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T17:18:48",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5007
+  }
+ }
+}

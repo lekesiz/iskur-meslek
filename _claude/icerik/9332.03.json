@@ -1,0 +1,68 @@
+{
+ "arac_gerec": [
+  "Ray üzerinde hareket eden vagonlar",
+  "Koşum takımları (boyunduruk, eyer, kayış)",
+  "Dizgin",
+  "Yem ve su kapları",
+  "Tımar fırçası ve malzemeleri",
+  "Nal ve nal çakma takımları (çekiç, keski, çakı)",
+  "Aydınlatma için fener/lamba (yer altı ocaklarında)",
+  "Hayvanları yönlendirmek için değnek veya kırbaç",
+  "Kişisel koruyucu donanım (baret, iş eldiveni, iş ayakkabısı)"
+ ],
+ "genel_ozellikler": [
+  "Hayvanlarla iyi iletişim kurabilen ve onları yönetebilen,",
+  "Fiziksel olarak güçlü ve dayanıklı,",
+  "Dikkatli ve sorumluluk sahibi,",
+  "Sabırlı,",
+  "Karanlık, kapalı ve dar alanlarda çalışabilen,",
+  "El ve beden koordinasyonu iyi,",
+  "Emir ve talimatlara uyabilen"
+ ],
+ "calisma_ortami": "Koşulu araç sürücüsü (maden ve taş ocağı), çalıştığı yere göre yer altındaki maden ocağı galerilerinde veya yer üstündeki taş ocaklarında görev yapar. Yer altında çalışma ortamı genellikle karanlık, dar, nemli ve tozlu olup havalandırma ve aydınlatma koşulları sınırlıdır; bu nedenle iş kazası riski yüksektir. Taş ocaklarında ise açık havada, toz, gürültü ve değişken hava koşulları altında çalışılır.\n\nMeslek elemanı, görevini genellikle kendisine bağlı hayvanla birlikte yürüyerek veya vagonun yanında hareket ederek yerine getirir. Ocak ustabaşısı, diğer ocak işçileri ve zaman zaman nalbant gibi kişilerle iletişim kurar. Çalışma saatleri işletmenin vardiya düzenine göre değişebilir; ağır ve riskli bir iş koludur.",
+ "gorevler": [
+  "Yükleme noktasına veya yükleme noktası ile maden veya taş istihsal edilen yerler arasında döşenmiş raylar üzerinde gidip gelen vagonlara koşulmuş hayvanları sürer",
+  "Hayvanları sesle veya dizginlerle idare eder",
+  "Hayvanları tımar eder, yemler ve sular",
+  "Koşum takımlarını takar, çıkarır ve aracın doldurulup boşaltılmasına yardım eder",
+  "Nalbantlık işleri yapar",
+  "Mesleki gelişim faaliyetlerinde bulunur"
+ ],
+ "egitim": {
+  "verildigi_yerler": "Bu meslek, Türk Meslekler Sözlüğü'nde okur yazar düzeyinde bir meslek olarak tanımlanmaktadır. Mesleğe yönelik örgün bir mesleki eğitim programı bulunmamaktadır; meslek genellikle işbaşında usta yanında yetişerek veya işletme içi uygulamalı eğitimle öğrenilmektedir. Hayvan bakımı ve nalbantlık gibi konularda Halk Eğitim Merkezleri veya İŞKUR'un açtığı kısa süreli mesleki eğitim kursları destekleyici olabilir.",
+  "giris_kosullari": [
+   "Okur yazar olmak",
+   "Fiziksel olarak işin gereklerini (ağır koşullarda çalışma, hayvanla birlikte hareket etme) yerine getirebilecek sağlık durumuna sahip olmak",
+   "İşe alındığı işletmenin belirlediği asgari yaş ve sağlık şartlarını karşılamak"
+  ],
+  "sure_ve_icerik": "Resmî ve standart bir eğitim süresi ve müfredatı bulunmamaktadır. Meslek, işe başlanan işletmede deneyimli bir usta veya ocak çalışanının gözetiminde, hayvanın idaresi, koşum takımlarının kullanımı, vagonun yüklenip boşaltılması ve temel nalbantlık bilgilerinin uygulamalı olarak öğretilmesiyle kazanılır.",
+  "belge": "Resmî bir diploma veya sertifika öngörülmemektedir; meslek deneyim yoluyla edinilir. İş yerinde çalışmaya başlamak için gerekli olan temel iş sağlığı ve güvenliği eğitim belgesi alınması gerekebilir."
+ },
+ "calisma_alanlari": "Bu meslek elemanları, hayvan gücüyle çekilen vagonların kullanıldığı maden ocakları ve taş ocaklarında istihdam edilir. Günümüzde madencilik ve taş ocağı işletmelerinde mekanize taşıma sistemlerinin (bantlı konveyörler, raylı lokomotifler, iş makineleri ve kamyonlar) yaygınlaşması nedeniyle hayvan gücüyle taşımacılık büyük ölçüde terk edilmiştir. Bu durum, mesleğin Türkiye'deki istihdam alanını oldukça sınırlı ve giderek azalan bir meslek haline getirmiştir; iş bulma olanakları çok kısıtlıdır.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğe yönelik örgün bir eğitim programı bulunmadığından, eğitim süresince ücret söz konusu değildir. Kişi genellikle doğrudan işe alınarak işbaşında öğrenir ve bu süre zarfında işverenle anlaşılan ücreti alır.",
+  "egitim_sonrasi": [
+   "Özel sektörde çalışanların kazancı, işveren ile yapılan anlaşmaya, işin ağırlığına ve işletmenin büyüklüğüne göre değişmekle birlikte genellikle asgari ücret düzeyindedir.",
+   "Kamu kurumlarına bağlı işletmelerde işçi statüsünde çalışanların kazancı, ilgili toplu iş sözleşmesi hükümlerine göre belirlenir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğe yönelik kademeli bir örgün eğitim programı bulunmadığından, mesleki eğitimde belirli bir ilerleme basamağı tanımlanmamıştır. Kişi, isteğe bağlı olarak hayvan bakımı, nalbantlık veya iş makinesi operatörlüğü gibi alanlarda kısa süreli kurslara katılarak bilgi ve becerilerini geliştirebilir.",
+  "is_hayatinda": "Deneyim kazanan kişiler, işletme içinde ustabaşılık veya nalbantlık gibi görevlere yönelebilir. Madencilik sektöründeki mekanizasyon eğilimi nedeniyle, bu meslekte çalışanların iş makinesi operatörlüğü gibi mekanize taşıma işlerine geçiş yapması da mümkündür."
+ },
+ "benzer_meslekler": [
+  "Diğer Koşulu Araç Sürücüleri",
+  "Faytoncu",
+  "Kağnı Sürücüsü",
+  "At Arabası Sürücüsü"
+ ],
+ "ek_bilgiler": "Bu meslek, Türk Meslekler Sözlüğü'nde yer almakla birlikte, madencilik ve taş ocağı işletmelerinde mekanize taşıma sistemlerinin yaygınlaşması sonucu Türkiye'de günümüzde uygulama alanı çok sınırlı kalmış, büyük ölçüde terk edilmiş bir meslektir. Meslek seçimi yapılırken bu durumun dikkate alınması önerilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T20:22:28",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 4279
+  }
+ }
+}

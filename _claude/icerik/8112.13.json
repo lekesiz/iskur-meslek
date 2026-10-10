@@ -1,0 +1,74 @@
+{
+ "arac_gerec": [
+  "Yıkama makinesi (tromel/yıkama teknesi)",
+  "Konveyör bantları ve nakliye oluğu",
+  "Su vanası ve basınçlı su hattı",
+  "Kumanda/ayar kolu ve kontrol panosu",
+  "Elek ve sınıflandırma ekranları",
+  "Numune alma kabı ve küçük el aletleri (kürek, maşa vb.)",
+  "Anahtar takımı",
+  "Telsiz veya haberleşme cihazı",
+  "Aydınlatma ekipmanı (lamba, baret lambası)",
+  "Kişisel koruyucu donanım (baret, çizme, eldiven, gözlük, kulaklık, iş elbisesi)"
+ ],
+ "benzer_meslekler": [
+  "Jig Operatörü",
+  "Yüzdürme İşletme Operatörü-Maden",
+  "Mekanik(Fiziksel) Cevher Zenginleştirme Operatörü",
+  "Filtre Tesisi Operatörü-Maden",
+  "Manyetik Ayırıcı Operatörü-Maden",
+  "Değirmen İşçisi (Maden)"
+ ],
+ "calisma_alanlari": "Yıkama Makinesi Operatörü (Maden), kömür ocaklarına bağlı kömür hazırlama/yıkama tesislerinde ve maden cevherlerinin zenginleştirildiği tesislerde çalışır. Bu tesisler genellikle maden ocaklarının veya cevher işleme fabrikalarının bir bölümü olarak kurulmuştur. İş bulma olanakları, madencilik sektörünün ve kömür/maden üretiminin bulunduğu bölgelerdeki (özellikle kömür havzaları ve maden zenginleştirme tesislerinin yoğun olduğu iller) işletmelerin faaliyet durumuna bağlı olarak değişir. Kamu kuruluşlarına bağlı maden işletmelerinde olduğu gibi özel sektöre ait maden ve cevher işleme tesislerinde de istihdam edilebilirler.",
+ "calisma_ortami": "Yıkama Makinesi Operatörü (Maden), kömür veya maden cevherinin yıkanarak zenginleştirildiği tesislerde, genellikle gürültülü, nemli, ıslak ve tozlu bir ortamda çalışır. Çalışma alanı tesisin yapısına göre kapalı bir bina içinde veya açık havada kurulu makinelerin bulunduğu bölümlerde olabilir. Ayakta, sürekli hareketli ve dikkat gerektiren bir çalışma temposu vardır; su ve nem nedeniyle zemin kaygan olabilir, bu da iş kazası riskini artırır.\n\nÇalışma saatleri işletmenin üretim programına bağlı olarak genellikle vardiyalı düzende sürer. Çalışırken işveren tarafından sağlanan kişisel koruyucu donanımı (baret, çizme, eldiven, gözlük, kulaklık vb.) kullanır. Görevini yerine getirirken konveyör çalıştırıcıları, bakım-onarım personeli, tesis nezaretçisi ve mühendisler ile iş birliği içinde çalışır.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi için örgün bir meslek lisesi programı ya da üniversite bölümü bulunmamaktadır. Bu meslek genellikle işbaşında usta yanında yetişerek, Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kursları ile işletmelerin düzenlediği iş başı ve iş sağlığı güvenliği eğitimleri yoluyla öğrenilir.",
+  "giris_kosullari": [
+   "En az ilkokul/ilköğretim mezunu olmak",
+   "Fiziksel olarak işin gerektirdiği koşullara uygun olmak",
+   "Maden işyerlerinde çalışmaya uygun sağlık raporuna sahip olmak"
+  ],
+  "sure_ve_icerik": "Mesleğe yönelik standart süresi ve içeriği belirlenmiş resmî bir eğitim programı bulunmamaktadır. Kişiler genellikle işe alındıktan sonra işletme bünyesinde usta yanında çalışarak makinenin kullanımını, su ve malzeme akış ayarlarını, numune alma ve kontrol işlemlerini öğrenirler. Bazı il müdürlüklerinde açılabilen kısa süreli kurslarda temel bilgiler, işletme tarafından verilen iş başı ve iş sağlığı güvenliği eğitimlerinde ise güvenlik ve uygulama bilgileri aktarılır.",
+  "belge": "Katılınan kurslardan kurs bitirme belgesi, işletme içi eğitimlerden ise iş başı/İSG eğitim katılım belgesi alınabilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "ek_bilgiler": "Yıkama tesislerinde ıslak ve kaygan zemin, nem, gürültü ve bazı durumlarda tozla temas gibi etkenler nedeniyle iş sağlığı ve güvenliği kurallarına uyum önem taşır. Mesleğin tehlikeli/çok tehlikeli işler kapsamında olup olmadığı ve bu kapsamda MYK Mesleki Yeterlilik Belgesi zorunluluğu bulunup bulunmadığı işyerine ve mevzuattaki güncel düzenlemelere göre değişebileceğinden, ilgilenenlerin güncel bilgiyi ilgili kurumlardan (İŞKUR, MYK) teyit etmeleri önerilir.",
+ "genel_ozellikler": [
+  "Dikkatli ve gözlem gücü yüksek,",
+  "Sorumluluk sahibi,",
+  "Fiziksel olarak dayanıklı,",
+  "Makine ve mekanik sistemlere ilgili,",
+  "El ve göz koordinasyonu iyi,",
+  "Ekip çalışmasına uyumlu,",
+  "Vardiyalı çalışmaya uygun,",
+  "İş sağlığı ve güvenliği kurallarına uyan,"
+ ],
+ "gorevler": [
+  "Konveyör ya da nakliye oluklarını harekete geçirerek kömür ya da maden cevherlerinin makine içine alınmasını sağlar ve akış hızını ayarlar.",
+  "Su vanasını açarak makine içindeki kömür ya da maden cevherlerinin üzerindeki yabancı maddelerden arınması için yıkanmasını sağlar.",
+  "Kömür ya da maden cevherinin makineye giriş yerindeki tıkanıklıkları ayar kolu vasıtasıyla giderir.",
+  "Belirli zamanlarda yıkanan malzemeden numune alır.",
+  "Aldığı numuneyi gözle kontrol eder, gerekirse su ve malzeme hızını yıkanmanın daha iyi yapılabilmesi için yeniden ayarlar.",
+  "Yıkanan maden cevherini ve makinenin cinsine göre ayırt eder.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğe özgü kademeli, resmî bir eğitim programı bulunmadığından mesleki eğitimde belirlenmiş bir ilerleme basamağı yoktur. Kişi tecrübe kazandıkça tesisteki farklı operatör görevlerine (örneğin filtre, ayırıcı veya değirmen operatörlüğü gibi) yönelebilir.",
+  "is_hayatinda": "Mesleki tecrübe, bilgi birikimi ve yeteneklerine göre usta başı, vardiya amirliği veya tesis nezaretçiliği gibi görevlere yükselebilirler."
+ },
+ "kazanc": {
+  "egitim_suresince": "Mesleğe özgü örgün bir eğitim süreci bulunmadığından, bu dönemde genel anlamda bir kazanç söz konusu değildir. İşe işbaşında usta yanında başlanması durumunda, bu süreçte işletme tarafından ücret ödenebilir.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç elde eder.",
+   "Kamuya bağlı maden işletmelerinde işçi statüsünde çalışanların ücreti toplu iş sözleşmesi hükümlerine göre belirlenir.",
+   "Özel sektördeki işletmelerde kazanç, kişinin deneyimine, işletmenin büyüklüğüne ve çalışma koşullarına göre değişebilir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T10:25:17",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5305
+  }
+ }
+}

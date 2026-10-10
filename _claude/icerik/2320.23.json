@@ -1,0 +1,74 @@
+{
+ "arac_gerec": [
+  "Multimetre, ampermetre, voltmetre gibi elektriksel ölçüm cihazları",
+  "Osiloskop ve sinyal jeneratörü",
+  "Ayarlanabilir güç kaynakları",
+  "Breadboard ve deney setleri",
+  "Lehim istasyonu, lehim teli ve yardımcı el aletleri (pense, kargaburun, tornavida takımı)",
+  "Elektronik devre elemanları (direnç, kapasitör, diyot, transistör, entegre devre)",
+  "Mikrodenetleyici/geliştirme kartları (ör. Arduino tabanlı eğitim setleri)",
+  "PLC (Programlanabilir Lojik Kontrolör) eğitim setleri ve otomatik kumanda deney düzenekleri",
+  "Bilgisayar, elektronik tasarım ve simülasyon yazılımları",
+  "Teknik resim takımı ve çizim araçları",
+  "Projeksiyon cihazı / akıllı tahta",
+  "Yıllık ve günlük ders planları, ders defteri, not çizelgesi, iş-işlem yaprakları, ders kitapları ve yardımcı kaynaklar"
+ ],
+ "benzer_meslekler": [
+  "Elektrik Öğretmeni",
+  "Elektronik/Telekomünikasyon Öğretmeni",
+  "Elektronik Öğretmeni-Ortaöğretim",
+  "Mekatronik Öğretmeni",
+  "Kontrol Öğretmeni (Kontrol Sistemleri ve Otomasyon)",
+  "Enerji Öğretmeni"
+ ],
+ "calisma_alanlari": "Endüstriyel Elektronik Öğretmenleri, başta Millî Eğitim Bakanlığına bağlı mesleki ve teknik Anadolu liseleri (Elektrik-Elektronik Teknolojisi alanı/elektronik dalları bulunan okullar), endüstri meslek liseleri ve çok programlı Anadolu liselerinde görev alırlar.\n\nKamu kurumlarında öğretmen olarak çalışabilmek için Millî Eğitim Bakanlığının açtığı kadrolara, KPSS (Kamu Personel Seçme Sınavı) ve Bakanlığın ilgili atama şartlarını sağlayarak başvurmak gerekir. Bunun dışında özel mesleki ve teknik öğretim kurumlarında, kurumsal eğitim merkezlerinde, Halk Eğitim Merkezlerinde kurs öğretmeni/eğitmen olarak, ayrıca elektronik ve otomasyon sektöründeki firmaların teknik eğitim/insan kaynakları birimlerinde eğitmen olarak istihdam edilebilirler. İstihdam olanakları, mesleki ve teknik eğitime olan talebe, okullardaki alan/dal açılma durumuna ve ilgili branşta öğretmen ihtiyacına bağlı olarak değişkenlik gösterir.",
+ "calisma_ortami": "Endüstriyel Elektronik Öğretmeni, mesleğini genellikle okul içinde hem sınıf ortamında hem de elektronik/elektrik atölyeleri ve laboratuvarlarında sürdürür. Atölye ortamında elektrikli-elektronik devre elemanları, ölçüm cihazları, lehim ekipmanı ve bazen yüksek gerilimle çalışılması nedeniyle iş güvenliği kurallarına dikkat edilmesi gerekir; dikkatsizlik durumunda elektrik çarpması, yanık veya kesici-delici alet yaralanmaları gibi riskler söz konusu olabilir.\n\nÇalışma saatleri genellikle gündüz ve okulun ders programına göre düzenlenir; dönem dönem nöbet görevi de bulunabilir. Görev sırasında öğrenciler, diğer öğretmenler, okul idarecileri ve veliler ile sürekli iletişim halindedir; ayrıca atölye-laboratuvar uygulamaları ve staj/işletmede mesleki eğitim kapsamında sektör temsilcileriyle de işbirliği yapabilir.",
+ "ek_bilgiler": "Geçmişte bazı üniversitelerin Teknik Eğitim/Mesleki Eğitim Fakültelerinde doğrudan \"Endüstriyel Elektronik Öğretmenliği\" adıyla lisans programları yer almaktaydı; ancak bu fakülteler zaman içinde Teknoloji Fakültelerine dönüştürülmüş ve çoğu üniversitede bu isimle ayrı öğretmenlik programına öğrenci alımı durmuştur. Günümüzde bu alanda öğretmen olmak isteyenler genellikle ilgili mühendislik (Elektrik-Elektronik Mühendisliği, Elektronik ve Haberleşme Mühendisliği, Mekatronik Mühendisliği vb.) veya teknoloji fakültesi programlarından mezun olup, Millî Eğitim Bakanlığının öğretmenlik alanlarına atama için aradığı bölüm şartlarını taşıyarak ve pedagojik formasyon eğitimi alarak bu göreve atanabilmektedir. Güncel bölüm adları, kontenjanlar ve atama şartları zamanla değişebileceğinden, bu mesleğe yönelecek adayların ÖSYM ve MEB'in güncel kılavuz ve mevzuatını incelemesi önerilir.",
+ "egitim": {
+  "verildigi_yerler": "Bu mesleğin eğitimi, günümüzde doğrudan \"Endüstriyel Elektronik Öğretmenliği\" adıyla değil; üniversitelerin ilgili mühendislik (ör. Elektrik-Elektronik Mühendisliği, Elektronik ve Haberleşme Mühendisliği) veya Teknoloji Fakültelerine bağlı elektrik-elektronik ağırlıklı bölümlerinde verilen lisans eğitimi ve bunu tamamlayan pedagojik formasyon eğitimi yoluyla kazanılmaktadır.",
+  "giris_kosullari": [
+   "Lise veya dengi okul mezunu olmak",
+   "YKS (Yükseköğretim Kurumları Sınavı) sayısal ağırlıklı puan türünden ilgili mühendislik/teknoloji bölümüne yeterli puanı almak",
+   "ÖSYM kılavuzunda belirtilen diğer koşulları taşımak"
+  ],
+  "sure_ve_icerik": "İlgili lisans programının eğitim süresi 4 yıldır. Eğitim süresince matematik, fizik ve temel mühendislik derslerinin yanı sıra elektrik-elektroniğin temelleri, elektronik devreler, dijital elektronik, ölçme ve kontrol sistemleri, otomasyon gibi mesleki içerikli dersler okutulur. Öğretmen olmak isteyenler, lisans eğitiminin ardından veya eğitim süresince pedagojik formasyon eğitimi (öğretmenlik meslek bilgisi dersleri ve öğretmenlik uygulaması dahil) tamamlar.",
+  "belge": "Eğitimini başarıyla tamamlayanlara ilgili bölümden lisans diploması, pedagojik formasyon eğitimini tamamlayanlara ise öğretmenlik için gerekli formasyon belgesi/sertifikası verilir. Kamuda öğretmen olarak atanabilmek için ayrıca KPSS ve Millî Eğitim Bakanlığının belirlediği atama şartlarının sağlanması gerekir."
+ },
+ "genel_ozellikler": [
+  "Fen bilimlerine ve matematiğe ilgi duyan,",
+  "Analitik düşünme ve problem çözme becerisine sahip,",
+  "El becerisi ve göz-el koordinasyonu iyi olan,",
+  "Dikkatli ve işinde titiz,",
+  "Öğrencilerle ve meslektaşlarıyla iyi iletişim kurabilen, sabırlı,",
+  "Teknolojik gelişmeleri takip etmeye istekli, kendini sürekli yenileyen,",
+  "Planlı ve düzenli çalışabilen,",
+  "Sorumluluk sahibi ve ekip çalışmasına yatkın"
+ ],
+ "gorevler": [
+  "Ortaöğretim öğretmeninin (genel) yerine getirdiği rutin görevleri yapar.",
+  "Yıllık müfredat programı ve günlük çalışma planına göre öğrencilere endüstriyel elektronik konusuyla ilgili ders verir.",
+  "Meslek dersleri, teknik resim, mesleki resim, elektroteknik, pnömatik ve hidrolik sistemler, endüstriyel elektronik, otomatik kumanda, dijital elektronik programlama ve bilgisayar, numerik kontrollü makineler, ölçme ve laboratuvar, atölye konularında açıklama yapar.",
+  "Öğrencilere uygulamalar yaptırarak yetişmelerini sağlar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Alanla ilgili lisans eğitimini tamamlayıp pedagojik formasyon eğitimi alan ve gerekli şartları sağlayanlar bu meslekte çalışmaya hak kazanır. Daha sonra yüksek lisans ve doktora yaparak alanında uzmanlaşabilir, akademik kariyer yapabilirler. Ayrıca hizmet içi eğitimler, seminerler ve mesleki gelişim kurslarıyla bilgi ve becerilerini güncel tutarlar.",
+  "is_hayatinda": "Mesleğe yeni başlayanlar genellikle öğretmen olarak göreve başlar. Kıdem ve performansa bağlı olarak zümre başkanlığı, bölüm/atölye şefliği, okul müdür yardımcılığı ve okul müdürlüğü gibi yönetim görevlerine yükselebilirler. Eğitim müfettişliği/maarif müfettişliği, Millî Eğitim Bakanlığı merkez veya il/ilçe teşkilatında idari/uzmanlık görevleri de ilerleme imkanları arasındadır. Akademik kariyer yapmak isteyenler yüksek lisans ve doktora ile üniversitelerde öğretim elemanı olabilirler."
+ },
+ "kazanc": {
+  "egitim_suresince": "Lisans eğitimi süresince doğrudan bir kazanç söz konusu değildir; ancak öğrenciler Yükseköğrenim Kredi ve Yurtlar Kurumu'nun sunduğu öğrenci kredisi, yurt imkanları ve harç desteklerinden, ayrıca çeşitli kurum ve kuruluşların burslarından yararlanabilirler.",
+  "egitim_sonrasi": [
+   "Millî Eğitim Bakanlığına bağlı resmi okullarda göreve başlayanlar 657 sayılı Devlet Memurları Kanunu'na tabi olarak derece ve kademelerine göre aylık alır; ayrıca girdikleri ders saati başına ek ders ücretinden yararlanırlar.",
+   "Özel öğretim kurumlarında çalışanların ücreti, kurumla yapılan sözleşmeye, deneyime ve kurumun imkanlarına göre değişir.",
+   "Kurs merkezlerinde veya sektörde eğitmen olarak çalışanların kazancı, çalıştıkları kurumun ücret politikasına ve kendi deneyim/uzmanlık düzeylerine göre farklılık gösterir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T02:18:27",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 7079
+  }
+ }
+}

@@ -1,0 +1,75 @@
+{
+ "arac_gerec": [
+  "Eşya taşımaya uygun motosiklet veya triportör",
+  "Kask ve koruyucu kıyafet (mont, eldiven, bot)",
+  "Yağmurluk ve kışlık koruyucu giyim",
+  "Kurye çantası, bagaj kutusu veya yük sepeti",
+  "Eşyayı sabitlemek için file, kayış ve halat",
+  "Yedek anahtar ve basit tamir takımı (pense, tornavida, anahtar seti)",
+  "Lastik tamir seti ve el pompası",
+  "Yakıt bidonu",
+  "Akıllı telefon, navigasyon cihazı ve/veya telsiz",
+  "Sipariş takip/teslim uygulaması veya el terminali",
+  "İrsaliye, fatura, teslim fişi ve tahsilat makbuzu",
+  "İlk yardım çantası"
+ ],
+ "genel_ozellikler": [
+  "El, ayak ve göz koordinasyonu iyi,",
+  "Çevresindeki ani durumlara hızlı ve doğru tepki verebilen,",
+  "Dikkatli, sorumluluk sahibi ve kurallara uyan,",
+  "Fiziksel ve bedensel dayanıklılığa sahip,",
+  "Yön bulma ve güzergah takip becerisi gelişmiş,",
+  "Trafik kurallarına ve iş güvenliği önlemlerine saygılı,",
+  "Her türlü hava ve yol koşulunda çalışmaya istekli,",
+  "Müşteri ilişkilerinde güler yüzlü ve iletişime açık"
+ ],
+ "calisma_ortami": "Motosiklet sürücüsü, görevinin büyük bölümünü açık havada, şehir içi veya şehirlerarası trafik ortamında geçirir. Güneş, yağmur, soğuk, sıcak gibi değişen hava koşullarında ve kalabalık trafikte çalışmak, mesleğin doğal bir parçasıdır. Trafik kazası riski, yorgunluk ve bedensel zorlanma mesleğin başlıca olumsuz yönleri arasındadır; bu nedenle kask ve koruyucu ekipman kullanımı büyük önem taşır.\n\nÇalışma genellikle vardiyalı düzende, bazı işlerde gece saatlerini ve hafta sonlarını da kapsayacak şekilde yürütülür. Meslek elemanı; işyeri yöneticileri, diğer sürücüler ve en çok da eşyayı teslim aldığı veya teslim ettiği müşterilerle sürekli iletişim halindedir.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin yürütülmesine yönelik örgün bir mesleki eğitim programı bulunmamaktadır. Motosiklet kullanma becerisi, trafik mevzuatına uygun sürücü kurslarında kazanılır. Mesleğe özgü bilgi ve beceriler ise genellikle işe girilen işyerinde işbaşında, usta-çırak ilişkisi içinde edinilir. Ayrıca Halk Eğitim Merkezleri ile İşkur'un açtığı trafik, ilkyardım ve müşteri ilişkileri gibi konularda düzenlenen mesleki eğitim kurslarından da yararlanılabilir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "18 yaşını doldurmuş olmak",
+   "Motosiklet sürmeye engel bir sağlık probleminin bulunmaması",
+   "İlgili sınıfta (A1/A2) motosiklet sürücü belgesine sahip olmak"
+  ],
+  "sure_ve_icerik": "Mesleğe başlamak için öncelikle ilgili sınıfta motosiklet sürücü belgesinin alınması gerekir. Sürücü kursları, trafik ve çevre bilgisi, ilk yardım, motor ve araç tekniği gibi teorik dersler ile direksiyon (uygulamalı sürüş) eğitiminden oluşur; kurs süresi kurumdan kuruma farklılık gösterebilir. Sürücü belgesi alındıktan sonra, güzergah bilgisi, eşya yükleme-boşaltma, teslim-tahsilat usulleri ve müşteri ilişkileri gibi mesleğe özgü bilgiler, çalışılan işyerinde kısa süreli işbaşı eğitimiyle kazandırılır.",
+  "belge": "Sürücü kursunu başarıyla tamamlayanlara sürücü sertifikası verilir; bu belgeyle nüfus ve trafik tescil işlemlerini yapan kuruluşlardan sürücü belgesi alınır. Mesleğe özgü ayrı bir diploma veya zorunlu meslekî yeterlilik belgesi bulunmamaktadır; ancak Mesleki Yeterlilik Kurumu (MYK) belgesine sahip olmak istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Motosiklet sürücüleri; kargo ve kurye şirketlerinde, lokanta, restoran, market ve eczane gibi işletmelerin sipariş teslimat hizmetlerinde, e-ticaret ve lojistik firmalarında istihdam edilmektedir. Bazı meslek elemanları kendi motosikletiyle serbest olarak da çalışabilmektedir. Online yemek ve market siparişi uygulamalarının yaygınlaşmasıyla bu meslekte istihdam olanakları son yıllarda artış göstermiştir.",
+ "kazanc": {
+  "egitim_suresince": "Meslekte örgün bir eğitim süreci bulunmadığından ayrıca bir eğitim dönemi ücreti söz konusu değildir; sürücü kursu ve belge masrafları genellikle kişi tarafından karşılanır.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde gelir elde eder",
+   "Teslimat sayısına göre ücretlendirme yapan işyerlerinde kazanç, yapılan sefer/teslim sayısına bağlı olarak değişebilir",
+   "Kamu kurum ve kuruluşlarında işçi statüsünde çalışanların ücreti ilgili toplu iş sözleşmesi hükümlerine göre belirlenir",
+   "Özel sektörde ücret; deneyim, çalışılan işletme ve bölgeye göre farklılık gösterebilir"
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Meslekte dikey bir örgün eğitim basamağı bulunmamaktadır. İsteyen kişiler daha yüksek sınıf sürücü belgesi (B sınıfı vb.) alarak kamyonet veya otomobil sürücülüğü gibi ilgili mesleklere geçiş yapabilir; ayrıca lojistik ve taşımacılık alanında açılan kurs ve sertifika programlarına katılarak bilgi ve becerilerini geliştirebilir.",
+  "is_hayatinda": "Deneyim kazanan motosiklet sürücüleri, çalıştıkları işletmelerde ekip/vardiya sorumlusu veya saha şefi gibi görevlere yükselebilir. İsteyen ve sermaye birikimi olanlar kendi adına kurye veya lojistik işletmesi kurabilir."
+ },
+ "benzer_meslekler": [
+  "Motosikletli Kurye",
+  "Diğer Motorlu Araç Sürücüleri",
+  "Kamyonet Şoförü",
+  "Vale Görevlisi"
+ ],
+ "ek_bilgiler": "Motosiklet sürücülüğü, trafik kazası riski açısından dikkat gerektiren mesleklerdendir; kask ve koruyucu ekipman kullanımı ile trafik kurallarına uyum iş güvenliği açısından önemlidir. Online sipariş ve e-ticaretin yaygınlaşmasıyla motosikletli sürücü/kurye istihdamında artış eğilimi görülmektedir.",
+ "gorevler": [
+  "Trafik kurallarına uygun olarak aracın hareketlerini kontrol eder.",
+  "Eşyayı yükler ve boşaltır.",
+  "Küçük onarımlar yapar.",
+  "Aracı temizler ve sefere uygun olarak hazırlar.",
+  "Eşyanın tesliminde ücretini alır.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T18:14:36",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6093
+  }
+ }
+}

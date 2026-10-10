@@ -1,0 +1,76 @@
+{
+ "arac_gerec": [
+  "Traktör ve toprak işleme ekipmanları (pulluk, tırmık, kültivatör)",
+  "Çapa, bel, kazma gibi el aletleri",
+  "Tohumluk",
+  "Gübre dağıtıcısı ve kimyasal/organik gübreler",
+  "Tarım ilaçları (insektisit, herbisit, fungisit)",
+  "Sulama ekipmanları (hortum, damlama/yağmurlama sistemleri)",
+  "Sırt veya traktör bağlantılı pülverizatör",
+  "Hasat için orak, tırpan veya uygun hasat makineleri",
+  "Depolama için çuval, kasa ve depolama ekipmanları",
+  "Kişisel koruyucu donanım (eldiven, maske, çizme)",
+  "Basit ölçüm aletleri (toprak nem ölçer vb.)"
+ ],
+ "genel_ozellikler": [
+  "Toprağı ve bitkiyi seven, üretime ilgi duyan,",
+  "Açık havada ve zorlu arazi şartlarında çalışmaktan hoşlanan,",
+  "Fiziksel olarak dayanıklı ve bedensel güce sahip,",
+  "Dikkatli ve gözlemci, bitkilerdeki hastalık/zararlı belirtilerini fark edebilen,",
+  "Sabırlı ve mevsimsel çalışma temposuna uyum sağlayabilen,",
+  "El ve beden becerisine sahip,",
+  "Ekip çalışmasına yatkın,",
+  "Çevreyi ve doğayı korumayı ilke edinen"
+ ],
+ "calisma_ortami": "Bakla Yetiştiricisi, çalışmasını genellikle açık arazide, tarla ve bahçe koşullarında yürütür. Çalışma; toprak hazırlığı, ekim, bakım ve hasat dönemlerine göre yoğunlaşır ve mevsim şartlarına (sıcak, soğuk, yağmur) açık ortamda gerçekleştirilir. İş sırasında eğilerek, çömelerek veya ayakta uzun süre çalışmak gerekebilir; tarım ilaçları ve gübrelerle çalışırken koruyucu ekipman kullanılması önemlidir.\n\nÇalışma saatleri mevsime ve üretim takvimine göre değişkenlik gösterir; hasat ve ekim dönemlerinde yoğun ve uzun saatler çalışılabilir. Meslek elemanı; aile işletmesi içinde, tarım işçileriyle, işletme sahipleriyle, tohum/gübre/ilaç bayileriyle ve bazı durumlarda tarım danışmanları veya ziraat teknisyenleriyle etkileşim içinde çalışır.",
+ "egitim": {
+  "verildigi_yerler": "Bakla Yetiştiriciliği için ayrı, resmî bir okul programı veya meslek lisesi dalı bulunmamaktadır. Mesleğin bilgi ve becerisi genellikle ailede veya tarım işletmelerinde usta-çırak ilişkisi içinde uygulamalı olarak kazanılır. Halk Eğitim Merkezleri ile İŞKUR tarafından açılan tarımsal üretim/yetiştiricilik kursları ve il/ilçe tarım müdürlüklerinin düzenlediği çiftçi eğitim programları da bilgi edinilen diğer kaynaklardır.",
+  "giris_kosullari": [
+   "Mesleğin uygulanması için resmî olarak belirli bir öğrenim düzeyi şartı bulunmamaktadır; okuryazar olmak uygulamada yeterli görülmektedir.",
+   "Kurslara katılım için genellikle ilköğretim mezuniyeti veya okuryazarlık yeterli kabul edilir.",
+   "Açık arazide fiziksel çalışmaya uygun sağlık durumuna sahip olmak gerekir."
+  ],
+  "sure_ve_icerik": "Mesleğe özgü standart süreli, diploma ile sonuçlanan resmî bir eğitim programı bulunmamaktadır. Bilgi ve beceriler zaman içinde işbaşında, deneme-tecrübe yoluyla ve usta kişilerin gözetiminde kazanılır. Halk Eğitim Merkezleri veya İŞKUR tarafından açılan tarımsal yetiştiricilik kurslarının süresi ve içeriği kursa göre değişmekle birlikte genellikle toprak hazırlığı, tohum seçimi, ekim-dikim, gübreleme, sulama, hastalık-zararlı ve yabancı ot mücadelesi, hasat ve depolama konularını kapsar.",
+  "belge": "Örgün bir meslek eğitimi sonunda diploma şartı bulunmamaktadır. Katılınan kurslardan katılım veya başarı belgesi alınabilir; bu belgeler istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Bakla Yetiştiricisi, kendi mülkiyetindeki veya kiraladığı/ortakçılık yaptığı tarım arazilerinde bağımsız olarak çalışabilir. Ayrıca tarımsal üretim yapan özel işletmelerde, çiftliklerde ve tarım kooperatiflerinde işçi veya ortakçı olarak istihdam edilebilir. Tohumluk, gübre ve tarım ilacı bayilerinde, tarımsal danışmanlık hizmeti veren işletmelerde ve mevsimlik tarım işlerinde çalışma imkânı bulunmaktadır.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğe özgü standart bir çıraklık veya mesleki eğitim programı bulunmadığından eğitim süresince düzenli bir ücret söz konusu değildir. Katılınan kurslar genellikle ücretsizdir; işletmede usta yanında çalışılması durumunda işveren ile yapılan anlaşmaya göre gündelik veya mevsimlik bir ücret alınabilir.",
+  "egitim_sonrasi": [
+   "Kendi arazisinde üretim yapanların kazancı ürün verimine, pazar fiyatlarına ve işletme büyüklüğüne göre değişmektedir.",
+   "Ücretli olarak bir işletmede çalışanların kazancı genellikle asgari ücret düzeyinde başlar; deneyim, işletme büyüklüğü ve sürekli/mevsimlik çalışma durumuna göre bu tutar artabilir.",
+   "Mevsimlik tarım işçisi olarak çalışanların geliri, çalışılan gün sayısına ve yapılan işe göre değişkenlik göstermektedir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğe yönelik örgün bir ilerleme basamağı (kalfalık-ustalık gibi) bulunmamaktadır. İlgi duyanlar, tarım alanındaki mesleki ve teknik eğitim programlarına veya tarım/ziraat ile ilgili ön lisans ve lisans programlarına yönelerek bilgi ve becerilerini geliştirebilir.",
+  "is_hayatinda": "Deneyim kazandıkça işletme sahipliğine veya ortakçılığa geçebilir, üretimini çeşitlendirerek ve büyüterek gelirini artırabilir. Tarımsal kooperatiflerde görev alabilir, kendi işletmesini büyüttüğünde pazarlama ve satış faaliyetlerine yönelebilir veya diğer tarım işçilerini yöneten bir konuma geçebilir."
+ },
+ "benzer_meslekler": [
+  "Bezelye Yetiştiricisi",
+  "Fasulye Yetiştiricisi",
+  "Nohut Yetiştiricisi",
+  "Mercimek Yetiştiricisi",
+  "Baklagil Sebzeler Yetiştiricisi",
+  "Yemeklik Dane Baklagil Yetiştiricisi"
+ ],
+ "ek_bilgiler": "Bakla, soğuk ve ılıman iklim koşullarında yetiştirilen bir baklagil türüdür; üretimi genellikle küçük ve orta ölçekli aile işletmelerinde, bölgesel ve mevsimsel özellikler taşıyarak yapılmaktadır. Hastalık ve zararlılarla mücadelede kullanılan tarım ilaçları risk oluşturabileceğinden, uygulama sırasında kişisel koruyucu donanım kullanılması önemlidir.",
+ "gorevler": [
+  "Üretim tekniklerini araştırır.",
+  "Ekim dikim yerlerini hazırlar.",
+  "Gübreleme yapar.",
+  "Kültürel işlemleri (sulama, çapalama, seyreltme vb.) yapar.",
+  "Bitkilerde görülen zararlıları inceler.",
+  "Hastalık, zararlılar ve yabancı otlarla mücadele eder.",
+  "Bakla yetiştirir.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T20:19:03",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6370
+  }
+ }
+}

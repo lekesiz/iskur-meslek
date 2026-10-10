@@ -1,0 +1,72 @@
+{
+ "arac_gerec": [
+  "RTG (Rubber Tyred Gantry – Lastik Tekerlekli Sahalama Vinci)",
+  "Spreader (konteyner kaldırma/kilitleme aparatı)",
+  "Kumanda kabini, joystick ve kontrol panelleri",
+  "Kamera ve görüntüleme/izleme sistemleri",
+  "Telsiz/haberleşme cihazı",
+  "Twist-lock (konteyner kilit açma-kapama) düzenekleri",
+  "Kişisel koruyucu donanım (baret, iş ayakkabısı, reflektörlü yelek, eldiven, kulaklık)",
+  "El feneri",
+  "Yağlama ve günlük bakım kontrol ekipmanları",
+  "Yangın söndürme cihazı"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve tedbirli,",
+  "El ve göz koordinasyonu güçlü,",
+  "Hızlı ve doğru karar verebilen,",
+  "Sorumluluk sahibi,",
+  "Yükseklik ve dar alanda çalışmaktan rahatsızlık duymayan,",
+  "Mekanik ve teknik sistemlere ilgili,",
+  "Stresli ortamlarda sakin kalabilen,",
+  "Takım çalışmasına yatkın"
+ ],
+ "calisma_ortami": "Liman RTG operatörü işini, limanların konteyner sahalarında, yerden yüksekte konumlanan RTG kabini içerisinde oturarak yürütür. Çalışma ortamı açık havaya bağlı olarak sıcak, soğuk, yağmurlu ve rüzgârlı olabilir; ayrıca gürültü ve titreşime maruz kalınabilir. Liman faaliyetlerinin kesintisiz sürmesi nedeniyle vardiya usulüyle, gece de dahil olmak üzere düzensiz saatlerde çalışılabilir.\n\nÇalışması sırasında saha çalışanları, bağlama/sinyal elemanları, diğer vinç operatörleri, saha amirleri ve kontrol kulesiyle sürekli iletişim halindedir. Yüksekten ve ağır yüklerle çalışılması nedeniyle dikkatsizlik ciddi iş kazalarına yol açabileceğinden iş sağlığı ve güvenliği kurallarına titizlikle uyulması gerekir.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin örgün bir okul eğitimi bulunmamaktadır. Liman işletmelerince ve bazı özel kurs firmalarınca açılan iş makineleri/vinç operatörlüğü kurslarında, Halk Eğitim Merkezleri ile İŞKUR'un açtığı mesleki eğitim kurslarında ve işletmelerde işbaşında usta operatör gözetiminde (usta-çırak ilişkisi içinde) yetiştirilmektedir.",
+  "giris_kosullari": [
+   "18 yaşını doldurmuş olmak",
+   "En az ilköğretim mezunu olmak",
+   "Operatörlük yapmasını engelleyecek bir sağlık probleminin (görme, işitme, denge vb.) bulunmaması",
+   "Yükseklikte ve dar/kapalı kabin içinde uzun süre çalışmaya elverişli olmak"
+  ],
+  "sure_ve_icerik": "Eğitim süresi, verildiği kuruma göre değişmekle birlikte genellikle teorik ve uygulamalı aşamalardan oluşur. Teorik bölümde RTG'nin teknik yapısı ve kumanda sistemleri, konteyner elleçleme kuralları, iş sağlığı ve güvenliği, temel bakım bilgisi gibi konular işlenir. Bunu takiben, belirli bir süre işbaşında deneyimli bir operatör gözetiminde uygulamalı eğitim verilir.",
+  "belge": "Eğitimi başarıyla tamamlayanlara kurumun verdiği \"Operatör Sertifikası/Belgesi\" verilir. Liman elleçleme hizmetleri iş sağlığı ve güvenliği mevzuatında tehlikeli/çok tehlikeli işler kapsamında değerlendirilebildiğinden, bu kapsamdaki işyerlerinde çalışacaklardan Mesleki Yeterlilik Kurumu (MYK) Mesleki Yeterlilik Belgesi istenebilir."
+ },
+ "calisma_alanlari": "Liman RTG operatörleri, konteyner terminaline sahip kamu ve özel liman işletmelerinde istihdam edilir. Konteyner taşımacılığındaki artışa bağlı olarak nitelikli RTG operatörlerine ihtiyaç duyulmaktadır. İş bulma olanağı büyük ölçüde konteyner limanlarının bulunduğu kıyı illeri (İstanbul, Kocaeli, Yalova, İzmir, Mersin, Hatay/İskenderun, Antalya vb.) ile sınırlıdır.",
+ "kazanc": {
+  "egitim_suresince": "Kurs sürecinde genellikle ücret alınmaz; işletme bünyesinde verilen işbaşı eğitimlerinde, çalışılan işletmeye bağlı olarak sınırlı bir ücret ödenebilir.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarına bağlı limanlarda memur statüsünde çalışanlar 657 sayılı Devlet Memurları Kanunu'na, işçi statüsünde çalışanlar ise ilgili toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde işe yeni başlayanların kazancı genellikle asgari ücret düzeyinde olup, işyerinin büyüklüğü, çalışanın deneyimi, bilgi ve becerisine göre zamanla artabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Deneyim kazanan RTG operatörleri, ilave eğitim ve sertifikalarla STS (gemi-sahil) vinç operatörlüğü, SSG (sahil sahalama vinci) operatörlüğü gibi diğer liman vinç operatörlüğü alanlarına geçiş yapabilir.",
+  "is_hayatinda": "Deneyimli operatörler vardiya sorumluluğu, saha nezaretçiliği veya eğitmen/usta operatörlük gibi görevlere yükselebilir."
+ },
+ "benzer_meslekler": [
+  "Liman Vinç Operatörü (RTG ve SSG)",
+  "Liman SSG Operatörü",
+  "Gantry Crane Vinç Operatörü",
+  "Rıhtım Vinç Operatörü",
+  "Transteynir Operatörü (Gemi)",
+  "Mobil Vinç Operatörü (MHC, Sahil ve Gemi Vinci)"
+ ],
+ "ek_bilgiler": "Liman elleçleme hizmetleri iş sağlığı ve güvenliği mevzuatında genellikle tehlikeli/çok tehlikeli işler kapsamında değerlendirildiğinden, bu meslekte çalışacakların belirli sağlık ve güvenlik şartlarını taşıması, periyodik sağlık muayenelerinden geçmesi ve işe giriş/periyodik İSG eğitimlerini tamamlaması gerekebilir.",
+ "gorevler": [
+  "İş sağlığı ve güvenliği ile çevre koruma önlemlerini uygular.",
+  "RTG'yi (lastik tekerlekli sahalama vinci) yürütür.",
+  "RTG'yi yük elleçleme yapılacak konuma getirerek konumlandırır.",
+  "RTG ile konteyner/yükleri kaldırır, taşır ve istifleyerek elleçler.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T19:02:43",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6857
+  }
+ }
+}

@@ -1,0 +1,79 @@
+{
+ "arac_gerec": [
+  "Sonar cihazları ve sonar yardımcısı üniteleri",
+  "Elektronik test ve ölçüm cihazları (multimetre, osiloskop, sinyal jeneratörü)",
+  "Devre kartları ve elektronik komponentler",
+  "El takımları (tornavida, pense, havya, kargaburnu vb.)",
+  "Kablo, konnektör ve bağlantı elemanları",
+  "Teknik dokümanlar, şema ve iş emri formları",
+  "Bilgisayar ve sonar test/analiz yazılımları",
+  "Kişisel koruyucu donanım (iş elbisesi, kulaklık, eldiven)",
+  "Kaldırma ve taşıma ekipmanları",
+  "Yedek parça ve malzeme depolama ekipmanları"
+ ],
+ "genel_ozellikler": [
+  "Fen bilimlerine ve elektronik-elektrik teknolojisine ilgi duyan ve bu alanda başarılı,",
+  "El ve göz koordinasyonu iyi gelişmiş,",
+  "Dikkatli, sabırlı ve titiz çalışabilen,",
+  "Sorumluluk duygusu gelişmiş,",
+  "Takım çalışmasına ve işbirliğine açık,",
+  "Gemi, denizaltı gibi dar ve kapalı mekanlarda çalışabilecek fiziksel ve psikolojik uygunluğa sahip,",
+  "Teknik doküman okuyup yorumlayabilen,",
+  "Arıza tespiti ve problem çözmede analitik düşünebilen kişiler olmaları gerekir."
+ ],
+ "calisma_ortami": "Sonar montörü, genellikle tersane, atölye ve bakım merkezlerinde, zaman zaman da doğrudan su üstü gemileri ve denizaltılar içinde görev yapar. Çalışma ortamı çoğunlukla kapalı, dar ve sınırlı alanlardır; gemi ve denizaltı içi çalışmalarda gürültü, titreşim, nem ve kısıtlı hareket alanı gibi fiziksel koşullarla karşılaşılabilir. Çalışma saatleri genellikle gündüz mesaisi şeklindedir, ancak gemi bakım dönemlerinde veya arıza durumlarında esnek ve uzun çalışma saatleri gerekebilir.\n\nGörevini yerine getirirken mühendisler, teknisyenler, gemi personeli ve ilgili birim sorumlularıyla yakın işbirliği içinde çalışır. İşin niteliği itibarıyla sık sık ekip halinde ve belirli bir hiyerarşik yapı içinde görev yapar; özellikle askeri gemi ve denizaltılarda çalışıldığında güvenlik protokollerine ve disiplinli çalışma kurallarına uyulması gerekir.",
+ "egitim": {
+  "verildigi_yerler": "Sonar montörlüğü için ülkemizde tek bir okul veya standart bir mesleki eğitim programı bulunmamaktadır. Mesleğin temelini oluşturan elektronik, elektrik-elektronik ve ölçme-test bilgileri; meslek liselerinin elektrik-elektronik teknolojisi veya elektronik haberleşme alanları, meslek yüksekokullarının ilgili ön lisans programları ile üniversitelerin elektronik, elektronik haberleşme veya mekatronik mühendisliği bölümlerinde kazanılabilir. Sonar cihazlarına özgü bilgi ve beceriler ise genellikle savunma sanayi kuruluşları, tersaneler ve ilgili kamu kurumlarında usta/uzman gözetiminde işbaşı eğitimiyle kazanılır.",
+  "giris_kosullari": [
+   "Meslek lisesi düzeyindeki ilgili alanlara girmek için en az ortaokul mezunu olmak",
+   "Ön lisans/lisans programlarına girmek için gerekli sınav ve diploma şartlarını sağlamak",
+   "Dar ve kapalı mekanlarda (gemi, denizaltı) çalışmaya uygun sağlık durumuna sahip olmak",
+   "Savunma sanayi veya askeri kurumlarda çalışmak isteyenler için ilgili kurumların belirlediği ek koşulları (güvenlik soruşturması gibi) karşılamak"
+  ],
+  "sure_ve_icerik": "Standart bir okul programı bulunmadığından eğitim süresi ve içeriği kişinin izlediği yola göre değişir. Meslek lisesi düzeyinde eğitim 4 yıl, ön lisans düzeyinde 2 yıl, lisans düzeyinde ise genellikle 4 yıl sürer. Bu eğitimlerde temel elektrik-elektronik, devre analizi, ölçme ve test teknikleri, teknik resim ve bilgisayar destekli uygulamalar öğretilir. Mesleğe özgü sonar sistemleri bilgisi, çalışılan kurumda teknik dokümanlar üzerinden ve usta/uzman yanında uygulamalı olarak kazandırılır.",
+  "belge": "İlgili meslek lisesi, ön lisans veya lisans programından alınan diploma; çalışılan kurumun düzenlediği hizmet içi eğitim sertifikaları. Mesleki Yeterlilik Kurumu (MYK) belgesi, ilgili alanda tanımlanmışsa istihdamda tercih sebebi olabilir."
+ },
+ "gorevler": [
+  "Su üstü ve denizaltı gemilerindeki farklı marka ve modeldeki sonar ve sonar yardımcısı cihazlarının kontrolünü yapar.",
+  "Sonar cihazlarının teknik dokümanlarını inceler ve gerekli test yöntemlerini uygular.",
+  "Cihazlarla ilgili iş emirlerini okur.",
+  "Belirtilen zaman içerisinde arızası bildirilen cihazın teknik dokümanlarında belirtilen test ve kontrolleri yaparak arızayı lokalize eder.",
+  "Durum raporu ile arızanın ne olduğunu ve onarımı için hangi malzeme ya da malzemelerin gerektiğini ilgili birime bildirir.",
+  "Temin edilen malzemeyi, arızalı malzemenin bulunduğu ünite veya karttaki yerine monte eder.",
+  "Yeni malzeme monte edildikten sonra cihazın ayar ve kontrollerini yapar.",
+  "Eksiklik varsa giderildikten sonra, gerekli test ve kontrolleri yaparak onarımı tamamlar.",
+  "Gerekli son kontroller yapıldıktan sonra, işi ilgilisine teslim eder.",
+  "Sonar cihazlarının periyodik bakımlarını yapar.",
+  "Mesleği alanındaki gelişmeleri takip eder ve uygular."
+ ],
+ "calisma_alanlari": "Sonar montörleri başlıca savunma sanayi kuruluşlarında, tersanelerde, deniz kuvvetlerine bağlı bakım-onarım birimlerinde, gemi ve denizaltı elektronik sistemleri üreten veya bu sistemlere bakım-onarım hizmeti veren özel şirketlerde istihdam edilmektedir. Bu meslek, denizcilik ve savunma sektörüne bağlı olduğundan nispeten dar bir alanda istihdam olanağı sunmaktadır; iş bulma olanakları, ülkenin savunma sanayi yatırımları ve deniz kuvvetleri ihtiyaçlarına bağlı olarak değişkenlik gösterir.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğe özgü standart bir çıraklık veya staj ücreti düzenlemesi bulunmamaktadır. Meslek lisesi veya ön lisans/lisans eğitimi sırasında staj yapan öğrencilere, ilgili mevzuat veya kurumun uygulamalarına göre değişen oranlarda ücret ödenebilir.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında (örneğin Deniz Kuvvetlerine bağlı birimlerde) çalışanlar, 657 sayılı Devlet Memurları Kanunu veya ilgili personel statüsüne göre ücret alır.",
+   "Özel sektördeki savunma sanayi ve denizcilik firmalarında ücret, deneyim, uzmanlık düzeyi ve işletmenin yapısına göre karşılıklı anlaşma ile belirlenir.",
+   "Mesleğe yeni başlayanlarda kazanç genellikle asgari ücret düzeyinde olup, deneyim ve uzmanlık arttıkça kazanç da artış gösterir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Meslek lisesi düzeyinde eğitim alanlar isterlerse elektronik, elektronik haberleşme, mekatronik veya ilgili mühendislik programlarına yönelebilir. Ayrıca çalışılan kurum tarafından düzenlenen hizmet içi eğitimler ve mesleki gelişim kurslarıyla bilgi ve beceriler güncellenebilir.",
+  "is_hayatinda": "Deneyim kazandıkça uzman teknisyen, ekip lideri veya bakım-onarım sorumlusu gibi pozisyonlara yükselebilir. Kurumsal yapılarda şef, amir veya teknik sorumlu gibi görevlere ilerleme mümkündür."
+ },
+ "benzer_meslekler": [
+  "Elektronik Montörü (Genel)",
+  "Endüstriyel Bakım-Onarım Elektronikçisi",
+  "Güvenlik Sistemleri Elemanı",
+  "Dijital Elektronik Cihazlar Bakım Onarımcısı",
+  "Elektrik Elektronik Atış Kontrol Sistemleri Bakım Onarımcısı",
+  "Telekomünikasyon Elektronik Kart Üretim, Montaj ve Test Ustası"
+ ],
+ "ek_bilgiler": "Sonar montörlüğü, büyük ölçüde savunma sanayi ve denizcilik sektörüne bağlı, dar bir istihdam alanına sahip özel bir meslektir. Görevlerin çoğunlukla askeri gemi ve denizaltılarda kullanılan sonar sistemlerinin kurulum, test, bakım ve onarımına yönelik olması nedeniyle, bu mesleği yürütenlerin iş hayatlarının önemli bir kısmı kamu kurumları veya savunma sanayi firmaları bünyesinde geçmektedir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T06:25:06",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 7306
+  }
+ }
+}

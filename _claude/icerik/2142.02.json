@@ -1,0 +1,84 @@
+{
+ "arac_gerec": [
+  "Bilgisayar ve mühendislik hesap/çizim yazılımları (statik hesap, CAD/BIM programları)",
+  "Hesap makinesi",
+  "Teknik resim ve çizim araçları",
+  "Zemin ve ölçme aletleri (nivo, teodolit, lazer metre, şerit metre)",
+  "Beton test ekipmanları (slump konisi, karot alma cihazı, basınç presi)",
+  "Zemin etüt ve numune alma ekipmanları",
+  "Şantiye içi haberleşme cihazları (telsiz, telefon)",
+  "Kişisel koruyucu donanım (baret, iş ayakkabısı, yelek, eldiven)",
+  "İş programı ve hak ediş takip yazılımları",
+  "Fotoğraf makinesi/kamera (ilerleme ve kalite tespiti için)",
+  "Ölçüm ve kontrol için şerit metre, gönye, çekül"
+ ],
+ "genel_ozellikler": [
+  "Sayısal akıl yürütme gücüne sahip,",
+  "Şekiller ve uzaysal ilişkileri algılayabilen,",
+  "Fen bilimlerinde (özellikle matematik ve fizikte) başarılı,",
+  "Sorumluluk sahibi ve dikkatli,",
+  "Planlı ve organize çalışabilen,",
+  "İnsan ilişkilerinde başarılı, ekip yönetebilen,",
+  "Analitik düşünebilen ve sorun çözme becerisine sahip,",
+  "Fiziksel olarak saha koşullarına dayanıklı"
+ ],
+ "calisma_ortami": "\"İnşaat mühendisi (bina), görevinin niteliğine göre hem büroda hem de şantiye sahasında çalışır. Proje hazırlama, hesap yapma ve hak ediş işlemleri gibi çalışmalar kapalı, düzenli bir büro ortamında yürütülürken; sahaya nezaret, kontrol ve kabul işlemleri açık havada, inşaat alanında yapılır. Şantiye ortamı tozlu ve gürültülü olabilir; yazın sıcak, kışın soğuk ve yağışlı hava koşullarında çalışmak gerekebilir. Yüksekte çalışma, ağır ekipman ve malzemelerle iç içe olma nedeniyle iş kazası riski bulunur; bu nedenle iş sağlığı ve güvenliği kurallarına uyulması önemlidir.\\n\\nÇalışma saatleri genellikle düzenli olmakla birlikte, inşaatın teslim süresine yetişmesi gerektiğinde hafta sonu veya mesai saatleri dışında çalışma söz konusu olabilir. Meslek mensubu; müteahhit firma yetkilileri, şantiye şefleri, teknikerler, mimarlar, teknik ressamlar, harita ve jeoloji mühendisleri, işçiler ile belediye, Çevre, Şehircilik ve İklim Değişikliği Bakanlığı gibi kamu kurumlarının yetkilileriyle sürekli iletişim halinde çalışır.\"",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi, üniversitelerin Mühendislik, Mühendislik-Mimarlık veya İnşaat fakültelerine bağlı “İnşaat Mühendisliği” bölümlerinde verilmektedir. “Bina” alanında uzmanlaşma, lisans eğitimi sonrasında şantiye tecrübesi, ilgili yüksek lisans programları veya mesleki seminer/sertifika eğitimleriyle sağlanmaktadır; bina inşaatına özgü ayrı bir lisans programı bulunmamaktadır.",
+  "giris_kosullari": [
+   "Lise veya dengi okul mezunu olmak,",
+   "YKS (Yükseköğretim Kurumları Sınavı) kılavuzunda belirtilen sayısal puan türü ve giriş koşullarını sağlamak,",
+   "Meslek yüksekokullarının ilgili bölümlerinden mezun olanlar, Dikey Geçiş Sınavı (DGS) ile başarılı oldukları takdirde İnşaat Mühendisliği lisans programına geçiş yapabilirler."
+  ],
+  "sure_ve_icerik": "Eğitim süresi 4 yıldır; yabancı dille eğitim veren okullarda bir yıl hazırlık eklenerek 5 yıla çıkabilir. Eğitim süresince matematik, fizik, statik, mukavemet, yapı malzemeleri, betonarme ve çelik yapılar, zemin mekaniği (geoteknik), yapı yönetimi, deprem mühendisliği gibi dersler okutulur. Programda zorunlu staj uygulaması bulunmaktadır.",
+  "belge": "Eğitimi başarı ile tamamlayanlara İnşaat Mühendisliği lisans diploması verilir. Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir; yapı denetimi, şantiye şefliği veya serbest müşavirlik gibi bazı görevler için ilgili meslek odasından ve kurumlardan ek belge/yetki alınması gerekebilir."
+ },
+ "gorevler": [
+  "İnşaat Mühendisi (Genel) mesleğinde belirtilen işleri yapar,",
+  "Topografik çalışmalara nezaret ederek elde edilen verileri tatbikat projesindeki verilerle karşılaştırır, uygulanabilir projeye ait inşaat sahasını teslim alır veya inşa için müteahhit firmaya çalışma izni verir,",
+  "İnşaat sahasına giden yolları inceleyerek gerekli tamiratı yaptırır, malzemelerin taşınmasını sağlar,",
+  "İnşaatta kullanılacak suyun ve elektriğin nereden temin edileceğini araştırır, gerektiğinde jeneratör tesisatı kurdurur,",
+  "İnşaat hafriyatını kanalizasyon şebekesini göz önünde bulundurarak yaptırır,",
+  "Kanalizasyon için pompalama sistemi kurdurur, foseptik çukuru açtırır,",
+  "Şantiye tesislerini kurdurur, temel açma işi için gerekli malzeme ve ekipleri temin ederek temel açma çalışmalarına nezaret eder,",
+  "Çatının teşkil edilmesi, kolon aralarının örülmesi, boya badana, sıva işleri, kapı ve pencerelerin takılması gibi inşaatla ilgili işlerin yapılmasına nezaret eder ve kontrol eder,",
+  "Yapımı devam eden malzemenin çeşidini ve yerinde doğru kullanılıp kullanılmadığını kontrol eder,",
+  "Yapılan işleri teknik hesaplarla karşılaştırarak mühendislik kontrollerini gerçekleştirir, inşaata devam izni verir veya gerektiğinde inşaatı durdurur,",
+  "İhaleyi kazanan müteahhit firmaya malzemeyi teslim eder, ara hak ediş hesaplarını firmayla birlikte yapar,",
+  "İnşaatı kontrol ederek geçici kabule hazır olup olmadığına karar verir,",
+  "Tutanak hazırlayarak geçici kabul komisyonuna sunar ve komisyona katılır,",
+  "Kesin devir teslim ve müteahhit firmaya ödeme yapılabilmesi için gerekli evrakları firma ile birlikte hazırlar, kesin hesapları çıkararak bir rapor hazırlar,",
+  "Bina inşaatının belirli bir alanında (ör. betonarme, çelik yapı, altyapı) ihtisaslaşabilir,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "calisma_alanlari": "\"İnşaat mühendisleri (bina), kamu ve özel sektörde geniş bir yelpazede istihdam edilir. Kamuda; belediyeler, Çevre, Şehircilik ve İklim Değişikliği Bakanlığı, TOKİ gibi kurumlarda proje, kontrol ve denetim mühendisi olarak görev alabilirler. Özel sektörde; inşaat ve müteahhitlik firmalarında şantiye mühendisi, proje mühendisi veya kontrol mühendisi olarak, yapı denetim kuruluşlarında denetçi olarak çalışabilir; yeterli deneyim ve yetki belgesiyle kendi bürolarını açarak serbest mühendislik ve müşavirlik (SMM) hizmeti sunabilirler.\\n\\nÜlkemizde inşaat sektörü önemli bir istihdam alanı oluşturmakla birlikte, sektördeki ekonomik dalgalanmalara duyarlıdır; konut ve yapı projelerindeki artış veya azalışlar iş bulma olanaklarını doğrudan etkiler. Deprem güvenliği, altyapı yenileme ve kentsel dönüşüm çalışmaları, bina inşaatı alanında uzmanlaşmış mühendislere olan talebi artırmaktadır.\"",
+ "kazanc": {
+  "egitim_suresince": "Lisans eğitimi süresince öğrenciler Kredi ve Yurtlar Kurumu'nun sunduğu öğrenim kredisi/bursundan yararlanabilir; zorunlu staj döneminde bazı işletmelerden staj ücreti alınabilir.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında 657 sayılı Devlet Memurları Kanunu'na tabi olarak istihdam edilen mühendislerin maaşı unvan, kadro derecesi ve kıdeme göre belirlenir; işçi statüsünde çalışanlarda ise toplu iş sözleşmesi hükümleri geçerlidir.",
+   "Özel sektörde kazanç; işletmenin büyüklüğü, proje hacmi, mühendisin deneyimi ve uzmanlık alanına göre değişir; yeni mezunlar genellikle asgari ücret düzeyinde veya buna yakın bir ücretle işe başlar, deneyim arttıkça kazanç yükselir.",
+   "Kendi bürosunu açan veya serbest çalışan mühendislerin kazancı aldıkları iş hacmine ve projelerin büyüklüğüne göre değişkenlik gösterir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Lisans eğitimini tamamlayanlar, yapı mühendisliği, geoteknik, deprem mühendisliği, yapı yönetimi gibi alanlarda yüksek lisans ve doktora yaparak uzmanlaşabilir. Ayrıca ilgili mevzuat kapsamında yapı denetçisi belgesi, iş güvenliği uzmanlığı sertifikası gibi ek yeterlilikler edinerek görev alanlarını genişletebilirler.",
+  "is_hayatinda": "İş hayatında deneyim kazandıkça şantiye şefliği, proje müdürlüğü, kontrol amirliği ve genel müdürlük gibi daha üst düzey ve yönetsel görevlere yükselebilirler. Yeterli sermaye ve yetki belgesine sahip olanlar kendi müteahhitlik veya mühendislik-müşavirlik firmasını kurabilir."
+ },
+ "benzer_meslekler": [
+  "İnşaat Mühendisi",
+  "Diğer İnşaat Mühendisleri",
+  "İnşaat Mühendisi-Karayolu",
+  "İnşaat Mühendisi-Köprü",
+  "İnşaat Mühendisi-Su",
+  "Geoteknik Mühendisi/Uzmanı"
+ ],
+ "ek_bilgiler": "\"İnşaat şantiyelerindeki çalışmalar, iş sağlığı ve güvenliği mevzuatı kapsamında tehlikeli veya çok tehlikeli işler sınıfında değerlendirilebilen faaliyetler içerebilir; bu nedenle iş güvenliği kurallarına uyum büyük önem taşır. Yapı denetimi, şantiye şefliği gibi bazı görevler için ilgili kanun ve yönetmelikler doğrultusunda meslek odasından yetki belgesi alınması gerekebilir.\"",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-07T21:16:30",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 7199
+  }
+ }
+}

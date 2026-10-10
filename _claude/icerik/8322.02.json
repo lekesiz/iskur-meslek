@@ -1,0 +1,76 @@
+{
+ "arac_gerec": [
+  "Kamyonet (ticari yük aracı)",
+  "Sürücü belgesi (ehliyet)",
+  "Araç ruhsatı ve sevk irsaliyesi/taşıma evrakları",
+  "Bağlama halatı, kayış ve branda",
+  "Takoz, kriko ve yedek lastik",
+  "Uyarı üçgeni ve reflektör",
+  "Yangın söndürme tüpü",
+  "İlkyardım çantası",
+  "El feneri",
+  "İletişim araçları (telsiz, cep telefonu)",
+  "Yükleme için el arabası/palet taşıyıcı",
+  "Koruyucu iş eldiveni ve iş ayakkabısı",
+  "Araç bakım el kitabı ve basit tamir takımı"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve sorumluluk sahibi,",
+  "Trafik kurallarına titizlikle uyan,",
+  "Bedensel olarak sağlıklı ve dayanıklı,",
+  "El, göz ve ayak koordinasyonu iyi,",
+  "Yön bulma ve mekânı algılama becerisi gelişmiş,",
+  "Değişen hava ve yol koşullarına uyum sağlayabilen,",
+  "Stresli ve yorucu trafik ortamında sakin kalabilen,",
+  "Yük ve araç güvenliğine özen gösteren,",
+  "Müşteri ve işveren ile düzgün iletişim kurabilen kişiler olmaları gerekir."
+ ],
+ "calisma_ortami": "Kamyonet şoförleri işlerinin büyük bölümünü araç içinde, şehir içi ve şehirlerarası yollarda geçirirler. Çalışma ortamı açık havaya ve değişken trafik koşullarına bağlı olarak sıcak, soğuk, yağmurlu veya karlı olabilir; yükleme-boşaltma sırasında depo, antrepo, pazar yeri veya şantiye gibi farklı mekânlarda da bulunabilirler. Uzun süre araç kullanmak fiziksel yorgunluğa, gürültü ve egzoz gazına maruz kalmaya, bazı durumlarda ağır yük kaldırmaya neden olabilir.\n\nÇalışma saatleri teslimat programına göre değişkenlik gösterir; sabah erken başlayan, bazen gece veya hafta sonu çalışmayı da gerektiren bir meslektir. Meslek elemanı; işveren, depo görevlileri, müşteriler ve trafik kolluk görevlileri ile sürekli iletişim halindedir.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin örgün bir eğitim programı bulunmamaktadır. Sürücü belgesi (ehliyet), Milli Eğitim Bakanlığına bağlı veya onaylı sürücü kurslarında alınır. Mesleğe yönelik temel bilgi ve beceriler ise genellikle işbaşında usta yanında, ayrıca Halk Eğitim Merkezleri ve İŞKUR tarafından açılan mesleki eğitim kurslarında kazanılır.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak (okur yazar olma şartı aranabilir)",
+   "Sürücü belgesi almak için gereken yaş şartını taşımak",
+   "Sağlık muayenesinden (özellikle görme ve işitme) geçer not almak",
+   "Trafik kurallarına ve araç kullanımına karşı ilgi duymak"
+  ],
+  "sure_ve_icerik": "Sürücü kursu süresi ilgili ehliyet sınıfına göre değişmekte olup teorik dersler (trafik ve çevre bilgisi, araç tekniği, ilk yardım, motor bilgisi) ve direksiyon uygulamasından oluşur. Kamyonet kullanımına yönelik ticari taşımacılık yapacaklar için ayrıca SRC (Sürücü Mesleki Yeterlilik) eğitimi alınması gerekebilir.",
+  "belge": "B veya C sınıfı sürücü belgesi (ehliyet); ticari eşya taşımacılığı yapılması durumunda SRC belgesi istenebilir."
+ },
+ "calisma_alanlari": "Kamyonet şoförleri; nakliye ve kargo firmalarında, toptan ve perakende ticaret işletmelerinde, üretim ve lojistik şirketlerinde, inşaat ve tarım sektöründe, belediye ve kamu kurumlarında, ayrıca kendi aracıyla serbest çalışarak iş bulabilirler. Ülke ekonomisinde iç ticaretin ve lojistik sektörünün büyümesiyle birlikte kısa mesafeli yük taşımacılığına olan ihtiyaç sürmekte, bu durum meslek elemanlarına istihdam olanağı sağlamaktadır.",
+ "kazanc": {
+  "egitim_suresince": "Sürücü belgesi alma sürecinde (kurs döneminde) herhangi bir ücret söz konusu değildir; kursiyer kurs ücretini kendisi öder ya da bu masraf İŞKUR/işveren tarafından karşılanabilir.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde gelir elde eder.",
+   "Deneyim, taşınan yükün niteliği, çalışılan firma ve çalışma saatlerine bağlı olarak ücret artabilir.",
+   "Kamu kurumlarında işçi statüsünde çalışanların ücreti ilgili toplu iş sözleşmesi hükümlerine göre belirlenir; özel sektörde ücret işveren ile karşılıklı anlaşmaya göre değişir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Meslek elemanları deneyim kazandıkça daha üst sınıf sürücü belgesi (örneğin kamyon veya çekici kullanımı için gereken ehliyet sınıfları) alarak daha büyük tonajlı araçları kullanma hakkı elde edebilir. Ayrıca SRC, ADR (tehlikeli madde taşımacılığı) gibi ek sertifikalar alarak uzmanlaşabilirler.",
+  "is_hayatinda": "Deneyimli kamyonet şoförleri, nakliye firmalarında filo sorumluluğu, sevkiyat planlaması gibi görevlere geçebilir; kendi hesabına araç sahibi olarak serbest çalışabilir veya küçük ölçekli bir nakliye işletmesi kurabilir."
+ },
+ "benzer_meslekler": [
+  "Minibüs Şoförü",
+  "Servis Şoförü (Okul)",
+  "Servis Aracı Şoförü",
+  "Vasıta Sürücüsü",
+  "Diğer Motorlu Araç Sürücüleri"
+ ],
+ "ek_bilgiler": "Ticari amaçlı yük taşımacılığı yapan kamyonet şoförlerinden, taşınan yükün niteliğine göre SRC belgesi ve zaman zaman psikoteknik değerlendirme istenebilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, zorunlu olmamakla birlikte iş bulmada tercih sebebi olabilir.",
+ "gorevler": [
+  "Depo ve yükleme-boşaltma yerleri arasında diğer taşıtlara ve trafik kurallarına uyarak kamyonet ve benzeri araçları kullanır.",
+  "Aracını sefer için iyi durumda tutar ve gerektiğinde küçük onarımlarını yapar.",
+  "Yükleme ve boşaltma işlerini yapar ya da bu işlere yardımcı olur.",
+  "Özel tip madde ya da ticari eşyayı taşır ve niteliğine göre sınıflandırır.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T18:15:45",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 4696
+  }
+ }
+}

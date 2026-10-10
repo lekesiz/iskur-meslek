@@ -1,0 +1,77 @@
+{
+ "arac_gerec": [
+  "Bilgisayar",
+  "Klavye ve fare",
+  "Çift veya çoklu ekran/monitör",
+  "CBS (Coğrafi Bilgi Sistemleri) yazılımları",
+  "Veri tabanı yönetim yazılımları",
+  "Ofis yazılımları (elektronik tablo, kelime işlemci vb.)",
+  "Tarayıcı (scanner)",
+  "Yazıcı/plotter",
+  "Harici veri depolama birimleri",
+  "Kaynak belgeler (harita, plan, kroki, tutanak vb.)",
+  "İnternet ve ağ bağlantısı donanımı",
+  "Koordinat/konum verilerinin aktarıldığı dosya ve cihazlar (GPS çıktıları vb.)"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve titiz,",
+  "Sabırlı ve düzenli çalışabilen,",
+  "Bilgisayar ve yazılım kullanımına yatkın,",
+  "Sayılarla, sembollerle ve verilerle çalışmaktan hoşlanan,",
+  "Şekil ve uzay ilişkilerini görebilen,",
+  "Uzun süre ekran karşısında oturarak çalışabilen,",
+  "Sorumluluk sahibi ve güvenilir,",
+  "Ekip çalışmasına yatkın"
+ ],
+ "calisma_ortami": "Coğrafi Bilgi Sistemleri Veri Giriş Operatörü, genellikle kapalı ortamda, büro içinde bilgisayar başında oturarak çalışır. Çalışma süresince ekrana ve klavyeye yoğun şekilde odaklanmayı gerektiren, tekrarlayan hareketlerin söz konusu olduğu bir iş temposu vardır; bu nedenle uzun süre aynı pozisyonda oturmaktan kaynaklanan göz yorgunluğu ve bel/boyun rahatsızlıkları gibi riskler bulunabilir.\n\nÇalışma saatleri genellikle normal büro mesai saatleridir; ancak proje teslim tarihleri veya yoğun veri aktarım dönemlerinde çalışma süresi uzayabilir. Görevlerini yerine getirirken CBS teknikerleri, harita mühendisleri, bilgi işlem personeli ve diğer büro çalışanlarıyla iş birliği içinde çalışır.",
+ "egitim": {
+  "verildigi_yerler": "Bu meslek için ayrı, standart bir örgün okul programı bulunmamaktadır. Ortaöğretim (lise ve dengi) mezunu olmak yeterli görülmekte; bilgisayar kullanımı, klavye ve veri tabanı becerileri genellikle mesleki ve teknik liselerin ilgili alanlarında, Halk Eğitim Merkezlerinde, İŞKUR'un açtığı mesleki eğitim kurslarında veya işbaşında usta/deneyimli personel yanında kazanılmaktadır. Coğrafi Bilgi Sistemleri, Harita ve Kadastro gibi alanlarda ön lisans/lisans eğitimi almış olanlar da bu mesleğe daha donanımlı biçimde yönelebilir.",
+  "giris_kosullari": [
+   "En az ortaöğretim (lise veya dengi okul) mezunu olmak",
+   "Temel düzeyde bilgisayar kullanım becerisine sahip olmak",
+   "Klavye kullanımında hız ve doğruluk kazanmış olmak"
+  ],
+  "sure_ve_icerik": "Mesleğe özgü standart süreli ve içerikli örgün bir eğitim programı bulunmamaktadır. İlgi duyanlar, bilgisayar/büro yönetimi alanındaki mesleki ve teknik liselerde ya da Halk Eğitim Merkezleri ve İŞKUR'un açtığı kurslarda temel bilgisayar kullanımı, klavye, veri tabanı ve ofis yazılımları konularında eğitim alabilir. Coğrafi Bilgi Sistemleri yazılımlarının kullanımına yönelik kısa süreli kurslar işe girdikten sonra kurum içi eğitimlerle veya özel eğitim kurumlarınca da verilebilmektedir. Mesleğin uygulama bilgisi büyük ölçüde işbaşında, deneyimli personel yanında kazanılır.",
+  "belge": "Katılınan kursun veya programın türüne göre kurs bitirme sertifikası; ortaöğretim diploması."
+ },
+ "calisma_alanlari": "Coğrafi Bilgi Sistemleri Veri Giriş Operatörü, kamu kurum ve kuruluşlarının (belediyeler, il özel idareleri, Tapu ve Kadastro Genel Müdürlüğü, orman, tarım, çevre, altyapı ve enerji kuruluşları gibi) CBS veya bilgi işlem birimlerinde çalışabilir. Özel sektörde ise harita ve mühendislik büroları, CBS yazılım ve hizmet firmaları, telekomünikasyon, enerji, sigorta, lojistik gibi mekânsal veriye ihtiyaç duyan şirketlerin veri giriş birimlerinde istihdam edilebilir.",
+ "gorevler": [
+  "İş sağlığı ve güvenliği önlemlerini alır.",
+  "Kalite yönetim sistemi dokümanlarına uygun çalışır.",
+  "İş organizasyonu yapar.",
+  "CBS için gerekli olan donanım yapılandırmasını hazırlar.",
+  "CBS için gerekli olan yazılım yapılandırmasını hazırlar.",
+  "Verileri düzenler ve hazırlar.",
+  "Verinin güncelliğini ve geçerliliğini sağlar.",
+  "Raporlama ve sunum yapar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "kazanc": {
+  "egitim_suresince": "Bu meslek için standart süreli, ücretli bir örgün eğitim süreci bulunmamaktadır. İlgi duyulan kurslara (İŞKUR, Halk Eğitim Merkezi vb.) katılım genellikle ücretsizdir; bazı İŞKUR işbaşı eğitim programlarında katılımcılara günlük kursiyer harçlığı ödenebilir.",
+  "egitim_sonrasi": [
+   "Kamu kurum ve kuruluşlarında işçi statüsünde çalışanlar toplu iş sözleşmesi hükümlerine, memur statüsünde çalışanlar 657 sayılı Devlet Memurları Kanunu'na göre ücret alır.",
+   "Özel sektörde yeni başlayanların kazancı genellikle asgari ücret düzeyindedir; deneyim, bilgi ve beceri düzeyi ile çalışılan işyerinin büyüklüğüne göre bu miktar artabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Çalışırken açık öğretim veya örgün eğitim yoluyla Coğrafi Bilgi Sistemleri, Harita ve Kadastro gibi alanlarda ön lisans veya lisans programlarına yönelerek Coğrafi Bilgi Sistemleri Teknikeri veya ilgili mühendislik mesleklerine geçiş sağlanabilir.",
+  "is_hayatinda": "Deneyim ve bilgi birikimi arttıkça, kurum içinde daha nitelikli veri analizi ve CBS operatörlüğü görevlerine, zamanla ekip sorumluluğu veya birim içi koordinasyon görevlerine yükselme imkânı bulunur."
+ },
+ "benzer_meslekler": [
+  "Veri Giriş Elemanı",
+  "Bilgisayar İşletmeni",
+  "Veri Giriş Kontrol İşletmeni",
+  "Coğrafi Bilgi Sistemleri Operatörü",
+  "Coğrafi Bilgi Sistemleri Teknikeri",
+  "Bilgisayar Bilgi Yönetim Elemanı"
+ ],
+ "ek_bilgiler": "Kamu ve özel sektörde coğrafi veri kullanımının (haritacılık, altyapı, çevre, enerji, lojistik gibi alanlarda) yaygınlaşmasıyla bu meslekte istihdam olanaklarının gelişmesi beklenmektedir. Mesleki Yeterlilik Kurumu (MYK) belgesi, iş başvurularında tercih sebebi olabilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T15:39:35",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6684
+  }
+ }
+}

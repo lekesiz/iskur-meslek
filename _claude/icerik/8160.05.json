@@ -1,0 +1,82 @@
+{
+ "arac_gerec": [
+  "Bilgisayar kumandalı hat kontrol sistemi (otomasyon paneli)",
+  "Filtrasyon cihazları ve tankları",
+  "Ön kaplama (diyatomit/kieselgur) ünitesi",
+  "Buhar, su ve basınçlı hava hatları ile vanaları",
+  "Şıra çekme ve soğutma tankları",
+  "Filtrasyon ve kıvam ölçüm cihazları",
+  "Otomatik (CIP) temizlik sistemi",
+  "Kayıt formları ve takip yazılımı",
+  "El aletleri (anahtar takımı vb.)",
+  "Koruyucu iş elbisesi, eldiven, bot ve kulak koruyucu"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve titiz,",
+  "Sorumluluk duygusu yüksek,",
+  "Teknik alet ve makinelerle çalışmaya istekli,",
+  "Hijyen kurallarına duyarlı,",
+  "Ekip çalışmasına uyumlu,",
+  "Vardiyalı çalışma düzenine uyum sağlayabilen,",
+  "Bilgisayar destekli sistemleri kullanabilen,",
+  "Hızlı ve doğru karar verebilen"
+ ],
+ "calisma_ortami": "Bira filtreleme işçisi, bira üretim tesislerinin filtrasyon/şırahane bölümlerinde, genellikle kapalı alanlarda çalışır. Çalışma ortamı makine sesleri nedeniyle gürültülü olabilir, nem ve sıcaklık değişiklikleri görülebilir; buhar, su ve basınçlı hava hatlarıyla temas söz konusudur. Üretim sürekliliği gerektiren tesislerde vardiyalı (gece/gündüz) çalışma düzeni yaygındır.\\n\\nÇalışma sırasında vardiya arkadaşları, usta başı, vardiya amiri ve kalite kontrol personeli ile iletişim kurulur. İş sağlığı ve güvenliği kurallarına, hijyen standartlarına uyulması ve koruyucu ekipman kullanılması gerekir; bu tedbirlerin işveren tarafından sağlanması ve çalışan tarafından eksiksiz uygulanması önemlidir.",
+ "egitim": {
+  "verildigi_yerler": "Bu meslek için ülke genelinde resmî olarak tanımlanmış ayrı bir çıraklık dalı veya meslek lisesi programı bulunmamaktadır. Meslek genellikle işyerinde usta/vardiya amiri gözetiminde işbaşı eğitimi yoluyla; gıda teknolojisi veya bira/malt üretim teknolojisi gibi ilgili mesleki ve teknik eğitim programlarından edinilen temel bilgilerin desteğiyle kazanılır. Ayrıca Halk Eğitim Merkezleri ve İŞKUR tarafından açılan gıda/içecek üretimi ile ilgili kurslara katılım da mesleki bilgi ve beceri kazandırabilir.",
+  "giris_kosullari": [
+   "En az ilköğretim (ortaokul) mezunu olmak",
+   "Sağlık durumunun gıda üretim ortamında çalışmaya uygun olması (işletmenin istediği sağlık raporu şartlarını karşılamak)",
+   "İşletmelerin vardiyalı ve fiziksel çalışma koşulları nedeniyle genellikle 18 yaşını doldurmuş olmak",
+   "İlgili işletmede açık pozisyon bulunması ve işe alım sürecini geçmek"
+  ],
+  "sure_ve_icerik": "Mesleğe yönelik resmî olarak tanımlanmış standart bir eğitim süresi ve müfredatı bulunmamaktadır. Kişi, işletmeye girdikten sonra deneyimli bir usta veya vardiya amiri gözetiminde, filtrasyon sistemlerinin çalışma prensiplerini, ön kaplama işlemlerini, ölçüm ve kontrol yöntemlerini, hijyen kurallarını, iş güvenliği uygulamalarını ve bilgisayar kumandalı üretim hattının kullanımını öğrenir. Bu süreç işletmenin büyüklüğüne ve sistemin karmaşıklığına göre değişen bir süre içinde tamamlanır.",
+  "belge": "Çalışılan işletme tarafından verilen deneyim/çalışma belgesi veya katılınan kursa ilişkin kurs bitirme belgesi alınabilir. İlgili alanda Mesleki Yeterlilik Kurumu (MYK) belgesi düzenlenmişse, bu belge istihdamda tercih sebebi olabilir."
+ },
+ "gorevler": [
+  "Bilgisayar kumandalı hat sistemini ve filtrasyon cihazlarını kullanıma hazırlar",
+  "Yardımcı tesislerden gelen buhar, su, hava vb. hatlarını kontrol eder",
+  "Sistemde bulunan filtrelerin ön kaplama işlemlerini gerçekleştirir",
+  "Bilgisayar üzerinden hattı yönlendirerek şırayı filtrasyon tanklarına alır",
+  "Filtreleme işlemlerini gerçekleştirir",
+  "Şıranın filtrasyon ve kıvam değerlerinin ölçüm ve kontrollerini yapar",
+  "Ölçüm değerlerini ilgili formlara kaydeder",
+  "Filtrasyon işlemleri sonrası şırayı çekme tanklarına alır ve soğutur",
+  "Periyodik aralıklarda filtre temizliği yapar",
+  "Tüm işlem basamaklarını bilgisayar sisteminden sürekli takip eder",
+  "Tespit edilecek arıza ve aksaklıkların giderilmesini sağlar",
+  "Sistem hattının, filtrasyon tank ve kazanlarının otomatik (CIP) temizliklerini başlatır",
+  "Çalışma alanının temizlenmesini sağlar",
+  "Mesleki gelişim faaliyetlerinde bulunur"
+ ],
+ "calisma_alanlari": "Bira filtreleme işçisi, bira üreten fabrika ve işletmelerin üretim/filtrasyon (şırahane) bölümlerinde istihdam edilir. Bu meslek, sınırlı sayıda büyük ölçekli bira üretim tesisinde talep görmekte olup iş bulma olanakları bu tesislerin yoğunlaştığı illerle sınırlı kalmaktadır.",
+ "kazanc": {
+  "egitim_suresince": "Meslek resmî bir çıraklık veya mesleki eğitim programı kapsamında yürütülmediğinden, eğitim süresince standart bir ücret düzenlemesi bulunmamaktadır. İşbaşı eğitim sürecinde çalışılan işletmenin politikasına göre ücret ödenebilir.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Kamuya bağlı üretim tesislerinde çalışılması durumunda 657 sayılı Devlet Memurları Kanunu veya ilgili toplu iş sözleşmesi hükümleri geçerli olabilir.",
+   "Özel sektörde ücret; işletmenin büyüklüğü, çalışanın tecrübesi, bilgisi ve sektördeki ücret düzeyine göre değişebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Gıda teknolojisi, bira/malt üretim teknolojisi veya ilgili alanlarda açılan ön lisans/lisans programlarına yönelerek mesleki bilgi derinleştirilebilir. İlgili kurum ve kuruluşların düzenlediği eğitim ve kurslara katılarak teknik bilgi ve beceri geliştirilebilir.",
+  "is_hayatinda": "Deneyim ve bilgi birikimi arttıkça vardiya sorumluluğu, usta başılık ve üretim/şırahane sorumluluğu gibi pozisyonlara yükselinebilir. İleri düzeyde üretim şefliği veya tesis yöneticiliği gibi görevlere ulaşılabilir."
+ },
+ "benzer_meslekler": [
+  "Fermantasyon İşçisi",
+  "Fermantasyon İşçisi (Şarap, Bira vb.)",
+  "Diğer Bira, Şarap ve İçki İmalat İşçileri",
+  "Fıçı Bira Dolum Makinesi Operatörü",
+  "Fıçı Yıkama Makinesi Operatörü",
+  "Filtreci (Şeker İmalatı)"
+ ],
+ "ek_bilgiler": "Bira üretimi gıda sektörü kapsamında olduğundan hijyen kurallarına uyum ve düzenli sağlık kontrolü önem taşır. Çalışma ortamındaki gürültü, nem ve basınçlı sistemlerle çalışma nedeniyle iş sağlığı ve güvenliği tedbirlerine özel önem verilmesi gerekmektedir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T15:04:36",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6427
+  }
+ }
+}

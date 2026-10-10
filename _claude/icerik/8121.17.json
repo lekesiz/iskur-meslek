@@ -1,0 +1,81 @@
+{
+ "arac_gerec": [
+  "Kumanda panosu / kontrol paneli",
+  "Mandren",
+  "Sıkma merdaneleri",
+  "Sıkıştırma merdanesi",
+  "Bobin sarıcı ünitesi",
+  "Çıkış masası",
+  "Konveyör",
+  "Yan korkuluk",
+  "Deflektör paleti",
+  "Levha nakil tezgahı",
+  "İstifleme masası",
+  "Vinç / forklift",
+  "İş eldiveni, baret, koruyucu gözlük",
+  "İş elbisesi",
+  "Kulak koruyucu"
+ ],
+ "benzer_meslekler": [
+  "Bobin Açıcı (Metal)",
+  "Bobin Alıcı (Metal) (Soğuk Haddehane)",
+  "Bobin Dikici (Metal) (Soğuk Haddehane)",
+  "Bobin Hazırlayıcı (Metal) (Soğuk Haddehane)",
+  "Bobin Sıyırıcı (Metal) (Soğuk Haddehane)",
+  "Bobin Verici (Metal) (Soğuk Haddehane)",
+  "Bitirme Haddecisi (Metal) (Soğuk Haddehane)",
+  "Hadde Ayarcısı (Metal)"
+ ],
+ "calisma_alanlari": "Bobin Sarıcı (Metal) (Soğuk Haddehane), demir-çelik sektöründeki soğuk haddehane tesislerinde, metal levha ve bobin üretimi yapan fabrikalarda çalışır. Çalışma alanları genellikle organize sanayi bölgelerinde ve büyük demir çelik/metal işleme tesislerinde yoğunlaşmıştır. İş bulma olanağı, bölgesel sanayi yoğunluğuna ve demir-çelik sektörünün genel durumuna bağlı olarak değişir; sektörde tecrübeli operatörlere her zaman ihtiyaç duyulmaktadır.",
+ "calisma_ortami": "Bobin Sarıcı (Metal) (Soğuk Haddehane), fabrika bünyesindeki soğuk haddehane tesislerinde, kapalı mekanlarda çalışır. Çalışma ortamı gürültülü olabilir; metal tozu, yağ ve soğutma sıvılarıyla temas söz konusudur. Ağır ve hareketli makine parçaları, sarılan metal şeritler ve istiflenen levhalarla çalışıldığından iş kazası riski bulunur; iş sağlığı ve güvenliği kurallarına eksiksiz uyulması ve kişisel koruyucu donanımın sürekli kullanılması gerekir.\\n\\nMeslek genellikle vardiya sistemiyle (gündüz, akşam, gece) yürütülür. Çalışma sırasında vardiya arkadaşları, usta/ustabaşı, bakım personeli ve tesis mühendisleriyle sürekli iletişim ve koordinasyon içinde olunur.",
+ "egitim": {
+  "verildigi_yerler": "Bu meslek için örgün bir meslek lisesi programı veya mesleki eğitim merkezi dalı bulunmamaktadır. Meslek genellikle işbaşında, deneyimli bir operatör/usta gözetiminde öğrenilir. Metal Teknolojisi alanındaki mesleki ve teknik eğitim programlarından mezun olanlar bu mesleğe daha kolay uyum sağlayabilir. Ayrıca Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kursları da bilgi ve beceri geliştirmede destek sağlayabilir.",
+  "giris_kosullari": [
+   "İlköğretim mezunu olmak (mesleğin gerektirdiği minimum eğitim düzeyi)",
+   "Okuma yazma bilmek ve temel düzeyde teknik yönergeleri anlayabilmek",
+   "İşin gerektirdiği fiziksel koşullara (ayakta çalışma, dikkat, el-göz koordinasyonu) uygun sağlık durumuna sahip olmak; işe alımda sağlık raporu istenebilir",
+   "İşletmenin belirlediği yaş ve fiziksel uygunluk şartlarını taşımak"
+  ],
+  "sure_ve_icerik": "Mesleğe özgü standart ve örgün bir eğitim süresi veya müfredat bulunmamaktadır. Mesleğe giriş genellikle işletme bünyesinde, deneyimli bir operatör/usta yanında işbaşı eğitimi şeklinde gerçekleşir; bu süreçte tesisin kumanda sistemleri, çalıştırma kolları, ayar işlemleri ve iş güvenliği kuralları uygulamalı olarak öğretilir. Eğitim süresi işletmeden işletmeye ve kişinin önceki tecrübesine göre değişmekle birlikte genellikle birkaç hafta ile birkaç ay arasında sürer.",
+  "belge": "Örgün bir diploma veya zorunlu sertifika bulunmamaktadır. İşletme içi eğitim sonunda kurum içi yetkinlik belgesi verilebilir; katılınan kurslardan katılım belgesi alınabilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "ek_bilgiler": "Mesleğin yürütüldüğü soğuk haddehane ortamı, ağır sanayi işleri kapsamında değerlendirilebilecek risklere sahip olabilir; işyerinin iş sağlığı ve güvenliği mevzuatına göre yapılan tehlike sınıflandırması, uygulanacak özel çalışma şartlarını (sağlık kontrolleri, kişisel koruyucu donanım kullanımı vb.) belirler. Bu nedenle somut şartlar işyerine göre değişiklik gösterebilir.",
+ "genel_ozellikler": [
+  "Dikkatli,",
+  "El ve göz koordinasyonu gelişmiş,",
+  "Fiziksel olarak güçlü ve dayanıklı,",
+  "Makine ve mekanik sistemlere ilgili,",
+  "Hızlı ve doğru tepki verebilen,",
+  "Sorumluluk sahibi,",
+  "Ekip çalışmasına uyumlu,",
+  "Vardiyalı çalışmaya uygun,"
+ ],
+ "gorevler": [
+  "Kumanda kolları yardımıyla çıkış masasını, sıkıştırma merdanesini, mandren ve sıkma merdanelerini ve bobin sarıcıyı çalıştırır.",
+  "Haddelerden çıkan metal şeridin mandrene sarılmasını kontrol eder.",
+  "Sıkma merdanelerini ayarlar.",
+  "Yan korkuluk ve deflektör paletinin açılıp kapanmasında kumandaları çalıştırır.",
+  "Mandrene sarılan şerit bobinini kumanda kolları yardımıyla taşıyıcı üzerine alıp konveyöre yerleştirir.",
+  "Haddelerden çıkan metal levhaların istiflenmesi için levha nakil tezgahını çalıştırarak levhaları istifleme masasına gönderir.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Bu meslek için örgün bir mesleki eğitim merkezi programı bulunmadığından, ilerleme genellikle Metal Teknolojisi alanındaki mesleki ve teknik eğitim programlarına veya Halk Eğitim Merkezleri/İŞKUR'un açtığı kurslara katılarak bilgi ve beceri geliştirme yoluyla sağlanır.",
+  "is_hayatinda": "Deneyim ve performansa bağlı olarak vardiya sorumluluğu, ekip liderliği veya tesis operatör ustabaşılığı gibi görevlere yükselme imkanı bulunur. Haddehane içindeki farklı istasyonlarda (bobin açıcı, bobin alıcı, hadde ayarcısı gibi) görev alarak tecrübe ve bilgi birikimi artırılabilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Örgün bir mesleki eğitim süreci bulunmadığından, işe yeni başlayanlar genellikle işletmenin belirlediği koşullarda ve genellikle asgari ücret düzeyinde bir ücretle işbaşı eğitim sürecine dahil olur; deneme/adaptasyon süresi uygulamaları işletmeden işletmeye farklılık gösterebilir.",
+  "egitim_sonrasi": [
+   "Kamuya bağlı demir-çelik tesislerinde işçi statüsünde çalışanlar, tabi oldukları toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde ücret; çalışanın tecrübesi, işletmenin büyüklüğü ve ücret politikalarına göre değişir; yeni başlayanlar genellikle asgari ücret düzeyinde ücretle işe başlar, deneyim kazandıkça ücret seviyesi artabilir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T11:04:27",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5990
+  }
+ }
+}

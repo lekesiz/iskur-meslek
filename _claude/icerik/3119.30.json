@@ -1,0 +1,68 @@
+{
+ "arac_gerec": [
+  "Teknik resim ve proje dokümanları (planlar, krokiler, şartnameler)",
+  "Ölçüm aletleri (kumpas, mikrometre, cetvel, gönye vb.)",
+  "Test ve analiz cihazları (multimetre, basınç/sıcaklık ölçerler, kalite kontrol cihazları)",
+  "El aletleri (anahtar, tornavida, pense, çekiç vb.)",
+  "Bakım ve onarım ekipmanları (yağlama, sıkma, ayar aletleri)",
+  "Bilgisayar ve teknik ofis yazılımları (CAD/ofis programları)",
+  "Kayıt, rapor ve takip formları",
+  "Kişisel koruyucu donanım (eldiven, gözlük, baret, iş elbisesi)"
+ ],
+ "genel_ozellikler": [
+  "Matematik ve fen bilimlerine ilgili,",
+  "Teknik çizim ve projeleri okuyup yorumlayabilen,",
+  "El ve gözünü eşgüdümle kullanabilen,",
+  "Dikkatli, titiz ve sorumluluk sahibi,",
+  "Analitik düşünebilen ve problem çözme becerisine sahip,",
+  "Ekip içinde uyumlu çalışabilen,",
+  "Yeni teknoloji ve uygulamaları öğrenmeye açık,"
+ ],
+ "gorevler": [
+  "Teknik çizim ve projelerin saha uygulamasını takip eder.",
+  "Ölçüm, test ve analiz cihazlarını kullanır ve sonuçlarını raporlar.",
+  "Makine ve ekipmanların bakım ve onarım işlerine katılır.",
+  "Üretim veya hizmet süreçlerindeki verileri kayıt altına alır.",
+  "Sorumluluk alanındaki teknik aksaklıkları giderir.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "calisma_ortami": "\"Diğer Teknisyen ve Teknikerler, görev yaptıkları alt sektöre bağlı olarak atölye, fabrika, şantiye/saha veya büro ortamında çalışırlar. Çalışma koşulları yapılan işin niteliğine göre değişmekte olup işin bir kısmı ayakta ve hareketli, bir kısmı masa başında geçebilir; bazı iş kollarında gürültü, toz, sıcak/soğuk ortam veya makine ile çalışmaya bağlı riskler bulunabilir. Bu nedenle işçi sağlığı ve iş güvenliği kurallarına uyulması ve kişisel koruyucu donanım kullanılması önemlidir.\\n\\nÇalışma sırasında mühendisler, diğer teknisyen ve teknikerler, işçiler ve zaman zaman müşteri/iş sahipleriyle iletişim kurulur. Çalışma saatleri genellikle düzenlidir; ancak üretimin veya sahanın niteliğine göre vardiyalı çalışma veya mesai gerekebilir.\"",
+ "egitim": {
+  "belge": "Meslek lisesi diploması veya ilgili mesleki eğitim merkezi/kurs bitirme belgesi/sertifikası verilir. Çalışılan alana göre Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir.",
+  "giris_kosullari": [
+   "Ortaokulu tamamlamış olmak,",
+   "Çalışılacak teknik alana uygun mesleki ve teknik ortaöğretim kurumu veya mesleki eğitim merkezinin giriş şartlarını taşımak."
+  ],
+  "sure_ve_icerik": "Diğer Teknisyen ve Teknikerler kapsamına, farklı mühendislik ve teknik alanlarda görev yapan, ayrı bir meslek grubu altında sınıflandırılmamış teknisyenler girmektedir. Bu nedenle mesleğe hazırlayan tek, standart bir eğitim programı bulunmamaktadır; kişi, ilgilendiği teknik alanda mesleki ve teknik ortaöğretim kurumlarının ilgili alan/dalında (genellikle 4 yıl, teorik ve uygulamalı) ya da mesleki eğitim merkezlerinde ve Halk Eğitim Merkezleri/İŞKUR tarafından açılan mesleki kurslarda eğitim alarak bu mesleğe yönelebilir. Eğitimde teorik dersler okulda, uygulamalı eğitim ise atölye ve işletme ortamında verilir; ayrıca işbaşında usta yanında yetişme de yaygındır.",
+  "verildigi_yerler": "Mesleğin eğitimi, çalışılacak teknik alana göre mesleki ve teknik ortaöğretim okul/kurumlarının ilgili alan ve dallarında, mesleki eğitim merkezlerinde, Halk Eğitim Merkezlerinde ve İŞKUR'un açtığı mesleki eğitim kurslarında verilmektedir."
+ },
+ "calisma_alanlari": "\"Diğer Teknisyen ve Teknikerler, uzmanlaştıkları teknik alana bağlı olarak sanayi işletmelerinde, imalat ve üretim tesislerinde, atölyelerde, bakım-onarım birimlerinde, kalite kontrol ve laboratuvar birimlerinde, kamu kurum ve kuruluşlarının teknik birimlerinde çalışabilirler. Bu meslek, belirli bir alt sektöre bağlı olmayan, çeşitli mühendislik ve teknik destek görevlerini kapsayan geniş bir gruptur; bu nedenle iş bulma olanağı, kişinin uzmanlaştığı spesifik teknik alandaki sektörel talebe göre değişmektedir. Genel olarak sanayinin geliştiği illerde ve organize sanayi bölgelerinde iş bulma olanağı daha fazladır.\"",
+ "kazanc": {
+  "egitim_suresince": "Mesleki ve teknik eğitim kapsamında işletmelerde uygulamalı eğitim gören öğrencilere, 3308 sayılı Mesleki Eğitim Kanunu gereğince ücret ödenir; öğrencilerin iş kazası ve meslek hastalığı sigortası devletçe karşılanır. Kurs yoluyla eğitim alanlar için ücret genellikle söz konusu değildir.",
+  "egitim_sonrasi": [
+   "Yeni mesleğe başlayanların kazancı genellikle asgari ücret düzeyindedir.",
+   "Kazanç; çalışılan sektör, işyerinin büyüklüğü, kişinin deneyimi, bilgi ve becerisine göre değişebilir.",
+   "Kamu kurumlarında çalışanlar 657 sayılı Devlet Memurları Kanunu'na veya ilgili toplu iş sözleşmesi hükümlerine göre ücret alır."
+  ]
+ },
+ "ilerleme": {
+  "is_hayatinda": "İş hayatında deneyim ve bilgi birikimi kazanan Diğer Teknisyen ve Teknikerler, uzman teknisyen, ekip/bölüm sorumlusu, saha veya bakım-onarım şefi gibi görevlere yükselebilir; yeterli sermaye ve bilgi birikimine sahip olanlar kendi işyerlerini açabilirler.",
+  "mesleki_egitimde": "Mesleki ve teknik ortaöğretim kurumlarının ilgili alan/dalından mezun olanlar, aynı alanın devamı niteliğindeki yükseköğretim ön lisans programlarına sınavsız geçiş veya ek puan ile yerleşebilirler. Ayrıca mezunlar, üniversite giriş sınavlarında başarılı oldukları takdirde ilgili lisans programlarına da yerleşebilirler. Meslekte uzmanlaşmayı sağlayan kurs, seminer ve sertifika programlarına katılabilirler."
+ },
+ "benzer_meslekler": [
+  "Diğer Mühendislik Teknisyenleri",
+  "Mekatronik Teknisyeni",
+  "Metal İşleri Teknisyeni",
+  "Endüstriyel Otomasyon Teknisyeni",
+  "Kaynak Teknisyeni / Metal İşleri Teknisyeni"
+ ],
+ "ek_bilgiler": "\"Bu meslek, Türk Meslekler Sözlüğü'nde ayrı bir meslek grubu altında sınıflandırılmamış, çeşitli mühendislik ve teknik destek faaliyetlerini kapsayan genel bir kategoridir. Bu nedenle görev kapsamı, kullanılan araç-gereç ve gerekli eğitim, kişinin çalıştığı sektör ve teknik alana göre önemli ölçüde değişebilir; meslek seçimi öncesinde ilgilenilen spesifik teknik alanın (örneğin mekanik, elektrik-elektronik, imalat vb.) araştırılması önerilir.\"",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T09:56:08",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5741
+  }
+ }
+}

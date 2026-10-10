@@ -1,0 +1,83 @@
+{
+ "arac_gerec": [
+  "Ham kalem profil makinesi",
+  "Değişebilir profil bıçakları (yuvarlak, köşeli, üçgen vb. kesitler için)",
+  "Testere üniteleri (standart boy kesimi için)",
+  "Taşıma/besleme bantları",
+  "Bıçak bileme teçhizatı veya bileme atölyesine teslim edilen bıçak takımları",
+  "Kumpas ve ölçüm aletleri",
+  "El aletleri (anahtar takımı, tornavida, pense vb.)",
+  "Yağlama ve bakım malzemeleri",
+  "Temizlik malzemeleri",
+  "İş takip ve üretim kayıt formları",
+  "Koruyucu gözlük",
+  "İş eldiveni",
+  "Kulak koruyucu",
+  "Toz maskesi"
+ ],
+ "genel_ozellikler": [
+  "El becerisine sahip,",
+  "Dikkatli ve tedbirli,",
+  "Sabırlı ve düzenli,",
+  "Göz-el koordinasyonu güçlü,",
+  "Makine ve tekniğe ilgili,",
+  "Fiziksel olarak dayanıklı,",
+  "Sorumluluk sahibi,",
+  "Ekip hâlinde çalışmaya yatkın"
+ ],
+ "gorevler": [
+  "Makineyi kullanıma hazırlar.",
+  "Kurumuş sandviçleri kurutuldukları aparatlardan çıkarır.",
+  "Sandviçleri makineye yatay durumda verir.",
+  "Sandviçlerin ilk geçtiği yerden testereler vasıtasıyla standart boy ölçüsüne getirilmesini sağlar.",
+  "Net ölçüye gelen sandviçlerin makinedeki bant vasıtasıyla profil bıçaklarından geçmesini sağlar.",
+  "Profil bıçaklarından geçerek kalem formatına gelen ham kalemleri ölçü, iz, çatlaklık vb. açıdan düzenli olarak kontrol eder.",
+  "Yaptığı işle ilgili kayıtları tutar.",
+  "Herhangi bir aksaklık durumunda makineyi durdurarak sorunu giderir.",
+  "Gerek görüldüğünde makinenin bıçaklarını sökerek bileme işlemi için ilgili kişiye teslim eder.",
+  "Bilenmiş olan bıçakları makineye takar.",
+  "Makineden gelebilecek ses, arıza vb. durumları takip edip hemen müdahale eder.",
+  "Makinelerin günlük ve haftalık bakımlarını yapar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "calisma_ortami": "Ham Kalem Profil Makinesi Operatörleri, kalem imalatı yapılan fabrika ve atölyelerin üretim bölümlerinde, kapalı mekânlarda çalışırlar. Çalışma ortamı ahşap tozu ve makine gürültüsü nedeniyle dikkat gerektiren, kesici bıçaklı makinelerin bulunduğu bir ortamdır. İş genellikle ayakta ve makineye eğilerek yürütülür; vardiya usulü çalışma söz konusu olabilir.\n\nMeslek elemanı, çalışmaları sırasında ekip arkadaşları, bıçak bileme sorumluları, bakım-onarım personeli ve vardiya/ekip amiriyle iletişim hâlindedir. Dikkatsizlik veya koruyucu ekipman kullanılmaması durumunda kesici bıçaklardan kaynaklanan yaralanma, el-parmak kesikleri ve göze talaş/parça kaçması gibi riskler bulunur; bu nedenle iş güvenliği kurallarına ve kişisel koruyucu donanım kullanımına özen gösterilmesi gerekir.",
+ "egitim": {
+  "verildigi_yerler": "Bu meslek için örgün eğitim sisteminde ayrı, standart bir program bulunmamaktadır. Meslek elemanları genellikle işyerlerinde usta yanında işbaşı eğitimiyle yetişir. Ağaç işleme, mobilyacılık ve iç mekân tasarımı alanındaki mesleki ve teknik eğitim programları, bu mesleğe temel düzeyde hazırlık sağlayabilir. Ayrıca Halk Eğitim Merkezleri ile İŞKUR tarafından açılan ağaç işleme/makine operatörlüğü konulu kurslar da temel bilgi ve beceri kazandırabilir.",
+  "giris_kosullari": [
+   "İlköğretim/ortaokul mezunu olmak (meslek, Türk Meslekler Sözlüğü'nde ilköğretim düzeyini gerektirmektedir).",
+   "Sağlık durumunun; ayakta çalışma, el becerisi ve dikkat gerektiren işlere uygun olması.",
+   "İşbaşı eğitimi için ilgili işyeriyle anlaşma sağlanması."
+  ],
+  "sure_ve_icerik": "Mesleğin standart, süresi ve içeriği resmî olarak belirlenmiş bir örgün eğitim programı yoktur. Eğitim, işyerinde usta-çırak ilişkisi içinde uygulamalı olarak verilir ve genellikle kısa sürede makinenin kullanımı, besleme ve kesim işlemleri, profil bıçaklarının takılıp sökülmesi, ölçü ve kalite kontrolü, iş güvenliği kuralları ile günlük/haftalık bakım konularını kapsar. İlgi duyanlar, Halk Eğitim Merkezleri ve İŞKUR'un açtığı ağaç işleme/makine operatörlüğü kurslarına katılarak bilgi ve becerilerini destekleyebilir.",
+  "belge": "Örgün eğitim kapsamında diploma veren ayrı bir program bulunmadığından istihdamda genellikle işyerinde kazanılan deneyim esas alınır. Katılınan kurslar sonunda katılım/başarı belgesi verilebilir; bu alanda Mesleki Yeterlilik Kurumu (MYK) tarafından düzenlenmiş bir yeterlilik belgesi varsa, bu belge istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Ham Kalem Profil Makinesi Operatörleri, kurşun kalem ve benzeri ahşap kalem üretimi yapan fabrika ve işletmelerin üretim hatlarında çalışır. Bu meslek, dar ve özelleşmiş bir üretim dalı olan kalem imalatı sektörüyle sınırlı olduğundan, iş imkânları bu tür üretim yapan işletmelerin bulunduğu bölgelerle sınırlıdır. Ağaç işleme ve mobilya sektöründe kazanılan genel tecrübe, bu alana geçişi kolaylaştırabilir. İş bulma olanakları, sektördeki üretim hacmine ve kalem imalatına olan talebe bağlı olarak değişkenlik gösterir.",
+ "kazanc": {
+  "egitim_suresince": "Standart bir örgün eğitim programı bulunmadığından, işbaşında eğitim alan kişiler genellikle çırak veya yeni işe başlayan statüsünde, işverenle yapılan anlaşmaya göre ücret alır. Bu dönemde kazanç genellikle asgari ücret düzeyinde veya bu düzeye yakın olabilir.",
+  "egitim_sonrasi": [
+   "Deneyim kazanmış meslek elemanları işçi statüsünde çalışır; ücretleri 4857 sayılı İş Kanunu çerçevesinde işveren ile yapılan iş sözleşmesine ve varsa toplu iş sözleşmesi hükümlerine göre belirlenir.",
+   "Kazanç; işletmenin büyüklüğüne, bölgeye, çalışanın deneyim ve becerisine göre değişiklik gösterir. Yeni başlayanlarda genellikle asgari ücret düzeyinde olan kazanç, deneyim ve ustalık arttıkça yükselebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Bu meslek için ayrı bir örgün eğitim kademesi bulunmadığından, ilerleme büyük ölçüde işyerinde kazanılan deneyim ve katılınan mesleki kurslarla sağlanır. İsteyen kişiler, açık öğretim yoluyla genel eğitim düzeyini yükseltebilir veya ağaç işleri/mobilyacılık alanındaki mesleki ve teknik eğitim programlarına yönelerek bilgi ve belgelerini güçlendirebilir.",
+  "is_hayatinda": "Deneyim kazandıkça usta, makine ayarcısı, vardiya veya ekip sorumlusu gibi görevlere yükselinebilir. İleri düzeyde, üretim hattı şefliği veya atölye/bölüm sorumluluğu üstlenilebilir."
+ },
+ "benzer_meslekler": [
+  "Kalem Katrak Makinesi Operatörü",
+  "Ham Kalem İz Açma Makinesi Operatörü",
+  "Kalem Takoz Kesim İşçisi",
+  "Ham Kalem Sandviç İşçisi",
+  "Kalem Başkesme Makinesi Operatörü",
+  "Kalem Uç Açma Makinesi Operatörü"
+ ],
+ "ek_bilgiler": "Bu meslekte kesici bıçaklı makinelerle çalışıldığından iş sağlığı ve güvenliği kurallarına uyulması, kişisel koruyucu donanımların (eldiven, gözlük, kulak koruyucu, toz maskesi) düzenli kullanılması önemlidir. Makinenin bıçak değişimi ve bakımı sırasında elektrik kesilerek çalışılması kaza riskini azaltır.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T16:33:09",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6732
+  }
+ }
+}

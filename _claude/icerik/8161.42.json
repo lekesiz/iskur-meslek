@@ -1,0 +1,92 @@
+{
+ "arac_gerec": [
+  "Taşıyıcı bant (konveyör)",
+  "Ayıklama/seçme masası",
+  "Kabuk soyma bıçağı ve aletleri",
+  "Çekirdek çıkarma aleti",
+  "Sınıflama ve tasnifleme tepsileri/kasaları",
+  "Tartı/kantar",
+  "Yıkama havuzu ve yıkama ekipmanları",
+  "Dezenfektan ve temizlik solüsyonları",
+  "Eldiven, bone, maske, önlük gibi kişisel koruyucu donanım",
+  "Plastik kasa, kova ve taşıma kapları",
+  "Sıcaklık ve nem ölçüm cihazları",
+  "Soğuk hava deposu/muhafaza üniteleri"
+ ],
+ "genel_ozellikler": [
+  "El becerisine sahip,",
+  "Dikkatli ve gözlem gücü yüksek,",
+  "Hijyen ve temizlik kurallarına duyarlı,",
+  "Fiziksel olarak dayanıklı ve ayakta çalışmaya uygun,",
+  "Ekip çalışmasına önem veren,",
+  "Sorumluluk duygusu gelişmiş,",
+  "Talimatlara uyma konusunda istekli,",
+  "Hızlı ve pratik çalışma temposuna uyum sağlayabilen"
+ ],
+ "calisma_ortami": "Bant elemanı, sebze-meyve işleme, konserve, kuruyemiş ve benzeri gıda işleme tesislerinde, genellikle kapalı alanlarda ve üretim bandı önünde ayakta çalışır. Çalışma ortamı nemli, bazen soğuk (depo/soğuk hava ünitesi yakınları) olabilir; hijyen kurallarına sıkı uyum gerektirir ve koruyucu giysi, eldiven, bone ve maske kullanımı zorunludur. Üretim hacmine ve hasat/sezon dönemlerine göre vardiyalı, tam gün veya mevsimlik olarak çalışılabilir.\n\nÇalışma sırasında üretim sorumlusu, vardiya amiri ve diğer bant elemanlarıyla sürekli iletişim halindedir. İş, tekrarlayan hareketlerle uzun süre ayakta durmayı ve dikkat gerektirir; iş sağlığı ve güvenliği kurallarına, özellikle kesici aletlerin kullanımı ve hijyen uygulamaları konusunda titizlikle uyulması önemlidir.",
+ "egitim": {
+  "verildigi_yerler": "Bant elemanlığı için örgün eğitimde ayrı bir çıraklık veya meslek lisesi programı bulunmamaktadır. Meslek genellikle işyerinde usta veya formen gözetiminde uygulamalı olarak öğrenilir. Halk Eğitim Merkezleri ile İŞKUR tarafından açılan gıda işleme ve hijyen konulu kısa süreli mesleki eğitim kursları da bu mesleğe hazırlık için faydalı olabilir.",
+  "giris_kosullari": [
+   "En az ilkokul/ilköğretim mezunu veya okur yazar olmak",
+   "Ayakta ve tekrarlayan hareketlerle çalışmaya uygun sağlık durumuna sahip olmak",
+   "Gıda işleme sektöründe çalışmaya elverişli genel sağlık koşullarını taşımak",
+   "İşe alınacak işletmenin belirlediği yaş ve diğer koşulları karşılamak"
+  ],
+  "sure_ve_icerik": "Resmî olarak tanımlanmış, belirli bir süreye bağlı örgün bir eğitim programı bulunmamaktadır. Kişi, işe başladığında kısa süreli (günler-haftalar içinde tamamlanan) işbaşı eğitimle bandın işleyişini, ayıklama-kabuk soyma-sınıflama tekniklerini ve hijyen kurallarını öğrenir. Ayrıca gıda güvenliği, hijyen ve iş güvenliği konularında kısa süreli kurslara katılım sağlanabilir.",
+  "belge": "Örgün bir diploma yerine, gıda üretim işyerlerinde çalışanlar için mevzuat gereği alınması gereken hijyen eğitimi sertifikası ve işyerince verilen çalışma/deneyim belgesi söz konusu olabilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, iş bulmada ve kariyer gelişiminde tercih sebebi olabilir."
+ },
+ "gorevler": [
+  "Mikroorganizmaları inceler.",
+  "Kişisel hijyen sağlar.",
+  "İşletme temizlik ve dezenfeksiyon programlarını uygular.",
+  "Gıdaları muhafaza etme ilkelerini inceler.",
+  "Gıdaların üretiminde hijyeni sağlar.",
+  "Karbonhidratların özelliklerini inceler.",
+  "Lipitlerin özelliklerini inceler.",
+  "Proteinlerin özelliklerini inceler.",
+  "Vitamin ve mineralleri inceler.",
+  "Enzimleri inceler.",
+  "Fenolik bileşikler ve doğal renk maddelerini inceler.",
+  "Gıdadaki suyun özelliklerini inceler.",
+  "Kütle ölçümü yapar.",
+  "Hacim ölçer.",
+  "Yoğunluk ve kıvam ölçer.",
+  "Fiziksel değişimleri inceler.",
+  "Kimyasal değişimleri inceler.",
+  "Sebze ve meyveyi işletmeye alır.",
+  "Sebze ve meyveleri üretime hazırlar.",
+  "Taze sebze ve meyveleri satışa hazırlar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "calisma_alanlari": "Bant elemanı; sebze-meyve işleme ve konserve fabrikaları, kuruyemiş işleme tesisleri, gıda paketleme ve ambalajlama tesisleri, tarım ürünleri işleme atölyeleri gibi kamu ve özel sektöre ait gıda üretim işletmelerinde istihdam edilebilir. İş imkânları, bulunulan bölgenin tarımsal üretim yapısına ve hasat dönemlerine göre değişebilir; bazı işletmelerde iş mevsimlik, bazılarında ise sürekli/tam gün niteliktedir.",
+ "kazanc": {
+  "egitim_suresince": "Örgün bir çıraklık/stajyerlik süreci bulunmadığından, işe yeni başlayan kişi genellikle deneme süresinde asgari ücret düzeyinde veya buna yakın bir ücret alır.",
+  "egitim_sonrasi": [
+   "Çalışanların kazancı genellikle asgari ücret düzeyinde başlar.",
+   "Ücret; işyerinin büyüklüğü, çalışanın deneyimi ve performansı ile sektördeki genel ücret düzeyine göre değişebilir.",
+   "Mevsimlik çalışılan işletmelerde parça başı veya prim esaslı ek ödemeler yapılabilir.",
+   "Özel sektörde ücret işveren ile çalışan arasındaki anlaşmaya bağlı olarak değişebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Meslekte örgün bir ilerleme basamağı bulunmamaktadır. Kişi, Halk Eğitim Merkezleri ve İŞKUR tarafından açılan gıda işleme, hijyen ve iş güvenliği konulu kurslara katılarak bilgi ve becerisini geliştirebilir; açık öğretim yoluyla genel eğitim düzeyini yükselterek farklı mesleki eğitim programlarına yönelebilir.",
+  "is_hayatinda": "Deneyim ve bilgi arttıkça vardiya sorumluluğu, ekip liderliği gibi görevlere, ileride üretim sorumlusu veya formen pozisyonuna yükselme olanağı bulunmaktadır."
+ },
+ "benzer_meslekler": [
+  "Yer Fıstığı Seçme İşçisi",
+  "Kuruyemiş Sınıflama ve Kalibrasyon Makinesi Operatörü",
+  "Fındık İşleme İşçisi",
+  "Kuru Baklagil Elemanı",
+  "Gıda İşlemecisi",
+  "Yöresel Gıda Ürünleri Üretim Elemanı"
+ ],
+ "ek_bilgiler": "Gıda üretim işyerlerinde çalışan personelin, ilgili mevzuat gereği hijyen eğitimi sertifikası alması gerekebilir. Meslekte çalışma, sebze ve meyvenin hasat dönemlerine bağlı olarak mevsimlik yoğunluk gösterebilir; bu nedenle yıl içinde iş hacmi ve istihdam talebi dönemsel olarak değişkenlik gösterebilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T16:02:04",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6526
+  }
+ }
+}

@@ -1,0 +1,83 @@
+{
+ "arac_gerec": [
+  "Ziftli bez (rulo halinde)",
+  "Sarma (sargı) motoru",
+  "Punta",
+  "Zift arabası (raylı)",
+  "Zift kazanı/deposu",
+  "Merdaneler",
+  "Bıçak",
+  "Tıkaç",
+  "Kireç kazanı",
+  "Anahtar takımları",
+  "Şalter/kumanda düzeni",
+  "Boru taşıma ekipmanları (vinç, el arabası)",
+  "Koruyucu iş elbisesi, eldiven ve ayakkabı",
+  "Koruyucu gözlük ve maske"
+ ],
+ "genel_ozellikler": [
+  "El ve göz koordinasyonuna sahip,",
+  "Dikkatli ve tedbirli,",
+  "Fiziksel olarak dayanıklı ve güçlü,",
+  "Makine ve mekanik düzeneklerle çalışmaya istekli,",
+  "Sorumluluk sahibi,",
+  "Takım halinde çalışmaya uyumlu,",
+  "Tertipli ve düzenli,",
+  "İşçi sağlığı ve iş güvenliği kurallarına duyarlı"
+ ],
+ "calisma_ortami": "\"Sarma makinesi işçisi genellikle fabrika veya atölye içinde, kapalı mekânlarda çalışır. Çalışma sırasında ayakta durulur, boruların yerleştirilmesi ve taşınması için zaman zaman fiziksel güç gerekir. Ortamda zift (bitüm) ısıtılırken ortaya çıkan koku ve buhar, kireç tozu ve makine gürültüsü gibi etkenler bulunabilir; bu nedenle koruyucu ekipman kullanımı önemlidir.\\n\\nÇalışma genellikle yardımcı işçilerle birlikte ekip hâlinde yürütülür; işletmedeki vardiya düzenine göre gündüz veya vardiyalı çalışılabilir. İşlem sırasında sıcak zift, dönen makine parçaları ve kesici aletler nedeniyle iş kazası riski bulunduğundan iş güvenliği kurallarına dikkat edilmesi gerekir.\"",
+ "egitim": {
+  "verildigi_yerler": "Sarma makinesi işçiliğinin (boru tecridi) örgün bir okul veya kurs programı bulunmamaktadır. Meslek genellikle boru üretimi veya izolasyon işi yapan işletmelerde işbaşında, usta yanında uygulamalı olarak öğrenilir. Ayrıca Halk Eğitim Merkezleri ile İŞKUR tarafından açılan genel mesleki eğitim kursları, temel makine kullanımı ve iş güvenliği konularında destekleyici olabilir.",
+  "giris_kosullari": [
+   "İlköğretim mezunu olmak",
+   "18 yaşını doldurmuş olmak (işletmelerin genel uygulaması)",
+   "Fiziksel olarak ayakta ve bedensel güç gerektiren işlere uygun olmak",
+   "Sağlık durumunun bu işi yapmaya engel olmaması"
+  ],
+  "sure_ve_icerik": "Mesleğin belirlenmiş bir eğitim süresi ve müfredatı yoktur. İşe yeni başlayan kişi, işletmede usta işçinin gözetiminde belirli bir süre (genellikle birkaç hafta ile birkaç ay arasında) çalışarak; borunun makineye yerleştirilmesi, ziftli bez sarma işlemi, zift ve kireç uygulaması, makine kullanımı ve iş güvenliği kurallarını uygulamalı olarak öğrenir.",
+  "belge": "Mesleğe özgü resmî bir diploma veya sertifika bulunmamaktadır; beceri işyerinde çalışarak kazanılır. Katılınan genel mesleki eğitim kurslarından 'Kurs Bitirme Belgesi' alınabilir. Mesleğin tehlikeli/çok tehlikeli işler kapsamında değerlendirilmesi hâlinde Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "\"Sarma makinesi işçileri (boru tecridi); boru üretimi yapan fabrikalarda, boruların dış etkenlerden korunması veya ısı yalıtımı amacıyla kaplanması işlemlerinin yapıldığı tesislerde, petrol ve doğalgaz boru hattı üretimine yönelik sanayi işletmelerinde çalışırlar. Bu meslek, belirli sanayi dallarına ve işletmelere bağlı olduğundan iş bulma olanakları sınırlı ve coğrafi olarak sanayi bölgeleriyle yoğunlaşmış durumdadır.\"",
+ "gorevler": [
+  "Ziftli bez sarılacak boruyu yardımcı işçilerle birlikte veya başka usullerle sargı motoru ile punta arasına yerleştirir,",
+  "Borunun bir ucunu motordaki ayna dişlilerine, diğer ucunu da puntaya koyar ve anahtar kullanarak sabitleştirir,",
+  "Ray üzerinde hareket eden zift arabası deposuna zift doldurur,",
+  "Bez rulosunu arabadaki makaralara takar,",
+  "Bezin ucunu merdanelerden ve zift kazanından geçirerek dışarıda bulunan boruya sarar,",
+  "Şaltere basarak sarma motorunu çalıştırır ve borunun kendi ekseni etrafında dönmesini sağlar,",
+  "Zift arabasını ray üzerinde ağır ağır hareket ettirerek dönen boru üzerine ziftli bezin sarılmasını sağlar,",
+  "Sarılan bezi boru sonunda bıçakla keser,",
+  "Bez sarılan boruyu makineden almak için makinenin ayna ve puntasını gevşetir ve boruyu dışarı alır,",
+  "Borunun iki ucunu tıkaçla tıkar ve boruyu kireç kazanına daldırıp çıkararak sarılan bezin kireçle kaplanmasını sağlar,",
+  "İş bitiminde kullandığı teçhizatın ve avadanlıkların bakım ve temizliğini yapar,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "kazanc": {
+  "egitim_suresince": "Meslek örgün bir eğitim programıyla öğretilmediğinden, eğitim süresince (işbaşında usta yanında çalışma döneminde) genellikle işletmenin uygulamasına bağlı olarak düşük düzeyde bir ücret ödenebilir veya bu dönem deneme/stajyer kapsamında değerlendirilebilir.",
+  "egitim_sonrasi": [
+   "İşe başlangıçta genellikle asgari ücret düzeyinde kazanç sağlanır.",
+   "Deneyim, işletme büyüklüğü ve sektördeki talebe göre ücret zamanla artabilir.",
+   "Özel sektördeki ücretler işveren ile karşılıklı anlaşmaya göre belirlenir; kamuda işçi statüsünde çalışanlar için toplu iş sözleşmesi hükümleri geçerli olabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğin örgün bir eğitim basamağı ve buna bağlı resmî bir ilerleme sistemi bulunmamaktadır.",
+  "is_hayatinda": "Deneyim kazanan işçiler usta işçi, ekip lideri veya vardiya sorumlusu konumuna yükselebilir. Boru imalatı ve izolasyon alanındaki farklı makine ve teknikleri (kumlama, sarma, kaplama vb.) öğrenerek ilgili üretim süreçlerinde çalışma alanını genişletebilir."
+ },
+ "benzer_meslekler": [
+  "Bez Kumlama Makinesi İşçisi (Boru Tecritçisi)",
+  "Kablo İzolasyon Elemanı",
+  "Kablo Sıyırma Makinesi Operatörü",
+  "Kablo İmal Makinesi Operatörü",
+  "Diğer Sabit Motorlar ve İlgili Teçhizat Operatörleri"
+ ],
+ "ek_bilgiler": "\"Bu meslekte sıcak zift (bitüm) ile çalışma söz konusu olduğundan, iş sırasında koruyucu giysi, eldiven ve gerekli kişisel koruyucu donanımın kullanılması önem taşır. Mesleğin tehlikeli/çok tehlikeli işler kapsamında değerlendirilip değerlendirilmediği işyerinin risk değerlendirmesine göre belirlenir.\"",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T17:26:07",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5519
+  }
+ }
+}

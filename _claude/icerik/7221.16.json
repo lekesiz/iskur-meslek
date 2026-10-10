@@ -1,0 +1,81 @@
+{
+ "arac_gerec": [
+  "Kaynak makinesi (elektrik ark kaynağı, MIG/MAG)",
+  "Oksijen-gaz veya plazma kesim ekipmanı",
+  "Taşlama ve zımpara makinesi",
+  "Matkap ve pres makineleri",
+  "Mengene, örs ve çeşitli el çekiçleri",
+  "Metre, gönye, kumpas gibi ölçü aletleri",
+  "Teknik resim ve ölçü planları",
+  "Anahtar takımları ve genel el aletleri",
+  "Vinç veya kaldırma ekipmanı",
+  "Hidrolik piston ve bağlantı parçaları",
+  "Dingil, şasi, cant, lastik gibi römork bağlantı elemanları",
+  "Kişisel koruyucu donanım (kaynak maskesi, iş eldiveni, koruyucu gözlük, iş elbisesi)"
+ ],
+ "genel_ozellikler": [
+  "El ve beden becerisine sahip,",
+  "Fiziksel olarak güçlü ve dayanıklı,",
+  "Dikkatli ve sabırlı,",
+  "Teknik resim ve ölçü okuyabilen,",
+  "Takım çalışmasına uyumlu,",
+  "Problem çözme yeteneğine sahip,",
+  "İş sağlığı ve güvenliği kurallarına duyarlı,"
+ ],
+ "calisma_ortami": "Römork İmal Ustası genellikle kapalı atölye veya küçük/orta ölçekli imalat tesislerinde çalışır. Çalışma ortamında kaynak dumanı, metal tozu, gürültü ve sıcak/soğuk metal yüzeylerle teması nedeniyle fiziksel riskler bulunur; bu nedenle kişisel koruyucu donanım kullanımı önemlidir. İş, genellikle ayakta, eğilerek ve bazen ağır parçaları kaldırarak yapılan bedensel güç gerektiren bir çalışmadır.\n\nÇalışma saatleri işyerinin sipariş yoğunluğuna göre değişebilir; genellikle gündüz mesaisi şeklinde çalışılır ancak yoğun dönemlerde mesai uzayabilir. Meslek elemanı; işyeri sahibi/yöneticisi, diğer ustalar, kalfalar, çıraklar ve zaman zaman müşterilerle iş birliği içinde çalışır.",
+ "egitim": {
+  "verildigi_yerler": "Römork İmal Ustalığı için örgün bir ön lisans veya lisans programı bulunmamaktadır. Meslek elemanları genellikle mesleki ve teknik eğitim okullarının metal teknolojisi, makine teknolojisi veya kaynak alanlarında eğitim alarak ya da işyerlerinde usta-çırak ilişkisi içinde işbaşında yetişmektedir. Mesleki Eğitim Merkezlerindeki çıraklık eğitimi ile Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kursları da bu alanda beceri kazandırmaktadır.",
+  "giris_kosullari": [
+   "İlköğretim (ortaokul) mezunu olmak,",
+   "Meslek lisesi düzeyinde ilgili alanlara (metal teknolojisi, makine teknolojisi, kaynak vb.) kayıt için ilgili okulun belirlediği şartları taşımak,",
+   "Mesleki Eğitim Merkezlerine (çıraklık eğitimi) kayıt için gerekli yaş ve öğrenim şartlarını taşımak,",
+   "Fiziksel olarak işin gerektirdiği bedensel güce sahip olmak."
+  ],
+  "sure_ve_icerik": "Eğitim süresi ve içeriği izlenen yola göre değişmektedir. Mesleki ve teknik ortaöğretim kurumlarının metal/makine teknolojileri alanlarında örgün eğitim süresi dört yıldır. Mesleki Eğitim Merkezlerinde çıraklık eğitimi kapsamında işbaşında uygulamalı eğitim verilir. Halk Eğitim Merkezleri ve İŞKUR'un açtığı kurslarda ise genellikle kısa süreli (birkaç ay) teorik ve uygulamalı eğitim verilir. Eğitim içeriğinde metal kesme, kaynak teknikleri, parça birleştirme ve montaj, ölçü alma, teknik resim okuma, hidrolik sistemler ve iş sağlığı-güvenliği konuları yer alır.",
+  "belge": "Örgün mesleki eğitimi tamamlayanlara diploma; Mesleki Eğitim Merkezi çıraklık eğitimini tamamlayanlara kalfalık/ustalık belgesi; Halk Eğitim Merkezi ve İŞKUR kurslarını tamamlayanlara ise kurs bitirme/sertifika belgesi verilir. Kaynak gibi alt beceri alanlarında alınabilecek Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Römork İmal Ustaları, başta römork, treyler, damperli araç ve tarım römorku imalatı yapan özel sektör imalathane ve fabrikalarında istihdam edilir. Tarım makineleri ve araç üstü ekipman üreten işletmelerde de benzer beceriler aranabilir. Yeterli deneyim, sermaye ve ekipmana sahip olan meslek elemanları kendi imalat atölyelerini açarak bağımsız olarak da çalışabilir.",
+ "kazanc": {
+  "egitim_suresince": "Mesleki Eğitim Merkezlerinde çıraklık eğitimi alanlar asgari ücretin belirli bir oranında ücret alabilir. Halk Eğitim Merkezleri ve İŞKUR kurslarına katılanlar genellikle ücret almaz; bazı kurs programlarında kursiyerlere harçlık ödenebilir.",
+  "egitim_sonrasi": [
+   "Özel sektörde ücret, işyerinin büyüklüğüne, çalışanın deneyim ve becerisine göre karşılıklı anlaşmayla belirlenir.",
+   "Mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Deneyim ve ustalık kazandıkça kazanç artabilir; kendi işyerini açanların geliri işin hacmine ve sipariş yoğunluğuna göre değişir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleki ve teknik ortaöğretimi tamamlayanlar, ilgili alanlarda açık öğretim veya örgün yükseköğretim programlarına (makine, metal teknolojisi vb.) geçiş yapabilir. Mesleki Eğitim Merkezi mezunları ustalık ve usta öğreticilik belgesi alarak ilerleyebilir.",
+  "is_hayatinda": "Deneyim kazandıkça çıraklıktan kalfalığa, kalfalıktan ustalığa; işyerinde ekip şefliği veya atölye/üretim sorumluluğu gibi görevlere yükselinebilir. Yeterli sermaye, deneyim ve müşteri çevresine sahip olanlar kendi imalat işyerini kurabilir."
+ },
+ "benzer_meslekler": [
+  "Metal Şekillendirme Ustası",
+  "Soğuk Demirci/ Çelik Yapılandırmacı",
+  "Pulluk İmal Usta",
+  "Mibzer İmal Ustası",
+  "Tırmık İmal Ustası",
+  "Patoz Makinesi Montaj İşçisi"
+ ],
+ "ek_bilgiler": "Mesleğin icrasında kullanılan kaynak, kesim ve montaj işlemleri, iş sağlığı ve güvenliği açısından riskli işler kapsamında değerlendirilebileceğinden kişisel koruyucu donanım kullanımı ve ilgili iş güvenliği eğitimleri önem taşır. Mesleki Yeterlilik Kurumu (MYK) belgesi, özellikle kaynakçılık gibi alt beceri alanlarında istihdamda tercih sebebi olabilir.",
+ "gorevler": [
+  "Yapılacak römorkun özelliklerini ve ölçülerini belirler.",
+  "Yapılacak işlemlerin maliyetini tespit eder, ilgililere bildirir.",
+  "İmal işleminde kullanılacak malzemelerin özelliklerini belirler ve bunların temin edilmesini sağlar.",
+  "İmal edilecek damperli ya da dampersiz römork yapımında kullanılacak malzemelerin özelliklerine, teknik standartlara ve belirlenen ölçülere göre malzemeleri keser, kaynak yapar ve çeşitli şekillerde birleştirir.",
+  "İmal edilen römork parçalarının montajını yapar.",
+  "İmal edilecek damperli römorklarda kasa ile şasi arasına monte edilecek hidrolik pistonları belirler.",
+  "Belirlenen hidrolik pistonların, damper kasanın ve aracın şasisinin ilgili yerlerine montajını yapar.",
+  "Römorkların dingil, şasi, cant ve lastik gibi bağlantılarının montajını yapar.",
+  "Hidrolik pistonların ilgili yerlerine yağlarını koyar, hidrolik pistonların çalışmasını kontrol eder.",
+  "Tüm montaj işlemi biten römorkların son test ve kontrollerini yapar.",
+  "Meslek alanı ile ilgili gelişmeleri takip eder, uygular.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T01:03:20",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6897
+  }
+ }
+}

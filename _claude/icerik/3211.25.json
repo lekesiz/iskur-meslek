@@ -1,0 +1,73 @@
+{
+ "arac_gerec": [
+  "Kalibrasyon cihazları ve hassas ölçüm aletleri (multimetre, osiloskop vb.)",
+  "Elektronik arıza tespit ve test cihazları",
+  "El takımları (tornavida takımları, pense, anahtar takımı, lehim ekipmanı vb.)",
+  "Cihaz tanılama ve servis yazılımları, bilgisayar",
+  "Elektrik güvenlik ve topraklama test cihazları",
+  "Yedek parça ve sarf malzemeleri",
+  "Teknik servis ve kullanım kılavuzları, bakım kayıt formları",
+  "Taşınabilir servis çantası ve test üniteleri",
+  "Kişisel koruyucu donanım (eldiven, gözlük, önlük vb.)",
+  "Temizlik ve dezenfeksiyon malzemeleri",
+  "Basınç/vakum test ekipmanları (ilgili cihazlar için)",
+  "Montaj ve demontaj aparatları"
+ ],
+ "genel_ozellikler": [
+  "El ve parmaklarını ustalıkla kullanabilen,",
+  "Elektronik ve mekanik sistemlere ilgi duyan,",
+  "Analitik düşünebilen ve problem çözme becerisine sahip,",
+  "Dikkatli ve ayrıntılara özen gösteren,",
+  "Sorumluluk duygusu gelişmiş,",
+  "İş sağlığı ve güvenliği kurallarına uyan,",
+  "Yeni teknolojileri öğrenmeye açık,",
+  "Sağlık personeli ve diğer çalışanlarla iyi iletişim kurabilen kişiler olması gerekir."
+ ],
+ "calisma_ortami": "Biyomedikal cihaz teknolojileri teknisyenleri, kamu ve özel hastanelerin teknik servis birimlerinde, tıbbi cihaz üretici veya satıcı firmaların servis atölyelerinde çalışırlar. Çalışma genellikle kapalı, aydınlık ve düzenli ortamlarda yapılır; ancak arıza giderme amacıyla hastane içindeki farklı birimlere (yoğun bakım, ameliyathane, görüntüleme üniteleri vb.) gidilmesi gerekebilir. Çalışma sırasında elektrik, elektronik parçalar ve bazı durumlarda radyasyon yayan cihazlarla ilgilenildiğinden iş güvenliği kurallarına titizlikle uyulması önemlidir.\n\nMesleğin icrası sırasında doktorlar, hemşireler, diğer sağlık personeli, teknik servis çalışanları ve cihaz üreticisi/satıcı firma temsilcileri ile sık sık iletişim kurulur. Hastanelerin kesintisiz hizmet vermesi gerektiğinden, acil arıza durumlarında vardiyalı veya çağrı üzerine çalışma söz konusu olabilir.",
+ "gorevler": [
+  "Yeni gelen tıbbi cihazların montajını ve test çalıştırmasını yapar.",
+  "Cihazların ölçüm hassasiyetini (kalibrasyon) periyodik olarak kontrol eder.",
+  "Arıza bildirimlerini değerlendirerek yerinde veya atölyede onarım yapar.",
+  "Yedek parça stoklarını takip eder ve bakım kartlarını tutar.",
+  "Sağlık personelini cihazların doğru kullanımı konusunda bilgilendirir.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi, mesleki ve teknik Anadolu liselerinin ilgili alanlarında (biyomedikal cihaz teknolojileri veya elektrik-elektronik teknolojileri alanı) verilmektedir. Ayrıca bazı meslek yüksekokullarının \"Biyomedikal Cihaz Teknolojisi\" önlisans programları ile Halk Eğitim Merkezleri ve İŞKUR tarafından açılan mesleki eğitim kursları da temel düzeyde beceri kazandırmaktadır.",
+  "giris_kosullari": [
+   "Ortaokul mezunu olup ilgili mesleki ve teknik Anadolu lisesi alanına kayıt yaptırmak.",
+   "Önlisans eğitimi için lise veya dengi okul mezunu olup ilgili sınav/yerleştirme sistemine göre meslek yüksekokulu programına yerleşmek."
+  ],
+  "sure_ve_icerik": "Ortaöğretim düzeyindeki eğitim 4 yıl sürer. Eğitimde elektrik-elektronik temelleri, elektronik devre ve ölçme teknikleri, tıbbi cihazların yapısı ve çalışma prensipleri, kalibrasyon yöntemleri, bakım-onarım teknikleri, iş sağlığı ve güvenliği ile mesleki uygulama dersleri yer alır. Meslek yüksekokulu programlarında bu bilgiler daha ileri düzeyde ve uygulamalı olarak verilir.",
+  "belge": "Mesleki ve teknik Anadolu lisesi diploması; ilgili önlisans programından mezun olunması durumunda meslek yüksekokulu diploması (teknikerlik unvanı) alınabilir."
+ },
+ "calisma_alanlari": "Bu mesleğin çalışanları başta kamu ve özel hastaneler olmak üzere, tıbbi cihaz üreten veya ithal eden firmaların teknik servis birimlerinde, sağlık teknolojileri firmalarında ve biyomedikal cihaz bakım-onarım hizmeti veren işletmelerde istihdam edilmektedir. Sağlık sektöründeki teknolojik yatırımların ve özel hastane sayısının artması, bu alandaki istihdam olanaklarını genişletmektedir. İyi yetişmiş ve güncel teknolojiyi takip eden teknik elemanlara olan talep sürmektedir.",
+ "kazanc": {
+  "egitim_suresince": "Örgün eğitim sırasında genel olarak bir kazanç söz konusu değildir; ancak staj ve işletmelerde mesleki eğitim uygulamaları kapsamında öğrencilere asgari ücretin bir bölümü oranında ödeme yapılabilmektedir.",
+  "egitim_sonrasi": [
+   "Kamu kurum ve kuruluşlarında çalışanlar, 657 sayılı Devlet Memurları Kanunu'na göre belirlenen kadro ve derecelere uygun maaş alır; işçi statüsünde istihdam edilenlerin ücreti ilgili toplu iş sözleşmesine göre belirlenir.",
+   "Özel sektörde yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar; işyerinin büyüklüğü, çalışanın deneyimi, uzmanlaştığı cihaz türü ve sektörün ücret düzeyine göre bu kazanç artabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Lise düzeyinde mezun olanlar, ilgili meslek yüksekokullarının biyomedikal cihaz teknolojisi veya benzer programlarına devam ederek tekniker unvanı alabilir; isteyenler lisans tamamlama veya mühendislik bölümlerine yönelerek eğitimlerini ilerletebilir.",
+  "is_hayatinda": "Deneyim kazandıkça daha karmaşık ve özel cihazların (MR, tomografi, ameliyathane cihazları vb.) bakım-onarımında uzmanlaşma, teknik servis ekiplerinde sorumluluk üstlenme ve servis şefliği gibi pozisyonlara yükselme olanağı bulunmaktadır."
+ },
+ "benzer_meslekler": [
+  "Biyomedikal Cihaz Teknikeri",
+  "Biyomedikal Cihaz Teknolojileri Servis Destek Elemanı",
+  "Yaşam Destek ve Tedavi Cihazları Teknisyeni",
+  "Tıbbi Cihaz Üretimi Teknisyeni",
+  "Klinik Teknik Destek Elemanı (Tıbbi Cihaz)",
+  "Tıbbi Görüntüleme Sistemleri Teknisyeni"
+ ],
+ "ek_bilgiler": "Bu meslekte çalışanların, radyasyon yayan görüntüleme cihazları (MR, tomografi vb.) ile çalışırken radyasyondan korunma ve iş güvenliği eğitimlerine önem vermesi gerekir. Mesleki Yeterlilik Kurumu (MYK) belgesine sahip olmak, iş başvurularında tercih sebebi olabilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T12:09:20",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5714
+  }
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "arac_gerec": [
+  "Mikser (karıştırıcı) makineleri",
+  "Vakum makineleri",
+  "Ekstrüzyon (kalıplama) üniteleri",
+  "Hamur nem ve kıvam ölçüm cihazları",
+  "Hammadde tartım ve ölçüm ekipmanları",
+  "Un/irmik silo ve taşıma bantları",
+  "Kontrol panelleri ve otomasyon sistemleri",
+  "Temizlik ve hijyen malzemeleri",
+  "Koruyucu iş elbisesi, bone, eldiven ve toz maskesi"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve gözlem yeteneği yüksek,",
+  "El ve göz koordinasyonu iyi,",
+  "Fiziksel olarak dayanıklı,",
+  "Hijyen kurallarına duyarlı,",
+  "Sorumluluk sahibi,",
+  "Makine ve ekipman kullanımına yatkın,",
+  "Ekip çalışmasına uyumlu,",
+  "Vardiyalı çalışma düzenine uyum sağlayabilen"
+ ],
+ "calisma_ortami": "Hamurkar (makarna), makarna üretimi yapan gıda fabrikalarının üretim bölümlerinde, kapalı alanlarda çalışır. Çalışma ortamı genellikle gürültülü olup un ve irmik tozuna bağlı toz yoğunluğu görülebilir; bu nedenle toz maskesi ve koruyucu giysi kullanımı önemlidir. Üretim hatları makine ve ekipmanlarla donatıldığından iş sağlığı ve güvenliği kurallarına uyum, yaralanma ve kaza risklerinin azaltılması açısından büyük önem taşır.\n\nFabrikalarda çoğunlukla vardiyalı veya tam gün çalışma düzeni uygulanır. Çalışma sırasında vardiye arkadaşları, usta başı, kalite kontrol ve bakım personeli ile sürekli iletişim halinde olunur. Üretim hızına bağlı olarak zaman zaman temponun yüksek olduğu dönemler yaşanabilir.",
+ "egitim": {
+  "verildigi_yerler": "Hamurkar (makarna) mesleğine özgü, resmi olarak tanımlanmış ayrı bir çıraklık veya meslek lisesi dalı bulunmamaktadır. Mesleğe giriş genellikle işbaşında, deneyimli ustaların gözetiminde öğrenilerek sağlanır. Gıda teknolojisi alanında eğitim veren mesleki ve teknik eğitim programları, Halk Eğitim Merkezleri ile İŞKUR'un açtığı mesleki eğitim kursları bu mesleğe temel oluşturabilir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak,",
+   "Sağlık durumunun ayakta ve vardiyalı çalışmaya, tozlu ortam koşullarına uygun olması,",
+   "İşe alınacağı işyerinin belirlediği yaş ve diğer koşulları sağlamak."
+  ],
+  "sure_ve_icerik": "Mesleğin standart ve resmi bir eğitim süresi bulunmamaktadır. Kişi, genellikle işe yeni başladığında deneyimli bir hamurkarın veya usta başının gözetiminde pratik çalışma yaparak hammadde ayarlama, mikser ve vakum makinelerinin kullanımı, hamur kıvam ve kalite kontrolü gibi işlemleri öğrenir. Ayrıca gıda işleme alanında düzenlenen kısa süreli mesleki eğitim kursları, bu mesleğe hazırlık sağlayabilir.",
+  "belge": "İşbaşı eğitimini tamamlayanlara çalıştığı işyeri tarafından deneyim veya çalışma belgesi; katıldığı kurslar sonunda ise kurs katılım/başarı belgesi verilebilir. Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Hamurkar (makarna), başta makarna üretimi yapan gıda sanayi işletmeleri olmak üzere, un ve irmikten hamur esaslı ürün üreten fabrikalarda istihdam edilebilir. Büyük ölçekli gıda üretim tesislerinin yoğunlaştığı illerde iş bulma imkânı daha fazladır. Üretim hacminin artması ve gıda sanayinin büyümesi, bu meslekte istihdam olanaklarını olumlu yönde etkilemektedir.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğe işbaşında eğitim yoluyla girenlere, çalıştıkları işletmenin uygulamasına göre değişen bir ücret ödenebilir. Resmi çıraklık eğitimi kapsamında eğitim alınması durumunda 3308 sayılı Mesleki Eğitim Kanunu hükümleri uygulanır.",
+  "egitim_sonrasi": [
+   "Yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "İşçi statüsünde çalışanların ücreti, işyerinde uygulanan toplu iş sözleşmesi hükümlerine göre belirlenir.",
+   "Kazanç; çalışılan işletmenin büyüklüğü, kişinin tecrübesi, bilgisi ve sektördeki ücret düzeyine göre değişebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Bu meslekte resmi olarak tanımlanmış kademeli bir çıraklık/ustalık eğitim basamağı bulunmamaktadır. Kişi, iş deneyimi kazanarak ve katıldığı mesleki eğitim kurslarıyla bilgi ve becerisini geliştirebilir.",
+  "is_hayatinda": "Deneyim ve bilgi birikimi arttıkça vardiye sorumluluğuna, usta başılığına ve üretim şefliğine kadar yükselebilir. Girişimci ruha sahip olanlar kendi küçük ölçekli üretim işletmelerini kurabilir."
+ },
+ "benzer_meslekler": [
+  "Hamurkar (Şeker-Sakız)",
+  "Un İmal İşçisi",
+  "Un İmal Ustası",
+  "Paketleme Makinesi Operatörü (Makarna)",
+  "Fırın ve Unlu Mamuller Üretim Operatörü",
+  "Gıda İşlemecisi"
+ ],
+ "ek_bilgiler": "",
+ "gorevler": [
+  "Karışım reçetesine göre hammadde miktarını ayarlar,",
+  "Mikser ve vakum makinelerini çalıştırır,",
+  "Hamurun nemini, rengini ve kıvamını kontrol eder,",
+  "Hamuru kalıplara (ekstrüzyon) yönlendirir,",
+  "Ekipmanların günlük temizlik ve hijyen işlemlerini yapar,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T16:05:28",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5217
+  }
+ }
+}

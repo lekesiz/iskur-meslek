@@ -1,0 +1,76 @@
+{
+ "arac_gerec": [
+  "Ağartma/kasar kazanı veya tankı",
+  "Kimyasal madde (ağartıcı, asit, baz vb.) depolama ve dozaj kapları",
+  "Hassas terazi ve ölçüm kapları",
+  "Termometre ve pH ölçüm cihazı",
+  "Buhar/ısıtma sistemi",
+  "Durulama-yıkama tankı veya makinesi",
+  "Sıkma (santrifüj) makinesi",
+  "Kurutma makinesi",
+  "Taşıma arabası, transpalet",
+  "Numune alma aparatı",
+  "Kişisel koruyucu donanım (eldiven, gözlük, önlük, maske, çizme)",
+  "Kova ve kap gibi yardımcı malzemeler"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve tedbirli,",
+  "El becerisine sahip,",
+  "Kimyasal maddelerle çalışmaya istekli ve bu konuda talimatlara titizlikle uyan,",
+  "Renkleri ve renk tonlarını ayırt edebilen,",
+  "Sorumluluk sahibi,",
+  "Fiziksel olarak dayanıklı,",
+  "Takım çalışmasına uyumlu,",
+  "Temizlik ve düzene önem veren"
+ ],
+ "calisma_ortami": "Mensucat beyazlatıcı, tekstil terbiye (apre, boyama, ağartma/kasar) işletmelerinin kapalı atölye ve üretim alanlarında çalışır. Çalışma ortamı genellikle nemli, sıcak ve buharlıdır; kullanılan kimyasal maddelerden kaynaklanan koku bulunabilir, zemin ıslak ve kaygan olabilir. Ortamda gürültü, titreşim ve tehlikeli kimyasal maddelerle (ağartıcı, asit, baz vb.) temas riski söz konusudur; bu nedenle kişisel koruyucu donanım kullanımı önemlidir.\n\nİşin niteliğine göre işletmenin üretim temposuna bağlı olarak vardiyalı çalışma düzeni uygulanabilir. Çalışma sırasında ustabaşı, bölüm şefi, diğer makine operatörleri ve kalite kontrol elemanları ile sürekli iletişim içindedir.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi, örgün bir meslek lisesi programı olarak tanımlanmamıştır. Meslek, genellikle işyerlerinde usta yanında işbaşında yetişme yoluyla veya Halk Eğitim Merkezleri ile İŞKUR'un açtığı mesleki eğitim kursları aracılığıyla kazanılır. Yeterli talep bulunması hâlinde, mesleki eğitim merkezlerinin tekstil teknolojisi alanına bağlı ilgili dallarında çıraklık eğitimi şeklinde de verilebilir.",
+  "giris_kosullari": [
+   "En az ilköğretim/ortaokul mezunu olmak",
+   "Çıraklık eğitimi yoluna gidilecekse 14 yaşını doldurmuş olmak",
+   "Sağlık durumunun; nemli, sıcak ortamda ve kimyasal maddelerle çalışmaya uygun olması",
+   "Çıraklık eğitimi yoluyla eğitim alınacaksa, eğitim görülecek işyeri ile çıraklık sözleşmesi imzalamak"
+  ],
+  "sure_ve_icerik": "Mesleğin standart ve tek bir eğitim süresi belirlenmemiştir. İşbaşında usta yanında yetişme süreci, işin niteliğine ve kişinin öğrenme hızına göre değişmekte, genellikle kimyasal madde hazırlama, solüsyon kontrolü, durulama ve kurutma işlemlerinin uygulamalı olarak öğretilmesini kapsamaktadır. Çıraklık eğitimi yoluyla mesleki eğitim merkezinde eğitime başlanması durumunda eğitim, haftanın bir günü meslek dersleri, kalan günlerinde işyerinde uygulamalı eğitim şeklinde yürütülerek kalfalık ve ustalık eğitimi olarak tamamlanır.",
+  "belge": "Çıraklık eğitimi yoluyla yetişenlere kalfalık ve ustalık belgesi verilir. Halk Eğitim Merkezi veya İŞKUR kursları yoluyla eğitim alanlara kurs bitirme/katılım belgesi düzenlenir. Mesleki Yeterlilik Kurumu (MYK) Mesleki Yeterlilik Belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Mensucat beyazlatıcı; dokuma ve örme fabrikalarının bitim işlemleri bölümlerinde, tekstil terbiye (apre, boyama, ağartma/kasar) işletmelerinde, iplik ve kumaş boyahanelerinde, tekstil organize sanayi bölgelerinde yer alan üretim işletmelerinde çalışabilir. Bu meslekte kamu kurumlarında istihdam olanağı bulunmamaktadır; çalışma alanları esas olarak özel sektör üretim tesisleridir.",
+ "kazanc": {
+  "egitim_suresince": "Çıraklık eğitimi yoluyla yetişenlere, 3308 sayılı Mesleki Eğitim Kanunu çerçevesinde asgari ücretin belirli bir yüzdesinden az olmamak üzere ücret ödenir. Halk Eğitim Merkezi veya İŞKUR kursları yoluyla eğitim alınması durumunda genellikle ayrıca bir ücret ödemesi söz konusu değildir.",
+  "egitim_sonrasi": [
+   "İşe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Kazanç; kişinin deneyimi, işteki performansı, pozisyonu ile çalıştığı işletmenin büyüklüğü ve yapısına göre değişebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleki eğitim merkezinden diploma alanlar, ilgili alanın devamı niteliğindeki yükseköğretim (ön lisans/lisans) programlarını tercih edebilir. Ayrıca İŞKUR, Halk Eğitim Merkezleri ve çeşitli kurumların düzenlediği kurslara katılarak mesleki bilgi ve becerilerini geliştirebilirler.",
+  "is_hayatinda": "Deneyim kazandıkça usta, ustabaşı, vardiya amiri veya atölye/bölüm sorumlusu gibi görevlere yükselebilirler. Yeterli bilgi, birikim ve sermayeye sahip olanlar kendi işyerlerini açabilirler."
+ },
+ "benzer_meslekler": [
+  "Ağartma ve Pişirme Makinesi Operatör (Kasar)",
+  "Diğer Mensucat Beyazlatıcıları/Kasarlayıcıları, Boyacıları ve Terbiyecileri",
+  "Halat Kasar İşçisi",
+  "Asit Buharı Makinesi Operatörü (Tekstil)",
+  "Tekstil Terbiye İşçisi",
+  "Fiksaj İşçisi"
+ ],
+ "ek_bilgiler": "Meslek, ağartıcı, asit, baz gibi kimyasal maddelerle doğrudan çalışmayı gerektirdiğinden iş sağlığı ve güvenliği kurallarına ve kişisel koruyucu donanım kullanımına özel önem verilmesi gerekir. Çalışılan işin niteliğine ve kullanılan kimyasalların türüne göre bu meslek tehlikeli veya çok tehlikeli işler kapsamında değerlendirilebilir; bu durumda Mesleki Yeterlilik Kurumu (MYK) Mesleki Yeterlilik Belgesi istihdamda tercih sebebi olabilir.",
+ "gorevler": [
+  "Su kabını doldurup içine kimyasal maddeler ilave eder.",
+  "Malzemeyi kimyasal solüsyona batırır.",
+  "Solüsyonun hararetini, malzemenin solüsyon içerisindeki hareketini ve solüsyon içerisinde tutulma süresini kontrol eder.",
+  "Solüsyonu boşaltıp malzemeyi durular.",
+  "Malzemeyi çıkararak kurutulmak veya başka bir işlem uygulanmak üzere gerekli yere ulaştırır.",
+  "Beyazlatma işlemini ışık ve hava etkisiyle de uygulayabilir; işlenen malzemenin cinsine göre belirli bir alanda uzmanlaşabilir.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T14:17:43",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6380
+  }
+ }
+}

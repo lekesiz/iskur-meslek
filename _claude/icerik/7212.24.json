@@ -1,0 +1,80 @@
+{
+ "arac_gerec": [
+  "Lehim bandı makinesi (hareketli bant düzeneği)",
+  "Gaz vanası ve regülatörü",
+  "Bek (alev başlığı/meme)",
+  "Gaz tüpü veya gaz hattı bağlantısı",
+  "Temizleme sıvısı haznesi",
+  "Huni fırçası",
+  "Lehim çubuğu/teli",
+  "Lehimlenecek kutu gövdeleri (iş parçası)",
+  "Yağlama ekipmanı (yağdanlık)",
+  "Anahtar takımı",
+  "Koruyucu gözlük",
+  "İş eldiveni",
+  "Koruyucu önlük",
+  "Maske",
+  "Yangın söndürme tüpü"
+ ],
+ "genel_ozellikler": [
+  "El ve göz koordinasyonuna sahip,",
+  "Dikkatli ve tedbirli,",
+  "Sabırlı ve tekrarlı işleri yapmaya istekli,",
+  "Fiziksel olarak dayanıklı,",
+  "Talimatları eksiksiz uygulayabilen,",
+  "Ekip çalışmasına uyumlu,",
+  "Sorumluluk sahibi,",
+  "İşçi sağlığı ve iş güvenliği kurallarına uyan"
+ ],
+ "calisma_ortami": "Lehim bandı işçileri, teneke kutu ve metal ambalaj üretimi yapan fabrika ve atölyeler gibi kapalı ortamlarda çalışır. Çalışma ortamı gaz beki nedeniyle sıcak olabilir; ayrıca gürültülü ve zaman zaman dumanlı olabilmektedir. Yanıcı gazla çalışıldığından dikkatli olmak gerekir; gerekli havalandırma sağlandığında ve koruyucu önlemler alındığında risk azaltılabilir.\n\nMeslek elemanları genellikle ayakta ve bant üzerindeki iş akışına bağlı, tekrarlı hareketlerle çalışır. Çalışma saatleri işyerinin üretim programına göre değişebilir, vardiyalı çalışma söz konusu olabilir. İş arkadaşları, usta ve ustabaşı ile sürekli iletişim halinde çalışılır.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi için ayrı, standart bir örgün okul programı bulunmamaktadır. Meslek genellikle teneke kutu ve metal ambalaj imalatı yapan işyerlerinde işbaşında, usta yanında uygulamalı olarak öğrenilir. Metal işleri ile kaynak-lehim alanına yönelik Halk Eğitimi Merkezleri ve İŞKUR'un açtığı mesleki eğitim kursları da temel beceri kazandırabilir.",
+  "giris_kosullari": [
+   "İlköğretim mezunu olmak",
+   "İşbaşı eğitimi için genellikle çalışabilecek yaşta (18 yaş ve üzeri veya ilgili mevzuata uygun) olmak",
+   "El becerisine ve fiziksel dayanıklılığa sahip olmak",
+   "Halk eğitim merkezi kurslarına katılım için özel bir ön şart aranmaz; her yaş ve eğitim düzeyinden kişi katılabilir"
+  ],
+  "sure_ve_icerik": "Mesleğe özgü standart ve belirli süreli bir müfredat bulunmamaktadır. Bilgi ve beceriler işyerinde usta nezaretinde çalışılarak kazanılır. Gaz ayarının yapılması, bek ve temizleme sıvısı haznesinin kullanımı, lehim çubuğuyla kenetli kısımların lehimlenmesi, bant makinesinin çalıştırılması, kontrolü ve bakımı gibi konular uygulamalı olarak öğretilir. Metal işleri ve kaynak-lehim alanındaki genel kurslar tamamlayıcı nitelikte olabilir.",
+  "belge": "İşbaşında edinilen beceriler için resmî bir diploma zorunluluğu bulunmamaktadır. Katılınan kurslardan 'Kurs Bitirme Belgesi' alınabilir; Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "gorevler": [
+  "İlgili vanalardan gaz ayarını yaparak bek ucundan çıkan gazı ateşler.",
+  "Lehim anında kullanılan temizleme sıvısını hazneye doldurur.",
+  "Lehimlenecek kutu gövdelerini bant üzerine yerleştirir.",
+  "Bandı çalıştırıp hareketli bant üzerinde huni fırçası altından geçerek temizlenen ve bekin altına gelerek belirli derecede ısınan kutu gövdelerinin kenetlenmiş kısımlarına lehim çubuğu sürerek lehim bırakır.",
+  "Lehimlenen kutu gövdelerini kontrol edip istenilen şekilde lehimlenmeyen kutu gövdelerini ayırarak teker teker lehimler.",
+  "Lehim bandının dişlilerini yağlayıp tıkanan bekleri açar.",
+  "Belirli tip bir metal veya maddeyi lehimlemekle ihtisaslaşabilir.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "calisma_alanlari": "Lehim bandı işçileri genellikle teneke kutu, metal ambalaj, konserve kutusu ve boya kutusu gibi ürünlerin üretildiği küçük ve orta ölçekli imalathane ve fabrikalarda çalışır. İş bulma olanakları, bu tür metal ambalaj imalatının yoğun olduğu sanayi bölgelerinde daha fazladır. Üretim teknolojisinin otomasyona yönelmesiyle bu meslekteki istihdam alanı sınırlı sayıda işletmeyle sınırlı kalabilmektedir.",
+ "kazanc": {
+  "egitim_suresince": "Meslek genellikle işbaşında öğrenildiğinden, çalışılan işyerine bağlı olarak eğitim süresince asgari ücret düzeyinde bir kazanç sağlanabilir. Halk eğitim merkezi kurslarına katılım sırasında herhangi bir kazanç söz konusu değildir.",
+  "egitim_sonrasi": [
+   "Özel sektörde çalışanların kazancı genellikle asgari ücret düzeyinde başlar; işyerinin büyüklüğü, kişinin tecrübesi ve sektörün ücret düzeyine göre değişebilir.",
+   "Kamuya bağlı işletmelerde işçi statüsünde çalışanlar, ilgili toplu iş sözleşmesi hükümlerine göre ücret alır."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Kaynak ve lehim alanında açılan kurslara katılarak bilgi ve beceriler geliştirilebilir; deneyim arttıkça farklı metal veya malzeme türlerinde lehimleme konusunda uzmanlaşılabilir.",
+  "is_hayatinda": "Deneyim kazandıkça usta, bant/hat sorumlusu veya nezaretçi gibi görevlere yükselinebilir; büyük ölçekli işletmelerde çalışma imkânı artabilir."
+ },
+ "benzer_meslekler": [
+  "Lehimci",
+  "Dalga Lehim Operatörü",
+  "Bant Kaynakçısı",
+  "Nokta Kaynak İşçisi",
+  "Punta Kaynak Makinesi İşçisi",
+  "Dikiş Kaynak Makinesi İşçisi"
+ ],
+ "ek_bilgiler": "Bu meslek, teneke kutu ve metal ambalaj üretiminde kullanılan özel bir lehim bandı makinesine bağlı olarak uygulanan, dar kapsamlı bir çalışma alanıdır. Üretim hatlarının otomasyona geçişiyle birlikte istihdam olanakları sınırlı sayıda işletmeyle sınırlı kalabilmektedir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T00:14:33",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5752
+  }
+ }
+}

@@ -1,0 +1,79 @@
+{
+ "arac_gerec": [
+  "X-ray analiz cihazı (XRF/XRD tipi)",
+  "Numune hazırlama cihazları (kırıcı, öğütücü, bilyeli değirmen)",
+  "Numune presleme/tablet hazırlama kalıpları",
+  "Elek takımları",
+  "Etüv ve kül fırını",
+  "Elektronik/hassas terazi",
+  "Numune kapları, poşetleri ve etiketleme malzemeleri",
+  "Standart referans malzemeler ve kalibrasyon numuneleri",
+  "Numune alma ekipmanları (kepçe, sonda, kova)",
+  "Bilgisayar ve analiz/kayıt yazılımı",
+  "Kişisel koruyucu donanım (eldiven, gözlük, toz maskesi, radyasyon dozimetresi)",
+  "Laboratuvar kayıt defteri veya elektronik kayıt sistemi"
+ ],
+ "genel_ozellikler": [
+  "Fen bilimlerine, özellikle kimya ve fiziğe ilgili ve bu alanlarda başarılı,",
+  "Dikkatini uzun süre bir noktaya verebilen,",
+  "Titiz ve sabırlı,",
+  "Gözlem yapma ve ayrıntıyı algılama yeteneği gelişmiş,",
+  "Sorumluluk sahibi ve talimatlara eksiksiz uyan,",
+  "El ve göz koordinasyonu iyi,",
+  "Takım çalışmasına uyumlu,",
+  "Kimyasal maddelere ve toza karşı alerjisi olmayan"
+ ],
+ "calisma_ortami": "Laborant (Çimento/X-RAY Operatörü), genellikle çimento fabrikalarının kalite kontrol laboratuvarlarında, kapalı mekânda çalışır. Çalışma ortamında toz, gürültü ve bazı kimyasal maddelerin (asit, çözücü vb.) varlığı söz konusu olabilir; numune hazırlama ve analiz cihazlarının kullanımı sırasında kesik, yanık gibi küçük kazalara ve dikkatsiz kullanımda radyasyon riskine karşı kişisel koruyucu donanım kullanılması ve ilgili güvenlik kurallarına uyulması gerekir.\n\nÇimento üretiminin sürekli (genellikle 24 saat) yapıldığı tesislerde vardiyalı çalışma düzeni yaygındır. Laborant, görevini çoğunlukla kendi başına deney talimatlarına uygun olarak yürütür; ancak üretim mühendisleri, kalite kontrol sorumlusu, vardiya amirleri ve diğer laboratuvar çalışanlarıyla sık sık iletişim kurar.",
+ "calisma_alanlari": "Laborant (Çimento/X-RAY Operatörü), başta çimento üreten fabrikalar olmak üzere hazır beton tesisleri gibi çimento ve beton sektöründeki işletmelerin kalite kontrol laboratuvarlarında çalışır. Ayrıca madencilik, seramik, cam ve benzeri hammadde/son ürün analizlerinde X-ray tabanlı cihazların kullanıldığı diğer sanayi kuruluşlarının laboratuvarlarında da istihdam edilebilir. İstihdam olanakları, inşaat sektöründeki üretim hacmine ve çimento talebine bağlı olarak değişkenlik gösterebilir.",
+ "kazanc": {
+  "egitim_suresince": "Mesleki ve teknik ortaöğretim kurumlarında eğitim görenler, 3308 sayılı Mesleki Eğitim Kanunu kapsamında işletmelerde yaptıkları beceri eğitimi/staj süresince asgari ücretin belirli bir oranından az olmamak üzere ücret alır; bu süreçte iş kazası ve meslek hastalığı sigorta primleri devletçe karşılanır. İş başında veya kurs yoluyla mesleğe yönelenler için bu tür bir ücretlendirme genellikle söz konusu değildir.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında (örneğin kamuya ait üretim tesisleri) istihdam edilenler, ilgili mevzuata (657 sayılı Kanun veya toplu iş sözleşmesi hükümlerine) göre ücret alır.",
+   "Özel sektörde yeni başlayanların kazancı genellikle asgari ücret düzeyindedir; işyerinin büyüklüğü, kişinin deneyimi, bilgisi ve sektörün ücret politikasına göre bu kazanç artabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleki ve teknik ortaöğretim kurumlarının ilgili alanından (örneğin Kimya Teknolojisi alanı) mezun olanlar, alanın devamı niteliğindeki yükseköğretim ön lisans veya lisans programlarını tercih ederek kimya teknikerliği, kimya mühendisliği gibi daha üst düzey mesleklere yönelebilir.",
+  "is_hayatinda": "Deneyim kazandıkça ve ek eğitimler alarak baş laborant, kalite kontrol sorumlusu veya laboratuvar şefliği gibi görevlere yükselebilir; işletme içindeki farklı analiz birimlerinde görev alarak uzmanlık alanını genişletebilir."
+ },
+ "egitim": {
+  "verildigi_yerler": "Mesleğin temel düzeyde eğitimi, mesleki ve teknik ortaöğretim kurumlarının ilgili alanlarında (örneğin Kimya Teknolojisi alanı) verilmektedir. Çimento sektörüne özgü numune alma, numune hazırlama ve X-ray cihazı kullanımı gibi uygulamalı bilgi ve beceriler ise genellikle işe girildikten sonra işletme içinde mühendis veya deneyimli laborant gözetiminde uygulamalı olarak ya da kısa süreli mesleki eğitim kursları yoluyla kazandırılmaktadır.",
+  "giris_kosullari": [
+   "Ortaokulu tamamlamış olmak",
+   "Mesleki ve teknik ortaöğretim kurumlarının ilgili alan/dalına göre belirlenen giriş koşullarını taşımak"
+  ],
+  "sure_ve_icerik": "Mesleki ve teknik ortaöğretim düzeyinde örgün eğitim 4 yıl sürer. İlk yılda ortak genel kültür dersleri ve alanın temel ortak kazanımlarını içeren dersler verilir, öğrenciler yıl sonunda dal/meslek seçimi yapar. Sonraki sınıflarda alana özgü meslek dersleri okulda teorik ve uygulamalı olarak, işletmelerde ise uygulamalı (staj/beceri eğitimi) şeklinde verilir. Mesleğe özgü X-ray cihazı kullanımı ve çimento analiz teknikleri genellikle iş başında kısa süreli kurslarla ve uygulamalı eğitimle geliştirilir.",
+  "belge": "Mesleki ve teknik ortaöğretim kurumunu tamamlayanlara diploma verilir. İşletme içi eğitim veya kurslara katılanlara kurum tarafından katılım/başarı belgesi düzenlenebilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "gorevler": [
+  "İş sağlığı ve güvenliği, çevre güvenliği ve kalite önlemleri alır,",
+  "Kişisel koruyucu donanım (KKD) kullanır,",
+  "İş süreçlerinde çevre güvenliği önlemleri alır,",
+  "Malzeme, araç-gereç, donanım temin eder,",
+  "Cihaz ve donanımların doğrulamasını yapar,",
+  "Numune alma işlemlerini yürütür, numuneyi alır,",
+  "Hammadde numuneleri, proses numuneleri ve son ürün numuneleri ile diğer numunelerin analizlerini deney talimatlarına göre yapar,",
+  "Muayene ve deney sonrası sonuç işlemlerini yürütür,",
+  "Analiz sonuçlarının standartlara uygunluğunu kontrol eder,",
+  "Analiz sonuçlarını kayıt eder, sonuçlar hakkında ilgili birimlere bilgi verir,",
+  "Çalıştığı ortamın temizlik ve düzenini sağlar,",
+  "Mesleki gelişim faaliyetlerine katılır."
+ ],
+ "benzer_meslekler": [
+  "Kimya Laboratuvarı Teknisyeni/ Kimya Teknisyeni",
+  "Baş Laborant/Kimya Laboratuvarı Sorumlusu",
+  "Çimento Test Elemanı",
+  "Beton Laboratuvar Test Elemanı",
+  "Numune Alma Elemanı",
+  "Kimya Laboratuvarı Görevlisi"
+ ],
+ "ek_bilgiler": "X-ray cihazları (XRF/XRD) düşük düzeyde radyasyon kaynağı içerebildiğinden, bu cihazları kullanan laborantların radyasyondan korunma konusunda bilgilendirilmesi, kişisel koruyucu donanım kullanması ve ilgili güvenlik düzenlemelerine uyması önemlidir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T08:40:25",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6295
+  }
+ }
+}

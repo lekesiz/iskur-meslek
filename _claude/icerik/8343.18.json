@@ -1,0 +1,77 @@
+{
+ "gorevler": [
+  "Transteynir makinesinin yağ, su, yakıt, traka, merdiven ve yürüme yolu ile konteynerlerin istif kontrollerini yapar.",
+  "Konteynerleri almaya gelen tır ve kamyonların yerlerini doğru şekilde almalarını kontrol eder.",
+  "İstif memurlarının yönlendirmesine göre konteynerleri istenilen şekilde istifler.",
+  "Limandan çıkışı istenen konteynerlerin yükleme ve boşaltma işlemlerini yapar.",
+  "Traka yardımıyla konteynerlerin yer değiştirme işlemini yapar.",
+  "Konteynerlerin kamyonlara yüklenmesinde istif memurlarının verdiği komuta göre yükleme ve boşaltma işlemini yapar.",
+  "Gerekli güvenlik önlemlerini alır.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "arac_gerec": [
+  "Transteynir (konteyner istif vinci/gantry tipi vinç)",
+  "Traka (trolley) sistemi ve kumanda kolları",
+  "Spreader (konteyner kaldırma aparatı)",
+  "Kumanda kabini ve kontrol panosu",
+  "Halat, kanca ve bağlantı aparatları",
+  "Telsiz ve haberleşme cihazı",
+  "Kask, koruyucu gözlük, iş eldiveni",
+  "Reflektörlü yelek ve koruyucu iş ayakkabısı",
+  "Gres pompası ve yağdanlık",
+  "Bakım ve kontrol formları",
+  "Temel el aletleri (anahtar takımı, tornavida vb.)",
+  "El feneri"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve tedbirli,",
+  "Sorumluluk sahibi,",
+  "El ve göz koordinasyonunu iyi kullanabilen,",
+  "Yükseklikte ve dar/kapalı kabin içinde çalışmaktan rahatsızlık duymayan,",
+  "Mekanik sistemlere ilgili,",
+  "Çevresindeki uyarıları ve talimatları hızlı şekilde algılayıp uygulayabilen,",
+  "Telsiz ve sözlü yönlendirmeyi doğru takip edebilen,",
+  "Fiziksel ve zihinsel olarak sağlıklı"
+ ],
+ "calisma_ortami": "Transteynir operatörü, limanlardaki konteyner sahalarında, genellikle yerden belirli bir yükseklikte bulunan kapalı kumanda kabini içinde oturarak çalışır. Çalışma ortamı açık havadır; bu nedenle operatör yağmur, rüzgâr, aşırı sıcak veya soğuk gibi hava koşullarının etkisiyle ve liman trafiğinin getirdiği gürültüyle karşılaşabilir. İş, yükseklikte ve hareketli bir araç içinde sürdürüldüğünden dikkatsizlik ciddi kazalara yol açabilir; bu nedenle iş sağlığı ve güvenliği kurallarına titizlikle uyulması gerekir.\n\nLiman operasyonları çoğunlukla kesintisiz (vardiyalı) yürütüldüğünden, meslek mensupları gündüz, gece ve hafta sonu vardiyalarında çalışabilir. Operatör; istif memurları, tır ve kamyon şoförleri, saha amirleri ve bakım personeli ile telsiz ve sözlü iletişim yoluyla sürekli koordinasyon halindedir.",
+ "egitim": {
+  "verildigi_yerler": "Transteynir operatörlüğü için ülke genelinde standart bir örgün eğitim programı bulunmamaktadır. Meslek, genellikle büyük liman işletmelerinin/konteyner terminallerinin kendi bünyesindeki eğitim birimlerinde, özel kurs firmalarında, Halk Eğitim Merkezlerinde ve İŞKUR'un açtığı mesleki eğitim kurslarında ya da işbaşında usta yanında yetiştirilerek kazandırılır.",
+  "giris_kosullari": [
+   "18 yaşını doldurmuş olmak",
+   "En az ilköğretim mezunu olmak",
+   "Yükseklikte ve kapalı kabin içinde çalışmaya, denge ve görme sağlığı açısından operatörlüğe engel olabilecek bir sağlık probleminin bulunmaması",
+   "Bazı işletmelerde iş makinesi/vinç operatörlüğüne ilişkin temel bir sürücü/operatör belgesinin tercih edilmesi veya istenmesi"
+  ],
+  "sure_ve_icerik": "Eğitim süresi ve içeriği, eğitimi veren kuruma ve işletmenin uygulamasına göre değişmektedir. Genel olarak teorik bölümde transteynirin teknik yapısı, kontrol sistemleri, konteyner istifleme kuralları, iş sağlığı ve güvenliği ile haberleşme protokolleri; uygulamalı bölümde ise makinenin fiilen kullanımı, mevcutsa simülatör eğitimi ve iş başında usta yanında uygulama yer alır.",
+  "belge": "Eğitimi başarıyla tamamlayanlara, eğitimi veren kurum tarafından katılım/başarı belgesi veya operatör sertifikası verilebilir. Mesleki Yeterlilik Kurumu (MYK) Ulusal Yeterlilik Belgesi, özellikle büyük liman işletmelerinde istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Transteynir operatörleri, kamuya veya özel sektöre ait konteyner limanları ve liman işletmeleri, lojistik ve taşımacılık şirketleri ile gümrüklü antrepolar bünyesindeki konteyner sahalarında istihdam edilir. Dış ticaret hacmindeki ve konteyner taşımacılığındaki artışa bağlı olarak limanlardaki elleçleme kapasitesinin genişlemesi, bu meslek elemanlarına duyulan ihtiyacı etkileyen başlıca faktördür.",
+ "kazanc": {
+  "egitim_suresince": "İşletme bünyesinde usta yanında yetişme sürecinde genellikle asgari ücret düzeyinde veya işletmenin belirlediği eğitim/stajyerlik ücretiyle çalışılabilir. Bağımsız kurs ve eğitim programlarında ise kazanç söz konusu değildir.",
+  "egitim_sonrasi": [
+   "Kamu kurum/kuruluşlarına bağlı liman işletmelerinde çalışanlar 657 sayılı Kanun'a veya işçi statüsündeyse toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde çalışanların kazancı genellikle asgari ücret düzeyinde başlar; işletmenin büyüklüğü, kişinin deneyimi, bilgi ve becerisi ile sektörün ücret düzeyine göre zamanla artabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğin resmî olarak tanımlanmış bir ilerleme basamağı bulunmamaktadır. Deneyim ve ek eğitimlerle farklı tip vinç ve liman ekipmanlarının (örneğin diğer gantry tipi vinçler) kullanımına yönelik yetkinlik kazanılabilir.",
+  "is_hayatinda": "Deneyim kazandıkça vardiya sorumluluğu, saha şefliği gibi görevlere yükselme imkânı doğabilir. Uzun süreli tecrübe sahibi olanlar, yeni operatörlerin yetiştirilmesinde eğitici/usta olarak görev alabilir."
+ },
+ "benzer_meslekler": [
+  "Gantry Crane Vinç Operatörü",
+  "Liman Vinç Operatörü (RTG ve SSG)",
+  "Liman RTG Operatörü",
+  "Liman SSG Operatörü",
+  "Rıhtım Vinç Operatörü",
+  "Gemi Vinç Operatörü"
+ ],
+ "ek_bilgiler": "Liman operasyonlarının genellikle kesintisiz (7/24) yürütülmesi nedeniyle bu meslekte vardiyalı çalışma yaygındır. İş, yükseklikte ve kapalı kabin içinde sürdürüldüğünden, yükseklik korkusu bulunmayan ve ilgili sağlık muayenelerinden geçmiş kişiler bu meslek için tercih edilmektedir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T18:56:32",
+  "usage": {
+   "input_tokens": 4,
+   "output_tokens": 11197
+  }
+ }
+}

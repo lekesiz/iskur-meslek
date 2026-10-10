@@ -1,0 +1,75 @@
+{
+ "gorevler": [
+  "Müşteri kabul ve randevu işlemlerini gerçekleştirir.",
+  "Servis iş emirlerini oluşturur ve teknik birime iletir.",
+  "Yedek parça ve işçilik faturalandırma süreçlerini yönetir.",
+  "Araç teslimat formlarını ve garanti belgelerini düzenler.",
+  "Servis sonrası müşteri memnuniyeti anketlerini takip eder.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "arac_gerec": [
+  "Bilgisayar ve servis/büro otomasyon yazılımları",
+  "Telefon ve faks cihazı",
+  "Yazıcı, tarayıcı ve fotokopi makinesi",
+  "İş emri formları",
+  "Fatura ve işçilik hesaplama belgeleri",
+  "Araç teslim-tesellüm formları",
+  "Garanti belgesi formları",
+  "Müşteri memnuniyeti anket formları",
+  "Randevu takip çizelgesi/ajanda",
+  "Dosya ve klasör çeşitleri, dosyalama dolabı",
+  "Evrak kayıt defteri",
+  "Kalem, zımba, ataç gibi büro gereçleri"
+ ],
+ "genel_ozellikler": [
+  "Düzgün ve anlaşılır diksiyona sahip,",
+  "Dikkatli ve düzenli çalışabilen,",
+  "İnsan ilişkilerinde başarılı, güler yüzlü,",
+  "Sorumluluk sahibi ve güvenilir,",
+  "Bilgisayar ve ofis programlarını kullanabilen,",
+  "Sabırlı ve stresle baş edebilen,",
+  "Planlı çalışabilen, zamanını iyi yönetebilen,",
+  "Takım çalışmasına uyumlu,"
+ ],
+ "calisma_ortami": "Servis büro elemanı (otomotiv), otomotiv yetkili servisleri, özel oto tamir-bakım işletmeleri veya bayi showroomlarının büro/danışma bölümünde, kapalı ortamda ve genellikle masa başında bilgisayar kullanarak çalışır. Çalıştığı bölüm servis/atölye alanına yakın olduğundan zaman zaman gürültü ve araç bakım kokularıyla karşılaşabilir; esas görev alanı ise büro ortamıdır. Çalışma saatleri işyerinin mesai düzenine bağlıdır, iş yoğunluğuna göre hafta sonu çalışması gerekebilir.\n\nGörevi sırasında müşteriler, teknisyenler, servis danışmanları, yedek parça birimi çalışanları ve yöneticilerle sürekli yüz yüze veya telefon/e-posta yoluyla iletişim kurar. İşin niteliği, dikkat, düzen ve iletişim becerisi gerektirir.",
+ "egitim": {
+  "verildigi_yerler": "Bu meslek için mesleki ve teknik ortaöğretimde ayrı, standart bir alan/dal bulunmamaktadır. Mesleğe genellikle en az ortaöğretim (lise ve dengi) mezuniyeti sonrasında, otomotiv servis/bayi işletmelerinde işbaşında ve usta/deneyimli personel yanında yetişilerek girilmektedir. Ayrıca Halk Eğitim Merkezleri, Mesleki Eğitim Merkezleri ve İŞKUR'un açtığı bilgisayar kullanımı, ofis yönetimi, müşteri ilişkileri ve otomotiv servis hizmetlerine yönelik kısa süreli mesleki eğitim kursları da bu alanda bilgi ve beceri kazandırmaktadır.",
+  "giris_kosullari": [
+   "En az ortaöğretim (lise ve dengi okul) mezunu olmak",
+   "Bilgisayar ve ofis programlarını kullanabiliyor olmak (tercih sebebi)",
+   "Kurs programlarına göre ilgili kurumun belirlediği giriş koşullarını taşımak"
+  ],
+  "sure_ve_icerik": "Meslek için belirli bir süre ve müfredatı tanımlanmış resmî bir eğitim programı bulunmamaktadır. İlgi duyanlar lise öğrenimi sonrasında büro yönetimi, muhasebe, pazarlama ve perakende satış gibi alanlardan mezun olabilir ya da Halk Eğitim Merkezleri, Mesleki Eğitim Merkezleri ve İŞKUR tarafından açılan bilgisayar, müşteri ilişkileri, ofis yönetimi ve otomotiv servis hizmetleri konulu kurslara katılabilir. Mesleğe giriş çoğunlukla otomotiv servis/bayi işletmelerinde işbaşında, deneyimli personel gözetiminde eğitim alınarak gerçekleşir.",
+  "belge": "Mesleki ve teknik lise öğrenimini tamamlayanlara diploma; kurs programlarını tamamlayanlara kurs bitirme/katılım belgesi verilir. Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Servis büro elemanı (otomotiv), otomotiv yetkili servisleri, özel oto tamir-bakım servisleri, otomotiv bayileri ve showroomları, lastik-akü-yedek parça satış ve servis merkezleri gibi işletmelerde büro/idari personel olarak çalışabilir. Ülkedeki araç parkının ve yetkili servis ağının büyümesi bu meslekte istihdam olanaklarını desteklemektedir.",
+ "kazanc": {
+  "egitim_suresince": "Meslek için örgün, standart bir eğitim programı bulunmadığından eğitim dönemine özgü genel bir ücret uygulaması yoktur. Kurslara katılım genellikle ücretsizdir; işletmede stajyer veya işbaşı eğitimi alan kişilere işveren ile yapılan anlaşmaya göre ücret ödenebilir.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Deneyim, işletmenin büyüklüğü ve bulunduğu bölgedeki iş hacmine göre kazanç artabilir.",
+   "Kamuya bağlı kuruluşlarda istihdam durumunda ücret 657 sayılı Devlet Memurları Kanunu veya ilgili toplu iş sözleşmesi hükümlerine göre belirlenir; özel sektörde ücret işveren ile çalışan arasındaki karşılıklı anlaşmaya bağlıdır."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Bu meslek için tanımlı, standart bir mesleki eğitimde ilerleme basamağı bulunmamaktadır. İlgi duyanlar büro yönetimi, muhasebe, pazarlama gibi ilgili alanlarda ön lisans veya lisans eğitimi alarak bilgi ve becerilerini geliştirebilir.",
+  "is_hayatinda": "Deneyim kazandıkça servis danışmanlığı, servis sorumluluğu, müşteri ilişkileri yönetimi veya işletmenin idari/muhasebe birimlerinde daha fazla sorumluluk içeren görevlere yükselebilir."
+ },
+ "benzer_meslekler": [
+  "Servis Büro Elemanı (Teknik Ürünler)",
+  "Büro Yönetimi Elemanı",
+  "Büro Memuru (Genel)",
+  "Diğer Büro Memurları",
+  "İdari Büro Görevlisi",
+  "İdari Destek Görevlisi"
+ ],
+ "ek_bilgiler": "Otomotiv sektöründeki araç sayısının ve yetkili servis ağının büyümesi, bu meslekte istihdam olanaklarını olumlu yönde etkilemektedir. Bilgisayar ve servis/CRM türü yazılımları kullanabilme ile müşteri ilişkilerinde deneyim, özellikle yetkili bayi ve servislerde tercih sebebi olmaktadır.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T15:28:50",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6165
+  }
+ }
+}

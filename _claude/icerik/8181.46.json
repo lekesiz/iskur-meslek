@@ -1,0 +1,73 @@
+{
+ "arac_gerec": [
+  "Kil öğütme makinesi",
+  "Karıştırma (mikser) makinesi",
+  "Konveyör bant veya şüt",
+  "Su besleme ve dozajlama sistemi",
+  "Makine kontrol/ayar panosu",
+  "Nem ve yoğunluk ölçüm aletleri",
+  "Kova, kap ve numune alma ekipmanları",
+  "Yağlama ekipmanı (yağdanlık)",
+  "Çeşitli el aletleri (anahtar takımı, tornavida, pense)",
+  "Koruyucu iş elbisesi, eldiven ve çizme",
+  "Toz maskesi ve kulaklık gibi kişisel koruyucu donanımlar",
+  "El arabası"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve gözlem gücü yüksek,",
+  "Sabırlı ve düzenli çalışabilen,",
+  "Fiziksel olarak dayanıklı,",
+  "Makine ve ekipman kullanımına yatkın,",
+  "El ve göz koordinasyonu iyi,",
+  "Sorumluluk sahibi,",
+  "Toz, nem ve gürültülü ortamda çalışmaya uygun,",
+  "Ekip içinde uyumlu çalışabilen"
+ ],
+ "calisma_ortami": "Kil çamuru hazırlayıcısı, seramik, çini, karo/fayans, porselen veya tuğla-kiremit üretimi yapılan fabrika ve atölyelerin hammadde hazırlama bölümlerinde çalışır. Çalışma kapalı mekanlarda, genellikle ayakta ve makinelerin başında yürütülür; ortamda toz, nem ve makine gürültüsü bulunabilir, bu nedenle kişisel koruyucu donanım kullanımı önemlidir. Dönüşümlü makine çalışması nedeniyle vardiyalı çalışma düzeni görülebilir.\n\nÇalışma sırasında işletmenin diğer üretim birimlerindeki işçiler, ustabaşı ve bakım personeli ile iş birliği içinde hareket edilir. İşçi sağlığı ve iş güvenliği kurallarına uyum, dönen ve hareketli makine parçaları nedeniyle özel önem taşır.",
+ "gorevler": [
+  "Hammaddelerin makineye akışını düzenler.",
+  "Plastik kil hamurunun yoğunluğunu ve niteliğini, şüt veya konveyör bandı üzerinde makineden çıktığı sırada gözle veya elle muayene eder.",
+  "Öğütme inceliğini değiştirmek veya kile karışacak su nispetini tespit etmek üzere makinede basit ayarlar yapar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Bu meslek için örgün eğitim kurumlarında ayrı bir diploma programı bulunmamaktadır. Meslek, genellikle seramik, çini veya tuğla-kiremit üretimi yapan işyerlerinde işbaşında usta yanında yetiştirilerek öğrenilir. Ayrıca Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kurslarında seramik/cam ve inşaat malzemeleri üretimine yönelik temel düzey kurslar meslekle ilgili temel bilgi ve becerilerin kazanılmasına katkı sağlayabilir.",
+  "giris_kosullari": [
+   "İlköğretim mezunu olmak (mesleğin gerektirdiği minimum eğitim düzeyi)",
+   "Fiziksel olarak makine başında çalışmaya uygun olmak",
+   "İşbaşı eğitimler için ilgili işyerinin kabul koşullarını sağlamak"
+  ],
+  "sure_ve_icerik": "Mesleğin işbaşında kazanılması durumunda süre, işyerinin büyüklüğüne ve kullanılan makinelerin özelliğine göre değişmektedir. Eğitim süresince hammaddenin özellikleri, kil çamurunun kıvam ve yoğunluk kontrolü, öğütme ve karıştırma makinelerinin çalışma prensibi, makinede basit ayar yapma, iş sağlığı ve güvenliği kuralları gibi konular uygulamalı olarak öğretilir.",
+  "belge": "Resmî bir diploma veya örgün eğitim belgesi bulunmamaktadır. Halk Eğitim Merkezleri veya İŞKUR kurslarına katılım durumunda 'Kurs Bitirme Belgesi' verilebilir; işyerinde yetişenler ise genellikle çalışma/deneyim belgesi ile mesleğini sürdürür."
+ },
+ "calisma_alanlari": "Kil çamuru hazırlayıcıları; seramik, çini, karo ve fayans, porselen, sağlık gereçleri (lavabo, klozet vb.) ile tuğla-kiremit gibi kil ve kaolin esaslı hammadde kullanılan üretim tesislerinin hammadde hazırlama bölümlerinde iş bulabilirler. Bu sektörler ülkemizde özellikle belirli bölgelerde yoğunlaşmış olup, üretim hacmine göre istihdam olanağı değişkenlik gösterir.",
+ "kazanc": {
+  "egitim_suresince": "Meslek işbaşında usta yanında öğrenildiği için, çıraklık/stajyerlik döneminde işyerinin uygulamasına göre düşük düzeyde bir ücret ödenebilir veya herhangi bir kazanç söz konusu olmayabilir. Kurs yoluyla eğitim alınması durumunda genellikle bir kazanç bulunmaz.",
+  "egitim_sonrasi": [
+   "İşe başlangıçta genellikle asgari ücret düzeyinde kazanç sağlanır.",
+   "Deneyim, işyerindeki konum ve işletmenin uygulamasına göre ücret artış gösterebilir.",
+   "Bu meslekte kamu kurumlarında istihdam yaygın değildir; çalışma büyük ölçüde özel sektör üretim tesislerinde gerçekleşir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Meslek için ayrı bir kademeli örgün eğitim basamağı bulunmamaktadır; ilgili mesleki ve teknik eğitim kurumlarının seramik/cam veya malzeme teknolojisi alanlarında eğitim alınması, bilgi ve beceriyi artırarak mesleki gelişime katkı sağlayabilir.",
+  "is_hayatinda": "İş başında kazanılan deneyimle makine operatörlüğüne, ustabaşılığa, vardiya amirliğine veya üretim bölüm sorumluluğuna doğru ilerleme olanağı bulunur. Farklı makine ve üretim süreçlerini öğrenmek, kariyer ilerlemesinde etkili olmaktadır."
+ },
+ "benzer_meslekler": [
+  "Kil Hamur Makinesi Operatörü",
+  "Kil Hamuru Vakum Makinesi İşçisi",
+  "Kil Şerbeti Hazırlama Makinesi Operatörü",
+  "Kaya ve Kil Öğütme İşçisi",
+  "Seramik Çamur Eleme İşçisi",
+  "Kil Çekme Pres Makinesi Operatörü"
+ ],
+ "ek_bilgiler": "Çalışma ortamında oluşabilecek toz, bu meslekte çalışanların solunum yolu sağlığını koruması için kişisel koruyucu donanım kullanımını önemli kılmaktadır. Mesleki Yeterlilik Kurumu (MYK) belgesi, iş bulma ve istihdamda tercih sebebi olabilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T16:54:58",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 4814
+  }
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "arac_gerec": [
+  "Telesiyej sistemi (koltuk/kabin düzeneği)",
+  "Ana kumanda paneli",
+  "Güvenlik frenleri ve acil durdurma düğmeleri",
+  "Çekme halatı ve makaralar",
+  "Telsiz veya diğer haberleşme cihazları",
+  "Rüzgâr ölçer ve hava durumu takip cihazları",
+  "Yağlama ekipmanları (gres pompası, yağdanlık vb.)",
+  "Kişisel koruyucu donanım (kask, eldiven, gözlük, mont, kar bottu)",
+  "İlk yardım malzemeleri",
+  "Acil tahliye ve iniş ekipmanları",
+  "Bakım ve kontrol kayıt defteri",
+  "El feneri"
+ ],
+ "benzer_meslekler": [
+  "Diğer Vinç ve Ceraskal Operatörleri",
+  "Taşıma Teçhizatı Operatörleri",
+  "Konveyör Operatörü",
+  "Kaldırma Yükleme (Personel ve Yük Yükseltici) Operatörü"
+ ],
+ "calisma_alanlari": "Telesiyej operatörleri başlıca kayak merkezleri, dağ turizmi tesisleri ve teleferik hattı bulunan turistik işletmelerde görev alırlar. Bu işletmeler kamuya (belediyeler, kamu iktisadi teşekkülleri) veya özel sektöre ait olabilir.\n\nÇalışma genellikle mevsimsel niteliktedir; kış sporları sezonunda yoğunlaşır, bazı yaz turizmine açık teleferik hatlarında ise yıl boyu istihdam söz konusu olabilir. Kayak merkezlerinin ve dağ turizminin yaygınlaşması, mevcut tesislerin kapasite artırımı ve yeni tesislerin açılması meslek elemanlarına duyulan ihtiyacı etkileyen başlıca unsurlardır.",
+ "calisma_ortami": "Telesiyej operatörü işini genellikle açık havada, yüksek rakımlı dağlık alanlarda, kumanda kulübesi veya istasyon noktasında ayakta ya da oturarak yürütür. Çalışma ortamı soğuk, karlı, rüzgârlı ve zaman zaman görüş mesafesinin düşük olduğu koşulları içerebilir. Yükseklik, donma ve mekanik arıza gibi riskler nedeniyle dikkatli ve tedbirli çalışmak büyük önem taşır.\n\nÇalışma saatleri tesisin işletme programına göre değişir; hafta sonları, resmî tatiller ve kış sezonunda yoğun mesai söz konusu olabilir, vardiyalı çalışma yaygındır. Operatör, görevi gereği yolcularla (kayakçılar, ziyaretçiler) sürekli etkileşim halindedir; ayrıca tesis yöneticileri, diğer görevliler ve teknik bakım ekibiyle sık sık iletişim kurar.",
+ "egitim": {
+  "verildigi_yerler": "Telesiyej operatörlüğü için resmî olarak tanımlanmış, standart bir örgün mesleki eğitim programı bulunmamaktadır. Meslek genellikle kayak merkezi veya teleferik işletmesi bünyesinde işbaşında, deneyimli bir usta/teknik sorumlu gözetiminde uygulamalı olarak öğrenilir. Sistemi kuran veya bakımını yapan üreticifirmaların düzenlediği teknik eğitimler ile Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kursları da bu alanda bilgi ve beceri kazandırabilir.",
+  "giris_kosullari": [
+   "18 yaşını doldurmuş olmak",
+   "En az ilköğretim mezunu olmak",
+   "Yüksekte ve soğuk havada çalışmaya engel sağlık sorunu bulunmamak",
+   "İşe alınacağı işletmenin aradığı diğer koşulları (fiziksel uygunluk, işe giriş muayenesi vb.) taşımak"
+  ],
+  "sure_ve_icerik": "Standart bir eğitim süresi tanımlanmamıştır. İşletme içi oryantasyon ve usta yanında uygulamalı eğitim genellikle birkaç haftadan birkaç aya kadar sürebilir. Bu süreçte sistemin teknik yapısı ve çalışma prensibi, ana kumanda paneli ve güvenlik frenlerinin kullanımı, hava koşullarının takibi, halat-makara-koltuk kontrolleri, yolcu biniş-iniş güvenliği, acil durum ve tahliye protokolleri ile temel ilk yardım konularında bilgi ve beceri kazandırılır. Üretici firmalar tarafından verilen teknik sistem eğitimleri de süreci tamamlayıcı niteliktedir.",
+  "belge": "Eğitim sonunda genellikle işletme veya eğitimi veren kurum tarafından katılım ya da yeterlilik belgesi verilir. Standart bir diploma veya ehliyet uygulaması bulunmamaktadır; ancak Mesleki Yeterlilik Kurumu (MYK) tarafından düzenlenmiş bir belge bulunması durumunda bu belge istihdamda tercih sebebi olabilir."
+ },
+ "ek_bilgiler": "Meslek, kayak merkezlerinin ve dağ turizmi tesislerinin bulunduğu bölgelerle sınırlı, çoğunlukla mevsimsel/dönemsel bir istihdam alanıdır. Yüksekte, soğuk ve değişken hava koşullarında çalışma gerektirdiğinden iş sağlığı ve güvenliği kurallarına, acil durum ve tahliye prosedürlerine tam olarak hâkim olmak hayati önem taşır.",
+ "genel_ozellikler": [
+  "Dikkatli ve tedbirli,",
+  "Sorumluluk sahibi,",
+  "Kriz anında soğukkanlı ve hızlı karar verebilen,",
+  "Çevredeki çeşitli uyarıcıları aynı anda algılayabilen,",
+  "El ve gözlerini eşgüdümle kullanabilen,",
+  "Fiziksel olarak dayanıklı, yüksekte ve soğuk havada çalışmaya uygun,",
+  "İnsanlarla iyi iletişim kurabilen,",
+  "Mekaniğe ve teknik sistemlere ilgi duyan"
+ ],
+ "gorevler": [
+  "Sistem ana kumanda panelini ve güvenlik frenlerini kontrol eder.",
+  "Yolcuların güvenli şekilde biniş ve iniş yapmalarına yardımcı olur.",
+  "Hava durumunu izleyerek riskli koşullarda sistemi durdurur.",
+  "Halat, makara ve koltukların günlük teknik muayenesini yapar.",
+  "Acil tahliye protokollerini bilir ve kriz anında uygular.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Meslekte belirli, basamaklı bir mesleki eğitim ilerleme sistemi bulunmamaktadır. Deneyim kazandıkça ve ek teknik eğitimler alındıkça sistem bakım-onarım konularında bilgi ve beceri geliştirilebilir.",
+  "is_hayatinda": "Deneyim kazanan ve işletmenin güvenini sağlayan operatörler, vardiya sorumluluğu, tesis bakım-teknik sorumluluğu veya tesis işletme yöneticiliği gibi görevlere yükselebilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "İşbaşında yapılan uygulamalı eğitim süresince, işletmeye bağlı olarak sınırlı bir ücret ödenebilir ya da kazanç elde edilemeyebilir.",
+  "egitim_sonrasi": [
+   "Kamuya bağlı işletmelerde (belediye vb.) çalışanlar, memur statüsündeyse 657 sayılı Devlet Memurları Kanunu'na, işçi statüsündeyse ilgili toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde yeni başlayanların kazancı genellikle asgari ücret düzeyindedir; deneyim, işletmenin büyüklüğü ve çalışılan bölgenin turizm yoğunluğuna göre bu düzey değişebilir.",
+   "Mevsimsel/dönemsel çalışma şekli, yıllık toplam kazancı etkileyebilir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T19:02:02",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5884
+  }
+ }
+}

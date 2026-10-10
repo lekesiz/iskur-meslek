@@ -1,0 +1,76 @@
+{
+ "arac_gerec": [
+  "Bant konveyör, zincirli konveyör vb. taşıyıcı sistemler",
+  "Konveyör kumanda ve kontrol panosu",
+  "Elektrik motoru ve tahrik/redüktör tertibatı",
+  "Konveyör oluk/boru ayar düzenekleri",
+  "Otomatik tartı (baskül) sistemi",
+  "Yağlama ekipmanları (gres pompası, yağdanlık)",
+  "El aletleri (anahtar takımı, tornavida, pense vb.)",
+  "Numune alma kapları ve ekipmanları",
+  "Kayıt ve raporlama formları/bilgisayar",
+  "Haberleşme cihazları (telsiz, telefon)",
+  "Kişisel koruyucu donanım (kask, eldiven, koruyucu gözlük, kulaklık, iş elbisesi, iş ayakkabısı)"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve tedbirli,",
+  "Sorumluluk sahibi,",
+  "El ve gözünü eşgüdümle kullanabilen,",
+  "Mekanik ve teknik konulara ilgili,",
+  "Fiziksel olarak sağlıklı ve dayanıklı,",
+  "Takım çalışmasına uyumlu,",
+  "Çevresindeki uyarıları hızla fark edip tepki verebilen,",
+  "Vardiyalı çalışmaya uygun"
+ ],
+ "calisma_ortami": "Konveyör operatörü, malzemenin niteliğine göre fabrika, maden ocağı, liman, depo veya şantiye gibi kapalı veya açık alanlarda çalışır. Çalışma ortamı tozlu, gürültülü, titreşimli olabilir; sıcak, soğuk, nemli veya rüzgârlı koşullarda görev yapılması söz konusu olabilir. Hareketli aksamlar ve nakledilen malzemeler nedeniyle iş kazası riski bulunduğundan iş sağlığı ve güvenliği kurallarına titizlikle uyulması gerekir.\n\nMeslek genellikle vardiyalı sistemde ve ayakta, bazen hareket halinde yürütülür. Operatör; vardiya arkadaşları, ustabaşı, bakım-onarım personeli ve işyeri yöneticileri ile sürekli iletişim halindedir.",
+ "gorevler": [
+  "Malzeme ya da mamulleri konveyöre yükler veya yüklenmesine nezaret eder,",
+  "Konveyör girişini düzenler,",
+  "Malzemenin depo veya silolardan akışını sağlamak üzere konveyör oluğunu veya borusunu ayarlar,",
+  "Konveyörü çalıştırır ve malzemenin bant üzerindeki hareket süratini ayarlar,",
+  "Konveyörün otomatik tartısını ayarlar veya belirli zamanlarda belirli miktarlardaki malzemeyi bantlardan almak için bandı durdurur,",
+  "Konveyörün normal çalışmasını sağlamak üzere malzeme akışına nezaret eder,",
+  "Konveyörde arıza olup olmadığını kontrol eder ve hareketli kısımlarını yağlar,",
+  "Nakledilen malzemenin tipini ve özelliklerini, işlem süresini ve teçhizatın durumunu belirleyen kayıtlar tutar,",
+  "Laboratuvar analizleri için konveyörle nakledilen malzemelerden örnekler alır,",
+  "Konveyörün ufak arızalarını el aletleri kullanarak tamir eder,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi için resmî olarak tanımlanmış örgün bir program bulunmamaktadır. Meslek elemanları genellikle işyerlerinde işbaşında usta yanında yetişerek veya İŞKUR ve Halk Eğitim Merkezlerinin açtığı mesleki eğitim kurslarına katılarak bu mesleği öğrenirler. Mesleki ve Teknik Anadolu Liselerinin makine/metal teknolojisi gibi ilgili alanlarından mezun olanlar da konuyla ilgili temel bilgi birikimine sahip olarak işe başlayabilir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "18 yaşını doldurmuş olmak",
+   "Bedenen çalışmaya uygun, işitme ve görme engeli bulunmamak",
+   "Vardiyalı ve hareketli ortamda çalışmaya uygun olmak"
+  ],
+  "sure_ve_icerik": "Eğitimin süresi ve içeriği, verildiği kuruma ve işyerine göre değişmektedir. İşbaşı eğitiminde konveyör sistemlerinin çalışma prensipleri, malzeme akış kontrolü, basit bakım-onarım işlemleri ve iş sağlığı ve güvenliği kuralları öğretilir. İŞKUR ve Halk Eğitim Merkezlerinin açtığı kurslarda da benzer konular teorik ve uygulamalı olarak işlenir.",
+  "belge": "Kursu tamamlayanlara katılım/başarı belgesi verilir. Ayrıca işyerlerinde iş sağlığı ve güvenliği mevzuatı gereği temel iş güvenliği eğitimi sertifikasının alınması gerekir."
+ },
+ "calisma_alanlari": "Konveyör operatörleri; madenler, limanlar, fabrikalar, çimento ve gıda üretim tesisleri, depolar, inşaat malzemesi üretim tesisleri gibi malzeme naklinin yoğun olduğu kamu ve özel sektör işyerlerinde çalışabilirler. Sanayi, lojistik ve madencilik sektörlerindeki üretim hacmine bağlı olarak meslek elemanlarına ihtiyaç duyulmaktadır.",
+ "kazanc": {
+  "egitim_suresince": "Meslek genellikle işbaşında öğrenildiğinden kişi, çalıştığı işyerinden ücret alarak mesleği öğrenir. İŞKUR veya Halk Eğitim Merkezlerinin açtığı kurslara katılım sürecinde ise kazanç elde edilmez.",
+  "egitim_sonrasi": [
+   "Kamu kurum ve kuruluşlarında çalışanlar, memur statüsündeyse 657 sayılı Devlet Memurları Kanunu'na, işçi statüsündeyse ilgili toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar; işyerinin büyüklüğü, çalışılan sektör ve kişinin deneyimi arttıkça kazanç da değişebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Meslekte örgün bir ilerleme basamağı bulunmamaktadır. Deneyim kazanan operatörler, ek kurs ve eğitimlerle farklı taşıma/konveyör sistemleri veya ilgili makine operatörlüğü alanlarında yetkinliklerini artırabilir.",
+  "is_hayatinda": "Deneyim ve performansına göre operatör; vardiya sorumlusu, ustabaşı veya bakım-onarım ekibinde görevli personel gibi pozisyonlara yükselebilir."
+ },
+ "benzer_meslekler": [
+  "Diğer Malzeme Taşıma Makinesi Operatörleri",
+  "Taşıma Teçhizatı Operatörleri",
+  "Monoray Operatörü"
+ ],
+ "ek_bilgiler": "Konveyör operatörlüğü; maden ocağı, liman ve ağır sanayi tesisleri gibi tehlikeli veya çok tehlikeli iş sınıfında yer alabilen ortamlarda da yürütülebilir. Bu gibi işyerlerinde Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T18:59:56",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5888
+  }
+ }
+}

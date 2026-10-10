@@ -1,0 +1,75 @@
+{
+ "arac_gerec": [
+  "Türbin kumanda ve kontrol panoları",
+  "Gösterge ve ölçü aletleri (devir, basınç, sıcaklık göstergeleri)",
+  "Otomatik regülatör sistemleri",
+  "Tevzi tablosu/kumanda masası ekipmanları",
+  "Senkronizasyon cihazları",
+  "Haberleşme cihazları (telsiz, telefon, dahili anons sistemi)",
+  "Vardiya ve işletme kayıt defterleri/formları",
+  "Acil durdurma ve alarm sistemleri",
+  "Yağlama ve soğutma sistemi kontrol üniteleri",
+  "Kişisel koruyucu donanım (baret, koruyucu gözlük, kulaklık, eldiven, iş elbisesi, çelik burunlu ayakkabı)"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve tedbirli,",
+  "Sorumluluk duygusu gelişmiş,",
+  "Teknik sistemlere ve makinelere ilgili,",
+  "Hızlı ve doğru karar verebilen,",
+  "Ekip çalışmasına uyumlu,",
+  "Vardiyalı ve düzensiz çalışma saatlerine fiziksel ve psikolojik olarak dayanıklı,",
+  "Matematiksel ve mekanik kavramlara ilgili,",
+  "Acil ve stresli durumlarda soğukkanlı kalabilen,"
+ ],
+ "calisma_ortami": "Termik Santral Türbin İşletme Operatörü, santralin türbin dairesinde ve kumanda odasında, çoğunlukla kapalı ortamda çalışır. Çalışma ortamında yüksek ısı, buhar basıncı, gürültü ve dönen mekanik aksamın bulunduğu alanlar söz konusu olduğundan iş kazası riski (yanık, buhar kaçağı, elektrik çarpması gibi) bulunur. Üretim sürekliliği gerektiren bir meslek olduğu için genellikle vardiya sistemiyle (gündüz, gece, hafta sonu dahil) 24 saat kesintisiz çalışma düzeni uygulanır.\n\nGörevini yerine getirirken kazan operatörü, tevzi tablosu operatörü, vardiya amiri ve diğer santral çalışanlarıyla sürekli ve yakın iletişim halindedir; türbinin durumuna ilişkin bilgi aktarımı ve koordinasyon büyük önem taşır.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğe yönelik ayrı bir meslek lisesi alanı/dalı bulunmamaktadır. Mesleğin gerektirdiği minimum eğitim düzeyi ortaöğretim (lise ve dengi) olup, bu mesleğe genellikle meslek ve teknik liselerin enerji, elektrik-elektronik teknolojisi veya makine teknolojileri gibi ilgili alanlarından mezun olunduktan sonra, işe girişte işletme bünyesinde verilen usta yanında/işbaşı eğitimle geçilmektedir. Ayrıca İŞKUR ve çeşitli kurumlarca açılan mesleki eğitim kursları da bu alanda bilgi ve beceri kazandırabilir.",
+  "giris_kosullari": [
+   "Ortaokulu tamamlamış olmak ve ilgili ortaöğretim alan/dalına Millî Eğitim Bakanlığınca belirlenen giriş koşullarını taşımak",
+   "Lise veya dengi okul mezunu olmak",
+   "İşletme tarafından istenen fiziksel ve sağlık şartlarını (işitme, görme, genel sağlık durumu vb.) taşımak"
+  ],
+  "sure_ve_icerik": "İlgili meslek lisesi alanlarında eğitim süresi 4 yıldır; bu süreçte genel kültür dersleri ile alana yönelik teorik ve uygulamalı meslek dersleri verilir. Mezuniyet sonrasında işe başlayan kişiler, santral bünyesinde türbin sistemleri, kumanda ekipmanları, iş sağlığı ve güvenliği konularında işbaşında/usta yanında uygulamalı kurum içi eğitimlerden geçirilir. Bu eğitim süreci işletmeden işletmeye farklılık gösterebilir.",
+  "belge": "İlgili alandan mezun olunması halinde meslek lisesi diploması; ayrıca işe giriş sonrasında işletme tarafından verilen iş güvenliği ve santral işletme eğitimlerine ilişkin kurum içi sertifikalar/belgeler alınabilir."
+ },
+ "calisma_alanlari": "Termik Santral Türbin İşletme Operatörleri, kömür, doğalgaz veya fuel-oil yakıtlı termik santrallerde, elektrik üretimi yapan kamu ve özel sektör enerji üretim tesislerinde istihdam edilir. Çalışma alanı santralin bulunduğu bölgeyle sınırlı olup, yeni santral yatırımlarının yapıldığı illerde iş bulma olanakları artabilir. Enerji sektöründeki yatırımların ve üretim kapasitesinin genişlemesi, meslekte istihdam olanaklarını etkileyen başlıca unsurdur.",
+ "kazanc": {
+  "egitim_suresince": "Mesleki eğitimi meslek lisesinde sürdüren öğrenciler, 3308 sayılı Mesleki Eğitim Kanunu kapsamında işletmelerde yaptıkları staj/mesleki eğitim karşılığında ücret alırlar; bu süreçte iş kazası ve meslek hastalığı sigorta primleri devletçe karşılanır.",
+  "egitim_sonrasi": [
+   "Özel sektörde çalışanların ücreti işletmenin büyüklüğü, çalışanın bilgi, beceri ve deneyimine göre karşılıklı anlaşma ile belirlenir; yeni başlayanlarda ücret genellikle asgari ücret düzeyinde olup deneyimle birlikte artış gösterir.",
+   "Kamu kurumlarına bağlı santrallerde işçi statüsünde çalışanların ücreti, ilgili toplu iş sözleşmesi hükümlerine göre belirlenir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Meslek lisesi mezunları, ilgili alanın devamı niteliğindeki enerji sistemleri, elektrik-elektronik veya makine mühendisliği gibi önlisans/lisans programlarına yönelebilir; yükseköğretime giriş sınavlarında başarılı oldukları takdirde bu programlara yerleşebilirler.",
+  "is_hayatinda": "Mesleki bilgi ve deneyimini artıran operatörler, kıdem ve performanslarına bağlı olarak baş operatör, vardiya amiri veya santral şef yardımcısı gibi görevlere yükselebilirler."
+ },
+ "benzer_meslekler": [
+  "Termik Santral Elektrik İşletme Operatörü",
+  "Elektrik Tevzii Tablosu Operatörü-Enerji Merkezi",
+  "Termik Santral Kazan İşletme Operatörü",
+  "Hidroelektrik Santral Operatörü",
+  "Termik Santral Saha Operatörü",
+  "Termik Santral Kumanda Operatörü"
+ ],
+ "ek_bilgiler": "Mesleğin yürütüldüğü yüksek ısı, basınç ve elektrik riski taşıyan ortamlar nedeniyle işyerlerinde iş sağlığı ve güvenliği uygulamalarına özel önem verilmektedir. Mesleki Yeterlilik Kurumu (MYK) belgesi, bu alanda istihdamda tercih sebebi olabilir.",
+ "gorevler": [
+  "Türbini çalıştırır veya çalıştırılması için yardımcılarına emir verir.",
+  "Türbini belirli bir süre ağır bir devir altında çalıştırır.",
+  "Türbin tam devirle çalışmaya hazır olunca durumu tevzi tablosu operatörüne bildirir.",
+  "Türbinin hızını artırır ve otomatik regülatörün türbini doğru bir devirde tutmasına dikkat eder.",
+  "Tevzi tablosu operatörüne türbinin diğer gruplarla senkronize edilmeye hazır olduğunu bildirir.",
+  "Gösterge ve ölçü aletlerini gözleyerek türbinin yüklenip yüklenemeyeceğini kestirir ve verimli olarak çalışıp çalışmayacağını kontrol eder.",
+  "Türbinin çıkış gücünü azaltıp çoğaltır ve gerekli ayarları yapar.",
+  "Gösterge değerlerini kaydeder.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T10:41:42",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5560
+  }
+ }
+}

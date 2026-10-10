@@ -1,0 +1,83 @@
+{
+ "arac_gerec": [
+  "Vanalar ve vana kontrol üniteleri",
+  "Pompalar ve pompa istasyonları",
+  "Boru hatları ve bağlantı ekipmanları",
+  "Depolama tankları ve tank gözetleme sistemleri",
+  "Basınç ölçüm cihazları (manometre)",
+  "Sıcaklık ölçüm cihazları",
+  "Seviye göstergeleri (şamandıralı, basınçlı vb.)",
+  "Akış ölçüm cihazları (debimetre/flowmetre)",
+  "Numune alma ekipmanları ve numune kapları",
+  "Gaz dedektörleri ve alarm sistemleri",
+  "Dolum kolları (kara ve deniz dolum ekipmanları)",
+  "Kontrol odası paneli ve izleme/otomasyon (SCADA) sistemleri",
+  "Telsiz ve haberleşme cihazları",
+  "Kişisel koruyucu donanım (yangına dayanıklı giysi, baret, eldiven, gaz maskesi, emniyet ayakkabısı)",
+  "Yangınla mücadele ve acil durum ekipmanları"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve tedbirli,",
+  "Sorumluluk sahibi,",
+  "Talimat ve prosedürlere titizlikle uyan,",
+  "Ekip halinde çalışmaya uygun,",
+  "Hızlı ve doğru karar verebilen,",
+  "Fiziksel olarak dayanıklı,",
+  "Vardiyalı ve düzensiz çalışma saatlerine uyum sağlayabilen,",
+  "İş sağlığı ve güvenliği kurallarına duyarlı"
+ ],
+ "calisma_ortami": "Petrol ve Ürünleri Elleçleme Operatörü, başta petrol rafinerileri olmak üzere akaryakıt depolama ve dolum tesisleri, terminal ve liman sahalarında çalışır. Görevini hem açık havada (tank sahası, iskele, dolum alanları) hem de kapalı mekanlarda (kontrol odası) yerine getirir. Çalışma ortamı genellikle gürültülü olup havada petrol ve kimyasal madde kokusu bulunabilir; parlayıcı ve patlayıcı maddelerle çalışıldığından yangın ve patlama riski yüksektir, bu nedenle kişisel koruyucu donanım kullanımı ve iş güvenliği kurallarına eksiksiz uyulması gerekir.\n\nÇalışma genellikle vardiyalı sistemle (gece, gündüz, hafta sonu dahil) yürütülür. Görevi sırasında mühendisler, teknikerler, diğer operatörler, vardiya amirleri ve bazen deniz/kara araçlarının personeli ile sürekli iletişim ve koordinasyon içindedir.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğe giriş için resmî olarak tanımlanmış, zorunlu ayrı bir okul programı bulunmamaktadır; gereken minimum eğitim düzeyi ortaöğretim (lise ve dengi) mezuniyetidir. Meslek liselerinin kimya, petrokimya veya ilgili teknik alanlarından mezun olmak ya da üniversitelerin meslek yüksekokullarına bağlı 'Petrol ve Doğalgaz Teknolojisi' gibi ön lisans programlarından mezun olmak işe girişte tercih sebebi olabilir. Mesleğin gerektirdiği bilgi ve beceriler büyük ölçüde işe alındıktan sonra işletme bünyesinde verilen oryantasyon eğitimleri ve işbaşında, deneyimli operatör gözetiminde kazanılmaktadır.",
+  "giris_kosullari": [
+   "Lise veya dengi okul mezunu olmak",
+   "İşletmelerin açtığı personel alım sınav ve/veya mülakatlarında başarılı olmak",
+   "Sağlık durumunun vardiyalı çalışmaya ve sahada fiziksel olarak görev yapmaya uygun olması"
+  ],
+  "sure_ve_icerik": "Mesleğe lise mezuniyeti ile girilebilmektedir. İşe yeni başlayanlara işletme bünyesinde iş sağlığı ve güvenliği, yangınla mücadele, kimyasal madde elleçleme, vana ve pompa operasyonları, numune alma teknikleri ve acil durum prosedürlerine ilişkin teorik ve uygulamalı oryantasyon eğitimleri verilir. Bu eğitimlerin ardından belirli bir süre deneyimli bir operatörün gözetiminde (usta yanında) sahada uygulamalı olarak çalışılır. Mesleki bilgi ve beceriler, kariyer boyunca işletmenin düzenlediği periyodik iş güvenliği, çevre ve operasyon yenileme eğitimleriyle güncellenir.",
+  "belge": "Eğitim sürecini tamamlayanlara genellikle işletme tarafından iç eğitim/katılım belgesi verilir. Ayrıca iş sağlığı ve güvenliği mevzuatı kapsamında görev yapılan alanın tehlike sınıfına göre iş güvenliği, yangın ve ilkyardım gibi konularda eğitim belgeleri alınması gerekebilir. Mesleki Yeterlilik Kurumu (MYK) Mesleki Yeterlilik Belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Petrol ve Ürünleri Elleçleme Operatörleri başta petrol rafinerileri olmak üzere, akaryakıt dolum ve depolama tesislerinde, liman ve terminal işletmelerinde, petrokimya tesislerinde çalışabilirler. Kamuya veya özel sektöre ait büyük ölçekli enerji ve petrol şirketlerinde istihdam edilmektedirler. Türkiye'de enerji talebi ve akaryakıt dağıtım ağının büyüklüğü nedeniyle bu alanda belirli bir istihdam hacmi bulunmakla birlikte, sektördeki yeni tesis yatırımlarının sınırlı sayıda olması nedeniyle iş bulma olanakları, mevcut tesislerdeki personel devrine ve üretim kapasitesine bağlı olarak değişmektedir.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğin eğitimi genellikle iş başında, çalışılan işletme bünyesinde verildiğinden, eğitim/oryantasyon süresince genellikle normal ücret veya stajyer ücreti ödenir; bu durum işletmeden işletmeye farklılık gösterebilir.",
+  "egitim_sonrasi": [
+   "Kamu kurum ve kuruluşlarına bağlı tesislerde çalışanlar, memur statüsünde 657 sayılı Devlet Memurları Kanunu'na, işçi statüsünde ise ilgili toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde kazanç; işyerinin büyüklüğü, çalışanın deneyimi, bilgi ve becerisi ile sektördeki ücret düzeyine göre değişebilmektedir.",
+   "Mesleğe yeni başlayanların kazancı genellikle asgari ücret düzeyinde olmakla birlikte, vardiya, fazla mesai ve risk tazminatı gibi ek ödemeler toplam kazancı artırabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleki eğitimde dikey ilerleme imkânı resmî olarak tanımlanmamıştır. Ancak isteyen operatörler açık öğretim veya örgün eğitim yoluyla 'Petrol ve Doğalgaz Teknolojisi' gibi ilgili ön lisans programlarını tamamlayarak tekniker unvanı edinebilir ve bu şekilde mesleki bilgi birikimlerini ve kariyer olanaklarını güçlendirebilirler.",
+  "is_hayatinda": "Petrol ve Ürünleri Elleçleme Operatörü, deneyim ve bilgi birikimini artırdıkça kıdemli operatör, vardiya amiri, saha sorumlusu veya operasyon şefi gibi görevlere yükselebilir. İlgili ek eğitimleri tamamlayanlar denetim, planlama ya da eğitim sorumluluğu gerektiren pozisyonlara geçebilir."
+ },
+ "benzer_meslekler": [
+  "Rafineri ve Petrokimya Teknikeri",
+  "Diğer Petrol Rafine İşçileri",
+  "Petrol-Gaz Üretim Operatörü",
+  "Pompacı (Petrol Rafinesi)",
+  "Kontrolör (Petrol Rafinesi)",
+  "Arıtma Tesisi İşletme Operatörü"
+ ],
+ "ek_bilgiler": "Bu meslek, parlayıcı ve patlayıcı özellikteki petrol ürünleriyle çalışmayı içerdiğinden iş sağlığı ve güvenliği mevzuatı kapsamında genellikle tehlikeli/çok tehlikeli işler sınıfında değerlendirilmektedir. Bu nedenle çalışanların periyodik sağlık muayeneleri, düzenli iş güvenliği eğitimleri ve kişisel koruyucu donanım kullanımı önem taşır. Mesleğin vardiyalı çalışma düzeninde yürütülmesi nedeniyle gece ve hafta sonu çalışmasına uygunluk önemli bir kriterdir.",
+ "gorevler": [
+  "İş sağlığı ve güvenliği (İSG) ile çevre koruma önlemlerini uygular.",
+  "Kalite gerekliliklerini uygular.",
+  "İş organizasyonu yapar.",
+  "Tesiste sorumlu olduğu sahanın kontrolünü yapar.",
+  "Rutin elleçleme operasyonları kapsamında yedek ve acil durum ekipmanının çalışırlık kontrolünü yapar.",
+  "Elleçleme kapsamında vana operasyonu yapar.",
+  "Elleçleme kapsamında kimyasal yükleme/tahliye yapar.",
+  "Numune alır.",
+  "Rutin dışı elleçleme operasyonları kapsamında kara dolum, deniz dolum, petrol ve ürünleri dolum operasyonlarını gerçekleştirir.",
+  "Atık su arıtım operasyonlarını gerçekleştirir.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T11:14:33",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 7988
+  }
+ }
+}

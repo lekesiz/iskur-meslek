@@ -1,0 +1,74 @@
+{
+ "arac_gerec": [
+  "Bilgisayar ve yüksek performanslı grafik kartı",
+  "Grafik tableti",
+  "3D modelleme yazılımları (Blender, Maya, 3Ds Max vb.)",
+  "Unity, Unreal Engine gibi oyun/AR geliştirme motorları",
+  "AR yazılım geliştirme kitleri (ARKit, ARCore, Vuforia vb.)",
+  "Akıllı telefon ve tabletler",
+  "Akıllı gözlük ve AR başlıkları (HoloLens ve benzerleri)",
+  "Derinlik kamerası ve hareket/konum sensörleri",
+  "Kod yazma ve geliştirme ortamları (IDE)",
+  "Versiyon kontrol sistemleri (Git vb.)",
+  "3D tarayıcı cihazlar",
+  "Test ve hata ayıklama araçları"
+ ],
+ "genel_ozellikler": [
+  "Analitik düşünme yeteneğine sahip,",
+  "Yaratıcı ve yenilikçi,",
+  "Üç boyutlu algısı ve mekânsal (uzamsal) düşünme becerisi gelişmiş,",
+  "Matematik ve geometriye ilgili,",
+  "Ayrıntılara dikkat eden,",
+  "Takım çalışmasına uyumlu,",
+  "Sürekli öğrenmeye ve teknolojik gelişmeleri takip etmeye istekli,",
+  "İyi derecede bilgisayar ve yazılım kullanabilen"
+ ],
+ "gorevler": [
+  "AR projesinin teknik gereksinimlerini ve kullanıcı kurgusunu belirler,",
+  "3D modellerin ve dijital içeriklerin AR ortamına entegrasyonunu sağlar,",
+  "Unity, Unreal Engine veya benzeri motorlar üzerinde uygulama geliştirir,",
+  "Görüntü işleme ve takip (tracking) algoritmalarını optimize eder,",
+  "Uygulamanın farklı cihazlarda (mobil, akıllı gözlük vb.) performans testlerini yapar,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "calisma_ortami": "Artırılmış Gerçeklik Uzmanı genellikle ofis veya büro ortamında bilgisayar başında oturarak çalışır. Geliştirdiği uygulamanın saha testleri, mekân taraması veya müşteri sunumları için zaman zaman dış mekanlarda ya da uygulamanın kullanılacağı gerçek ortamlarda da bulunması gerekebilir. Ekran başında uzun süre çalışma nedeniyle göz, bilek ve sırt yorgunluğu riski bulunur; proje teslim tarihlerine bağlı olarak zaman zaman yoğun ve stresli bir çalışma temposu söz konusu olabilir.\n\nÇalışma sırasında yazılım geliştiriciler, grafik ve 3D tasarımcılar, proje yöneticileri, müşteri temsilcileri ve pazarlama ekipleriyle yakın iş birliği içindedir. Çalışma saatleri genellikle büro çalışma düzenine uygundur; proje yoğunluğuna göre mesai saatleri dışında çalışma gerekebilir.",
+ "egitim": {
+  "verildigi_yerler": "Türkiye'de bu meslek için doğrudan tanımlanmış, resmî bir mesleki ve teknik ortaöğretim alanı/dalı bulunmamaktadır. Meslek genellikle bilgisayar programcılığı, bilişim teknolojileri, grafik tasarım, çoklu ortam (multimedya) teknolojileri gibi ön lisans programlarından; bilgisayar mühendisliği, yazılım mühendisliği, grafik tasarım veya görsel iletişim tasarımı gibi lisans programlarından mezun olup bu alanda uzmanlaşan kişiler tarafından yürütülmektedir. Ayrıca kişisel çalışma, çevrim içi eğitim platformları, özel kurslar ile Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kursları da bu alanda bilgi ve beceri kazanmada etkilidir.",
+  "giris_kosullari": [
+   "Mesleğin gerektirdiği minimum eğitim düzeyi ortaöğretim (lise ve dengi) olmakla birlikte, sektörde fiilen çalışabilmek için ilgili bir ön lisans veya lisans programından mezun olmak ya da güçlü bir yazılım/programlama ve 3D tasarım bilgisine sahip olmak büyük avantaj sağlamaktadır.",
+   "İlgili ön lisans/lisans programlarına girişte, diğer örgün eğitim programlarında olduğu gibi YKS sınav sonuçlarına göre yerleştirme yapılmaktadır."
+  ],
+  "sure_ve_icerik": "Mesleğe özgü, resmî olarak tanımlanmış tek bir eğitim programı bulunmadığından eğitim süresi ve içeriği kişinin izlediği yola göre değişmektedir. İlgili ön lisans programları genellikle 2 yıl, lisans programları ise 4 yıl sürmektedir ve programlama, görüntü işleme, 3D modelleme, tasarım ve yazılım geliştirme gibi dersleri içerir. Kurs ve sertifika programlarının süresi ise kurumdan kuruma değişmekte olup genellikle kısa süreli, uygulamaya dayalı eğitimlerdir.",
+  "belge": "İzlenen yola göre ön lisans veya lisans diploması; kurs ya da sertifika programlarına katılanlar için ise katılım/başarı sertifikası verilmektedir."
+ },
+ "calisma_alanlari": "Artırılmış Gerçeklik Uzmanı; yazılım ve oyun geliştirme şirketlerinde, reklam ve pazarlama ajanslarında, e-ticaret firmalarında, eğitim teknolojileri şirketlerinde, mimarlık ve iç mimarlık ofislerinde, müze ve kültürel miras kuruluşlarında, sağlık sektöründe (simülasyon ve eğitim uygulamaları), turizm ve perakende sektöründe, savunma sanayiinde ve ilgili Ar-Ge birimlerinde iş bulabilmektedir. Ayrıca serbest (freelance) olarak proje bazlı çalışma imkânı da bulunmaktadır. Teknolojinin hızla gelişmesiyle bu alandaki istihdam olanaklarının artması beklenmektedir.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğe yönelik resmî, tek bir örgün eğitim programı tanımlanmadığından genel bir ücret düzenlemesi bulunmamaktadır. İlgili ön lisans/lisans programlarında öğrenim görenler, staj dönemlerinde işletmenin belirlediği ücreti alabilir; kurs ve sertifika programlarına katılanlara ise genellikle ücret ödenmemektedir.",
+  "egitim_sonrasi": [
+   "Kamu kurum ve kuruluşlarında istihdam edilmeleri hâlinde 657 sayılı Devlet Memurları Kanunu'na göre ücret alırlar.",
+   "Özel sektörde işe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç elde eder; bilgi, deneyim ve işletmenin büyüklüğüne bağlı olarak bu ücret artabilir.",
+   "Serbest (freelance) çalışanların kazancı üstlendikleri projenin kapsamına ve anlaşma koşullarına göre değişkenlik göstermektedir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğe özgü, ortaöğretim düzeyinde tanımlanmış bir alan/dal bulunmadığından ilerleme genellikle yükseköğretim yoluyla gerçekleşir. İlgili ön lisans programlarından mezun olanlar isterlerse dikey geçiş sınavıyla ilgili lisans programlarına geçebilir; lisans mezunları ise bilgisayar mühendisliği, yazılım mühendisliği, grafik tasarım gibi alanlarda lisansüstü eğitime yönelebilir.",
+  "is_hayatinda": "Meslekte ilerleme büyük ölçüde bireyin kendini geliştirmesine, edindiği proje deneyimine ve güncel teknolojileri takip etmesine bağlıdır. Deneyim kazandıkça kıdemli AR/VR geliştirici, proje lideri, teknik ekip yöneticisi gibi pozisyonlara yükselebilir veya kendi işini kurabilir."
+ },
+ "benzer_meslekler": [
+  "Sanal ve Artırılmış Gerçeklik Teknikeri",
+  "Çoklu Ortam (Multimedya) Tasarımcısı",
+  "Üç Boyutlu Grafik Animasyoncu (3Ds Max)",
+  "Bilgisayar Destekli Tasarım ve Animasyon Teknikeri",
+  "Grafik Animasyoncu",
+  "Görsel İletişim Tasarımcısı"
+ ],
+ "ek_bilgiler": "Artırılmış gerçeklik alanı hızla gelişen ve değişen bir teknoloji alanı olduğundan Türkiye'de bu mesleğe özgü, oturmuş resmî eğitim programları henüz yaygınlaşmamıştır. Bu alanda çalışmak isteyenlerin yazılım geliştirme, 3D modelleme ve ilgili donanım teknolojilerindeki gelişmeleri sürekli takip etmesi önem taşımaktadır. Mesleki Yeterlilik Kurumu (MYK) belgesi, bu alanda henüz zorunlu olmamakla birlikte istihdamda tercih sebebi olabilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-07T22:06:29",
+  "usage": {
+   "input_tokens": 4,
+   "output_tokens": 9999
+  }
+ }
+}

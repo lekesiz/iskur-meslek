@@ -1,0 +1,73 @@
+{
+ "arac_gerec": [
+  "Kereste ve ahşap tahta/kalaslar",
+  "Daire testere / şerit testere makinesi",
+  "Planya makinesi",
+  "Çivi çakma tabancası (pnömatik/elektrikli)",
+  "Çivi, zımba teli ve bağlantı elemanları",
+  "Çekiç",
+  "Metre, gönye ve diğer ölçüm aletleri",
+  "Palet kalıpları/şablonları",
+  "Zımpara ve zımpara makinesi",
+  "Kompresör",
+  "Forklift veya transpalet",
+  "Kişisel koruyucu donanım (eldiven, koruyucu gözlük, kulaklık)"
+ ],
+ "genel_ozellikler": [
+  "El becerisine sahip,",
+  "Dikkatli ve tedbirli,",
+  "Fiziksel olarak güçlü ve dayanıklı,",
+  "Makine ve el aletleriyle çalışmaktan hoşlanan,",
+  "Göz ve el koordinasyonu iyi,",
+  "Düzenli ve planlı çalışabilen,",
+  "Takım çalışmasına uyumlu,",
+  "İş güvenliği kurallarına uymaya özen gösteren,"
+ ],
+ "calisma_ortami": "Ağaç palet imalatçıları genellikle kereste işleme tesislerinin, mobilya/ambalaj fabrikalarının veya bağımsız palet üretim atölyelerinin bulunduğu kapalı alanlarda çalışır. Çalışma ortamı tozlu, ahşap talaşlı ve kısmen gürültülüdür; testere, çakım makinesi gibi kesici ve darbeli aletlerle çalışma nedeniyle iş kazası riski bulunur, bu yüzden koruyucu donanım kullanımı önemlidir. Çalışma genellikle ayakta ve bazı aşamalarda fiziksel güç gerektiren şekilde sürdürülür, işin yoğunluğuna göre vardiyalı çalışma söz konusu olabilir.\n\nİş sırasında çalışma arkadaşları, ustabaşı/atölye sorumlusu, depo-nakliye personeli ve bazı durumlarda sipariş veren müşteri firmalarla iletişim kurar.",
+ "gorevler": [
+  "Kerestenin uygun boyutta kesim işlemlerini yapar.",
+  "Çakım işlemlerini yapar.",
+  "Kullandığı makinelerin bakımını yapar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Ağaç Palet İmalatçılığı için örgün eğitimde ayrı, bağımsız bir meslek lisesi programı bulunmamaktadır. Meslek genellikle ahşap/marangozluk alanındaki mesleki eğitim merkezleri, Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kursları ile işbaşında usta yanında yetişme yoluyla kazanılmaktadır.",
+  "giris_kosullari": [
+   "Mesleğin gerektirdiği minimum eğitim düzeyi ilköğretimdir.",
+   "Fiziksel olarak işin gerektirdiği güce ve dayanıklılığa sahip olmak gerekir.",
+   "Çıraklık/işbaşı eğitimi yoluyla öğrenmek isteyenlerin ilgili bir işyeri bulup işveren ile anlaşması gerekir.",
+   "Kurs programlarına katılım için ilgili kurumların belirlediği yaş ve öğrenim şartlarını taşımak gerekir."
+  ],
+  "sure_ve_icerik": "Mesleğe özgü standart bir eğitim süresi belirlenmemiştir. Kişiler genellikle işbaşında, deneyimli bir usta gözetiminde kereste kesimi, ölçülendirme, çakım ve montaj tekniklerini uygulamalı olarak öğrenir. Halk Eğitim Merkezleri ve İŞKUR kurslarında ahşap işleme/marangozluk temelli kısa süreli mesleki eğitim programlarına katılarak da temel bilgi ve beceriler kazanılabilir.",
+  "belge": "Örgün eğitimde bu mesleğe özel bir diploma bulunmamaktadır. Katılınan kurslar sonunda katılım veya başarı belgesi alınabilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, varsa, istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Ağaç palet imalatçıları; ahşap palet üretimi yapan fabrika ve atölyelerde, kereste işleme ve ambalaj malzemesi üreten tesislerde, lojistik ve depolama firmalarının bünyesindeki palet üretim birimlerinde, mobilya ve ambalaj sektörü işletmelerinde çalışabilirler. Yeterli deneyim ve sermaye birikimine sahip olanlar kendi palet üretim atölyelerini açabilirler.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğe özgü örgün bir eğitim programı bulunmadığından, işbaşında çalışarak mesleği öğrenenler genellikle çalıştıkları işletmede asgari ücret düzeyinde bir gelirle çalışmaya başlar. Kurs döneminde ise ücret genellikle söz konusu değildir.",
+  "egitim_sonrasi": [
+   "Deneyim ve beceri arttıkça ücret düzeyi yükselebilir; kazanç çalışılan işletmenin büyüklüğüne, iş hacmine ve sektördeki ücret düzeyine göre değişir.",
+   "Kendi atölyesini açanların geliri, üretim kapasitesine ve piyasa koşullarına bağlı olarak farklılık gösterir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Bu meslek için ayrı bir örgün ilerleme basamağı bulunmamaktadır. Ahşap işleri/marangozluk alanındaki mesleki eğitim merkezleri, kurslar ve sertifika programlarına katılarak bilgi ve beceriler geliştirilebilir.",
+  "is_hayatinda": "Deneyim kazandıkça ustabaşı veya atölye sorumlusu konumuna yükselebilir; yeterli birikim sağlandığında kendi palet üretim işletmesini kurabilir."
+ },
+ "benzer_meslekler": [
+  "Ahşap Mobilya İmalatçısı",
+  "Mobilya Montajcısı",
+  "Çivi Çakma Makinesi Operatörü",
+  "Yatar Daire Testere Makinesi Operatörü",
+  "Fıçı İmalat İşçisi (Ağaç)",
+  "Depolama Tankı İmalat İşçisi (Ağaç)"
+ ],
+ "ek_bilgiler": "İhracatta kullanılan ahşap paletlerin, uluslararası bitki sağlığı düzenlemeleri kapsamında belirli standartlarda ısıl işlem görmesi gerekebilmektedir; bu nedenle ısıl işlem tesisine sahip işletmelerde çalışma imkanı da bulunmaktadır. Lojistik ve ambalaj sektöründeki talebe bağlı olarak istihdam olanakları değişkenlik gösterebilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T07:59:58",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5222
+  }
+ }
+}

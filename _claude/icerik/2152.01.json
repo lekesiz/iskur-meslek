@@ -1,0 +1,70 @@
+{
+ "arac_gerec": [
+  "Bilgisayar ve mühendislik/tasarım yazılımları (CAD, simülasyon programları)",
+  "Osiloskop, sinyal jeneratörü, spektrum analizörü",
+  "Avometre, ampermetre, voltmetre gibi ölçü aletleri",
+  "RF ve anten test/ölçüm ekipmanları",
+  "Radar test ve kalibrasyon cihazları",
+  "Lojik analizör ve devre test cihazları",
+  "Lehim ekipmanları, tornavida, pense gibi el aletleri",
+  "Güç kaynakları ve laboratuvar test düzenekleri",
+  "Teknik dokümantasyon ve raporlama yazılımları",
+  "Kişisel koruyucu donanım (saha ve atölye çalışmalarında)"
+ ],
+ "genel_ozellikler": [
+  "Fen ve matematik alanına, özellikle fizik ve elektronik konularına ilgi duyan,",
+  "Analitik düşünme ve problem çözme becerisine sahip,",
+  "Dikkatli ve sorumluluk sahibi,",
+  "Araştırmaya ve yeniliklere açık,",
+  "Ekip halinde ve disiplinli çalışabilen,",
+  "Gizlilik ilkelerine bağlı kalabilen,",
+  "Teknik rapor ve dokümantasyon hazırlamada titiz kişiler olmaları gerekir."
+ ],
+ "calisma_ortami": "Diğer Elektronik Mühendisleri genellikle büro, laboratuvar ve test atölyelerinde; radar ile güvenlik ve savunma sistemlerinin kurulumu söz konusu olduğunda ise açık sahalarda çalışırlar. Çalışmalarının önemli bir bölümü tasarım, hesaplama, test ve raporlama gibi zihinsel faaliyetlerden oluşur; bazı projelerde gizlilik dereceli ortamlarda görev yapmaları gerekebilir.\n\nÇalıştıkları kurumlarda mühendisler, teknisyen ve teknikerler, diğer mühendislik disiplinlerinden meslektaşları ve proje yöneticileriyle yakın iş birliği içinde çalışırlar. Mesai saatleri genellikle düzenli olmakla birlikte, proje teslim tarihleri veya saha testleri nedeniyle esnek çalışma ve zaman zaman seyahat gerekebilir.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi üniversitelerin Elektrik-Elektronik Mühendisliği, Elektronik Mühendisliği veya Elektronik ve Haberleşme Mühendisliği bölümlerinde verilmektedir. Türk Meslekler Sözlüğünde bu meslek, elektronik mühendisliği kapsamında radar, araştırma-geliştirme, güvenlik ve savunma sistemleri gibi alanlarda çalışan ve başka yerde sınıflandırılmamış mühendisleri kapsadığından, bu konulara özgü ayrı bir lisans programı bulunmamaktadır; ilgi alanına özgü uzmanlık genellikle çalışılan kurum ve proje içinde kazanılır.",
+  "giris_kosullari": [
+   "Lise veya dengi okul mezunu olmak",
+   "YKS (Yükseköğretim Kurumları Sınavı) kılavuzunda ilgili mühendislik programları için belirtilen giriş koşullarını taşımak",
+   "İlgili meslek yüksekokulu/önlisans programlarından Dikey Geçiş Sınavı (DGS) ile lisans programına geçiş yapmak mümkündür"
+  ],
+  "sure_ve_icerik": "Eğitim süresi 4 yıldır, hazırlık sınıfı bulunan okullarda bu süre 5 yıldır. Eğitim süresince devre teorisi, sinyaller ve sistemler, elektromanyetik dalgalar, haberleşme teknikleri, mikrodalga ve radar sistemleri temelleri, kontrol sistemleri, mikrodenetleyiciler, güç elektroniği gibi dersler okutulur. Radar, güvenlik ve savunma sistemleri gibi alanlarda çalışmak isteyenler bu bilgileri genellikle lisansüstü eğitim, çalıştıkları kurumun içi eğitimleri veya proje bazlı deneyimle derinleştirirler. Programlarda genellikle staj yapma zorunluluğu bulunmaktadır.",
+  "belge": "Eğitimini başarı ile tamamlayanlara ilgili mühendislik bölümünden lisans diploması verilir."
+ },
+ "calisma_alanlari": "Diğer Elektronik Mühendisleri; savunma sanayi kuruluşları, kamu ve özel sektör Ar-Ge merkezleri, radar ve haberleşme sistemleri üreten/işleten kurumlar, güvenlik sistemleri firmaları, kamu kurumları ve üniversitelere bağlı araştırma birimlerinde çalışabilirler. Kamuda 657 sayılı Devlet Memurları Kanunu'na tabi olarak ya da işçi statüsünde toplu iş sözleşmesi kapsamında, özel sektörde ise iş sözleşmesiyle istihdam edilirler. Bu alan, genel elektronik mühendisliğine kıyasla daha niş ve uzmanlık gerektirdiğinden, nitelikli mühendisler için savunma sanayi ve ileri teknoloji projelerinde istihdam olanağı bulunmaktadır.",
+ "kazanc": {
+  "egitim_suresince": "Lisans eğitimi süresince öğrenciler Kredi ve Yurtlar Kurumu'nun öğrenim kredisi ve yurt hizmetlerinden, ayrıca çeşitli kamu ve özel kuruluşların sağladığı burs olanaklarından yararlanabilirler.",
+  "egitim_sonrasi": [
+   "Kamu kurum ve kuruluşlarında çalışanlar 657 sayılı Devlet Memurları Kanunu'na göre teknik hizmetler sınıfı aylığı ile ilgili zam ve tazminatlardan yararlanır; işçi statüsünde olanlar toplu iş sözleşmesi hükümlerine tabidir.",
+   "Özel sektörde ücret; deneyim, uzmanlık alanı (radar, savunma sistemleri, Ar-Ge vb.) ve çalışılan işletmenin büyüklüğüne göre değişmekte olup, yeni mezunlarda genellikle sektör ortalamalarına yakın bir ücretle başlanır, deneyim ve uzmanlaşma arttıkça kazanç düzeyi yükselebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Lisans eğitimini tamamlayanlar yüksek lisans ve doktora yaparak akademik kariyer yapabilir ya da radar, haberleşme, savunma elektroniği gibi alanlarda ileri düzey uzmanlaşma imkanı bulabilirler.",
+  "is_hayatinda": "Deneyim kazandıkça proje mühendisliği, sistem mühendisliği, Ar-Ge ekip liderliği ve birim yöneticiliği gibi pozisyonlara yükselebilirler."
+ },
+ "benzer_meslekler": [
+  "Elektronik Mühendisi",
+  "Elektronik ve Haberleşme Mühendisi",
+  "Radar ve Haberleşme Sistemleri Uzmanı (Savunma Sanayi)",
+  "Elektrik-Elektronik Mühendisi",
+  "Gömülü Sistemler Uzmanı",
+  "Diğer Elektrik Mühendisleri"
+ ],
+ "ek_bilgiler": "Bu meslek, Türk Meslekler Sözlüğünde elektronik mühendisliği kapsamında radar, araştırma-geliştirme, güvenlik ve savunma sistemleri gibi alanlarda çalışan ve başka yerde sınıflandırılmamış mühendisleri ifade etmektedir. Savunma sanayi ve güvenlik alanında görev alacak mühendisler için bazı kurumlarda güvenlik soruşturması ve gizlilik yükümlülüğü gibi ek koşullar aranabilir.",
+ "gorevler": [
+  "Elektronik sistemlerin ve teçhizatın muayene ve kontrolünü yapar.",
+  "Elektronik konusunda araştırma ve geliştirme çalışmaları yapar.",
+  "Radar sistemlerinin kurulmasını ve işletilmesini sağlar.",
+  "Güvenlik ve savunma sistemlerinin işletilmesini sağlar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-07T21:43:30",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6051
+  }
+ }
+}

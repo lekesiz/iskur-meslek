@@ -1,0 +1,74 @@
+{
+ "arac_gerec": [
+  "Kontrol odası kumanda panelleri ve SCADA (uzaktan izleme-kontrol) sistemleri",
+  "Bilgisayar ve vardiya izleme/raporlama yazılımları",
+  "Enerji ölçüm sayaçları (aktif-reaktif sayaçlar)",
+  "Ölçü ve kontrol aletleri (ampermetre, voltmetre, avometre, termometre)",
+  "Trafo ve jeneratör izleme-kontrol sistemleri",
+  "Telsiz, telefon ve dahili haberleşme sistemleri",
+  "Vardiya defteri ve arıza/olay bildirim formları",
+  "Kişisel koruyucu donanım (baret, iş elbisesi, çelik burunlu ayakkabı, eldiven, kulaklık, gözlük)",
+  "Acil durum ve yangın söndürme ekipmanları",
+  "Temel el aletleri"
+ ],
+ "genel_ozellikler": [
+  "Sorumluluk duygusu yüksek,",
+  "Liderlik ve ekip yönetimi becerisine sahip,",
+  "Acil ve stresli durumlarda soğukkanlı kalabilen,",
+  "Yaygın ve yoğun dikkatli,",
+  "Hızlı ve doğru karar verebilen,",
+  "Elektrik ve enerji sistemleri konusunda teknik bilgi sahibi,",
+  "İletişim becerisi gelişmiş,",
+  "Vardiya düzeninde çalışmaya uygun,"
+ ],
+ "calisma_ortami": "\"Vardiya amirleri, termik, hidroelektrik, doğal gaz çevrim veya yenilenebilir enerji santralleri gibi elektrik üretim tesislerinde; kontrol odası ve saha ortamında çalışırlar. Çalışma, hem kapalı kontrol odalarında hem de türbin, trafo, jeneratör gibi ekipmanların bulunduğu saha alanlarında geçer; yüksek gerilim, gürültü, sıcaklık ve mekanik ekipman kaynaklı iş kazası riskleri bulunur.\\n\\nÜretimin kesintisiz sürdürülmesi gerektiğinden genellikle vardiya sistemiyle (gündüz-gece dönüşümlü) çalışılır. Kendi vardiyasındaki operatör ve teknik personeli yönetir, kayıt tutar, üst yönetim ve diğer vardiya amirleriyle sürekli iletişim halindedir.\"",
+ "egitim": {
+  "verildigi_yerler": "Vardiya amirliği, doğrudan belirli bir okul programıyla kazanılan bağımsız bir meslek değildir; genellikle elektrik enerjisi üretim tesislerinde operatör veya teknisyen olarak çalışan kişilerin, deneyim ve işletme içi eğitimlerle bu göreve yükselmesiyle elde edilir. Temel teknik eğitim, mesleki ve teknik ortaöğretim kurumlarının elektrik-elektronik teknolojisi, enerji veya elektrik tesisatları ile ilgili alanlarında ya da üniversitelerin ilgili meslek yüksekokulu (elektrik, elektrik-elektronik, enerji tesisleri işletmeciliği vb.) ve mühendislik programlarında verilmektedir.",
+  "giris_kosullari": [
+   "Mesleki ve teknik lise düzeyinde eğitim için ortaokulu tamamlamış olmak ve ilgili alan/dal giriş koşullarını taşımak",
+   "Yükseköğretim programları için lise mezunu olmak ve ilgili sınavlarda başarılı olmak",
+   "Vardiya amiri olabilmek için işletmede operatör/teknisyen olarak belirli bir süre deneyim kazanmış olmak"
+  ],
+  "sure_ve_icerik": "Ortaöğretim düzeyindeki ilgili alanlarda eğitim 4 yıl sürer; önlisans programları genellikle 2, lisans programları 4 yıldır. Bu eğitimlerde elektrik-elektronik, enerji sistemleri, ölçme-kontrol ve iş güvenliği konuları işlenir. Mezuniyet sonrası işletmelerde operatör olarak başlanan görevde, enerji üretim süreçleri, vardiya yönetimi, arıza takibi ve iş güvenliği konularında işbaşı eğitimleri ve kurum içi yetkinlendirme programlarıyla vardiya amirliğine hazırlık sağlanır.",
+  "belge": "Meslek lisesi diploması veya önlisans/lisans diploması, iş sağlığı ve güvenliği ile ilgili eğitim sertifikaları, işletme içi yetkinlendirme ve görevlendirme belgeleri"
+ },
+ "calisma_alanlari": "\"Vardiya amirleri, başta kamu (EÜAŞ ve bağlı kuruluşlar gibi) ve özel sektöre ait termik santraller, hidroelektrik santraller, doğal gaz çevrim santralleri ile rüzgâr ve güneş enerjisi santralleri olmak üzere elektrik enerjisi üretim tesislerinde istihdam edilirler. Ayrıca elektrik dağıtım ve iletim şirketlerinin enerji merkezlerinde de benzer sorumluluklarla görev alabilirler. İş bulma olanakları, deneyim ve teknik yeterlilik ile birlikte artmaktadır; enerji sektörünün büyümesine bağlı olarak talep görece dengeli seyretmektedir.\"",
+ "kazanc": {
+  "egitim_suresince": "Mesleki ve teknik ortaöğretim kapsamında işletmelerde mesleki eğitim gören öğrencilere 3308 sayılı Mesleki Eğitim Kanunu gereğince asgari ücretin belirli bir oranından az olmamak üzere ücret ödenir ve sigorta primleri devletçe karşılanır. Vardiya amirliğine giden süreçte işletmede operatör/teknisyen olarak çalışılan dönemde ise kazanç, işletmenin ücret politikası ve çalışanın deneyimine göre belirlenir.",
+  "egitim_sonrasi": [
+   "Kamu kuruluşlarında çalışanlar için ücret, memur statüsündeyse 657 sayılı Devlet Memurları Kanunu'na, işçi statüsündeyse ilgili toplu iş sözleşmesine göre belirlenir.",
+   "Özel sektörde ücret, işletmenin büyüklüğü, çalışanın deneyimi ve sorumluluk düzeyine göre karşılıklı anlaşmayla belirlenir; vardiya amirliği gibi sorumluluk gerektiren pozisyonlarda kazanç genellikle operatörlük ücretinin üzerindedir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Lise düzeyinde ilgili alandan mezun olanlar, elektrik-elektronik mühendisliği, enerji sistemleri mühendisliği veya elektrik teknikerliği gibi önlisans/lisans programlarına yönelerek teknik bilgi ve kariyer olanaklarını geliştirebilirler.",
+  "is_hayatinda": "Operatör veya teknisyen olarak başlayan kişiler, deneyim kazandıkça vardiya amirliğine; bu görevi başarıyla yürütenler ise işletme şefliği, üretim müdürlüğü veya tesis müdürlüğü gibi daha üst yönetim kademelerine yükselebilirler."
+ },
+ "benzer_meslekler": [
+  "Termik Santral Elektrik İşletme Operatörü",
+  "Elektrik Tevzii Tablosu Operatörü-Enerji Merkezi",
+  "Hidroelektrik Santral Operatörü",
+  "Nezaretçi ve Ustabaşı (Elektrik-Gaz İstihsal ve Dağıtım)",
+  "Yüksek Gerilim Trafo Merkezi İşletme Elemanı",
+  "Termik Santral Kumanda Operatörü"
+ ],
+ "ek_bilgiler": "\"Yüksek gerilim ve enerji üretim ekipmanlarıyla çalışılması nedeniyle bu meslek genellikle tehlikeli veya çok tehlikeli işler kapsamında değerlendirilir; bu kapsamda iş sağlığı ve güvenliği ile ilgili periyodik eğitim ve sertifikalar işletmeler tarafından zorunlu kılınabilir. Mesleki Yeterlilik Kurumu (MYK) belgesi ve ilgili teknik sertifikalar, istihdamda tercih sebebi olabilir.\"",
+ "gorevler": [
+  "Elektrik türbinlerinin çalışıp çalışmadığını kontrol eder.",
+  "Enerji dalgalanmalarını engeller.",
+  "Merkezi sistemler ve yerel sistemlerdeki elektrik sorunlarının çözülmesini sağlar.",
+  "Enerji sistemleri, trafo, jeneratör gibi ürünlerin günlük kontrollerini yapar.",
+  "Günlük enerji tüketiminin belirlenmesi için gereken aktif ve reaktif sayaç kontrollerinin takibini yapar.",
+  "Vardiya elemanlarını yönetir, kayıtları tutar.",
+  "Vardiya düzenini sağlar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T10:42:57",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5618
+  }
+ }
+}

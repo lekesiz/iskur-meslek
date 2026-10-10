@@ -1,0 +1,91 @@
+{
+ "arac_gerec": [
+  "Kumanda paneli ve otomasyon/SCADA bilgisayarı",
+  "Çamur susuzlaştırma ekipmanları (santrifüj, bant filtre, vida presi vb.)",
+  "Polimer hazırlama ve dozajlama üniteleri",
+  "Digester (çürütücü) tankları ve kontrol donanımı",
+  "Biyogaz depolama ve yakma sistemi ekipmanları",
+  "Kojenerasyon ve ısı geri kazanım üniteleri",
+  "Koku giderim sistemleri (biyofiltre, kimyasal yıkama ünitesi)",
+  "Silo ve taşıma ekipmanları (konveyör, vida taşıyıcı)",
+  "Kurutma sistemi ekipmanları",
+  "Debimetre, basınç ve seviye ölçüm/izleme cihazları",
+  "Telsiz veya haberleşme cihazı",
+  "Kişisel koruyucu donanım (eldiven, maske/solunum koruyucu, koruyucu gözlük, iş elbisesi, çelik burunlu bot)",
+  "Temel bakım el aletleri"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve sorumluluk sahibi,",
+  "Teknik konulara ilgili ve mekanik kavrayışı güçlü,",
+  "Gözlem ve izleme becerisi gelişmiş,",
+  "Takım çalışmasına uyumlu,",
+  "Fiziksel olarak dayanıklı,",
+  "Vardiyalı çalışma düzenine uygun,",
+  "Acil durumlarda hızlı ve doğru karar verebilen,",
+  "Çevre bilincine ve temizlik/düzene özen gösteren,"
+ ],
+ "calisma_ortami": "Çamur Susuzlaştırma Ünitesi Operatörü, belediyelere veya özel şirketlere bağlı içme suyu ve atıksu arıtma tesislerinin çamur susuzlaştırma, çürütme (digester), biyogaz, polimer hazırlama, koku giderim ve kurutma ünitelerinde çalışır. Görevini bir bölümü kapalı mekânlarda bulunan kumanda/kontrol odasında bilgisayar ve otomasyon panelleri önünde, bir bölümü ise açık veya kapalı saha alanlarında ekipman ve sistemler üzerinde yerine getirir. Çalışma ortamında kötü koku, nem, kimyasal maddelerle (polimer, dezenfektan vb.) temas, gürültü ve biyogazdan kaynaklanabilecek yanıcı/patlayıcı ortam riskleri bulunabileceğinden kişisel koruyucu donanım kullanımı ve iş güvenliği kurallarına uyum önemlidir.\n\nTesislerin kesintisiz işletilmesi gerektiğinden genellikle vardiyalı (gece-gündüz, hafta sonu dâhil) çalışma düzeni uygulanır. Görevi sırasında vardiya arkadaşları, bakım-onarım ekipleri, mühendisler ve tesis amirleriyle sürekli iletişim ve koordinasyon içinde bulunur.",
+ "gorevler": [
+  "İş sağlığı ve güvenliği, çevre koruma ve kalite gerekliliklerini uygular,",
+  "İş organizasyonu yapar,",
+  "Biyogaz depolama ve yakma sisteminin kontrolünü yapar,",
+  "Kojenerasyon ve ısı geri kazanım sisteminin kontrolünü yapar,",
+  "Digester (çürütücü) sisteminin kontrolünü yapar,",
+  "Çamur yoğunlaştırma sisteminin kontrolünü yapar,",
+  "Çamur susuzlaştırma sisteminin kontrolünü yapar,",
+  "Polimer hazırlama sisteminin kontrolünü yapar,",
+  "Koku giderim sisteminin kontrolünü yapar,",
+  "Soğutma suyu (ultrafiltrasyon) sisteminin kontrolünü yapar,",
+  "Dış çamur alma sisteminin kontrolünü yapar,",
+  "Siloların kontrolünü yapar,",
+  "Kurutma sisteminin kontrolünü yapar,",
+  "Kojenerasyon ve ısı geri kazanım sisteminin anlık değişkenlere göre işletimini yapar,",
+  "Digester sisteminin anlık değişkenlere göre işletimini yapar,",
+  "Yoğunlaştırma ve susuzlaştırma sistemlerinin anlık değişkenlere göre işletimini yapar,",
+  "Polimer hazırlama sisteminin anlık değişkenlere göre işletimini yapar,",
+  "Kurutucu ve koku giderim sistemlerinin anlık değişkenlere göre işletimini yapar,",
+  "Soğutma suyu (ultrafiltrasyon) sisteminin anlık değişkenlere göre işletimini yapar,",
+  "Dış çamur alma sisteminin anlık değişkenlere göre işletimini yapar,",
+  "Silo sistemlerinin anlık değişkenlere göre işletimini yapar,",
+  "Kurutma sisteminin anlık değişkenlere göre işletimini yapar,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi, büyük ölçüde işyerlerinde deneyimli bir operatör gözetiminde işbaşında (hizmet içi) eğitim yoluyla verilmektedir. Bunun yanında mesleki ve teknik ortaöğretim kurumlarının ilgili alanları ile üniversitelerin meslek yüksekokullarına bağlı çevre, çevre sağlığı veya su/atıksu teknolojileri ile ilgili önlisans programları da mesleğe temel oluşturabilir. Ayrıca İŞKUR ve Halk Eğitim Merkezlerinin açtığı mesleki eğitim kursları bulunabilir.",
+  "giris_kosullari": [
+   "En az ortaöğretim (lise ve dengi okul) mezunu olmak.",
+   "İlgili önlisans programına girmek isteyenler için YKS sınav sistemiyle ilgili programa yerleşmiş olmak."
+  ],
+  "sure_ve_icerik": "İşyerlerinde verilen eğitimin süresi işletmeden işletmeye değişmekle birlikte, kişinin tesis ve sistemleri tanıma, iş güvenliği kurallarını öğrenme ve belirli bir süre deneyimli bir operatör nezaretinde çalışma sürecini kapsar. Bu süreçte; çamur susuzlaştırma ve çürütme (digester) prensipleri, biyogaz depolama ve yakma, kojenerasyon ve ısı geri kazanım, polimer hazırlama, koku giderim, kurutma sistemleri ile kumanda/otomasyon panellerinin kullanımı, arıza takibi ve iş sağlığı-güvenliği ile çevre koruma kuralları öğretilir. İlgili önlisans programlarını tercih edenler ise yaklaşık iki yıllık örgün eğitim sürecinde teorik ve uygulamalı dersler alırlar.",
+  "belge": "İşyerinde verilen hizmet içi eğitimler sonunda genellikle resmî bir belge veya diploma verilmez; ilgili önlisans programını tamamlayanlar önlisans diploması alır. Mesleki Yeterlilik Kurumu (MYK) belgesine sahip olmak istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Çamur Susuzlaştırma Ünitesi Operatörü; büyükşehir ve ilçe belediyelerine bağlı su ve kanalizasyon idarelerinin içme suyu ve atıksu arıtma tesislerinde, organize sanayi bölgelerinin merkezi atıksu arıtma tesislerinde, bazı büyük sanayi kuruluşlarının kendi bünyesindeki arıtma ve çamur susuzlaştırma ünitelerinde ve arıtma tesisi işletmeciliği yapan özel firmalarda istihdam edilebilir. Çalıştığı kuruma göre kamuda işçi statüsünde veya özel sektörde çalışabilir. Çevre mevzuatının ve atıksu arıtma yatırımlarının artması, bu alanda görev yapacak nitelikli operatörlere olan ihtiyacı sürdürmektedir.",
+ "kazanc": {
+  "egitim_suresince": "İşyerinde yapılan uygulamalı/hizmet içi eğitimler sırasında genellikle düzenli bir ücret söz konusu değildir. İlgili önlisans programlarında öğrencilik dönemi boyunca da kazanç bulunmamaktadır.",
+  "egitim_sonrasi": [
+   "Belediyelere bağlı su ve kanalizasyon idareleri gibi kamu kuruluşlarında işçi statüsünde çalışanların ücreti, ilgili toplu iş sözleşmesi hükümlerine göre belirlenir.",
+   "Özel sektörde kazanç; işyerinin büyüklüğü, kişinin deneyimi, bilgi ve becerisine göre değişir; mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar, deneyim kazandıkça bu düzeyin üzerine çıkabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Çalıştığı tesiste veya farklı kurumların düzenlediği hizmet içi eğitim programlarına, teknik seminerlere ve ilgili Mesleki Yeterlilik Kurumu (MYK) sınavlarına katılarak bilgi ve becerilerini güncelleyip geliştirebilir.",
+  "is_hayatinda": "Deneyim ve bilgi birikimi arttıkça vardiya amirliği, tesis sorumluluğu veya işletme şefliği gibi daha üst sorumluluk pozisyonlarına yükselebilir."
+ },
+ "benzer_meslekler": [
+  "Arıtma Tesisi İşletme Operatörü",
+  "Atıksu Arıtma Operatörü",
+  "Su Arıtma Tesisi İşletme Operatörü",
+  "Kumanda Tablosu Operatörü",
+  "Atıksu Pompa Operatörü",
+  "Biyogaz Sistemleri Sorumlusu"
+ ],
+ "ek_bilgiler": "Çamur susuzlaştırma ünitelerinde yer alan biyogaz, digester gibi sistemlerde yanıcı/patlayıcı gaz oluşumu ve kapalı alanda çalışma riski bulunabileceğinden, iş sağlığı ve güvenliği kurallarına eksiksiz uyulması mesleğin önemli bir gereğidir; bu nedenle görevlerin bir kısmı tehlikeli veya çok tehlikeli işler kapsamında değerlendirilebilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T11:04:19",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 7937
+  }
+ }
+}

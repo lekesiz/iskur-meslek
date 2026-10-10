@@ -1,0 +1,71 @@
+{
+ "arac_gerec": [
+  "İşaret çubuğu (değnek)",
+  "Düdük",
+  "Reflektif/fosforlu yelek",
+  "El feneri veya sinyal lambası",
+  "Telsiz veya cep telefonu",
+  "Not defteri ve kalem (sefer/sıra takibi için)",
+  "Trafik konisi veya işaret levhası",
+  "Mevsime uygun dış giyim (yağmurluk, kışlık kıyafet)",
+  "Düdük askısı/kordon"
+ ],
+ "benzer_meslekler": [
+  "Diğer Servis İşçileri (Sokak Hizmetleri)",
+  "Çığırtkan",
+  "Baskülcü - Sokak",
+  "El ilanı dağıtıcısı"
+ ],
+ "calisma_alanlari": "Değnekçi - taşıt, şehir içi ve şehirlerarası minibüs, dolmuş ve otobüs duraklarında, otogar/terminallerde ve araç park alanlarında çalışır. Genellikle belediyelere bağlı durak işletmeleri, şoförler/minibüsçüler kooperatifleri, özel otogar işletmeleri veya taşıt sahipleri tarafından görevlendirilir. İş bulma olanağı büyükşehirlerde, yoğun toplu taşıma hatlarının bulunduğu bölgelerde ve otogarlarda daha fazladır; küçük yerleşim yerlerinde bu göreve olan ihtiyaç sınırlıdır. Mesleğe genellikle kayıtsız/enformel yollarla veya tanıdık aracılığıyla girilmekte, kadrolu istihdam oranı düşük kalmaktadır.",
+ "calisma_ortami": "Değnekçi - taşıt, açık havada; otobüs ve minibüs duraklarında, otogar giriş-çıkışlarında ve araç park sahalarında görev yapar. Çalışma ortamı trafiğe açık, gürültülü ve kalabalıktır; yaz-kış dış mekân koşullarına (sıcak, soğuk, yağmur) maruz kalınır. Çalışırken uzun süre ayakta durmak, sık sık hareket etmek ve araçların arasında dikkatle dolaşmak gerekir; trafik kazası riskine karşı sürekli tedbirli olunmalıdır.\n\nMeslek elemanı görevini genellikle tek başına yürütür; şoförler, yolcular, durak/terminal görevlileri ve zaman zaman trafik polisiyle sürekli iletişim halindedir. Çalışma saatleri genellikle ilgili hattın veya durağın çalışma düzenine bağlı olup uzun ve düzensiz olabilir; hafta sonu ve resmî tatillerde de çalışma söz konusudur.",
+ "egitim": {
+  "verildigi_yerler": "Bu meslek için örgün bir mesleki eğitim programı (çıraklık/mesleki eğitim merkezi dalı) bulunmamaktadır. Meslek genellikle işbaşında, deneyimli bir değnekçi veya durak sorumlusunun yanında kısa sürede öğrenilir. Trafik kuralları, iletişim becerileri ve iş sağlığı-güvenliği konularında Halk Eğitim Merkezleri ile İŞKUR'un açtığı genel mesleki/kişisel gelişim kursları destekleyici nitelikte olabilir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "Sağlık durumunun açık havada ve hareketli çalışmaya uygun olması",
+   "İşitme ve görme duyularının trafik ortamında güvenli çalışmaya engel olmayacak düzeyde olması",
+   "Durak veya terminal işletmesi/kooperatif tarafından görevlendirilmek"
+  ],
+  "sure_ve_icerik": "Resmî olarak tanımlanmış bir eğitim süresi ve müfredatı yoktur. Kişi, görevlendirildiği durak veya terminalde deneyimli bir değnekçiyle birlikte çalışarak durak düzeni, araç sıralaması, yolcu yönlendirme ve koordinasyon işlerini kısa sürede uygulamalı olarak öğrenir.",
+  "belge": "Mesleğe girişte zorunlu bir diploma veya sertifika aranmamaktadır. Çalıştığı durağı/terminali işleten belediye, kooperatif veya özel işletme, görev yaptığını gösteren bir kimlik kartı veya yetki belgesi verebilir; bu uygulama kuruma göre değişiklik göstermektedir."
+ },
+ "ek_bilgiler": "Bu meslek için Milli Eğitim Bakanlığı tarafından düzenlenmiş örgün bir mesleki eğitim programı bulunmamaktadır; dolayısıyla eğitim süreci, giriş koşulları ve ilerleme olanakları diğer mesleklere kıyasla daha enformel ve yerel uygulamalara bağlıdır. Bazı belediyeler ve otogar işletmeleri, durak/terminal düzenini sağlamak amacıyla kendi iç yönetmeliklerine göre değnekçi görevlendirmesi ve izin/kayıt süreci uygulayabilmektedir.",
+ "genel_ozellikler": [
+  "Dikkatli ve tedbirli,",
+  "İletişim becerisi gelişmiş,",
+  "Sabırlı ve soğukkanlı,",
+  "Fiziksel olarak dayanıklı ve hareketli çalışmaya uygun,",
+  "Sorumluluk sahibi ve güvenilir,",
+  "İnsan ilişkilerinde başarılı,",
+  "Trafik kurallarına ve güvenlik önlemlerine özen gösteren,",
+  "Açık hava koşullarına uyumlu"
+ ],
+ "gorevler": [
+  "Minibüs veya otobüslerin durak giriş-çıkış sıralarını yönetir,",
+  "Yolcuların araçlara güvenli binişine yardımcı olur,",
+  "Araçların kalkış saatlerini takip ederek gecikmeleri önler,",
+  "Park alanlarında araçları emniyetli mesafelerde konumlandırır,",
+  "Şoförler arası koordinasyonu sağlayarak durak düzenini korur,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğin örgün bir eğitim basamağı bulunmadığından, formal bir mesleki eğitimde ilerleme söz konusu değildir. İlgi duyan kişiler, trafik, müşteri ilişkileri veya iş sağlığı ve güvenliği konularında açılan genel kurslara katılarak bilgi ve becerilerini geliştirebilir.",
+  "is_hayatinda": "Meslekte ilerleme, kişinin deneyimi, güvenilirliği ve çalıştığı durak/terminal işletmesinin yapısına bağlıdır. Deneyim kazanan değnekçiler, zamanla durak veya terminal sorumluluğu, nezaretçilik gibi daha fazla koordinasyon gerektiren görevlere yönelebilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Mesleğe yönelik örgün ve ücretli bir çıraklık eğitimi bulunmadığından, eğitim süresince düzenli bir ücretten söz etmek mümkün değildir. İşbaşında öğrenme döneminde görevlendirildiği işletme veya usta ile yapılan anlaşmaya göre değişen, genellikle sınırlı bir kazanç söz konusu olabilir.",
+  "egitim_sonrasi": [
+   "Özel işletme, kooperatif veya şoförlerle yapılan anlaşmaya bağlı olarak genellikle asgari ücret düzeyinde bir kazanç elde edilir.",
+   "Bazı durumlarda yolculardan veya şoförlerden alınan bahşiş de kazanca eklenebilir.",
+   "Belediyeye bağlı olarak çalışanlar, kurumun tabi olduğu toplu iş sözleşmesi hükümlerine göre ücret alır."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T20:48:26",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 4750
+  }
+ }
+}

@@ -1,0 +1,85 @@
+{
+ "arac_gerec": [
+  "Bekstop semeri ve bağlantı parçaları",
+  "Gaz kesme balonu ve balon gövdesi",
+  "Vaks ve vaks delicisi",
+  "Delme ve diş açma ekipmanları",
+  "Vana ve conta malzemeleri",
+  "Hava basma/kompresör ekipmanı",
+  "Stoper (gaz akışını kesme aparatı)",
+  "Hidrolik presleme (boğma) makinesi",
+  "Gaz dedektörü",
+  "Boru kesme ve kaynak ekipmanları",
+  "Basınç ölçüm aletleri",
+  "El aletleri (anahtar, pense, tornavida, metre vb.)",
+  "Kişisel koruyucu donanım (baret, eldiven, koruyucu gözlük, iş elbisesi, iş ayakkabısı)",
+  "İş güvenliği ve ikaz ekipmanları (bariyer, işaret levhası, yangın söndürücü)"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve sorumluluk sahibi,",
+  "El ve bedensel beceriye sahip,",
+  "Fiziksel olarak sağlıklı ve dayanıklı,",
+  "Ani ve riskli durumlarda sakin kalarak hızlı ve doğru karar verebilen,",
+  "Takım halinde çalışmaya uyumlu,",
+  "Teknik konulara ilgili,",
+  "İş güvenliği kurallarına titizlikle uyan,",
+  "Değişken hava koşullarında ve acil çağrılarda görev yapmaya istekli,"
+ ],
+ "calisma_ortami": "Bekstop operatörü, doğal gaz boru hatlarındaki kaçak veya arızaların bulunduğu noktalarda, genellikle açık havada (sokak, cadde, kazı alanı) bazen de kapalı alanlarda (bina bodrumu, teknik oda) çalışır. Görevini çoğunlukla ayakta, eğilerek veya çömelerek, bazen dar ve kısıtlı alanlarda yürütür. Doğal gazın yanıcı, patlayıcı ve boğucu özelliği nedeniyle yüksek dikkat ve iş güvenliği kurallarına sıkı uyum gerektiren riskli bir ortamda görev yapar.\n\nÇalışma saatleri genellikle vardiyalı olup, arıza ve kaçak bildirimlerine göre acil çağrı esasına dayalı olarak gece, gündüz, hafta sonu ve resmi tatillerde de görev yapılabilir. Meslek elemanı; ekip arkadaşları, saha sorumluları, mühendis ve teknikerler ile doğal gaz dağıtım şirketi personeliyle sürekli iletişim ve koordinasyon içinde çalışır.",
+ "egitim": {
+  "verildigi_yerler": "Bekstop operatörlüğü için ayrı bir meslek lisesi alanı/dalı veya resmi çıraklık programı bulunmamaktadır. Mesleğe giriş genellikle doğal gaz dağıtım şirketleri veya bu şirketlere hizmet veren yüklenici firmalarca işe alınıp işbaşında, deneyimli personel/usta nezaretinde yapılan uygulamalı eğitimle gerçekleşir. Boru tesisatı, kaynak, iş güvenliği gibi temel konularda ilgili mesleki ve teknik eğitim programları, Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kursları da ön bilgi kazandırabilir.",
+  "giris_kosullari": [
+   "En az ilköğretim/ortaokul mezunu olmak",
+   "Sağlık durumunun açık/kapalı alanda, basınçlı ekipmanlarla ve fiziksel güç gerektiren işlerde çalışmaya uygun olması",
+   "İlgili işyerinde (doğal gaz dağıtım veya taahhüt şirketi) istihdam edilerek işbaşı eğitimine başlamak"
+  ],
+  "sure_ve_icerik": "Mesleğe özgü standart süreli ve resmi bir çıraklık/meslek eğitimi programı bulunmamaktadır. Eğitim, çalışılan işletmenin bünyesinde, deneyimli bir operatör veya usta nezaretinde teorik ve uygulamalı olarak verilir. Eğitim içeriğinde; doğal gaz boru hatlarının yapısı, bekstop semeri ve balon sistemlerinin kullanımı, delme-diş açma, vana montajı, gaz kaçak kontrolü, bypass uygulamaları, polietilen boru boğma işlemleri ile iş sağlığı ve güvenliği konuları yer alır.",
+  "belge": "Eğitim sonunda genellikle işyeri içi katılım/yeterlik belgesi verilir. Mesleki Yeterlilik Kurumu (MYK) tarafından ilgili alanda yetkilendirilmiş kuruluşlarca düzenlenen belge, istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Bekstop operatörleri başta doğal gaz dağıtım şirketleri olmak üzere, bu şirketlere taahhüt veya hizmet alımı yoluyla çalışan yüklenici/müteahhit firmalarda, doğal gaz altyapı yapım, bakım ve acil müdahale ekiplerinde istihdam edilir. Türkiye'de doğal gaz dağıtım ağının il ve ilçelere yaygınlaşması, mevcut hatların yenilenmesi ve bakım ihtiyacı bu meslekte eleman talebini sürekli kılmaktadır. Kamu kurumlarına bağlı dağıtım şirketlerinde işçi statüsünde istihdam söz konusu olabilirken, mesleğin büyük bölümü özel sektör dağıtım ve taahhüt firmalarında yürütülmektedir.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğe özgü resmi bir çıraklık eğitimi programı bulunmadığından, işe alınarak işbaşı eğitimi alanlar çalıştıkları işletmenin ücret politikasına göre, genellikle asgari ücret düzeyinde bir ücretle çalışmaya başlar.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarına bağlı doğal gaz dağıtım şirketlerinde işçi statüsünde çalışanlar, tabi oldukları toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde kazanç; işyerinin büyüklüğü, kişinin tecrübesi, bilgi ve becerisi, çalışma kapasitesi ile sektörün genel ücret düzeyine göre değişebilir; deneyim kazandıkça asgari ücretin üzerinde kazanç mümkündür."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğe ilişkin standart bir çıraklık veya mesleki eğitim merkezi programı bulunmadığından sınıf/kademe şeklinde bir ilerleme söz konusu değildir. Meslek elemanı, işyeri içi eğitimlere, kurslara katılarak ve Mesleki Yeterlilik Kurumu (MYK) belgelendirme süreçlerinden geçerek bilgi ve becerisini geliştirebilir; isterse ilgili alanlarda açılan ön lisans/lisans programlarına yönelerek teknisyenlik veya teknikerlik düzeyine geçiş yapabilir.",
+  "is_hayatinda": "Deneyim kazanan bekstop operatörleri; ekip sorumlusu, saha şefi veya usta öğretici gibi görevlere yükselebilir. Eğitim düzeyini artıranlar teknisyen, tekniker veya saha mühendisliği destek pozisyonlarına geçebilir."
+ },
+ "benzer_meslekler": [
+  "Doğal Gaz Tesisatçısı",
+  "Doğal Gaz İşletme Bakım Operatörü",
+  "Doğal Gaz Altyapı Yapım ve Kontrol Personeli",
+  "Doğal Gaz Acil Müdahale Personeli",
+  "Kayıp-Kaçak Tespit ve Müdahale Elemanı",
+  "Doğal Gaz Isıtma ve Gaz Yakıcı Cihaz Servis Personeli"
+ ],
+ "ek_bilgiler": "Bu meslek, basınç altındaki doğal gaz hatlarında kaçak/arıza müdahalesini içerdiğinden iş güvenliği mevzuatı kapsamında tehlikeli veya çok tehlikeli işler sınıfında değerlendirilebilir; bu nedenle düzenli sağlık kontrolleri, periyodik iş güvenliği eğitimleri ve kişisel koruyucu donanım kullanımı önem taşır.",
+ "gorevler": [
+  "Balon atılacak çelik boru üzerindeki yeri temizler.",
+  "Arızalı bölgenin sağ ve soluna conta ve bekstop semerini monte eder.",
+  "Bekstop semeri üzerine vaks ve deliciyi monte eder, çelik boruda delme ve diş açma işlemini yapar.",
+  "Açılan deliğe vanayı takar, vaks delicisini söker.",
+  "Atılacak uygun balonu, balon gövdesine takarak bekstop semerine monte eder ve vanayı açar.",
+  "Balon gövdesinden balonu çelik boru içerisine ittirir, hava basar.",
+  "Balonun gaz kaçırıp kaçırmadığını kontrol eder.",
+  "Balonda gaz kaçağı varsa çelik boruyu keserek stoper ile gaz akışını keser.",
+  "Arızalı çelik borunun tamiratını yapar/yapılmasını sağlar.",
+  "Gaz akışının devamı için gerektiğinde boru arasında bypass yapar.",
+  "Polietilen borularda uygun çapta hidrolik presleme ile boğma yaparak gazı keser.",
+  "Kullanılan makine ve ekipmanların bakım ve temizliğini yapar.",
+  "Mesleği alanındaki gelişmeleri takip eder ve uygular.",
+  "İşçi sağlığı ve iş güvenliği ile ilgili kurallara uyar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T23:27:08",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 7343
+  }
+ }
+}

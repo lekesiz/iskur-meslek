@@ -1,0 +1,76 @@
+{
+ "arac_gerec": [
+  "Pul (numaralı metal veya plastik işaret plakası)",
+  "Pul takma/çıkarma aparatı",
+  "Kayıt defteri veya üretim takip föyü",
+  "Kalem",
+  "Maden vagonu",
+  "Baret (koruyucu baş kaskı)",
+  "Kişisel koruyucu donanım (iş elbisesi, çelik burunlu bot, eldiven)",
+  "Maden lambası/kafa feneri",
+  "Toz maskesi",
+  "İşaretleşme düdüğü veya el feneri",
+  "Temizlik bezi",
+  "Gaz ölçüm cihazı (varsa, ocak içi kontrol için)"
+ ],
+ "benzer_meslekler": [
+  "Vagoncu - Maden",
+  "Manevracı-Harmancı (Maden)",
+  "Kancacı (madende arabaları birbirine bağlayan)",
+  "Domuz Damcı - Maden",
+  "Tumbacı-Maden ocağı",
+  "Bantçı - maden"
+ ],
+ "calisma_alanlari": "Pulcu (Maden), vagonlu üretim ve nakliye sistemi kullanılan kömür, metal veya diğer maden ocaklarında ve bazı taş ocağı işletmelerinde istihdam edilir. Çalışma alanı, maden işletmesinin yeraltı veya yerüstü üretim/nakliye noktalarıdır (vagon yükleme ve boşaltma istasyonları).\\n\\nBu meslekte iş bulma olanakları, maden işletmelerinin vagonlu üretim takip sistemi kullanıp kullanmamasına bağlı olarak oldukça sınırlıdır. Üretim takibinin elektronik/otomatik sistemlerle yapıldığı işletmelerde bu göreve ihtiyaç duyulmamaktadır; bu nedenle meslek günümüzde az sayıda işletmede ve genellikle diğer maden işçiliği görevleriyle birlikte yürütülmektedir. İstihdam, ülkenin maden üretim hacmine ve işletmelerin kullandığı teknolojiye göre bölgesel farklılıklar göstermektedir.",
+ "calisma_ortami": "Pulcu (Maden), genellikle yeraltı maden ocaklarında, bazı durumlarda yerüstü taşocağı ve üretim sahalarında çalışır. Çalışma ortamı toz, nem, gürültü, sınırlı aydınlatma ve dar alan gibi fiziksel zorluklar içerebilir; yeraltında çalışıyorsa iş güvenliği riskleri daha yüksektir. Çalışma süresince ayakta kalmak, vagonlar arasında hareket etmek ve bazen eğilerek pul takıp çıkarmak gerekebilir.\\n\\nMeslek elemanı görevini genellikle ekip halinde yürütür; vagon operatörleri, ocak nezaretçileri, üretim şefleri ve diğer maden işçileriyle sürekli iletişim halindedir. İşletmenin çalışma düzenine bağlı olarak vardiyalı (gece-gündüz) çalışma söz konusudur. İş sağlığı ve güvenliği kurallarına titizlikle uyulması gereken, dikkat ve sorumluluk gerektiren bir çalışma ortamıdır.",
+ "genel_ozellikler": [
+  "Dikkatli ve titiz,",
+  "Sorumluluk sahibi,",
+  "Sayılarla çalışmaya ve basit hesaplamalara yatkın,",
+  "Düzenli kayıt tutabilen,",
+  "Fiziksel olarak sağlıklı ve dayanıklı,",
+  "Dar, kapalı ve bazen gürültülü ortamlarda çalışabilen,",
+  "Ekip çalışmasına uyumlu,",
+  "İş sağlığı ve güvenliği kurallarına titizlikle uyan"
+ ],
+ "gorevler": [
+  "Çıkarılan maden yüklü vagonlara ilgili ekibin pulunu takar,",
+  "Boşaltma noktasına gelen vagonlardaki pulları toplar,",
+  "Pul numaralarını ve vagon adetlerini kayıt defterine işler,",
+  "Ekiplerin günlük üretim miktarlarını belirleyerek raporlar,",
+  "Pulların temizliğini ve kaybolmamasını sağlar,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ek_bilgiler": "Madencilik, iş kolu olarak 6331 sayılı İş Sağlığı ve Güvenliği Kanunu kapsamında çok tehlikeli işler sınıfında yer aldığından, bu meslekte çalışacakların işe başlamadan önce temel iş sağlığı ve güvenliği eğitimi almaları ve çalışmaya uygunluklarının sağlık raporuyla belgelenmesi gerekmektedir. Üretim takip sistemlerinin elektronik/otomatik hale gelmesiyle birlikte Pulcu mesleğine olan ihtiyaç günümüzde azalmakta, bu görev bazı işletmelerde diğer maden işçiliği görevleriyle birleştirilerek yürütülmektedir.",
+ "egitim": {
+  "verildigi_yerler": "Pulcu (Maden) mesleğine yönelik örgün bir meslek lisesi programı veya resmî olarak tanımlanmış bağımsız bir eğitim programı bulunmamaktadır. Meslek, genellikle maden işletmelerinde işbaşında usta yanında uygulamalı olarak öğrenilir. Ayrıca İŞKUR'un açtığı işgücü yetiştirme kursları ile maden işletmelerinin kendi bünyesinde düzenlediği temel iş güvenliği ve ocak içi çalışma eğitimleri bu mesleğe hazırlık niteliğindedir.",
+  "giris_kosullari": [
+   "İlköğretim mezunu olmak,",
+   "18 yaşını doldurmuş olmak (yeraltı ve tehlikeli maden işlerinde çalışma şartı),",
+   "Maden ocağında çalışmaya engel bir sağlık sorununun bulunmaması ve bunun sağlık raporuyla belgelenmesi,",
+   "Temel iş sağlığı ve güvenliği eğitimine katılmaya ve gerekli kişisel koruyucu donanımı kullanmaya istekli olmak"
+  ],
+  "sure_ve_icerik": "Mesleğe özgü belirli bir eğitim süresi ve müfredatı yoktur. İşe alınan kişi, işletmenin düzenlediği temel iş sağlığı ve güvenliği eğitiminin ardından, deneyimli bir çalışanın (usta) gözetiminde kısa sürede pul takma, toplama ve kayıt işlemlerini uygulamalı olarak öğrenir. Bu süreçte vagon sistemi, pul numaralandırma düzeni ve üretim kayıt defterinin tutulması öğretilir.",
+  "belge": "Mesleğe özgü bir diploma veya sertifika bulunmamaktadır. Katılınan iş sağlığı ve güvenliği eğitimleri ile İŞKUR işgücü yetiştirme kurslarının sonunda katılım belgesi verilebilir."
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğe özgü kademeli bir örgün eğitim basamağı bulunmamaktadır. İlköğretim sonrası açık öğretim yoluyla öğrenime devam edilebilir; madencilik alanındaki mesleki ve teknik eğitim programlarına veya Halk Eğitim Merkezi/İŞKUR kurslarına katılarak bilgi ve beceriler geliştirilebilir.",
+  "is_hayatinda": "Meslekte ilerleme büyük ölçüde kişinin deneyimi, iş disiplini ve işletmenin ihtiyaçlarına bağlıdır. Deneyim kazanan Pulcular, zaman içinde vagon/üretim takip işlerinde sorumluluk üstlenebilir, ustabaşılık veya vardiya nezaretçiliği gibi görevlere yükselebilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Mesleğe özgü örgün bir eğitim programı bulunmadığından, 3308 sayılı Mesleki Eğitim Kanunu kapsamında bir ücret söz konusu değildir. Kişi doğrudan işe alınarak işbaşında eğitilir; bu dönemde işletmenin belirlediği ücret, genellikle çalışılan süre esas alınarak ödenir. İŞKUR kurslarına katılanlara ise kursiyer harçlığı ödenebilir.",
+  "egitim_sonrasi": [
+   "Kamu kuruluşlarına bağlı maden işletmelerinde çalışanlar işçi statüsünde istihdam edilir ve ücretleri ilgili toplu iş sözleşmesi hükümlerine göre belirlenir.",
+   "Özel sektörde çalışanların kazancı işyerinin büyüklüğü, çalışma koşulları ve kişinin deneyimine göre değişmekle birlikte, mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Vardiyalı veya yeraltı çalışmasına bağlı olarak işyerine göre ek tazminat/prim uygulamaları söz konusu olabilir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T19:48:37",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5500
+  }
+ }
+}

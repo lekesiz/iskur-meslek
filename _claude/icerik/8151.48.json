@@ -1,0 +1,85 @@
+{
+ "arac_gerec": [
+  "İşbağ (düğümleme) makinesi",
+  "Levent (iplik sarılı bobin)",
+  "Alt ve üst işbağ sehpası",
+  "İplik tarama aparatı",
+  "Değiştirilebilir makine iğneleri",
+  "Hava tabancası",
+  "Kesici alet/makas",
+  "Yağlama ve bakım ekipmanları",
+  "Koruyucu eldiven ve iş elbisesi",
+  "Kulak koruyucu",
+  "Toz/hav maskesi",
+  "Üretim takip/rapor formları"
+ ],
+ "benzer_meslekler": [
+  "Bobin Sarıcı (Mensucat)",
+  "Cer Makinesi Operatörü-Tekstil",
+  "İplik Eğirme Operatörü (Ring/vater/vargel)",
+  "Vater-Bobin Makinesi Operatörü",
+  "İplik Operatörü",
+  "Bobin Makinesi Operatörü"
+ ],
+ "calisma_alanlari": "İşbağcılar (düğümcüler) başta iplik ve dokuma fabrikaları olmak üzere, tekstil üretiminin yapıldığı sanayi tesislerinde ve dokuma atölyelerinde istihdam edilirler. Çalışma alanları, dokuma öncesi hazırlık bölümleri (çözgü hazırlama, işbağ/düğümleme üniteleri) ile sınırlıdır ve genellikle tekstil sanayinin yoğun olduğu sanayi bölgelerinde iş bulma imkânı bulunur.\\n\\nMeslek, özel sektör ağırlıklı bir alandır; kamu kurumlarında doğrudan istihdam olanağı bulunmamaktadır. Deneyim kazandıkça aynı işletme içinde farklı tekstil makineleri operatörlüklerine geçiş mümkün olabilir.",
+ "calisma_ortami": "İşbağcılar, iplik ve dokuma fabrikalarının üretim bölümlerinde, kapalı mekânlarda görev yaparlar. Çalışma ortamı makine gürültüsü ile iç içedir ve havada iplik tozu/hav bulunabilir; bu nedenle koruyucu donanım kullanımı önemlidir. Görev genellikle ayakta ve makine başında, uzun süreli dikkat gerektiren şekilde yürütülür. İşyerinin üretim temposuna bağlı olarak vardiyalı çalışma söz konusu olabilir.\\n\\nÇalışma sırasında işbağcılar öncelikle makine ve malzeme ile ilgilenirler; bunun yanında vardiya arkadaşları, usta başı ve üretim sorumlularıyla iletişim hâlinde olurlar. Üretim raporlarının hazırlanması ve vardiya teslimi nedeniyle düzenli ve sistemli çalışma gerekir.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi, örgün olarak standart bir okul/bölüm programı şeklinde yaygın değildir. Bilgi ve beceriler çoğunlukla işletme içinde işbaşında, usta yanında uygulamalı olarak kazanılır. Ayrıca Halk Eğitim Merkezleri ile İŞKUR tarafından açılan tekstil/iplik üretimi ile ilgili mesleki eğitim kurslarında da temel bilgiler verilebilmektedir.",
+  "giris_kosullari": [
+   "İlköğretim mezunu olmak (mesleğin gerektirdiği minimum eğitim düzeyi)",
+   "Kurslara katılmak için genellikle okuryazar/ilköğretim düzeyinde olmak yeterlidir",
+   "18 yaşından küçükler için veli izni gerekir",
+   "Belirli bir yaş ve eğitim şartı, kursu düzenleyen kurumun duyurusuna göre değişebilir"
+  ],
+  "sure_ve_icerik": "İşbaşı eğitiminin süresi işletmeye ve kişinin öğrenme hızına göre değişir; genellikle birkaç haftadan birkaç aya kadar sürebilir. Eğitim süresince leventlerin değiştirilmesi, iplik tarama ve çapraz alma teknikleri, işbağ makinesinin ayarları (tel sayısı, iğne seçimi), düğüm kontrolü, makinenin temizlik-bakım işlemleri ve iş güvenliği kuralları öğretilir. Kurs olarak verildiği durumlarda içerik, tekstil elyafı ve iplik bilgisi, makine kullanımı ve temel bakım konularını kapsar.",
+  "belge": "İşletme içi işbaşı eğitiminde resmî bir belge düzenlenmeyebilir; usta onayı ile göreve başlanır. Kurs yoluyla eğitim alanlara ilgili kurumdan Kurs Bitirme Belgesi verilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "ek_bilgiler": "Bu meslek, iplik üretiminden dokumaya geçiş aşamasında yer alan bir hazırlık işlemidir; dokuma tezgâhlarının kesintisiz çalışabilmesi açısından işletme için önemlidir. Çalışma ortamındaki gürültü ve iplik tozu nedeniyle iş sağlığı ve güvenliği önlemlerine (kulak koruyucu, toz maskesi gibi) uyulması önerilir.",
+ "genel_ozellikler": [
+  "El becerisine sahip,",
+  "Dikkatli ve titiz,",
+  "Göz ve elini eşgüdümle kullanabilen,",
+  "Sabırlı,",
+  "Fiziksel dayanıklılığa sahip,",
+  "Makine ve teknik aletlerle çalışmaya istekli,",
+  "Düzenli ve sorumluluk sahibi,",
+  "Takım çalışmasına uyumlu"
+ ],
+ "gorevler": [
+  "Makinedeki levent bittiğinde ipleri çapraza alır ve keser.",
+  "Boş leventi indirip yerine dolu leventi koyar.",
+  "Alt ve üst işbağ sehpasını hazırlar.",
+  "İplikleri düzgün dokunabilmesi için tarayarak hazır hale getirir.",
+  "İplerin doğru çaprazlandığından emin olur.",
+  "İp tel sayısına göre işbağ makinesine değerleri girer.",
+  "İpliğin denyesine göre işbağ makinesinin iğnesini değiştirir.",
+  "Makinenin attığı düğümleri kontrol eder.",
+  "Düğümlenen ipin lamellerden yavaşça geçmesini sağlar.",
+  "Çalışma alanını temiz ve düzenli tutar.",
+  "Makinenin periyodik bakım ve yağlanmasını gerçekleştirir.",
+  "Hava tabancası kullanarak ipliklerden kalan havları temizler.",
+  "Üretim programını takip eder ve vardiyasını teslim etmeden önce üretim raporunu hazırlar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "İşletmenin büyüklüğüne ve üretim yapısına göre, çalışanlara hizmet içi eğitim programları düzenlenebilir. Deneyim kazandıkça işbağ makinesinin farklı modellerinde ve ileri ayar işlemlerinde eğitim alınabilir, ayrıca diğer iplik ve dokuma hazırlık makinelerinin kullanımı öğrenilebilir.",
+  "is_hayatinda": "Tecrübe kazanan işbağcılar, zaman içinde usta, vardiya sorumlusu veya bölüm şefi gibi görevlere yükselebilir. İlgili makine ve süreçlere hâkimiyet arttıkça, üretim planlama ve kalite kontrol gibi görevlerde de yer alabilirler."
+ },
+ "kazanc": {
+  "egitim_suresince": "Eğitim işletme içinde işbaşında verildiği için genellikle bu dönemde sabit bir ücret söz konusu olmayabilir; bazı işletmelerde stajyer/çırak statüsünde düşük düzeyde bir ödeme yapılabilir. Kurs yoluyla alınan eğitimlerde ise herhangi bir kazanç söz konusu değildir.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanlarda kazanç genellikle asgari ücret düzeyindedir.",
+   "Özel sektörde ücret, işletmenin büyüklüğüne, çalışanın deneyim ve bilgi düzeyine, iş sözleşmesi koşullarına göre değişebilir.",
+   "Mesleğin kamuda işçi statüsünde istihdam edildiği durumlarda ücret, ilgili toplu iş sözleşmesi hükümlerine göre belirlenir.",
+   "Deneyim ve sorumluluk arttıkça (usta başı, vardiya sorumlusu gibi) kazanç düzeyi yükselebilir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T13:37:25",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5560
+  }
+ }
+}

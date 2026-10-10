@@ -1,0 +1,78 @@
+{
+ "gorevler": [
+  "Arazide üretim için hazırlık yapar.",
+  "Generatif üretim (tohumla üretim) yapar.",
+  "Yapraklarından faydalanılan ilaç ve baharat bitkilerini yetiştirir.",
+  "Çiçeklerinden faydalanılan ilaç ve baharat bitkilerini yetiştirir.",
+  "Meyvelerinden faydalanılan ilaç ve baharat bitkilerini yetiştirir.",
+  "Tohumlarından faydalanılan ilaç ve baharat bitkilerini yetiştirir.",
+  "Tarla bitkileri hastalıkları ile mücadele eder.",
+  "Tarla bitkileri zararlıları ile mücadele eder.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "arac_gerec": [
+  "Toprak işleme aletleri (çapa, bel, tırmık, pulluk)",
+  "Tohum ekim ve dikim araçları",
+  "Gübre ve gübreleme ekipmanları",
+  "Sulama sistemleri (damla sulama, yağmurlama başlıkları, hortum)",
+  "İlaçlama sırt pompası ve püskürtücüler",
+  "Budama makası ve bıçakları",
+  "Hasat araçları (orak, biçme makinesi)",
+  "Kurutma ve depolama ekipmanları (kurutma file/rafları, çuval, kasa)",
+  "Toprak analiz kiti, pH metre",
+  "Elek ve kalburlama ekipmanları",
+  "Koruyucu eldiven, maske, çizme, iş tulumu/önlüğü",
+  "El traktörü/çapa makinesi"
+ ],
+ "genel_ozellikler": [
+  "Doğayı ve bitkileri seven,",
+  "Açık havada ve değişken iklim koşullarında çalışmaya istekli,",
+  "El ve beden becerisine sahip,",
+  "Dikkatli ve sabırlı,",
+  "Gözlem yeteneği gelişmiş,",
+  "Sorumluluk sahibi ve planlı çalışabilen,",
+  "Fiziksel olarak dayanıklı,",
+  "Kimyasal gübre ve ilaçlara karşı alerjisi olmayan"
+ ],
+ "calisma_ortami": "İlaç ve baharat bitkileri yetiştiricisi, büyük ölçüde açık arazide (tarla, bahçe) çalışır; bazı işletmelerde sera ortamında da görev yapabilir. Çalışma, mevsime ve bitkinin yetişme-hasat dönemine bağlı olarak sıcak, soğuk, tozlu, nemli veya çamurlu koşullarda sürebilir; eğilip kalkma, uzun süre ayakta durma ve orta-ağır fiziksel efor gerektirir. Gübreleme ve ilaçlama sırasında kimyasal maddelerle temas riski bulunduğundan koruyucu ekipman kullanımı ve iş güvenliği kurallarına uyum önemlidir.\n\nÇalışma saatleri, özellikle ekim, dikim ve hasat dönemlerinde uzayabilir; mevsimlik yoğunluk görülebilir. Meslek sahibi; işletme sahibi veya yöneticisi, tarım teknisyeni/mühendisi, diğer tarım işçileri ve ürünün pazarlandığı aracı veya alıcı kişilerle iş birliği içinde çalışır.",
+ "egitim": {
+  "verildigi_yerler": "İlaç ve Baharat Bitkileri Yetiştiricisi olmak için örgün eğitimde bu mesleğe özgü ayrı bir program bulunmamaktadır. Mesleğe giriş genellikle işbaşında usta yanında, aile işletmelerinde çalışarak veya Halk Eğitim Merkezleri ile İŞKUR'un açtığı tarımsal yetiştiricilik kurslarına katılarak sağlanır. Daha ileri düzeyde bilgi edinmek isteyenler, mesleki ve teknik Anadolu liselerinin bahçecilik/tarım teknolojileri alanlarından veya üniversitelerin tıbbi ve aromatik bitkiler ile bitkisel üretim ile ilgili ön lisans/lisans programlarından yararlanabilir.",
+  "giris_kosullari": [
+   "Mesleğin gerektirdiği minimum eğitim düzeyi ilköğretimdir; okuryazar olmak ve temel tarımsal becerilere sahip olmak işbaşı eğitim için yeterlidir.",
+   "Halk Eğitim Merkezi ve İŞKUR kurslarına katılmak için genellikle ilköğretim mezunu olmak ve kursun belirlediği yaş/sağlık koşullarını taşımak gerekir.",
+   "Mesleki ve teknik lise alanlarına girmek için ilköğretim mezunu olmak; ön lisans/lisans programlarına girmek için ise lise mezunu olmak ve YKS'de ilgili puan türünden yeterli puanı almak gerekir."
+  ],
+  "sure_ve_icerik": "İşbaşı eğitim süresi, kişinin önceki tecrübesine ve işin karmaşıklığına göre değişmekte olup genellikle birkaç aydan bir-iki yıla kadar sürebilir. Bu süreçte toprak hazırlığı, tohumla üretim (generatif üretim), dikim, sulama, gübreleme, hastalık ve zararlılarla mücadele, hasat ve kurutma/depolama gibi konularda uygulamalı bilgi ve beceri kazandırılır. İŞKUR ve Halk Eğitim Merkezi kursları genellikle kısa süreli (birkaç hafta-ay) teorik ve uygulamalı eğitimlerden oluşur. Örgün mesleki ve teknik eğitim programlarında ise bitki yetiştiriciliği, toprak bilgisi, gübreleme ve bitki koruma dersleri yer alır.",
+  "belge": "İşbaşında yetişenler için resmî bir diploma bulunmamaktadır; Halk Eğitim Merkezi veya İŞKUR kurslarını tamamlayanlara katılım/başarı belgesi verilir. Mesleki ve teknik lise veya ön lisans/lisans programlarını tamamlayanlar ilgili diploma veya sertifikayı alır."
+ },
+ "calisma_alanlari": "İlaç ve baharat bitkileri yetiştiricileri; bu bitkilerin üretimini yapan tarımsal işletmelerde, aile çiftliklerinde, tarımsal üretim kooperatiflerinde, ilaç ve gıda sanayine hammadde sağlayan tarla ve bahçe işletmelerinde, tarım il/ilçe müdürlüklerine bağlı deneme ve üretim alanlarında çalışabilirler. Ayrıca kendi arazisini veya kiraladığı araziyi işleterek bağımsız üretici olarak da faaliyet gösterebilirler. İlaç, baharat ve aromatik bitkilere yönelik talebin artmasıyla bu alanda istihdam olanaklarının geliştiği gözlenmektedir.",
+ "kazanc": {
+  "egitim_suresince": "İşbaşında usta yanında eğitim sırasında genellikle bir ücret ödenmez veya sembolik bir karşılık verilir; İŞKUR kurslarına katılanlara kursiyer harçlığı ödenebilir. Mesleki ve teknik lise öğrencileri staj dönemlerinde yasaların belirlediği ücreti alabilir ve bu süre sigortalı sayılabilir.",
+  "egitim_sonrasi": [
+   "İşe yeni başlayanlarda kazanç genellikle asgari ücret düzeyindedir.",
+   "Deneyim, bilgi-beceri düzeyi ve çalışılan işletmenin büyüklüğüne göre ücret artabilir.",
+   "Kendi işletmesini kuranlarda kazanç, yetiştirilen ürünün verimine, kalitesine ve pazar fiyatlarına göre değişkenlik gösterir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğe işbaşında başlayanlar, isterlerse mesleki ve teknik lise bahçecilik/tarım teknolojileri alanlarına veya üniversitelerin tıbbi ve aromatik bitkiler, bitkisel üretim gibi ön lisans/lisans programlarına yönelerek bilgi ve unvanlarını ilerletebilirler.",
+  "is_hayatinda": "Deneyim kazanan meslek sahipleri işletmelerde tarım çavuşu veya kısım şefi gibi konumlara yükselebilir, işletme yöneticiliği üstlenebilir ya da kendi tarımsal işletmesini kurarak bağımsız üretici olabilir."
+ },
+ "benzer_meslekler": [
+  "Endüstri Bitkileri Yetiştiricisi",
+  "Çiftçi (Bahçıvan)",
+  "Keyif Bitkileri Yetiştiricisi",
+  "Çiçeklerinden Faydalanılan İlaç ve Baharat Bitkileri Yetiştiricisi",
+  "Meyvelerinden Faydalanılan İlaç ve Baharat Bitkileri Yetiştiricisi",
+  "Tarım Çavuşu"
+ ],
+ "ek_bilgiler": "Gübreleme ve özellikle ilaçlama sırasında kimyasal maddelerle çalışıldığından koruyucu ekipman kullanımı ve iş güvenliği önlemlerine uyulması önemlidir. Mesleki Yeterlilik Kurumu (MYK) belgesi, bazı işletmelerde istihdamda tercih sebebi olabilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T21:18:07",
+  "usage": {
+   "input_tokens": 4,
+   "output_tokens": 9334
+  }
+ }
+}

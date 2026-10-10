@@ -1,0 +1,76 @@
+{
+ "arac_gerec": [
+  "Yemlik ve suluk ekipmanları",
+  "Otomatik yemleme ve sulama sistemleri",
+  "Isıtıcı ve havalandırma sistemleri",
+  "Termometre ve nem ölçer",
+  "Dezenfeksiyon malzemeleri ve basınçlı yıkama cihazı",
+  "Temizlik malzemeleri (süpürge, fırça, kürek)",
+  "Yumurta toplama kasaları veya bantlı toplama sistemleri",
+  "Taşıma ve nakliye kasaları",
+  "Koruyucu tulum, eldiven, çizme ve maske",
+  "Kayıt defteri veya bilgisayar/tablet ile takip programı",
+  "El feneri ve basit aydınlatma ekipmanları",
+  "İlaçlama ve aşılama ekipmanları"
+ ],
+ "benzer_meslekler": [
+  "Çiftçi (Kümes Hayvanları)",
+  "Kümes Hayvanları Yetiştirme İşçisi (Genel)",
+  "Kümes Bakım İşçisi",
+  "Deve Kuşu Yetiştiricisi",
+  "Kaz ve Öredek Yetiştiricisi",
+  "Bıldırcın ve Keklik Yetiştiricisi",
+  "Güvercin Yetiştiricisi",
+  "Diğer Hayvan Yetiştirme İşçileri"
+ ],
+ "genel_ozellikler": [
+  "Hayvanlara ve doğaya karşı ilgili,",
+  "Dikkatli ve sorumluluk sahibi,",
+  "Fiziksel olarak dayanıklı,",
+  "Düzenli ve disiplinli çalışabilen,",
+  "Koku, toz ve nem gibi koşullara karşı dayanıklı,",
+  "El becerisine sahip,",
+  "Sabırlı ve gözlem yeteneği gelişmiş,",
+  "Ekip halinde çalışmaya uyumlu"
+ ],
+ "calisma_ortami": "Diğer kümes hayvanları işçileri, genellikle kapalı veya yarı açık kümes ve barınaklarda çalışır. Çalışma ortamı hayvan kokusu, toz, nem ve gürültü içerebilir; uzun süre ayakta durma, eğilme ve fiziksel güç gerektiren hareketler mesleğin bir parçasıdır. Hayvanlarla doğrudan temas nedeniyle hijyen ve biyogüvenlik kurallarına dikkat edilmesi gerekir.\n\nÇalışma saatleri hayvanların bakım ihtiyaçlarına göre düzenlenir; erken sabah saatlerinde başlayan ve hafta sonu ile resmi tatillerde de sürdürülmesi gereken bir çalışma düzeni söz konusu olabilir. İşini işletme sahibi veya kümes sorumlusu, diğer kümes işçileri ve gerektiğinde veteriner hekimle iş birliği içinde yürütür.",
+ "egitim": {
+  "verildigi_yerler": "Bu meslek için örgün bir mesleki eğitim programı bulunmamaktadır. Meslek genellikle işletmelerde usta yanında çalışarak öğrenilir. Tarım ve hayvancılık alanındaki mesleki ve teknik eğitim kurumları ile Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kursları da bilgi ve beceri kazandırabilir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "Hayvan bakım işlerini fiziksel olarak yürütebilecek sağlık durumuna sahip olmak"
+  ],
+  "sure_ve_icerik": "Meslekte belirli bir eğitim süresi bulunmamaktadır; bilgi ve beceriler işbaşında usta yanında çalışılarak zamanla kazanılır. Katılınabilecek mesleki eğitim kurslarının süresi kursu açan kuruma göre değişmekle birlikte genellikle kümes hayvanı bakımı, besleme, hastalık belirtilerinin tanınması, hijyen ve biyogüvenlik gibi konuları kapsar.",
+  "belge": "Çalışılan işyerinden alınan hizmet/deneyim belgesi; katılınan kurslardan alınan katılım veya başarı belgesi."
+ },
+ "calisma_alanlari": "Diğer kümes hayvanları işçileri; tavuk, hindi ve ördek dışındaki özel kümes hayvanlarının (deve kuşu, bıldırcın, keklik, güvercin gibi) yetiştirildiği özel sektöre ait işletmelerde, damızlık çiftliklerde, tarımsal kooperatiflerde ve hayvancılık kombinalarında istihdam edilir. İş bulma olanakları, bu tür özel kümes hayvancılığı işletmelerinin sayısına ve bölgesel yoğunluğuna bağlı olarak değişmektedir.",
+ "kazanc": {
+  "egitim_suresince": "Örgün bir eğitim programı bulunmadığından eğitim süresince düzenli bir kazanç söz konusu değildir. İşletmede çalışarak mesleği öğrenenler, çalıştıkları süre için işveren tarafından ücret alır.",
+  "egitim_sonrasi": [
+   "Yeni başlayanlarda kazanç genellikle asgari ücret düzeyindedir.",
+   "Deneyim, işletmenin büyüklüğü ve üstlenilen sorumluluk arttıkça kazanç artabilir.",
+   "Özel sektörde çalışıldığından ücret, işveren ile çalışan arasındaki anlaşmaya göre belirlenir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Bu meslekte örgün bir ilerleme basamağı bulunmamaktadır. İlgi duyanlar, tarım ve hayvancılık alanındaki mesleki ve teknik eğitim programlarına veya kurslara yönelerek bilgi ve becerilerini geliştirebilir.",
+  "is_hayatinda": "Deneyim kazandıkça kümes sorumlusu veya ekip lideri gibi görevlere yükselebilir; yeterli bilgi ve birikime ulaşanlar kendi işletmesini kurarak kümes hayvanı yetiştiriciliğini kendi adına sürdürebilir."
+ },
+ "gorevler": [
+  "Kümeslerin temizliğini ve dezenfeksiyonunu yapar.",
+  "Hayvanların yem ve su ihtiyaçlarını karşılar.",
+  "Hayvanların sağlık durumlarını takip eder ve hastalık belirtilerini raporlar.",
+  "Kümes içi sıcaklık ve havalandırma ayarlarını kontrol eder.",
+  "Yumurta toplama ve kayıt işlemlerini gerçekleştirir.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ek_bilgiler": "Kümes hayvanı yetiştiriciliğinde çalışanlar, kuş gribi gibi hayvandan insana geçebilen hastalıklara karşı hijyen ve biyogüvenlik kurallarına özenle uymalıdır. Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T21:44:09",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5296
+  }
+ }
+}

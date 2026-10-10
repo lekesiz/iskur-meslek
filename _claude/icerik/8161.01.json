@@ -1,0 +1,73 @@
+{
+ "arac_gerec": [
+  "Sterilize kazanı (sterilizasyon ünitesi)",
+  "Buhar kazanı ve buhar vanaları",
+  "Süt transfer pompaları",
+  "Kontrol panosu ve göstergeler (sıcaklık, basınç ölçerler)",
+  "Yağ parçalayıcı (homojenizasyon/ayırma) ünitesi",
+  "Soğutma ünitesi",
+  "Steril (aseptik) tanklar",
+  "Boru hatları, conta ve bağlantı vanaları",
+  "CIP (yerinde temizleme) sistemi ve dezenfeksiyon ekipmanları",
+  "Koruyucu iş elbisesi, eldiven ve bone"
+ ],
+ "benzer_meslekler": [
+  "Uht Operatörü",
+  "Süttozu İmal İşçisi",
+  "Meyveli Yoğurt İmal İşçisi",
+  "Sterilize Pişirme Operatörü-Meyve ve Sebze Konservesi",
+  "Otoklav Operatörü (Konserve İmalatı)"
+ ],
+ "calisma_alanlari": "Sterilizer makinesi operatörü, süt ve süt ürünleri üreten işletmelerde (süthane, mandıra, süt ve süt ürünleri fabrikaları) üretim bölümünde çalışır. Kamuya veya özel sektöre ait süt işleme tesislerinde istihdam edilebilir. İş bulma olanakları, hayvancılık ve süt üretiminin yoğun olduğu bölgelerdeki süt işleme tesislerinin yaygınlığına göre değişmektedir.",
+ "calisma_ortami": "Sterilizer makinesi operatörü, süthane/mandıra işletmelerinin üretim bölümünde genellikle kapalı alanda çalışır. Çalışma ortamı buhar nedeniyle sıcak ve nemli olabilir; gürültü, kayganlık, basınçlı buhar sistemleriyle çalışma gibi riskler bulunur. Gıda üretim ortamı olduğu için hijyen kurallarına titizlikle uyulması, koruyucu iş elbisesi, eldiven ve bone kullanılması gerekir.\n\nİşletmelerin üretim temposuna bağlı olarak vardiyalı veya tam gün çalışma düzeni uygulanabilir. Çalışan, üretim hattındaki diğer operatörler, kalite kontrol personeli ve vardiye/üretim sorumlusuyla sürekli iletişim halindedir. İş sağlığı ve güvenliği önlemlerinin işveren tarafından alınması ve çalışan tarafından uygulanması önemlidir.",
+ "egitim": {
+  "verildigi_yerler": "Bu meslek için örgün eğitimde ayrı bir çıraklık dalı veya meslek lisesi programı resmi olarak tanımlanmamıştır. Meslek genellikle süt/mandıra işletmelerinde işbaşında, usta yanında yetişilerek öğrenilmektedir. Gıda teknolojisi veya süt ve ürünleri işleme alanındaki mesleki ve teknik eğitim programları ile Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kursları bu mesleğe hazırlayıcı nitelikte olabilir.",
+  "giris_kosullari": [
+   "İlköğretim mezunu olmak (meslek için gereken minimum eğitim düzeyi)",
+   "Gıda üretim ortamında çalışmaya sağlık yönünden uygun olmak (gıda sektöründe periyodik sağlık muayenesi gerekebilir)",
+   "Vardiyalı ve tempolu çalışma koşullarına fiziksel olarak uygun olmak"
+  ],
+  "sure_ve_icerik": "Mesleğin resmi olarak tanımlanmış standart bir eğitim süresi ve müfredatı bulunmamaktadır. Kişiler genellikle süt/mandıra işletmelerinde işe başlayarak, deneyimli bir usta veya vardiye sorumlusu gözetiminde sterilize ünitesinin çalışma prensiplerini, buhar ve basınç sistemlerini, hijyen ve iş güvenliği kurallarını uygulamalı olarak öğrenir. Gıda teknolojisi alanındaki mesleki eğitim kurumlarında verilen süt ve ürünleri işleme dersleri bu süreci destekleyebilir.",
+  "belge": "Örgün mesleki eğitim kurumundan mezun olunması durumunda diploma; Halk Eğitim Merkezi veya İŞKUR kurslarına katılım durumunda kurs katılım/bitirme belgesi alınabilir. Gıda üretiminde çalışanlar için ayrıca hijyen eğitimi belgesi istenebilir."
+ },
+ "ek_bilgiler": "Gıda üretiminde çalışacak kişilerin periyodik sağlık muayenesinden geçmesi ve hijyen kurallarına uyması önemlidir. Buhar ve basınçlı sistemlerle çalışıldığından temel iş güvenliği bilgisine sahip olmak gerekir. Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda tercih sebebi olabilir.",
+ "genel_ozellikler": [
+  "Dikkatli ve sorumluluk sahibi,",
+  "Teknik ve mekanik ekipman kullanmaya yetenekli,",
+  "Fiziksel olarak sağlıklı ve dayanıklı,",
+  "Hijyen kurallarına uyan, temiz ve düzenli çalışmaya özen gösteren,",
+  "Pano ve göstergelerdeki ölçümleri doğru okuyup yorumlayabilen,",
+  "Vardiyalı çalışma düzenine uyum sağlayabilen,",
+  "Ekip çalışmasına uyumlu,",
+  "Talimatlara uyma konusunda disiplinli"
+ ],
+ "gorevler": [
+  "Buhar vanalarını açarak üniteye istenilen derecede sıcak buhar sevk eder.",
+  "Sütü pompayla sterilize kazanlarına aktararak sütün geliş hızını ayarlar.",
+  "Sütün kazan içinde ısıtılarak sterilize edilmesine nezaret eder.",
+  "Sütteki yağı parçalayan ve sütü soğutan üniteleri devreye sokar.",
+  "Isı derecelerini ve işlemin seyrini panolara ve göstergelere bakarak kontrol eder.",
+  "Sterilize edilip soğutulan sütü pompayla steril tanklarına alır.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Deneyim kazandıkça süt teknolojisi, gıda güvenliği ve hijyen konularında açılan kurslara katılarak bilgi ve becerilerini geliştirebilir. İsteyen ve koşulları sağlayanlar, sınavla gıda teknolojisi veya süt ve ürünleri işleme alanında yaygın ya da örgün eğitim programlarına yönelebilir.",
+  "is_hayatinda": "Deneyim ve bilgi birikimi arttıkça vardiye sorumlusu, üretim şefi veya tesis sorumlusu gibi görevlere yükselebilir. Tecrübesini artırarak işletmenin diğer üretim hatlarında da görev alabilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Meslek genellikle işbaşında öğrenildiği için, çalışan kişi bu süreçte çalıştığı işletmenin belirlediği ücretle, genellikle asgari ücret düzeyinde kazanç sağlar. Örgün mesleki eğitim kapsamında eğitim alınması durumunda 3308 sayılı Mesleki Eğitim Kanunu hükümlerine göre ücret ödenebilir.",
+  "egitim_sonrasi": [
+   "Yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Deneyim, bilgi birikimi ve çalışılan işletmenin büyüklüğüne göre kazanç artabilir.",
+   "Özel sektörde ücret taraflar arasında karşılıklı anlaşmayla belirlenir; işçi statüsünde çalışanlar için toplu iş sözleşmesi hükümleri uygulanabilir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T15:44:52",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6246
+  }
+ }
+}

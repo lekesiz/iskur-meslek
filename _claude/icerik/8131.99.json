@@ -1,0 +1,79 @@
+{
+ "arac_gerec": [
+  "Gaz dolum makinesi ve dolum hatları",
+  "Kompresör",
+  "Basınç regülatörü ve manometre",
+  "Tüp, tank ve silindir (gaz kapları)",
+  "Vana ve bağlantı ekipmanları",
+  "Sızdırmazlık test cihazı",
+  "Kriyojenik (sıvılaştırılmış gaz) depolama tankları",
+  "Etiketleme ve işaretleme ekipmanları",
+  "Forklift / transpalet",
+  "Yangın söndürme ekipmanları ve gaz dedektörleri",
+  "Kişisel koruyucu donanım (gözlük, eldiven, iş elbisesi, maske)",
+  "Tartım ve ölçüm cihazları"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve tedbirli,",
+  "Sorumluluk duygusu yüksek,",
+  "Talimatlara titizlikle uyan,",
+  "Fiziksel olarak dayanıklı,",
+  "El ve göz koordinasyonu iyi,",
+  "Ekip çalışmasına yatkın,",
+  "Basınçlı ve tehlikeli maddelerle çalışmaya uygun,",
+  "Temkinli ve soğukkanlı,"
+ ],
+ "gorevler": [
+  "İş sağlığı ve güvenliği mevzuatına uyar, gerekli güvenlik önlemlerini alır.",
+  "Üretilecek sınai ve tıbbi gazın türüne göre üretim sürecini hazırlar.",
+  "Gaz üretim tesisindeki makine ve ekipmanları çalıştırır.",
+  "Üretilen gazların basınç, sıcaklık ve saflık değerlerini kontrol eder.",
+  "Tüp, tank ve diğer kaplara gaz dolumu yapar.",
+  "Dolumu yapılan kapların sızdırmazlık kontrolünü yapar.",
+  "Dolumu tamamlanan tüp ve tankların etiketlenmesini ve işaretlenmesini sağlar.",
+  "Gazların özelliklerine uygun koşullarda depolanmasını sağlar.",
+  "Depolama alanlarının güvenlik ve düzenini kontrol eder.",
+  "Kullanılan araç, gereç ve ekipmanların periyodik bakım ve kontrollerini takip eder.",
+  "Üretim, dolum ve depolama süreçlerine ilişkin kayıtları tutar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "calisma_ortami": "\"Sınai ve tıbbi gazlar üretim, dolum ve depolama elemanı genellikle sanayi tesislerinde, gaz üretim ve dolum fabrikalarında çalışır. Çalışma ortamı kapalı mekânlardaki dolum hatları ile açık alandaki tank ve depolama sahalarından oluşabilir. Basınçlı kaplarla ve bazı gazların yanıcı, parlayıcı veya soğuk (kriyojenik) özellikte olması nedeniyle çalışırken yüksek dikkat ve kişisel koruyucu donanım kullanımı gerekir.\\n\\nİş genellikle ayakta ve hareketli şekilde yürütülür, vardiyalı çalışma düzeni söz konusu olabilir. Meslek elemanı tesis içinde diğer üretim çalışanları, tesis sorumluları, iş güvenliği uzmanları ve bazen sevkiyat/lojistik personeli ile iletişim hâlinde çalışır.\"",
+ "egitim": {
+  "verildigi_yerler": "Bu meslek için örgün bir okul/fakülte programı bulunmamaktadır. Meslek elemanları genellikle işyerinde işbaşında, usta yanında yetiştirilmekte; ayrıca Halk Eğitim Merkezleri ile İŞKUR'un açtığı mesleki eğitim kursları kapsamında kimya/üretim teknolojileri alanına yönelik kurslardan da yararlanılabilmektedir. Mesleki ve teknik eğitimde kimya teknolojisi alanı mezunları bu işe daha kolay uyum sağlayabilir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "18 yaşını doldurmuş olmak",
+   "Kurs/işbaşı eğitim programının gerektirdiği temel beceriler için uygun fiziksel ve psikomotor yeterliğe sahip olmak"
+  ],
+  "sure_ve_icerik": "Örgün ve standart bir eğitim süresi belirlenmemiştir. İşbaşı eğitimler işletmenin ihtiyacına göre değişen sürelerde yürütülür; açılan kurslarda ise genellikle iş sağlığı ve güvenliği, basınçlı kaplarla çalışma kuralları, gazların özellikleri, dolum ve depolama teknikleri konuları işlenir.",
+  "belge": "İşbaşı eğitimi tamamlayanlara işletme tarafından çalışma belgesi, kurs yoluyla yetişenlere ise kurs bitirme/katılım belgesi verilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, özellikle tehlikeli iş kapsamında değerlendirilebilecek bu meslekte istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "\"Mesleğin yeterliliklerini kazanan kişiler; sınai gaz (oksijen, azot, argon, karbondioksit, asetilen vb.) üretim ve dolum tesislerinde, tıbbi gaz üretimi ve dolumu yapan firmalarda, bu gazları hastanelere ve sanayiye tedarik eden işletmelerde, endüstriyel gaz depolama ve dağıtım tesislerinde çalışabilirler.\"",
+ "kazanc": {
+  "egitim_suresince": "İşbaşında yetişme sürecinde bazı işletmeler asgari ücret düzeyinde veya daha düşük bir ücret ödeyebilir; İŞKUR/Halk Eğitim Merkezi kursları ise ücretsizdir ve bu süreçte herhangi bir kazanç söz konusu değildir.",
+  "egitim_sonrasi": [
+   "Meslek elemanlarının ücreti çalıştıkları işletmeye, deneyime ve çalışma koşullarına göre değişmekle birlikte işe yeni başlayanlarda genellikle asgari ücret düzeyindedir.",
+   "Kamuya bağlı kuruluşlarda işçi statüsünde çalışanların ücreti toplu iş sözleşmesi hükümlerine göre belirlenir.",
+   "Deneyim ve sorumluluk arttıkça kazanç da artabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Bu meslekte belirli bir örgün ilerleme basamağı yoktur; ancak kimya teknolojisi, iş sağlığı ve güvenliği veya basınçlı kaplarla çalışma konularında ek sertifika ve kurslarla bilgi ve beceriler geliştirilebilir.",
+  "is_hayatinda": "Bilgi, beceri ve deneyim arttıkça usta, ustabaşı, vardiya amiri veya tesis/üretim sorumlusu gibi görevlere yükselme imkânı bulunabilir."
+ },
+ "benzer_meslekler": [
+  "Yangın Söndürme Tüpü Dolum Makinesi Operatörü",
+  "Toz Dolum Makinesi Operatörü",
+  "Otoklav Operatörü (Kimyasal ve İlgili İşlemler)",
+  "Proses İşçisi"
+ ],
+ "ek_bilgiler": "\"Sınai ve tıbbi gazların basınçlı kaplarda üretim, dolum ve depolanması bazı durumlarda yanıcı, parlayıcı veya aşırı soğuk (kriyojenik) madde ile çalışmayı içerdiğinden iş sağlığı ve güvenliği açısından yüksek risk taşıyabilir; bu nedenle ilgili işletmede meslek, tehlikeli veya çok tehlikeli işler sınıfında değerlendiriliyor olabilir ve kişisel koruyucu donanım kullanımı önem taşır.\"",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T12:37:07",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6424
+  }
+ }
+}

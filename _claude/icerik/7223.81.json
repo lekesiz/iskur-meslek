@@ -1,0 +1,76 @@
+{
+ "gorevler": [
+  "Kesme, bükme veya kanal açma aparatlarını tezgahtaki yerlerine takar.",
+  "Yapılacak işleme göre metal levhayı makas ağzına getirir.",
+  "Kol yardımı ile tutucu kızak ile alt ve üst yatakları gerektiği kadar levhaya yaklaştırır.",
+  "Levhanın kesilecek dış kenarlarını kızak kelepçelerine takar.",
+  "Levhayı sıkıştırır ve üst yatağın yükseklik ayarını yapar.",
+  "Makineyi çalıştırarak metal levhayı keser, kanal açar veya büker.",
+  "İş bitiminde tezgahın bakım ve temizliğini yapar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "arac_gerec": [
+  "Titreşimli sac kesme makası tezgahı",
+  "Kesme, bükme ve kanal açma aparatları",
+  "Kızak kelepçeleri ve tutucu kızaklar",
+  "Metal levha ve saclar",
+  "Ölçü ve kontrol aletleri (metre, kumpas, mastar, şablon)",
+  "Taşıma ve kaldırma ekipmanları (vinç, forklift, el arabası)",
+  "Yağlama malzemeleri ve bakım el takımları",
+  "Kişisel koruyucu donanım (iş eldiveni, koruyucu gözlük, kulaklık, iş önlüğü, çelik burunlu ayakkabı)",
+  "Temel el aletleri (anahtar, pense, tornavida vb.)"
+ ],
+ "genel_ozellikler": [
+  "Şekilleri doğru algılama ve zihinde canlandırma becerisine sahip,",
+  "El ve gözünü eşgüdümle kullanabilen,",
+  "El becerisi gelişmiş,",
+  "Dikkatli ve tedbirli,",
+  "Fiziksel olarak dayanıklı,",
+  "Makine ve aletlerle çalışmaktan hoşlanan,",
+  "Sorumluluk sahibi,",
+  "Ekip içinde uyumlu çalışabilen"
+ ],
+ "calisma_ortami": "Titreşimli sac kesme makası operatörü, metal işleme atölyelerinde veya fabrikalarda genellikle ayakta ve kapalı ortamda çalışır. Çalışma ortamı gürültülü olabilir; metal tozu, yağ ve talaş nedeniyle kısmen kirlidir. Ağır ve kesici özellikteki metal levhalarla çalışıldığından kesilme, ezilme ve sıkışma gibi iş kazası riskleri bulunur; bu nedenle kişisel koruyucu donanım kullanımı önemlidir.\n\nÇalışma genellikle tam gün ve işyerinin üretim programına göre vardiyalı olabilir. Kişi çalışırken büyük ölçüde makineyle ilgilenir; ustabaşı, diğer tezgah operatörleri ve kalite kontrol elemanlarıyla kısa süreli iş ilişkisi kurar.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi için ayrı, standart bir örgün okul programı bulunmamaktadır. Meslek genellikle işyerlerinde usta yanında çalışılarak, mesleki eğitim merkezlerinin Metal Teknolojisi alanı kapsamındaki ilgili dallarında ya da Halk Eğitim Merkezleri ve İŞKUR tarafından açılan mesleki eğitim kurslarında kazanılmaktadır.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "Mesleğin gerektirdiği fiziksel çalışmaya uygun sağlık durumuna sahip olmak",
+   "Çıraklık eğitimine girecekler için ilgili mevzuatta belirtilen yaş ve okul şartlarını taşımak",
+   "El ve göz koordinasyonu gerektiren işlerde çalışmaya elverişli olmak"
+  ],
+  "sure_ve_icerik": "Standart ve belirli bir süreye bağlı resmi bir eğitim programı tanımlanmamıştır. Meslek, genellikle işbaşında usta yanında uygulamalı olarak öğrenilir; bu süreçte metal levha özellikleri, kesme-bükme-kanal açma işlemleri, tezgah ayarları, ölçü alma, iş güvenliği kuralları ve tezgah bakımı gibi konular uygulamalı olarak kazandırılır. Ayrıca mesleki eğitim merkezleri veya kurslarda açılan Metal Teknolojisi alanına ilişkin programlar tamamlanarak da mesleki bilgi ve beceri geliştirilebilir.",
+  "belge": "İşyerinde usta yanında yetişenlere resmi bir belge verilmeyebilir. Mesleki eğitim merkezlerinden mezun olanlara kalfalık/ustalık belgesi, kurs tamamlayanlara ise kurs bitirme belgesi/sertifika verilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Titreşimli sac kesme makası operatörleri başta metal işleme ve sac levha işleme atölyeleri olmak üzere, makine imalat sanayi, metal eşya ve yapı malzemeleri üretimi, beyaz eşya, otomotiv yan sanayi, inşaat demir-çelik imalatı ve genel metal sanayi işletmelerinde istihdam edilmektedir. Bu meslek elemanları genellikle özel sektöre ait küçük ve orta ölçekli atölyelerde ya da büyük fabrikaların üretim bantlarında görev alır. Metal sanayinin yaygınlığı nedeniyle iş bulma imkânı bölgesel sanayi yoğunluğuna göre değişmekle birlikte genel olarak mevcuttur.",
+ "kazanc": {
+  "egitim_suresince": "İşyerinde usta yanında yetişenlere genellikle sembolik bir ücret ödenebilir. Mesleki eğitim merkezi veya çıraklık kapsamında eğitim görenler için 3308 sayılı Mesleki Eğitim Kanunu hükümleri uygulanır. İŞKUR kursları kapsamında eğitim görenlere mevzuata göre kursiyer harçlığı ödenebilir.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç elde eder.",
+   "Deneyim, uzmanlık düzeyi ve çalışılan işletmenin büyüklüğüne göre kazanç artabilir.",
+   "Kamu kurumlarında işçi statüsünde çalışanlar ilgili toplu iş sözleşmesi hükümlerine tabidir.",
+   "Özel sektörde ücret işveren ile işçi arasındaki anlaşmaya göre belirlenir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleki eğitim merkezinden diploma alanlar, ilgili alanın devamı niteliğindeki ön lisans programlarını tercih edebilir. Kurs veya sertifika programlarıyla ileri düzey metal işleme ve CNC tezgah kullanımı gibi alanlarda bilgi ve beceri geliştirilebilir.",
+  "is_hayatinda": "Deneyim kazandıkça operatör, usta, ustabaşı veya vardiya/atölye sorumlusu gibi görevlere yükselebilir. İleri teknoloji tezgahların (CNC vb.) kullanıldığı işletmelerde ek eğitimlerle farklı makine operatörlüklerine geçiş yapabilir. Yeterli sermaye ve deneyime sahip olanlar kendi atölyelerini açabilir."
+ },
+ "benzer_meslekler": [
+  "Daire Makas Tezgahı Operatörü (Metal Levha)",
+  "Hidrolik Makas Tezgahı Operatörü (Metal Levha)",
+  "Motorlu Metal Kesme Makası Operatörü",
+  "Metal Levha İşleme Tezgah Operatörü",
+  "Metal Levha İşleme Tezgah İşçisi",
+  "Flanj Açma Makinesi Operatörü (Metal Levha)"
+ ],
+ "ek_bilgiler": "Ağır ve kesici metal levhalarla çalışıldığından iş sağlığı ve güvenliği kurallarına uyum ve koruyucu donanım kullanımı önem taşımaktadır.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T01:59:22",
+  "usage": {
+   "input_tokens": 4,
+   "output_tokens": 8472
+  }
+ }
+}

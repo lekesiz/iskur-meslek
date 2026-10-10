@@ -1,0 +1,74 @@
+{
+ "gorevler": [
+  "Yük göstergelerini kontrol eder veya elektrik yükü dağıtım memurunun talimatını değerlendirir ve çalışma esnasında kullanılacak jeneratör ünitelerinin sayısını belirleyerek jeneratör odasına yük üzerinde yapılması gereken değişikliği bildirir.",
+  "Henüz çalışmaya başlayan jeneratör üniteleri ile daha önce çalışmakta olan ünitelerin senkronizasyonu için kontrolleri düzenler.",
+  "Jeneratörün senkronize olduğu zamanı belirlemek için gösterge aletlerini kontrol eder ve jeneratör çıkışını baraya bağlamak üzere şalteri çeker.",
+  "Enerji çıkışını azaltmak veya arızalı çalışan üniteyi devreden çıkarmak için çıkışı baradan ayırır ve çalışmakta olan diğer jeneratörler arasındaki yükü eşitler.",
+  "Cereyan verilen devrelere ve jeneratör çıkışlarına ait değerlerin kayıtlarını tutar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "arac_gerec": [
+  "Kumanda/kontrol panosu ve gösterge tabloları",
+  "Ampermetre, voltmetre, frekansmetre, wattmetre gibi ölçü aletleri",
+  "Senkronoskop ve senkronizasyon kontrol düzenekleri",
+  "Şalterler ve devre kesiciler",
+  "Jeneratör kumanda ve otomasyon sistemleri (SCADA)",
+  "Telefon, telsiz ve dahili haberleşme sistemleri",
+  "Bilgisayar ve veri kayıt yazılımları",
+  "Vardiya ve işletme kayıt defterleri/formları",
+  "Acil durum ve yangınla mücadele ekipmanları",
+  "Kişisel koruyucu donanım (iş elbisesi, baret, eldiven, kulaklık, izoleli ayakkabı)"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve tedbirli,",
+  "Sorumluluk duygusu gelişmiş,",
+  "Hızlı ve doğru karar verebilen,",
+  "Stresli ve acil durumlarda sakin kalabilen,",
+  "Sayısal verileri okuyup yorumlayabilen,",
+  "Elektrik ve elektroniğe ilgili,",
+  "Ekip çalışmasına uyumlu,",
+  "Vardiyalı ve gece çalışmaya uygun sağlık durumuna sahip"
+ ],
+ "calisma_ortami": "Elektrik Tevzii Tablosu Operatörü (Enerji Merkezi), elektrik santrallerinin kumanda/kontrol odalarında kapalı mekanda çalışır. Çalışma alanı genellikle gösterge panoları, şalt düzenekleri ve bilgisayar ekranlarının bulunduğu bir kontrol merkezidir; ancak gerektiğinde jeneratör odasına ve şalt sahasına da girebilir. Santraller kesintisiz işletildiği için çalışma genellikle vardiya sistemiyle, gece-gündüz sürdürülür. Yüksek gerilim hatları ve elektrik ekipmanlarıyla iç içe çalışıldığından elektrik çarpması ve iş kazası riski bulunur; bu nedenle iş sağlığı ve güvenliği kurallarına titizlikle uyulması gerekir.\n\nGörevi sırasında jeneratör odasındaki personel, vardiya amiri, elektrik yükü dağıtım memuru ve diğer santral operatörleriyle sürekli iletişim halindedir. İşin niteliği, anlık gelişen durumlara hızlı ve doğru tepki vermeyi, sürekli dikkat ve uyanıklık halinde olmayı gerektirir.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğe özgü, ortaöğretim düzeyinde ayrı bir alan/dal bulunmamaktadır. Meslek, genellikle mesleki ve teknik ortaöğretim kurumlarının elektrik-elektronik teknolojisi alanından veya meslek yüksekokullarının elektrik, elektrik-elektronik, enerji üretim ya da kontrol ve otomasyon programlarından mezun olanların, işe girdikleri santrallerde işbaşında usta yanında ve kurum içi hizmet içi eğitimlerle yetiştirilmesiyle kazanılmaktadır. Ayrıca İŞKUR ve Halk Eğitim Merkezlerinin açtığı ilgili mesleki eğitim kursları da bu alana hazırlık için destekleyici olabilir.",
+  "giris_kosullari": [
+   "Ortaokulu tamamlamış olmak (ortaöğretim düzeyinde eğitim için)",
+   "Lise veya dengi okul mezunu olmak (meslek yüksekokulu önlisans programları için)",
+   "İlgili elektrik-elektronik ve enerji alanlarına ilgi duymak",
+   "İşe alınacak işletmenin belirlediği sağlık ve nitelik şartlarını taşımak"
+  ],
+  "sure_ve_icerik": "Ortaöğretim düzeyinde elektrik-elektronik teknolojisi alanı eğitimi 4 yıl sürmekte, 9. sınıfta ortak genel kültür dersleri, 10. sınıfta alana yönelik ortak dersler, 11. ve 12. sınıflarda ise dala ait teorik ve uygulamalı dersler verilmektedir. Meslek yüksekokullarındaki ilgili önlisans programları ise 2 yıl sürmektedir. Bu eğitimlerin ardından işe girenler, çalıştıkları santralin özelliklerine göre jeneratör, senkronizasyon, şalt sahası işlemleri ve kayıt tutma konularında işbaşında ve kurum içi kurslarla mesleğe özgü yetkinlikleri kazanırlar.",
+  "belge": "Ortaöğretim düzeyinde meslek lisesi diploması veya önlisans düzeyinde meslek yüksekokulu diploması verilir. Ayrıca işletme içi eğitimler sonunda kurum sertifikaları düzenlenebilir; mesleğin tehlike sınıfına ve işyerinin uygulamalarına bağlı olarak Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Bu meslek elemanları başta termik, hidroelektrik, nükleer ve yenilenebilir enerji (güneş, rüzgâr vb.) santralleri olmak üzere elektrik üretimi yapılan tesislerin enerji merkezlerinde/kumanda odalarında istihdam edilir. Ayrıca büyük sanayi tesislerinin kendi enerji üretim ünitelerinde, organize sanayi bölgelerinin enerji merkezlerinde ve kamuya bağlı elektrik üretim kuruluşlarında çalışma olanağı bulunmaktadır. İstihdam, ülkenin enerji üretim kapasitesine ve yeni santral yatırımlarına bağlı olarak değişkenlik gösterebilir; deneyimli ve ilgili teknik eğitime sahip kişiler için tercih edilen bir meslektir.",
+ "kazanc": {
+  "egitim_suresince": "Meslek lisesi öğrencisi olarak işletmelerde staj/mesleki eğitim gören öğrencilere 3308 sayılı Mesleki Eğitim Kanunu gereğince asgari ücretin belirli bir oranında ücret ödenir ve iş kazası-meslek hastalığı sigorta primleri devletçe karşılanır. Önlisans düzeyinde staj yapanlar ise ilgili yükseköğretim mevzuatı ve işletme uygulamalarına göre ücretlendirilebilir.",
+  "egitim_sonrasi": [
+   "İlk işe girişte ücret genellikle asgari ücret düzeyindedir.",
+   "Kamuya bağlı enerji üretim kuruluşlarında çalışanlar, kadro statüsüne göre 657 sayılı Devlet Memurları Kanunu veya işçi statüsündeyse geçerli toplu iş sözleşmesi hükümlerine tabi olarak ücretlendirilir.",
+   "Özel sektörde ücret, işletmenin büyüklüğüne, çalışanın bilgi, beceri ve deneyimine göre karşılıklı anlaşma yoluyla belirlenir ve zamanla artış gösterebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Ortaöğretim düzeyindeki elektrik-elektronik teknolojisi alanı mezunları, isterlerse elektrik, elektrik-elektronik, enerji sistemleri mühendisliği gibi ilgili önlisans/lisans programlarına yönelebilir ve bu programları tercih ettiklerinde ilgili sınav kılavuzlarında belirtilen koşullardan yararlanabilirler.",
+  "is_hayatinda": "Deneyim ve bilgi birikimi arttıkça baş operatörlük, vardiya amirliği ve santral şefliği gibi daha üst düzey sorumluluk gerektiren görevlere yükselme imkânı bulunmaktadır."
+ },
+ "benzer_meslekler": [
+  "Termik Santral Elektrik İşletme Operatörü",
+  "Hidroelektrik Santral Operatörü",
+  "Yüksek Gerilim Trafo Merkezi İşletme Elemanı",
+  "Vardiya Amiri/Elektrik Enerjisi Üretimi",
+  "Termik Santral Türbin İşletme Operatörü",
+  "Diğer Güç Santrali Teçhizat Operatörleri"
+ ],
+ "ek_bilgiler": "Mesleğin görev ve işlemleri, çalışılan santralin türüne (termik, hidroelektrik, nükleer, yenilenebilir enerji vb.) göre bazı teknik ayrıntılarda farklılık gösterebilir; ancak temel amaç her durumda üretilen elektriği talebe uygun şekilde düzenlemektir. Yüksek gerilimle çalışma söz konusu olduğundan iş sağlığı ve güvenliği uygulamaları açısından işletmelerin belirlediği ek eğitim ve belgelendirme şartları aranabilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T10:40:12",
+  "usage": {
+   "input_tokens": 4,
+   "output_tokens": 10422
+  }
+ }
+}

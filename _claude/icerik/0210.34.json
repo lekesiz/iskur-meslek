@@ -1,0 +1,76 @@
+{
+ "arac_gerec": [
+  "Bot/gemi üzerindeki seyir ve navigasyon sistemleri (radar, GPS, pusula)",
+  "Haberleşme ve telsiz cihazları",
+  "Deniz gözetleme ve tespit sistemleri (sonar, kamera sistemleri)",
+  "Hafif ve ağır silah sistemleri ile atış kontrol ekipmanları",
+  "Arama kurtarma ekipmanları (can yeleği, can simidi, kurtarma botu)",
+  "Kişisel koruyucu donanım ve denizci kıyafetleri",
+  "Dürbün ve işaret fişekleri",
+  "Bakım onarım el aletleri",
+  "Bilgisayar, rapor ve kayıt yazılımları",
+  "Harita ve seyir cetvelleri"
+ ],
+ "genel_ozellikler": [
+  "Fiziksel ve psikolojik olarak sağlıklı ve dayanıklı,",
+  "Liderlik vasfına sahip,",
+  "Disiplinli ve emir-komuta zincirine uyumlu,",
+  "Sorumluluk sahibi ve kararlı,",
+  "Takım çalışmasına uygun,",
+  "Stresli ve riskli ortamlarda hızlı ve doğru karar verebilen,",
+  "Deniz koşullarına uyumlu, dinamik ve dayanıklı,",
+  "Vatana, bayrağa ve mesleki değerlere bağlı"
+ ],
+ "calisma_ortami": "Astsubay Kıdemli Çavuş (Sahil Güvenlik), görevini açık denizde bot veya gemi üzerinde, zaman zaman da kıyıdaki karakol ve komutanlık binalarında sürdürür. Çalışma ortamı değişken hava ve deniz koşulları, dalga, rüzgâr, gürültü ve titreşim gibi fiziksel etkenler içerebilir; görevin gereği uzun süreli deniz devriyeleri, gece nöbetleri ve vardiyalı çalışma söz konusudur. Zaman zaman kaçakçılık, yasa dışı göç veya arama-kurtarma gibi riskli operasyonlarda fiziksel tehlikeyle karşılaşabilir.\n\nGörevini yerine getirirken emrindeki personelle, üst amirleriyle, diğer kolluk ve güvenlik birimleriyle, gerektiğinde arama-kurtarma faaliyetlerinde sivil vatandaşlarla iletişim kurar. Çalışma saatleri sabit değildir; görev gereği uzun süre deniz üzerinde kalma, farklı bölgelere veya yurt dışı görevlere gönderilme söz konusu olabilir.",
+ "calisma_alanlari": "Astsubay Kıdemli Çavuş (Sahil Güvenlik), Sahil Güvenlik Komutanlığına bağlı bot komutanlıkları, gemi birlikleri, karakol komutanlıkları, bölge komutanlıkları ve eğitim merkezlerinde görev yapar. Kamu kurumu niteliğindeki bu teşkilatta çalışma alanı Türkiye kıyı şeridi, karasuları ve münhasır ekonomik bölgedir; özel sektörde bu mesleğin bir karşılığı bulunmamaktadır.",
+ "egitim": {
+  "verildigi_yerler": "Sahil Güvenlik Komutanlığına bağlı astsubay meslek yüksekokulu niteliğindeki askeri eğitim kurumlarında veya ilgili alanlarda önlisans eğitimi tamamlayıp sınavla astsubaylığa geçiş yapılan askeri okullarda verilir.",
+  "giris_kosullari": [
+   "T.C. vatandaşı olmak",
+   "Belirlenen yaş sınırları içinde olmak",
+   "En az lise veya dengi okul mezunu olarak askeri eğitim kurumuna girip önlisans eğitimini tamamlamak ya da önlisans mezunu olarak açılan sınavlara katılmak",
+   "Sağlık kurulu raporuyla belgelenen fiziki ve psikolojik yeterlilik şartlarını taşımak",
+   "Güvenlik soruşturması ve arşiv araştırmasını başarıyla geçmek",
+   "Yazılı sınav, mülakat ve spor/yeterlilik sınavlarında başarılı olmak"
+  ],
+  "sure_ve_icerik": "Eğitim, önlisans düzeyinde teorik ve uygulamalı derslerden oluşur. Denizcilik, seyir, hukuk, liderlik, haberleşme ve teknik derslerin yanında atış, spor ve denizcilik uygulamaları gibi pratik eğitimler verilir. Astsubaylığa atandıktan sonra kıdem ilerledikçe branşa yönelik hizmet içi kurslara katılım devam eder.",
+  "belge": "Astsubaylık diploması ve rütbe beratı ile birlikte ilgili alanda önlisans diploması alınır."
+ },
+ "gorevler": [
+  "Bot üzerindeki operasyonel sistemleri ve silahları faal tutar.",
+  "Deniz devriye ve arama-kurtarma görevlerine liderlik eder.",
+  "Personelin günlük çalışma ve eğitim takvimini yönetir.",
+  "Birim envanterindeki teknik cihazların bakımını denetler.",
+  "Görev raporlarını tanzim ederek üst amirlerine iletir.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "kazanc": {
+  "egitim_suresince": "Eğitim süresince askeri okul öğrencisi statüsünde barınma, iaşe ve giyim gibi ihtiyaçları karşılanır; ayrıca belirlenen tutarda harçlık/maaş ödenir.",
+  "egitim_sonrasi": [
+   "Mesleğe başlandığında ilgili askeri personel mevzuatı çerçevesinde rütbe ve kıdeme göre maaş, tazminat ve ek ödemeler alınır.",
+   "Kazanç, rütbe yükselmesi, kıdem süresi ve görev yerine göre zamanla artış gösterir.",
+   "Deniz hizmeti, risk ve görev tazminatları gibi ek ödemeler kazancı etkileyebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "İlgili askeri eğitim kurumunda önlisans ve askeri eğitim tamamlandıktan sonra astsubay çavuş olarak göreve başlanır; kıdem ve hizmet süresine bağlı olarak sırasıyla kıdemli çavuş, üstçavuş, kıdemli üstçavuş, başçavuş ve kıdemli başçavuş rütbelerine terfi edilir.",
+  "is_hayatinda": "Hizmet süresi, performans ve branş uzmanlığına göre daha üst rütbe ve komuta kademelerine yükselinebilir; branşında eğitmenlik, denetleyicilik veya ihtisas gerektiren görevler üstlenilebilir."
+ },
+ "benzer_meslekler": [
+  "Astsubay Kıdemli Başçavuş (Sahil Güvenlik)",
+  "Astsubay Başçavuş (Sahil Güvenlik)",
+  "Astsubay Kıdemli Üstçavuş (Sahil Güvenlik)",
+  "Astsubay Üstçavuş (Sahil Güvenlik)",
+  "Astsubay Çavuş (Sahil Güvenlik)",
+  "Sahil Güvenlik Uzman Çavuş"
+ ],
+ "ek_bilgiler": "Bu meslek, kamu kolluk hizmeti kapsamında yürütülen bir askeri görevdir; atama ve terfi süreçleri ilgili askeri personel mevzuatına göre yürütülür. Görevin deniz üzerinde ve bazen riskli operasyonlarda yürütülmesi nedeniyle adaylardan sağlık kurulu raporuyla belgelenen fiziki ve psikolojik yeterlilik beklenir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-07T17:47:05",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5425
+  }
+ }
+}

@@ -1,0 +1,76 @@
+{
+ "arac_gerec": [
+  "Mekanik karıştırıcılı pişirme küvetleri",
+  "Buhar kazanı ve buhar hattı",
+  "Tartı/baskül",
+  "Isı ve sıcaklık ölçüm/kontrol cihazları (termometre, termostat)",
+  "Soğutma fıçıları (içinden soğuk su geçen borularla donatılmış)",
+  "Pompa sistemleri ve boru hatları",
+  "Vanalar ve akış kontrol düzenekleri",
+  "Fermantasyon tankları",
+  "Süzme/sızdırma ekipmanları",
+  "Temizlik ve dezenfeksiyon malzemeleri",
+  "Koruyucu iş elbisesi, eldiven, çizme",
+  "Baret, maske ve diğer kişisel koruyucu donanım"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve sabırlı,",
+  "Fiziksel olarak güçlü ve dayanıklı,",
+  "Sıcak, nemli ve buharlı ortamda çalışmaya uygun sağlık durumuna sahip,",
+  "Talimatlara ve iş akışına uyan,",
+  "Sorumluluk duygusu gelişmiş,",
+  "Takım çalışmasına uyumlu,",
+  "Temizlik ve hijyen kurallarına duyarlı,",
+  "El ve göz koordinasyonu iyi"
+ ],
+ "benzer_meslekler": [
+  "Fırınlama İşçisi-Malt",
+  "Filizleme İşçisi-Malt",
+  "Fermantasyon İşçisi",
+  "Fermantasyon İşçisi (Şarap, Bira vb.)",
+  "Bira Filtreleme İşçisi",
+  "Aralıklı ve Devamlı/ İşleyen İmbik Reaktör Operatör-Alkollü İçecekler)"
+ ],
+ "gorevler": [
+  "İçinde mekanik karıştırıcılar bulunan küvetleri belirli bir seviyeye kadar suyla doldurur,",
+  "Doldurulan suyu buharla belirli bir hararet derecesine göre ısıtır,",
+  "Gerekli miktarda maltı tartarak küvetlerde ısınmış suya atar, belirli bir hararet derecesinde belirli bir süre pişirir ve bir taraftan da mekanik olarak karıştırır,",
+  "Lapayı, imbiklemeye hazırlamak üzere içinden soğuk su geçen borularla donatılmış soğutma fıçılarına pompalar,",
+  "Lapanın suyunu sızdırır veya fermantasyona hazırlamak üzere lapayı tanklara pompalar,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "calisma_ortami": "\"Pişirici (Malt), maltlı içki ve imbikten çekilen içki (bira, viski vb.) üreten fabrikaların üretim bölümlerinde, kapalı alanlarda çalışır. Çalışma ortamı buhar, nem ve yüksek sıcaklık nedeniyle fiziksel olarak zorlayıcı olabilir; zeminin kayganlığı, haşlanma ve düşme gibi riskler bulunduğundan iş sağlığı ve güvenliği kurallarına titizlikle uyulması gerekir.\\n\\nÜretim sürekliliğine bağlı olarak vardiyalı veya tam gün çalışma düzeni görülebilir. Çalışma sırasında diğer üretim işçileri, makine operatörleri, ustalar ve üretim amirleriyle sürekli iletişim ve koordinasyon içinde bulunulur.\"",
+ "calisma_alanlari": "\"Pişirici (Malt), malt üretimi yapan fabrikalarda; bira, viski gibi imbikten çekilen içkiler ile maltlı içkilerin imal edildiği içki fabrikalarında istihdam edilir. İş imkânları, bu tür üretim tesislerinin kurulu bulunduğu bölgelerle sınırlı olup, genellikle büyük ölçekli gıda ve içki sanayi işletmelerinde yoğunlaşmaktadır.\"",
+ "egitim": {
+  "verildigi_yerler": "Bu meslek için örgün olarak tanımlanmış, ayrı bir meslek lisesi programı veya çıraklık eğitimi bulunmamaktadır. Meslek genellikle ilgili işletmelerde işbaşında, deneyimli usta/operatör gözetiminde öğrenilir. İsteyenler, Halk Eğitim Merkezleri ile İŞKUR tarafından açılan gıda/içki üretim teknolojilerine yönelik kurslardan da destek alabilir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak (mesleğin gerektirdiği minimum eğitim düzeyi)",
+   "Sıcak, nemli ve buharlı ortamda çalışmaya uygun sağlık durumuna sahip olmak",
+   "Fiziksel olarak dayanıklı ve el becerisine sahip olmak",
+   "İş sağlığı ve güvenliği kurallarına uyabilecek disiplin ve dikkat düzeyine sahip olmak"
+  ],
+  "sure_ve_icerik": "Mesleğin resmî olarak belirlenmiş sabit bir eğitim süresi ve müfredatı bulunmamaktadır. İşe yeni başlayan kişi, işletme içinde deneyimli bir usta veya operatörün gözetiminde, pişirme küvetlerinin kullanımı, buharla ısıtma, malt tartımı, pişirme ve karıştırma işlemleri, soğutma ve pompalama uygulamaları gibi konularda kısa süreli ve uygulamalı bir süreçle mesleği öğrenir. İsteğe bağlı olarak Halk Eğitim Merkezleri veya İŞKUR'un açtığı ilgili gıda üretim kurslarına katılım da bu süreci destekleyebilir.",
+  "belge": "Örgün bir eğitim programı bulunmadığından diploma verilmez; katılınan kurslar sonunda katılım/başarı belgesi alınabilir. İlgili alanda Mesleki Yeterlilik Kurumu (MYK) belgesine sahip olmak, istihdamda tercih sebebi olabilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Örgün ve resmî bir mesleki eğitim programı bulunmadığından, işbaşında eğitim alan kişiler genellikle çalıştıkları işletmenin belirlediği ücret politikasına göre, deneme/uyum sürecinde asgari ücret düzeyinde bir kazanç elde ederler.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Kazanç; çalışılan işletmenin büyüklüğü, kişinin tecrübesi, bilgisi, çalışma kapasitesi ve sektörün ücret düzeyine göre değişebilir.",
+   "Özel sektörde ücret, işveren ile çalışan arasındaki anlaşmaya göre belirlenir; kamuya bağlı işletmelerde çalışan işçiler için toplu iş sözleşmesi hükümleri uygulanır."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Bu meslekte resmî olarak tanımlanmış kalfalık/ustalık gibi bir ilerleme basamağı bulunmamaktadır. Çalışanlar, ilgili gıda teknolojisi ve içki üretimi alanındaki mesleki ve teknik eğitim kurumları, Halk Eğitim Merkezleri veya İŞKUR'un açtığı kurslara katılarak bilgi ve becerilerini geliştirebilir.",
+  "is_hayatinda": "Tecrübe ve bilgi birikimi arttıkça usta pişirici, vardiya sorumlusu veya üretim hattı amiri gibi görevlere yükselebilir; makine ve ekipman kullanımındaki yetkinliğini geliştirerek ilgili üretim hatlarında operatörlük görevlerine geçebilir."
+ },
+ "ek_bilgiler": "\"Malt pişirme işlemi, bira ve viski gibi alkollü içeceklerin üretim sürecinin bir parçasıdır. Bu nedenle mesleği yürütenlerin, alkollü içecek üretimine ilişkin yürürlükteki yasal düzenlemelere ve işyerinin tabi olduğu ilgili mevzuata uygun şekilde çalışması gerekir.\"",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T15:38:07",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6134
+  }
+ }
+}

@@ -1,0 +1,84 @@
+{
+ "arac_gerec": [
+  "Bilgisayar kumandalı kontrol/izleme sistemi",
+  "Fermantasyon tankları",
+  "Propagatör (yeni maya üretim) tankları",
+  "Maya aktarma tankları ve pompaları",
+  "Buhar, su ve hava hatları, vanaları",
+  "Gazlı soğutma sistemi",
+  "Yoğunluk/kıvam ölçüm cihazları (areometre, refraktometre vb.)",
+  "Numune alma ekipmanları",
+  "Ölçüm ve kayıt formları/yazılımları",
+  "Otomatik temizlik (CIP) sistemi",
+  "Koruyucu iş elbisesi, eldiven ve bot",
+  "Basınçlı su/hava hortumları ve temizlik ekipmanları"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve titiz,",
+  "Sorumluluk duygusu yüksek,",
+  "Temizlik ve hijyen kurallarına duyarlı,",
+  "Takım çalışmasına uyumlu,",
+  "Teknik aletleri ve bilgisayar kumandalı sistemleri kullanmaya istekli,",
+  "Fiziksel olarak dayanıklı,",
+  "Koku ve kimyasal maddelere karşı alerjisi olmayan,",
+  "Vardiyalı çalışma düzenine uyum sağlayabilen"
+ ],
+ "calisma_ortami": "Fermantasyon işçisi, bira, şarap ve benzeri fermente içeceklerin üretildiği fabrikalarda, fermantasyon tanklarının bulunduğu kapalı üretim alanlarında çalışır. Çalışma ortamı nemli olabilir; maya ve fermantasyon kaynaklı koku, pompa ve hat sistemlerinden kaynaklanan gürültü görülebilir. Üretim sıcaklığının kontrollü tutulması gerektiğinden bazı bölümlerde soğuk ortamda çalışma söz konusu olabilir. Üretimin sürekliliği nedeniyle genellikle vardiyalı çalışma düzeni uygulanır.\n\nÇalışma sırasında üretim/vardiya amiri, kalite kontrol personeli, diğer makine operatörleri ve bakım ekipleriyle iletişim kurar. Kapalı tanklarda gaz birikimi, kayma-düşme ve temizlikte kullanılan kimyasal maddelerle ilgili riskler bulunduğundan iş sağlığı ve güvenliği kurallarına eksiksiz uyulması gerekir.",
+ "egitim": {
+  "verildigi_yerler": "Fermantasyon işçiliği için ayrı, resmi olarak tanımlanmış bir mesleki eğitim programı bulunmamaktadır. Meslek genellikle içki/gıda üretim tesislerinde işbaşında usta yanında öğrenilir; ayrıca Halk Eğitim Merkezleri ile İŞKUR'un açtığı gıda/içki üretim teknolojileri konulu mesleki eğitim kursları da bu alana hazırlık niteliğinde olabilir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "Fiziksel olarak sağlıklı olmak, kapalı ve nemli ortamlarda çalışmaya uygun olmak",
+   "Vardiyalı çalışma düzenine uyum sağlayabilmek"
+  ],
+  "sure_ve_icerik": "Mesleğe özgü standart süreli örgün bir eğitim programı yoktur. Bilgi ve beceriler genellikle işyerinde usta öğretici gözetiminde uygulamalı olarak kazanılır; bu süreye kısa süreli kurs eğitimleri de eşlik edebilir. Eğitim içeriği; işyeri hijyen kuralları, bilgisayar kumandalı hat ve fermantasyon tanklarının kullanımı, maya üretimi ve aktarım işlemleri, ölçüm-kayıt işlemleri ile temel iş sağlığı ve güvenliği konularını kapsar.",
+  "belge": "Katıldığı kurslardan katılım belgesi/sertifika alabilir; işyerinde deneyim kazanarak da mesleğe giriş yapılabilir. Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Fermantasyon işçisi, bira, şarap ve diğer fermente içecekleri üreten özel sektör kuruluşlarına ait fabrikalarda istihdam edilebilir. Bu tür üretim tesisleri genellikle belirli bölgelerde ve büyük şehirlerde yoğunlaştığından iş imkânları bölgesel olarak değişiklik gösterebilir.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğe özgü örgün bir eğitim programı bulunmadığından, işyerinde usta yanında çalışarak mesleği öğrenenler genellikle asgari ücret düzeyinde veya işveren ile karşılıklı belirlenen bir ücret alır.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Deneyim, bilgi birikimi ve çalışılan işletmenin büyüklüğüne göre kazanç artabilir.",
+   "Özel sektörde ücret, işveren ile karşılıklı anlaşmaya ve sektördeki ücret düzeyine göre değişebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Bu meslek için tanımlı bir örgün ilerleme basamağı bulunmamaktadır. İsteyenler gıda mühendisliği, gıda teknolojisi veya içki üretim teknolojileri ile ilgili ön lisans/lisans programlarına yönelerek bilgi ve becerilerini geliştirebilir.",
+  "is_hayatinda": "Deneyim ve bilgi birikimi arttıkça usta işçilik, ekip sorumluluğu veya vardiya amirliği gibi görevlere yükselebilir; ileride üretim veya kalite kontrol birimlerinde görev alabilir."
+ },
+ "benzer_meslekler": [
+  "Fermantasyon İşçisi",
+  "Diğer Bira, Şarap ve İçki İmalat İşçileri",
+  "Bira Filtreleme İşçisi",
+  "Fıçı Bira Dolum Makinesi Operatörü",
+  "Fırınlama İşçisi-Malt",
+  "Filizleme İşçisi-Malt",
+  "Diğer Başka Yerde Sınıflandırılmamış İçki ve Gıda Maddeleri İşçileri"
+ ],
+ "ek_bilgiler": "Çalışılan tesislerin alkollü içecek üretimi yapması nedeniyle işyerinde gıda güvenliği mevzuatına ve ilgili üretim izinlerine uyum önemlidir. Kapalı fermantasyon tanklarında gaz birikimi riski bulunduğundan iş sağlığı ve güvenliği kurallarına, özellikle havalandırma ve kapalı alana giriş prosedürlerine eksiksiz uyulması gerekir.",
+ "gorevler": [
+  "Bilgisayar kumandalı hat sistemini ve fermantasyon tanklarını kullanıma hazırlar.",
+  "Yardımcı tesislerden gelen buhar, su, hava vb. hatlarını kontrol eder.",
+  "Bilgisayar üzerinden hattı yönlendirerek şırayı fermantasyon tanklarına alır.",
+  "Propagatör tanklarında yeni maya üretir.",
+  "Maya tankından fermantasyon tankına maya aktarır.",
+  "Şıranın fermantasyon kıvam değerlerini kontrol eder.",
+  "Ölçüm değerlerini ilgili formlara kaydeder.",
+  "Gazlı soğutma sistemiyle tank içindeki şırayı soğutur.",
+  "Mayayı yeni kullanımlar için maya tankına geri gönderir.",
+  "Tüm işlem basamaklarını bilgisayar sisteminden sürekli takip eder.",
+  "Tespit edilecek arıza ve aksaklıkların giderilmesini sağlar.",
+  "Sistem hattının, işlem tank ve kazanlarının otomatik temizliklerini başlatır.",
+  "Çalışma alanının temizlenmesini sağlar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T15:16:48",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5863
+  }
+ }
+}

@@ -1,0 +1,70 @@
+{
+ "gorevler": [
+  "Usta veya eğitici personelin talimatlarını yerine getirir.",
+  "Mesleki uygulama ve teknik süreçleri gözlemler.",
+  "İş yerindeki disiplin ve çalışma kurallarına uyar.",
+  "Staj dosyasını ve günlük faaliyet raporlarını doldurur.",
+  "Verilen basit teknik veya idari işleri gerçekleştirir.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "arac_gerec": [
+  "Staj dosyası ve günlük faaliyet raporu formları",
+  "Kalem, defter, dosya gibi büro malzemeleri",
+  "Bilgisayar ve temel ofis yazılımları",
+  "İşyerinin faaliyet alanına özgü araç, gereç ve ekipmanlar",
+  "İşyerinin niteliğine göre kişisel koruyucu donanım",
+  "Telefon, e-posta gibi iletişim araçları",
+  "İşletmenin iç yazışma ve bilgi formları"
+ ],
+ "genel_ozellikler": [
+  "Öğrenmeye istekli,",
+  "Sorumluluk sahibi,",
+  "Disiplinli ve kurallara uyan,",
+  "Gözlem yeteneği gelişmiş,",
+  "Talimat ve yönlendirmeye açık,",
+  "İletişim kurabilen,",
+  "Zamanını iyi yönetebilen,",
+  "Sabırlı ve uyumlu"
+ ],
+ "calisma_ortami": "Stajyerin (öğrencinin) çalışma ortamı, staj yaptığı işyerinin niteliğine göre büyük ölçüde değişir; büro, atölye, fabrika, saha, sağlık kuruluşu, eğitim kurumu veya hizmet işletmesi gibi çok farklı ortamlarda görev yapılabilir. Bu nedenle fiziksel koşullar, gürültü, sıcaklık, ayakta/masa başında çalışma gibi unsurlar staj yapılan kuruma bağlıdır. Çalışma saatleri genellikle işyerinin normal mesai saatleriyle uyumludur ve okulun staj yönergesindeki süre ve program dikkate alınır.\n\nStajyer, görevi sırasında usta öğretici, bölüm sorumlusu, diğer çalışanlar ve zaman zaman müşteri veya ziyaretçilerle iletişim kurar. Çalışma genellikle bir gözetmen eşliğinde ve denetim altında yürütülür; bağımsız sorumluluk alanı sınırlıdır.",
+ "egitim": {
+  "verildigi_yerler": "Stajyerlik, bağımsız bir meslek eğitimi programı değildir; ortaöğretim (lise), ön lisans ve lisans düzeyindeki örgün eğitim kurumlarının müfredatında yer alan zorunlu veya isteğe bağlı staj/işletmede beceri eğitimi uygulamaları kapsamında gerçekleştirilir.",
+  "giris_kosullari": [
+   "İlgili ortaöğretim, ön lisans veya lisans programına kayıtlı öğrenci olmak",
+   "Okulun/bölümün staj yönergesinde belirtilen sınıf, dönem veya ders yükü şartlarını karşılamak",
+   "Staj yapılacak işyeri ile okul arasında gerekli protokol, sözleşme veya onayın sağlanmış olması",
+   "Bazı mesleki alanlarda staj yapılacak işin gerektirdiği sağlık uygunluğuna sahip olmak"
+  ],
+  "sure_ve_icerik": "Staj süresi ve içeriği; öğrencinin devam ettiği okulun/bölümün müfredatına, staj yönergesine ve staj yapılan işyerinin faaliyet alanına göre değişir. Öğrenci bu süre boyunca okulda edindiği teorik bilgileri işyerinde gözlem ve uygulama yoluyla pekiştirir; usta öğretici veya ilgili personelin gözetiminde basit teknik veya idari görevler üstlenir, iş yerinin çalışma düzenini ve mesleki uygulamaları yakından tanır.",
+  "belge": "Staj sonunda genellikle işyeri tarafından onaylanan bir staj değerlendirme formu veya staj defteri düzenlenir ve okula teslim edilir; bu belge okul tarafından not veya kredi olarak değerlendirilebilir. Stajyerlik tek başına bir diploma, sertifika veya meslek unvanı kazandırmaz."
+ },
+ "calisma_alanlari": "Stajyer (öğrenci), eğitim gördüğü alanla ilgili olarak kamu kurumları, özel sektör işletmeleri, fabrikalar, atölyeler, bürolar, sağlık kuruluşları, eğitim kurumları ve hizmet sektörüne ait neredeyse her türlü işyerinde staj yapabilir. Staj yeri ve olanakları, öğrencinin okulunun bulunduğu bölgeye, sektördeki işyeri sayısına ve okul-işyeri iş birliklerine göre değişir.",
+ "kazanc": {
+  "egitim_suresince": "Zorunlu stajlarda genel olarak öğrenciye ücret ödenmesi yasal bir zorunluluk değildir; bazı işyerleri sembolik bir harçlık, yol veya yemek desteği sağlayabilir. Mesleki ve teknik eğitim kapsamında işletmede beceri eğitimi gören öğrencilere ise ilgili mevzuat gereği belirli bir ücret ödenmesi söz konusu olabilir; bu durum ayrı bir statü olan İşletmede Beceri Eğitimi Öğrencisi için geçerlidir.",
+  "egitim_sonrasi": [
+   "Stajyerlik bir meslek olmadığından bu statüde doğrudan bir 'eğitim sonrası kazanç' söz konusu değildir.",
+   "Staj, öğrencinin ileride çalışacağı asıl mesleğe hazırlık niteliğindedir; kazanç durumu öğrencinin mezun olduğu alandaki meslekte elde edeceği gelire bağlıdır."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Stajyerlik, bağımsız bir meslek olmayıp öğrencinin eğitimi sırasında edindiği geçici bir uygulama deneyimidir. Bu nedenle meslekte ilerleme kavramı yerine, öğrencinin kendi eğitim programındaki (lise, ön lisans, lisans) başarısı ve bir üst eğitim kademesine geçişi önem taşır.",
+  "is_hayatinda": "Staj sırasında edinilen deneyim, kurulan iş ilişkileri ve alınan referanslar; mezuniyet sonrasında aynı işyerinde veya aynı sektördeki başka kuruluşlarda istihdam edilme olasılığını artırabilir."
+ },
+ "benzer_meslekler": [
+  "İşletmede Beceri Eğitimi Öğrencisi",
+  "Diğer Kursiyer",
+  "Öğrenci (Lisans)",
+  "Öğrenci (Önlisans)",
+  "Sosyal Çalışma Programı Katılımcısı",
+  "Alansız Ön Lisans"
+ ],
+ "ek_bilgiler": "Stajyerlik, tek başına bir meslek olmayıp bir öğrencinin devam ettiği eğitim programı kapsamında kazandığı geçici bir statüdür. Görev kapsamı, hak ve yükümlülükler, süre ve koşullar; öğrencinin bağlı olduğu okulun staj yönetmeliği/yönergesi ile staj yapılan işyerinin uygulamalarına göre değişiklik gösterir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T21:17:24",
+  "usage": {
+   "input_tokens": 4,
+   "output_tokens": 8181
+  }
+ }
+}

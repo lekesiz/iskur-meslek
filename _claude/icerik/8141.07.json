@@ -1,0 +1,76 @@
+{
+ "arac_gerec": [
+  "Makas (ham lastik şeridi kesme)",
+  "Mastar (ölçü şablonu)",
+  "Ekleme (yapıştırma) makinesi",
+  "Delme makinesi",
+  "Supap takma makinesi",
+  "Supaplar",
+  "Ham lastik şeritleri",
+  "Hava şişirme tabancası/kompresör",
+  "Kontrol masası/tezgâhı",
+  "İş eldiveni",
+  "Koruyucu gözlük",
+  "İş önlüğü/tulumu"
+ ],
+ "genel_ozellikler": [
+  "El becerisine sahip,",
+  "Dikkatli,",
+  "El ve göz koordinasyonu güçlü,",
+  "Fiziksel olarak dayanıklı,",
+  "Düzenli ve tertipli çalışabilen,",
+  "Talimatlara uyabilen,",
+  "Takım çalışmasına yatkın,",
+  "Tekrarlayan işleri sabırla yapabilen,"
+ ],
+ "calisma_ortami": "İç Lastik Hazırlama İşçisi, genellikle lastik ve kauçuk ürünleri üretimi yapan fabrikaların üretim atölyelerinde, kapalı mekanda ve ayakta çalışır. Çalışma ortamında kauçuk kokusu, makine gürültüsü ve bazı bölümlerde yüksek sıcaklık görülebilir; kesici ve delici makinelerle çalışıldığından iş güvenliği kurallarına dikkat edilmesi gerekir. Üretim bandı düzeninde çalışıldığı için işin temposu makine hızına bağlı olarak değişebilir ve işyerine göre vardiyalı çalışma söz konusu olabilir.\n\nÇalışma sırasında aynı bant veya hat üzerinde görev yapan diğer işçilerle, ustabaşı ve vardiya amiriyle sürekli iletişim halindedir. İşlemler genellikle ayakta, dar bir alanda ve belirli bir hızda tekrarlanan hareketlerle yürütülür.",
+ "calisma_alanlari": "İç Lastik Hazırlama İşçileri başlıca lastik ve kauçuk ürünleri imalatı yapan fabrikalarda, özellikle bisiklet, motosiklet ve otomotiv iç lastiği üreten işletmelerin üretim bölümlerinde istihdam edilir. Bu işletmeler büyük ölçüde sanayi bölgelerinde ve organize sanayi sitelerinde yoğunlaşmıştır. Lastik sanayinin otomotiv ve ulaştırma sektörlerine bağlı olarak gelişmesi nedeniyle iş bulma olanakları bu sektörlerdeki üretim hacmine bağlı olarak değişkenlik gösterir; dış lastik üretiminde iç lastik kullanımının (radyal/tubeless teknolojisi gibi gelişmelerle) bazı araç gruplarında azalması, istihdam alanını daraltıcı bir etken olabilir.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğe yönelik örgün bir çıraklık veya okul eğitimi bulunmadığından, bu meslek genellikle işyerinde usta yanında uygulamalı olarak öğrenilir. İşe yeni başlayan ve eğitim/alıştırma sürecinde olan kişiler, çalıştıkları işyerinin ücret politikasına göre genellikle asgari ücret düzeyinde bir kazanç elde eder.",
+  "egitim_sonrasi": [
+   "Meslekte çalışanların ücreti, işe yeni başlayanlarda genellikle asgari ücret düzeyindedir.",
+   "Kazanç; çalışılan işyerinin büyüklüğü, kişinin deneyimi, iş hızı ve dikkatliliği ile sektördeki ücret düzeyine göre değişebilir.",
+   "Özel sektörde çalışanların ücreti işveren ile karşılıklı anlaşmaya, toplu iş sözleşmesi bulunan işyerlerinde ise bu sözleşme hükümlerine göre belirlenir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğin örgün bir eğitim kademesi veya okul diploması ile ilerleme basamağı bulunmamaktadır. Halk Eğitim Merkezleri ve İŞKUR tarafından açılan kauçuk/lastik üretimiyle ilgili kurslara katılarak bilgi ve beceriler geliştirilebilir; isteyenler açık öğretim yoluyla genel eğitim düzeyini yükseltebilir.",
+  "is_hayatinda": "Zamanla deneyim kazanan işçiler; vardiya sorumluluğu, ekip liderliği, kalite kontrol veya üretim hattında daha nitelikli makine operatörlüğü (örneğin iç lastik kalıplama) gibi görevlere geçiş yapabilir. Bilgi ve becerisini geliştirenler ustabaşı veya formen pozisyonlarına yükselebilir."
+ },
+ "benzer_meslekler": [
+  "İç Lastik Kalıplama İşçisi",
+  "Dış Lastik Hazırlama İşçisi",
+  "Dış Lastik Kalıpçısı",
+  "Kauçuk Kalandır Makinesi Operatörü",
+  "Vulkanizasyon İşçisi (Sıcak İşlem)",
+  "Diğer Lastik İmalat İşçileri"
+ ],
+ "ek_bilgiler": "Meslek, lastik sanayinin iç lastik üretimine olan ihtiyacına bağlıdır; dış lastik teknolojilerindeki gelişmeler (iç lastiksiz/tubeless lastik kullanımı) bazı araç segmentlerinde iç lastik talebini azaltabilmektedir. Bu nedenle istihdam olanakları, sektördeki üretim eğilimlerine göre değişkenlik gösterebilir.",
+ "gorevler": [
+  "Pişirilmemiş ham lastik şeritlerini belirli ölçülerde mastara göre makasla keser,",
+  "Kesilen şeritlerin uçlarını ekleme makinesinde yapıştırır,",
+  "Belirli yerinden makineyle deler,",
+  "Delinen yere makineyle supap takar,",
+  "Hazırlanan iç lastikleri kalıplamaya gönderir,",
+  "Kalıplanmamış iç lastikleri havayla şişirerek kontrolünü yapar,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "İç Lastik Hazırlama İşçiliği için örgün mesleki eğitim kurumlarında tanımlanmış ayrı bir alan/dal bulunmamaktadır. Meslek, genellikle kauçuk/lastik üretimi yapan işyerlerinde işbaşında usta yanında uygulamalı olarak öğrenilir. Ayrıca Halk Eğitim Merkezleri ve İŞKUR tarafından zaman zaman açılan kauçuk ve lastik üretimiyle ilgili mesleki eğitim kursları da bu beceriyi kazandırabilir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak,",
+   "Fiziksel olarak işin gerektirdiği ayakta ve dikkat isteyen çalışmaya uygun olmak,",
+   "Makine ile çalışmaya yatkın ve el becerisine sahip olmak."
+  ],
+  "sure_ve_icerik": "Meslek, belirli bir süre ve müfredatla sınırlı örgün bir programa dayanmaz. İşyerinde usta gözetiminde, ham lastik şeritlerinin kesilmesi, uçların yapıştırılması, delme ve supap takma işlemlerinin uygulamalı olarak öğretilmesiyle kısa sürede (genellikle birkaç hafta ile birkaç ay içinde) kazanılır. Eğitim sürecinde iş sağlığı ve güvenliği kuralları, makine kullanımı ve kalite kontrol esasları da öğretilir.",
+  "belge": "Resmî bir diploma veya sertifika zorunluluğu bulunmamaktadır. Çalışılan işyeri tarafından deneyime dayalı bir hizmet/çalışma belgesi verilebilir. Mesleki Yeterlilik Kurumu (MYK) tarafından ilgili alanda belge düzenlenmesi durumunda, bu belge istihdamda tercih sebebi olabilir."
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T12:41:53",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 4800
+  }
+ }
+}

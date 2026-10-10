@@ -1,0 +1,91 @@
+{
+ "arac_gerec": [
+  "Lineer akselerator (ışınla tedavi cihazı)",
+  "Simülasyon cihazı (bilgisayarlı tomografi simülatörü)",
+  "Gantri ve kolimatör sistemleri",
+  "Kurşun blok ve blok kesme/döküm düzeneği",
+  "Termoplastik maske hazırlama malzemeleri",
+  "Hasta pozisyon kalıbı malzemeleri",
+  "Film ve film banyo (işleme) cihazı",
+  "Port film cihazı",
+  "Hasta pozisyon aksesuarları (destekleyici yastık, sabitleyici)",
+  "Bilgisayar ve tedavi planlama/kayıt yazılımı",
+  "Skopi ekranı ve izleme monitörleri",
+  "Kişisel dozimetre",
+  "Kurşun önlük ve kişisel koruyucu donanım",
+  "Hasta yatağı/tedavi masası"
+ ],
+ "genel_ozellikler": [
+  "El ve göz koordinasyonunu iyi kullanabilen,",
+  "Dikkatli ve titiz,",
+  "Sorumluluk duygusu gelişmiş,",
+  "Teknik cihaz ve ekipmanlara ilgili,",
+  "Hijyen ve güvenlik kurallarına duyarlı,",
+  "Hastalarla ve ekip üyeleriyle iyi iletişim kurabilen,",
+  "Sabırlı ve hoşgörülü,",
+  "Stresli ortamlarda sakin kalabilen kişiler olması gerekir."
+ ],
+ "gorevler": [
+  "Makine ve ekipmanların kontrolünü yapar.",
+  "Hasta bilgi ve tedavi parametrelerini bilgisayara girer.",
+  "Hastaya ilaç verilmesini sağlar.",
+  "Hasta pozisyon aksesuarlarını yerleştirir.",
+  "Hasta pozisyonunu ayarlar.",
+  "Gantri açısını ayarlar.",
+  "Kolimatör ayarı yapar.",
+  "Maske hazırlar.",
+  "Hasta pozisyon kalıbı hazırlar.",
+  "Skopi ekranından tedavi alanını izler.",
+  "Film doz ayarını yapar.",
+  "Filmi çeker.",
+  "Simülasyon çıktısı alır.",
+  "Filmin banyo edilmesini sağlar.",
+  "Kurşun blok hazırlar.",
+  "Kurşun blokları makineye yerleştirir.",
+  "Makine ayarlarını ve hasta pozisyonunu kontrol eder.",
+  "Işın tedavisini başlatır.",
+  "Monitörden hastayı izler.",
+  "Port film çeker.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "calisma_ortami": "\"Radyoterapistler, hastanelerin radyasyon onkolojisi (radyoterapi) ünitelerinde, genellikle kurşun ile zırhlanmış kapalı tedavi odalarında görev yapar. Çalışma sırasında büyük ölçüde ayakta durulur ve iyonlaştırıcı radyasyon kaynaklı cihazlarla yakın temas söz konusudur; bu nedenle iş sağlığı ve güvenliği önlemlerine, kişisel koruyucu donanım kullanımına ve radyasyon güvenliği kurallarına titizlikle uyulması gerekir.\\n\\nÇalışma saatleri genellikle hastane mesai düzenine bağlıdır, bazı kurumlarda vardiyalı çalışma görülebilir. Meslek elemanı; radyasyon onkolojisi uzmanı, medikal fizikçi, hemşire ve diğer sağlık personeli ile yakın işbirliği içinde çalışır, hasta ve hasta yakınlarıyla sürekli iletişim kurar.\"",
+ "calisma_alanlari": "\"Radyoterapistler başlıca kamu ve özel hastanelerin radyasyon onkolojisi/radyoterapi bölümlerinde, üniversite hastanelerinde ve onkoloji merkezlerinde istihdam edilir. Kanser tedavisine yönelik sağlık hizmetlerine olan talebin artması ve özel sağlık sektöründeki yatırımların büyümesiyle bu alandaki istihdam olanaklarının genişlemesi beklenmektedir. Teknolojik donanımı gelişmiş büyükşehirlerdeki hastaneler, iş bulma açısından nispeten daha fazla fırsat sunmaktadır.\"",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi, günümüzde ağırlıklı olarak sağlık hizmetleri meslek yüksekokullarının ilgili ön lisans programlarında (örneğin Tıbbi Görüntüleme Teknikleri, Radyoterapi gibi) verilmektedir. Geçmişte bazı sağlık meslek liselerinin ilgili alanlarında da eğitim verilmiş olup, mesleğe giriş için gerekli temel bilgi ve beceriler ayrıca işbaşında usta-çırak ilişkisi içinde veya ilgili kurumların düzenlediği mesleki eğitim kurslarıyla desteklenebilir.",
+  "giris_kosullari": [
+   "Ortaöğretim (lise ve dengi okul) mezunu olmak",
+   "Ön lisans programlarına girmek için YKS (Yükseköğretim Kurumları Sınavı) sonucuna göre ilgili bölüme yerleşmek",
+   "İyonlaştırıcı radyasyon kaynaklarıyla çalışmaya sağlık açısından elverişli olmak"
+  ],
+  "sure_ve_icerik": "Ön lisans düzeyindeki eğitim genellikle 2 yıl (4 yarıyıl) sürer. Eğitimde anatomi ve fizyoloji, radyasyon fiziği ve biyolojisi, radyoterapi teknikleri, hasta pozisyonlama ve immobilizasyon yöntemleri, simülasyon uygulamaları, tedavi cihazlarının kullanımı, radyasyon güvenliği ve iş sağlığı güvenliği konularında teorik ve uygulamalı dersler yer alır; eğitim sürecinde hastanelerde staj/klinik uygulama yapılır.",
+  "belge": "Eğitimi başarı ile tamamlayanlara ön lisans diploması verilir. Ayrıca Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Örgün eğitim (ön lisans) sürecinde genellikle bir kazanç söz konusu değildir; hastanelerde yapılan staj/uygulama dönemlerinde bazı kurumlarca sınırlı ödeme yapılabilir.",
+  "egitim_sonrasi": [
+   "Kamu kurum ve kuruluşlarında çalışanlar, eğitim durumuna uygun bir kadroda 657 sayılı Devlet Memurları Kanunu'na göre ücretlendirilir.",
+   "Özel sektörde çalışanların kazancı, işyerinin büyüklüğü, çalışanın deneyimi, bilgisi ve sektörün genel ücret düzeyine göre değişebilir; yeni başlayanlarda genellikle asgari ücret düzeyinde olabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "İlgili alanlarda (örneğin radyoterapi teknolojisi, sağlık yönetimi gibi) dikey geçiş yoluyla lisans eğitimine devam edilebilir.",
+  "is_hayatinda": "Meslekte ilerleme genellikle deneyim kazanmaya bağlı olarak sorumluluğun artması şeklinde gerçekleşir; deneyimli meslek elemanları birim sorumluluğu, eğitici veya denetleyici konumlara yükselebilir."
+ },
+ "benzer_meslekler": [
+  "Radyoterapi Sağlık Teknikeri",
+  "Radyoloji Teknisyeni (Radyasyon Onkolojisi)",
+  "Radyoloji (Röntgen) Teknisyeni",
+  "Tıbbi Görüntüleme Teknikleri Sağlık Teknikeri",
+  "Nükleer Tıp Teknikleri Sağlık Teknikeri",
+  "Nükleer Teknoloji ve Radyasyon Güvenliği Teknikeri"
+ ],
+ "ek_bilgiler": "\"Bu meslek, iyonlaştırıcı radyasyon kaynaklarıyla çalışmayı gerektirdiğinden, çalışma koşulları ve mevzuatı açısından radyasyon güvenliği düzenlemelerine tabidir. Meslek elemanları kişisel dozimetre ile radyasyon maruziyeti takibi ve periyodik sağlık muayeneleri gibi koruyucu uygulamalardan geçer.\"",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T12:02:03",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6577
+  }
+ }
+}

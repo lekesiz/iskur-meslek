@@ -1,0 +1,74 @@
+{
+ "arac_gerec": [
+  "Laboratuvar cam gereçleri (deney tüpü, pipet, büret, balon joje, beher, erlen, huni)",
+  "Ölçüm ve kontrol cihazları (pH metre, termometre, manometre, debimetre, seviye göstergesi)",
+  "Analiz cihazları (spektrofotometre, viskozimetre, elektronik terazi)",
+  "Numune alma ve taşıma ekipmanları",
+  "Reaktör, tank, pompa, valf ve boru hattı gibi tesis ekipmanları",
+  "Kontrol paneli ve otomasyon/izleme sistemleri (SCADA ekranları)",
+  "Kişisel koruyucu donanım (eldiven, koruyucu gözlük, maske, iş tulumu, baret)",
+  "Çeker ocak ve havalandırma sistemleri",
+  "El aletleri (anahtar takımı, tornavida, pense vb.)",
+  "Kayıt ve hesaplama için bilgisayar ve ilgili yazılımlar",
+  "Kimyasal maddeler (asit, baz, çözücü, indikatör, saf su vb.)",
+  "Güvenlik ekipmanları (gaz dedektörü, yangın söndürücü, göz duşu, acil duş)"
+ ],
+ "genel_ozellikler": [
+  "Fen bilimlerine, özellikle kimyaya ilgili ve bu alanda başarılı,",
+  "Dikkatini uzun süre bir işe verebilen ve ayrıntıyı gözden kaçırmayan,",
+  "Gözlem yapma ve sonuçları doğru yorumlama yeteneği gelişmiş,",
+  "Sorumluluk sahibi, titiz ve kurallara uyan,",
+  "El ve göz koordinasyonu iyi, pratik zekâya sahip,",
+  "Ekip halinde ve işbirliği içinde çalışabilen,",
+  "Fiziksel olarak sağlıklı ve kimyasal maddelere karşı alerjisi olmayan,",
+  "Temel matematik ve hesaplama becerisine sahip,"
+ ],
+ "calisma_ortami": "\"Kimya Teknolojisi Teknisyeni, kimyasal madde üreten veya kullanan fabrika ve tesislerde (petrokimya, gübre, boya, deterjan, ilaç, gıda, tekstil, enerji vb.), bu tesislerin üretim sahalarında, kontrol odalarında ve laboratuvarlarında görev yapar. Çalışma ortamı kapalı alan niteliğinde olup, zaman zaman açık sahada (tank, boru hattı, depolama alanı çevresinde) de bulunur. Kimyasal madde ve çözücü kokusu, gürültü, sıcaklık ve nem değişimleri, basınçlı sistemler gibi etkenlerle karşılaşabilir; dikkatsizlik veya koruyucu donanım kullanılmaması durumunda ciltte-gözde-solunum yollarında tahriş, yanık veya zehirlenme riski bulunur.\\n\\nÇalışma genellikle tesisin üretim programına göre vardiyalı düzende sürer. Kimya mühendisinin ve/veya kimya teknikerinin gözetiminde, diğer teknisyen ve operatörlerle sürekli iletişim ve işbirliği içinde çalışır; iş güvenliği kurallarına titizlikle uyması gerekir.\"",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi, mesleki ve teknik ortaöğretim okul/kurumlarının Kimya Teknolojisi alanının ilgili dallarında verilmektedir. Ayrıca, lise mezunu olan ve bu alanda çalışmak isteyenler için Halk Eğitim Merkezleri ile İŞKUR tarafından açılan mesleki eğitim kursları da bulunmaktadır.",
+  "giris_kosullari": [
+   "Ortaokulu tamamlamış olmak,",
+   "Milli Eğitim Bakanlığınca okul türlerine ve alan/dala göre belirlenen giriş koşullarını taşımak."
+  ],
+  "sure_ve_icerik": "Mesleki ve teknik ortaöğretimde eğitim süresi 4 yıldır. 9. sınıfta ortak genel kültür dersleri ve alanın temel kazanımlarını içeren dersler okutulur; yıl sonunda öğrenci dalını seçer. 10, 11 ve 12. sınıflarda dala ait meslek dersleri ağırlıklı olarak verilir. Eğitim; okulda teorik ve uygulamalı, işletmelerde ve atölyelerde ise uygulamalı olarak yürütülür. Kimya, temel laboratuvar teknikleri, analiz yöntemleri, proses ve tesis bilgisi, iş sağlığı ve güvenliği gibi konular eğitim içeriğinde yer alır.",
+  "belge": "Eğitimi tamamlayanlara meslek lisesi diploması verilir. Ayrıca, 3308 sayılı Mesleki Eğitim Kanunu kapsamında, mesleki eğitim gören öğrencilere ilgili belgeler (bitirme/yeterlilik belgesi) düzenlenebilir. Mesleki Yeterlilik Kurumu (MYK) tarafından düzenlenen belgeler, istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "\"Kimya Teknolojisi Teknisyenleri; kimyasal hammadde veya ürün üreten petrokimya, gübre, boya, deterjan, ilaç, tekstil, gıda, çimento, cam, plastik, selüloz, enerji üretimi gibi sanayi tesislerinin üretim, bakım-onarım, proje/montaj ve kalite kontrol birimlerinde; bu tesislerin araştırma-geliştirme laboratuvarlarında çalışabilirler. Kamuya bağlı sanayi işletmeleri ile belediye ve kamu kurumlarının ilgili tesislerinde de istihdam edilebilirler.\\n\\nKimya sanayisinin ve ilgili üretim tesislerinin sürekli gelişmesi ve yeni yatırımların yapılması nedeniyle, teknik bilgi ve iş güvenliği bilincine sahip, tesis süreçlerini bilen teknisyenlere olan ihtiyacın sürmesi beklenmektedir.\"",
+ "kazanc": {
+  "egitim_suresince": "Mesleki ve teknik ortaöğretim kapsamında işletmelerde mesleki eğitim gören öğrencilere, 3308 sayılı Mesleki Eğitim Kanunu gereğince belirli bir ücret ödenir; öğrencilerin iş kazası ve meslek hastalığı sigortası devletçe karşılanır ve öğrenciler eğitim gördükleri işletmenin sosyal imkânlarından yararlanabilir.",
+  "egitim_sonrasi": [
+   "Kamu kuruluşlarına bağlı sanayi tesislerinde çalışanlar 657 sayılı Devlet Memurları Kanunu'na veya ilgili toplu iş sözleşmesi hükümlerine tabi olarak ücret alır.",
+   "Özel sektörde ücret; işyerinin büyüklüğü, faaliyet gösterilen sektör, kişinin tecrübesi, bilgisi ve çalışma kapasitesine göre değişir; yeni başlayanlarda genellikle asgari ücret düzeyinde olup deneyim ve uzmanlıkla birlikte artış gösterebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Meslek liselerinin Kimya Teknolojisi alanından mezun olanlar, YKS Kılavuzunda belirtilen ve alanın devamı niteliğindeki ön lisans programlarını (örneğin kimya teknolojisi, kimya ön lisans programları) tercih ettiklerinde sınavda ek puan hakkından yararlanabilir. Ön lisans eğitimini tamamlayanlar Kimya Teknikeri unvanını alabilir; lisans düzeyinde ilgili mühendislik bölümlerini tamamlayanlar ise kimya mühendisi olabilir.",
+  "is_hayatinda": "Mesleki deneyim kazandıkça, tesis içinde usta teknisyen, baş teknisyen, vardiya sorumlusu veya kalite kontrol sorumlusu gibi görevlere; ileride tesis/işletme yöneticiliği pozisyonlarına yükselme imkânı bulunabilir. Ayrıca ön lisans veya lisans eğitimiyle teknikerlik ya da mühendislik unvanına geçiş yapılabilir."
+ },
+ "benzer_meslekler": [
+  "Kimya Laboratuvarı Teknisyeni/ Kimya Teknisyeni",
+  "Kimya Teknikeri",
+  "Kimya Teknisyeni (Petrol)",
+  "Kimya Teknisyeni (Korozyon)",
+  "Kimya Teknisyeni (Su Analizleri)",
+  "Baş Laborant/Kimya Laboratuvarı Sorumlusu"
+ ],
+ "ek_bilgiler": "\"Çalışılan sektöre ve işin niteliğine göre (petrokimya, gübre, boya gibi tehlikeli kimyasalların işlendiği tesisler) bazı görevler 6331 sayılı İş Sağlığı ve Güvenliği Kanunu kapsamında tehlikeli veya çok tehlikeli işler sınıfında değerlendirilebilir; bu durumda ilgili iş sağlığı ve güvenliği eğitimlerinin alınması ve kişisel koruyucu donanımın eksiksiz kullanılması önem taşır.\"",
+ "gorevler": [
+  "İşletmenin genel çalışma prensipleri doğrultusunda, araç, gereç ve ekipmanları etkin bir şekilde kullanarak, işçi sağlığı, iş güvenliği ve çevre koruma düzenlemelerine ve mesleğin verimlilik ve kalite gereklerine uygun olarak çalışır.",
+  "Kimyasal metotları kullanarak çeşitli deneyler yapar.",
+  "Göstergeleri okur, hesaplamalar yapar ve gözlemleri kaydeder.",
+  "Kimya mühendisinin yaptığı araştırmalara yardımcı olur.",
+  "Tesisin montajı, inşaası ve bakım işlerinde çalışanlara teknik bilgiler verir.",
+  "Çalışma güvenliğini sağlar, çalışmanın standartlara uygunluğunu kontrol eder.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T08:41:57",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6579
+  }
+ }
+}

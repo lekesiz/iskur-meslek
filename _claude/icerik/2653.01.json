@@ -1,0 +1,76 @@
+{
+ "gorevler": [
+  "Bir öğretmen nezaretinde fiziksel kondisyonunu korumak için dans egzersizleri yapar.",
+  "Rol alacağı eserin metnini okur ve hareketlerini prova eder.",
+  "Müzik eşliğinde figürler yaparak müzikle hareket uyumu kazanır.",
+  "Dans kıyafetlerini giyer.",
+  "Makyajını yapar veya yaptırır.",
+  "Sahneye çıkarak müzik eşliğinde ritmik figürler yaparak dans eder.",
+  "Yazılı metinler dışında folklor dansları yapar.",
+  "Kendi danslarını kompoze eder.",
+  "Gerektiğinde müzik enstrümanı çalar ve şarkı söyler.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "arac_gerec": [
+  "Dans kostümleri ve kıyafetleri",
+  "Dans ayakkabıları (bale pabucu, step ayakkabısı, yöresel ayakkabılar vb.)",
+  "Tozluk ve dizlik (provalarda)",
+  "Makyaj malzemeleri",
+  "Müzik çalar ve ses sistemi",
+  "Prova salonunda ayna ve dans barı (ballet barre)",
+  "Spor matı",
+  "Kostüm aksesuarları (şal, bandana, takı vb.)",
+  "Kayıt ve görüntü cihazları (koreografi çalışmalarında)",
+  "Yöresel müzik enstrümanları (halk oyunları ekiplerinde)"
+ ],
+ "genel_ozellikler": [
+  "Ritim duygusu gelişmiş,",
+  "Fiziksel esnekliği ve uyumu iyi,",
+  "Yaratıcı ve estetik duyusuna sahip,",
+  "Sabırlı ve disiplinli,",
+  "Ekip çalışmasına açık,",
+  "Fiziksel olarak dayanıklı ve güçlü,",
+  "Sahne önünde kendine güvenen,",
+  "Müziği ve ezgileri ayırt edebilen"
+ ],
+ "calisma_ortami": "Dans sanatçısı/dansçı genellikle kapalı mekanlarda; tiyatro, opera binası, gösteri ve prova salonlarında çalışır. Festivaller, düğünler veya özel etkinlikler nedeniyle açık havada da performans sergileyebilir. Çalışma, yoğun fiziksel efor gerektirir; uzun süreli prova ve tekrarlı hareketler nedeniyle kas-iskelet sistemi yorgunluğu ve sakatlanma riski bulunur. Gösteri ve temsiller çoğunlukla akşam saatlerinde, hafta sonlarında ve resmî tatillerde gerçekleştiğinden çalışma saatleri düzensiz olabilir.\n\nDans sanatçısı/dansçı; koreograf, diğer dansçılar ve meslektaşları, müzisyenler, sahne ve ışık ekibi, kostüm-makyaj görevlileri ve yönetmenle sürekli iletişim içinde çalışır.",
+ "egitim": {
+  "verildigi_yerler": "Dans eğitimi; üniversitelerin devlet konservatuvarlarında (bale ve modern dans bölümleri), güzel sanatlar fakültelerinin sahne sanatları/dans bölümlerinde, özel dans okulu ve kurslarında, halk oyunları ekipleri ve derneklerinde, Halk Eğitim Merkezleri ile İŞKUR'un açtığı mesleki eğitim kurslarında ve usta-çırak ilişkisi içinde verilmektedir.",
+  "giris_kosullari": [
+   "Bale gibi klasik dans dallarında eğitime küçük yaşlarda başlamak ve ilgili konservatuvarın özel yetenek sınavını kazanmak gerekir.",
+   "Modern dans, halk oyunları gibi dallarda ise ilköğretim/ortaöğretim düzeyinde eğitim yeterli olup beceri, kurs ve ekip çalışmalarıyla geliştirilir.",
+   "Fiziksel uygunluk, esneklik ve ritim duygusuna sahip olmak gerekir.",
+   "Özel yetenek sınavlarına girecek adayların ilgili kurumun belirlediği kayıt-kabul koşullarını taşıması gerekir."
+  ],
+  "sure_ve_icerik": "Eğitimin süresi ve içeriği, uzmanlaşılan dans türüne ve alınan eğitimin kurumuna göre değişir. Konservatuvarlarda lisans düzeyinde eğitim yıllarca sürebilir ve akademik bale/dans tekniği, müzik bilgisi, repertuvar çalışmalarını kapsar. Halk oyunları ve modern dans alanında kurs ve ekip eğitimleri daha kısa sürelerde, yoğun pratik ve sahne provaları ile yürütülür. Eğitim boyunca ritim, kondisyon, figür-koreografi öğrenimi ve sahne tekniği üzerinde çalışılır.",
+  "belge": "Konservatuvar veya üniversite düzeyinde eğitim alanlara diploma; kurs ve halk eğitim merkezi programlarını tamamlayanlara katılım/başarı belgesi verilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Dans sanatçıları/dansçılar; Devlet Opera ve Balesi Genel Müdürlüğü ve bağlı kuruluşlarda, özel tiyatro ve dans topluluklarında, halk oyunları ekipleri ve derneklerinde, belediyelerin kültür ve sanat birimlerinde, kültür merkezlerinde, otel ve eğlence mekânlarında, televizyon-dizi-reklam prodüksiyonlarında ve festivallerde görev alabilirler. Deneyim kazananlar dans okullarında eğitmen olarak da çalışabilir.",
+ "kazanc": {
+  "egitim_suresince": "Eğitim süresince genellikle düzenli bir kazanç söz konusu değildir; kurs ve eğitim ücretleri öğrenci veya ailesi tarafından karşılanır. Bazı kurumlar ve vakıflar başarılı öğrencilere burs sağlayabilir.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında (örneğin Devlet Opera ve Balesi Genel Müdürlüğü) çalışanlar 657 sayılı Devlet Memurları Kanunu çerçevesinde ücret alır, varsa işçi statüsünde çalışanlar ilgili toplu iş sözleşmesine göre ücretlendirilir.",
+   "Özel sektörde (tiyatro, dans toplulukları, prodüksiyon şirketleri) kazanç; işletmeyle yapılan anlaşmaya, deneyime ve üstlenilen projeye göre değişir.",
+   "Mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç elde eder; deneyim ve tanınırlık arttıkça kazanç yükselebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Dans sanatçıları, deneyim kazandıkça koreograf veya dans eğitmeni olarak çalışabilir; isteyenler ilgili lisansüstü programlara devam ederek akademik kariyer yapabilir.",
+  "is_hayatinda": "Kamu kurumlarında kıdem ve performansa göre kadro ilerlemesi söz konusu olabilir. Özel sektörde başarılı dansçılar başrol, grup lideri veya koreograf gibi görevlere yükselebilir."
+ },
+ "benzer_meslekler": [
+  "Koreograf",
+  "Bale Dansçısı",
+  "Semazen",
+  "Halk Oyunları Oyuncusu"
+ ],
+ "ek_bilgiler": "Dans sanatçılığı/dansçılık; bale, modern dans, halk oyunları gibi farklı uzmanlık alanlarını kapsayan geniş bir meslek grubudur. Eğitim ve istihdam olanakları, dansçının uzmanlaştığı dans türüne göre önemli ölçüde farklılık gösterebilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T07:48:13",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5762
+  }
+ }
+}

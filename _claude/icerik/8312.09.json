@@ -1,0 +1,80 @@
+{
+ "arac_gerec": [
+  "Katener teli ve bağlantı elemanları",
+  "Elektrik direği ve izolatörler",
+  "Germe ve gerdirme tertibatları",
+  "Ekip arabası",
+  "Yükseltici platform aracı (nacelle/vinçli araç)",
+  "İzole eldiven ve izole takımlar",
+  "Baret, emniyet kemeri ve diğer kişisel koruyucu donanımlar",
+  "El aletleri (pense, anahtar takımı, kargaburun vb.)",
+  "Kaynak makinesi",
+  "Ölçüm cihazları (multimetre, megaohmmetre)",
+  "Topraklama ekipmanları",
+  "Telsiz ve diğer haberleşme cihazları",
+  "Kesici ve makas takımları",
+  "Merdiven"
+ ],
+ "genel_ozellikler": [
+  "Elektrik ve mekanik sistemlere ilgi duyan,",
+  "El ve beden becerisine sahip,",
+  "Yüksekte çalışmaktan çekinmeyen,",
+  "Dikkatli ve sorumluluk sahibi,",
+  "Açık havada ve değişken koşullarda çalışmaya istekli,",
+  "Takım halinde uyumlu çalışabilen,",
+  "Fiziksel olarak sağlıklı ve dayanıklı,",
+  "Acil durumlarda hızlı ve soğukkanlı karar verebilen"
+ ],
+ "calisma_ortami": "Katener işçisi, görevini genellikle açık havada, demiryolu güzergahı boyunca sürdürür. Çalışma sırasında sıcak, soğuk, yağmur ve kar gibi hava koşullarına maruz kalabilir. Katener hatlarının direk ve tel sistemleri üzerinde yükseklikte çalışma söz konusu olduğundan düşme ve elektrik çarpması riskleri bulunur; bu nedenle iş güvenliği kurallarına ve kişisel koruyucu donanım kullanımına eksiksiz uyulması hayati önem taşır.\n\nMeslek elemanı, katener şefliği ve kumanda merkeziyle sürekli koordinasyon halinde, bir ekip içinde çalışır. Arızalar günün her saatinde ortaya çıkabileceğinden vardiyalı, gece, hafta sonu ve resmi tatil günlerinde çalışma ile acil çağrılara anında müdahale etme durumu vardır.",
+ "calisma_alanlari": "Meslek elemanları başta TCDD (Türkiye Cumhuriyeti Devlet Demiryolları) olmak üzere, şehir içi raylı sistem işletmelerinde (metro, tramvay, banliyö hatları) ve demiryolu altyapı/elektrifikasyon bakım hizmeti veren özel şirketlerde istihdam edilmektedir. Raylı sistem yatırımlarının ve demiryolu ağının yaygınlaşması, bu alandaki iş bulma olanaklarını desteklemektedir.",
+ "ek_bilgiler": "Katener işçileri yüksek gerilimli hatlar üzerinde ve yükseklikte çalıştıklarından, görevleri iş güvenliği açısından riskli işler kapsamında değerlendirilebilir. Bu nedenle düzenli iş güvenliği ve yüksekte çalışma eğitimleri alınması, kişisel koruyucu donanımların eksiksiz kullanılması büyük önem taşır. Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda tercih sebebi olabilir.",
+ "gorevler": [
+  "Katener şefliğince demiryolu güzergahında belirlenen arızaları giderir.",
+  "Kumanda merkezince bildirilen arızaların türüne göre gerekli malzemeleri hazırlar.",
+  "Hazırlanan malzemeleri ekip arabasına koyar ve arıza yerine giderek arızayı giderir.",
+  "Hat kontrollerini yapar.",
+  "Yol boyunca bozulan katener tellerinin arızasını giderir.",
+  "Demiryolu güzergahında bulunan elektrik direklerinden kaza sonucu kırılan direkleri yeniler.",
+  "Şefliğince bildirilen her türlü arıza ve bakım çalışmalarında elektrikli manevraları yapar.",
+  "Oluşabilecek arızalara anında müdahale eder.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi için ülkemizde örgün bir okul programı bulunmamaktadır. TCDD ve benzeri demiryolu işletmelerinde işe alınan personel, işbaşında usta yanında ve kurum içi eğitimlerle yetiştirilir. Ayrıca Halk Eğitim Merkezleri ve İŞKUR'un açtığı elektrik/elektrik tesisatçılığı gibi ilgili mesleki eğitim kurslarında temel bilgi ve beceriler kazanılabilir.",
+  "giris_kosullari": [
+   "En az ilköğretim (ilkokul/ortaokul) mezunu olmak",
+   "İşe alınacak kurumun açtığı sınav/mülakatı ve sağlık muayenesini (özellikle yükseklikte ve elektrikli ortamda çalışmaya uygunluk yönünden) geçmek",
+   "Fiziksel olarak sağlıklı ve bu işi yapmaya uygun olmak"
+  ],
+  "sure_ve_icerik": "Mesleğin standart bir eğitim süresi ve müfredatı bulunmamaktadır. İşe alınan kişiler, işbaşında deneyimli katener işçileri ve teknik personel gözetiminde demiryolu elektrifikasyon sistemlerinin yapısı, katener hatlarının bakım ve onarımı, iş güvenliği kuralları ile arızalara müdahale yöntemleri konusunda uygulamalı olarak yetiştirilir. Bu süreç kurumdan kuruma değişmekle birlikte genellikle bir süreç içinde tamamlanır.",
+  "belge": "Mesleğin eğitimine ilişkin standart bir diploma veya sertifika programı bulunmamaktadır. Çalışılan kurum tarafından verilen iç eğitim sertifikaları ile iş güvenliği ve yüksekte çalışma eğitim belgeleri alınabilir. Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Eğitim işbaşında verildiğinden kişi, genellikle çalıştığı kurumdan asgari ücret düzeyinde bir ücret alarak mesleği öğrenir.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında (örneğin TCDD) işçi statüsünde çalışanlar toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde çalışanların ücreti, işletmenin büyüklüğüne, deneyime ve çalışma koşullarına göre değişiklik gösterir.",
+   "Mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar; deneyim arttıkça ve vardiya/fazla mesai ödemeleriyle kazanç yükselebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğin örgün bir eğitim kademesi bulunmadığından mesleki eğitimde ilerleme sınırlıdır. Ancak kişi isterse açık öğretim veya örgün eğitim yoluyla elektrik-elektronik, raylı sistemler gibi alanlarda meslek lisesi, önlisans ya da lisans düzeyine geçiş yaparak teknisyen, tekniker veya mühendis unvanlarına ulaşabilir.",
+  "is_hayatinda": "Deneyim ve performansına göre ekip sorumlusu, katener şefi veya bakım-onarım amiri gibi kademelere yükselebilir; ayrıca kurum içi eğitimlerle sinyalizasyon veya elektrik bakımı gibi ilgili alanlara geçiş yapabilir."
+ },
+ "benzer_meslekler": [
+  "Demiryolu Sinyalcisi",
+  "Demiryolu Tesisler Sürveyanı",
+  "Yol Sürveyanı (Demiryolu)",
+  "Tesisler Kontrolörü (Demiryolu)",
+  "Panel Sistem Demiryolu Ustası",
+  "Telekomat Bakım Sürveyanı"
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T18:09:51",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6387
+  }
+ }
+}

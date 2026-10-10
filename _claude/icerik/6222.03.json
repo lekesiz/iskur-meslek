@@ -1,0 +1,80 @@
+{
+ "arac_gerec": [
+  "Balıkçı ağları (serpme ağ, uzatma ağı, fanyalı ağ vb.)",
+  "Olta takımları",
+  "İğne ve zokalar",
+  "Kurşun ve mantar yakalar",
+  "Kösteler",
+  "Mızrak",
+  "Kancalı sopa",
+  "Balık tuzakları (pinter, kapan vb.)",
+  "Kayık/tekne ve kürek-motor aksamı",
+  "Ağ onarım iğnesi ve ipi (file iğnesi)",
+  "Can yeleği ve temel güvenlik donanımı",
+  "Balık taşıma kasaları, sepet ve sandıklar",
+  "Buzluk veya soğutucu kaplar",
+  "Çapa ve halat"
+ ],
+ "genel_ozellikler": [
+  "Fiziksel olarak güçlü ve dayanıklı,",
+  "El ve kol kaslarını iyi kullanabilen, el becerisine sahip,",
+  "Açık havada ve değişken hava koşullarında çalışmaya istekli,",
+  "Dikkatli ve sabırlı,",
+  "Yüzme bilen,",
+  "Takım halinde uyumlu çalışabilen,",
+  "Zorluk ve belirsizliklere karşı dayanıklı,",
+  "Çevresindeki doğal şartları gözlemleyebilen"
+ ],
+ "calisma_ortami": "İç Sular ve Kıyı Balıkçısı, göl, nehir, baraj gibi iç sularda veya deniz kıyılarında, küçük kayık ya da teknelerde açık havada çalışır. Çalışma saatleri sabit değildir; av verimine, balığın türüne ve mevsime göre sabahın erken saatlerinde, gün boyunca ya da gece çalışılabilir. Avlanma yasaklarının getirildiği üreme dönemlerinde çalışma süreksizlik gösterebilir.\n\nÇalışma sırasında ayakta, eğilerek veya oturarak ağ ve olta ile uğraşılır; soğuk, sıcak, rüzgâr, yağmur gibi hava koşullarına, ıslanmaya, dalgalı denizde düşme ve kayma risklerine maruz kalınabilir. Fiziksel olarak yorucu bir meslektir. Çalışanlar genellikle az sayıda kişiyle (kendisi, ailesi veya bir-iki yardımcı ile) ekip halinde çalışır; kooperatif üyesi balıkçılar ve balık toptancıları ile de iletişim kurar.",
+ "egitim": {
+  "verildigi_yerler": "Bu mesleğe yönelik örgün bir mesleki ve teknik ortaöğretim programı bulunmamaktadır. Meslek genellikle ailede veya usta yanında uygulamalı olarak öğrenilir. Halk Eğitim Merkezleri ile İŞKUR'un açtığı su ürünleri/balıkçılık konulu mesleki eğitim kursları da temel bilgi ve beceri kazandırabilir.",
+  "giris_kosullari": [
+   "İlköğretim/ilkokul mezunu olmak (mesleğin gerektirdiği asgari eğitim düzeyi ilköğretimdir)",
+   "Yüzme bilmek",
+   "Bedensel olarak açık hava ve su üzerinde çalışmaya uygun olmak"
+  ],
+  "sure_ve_icerik": "Kurs programlarının süresi ve içeriği düzenleyen kuruma göre değişmekle birlikte genel olarak ağ ve olta kullanımı, balık türlerinin tanınması, avlanma teknikleri, teknede temel güvenlik ile iş sağlığı ve güvenliği konularını kapsar. Meslek büyük ölçüde işbaşında, usta balıkçı yanında uygulamalı olarak kazanılır.",
+  "belge": "Katılınan kurslar sonunda kurs bitirme belgesi/sertifika verilebilir. Tekneyle çalışacaklar için gemiadamı cüzdanı ve ilgili denizcilik/avcılık mevzuatınca öngörülen belgelerin bulunması gerekebilir. MYK Mesleki Yeterlilik Belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Bu meslekte kamu sektöründe doğrudan istihdam sınırlıdır. Su ürünleri kooperatifleri, balıkçı barınakları ve özel balıkçılık işletmelerinde çalışılabildiği gibi, kişiler kendi hesabına, ruhsatlı tekne sahibi olarak da bu mesleği sürdürebilir. Kıyı illerinde ve göl, baraj, nehir gibi iç su kaynaklarının bulunduğu bölgelerde iş bulma olanağı daha fazladır. Avlanma yasaklarının uygulandığı dönemlerde çalışma sürekliliği kesintiye uğrayabilir.",
+ "kazanc": {
+  "egitim_suresince": "Örgün bir mesleki eğitim programı bulunmadığından meslek genellikle aile içinde veya usta yanında öğrenilir; bu süreçte düzenli bir ücretten söz etmek güçtür. İŞKUR tarafından düzenlenen mesleki eğitim kurslarına katılanlara kursiyer harçlığı gibi destekler sağlanabilir.",
+  "egitim_sonrasi": [
+   "Kendi hesabına çalışan balıkçılarda kazanç av verimine, mevsime ve pazar fiyatlarına göre değişir, sabit bir gelir söz konusu değildir.",
+   "Bir işletmede ücretli çalışanlarda kazanç işveren ile yapılan anlaşmaya, deneyime ve işletmenin büyüklüğüne göre değişmekte, yeni başlayanlarda genellikle asgari ücret düzeyinde olabilmektedir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Meslekte örgün bir ilerleme basamağı bulunmamaktadır; kişi deneyim kazandıkça belirli balık türlerinin avında veya belirli av yöntemlerinde (ağcılık, oltacılık, tuzakla avlanma vb.) uzmanlaşabilir.",
+  "is_hayatinda": "Deneyim ve birikim sağlayan kişiler kendi teknesini edinerek bağımsız çalışabilir, balıkçılık kooperatiflerinde temsilcilik/yöneticilik görevleri üstlenebilir ya da balıkçı gemisi kaptanlığı gibi daha ileri düzey mesleklere yönelebilir."
+ },
+ "benzer_meslekler": [
+  "Açık Deniz Balıkçısı",
+  "Diğer Balıkçılar",
+  "Balıkçı Gemisi Kaptanı",
+  "Avcı (Ateşli Silah-Tuzakla)",
+  "Diğer Avcılar"
+ ],
+ "ek_bilgiler": "Bu meslekte çalışanların önemli bir kısmı su ürünleri kooperatiflerine üyedir. İç su ve kıyı balıkçılığı, ilgili bakanlığın belirlediği avlanma dönemleri, yasaklı bölgeler ve av araçlarına ilişkin düzenlemelere tabidir; bu durum çalışma sürekliliğini ve kazancı etkileyebilir.",
+ "gorevler": [
+  "İç sularda ve kıyılarda balık tutmak için ağları ve oltaları kontrol eder, yırtık ağları onarır.",
+  "Ağdaki kurşun ve mantar yakalarını kontrol eder.",
+  "Oltadaki eksik iğne ve zokaları, kösteleri tamamlar.",
+  "Balık cinsine göre kayığın kıç tarafına istiflenen ağları, ağ dökülecek yerde karıştırmadan, kayık hareket halindeyken denize salar.",
+  "Salınan ağları toplayıp balıkları cins ve büyüklüklerine göre ayırarak tasnif eder.",
+  "Oltadaki iğne ve zokalara yem takarak denize salar.",
+  "Oltayı çekerek balıkları iğneden çıkarıp cinslerine göre tasnif eder.",
+  "Mızrak, kancalı sopa ve tuzaklar kurmak gibi değişik yöntemlerle balık avlar.",
+  "Balıkçılık teçhizatı ve malzemelerinin bakım ve onarımını yapar.",
+  "Belirli cins balık yakalamada veya alet kullanmada uzmanlaşabilir, bu konuda çalışmalar yapar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T22:07:16",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6041
+  }
+ }
+}

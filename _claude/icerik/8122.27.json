@@ -1,0 +1,79 @@
+{
+ "arac_gerec": [
+  "Basınçlı hava tabancası / kompresör",
+  "Tünel fırın",
+  "Boks fırın",
+  "Baralar ve askı telleri",
+  "Çatma rafları, sehpalar, taşıma arabaları (transpalet)",
+  "Fırın ısı kontrol paneli, termostat",
+  "Kronometre / zaman ayar düzeneği",
+  "Koruyucu eldiven, önlük",
+  "Koruyucu gözlük ve maske",
+  "İş elbisesi",
+  "İstif paletleri",
+  "Temizlik malzemeleri (fırça, süpürge vb.)"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve sabırlı,",
+  "El becerisine sahip,",
+  "Yüksek ısıya karşı dayanıklı,",
+  "Yönergeye ve talimatlara uyabilen,",
+  "Sorumluluk sahibi ve güvenilir,",
+  "Ekip çalışmasına uyumlu,",
+  "Görsel ayrıntıları fark edebilen (ürünün pişme durumunu gözle kontrol edebilen),",
+  "Fiziksel olarak dayanıklı"
+ ],
+ "calisma_ortami": "Emaye fırınlama işçisi, genellikle fabrika veya atölye ortamında, tünel ya da boks fırınların bulunduğu kapalı mekânlarda çalışır. Çalışma ortamı fırınların yaydığı yüksek ısı nedeniyle sıcaktır; iş genellikle ayakta, ağır parçaları taşıyarak ve kaldırarak yürütülür. Basınçlı hava ile toz temizleme ve parça asma/dizme işlemleri sırasında gürültü, toz ve yanık riskine karşı koruyucu eldiven, gözlük ve iş elbisesi kullanılması gerekir.\n\nÇalışma genellikle işletmenin üretim temposuna bağlı olarak vardiyalı düzende sürdürülür. Meslek elemanı; aynı bölümde çalışan diğer emaye işçileri (daldırma, pistole, hazırlama), fırın bakım-onarım servisleri, paketleme bölümü çalışanları ve ustabaşı ile sürekli iletişim halindedir.",
+ "egitim": {
+  "verildigi_yerler": "Emaye fırınlama işçiliğinin resmi bir okul programı veya kesin bir mesleki eğitim merkezi kursu bulunmamaktadır. Meslek genellikle işletmelerde işbaşında, usta yanında öğrenilir. İşe giriş genellikle görüşme usulüyle veya aynı işyerinde başka bir görevde çalışırken bu alana yönlendirilme şeklinde olabilir. Ayrıca Halk Eğitim Merkezleri ve İŞKUR tarafından açılan metal kaplama/boya ile ilgili mesleki eğitim kursları da dolaylı olarak bilgi ve beceri kazandırabilir.",
+  "giris_kosullari": [
+   "İlköğretim mezunu olmak (mesleğin gerektirdiği minimum eğitim düzeyi)",
+   "18 yaşından küçükler için veli izni gerekmesi",
+   "Yüksek ısıya ve fiziksel çalışmaya uygun sağlık durumuna sahip olmak",
+   "Belirli bir yaş veya eğitim düzeyi aranıyorsa, bu durumun ilgili kurum/işletme tarafından duyurulması"
+  ],
+  "sure_ve_icerik": "Eğitim süresi işyerinin yapısına göre değişmekle birlikte genellikle işbaşında 1-3 ay arasında sürer. Bu süre içinde parçaların fırına dizilmesi/asılması, fırın ısı ve pişirme süresi ayarları, pişme durumunun gözle kontrolü, emayenin yanmasını önleme teknikleri, istifleme ve teslim işlemleri ile işçi sağlığı ve iş güvenliği kuralları öğretilir.",
+  "belge": "İşletmede usta yanında yetişenlere genellikle resmi bir diploma verilmez; bir kurs programına katılım söz konusu olduğunda ise genellikle 'Kurs Bitirme Belgesi' verilebilir."
+ },
+ "calisma_alanlari": "Emaye fırınlama işçileri; beyaz eşya, mutfak gereçleri, sıhhi tesisat ürünleri (küvet, lavabo), metal mutfak eşyaları, döküm ve sac işleme sanayinde emaye kaplama yapan özel sektör işletmelerinde çalışabilir. İş bulma olanakları, emaye kaplamalı ürün üreten fabrika ve atölyelerin yoğunlaştığı sanayi bölgelerinde daha fazladır. Sektördeki üretim hacmine bağlı olarak istihdam talebi değişkenlik gösterebilir.",
+ "kazanc": {
+  "egitim_suresince": "İşbaşında usta yanında yetişenler, çalıştıkları süre boyunca genellikle vasıfsız işçi ücreti veya asgari ücret düzeyinde bir kazanç elde ederler. Herhangi bir kurs programına katılım söz konusu ise bu süreçte ücret söz konusu olmayabilir.",
+  "egitim_sonrasi": [
+   "Meslek eğitimi/işbaşı öğrenimi tamamlandıktan sonra kazanç genellikle asgari ücret düzeyinde başlar.",
+   "Deneyim, bilgi düzeyi ve çalışılan işletmenin büyüklüğüne bağlı olarak ücret artabilir.",
+   "Kamuda bu meslekte istihdam yaygın değildir; çalışma koşulları genellikle özel sektördeki işveren-işçi anlaşmasına göre belirlenir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Meslekte ilerleme; deneyim kazanma, farklı fırın türlerinde (boks, tünel) çalışabilme ve emaye kaplama sürecinin diğer aşamalarına (hazırlama, daldırma, pistole) yönelik bilgi edinme yoluyla gerçekleşir.",
+  "is_hayatinda": "Deneyim kazandıkça usta, ekip sorumlusu veya ustabaşı pozisyonlarına yükselme mümkündür. Büyük işletmelerde emaye kaplama sürecinin farklı aşamalarında uzmanlaşma söz konusu olabilir."
+ },
+ "benzer_meslekler": [
+  "Emaye Daldırma İşçisi",
+  "Emaye Pistole İşçisi",
+  "Emaye Hazırlama İşçisi",
+  "Emaye İşçisi",
+  "Endüstriyel Fırın İşçisi",
+  "Endüstriyel Fırın Ustası"
+ ],
+ "ek_bilgiler": "Meslek, yüksek ısı altında çalışmayı gerektirdiğinden fiziksel dayanıklılık ve iş güvenliği tedbirlerine uyum önemlidir. Mesleki Yeterlilik Kurumu (MYK) belgesi, iş sağlığı ve güvenliği açısından riskli görülen bu tür işlerde istihdamda tercih sebebi olabilir; ancak zorunluluğu hakkında kesin bilgi için ilgili mevzuatın güncel halinin kontrol edilmesi önerilir.",
+ "gorevler": [
+  "Sac, döküm vb. parça üzerindeki istenmeyen tozları basınçlı hava ile temizler.",
+  "Boks veya tünel fırınlara parçaları çatarak dizer veya baralara asar, fırına sürer.",
+  "Fırının gerekli ısı ve pişirme süresi ayarlarını yapar.",
+  "Emayelenmiş malzemenin/parçaların pişme durumunu gözle kontrol eder, pişmemişse yeniden bekletir, pişme durumunu izleyerek emayenin yanmamasını sağlar.",
+  "Fırından çıkarılan parça veya mamulleri uygun şekilde istifler.",
+  "İşlemi biten malzemeyi paketleme bölümüne teslim eder.",
+  "Tünel fırın arızalanmasında yetkili servise haber verir.",
+  "Kullanılan malzeme ve çevrenin düzen ve temizliğini sağlar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T11:53:48",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 4491
+  }
+ }
+}

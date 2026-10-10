@@ -1,0 +1,81 @@
+{
+ "arac_gerec": [
+  "Tav ocağı",
+  "Haspel makinesi",
+  "Katran çukuru (havuzu)",
+  "Kanca ve maşa",
+  "İstifleme tezgahı",
+  "Soğutma ızgarası",
+  "Nakil rolesi / konveyör hattı",
+  "Otomatik kumanda paneli",
+  "Isı ölçüm cihazı (pirometre)",
+  "Isıya dayanıklı eldiven ve iş elbisesi",
+  "Çelik burunlu güvenlik ayakkabısı",
+  "Yüz siperliği / koruyucu gözlük",
+  "Solunum maskesi",
+  "Yangın söndürme ekipmanı",
+  "Makine bakım ve yağlama malzemeleri"
+ ],
+ "benzer_meslekler": [
+  "Metal Kaplamacı (Sıcak Daldırma)",
+  "Galvanizci (Daldırma İle)",
+  "Endüstriyel Fırın İşçisi",
+  "Endüstriyel Fırın Ustası",
+  "Asitleme İşçisi (Daldırma İle)",
+  "Metal Yüzey Kaplamacı"
+ ],
+ "calisma_alanlari": "Haspel makinesi operatörleri, metal boru imalatı yapan fabrika ve sanayi tesislerinde, özellikle üretilen boruların katran veya benzeri koruyucu maddeyle kaplandığı üretim hatlarında çalışır. Bu meslek, doğrudan metal boru üreten özel sektör işletmeleriyle sınırlı bir çalışma alanına sahiptir; kamu kurumlarında bu unvanla istihdam olanağı bulunmamaktadır.\n\nİstihdam, inşaat, altyapı, enerji ve su/doğalgaz iletim hatları gibi sektörlerdeki boru talebine bağlı olarak değişkenlik gösterir. İş bulma olanağı, genellikle metal boru üretim tesislerinin yoğunlaştığı sanayi bölgelerinde daha fazladır.",
+ "calisma_ortami": "Haspel makinesi operatörleri kapalı alanlarda, fabrika ve atölye ortamında çalışır. Tav ocaklarının bulunması nedeniyle çalışma ortamı sıcaktır; katran çukurundan kaynaklanan yoğun koku ve duman bulunabilir. Çalışma genellikle ayakta, kanca ve maşa gibi el aletleriyle yürütülür; yanık, sıcak yüzeyle temas ve kimyasal maddeye maruz kalma riski vardır. Bu nedenle kişisel koruyucu donanım kullanımı önemlidir.\n\nİşyerinin üretim programına bağlı olarak vardiyalı çalışma söz konusu olabilir. Meslek elemanı, çalışma sırasında diğer makine operatörleri, ustabaşı ve iş güvenliği sorumlusu ile sürekli iletişim halindedir.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin resmi olarak tanımlanmış, örgün bir mesleki eğitim programı bulunmamaktadır. Meslek büyük ölçüde işyerlerinde işbaşında, usta-çırak ilişkisi içinde öğrenilmektedir. Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kurslarında metal işleme ve yüzey kaplama alanlarına ilişkin temel beceriler kazandırılabilir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "18 yaşını doldurmuş olmak (ağır ve tehlikeli iş niteliği taşıyabileceğinden)",
+   "Sağlık durumunun yoğun ısı ve fiziksel çalışmaya uygun olması",
+   "El becerisine ve dikkatli çalışmaya uygun olmak"
+  ],
+  "sure_ve_icerik": "İşyerinde işbaşında verilen eğitimin süresi işyerinin büyüklüğüne ve iş yoğunluğuna göre değişmekle birlikte genellikle birkaç ay sürer. Eğitim süresince tav ocağının çalıştırılması ve ısı ayarları, boruların kancalarla taşınması ve istiflenmesi, katran çukuruna daldırma ve çıkarma işlemlerinin otomatik kumanda ile yapılması, soğutma ve nakil işlemleri, makinenin bakım ve temizliği ile iş sağlığı ve güvenliği kuralları öğretilir.",
+  "belge": "İşyerinde usta yanında yetişenlere resmi bir diploma verilmemektedir. Halk Eğitim Merkezi veya İŞKUR kurslarına katılanlara, kursu başarıyla tamamlamaları halinde \"Kurs Bitirme Belgesi\" verilir."
+ },
+ "ek_bilgiler": "Tav ocakları ve katran çukuru ile çalışma, yüksek ısı, yanık ve kimyasal madde teması gibi riskler taşıdığından bu mesleğin tehlikeli işler kapsamında değerlendirilmesi olasıdır. İşe alımlarda sağlık raporu ve asgari yaş şartı aranabilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda tercih sebebi olabilir.",
+ "genel_ozellikler": [
+  "Dikkatli ve tedbirli,",
+  "Fiziksel olarak güçlü ve dayanıklı,",
+  "El ve göz koordinasyonu iyi,",
+  "Yüksek ısı ve yoğun kokuya karşı dayanıklı,",
+  "Sorumluluk sahibi,",
+  "İş güvenliği kurallarına titizlikle uyan,",
+  "Takım çalışmasına uyumlu,",
+  "Makine ve tezgahları kullanmaya istekli"
+ ],
+ "gorevler": [
+  "Katrana batırılacak boruları tav ocaklarında belirli ısı derecelerine kadar ısıtır,",
+  "Belirli ısı derecesinde tavlanan boruları kancalarla ocaktan çıkartıp tezgah üzerine istifler,",
+  "İndirme düğmesine basarak istifteki boruları katran çukuruna daldırır,",
+  "Belirli müddet bekleyip katran ile kaplanan boruları katran çukurundan çıkarmak için otomatik kumandaları çalıştırır,",
+  "Çukurdan çıkan borular üzerindeki fazla katranın süzülmesini bekleyip boruları soğutma ızgaralarına bırakır,",
+  "Soğuyan boruları kancalarla nakil roleleri üzerine aktarır,",
+  "İş bitimlerinde makinenin bakım ve temizliğini yapar,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Meslekte ilerleme büyük ölçüde iş deneyimine bağlıdır. Zaman içinde farklı makine ve ekipmanların kullanımı öğrenilerek ustalık seviyesine ulaşılabilir.",
+  "is_hayatinda": "Deneyim kazanan meslek elemanları ustabaşılığa veya vardiya sorumluluğuna yükselebilir; metal işleme ve yüzey kaplama süreçlerinin farklı aşamalarında görev alarak uzmanlaşabilirler."
+ },
+ "kazanc": {
+  "egitim_suresince": "İşyerinde işbaşında eğitim alanlar, çalıştıkları süre boyunca genellikle asgari ücret düzeyinde ücret alır. Halk Eğitim Merkezi veya İŞKUR kurslarına katılanlar için eğitim süresince ücret söz konusu değildir.",
+  "egitim_sonrasi": [
+   "İşe yeni başlayanların kazancı genellikle asgari ücret düzeyindedir.",
+   "Deneyim, iş performansı ve işletmenin büyüklüğüne bağlı olarak ücret artabilir.",
+   "Özel sektörde çalışanlar işveren ile yapılan anlaşma koşullarına, kamuya bağlı işyerlerinde işçi statüsünde çalışanlar ise toplu iş sözleşmesi hükümlerine göre ücret alır."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T11:45:54",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5647
+  }
+ }
+}

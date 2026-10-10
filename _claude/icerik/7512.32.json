@@ -1,0 +1,80 @@
+{
+ "gorevler": [
+  "İş planlaması ve organizasyonu yapar.",
+  "Hijyen kurallarına uygun olarak çalışma ortamını hazırlar.",
+  "Höşmerim yapımında kullanılan malzemeleri (taze tuzsuz peynir, nişasta, pirinç unu, şeker vb.) temin eder.",
+  "Kullanılacak malzemeleri sırasıyla uygun oranlarda karıştırır, pişirir.",
+  "Pişen höşmerimi tabaklara alarak süsler ve servise hazır hale getirir.",
+  "Çalışma alanının temizlik ve düzenini sağlar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "arac_gerec": [
+  "Taze tuzsuz peynir",
+  "Nişasta",
+  "Pirinç unu",
+  "Şeker",
+  "Süt",
+  "Tereyağı veya sıvı yağ",
+  "Ocak veya ısıtıcı tezgah",
+  "Geniş kenarlı tava veya tencere",
+  "Tahta kaşık, spatula",
+  "Karıştırma kabı",
+  "Terazi ve ölçü kapları",
+  "Servis tabakları",
+  "Bıçak",
+  "Soğutma dolabı",
+  "Hijyen malzemeleri (eldiven, bone, önlük)"
+ ],
+ "genel_ozellikler": [
+  "El becerisine sahip,",
+  "Dikkatli ve sabırlı,",
+  "Hijyen ve temizliğe önem veren,",
+  "Koku ve tat alma duyusu gelişmiş,",
+  "Ekip çalışmasına uyumlu,",
+  "Ayakta ve yoğun tempoda çalışabilecek fiziksel dayanıklılığa sahip,",
+  "Sunumda estetik anlayışa sahip,",
+  "Zamanlamaya dikkat eden"
+ ],
+ "calisma_ortami": "Höşmerim ustaları genellikle tatlıcı, pastane, lokanta, kafe, otel ve catering işletmelerinin mutfaklarında veya kendi işyerlerinde çalışır. Çalışma ortamı kapalı mekân olup ocak başında geçirilen süre nedeniyle sıcak ve bazen nemli olabilir; uzun süre ayakta durmayı ve dikkatli hareket etmeyi gerektirir.\n\nÇalışma saatleri işletmenin yoğunluğuna göre değişebilir; akşam saatleri, hafta sonu ve bayram dönemlerinde çalışma yoğunlaşabilir. Mutfak personeli, servis elemanları ve işletme sahibi/yöneticisi ile sürekli iletişim halinde çalışılır.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin örgün biçimde ayrı bir dal olarak tanımlı resmi bir mesleki eğitim programı bulunmamaktadır. Höşmerim yapımı genellikle tatlıcı, pastane ve lokanta işletmelerinde usta-çırak ilişkisi içinde işbaşında öğrenilir. Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kurslarında geleneksel tatlı yapımına yönelik kısa süreli kurslar da düzenlenebilir.",
+  "giris_kosullari": [
+   "Okuma yazma bilmek, mümkünse ilköğretim mezunu olmak",
+   "Sağlık durumunun mutfak ortamında çalışmaya uygun olması",
+   "Mesleğe işbaşında başlamak isteyenler için ilgili işletmede çalışmaya başlamak"
+  ],
+  "sure_ve_icerik": "Bu meslekte örgün ve standart süreli bir eğitim programı bulunmamaktadır. Kişiler genellikle gıda veya pastacılık sektöründe çalışmaya başlayarak usta yanında işbaşı eğitimiyle höşmerim ve benzeri geleneksel tatlıların yapımını öğrenir. Ayrıca kısa süreli mesleki eğitim kurslarına katılarak temel bilgi ve beceri edinilebilir.",
+  "belge": "Usta-çırak ilişkisi içinde yetişenler için resmi bir diploma/belge söz konusu değildir; katılınan kurslar sonunda kurs bitirme veya katılım belgesi verilebilir. Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Höşmerim ustaları; tatlıcılar, pastaneler, lokantalar, kafeler, oteller ve catering işletmelerinde çalışabilir. Yeterli sermaye ve deneyime sahip olanlar kendi işyerlerini açabilir.",
+ "kazanc": {
+  "egitim_suresince": "Örgün bir mesleki eğitim programı bulunmadığından bu meslekte eğitim süresine ilişkin standart bir ücretlendirme söz konusu değildir; işbaşında öğrenenler çoğunlukla çalıştıkları işletmeden ücret alır.",
+  "egitim_sonrasi": [
+   "Kamu sektöründe çalışanlar ilgili mevzuata (657 sayılı Kanun veya toplu iş sözleşmesi hükümlerine) göre ücret alır.",
+   "Özel sektörde yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar; deneyim, işletmenin büyüklüğü ve konumu ile kişinin becerisine göre kazanç artabilir.",
+   "Kendi işyerini açanların kazancı işletmenin büyüklüğüne, müşteri potansiyeline ve ürün çeşitliliğine göre değişkenlik gösterir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Bu meslekte örgün bir ilerleme basamağı (kalfalık/ustalık sınavı gibi) tanımlı değildir; kişi deneyim kazandıkça daha çeşitli tatlı ve pasta ürünleri yapabilecek beceri düzeyine ulaşabilir, ilgili gıda/pastacılık alanındaki mesleki eğitim ve kurslarla bilgisini geliştirebilir.",
+  "is_hayatinda": "Deneyim kazandıkça usta, şef yardımcısı veya tatlı/pasta bölüm sorumlusu konumuna yükselebilir; yeterli sermaye ve deneyime sahip olanlar kendi işyerini açabilir."
+ },
+ "benzer_meslekler": [
+  "Tatlı Ustası",
+  "Sütlü Tatlı Ustası",
+  "Tatlı Ustası (Künefe)",
+  "Tatlı Ustası (Baklava)",
+  "Lokum Ustası",
+  "Helva Ustası",
+  "Pastacı"
+ ],
+ "ek_bilgiler": "Höşmerim, özellikle Marmara ve Trakya bölgesinde yaygın olan geleneksel bir süt/peynir tatlısıdır; meslek genellikle büyük şehirlerdeki pastane ve tatlıcılarda icra edilir. Resmi/örgün bir mesleki eğitim dalı olarak tanımlanmamış olup bilgi ve beceri büyük ölçüde usta-çırak ilişkisi ile aktarılmaktadır.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T07:13:23",
+  "usage": {
+   "input_tokens": 4,
+   "output_tokens": 7956
+  }
+ }
+}

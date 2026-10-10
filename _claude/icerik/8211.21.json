@@ -1,0 +1,79 @@
+{
+ "arac_gerec": [
+  "Kaldırma ve yükseltme ekipmanları (vinç, personel yükseltici platform, asansör)",
+  "Yüksekte çalışma donanımı (emniyet kemeri, düşme önleyici sistemler, can halatları)",
+  "Kişisel koruyucu donanım (baret, iş elbisesi, emniyet ayakkabısı, eldiven, kulaklık)",
+  "El aletleri (anahtar takımları, tork anahtarları, tornavida, pense)",
+  "Hidrolik ve pnömatik sıkma/torklama aletleri",
+  "Kaldırma aksesuarları (halat, sapan, kanca, zincir)",
+  "Elektriksel ölçüm aletleri (multimetre, megger, ampermetre)",
+  "Haberleşme cihazları (telsiz, saha iletişim sistemleri)",
+  "Montaj şemaları ve teknik dokümantasyon",
+  "İskele ve geçici çalışma platformları",
+  "Kablolama ve elektriksel bağlantı malzemeleri",
+  "Temel bakım-onarım el takımları"
+ ],
+ "genel_ozellikler": [
+  "Yüksekte çalışmaktan çekinmeyen",
+  "Fiziksel olarak sağlıklı ve dayanıklı",
+  "El ve beden becerisine sahip",
+  "Dikkatli ve tedbirli",
+  "Takım çalışmasına yatkın",
+  "Teknik şema ve talimatları okuyup uygulayabilen",
+  "Sorumluluk sahibi ve disiplinli",
+  "Zorlu hava koşullarında çalışabilen"
+ ],
+ "calisma_ortami": "Rüzgâr güç sistemi personeli, çoğunlukla açık havada, şehir merkezlerinden uzak kırsal alanlarda veya kıyı bölgelerinde kurulu rüzgâr enerji santrali (RES) sahalarında çalışır. Çalışmanın önemli bir bölümü türbin kulesi ve nasel (gövde) içinde, yerden yüksekte yürütülür; bu nedenle düşme riskine karşı yüksekte çalışma ekipmanlarının eksiksiz kullanılması zorunludur. Çalışma ortamı rüzgâr, sıcak-soğuk hava, bazen yağış gibi değişken iklim koşullarına açıktır ve mesleğin icrası elektrikli sistemlerle temas riskini de içerir.\n\nGörev genellikle ekip hâlinde, mühendis ve teknisyenlerin gözetiminde yürütülür; iletişim ve koordinasyon önemlidir. Saha projelerinin konumuna bağlı olarak çalışma saatleri vardiyalı olabilir, zaman zaman şehir dışı görevlendirme ve geçici konaklama gerekebilir. Bakım-onarım çağrıları nedeniyle acil ve plansız çalışma durumları da ortaya çıkabilir.",
+ "egitim": {
+  "verildigi_yerler": "Meslek için meslek lisesi düzeyinde doğrudan ve standart bir eğitim programı bulunmamaktadır. Elektrik-Elektronik Teknolojisi, Makine Teknolojisi veya Mekatronik alanlarından mezun olanlar bu mesleğe yönelebilir. Bazı üniversitelerin meslek yüksekokullarında yer alan rüzgâr/yenilenebilir enerji teknolojileri ile ilgili önlisans programları da bu mesleğe hazırlayıcı niteliktedir. Ayrıca İŞKUR, Halk Eğitim Merkezleri ve sektördeki firmalarca açılan rüzgâr türbini montaj ve bakım kursları ile işbaşında usta-çırak ilişkisi içinde de bu meslek öğrenilebilmektedir.",
+  "giris_kosullari": [
+   "En az ilköğretim/ortaokul mezunu olmak",
+   "Yüksekte çalışmaya engel bir sağlık probleminin bulunmaması (sağlık raporu ile belgelenmesi gerekebilir)",
+   "İşverenlerce genellikle 18 yaşını doldurmuş olmak aranır (yüksekte ve sahada ağır iş koşulları nedeniyle)",
+   "Başvurulan mesleki eğitim programı veya kursun kendi kayıt şartlarını taşımak"
+  ],
+  "sure_ve_icerik": "Standart bir çıraklık eğitimi süresi tanımlı değildir. Önlisans düzeyindeki programlar genellikle 2 yıl sürer ve iş sağlığı-güvenliği, yüksekte çalışma, mekanik ve elektriksel temel bilgiler, rüzgâr türbini bileşenleri ve saha montajı gibi konuları kapsar. Kısa süreli mesleki eğitim kursları ise daha yoğunlaştırılmış içerikle teorik ve uygulamalı eğitim verir; bu eğitimlerin ardından genellikle işbaşında usta personel refakatinde uygulamalı öğrenme süreci devam eder.",
+  "belge": "Önlisans programından mezun olanlara diploma; kurs tamamlayanlara katılım/başarı belgesi verilir. Mesleki Yeterlilik Kurumu (MYK) tarafından yapılan sınavlarda başarılı olanlara Mesleki Yeterlilik Belgesi düzenlenebilir; bu belge, özellikle yüksekte ve elektrikle ilgili risk taşıyan bu meslekte istihdamda önemli bir tercih sebebi olabilir."
+ },
+ "gorevler": [
+  "İş sağlığı ve güvenliği, yangın ve acil durum kurallarını uygular.",
+  "Kalite yönetim sistemi ile ilgili faaliyetleri yürütür.",
+  "İş organizasyonu yapar.",
+  "Mekanik ve elektriksel alt sistem bileşenlerinin saha montajının yapılmasına katkıda bulunur.",
+  "Saha hazırlık çalışmalarını yapar.",
+  "Sistem kurulumuna katkıda bulunur.",
+  "Bağlantı ve sistem kontrollerine katkıda bulunur.",
+  "Bakım onarım çalışmalarına katkıda bulunur.",
+  "Olası bir müdahaleden önce sistemin durumunun ölçülmesi çalışmalarına katkıda bulunur.",
+  "Mesleki gelişim faaliyetlerine katılır."
+ ],
+ "calisma_alanlari": "Rüzgâr güç sistemi personeli; rüzgâr enerji santrali (RES) kuran ve işleten enerji şirketlerinde, türbin üreticisi firmalarda, saha montaj ve taşeron firmalarında, işletme-bakım hizmeti veren şirketlerde istihdam edilir. Türkiye'de rüzgâr enerjisi yatırımlarının yoğunlaştığı Ege, Marmara ve Akdeniz kıyı bölgeleri ile bazı iç bölgelerdeki RES sahalarında iş imkânı bulunmaktadır. Sektördeki yeni yatırım ve bakım ihtiyaçları mesleğe olan talebi etkilemektedir.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğe özgü, yasayla düzenlenmiş standart bir çıraklık/stajyerlik ücreti bulunmamaktadır. Önlisans eğitimi sırasında düzenli bir kazanç söz konusu değildir; İŞKUR veya benzeri kurumlarca açılan kurslara katılım hâlinde kursiyere yönelik destekler uygulanabilir.",
+  "egitim_sonrasi": [
+   "Özel sektörde çalışan yeni başlayanlar için kazanç genellikle asgari ücret düzeyinde başlar.",
+   "Deneyim, yüksekte çalışma sertifikaları, ek teknik yeterlilikler ve yabancı dil bilgisi arttıkça kazanç yükselebilir.",
+   "Ücret, çalışılan işletmenin büyüklüğüne, projenin niteliğine ve kişinin performansına göre karşılıklı anlaşma ile belirlenir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Önlisans programından mezun olanlar, Dikey Geçiş Sınavı (DGS) ile ilgili lisans programlarına geçiş yapabilir. Kurs veya işbaşı eğitimle mesleğe başlayanlar, ileri düzey teknik kurslara ve MYK yeterlilik sınavlarına katılarak bilgi ve becerilerini belgeleyebilir ve geliştirebilir.",
+  "is_hayatinda": "Deneyim kazandıkça ekip lideri/formen, saha bakım-onarım teknisyeni veya uzmanı, saha şefi ya da proje sorumlusu gibi pozisyonlara yükselebilirler."
+ },
+ "benzer_meslekler": [
+  "Makine Montaj İşçisi",
+  "Makine Montajcısı",
+  "Diğer Makine Alıştırıcı-Montörleri",
+  "Metal Mamuller Alıştırıcı Montörü (Genel)",
+  "Gemi Makine Montajcısı"
+ ],
+ "ek_bilgiler": "Rüzgâr enerjisi, Türkiye'de büyüyen bir sektör olup bu alandaki yatırımların artması bu meslek elemanlarına yönelik talebi etkileyebilir. İşin yüksekte ve elektrikli sistemlerle iç içe yürütülmesi nedeniyle iş sağlığı ve güvenliği eğitimleri ile kişisel koruyucu donanımların doğru kullanımı büyük önem taşır.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T17:41:41",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 7849
+  }
+ }
+}

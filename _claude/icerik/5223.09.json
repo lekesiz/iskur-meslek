@@ -1,0 +1,86 @@
+{
+ "arac_gerec": [
+  "Bilgisayar ve bilgisayar donanım bileşenleri (anakart, işlemci, bellek, ekran kartı vb.)",
+  "Çevre birimleri (klavye, fare, monitör, yazıcı, tarayıcı)",
+  "Bilgisayar sarf malzemeleri (toner, kartuş, kablo, taşıyıcı bellek, disk)",
+  "Fiyat etiketleri ve etiketleme cihazı",
+  "Barkod okuyucu",
+  "Yazar kasa / POS cihazı",
+  "Satış fişi, fatura ve garanti belgesi formları",
+  "Stok takip ve satış programının çalıştığı bilgisayar",
+  "Raf, vitrin ve sergileme ekipmanları",
+  "Ambalaj malzemeleri",
+  "Telefon ve iletişim araçları"
+ ],
+ "genel_ozellikler": [
+  "İnsan ilişkilerinde başarılı, güler yüzlü ve girişken,",
+  "İkna yeteneğine sahip,",
+  "Bilgisayar teknolojilerine ve donanımına ilgili ve meraklı,",
+  "Düzgün ve anlaşılır bir ifade biçimine sahip,",
+  "Sabırlı ve dikkatli,",
+  "Teknolojik gelişmeleri takip etmeye istekli,",
+  "Sorumluluk sahibi ve güvenilir,",
+  "Takım çalışmasına uyumlu"
+ ],
+ "calisma_ortami": "Bilgisayar satış elemanı, bilgisayar ve sarf malzemesi satışı yapılan mağaza, market veya alışveriş merkezindeki teknoloji reyonları gibi kapalı mekânlarda çalışır. Çalışma ortamı genellikle temiz ve düzenlidir; iş, günün büyük bölümünde ayakta durmayı ve müşteriyle doğrudan iletişim kurmayı gerektirir. Çalışma saatleri işyerinin açılış-kapanış saatlerine bağlı olarak değişebilir, özel gün, kampanya dönemleri ve hafta sonları çalışma yoğunluğu artabilir.\n\nMeslek üyesi; müşteriler, mağaza/reyon sorumluları, diğer satış elemanları, tedarikçi/firma temsilcileri ve varsa güvenlik görevlileriyle sürekli etkileşim içindedir. İş sırasında elektronik cihazlarla ve kablolarla temas söz konusu olabileceğinden dikkatli ve düzenli çalışmak önemlidir.",
+ "egitim": {
+  "verildigi_yerler": "Bu meslek için Milli Eğitim Bakanlığına bağlı mesleki eğitim kurumlarında ayrı bir alan/dal olarak resmî bir eğitim programı bulunmamaktadır. Meslek genellikle işbaşında usta/deneyimli satış elemanı yanında yetişme yoluyla, mesleki ve teknik ortaöğretim kurumlarının Pazarlama ve Perakende alanı gibi ilgili alanlarından mezun olunarak ya da Halk Eğitim Merkezleri ve İŞKUR tarafından açılan satış elemanlığı veya bilgi teknolojileri kurslarıyla kazanılmaktadır.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "Bünyesi ve sağlık durumu mesleğin gerektirdiği işleri (uzun süre ayakta durma, müşteriyle iletişim vb.) yapmaya uygun olmak",
+   "Mesleki ve teknik eğitim kurumlarına veya kurslara kayıt için ilgili mevzuatta belirtilen yaş ve öğrenim şartlarını taşımak"
+  ],
+  "sure_ve_icerik": "Mesleğe özgü, standart süre ve içeriği önceden belirlenmiş resmî bir çıraklık veya örgün eğitim programı bulunmamaktadır. İlgili mesleki ve teknik eğitim programlarına devam edenler satış teknikleri, müşteri ilişkileri, temel bilgisayar donanım ve yazılım bilgisi, stok ve kasa işlemleri gibi konularda teorik ve uygulamalı eğitim alır. Kurslarla yetişenlerde eğitim süresi kursun içeriğine göre değişir; işbaşında yetişenlerde ise bilgi ve beceri, çalışılan işyerinde deneyimle kazanılır.",
+  "belge": "Mesleki ve teknik eğitim kurumundan alınan diploma, katılınan kurs sonunda verilen katılım/başarı belgesi ya da varsa Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Bu meslek mensupları; bilgisayar ve bilgisayar sarf malzemesi satışı yapan özel mağazalarda, teknoloji marketleri ve zincir mağazalarında, büyük alışveriş merkezlerindeki bilgisayar/teknoloji reyonlarında, elektronik eşya satan perakende zincirlerinin ilgili bölümlerinde çalışabilir. Yeterli sermaye ve deneyime sahip olanlar kendi adına bilgisayar satış mağazası açabilir.",
+ "kazanc": {
+  "egitim_suresince": "Mesleki eğitim kapsamında işletmede uygulamalı eğitim gören öğrencilere, 3308 sayılı Mesleki Eğitim Kanunu çerçevesinde asgari ücretin net tutarının belirli bir oranından az olmamak üzere ücret ödenir ve iş kazası ile meslek hastalığına karşı sigorta primleri karşılanır. Kurslarla yetişenlerde ise genellikle ayrıca bir ücret ödenmez.",
+  "egitim_sonrasi": [
+   "İşe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Deneyim, satış performansı, mesleki bilgi birikimi ve çalışılan işletmenin büyüklüğüne göre ücret artabilir; prim veya satış komisyonu uygulamaları olabilir.",
+   "Kendi işyerini açanların kazancı işin hacmine ve yaptığı satışa göre değişir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Bu meslekte kademeli, resmî bir çıraklık-kalfalık-ustalık sistemi bulunmamaktadır. İlgili mesleki ve teknik eğitim programlarından diploma alanlar ile kurs ve işbaşı eğitimiyle yetişenler, mesleki bilgi ve becerilerini deneyim yoluyla ve ek kurslarla geliştirerek ilerleyebilir.",
+  "is_hayatinda": "Deneyim kazanan bilgisayar satış elemanları reyon/bölüm sorumlusu, kıdemli satış danışmanı, mağaza müdür yardımcısı veya mağaza müdürü gibi görevlere yükselebilir. Yeterli sermaye, bilgi ve deneyime sahip olanlar kendi bilgisayar satış işyerini açabilir."
+ },
+ "benzer_meslekler": [
+  "Cep Telefonu ve Aksesuarları Satış Elemanı",
+  "Elektrik ve Elektronik Malzemeleri Satış Elemanı",
+  "Modül-Kart Satış Elemanı",
+  "Fotokopi Makinesi Satış Elemanı",
+  "Kamera e Fotoğraf Makineleri Satış Elemanı",
+  "Güvenlik Sistemleri Satış Elemanı"
+ ],
+ "ek_bilgiler": "Bilgisayar teknolojisi hızla değiştiğinden, bu meslekte çalışanların ürün bilgisini sürekli güncellemesi ve yeni çıkan donanım/yazılımları takip etmesi önemlidir. Teknoloji perakende sektöründeki büyüme, bu meslekte istihdam olanaklarını olumlu yönde etkileyebilmektedir.",
+ "gorevler": [
+  "Satış için getirilen bilgisayar ve sarf malzemelerini teslim alır, giriş kayıtlarını tutar, cins ve çeşitlerine göre ayırıp fiyat etiketlerini yapıştırır.",
+  "Fiyat değişikliklerini etiketlere yansıtır.",
+  "Satılacak malları sınıflandırır.",
+  "Ürünleri raflara yerleştirir, vitrin düzenlemesini yapar.",
+  "Müşterileri güler yüzle karşılayıp istediği ürünleri tanıtır, ihtiyaçlarına ve isteklerine uygun ürünleri, alternatif ürünleri tavsiye eder.",
+  "Müşterilerin memnuniyet ve şikayetlerini alır, gerekli gördüklerini yetkililere iletir.",
+  "Fiyatlar, taksit seçenekleri, vade farkları hakkında bilgi verir.",
+  "Satışını yaptığı ürünlerin çalışmasını kontrol eder.",
+  "Satılan malın satış fişini düzenler, gerekliyse ürünü ambalajlar, garanti belgelerini doldurur, garanti şartları hakkında bilgi verir.",
+  "Sorumlu olduğu ürünlerin güvenliğine dikkat eder, varsa güvenlik görevlileri ile koordineli çalışır.",
+  "Satışı yapılan ürünlerin stok kontrolünü yapar, azalan ürünlerin temini için sipariş verir ya da sipariş verilmesi için ilgililere bilgi verir.",
+  "Bilgisayar ve sarf malzemeleri ile ilgili yazılı ve görsel yayınları takip eder, yeni çıkan ürünler hakkında bilgi edinir.",
+  "İade veya değişim talebiyle gelen müşterilerle ilgilenir, gerekli iade ve değişimleri yapar.",
+  "Satışı yapılan ve yapılacak ürünler hakkında bilgilendirme toplantılarına katılır.",
+  "Hatalı ürünleri ayırır, hatalı olduğu için iadesi gelen ürünleri ilgili firmaya gönderir.",
+  "Sorumlu olduğu bölümün temizlik ve düzenini sağlar.",
+  "Meslek alanı ile ilgili gelişmeleri takip eder ve uygular.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T18:40:06",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6561
+  }
+ }
+}

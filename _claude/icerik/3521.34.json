@@ -1,0 +1,75 @@
+{
+ "arac_gerec": [
+  "Dijital aktarma istasyonu ve kayıt cihazları",
+  "Renk kalibrasyonlu profesyonel monitörler",
+  "Dalga biçimi (waveform) ve renk ölçüm cihazları (scope)",
+  "Harici depolama üniteleri ve disk array / RAID sistemleri",
+  "Hafıza kartı okuyucular ve kamera medya kartları",
+  "SDI, HDMI gibi görüntü/veri aktarım kabloları",
+  "Dijital aktarım ve renk düzenleme yazılımları çalışan bilgisayarlar",
+  "Yedekleme ve arşivleme sistemleri (LTO bant ünitesi vb.)",
+  "Kesintisiz güç kaynağı (UPS)",
+  "Referans renk ve gri kartları",
+  "Taşıma çantaları ve ekipman kutuları (case)",
+  "Jeneratör ve elektrik bağlantı ekipmanları"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve sabırlı,",
+  "Renkleri ve görsel detayları ayırt edebilen,",
+  "Bilgisayar ve dijital görüntü teknolojilerine ilgili,",
+  "El ve göz koordinasyonu gelişmiş,",
+  "Sorumluluk sahibi ve güvenilir,",
+  "Ekip çalışmasına uyumlu,",
+  "Düzensiz ve yoğun çalışma saatlerine uyum sağlayabilen,",
+  "Teknik sorunlara karşı hızlı çözüm üretebilen"
+ ],
+ "calisma_ortami": "Dijital Görüntüleme Operatörleri (Film), çekim süresince film setlerinde (açık veya kapalı mekânda) ve çekim aralarında ya da sonrasında kurulan dijital aktarım istasyonlarında (DIT kabini/odası) çalışır. Set ortamı kalabalık, hareketli ve zaman baskısı yüksek bir ortam olabilirken; dijital aktarım aşamasında genellikle daha sakin, kontrollü ışıklı ve ekran karşısında uzun süre oturarak çalışılan bir ortam söz konusudur.\n\nMeslek elemanı, yönetmen, görüntü yönetmeni, kameraman, kurgu ve post prodüksiyon ekibiyle sürekli iletişim ve eşgüdüm içinde çalışır. Çekim takvimine bağlı olarak çalışma saatleri düzensiz olabilir; uzun saatler, gece çekimleri ve seyahat gerektiren prodüksiyonlarda farklı şehirlerde/lokasyonlarda çalışma söz konusu olabilir. Hassas ve değerli görüntü verilerinin kaybolmaması için dikkatli ve titiz çalışmak büyük önem taşır.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimine temel oluşturacak bilgi ve beceriler, meslek yüksekokullarının radyo-televizyon teknolojisi, sinema ve televizyon, film yapım teknikerliği gibi ilgili ön lisans programlarında verilmektedir. Mesleki ve teknik liselerin radyo-televizyon alanı da bu mesleğe temel bilgi sağlar. Bunun yanında, sektörde çalışanların önemli bir kısmı film prodüksiyon şirketlerinde işbaşında usta yanında eğitim yoluyla veya Halk Eğitim Merkezleri ile İŞKUR'un açtığı mesleki kurslar aracılığıyla yetişmektedir.",
+  "giris_kosullari": [
+   "İlgili meslek yüksekokulu ön lisans programlarına girebilmek için lise veya dengi okul mezunu olmak ve YKS (Yükseköğretim Kurumları Sınavı) sonucunda ilgili programın şartlarını karşılayan puan almak gerekir.",
+   "Mesleki ve teknik liselerin ilgili alanına kayıt için ortaokul mezunu olmak yeterlidir.",
+   "Kurslara katılım için genellikle en az ortaöğretim mezunu olmak ve temel bilgisayar kullanım bilgisine sahip olmak beklenir."
+  ],
+  "sure_ve_icerik": "Ön lisans programlarının eğitim süresi 2 yıldır. Eğitim süresince görüntü ve ses teknolojileri, dijital kayıt ve aktarım sistemleri, renk yönetimi ve kalibrasyon, kamera ve kayıt formatları, video düzenleme yazılımları, veri depolama ve arşivleme teknikleri gibi mesleki dersler ile birlikte temel iletişim ve sanat dersleri okutulur; staj uygulaması genellikle bulunur. Meslek liselerinde radyo-televizyon alanına yönelik temel teknik dersler verilir. Kurslarda ise ağırlıklı olarak dijital aktarım cihazlarının kullanımı, temel renk düzeltme ve dosya/veri yönetimi uygulamalı olarak öğretilir.",
+  "belge": "Meslek yüksekokulu programlarını başarıyla tamamlayanlara ön lisans diploması, meslek liselerinin ilgili alanından mezun olanlara lise diploması, kursları tamamlayanlara ise kurs bitirme veya katılım belgesi verilir."
+ },
+ "gorevler": [
+  "İş sağlığı ve güvenliği, yangın ve acil durum kurallarını uygular.",
+  "Çevre koruma mevzuatına uygun çalışır.",
+  "Kalite yönetim sistemi dokümanlarına uygun çalışır.",
+  "İş organizasyonu yapar.",
+  "Kayıtların dijital aktarımı, teknik ve görsel kontrolü için hazırlık yapar.",
+  "Çekim sürecinde kaydedilecek görüntünün dijital aktarım, teknik ve görsel kontrol aşamasını yürütür.",
+  "Mesleki gelişim çalışmalarında bulunur."
+ ],
+ "calisma_alanlari": "Dijital Görüntüleme Operatörleri (Film); sinema filmi, dizi, belgesel, reklam filmi ve müzik klibi prodüksiyonu gerçekleştiren yapım şirketlerinde, post prodüksiyon ve dijital laboratuvar (digital intermediate) hizmeti veren stüdyolarda, görüntü ve kayıt ekipmanı kiralama firmalarında, kamu ve özel televizyon kuruluşlarının prodüksiyon birimlerinde çalışabilirler. Sinema, dizi ve reklam sektöründeki üretim hacminin artması ve dijital çekim teknolojilerinin yaygınlaşmasıyla bu meslek dalına olan ihtiyaç büyümektedir; ancak istihdam büyük ölçüde proje bazlı olup yapım şirketlerinin iş hacmine ve sektörün genel hareketliliğine bağlı olarak değişkenlik gösterir.",
+ "kazanc": {
+  "egitim_suresince": "Meslek yüksekokulu öğrencileri, Kredi ve Yurtlar Genel Müdürlüğü'nün sağladığı öğrenim kredisi ve yurt hizmetlerinden, ayrıca çeşitli kurum ve kuruluşların burslarından yararlanabilir. Kurslara katılanlar için düzenli bir ücret söz konusu değildir; bazı prodüksiyon şirketlerinde staj veya işbaşı eğitim döneminde sınırlı bir ödeme yapılabilmektedir.",
+  "egitim_sonrasi": [
+   "Meslekte yeni başlayanlar genellikle asgari ücret düzeyinde bir ücretle çalışmaya başlar.",
+   "Kamu kurumlarında (örneğin kamu yayın kuruluşları) istihdam edilenler, 657 sayılı Devlet Memurları Kanunu veya tabi oldukları personel mevzuatına göre ücret alır.",
+   "Özel sektörde kazanç; çalışılan prodüksiyon şirketinin büyüklüğü, projenin bütçesi, kişinin deneyimi ve uzmanlık düzeyine göre değişkenlik gösterir; deneyimli operatörler proje bazlı olarak daha yüksek ücretler elde edebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Meslek yüksekokulu ön lisans programını başarıyla tamamlayanlar, Dikey Geçiş Sınavı (DGS) ile radyo-televizyon, sinema-televizyon veya iletişim gibi ilgili lisans programlarına kontenjan dâhilinde geçiş yapabilirler. Ayrıca sektördeki teknolojik gelişmeleri takip etmek amacıyla ekipman üreticileri veya sektör kuruluşlarınca düzenlenen sertifikalı eğitimlere katılabilirler.",
+  "is_hayatinda": "Deneyim kazanan operatörler, görüntü/renk yönetmenliği (colorist), post prodüksiyon süpervizörlüğü veya dijital laboratuvar sorumluluğu gibi daha üst pozisyonlara yükselebilir. Belirli kamera ve aktarım sistemlerinde uzmanlaşarak büyük ölçekli yapımlarda tercih edilen bir operatör konumuna gelebilirler."
+ },
+ "benzer_meslekler": [
+  "Kameraman",
+  "Kameraman Yardımcısı",
+  "Film Yapım Teknikeri",
+  "Montajcı (Kurgucu)",
+  "Kamera Birinci Asistanı"
+ ],
+ "ek_bilgiler": "Dijital çekim teknolojilerinin sinema, dizi ve reklam sektöründe yaygınlaşması bu meslek dalına olan ihtiyacı artırmaktadır. Meslek, büyük hacimli görüntü verilerinin kayıpsız ve güvenli şekilde aktarılıp yedeklenmesini gerektirdiğinden yüksek dikkat ve sorumluluk ister. Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda tercih sebebi olabilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T15:20:02",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 7356
+  }
+ }
+}

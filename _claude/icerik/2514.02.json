@@ -1,0 +1,78 @@
+{
+ "arac_gerec": [
+  "Bilgisayar (sunucu ve iş istasyonu)",
+  "İşletim sistemleri (Windows Server, Linux/Unix vb.)",
+  "Sistem yazılımları ve sistem programlama araçları",
+  "Ağ ve sunucu izleme/yönetim yazılımları",
+  "Veritabanı yönetim sistemleri",
+  "Versiyon kontrol sistemleri",
+  "Hata ayıklama (debug) ve test araçları",
+  "Yedekleme ve sanallaştırma yazılımları",
+  "Programlama dilleri ve derleyiciler",
+  "Güvenlik duvarı ve sistem güvenliği yazılımları",
+  "Teknik dokümantasyon hazırlama araçları"
+ ],
+ "benzer_meslekler": [
+  "Sistem Analisti (BT)",
+  "Sistem Çözümleyici",
+  "Sistem Mimarı/Tasarımcısı",
+  "Bilgisayar Programcısı",
+  "Uygulama Programcısı",
+  "BT Çözümleri Uzmanı"
+ ],
+ "calisma_alanlari": "Sistem programcıları, kurumların bilgi işlem/bilgi teknolojileri birimlerinde istihdam edilir. Kamu kurum ve kuruluşlarının bilgi işlem daireleri, bankalar ve finans kuruluşları, telekomünikasyon şirketleri, veri merkezleri, yazılım ve bilişim firmaları, üniversiteler ile büyük ölçekli özel sektör işletmelerinin bilgi teknolojileri departmanları başlıca çalışma alanlarıdır. Bilgi teknolojilerinin her sektörde yaygınlaşması ve kurumların sistem altyapılarına bağımlılığının artması, bu meslekte çalışanların iş bulma olanaklarını genişletmektedir.",
+ "calisma_ortami": "Sistem programcıları genellikle kapalı ortamda, büro veya bilgi işlem/sistem odası niteliğindeki mekânlarda, bilgisayar başında oturarak çalışır. Çalışma ortamı büyük ölçüde sessiz ve düzenlidir; ancak sistem arızaları, bakım çalışmaları veya kritik güncellemeler nedeniyle zaman zaman yoğun ve stresli dönemler yaşanabilir, bazı durumlarda mesai saatleri dışında veya hafta sonu müdahale gerekebilir.\n\nGörevini yerine getirirken sistem analistleri, yazılım geliştiriciler, ağ yöneticileri, donanım uzmanları ve diğer bilgi işlem personeliyle sürekli etkileşim halindedir. İş, büyük ölçüde ekran başında, verilerle ve teknik dokümanlarla uğraşmayı gerektirir; uzun süre bilgisayar başında kalma nedeniyle göz ve bel sağlığı açısından dikkat gerektirir.",
+ "egitim": {
+  "belge": "Lisans diploması (Bilgisayar Mühendisliği, Yazılım Mühendisliği, Bilgisayar Bilimleri veya ilgili bilgisayar/bilişim programları).",
+  "giris_kosullari": [
+   "Lise veya dengi okul mezunu olmak",
+   "YKS (Yükseköğretim Kurumları Sınavı) kılavuzunda belirtilen giriş koşullarını taşımak ve yeterli puanla ilgili lisans programına yerleşmek"
+  ],
+  "sure_ve_icerik": "Eğitim süresi 4 yıldır. Eğitim süresince programlama dilleri, veri yapıları ve algoritmalar, işletim sistemleri, bilgisayar mimarisi, bilgisayar ağları, veritabanı yönetim sistemleri, sistem analizi ve tasarımı, yazılım mühendisliği gibi mesleki dersler ile genel kültür dersleri alınmaktadır. Bazı programlarda staj yapma zorunluluğu bulunmaktadır. Mezuniyet sonrasında, işveren kuruluşların kullandığı özel sistem yazılımları ve araçlarına yönelik bilgi ve beceriler çoğunlukla işbaşında, mesleki sertifika programları veya üretici firma eğitimleriyle kazanılır.",
+  "verildigi_yerler": "Mesleğin eğitimi, üniversitelerin Bilgisayar Mühendisliği, Yazılım Mühendisliği, Bilgisayar Bilimleri ve benzeri bilişim alanındaki lisans programlarında verilmektedir."
+ },
+ "ek_bilgiler": "Bilgi teknolojilerindeki hızlı değişim nedeniyle sistem programcılarının mesleki bilgilerini sürekli güncellemesi ve yeni sistem yazılımları, işletim sistemi sürümleri ile güvenlik uygulamalarını takip etmesi önemlidir. Mesleki Yeterlilik Kurumu (MYK) belgesi veya üretici firmaların verdiği sertifikalar, istihdamda tercih sebebi olabilir.",
+ "genel_ozellikler": [
+  "Sistemli ve analitik düşünme gücüne sahip,",
+  "Matematik ve mantık yönü kuvvetli,",
+  "Yeni teknolojileri takip edebilen, kendini sürekli yenileyen,",
+  "Sabırlı ve dikkatli,",
+  "Sorumluluk sahibi ve güvenilir,",
+  "Takım çalışmasına uyumlu,",
+  "Problem çözme ve analiz yeteneği gelişmiş,",
+  "Sözlü ve yazılı anlatım becerisine sahip"
+ ],
+ "gorevler": [
+  "Standartlar ve yöntemler açısından etkilerini değerlendirmek üzere kurulu yazılımı, önerilen değişiklikleri ve yeni yazılımı inceler",
+  "İşletim ve geliştirme çalışmalarını olumlu etkileyecek yeni yazılım ya da değişiklikleri seçer",
+  "Örnek takımı kullanarak yeni ya da değiştirilmiş yazılımı dener ve sonuçlarını inceler",
+  "Yeni ya da değiştirilmiş yazılımın etkilerini saptayabilecek bir örnek sistem deneme takımı bulundurur",
+  "Sistem yazılımında yapılan değişikliklerin etkilerini ve bunun sonucunda ortaya çıkan gereksinimleri belirleyen yönergeler hazırlayarak ilgililere bilgi verir",
+  "Kuruluşun ihtiyacı için özel yazılımı tasarlar, hazırlar ve dener",
+  "Sistem yazılımının standart kullanımı ve işletimi için belgeler hazırlar",
+  "İşletim ve deneme sırasında ortaya çıkan sorunları inceleyerek hataları belirler ve gerekli düzeltmeleri yapar",
+  "Yeni ve değiştirilmiş yazılımın kuruluşun ihtiyaçlarına uygunluğunu inceler",
+  "Sistem yazılımının kullanımıyla ilgili standartları belirler",
+  "Yapımcı firmanın sağladığı sistem yazılımı konusunda güncel bilgiye sahip olur",
+  "Mesleki gelişim faaliyetlerinde bulunur"
+ ],
+ "ilerleme": {
+  "is_hayatinda": "Mesleki bilgi, beceri ve tecrübesini artıran sistem programcıları; kıdemli sistem programcısı, sistem yöneticisi, bilgi işlem/bilgi teknolojileri birim sorumlusu veya yöneticisi gibi daha üst görevlere yükselme olanağına sahiptir.",
+  "mesleki_egitimde": "Lisans eğitimini tamamlayanlar, ilgili bilişim alanlarında yüksek lisans ve doktora programlarına devam edebilir; ayrıca sistem yazılımları, bulut bilişim, siber güvenlik gibi alanlarda uzmanlık sertifikası ve ileri düzey eğitim programlarına katılabilirler."
+ },
+ "kazanc": {
+  "egitim_suresince": "Öğrenciler eğitimleri süresince Kredi ve Yurtlar Genel Müdürlüğünün sağladığı öğrenim kredisi ve yurt hizmetlerinden yararlanabilir; ayrıca çeşitli resmi ve özel kurum/kuruluşların sağladığı burslardan faydalanabilirler.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında istihdam edilenler 657 sayılı Devlet Memurları Kanunu'na tabi olarak maaş alır.",
+   "Özel sektörde kazanç; çalışılan işyerinin büyüklüğü, kişinin bilgi ve tecrübesi, çalışma kapasitesi ile sektörün ücret düzeyine göre değişmekle birlikte, mesleğe yeni başlayanlarda genellikle asgari ücret düzeyinde başlayıp deneyim arttıkça yükselmektedir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T05:56:53",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5157
+  }
+ }
+}

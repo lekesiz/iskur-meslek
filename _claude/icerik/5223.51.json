@@ -1,0 +1,90 @@
+{
+ "arac_gerec": [
+  "Bilgisayar ve satış/stok takip yazılımı (CRM)",
+  "Telefon ve internet bağlantısı",
+  "Araç tanıtım katalog ve broşürleri",
+  "Test sürüşü için araçlar",
+  "Satış sözleşmesi, sipariş formu ve diğer evraklar",
+  "Fatura ve sevk irsaliyesi",
+  "Hesap makinesi",
+  "Yazar kasa / POS cihazı",
+  "Kredi başvuru ve banka evrakları",
+  "Plaka, ruhsat ve vergi işlemlerine ait belgeler",
+  "Fotokopi makinesi ve tarayıcı",
+  "Araç ekspertiz/değerlendirme raporu formları"
+ ],
+ "genel_ozellikler": [
+  "İnsanlarla iyi ilişkiler kurabilen ve girişken,",
+  "İkna yeteneği gelişmiş,",
+  "Düzgün ve anlaşılır diksiyona sahip,",
+  "Güler yüzlü ve güven verici,",
+  "Sabırlı ve stres yönetimine sahip,",
+  "Sorumluluk sahibi ve dikkatli (evrak ve finansal işlemler için),",
+  "Satış ve pazarlama tekniklerine ilgili,",
+  "Araçlar ve otomotiv sektörüne meraklı,"
+ ],
+ "calisma_ortami": "Oto satış elemanı, genellikle oto galerileri, yetkili bayi showroomları veya ikinci el araç satış merkezlerinde çalışır. Çalışma ortamı büyük ölçüde kapalı mekan (showroom) olmakla birlikte, araç teşhiri, test sürüşü ve teslim işlemleri için açık alanlarda (otopark, yol) da bulunur. İş, uzun süre ayakta kalmayı, müşteriyle yüz yüze iletişimi ve bazen yoğun telefon trafiğini gerektirir; bu nedenle meslek üyelerinde bel ve bacak rahatsızlıkları görülebilir.\n\nÇalışma saatleri genellikle mağaza/bayi çalışma saatlerine bağlıdır ve hafta sonları ile resmi tatillerde de çalışmayı gerektirebilir. Satış hedeflerine bağlı olarak zaman zaman stresli bir çalışma temposu söz konusudur. Meslek üyesi; müşteriler, galeri/bayi yöneticileri, banka ve sigorta çalışanları, plaka/ruhsat işlemlerini yürüten kurum ve firma temsilcileri ile sürekli iletişim halindedir.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin resmi olarak tanımlanmış, tek bir örgün eğitim programı bulunmamaktadır. Adaylar genellikle en az ilköğretim, çoğunlukla lise (özellikle ticaret, pazarlama veya otomotiv alanları) veya ön lisans/lisans düzeyinde pazarlama, işletme ya da otomotiv ile ilgili bölümlerden mezun olduktan sonra, çalıştıkları oto galerisi veya bayide işbaşında eğitimle mesleğe hazırlanır. Ayrıca Halk Eğitim Merkezleri ve İŞKUR tarafından açılan satış teknikleri ve müşteri ilişkileri kurslarından yararlanılabilir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak (sektörde genellikle lise ve üzeri eğitim tercih edilmektedir)",
+   "Düzgün ve anlaşılır bir diksiyona, iyi iletişim becerisine sahip olmak",
+   "B sınıfı sürücü belgesine sahip olmak (müşterilere test sürüşü yaptırabilmek amacıyla genellikle istenir)",
+   "Bünye ve sağlık durumunun mesleğin gerektirdiği işleri yapmaya uygun olması"
+  ],
+  "sure_ve_icerik": "Mesleğe özgü, önceden belirlenmiş sabit bir eğitim süresi yoktur. Adaylar işe alındıktan sonra bayi veya galeri tarafından verilen işbaşı eğitim sürecine katılır; bu süreçte araç özellikleri ve donanımları, satış teknikleri, müşteri ilişkileri, kredili satış ve finansman süreçleri, plaka/ruhsat/vergi işlemleri ile ilgili mevzuat konularında bilgi ve beceri kazandırılır. Eğitim süresi firmadan firmaya değişmekle birlikte genellikle birkaç haftadan birkaç aya kadar sürebilir.",
+  "belge": "Örgün eğitim sonunda verilen bir diploma bulunmamaktadır; işbaşı eğitimi tamamlayanlara çalıştığı firma/bayi tarafından katılım belgesi verilebilir. Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Oto satış elemanları başta yetkili oto bayileri ve galeriler olmak üzere, ikinci el araç alım satım merkezlerinde, araç kiralama şirketlerinde ve büyük otomotiv showroomlarında istihdam edilir. Çalışma alanı, otomotiv sektöründeki ekonomik koşullara ve araç satış hacmine bağlı olarak dönemsel dalgalanma gösterebilir.",
+ "kazanc": {
+  "egitim_suresince": "İşbaşı eğitim sürecinde çalışılan bayi veya galeri tarafından genellikle asgari ücret düzeyinde ücret ödenir ve sigorta işveren tarafından yapılır.",
+  "egitim_sonrasi": [
+   "İşe başlangıçta genellikle asgari ücret düzeyinde sabit bir maaş ödenir.",
+   "Deneyim ve performansa bağlı olarak sabit maaşa ek olarak satış primi/komisyon kazanılabilir.",
+   "Kıdemli ve başarılı satış elemanlarının kazancı gerçekleştirdikleri satış hacmine bağlı olarak artış gösterebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Bu meslekte çıraklık-kalfalık-ustalık gibi kademeli, resmi bir mesleki eğitim sistemi bulunmamaktadır. Deneyim kazandıkça satış teknikleri, finansman süreçleri ve mevzuat konusundaki bilgisini geliştiren satış elemanları, firma içi eğitimlerle bilgi ve becerilerini artırabilir.",
+  "is_hayatinda": "Deneyimli oto satış elemanları kıdemli satış danışmanlığı, satış ekip liderliği veya showroom/satış müdürlüğü gibi görevlere yükselebilir. Yeterli sermaye ve sektör deneyimine sahip olanlar kendi adlarına oto galerisi açabilir."
+ },
+ "benzer_meslekler": [
+  "Oto Yedek Parça Satış Elemanı",
+  "Oto Aksesuarları Satış Elemanı",
+  "Motosiklet Satış Elemanı",
+  "Oto Lastiği ve Jant Satış Elemanı"
+ ],
+ "ek_bilgiler": "Otomotiv sektöründeki ekonomik koşullar ve araç satış hacmindeki dalgalanmalar, bu meslekteki iş bulma olanaklarını ve kazancı doğrudan etkileyebilir. B sınıfı sürücü belgesine sahip olmak işe alımda önemli bir avantaj sağlar.",
+ "gorevler": [
+  "Müşterilerle ilgilenir ve satın almayı düşündükleri model hakkında bilgi verir.",
+  "Aracın standart ve opsiyonel donanım özellikleri ve fiyatlarıyla ilgili bilgi verir.",
+  "Müşterilere deneme sürüşü yaptırır, aracı yakından tanımalarını sağlar.",
+  "Satış işlemleri için gerekli evrakları hazırlar, eksik evrakların tamamlanmasını sağlar, satış dosyasını hazırlar.",
+  "Kredili satışlarda banka tarafından istenilen evrakları temin eder ve bankaya gönderir.",
+  "Plaka işlemleri için istenilen evrakları müşteriden temin ederek plaka işlemlerini başlatır veya plaka işlemlerini yapan firmaya iletir.",
+  "Aracın tahsis, vergi ve fatura hazırlıkları ile ilgili işlemleri yapar.",
+  "Satışı gerçekleşen aracın müşteriye tesliminine yönelik işlemleri yürütür.",
+  "Galeriye ziyarete gelen müşterilerin listesini oluşturur ve iletişim bilgilerini düzenler.",
+  "Müşterilere ait bilgilerin veri tabanı girişlerini yapar, müşteri bilgilerini düzenli olarak kontrol eder ve gerekli güncellemeleri yapar.",
+  "Müşterilere ve araç kiralama firmalarına randevulu ziyaretler yapar.",
+  "Müşteri kaynak araştırması yapar.",
+  "Ürün ve firma bazındaki satış bilgilerini ve günlük faaliyetleri yöneticisine rapor eder.",
+  "İkinci el araç durum ve fiyat tespiti için ön çalışmalar yapar.",
+  "Takasa gelen ya da alımı yapılacak araçlara uzman incelemesi hizmeti verir, masraf maliyetini çıkarır ve alımı için onaya sunar.",
+  "Satışın onaylanmasından sonra sipariş formu hazırlar, müşteriye imzalatır.",
+  "Kapora bedelinin havalesini takip eder, gerektiğinde bildirmiş olduğu siparişler üzerinde değişiklikler yapar.",
+  "Araçların galerideki yerleşimini organize eder, düzenler.",
+  "Rakip firma ve modellerle ilgili gelişmeleri, aktiviteleri yakından takip eder.",
+  "Bölgesindeki ticari animasyonlardaki faaliyetlere katılır.",
+  "Mesleği alanındaki gelişmeleri takip eder ve uygular.",
+  "İş sağlığı ve güvenliği ile ilgili kurallara uyar."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T19:02:42",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6969
+  }
+ }
+}

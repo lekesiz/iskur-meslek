@@ -1,0 +1,75 @@
+{
+ "arac_gerec": [
+  "Oksijen fırını (izabe/konvertör) üst platformu ve merdivenleri",
+  "Oksijen lensi (lans/boru)",
+  "Isıya dayanıklı koruyucu giysi ve önlük",
+  "Baret",
+  "Koruyucu gözlük/yüz siperliği",
+  "İş eldiveni (ısıya dayanıklı)",
+  "Kulaklık/kulak tıkacı",
+  "Solunum koruyucu maske",
+  "Telsiz/interkom haberleşme cihazı",
+  "Cüruf ve hurda temizleme aparatları (raspa, kazıyıcı)",
+  "Cüruf toplama kabı/arabası",
+  "Yangın söndürme cihazı",
+  "Güvenlik kemeri/yüksekte çalışma ekipmanı"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve tedbirli,",
+  "Sorumluluk sahibi,",
+  "Fiziksel olarak güçlü ve dayanıklı,",
+  "Yükseklik korkusu olmayan, yüksekte çalışmaya uygun,",
+  "Görme ve işitme yetisi iyi olan,",
+  "Talimatlara uyan ve ekip çalışmasına yatkın,",
+  "Yüksek sıcaklık ve zorlu ortam koşullarına dayanıklı,",
+  "Hızlı ve doğru karar verebilen"
+ ],
+ "calisma_ortami": "Lens Ölçücüsü, demir-çelik veya diğer metal izabe (ergitme/tasfiye) tesislerinde, oksijen fırınlarının bulunduğu üretim alanlarında çalışır. Görevini büyük ölçüde fırının üst platformunda, yani yükseklikte yerine getirir. Çalışma ortamı yüksek sıcaklık, gürültü, toz, duman ve sıcak metal/cüruf sıçraması gibi riskler içerir; bu nedenle kişisel koruyucu donanımın eksiksiz kullanılması gerekir.\\n\\nÜretim süreci genellikle kesintisiz işlediğinden çalışma vardiyalı (gece-gündüz, hafta sonu dahil) şekilde yürütülür. Meslek elemanı, kumanda odasındaki ilgili işçiyle sürekli iletişim halinde çalışır; ustabaşı ve tesisteki diğer çalışanlarla koordineli hareket eder. Fiziksel dayanıklılık, dikkat ve iş güvenliği kurallarına titizlikle uyma bu mesleğin icrası için büyük önem taşır.",
+ "egitim": {
+  "verildigi_yerler": "Lens Ölçücülüğü için örgün eğitim sisteminde (meslek lisesi, mesleki eğitim merkezi vb.) ayrı bir alan/dal tanımlanmamıştır. Meslek, genellikle demir-çelik veya metal izabe tesislerinde işe alınan personelin işbaşında usta/ustabaşı gözetiminde yetiştirilmesiyle öğrenilir. İş sağlığı ve güvenliği ile ilgili temel eğitimler ise işletmeler, Halk Eğitim Merkezleri veya İŞKUR işbirliğiyle açılan kurslar aracılığıyla alınabilir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "Fiziksel olarak sağlıklı olmak ve yüksekte çalışmaya engel bir durumu bulunmamak (sağlık raporu ile belgelenebilir)",
+   "Yüksek sıcaklık ve zorlu ortam koşullarında çalışmaya uygun olmak"
+  ],
+  "sure_ve_icerik": "Meslekte belirli bir resmi eğitim süresi ve müfredat bulunmamaktadır. İşe başlayan kişi, tesisin oksijen fırını sistemleri, lens takip-kontrol yöntemleri, iletişim protokolleri ve iş güvenliği kuralları konusunda işbaşında, deneyimli bir usta veya ustabaşı gözetiminde uygulamalı olarak eğitilir. Bu süreç, işletmenin büyüklüğüne ve kişinin öğrenme hızına göre değişmekle birlikte genellikle kısa sürede (birkaç hafta içinde) tamamlanır.",
+  "belge": "Meslek için resmi bir diploma veya sertifika programı bulunmamaktadır. İşletme içi eğitimi tamamlayan kişi göreve başlatılır. Çalışılan tesisin iş sağlığı ve güvenliği mevzuatı kapsamında alınması zorunlu olan temel İSG eğitim belgesi ve varsa yüksekte çalışma eğitimi sertifikası gereklidir. Mesleki Yeterlilik Kurumu (MYK) belgesi, ilgili meslek standardı bulunması halinde istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Lens Ölçücüleri, başta demir-çelik olmak üzere oksijen konvertörü/fırını kullanan metal izabe (ergitme ve tasfiye) tesislerinde istihdam edilir. Bu tesisler genellikle büyük ölçekli, entegre metal üretim fabrikalarıdır ve ülkemizde belirli sanayi bölgelerinde yoğunlaşmıştır. Meslek oldukça özelleşmiş ve dar bir alanda istihdam sağladığından iş bulma olanakları, büyük demir-çelik ve metal üretim tesislerinin bulunduğu bölgelerle sınırlıdır. İşe alımlarda genellikle tesis içi yönlendirme veya mevcut çalışanların deneyimi dikkate alınır.",
+ "kazanc": {
+  "egitim_suresince": "Meslek için resmi bir çıraklık veya örgün eğitim programı bulunmadığından, işe alınan kişi genellikle deneme/işbaşı eğitim sürecinde asgari ücret düzeyinde bir ücret alır.",
+  "egitim_sonrasi": [
+   "Kamuya bağlı kuruluşlarda çalışanlar işçi statüsünde ise yürürlükteki toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde çalışanların ücreti; işletmenin büyüklüğü, deneyim, vardiya düzeni ve çalışma koşullarının riskliliğine göre değişmekle birlikte genellikle asgari ücretin üzerinde belirlenir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Meslekte kademeli bir resmi eğitim (çıraklık-kalfalık-ustalık) sistemi bulunmamaktadır. İlerleme büyük ölçüde işletme içi deneyim ve tesis tarafından verilen hizmet içi eğitimlere bağlıdır.",
+  "is_hayatinda": "Tesiste edinilen deneyim ve teknik bilgi birikimi ile kumanda odası operatörlüğü, fırın/konvertör operatörlüğü veya vardiya/ekip sorumluluğu gibi görevlere ilerleme mümkündür."
+ },
+ "benzer_meslekler": [
+  "Çelikhane İşçisi",
+  "Elektrik Ark Fırını İzabecisi (Çelik Tasfiyesi)",
+  "Açık Ocak İzabecisi (Martin) -Çelik",
+  "Bessemer veya Thomas İzabecisi-Çelik Tavlama",
+  "İzabeci (Kupola)",
+  "Şarj İşçisi (Kupola Ocağı)"
+ ],
+ "ek_bilgiler": "Lens Ölçücülüğü, oksijen konvertörü/fırını ile çalışılan demir-çelik veya diğer metal izabe tesislerine özgü, oldukça dar kapsamlı ve niş bir meslektir. Üretim süreçlerinde otomasyon ve sensör/ölçüm sistemlerinin yaygınlaşması, bu görevin gelecekte daha az sayıda personelle veya otomatik sistemlerle yürütülmesine yol açabilir. Çalışılan ortamın yüksek sıcaklık ve yükseklik riski taşıması nedeniyle iş güvenliği kurallarına eksiksiz uyulması büyük önem taşır.",
+ "gorevler": [
+  "Oksijen fırınlarının üst platformuna çıkar.",
+  "Lensin ilgili işçi tarafından verilen yüksekliğe gelip gelmediğini tespit etmek için lens giriş ve çıkışını, üfleme durumunu ve yüksekliğini takip eder.",
+  "Takip ettiği ve tespit ettiği durumları ilgili işçiye bildirir.",
+  "Lens üzerindeki cüruf ve hurdayı temizler.",
+  "Arızaları ilgili kısma bildirir.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T11:00:35",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6973
+  }
+ }
+}

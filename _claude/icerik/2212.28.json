@@ -1,0 +1,86 @@
+{
+ "arac_gerec": [
+  "Oftalmoskop (göz dibi muayene aleti)",
+  "Yarık lamba (biyomikroskop)",
+  "Tonometre (göz içi basıncı ölçüm cihazı)",
+  "Otorefraktometre",
+  "Görme keskinliği tabloları (Snellen eşeli)",
+  "Fundus kamera",
+  "Optik koherens tomografi (OCT) cihazı",
+  "Görme alanı (perimetri) cihazı",
+  "Keratometre / kornea topografi cihazı",
+  "Lazer cihazları (fotokoagülasyon, YAG lazer vb.)",
+  "Ameliyat mikroskobu",
+  "Fakoemülsifikasyon cihazı ve göz cerrahisi set/aletleri",
+  "Gözlük ve kontak lens deneme setleri",
+  "Lokal anestezik ve tanı/tedavi amaçlı göz damlaları",
+  "Hasta kayıt ve görüntüleme yazılımları, bilgisayar"
+ ],
+ "genel_ozellikler": [
+  "Üstün görsel algıya ve el-göz koordinasyonuna sahip,",
+  "El becerisi gelişmiş, ince ve hassas işleri dikkatle yapabilen,",
+  "Kimya ve biyoloji alanlarına ilgili ve bu alanlarda başarılı,",
+  "Dikkatli, sabırlı ve soğukkanlı,",
+  "İnsanlarla iyi iletişim kurabilen, empati yeteneğine sahip,",
+  "Sorumluluk sahibi, hijyen kurallarına özen gösteren,",
+  "Meslek yaşamı boyunca bilimsel gelişmeleri takip etme konusunda istekli,",
+  "Acil ve stresli durumlarda hızlı ve doğru karar verebilen"
+ ],
+ "gorevler": [
+  "Hastanın şikayetlerini, özgeçmişini, soy geçmişini vb. alır, gerekli bilgileri hastanın dosyasına kaydeder.",
+  "Çeşitli hassas cihazlar ve testlerle göz ve görme keskinliği muayenesini yapar, hastanın görme keskinliğini tespit eder.",
+  "Uygun gördüğü tetkikleri yaptırması için tetkik istek formunu doldurup hastaya verir.",
+  "Hastanın şikayetleri, tetkik sonuçları ve muayene bulgularını değerlendirir ve tanı koyar.",
+  "Hastalığın başka bir uzmanlık alanıyla ilgisi olduğunu düşünürse hastayı ilgili bölüme sevk eder.",
+  "Hastalığın durumuna göre uygulanacak tedavi seçenekleri hakkında hastayı bilgilendirir, tedavi yöntemini belirler.",
+  "İlaç, gözlük-lens veya cerrahi müdahalelerle hastayı tedavi eder.",
+  "Cerrahi tedaviye karar vermişse tedaviye başlamadan önce gerekli kontrol ve testleri yapar/yaptırır, hastayı hazırlar/hazırlanmasını sağlar.",
+  "Cerrahi müdahale sonrası gerekli kontrol ve testleri yapar, hastanın varsa şikayetlerini alır.",
+  "Hastaya gözlük-lens ve ilaç kullanımı hakkında bilgi verir, tavsiyelerde bulunur.",
+  "Göz ile ilgili acil tıbbi durumlarda gerekli ilk müdahaleyi yapar.",
+  "Hastane içinde veya dışında gerekmesi durumunda ilk yardım müdahalesinde bulunur.",
+  "Tıbbi etik kurallara uyar.",
+  "Meslek alanı ile ilgili gelişmeleri ve yayınları takip eder, kongre, sempozyum vb. aktivitelere katılır, mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "calisma_ortami": "\"Göz hastalıkları uzmanları; devlet hastaneleri, eğitim ve araştırma hastaneleri, üniversite hastaneleri, özel hastaneler, özel göz merkezleri, poliklinikler ve kendi muayenehanelerinde görev yaparlar. Muayene ve poliklinik ortamı genellikle kapalı, temiz ve kontrollü ışık koşullarına sahiptir; cerrahi işlemler ise steril ameliyathane ortamında, ameliyat mikroskobu ve özel cihazlar eşliğinde gerçekleştirilir. Çalışırken uzun süre oturarak hassas cihazlarla ve ince ayrıntılarla ilgilenmek göz ve sırt yorgunluğuna yol açabilir.\\n\\nMeslek mensupları hastalar, hasta yakınları, hemşireler, optisyen-gözlükçüler ve diğer uzman hekimlerle sürekli iletişim halindedir. Çalışma saatleri genellikle düzenli olmakla birlikte, bağlı bulunulan kuruma göre nöbet tutulabilir; acil göz vakaları için mesai dışında da göreve çağrılabilirler.\"",
+ "egitim": {
+  "verildigi_yerler": "Üniversitelerin tıp fakültelerinde lisans eğitimi verilir. Bu eğitimi tamamlayıp pratisyen hekim unvanı alanlar, Tıpta Uzmanlık Sınavı (TUS) ile eğitim ve araştırma hastaneleri veya üniversite hastanelerinin göz hastalıkları (oftalmoloji) kliniklerinde uzmanlık eğitimi alabilirler.",
+  "giris_kosullari": [
+   "Lise veya dengi okul mezunu olmak",
+   "YKS (Yükseköğretim Kurumları Sınavı) sonucuna göre tıp fakültesi programlarına yerleşecek puan ve başarı sırasına sahip olmak",
+   "Tıp fakültesini bitirip pratisyen hekimlik unvanı aldıktan sonra Tıpta Uzmanlık Sınavı'nda (TUS) başarılı olup göz hastalıkları uzmanlık eğitimi kontenjanına yerleşmek"
+  ],
+  "sure_ve_icerik": "Tıp fakültesi eğitimi teorik ve uygulamalı olarak 6 yıl sürer. İlk yıllarda fen bilimleri ve temel tıp bilimleri (anatomi, fizyoloji, biyokimya vb.) okutulur; ilerleyen yıllarda hastalıklardan korunma ve tedavi dersleri ile hastane içinde hasta başı klinik stajlar yapılır. Son sınıfta öğrenciler eğitim hastanesinde iş başında uygulamalı eğitim görürler. Tıp fakültesini bitirip TUS'ta başarılı olanlar, göz hastalıkları alanında yaklaşık 4-5 yıl süren uzmanlık (asistanlık) eğitimine başlar. Bu dönemde göz muayenesi, tanı yöntemleri, ilaçla tedavi ve göz cerrahisi (katarakt, retina, glokom vb.) konularında teorik bilgi ve hasta başında uygulamalı deneyim kazanılır.",
+  "belge": "Tıp fakültesi eğitimini tamamlayanlara lisans diploması (tıp doktorluğu diploması) verilir. Uzmanlık eğitimini başarıyla tamamlayanlara göz hastalıkları (oftalmoloji) uzmanlık belgesi verilir."
+ },
+ "calisma_alanlari": "\"Göz hastalıkları uzmanları; Sağlık Bakanlığına bağlı devlet hastaneleri, eğitim ve araştırma hastaneleri, üniversite hastaneleri, özel hastaneler, özel göz sağlığı merkezleri ve polikliniklerde çalışabilirler. Ayrıca gerekli izin ve koşulları sağlayarak kendi muayenehanelerini açabilirler.\\n\\nNüfusun yaşlanması, ekran kullanımının artması ve göz hastalıklarına (katarakt, glokom, diyabetik retinopati vb.) yönelik farkındalığın yükselmesi nedeniyle göz hastalıkları uzmanlarına duyulan ihtiyaç sürmektedir. Göz cerrahisi teknikleri ve görüntüleme teknolojilerindeki gelişmeler, meslek mensuplarının sürekli kendini güncellemesini gerektirmektedir.\"",
+ "kazanc": {
+  "egitim_suresince": "Tıp fakültesi öğrencileri, öğrenim kredisi, yurt hizmetleri ve çeşitli resmi veya özel kurum/kuruluşların sağladığı burslardan yararlanabilirler. Uzmanlık eğitimi (asistanlık) döneminde ise araştırma görevlisi statüsünde kamu personeli maaşı ile birlikte döner sermaye ek ödemesi alırlar.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında çalışanlar 657 sayılı Devlet Memurları Kanunu'na tabi olarak unvan ve hizmet süresine göre belirlenen maaş ile döner sermaye ek ödemesi alır.",
+   "Özel hastane veya kliniklerde çalışanların kazancı, kurumla yapılan anlaşmaya, deneyime ve çalışılan işletmenin büyüklüğüne göre değişiklik gösterir.",
+   "Kendi muayenehanesini açanların kazancı, hasta sayısına, bulunduğu bölgeye ve işletme giderlerine bağlı olarak değişkenlik gösterir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Tıp fakültesini bitirenler TUS ile göz hastalıkları uzmanlık eğitimine başlayabilir. Uzmanlık sonrasında retina, kornea, glokom, şaşılık gibi alt dallarda yandal uzmanlığı veya ileri sertifika programlarıyla uzmanlaşma yoluna gidilebilir; akademik kariyer isteyenler doktora ve akademik unvan (yardımcı doçent, doçent, profesör) basamaklarında ilerleyebilir.",
+  "is_hayatinda": "Kamu kurumlarında kıdeme bağlı olarak klinik şefliği, başhekim yardımcılığı veya başhekimlik gibi idari görevlere yükselinebilir. Üniversitelerde akademik kadroda öğretim üyeliği basamaklarında ilerlenebilir. Özel sektörde deneyim kazandıkça kendi muayenehanesini veya göz merkezini açma, özel hastanelerde bölüm sorumluluğu üstlenme imkânı bulunur."
+ },
+ "benzer_meslekler": [
+  "Kulak Burun Boğaz Hastalıkları Uzmanı",
+  "Dermatoloji Uzmanı",
+  "Nöroloji Uzmanı",
+  "Genel Cerrahi Uzmanı",
+  "Plastik, Rekonstrüktif ve Estetik Cerrahi Uzmanı",
+  "Diğer Uzman Tıp Doktorları"
+ ],
+ "ek_bilgiler": "\"Göz hastalıkları uzmanlığı, hem dahili (ilaç ve tanıya dayalı) hem de cerrahi yönleri bulunan bir tıp branşıdır. Uzmanlık sonrasında katarakt, retina-vitreus, glokom, kornea, şaşılık ve çocuk göz hastalıkları gibi alanlarda ileri eğitim ve deneyimle yandal uzmanlaşmasına gidilebilir. Lazer teknolojileri, görüntüleme sistemleri ve cerrahi yöntemlerdeki hızlı gelişmeler, mesleğin uygulama biçimini sürekli olarak güncellemektedir.\"",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-07T22:28:36",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 7709
+  }
+ }
+}

@@ -1,0 +1,75 @@
+{
+ "arac_gerec": [
+  "Kavurma silindiri (kavurma makinesi)",
+  "Isıtma/yakıt sistemi (gazlı veya elektrikli ısıtıcı ünitesi)",
+  "Kontrol paneli ve sıcaklık göstergeleri",
+  "Termometre",
+  "Soğutma tablaları/üniteleri",
+  "Kakao tohumu kırma ve kabuk-kepek ayırma makinesi",
+  "Tartı ve ölçü aletleri",
+  "Taşıma bantları/konveyörler",
+  "Koruyucu eldiven",
+  "Toz maskesi",
+  "İş elbisesi",
+  "Kulak koruyucu (gürültüye karşı)"
+ ],
+ "genel_ozellikler": [
+  "Koku ve tat algısı gelişmiş,",
+  "Dikkatli ve gözlem yeteneği yüksek,",
+  "El becerisine sahip,",
+  "Sabırlı ve düzenli çalışabilen,",
+  "Sorumluluk duygusu yüksek,",
+  "Fiziksel olarak dayanıklı,",
+  "Sıcak ortamda çalışmaya uygun,",
+  "Ekip çalışmasına uyumlu"
+ ],
+ "calisma_ortami": "Kavurucu (Kakao), kakao ve çikolata üretimi yapan gıda fabrikalarında, genellikle kapalı alanlarda, kavurma silindirlerinin bulunduğu üretim bölümünde çalışır. Çalışma ortamı sıcak, kokulu ve bazen tozlu olabilir; kavurma makinelerinin ve diğer ekipmanların sebep olduğu gürültü de ortamın bir özelliğidir. İşin niteliğine göre ayakta ve hareketli çalışma gerekebilir, vardiyalı çalışma düzeni yaygındır.\n\nÇalışma sırasında üretim hattındaki diğer işçiler, usta/vardiya sorumlusu ve kalite kontrol personeli ile sürekli iletişim kurar. Sıcak yüzeylerle ve makinelerle çalışıldığından yanık, sıkışma gibi iş kazası risklerine karşı iş sağlığı ve güvenliği kurallarına, koruyucu donanım kullanımına dikkat edilmesi önemlidir.",
+ "calisma_alanlari": "Kavurucu (Kakao), kakao ve çikolata üretimi yapan gıda fabrikalarında, kakao işleme tesislerinde ve bu alanda üretim yapan büyük ölçekli gıda sanayi kuruluşlarında istihdam edilir. Türkiye'de kakao tohumu yetiştirilmediği ve işlenen kakaonun ithal edildiği için bu meslekte çalışma imkânı, kakao/çikolata işleme yapan sınırlı sayıdaki büyük işletmeyle ve bu işletmelerin kurulu olduğu sanayi bölgeleriyle sınırlıdır.",
+ "gorevler": [
+  "Silindire kakao tohumu doldurarak makineyi çalıştırır.",
+  "Isıtma mekanizmasını gereğine göre ayarlayarak kavrulma işlemini gözler.",
+  "Kavrulma sırasında tadına bakma, koklama ve elleriyle yoklama yoluyla kavrulmanın yeterliğine karar verir.",
+  "Kavrulmuş kakaoyu soğutma tablalarına boşaltır.",
+  "İçinde kakao tohumlarının kırılıp kabuk ve kepeklerinin ayrıldığı makineyi de kullanabilir.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Bu meslek için örgün bir meslek lisesi veya mesleki eğitim merkezi programı bulunmamaktadır. Meslek genellikle kakao/çikolata üretimi yapan işletmelerde işbaşında usta yanında yetiştirilerek öğrenilir. Ayrıca Halk Eğitim Merkezleri ile İŞKUR'un açtığı mesleki eğitim kursları ve gıda teknolojisi alanında eğitim veren mesleki ve teknik eğitim kurumlarındaki ilgili dersler, mesleğe temel oluşturabilir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "Gıda sektöründe çalışmaya uygun sağlık durumuna sahip olmak",
+   "Sıcak ortamda ve ayakta çalışmaya elverişli olmak",
+   "İşe alınacağı işletmenin belirlediği şartları (varsa yaş, sağlık raporu vb.) karşılamak"
+  ],
+  "sure_ve_icerik": "Mesleğe yönelik standart bir eğitim süresi bulunmamaktadır. İşbaşı eğitim süresi, çalışılan işletmeye ve kişinin önceki deneyimine göre birkaç haftadan birkaç aya kadar değişebilir. Eğitim; makinenin güvenli kullanımı, kavurma sürecinin sıcaklık ve süre yönünden kontrolü, kavrulma yeterliğinin duyusal (tat, koku, dokunma) yöntemlerle değerlendirilmesi ve iş güvenliği kurallarını kapsar.",
+  "belge": "Örgün bir diploma veya ustalık belgesi verilmemektedir. İşletme içi eğitimler sonunda katılım/tamamlama belgesi, kurs eğitimlerinde ise kurs bitirme belgesi alınabilir. Gıda üretimi ve/veya ilgili makine operatörlüğü alanlarında Mesleki Yeterlilik Kurumu (MYK) tarafından yetkilendirilmiş kuruluşlarca düzenlenen bir yeterlilik belgesi varsa, bu belge istihdamda tercih sebebi olabilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "İşbaşında eğitim gören kişiye, çalıştığı işletmenin uygulamasına göre genellikle asgari ücret veya buna yakın bir ödeme yapılır. Kurs eğitimlerinde ise genellikle ücret ödenmez; bazı İŞKUR kursiyer destekleri söz konusu olabilir.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Deneyim, bilgi, çalışma kapasitesi ve işletmenin büyüklüğüne göre ücret artabilir.",
+   "Kamu kuruluşuna bağlı bir işletmede çalışılması durumunda 657 sayılı Kanun veya işçi statüsünde toplu iş sözleşmesi hükümleri geçerli olabilir; özel sektörde ücret işveren ile karşılıklı anlaşmaya göre belirlenir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Meslekte kademeli, resmi bir eğitim sistemi bulunmamaktadır. İlerleme genellikle deneyim ve ustalık kazanma yoluyla gerçekleşir. İsteyen kişiler, gıda teknolojisi alanında mesleki ve teknik eğitim veren kurumlara veya ilgili ön lisans programlarına yönelerek bilgi ve becerilerini geliştirebilir.",
+  "is_hayatinda": "Deneyim kazandıkça usta, vardiya amiri veya üretim hattı sorumluluğuna kadar yükselebilir. Girişimci ruhuna sahip olanlar, uygun sermaye ve bilgi birikimiyle kendi küçük ölçekli kakao/çikolata işleme atölyelerini kurabilir."
+ },
+ "benzer_meslekler": [
+  "Kavurucu (Kahve)",
+  "Çikolata İmal İşçisi",
+  "Çikolata ve Çikolatalı Ürünler Üretim Operatörü",
+  "Çikolata ve Kakaolu Krema Hamuru Üretim Operatörü",
+  "Çikolata Kaplama Makinesi Operatörü"
+ ],
+ "ek_bilgiler": "Türkiye'de kakao tohumu yetiştirilmediğinden işlenen kakao tohumları ithal edilmektedir; bu nedenle meslek, kakao/çikolata işleme yapan sınırlı sayıdaki büyük gıda sanayi kuruluşuyla ve bunların bulunduğu sanayi bölgeleriyle sınırlı bir çalışma alanına sahiptir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T15:25:54",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6034
+  }
+ }
+}

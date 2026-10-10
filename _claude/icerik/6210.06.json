@@ -1,0 +1,79 @@
+{
+ "arac_gerec": [
+  "Dürbün",
+  "Pusula ve/veya GPS cihazı",
+  "Telsiz veya cep telefonu",
+  "Orman amenajman haritaları",
+  "Ağaç işaretleme (damga) baltası veya çekici",
+  "Çap ve yükseklik ölçüm aletleri",
+  "Yangınla mücadele ekipmanları (kürek, çapa, sırt pompası, orman yangın bıçkısı)",
+  "İlk yardım çantası",
+  "Koruyucu kıyafet, bot ve baret",
+  "Arazi aracı, motosiklet veya at",
+  "Kayıt defteri, tutanak ve rapor formları",
+  "İlaçlama/püskürtme ekipmanları"
+ ],
+ "genel_ozellikler": [
+  "Açık havada ve zorlu arazi koşullarında çalışmaya istekli,",
+  "Fiziksel olarak dayanıklı ve sağlıklı,",
+  "Gözlem yeteneği gelişmiş,",
+  "Sorumluluk sahibi, otoriteyi sağlayabilen,",
+  "Kararlı, disiplinli ve dikkatli,",
+  "İnsan ilişkilerinde başarılı, ekip çalışmasına uygun,",
+  "Ani ve acil durumlarda (yangın, kaza) hızlı karar verebilen"
+ ],
+ "calisma_ortami": "Orman Nezaretçisi, görevini büyük ölçüde açık havada, ormanlık ve engebeli arazide yürütür. Çalışma; yürüyerek, arazi aracıyla veya bazı bölgelerde at sırtında devriye gezme, ağaç işaretleme sahalarını dolaşma, kamp ve dinlenme alanlarını denetleme şeklinde sürer. Mevsim koşullarına (sıcak, soğuk, yağış, kar) ve arazinin zorluğuna bağlı olarak fiziksel yorgunluk, yaban hayvanlarıyla karşılaşma, yaralanma ve özellikle yaz aylarında orman yangınına müdahale gibi riskler söz konusu olabilir.\n\nÇalışma saatleri mevsime göre değişkenlik gösterir; yangın riskinin yüksek olduğu dönemlerde nöbet usulü, gerektiğinde gece de çalışma yapılabilir. Görevi sırasında orman işçileri, mühendis ve teknikerler, köy/mahalle sakinleri, avcılar, kamp yapan ziyaretçiler ve gerektiğinde jandarma veya diğer kolluk birimleriyle sürekli iletişim halindedir.",
+ "egitim": {
+  "verildigi_yerler": "Orman Nezaretçiliği için ayrı bir örgün mesleki ve teknik ortaöğretim alanı/dalı bulunmamaktadır. Meslek genellikle orman işletmelerinde deneyimli personelin yanında işbaşında öğrenilerek, kurum içi hizmet içi eğitimlerle ve Halk Eğitim Merkezleri ile İŞKUR'un açtığı ormancılık, orman koruma ve yangınla mücadele konulu mesleki eğitim kurslarıyla kazanılır.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "Bedensel ve sağlık açısından arazi şartlarında çalışmaya uygun olmak",
+   "Kamu kadrolarına girmek isteyenler için Kamu Personeli Seçme Sınavı (KPSS) ve ilgili kurumun belirlediği sınav/mülakat şartlarını sağlamak"
+  ],
+  "sure_ve_icerik": "Resmi olarak tanımlanmış standart süreli bir okul programı bulunmamaktadır. Bilgi ve beceriler; işbaşında usta-çırak ilişkisiyle, kurum içi oryantasyon eğitimleriyle ve orman koruma, yangınla mücadele, arazi/harita okuma, ilk yardım, mevzuat gibi konularda açılan kısa süreli kurs ve seminerlerle kazanılır.",
+  "belge": "Çalışılan kurum veya katılınan kurs/eğitim programı tarafından verilen katılım veya başarı belgesi; kamu kadrosunda görev yapanlar için memuriyet statüsüne ilişkin atama belgesi."
+ },
+ "calisma_alanlari": "Orman Nezaretçisi, başta Orman Genel Müdürlüğü'ne bağlı orman işletme müdürlükleri ve bölge müdürlükleri olmak üzere kamu orman teşkilatında istihdam edilir. Ayrıca orman kooperatifleri, özel orman işletmeleri, ağaçlandırma ve orman bakım işleri yürüten şirketler ile milli park ve koruma alanı işletmelerinde de çalışma olanağı bulunur. Kamu kurumlarında işe girişte KPSS ve kurumun açtığı sınavlar; özel sektörde ise iş ilanları ve referans yoluyla istihdam söz konusudur.",
+ "kazanc": {
+  "egitim_suresince": "Bu meslek için örgün ve standart süreli bir mesleki eğitim programı bulunmadığından eğitim süresince düzenli bir ücretten söz etmek mümkün değildir. İşbaşında eğitim veya kısa süreli kurslara katılım döneminde, çalışılan kuruma göre harçlık, yevmiye veya asgari ücret düzeyinde bir ödeme yapılabilir.",
+  "egitim_sonrasi": [
+   "Kamuda çalışanlar, memur statüsünde ise 657 sayılı Devlet Memurları Kanunu'na, işçi statüsünde ise yürürlükteki toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde kazanç; işletmenin büyüklüğü, bulunduğu bölge, çalışanın deneyimi ve işveren ile yapılan anlaşmaya göre değişir; işe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Deneyim kazandıkça ve kurumun açtığı ek eğitim, kurs ve sınavlara katılarak orman muhafaza memurluğu gibi görevlere yönelik bilgi ve yetkinlik geliştirilebilir; ilgili alanlarda ön lisans/lisans eğitimi tamamlanarak orman teknikerliği veya orman mühendisliğine geçiş yapılabilir.",
+  "is_hayatinda": "Kıdem, performans ve kurum içi sınavlara bağlı olarak şef, amir veya işletme şefliği/müdür yardımcılığı gibi daha üst sorumluluk gerektiren görevlere atanabilir; büyük işletme birimlerinde görev alma olanağı artar."
+ },
+ "benzer_meslekler": [
+  "Orman Yetiştirme ve Bakım İşçisi",
+  "Ağaç Tahmin ve İşaretleyicisi (Maktacı)",
+  "Orman Gözetleme ve Haberleşme İşçisi",
+  "Orman Üretim İşçisi",
+  "Ağaç Kesme ve Boylama Operatörü"
+ ],
+ "ek_bilgiler": "Bu meslek, kamu orman teşkilatı bünyesinde \"orman muhafaza memuru\" gibi benzer görev tanımına sahip unvanlarla ilişkilendirilebilir. Mesleğin icrası için yasal olarak zorunlu bir Mesleki Yeterlilik Kurumu (MYK) belgesi bulunmamaktadır; ancak orman yangınlarıyla mücadele, ilk yardım ve arazi güvenliği konularında alınan sertifikalar istihdamda tercih sebebi olabilir.",
+ "gorevler": [
+  "Ağaç yetiştirme işlerinde çalışanlara nezaret eder.",
+  "Ağaç dikimi, kırpma, budama, böceklere ve diğer zararlılara ilaç püskürtme, hastalık kontrol faaliyetlerini, sellere karşı uygulamaları ve toprağı koruma projelerini idare eder.",
+  "Kesilecek ağaçları seçip işaretler.",
+  "Kesme işlemlerini orman araştırma programına uygun şekilde inceler.",
+  "Ormandaki kamp yerlerini ve diğer eğlence yerlerini kontrol eder.",
+  "Ziyaretçilere kamp kurma, avlanma ve diğer eğlence imkanları hakkında tavsiyede bulunur.",
+  "Av yasaklarına uymayanlara engel olur, ormanda zararlı faaliyette bulunanları adli makamlara bildirir.",
+  "Ormanların bitki örtüsünün yangından korunmasıyla ilgili kuralları uygular.",
+  "Kazaları, hırsızlıkları ve ormanda çıkan yangınları araştırıp rapor eder.",
+  "Yangın söndürme, ormanda araştırma ve kurtarma çalışmalarını idare eder.",
+  "Telefon hatlarını kontrol edip kopan hatları ilgililere bildirir.",
+  "Orman yolu yapım çalışmalarına nezaret eder.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T22:00:12",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6104
+  }
+ }
+}

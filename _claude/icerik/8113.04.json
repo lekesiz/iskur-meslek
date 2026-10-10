@@ -1,0 +1,86 @@
+{
+ "arac_gerec": [
+  "Sondaj kulesi (mast) parçaları ve kule aksesuarları",
+  "Şase, tank ve sondaj pompaları",
+  "Çamur hatları, taç makara ve manevra platformu",
+  "Köşeli boru (kelly) ve köşeli boru kılavuzu",
+  "Kule kaldırma ve sondaj halatı donanımı",
+  "Kedi kafası (cathead) ve rotari masa",
+  "Fırdöndü (swivel)",
+  "Sıkma/sökme (tong) anahtarları ve slipler",
+  "Elevatör, sabit makara (dead-line anchor) ve fren sistemi",
+  "Muhafaza borusu (casing) ve kuyu başı vana/emniyet ekipmanları",
+  "El aletleri (anahtar takımları, İngiliz anahtarı, balyoz)",
+  "Telsiz/haberleşme cihazı",
+  "Kişisel koruyucu donanım (baret, güvenlik ayakkabısı, eldiven, kulaklık, yüksekte çalışma emniyet kemeri)"
+ ],
+ "genel_ozellikler": [
+  "Fiziksel olarak güçlü ve dayanıklı,",
+  "Yüksekte çalışmaktan çekinmeyen,",
+  "El ve beden koordinasyonu iyi,",
+  "Dikkatli ve tedbirli,",
+  "Ekip çalışmasına yatkın,",
+  "Sorumluluk sahibi,",
+  "İş güvenliği talimatlarına titizlikle uyan,",
+  "Zor hava ve saha koşullarına uyum sağlayabilen"
+ ],
+ "calisma_ortami": "Derikmen-Petrol, genellikle şehir merkezlerinin dışında kurulan petrol ve doğal gaz sondaj sahalarında, açık havada ve yüksekte (sondaj kulesi üzerinde) çalışır. Çalışma ortamı gürültülü, tozlu, yağlı olabilir; mevsim koşullarına göre aşırı sıcak, soğuk, rüzgârlı veya yağmurlu hava şartlarında görev yapılır. İş, fiziksel güç gerektiren, ayakta ve sürekli hareketli bir çalışma biçimine sahiptir; yüksekte çalışma, ağır ekipmanla uğraşma ve basınçlı hat/gaz riskleri nedeniyle kaza riski taşır, bu nedenle kişisel koruyucu donanım kullanımı zorunludur.\n\nÇalışma genellikle vardiyalı (gece-gündüz, 12 saatlik dönüşümler gibi) düzende sürer; saha uzak bölgelerde ise ekip, belirli dönemler sondaj kampında konaklayabilir. Derikmen, sondör, çektirmeci, kule operatörü, sondaj çamurcusu ve diğer sondaj ekibi üyeleriyle sıkı bir işbirliği içinde çalışır.",
+ "gorevler": [
+  "Kulenin montajını yapmak için şase, tank ve pompaları yerleştirir.",
+  "Çamur hatlarını, taç makarayı, manevra platformunu, kule aksesuarlarını, köşeli boruyu ve köşeli boru kılavuzunu bağlar.",
+  "Mast parçalarını birleştirir, kule kaldırma ve sondaj halatı donanımını yapar.",
+  "Kedi kafası ve rotari masasını yerleştirir.",
+  "Taç makarayı ve hareketli makarayı kontrol eder.",
+  "Fırdöndüyü (swivel) ve kedi kafasını kontrol eder.",
+  "Sıkma/sökme (tong) anahtarlarını ve slipleri kontrol eder.",
+  "Elevatörü, sabit makarayı (dead-line anchor) ve fren sistemini kontrol eder.",
+  "Kule ekipmanının günlük bakımını yapar.",
+  "Sondaj manevrası yapmak için sondaj çamuru, manevra platformu ve sapan hazırlar.",
+  "Sondaj borusunu elevatöre verir ve çamur pompasını devreye sokar.",
+  "Tanklardaki çamur seviyesini, çamur viskozitesini, çamur ağırlığını ve su kaybını ölçer.",
+  "Sondaj borularını kafese alır ve muhafaza borusunu (casing) merkezler.",
+  "Kuyu başı düzeneği hazırlamak için muhafaza borusu kafasını (housing) boruya, akış hattını (flow-line), kuyu doldurma hattını (kill-line), kuyu boşaltma hattını (choke) ve gaz hattını (flare) bağlar.",
+  "Ringi muhafaza borusu kafasına, kuyu başı geçiş düzlemini (spool), emniyet vanalarını ve kondüktörü yerleştirir.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Derikmen-Petrol mesleğinin resmî ve örgün bir okul programı bulunmamaktadır. Meslek, genellikle petrol ve doğal gaz arama/üretim şirketlerinde işbaşında, deneyimli derikmen veya sondaj ekibi sorumlusu (sondör) gözetiminde usta-çırak ilişkisi içinde öğrenilir. Ayrıca İŞKUR ve Halk Eğitim Merkezlerinin açtığı mesleki eğitim kursları ile temel düzeyde bilgi edinilebilir.",
+  "giris_kosullari": [
+   "En az ilkokul/ilköğretim mezunu olmak.",
+   "Açık havada, yüksekte ve ağır işlerde çalışabilecek sağlık durumuna sahip olmak (sağlık raporu).",
+   "Fiziksel olarak uygun ve yüksekten çalışmaya engel durumu olmamak."
+  ],
+  "sure_ve_icerik": "İşe yeni başlayan kişi, deneyimli bir derikmen veya ekip sorumlusu gözetiminde, kule montajı, kule bakımı, sondaj manevrası ve kuyu başı ekipmanı hazırlama konularında uygulamalı olarak eğitilir. Eğitim süresi işletmeden işletmeye değişmekte olup genellikle birkaç ayı kapsar. Buna ek olarak işveren tarafından temel iş sağlığı ve güvenliği, yüksekte çalışma ve yangın/gaz güvenliği gibi konularda eğitimler verilir.",
+  "belge": "Resmî bir diploma söz konusu değildir; işletme içi eğitim/katılım belgesi veya kurs bitirme belgesi, ayrıca alınan iş sağlığı ve güvenliği eğitimlerine ilişkin sertifikalar verilebilir."
+ },
+ "calisma_alanlari": "Derikmen-Petrol; petrol ve doğal gaz arama, sondaj ve üretim faaliyeti yürüten kamu veya özel sektör şirketlerinin sondaj ekiplerinde çalışır. Çalışma alanları, ülkemizde petrol ve doğal gaz potansiyeli bulunan bölgelerdeki sondaj sahalarıyla sınırlıdır; bu nedenle istihdam edilen işletme ve pozisyon sayısı diğer mesleklere kıyasla sınırlıdır. Sektördeki yatırım ve sondaj faaliyetlerinin yoğunluğu, istihdam olanaklarını doğrudan etkiler.",
+ "kazanc": {
+  "egitim_suresince": "Meslek örgün bir eğitim programıyla kazanılmadığından, işbaşında eğitim sürecinde genellikle işletmenin ücret politikasına bağlı olarak çalışan statüsünde ücret alınabilir; ancak standart bir eğitim ücretinden söz etmek mümkün değildir.",
+  "egitim_sonrasi": [
+   "Çalışanlar işçi statüsünde istihdam edilir; ücretler işletmenin büyüklüğüne, sahanın özelliklerine, çalışanın deneyimine ve iş sözleşmesine göre değişir.",
+   "Mesleğe yeni başlayanlarda kazanç genellikle asgari ücret düzeyinde olup, deneyim ve sorumluluk arttıkça yükselebilir.",
+   "Sondaj sektöründe saha koşulları ve vardiyalı çalışma nedeniyle ek ödemeler (prim, saha tazminatı vb.) söz konusu olabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğin kademeli bir örgün eğitim ya da sertifikasyon basamağı bulunmamaktadır; ilerleme büyük ölçüde sahada kazanılan deneyime bağlıdır.",
+  "is_hayatinda": "Derikmen, deneyim ve bilgi birikimi kazandıkça kule şefliği, ekip sorumluluğu gibi görevlere yükselebilir; ileri düzeyde sondör veya sondaj ustası konumuna ulaşabilir."
+ },
+ "benzer_meslekler": [
+  "Çektirmeci-Petrol ve Doğal Gaz Kuyuları",
+  "Döner Sondaj Makinesi Operatörü-Petrol ve Doğal Gaz Kuyuları",
+  "Kule Operatörü-Petrol",
+  "Sondaj Kulesi Montörü-Petrol ve Doğal Gaz Kuyuları",
+  "Petrol Sondörü",
+  "Sondaj Çamurcusu"
+ ],
+ "ek_bilgiler": "Petrol ve doğal gaz sondaj işleri, barındırdığı yüksekte çalışma, ağır ekipman ve basınçlı hat riskleri nedeniyle tehlikeli işler kapsamında değerlendirilebilmektedir; bu kapsamda Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir. Sektördeki istihdam olanakları, ülkemizdeki petrol ve doğal gaz arama-üretim yatırımlarının seyrine bağlı olarak değişkenlik gösterebilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T10:33:45",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 7277
+  }
+ }
+}

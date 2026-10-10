@@ -1,0 +1,81 @@
+{
+ "gorevler": [
+  "Termik ve hidrolik santrallerden gelen yağlama yağlarının ve hidrolik yağların fiziksel, kimyasal testlerini yapar/yapılmasını sağlar.",
+  "Termik ve hidrolik santrallerin türbin ve hidrolik yağlama yağlarının performans analizlerini yapar.",
+  "Test edilecek numunelerin takibini yapar, gerektiğinde tekrar numune ister.",
+  "Laboratuvarın doğru ve aksamadan çalışabilmesi için gerekli koşulları belirler.",
+  "İhtiyaç duyulan cihazların teminine yönelik fiyat ve marka araştırması yapar, teknik şartname hazırlar.",
+  "Analiz sonucu elde edilen değerleri uygun formatlarda raporlayarak yorumlar.",
+  "Laboratuvarda kullanılan sarf malzeme ihtiyacını belirler, temin edilmesini sağlar.",
+  "Kullanılan cihazların bakım ve temizliğini yapar, arızalarının giderilmesini sağlar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "arac_gerec": [
+  "Hassas terazi",
+  "Viskozimetre",
+  "Parlama noktası tayin cihazı",
+  "Asitlik/baz sayısı tayin cihazı",
+  "Su içeriği tayin cihazı (Karl Fischer)",
+  "Oksidasyon kararlılığı test cihazı",
+  "Spektrometre (FTIR, ICP vb.)",
+  "Gaz kromatografı",
+  "Partikül sayım cihazı",
+  "Laboratuvar cam malzemeleri (balon, tüp, pipet, beher)",
+  "Etüv ve fırınlar",
+  "Santrifüj cihazı",
+  "Numune kapları ve etiketleme malzemeleri",
+  "Kişisel koruyucu donanım (eldiven, gözlük, önlük)"
+ ],
+ "genel_ozellikler": [
+  "Sayısal düşünme gücüne sahip,",
+  "Kimya ve fizik konularına ilgili ve bu konularda başarılı,",
+  "Dikkatli ve titiz,",
+  "Sabırlı ve düzenli çalışabilen,",
+  "Sorumluluk sahibi,",
+  "Analitik düşünebilen,",
+  "Yazılı anlatım ve raporlamada başarılı,",
+  "Takım çalışmasına yatkın"
+ ],
+ "calisma_ortami": "Kimyager (Madeni Yağ), çalışmalarını büyük ölçüde kapalı mekanda, laboratuvar ortamında yürütür. Çalışma ortamı kimyasal maddelerin kokusuyla iç içedir; termik veya hidrolik santral yahut madeni yağ üretim tesisi bünyesinde görev yapar, zaman zaman numune alımı amacıyla üretim/santral sahasına çıkabilir. Çalışırken kimya mühendisleri, laborantlar, işletme ve bakım personeli ile yöneticilerle sürekli iletişim halindedir.\n\nDikkatsiz çalışıldığında kimyasal maruziyet, yanık ve solunum yoluyla etkilenme riskleri bulunur; bu nedenle kişisel koruyucu donanım kullanımı önemlidir. Çalışma saatleri genellikle gündüz mesaisi şeklindedir; ancak santralin vardiyalı çalışma düzenine bağlı olarak numune teslim ve analiz süreleri zaman zaman esnek çalışmayı gerektirebilir.",
+ "egitim": {
+  "verildigi_yerler": "Meslek eğitimi üniversitelere bağlı Fen Fakülteleri ile Fen-Edebiyat Fakültelerinin Kimya bölümlerinde, bazı durumlarda Kimya Mühendisliği gibi yakın lisans programlarında verilmektedir.",
+  "giris_kosullari": [
+   "Lise veya dengi okul mezunu olmak",
+   "YKS (Yükseköğretim Kurumları Sınavı) kılavuzunda belirtilen giriş koşullarını taşımak ve ilgili lisans programına yeterli puanla yerleşmek",
+   "Meslek Yüksekokulları ile Açık Öğretim Önlisans Programlarının ilgili bölümlerinden mezun olanlar, Dikey Geçiş Sınavı (DGS) ile Kimya lisans programına geçiş yapabilir"
+  ],
+  "sure_ve_icerik": "Eğitim süresi 4 yıldır. Eğitim süresince analitik kimya, organik kimya, inorganik kimya, fiziksel kimya, biyokimya gibi temel kimya dersleri okutulur. Madeni yağ ve petrol türevi ürünlerin analizine ilişkin uzmanlık bilgisi, lisans eğitiminin ardından işbaşında, ilgili sektör kuruluşlarının içinde ve üretici firmaların açtığı cihaz/yöntem eğitimleriyle kazanılır.",
+  "belge": "Eğitimini başarı ile tamamlayanlara lisans diploması verilir."
+ },
+ "calisma_alanlari": "Bu meslek mensupları; termik ve hidrolik santrallerin kimya/kalite kontrol laboratuvarlarında, madeni yağ üretim ve rafinaj tesislerinde, enerji üretim şirketlerinin Ar-Ge ve kalite kontrol birimlerinde istihdam edilir. Ayrıca petrokimya ve enerji sektöründeki sanayi kuruluşlarının laboratuvarlarında da çalışma olanağı bulunur.\n\nBu alan, kimya lisans mezunlarının çalışabileceği meslekler içinde oldukça uzmanlaşmış ve dar bir alt daldır; istihdam imkânı büyük ölçüde ülkedeki termik/hidrolik santral ve madeni yağ üretim tesisi sayısına bağlıdır.",
+ "kazanc": {
+  "egitim_suresince": "Eğitim süresince doğrudan bir kazanç sağlanmaz. Meslek eğitimi süresince Kredi ve Yurtlar Genel Müdürlüğü'nün öğrenim kredisi ve yurt hizmetlerinden yararlanılabilir; ayrıca çeşitli resmi ve özel kurum/kuruluşların burslarından faydalanılabilir.",
+  "egitim_sonrasi": [
+   "Kamu kurum ve kuruluşlarında memur statüsünde çalışanlar 657 sayılı Devlet Memurları Kanunu'na tabi olarak ilgili hizmet sınıfının aylık ücret, zam ve tazminatlarından yararlanır.",
+   "Kamuda işçi statüsünde istihdam edilenlerin ücreti toplu iş sözleşmesi hükümlerine göre belirlenir.",
+   "Özel sektörde ücret, çalışılan işyerinin büyüklüğü, deneyim ve iş yüküne göre değişiklik gösterir; mesleğe yeni başlayanlarda genellikle asgari ücret düzeyinde olabilir, deneyim arttıkça kazanç yükselir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "İsteyenler yüksek lisans ve doktora yaparak akademik kariyer yapabilir; üniversitelerde araştırma görevlisi, öğretim üyesi gibi unvanlara yükselebilirler.",
+  "is_hayatinda": "Deneyim kazandıkça laboratuvar sorumluluğu, kalite kontrol şefliği veya Ar-Ge/kalite birimi yöneticiliği gibi pozisyonlara yükselme olanağı bulunur. İyi derecede yabancı dil bilgisi, uluslararası standartları takip edebilme ve ilerleme açısından önemlidir."
+ },
+ "benzer_meslekler": [
+  "Diğer Kimyagerler",
+  "Kimyager-Fiziki",
+  "Kimyager",
+  "Kimyager-İnorganik",
+  "Kimyager-Organik",
+  "Kimyager-Tahlil",
+  "Kimyager (Yakıt)"
+ ],
+ "ek_bilgiler": "Bu meslek, kimya lisans eğitimi üzerine enerji sektöründe termik ve hidrolik santrallerin madeni yağ ve hidrolik yağ analizine özgülenmiş bir uzmanlık alanıdır. İstihdam imkânı, ülkedeki ilgili santral ve tesis sayısına bağlı olarak sınırlı olabilir; Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-07T20:45:04",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5683
+  }
+ }
+}

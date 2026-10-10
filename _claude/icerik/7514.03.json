@@ -1,0 +1,77 @@
+{
+ "arac_gerec": [
+  "Yürüyen bantlar (seçme/ayıklama bantları)",
+  "Hammadde dolum havuzu",
+  "Hidrocooling (soğutmalı yıkama) havuzu/tüneli",
+  "Yıkama suyu sistemleri",
+  "Toplama kasaları ve kasa arabaları",
+  "Tartı",
+  "Koruyucu eldiven",
+  "Önlük, bone ve maske",
+  "Su geçirmez çizme/bot",
+  "Boylama/kalite standardı örnekleri (referans tablolar)",
+  "Temizlik ekipmanları (hortum, fırça, dezenfektan)",
+  "Etiketleme malzemeleri"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve gözlem gücü yüksek,",
+  "El ve göz koordinasyonu iyi,",
+  "Hızlı ve seri çalışabilen,",
+  "Fiziksel olarak dayanıklı (uzun süre ayakta durabilen),",
+  "Tekrarlı işlere karşı sabırlı,",
+  "Temizlik ve hijyen kurallarına duyarlı,",
+  "Renk, şekil ve boy farklarını ayırt edebilen,",
+  "Takım çalışmasına uyumlu"
+ ],
+ "calisma_ortami": "\"Meyve Sebze Ayıklama İşçisi, meyve ve sebze işleme, paketleme veya konserve üretimi yapan tesislerde, genellikle kapalı ortamlarda çalışır. Çalışma ortamı nemli olup zeminde su birikmesi nedeniyle kayma riski bulunabilir; soğuk hava depolarına yakın bölümlerde sıcaklık düşük olabilir. İş, yürüyen bant hızına uyularak ayakta ve uzun süre aynı hareketleri tekrarlayarak yapılır, bu nedenle sırt, boyun ve el bileği yorgunluğu görülebilir.\\n\\nÇalışma saatleri işletmenin üretim programına göre değişir; özellikle hasat dönemlerinde (mevsimlik yoğunluk) vardiyalı ve uzun saatler çalışılabilir. Meslek elemanı, bant başındaki diğer işçilerle, vardiya sorumlusu ve kalite kontrol personeli ile sürekli iş birliği içinde çalışır.\"",
+ "egitim": {
+  "verildigi_yerler": "Meyve Sebze Ayıklama İşçiliği için örgün mesleki eğitim merkezlerinde ayrı bir çıraklık/kalfalık-ustalık programı bulunmamaktadır. Meslek genellikle işyerlerinde işbaşında, usta işçi veya vardiya sorumlusu gözetiminde kısa süreli bir alıştırma ile öğrenilir. Halk Eğitim Merkezleri ve İŞKUR'un açtığı gıda işleme/paketleme alanındaki kısa süreli mesleki eğitim kursları da bu mesleğe yönelik temel bilgi ve beceri kazandırabilir.",
+  "giris_kosullari": [
+   "İlköğretim mezunu olmak (meslek için gereken minimum eğitim düzeyi ilköğretimdir)",
+   "Fiziksel olarak uzun süre ayakta çalışmaya ve el-göz koordinasyonu gerektiren işlere uygun olmak",
+   "Herhangi bir bulaşıcı hastalığı bulunmamak, gıda ile çalışmaya engel bir sağlık durumu olmamak (gerektiğinde sağlık raporu istenebilir)",
+   "İş Kanunu'nda belirtilen çalışma yaşına uygun olmak"
+  ],
+  "sure_ve_icerik": "Resmî, standart bir eğitim süresi ve müfredatı bulunmamaktadır. İşbaşı eğitimi genellikle birkaç günden birkaç haftaya kadar sürer ve ürün boylama/kalite standartlarının tanınması, defolu ürünün ayırt edilmesi, hijyen ve iş güvenliği kuralları, bant düzeninde çalışma gibi konuları kapsar. İŞKUR veya Halk Eğitim Merkezleri tarafından açılan kurslar, bu bilgileri kısa süreli teorik ve uygulamalı eğitimle vermeyi amaçlar.",
+  "belge": "İşyerinde verilen işbaşı eğitiminde resmî bir diploma veya unvan verilmez. İŞKUR veya Halk Eğitim Merkezlerinin açtığı kurslara katılanlara kurs bitirme/katılım belgesi verilebilir."
+ },
+ "calisma_alanlari": "\"Meyve Sebze Ayıklama İşçileri; meyve ve sebze paketleme tesislerinde, konserve ve salça fabrikalarında, soğuk hava deposu bulunan paketleme işletmelerinde, ihracata yönelik meyve-sebze ayıklama ve sınıflandırma tesislerinde, hal ve toptancı komisyonculuğu yapan bazı büyük işletmelerde istihdam edilebilirler. Çalışma, ürünün hasat dönemine bağlı olduğundan iş imkânları genellikle mevsimlik yoğunluk gösterir; bazı büyük işletmelerde ise yıl boyunca sürekli istihdam söz konusu olabilir.\"",
+ "kazanc": {
+  "egitim_suresince": "Meslek için standart ve ücretli bir örgün eğitim programı bulunmadığından, işbaşı eğitim/alıştırma süresinde genellikle işletmenin belirlediği şekilde, çoğunlukla asgari ücret düzeyinde bir kazanç sağlanır. İŞKUR kurslarına katılanlara kurs süresince cep harçlığı ödenebilir.",
+  "egitim_sonrasi": [
+   "İşe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Kazanç; çalışılan işletmenin büyüklüğü, çalışma süresi (mevsimlik/sürekli), kişinin tecrübesi ve performansına göre değişebilir.",
+   "Toplu iş sözleşmesi uygulanan işyerlerinde ücret, toplu iş sözleşmesi hükümlerine göre belirlenir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Meslek, örgün bir mesleki eğitim programına bağlı olmadığından eğitimde kademeli bir ilerleme söz konusu değildir. İsteyenler, gıda teknolojisi veya gıda işleme ile ilgili mesleki ve teknik eğitim programlarına veya ilgili kurslara katılarak bilgi ve becerilerini geliştirebilir.",
+  "is_hayatinda": "Tecrübe kazanan işçiler, bant/vardiya sorumluluğu, kalite kontrol elemanlığı veya üretim bölümünde daha nitelikli görevlere (örneğin ürün sınıflandırma ya da paketleme operatörlüğü) yükselebilir."
+ },
+ "benzer_meslekler": [
+  "Yıkama ve Ayıklama İşçisi (Meyve Sebze) (Elle)",
+  "Üzüm İşleme ve Paketleme İşçisi",
+  "Kayısı İşleme ve Paketleme İşçisi",
+  "Domates Kesme Operatörü",
+  "Meyve Sebze Doğrama İşçisi",
+  "Konserve Üretim Elemanı"
+ ],
+ "ek_bilgiler": "\"İş, meyve ve sebzenin hasat dönemine bağlı olarak mevsimsel yoğunluk gösterebilir; bu nedenle bazı işletmelerde çalışma mevsimlik niteliktedir. Soğuk ve nemli ortamda uzun süre ayakta çalışma gerektirdiğinden işe uygun fiziksel dayanıklılık önemlidir.\"",
+ "gorevler": [
+  "Ana banda alınan/akan ürünlerden boylaması belirli ölçülerden büyük olanların gözle ilk ayıklamasını yapar.",
+  "Defolu meyve ve sebzeleri bant üzerinden ayıklar.",
+  "İlk ayıklamadan geçen ürünün hidrocooling içinden belirli derecedeki sudan geçmesini sağlar; asıl boylamaya tabi tutulan üç ayrı banda alınan/dökülen malları bu bantlar üzerinde tekrar göz ve elle kontrol eder, defolu olanları ayırır ve kasalara atar.",
+  "Kontrolden geçen ve boylamalarına göre ayrılmış olan malların son kez su içinden geçirilerek paketleme ve dolum bölümüne akmasını sağlar.",
+  "Akan bandın temizliğini sağlar.",
+  "Akan bandın hızına uyar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T07:25:26",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5186
+  }
+ }
+}

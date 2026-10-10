@@ -1,0 +1,86 @@
+{
+ "arac_gerec": [
+  "Muhtarlık bürosu/köy konağı",
+  "Bilgisayar ve yazıcı",
+  "Resmî muhtarlık mührü ve kaşe",
+  "Nüfus vukuatı (doğum-ölüm-evlenme-boşanma) kayıt defteri",
+  "Köy ihtiyar meclisi karar defteri",
+  "Köy bütçe ve gelir-gider defterleri",
+  "Resmî yazışma evrakları ve dilekçe örnekleri",
+  "Telefon ve iletişim araçları",
+  "Köy haritası ve sınır belgeleri",
+  "Afet ve yangına müdahalede kullanılan basit söndürme ve ikaz araçları",
+  "Ulaşım aracı (bisiklet, motosiklet veya otomobil, köyün imkanına göre)"
+ ],
+ "genel_ozellikler": [
+  "Köy halkının güvenini kazanmış, dürüst ve tarafsız,",
+  "Sözlü iletişim becerisi güçlü, insanlarla iyi ilişki kurabilen,",
+  "Sorumluluk sahibi ve kararlı,",
+  "Sorun çözme ve uzlaştırma becerisine sahip,",
+  "Kırsal yaşam koşullarına ve köyün sosyal yapısına uyum sağlayabilen,",
+  "Resmî yazışma ve basit hesap işlerini takip edebilecek düzeyde okur-yazar,",
+  "Acil durumlarda (yangın, sel vb.) hızlı karar alabilen ve fiziksel olarak uygun,",
+  "Hizmet bilinci yüksek ve gönüllülük esasıyla çalışabilen,"
+ ],
+ "gorevler": [
+  "Hükümet tarafından bildirilen kanun ve nizamları köy içinde ilan eder.",
+  "Köyün sınırları içinde dirlik ve düzeni korur.",
+  "Salgın ve bulaşıcı hastalıkları ilgili makamlara haber verir.",
+  "Köylünün bulaşıcı hastalıklara karşı aşılanmasını sağlar.",
+  "Köye gelip gidenlerin gelip gitme nedenlerini öğrenir, şüpheli gördüklerini en yakın karakola bildirir.",
+  "Her ay köyde doğan, ölen, nikahlanan ve boşananların kaydını tutar, nüfus memuruna bildirir.",
+  "Köyün nüfus vukuatı işlemlerini yürütür.",
+  "Vergi tahsildarlarına yol gösterir ve yardımcı olur, yolsuzluk tespit ederse hükümete bildirir.",
+  "Asker toplanmasına yardımcı olur ve asker kaçaklarını ilgili makamlara bildirir.",
+  "Köy sınırları içinde yangın veya sel gibi afetlerde köylüyü toplayarak müdahale çalışmalarını yönetir.",
+  "Mahkemelerden gönderilen celpname, tezkere ve hükümleri ilgililere bildirir.",
+  "Kanun adına aranan kişileri kolluk kuvvetlerine bildirir.",
+  "İhtiyar meclisiyle görüştükten sonra köylüyü ortak işlere çağırır.",
+  "İhtiyar meclisi kararıyla köy işlerine harcanacak parayı toplar.",
+  "Toplanan parayı ihtiyar meclisinin onayına uygun biçimde harcanması için talimat verir.",
+  "Her ay sonunda yapılan harcamaların hesabını ihtiyar meclisine sunar.",
+  "Köy işlerinde gerektiğinde davacı veya hasım sıfatıyla mahkemede bulunur ya da yerine vekil görevlendirir.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "calisma_ortami": "Köy muhtarı, görev yaptığı köyün sınırları içinde, genellikle köy konağı veya muhtarlık bürosu olarak kullanılan basit bir mekânda çalışır. Çalışmalarının önemli bir bölümü ise köy arazisinde, köylülerin evlerinde, tarlalarda veya resmi kurumlarla yapılan görüşmelerde, yani açık alanda geçer. Çalışma saatleri önceden belirlenmiş sabit bir düzene bağlı değildir; köylünün ihtiyaç duyduğu her an, gündüz veya gece ulaşılabilir olması beklenir. Yangın, sel gibi afet durumlarında fiziksel olarak zorlu koşullarda saha çalışması yapması gerekebilir.\n\nGörevi gereği köylülerle, köy ihtiyar meclisi üyeleriyle, kaymakamlık ve valilik personeliyle, jandarma ve diğer kolluk kuvvetleriyle, nüfus müdürlüğü ve vergi tahsildarları gibi kamu görevlileriyle sürekli etkileşim hâlindedir. Görev, resmi bir kamu memuriyeti olmayıp büyük ölçüde gönüllülük ve kamu hizmeti bilinciyle yürütülür.",
+ "egitim": {
+  "verildigi_yerler": "Köy muhtarlığı, belirli bir okul veya kurumda verilen mesleki eğitimle değil, mahalli idareler seçimleriyle kazanılan bir görevdir. Seçilme öncesinde zorunlu bir ön eğitim bulunmamaktadır. Göreve seçilenlere, kaymakamlıklar veya valilikler tarafından, mevzuat ve köy yönetimiyle ilgili konularda kısa süreli bilgilendirme ve hizmet içi eğitimler düzenlenebilir.",
+  "giris_kosullari": [
+   "Türkiye Cumhuriyeti vatandaşı olmak",
+   "Seçimin yapıldığı tarih itibarıyla 25 yaşını doldurmuş olmak",
+   "Okuryazar olmak",
+   "Kamu haklarından yasaklı bulunmamak",
+   "Seçileceği köyün seçmen kütüğüne kayıtlı olmak ve ilgili seçim mevzuatında aranan diğer genel şartları taşımak"
+  ],
+  "sure_ve_icerik": "Köy muhtarlığı için tanımlanmış resmi bir eğitim süresi ve müfredatı bulunmamaktadır. Göreve, 5 yılda bir yapılan mahalli idareler seçimlerinde köy halkının oylarıyla doğrudan seçilerek gelinir. Seçim sonrasında, kaymakamlık veya valilik tarafından köy yönetimi, nüfus işlemleri, köy bütçesi ve resmi yazışmalar gibi konularda kısa süreli bilgilendirme toplantıları yapılabilir.",
+  "belge": "Seçim sonucunda ilgili seçim kurulu tarafından düzenlenen ve göreve başlama yetkisi veren 'muhtarlık mazbatası' verilir."
+ },
+ "calisma_alanlari": "Köy muhtarı, yalnızca seçildiği köyde görev yapabilir; görev belirli bir köye bağlı olduğundan başka bir yerde çalışma imkânı bulunmamaktadır. Köy ihtiyar meclisiyle birlikte köyün günlük yönetimini, bütçesini ve ortak işlerini yürütür. Görevi gereği kaymakamlık, valilik, nüfus müdürlüğü, jandarma, tarım ve orman teşkilatları gibi kamu kurum ve kuruluşlarıyla sürekli koordinasyon içinde çalışır. Köyün mahalleye dönüştürülmesi durumunda muhtarlık görevi mahalle muhtarlığına evrilebilir.",
+ "kazanc": {
+  "egitim_suresince": "Köy muhtarlığı için zorunlu bir ön eğitim süreci bulunmadığından, bu döneme ilişkin ayrı bir kazançtan söz edilemez.",
+  "egitim_sonrasi": [
+   "Köy muhtarlarına, ilgili mevzuat çerçevesinde Devlet bütçesinden belirlenen aylık bir ödenek bağlanır.",
+   "Görevi dolayısıyla imzaladığı bazı resmi belgeler karşılığında köy bütçesinden sınırlı düzeyde ek gelir elde edebilir.",
+   "Kazanç düzeyi; bağlanan ödenek miktarına, köyün nüfusuna ve bütçe imkânlarına göre değişmekle birlikte genellikle sınırlıdır ve asıl geçim kaynağı olarak kabul edilmez."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Görev seçimle kazanıldığından, mesleki eğitim açısından kademeli bir ilerleme söz konusu değildir.",
+  "is_hayatinda": "Köy muhtarları, 5 yılda bir yapılan mahalli idareler seçimlerinde yeniden aday olarak görevlerini sürdürebilirler. Tecrübeli muhtarlar, muhtarlar dernek ve federasyonlarında görev alabilir; köyün mahalleye dönüşmesi durumunda mahalle muhtarı olarak çalışmaya devam edebilir veya yerel siyasette daha üst düzey görevlere (belediye meclisi üyeliği, belediye başkanlığı gibi) aday olabilirler."
+ },
+ "benzer_meslekler": [
+  "Muhtar-Mahalle",
+  "İlçe Belediye Başkanı",
+  "İl Belediye Başkanı",
+  "Büyükşehir Belediye Başkanı"
+ ],
+ "ek_bilgiler": "Köy muhtarlığı, kamu görevlisi statüsünde atama ile değil, 5 yılda bir yapılan mahalli idareler seçimleriyle kazanılan, büyük ölçüde gönüllülük esasına dayanan bir görevdir. Görev süresi seçim dönemleriyle sınırlıdır ve köy tüzel kişiliğinin kaldırılıp mahalleye dönüştürülmesi durumunda muhtarlık, mahalle muhtarlığına dönüşebilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-07T18:16:28",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 7964
+  }
+ }
+}

@@ -1,0 +1,76 @@
+{
+ "arac_gerec": [
+  "Öğütme ve karıştırma makinesi",
+  "Ağaç çöp kesme makinesi",
+  "Kibrit çöplerini çerçeveye dizip tespit eden makine",
+  "Delikli ağaç çerçeveler",
+  "Isıtılmış karışım tavası",
+  "Sıcak metal plaka",
+  "Kurutma odası/fırını",
+  "Kibrit başı karışımı hammaddeleri (kükürt, fosfor bileşikleri vb.)",
+  "Tartım ve ölçüm aletleri",
+  "Ambalajlama malzemeleri (kutu, karton)",
+  "Yangın söndürme ekipmanları",
+  "Kişisel koruyucu donanım (eldiven, maske, gözlük, önlük)"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve temkinli,",
+  "Sorumluluk sahibi,",
+  "El ve göz koordinasyonunu iyi kullanabilen,",
+  "Fiziksel olarak dayanıklı,",
+  "Yanıcı ve kimyasal maddelerle çalışmaya uygun,",
+  "Talimatlara titizlikle uyan,",
+  "Ekip çalışmasına yatkın,",
+  "Düzenli ve sabırlı"
+ ],
+ "calisma_ortami": "Kibrit imal işçisi, kapalı mekanda, fabrika veya atölye ortamında çalışır. Çalışma alanında kükürt ve fosfor bileşikleri gibi yanıcı kimyasal maddeler, ısıtılmış tava ve plakalar ile kurutma odaları bulunduğundan ortam sıcak, kokulu ve yangın/patlama açısından riskli olabilir; bu nedenle iş sağlığı ve güvenliği kurallarına büyük dikkat gösterilmesi gerekir. İş genellikle ayakta ve makineler eşliğinde yürütülür, ortam orta düzeyde gürültülü olabilir.\n\nÇalışma saatleri işletmenin üretim programına göre değişebilir ve vardiyalı çalışma söz konusu olabilir. Meslek elemanı, işini genellikle diğer üretim işçileri, ustabaşı ve bölüm sorumlusu ile iş birliği içinde yürütür.",
+ "gorevler": [
+  "Öğütme ve karıştırma makinesini kullanarak formülüne göre kibrit başı karışımını yapar,",
+  "Küçük ağaç blokları makineye vererek bunları kibrit boyuna uygun gelecek şekilde keser,",
+  "Kibrit çöplerini delikli ağaç bir çerçeveye geçirip tespit eden makineyi çalıştırır,",
+  "Isıtılmış tavaya kibrit başı karışımını doldurur,",
+  "Kibrit çöplerini tutan delikli ağaç çerçeveyi sıcak bir metal plaka üzerinde tutarak kibrit çöplerinin uçlarını ısıtır,",
+  "Çerçevede takılı kibrit çöplerini ısıtılmış karışıma batırdıktan sonra çerçeveyi ısıtılmış odalara koyarak kibritleri kurutur,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Kibrit imal işçiliği için örgün bir meslek lisesi programı veya standart bir kurs müfredatı bulunmamaktadır. Meslek genellikle kibrit fabrikalarında işbaşında usta yanında yetişerek öğrenilmekte; bazı durumlarda Halk Eğitim Merkezleri ve İŞKUR tarafından açılan genel kimya/üretim teknolojisi içerikli mesleki eğitim kursları da temel beceri kazandırabilmektedir.",
+  "giris_kosullari": [
+   "Okuryazar olmak",
+   "18 yaşını doldurmuş olmak (iş sağlığı ve güvenliği mevzuatı gereği)",
+   "Kurs/işbaşı eğitim programının öngördüğü temel becerileri gerçekleştirebilecek fiziksel ve psikomotor yeterliğe sahip olmak"
+  ],
+  "sure_ve_icerik": "Meslek eğitiminin resmî olarak tanımlanmış standart bir süresi ve içeriği bulunmamaktadır. İşbaşı eğitimlerde kibrit başı karışımının hazırlanması, ağaç çöp kesimi, çerçeveye dizme, ısıtma-batırma ve kurutma işlemleri ile iş sağlığı ve güvenliği, özellikle yangından korunma konularında uygulamalı bilgi kazandırılır.",
+  "belge": "İşbaşında usta yanında yetişenlere herhangi bir resmî belge verilmemektedir. Kurs yoluyla eğitim alanlara ise katıldıkları kurumdan 'Kurs Bitirme Belgesi' verilebilir."
+ },
+ "calisma_alanlari": "Kibrit imal işçileri, kibrit üretimi yapan fabrika ve işletmelerde istihdam edilir. Türkiye'de kibrit üretimi, çakmak ve diğer alternatif ateşleme araçlarının yaygınlaşması nedeniyle günümüzde oldukça sınırlı sayıda işletmede sürdürülmekte olup, bu alanda istihdam olanağı azdır.",
+ "kazanc": {
+  "egitim_suresince": "İşbaşında usta yanında yetişme sürecinde, çalışılan işletmenin uygulamasına bağlı olarak genellikle düşük düzeyde bir kazanç söz konusu olabilir; kurs yoluyla alınan eğitimlerde ise herhangi bir kazanç bulunmamaktadır.",
+  "egitim_sonrasi": [
+   "Yeni başlayanların ücreti genellikle asgari ücret düzeyindedir.",
+   "Deneyim, beceri düzeyi ve çalışılan işletmenin büyüklüğüne göre ücret artabilir.",
+   "Bu meslek için kamuda doğrudan bir istihdam alanı bulunmamaktadır; özel sektörde ücret işveren ile işçi arasındaki anlaşmaya göre belirlenir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Bu meslek için kademeli, örgün bir mesleki eğitim ilerleme basamağı bulunmamaktadır.",
+  "is_hayatinda": "Deneyim, bilgi ve beceri arttıkça usta, ustabaşı veya bölüm sorumlusu gibi unvanlar alarak iş hayatında ilerleme sağlanabilir."
+ },
+ "benzer_meslekler": [
+  "Ezme Makinesi Operatörü-Kimyasal Maddeler",
+  "Karıştırma Makinesi Operatörü-Kimyasal Maddeler",
+  "Kurutma Makinesi Operatörü-Kimyasal ve İlgili İşlemler",
+  "Boya Kurutma Fırını İşçisi",
+  "Kurşun Kalem İmal İşçisi",
+  "Kavurucu (Kimyasal ve İlgili İşlemler)"
+ ],
+ "ek_bilgiler": "Kibrit imalatında kullanılan kükürt ve fosfor bileşikleri gibi maddeler yanıcı ve bazı durumlarda tehlikeli özellik taşıdığından, çalışma sırasında iş sağlığı ve güvenliği kurallarına, özellikle yangın ve patlama riskine karşı azami dikkat gösterilmesi gerekir. Çakmak ve diğer ateşleme araçlarının yaygınlaşmasıyla birlikte Türkiye'de kibrit imalatı sınırlı sayıda işletmede sürdürülmekte olup, meslekte istihdam olanağı giderek azalmaktadır.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T12:14:02",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5731
+  }
+ }
+}

@@ -1,0 +1,79 @@
+{
+ "arac_gerec": [
+  "Dikey döner ocağı (elektrikli veya gazlı)",
+  "Döner şişi",
+  "Uzun ve keskin döner bıçağı (elektrikli dilimleme bıçağı)",
+  "Bıçak bileme çeliği/taşı",
+  "Kesme tahtası",
+  "Marinasyon (terbiye) kapları ve karıştırma ekipmanları",
+  "Soğuk hava deposu/buzdolabı",
+  "Tartı",
+  "Önlük, bone, eldiven gibi hijyen malzemeleri",
+  "Temizlik ve dezenfeksiyon malzemeleri",
+  "Servis tepsisi, ekmek arası ve porsiyonlama malzemeleri",
+  "Yangın söndürme ekipmanı"
+ ],
+ "genel_ozellikler": [
+  "El becerisine sahip,",
+  "Dikkatli ve titiz,",
+  "Fiziksel olarak dayanıklı,",
+  "Ayakta ve hareketli olarak uzun süre çalışabilen,",
+  "Hijyen ve temizlik kurallarına özen gösteren,",
+  "Sıcak ortamda çalışmaya uygun,",
+  "Zamanını iyi planlayabilen,",
+  "Takım halinde çalışmaya yatkın"
+ ],
+ "calisma_ortami": "Döner ustası; döner salonları, kebapçılar, restoranlar, fast food işletmeleri, kafeteryalar ve catering firmaları gibi genellikle kapalı mekânlarda, mutfak ve ocak başında görev yapar. Çalışma ortamı sıcak, bazen dumanlı ve yağlı olabilir; keskin bıçaklarla ve sıcak döner ocağıyla sürekli temas nedeniyle kesik ve yanık riski bulunur. Çalışma genellikle ayakta ve hareketli şekilde sürdürülür.\n\nİşletmenin yoğunluğuna göre vardiyalı sistemde, hafta sonu ve resmi tatilleri de kapsayan uzun saatlerde çalışılabilir. Döner ustası, çalıştığı süre boyunca işletme sahibi veya yöneticisi, aşçı ve mutfak personeli, garsonlar ve zaman zaman doğrudan müşterilerle iletişim halindedir.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin örgün bir okul programı bulunmamaktadır. Kişiler genellikle işyerlerinde usta yanında çalışarak işbaşında yetişir. Ayrıca Halk Eğitim Merkezleri ile İŞKUR'un açtığı mesleki eğitim kurslarında ve bazı özel kurs merkezlerinde temel düzeyde eğitim verilebilmektedir.",
+  "giris_kosullari": [
+   "İlkokul mezunu olmak (mesleğin gerektirdiği asgari eğitim düzeyi)",
+   "Bir işletmede çalışmaya başlayarak usta yanında yetişmeye uygun olmak",
+   "Ağır ve sıcak ortamda çalışmaya elverişli bir sağlık durumuna sahip olmak",
+   "Kurs yoluyla eğitim için ilgili kurumun belirlediği yaş ve kayıt şartlarını taşımak"
+  ],
+  "sure_ve_icerik": "Mesleğin standart bir süresi ve müfredatı bulunmamaktadır. Kişiler genellikle çırak olarak işe başlayıp usta yanında uygulamalı şekilde dönerlik etin seçimi, marine edilmesi, şişe dizilmesi, pişirilmesi ve dilimlenmesi gibi işlemleri öğrenir. İŞKUR ve Halk Eğitim Merkezlerinin açtığı kısa süreli mesleki kurslarda da temel bilgi ve beceriler kazandırılabilmektedir.",
+  "belge": "Usta yanında yetişenlere çoğunlukla resmi bir belge verilmez. Kurs yoluyla eğitim alanlara kurs bitirme/katılım belgesi verilebilir. Mesleki Yeterlilik Kurumu (MYK) belgesi zorunlu olmamakla birlikte istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Döner ustaları; döner salonları, kebap ve et lokantaları, restoranlar, fast food zincirleri, kafeteryalar, oteller ve catering firmalarının mutfaklarında çalışabilmektedir. Yiyecek-içecek sektörünün yaygınlığı nedeniyle iş bulma olanakları genel olarak her bölgede mevcuttur; büyükşehirlerde ve yoğun ticari/turistik bölgelerde talep daha fazladır. Deneyimli döner ustalarına yönelik talep istikrarlı şekilde devam etmektedir.",
+ "kazanc": {
+  "egitim_suresince": "İşyerinde usta yanında çalışarak yetişenler, işveren ile yapılan anlaşmaya bağlı olarak genellikle asgari ücret düzeyinde bir kazanç elde eder. Halk Eğitim Merkezi veya İŞKUR kurslarına katılım sırasında ise herhangi bir ücret söz konusu değildir.",
+  "egitim_sonrasi": [
+   "Mesleğin kamu sektöründe istihdamı yaygın değildir; kamuda görev alan personel ilgili mevzuata (örneğin 657 sayılı Kanun veya toplu iş sözleşmesi hükümlerine) tabi olarak ücret alır.",
+   "Özel sektörde yeni başlayanlar genellikle asgari ücret düzeyinde kazanç elde eder; deneyim, işletmenin büyüklüğü, çalışılan bölge ve işletme sahibiyle yapılan anlaşmaya göre kazanç değişebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğin örgün bir ilerleme basamağı bulunmamaktadır. İlgi duyanlar, yiyecek-içecek hizmetleri alanındaki mesleki eğitim merkezi programlarına veya kurslara katılarak bilgi ve becerilerini geliştirebilir.",
+  "is_hayatinda": "Deneyim kazanan döner ustaları usta döner ustalığına, mutfak sorumluluğuna veya işletme yöneticiliğine yükselebilir; biriktirdiği sermaye ve tecrübeyle kendi işyerini açabilir."
+ },
+ "benzer_meslekler": [
+  "Tavuk Döner Ustası",
+  "Kokoreç Ustası",
+  "Izgara Köftecisi",
+  "Tantuni Ustası",
+  "Lahmacun Ustası",
+  "Ciğer Ustası"
+ ],
+ "ek_bilgiler": "Döner ustalığı, Türkiye'de yaygın olarak uygulanan bir yiyecek hazırlama mesleğidir. Gıda güvenliği mevzuatı gereği işyerlerinde çalışanlardan hijyen eğitimi sertifikası istenebilmektedir.",
+ "gorevler": [
+  "İş planlaması ve organizasyonu yapar.",
+  "Hijyen kurallarına göre çalışma ortamını hazırlar.",
+  "Döner yapmaya uygun etleri satın alır, uygun şekilde muhafazasını sağlar.",
+  "Doğranmış dönerlik eti, süt, sıvıyağ, soğan suyu, tuz ve karabiberden oluşan karışımda bekleterek terbiyeler.",
+  "Etin miktarına göre, uygun bir döner şişine, etleri geçirerek sıkıca yerleştirir.",
+  "Hazırlanan şişlenmiş döneri döner ocağına alır ve ocağı yakar.",
+  "Döneri, ateş karşısında devamlı çevirerek pişmesini sağlar.",
+  "Uzun ve keskin et bıçağıyla etin pişen yüzünden, yukarıdan aşağıya doğru 3-4 mm incelikte parçalar keserek servise hazırlar.",
+  "Döner ocağının ve kullandığı aparatların bakım ve temizliğini yapar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T20:35:22",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5578
+  }
+ }
+}

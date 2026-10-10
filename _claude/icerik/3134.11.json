@@ -1,0 +1,82 @@
+{
+ "arac_gerec": [
+  "Gravite-seperasyon makineleri",
+  "Kimyevi madde dozajlama ve besleme ekipmanları",
+  "Elektrikli ayrıştırma (dehidrasyon) üniteleri",
+  "Santrifüjlü ayrıştırma üniteleri",
+  "Depolama tankları ve tank seviye ölçüm cihazları",
+  "Boru hattı vanaları ve bağlantı ekipmanları",
+  "Petrol ısıtıcı tesisatı",
+  "Su ve petrol sevk pompaları",
+  "Basınç ve sıcaklık ölçüm cihazları",
+  "Tortu/dinlendirme tankları",
+  "Kayıt tutma araçları (defter, formlar, bilgisayar)",
+  "Bakım-onarım için temel el aletleri",
+  "Kişisel koruyucu donanım (iş elbisesi, eldiven, baret, gaz maskesi vb.)"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve tedbirli,",
+  "Fiziksel olarak dayanıklı,",
+  "Makine ve tesisatla çalışmaya yatkın,",
+  "Sorumluluk sahibi,",
+  "Talimat ve prosedürleri eksiksiz uygulayabilen,",
+  "Ekip halinde çalışmaya uyumlu,",
+  "Vardiyalı ve zaman zaman açık havada çalışmaya istekli,",
+  "Acil durumlarda soğukkanlı davranabilen,"
+ ],
+ "gorevler": [
+  "İşletmenin genel çalışma prensipleri, iş sağlığı, iş güvenliği ve çevre koruma düzenlemeleri doğrultusunda, araç, gereç ve ekipmanları etkin biçimde kullanarak:",
+  "Ham petrolün içerdiği tortuyu ve suyu gravite-seperasyon makinesi yardımıyla tespit eder ve sonuca göre ham petrolü tasfiye sistemlerine, depolama tanklarına veya depolama tanklarından boru hatlarına sevk eder.",
+  "Kimyevi muamele ünitesine kimyevi maddeler katar veya ham petrolü elektrikli ya da santrifüjlü ünitelere sevk ederek suyun dibe çökerek petrolden ayrılmasını ve dışarı atılmasını sağlar.",
+  "Petrolü tortu tanklarında dinlendirir.",
+  "Tasfiye edilerek borulara pompalanan petrolün miktarını belirlemek üzere tank seviyelerini ölçer.",
+  "Tasfiye ünitesinin su ve petrol pompalarını çalıştırır ve bakımını sağlar.",
+  "Üniteleri temiz tutar ve gerektiğinde tamir eder.",
+  "İstihsal, tahlil sonuçları ve diğer bilgilere ait kayıtları tutar.",
+  "Petrolün tasfiye edilmek üzere istenilen dereceye kadar ısıtılabilmesi için petrol ısıtıcı tesisatını çalıştırabilir.",
+  "Petrol kuyularının pompalarını işletebilir.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "calisma_ortami": "\"Ham Petrol Muamelecisi, ham petrol üretimi yapılan sahalarda; kuyu başlarında ve bu sahalara bağlı tasfiye/ön işlem tesislerinde hem açık hem kapalı alanlarda çalışır. Çalışma ortamında petrol kokusu, gürültü, kimyasal madde buharı, yağlı yüzeyler ve mevsim koşullarına açık olma gibi unsurlar bulunur; bu nedenle iş sağlığı ve iş güvenliği kurallarına titizlikle uyulması gerekir. Çalışma genellikle vardiyalı sistemle yürütülür ve meslek mensubu zaman zaman yorucu ve riskli koşullarda görev yapabilir.\\n\\nÇalışırken saha mühendisleri, teknisyenler, diğer operatörler ve vardiya amirleriyle sürekli iletişim ve koordinasyon içindedir.\"",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin yürütülmesi için standart bir örgün yükseköğretim veya ortaöğretim sonrası program bulunmamaktadır. Mesleğe genellikle lise ve dengi okul, tercihen petrol ve doğal gaz, kimya teknolojisi veya makine alanlarında mesleki ve teknik eğitim veren liselerden mezun olarak girilir. Mesleğin gerektirdiği bilgi ve beceriler işe giriş sonrasında işbaşında usta yanında, işletme içi eğitimlerle ve gerektiğinde Halk Eğitim Merkezleri ile İŞKUR'un açtığı mesleki eğitim kurslarında kazandırılır.",
+  "giris_kosullari": [
+   "En az lise veya dengi okul mezunu olmak",
+   "Fiziksel olarak sahada ve vardiyalı düzende çalışmaya elverişli olmak",
+   "İşin gerektirdiği sağlık koşullarını taşımak",
+   "İşe alındığı kurum/işletmenin uyguladığı sınav, mülakat veya işbaşı değerlendirme süreçlerini geçmek"
+  ],
+  "sure_ve_icerik": "Mesleğin standart bir eğitim süresi ve belirlenmiş bir müfredatı bulunmamaktadır. Meslek, işe giriş sonrasında işbaşında usta yanında uygulamalı olarak öğrenilir; bu süreç işletmelerin verdiği iş sağlığı ve güvenliği, tesis işletme, bakım-onarım ve kayıt tutma konularını kapsayan kurum içi eğitimlerle desteklenir. Mesleki ve teknik liselerin petrol, doğal gaz veya kimya teknolojisi alanlarında alınan eğitim, mesleğe geçişte avantaj sağlayabilir.",
+  "belge": "Örgün eğitim sonunda verilen standart bir diploma bulunmamaktadır; işbaşı ve kurum içi eğitimleri tamamlayanlara işletme tarafından katılım veya yeterlilik belgesi verilebilir. Mesleğin yürütüldüğü ortamın tehlikeli işler kapsamında değerlendirilebilecek yönleri nedeniyle Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "\"Ham Petrol Muamelecileri, ham petrol üretimi yapılan kamu ve özel sektör petrol işletmelerinde, petrol kuyusu sahalarında ve bu sahalara bağlı tasfiye/ön işlem tesislerinde istihdam edilir. Türkiye'de ham petrol üretiminin coğrafi olarak sınırlı bölgelerde (başta Güneydoğu Anadolu olmak üzere) yoğunlaşmış olması nedeniyle bu meslekte çalışan sayısı ve iş olanakları sınırlıdır.\"",
+ "kazanc": {
+  "egitim_suresince": "Mesleğin standart bir örgün eğitim süreci bulunmadığından öğrencilik dönemine özgü bir kazançtan söz edilemez. İşe yeni başlayanlar genellikle stajyerlik veya deneme süresi boyunca işletmenin belirlediği ücretle çalışır.",
+  "egitim_sonrasi": [
+   "Kamu kurum ve kuruluşlarında memur statüsünde istihdam edilenler 657 sayılı Devlet Memurları Kanunu'na, işçi statüsünde çalışanlar ise ilgili toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde çalışanların kazancı işyerinin büyüklüğüne, kişinin deneyim ve becerisine, çalışma koşullarına ve sektördeki ücret düzeyine göre değişir.",
+   "Mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç elde eder."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğe özgü standart bir dikey veya yatay geçiş sistemi bulunmamaktadır. İsteyenler, açık öğretim veya örgün yollarla lise sonrası mesleki ve teknik eğitim programlarına (örneğin petrol ve doğal gaz teknolojisi ile ilgili önlisans programlarına) yönelerek bilgi ve becerilerini artırabilir.",
+  "is_hayatinda": "Deneyim ve başarıya bağlı olarak ustabaşı, vardiya amiri veya saha sorumlusu gibi görevlere atanabilir; ileri düzeyde bilgi ve beceri kazananlar saha operasyonlarında daha fazla sorumluluk üstlenebilir."
+ },
+ "benzer_meslekler": [
+  "Muamele İşçisi (Petrol Rafinesi)",
+  "Karıştırıcı (Petrol Rafinesi)",
+  "Pompacı (Petrol Rafinesi)",
+  "Petrol-Gaz Üretim Operatörü",
+  "Petrol ve Ürünleri Elleçleme Operatörü",
+  "Diğer Petrol Rafine İşçileri"
+ ],
+ "ek_bilgiler": "\"Mesleğin yürütüldüğü ham petrol üretim sahaları ve tesisleri, kimyasal madde kullanımı ve parlayıcı/patlayıcı maddelerle çalışma içermesi nedeniyle tehlikeli ve çok tehlikeli işler kapsamında değerlendirilebilir; bu nedenle iş sağlığı ve güvenliği eğitimleri ile kişisel koruyucu donanım kullanımı mesleğin icrasında önem taşır.\"",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T11:12:53",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 7216
+  }
+ }
+}

@@ -1,0 +1,79 @@
+{
+ "arac_gerec": [
+  "Bilgisayar ve sunucular",
+  "Mobil cihazlar ve taşınabilir depolama üniteleri",
+  "Yazma korumalı (write-blocker) donanımlar",
+  "Disk görüntüleme ve klonlama cihazları",
+  "Adli bilişim (forensic) analiz yazılımları",
+  "Veri kurtarma yazılımları",
+  "Hash doğrulama ve bütünlük kontrol araçları",
+  "Ağ ve log analiz yazılımları",
+  "Faraday poşetleri ve sinyal engelleme ekipmanları",
+  "Delil etiketleme, mühürleme ve paketleme malzemeleri",
+  "Veri depolama ve yedekleme üniteleri",
+  "Raporlama ve belgeleme yazılımları"
+ ],
+ "genel_ozellikler": [
+  "Analitik düşünme ve problem çözme yeteneğine sahip,",
+  "Detaylara dikkat eden ve titiz çalışan,",
+  "Bilgisayar ve ağ teknolojilerine ilgi duyan,",
+  "Hukuki süreçlere ve delil güvenliğine önem veren,",
+  "Gizlilik ve mesleki etik kurallarına bağlı,",
+  "Yazılı ve sözlü ifade yeteneği gelişmiş,",
+  "Baskı altında ve zaman kısıtı olan durumlarda çalışabilen,",
+  "Sürekli öğrenmeye ve teknolojik gelişmeleri takip etmeye açık olan"
+ ],
+ "gorevler": [
+  "İş organizasyonu yapar,",
+  "Dijital cihazlardan delil toplama ve koruma işlemlerini gerçekleştirir,",
+  "Bilgisayar, mobil cihaz ve diğer dijital ortamlardaki verileri analiz eder,",
+  "Silinmiş, şifrelenmiş veya gizlenmiş verileri kurtarır ve inceler,",
+  "Siber saldırı ve veri ihlali vakalarını araştırır,",
+  "Adli raporlar hazırlar ve bulguları mahkemeye sunar,",
+  "Dijital delil zincirinin bütünlüğünü sağlar ve belgeler,",
+  "Adli yazılım ve donanımları kullanarak forensik inceleme yapar,",
+  "Uzman tanık sıfatıyla mahkemelerde bilirkişilik hizmeti verir,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "calisma_ortami": "Dijital adli tıp uzmanları genellikle büro ortamında veya kurum bünyesindeki adli bilişim/laboratuvar birimlerinde, bilgisayar başında çalışır. İncelenecek cihazların ele geçirilmesi ve delil toplama aşamasında olay yerine giderek saha çalışması yapabilirler; bu durumda farklı fiziksel koşullarla ve zaman baskısıyla karşılaşabilirler. Çalışma, dikkat ve yoğunlaşma gerektiren, uzun süre ekran karşısında geçen bir faaliyettir; vakanın aciliyetine göre normal çalışma saatleri dışında da görev yapılabilir.\n\nGörevleri sırasında kolluk kuvvetleri, savcılık ve mahkemeler, avukatlar, kurum içi bilgi işlem/bilgi güvenliği birimleri ve diğer uzmanlarla yakın işbirliği ve iletişim içinde çalışırlar. Dijital delillerin gizliliğinin ve bütünlüğünün korunması zorunlu olduğundan, iş gizlilik ve etik kurallara yüksek düzeyde bağlılık gerektirir.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi, üniversitelerin bilgisayar mühendisliği, yazılım mühendisliği, elektrik-elektronik mühendisliği veya bazı üniversitelerde bulunan adli bilişim mühendisliği gibi ilgili lisans programlarında verilmektedir. Lisans sonrasında bazı üniversitelerde açılan adli bilişim veya siber güvenlik alanındaki yüksek lisans programları ile uzmanlaşma sağlanabilir.",
+  "giris_kosullari": [
+   "Lise veya dengi okul mezunu olmak,",
+   "YKS (Yükseköğretim Kurumları Sınavı) kılavuzunda belirtilen giriş koşullarını sağlamak ve ilgili lisans programına yeterli puanla yerleşmek,",
+   "Meslek Yüksekokulu veya Açıköğretim Önlisans Programları mezunları, Dikey Geçiş Sınavı (DGS) ile ilgili lisans programlarına geçiş yapabilir."
+  ],
+  "sure_ve_icerik": "Lisans eğitimi, bazı programlarda bir yıl İngilizce hazırlık sınıfı dahil olmak üzere genellikle 4 yıl sürer. Eğitim süresince programlama, veri yapıları, işletim sistemleri, bilgisayar ağları, bilgi güvenliği ve siber güvenlik temelleri, hukuk ve ceza muhakemesi hukukuna giriş gibi dersler okutulur. Mezuniyet sonrasında, dijital adli tıp alanında uzmanlaşmak isteyenler adli bilişim, siber güvenlik ve delil analizi konularında kurumların, üniversitelerin veya özel eğitim kuruluşlarının düzenlediği sertifika programlarına ve kurslara katılarak kendilerini geliştirebilir.",
+  "belge": "Eğitimi başarı ile tamamlayanlara lisans diploması verilir. Ayrıca katıldıkları mesleki kurs ve sertifika programlarından da ilgili kurumlarca düzenlenen belgeler verilebilir."
+ },
+ "calisma_alanlari": "Dijital adli tıp uzmanları; kolluk kuvvetleri bünyesindeki siber suçlarla mücadele ve adli bilişim birimlerinde, adalet teşkilatına bağlı adli bilişim/adli tıp kurumlarında, mahkemelerde bağımsız bilirkişi olarak, kamu kurumlarının bilgi güvenliği birimlerinde çalışabilirler. Özel sektörde ise bilgi güvenliği ve siber güvenlik şirketlerinde, bankacılık ve finans kuruluşlarında, bilişim danışmanlık firmalarında ve büyük ölçekli kurumların bilgi teknolojileri/bilgi güvenliği birimlerinde istihdam edilirler. Siber suçların ve veri ihlallerinin artması nedeniyle bu alandaki istihdam olanaklarının önümüzdeki dönemde artması beklenmektedir.",
+ "kazanc": {
+  "egitim_suresince": "Lisans eğitimi süresince öğrenciler, Kredi ve Yurtlar Genel Müdürlüğünün sağladığı öğrenim kredisi ve yurt hizmetlerinden, ayrıca çeşitli kamu ve özel kurumların sunduğu burslardan yararlanabilir.",
+  "egitim_sonrasi": [
+   "Kamu kurum ve kuruluşlarında çalışanlar 657 sayılı Devlet Memurları Kanunu'na göre belirlenen maaş, ek ödeme ve tazminatlardan yararlanır.",
+   "Özel sektörde ücretler; işyerinin büyüklüğüne, çalışılan sektöre, kişinin deneyim ve uzmanlık düzeyine göre karşılıklı anlaşma ile belirlenir.",
+   "Mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde veya buna yakın bir ücretle işe başlayabilir; deneyim ve uzmanlaşma arttıkça kazanç düzeyi de yükselir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Alanında yüksek lisans ve doktora yaparak akademik kariyer yapılabilir; üniversitelerde araştırma görevliliği ve öğretim üyeliğine yükselinebilir. Ayrıca adli bilişim, siber güvenlik ve bilgi güvenliği alanlarında ulusal/uluslararası sertifika programlarına katılarak uzmanlık derinleştirilebilir.",
+  "is_hayatinda": "İş tecrübesi ve bilgi birikimi arttıkça kıdemli uzmanlık, ekip veya birim yöneticiliği pozisyonlarına yükselme mümkündür. Deneyimli meslek mensupları bağımsız bilirkişilik yapabilir, danışmanlık hizmeti verebilir veya kendi işini kurabilir."
+ },
+ "benzer_meslekler": [
+  "Bilgi Güvenliği Uzmanı",
+  "Siber Güvenlik Uzmanı",
+  "Adli Bilişim Mühendisi",
+  "Bilgi Güvenlik Denetmeni",
+  "Güvenlik Uzmanı (BİT)",
+  "Kişisel Verileri Koruma Uzmanı"
+ ],
+ "ek_bilgiler": "Mesleğin icrası için zorunlu bir ruhsat veya sınav bulunmamaktadır; ancak Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir. Meslek mensuplarının mahkemelerde bilirkişilik yapabilmesi için ilgili mevzuat çerçevesinde bilirkişilik kayıt sistemlerine kayıtlı olmaları gerekebilir. Siber suçların ve dijital delil gerektiren vakaların artmasıyla bu mesleğe olan talebin büyümesi beklenmektedir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T06:10:18",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5927
+  }
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "arac_gerec": [
+  "CNC cam işleme makinesi ve bilgisayarlı kontrol ünitesi",
+  "Vakum vantuzlu sabitleme sistemi",
+  "Elmas uçlu rodaj, delik ve kanal açma takımları",
+  "Su soğutma ve sirkülasyon sistemi",
+  "Kumanda paneli ve işleme yazılımı",
+  "Ölçüm aletleri (kumpas, mikrometre, şablon)",
+  "Koruyucu gözlük, eldiven ve iş elbisesi",
+  "Temizlik ve bakım malzemeleri (fırça, bez, yağdanlık)",
+  "Cam taşıma ekipmanları (vakumlu kaldırıcı, el arabası)",
+  "Filtre ve su arıtma sistemi parçaları"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve titiz,",
+  "El ve göz koordinasyonu iyi,",
+  "Sorumluluk sahibi,",
+  "Teknik konulara ilgili,",
+  "Bilgisayar kullanımına yatkın,",
+  "Takım çalışmasına uyumlu,",
+  "İşçi sağlığı ve iş güvenliği kurallarına duyarlı"
+ ],
+ "calisma_ortami": "CNC Cam İşleme Makinesi Operatörü, kapalı ortamda, cam fabrikası veya atölye içinde çalışır. Çalışma genellikle ayakta ve makine başında yürütülür; ortamda su kullanımına bağlı nem, makine gürültüsü, cam kırılması ve kesilme riski, kayma tehlikesi bulunabilir. İşyerinin üretim yoğunluğuna göre vardiyalı çalışma düzeni uygulanabilir.\n\nGörevlerini yerine getirirken iş emrini veren üretim sorumlusu, kalite kontrol personeli, bakım teknisyenleri ve diğer makine operatörleri ile iş birliği içinde çalışır.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi, genellikle işyerlerinde işbaşında usta yanında yetiştirme yoluyla; ayrıca Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kurslarında ya da ilgili mesleki ve teknik eğitim programları (cam/seramik teknolojisi ve benzeri alanlar) kapsamında verilmektedir.",
+  "giris_kosullari": [
+   "İlköğretim mezunu olmak",
+   "18 yaşından küçükler için veli izninin bulunması",
+   "Belirli yaş, eğitim düzeyi gibi koşullar uygulanan programın özelliğine göre değişebilir; bu durum eğitim kurumlarınca duyurulur"
+  ],
+  "sure_ve_icerik": "Eğitimin süresi ve içeriği, verildiği kuruma ve programa göre değişmektedir. Eğitim genel olarak; CNC makinelerin tanıtımı ve çalışma mantığı, cam işleme programlarının okunması ve parametre girişi, cam levhanın makineye sabitlenmesi, elmas uçlu takımların kullanımı ve bakımı, su soğutma sisteminin işleyişi, işlenen camın ölçü ve kalite kontrolü ile iş sağlığı ve güvenliği kurallarını kapsar. İşbaşı eğitiminde ise bu bilgiler uygulamalı olarak usta operatör gözetiminde kazandırılır.",
+  "belge": "Kurs yoluyla alınan eğitimlerde Kurs Bitirme Belgesi verilir. İşbaşında yetişenler için resmî bir belge düzenlenmesi zorunlu değildir; ancak Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "CNC Cam İşleme Makinesi Operatörleri; düz cam, temperli cam, lamine cam ve benzeri cam ürünlerini işleyen fabrikalarda, inşaat ve yapı camı üreten işletmelerde, mobilya ve mutfak cam ürünleri üreten atölyelerde, otomotiv camı üreten tesislerde ve cam işleme hizmeti veren sanayi kuruluşlarında istihdam edilmektedir. İnşaat sektöründeki cam cephe ve iç mekân uygulamalarının yaygınlaşması, bu alandaki iş gücü talebini desteklemektedir.",
+ "kazanc": {
+  "egitim_suresince": "Eğitim bir kurum bünyesinde kurs yoluyla alınıyorsa genellikle herhangi bir kazanç söz konusu değildir. İşbaşında usta yanında yetişme sürecinde ise işletmenin uygulamasına göre asgari ücret düzeyinde bir ödeme yapılabilir.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde işe başlar.",
+   "Deneyim, beceri düzeyi ve işletmenin büyüklüğüne göre ücret artış gösterebilir.",
+   "Özel sektörde çalışma, işveren ile yapılan anlaşmaya ve işletmenin uygulamalarına göre değişiklik gösterir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Sektörde deneyim kazanan operatörler, isterlerse ileri CNC programlama ve cam işleme teknolojileri konusunda ek kurslara katılarak bilgi ve becerilerini geliştirebilir.",
+  "is_hayatinda": "Meslekte deneyim kazanan operatörler usta operatörlüğe, ekip sorumluluğuna veya vardiya amirliğine yükselebilir. Teknik bilgi ve yönetim becerisini geliştirenler üretim şefliği gibi görevlere getirilebilir."
+ },
+ "benzer_meslekler": [
+  "Cam ve Cam Eşya Rodajcısı",
+  "Cam Levha Kesme ve Koparma Makinesi Operatörü",
+  "Cam Eşya Taşlama Makinesi Operatörü",
+  "Cam Eşya Kesici (Makineyle)",
+  "Soğuk Kesimci (Cam)",
+  "Cam Levha Parlatıcısı"
+ ],
+ "ek_bilgiler": "Cam işleme sektöründe otomasyon ve bilgisayar kontrollü makinelerin kullanımı giderek yaygınlaşmaktadır; bu nedenle temel bilgisayar ve CNC programı okuma becerisine sahip olmak istihdamda avantaj sağlayabilir.",
+ "gorevler": [
+  "İş emrine göre cam işleme programını seçer ve parametreleri girer.",
+  "Cam levhayı vakum vantuzları ile makineye emniyetle sabitler.",
+  "Elmas uçlu takımların aşınma durumunu ve su soğutmasını kontrol eder.",
+  "İşlem sonrası cam kenarlarının parlaklığını ve ölçü doğruluğunu denetler.",
+  "Makinenin günlük temizliğini ve filtre bakımını yürütür.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T17:01:33",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 4484
+  }
+ }
+}

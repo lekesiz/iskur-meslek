@@ -1,0 +1,74 @@
+{
+ "arac_gerec": [
+  "Halı onarım makinesi (üst ve alt levent sistemi)",
+  "Konfeksiyon tabancısı ve iğnesi",
+  "Renkli iplik bobinleri",
+  "Kesim makası",
+  "El tığı",
+  "El iğnesi",
+  "Halı temizleme fırçası/aparatı",
+  "Makine bakım takımları (anahtar, yağlama gereçleri)"
+ ],
+ "benzer_meslekler": [
+  "Çorap Onarıcı",
+  "Halı Dokuyucu (Otomatik Tezgah)",
+  "Jakarlı Halı Dokuyucu-Otomatik Tezgah",
+  "Jakarsız Halı Dokuyucu-Otomatik Tezgah",
+  "Halı Saçak Makinesi İşçisi",
+  "Halı Kenarı Örme Makinesi İşçisi"
+ ],
+ "calisma_alanlari": "Halı onarıcıları (makine ile) genellikle halı üretim fabrikalarında, halı onarım ve bakım atölyelerinde, halı yıkama tesislerinin onarım bölümlerinde ve halı ihracatı yapan firmaların kalite kontrol/onarım birimlerinde çalışabilirler. Kendi atölyesini açarak serbest olarak da çalışabilirler. Kamu kurumlarında bu meslekte istihdam olanağı bulunmamaktadır; iş bulma olanakları genellikle halı üretiminin yoğun olduğu bölgelerdeki özel sektör işletmelerinde yer almaktadır.",
+ "calisma_ortami": "Halı onarıcıları, halı üreten veya onaran fabrika ve atölyelerde, kapalı mekanlarda çalışırlar. Çalışma ortamı makine gürültüsüne ve yeterli havalandırma bulunmadığında hava lifi tozuna sahip olabilir. Çalışma genellikle tam gün sürdürülür; işletmenin üretim hacmine göre vardiyalı çalışma söz konusu olabilir.\n\nMeslek mensupları çalışırken esas olarak makine, iplik ve halı ile ilgilenir; zaman zaman işvereni, ustabaşı, meslektaşları ve diğer bölüm çalışanlarıyla iletişim kurar. İşin niteliği nedeniyle uzun süre ayakta durmayı, dikkatli ve ince işçilik gerektiren hareketleri sürdürmeyi gerektirir.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi, Halk Eğitim Merkezleri bünyesinde açılan ilgili tekstil/el sanatları teknolojisi alanındaki kurslarda ve İŞKUR'un açtığı mesleki eğitim kurslarında verilebilmektedir. Ayrıca halı üretim ve onarım işletmelerinde işbaşında, usta yanında uygulamalı olarak da yetişmek mümkündür.",
+  "giris_kosullari": [
+   "Her yaş, eğitim, sosyal statü ve kültür düzeyindeki kişiler kurslara katılabilir.",
+   "18 yaşından küçükler, veli izni ile katılabilir.",
+   "İlköğretim çağındakiler, okul saatleri dışındaki serbest zamanlarda kursa devam edebilir.",
+   "Uygulanacak programın özelliğine göre belirli bir yaş ve eğitim düzeyi istenebilir; bu durum eğitim kurumunca duyurulur."
+  ],
+  "sure_ve_icerik": "Kursların süresi ve içeriği, eğitimi veren kuruma ve programa göre değişmektedir. Eğitim süresince halı yapısı ve kusur türleri, iplik çeşitleri ve renk eşleştirme, konfeksiyon tabancısı ile onarım işlemi, elde tığ ve iğne kullanarak onarım teknikleri, makine kullanımı, bakımı ve iş güvenliği gibi konularda bilgi ve uygulama kazandırılır.",
+  "belge": "Eğitimi tamamlayanlara kurs bitirme belgesi verilmektedir. İşletmelerde usta yanında yetişenler ise doğrudan işe alınarak deneyim kazanabilir."
+ },
+ "ek_bilgiler": "Bu meslekte renk ayırt etme becerisi ve ince el işçiliği ön plandadır. Mesleki Yeterlilik Kurumu (MYK) belgesi, iş bulmada ve mesleki gelişimde tercih sebebi olabilir.",
+ "genel_ozellikler": [
+  "El becerisine sahip,",
+  "Göz ve elini eşgüdümle kullanabilen,",
+  "Renkleri ayırt edebilen,",
+  "Dikkatli ve titiz,",
+  "Sabırlı,",
+  "Düzenli ve sistemli çalışabilen,",
+  "Uzun süre ayakta çalışabilecek fiziksel güce sahip"
+ ],
+ "gorevler": [
+  "Kusurlu halıyı makinenin üst leventine sarar.",
+  "Kullanacağı renkli iplik bobinlerini seçip makineye yerleştirir.",
+  "İplik uçlarını bulup uçları konfeksiyon tabancısının iğnesine takar.",
+  "Makineyi çalıştırıp üst leventten alt levente sarılmakta olan halıyı kontrol ederek kusurlu kısmı tespit eder.",
+  "Tespit ettiği kusurlu kısmı konfeksiyon tabancısı ile doldurur.",
+  "Onarılan kısımdaki iplik fazlalıklarını makasla keserek düzeltir.",
+  "Makineden çıkan halılardaki gözden kaçan kusurlu kısımları elde tığ ve iğne kullanarak onarır ve makineyi temizler.",
+  "Makinenin bakım ve onarımını yapar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "İşletmenin yapısına ve büyüklüğüne göre, çalışanlara işletme bünyesinde hizmet içi eğitim programları düzenlenebilir. Usta yanında yetişenler, deneyim kazandıkça daha karmaşık onarım işlemlerini üstlenebilir.",
+  "is_hayatinda": "Deneyim kazanan halı onarıcıları, çalıştıkları işletmede ustabaşı veya atölye şefi olabilir. Yeterli birikim ve sermayeye sahip olanlar kendi onarım atölyesini kurabilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Halk Eğitim Merkezleri veya İŞKUR kurslarında eğitim süresince genellikle bir kazanç söz konusu değildir. İşletmede usta yanında işbaşı eğitimi alanlara, işletmenin uygulamasına bağlı olarak sınırlı bir ücret ödenebilir.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanların kazancı genellikle asgari ücret düzeyindedir.",
+   "Deneyim, hız ve işçilik kalitesi arttıkça kazanç da artabilir.",
+   "Özel sektörde ücret, işletme ile çalışan arasındaki anlaşmaya, işin hacmine ve işletmenin büyüklüğüne göre değişebilir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T13:50:19",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 4190
+  }
+ }
+}

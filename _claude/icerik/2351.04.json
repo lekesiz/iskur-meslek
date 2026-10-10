@@ -1,0 +1,73 @@
+{
+ "arac_gerec": [
+  "Bilgisayar ve ofis yazılımları",
+  "İstatistik ve veri analizi programları (SPSS, R, Excel vb.)",
+  "Test/madde bankası yönetim yazılımları",
+  "Çevrimiçi test ve sınav platformları",
+  "Madde analiz ve psikometrik analiz araçları",
+  "Optik okuyucu ve optik form değerlendirme sistemleri",
+  "Veri tabanı yönetim sistemleri",
+  "Sunum araçları (projeksiyon, sunum yazılımları)",
+  "Yazıcı, tarayıcı gibi ofis donanımları",
+  "Soru bankası ve doküman arşivleme sistemleri",
+  "Değerlendirme kriterleri ve puanlama anahtarı şablonları"
+ ],
+ "genel_ozellikler": [
+  "Analitik düşünme becerisine sahip,",
+  "Dikkatli ve ayrıntılara özen gösteren,",
+  "İstatistiksel ve sayısal bilgiye hakim,",
+  "Yazılı ifade becerisi güçlü,",
+  "Gizliliğe ve veri güvenliğine önem veren,",
+  "Ekip çalışmasına yatkın,",
+  "Sabırlı ve titiz,",
+  "Eğitim bilimleri ve ölçme-değerlendirme alanına ilgili,"
+ ],
+ "calisma_ortami": "Test Geliştirme Uzmanı, genellikle büro ortamında bilgisayar başında çalışır. Çalışma sürecinde soru yazarları, alan uzmanları, öğretmenler, eğitim programcıları ve istatistikçilerle sürekli iletişim kurar; test spesifikasyonlarını hazırlamak ve soruları redakte etmek için yoğun yazılı ve sözlü iletişim gerektirir. Deneme sınavları (pilot uygulama) aşamasında zaman zaman okul veya sınav merkezlerine giderek uygulamaları gözlemleyebilir.\n\nÇalışma genellikle mesai saatleri içinde yürütülür; ancak sınav dönemlerinde ve proje teslim tarihlerine yaklaşıldığında yoğun ve sıkışık bir çalışma temposu söz konusu olabilir. İşin niteliği gereği gizlilik ve veri güvenliği kurallarına titizlikle uyulması gerekir; soru ve test içeriklerinin yetkisiz kişilerle paylaşılmaması büyük önem taşır.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi, üniversitelerin eğitim fakültelerinin Ölçme ve Değerlendirme, Eğitim Programları ve Öğretim, Rehberlik ve Psikolojik Danışmanlık, Psikoloji veya İstatistik gibi ilgili lisans programlarında verilmektedir. Bu alanda çalışmak isteyenlerin, lisans eğitiminin ardından Eğitimde Ölçme ve Değerlendirme alanında yüksek lisans yapması genellikle tercih edilmektedir.",
+  "giris_kosullari": [
+   "Lise veya dengi okul mezunu olmak",
+   "YKS (Yükseköğretim Kurumları Sınavı) Kılavuzunda belirtilen şartları taşımak ve ilgili lisans programına yeterli puanla yerleşmek",
+   "Meslek Yüksekokulları ile Açık Öğretim Ön Lisans Programlarının ilgili bölümlerinden mezun olanlar, Dikey Geçiş Sınavı (DGS) ile ilgili lisans programlarına geçiş yapabilir"
+  ],
+  "sure_ve_icerik": "Lisans eğitimi genellikle 4 yıl sürer. Eğitim süresince ölçme ve değerlendirme, istatistik, test geliştirme teknikleri, madde yazımı, psikometri, eğitim programları gibi dersler okutulur; teorik derslerin yanı sıra uygulamalı çalışmalara da yer verilir. Mesleğe yönelik uzmanlaşma genellikle lisans sonrası Eğitimde Ölçme ve Değerlendirme alanındaki yüksek lisans programlarıyla sağlanır. Ayrıca kurum içi eğitimler, mesleki seminerler ve istatistik yazılımlarına yönelik kurslarla bilgi ve beceriler geliştirilebilir.",
+  "belge": "İlgili alanda lisans diploması; çoğunlukla ölçme ve değerlendirme alanında yüksek lisans diploması veya bu alanda alınmış sertifikalar."
+ },
+ "calisma_alanlari": "Test Geliştirme Uzmanları; Milli Eğitim Bakanlığı'na bağlı ölçme ve değerlendirme birimlerinde, sınav yapan kamu kurumlarında, üniversitelerin ölçme ve değerlendirme merkezlerinde, özel eğitim kurumları ve dershanelerde, eğitim yayıncılığı ve eğitim teknolojisi şirketlerinde, yabancı dil ve mesleki yeterlilik sınavları düzenleyen kuruluşlarda, kurumsal insan kaynakları/seçme-yerleştirme süreçlerinde test geliştiren özel sektör kuruluşlarında çalışma alanı bulabilirler. Dijitalleşen eğitim ve ölçme sistemleri nedeniyle bu alandaki istihdam olanakları giderek artmaktadır.",
+ "kazanc": {
+  "egitim_suresince": "Lisans eğitimi süresince öğrenciler, Kredi ve Yurtlar Genel Müdürlüğü'nün sunduğu öğrenim kredisi ve yurt hizmetlerinden, ayrıca çeşitli kamu ve özel kurum/kuruluşların sağladığı burslardan yararlanabilirler.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında istihdam edilenler 657 sayılı Devlet Memurları Kanunu'na göre belirlenen derece ve kademe üzerinden maaş alır; ayrıca ek ödeme ve tazminatlardan yararlanabilirler.",
+   "Özel sektörde çalışanların ücreti; işletmenin büyüklüğüne, deneyime, uzmanlık düzeyine ve pazarlık gücüne göre değişkenlik gösterir; mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde veya buna yakın bir ücretle işe başlayabilir, deneyim kazandıkça ücret artabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Bu alanda çalışanlar, Eğitimde Ölçme ve Değerlendirme veya ilgili alanlarda yüksek lisans ve doktora yaparak akademik kariyer yapabilir; ölçme-değerlendirme, istatistik ve psikometri konularında düzenlenen seminer, konferans ve sertifika programlarına katılarak kendilerini geliştirebilirler.",
+  "is_hayatinda": "Deneyim kazanan Test Geliştirme Uzmanları, kurumlarında ölçme ve değerlendirme birim sorumlusu, proje yöneticisi veya müdür gibi yönetici pozisyonlarına yükselebilir; alanında uzmanlaşarak danışmanlık hizmeti verebilir veya kendi test geliştirme/danışmanlık işletmesini kurabilirler."
+ },
+ "benzer_meslekler": [
+  "Ölçme ve Değerlendirme Uzmanı",
+  "Sınav Araştırma Uzmanı",
+  "Sınav Hizmetleri Uzmanı",
+  "Eğitim Öğretim Planlayıcısı",
+  "Eğitim Teknoloğu",
+  "Öğretim Metotları Danışmanı"
+ ],
+ "ek_bilgiler": "Mesleğin icrası, bilgi ve iletişim teknolojilerinin eğitim alanında yaygınlaşmasına paralel olarak önem kazanmaktadır; dijital/çevrimiçi sınav uygulamalarının artması bu alandaki istihdam olanaklarını genişletmektedir. Mesleki Yeterlilik Kurumu (MYK) belgesi bu meslek için yasal bir zorunluluk olmamakla birlikte, istihdamda tercih sebebi olabilir.",
+ "gorevler": [
+  "Ölçülecek hedeflere uygun test spesifikasyon tablolarını hazırlar.",
+  "Soru yazarlarını koordine eder ve gelen soruları redakte eder.",
+  "Deneme sınavları (pilot uygulama) yaparak testin işlerliğini ölçer.",
+  "Test puanlama anahtarlarını ve değerlendirme kriterlerini belirler.",
+  "Ölçme sonuçlarına göre testlerin güncellenmesi süreçlerini yönetir.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T03:17:11",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5197
+  }
+ }
+}

@@ -1,0 +1,75 @@
+{
+ "arac_gerec": [
+  "Endeksör (el terminali) cihazı",
+  "GPRS/GSM üzerinden veri aktarım modülü",
+  "Taşınabilir fatura yazıcısı",
+  "Yedek batarya/şarj cihazı",
+  "Sayaç kapağı açma aparatı",
+  "Kimlik/görev kartı",
+  "Adres ve abone listesi",
+  "Kırtasiye malzemeleri (form, kalem)",
+  "Koruyucu giysi, yağmurluk",
+  "El feneri",
+  "Bisiklet, motosiklet veya hizmet aracı"
+ ],
+ "benzer_meslekler": [
+  "Sayaç Okuma Elemanı (Su)",
+  "Sayaç Okuma Elemanı (Doğal Gaz)",
+  "Endeks Okuma Görevlisi",
+  "Parkomat Görevlisi",
+  "Kurye"
+ ],
+ "calisma_alanlari": "Sayaç Okuma Elemanı (Elektrik), başta elektrik dağıtım şirketleri olmak üzere, bu şirketlere hizmet veren yüklenici/taşeron firmalarda ve bazı belediyelerin ilgili birimlerinde çalışabilir.",
+ "calisma_ortami": "Bu meslek açık havada, genellikle yürüyerek veya kısa mesafeli araçla ulaşım yoluyla, sokak sokak dolaşarak saha çalışması şeklinde yürütülür. Çalışanlar, mevsim koşullarına (sıcak, yağmur, kar) açık ortamlarda; apartman, site, ev ve işyeri gibi farklı mekanların giriş katlarına veya sayaçların bulunduğu alanlara girerek görev yapar; gün içinde uzun süre yürümek ve merdiven kullanmak zorunda kalabilirler.\\n\\nÇalışma saatleri genellikle gündüz ve işletmenin belirlediği rota/program çerçevesinde düzenlidir. Meslek elemanları çalışmaları sırasında aboneler, apartman yöneticileri/kapıcılar ve zaman zaman evcil hayvanlarla (köpek vb.) karşılaşabilir; bu nedenle iletişim becerisi ve dikkat önem taşır.",
+ "ek_bilgiler": "Elektrik tüketiminin uzaktan ve otomatik olarak okunabildiği akıllı sayaç (AMI) sistemlerinin yaygınlaşması, orta ve uzun vadede bu mesleğe olan ihtiyacı azaltabilecek bir gelişme olarak değerlendirilmektedir. Mesleğin icrası sırasında saha güvenliği ve trafik kurallarına uyulması önemlidir.",
+ "egitim": {
+  "verildigi_yerler": "Bu mesleğe yönelik mesleki ve teknik ortaöğretimde ayrı bir alan/dal bulunmamaktadır. Meslek elemanları genellikle elektrik dağıtım şirketleri tarafından işe alındıktan sonra işbaşında eğitim yoluyla veya İŞKUR ile Halk Eğitim Merkezlerinin açtığı kısa süreli mesleki eğitim kursları aracılığıyla yetişmektedir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "Sağlık durumunun açık havada ve yürüyerek yapılan saha çalışmasına uygun olması",
+   "Bazı işletmelerde belirli bir yaş sınırı ve sürücü belgesi şartı istenebilir"
+  ],
+  "sure_ve_icerik": "Mesleğin örgün bir eğitim programı bulunmamaktadır. İşe alınan kişiler, işletme bünyesinde kısa süreli (günler ile haftalar arasında değişen) uygulamalı eğitimlerle endeksör cihazının kullanımı, sayaç okuma teknikleri, veri aktarımı, müşteri ilişkileri ve iş sağlığı-güvenliği konularında yetiştirilir.",
+  "belge": "İşletme veya kurs tarafından verilen katılım/kurs bitirme belgesi alınabilir; ayrıca Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "genel_ozellikler": [
+  "Dikkatli ve dürüst",
+  "Sabırlı ve güler yüzlü",
+  "Fiziksel olarak dayanıklı (uzun süre yürüyebilen)",
+  "Yön bulma ve rota takip etme becerisine sahip",
+  "Sorumluluk bilincine sahip",
+  "İnsan ilişkilerinde başarılı",
+  "Basit teknolojik cihazları (endeksör vb.) kolay kullanabilen",
+  "Her türlü hava koşulunda çalışmaya istekli"
+ ],
+ "gorevler": [
+  "Endeksör cihazına yüklenen adreslere gider ve endeks okuma bilgilerini endeksör cihazına kaydeder.",
+  "Gidilen adreste müşterilerin sayacı üzerindeki endeksi okur ve tüketim miktarını tespit eder.",
+  "Müşteri sayacı üzerindeki son endeksin girişini endeksör cihazının klavyesini kullanarak manuel olarak yapar.",
+  "Endeksör cihazına girilen endeks verisini GPRS uygulaması ile GSM operatörü üzerinden bilgi işlem ana sunucusuna ulaştırır.",
+  "Bilgi işleme ulaşan endeks verisinin işlemci tarafından hesaplanmasıyla, aynı yoldan endeksör cihazında fatura bilgisini tespit eder ve fatura basımını gerçekleştirir.",
+  "İşlemcinin hesaplama yapmasıyla fatura bilgilerinin ana sunucuya kaydedilmesini sağlar.",
+  "Abonelerin sayaçları okunduğu anda bilgilerin online olarak sisteme geçmesini sağlar ve anında fatura çıkarır.",
+  "Endeksör cihazı ile okunan fatura bilgilerini müşteri adreslerine bırakır.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Bu meslek için örgün bir mesleki eğitim programı bulunmadığından, meslek içinde doğrudan bir eğitim basamağı ilerlemesi yoktur. İsteyen meslek elemanları açık öğretim veya ilgili teknik/meslek yüksekokulu programlarına yönelerek eğitim düzeylerini yükseltebilirler.",
+  "is_hayatinda": "Deneyim kazanan sayaç okuma elemanları saha ekip sorumluluğu, kontrol/denetim elemanlığı veya işletmenin operasyon/müşteri hizmetleri birimlerinde büro görevlerine yükselebilirler."
+ },
+ "kazanc": {
+  "egitim_suresince": "Örgün bir mesleki eğitim programı bulunmadığından eğitim süresince ayrı bir ücret söz konusu değildir; işe alınanlar işbaşında eğitim sürecinde de işletme tarafından belirlenen normal ücretlerini alırlar.",
+  "egitim_sonrasi": [
+   "Kamu kuruluşu niteliğindeki işletmelerde çalışanlar 657 sayılı Devlet Memurları Kanunu veya ilgili toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde işe başlarken genellikle asgari ücret düzeyinde kazanç sağlanır; deneyim, performans ve işletmenin büyüklüğüne göre kazanç artabilir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T21:07:46",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5226
+  }
+ }
+}

@@ -1,0 +1,84 @@
+{
+ "arac_gerec": [
+  "Multimetre (avometre)",
+  "Osiloskop",
+  "Kablo ve hat test cihazları",
+  "Fiber optik ölçüm cihazı (OTDR) ve fiber ek/kaynak makinesi",
+  "Spektrum analizörü ve network test cihazları",
+  "Kablolama ve konnektör sıkma (crimping) aletleri",
+  "Lehim istasyonu ve lehim malzemeleri",
+  "Tornavida, pense, lokma takımı gibi temel el aletleri",
+  "Dizüstü bilgisayar ve yapılandırma/arıza tespit yazılımları",
+  "Yedek parça ve kart/modül takımları",
+  "Yükseğe çıkma ekipmanları (merdiven, platform, emniyet kemeri)",
+  "Kişisel koruyucu donanım (eldiven, baret, yalıtkan ayakkabı)"
+ ],
+ "genel_ozellikler": [
+  "Elektrik ve elektronik alanına ilgili ve bu alanda bilgi sahibi,",
+  "El ve parmak becerisine sahip,",
+  "Dikkatli, tedbirli ve sorumluluk duygusu gelişmiş,",
+  "Analitik düşünebilen ve problem çözme yeteneği gelişmiş,",
+  "Takım çalışmasına uyumlu,",
+  "Teknolojik gelişmeleri takip edebilen ve yeniliklere açık,",
+  "Fiziksel olarak dayanıklı, gerektiğinde açık havada ve yükseklikte çalışabilecek,",
+  "Planlı ve düzenli çalışma alışkanlığına sahip"
+ ],
+ "calisma_ortami": "Telekomünikasyon Bakım Onarım Ustası; telekom santralleri, baz istasyonları, teknik odalar, veri merkezleri ve dağıtım dolapları gibi kapalı mekânlarda, bazen de şebeke hatlarının ve altyapı donanımlarının bulunduğu açık alanlarda, direk, kule veya saha ekipmanları üzerinde çalışır. Çalışma ortamı elektrikli cihazlar, kablolama ve ölçüm aletleriyle doludur; arıza giderme sırasında gerilim altındaki devrelerle temas riski, yükseklikte çalışma ve hava koşullarına açık ortamlarda görev yapma gibi riskler bulunabilir.\n\nMesleğin icrası sırasında genellikle ekip hâlinde, teknisyen, mühendis ve saha sorumlularıyla iş birliği içinde çalışılır. Arızaların acil giderilmesi gerektiğinden çalışma saatleri düzensiz olabilir; vardiyalı çalışma, nöbet veya çağrı üzerine mesai söz konusu olabilir.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi; yeterli talep olması durumunda mesleki eğitim merkezlerinde elektrik-elektronik teknolojisi veya bilişim teknolojileri alanı kapsamındaki ilgili dallarda çıraklık eğitimi yoluyla verilebilmektedir. Bunun yanında Halk Eğitim Merkezleri ve İŞKUR tarafından açılan mesleki eğitim kurslarında da temel beceriler kazandırılmaktadır. Mesleğe giriş genellikle işyerinde usta yanında yetişerek de sağlanmaktadır. İlgili ön lisans/lisans düzeyindeki elektronik-haberleşme, elektrik-elektronik gibi programlar ileri düzey bilgi ve kariyer gelişimi için tercih edilebilir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "Çıraklık eğitimine başlamak için 14 yaşını doldurmuş olmak",
+   "Sağlık durumunun mesleğin gerektirdiği işlere (elektrikle çalışma, gerektiğinde yükseklikte çalışma) uygun olması",
+   "İşyeri bulup çıraklık/mesleki eğitim sözleşmesi imzalamak (çıraklık eğitimi için)"
+  ],
+  "sure_ve_icerik": "Çıraklık eğitimi kapsamında alınan eğitim, ilgili mevzuata göre birkaç yıl sürmekte; haftanın bir bölümü mesleki eğitim merkezinde teorik derslerle, kalan günleri ise işyerinde usta öğretici gözetiminde uygulamalı çalışma ile geçmektedir. Eğitim içeriğinde temel elektrik-elektronik bilgisi, telekomünikasyon şebeke ve cihaz yapıları, ölçüm ve test teknikleri, arıza tespit ve onarım uygulamaları yer almaktadır. Kurs yoluyla yetişenlerde ise süre ve içerik kursun programına göre değişmektedir.",
+  "belge": "Çıraklık eğitimini başarıyla tamamlayanlara kalfalık, ardından ustalık belgesi verilir. Kurslara katılanlara kurs bitirme/katılım belgesi düzenlenir. Mesleki Yeterlilik Kurumu (MYK) tarafından ilgili alanda yeterlilik belgesi bulunması hâlinde bu belge istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Telekomünikasyon Bakım Onarım Ustaları; GSM operatörleri ve sabit hat/internet hizmeti sunan telekomünikasyon şirketlerinde, telekom altyapı kurulum ve bakım hizmeti veren yüklenici/taşeron firmalarda, kamu kurumlarının haberleşme ve bilgi işlem birimlerinde, veri merkezlerinde ve büyük işletmelerin kurumsal haberleşme altyapılarında istihdam edilebilmektedir. Sektördeki şebeke yatırımlarının (fiber altyapı, mobil şebeke genişletme vb.) devam etmesi mesleğe olan talebi etkilemektedir.",
+ "kazanc": {
+  "egitim_suresince": "Çıraklık eğitimi kapsamında işletmede mesleki eğitim gören öğrencilere, 3308 sayılı Mesleki Eğitim Kanunu ve ilgili mevzuat doğrultusunda ücret ödenir; öğrencilerin iş kazası ve meslek hastalığı sigortası devletçe karşılanır. Kurs yoluyla eğitim alanlarda ise genellikle ücret söz konusu değildir.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında istihdam edilenler, görev unvanına göre 657 sayılı Devlet Memurları Kanunu'na veya işçi statüsünde toplu iş sözleşmesi hükümlerine tabi olarak ücret alır.",
+   "Özel sektörde çalışanların kazancı; işyerinin büyüklüğü, kişinin tecrübesi, bilgi ve beceri düzeyi ile sektördeki ücret düzeyine göre değişmektedir; işe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Deneyim ve uzmanlık kazanıldıkça, nöbet/mesai primleri ile birlikte kazanç artabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleki eğitim merkezinden mezun olanlar, YKS Kılavuzunda belirtilen ilgili ön lisans/lisans programlarına (elektronik-haberleşme teknolojisi, elektrik-elektronik teknolojisi gibi) sınavla veya ek puan avantajıyla yerleşebilir. Ayrıca mesleki gelişim kursları ve sertifika programlarıyla bilgi ve becerilerini güncelleyebilir.",
+  "is_hayatinda": "Deneyim kazanan ustalar, ekip lideri, saha teknik sorumlusu veya şebeke operasyon sorumlusu gibi görevlere yükselebilir. İlgili alanda ek eğitim alarak mühendislik destek birimlerinde görev alabilir ya da kendi işini kurarak taşeron/yüklenici firma sahibi olarak çalışabilir."
+ },
+ "benzer_meslekler": [
+  "Telekomünikasyon Bakım Onarım Elemanı",
+  "Telekomünikasyon Şebeke Kurulum Ustası",
+  "Haberleşme Tesisatı Bakım ve Onarımcısı",
+  "Haberleşme Cihazları Bakım ve Onarımcısı",
+  "Baz İstasyonu Montaj Elemanı",
+  "Telekomünikasyon Enerji Sistemleri Elemanı"
+ ],
+ "ek_bilgiler": "Mesleğin icrası sırasında gerektiğinde yüksekte veya açık havada çalışma söz konusu olabileceğinden sağlık durumunun bu koşullara uygun olması önemlidir. Fiber altyapı ve mobil şebeke yatırımlarının sürmesi mesleğe olan talebi olumlu yönde etkilemektedir.",
+ "gorevler": [
+  "İSG, çevre koruma ve kalite gerekliliklerini uygular.",
+  "İş organizasyonu yapar.",
+  "Bakım onarım öncesi hazırlık yapar.",
+  "Bakım ve ayar yapar.",
+  "Terminal ekipman onarımı yapar.",
+  "Veri iletim yolu onarımı yapar.",
+  "Erişim (access) ve edge network cihazlarının onarımını yapar.",
+  "Transmisyon ekipmanlarının onarım ve ayarını yapar.",
+  "Core network (çekirdek şebeke) ekipmanlarının onarımını yapar.",
+  "GSM ekipmanlarının onarımını yapar.",
+  "Katma değerli hizmet vermek için tasarlanmış kutuların (appliance) onarımını yapar.",
+  "Onarımı yapılan elemanların kontrollerini yapar.",
+  "Arızalı parça/eleman değişimini yapar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T06:45:43",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6906
+  }
+ }
+}

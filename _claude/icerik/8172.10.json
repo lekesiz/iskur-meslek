@@ -1,0 +1,80 @@
+{
+ "arac_gerec": [
+  "Katrakt (şerit testereli) kesim makinesi",
+  "Çeşitli şerit testereler",
+  "Testere bileme aleti/makinesi",
+  "Testere kaynak makinesi",
+  "Mal verme arabası (vagonet/traversli araba)",
+  "Yağlama ve soğutma sıvıları (mazot, madeni yağ)",
+  "Ölçü aletleri (ağaç metre, gönye, çizecek)",
+  "El aletleri (çekiç, tornavida, kerpeten, keser)",
+  "Takım dolabı/çantası",
+  "Kişisel koruyucu donanım (eldiven, kulaklık, gözlük, iş elbisesi, çelik burunlu ayakkabı)",
+  "Tomruk ve kalas taşıma ekipmanı (vinç, forklift, transpalet)"
+ ],
+ "genel_ozellikler": [
+  "El, göz ve ayaklarını eş güdümlü kullanabilen,",
+  "Dikkatli ve tedbirli,",
+  "Fiziksel olarak güçlü ve dayanıklı,",
+  "İşitme ve görme duyuları sağlam,",
+  "Makine ve aletleri tekniğine uygun kullanabilen,",
+  "Takım halinde çalışmaya uyumlu,",
+  "Sorumluluk sahibi,",
+  "Düzenli ve temiz çalışan"
+ ],
+ "calisma_ortami": "\"Katrakt Makinesi Operatörleri (Ağaç) kereste ve bıçkı fabrikalarında, orman ürünleri işleme tesislerinde, kontrplak ve ahşap sanayi kuruluşlarının kesim bölümlerinde çalışırlar. Çalışma ortamı genellikle kapalı alan olmakla birlikte havalandırması sınırlı, tozlu ve gürültülü olabilir. İş, büyük tomruk ve kalasların kaldırılıp makineye yerleştirilmesini gerektirdiğinden ağırlıklı olarak ayakta ve fiziksel güç gerektiren koşullarda yürütülür.\\n\\nMeslek icra edilirken kesici testereyle çalışmaktan kaynaklanan el kesilmesi, göze talaş/parça kaçması, ağır tomruk altında ezilme ve uzun süreli gürültüye bağlı işitme kaybı gibi riskler söz konusu olabilir. Operatör, çalışma sırasında yardımcı işçiler, usta başı ve üretim sorumlusuyla sürekli iletişim halindedir; işletmenin üretim programına göre vardiyalı çalışma söz konusu olabilir.\"",
+ "egitim": {
+  "verildigi_yerler": "Katrakt Makinesi Operatörlüğü (Ağaç) için örgün bir meslek lisesi veya çıraklık eğitimi programı bulunmamaktadır. Mesleğe genellikle işbaşında, usta yanında çalışılarak girilir. Orman ürünleri/ağaç işleri teknolojisi alanındaki mesleki ve teknik eğitim programları ile Halk Eğitim Merkezleri ve İŞKUR tarafından açılan mesleki eğitim kursları, bu mesleğe temel oluşturan bilgi ve becerilerin kazandırılmasına yardımcı olabilir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "18 yaşını doldurmuş olmak (ağır makine ve malzemeyle çalışma gerektirdiğinden)",
+   "Sağlık durumunun işin fiziksel gereklerine (görme, işitme, kas-iskelet sistemi) uygun olması",
+   "Çalışmak istediği işyerine başvurarak kabul edilmek veya ilgili kursa kayıt yaptırmak"
+  ],
+  "sure_ve_icerik": "Bu meslekte standart bir eğitim süresi belirlenmemiştir. Genellikle yeni başlayan kişi, deneyimli bir operatörün yanında yardımcı işçi olarak çalışarak makinenin tanıtılması, testere ayarının yapılması, tomruk/kalas kesim ölçülerinin alınması, testere bileme ve bakım işlemleri ile iş güvenliği kurallarını öğrenir. Bu süreç birkaç aydan bir-iki yıla kadar uzayabilir.",
+  "belge": "Resmî bir diploma veya sertifika zorunluluğu bulunmamaktadır. Çalışılan işyerinden alınan deneyim/iş belgesi ile katılınan kurslardan alınan katılım belgeleri önemlidir. Mesleki Yeterlilik Kurumu (MYK) belgesi, varsa istihdamda tercih sebebi olabilir."
+ },
+ "gorevler": [
+  "Makine üzerinde takılı bulunan testere ağzını kontrol eder.",
+  "Körelen testereyi yenisiyle değiştirir.",
+  "Kesilecek tomruk veya kalasların kalınlık ölçülerine göre testerenin çalışma ayarını yapar.",
+  "Kesilecek tomruk veya kalasları makinenin mal verme arabası üzerine bağlar.",
+  "İlgili düğmeye basarak makinenin motorunu çalıştırır.",
+  "Avara kolunu çevirerek makineye yol verip dönen testerenin devrini ayarlar.",
+  "Yardımcı işçilerle birlikte arabayı testereye doğru iterek araba üzerindeki tomruk veya kalasların istenilen ölçülerde kesilmesini sağlar.",
+  "Kesilen parçaları ilgili kısma gönderir.",
+  "İş bitimlerinde makinenin bakım ve temizliğini yapar.",
+  "Körelen testereleri biler.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "calisma_alanlari": "\"Katrakt Makinesi Operatörleri (Ağaç); kereste ve bıçkı fabrikaları, kereste depoları, orman ürünleri işleme tesisleri, kontrplak ve sunta fabrikaları ile mobilya sanayine hammadde hazırlayan ahşap işleme tesislerinde istihdam edilirler. İş bulma olanakları, inşaat, mobilya ve ahşap sanayisindeki üretim hacmine bağlı olarak değişkenlik gösterir.\"",
+ "kazanc": {
+  "egitim_suresince": "İşbaşında yardımcı işçi/çırak olarak başlayanlar genellikle asgari ücret düzeyinde veya buna yakın bir ücretle çalışmaya başlarlar.",
+  "egitim_sonrasi": [
+   "Deneyim ve beceri kazandıkça ücret seviyesi yükselebilir.",
+   "Kazanç; işletmenin büyüklüğü, bölge, operatörün deneyimi ve üretim hacmine göre değişiklik gösterir.",
+   "Çalışma kamuya bağlı bir kuruluşta söz konusu ise ücret, ilgili toplu iş sözleşmesi hükümlerine göre belirlenir; özel sektörde ise işveren ile çalışan arasındaki anlaşmaya bağlıdır."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "İsteyen kişiler, orman ürünleri/ağaç işleri teknolojisi alanındaki mesleki ve teknik eğitim programlarına veya ilgili ön lisans programlarına yönelerek mesleki bilgi ve becerilerini belgelendirebilir ve geliştirebilirler.",
+  "is_hayatinda": "Deneyim kazanan operatörler usta başı, vardiya amiri veya üretim sorumlusu gibi görevlere yükselebilir; yeterli birikim ve sermayeye sahip olanlar kendi kereste/bıçkı işletmelerini kurabilirler."
+ },
+ "benzer_meslekler": [
+  "Hızarcı",
+  "Baş Bıçkıcı (Bıçkı Fabrikası)",
+  "Bıçkı Makinesi Operatörü (Bıçkıcı)",
+  "Şerit Testere Tezgahı Operatörü-Bıçkı Fabrikası",
+  "Kapak Bıçkı Makinesi Operatörü",
+  "Kalem Katrak Makinesi Operatörü"
+ ],
+ "ek_bilgiler": "\"Ağır tomruk ve kalasların kaldırılması/taşınması fiziksel güç gerektirir; testere ile çalışma nedeniyle el kesilmesi, parça fırlaması ve ezilme gibi iş kazası riskleri bulunur. İşyerinde eldiven, kulaklık, gözlük gibi kişisel koruyucu donanımın kullanılması önemlidir.\"",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T16:26:54",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5314
+  }
+ }
+}

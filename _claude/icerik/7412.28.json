@@ -1,0 +1,85 @@
+{
+ "arac_gerec": [
+  "Tornavida ve pense takımları",
+  "Kumpas ve mikrometre",
+  "Avometre (multimetre)",
+  "Megger (yalıtım direnci ölçer)",
+  "Sargı teli (farklı çap ve özellikte)",
+  "Bobin sarma kalıpları",
+  "Basınçlı hava tabancası/kompresör",
+  "Rulman sökme-takma aparatları",
+  "Lehim takımı",
+  "İzolasyon bandı ve emaye vernik",
+  "Bobin kurutma/pişirme fırını",
+  "El aletleri (çekiç, keski, eğe, testere)",
+  "Kaynak makinesi (gerektiğinde)",
+  "Kişisel koruyucu donanım (eldiven, gözlük, yalıtkan ayakkabı)"
+ ],
+ "genel_ozellikler": [
+  "El ve parmaklarını ustalıkla kullanabilen,",
+  "Elektrik ve mekanik konulara ilgili,",
+  "Dikkatli ve sabırlı,",
+  "Renkleri ayırt edebilen,",
+  "Fiziksel olarak sağlıklı ve belirli bir güce sahip,",
+  "Analitik düşünebilen ve problem çözme becerisine sahip,",
+  "Sorumluluk sahibi ve güvenilir,",
+  "Takım çalışmasına uyumlu"
+ ],
+ "calisma_ortami": "Elektrikli motor bakım-onarımcısı, genellikle elektrik motor tamir atölyelerinde, sanayi işletmelerinin bakım-onarım birimlerinde veya fabrikaların üretim/bakım bölümlerinde kapalı ortamda çalışır. Çalışma ortamı zaman zaman gürültülü, tozlu ve yağlı olabilir; motorların sökülüp takılması sırasında ağır parça kaldırma gerekebilir. Elektrik çarpması, yanık ve kesik gibi riskler bulunduğundan iş güvenliği kurallarına ve koruyucu donanım kullanımına dikkat edilmesi gerekir.\n\nÇalışma saatleri genellikle gündüz ve belirli saatler içinde olup, arıza giderme işlerinde mesai gerekebilir. Meslek sahibi; işveren, müşteriler, usta ve çıraklar ile diğer teknik personelle sürekli iletişim halindedir.",
+ "egitim": {
+  "verildigi_yerler": "Bu meslek için örgün eğitimde tek bir standart program bulunmamaktadır; eğitim genellikle mesleki eğitim merkezlerinin elektrik-elektronik teknolojisi alanı kapsamındaki ilgili dallarında, mesleki ve teknik ortaöğretim kurumlarında, Halk Eğitim Merkezleri ile İŞKUR'un açtığı mesleki eğitim kurslarında ve işbaşında usta yanında çalışılarak kazanılmaktadır.",
+  "giris_kosullari": [
+   "En az ilköğretim/ortaokul mezunu olmak",
+   "Çıraklık eğitimine başlamak için 14 yaşını doldurmuş olmak",
+   "Sağlık durumunun mesleğin gerektirdiği fiziksel ve elektrikle ilgili işlere uygun olması",
+   "Eğitim görmek istediği meslekte bir işyeri bulup işvereniyle çıraklık sözleşmesi imzalamak (çıraklık eğitimi için)"
+  ],
+  "sure_ve_icerik": "Mesleki eğitim merkezlerinde verilen eğitim, kalfalık ve ustalık aşamalarından oluşur ve birkaç yıl sürer; teorik dersler haftada belirli gün sayısında merkezde, uygulamalı eğitim ise işyerinde usta öğretici gözetiminde yürütülür. İçerikte elektrik motorlarının yapısı ve çalışma prensibi, sargı sarma teknikleri, ölçme-kontrol yöntemleri, arıza tespiti ve onarım teknikleri yer alır. Ayrıca Halk Eğitim Merkezleri ve İŞKUR'un açtığı kısa süreli mesleki eğitim kursları ile de mesleğe yönelik bilgi ve beceri kazandırılmaktadır.",
+  "belge": "Mesleki eğitim merkezlerinden mezun olanlara kalfalık ve ustalık belgesi, kurslara katılanlara ise kurs bitirme/katılım belgesi verilir. Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "gorevler": [
+  "Elektrikli motora ait sargı, rotor, stator, mil, rulman, tüm mekanik kısımlar, rulman kapakları, fan, klemens, iç ve dış temizliği vb. kontrol eder.",
+  "Motordaki sargı yanıklığı, çatlak, kırık ve arızaları tespit eder.",
+  "Motorun içinde bulunan yanık sargı tellerini söker, bobini parçalamadan tam olarak çıkarır.",
+  "Kalıp ölçülerini, sipirini alır.",
+  "Mikrometre ile telin çapını ölçer.",
+  "Ölçülere göre yeni teli, kalıplarda sipir sayılarına göre sararak hazırlar.",
+  "Stator oluklarına ve motora basınçlı hava tutmak suretiyle motorun iç ve dış temizliğini yapar.",
+  "Rulmanların tamir, bakım ve temizliğini yapar.",
+  "Sökülen parçaları onarır veya onarılamayacak olan parçaları yenisi ile değiştirir.",
+  "Yaptığı tamir ve bakıma göre maliyet hesabı çıkarır.",
+  "Kullanılan alet ve ekipmanların bakım ve temizliğini yapar.",
+  "Mesleği alanındaki gelişmeleri takip eder ve uygular.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "calisma_alanlari": "Elektrikli motor bakım-onarımcıları; elektrik motor tamir ve bakım atölyelerinde, sanayi işletmelerinin bakım-onarım birimlerinde, elektrik motoru üreten fabrikalarda, jeneratör ve pompa servislerinde çalışma olanağı bulabilirler. Ayrıca kendi işyerini açarak bağımsız olarak da çalışabilirler. Sanayileşmenin ve makineleşmenin yaygınlaşması, elektrik motorlarının kullanıldığı alanların çok çeşitli olması nedeniyle bu mesleğe duyulan ihtiyaç sürmektedir.",
+ "kazanc": {
+  "egitim_suresince": "Mesleki eğitim merkezinde çırak statüsünde eğitim görenler, 3308 sayılı Mesleki Eğitim Kanunu kapsamında işletmelerde asgari ücretin belirli bir oranında ücret alır; Halk Eğitim Merkezleri veya İŞKUR'un açtığı kısa süreli kurslara katılanlar için genellikle ayrıca bir ücret ödemesi söz konusu değildir.",
+  "egitim_sonrasi": [
+   "Kamuda bu meslekte işçi statüsünde istihdam söz konusu olduğunda ücretlendirme ilgili toplu iş sözleşmesi hükümlerine göre yapılır.",
+   "Özel sektörde yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar; kazanç işyerinin büyüklüğüne, kişinin tecrübe ve yeteneğine, sektörün ücret düzeyine göre değişebilir.",
+   "Kendi işyerini açarak bağımsız çalışanların kazancı aldıkları işe ve müşteri potansiyeline göre değişkenlik gösterir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleki eğitim merkezinden diploma alanlar, alanın devamı niteliğindeki mesleki ve teknik eğitim programlarını tercih edebilir; ayrıca çeşitli kurs ve sertifika programlarına katılarak bilgi ve becerilerini geliştirebilirler.",
+  "is_hayatinda": "Deneyim kazandıkça ustalaşarak usta, atölye sorumlusu veya bakım-onarım şefi olarak çalışabilir; yeterli birikim ve sermayeye sahip olanlar kendi işyerini açarak bağımsız çalışabilir."
+ },
+ "benzer_meslekler": [
+  "Jeneratör Tamircisi",
+  "Elektrik Montörü (Motor ve Dinamo)",
+  "Endüstriyel Bakım-Onarım Elektrikçisi",
+  "İşletme Elektrik Bakımcısı",
+  "Elektrik Tamircisi",
+  "Oto Elektrikçisi"
+ ],
+ "ek_bilgiler": "Elektrikli motorların sanayi, tarım ve ev aletlerinde yaygın kullanımı nedeniyle bu meslekteki istihdam olanakları özellikle sanayi bölgelerinde geniştir. Mesleğin icrası sırasında elektrik çarpması ve yaralanma riski bulunduğundan iş sağlığı ve güvenliği kurallarına uyulması ve koruyucu donanımın kullanılması önemlidir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T06:06:54",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6316
+  }
+ }
+}

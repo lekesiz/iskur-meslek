@@ -1,0 +1,82 @@
+{
+ "arac_gerec": [
+  "Basınç gösteren ölçüm araçları",
+  "Sıcaklık ölçme donanımları",
+  "Seviye göstergeleri (şamandıralı, basınçlı ve diğer tipler)",
+  "Akış miktarı ölçme enstrümanları",
+  "Numune alma ekipmanları ve numune kapları",
+  "Laboratuvar analiz cihazları ve kimyasal maddeler",
+  "Proses suyu arıtma ve filtrasyon donanımları",
+  "Vana, pompa ve boru hattı ekipmanları",
+  "Proses kontrol panelleri ve izleme/otomasyon sistemleri",
+  "Gaz dedektörü ve alarm cihazları",
+  "Kişisel koruyucu donanım (gaz maskesi, koruyucu gözlük, eldiven, özel iş elbisesi)",
+  "Bilgisayar ve kayıt/rapor formları"
+ ],
+ "genel_ozellikler": [
+  "Fen bilimlerine, özellikle kimyaya ilgili,",
+  "Dikkatli ve tedbirli,",
+  "Sorumluluk sahibi,",
+  "Yönergeleri eksiksiz uygulayabilen,",
+  "Takım halinde çalışmaya uyumlu,",
+  "Vardiyalı çalışmanın gerektirdiği fiziksel ve psikolojik koşullara uygun,",
+  "Acil durumlarda hızlı ve doğru karar verebilen,",
+  "El ve göz koordinasyonu iyi"
+ ],
+ "calisma_ortami": "Petrokimya Üretim Elemanı, petrokimya tesislerinin üretim üniteleri, proses sahaları ve bağlı laboratuvarlarda çalışır. Çalışma ortamı genellikle gürültülü olup, yanıcı, parlayıcı ve bazı durumlarda zehirli etkiye sahip kimyasal maddelerle çalışma riski taşır; bu nedenle kişisel koruyucu donanım kullanımı ve iş güvenliği kurallarına titizlikle uyulması gerekir. Çalışma, tesisin açık ve kapalı alanlarında sürebilir ve çoğunlukla vardiya sistemiyle (gece, gündüz, hafta sonu ve resmî tatiller dâhil) yürütülür.\n\nGörevlerini yerine getirirken mühendisler, teknisyenler, vardiya amirleri ve diğer üretim çalışanlarıyla sürekli iletişim halindedir. İşin niteliği, dikkatin sürekli yüksek tutulmasını ve ekip içinde koordineli çalışmayı gerektirir.",
+ "calisma_alanlari": "Petrokimya Üretim Elemanları, başlıca petrokimya tesislerinde, petrol rafinerilerine bağlı üretim ünitelerinde ve bu tesislerle ilişkili kimyasal madde üretim tesislerinde istihdam edilir. Türkiye'de bu alanda faaliyet gösteren tesis sayısı sınırlı olduğundan ve üretim genellikle büyük ölçekli entegre tesislerde yoğunlaştığından, mesleğin istihdam kapasitesi görece sınırlıdır. Buna karşın, sektördeki yatırımlar, kapasite artışları ve mevcut çalışanların emeklilik/rotasyonu gibi etkenlere bağlı olarak iş bulma olanakları zaman içinde değişebilmektedir.",
+ "ek_bilgiler": "Petrokimya tesisleri, yanıcı, parlayıcı ve bazı durumlarda zararlı kimyasal maddelerle çalışılması nedeniyle iş sağlığı ve güvenliği açısından yüksek risk taşıyan işyerleri arasında değerlendirilir; bu nedenle düzenli sağlık kontrolü ve kişisel koruyucu donanım kullanımı önemlidir. Mesleki Yeterlilik Kurumu (MYK) Mesleki Yeterlilik Belgesi, sektöre girişte ve istihdamda tercih sebebi olabilir; tehlikeli/çok tehlikeli iş kollarında bu belgenin aranıp aranmayacağı, çalışılacak işletmenin ve ilgili mevzuatın belirlediği koşullara göre değişir.",
+ "egitim": {
+  "verildigi_yerler": "Bu mesleğe yönelik örgün bir ön lisans veya lisans programı bulunmamaktadır. Mesleğin bilgi ve becerileri genellikle lise mezuniyeti sonrasında işletmelerin kendi bünyesinde verdiği işbaşı eğitimler yoluyla, kimya veya petrokimya teknolojisi ile ilişkili meslek lisesi alanlarından gelen adayların tecrübesiyle ya da Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kursları aracılığıyla kazanılmaktadır.",
+  "giris_kosullari": [
+   "Lise veya dengi okul mezunu olmak",
+   "İşe alım sürecinde işletmenin belirlediği sınav, mülakat ve sağlık muayenesi şartlarını karşılamak",
+   "Vardiyalı çalışmaya ve işin fiziksel gerekliliklerine uygun sağlık durumuna sahip olmak"
+  ],
+  "sure_ve_icerik": "Mesleğe özgü standart bir eğitim süresi ve müfredatı bulunmamaktadır. İşe yeni başlayanlar, deneyimli personel gözetiminde (usta yanında eğitim şeklinde) temel kimya, laboratuvar uygulamaları, proses kontrol sistemleri, numune alma ve analiz teknikleri, su arıtma işlemleri ile iş sağlığı ve güvenliği konularında uygulamalı eğitim alır. Bu süreç işletmeden işletmeye değişmekle birlikte genellikle birkaç ay sürer.",
+  "belge": "Örgün bir eğitim programı bulunmadığından diploma verilmez; işletme içi eğitim sürecini tamamlayanlara işletme tarafından katılım veya yeterlilik belgesi verilebilir. Çalışılan iş kolunun risk sınıfına göre Mesleki Yeterlilik Kurumu (MYK) Mesleki Yeterlilik Belgesi istenebilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "İşletme bünyesinde işbaşı eğitim sürecinde çalışanlar, genellikle asgari ücret düzeyinde ücret alır; bazı işletmelerde bu dönem için ek eğitim ödeneği veya destek sağlanabilir.",
+  "egitim_sonrasi": [
+   "Kamuya bağlı işletmelerde işçi statüsünde çalışanlar, tabi oldukları toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde kazanç; işletmenin büyüklüğü, çalışanın tecrübesi ve bilgisi, vardiya/mesai düzeni ile sektördeki genel ücret seviyesine göre değişebilir.",
+   "Deneyim, kıdem ve üstlenilen ek sorumluluklar (vardiya amirliği gibi) arttıkça kazanç genellikle yükselir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğe yönelik örgün bir dikey ilerleme basamağı bulunmamaktadır. İsteyen ve koşulları sağlayan kişiler, üniversitelere bağlı meslek yüksekokullarının kimya teknolojisi, petrokimya teknolojisi veya ilgili ön lisans programlarına yönelerek mesleki bilgilerini belgelendirebilir ve \"Rafineri ve Petrokimya Teknikeri\" gibi unvanlarla çalışma alanlarını genişletebilirler.",
+  "is_hayatinda": "Mesleğinde deneyim kazanan ve bilgi/becerilerini geliştiren Petrokimya Üretim Elemanı, kıdemli operatör, vardiya amiri yardımcısı veya vardiya amiri gibi daha fazla sorumluluk ve yetki içeren görevlere yükselebilir."
+ },
+ "gorevler": [
+  "Proseste havayı bileşenlerine ayırır.",
+  "Kirli suyu arıtır.",
+  "Proses suyunu üretime hazırlar.",
+  "Proses suyunu üretimde kullanır.",
+  "Etilenden üretilen maddeleri inceler.",
+  "Propilenden üretilen maddeleri inceler.",
+  "C4 karışımından üretilen maddeleri inceler.",
+  "Benzenden üretilen maddeleri inceler.",
+  "Toluenden üretilen maddeleri inceler.",
+  "Ksilenden üretilen maddeleri inceler.",
+  "Metandan üretilen maddeleri inceler.",
+  "Üniteden numune alır.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "benzer_meslekler": [
+  "Rafineri ve Petrokimya Teknikeri",
+  "Petrol-Gaz Üretim Operatörü",
+  "Petrokimya Kontrol Elemanı",
+  "Diğer Petrol Rafine İşçileri",
+  "Petrol ve Ürünleri Elleçleme Operatörü",
+  "Gaz Kompresör Operatörü"
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T11:13:52",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 7765
+  }
+ }
+}

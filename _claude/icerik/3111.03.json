@@ -1,0 +1,91 @@
+{
+ "arac_gerec": [
+  "Cam laboratuvar gereçleri (deney tüpü, pipet, büret, erlen, beher, mezür, petri kutusu)",
+  "Mikroskop",
+  "İnkübatör ve etüv",
+  "Otoklav / sterilizatör",
+  "Laminar akış (biyogüvenlik) kabini",
+  "pH metre",
+  "Hassas ve elektronik terazi",
+  "Rutubet/kurutma (nem tayin) cihazı",
+  "Kül fırını",
+  "Soxhlet cihazı (yağ tayini)",
+  "Refraktometre",
+  "Viskozimetre",
+  "Buzdolabı ve derin dondurucu (numune saklama)",
+  "Besiyeri hazırlama malzemeleri, öze, bunsen beki",
+  "Kimyasal çözeltiler, ayıraçlar ve besiyerleri"
+ ],
+ "genel_ozellikler": [
+  "Fen bilimlerine, özellikle kimya ve biyolojiye ilgili ve bu alanlarda başarılı,",
+  "Dikkatini uzun süre bir işe verebilen,",
+  "Titiz, düzenli ve sabırlı,",
+  "Hijyen kurallarına duyarlı ve sorumluluk sahibi,",
+  "Gözlem yapma ve sonuçları yorumlama yeteneğine sahip,",
+  "El ve göz koordinasyonu gelişmiş, küçük ayrıntıları fark edebilen,",
+  "Ekip çalışmasına uyumlu,",
+  "Kimyasal maddelere ve mikroorganizmalara karşı alerjisi olmayan"
+ ],
+ "calisma_ortami": "Laborant (Gıda), gıda üretim işletmelerinin, gıda kontrol kuruluşlarının, kalite kontrol laboratuvarlarının ve araştırma-geliştirme birimlerinin kapalı ortamlarında görev yapar. Çalışma ortamı genellikle temiz, hijyenik ve sıcaklık/nem koşulları kontrollü bir mekândır; ancak kimyasal madde kokusu, mikroorganizmalarla (bakteri, mantar vb.) temas riski, sıcak veya soğuk cihazlarla çalışma, cam malzemelerden kaynaklanan kesilme riski ve bazı analizlerde kimyasal tahriş/yanık riski bulunabilir.\n\nÇalışma saatleri genellikle işletmenin üretim programına bağlı düzenli mesai saatleridir; bazı gıda işletmelerinde vardiyalı çalışma gerekebilir. Numune alma sürecinde üretim hattı çalışanlarıyla, analiz sonuçlarının değerlendirilmesinde gıda mühendisi, kalite kontrol şefi ve diğer teknik personelle iletişim kurar. İşini genellikle verilen yönergeler doğrultusunda, belirli bir süre içinde ve kendi başına yürütür.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi, mesleki ve teknik ortaöğretim okul/kurumlarının Gıda Teknolojisi alanı ile ilgili dallarında verilmektedir. Ayrıca üniversitelerin ön lisans düzeyinde Gıda Teknolojisi, Laboratuvar Teknolojisi gibi programlarında da verilmekte olup; Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kurslarında da ilgili bilgi ve becerilere yönelik eğitimler bulunmaktadır.",
+  "giris_kosullari": [
+   "Ortaöğretim düzeyindeki eğitim için ortaokulu tamamlamış olmak ve Millî Eğitim Bakanlığınca okul türlerine ve alan/dala göre belirlenen giriş koşullarını taşımak",
+   "Ön lisans programları için ortaöğretimi tamamlamış olmak ve ilgili merkezi yerleştirme sınavı sonucuna göre yerleşmek"
+  ],
+  "sure_ve_icerik": "Ortaöğretim düzeyindeki eğitimin süresi 4 yıldır; 9. sınıfta ortak genel kültür ve alanın temel dersleri okutulur, sonraki sınıflarda gıda analizleri ve laboratuvar uygulamalarına yönelik meslek dersleri ile işletmelerde uygulamalı eğitim yer alır. Üniversitelerin ön lisans programlarında eğitim süresi 2 yıldır; kimya, mikrobiyoloji, gıda analizleri ve laboratuvar teknikleri gibi dersler teorik ve uygulamalı olarak verilir.",
+  "belge": "Ortaöğretim programını tamamlayanlara meslek lisesi diploması, ön lisans programını tamamlayanlara ön lisans diploması verilir. Ayrıca Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "gorevler": [
+  "Analiz araç-gerecini hazırlar",
+  "Deney düzeneklerini hazırlar",
+  "Analiz çözeltilerini ayarlar",
+  "Ön numuneyi alır",
+  "Ön numuneden analiz numunesi hazırlar",
+  "Ekim işlemini yapar",
+  "Ekilmiş ortamı inkübe eder",
+  "İnkübasyon sonucunu gözlemler",
+  "Koloni sayımı yapar",
+  "Preparat hazırlar",
+  "Ağırlık, hacim ve adet kontrolü yapar",
+  "Yabancı madde kontrolü yapar",
+  "pH, yoğunluk, rutubet, kuru madde ve kül tayini yapar",
+  "Kaynama, donma ve erime noktasını kontrol eder",
+  "Numunenin görünüş, tat, aroma ve tekstür kontrolünü yapar",
+  "Numunenin kimyasal analizini yapar",
+  "Analiz sonuçlarını değerlendirir",
+  "Arta kalan numuneleri saklar",
+  "Laboratuvar ortamını sterilize eder",
+  "İşletme hijyen ve sanitasyon kontrol numunelerini alır (bazı işletmelerde)",
+  "Mesleki gelişim faaliyetlerinde bulunur"
+ ],
+ "calisma_alanlari": "Laborant (Gıda), süt ve süt ürünleri, et ve et ürünleri, un ve unlu mamuller, şekerleme, içecek, konserve, yağ, bitkisel ve hayvansal gıda üretimi yapan işletmelerin kalite kontrol ve araştırma-geliştirme laboratuvarlarında; tarım ve hayvancılık il/ilçe müdürlüklerine bağlı laboratuvarlarda; özel gıda kontrol ve analiz laboratuvarlarında; belediyelere bağlı gıda kontrol laboratuvarlarında ve üniversitelerin araştırma laboratuvarlarında çalışabilir.\n\nGıda güvenliği ve kalite standartlarına verilen önemin giderek artması nedeniyle, bu meslek dalına olan istihdam talebinin önümüzdeki dönemde de sürmesi beklenmektedir.",
+ "kazanc": {
+  "egitim_suresince": "Ortaöğretim düzeyinde işletmede mesleki eğitim gören öğrencilere, 3308 sayılı Mesleki Eğitim Kanunu gereğince belirli oranlarda ücret ödenir ve iş kazası ile meslek hastalıklarına karşı sigorta primleri devletçe karşılanır. Ön lisans eğitimi sırasında öğrenciler genellikle düzenli bir kazanç elde etmez; staj dönemlerinde işletmeden ücret alabilirler.",
+  "egitim_sonrasi": [
+   "Kamu kurum ve kuruluşlarında çalışanlar 657 sayılı Devlet Memurları Kanunu'na veya ilgili personel statüsüne/toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar; işyerinin büyüklüğü, kişinin deneyimi, bilgisi ve sektörün ücret politikasına göre bu kazanç değişebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Ortaöğretimde Gıda Teknolojisi alanından mezun olanlar, alanın devamı niteliğindeki yükseköğretim ön lisans programlarını tercih ettiklerinde sınavsız geçiş veya ek puan hakkından yararlanabilir. Ön lisans programlarından mezun olanlar, dikey geçiş sınavı ile Gıda Mühendisliği gibi ilgili lisans programlarına geçiş yapabilir.",
+  "is_hayatinda": "Deneyim kazanan laborantlar, laboratuvar sorumlusu veya baş laborant pozisyonlarına yükselebilir. İlgili lisans eğitimini tamamlayanlar gıda mühendisi, kalite kontrol uzmanı veya Ar-Ge sorumlusu olarak görev alabilir; bilgi ve deneyimini artıranlar özel laboratuvar kurma veya danışmanlık hizmeti verme yoluna gidebilir."
+ },
+ "benzer_meslekler": [
+  "Gıda Laboratuvar Elemanı",
+  "Laborant (Et)",
+  "Kimya Laboratuvarı Görevlisi",
+  "Kimya Laboratuvarı Teknisyeni/ Kimya Teknisyeni",
+  "Gıda, Tarım ve Hayvan Sağlığı Laborantı",
+  "Numune Alma Elemanı"
+ ],
+ "ek_bilgiler": "Gıda işletmelerinde çalışanlar için genel sağlık muayenesi ve bazı işyerlerinde periyodik hijyen/portör muayenesi istenebilir; gıda güvenliği mevzuatı gereği hijyen eğitimi sertifikası talep edilebilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T08:37:42",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 7267
+  }
+ }
+}

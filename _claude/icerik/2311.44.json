@@ -1,0 +1,80 @@
+{
+ "arac_gerec": [
+  "Bilgisayar ve mühendislik/mimarlık tasarım yazılımları (CAD, CAE, benzetim programları)",
+  "Projeksiyon cihazı, akıllı tahta/yazı tahtası",
+  "Laboratuvar cihaz ve deney düzenekleri",
+  "Ölçüm ve test cihazları",
+  "Teknik çizim araçları, maketler, model ve prototipler",
+  "Bilimsel makale, kitap ve akademik veri tabanlarına erişim araçları",
+  "İstatistik ve veri analizi yazılımları",
+  "Ders notları, müfredat ve sınav/değerlendirme formları",
+  "Proje ve tez takip dokümanları",
+  "Ofis donanımları (yazıcı, tarayıcı vb.)"
+ ],
+ "genel_ozellikler": [
+  "Matematik ve fen bilimlerine ilgili ve bu alanlarda üst düzey bilgi birikimine sahip",
+  "Analitik düşünme ve problem çözme yeteneği gelişmiş",
+  "Araştırmaya ve bilimsel çalışmaya meraklı",
+  "Sözlü ve yazılı anlatım becerisi iyi, bilgisini başkalarına aktarabilen",
+  "Sabırlı, öğrencilerin gelişimine destek olmaya istekli",
+  "Sorumluluk sahibi ve düzenli çalışan",
+  "Ekip çalışmasına ve akademik iş birliğine açık",
+  "Kendini ve alanını sürekli geliştirmeye istekli"
+ ],
+ "calisma_ortami": "\"Mühendislik ve Mimarlık Öğretim Üyesi, üniversite kampüsü içinde derslik, laboratuvar, atölye, kütüphane ve akademik ofis ortamlarında çalışır. Çalışma ortamı genellikle kapalı mekândır; ancak alanına bağlı olarak arazi çalışması, şantiye ziyareti veya saha incelemesi gibi açık alan çalışmaları da yapabilir. Laboratuvar ve atölye ortamlarında kimyasal madde, kesici-delici alet veya elektrikli/mekanik ekipmanla çalışılması durumunda iş güvenliği kurallarına uyulması önemlidir.\\n\\nÇalışma saatleri genellikle ders programına, laboratuvar ve ofis saatlerine göre düzenli olmakla birlikte, araştırma, proje teslim süreçleri ve sınav dönemlerinde yoğun ve esnek çalışma gerekebilir. Görevi sırasında öğrenciler, diğer öğretim elemanları, üniversite idarecileri, sanayi ve kamu kurumu temsilcileri ile sürekli iletişim ve iş birliği içindedir.\"",
+ "egitim": {
+  "verildigi_yerler": "Bu meslek, doğrudan bir lisans programının adı değildir. Üniversitelerin ilgili mühendislik (inşaat, makine, elektrik-elektronik, kimya, çevre, endüstri, jeoloji, maden, metalurji, havacılık vb. dallar) veya mimarlık bölümlerinde lisans eğitimini tamamlayan kişiler, aynı veya yakın alanda yüksek lisans ve doktora eğitimi aldıktan sonra üniversitelerin ilgili fakültelerinde öğretim üyesi kadrosuna atanarak bu mesleği yapar.",
+  "giris_kosullari": [
+   "Lise ve dengi okul mezunu olup merkezi sınav (YKS) sonucuna göre ilgili mühendislik veya mimarlık lisans programına yerleşmek",
+   "Lisans eğitimini tamamladıktan sonra ALES puanı ve yabancı dil yeterliliği (YDS/YÖKDİL vb.) şartlarını sağlayarak ilgili alanda yüksek lisans programına kabul edilmek",
+   "Yüksek lisans eğitimini tamamladıktan sonra doktora programına kabul edilerek doktora eğitimini başarıyla bitirmek",
+   "Doktora sonrasında üniversitelerin açtığı öğretim üyesi (doktor öğretim üyesi/araştırma görevlisi) kadrolarına, ilgili üniversite ve YÖK mevzuatında belirtilen sınav, mülakat ve değerlendirme süreçlerinden geçerek atanmak"
+  ],
+  "sure_ve_icerik": "Lisans eğitimi mühendislik dallarında genellikle 4 yıl, mimarlıkta 4-5 yıl sürer; temel bilimler, meslek dersleri, proje ve staj çalışmalarını içerir. Yüksek lisans eğitimi genellikle 2 yıl sürer ve tez çalışması gerektirir. Doktora eğitimi ise alana ve üniversiteye göre değişmekle birlikte ortalama 4-6 yıl sürer; bu süreçte ders alma, yeterlik sınavları ve özgün bilimsel araştırmaya dayalı bir tez çalışması tamamlanır.",
+  "belge": "Eğitim sürecinin sonunda sırasıyla lisans diploması, yüksek lisans diploması ve doktora diploması alınır. Doktora unvanını kazanan kişi, üniversitede öğretim üyesi kadrosuna atanarak akademik kariyerine başlar; zaman içinde doçentlik ve profesörlük unvanlarına yükselebilir."
+ },
+ "calisma_alanlari": "\"Mühendislik ve Mimarlık Öğretim Üyeleri başlıca devlet ve vakıf üniversitelerinin ilgili mühendislik ve mimarlık fakültelerinde, meslek yüksekokullarında ve enstitülerde görev alır. Ayrıca üniversitelere bağlı Ar-Ge merkezleri, teknoparklar, kamu kurumlarının araştırma birimleri ve özel sektörün Ar-Ge/danışmanlık birimlerinde de proje ve araştırma faaliyetlerinde bulunabilir. Akademik kadro sayısının sınırlı olması nedeniyle bu alanda istihdam, ilgili üniversitelerin ilan ettiği kadro ve ihtiyaca bağlıdır.\"",
+ "kazanc": {
+  "egitim_suresince": "Yüksek lisans ve doktora eğitimi süresince araştırma görevlisi kadrosunda çalışanlar 657 sayılı Devlet Memurları Kanunu'na göre maaş alır. Ayrıca TÜBİTAK ve üniversitelerin sağladığı burs ve destek programlarından yararlanılabilir.",
+  "egitim_sonrasi": [
+   "Devlet üniversitelerinde görev yapan öğretim üyelerinin maaşı 657 sayılı Devlet Memurları Kanunu çerçevesinde unvan (doktor öğretim üyesi, doçent, profesör) ve kademeye göre belirlenir; buna döner sermaye ve ek ders ücreti gibi ödemeler eklenebilir.",
+   "Vakıf üniversitelerinde ücret, üniversite ile yapılan sözleşmeye göre değişir ve genellikle devlet üniversitelerindeki tutarlardan farklılık gösterebilir.",
+   "Akademik unvan, deneyim, yayın performansı ve üniversitenin olanaklarına göre kazanç düzeyi değişkenlik gösterir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Lisans eğitimi sonrası yüksek lisans ve doktora programlarıyla akademik bilgi birikimi derinleştirilir; doktora sonrası bilimsel çalışmalar ve yayınlarla uzmanlık alanında ilerleme sağlanır.",
+  "is_hayatinda": "Akademik kariyerde doktora sonrası doktor öğretim üyesi olarak başlanır; yeterli bilimsel yayın ve çalışma ile doçentlik sınavını geçerek doçent, ardından profesörlük kadrosuna atanarak ilerleme sağlanır. Buna ek olarak bölüm başkanlığı, dekan yardımcılığı, dekanlık, enstitü müdürlüğü ve rektör yardımcılığı gibi akademik yönetim görevlerine yükselme mümkündür."
+ },
+ "benzer_meslekler": [
+  "İnşaat Mühendisliği Öğretim Üyesi",
+  "Jeodezi ve Fotogrametri (Harita ve Kadastro) Mühendisliği Öğretim Üyesi",
+  "Jeoloji Mühendisliği Öğretim Üyesi",
+  "Kimya Mühendisliği Öğretim Üyesi",
+  "Maden Mühendisliği Öğretim Üyesi",
+  "Makine Mühendisliği Öğretim Üyesi",
+  "Mimarlık Öğretim Üyesi",
+  "Otomotiv Mühendisliği Öğretim Üyesi"
+ ],
+ "ek_bilgiler": "\"Bu meslek unvanı, belirli bir lisans programının doğrudan adı değildir; ilgili mühendislik veya mimarlık dalında doktora eğitimini tamamlayan ve üniversitede akademik kadroya atanan kişiler için kullanılır. Akademik kariyerde ilerleme büyük ölçüde bilimsel yayın, atıf sayısı, yürütülen araştırma projeleri ve eğitim performansına bağlıdır. Akademik kadro sayısının sınırlı olması nedeniyle bu alanda iş bulma olanakları üniversitelerin ilan ettiği kadrolara göre değişkenlik gösterir.\"",
+ "gorevler": [
+  "Mimarlık ve mühendislik bilimlerindeki gelişmeleri yakından takip etmek için bilimsel araştırmalar yapar.",
+  "Mimarlık, şehir ve bölge planlaması ve endüstri ürünleri tasarımı ile mühendislik bilimlerinin (bilgisayar, çevre mühendisliği, elektrik, elektronik, endüstri mühendisliği, gıda, inşaat, havacılık, jeoloji, maden, makine, metalurji, kimya, petrol gibi) konularında öğrencilere ders verir.",
+  "Öğrencilerin konuları daha iyi kavramalarını sağlamak için laboratuvar çalışmaları yapar.",
+  "Bina bilgisi derslerinde, projelendirmedeki sorunlarla ilgili vaziyet planları ve detaylı planların çizimini öğretir.",
+  "Uygulamalı çalışmalarda öğrencilere nezaret ederek bilgi, beceri ve uygulama kabiliyetlerinin gelişmesi için staj yapmalarını sağlar.",
+  "Dönem içerisinde öğrencilerin sınavlarını yapıp başarı durumunu tespit ederek değerlendirir.",
+  "Değerlendirme sonuçlarını idareye bildirir.",
+  "Tez konularını tespit eder ve öğrencilerin tez çalışmalarını takip eder.",
+  "Öğretim üyesi olmak isteyenleri yüksek lisans sınavına alarak mastır programı çalışmalarında rehberlik eder.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T01:28:24",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 7238
+  }
+ }
+}

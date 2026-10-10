@@ -1,0 +1,89 @@
+{
+ "arac_gerec": [
+  "Bilgisayar ve çevre birimleri",
+  "İş analizi ve süreç modelleme yazılımları (BPMN/UML çizim araçları)",
+  "Proje ve görev yönetimi yazılımları",
+  "Gereksinim ve doküman yönetim sistemleri",
+  "Veritabanı yönetim sistemleri",
+  "Test senaryosu hazırlama ve hata takip (bug tracking) yazılımları",
+  "Sunum ve raporlama yazılımları",
+  "İletişim ve video konferans araçları",
+  "Ofis yazılım paketleri (kelime işlemci, elektronik tablo)",
+  "Kurumsal uygulama ve entegrasyon yazılımları"
+ ],
+ "genel_ozellikler": [
+  "Analitik ve sistematik düşünebilen,",
+  "Problem çözme yeteneğine sahip,",
+  "Sözlü ve yazılı iletişimi güçlü,",
+  "Ekip çalışmasına uyumlu,",
+  "Dikkatli ve sabırlı,",
+  "Planlama ve organizasyon becerisine sahip,",
+  "Teknolojik gelişmeleri takip edebilen,",
+  "Sorumluluk sahibi"
+ ],
+ "calisma_ortami": "Bu meslekte kişiler genellikle kapalı ortamda, büro koşullarında bilgisayar başında çalışır. Yazılım geliştirme ekipleri, proje yöneticileri, sistem kullanıcıları ve zaman zaman müşterilerle sürekli iletişim ve koordinasyon gerektirir; toplantılar ve sunumlar işin önemli bir parçasıdır. Çalışma saatleri genellikle düzenlidir ancak proje teslim tarihlerine yaklaşıldığında veya uygulamaya alma (devreye alma) dönemlerinde mesai yoğunlaşabilir.\n\nEkran başında uzun süre çalışmaya bağlı göz ve bilek yorgunluğu, oturarak çalışmanın getirdiği hareketsizlik ve proje baskısına bağlı zaman zaman stres görülebilir. İş genellikle büro içinde yürütülse de, bazı projelerde farklı birim veya kurumlardaki kullanıcı ve paydaşlarla görüşmek için saha ziyaretleri de gerekebilir.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi, üniversitelerin dört yıllık lisans programlarında verilmektedir. Başta Yönetim Bilişim Sistemleri, Bilgisayar Mühendisliği, Bilgisayar Bilimleri olmak üzere Endüstri Mühendisliği ve benzeri bilişim/mühendislik bölümlerinden mezun olanlar bu mesleğe yönelebilir. İş analizi konusundaki mesleğe özgü bilgi ve beceriler ise genellikle lisans eğitiminin ardından iş başında, kurum içi eğitimlerle veya iş analizi alanında açılan sertifika programlarıyla kazanılmaktadır.",
+  "giris_kosullari": [
+   "Lise veya dengi okul mezunu olmak",
+   "YKS (Yükseköğretim Kurumları Sınavı) sonucuna göre ilgili lisans programına yerleşmek",
+   "Meslek yüksekokulu/önlisans mezunlarının Dikey Geçiş Sınavı (DGS) ile ilgili lisans programlarına geçiş yapabilmesi"
+  ],
+  "sure_ve_icerik": "Lisans eğitimi genellikle 4 yıl sürer. Eğitim süresince programlama, veritabanı yönetimi, sistem analizi ve tasarımı, yazılım mühendisliği, proje yönetimi, işletme ve yönetim bilimleri, istatistik gibi dersler okutulur. Mezuniyet sonrasında iş analizi alanındaki uygulamalı bilgi ve beceriler genellikle işbaşında, kurumsal eğitimlerle veya ilgili mesleki sertifika programlarıyla derinleştirilir.",
+  "belge": "Lisans eğitimini başarı ile tamamlayanlara diploma verilir. Ayrıca iş analizi alanında ilgili kuruluşlarca verilen mesleki sertifikalar istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Bu mesleğin mensupları; bilişim ve yazılım şirketlerinde, bankacılık ve finans kuruluşlarında, kamu kurumlarının bilgi işlem/bilişim birimlerinde, bilişim danışmanlık firmalarında, perakende, sağlık, telekomünikasyon ve sigortacılık gibi sektörlerin BT departmanlarında istihdam edilmektedir. Kurumların dijital dönüşüm ve kurumsal yazılım projelerine duyduğu ihtiyacın artması, bu mesleğe olan talebi de yükseltmektedir; bilişim sektöründeki büyümeye paralel olarak iş bulma olanakları olumlu seyretmektedir.",
+ "kazanc": {
+  "egitim_suresince": "Lisans eğitimi süresince öğrenciler Kredi ve Yurtlar Genel Müdürlüğünün öğrenim kredisi ve yurt hizmetlerinden, çeşitli resmi ve özel kurum/kuruluşların burslarından yararlanabilir. İsteyen öğrenciler staj veya yarı zamanlı çalışmalarla hem deneyim hem de gelir elde edebilir.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında çalışanlar 657 sayılı Devlet Memurları Kanunu'na göre öğrenim düzeyine uygun maaş ve yan ödeme alır.",
+   "Özel sektörde ücret; çalışılan firma, proje büyüklüğü, deneyim ve bireysel yetkinliklere göre değişir; mesleğe yeni başlayanlarda ücret genellikle asgari ücret düzeyinde veya üzerinde olabilir, deneyim kazanıldıkça önemli ölçüde artabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "İlgili bölümlerde yüksek lisans ve doktora yaparak akademik kariyere yönelebilir; iş analizi, sistem analizi ve tasarımı, proje yönetimi gibi alanlarda mesleki sertifika programlarıyla bilgi ve becerilerini geliştirebilir.",
+  "is_hayatinda": "Deneyim kazandıkça kıdemli iş analisti, sistem analisti, proje yöneticisi, BT danışmanı veya bilgi işlem/bilişim yöneticisi gibi pozisyonlara yükselebilir."
+ },
+ "benzer_meslekler": [
+  "Sistem Analisti (BT)",
+  "Sistem Çözümleyici",
+  "BT Çözümleri Uzmanı",
+  "BT İş Analisti (Bilişim Teknolojileri İş Analisti)",
+  "Yönetim Bilişim Sistemleri Uzmanı",
+  "Uygulama Uzmanı/Danışmanı (Bilişim)"
+ ],
+ "ek_bilgiler": "Dijital dönüşüm ve kurumsal yazılım projelerinin yaygınlaşmasıyla bu mesleğe olan ihtiyaç artmaktadır. Mesleki Yeterlilik Kurumu (MYK) belgesi veya iş analizi alanındaki mesleki sertifikalar, istihdamda tercih sebebi olabilir.",
+ "gorevler": [
+  "İSG önlemleri alır",
+  "Çevre koruma önlemleri alınmasını sağlar",
+  "Kalite uygulamalarına destek verir",
+  "İş organizasyonu yapar",
+  "Yazılım geliştirme projesinin ön hazırlığını yapar",
+  "Önceden geliştirilmiş mevcut ya da örnek yazılımlar üzerinde çalışarak bilgi edinir",
+  "Proje tasarımına katkı sağlar",
+  "İş gereksinimlerini belirlemek için kullanıcı isterlerini dokümante eder",
+  "İş analizi dokümanını hazırlar",
+  "Geliştirme çalışmalarını koordine eder",
+  "İhtiyaçları yazılım geliştiricilere aktarır",
+  "Proje geliştirme ve uygulamaya alma planının kesinleştirilmesini sağlar",
+  "Değişiklik ihtiyaçlarını koordine eder",
+  "Yazılımın uygulama ortamına uygunluğunu ve çalışırlığını test eder",
+  "Test ortamında gerekli testleri gerçekleştirir",
+  "Kullanıcılara test ve kullanım eğitimi verir",
+  "Yazılım dokümantasyonunu tamamlar",
+  "Yazılımın uygulamaya alma hazırlıklarını yapar",
+  "Yazılım uygulamaya alma çalışmalarını koordine eder",
+  "Yazılım iyileştirme çalışmalarına katkı sağlar",
+  "Yazılım iyileştirme ve güncelleme çalışmalarını belirleyerek başlatır",
+  "Yazılım değişiklik yönetimine uygun test, doküman güncelleme, duyurma ve uygulamaya alma çalışmaları yapar",
+  "Mesleki gelişim faaliyetlerini yürütür"
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T05:50:31",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6649
+  }
+ }
+}

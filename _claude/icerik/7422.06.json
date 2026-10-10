@@ -1,0 +1,83 @@
+{
+ "arac_gerec": [
+  "Bilgisayar ve çevre birimleri",
+  "Ağ kartı (network kartı)",
+  "Switch (anahtarlama cihazı)",
+  "Router (yönlendirici)",
+  "Modem",
+  "Bakır ağ kablosu (UTP/STP)",
+  "RJ45 konnektör ve soket",
+  "Kablo sıkma (crimping) pensesi",
+  "Kablo soyma pensesi",
+  "LAN kablo test cihazı",
+  "Fiber optik kablo ve konnektörler",
+  "Kablosuz erişim noktası (access point)",
+  "Patch panel",
+  "Tornavida takımı",
+  "Multimetre/temel ölçü aletleri"
+ ],
+ "benzer_meslekler": [
+  "Bilgisayar Ağ Sistemleri ve Yönlendirme Elemanı",
+  "Bilgisayar Ağ Veri Tabanı Elemanı",
+  "Bilgisayar Bakım ve Onarımcısı",
+  "Fiber Optik Data ve Uydu Sistemleri Tesisatçısı",
+  "Telekomünikasyon Şebeke Kurulum Elemanı",
+  "Bilgisayar Sistem Kurulum Bakım Onarım ve Arıza Giderme Elemanı"
+ ],
+ "calisma_alanlari": "Bilgisayar ağ temelleri elemanı; bilgisayar ve bilişim teknolojileri hizmeti sunan işletmelerde, network/teknik servis firmalarında, kurumsal bilgi işlem birimlerinde, ev ve ofislere ağ kurulumu ile servis hizmeti veren firmalarda çalışabilir. Deneyim ve referans edindikten sonra kendi işini kurarak serbest olarak ev/ofis ağ kurulumu ve bakımı hizmeti de verebilir.\n\nBilgisayar, internet ve ev/ofis ağ ihtiyacının giderek yaygınlaşması, bu alanda temel düzey ağ kurulumu yapabilen elemanlara olan talebi desteklemektedir. Özellikle küçük ve orta ölçekli işyerlerinde ve hanelerde ağ kurulum/bakım hizmetine ihtiyaç duyulmaktadır.",
+ "calisma_ortami": "Bu meslek elemanı genellikle ev, ofis, işyeri gibi kapalı mekanlarda; bazı durumlarda kablo döşeme, anten veya kablosuz cihaz montajı gerektiren işlerde çatı arası, bodrum, kanal gibi farklı ve dar alanlarda çalışabilir. Elektrikli cihazlar, kablolar ve bağlantı ekipmanlarıyla uğraşır; bu nedenle iş güvenliği kurallarına uyması önemlidir. Bazı işlerde yüksekte çalışma veya eğilerek/diz üstü çalışma gerekebilir.\n\nÇalışma saatleri genellikle gündüzdür; ancak müşteri randevusuna veya arıza çağrısına göre değişebilir. İş sahibi veya müşteriyle, varsa teknik destek ekibiyle ve tedarikçi firmalarla iletişim kurar.",
+ "egitim": {
+  "verildigi_yerler": "Bu mesleğe özgü, resmi olarak tanımlanmış ayrı bir okul programı veya mesleki eğitim merkezi dalı bulunmamaktadır. Bilişim teknolojileri alanındaki mesleki ve teknik eğitim programları, Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kursları ile bilgisayar ağları konusunda eğitim veren özel kurslar, bu meslekte gerekli temel bilgi ve becerilerin kazanılmasını sağlar.",
+  "giris_kosullari": [
+   "İlköğretim (ilkokul/ortaokul) mezunu olmak",
+   "Kursun öngördüğü yaş ve genel sağlık koşullarını taşımak",
+   "Temel düzeyde bilgisayar kullanım bilgisine sahip olmak (tercih sebebidir)"
+  ],
+  "sure_ve_icerik": "Eğitim süresi ve içeriği kuruma ve programa göre değişmekle birlikte genellikle ağ kavramları, bakır ve fiber optik kablolama teknikleri, LAN/WAN bağlantıları, ağ cihazlarının (switch, router, modem) kurulumu, kablosuz ağ (Wi-Fi) kurulumu, TCP/IP adresleme protokolü ve temel ağ güvenliği konularını kapsar. Teorik bilgilerin yanında, laboratuvar veya atölye ortamında uygulamalı çalışmalara yer verilir.",
+  "belge": "Katılınan kursu başarıyla tamamlayanlara kurs bitirme/katılım sertifikası verilir. Mesleki Yeterlilik Kurumu (MYK) tarafından bu alanla ilişkili bir yeterlilik belgesi bulunması hâlinde, bu belge istihdamda tercih sebebi olabilir."
+ },
+ "ek_bilgiler": "Bu meslek için Türk Meslekler Sözlüğü'nde ayrı bir meslek kodu tanımlanmış olmakla birlikte, buna özgü resmi bir çıraklık eğitimi dalı veya meslek lisesi programı bulunmamaktadır; mesleki bilgi ve beceriler genellikle kısa süreli kurslar, sertifika programları ve işbaşında usta/deneyimli eleman yanında öğrenilerek kazanılır.",
+ "genel_ozellikler": [
+  "Mantıksal ve sistematik düşünebilen,",
+  "El becerisine sahip,",
+  "Teknolojik gelişmeleri takip etmeye istekli,",
+  "Dikkatli ve sabırlı,",
+  "Sorumluluk duygusu gelişmiş,",
+  "Planlı ve düzenli çalışabilen,",
+  "Problem çözme yeteneğine sahip,",
+  "Küçük parça ve bağlantılarla hassas çalışabilen"
+ ],
+ "gorevler": [
+  "İş yerinde plan, program ve iş organizasyonu yapar.",
+  "İşçi sağlığı mevzuatına uyar ve iş güvenliği önlemlerini alır.",
+  "Ağ tasarımını yapar.",
+  "Bakır ağ kablosu hazırlar.",
+  "LAN kablolama yapar.",
+  "Fiber (optik) ağ bağlantılarını yapar.",
+  "WAN elemanlarının bağlantılarını yapar.",
+  "Kablosuz ortam bağlantılarını yapar.",
+  "TCP/IP adresleme protokolünü kullanır.",
+  "Mesleki alandaki gelişmeleri takip eder ve uygular."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Bu alanda bilgi ve becerisini geliştirmek isteyenler, ağ güvenliği, sistem yönetimi ve ileri düzey ağ teknolojileri konularında ek kurs ve sertifika programlarına katılabilir. İlgi ve yetenekleri doğrultusunda açık öğretim veya örgün eğitim yoluyla bilgisayar programcılığı, bilgisayar teknolojisi, bilişim teknolojileri gibi ön lisans/lisans programlarına yönelebilirler.",
+  "is_hayatinda": "Deneyim ve bilgi birikimi arttıkça ağ sistemleri uzmanlığı, ağ yöneticiliği veya sistem yöneticiliği gibi daha üst pozisyonlara geçebilir; işyerinde ekip sorumluluğu üstlenebilir ya da kendi işini kurarak işveren konumuna gelebilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Kurs döneminde genellikle herhangi bir ücret ödenmez. Eğitim bir işyerinde uygulamalı olarak sürdürülüyorsa, işyeri ile yapılan anlaşmaya bağlı olarak değişebilir.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanlarda kazanç genellikle asgari ücret düzeyindedir.",
+   "Kamuda istihdam edilenler, memur statüsünde 657 sayılı Devlet Memurları Kanunu'na, işçi statüsünde ise toplu iş sözleşmesi hükümlerine tabi olarak ücret alır.",
+   "Özel sektörde ücret; işyerinin büyüklüğü, çalışanın deneyimi, bilgi ve becerisine göre değişebilir.",
+   "Kendi işini kuranların kazancı, aldıkları iş ve müşteri hacmine göre değişkenlik gösterir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T06:37:18",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5922
+  }
+ }
+}

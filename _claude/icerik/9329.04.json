@@ -1,0 +1,77 @@
+{
+ "arac_gerec": [
+  "Kırıcı makine",
+  "Öğütücü makine",
+  "Silo",
+  "Konveyör bant/taşıma hattı",
+  "Stok sahası ekipmanları (kürek, balyoz, kazma)",
+  "El arabası, transpalet veya forklift gibi taşıma araçları",
+  "Tartı ve ölçüm aletleri",
+  "Kişisel koruyucu donanım (eldiven, gözlük, maske/solunum koruyucu, baret, iş elbisesi, çelik burunlu ayakkabı)",
+  "Basit tamir-bakım el aletleri",
+  "Temizlik malzemeleri"
+ ],
+ "genel_ozellikler": [
+  "Fiziksel olarak güçlü ve dayanıklı,",
+  "Dikkatli ve tedbirli,",
+  "El ve kol kuvvetine sahip,",
+  "Toz, koku ve kimyasal maddelere karşı alerjisi olmayan,",
+  "Makine ve ekipman kullanımına yatkın,",
+  "Takım halinde çalışmaya uygun,",
+  "Sorumluluk sahibi ve düzenli çalışabilen"
+ ],
+ "calisma_ortami": "\"Ziftçi (kömür), genellikle kömür briketi üretimi yapılan fabrika ve tesislerde, kapalı atölye ortamında ve açık stok sahalarında görev yapar. Çalışma ortamında toz, zift kokusu, ısı ve gürültü gibi olumsuz koşullar bulunabileceğinden kişisel koruyucu donanımların kullanılması önemlidir. İş genellikle ayakta durmayı, eğilmeyi, taşımayı ve fiziksel kuvvet gerektiren hareketleri içerir.\\n\\nMeslek elemanı görevini çoğunlukla iş arkadaşlarıyla birlikte, ekip halinde yürütür; bakım onarım elemanları ve iş amiri ile sürekli iletişim halindedir. İşyerinin üretim programına göre vardiyalı çalışma söz konusu olabilir.\"",
+ "calisma_alanlari": "\"Ziftçi (kömür), kömür tozundan briket üreten fabrika ve tesislerde, kömür işletmelerine bağlı briket üretim ünitelerinde ve zift ile benzeri bağlayıcı maddelerin kullanıldığı sanayi kuruluşlarında istihdam edilir. Bu meslek oldukça dar ve niş bir alanı kapsadığından iş bulma olanakları sınırlı olup, genellikle kömür üretiminin yoğun olduğu bölgelerdeki tesislerde yoğunlaşmaktadır.\"",
+ "kazanc": {
+  "egitim_suresince": "Bu meslek için örgün bir mesleki eğitim programı bulunmadığından, eğitim süresince ücrete ilişkin resmî bir düzenleme yoktur. İşbaşında yetişme sürecinde çalışanlar, çalıştıkları işyerinin ücret politikasına göre genellikle asgari ücret düzeyinde bir kazanç elde eder.",
+  "egitim_sonrasi": [
+   "Kamu kuruluşlarına bağlı işletmelerde işçi statüsünde çalışanlar, ilgili toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde kazanç, işyerinin büyüklüğü, kişinin deneyimi, çalışma kapasitesi ve sektörün genel ücret düzeyine göre değişebilmektedir.",
+   "Mesleğe yeni başlayanların kazancı genellikle asgari ücret düzeyindedir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğin örgün bir eğitim kademesi bulunmadığından mesleki eğitimde basamaklı bir ilerleme söz konusu değildir. İlgili kurum ve kuruluşların açtığı mesleki eğitim kurslarına katılarak bilgi ve beceriler geliştirilebilir.",
+  "is_hayatinda": "Deneyim ve bilgi birikimi arttıkça usta, ekip sorumlusu veya vardiya amirliği gibi görevlere yükselme mümkündür. İlerleme, kişinin performansına ve işletmenin olanaklarına bağlıdır."
+ },
+ "benzer_meslekler": [
+  "Çimento Üretim Yardımcı Elemanı",
+  "Meydancı - Dökümhane",
+  "Meydancı - İmalat",
+  "Malzeme Taşıyıcısı",
+  "Metal Yıkama Yağlama İşçisi"
+ ],
+ "ek_bilgiler": "\"Bu meslek oldukça dar bir niş alanı temsil etmektedir; kömür briketi üretimi yapan sınırlı sayıda tesiste istihdam olanağı bulunur. Çalışma sırasında toz, zift kokusu ve ısıya bağlı sağlık ve güvenlik riskleri olabileceğinden iş sağlığı ve güvenliği kurallarına, kişisel koruyucu donanımların kullanımına özellikle uyulması gerekir.\"",
+ "egitim": {
+  "verildigi_yerler": "Ziftçi (kömür) mesleği için örgün bir mesleki eğitim programı bulunmamaktadır. Mesleğin bilgi ve becerileri genellikle çalışılan kömür briketi üretim tesislerinde işbaşında, usta yanında uygulamalı olarak kazanılır. İŞKUR'un açtığı işbaşı eğitim programları ve mesleki eğitim kursları da bu alanda beceri edinmeye yardımcı olabilir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "18 yaşını doldurmuş olmak (fiziksel güç gerektiren bir iş olması nedeniyle)",
+   "Sağlık durumunun fiziksel çalışmaya ve toz/kimyasal maddelere maruziyete uygun olması"
+  ],
+  "sure_ve_icerik": "Mesleğe özgü standart bir eğitim süresi ve müfredat bulunmamaktadır. Kişi, işe girdiği tesiste usta ve deneyimli çalışanların gözetiminde, zift ve bağlayıcı maddelerin stoklanması, kırılması, öğütülmesi ve silolara gönderilmesi gibi uygulamaları yaparak zaman içinde mesleki beceri kazanır.",
+  "belge": "Örgün bir diploma veya sertifika sistemine bağlı olmayıp, çalışılan işyerinden alınan deneyim/çalışma belgesi veya katılınan kurslara ait katılım belgesi edinilebilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "gorevler": [
+  "Fabrikaya gelen zifti veya bağlayıcı maddeleri usulüne uygun olarak stoklar",
+  "Stoktaki zaiyatın önlenmesi için gereken önlemleri alır veya alınmasını sağlar",
+  "Stok sahasındaki ziftin gerekli araç ve gereç kullanılarak parçalar ve kırıcı makineye taşır",
+  "Ziftin içinde bulunabilecek yabancı maddeleri temizler",
+  "Ziftin, kırıcının alabileceği boyutlara getirerek kırıcıya verir",
+  "Kırıcıdan çıkan ziftin öğütücüye gitmesini ve öğütülmesini sağlar",
+  "Zift dışındaki bağlayıcı maddeleri özelliklerine ve uygun yöntemlerine göre hazırlar ve silosuna gönderir",
+  "Çalıştığı yerin kırıcı, öğütücü ve kullandığı diğer araç ve gerecin temizlik ve bakımını yapar",
+  "Kırıcı ve öğütücüde meydana gelebilecek arızayı giderir, giderilmeyen arızaları iş amirine bildirir",
+  "Bakım ve onarımda ilgililerle birlikte çalışır",
+  "Meslek alanı ile ilgili gelişmeleri takip eder ve uygular",
+  "Mesleki gelişim faaliyetlerinde bulunur"
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T20:06:07",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5805
+  }
+ }
+}

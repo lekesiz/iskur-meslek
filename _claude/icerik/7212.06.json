@@ -1,0 +1,95 @@
+{
+ "arac_gerec": [
+  "Oksijen tüpü ve basınç düşürücü (regülatör)",
+  "Asetilen/LPG tüpü ve basınç düşürücü",
+  "Kaynak/kesme üfleci (torç, pürmüz)",
+  "Gaz hortumları ve geri tepme/çakma emniyet valfleri",
+  "Alevlendirici (çakmak)",
+  "Dolgu/ilave kaynak teli",
+  "Pozisyoner ve bağlama aparatları",
+  "Mastar, kumpas, şerit metre",
+  "Çizecek, ısı tebeşiri, işaret kalemi",
+  "Tel fırça, taşlama/spiral taş motoru",
+  "Kaynakçı gözlüğü/maskesi",
+  "Deri önlük, eldiven, tulum",
+  "Çelik burunlu ayakkabı, baret",
+  "Maşa/pense, keski, çekiç"
+ ],
+ "genel_ozellikler": [
+  "El becerisine sahip,",
+  "Göz ve ellerini eşgüdümle kullanabilen,",
+  "Dikkatini belirli bir noktaya yoğunlaştırabilen,",
+  "Şekil ve uzamsal ilişkileri görebilen,",
+  "Fiziksel olarak dayanıklı,",
+  "Sorumluluk sahibi ve tedbirli,",
+  "İşçi sağlığı ve iş güvenliği kurallarına titizlikle uyan,",
+  "Ekip hâlinde çalışmaya yatkın"
+ ],
+ "calisma_ortami": "Oksi-gaz kaynakçıları; atölye ve fabrika gibi kapalı mekânlarda çalışabildikleri gibi, inşaat şantiyesi, boru hattı, çatı ve açık alan uygulamalarında da görev yaparlar. Çalışma ortamı genellikle gürültülü olabilir; kaynak ve kesme işlemi sırasında ortaya çıkan parlak ışık, kıvılcım, yüksek sıcaklık ve duman cilt ve gözleri rahatsız edebilir. Kullanılan oksijen ve yanıcı gazların patlama ve yangın riski taşıması nedeniyle dikkatli çalışmayı ve kişisel koruyucu donanım (gözlük, eldiven, önlük, maske) kullanımını gerektirir; gerekli önlemler alındığında bu riskler büyük ölçüde azaltılır.\n\nÇalışma zaman zaman eğilerek, dar alanlarda veya yükseklikte yapılabilir; sektöre göre vardiyalı çalışma söz konusu olabilir. Meslek elemanı çalışırken daha çok malzeme, araç ve ekipmanla ilgilenir; görevleri sırasında ustabaşı, mühendis, teknik elemanlar ve diğer kaynakçılarla iş birliği içinde çalışır.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi Halk Eğitim Merkezlerinde ve İŞKUR'un açtığı mesleki eğitim kurslarında Metal Teknolojisi alanı kapsamında verilmektedir. Ayrıca mesleki ve teknik eğitim okullarının ilgili alan/dallarında da bilgi ve beceri kazandırılabilir. Meslek, geleneksel olarak işyerlerinde usta-çırak ilişkisi içinde işbaşında da öğrenilmektedir.",
+  "giris_kosullari": [
+   "Mesleğin gerektirdiği minimum eğitim düzeyi ilköğretimdir.",
+   "Halk eğitim merkezi kurslarına her yaş, eğitim ve kültür düzeyinden kişiler katılabilir; 18 yaşından küçükler veli izniyle katılabilir.",
+   "Mesleki ve teknik eğitim okullarına girişte ilgili mevzuatta belirtilen kayıt-kabul şartları aranır."
+  ],
+  "sure_ve_icerik": "Kurslarda; oksi-gaz kaynağı ve kesme ön hazırlığı, teknik resim okuma, iş parçası kontrolü ve markalama, puntalama, gaz akış ve basınç ayarları, kaynak ve kesme alevinin oluşturulup ayarlanması, kaynak dikişi oluşturma, kaynak sonrası işlemler ve kaynak hatalarının giderilmesi gibi konularda teorik ve uygulamalı eğitim verilir. Eğitim süresi kuruma ve programa göre değişmekle birlikte genellikle birkaç ay sürer; meslek çoğunlukla işyerinde usta yanında çalışılarak da kazanılır.",
+  "belge": "Kursu tamamlayanlara kurs bitirme/katılım belgesi, mesleki ve teknik eğitim kurumlarından mezun olanlara diploma verilir. Mesleki Yeterlilik Kurumu (MYK) Mesleki Yeterlilik Belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Oksi-gaz kaynakçıları; metal işleme ve makine imalat sanayi, demir-çelik konstrüksiyon, inşaat ve yapı sektörü, boru hattı döşeme işleri, gemi inşa, tarım makineleri imalatı ile hurda ve metal kesim işleri yapan küçük ve orta ölçekli işletmelerde, fabrika ve atölyelerde istihdam edilirler. Bakım-onarım hizmeti veren işletmelerde de çalışabilirler; yeterli deneyim ve sermayeye sahip olanlar kendi atölyelerini açabilirler.",
+ "kazanc": {
+  "egitim_suresince": "Halk eğitim merkezi kurslarında eğitim süresince genellikle bir kazanç söz konusu değildir. İşyerinde çırak veya stajyer olarak çalışılması hâlinde sınırlı bir ücret ödenebilir.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında işçi statüsünde istihdam edilenler toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde yeni başlayanlar genellikle asgari ücret düzeyinde kazanç elde eder; deneyim, bilgi, beceri, işyerinin büyüklüğü ve sektörün ücret düzeyine göre kazanç artabilir.",
+   "Kendi işyerini açanların kazancı iş hacmine ve işin kalitesine göre değişir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Çeşitli kurs ve sertifika programlarına katılarak örtülü elektrot ark kaynağı, gazaltı (MIG-MAG) ve TIG gibi farklı kaynak yöntemlerinde bilgi ve beceri geliştirilebilir; kalfalık ve ustalık belgesi alınabilir.",
+  "is_hayatinda": "Deneyim kazanan meslek elemanları usta, ekip lideri, ustabaşı veya kalite kontrol elemanı olarak görev alabilir; yeterli sermaye ve tecrübeye sahip olanlar kendi atölyelerini kurabilir."
+ },
+ "benzer_meslekler": [
+  "Örtülü Elektrot Ark Kaynakçısı",
+  "Pürmüzcü (Elle)",
+  "Gazaltı Kaynakçısı (Mıg-Mag Kaynakçısı)",
+  "Argon Kaynakçısı (TİG Kaynakçısı)",
+  "Elektronik Gözlü Oksiasetilen Kesme Makinesi Operatörü",
+  "Seyyar Otomatik Oksiasetilen Kesme Makinesi İşçisi"
+ ],
+ "ek_bilgiler": "Kaynakçılık, yüksek sıcaklık, kıvılcım ve yanıcı/patlayıcı gazlarla çalışma içermesi nedeniyle iş sağlığı ve güvenliği mevzuatı kapsamında tehlikeli işler arasında değerlendirilebilmektedir; bu nedenle periyodik sağlık kontrolü ve kişisel koruyucu donanım kullanımı önem taşır.",
+ "gorevler": [
+  "İş emrini, kaynak yöntem sayfasını (KYS) ve/veya kaynak planını (KP) inceler.",
+  "Teknik resmi inceler.",
+  "İş parçasını kontrol eder (kaynak ağzı, temizlik vb.).",
+  "İş parçasını pozisyonere yerleştirir/bağlar.",
+  "İş parçasını markalar.",
+  "İş parçasına ön ısıtma yapar.",
+  "İş parçasını puntalar.",
+  "Gaz akışını sağlar.",
+  "İş parçasına sehim verir.",
+  "Kaynak/kesme parametre ayarlarını yapar.",
+  "Puntalar üzerini temizler/taşlar.",
+  "Kaynak alevini oluşturur.",
+  "Kaynak alevini ayarlar.",
+  "İş parçası sıcaklığını kontrol altında tutar.",
+  "İlave tel kullanarak ilerler.",
+  "Kesme alevini oluşturur.",
+  "Kesme alev ayarı yapar.",
+  "Meme ile iş parçası mesafesini kontrol altında tutar.",
+  "Kaynak sonrası işlemleri uygular (alevli ısıl işlem, kontrollü soğutma, çekiçleme vb.).",
+  "Kaynak dikiş yüksekliğini kontrol eder.",
+  "Kaynak hatalarını giderir.",
+  "İş parçasının temizliğini yapar/taşlar.",
+  "Oksi-gaz sisteminin genel bakımını yapar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T00:07:40",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6922
+  }
+ }
+}

@@ -1,0 +1,75 @@
+{
+ "arac_gerec": [
+  "Avometre (multimetre)",
+  "Osiloskop",
+  "Basınç ve kalınlık ölçüm cihazları için kalibrasyon test düzenekleri",
+  "Lehim havyası ve lehim malzemeleri",
+  "İzoleli tornavida ve pense takımları",
+  "Kablo soyma ve sıkma pensesi",
+  "Elektrik şemaları ve devre bağlantı şemaları",
+  "El takımları (anahtar takımı, pense, keski)",
+  "Küçük elektrikli matkap ve vidalama aletleri",
+  "Ölçme aletleri (kumpas, mikrometre, çelik cetvel)",
+  "Gümüş kaynağı ve lehim kaynak ekipmanı",
+  "Kişisel koruyucu donanım (eldiven, gözlük)",
+  "Elektrik test kalemi ve devre test cihazları",
+  "Mekanik sökme-takma aletleri (çekiç, pense, anahtar)"
+ ],
+ "genel_ozellikler": [
+  "El ve parmak becerisine sahip,",
+  "Dikkatli, tedbirli ve sabırlı,",
+  "Elektrik ve elektronik konularına ilgili,",
+  "Analitik düşünme ve mantık yürütme yeteneğine sahip,",
+  "Küçük ve hassas parçalarla çalışmaya uygun el-göz koordinasyonuna sahip,",
+  "Sorumluluk sahibi ve güvenilir,",
+  "Görme ve işitme duyuları gelişmiş,",
+  "Kurallara uyan ve iş güvenliğine önem veren"
+ ],
+ "calisma_ortami": "Elektrik Montörü (Ölçü Aletleri), görevini genellikle fabrika, atölye ve üretim tesislerinin kapalı mekânlarında yürütür. Çalışma alanı; kumanda panoları, ölçüm cihazlarının bulunduğu kontrol odaları ve bazı durumlarda üretim hatlarının bulunduğu saha bölümleridir. Çalışırken elektrikle temas riski, dar ve hassas alanlarda eğilerek veya ayakta çalışma gerekliliği bulunabilir; bu nedenle iş sağlığı ve güvenliği kurallarına uyulması önemlidir.\n\nÇalışma genellikle hafta içi normal çalışma saatleri içinde yürütülür; ancak bulunduğu işletmenin üretim programına göre vardiyalı çalışma veya arıza anında mesai saatleri dışında göreve çağrılma söz konusu olabilir. Meslek sahibi, çalıştığı işletmede mühendisler, teknisyenler, bakım şefleri ve diğer bakım-onarım personeli ile sürekli iş birliği içinde çalışır.",
+ "egitim": {
+  "verildigi_yerler": "Bu mesleğe özgü, bağımsız ve resmî olarak ayrı bir programla tanımlanmış bir çıraklık veya mesleki eğitim merkezi dalı bulunmamaktadır. Meslek genellikle mesleki ve teknik eğitim kurumlarının Elektrik-Elektronik Teknolojisi alanına bağlı ilgili dallarında (örneğin endüstriyel bakım-onarım elektrikçiliği ile ilişkili dallarda) verilen eğitimlerin üzerine, işbaşında usta yanında ölçü ve kontrol cihazları konusunda uzmanlaşılarak kazanılmaktadır. Ayrıca Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kursları, temel elektrik bilgisi kazandırılmasında destekleyici olabilir.",
+  "giris_kosullari": [
+   "En az ilköğretim/ortaokul mezunu olmak",
+   "Çıraklık eğitimine girecekler için 14 yaşını doldurmuş olmak",
+   "Eğitim görmek istediği meslekte bir işyeri bulup işvereni ile çıraklık sözleşmesi imzalamak",
+   "Mesleğin gerektirdiği işleri yapmaya elverişli sağlık durumuna sahip olmak"
+  ],
+  "sure_ve_icerik": "Mesleki eğitim merkezlerinde Elektrik-Elektronik Teknolojisi alanına bağlı ilgili dallarda eğitim, ilköğretimden sonra genellikle dört yıl sürer; bu sürenin bir bölümü kalfalık, son kısmı ustalık eğitimidir. Eğitim haftanın bir günü mesleki eğitim merkezinde teorik derslerle, kalan günlerinde ise işyerinde usta öğreticinin gözetiminde pratik çalışma şeklinde yürütülür. Ölçü ve kontrol cihazlarının montaj, bakım ve onarımına ilişkin bilgi ve beceriler ise bu genel eğitimin üzerine, işbaşında ustadan öğrenilerek ve ilgili cihaz üreticilerinin düzenlediği teknik eğitimlerle geliştirilir.",
+  "belge": "Mesleki eğitim merkezinden kalfalık ve ardından ustalık belgesi alınabilir. Ayrıca Mesleki Yeterlilik Kurumu (MYK) tarafından ilgili elektrik bakım-onarım alanlarında verilen yeterlilik belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Elektrik Montörü (Ölçü Aletleri), başta üretim yapan fabrikalar ve sanayi tesisleri olmak üzere; enerji santralleri, petrokimya ve kimya tesisleri, metal ve döküm işletmeleri, tekstil fabrikaları gibi üretim süreçlerinde kalınlık cihazı, pirometre, basınç manometresi, regülatör, elektrikli termometre ve kayıt cihazı gibi ölçü ve kontrol cihazlarının bulunduğu her tür sanayi işletmesinde çalışabilir. Ayrıca bu tür ölçü ve kontrol cihazlarını üreten veya bakım-onarımını yapan teknik servis işletmelerinde de istihdam edilebilir. Günümüzde sanayide otomasyon ve sayısal kontrol sistemlerinin yaygınlaşması nedeniyle bu alanda çalışanların temel elektrik bilgisinin yanı sıra güncel ölçüm ve kontrol teknolojilerine de aşina olması beklenmektedir.",
+ "kazanc": {
+  "egitim_suresince": "Çıraklık eğitimi döneminde, 3308 sayılı Mesleki Eğitim Kanunu kapsamında işletmede eğitim gören öğrencilere asgari ücretin belirli bir oranından az olmamak üzere ücret ödenir ve iş kazası ile meslek hastalıkları sigortası devlet tarafından karşılanır.",
+  "egitim_sonrasi": [
+   "Özel sektörde çalışanların kazancı, işyerinin büyüklüğüne, kişinin tecrübesine, bilgi ve becerisine, çalıştığı sektörün ücret düzeyine göre karşılıklı anlaşma ile belirlenir; mesleğe yeni başlayanlarda genellikle asgari ücret düzeyinde olabilir.",
+   "Kamuya bağlı işletmelerde işçi statüsünde çalışanların ücreti, ilgili toplu iş sözleşmesi hükümlerine göre belirlenir.",
+   "Tecrübe ve uzmanlık arttıkça, özellikle ölçü ve kontrol cihazları konusunda nitelikli ve nadir bulunan bir uzmanlık geliştirenlerin kazancı artabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleki eğitim merkezi veya meslek lisesi mezunları, ilgili alanın devamı niteliğindeki yükseköğretim programlarına yönelik sınavlara girerek ön lisans/lisans düzeyinde eğitimlerine devam edebilir. Ayrıca çeşitli hizmet içi eğitimlere ve kurslara katılarak mesleki bilgi ve becerilerini güncel ölçüm/kontrol teknolojileri doğrultusunda geliştirebilirler.",
+  "is_hayatinda": "Deneyim kazandıkça usta, bakım ekip sorumlusu veya bakım şefi gibi görevlere yükselebilir. İlgili teknik eğitimi tamamlayanlar, teknisyenlik veya elektrik teknikerliği gibi daha ileri unvanlara geçiş yapabilir. İşletme bünyesinde çalışmanın yaygın olduğu bu meslekte bağımsız işyeri açma olanağı sınırlıdır."
+ },
+ "benzer_meslekler": [
+  "Endüstriyel Bakım-Onarım Elektrikçisi",
+  "İşletme Elektrik Bakımcısı",
+  "İşletme Elektrik Bakım Yardımcısı",
+  "Elektrik Pano Elemanı",
+  "Kumanda Teknikleri Elemanı",
+  "Otomasyon Sistemleri Destek Elemanı"
+ ],
+ "ek_bilgiler": "Bu meslek, Endüstriyel Bakım-Onarım Elektrikçiliği ile büyük ölçüde benzer görevleri kapsamakla birlikte, kalınlık cihazı, pirometre, buhar/su sayacı, elektrikli termometre ve kayıt cihazı, regülatör ve basınç manometresi gibi ölçü ve kontrol cihazlarının montaj, bakım ve onarımında uzmanlaşmayı ifade eder. Sanayide üretim süreçlerinin dijitalleşmesi ve otomasyon sistemlerinin yaygınlaşması nedeniyle, bu alanda çalışanların zaman içinde elektronik ölçüm ve kontrol teknolojilerine ilişkin bilgilerini güncel tutmaları önem kazanmaktadır.",
+ "gorevler": [
+  "Esas görevleri Endüstriyel Bakım-Onarım Elektrikçisinde belirtilenlere benzemekle birlikte; kalınlık cihazları, pirometreler, buhar miktarını gösteren elektrikli ve cıvalı su ve buhar sayaçları, elektrikli termometre ve kayıt cihazları, ocak basıncını sabit tutan regülatörler, basınç manometreleri, kumanda tablolarındaki imalat seyrini gösteren ölçü aletleri gibi ölçü ve kontrol cihazlarının montajını, tamirini ve bakımını yapar.",
+  "Bu ölçü ve kontrol cihazlarından herhangi biri üzerinde ihtisaslaşabilir ve bu şekilde ayırt edilebilir.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T06:01:10",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6918
+  }
+ }
+}

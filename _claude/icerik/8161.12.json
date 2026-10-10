@@ -1,0 +1,77 @@
+{
+ "arac_gerec": [
+  "Buğday temizleme makineleri (elek, aspiratör, taş ayırıcı)",
+  "Paçal (karıştırma) siloları",
+  "Yıkama ve nemlendirme üniteleri",
+  "Tavlama siloları",
+  "Değirmen (öğütme) valsleri",
+  "Eleme (sifon/plansister) makineleri",
+  "Taşıma bantları ve pnömatik hatlar",
+  "Un depolama siloları",
+  "Paketleme ünitesi ekipmanları",
+  "Toz maskesi",
+  "Koruyucu gözlük",
+  "Kulak koruyucu",
+  "Eldiven ve iş elbisesi"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve tedbirli,",
+  "Fiziksel olarak güçlü ve dayanıklı,",
+  "Toz ve gürültülü ortama karşı hassasiyeti olmayan,",
+  "El ve göz koordinasyonu iyi,",
+  "Makine ve ekipman kullanımına yatkın,",
+  "Sorumluluk duygusu gelişmiş,",
+  "Ekip çalışmasına uyumlu,",
+  "Temizlik ve hijyen kurallarına dikkat eden"
+ ],
+ "calisma_ortami": "Un imal işçisi, değirmen ve un fabrikalarında genellikle kapalı alanlarda çalışır. Çalışma ortamı un tozu, gürültü ve belirli oranda nem açısından dikkat gerektiren bir ortamdır. Üretimin sürekliliği nedeniyle vardiyalı veya tam gün çalışma düzeni yaygındır; ayakta ve hareketli çalışma esastır.\n\nÇalışırken makine operatörleri, usta ve ustabaşı ile sürekli iletişim halindedir. Çalışma sırasında iş sağlığı ve güvenliği kurallarına uyulması; un tozunun solunması, makine ile çalışma sırasında oluşabilecek kazalar ve birikmiş un tozunun yanıcı özelliği nedeniyle önem taşır. İşveren tarafından gerekli kişisel koruyucu donanımların sağlanması ve çalışanlar tarafından bu kurallara eksiksiz uyulması gerekmektedir.",
+ "kazanc": {
+  "egitim_suresince": "Bu meslek için 3308 sayılı Kanun kapsamında resmi olarak tanımlanmış, kurumsallaşmış bir çıraklık/mesleki eğitim programı bulunmamaktadır. Mesleki eğitim kurslarına veya işletmelerde işbaşı eğitime katılanlara, eğitim gördükleri süre için işletme ile yapılan anlaşmaya göre değişen oranlarda ücret veya harçlık ödenebilir.",
+  "egitim_sonrasi": [
+   "Çalışmaya yeni başlayanların kazancı genellikle asgari ücret düzeyindedir.",
+   "Kazanç; çalışılan işletmenin büyüklüğü, kişinin tecrübesi, bilgi ve becerisi ile sektördeki ücret düzeyine göre değişebilir.",
+   "Özel sektörde ücret genellikle işveren ile çalışan arasında karşılıklı anlaşmaya göre belirlenir; bazı büyük ölçekli veya kamuya bağlı tesislerde işçi statüsünde çalışanlar için toplu iş sözleşmesi hükümleri geçerli olabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Halk Eğitim Merkezleri ve İŞKUR tarafından açılan gıda/un üretimi ile ilgili kurslara katılarak bilgi ve beceriler geliştirilebilir. Açık öğretim yoluyla eğitim düzeyini yükselten kişiler, mesleki ve teknik eğitim kurumlarının Gıda Teknolojisi alanına yönelik programlara veya ilgili yükseköğretim programlarına yönelebilir.",
+  "is_hayatinda": "Deneyim ve bilgi birikimi arttıkça usta, vardiye amiri veya üretim sorumlusu konumuna yükselebilir. İşletmecilik bilgisi ve yeterli sermaye birikimi olan kişiler, girişimci ruhuyla kendi işletmelerini kurabilir."
+ },
+ "egitim": {
+  "verildigi_yerler": "Un imal işçiliği için resmi olarak tanımlanmış, ayrı bir örgün mesleki eğitim programı (çıraklık/kalfalık) bulunmamaktadır. Meslek genellikle işbaşında usta yanında öğrenilir; ayrıca Halk Eğitim Merkezleri ile İŞKUR'un açtığı mesleki eğitim kursları, bu alanda temel bilgi ve beceri kazandırmaya yönelik eğitimler sunabilir. Mesleki ve teknik eğitim okullarının Gıda Teknolojisi alanı, bu mesleğe temel oluşturabilecek ilgili bilgi ve becerileri içerir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak,",
+   "18 yaşını doldurmuş olmak (ağır fiziksel çalışma koşulları nedeniyle),",
+   "Sağlık durumunun mesleğin gerektirdiği fiziksel koşullara uygun olması,",
+   "Mesleki eğitim kurslarına katılım için kurumların belirlediği kayıt şartlarını taşımak"
+  ],
+  "sure_ve_icerik": "Mesleğe özgü resmi bir eğitim süresi ve müfredatı bulunmamaktadır. İşbaşında eğitim, çalışılan işletmenin üretim sürecine ve işe alıştırma uygulamasına göre değişen bir süre içinde, ustanın gözetiminde verilir. Açılan kısa süreli kurslarda ise buğdayın temizlenmesi, yıkanması, tavlanması, öğütülmesi, elenmesi ve un üretim sürecine ilişkin temel bilgi ve uygulamalı beceriler aktarılır.",
+  "belge": "İşbaşı eğitim sonunda genellikle resmi bir diploma verilmez; katılım sağlanan kurslar sonunda katılım/başarı belgesi alınabilir. Mesleki Yeterlilik Kurumu (MYK) tarafından ilgili alanda bir ulusal yeterlilik bulunması ve belge alınması, istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Un imal işçisi, başta özel sektöre ait un fabrikaları ve değirmenler olmak üzere, buğday işleme ve un üretimi yapan gıda sanayi işletmelerinde istihdam edilir. İş imkânları, buğday üretiminin ve değirmen tesislerinin yoğun olduğu bölgelerde daha fazladır. Kamu kurumlarına bağlı sınırlı sayıda tesiste de çalışma imkânı bulunabilir.",
+ "ek_bilgiler": "Değirmen ortamında oluşan un tozunun belirli yoğunluğa ulaşması durumunda yangın ve patlama riski taşıyabileceği bilinmektedir; bu nedenle havalandırma, statik elektrik önlemleri ve toz birikiminin kontrolüne ilişkin iş güvenliği kurallarına titizlikle uyulması mesleğin önemli bir gereğidir.",
+ "benzer_meslekler": [
+  "Un İmal Ustası",
+  "Yıkamacı (Bugday)",
+  "Un Tedarik İşçisi (Bisküvi)",
+  "Paketleme Makinesi Operatörü (Un)",
+  "Paketleme Makinesi Operatörü (İrmik)",
+  "Fırın ve Unlu Mamuller Üretim Operatörü"
+ ],
+ "gorevler": [
+  "Buğdayın temizlenmesini ve yabancı maddelerden ayrılmasını sağlar.",
+  "Paçal işlemi sonrası buğdayın yıkanmasını sağlar.",
+  "Buğdayın tavlanmasını gerçekleştirir.",
+  "Buğdayın öğütülmesi ve elenmesini gerçekleştirir.",
+  "Üretim sonunda, unların piyasaya arz edilmek üzere paketleme ünitesine gönderilmesini sağlar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T15:49:30",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5520
+  }
+ }
+}

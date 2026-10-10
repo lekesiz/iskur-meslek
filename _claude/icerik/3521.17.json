@@ -1,0 +1,82 @@
+{
+ "arac_gerec": [
+  "Radyo ve televizyon verici cihazları",
+  "Anten panelleri, kablolar ve konnektörler",
+  "Çanak anten ve karasal link ekipmanları",
+  "Topraklama tesisatı ve yıldırımlık (paratoner) malzemeleri",
+  "Elektronik ölçü aletleri (güç metre, spektrum analizör, multimetre)",
+  "El aletleri (tornavida, pense, lehim takımı)",
+  "Verici direği ve yükseğe tırmanma/emniyet ekipmanları",
+  "Jeneratör ve yakıt ikmal ekipmanları",
+  "Yedek parça, modül ve devre kartları",
+  "Kişisel koruyucu donanım (baret, emniyet kemeri, iş eldiveni)",
+  "Telsiz, telefon gibi haberleşme cihazları",
+  "Arıza müdahale/servis aracı"
+ ],
+ "genel_ozellikler": [
+  "El ve beden becerisine sahip,",
+  "Elektrik-elektronik sistemlere ilgili ve bu alanda bilgili,",
+  "Dikkatli, sorumluluk sahibi,",
+  "Analitik düşünebilen, arıza tespitinde mantık yürütebilen,",
+  "Yüksekte çalışmaktan çekinmeyen,",
+  "Fiziksel olarak dayanıklı,",
+  "Takım çalışmasına uygun, işbirliğine açık,",
+  "Teknolojik gelişmeleri takip etmeye istekli"
+ ],
+ "calisma_ortami": "Radyo-TV verici teknisyenleri, genellikle şehir dışında yüksek tepe veya kulelerde kurulu verici istasyonlarında açık havada, ayrıca istasyon binaları ve atölyelerde kapalı ortamda çalışırlar. Çalışma sırasında yüksekte çalışma, elektrik çarpması ve elektromanyetik/RF ışınıma maruz kalma gibi riskler bulunduğundan iş güvenliği kurallarına uyma zorunluluğu vardır. Arıza müdahaleleri plansız gelişebildiğinden çalışma saatleri düzensizdir, gerektiğinde gece veya hafta sonu çalışma ve farklı istasyonlara seyahat söz konusu olabilir.\n\nİş, montaj elemanları, teknik ekip arkadaşları, yayın kuruluşu yöneticileri ve ilgili resmi kurum temsilcileriyle sürekli iletişim ve eşgüdüm içinde yürütülür.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin temel eğitimi, mesleki ve teknik liselerin elektrik-elektronik teknolojisi alanıyla ilgili dallarında ve meslek yüksekokullarının elektronik haberleşme/radyo-televizyon teknolojisi ile ilgili ön lisans programlarında verilmektedir. Ayrıca TRT ve özel radyo-televizyon kuruluşları, kendi personelini işbaşında usta yanında ve hizmet içi eğitimlerle yetiştirebilmektedir. Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kursları da elektronik/anten-verici konularında destekleyici eğitim olanakları sunabilir.",
+  "giris_kosullari": [
+   "Lise veya dengi okul mezunu olmak",
+   "Ön lisans programına geçişte YKS kılavuzunda belirtilen giriş koşullarını taşımak",
+   "Meslek liselerinin ilgili alanlarından mezun olanlar, ön lisans programlarına geçerken ek puan alabilir",
+   "İşe alımlarda ilgili kurum/işletmenin belirlediği sınav, mülakat veya değerlendirme süreçlerini geçmek"
+  ],
+  "sure_ve_icerik": "Ortaöğretim düzeyinde meslek liselerinin elektrik-elektronik teknolojisi alanında temel elektronik, haberleşme sistemleri ve anten-verici konularına ilişkin dersler okutulur. Meslek yüksekokullarının elektronik haberleşme teknolojisiyle ilgili ön lisans programlarında eğitim süresi 2 yıldır; temel elektronik, radyo frekansı (RF) teknikleri, anten sistemleri, ölçme teknikleri, iş sağlığı ve güvenliği gibi mesleki dersler ağırlıklı olmak üzere genel kültür dersleri de alınır; genellikle staj yapma zorunluluğu bulunur. Bunların yanında yayın kuruluşlarının kendi bünyesinde verdiği hizmet içi eğitimlerle de mesleğe geçiş yapılabilmektedir.",
+  "belge": "Meslek lisesi diploması veya meslek yüksekokulu ön lisans diploması alınır; ayrıca kurum içi eğitimler sonunda katılım/yeterlilik sertifikaları verilebilir."
+ },
+ "calisma_alanlari": "Radyo-Tv Verici Teknisyenleri başta TRT olmak üzere kamu ve özel radyo-televizyon kuruluşlarının verici istasyonlarında, bu kuruluşların teknik servis ve atölyelerinde, haberleşme altyapısı işletmelerinde çalışabilirler. Kamu kurumlarında 657 sayılı Devlet Memurları Kanunu'na veya kurumun tabi olduğu statüye, kamu işçisi statüsünde çalışanlar toplu iş sözleşmesi hükümlerine göre istihdam edilirler; özel sektörde ise iş sözleşmesiyle çalışılır. Yayın kuruluşu sayısının sınırlı olması nedeniyle istihdam kapasitesi belirli bir büyüklükte olmakla birlikte, teknik bilgi ve deneyimi olan kişiler için iş bulma olanağı bulunmaktadır.",
+ "kazanc": {
+  "egitim_suresince": "Meslek lisesi öğrencileri okul bünyesindeki olanaklardan, meslek yüksekokulu öğrencileri ise Kredi ve Yurtlar Genel Müdürlüğü'nün öğrenim kredisi ve yurt hizmetlerinden yararlanabilir; bazı kurum ve kuruluşların sağladığı burs olanaklarından da faydalanılabilir.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında (örneğin TRT) çalışanlar, tabi oldukları mevzuata (657 sayılı Kanun veya ilgili statü/toplu iş sözleşmesi) göre ücret alırlar.",
+   "Özel sektörde kazanç; işletmenin büyüklüğü, kişinin tecrübesi ve bilgi birikimi, çalışma kapasitesi ile sektörün ücret düzeyine göre değişebilmektedir; mesleğe yeni başlayanlarda kazanç genellikle asgari ücret düzeyindedir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Elektronik haberleşme teknolojisiyle ilgili ön lisans programını başarıyla tamamlayanlar, Dikey Geçiş Sınavı (DGS) ile başarılı oldukları takdirde ilgili mühendislik veya teknoloji lisans programlarına kontenjan dahilinde dikey geçiş yapabilirler.",
+  "is_hayatinda": "Deneyim kazanan teknisyenler ekip sorumlusu veya şef teknisyen olarak görevlendirilebilir, büyük güçlü vericilerin bakım-onarımında uzmanlaşabilir, ilave eğitimlerle haberleşme sistemleri alanında daha üst teknik görevlere veya mühendislik hizmetlerine yönelebilirler."
+ },
+ "benzer_meslekler": [
+  "Radyo - Televizyon Teknisyeni",
+  "Radyo ve Televizyon Teknolojisi Teknikeri",
+  "Görüntü ve Ses Sistemleri Elemanı",
+  "Radyo Televizyon Teknik Yapım - Yayın Elemanı"
+ ],
+ "ek_bilgiler": "Verici direklerinde yüksekte çalışma, elektrik çarpması ve elektromanyetik/RF ışınıma maruz kalma gibi riskler nedeniyle iş sağlığı ve güvenliği kurallarına titizlikle uyulması önemlidir. Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir.",
+ "gorevler": [
+  "Televizyon veya radyo yayını verilmesi planlanmış bölgeye giderek kullanılacak vericinin gücü, malzeme miktarı, anten sayısı gibi ihtiyaçları belirler.",
+  "İlgili resmi kurumlar tarafından verilen plana göre vericinin kurulacağı istasyon yerini ve yayın yapılacak kanal frekansını yerinde ölçümler yaparak tespit eder, kanalın boş ve temiz olduğundan emin olur.",
+  "Montaj elemanıyla birlikte anten panellerini ve kablolarını verici direğine monte eder, panellerin yön ayarını yapar.",
+  "Sistemlere yıldırım koruması ve topraklama tesisatı çektirir.",
+  "Çanak anten veya duruma göre karasal link montajını yapar, yayın yapılacak ses ve görüntüyü elde eder.",
+  "Gerekli bağlantıları yaparak vericiyi çalıştırır, göstergeleri kontrol eder, bir sorun varsa giderir.",
+  "Verici kurulan bölgede ölçümler yaparak yayın kalitesini tespit eder, diğer kanallarla karşılaştırır, gerekirse anten panellerinin yere bakış açısını veya cihazın çıkış gücünü değiştirir.",
+  "Sorumlu olduğu bölgedeki radyo ve televizyon vericilerinin yayın kalitesini sürekli kontrol eder.",
+  "Arıza ihbarlarını değerlendirir, gerekirse ilgili istasyona giderek arızaya yerinde müdahale eder, arıza giderilemiyorsa cihazı atölyeye getirir.",
+  "Sorunlu cihazı inceleyerek arıza tespiti yapar, duruma göre parça değiştirerek ya da ayar yaparak cihazı tamir eder.",
+  "Tamir edilen cihazları istasyona giderek yerinde çalıştırır, cihazı yayına verir.",
+  "Gerektiğinde istasyonda çalışan veya atölyede kurulmak için bekleyen cihazların yayın kanal frekanslarını değiştirir, bant ve filtre ayarlarını yapar.",
+  "Jeneratör kullanılan istasyonlara yakıt ikmalini sağlar.",
+  "Kullandığı ölçü aletleri ve cihazların bakım-onarımlarını yapar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T15:14:33",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 7385
+  }
+ }
+}

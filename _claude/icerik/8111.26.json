@@ -1,0 +1,84 @@
+{
+ "arac_gerec": [
+  "Boru kesme makinesi/testeresi",
+  "Raybalama takımı",
+  "Boru bükme makinesi",
+  "Diş açma (pafta) takımı",
+  "Kaynak makinesi ve ekipmanı",
+  "Anahtar takımları",
+  "Tutucu kelepçeler ve bağlantı elemanları",
+  "Mapa ve sapanlar",
+  "Conta malzemeleri",
+  "Delik açma makinesi (matkap)",
+  "Metre, gönye ve işaretleme malzemeleri",
+  "Merdiven",
+  "Taşıma arabası/vagonet",
+  "Yeraltı telefonu/telsizi",
+  "Kişisel koruyucu donanım (baret, maske, kulaklık, eldiven, oksijenli ferdi kurtarıcı ve benzeri)"
+ ],
+ "genel_ozellikler": [
+  "El ve beden becerisine sahip,",
+  "Dikkatli ve sabırlı,",
+  "Ekip çalışmasına yatkın,",
+  "Dar, karanlık ve kapalı alanlarda çalışmaktan çekinmeyen,",
+  "Fiziksel olarak güçlü ve dayanıklı,",
+  "Sorumluluk sahibi ve kurallara uyan,",
+  "Ölçme ve basit hesaplama yapabilen,"
+ ],
+ "calisma_ortami": "Boru Ajüstörü (Yer Altı), maden ocaklarının yer altı galerilerinde çalışır. Çalışma ortamı dar, karanlığa yakın (yapay aydınlatmalı), gazlı (metan, karbonmonoksit vb.), tozlu, nemli, ıslak, gürültülü ve zemini düzensiz olabilir. Çalışma genellikle ayakta, eğilerek veya diz üstünde, fiziksel güç gerektiren hareketlerle yapılır.\n\nÇalıştığı işletmenin vardiya düzenine göre dönüşümlü olarak çalışır. Çalışma saatlerinde işveren tarafından sağlanan kişisel koruyucu donanımı (KKD) kullanır. Görevini genellikle bir ekip içinde; tahkimatçı, nakliyat işçisi, elektrik işçisi, ateşleyici ve nezaretçi gibi diğer maden çalışanları ile iş birliği içinde yürütür.",
+ "gorevler": [
+  "Boruların döşeneceği kısımları ölçer ve gerekli hesaplamaları yaparak kullanacağı malzeme miktarını hesaplar.",
+  "Standart borulardan hesapladığı miktarlarda keser, raybalar, büker ve uçlarına diş açar.",
+  "Hazırladığı boruları ve diğer malzemeyi boru sisteminin döşeneceği galeriye taşır.",
+  "Galeri tavanına ve duvarlarına geçit delikleri açar.",
+  "Mapa ve sapanları, tavanlara açtığı deliklere veya demir bağların tavan kısmındaki kenar çıkıntılarına tespit eder.",
+  "Döşenecek boruların altlarına tutucu kelepçeleri geçirir.",
+  "Mapa ve sapanları kelepçelerle irtibatlayarak boruları galeri duvarlarına bağlar.",
+  "Boru eklem yerlerine conta yerleştirerek boruların birbirine bağlanmasını sağlar.",
+  "Montajı tamamlanan boru tesisatını kontrol eder.",
+  "Galerilere daha önceden döşenmiş boru sistemlerinin belirli zamanlarda bakımını yapar.",
+  "Arızalı boruları ve sistem üzerindeki diğer parçaları söker, tamir eder veya yerlerine yenisini temin ederek tekrar takar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Mesleğe yönelik örgün bir meslek lisesi veya yükseköğretim programı bulunmamaktadır. Mesleğin eğitimi genellikle işbaşında usta yanında yetişme yoluyla ve maden işletmelerinin kendi iç eğitim/işbaşı eğitim programları ile kazandırılır. Ayrıca Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kursları da bu alana giriş için bir kaynak olabilir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak.",
+   "18 yaşını doldurmuş olmak.",
+   "Yer altında ağır ve tehlikeli işlerde çalışabilir olduğunu belgeleyen sağlık raporuna sahip olmak.",
+   "Dar ve kapalı alanlarda çalışmaya engel bir sağlık sorunu bulunmamak."
+  ],
+  "sure_ve_icerik": "Eğitim; boru kesme, raybalama, bükme, diş açma, kaynak, tahkimat, galeride delik açma, yer altı iş sağlığı ve güvenliği gibi konuları kapsar. Eğitim süresi, verildiği kurum ve işletmeye göre değişmekle birlikte genellikle işbaşı uygulamalı eğitimler ve kısa süreli kurslar şeklinde yürütülür.",
+  "belge": "Kurs veya işbaşı eğitimi sonunda kurum/işletme tarafından eğitim/kurs bitirme belgesi verilebilir. Yer altı maden işleri tehlikeli ve çok tehlikeli işler kapsamında değerlendirildiğinden, bazı işletmelerde Mesleki Yeterlilik Kurumu (MYK) Mesleki Yeterlilik Belgesi istihdamda tercih sebebi olabilir veya işe alım şartı olarak aranabilir."
+ },
+ "calisma_alanlari": "Boru Ajüstörleri (Yer Altı), yer altı kömür ve metal madenciliği yapılan işletmelerde çalışır. Maden ocağı galerilerine hava, su, buhar ve ramble malzemesi taşıyan boru ve vantüp sistemlerinin kurulduğu, monte edildiği ve bakım-onarımının yapıldığı yer altı çalışma alanlarında görev alırlar. Hem kamuya bağlı maden işletmelerinde hem de özel sektöre ait maden ocaklarında istihdam olanağı bulunmaktadır. İş bulma olanağı, ülkedeki maden işletmeciliği faaliyetlerinin yoğunluğuna ve istihdam ihtiyacına bağlı olarak değişkenlik gösterir.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğe örgün bir eğitim yoluyla değil genellikle işbaşında yetişme yoluyla girildiğinden, eğitim süresince ayrı bir kazanç genellikle söz konusu değildir; işletme bünyesinde verilen işbaşı eğitimlerinde çalışanın ücret durumu işletmenin uygulamasına göre değişebilir.",
+  "egitim_sonrasi": [
+   "Yer altı maden işlerinde çalışanların günlük ve haftalık çalışma süreleri ile taban ücret uygulamaları ilgili iş kanunu hükümleriyle düzenlenmiştir.",
+   "Yeni başlayanların kazancı genellikle asgari ücret düzeyinde olmaktadır.",
+   "Kazanç; çalışılan işletmenin büyüklüğü, çalışanın tecrübesi ve varsa toplu iş sözleşmesi hükümlerine göre değişkenlik gösterebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğe yönelik örgün bir eğitim kademesi veya basamaklı ilerleme sistemi bulunmamaktadır. Tecrübe kazandıkça ve ek kurslara katılarak bilgi ve becerisini geliştirebilir.",
+  "is_hayatinda": "Mesleki tecrübe, bilgi birikimi ve yeteneklerine göre ustabaşılığa, tesisat bakım-onarım sorumluluğuna veya nezaretçilik görevlerine yükselebilir."
+ },
+ "benzer_meslekler": [
+  "Tahkimatçı-Maden Ocağı",
+  "Yeraltı Hazırlık İşçisi (Madencilik ve Maden Çıkarma)",
+  "Tulumbacı-Maden Ocağı",
+  "Tesis İşçisi (Maden)",
+  "Yeraltı Nakliyat İşçisi",
+  "Tamir Tarama Sökümcüsü"
+ ],
+ "ek_bilgiler": "Yer altı maden işleri, mevzuatımızda genel olarak tehlikeli ve çok tehlikeli işler sınıfında değerlendirilmektedir. Bu nedenle mesleği yapacak kişilerin işe giriş ve periyodik sağlık muayenelerinden geçmeleri ve iş sağlığı güvenliği kurallarına titizlikle uymaları önemlidir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T10:15:23",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6680
+  }
+ }
+}

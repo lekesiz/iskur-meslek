@@ -1,0 +1,80 @@
+{
+ "arac_gerec": [
+  "Dijital tartım cihazları (teraziler) ve dara ayar sistemleri",
+  "Peynir taşıma konveyörleri",
+  "Standart formül/reçete çizelgeleri ve üretim talimatları",
+  "Tartım ve karıştırma kapları/kazanları",
+  "Eritme ve krem peynir üretim makinelerine ürün gönderme/aktarma düzenekleri",
+  "El ve araç-gereç dezenfeksiyon malzemeleri",
+  "Temizlik ve hijyen ekipmanları (deterjan, fırça, basınçlı yıkama vb.)",
+  "Depo stok takip ve ürün tedarik formları",
+  "Koruyucu iş kıyafeti, bone, eldiven, önlük ve çizme",
+  "Palet taşıma arabaları ve transfer ekipmanları",
+  "Vardiya devir-teslim defteri/formları",
+  "Basit bakım-onarım takip kayıtları"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve tedbirli, gerekli önlemleri zamanında alabilen,",
+  "El ve kol kaslarını iyi kullanabilen, fiziksel olarak dayanıklı,",
+  "Hijyen ve temizlik kurallarına titizlikle uyan,",
+  "Bulaşıcı hastalıkların taşıyıcısı olmayan (gıda üretimine uygun sağlık durumuna sahip),",
+  "Talimat ve standart formüllere uygun çalışabilen,",
+  "Takım çalışmasına ve vardiya düzenine uyumlu,",
+  "Sorumluluk sahibi ve düzenli,",
+  "Basit ölçüm ve tartım işlemlerini doğru yapabilen"
+ ],
+ "calisma_ortami": "\"Eritme Peynir İmal İşçisi, süt ve peynir işleme tesislerinde, fabrika üretim hatlarında çalışır. Çalışma ortamı genellikle soğuk, nemli, kokulu olabilir; bazı bölümlerde serin depo koşullarında görev yapılır. İş büyük ölçüde ayakta ve fiziksel güç gerektiren hareketlerle (taşıma, tartma, karıştırma) yürütülür, zaman zaman vardiya usulü çalışma söz konusudur.\\n\\nMeslek mensubu, vardiya arkadaşları, depo sorumlusu, üretim ve kalite kontrol bölümü çalışanları ile sürekli iletişim halindedir. İşin niteliği gereği hijyen kurallarına titizlikle uyulması, kişisel koruyucu donanımın (önlük, bone, eldiven, çizme) kullanılması ve iş güvenliği önlemlerine dikkat edilmesi gerekir.\"",
+ "egitim": {
+  "verildigi_yerler": "Bu meslek için örgün eğitim sisteminde ayrı bir meslek lisesi dalı veya çıraklık programı bulunmamaktadır. Meslek genellikle süt ve peynir üretim tesislerinde işbaşında, usta yanında uygulamalı olarak öğrenilir. Ayrıca Halk Eğitim Merkezleri ile İŞKUR tarafından açılan gıda işleme/süt ve süt ürünleri alanındaki mesleki eğitim kurslarına katılarak da mesleğe yönelik temel bilgi ve beceriler kazanılabilir.",
+  "giris_kosullari": [
+   "İlköğretim mezunu olmak (meslek sözlüğünde belirtilen minimum eğitim düzeyi)",
+   "Gıda üretiminde çalışmaya uygun genel sağlık durumuna sahip olmak",
+   "İşletmelerin düzenlediği işe alım kriterlerini (yaş, sağlık raporu, portör muayenesi vb.) karşılamak",
+   "Kurs/kuruma göre değişen temel okuryazarlık ve basit hesap yapabilme becerisine sahip olmak"
+  ],
+  "sure_ve_icerik": "Resmî, standart bir eğitim süresi ve müfredatı bulunmamaktadır. İşletme içi eğitimler genellikle kısa süreli uygulamalı anlatımlar ve usta öğreticinin gözetiminde yapılan pratik çalışmalardan oluşur; tartım, karışım hazırlama, hijyen kuralları ve makine/konveyör kullanımı gibi konular öğretilir. Halk Eğitim Merkezi veya İŞKUR kursları ise genellikle gıda güvenliği, hijyen ve temel süt ürünleri işleme bilgisini içeren kısa süreli programlardır.",
+  "belge": "İşletme içi eğitimlerde resmî bir belge düzenlenmemektedir; çalışma deneyimi işveren tarafından belgelenebilir. Halk Eğitim Merkezi veya İŞKUR kurslarına katılanlara kurs bitirme/katılım belgesi verilir. Mesleki Yeterlilik Kurumu (MYK) tarafından gıda/süt ürünleri alanında düzenlenebilecek yeterlilik belgeleri, istihdamda tercih sebebi olabilir."
+ },
+ "gorevler": [
+  "Fireye ayrılıp gönderilen peynirleri kontrol eder, eksik veya biten ürün varsa depodan tedarik eder,",
+  "Kullanılacak malzemeleri kontrol eder, eksiklikleri tamamlar,",
+  "Kullanılacak olan tartım cihazını ve konveyörün çalışmasını kontrol eder, varsa arızalarının giderilmesini sağlar,",
+  "Tartım işlemi öncesinde, tartım işleminde kullanılacak olan kapların, terazide gerekli dara ayarlarını yapar,",
+  "Eritme peynir üretim ünitesince gerçekleştirilecek üretime uygun olarak talep edilen miktarda, formüllere uygun olarak peynirleri tartar, peynir karışımını hazırlar,",
+  "Karışımı hazırlanan ve üretime hazır hale getirilen peynirlerin, eritilme ve krem peynir üretimi için ilgili bölüme gönderilmesini sağlar,",
+  "Hazırlama işlemleri sırasında ellerini dezenfekte eder,",
+  "Bölümünde kullandığı araç, gereç ve malzemelerin temizlik ve hijyenini sağlar,",
+  "Kullandığı malzeme ve teçhizatın bakım ve onarımlarının zamanında yapılmasını sağlar,",
+  "Vardiyaya ilişkin bilgi ve belgeleri bir sonraki vardiya görevlisine teslim eder,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "calisma_alanlari": "\"Eritme Peynir İmal İşçisi, süt ürünleri ve peynir üretimi yapan fabrikalarda, mandıralarda ve gıda işleme tesislerinin eritme/krem peynir üretim bölümlerinde çalışabilir. Ayrıca büyük ölçekli süt ve peynir işletmelerinin fire değerlendirme ve hazırlık ünitelerinde istihdam edilme olanağı bulunmaktadır. Gıda sektöründeki üretim hacmine ve mevsimsel talebe bağlı olarak iş bulma olanakları değişkenlik gösterebilir.\"",
+ "kazanc": {
+  "egitim_suresince": "Bu meslek için örgün bir çıraklık eğitimi bulunmadığından, mesleğe işbaşında başlayanlar genellikle çalıştıkları işletmede, deneme/eğitim sürecinde asgari ücret düzeyinde bir ücretle çalışmaya başlar. Kurs döneminde (Halk Eğitim Merkezi/İŞKUR kursları) katılımcılara genellikle ücret ödenmez; İŞKUR kurslarında şartlara bağlı olarak cep harçlığı/sigorta desteği sağlanabilir.",
+  "egitim_sonrasi": [
+   "Kamu iktisadi teşekkülleri veya belediyelere bağlı süt/peynir üretim tesislerinde işçi statüsünde çalışanlar toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde çalışanların kazancı, işyerinin büyüklüğü, kişinin tecrübesi ve çalışma kapasitesine göre değişmekle birlikte, yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar; deneyim kazanıldıkça ücret artabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Meslekte ilerlemek isteyenler, Halk Eğitim Merkezleri ve İŞKUR'un açtığı gıda işleme ve süt ürünleri ile ilgili kurslara katılarak bilgi ve becerilerini geliştirebilir. Ortaöğretimini tamamlayanlar, isterlerse gıda teknolojisi alanında ön lisans/lisans düzeyindeki programlara yönelerek mesleki bilgilerini ileri düzeye taşıyabilir.",
+  "is_hayatinda": "Deneyim kazanan çalışanlar, işletme içinde vardiya sorumluluğu, usta/usta öğreticilik gibi görevlere veya üretim bölümünde kademeli olarak daha sorumlu pozisyonlara (örneğin üretim şefliği) yükselebilir. Yeterli deneyim ve sermaye ile kendi küçük ölçekli süt/peynir işleme işletmesini kurma olanağı da bulunmaktadır."
+ },
+ "benzer_meslekler": [
+  "Peynir İmal İşçisi",
+  "Eritme Peynir Makinesi Operatörü",
+  "Kaşkaval Makinesi Operatörü",
+  "Krem Peynir İmalat Ustası",
+  "Kaşar Peyniri İmalat Ustası",
+  "Süt ve Süt Ürünleri İşlemecisi"
+ ],
+ "ek_bilgiler": "\"Gıda üretiminde çalışacak kişilerden, mevzuat gereği periyodik sağlık muayenesi (portör muayenesi) istenebilir. Bulaşıcı hastalık taşıyıcısı olmamak, gıda güvenliği açısından bu meslekte çalışmanın ön şartlarından biridir.\"",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T07:19:00",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6572
+  }
+ }
+}

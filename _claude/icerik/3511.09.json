@@ -1,0 +1,79 @@
+{
+ "arac_gerec": [
+  "Bilgisayar ve sunucu (server) sistemleri",
+  "Ağ donanımları (switch, router, firewall)",
+  "Yedekleme (backup) cihazları ve yazılımları",
+  "Sistem ve ağ izleme (monitoring) yazılımları",
+  "İşletim sistemi yazılımları",
+  "Veri tabanı yönetim yazılımları",
+  "Kesintisiz güç kaynağı (UPS)",
+  "İklimlendirme ve soğutma sistemleri kontrol panelleri",
+  "Kablolama ve bağlantı ekipmanları",
+  "Güvenlik yazılımları (antivirüs, güvenlik duvarı)",
+  "Teknik dokümantasyon ve kullanım kılavuzları",
+  "İç iletişim araçları (telefon, telsiz, mesajlaşma sistemleri)"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve sorumluluk sahibi,",
+  "Analitik düşünebilen ve problem çözme becerisine sahip,",
+  "Gözlem ve takip gücü yüksek,",
+  "Ekip çalışmasına uyumlu,",
+  "Stresli ve acil durumlarda sakin kalabilen,",
+  "Teknolojik gelişmeleri takip etmeye istekli,",
+  "Vardiyalı ve gerektiğinde gece çalışmasına uygun,",
+  "Güvenilir ve bilgi gizliliğine önem veren"
+ ],
+ "calisma_ortami": "Sistem İşletmeni, genellikle kapalı mekanlarda; bilgi işlem merkezleri, sistem odaları ve veri merkezlerinde çalışır. Sistem odaları iklimlendirmesi sürekli kontrol edilen, genellikle sakin ve serin ortamlardır. Çalışma sırasında büyük ölçüde ekran karşısında oturarak sistemleri izler, bu nedenle uzun süreli dikkat ve konsantrasyon gerektirir.\n\nBilişim sistemlerinin kesintisiz işletilmesi gerektiğinden çalışma genellikle vardiyalı düzende yürütülür; gece ve hafta sonu nöbetleri söz konusu olabilir. Amirleri, bilgi işlem ekibi ve diğer teknik personelle yakın iletişim halinde çalışır; sistemde oluşan arıza veya hatalarda hızlı müdahale etmesi gerekebilir.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi, ortaöğretim düzeyinde mesleki ve teknik eğitim kurumlarının bilişim teknolojileri alanıyla ilgili bölümlerinde verilmektedir. Ayrıca Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kurslarında da bu alanda eğitim verilebilmektedir. İsteyenler ön lisans düzeyinde bilgisayar programcılığı, bilgisayar teknolojisi gibi ilgili bölümlerde eğitim alarak bilgi ve becerilerini ileri düzeye taşıyabilirler.",
+  "giris_kosullari": [
+   "Lise veya dengi okul mezunu olmak",
+   "Mesleki ve teknik ortaöğretim programlarının öğrenci kabul şartlarını taşımak",
+   "Kurs programları için ilgili kurumların belirlediği öğrenim ve yaş şartlarını taşımak"
+  ],
+  "sure_ve_icerik": "Mesleki ve teknik ortaöğretim kurumlarındaki eğitim süresi, diğer ortaöğretim programlarıyla paralel olarak 4 yıldır. Eğitim süresince bilgisayar donanımı, işletim sistemleri, ağ teknolojileri temelleri, veri tabanı yönetimi, sistem izleme ve bakımı, ofis uygulamaları ile mesleki uygulama dersleri okutulmaktadır. Kurum ve kurslara göre süresi değişmekle birlikte, Halk Eğitim Merkezleri ve İŞKUR kurslarında da genellikle işletim sistemleri, temel ağ yönetimi, sistem izleme ve bilgisayar donanımı konuları işlenmektedir.",
+  "belge": "Mesleki ve teknik ortaöğretim kurumlarından mezun olanlara diploma verilir. Kurs programlarına katılıp başarılı olanlara katılım veya başarı belgesi/sertifika verilir. Alanla ilgili Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "gorevler": [
+  "İş sağlığı ve güvenliği, yangın ve acil durum kurallarını uygular.",
+  "Kalite yönetim sistemi ile ilgili faaliyetleri yürütür.",
+  "İş organizasyonu yapar.",
+  "Sistemin işleyişini ekrandan takip eder, sistemde oluşan problemleri verilen yönergeler doğrultusunda giderir, sistem odasındaki iklimlendirme koşullarındaki değişiklikleri izleyerek limit aşımlarını amirine iletir, ana bilgisayarı açar ve kapatır, sisteme yazılım yükler.",
+  "Bilgisayar, ağ ve yedekleme sistemlerini izler ve hata kontrolü yapar.",
+  "Bilgisayar, ağ ve yedekleme sistemlerini işletir ve yedekleme yapar.",
+  "Ana bilgisayar sistemlerini işletir ve yedekleme yapar.",
+  "Veri güvenliği ve gizliliğini sağlar.",
+  "Uygulamaları izler ve süreçleri işletir.",
+  "Mesleki gelişim faaliyetlerini yürütür."
+ ],
+ "calisma_alanlari": "Meslek elemanları; kamu kurumlarının bilgi işlem birimlerinde, bankalarda, bilişim şirketlerinde, veri merkezlerinde (data center), hastane, üniversite ve büyük ölçekli işletmelerin bilgi işlem departmanlarında istihdam edilmektedir. Bilişim ve veri merkezi sektörünün büyümesine paralel olarak nitelikli sistem işletmenine olan ihtiyaç sürmektedir; ancak bu alanda iş bulmada deneyim ve ağ/sistem yönetimi konularında alınan ek sertifikalar avantaj sağlamaktadır.",
+ "kazanc": {
+  "egitim_suresince": "Mesleki ve teknik ortaöğretim kurumlarında öğrenim gören öğrenciler, imkanları olanaklı olan kurumlardaki burs ve barınma desteklerinden yararlanabilir. Halk Eğitim Merkezleri ve İŞKUR'un açtığı kurs programlarına katılanlar, programın niteliğine göre bazı desteklerden (örneğin günlük cep harçlığı) yararlanabilmektedir.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında çalışanlar 657 sayılı Devlet Memurları Kanunu hükümlerine, işçi statüsünde çalışanlar ise ilgili toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde çalışanların ücreti; işyerinin büyüklüğüne, çalışanın deneyimine ve bilgi/beceri düzeyine göre işveren tarafından belirlenir.",
+   "Mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde bir ücretle çalışmaya başlar; deneyim ve uzmanlık arttıkça kazanç da artabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğini daha ileri düzeyde yürütmek isteyenler, ön lisans veya lisans düzeyinde bilgisayar programcılığı, bilgisayar teknolojisi, bilgisayar mühendisliği gibi ilgili alanlarda eğitim alarak bilgi ve becerilerini geliştirebilirler. Ayrıca ağ yönetimi, sistem yönetimi ve bilgi güvenliği alanlarında açılan sertifika programlarına katılarak uzmanlıklarını artırabilirler.",
+  "is_hayatinda": "Deneyim kazandıkça sistem yöneticisi, ağ yöneticisi veya bilgi işlem sorumlusu gibi görevlere yükselebilirler. Kendini geliştiren ve yönetim becerisi kazanan meslek elemanları bilgi işlem müdürlüğü gibi yönetim kademelerine ilerleyebilir."
+ },
+ "benzer_meslekler": [
+  "Sistem İşletme Sorumlusu",
+  "Ağ İşletmeni / Ağ Teknolojileri Elemanı",
+  "Bilgi İşlem Destek Sorumlusu",
+  "Bilgisayar Operatörü",
+  "Sistem ve Ağ Uzmanı",
+  "Bilgi İşlem Donanım Görevlisi"
+ ],
+ "ek_bilgiler": "Bilişim sistemlerinin kesintisiz çalışması gerektiğinden, bu meslekte vardiyalı ve gerektiğinde gece çalışması söz konusu olabilir; bu durum meslek seçiminde dikkate alınmalıdır.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T14:59:49",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6751
+  }
+ }
+}

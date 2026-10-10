@@ -1,0 +1,86 @@
+{
+ "arac_gerec": [
+  "Atık yağ kabul ve depolama tankları",
+  "Susuzlaştırma üniteleri",
+  "Çözücü ekstraksiyon kolonları",
+  "Filtrasyon üniteleri (basınçlı/vakumlu filtreler)",
+  "Hidrojenerasyon reaktörleri",
+  "Pompalar, vanalar ve boru hatları",
+  "Isıtma, buhar ve soğutma sistemleri",
+  "Sıcaklık, basınç ve seviye ölçüm cihazları",
+  "Numune alma ve laboratuvar analiz ekipmanları",
+  "Proses kontrol ve otomasyon panelleri",
+  "Kimyasal katkı maddeleri ve çözücüler",
+  "Kişisel koruyucu donanım (eldiven, gözlük, maske, tulum, çizme)",
+  "Tanker/boru hattı bağlantı ve transfer ekipmanları",
+  "Kayıt ve raporlama için bilgisayar"
+ ],
+ "genel_ozellikler": [
+  "Fen bilimlerine ve kimyaya ilgili,",
+  "Dikkatli ve tedbirli,",
+  "Sorumluluk sahibi,",
+  "El ve beden becerisine sahip,",
+  "Talimat ve prosedürleri eksiksiz uygulayabilen,",
+  "Takım çalışmasına uyumlu,",
+  "Kimyasal maddelerle çalışmaya engel sağlık sorunu bulunmayan,",
+  "Vardiyalı çalışma düzenine uyum sağlayabilen"
+ ],
+ "calisma_ortami": "Atık Madeni Yağ Rafinasyon Elemanı, atık madeni yağ rafinasyon tesislerinde çalışır. Çalışma ortamı genellikle kapalı tesis alanlarıdır; bununla birlikte tank sahası, yükleme-boşaltma gibi bazı işlemler açık alanda yürütülebilir. Ortam; kimyasal koku, yağ artıkları, sıcaklık ve basınçlı ekipmanlar nedeniyle risk taşıyabilir; bu nedenle kişisel koruyucu donanım kullanımı ve iş sağlığı-güvenliği kurallarına uyum önemlidir.\n\nÇalışma genellikle vardiya sistemiyle yürütülür. Meslek mensubu çalışırken mühendisler, teknikerler, operatörler, iş güvenliği ve çevre görevlileri ile atık yağ toplama/tedarik eden kişilerle iletişim halindedir.",
+ "gorevler": [
+  "İş sağlığı ve güvenliği talimatlarını uygular.",
+  "Çevre koruma önlemlerini alır.",
+  "Kalite gerekliliklerine uygun çalışır.",
+  "Vardiya değişimi yapar.",
+  "İş programı yapar.",
+  "Çalışma ortamını hazırlar.",
+  "Atık madeni yağın işletmeye kabulünü yapar.",
+  "Makine ve ekipmanları hazırlar.",
+  "Atık madeni yağı ve işlem yardımcı maddelerini hazırlar.",
+  "Yağı susuzlaştırır.",
+  "Atık yağdan asfalt giderimi yapar.",
+  "Baz yağa çözücü ekstraksiyon uygular.",
+  "Baz yağa filtrasyon uygular.",
+  "Baz yağa hidrojenerasyon uygular.",
+  "Rafinasyon sonrası işlemleri yapar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Bu meslek için örgün eğitim sisteminde ayrı ve bağımsız bir program bulunmamaktadır. Kimya, kimya teknolojisi, petrol/rafineri teknolojisi, çevre teknolojileri, iş sağlığı ve güvenliği gibi ilgili alanlarda ortaöğretim düzeyinde mesleki ve teknik eğitim almış kişiler bu mesleğe yönelebilir. Ayrıca Halk Eğitim Merkezleri, İŞKUR ve sektör kuruluşlarının açtığı mesleki eğitim kursları ile işyerlerinde işbaşında usta yanında yetişme yoluyla da mesleğe giriş yapılabilmektedir.",
+  "giris_kosullari": [
+   "Lise ve dengi okul mezunu olmak (kimya, çevre veya ilgili teknik alanlardan mezun olmak tercih sebebidir)",
+   "İşin gerektirdiği fiziksel ve sağlık koşullarına uygun olmak",
+   "Kimyasal maddelerle ve basınçlı/ısıtmalı ekipmanlarla çalışmaya engel bir sağlık sorunu bulunmamak"
+  ],
+  "sure_ve_icerik": "Mesleğe özgü standart bir eğitim süresi ve müfredatı bulunmamaktadır. İlgili mesleki ve teknik ortaöğretim programlarında genel kimya, kimyasal işlemler, iş sağlığı ve güvenliği, çevre koruma gibi dersler yer alabilir. Mesleğe işletme bünyesinde başlayanlar, iş başında deneyimli personel (usta) gözetiminde ve kurumsal/sektörel eğitimler aracılığıyla atık yağ kabulü, hazırlık, susuzlaştırma, çözücü ekstraksiyonu, filtrasyon ve hidrojenerasyon gibi işlemleri öğrenirler.",
+  "belge": "Örgün bir diploma yerine, katılınan kurslardan kurs bitirme/katılım belgesi ya da işletme içi eğitim belgesi alınabilir. Mesleki Yeterlilik Kurumu (MYK) Mesleki Yeterlilik Belgesi, ilgili alanda düzenleniyorsa istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Atık Madeni Yağ Rafinasyon Elemanları, atık madeni yağların toplanması ve rafinasyonu ile baz yağ üretimi yapan tesislerde, geri kazanım ve çevre teknolojileri işletmelerinde çalışabilirler. Çevresel sürdürülebilirlik ve atık yönetimine verilen önemin artması bu alandaki istihdamı olumlu etkileyebilmekle birlikte, bu tür tesislerin sayısının sınırlı olması iş bulma olanaklarını kısıtlayabilmektedir.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğe kurs yoluyla hazırlananlar, İŞKUR'un işbaşı eğitim programları kapsamında katılıyorlarsa düzenlemelere göre cep harçlığından yararlanabilirler. İşletme bünyesinde çalışarak mesleği öğrenenler ise genellikle asgari ücret düzeyinde kazanç sağlarlar.",
+  "egitim_sonrasi": [
+   "Kamu kurum/kuruluşlarında istihdam edilenler, statülerine göre 657 sayılı Devlet Memurları Kanunu veya ilgili toplu iş sözleşmesi hükümlerine göre ücret alırlar.",
+   "Özel sektörde yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar; deneyim, bilgi, beceri, çalışılan işletmenin büyüklüğü ve sektörün ücret düzeyine göre kazanç artabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğe yönelik ayrı bir örgün eğitim kademesi bulunmadığından doğrudan bir dikey geçiş olanağı yoktur. Kimya, kimya teknolojisi, çevre teknolojileri, petrol ve rafineri teknolojisi gibi alanlarda ön lisans veya lisans eğitimi alarak mesleki bilgi ve unvanını geliştirmek mümkündür.",
+  "is_hayatinda": "Bilgi ve deneyimini artıran Atık Madeni Yağ Rafinasyon Elemanı, vardiya sorumlusu, ekip lideri veya usta başı/formen gibi görevlere yükselebilir. İlgili alanlarda eğitim tamamlayarak tekniker veya mühendis kadrolarında görev alma olanağına kavuşabilir."
+ },
+ "benzer_meslekler": [
+  "Rafineri ve Petrokimya Teknikeri",
+  "Muamele İşçisi (Petrol Rafinesi)",
+  "Reaktör Operatörü-Petrol Rafinerisi",
+  "Ham Petrol Muamelecisi",
+  "Petrokimya Üretim Elemanı",
+  "Kontrolör (Petrol Rafinesi)"
+ ],
+ "ek_bilgiler": "Atık madeni yağların toplanması, taşınması ve rafinasyonu, çevre mevzuatı kapsamında lisanslı/yetkili tesislerde yürütülmektedir. Çalışanların iş sağlığı ve güvenliği ile çevre koruma mevzuatına ilişkin eğitimleri düzenli olarak alması ve güncellemesi mesleğin önemli bir gerekliliğidir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T11:15:15",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6853
+  }
+ }
+}

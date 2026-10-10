@@ -1,0 +1,77 @@
+{
+ "arac_gerec": [
+  "Bilgisayar ve sunucu donanımları",
+  "Ağ (network) ekipmanları",
+  "Sistem tasarımı ve modelleme yazılımları (UML, akış şeması araçları vb.)",
+  "Veritabanı yönetim sistemleri",
+  "İşletim sistemleri",
+  "Bulut bilişim platformları",
+  "Versiyon kontrol sistemleri",
+  "Entegre geliştirme ortamları (IDE)",
+  "Proje yönetimi ve dokümantasyon yazılımları",
+  "Test ve hata ayıklama araçları",
+  "Büro yazılımları ve iletişim/toplantı uygulamaları"
+ ],
+ "benzer_meslekler": [
+  "Sistem Analisti (BT)",
+  "Sistem Çözümleyici",
+  "BT Çözümleri Uzmanı",
+  "Bilişim Sistemleri Mühendisi",
+  "Yazılım Mühendisi",
+  "BT İş Analisti (Bilişim Teknolojileri İş Analisti)"
+ ],
+ "calisma_alanlari": "Sistem Mimarı/Tasarımcıları başta yazılım geliştirme şirketleri olmak üzere, bankacılık ve finans kuruluşları, kamu kurumlarının bilgi işlem/bilişim birimleri, telekomünikasyon şirketleri, e-ticaret firmaları ve bilişim danışmanlık şirketlerinde istihdam edilmektedir.\n\nKurumların bilgi sistemlerine olan bağımlılığının artması ve dijital dönüşüm süreçlerinin hız kazanması nedeniyle, karmaşık sistemleri tasarlayabilen ve ilgili ayrıntılı teknik şartnameleri hazırlayabilen deneyimli meslek elemanlarına olan talep sürmektedir. Alanında deneyim ve güncel teknolojilere ilişkin bilgi birikimi olan kişilerin iş bulma olanakları diğer bilişim mesleklerine kıyasla daha elverişlidir.",
+ "calisma_ortami": "Sistem Mimarı/Tasarımcıları genellikle büro ortamında, bilgisayar başında oturarak çalışır. Çalışmalarının önemli bir bölümü ekip içinde; programcılar, sistem analistleri, proje yöneticileri ve müşterilerle sürekli iletişim gerektirir. Gerektiğinde sunucu odaları, veri merkezleri gibi teknik alanlarda da bulunabilirler.\n\nÇalışma saatleri genellikle düzenlidir; ancak proje teslim tarihlerine yakın dönemlerde veya sistem kurulum/devreye alma aşamalarında mesai saatleri uzayabilir. Uzun süre ekran karşısında çalışma, bu meslekte sıklıkla görülen bir durumdur. Günümüzde bu meslekte kısmen veya tamamen uzaktan çalışma da yaygın bir uygulamadır.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi, üniversitelere bağlı fakülte ve yüksekokulların bilgisayar mühendisliği, yazılım mühendisliği, bilgisayar bilimleri, bilişim sistemleri mühendisliği gibi ilgili lisans programlarında verilmektedir.",
+  "giris_kosullari": [
+   "Lise veya dengi okul mezunu olmak",
+   "YKS (Yükseköğretim Kurumları Sınavı) kılavuzunda ilgili lisans programları için belirtilen giriş koşullarını taşımak ve yeterli puanı almak",
+   "İlgili ön lisans programlarından mezun olanlar, Dikey Geçiş Sınavı (DGS) ile ilgili lisans programlarına geçiş yapabilir"
+  ],
+  "sure_ve_icerik": "Eğitim süresi 4 yıldır. Eğitim süresince programlama, veri yapıları ve algoritmalar, veritabanı yönetimi, yazılım mühendisliği, sistem analizi ve tasarımı, bilgisayar ağları, işletim sistemleri, bulut bilişim gibi dersler okutulmaktadır.",
+  "belge": "Eğitimi başarı ile tamamlayanlara lisans diploması verilir. Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "ek_bilgiler": "Sistem Mimarı/Tasarımcısı, genellikle belirli bir süre programcı veya sistem analisti olarak çalıştıktan sonra deneyim ve teknik yetkinlikle ulaşılan kıdemli bir pozisyondur; mesleğe doğrudan atama ile başlamak yaygın değildir.",
+ "genel_ozellikler": [
+  "Analitik ve sistematik düşünebilen,",
+  "Matematiksel ve mantıksal akıl yürütme yeteneğine sahip,",
+  "Soyut kavramları somut sistem çözümlerine dönüştürebilen,",
+  "Ayrıntılara dikkat eden,",
+  "Teknik ve teknik olmayan kişilerle etkili iletişim kurabilen,",
+  "Yeni teknolojileri öğrenmeye açık ve istekli,",
+  "Takım çalışmasına uyumlu,",
+  "Problem çözme becerisine sahip"
+ ],
+ "gorevler": [
+  "Dizi ve kütük yapılarını geliştirir.",
+  "Çıktıların yapılarını ve görünüşlerini belirler.",
+  "Bilgi toplar, işlem ve denetim yöntemlerini tasarlar.",
+  "Programcılara ve yönetmelikleri yazanlara yol gösterir.",
+  "Program ve işlem denemelerinin sonuçlarını değerlendirir.",
+  "Tasarım ve denemelerin sonuçlarını belgeler.",
+  "Sistem denemesi ve kurulmasına yardımcı olur.",
+  "Sistem bölümlerinin gereksinimleri karşıladığını belirlemek için denemeler yapar.",
+  "Bilginin optimum denetimini ve güvenliğini, kaynakların en iyi biçimde kullanımını sağlayacak sistem akışını tasarlar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Lisans eğitimini tamamlayanlar, bilgisayar mühendisliği, yazılım mühendisliği veya ilgili alanlarda yüksek lisans ve doktora yaparak akademik kariyer imkânı bulabilir; üniversitelerde araştırma görevlisi, öğretim üyesi olarak çalışabilirler.",
+  "is_hayatinda": "İş hayatında deneyim kazanan Sistem Mimarı/Tasarımcıları kıdemli sistem mimarı, proje yöneticisi, bilgi işlem/bilişim müdürü gibi yönetici pozisyonlarına; büyük ölçekli kuruluşlarda üst düzey teknoloji yöneticiliği (CTO) seviyesine kadar ilerleyebilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Meslek eğitimi süresince öğrenciler, Kredi ve Yurtlar Genel Müdürlüğünün sağladığı öğrenim kredisi ve yurt hizmetlerinden; ayrıca çeşitli resmi ve özel kurum/kuruluşların burslarından yararlanabilir. İstek ve donanıma göre, eğitim sırasında staj veya yarı zamanlı çalışmalarla gelir elde edilebilir.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında çalışanlar, 657 sayılı Devlet Memurları Kanunu'na göre öğrenim düzeylerine uygun teknik hizmetler sınıfından maaş ve yan ödeme alır.",
+   "Özel sektörde ücret; çalışılan firmanın büyüklüğü, sektörü, kişinin deneyimi ve üstlendiği sorumluluk düzeyine göre değişmektedir; mesleğe yeni başlayanlarda ücret genellikle asgari ücret düzeyinden başlayıp deneyimle birlikte artış göstermektedir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T05:48:34",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 4857
+  }
+ }
+}

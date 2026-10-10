@@ -1,0 +1,84 @@
+{
+ "arac_gerec": [
+  "Traktör",
+  "Pulluk",
+  "Mibzer (ekim makinesi)",
+  "Tırmık / diskaro",
+  "Gübre dağıtıcısı",
+  "Pülverizatör (ilaçlama makinesi)",
+  "Tarım ilaçları (herbisit, insektisit, fungisit)",
+  "Tohumluk arpa",
+  "Kimyasal gübreler",
+  "Tırpan",
+  "Biçerdöver",
+  "Sulama ekipmanları",
+  "Depolama/silo ekipmanları",
+  "Nem ölçer"
+ ],
+ "benzer_meslekler": [
+  "Buğday Yetiştiricisi",
+  "Serin İklim Tahılları Yetiştiricisi",
+  "Yulaf Yetiştiricisi",
+  "Tritikale Yetiştiricisi",
+  "Tarla Bitkileri Yetiştiricisi",
+  "Çiftçi (Tarla Ürünleri)"
+ ],
+ "calisma_alanlari": "Arpa Yetiştiricisi, kendi tarım işletmesinde veya aile işletmesinde bağımsız olarak çalışabileceği gibi, tarımsal üretim yapan özel işletmelerde, çiftliklerde ve tarım kooperatiflerinde işçi olarak da görev alabilir. Tohumluk, gübre ve tarım ilacı bayilerinde satış öncesi/sonrası teknik destek işlerinde çalışabilir.\n\nTarım ve Orman Bakanlığı'na bağlı kuruluşlarda, tarımsal araştırma enstitülerinde yardımcı/teknik personel olarak; Toprak Mahsulleri Ofisi ve tahıl alım, nakliye ve depolama yapan kamu ve özel kuruluşlarda da istihdam edilebilir. Malt sanayiine ham madde tedarik eden işletmelerle sözleşmeli üretim yapma imkânı bulunmaktadır.",
+ "calisma_ortami": "Arpa Yetiştiricisi çalışmalarını genellikle açık arazide, tarla şartlarında yürütür; ekim, bakım ve hasat dönemlerinde yoğun bir çalışma temposu söz konusudur. Güneş, sıcak, soğuk, yağmur gibi değişken hava koşullarına, toza ve toprağa maruz kalma işin doğasındandır. Tarım makinelerinin ve kimyasal ilaç-gübrelerin kullanımı nedeniyle iş kazası ve sağlık riskleri bulunur; bu nedenle iş sağlığı ve güvenliği kurallarına uyum önemlidir.\n\nÇalışma saatleri mevsime ve tarımsal faaliyetin yoğunluğuna göre değişkenlik gösterir; ekim ve hasat dönemlerinde uzun ve yoğun çalışma gerekebilir. Meslek elemanı, işletme sahibi, çiftçiler, tarım teknisyenleri ve ziraat mühendisleriyle iş birliği içinde çalışır.",
+ "egitim": {
+  "verildigi_yerler": "Arpa yetiştiriciliğine özgü, ayrı bir diploma programı bulunmamaktadır. Mesleğin bilgi ve becerileri; mesleki ve teknik eğitim kurumlarının Tarım alanı/Bitkisel Üretim ile ilgili programları, mesleki eğitim merkezleri, Halk Eğitim Merkezleri ve İŞKUR'un açtığı tarımsal üretim kursları veya işletmede usta yanında uygulamalı olarak kazanılmaktadır.",
+  "giris_kosullari": [
+   "Örgün mesleki eğitim programlarına katılmak için en az ilköğretim/ortaokul mezunu olmak",
+   "Kısa süreli kurslara katılım için genellikle okuryazar veya ilköğretim mezunu olmak yeterlidir",
+   "Sağlık durumunun açık havada ve tarım işlerinde çalışmaya elverişli olması"
+  ],
+  "sure_ve_icerik": "Arpa yetiştiriciliği için resmî olarak tanımlanmış, standart bir eğitim süresi yoktur. Bilgi ve beceriler; tarım/bitkisel üretim alanındaki mesleki eğitim programları, kısa süreli kurslar veya aile işletmesinde/işbaşında usta-çırak ilişkisi yoluyla kazanılır. İçerik; toprak hazırlığı, tohum seçimi ve ekim, gübreleme, sulama, hastalık-zararlı ve yabancı ot mücadelesi, hasat ve depolama konularını kapsar.",
+  "belge": "Örgün mesleki eğitim programını tamamlayanlara diploma veya sertifika, kurs katılımcılarına katılım belgesi verilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "ek_bilgiler": "Arpa yetiştiriciliği, Türkiye'nin özellikle kurak ve yarı kurak iklim bölgelerinde yaygın olarak yapılan, sonbahar-ilkbahar döneminde yoğunlaşan mevsimsel bir tarımsal faaliyettir. Üretilen ürünün büyük kısmı hayvan yemi ve malt (bira) sanayiine girdi olarak kullanıldığından, bu sektörlerdeki talep düzeyi istihdam olanaklarını ve ürün fiyatlarını etkilemektedir.",
+ "genel_ozellikler": [
+  "Açık havada ve zorlu arazi koşullarında çalışmaya istekli,",
+  "Fiziksel olarak güçlü ve dayanıklı,",
+  "Toprağı ve tarımsal üretimi seven, bu alana ilgi duyan,",
+  "Mekanik yeteneğe sahip ve basit tarım makinelerini kullanabilen,",
+  "Dikkatli ve sorumluluk sahibi,",
+  "Hava koşullarına ve mevsimsel değişikliklere göre çalışma düzenini ayarlayabilen,",
+  "Ekip çalışmasına uyumlu,",
+  "El ve bedensel beceri gerektiren işlerde yetenekli"
+ ],
+ "gorevler": [
+  "Toprak tavında iken pullukla derin sürüm yapar, uygun tarım aleti ile tarlayı düzelterek toprak hazırlığını yapar.",
+  "Ekimden önce tohumları civalı ilaçla ilaçlar.",
+  "Mibzerle arpa tohumlarının ekim derinliği ve sıra aralarını göz önünde bulundurarak ekimini yapar.",
+  "Ekimle birlikte uygun miktarda ve çeşidine göre gübreleme yapar.",
+  "Gelişim evresine göre sapa kalkma ve süt olumu evresinde sulama yapar.",
+  "Hastalık ve zararlılara karşı uygun ilaç ile zamanında ilaçlama yaparak mücadele eder.",
+  "Arpa 3-5 yapraklı döneminde yabancı ot mücadelesi yapar.",
+  "Hasat zamanı arpayı tırpan veya biçerdöver ile hasat eder.",
+  "Arpayı rutubet olmayan kuru, havadar ve aydınlık bir yerde depolar.",
+  "Kullanılan makine, araç, gereç ve ekipmanların periyodik bakımlarını yapar.",
+  "İş sağlığı ve güvenliği ile ilgili kurallara uyar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleki eğitim merkezi veya meslek lisesinin Tarım alanı programlarını tamamlayanlar, yükseköğretime giriş sınavlarında başarılı oldukları takdirde tarım, ziraat veya ilgili alanlardaki önlisans/lisans programlarına yerleşebilirler.",
+  "is_hayatinda": "Deneyim ve bilgi birikimi arttıkça işletmede ustabaşılığa veya işletme yöneticiliğine yükselebilir, kendi tarım işletmesini genişletebilir. Tarım kooperatiflerinde yöneticilik gibi görevler üstlenebilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Örgün mesleki eğitim kapsamında işletmede eğitim görenlere, 3308 sayılı Mesleki Eğitim Kanunu hükümlerine göre ücret ödenir. Kısa süreli kurslarda genellikle ücret ödenmez; aile işletmesinde çalışanlar için ise düzenli bir ücret söz konusu olmayabilir.",
+  "egitim_sonrasi": [
+   "İşe yeni başlayanlarda genellikle asgari ücret düzeyinde kazanç söz konusudur.",
+   "Kendi işletmesinde çalışanların kazancı, arazi büyüklüğü, üretim miktarı ve piyasa koşullarına göre değişkenlik gösterir.",
+   "Kamuda istihdam edilenler, 657 sayılı Devlet Memurları Kanunu veya ilgili toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Deneyim, işletme büyüklüğü ve sözleşmeli üretim ilişkilerine göre kazanç artabilir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T20:06:07",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6187
+  }
+ }
+}

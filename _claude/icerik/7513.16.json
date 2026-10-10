@@ -1,0 +1,80 @@
+{
+ "arac_gerec": [
+  "Şırat pompası",
+  "Krema tankı",
+  "Kaynatma kazanı/tankı",
+  "Termometre",
+  "Süzgeç",
+  "Baskı arabası",
+  "Baskı tablası",
+  "Kürek",
+  "Bidon ve kaplar",
+  "Tazyikli su makinesi/hortum",
+  "Kişisel koruyucu donanım (önlük, bone, eldiven, çizme)",
+  "Temizlik ve dezenfeksiyon malzemeleri"
+ ],
+ "benzer_meslekler": [
+  "Peynir İmal İşçisi",
+  "Kültürcü (Süthane / Mandıra)",
+  "Süthane/ Mandıra İşçisi",
+  "Süt ve Süt Ürünleri İşlemecisi",
+  "Tulum Peyniri İmalat Ustası",
+  "Kaşar Peyniri İmalat Ustası"
+ ],
+ "calisma_alanlari": "Çökelek ustası; mandıralar, peynir imalathaneleri ve süt ürünleri üreten küçük, orta ve büyük ölçekli işletmelerde çalışır. İşletmelerin genellikle peynir üretimi bölümüyle bağlantılı bir biriminde görev alır; peynir imalinden arta kalan şıratın değerlendirildiği üretim hatlarında istihdam edilir. Deneyim ve sermaye birikimi olduğunda, uygun koşullarda kendi küçük ölçekli süt ürünleri/çökelek üretim işletmesini açabilir. İş bulma olanakları, bölgedeki süt ve peynir üretimi hacmine, mevsimsel talebe ve işletme sayısına bağlı olarak değişkenlik gösterebilir.",
+ "calisma_ortami": "Çökelek ustası genellikle mandıra ve süt ürünleri işletmelerinin üretim atölyelerinde çalışır. Çalışma ortamı kaynatma işlemleri nedeniyle sıcak, buharlı, nemli ve kokulu olabilir; zeminin kaygan olması ve sıcak su/buharla çalışılması nedeniyle iş güvenliği önlemlerine dikkat edilmesi gerekir. İş genellikle ayakta, bedensel güç gerektiren hareketli bir biçimde yürütülür; kazan, baskı arabası gibi ekipmanlarla fiziksel temas söz konusudur.\n\nÇalışma saatleri işletmenin üretim programına göre değişebilir; süt ve peynir üretiminin günlük döngüsüne bağlı olarak erken saatlerde başlayan çalışma söz konusu olabilir. Çalışma sırasında işletme sahibi/ustabaşı, diğer üretim çalışanları ve zaman zaman tedarikçilerle iletişim kurulur.",
+ "egitim": {
+  "verildigi_yerler": "Bu meslek için örgün eğitimde ayrı bir çıraklık eğitimi dalı veya meslek lisesi programı bulunmamaktadır. Meslek genellikle işbaşında, mandıra ve süt işletmelerinde usta yanında çalışılarak öğrenilmektedir. Ayrıca Halk Eğitim Merkezleri ve İŞKUR'un açtığı gıda/süt ürünleri işleme konulu kısa süreli mesleki eğitim kurslarına katılarak da bilgi ve beceri kazanılabilir.",
+  "giris_kosullari": [
+   "İlköğretim mezunu olmak (mesleğin gerektirdiği minimum eğitim düzeyi ilköğretimdir)",
+   "Okuma yazma bilmek",
+   "İşin gerektirdiği bedensel güce ve dayanıklılığa sahip olmak",
+   "Mesleğin yapılmasına engel bir sağlık sorunu bulunmamak"
+  ],
+  "sure_ve_icerik": "Meslek için resmî olarak belirlenmiş sabit bir eğitim süresi bulunmamaktadır; beceriler genellikle işyerinde çalışarak zaman içinde kazanılır. Katılınan Halk Eğitim Merkezi veya İŞKUR kurslarının süresi ve içeriği kuruma göre değişmekle birlikte, temel olarak şırat/süt işleme, hijyen kuralları, kaynatma, süzme, baskılama ve ambalajlama konuları uygulamalı olarak öğretilir.",
+  "belge": "Örgün bir çıraklık/kalfalık-ustalık eğitimi kapsamında değildir. Katılınan kurslar sonunda genellikle kurs bitirme belgesi/sertifika verilir. Mesleki Yeterlilik Kurumu (MYK) belgesine sahip olmak istihdamda tercih sebebi olabilir."
+ },
+ "ek_bilgiler": "Çökelek üretimi, peynir imalinden arta kalan şıratın değerlendirilmesine dayandığından genellikle peynir üretimi yapan mandıra ve süt işletmeleriyle birlikte gerçekleştirilir. İş hacmi, bölgesel süt üretimi miktarına ve mevsimsel talebe bağlı olarak değişebilir.",
+ "genel_ozellikler": [
+  "El ve kol becerisine sahip,",
+  "Dikkatli ve tedbirli, gerekli önlemleri zamanında alabilen,",
+  "Fiziksel olarak dayanıklı, ayakta ve hareketli çalışabilen,",
+  "Koku ve tat alma duyuları iyi gelişmiş,",
+  "Bulaşıcı hastalık taşıyıcısı olmayan, sağlık durumu işe uygun,",
+  "Temizlik ve hijyen kurallarına duyarlı,",
+  "Takım çalışmasına uyumlu,",
+  "Sabırlı ve disiplinli"
+ ],
+ "gorevler": [
+  "İş organizasyonu ve planlaması yapar.",
+  "Peynir üretiminden arta kalan şıratı pompayla krema tankına doldurur, şırat içerisinde kalan son yağlı maddeyi alır.",
+  "Tamamen yağı alınan şıratı kaynatma tankına pompalar.",
+  "Yağsız atığı (şıratı) 90 derecede kaynatarak çökelek haline gelmesine nezaret eder.",
+  "Kazan yüzeyine çıkan çökeleği süzgeçle alır ve baskı arabasına boşaltır.",
+  "Kazandan baskı arabasına boşalttığı çökeleği baskı arabasının tabanına kürekle yayar.",
+  "Baskı tablasını çökeleğin üzerine indirir ve çökeleği sıkıştırmak suretiyle suyunun alınmasını sağlar.",
+  "Suyu alınan çökeleği kürekle bidonlara doldurur.",
+  "Baskı arabası ve zemini tazyikli su ile yıkar, temizler.",
+  "Üretim makineleri ve çalışma ortamının periyodik bakım ve temizliğini yapar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Bu meslek için örgün eğitimde kalfalık/ustalık gibi tanımlı bir ilerleme basamağı bulunmamaktadır. İsteyenler, Halk Eğitim Merkezleri ve İŞKUR'un açtığı süt ürünleri/gıda işleme konulu kurslara katılarak bilgi ve becerilerini geliştirebilir; ilgi duyanlar gıda teknolojisi alanındaki mesleki ve teknik eğitim programlarına yönelebilir.",
+  "is_hayatinda": "Deneyim kazandıkça usta veya ustabaşı konumuna yükselebilir, üretim sürecinin sorumluluğunu üstlenebilir. Yeterli bilgi, deneyim ve sermayeye sahip olanlar kendi küçük ölçekli süt ürünleri/çökelek üretim işletmesini kurabilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Meslek örgün bir çıraklık eğitimi kapsamında olmadığından ayrı bir çıraklık ücreti düzenlemesi yoktur. Beceriler işyerinde çalışılarak kazanılıyorsa işveren ile yapılan anlaşmaya göre ücret alınır; İŞKUR kursu kapsamında eğitim alınıyorsa kursiyere ilgili mevzuata göre kursiyer harçlığı ödenebilir.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında istihdam edilenler 657 sayılı Devlet Memurları Kanunu'na veya işçi statüsündeyse ilgili toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde genellikle asgari ücret düzeyinde başlar; kazanç, işletmenin büyüklüğü, çalışanın tecrübesi ve bölgenin ücret düzeyine göre değişebilir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T07:21:50",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6163
+  }
+ }
+}

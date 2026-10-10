@@ -1,0 +1,81 @@
+{
+ "arac_gerec": [
+  "Otomobil, kamyonet veya benzeri binek araç",
+  "Araca ait ruhsat, sigorta poliçesi ve muayene belgesi",
+  "Navigasyon/GPS cihazı veya harita",
+  "Telsiz, cep telefonu gibi iletişim araçları",
+  "İlk yardım çantası",
+  "Yangın söndürücü",
+  "Reflektör ve takoz",
+  "Yedek lastik ve basit tamir/bakım takımı",
+  "Araç temizlik ve bakım malzemeleri",
+  "Yakıt/şarj kartı",
+  "Görev/sefer defteri ve ilgili tutanak formları",
+  "Araç içi iletişim ve bilgilendirme sistemleri (varsa)"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve sorumluluk sahibi,",
+  "Trafik kurallarına titizlikle uyan,",
+  "Fiziksel ve zihinsel olarak sağlıklı,",
+  "Göz-el-ayak koordinasyonu iyi,",
+  "Stresli ve ani durumlarda sakin kalabilen,",
+  "Yön bulma ve mekânsal algısı güçlü,",
+  "Değişen çalışma saatlerine (gece, hafta sonu dahil) uyum sağlayabilen,",
+  "Güler yüzlü ve iletişime açık"
+ ],
+ "calisma_ortami": "Diğer motorlu araç sürücüleri, görevlerinin büyük kısmını araç içinde geçirirler. Çalışma ortamı, kullanılan aracın türüne ve görev şekline göre değişmekle birlikte genellikle kapalı bir mekân olan araç kabinidir; ancak teslim şoförlüğü gibi görevlerde farklı il ve bölgelere uzun mesafeli seyahatler, açık havada ve değişken trafik/hava koşullarında çalışma söz konusu olabilir. Uzun süre oturma, trafik yoğunluğu, gürültü ve yorgunluk mesleğin olumsuz yönleri arasındadır.\n\nÇalışma saatleri görev türüne göre değişir; özel şoförler ve araç parkı şoförleri genellikle işverenin/kurumun programına bağlı olarak düzenli ya da esnek saatlerde, ambulans şoförleri ise vardiyalı ve çağrı usulü çalışabilir. Görev sırasında işveren, yöneticiler, müşteriler, hastane veya kurum personeli gibi farklı kişilerle iletişim kurarlar.",
+ "gorevler": [
+  "İşletmenin veya kurumun çalışma prensiplerine uygun olarak görev öncesi iş organizasyonu yapar ve aracın genel kontrollerini gerçekleştirir.",
+  "Özel şoför olarak görev yapması durumunda, işvereninin belirlediği güzergâh ve programa uygun şekilde aracı güvenli olarak kullanır.",
+  "Kiralık araç şoförü olarak, müşteriye ait veya kiralanan aracı talep edilen güzergâhta güvenli şekilde kullanır.",
+  "Kamu kurumu veya özel kuruluşlara ait araç parklarında görevli şoför olarak, kendisine tahsis edilen aracı kurum talimatlarına uygun şekilde kullanır.",
+  "Fabrikadan çıkan yeni araçları limanlara, satış depolarına veya belirtilen diğer teslim noktalarına güvenli bir şekilde sevk eder.",
+  "Ambulans şoförü olarak görev yapması durumunda, hasta veya yaralı nakli sırasında trafik kurallarına ve acil durum önceliklerine uygun olarak aracı kullanır.",
+  "Görevlendirildiği kurum veya kişilerin ihtiyacına göre benzer sürücülük görev ve işlemlerini yerine getirir.",
+  "Aracın periyodik bakım, temizlik ve küçük kontrollerini yaptırır veya kendisi yapar.",
+  "Sürüş sırasında trafik kurallarına, iş sağlığı ve güvenliği ile çevre koruma düzenlemelerine uyar.",
+  "Görev bitiminde ilgili kayıt ve raporları tutar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Bu meslek için örgün bir mesleki eğitim programı bulunmamaktadır. Mesleğin temel gerekliliği olan sürücülük bilgi ve becerisi, trafik şube/büro müdürlüklerine bağlı resmî sürücü kurslarında kazanılır. Ayrıca Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kurslarında müşteri ilişkileri, güvenli sürüş veya ilgili özel görev alanlarına (örneğin ambulans şoförlüğü için ilk yardım) yönelik destekleyici eğitimler alınabilir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "Görev yapılacak araç sınıfına uygun sürücü belgesi (ehliyet) alabilmek için gereken yaş şartını taşımak",
+   "Sürücü belgesi alımı için öngörülen sağlık şartlarını taşımak",
+   "Bazı özel görevler için (örneğin ambulans şoförlüğü) ek sertifika veya kurum içi eğitim istenebilir"
+  ],
+  "sure_ve_icerik": "Eğitim süresi ve içeriği, alınacak sürücü belgesinin sınıfına göre değişir; sürücü kurslarında trafik, motor bilgisi, ilk yardım gibi teorik dersler ile araç kullanma pratikleri verilir. Mesleğe özgü deneyim ve beceriler ise genellikle işbaşında, usta yanında veya kurum içi uygulamalarla kazanılır.",
+  "belge": "Görev yapılan araç sınıfına uygun sürücü belgesi (ehliyet); bazı görevler için ayrıca ilk yardım sertifikası gibi tamamlayıcı belgeler istenebilir."
+ },
+ "calisma_alanlari": "Meslek elemanları; özel şirketlerde özel şoför, kiralık araç (rent a car) işletmelerinde şoför, kamu kurumları ile özel kuruluşların araç parklarında görevli şoför, otomotiv sektöründe fabrikadan limanlara veya satış depolarına araç teslim şoförü, sağlık kuruluşlarında ambulans şoförü olarak çalışabilirler. Ayrıca yolcu ve mal taşımacılığı yapan firmalarda, lojistik işletmelerde ve kamuya ait kurumların hizmet araçlarında istihdam edilebilirler. Motorlu taşıt kullanımının günlük yaşamın her alanında yaygınlaşması nedeniyle bu meslek dalında istihdam olanağı sürekli bir ihtiyaç olarak var olmaya devam etmektedir.",
+ "kazanc": {
+  "egitim_suresince": "Bu meslek için örgün bir mesleki eğitim süreci bulunmadığından, sürücü belgesi edinme sürecinde gelir söz konusu değildir; sürücü kursu ücretleri genellikle kişi tarafından karşılanır. İşbaşında yetişme sürecinde çalışılan kurumun ücret politikasına göre kazanç sağlanabilir.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında memur statüsünde çalışanlar 657 sayılı Devlet Memurları Kanunu'na, işçi statüsünde çalışanlar ise ilgili toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde ücret, işyerinin büyüklüğü, görev türü (özel şoför, teslim şoförü, ambulans şoförü vb.) ve kişinin deneyimine göre karşılıklı anlaşma ile belirlenir.",
+   "Mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar; deneyim, çalışılan kurum ve görevin özelliğine göre bu düzey artabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Meslek elemanları, görev yapacakları araç türüne uygun daha yüksek sınıf sürücü belgeleri edinerek farklı araç gruplarında (minibüs, kamyonet vb.) çalışma alanlarını genişletebilirler. Ayrıca ilk yardım, güvenli sürüş, müşteri ilişkileri gibi konularda kurslara katılarak bilgi ve becerilerini geliştirebilirler.",
+  "is_hayatinda": "Deneyim kazandıkça araç parkı sorumluluğu veya filo yönetimi gibi görevlere yükselebilir, kurumsal şoförlük pozisyonlarında (makam şoförlüğü gibi) güven gerektiren görevler üstlenebilirler. Ayrıca kendi işini kurarak rent a car işletmeciliği veya taşımacılık faaliyetleri yürütebilirler."
+ },
+ "benzer_meslekler": [
+  "Makam Şoförü",
+  "Vale Görevlisi",
+  "Vasıta Sürücüsü",
+  "Servis Aracı Şoförü",
+  "Kamyonet Şoförü",
+  "Taksi Şoförü"
+ ],
+ "ek_bilgiler": "Bu meslek grubunda yer alan sürücülerin, kullandıkları araç sınıfına uygun geçerli bir sürücü belgesine sahip olmaları ve trafik mevzuatına uymaları yasal bir zorunluluktur. Ambulans şoförlüğü gibi bazı özel görevler için ilgili kurumlarca ek eğitim veya sertifika istenebilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, bazı kurumsal işe alım süreçlerinde tercih sebebi olabilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T18:15:27",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6480
+  }
+ }
+}

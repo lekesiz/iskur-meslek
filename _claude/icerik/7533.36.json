@@ -1,0 +1,82 @@
+{
+ "arac_gerec": [
+  "Sanayi tipi düz dikiş makinesi",
+  "Overlok makinesi",
+  "Reçme (zincir) dikiş makinesi",
+  "Lastik dikme makinesi",
+  "Otomatik ilik açma makinesi",
+  "Otomatik düğme dikme makinesi",
+  "Kesim makası ve kumaş kesim bıçağı",
+  "Mezür (şerit metre) ve cetvel",
+  "Yüksük, iğne, toplu iğne",
+  "Kalıp kağıdı ve çizim gereçleri",
+  "Ütü ve ütü masası",
+  "İplik, lastik, düğme gibi yardımcı malzemeler",
+  "Pamuklu, örme, likralı çeşitli kumaşlar"
+ ],
+ "genel_ozellikler": [
+  "El becerisine sahip,",
+  "Dikkatli ve sabırlı,",
+  "El ve göz koordinasyonu iyi,",
+  "Renk ve desen uyumuna duyarlı,",
+  "Düzenli ve tertipli çalışabilen,",
+  "Ekip içinde uyumlu çalışabilen,",
+  "Uzun süre oturarak çalışabilecek bedensel dayanıklılığa sahip,",
+  "Yeni makine ve teknikleri öğrenmeye açık kişiler olmaları gerekir."
+ ],
+ "calisma_ortami": "Erkek iç giysileri dikimi elemanı genellikle tekstil ve konfeksiyon atölyelerinde veya fabrikalarında, kapalı mekanda çalışır. Çalışma süresince büyük ölçüde oturarak, dikiş makinesi başında görev yapar. Çalışma ortamı makine sesleri nedeniyle gürültülü olabilir, havada iplik ve kumaş tozu bulunabilir; dikkatsizlik durumunda ele iğne batması gibi küçük kazalar yaşanabilir.\n\nÇalışma saatleri genellikle hafta içi tam gün olup işletmenin sipariş yoğunluğuna göre vardiyalı veya fazla mesaili çalışma söz konusu olabilir. Meslek elemanı çalışması sırasında atölye ustası, şefi, kalite kontrol elemanı ve diğer dikiş elemanlarıyla iş birliği içindedir.",
+ "calisma_alanlari": "Erkek iç giysileri dikimi elemanı; erkek pijama, sabahlık, atlet, külot, boxer ve fanila üretimi yapan konfeksiyon atölyeleri ve tekstil fabrikalarında istihdam edilebilir. Ayrıca fason üretim yapan küçük ve orta ölçekli işletmelerde ya da kendi kuracağı atölyede çalışabilir. Giyim ihtiyacı sürekli bir gereksinim olduğundan mesleğe olan talep devam etmekle birlikte, sektörde ekonomik koşullara ve sipariş durumuna bağlı istihdam dalgalanmaları görülebilir.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi; Halk Eğitimi Merkezleri ve mesleki eğitim merkezlerinde \"Giyim Üretim Teknolojisi\" alanında açılan dikiş makineciliği kurslarında, ayrıca belediyeler ile özel kurum ve kuruluşların açtığı mesleki kurslarda verilmektedir. Mesleğe işyerlerinde işbaşında usta yanında yetişerek de girilebilmektedir.",
+  "giris_kosullari": [
+   "Her yaş, eğitim ve kültür düzeyinden kişi kurslara katılabilir.",
+   "18 yaşından küçükler veli izniyle katılabilir.",
+   "Uygulanacak programın özelliğine göre belirli bir yaş veya eğitim düzeyi istenebilir; bu durum ilgili kurumca duyurulur."
+  ],
+  "sure_ve_icerik": "Kursların süresi uygulanan programa ve kuruma göre değişmekte olup genellikle birkaç aya kadar sürebilmektedir. Eğitim süresince; dikiş makinelerinin tanınması ve kullanımı, ölçü alma, erkek pijama-sabahlık, atlet, külot, boxer ve fanila kalıbı hazırlama, kesim, düz dikiş, overlok ve reçme dikişleri, lastik dikme, otomatta ilik açma ve düğme dikme, süsleme ve ütüleme işlemleri konularında bilgi ve uygulamalı eğitim verilmektedir. İşyerinde usta yanında yetişme süresi işletmenin yapısına göre değişiklik gösterir.",
+  "belge": "Kurslarda eğitimi tamamlayanlara \"Kurs Bitirme Belgesi\" verilmektedir. İşyerinde usta yanında yetişenler için resmi bir belge düzenlenmeyebilir; Mesleki Yeterlilik Kurumu (MYK) belgesi ise istihdamda tercih sebebi olabilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Halk eğitim merkezlerinde ve benzeri kurumlarda açılan kurslara katılım genellikle ücretsizdir ve katılımcıya herhangi bir ücret ödenmez. İşyerinde usta yanında yetişenlere ise işletmenin uygulamasına göre değişen düzeyde bir ücret ödenebilir.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanların kazancı genellikle asgari ücret düzeyindedir.",
+   "Deneyim, hız ve bilgi birikimi arttıkça ücret düzeyi yükselebilir.",
+   "Parça başı (akort) sistemiyle çalışılan işletmelerde üretilen parça sayısına bağlı olarak ek kazanç sağlanabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Bu meslekte kademeli bir örgün eğitim basamağı bulunmamaktadır. Meslek elemanı, bilgi ve becerisini geliştirmek amacıyla ilgili mesleki ve teknik eğitim programlarına veya ileri düzey kurslara devam edebilir.",
+  "is_hayatinda": "Deneyim kazanan meslek elemanı işyerinde usta, atölye şefi veya kalite kontrol sorumlusu olabilir. Yeterli bilgi ve sermaye birikimine ulaştığında kendi atölyesini kurarak fason üretim yapabilir."
+ },
+ "benzer_meslekler": [
+  "Konfeksiyon İşçisi",
+  "Kadın İç Giysileri Dikim Elemanı",
+  "Erkek Dış Giysileri Dikimi Elemanı",
+  "Erkek İş Giysileri Dikimi Elemanı",
+  "Erkek Üst Giysileri Dikim Elemanı",
+  "Bebe Giysileri Dikim Elemanı"
+ ],
+ "ek_bilgiler": "",
+ "gorevler": [
+  "Makinede düz dikiş yapar.",
+  "Overlok dikişi yapar.",
+  "Giysi için ölçü alır.",
+  "Kesim yapar.",
+  "Giyside süsleme yapar.",
+  "Ütüleme yapar.",
+  "Erkek pijama-sabahlık, atlet, külot, boxer, fanila kalıbı hazırlar.",
+  "Erkek pijama-sabahlık, atlet, külot, boxer, fanila diker.",
+  "Bazı iç giyim ürünleri için makinede lastik diker.",
+  "Otomatta ilik açar, düğme diker.",
+  "Reçme dikişi yapar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T08:57:20",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5119
+  }
+ }
+}

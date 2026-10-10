@@ -1,0 +1,85 @@
+{
+ "arac_gerec": [
+  "Telsiz telgraf cihazı",
+  "Telsiz telefon (radyotelefon) cihazı",
+  "Maniple (mors anahtarı)",
+  "Anten ve yayın sistemleri",
+  "Akü ve şarj ekipmanları",
+  "Otomatik alarm cihazı",
+  "Radar cihazı",
+  "Frekans ve ses tonu ayar düzenekleri",
+  "Kulaklık ve mikrofon",
+  "Jurnal ve kayıt defterleri",
+  "Hava raporu alım cihazları",
+  "Basit arıza onarımı için el aletleri (tornavida, pense vb.)",
+  "Acil durum haberleşme ve sinyal cihazları"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve sorumluluk duygusu gelişmiş,",
+  "İşitme ve konuşma yeteneği iyi,",
+  "El ve göz koordinasyonu gelişmiş,",
+  "Elektronik ve haberleşme sistemlerine ilgili,",
+  "Acil ve kriz durumlarında soğukkanlı davranabilen,",
+  "Düzenli ve kayıt tutmaya özen gösteren,",
+  "Uzun süre denizde ve aileden ayrı kalmaya uygun,",
+  "Yabancı dil (özellikle İngilizce) bilgisine sahip olmaları tercih edilen"
+ ],
+ "gorevler": [
+  "Telsiz telgraf ve telsiz telefon cihazlarının çalışıp çalışmadığını kontrol eder.",
+  "Cihazları testlere tabi tutar.",
+  "Günlük jurnale kayıt eder.",
+  "Akülerini kontrol eder ve eksiklikleri giderir.",
+  "Telsiz cihazını istenilen frekansa ve ses tonuna göre ayarlar.",
+  "Telsiz telgraf veya telsiz telefonla haber gönderir veya alır.",
+  "Sahil istasyonlarından ve diğer gemilerden hava raporlarını düzenli olarak alır ve gemi kaptanına bildirir.",
+  "Geminin seyri esnasında yolcuların verdikleri telgrafları mors olarak maniple ile bağlı bulunduğu işletmenin sahil istasyonuna çeker ve gönderilen telgrafları alır.",
+  "Yolcu ve personelin radyo telefon görüşmelerini temin eder, ücretlerini tahsil eder ve deftere kayıt eder.",
+  "Telsiz telefon cihazlarının ve otomatik alarm cihazlarının günlük bakımını yapar.",
+  "Basit arızaları kendisi onarır.",
+  "Telsiz telgraf dairesine ait önemli bütün olaylarla ilgili yapılan haberleşmeyi alacağı ve vereceği raporları düzenli olarak telsiz ve muhabere jurnaline kayıt eder.",
+  "Radar aletinin bakımını yapabilir.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "calisma_ortami": "\"Telsiz operatörü (gemi), ticaret gemisi, şilep veya yolcu gemisinde genellikle köprüüstüne yakın bir telsiz/haberleşme kabininde çalışır. Çalışma ortamı kapalı olmakla birlikte, çalıştığı yer gemi olduğu için sürekli hareket, deniz koşulları, gürültü ve titreşim gibi etkenlere açıktır. Görevin niteliği gereği uzun süreli seferler nedeniyle aileden uzak kalma, vardiya usulü ve gerektiğinde gece-gündüz, kesintisiz çalışma söz konusudur.\\n\\nMeslek mensubu çalışması sırasında gemi kaptanı ve diğer gemi personeli, sahil istasyonları, diğer gemilerin telsiz/haberleşme görevlileri ve yolcularla iletişim kurar. Acil durum ve tehlike anlarında (fırtına, arıza, yardım çağrısı vb.) hızlı ve doğru haberleşmeyi sağlamak önemli bir sorumluluktur.\"",
+ "egitim": {
+  "verildigi_yerler": "Meslek eğitimi; denizcilik meslek liseleri, denizcilik yüksekokulları ile Ulaştırma ve Altyapı Bakanlığı tarafından yetkilendirilmiş kurumların açtığı GMDSS (Küresel Deniz Tehlike ve Emniyet Sistemi) telsiz operatörlüğü kurslarında verilmektedir. Ayrıca İŞKUR ve Halk Eğitim Merkezlerinin açtığı ilgili mesleki eğitim kursları da bulunabilir.",
+  "giris_kosullari": [
+   "En az ortaöğretim (lise ve dengi okul) mezunu olmak",
+   "Denizcilik mesleğine ilişkin sağlık şartlarını (özellikle işitme ve genel sağlık durumu) taşımak",
+   "İlgili kurumların belirlediği yaş ve diğer giriş koşullarını karşılamak"
+  ],
+  "sure_ve_icerik": "Eğitim süresi ve içeriği, eğitimi veren kuruma ve alınacak yeterlilik düzeyine göre değişmekle birlikte; temel elektronik ve haberleşme bilgisi, telsiz ve radyotelefon cihazlarının kullanımı, mors işaretleri, acil durum ve tehlike haberleşme prosedürleri, denizcilik terminolojisi ve İngilizcesi gibi konuları kapsamaktadır. Eğitim sonunda teorik ve uygulamalı sınavlar yapılmaktadır.",
+  "belge": "Eğitimini ve sınavlarını başarıyla tamamlayanlara, ilgili idare (Ulaştırma ve Altyapı Bakanlığı) tarafından geçerliliği olan telsiz/GMDSS operatörlük yeterlik belgesi verilmektedir."
+ },
+ "calisma_alanlari": "\"Meslek elemanları başta ticaret gemileri (yük gemisi, şilep), yolcu gemileri ve büyük balıkçı gemileri olmak üzere deniz taşımacılığı yapan özel denizcilik şirketlerinin gemilerinde istihdam edilmektedir. Ayrıca Sahil Güvenlik Komutanlığı, Kıyı Emniyeti Genel Müdürlüğü ve benzeri kamu kurumlarına bağlı gemilerde de görev alabilmektedirler. Günümüzde klasik telsiz operatörlüğü görevleri büyük ölçüde GMDSS yeterlilik belgesine sahip gemi zabitleri tarafından yürütüldüğünden, bu meslekte münhasıran istihdam olanağı sınırlı olup iş bulma genellikle denizcilik sektöründeki genel ara eleman ihtiyacına bağlıdır.\"",
+ "kazanc": {
+  "egitim_suresince": "Kısa süreli kurs ve sertifika programları niteliğinde olduğundan, eğitim süresince genel bir öğrenim bursu veya kredisi bulunmamaktadır. Bazı kurumlarca düzenlenen kurslarda katılımcılara eğitim gideri desteği sağlanabilir.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında çalışanlar 657 sayılı Devlet Memurları Kanunu veya ilgili personel mevzuatına tabi olarak ücret alır.",
+   "Özel denizcilik şirketlerinde çalışanların ücreti, geminin büyüklüğü, sefer bölgesi (yurt içi/yurt dışı), kişinin deneyimi ve işletmenin ücret politikasına göre değişmektedir.",
+   "Deniz göreviyle çalışanların ücretleri sıklıkla sözleşmeye bağlı ve bazı durumlarda döviz üzerinden belirlenebilmektedir.",
+   "Yeni başlayanların kazancı genellikle asgari ücret düzeyinde olabilmektedir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Meslek elemanları, daha üst düzey yeterlilik belgeleri (örneğin genel operatör belgesi) alarak daha büyük veya uluslararası sefer yapan gemilerde görev alabilir; denizcilik yüksekokullarında gemi elektroniği ve haberleşme alanında eğitim alarak mesleki unvanını ve yeterliliğini geliştirebilir.",
+  "is_hayatinda": "Deneyim kazandıkça daha büyük gemilerde veya uzun uluslararası seferlerde görev alabilir, haberleşme biriminde sorumlu/şef operatör konumuna gelebilir, kıyı istasyonlarında haberleşme görevlisi olarak çalışabilir."
+ },
+ "benzer_meslekler": [
+  "Telsiz Operatörü-Uçak",
+  "Telsiz-Telefon Operatörü",
+  "Muhabere Operatörü (Kıyı Emniyeti)",
+  "Deniz Trafik Operatörü",
+  "AIS Memuru",
+  "Diğer Telsiz ve Telgraf Operatörleri"
+ ],
+ "ek_bilgiler": "\"Küresel Deniz Tehlike ve Emniyet Sistemi (GMDSS) uygulamasının yaygınlaşmasıyla, klasik mors tabanlı telsiz operatörlüğü işlevleri büyük ölçüde otomatikleşmiş sistemlere ve ilgili GMDSS yeterlilik belgesine sahip gemi zabitlerine devredilmiştir. Bu nedenle 'Telsiz Operatörü (Gemi)' unvanı resmi meslek sözlüğünde yer almakla birlikte, günümüzde bağımsız bir istihdam alanı olarak sınırlı kalmış, görevleri genellikle denizcilik personelinin ek yeterliliği kapsamında yürütülmektedir.\"",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T15:22:30",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6672
+  }
+ }
+}

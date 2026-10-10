@@ -1,0 +1,73 @@
+{
+ "arac_gerec": [
+  "Perdahlama çarkı/makinesi",
+  "Sırt geçirme (ham sırt uygulama) makinesi",
+  "Vulkanizasyon kalıp presi (kalıplama makinesi)",
+  "Fırça",
+  "Püskürtme (spreyleme) tabancası",
+  "Lastik hamuru/yapıştırıcı kauçuk karışımı",
+  "Buhar kazanı veya ısıtma ünitesi",
+  "Basınçlı hava tabancası",
+  "Kesme bıçağı ve makas",
+  "Zımpara ve tıraşlama aparatları",
+  "Lastik kaldırma ve taşıma aparatları",
+  "Koruyucu eldiven, gözlük ve önlük"
+ ],
+ "genel_ozellikler": [
+  "El ve bilek becerisine sahip,",
+  "Fiziksel olarak güçlü ve dayanıklı,",
+  "Dikkatli ve titiz,",
+  "Makine ve düzenekleri kullanmaya yatkın,",
+  "Yüksek ısı, koku ve kimyasal maddelere karşı dayanıklı,",
+  "Sabırlı ve düzenli çalışabilen,",
+  "Ekip içinde uyumlu çalışabilen"
+ ],
+ "calisma_ortami": "Dış lastik tamircisi, genellikle lastik kaplama (yenileme) atölye ve fabrikalarında, kapalı mekanlarda çalışır. Çalışma ortamında kauçuk hamuru kokusu, vulkanizasyon işlemine bağlı yüksek ısı, makine gürültüsü ve belirli ölçüde kir/yağ bulunabilir. Ağır lastiklerin elle veya aparatlarla taşınması nedeniyle fiziksel güç gerektiren bir iştir ve genellikle ayakta çalışılır.\n\nÇalışma saatleri işyerinin çalışma düzenine göre belirlenir, genellikle gündüz vardiyasında ve tam gün çalışılır. Meslek sahibi; işyeri sahibi/yöneticisi, iş arkadaşları ve müşterilerle (araç/filo sahipleri, nakliye şirketleri) iletişim kurar.",
+ "egitim": {
+  "verildigi_yerler": "Dış Lastik Tamirciliği için örgün mesleki ve teknik eğitim kurumlarında ayrı ve yaygın bir çıraklık dalı bulunmamaktadır. Meslek genellikle lastik kaplama (yenileme) atölye ve fabrikalarında işbaşında usta yanında öğrenilir. Ayrıca Halk Eğitim Merkezleri ile İŞKUR'un açtığı mesleki eğitim kursları, temel bilgi ve beceri kazandırma amacıyla destekleyici nitelikte olabilir.",
+  "giris_kosullari": [
+   "En az ilkokul/ilköğretim mezunu olmak",
+   "Fiziksel olarak ağır işe uygun olmak; sağlık durumunun mesleğin gerektirdiği işlere elverişli olması",
+   "Çıraklık eğitimi kapsamında çalışılacaksa, çıraklık yaşına ilişkin mevzuat hükümlerine uygun olmak ve işveren ile çıraklık/işbaşı eğitim sözleşmesi yapmak"
+  ],
+  "sure_ve_icerik": "Resmî olarak belirlenmiş, standart süreli bir okul programı bulunmamaktadır. Meslek, işyerinde usta yanında çalışılarak, perdahlama, lastik hamurunun sürülmesi, sırt geçirme ve kalıplama/vulkanizasyon işlemlerinin sırasıyla ve tekrar yoluyla öğrenilmesiyle belirli bir süre içinde (işletmeye ve kişinin becerisine göre değişen sürede) kazanılır. Halk Eğitim Merkezleri veya İŞKUR tarafından açılan kısa süreli mesleki kurslar, temel teorik ve uygulamalı bilgi sağlayabilir.",
+  "belge": "İşyerinde edinilen deneyim sonrası usta tarafından verilen bir yetki/deneyim niteliği taşır; resmî bir diploma söz konusu değildir. Katılınan kurslar sonunda katılım/başarı belgesi verilebilir. Mesleki Yeterlilik Kurumu (MYK) tarafından ilgili alanda bir yeterlilik belgesi düzenlenmişse, bu belge istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Dış lastik tamircileri başlıca lastik kaplama (retreading/yenileme) fabrika ve atölyelerinde çalışır. Bu işletmeler genellikle ağır vasıta (kamyon, otobüs, iş makinesi, tarım aracı) lastiklerinin aşınan sırtlarının yenilenmesi ve tamiri üzerine uzmanlaşmıştır. Ayrıca nakliye ve lojistik firmalarının kendi lastik bakım birimlerinde, büyük filo işletmelerinin bünyesindeki bakım atölyelerinde ve bazı büyük oto lastik servis zincirlerinin kaplama bölümlerinde istihdam olanağı bulunabilir. Lastiklerin yenilenerek yeniden kullanılması maliyet ve kaynak tasarrufu sağladığından, bu alandaki talep ağır taşımacılık sektörünün hacmine bağlı olarak sürmektedir.",
+ "kazanc": {
+  "egitim_suresince": "İşbaşında usta yanında eğitim alınması durumunda ücret, işveren ile yapılan anlaşmaya bağlı olarak değişir ve çoğunlukla asgari ücret düzeyinde veya bir kısmı olarak belirlenir. Resmî çıraklık sözleşmesi ile çalışılması halinde 3308 sayılı Mesleki Eğitim Kanunu'nda belirtilen esaslara göre ücret ödenir.",
+  "egitim_sonrasi": [
+   "Deneyimsiz olarak işe başlayanların kazancı genellikle asgari ücret düzeyindedir.",
+   "Deneyim, beceri, işletmenin büyüklüğü ve çalışma kapasitesine göre kazanç artabilir.",
+   "Özel sektörde kazanç, işveren ile karşılıklı anlaşmaya bağlı olarak belirlenir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Belirli bir süre işbaşında çalışarak önce perdahlama, ardından sırt geçirme ve kalıplama/vulkanizasyon işlemlerinde uzmanlaşılabilir. İlgili alanda açılan kurslara katılarak veya Mesleki Yeterlilik Kurumu (MYK) belgesi edinerek bilgi ve beceriler belgelenebilir.",
+  "is_hayatinda": "Deneyim kazandıkça usta, atölye/vardiya sorumlusu veya işletme müdürü gibi görevlere yükselebilir; yeterli sermaye ve deneyime sahip olanlar kendi lastik kaplama/tamir işletmesini kurabilir."
+ },
+ "benzer_meslekler": [
+  "Lastik Tamircisi-Motorlu Taşıtlar",
+  "Otomotiv Lastik Satış Servis ve Onarımcısı",
+  "Oto Bakım-Onarımcısı (Otomotiv Mekanikcisi)",
+  "Diğer Motorlu Araç Tamirci Makinistleri"
+ ],
+ "ek_bilgiler": "Dış lastik tamirciliği, özellikle ağır vasıta (kamyon, otobüs, iş makinesi) lastiklerinin kaplanması/yenilenmesi işine yoğunlaşmıştır. Bu işlem lastiklerin daha uzun süre kullanılmasını sağlayarak maliyet tasarrufu ve atık azaltımına katkı sunar. Meslekte çalışanların bir kısmı perdahlama, sırt geçirme veya kalıplama işlemlerinden birinde uzmanlaşarak görev alabilir.",
+ "gorevler": [
+  "İşletmenin genel çalışma prensipleri doğrultusunda, araç, gereç ve ekipmanları etkin bir şekilde kullanarak, işçi sağlığı, iş güvenliği ve çevre koruma düzenlemelerine ve mesleğin verimlilik ve kalite gereklerine uygun olarak çalışır,",
+  "Dış lastiği sırt geçirme ve tamir işlemine hazırlamak üzere perdahlama çarkına tutarak perdahlar,",
+  "Fırça veya püskürtme tabancası kullanarak lastik hamurunu perdahlanan lastik kılıfı üzerine sürer,",
+  "Sırtı döndürerek kılıfa iyice yerleşmesini sağlar,",
+  "Sırtı dış lastiğe vulkanize eden kalıp makinesini çalıştırıp vulkanizasyon işlemini yapar,",
+  "Perdahlama, sırt geçirme veya kalıplama işlerinden birini yapabilir ve buna göre ayırt edilebilir,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T02:27:33",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5660
+  }
+ }
+}

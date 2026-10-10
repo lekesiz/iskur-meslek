@@ -1,0 +1,74 @@
+{
+ "arac_gerec": [
+  "Transpalet (elle kullanılan hidrolik taşıma aracı)",
+  "El arabası / kangurü",
+  "Konveyör bant sistemleri",
+  "Paletler, palet file ve streç makinesi",
+  "Ambalaj ve paketleme malzemeleri (koli, strafor, streç film, bantlama makinesi)",
+  "Tartı/baskül",
+  "El terminali veya barkod okuyucu (stok takibi yapılan işletmelerde)",
+  "Taşıma kasası, sandık ve konteynerler",
+  "İşaretleme, etiketleme ve sevkiyat belgeleri",
+  "Kişisel koruyucu donanım (iş eldiveni, çelik burunlu ayakkabı, baret, reflektörlü yelek)"
+ ],
+ "genel_ozellikler": [
+  "Fiziksel olarak güçlü ve dayanıklı,",
+  "Bedensel çalışmaya uygun sağlık durumuna sahip,",
+  "Dikkatli ve tedbirli,",
+  "Talimatları doğru anlayıp uygulayabilen,",
+  "Takım halinde çalışmaya uyumlu,",
+  "Düzenli, sorumluluk sahibi,",
+  "İş sağlığı ve güvenliği kurallarına duyarlı,",
+  "Zamanı iyi kullanabilen ve pratik çözümler üretebilen"
+ ],
+ "gorevler": [
+  "Depodan gelen malzemeleri üretim hattına taşır.",
+  "Üretilen parçaları paketleme veya sevkiyat alanına nakleder.",
+  "Taşıma araçlarının (transpalet, el arabası vb.) kullanımını sağlar.",
+  "Malzemelerin zarar görmeden taşınmasını kontrol eder.",
+  "Çalışma alanının düzenini ve temizliğini korur.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "calisma_ortami": "Malzeme taşıyıcısı, genellikle imalat, gıda, tekstil, metal, kimya veya plastik sektörlerindeki fabrika, depo, atölye ve üretim hatlarında görev yapar. Çalışma ortamı kapalı alanlardır; ancak bazı işletmelerde açık sahalarda (saha depoları, sevkiyat rampaları) da çalışılabilir. Ortam zaman zaman gürültülü, tozlu veya sıcak/soğuk olabilir; ağır kaldırma, itme-çekme, eğilme ve uzun süre ayakta kalma gibi fiziksel efor gerektirir, bu nedenle iş kazası ve kas-iskelet sistemi yaralanmaları riski bulunur.\n\nÇalışma genellikle ekip halinde, üretim bandı veya depo akışına bağlı olarak sürdürülür. Meslek elemanı, ustabaşı, depo sorumlusu, üretim hattı işçileri ve sevkiyat görevlileriyle sürekli iletişim halindedir. İşletmenin üretim temposuna göre vardiya usulü (gündüz/gece) çalışma ve bazen hafta sonu/fazla mesai söz konusu olabilir.",
+ "calisma_alanlari": "Malzeme taşıyıcıları; imalat, gıda, tekstil, metal, plastik, kimya ve benzeri sektörlerdeki üretim işletmelerinde, depolarda, lojistik ve dağıtım merkezlerinde, antrepolarda ve organize sanayi bölgelerindeki fabrikalarda istihdam edilmektedir. İş bulma olanakları, sanayi ve lojistik faaliyetlerinin yoğun olduğu bölgelerde (organize sanayi bölgeleri, liman ve lojistik merkezlerinin bulunduğu şehirler) daha fazladır. Bu meslekte istihdam, üretim hacmindeki dönemsel ve sektörel dalgalanmalara bağlı olarak değişkenlik gösterebilir; ayrıca otomasyon ve mekanizasyon yatırımları iş gücü ihtiyacını zaman içinde etkileyebilir.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin yürütülmesi için örgün bir mesleki eğitim programı bulunmamaktadır. Gerekli bilgi ve beceriler genellikle işbaşında, ustabaşı veya deneyimli işçi gözetiminde kazanılır. Halk Eğitim Merkezleri ve Türkiye İş Kurumunun (İŞKUR) açtığı mesleki eğitim kurslarında iş sağlığı ve güvenliği, temel taşıma teknikleri ve ekipman kullanımı konularında kısa süreli kurslar düzenlenebilir.",
+  "giris_kosullari": [
+   "Okuryazar olmak (mesleğin gerektirdiği asgari eğitim düzeyi),",
+   "18 yaşını doldurmuş olmak (ağır ve tehlikeli işler kapsamındaki sınırlamalar nedeniyle),",
+   "Bedensel olarak ağır yük taşımaya uygun sağlık durumuna sahip olmak,",
+   "İşe alınacağı işletmenin belirlediği koşulları (sağlık raporu, deneme süresi vb.) karşılamak."
+  ],
+  "sure_ve_icerik": "Mesleğin standart bir eğitim süresi ve müfredatı yoktur. İşe yeni başlayanlar, kısa süreli bir uyum/oryantasyon sürecinin ardından usta işçi veya ustabaşı gözetiminde çalışarak mesleği uygulamalı olarak öğrenir. Halk Eğitim Merkezleri ve İŞKUR tarafından açılan kurslarda; iş sağlığı ve güvenliği, doğru kaldırma-taşıma teknikleri, transpalet ve el arabası kullanımı gibi konularda birkaç günden birkaç haftaya uzanan kısa süreli eğitimler verilebilir.",
+  "belge": "Örgün eğitim sonunda diploma niteliğinde bir belge bulunmamaktadır. Katılınan kurslar sonunda kurs bitirme/katılım belgesi verilir. Ayrıca işveren tarafından iş sağlığı ve güvenliği mevzuatı kapsamında verilen temel iş güvenliği eğitimi belgesi alınır; bazı işyerlerinde kullanılan ekipmana bağlı olarak Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Mesleğin ayrı bir örgün eğitim süreci bulunmadığından eğitim süresince alınan bir ücretten söz edilemez; işe yeni başlayanlar genellikle doğrudan ücretli olarak çalışmaya başlar veya kısa süreli deneme/oryantasyon döneminde işverenin belirlediği koşullarda ücretlendirilir.",
+  "egitim_sonrasi": [
+   "Özel sektörde çalışanların ücreti; işyerinin büyüklüğü, sektör, kişinin deneyimi ve çalışma kapasitesine göre değişmekle birlikte, işe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Kamuya bağlı işletmelerde işçi statüsünde çalışanlar, ilgili toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Fazla mesai, gece/vardiya çalışması ve işyerinin sunduğu sosyal haklar (yemek, servis vb.) toplam kazancı etkileyebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Meslekte ilerlemeye yönelik örgün bir eğitim kademesi bulunmamaktadır. Kişi, isteğe bağlı olarak İŞKUR ve Halk Eğitim Merkezlerinin açtığı forklift operatörlüğü, depo yönetimi, lojistik gibi alanlardaki kurs ve sertifika programlarına katılarak bilgi ve becerilerini geliştirebilir; açık öğretim yoluyla genel eğitim düzeyini de yükseltebilir.",
+  "is_hayatinda": "Deneyim kazanan malzeme taşıyıcıları, işletme içinde forklift operatörlüğü, depo görevliliği, sevkiyat/lojistik elemanlığı gibi daha nitelikli pozisyonlara ya da ekip liderliği/ustabaşılık gibi görevlere yükselebilir."
+ },
+ "benzer_meslekler": [
+  "Meydancı - İmalat",
+  "Meydancı - Dokuma",
+  "Meydancı - Dökümhane",
+  "Meydancı - İplik",
+  "Meydancı - Konfeksiyon",
+  "Meydancı - Mezbaha"
+ ],
+ "ek_bilgiler": "Bu meslekte ağır yük taşıma söz konusu olduğundan, İş Kanunu ve ilgili mevzuat kapsamında 18 yaşından küçüklerin ve hamile/emzikli kadınların ağır ve tehlikeli işlerde çalıştırılmasına ilişkin sınırlamalar geçerlidir. Çalışacak kişinin bel ve kas-iskelet sistemi açısından sağlık durumunun bu işe uygun olması önemlidir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T20:09:49",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6991
+  }
+ }
+}

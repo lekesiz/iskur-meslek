@@ -1,0 +1,82 @@
+{
+ "arac_gerec": [
+  "Pastörizasyon ünitesi/tankı",
+  "Dov makinesi (peynir mayalama kazanı)",
+  "Otomatik karıştırıcı/kesici kollar",
+  "Peynir mayası ve katkı maddesi hazırlama ekipmanları",
+  "Açık tekne makinesi",
+  "Tahliye pompaları",
+  "Peynir kalıpları",
+  "Soğuk hava deposu",
+  "PH ölçüm cihazı ve laboratuvar numune ekipmanları",
+  "Taşıma bantları ve boru hatları",
+  "Hijyenik iş elbisesi, bone, eldiven, çizme",
+  "Temizlik ve dezenfeksiyon malzemeleri"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve sorumluluk sahibi,",
+  "El ve göz koordinasyonu iyi,",
+  "Koku ve tat algısı gelişmiş,",
+  "Hijyen kurallarına son derece duyarlı,",
+  "Takım çalışmasına uyumlu,",
+  "Fiziksel olarak dayanıklı,",
+  "Düzenli ve planlı çalışabilen,",
+  "Talimat ve üretim programına uyabilen"
+ ],
+ "calisma_ortami": "Peynir imal makinesi operatörü, süt ve süt ürünleri işleme tesislerinde (mandıra, süt/peynir fabrikası) genellikle kapalı alanlarda çalışır. Çalışma ortamı nemli, ıslak zeminli ve ürünün bozulmaması için soğuk tutulan bölümleri içerir; makine gürültüsü ve süt/peynir kokusu söz konusudur. Üretim sürecinde ayakta ve hareketli çalışma gerekir, sıcak buhar ve temizlik kimyasallarıyla temas riski bulunur.\n\nİşletmenin üretim programına göre genellikle vardiyalı veya tam gün usulde çalışılır. Üretim sorumlusu, laboratuvar/kalite kontrol personeli ve diğer operatörlerle sürekli iletişim halindedir. Gıda üretim ortamlarında geçerli hijyen ve iş güvenliği kurallarına (özel iş elbisesi, bone, eldiven, çizme kullanımı, periyodik sağlık kontrolü) uyulması zorunludur.",
+ "gorevler": [
+  "Pastör ünite tankından peynirlik sütün dov makinesi tankına gelmesi için gerekli işlemleri yapar ve sütü dov makinesine alır.",
+  "Kazana gelen sütten numune alır, laboratuvarda analizini yaptırarak PH değerinin istenilen değerlerde olup olmadığını öğrenir, gerektiğinde sütü değiştirir.",
+  "Makine kazanı içerisindeki karıştırıcı/kesici kolları çalıştırarak sütün karıştırılmasını sağlar.",
+  "Katkı maddeleri ve peynir mayasını hazırlar.",
+  "Katkı maddelerini makine kazanı içerisine boşaltır ve karıştırma işlemine tabi tutarak homojen hale getirir.",
+  "Tank içindeki homojen süte peynir mayasını kattıktan sonra üç dakika kadar karıştırır.",
+  "Sütün pıhtılaşması için kazanda belli bir süre dinlendirir.",
+  "Pıhtılaşma istenilen kıvama geldikten sonra karıştırıcı kollarının keskin tarafıyla kazan içinde otomatik kesim işlemlerini yapar.",
+  "Dov makinesi içerisindeki peynir suyu ve peynir telemesini açık tekne makinesine aktarır.",
+  "Açık tekneye alınan peynir telemesini peynir suyu içinde bekleterek ürünün fermantasyonunu sağlar.",
+  "Açık teknedeki peynir suyunu tahliye pompaları yardımıyla pastör ünitesine gönderir.",
+  "Açık teknede bekletilen peynir istenilen PH değerine geldiğinde peyniri kalıba basar ve gerektiğinde soğuk hava deposuna alır.",
+  "Üretim işlemleri sonunda çalıştığı alanın, kullandığı makine ve ekipmanların temizliğini yapar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi, yeterli sayıda müracaat olması durumunda mesleki eğitim merkezlerinin \"Gıda Teknolojisi\" alanı kapsamında çıraklık eğitimi şeklinde verilebilir. Bunun yanında Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kursları ile işyerlerinde işbaşında usta yanında yetişme yoluyla da bu mesleğe girilmesi mümkündür.",
+  "giris_kosullari": [
+   "En az ilköğretim/ortaokul mezunu olmak",
+   "Sağlık durumunun ayakta, nemli ve soğuk ortamda çalışmaya uygun olması",
+   "Çıraklık eğitimi için ilgili işyeri ile çıraklık sözleşmesi imzalamak (14 yaşını doldurmuş olmak)"
+  ],
+  "sure_ve_icerik": "Mesleki eğitim merkezlerinde verilen çıraklık eğitimi genel kültür dersleri ile meslek bilgisi derslerinden oluşur; haftanın bir günü eğitim merkezinde, kalan günlerde işyerinde usta öğretici gözetiminde uygulamalı olarak yürütülür. Kurs yoluyla yetişenlerde ise kısa süreli teorik ve uygulamalı eğitimin ardından işbaşında usta yanında pratik çalışma esastır; eğitim içeriği süt kabulü, pastörizasyon, mayalama, pıhtı kesimi, fermantasyon, kalıplama ve hijyen uygulamalarını kapsar.",
+  "belge": "Çıraklık eğitimini tamamlayanlara kalfalık, ardından ustalık belgesi; kurs yoluyla yetişenlere ise kurs bitirme/katılım belgesi verilir."
+ },
+ "calisma_alanlari": "Peynir imal makinesi operatörü, süt ve süt ürünleri (peynir) üretimi yapan kamu ve özel sektöre ait mandıra, süt/peynir fabrikaları ve gıda işletmelerinde istihdam edilir. İş imkânları, hayvancılık ve süt üretiminin yoğun olduğu bölgelerde ve bu bölgelerdeki süt işleme tesislerinde daha fazladır.",
+ "kazanc": {
+  "egitim_suresince": "Çıraklık eğitimi kapsamında eğitim gören öğrencilere 3308 sayılı Mesleki Eğitim Kanunu çerçevesinde asgari ücretin belirli bir oranından az olmamak üzere ücret ödenir; öğrencilerin iş kazası ve meslek hastalığı sigorta primleri devletçe karşılanır.",
+  "egitim_sonrasi": [
+   "İşe yeni başlayanların kazancı genellikle asgari ücret düzeyindedir.",
+   "Kamu kuruluşlarında çalışanlar 657 sayılı Devlet Memurları Kanunu veya ilgili toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde kazanç; işyerinin büyüklüğü, kişinin tecrübesi, bilgisi ve sektörün ücret düzeyine göre değişebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleki eğitim merkezinden diploma alarak mezun olanlar, YKS Kılavuzunda belirtilen alanın devamı niteliğindeki ön lisans/lisans programlarına (gıda teknolojisi, süt ve ürünleri teknolojisi vb.) yönelebilir. Ayrıca çeşitli kurs ve eğitimlere katılarak mesleki bilgi ve becerilerini geliştirebilir.",
+  "is_hayatinda": "Deneyim kazandıkça usta, ekip sorumlusu veya vardiya amirliğine yükselebilir; bilgi ve tecrübesini artırdıkça üretim sorumluluğuna kadar ilerleyebilir. Girişimci ruhuna sahip olanlar kendi işletmelerini kurabilir."
+ },
+ "benzer_meslekler": [
+  "Fermantasyon İşçisi",
+  "Fermantasyon İşçisi (Şarap, Bira vb.)",
+  "Buz İmal Makinesi Operatörü",
+  "Bal Sağım Operatörü",
+  "Diğer Başka Yerde Sınıflandırılmamış İçki ve Gıda Maddeleri İşçileri"
+ ],
+ "ek_bilgiler": "Gıda üretim hattında çalışacaklar için periyodik sağlık muayenesi ve hijyen eğitimi gibi gıda sektörüne özgü sağlık/hijyen şartları aranabilir. Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T15:36:57",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6827
+  }
+ }
+}

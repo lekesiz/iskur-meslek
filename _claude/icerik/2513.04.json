@@ -1,0 +1,74 @@
+{
+ "arac_gerec": [
+  "Bilgisayar ve yüksek performanslı grafik işlem birimleri (GPU)",
+  "Oyun motorları (Unity, Unreal Engine, Godot vb.)",
+  "Programlama dilleri için geliştirme ortamları (Visual Studio, Visual Studio Code, Rider vb.)",
+  "Programlama dilleri (C#, C++, Python vb.)",
+  "Versiyon kontrol sistemleri (Git ve benzeri)",
+  "Hata ayıklama (debugging) ve profil çıkarma araçları",
+  "Grafik, ses ve arayüz dosyalarının entegrasyonu için destek yazılımları",
+  "Mobil ve konsol platformlarına özel geliştirme kitleri (SDK)",
+  "Proje ve görev takip yazılımları (Jira, Trello vb.)",
+  "Test amaçlı farklı donanımlar (bilgisayar, mobil cihaz, konsol)"
+ ],
+ "benzer_meslekler": [
+  "Yapay Zeka Programcısı",
+  "Mobil Yazılım Geliştirme Uzmanı",
+  "Oyun Geliştirme Uzmanı",
+  "Dijital Oyun Tasarımcısı",
+  "Yazılım Mühendisi",
+  "Bilgisayar Programcısı"
+ ],
+ "calisma_alanlari": "Bilgisayar Oyunları Programcısı, başta oyun geliştirme stüdyoları ve yazılım şirketleri olmak üzere, mobil oyun şirketleri, dijital eğlence ve medya kuruluşları ile bu şirketlerin ar-ge birimlerinde çalışabilir. Ayrıca serbest (freelance) çalışarak farklı stüdyolara proje bazlı hizmet verebilir veya kendi bağımsız (indie) oyun projelerini geliştirebilir.\n\nMobil oyun pazarının ve e-spor sektörünün büyümesi, bu meslekte çalışanlara yönelik talebin artarak sürmesini sağlamaktadır. Deneyimli ve belirli oyun motorlarında veya platformlarda uzmanlaşmış programcılar, iş bulma konusunda daha avantajlıdır.",
+ "calisma_ortami": "Bilgisayar Oyunları Programcısı genellikle ofis/büro ortamında, kapalı mekânda ve bilgisayar başında oturarak çalışır. Çalışma, çoğunlukla ekip içinde yürütülür; oyun tasarımcıları, grafik ve ses tasarımcıları, test uzmanları ve proje yöneticileriyle sürekli etkileşim gerektirir. Proje teslim tarihlerine yaklaşıldığında yoğun ve uzun çalışma saatleri söz konusu olabilir.\n\nİşin doğası gereği uzun süre ekran karşısında kalma, bu durumun getirdiği göz, bel ve boyun rahatsızlıkları riskini taşır. İş genellikle sessiz ve düzenli bir ortamda, zihinsel yoğunluk gerektiren bir tempoda yürütülür.",
+ "egitim": {
+  "verildigi_yerler": "Bu mesleğe tam olarak karşılık gelen, standart bir okul/bölüm adı bulunmamaktadır. Üniversitelerin \"Bilgisayar Mühendisliği\", \"Yazılım Mühendisliği\" gibi lisans programları ile meslek yüksekokullarının \"Bilgisayar Programcılığı\" ön lisans programları bu mesleğe yönelik temel bilgi ve beceriyi sağlar. Ayrıca Halk Eğitim Merkezleri, üniversitelerin sürekli eğitim merkezleri ve özel bilişim/oyun geliştirme kursları ile çevrim içi eğitim platformları da bu alanda eğitim vermektedir.",
+  "giris_kosullari": [
+   "Lisans programları için lise ve dengi okul mezunu olup ilgili merkezi sınavla yerleşmek",
+   "Ön lisans (meslek yüksekokulu) programları için lise ve dengi okul mezunu olmak",
+   "Kurs ve sertifika programları için genellikle en az ortaöğretim mezunu olmak; 18 yaşından küçükler veli izniyle katılabilir"
+  ],
+  "sure_ve_icerik": "Lisans eğitiminin süresi 4 yıl, ön lisans eğitiminin süresi 2 yıldır. Bu programlarda programlama mantığı, algoritmalar ve veri yapıları, matematik, bilgisayar grafikleri, yapay zekâ temelleri ve bir ya da birden fazla oyun motorunun kullanımı gibi dersler okutulur. Kurs düzeyindeki eğitimler kurumdan kuruma değişen sürelerde (genellikle birkaç ay) olup, ağırlıklı olarak temel programlama diline ve seçilen oyun motoruna (Unity, Unreal Engine vb.) yönelik uygulamalı içerik sunar.",
+  "belge": "Lisans programını tamamlayanlara \"Lisans Diploması\", ön lisans programını tamamlayanlara \"Ön Lisans Diploması\" verilir. Kurs ve sertifika programlarını tamamlayanlara ise ilgili kurum tarafından \"Kurs Bitirme Belgesi/Sertifika\" verilir."
+ },
+ "ek_bilgiler": "Oyun geliştirme sektörü, mobil oyunlara ve dijital eğlenceye olan talebin artmasıyla büyüme eğilimindedir; sektörde uzaktan çalışma ve uluslararası projelerde görev alma imkânı yaygındır. Mesleki Yeterlilik Kurumu (MYK) belgesi bu meslek için zorunlu değildir ancak istihdamda tercih sebebi olabilir.",
+ "genel_ozellikler": [
+  "Mantıksal ve analitik düşünebilen,",
+  "Matematik ve geometriye ilgili,",
+  "Yaratıcı, görsel algısı gelişmiş,",
+  "Takım çalışmasına uygun,",
+  "Sabırlı ve detaylara dikkat eden,",
+  "Problem çözme becerisi yüksek,",
+  "Yeni teknolojileri öğrenmeye ve kendini geliştirmeye açık,",
+  "Uzun süreli bilgisayar başında çalışmaya uygun"
+ ],
+ "gorevler": [
+  "Oyun motorları (Unity, Unreal Engine vb.) üzerinde teknik kurgu yapar.",
+  "Karakter hareketleri, fizik kuralları ve yapay zeka kodlarını yazar.",
+  "Grafik, ses ve arayüz (UI) bileşenlerini yazılıma entegre eder.",
+  "Oyun içi hata (bug) tespit ve hata ayıklama süreçlerini yönetir.",
+  "Oyunun farklı platformlarda (mobil, konsol, PC) optimize çalışmasını sağlar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Lisans eğitimi alanlar yüksek lisans ve doktora programlarıyla akademik kariyere veya ileri düzey araştırma-geliştirme pozisyonlarına yönelebilir. Programcılar; farklı oyun motorları, çoklu oyunculu sistemler ve yapay zekâ gibi alanlarda uzmanlaşmaya yönelik ileri düzey eğitim ve sertifika programlarına da katılabilirler.",
+  "is_hayatinda": "Deneyim kazandıkça Kıdemli Oyun Programcısı, Teknik Lider (Lead Programmer) veya Teknik Direktör gibi pozisyonlara yükselebilir; proje yönetimine geçebilir ya da kendi stüdyosunu kurarak bağımsız oyun geliştiricisi olabilirler."
+ },
+ "kazanc": {
+  "egitim_suresince": "Örgün eğitim sürecinde (lisans/ön lisans) genellikle bir kazanç söz konusu değildir; ancak staj veya yarı zamanlı proje çalışmalarında kazanç sağlanabilir. Kurs döneminde de bir kazanç bulunmamaktadır.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanlar özel sektörde genellikle asgari ücret düzeyinde veya buna yakın bir ücretle çalışmaya başlayabilir.",
+   "Deneyim, proje başarıları ve uzmanlaşılan alana (oyun motoru, platform, yapay zekâ vb.) bağlı olarak kazanç önemli ölçüde artabilir.",
+   "Kamu kurum ve kuruluşlarında bilişim personeli olarak istihdam edilenlerin ücretleri 657 sayılı Devlet Memurları Kanunu ve ilgili mevzuata göre belirlenir.",
+   "Serbest (freelance) çalışanların veya kendi oyununu geliştirip yayınlayanların kazancı, projenin ticari başarısına göre büyük farklılık gösterebilir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T05:55:38",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6050
+  }
+ }
+}

@@ -1,0 +1,81 @@
+{
+ "arac_gerec": [
+  "Otoklav kazanı",
+  "Kumanda panosu / kontrol paneli",
+  "Transfer (kür) arabaları",
+  "Vakum ve buhar vanaları",
+  "Basınç ve sıcaklık gösterge sistemleri",
+  "Otoklav sepet filtreleri",
+  "Pompalar",
+  "El aletleri (anahtar, tornavida vb.)",
+  "Yağlama ekipmanları",
+  "Temizlik malzeme ve ekipmanları",
+  "Kişisel koruyucu donanım (iş elbisesi, eldiven, baret, koruyucu gözlük, kulaklık)",
+  "Vardiya kayıt defteri veya bilgisayar kayıt sistemi"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve tedbirli,",
+  "Sorumluluk sahibi,",
+  "Fiziksel olarak dayanıklı,",
+  "Talimatları eksiksiz uygulayabilen,",
+  "Teknik alet ve makineleri kullanabilen,",
+  "Takım çalışmasına uyumlu,",
+  "Vardiyalı çalışma düzenine uyum sağlayabilen,",
+  "İşçi sağlığı ve iş güvenliği kurallarına duyarlı,"
+ ],
+ "calisma_ortami": "Gazbeton üretim tesislerinde, otoklav kazanlarının bulunduğu kapalı üretim/atölye alanlarında çalışır. Çalışma ortamı sıcak, nemli, buharlı ve gürültülü olabilir; yüksek basınçlı kazan ve buhar sistemleriyle çalışıldığından iş kazası riski taşır, bu nedenle iş güvenliği kurallarına ve kişisel koruyucu donanım kullanımına titizlikle uyulması gerekir.\n\nÜretim genellikle kesintisiz sürdüğü için işler çoğunlukla vardiyalı sistemle (gündüz, akşam, gece) yürütülür. Meslek elemanı, vardiya arkadaşları, bölüm amiri, bakım-onarım personeli ve kalite kontrol çalışanlarıyla sürekli iletişim halindedir.",
+ "egitim": {
+  "verildigi_yerler": "Gazbeton Kazan Otoklav Operatörlüğü için örgün eğitimde (meslek lisesi veya mesleki eğitim merkezi) ayrı, standart bir program bulunmamaktadır. Meslek, genellikle gazbeton üretim tesislerinde işbaşında deneyimli bir operatör veya usta gözetiminde öğrenilir. Ayrıca Halk Eğitim Merkezleri ve İŞKUR tarafından açılan mesleki eğitim kurslarında da ilgili konularda eğitim alınabilir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "Sağlık durumunun vardiyalı çalışmaya, yüksek basınçlı ve sıcak ortamda görev yapmaya uygun olması (gerektiğinde sağlık raporu ile belgelendirilir)",
+   "18 yaşını doldurmuş olmak (tehlikeli iş kapsamında değerlendirilebilecek işlerde çalışma için işveren tarafından aranabilir)"
+  ],
+  "sure_ve_icerik": "Mesleğe yönelik belirli bir eğitim süresi ve müfredat resmi olarak tanımlanmamıştır. İşe yeni başlayanlar, işletme içinde usta/deneyimli operatör gözetiminde otoklav kazanının çalışma prensipleri, kumanda panosundan veri girişi, transfer arabalarının yerleştirilmesi, vakumlama ve kürleme süreçleri, ekipman temizliği ve bakımı, iş sağlığı ve güvenliği kuralları konularında uygulamalı olarak yetiştirilir. Bu süreç işletmenin büyüklüğüne ve kişinin öğrenme hızına göre değişebilir.",
+  "belge": "İşletme içi uygulamalı eğitim sonunda resmi bir diploma verilmemektedir; katılınan kurslardan kurs bitirme belgesi alınabilir. Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Gazbeton Kazan Otoklav Operatörleri, başta inşaat malzemeleri sektöründe yer alan gazbeton üretim fabrikaları ve tesisleri olmak üzere, bu tesislerin üretim hatlarında çalışırlar. İnşaat sektörünün hacmine bağlı olarak bu tesislerde istihdam talebi değişkenlik gösterebilir.",
+ "kazanc": {
+  "egitim_suresince": "İşletme içinde usta yanında yetişenlere, işveren ile yapılan anlaşmaya göre ücret ödenebilir. İŞKUR tarafından düzenlenen işbaşı eğitim programlarına veya mesleki eğitim kurslarına katılanlara ilgili mevzuat kapsamında kursiyer zaruri gider ödemesi yapılabilir.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanların kazancı genellikle asgari ücret düzeyindedir.",
+   "Kazanç; çalışılan işletmenin büyüklüğü, kişinin deneyimi, bilgi ve becerisi ile sektördeki ücret düzeyine göre değişebilir.",
+   "Özel sektörde çalışanların ücreti işveren ile karşılıklı anlaşmaya göre belirlenir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Bu meslekte örgün eğitimde tanımlı bir çıraklık-kalfalık-ustalık ilerleme basamağı bulunmamaktadır. Meslek elemanları, Halk Eğitim Merkezleri, İŞKUR kursları veya işletme içi eğitimlerle bilgi ve becerilerini geliştirebilir.",
+  "is_hayatinda": "Deneyim ve bilgi birikimi arttıkça vardiya sorumlusu, usta başı veya üretim şefi gibi pozisyonlara yükselebilirler; işletme içinde bakım-onarım veya kalite kontrol birimlerine geçiş yapabilirler."
+ },
+ "benzer_meslekler": [
+  "Gazbeton Kireç Hazırlama Operatörü",
+  "Gazbeton Çamur Hazırlama Operatörü",
+  "Gazbeton Kalıp Kesme Hattı Operatörü",
+  "Gazbeton Döküm Vinci Operatörü",
+  "Kireç Fırın Operatörü",
+  "Beton Santral Operatörü"
+ ],
+ "ek_bilgiler": "Otoklav kazanları yüksek basınç ve buhar ile çalıştığından, bu meslek tehlikeli iş kolları arasında değerlendirilebilir; bu nedenle iş sağlığı ve güvenliği eğitimlerine katılmak ve kişisel koruyucu donanımları eksiksiz kullanmak büyük önem taşır.",
+ "gorevler": [
+  "Otoklav kazanını ve diğer ekipmanı günlük kullanıma hazırlar,",
+  "Kumanda panosundan ürüne has veri girişlerini yapar,",
+  "Transfer arabalarındaki gazbeton hamurunu otoklav içine yerleştirir,",
+  "Otoklav kapağını kapatır,",
+  "Otoklavı çalıştırarak gazbeton hamurunun vakumlanmasını ve kürlenmesini sağlar,",
+  "Tanımlı süre kürlenen gazbetonu transfer arabasıyla beraber dışarı çıkarır,",
+  "Otoklav içinde olabilecek gazbeton parçalarını temizler,",
+  "Otoklav sepet filtrelerini temizler,",
+  "Transfer arabasını paketleme bölümüne gönderir,",
+  "Pompaları, vanaları ve otoklavı temizleyerek bir sonraki kullanıma hazırlar,",
+  "Vardiya bilgilerini kaydeder ve görevi bir sonraki operatöre devreder,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T10:50:27",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5818
+  }
+ }
+}

@@ -1,0 +1,75 @@
+{
+ "arac_gerec": [
+  "Bilgisayar ve çevre birimleri",
+  "Yazılım geliştirme ortamları (IDE)",
+  "Programlama dilleri ve kod kütüphaneleri",
+  "Hata ayıklama (debug) araçları",
+  "Test ve otomasyon yazılımları",
+  "Veritabanı yönetim sistemleri",
+  "Sürüm kontrol sistemleri (örn. Git)",
+  "Proje ve görev takip yazılımları",
+  "Dokümantasyon ve akış diyagramı hazırlama programları",
+  "Sistem ve ağ performans izleme araçları",
+  "Yazıcı, tarayıcı, harici depolama birimleri",
+  "Yazılım geliştirme standartları ve kalite dokümanları"
+ ],
+ "benzer_meslekler": [
+  "Sistem Analisti (BT)",
+  "Sistem Çözümleyici",
+  "BT İş Analisti (Bilişim Teknolojileri İş Analisti)",
+  "Yazılım Test Edicisi",
+  "Sistem Test Edicisi",
+  "Kalite Güvence Analisti (Bilgisayar)"
+ ],
+ "calisma_alanlari": "Program Analistleri; kamu kurum ve kuruluşlarının bilgi işlem birimlerinde, yazılım geliştirme şirketlerinde, bankacılık ve finans kuruluşlarında, telekomünikasyon, sigorta, e-ticaret ve danışmanlık firmalarında, ayrıca hemen her sektördeki işletmelerin bilişim departmanlarında istihdam edilirler.\n\nDeneyim ve bilgi birikimi kazandıktan sonra bağımsız danışmanlık hizmeti verebilir veya kendi yazılım/bilişim işletmesini kurabilirler. Kamu sektöründe genellikle merkezi ve yerel yönetim kurumlarının bilgi işlem birimlerinde görev alırlar.",
+ "calisma_ortami": "Program Analistleri genellikle kapalı, iyi aydınlatılmış ve klimalı büro ortamında, bilgisayar başında oturarak çalışırlar. Çalışma saatleri genellikle düzenlidir; ancak proje teslim tarihlerine yaklaşıldığında veya acil sistem hatalarının çözümünde mesai saatleri uzayabilir. Bazı kurumlarda esnek çalışma veya uzaktan/hibrit çalışma olanağı bulunabilir.\n\nÇalışma sırasında yazılım geliştiricileri, sistem yöneticileri, test uzmanları, proje yöneticileri ve son kullanıcılarla sık sık iletişim kurarlar. Uzun süre ekran karşısında çalışmak göz ve bel sağlığı açısından dikkat gerektirir.",
+ "ek_bilgiler": "Bu meslekte yasal bir zorunlu belge veya ruhsat bulunmamaktadır. Ancak ilgili alanlarda alınan sertifikalar ve Mesleki Yeterlilik Kurumu (MYK) belgeleri iş bulma sürecinde tercih sebebi olabilir. Bilişim sektöründeki hızlı teknolojik değişim nedeniyle mesleki gelişim faaliyetlerini sürdürmek önem taşır.",
+ "genel_ozellikler": [
+  "Analitik ve mantıksal düşünme yeteneğine sahip,",
+  "Matematik ve bilişim alanlarına ilgili,",
+  "Dikkatli ve titiz,",
+  "Sabırlı ve sistematik çalışabilen,",
+  "Sözlü ve yazılı anlatım becerisi gelişmiş,",
+  "Ekip çalışmasına yatkın,",
+  "Yeni teknolojileri takip etmeye ve kendini geliştirmeye açık,",
+  "Sorumluluk sahibi"
+ ],
+ "gorevler": [
+  "Kullanıcı ihtiyaçlarını analiz ederek yazılım gereksinim dokümanlarını hazırlar.",
+  "Mevcut programların hata analizlerini ve debug işlemlerini yapar.",
+  "Yazılım geliştirme süreçlerinde kod kalitesini ve verimliliğini denetler.",
+  "Sistem entegrasyonu ve veri akış testlerini yürütür.",
+  "Yazılım güncellemeleri için teknik raporlar ve akış diyagramları oluşturur.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi üniversitelerin Mühendislik ve Bilgisayar Bilimleri Fakültelerine bağlı Bilgisayar Mühendisliği, Yazılım Mühendisliği, Bilişim Sistemleri Mühendisliği ve benzeri bölümlerinde lisans düzeyinde verilmektedir.",
+  "giris_kosullari": [
+   "Lise veya dengi okul mezunu olmak",
+   "YKS (Yükseköğretim Kurumları Sınavı) kılavuzunda belirtilen giriş koşullarını taşımak",
+   "İlgili önlisans programlarından mezun olanlar, DGS (Dikey Geçiş Sınavı) ile başarılı oldukları takdirde ilgili lisans programına dikey geçiş yapabilirler"
+  ],
+  "sure_ve_icerik": "Eğitim süresi 4 yıldır; hazırlık sınıfı bulunması halinde 5 yıldır. Eğitim süresince programlama dilleri, veri yapıları ve algoritmalar, veritabanı sistemleri, yazılım mühendisliği ilkeleri, sistem analizi ve tasarımı, yazılım test ve kalite güvencesi, ağ ve işletim sistemleri, proje yönetimi gibi dersler verilmektedir.",
+  "belge": "Eğitimini başarıyla tamamlayanlara lisans diploması verilir."
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mezunlar, ilgili alanlarda yüksek lisans ve doktora yaparak akademik kariyer imkanı elde edebilir; alanlarında uzmanlık sertifikaları alarak bilgi ve becerilerini geliştirebilirler.",
+  "is_hayatinda": "Deneyim ve performansa bağlı olarak kıdemli program analisti, proje yöneticisi, sistem mimarı veya bilgi işlem müdürü gibi pozisyonlara yükselebilirler. Yeterli bilgi birikimine sahip olanlar kendi işlerini kurabilir veya bağımsız danışmanlık yapabilirler."
+ },
+ "kazanc": {
+  "egitim_suresince": "Lisans öğrenimi süresince öğrenciler Kredi ve Yurtlar Genel Müdürlüğü'nün sağladığı öğrenim kredisi ve yurt hizmetlerinden yararlanabilirler. Ayrıca çeşitli kamu ve özel kurum/kuruluşların burslarından yararlanabilir, isteyenler staj veya yarı zamanlı çalışma yoluyla gelir elde edebilirler.",
+  "egitim_sonrasi": [
+   "Kamu kurum ve kuruluşlarında çalışanlar, 657 sayılı Devlet Memurları Kanunu veya ilgili mevzuat hükümlerine göre belirlenen ücret ve diğer özlük haklarından yararlanır.",
+   "Özel sektörde ücretler; kişinin deneyimi, bilgi birikimi, çalıştığı işletmenin büyüklüğü ve sektörüne göre değişiklik gösterir.",
+   "Yeni mezunlar genellikle asgari ücret düzeyinde bir gelirle çalışmaya başlayabilir; deneyim kazandıkça kazanç artış eğilimi gösterir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T05:54:13",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 4793
+  }
+ }
+}

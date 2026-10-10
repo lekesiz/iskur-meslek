@@ -1,0 +1,75 @@
+{
+ "gorevler": [
+  "Vanaları açıp kapatarak karıştırma makinesinin kazanına hammadde doldurur.",
+  "Makineyi çalıştırarak karıştırıcı kepçeleri harekete geçirir.",
+  "Makineyi belirli bir süre veya hammaddeler istenilen kıvama gelinceye kadar çalıştırmaya devam eder.",
+  "Makineyi durdurup karışımı kazandan boşaltır.",
+  "Karıştırılan malzemeyi türüne göre ayırt eder.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "arac_gerec": [
+  "Karıştırma makinesi (mikser)",
+  "Kazan ve vanalar",
+  "Karıştırıcı kepçe/palet düzenekleri",
+  "Makine kontrol paneli ve şalterler",
+  "Hammadde taşıma ekipmanları (konveyör bant, el arabası, forklift)",
+  "Tartı ve ölçüm aletleri",
+  "Koruyucu eldiven ve iş elbisesi",
+  "Toz maskesi",
+  "Kulak koruyucu",
+  "Temizlik araç ve gereçleri",
+  "Basit bakım el aletleri (anahtar takımı, yağdanlık)"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve tedbirli,",
+  "Sorumluluk sahibi,",
+  "Fiziksel olarak dayanıklı,",
+  "Makine ve ekipman kullanımına yatkın,",
+  "Talimatlara uyan,",
+  "El ve göz koordinasyonu iyi,",
+  "Düzenli ve tertipli,",
+  "Takım çalışmasına uyumlu"
+ ],
+ "calisma_ortami": "Karıştırıcı (İnşaat Elemanları), tuğla, kiremit, briket, beton, mozaik ve benzeri inşaat malzemelerinin üretildiği fabrika ve atölyelerde, kapalı mekânlarda çalışır. Çalışma süresince genellikle ayakta durur, makinelerin yakınında hareket eder; ortam zaman zaman gürültülü ve tozlu olabilir, hammaddelerin niteliğine göre nem ve sıcaklık gibi fiziksel koşullara maruz kalınabilir. Bu nedenle iş sağlığı ve güvenliği kurallarına ve kişisel koruyucu donanım kullanımına özen gösterilmesi gerekir.\n\nÇalışma saatleri işletmenin üretim programına bağlı olarak değişebilir, bazı işletmelerde vardiyalı çalışma düzeni uygulanır. Meslek mensubu; usta, vardiya amiri, diğer tesis ve makine operatörleri ile iş birliği içinde çalışır.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin örgün ve standart bir eğitim programı bulunmamaktadır. Bilgi ve beceriler genellikle işyerinde usta yanında çalışılarak, uygulamalı biçimde kazanılır. Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kurslarında ilgili alanlarda (malzeme bilgisi, makine kullanımı, iş güvenliği vb.) kısa süreli kurslar düzenlenebilir.",
+  "giris_kosullari": [
+   "İlköğretim mezunu olmak (işletmeye göre bu şart aranmayabilir)",
+   "18 yaşını doldurmuş olmak",
+   "Fiziksel olarak işin gerektirdiği güce ve sağlık koşullarına uygun olmak",
+   "Açılan kurslara, ilgili kurumların belirlediği genel koşullarla katılabilmek"
+  ],
+  "sure_ve_icerik": "Mesleğin belirli bir eğitim süresi ve standart bir müfredatı yoktur. Bilgi ve beceriler, işyerinde usta yanında çalışılarak uygulamalı biçimde kazanılır. Bu süreçte hammadde özellikleri ve formülasyonları, karıştırma makinesinin kullanımı ve kontrolü, karışım kıvamının izlenmesi, basit bakım işlemleri ile iş sağlığı ve güvenliği kuralları öğretilir. Açılan kurslarda ise ilgili konular kuramsal ve uygulamalı olarak işlenir.",
+  "belge": "Örgün bir eğitim sonunda verilen diploma veya sertifika bulunmamaktadır. Katılınan kurslar sonunda genellikle 'Kurs Bitirme Belgesi' verilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Karıştırıcılar; tuğla, kiremit, briket, hazır beton, mozaik, seramik ve benzeri inşaat elemanlarının üretildiği özel sektöre ait fabrika ve üretim tesislerinde istihdam edilir. İstihdam imkânı, inşaat sektöründeki üretim hacmine ve bu tür tesislerin yoğunluğuna bağlı olarak değişkenlik gösterir. Kamuda bu meslek dalında doğrudan ve yaygın bir istihdam bulunmamaktadır.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğin örgün bir eğitim programı bulunmadığından eğitim süresince standart bir kazanç söz konusu değildir. İşbaşında eğitim alınan işletmelerde bazen asgari ücret düzeyinde bir ödeme yapılabilir.",
+  "egitim_sonrasi": [
+   "İşe yeni başlayanlar genellikle asgari ücret düzeyinde ücret alır.",
+   "Deneyim arttıkça ve işletmenin imkânlarına göre ücrette artış olabilir.",
+   "Özel sektörde ücret, işveren ile çalışan arasındaki anlaşmaya ve işletmenin büyüklüğüne göre belirlenir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğin örgün bir eğitim kademesi ve buna bağlı resmi bir ilerleme basamağı bulunmamaktadır. Deneyim kazandıkça farklı makine ve karışım türleri konusunda bilgi ve beceri geliştirilebilir.",
+  "is_hayatinda": "Deneyim ve performansına göre karıştırıcı; vardiya sorumluluğu, usta başılığı veya tesis/hat sorumluluğu gibi görevlere yükselebilir. Farklı üretim hatlarında çalışarak bilgi birikimini artırabilir."
+ },
+ "benzer_meslekler": [
+  "Kil Çamuru Hazırlayıcısı",
+  "Kil Hamur Makinesi Operatörü",
+  "Öğütme ve Çamur Makinesi Operatörü (İnşaat Elemanları)",
+  "Karıştırıcı (Aşındırıcı Maddeler)",
+  "Karıştırıcı (Cam İmali)",
+  "Kil Şerbeti Hazırlama Makinesi Operatörü"
+ ],
+ "ek_bilgiler": "Meslekte istihdam imkânı, tuğla-kiremit, hazır beton, mozaik ve benzeri inşaat malzemeleri üretim sektörünün büyüklüğüne ve üretim hacmine bağlı olarak değişebilir. Toz ve gürültüye maruz kalınabilecek çalışma koşulları nedeniyle kişisel koruyucu donanımların eksiksiz kullanılması önem taşır.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T16:53:40",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5598
+  }
+ }
+}

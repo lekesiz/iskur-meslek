@@ -1,0 +1,71 @@
+{
+ "arac_gerec": [
+  "Kırma makinesi",
+  "Mekanik doldurucu/besleyici ünite",
+  "Büyük parçaları tutan elek (ızgara)",
+  "Çekiç ve benzeri kırma el aletleri",
+  "Makine hız ayar ve kontrol panosu",
+  "Taşıma bandı/konveyör",
+  "Tartım terazisi",
+  "Toz emme ve filtreleme sistemi",
+  "Kişisel koruyucu donanım (toz maskesi, eldiven, koruyucu gözlük, kulaklık, iş elbisesi)",
+  "Temel bakım el aletleri (anahtar, pense vb.)"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve tedbirli,",
+  "Fiziksel olarak güçlü ve dayanıklı,",
+  "El ve bedenini eşgüdümle kullanabilen,",
+  "Makine ve ekipmanla çalışmaya istekli,",
+  "Sorumluluk duygusu gelişmiş,",
+  "Ekip çalışmasına uyumlu,",
+  "Gürültülü ve tozlu ortamda çalışmaya uyumlu,",
+  "Talimatları eksiksiz uygulayabilen"
+ ],
+ "calisma_ortami": "Kırma makinesi operatörü, kimyasal madde üreten fabrika ve atölyelerin kırma-öğütme bölümlerinde, kapalı mekânlarda çalışır. Çalışma ortamı genellikle tozlu ve gürültülüdür; işlenen malzemeye bağlı olarak kimyasal koku ve toz maruziyeti söz konusu olabileceğinden kişisel koruyucu donanım kullanımı önemlidir. İş büyük ölçüde ayakta ve bedensel güç gerektiren bir tempoda yürütülür.\n\nÇalışma saatleri işletmenin üretim programına göre değişebilir; vardiyalı çalışma yaygındır. Meslek elemanı çalışması sırasında ustabaşı, bakım personeli ve diğer üretim çalışanlarıyla iletişim halindedir, genellikle bireysel olarak makinesinin başında çalışır ve gerektiğinde ekip içinde koordinasyon sağlar.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin kazanılmasına yönelik resmî olarak tanımlanmış, belirli bir süre ve müfredata sahip örgün bir meslek eğitim programı bulunmamaktadır. Meslek genellikle işyerlerinde işbaşında usta yanında yetişerek kazanılır. Ayrıca Halk Eğitim Merkezleri ile İŞKUR tarafından açılan kimya teknolojisi alanına yönelik mesleki eğitim kursları da bu mesleğe hazırlık sağlayabilir.",
+  "giris_kosullari": [
+   "İlköğretim mezunu olmak (mesleğin gerektirdiği minimum eğitim düzeyi)",
+   "Okuryazar olmak",
+   "Fiziksel olarak makine başında ayakta ve bedensel çalışmaya uygun olmak",
+   "Sağlık durumu açısından tozlu/gürültülü ortamda çalışmaya engel bulunmamak"
+  ],
+  "sure_ve_icerik": "Örgün bir eğitim süresi standart olarak tanımlanmamıştır; işbaşı eğitimi işletmenin ihtiyacına göre değişen sürelerde gerçekleşir. Düzenlenen kurslarda genellikle iş sağlığı ve güvenliği, kimyasal maddelerle güvenli çalışma, kırma makinesinin kullanımı, bakımı ve basit arızalarının giderilmesi ile kalite kontrol esasları işlenir.",
+  "belge": "Örgün bir diploma veya mezuniyet belgesi söz konusu değildir. Katılınan kurslardan Kurs Bitirme Belgesi alınabilir; ayrıca Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Kırma makinesi operatörleri; boya, gübre, kimyasal ham madde, mineral işleme, plastik ham madde ve benzeri kimyasal ürünlerin üretildiği fabrika ve işletmelerin kırma-öğütme ünitelerinde istihdam edilir. İstihdam olanakları, bu tür üretim tesislerinin bulunduğu sanayi bölgelerinde yoğunlaşmaktadır.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğe yönelik örgün ve ücretsiz olmayan bir eğitim programı bulunmadığından, işbaşında usta yanında yetişen kişiler çalıştıkları süre boyunca genellikle asgari ücret düzeyinde kazanç sağlayabilir.",
+  "egitim_sonrasi": [
+   "Ücretler çalışılan işletmeye, sektöre ve kişinin deneyimine göre değişmekle birlikte, yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Deneyim, bilgi birikimi ve üstlenilen sorumluluk arttıkça kazanç düzeyi yükselebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğe yönelik kademeli bir örgün eğitim basamağı bulunmamaktadır. İlgi duyan kişiler kimya teknolojisi alanındaki mesleki eğitim kurslarına katılarak bilgi ve becerilerini geliştirebilir.",
+  "is_hayatinda": "Deneyim ve bilgi birikimi arttıkça usta, ustabaşı, vardiya amiri veya bölüm sorumlusu gibi unvanlarla ilerleme imkânı bulunabilir."
+ },
+ "benzer_meslekler": [
+  "Ezme Makinesi Operatörü-Kimyasal Maddeler",
+  "Öğütme Makinesi Operatörü (Kimyasal ve İlgili İşlemler)",
+  "Karıştırma Makinesi Operatörü-Kimyasal Maddeler",
+  "Yoğurucu (Kimyasal Maddeler)",
+  "Diğer Kırma, öğütme, karıştırma ve Silindiraj/ Kalandır İşçileri (Kimyasal ve İlgili İşlemleri)"
+ ],
+ "ek_bilgiler": "Kırma işlemi sırasında ortaya çıkan toz, gürültü ve işlenen kimyasal maddenin özelliklerine bağlı riskler nedeniyle kişisel koruyucu donanım kullanımı ve iş güvenliği kurallarına uyum büyük önem taşımaktadır. İşlenen maddenin niteliğine göre işveren tarafından belirlenen ek güvenlik tedbirleri uygulanabilir.",
+ "gorevler": [
+  "Elle veya mekanik doldurucuyla makinenin deposunu doldurur.",
+  "Büyük parçaları tutacak eleği makineye takar.",
+  "Makineyi çalıştıran, dolduran ve hızını ayarlayan teçhizatı kullanır.",
+  "Çok büyük veya birbirine girip sıkışmış olan malzemeyi çekiçle kırar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T11:58:47",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5257
+  }
+ }
+}

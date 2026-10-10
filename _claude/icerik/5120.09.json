@@ -1,0 +1,78 @@
+{
+ "arac_gerec": [
+  "Kesici aletler (bıçak, satır, mutfak makası)",
+  "Doğrama tahtaları",
+  "Mutfak robotu, rondo ve blender",
+  "Soğutucu dolaplar ve buzdolapları",
+  "Çalışma tezgahları ve hazırlık üniteleri",
+  "Karıştırma ve marinasyon kapları",
+  "Süsleme ve sunum araçları (sıkma torbası, kalıplar)",
+  "Servis tabakları ve sunum kapları",
+  "Tartı aletleri",
+  "Gıda saklama kapları",
+  "Gıda sıcaklık ölçer (termometre)",
+  "Koruyucu eldiven, önlük ve bone",
+  "Temizlik ve hijyen malzemeleri"
+ ],
+ "genel_ozellikler": [
+  "El ve parmak becerisine sahip,",
+  "Estetik görüşü ve renk uyumuna dikkat eden,",
+  "Hijyen ve temizliğe önem veren,",
+  "Dikkatli ve titiz,",
+  "Ayakta uzun süre çalışabilecek bedensel dayanıklılığa sahip,",
+  "Zamanını iyi planlayabilen,",
+  "Ekip çalışmasına uyumlu,",
+  "Yoğun çalışma temposuna ayak uydurabilen"
+ ],
+ "calisma_ortami": "Soğuk Mezeciler genellikle otel, restoran, lokanta, catering firması, düğün/organizasyon salonu veya kurum mutfaklarının soğuk mutfak bölümünde çalışır. Çalışma ortamı kapalı, genellikle serin ve nemli olabilir; yer zemini ıslak olabileceğinden kayma riski bulunur, kesici aletlerle çalışma nedeniyle kesilme riski vardır. Yoğun saatlerde (öğle, akşam yemeği, organizasyon öncesi) hızlı ve dikkatli çalışmak gerekir.\n\nÇalışma saatleri işletmenin yapısına göre değişir; vardiyalı, hafta sonu ve tatil günlerinde çalışma yaygındır. Çalışma sırasında mutfak şefi (aşçıbaşı), diğer aşçılar, aşçı yardımcıları ve servis personeli ile sürekli iletişim ve koordinasyon içinde bulunur.",
+ "gorevler": [
+  "Hazırlanacak soğuk yiyecek türüne göre malzemeleri belirler ve temin eder.",
+  "Soğuk yiyecek türüne göre malzemenin haşlama, doğrama vb. usullerle ön hazırlığını yapar.",
+  "Çeşitli meze türlerini, salataları ve zeytinyağlı sosları hazırlar.",
+  "Hazırlanan soğuk yiyecekleri göze hitap edecek şekilde süsler ve servise hazır hale getirir.",
+  "Zamanında tüketilmeyen malzemeleri imha eder.",
+  "Kullanılan alanın ve malzemelerin temizliğini yapar.",
+  "Kullanılan malzemelerin bakım ve tamirinin yapılmasını sağlar.",
+  "Mesleği alanındaki gelişmeleri takip eder ve uygular.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Soğuk Mezecilik, aşçılık mesleğinin bir uzmanlık dalı olup bu konuda ayrı bir örgün okul programı bulunmamaktadır. Meslek genellikle işletmelerde işbaşında usta yanında yetişme yoluyla veya Halk Eğitim Merkezleri, Mesleki Eğitim Merkezleri ve İŞKUR tarafından açılan mesleki eğitim kursları ile öğrenilmektedir. Ortaokul veya lise düzeyinde aşçılık alanı eğitimi alanlar da bu mesleğe daha donanımlı başlayabilir.",
+  "giris_kosullari": [
+   "Okuryazar olmak (meslekte çalışabilmek için gereken asgari eğitim düzeyi)",
+   "Çalışma hayatına katılmak için öngörülen asgari yaş şartını taşımak",
+   "Bazı kurs ve kurumların kendi belirlediği ilkokul/ortaokul mezuniyeti gibi koşulları sağlamak"
+  ],
+  "sure_ve_icerik": "Örgün bir eğitim süresi bulunmadığından süre işletmeye ve kursa göre değişir. İçerikte genel olarak gıda hijyeni ve güvenliği, malzeme seçimi ve ön hazırlık teknikleri, meze, salata ve zeytinyağlı yemeklerin hazırlanması, sunum ve süsleme teknikleri, soğuk zincir ve saklama koşulları gibi konular yer alır.",
+  "belge": "Katılınan kurslardan başarıyla ayrılanlara Milli Eğitim Bakanlığı veya Halk Eğitim Merkezi onaylı kurs bitirme belgesi/sertifikası verilebilir. Mesleki Yeterlilik Kurumu (MYK) tarafından aşçılık alanında düzenlenen Mesleki Yeterlilik Belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Soğuk Mezeciler; otel, restoran, lokanta, kafe, catering firmaları, düğün ve organizasyon salonları, hastane, okul ve kurum mutfakları ile yemek fabrikaları gibi yiyecek-içecek hizmeti veren işletmelerin mutfaklarında çalışabilir. Turizm ve hizmet sektörünün gelişmişlik düzeyine bağlı olarak iş bulma olanakları değişkenlik gösterir; özellikle turizm bölgelerinde ve büyük şehirlerde talep daha fazladır.",
+ "kazanc": {
+  "egitim_suresince": "İşletmelerde çırak veya stajyer olarak çalışanlara genellikle asgari ücretin altında bir cep harçlığı veya değişen miktarda ücret ödenebilir.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç elde eder.",
+   "Deneyim, çalışılan işletmenin büyüklüğü ve bilinirliği arttıkça kazanç düzeyi yükselebilir.",
+   "Özel sektörde çalışanların ücreti işveren ile karşılıklı anlaşma yoluyla belirlenir; kamuya bağlı kurum mutfaklarında çalışanlar işçi statüsündeyse ilgili toplu iş sözleşmesi hükümleri uygulanır."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Soğuk mutfak alanında deneyim kazanan kişi, sıcak mutfak, pastacılık gibi diğer mutfak dallarında eğitim alarak bilgi ve becerisini genişletebilir; isteyenler aşçılık alanında mesleki ve teknik eğitim programlarına veya ilgili kurslara katılarak mesleki bilgisini pekiştirebilir.",
+  "is_hayatinda": "Mesleğinde deneyim ve beceri kazanan Soğuk Mezeci, kıdemli meze/salata şefi, soğuk mutfak sorumlusu gibi görevlere ve zamanla mutfak şefliğine (aşçıbaşılığa) kadar yükselebilir. Yeterli birikim ve sermayeye sahip olanlar kendi meze, salata veya catering işletmesini kurabilir."
+ },
+ "benzer_meslekler": [
+  "Salatacı (Salata Ustası)",
+  "Soğuk Mutfak Aşçısı",
+  "Aşçı Yardımcısı",
+  "Aşçı",
+  "Diğer Aşçılar"
+ ],
+ "ek_bilgiler": "Aşçılık mesleği, Mesleki Yeterlilik Kurumu (MYK) tarafından yayımlanan tehlikeli ve çok tehlikeli işler listesi kapsamında değerlendirilebildiğinden, bu alanda çalışacakların MYK Mesleki Yeterlilik Belgesi edinmeleri işveren tarafından tercih sebebi olabilir ve bazı işletmelerde aranabilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T17:28:32",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5598
+  }
+ }
+}

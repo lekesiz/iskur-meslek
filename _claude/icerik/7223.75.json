@@ -1,0 +1,83 @@
+{
+ "arac_gerec": [
+  "Pres makinesi (şablon/kalıp presi)",
+  "Kesim ve biçimlendirme kalıpları",
+  "Vasgel (parça dayama/konumlandırma mesnedi)",
+  "Teknik resimler ve iş emirleri",
+  "Ölçü ve kontrol aletleri (kumpas, metre, mastar)",
+  "Markalama ve işaretleme aletleri",
+  "El aletleri (anahtar takımı, tornavida, çekiç vb.)",
+  "Kaldırma ve taşıma ekipmanları (vinç, forklift, el arabası)",
+  "Kalıp değiştirme ve bağlama ekipmanları",
+  "Yağlama ve bakım malzemeleri",
+  "İşlenecek metal sac, levha ve profil stokları",
+  "Kişisel koruyucu donanım (iş eldiveni, koruyucu gözlük, kulaklık, çelik burunlu ayakkabı)"
+ ],
+ "genel_ozellikler": [
+  "El ve göz koordinasyonunu iyi kullanabilen,",
+  "Şekilleri doğru algılayan ve teknik resim okuyabilen,",
+  "Dikkatli ve tedbirli,",
+  "El becerisine sahip,",
+  "Makine ve aletlerle çalışmaktan hoşlanan,",
+  "Fiziksel olarak dayanıklı,",
+  "Sorumluluk sahibi ve kurallara uyan,",
+  "Ekip içinde uyumlu çalışabilen"
+ ],
+ "calisma_ortami": "Şablon presçi (metal), genellikle fabrika veya atölye ortamında, kapalı mekanda ve çoğunlukla ayakta çalışır. Çalışma ortamı makine sesi nedeniyle gürültülü, yağ ve metal tozu nedeniyle kısmen kirli olabilir. Pres makinesiyle çalışılması ve ağır metal parçaların elle taşınması nedeniyle sıkışma, kesilme ve yaralanma riski bulunduğundan iş güvenliği kurallarına ve kişisel koruyucu donanım kullanımına titizlikle uyulması gerekir. İşletmenin üretim hacmine göre vardiyalı çalışma söz konusu olabilir.\n\nÇalışırken büyük ölçüde makineyle ve kesilen malzemeyle ilgilenir; görevleri sırasında vardiya amiri, ustabaşı, kalite kontrol ve bakım personeli ile kısa süreli iletişim kurar.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi, yeterli müracaat olması durumunda mesleki eğitim merkezlerinde ilgili metal işleme alanı/dalında çıraklık eğitimi şeklinde verilebilir. Bunun yanında Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kursları ile işyerlerinde usta yanında işbaşında yetişme yoluyla da bu mesleğe girilebilmektedir.",
+  "giris_kosullari": [
+   "En az ortaokul mezunu olmak (çıraklık eğitimi için)",
+   "14 yaşını doldurmuş olmak",
+   "Sağlık durumunun mesleğin gerektirdiği işlere uygun olması",
+   "Çıraklık eğitimi tercih edilecekse ilgili işyeri ile çıraklık sözleşmesi imzalamak"
+  ],
+  "sure_ve_icerik": "Mesleğin gerektirdiği minimum eğitim düzeyi ilköğretimdir. Çıraklık eğitimi yoluyla yetişmek isteyenler için eğitim, mesleki eğitim merkezlerinde haftada bir gün teorik, diğer günler işyerinde uygulamalı olarak verilir; eğitim programında genel kültür dersleri ile pres makinelerinin tanıtımı ve kullanımı, kalıp bağlama ve ayar, teknik resim okuma, ölçme-kontrol ve iş sağlığı-güvenliği gibi meslek dersleri bulunur. İşbaşında usta yanında yetişerek mesleğe girenler için ise eğitim süresi ve içeriği işyerinin ihtiyacına, kullanılan pres türüne ve kişinin öğrenme hızına göre değişmekte, bilgi ve beceriler kademeli olarak uygulamalı şekilde kazandırılmaktadır.",
+  "belge": "Çıraklık eğitimini tamamlayanlara kalfalık, ardından ustalık belgesi verilir. İşbaşı eğitimiyle yetişenler işyerince düzenlenen çalışma/deneyim belgesi veya katıldıkları kurslara ait sertifika alabilirler. Ayrıca yetkilendirilmiş kuruluşlarca yapılan sınav sonucunda alınabilecek Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Şablon presçiler (metal), metal sac ve levhaların preslenerek kesildiği veya şekillendirildiği fabrika ve atölyelerde çalışabilir. Başlıca çalışma alanları arasında metal işleme ve sac işleme sanayi, otomotiv yan sanayi, beyaz eşya üretimi, makine imalatı, metal mutfak eşyaları üretimi ve metal inşaat/konstrüksiyon sektörü sayılabilir. İş bulma olanakları, metal işleme sektörünün genel ekonomik duruma bağlı üretim hacmiyle ve işletmelerin otomasyon/CNC teknolojilerine geçiş hızıyla ilişkilidir; teknolojik dönüşüm nedeniyle bazı işletmelerde manuel pres kullanımı azalırken, bu mesleğin bilgi ve becerisi CNC ve otomatik pres sistemlerine geçişte de değerlendirilebilmektedir.",
+ "kazanc": {
+  "egitim_suresince": "Çıraklık eğitimi yoluyla mesleğe hazırlanan öğrencilere, 3308 sayılı Mesleki Eğitim Kanunu gereğince işyerinde geçirdikleri süre için asgari ücretin net tutarının belirli bir yüzdesinden az olmamak üzere ücret ödenir ve iş kazası ile meslek hastalıkları sigortası devletçe karşılanır. İşbaşında usta yanında yetişenlerin kazancı ise işyeriyle yapılan anlaşmaya göre değişir.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Deneyim kazanılması, farklı pres tiplerinde (özellikle CNC/otomatik pres) uzmanlaşma ve çalışılan işletmenin büyüklüğü kazancı artırabilir.",
+   "Kamuda çalışanlar 657 sayılı Devlet Memurları Kanunu'na veya işçi statüsündeyse ilgili toplu iş sözleşmesi hükümlerine, özel sektörde ise işveren ile yapılan anlaşmaya tabidir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleki eğitimini tamamlayanlar, açık öğretim yoluyla orta öğretimlerini tamamlayabilir, metal/makine teknolojisi alanındaki mesleki ve teknik eğitim programlarına veya bu alanların devamı niteliğindeki ön lisans/lisans programlarına yönelebilirler.",
+  "is_hayatinda": "Mesleki deneyim ve bilgi birikimi kazanan şablon presçiler, kalfalık ve ustalık süreçlerinin ardından usta, ustabaşı, vardiya amiri veya üretim/kalite kontrol sorumlusu gibi görevlere yükselebilir. Yeterli sermaye ve deneyime sahip olanlar kendi işyerini açarak işveren konumuna geçebilir."
+ },
+ "benzer_meslekler": [
+  "Eksantrik Pres Tezgahı Operatörü",
+  "Hidrolik Apkant Pres Operatörü",
+  "CNC Apkant Pres Tezgahı Operatörü",
+  "Bombe Pres Tezgahı Operatörü",
+  "CNC Punch Makinesi Operatörü",
+  "Kalıp Bağlama ve Ayar İşçisi"
+ ],
+ "ek_bilgiler": "Pres makineleriyle çalışma, sıkışma ve kesilme riski taşıdığından iş sağlığı ve güvenliği kurallarına, makine koruyucularının ve kişisel koruyucu donanımın kullanımına uyulması mesleğin önemli bir gereğidir. Mesleki Yeterlilik Kurumu (MYK) tarafından düzenlenen belgeler, istihdamda tercih sebebi olabilir.",
+ "gorevler": [
+  "İş organizasyonu yapar,",
+  "Pres makinesini kullanıma hazırlar,",
+  "Kesim yapılacak metalleri temin eder ve kesime hazırlar,",
+  "Teknik resimleri ve iş emirlerini inceler,",
+  "Uygun kalıpları tespit ederek makineye montajlar,",
+  "Metalleri vasgel üzerine yerleştirir,",
+  "Deneme kesimi yapar, ayarları sabitler,",
+  "Seri kesim işlemlerini başlatır,",
+  "Kesim işlemini takip ve kontrol eder,",
+  "Makinenin bakım ve ayarlarının yapılmasını sağlar,",
+  "Üretime ilişkin bilgileri ilgili yöneticisine aktarır,",
+  "Mesleğindeki gelişmeleri takip eder ve uygular,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T01:57:03",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6641
+  }
+ }
+}

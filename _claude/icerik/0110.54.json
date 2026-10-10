@@ -1,0 +1,74 @@
+{
+ "arac_gerec": [
+  "Deniz araçları (bot/gemi) ve seyir donanımları",
+  "Radar ve sonar sistemleri",
+  "Telsiz ve haberleşme cihazları",
+  "Navigasyon, GPS ve komuta-kontrol yazılımları",
+  "Harita ve seyir malzemeleri",
+  "Silah ve mühimmat sistemleri",
+  "Kişisel koruyucu donanım ve can kurtarma ekipmanları",
+  "Bilgisayar ve ofis yazılımları",
+  "Resmî evrak, rapor ve kayıt araçları",
+  "Üniforma, rütbe ve ayırt edici işaretler"
+ ],
+ "benzer_meslekler": [
+  "Albay (Sahil Güvenlik)",
+  "Binbaşı (Sahil Güvenlik)",
+  "Yüzbaşı (Sahil Güvenlik)",
+  "Tuğamiral (Sahil Güvenlik)",
+  "Koramiral (Sahil Güvenlik)",
+  "Oramiral (Sahil Güvenlik)"
+ ],
+ "calisma_alanlari": "Yarbay (Sahil Güvenlik), yalnızca kamu kurumu niteliğindeki Sahil Güvenlik Komutanlığı bünyesinde istihdam edilir; özel sektörde bu unvanla çalışma imkânı bulunmamaktadır. Görev yaptığı başlıca birimler arasında Sahil Güvenlik bot komutanlıkları, grup komutanlıkları, bölge komutanlıkları ve bağlı karargâhlar yer alır. Görev yeri, teşkilatın ihtiyaçları ve terfi/atama süreçlerine göre yurt genelindeki kıyı bölgelerinde değişebilir.",
+ "calisma_ortami": "Yarbay (Sahil Güvenlik), görevinin bir bölümünü açık denizde bot veya gemi üzerinde, bir bölümünü ise karargâh/büro ortamında yürütür. Deniz koşullarına bağlı olarak dalgalı hava, soğuk, nem gibi fiziksel zorluklarla ve uzun süreli görev/nöbet düzeniyle karşılaşabilir. Görev gereği silahlı ve riskli operasyonlara (kaçakçılık, arama-kurtarma, sınır güvenliği gibi) katılabileceğinden fiziksel risk taşıyan bir meslektir.\n\nÇalışma saatleri düzenli değildir; operasyonel ihtiyaca göre gece-gündüz, hafta sonu ve resmî tatillerde de görev yapılabilir. Emrindeki astsubay ve erbaş/er personel ile, üst rütbeli komutanlarla, diğer kamu kurumları (Emniyet, Gümrük, Jandarma gibi) temsilcileriyle ve zaman zaman sivil vatandaşlarla sıkı bir hiyerarşi ve disiplin düzeni içinde ilişki kurar.",
+ "egitim": {
+  "belge": "Harp okulu mezuniyet diploması (lisans diploması) ve subaylık nasıp belgesi; rütbe terfilerinde ilgili komuta kademesince düzenlenen resmî terfi/atama kararnamesi.",
+  "giris_kosullari": [
+   "Millî Savunma Üniversitesi bünyesindeki ilgili harp okulunu (genellikle Deniz Harp Okulu) başarıyla bitirerek subay nasbedilmiş olmak",
+   "Kademeli rütbe sistemi içinde Teğmen, Üsteğmen, Yüzbaşı ve Binbaşı rütbelerinde belirlenen süreler kadar hizmet etmiş olmak",
+   "Rütbe terfii için gereken sınav, değerlendirme ve kıdem şartlarını başarıyla tamamlamış olmak",
+   "Askerî personel için aranan sağlık, fiziksel yeterlilik ve güvenlik soruşturması şartlarını taşımak",
+   "Türk vatandaşı olmak ve ilgili mevzuatta belirtilen diğer genel şartları sağlamak"
+  ],
+  "sure_ve_icerik": "Bu mesleğe giriş, harp okulunda alınan dört yıllık lisans eğitimiyle başlar; eğitimde askerî disiplin, liderlik, denizcilik/seyir, güvenlik ve ilgili teknik dersler yer alır. Subay olarak göreve başlandıktan sonra Yarbay rütbesine ulaşmak, kademeli terfi sistemi içinde yıllar süren bir hizmet ve eğitim sürecini (hizmet içi kurslar, kurmay/branş eğitimleri dahil) gerektirir; bu süreç kişiden kişiye ve kuruma göre değişebilmekle birlikte genellikle on yılı aşan bir hizmet süresi sonunda bu rütbeye ulaşılır.",
+  "verildigi_yerler": "Mesleğe giriş eğitimi Millî Savunma Üniversitesi bünyesindeki harp okullarında verilir; rütbe içi ve hizmet içi eğitimler ise Sahil Güvenlik Komutanlığı'na bağlı eğitim merkezleri ve kurslarda gerçekleştirilir."
+ },
+ "ek_bilgiler": "Bu meslek, sivil bir meslek değil askerî subaylık statüsü taşıyan bir görevdir; girişi, eğitimi, terfi ve atama süreçleri ilgili askerî mevzuat ve kurum (Millî Savunma Üniversitesi, Sahil Güvenlik Komutanlığı) tarafından belirlenir. Göreve giriş ve terfilerde yaş sınırı, sağlık koşulları ve güvenlik soruşturması gibi şartlar aranır; meslek tehlike/risk taşıyan operasyonel görevleri içerebilir.",
+ "genel_ozellikler": [
+  "Liderlik vasfına sahip,",
+  "Disiplinli ve sorumluluk sahibi,",
+  "Soğukkanlı, kriz ve acil durum yönetimine yatkın,",
+  "Analitik düşünebilen ve hızlı karar verebilen,",
+  "Fiziksel ve psikolojik yönden sağlıklı,",
+  "İyi iletişim ve ekip yönetimi becerisine sahip,",
+  "Vatan, görev ve gizlilik bilincine sahip,",
+  "Değişen koşullara ve zorlu çalışma şartlarına uyum sağlayabilen,"
+ ],
+ "gorevler": [
+  "Bağlı botların ve ekiplerin günlük faaliyetlerini planlar.",
+  "Operasyonel görevlerin takibini yapar.",
+  "Personelin performansını ve eğitimini denetler.",
+  "Teknik ekipman ve ikmal durumunu izler.",
+  "Görev raporlarını üstlerine sunar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "is_hayatinda": "İş hayatında Yarbay, genellikle tabur veya grup komutanlığı düzeyinde görev yapar; performansı, kıdemi ve ihtiyaçlara göre karargâh/kurmay görevlerine atanabilir. Belirli hizmet süresi ve terfi şartlarını sağlayanlar Albay rütbesine, ardından amirallik kademelerine kadar ilerleyebilir.",
+  "mesleki_egitimde": "Harp okulu mezuniyeti sonrası subaylar sırasıyla Teğmen, Üsteğmen, Yüzbaşı, Binbaşı ve Yarbay rütbelerine kademeli olarak terfi eder; her kademede hizmet süresi, sınav ve değerlendirme şartları aranır. Yarbaylık sonrası hizmet içi kurs ve eğitimlerle kurmaylık ve üst rütbe terfilerine hazırlık yapılabilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Harp okulunda öğrenim gören adaylar, askerî öğrenci statüsünde barınma, iaşe ve belirli bir harçlık/maaş imkânından yararlanır; bu düzenlemeler ilgili askerî mevzuata göre belirlenir.",
+  "egitim_sonrasi": [
+   "Yarbay (Sahil Güvenlik), devlet memuru statüsünde değil askerî personel statüsünde görev yapar; ücret, ek ödeme ve özlük hakları ilgili askerî personel mevzuatına göre rütbe, kıdem ve görev yerine bağlı olarak belirlenir.",
+   "Gelir düzeyi, üst rütbelere terfi ettikçe ve hizmet yılı arttıkça kademeli olarak yükselir; ayrıca görev tazminatları ve ek ödemeler söz konusu olabilir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-07T17:31:16",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5551
+  }
+ }
+}

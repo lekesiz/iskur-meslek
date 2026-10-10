@@ -1,0 +1,75 @@
+{
+ "arac_gerec": [
+  "Bilgisayar ve sunucu (server) sistemleri",
+  "Veri tabanı yönetim sistemi (DBMS) yazılımları (SQL Server, MySQL, Oracle vb.)",
+  "Ağ anahtarı (switch), yönlendirici (router) ve modem gibi ağ cihazları",
+  "Ağ kablolama ekipmanları (kablo, konnektör, patch panel)",
+  "Ağ test ve ölçüm cihazları, ağ analiz/izleme yazılımları",
+  "Yedekleme (backup) donanım ve yazılımları",
+  "Kesintisiz güç kaynağı (UPS)",
+  "Sunucu ve istemci işletim sistemi yazılımları",
+  "Güvenlik duvarı (firewall) ve antivirüs yazılımları",
+  "Dokümantasyon ve şema/diyagram hazırlama yazılımları",
+  "Temel el aletleri (tornavida, pense vb.)"
+ ],
+ "genel_ozellikler": [
+  "Matematik ve mantıksal düşünmeye yetenekli,",
+  "Analitik düşünme ve problem çözme becerisine sahip,",
+  "Dikkatli, sabırlı ve titiz,",
+  "Sorumluluk duygusu gelişmiş,",
+  "Teknolojik gelişmeleri takip edebilen ve yeniliklere açık,",
+  "Ekip çalışmasına uyumlu,",
+  "Kendini sürekli geliştirmeye istekli,",
+  "Verileri güvenlik içinde yönetebilecek güvenilir kişiler"
+ ],
+ "calisma_ortami": "Bilgisayar Ağ Veri Tabanı Elemanı genellikle kapalı ortamlarda, büro veya işletmelerin bilgi işlem/sistem odalarında çalışır. Çalışma süresinin büyük bölümünü bilgisayar başında oturarak geçirir. Sunucu ve sistem odaları genellikle sıcaklık ve nem kontrolü yapılan, elektronik cihazlarla dolu özel düzenlenmiş mekânlardır.\n\nGörevi gereği sistem yöneticileri, yazılım geliştiriciler ve kurum içindeki diğer bilgi teknolojileri personeli ile sık iletişim kurar. Normal mesai saatlerinde çalışmakla birlikte, sistem arızası veya veri kaybı gibi acil durumlarda mesai dışında da göreve çağrılabilir; bu nedenle zaman zaman esnek veya vardiyalı çalışma gerekebilir.",
+ "calisma_alanlari": "Bilgisayar ağı ve veri tabanı kullanılan kamu kurumları ile özel sektör kuruluşlarında (bankalar, hastaneler, eğitim kurumları, kamu daireleri, telekomünikasyon ve bilişim firmaları, e-ticaret şirketleri vb.) bilgi işlem/bilgi teknolojileri birimlerinde istihdam edilebilirler. Ayrıca yazılım ve sistem entegrasyonu şirketlerinde, veri merkezlerinde ve bilişim hizmeti sunan firmalarda çalışma olanağı bulunmaktadır. Dijitalleşmenin ve kurumların veri odaklı çalışma biçimlerinin yaygınlaşmasıyla bu alandaki nitelikli eleman ihtiyacı sürmektedir.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğe yönelik standart ve zorunlu bir çıraklık/mesleki eğitim merkezi programı bulunmamaktadır. İlgi duyanlar, mesleki ve teknik eğitim veren okulların bilişim teknolojileri alanında temel bilgi ve beceri kazanabilir; ayrıca Halk Eğitim Merkezleri, İŞKUR'un açtığı mesleki eğitim kursları ve özel bilişim eğitim kurumlarında bilgisayar ağı ve veri tabanı yönetimi konularında kurslar düzenlenmektedir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak (mesleğin gerektirdiği minimum eğitim düzeyi)",
+   "Temel düzeyde bilgisayar kullanım bilgisine sahip olmak veya bu konuda öğrenmeye istekli olmak",
+   "Kursun gerektirdiği yaş ve sağlık koşullarını taşımak"
+  ],
+  "sure_ve_icerik": "Mesleğe özgü, resmî olarak tanımlanmış standart bir eğitim süresi bulunmamaktadır. Açılan mesleki eğitim kursları genellikle birkaç haftadan birkaç aya kadar sürebilir; temel ağ kavramları, veri tabanı yönetim sistemleri, T-SQL gibi sorgu dilleri, veri bütünlüğü ve güvenliği, veri tabanı bakım ve yardımcı işlemleri gibi konuları kapsar. Mesleki bilgi ve beceriler, işbaşında deneyimli personel yanında çalışılarak da geliştirilebilir. Daha ileri düzey bilgi ve beceri edinmek isteyenler, ilgili mesleki ve teknik eğitim programlarına veya yükseköğretimin bilgisayar/bilişim teknolojileri bölümlerine yönelebilir.",
+  "belge": "Katılınan kurslar sonunda kurs bitirme belgesi/sertifikası verilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Mesleki eğitim kursları süresince genellikle ücret ödenmez; İŞKUR'un açtığı kurslara katılanlara kurs süresince günlük cep harçlığı ve genel sağlık sigortası sağlanabilir.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında istihdam edilenler 657 sayılı Devlet Memurları Kanunu'na veya ilgili diğer mevzuata göre ücret alır.",
+   "Özel sektörde işe yeni başlayanların kazancı genellikle asgari ücret düzeyindedir.",
+   "Deneyim, bilgi birikimi, çalışılan işyerinin büyüklüğü ve sektöre göre kazanç değişebilir ve artabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Bu meslekte çıraklık-kalfalık-ustalık biçiminde kademeli, resmî bir eğitim ilerleme sistemi bulunmamaktadır. İlgi duyanlar bilişim teknolojileri alanındaki mesleki ve teknik eğitim programlarına veya yükseköğretim düzeyinde bilgisayar programcılığı, bilgisayar mühendisliği, yazılım mühendisliği gibi ön lisans/lisans programlarına yönelerek bilgi ve becerilerini artırabilir.",
+  "is_hayatinda": "Deneyim ve bilgi birikimi arttıkça veri tabanı yöneticisi (DBA), ağ yöneticisi veya sistem yöneticisi gibi daha üst düzey pozisyonlara geçilebilir. Kendini geliştiren ve ek sertifikalar alan kişiler bilgi teknolojileri biriminde şeflik veya müdürlük gibi yönetici konumlarına ilerleyebilir; ayrıca bu alanda kendi işini kurma imkânı da bulunmaktadır."
+ },
+ "benzer_meslekler": [
+  "Bilgisayar Ağ Sistemleri ve Yönlendirme Elemanı",
+  "Bilgisayar Ağ Temelleri Elemanı",
+  "Bilgisayar Bakım ve Onarımcısı",
+  "Bilgisayar Sistem Kurulum Bakım Onarım ve Arıza Giderme Elemanı",
+  "Nesne Tabanlı Programlamacı"
+ ],
+ "ek_bilgiler": "Veri tabanı yönetimi ve ağ teknolojileri alanı hızla gelişmekte olup, kurumların dijitalleşmesi ve veri kullanımının artması bu alandaki istihdam olanaklarını desteklemektedir. Alanda kendini güncel tutan, güvenlik ve bulut tabanlı sistemler gibi yeni teknolojileri öğrenen kişilerin iş bulma şansı daha yüksektir.",
+ "gorevler": [
+  "İş yerinde plan, program ve iş organizasyonu yapar.",
+  "İşçi sağlığı mevzuatına uyar ve iş güvenliği önlemlerini alır.",
+  "Ağ veri tabanı planlamasını yapar.",
+  "T-SQL kullanır.",
+  "Veri bütünlüğünü sağlar.",
+  "Veri tabanı yönetimini yapar.",
+  "Veri tabanı ile ilgili yardımcı işlemleri yapar.",
+  "Mesleki alandaki gelişmeleri takip eder ve uygular."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T06:38:09",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6856
+  }
+ }
+}

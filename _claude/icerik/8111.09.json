@@ -1,0 +1,82 @@
+{
+ "arac_gerec": [
+  "Tek kavramalı raylı sistem (tekkars) ünitesi",
+  "Çekim halatı ve gerdirme ağırlıkları",
+  "Emniyet hız freni tertibatı",
+  "Taşıma teknesi/vagoneti",
+  "Sinyalizasyon sistemi (ikaz lambası, zil/çan)",
+  "Aydınlatma tesisatı",
+  "Yağlama malzemeleri ve ekipmanı",
+  "Yeraltı telefonu veya telsizi",
+  "El aletleri (anahtar takımı vb.)",
+  "Rapor defteri",
+  "Kişisel koruyucu donanım (baret, oksijenli ferdi kurtarıcı, koruyucu gözlük, iş elbisesi, çelik burunlu ayakkabı)"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve tedbirli,",
+  "Sorumluluk sahibi,",
+  "Hızlı ve doğru karar verebilen,",
+  "Fiziksel olarak sağlıklı ve dayanıklı,",
+  "Ekip çalışmasına uyumlu,",
+  "Kurallara ve talimatlara titizlikle uyan,",
+  "El-göz koordinasyonu gelişmiş,",
+  "Soğukkanlı ve tez karar verebilen,"
+ ],
+ "calisma_ortami": "Tekkars Operatörü, görevini yer altında, dar ve eğimli galerilerde, sınırlı aydınlatma koşullarında yürütür. Çalışma ortamı tozlu, nemli, gürültülü olabilir; zemin ve rayların bozuk veya kaygan olması, halat ve mekanik aksamla çalışılması belirli riskler taşır. Bu nedenle çalışma süresince kişisel koruyucu donanımın eksiksiz kullanılması gerekir.\n\nYer altı maden işyerlerinde çalışma süreleri genellikle vardiyalı olarak düzenlenir. Görevini yürütürken nakliyat işçileri, sinyalciler, ustabaşı, iş güvenliği sorumluları ve diğer maden çalışanları ile sürekli iletişim ve koordinasyon içinde bulunur.",
+ "egitim": {
+  "verildigi_yerler": "Tekkars Operatörlüğü için örgün eğitim veren ayrı bir okul programı bulunmamaktadır. Meslek genellikle işyerlerinde usta yanında işbaşı eğitimi yoluyla, işverenin düzenlediği iş sağlığı ve güvenliği kursları ile kazanılır. Halk Eğitim Merkezleri ve bazı kurumların açtığı madencilikle ilgili mesleki eğitim kursları da bu alanda temel bilgi ve beceri kazandırabilir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "18 yaşını doldurmuş olmak",
+   "Yer altında ağır ve tehlikeli işlerde çalışmaya uygun sağlık raporuna sahip olmak"
+  ],
+  "sure_ve_icerik": "Standart ve ülke çapında belirlenmiş tek bir eğitim süresi yoktur. İşyerinde verilen işbaşı eğitimi ile iş sağlığı ve güvenliği eğitimlerinin süresi ve içeriği, işletmenin yapısına ve ilgili İSG uzmanlarının belirlemesine göre değişir. Eğitimde üniteyi devreye alma, bakım kontrolleri, halat ve fren sistemleri, sinyalizasyon kuralları, arıza anında yapılacak işlemler ve acil durum uygulamaları üzerinde durulur.",
+  "belge": "İşyerinde verilen eğitimler sonunda genellikle katılım veya işbaşı eğitim belgesi düzenlenir. Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Tekkars Operatörleri, yer altı kömür ve metal madenlerinde, malzeme ve personel nakliyatının tek kavramalı raylı sistemlerle yapıldığı maden ocaklarında ve madencilik işletmelerinde istihdam edilir. İş bulma olanakları, ülkedeki madencilik faaliyetlerinin ve bu tür nakliyat sistemlerinin kullanıldığı işletmelerin sayısına bağlı olarak sınırlı ve bölgesel özellik taşır.",
+ "gorevler": [
+  "Üniteyi devreye almadan önce yağını kontrol eder ve gerekiyorsa tamamlar.",
+  "Taşıma aracındaki emniyet hız freninin kurulu olmasına dikkat eder.",
+  "Halat gerginliğini ve gerdirme ağırlıklarını kontrol eder.",
+  "Nakliyatı verilen sinyallere uygun olarak yapar.",
+  "Anlaşılmayan sinyallerde sistemi çalıştırmaz ve sinyalin tekrar ettirilmesini sağlar.",
+  "Hareket sırasında halatı gözle kontrol eder, anormallik tespit ettiğinde sistemi durdurarak ilgililere bilgi verir.",
+  "Aydınlatma ve sinyal tesisatının devrede olup olmadığını kontrol eder; taşıyıcıdaki ikaz lambası ve çanın yerinde ve çalışır durumda olmasını sağlar.",
+  "Yönergede belirlenen hızın aşılmamasını sağlar, önceden tespit edilen bölgelerde hızı azaltır.",
+  "Nakliye sırasında tekkars teknesi bir yere takıldığında sistemi hemen durdurur.",
+  "Çekim halatını ters yönde çalıştırarak boşluğunu alır ve takılma sebebini araştırır.",
+  "Herhangi bir arıza anında sistemi derhal durdurur.",
+  "Arıza giderilip sistem devreye alınıncaya kadar gereken güvenlik önlemlerini alır, durumu rapor defterine yazar.",
+  "Mesleği alanındaki gelişmeleri takip eder ve uygular.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "kazanc": {
+  "egitim_suresince": "Meslek eğitimi işbaşında verildiğinden eğitim süresince bağımsız bir kazanç söz konusu değildir; eğitim genellikle işçi statüsünde çalışırken alınan işbaşı eğitimi şeklindedir.",
+  "egitim_sonrasi": [
+   "Yer altı maden işlerinde çalışan işçilerin çalışma süreleri kanunla sınırlandırılmıştır (günlük ve haftalık çalışma süresi yüzeydeki işlere göre daha kısadır).",
+   "Yer altında çalışan işçilere ödenecek ücretler için yasal olarak belirlenmiş taban ücret uygulamaları bulunmaktadır.",
+   "Deneyim, işletmenin büyüklüğü ve bölgesel koşullara göre kazanç düzeyi değişebilir; işe yeni başlayanlarda kazanç genellikle asgari ücret düzeyinde başlar."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Tekkars Operatörlüğü için kademeli bir mesleki eğitim programı bulunmamaktadır. Deneyim kazandıkça farklı yeraltı nakliyat ve operatörlük görevlerine yönelik işbaşı eğitimlerle bilgi ve beceri artırılabilir.",
+  "is_hayatinda": "Mesleki tecrübe, bilgi birikimi ve liyakate göre vardiya amirliği, ustabaşılık veya nezaretçilik gibi görevlere yükselme imkânı bulunmaktadır."
+ },
+ "benzer_meslekler": [
+  "Monoray-Kulikar Operatörü",
+  "Yer Operatörü",
+  "Yeraltı Nakliyat İşçisi",
+  "Dik ve Meyilli Kuyular Vinç Operatörü",
+  "Bant Kontrol Merkezi Operatörü (Kömür Madeni)",
+  "Kumanda Merkezi Operatörü (Kömür Madeni)"
+ ],
+ "ek_bilgiler": "Tekkars Operatörlüğü, yer altı maden işyerlerinde yürütülen ve tehlikeli/çok tehlikeli işler kapsamında değerlendirilen bir meslek koludur. Bu nedenle çalışmaya başlamadan önce yer altı işlerine uygunluğu gösteren sağlık raporu alınması ve iş sağlığı güvenliği eğitimlerinin tamamlanması önem taşır. Meslek, mekanik ve elektrikli raylı taşıma sistemlerinin kullanıldığı sınırlı sayıda maden işletmesinde istihdam olanağı sunduğundan, iş bulma olanakları büyük ölçüde bölgesel madencilik faaliyetlerine bağlıdır.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T10:07:42",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5851
+  }
+ }
+}

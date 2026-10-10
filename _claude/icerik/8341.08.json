@@ -1,0 +1,73 @@
+{
+ "arac_gerec": [
+  "Traktör ve römork",
+  "Yıldız ve çift ağızlı anahtar takımı, tornavida, pense gibi basit el aletleri",
+  "Kriko ve lastik sökme-takma takımları",
+  "Yedek lastik ve basit yedek parçalar",
+  "Yağdanlık, madeni yağ ve akaryakıt bidonları",
+  "Çekme halatı ve zincirler",
+  "Bağlama ve sabitleme ekipmanları",
+  "Koruyucu eldiven, iş elbisesi ve iş ayakkabısı",
+  "Temizlik bezi, fırça ve basınçlı su/hava ekipmanı",
+  "Araç gösterge ve kontrol panelleri"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve sorumluluk sahibi,",
+  "El, göz ve ayaklarını eşgüdümle kullanabilen,",
+  "Fiziksel olarak sağlıklı ve dayanıklı,",
+  "Mekanik araç ve aletlere ilgili,",
+  "Açık havada ve değişken hava koşullarında çalışmaya uygun,",
+  "Talimatları doğru ve eksiksiz uygulayabilen,",
+  "Sabırlı ve tedbirli,"
+ ],
+ "calisma_ortami": "Traktör şoförü çalışmalarını büyük ölçüde açık havada, tarım arazilerinde ve çiftlik içinde yürütür; aracın basit bakım ve onarım işlemleri için zaman zaman kapalı garaj veya atölye ortamında da çalışabilir. Çalışma ortamı tozlu, gürültülü olabilir ve mevsim koşullarına (sıcak, soğuk, yağış) bağlı olarak değişkenlik gösterir. Çalışma saatleri genellikle gündüzdür; ancak hasat, ekim gibi yoğun tarımsal dönemlerde çalışma süresi uzayabilir.\n\nMeslek, oturarak ve araç kullanarak yapılan bir iştir; dikkat dağınıklığı veya ihmal kazalara yol açabilir. Traktör şoförü çalışmaları sırasında işveren veya çiftlik sahibi, diğer tarım işçileri ve zaman zaman makine bakımcılarıyla etkileşim halindedir.",
+ "gorevler": [
+  "Traktörün ikmal ve bakımının yapılmasını sağlar.",
+  "Aracın basit tamirlerini, lastik değiştirme işlemlerini yapar.",
+  "Römork ve diğer donanımları traktöre bağlar.",
+  "Traktörün römorkunu yükler, istifler, boşaltır.",
+  "Traktörü ve yüklenen römorku istenilen yere götürür.",
+  "Traktörü ve römorku temizler.",
+  "Meslek alanı ile ilgili gelişmeleri takip eder, uygular."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Traktör şoförlüğü, örgün eğitimde ayrı bir meslek olarak tanımlanmış değildir. Mesleki beceriler genellikle çiftliklerde usta yanında işbaşında kazanılır; ayrıca Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kurslarında da tarım makineleri kullanımına yönelik kurslara katılınabilir. Traktörün karayolunda kullanılabilmesi için gerekli sürücü belgesi, motorlu taşıt sürücü kurslarından alınır.",
+  "giris_kosullari": [
+   "İlköğretim mezunu olmak",
+   "18 yaşını doldurmuş olmak",
+   "Sürücü belgesi almasına ve traktör kullanmasına engel bir sağlık sorunu bulunmamak",
+   "Fiziksel olarak araç kullanımına uygun olmak"
+  ],
+  "sure_ve_icerik": "Traktör kullanımı için gerekli sürücü belgesi, motorlu taşıt sürücü kurslarında teorik (trafik bilgisi, motor bilgisi, ilk yardım) ve pratik derslerle kazandırılır. Mesleğe özgü beceriler ise genellikle çiftlik içinde usta yanında uygulamalı olarak öğrenilir; bazı bölgelerde Halk Eğitim Merkezleri veya İŞKUR tarafından açılan kısa süreli tarım makineleri kullanım kurslarına katılım da mümkündür.",
+  "belge": "Sürücü kursunu başarıyla tamamlayanlara ilgili sınıf sürücü belgesi (ehliyet) verilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Traktör şoförleri başta tarım işletmeleri ve çiftlikler olmak üzere, tarımsal üretim kooperatiflerinde, tarım aleti ve makinesi kiralama işletmelerinde, orman işletmelerinde, belediyelerin park-bahçe ve çevre temizliği hizmetlerinde çalışabilir. İş genellikle tarımsal üretim takvimine bağlı olarak mevsimlik veya sürekli esasa göre yürütülür; hasat, ekim gibi dönemlerde iş gücü talebi artar.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğe özgü örgün bir eğitim süreci bulunmadığından eğitim süresince genellikle bir kazanç söz konusu değildir; çiftlikte yardımcı veya çırak olarak çalışanlar düşük düzeyde bir ücret alabilir.",
+  "egitim_sonrasi": [
+   "Kamu kurum ve kuruluşlarında işçi statüsünde çalışanlar, tabi oldukları toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde, özellikle çiftlik ve tarım işletmelerinde yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar; deneyim, işletmenin büyüklüğü, çalışma süresi (mevsimlik veya sürekli) ve bölgesel koşullara göre bu düzey değişebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Bu meslekte kademeli bir örgün mesleki eğitim ilerlemesi bulunmamaktadır. Deneyim kazanan traktör şoförleri, isteğe bağlı olarak Halk Eğitim Merkezleri veya İŞKUR'un açtığı diğer tarım makineleri kullanım kurslarına katılarak bilgi ve becerilerini geliştirebilir.",
+  "is_hayatinda": "Deneyim ve başarı kazanan traktör şoförleri, işletme içinde usta işçi veya makine sorumlusu gibi konumlara gelebilir. Zaman içinde biçerdöver, pancar boşaltma makinesi gibi diğer tarım makinelerinin kullanımında uzmanlaşarak farklı operatörlük görevlerine geçebilir."
+ },
+ "benzer_meslekler": [
+  "Diğer Çiftlik Makineleri Operatörleri",
+  "Motorlu Çiftlik Makineleri Operatörü-Tarım",
+  "Tarımsal Mücadele Alet ve Makineleri Operatörü",
+  "Biçerdöver Operatörü",
+  "Biçerdöver Operatör Yardımcısı",
+  "Pancar Boşaltma Operatörü"
+ ],
+ "ek_bilgiler": "Traktör şoförlüğü, tarımsal üretim takvimine bağlı olarak mevsimsel talep gösteren bir meslektir; ekim ve hasat dönemlerinde iş yoğunluğu ve istihdam olanağı artar, diğer dönemlerde ise görece azalabilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T18:33:32",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5148
+  }
+ }
+}

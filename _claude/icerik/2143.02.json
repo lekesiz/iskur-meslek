@@ -1,0 +1,77 @@
+{
+ "arac_gerec": [
+  "Bilgisayar ve ofis yazılımları",
+  "Çevre mevzuatı, yönetmelik ve tebliğ dokümanları",
+  "Gaz, su, atık su ve emisyon ölçüm cihazları",
+  "Numune alma ve örnekleme ekipmanları",
+  "Kişisel koruyucu donanım (eldiven, maske, koruyucu gözlük, iş elbisesi vb.)",
+  "Fotoğraf makinesi/kamera (tespit ve raporlama için)",
+  "Atık takip sistemi ve çevre bilgi sistemleri yazılımları (örn. elektronik atık/izin takip uygulamaları)",
+  "Rapor, form ve tutanak şablonları",
+  "Yazıcı, tarayıcı ve dosyalama ekipmanları",
+  "Saha ziyaretlerinde kullanılan ulaşım aracı",
+  "İletişim araçları (telefon, tablet)",
+  "Laboratuvar analiz sonuçlarını değerlendirmek için kullanılan referans tablo ve standartlar"
+ ],
+ "genel_ozellikler": [
+  "Fen bilimlerine, özellikle çevre ve kimya konularına ilgili ve bu alanda bilgili,",
+  "Çevre sorunlarına duyarlı ve çevre koruma bilincine sahip,",
+  "Mevzuatı takip edebilen, yazılı ve sözlü anlatımı iyi,",
+  "Dikkatli, titiz ve sistemli çalışabilen,",
+  "Sorumluluk sahibi ve güvenilir,",
+  "Analitik düşünebilen ve rapor hazırlama becerisine sahip,",
+  "Farklı kurum ve kişilerle (işletme yönetimi, çalışanlar, denetim mercileri) etkili iletişim kurabilen,",
+  "Gerektiğinde saha koşullarında çalışabilecek fiziksel ve psikolojik dayanıklılığa sahip"
+ ],
+ "calisma_ortami": "Çevre görevlileri çalışmalarını büro ortamı ile denetime tabi tesis/fabrika sahaları arasında paylaştırırlar. Büroda mevzuat takibi, raporlama, izin/lisans başvuru işlemleri ve dosyalama gibi işleri yürütürken; tesis içinde üretim alanlarını, atık depolama ve arıtma birimlerini, emisyon kaynaklarını gözlemleyip iç tetkik ve izleme faaliyetlerini gerçekleştirirler. Saha çalışmaları sırasında gürültü, toz, koku veya kimyasal madde içeren ortamlarda bulunabilecekleri için kişisel koruyucu donanım kullanmaları gerekebilir.\n\nÇalışma süreleri genellikle büro çalışma saatleriyle paralel olmakla birlikte, denetim dönemleri, iç tetkik takvimi veya acil uygunsuzluk durumlarında bu saatler değişebilir. Görevleri gereği işletme sahibi/yöneticileri, çalışanlar, çevre danışmanlık firması personeli ve Bakanlık/İl Müdürlüğü denetim görevlileri ile sürekli iletişim halindedirler.",
+ "egitim": {
+  "verildigi_yerler": "Türkiye'de doğrudan \"Çevre Görevlisi\" adıyla açılmış bir lisans programı bulunmamaktadır. Bu unvanla çalışabilmek için önce üniversitelerin ilgili lisans bölümlerinden (başta Çevre Mühendisliği olmak üzere Kimya Mühendisliği, Biyoloji, Çevre Bilimleri gibi ilgili mühendislik/fen bölümleri) mezun olmak, ardından Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından yetkilendirilmiş eğitim kuruluşlarının düzenlediği çevre görevlisi eğitim programlarına katılmak gerekir.",
+  "giris_kosullari": [
+   "Lise veya dengi okul mezunu olmak ve YKS (Yükseköğretim Kurumları Sınavı) sonucuna göre ilgili lisans programına yerleşmek",
+   "Çevre Mühendisliği veya mevzuatın kabul ettiği diğer ilgili lisans bölümlerinden mezun olmak",
+   "Bakanlık tarafından yetkilendirilmiş kuruluşların açtığı çevre görevlisi eğitim programına katılmak ve eğitim sonunda yapılan değerlendirmede başarılı olmak"
+  ],
+  "sure_ve_icerik": "İlgili lisans programlarının eğitim süresi genellikle 4 yıldır; bazı okullarda buna 1 yıllık yabancı dil hazırlık programı eklenir. Eğitim süresince çevre kimyası, çevre mühendisliği temel işlemleri, atık su ve katı atık yönetimi, hava kirliliği, çevre mikrobiyolojisi, mevzuat gibi dersler verilir ve genellikle staj yapma zorunluluğu bulunur. Lisans eğitiminin ardından katılınan çevre görevlisi eğitim programlarında ise çevre mevzuatı, izin-lisans süreçleri, iç tetkik yöntemleri, atık yönetimi ve raporlama konuları işlenir; bu programların süresi düzenleyen kuruma göre değişebilir.",
+  "belge": "Lisans diploması ile birlikte, Çevre, Şehircilik ve İklim Değişikliği Bakanlığı veya yetkilendirilmiş kuruluşlarca düzenlenen eğitim ve değerlendirme sürecinin tamamlanması sonucunda alınan \"Çevre Görevlisi Belgesi\" gerekmektedir."
+ },
+ "calisma_alanlari": "Çevre görevlileri; sanayi tesisleri, fabrikalar, organize sanayi bölgeleri, atık işleme/geri dönüşüm ve bertaraf tesisleri, enerji santralleri gibi çevre mevzuatına tabi işletmelerde bünyelerinde ya da bu işletmelere hizmet veren çevre danışmanlık firmalarında çalışabilirler. Ayrıca Çevre, Şehircilik ve İklim Değişikliği Bakanlığı ve bağlı il müdürlükleri, belediyeler gibi kamu kurumlarında çevre yönetimi ve denetim süreçlerinde de görev alabilirler. Sektörde çevre mevzuatının giderek sıkılaşması ve işletmelerin çevresel izin/lisans yükümlülüklerinin artması nedeniyle bu alandaki iş olanaklarının zamanla büyüdüğü görülmektedir.",
+ "kazanc": {
+  "egitim_suresince": "Lisans eğitimi süresince öğrenciler Kredi ve Yurtlar Genel Müdürlüğünün sunduğu öğrenim kredisi ve yurt hizmetlerinden, ayrıca çeşitli resmi ve özel kurum/kuruluşların sağladığı burslardan yararlanabilirler. Bakanlık onaylı kuruluşlarca verilen çevre görevlisi eğitim programları ise genellikle ücretlidir.",
+  "egitim_sonrasi": [
+   "Kamu kurum ve kuruluşlarında çalışanlar, 657 sayılı Devlet Memurları Kanunu çerçevesinde ilgili hizmet sınıfının maaşını, ek ödeme ve tazminatlarıyla birlikte alır.",
+   "Özel sektörde (işletme bünyesinde veya çevre danışmanlık firmalarında) çalışanların ücreti; işyerinin büyüklüğü, çalışılan sektör, deneyim ve karşılıklı anlaşmaya göre değişmekte olup, mesleğe yeni başlayanlarda genellikle asgari ücret düzeyinden başlayabilmekle birlikte deneyim ve uzmanlıkla birlikte bu seviyenin üzerine çıkabilmektedir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Lisans eğitiminin ardından çevre yönetimi, atık yönetimi, su ve atık su arıtımı, hava kirliliği kontrolü gibi alanlarda yüksek lisans ve doktora yaparak akademik kariyer veya uzmanlaşma yoluna gidilebilir. Ayrıca iş güvenliği uzmanlığı gibi ilgili sertifika programlarına katılarak yetkinlik alanı genişletilebilir.",
+  "is_hayatinda": "Deneyim kazanan çevre görevlileri; kıdemli çevre görevlisi, çevre yöneticisi, tesis çevre birimi sorumlusu gibi pozisyonlara yükselebilir, çevre danışmanlık firmalarında proje sorumluluğu veya yöneticilik üstlenebilir, isterlerse kendi çevre danışmanlık firmalarını kurabilirler. Kamu kurumlarında ise çeşitli yönetici kademelerine ilerleme olanağı bulunmaktadır."
+ },
+ "benzer_meslekler": [
+  "Çevre Mühendisi",
+  "Atıksu Arıtma Tesisi Tesis Sorumlusu",
+  "Atıksu Arıtma Tesisi Teknik Sorumlusu",
+  "Kalite Kontrol Mühendisi"
+ ],
+ "ek_bilgiler": "Çevre görevlisi olarak çalışabilmek için ilgili lisans bölümünden mezuniyetin yanı sıra, Çevre, Şehircilik ve İklim Değişikliği Bakanlığı mevzuatı kapsamında \"Çevre Görevlisi Belgesi\" alınması gerekmektedir; bu belgenin alınma ve geçerlilik koşulları zaman içinde mevzuat değişikliklerine bağlı olarak güncellenebildiğinden, güncel şartların ilgili Bakanlık ve yetkilendirilmiş kuruluşlardan teyit edilmesi önerilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda tercih sebebi olabilir.",
+ "gorevler": [
+  "Tesis veya faaliyet bünyesinde çevre yönetimi faaliyetlerini mevzuata uygun bir şekilde yürütür ve koordine eder.",
+  "Yürütülen çalışmaları düzenli aralıklarla izler, ilgili mevzuatta belirtilen yükümlülüklerin yerine getirilip getirilmediğini tespit eder.",
+  "Yılda bir defadan az olmamak üzere ilgili mevzuat hükümlerine göre iç tetkik gerçekleştirir ve iç tetkik sonucunda bir rapor hazırlar, bu raporu tesis veya faaliyet sahibine/sorumlusuna sunar ve tesis veya faaliyet bünyesinde muhafaza edilmesini sağlar.",
+  "Uygunsuzluk tespit edildiğinde tesis veya faaliyetin sahibine/sorumlusuna uygunsuzluğun giderilmesi için önerilerde bulunur ve uygunsuzluğun giderilip giderilmediğinin takibini yapar.",
+  "Çalışanlara çevresel konularda bilgilendirici eğitim çalışmaları yapar ve özendirici faaliyetler düzenler.",
+  "Tesis veya faaliyetin çevresel konularda alması gerekli izin, lisans ve belgeleri alma, güncelleme ve/veya yenileme çalışmalarını yürütür.",
+  "İstenecek bilgi ve belgeleri belirtilen formatta, zamanında ve eksiksiz olarak iletir.",
+  "Bakanlık veya İl Çevre ve Şehircilik Müdürlüğünce yapılacak denetimler sırasında tesis veya faaliyette hazır bulunur.",
+  "İstenen bilgi ve belgeleri sağlar.",
+  "Öğrendiği ticari sır mahiyetindeki bilgileri saklı tutar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-07T21:21:15",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 8173
+  }
+ }
+}

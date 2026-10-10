@@ -1,0 +1,80 @@
+{
+ "arac_gerec": [
+  "Bilgisayar ve muhasebe paket programları",
+  "Tek düzen muhasebe hesap planı",
+  "Hesap makinesi",
+  "Tahsilat ve tediye fişleri",
+  "Fatura, çek, senet ve diğer kıymetli evraklar",
+  "Resmi defterler (yevmiye defteri, defteri kebir, envanter defteri)",
+  "Yazıcı ve tarayıcı",
+  "Fotokopi makinesi",
+  "Faks cihazı",
+  "Telefon",
+  "Dosyalama ve arşivleme malzemeleri",
+  "Diğer büro malzemeleri"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve titiz çalışma alışkanlığına sahip,",
+  "Güvenilir ve sorumluluk sahibi,",
+  "Matematik ve sayısal konularda başarılı,",
+  "Ayrıntılar üzerinde uzun süre dikkatle çalışabilen,",
+  "Gizliliğe özen gösteren,",
+  "İnsan ilişkilerinde başarılı,",
+  "Zamanı iyi planlayabilen,",
+  "Ekip çalışmasına yatkın,"
+ ],
+ "calisma_ortami": "Muhasebe Görevlisi (Otel), konaklama işletmelerinin muhasebe biriminde, genellikle kapalı büro ortamında, bilgisayar başında oturarak çalışır. İşçi sağlığı ve iş güvenliği açısından önemli bir risk bulunmamakla birlikte, uzun süre masa başında oturmak göz, sırt ve boyun bölgelerinde sağlık sorunlarına yol açabilir. Çalışırken veznedar, ön büro, satın alma ve diğer departman çalışanları ile sürekli evrak alışverişinde bulunur; gerektiğinde vergi dairesi, SGK ve banka gibi kurum yetkilileriyle de iletişim kurar.\n\nBeyanname ve bildirgelerin yasal süreler içinde hazırlanması zorunlu olduğundan, özellikle ay sonu ve yıl sonu dönemlerinde, ayrıca konaklama sektörünün yoğun sezonlarında iş yükü artabilir ve çalışma saatleri normal mesainin üzerine çıkabilir.",
+ "gorevler": [
+  "Tahsilat ve tediye fişlerini veznedardan alarak bilgisayar ortamında muhasebeleştirir.",
+  "Tüm departmanlardan gelen faturaları kayıt altına alarak muhasebeleştirir.",
+  "Muhtasar, KDV vb. beyannameleri düzenleyerek vergi dairesine tahakkuk ettirir.",
+  "SSK primlerini düzenleyerek tahakkuk ettirir.",
+  "Yevmiye defteri, defteri kebir, envanter defteri gibi resmi defterlerin bilgisayardan çıktısını alarak gereken onay işlemlerini yapar.",
+  "Resmi defterleri saklama süresince muhafaza eder.",
+  "Veznedarın kasa sayımından sonra kasa hesabını kontrol eder.",
+  "Ay sonu faaliyet raporunun hazırlanması için gerekli bilgi ve dokümanları hazırlayarak raporun hazırlanmasına yardımcı olur.",
+  "Yıl sonu gelir-gider hesabını kâr/zarar hesabına devrederek kâr veya zararı bulur.",
+  "Kâr veya zararın şirket merkezine devredilmesini sağlar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Mesleğin temel eğitimi, mesleki ve teknik liselerin Muhasebe ve Finansman alanı ile otelcilik/turizm alanındaki ilgili dallarında verilmektedir. Yeterli talep olması durumunda mesleki eğitim merkezlerinde de benzer alanlarda eğitim verilebilmektedir. Lise sonrası, önlisans düzeyinde Muhasebe ve Vergi Uygulamaları, Turizm ve Otel İşletmeciliği gibi programlar; lisans düzeyinde İşletme, Muhasebe ve Finans Yönetimi, Turizm İşletmeciliği gibi bölümler de bu mesleğe yönelik bilgi ve beceri kazandırmaktadır.",
+  "giris_kosullari": [
+   "Ortaokul mezunu olmak (meslek lisesi için),",
+   "Milli Eğitim Bakanlığınca okul türüne ve alan/dala göre belirlenen giriş koşullarını taşımak,",
+   "Önlisans/lisans programları için ilgili sınav sonuçlarına göre yerleşmiş olmak."
+  ],
+  "sure_ve_icerik": "Meslek lisesi düzeyinde eğitim süresi 4 yıldır; 9. sınıfta ortak dersler verilir, sonraki sınıflarda alan/dal derslerine geçilir. Eğitim okulda teorik ve uygulamalı, işletmelerde ise uygulamalı (staj) olarak yürütülür. Ön lisans programları genellikle 2 yıl, lisans programları ise genellikle 4 yıl sürmektedir. Eğitim içeriğinde genel muhasebe, vergi mevzuatı, bilgisayarlı muhasebe uygulamaları ve konaklama işletmeleri muhasebesine özgü uygulamalar yer alır.",
+  "belge": "Meslek lisesi diploması veya önlisans/lisans diploması verilir. 3308 sayılı Kanun kapsamında, koşulları sağlayanlara ustalık belgesi ve bağımsız işyeri açma belgesi düzenlenebilir."
+ },
+ "calisma_alanlari": "Muhasebe Görevlisi (Otel), oteller, tatil köyleri ve diğer konaklama tesisleri ile zincir otellerin merkez muhasebe/finans departmanlarında istihdam edilir. Ayrıca bazı durumlarda otel ve turizm işletmelerine hizmet veren bağımsız muhasebe/mali müşavirlik bürolarında da bu niteliklere sahip kişiler çalışabilir. Turizm sektörünün gelişmişliği ve konaklama tesisi sayısının fazlalığı, mesleğin iş bulma olanaklarını etkilemektedir.",
+ "kazanc": {
+  "egitim_suresince": "3308 sayılı Mesleki Eğitim Kanunu kapsamında işletmelerde mesleki eğitim gören öğrencilere, kanunda belirtilen esaslara göre ücret ödenir ve iş kazası ile meslek hastalığı sigortası primleri devletçe karşılanır. Öğrenciler ayrıca eğitim gördükleri işletmenin sosyal imkânlarından faydalanabilir.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanların kazancı genellikle asgari ücret düzeyindedir.",
+   "Kazanç düzeyi; çalışılan işletmenin büyüklüğü, kişinin deneyimi, bilgisayarlı muhasebe programlarına hâkimiyeti ve çalışılan bölge/sektörün ücret düzeyine göre değişebilir.",
+   "Kamu kurumlarına bağlı konaklama tesislerinde memur statüsünde çalışanlar için 657 sayılı Devlet Memurları Kanunu, işçi statüsünde çalışanlar için ise ilgili toplu iş sözleşmesi hükümleri geçerlidir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Meslek lisesi Muhasebe ve Finansman alanından mezun olanlar, ilgili yükseköğretim sınavlarında başarılı oldukları takdirde Muhasebe ve Vergi Uygulamaları, İşletme, Turizm İşletmeciliği gibi önlisans ve lisans programlarına yerleşebilir; alanlarının devamı niteliğindeki programları tercih ettiklerinde ek puan avantajından yararlanabilirler. Ayrıca kurs, seminer ve hizmet içi eğitimlerle mesleki bilgi ve beceriler geliştirilebilir.",
+  "is_hayatinda": "Deneyim kazandıkça muhasebe şefliği, ön muhasebe sorumluluğu veya mali işler departmanında kademeli olarak daha üst pozisyonlara yükselinebilir. 3568 sayılı Kanun'da belirtilen eğitim ve staj şartlarını sağlayanlar, serbest muhasebeci mali müşavirlik unvanı almak üzere ilerleyebilir."
+ },
+ "benzer_meslekler": [
+  "Muhasebe Elemanı",
+  "Ön Muhasebeci",
+  "Muhasebeci",
+  "Muhasebe Meslek Elemanı",
+  "Bilgisayar Destekli Muhasebe Görevlisi",
+  "Maliyet Kontrolörü (Cost Control)"
+ ],
+ "ek_bilgiler": "Ülkemizde muhasebecilik mesleği 3568 sayılı Kanun ile düzenlenmiştir; serbest muhasebeci mali müşavirlik gibi unvanlar belirli eğitim, staj ve sınav şartlarına bağlıdır. Otel muhasebesinde çalışacakların, genel muhasebe bilgisinin yanı sıra konaklama vergisi ve turizm sektörüne özgü mevzuat ile ilgili bilgi sahibi olması işe uyum sürecini kolaylaştırır. Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda tercih sebebi olabilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T16:07:14",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6119
+  }
+ }
+}

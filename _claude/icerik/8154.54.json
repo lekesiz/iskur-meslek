@@ -1,0 +1,81 @@
+{
+ "gorevler": [
+  "Makinenin temizliğini kontrol eder,",
+  "Boya kalıntısını kontrol eder ve temizler,",
+  "Yıkamadan geçen ham kumaşın ucuna bir ip bağlayarak makinenin içindeki dar boğazdan geçirip ipin ucunu, kumaşı makineden kolay çıkartabilmek için kapağın dışında bırakır,",
+  "Makine uyarılarına göre prosesi takip ederek makineyi onaylar,",
+  "Laboratuvardan gelen boyaların kazanlara ulaşmasının ardından makineye onay vererek boyama işleminin gerçekleşmesini sağlar,",
+  "Makinenin uyarılarını takip ederek hatalı boyamaya engel olur,",
+  "İşlem bitiminden sonra makinenin iç ve dış temizliğini yapar,",
+  "Soda, asit, tuz gibi gerekli kimyasalları tanır ve ayırt eder,",
+  "Boya, renk ve kumaşları bilir ve tanır,",
+  "İş bitiminde üretimi vardiya amirine teslim eder,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "arac_gerec": [
+  "Jet boya makinesi ve kontrol paneli",
+  "Boya kazanları",
+  "Hassas terazi (kimyasal tartım için)",
+  "Renk kartelası / numune kartları",
+  "Isı ve basınç göstergeleri, termometre",
+  "pH ölçüm cihazı",
+  "Bağlama ipi ve yardımcı bağlama malzemeleri",
+  "Kişisel koruyucu donanım (eldiven, gözlük, maske, önlük, çizme)",
+  "Taşıma arabası / transpalet",
+  "Boru, vana ve pompa sistemleri",
+  "Temizlik malzemeleri ve ekipmanları",
+  "Vardiya/üretim takip formları"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve sorumluluk sahibi,",
+  "Renkleri ayırt edebilen,",
+  "El becerisine ve el-göz koordinasyonuna sahip,",
+  "Fiziksel olarak dayanıklı,",
+  "Talimatlara ve prosedürlere uyan,",
+  "Kimyasal maddelerle çalışırken temkinli,",
+  "Takım çalışmasına uygun,",
+  "Vardiyalı çalışmaya uyum sağlayabilen,"
+ ],
+ "calisma_ortami": "JET boya makinesi operatörü, kapalı ortamda, boyahane bölümünde çalışır. Çalışma ortamı buhar nedeniyle nemli ve sıcaktır; boya ve kimyasal maddelerden kaynaklanan koku bulunur, bu nedenle havalandırma sistemlerinin yeterli olması önemlidir. Ortamda gürültü, ıslak-kaygan zemin, sıcak yüzeyler ve kimyasal maddelerle (soda, asit, tuz vb.) temas riski bulunduğundan kişisel koruyucu donanım kullanımı gereklidir. Çalışma genellikle vardiyalı (gündüz, akşam, gece) düzende, ayakta ve fiziksel olarak hareketli şekilde sürer.\\n\\nMeslek elemanı çalışması sırasında vardiya amiri, laboratuvar personeli, diğer operatörler ve kalite kontrol birimi ile sürekli iletişim ve iş birliği içindedir.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi; yeterli sayıda talep olması durumunda mesleki eğitim merkezlerinin Tekstil Teknolojisi alanı ilgili dalında (boyama-terbiye) çıraklık/kalfalık-ustalık eğitimi şeklinde verilebilmektedir. Bunun yanında meslek, işletmelerde işbaşında, deneyimli bir operatörün veya ustanın gözetiminde uygulamalı olarak da öğrenilmektedir. Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kursları da mesleğe yönelik temel bilgi ve beceri kazandırabilir.",
+  "giris_kosullari": [
+   "Mesleki eğitim merkezi yoluyla eğitime başlamak için en az ortaokul mezunu olmak ve 14 yaşını doldurmuş olmak gerekir.",
+   "Eğitim görmek istenen işyeri ile çıraklık/mesleki eğitim sözleşmesi imzalanması gerekir.",
+   "Sağlık durumunun, kimyasal maddeler ve sıcak-nemli ortamda çalışmaya elverişli olması gerekir; gerektiğinde sağlık raporu istenebilir.",
+   "İşletmelerde doğrudan işbaşı eğitimle mesleğe başlamak isteyenler için ilköğretim mezuniyeti genel olarak yeterli kabul edilmektedir."
+  ],
+  "sure_ve_icerik": "Mesleki eğitim merkezi yoluyla eğitim alınması durumunda süre, diğer tekstil terbiye meslek dallarına benzer şekilde yaklaşık 3-4 yıl olup bu sürenin bir kısmı kalfalık, bir kısmı ustalık eğitimine ayrılır. Eğitim, haftanın bir günü mesleki eğitim merkezinde teorik ders, kalan günlerde ise işyerinde usta öğretici gözetiminde uygulamalı çalışma şeklinde yürütülür. İşletmede işbaşı eğitimle mesleğe başlanması durumunda ise süre, işletmenin eğitim programına ve kişinin öğrenme hızına göre değişmekte olup, deneyimli bir operatör ya da usta refakatinde uygulamalı olarak kazanılır.",
+  "belge": "Mesleki eğitim merkezi yoluyla eğitim tamamlanırsa kalfalık ve ardından ustalık belgesi alınır. İşbaşında yetişenler için resmî bir diploma süreci bulunmayabilir; bu durumda işletme tarafından verilen deneyim/çalışma belgesi veya Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "JET Boya Makinesi Operatörü (Kumaş Boyama); başta tekstil terbiye (boyama-apre) işletmeleri olmak üzere, kumaş boyama atölyeleri, entegre tekstil fabrikalarının boyahane bölümleri ve tekstil üretimi yapan organize sanayi bölgelerindeki işletmelerde istihdam edilir. Çalışma alanı, genellikle büyük tekstil üretim merkezlerinin bulunduğu illerde yoğunlaşır. Meslek elemanları kendi işyerini açma imkânına sahip değildir; ücretli olarak işletmelerde çalışırlar.",
+ "kazanc": {
+  "egitim_suresince": "Mesleki eğitim merkezi yoluyla eğitim alınması durumunda, 3308 sayılı Mesleki Eğitim Kanunu gereğince öğrencilere işletmelerde asgari ücretin belirli bir oranından az olmamak üzere ücret ödenir ve iş kazası-meslek hastalığı sigortaları devletçe karşılanır. İşbaşında eğitim alanlar ise genellikle işletmenin belirlediği, deneyim düzeyine bağlı bir ücret alır.",
+  "egitim_sonrasi": [
+   "İşe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Deneyim, performans, vardiya ve işletmenin büyüklüğüne göre ücret artabilir.",
+   "Kamu kurumlarında doğrudan bu meslekle istihdam yaygın değildir; esas istihdam özel sektör tekstil işletmelerinde olup ücret karşılıklı anlaşmaya göre belirlenir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleki eğitim merkezinden diploma alarak mezun olanlar, YKS Kılavuzunda belirtilen ve alanın devamı niteliğindeki ön lisans/lisans programlarına ek puanla veya sınav sonucuna göre yerleşebilirler. Çeşitli kurum ve kuruluşların düzenlediği mesleki eğitim kurslarına katılarak bilgi ve becerilerini geliştirebilirler.",
+  "is_hayatinda": "Meslek elemanları, çalıştıkları işletmede deneyim kazandıkça usta operatörlüğe, vardiya amirliğine ve boyahane/üretim şefliğine kadar ilerleyebilirler."
+ },
+ "benzer_meslekler": [
+  "Over Flov Boya Makinesi Operatörü (Kumaş Boyama)",
+  "Boyama Makinesi Operatörü-Tekstil",
+  "İplik-Elyaf Boyama Makinesi Operatörü",
+  "Boyama (Emdirme) Makinesi Operatörü",
+  "Boyama-Yıkama Makinesi Operatörü (Kumaş)",
+  "Kumaş Boya Hazırlayıcısı"
+ ],
+ "ek_bilgiler": "Meslek, kimyasal maddeler (asit, soda, boya vb.) ile sıcak ve buharlı ortamda çalışmayı içerdiğinden iş sağlığı ve güvenliği kurallarına ve kişisel koruyucu donanım kullanımına özellikle dikkat edilmesi gerekir. İstihdam, tekstil üretiminin yoğun olduğu sanayi bölgelerinde daha fazladır.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T14:41:07",
+  "usage": {
+   "input_tokens": 4,
+   "output_tokens": 9602
+  }
+ }
+}

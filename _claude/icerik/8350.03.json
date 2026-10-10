@@ -1,0 +1,77 @@
+{
+ "arac_gerec": [
+  "Dümen dolabı/dümen simidi",
+  "Manyetik gemi pusulası",
+  "Cayro (jiro) pusula",
+  "Otomatik pilot sistemi",
+  "Radar ve seyir cihazları",
+  "GPS ve elektronik harita sistemleri (ECDIS)",
+  "VHF telsiz ve köprü içi iletişim cihazları",
+  "Dürbün",
+  "El feneri",
+  "Can yeleği ve kişisel koruyucu donanım",
+  "İşaret bayrakları ve flamaları",
+  "Köprü üstü kayıt ve seyir defterleri",
+  "Temizlik malzemeleri (köprü bakımı için)"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve sorumluluk sahibi,",
+  "Göz-el-ayak koordinasyonu iyi,",
+  "Renkleri ayırt edebilen,",
+  "Yön ve mekânsal algısı güçlü,",
+  "Talimatları hızlı ve doğru uygulayabilen,",
+  "Fiziksel olarak sağlıklı, deniz hareketine (dalgalanmaya) dayanıklı,",
+  "Disiplinli ve takım çalışmasına uyumlu,",
+  "Soğukkanlı, farklı hava ve deniz koşullarında sakin kalabilen"
+ ],
+ "calisma_ortami": "Baş dümenci, çalışmasının büyük bölümünü geminin köprüsünde ve güvertesinde geçirir. Çalışma ortamı kapalı (köprü içi) ve açık (güverte) alanları birlikte içerir; açık denizde uzun süreli seyirler, değişken hava koşulları, dalgalanma, titreşim ve gürültüye maruz kalınabilir. Vardiya sistemiyle gece-gündüz, hafta sonu ve resmî tatiller dâhil çalışma söz konusudur; sefer süresince aile ve sosyal yaşamdan uzun süre ayrı kalınabilir.\n\nGörev sırasında köprüde bulunan vardiya zabiti ile sürekli iletişim ve koordinasyon içinde çalışılır; diğer güverte tayfaları, usta gemiciler ve kaptanla da ilişki kurulur. Dikkat ve konsantrasyonun sürekli yüksek tutulması gereken, hata toleransı düşük bir çalışma ortamıdır.",
+ "gorevler": [
+  "İş süreçlerinde işçi sağlığı, iş güvenliği ve çevre koruma düzenlemelerine, mesleğin verimlilik ve kalite gerekliliklerine uygun olarak çalışır.",
+  "Gemiyi rotasında bulundurmak üzere gemi pusulası yardımıyla dümen tutar.",
+  "Geminin seyri cayro pusulası ile otomatik olarak kontrol edildiğinde rotayı izler.",
+  "Gemi limanda demirli iken vardiya tutar.",
+  "Köprüyü temiz ve düzenli bulundurur.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Baş dümenciliğe yönelik ayrı, resmî olarak tanımlanmış bir örgün eğitim programı bulunmamaktadır. Meslek genellikle gemilerde işbaşında, güverte tayfalığından terfi ederek kazanılır. Denizcilik alanındaki temel güvenlik ve yeterlilik eğitimleri, denizcilik meslek liseleri ile meslek yüksekokullarının güverte/gemi işletme bölümlerinde ve STCW (Uluslararası Gemiadamları Eğitim, Belgelendirme ve Vardiya Standartları Sözleşmesi) kapsamında yetkilendirilmiş eğitim kurumlarında verilmektedir.",
+  "giris_kosullari": [
+   "İlköğretim mezunu olmak (meslek için gerekli minimum eğitim düzeyi)",
+   "Gemiadamı olarak çalışabilmek için gerekli sağlık koşullarını taşımak (gemiadamı sağlık raporu)",
+   "Denizcilik mevzuatı kapsamında zorunlu temel güvenlik, yangın, ilkyardım ve kişisel can kurtarma eğitimlerini tamamlamış olmak",
+   "Gemici veya usta gemici kademesinde çalışma deneyimine sahip olmak (göreve genellikle terfi yoluyla geçilir)"
+  ],
+  "sure_ve_icerik": "Mesleğe yönelik standart süreli bir örgün eğitim programı yoktur. Kişiler genellikle gemi tayfası olarak göreve başlar; güvertede gemici ve usta gemici kademelerinde deneyim kazandıktan sonra, kaptan ve zabitlerin gözetiminde dümen tutma, pusula ve seyir cihazlarını kullanma gibi bilgi ve becerileri işbaşında öğrenerek baş dümenciliğe terfi eder. Bu süreçte denizcilik mevzuatı gereği zorunlu STCW temel eğitimleri de tamamlanır.",
+  "belge": "Mesleğe özgü ayrı bir diploma veya mesleki yeterlilik belgesi bulunmamaktadır; göreve başlamak için STCW kapsamında alınan temel eğitim sertifikaları ile gemiadamı cüzdanı/belgesine sahip olunması gerekir. Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Baş dümenciler; ticaret gemileri, yük ve yolcu gemileri, feribotlar, römorkörler ve balıkçı gemileri gibi deniz taşımacılığı yapan işletmelerin güverte ekibinde çalışır. Denizcilik şirketleri, gemi işletme firmaları ve kabotaj hattında sefer yapan gemilerde istihdam edilebilirler. Türkiye'nin önemli bir deniz ticaret filosuna ve liman altyapısına sahip olması, bu meslek dalında istihdam olanağı sağlamaktadır; ancak kadro sayısı geminin büyüklüğüne, tipine ve mürettebat yapısına göre sınırlı olabilir.",
+ "kazanc": {
+  "egitim_suresince": "Meslek, örgün bir eğitim sürecinden geçmeden gemicilik kademelerinde çalışarak kazanıldığından, bu dönemde kişi gemici veya usta gemici olarak normal ücretini almaya devam eder; ayrı bir eğitim ücreti söz konusu değildir.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarına bağlı gemilerde çalışanlar 657 sayılı Devlet Memurları Kanunu veya ilgili toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde çalışan baş dümenciler, işletmenin büyüklüğüne, gemi tipine, deneyime ve yapılan sözleşmeye göre değişen ücret alır; genellikle gemici ve usta gemiciden daha yüksek, zabitlerden daha düşük bir ücret düzeyinde çalışırlar.",
+   "Göreve yeni başlayanlarda ücret genellikle asgari ücret düzeyinde olabilir; deneyim ve kıdem arttıkça ücret yükselir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Baş dümenci, güverte sınıfı içinde deneyim kazandıkça ilave STCW yeterlilik eğitimleri ve vardiya zabitliğine yönelik eğitimlere katılarak daha üst kademelere geçiş için gerekli bilgi ve belgeleri edinebilir.",
+  "is_hayatinda": "Deneyim kazandıkça ve gerekli eğitim/sınavları tamamladıkça güverte lostromosu gibi güverte ustabaşılığı pozisyonlarına ya da uygun koşulları sağlaması durumunda güverte zabitliği gibi daha üst görevlere terfi edebilir."
+ },
+ "benzer_meslekler": [
+  "Serdümen",
+  "Güverte Lostromosu",
+  "Güverte Tayfası",
+  "Usta Gemici",
+  "Gemici",
+  "Çımacı"
+ ],
+ "ek_bilgiler": "Meslek, denizde gemiadamı olarak çalışmayı gerektirdiğinden, ilgili denizcilik mevzuatında belirtilen gemiadamı sağlık raporu ve yeterlilik şartlarının taşınması gerekir. Çalışma süresi ve vardiya düzeni geminin seyir programına bağlı olarak değişkenlik gösterir; uzun süreli deniz seferleri söz konusu olabilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T19:06:30",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6345
+  }
+ }
+}

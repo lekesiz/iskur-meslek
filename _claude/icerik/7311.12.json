@@ -1,0 +1,82 @@
+{
+ "arac_gerec": [
+  "Mikro tornavida takımları",
+  "Pense ve kargaburun",
+  "Yan keski",
+  "Cımbız",
+  "Büyüteç (lup)",
+  "Kaynak makinesi (titanyum ve çelik kaynağı için)",
+  "Isıtıcı/ısı tabancası (çerçeve yumuşatma ve şekillendirme için)",
+  "Çerçeve düzeltme aparatları ve kalıpları",
+  "Yedek vida, palet (burun pedi) ve çerçeve parçaları",
+  "Cam sökme-takma aletleri",
+  "Temizlik ve parlatma malzemeleri",
+  "Kargo paketleme malzemeleri"
+ ],
+ "benzer_meslekler": [
+  "Gözlük Çerçeve İmalatçısı",
+  "Fotoğraf Makinesi ve Video Kamera Tamircisi",
+  "Sayaç Tamir İşçisi",
+  "Hassas ve Dakik Aletler İmalat İşçisi ve Tamircisi",
+  "Optik Aletler İmalat İşçisi ve Tamircisi",
+  "Diğer Hassas ve Dakik Aletler, Saat İmalat İşçileri ve Tamircileri"
+ ],
+ "calisma_alanlari": "Gözlük tamircileri; gözlükçü dükkanları, optik mağazaları, gözlük tamir atölyeleri ve bazı gözlük üretim/ithalat firmalarının teknik servis birimlerinde çalışabilirler. Deneyim kazandıktan sonra kendi gözlük tamir işyerini veya optik mağazasının tamir bölümünü işletebilirler. Gözlük kullanımının yaygınlığı ve çerçeve çeşitliliğinin artması nedeniyle meslekte belirli bir istihdam alanı bulunmaktadır; ancak bazı işletmelerde bu hizmet, optisyenler veya gözlükçü esnafı tarafından ek bir görev olarak da yürütülebilmektedir.",
+ "calisma_ortami": "Gözlük tamircisi, genellikle gözlükçü dükkanı veya optik mağazası içindeki küçük bir atölye bölümünde, kapalı mekânda çalışır. İş, çoğunlukla oturarak ve masa başında, küçük parçalarla dikkat gerektiren ince işçilik şeklinde yürütülür. Kaynak ve ısıtma işlemleri sırasında sıcak yüzey ve küçük metal parçacıklarla çalışma riski bulunduğundan dikkatli olmak gerekir. Çalışma saatleri genellikle işyerinin mesai saatleriyle sınırlıdır.\n\nMeslek mensubu; müşterilerle, yedek parça tedarikçileriyle, varsa diğer çırak/kalfalarla ve kargo yoluyla gönderim yapılan müşterilerle iletişim kurar. İş genellikle tek başına veya küçük bir ekip içinde yürütülür.",
+ "egitim": {
+  "verildigi_yerler": "Gözlük tamirciliği için örgün bir eğitim programı resmi olarak tanımlanmamıştır. Meslek genellikle gözlükçü dükkanlarında veya optik atölyelerinde usta yanında işbaşında öğrenilir. Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kursları ile ilgili mesleki ve teknik eğitim programları da temel bilgi ve becerilerin kazanılmasına katkı sağlayabilir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "El becerisine sahip olmak ve ince işçiliğe uygun görme yeteneği bulunmak",
+   "Çalışmak istediği bir işyeri bulup usta yanında işbaşı eğitime başlamak"
+  ],
+  "sure_ve_icerik": "Standart bir eğitim süresi ve müfredatı bulunmamaktadır; beceri, usta yanında çalışılan süre boyunca kademeli olarak kazanılır. Açılan kurslarda süre ve içerik kursu düzenleyen kuruma göre değişmekle birlikte genellikle çerçeve hasar tespiti, kaynak yapma, cam takma, parça değişimi gibi uygulamalı konular işlenir.",
+  "belge": "Örgün eğitim yoluyla alınan standart bir diploma veya sertifika bulunmamaktadır. Katılınan kurslardan katılım belgesi alınabilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "genel_ozellikler": [
+  "El ve göz koordinasyonu iyi,",
+  "El becerisine sahip,",
+  "Ayrıntılara dikkat eden,",
+  "Küçük parçalarla çalışmaya uygun görme yeteneğine sahip,",
+  "Sabırlı,",
+  "Estetik görüşe sahip,",
+  "Müşteri ilişkilerinde güler yüzlü ve ikna edici"
+ ],
+ "gorevler": [
+  "İş organizasyonu ve planlaması yapar.",
+  "Güneş gözlüklerinin ve numaralı gözlüklerin çerçevelerindeki hasarları tespit eder.",
+  "Yapılacak işlem ve ücret hakkında müşteriyi bilgilendirir.",
+  "Titanyum ve çelik kaynağı yapar.",
+  "Yuvasından, çerçevesinden çıkan camları çerçeveye takar ve sabitler.",
+  "Bozulan, deforme olan çerçeve aparatlarını tamir eder veya yenisiyle değiştirir.",
+  "Deforme olmuş çerçeveleri düzeltir.",
+  "Gözlüğün düşen vidalarını veya paletlerini yenisiyle değiştirir.",
+  "Tamiri mümkün olmayan çerçeve aparatlarını yenisiyle değiştirir.",
+  "Yenileme, tamir, bakım sonrası gözlüğün son kontrolünü yapar.",
+  "Kargo ile gelen gözlükleri tamirinden sonra kargo ile sahiplerine gönderir.",
+  "Kullanılan araç, gereç ve malzemelerin bakım ve temizliğini yapar.",
+  "Mesleği alanındaki gelişmeleri takip eder ve uygular.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "kazanc": {
+  "egitim_suresince": "Usta yanında işbaşı eğitim sürecinde kişiye genellikle işveren ile anlaşılan, çoğunlukla asgari ücret düzeyinde bir ödeme yapılır.",
+  "egitim_sonrasi": [
+   "Kazanç, çalışılan işyerinin büyüklüğüne, bulunduğu konuma ve kişinin deneyim ve becerisine göre değişir.",
+   "Yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar; deneyim kazandıkça ücret artabilir.",
+   "Kendi işyerini açanların geliri işyerinin cirosuna ve müşteri potansiyeline göre değişkenlik gösterir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğe ilişkin standart bir örgün eğitim basamağı bulunmadığından ilerleme genellikle deneyim ve katılınan kurs/sertifika programlarıyla sağlanır. İsteyen kişiler, ilgili mesleki ve teknik eğitim kurumlarının optik veya ilgili alanlarına yönelerek bilgi ve becerisini artırabilir.",
+  "is_hayatinda": "Deneyim kazanan kişiler işyerinde usta veya atölye sorumlusu konumuna gelebilir, kendi gözlük tamir işyerini veya optik mağazasını açabilir."
+ },
+ "ek_bilgiler": "Gözlükçülük hizmetlerinde optisyenlik ayrı bir meslek olarak düzenlendiğinden, gözlük tamirciliği uygulamada genellikle optik mağazaları bünyesinde teknik/yardımcı bir hizmet olarak yürütülmektedir. Mesleki Yeterlilik Kurumu (MYK) belgesi sahibi olmak istihdamda tercih sebebi olabilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T03:16:14",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5487
+  }
+ }
+}

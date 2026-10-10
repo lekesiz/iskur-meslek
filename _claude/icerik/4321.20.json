@@ -1,0 +1,83 @@
+{
+ "arac_gerec": [
+  "Depo yönetim bilgisayar programı (WMS/ERP) ve bilgisayar donanımı",
+  "Barkot okuyucu el terminalleri (RF cihazlar)",
+  "Telsiz ve telefon gibi iletişim araçları",
+  "Yazıcı ve etiket/irsaliye basım cihazları",
+  "İrsaliye, sevk fişi ve stok takip formları",
+  "Kasa/palet takip sistemleri ve ilgili raporlama ekranları",
+  "Mazot/yakıt takip listeleri ve formları",
+  "Kişisel koruyucu donanım (iş ayakkabısı, reflektif yelek, gerektiğinde baret)",
+  "Depo içi tabela, pano ve işaretleme malzemeleri",
+  "Tartı/kantar cihazları (gerektiğinde)"
+ ],
+ "benzer_meslekler": [
+  "Depo Sorumlusu",
+  "Ambar Sorumlusu",
+  "Lojistik Operasyon Sorumlusu",
+  "Lojistisyen",
+  "Stok Kontrol Uzmanı",
+  "Ambar ve Antrepo Şefi"
+ ],
+ "calisma_alanlari": "Lojistik Operasyon Elemanları, başta 3. parti lojistik (3PL) firmaları olmak üzere perakende, toptan ticaret, e-ticaret, üretim, gıda, otomotiv ve tekstil gibi sektörlerin depo ve dağıtım merkezlerinde görev alır. Dağıtım merkezleri, soğuk hava depoları, gümrüklü antrepolar ve üretim tesislerine bağlı ambarlarda istihdam edilebilirler. E-ticaret ve kargo/dağıtım hizmetlerindeki büyüme, bu meslekte iş bulma olanaklarını olumlu yönde etkilemektedir.",
+ "calisma_ortami": "Lojistik Operasyon Elemanları genellikle depo, dağıtım merkezi ve ambar gibi büyük hacimli, kapalı alanlarda; bazen açık yükleme-boşaltma sahalarında çalışır. Çalışma ortamı sıcak, soğuk (soğuk hava deposu) ya da nemli olabilir; forklift ve transpalet trafiği, gürültü, toz gibi fiziksel koşullara ve zaman baskısına bağlı strese maruz kalabilirler. İş genellikle vardiyalı sistemle, bazı dönemlerde (sipariş yoğunluğu, kampanya dönemleri vb.) yoğun ve hızlı tempoda yürütülür.\n\nGörevlerini yerine getirirken depo çalışanları, forklift/transpalet operatörleri, şoförler, tedarikçi ve müşteri temsilcileri ile vardiya amiri ve üst yöneticilerle sürekli iletişim halindedirler. Çalışma kıyafeti işletmenin niteliğine göre günlük veya iş kıyafeti/üniforma şeklinde olabilir.",
+ "egitim": {
+  "belge": "Katıldıkları mesleki eğitim kurs ve programları sonunda kurumca düzenlenen katılım/başarı belgesi veya sertifika alabilirler. İlgili alanda alınan Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda tercih sebebi olabilir.",
+  "giris_kosullari": [
+   "En az lise ve dengi okul mezunu olmak",
+   "Vardiyalı çalışma düzenine ve yoğun iş temposuna uygun fiziksel ve psikolojik uygunluğa sahip olmak",
+   "Temel düzeyde bilgisayar kullanabilme becerisine sahip olmak"
+  ],
+  "sure_ve_icerik": "Mesleğin eğitimine yönelik standart bir mesleki ve teknik ortaöğretim alanı/dalı bulunmamaktadır. İŞKUR ve Halk Eğitim Merkezlerinin açtığı depo yönetimi, stok kontrol, lojistik operasyonları gibi kısa süreli mesleki eğitim kursları ile temel bilgi ve beceriler kazandırılır; kurs süreleri ve içerikleri programa göre değişmekte, genellikle teorik ve uygulamalı dersleri birlikte içermektedir. Bunun yanında işe yeni başlayanlar, işletme bünyesinde deneyimli personel gözetiminde kullanılan depo yönetim yazılımları (WMS/ERP), depo süreçleri, evrak ve raporlama işlemleri ile iş sağlığı ve güvenliği kuralları konusunda işbaşı eğitimi alarak mesleği öğrenir.",
+  "verildigi_yerler": "Mesleğe özgü, resmî olarak tanımlanmış ayrı bir yükseköğretim veya meslek lisesi programı bulunmamaktadır. Lise ve dengi okul mezuniyeti yeterli görülmekte; bilgi ve beceriler İŞKUR'un ve Halk Eğitim Merkezlerinin açtığı mesleki eğitim kursları ile işyerlerinde verilen işbaşı/oryantasyon eğitimleri yoluyla kazanılmaktadır."
+ },
+ "ek_bilgiler": "E-ticaret ve lojistik sektöründeki büyümeye bağlı olarak bu meslekte istihdam olanaklarının artış eğiliminde olduğu görülmektedir. Çalışma koşulları ve yapılan görevler, çalışılan işyerinin büyüklüğüne ve kullanılan teknolojik sistemlere göre farklılık gösterebilir.",
+ "genel_ozellikler": [
+  "Sorumluluk sahibi,",
+  "Dikkatli ve titiz çalışan,",
+  "Analitik düşünme yeteneğine sahip,",
+  "Planlama ve organizasyon becerisine sahip,",
+  "İletişim becerisi iyi,",
+  "Ekip çalışmasına yatkın,",
+  "Hızlı ve değişken çalışma temposuna uyum sağlayabilen,",
+  "Vardiyalı çalışma düzenine uyum sağlayabilen kişiler olmaları gerekir."
+ ],
+ "gorevler": [
+  "Her vardiya başında depoyu gezerek denetler, tespit ettiği uygunsuzlukları giderir.",
+  "Yükleme ve boşaltma faaliyetleri için depo yönetim bilgisayar programı (WMS) üzerinden iş atamalarını gerçekleştirir.",
+  "Gelen (inbound) ekibin planlarına göre ilgili bilgisayar programı üzerinden araçları depoya yüklemek üzere depoya davet eder.",
+  "Gerektiğinde irsaliye keser, veri giriş elemanının görevlerini yerine getirir.",
+  "Kasa stoklarını anlık olarak takip eder, eksik kasaları raporlayarak firmaya iletir.",
+  "Tedarikçilerden gelen yanlış irsaliye kesimlerini takip eder ve düzeltir.",
+  "Gelen (inbound) ekiple sürekli iletişim içinde olur.",
+  "Firmadan kaynaklanan sorunları takip eder ve sonuçlandırır.",
+  "Müşteri firmanın çalıştığı kasa/palet takip sistemiyle ilgili vardiya raporunu hazırlar.",
+  "Mazot takip listesini düzenler.",
+  "Barkot okuyucu (RF) cihazlarla ilgili sorunları giderir ve raporlar.",
+  "Yaptığı işteki değişen koşullara uyum sağlar, yöneticisi tarafından verilen görevleri yerine getirir.",
+  "Ara taşıma irsaliyelerinin ilgili bilgisayar sistemine girişini yapar.",
+  "Vardiya başında her gün personelle bilgilendirme toplantısı yapar.",
+  "Şirketin belirlediği dönemlerde uygulanan performans değerlendirme sürecine ilişkin yükümlülüklerini belirlenen süre içinde ve eksiksiz yerine getirir.",
+  "Acil durum uygulamalarına ve hazırlanmış olan acil durum planına tam olarak uyar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "is_hayatinda": "Deneyim ve performansına bağlı olarak vardiya amiri, depo/ambar sorumlusu, lojistik operasyon sorumlusu gibi kademelere; daha ileri aşamada depo müdürlüğü veya lojistik yöneticiliği pozisyonlarına yükselebilir.",
+  "mesleki_egitimde": "Çalışırken ya da açıköğretim yoluyla lojistik, işletme veya ilgili alanlarda ön lisans/lisans programlarına kaydolarak mesleki bilgisini kurumsallaştırabilir; depo yönetimi, stok kontrol ve iş sağlığı ve güvenliği gibi alanlarda açılan ileri düzey kurs ve sertifika programlarına katılarak bilgi ve becerilerini geliştirebilir."
+ },
+ "kazanc": {
+  "egitim_sonrasi": [
+   "Özel sektörde çalışanların ücreti işyerinin büyüklüğüne, deneyime ve sektöre göre değişmekte, mesleğe yeni başlayanlarda genellikle asgari ücret düzeyinde olmaktadır.",
+   "Kamuya bağlı kurum ve kuruluşların depo/lojistik birimlerinde işçi statüsünde çalışanların ücreti, ilgili toplu iş sözleşmesi hükümlerine göre belirlenir."
+  ],
+  "egitim_suresince": "İŞKUR ve Halk Eğitim Merkezlerinin açtığı kısa süreli mesleki eğitim kursları genellikle ücretsizdir; İŞKUR programlarına katılanlara kurs süresince cep harçlığı ödenebilir. İşletme bünyesinde işbaşı eğitimi alanlar, çalıştıkları süreye karşılık ücret alabilir."
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T16:24:25",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 7696
+  }
+ }
+}

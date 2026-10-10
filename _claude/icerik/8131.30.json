@@ -1,0 +1,73 @@
+{
+ "arac_gerec": [
+  "Otoklav (sterilizasyon) kazanı",
+  "Ampul kontrol/muayene lambası (ışıklı kontrol düzeneği)",
+  "Karıştırma (mikser) makinesi",
+  "Yapıştırıcı macun hazırlama ekipmanları",
+  "Tartım terazisi ve ölçüm kapları",
+  "Ampul dolum ve kapatma ekipmanları",
+  "Hammadde ve ürün taşıma arabaları/konteynerleri",
+  "Etiketleme ve basit paketleme ekipmanları",
+  "Isıtma/karıştırma tankları",
+  "Kişisel koruyucu donanım (eldiven, maske, gözlük, önlük)"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve titiz,",
+  "El ve göz koordinasyonu iyi,",
+  "Sorumluluk sahibi,",
+  "Hijyen kurallarına uyumlu,",
+  "Talimatlara uyma konusunda disiplinli,",
+  "Takım çalışmasına uyumlu,",
+  "Fiziksel olarak dayanıklı,",
+  "Kimyasal maddelerle çalışmaya uygun sağlık durumuna sahip,"
+ ],
+ "gorevler": [
+  "İlaç ve güzellik malzemesi imalatında, dolu ilaç ampullerini ışık altında kontrol eder.",
+  "Ampulleri otoklav kazanında sterilize eder.",
+  "Ampul imalatı sırasında yapıştırıcı macun hazırlar.",
+  "Tarım, haşarat ve hayvan sağlığında kullanılan ilaçları imal eder.",
+  "Basit karıştırma işlemlerini yapar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "calisma_ortami": "İlaç, kozmetik/makyaj malzemesi veya tarım ilacı üretimi yapan fabrika ve atölyelerde, genellikle kapalı mekanlarda ve hijyen kurallarının sıkı uygulandığı üretim hatlarında çalışılır. Çalışma sırasında kimyasal maddeler, kokular, otoklav gibi ısıtmalı ekipmanlarla temas söz konusu olabileceğinden kişisel koruyucu donanım kullanımı ve iş güvenliği kurallarına dikkat gerekir. İş genellikle ayakta ve bazen vardiyalı olarak yürütülür; çalışan, üretim hattındaki diğer işçilerle, usta ve kalite kontrol personeliyle sürekli iletişim halindedir.\n\nÇalışma orta düzeyde fiziksel efor gerektirir ve işlem sırasında dikkatin sürekli yüksek tutulması gerekir.",
+ "egitim": {
+  "verildigi_yerler": "Bu meslek için örgün eğitim kurumlarında ayrı ve resmi olarak tanımlanmış bir program bulunmamaktadır. Meslek genellikle işbaşında usta yanında yetişerek veya Halk Eğitim Merkezleri ile İŞKUR tarafından açılan kimya/ilaç-kozmetik üretimi alanındaki mesleki eğitim kursları aracılığıyla öğrenilmektedir.",
+  "giris_kosullari": [
+   "Okuryazar olmak",
+   "Kurs veya işbaşı eğitim programının gerektirdiği temel fiziksel ve psikomotor yeterliğe sahip olmak",
+   "Genellikle 18 yaşını doldurmuş olmak (işyeri uygulamalarına göre değişebilir)"
+  ],
+  "sure_ve_icerik": "Örgün bir eğitim programı bulunmadığından eğitim süresi işyerine veya katılınan kursa göre değişiklik gösterir. Eğitimde genel olarak iş sağlığı ve güvenliği, hijyen kuralları, ilaç ve kozmetik hammaddelerinin tanınması, sterilizasyon işlemleri, basit karıştırma ve dolum uygulamaları ile temel kalite kontrol esasları işlenir.",
+  "belge": "Kurs yoluyla eğitim alanlara kursu veren kurum tarafından \"Kurs Bitirme Belgesi\" verilebilir; işbaşında yetişenler için resmi bir belge düzenlenmeyebilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Bu meslek mensupları; ilaç fabrikalarında, kozmetik ve makyaj malzemesi üreten işletmelerde, tarım ilaçları (zirai mücadele ürünleri) ve hayvan sağlığı ürünleri üreten tesislerde istihdam edilebilirler. İş bulma olanakları, bu tür üretim tesislerinin yoğun olduğu sanayi bölgelerinde daha fazladır.",
+ "kazanc": {
+  "egitim_suresince": "Meslek örgün bir eğitim programı şeklinde yürütülmediğinden, eğitim süresince genellikle herhangi bir kazanç söz konusu değildir. İşbaşında yetişme sürecinde bazı işyerleri çalışana ücret ödeyebilir.",
+  "egitim_sonrasi": [
+   "Özel sektördeki ilaç, kozmetik veya tarım ilacı üretim tesislerinde işe yeni başlayanların kazancı genellikle asgari ücret düzeyindedir.",
+   "Deneyim, işletmenin büyüklüğü ve çalışılan sektöre göre ücretler değişebilir.",
+   "Kamu kurumlarında benzer nitelikte çalışan sınırlı sayıda personel 657 sayılı Kanun veya ilgili toplu iş sözleşmesi hükümlerine tabi olarak ücret alır."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Meslekte kademeli, resmi bir eğitim/ilerleme programı bulunmamaktadır.",
+  "is_hayatinda": "Çalışanlar bilgi, beceri ve deneyimlerini artırarak usta, ustabaşı veya vardiya/bölüm sorumlusu gibi unvanlar alabilir. Deneyim kazandıkça kalite kontrol veya üretim takibi gibi görevlere geçiş yapma imkanı bulabilirler."
+ },
+ "benzer_meslekler": [
+  "Makyaj Malzemesi İmalat İşçisi",
+  "İlaç Üretim Operatörü (Beşeri ve Veteriner)",
+  "Toz İlaç İmal İşçisi",
+  "Tablet İlaç İmal İşçisi",
+  "Süspansiyon İlaç İmal İşçisi",
+  "Kozmetik Sıvı Ürün Hazırlama İşçisi"
+ ],
+ "ek_bilgiler": "Bu meslekte kimyasal maddeler, yapıştırıcılar ve otoklav gibi ısıtmalı/sterilizasyon ekipmanlarıyla çalışıldığından iş sağlığı ve güvenliği kurallarına, hijyen esaslarına ve kişisel koruyucu donanım kullanımına özen gösterilmesi önemlidir. Yapılan işlemin niteliğine göre bazı görevler tehlikeli işler kapsamında değerlendirilebilir; bu durumda işveren tarafından Mesleki Yeterlilik Kurumu (MYK) belgesi talep edilebilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T12:09:26",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5073
+  }
+ }
+}

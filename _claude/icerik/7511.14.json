@@ -1,0 +1,80 @@
+{
+ "arac_gerec": [
+  "Artık ayırma ve parçalama bıçakları",
+  "Yıkama makinesi",
+  "Pişirme kazanları",
+  "Pres makinesi",
+  "Dinlendirme tankları",
+  "Kek kırıcı makine",
+  "Kek öğütme (un) makinesi",
+  "Torbalama ekipmanı ve tartı/kantar",
+  "Yağ bidonları ve depolama kapları",
+  "Konsantre safra kazanı",
+  "Taşıma araçları (el arabası, transpalet, forklift)",
+  "Koruyucu giysi ve ekipman (eldiven, önlük, çizme, bone, maske)",
+  "Temizlik ve dezenfeksiyon malzemeleri"
+ ],
+ "genel_ozellikler": [
+  "Fiziksel olarak dayanıklı ve güçlü,",
+  "Yoğun koku, nem ve sıcak çalışma koşullarına dayanıklı,",
+  "Dikkatli ve tedbirli,",
+  "Makine kullanımına ve basit bakımına yatkın,",
+  "Temizlik ve hijyen kurallarına duyarlı,",
+  "Ekip halinde çalışmaya uyumlu,",
+  "El ve kol kaslarını etkin kullanabilen,",
+  "Kana, kokuya ve hayvansal artık maddelere karşı alerjisi olmayan"
+ ],
+ "calisma_ortami": "Rendering işçisi (et), kapalı ortamlarda; et entegre tesisleri, mezbahalar veya kesimhanelere bağlı rendering (yan ürün değerlendirme) bölümlerinde çalışır. Çalışma ortamı sıcak buhar, nem, yoğun hayvansal koku ve kaygan zemin gibi özellikler taşır; pişirme kazanları, pres ve öğütme makineleri ile çalışıldığından yanma, sıkışma ve kesilme riskleri bulunur. Bu nedenle iş güvenliği ekipmanlarının eksiksiz kullanılması ve dikkatli çalışılması gerekir.\n\nÇalışma genellikle işletmenin üretim temposuna bağlı olarak gündüz veya vardiyalı düzende sürer. Meslek elemanı; kesimhane işçileri, tesis teknisyenleri ve vardiya/işletme sorumlularıyla sürekli iş birliği içinde çalışır.",
+ "egitim": {
+  "verildigi_yerler": "Bu meslek için örgün mesleki ve teknik eğitim sisteminde ayrı bir eğitim dalı bulunmamaktadır. Bilgi ve beceri, genellikle çalışılan işletmede işbaşında, deneyimli işçi veya usta gözetiminde kazanılır. Halk Eğitim Merkezleri ile İŞKUR tarafından açılan mesleki eğitim kursları da temel düzeyde bilgi ve beceri kazandırabilir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "Fiziksel olarak işin gerektirdiği koşullara uygun olmak (gerektiğinde sağlık raporu ile belgelendirilir)",
+   "İlgili mevzuatta belirtilen çalışma yaşını doldurmuş olmak"
+  ],
+  "sure_ve_icerik": "Mesleğin resmî olarak tanımlanmış sabit bir eğitim süresi yoktur. İşe yeni başlayanlar tesiste deneyimli işçilerin gözetiminde kısa sürede artık ayırma, yıkama ve basit işlemleri öğrenir; deneyim kazandıkça pişirme, presleme, öğütme ve safra işleme gibi daha karmaşık işlemleri uygulamaya başlar.",
+  "belge": "Örgün eğitim diploması bulunmamaktadır. Çalışılan işyerinden alınan deneyim/hizmet belgesi veya katılınan kurslardan alınan katılım belgesi mesleki birikimi gösterir. Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Rendering işçisi (et); et entegre tesisleri, mezbahalar/kesimhaneler, hayvansal yağ ve kemik unu üretim tesisleri gibi, kesim sonrası oluşan artıkların değerlendirildiği işletmelerde çalışır. Bu işletmeler kamuya veya özel sektöre bağlı olabilir; üretilen ürünler genellikle yem fabrikalarına hammadde olarak gönderilir.",
+ "kazanc": {
+  "egitim_suresince": "Örgün bir çıraklık eğitimi bulunmadığından, mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde bir ücretle işbaşında eğitim görerek çalışmaya başlar.",
+  "egitim_sonrasi": [
+   "Özel sektörde kazanç, işyerinin büyüklüğüne, kişinin tecrübesine ve sektördeki ücret düzeyine göre değişir.",
+   "Kamuya bağlı kesimhanelerde işçi statüsünde çalışanların ücreti toplu iş sözleşmesi hükümlerine göre belirlenir.",
+   "Deneyim ve üstlenilen sorumluluk (örneğin vardiya/ekip sorumluluğu) arttıkça kazanç yükselebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Bu meslekte örgün bir ilerleme basamağı bulunmamaktadır. İlgili kurumların açtığı mesleki eğitim kurslarına katılarak bilgi ve beceriler geliştirilebilir; isteyenler gıda işleme veya et ve ürünleri teknolojisiyle ilgili mesleki eğitim programlarına yönelebilir.",
+  "is_hayatinda": "Deneyim kazandıkça usta işçi, ekip veya vardiya sorumlusu gibi görevlere yükselinebilir."
+ },
+ "benzer_meslekler": [
+  "Et ve Et Ürünleri İşlemecisi",
+  "Mezbaha Kesim İşçisi",
+  "Kesimhane İşçisi",
+  "Bağırsak İşçisi",
+  "İşkembe Temizleme İşçisi",
+  "Diğer Kasaplar ve Et Hazırlama İşçileri"
+ ],
+ "ek_bilgiler": "Bu meslekte çalışanlar, kesimhane artıkları ve hayvansal yağlarla sürekli temas eder; bu nedenle kişisel hijyen ve iş güvenliği kurallarına uyum büyük önem taşır. Pişirme kazanları, pres ve öğütme makineleriyle yapılan işlemler nedeniyle işe giriş ve periyodik sağlık muayenelerine önem verilmesi gerekir.",
+ "gorevler": [
+  "Kesimhaneden gelen artıkları parçalara ayırır ve yıkama makinesinde yıkar.",
+  "Yıkanan artıkları ve kemikleri pişirme kazanlarına doldurarak pişirir.",
+  "Pişen malzemeyi pres makinesine alarak presler.",
+  "Presten elde edilen yağları dinlendirme tankına alır.",
+  "Preslemeden sonra kekleri kek kırıcı makinesinde kırar ve kek öğütme makinesinde öğüterek un haline getirir.",
+  "Elde edilen kesim artığı ve kemik unlarını torbalayarak yem fabrikalarına gönderilmek üzere depolara taşır ve uygun şekilde istifler.",
+  "Dinlenen yağları yağ bidonlarına doldurarak depolara taşır.",
+  "Safra kesesinden çıkardığı safra suyunu konsantre safra kazanında pişirerek ilgili depoda muhafaza eder.",
+  "Makine ve çalışılan yerlerin temizliğini yapar, gerekirse dezenfekte eder.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T06:52:47",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5542
+  }
+ }
+}

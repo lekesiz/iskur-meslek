@@ -1,0 +1,89 @@
+{
+ "arac_gerec": [
+  "Distilasyon kazanları (bakır/çelik kazan)",
+  "Buhar jeneratörü ve buhar hatları",
+  "Basınç göstergesi (manometre)",
+  "Termometre",
+  "Ön güğüm (yağ-su ayrıştırma kabı)",
+  "Fanus (cam toplama kabı)",
+  "Kron nikel (çelik) tanklar",
+  "Pompa",
+  "Tazyikli su hortumu",
+  "Filtre kağıdı",
+  "Cam şişeler",
+  "Darası alınmış metal muhafaza kapları (teneke, varil)",
+  "Gül çuvalları",
+  "Ölçü ve tartı kapları",
+  "Kişisel koruyucu donanım (eldiven, önlük, çizme)"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve titiz,",
+  "Sabırlı ve işine özen gösteren,",
+  "Koku ve tat algısı gelişmiş,",
+  "El becerisine sahip,",
+  "Fiziksel olarak dayanıklı,",
+  "Sıcak ve buharlı ortamda çalışabilecek sağlık durumuna sahip,",
+  "Düzenli ve sorumluluk sahibi,",
+  "Ekip çalışmasına uyumlu,"
+ ],
+ "calisma_ortami": "Gül yağı üretimi, genellikle Isparta ve Burdur gibi gül yetiştiriciliğinin yoğun olduğu bölgelerde, mevsimlik olarak (Mayıs-Haziran gül hasadı döneminde) faaliyet gösteren imalathane ve küçük ölçekli fabrikalarda gerçekleştirilir. Çalışma, kapalı mekanda, buharlı, nemli ve sıcak bir ortamda, kazanların başında genellikle ayakta ve bedensel güç gerektirecek şekilde yürütülür. Çuval taşıma, kaynar su ve buharla çalışma nedeniyle yanık, haşlanma ve kayma gibi iş kazası riskleri bulunur.\n\nHasat döneminde çalışma saatleri uzayabilir ve vardiyalı çalışma gerekebilir. Meslek elemanı; işveren/usta, diğer üretim işçileri ve zaman zaman gül tedarikçileriyle iletişim kurarak çalışır.",
+ "egitim": {
+  "verildigi_yerler": "Bu meslek için örgün bir okul programı veya diploma bulunmamaktadır. Mesleğe giriş büyük ölçüde gülyağı üretim işletmelerinde işbaşında, deneyimli bir usta yanında çalışılarak gerçekleşir. Halk Eğitim Merkezleri ve İŞKUR tarafından açılan ilgili mesleki eğitim kursları (gıda/kimya teknolojisi alanına yakın içerikler) mesleğe giriş ve temel bilgi edinme açısından destekleyici olabilir.",
+  "giris_kosullari": [
+   "Okuryazar olmak",
+   "18 yaşını doldurmuş olmak",
+   "Sıcak, nemli ve buharlı ortamda ağır işlerde çalışabilecek fiziksel sağlık durumuna sahip olmak"
+  ],
+  "sure_ve_icerik": "Standart ve örgün bir eğitim süresi ile müfredatı bulunmamaktadır. Meslek, işletmede deneyimli bir ustanın gözetiminde uygulamalı olarak öğrenilir. Öğrenme süreci; kazanın hazırlanması, buhar basıncının ayarlanması, distilasyon işleminin takibi, yağ-su ayrıştırma, kalite kontrolü (koklama/tatma yoluyla) ve ürünün depolanması aşamalarını kapsar. Kişinin beceri kazanma süresi, çalıştığı sezon sayısına ve bireysel yeteneğine göre değişmekte, genellikle birden fazla üretim sezonunu gerektirmektedir.",
+  "belge": "Örgün bir eğitim programı bulunmadığından resmi bir diploma veya sertifika söz konusu değildir. Katılınan ilgili kurslardan 'Kurs Bitirme Belgesi' alınabilir; ancak mesleki yeterlilik büyük ölçüde işyerinde kazanılan uygulamalı deneyime dayanır."
+ },
+ "calisma_alanlari": "Gülyağı Üretim Ustaları; gül yağı ve gül suyu imalatı yapan işletmelerde, özellikle Isparta ve Burdur gibi gül tarımının yoğun olduğu bölgelerdeki üretim tesislerinde çalışabilirler. Üretim faaliyeti gül hasadına bağlı olarak mevsimsel (Mayıs-Haziran) yoğunlaştığından, aynı işletmede yıl içinde farklı dönemlerde bakım, depolama veya dolum gibi görevlerde de istihdam edilebilirler.",
+ "kazanc": {
+  "egitim_suresince": "Örgün bir eğitim süreci bulunmadığından ayrıca bir eğitim ücreti ya da kazancı söz konusu değildir. İşbaşında usta yanında çalışılan dönemde, işletmeye göre günlük veya mevsimlik bir ücret ödenebilir.",
+  "egitim_sonrasi": [
+   "Üretimin mevsimsel olması nedeniyle çalışma genellikle sezonluk niteliktedir; kazanç çalışılan işletmeye, deneyime ve çalışma süresine göre değişir.",
+   "Yeni başlayanlar genellikle asgari ücret düzeyinde gelir elde eder.",
+   "Deneyim ve ustalık düzeyi arttıkça kazanç yükselebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Bu meslekte örgün bir eğitim basamağı veya ilerleme yolu bulunmamaktadır; kişiler çalışarak kazandıkları deneyimle ustalık düzeyine ulaşır.",
+  "is_hayatinda": "Deneyim kazandıkça usta, ustabaşı veya işletmede üretim sorumlusu gibi görevlere yükselebilirler. Yeterli bilgi, sermaye ve deneyime sahip olanlar kendi gülyağı üretim işletmelerini kurabilirler."
+ },
+ "benzer_meslekler": [
+  "Evaporatör Operatörü-Kimyasal İşlemler",
+  "İmbik Operatörü (Aralıklı İşleyen) (Petrol Hariç)",
+  "İmbik Operatörü (Devamlı İşleyen) (Petrol Hariç)",
+  "Gül Mamulleri İmalatçısı (Kozmetik Ürünler)",
+  "Kozmetik Sıvı Ürün Hazırlama İşçisi",
+  "Diğer Aralıklı ve Devamlı İşleyen İmbik Reaktör Operatörleri"
+ ],
+ "ek_bilgiler": "Gülyağı üretimi Türkiye'de özellikle Isparta ve Burdur bölgesinde yoğunlaşan, gül hasadına bağlı mevsimsel bir üretim faaliyetidir. Üretim süreci yüksek ısı, buhar ve kaynar su ile çalışmayı gerektirdiğinden, yanık ve haşlanma riskine karşı iş sağlığı ve güvenliği kurallarına özenle uyulması önemlidir.",
+ "gorevler": [
+  "Kazanlara uygun ağırlıkta soğuk su doldurur, gül çuvallarını su dolu kazanlara boşaltır.",
+  "Kazanın kapağını hava kaçırmayacak şekilde kapatır.",
+  "Kazan tamamen kapandıktan sonra endirekt buhardan belirli basınçta buhar basıncı verir.",
+  "Kazan içerisinde bulunan gül ve suyu buhar vasıtasıyla 100 derecede kaynatır.",
+  "Gül ve suyun kaynaması sırasında buhar haline gelen maddenin yağ sempantin borusuna gelmesini takiben yoğunlaşarak yağlı suya dönüşmesini sağlar.",
+  "Yağlı suyu 30-35 derece, en fazla 40 dereceyi geçmemek kaydıyla ön güğüme toplar.",
+  "Ön güğümde toplanan yağlı suyun su ve gülyağını (çiğ yağ) ayrıştırır, su içerisinde yağ miktarı kalmayıncaya kadar ayrıştırma işlemini yapar.",
+  "Ayrıştırılmış çiğ gülyağını ön güğümden, içerisine 500 kg su katılmış ön yağ güğümüne aktarır.",
+  "Kazanın iç kısmını gül posalarından tazyikli su ile temizler.",
+  "Pişmiş gülyağı elde etmek için ön kazanda biriken çiğ yağ sularını pompa ile kron nikel (çelik) tanklara basar ve bu kazanın içerisine belirli oranda su ilave ederek ikinci kez distilasyon işlemi yapar.",
+  "İşlem sonunda çiğ yağ içerisinde bulunan suyun tamamen ayrışması sonucunda elde edilen saf gülyağının ön güğüm fanusunda (cam kap) toplanmasını sağlar.",
+  "Toplanan saf gülyağını gözlemleme, dille tatma ve parmakla ovalama suretiyle kontrol eder.",
+  "Rafine işleminden sonra saf suyu yeniden kullanılmak üzere gül kazanlarına basar.",
+  "Damıtılmış çiğ ve pişmiş saf gülyağlarını cam şişelere aktarır ve yağ odasında muhafazaya alarak beklemeye bırakır.",
+  "Şişelerde beklemeye alınan çiğ ve pişmiş gülyağlarının tortu ve posalarını filtre kağıdı ile süzer.",
+  "Süzülen pişmiş ve çiğ yağları karıştırır ve darası alınmış, dışı metal muhafaza kaplarına koyarak depolar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T12:11:29",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 8119
+  }
+ }
+}

@@ -1,0 +1,75 @@
+{
+ "arac_gerec": [
+  "Monotip harf döküm makinesi",
+  "Delikli (perfore) kontrol bandı",
+  "Kalıp kutusu (matris kutusu)",
+  "Hurufat tutma tablaları",
+  "Erimiş metal (harf alaşımı) besleme ünitesi",
+  "Soğutma suyu devresi ve haznesi",
+  "Sarma makarası ve kılavuzlar",
+  "Tertip çubuğu (satır uzunluğu ayar mekanizması)",
+  "Prova baskı donanımı",
+  "El aletleri (pense, tornavida, yağlama ekipmanı)",
+  "Koruyucu eldiven ve gözlük"
+ ],
+ "genel_ozellikler": [
+  "El ve gözlerini eşgüdümlü kullanabilen,",
+  "Dikkatli ve sabırlı,",
+  "Makine ve mekanik sistemlerle çalışmaktan hoşlanan,",
+  "El becerisine sahip,",
+  "Küçük parçalarla ince işçilik yapabilen,",
+  "Sorumluluk sahibi,",
+  "Sıcak metalle ve yüksek ısıyla çalışmaya karşı tedbirli,",
+  "Teknik talimatları doğru uygulayabilen"
+ ],
+ "calisma_ortami": "Çalışma ortamı kapalı mekan olup, matbaa/dizgi atölyesi niteliğindedir. Makinede harf metalinin eritilmesi nedeniyle ortamda yüksek ısı, metal kokusu ve belirli düzeyde gürültü bulunur; erimiş metalle çalışma yanık ve yaralanma riski taşır, bu nedenle dikkatli ve tedbirli çalışmak gerekir. Görev çoğunlukla ayakta ve makine başında yürütülür, eğilme ve malzeme taşıma gibi fiziksel hareketler gerektirebilir.\n\nİşin niteliğine ve işletmenin iş hacmine göre çalışma saatleri değişebilir, yoğun dönemlerde mesai uzayabilir. Çalışma sırasında diğer dizgi ve baskı çalışanları, ustabaşı ve işletme sorumluları ile iletişim kurulur.",
+ "egitim": {
+  "verildigi_yerler": "Monotip harf döküm teknolojisi, bilgisayarlı dizgi ve dijital baskı sistemlerinin yaygınlaşmasıyla kullanım dışı kaldığından, bu mesleğe yönelik güncel bir mesleki ve teknik eğitim programı bulunmamaktadır. Geçmişte bu bilgi ve beceri, matbaa işletmelerinde usta yanında işbaşında kazandırılmaktaydı.",
+  "giris_kosullari": [
+   "İlköğretim/ilkokul mezunu olmak (mesleğin gerektirdiği asgari eğitim düzeyi)",
+   "Makine ve mekanik işlerle çalışmaya istekli olmak",
+   "Geçmişte uygulanan usta-çırak sistemine kabul için işletmenin belirlediği koşulları karşılamak"
+  ],
+  "sure_ve_icerik": "Bu meslek için standart, süresi ve içeriği belirlenmiş resmî bir eğitim programı günümüzde bulunmamaktadır. Geçmişte meslek, matbaa işletmelerinde deneyimli ustaların gözetiminde, makinenin mekanik işleyişi, kalıp ve matris kullanımı, metal döküm ve bant okuma işlemleri uygulamalı olarak öğretilerek belirli bir çıraklık/kalfalık süreci içinde kazanılmaktaydı.",
+  "belge": "Günümüzde bu mesleğe özgü resmî bir diploma, sertifika veya yeterlilik belgesi programı bulunmamaktadır; geçmişte işletme içi usta-çırak ilişkisi yoluyla yetkinlik kazanılmaktaydı."
+ },
+ "calisma_alanlari": "Monotip Harf Döküm Makinesi Operatörlüğü, matbaacılıkta \"sıcak dizgi\" döneminin bir mesleğidir ve harflerin erimiş metalden tek tek dökülerek dizilmesi esasına dayanır. Bilgisayarlı dizgi (masaüstü yayıncılık) ve dijital/ofset baskı teknolojilerinin yaygınlaşmasıyla bu yöntem büyük ölçüde kullanım dışı kalmış, meslek Türkiye'de fiilen tarihe karışmıştır. Günümüzde aktif istihdam alanı bulunmamaktadır; bilgiye yalnızca çok sınırlı sayıda matbaa müzesi, koleksiyonerlik amaçlı atölye veya nostaljik/el yapımı baskı uygulamaları yapan butik işletmelerde ihtiyaç duyulabilir.",
+ "kazanc": {
+  "egitim_suresince": "Bu meslek için güncel, yaygın bir örgün veya yaygın eğitim programı bulunmadığından, eğitim süresince standart bir kazanç düzenlemesi mevcut değildir.",
+  "egitim_sonrasi": [
+   "Mesleğin aktif istihdam alanı bulunmadığından güncel kazanç düzeyine ilişkin somut bilgi mevcut değildir.",
+   "Çok sınırlı sayıda özel/nostaljik üretim yapan işletmelerde çalışanlar genellikle asgari ücret düzeyinde bir kazanç elde edebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Monotip harf döküm teknolojisine yönelik güncel bir mesleki eğitim ilerleme basamağı bulunmamaktadır. Bu alana ilgi duyan kişiler, mesleki ve teknik eğitim kurumlarının matbaa teknolojisi alanındaki güncel dizgi ve baskı dallarına (örneğin ofset baskı, dijital baskı) yönelerek mesleki gelişimlerini sürdürebilir.",
+  "is_hayatinda": "Bu alanda deneyim kazanan kişiler, matbaacılık sektöründeki güncel dizgi hazırlık, baskı öncesi işlemler veya baskı operatörlüğü gibi alanlara geçiş yapabilir; işletme içinde ustabaşılığa veya atölye sorumluluğuna yükselebilir."
+ },
+ "benzer_meslekler": [
+  "Linotip Operatörü",
+  "Harf Döküm Makinesi Operatörü",
+  "Monotip Operatörü",
+  "Fototip Tertip Makinesi Operatörü",
+  "Matbaacı (Genel)"
+ ],
+ "ek_bilgiler": "Monotip harf döküm makinesi, 20. yüzyılın ortalarına kadar matbaacılıkta \"sıcak dizgi\" yöntemiyle harf dökümü ve satır dizgisi yapmak için kullanılan bir teknolojidir. Bilgisayar destekli dizgi (masaüstü yayıncılık) ve dijital/ofset baskı sistemlerinin gelişmesiyle bu teknoloji kullanım dışı kalmış, meslek Türkiye'de ve dünyada büyük ölçüde tarihe karışmıştır. Bu meslek bilgi dosyası Türk Meslekler Sözlüğü'nde kayıtlı olması nedeniyle hazırlanmıştır; güncel istihdam olanakları son derece sınırlı olduğundan, meslek seçimi aşamasındaki gençlerin matbaacılık alanına yönelecekse güncel dizgi ve baskı teknolojilerine (ofset, dijital baskı vb.) odaklanması önerilir.",
+ "gorevler": [
+  "Delikli bandı makinedeki yerine koyar.",
+  "Kağıdın ucunu kılavuzlar arasından geçirip sarma makarasına tutturur.",
+  "Verilen izahata uyarak makinenin tertip çubuğunu satırların uzunluğuna göre ayarlar.",
+  "Kalıp kutusunu seçip makinedeki yerine tespit eder.",
+  "Makine yatağındaki hurufat tutma tablalarını kilitler.",
+  "Makineyi çalıştırıp döküm işinin doğru olarak devamını gözlemler, erimiş metal ve soğutma suyu ikmalini temin eder.",
+  "Hurufat tutma tablaları dolunca veya delikli bant rulosu bitince makineyi durdurur.",
+  "Hurufat tutma tablalarını çıkarıp prova basmak üzere gönderir, kağıt bantları toplayıp bir yerde muhafaza eder.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T05:25:31",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5977
+  }
+ }
+}

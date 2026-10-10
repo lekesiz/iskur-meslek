@@ -1,0 +1,77 @@
+{
+ "arac_gerec": [
+  "Harita ve notik yayınlar (seyir yardımcı kitap ve belgeler)",
+  "Manyetik ve cayro pusula",
+  "Radar ve ECDIS gibi elektronik seyir cihazları",
+  "GPS",
+  "Dürbün",
+  "Telsiz haberleşme cihazları (VHF)",
+  "Sinyal lambası / işaret feneri",
+  "Dümen ve oto-pilot sistemi",
+  "Güverte jurnali ve seyir defteri",
+  "Yükleme-boşaltma güverte ekipmanları (vinç, kreyn, sapanlar)",
+  "Can kurtarma ve yangın söndürme donanımı",
+  "Meteorolojik verileri takip eden cihazlar",
+  "Bilgisayar"
+ ],
+ "genel_ozellikler": [
+  "Açık denizde, limanlarda ve iç sularda uzun süre gemide kalmaktan sıkılmayan,",
+  "Dikkatli, tedbirli ve sorumluluk sahibi,",
+  "İyi görme ve işitme yeteneğine sahip, sağlık açısından denizcilik koşullarına uygun,",
+  "Hızlı ve doğru karar verebilen,",
+  "Ekip çalışmasına uygun, emir komuta zincirine uyabilen,",
+  "Fiziksel ve ruhsal açıdan dayanıklı,",
+  "Yabancı dil (özellikle denizcilik İngilizcesi) öğrenmeye ve kullanmaya istekli"
+ ],
+ "calisma_ortami": "Seyir Zabiti; iç sularda, körfezlerde, limanlara giriş-çıkışlarda ve açık denizde seyreden gemilerin köprü üstünde ve güvertesinde görev yapar. Çalışma ortamı geminin türüne ve hava/deniz koşullarına göre değişmekle birlikte hem açık alanda (güverte) hem de kapalı alanda (köprü üstü, kamara) çalışmayı gerektirir; rüzgâr, deniz dalgalanması, soğuk veya sıcak hava gibi dış etkenlere açıktır. Vardiya sistemiyle çalışılır; gece-gündüz, hafta sonu ve tatil günleri dâhil uzun sürelerle gemide kalınabilir ve seyahat gerektirir.\n\nGörev sırasında kaptan, diğer güverte zabitleri, makine ve güverte personeli, liman görevlileri, acenteler ve gerektiğinde yolcularla sürekli iletişim halinde olunur; telsiz veya sinyal yoluyla diğer gemiler ve kıyı istasyonlarıyla haberleşme yapılır.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi; denizcilik alanında eğitim veren mesleki ve teknik liselerin ilgili alan/dallarında verilmekte; ayrıca Ulaştırma ve Altyapı Bakanlığı'na bağlı yetkilendirilmiş gemiadamı eğitim kurumları ve kurs merkezlerinde düzenlenen temel ve yeterlilik eğitimleriyle tamamlanmaktadır.",
+  "giris_kosullari": [
+   "İlkokul/ortaokul mezunu olup ilgili mesleki ve teknik liselerin denizcilik alanına kayıt olmak veya lise/dengi okul mezunu olmak,",
+   "Gemiadamları Yönetmeliği'nde belirtilen sağlık şartlarını (özellikle görme ve işitme yeterliliği) taşımak,",
+   "İlgili eğitim kurumu veya kursların aradığı yaş ve diğer koşulları sağlamak"
+  ],
+  "sure_ve_icerik": "Mesleki ve teknik liselerde eğitim süresi dört yıldır; bu süre içinde temel denizcilik bilgisi, gemicilik, seyir bilgisi, denizde güvenlik, haberleşme ve gemi manevrası gibi mesleki derslerle birlikte genel kültür dersleri okutulur ve uygulamalı eğitim (staj) zorunludur. Liseyi tamamlayanların güverte zabitliği yeterliliğine ulaşabilmesi için Gemiadamları Yönetmeliği kapsamında belirlenen deniz hizmeti süresini tamamlamaları ve ilgili yeterlilik eğitim/kurslarında başarılı olmaları gerekir.",
+  "belge": "Mesleki ve teknik lise diploması; ayrıca Ulaştırma ve Altyapı Bakanlığı tarafından Gemiadamları Yönetmeliği kapsamında verilen güverte zabitliği yeterlilik belgesi (gemiadamı cüzdanı/yeterlilik belgesi)"
+ },
+ "calisma_alanlari": "Seyir Zabiti; iç sularda (göl, nehir, boğaz) ve kıyı sularında çalışan yük, yolcu ve feribot gibi gemilerde, özel denizcilik ve deniz nakliyat işletmelerinde, kamu kurumlarına bağlı gemilerde (liman başkanlıkları, kıyı emniyeti vb. kuruluşların gemileri) görev alabilir. Ülkemizin üç tarafının denizlerle çevrili olması ve iç su/deniz taşımacılığının sürekliliği nedeniyle iş bulma olanakları orta-iyi düzeydedir; ancak gemide uzun süreli yaşama ve vardiya sistemiyle çalışma zorunluluğu bazı adaylar için sınırlayıcı olabilir.",
+ "kazanc": {
+  "egitim_suresince": "Mesleki ve teknik lise öğrencileri eğitim süresince düzenli bir ücret almaz; staj döneminde işletmelerin belirlediği oranda staj/cep harçlığı ödenebilir, ayrıca burs ve kredi olanaklarından yararlanılabilir.",
+  "egitim_sonrasi": [
+   "Kamu kurum ve kuruluşlarına bağlı gemilerde çalışanlar 657 sayılı Devlet Memurları Kanunu'na veya ilgili toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde çalışan Seyir Zabitlerinin kazancı; çalıştığı geminin türü ve büyüklüğü, işletmenin ölçeği, kişinin deneyimi ve yeterlilik derecesine göre değişir.",
+   "Mesleğe yeni başlayanların kazancı genellikle asgari ücret düzeyinde olup, deneyim ve yeterlilik arttıkça kazanç artabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Meslek lisesi mezunları, ilgili sınav ve koşulları sağlamaları halinde denizcilik alanındaki ön lisans veya lisans programlarına (örneğin Deniz Ulaştırma ve İşletme, Gemi Makineleri İşletme Mühendisliği gibi) geçiş yaparak eğitimlerini ilerletebilir.",
+  "is_hayatinda": "Seyir Zabiti, Gemiadamları Yönetmeliği'nde belirtilen deniz hizmeti süresini tamamlayıp ilgili yeterlilik sınav ve kurslarında başarılı olarak sırasıyla ikinci zabit, birinci zabit ve kaptan yeterliliklerine yükselebilir. Ayrıca yangınla mücadele, ilkyardım, can kurtarma ve tehlikeli yük taşımacılığı gibi ek sertifikalar alarak tanker, RO-RO gibi farklı gemi tiplerinde görev alma imkânı elde edebilir."
+ },
+ "benzer_meslekler": [
+  "Diğer Gemi Güverte Zabitleri ve Kılavuz Kaptanları",
+  "Uzakyol Güverte Zabiti",
+  "Yakın Yol Güverte Zabiti",
+  "Uzakyol Vardiya Zabiti",
+  "Sınırlı Kaptan",
+  "Deniz Ulaştırma ve İşletme Teknikeri / Vardiya Zabiti"
+ ],
+ "ek_bilgiler": "Bu meslekte çalışabilmek için gemiadamı sağlık raporu alınması ve Uluslararası Denizcilik Örgütü'nün (IMO) STCW Sözleşmesi'nde belirlenen eğitim, deniz hizmeti ve yeterlilik şartlarının sağlanması gerekmektedir. Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir.",
+ "gorevler": [
+  "Limandan ayrılışta geminin kıç tarafına gider, işaret lambasıyla deniz trafiği hakkında kaptana bilgi verir.",
+  "Güverte personeli arasında iş bölümü yaparak çalışmalarını denetler.",
+  "Güverte teçhizatının bakım ve temizlik işlerini organize eder.",
+  "Harita, pusula, radar ve diğer seyrüsefer yardımcı araçlarından yararlanarak geminin seyir işlerini yürütür.",
+  "Gözcülük yapar; sinyal ışığı, telsiz veya telefonla diğer gemilerle ve kıyı ile haberleşmeyi sağlar.",
+  "Geminin yüklenip boşaltılmasını denetleyebilir.",
+  "İkinci kaptan, üçüncü kaptan veya dördüncü kaptan olarak görev yapabilir.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T11:50:06",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 7853
+  }
+ }
+}

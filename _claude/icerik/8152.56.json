@@ -1,0 +1,70 @@
+{
+ "arac_gerec": [
+  "Halı kenarı örme makinesi",
+  "İplik bobinleri (keten veya yün iplik)",
+  "Kanca ve kılavuzlar",
+  "Makine iğneleri",
+  "Kesim makası",
+  "Bakım-onarım el aletleri (anahtar takımı, tornavida vb.)",
+  "Yağlama malzemeleri",
+  "Temizlik gereçleri",
+  "Yedek iplik ve bobin stokları"
+ ],
+ "genel_ozellikler": [
+  "El ve göz becerisini eşgüdümle kullanabilen,",
+  "Dikkatli ve titiz,",
+  "Makine ve mekanik aletlere ilgi duyan,",
+  "Düzenli ve tertipli çalışabilen,",
+  "Sabırlı,",
+  "Ayakta uzun süre çalışabilecek bedensel güce sahip,",
+  "Yönergelere uygun çalışabilen"
+ ],
+ "calisma_ortami": "Halı kenarı örme makinesi işçisi, halı üreten fabrika ve atölyelerin üretim bölümlerinde kapalı mekânda çalışır. Çalışma ortamı makine sesinden dolayı genellikle gürültülüdür; yeterli havalandırma bulunmayan işyerlerinde ortamda iplik ve lif tozu bulunabilir. İş genellikle tam gün sürdürülür, işletmenin üretim yoğunluğuna göre vardiyalı çalışma söz konusu olabilir.\n\nÇalışma sırasında büyük ölçüde makine ve malzeme ile ilgilenir; zaman zaman ustabaşı, atölye şefi ve diğer işçilerle iletişim kurar. Makinenin hızlı hareketli parçaları ve kesici aletler nedeniyle iş güvenliği kurallarına dikkat edilmesi gerekir.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin örgün eğitimine yönelik ayrı bir okul programı bulunmamaktadır. Meslek genellikle işyerlerinde usta yanında uygulamalı olarak öğrenilir. Ayrıca Halk Eğitim Merkezleri ile İŞKUR tarafından açılan mesleki eğitim kurslarında tekstil/örme alanına yönelik temel bilgiler verilebilmektedir.",
+  "giris_kosullari": [
+   "İlköğretim mezunu olmak",
+   "Fiziksel olarak ayakta ve makine başında çalışmaya uygun olmak",
+   "İşyerinin belirlediği yaş ve sağlık koşullarını taşımak"
+  ],
+  "sure_ve_icerik": "Eğitim süresi resmî olarak belirlenmiş değildir; işyerinde usta yanında uygulamalı eğitim süresi işletmenin büyüklüğüne ve öğrenme hızına göre değişir. Eğitim içeriğinde bobin ve iplik takma, makineyi çalıştırma, halı kenarlarını örme işlemini yürütme, basit bakım-onarım ve iş güvenliği kuralları yer alır.",
+  "belge": "Kurum içi uygulamalı eğitimlerde resmî bir diploma verilmez; katılım sağlanan kurslardan Kurs Bitirme Belgesi alınabilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Halı kenarı örme makinesi işçileri, halı üretimi ve dokuma yapan fabrika, atölye ve imalathanelerde çalışırlar. Halı üretiminin yoğun olduğu bölgelerdeki tekstil işletmelerinde istihdam olanağı bulunmaktadır.",
+ "kazanc": {
+  "egitim_suresince": "Meslek genellikle işbaşında öğrenildiğinden, eğitim süresince işyerinin uygulamasına göre asgari ücret düzeyinde veya daha düşük bir eğitim/çıraklık ücreti söz konusu olabilir.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanların kazancı genellikle asgari ücret düzeyindedir.",
+   "Deneyim, hız ve işlerin kalitesine bağlı olarak ücret artabilir.",
+   "Özel sektörde çalışıldığından ücret, işletmenin büyüklüğüne ve çalışanın performansına göre değişebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "İşletmenin yapısına ve büyüklüğüne göre, işyeri bünyesinde düzenlenen hizmet içi eğitimlerle çalışanın bilgi ve becerisi geliştirilebilir.",
+  "is_hayatinda": "Deneyim kazandıkça usta, ustabaşı veya atölye şefi konumuna gelebilir; farklı örme ve dokuma makinelerinde çalışma yetkinliği kazanarak mesleki alanını genişletebilir."
+ },
+ "benzer_meslekler": [
+  "Halı Dokuyucu (Otomatik Tezgah)",
+  "Halı Onarıcı (Makine İle)",
+  "Halı Saçak Makinesi İşçisi",
+  "Jakarlı Halı Dokuyucu-Otomatik Tezgah",
+  "Jakarsız Halı Dokuyucu-Otomatik Tezgah",
+  "Dantel Dokuyucu (Otomatik Tezgah)"
+ ],
+ "ek_bilgiler": "",
+ "gorevler": [
+  "Kesilen halı kenarlarındaki iplik artıklarını ve pürüzleri makas ile keserek temizler.",
+  "Makine üzerine taktığı bobinlerdeki iplik uçlarını kanca ve kılavuzlardan geçirip iğnelere takar.",
+  "Makineyi çalıştırır, halı kenarlarını makineye sürerek kenarların otomatik olarak örülmesini sağlar ve makineyi temizler.",
+  "Makinenin bakım ve onarımını yapar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T14:01:45",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 3838
+  }
+ }
+}

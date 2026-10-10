@@ -1,0 +1,78 @@
+{
+ "arac_gerec": [
+  "Otomatik kasalama ve paletleme makinesi",
+  "Yıkama-dolum bandı (konveyör sistemi)",
+  "Boş ve dolu şişe kasaları",
+  "Paletler",
+  "Şişe ve kasa taşıma bantları",
+  "Yabancı madde/kalite kontrol düzenekleri",
+  "Kişisel koruyucu donanım (eldiven, iş ayakkabısı, koruyucu gözlük, kulaklık)",
+  "El arabası",
+  "Basit bakım takımları (anahtar, tornavida, yağdanlık)",
+  "Temizlik malzemeleri"
+ ],
+ "benzer_meslekler": [
+  "Kutu Bira Dolum Makinesi Operatörü",
+  "Su Şişeleme Makinesi Operatörü",
+  "Ambalajcı (Makine İle)",
+  "Kolileme Makinesi Operatörü",
+  "Şişe Etiketleme Makinesi Operatörü",
+  "Palet Etiketleme İşçisi"
+ ],
+ "calisma_alanlari": "Bira kasalama işçileri, başta bira fabrikaları olmak üzere şişe ve kasa ile dolum yapılan içecek üretim tesislerinde istihdam edilirler. Çalışma alanları, üretim tesisinin bulunduğu şehirler ve sanayi bölgeleriyle sınırlıdır; bu nedenle iş bulma olanakları, bira ve benzeri içecek üretiminin yoğun olduğu illerde daha fazladır. Sektördeki otomasyon seviyesinin artması, bu meslekte çalışanların makine kullanımı ve basit arıza tespiti konusunda bilgili olmasını önemli kılmaktadır.",
+ "calisma_ortami": "Bira kasalama işçileri, bira üretim tesislerinin dolum ve paketleme bölümlerinde, kapalı ve genellikle gürültülü, nemli, yüksek hızda çalışan bantların ve makinelerin bulunduğu ortamlarda görev yaparlar. Çalışma süresince büyük ölçüde ayakta durulur, sürekli hareket ve dikkat gerektirir; kırılan şişe, nemli zemin gibi etkenler nedeniyle iş kazası riski bulunduğundan iş sağlığı ve güvenliği kurallarına uyulması önemlidir.\\n\\nÜretim tesisinin çalışma düzenine bağlı olarak vardiyalı çalışma söz konusu olabilir. Meslek elemanları; hat sorumluları, bakım-onarım personeli ve diğer üretim işçileriyle sürekli iletişim halinde, ekip çalışması gerektiren bir düzende görev yaparlar.",
+ "egitim": {
+  "verildigi_yerler": "Bu meslek için örgün eğitimde ayrı bir okul türü veya programı bulunmamaktadır. Meslek elemanları genellikle işyerinde usta yanında eğitim yoluyla veya İŞKUR'un düzenlediği işbaşı eğitim programları ve mesleki eğitim kursları ile halk eğitim merkezlerinin açtığı paketleme/ambalajlama alanındaki kurslar aracılığıyla yetişmektedir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "Fiziksel olarak uzun süre ayakta çalışmaya ve tekrarlı hareketlere uygun olmak",
+   "İşbaşı eğitim programları ve kurslar için İŞKUR'a kayıtlı işsiz olmak (ilgili programlara göre değişebilir)"
+  ],
+  "sure_ve_icerik": "Mesleğin eğitimi standart bir süre ve müfredata bağlı olmayıp, işyerinde usta yanında uygulamalı olarak verilir. İşbaşı eğitim programları ve kurslarda süre, programın içeriğine göre değişmekte; genel olarak kasalama/paketleme makinelerinin tanıtımı, çalışma prensipleri, iş güvenliği, hijyen kuralları ve temel bakım bilgileri konularını kapsamaktadır.",
+  "belge": "İşbaşı eğitim programı veya kurs tamamlandığında katılım/kurs bitirme belgesi verilebilir. Mesleki Yeterlilik Kurumu (MYK) tarafından ilgili alanda yetkilendirilmiş bir belge bulunması halinde bu belge istihdamda tercih sebebi olabilir."
+ },
+ "ek_bilgiler": "Gıda sektöründe çalışıldığından hijyen kurallarına uyum ve periyodik sağlık muayenesi gerekebilir. İşin niteliğine göre ağır kaldırma ve tekrarlı hareket içermesi nedeniyle fiziksel uygunluk önem taşır.",
+ "genel_ozellikler": [
+  "Dikkatli ve gözlem gücü yüksek,",
+  "El ve göz koordinasyonuna sahip,",
+  "Fiziksel olarak dayanıklı ve uzun süre ayakta çalışabilen,",
+  "Takım çalışmasına uyumlu,",
+  "Düzenli, disiplinli ve kurallara bağlı,",
+  "Sorumluluk sahibi,",
+  "Vardiyalı çalışma düzenine uyum sağlayabilen"
+ ],
+ "gorevler": [
+  "Çalışma alanını kontrol eder ve kasalama makinelerini kullanıma hazırlar.",
+  "Banda gelen paletteki kasaların otomatik makineyle istiften alınmasını ve banda beslenmesini sağlar.",
+  "Yıkama-dolum bandında ilerleyen boş şişe kasalarının yabancı madde kontrolünü yapar.",
+  "Boş şişelerin otomatik makineyle kasa içinden çıkarılmasını ve banda bırakılmasını sağlar.",
+  "Boş şişe ve boş kasaların ayrı ayrı bantlardan yıkama bölümlerine gitmelerini sağlar.",
+  "Dolum bölümünden gelen şişelerin yıkanmış kasalara otomatik olarak yerleştirilmesini sağlar.",
+  "Kasalanan şişelerde kırık, kapaksız, eksik dolum vb. kontrolleri yapar, hatalı olanları ayırır.",
+  "Kasaların makinede otomatik paletleme işlemlerini yapar.",
+  "Kasalama işlemlerinin sürekliliğini sağlayıcı tedbirleri alır.",
+  "Tespit edilen arıza ve aksaklıkların giderilmesini sağlar.",
+  "Çalışma alanının temizlenmesini sağlar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Bu meslekte örgün eğitimde kademeli bir ilerleme sistemi bulunmamaktadır. Deneyim kazanan işçiler, işletme içi eğitimler ve kurslarla ilgili makine ve hat bilgisini geliştirebilir.",
+  "is_hayatinda": "İş hayatında deneyim ve performansa bağlı olarak hat sorumluluğu, vardiya sorumluluğu veya operatörlük gibi görevlere, zaman içinde usta başılığa kadar ilerleme mümkündür."
+ },
+ "kazanc": {
+  "egitim_suresince": "İşbaşı eğitim programı kapsamında eğitim alınması halinde katılımcılara İŞKUR tarafından günlük cep harçlığı ödenebilir; işyerinde usta yanında eğitimde ise genellikle ayrı bir eğitim ücreti söz konusu değildir.",
+  "egitim_sonrasi": [
+   "Meslekte yeni başlayanlar genellikle asgari ücret düzeyinde çalışmaya başlar.",
+   "Özel sektörde çalışanların ücreti; deneyim, işletme büyüklüğü ve toplu iş sözleşmesi varsa buna bağlı olarak değişebilir.",
+   "Vardiyalı çalışma ve mesai uygulamaları kazancı etkileyebilir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T17:12:25",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 4584
+  }
+ }
+}

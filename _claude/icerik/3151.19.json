@@ -1,0 +1,76 @@
+{
+ "arac_gerec": [
+  "Ana makine (dizel/motor) ve yardımcı motorlar",
+  "Jeneratörler ve elektrik panoları",
+  "Yakıt, yağ, su ve balast transfer pompaları",
+  "Kompresörler",
+  "Soğutma ve ısı değiştirici sistemleri",
+  "Yakıt ve yağ filtreleri",
+  "Basınç, sıcaklık ve seviye gösterge/ölçüm cihazları",
+  "Multimetre, manometre, termometre gibi ölçüm aletleri",
+  "El aletleri (anahtar takımları, tornavida, pense vb.)",
+  "Yangın söndürme ve acil durum emniyet ekipmanları",
+  "Makine jurnali ve kayıt defterleri",
+  "Kişisel koruyucu donanım (iş elbisesi, eldiven, kulak koruyucu, güvenlik ayakkabısı)"
+ ],
+ "genel_ozellikler": [
+  "Mekanik ve teknik işlere ilgili,",
+  "Dikkatli ve sorumluluk sahibi,",
+  "Fiziksel olarak dayanıklı,",
+  "Takım çalışmasına yatkın,",
+  "Acil durumlarda hızlı ve doğru karar verebilen,",
+  "Uzun süre aileden ayrı, denizde kalmaya istekli,",
+  "El ve beden becerisine sahip,",
+  "İş sağlığı ve güvenliği kurallarına duyarlı,"
+ ],
+ "gorevler": [
+  "Ana makine ve yardımcı motorların günlük kontrollerini yapar.",
+  "Yakıt, yağ ve su transfer süreçlerini yönetir.",
+  "Makine dairesindeki mekanik ve elektrikli arızaları giderir.",
+  "Gemi bakım tutum planına göre periyodik servis işlerini yürütür.",
+  "Makine jurnali kayıtlarını tutar ve yakıt sarfiyatını raporlar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "calisma_ortami": "Sınırlı başmakinistler, belirli motor gücü ve tonajın altındaki gemilerin (kısa mesafeli yük ve yolcu gemileri, feribotlar, balıkçı gemileri, römorkörler, kılavuzluk tekneleri gibi) makine dairelerinde çalışır. Çalışma ortamı kapalı, sıcak, gürültülü ve titreşimli olup kısıtlı hareket alanına sahiptir; yağ ve yakıt kokusu, nem gibi fiziksel koşullarla karşı karşıya kalınır.\n\nÇalışma genellikle vardiya sistemiyle, gece-gündüz kesintisiz olarak sürer; sefer süresince denizde kalınır ve aile ortamından uzak kalma durumu söz konusudur. Görev sırasında kaptan, güverte zabitleri ve diğer gemi adamları ile sürekli iletişim ve koordinasyon içinde çalışılır. Deniz ortamının getirdiği riskler nedeniyle iş sağlığı, iş güvenliği ve deniz emniyeti kurallarına titizlikle uyulması; yangın, su baskını gibi acil durumlara karşı her an hazırlıklı olunması gerekir.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğe temel oluşturan bilgi ve beceriler, mesleki ve teknik ortaöğretim kurumlarının denizcilik alanı gemi makineleri ile ilgili dallarında verilmektedir. \"Sınırlı Başmakinist\" unvanı tek başına bir okul diploması değil; Ulaştırma ve Altyapı Bakanlığı Denizcilik Genel Müdürlüğü tarafından, gemiadamlarının eğitim, belgelendirme ve sınavına ilişkin mevzuat çerçevesinde verilen bir gemiadamı yeterlik belgesidir.",
+  "giris_kosullari": [
+   "Ortaöğretimi (lise ve dengi) tamamlamış olmak",
+   "Gemiadamı olmaya engel bir sağlık durumu bulunmadığını gösteren \"Gemiadamı Sağlık Yeterlik Belgesi\"ne sahip olmak",
+   "Denizcilik alanında mesleki eğitim almış olmak ve/veya ilgili yeterlik için öngörülen asgari deniz hizmeti süresini tamamlamış olmak",
+   "Yetkili kurum ve kuruluşlarca açılan ilgili kurs ve sınavlarda başarılı olmak"
+  ],
+  "sure_ve_icerik": "Bu yeterliğe genellikle denizcilik meslek liselerinin gemi makineleri alanından mezun olan veya ilgili mesleki eğitimi tamamlayıp belirli süre gemide fiilen çalışan (deniz hizmeti) kişiler, Ulaştırma ve Altyapı Bakanlığı'nca yetkilendirilen kurumlarda açılan kurs ve sınavları tamamladıktan sonra ulaşmaktadır. Eğitim ve sınav içeriği; gemi makineleri ve motor bilgisi, yakıt-yağ-su sistemleri, gemi elektriği, iş sağlığı ve güvenliği, yangın ve acil durum yönetimi ile denizcilik mevzuatı gibi konuları kapsamaktadır.",
+  "belge": "Eğitimini ve öngörülen deniz hizmetini tamamlayanlara, Ulaştırma ve Altyapı Bakanlığı Denizcilik Genel Müdürlüğü tarafından \"Sınırlı Başmakinist\" yeterliğini gösteren gemiadamı yeterlik belgesi/cüzdanı düzenlenir."
+ },
+ "calisma_alanlari": "Sınırlı başmakinistler; belirli motor gücü ve tonajın altındaki ticari yük gemileri, yolcu gemileri, feribotlar, balıkçı gemileri, römorkörler, kılavuz tekneleri ve kabotaj hattında çalışan diğer deniz araçlarının makine dairelerinde görev alırlar. Ayrıca liman işletmeleri, denizcilik şirketleri ve gemi bakım-onarım firmalarında da istihdam edilebilirler. İş bulma olanakları, ülkemizdeki kabotaj taşımacılığı, balıkçılık ve kısa mesafe deniz ulaştırması sektörlerindeki hareketliliğe bağlı olarak değişmektedir.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğe yönelik mesleki eğitim sürecinde, 3308 sayılı Mesleki Eğitim Kanunu kapsamında işletmelerde eğitim gören öğrencilere mevzuatta belirtilen oranlarda ücret ödenir; ayrıca bu öğrencilerin iş kazası ve meslek hastalığı sigortası primleri devletçe karşılanır.",
+  "egitim_sonrasi": [
+   "Kazanç, çalışılan geminin türü ve büyüklüğü, işletmenin yapısı, deneyim ve iş sözleşmesi koşullarına göre değişmektedir.",
+   "Özel sektörde ücretler işveren ile çalışan arasındaki anlaşmaya ve sektördeki ücret düzeyine göre belirlenir; mesleğe yeni başlayanlarda kazanç genellikle asgari ücret düzeyinde olmaktadır.",
+   "Deneyim, yabancı dil bilgisi ve üst yeterlik belgelerine sahip olma arttıkça kazanç düzeyi de yükselebilmektedir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Sınırlı başmakinist yeterliğine sahip olanlar, öngörülen deniz hizmetini tamamlayıp ilave eğitim ve sınavlarda başarılı oldukları takdirde daha yüksek motor gücü ve tonajdaki gemilerde çalışmayı sağlayan üst düzey yeterliklere geçiş yapabilirler. Ayrıca ilgili ön lisans ve lisans düzeyindeki denizcilik/gemi makineleri işletme mühendisliği programlarına yönelerek mesleki bilgi ve unvanlarını geliştirebilirler.",
+  "is_hayatinda": "Deneyim kazandıkça ve üst yeterlik belgeleri aldıkça daha büyük ve daha yüksek güçteki gemilerde başmakinist veya baş mühendis olarak çalışabilir, işletmelerde amirlik ve şeflik gibi görevlere yükselebilirler. Yabancı dil bilgisi, meslekte ilerlemeyi ve yabancı bayraklı gemilerde iş bulmayı kolaylaştıran önemli bir unsurdur."
+ },
+ "benzer_meslekler": [
+  "Gemi Baş Makine Zabiti",
+  "Gemi Makine Zabiti",
+  "Sınırlı Makine Zabiti",
+  "Çarkçıbaşı (Gemi)",
+  "Uzakyol Başmühendisi/Başmakinisti",
+  "Deniz Buhar ve Motor Makinisti"
+ ],
+ "ek_bilgiler": "Bu meslek, Ulaştırma ve Altyapı Bakanlığı tarafından düzenlenen gemiadamı yeterlikleri kapsamında yer aldığından, görev yapabilmek için belirli bir deniz hizmeti süresinin tamamlanması ve geçerli bir sağlık yeterlik belgesine sahip olunması gerekmektedir. Açık deniz koşullarında çalışmanın getirdiği riskler nedeniyle iş sağlığı ve güvenliği kurallarına titizlikle uyulması büyük önem taşır.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T11:45:32",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 8120
+  }
+ }
+}

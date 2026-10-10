@@ -1,0 +1,78 @@
+{
+ "gorevler": [
+  "Verilen operasyonel görevleri sahada icra eder.",
+  "Nöbet ve koruma hizmetlerini yürütür.",
+  "Silah ve araçların kullanıma hazır olmasını sağlar.",
+  "Suçla mücadele ve devriye faaliyetlerine katılır.",
+  "Takım veya tim içindeki koordinasyona destek verir.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "arac_gerec": [
+  "Hizmet tabancası ve uzun namlulu silahlar",
+  "Mühimmat ve mühimmat taşıma teçhizatı",
+  "Bireysel koruyucu teçhizat (çelik yelek, kask, miğfer)",
+  "Telsiz ve haberleşme cihazları",
+  "Devriye ve operasyon araçları",
+  "El feneri ve işaret fişeği",
+  "Kelepçe ve zapt-tutma ekipmanları",
+  "Dürbün, gece görüş ve termal görüntüleme cihazları",
+  "GPS ve harita okuma ekipmanları",
+  "İlk yardım malzemeleri",
+  "Kişisel teçhizat çantası ve kemer takımı",
+  "Koruyucu gaz maskesi"
+ ],
+ "genel_ozellikler": [
+  "Fiziksel ve zihinsel olarak sağlıklı ve dayanıklı,",
+  "Disiplinli, kurallara ve hiyerarşiye bağlı,",
+  "Stresli ve ani gelişen durumlarda soğukkanlı ve kontrollü,",
+  "Cesur, kararlı ve tedbirli,",
+  "Takım çalışmasına uyumlu ve işbirliğine açık,",
+  "Sorumluluk sahibi ve güvenilir,",
+  "Vatan ve millet sevgisiyle hareket eden,",
+  "Farklı iklim ve coğrafi koşullara uyum sağlayabilen kişiler olmaları gerekir."
+ ],
+ "calisma_ortami": "Jandarma Uzman Çavuşlar, görev yerine göre kapalı mekanlarda (karakol, nöbet kulesi, büro) veya açık havada (devriye, operasyon sahası, sınır bölgesi) çalışır. Görevin niteliği gereği dağlık, kırsal veya zor coğrafi koşullarda, farklı mevsim ve hava şartlarında saha hizmeti verebilirler.\n\nÇalışma, vardiyalı ve nöbet sistemine dayanır; mesai saatleri düzensiz olabilir, gerektiğinde gece çalışması ve uzun süreli görevler söz konusudur. Meslek, silahlı görev yapma, operasyonel riskler ve fiziksel zorlanma içerir. Görev sırasında amirleri, diğer jandarma personeli, kolluk kuvvetleri ve halkla sürekli iletişim halinde çalışırlar; atandıkları birliğe göre yurdun farklı bölgelerine görevlendirilebilirler.",
+ "egitim": {
+  "verildigi_yerler": "Jandarma ve Sahil Güvenlik Akademisi bünyesindeki ilgili eğitim merkezleri (Jandarma Uzman Erbaş temel eğitim programları)",
+  "giris_kosullari": [
+   "Lise ve dengi okul mezunu olmak",
+   "İlgili mevzuatta belirlenen yaş sınırları içinde bulunmak",
+   "Türkiye Cumhuriyeti vatandaşı olmak",
+   "Güvenlik soruşturması ve arşiv araştırması sonucu olumlu olmak",
+   "Belirlenen sağlık ve fiziki yeterlilik şartlarını (sınavlarını) karşılamak",
+   "Jandarma Genel Komutanlığı tarafından açılan yazılı/sözlü sınav ve mülakat süreçlerini başarıyla tamamlamak"
+  ],
+  "sure_ve_icerik": "Kabul edilen adaylar, Jandarma ve Sahil Güvenlik Akademisi bünyesinde belirli bir süre temel askerlik eğitimi ile birlikte jandarma hizmetlerine yönelik mesleki ve uygulamalı eğitim alır. Eğitim; silah kullanımı, fiziki yeterlilik, asayiş ve devriye uygulamaları, hukuk ve mevzuat gibi konuları kapsar. Eğitimi başarıyla tamamlayanlar Jandarma Uzman Çavuş olarak atanır.",
+  "belge": "Jandarma Uzman Çavuş olarak atama/nasıp belgesi"
+ },
+ "calisma_alanlari": "Jandarma Uzman Çavuşlar, Jandarma Genel Komutanlığına bağlı il ve ilçe jandarma komutanlıkları, jandarma karakolları, sınır birlikleri, asayiş ve devriye timleri, trafik ve çevik kuvvet birimleri gibi jandarma teşkilatının farklı birimlerinde istihdam edilir. Görev yerleri, hizmet ihtiyacına göre yurt genelinde değişebilir.",
+ "kazanc": {
+  "egitim_suresince": "Eğitim sürecinde adaylar, kamu kaynaklı bir ödenek/harçlık alır; barınma ve iaşe gibi temel ihtiyaçlar genellikle kurum tarafından karşılanır.",
+  "egitim_sonrasi": [
+   "Jandarma Uzman Çavuşlar, 3269 sayılı Uzman Erbaş Kanunu ve ilgili mevzuat kapsamında kamu personeli statüsünde maaş ve özlük haklarına sahip olur.",
+   "Kazanç; rütbe, kıdem, hizmet yılı, görev yeri ve risk tazminatları gibi unsurlara göre değişiklik gösterir.",
+   "Yeni atananlarda kazanç, kurum tarafından belirlenen başlangıç ücret seviyesindedir ve kıdemle birlikte artış gösterir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Hizmet içi eğitimler ve belirli hizmet sürelerini tamamlama şartıyla kıdem sırası (uzman onbaşılıktan uzman çavuşluğa, kıdemli uzman çavuşluğa) ilerleyebilir; ayrıca açılan sınavlarla astsubaylığa geçiş imkanı aranabilir.",
+  "is_hayatinda": "Hizmet yılı ve performansa bağlı olarak kıdem ve rütbe içinde ilerleme sağlanır; belirlenen hizmet süresini dolduranlar emeklilik hakkı kazanır. Farklı birim ve görevlere (asayiş, sınır, çevik kuvvet vb.) atanma yoluyla deneyim çeşitlendirilebilir."
+ },
+ "benzer_meslekler": [
+  "Uzman Jandarma",
+  "Jandarma Uzman Onbaşı",
+  "Uzman Çavuş",
+  "Uzman Onbaşı",
+  "Astsubay Çavuş (Jandarma)",
+  "Sahil Güvenlik Uzman Çavuş"
+ ],
+ "ek_bilgiler": "Bu mesleğe girişte belirlenen yaş, sağlık, boy-kilo gibi fiziki yeterlilik şartları ile güvenlik soruşturması ve arşiv araştırması aranır. İstihdam, 3269 sayılı Uzman Erbaş Kanunu kapsamında gerçekleşir ve görev yeri hizmet ihtiyacına göre değişebilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-07T17:45:01",
+  "usage": {
+   "input_tokens": 4,
+   "output_tokens": 7055
+  }
+ }
+}

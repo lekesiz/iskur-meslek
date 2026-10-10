@@ -1,0 +1,78 @@
+{
+ "arac_gerec": [
+  "Alanı ile ilgili meslek dersleri müfredat programı, yıllık ve günlük çalışma planları, ders ve yoklama defterleri, not çizelgeleri",
+  "Ders kitapları, yardımcı kitaplar, iş ve işlem yaprakları, bilgi yaprakları, meslek alanına ilişkin teknik yayınlar",
+  "Eğitim araçları (bilgisayar, projeksiyon, eğitim yazılımları, görsel sunum materyalleri)",
+  "Kuyum atölyesine ait eritme ocağı, pota ve döküm kalıpları",
+  "Hassas terazi ve ayar/saflık ölçüm cihazları",
+  "Testere, eğe seti, pens, cımbız, çekiç, örs gibi el aletleri",
+  "Lehim takımı, hamlaç/alevli üfleç",
+  "Zımba, kalıp, pres ve şekillendirme araçları",
+  "Taşlama, zımparalama ve parlatma (polisaj) makineleri",
+  "Bilgisayar destekli tasarım (CAD/CAM) yazılımları ve varsa 3 boyutlu yazıcı/model döküm ekipmanları",
+  "Kişisel koruyucu donanım (gözlük, eldiven, maske, önlük)"
+ ],
+ "genel_ozellikler": [
+  "El ve göz koordinasyonu iyi, el becerisine sahip",
+  "Estetik duyguya, şekil ve renk algısına sahip, tasarıma ilgili",
+  "Dikkatli, sabırlı ve işine özen gösteren",
+  "Düşüncelerini açık bir biçimde aktarabilen ve iyi bir öğrenme ortamı sağlayabilen",
+  "İnsanlarla iyi iletişim kurabilen, hoşgörülü, öğrencilerin duygu ve düşüncelerini anlayabilen",
+  "Kendini ve mesleki bilgisini sürekli geliştirmeye istekli",
+  "Sorumluluk sahibi, düzenli ve titiz çalışabilen",
+  "Girişimci ve yaratıcı"
+ ],
+ "gorevler": [
+  "Eğitiminden sorumlu olduğu grubun düzeyine uygun bir çalışma planı hazırlar",
+  "Sorumlu olduğu atölye, laboratuvar, işlik vb. yerleri eğitime hazır durumda tutar",
+  "Kendisine ayrılan ders saatlerinde çalışma planını uygulayarak öğrencilere kuyumculuk teknolojisi alanı ile ilgili bilgi ve beceriler kazandırır",
+  "Öğrencilerin başarılarını ölçer, değerlendirir, sonuçları idareye bildirir",
+  "Alanı ile ilgili gelişmeleri izler, ihtiyaçları saptar, bunların öğretim programlarına yansıtılması için ilgililere önerilerde bulunur",
+  "Öğrencilerin gelişimlerine katkıda bulunacak eğitim-öğretim yöntemlerini geliştirir ve uygular",
+  "Nöbetçi olduğu günlerde okulun düzen ve disiplinini sağlar",
+  "Öğrencilerin gelişimlerini izler, sorunlarının çözümüne yardımcı olur",
+  "Mesleği ile ilgili alanındaki gelişmeleri takip eder ve uygular",
+  "Mesleki gelişim faaliyetlerinde bulunur"
+ ],
+ "calisma_ortami": "\"Kuyumculuk Teknolojisi Öğretmeni, görevini genellikle ortaöğretim düzeyindeki mesleki ve teknik eğitim kurumlarının sınıf ve atölye ortamlarında yürütür. Teorik derslerde sınıf ortamında, uygulamalı derslerde ise kuyum atölyesinde çalışır; bu nedenle görevini zaman zaman ayakta ve hareketli olarak yerine getirir. Atölye ortamında eritme, lehim ve parlatma gibi işlemler sırasında ısı, koku ve ince toz oluşabileceğinden iş sağlığı ve güvenliği kurallarına uyulması, havalandırma ve kişisel koruyucu donanım kullanımı önem taşır; ayrıca kesici, delici ve ısıtıcı aletlerle çalışıldığından dikkat ve özen gerektirir.\\n\\nÇalışma saatleri genel olarak okulun ders programına göre gündüz saatleriyle sınırlıdır; nöbet görevi olan günlerde çalışma süresi uzayabilir. Meslek, çalışma sırasında öğrenciler, diğer öğretmenler, okul idaresi ve veliler ile sürekli iletişim ve etkileşim gerektirir.\"",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin Türkiye'deki üniversitelerin Eğitim Fakültelerinde doğrudan \"Kuyumculuk Teknolojisi Öğretmenliği\" adıyla ayrı bir lisans programı bulunmamaktadır. Bu alanda öğretmen olmak isteyenler genellikle üniversitelerin ilgili fakültelerinin (örneğin Güzel Sanatlar, Sanat ve Tasarım veya Mesleki/Teknik Eğitim Fakülteleri bünyesindeki) kuyumculuk, takı tasarımı veya süs taşları işlemeciliği ile ilgili lisans programlarından mezun olur; ardından Milli Eğitim Bakanlığı ve Yükseköğretim Kurulu (YÖK) iş birliğiyle açılan Öğretmenlik Meslek Bilgisi Tezsiz Yüksek Lisans Programı ya da Pedagojik Formasyon Eğitimi Sertifika Programını tamamlayarak öğretmenlik için gerekli pedagojik yeterliliği kazanır.",
+  "giris_kosullari": [
+   "Lise veya dengi okul mezunu olmak",
+   "YKS (Yükseköğretim Kurumları Sınavı) sonucuna göre ilgili lisans programının giriş koşullarını ve taban puanını sağlamak",
+   "İlgili alanlardaki ön lisans programlarından mezun olanlar, Dikey Geçiş Sınavı (DGS) ile uygun lisans programlarına geçiş yapabilir"
+  ],
+  "sure_ve_icerik": "İlgili lisans programının eğitim süresi 4 yıldır. Eğitim süresince kuyumculuk teknolojisi ve tasarımı ile ilgili uygulamalı meslek dersleri ağırlıklı olarak okutulur; atölye çalışmaları ve stajlar programın önemli bir parçasıdır. Öğretmen olabilmek için bu lisans eğitiminin yanı sıra pedagojik formasyon eğitimi veya öğretmenlik meslek bilgisi tezsiz yüksek lisans programının da tamamlanması gerekir.",
+  "belge": "Lisans diploması ile birlikte pedagojik formasyon eğitimi sertifikası veya öğretmenlik meslek bilgisi tezsiz yüksek lisans diploması alınır."
+ },
+ "calisma_alanlari": "\"Kuyumculuk Teknolojisi Öğretmenleri başlıca, Milli Eğitim Bakanlığına bağlı mesleki ve teknik Anadolu liselerinin kuyumculuk teknolojisi alanı bulunan okullarında atölye/meslek dersi öğretmeni olarak istihdam edilir. Ayrıca Halk Eğitim Merkezleri ve diğer yaygın eğitim kurumlarında usta öğretici olarak, özel kurs ve eğitim merkezlerinde eğitmen olarak çalışabilirler. Kamu istihdamı genellikle MEB bünyesinde atama yoluyla gerçekleşir; alandaki kontenjanlar ve atama sayısı sınırlı olabilir.\"",
+ "kazanc": {
+  "egitim_suresince": "Lisans öğrenimi süresince diğer üniversite öğrencileri gibi KYK burs ve kredi imkanlarından yararlanılabilir; bazı üniversite ve vakıflar başarı veya ihtiyaç bursu sağlayabilir.",
+  "egitim_sonrasi": [
+   "Kamuya bağlı okullarda çalışan öğretmenler 657 sayılı Devlet Memurları Kanunu'na göre maaş ve ek ders ücreti alır; kazanç kıdem ve ek ders saatine göre değişir.",
+   "Halk eğitim merkezlerinde usta öğretici olarak çalışanların ücreti ders saati karşılığı belirlenir.",
+   "Özel kurs ve eğitim merkezlerinde çalışanların kazancı kurumun büyüklüğüne, deneyime ve karşılıklı anlaşmaya göre değişir; işe yeni başlayanlarda genellikle asgari ücret düzeyinde olabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Alanında yüksek lisans veya doktora yaparak uzmanlaşabilir, üniversitelerde akademik kadrolarda görev alabilir; ayrıca kuyumculuk teknolojisi ve tasarımı ile ilgili sertifika programlarına katılarak bilgisini güncelleyebilir.",
+  "is_hayatinda": "Kıdem kazandıkça zümre başkanlığı, bölüm/branş şefliği gibi görevler üstlenebilir; idarecilik eğitimi ve sınavlarıyla okul müdür yardımcılığı veya müdürlüğü gibi görevlere yükselebilir. Ayrıca kendi kuyum atölyesini veya kursunu açarak serbest çalışabilir."
+ },
+ "benzer_meslekler": [
+  "Seramik ve Cam Teknolojisi Öğretmeni",
+  "Plastik Sanatlar Öğretmeni",
+  "Görsel Sanatlar Öğretmeni",
+  "Müzik Aletleri Yapımı Öğretmeni",
+  "Giyim Üretim Teknolojisi Öğretmeni",
+  "İç Mekan Dekorasyon Öğretmeni"
+ ],
+ "ek_bilgiler": "\"Kuyum atölyesinde eritme, lehimleme ve kimyasal madde (asit vb.) kullanımı gibi işlemler yapıldığından iş sağlığı ve güvenliği kurallarına özel önem verilmesi gerekir. Mesleki Yeterlilik Kurumu (MYK) tarafından kuyumculuk alanında düzenlenen mesleki yeterlilik belgeleri, bu alanda görev yapacak öğretmenler için tercih sebebi olabilir. Alanın kontenjanı sınırlı olduğundan, öğretmen atamalarında talep ve kadro durumu okuldan okula değişebilir.\"",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T02:54:16",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6507
+  }
+ }
+}

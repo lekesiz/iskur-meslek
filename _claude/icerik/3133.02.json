@@ -1,0 +1,72 @@
+{
+ "arac_gerec": [
+  "Distilasyon kolonları ve reaktör üniteleri",
+  "Merkezi kontrol paneli ve otomasyon/SCADA sistemleri",
+  "Sıcaklık, basınç ve akış ölçüm göstergeleri",
+  "Vanalar, sübaplar ve emniyet valfleri",
+  "Pompalar ve kompresörler",
+  "Isı eşanjörleri ve borulama sistemleri",
+  "Numune alma ekipmanları ve numune kapları",
+  "Alarm ve acil durdurma (güvenlik) sistemleri",
+  "Kişisel koruyucu donanım (maske, eldiven, koruyucu elbise, baret, gözlük)",
+  "Basit el aletleri",
+  "Yangın söndürme ve gaz algılama cihazları"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve tedbirli,",
+  "Sorumluluk sahibi ve kurallara uyan,",
+  "Analitik düşünme yeteneğine sahip,",
+  "Hızlı ve doğru karar verebilen,",
+  "Matematik, fizik ve kimya alanlarına ilgili,",
+  "Teknik sistemleri ve otomasyonu anlayabilen,",
+  "Ekip çalışmasına yatkın, iletişimi güçlü,",
+  "Stresli ve acil durumlarda soğukkanlı kalabilen"
+ ],
+ "calisma_ortami": "Kimyasal Damıtma ve Reaktörü Operatörleri, genellikle kimya, petrokimya veya benzeri üretim tesislerinin kontrol odalarında ve üretim sahasında çalışır. Çalışma ortamı kapalı mekân niteliğinde olup, kimyasal maddelerin bulunması nedeniyle koku, buhar ve bazı durumlarda gürültü söz konusu olabilir. Yüksek basınç ve sıcaklıkta çalışan ekipmanlar nedeniyle iş kazası riski bulunduğundan iş sağlığı ve güvenliği kurallarına titizlikle uyulması ve kişisel koruyucu donanım kullanılması gerekir.\n\nÜretim genellikle kesintisiz sürdüğü için çalışma vardiyalar hâlinde (gece dâhil) yürütülür. Operatör, çalışması sırasında mühendisler, diğer operatörler, bakım personeli ve laboratuvar çalışanları ile sürekli iletişim ve iş birliği içinde bulunur; büyük ölçüde ekip hâlinde, bazen de tek başına panel başında görev yapar.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi, mesleki ve teknik ortaöğretim okul/kurumlarının Kimya Teknolojisi alanı ile ilgili dallarında verilmektedir. Ayrıca Halk Eğitim Merkezleri ile İşkur tarafından açılan mesleki eğitim kurslarında da bu alanda eğitim ve sertifika programlarına katılmak mümkündür. Birçok işletmede bu görev işbaşında usta operatör gözetiminde eğitilerek de kazandırılmaktadır.",
+  "giris_kosullari": [
+   "Ortaokulu tamamlamış olmak,",
+   "Milli Eğitim Bakanlığınca okul türlerine ve alan/dala göre belirlenen giriş koşullarını taşımak."
+  ],
+  "sure_ve_icerik": "Mesleki ve teknik ortaöğretimde eğitim süresi 4 yıldır. 9. sınıfta ortak genel kültür dersleri ve alanın temel ortak kazanımlarını içeren dersler verilir; yıl sonunda öğrenci ilgili alan/dalını belirler. 10, 11 ve 12. sınıflarda ise alana ait teorik ve uygulamalı meslek dersleri, işletme ve atölye ortamlarında uygulamalı çalışmalarla desteklenerek verilir. Mesleğe ayrıca kurs yoluyla veya işbaşı eğitimle de girilebilmektedir.",
+  "belge": "Mesleki ve teknik ortaöğretim yoluyla eğitimi tamamlayanlara Meslek Lisesi diploması verilir. Kurs yoluyla eğitim alanlara ise kursu düzenleyen kurum tarafından katılım/başarı belgesi verilir."
+ },
+ "calisma_alanlari": "Kimyasal Damıtma ve Reaktörü Operatörleri; kimya, petrokimya, rafineri, gübre, ilaç, boya, plastik ve benzeri kimyasal madde üreten sanayi kuruluşlarının üretim tesislerinde istihdam edilebilirler. Bu tesislerde distilasyon ve reaksiyon süreçlerinin yürütüldüğü üretim hatlarında ve kontrol odalarında çalışırlar. Kimya sektörünün üretim hacmine ve yatırımlarına bağlı olarak iş bulma imkânları değişkenlik gösterebilir.",
+ "gorevler": [
+  "Distilasyon ve reaktör ünitelerini üretime hazırlar.",
+  "Akış hızı, sıcaklık ve basınç parametrelerini ayarlar.",
+  "Kimyasal reaksiyon veya ayrıştırma süreçlerini panelden izler.",
+  "Ara ve son ürün numunelerini alarak laboratuvara gönderir.",
+  "Tesisin emniyet valflerini ve güvenlik sistemlerini sürekli denetler.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "kazanc": {
+  "egitim_suresince": "3308 sayılı Mesleki Eğitim Kanunu kapsamında işletmelerde mesleki eğitim gören öğrencilere belirlenen oranlarda ücret ödenir; ayrıca bu öğrencilerin iş kazası ve meslek hastalığı sigortası primleri devletçe karşılanır. Kurs yoluyla eğitim alanlar için ise genellikle doğrudan bir ücret söz konusu değildir.",
+  "egitim_sonrasi": [
+   "Kamu kurum ve kuruluşlarında çalışanlar 657 sayılı Devlet Memurları Kanunu'na veya işçi statüsünde ise toplu iş sözleşmesi hükümlerine göre ücret alırlar.",
+   "Özel sektörde yeni başlayanların kazancı genellikle asgari ücret düzeyinde olup, işletmenin büyüklüğü, çalışılan sektör, kişinin tecrübesi ve bilgi birikimine göre bu düzeyin üzerine çıkabilmektedir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleki ve teknik ortaöğretimin ilgili alanından mezun olanlar, YKS Kılavuzunda belirtilen ve alanın devamı niteliğindeki ön lisans programlarını (örneğin kimya teknolojisi ve ilgili programlar) tercih ettiklerinde ek puandan yararlanabilirler. Ayrıca sınavda başarılı olmaları hâlinde lisans programlarına da yerleşebilirler. Meslekte uzmanlaşmayı sağlayan kurslar, seminerler ve hizmet içi eğitimlerle nitelik artışı sağlanabilir.",
+  "is_hayatinda": "İş yerinde belirli bir süre operatör olarak çalışıp tecrübe kazananlar; vardiya sorumlusu, baş operatör veya tesis/bölüm sorumlusu gibi görevlere yükselebilirler."
+ },
+ "benzer_meslekler": [
+  "Kimyasal Filtreleme ve Ayırma Teçhizatı Operatörü",
+  "Kimyasal Isı İşleme Tesisi Operatörü",
+  "Kimyasal İşlem Teknisyeni",
+  "Kimyasal İşleme Tesisi Kontrolörü",
+  "Kimya Proses Teknisyeni",
+  "Kimya Proses Elemanı"
+ ],
+ "ek_bilgiler": "Mesleğin icra edildiği bazı iş yerleri, yürütülen işin niteliğine göre tehlikeli veya çok tehlikeli işler kapsamında değerlendirilebilir; bu durumda iş sağlığı ve güvenliği mevzuatı gereğince ek eğitim ve belgelendirme şartları aranabilir. Ayrıca Mesleki Yeterlilik Kurumu (MYK) tarafından verilen mesleki yeterlilik belgesine sahip olmak, işe alımda tercih sebebi olabilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T11:04:59",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 4552
+  }
+ }
+}

@@ -1,0 +1,78 @@
+{
+ "arac_gerec": [
+  "Ağ germe makinesi",
+  "Germe çengelleri",
+  "Ağın gözlerine takılan şişler",
+  "Buhar hattı ve vana sistemi",
+  "Makine kanalı ve kanal kapağı",
+  "Kontrol/komut panosu (motor çalıştırma düğmeleri)",
+  "Düğüm sıkma silindirleri",
+  "Kişisel koruyucu donanım (eldiven, önlük, kulaklık, iş ayakkabısı)",
+  "Taşıma arabası",
+  "Metre ve ölçüm aletleri"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve tedbirli,",
+  "El becerisine sahip,",
+  "Fiziksel olarak dayanıklı,",
+  "Sabırlı ve düzenli çalışabilen,",
+  "Talimatlara uyan,",
+  "Makine ve ekipman kullanmaya yatkın,",
+  "Ayakta ve uzun süre aynı işi tekrarlayarak çalışabilen,",
+  "Takım çalışmasına yatkın"
+ ],
+ "calisma_ortami": "Ağ germe makinesi işçisi, ağ/file üretimi yapılan tekstil işletmelerinde, genellikle kapalı atölye veya fabrika ortamında görev yapar. Çalışma sırasında kullanılan buhar nedeniyle ortam nemli ve sıcak olabilir; bu durum uygun havalandırma sistemi gerektirir. Zeminin ıslak ve kaygan olması, makine gürültüsü ve sıcak yüzeylerle temas riski, bu meslekte dikkat edilmesi gereken başlıca unsurlardır. Çalışma genellikle ayakta ve belirli bir makine istasyonunda yürütülür; işletmenin üretim düzenine göre vardiyalı çalışma söz konusu olabilir.\n\nMeslek elemanı çalışması sırasında diğer makine operatörleri, ustabaşı/formen ve kalite kontrol personeli ile iletişim halindedir. İşin niteliği gereği Kişisel Koruyucu Donanım (KKD) Yönetmeliği hükümlerine uygun koruyucu ekipman kullanılması gerekir.",
+ "gorevler": [
+  "Boy taraflarındaki ilk gözlere şişler takılan ağı makinenin kanalı içerisine serer.",
+  "Ağın kenarlarında bulunan şişleri germe çengellerine takar.",
+  "Ağın bolluğunu almak üzere çengellere hareket veren motoru belirli bir süre çalıştırır.",
+  "Makine kanalının üzerini kapak ile kapatır.",
+  "İlgili vanayı açarak kanala buhar verir.",
+  "Çengellere hareket veren motoru tekrar çalıştırıp belirli bir süre bekler.",
+  "Düğümleri sıkışan ve istenilen gerginliği alan ağı kanaldan çıkarmak üzere motorun çalışmasını durdurur.",
+  "Kanal kapağını açarak ağın kurumasını bekler.",
+  "Kuruyan ağı çengellerden çıkararak ilgili kısma gönderir.",
+  "Kullanım esnasında ağları oluşturan düğümlerin kaymamasını sağlamak üzere ağı silindirlerden geçirebilir.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Ağ germe makinesi işçiliğinin örgün bir mesleki eğitim programı bulunmamaktadır. Meslek genellikle işyerlerinde işbaşında usta yanında yetişerek öğrenilir. Ayrıca Halk Eğitim Merkezleri ile İŞKUR tarafından açılan mesleki eğitim kurslarında da temel beceriler kazandırılabilir.",
+  "giris_kosullari": [
+   "İlköğretim mezunu olmak",
+   "Meslek eğitimine veya işe girişte uygulanan sağlık ve beden yapısı şartlarını taşımak",
+   "İş yerinin ve kursun aradığı yaş şartlarını karşılamak"
+  ],
+  "sure_ve_icerik": "Mesleğin öğrenilmesi büyük ölçüde işbaşında, usta gözetiminde uygulamalı olarak gerçekleşir. Süre, çalışılan işyerinin makine ve üretim özelliklerine göre değişmekte olup kesin bir eğitim süresi bulunmamaktadır. Açılması hâlinde İŞKUR ve Halk Eğitim Merkezi kurslarının süresi ve içeriği kurum tarafından belirlenir.",
+  "belge": "Örgün bir diploma veya zorunlu meslek belgesi bulunmamaktadır. Katılınan kurslar sonunda kurs bitirme belgesi/sertifika verilebilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Ağ germe makinesi işçisi; balıkçılık ağı, file ve benzeri örgü/dokuma ürünlerin üretildiği tekstil işletmelerinde, bu işletmelerin terbiye/bitim işlemleri bölümlerinde istihdam edilir. İşe giriş genellikle doğrudan işyeri başvurusu, İŞKUR hizmetleri veya tanıdık/referans yoluyla olmaktadır. Sektörün yoğunlaştığı bölgelerdeki işletmelerde iş bulma imkânı daha fazladır.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğin örgün bir eğitim programı bulunmadığından, işbaşında yetişme döneminde ücret işyerinin uygulamasına göre değişir; bazı işyerlerinde bu dönemde asgari ücret düzeyinde ödeme yapılabilir. Açılan kurslara katılım genellikle ücretsizdir ve kursiyere ayrıca bir ücret ödenmez.",
+  "egitim_sonrasi": [
+   "İşe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç elde eder.",
+   "Deneyim kazandıkça, işteki performansa ve çalışılan işletmenin büyüklüğüne göre ücret artabilir.",
+   "Kamuda bu meslekte istihdam yaygın değildir; çalışma büyük ölçüde özel sektörde, işveren ile işçi arasındaki anlaşmaya göre yürütülür."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğin örgün bir eğitim kademesi bulunmadığından diploma/derece ile ilerleme söz konusu değildir. Deneyim kazanan işçiler, işyerinde düzenlenen hizmet içi eğitimlere veya ilgili kurslara katılarak mesleki bilgi ve becerilerini geliştirebilir.",
+  "is_hayatinda": "Meslek elemanı, deneyim ve performansına bağlı olarak işyerinde vardiya sorumlusu, ustabaşı veya formen düzeyine kadar ilerleyebilir."
+ },
+ "benzer_meslekler": [
+  "Dakatir Makinesi Operatörü",
+  "Buhar Makinesi İşçisi-Tekstil",
+  "Mensucat Kalandır Makinesi İşçisi",
+  "Fiksaj İşçisi",
+  "Kurutma-Apre Makinesi Operatörü",
+  "Ram Makinesi Operatörü (Tekstil)"
+ ],
+ "ek_bilgiler": "Bu meslek, dar bir üretim dalında (ağ/file üretimi) istihdam sağladığından iş imkânı, bu tür işletmelerin bulunduğu bölge ve sektörün üretim hacmine bağlı olarak sınırlı olabilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T14:38:14",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5149
+  }
+ }
+}

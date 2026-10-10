@@ -1,0 +1,80 @@
+{
+ "arac_gerec": [
+  "Tel çekme makinesi (çekme tezgahı)",
+  "Örgü (örme) makinesi",
+  "Hadde ve kalıplar",
+  "Bobin, makara ve tambur",
+  "Yağlama ve soğutma sıvı sistemleri",
+  "Tel kesme ve tamir aparatları (kopuk tamiri için)",
+  "Kumpas, mikrometre gibi ölçüm aletleri",
+  "Anahtar takımı ve el aletleri",
+  "Forklift / vinç (malzeme taşımak için)",
+  "İş eldiveni, koruyucu gözlük, kulaklık, baret",
+  "İş elbisesi ve güvenlik ayakkabısı",
+  "Yangın söndürme cihazı"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve tetikte olan,",
+  "El ve göz koordinasyonu gelişmiş,",
+  "Fiziksel olarak dayanıklı,",
+  "Makine ve teknik işleyişe ilgili,",
+  "Sorumluluk sahibi ve kurallara uyan,",
+  "Tertipli ve düzenli,",
+  "Ekip çalışmasına yatkın,",
+  "İşitme ve görme sağlığı iyi olan,"
+ ],
+ "calisma_ortami": "Tel Çekme Örme İşçisi, genellikle metal/tel üretim tesislerinin atölye ve fabrika bölümlerinde, kapalı mekanlarda çalışır. Çalışma ortamı makine gürültüsünün yüksek olduğu, bazen yağ ve metal tozuna açık, dar alanlarda yürütülen bir ortamdır. Tel çekme ve örme makinelerinin yüksek hızla çalışması nedeniyle kopan tellerin sıçraması, parmak ve el sıkışması gibi riskler bulunduğundan iş güvenliği kurallarına ve kişisel koruyucu donanım kullanımına dikkat edilmesi gerekir.\n\nMeslek, işletmenin üretim programına göre genellikle vardiyalı sistemde yürütülür. Çalışma sırasında vardiya amiri, ustabaşı, diğer makine operatörleri ve bakım personeli ile sürekli iletişim halinde olunur; üretim takibi ve kalite kontrol süreçlerinde ekip çalışması önemlidir.\n\n",
+ "egitim": {
+  "verildigi_yerler": "Tel Çekme Örme İşçiliği için ülke genelinde standart bir örgün mesleki eğitim programı bulunmamaktadır. Meslek genellikle işyerlerinde usta yanında iş başında eğitilerek veya Halk Eğitim Merkezleri ile İŞKUR'un açtığı mesleki eğitim kurslarında kazanılmaktadır. Mesleki ve teknik eğitim veren okulların metal/metalurji teknolojisi alanındaki ilgili programları da mesleğe temel oluşturabilir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "18 yaşını doldurmuş olmak (iş mevzuatı gereği ağır ve tehlikeli işler kapsamında çalışabilmek için)",
+   "İşin gerektirdiği fiziksel koşullara uygun sağlık durumuna sahip olmak",
+   "İş başında eğitim için bir işletmede çalışmaya başlamak veya ilgili kursa kayıt yaptırmak"
+  ],
+  "sure_ve_icerik": "Meslek elemanları çoğunlukla işyerlerinde usta yanında çalışarak tel çekme ve örme makinelerinin kullanımını, malzeme hazırlığını, çekim-örme programlarına göre ayar yapmayı ve kopuk tamirini uygulamalı olarak öğrenir. Halk Eğitim Merkezleri veya İŞKUR tarafından açılan kurslarda ise temel makine bilgisi, malzeme bilgisi, iş güvenliği ve üretim süreçlerine yönelik teorik ve uygulamalı eğitim verilmektedir. Eğitim süresi kursun içeriğine ve işletmenin uygulamasına göre değişiklik gösterir.",
+  "belge": "İş başında eğitimle yetişenler için resmi bir diploma söz konusu değildir; deneyim esastır. Kurs yoluyla eğitim alanlara kurs bitirme belgesi/sertifika verilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, iş bulma ve istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Tel Çekme Örme İşçisi; galvanizli/galvanizsiz tel üretim tesisleri, dikenli tel üretim atölyeleri, kablo ve iletken üretim fabrikaları, haddehaneler bünyesindeki tel çekme hatları, inşaat demiri ve bağlantı teli üreten işletmeler, çivi-civata ve örgü teli üreten metal sanayi kuruluşlarında istihdam edilir. Küçük ve orta ölçekli metal işleme işletmeleri ile büyük sanayi tesislerinin tel çekme-örme bölümlerinde çalışma olanağı bulunmaktadır.",
+ "kazanc": {
+  "egitim_suresince": "İşletmede iş başında eğitim alanlara, çalıştıkları süre boyunca genellikle yaşlarına uygun asgari ücret düzeyinde ödeme yapılır. İŞKUR veya Halk Eğitim Merkezleri aracılığıyla alınan kurslarda ise eğitim genellikle ücretsizdir ve kursiyere ayrıca bir ücret ödenmez.",
+  "egitim_sonrasi": [
+   "Çalıştığı işletmenin büyüklüğüne, çalışanın tecrübesine ve iş performansına göre ücret değişmektedir.",
+   "Yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Deneyim kazandıkça ve vardiya/sorumluluk arttıkça ücret düzeyi yükselebilir.",
+   "Özel sektörde ücret, işveren ile çalışan arasındaki anlaşmaya, toplu iş sözleşmesi varsa buna tabi olarak belirlenir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğe özgü kademeli, resmi bir örgün eğitim ilerleme sistemi bulunmamaktadır. Deneyim arttıkça kişi, usta işçi düzeyine ulaşabilir ve isteğe bağlı olarak Mesleki Yeterlilik Kurumu (MYK) belgesi alarak yeterliliğini belgeleyebilir.",
+  "is_hayatinda": "Meslekte deneyim kazanan işçiler, ekip lideri, ustabaşı veya vardiya sorumlusu gibi görevlere yükselebilir. Tecrübe ve bilgi birikimine bağlı olarak üretim hattı sorumluluğu ya da bölüm şefliği gibi pozisyonlara geçiş mümkündür. Kendi işini kurma imkanı da bulunmaktadır."
+ },
+ "benzer_meslekler": [
+  "Galvanizli/Galvanizsiz Tel Ürünleri Üretim İşçisi",
+  "Dikenli Tel Makinesi Operatörü",
+  "Dikişli Boru Profil Üretim Operatörü",
+  "Haddeci-Demir Dışı Metaller",
+  "Bobin Sarıcı (Metal) (Soğuk Haddehane)",
+  "Metal Boru Kesme Makinesi Operatörü"
+ ],
+ "ek_bilgiler": "Tel çekme-örme sektöründe üretim, inşaat, otomotiv, kablo ve beyaz eşya sanayilerindeki talebe bağlı olarak değişkenlik gösterebilir. Meslek, ağır ve tehlikeli işler kapsamında değerlendirilebileceğinden işe giriş ve çalışma sırasında periyodik sağlık kontrolleri önem taşır.",
+ "gorevler": [
+  "İş sağlığı ve güvenliği, yangın ve acil durum kurallarını uygular.",
+  "Çevre koruma mevzuatına uygun çalışır.",
+  "Kalite yönetim sistemi dokümanlarına uygun çalışır.",
+  "Çalıştığı yeri düzenler.",
+  "Çalışma alet ve donanımlarının koruyucu ve talimatlı bakımlarını sağlar.",
+  "İşlemler öncesi hazırlıkları yapar.",
+  "Tel çeker ve makineyi boşaltır.",
+  "Tel örer ve kopuk tamiri yapar.",
+  "Mesleki gelişim faaliyetlerine katılır."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T11:29:14",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5111
+  }
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "arac_gerec": [
+  "Bilgisayar ve sunucu sistemleri",
+  "Veritabanı yönetim sistemleri (SQL ve NoSQL tabanlı)",
+  "Programlama dilleri için geliştirme ortamları (Python, R vb.)",
+  "Makine öğrenmesi ve istatistiksel analiz kütüphaneleri/yazılımları",
+  "Veri görselleştirme ve raporlama araçları",
+  "Büyük veri işleme platformları",
+  "Bulut bilişim ve veri depolama platformları",
+  "Veri tabanı sorgulama dilleri",
+  "Proje ve iş akışı yönetim yazılımları",
+  "İnternet ve ofis yazılımları"
+ ],
+ "genel_ozellikler": [
+  "Matematik ve istatistiğe ilgili ve bu alanda yetenekli,",
+  "Analitik düşünme ve problem çözme yeteneğine sahip,",
+  "Dikkatli, sabırlı ve titiz çalışabilen,",
+  "Araştırmacı, öğrenmeye ve gelişime açık,",
+  "Mantık yürütme ve soyut düşünme becerisi gelişmiş,",
+  "Karmaşık ve yoğun bilgiyi anlamlandırabilen,",
+  "Ekip çalışmasına uyumlu,",
+  "Bulgularını açık ve anlaşılır biçimde sunabilen iletişim becerisine sahip"
+ ],
+ "calisma_ortami": "Veri Madenciliği Uzmanı/Danışmanı, genellikle büro ortamında bilgisayar başında oturarak çalışır. Çalışma ortamı kapalı mekân olup, uzun süre ekran karşısında yoğun zihinsel çaba gerektiren bir çalışma düzeni söz konusudur. Çalışmalarını bazen tek başına, bazen ekip halinde veya proje bazlı olarak yürütür; teknoloji altyapısının uygun olduğu durumlarda uzaktan çalışma da mümkündür.\n\nGörevleri sırasında işletme içindeki pazarlama, finans, bilgi işlem, risk yönetimi gibi farklı birimlerle ve bazen üst düzey yöneticilerle iletişim kurar. Çalışma saatleri genellikle ofis çalışma düzenine uygundur; ancak proje teslim tarihlerine veya iş yoğunluğuna bağlı olarak zaman zaman mesai gerekebilir.",
+ "calisma_alanlari": "Veri Madenciliği Uzmanı/Danışmanı, genellikle özel sektörde bankacılık, finans, sigortacılık, perakende, telekomünikasyon, e-ticaret, sağlık ve bilişim sektörlerinde istihdam edilmektedir. Kamu kurumlarının bilgi işlem, istatistik ve araştırma birimlerinde de görev alabilir. Kendi işini kurarak veya danışmanlık şirketleri aracılığıyla proje bazlı hizmet vererek çalışma imkânına da sahiptir.\n\nKurumların veriye dayalı karar alma eğiliminin yaygınlaşması ve büyük veri kullanımının artması ile bu alandaki istihdam olanakları sürekli artış göstermektedir.",
+ "ek_bilgiler": "Mesleğin icrası için Türkiye'de tanımlanmış özel bir yasal zorunluluk ya da resmî yetki belgesi bulunmamaktadır. Ancak Mesleki Yeterlilik Kurumu (MYK) belgeleri ile uluslararası kabul görmüş veri bilimi/makine öğrenmesi sertifikaları istihdamda tercih sebebi olabilmektedir. Çalışılan verinin niteliğine göre 6698 sayılı Kişisel Verilerin Korunması Kanunu ve ilgili düzenlemelere uygun çalışılması önemlidir.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğe özgü, bu adla açılmış ayrı bir lisans programı bulunmamaktadır. Mesleğin temel eğitimi; üniversitelerin Bilgisayar Mühendisliği, Yazılım Mühendisliği, Bilgisayar Bilimleri, İstatistik, Endüstri Mühendisliği ve Matematik gibi lisans programlarında verilen eğitimle kazanılmaktadır. Bu temel eğitimin üzerine, üniversitelerin açtığı veri bilimi/veri madenciliği/makine öğrenmesi alanındaki yüksek lisans programları ile sürekli eğitim merkezlerinin ve özel kurumların düzenlediği sertifika programları mesleki yetkinliği tamamlayıcı niteliktedir.",
+  "giris_kosullari": [
+   "Lise veya dengi okul mezunu olmak,",
+   "YKS (Yükseköğretim Kurumları Sınavı) kılavuzunda ilgili lisans programları için belirtilen giriş koşullarını taşımak,",
+   "Meslek yüksekokulu mezunlarının ilgili lisans programlarına geçiş yapabilmesi için DGS (Dikey Geçiş Sınavı)'nda başarılı olması gerekmektedir."
+  ],
+  "sure_ve_icerik": "Eğitim süresi seçilen lisans programına göre değişmekle birlikte genellikle 4 yıldır; bazı programlarda buna 1 yıllık yabancı dil hazırlık sınıfı eklenebilir. Eğitim süresince matematik, istatistik, algoritmalar ve veri yapıları, veritabanı yönetim sistemleri, programlama, makine öğrenmesi ve veri analizi gibi dersler verilmektedir. Lisans eğitiminin ardından veri madenciliği, makine öğrenmesi ve büyük veri konularında yüksek lisans yapmak veya ilgili sertifika programlarına katılmak, mesleki yetkinliği önemli ölçüde artırmaktadır.",
+  "belge": "Lisans eğitimini başarı ile tamamlayanlara diploma verilir. Katıldıkları yüksek lisans, sertifika veya kurs programlarını başarıyla tamamlayanlara ise ilgili kurum/kuruluş tarafından sertifika/belge düzenlenir."
+ },
+ "gorevler": [
+  "Farklı kaynaklardan gelen verileri temizler ve modele hazır hale getirir,",
+  "Makine öğrenmesi ve veri madenciliği algoritmalarını (kümeleme vb.) seçer,",
+  "İş problemlerine yönelik tahminleme modelleri (müşteri kaybı, dolandırıcılık vb.) kurar,",
+  "Elde edilen bulguları veri görselleştirme araçlarıyla raporlar,",
+  "Model performanslarını takip ederek sürekli iyileştirme çalışmaları yapar,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "kazanc": {
+  "egitim_suresince": "Lisans eğitimi süresince öğrenciler Kredi ve Yurtlar Kurumu'nun sağladığı öğrenim kredisi ve yurt hizmetlerinden, ayrıca çeşitli resmi ve özel kurum/kuruluşların sunduğu burslardan yararlanabilmektedir.",
+  "egitim_sonrasi": [
+   "Kamu kurum ve kuruluşlarında çalışanlar 657 sayılı Devlet Memurları Kanunu'na göre belirlenen aylık ücret, ek ödeme ve tazminatlardan yararlanır.",
+   "Özel sektörde işe yeni başlayanların ücreti genellikle asgari ücret düzeyinde olabilir; deneyim, uzmanlık düzeyi, bilinen araç ve yöntemler ile çalışılan işletmenin büyüklüğü ve sektörüne göre kazanç önemli ölçüde değişmekte, deneyimli uzmanlar daha yüksek ücret alabilmektedir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "İlgili alanlarda (bilgisayar bilimleri, istatistik, veri bilimi vb.) yüksek lisans ve doktora yaparak akademik kariyer imkânına sahiptir; üniversitelerde araştırma görevlisi, öğretim üyesi gibi unvanlara yükselebilir. Ayrıca çeşitli kurumların düzenlediği ileri düzey sertifika programlarına katılarak uzmanlığını belgelendirebilir.",
+  "is_hayatinda": "İş tecrübesi ve bilgi birikimi arttıkça kıdemli veri madenciliği uzmanı, veri bilimi ekip lideri veya veri/analitik departman yöneticisi gibi pozisyonlara yükselebilir; proje yöneticiliği yapabilir veya bağımsız danışmanlık hizmeti sunabilir."
+ },
+ "benzer_meslekler": [
+  "Veri Bilimci",
+  "Büyük Veri Uzmanı/Danışmanı",
+  "İş Zekası Uzmanı",
+  "Veri Tabanı Analisti",
+  "ETL Uzmanı/Danışmanı",
+  "Veri/Bilgi Yönetimi Danışmanı"
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T06:15:23",
+  "usage": {
+   "input_tokens": 4,
+   "output_tokens": 9843
+  }
+ }
+}

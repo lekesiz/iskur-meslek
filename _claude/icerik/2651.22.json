@@ -1,0 +1,79 @@
+{
+ "arac_gerec": [
+  "Kumlama (kum püskürtme) makinesi ve kompresör",
+  "Bizote (pah kırma) makinesi",
+  "Rodaj makinesi",
+  "Malatura (aşındırma) makinesi ve aşındırıcı diskler",
+  "Elmas veya çelik uçlu gravür kalemleri",
+  "Pantoğraf makinesi",
+  "Desen şablonları ve maskeleme malzemeleri",
+  "Bilgisayar ve tasarım/gravür yazılımları",
+  "Ölçüm aletleri (cetvel, pergel, mastar)",
+  "Koruyucu kıyafet, eldiven, gözlük ve toz maskesi",
+  "Cam temizleme ve parlatma malzemeleri",
+  "Çeşitli el aletleri (keski, fırça, bıçak)"
+ ],
+ "genel_ozellikler": [
+  "El becerisine ve el-göz koordinasyonuna sahip,",
+  "Görsel algısı iyi, desen ve şekilleri doğru yorumlayabilen,",
+  "Estetik anlayışa ve sanatsal ilgiye sahip,",
+  "Dikkatli ve sabırlı,",
+  "Ayrıntılara özen gösteren,",
+  "Fiziksel olarak sağlıklı, uzun süre ayakta çalışabilen,",
+  "İş güvenliği kurallarına uyma konusunda titiz"
+ ],
+ "calisma_ortami": "İndirmeci (Cam), çalışmalarını genellikle cam ve cam eşya üretim fabrikalarının veya cam süsleme atölyelerinin kapalı mekanlarında yürütür. Çalışma ortamında kumlama, aşındırma ve kesme işlemlerinden kaynaklanan toz, gürültü ve kıvılcım bulunabilir; bu nedenle koruyucu gözlük, eldiven ve toz maskesi gibi kişisel koruyucu donanım kullanımı önemlidir. İşini genellikle ayakta ve eğilerek, bazen uzun süre tek bir desen üzerinde yoğunlaşarak yapar.\n\nÇalışma saatleri işyerinin üretim programına bağlı olarak değişebilir; çoğunlukla gündüz ve belirli mesai saatlerinde çalışılır. İş sırasında ustabaşı, diğer cam işçileri, tasarımcılar ve bazen doğrudan müşterilerle iletişim kurar.",
+ "gorevler": [
+  "Günlük iş planı ve iş organizasyonu yapar.",
+  "Kumlama yapar.",
+  "Bizote yapar.",
+  "Rodaj yapar.",
+  "Malatura yapar.",
+  "Kesme dekor yapar.",
+  "Koparma yapar.",
+  "Cam gravür yapar (elde veya bilgisayarda).",
+  "Pantoğraf yapar.",
+  "Kullandığı araç ve gereçlerin temizliğini yapar.",
+  "Mesleğindeki gelişmeleri takip eder ve uygular."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi genellikle örgün bir yükseköğretim veya lise programı olarak değil, cam sanayi işletmelerinde işbaşında usta yanında (çıraklık) yoluyla verilmektedir. Ayrıca Mesleki Eğitim Merkezlerinin cam işleme/süsleme ile ilgili çıraklık eğitimi programlarında, Halk Eğitim Merkezlerinde ve İŞKUR'un açtığı mesleki eğitim kurslarında da bu mesleğe yönelik eğitim verilebilmektedir.",
+  "giris_kosullari": [
+   "Okur yazar olmak (örgün çıraklık eğitimi için ilgili mevzuatta belirtilen asgari öğrenim şartını taşımak)",
+   "El becerisine ve görsel algıya sahip olmak",
+   "Sağlığının bu işi yapmaya uygun olması, özellikle görme ve el fonksiyonlarının yeterli olması"
+  ],
+  "sure_ve_icerik": "Eğitimin süresi ve içeriği verildiği kuruma göre değişiklik gösterir. İşbaşında usta yanında yetişme sürecinde kişi, önce yardımcı işlerde çalışarak mesleği gözlemler; daha sonra kademeli olarak kumlama, bizote, rodaj, malatura, kesme dekor, cam gravür ve pantoğraf gibi uygulamaları uygulamalı olarak öğrenir. Mesleki Eğitim Merkezlerinde veya kurslarda ise iş sağlığı ve güvenliği, desen hazırlama, cam özellikleri ve yukarıda sayılan indirme tekniklerine ilişkin teorik ve uygulamalı dersler verilir.",
+  "belge": "Mesleki Eğitim Merkezi bünyesinde çıraklık eğitimini tamamlayanlara kalfalık, ardından ustalık belgesi; kurs programlarını tamamlayanlara ise kurs bitirme/başarı belgesi verilir. Mesleki Yeterlilik Kurumu (MYK) Mesleki Yeterlilik Belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "İndirmeci (Cam), başta cam ve kristal eşya üreten fabrikalar olmak üzere, cam süsleme ve dekorasyon atölyelerinde, hediyelik eşya ve cam sanat ürünleri üreten işletmelerde çalışabilir. Ayrıca cam üzerine özel sipariş desen, logo veya yazı işleme hizmeti veren küçük işletmelerde veya kendi atölyesini açarak bağımsız biçimde de çalışabilir. İş bulma olanakları, cam sanayinin ve dekoratif cam ürünlerine olan talebin yoğun olduğu bölgelerde daha fazladır.",
+ "kazanc": {
+  "egitim_suresince": "Mesleki Eğitim Merkezi bünyesinde çıraklık eğitimi alanlara işyeri tarafından ilgili mevzuata uygun bir ücret ödenebilir. Halk Eğitim Merkezi veya İŞKUR kurslarına katılanlar genellikle ücretsiz eğitim alır; İŞKUR kurslarında katılımcılara kursiyer harçlığı ödenebilir.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanların kazancı genellikle asgari ücret düzeyindedir.",
+   "Özel sektörde çalışanların ücreti işyeri ile yapılan anlaşmaya, deneyime ve ustalık düzeyine göre değişir.",
+   "Kendi atölyesini açarak çalışanların kazancı işin hacmine, müşteri çevresine ve beceri düzeyine göre farklılık gösterir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleki Eğitim Merkezi bünyesinde çıraklık eğitimine devam edenler kalfalık, ardından ustalık belgesi alarak ilerleyebilir; ustalık belgesi sahipleri usta öğreticilik yapma hakkı kazanabilir.",
+  "is_hayatinda": "Deneyim ve beceri kazandıkça ustabaşı veya atölye sorumlusu olarak görev alabilir, farklı indirme ve cam süsleme tekniklerinde uzmanlaşabilir, kendi atölyesini kurarak işveren konumuna geçebilir."
+ },
+ "benzer_meslekler": [
+  "Vitraycı (Cam Süslemeci)",
+  "Cam Füzyoncu",
+  "Gravür Ressamı-Oyma ve Yakma",
+  "Ressam (Kumlama)",
+  "Hakkak",
+  "Mozaik Sanatçısı"
+ ],
+ "ek_bilgiler": "Kumlama, aşındırma ve kesme işlemleri sırasında oluşan toz, gürültü ve keskin kenarlı malzemeler nedeniyle iş sağlığı ve güvenliği kurallarına, özellikle koruyucu gözlük, eldiven ve maske kullanımına dikkat edilmesi gerekir. Mesleğin tanınırlığı ve istihdam olanakları, bölgesel cam sanayinin gelişmişliğine göre farklılık gösterebilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T07:24:55",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5531
+  }
+ }
+}

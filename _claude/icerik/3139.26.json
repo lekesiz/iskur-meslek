@@ -1,0 +1,72 @@
+{
+ "arac_gerec": [
+  "İş makineleri (kompaktör, dozer, ekskavatör, loder, greyder)",
+  "Kişisel koruyucu donanım (iş elbisesi, çelik burunlu bot, eldiven, baret, maske, koruyucu gözlük)",
+  "Gaz ölçüm cihazı",
+  "El telsizi",
+  "Trafik yönlendirme ve işaretleme ekipmanları (reflektörlü yelek, trafik konisi, levha)",
+  "Kantar/tartı sistemi kayıt ekranı",
+  "Örtü malzemeleri (toprak, membran örtü)",
+  "Rögar, kanal ve kollektör hattı kontrol ekipmanları",
+  "Gaz toplama sistemi ekipmanları (boru, vana, baca)",
+  "Bilgisayar ve saha takip yazılımı",
+  "GPS/konum belirleme cihazı",
+  "El aletleri (kürek, çapa, çekiç vb.)"
+ ],
+ "genel_ozellikler": [
+  "Açık havada ve zorlu hava koşullarında çalışmaya elverişli,",
+  "Dikkatli ve sorumluluk sahibi,",
+  "Ekip çalışmasına yatkın,",
+  "İş makinelerini kullanabilen veya kullanmayı öğrenmeye istekli,",
+  "Çevre koruma, iş sağlığı ve güvenliği kurallarına duyarlı,",
+  "Fiziksel olarak dayanıklı,",
+  "Gözlem, planlama ve koordinasyon becerisine sahip,",
+  "Talimat ve prosedürlere uyan"
+ ],
+ "calisma_ortami": "\"Düzenli depolama bertaraf saha elemanı, genellikle açık havada, katı atık depolama (çöp/atık) sahalarında çalışır. Çalışma ortamı toz, koku, gürültü ve değişken hava koşulları (sıcak, soğuk, yağmur) açısından zorlayıcı olabilir; iş makinelerinin ve atık araçlarının yoğun olarak hareket ettiği sahada dikkat ve koordinasyon gerektirir. Çalışma süresince atık araç şoförleri, iş makinesi operatörleri, saha mühendisi/teknik sorumlu ve diğer saha personeli ile sürekli iletişim halindedir.\\n\\nİşin niteliği gereği vardiyalı çalışma, uzun süre ayakta veya araç/makine içinde kalma söz konusu olabilir. İş sağlığı ve güvenliği önlemlerine titizlikle uyulması, kişisel koruyucu donanımın eksiksiz kullanılması gereken bir meslektir.\"",
+ "egitim": {
+  "verildigi_yerler": "Bu meslek için örgün eğitim kurumlarında ayrı bir program bulunmamaktadır. Meslek elemanları genellikle ortaöğretim (lise ve dengi) mezuniyeti sonrasında, ilgili tesislerde işbaşında usta/saha sorumlusu gözetiminde yetişmekte; İŞKUR, Halk Eğitim Merkezleri veya çevre/atık yönetimi alanında faaliyet gösteren kurum ve kuruluşların açtığı mesleki eğitim kurslarından yararlanılabilmektedir. İş makinesi kullanımına yönelik beceriler, iş makinesi operatörlüğü sertifika programları ile kazandırılır.",
+  "giris_kosullari": [
+   "En az ortaöğretim (lise ve dengi okul) mezunu olmak",
+   "İş makinesi kullanacaklar için gerekli sürücü belgesi/iş makinesi operatörlük sertifikasına sahip olmak veya bu eğitimi almaya uygun olmak",
+   "Açık havada ve fiziksel güç gerektiren işlerde çalışabilecek sağlık durumuna sahip olmak"
+  ],
+  "sure_ve_icerik": "Resmi olarak tanımlanmış, belirli süreli bir okul programı bulunmamaktadır. Eğitim; işbaşında uygulamalı çalışma, iş sağlığı ve güvenliği eğitimleri, çevre mevzuatına ilişkin bilgilendirmeler ve gerekiyorsa iş makinesi operatörlüğü kurslarından oluşur. Süre, işveren ve kurs programına göre değişkenlik gösterir.",
+  "belge": "İşbaşında yetişme sürecinin sonunda işletme tarafından görevlendirme yapılır; katılınan kurslardan kurs bitirme/katılım belgesi, iş makinesi kullanımı için operatörlük sertifikası alınabilir. Mesleki Yeterlilik Kurumu (MYK) Mesleki Yeterlilik Belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "gorevler": [
+  "İş organizasyonu yapar.",
+  "İş makineleri ve ekipmanlar ile depolama tesisindeki rögarların, kanalların ve kollektör hatlarının periyodik kontrollerinin yapılmasını sağlar.",
+  "Depolama sahasını (Lot) atık alımına uygun hale getirir.",
+  "Depolama sahasına (Lot) gelen atığın boşaltımını sağlar.",
+  "Atığın depolama sahasında (Lot) serilmesi, sıkıştırılması ve günlük örtü toprağı serilmesi faaliyetlerini gerçekleştirir.",
+  "Depolama sahasındaki gaz toplama sisteminin kurulumunu ve işletimini sağlar.",
+  "Mesleki gelişime ilişkin faaliyetleri yürütür."
+ ],
+ "calisma_alanlari": "\"Düzenli depolama bertaraf saha elemanları; belediyelere bağlı katı atık yönetim tesislerinde, belediye iktisadi teşekküllerinde, özel atık yönetim ve bertaraf şirketlerinde, I., II. ve III. sınıf düzenli depolama tesislerinde görev yapar. Kamu ve özel sektörde istihdam imkanı bulunmaktadır; çalışma genellikle şehir dışındaki depolama sahalarında sürdürülür.\"",
+ "kazanc": {
+  "egitim_suresince": "Resmi olarak örgün bir eğitim programı bulunmadığından, işbaşında yetiştirilen kişiler genellikle çalıştıkları işletmeden ücret alırlar; bu ücret genellikle asgari ücret düzeyinde olur. Kurs dönemlerinde ücret, kursu açan kurum veya işletmenin uygulamasına göre değişir.",
+  "egitim_sonrasi": [
+   "Kamuya bağlı kuruluşlarda (belediye şirketleri vb.) işçi statüsünde çalışanlar toplu iş sözleşmesi hükümlerine tabi olur.",
+   "Özel sektörde ücret, işveren ile çalışan arasında deneyim, iş makinesi kullanım becerisi ve işletmenin ücret politikasına göre belirlenir.",
+   "Yeni başlayanlar genellikle asgari ücret düzeyinde çalışmaya başlar; deneyim ve üstlenilen sorumluluk arttıkça kazanç da artabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Bu meslek için tanımlı dikey bir eğitim ilerleme yolu (örneğin ön lisans/lisans programına geçiş) bulunmamaktadır. Kişiler isterlerse çevre, çevre sağlığı, iş makineleri işletmeciliği gibi ilgili alanlarda örgün veya açık öğretim programlarına yönelerek eğitim düzeylerini yükseltebilirler.",
+  "is_hayatinda": "Deneyim ve bilgi birikimine bağlı olarak saha amirliği, ekip liderliği, operasyon sorumluluğu gibi daha üst düzey görevlere yükselme imkanı bulunmaktadır. İş makinesi operatörlüğü yetkinliği kazananlar farklı makine gruplarında görevlendirilebilir."
+ },
+ "benzer_meslekler": [
+  "Hafriyat Toprağı Döküm Sahası Elemanı",
+  "Atık Kâğıt Geri Dönüşüm Elemanı"
+ ],
+ "ek_bilgiler": "\"Bu meslek genellikle belediyelere bağlı katı atık yönetim şirketleri veya özel atık bertaraf firmalarında istihdam edilir. Sahada iş makinesi kullanılacak görevler için ilgili sürücü belgesi veya iş makinesi operatörlük sertifikası gerekebilir. Atık yönetimi tesislerinde çalışma, iş sağlığı ve güvenliği açısından ek önlemler gerektirebilir; bu nedenle işe alım öncesinde ve çalışma süresince düzenli sağlık kontrolleri yapılması önerilir.\"",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T11:27:36",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5667
+  }
+ }
+}

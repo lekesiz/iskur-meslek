@@ -1,0 +1,76 @@
+{
+ "arac_gerec": [
+  "Hadde ve yolluk makaraları, merdaneler",
+  "El aletleri (anahtar takımı, pense, tornavida takımı)",
+  "Kumpas, metre, mikrometre gibi ölçüm aletleri",
+  "Yağlama pompası ve yağlama ekipmanları",
+  "Vinç, kriko, kanca, palet, taşıma arabaları",
+  "Söküp takma için çeşitli tezgâh aparatları",
+  "İş eldiveni, baret, koruyucu gözlük, iş elbisesi",
+  "Yangın söndürme cihazı",
+  "Temizlik ve bakım malzemeleri (yağ, bez, fırça vb.)",
+  "Yedek parça stok malzemeleri (yolluk makarası, merdane)"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve sabırlı,",
+  "El ve kol kaslarını iyi kullanabilen, el becerisine sahip,",
+  "Şekil, uzay ilişkilerini ayırt edebilen,",
+  "Temel matematik, fizik ve malzeme bilgisine sahip,",
+  "Sorumluluk sahibi ve tertipli,",
+  "Fiziksel olarak güçlü ve dayanıklı,",
+  "Ekip çalışmasına yatkın,",
+  "İş güvenliği kurallarına titizlikle uyan,"
+ ],
+ "calisma_ortami": "Hadde Ayarcısı (Metal), sıcak haddehanelerin bulunduğu fabrika ve atölye ortamlarında çalışır. Çalışma ortamı genellikle sıcak, gürültülü ve hareketli ağır makinelerin bulunduğu kapalı mekânlardır. Sıcak metalle ve dönen makara/merdane sistemleriyle çalışıldığından iş kazası riski bulunur; bu nedenle iş güvenliği kurallarına ve kişisel koruyucu donanım kullanımına uyulması önemlidir.\\n\\nMeslek genellikle vardiyalı sistemle, üretimin devamlılığını sağlamak amacıyla gündüz-gece dönüşümlü olarak yürütülür. Çalışma sırasında aynı hat üzerindeki diğer işçiler, ustabaşı ve bakım-onarım personeli ile sürekli iletişim ve koordinasyon içinde bulunulur.",
+ "gorevler": [
+  "İstenilen ölçülere göre hadde ve yolluk makaralarını, merdaneleri el aletleri ile ayarlar,",
+  "Metalin hadde makaraları ve merdanelerine girişlerini düzenler,",
+  "Girişleri kontrol eder,",
+  "Makara ve merdaneleri kontrol eder, arızalı olanları belirler, söker, onarım gerekirse yenisiyle değiştirir,",
+  "Tezgâhın gerekli yerlerini yağlar, temizlik ve bakımını yapar,",
+  "Yedek yolluk makaraları ve merdaneleri hazır bulundurur,",
+  "Hadde arızalarının giderilmesinde ilgili işçilere yardım edebilir,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "calisma_alanlari": "Hadde Ayarcısı (Metal), demir-çelik ve demir dışı metal üretimi yapan sıcak haddehanelerde, haddehane tesislerinin bulunduğu kamu ve özel sektör işletmelerinde çalışabilir. Organize sanayi bölgelerinde yer alan metal işleme tesisleri, çelikhaneler ve haddehane fabrikaları başlıca istihdam alanlarıdır. Metal sektöründeki üretim hacmine bağlı olarak iş bulma olanakları değişkenlik gösterebilir; tecrübeli ve ustalaşmış elemanlar genellikle tercih edilmektedir.",
+ "kazanc": {
+  "egitim_suresince": "Meslekte eğitim çoğunlukla işbaşında, usta yanında veya Halk Eğitim Merkezleri ile İŞKUR'un açtığı mesleki eğitim kurslarında kazanılır. Mesleki eğitim merkezinde çıraklık eğitimi alınması durumunda, 3308 sayılı Mesleki Eğitim Kanunu gereğince öğrenciye asgari ücretin belirli bir yüzdesinden az olmamak üzere ücret ödenir ve iş kazası-meslek hastalığı sigorta primleri devletçe karşılanır.",
+  "egitim_sonrasi": [
+   "Kamu kuruluşlarında işçi statüsünde istihdam edilenler, toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde çalışanların ücreti; deneyim, işin niteliği ve işletmenin büyüklüğüne göre değişir; yeni başlayanlarda genellikle asgari ücret düzeyindedir, tecrübe kazanıldıkça artış gösterebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleki eğitim merkezlerinde veya kurslarda eğitim alanlar, Metal Teknolojisi alanındaki ilgili programlarda kalfalık ve ustalık belgesi alarak ilerleyebilir; isteyen ve şartları sağlayanlar meslek lisesi diploması tamamlama yoluna gidebilir.",
+  "is_hayatinda": "İş hayatında deneyim kazanan Hadde Ayarcıları, usta, ustabaşı, vardiya amiri gibi görevlere yükselebilir; ilgili teknik eğitimleri tamamlayarak üretim amirliği veya bölüm şefliği pozisyonlarına ilerleyebilir."
+ },
+ "benzer_meslekler": [
+  "Sıcak Haddeci-Çelik",
+  "Soğuk Haddeci-Çelik",
+  "Haddeci-Demir Dışı Metaller",
+  "Haddehane Maniplatörü",
+  "Haddeler Kumanda Operatörü",
+  "Dikişsiz Boru Haddecisi"
+ ],
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi; yeterli talep olması durumunda mesleki eğitim merkezlerinin Metal Teknolojisi alanı kapsamındaki ilgili dallarında verilebilmektedir. Bunun yanında Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kursları ile işyerlerinde işbaşında usta yanında yetişme de yaygın bir eğitim yoludur.",
+  "giris_kosullari": [
+   "Çıraklık/mesleki eğitime başlamak için en az ortaokul mezunu olmak ve zorunlu eğitim çağında bulunmak,",
+   "14 yaşını doldurmuş olmak,",
+   "Mesleğin gerektirdiği fiziksel koşullara uygun sağlık durumuna sahip olmak,",
+   "Eğitim görmek istediği meslekte bir işyeri bulup işvereniyle çıraklık/eğitim sözleşmesi imzalamak,",
+   "Kurs programlarına katılım için ise genellikle okuryazar veya ilköğretim mezunu olmak yeterlidir."
+  ],
+  "sure_ve_icerik": "Mesleğe yönelik resmî olarak tanımlanmış, standart süreli bir okul programı bulunmamaktadır. Mesleki eğitim merkezi kapsamında Metal Teknolojisi alanında eğitim alınması hâlinde süre ve içerik ilgili alanın genel çıraklık/kalfalık/ustalık eğitim programına göre belirlenir; bu eğitim genel kültür dersleri ile meslek derslerinden oluşur ve teorik bilginin yanında işyerinde usta öğretici gözetiminde uygulamalı çalışma yapılır. Kurs yoluyla yetişenler ise temel hadde ayarı, ölçü alma, bakım-onarım ve iş güvenliği konularında uygulamalı eğitim görür; esas ustalaşma işbaşında tecrübeyle sağlanır.",
+  "belge": "Mesleki eğitim merkezi programını tamamlayanlara kalfalık, ardından ustalık belgesi verilir. Kurs yoluyla eğitim alanlara ise kurs bitirme/katılım belgesi verilir. Mesleki Yeterlilik Kurumu (MYK) tarafından ilgili alanda yetkilendirme yapılmışsa, MYK Mesleki Yeterlilik Belgesi istihdamda tercih sebebi olabilir."
+ },
+ "ek_bilgiler": "Meslek, sıcak metalle ve ağır/hareketli makine parçalarıyla çalışmayı gerektirdiğinden işe alımlarda fiziksel sağlık durumu ve iş güvenliği eğitimleri önem taşır. İşin yapıldığı faaliyet kolu, iş sağlığı ve güvenliği mevzuatı kapsamında tehlikeli/çok tehlikeli işler sınıfında değerlendirilebileceğinden, çalışılacak işyerinin ilgili mevzuata uygunluğu ve verilen periyodik eğitimler önemlidir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T11:09:27",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5304
+  }
+ }
+}

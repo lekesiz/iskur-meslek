@@ -1,0 +1,84 @@
+{
+ "arac_gerec": [
+  "İtfaiye araçları (söndürme aracı, merdivenli/platformlu araç, kurtarma aracı)",
+  "Yangın söndürme ekipmanları (hortum, lans, köpük jeneratörü, kimyasal söndürücü)",
+  "Kişisel koruyucu donanım (yangın elbisesi, kask, eldiven, bot, solunum cihazı)",
+  "Telsiz ve diğer iletişim cihazları",
+  "Şehir ve bölge haritaları, krokiler",
+  "Bilgisayar, ofis yazılımları ve raporlama sistemleri",
+  "Yangın hidrant ve su kaynağı bilgi sistemleri",
+  "Arama-kurtarma ekipmanları",
+  "Araç/teçhizat bakım-onarım ve stok takip kayıtları",
+  "Eğitim ve tatbikat planlama dokümanları"
+ ],
+ "benzer_meslekler": [
+  "İtfaiye Müdürü",
+  "İtfaiye Zabıta Amiri",
+  "İtfaiye Eğitim Amiri",
+  "İtfaiye Su İkmal Amiri",
+  "Zabıta Müdürü"
+ ],
+ "calisma_alanlari": "İtfaiye Grup Amiri, büyükşehir belediyeleri ile il ve ilçe belediyelerinin itfaiye daire başkanlığı/müdürlüğü bünyesinde görev yapar. Görev yeri, belediyenin itfaiye teşkilat yapısına göre merkez itfaiye istasyonu veya bölge/grup istasyonları olabilir.\n\nBüyük sanayi tesisleri, organize sanayi bölgeleri, havalimanları gibi kendi itfaiye birimine sahip büyük kurumların bünyesinde de benzer içerikte amirlik/yöneticilik görevleri bulunabilir; bu durumda unvan kurumdan kuruma farklılık gösterebilir. \"İtfaiye Grup Amiri\" unvanı ülkemizde esas olarak belediye itfaiye teşkilatı kadrolarında kullanılan bir yöneticilik kademesidir.",
+ "calisma_ortami": "İtfaiye Grup Amiri, görevinin bir bölümünü büroda (iş planlaması, personel yönetimi, raporlama, kurumlar arası koordinasyon) bir bölümünü de sahada geçirir. Yangın, trafik kazası, sel, çökme gibi afet ve olaylara müdahale sırasında açık veya kapalı alanlarda, duman, sıcak, yüksekte çalışma, dar/kapalı mekan gibi riskli koşullarda bulunabilir; bu nedenle iş sağlığı ve güvenliği kurallarına uyum büyük önem taşır.\n\nÇalışma, belediyelerin itfaiye hizmetinin 7/24 esasına dayanması nedeniyle genellikle vardiyalı ve nöbet sistemine göre yürütülür; acil durumlarda her an göreve çağrılabilir. Görevi sırasında itfaiye personeli, belediye yönetimi, diğer kamu kurumları (sağlık kuruluşları, kolluk kuvvetleri, AFAD gibi acil durum kuruluşları), işyeri sahipleri ve halkla sık sık iletişim kurar.",
+ "egitim": {
+  "verildigi_yerler": "İtfaiye Grup Amirliği, doğrudan kazanılan bir diploma veya örgün eğitim programının çıktısı değildir; belediye itfaiye teşkilatı bünyesinde itfaiye eri olarak başlanan görevde kıdem, performans ve kurum içi sınavlar sonucunda ulaşılan bir yöneticilik/amirlik kademesidir. İtfaiyeci adaylarının temel mesleki bilgi ve beceri kazanmasına yönelik olarak bazı üniversitelerin meslek yüksekokullarında \"İtfaiyecilik ve Yangın Güvenliği\" ön lisans programları bulunmaktadır; ayrıca belediyelerin itfaiye eğitim merkezlerinde hizmet öncesi ve hizmet içi eğitimler verilir.",
+  "giris_kosullari": [
+   "Lise ve dengi okul mezunu olmak (yöneticilik görevlerinde ön lisans/lisans mezuniyeti kurumlarca tercih sebebi olabilir)",
+   "Belediye itfaiye teşkilatına ilgili sınav ve mülakat süreçleriyle itfaiye eri olarak girmiş olmak",
+   "İtfaiyecilik mesleğinin gerektirdiği sağlık ve fiziksel yeterlilik şartlarını taşımak",
+   "İtfaiye teşkilatı içinde kademeli olarak (onbaşı, çavuş, amir gibi) belirli hizmet süresini ve kurum içi terfi sınavlarını başarıyla tamamlamış olmak"
+  ],
+  "sure_ve_icerik": "Mesleğe özgü belirli süreli ve standart bir eğitim programı bulunmamaktadır. İtfaiye eri olarak göreve başlandığında hizmet öncesi temel eğitim (yangınla mücadele teknikleri, arama-kurtarma, ilkyardım, araç ve ekipman kullanımı, iş güvenliği) alınır. Görev süresince kıdem ve başarıya bağlı olarak sırasıyla onbaşı, çavuş, amir ve grup amiri kademelerine yükselme sınavlarına girilir; her kademe geçişinde kurum tarafından düzenlenen hizmet içi eğitim, yönetim ve liderlik eğitimleri tamamlanır.",
+  "belge": "Kurum tarafından yapılan atama/terfi onayı, hizmet içi eğitim sertifikaları ve varsa itfaiyecilik alanında alınmış Mesleki Yeterlilik Kurumu (MYK) belgesi"
+ },
+ "ek_bilgiler": "İtfaiye Grup Amirliği görevi, örgün bir yükseköğretim veya mesleki eğitim programının doğrudan çıktısı olarak kazanılan bir unvan değildir; itfaiye teşkilatı içinde kıdem, performans ve kurum içi sınavlarla ulaşılan bir yöneticilik kademesidir. İtfaiyecilik, tehlikeli ve çok tehlikeli işler kapsamında değerlendirildiğinden görevin her kademesinde fiziksel uygunluk, sağlık koşulları ve düzenli hizmet içi eğitim büyük önem taşır.",
+ "genel_ozellikler": [
+  "Sorumluluk sahibi ve güvenilir,",
+  "Liderlik ve yönlendirme becerisine sahip,",
+  "Acil ve stresli durumlarda hızlı ve doğru karar verebilen,",
+  "Fiziksel olarak güçlü ve dayanıklı,",
+  "Planlama ve organizasyon yeteneği gelişmiş,",
+  "Ekip çalışmasına ve koordinasyona yatkın,",
+  "İletişimi ve ikna gücü iyi,",
+  "Disiplinli ve kurallara uyumlu"
+ ],
+ "gorevler": [
+  "İş planlaması ve organizasyonu yapar,",
+  "Personelin hizmet içi eğitimini yaptırarak hizmet verimliliklerini ve mesleki bilgilerini geliştirir,",
+  "Motorlu taşıtlar dahil tüm malzeme ve teçhizatın ikmal, bakım ve onarımlarını yaptırır, hizmete hazır durumda tutar, teknolojik gelişmelere uygun olarak yenilenmesini sağlar,",
+  "Belediye başkanının izniyle itfaiye hizmetleri konusunda kamuoyunu bilgilendirir,",
+  "Yangına ve su kaynaklarına ulaşım genel planını yapar ve 1/25.000'lik şehir haritası üzerine işler,",
+  "Günlük, aylık ve yıllık istatistiklerin tutulmasını sağlar, değerlendirir ve ilgili kuruluşlara gönderir,",
+  "İlgili mevzuat ve standartlara uygun olarak yangın hidrantlarının konulacağı yerleri belirleyerek ilgili kuruluşlara bildirir ve çalışır durumda olmalarını sağlar,",
+  "İtfaiyenin su alabileceği açık havuz ve su depolarının yapılmasını sağlar,",
+  "Kamu ve özel kurumlara ait itfaiye kuruluşlarını denetler, işbirliğini sağlar, talep üzerine eğitimlerini verir ve gerektiğinde yardıma çağırır,",
+  "Halkı, kurum ve kuruluşları yangından korunma ve yangınla mücadele konularında bilgilendirir,",
+  "Binaların Yangından Korunması Hakkında Yönetmelikle verilen görevleri yerine getirir,",
+  "Yangın İhbar Raporu'nun doldurulmasını sağlar,",
+  "Yangın raporunun düzenlenmesini sağlar,",
+  "Sınav kurulu üyeliği yapar,",
+  "Belediye başkanının vereceği diğer görevleri yerine getirir,",
+  "Mesleği ile ilgili gelişmeleri takip eder ve uygular,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "İtfaiye eri olarak işe başlayanlar, kurum içi sınavlar ve hizmet süresi şartlarını yerine getirerek sırasıyla onbaşı, çavuş, amir ve grup amiri kademelerine yükselebilir. Görev süresince açıköğretim veya örgün yükseköğretim yoluyla ön lisans/lisans eğitimini tamamlayabilir; afet yönetimi, kamu yönetimi gibi alanlarda yüksek lisans yaparak mesleki ve yönetsel bilgisini derinleştirebilir.",
+  "is_hayatinda": "İtfaiye Grup Amiri, deneyim, eğitim ve kurum içi sınav sonuçlarına göre itfaiye müdür yardımcılığı, itfaiye müdürlüğü ve itfaiye daire başkanlığı gibi daha üst yöneticilik kademelerine terfi edebilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Mesleğe özgü bağımsız bir eğitim programı bulunmadığından bu aşamada ayrıca bir kazanç söz konusu değildir. İtfaiye eri olarak göreve başlayan kişi, bu kademeden itibaren kurumundan ücret almaya başlar.",
+  "egitim_sonrasi": [
+   "Belediyelerde kadrolu memur statüsünde çalışan İtfaiye Grup Amirleri, 657 sayılı Devlet Memurları Kanunu'nda öngörülen derece, kademe ve ilgili tazminatlara göre ücret alır.",
+   "İşçi statüsünde istihdam edilenlerin ücreti, yürürlükteki toplu iş sözleşmesi hükümlerine göre belirlenir.",
+   "Göreve itfaiye eri olarak başlayanların ücreti genellikle giriş seviyesindedir; kıdem, kademe ve unvan yükselmesiyle birlikte ücret artış göstermektedir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-07T20:20:20",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 7562
+  }
+ }
+}

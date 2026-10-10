@@ -1,0 +1,71 @@
+{
+ "gorevler": [
+  "Makineler arasındaki boş masura ve iplikleri toplar",
+  "Dokuma tezgahlarının çevresindeki toz ve telefleri temizler",
+  "Hammadde ve mamul malların nakline yardımcı olur",
+  "Çalışma alanının genel düzenini korur",
+  "Operatörlerin taleplerine göre yardımcı araçları ulaştırır",
+  "Mesleki gelişim faaliyetlerinde bulunur"
+ ],
+ "arac_gerec": [
+  "Süpürge, faraş ve fırça",
+  "Temizlik bezi ve temizlik malzemeleri",
+  "El arabası / taşıma arabası (transpalet, kasalı araba vb.)",
+  "Masura ve iplik toplama kutusu/sepeti",
+  "Çöp torbası ve atık kovası",
+  "Toz maskesi, eldiven, kulak koruyucu gibi kişisel koruyucu donanımlar",
+  "İş elbisesi ve koruyucu ayakkabı",
+  "Basit taşıma ve istif ekipmanları"
+ ],
+ "genel_ozellikler": [
+  "Fiziksel olarak güçlü ve dayanıklı",
+  "Dikkatli ve tertipli",
+  "Takım çalışmasına uyumlu",
+  "Emir ve talimatları eksiksiz uygulayabilen",
+  "Sorumluluk sahibi",
+  "Toz ve gürültülü ortamda çalışmaya uygun sağlık durumuna sahip",
+  "Hızlı hareket edebilen ve pratik",
+  "Dayanıklı ve sabırlı"
+ ],
+ "calisma_ortami": "Meydancı - Dokuma, dokuma fabrikalarının üretim sahasında (atölye ortamında) çalışır. Çalışma ortamı genellikle gürültülü ve iplik/kumaş tiftiği, toz gibi maddelerin bulunduğu bir ortamdır; dokuma işleminin gerektirdiği nem ve sıcaklık koşulları kontrollü olabilir. Çalışan, gün boyunca ayakta durur, sürekli hareket halindedir; eğilme, kalkma ve malzeme taşıma gibi fiziksel efor gerektiren hareketler yapar. Dokuma tezgahları ve diğer makinelerin bulunduğu alanlarda çalışıldığından iş güvenliği kurallarına uyulması önemlidir.\n\nİşyerinin üretim temposuna göre vardiyalı (gündüz, gece) çalışma söz konusu olabilir. Çalışma sırasında operatörler, ustabaşı ve diğer meydancılarla sürekli iletişim halindedir; görevleri genellikle operatörlerin talepleri doğrultusunda şekillenir.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin örgün (okul temelli) bir eğitim programı bulunmamaktadır. Meslekte çalışmaya başlamak için genellikle özel bir eğitim şartı aranmaz; işe alınan kişi, işyerinde usta, operatör veya ustabaşı gözetiminde uygulamalı olarak işi öğrenir. Halk Eğitim Merkezleri ile Türkiye İş Kurumunun (İŞKUR) açtığı mesleki eğitim kursları, isteyenler için temel tekstil/dokuma bilgisi ve iş güvenliği konularında destekleyici kurslar sunabilir.",
+  "giris_kosullari": [
+   "Okuryazar olmak (meslek için gereken minimum eğitim düzeyi okuryazarlık düzeyidir)",
+   "18 yaşını doldurmuş olmak (işyerinin kendi şartlarına göre değişebilir)",
+   "İşin gerektirdiği fiziksel koşullara (ayakta çalışma, eğilme, malzeme taşıma vb.) sağlık durumunun uygun olması",
+   "İşyerinin belirlediği işe alım koşullarını (görüşme, sağlık raporu vb.) sağlamak"
+  ],
+  "sure_ve_icerik": "Mesleğin belirli bir eğitim süresi ve müfredatı yoktur. İşe başlayan kişi, işyerinde usta/operatör veya ustabaşı gözetiminde kısa bir süre içinde (genellikle günler ya da haftalar içinde) iş akışını, temizlik ve malzeme taşıma görevlerini, dokuma tezgahlarının çevresinde güvenli hareket etmeyi ve iş sağlığı-güvenliği kurallarını öğrenerek mesleği uygulamaya başlar.",
+  "belge": "Mesleğe giriş için zorunlu bir diploma, sertifika veya mesleki yeterlilik belgesi bulunmamaktadır. Katılınan kurslar sonunda kurs katılım belgesi, işyerinde verilen iş sağlığı ve güvenliği eğitimlerine ilişkin katılım belgesi alınabilir. Mesleki Yeterlilik Kurumu (MYK) belgesi bu meslekte zorunlu olmamakla birlikte, istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Meydancı - Dokuma; iplik, kumaş ve dokuma üretimi yapan tekstil fabrikalarının üretim sahalarında istihdam edilir. Tekstil sektörünün yoğun olduğu illerde ve organize sanayi bölgelerinde iş bulma olanağı daha fazladır. Bu meslekte iş bulma olanakları, sektördeki üretim hacmine, mevsimsel taleplere ve genel ekonomik koşullara bağlı olarak değişkenlik gösterebilir. Özel bir eğitim veya belge şartı aranmadığından işe giriş genellikle doğrudan işyerinin kendi değerlendirme süreciyle gerçekleşir.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğin örgün bir eğitim süreci bulunmadığından eğitim süresince ayrı bir ücretlendirme söz konusu değildir; kişi doğrudan işe başlar ve çalıştığı süre için ücret alır.",
+  "egitim_sonrasi": [
+   "Özel sektörde çalışanlar genellikle asgari ücret düzeyinde kazanç sağlar; işyerinin büyüklüğü, çalışma koşulları ve kişinin deneyimine göre ücret değişebilir.",
+   "Kamuya bağlı üretim tesislerinde işçi statüsünde çalışanlar, ilgili toplu iş sözleşmesi hükümlerine göre ücret alır."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Meslek örgün bir eğitim kademesine dayanmadığından, mesleki eğitimde doğrudan bir ilerleme basamağı bulunmamaktadır. Kişi isterse açık öğretim, halk eğitim merkezi kursları gibi yollarla eğitim düzeyini yükselterek daha nitelikli mesleklere yönelebilir.",
+  "is_hayatinda": "Deneyim kazandıkça ve dokuma tezgahlarının çalışma mantığını öğrendikçe, işyerinde açılan kurslar veya işbaşı eğitimlerle dokuma operatörlüğü, makine bakım elemanlığı gibi daha nitelikli görevlere geçiş mümkün olabilir. İlerleme, kişinin performansına, deneyimine ve işletmenin personel politikasına bağlıdır."
+ },
+ "benzer_meslekler": [
+  "Meydancı - Dökümhane",
+  "Meydancı - İmalat",
+  "Meydancı - İplik",
+  "Meydancı - Konfeksiyon",
+  "Meydancı - Mezbaha",
+  "Malzeme Taşıyıcısı"
+ ],
+ "ek_bilgiler": "Bu meslek, dokuma/tekstil üretim sahasında yardımcı nitelikte bir iştir; makine kullanımı ve karar alma sorumluluğu taşımaz, görevler operatörlerin ve işyerinin yönlendirmesiyle yürütülür. Çalışılan işyerinin tehlikeli veya çok tehlikeli iş sınıfında yer alması durumunda periyodik iş sağlığı ve güvenliği eğitimi alınması gerekebilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T20:10:29",
+  "usage": {
+   "input_tokens": 4,
+   "output_tokens": 9002
+  }
+ }
+}

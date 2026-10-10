@@ -1,0 +1,67 @@
+{
+ "arac_gerec": [
+  "Bilgisayar ve internet bağlantısı",
+  "Ders kitapları, ders notları ve akademik kaynaklar",
+  "Ofis/yazım yazılımları (metin işleme, sunum, hesaplama programları)",
+  "Öğrenci bilgi sistemi, e-posta ve çevrim içi eğitim platformları",
+  "Kırtasiye malzemeleri",
+  "Sunum ve projeksiyon araçları",
+  "Kayıtlı olunan bölüme özgü laboratuvar, atölye veya saha ekipmanları (varsa, alana göre değişir)",
+  "Kütüphane ve dijital veri tabanı kaynakları"
+ ],
+ "benzer_meslekler": [
+  "Öğrenci (Önlisans)",
+  "Öğrenci (Lisans)",
+  "Diğer Kursiyer",
+  "Stajyer (Öğrenci)"
+ ],
+ "calisma_alanlari": "Alansız ön lisans, bir meslek değil, herhangi bir branş belirtilmeksizin iki yıllık yükseköğretim programına devam eden veya bu programı tamamlamış kişilerin genel eğitim durumunu gösteren bir sınıflandırma koludur. Bu nedenle kendine özgü bir \"çalışma alanı\" bulunmaz; kişi eğitim süresince meslek yüksekokulu veya yüksekokul bünyesinde öğrenci statüsündedir.\n\nProgramın tamamlanmasının ardından kişinin hangi mesleklerde çalışabileceği, tamamen kayıtlı olunan ön lisans alanına (teknik, sağlık, sosyal, iktisadi-idari vb.) bağlıdır. Alan belirtilmediği için, iş bulma olanakları ve çalışma alanları genel bir ifadeyle değerlendirilemez; bu bilgi ancak programın alanı netleştiğinde anlamlı hale gelir.",
+ "calisma_ortami": "Alansız ön lisans statüsündeki kişi, kayıtlı olduğu meslek yüksekokulu veya yüksekokulun fiziki koşullarına bağlı bir ortamda bulunur. Eğitim genellikle sınıf, amfi ve kütüphane ortamlarında; kayıtlı olunan bölümün niteliğine göre bazı durumlarda laboratuvar, atölye veya uygulama alanlarında yürütülür. Çalışma ortamının somut özellikleri (kapalı/açık alan, fiziksel riskler vb.) alan belirtilmediğinden tanımlanamaz.\n\nÖğrenci, dersler ve akademik faaliyetler kapsamında öğretim elemanları, idari personel ve diğer öğrencilerle iletişim kurar. Örgün öğretimde ders programı akademik takvime bağlı olarak değişken ve genellikle gündüz saatlerinde yoğunlaşan bir düzende yürür; açık öğretim veya uzaktan eğitim seçeneklerinde ise katılım daha esnek bir yapıda olabilir.",
+ "egitim": {
+  "verildigi_yerler": "Bu kod, belirli bir mesleğe veya mesleki eğitim programına karşılık gelmemektedir. Türkiye'deki üniversitelere bağlı meslek yüksekokulları ve yüksekokulların herhangi bir alanında (teknik, sağlık, sosyal, iktisadi-idari vb.) örgün veya açık öğretim yoluyla iki yıllık ön lisans eğitimi veren tüm yükseköğretim kurumlarını genel olarak kapsar.",
+  "giris_kosullari": [
+   "Lise veya dengi okul diplomasına sahip olmak",
+   "Merkezi yerleştirme sınavı (YKS) sonucuna göre bir ön lisans programına yerleşmiş olmak veya meslek lisesi mezunları için sınavsız geçiş ya da ek puan uygulamalarından yararlanarak kayıt hakkı kazanmış olmak",
+   "Kayıt yaptırılacak programın varsa özel şartlarını (sağlık durumu, yaş vb.) karşılamak"
+  ],
+  "sure_ve_icerik": "Ön lisans eğitiminin süresi, kayıtlı olunan programın müfredatına göre genellikle iki akademik yıl (dört yarıyıl) olup, programın yapısına göre bu süre uzayabilir. Eğitimin içeriği tamamen kayıtlı olunan bölümün alanına göre şekillenir; bu sınıflandırma kodu herhangi bir alanı belirtmediğinden, dersler, uygulamalar ve staj uygulamaları alandan alana büyük farklılık gösterir ve genel bir içerik tanımlanamaz.",
+  "belge": "Programı başarıyla tamamlayanlara, Yükseköğretim Kurulu (YÖK) onaylı ön lisans diploması verilir."
+ },
+ "ek_bilgiler": "\"Alansız Ön Lisans\" bir meslek adı değil, Türk Meslekler Sözlüğünde istatistiksel ve idari sınıflandırma amacıyla kullanılan bir eğitim durumu kodudur; herhangi bir branş belirtmeksizin iki yıllık yükseköğretim programına devam eden veya bu programı tamamlamış kişileri ifade eder. Bu nedenle kendine özgü somut görev, araç-gereç, çalışma ortamı veya kazanç bilgisi bulunmaz; bu dosyada verilen bilgiler genel çerçevede ve ihtiyatlı biçimde sunulmuştur. Kişinin gerçek mesleki yönelimi, ancak kayıtlı olduğu ön lisans programının alanı (örneğin teknik programlar, sağlık hizmetleri, büro yönetimi, muhasebe vb.) belirlendiğinde netleşir; meslek seçimi yapacak gençlerin ilgi ve yetenekleri doğrultusunda belirli bir alanda ön lisans programını tercih etmeleri önerilir.",
+ "genel_ozellikler": [
+  "Araştırmaya ve öğrenmeye istekli,",
+  "Zamanını ve çalışmalarını planlı biçimde yönetebilen,",
+  "Sorumluluk sahibi ve düzenli,",
+  "Analitik ve çözüme yönelik düşünebilen,",
+  "Ekip çalışmasına uyumlu,",
+  "Temel bilgisayar ve iletişim becerilerine sahip,",
+  "Değişen koşullara uyum sağlayabilen"
+ ],
+ "gorevler": [
+  "Temel mesleki ve akademik eğitim süreçlerine katılır.",
+  "Verilen ödev, proje ve uygulama görevlerini yerine getirir.",
+  "Kurumsal yazışma ve temel bilgisayar kullanım becerilerini geliştirir.",
+  "Genel idari veya teknik destek süreçlerinde görev alır.",
+  "Kişisel gelişim eğitimlerini takip eder.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Ön lisans eğitimini tamamlayanlar, Dikey Geçiş Sınavı (DGS) ile alanlarına uygun lisans programlarına geçiş yapabilir veya tamamladıkları alanda farklı yükseköğretim programlarına yönelebilirler. Ayrıca çeşitli sertifika programları ve kurslarla bilgi ve becerilerini geliştirebilirler.",
+  "is_hayatinda": "İş hayatında ilerleme, tamamlanan ön lisans programının alanına, kişinin edindiği deneyime ve varsa ek eğitim/sertifikalarına bağlı olarak değişir. Bu sınıflandırma kodu, kendi başına belirli bir meslekte ilerleme yolu tanımlamaz; ilerleme imkanları ancak alan netleştiğinde değerlendirilebilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Eğitim süresince kişi öğrenci statüsünde olduğundan düzenli bir ücret söz konusu değildir. Öğrenciler genellikle aile desteği, öğrenim kredisi/bursu veya varsa yarı zamanlı işlerden gelir sağlayabilir.",
+  "egitim_sonrasi": [
+   "Mezuniyet sonrası kazanç, tamamlanan ön lisans programının alanına, çalışılan sektöre, işyerinin büyüklüğüne ve kişinin tecrübesine göre büyük farklılık gösterir; bu nedenle genel bir rakam veya oran belirtmek mümkün değildir.",
+   "Kamu sektöründe istihdam edilenler ilgili mevzuata (657 sayılı Kanun veya toplu iş sözleşmesi hükümlerine) göre; özel sektörde çalışanlar ise işveren ile yapılan anlaşmaya ve sektörün ücret düzeyine göre kazanç elde eder."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T21:16:59",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6235
+  }
+ }
+}

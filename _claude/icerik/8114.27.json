@@ -1,0 +1,71 @@
+{
+ "arac_gerec": [
+  "Taşyünü levha kesme makinesi/testeresi",
+  "Lamba-zıvana freze makinesi",
+  "Boya püskürtme (sprey) tabancası ve boya kabini",
+  "Dekoratif doku/desen uygulama silindiri veya baskı makinesi",
+  "Şerit metre, mastar, kumpas gibi ölçüm aletleri",
+  "Ses yalıtımı ve yangın dayanım test cihazları",
+  "Paketleme ve ambalajlama makinesi",
+  "Forklift/transpalet",
+  "Toz maskesi, eldiven, koruyucu gözlük, kulaklık gibi kişisel koruyucu donanımlar",
+  "Kalite kontrol ölçüm cihazları"
+ ],
+ "genel_ozellikler": [
+  "El ve gözlerini eşgüdümle kullanabilen,",
+  "Dikkatli ve sabırlı,",
+  "Fiziksel olarak dayanıklı,",
+  "Talimatları eksiksiz uygulayabilen,",
+  "Takım çalışmasına uyumlu,",
+  "Toz ve kapalı atölye ortamı koşullarına uyum sağlayabilen,",
+  "İş sağlığı ve güvenliği kurallarına duyarlı."
+ ],
+ "calisma_ortami": "Taşyünü (mineral yünü) üretim ve asma tavan paneli imalatı yapan fabrika ve üretim tesislerinde, kapalı alanda ve genellikle üretim hattı içinde çalışır. Çalışma ortamı tozlu ve gürültülü olabilir; kesme, işleme ve boyama aşamalarında ince lif, toz ve kimyasal koku/buhar oluşabileceğinden kişisel koruyucu donanım kullanımı önemlidir. Üretim temposuna bağlı olarak vardiyalı çalışma düzeni söz konusu olabilir.\n\nMeslek elemanı çalışma süresince üretim hattındaki diğer işçiler, usta/formen, kalite kontrol personeli ve sevkiyat/depo çalışanlarıyla sürekli iletişim halindedir.",
+ "egitim": {
+  "verildigi_yerler": "Bu meslek için örgün eğitimde ayrı bir meslek lisesi alanı/dalı bulunmamaktadır. Meslek elemanları genellikle taşyünü/mineral yünü üretim tesislerinde işe alındıktan sonra işbaşında, usta veya deneyimli çalışanların gözetiminde eğitilerek yetişir. Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kursları, yapı malzemesi üretimi ve genel üretim/montaj alanındaki kısa süreli kurslar tamamlayıcı nitelikte olabilir.",
+  "giris_kosullari": [
+   "İlköğretim mezunu olmak (meslekte aranan minimum eğitim düzeyi),",
+   "İşin gerektirdiği fiziksel koşullara (ayakta çalışma, kaldırma, tozlu ortam) uygun sağlık durumuna sahip olmak,",
+   "18 yaşını doldurmuş olmak."
+  ],
+  "sure_ve_icerik": "Bu meslekte standart bir eğitim süresi ve müfredat tanımlanmamıştır. Eğitim, işe alındıktan sonra işletme içinde deneyimli usta veya formen gözetiminde uygulamalı olarak verilir. Taşyünü levhalarının kesimi, kenarların lamba-zıvana veya düz formda işlenmesi, yüzeye boya/dekoratif doku uygulanması, ürünlerin ses yalıtımı ve yangın dayanım açısından denetlenmesi ile paketleme-istifleme aşamaları sırayla öğretilir. Eğitim süresi işletmenin uygulamasına ve çalışanın öğrenme hızına göre değişir.",
+  "belge": "Örgün bir diploma veya sertifika sistemi bulunmamaktadır; işletme içi eğitim sonunda çalışana görev yetkinliği kazandırılır. Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Taşyünü (mineral yünü) üretimi ve asma tavan paneli imalatı yapan fabrikalarda, yapı/inşaat malzemeleri üreten sanayi tesislerinde çalışabilirler. Ayrıca bu ürünlerin depolama, kalite kontrol ve sevkiyat birimlerinde de istihdam edilebilirler. İş bulma olanakları, inşaat sektöründeki yapı malzemesi talebine ve ilgili sanayi tesislerinin üretim hacmine göre değişmektedir.",
+ "kazanc": {
+  "egitim_suresince": "Bu meslekte örgün bir mesleki eğitim süreci bulunmadığından, işe başlangıçta genellikle asgari ücret düzeyinde ücret alınır; çalışan işletmenin sağladığı sigorta ve sosyal haklardan yararlanır.",
+  "egitim_sonrasi": [
+   "Kazanç, çalışılan işletmenin büyüklüğüne, çalışanın tecrübesine, bilgi ve becerisine ve sektörün genel ücret düzeyine göre değişmektedir.",
+   "Özel sektörde ücret işveren ile çalışan arasında karşılıklı olarak belirlenir; kamuya bağlı işletmelerde çalışanlar ilgili toplu iş sözleşmesi hükümlerine göre ücret alır."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Bu meslekte örgün bir kalfalık-ustalık ilerleme basamağı tanımlı değildir. İlgili alanda açılan mesleki eğitim kurslarına katılarak bilgi ve beceriler geliştirilebilir.",
+  "is_hayatinda": "Deneyim kazanan çalışanlar usta başı, vardiya amiri veya kalite kontrol sorumlusu gibi pozisyonlara yükselebilir. Yeterli bilgi birikimi ve sermaye ile bağımsız küçük ölçekli imalat işletmesi kurabilirler."
+ },
+ "benzer_meslekler": [
+  "Çimento İmal İşçisi",
+  "Alçı İmalat İşçisi",
+  "Karo İmal İşçisi",
+  "Mozaik İmal İşçisi (İnşaat)",
+  "Alçı ve Alçı Levha Üretim Operatörü",
+  "Diğer Metalik Olmayan Madenler İmalat İşçileri"
+ ],
+ "ek_bilgiler": "Taşyünü (mineral yünü) üretimi ve işlenmesi sırasında oluşan ince lifler cilt ve solunum yolu tahrişine yol açabilir; bu nedenle çalışanların kişisel koruyucu donanım kullanımı ve iş sağlığı ile güvenliği tedbirlerine özen göstermesi önemlidir.",
+ "gorevler": [
+  "Taşyünü levhalarını istenilen asma tavan ölçülerinde keser.",
+  "Panellerin kenarlarını lamba-zıvana veya düz formda işler.",
+  "Panel yüzeylerine boya veya dekoratif doku uygulaması yapar.",
+  "Ürünlerin ses yalıtımı ve yangın dayanım standartlarını denetler.",
+  "Bitmiş panelleri hasar görmeyecek şekilde paketleyerek istifler.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T10:51:41",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5807
+  }
+ }
+}

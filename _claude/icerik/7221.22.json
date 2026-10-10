@@ -1,0 +1,88 @@
+{
+ "gorevler": [
+  "İş sağlığı ve güvenliği konusundaki yasal ve işyerine ait kuralları uygular.",
+  "Kalite yönetim sistemi dokümanlarına uygun çalışır.",
+  "Çalışılan yeri düzenler.",
+  "Çalışma alet ve donanımının koruyucu ve talimatlı bakımlarını sağlar.",
+  "Çalışma öncesi hazırlık işlemlerini yapar.",
+  "İş organizasyonu yapar.",
+  "Haddeleme donanımı ve süreçle ilgili malzeme, alet ve ekipmanı hazırlar.",
+  "Soğutma suyu ve yağlama sisteminin kontrollerini yapar.",
+  "Yarı ürünün kontrolünü gerçekleştirir.",
+  "Malzemeleri haddelemek için haddeleme donanımını ayarlar.",
+  "Haddeleme programını seçer ve belirler.",
+  "Üretim programına uygun haddeleme yapmak için iş emirlerini kontrol eder.",
+  "Haddeleme bölgesini kontrol eder.",
+  "Haddeleme işlemini gerçekleştirir.",
+  "Haddeleme donanımını kontrol eder.",
+  "Üretimde uygunluğu sağlar.",
+  "Haddelenen ürünü sevk eder ve raporları hazırlar.",
+  "Mesleki gelişim faaliyetlerini yürütür."
+ ],
+ "arac_gerec": [
+  "Haddeleme tezgahı/makinesi",
+  "Çalışan merdaneler (silindirler)",
+  "Kumanda paneli ve kontrol sistemleri",
+  "Ölçüm aletleri (kumpas, mikrometre, şerit metre)",
+  "Soğutma suyu ve yağlama sistemi ekipmanları",
+  "Vinç ve diğer kaldırma-taşıma ekipmanları",
+  "Sıcak malzeme taşımaya yarayan maşa, pens gibi aletler",
+  "Kişisel koruyucu donanım (baret, koruyucu gözlük, eldiven, kulaklık, iş elbisesi, çelik burunlu ayakkabı)",
+  "Bakım için gerekli el aletleri (anahtar takımı, tornavida vb.)",
+  "Kalite kontrol ve üretim takip formları",
+  "Yangın söndürme ve ilk yardım malzemeleri"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve tedbirli,",
+  "Fiziksel olarak güçlü ve dayanıklı,",
+  "El ve göz koordinasyonu gelişmiş,",
+  "Yüksek ısı, gürültü ve vardiyalı çalışma koşullarına uyum sağlayabilen,",
+  "Teknik alet ve makineleri kullanabilen,",
+  "Ekip çalışmasına uyumlu,",
+  "Sorumluluk sahibi ve talimatlara uyan,",
+  "İş sağlığı ve güvenliği kurallarına duyarlı"
+ ],
+ "calisma_ortami": "Hadde İşçisi, demir-çelik ve diğer metal üretim/işleme tesislerinin atölye ve fabrika ortamlarında çalışır. Özellikle sıcak haddeleme işlemlerinde yüksek ısı, gürültü, kıvılcım ve sıcak malzeme ile çalışma söz konusu olduğundan iş kazası ve yanma riski bulunur; bu nedenle kişisel koruyucu donanım kullanımı ve iş güvenliği kurallarına uyum büyük önem taşır. Çalışma genellikle ayakta, hareketli ve vardiyalı (gündüz/gece) düzende sürer.\n\nMeslek mensubu; usta başı, vardiya amiri, kalite kontrol ve bakım personeli gibi işyeri çalışanlarıyla yakın iş birliği içinde görev yapar. Üretim sürekliliği gerektiren bir meslek olduğundan hafta sonu ve resmi tatillerde de çalışma gerekebilir.",
+ "egitim": {
+  "verildigi_yerler": "Hadde İşçiliği için örgün bir ön lisans veya lisans programı bulunmamaktadır. Meslek genellikle mesleki ve teknik Anadolu liselerinin metal teknolojisi/metalurji ile ilgili alanlarından mezun olunduktan sonra işletmelerde işbaşında usta yanında yetişilerek öğrenilir. Ayrıca Halk Eğitim Merkezleri ile İŞKUR tarafından açılan mesleki eğitim ve işbaşı eğitim programları da bu alanda beceri kazandırmaktadır.",
+  "giris_kosullari": [
+   "İlköğretim/ortaokul mezunu olmak (meslek lisesi programları için)",
+   "Fiziksel olarak işin gerektirdiği güç ve dayanıklılığa sahip olmak",
+   "İşitme, görme ve genel sağlık durumu açısından ağır ve sıcak ortam çalışmasına uygun olmak",
+   "Kurs ve işbaşı eğitim programları için ilgili kurumların belirlediği yaş ve eğitim düzeyi şartlarını taşımak"
+  ],
+  "sure_ve_icerik": "Mesleğin standart bir eğitim süresi bulunmamaktadır. Meslek lisesi programlarında teorik ve uygulamalı metal işleme dersleri birkaç yıl sürer; işletmelerde ise işe yeni başlayanlar belirli bir süre deneyimli bir hadde işçisi veya usta gözetiminde çalışarak haddeleme donanımının kullanımını, malzeme özelliklerini, iş güvenliği uygulamalarını ve üretim süreçlerini öğrenir. Kurs programlarında ise haddeleme teknikleri, makine bakımı ve iş güvenliği konularında temel bilgiler verilir.",
+  "belge": "İşbaşında yetişme sürecini tamamlayanlara işyeri tarafından çalışma/deneyim belgesi; kurslara katılanlara ise kurs bitirme/katılım belgesi verilir. Bu meslek, iş sağlığı ve güvenliği mevzuatı kapsamında tehlikeli veya çok tehlikeli işler arasında değerlendirilebileceğinden, bazı işyerlerinde çalışanların Mesleki Yeterlilik Kurumu (MYK) Mesleki Yeterlilik Belgesine sahip olmaları istenebilir; bu belge istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Hadde İşçileri başta demir-çelik fabrikaları olmak üzere, alüminyum, bakır ve diğer metallerin levha, sac, şerit-bant, folyo, profil, tel veya çubuk şeklinde işlendiği metal üretim ve işleme tesislerinde istihdam edilir. Ülkemizde demir-çelik sektörünün önemli bir üretim ve ihracat kalemi olması nedeniyle, özellikle sanayi bölgelerinde bu meslek için istihdam olanağı bulunmaktadır. Deneyimli ve vasıflı hadde işçilerine olan talep, sektördeki üretim hacmine ve teknolojik yatırımlara bağlı olarak değişkenlik gösterebilir.",
+ "kazanc": {
+  "egitim_suresince": "İşbaşında yetişme sürecinde genellikle ücret işletmenin uygulamasına bağlıdır; İŞKUR'un işbaşı eğitim programlarına katılanlara ise program kapsamında belirlenen günlük cep harçlığı ödenebilir.",
+  "egitim_sonrasi": [
+   "İşe yeni başlayanlar genellikle asgari ücret düzeyinde ücret alır.",
+   "Deneyim, vardiya, performans ve işletmenin büyüklüğüne göre ücret artış gösterebilir.",
+   "Büyük ölçekli demir-çelik işletmelerinde toplu iş sözleşmesi kapsamında çalışanlar, ücretin yanı sıra vardiya, yemek, servis ve sosyal yardım gibi ek haklardan yararlanabilir.",
+   "Kamu iktisadi teşekküllerine bağlı tesislerde çalışanlar işçi statüsünde istihdam edilir ve ücretleri toplu iş sözleşmesi hükümlerine göre belirlenir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğin örgün bir ön lisans veya lisans programı bulunmadığından doğrudan bir dikey geçiş imkânı yoktur. Ancak meslek lisesi metal teknolojisi/metalurji alanı mezunları, isterlerse üniversitelerin ilgili sınavlarına girerek metalurji ve malzeme mühendisliği, makine mühendisliği gibi lisans programlarına yerleşebilir.",
+  "is_hayatinda": "Deneyim ve bilgi birikimi arttıkça hadde işçisi; usta, vardiya sorumlusu, usta başı veya üretim şefliği gibi görevlere yükselebilir."
+ },
+ "benzer_meslekler": [
+  "Haddeci",
+  "Metal Hadde Çekicisi (Sıcak Hadde)",
+  "Sıcak Metal Şekillendirme Ustası",
+  "Sıcak Metal Şekillendirme İşçisi",
+  "Temel Metal Şekillendirme Elemanı",
+  "Diğer Metal Çekiciler ve Şekillendiriciler"
+ ],
+ "ek_bilgiler": "Hadde işçiliği, yüksek ısı, ağır malzeme ve hareketli makine ile çalışmayı gerektirmesi nedeniyle iş sağlığı ve güvenliği mevzuatında tehlikeli veya çok tehlikeli işler kapsamında değerlendirilebilmektedir; bu durumda işe alımda sağlık raporu ve periyodik sağlık kontrolleri önem kazanır. Ayrıca mesleğin yoğun olarak vardiyalı çalışma düzeninde yürütüldüğü, bu nedenle gece çalışmasına uygunluğun da aranabileceği göz önünde bulundurulmalıdır.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T01:07:43",
+  "usage": {
+   "input_tokens": 6,
+   "output_tokens": 14435
+  }
+ }
+}

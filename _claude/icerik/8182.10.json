@@ -1,0 +1,73 @@
+{
+ "arac_gerec": [
+  "Sabit içten yanmalı motor veya pistonlu buhar makinesi",
+  "Kontrol panosu ve göstergeler (basınç, sıcaklık, devir göstergesi)",
+  "Yakıt besleme sistemi (pompa, vana, filtre)",
+  "Yağlama ekipmanları (yağdanlık, gres tabancası)",
+  "Anahtar takımları",
+  "Tornavida ve çeşitli pense takımları",
+  "Çekiç",
+  "Üstüpü, temizlik bezi ve fırça",
+  "Yedek parça ve conta malzemeleri",
+  "Koruyucu iş elbisesi, eldiven, gözlük ve kulaklık gibi kişisel koruyucu donanım"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli,",
+  "Sorumluluk sahibi,",
+  "Fiziksel olarak güçlü ve dayanıklı,",
+  "El ve göz koordinasyonu gelişmiş,",
+  "Makine ve motor sistemlerine ilgili,",
+  "Vardiyalı çalışmaya uygun,",
+  "Takım çalışmasına uyumlu,",
+  "Tedbirli ve iş güvenliği kurallarına önem veren"
+ ],
+ "calisma_ortami": "Sabit motor operatörleri genellikle fabrika, tesis, liman veya santral içindeki kapalı makine/motor dairelerinde çalışır. Çalışma ortamında gürültü, sıcaklık, titreşim, yağ ve yakıt kokusu gibi fiziksel etkenler bulunabilir; bu nedenle iş sağlığı ve güvenliği önlemlerine dikkat etmek önemlidir. Çalışma genellikle ayakta ve hareketli şekilde sürer, işletmenin sürekli üretim yapması durumunda vardiyalı çalışma düzeni söz konusu olabilir.\n\nGörevini yerine getirirken diğer operatörler, bakım-onarım personeli, teknisyenler ve mühendislerle iş birliği içinde çalışır.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi için resmi olarak tanımlanmış örgün bir okul programı bulunmamaktadır. İlköğretim düzeyinde gerçekleştirilebilen bu meslek, genellikle işletmelerde işbaşında usta yanında yetişme yoluyla; ayrıca Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kurslarında ve ilgili mesleki ve teknik eğitim programlarında (makine/motor teknolojileri alanı) kazanılabilir.",
+  "giris_kosullari": [
+   "İlköğretim mezunu olmak",
+   "18 yaşından küçüklerin kurslara veli izni ile katılabilmesi",
+   "İşin gerektirdiği fiziksel koşulları taşıyor olmak"
+  ],
+  "sure_ve_icerik": "Kursların süresi ve içeriği kurumdan kuruma değişmekle birlikte genellikle birkaç ay sürer. Eğitimde motor ve kazan yapısı, kontrol ve gösterge sistemleri, yakıt besleme, yağlama, basit bakım-onarım işlemleri ile iş sağlığı ve güvenliği konuları teorik ve uygulamalı olarak işlenir. Mesleğin önemli bir kısmı işbaşında deneyimle kazanılır.",
+  "belge": "Kurs tamamlandığında Kurs Bitirme Belgesi verilebilir; işbaşı eğitimle kazanılan yetkinlikler ustalık düzeyine ulaşmayı sağlar."
+ },
+ "calisma_alanlari": "Sabit motor operatörleri; diğer teçhizata hareket gücü sağlayan sabit, içten yanmalı motorların veya pistonlu buhar makinelerinin bulunduğu fabrikalarda, sanayi tesislerinde, limanlarda, maden işletmelerinde, enerji üretim tesislerinde ve benzeri işletmelerde çalışabilir. Sanayinin yoğun olduğu bölgelerde iş bulma olanağı daha geniştir. Teknolojinin gelişmesiyle bazı tesislerde otomasyon artsa da, sabit motorların işletilmesi ve bakımı için deneyimli operatörlere ihtiyaç duyulmaktadır.",
+ "kazanc": {
+  "egitim_suresince": "Kurs yoluyla eğitim alınıyorsa bu süre içinde herhangi bir kazanç söz konusu değildir. İşbaşında usta yanında yetişme durumunda, çalışılan işletmenin uygulamasına göre asgari ücret düzeyinde bir ücret söz konusu olabilir.",
+  "egitim_sonrasi": [
+   "Özel sektörde işe başlarken genellikle asgari ücret düzeyinde kazanç elde edilir; deneyim, işletmenin büyüklüğü ve sektöre göre ücret artabilir.",
+   "Kamu kurumlarında işçi statüsünde çalışılması durumunda ücret, ilgili toplu iş sözleşmesi hükümlerine göre belirlenir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Meslekte tanımlı örgün bir ilerleme basamağı bulunmamaktadır. Deneyim kazanılması ve ek kurslara katılım, farklı motor ve kazan tiplerinde çalışabilme yetkinliğini artırır.",
+  "is_hayatinda": "Deneyim kazandıkça usta operatörlüğe, ekip sorumluluğuna veya bakım-onarım sorumluluğuna yükselebilir. İlgili teknik eğitimlerin tamamlanması durumunda vasıflı teknisyenlik gibi ilişkili mesleklere geçiş yapılabilir."
+ },
+ "benzer_meslekler": [
+  "Buhar Kazanı Operatörü/Kazan Ateşçisi",
+  "Kalorifer Ateşçisi",
+  "Doğal Gaz Kalorifer Ateşçisi",
+  "Sıcak Su Kazanı Operatörü",
+  "Kızgın Yağ Kazanı Operatörü",
+  "Atık Isı Kazanı Operatörü"
+ ],
+ "ek_bilgiler": "Çalışılan sektöre ve işin niteliğine göre bazı işyerlerinde Mesleki Yeterlilik Kurumu (MYK) belgesine sahip olmak istihdamda tercih sebebi olabilir. Motor ve kazan dairelerinde çalışma koşulları işin niteliğine göre risk taşıyabileceğinden, işyerinde uygulanan iş sağlığı ve güvenliği eğitimlerine düzenli olarak katılmak önemlidir.",
+ "gorevler": [
+  "Kontrol aletlerini yoklar, ayarlar ve makineyi çalıştırır.",
+  "Göstergelere bakarak makinenin çalışmasını izler ve gereken diğer ayarları yapar.",
+  "Yakıtın devamlı olarak verilmesini sağlar.",
+  "Oynak parçaları yağlar.",
+  "Gevşek kısımları sıkıştırır.",
+  "Makineyi iyi ve işler durumda bulundurmak için gerekli diğer bakım işlerini ve ufak tamir işlerini yapar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T17:07:53",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 4896
+  }
+ }
+}

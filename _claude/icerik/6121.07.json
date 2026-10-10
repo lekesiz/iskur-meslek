@@ -1,0 +1,87 @@
+{
+ "arac_gerec": [
+  "Kaşağı ve tımar fırçası",
+  "Tırnak kesme/kesici aletler",
+  "Sağım kovası ve sağım gereçleri",
+  "Yemlik ve suluk",
+  "Ahır temizleme araçları (kürek, faraş, el arabası)",
+  "Dezenfeksiyon/ilaçlama püskürtme pompası",
+  "Hayvan bağlama ipi/halter",
+  "Yem karıştırma ve hazırlama ekipmanları",
+  "Koruyucu eldiven ve çizme",
+  "Basit ilk yardım ve bakım malzemeleri",
+  "Sperm alma hücresi ekipmanları",
+  "Kayıt defteri/formları"
+ ],
+ "genel_ozellikler": [
+  "Hayvanlara karşı sevgi ve ilgi duyan,",
+  "Fiziksel olarak güçlü ve dayanıklı,",
+  "Açık havada ve zorlu koşullarda çalışmaya istekli,",
+  "Sabırlı ve dikkatli,",
+  "Sorumluluk sahibi,",
+  "Erken saatlerde ve düzensiz çalışma saatlerine uyumlu,",
+  "Temizlik ve düzene özen gösteren,",
+  "Gözlem gücü yüksek kimseler olmaları gerekir."
+ ],
+ "calisma_ortami": "Sığır yetiştiricisi, büyük bölümü açık havada (mera, avlu) ve kapalı mekânlarda (ahır, sağımhane) geçen bir çalışma yürütür. Çalışma ortamı gübre, yem ve hayvan kokusuna sahip olabilir; zeminin ıslak ve kaygan olması, hava koşullarına bağlı sıcak-soğuk ortamlarda çalışma gerekliliği söz konusudur. Hayvanlarla doğrudan ve sürekli temas nedeniyle tekme, çarpma veya bulaşıcı hastalık gibi riskler bulunabilir.\n\nÇalışma saatleri hayvanların beslenme, sağım ve bakım ihtiyaçlarına göre şekillenir; genellikle sabah erken saatlerde başlar ve günün farklı zamanlarına yayılabilir, hafta sonu ve tatil günlerinde de çalışma gerekebilir. Çiftlik/işletme sahibi, diğer çalışanlar ve gerektiğinde veteriner hekimle iş birliği içinde çalışılır.",
+ "egitim": {
+  "verildigi_yerler": "Bu meslek için örgün bir okul/ön lisans programı bulunmamaktadır. Bilgi ve beceriler genellikle işbaşında usta yanında, aile işletmelerinde çalışarak veya Halk Eğitim Merkezleri ile İŞKUR'un açtığı mesleki eğitim kurslarında, tarım il/ilçe müdürlüklerinin düzenlediği kısa süreli eğitimlerde kazanılır. Mesleki ve teknik eğitim veren ortaöğretim kurumlarının hayvan yetiştiriciliği ile ilgili alan/dallarında da temel bilgiler edinilebilir.",
+  "giris_kosullari": [
+   "İlköğretim mezunu olmak (mesleğin gerektirdiği asgari eğitim düzeyi ilköğretimdir),",
+   "Hayvancılık işlerine fiziksel olarak uygun olmak,",
+   "Açık hava ve ağır fiziksel çalışma koşullarına dayanıklı olmak."
+  ],
+  "sure_ve_icerik": "Örgün bir eğitim süresi bulunmamaktadır. İşbaşında eğitim süresi işletmenin ihtiyacına ve kişinin öğrenme hızına göre değişir. Açılan kurslarda genellikle hayvan besleme ve bakımı, temizlik, sağım teknikleri, basit hastalık belirtilerinin tanınması, hijyen ve koruyucu önlemler gibi konular haftalar içinde sürecek eğitimlerle verilir.",
+  "belge": "Katıldığı kurslardan kurs bitirme/katılım belgesi alınabilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Sığır yetiştiricileri; özel süt ve besi sığırcılığı işletmelerinde, aile işletmelerinde, tarımsal kooperatiflerde, damızlık işletmelerde ve çiftliklerde çalışabilir. Kendi hesabına çiftlik işletebilecekleri gibi işçi statüsünde başka bir işletmede de görev alabilirler. Kırsal alanda hayvancılığın yaygın olduğu bölgelerde istihdam olanağı daha fazladır.",
+ "kazanc": {
+  "egitim_suresince": "Örgün bir eğitim süreci bulunmadığından öğrenci kredisi/bursu söz konusu değildir. Katılınan bazı kurslarda İŞKUR tarafından kursiyerlere harçlık ödenebilir.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Deneyim, bilgi birikimi ve üstlenilen sorumluluk arttıkça kazanç işletme imkânlarına göre artabilir.",
+   "Kendi işletmesini kuran kişilerin kazancı üretim miktarı, verim ve pazar koşullarına göre değişkenlik gösterir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğe özgü örgün bir ilerleme basamağı bulunmamaktadır. Kişi deneyim kazandıkça sağım, çiftleştirme ve hastalık takibi gibi daha nitelikli işlerde uzmanlaşabilir; isterse tarım veya veterinerlik alanında örgün eğitime yönelerek veteriner sağlık teknikerliği gibi ilgili mesleklere geçiş yapabilir.",
+  "is_hayatinda": "Deneyim kazanan sığır yetiştiricileri usta işçi veya işletme sorumlusu konumuna gelebilir, bilgi ve sermaye birikimine göre kendi çiftliğini kurarak işletme sahibi olabilir."
+ },
+ "benzer_meslekler": [
+  "Süt Sığırı Yetiştiricisi",
+  "Süt Hayvanları Yetiştiricisi",
+  "Manda Yetiştiricisi",
+  "Çoban/Sürü Yönetim Elemanı (Büyükbaş Hayvan)",
+  "Çiftçi (Hayvancılık)",
+  "Sağım İşçisi (Elle)"
+ ],
+ "ek_bilgiler": "Hayvan sağlığına yönelik aşılama, ilaçlama ve tedavi gibi işlemlerde veteriner hekim gözetimi ve onayı gereklidir. Sığır yetiştiriciliği kırsal alanda yaygın olarak yapılan bir meslek olup süt ve et ürünlerine olan talebe bağlı olarak istihdam olanağı sunmaktadır.",
+ "gorevler": [
+  "Hayvan Yetiştirme İşçisi (Genel) mesleğinde belirtilen benzer işleri yapar.",
+  "Sığırları eti, sütü, derisi, boynuzu ve diğer ihtiyaçların karşılanması için yetiştirir.",
+  "Sığırları besleyip sular, temizliğini yapar.",
+  "Basit hastalık ve yaraların tedavisini ve bakımını yapar, ağır hastalıkları ilgililere bildirir.",
+  "Sığırları çiftleştirir.",
+  "Doğum yapmalarına yardımcı olur, doğan buzağının göbeğini keser.",
+  "Yavruların emmesini sağlar.",
+  "Sığırları gezdirir, sağımı yapılacak inekleri sağımhaneye götürüp getirir.",
+  "Elle sağım yapar.",
+  "Sığırları çevreye zarar vermeyecek şekilde meraya götürerek otlatır, ahıra getirir.",
+  "Kaşağı ile tımar eder.",
+  "Tırnaklarını keser.",
+  "Ahırları temizleyip pislikleri atar.",
+  "Hayvan salgın hastalıklarına karşı önlemleri alır ve hastalıklarla mücadele eder.",
+  "Püskürtücü ilaç kullanarak damları ve ahırları dezenfekte eder.",
+  "Talimata uygun olarak yem karışımını hazırlayıp yemliklere doldurur.",
+  "Sperm alınacak boğaları sperm alma hücrelerine götürür, bunlarla ilgili kayıtları tutar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T21:35:42",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5749
+  }
+ }
+}

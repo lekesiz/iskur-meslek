@@ -1,0 +1,79 @@
+{
+ "arac_gerec": [
+  "Helikopterler",
+  "Uçuş göstergeleri ve kokpit cihazları",
+  "Kolektif ve siklik kumanda kolları, pedallar",
+  "Telsiz ve haberleşme cihazları",
+  "GPS ve seyrüsefer sistemleri",
+  "Teknik yayınlar, hava durumu ve havaalanı raporları",
+  "Uçuş/pilot el kitabı",
+  "Kontrol listesi (checklist)",
+  "Havayolu ve fiziki haritalar",
+  "Yakıt ve ağırlık-denge hesap araçları",
+  "Kişisel koruyucu donanım (kask, kulaklık, uçuş yeleği)"
+ ],
+ "genel_ozellikler": [
+  "Mekaniğe ve teknolojiye ilgi duyan,",
+  "Uyarıcıları çabuk algılayıp duruma uygun hızlı tepki verebilen,",
+  "El, göz ve ayak koordinasyonunu iyi kullanabilen,",
+  "Soğukkanlı ve dikkatli,",
+  "Sorumluluk sahibi ve kararlı,",
+  "Yükseklik ve kapalı alan korkusu olmayan,",
+  "Stres altında sağlıklı karar verebilen,",
+  "Ekip çalışmasına uyumlu,"
+ ],
+ "calisma_ortami": "Helikopter pilotları uçuş öncesinde bilgi almak ve planlama yapmak amacıyla uçuş ofislerinde, uçuş sırasında ise helikopter kokpitinde görev yaparlar. Çalışma, görevin niteliğine göre havaalanı, heliport, hastane, platform, afet bölgesi veya açık arazi gibi farklı mekânlarda sürebilir. Kokpit ortamında gürültü ve titreşim söz konusu olabilir; ayrıca değişken hava koşulları ve yükseklik gibi fiziksel riskler mesleğin doğasında bulunur.\n\nÇalışma saatleri uçuş programına, hava koşullarına ve yapılan işin türüne (yolcu taşımacılığı, hava ambulansı, arama-kurtarma, tarımsal ilaçlama vb.) göre düzensiz ve vardiyalı olabilir. Helikopter pilotu, görev sırasında uçuş ekibi, yer personeli, teknisyenler, hava trafik kontrolörleri, meteoroloji görevlileri ve yolcularla sürekli iletişim halindedir.",
+ "gorevler": [
+  "Uçuş programında belirtilen görevin özelliğine göre gerekli hazırlıkları yapar, harita ve raporları inceleyerek uçuş planı hazırlar.",
+  "Yakıt ve zaman hesaplamaları yapar, iniş meydanı ve yedek meydanların özelliklerini raporlardan inceler.",
+  "Uçuştan belli bir süre önce hava meydanında bulunarak hava durumunu inceler, kısıtlayıcı faktörlere göre uçuş planını gözden geçirir ve uçuş planını ilgili birime verir.",
+  "Kalkış saatinden önce helikopterin yanına gelerek uçuş ekibini kontrol eder, teknik donanımların uçuşa hazır olup olmadığını inceler.",
+  "Helikopterin yüklenmesini kontrol eder.",
+  "Kalkış zamanına uygun olarak uçuş kulesinden telsizle izin alıp motoru çalıştırır ve bütün teknik kontrolleri yapar.",
+  "Kalkış, rota, alçalış ve inişleri planladığı şekliyle ve zorunluluk halinde gerekli değişiklikleri yaparak uygular.",
+  "İniş sonu helikopteri park eder ve emniyete alır.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Helikopter pilotluğuna yönelik eğitim; üniversitelerin havacılık ve pilotaj ile ilgili lisans programlarında, Milli Savunma Üniversitesi'ne bağlı harp okullarında (askeri helikopter pilotluğu için) ve Sivil Havacılık Genel Müdürlüğü tarafından yetkilendirilmiş havacılık akademileri/özel havacılık işletmelerinin düzenlediği ticari ve özel helikopter pilotu eğitim programlarında verilmektedir.",
+  "giris_kosullari": [
+   "Lisans düzeyinde havacılık eğitimi almak isteyenlerin ortaöğretimden sonra ilgili yükseköğretim programına yerleşmiş olması gerekir.",
+   "Sivil Havacılık Genel Müdürlüğü'nün yetkilendirdiği sağlık kuruluşlarından uçuşa elverişlilik raporu almak gerekir.",
+   "İlgili kurumun belirlediği yaş, boy-kilo ve genel sağlık şartlarını karşılamak gerekir.",
+   "İyi derecede İngilizce bilmek veya eğitim sürecinde bu yeterliliği kazanmak önemlidir.",
+   "Askeri yoldan yetişmek isteyenlerin, harp okullarının açtığı sınav ve seçim süreçlerinden geçmesi gerekir."
+  ],
+  "sure_ve_icerik": "Helikopter pilotluğu eğitiminde; uçuş teorisi, meteoroloji, seyrüsefer, hava hukuku, helikopter sistemleri ve uçuş performansı gibi teorik dersler, pratik uçuş eğitimiyle birlikte yürütülür. Eğitim süresi izlenen programa ve hedeflenen lisans türüne göre değişmekle birlikte genellikle teorik ve pratik aşamaların bir arada yer aldığı, birkaç yıla yayılan bir süreci kapsar.",
+  "belge": "Eğitimi tamamlayanlara, izlenen programa göre yükseköğretim diploması ile birlikte Sivil Havacılık Genel Müdürlüğü tarafından düzenlenen helikopter pilotu lisansı ve ilgili tip intibak sertifikaları verilir."
+ },
+ "calisma_alanlari": "Helikopter pilotları; havayolu ve genel havacılık işletmelerinde, özel helikopter işletme şirketlerinde, hava ambulansı ve tıbbi tahliye hizmeti veren kuruluşlarda, arama-kurtarma birimlerinde, kolluk kuvvetleri ve kamu kurumlarının havacılık birimlerinde, tarımsal ilaçlama ile orman yangınlarıyla mücadele hizmeti sunan işletmelerde, turizm amaçlı helikopter turu düzenleyen firmalarda, enerji ve petrol sektöründe platform taşımacılığı yapan şirketlerde ve Türk Silahlı Kuvvetleri bünyesinde görev alabilirler.",
+ "kazanc": {
+  "egitim_suresince": "Askeri okullarda eğitim gören öğrencilerin barınma, yeme ve eğitim giderleri devlet tarafından karşılanır ve kendilerine harçlık verilir. Sivil havacılık okullarında veya özel kurslarda eğitim alanlar ise genellikle eğitim giderlerini kendileri üstlenir; bazı kurumlarda burs veya finansman imkânlarından yararlanılabilir.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında (örneğin Türk Silahlı Kuvvetleri, kolluk kuvvetlerine bağlı havacılık birimleri) görev yapan helikopter pilotları, bağlı oldukları kurumun aylık ve özlük haklarına ilişkin mevzuatına göre ücret alır.",
+   "Özel sektörde çalışan helikopter pilotlarının kazancı; işletmenin büyüklüğüne, uçuş saatine, deneyime ve yapılan işin türüne (tıbbi tahliye, tarımsal ilaçlama, turizm, platform taşımacılığı vb.) göre değişir.",
+   "Mesleğe yeni başlayanların kazancı deneyimli pilotlara göre daha düşük olmakla birlikte, uçuş saati ve deneyim arttıkça kazanç genellikle yükselme eğilimi gösterir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Helikopter pilotu adayları, genellikle önce özel pilot lisansı, ardından ticari pilot lisansı alarak kariyerlerine başlar; isteğe bağlı olarak uçuş eğitmeni (öğretmen pilot) yetkisi gibi ilave derecelendirmeler kazanabilirler. Ayrıca farklı helikopter tiplerine yönelik tip intibak eğitimleri ile aletli uçuş gibi ek yetkiler edinebilirler.",
+  "is_hayatinda": "Deneyim kazanan helikopter pilotları kıdemli pilot, uçuş eğitmeni, filo amiri veya operasyon müdürü gibi görevlere yükselebilir. Bazı pilotlar kendi havacılık işletmesini kurabilir veya havacılık emniyeti ve denetim gibi alanlarda görev alabilir."
+ },
+ "benzer_meslekler": [
+  "Pilot",
+  "Uçuş Öğretmeni",
+  "Test Pilotu",
+  "Balon Pilotu",
+  "İnsansız Hava Aracı (İHA) Pilotu",
+  "Seyrüseferci"
+ ],
+ "ek_bilgiler": "Helikopter pilotluğu, Sivil Havacılık Genel Müdürlüğü'nün belirlediği sağlık ve lisans şartlarına tabidir; düzenli sağlık muayeneleri, lisans yenileme ve yeterlilik kontrolleri gerektirir. Askeri helikopter pilotluğu, sivil yoldan yetişmekten farklı olarak kendine özgü bir seçim ve eğitim süreci izler.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T11:57:44",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6993
+  }
+ }
+}

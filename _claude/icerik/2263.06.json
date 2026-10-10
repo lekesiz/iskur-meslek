@@ -1,0 +1,87 @@
+{
+ "arac_gerec": [
+  "Bilgisayar ve ofis yazılımları (raporlama, kayıt tutma)",
+  "ADR/RID ve ilgili ulusal mevzuat dokümanları",
+  "Taşıma evrakları ve yazılı talimatlar",
+  "Etiketleme, işaretleme ve ambalajlama kılavuzları",
+  "Kişisel koruyucu donanım (saha denetimlerinde)",
+  "Denetim ve kontrol formları/check-listeler",
+  "Acil durum eylem planları ve tatbikat formları",
+  "Eğitim kayıt ve sertifika dosyaları",
+  "İletişim araçları (telefon, e-posta, elektronik raporlama sistemleri)",
+  "Yazıcı ve tarayıcı"
+ ],
+ "genel_ozellikler": [
+  "Sorumluluk sahibi,",
+  "Analitik düşünebilen ve detaylara dikkat eden,",
+  "Mevzuat takibine istekli ve mevzuata hakim,",
+  "Yazılı ve sözlü ifade yeteneği güçlü,",
+  "İletişim becerisi gelişmiş,",
+  "Kriz ve acil durumlarda soğukkanlı karar verebilen,",
+  "Planlı ve düzenli çalışabilen,",
+  "Teknik ve sayısal konulara ilgili,"
+ ],
+ "calisma_ortami": "Tehlikeli Madde Güvenlik Danışmanı çalışmalarının büyük bölümünü büro ortamında; mevzuat takibi, rapor ve prosedür hazırlama, eğitim planlama ve kayıt tutma gibi işlerle geçirir. Bunun yanında görev yaptığı işletmenin depo, yükleme-boşaltma sahaları gibi alanlarını ve gerektiğinde taşıma araçlarını yerinde denetlemek üzere saha ziyaretleri yapar; bu ziyaretlerde kişisel koruyucu donanım kullanması gerekebilir ve tehlikeli maddelerle temas riski bulunur.\n\nÇalışma saatleri genellikle normal mesai düzenindedir; ancak kaza veya acil durum söz konusu olduğunda ani müdahale gerekebilir. Görevi gereği işletme yöneticileri, lojistik ve sevkiyat personeli, sürücüler, iş sağlığı ve güvenliği uzmanları ile denetim yapan resmî kurum yetkilileriyle sürekli iletişim halindedir. Birden fazla işletmeye hizmet veren danışmanlar için seyahat gerekliliği de söz konusu olabilir.",
+ "egitim": {
+  "verildigi_yerler": "Tehlikeli Madde Güvenlik Danışmanlığı için lisans düzeyinde doğrudan bir eğitim programı bulunmamaktadır. Bu mesleği icra edebilmek için öncelikle dört yıllık bir lisans programından (genellikle mühendislik veya fen bilimleri alanlarından) mezun olmak, ardından Ulaştırma ve Altyapı Bakanlığı tarafından yetkilendirilmiş eğitim kuruluşlarının düzenlediği 'Tehlikeli Madde Güvenlik Danışmanlığı' eğitim programına katılmak gerekmektedir.",
+  "giris_kosullari": [
+   "Lisans düzeyinde bir yükseköğretim programından mezun olmak (mühendislik veya fen bilimleri alanlarından mezuniyet tercih sebebidir)",
+   "Yetkilendirilmiş eğitim kuruluşlarınca açılan TMGD eğitim programına kayıt yaptırmak",
+   "İlgili mevzuatta belirtilen sınavda başarılı olmak"
+  ],
+  "sure_ve_icerik": "TMGD eğitim programının süresi ilgili mevzuatla belirlenmekte olup yoğunlaştırılmış teorik eğitim şeklinde yürütülür. Eğitim içeriğinde ADR/RID mevzuatı, tehlikeli madde sınıfları, taşıma-paketleme-etiketleme kuralları, acil durum prosedürleri, iş sağlığı ve güvenliği ile risk değerlendirmesi gibi konular yer alır. Eğitim sonunda Bakanlık tarafından veya Bakanlığın yetkilendirdiği kurumlarca yapılan sınavda başarılı olmak gerekir.",
+  "belge": "Sınavda başarılı olanlara 'Tehlikeli Madde Güvenlik Danışmanı (TMGD) Sertifikası' verilir. Bu belgenin ilgili mevzuatta belirtilen sürelerde yenilenmesi gerekir."
+ },
+ "calisma_alanlari": "Tehlikeli madde taşıyan, gönderen, paketleyen, yükleyen, dolduran veya boşaltan işletmelerde (kimya, petrol ve gaz, ilaç, lojistik ve nakliye firmaları, kimyasal/sınai üretim tesisleri vb.) çalışırlar. İlgili mevzuat kapsamında belirli hacmin üzerinde tehlikeli madde taşımacılığı faaliyeti yürüten işletmelerin TMGD istihdam etme veya bu hizmeti dışarıdan alma yükümlülüğü bulunduğundan, iş imkanı büyük ölçüde bu işletmelerde ortaya çıkar. Ayrıca TMGD hizmeti sunan danışmanlık firmalarında çalışabilir veya serbest/bağımsız danışman olarak birden fazla işletmeye hizmet verebilirler.",
+ "kazanc": {
+  "egitim_suresince": "Lisans eğitimi sürecinde öğrenciler Kredi ve Yurtlar Genel Müdürlüğü'nün öğrenim kredisi ve yurt hizmetlerinden, çeşitli kurum/kuruluşların burslarından yararlanabilirler. TMGD eğitim programına genellikle çalışan konumdaki kişiler katıldığından bu aşamada ayrı bir öğrenim kazancı söz konusu değildir.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında istihdam edilenler 657 sayılı Devlet Memurları Kanunu'na tabi olarak maaş alır.",
+   "Özel sektörde işletme bünyesinde tam zamanlı çalışanların kazancı işletmenin büyüklüğüne, kişinin deneyimine, bilgi ve yeteneğine göre değişir; işe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç elde edebilir.",
+   "Serbest/bağımsız danışman olarak birden fazla işletmeye hizmet verenlerin kazancı hizmet verdikleri işletme sayısına ve sözleşme koşullarına göre değişkenlik gösterir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "TMGD sertifikasına sahip olanlar, mevzuattaki güncellemeleri takip etmek ve belgelerini geçerli tutmak amacıyla periyodik yenileme eğitim ve sınavlarına katılır. Ayrıca iş sağlığı ve güvenliği, kalite yönetim sistemleri, çevre yönetimi gibi alanlarda ek eğitim ve sertifika programlarına yönelebilirler.",
+  "is_hayatinda": "Deneyim kazandıkça işletmelerde kalite, çevre veya iş sağlığı ve güvenliği birimlerinde yöneticilik pozisyonlarına yükselebilir; danışmanlık firmalarında kıdemli danışman veya yönetici konumuna gelebilir ya da kendi danışmanlık firmasını kurarak birden fazla işletmeye hizmet verebilirler."
+ },
+ "benzer_meslekler": [
+  "İş Güvenliği Uzmanı",
+  "İş Güvenliği Uzmanı (Çok Tehlikeli Sınıf-A)",
+  "İş Güvenliği Uzmanı (Tehlikeli Sınıf-B)",
+  "İş Güvenliği Uzmanı (Az Tehlikeli Sınıf-C)",
+  "Periyodik Kontrol Yetkilisi",
+  "Asbest Söküm Uzmanı"
+ ],
+ "ek_bilgiler": "İlgili mevzuat kapsamında belirli hacmin üzerinde tehlikeli madde taşımacılığı faaliyetinde bulunan işletmelerin TMGD istihdam etme veya bu hizmeti dışarıdan alma yükümlülüğü bulunmaktadır; bu durum mesleğe yönelik istihdam alanı yaratmaktadır. Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir.",
+ "gorevler": [
+  "Tehlikeli maddelerin taşınmasında uluslararası anlaşma ve sözleşme (ADR/RID) hükümlerine uyulduğunu izler.",
+  "Tehlikeli maddelerin ADR/RID hükümlerine göre taşınması hususunda işletmeye öneriler sunar.",
+  "İşletmenin tehlikeli maddelerin taşınması ile ilgili yıllık faaliyet raporunu yıl sonu itibariyle ilk üç ay içerisinde hazırlar ve elektronik ortamda İdareye ibraz eder.",
+  "Taşınacak tehlikeli maddelerin tespitini yaparak bu maddeye ilişkin ADR'deki zorunluluklar ile uygunluk prosedürlerini belirler.",
+  "İşletmenin faaliyet konusu olan tehlikeli maddelerin taşınmasında kullanılacak taşıma araçları satın alınırken rehberlik eder.",
+  "Tehlikeli maddelerin taşınması, yüklenmesi ve boşaltımında kullanılan teçhizatın kontrolüyle ilgili prosedürleri belirler.",
+  "Ulusal ve uluslararası mevzuat ve bunlarda yapılan değişiklikler hakkında işletme çalışanlarına göreve yönelik eğitim verir veya almalarını sağlar, bu eğitimin kayıtlarını muhafaza eder.",
+  "Tehlikeli maddelerin taşınması, yüklenmesi veya boşaltılması sırasında bir kaza veya güvenliği etkileyecek muhtemel bir olay meydana gelmesi durumunda uygulanacak acil durum prosedürlerini belirler, çalışanlara bunlarla ilgili tatbikatları periyodik olarak yaptırır ve bunların kayıtlarını tutar.",
+  "Kazaların veya ciddi ihlallerin tekrar oluşmasını önleyecek tedbirlerin alınmasını sağlar.",
+  "Alt yüklenicilerin veya üçüncü tarafların seçiminde ve çalıştırılmasında tehlikeli maddelerin taşınmasıyla ilgili mevzuatın öngördüğü özel şartların dikkate alınmasını sağlar.",
+  "Tehlikeli maddelerin taşınması, doldurulması veya boşaltılmasında yer alan çalışanların operasyonel prosedürler ve talimatlar hakkında bilgiye sahip olmalarını sağlar.",
+  "Tehlikeli malların taşınması, yüklenmesi veya boşaltılmasında muhtemel risklere karşı hazırlıklı olmak için ilgili personelin farkındalığını artırmaya yönelik önlemler alır.",
+  "Tehlikeli maddenin sınıfına göre taşıma sırasında taşıtta bulunması gereken doküman ve güvenlik teçhizatlarının taşıma aracında bulundurulmasına yönelik talimatlar oluşturur.",
+  "ADR/RID Bölüm 1.10.3.2'de belirtilen işletme güvenlik planını hazırlayarak planın uygulanmasını sağlar.",
+  "Faaliyetler konusunda eğitim, denetim ve kontrol dâhil yaptığı her türlü işi kayıt altına alır, bu kayıtları 5 yıl süreyle saklar ve talep edilmesi halinde İdareye ibraz eder.",
+  "İşletmede görevi ile ilgili yapacağı denetlemelerde; denetlenen kişi ve işlerle ilgili tarih ve saat belirterek kayıt tutar.",
+  "Herhangi bir tehlikenin söz konusu olduğu durumlarda tehlike giderilene kadar yapılan işi durdurur, tehlikenin giderildiği durumda işi kendi onayı ile başlatır ve tehlike giderilene kadar geçen süreçteki her türlü aşamayı işletmeye veya yetkili mercilere yazılı olarak bildirir.",
+  "Taşıma aracına yüklenen yükün ADR/RID hükümlerine uygun olarak paketlenmesi, etiketlenmesi, işaretlenmesi ve yüklenmesiyle ilgili iş ve işlemlere ilişkin prosedürler belirler.",
+  "Sorumlu olduğu işletmede taşıma, yükleme veya boşaltma sırasında meydana gelen bir kazanın cana, mala ve çevreye zarar vermesi durumunda kaza hakkında bilgi toplayarak işletme yönetimine veya İdareye bir kaza raporu verir.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-07T23:42:46",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 9305
+  }
+ }
+}

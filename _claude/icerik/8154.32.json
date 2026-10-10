@@ -1,0 +1,83 @@
+{
+ "arac_gerec": [
+  "Boyama-yıkama makinesi (jet, haspel, overflow vb. tipte)",
+  "Dok arabası ve taşıma arabaları (transpalet)",
+  "Dikiş makinesi (kumaş uç birleştirme için)",
+  "Buhar vanası ve su besleme düzenekleri",
+  "Boya fuları",
+  "Boyarmadde ve yardımcı kimyasal maddeler",
+  "Reçete/iş emri formları",
+  "Hassas terazi ve ölçüm kapları",
+  "Numune alma aparatı",
+  "Sıkma (santrifüj) test düzeneği",
+  "Dönme/sarma tamburu",
+  "Kişisel koruyucu donanım (eldiven, önlük, maske, gözlük, bot)"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve sabırlı,",
+  "El becerisine sahip,",
+  "Fiziksel olarak dayanıklı,",
+  "Renkleri ayırt edebilen,",
+  "Sorumluluk sahibi ve talimatlara uygun çalışabilen,",
+  "Kimyasal maddelerle çalışmaya özen gösterebilen,",
+  "Ekip çalışmasına uyumlu,",
+  "Makine ve teknik ayarlara ilgili"
+ ],
+ "calisma_ortami": "Boyama-yıkama makinesi operatörü (kumaş), tekstil terbiye işletmelerinin boyahane/kasarhane bölümlerinde, kapalı ortamda çalışır. Çalışma ortamı genellikle nemli ve sıcaktır; buhar, boyarmadde ve kimyasal madde kaynaklı koku bulunabilir, bu nedenle havalandırma sisteminin yeterli olması gerekir. Ortamda gürültü, ıslak ve kaygan zemin, sıvı/gaz halindeki kimyasal maddeler gibi riskler bulunduğundan kişisel koruyucu donanım kullanılması önemlidir.\n\nÇalışma genellikle vardiyalı sistemle, ayakta ve hareketli olarak sürdürülür. Operatör; aynı işletmede çalışan diğer makine operatörleri, vardiya amiri/formen ve kalite kontrol personeli ile sürekli iletişim halindedir.",
+ "egitim": {
+  "verildigi_yerler": "Meslek, ilköğretim düzeyinde bir eğitim gerektirmekte olup bu alanda, ilgili meslek adına özel, örgün bir çıraklık/kalfalık-ustalık programı yaygın olarak tanımlanmamıştır. Meslekte yetişme genellikle işyerlerinde işbaşında usta yanında öğrenilerek, ayrıca Halk Eğitim Merkezleri ile İŞKUR'un açtığı mesleki eğitim kurslarında tekstil terbiye/boyama alanına yönelik kurslarla desteklenerek gerçekleşmektedir. Mesleki ve teknik eğitim veren okulların Tekstil Teknolojisi alanına bağlı ilgili programları da bu mesleğe yönelik temel bilgi ve beceri kazandırabilir.",
+  "giris_kosullari": [
+   "En az ilkokul/ortaokul mezunu olmak",
+   "Sağlık durumunun işin fiziksel gerekliliklerine (ayakta çalışma, nem ve sıcak ortamda çalışma) uygun olması",
+   "Renkleri ayırt edebilme yeteneğine sahip olmak"
+  ],
+  "sure_ve_icerik": "Mesleğe özgü, ulusal düzeyde standart bir eğitim süresi ve müfredatı bulunmamaktadır. İşbaşında eğitim süresi, işletmenin ve kişinin öğrenme hızına bağlı olarak değişmekte; genellikle usta işçinin gözetiminde makine ayarları, reçeteye göre kimyasal hazırlama, boyama-yıkama işlemleri ve makine bakım-temizliği konularında pratik eğitim verilmektedir. Halk Eğitim Merkezleri ve İŞKUR kursları, teorik ve uygulamalı olarak kısa süreli (genellikle birkaç hafta ile birkaç ay arası) eğitimler sunmaktadır.",
+  "belge": "İşbaşı eğitimlerde resmî bir diploma/belge süreci standart değildir; çalışılan işyerinde kazanılan deneyim esastır. Halk Eğitim Merkezi veya İŞKUR kurslarına katılanlara kurs sonunda katılım/başarı belgesi verilir. Mesleki Yeterlilik Kurumu (MYK) Mesleki Yeterlilik Belgesi, bu alanda düzenlenmişse istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Boyama-yıkama makinesi operatörü (kumaş), başta kumaş boyama ve terbiye işletmeleri (boyahaneler, kasarhaneler) olmak üzere tekstil fabrikalarının boyama-yıkama bölümlerinde istihdam edilir. Tekstil sektörünün yoğun olduğu Marmara, Ege ve Çukurova bölgelerinde iş bulma olanağı nispeten daha fazladır. Deneyim ve referans, iş bulmada önemli bir etkendir; yeni mezunlar genellikle işletmelerde yardımcı/stajyer olarak işe başlayıp operatörlüğe yükselir.",
+ "kazanc": {
+  "egitim_suresince": "Meslek için standart bir çıraklık/stajyerlik ücreti düzenlemesi bulunmamaktadır. İşletmede işbaşı eğitim alanlara, çalışılan işyerinin politikasına göre asgari ücret düzeyinde veya daha düşük bir ücret ödenebilir; Halk Eğitim Merkezi ve İŞKUR kurslarına katılım genellikle ücretsizdir ve bazı kurslar için katılımcılara kurs harcırahı ödenebilir.",
+  "egitim_sonrasi": [
+   "İşe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Deneyimli operatörlerin kazancı, işteki performansına, çalıştığı işletmenin büyüklüğüne ve yapısına göre işveren ile karşılıklı anlaşma yoluyla belirlenir ve artabilir.",
+   "İşçi statüsünde çalışanlar için ücret, ilgili toplu iş sözleşmesi hükümlerine göre de belirlenebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Meslek elemanları, çalışırken veya ayrıca Halk Eğitim Merkezleri ile İŞKUR'un açtığı ileri düzey kurslara, tekstil terbiye ve kalite kontrol alanındaki eğitimlere katılarak bilgi ve becerilerini geliştirebilir. İsteyenler, açık öğretim yoluyla orta öğretimi tamamlayarak mesleki ve teknik eğitimin ilgili alanlarında (Tekstil Teknolojisi) örgün veya yaygın eğitim olanaklarından yararlanabilir, yükseköğretime giriş sınavlarında başarılı oldukları takdirde ilgili ön lisans programlarına yerleşebilir.",
+  "is_hayatinda": "Deneyim kazanan operatörler, işletme içinde vardiya amirliği, formenlik ve atölye/bölüm şefliği gibi kademelere yükselebilir. Yeterli bilgi birikimi ve sermayeye sahip olanlar, kendi küçük ölçekli boyama-yıkama işletmelerini kurabilir."
+ },
+ "benzer_meslekler": [
+  "Jet Boya Makinesi Operatörü",
+  "Boyama Makinesi Operatörü-Tekstil",
+  "JET Boya Makinesi Operatörü (Kumaş Boyama)",
+  "Over Flov Boya Makinesi Operatörü (Kumaş Boyama)",
+  "Yıkama Makinesi İşçisi (Tekstil)",
+  "Kumaş Boya Hazırlayıcısı"
+ ],
+ "ek_bilgiler": "Meslek, kimyasal maddelerle ve yüksek sıcaklık/nem koşullarında çalışmayı içerdiğinden iş sağlığı ve güvenliği kurallarına, kişisel koruyucu donanım kullanımına özellikle dikkat edilmesi gerekir. Mesleğin tehlikeli/çok tehlikeli işler sınıfına girip girmediği işletmenin niteliğine göre değişebileceğinden, bu konuda çalışılan işyerinin iş sağlığı ve güvenliği birimi ile görüşülmesi önerilir.",
+ "gorevler": [
+  "Boyanacak ve yıkanacak mallara ait dok arabasını makinenin önüne getirir ve yerleştirir.",
+  "Dikiş makinesi ile işlem yapılacak kumaşı, makinenin uç bezine diker.",
+  "Banyolara su doldurur, buhar vanasını açar ve ayarlar.",
+  "Reçeteye göre banyolara konulacak olan kimyevi maddeleri ambardan alır, hazırlar ve ait olduğu banyolara verir; boya fularına vanayı açarak yeterince boya alır.",
+  "Gerekli ayarları yapar.",
+  "Boş dok arabasını makinenin çıkış yerine yerleştirir.",
+  "Makineyi çalıştırır.",
+  "Çalışma esnasında malzemeleri, makineyi ve ayarları sürekli kontrol eder.",
+  "Meydana gelen hataları düzeltir, düzeltilemeyen hataları amirine bildirir.",
+  "Reçeteye göre boya ve kimyevi madde beslemesi yapar.",
+  "İşlemi yapılan kumaş dokunu dönmeye takar.",
+  "Sıkma testi yapar.",
+  "Kullanılan makinenin temizliğini yapar.",
+  "Meslek alanı ile ilgili gelişmeleri takip eder, uygular."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T14:31:20",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6053
+  }
+ }
+}

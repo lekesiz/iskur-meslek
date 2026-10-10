@@ -1,0 +1,71 @@
+{
+ "arac_gerec": [
+  "Kesme makinesi (tel çerçeveli veya bıçaklı kesim ünitesi)",
+  "Hamur karıştırıcı ve sehpa/besleme hattı",
+  "Yağlama ekipmanları ve yağdanlık",
+  "Ölçü aletleri (cetvel, şerit metre)",
+  "Makine kumanda ve ayar paneli",
+  "Bakım takımları (anahtar takımı, tornavida, pense)",
+  "Temizlik malzemeleri (fırça, üstüpü, çelik tel)",
+  "Taşıma arabası veya bant/konveyör sistemi",
+  "Kişisel koruyucu donanım (eldiven, gözlük, kulaklık, iş elbisesi, çelik burunlu ayakkabı)"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli,",
+  "Sabırlı ve düzenli çalışabilen,",
+  "El ve göz koordinasyonu iyi,",
+  "Fiziksel olarak dayanıklı,",
+  "Makine ve mekanik sistemlerle ilgili,",
+  "İş güvenliği kurallarına duyarlı,",
+  "Takım çalışmasına uyumlu"
+ ],
+ "calisma_ortami": "Kesme makinesi operatörleri, tuğla ve kiremit gibi inşaat elemanlarının üretildiği fabrika ve atölye ortamlarında çalışır. Çalışma ortamı genellikle tozlu, nemli ve gürültülü olabilir; çalışma büyük ölçüde ayakta ve makinenin başında geçer. İşin niteliği nedeniyle kil hamuru, toz ve makine parçalarıyla sürekli temas söz konusudur, bu nedenle kişisel koruyucu donanım kullanımı önemlidir.\n\nİşyerinin üretim temposuna bağlı olarak vardiyalı çalışma düzeni uygulanabilir. Operatör; üretim hattındaki diğer işçiler, usta başı ve bakım personeli ile sürekli iletişim ve koordinasyon içinde çalışır.",
+ "gorevler": [
+  "Kesilecek boyutlara göre makinede gerekli ayarları yapar.",
+  "Kil hamurunun veya ısı ve sesi tecrit edici nitelikteki hamurun yapışmaması için sehpa yatağını yağlar.",
+  "Karıştırıcıdan şerit halinde sehpaya gelen hamurun üzerine tel çerçeveyi veya bıçakları indirerek hamuru istenilen boyutlarda keser.",
+  "Makinenin bakım ve temizliğini yapar.",
+  "Kesilen malzemeyi tipine göre ayırt eder.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "calisma_alanlari": "Kesme makinesi operatörleri; tuğla, kiremit ve benzeri inşaat elemanlarının üretildiği fabrika ve imalathanelerde istihdam edilir. İnşaat sektörünün ürün talebine bağlı olarak bu tesislerde çalışma olanağı bulunmaktadır. Çalışma alanı, yapı malzemeleri üretim tesislerinin yoğun olduğu bölgelerde daha geniştir.",
+ "egitim": {
+  "verildigi_yerler": "Bu mesleğe özgü örgün bir meslek lisesi programı veya standart bir kurs bulunmamaktadır. Eğitim genellikle işbaşında, deneyimli bir operatör veya usta gözetiminde uygulamalı olarak kazanılır. Ayrıca Halk Eğitim Merkezleri ve İşkur'un açtığı genel mesleki eğitim kursları, temel makine kullanımı ve iş güvenliği konularında destekleyici eğitim sağlayabilir.",
+  "giris_kosullari": [
+   "İlköğretim mezunu olmak",
+   "İşin gerektirdiği fiziksel güce ve dayanıklılığa sahip olmak",
+   "İşletmenin belirlediği yaş ve sağlık şartlarını taşımak"
+  ],
+  "sure_ve_icerik": "Standart bir eğitim süresi tanımlanmamıştır. İşbaşı eğitim sürecinde; makinenin çalışma prensibi, kesim ayarlarının yapılması, hamur besleme ve yağlama işlemleri, makine bakım ve temizliği ile iş sağlığı ve güvenliği kuralları uygulamalı olarak öğretilir. Süre, işletmeye ve kişinin öğrenme hızına göre birkaç haftadan birkaç aya kadar değişebilir.",
+  "belge": "Çalışılan işletme tarafından iş deneyimi belgesi, katılınan kurslarda ise kurs bitirme belgesi verilebilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Eğitim işbaşında usta yanında yapıldığından ayrı bir eğitim ücreti bulunmamaktadır; işletmede çalışarak öğrenenler genellikle asgari ücret düzeyinde gelir elde edebilir.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde gelire sahip olur.",
+   "Deneyim, işletmenin büyüklüğü ve üretim kapasitesine göre ücrette artış olabilir.",
+   "Çalışılan işletmenin statüsüne göre (özel sektör işçisi, varsa toplu iş sözleşmesi kapsamı) ücret koşulları değişebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğe özgü kademeli bir örgün eğitim sistemi bulunmamaktadır. Deneyim kazanan operatörler, farklı makine türleri ve üretim süreçleri hakkında bilgi ve becerilerini işbaşında geliştirebilir.",
+  "is_hayatinda": "Deneyim kazanan kesme makinesi operatörleri; usta başlığı, vardiya sorumluluğu veya üretim hattı amirliği gibi daha üst sorumluluklara yükselebilir."
+ },
+ "benzer_meslekler": [
+  "İnşaat Elemanları Kalıpçısı (Makineyle)",
+  "Tuğla ve Kiremit Presçisi (Makineyle)",
+  "Kil Hamur Makinesi Operatörü",
+  "Tuğla İmal İşçisi",
+  "Fırın İşçisi (Tuğla,kiremit ve Benzeri İnşaat Elemanları)",
+  "Öğütme ve Çamur Makinesi Operatörü (İnşaat Elemanları)"
+ ],
+ "ek_bilgiler": "Bu meslekte istihdam, inşaat sektöründeki üretim talebine bağlı olarak değişkenlik gösterebilir. İşin fiziksel gerektirdiği koşullar nedeniyle sağlık durumu uygun olan kişiler tercih edilmektedir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T16:45:31",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5078
+  }
+ }
+}

@@ -1,0 +1,76 @@
+{
+ "arac_gerec": [
+  "Sahil güvenlik botu/gemisi ve bu araçlara ait seyir-manevra ekipmanları",
+  "Telsiz ve diğer haberleşme cihazları",
+  "Radar ve GPS gibi seyir/takip sistemleri",
+  "Deniz haritaları ve seyir yardımcı araçları",
+  "Kişisel ve kurumsal silah ile mühimmat",
+  "Can yeleği ve kişisel koruyucu donanım",
+  "Üniforma ve rütbe işaretleri",
+  "Bilgisayar ve kurumsal bilgi işlem sistemleri",
+  "Resmi evrak, rapor ve tutanak formları",
+  "İlk yardım ve arama kurtarma ekipmanları",
+  "Operasyonel planlama ve denetim dosyaları",
+  "Bakım-onarım ve teknik arıza tespit ekipmanları"
+ ],
+ "benzer_meslekler": [
+  "Astsubay Kıdemli Üstçavuş (Sahil Güvenlik)",
+  "Astsubay Başçavuş (Sahil Güvenlik)",
+  "Astsubay Kıdemli Çavuş (Sahil Güvenlik)",
+  "Astsubay Üstçavuş(Kara Kuvvetleri)",
+  "Astsubay Üstçavuş(Hava Kuvvetleri)",
+  "Astsubay Üstçavuş(Deniz Kuvvetleri)"
+ ],
+ "calisma_alanlari": "Astsubay Üstçavuşlar (Sahil Güvenlik), Sahil Güvenlik Komutanlığına bağlı bot ve gemilerde, liman başkanlıklarında, bölge ve grup komutanlıklarında, eğitim merkezlerinde ve karargah birimlerinde görev yapar. Görev alanı; deniz trafiğinin denetimi, arama-kurtarma operasyonları, kaçakçılıkla mücadele, çevre kirliliğinin önlenmesi ve kıyı güvenliğinin sağlanması gibi faaliyetleri kapsar. Kamu personeli statüsünde çalıştıklarından istihdam tamamen Sahil Güvenlik Komutanlığı bünyesinde gerçekleşir; özel sektörde bu unvanla istihdam imkânı bulunmamaktadır.",
+ "calisma_ortami": "Astsubay Üstçavuşlar (Sahil Güvenlik) görevlerini genellikle deniz üzerinde bot ve gemilerde, zaman zaman da kara birimlerinde ve karargahlarda yürütür. Çalışma ortamı açık deniz koşullarına bağlı olarak değişkenlik gösterir; fırtına, soğuk, sıcak ve dalgalı deniz gibi zorlu hava ve deniz şartlarında görev yapılabilir. Görevin niteliği gereği gece-gündüz nöbet sistemi, uzun süreli deniz görevleri ve zaman zaman riskli operasyonlar (kaçakçılıkla mücadele, arama-kurtarma gibi) söz konusu olabilir.\n\nGörev sırasında emrindeki astsubay ve erbaş/er personeli yönetir, üstleriyle ve diğer kolluk kuvvetleriyle koordinasyon içinde çalışır, bazen kazazede veya müdahale edilen sivil vatandaşlarla da iletişim kurar. Disiplinli bir hiyerarşi içinde, resmi kurallara ve emir-komuta zincirine uygun şekilde çalışılır.",
+ "egitim": {
+  "verildigi_yerler": "Astsubay Üstçavuş rütbesi, doğrudan girilebilen bir eğitim programının sonunda kazanılan bir unvan değildir. Kişi, Milli Savunma Üniversitesi bünyesindeki astsubay meslek yüksekokullarında (Sahil Güvenlik astsubay kaynağı) verilen önlisans düzeyindeki mesleki ve askeri eğitimi tamamlayarak astsubay çavuş rütbesiyle göreve başlar; üstçavuş rütbesine ise hizmet yılı, kıdem ve terfi sistemi ile zaman içinde ulaşılır.",
+  "giris_kosullari": [
+   "Türk vatandaşı olmak",
+   "Astsubay meslek yüksekokullarının kabul koşullarını (ilgili sınav ve değerlendirme süreçlerini) başarıyla tamamlamak",
+   "Belirlenen yaş, sağlık, fiziksel yeterlilik ve güvenlik soruşturması şartlarını taşımak",
+   "Askerî eğitim kurumları için aranan genel nitelik ve ahlaki şartları taşımak"
+  ],
+  "sure_ve_icerik": "Astsubay adayları, meslek yüksekokullarında önlisans düzeyinde yaklaşık iki yıl süren mesleki, akademik ve askeri eğitim alır; bu eğitimde temel askerlik bilgi ve becerileri, liderlik, disiplin ve alanla ilgili teknik konular öğretilir. Eğitimi tamamlayanlar astsubay çavuş rütbesiyle göreve başlar. Üstçavuş rütbesine ulaşmak için göreve başlandıktan sonra belirli hizmet süresini doldurmak, hizmet içi eğitim ve kurslara katılmak, performans değerlendirmelerinden geçmek ve kıdem sırasına göre terfi etmek gerekir.",
+  "belge": "Önlisans diploması ve ilgili rütbeye ait resmi astsubaylık beratı/atama belgesi"
+ },
+ "ek_bilgiler": "Astsubay Üstçavuş (Sahil Güvenlik), doğrudan bu unvan için açılan ayrı bir sınav veya eğitim programı bulunmayan, meslek içi kıdem ve terfi sistemiyle ulaşılan bir rütbedir. Görev gereği silahlı ve bazen riskli operasyonlarda yer alınabileceğinden, adaylarda ve görev süresince belirli sağlık, fiziksel yeterlilik ve güvenlik soruşturması şartları aranır. İstihdam tamamen kamu (Sahil Güvenlik Komutanlığı) bünyesinde gerçekleşir.",
+ "genel_ozellikler": [
+  "Fiziksel ve ruhsal açıdan sağlıklı,",
+  "Disiplinli ve sorumluluk sahibi,",
+  "Liderlik vasıflarına sahip,",
+  "Ekip çalışmasına yatkın,",
+  "Stresli ve zor koşullarda soğukkanlılığını koruyabilen,",
+  "Hızlı ve isabetli karar verebilen,",
+  "Yüksek fiziksel dayanıklılığa sahip,",
+  "Vatanına ve mesleğine bağlı kişiler olmaları gerekir."
+ ],
+ "gorevler": [
+  "Birliğin veya botun operasyonel verimliliğini yönetir.",
+  "Genç personelin mesleki gelişimine rehberlik eder.",
+  "Denetim ve teftiş hazırlıklarını koordine eder.",
+  "Karmaşık teknik arızaların giderilmesini denetler.",
+  "Birim amirine idari ve operasyonel destek sağlar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Astsubay meslek yüksekokulundan mezun olan kişi astsubay çavuş rütbesiyle göreve başlar; hizmet süresi, hizmet içi eğitimler ve performans değerlendirmeleri sonucunda sırasıyla kıdemli çavuş, üstçavuş, kıdemli üstçavuş, başçavuş ve kıdemli başçavuş rütbelerine terfi edebilir.",
+  "is_hayatinda": "Kıdem ve başarı durumuna göre daha üst rütbelere terfi edebilir, farklı birlik ve görev yerlerinde sorumluluk üstlenebilir, uzmanlık gerektiren alanlarda ileri hizmet içi eğitimlere katılabilir ve zamanla komuta kademelerinde daha fazla görev ve yetki alabilir; hizmet süresini tamamlayanlar emeklilik hakkı kazanır."
+ },
+ "kazanc": {
+  "egitim_suresince": "Astsubay meslek yüksekokulunda öğrenim gören adaylar, okulun sağladığı barınma, iaşe ve harçlık gibi imkanlardan yararlanır; eğitim süresince ayrıca bir ücret söz konusu değildir.",
+  "egitim_sonrasi": [
+   "Göreve başlayan astsubaylar, 657 sayılı Devlet Memurları Kanunu'na değil, kendilerine özgü askeri personel mevzuatına (926 sayılı Türk Silahlı Kuvvetleri Personel Kanunu ve ilgili düzenlemeler) tabi olarak maaş alır.",
+   "Ücret düzeyi; rütbe, kıdem, hizmet yılı ve görev yerine göre değişkenlik gösterir.",
+   "Maaşa ek olarak çeşitli tazminat ve ödenekler (görev, nöbet, deniz hizmeti gibi) uygulanabilir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-07T17:46:20",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5798
+  }
+ }
+}

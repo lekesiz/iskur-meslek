@@ -1,0 +1,83 @@
+{
+ "arac_gerec": [
+  "Multimetre, osiloskop gibi elektronik ölçü aletleri",
+  "Lehim istasyonu ve havya takımı",
+  "El takımları (tornavida, pense, cımbız, kablo soyucu vb.)",
+  "Güç kaynakları ve regüle edilmiş besleme üniteleri",
+  "Kalibrasyon cihazları",
+  "Yedek elektronik devre elemanları ve kartlar",
+  "Bilgisayar ve arıza tespit/teşhis yazılımları",
+  "Kablo ve bağlantı test cihazları",
+  "Teknik şema, devre çizimi ve bakım-onarım dosyaları/formları",
+  "Antistatik bilezik, eldiven gibi kişisel koruyucu donanım",
+  "Elektrikli el aletleri (matkap, vida sıkma makinesi vb.)",
+  "Yedekleme amaçlı taşınabilir bellek ve veri aktarım cihazları"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve sabırlı,",
+  "El ve göz koordinasyonu iyi, el becerisine sahip,",
+  "Mekanik yeteneği ve ilgisi olan,",
+  "Şema ve devre çizimlerindeki şekil ilişkilerini görebilen,",
+  "Analitik düşünebilen ve sorun çözme becerisine sahip,",
+  "Sorumluluk sahibi ve işçi sağlığı-iş güvenliği kurallarına duyarlı,",
+  "Takım halinde çalışmaya uyumlu,",
+  "Teknolojik gelişmeleri takip etmeye istekli"
+ ],
+ "calisma_ortami": "\"İşletme elektronik bakımcıları, genellikle üretim yapan fabrika ve işletmelerin bakım-onarım atölyelerinde, üretim hatlarının bulunduğu kapalı alanlarda çalışır. Çalışma sırasında elektrik/elektronik sistemlerle doğrudan ilgilenildiğinden işçi sağlığı ve iş güvenliği kurallarına uyum önemlidir; bazı ortamlarda gürültü, sıcaklık, toz gibi fiziksel koşullarla ve elektrik çarpması gibi risklerle karşılaşılabilir.\\n\\nÇalışma genellikle ayakta ve hareketli olup, üretim sürecinin aksamaması için vardiyalı veya mesai dışı acil çağrılara göre çalışma söz konusu olabilir. Görevini sıklıkla ekip halinde, diğer bakım personeli, mühendis, tekniker ve üretim bölümü çalışanlarıyla iletişim kurarak yürütür.\"",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi, mesleki ve teknik öğretim kurumlarının elektrik-elektronik teknolojisi alanı ve ilgili dallarında verilmektedir. Ayrıca Halk Eğitim Merkezleri ile İŞKUR'un açtığı mesleki eğitim kurslarında kısa süreli sertifika programları ve işletmelerde işbaşında usta yanında eğitim yoluyla da bu mesleğe yönelik bilgi ve beceri kazanılabilmektedir.",
+  "giris_kosullari": [
+   "Ortaokulu tamamlamış olmak,",
+   "Milli Eğitim Bakanlığınca okul türüne ve alan/dala göre belirlenen giriş koşullarını taşımak,",
+   "Kurslara katılım için ilgili kurumun belirlediği yaş ve öğrenim koşullarını taşımak."
+  ],
+  "sure_ve_icerik": "Mesleki ve teknik ortaöğretim kapsamında eğitim süresi 4 yıldır. Ortak genel kültür dersleri ve alana yönelik temel yeterlikler ilk yıllarda, elektronik sistemlerin bakım, onarım, kurulum ve arıza tespitine yönelik uygulamalı dersler ise ilerleyen sınıflarda okulda teorik/uygulamalı, işletme ve atölye ortamında ise uygulamalı olarak verilmektedir. Mesleki eğitim kurslarında ise süre ve içerik, kursun programına göre değişmekte olup genellikle temel elektronik devre bilgisi, ölçü aletleri kullanımı ve arıza giderme uygulamalarını kapsamaktadır.",
+  "belge": "Mesleki ve teknik lise eğitimini tamamlayanlara diploma; kurslara katılanlara ise kursu düzenleyen kurum tarafından kurs bitirme belgesi/sertifika verilmektedir."
+ },
+ "calisma_alanlari": "\"İşletme elektronik bakımcıları; elektronik sistem ve cihazların yoğun kullanıldığı üretim tesislerinde, fabrikalarda, enerji, otomotiv, tekstil, gıda ve benzeri sektörlerdeki işletmelerin bakım-onarım birimlerinde istihdam edilebilirler. Ayrıca elektronik cihaz üreten veya kullanan kamu ve özel sektör kuruluşlarının teknik servis ve bakım departmanlarında çalışma imkânı bulunmaktadır. Meslek, genellikle bir işletmenin bünyesinde ekip halinde yürütülmektedir.\"",
+ "kazanc": {
+  "egitim_suresince": "Mesleki ve teknik eğitim kapsamında işletmelerde eğitim gören öğrencilere, 3308 sayılı Mesleki Eğitim Kanunu gereğince asgari ücretin belirli bir oranından az olmamak üzere ücret ödenir; ayrıca iş kazası ve meslek hastalığı sigortası devletçe karşılanır. Kurs dönemlerinde ise genellikle ücret ödenmemektedir.",
+  "egitim_sonrasi": [
+   "Mesleğe başlangıçta genellikle asgari ücret düzeyinde kazanç söz konusudur.",
+   "Deneyim, bilgi birikimi, çalışılan işletmenin büyüklüğü ve sektöre göre ücretler zaman içinde artabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleki ve teknik ortaöğretimden mezun olanlar, sınavla veya ilgili yerleştirme sistemleri aracılığıyla elektronik, elektrik-elektronik veya endüstriyel elektronik gibi ilgili ön lisans/lisans programlarına yönelerek tekniker veya mühendis unvanını kazanabilirler.",
+  "is_hayatinda": "İş hayatında deneyim kazanan işletme elektronik bakımcıları; usta, bakım ekip lideri, bakım şefi veya bakım sorumlusu gibi pozisyonlara yükselebilir; bilgi ve deneyimlerini artırarak işletmelerde bakım-onarım süreçlerinin organizasyonunda daha üst düzey sorumluluklar üstlenebilirler."
+ },
+ "benzer_meslekler": [
+  "Elektronik Teknisyeni",
+  "Endüstriyel Bakım Onarım Teknisyeni/Endüstriyel Elektronik Teknisyeni",
+  "Elektrik-Elektronik Teknisyeni",
+  "Endüstriyel Elektronik Teknikeri",
+  "Endüstriyel Kontrol Teknisyeni",
+  "Elektronik Teknolojisi Teknikeri/Elektronik Teknikeri"
+ ],
+ "ek_bilgiler": "\"Mesleğin icra edildiği bazı işletmelerde, çalışma koşulları tehlikeli/çok tehlikeli işler sınıfına girebildiğinden Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir ve bazı işyerlerinde aranabilir.\"",
+ "gorevler": [
+  "İş sağlığı ve güvenliği, yangın ve acil durum kurallarını uygular.",
+  "Kalite yönetim sistemi ile ilgili faaliyetleri yürütür.",
+  "İş organizasyonu yapar.",
+  "Çalışma alet ve donanımlarının bakımlarını sağlar.",
+  "Üretim sistemlerinin bakım programlarını takip eder.",
+  "Elektronik sistem ve cihazların bakım-onarım dosyasını/formunu değerlendirir.",
+  "Elektronik sistem ve cihazların temizlenmesini sağlar.",
+  "Elektronik sistem ve cihazlarının fonksiyonel kontrol, ölçüm ve ayarlarını yapar.",
+  "Elektronik sistem ve cihazların kalibrasyon ihtiyaçlarının giderilmesini sağlar.",
+  "Elektronik sistem ve cihazların yazılımlarının yedeklemelerini yapar.",
+  "Elektronik sistem ve cihazların arıza durumlarını inceler, tespit eder ve arızasını giderir.",
+  "Elektronik sistemlerin ve donanımların kurulum ve sökümünü yapar.",
+  "Elektronik devreler hazırlar.",
+  "Kayıt ve raporlama yapar.",
+  "Mesleki gelişim faaliyetlerini yürütür."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T09:18:03",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5157
+  }
+ }
+}

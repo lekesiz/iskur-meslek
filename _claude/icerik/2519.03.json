@@ -1,0 +1,71 @@
+{
+ "arac_gerec": [
+  "Bilgisayar donanımı (masaüstü/dizüstü bilgisayar)",
+  "Test otomasyon araçları",
+  "Hata (bug) takip ve proje yönetim yazılımları",
+  "Versiyon kontrol sistemleri",
+  "Sürekli entegrasyon/sürekli dağıtım (CI/CD) araçları",
+  "Veritabanı yönetim sistemleri",
+  "Performans ve yük testi araçları",
+  "Kod inceleme ve statik analiz araçları",
+  "Dokümantasyon ve raporlama yazılımları",
+  "Sunucu ve ağ test ortamları",
+  "Ofis yazılımları ve büro malzemeleri"
+ ],
+ "benzer_meslekler": [
+  "Yazılım Test Edicisi",
+  "Sistem Test Edicisi",
+  "BT İş Analisti (Bilişim Teknolojileri İş Analisti)",
+  "Sistem Analisti (BT)",
+  "Yazılım Mühendisi"
+ ],
+ "calisma_alanlari": "Kalite Güvence Analisti (Bilgisayar), yazılım geliştiren özel şirketlerde (yazılım evleri, bilişim ve danışmanlık firmaları), bankacılık ve sigortacılık sektöründe, e-ticaret şirketlerinde, oyun geliştirme firmalarında ve kamu kurumlarının bilgi işlem birimlerinde istihdam edilmektedir.\n\nYazılım ürünlerine olan talebin artması ve kurumların güvenilir, hatasız yazılımlara verdiği önemin büyümesi nedeniyle bu meslekte iş bulma olanakları olumlu bir eğilim göstermektedir. Ancak alan rekabetin yoğun olduğu bir sektördür; güncel programlama ve test teknolojilerini takip etmek, pratik proje deneyimi edinmek ve ilgili sertifikalara sahip olmak iş bulmada önemli rol oynamaktadır.",
+ "calisma_ortami": "Bu meslekte çalışanlar genellikle ofis/büro ortamında bilgisayar başında oturarak çalışırlar. Çalışma süresince yazılım geliştiriciler, proje yöneticileri, sistem analistleri ve diğer test/kalite güvence uzmanlarıyla yakın işbirliği içinde bulunulur; toplantılara katılım ve yazılı raporlama sık karşılaşılan görevlerdendir.\n\nÇalışma saatleri genellikle düzenlidir, ancak proje teslim tarihlerine yaklaşıldığında yoğun ve esnek çalışma gerekebilir; bazı işyerlerinde uzaktan veya hibrit çalışma imkânı da bulunmaktadır. Meslekte ağır fiziksel risk bulunmamakla birlikte, uzun süre ekran başında oturmaya bağlı göz ve sırt yorgunluğu görülebilir.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi, üniversitelerin bilgisayar mühendisliği, yazılım mühendisliği, bilgisayar bilimleri ve yönetim bilişim sistemleri gibi ilgili lisans programlarında verilmektedir. Ayrıca yazılım test uzmanlığı ve kalite güvencesi konularında özel eğitim kurumları ve çevrim içi platformlar tarafından sertifika programları da sunulmaktadır.",
+  "giris_kosullari": [
+   "Lise veya dengi okul mezunu olmak",
+   "YKS (Yükseköğretim Kurumları Sınavı) kılavuzunda belirtilen ilgili lisans programları için gerekli puan türünden yeterli puanı almak ve aranan koşulları taşımak"
+  ],
+  "sure_ve_icerik": "Lisans eğitimi 4 yıl sürmektedir. Eğitim süresince programlama, algoritmalar ve veri yapıları, yazılım mühendisliği, yazılım test ve kalite güvence yöntemleri, veritabanı yönetimi, proje yönetimi gibi dersler okutulmaktadır. Lisans eğitiminin yanı sıra yazılım test teknikleri, test otomasyonu ve kalite yönetim sistemleri konularında açılan kısa süreli sertifika programlarıyla bilgi ve beceriler güncellenebilmektedir.",
+  "belge": "Eğitimini başarı ile tamamlayanlara lisans diploması verilir. Ayrıca katıldıkları mesleki sertifika programları sonunda katılım veya başarı belgesi alınabilir."
+ },
+ "ek_bilgiler": "Yazılım kalite güvencesi, kurumsal yazılım projelerinde öneminin giderek arttığı bir alandır. Alanda uluslararası geçerliliği olan yazılım test/kalite güvencesi sertifikaları, iş bulma ve kariyer gelişiminde tercih sebebi olabilir. Mesleki Yeterlilik Kurumu (MYK) belgesine sahip olmak da istihdamda avantaj sağlayabilir.",
+ "genel_ozellikler": [
+  "Matematiksel ve analitik düşünme yeteneğine sahip,",
+  "Detaylara dikkat eden ve titiz,",
+  "Sabırlı ve sistematik çalışabilen,",
+  "Sözlü ve yazılı iletişimi güçlü,",
+  "Takım çalışmasına uyumlu,",
+  "Sorumluluk sahibi,",
+  "Problem çözme yeteneğine sahip,",
+  "Yeni teknolojileri takip etmeye istekli"
+ ],
+ "gorevler": [
+  "Yazılım projeleri için kalite standartlarını ve test metotlarını belirler",
+  "Geliştirme sürecindeki dökümantasyon ve kod standartlarını denetler",
+  "Hata (bug) raporlama süreçlerini ve iyileştirme taleplerini yönetir",
+  "Yazılım sürüm onayları öncesi son kalite kontrollerini yapar",
+  "Süreç verimliliğini artıracak otomasyon ve analiz araçlarını kullanır",
+  "Mesleki gelişim faaliyetlerinde bulunur"
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Yüksek lisans ve doktora yaparak akademik kariyer yapabilirler; yükseköğretim kurumlarında araştırma görevlisi, öğretim üyesi gibi unvanlara yükselebilirler. Ayrıca yazılım test mühendisliği ve kalite güvencesi alanlarında ileri düzey sertifika programlarıyla uzmanlaşabilirler.",
+  "is_hayatinda": "Deneyim kazandıkça kıdemli kalite güvence uzmanlığı, test ekibi liderliği, kalite güvence yöneticiliği ve proje yöneticiliği gibi pozisyonlara yükselebilirler."
+ },
+ "kazanc": {
+  "egitim_suresince": "Lisans eğitimi süresince Kredi ve Yurtlar Genel Müdürlüğü'nün öğrenim kredisi ve yurt hizmetlerinden, çeşitli resmi ve özel kurum/kuruluşların burslarından yararlanılabilir. Ayrıca staj ve yarı zamanlı çalışmalarla deneyim ve ek gelir elde edilebilir.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında çalışanlar, 657 sayılı Devlet Memurları Kanunu'na göre teknik hizmetler sınıfı kapsamında maaş ve yan haklardan yararlanır.",
+   "Özel sektörde ücret; çalışılan firmanın büyüklüğüne, kişinin deneyim ve uzmanlık düzeyine, üstlendiği proje ve sorumluluklara göre değişmektedir. Mesleğe yeni başlayanlarda ücret genellikle asgari ücret düzeyinde olabilir, deneyim arttıkça yükselir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T06:01:37",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6074
+  }
+ }
+}

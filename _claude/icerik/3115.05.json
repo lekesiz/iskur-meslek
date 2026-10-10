@@ -1,0 +1,81 @@
+{
+ "gorevler": [
+  "Uçak gövdesi, iniş takımları, fren sistemi ve uçağın diğer mekanik teçhizatına ilişkin işlerde uzmanlaşarak genel makine teknisyenliğine benzer işler yapar.",
+  "Limana inen uçağın kaptanına flama ve elleriyle işaret verir, uçağı aprona aldırır, kontrolünü yapar, uzun sürecek onarımları kaptana bildirir.",
+  "Basit arızaları giderir; değişecek parçalar ve onarılacak bölümler için teknisyenler ve postalar arasında görev bölümü yapar; kokpit arızalarını pilotla birlikte yerinde inceler.",
+  "Uçağın tipine ve bakım kataloglarına göre yapılacak operasyonu tespit eder, değiştirilmesi gerekli parçaları bakım merkezinden talep eder, arızalı parçayı değiştirir, çalışmaları kontrol eder.",
+  "Uzun sürecek onarımlar için uçağı bakım yerine çektirir.",
+  "Bakımını yaptığı uçağın lastik havalarını kontrol eder.",
+  "Kullandığı malzemeleri gösteren raporu düzenler ve uçağı raporla birlikte uçuş mühendisine teslim eder.",
+  "Kontrol çalışmalarına katılır, mühendise yardımcı olur.",
+  "Onarımı ve bakımı tamamlanan uçağın hangardan çıkarılmasına nezaret eder.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "arac_gerec": [
+  "Anahtar takımı (lokma, allen, İngiliz anahtarı)",
+  "Tork anahtarı",
+  "Kriko, takoz ve destek ekipmanları",
+  "Çektirme ve kaldırma takımları",
+  "Ölçü ve kontrol aletleri (kumpas, mikrometre, derinlik mastarı)",
+  "Lastik basınç ölçer ve hava dolum ekipmanı",
+  "El aletleri (tornavida, pense, matkap)",
+  "Uçak bakım katalogları ve teknik el kitapları",
+  "İş emri, kontrol ve bakım raporu formları",
+  "Sinyal flaması ve el işaret ekipmanları",
+  "Kişisel koruyucu donanım (iş elbisesi, eldiven, baret, kulak koruyucu, gözlük)",
+  "Yedek parça ve bakım malzemeleri",
+  "Hangar merdiveni, platform ve iskele",
+  "Hidrolik ve elektrik sistem test cihazları",
+  "Taşıma-çekme araçları (tow-bar vb.)"
+ ],
+ "genel_ozellikler": [
+  "El ve göz koordinasyonu iyi, dikkatli ve titiz,",
+  "Sorumluluk duygusu gelişmiş, kurallara titizlikle uyan,",
+  "Makine, teknik sistem ve aletlerle çalışmaktan hoşlanan,",
+  "Takım halinde çalışabilen, iletişim becerisi gelişmiş,",
+  "Analitik düşünebilen, arıza tespitinde mantıksal çözüm üretebilen,",
+  "Fiziksel olarak sağlıklı ve dayanıklı, açık/kapalı alanda ve yükseklikte çalışabilen,",
+  "Stresli ve zaman kısıtlı durumlarda sakin ve kontrollü kalabilen,",
+  "Değişen hava koşullarına ve vardiyalı çalışmaya uyum sağlayabilen"
+ ],
+ "calisma_ortami": "Makine Teknisyeni (Havacılık), havalimanlarında hangarlarda ve apronda, hem kapalı hem açık alanlarda çalışır. Çalışma ortamında uçak yakıtı ve yağ kokusu, gürültü, değişken hava ve sıcaklık koşulları bulunabilir; bazı işlemler yükseklikte, dar alanlarda veya uçak altında eğilerek yapılır. Uçuş trafiğine bağlı olarak vardiyalı, gece dahil düzensiz saatlerde ve zaman baskısı altında çalışılabilir.\n\nİş sırasında uçuş mühendisi, pilot, diğer teknisyenler ve posta/ekip şefleriyle sürekli koordinasyon halinde çalışılır. İşçi sağlığı ve iş güvenliği kuralları, havacılık mevzuatı ve kalite standartları titizlikle uygulanır; yükseklikte çalışma, ağır ekipman, kimyasal madde ve uçak hareketleri nedeniyle dikkat gerektiren riskler söz konusudur.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi, bazı mesleki ve teknik liselerin havacılıkla ilgili alan/dallarında ve sivil havacılık yüksekokullarının \"Uçak Bakım Teknolojisi\" gibi ön lisans programlarında verilmektedir. Ayrıca Sivil Havacılık Genel Müdürlüğü (SHGM) onaylı bakım kuruluşları ve eğitim merkezlerinde düzenlenen sertifikalı eğitimler de bu mesleğe yönelik yetişme imkânı sağlamaktadır.",
+  "giris_kosullari": [
+   "Lise düzeyindeki programlar için ortaokul mezunu olmak ve ilgili alan/dal için Millî Eğitim Bakanlığınca belirlenen giriş koşullarını taşımak",
+   "Ön lisans programları için lise veya dengi okul mezunu olmak ve ilgili sınav/yerleştirme sistemiyle yeterli puan almak",
+   "Sağlık durumunun mesleğin gerektirdiği fiziksel koşullara (yükseklikte çalışma, vardiyalı çalışma vb.) uygun olması"
+  ],
+  "sure_ve_icerik": "Mesleki ve teknik liselerde eğitim süresi 4 yıl, ön lisans programlarında 2 yıldır. Eğitimde temel makine bilgisi, uçak sistemleri, bakım teknikleri, iş güvenliği ve ilgili mevzuat konuları teorik ve uygulamalı olarak işlenir; uygulamalı eğitim atölye, hangar veya işletme ortamında usta/öğretici gözetiminde yapılır.",
+  "belge": "Eğitim sonunda meslek lisesi diploması veya ön lisans diploması verilir. Uçak bakım personeli olarak fiilen görev alabilmek için ayrıca Sivil Havacılık Genel Müdürlüğü (SHGM) tarafından düzenlenen ilgili tip/sınıf yetkilendirmesine ve personel lisansına sahip olmak gerekmektedir."
+ },
+ "calisma_alanlari": "Meslek elemanları başlıca havayolu şirketlerinin bakım merkezlerinde, havalimanlarındaki Sivil Havacılık Genel Müdürlüğü (SHGM) onaylı bakım kuruluşlarında, kargo ve genel havacılık işletmelerinde çalışabilir. Ayrıca askeri havacılık bakım birimlerinde ve havacılık sektörüne hizmet veren teknik servis işletmelerinde de istihdam edilebilirler.",
+ "kazanc": {
+  "egitim_suresince": "Mesleki eğitim kapsamında işletmelerde staj veya eğitim gören öğrencilere 3308 sayılı Mesleki Eğitim Kanunu çerçevesinde ücret ödenir; bu süreçte öğrencilerin iş kazası ve meslek hastalığı sigortası devletçe karşılanır.",
+  "egitim_sonrasi": [
+   "Yeni başlayanlarda kazanç genellikle asgari ücret düzeyinde olup, çalışılan kurumun büyüklüğüne, kişinin deneyim ve yetkinlik düzeyine göre değişebilir.",
+   "Kamu kurumlarında işçi statüsünde çalışanlarda ücret toplu iş sözleşmesi hükümlerine göre belirlenir; özel sektörde ise kazanç işletmeye, deneyime ve sahip olunan yetkilendirme/lisans düzeyine göre artabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Lise düzeyinde havacılıkla ilgili alan/dallardan mezun olanlar, ilgili ön lisans ve lisans programlarına (örneğin uçak bakım teknolojisi, havacılık ve uzay mühendisliği gibi) yönelebilir. Mesleki deneyim ve ek sertifikalarla sahip olunan yetki kapsamı genişletilebilir.",
+  "is_hayatinda": "Deneyim kazanan teknisyenler kıdemli teknisyen, posta/ekip şefi veya bakım amiri gibi pozisyonlara yükselebilir. İleri eğitim, ek lisans ve yetkilendirmelerle bakım planlama, kalite kontrol gibi görevlere veya ileri havacılık mesleklerine geçiş yapılabilir."
+ },
+ "benzer_meslekler": [
+  "Uçak-Gövde Motorcusu",
+  "Uçak Bakım Teknisyeni (Gövde-Motor)",
+  "Uçak Motorları Bakım-Onarım Teknisyeni",
+  "Uçak Gövde Motor Teknisyeni(Uçak Bakım Teknisyeni)",
+  "Uçak Teknikeri",
+  "Makine Teknisyeni-Motor ve Makine"
+ ],
+ "ek_bilgiler": "Uçak bakım personeli olarak görev yapabilmek için Sivil Havacılık Genel Müdürlüğü (SHGM) tarafından düzenlenen ilgili tip/sınıf yetkilendirmelerine ve personel lisansına sahip olmak gerekmektedir. Havacılık sektöründeki bakım faaliyetleri sıkı güvenlik ve kalite standartlarına tabidir; bu nedenle düzenli uyum ve yenileme eğitimleri önemlidir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T09:22:23",
+  "usage": {
+   "input_tokens": 4,
+   "output_tokens": 11127
+  }
+ }
+}

@@ -1,0 +1,71 @@
+{
+ "arac_gerec": [
+  "Multimetre ve pensampermetre",
+  "Basınç, sıcaklık ve akış kalibratörleri (loop calibrator)",
+  "HART iletişim cihazı (el terminali)",
+  "Osiloskop ve işaret jeneratörü",
+  "PLC programlama yazılımı ve bilgisayar",
+  "SCADA izleme ve kontrol yazılımları",
+  "Kablo ve devre test cihazları",
+  "Temel el aletleri (tornavida, pense, lehim takımı takımı)",
+  "Pano ve bağlantı şemaları, teknik dokümanlar",
+  "Kalibrasyon sertifikaları ve takip formları",
+  "İş güvenliği ekipmanları (eldiven, gözlük, baret, iş ayakkabısı)",
+  "Vinç, merdiven gibi sahada kullanılan yardımcı ekipmanlar"
+ ],
+ "benzer_meslekler": [
+  "Kontrol ve Otomasyon Teknolojisi Teknikeri (Kontrol Sistemleri Teknikeri)",
+  "Hidrolik-Pnömatik Teknisyeni",
+  "Endüstriyel Mekanik Teknisyeni",
+  "Raylı Sistemler Mekotronik Teknisyeni"
+ ],
+ "calisma_alanlari": "Meslek elemanları; üretim tesisleri, enerji santralleri, rafineri ve petrokimya tesisleri, gıda, içecek ve ilaç fabrikaları, su ve atık su arıtma tesisleri, çimento ve metal sanayi işletmeleri gibi otomasyon sistemlerinin yoğun kullanıldığı endüstriyel tesislerde çalışabilirler.\n\nAyrıca enstrümantasyon ve otomasyon sistemleri kuran ve bakımını üstlenen mühendislik ve taahhüt firmalarında, kalibrasyon laboratuvarlarında, OSB'lerdeki sanayi kuruluşlarında ve bazı kamu kurumlarının teknik birimlerinde istihdam edilebilirler. Deneyim kazanan elemanlar, ölçüm ve kalibrasyon hizmeti veren kendi işletmelerini kurabilirler.",
+ "calisma_ortami": "Meslek elemanları genellikle endüstriyel tesislerin üretim sahalarında, kontrol odalarında ve otomasyon panolarının bulunduğu kapalı alanlarda çalışır; arıza tespiti ve bakım için zaman zaman açık sahada, yükseklerde veya dar ve kapalı alanlarda görev alabilirler. Çalışma ortamı tesisin türüne göre gürültülü, tozlu, sıcak veya elektrik ve basınçlı sistemler nedeniyle risk taşıyan koşullar içerebilir; bu nedenle iş sağlığı ve güvenliği kurallarına ve kişisel koruyucu donanım kullanımına özen gösterilmesi gerekir.\n\nÇalışma genellikle tesisin üretim programına bağlı olarak gündüz yapılır, ancak sürekli üretim yapan tesislerde vardiyalı çalışma söz konusu olabilir. Görevleri sırasında mühendisler, diğer teknisyen ve teknikerler, saha operatörleri ve bakım ekipleriyle yakın iş birliği içinde çalışır.",
+ "ek_bilgiler": "Mesleğin icra edildiği bazı çalışma alanları (elektrik panoları, basınçlı sistemler, yüksekte çalışma vb.) tehlikeli veya çok tehlikeli işler kapsamında değerlendirilebileceğinden, çalışanların ilgili iş sağlığı ve güvenliği eğitimlerini alması önem taşır. Mesleki Yeterlilik Kurumu (MYK) tarafından düzenlenen belgeler, istihdamda tercih sebebi olabilir.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi, üniversitelere bağlı meslek yüksekokullarının \"Kontrol ve Otomasyon Teknolojisi\" veya buna yakın elektrik-elektronik ve otomasyon alanındaki önlisans programlarında verilmektedir.",
+  "giris_kosullari": [
+   "Lise ve dengi okul mezunu olmak",
+   "YKS (TYT) sınavına girip yeterli puanı almak veya meslek lisesi mezunları için ilgili alanlardan sınavsız geçiş koşullarını sağlamak"
+  ],
+  "sure_ve_icerik": "Eğitim süresi 2 yıldır (4 yarıyıl). Programda temel elektrik-elektronik bilgisi, ölçme ve kalibrasyon teknikleri, PLC ve SCADA sistemleri, endüstriyel otomasyon, sensör ve transmiter teknolojileri gibi dersler ile işletmelerde uygulanan zorunlu staj yer alır.",
+  "belge": "Eğitimi başarıyla tamamlayanlara önlisans diploması ve \"Kontrol ve Otomasyon Teknikeri\" unvanı verilir."
+ },
+ "genel_ozellikler": [
+  "Dikkatli ve titiz,",
+  "Analitik düşünebilen ve mantık yürütebilen,",
+  "El ve göz koordinasyonu gelişmiş,",
+  "Sorumluluk sahibi ve güvenilir,",
+  "Teknolojik gelişmeleri takip etmeye istekli,",
+  "Problem çözme becerisine sahip,",
+  "Ekip çalışmasına yatkın, iş birliği içinde çalışabilen,",
+  "Planlı ve düzenli çalışabilen"
+ ],
+ "gorevler": [
+  "Basınç, sıcaklık ve akış ölçerlerin hassasiyet kontrollerini yapar.",
+  "Ölçü cihazlarının PLC veya SCADA sistemlerine veri iletimini denetler.",
+  "Arızalı enstrümanları tespit ederek onarır veya yenisiyle değiştirir.",
+  "Ölçüm cihazlarının periyodik kalibrasyon sertifikasyonlarını takip eder.",
+  "Otomasyon panolarındaki bağlantıların teknik doğruluğunu sağlar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Önlisans mezunları, Dikey Geçiş Sınavı (DGS) ile başarılı oldukları takdirde Elektrik-Elektronik Mühendisliği, Kontrol ve Otomasyon Mühendisliği gibi ilgili lisans programlarına geçiş yapabilirler. Ayrıca mesleki gelişim kursları ve sertifika programlarıyla bilgi ve becerilerini güncelleyebilirler.",
+  "is_hayatinda": "Deneyim ve bilgi birikimi artan teknikerler, işletmelerde kıdemli tekniker, ekip sorumlusu, bakım şefi veya saha koordinatörü gibi görevlere yükselebilir. İlgili lisans eğitimini tamamlayanlar mühendis unvanıyla çalışabilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Önlisans eğitimi sırasında yapılan zorunlu stajlarda, 3308 sayılı Mesleki Eğitim Kanunu kapsamında işletmede eğitim gören öğrencilere asgari ücretin belirli bir oranından aşağı olmamak üzere ücret ödenebilir; ayrıca bazı üniversitelerin burs imkânlarından yararlanılabilir.",
+  "egitim_sonrasi": [
+   "Özel sektörde yeni mezunlar genellikle asgari ücret veya buna yakın bir düzeyde işe başlar; kazanç, işletmenin büyüklüğü, kişinin deneyimi ve sektörün ücret düzeyine göre zamanla artabilir.",
+   "Kamu kurumlarında 657 sayılı Devlet Memurları Kanunu'na tabi teknik personel olarak istihdam edilenlerin ücreti ilgili mevzuat ve kadro derecesine göre belirlenir; işçi statüsünde çalışanlarda ise toplu iş sözleşmesi hükümleri geçerlidir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T09:33:20",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5454
+  }
+ }
+}

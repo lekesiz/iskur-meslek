@@ -1,0 +1,81 @@
+{
+ "gorevler": [
+  "Kuluçkaya hazırlık yapar.",
+  "Yumurtaları verimlilik ve ağırlık bakımından inceleyerek sınıflara ayırır.",
+  "Yumurtaları tepsilere dizip dezenfekte eder.",
+  "Yumurtaları bir süre bekleterek makinede sıcaklık ve nem durumunu kontrol eder.",
+  "Belirli ve yeterli şartları sağlamak için kuluçka makinesinde gerekli ayarlamaları yapar.",
+  "Makineyi sürekli kontrol edip parlak ışıkta döllenmiş yumurtayı döllenmemiş yumurtadan ayırarak döllenmemiş olanları alır.",
+  "Bu sırada mikrop kırıcı olarak cihaza ilaç koyar.",
+  "Makineden çıkan civcivleri özel ısıtılmış büyütme kaplarına yerleştirerek beslenmelerini sağlar.",
+  "Civcivleri cinsiyetlerine ve büyüklüklerine göre ayırıp sevk edilmek üzere hazırlar.",
+  "Civciv çıkarma işlemi tamamlanınca makinenin bakım ve temizliğini yapıp tepsileri ve diğer malzemeleri dezenfekte eder.",
+  "Makinedeki arızaları ilgililere bildirir.",
+  "Yumurtadan çıkan ve ölen civcivlerin cinsiyet ve büyüklükleri ile ilgili kayıtları tutar.",
+  "Kuluçka tesisinde hastalık olup olmadığını inceler.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "arac_gerec": [
+  "Kuluçka makinesi (inkübatör)",
+  "Ovoskop (yumurta ışıklandırma/aydınlatma cihazı)",
+  "Yumurta tepsileri ve taşıma kasaları",
+  "Termometre ve higrometre (sıcaklık-nem ölçüm cihazları)",
+  "Dezenfektan ve ilaçlama malzemeleri",
+  "Civciv büyütme kapları (brooder) ve ısıtıcılar",
+  "Cinsiyet ayırma ekipmanları",
+  "Koruyucu önlük, eldiven, maske ve çizme",
+  "Temizlik ve hijyen malzemeleri",
+  "Kayıt defteri veya bilgisayar"
+ ],
+ "genel_ozellikler": [
+  "Hayvanlara ve canlılara karşı ilgili,",
+  "El becerisine sahip,",
+  "Dikkatli ve titiz çalışabilen,",
+  "Sabırlı,",
+  "Hijyen kurallarına özen gösteren,",
+  "Fiziksel olarak sağlıklı ve dayanıklı,",
+  "Koku ve toz gibi olumsuz koşullara dayanıklı,",
+  "Sorumluluk sahibi"
+ ],
+ "calisma_ortami": "Kuluçka tesisi işçisi, kuluçkahane adı verilen kapalı ve genellikle sıcaklığı ile nemi kontrollü tutulan işletmelerde çalışır. Çalışma ortamında yumurta ve civciv kokusu, tüy, toz ve zaman zaman dezenfektan kimyasal kokuları bulunabilir; bu nedenle koruyucu ekipman kullanımı önemlidir. Çoğunlukla ayakta ve eğilerek çalışılır; kuluçka sürecinin sürekli takip gerektirmesi nedeniyle vardiyalı veya hafta sonu dâhil düzensiz çalışma saatleri söz konusu olabilir.\n\nÇalışma sırasında işletmedeki diğer işçiler, teknisyenler ve varsa veteriner hekim ya da işletme sorumlusuyla sürekli iletişim hâlindedir. İş, dikkat ve süreklilik gerektirdiğinden kısa aralıklarla kontrol yapılması ve kayıt tutulması gerekir.",
+ "egitim": {
+  "verildigi_yerler": "Bu meslek için ayrı, örgün bir okul veya bölüm bulunmamaktadır; mesleğin gerektirdiği minimum eğitim düzeyi ilköğretimdir. Meslekî bilgi ve beceriler genellikle işletme bünyesinde işbaşında, usta yanında uygulamalı olarak kazanılır. Halk Eğitim Merkezleri, İŞKUR ve tarım il/ilçe müdürlüklerinin açtığı kümes hayvancılığı ve kuluçkacılıkla ilgili kısa süreli mesleki eğitim kursları da bilgi edinmede destekleyici olabilir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "İşletmenin belirlediği genel yaş ve sağlık şartlarını taşımak",
+   "Kapalı ortamda, hayvanlarla ve dikkat gerektiren işlerle çalışmaya istekli olmak"
+  ],
+  "sure_ve_icerik": "Resmî, belirli bir süreye ve müfredata sahip örgün bir eğitim programı bulunmamaktadır. Meslek, işletme içinde işbaşında eğitimle; yumurta seçimi ve sınıflandırılması, kuluçka makinesinin kullanımı, sıcaklık-nem takibi, dezenfeksiyon işlemleri ve civciv bakımı konularında uygulamalı olarak öğrenilir. Katılım sağlanabilecek kısa süreli kurslar bu bilgileri teorik olarak destekleyebilir.",
+  "belge": "Örgün bir eğitim sonucunda diploma verilmez; katılınan kurslardan kurs bitirme/katılım belgesi alınabilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, ilgili alanda yeterlilik standardı bulunması hâlinde istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Kuluçka tesisi işçileri; ticari kuluçkahaneler, damızlık kümes hayvancılığı işletmeleri, etlik ve yumurtacı tavukçuluk tesisleri, hindi, kaz, ördek gibi kanatlı üretim işletmelerine bağlı kuluçka üniteleri ile yumurta üretim çiftliklerinde çalışabilir. İstihdam olanakları büyük ölçüde bölgedeki kümes hayvancılığı işletmelerinin yoğunluğuna ve sektördeki üretim hacmine bağlıdır. Kanatlı eti ve yumurta talebindeki artış, bu alanda zaman zaman iş imkânı yaratabilir.",
+ "kazanc": {
+  "egitim_suresince": "Örgün bir eğitim süreci bulunmadığından öğrencilik dönemine özgü burs veya kredi uygulaması söz konusu değildir. İşbaşında eğitim alanlar genellikle çalıştıkları işletmeden ücret alırlar.",
+  "egitim_sonrasi": [
+   "Yeni başlayanlarda kazanç genellikle asgari ücret düzeyindedir.",
+   "Deneyim arttıkça ve üstlenilen sorumluluk büyüdükçe kazanç yükselebilir.",
+   "Özel sektörde ücret işveren ile çalışan arasındaki anlaşmaya göre belirlenir; kamuya bağlı tesislerde işçi statüsünde çalışanlar toplu iş sözleşmesi hükümlerine tabi olabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Bu meslekte örgün bir eğitim kademesi bulunmadığından doğrudan dikey bir eğitimde ilerleme imkânı yoktur. İsteyenler, tarım meslek liseleri veya önlisans/lisans düzeyinde zootekni, hayvansal üretim ve teknolojileri gibi ilgili alanlara yönelerek mesleki bilgi birikimini ve unvanını geliştirebilir.",
+  "is_hayatinda": "Deneyim kazandıkça vardiya sorumluluğu, ustabaşılık veya kuluçka tesisi sorumluluğu gibi görevlere yükselebilir; yeterli bilgi ve sermaye birikimi ile kendi küçük ölçekli kuluçka işletmesini kurabilir."
+ },
+ "benzer_meslekler": [
+  "Kümes Hayvanları Yetiştirme İşçisi (Genel)",
+  "Diğer Kümes Hayvanları İşçileri",
+  "Yumurtacı Tavuk Yetiştiricisi",
+  "Etlik ve Damızlık Tavuk Yetiştiricisi",
+  "Hindi Yetiştiricisi",
+  "Kaz ve Öredek Yetiştiricisi"
+ ],
+ "ek_bilgiler": "Kuluçka tesisi işçiliği, kümes hayvancılığı sektöründeki üretim hacmine bağlı olarak talep gören bir meslektir; iş yoğunluğu işletmenin üretim planlamasına ve mevsimsel talebe göre değişebilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T21:44:26",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6454
+  }
+ }
+}

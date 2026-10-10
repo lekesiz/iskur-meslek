@@ -1,0 +1,83 @@
+{
+ "arac_gerec": [
+  "Elektrik ark fırını",
+  "Grafit elektrotlar",
+  "Reosta ve akım/voltaj ayar panosu",
+  "Ampermetre, voltmetre gibi ölçü aletleri",
+  "Cüruf alma çubuğu (demir çubuk)",
+  "Numune alma kalıpları ve kepçeleri",
+  "Döküm/aktarma kepçesi",
+  "Vinç ve kreyn (hurda şarjı için)",
+  "Isıya dayanıklı koruyucu iş elbisesi, eldiven ve baret",
+  "Koruyucu gözlük/yüz siperi",
+  "Kulak koruyucu",
+  "Solunum maskesi",
+  "El aletleri (anahtar takımı, pense, maşa)",
+  "Sıcaklık ölçüm cihazı (pirometre)"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve tedbirli,",
+  "Sorumluluk sahibi,",
+  "Fiziksel olarak güçlü ve dayanıklı,",
+  "Yüksek sıcaklık ve ağır çalışma koşullarına uyum sağlayabilen,",
+  "Hızlı ve doğru karar verebilen,",
+  "Ekip çalışmasına yatkın,",
+  "İş güvenliği kurallarına titizlikle uyan,",
+  "Görsel ve işitsel dikkati gelişmiş,"
+ ],
+ "calisma_ortami": "Elektrik Ark Fırını İzabecisi, demir-çelik fabrikalarının çelikhane bölümlerinde, kapalı fakat çok sıcak, gürültülü ve tozlu bir ortamda çalışır. Çalışma alanında yüksek sıcaklık, kıvılcım, parlak ışık, erimiş metal ve ağır vinç/kreyn hareketleri nedeniyle iş kazası ve yanma riski bulunur; bu nedenle kişisel koruyucu donanımların eksiksiz kullanılması zorunludur. Üretim genellikle sürekli (3 vardiya) sistemle yürütüldüğünden gece ve gündüz vardiyalarında, ayakta ve hareketli çalışma söz konusudur.\n\nMeslek elemanı; şarj işçileri, potacılar, kalite kontrol personeli, vardiya amiri ve ustabaşı ile sürekli iletişim ve iş birliği içinde çalışır. Görevini genellikle bir ekibin parçası olarak, belirlenen üretim ve kalite standartlarına uygun şekilde yerine getirir.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin kendisine özgü, resmî olarak tanımlanmış bağımsız bir okul programı bulunmamaktadır. Metal Teknolojisi alanı kapsamındaki mesleki ve teknik eğitim programları (meslek liseleri, mesleki eğitim merkezleri) temel metal işleme ve ısıl işlem bilgisi kazandırır; mesleğe özgü uygulamalı yeterlilikler ise genellikle işbaşında, çelikhanelerde usta/vardiya amiri gözetiminde kazanılır. Ayrıca Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kurslarında ilgili temel beceriler kazandırılabilir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "Fiziksel olarak ağır ve sıcak ortam koşullarında çalışmaya uygun olmak (gerektiğinde sağlık raporu ile belgelendirilir)",
+   "Çıraklık/işbaşı eğitimi için ilgili işyeri ile eğitim veya iş sözleşmesi yapmak"
+  ],
+  "sure_ve_icerik": "Eğitim süresi standart bir programa bağlı değildir. Metal Teknolojisi alanındaki mesleki eğitim programları birkaç yıl sürebilir; bunun yanında meslek, fabrika bünyesinde yardımcı işçilikten başlanarak kademeli olarak, deneyimli bir izabeci veya vardiya amirinin gözetiminde uygulamalı olarak öğrenilir. İçerikte fırının çalıştırılması, şarj işlemleri, ark oluşturma, akım-voltaj kontrolü, numune alma ve metal terkibinin değerlendirilmesi gibi konular yer alır.",
+  "belge": "Mesleki eğitim programını tamamlayanlara meslek lisesi diploması veya mesleki eğitim merkezi kalfalık/ustalık belgesi verilir. Bunun yanında Mesleki Yeterlilik Kurumu (MYK) tarafından ilgili alanda düzenlenen Mesleki Yeterlilik Belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Elektrik Ark Fırını İzabecisi, hurda çelik eritme veya tasfiye yoluyla çelik üreten kamu ve özel sektöre ait demir-çelik fabrikalarında, çelikhanelerde ve döküm tesislerinde istihdam edilir. İş bulma olanakları, ülkemizde demir-çelik üretiminin yoğunlaştığı ağır sanayi bölgelerinde daha fazladır. Sektördeki üretim hacmine ve yatırımlara bağlı olarak istihdam talebi değişkenlik gösterebilir; tecrübeli ve ehliyetli elemanlara talep genellikle süreklidir.",
+ "kazanc": {
+  "egitim_suresince": "Mesleki eğitim merkezi veya çıraklık kapsamında eğitim görenlere, 3308 sayılı Mesleki Eğitim Kanunu gereğince asgari ücretin belirli bir yüzdesinden az olmamak üzere ücret ödenir. Eğitim gören kişilerin iş kazası ve meslek hastalığı sigortası devletçe karşılanır.",
+  "egitim_sonrasi": [
+   "Kamu kuruluşlarında çalışanlar, tabi oldukları mevzuata (657 sayılı Kanun veya işçi statüsünde ise toplu iş sözleşmesi hükümlerine) göre ücret alır.",
+   "Özel sektörde yeni başlayanlar genellikle asgari ücret düzeyinde ücret alır; tecrübe, işin niteliği ve işletmenin büyüklüğüne göre bu ücret artabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleki eğitim merkezinden kalfalık/ustalık belgesi alanlar, isterlerse Metal Teknolojisi alanının devamı niteliğindeki ileri teknik eğitim programlarına veya meslek yüksekokullarının ilgili programlarına yönelebilir.",
+  "is_hayatinda": "İş hayatında deneyim ve bilgi birikimi arttıkça izabeci, ekip liderliği, ustabaşılık, vardiya amirliği gibi görevlere, ileri düzeyde üretim şefliği veya işletme müdürlüğü gibi yönetim kademelerine yükselebilir."
+ },
+ "benzer_meslekler": [
+  "Açık Ocak İzabecisi (Martin) -Çelik",
+  "Bessemer veya Thomas İzabecisi-Çelik Tavlama",
+  "Diğer Metal Ergitme, Tavlama ve Tasfiye İzabecileri",
+  "İzabeci (Oksijen ve Çelik Tavlama)",
+  "İzabeci (Kupola)",
+  "İzabeci (Metal Ergitme) (Kupola Hariç)",
+  "Kupol Ocağı Operatörü",
+  "Çelikhane İşçisi"
+ ],
+ "ek_bilgiler": "Meslek, yüksek sıcaklık, elektrik akımı ve ağır makinelerle çalışma gerektirdiğinden iş sağlığı ve güvenliği açısından riskli işler kapsamında değerlendirilebilir; bu nedenle periyodik sağlık kontrolü ve kişisel koruyucu donanım kullanımı önem taşır. Mesleki Yeterlilik Kurumu (MYK) tarafından verilen ilgili belge, işe alımlarda tercih sebebi olabilir.",
+ "gorevler": [
+  "Fırının çelikle doldurulması için emir verir.",
+  "Elektrik akımını açarak elektrotlarla eritilecek malzeme arasında ark meydana getirir.",
+  "Eritme işlemi esnasında ark açıklığını otomatik olarak düzenleyen tertibatı ayarlar.",
+  "Reostayı düzenleyerek akımı ve voltajı kontrol eder.",
+  "Ölçü aletlerini ve elektrotların iniş-kalkışını gözleyerek fırın içindeki malzemenin erimesini sağlar.",
+  "Erimiş metal yüzündeki cürufu, cüruf almaya mahsus bir demir çubukla temizler.",
+  "Erimiş metalden numune alır ve soğutulmuş parçasını inceleyerek metalin terkibini tayin eder.",
+  "Erimiş metal numunesinin soğuma zamanını tespit eder ve soğumasını gözleyerek metalin akıcılığını tayin eder.",
+  "Akımı keserek fırını öne doğru yatırır ve erimiş metali kepçeye boşaltır.",
+  "Fırının çalıştırılmasında kendisine yardımcı olan personelin olağan hizmetlerine nezaret eder.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T10:58:57",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5518
+  }
+ }
+}

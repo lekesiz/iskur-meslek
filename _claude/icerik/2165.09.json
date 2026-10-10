@@ -1,0 +1,88 @@
+{
+ "arac_gerec": [
+  "Akım ölçer cihazlar (çarklı debimetre, akustik Doppler akım ölçer - ADCP)",
+  "Su seviye ölçüm cihazları (limnigraf, basınç sensörlü seviye ölçer)",
+  "Otomatik/telemetrik veri kayıt istasyonları",
+  "Rüsubat (sediman) örnekleme aletleri",
+  "Kar ölçüm aletleri (kar tüpü, kar şalumosu, kar terazisi)",
+  "Yağış ölçerler (pluviometre, pluviograf)",
+  "Kuyu seviye ölçüm aletleri",
+  "GPS cihazı",
+  "Tekne/bot ve can yeleği gibi su üstü ölçüm ekipmanları",
+  "Nivo, mira gibi klasik ölçme aletleri",
+  "El terminali, dizüstü bilgisayar ve veri değerlendirme yazılımları",
+  "Harita, arazi notları ve ölçüm formları",
+  "Koruyucu ekipman (çizme, kask, yağmurluk)"
+ ],
+ "genel_ozellikler": [
+  "Açık arazide ve değişken hava koşullarında çalışmaktan hoşlanan,",
+  "Sayısal ve analitik düşünme yeteneğine sahip,",
+  "Dikkatli, sabırlı ve titiz gözlem yapabilen,",
+  "Fiziksel olarak dayanıklı,",
+  "Ekip halinde çalışmaya yatkın,",
+  "Sorumluluk sahibi ve güvenilir,",
+  "Yazılı ve sözlü raporlama becerisi gelişmiş,",
+  "Teknolojik ölçüm aletlerini öğrenmeye ve kullanmaya istekli."
+ ],
+ "calisma_ortami": "Hidrolog, hem açık arazide hem de büroda çalışır. Arazi çalışmaları akarsu kıyıları, göl kenarları, dağlık ve yüksek kesimler, kuyu başları gibi farklı ortamlarda yürütülür; bu çalışmalar sırasında soğuk, yağış, kar gibi olumsuz hava koşullarıyla ve bazen tekneyle su üzerinde ölçüm yapma gereğiyle karşılaşılabilir. Görev sık sık seyahat etmeyi ve zaman zaman uzun süreli saha görevlerine çıkmayı gerektirir; su kenarında/üzerinde çalışmanın getirdiği riskler nedeniyle iş sağlığı ve güvenliği kurallarına ve koruyucu ekipman kullanımına özen gösterilmesi gerekir.\\n\\nArazide toplanan veriler büroda bilgisayar ortamında değerlendirilir, analiz edilir ve raporlanır. Çalışma süresince mühendisler, teknisyenler, meteoroloji ve jeoloji uzmanları gibi farklı meslek gruplarıyla işbirliği içinde çalışılır; çalışma saatleri genellikle mesai saatleri içindedir ancak taşkın, kar erimesi gibi özel durumlarda arazi gözlemleri mesai dışına da taşabilir.",
+ "calisma_alanlari": "Hidrologlar başta Devlet Su İşleri Genel Müdürlüğü (DSİ) olmak üzere, Tarım ve Orman Bakanlığı'na bağlı birimler, Meteoroloji Genel Müdürlüğü, belediyelerin su ve kanalizasyon idareleri, İller Bankası gibi kamu kurumlarında istihdam edilir. Ayrıca hidroelektrik santral (HES) projeleri yürüten enerji şirketlerinde, su kaynakları ve çevre danışmanlığı yapan mühendislik firmalarında, maden işletmelerinde, üniversitelerin ilgili bölümlerinde ve araştırma kurumlarında, uluslararası su kaynakları yönetimi projelerinde görev alabilirler.",
+ "kazanc": {
+  "egitim_suresince": "Lisans eğitimi süresince öğrencinin doğrudan bir kazancı bulunmaz; staj dönemlerinde bazı kurum ve işletmelerce cüzi miktarda harçlık ödenebilir.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında (DSİ, belediyeler vb.) memur statüsünde çalışanlar 657 sayılı Devlet Memurları Kanunu'na tabi olarak maaş ve ek ödemeler alır; işçi statüsünde istihdam edilenlerin ücreti ilgili toplu iş sözleşmesi hükümlerine göre belirlenir.",
+   "Özel sektörde ücret; işletmenin büyüklüğüne, projenin niteliğine ve çalışanın deneyim/uzmanlık düzeyine göre karşılıklı anlaşmayla belirlenir; yeni mezunlar genellikle asgari ücret düzeyine yakın bir ücretle işe başlar, kıdem ve uzmanlıkla birlikte kazanç artar."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "İlgili mühendislik lisans programını tamamlayanlar, hidroloji veya su kaynakları mühendisliği alanında yüksek lisans ve doktora yaparak bu alanda uzmanlaşabilir; ayrıca kurum içi hizmet içi eğitimler ve kısa süreli sertifika programlarıyla bilgi ve becerilerini geliştirebilirler.",
+  "is_hayatinda": "Kamu kurumlarında kıdem ve kurum içi sınavlarla şef, şube müdürü, daire başkanı gibi yönetici kademelerine yükselebilirler. Özel sektörde deneyim kazandıkça proje sorumlusu, teknik müdür gibi pozisyonlara geçebilir; akademik kariyere yönelenler üniversitelerde öğretim elemanı olarak görev alabilir."
+ },
+ "benzer_meslekler": [
+  "Harita/Harita ve Kadastro/Jeodezi ve Fotogrametri/Geomatik Mühendisi",
+  "Coğrafi Bilgi Sistemleri Uzmanı",
+  "Hidrolog Yardımcısı",
+  "Su Topoğrafı",
+  "Topoğraf",
+  "Arazi Topoğrafı"
+ ],
+ "ek_bilgiler": "Ülkemizde doğrudan \"Hidroloji\" adıyla yaygın bir lisans programı bulunmadığından, bu mesleğe genellikle İnşaat Mühendisliği, Jeoloji Mühendisliği, Meteoroloji Mühendisliği, Harita/Jeodezi ve Fotogrametri Mühendisliği veya Çevre Mühendisliği gibi ilgili mühendislik bölümlerinden mezun olunduktan sonra kurum içi uzmanlaşma veya lisansüstü eğitim yoluyla geçilmektedir.",
+ "gorevler": [
+  "İş için gerekli alet ve avadanlıkları ambardan alır ve araçlara yüklenmesine nezaret eder.",
+  "Araziye getirilen alet ve malzemelerin sayım ve hasar kontrollerini yapar.",
+  "Alet ve malzemeleri kullanım sırasına göre istif ettirir.",
+  "Görev talimatına uygun olarak akarsu kesitinde su akım ölçümleri yapar.",
+  "Su seviye tespiti ve akım hızı ölçümleri yapar.",
+  "Su yüzü meyli çalışmaları yapar.",
+  "Rüsubat (sediman) ölçümleri yapar.",
+  "Kar rasatları yapar.",
+  "Kuyu rasatları yapar.",
+  "Yer altı suyu rezerv tespit çalışmaları yapar.",
+  "Göl seviye rasatları yapar.",
+  "Yağmur rasatları yapar.",
+  "Taşkın ölçümleri yaparak taşkın şemaları oluşturur.",
+  "Akım rasat istasyonları tesis ve çalışmalarını yapar.",
+  "İşle ilgili gerekli rapor ve dokümanları oluşturur.",
+  "Elde edilen bilgi, görüş ve önerilerini amirine iletir.",
+  "Bölümünün diğer hizmet birimleriyle gerekli koordinasyonu sağlar.",
+  "Çalışma alanının genel tertip ve düzenini sağlar.",
+  "Mesleği alanındaki gelişmeleri takip eder ve uygular."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Hidrolog olarak çalışabilmek için doğrudan \"Hidroloji\" adıyla ayrı bir lisans bölümü ülkemizde yaygın değildir. Bu mesleğe genellikle üniversitelerin İnşaat Mühendisliği, Jeoloji Mühendisliği, Meteoroloji Mühendisliği, Harita/Jeodezi ve Fotogrametri Mühendisliği veya Çevre Mühendisliği gibi ilgili lisans programlarından mezun olunduktan sonra, kurum içi uzmanlaşma ya da hidroloji/su kaynakları mühendisliği alanında lisansüstü eğitim yoluyla girilmektedir.",
+  "giris_kosullari": [
+   "Lise veya dengi okul mezunu olmak",
+   "YKS (Yükseköğretim Kurumları Sınavı) kılavuzunda belirtilen giriş koşullarını taşımak ve ilgili mühendislik programlarından birini (İnşaat, Jeoloji, Meteoroloji, Harita/Jeodezi ve Fotogrametri, Çevre Mühendisliği vb.) kazanmak",
+   "Hidroloji alanında uzmanlaşmak isteyenlerin, lisans sonrası ALES ve ilgili şartları sağlayarak hidroloji/su kaynakları mühendisliği yüksek lisans/doktora programlarına kabul edilmesi"
+  ],
+  "sure_ve_icerik": "İlgili mühendislik programlarında lisans eğitimi 4 yıl sürer. İlk yıllarda matematik, fizik, mekanik, bilgisayar ve temel mühendislik dersleri; sonraki yıllarda akışkanlar mekaniği, hidrolik, ölçme bilgisi gibi alana temel oluşturan dersler okutulur. Eğitim süresince staj yapma zorunluluğu bulunur. Hidroloji alanında uzmanlaşmak isteyenler, lisans sonrasında genellikle 2 yıl süren ve su kaynakları, akarsu hidrolojisi, yer altı suları, meteorolojik gözlem ve veri analizi gibi derslerin yer aldığı yüksek lisans programlarına devam eder; doktora ile uzmanlaşma derinleştirilebilir.",
+  "belge": "Lisans eğitimini tamamlayanlara ilgili mühendislik dalında lisans diploması; lisansüstü eğitimi tamamlayanlara yüksek lisans veya doktora diploması verilir. Ayrıca çalışılan kurum tarafından verilen hizmet içi eğitim sertifikaları bulunabilir."
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-07T22:00:47",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 7653
+  }
+ }
+}

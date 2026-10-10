@@ -1,0 +1,72 @@
+{
+ "arac_gerec": [
+  "Programlanabilir lojik kontrolör (PLC) ve otomasyon panelleri",
+  "SCADA ve HMI (insan-makine arayüzü) yazılımları",
+  "Endüstriyel robotlar ve robot kontrol üniteleri",
+  "Sensörler ve veri toplama cihazları",
+  "Endüstriyel ağ ve haberleşme ekipmanları (endüstriyel ethernet, IoT cihazları)",
+  "Bilgisayar ve üretim yönetim/izleme yazılımları (MES, ERP vb.)",
+  "Bulut bilişim altyapısı ve sunucu yönetim araçları",
+  "3 boyutlu tarayıcı ve hızlı prototipleme (3B yazıcı) cihazları",
+  "Boyutsal ölçüm cihazları (koordinat ölçüm cihazı, lazer tarayıcı vb.)",
+  "Bakım ve ayar için el aletleri",
+  "Kişisel koruyucu donanım (iş gözlüğü, eldiven, kulaklık vb.)"
+ ],
+ "genel_ozellikler": [
+  "Matematik ve fen bilimlerine ilgili,",
+  "Bilgisayar ve yazılım kullanımında yetkin,",
+  "Analitik ve sistematik düşünebilen,",
+  "Yeni teknolojileri takip etmeye ve öğrenmeye istekli,",
+  "Dikkatli, sorumluluk sahibi ve düzenli,",
+  "Problem çözme becerisine sahip,",
+  "Ekip içinde uyumlu çalışabilen,",
+  "Sözlü ve yazılı iletişimi iyi kullanabilen,"
+ ],
+ "gorevler": [
+  "İş organizasyonu yapar.",
+  "Üretim iş ve süreçlerinin dijital gereksinimlerini organize eder.",
+  "Üretim hattının bilişim ve otomasyon altyapısını yönetir.",
+  "Ürün ve süreç geliştirmede mühendislik uygulamalarına katkı verir.",
+  "Mesleki gelişim çalışmalarına katılır."
+ ],
+ "calisma_ortami": "Dijital Sanayi Operatörü, genellikle dijitalleşmiş/otomasyonlu üretim tesislerinde; üretim hatları, kontrol odaları ve kısmen ofis ortamlarında çalışır. Çalışma sırasında makine, robot ve otomasyon sistemleriyle iç içedir; bu nedenle ortam yapılan işe göre gürültülü olabilir, iş güvenliği kurallarına büyük dikkat gösterilmesi ve kişisel koruyucu donanım kullanılması gerekir. Üretimin sürekliliği gereği vardiyalı çalışma söz konusu olabilir.\n\nGörevleri sırasında mühendisler, teknisyenler, makine operatörleri, bakım ve kalite ekipleriyle sıkı iş birliği içinde bulunur. İşin niteliği, hem saha/atölye içinde fiziksel takip hem de bilgisayar üzerinden yazılım ve veri izleme gerektirdiğinden, operatör gün içinde farklı ortamlar arasında geçiş yapabilir.",
+ "egitim": {
+  "verildigi_yerler": "Dijital Sanayi Operatörlüğü, Endüstri 4.0 ve dijital dönüşüm süreciyle ortaya çıkan, Türkiye'de henüz bağımsız ve standart bir mesleki eğitim programı olarak tam yerleşmemiş, gelişmekte olan bir meslektir. Bu alana yönelik temel bilgi ve beceriler, mesleki ve teknik ortaöğretim kurumlarının ilgili alanlarında (örneğin mekatronik, elektrik-elektronik teknolojisi, bilgisayarlı sayısal kontrol/otomasyon içerikli alan ve dallarda) kazandırılabilmektedir. Daha ileri düzeyde bilgi ve uzmanlık, üniversitelerin mekatronik, otomasyon, endüstri mühendisliği ve benzeri ön lisans/lisans programlarında edinilebilir. Ayrıca İŞKUR, Halk Eğitim Merkezleri ve özel kurumların açtığı mesleki eğitim kursları ile işyerlerinde düzenlenen işbaşı eğitim programları bu alanda beceri kazandırmaktadır.",
+  "giris_kosullari": [
+   "Ortaöğretim düzeyindeki ilgili alan/dallar için ortaokulu tamamlamış olmak ve okulun belirlediği giriş koşullarını taşımak",
+   "Ön lisans/lisans programları için lise veya dengi okul mezunu olmak ve YKS'de ilgili programlar için yeterli puanı almış olmak",
+   "Kurs programları için genellikle en az ilköğretim/ortaöğretim mezunu olmak ve kurumların belirlediği koşulları taşımak"
+  ],
+  "sure_ve_icerik": "Mesleğe özgü tek ve standart bir eğitim süresi ve müfredatı bulunmamaktadır. İlgili mesleki ve teknik ortaöğretim programları 4 yıl, ön lisans programları 2 yıl, lisans programları 4 yıl sürmektedir. Eğitim içeriğinde genel olarak; otomasyon ve kontrol sistemleri, bilgi ve iletişim teknolojileri, makineler arası veri iletişimi, bulut bilişim temelleri, robotik programlama, veri analitiği, kalite ve iş güvenliği uygulamaları ile tersine mühendislik, hızlı prototipleme ve boyutsal ölçümleme gibi mühendislik destek işlemleri yer alır.",
+  "belge": "Ortaöğretim düzeyindeki programlardan mezun olanlara diploma, ön lisans/lisans programlarından mezun olanlara ilgili diploma verilir. Kurs ve işbaşı eğitim programlarını tamamlayanlara katılım veya başarı belgesi verilir. Bu alanda bir Mesleki Yeterlilik Kurumu (MYK) Mesleki Yeterlilik Belgesi bulunması durumunda, söz konusu belge istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Dijital Sanayi Operatörleri; otomotiv, metal, makine, elektronik, tekstil ve benzeri imalat sektörlerinde, üretim süreçlerini dijitalleştirmiş veya \"akıllı fabrika\" uygulamalarına geçmiş işletmelerde istihdam edilir. Üretim hatlarının otomasyon ve bilişim altyapısının yönetildiği birimlerde, ar-ge/mühendislik destek birimlerinde ve kalite-süreç geliştirme ekiplerinde görev alabilirler. Sanayide dijital dönüşümün hızlanmasıyla birlikte, bu alanda nitelikli meslek elemanlarına olan ihtiyacın orta ve uzun vadede artması beklenmektedir; ancak meslek henüz yeni ve gelişim aşamasında olduğundan istihdam hacmi ve iş ilanı sayısı diğer yerleşik mesleklere kıyasla sınırlıdır.",
+ "kazanc": {
+  "egitim_suresince": "Mesleki ve teknik ortaöğretim kapsamında işletmelerde mesleki eğitim gören öğrencilere 3308 sayılı Mesleki Eğitim Kanunu gereğince asgari ücretin belirli bir oranından az olmamak üzere ücret ödenir ve iş kazası-meslek hastalığı sigorta primleri devletçe karşılanır. Ön lisans/lisans düzeyinde eğitim alanlar için staj dönemlerinde işletmeye göre değişen ücret veya burs olanakları bulunabilir.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanların kazancı genellikle asgari ücret düzeyindedir.",
+   "Kazanç; çalışılan işletmenin büyüklüğü, kişinin bilgi-beceri düzeyi, deneyimi ve sektörün ücret politikasına göre değişebilir.",
+   "Kamu kurumlarında istihdam edilenler 657 sayılı Devlet Memurları Kanunu'na veya işçi statüsünde çalışanlar ilgili toplu iş sözleşmesi hükümlerine tabidir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Ortaöğretim düzeyindeki ilgili alan/dallardan mezun olanlar, mekatronik, otomasyon, elektrik-elektronik, endüstri mühendisliği gibi ön lisans veya lisans programlarına yönelebilir. Ön lisans mezunları, Dikey Geçiş Sınavı (DGS) ile ilgili lisans programlarına geçiş yapabilir.",
+  "is_hayatinda": "Deneyim, ek eğitim ve sertifikalarla birlikte ekip/vardiya sorumluluğu, otomasyon ve üretim sistemleri uzmanlığı, kalite ve süreç geliştirme birimlerinde üst düzey görevlere, uygun eğitim şartlarını sağlamaları hâlinde mühendislik destek pozisyonlarına yükselebilirler."
+ },
+ "benzer_meslekler": [
+  "Mekatronik Teknisyeni",
+  "Mekatronik Teknikeri",
+  "Endüstriyel Otomasyon Teknisyeni",
+  "Bilgisayar Destekli Tasarım-İmalat Elemanı (Cad-Cam)",
+  "Diğer Mühendislik Teknisyenleri"
+ ],
+ "ek_bilgiler": "Dijital Sanayi Operatörlüğü, Endüstri 4.0 ve dijital dönüşüm süreciyle birlikte ortaya çıkan, Türkiye'de henüz standart bir eğitim müfredatı ve meslek tanımı tam olarak yerleşmemiş, gelişmekte olan bir meslektir. Zaman içinde Millî Eğitim Bakanlığı ve Mesleki Yeterlilik Kurumu (MYK) düzenlemeleriyle eğitim programı ve yeterlilik koşullarının daha belirgin hâle gelmesi beklenmektedir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T10:09:36",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6458
+  }
+ }
+}

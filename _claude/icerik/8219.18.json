@@ -1,0 +1,82 @@
+{
+ "arac_gerec": [
+  "Metre, şerit metre ve lazer mesafe ölçer",
+  "Metal profil kesme makinesi",
+  "Matkap ve matkap uçları",
+  "Dübel, vida, cıvata ve bağlantı elemanları",
+  "Tornavida, pense ve anahtar takımları",
+  "Su terazisi (nivo)",
+  "Silikon tabancası ve silikon",
+  "Metal profiller (duvar dikme ve ray profilleri)",
+  "Cam panel, menteşe ve kayar sistem aparatları",
+  "Köşe takozları",
+  "Zımpara ve temizlik malzemeleri",
+  "Kişisel koruyucu donanım (eldiven, koruyucu gözlük)"
+ ],
+ "genel_ozellikler": [
+  "El ve parmaklarını ustalıkla kullanabilen,",
+  "Göz-el koordinasyonu gelişmiş,",
+  "Dikkatli ve sabırlı,",
+  "Fiziksel olarak dayanıklı,",
+  "Ölçüde hassas, şekil ve uzamsal ilişkileri doğru algılayabilen,",
+  "Cam ve kırılabilir malzeme ile çalışırken temkinli,",
+  "Düzenli ve tertipli çalışabilen,",
+  "Gerektiğinde ekip içinde, gerektiğinde bağımsız çalışabilen"
+ ],
+ "calisma_ortami": "Duşakabin montajcısı işini genellikle müşterinin evinde veya iş yerinde, banyo gibi kapalı ve sınırlı alanlarda saha çalışması olarak yapar; bazı işlemler (ölçü alma, profil kesme, hazırlık) atölyede de yürütülebilir. Çalışma sırasında ayakta, eğilerek ve zaman zaman diz çökerek çalışılır; cam, metal profil ve elektrikli el aletleriyle temas nedeniyle kesilme ve yaralanma riski bulunur, bu nedenle iş güvenliği kurallarına ve kişisel koruyucu donanım kullanımına özen gösterilmelidir.\n\nÇalışma saatleri genellikle gündüz ve mesai saatleri içindedir, ancak müşteri randevularına göre değişebilir. Meslek elemanı çalışması sırasında müşteri, işveren/usta ve gerektiğinde diğer montaj elemanlarıyla iletişim kurar.",
+ "calisma_alanlari": "Duşakabin montajcıları; duşakabin üretimi ve satışı yapan firmalarda, alüminyum ve cam doğrama atölyelerinde, inşaat ve yapı malzemeleri sektöründe faaliyet gösteren işletmelerde ve banyo mobilyası/aksesuarı üreten işyerlerinde çalışabilirler. İnşaat sektöründeki konut üretimi ve yenileme (tadilat) faaliyetlerindeki artış, bu meslek elemanlarına olan talebi etkileyen önemli bir faktördür. Deneyim ve sermaye birikimi olanlar kendi işlerini kurarak serbest olarak da çalışabilirler.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin resmi olarak tanımlanmış bir örgün eğitim programı bulunmamaktadır. İlköğretim düzeyinde bir meslek olup genellikle işbaşında usta yanında çıraklık yoluyla öğrenilir; ayrıca Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kursları ile bazı mesleki eğitim merkezlerinin cam, alüminyum doğrama veya metal işleri gibi ilgili alanlarında eğitim alanlar da bu mesleği yürütebilir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "Bünyesi ve sağlık durumunun mesleğin gerektirdiği işleri (ayakta çalışma, el ve kol gücü gerektiren işler) yapmaya uygun olması",
+   "Çıraklık eğitimi için ilgili yaş şartlarını taşımak ve bir işveren ile çıraklık sözleşmesi imzalamak"
+  ],
+  "sure_ve_icerik": "İşbaşında usta yanında eğitim süresi işletmeye ve kişinin yeteneğine göre değişmekle birlikte, kişi genellikle birkaç aydan bir-iki yıla kadar süren bir süreçte temel montaj becerilerini kazanır. Eğitim içeriğinde; ölçü alma, metal profil kesme, iskelet ve ray montajı, cam panellerin takılması, sızdırmazlık (silikon) uygulamaları, test ve kontrol işlemleri ile iş güvenliği konuları yer alır.",
+  "belge": "Çıraklık eğitimini tamamlayanlara kalfalık, ustalık eğitimini tamamlayanlara ustalık belgesi verilebilir; ayrıca Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "gorevler": [
+  "Duşakabin yapılacak yerin ölçüsünü alır ve metal profilleri ölçülere uygun keser,",
+  "Metal iskelet ve cam panellerin kayacağı ray profilini birleştirir,",
+  "İskelet parçalarına köşe takozları ekler, birleştirir ve yerleştirilmeye hazır hale getirir,",
+  "Duvar dikme profillerini banyo karolarının arasındaki derzlere denk getirilecek şekilde tutturur,",
+  "Ölçülere göre delik yerlerini işaretler, matkap yardımıyla açılan deliklere dübelleri oturtur,",
+  "Duvar dikme profillerini duvara sabitler,",
+  "Metal iskeleti duvar dikme profillerinin kanallarına geçirerek birleştirir,",
+  "Sabit camları yerleştirir,",
+  "Açılır kapanır cam panellerin iskelet üzerinde kaymasını sağlayacak aparatların camın üzerine montajını yapar,",
+  "Hareketli cam panelleri iskelet raylarına oturtur,",
+  "Sızdırmazlık için gerekli tüm boşlukları silikon ile doldurur,",
+  "Yapılan duşakabinin sızdırmazlığını, panellerin açılıp kapanıp kapanmadığını vb. test eder,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "kazanc": {
+  "egitim_suresince": "İşbaşında eğitim alanlar genellikle asgari ücret düzeyinde veya işverenle yapılan anlaşmaya göre bir ücret alır; çıraklık eğitimi kapsamında olanlar için 3308 sayılı Mesleki Eğitim Kanunu hükümleri uygulanır.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Deneyim, beceri ve iş hacmine göre kazanç artabilir.",
+   "Kendi işini kuranların kazancı, işletme büyüklüğü ve piyasa koşullarına göre değişiklik gösterir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleki eğitim merkezlerinin cam, alüminyum doğrama veya metal işleri gibi ilgili alanlarında eğitim alarak kalfalık ve ustalık belgesi edinmek mümkündür.",
+  "is_hayatinda": "Deneyim kazanan montajcılar usta, ekip sorumlusu veya atölye şefi olarak görev alabilir; ustalık belgesine sahip olanlar kendi işyerini açarak bağımsız çalışabilir."
+ },
+ "benzer_meslekler": [
+  "P.V.C. Doğrama Montajcısı",
+  "Kapı Montaj İşçisi",
+  "Çelik Kapı Montaj İşçisi",
+  "Metal Mamuller Montaj İşçisi",
+  "Ahşap Doğrama Montaj Elemanı",
+  "Yangına Dayanıklı Kapı Montajcısı"
+ ],
+ "ek_bilgiler": "Cam ve metal malzemeyle çalışıldığından kesilme, yaralanma ve düşme gibi risklere karşı iş güvenliği kurallarına uyulması ve kişisel koruyucu donanım kullanılması önemlidir. İnşaat ve tadilat sektöründeki hareketlilik bu mesleğe olan talebi doğrudan etkiler.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T18:01:40",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5857
+  }
+ }
+}

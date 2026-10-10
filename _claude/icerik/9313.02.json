@@ -1,0 +1,78 @@
+{
+ "arac_gerec": [
+  "Kürek, kazma, balyoz",
+  "El arabası (inşaat tipi)",
+  "Mala, çekiç, keser",
+  "Testere, matkap gibi basit el aletleri",
+  "İskele ve merdiven",
+  "İp, şerit metre, gönye",
+  "Beton karıştırıcı (betoniyer)",
+  "Tuğla, harç, çimento, kum, kalıp malzemeleri",
+  "Koruyucu baret",
+  "İş eldiveni ve iş ayakkabısı/çizme",
+  "Kişisel koruyucu donanım (gözlük, kulaklık, emniyet kemeri)",
+  "Taşıma ve kaldırma ekipmanları"
+ ],
+ "benzer_meslekler": [
+  "Bina Yıkım İşçisi",
+  "Beden İşçisi (İnşaat)",
+  "Hafriyat İşçisi",
+  "Asfalt İşçisi",
+  "Karayolu Bakım İşçisi",
+  "Su Kanalı İşçisi"
+ ],
+ "calisma_alanlari": "İnşaat işçisi; konut, iş yeri, yol, köprü, baraj gibi her türlü bina ve yapı inşaatı şantiyelerinde çalışabilir. Kamu kurumlarının yürüttüğü inşaat işlerinde, özel inşaat firmalarında ve taşeron şirketlerde istihdam edilme olanağı bulunmaktadır.\\n\\nMesleğin iş bulma olanakları, inşaat sektörünün genel ekonomik duruma bağlı olarak gösterdiği dalgalanmalardan ve mevsimsel koşullardan etkilenmektedir. Kış aylarında ve ekonomik durgunluk dönemlerinde iş bulma olanakları kısıtlanabilmektedir.",
+ "calisma_ortami": "İnşaat işçisi, genellikle açık havada şantiye ortamında, bazen de kapalı yapı alanlarında çalışır. Çalışma ortamı değişken hava koşullarına, toza, gürültüye ve zaman zaman yüksekte çalışma gerekliliğine açıktır. İş, fiziksel güç ve dayanıklılık gerektirir; eğilme, kaldırma, taşıma gibi hareketler sık yapılır. İş kazası riski bulunduğundan iş sağlığı ve güvenliği kurallarına uyulması önemlidir.\\n\\nMeslek elemanı genellikle ekip halinde, usta ve diğer inşaat işçileriyle birlikte çalışır; şantiye şefi, usta ve iş arkadaşlarıyla sürekli iletişim halindedir. Çalışma saatleri şantiyenin iş programına göre değişebilir, hava koşullarına bağlı olarak çalışma düzeni esneyebilir.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin örgün bir eğitim programı veya mesleki eğitim merkezi diploması bulunmamaktadır. Bilgi ve beceriler genellikle şantiyede usta yanında çalışılarak öğrenilir. Ayrıca Halk Eğitim Merkezleri ve İŞKUR'un açtığı iş sağlığı ve güvenliği ile temel inşaat becerilerine yönelik mesleki eğitim kurslarından yararlanılabilir.",
+  "giris_kosullari": [
+   "Belirli bir öğrenim düzeyi şartı aranmaz; okuma yazma bilmek yeterlidir.",
+   "18 yaşını doldurmuş olmak (işin ağır ve tehlikeli işler kapsamında değerlendirilmesi nedeniyle).",
+   "Fiziksel olarak bedensel çalışmaya uygun sağlık durumuna sahip olmak."
+  ],
+  "sure_ve_icerik": "Mesleğe özgü belirlenmiş bir eğitim süresi ve müfredat bulunmamaktadır. Kalıp, demircilik, betonculuk, duvarcılık ve sıvacılık gibi inşaat kaba işlerine ilişkin temel bilgi ve beceriler, ilgili usta nezaretinde işbaşında çalışılarak zaman içinde kazanılır. İş sağlığı ve güvenliği, temel yapı bilgisi ve malzeme kullanımına yönelik kısa süreli kurslarla bu bilgiler desteklenebilir.",
+  "belge": "Örgün bir diploma veya sertifika zorunluluğu bulunmamaktadır; katılınan kurslardan katılım belgesi alınabilir. İnşaat işleri tehlikeli ve çok tehlikeli işler kapsamında değerlendirildiğinden, çalışanların iş sağlığı ve güvenliği eğitimi belgesine sahip olması beklenir."
+ },
+ "ek_bilgiler": "İnşaat sektöründeki işler, iş sağlığı ve güvenliği mevzuatı kapsamında tehlikeli veya çok tehlikeli işler arasında değerlendirilmektedir. Bu nedenle çalışanların iş güvenliği eğitimi alması, kişisel koruyucu donanım kullanması ve şantiyedeki emniyet tedbirlerine uyması önem taşımaktadır.",
+ "genel_ozellikler": [
+  "Fiziksel olarak güçlü ve dayanıklı,",
+  "Bedenen çalışmaya istekli,",
+  "Ekip halinde çalışmaya uyumlu,",
+  "Dikkatli ve tedbirli,",
+  "İş disiplinine sahip,",
+  "Öğrenmeye açık,",
+  "Verilen talimatları anlayıp uygulayabilen,",
+  "Sağlık durumu ağır işlerde çalışmaya uygun olan"
+ ],
+ "gorevler": [
+  "Yapılacak işler ile ilgili alınan emniyet tedbirlerine uyar.",
+  "İşyerinde yapılan iş organizasyonuna uyar.",
+  "Kalıp işlerini kalıpçının nezaretinde yapar.",
+  "Betonarme demirciliği işlerini betonarme demircisi nezaretinde yapar.",
+  "Betonculuk işlerini betoncu nezaretinde yapar.",
+  "Duvarcılık işlerini duvarcı nezaretinde yapar.",
+  "Sıvacılık işlerini sıvacı nezaretinde yapar.",
+  "Mesleki gelişim faaliyetlerine katılır."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğin resmî bir eğitim kademesi veya diploma süreci bulunmamaktadır. Kişi, isterse Halk Eğitim Merkezleri veya İŞKUR'un açtığı kurslara katılarak kalıpçılık, demircilik, duvarcılık, sıvacılık gibi uzmanlık alanlarında bilgi ve becerisini geliştirebilir.",
+  "is_hayatinda": "Deneyim ve bilgi arttıkça işçi, nezaret altında çalışan yardımcı konumundan, kalıpçı, demirci, duvarcı veya sıvacı gibi nitelikli ustalık pozisyonlarına; ileride ise usta başı veya ekip sorumluluğu gibi görevlere yükselebilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Mesleğe özgü örgün bir eğitim süreci bulunmadığından, eğitim süresince ayrıca bir kazanç söz konusu değildir; şantiyede çalışılan süreye karşılık ücret ödenir.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Deneyim, uzmanlaşma (duvarcılık, sıvacılık, demircilik, kalıpçılık gibi) ve çalışılan işyerine göre kazanç artabilir.",
+   "Kamu kurumlarınca yürütülen inşaat işlerinde işçi statüsünde çalışanlar, tabi oldukları toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde ücret, işin büyüklüğü, kişinin tecrübesi ve çalışma kapasitesine göre değişebilir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T19:57:23",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5442
+  }
+ }
+}

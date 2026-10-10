@@ -1,0 +1,71 @@
+{
+ "arac_gerec": [
+  "Telefon",
+  "Ajanda, takvim ve not defteri",
+  "Kitap, gazete ve dergi gibi okuma materyalleri",
+  "Kart oyunları, bulmaca ve çeşitli eğlence malzemeleri",
+  "Otomobil (gerektiğinde kullanmak üzere)",
+  "Temel mutfak ve yemek hazırlama araç gereçleri",
+  "Kişisel bakım ve giyim yardımı için gerekli malzemeler",
+  "İlk yardım çantası ve temel sağlık malzemeleri",
+  "Bilgisayar ve internet (randevu ve iletişim takibi için)"
+ ],
+ "genel_ozellikler": [
+  "Güvenilir ve dürüst,",
+  "Sabırlı ve hoşgörülü,",
+  "İletişim becerisi yüksek,",
+  "Dikkatli ve düzenli,",
+  "Sır saklayabilen, ketum,",
+  "İnsan ilişkilerinde özenli,",
+  "Hizmet bilincine sahip,",
+  "Fiziksel olarak sağlıklı ve dayanıklı"
+ ],
+ "calisma_ortami": "Refakatçiler çoğunlukla işverenin evinde veya özel yaşam alanında, bazen de işverenle birlikte sosyal ziyaretler, alışveriş ve seyahatler sırasında araç içinde, otelde veya açık alanlarda çalışır. Çalışma ortamı büyük ölçüde işverenin yaşam tarzına ve ihtiyaçlarına göre şekillenir; bu nedenle ortam kapalı mekândan açık alana, sakin bir ev ortamından yoğun bir seyahat programına kadar değişebilir.\n\nÇalışma saatleri genellikle düzensizdir; işverenin programına bağlı olarak gün içinde farklı saatlerde, bazen hafta sonu ve tatil günlerinde de çalışma gerekebilir. Refakatçi, başta işveren olmak üzere işverenin ailesi, misafirleri ve evdeki diğer hizmetliler ile yakın ve sürekli iletişim halindedir; bu ilişkide güven, nezaket ve mahremiyete saygı ön plandadır.",
+ "gorevler": [
+  "Günün meselelerini konuşarak veya okuyarak, çeşitli eğlenceli işler, sporlar ve diğer oyalayıcı ve huzur verici işler yaparak işvereni meşgul eder.",
+  "İşverene sosyal randevularını hatırlatır ve telefonlara cevap verir.",
+  "Sosyal ziyaretler sırasında işverene refakat eder, evdeki ziyaretçi ve misafirlerin ağırlanmasına yardımcı olur.",
+  "Bazen otomobil kullanarak işverenle birlikte alışveriş için çarşıya gider.",
+  "Seyahati sırasında işverene refakat eder ve çeşitli işlerin yürütülmesinde hazır bulunur.",
+  "Banyo, giyinme ve tuvalet işleri ile yemek veya perhiz gıdalarının hazırlanmasına yardımcı olabilir.",
+  "Evdeki diğer hizmetlilere talimat verebilir.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Refakatçilik (kişisel yardımcılık) için örgün eğitim sisteminde ayrı bir meslek eğitimi bulunmamaktadır. Mesleğe yönelik bilgi ve beceriler genellikle işbaşında, usta-çırak ilişkisi içinde veya Halk Eğitim Merkezleri ile İŞKUR tarafından açılan kişisel bakım, ev hizmetleri, iletişim ve ilk yardım konulu kurslarla kazanılmaktadır.",
+  "giris_kosullari": [
+   "Okuryazar olmak",
+   "İlköğretim mezunu olmak (tercihen)",
+   "İletişim becerisine ve güvenilir bir kişiliğe sahip olmak"
+  ],
+  "sure_ve_icerik": "Belirli bir süre ve müfredatı olan resmî bir eğitim programı bulunmamaktadır. İsteğe bağlı olarak katılınabilecek kurslarda iletişim, kişisel bakım, ilk yardım, temel beslenme ve mutfak bilgisi gibi konular işlenebilir; asıl yetkinlik ise işbaşında deneyimle kazanılır.",
+  "belge": "Katılınan kurslar sonunda genellikle katılım belgesi veya sertifika verilmektedir; mesleğin icrası için yasal olarak zorunlu bir diploma veya belge bulunmamaktadır."
+ },
+ "calisma_alanlari": "Refakatçiler, genellikle özel hane halklarında, varlıklı aileler veya iş insanları gibi işverenler tarafından doğrudan istihdam edilir. Bazı kişisel hizmet büroları ve ev hizmetleri aracılık kuruluşları üzerinden de işverenle buluşturulabilirler. Çalışma, çoğunlukla özel sektörde ve bireysel iş ilişkisi şeklinde yürütülür; kamuda bu meslek için düzenli bir istihdam alanı bulunmamaktadır. İş bulma, büyük ölçüde tanıdık çevresi, güven ilişkisi ve kişisel referanslar yoluyla gerçekleşmektedir.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğe yönelik resmî, ücretli bir eğitim programı bulunmadığından eğitim süresince ayrıca bir kazanç söz konusu değildir; bilgi ve beceriler çoğunlukla işbaşında, çalışılan süre içinde kazanılır.",
+  "egitim_sonrasi": [
+   "Kazanç, işverenin ve üstlenilen görevlerin kapsamına, çalışma süresine (tam zamanlı/yarı zamanlı) ve kişinin deneyimine göre değişmektedir.",
+   "Mesleğe yeni başlayanlarda kazanç genellikle asgari ücret düzeyindedir.",
+   "Deneyim kazandıkça, güven ilişkisi geliştikçe ve üstlenilen sorumluluklar arttıkça kazanç işveren ile karşılıklı anlaşma yoluyla artabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleki eğitimde ilerleme, iletişim, ilk yardım, temel sağlık ve bakım, yabancı dil gibi konularda alınacak kurs ve sertifikalarla desteklenebilir. Bu tür ek yetkinlikler, kişinin farklı işveren profillerine (örneğin yabancı dil bilen işverenler) hizmet verebilmesini kolaylaştırır.",
+  "is_hayatinda": "İş hayatında ilerleme, genellikle deneyim ve güvenilirliğe bağlı olarak daha fazla sorumluluk üstlenmek, daha uzun süreli ve istikrarlı işveren ilişkileri kurmak şeklinde olur. Tecrübeli refakatçiler, kişisel hizmet bürolarında koordinatörlük yapabilir veya kendi hizmet ağını oluşturarak bağımsız biçimde çalışabilir."
+ },
+ "benzer_meslekler": [
+  "Konuk Asistanı/Butler (Otel)",
+  "Fuaye Elemanı",
+  "Diğer Servis İşçileri (Kişisel Hizmetler)"
+ ],
+ "ek_bilgiler": "Refakatçilik, Türkiye'de resmî olarak standartlaştırılmış bir eğitim ve istihdam sistemi bulunmayan, büyük ölçüde güven ilişkisine dayalı bir kişisel hizmet mesleğidir. Meslek, çoğunlukla bireysel anlaşmalar yoluyla ve kayıt dışı veya yarı resmî şekilde yürütülebilmektedir. Mesleği uygulayacak kişilerin işverenin özel yaşamına dair gizliliğe saygı göstermesi ve güvenilirliği esastır.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T18:03:42",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 4516
+  }
+ }
+}

@@ -1,0 +1,73 @@
+{
+ "arac_gerec": [
+  "Bilgisayar ve çevre birimleri (anakart, işlemci, bellek, hard disk, ekran kartı vb.)",
+  "Bilgisayar tamir ve montaj el aletleri (tornavida takımı, pens vb.)",
+  "Antistatik bileklik ve koruyucu ekipman",
+  "Ağ cihazları (switch, router, modem, erişim noktası)",
+  "Ağ kabloları, konnektör ve kablo test cihazları",
+  "İşletim sistemi ve sürücü kurulum ortamları (USB, DVD)",
+  "Ölçüm ve test cihazları (multimetre vb.)",
+  "Güvenlik yazılımları (antivirüs, güvenlik duvarı)",
+  "Yedekleme üniteleri (harici disk, bulut depolama vb.)",
+  "Envanter ve arıza takip yazılımları",
+  "Uzaktan erişim ve sistem yönetim programları"
+ ],
+ "benzer_meslekler": [
+  "Bilgisayar Donanım / Teknolojisi Teknikeri",
+  "Bilgisayar Teknolojileri Teknikeri",
+  "Bilişim Teknolojileri Teknisyeni",
+  "Sistem İşletmeni",
+  "Ağ İşletmeni / Ağ Teknolojileri Elemanı",
+  "İnternet ve Ağ Teknolojileri Teknikeri"
+ ],
+ "calisma_alanlari": "Bilgisayar Teknolojisi ve Programlama Teknikerleri; kamu kurumları, bankalar, hastaneler, eğitim kurumları, üretim ve hizmet işletmelerinin bilgi işlem/bilgi teknolojileri birimlerinde, bilgisayar satış ve teknik servis firmalarında, bilişim ve yazılım şirketlerinde çalışabilirler.\\n\\nBilgisayar kullanımının hemen her sektörde yaygınlaşması nedeniyle donanım kurulumu, bakım-onarım, ağ işletimi ve sistem güvenliği konularında ara eleman ihtiyacı sürmektedir. Mesleğin icrası bilgisayar mühendisinin gözetim ve denetimi altında yürütüldüğünden, teknikerler genellikle mühendislik birimlerine bağlı olarak görev yaparlar; deneyim kazandıkça serbest teknik destek/servis hizmeti de verebilirler.",
+ "calisma_ortami": "Bilgisayar Teknolojisi ve Programlama Teknikeri genellikle kapalı ortamlarda; işletmelerin bilgi işlem merkezlerinde, ofislerde, atölyelerde veya müşteri mekânlarında çalışır. Çalışma bilgisayar mühendisinin gözetimi ve denetimi altında yürütülür; donanım kurulumu, arıza giderme veya ağ kurulumu gibi işler için zaman zaman farklı birim ya da müşteri lokasyonlarına gidilmesi gerekebilir.\\n\\nÇalışma sırasında elektronik cihazlarla doğrudan temas, statik elektrik ve kablo düzeni kaynaklı riskler söz konusu olabilir; işin niteliğine göre uzun süre oturarak veya ayakta çalışılır. Mesai saatleri genellikle düzenlidir ancak sistem arızaları veya acil bakım gereken durumlarda esneklik gerekebilir. Meslek mensubu; bilgisayar mühendisleri, yöneticiler, diğer teknik personel ve sistemi kullanan son kullanıcılarla sürekli iletişim hâlindedir.",
+ "ek_bilgiler": "Mesleki Yeterlilik Kurumu (MYK) belgesi, özellikle ağ yönetimi ve siber güvenlik gibi uzmanlık alanlarında istihdamda tercih sebebi olabilir; mesleğin genelinde yasal bir zorunluluk aranmamaktadır. Çalışma alanı ve kullanılan teknolojiler, görev yapılan kurumun ihtiyaçlarına göre değişkenlik gösterebilir.",
+ "egitim": {
+  "verildigi_yerler": "Üniversitelerin meslek yüksekokulları bünyesindeki \"Bilgisayar Teknolojisi\", \"Bilgisayar Programcılığı\" veya benzer bilgisayar/bilişim teknolojileri önlisans programlarında verilmektedir.",
+  "giris_kosullari": [
+   "Lise ve dengi okul mezunu olmak",
+   "Yükseköğretim Kurumları Sınavı (YKS) sonucuna göre ilgili önlisans programına yerleşmiş olmak veya meslek lisesi mezunları için tanınan sınavsız geçiş haklarından yararlanmak"
+  ],
+  "sure_ve_icerik": "Eğitim süresi 2 yıl (4 yarıyıl) olup teorik derslerin yanı sıra laboratuvar/atölye uygulamalarını ve işyeri stajını içerir. Program kapsamında bilgisayar donanımı, işletim sistemleri, bilgisayar ağları, veri tabanı, temel programlama, bilgisayar güvenliği ve bilgi işlem sistemlerinin kurulum-bakımına yönelik dersler verilir.",
+  "belge": "Eğitimi başarıyla tamamlayanlara ilgili alanda önlisans diploması verilir."
+ },
+ "genel_ozellikler": [
+  "Dikkatli ve titiz,",
+  "Analitik düşünebilen ve sorun çözme becerisine sahip,",
+  "El ve göz koordinasyonu gelişmiş,",
+  "Sorumluluk sahibi ve güvenilir,",
+  "Ekip çalışmasına yatkın,",
+  "Teknolojik gelişmeleri takip edebilen, kendini yenileyebilen,",
+  "Sabırlı ve iletişime açık"
+ ],
+ "gorevler": [
+  "Bilgisayar sistem kuruluşu için araştırma, planlama ve kuruluşu gerçekleştirme aşamalarındaki işlemleri yapar.",
+  "Network bilgisayar sistemlerinin analizlerini yaparak ağ yapısını çıkarır, sistemi kurar ve çalıştırır.",
+  "Kişisel (bireysel) ve network bilgisayar ortamlarının bakımını yapar, varsa arızaları tespit ederek onarımını yapar.",
+  "Sistemlerin güncelleştirilmesinde gerekli olan birimlerin (bellek, harddisk, diğer kartlar) seçimini yaparak sisteme monte eder ve çalışır hale getirilmesini sağlar.",
+  "Bilgi işlem merkezlerinde gerekli donanım ve ağ güvenliği işlerini yürütür.",
+  "İşletim sistemlerini kurar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Önlisans eğitimini tamamlayanlar, Dikey Geçiş Sınavı (DGS) ile başarılı oldukları takdirde bilgisayar mühendisliği, yazılım mühendisliği veya ilgili diğer lisans programlarına dikey geçiş yapabilirler.",
+  "is_hayatinda": "Mesleki deneyim kazandıkça sistem yöneticisi, ağ yöneticisi veya bilgi işlem sorumlusu gibi pozisyonlara yükselebilirler. İlave sertifika ve lisans eğitimi alanlar, yazılım geliştirme, sistem mühendisliği veya ağ mühendisliği gibi daha ileri düzey görevlere geçiş yapabilirler."
+ },
+ "kazanc": {
+  "egitim_suresince": "Önlisans eğitimi sırasında yapılan zorunlu stajlarda, işletme ile öğrenci/okul arasındaki anlaşmaya bağlı olarak genellikle asgari ücret düzeyinde bir ödeme yapılabilir.",
+  "egitim_sonrasi": [
+   "Mezuniyet sonrası işe yeni başlayanlar genellikle asgari ücret düzeyinde gelir elde eder.",
+   "Deneyim ve uzmanlaşılan alana (ağ yönetimi, sistem güvenliği vb.) göre kazanç zamanla artabilir.",
+   "Kamu kurumlarında 657 sayılı Devlet Memurları Kanunu'na veya işçi statüsünde toplu iş sözleşmesi hükümlerine tabi olarak; özel sektörde ise işveren ile çalışan arasındaki anlaşmaya göre ücret belirlenir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T14:59:59",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5729
+  }
+ }
+}

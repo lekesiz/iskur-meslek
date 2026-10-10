@@ -1,0 +1,79 @@
+{
+ "arac_gerec": [
+  "Kürek ve kazma",
+  "Kese (çuval/torba)",
+  "El arabası",
+  "Maden vagonu / vagonet",
+  "Baret",
+  "Çelik burunlu iş botu",
+  "İş eldiveni",
+  "Toz maskesi",
+  "Kulak tıkacı/koruyucu",
+  "Kafa (cephe) lambası",
+  "Gaz dedektörü",
+  "Emniyet kemeri (gerektiğinde)",
+  "Taşıma bandı/konveyör",
+  "Basit tartı ve ölçüm aletleri"
+ ],
+ "benzer_meslekler": [
+  "Kürekçi - Kömür Ocağı",
+  "Kürekçi - maden ocağı",
+  "Vagoncu - Maden",
+  "Dolgucu-Maden (Elle)",
+  "Takımcı - Maden",
+  "Tumbacı-Maden ocağı"
+ ],
+ "calisma_alanlari": "Keseneci (maden amelesi), kamu veya özel sektöre ait yeraltı ve yerüstü maden ocaklarında, taş ocaklarında ve madencilik faaliyeti yürüten işletmelerde istihdam edilir. İş bulma olanağı, ülkenin madencilik faaliyetlerinin yoğun olduğu bölgelerde (kömür, maden ve taş ocağı işletmelerinin bulunduğu yörelerde) daha fazladır. Madencilik sektöründeki üretim hacmine, piyasa koşullarına ve yatırımlara bağlı olarak istihdam olanakları dönemsel olarak değişebilir.",
+ "calisma_ortami": "Keseneci (maden amelesi), yeraltı veya yerüstü maden ocaklarında, galeri ve tünellerde ya da açık taş ocaklarında çalışır. Çalışma ortamı genellikle tozlu, nemli, gürültülü ve sınırlı aydınlatmaya sahiptir; yeraltında dar ve kapalı alanlarda çalışma söz konusu olabilir. Meslek, ağır fiziksel güç gerektiren, eğilme, kaldırma ve taşıma hareketlerinin sürekli tekrarlandığı bir iştir. İş kazası, toz, gaz ve göçük riski bulunduğundan iş güvenliği kurallarına titizlikle uyulması gerekir.\n\nÇalışma genellikle vardiya usulü yürütülür; hafta sonu ve gece çalışması söz konusu olabilir. Meslek elemanı görevini diğer maden işçileriyle birlikte ekip halinde yapar; amirlerinden (ustabaşı, formen, teknik personel) talimat alır ve üretim miktarlarını amirine bildirerek onlarla sürekli iletişim halinde olur.",
+ "egitim": {
+  "belge": "Örgün bir meslek eğitimi diploması bulunmamaktadır. Katıldığı iş güvenliği ve mesleki eğitim kurslarından katılım/sertifika belgesi alabilir; çalıştığı işyerinde zorunlu iş sağlığı ve güvenliği eğitimi belgesi edinmesi gerekir.",
+  "giris_kosullari": [
+   "İlköğretim mezunu olmak",
+   "18 yaşını doldurmuş olmak (madencilik tehlikeli ve ağır iş kolu olarak değerlendirilir)",
+   "Yapılan sağlık muayenesi sonucunda bedensel olarak ağır işte çalışmaya elverişli olmak",
+   "İşe alım sürecinde işyerinin belirlediği temel iş güvenliği eğitimini tamamlamış veya tamamlamaya uygun olmak"
+  ],
+  "sure_ve_icerik": "Mesleğin resmi olarak tanımlanmış, belirli bir süreye ve müfredata sahip örgün bir eğitim programı bulunmamaktadır. Meslek genellikle işbaşında, deneyimli işçi veya ustabaşı gözetiminde kısa süreli uygulamalı eğitimle öğrenilir. Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kurslarında temel maden bilgisi, araç-gereç kullanımı ve iş sağlığı-güvenliği konularında kısa süreli kurslar düzenlenebilir.",
+  "verildigi_yerler": "Halk Eğitim Merkezleri ve İŞKUR tarafından açılan işgücü yetiştirme/mesleki eğitim kursları; ayrıca işletmelerin kendi bünyesinde verdiği iş başı (usta yanında) eğitimler."
+ },
+ "ek_bilgiler": "Madencilik faaliyetleri, 6331 sayılı İş Sağlığı ve Güvenliği Kanunu kapsamında çok tehlikeli işler sınıfında değerlendirilmektedir. Bu nedenle çalışanların işe giriş ve periyodik sağlık muayenelerinden geçmesi, iş güvenliği eğitimlerini tamamlaması ve kişisel koruyucu donanımları eksiksiz kullanması gerekir. Meslek, ağır fiziksel güç gerektirdiğinden bu alanda çalışanların büyük çoğunluğu erkeklerden oluşmaktadır.",
+ "genel_ozellikler": [
+  "Fiziksel olarak güçlü ve dayanıklı,",
+  "Bedensel çalışmaya istekli,",
+  "El, kol ve bacak kaslarını etkin biçimde kullanabilen,",
+  "Dikkatli ve tedbirli,",
+  "Ekip halinde çalışmaya uyumlu,",
+  "Kapalı, dar ve sınırlı aydınlatmalı alanlarda çalışmaktan çekinmeyen,",
+  "Talimat ve emirlere uyan,",
+  "Sabırlı ve risklere karşı dayanıklı"
+ ],
+ "gorevler": [
+  "Patlatma sonrası kırılmış cevherleri kürek ve kazma ile toplar.",
+  "Toplanan malzemeyi kese veya vagonlara doldurur.",
+  "Dolu keseleri belirlenen nakil noktalarına taşır.",
+  "Çalışma alanındaki döküntü ve artıkları temizler.",
+  "İş güvenliği ekipmanlarını kullanarak güvenli çalışma koşullarını sağlar.",
+  "Üretim miktarlarını kayıt altına alır ve amirine bildirir.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "is_hayatinda": "İş hayatında ilerleme, işletmenin çalışma düzeni ile kişinin deneyimi, performansı ve çaba göstermesine bağlı olarak gerçekleşir. Deneyim kazanan keseneciler, takım şefliği, nitelikli maden işçiliği gibi görevlere ve zamanla ustabaşılığa kadar yükselebilir.",
+  "mesleki_egitimde": "Mesleğin örgün bir eğitim kademesi bulunmadığından mesleki eğitimde yükselme söz konusu değildir. İsteyen kişiler, ilgili mesleki ve teknik eğitim kurumlarının madencilik alanındaki programlarına veya kurslarına yönelerek bilgi ve becerilerini belgelendirebilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Mesleğin resmi bir çıraklık/eğitim süreci bulunmadığından eğitim süresince standart bir ücret düzenlemesi yoktur. İŞKUR veya Halk Eğitim Merkezi kurslarına katılanlara, kurs süresince İŞKUR mevzuatı kapsamında cep harçlığı ödenebilir.",
+  "egitim_sonrasi": [
+   "Kamu kuruluşlarına bağlı işletmelerde işçi statüsünde çalışanlar, toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde çalışanların kazancı; işyerinin büyüklüğü, çalışma koşulları, bölge ve kişinin deneyimine göre değişebilir; yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Madencilik tehlikeli/ağır iş kolu olarak değerlendirildiğinden, bazı işyerlerinde ek ödeme veya tazminat uygulamaları söz konusu olabilir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T19:46:02",
+  "usage": {
+   "input_tokens": 4,
+   "output_tokens": 9904
+  }
+ }
+}

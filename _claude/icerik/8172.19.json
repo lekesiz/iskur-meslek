@@ -1,0 +1,74 @@
+{
+ "arac_gerec": [
+  "Kalem katrak makinesi",
+  "Şerit/daire testereler ve yedek bıçaklar",
+  "Ahşap takozlar (hammadde)",
+  "Lata taşıma arabaları/bantları",
+  "Ölçüm aletleri (metre, kumpas, gönye)",
+  "Yağlama ve soğutma malzemeleri",
+  "Bakım takımları (anahtar seti, tornavida, yağdanlık)",
+  "Temizlik araçları (fırça, süpürge, hava tabancası)",
+  "Kişisel koruyucu donanım (eldiven, gözlük, kulaklık, iş elbisesi)",
+  "Makine ayar/kontrol panelleri"
+ ],
+ "genel_ozellikler": [
+  "El ve göz koordinasyonuna sahip,",
+  "Dikkatli ve tedbirli,",
+  "Fiziksel olarak dayanıklı,",
+  "Makine ve aletleri tekniğine uygun kullanabilen,",
+  "Takım halinde çalışmaya uyumlu,",
+  "Düzenli ve sorumluluk sahibi,",
+  "İşçi sağlığı ve iş güvenliği kurallarına duyarlı"
+ ],
+ "gorevler": [
+  "Takoz haline gelen ağaçları lata olacak şekilde sınıflandırır",
+  "Kesim düzenine göre makine ayarlarını yapar",
+  "Takozları katrak makinesine yerleştirir",
+  "Kesim işlemi tamamlanan lataları toplar",
+  "Makinede kesilen ve lata haline gelen ağaçları kalite kontrole yönlendirir",
+  "Makine kesimi tamamladıktan sonra temizliğini yapar",
+  "Mesleki gelişim faaliyetlerinde bulunur"
+ ],
+ "calisma_ortami": "Kalem Katrak Makinesi Operatörü, ahşap işleme fabrikalarında, kalem (kurşun kalem) hammaddesi üreten tesislerde ve lata/ağaç işleme atölyelerinde kapalı ortamda çalışır. Çalışma ortamı tozlu ve gürültülüdür; genellikle ayakta ve makine başında geçer. İş vardiyalı düzende sürdürülebilir.\n\nÇalışma sırasında kesici parçalarla yaralanma, göze talaş/toz kaçması, ağır takozların kaldırılması nedeniyle ezilme ve makine kaynaklı elektrik/mekanik kazalar gibi riskler bulunur. Operatör; yardımcı işçiler, kalite kontrol personeli, bakım/teknik ekip ve atölye sorumlusuyla iş birliği içinde çalışır.",
+ "egitim": {
+  "verildigi_yerler": "Bu mesleğe yönelik örgün bir çıraklık veya meslek lisesi programı bulunmamaktadır. Eğitim genellikle işyerlerinde usta yanında işbaşı eğitimi şeklinde verilir. Mesleki ve teknik eğitimdeki ağaç işleri/ağaç işleme teknolojisi alanı kapsamında temel ahşap işleme bilgisi kazanılabilir; makineye özgü yetkinlik ise iş yerinde uygulamalı olarak edinilir. Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kursları da bu alanda temel bilgi ve beceri kazandırabilir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "Fiziksel olarak işin gerektirdiği güce ve dayanıklılığa sahip olmak (gerektiğinde sağlık raporu ile belgelenir)",
+   "Makine ile çalışmaya uygun yaşta olmak (ağaç işleme makineleri tehlikeli iş kapsamında değerlendirilebileceğinden ilgili mevzuattaki yaş sınırlamalarına uymak)",
+   "İşe alınan işyerinde usta/ustabaşı gözetiminde çalışmaya başlamak"
+  ],
+  "sure_ve_icerik": "Standart bir eğitim süresi ve müfredatı tanımlı değildir. Eğitim, işe yeni başlayan kişinin işyerinde deneyimli bir usta veya ustabaşı gözetiminde makinenin tanıtılması, ayarlarının yapılması, takoz yerleştirme, kesim takibi, kalite kontrol ve makine temizliği/bakımı konularında uygulamalı olarak kazandırılması şeklinde yürütülür. Süre, kişinin öğrenme hızına ve işyerinin uygulamasına göre birkaç haftadan birkaç aya kadar değişebilir.",
+  "belge": "Resmi bir diploma veya ustalık belgesi bulunmamaktadır. Katılınan kurslar sonunda katılım/başarı belgesi verilebilir. Mesleki Yeterlilik Kurumu (MYK) tarafından ilgili alanda yetkilendirme yapılmışsa alınacak MYK Mesleki Yeterlilik Belgesi istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Kalem Katrak Makinesi Operatörleri; kalem (kurşun kalem) hammaddesi üreten fabrikalarda, ağaç işleme ve lata üretim tesislerinde, kereste/bıçkı fabrikalarının lata/kalem hammaddesi bölümlerinde istihdam edilir. Çalışma alanı, kalem üretim sektörünün ve ahşap işleme sanayinin yoğunlaştığı bölgelerle sınırlıdır; bu nedenle iş bulma olanakları, genel ağaç işleme/bıçkıcılık mesleklerine göre daha dar ve belirli işletmelere bağlıdır. Sektördeki kalem üretimi ve ahşap işleme talebindeki değişimler istihdam olanaklarını doğrudan etkiler.",
+ "kazanc": {
+  "egitim_suresince": "İşbaşı eğitim sürecinde çalışan kişiye, işyerinin uygulamasına bağlı olarak genellikle asgari ücret düzeyinde ücret ödenir.",
+  "egitim_sonrasi": [
+   "Deneyim kazanmış operatörlerin ücreti; işletmenin büyüklüğüne, bölgeye, çalışılan sektöre ve kişisel deneyime göre değişiklik gösterir.",
+   "Özel sektörde ücret genellikle işveren ile karşılıklı anlaşma yoluyla belirlenir; sendikalı işyerlerinde toplu iş sözleşmesi hükümleri geçerli olabilir.",
+   "Deneyim ve sorumluluk arttıkça (örneğin ustabaşılığa geçiş) kazanç düzeyi yükselebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Ağaç işleme alanındaki Halk Eğitim Merkezi ve İŞKUR kurslarına katılarak bilgi ve beceriler geliştirilebilir. İsteyenler, örgün mesleki ve teknik eğitim programlarına yönelerek ağaç işleri/ağaç işleme teknolojisi alanında daha kapsamlı eğitim alabilir.",
+  "is_hayatinda": "Deneyim kazanan operatörler ustalığa, ardından ustabaşılığa veya atölye/bölüm sorumluluğuna yükselebilir. Farklı ağaç işleme makinelerinde (bıçkı, katrak, yarma makineleri vb.) çalışarak uzmanlık alanını genişletebilirler."
+ },
+ "benzer_meslekler": [
+  "Hızarcı",
+  "Katrakt Makinesi Operatörü (Ağaç)",
+  "Bıçkı Makinesi Operatörü (Bıçkıcı)",
+  "Kalem Takoz Kesim İşçisi",
+  "Şerit Testere Tezgahı Operatörü-Bıçkı Fabrikası",
+  "Yarma Makinesi Operatörü-Ağaç"
+ ],
+ "ek_bilgiler": "Ağaç işleme makineleriyle yapılan kesim işleri, iş sağlığı ve güvenliği mevzuatında tehlikeli/çok tehlikeli işler kapsamında değerlendirilebilir; bu nedenle işe alımda yaş sınırlaması ve periyodik sağlık kontrolleri uygulanabilir. Mesleğin istihdam alanı, kalem üretim sektörünün büyüklüğüne bağlı olarak sınırlı sayıda işletmeyle sınırlıdır.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T16:30:40",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6034
+  }
+ }
+}

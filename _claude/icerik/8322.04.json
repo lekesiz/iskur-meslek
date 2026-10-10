@@ -1,0 +1,78 @@
+{
+ "arac_gerec": [
+  "Ambulans aracı",
+  "Sedye ve teskere",
+  "Oksijen tüpü ve maskesi",
+  "İlkyardım/acil müdahale çantası",
+  "Telsiz ve haberleşme cihazları",
+  "GPS/navigasyon cihazı",
+  "Siren ve ikaz/işaret lambaları",
+  "Şehir/bölge haritası",
+  "Araç bakım el aletleri",
+  "Koruyucu ekipman (eldiven, maske, önlük)",
+  "Yangın söndürme tüpü",
+  "Çağrı/komuta merkezi takip terminali"
+ ],
+ "benzer_meslekler": [
+  "Vasıta Sürücüsü",
+  "Servis Şoförü (Okul)",
+  "Minibüs Şoförü",
+  "Taksi Şoförü",
+  "Zırhlı Müdahale Araçları Sürücü",
+  "Diğer Motorlu Araç Sürücüleri"
+ ],
+ "calisma_alanlari": "Ambulans sürücüleri; resmi ve özel hastanelerin ambulans servislerinde, 112 Acil Sağlık İstasyonlarında, Kızılay ve özel ambulans şirketlerinde, belediyelere bağlı sağlık hizmetlerinde, fabrika ve büyük işletmelerin sağlık birimlerinde, organizasyon ve etkinliklerde sağlık destek hizmeti veren firmalarda istihdam edilebilirler. Kamu kurumlarında genellikle işçi veya sözleşmeli personel statüsünde, özel sektörde ise işletmenin personel politikasına göre çalışabilirler.",
+ "calisma_ortami": "Ambulans sürücüleri hastane, acil sağlık istasyonları ve 112 komuta merkezlerine bağlı olarak görev yaparlar; görevlerinin büyük bölümünü açık alanda ve trafik içinde araç kullanarak, bir kısmını ise istasyon veya hastane içinde çağrı beklerken geçirirler. Vardiyalı sistemle çalışılır; gece, gündüz, hafta sonu ve resmi tatillerde görev yapılması gerekebilir. Acil çağrılara hızlı müdahale zorunluluğu nedeniyle yoğun stres, yoğun trafikte hızlı ve dikkatli sürüş gerekliliği, trafik kazası riski ve bulaşıcı hastalık temas riski gibi olumsuz koşullar bulunur.\n\nMeslek elemanları çalışması sırasında doktor, hemşire, paramedik, ambulans teknisyeni, hasta ve hasta yakınları, trafik polisi ve diğer acil durum ekipleriyle sürekli iletişim ve koordinasyon içinde bulunur.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin örgün bir ön lisans veya lisans eğitimi bulunmamaktadır. İlköğretim sonrası gerekli sürücü belgesine sahip olunduktan sonra, Halk Eğitim Merkezleri ve İŞKUR işbirliğiyle açılan mesleki eğitim kursları, ilkyardım eğitim merkezleri ve bazı sağlık kuruluşlarınca düzenlenen destekleyici kurslarla mesleğe yönelik bilgi ve beceri kazanılabilmektedir. Kamu sağlık kuruluşlarında (112 Acil Sağlık Hizmetleri gibi) göreve başlayanlar ayrıca kurum içi hizmet içi eğitimlerden geçirilir.",
+  "giris_kosullari": [
+   "İlköğretim mezunu olmak",
+   "Kullanılacak ambulans tipine uygun sürücü belgesine (genellikle B sınıfı, gerektiğinde C/D sınıfı) sahip olmak",
+   "Araç kullanmaya ve acil müdahaleye engel bir sağlık sorununun bulunmaması (görme, işitme ve bedensel uygunluk)",
+   "Bazı kurumlarca aranan yaş sınırı ve sabıka kaydı bulunmaması şartlarını karşılamak"
+  ],
+  "sure_ve_icerik": "Mesleğe yönelik standart süreli ve içerikli bir örgün eğitim programı bulunmamaktadır. İlgi duyanlar, sürücü belgesi eğitiminin yanında ilkyardım, hasta nakli kuralları ve acil durum yönetimi konularını içeren kısa süreli kurs ve sertifika programlarına katılabilir; bu kursların süresi ve içeriği kurumdan kuruma farklılık göstermektedir. Mesleğe giriş çoğunlukla işbaşında, deneyimli sürücülerin ve sağlık ekibinin yanında uygulamalı olarak öğrenilmesiyle gerçekleşir.",
+  "belge": "Sürücü belgesi ile katılınan ilkyardım/acil durum kurslarından alınan katılım veya sertifika belgesi geçerlidir. Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "ek_bilgiler": "Ambulans sürücülüğü acil sağlık hizmetleri kapsamında yürütüldüğünden, çalışanların temel ilkyardım bilgisine sahip olması beklenir. Resmi 112 ambulanslarında görev almak isteyenlerin, ilgili kurumların belirlediği ek sağlık raporu, sabıka kaydı ve benzeri güvenlik şartlarını da karşılaması gerekebilir.",
+ "genel_ozellikler": [
+  "Sorumluluk sahibi ve güvenilir,",
+  "Dikkatli ve soğukkanlı,",
+  "Acil durumlarda hızlı ve doğru karar verebilen,",
+  "İyi derecede araç kullanma becerisine sahip,",
+  "Yön bulma becerisi gelişmiş,",
+  "Stresli durumlarda sakin kalabilen,",
+  "İnsan ilişkilerinde başarılı ve yardımsever,",
+  "Fiziksel ve psikolojik olarak dayanıklı,"
+ ],
+ "gorevler": [
+  "Alınacak acil ihbar veya çağrıya göre ambulansı göreve hazır halde tutar.",
+  "\"112\" çağrılarının değerlendirilmesiyle ambulans ekibini alarak olay yerine hareket eder.",
+  "Harita ve şehir planından yararlanarak, telsizle komuta kontrol merkezinden bildirilen adrese ulaşır.",
+  "İşaret lambalarını ve gerektiğinde sirenleri kullanır.",
+  "Ambulansın ve kullanılan ekipmanların temizliğini yapar.",
+  "Merkezde tükenen malzemeleri gözden geçirir.",
+  "Bir sonraki görev için her an hazır olur.",
+  "Aracın günlük ve periyodik bakımını yapar veya yaptırılmasını sağlar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğin örgün bir ilerleme basamağı bulunmamaktadır. Deneyim kazanan ambulans sürücüleri isterlerse ilkyardım, acil durum yönetimi gibi alanlarda ek kurslara katılabilir; ön lisans düzeyinde acil tıp teknisyenliği veya paramedik eğitimi alarak sağlık personeli statüsüne geçiş yapabilirler.",
+  "is_hayatinda": "Deneyim ve kıdem kazanan ambulans sürücüleri çalıştıkları kurumda istasyon sorumluluğu veya ekip koordinatörlüğü gibi görevlere getirilebilir. Kamu kurumlarında kadro ve unvan değişiklikleri ilgili mevzuat hükümlerine bağlıdır."
+ },
+ "kazanc": {
+  "egitim_suresince": "Mesleğe yönelik standart bir örgün eğitim süreci bulunmadığından, eğitim/kurs döneminde katılımcılar genellikle herhangi bir ücret almazlar.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında (örneğin 112 Acil Sağlık Hizmetleri) işçi statüsünde çalışanların ücretleri toplu iş sözleşmesi hükümlerine göre belirlenir.",
+   "Özel sektörde çalışan ambulans sürücülerinin kazancı işyerinin büyüklüğüne, deneyime ve çalışma koşullarına göre değişmekte, yeni başlayanlarda genellikle asgari ücret düzeyinde olmaktadır."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T18:16:45",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6110
+  }
+ }
+}

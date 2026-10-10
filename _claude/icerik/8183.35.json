@@ -1,0 +1,76 @@
+{
+ "arac_gerec": [
+  "Otomatik paketleme makinesi",
+  "Hammadde bunkeri",
+  "Ambalaj bobini (film/poşet)",
+  "Elektronik baskül/tartım ünitesi",
+  "Dolum nozulları",
+  "Isıl mühürleme/kapatma ünitesi",
+  "Metal dedektörü",
+  "Etiketleme ünitesi",
+  "Koli bantlama/kolileme makinesi",
+  "Basit el aletleri (tornavida, pense, anahtar takımı)",
+  "El arabası/transpalet",
+  "Kişisel koruyucu donanım (bone, maske, eldiven, iş elbisesi)",
+  "Temizlik ve hijyen malzemeleri"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli,",
+  "Sorumluluk sahibi,",
+  "El ve göz koordinasyonu iyi,",
+  "Fiziksel olarak dayanıklı,",
+  "Hijyen kurallarına duyarlı,",
+  "Takım çalışmasına uyumlu,",
+  "Tekrarlayan işlerde dikkatini sürdürebilen,",
+  "Basit makine ayarlarını yapabilen"
+ ],
+ "gorevler": [
+  "Paketleme makinesinin dolum ve tartım ayarlarını yapar.",
+  "Hammadde bunkerini ve ambalaj bobinlerini kontrol eder.",
+  "Ürün gramajını ve sızdırmazlık kalitesini denetler.",
+  "Hatalı paketleri üretim hattından ayıklar.",
+  "Çalışma alanının hijyen ve temizlik standartlarını korur.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "calisma_ortami": "Tuz paketleme işçisi, gıda üretim tesislerinin paketleme hatlarında, kapalı ve genellikle gürültülü, tozlu bir ortamda çalışır. Çalışma süresince büyük ölçüde ayakta durulur, makine başında belirli bir noktada görev yapılır ve işin niteliğine göre sürekli ayakta çalışma, tekrarlayan hareketler ve belirli bir hız gerektirir. Gıda güvenliği gereği hijyen kurallarına uyulması, koruyucu kıyafet, bone, maske ve eldiven kullanılması zorunludur.\n\nİşyerinin üretim programına bağlı olarak vardiyalı çalışma söz konusu olabilir. Çalışma sırasında hat sorumlusu, vardiya amiri, kalite kontrol elemanları ve diğer üretim işçileriyle yakın iş birliği içinde bulunulur.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin, resmî olarak tanımlanmış ayrı bir örgün veya mesleki eğitim programı bulunmamaktadır. Meslek genellikle işyerlerinde işbaşında usta yanında veya kısa süreli oryantasyon eğitimleriyle kazanılır. Ayrıca Halk Eğitim Merkezleri ve İŞKUR tarafından gıda/ambalaj alanında açılan mesleki eğitim kurslarına katılarak da bilgi ve beceri edinilebilir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "İşyerinin aradığı yaş ve sağlık (fiziksel uygunluk) şartlarını taşımak",
+   "Kurslara katılım için genellikle belirli bir eğitim şartı aranmaz; her yaş grubundan kişiler başvurabilir"
+  ],
+  "sure_ve_icerik": "İşbaşında eğitim süresi işletmenin uygulamasına göre günler veya haftalar içinde tamamlanır; bu süreçte makinenin kullanımı, dolum-tartım ayarları, hijyen kuralları ve iş güvenliği konuları uygulamalı olarak öğretilir. Açılan kurslarda ise süre ve içerik, kursu düzenleyen kuruma göre değişiklik gösterir.",
+  "belge": "İşyerinde verilen eğitimler sonunda genellikle resmî bir belge düzenlenmez; katılım belgesi verilebilir. Halk Eğitim Merkezi kurslarını tamamlayanlara \"Kurs Bitirme Belgesi\" verilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Tuz paketleme işçileri; tuz üretim ve işleme tesisleri ile bu tesislerin paketleme/ambalajlama hatlarında istihdam edilir. Gıda sektöründeki üretim hacmine ve otomasyon düzeyine bağlı olarak çalışma alanı sınırlı sayıda işletmeyle sınırlı kalmakta, iş bulma olanakları bu tesislerin bulunduğu bölgelerde yoğunlaşmaktadır.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğe yönelik ayrı bir örgün eğitim süreci bulunmadığından bu dönemde genellikle bir kazanç söz konusu değildir. İşyerinde işbaşı eğitim alınması durumunda, çalışılan sürece bağlı olarak işletmenin politikasına göre ücret ödenebilir.",
+  "egitim_sonrasi": [
+   "İşe başlangıçta genellikle asgari ücret düzeyinde kazanç sağlanır.",
+   "Kamu kurumlarına bağlı işletmelerde işçi statüsünde çalışılması durumunda ücret, toplu iş sözleşmesi hükümlerine göre belirlenir.",
+   "Özel sektörde deneyim, işletmenin büyüklüğü, vardiya ve fazla çalışma uygulamalarına göre ücret değişebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğe özgü kademeli bir örgün eğitim basamağı bulunmamaktadır. Gıda/ambalaj teknolojisi alanında açılan kurslara ve sertifika programlarına katılarak bilgi ve beceriler geliştirilebilir.",
+  "is_hayatinda": "İşyerinde kazanılan deneyimle birlikte hat sorumlusu, vardiya amiri veya kalite kontrol elemanlığı gibi görevlere yükselme olanağı bulunmaktadır."
+ },
+ "benzer_meslekler": [
+  "Un Paketleme İşçisi",
+  "Çay Paketleme Makinesi Operatörü",
+  "Makarna Paketleme İşçisi",
+  "İrmik Paketleme İşçisi",
+  "Pirinç Paketleme İşçisi",
+  "Kuruyemiş Paketleme İşçisi"
+ ],
+ "ek_bilgiler": "Tuz paketleme işçisi, gıda güvenliği standartlarına tabi bir üretim ortamında çalıştığından hijyen kurallarına ve kişisel koruyucu donanım kullanımına özel önem verilmesi gerekir. Mesleğin gerektirdiği minimum eğitim düzeyi ilköğretimdir ve meslek genellikle işbaşında öğrenilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T17:22:08",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 4852
+  }
+ }
+}

@@ -1,0 +1,80 @@
+{
+ "arac_gerec": [
+  "Boru kesme, bükme ve diş açma makineleri",
+  "Kaynak makinesi (elektrik ark/oksi-gaz) ve kaynak ekipmanları",
+  "El aletleri (pense, anahtar takımları, tornavida, keski, çekiç)",
+  "Vana, musluk, pompa ve bağlantı elemanları örnekleri",
+  "Kombi, kazan ve radyatör gibi ısıtma cihazı maket/örnekleri",
+  "Basınç ve sıcaklık ölçüm cihazları (manometre, termometre)",
+  "Kaçak tespit cihazı",
+  "Kişisel koruyucu donanım (iş eldiveni, gözlük, maske, iş elbisesi)",
+  "Atölye tezgahı ve mengene",
+  "Teknik resim ve tesisat şemaları, projeksiyon cihazı",
+  "Bilgisayar ve eğitim yazılımları",
+  "Öğrenci değerlendirme ve ilerleme kayıt formları"
+ ],
+ "benzer_meslekler": [
+  "Alan Şefi (Mesleki ve Teknik Eğitim)",
+  "Usta Öğretici (Isıtma ve Doğal Gaz İç Tesisatçılığı)",
+  "Usta Öğretici (Isıtma ve Gaz Yakıcı Cihazlar Servisçiliği)",
+  "Usta Öğretici (Kaloriferci)",
+  "Usta Öğretici (Kaynakçılık)",
+  "Diğer Öğretmenler"
+ ],
+ "calisma_alanlari": "Usta Öğretici (Isıtma ve Sıhhi Tesisatçılık), başlıca Millî Eğitim Bakanlığına bağlı mesleki eğitim merkezlerinde (çıraklık eğitimi merkezlerinde), halk eğitim merkezlerinde ve mesleki ve teknik Anadolu liselerinin ilgili atölyelerinde görev yapar. Bu kurumlarda aday çırak, çırak, kalfa ve öğrencilere atölye/işlik derslerinde uygulamalı eğitim verir.\\n\\nAyrıca kendi işyerinde (tesisatçılık işletmesinde) çalışan usta, çırak eğitiminden sorumlu kişi olarak da bu unvanla görev alabilir. Bazı durumlarda kurs, sertifika programı veya proje kapsamında kısa süreli eğitici olarak da istihdam edilebilir. İş bulma olanakları, ilgili mesleki eğitim kurumlarının ihtiyacına ve kişinin mesleki deneyim/ustalık derecesine göre değişir.",
+ "calisma_ortami": "Usta öğretici, mesleki eğitim kurumlarına bağlı atölyelerde (kapalı mekân), bazen de uygulamalı eğitim veya staj kapsamında şantiye, bina içi tesisat alanları gibi açık/yarı açık ortamlarda çalışır. Çalışma ortamında gürültü, toz, kaynak dumanı, kimyasal madde ve gaz kokusu gibi unsurlar bulunabilir; borularla, kaynak ve kesme işlemleriyle çalışıldığından iş sağlığı ve güvenliği kurallarına dikkat edilmesi önemlidir.\n\nÇalışma saatleri genellikle kurumun ders programına göre gündüz saatlerinde şekillenir; kendi işletmesinde çalışanlar için mesai saatleri işin gereğine göre değişebilir. Usta öğretici; aday çırak, çırak, kalfa, öğrenciler, okul/kurum yönetimi, diğer öğretmenler ve meslek elemanlarıyla sürekli iletişim içindedir.",
+ "egitim": {
+  "belge": "Eğitimi ve ilgili şartları tamamlayanlara \"Usta Öğreticilik Belgesi/Sertifikası\" verilir. Bu belge, kişinin ısıtma ve sıhhi tesisatçılık alanındaki ustalık yeterliğine ek olarak, aday çırak, çırak, kalfa ve öğrencilere eğitim verme yetkisini gösterir.",
+  "giris_kosullari": [
+   "Isıtma ve sıhhi tesisatçılık alanında ustalık belgesine sahip olmak ya da ilgili alanda mesleki ve teknik eğitim (meslek lisesi veya dengi) mezunu olup alanında yeterli düzeyde mesleki deneyime (ustalık düzeyinde bilgi ve beceriye) sahip olmak",
+   "3308 sayılı Mesleki Eğitim Kanunu ve ilgili Millî Eğitim Bakanlığı mevzuatında usta öğreticiler için aranan nitelik şartlarını taşımak",
+   "İl/ilçe millî eğitim müdürlükleri veya halk eğitim merkezleri tarafından açılan usta öğreticilik eğitimine/sınavına katılmak ve başarılı olmak",
+   "İyi sicil ve sağlık durumunun göreve uygun olması"
+  ],
+  "sure_ve_icerik": "Usta öğreticilik için öncelikle kişinin ısıtma ve sıhhi tesisatçılık alanında çırak-kalfa-usta eğitim sürecinden geçerek veya mesleki ve teknik eğitim yoluyla mesleki bilgi ve beceriyi edinmiş olması gerekir. Bu yeterliğe sahip kişiler, Millî Eğitim Bakanlığı tarafından düzenlenen, genellikle kısa süreli (birkaç günden birkaç haftaya kadar değişebilen) bir eğitici formasyon programına katılır. Bu programda öğretim yöntem ve teknikleri, ölçme-değerlendirme, sınıf/atölye yönetimi, iş sağlığı ve güvenliği gibi konular işlenir. Mesleki ve teknik eğitimde öğretmenlik için ayrıca pedagojik formasyon veya ilgili yüksek öğrenim şartları aranabilir.",
+  "verildigi_yerler": "Usta öğreticilik eğitimi, Millî Eğitim Bakanlığına bağlı halk eğitim merkezleri ve il/ilçe millî eğitim müdürlükleri tarafından düzenlenir. Bu eğitime başvurmadan önce kişinin ısıtma ve sıhhi tesisatçılık alanındaki mesleki bilgi ve becerisini mesleki eğitim merkezlerinde (çıraklık eğitimi), mesleki ve teknik Anadolu liselerinde veya işyerinde usta yanında çalışarak kazanmış olması gerekir."
+ },
+ "ek_bilgiler": "Isıtma ve sıhhi tesisatçılık işlerinde kaynak yapma, yüksekte çalışma ve gaz tesisatıyla ilgili uygulamalar bulunduğundan, bu alandaki bazı işlemler tehlikeli/çok tehlikeli işler kapsamında değerlendirilebilir; bu nedenle iş sağlığı ve güvenliği eğitimine önem verilmelidir. Usta öğreticilik belgesine ilişkin usul ve esaslar Millî Eğitim Bakanlığı mevzuatında zaman zaman değişebildiğinden, güncel koşulların ilgili il/ilçe millî eğitim müdürlüklerinden veya halk eğitim merkezlerinden teyit edilmesi önerilir.",
+ "genel_ozellikler": [
+  "El ve beden becerisine sahip,",
+  "Fiziksel olarak dayanıklı,",
+  "Sabırlı ve anlayışlı,",
+  "Sözlü ifade gücüne ve öğretme/anlatma becerisine sahip,",
+  "Sorumluluk sahibi ve güvenilir,",
+  "Planlı ve düzenli çalışabilen,",
+  "Teknik konulara ilgili, mesleki gelişime açık,",
+  "İş sağlığı ve güvenliği kurallarına dikkat eden"
+ ],
+ "gorevler": [
+  "Aday çırak, çırak, kalfa ve öğrencilerin iş yerindeki eğitiminden sorumlu olur.",
+  "Isıtma ve sıhhi tesisatçılık eğitimi ile ilgili gereken makine, araç-gereç ve malzemeler ile eğitim materyallerinin hazırlanmasını sağlar.",
+  "Aday çırak, çırak, kalfa ile mesleki ve teknik eğitim okul ve kurumları öğrencilerine, ısıtma ve sıhhi tesisatçılık ile ilgili kullanılması gereken makine, araç-gereç ve malzemeleri tanıtır.",
+  "Öğrencilere mesleği ile ilgili konularda eğitim verir.",
+  "Öğrencilerin, ısıtma ve sıhhi tesisatçılık ile ilgili konularda uygulama yapmalarını sağlar, gördüğü hata ve eksikliklerin düzeltilmesini sağlar.",
+  "Öğrencilere, ısıtma ve sıhhi tesisatçılık işlerinde kullanılan makine, araç-gereç ve malzemelerin, basit bakım-onarım, kontrol ve ayar işleriyle ilgili gerekli eğitimleri verir.",
+  "Öğrencilere iş sağlığı ve güvenliği konularında eğitim verir.",
+  "Meslek dersleri ve atölye uygulama sınavlarında komisyon üyesi olarak görev yapar.",
+  "Meslek alanı ile ilgili gelişmeleri takip eder, uygular.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "is_hayatinda": "İş hayatında usta öğreticiler, deneyim ve kıdemlerine göre atölye şefliği veya alan şefliği gibi görevlere getirilebilir. Pedagojik formasyon ya da ilgili eğitimleri tamamlayanlar, uygun şartları taşımaları halinde meslek dersleri öğretmenliğine geçiş yapabilir. Kendi işletmesi bulunan usta öğreticiler, işletmelerini büyüterek ve eleman istihdam ederek işveren konumuna yükselebilir.",
+  "mesleki_egitimde": "Usta öğreticiler, mesleki ve teknik eğitimdeki gelişmeleri takip ederek güncel kurs ve sertifika programlarına katılabilir, farklı uzmanlık alanlarında (örneğin doğal gaz tesisatı, kombi ve gaz yakıcı cihazlar servisçiliği gibi yakın alanlarda) ek usta öğreticilik belgeleri alarak eğitim verebileceği alanları çoğaltabilir."
+ },
+ "kazanc": {
+  "egitim_sonrasi": [
+   "Kamuya bağlı mesleki eğitim merkezleri ve halk eğitim merkezlerinde görev alan usta öğreticiler, genellikle ders saati üzerinden ek ders ücreti esasına göre ücretlendirilir; bu ücret ilgili mevzuatta belirlenen ek ders ücreti tutarlarına göre değişir.",
+   "Kendi işletmesinde çalışan ve aynı zamanda usta öğretici olarak görev yapan kişilerin kazancı, esas olarak işletmecilik faaliyetinden elde ettikleri gelire bağlıdır; usta öğreticilik görevi bu geliri tamamlayıcı nitelikte olabilir.",
+   "Deneyim, çalışılan kurum ve bölgeye göre kazanç düzeyi değişmekle birlikte, yeni başlayan ve sınırlı ders saatiyle görev alanlarda gelir genellikle sınırlı düzeyde kalabilir."
+  ],
+  "egitim_suresince": "Usta öğreticilik için gerekli kısa süreli formasyon eğitimi sırasında genellikle ücret ödenmez; katılımcılar bu süreçte mevcut mesleki işlerini (işletmecilik, ustabaşılık vb.) sürdürür ve gelirlerini bu yoldan elde ederler."
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T03:48:18",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 7159
+  }
+ }
+}

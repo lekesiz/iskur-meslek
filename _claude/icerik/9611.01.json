@@ -1,0 +1,80 @@
+{
+ "arac_gerec": [
+  "Çöp kamyonu",
+  "Çöp konteynırı",
+  "Çöp kovası/bidonu",
+  "Çöp poşeti",
+  "Kürek ve faraş",
+  "Süpürge",
+  "İş eldiveni",
+  "Reflektörlü/görünürlüğü artırıcı iş yeleği",
+  "Koruyucu iş ayakkabısı/çizme",
+  "Toz/koku maskesi",
+  "El feneri (gece çalışmasında)",
+  "Çöp kamyonu sıkıştırma kumanda paneli"
+ ],
+ "benzer_meslekler": [
+  "Çöp Tasnif Ediciler",
+  "Geri Dönüşüm İşçisi",
+  "Atık Ayırma İşçisi",
+  "Park Süpürücü",
+  "Temizlik İşçisi (Elle - Cadde, Sokak, Park vb.)",
+  "Süpürgeci (Temizlik İşçisi) - Cadde, Sokak vb."
+ ],
+ "calisma_alanlari": "Çöpçüler, başta büyükşehir belediyeleri olmak üzere belediyelerin temizlik işleri müdürlüklerinde, çevre koruma ve kontrol daire başkanlıklarında çalışabilir. Ayrıca belediyelere hizmet veren özel temizlik ve çevre hizmetleri firmalarında, organize sanayi bölgeleri ve büyük alışveriş merkezi/işletmelerin çevre-temizlik birimlerinde de istihdam edilebilirler. İş gücü talebi genellikle belediyeler ve bu alanda ihale ile hizmet veren özel şirketler üzerinden karşılanmaktadır.",
+ "calisma_ortami": "Çöpçüler büyük ölçüde açık havada, sokak, cadde ve kamuya açık alanlarda çalışır. Çalışma; yağmur, kar, aşırı sıcak gibi her türlü hava koşulunda sürdürülebilir; kötü koku, kir, toz ve hijyen riskleriyle iç içe, fiziksel güç gerektiren bir iştir. Çalışma saatleri genellikle sabahın erken saatlerine veya geceye denk gelecek şekilde vardiyalı düzende planlanır ve trafik akışı içinde çalışma nedeniyle dikkat ve iş güvenliği kurallarına uyum önem taşır.\n\nBu meslek genellikle ekip halinde yürütülür; çöpçü, çöp kamyonu şoförü ve varsa ekip arkadaşlarıyla sürekli koordinasyon içinde çalışır. İşin niteliği gereği halkla doğrudan teması sınırlıdır; görevler büyük ölçüde belediye veya firma amirlerinin belirlediği güzergâh ve program dahilinde yürütülür.",
+ "genel_ozellikler": [
+  "Fiziksel olarak güçlü ve dayanıklı,",
+  "Her türlü hava koşulunda açık havada çalışabilecek sağlığa sahip,",
+  "Dikkatli ve tedbirli,",
+  "Sorumluluk sahibi,",
+  "Takım çalışmasına yatkın,",
+  "Düzenli ve disiplinli,",
+  "Hijyen kurallarına duyarlı,",
+  "Verilen talimatlara uyan"
+ ],
+ "gorevler": [
+  "Kişisel hazırlık yapar.",
+  "Çöp kamyonunun çöpe yanaşmasını takip ederek araçtan dikkatli bir şekilde iner.",
+  "Çöp konteynırlarını iterek çöp kamyonu sürgülerine takar.",
+  "Çöp kamyonunun ilgili kumandasını kullanarak çöp konteynırının boşaltılmasını sağlar.",
+  "Gerektiğinde çöp yerlerinde biriken, dökülen çöpleri kürekle çöp kamyonuna atar.",
+  "Çöp bidonlarını kaldırıp taşıyarak çöp kazanına boşaltır.",
+  "Çöp poşetlerini elle çöp kazanına atar.",
+  "Kızağı otomatik olarak çalıştırmak suretiyle çöplerin çöp kazanında sıkıştırılmasını sağlar.",
+  "Çöplerin çöp haznesine atılmasını müteakip şoföre bilgi verir.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "kazanc": {
+  "egitim_suresince": "Mesleğe yönelik örgün bir eğitim-öğretim süreci bulunmadığından, eğitim süresine ilişkin ayrı bir kazançtan söz edilmez. İşe yeni başlayanlar, kısa süreli uyum/deneme sürecinde de doğrudan çalışan statüsünde ücret alır.",
+  "egitim_sonrasi": [
+   "Belediyelerde kadrolu işçi statüsünde çalışanların ücreti, ilgili toplu iş sözleşmesi hükümlerine göre belirlenir.",
+   "Özel temizlik firmalarında çalışanların ücreti, işletmenin büyüklüğüne, çalışma koşullarına ve deneyime göre değişebilir.",
+   "Mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç elde eder."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Bu meslek için örgün mesleki ve teknik eğitimde ayrı bir okul/alan/dal bulunmamaktadır; dolayısıyla klasik anlamda bir eğitim kademesinde ilerlemeden söz edilemez. İsteyen çalışanlar, açık öğretim veya yaygın eğitim yoluyla genel eğitim düzeyini yükseltebilir ve bu sayede farklı mesleklere geçiş imkânı elde edebilir.",
+  "is_hayatinda": "Deneyim kazanan çöpçüler, zaman içinde ekip sorumlusu veya şef konumuna yükselebilir. Gerekli ehliyete sahip olanlar çöp kamyonu şoförlüğüne geçiş yapabilir; belediyenin diğer çevre ve temizlik birimlerinde farklı görevlere atanabilirler."
+ },
+ "egitim": {
+  "verildigi_yerler": "Bu meslek için mesleki ve teknik eğitim kurumlarında ayrı bir alan/dal bulunmamaktadır. Meslek elemanları genellikle işe alındıktan sonra işbaşında, deneyimli çalışan eşliğinde yetiştirilir. Ayrıca Halk Eğitim Merkezleri ve İŞKUR tarafından zaman zaman açılan kısa süreli mesleki eğitim kurslarından da yararlanılabilir.",
+  "giris_kosullari": [
+   "Okuryazar olmak (asgari eğitim düzeyi)",
+   "18 yaşını doldurmuş olmak",
+   "Ağır fiziksel işe elverişli olduğunu gösteren sağlık raporuna sahip olmak",
+   "İşverenin/belediyenin aradığı diğer koşulları (ikametgâh, sabıka kaydı vb.) taşımak"
+  ],
+  "sure_ve_icerik": "Mesleğe yönelik resmî ve standart bir örgün eğitim programı bulunmamaktadır. İşe yeni başlayan kişi, kısa süreli bir uyum sürecinin ardından işbaşında deneyimli çalışanların yanında uygulamalı olarak yetişir. Bu süreçte iş sağlığı ve güvenliği kuralları, atık toplama teknikleri, çöp kamyonu donanımının kullanımı ve hijyen uygulamaları konularında bilgilendirilir.",
+  "belge": "Örgün bir eğitim sonunda verilen diploma bulunmamaktadır. Katılınan kurslar sonunda katılım/başarı belgesi verilebilir; işyerinde alınan iş sağlığı ve güvenliği eğitimlerine ilişkin de kayıt/belge düzenlenir."
+ },
+ "ek_bilgiler": "Çöpçülük, ağır fiziksel yük taşıma, her türlü hava koşulunda açık havada çalışma ve hijyen riskleri barındıran bir meslektir; bu nedenle iş sağlığı ve güvenliği önlemlerine (koruyucu kıyafet, eldiven, maske, gerekli aşılar vb.) özellikle dikkat edilmesi gerekir. Çalışma genellikle sabahın erken saatlerinde veya gece vardiyasında yürütülür. Mesleki Yeterlilik Kurumu (MYK) belgesi, bazı işverenlerce istihdamda tercih sebebi olabilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T20:53:59",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5997
+  }
+ }
+}

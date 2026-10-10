@@ -1,0 +1,84 @@
+{
+ "arac_gerec": [
+  "Kaşağı ve fırça takımları",
+  "Tırmık, kürek, çatal gibi temizlik araçları",
+  "El arabası",
+  "Yem kovası ve yemlik",
+  "Su kovası ve suluk",
+  "Dezenfektan malzemeleri ve ilaçlar",
+  "Haşere ilacı ve pülverizatör",
+  "Kuyruk/yele makası",
+  "Yular ve dren (bağlama takımı)",
+  "Eğer ve koşum takımları",
+  "Koruyucu eldiven ve çizme",
+  "Doğum locası malzemeleri"
+ ],
+ "genel_ozellikler": [
+  "Hayvanlara, özellikle atlara karşı sevgi ve ilgi duyan,",
+  "Fiziksel olarak güçlü ve dayanıklı,",
+  "Sabırlı ve dikkatli,",
+  "El ve beden becerisine sahip,",
+  "Açık havada ve zorlu koşullarda çalışmaya istekli,",
+  "Sorumluluk sahibi ve güvenilir,",
+  "Takım halinde çalışmaya uyumlu,",
+  "Hayvan davranışlarını gözlemleyip hızlı tepki verebilen"
+ ],
+ "calisma_ortami": "Hara işçisi, atların barındırıldığı tavla/ahır, padok, gezinti alanları ve çiftlik içindeki açık ve kapalı mekânlarda çalışır. Çalışma ortamı genellikle yem, gübre ve hayvan kokusuna, toza ve nem ile hava koşullarına açıktır; fiziksel olarak yorucu işler (su taşıma, temizlik, yem hazırlama) günün büyük bölümünü kapsar. Doğum dönemlerinde gece-gündüz nöbet gerekebilir, çalışma saatleri hayvanların bakım ve besleme düzenine göre değişkenlik gösterir.\n\nÇalışma sırasında hayvan kaynaklı tekme, ısırma gibi kazalara karşı dikkatli olunması gerekir; haşere ilaçları ve dezenfektan maddelerle de temas söz konusudur. Hara işçisi, işletmedeki diğer işçiler, seyisler, veteriner ve işletme sorumlusuyla sürekli iletişim ve iş birliği içinde çalışır.",
+ "egitim": {
+  "verildigi_yerler": "Hara işçiliği için örgün bir mesleki eğitim programı bulunmamaktadır. Meslek genellikle hara, çiftlik ve işletmelerde işbaşında usta yanında çalışarak öğrenilir. Halk Eğitim Merkezleri ve İŞKUR tarafından açılan hayvan yetiştiriciliği/bakımı konulu kısa süreli mesleki eğitim kursları da beceri kazandırmaya yöneliktir.",
+  "giris_kosullari": [
+   "En az ilkokul/ilköğretim mezunu olmak",
+   "Çalışma hayatına girebilecek yasal yaşta olmak",
+   "Fiziksel olarak hayvan bakımı ve açık hava işlerine uygun olmak",
+   "Hayvanlarla, özellikle atlarla çalışmaya istekli ve ilgili olmak"
+  ],
+  "sure_ve_icerik": "Resmî bir eğitim süresi tanımlı değildir. İşbaşında öğrenme süreci işletmeden işletmeye değişir; genellikle birkaç ay içinde temel bakım, besleme, temizlik ve atlarla ilgilenme becerileri kazanılır. Kurslara katılım hâlinde eğitim içeriği hayvan sağlığı, besleme, hijyen ve temel bakım konularını kapsar.",
+  "belge": "Örgün eğitim sonunda verilen resmî bir diploma bulunmamaktadır. Kurslara katılanlara katılım/kurs tamamlama belgesi verilebilir; işbaşı eğitiminde ise deneyim ve işletme referansı ön plandadır."
+ },
+ "calisma_alanlari": "Hara işçileri; özel at yetiştirme çiftlikleri ve haralarda, binicilik ve atçılık tesislerinde, hipodromlara bağlı işletmelerde ve at pansiyonlarında çalışabilir. İş bulma olanakları, bölgedeki atçılık ve hayvancılık faaliyetlerinin yoğunluğuna göre değişir; büyükşehir çevresindeki haralar ve binicilik kulüpleri başlıca istihdam alanlarıdır.",
+ "kazanc": {
+  "egitim_suresince": "Örgün bir eğitim süreci olmadığından ayrı bir eğitim dönemi ücreti yoktur. İşbaşında çalışarak öğrenenler, çalıştıkları süre boyunca işverenden ücret alır; kurs döneminde ise kursiyerler İŞKUR'un sağladığı kursiyer harçlığından yararlanabilir.",
+  "egitim_sonrasi": [
+   "Yeni başlayanların kazancı genellikle asgari ücret düzeyindedir.",
+   "Deneyim, işletmenin büyüklüğü ve bölgeye göre kazanç değişebilir.",
+   "Ücret ve çalışma koşulları işveren ile karşılıklı anlaşmaya göre belirlenir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğe yönelik örgün bir ön lisans/lisans programı bulunmamaktadır. İlgi duyanlar, tarım ve hayvancılıkla ilgili mesleki ve teknik eğitim kurumlarına veya Halk Eğitim Merkezleri ile İŞKUR'un açtığı hayvan yetiştiriciliği/bakımı kurslarına katılarak bilgi ve becerilerini geliştirebilir.",
+  "is_hayatinda": "Deneyim kazanan hara işçileri usta işçi, seyis, ahır/hara sorumlusu gibi daha fazla sorumluluk gerektiren görevlere yükselebilir. Yeterli bilgi ve birikime sahip olanlar kendi küçük ölçekli hayvan yetiştiriciliği işletmesini kurabilir."
+ },
+ "benzer_meslekler": [
+  "Seyis",
+  "At Yetiştiricisi",
+  "Hayvan Bakıcısı",
+  "Atçılık İşletmeciliği Meslek Elemanı",
+  "Çoban/Sürü Yönetim Elemanı (Büyükbaş Hayvan)"
+ ],
+ "ek_bilgiler": "At yetiştiriciliği işlerinde doğrudan hayvanlarla temas nedeniyle tekme, ısırma gibi kazalara karşı dikkat gerekir; bu nedenle işletmeler genellikle fiziksel olarak uygun ve deneyimli kişileri tercih eder. Mesleki Yeterlilik Kurumu (MYK) belgesine sahip olmak, istihdamda tercih sebebi olabilir.",
+ "gorevler": [
+  "Hayvan Yetiştirme İşçisi (Genel)'de belirtilen benzer işleri yapar.",
+  "Hazırladığı yemleri karıştırıp yemliklere doldurarak hayvanları yemler.",
+  "Hayvanların su ihtiyacını giderir.",
+  "Doğum yapacak atları doğum locasına alır.",
+  "Doğum anında tayları ayaklarından çekerek doğuma yardımcı olur.",
+  "Tayın göbeğini kesip dezenfekte ederek gerekli ilaçları içirir.",
+  "Aygırlara binerek koşmaya alıştırır.",
+  "Atları kaşağı ile tımar eder.",
+  "Atların kuyruk ve yelelerini kesip düzeltir.",
+  "Atları su ile yıkayıp pis kısımlarını temizleyerek kurular.",
+  "Tavlaları temizler.",
+  "Haşerelere karşı ilaç uygular.",
+  "Tabana kuru ot veya saman atar.",
+  "Hastalanan atları ilgililere bildirir.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T21:33:11",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5092
+  }
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "arac_gerec": [
+  "Bilgisayar ve sunucu sistemleri",
+  "Veritabanı yönetim sistemleri (DBMS)",
+  "Veri yönetişimi (data governance) yazılımları",
+  "Veri kalitesi ve veri profilleme araçları",
+  "Veri modelleme ve veri kataloğu yazılımları",
+  "ETL (veri çekme-dönüştürme-yükleme) araçları",
+  "Bilgi güvenliği ve şifreleme yazılımları",
+  "Raporlama ve iş zekası (BI) araçları",
+  "Bilgisayar ağı altyapısı",
+  "Proje yönetimi ve dokümantasyon yazılımları",
+  "KVKK uyum ve veri envanteri yazılımları"
+ ],
+ "genel_ozellikler": [
+  "Analitik düşünme yeteneğine sahip,",
+  "Sayısal yetenek sahibi,",
+  "Ayrıntılara dikkat eden ve titiz,",
+  "Sorumluluk sahibi ve gizlilik ilkelerine bağlı,",
+  "İletişim yeteneği güçlü ve ikna edici,",
+  "Problem çözme yeteneği olan,",
+  "Ekip çalışmasına uygun,",
+  "Sürekli öğrenmeye ve gelişen teknolojileri takip etmeye açık,"
+ ],
+ "calisma_ortami": "Veri/Bilgi Yönetimi Danışmanları genellikle kapalı ortamda, büro koşullarında ve bilgisayar başında çalışır. Çalışmalarının önemli bir bölümünü kurum içindeki bilgi teknolojileri, hukuk, yönetim ve diğer ilgili birimlerle yapılan toplantılar, politika ve prosedür hazırlama çalışmaları oluşturur. Proje bazlı çalıştıkları için zaman zaman yoğun mesai gerekebilir; bazı kurumlarda esnek veya uzaktan çalışma yöntemleri de uygulanabilir.\n\nGörevleri sırasında kurum yöneticileri, bilgi işlem personeli, veri sorumluları ve dış denetim/danışmanlık ekipleriyle sık sık iletişim kurarlar. İşin doğası itibarıyla uzun süre ekran karşısında oturarak çalışmak göz ve sırt yorgunluğuna yol açabilir; ayrıca veri güvenliği ve gizliliğine ilişkin sorumluluk, mesleğin stres düzeyini artırabilir.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi, üniversitelerin Bilgisayar Mühendisliği, Yazılım Mühendisliği, Bilişim Sistemleri Mühendisliği, Yönetim Bilişim Sistemleri, Endüstri Mühendisliği, İstatistik gibi lisans programlarında verilmektedir. Bazı üniversitelerde veri bilimi, veri yönetişimi veya bilgi güvenliği alanlarında açılan yüksek lisans programları da mesleğe yönelik derinleşme olanağı sağlamaktadır. Ayrıca üniversiteler, eğitim akademileri ve sektör kuruluşları tarafından veri yönetişimi, KVKK uyumu ve bilgi güvenliği konularında sertifika programları düzenlenmektedir.",
+  "giris_kosullari": [
+   "Lise ve dengi okul mezunu olup YKS'de ilgili lisans programlarına (sayısal/eşit ağırlık puan türü) yeterli puanı almak ve istenen bölüme yerleşmek.",
+   "Yüksek lisans eğitimi için lisans mezunu olmak, ALES'ten ilgili puan türünde yeterli puanı almak ve gerekli hallerde yabancı dil şartını sağlamak."
+  ],
+  "sure_ve_icerik": "Lisans eğitimi normal şartlarda 4 yıl sürer. Eğitim programlarında veri yapıları ve veritabanı yönetim sistemleri, bilgi güvenliği ve ağ yönetimi, veri modelleme ve kalite yönetimi, kişisel verilerin korunmasına ilişkin mevzuat, proje yönetimi, istatistik ve veri analitiği gibi konular yer alır. Mesleğe özgü uzmanlaşma genellikle lisans eğitimi sonrasında iş başında, sertifika programlarıyla veya yüksek lisans düzeyinde gerçekleşir.",
+  "belge": "Eğitim sonunda ilgili lisans programından mezun olanlara \"Lisans Diploması\" verilir; yüksek lisans eğitimini tamamlayanlara ise \"Yüksek Lisans Diploması\" verilir. Veri yönetişimi, bilgi güvenliği veya KVKK alanında alınan sertifikalar ve Mesleki Yeterlilik Kurumu (MYK) belgeleri istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Veri/Bilgi Yönetimi Danışmanları; kamu kurumlarının bilgi işlem ve veri yönetimi birimlerinde, bankacılık ve finans kuruluşlarında, e-ticaret şirketlerinde, sağlık kuruluşlarında, telekomünikasyon ve enerji şirketlerinde, sigorta şirketlerinde ve bilgi teknolojileri danışmanlık firmalarında istihdam edilmektedir. Veri hacminin ve kişisel verilerin korunmasına ilişkin düzenlemelerin öneminin artması nedeniyle, orta ve büyük ölçekli kurumlarda bu alana olan talep yaygınlaşmaktadır. Deneyim kazandıktan sonra bağımsız danışman olarak da çalışılabilir.",
+ "kazanc": {
+  "egitim_suresince": "Lisans öğrenimi süresince öğrenciler, Kredi ve Yurtlar Genel Müdürlüğünün sağladığı öğrenim kredisi, burs ve yurt hizmetlerinden yararlanabilir.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında çalışanlar 657 sayılı Devlet Memurları Kanunu'na tabi olarak unvan ve kadrolarına göre maaş alır.",
+   "Özel sektörde yeni mezunların kazancı genellikle asgari ücret düzeyinde veya üzerinde başlar; deneyim, bilgi birikimi, işletmenin büyüklüğü ve faaliyet gösterilen sektöre göre bu kazanç önemli ölçüde değişebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "İlgili alanlarda yüksek lisans ve doktora yaparak akademik kariyer yapabilir; veri yönetişimi, bilgi güvenliği ve KVKK alanlarında alınan sertifikalarla uzmanlık düzeyini artırabilir.",
+  "is_hayatinda": "Deneyim kazandıktan sonra kıdemli danışman, veri yönetişimi sorumlusu/müdürü, bilgi güvenliği yöneticisi gibi pozisyonlara; büyük kurumlarda ise Baş Veri Sorumlusu (Chief Data Officer) veya bilgi teknolojileri yöneticiliği gibi üst düzey görevlere yükselebilir."
+ },
+ "benzer_meslekler": [
+  "Veri Tabanı Yöneticisi",
+  "Veri Tabanı Analisti",
+  "Veri Tabanı Mimarı",
+  "Kişisel Verileri Koruma Uzmanı",
+  "Bilgi Güvenliği Uzmanı",
+  "İş Zekası Uzmanı"
+ ],
+ "ek_bilgiler": "Mesleğin önemli bir parçası, kurumların Kişisel Verilerin Korunması Kanunu (KVKK) ve ilgili mevzuata uyum süreçlerine rehberlik etmektir; bu nedenle güncel veri koruma mevzuatını takip etmek mesleğin gerekliliklerindendir. Veri yönetişimi ve bilgi güvenliği alanında alınan uluslararası veya Mesleki Yeterlilik Kurumu (MYK) sertifikaları istihdamda tercih sebebi olabilir.",
+ "gorevler": [
+  "Kurumsal veri yönetişimi (governance) politikalarını oluşturur.",
+  "Veri saklama, yedekleme ve erişim protokollerini tasarlar.",
+  "Veri kalitesini artıracak temizleme ve doğrulama yöntemleri önerir.",
+  "Bilgi güvenliği ve KVKK uyum süreçlerine rehberlik eder.",
+  "Veri analitiği projelerinde stratejik yol haritaları hazırlar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T06:07:11",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5319
+  }
+ }
+}

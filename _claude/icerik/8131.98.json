@@ -1,0 +1,86 @@
+{
+ "arac_gerec": [
+  "Sabun kaynatma kazanları",
+  "Eşanjör makinesi",
+  "Menanjör makinesi",
+  "Atomizer makinesi",
+  "Mikser makinesi",
+  "Budinözör makinesi",
+  "Presleme ve kurutma makinesi",
+  "Damga makinesi",
+  "Ambalajlama makineleri",
+  "Tartım ve ölçüm aletleri",
+  "Ambalaj malzemeleri (kutu, poşet, karton, etiket)",
+  "Taşıma ekipmanları (el arabası, konveyör, forklift)",
+  "Kişisel koruyucu donanım (eldiven, önlük, bone, çizme, maske)"
+ ],
+ "genel_ozellikler": [
+  "El ve beden becerisine sahip,",
+  "Dikkatli ve sabırlı,",
+  "Fiziksel olarak dayanıklı,",
+  "Ekip çalışmasına uyumlu,",
+  "Temizlik ve hijyen kurallarına duyarlı,",
+  "Talimatları eksiksiz uygulayabilen,",
+  "Makine ve ekipman kullanımına istekli,"
+ ],
+ "calisma_ortami": "Sabun imalat makinesi operatörleri, sabun fabrikalarının ve imalathanelerinin üretim atölyelerinde kapalı ortamda çalışır. Çalışma ortamı, kaynatma kazanları ve kurutma üniteleri nedeniyle sıcak ve nemli olabilir; hammadde ve üretim süreçlerine bağlı olarak kimyasal koku bulunabilir. İş büyük ölçüde ayakta yürütülür, bazı işletmelerde vardiyalı çalışma düzeni uygulanabilir.\n\nÇalışma sırasında diğer üretim hattı çalışanları, vardiya amiri ve kalite kontrol personeli ile iletişim halinde olunur. Makine ve kimyasal maddelerle çalışılması nedeniyle iş sağlığı ve güvenliği kurallarına, kişisel koruyucu donanım kullanımına özen gösterilmesi gerekir.",
+ "gorevler": [
+  "El-banyo sabunu üretim hammaddelerini oluşturur,",
+  "El-banyo sabunu üretimi yapar,",
+  "Sabun üretimi kaynatma kazanlarını kullanır,",
+  "Eşanjör makinesini kullanır,",
+  "Menanjör makinesini kullanır,",
+  "Atomizer makinesini kullanır,",
+  "Mikser makinesini kullanır,",
+  "Budinözör makinesini kullanır,",
+  "Sabun üretimi presleme ve kurutma makinesini kullanır,",
+  "Damga makinesini kullanır,",
+  "Sabun üretimi ürün kontrolünü yapar,",
+  "Sabun atık maddelerini değerlendirir,",
+  "Sabun makinelerinin temizlik ve bakımını yapar,",
+  "Sabun ambalajlama makinelerini kullanır,",
+  "Sabun ambalaj malzemelerini hazırlar,",
+  "Sabunu paketler,",
+  "Kişisel hijyenini sağlar,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Mesleğin örgün bir okul veya bölüm düzeyinde eğitimi bulunmamaktadır. Mesleki beceriler genellikle işyerinde usta yanında uygulamalı olarak kazanılır. Ayrıca Halk Eğitim Merkezleri ve İŞKUR tarafından açılan kimya/üretim teknolojileri alanına yönelik mesleki eğitim kurslarından yararlanılabilir.",
+  "giris_kosullari": [
+   "Okuryazar olmak",
+   "18 yaşını doldurmuş olmak (işletmeler tarafından genellikle talep edilir)",
+   "Kurs programının öngördüğü temel becerileri gerçekleştirebilecek fiziksel yeterliğe sahip olmak"
+  ],
+  "sure_ve_icerik": "Kurumdan kuruma değişmekle birlikte açılan kurslarda iş sağlığı ve güvenliği, hammadde hazırlama, üretim makinelerinin kullanımı, ürün kontrolü ve ambalajlama konularında temel bilgi ve beceriler kazandırılır. Mesleğe giriş genellikle işbaşında, usta-çırak ilişkisi içinde gerçekleşir.",
+  "belge": "Katılınan kurslar sonunda kurs bitirme belgesi verilebilir; mesleğin icrası için zorunlu bir diploma veya sertifika bulunmamaktadır."
+ },
+ "calisma_alanlari": "Mesleğin gerektirdiği bilgi ve becerilere sahip kişiler, sabun üretimi yapan fabrika ve imalathanelerde, bazı durumlarda kozmetik ve temizlik ürünleri üreten işletmelerde çalışabilirler. İş bulma olanakları, sektördeki üretim hacmine ve işletmelerin istihdam ihtiyacına bağlı olarak değişmektedir.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğin işbaşında öğrenilmesi nedeniyle eğitim süresince genellikle bir kazanç söz konusu değildir; bazı işletmelerde çırak/stajyer olarak çalışanlara düşük düzeyde ücret ödenebilir.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Deneyim, işletmenin büyüklüğü ve çalışılan sektöre göre kazanç değişkenlik gösterebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğin kademeli bir eğitim basamağı bulunmamaktadır. İlgili alanda açılan ileri düzey mesleki eğitim kurslarına katılarak bilgi ve beceriler geliştirilebilir.",
+  "is_hayatinda": "Bilgi, beceri ve deneyim arttıkça usta, ustabaşı, bölüm şefi veya üretim sorumlusu gibi unvanlarla iş hayatında ilerleme sağlanabilir."
+ },
+ "benzer_meslekler": [
+  "Karıştırma Makinesi Operatörü-Kimyasal Maddeler",
+  "Yoğurucu (Kimyasal Maddeler)",
+  "Kurutma Makinesi Operatörü-Kimyasal ve İlgili İşlemler",
+  "Kozmetik Sıvı Ürün Hazırlama İşçisi",
+  "Toz Dolum Makinesi Operatörü",
+  "Makyaj Malzemesi İmalat İşçisi"
+ ],
+ "ek_bilgiler": "Sabun imalatında yüksek sıcaklıkta kaynatma kazanları ve kimyasal hammaddelerle çalışılması nedeniyle kişisel koruyucu donanım kullanımı ve iş sağlığı ve güvenliği kurallarına uyulması önemlidir. Mesleki Yeterlilik Kurumu (MYK) belgesi, bazı işletmelerde istihdamda tercih sebebi olabilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T12:35:58",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5026
+  }
+ }
+}

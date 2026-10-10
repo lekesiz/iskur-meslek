@@ -1,0 +1,83 @@
+{
+ "arac_gerec": [
+  "Multimetre, ampermetre, voltmetre, ohmmetre gibi ölçüm cihazları",
+  "Osiloskop ve sinyal test cihazları",
+  "Lehim takımı (havya, lehim teli, çeken telli pompa)",
+  "El takımları (tornavida takımları, pense, kargaburun, anahtar takımları)",
+  "Kablo test cihazı ve kablo döşeme/bağlantı malzemeleri",
+  "Dizüstü bilgisayar ve arıza teşhis/diagnostik yazılımları",
+  "Elektronik kart test, programlama ve ayar cihazları",
+  "Yedek elektronik kart ve komponentler",
+  "Kişisel koruyucu donanım (iş eldiveni, baret, iş gözlüğü, yalıtkan ayakkabı)",
+  "El feneri ve taşınabilir iş lambası",
+  "Vagon altı/üstü çalışma platformları ve merdivenler",
+  "Teknik şema, devre planı ve bakım kılavuzları",
+  "Osiloskop ve fonksiyon jeneratörü",
+  "Topraklama ve kısa devre test ekipmanları"
+ ],
+ "genel_ozellikler": [
+  "Fen bilimlerine ve elektronik-elektrik konularına ilgili ve bu alanda başarılı,",
+  "El ve göz koordinasyonu gelişmiş,",
+  "Dikkatli, tedbirli ve sorumluluk duygusu gelişmiş,",
+  "Analitik düşünebilen ve problem çözme yeteneğine sahip,",
+  "Takım çalışmasına uygun, iş arkadaşlarıyla uyumlu çalışabilen,",
+  "Dar ve kapalı alanlarda çalışabilecek fiziksel kondisyona sahip,",
+  "Vardiyalı ve düzensiz çalışma saatlerine uyum sağlayabilen,",
+  "Teknik şema ve kılavuzları okuyup uygulayabilen"
+ ],
+ "calisma_ortami": "Raylı sistem araçları elektronik bakım ve onarımcıları genellikle tren, metro, tramvay ve hafif raylı sistem araçlarının bakım-onarımının yapıldığı atölye, depo ve garaj ortamlarında çalışır. Çalışma; araç içinde, araç altında veya üstünde dar ve bazen kısıtlı alanlarda, elektrik-elektronik risklerine (elektrik çarpması, kısa devre) karşı dikkat gerektiren koşullarda yürütülür. Araçların sefer dışı olduğu saatlerde (genellikle gece) bakım yapılması nedeniyle vardiyalı çalışma yaygındır.\n\nÇalışma sırasında mühendisler, teknisyenler ve diğer bakım personeliyle ekip halinde işbirliği yapılır; arıza bildirimleri ve bakım süreçleri sürücü/işletme personeli ile koordineli şekilde yürütülür. İş güvenliği kurallarına uyulması, kişisel koruyucu donanım kullanılması ve elektrik kesme/güvenlik önlemlerinin alınması çalışmanın temel gerekliliklerindendir.",
+ "gorevler": [
+  "İş sağlığı ve güvenliği, yangın ve acil durum kurallarını uygular.",
+  "Çevre koruma mevzuatına uygun çalışır.",
+  "Kalite yönetim sistemi düzenlemelerine uygun çalışır.",
+  "Kullanacağı donanım ve malzemeyi çalışmaya hazırlar.",
+  "Bakım/onarım yapılacak aracın özelliklerini belirler.",
+  "Bakım/onarım öncesi güvenlik önlemlerini alır.",
+  "İş hazırlıklarını yapar.",
+  "Raylı sistem araçları elektronik donanım ve sistemleri ile ilgili; elektronik kontrol dolaplarına, cer konvertörlerine, yardımcı güç besleme ünitelerine, haberleşme (telsiz, GSM-R), boden yağlama, elektronik fren kontrol ünitesine, hız kayıt, yolcu anons ve bilgilendirme, yolcu kapı, tren kontrol ve denetleme (TCMS), kapalı devre kamera (CCTV), iklimlendirme, sinyalizasyon (ATS, ATP, ERTMS), yangın algılama ve araç üzerinde bulunan diğer sistemlere ait elektronik ekipmanlara periyodik bakım yapar.",
+  "Raylı sistem araçları elektronik donanım ve sistemleri ile ilgili elektronik kontrol dolaplarına, cer konvertörlerine, yardımcı güç besleme ünitelerine, haberleşme (telsiz, GSM-R), boden yağlama, elektronik fren kontrol ünitesine, hız kayıt, yolcu anons ve bilgilendirme, yolcu kapı, tren kontrol ve denetleme (TCMS), kapalı devre kamera (CCTV), iklimlendirme, sinyalizasyon (ATS, ATP, ERTMS), yangın algılama ve araç üzerinde bulunan diğer sistemlere ait elektronik ekipmanlara arıza tespiti ve onarımını yapar.",
+  "İş sonu işlemlerini yapar.",
+  "Mesleki gelişim faaliyetlerine katılır."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi; mesleki ve teknik eğitim kurumlarının elektrik-elektronik teknolojisi alanı ile ilgili dallarında, mesleki eğitim merkezlerinde çıraklık eğitimi kapsamında, Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kurslarında ve ayrıca raylı sistem işletmecisi kuruluşların (TCDD, belediye ulaşım şirketleri, metro/tramvay işletmeleri, özel raylı sistem firmaları) kendi bünyesinde düzenlediği hizmet içi eğitim ve usta yanında yetiştirme yoluyla verilebilmektedir.",
+  "giris_kosullari": [
+   "En az ilköğretim/ortaokul mezunu olmak",
+   "Çıraklık eğitimine başlamak için 14 yaşını doldurmuş olmak",
+   "Sağlık durumunun mesleğin gerektirdiği işitme, görme ve el-kol becerisi açısından uygun olması",
+   "İlgili işletmenin veya kurumun açtığı eğitim/kurs programının kabul koşullarını sağlamak"
+  ],
+  "sure_ve_icerik": "Mesleğe özgü, standart bir meslek lisesi veya çıraklık programı bulunmamaktadır. Genel olarak elektrik-elektronik alanındaki temel mesleki eğitim üzerine, raylı sistem işletmecisi kuruluşların düzenlediği hizmet içi eğitim ve usta yanında uygulamalı çalışma ile mesleğe özgü bilgi ve beceriler kazandırılır. Eğitim içeriği; temel elektrik-elektronik bilgisi, elektronik devre ve kart okuma, ölçüm cihazlarının kullanımı, araç üstü elektronik sistemlerin (cer konvertörü, TCMS, sinyalizasyon, yolcu bilgilendirme vb.) çalışma prensipleri, arıza tespit ve onarım tekniklerini kapsar.",
+  "belge": "Mesleki eğitim merkezinden kalfalık/ustalık belgesi veya ilgili mesleki ve teknik eğitim kurumundan diploma alınabilir; işletme içi eğitim ve kurslarda katılım veya yeterlilik belgesi verilebilir. Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Raylı sistem araçları elektronik bakım ve onarımcıları; TCDD, metro, tramvay ve hafif raylı sistem işletmelerinde, belediyelere bağlı ulaşım şirketlerinde, raylı sistem araçları üreten firmalarda ve bu araçlara bakım-onarım hizmeti veren özel teknik servis işletmelerinde istihdam edilmektedir. Türkiye'de şehir içi ve şehirler arası raylı ulaşım ağının (metro, tramvay, hafif raylı sistem, yüksek hızlı tren) genişlemesine bağlı olarak bu alanda nitelikli ve teknik bilgiye sahip eleman ihtiyacının artması beklenmektedir.",
+ "kazanc": {
+  "egitim_suresince": "Çıraklık veya mesleki eğitim merkezi kapsamında eğitim görenlere 3308 sayılı Mesleki Eğitim Kanunu çerçevesinde asgari ücretin belirli bir oranında ücret ödenir. İşletme içi hizmet içi eğitim programlarına katılanların kazancı, ilgili kurum/işletmenin uygulamasına göre değişiklik gösterebilir.",
+  "egitim_sonrasi": [
+   "Kamu kurum ve kuruluşlarında (TCDD gibi) işçi statüsünde çalışanların ücreti ilgili toplu iş sözleşmesi hükümlerine göre belirlenir.",
+   "Memur statüsünde istihdam edilenler için 657 sayılı Devlet Memurları Kanunu hükümleri uygulanır.",
+   "Özel sektörde işe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar; deneyim, performans ve işletmenin büyüklüğüne göre kazanç artabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Meslek elemanları, elektronik teknolojisi, mekatronik, raylı sistemler elektrik-elektronik teknolojisi gibi ilgili ön lisans/lisans programlarına yönelebilir. Ayrıca çeşitli kurum ve kuruluşların düzenlediği kurs ve sertifika programlarına katılarak mesleki bilgi ve becerilerini geliştirebilirler.",
+  "is_hayatinda": "Deneyim ve kıdeme bağlı olarak ekip şefi, bakım sorumlusu veya ustabaşı gibi pozisyonlara yükselebilirler. Belirli sistemler (sinyalizasyon, TCMS, cer sistemleri vb.) konusunda uzmanlaşarak kıdemli teknik personel olarak çalışabilirler."
+ },
+ "benzer_meslekler": [
+  "Raylı Sistemler Sinyalizasyon Bakım ve Onarımcısı",
+  "Elektronik İşçisi (Tren)",
+  "Endüstriyel Bakım-Onarım Elektronikçisi",
+  "Mekatronik Bakım Onarımcısı",
+  "Elektronik Montörü (Genel)",
+  "Dijital Elektronik Cihazlar Bakım Onarımcısı"
+ ],
+ "ek_bilgiler": "Raylı sistem araçlarının elektronik bakım ve onarımı, elektrik ve yüksek gerilim riski içeren işlemler barındırabileceğinden iş sağlığı ve güvenliği eğitimlerine ve işletmelerin belirlediği güvenlik prosedürlerine uyulması önem taşır. Çalışılacak kurum/işletmeye göre belirli sağlık ve güvenlik belgeleri istenebilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T06:34:10",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 7605
+  }
+ }
+}

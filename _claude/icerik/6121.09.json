@@ -1,0 +1,79 @@
+{
+ "arac_gerec": [
+  "Süt sağım kovası",
+  "Süt güğümü / büyük süt kapları",
+  "İş elbisesi (önlük, tulum)",
+  "Çizme",
+  "Baş örtüsü / bone",
+  "Sağım bezi / havlu",
+  "Sabun ve dezenfektan solüsyonu",
+  "Meme temizleme ve dezenfeksiyon malzemeleri",
+  "Yemlik ve yem kabı",
+  "Hayvanı bağlama ipi / sağım yeri bağlantı ekipmanı",
+  "Süzgeç",
+  "Kova ve kap temizleme fırçası",
+  "Eldiven"
+ ],
+ "benzer_meslekler": [
+  "Sağım İşçisi (Makine İle)",
+  "Süt Sığırı Yetiştiricisi",
+  "Sığır Yetiştiricisi",
+  "Süt Hayvanları Yetiştiricisi",
+  "Süthane İşçisi",
+  "Hayvan Bakıcısı"
+ ],
+ "calisma_alanlari": "Sağım işçileri (elle); süt sığırcılığı işletmelerinde, aile işletmeciliği şeklinde yürütülen küçük ve orta ölçekli çiftliklerde, tarımsal kalkınma kooperatiflerine bağlı işletmelerde ve mandıralarda çalışırlar. İstihdam, özellikle hayvan sayısının az olduğu küçük ölçekli işletmelerde ve kırsal bölgelerde yoğunlaşmaktadır.\\n\\nİş bulma, bölgedeki hayvancılık faaliyetinin yoğunluğuna ve işletmelerin büyüklüğüne bağlı olarak değişmektedir. Mekanik sağım sistemlerinin (sağım makinelerinin) yaygınlaşması, büyük ölçekli işletmelerde elle sağıma olan ihtiyacı azaltmakta; bu nedenle meslekte istihdam küçük ölçekli ve geleneksel işletmelerle sınırlı kalma eğilimindedir. Mevsimlik veya tam zamanlı çalışma biçimleri görülebilir.",
+ "calisma_ortami": "Sağım işçisi (elle), çiftliklerde bulunan ahır ve sağımhanelerde, kapalı veya yarı açık mekânlarda çalışır. Çalışma ortamında hayvan, gübre, yem ve nem kokusu bulunur; zaman zaman nemli ve kaygan yüzeylerde çalışmak gerekebilir. Hayvanların sağım zamanına bağlı olarak genellikle sabah ve akşam saatlerinde, günde iki kez belirli bir düzen içinde çalışılır; bu durum erken saatlerde işe başlamayı gerektirir.\\n\\nİş, uzun süre eğilerek veya çömelerek yapılan el ve kol gücüne dayalı bir çalışmadır; bu nedenle fiziksel dayanıklılık önemlidir. Hayvan ısırması, tekmelemesi gibi kazalara karşı dikkatli olunması gerekir. Çalışma sırasında çiftlik sahibi, diğer tarım ve hayvancılık işçileri ile veterinerlik hizmeti veren kişilerle iletişim kurulur.",
+ "egitim": {
+  "verildigi_yerler": "Sağım işçiliği (elle) için örgün bir okul eğitimi bulunmamaktadır. Meslek genellikle çiftliklerde işbaşında, usta yanında uygulamalı olarak öğrenilir. Ayrıca Halk Eğitim Merkezleri ve İŞKUR tarafından açılan hayvancılık/süt sığırcılığı konulu mesleki eğitim kurslarına katılarak da bu mesleğe yönelik beceriler kazanılabilir.",
+  "giris_kosullari": [
+   "Okuryazar olmak",
+   "İlköğretim mezunu olmak (genel şart)",
+   "Hayvanlarla çalışmaya uygun bedensel yeterliliğe sahip olmak"
+  ],
+  "sure_ve_icerik": "Mesleğe yönelik standart ve zorunlu bir eğitim programı ve süresi bulunmamaktadır. Açılan kurslarda süre, kurumdan kuruma değişmekle birlikte genellikle kısa süreli (birkaç hafta) olup; hayvan hijyeni, meme sağlığı, doğru sağım teknikleri, süt saklama koşulları gibi konuları kapsar. Mesleğin esasını oluşturan beceriler ise işletmelerde çalışarak, usta-çırak ilişkisi içinde zaman içinde kazanılır.",
+  "belge": "Katılınan kurslar sonunda kursu düzenleyen kurum tarafından katılım/başarı belgesi verilebilir. Mesleki Yeterlilik Kurumu (MYK) belgesi bu meslekte yasal bir zorunluluk değildir; ancak sahip olunması istihdamda tercih sebebi olabilir."
+ },
+ "ek_bilgiler": "Elle sağım, günümüzde süt verimi yüksek ve hayvan sayısı fazla olan büyük ölçekli işletmelerde yerini büyük oranda sağım makinelerine bırakmaktadır. Bu nedenle elle sağım, daha çok küçük ölçekli aile işletmelerinde ve geleneksel yöntemlerin sürdürüldüğü çiftliklerde uygulanmaya devam etmektedir; bu durum mesleğin uzun vadede istihdam olanaklarını sınırlayabilmektedir.",
+ "genel_ozellikler": [
+  "El ve bilek becerisine sahip,",
+  "Bedensel olarak dayanıklı,",
+  "Hayvanlara karşı sevgi ve şefkat duyan,",
+  "Dikkatli ve sabırlı,",
+  "Hijyen kurallarına özen gösteren,",
+  "Düzenli ve disiplinli çalışabilen,",
+  "Erken saatlerde ve açık/kapalı ortam koşullarında çalışmaya uyumlu,",
+  "Ekip halinde çalışmaya istekli"
+ ],
+ "gorevler": [
+  "İş elbisesini giyer.",
+  "Sağımı yapılacak inekleri sağımhaneye alıp sağım yerine bağlar.",
+  "Yemliklere yem koyar.",
+  "Süt kovasını yıkar.",
+  "Ellerini ve ineğin memelerini yıkar.",
+  "Kovayı memenin altına yerleştirir.",
+  "Hayvanın memelerini elinin baş parmağı ile ayası arasına alarak sağar.",
+  "Dolan kovaları büyük kaplara aktarıp işlenmek üzere ilgililere teslim eder.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Sağım işçisi (elle), Halk Eğitim Merkezleri ve İŞKUR tarafından açılan süt sığırcılığı, hayvan sağlığı, sağım makinesi kullanımı gibi konulardaki kurslara katılarak mesleki bilgi ve becerisini geliştirebilir. İsteyen kişiler, ilgili mesleki ve teknik eğitim programlarına yönelerek hayvan yetiştiriciliği alanında daha kapsamlı bir eğitim alabilir.",
+  "is_hayatinda": "Deneyim kazandıkça sağım işçisi, işletmede daha nitelikli görevler üstlenebilir; sağım makinesi kullanımını öğrenerek makineli sağıma geçebilir veya süt hayvanları yetiştiriciliği gibi daha kapsamlı görevlere yönelebilir. Yeterli birikim ve koşullara sahip olanlar, kendi hayvancılık işletmesini kurarak bağımsız çalışabilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Mesleğe yönelik örgün bir eğitim olmadığından öğrencilik dönemine özgü bir kazanç söz konusu değildir. Halk Eğitim Merkezleri veya İŞKUR kurslarına katılanlar, kursun niteliğine göre kursiyer ödemelerinden yararlanabilir. İşbaşında usta yanında yetişenler, çalıştıkları süre için işveren ile anlaşmaya bağlı olarak ücret alabilir.",
+  "egitim_sonrasi": [
+   "Kazanç, çalışılan işletmenin büyüklüğüne, çalışma biçimine (günlük, mevsimlik veya sürekli) ve kişinin deneyimine göre değişmektedir.",
+   "Yeni başlayanlar için kazanç genellikle asgari ücret düzeyindedir.",
+   "Kamuda sürekli istihdam imkânı sınırlı olup, çalışma genellikle özel işletmeler ve aile çiftlikleri bünyesinde, taraflar arasındaki anlaşmaya göre belirlenir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T21:36:38",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5106
+  }
+ }
+}

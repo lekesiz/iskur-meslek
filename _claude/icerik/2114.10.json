@@ -1,0 +1,76 @@
+{
+ "arac_gerec": [
+  "Sismik kayıt üniteleri (recorder) ve kontrol panelleri",
+  "Geofon ve hidrofon dizinleri (alıcılar)",
+  "Enerji kaynağı senkronizasyon sistemleri (airgun/vibratör kontrol üniteleri)",
+  "Veri depolama ve yedekleme birimleri (disk, tape, sunucu)",
+  "Bilgisayar ve veri kalite kontrol yazılımları",
+  "GPS ve navigasyon/konumlandırma sistemleri",
+  "Sinyal ve gürültü seviyesi ölçüm cihazları",
+  "Kablo, konnektör ve bağlantı ekipmanları",
+  "Telsiz ve saha içi iletişim cihazları",
+  "Jeneratör ve güç kaynakları",
+  "Kayıt ve rapor formları, kırtasiye malzemeleri",
+  "Kişisel koruyucu donanım (baret, yelek, kulaklık vb.)"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve titiz,",
+  "Sorumluluk sahibi,",
+  "Takım çalışmasına uyumlu,",
+  "Teknik arızalar karşısında hızlı ve mantıklı çözüm üretebilen,",
+  "Matematik ve fen bilimlerine ilgili,",
+  "Zor saha ve/veya deniz koşullarına fiziksel ve psikolojik olarak dayanıklı,",
+  "Düzenli kayıt tutmaya ve raporlamaya özen gösteren,",
+  "Vardiyalı ve uzun süreli çalışmaya uyumlu"
+ ],
+ "calisma_ortami": "Sismik Veri Kayıt Sorumlusu/Observer, çalışmalarını büyük ölçüde açık arazide kurulan sismik saha kamplarında veya sismik araştırma gemilerinde yürütür; bir kısım kontrol ve veri izleme faaliyeti ise kapalı mekânda (kayıt kabini/odası) bilgisayar ve kayıt üniteleri başında gerçekleşir. Çalışma koşulları hava şartlarına, arazi yapısına (çöl, dağlık alan, orman) veya deniz koşullarına bağlı olarak değişebilir; gürültülü ortam, titreşim, uzun süreli ayakta/dışarıda kalma ve zaman zaman zorlu iklim koşulları söz konusu olabilir.\n\nMeslek genellikle ekip hâlinde yürütülür; jeofizik mühendisleri, saha/ekip sorumluları, konumlandırma personeli ve teknik destek ekipleriyle sürekli iletişim ve koordinasyon gerektirir. Çalışma, projenin niteliğine göre vardiyalı sistemde, uzun saatler boyunca ve bazen şehir dışında veya açık denizde haftalar/aylar süren konaklamalı çalışma şeklinde olabilir.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin gerektirdiği önlisans düzeyindeki eğitim, üniversitelere bağlı meslek yüksekokullarının jeofizik, petrol ve doğalgaz veya elektronik/elektrik teknikliği gibi ilgili önlisans programlarında verilmektedir. Ayrıca jeofizik mühendisliği gibi lisans programlarından mezun olanlar da sektörde bu görevi üstlenebilmektedir.",
+  "giris_kosullari": [
+   "Lise veya dengi okul mezunu olmak",
+   "YKS (Yükseköğretim Kurumları Sınavı) kılavuzunda ilgili önlisans programları için belirtilen puan ve koşulları sağlamak",
+   "Lisans düzeyinde eğitim almak isteyenler için YKS kılavuzunda jeofizik mühendisliği gibi ilgili lisans programları için belirtilen koşulları sağlamak"
+  ],
+  "sure_ve_icerik": "Önlisans eğitiminin süresi 2 yıldır. Eğitim süresince temel fizik, matematik, jeoloji ve elektronik dersleri ile sismik ölçüm ve kayıt teknikleri, veri değerlendirme ve saha uygulamalarına yönelik meslek dersleri okutulur; staj ve uygulamalı derslerle desteklenir. Mesleğe ilişkin ileri düzey bilgi ve beceriler büyük ölçüde işbaşında, deneyimli gözlemci ve mühendislerin yanında çalışılarak kazanılır.",
+  "belge": "Eğitimi başarıyla tamamlayanlara önlisans diploması verilir."
+ },
+ "calisma_alanlari": "Sismik Veri Kayıt Sorumlusu/Observer; petrol, doğalgaz ve maden arama faaliyeti yürüten kamu ve özel sektör kuruluşlarında, jeofizik hizmet ve sismik araştırma şirketlerinde, kara sismiği ekiplerinde ve deniz sismik araştırma gemilerinde istihdam edilmektedir. Türkiye'de bu alandaki istihdam, enerji ve maden arama projelerinin yoğunluğuna, kamu yatırım programlarına ve yabancı/yerli jeofizik hizmet şirketlerinin saha faaliyetlerine bağlı olarak değişkenlik göstermektedir. Nitelikli ve deneyimli personele özellikle büyük ölçekli sismik araştırma projelerinde ihtiyaç duyulmaktadır.",
+ "kazanc": {
+  "egitim_suresince": "Önlisans eğitimi süresince öğrenciler, Kredi ve Yurtlar Genel Müdürlüğünün sağladığı öğrenim kredisi ve yurt hizmetlerinden yararlanabilir; ayrıca çeşitli kamu ve özel kuruluşların sunduğu burs olanaklarından faydalanabilirler.",
+  "egitim_sonrasi": [
+   "Kamu kurum ve kuruluşlarında çalışanlar 657 sayılı Devlet Memurları Kanunu'na veya işçi statüsünde ise ilgili toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde kazanç; çalışılan şirkete, projenin yapısına (kara/deniz sismiği), deneyime ve saha/offshore çalışmasına bağlı olarak değişmektedir; saha ve deniz çalışmalarında genellikle ek tazminat uygulanır.",
+   "Mesleğe yeni başlayanların kazancı genellikle asgari ücret düzeyinde olmakla birlikte, deneyim ve uzmanlık arttıkça gelir düzeyi yükselmektedir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Önlisans eğitimini tamamlayanlar, Dikey Geçiş Sınavı (DGS) ile jeofizik mühendisliği gibi ilgili lisans programlarına geçiş yapabilir; lisans eğitimini tamamlayanlar akademik kariyer yoluyla yüksek lisans ve doktora yapma olanağına sahiptir.",
+  "is_hayatinda": "Gözlemci (observer) olarak göreve başlayanlar, deneyim kazandıkça kıdemli gözlemci, ekip/parti şefi, sismik operasyon sorumlusu veya saha koordinatörü gibi daha üst sorumluluk gerektiren görevlere yükselebilir."
+ },
+ "benzer_meslekler": [
+  "Jeofizik Mühendisi",
+  "Sismik Ekip Sorumlusu",
+  "Sismik Jeofizik Sorumlusu",
+  "Sismik Konumlandırma Sorumlusu",
+  "Sismik Konumlandırma Operatörü"
+ ],
+ "ek_bilgiler": "Bu meslek genellikle kara sismiği sahalarında veya deniz sismik araştırma gemilerinde, uzun süreli saha/offshore çalışma ve seyahat gerektirir; deniz sismiği operasyonlarında gemi ortamında haftalar veya aylar süren konaklamalı çalışma söz konusu olabilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda tercih sebebi olabilir.",
+ "gorevler": [
+  "Sismik kayıt sistemlerinin ve alıcı dizinlerinin (geofon/hidrofon) kurulumunu denetler.",
+  "Kayıt sırasında gürültü seviyelerini izler ve veri kalitesini kontrol eder.",
+  "Enerji kaynağı (airgun/vibratör) ile kayıt ünitesi senkronizasyonunu sağlar.",
+  "Ham verilerin yedeklenmesini ve günlük operasyon kayıtlarını tutar.",
+  "Recorder veri kayıt raporlarını takip eder ve inceler.",
+  "Hazırlanan veri kayıt raporlarının ilgililere aktarılmasını sağlar.",
+  "Ekipman arızalarına müdahale eder veya teknik ekibi yönlendirir.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-07T20:48:05",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5056
+  }
+ }
+}

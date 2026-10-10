@@ -1,0 +1,78 @@
+{
+ "arac_gerec": [
+  "Pancar kesme (kıyım) makineleri",
+  "Yedek ve değişim bıçak takımları",
+  "Bıçak bileme taşı/makinesi",
+  "Yağlama ekipmanları (yağdanlık, gres tabancası)",
+  "El aletleri (anahtar, tornavida, pense vb.)",
+  "Koruyucu eldiven, iş elbisesi ve çelik burunlu ayakkabı",
+  "Koruyucu gözlük ve varsa işitme koruyucu",
+  "Numune alma kapları",
+  "Ölçüm ve kontrol araçları (kumpas, cetvel vb.)",
+  "Temizlik malzemeleri (fırça, hortum, süpürge)",
+  "Makine bakım ve kontrol formları"
+ ],
+ "genel_ozellikler": [
+  "El ve beden becerisine sahip,",
+  "Dikkatli ve tedbirli,",
+  "Makine ve ekipman kullanımına yetenekli,",
+  "Fiziksel olarak güçlü ve dayanıklı,",
+  "Vardiyalı ve yoğun çalışma temposuna uyum sağlayabilen,",
+  "Sorumluluk sahibi,",
+  "Takım çalışmasına uyumlu,",
+  "İş sağlığı ve güvenliği kurallarına duyarlı"
+ ],
+ "gorevler": [
+  "Yıkanmış ve temizlenmiş şeker pancarını makineler yardımıyla standartlara uygun olarak kıyar.",
+  "Pancar kesme makinelerindeki körelen bıçakları değiştirir.",
+  "Körelerek kesim yapmayan bıçakları biler.",
+  "Makinelerdeki hareketli yerleri yağlar, yağ seviyelerini kontrol eder.",
+  "Belirli aralıklarla kıyım kalitesini kontrol eder.",
+  "Eksik olan malzemeleri tespit eder, temin edilmesini sağlar.",
+  "Pancar kıyımlarında değerlerin ölçülmesinde, pancar bıçaklarının ve difüzör cinsine göre gerekli kalitede kıyım alınıp alınmadığını kontrol eder.",
+  "Kıyım kalitesinin kontrolü için laboratuvarlara numune verir.",
+  "Periyodik olarak makinenin temizliğini ve bakımını yapar.",
+  "Atölyenin temizliğini yapar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "calisma_ortami": "\"Pancar bıçakçısı, şeker fabrikalarının üretim/kıyım atölyelerinde genellikle kapalı mekânlarda çalışır. Çalışma, şeker pancarının hasat edilip fabrikalara getirildiği kampanya dönemine (genellikle güz ve kış ayları) bağlı olduğundan büyük ölçüde mevsimlik ve vardiyalı niteliktedir; kampanya süresince uzun ve yoğun çalışma söz konusu olabilir.\\n\\nÇalışma ortamı nemli ve gürültülü olabilir; pancar kalıntıları ve toz nedeniyle hassasiyet gerektirir. Hareketli makine parçaları ve kesici bıçaklarla çalışılması nedeniyle iş kazası riski bulunur, bu nedenle koruyucu eldiven, gözlük ve iş elbisesi gibi kişisel koruyucu donanımların kullanılması ve iş güvenliği kurallarına tam uyulması önemlidir. Çalışma sırasında diğer makine operatörleri, bakım personeli, laboratuvar görevlileri ve atölye sorumlusu ile iş birliği içinde bulunur.\"",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin örgün/resmi bir eğitim programı bulunmamaktadır. Meslek genellikle şeker fabrikalarında işbaşında, deneyimli bir usta yanında çalışılarak öğrenilir. Ayrıca Halk Eğitim Merkezleri ve İşkur'un açtığı mesleki eğitim kursları ile ilgili temel bilgi ve beceriler kazandırılabilir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "18 yaşını doldurmuş olmak",
+   "İşin gerektirdiği fiziksel güce ve sağlık durumuna sahip olmak (sağlık raporu)"
+  ],
+  "sure_ve_icerik": "Mesleğe yönelik belirli bir süresi ve içeriği resmi olarak tanımlanmış bir eğitim programı bulunmamaktadır. Meslek genellikle fabrika bünyesinde işbaşı eğitimiyle kazanılır; bu süreçte pancar kesme makinelerinin çalışma prensipleri, bıçak değişimi ve bileme teknikleri, yağlama ve periyodik bakım işlemleri, kıyım kalitesinin kontrolü ve numune alma uygulamalı olarak öğretilir.",
+  "belge": "Örgün bir meslek eğitimi sonunda diploma verilmemektedir; çalışılan işyerinde kazanılan beceri ve deneyim esastır. Katılınan kurslardan (Halk Eğitim Merkezi, İŞKUR vb.) katılım/kurs bitirme belgesi alınabilir."
+ },
+ "calisma_alanlari": "\"Pancar bıçakçısı, kamuya veya özel sektöre bağlı şeker fabrikalarının üretim/kıyım bölümlerinde çalışır. İş imkânları, şeker pancarı yetiştiriciliğinin ve şeker fabrikalarının yoğun olduğu bölgelerle sınırlıdır ve çalışma genellikle pancar işleme kampanyası dönemine bağlı mevsimlik niteliktedir; bazı işletmelerde kampanya dışında bakım ve farklı üretim görevlerinde de çalışılabilmektedir.\"",
+ "kazanc": {
+  "egitim_suresince": "Mesleğe yönelik örgün ve belirli süreli bir eğitim programı bulunmadığından ayrı bir eğitim dönemi ücretinden söz edilemez; kişi genellikle fabrikada işe başladığı andan itibaren işçi statüsünde ücret alır.",
+  "egitim_sonrasi": [
+   "Şeker fabrikalarında genellikle işçi statüsünde çalışılır; ücret, ilgili toplu iş sözleşmesi hükümlerine ve işletme uygulamalarına göre belirlenir.",
+   "Kazanç; çalışılan işletmenin büyüklüğü, kişinin deneyimi, çalışma süresi (mevsimlik/sürekli) ve sektördeki ücret düzeyine göre farklılık gösterebilir.",
+   "Yeni başlayanlarda kazanç genellikle asgari ücret düzeyindedir, deneyim arttıkça yükselebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğe yönelik örgün bir ilerleme basamağı (kalfalık/ustalık gibi) bulunmamaktadır. İsteyenler, yetişkinlere yönelik mesleki eğitim kurslarına katılarak veya gıda teknolojisi alanındaki mesleki ve teknik eğitim programlarını tamamlayarak bilgi ve becerilerini geliştirebilir.",
+  "is_hayatinda": "Deneyim kazandıkça usta pancar bıçakçılığı, vardiya/ekip sorumluluğu veya fabrika içindeki ilgili diğer makine operatörlüğü (örneğin difüzör operatörlüğü) gibi görevlere geçiş yapabilir; bakım ve üretim alanlarında kademeli olarak ilerleyebilir."
+ },
+ "benzer_meslekler": [
+  "Difüzör Operatörü (Şeker Pancarı)",
+  "Filtreci (Şeker İmalatı)",
+  "Karbonizasyon İşçisi (Şeker Tasfiyesi)",
+  "Kristalizasyon Makinesi Operatörü (Şeker Tasfiyesi)",
+  "Diğer Şeker Muamele ve Tasfiye İşçileri"
+ ],
+ "ek_bilgiler": "\"Mesleğin çalışma takvimi, şeker pancarının hasat edilip fabrikalara işlenmek üzere getirildiği kampanya dönemine (genellikle eylül-ocak/şubat ayları arası) bağlı olduğundan, çalışma büyük ölçüde mevsimlik niteliktedir.\"",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T15:34:22",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6317
+  }
+ }
+}

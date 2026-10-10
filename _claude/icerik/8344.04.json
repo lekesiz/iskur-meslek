@@ -1,0 +1,80 @@
+{
+ "gorevler": [
+  "Günlük olarak transpaletin temizliğini yapar.",
+  "Transpaletin hidrolik, tekerlek, çatal vb. elemanlarının kontrollerini yapar.",
+  "Transpaleti yüklenecek malların bulundukları yere taşır.",
+  "Çatallar alçak pozisyondayken çatalları kaldırılacak yükün altına yerleştirir.",
+  "Çatalları kaldırmadan önce yükün çatallara tamamen ve dengeli bir şekilde oturmasını sağlar.",
+  "Yükü mümkün olduğunca çatallara ortalamaya dikkat eder.",
+  "Çatalları yukarı kaldırır, yükü yerden yeterli miktarda kaldırır ve transpaleti hareket ettirir.",
+  "Uygun olmayan veya aşırı ağırlıktaki yükleri transpaletle taşımaz.",
+  "Yükü uygun düz bir zemin üzerine güvenlik önlemlerine dikkat ederek indirir.",
+  "Eğimli zeminlerde transpaletin kendiliğinden hareket etmemesi için tekerlerini sabitler.",
+  "Gerekli bakım ve onarımların yapılmasını sağlar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "arac_gerec": [
+  "Manuel (el ile itilen) transpalet",
+  "Akülü (elektrikli) transpalet",
+  "Şarj cihazı ve akü bakım malzemeleri (akülü transpalette)",
+  "Çelik burunlu iş ayakkabısı/bot",
+  "İş eldiveni",
+  "Reflektörlü/görünürlüğü artıran yelek",
+  "Baret (gerekli ortamlarda)",
+  "Palet ve farklı tip yük taşıma kapları",
+  "Sipariş fişi, barkod okuyucu veya el terminali",
+  "Temel bakım anahtar takımı",
+  "Yağlama malzemeleri",
+  "İlkyardım çantası",
+  "Yangın söndürme cihazı"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve tedbirli,",
+  "El ve göz koordinasyonu gelişmiş,",
+  "Fiziksel olarak dayanıklı,",
+  "Sorumluluk sahibi,",
+  "Kurallara ve talimatlara uyan,",
+  "Takım çalışmasına uygun,",
+  "Düzenli ve planlı çalışabilen"
+ ],
+ "calisma_ortami": "Transpalet operatörleri genellikle depo, antrepo, fabrika, lojistik ve dağıtım merkezi gibi kapalı alanlarda çalışır; yükleme-boşaltma rampaları gibi yarı açık alanlarda da görev yapabilirler. Soğuk hava deposu gibi düşük sıcaklıktaki ortamlarda çalışma gerekebilir; iş genellikle ayakta ve hareketli geçer, tekrarlı hareketler ve yük kaldırma-taşıma nedeniyle fiziksel yorgunluk söz konusu olabilir. Çalışma saatleri işyerinin faaliyetine göre düzenli olabileceği gibi vardiyalı da olabilir.\n\nÇalışma sırasında depo sorumluları, sevkiyat görevlileri, şoförler ve diğer depo çalışanlarıyla sürekli iletişim halinde olunur. İş güvenliği kurallarına uyum, özellikle yoğun ve dar alanlarda çalışırken çarpma, düşme ve sıkışma risklerine karşı önemlidir.",
+ "egitim": {
+  "verildigi_yerler": "Transpalet operatörlüğü için örgün eğitimde ayrı bir okul programı bulunmamaktadır. Mesleğin bilgi ve becerileri genellikle işyerlerinde işbaşında usta yanında, İŞKUR'un açtığı mesleki eğitim kurslarında, Halk Eğitim Merkezlerinde veya özel kurs merkezlerinde düzenlenen kısa süreli uygulamalı kurslarla kazandırılır. Akülü/motorlu transpalet kullanımı için bazı özel kurs merkezlerinde iş makineleri kullanımı ve iş sağlığı-güvenliği içerikli eğitimler verilebilmektedir.",
+  "giris_kosullari": [
+   "En az ilkokul/ilköğretim mezunu olmak",
+   "18 yaşını doldurmuş olmak",
+   "Mesleği yapmaya engel bir sağlık sorunu bulunmamak",
+   "Fiziksel olarak uygun ve hareketli çalışmaya engeli olmamak"
+  ],
+  "sure_ve_icerik": "Kurs süreleri, kurumuna ve kapsamına göre değişmekle birlikte genellikle kısa süreli (birkaç gün ile birkaç hafta arası) uygulamalı eğitimlerdir. Eğitimde transpaletin yapısı ve çalışma prensibi, günlük kontrol ve temizlik işlemleri, yük alma-taşıma-istifleme teknikleri, iş sağlığı ve güvenliği kuralları, temel bakım bilgisi gibi konular işlenir.",
+  "belge": "Kursu tamamlayanlara katılım belgesi veya kurs bitirme/başarı belgesi verilir. Bazı kurumlarca açılan iş makinesi kullanım kurslarında operatörlük/kullanım sertifikası düzenlenebilir. Mesleki Yeterlilik Kurumu (MYK) belgesine sahip olmak, iş başvurularında tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Transpalet operatörleri; depolar, antrepolar, fabrikalar, lojistik ve dağıtım merkezleri, süpermarket/hipermarket depoları, limanlar, üretim ve montaj tesisleri gibi malzeme giriş-çıkış ve istifleme işlemlerinin yapıldığı özel ve kamu işyerlerinde çalışabilirler. E-ticaret ve lojistik sektörünün büyümesiyle depo içi malzeme taşıma personeline olan talep genel olarak sürmektedir.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğin işbaşında veya kısa süreli kurslarla öğrenilmesi nedeniyle genellikle ayrı bir eğitim ücreti ya da eğitim süresince düzenli bir kazanç söz konusu değildir; İŞKUR kursu kapsamında kursiyerlere mevzuata göre bir kursiyer harçlığı ödenebilir.",
+  "egitim_sonrasi": [
+   "Kamu kurum ve kuruluşlarında işçi statüsünde çalışanlar, tabi oldukları toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar; işyerinin büyüklüğü, kişinin deneyimi ve sektörün ücret düzeyine göre bu kazanç artabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Transpalet operatörlüğü için ayrı bir örgün mesleki eğitim kademeleri ilerlemesi bulunmamaktadır; kişiler ilgi ve isteklerine göre forklift, reachtruck gibi diğer iş makineleri operatörlüğü kurslarına katılarak bilgi ve becerilerini geliştirebilirler.",
+  "is_hayatinda": "Deneyim kazanan transpalet operatörleri forklift operatörlüğü, reachtruck (yan forklift) operatörlüğü gibi daha kapsamlı iş makinelerinin kullanımına geçebilir, depo sorumlusu veya depo şefliği gibi görevlere ilerleyebilirler."
+ },
+ "benzer_meslekler": [
+  "Forklift Operatörü",
+  "Yan Forklift (Reachtruck) Operatörü",
+  "Liman Saha İstif Makineleri Operatörü (CRS ve ECS)",
+  "Endüstriyel Taşımacı",
+  "Diğer Malzeme Taşıma Makinesi Operatörleri"
+ ],
+ "ek_bilgiler": "Özellikle akülü/motorlu transpaletlerin kullanıldığı işyerlerinde iş sağlığı ve güvenliği eğitimi almış olmak önemlidir; bazı işyerleri bu konuda ek sertifika veya işbaşı eğitimi talep edebilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T19:04:56",
+  "usage": {
+   "input_tokens": 4,
+   "output_tokens": 8133
+  }
+ }
+}

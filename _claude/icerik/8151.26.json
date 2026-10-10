@@ -1,0 +1,86 @@
+{
+ "arac_gerec": [
+  "Bobin makinesi",
+  "Kops kazanı",
+  "Kops (iplik sarılı masura)",
+  "Bobin (boş/dolu masura)",
+  "Parafin",
+  "Trey (taşıma paleti)",
+  "Rezerve çözücü cihaz",
+  "İplik ucu bulma/geçirme cihazı",
+  "Dofer cihazı",
+  "Biriktirme kovası",
+  "Üretim/bilgi kartı veya takip formu",
+  "Kişisel koruyucu donanım (eldiven, kulaklık, iş elbisesi)"
+ ],
+ "benzer_meslekler": [
+  "Bobin-Katlama-Büküm Makine Operatörü",
+  "Bobin Kırıcı-İplik",
+  "Bobin Sarıcı (Mensucat)",
+  "Vater-Bobin Makinesi Operatörü",
+  "Elyaf Sarıcı",
+  "Çile Makinesi İşçisi"
+ ],
+ "calisma_alanlari": "Bobin Makinesi Operatörleri, iplik üretimi yapan tekstil fabrikaları ile iplik büküm, katlama ve sarım tesislerinin bobin dairelerinde istihdam edilir. Mesleğin kamu kurumlarında istihdam olanağı bulunmamaktadır. Tekstil ve iplik sanayinin yoğun olduğu illerde (Denizli, Bursa, Kahramanmaraş, Gaziantep, Kayseri, İstanbul ve çevresi gibi) iş bulma olanağı diğer bölgelere göre daha fazladır. Sektördeki üretim hacmine ve sipariş yoğunluğuna bağlı olarak istihdamda dönemsel dalgalanmalar yaşanabilir.",
+ "calisma_ortami": "Bobin Makinesi Operatörleri, iplik fabrikalarının bobin/sarım dairelerinde kapalı mekanda çalışır. Çalışma ortamı makine gürültüsü nedeniyle yüksek seslidir; havalandırması yetersiz işyerlerinde ortam hava lif tozuyla yüklü olabilir, sıcaklık ve nem oranı üretim sürecine göre değişebilir. Görev genellikle ayakta ve makineler arasında hareket halinde sürdürülür, çalışma tam gün esasına dayanır ve işletmenin üretim düzenine bağlı olarak vardiyalı (gece dâhil) çalışma söz konusu olabilir.\n\nOperatör, çalışma süresince ağırlıklı olarak makine ve iplik malzemesiyle ilgilenir; zaman zaman vardiya arkadaşları, bakım-onarım personeli ve vardiya/bölüm sorumlusuyla iletişim kurar.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin örgün eğitime dayalı, diploma veren bağımsız bir yükseköğretim veya ortaöğretim programı bulunmamaktadır. Mesleğin eğitimi genellikle işyerlerinde işbaşında, usta yanında uygulamalı olarak verilmektedir. Ayrıca Halk Eğitim Merkezleri ve İŞKUR tarafından açılan tekstil/iplik üretimi alanındaki mesleki eğitim kurslarında da bilgi ve beceri kazandırılabilmektedir. Mesleki ve teknik ortaöğretim kurumlarının tekstil teknolojisi alanı, mesleğe temel oluşturabilecek ilgili bir eğitim sunmaktadır.",
+  "giris_kosullari": [
+   "En az ilköğretim (ilkokul/ortaokul) diploması",
+   "Fiziksel olarak ayakta ve vardiyalı çalışmaya uygun olmak",
+   "İşe alınacak işyerinin belirlediği yaş ve sağlık koşullarını taşımak",
+   "Kurslara katılımda ilgili kurumun (Halk Eğitim Merkezi/İŞKUR) belirlediği genel şartları karşılamak"
+  ],
+  "sure_ve_icerik": "İşletme içi eğitimlerin süresi işyerine ve öğrenilecek makine tipine göre değişmekle birlikte genellikle birkaç haftadan birkaç aya kadar sürmektedir. Eğitimde bobin makinesinin tanıtımı ve çalışma prensibi, kops-bobin kavramları, parafinleme işlemi, makineye kops yerleştirme, iplik ucu takibi ve bağlama, basit arıza tespiti, ürün kalite kontrolü ile iş sağlığı ve güvenliği konuları yer almaktadır.",
+  "belge": "İşletme içi uygulamalı eğitimin sonunda genellikle resmî bir diploma verilmemektedir; işyeri tarafından düzenlenen bir çalışma/yeterlilik belgesi ya da katılınan kurslardan kurs bitirme belgesi alınabilir. Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "ek_bilgiler": "Mesleğin icrası için yasal bir ruhsat veya özel bir sertifika zorunluluğu bulunmamaktadır. Tekstil sektöründeki üretim hacmine bağlı olarak istihdam talebi zaman zaman değişiklik gösterebilir.",
+ "genel_ozellikler": [
+  "El ve göz koordinasyonu gelişmiş,",
+  "Dikkatli ve tetikte olan,",
+  "El becerisi gelişmiş,",
+  "Tekrarlı işlerde uzun süre dikkatini sürdürebilen,",
+  "Fiziksel olarak dayanıklı,",
+  "Makine ve teknik aletlere ilgili,",
+  "Ekip çalışmasına uyumlu,",
+  "Sorumluluk sahibi"
+ ],
+ "gorevler": [
+  "Bobin makinelerini çalıştırmadan önce kontrol eder,",
+  "Bobin makinesinde takılı parafinleri kontrol ederek kalınlığı 0,5 cm'den az olanları çıkarıp yenileriyle değiştirir,",
+  "Çalıştırma butonuna basarak makineyi çalıştırır,",
+  "Ürün tipi ve kullanılacak malzemeleri tespit eder, eksik olanları getirtir,",
+  "Kopsların bulunduğu kops kazanını eliyle makinenin kazan alma paletine yerleştirir,",
+  "Makineyi çalışır durumda teslim almışsa, bilgi kartına göre üretimin yapılıp yapılmadığını kontrol eder,",
+  "Makineye kazanlardan gelen ve iletme bandı ile titreme tamburuna ulaşan kopsları takip eder ve izler,",
+  "Trey üzerine yerleşen kopsların sırasıyla, rezerve çözücü cihazda rezervelerin sökülme işlemine, kops iplik ucunu kops masura deliğine sokan cihazda masura deliğine geçmesine nezaret eder,",
+  "İplik ucu geçiren cihazın kopsu okumaması durumunda kontrol ederek iplik ucu bulunan kopsları titreme tamburuna elle takar,",
+  "Yönlendirme raylarında hareket eden treylerdeki kopsların iğlere ulaşmasını kontrol eder,",
+  "İğlerin üstünde bulunan ikaz lambalarının yanması halinde o iğnin bulunduğu yere giderek iplik ucu bulunamamışsa bulunmasını sağlar ve sarım işlemini yeniden başlatır,",
+  "Yarı haldeki bobini yuvasından çıkarıp dofer cihazı tarafından yeni patron takılmasını ve rezerve sarımının başlatılmasını sağlar,",
+  "Üretimden çıkan yarım artık kopsları sıyırma odasına, biten kopsları biriktirme kovasına alarak ilgililere teslim eder,",
+  "Makine arızalarını ilgililere bildirir,",
+  "Çalışma ortamının temizlik ve düzenini sağlar,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "İşletmenin yapısına ve büyüklüğüne bağlı olarak, operatörlere üretimin farklı kademelerine (büküm, katlama, sarım vb.) ilişkin hizmet içi eğitim programları düzenlenebilmekte; bu sayede farklı makine tiplerinde uzmanlaşma sağlanabilmektedir.",
+  "is_hayatinda": "Deneyim kazanan Bobin Makinesi Operatörleri, çalıştıkları işyerinde vardiya sorumlusu, usta veya bölüm şefi olarak görevlendirilebilir. İlgi ve yetenekleri doğrultusunda makine bakım-onarım/ayar teknisyenliği gibi görevlere yönelebilirler."
+ },
+ "kazanc": {
+  "egitim_suresince": "İşbaşında uygulanan eğitim/staj döneminde işletme tarafından genellikle asgari ücret düzeyinde bir ödeme yapılabilir; Halk Eğitim Merkezi veya İŞKUR kurslarında ise kursiyerlere herhangi bir ücret ödenmemektedir.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlamaktadır.",
+   "Deneyim, vardiya düzeni ve işletmenin büyüklüğüne bağlı olarak ücret düzeyi artabilmektedir.",
+   "Özel sektörde çalışanların ücreti işveren ile yapılan anlaşmaya göre belirlenirken, işçi statüsünde çalışanlar ilgili toplu iş sözleşmesi hükümlerine göre ücret almaktadır."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T13:29:12",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6555
+  }
+ }
+}

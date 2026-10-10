@@ -1,0 +1,79 @@
+{
+ "arac_gerec": [
+  "Kazan kontrol tabloları ve panoları",
+  "Kontrol düğmeleri, anahtarlar ve regülatörler",
+  "Su ve vakum pompaları",
+  "Kömür kurutucuları ve püskürtücüleri",
+  "Buhar kondansatörleri",
+  "Kurum (kazan içi kül/kurum) üfleyicileri",
+  "Basınç, sıcaklık ve seviye göstergeleri",
+  "Jeneratör şarj ve senkronizasyon göstergeleri",
+  "SCADA/DCS tipi bilgisayarlı izleme ve kontrol sistemleri",
+  "Haberleşme cihazları (telsiz, interkom, telefon)",
+  "Arıza kayıt defteri veya bilgisayar kayıt sistemi",
+  "Temel ölçüm aletleri (manometre, termometre, akım-voltaj ölçer)",
+  "Temel el aletleri (tornavida, pense, anahtar takımı)",
+  "Kişisel koruyucu donanım (baret, kulaklık, koruyucu gözlük, iş elbisesi, eldiven, çelik burunlu ayakkabı, gerektiğinde gaz/toz maskesi)"
+ ],
+ "benzer_meslekler": [
+  "Termik Santral Elektrik İşletme Operatörü",
+  "Termik Santral Türbin İşletme Operatörü",
+  "Termik Santral Saha Operatörü",
+  "Termik Santral Kumanda Operatörü",
+  "Termik Santral Kazan Bakımcısı",
+  "Hidroelektrik Santral Operatörü"
+ ],
+ "calisma_alanlari": "Termik Santral Kazan İşletme Operatörleri, kömür, fuel-oil, doğalgaz gibi yakıtlarla elektrik üreten termik santrallerin kazan dairelerinde ve bu dairelere bağlı kontrol odalarında çalışır. Kamuya veya özel sektöre ait elektrik üretim şirketlerinde istihdam edilirler.\\n\\nBu meslekte iş bulma olanağı, ülkedeki termik santral sayısına, bu santrallerin bulunduğu bölgelere ve kapasite kullanım oranlarına bağlı olarak değişmektedir. Termik santrallerin genellikle belirli bölgelerde yoğunlaşması nedeniyle istihdam, büyük ölçüde bu santrallerin kurulu olduğu illerde ve çevresinde yoğunlaşmaktadır. Enerji politikalarındaki değişimler ve yenilenebilir enerjiye geçiş süreci, orta ve uzun vadede bu meslekteki istihdam olanaklarını etkileyebilir.",
+ "calisma_ortami": "Termik Santral Kazan İşletme Operatörleri, santralin kazan dairesinde, kontrol odasında ve gerektiğinde saha içinde çalışır. Çalışma ortamında yüksek sıcaklık, gürültü, buhar, kömür tozu ve kurum gibi fiziksel etkenler bulunabilir; basınçlı buhar sistemleri ve elektrik tesisatı nedeniyle yanık, buhar kaçağı ve elektrik çarpması gibi iş kazası riskleri vardır. Bu nedenle iş sağlığı ve güvenliği kurallarına, kişisel koruyucu donanım kullanımına titizlikle uyulması gerekir.\\n\\nSantraller 24 saat kesintisiz işletildiğinden çalışma genellikle vardiya sistemiyle (gündüz-gece) yürütülür. Operatörler; aynı vardiyada görevli diğer operatörler, türbin işletme operatörleri, bakım ekipleri ve vardiya amirleriyle sürekli iletişim ve koordinasyon içinde çalışır.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğe doğrudan yönelik, adı bu mesleğe özgü bir ortaöğretim alanı/dalı bulunmamaktadır. Mesleğe genellikle, mesleki ve teknik ortaöğretim kurumlarının elektrik-elektronik teknolojisi, makine teknolojisi veya enerji ile ilgili alanlarından mezun olduktan sonra, işe girilen santralde usta/kıdemli operatör nezaretinde uygulamalı olarak yetişme yoluyla girilmektedir. Bazı üniversitelerin meslek yüksekokullarında yer alan enerji tesisleri işletmeciliği ile ilgili ön lisans programları da mesleğe hazırlayıcı niteliktedir. Ayrıca Halk Eğitim Merkezleri ile İŞKUR'un açtığı mesleki eğitim kursları, mesleğe yönelik temel bilgi ve beceri kazandırabilmektedir.",
+  "giris_kosullari": [
+   "En az ortaöğretim (lise ve dengi okul) mezunu olmak",
+   "Tercihen elektrik-elektronik, makine veya enerji ile ilgili bir teknik alandan mezun olmak",
+   "İlgili ön lisans programlarına girmek isteyenlerin YKS sınavına girip yeterli puanı almış olmaları"
+  ],
+  "sure_ve_icerik": "Ortaöğretim düzeyinde ilgili teknik alanlardan mezun olanlar, işe başladıktan sonra işletmenin düzenlediği teorik ve uygulamalı eğitimlerle, kıdemli operatör nezaretinde belirli bir süre işbaşı eğitimi/staj görerek kazanın su-buhar sistemi, hava-gaz sistemi ve elektrofiltre sisteminin işletilmesine ilişkin bilgi ve becerileri kazanır. Üniversitelerin enerji tesisleri işletmeciliği benzeri ön lisans programları ise genellikle 2 yıl (4 yarıyıl) sürmekte, teorik derslerin yanında işletmelerde uygulamalı eğitim de içermektedir.",
+  "belge": "Ortaöğretim diploması veya ilgili ön lisans diploması esastır; bunun yanında işletme içi eğitimi tamamlayanlara kurum tarafından düzenlenen katılım veya yeterlilik belgesi verilebilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "ek_bilgiler": "Kazan dairesinde yüksek basınçlı buhar sistemleri ve sıcak yüzeylerle çalışılması nedeniyle bu meslekte bazı görevler tehlikeli/çok tehlikeli işler kapsamında değerlendirilebilmektedir; bu durum periyodik sağlık muayenesi, düzenli iş güvenliği eğitimi ve kişisel koruyucu donanım kullanımını önemli kılmaktadır. Enerji politikalarındaki değişim ve yenilenebilir enerjiye geçiş süreci, orta-uzun vadede termik santrallerdeki istihdamı etkileyebilir.",
+ "genel_ozellikler": [
+  "Dikkatli ve tedbirli olan",
+  "Sorumluluk sahibi ve güvenilir olan",
+  "Acil ve stresli durumlarda soğukkanlı kalabilen",
+  "Ekip çalışmasına uyumlu olan",
+  "Göstergeleri ve kontrol panellerini doğru okuyup yorumlayabilen",
+  "Teknik konulara ve makinelere ilgili olan",
+  "Vardiyalı çalışma düzenine uyum sağlayabilen",
+  "Fiziksel ve zihinsel olarak sağlıklı olan"
+ ],
+ "gorevler": [
+  "Kontrol tablosunu kontrol eder.",
+  "Teçhizatı ve işlemle ilgili kontrol düğmelerini ayarlar.",
+  "Su ve vakum pompaları, kömür kurutucuları ve püskürtücüleri, buhar kondansatörleri ve kurum üfleyicileri gibi kazana bağlı teçhizatla ilgili işlemleri kontrol eder.",
+  "Türbinlere verilen buhar miktarını azaltmak veya çoğaltmak üzere kazanda gerekli ayarları yapar.",
+  "Devreye girecek elektrojen ünitelerini, işlemde olan ünitelerle senkronize eder.",
+  "İlgili teçhizat üzerinde jeneratör şarjlarını tespit etmek üzere göstergeleri izler.",
+  "Teçhizatta meydana gelen arızaları kaydeder.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Ön lisans düzeyinde enerji tesisleri işletmeciliği benzeri programlardan mezun olanlar, Dikey Geçiş Sınavı (DGS) ile enerji sistemleri mühendisliği, elektrik-elektronik mühendisliği veya makine mühendisliği gibi lisans programlarına geçiş yapabilirler.",
+  "is_hayatinda": "Deneyim ve kıdem kazandıkça vardiya amirliği, kazan dairesi sorumluluğu, baş operatörlük gibi görevlere yükselebilir; ileri eğitim ve sertifikalarla işletme müdür yardımcılığı gibi daha üst pozisyonlara ulaşabilirler."
+ },
+ "kazanc": {
+  "egitim_suresince": "Mesleğe işletme içi eğitim/staj yoluyla girenlere, çalıştıkları işletmenin uygulamalarına göre ücret ödenebilir; 3308 sayılı Mesleki Eğitim Kanunu kapsamında eğitim görenlere, yasal asgari ücretin belirli bir yüzdesinden az olmamak üzere ödeme yapılır ve iş kazası-meslek hastalığı sigorta primleri devletçe karşılanır.",
+  "egitim_sonrasi": [
+   "İlk işe başlayanlarda ücret genellikle asgari ücret düzeyindedir.",
+   "Kamu kuruluşlarında çalışanlar için ücret, memur statüsünde 657 sayılı Devlet Memurları Kanunu'na, işçi statüsünde ise ilgili toplu iş sözleşmesi hükümlerine göre belirlenir.",
+   "Özel sektörde ücret, işletmenin büyüklüğü, çalışanın deneyimi ve kıdemine bağlı olarak değişebilir ve asgari ücretin üzerine çıkabilir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T10:40:07",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 7334
+  }
+ }
+}

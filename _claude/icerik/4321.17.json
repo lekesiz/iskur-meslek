@@ -1,0 +1,82 @@
+{
+ "arac_gerec": [
+  "Kayıt defterleri ve stok takip formları",
+  "Bilgisayar ve stok/depo takip yazılım programları",
+  "Statik elektrik boşaltma (topraklama) aparatı",
+  "Kıvılcım çıkarmayan pirinç veya bakır el aletleri",
+  "Uyarı ve ikaz levhaları",
+  "Tartı ve ölçüm aletleri",
+  "El arabası, transpalet gibi taşıma ekipmanları",
+  "Yangın söndürme tüpleri ve yangın algılama sistemleri",
+  "Kişisel koruyucu donanım (eldiven, koruyucu ayakkabı, koruyucu kıyafet)",
+  "Ortam sıcaklık ve nem ölçüm cihazları",
+  "Kilit ve güvenlik sistemleri",
+  "Teslim-tesellüm/imza tutanak formları"
+ ],
+ "benzer_meslekler": [
+  "Depo Sorumlusu",
+  "Ambar Sorumlusu",
+  "Ambar ve Antrepo Şefi",
+  "Patlayıcı Madde Ambarcısı",
+  "Ambar/Depo Görevlisi",
+  "Diğer Stok Memurları"
+ ],
+ "calisma_alanlari": "Depo Görevlisi (Tehlikeli Madde), yanıcı, patlayıcı ve tutuşucu maddelerin üretildiği, kullanıldığı veya depolandığı her türlü işletmede görev alabilir. Başlıca çalışma alanları; maden ve taş ocakları, patlayıcı madde üretim tesisleri, inşaat ve yol yapım firmalarının depoları, savunma sanayii kuruluşları, askeri birimler ve depolar, kimya sanayi işletmeleri ile akaryakıt ve LPG depolama tesisleridir. Bu işletmelerde kamu kurumlarına bağlı birimlerde veya özel sektöre ait tesislerde istihdam edilebilirler. İş olanakları, tehlikeli madde kullanan sektörlerin faaliyet yoğunluğuna bağlı olarak değişkenlik gösterir.",
+ "calisma_ortami": "Depo Görevlisi (Tehlikeli Madde), genellikle yanıcı, patlayıcı veya tutuşucu maddelerin muhafaza edildiği özel yapıdaki kapalı depolarda çalışır. Çalışma ortamı sıkı güvenlik önlemlerine tabidir; statik elektrik, kıvılcım ve yangın riski nedeniyle giyim, kullanılan araç-gereç ve hareket tarzı önceden belirlenmiş kurallara göre düzenlenir. Depo sıcaklığının ve nem oranının sürekli kontrol altında tutulması gerekebilir. İşin niteliği gereği dikkat dağınıklığına yer olmayan, disiplinli ve kurallara sıkı sıkıya bağlı bir çalışma temposu söz konusudur.\n\nÇalışma saatleri işyerinin faaliyet düzenine göre gündüz mesaisi şeklinde olabileceği gibi vardiyalı olarak da düzenlenebilir. Görevini yürütürken depo sorumluları, ateşleyiciler, güvenlik görevlileri, iş güvenliği uzmanları ve denetim yetkilileriyle iş birliği içinde çalışır.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi için örgün öğretimde ayrı bir meslek lisesi alanı veya dalı bulunmamaktadır. Eğitim genellikle işbaşında, usta veya deneyimli bir depo görevlisi gözetiminde uygulamalı olarak kazanılır. Ayrıca Halk Eğitim Merkezleri, İŞKUR'un açtığı mesleki eğitim kursları ile işyerlerinin düzenlediği tehlikeli/patlayıcı madde depolama, iş güvenliği ve yangın önleme konulu kurslardan da bu alanda bilgi ve beceri kazanılabilir.",
+  "giris_kosullari": [
+   "İlköğretim mezunu olmak",
+   "18 yaşını doldurmuş olmak",
+   "Sağlık durumunun tehlikeli madde depolarında çalışmaya elverişli olması"
+  ],
+  "sure_ve_icerik": "Mesleğin standart bir eğitim süresi ve müfredatı bulunmamaktadır. Bilgi ve beceri, işyerinde usta veya sorumlu personel nezaretinde uygulamalı olarak zaman içinde kazanılır. Bunun yanında statik elektrikten korunma, tehlikeli madde taşıma ve istifleme kuralları, uyarı işaretleri, yangın önleme, ilkyardım ve iş sağlığı-güvenliği konularında kısa süreli kurslar ve işyeri içi eğitimler verilir.",
+  "belge": "İşyeri içi veya kurs sonunda katılım/kurs bitirme belgesi verilebilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, özellikle tehlikeli işler kapsamında değerlendirilebilecek bu meslekte istihdamda tercih sebebi olabilir."
+ },
+ "ek_bilgiler": "Tehlikeli madde depolarında çalışma, iş sağlığı ve güvenliği mevzuatı çerçevesinde tehlikeli veya çok tehlikeli işler kapsamında değerlendirilebilir. Bu nedenle işe girişte ve çalışma süresince periyodik sağlık muayeneleri ile iş güvenliği eğitimlerine katılım işveren tarafından istenebilir. Depoda statik elektrikten arındırma, kıvılcım çıkarmayan araç kullanımı ve çivisiz/lastik tabanlı ayakkabı giyilmesi gibi özel güvenlik kurallarına kesin uyulması gerekir.",
+ "genel_ozellikler": [
+  "Dikkatli ve tedbirli,",
+  "Sorumluluk sahibi ve güvenilir,",
+  "Kurallara ve talimatlara titizlikle uyan,",
+  "Fiziksel olarak sağlıklı ve dayanıklı,",
+  "Düzenli ve sistemli çalışabilen,",
+  "Kayıt tutma ve hesap işlerine yatkın,",
+  "Riskli ortamlarda sakin ve temkinli davranabilen,",
+  "Takım çalışmasına uyumlu"
+ ],
+ "gorevler": [
+  "Vardiya başında vücudundaki statik elektriği boşaltır, kayıt defterlerini inceler, işi teslim alır.",
+  "Depoya gelen tehlikeli maddeleri sayarak teslim alır, depoya taşır, istifler, kaydını tutar.",
+  "Yetkililer tarafından tehlikeli madde almakla görevlendirilen ateşleyicilerin statik elektrik yükünden arınmalarını sağlar.",
+  "Ateşleyicilere belirtilen miktarda tehlikeli maddeyi özel ceplerde imza karşılığında teslim eder.",
+  "Kullanımdan arta kalan tehlikeli maddeyi ateşleyicilerden teslim alır, kaydını tutar.",
+  "Kullanım özelliğini kaybetmiş tehlikeli maddelerin tespit edilmesi halinde ilgililere haber verir.",
+  "Tehlikeli madde deposunda bulunması gereken uyarı levhalarını kontrol eder, eksikliği halinde ilgililere haber verir, teminini sağlar.",
+  "Deponun çevresinde yangına neden olacak maddelerin bulunmamasını sağlar.",
+  "Depo ısısının belirlenen düzeyde tutulmasını sağlar.",
+  "Depo içinde talimatlarla belirlenen malzeme ve aletlerin dışında hiçbir malzeme bulundurmaz.",
+  "Ambalajları sadece pirinç veya bakır alet kullanarak açar, depoda çivisiz veya lastik ayakkabı giyilmesini sağlar.",
+  "İmhasına karar verilen tehlikeli maddeleri ayrı bir bölüme alır, imha işleminde ekiple birlikte çalışır.",
+  "Deponun temizliğini ve düzenini sağlar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Depo Görevlisi (Tehlikeli Madde), iş sağlığı ve güvenliği, patlayıcı/tehlikeli madde yönetimi ve depo yönetimi konularında düzenlenen kurs ve sertifika programlarına katılarak bilgi ve becerisini geliştirebilir.",
+  "is_hayatinda": "Deneyim kazandıkça depo sorumlusu, ambar/depo şefi gibi görevlere veya ilgili eğitimleri tamamlaması halinde iş güvenliği uzmanlığı gibi alanlara yönelebilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "İşbaşında eğitim alan kişi, çalıştığı işyerinin belirlediği ücretle istihdam edilir; bu ücret genellikle asgari ücret düzeyindedir.",
+  "egitim_sonrasi": [
+   "Kamu kurum ve kuruluşlarında çalışanlar, statülerine göre 657 sayılı Devlet Memurları Kanunu veya işçi statüsündeyse ilgili toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde ücret, işyerinin büyüklüğü, çalışılan sektör ve kişinin deneyimine göre değişiklik gösterir; yeni başlayanlar genellikle asgari ücret düzeyinde ücret alır."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T16:22:27",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6249
+  }
+ }
+}

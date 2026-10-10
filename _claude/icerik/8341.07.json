@@ -1,0 +1,80 @@
+{
+ "arac_gerec": [
+  "Sabit veya seyyar pancar boşaltma makinesi",
+  "Hidrolik kaldırma (transport/devirme) platformu",
+  "Tarak sistemi ve atık ayırma düzenekleri",
+  "Gres tabancası ve yağdanlıklar",
+  "Yıldız ve çift ağızlı anahtar takımı, tornavida, pense gibi el aletleri",
+  "Yakıt ve yağ ikmal ekipmanları",
+  "Koruyucu eldiven, iş elbisesi ve çelik burunlu iş botu",
+  "Toz/koruyucu gözlük ve kulak koruyucu",
+  "Telsiz veya benzeri iletişim cihazı",
+  "Uyarı/işaret levhaları ve emniyet şeritleri"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve tedbirli,",
+  "Sorumluluk sahibi,",
+  "Fiziksel olarak dayanıklı,",
+  "El, göz ve ayak koordinasyonunu birlikte kullanabilen,",
+  "Makine ve mekanik sistemlere ilgi duyan,",
+  "Açık havada ve değişken koşullarda çalışmaya uygun,",
+  "Takım halinde çalışmaya istekli,",
+  "Hızlı ve doğru karar verebilen,"
+ ],
+ "calisma_ortami": "Pancar Boşaltma Operatörü, şeker fabrikalarının pancar kabul ve boşaltma sahalarında çalışır. Çalışma alanı genellikle açık havada veya üstü kapalı ancak yanları açık tesislerdedir; toz, gürültü, soğuk hava ve nem gibi olumsuz hava koşullarına maruz kalınabilir. Faaliyet, şeker pancarı hasat ve işleme döneminde (kampanya dönemi) yoğunlaşır; bu dönemde uzun saatler ve vardiyalı çalışma düzeni söz konusu olabilir.\n\nÇalışma sırasında ağır araç ve makine trafiğinin bulunduğu bir sahada hareket edildiğinden iş kazası riskine karşı sürekli dikkatli olunması gerekir. Operatör; pancar taşıyan araç sürücüleri, saha amirleri, makine bakım ve yağlama görevlileri ile sürekli iletişim halindedir.",
+ "calisma_alanlari": "Pancar Boşaltma Operatörleri başlıca şeker fabrikalarının (kamuya veya özel sektöre ait) pancar kabul ve boşaltma ünitelerinde istihdam edilir. İş, şeker pancarı hasat ve işleme sezonuna bağlı olarak mevsimlik veya sürekli statüde yürütülebilir; iş bulma olanakları, fabrikanın işlem kapasitesine ve pancar hasat dönemine göre değişkenlik gösterir.",
+ "ek_bilgiler": "Mesleğin icrası, şeker pancarı hasat ve işleme dönemine (kampanya dönemine) bağlı olarak mevsimsel yoğunluk gösterebilir; bazı işletmelerde yıl boyunca farklı görevlerle istihdam sürdürülebilir. İş makinesi veya hidrolik sistemli ekipman kullanımı gerektiren görevlerde, işyerinin talebine göre ilgili iş güvenliği eğitim belgeleri tercih sebebi olabilir.",
+ "gorevler": [
+  "Gelen araçları transportlara alır, araçların gerekli güvenlik önlemlerini alır.",
+  "Transportlara alınan araçları güvenli bir şekilde hidrolikle uygun derecede kaldırır.",
+  "Taraklar arasından dökülen atıkları boşalan araçlara geri yükler.",
+  "Pancar boşaltma makinesi ile boşaltma işlemi sırasında mümkün olduğu kadar pancar kırılmalarını ve yaralanmaları önleyecek tedbirleri alır.",
+  "Araçlardaki şeker pancarlarını sabit veya seyyar boşaltma makinesi ile boşaltır.",
+  "Araçlardaki pancar boşaltma işleminden sonra transportun eğimini düzeltir, aracın çıkmasını sağlar.",
+  "Pancar boşaltma aracını durdurur ve dökülen pancarları temizler.",
+  "Yağlanması gereken ve gres basılması gereken yerlere gres basar.",
+  "Makinenin çalışmadığı saatte bütün cıvata ve somunları kontrol eder, gevşek olanları sıkar.",
+  "Aracın yağ seviyesini kontrol eder, yakıt ikmali yapar.",
+  "Pancar boşaltma makinesinin kapasitesine uygun olarak çalışmayı sürdürür.",
+  "Çalışma esnasında gerekli güvenlik önlemlerini alır.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Pancar Boşaltma Operatörlüğü için örgün bir meslek eğitimi programı bulunmamaktadır. Meslek, genellikle şeker fabrikalarında usta-çırak ilişkisi içinde işbaşında öğrenilir; işyerleri tarafından düzenlenen iş güvenliği ve makine kullanımına yönelik hizmet içi eğitimler de bu süreci destekler. Ayrıca Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kursları, tarım makineleri kullanımına ilişkin temel beceri kazandırabilir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "18 yaşını doldurmuş olmak",
+   "Operatörlük yapmaya engel bir sağlık probleminin bulunmaması",
+   "Fiziksel olarak açık havada ve ağır iş koşullarında çalışabilecek yeterlilikte olmak"
+  ],
+  "sure_ve_icerik": "Eğitim süresi standart bir programa bağlı değildir; işe alınan kişi, deneyimli bir operatör veya usta gözetiminde, fabrikanın pancar boşaltma makinelerinin kullanımı, hidrolik kaldırma sistemi, temel bakım işlemleri (gresleme, cıvata-somun kontrolü, yağ ve yakıt kontrolü) ile iş sağlığı ve güvenliği kuralları konusunda kısa süreli bir işbaşı eğitim sürecinden geçer.",
+  "belge": "Mesleğe özgü resmî bir diploma veya sertifika bulunmamaktadır. İşyerleri tarafından verilen iş güvenliği eğitim katılım belgesi veya iç eğitim belgeleri düzenlenebilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Eğitim genellikle işbaşında yürütüldüğünden ayrı bir eğitim ücreti söz konusu değildir; kişi bu süreçte çoğunlukla çalışan statüsünde ücret alır.",
+  "egitim_sonrasi": [
+   "Kamuya bağlı şeker fabrikalarında çalışanlar 657 sayılı Devlet Memurları Kanunu'na veya işçi statüsündeyse ilgili toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar; işin mevsimlik olması, işletmenin büyüklüğü ve kişinin deneyimi ücreti etkileyebilir.",
+   "Kampanya (pancar işleme) döneminde yoğun çalışma nedeniyle ek ücret veya fazla mesai ödemesi söz konusu olabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğe yönelik kademeli, resmî bir örgün eğitim basamağı bulunmamaktadır. Deneyim kazanan operatörler, fabrika içi eğitimler ve işbaşı uygulamalar yoluyla farklı tarım ve iş makinelerinin kullanımını öğrenebilir.",
+  "is_hayatinda": "Deneyim ve performansına göre Pancar Boşaltma Operatörü, ekip sorumlusu, vardiya amiri veya saha şefi gibi görevlere yükselebilir. Ayrıca kazandığı makine kullanım deneyimiyle fabrika içindeki diğer tarım veya iş makinelerinin operatörlüğüne geçiş yapabilir."
+ },
+ "benzer_meslekler": [
+  "Diğer Çiftlik Makineleri Operatörleri",
+  "Motorlu Çiftlik Makineleri Operatörü-Tarım",
+  "Traktör Şoförü",
+  "Kepçeli Araç Operatörü",
+  "Diğer Malzeme Taşıma Makinesi Operatörleri"
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T18:32:27",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5667
+  }
+ }
+}

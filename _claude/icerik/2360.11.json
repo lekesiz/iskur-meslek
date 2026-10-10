@@ -1,0 +1,79 @@
+{
+ "arac_gerec": [
+  "Döküm ocakları (indüksiyon, ark veya pota ocağı)",
+  "Eritme potaları ve taşıma kepçeleri",
+  "Kalıplama kumu ve kalıplama makineleri",
+  "Model ve maça kalıpları",
+  "Kum karıştırma ve hazırlama ekipmanları",
+  "Dökümhane el aletleri (maşa, kürek, kalıp çekici vb.)",
+  "Isı ölçüm cihazları (pirometre)",
+  "Kişisel koruyucu donanım (iş gözlüğü, eldiven, önlük, maske, iş elbisesi)",
+  "Taşlama ve temizleme makineleri",
+  "Kalite kontrol ölçüm aletleri (kumpas, mikrometre)",
+  "Eğitim materyalleri (iş-işlem yaprakları, teknik resimler, kataloglar)",
+  "Bilgisayar ve sunum/anlatım araçları"
+ ],
+ "genel_ozellikler": [
+  "El ve beden becerisine sahip,",
+  "Dikkatli, sabırlı ve sorumluluk sahibi,",
+  "Isı, duman ve gürültülü ortamda çalışmaya dayanıklı,",
+  "Anlatım gücüne sahip, bildiğini başkalarına aktarabilen,",
+  "İnsan ilişkilerinde başarılı, hoşgörülü,",
+  "Mesleki bilgi ve becerilerini sürekli güncelleyen,",
+  "Öğrencilerin ve çırakların güvenliğine özen gösteren,",
+  "Planlı ve düzenli çalışabilen"
+ ],
+ "calisma_ortami": "Usta Öğretici (Dökümcülük), genellikle mesleki eğitim merkezi, çıraklık eğitim merkezi, meslek lisesi atölyesi veya döküm işletmesi bünyesindeki eğitim biriminde çalışır. Çalışma ortamı yüksek ısı, duman, toz ve gürültünün bulunduğu bir atölye/dökümhane ortamıdır; ergimiş metalle ve ısıtma ekipmanlarıyla çalışıldığından dikkatsizlik durumunda yanma, sıçrama ve yaralanma riski taşır, bu nedenle kişisel koruyucu donanım kullanımı önemlidir.\\n\\nÇalışma genellikle gündüz ve tam gün esasına dayanır; işletmenin veya eğitim kurumunun programına göre vardiyalı çalışma da söz konusu olabilir. Çalışırken aday çırak, çırak, kalfa ve öğrencilerle, diğer meslek öğretmenleri ve atölye sorumluları ile, işletme yöneticileri ve eğitim kurumu idarecileriyle sürekli iletişim halindedir.",
+ "gorevler": [
+  "Aday çırak, çırak, kalfa ve öğrencilerin iş yerindeki eğitiminden sorumludur.",
+  "Dökümcülük eğitimi ile ilgili gereken makine, araç-gereç ve malzemeler ile eğitim materyallerinin hazırlanmasını sağlar.",
+  "Aday çırak, çırak, kalfa ile mesleki ve teknik eğitim okul ve kurumları öğrencilerine, dökümcülükte kullanılması gereken makine, araç-gereç ve malzemeleri tanıtır.",
+  "Öğrencilere mesleği ile ilgili konularda eğitim verir.",
+  "Öğrencilerin dökümcülük ile ilgili konularda uygulama yapmalarını sağlar, gördüğü hata ve eksikliklerin düzeltilmesini sağlar.",
+  "Öğrencilere, dökümcülük işinde kullanılan makine, araç-gereç ve malzemelerin basit bakım-onarım, kontrol ve ayar işleriyle ilgili gerekli eğitimleri verir.",
+  "Öğrencilere iş sağlığı ve güvenliği konularında eğitim verir.",
+  "Meslek dersleri ve atölye uygulama sınavlarında komisyon üyesi olarak görev yapar.",
+  "Meslek alanı ile ilgili gelişmeleri takip eder ve uygulamalarına yansıtır.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Usta Öğretici (Dökümcülük) olabilmek için öncelikle dökümcülük mesleğinde ustalık belgesine veya alanında yeterli iş deneyimine sahip olmak gerekir. Usta öğreticilik yeterliği; Halk Eğitim Merkezleri, mesleki eğitim merkezleri ve çıraklık eğitim merkezleri bünyesinde açılan \"usta öğreticilik\" sertifika/formasyon programları aracılığıyla kazanılır.",
+  "giris_kosullari": [
+   "Dökümcülük alanında ustalık belgesine sahip olmak ya da alanında yeterli mesleki deneyime sahip olmak",
+   "En az ilköğretim mezunu olmak",
+   "Usta öğreticilik sertifika/formasyon programının kabul koşullarını sağlamak",
+   "Sağlık durumunun atölye/dökümhane ortamında çalışmaya uygun olması"
+  ],
+  "sure_ve_icerik": "Öncelikle dökümcülük mesleğinde işbaşında usta yanında veya mesleki eğitim merkezlerinde çıraklık-kalfalık-ustalık sürecinin tamamlanması gerekir. Bu süreci tamamlayanlar, ilgili kurumların açtığı usta öğreticilik sertifika programlarına katılır; bu programlarda öğretim teknikleri, eğitim pedagojisi, ölçme-değerlendirme ve iş sağlığı-güvenliği konuları işlenir. Programların süresi kuruma göre değişmekle birlikte genellikle kısa dönemlidir.",
+  "belge": "Dökümcülük alanında ustalık belgesi ile birlikte usta öğreticilik sertifikası/belgesi alınır."
+ },
+ "calisma_alanlari": "Usta Öğretici (Dökümcülük); mesleki eğitim merkezleri, çıraklık eğitim merkezleri, halk eğitim merkezleri ve mesleki-teknik eğitim okullarının döküm atölyelerinde eğitici olarak çalışabilir. Ayrıca döküm sanayi işletmelerinin bünyesindeki eğitim birimlerinde çırak ve kalfaların yetiştirilmesinde, özel kurs ve eğitim merkezlerinde eğitmen olarak görev alabilir.",
+ "kazanc": {
+  "egitim_suresince": "Usta öğreticilik sertifika programına katılanlar genellikle zaten bir işletmede usta/kalfa olarak çalışmaktadır; bu kısa süreli programlar sırasında ayrıca bir ücret ödenmez, katılım mevcut iş yanında gerçekleştirilir.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarına bağlı mesleki eğitim merkezlerinde ders saati esasıyla görev alanlar ek ders ücreti üzerinden gelir elde eder.",
+   "Özel işletmelerde çalışanların kazancı işletme ile yapılan anlaşmaya, deneyime ve çalışma saatine göre değişir.",
+   "Yeni başlayanlarda kazanç genellikle asgari ücret düzeyinde olabilir; deneyim ve unvan arttıkça kazanç da yükselebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Dökümcülük alanında çıraklık ve kalfalık kademelerini tamamlayarak ustalık belgesi alan kişiler, usta öğreticilik sertifikası edinerek bu unvanı kazanabilir. Ayrıca güncel döküm teknolojileri, yeni malzemeler ve öğretim teknikleriyle ilgili kurs ve sertifika programlarına katılarak bilgi ve becerilerini geliştirebilir.",
+  "is_hayatinda": "Deneyim kazanan usta öğreticiler, çalıştıkları eğitim kurumu veya işletmede atölye şefliği, bölüm şefliği veya eğitim koordinatörlüğü gibi görevlere yükselebilir; kıdem arttıkça eğitim kurumlarında yönetici konumuna gelme olanağı bulabilir."
+ },
+ "benzer_meslekler": [
+  "Usta Öğretici (Model ve Kalıp Hazırlama)",
+  "Usta Öğretici (Çelik Yapılandırmacılığı)",
+  "Usta Öğretici (Vargel-Planyacılık)",
+  "Usta Öğretici (makine Ressamlığı)",
+  "Usta Öğretici (Diğer)"
+ ],
+ "ek_bilgiler": "Dökümcülük, ergimiş metal ve yüksek ısıyla çalışmayı gerektirdiğinden, bu mesleği öğretenlerin iş sağlığı ve güvenliği konusunda yeterli bilgiye sahip olması ve kişisel koruyucu donanımın eksiksiz kullanılmasını sağlaması önem taşır. Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda ve usta öğreticilik görevlendirmelerinde tercih sebebi olabilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T04:36:37",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6500
+  }
+ }
+}

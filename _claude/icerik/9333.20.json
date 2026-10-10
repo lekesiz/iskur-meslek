@@ -1,0 +1,79 @@
+{
+ "arac_gerec": [
+  "Yük aktarma hortumları ve bağlantı parçaları",
+  "Pompa ve yardımcı ekipmanları",
+  "Yük taşıma araçları (terminal tractor, transpalet vb.)",
+  "Branda",
+  "İMDG kod kontrol spreyi",
+  "Tehlikeli madde etiketleri (sticker)",
+  "Platform konteyner, flatrack konteyner",
+  "Hava yastıkları, kum torbaları, tahta takoz ve kama parçaları",
+  "Banker (dökme yük ağzı) açma-kapama donanımı",
+  "Bağlama ekipmanları (halat, zincir, kanca)",
+  "El aletleri (anahtar takımı, maket bıçağı, balyoz vb.)",
+  "Kişisel koruyucu donanım (baret, iş eldiveni, iş ayakkabısı, yelek, kulak koruyucu)"
+ ],
+ "benzer_meslekler": [
+  "Tahmil-Tahliye İşçisi (Gemi)",
+  "Gemi yükleme işçisi",
+  "Ambar İşçisi (Portör)",
+  "Liman İşletme Saha Çalışanı",
+  "Depo İşçisi (Elleçleme)",
+  "Diğer Tahmil-Tahliye ve İlgili Yük Taşıma İşçileri"
+ ],
+ "calisma_alanlari": "Liman işçileri başta deniz limanları olmak üzere, nehir limanları, konteyner terminalleri, gümrüklü sahalar ve liman bağlantılı lojistik/depo işletmelerinde çalışırlar. Türkiye'de özellikle İzmir, Mersin, İstanbul, Kocaeli, İskenderun, Samsun gibi kıyı illerindeki liman işletmelerinde istihdam olanağı bulunmaktadır. Bu meslekte iş bulma olanağı, ülkenin dış ticaret hacmine, liman trafiğine ve sektördeki mevsimsel/bölgesel talep dalgalanmalarına göre değişebilmektedir.",
+ "calisma_ortami": "Liman işçisi, görevini liman rıhtımlarında, konteyner sahalarında, gemi ambarlarında ve kapalı ambar/depolarda yerine getirir. Çalışma büyük ölçüde açık havada geçer; bu nedenle sıcak, soğuk, yağmur ve rüzgâr gibi değişken hava koşullarına maruz kalınır. Ortam zaman zaman gürültülü ve tozludur; ağır yüklerin kaldırılması, sıkışma, düşme ve tehlikeli madde içeren yüklerle çalışma gibi riskler bulunur, bu nedenle iş sağlığı ve güvenliği kurallarına titizlikle uyulması gerekir.\n\nLiman 7/24 işlediği için çalışma genellikle vardiya usulüyle yürütülür; hafta sonu ve gece çalışması söz konusudur. Liman işçisi görevini çoğunlukla ekip halinde yapar; vinç ve forklift operatörleri, saha amirleri, gemi personeli ve diğer liman çalışanlarıyla sürekli iletişim ve koordinasyon içindedir.",
+ "egitim": {
+  "verildigi_yerler": "Liman işçiliği için örgün bir mesleki eğitim programı bulunmamaktadır. Meslek genellikle işbaşında, usta/ekip şefi gözetiminde ve liman işletmelerinin kendi iç oryantasyon eğitimleriyle kazanılır. Ayrıca Halk Eğitim Merkezleri ve İŞKUR'un açtığı işbaşı eğitim/mesleki eğitim kursları ile temel iş güvenliği ve yük elleçleme konularında eğitim alınabilir.",
+  "giris_kosullari": [
+   "Okuryazar olmak (ilkokul/ilköğretim mezunu olmak tercih sebebidir)",
+   "18 yaşını doldurmuş olmak",
+   "Ağır ve riskli işlerde çalışmaya uygunluğunu gösterir sağlık raporuna sahip olmak",
+   "İşe alındığı işletmenin iç eğitim/oryantasyon sürecine katılmayı kabul etmek"
+  ],
+  "sure_ve_icerik": "Standart ve resmî bir eğitim süresi bulunmamaktadır. İşe başlamadan önce veya işbaşında genellikle birkaç gün ile birkaç hafta arasında süren, iş güvenliği, yük elleçleme teknikleri, tehlikeli madde (İMDG) tanıma ve temel ekipman kullanımı konularını kapsayan uygulamalı bir eğitim verilir. Eğitim, deneyimli bir usta veya ekip şefinin gözetiminde işbaşında sürdürülür.",
+  "belge": "Mesleğe özgü bir diploma veya resmî sertifika bulunmamaktadır; işletme içi eğitim katılım belgesi veya iş sağlığı ve güvenliği eğitimi belgesi verilebilir. Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "ek_bilgiler": "Liman işçiliği, çalışma koşulları ve risk düzeyi nedeniyle ağır ve riskli işler arasında değerlendirilebilir; bu nedenle işe alımlarda sağlık uygunluğu ve iş güvenliği eğitimi önem taşımaktadır. Ülkenin dış ticaret ve deniz taşımacılığı hacmindeki gelişmeler, bu meslekteki istihdam talebini doğrudan etkilemektedir.",
+ "genel_ozellikler": [
+  "Fiziksel olarak güçlü ve dayanıklı,",
+  "Takım halinde çalışmaya uyumlu,",
+  "Dikkatli ve tedbirli,",
+  "El ve kol kaslarını iyi kullanabilen,",
+  "Açık havada ve değişken hava koşullarında çalışmaya istekli,",
+  "İş sağlığı ve güvenliği kurallarına uymaya özen gösteren,",
+  "Sorumluluk sahibi,",
+  "Talimat ve emirlere uyabilen"
+ ],
+ "gorevler": [
+  "Sıvı yük elleçlemede aktarma hortumlarının takılması-sökülmesi, pompaya takılması-sökülmesi işlemlerinde operatöre yardımcı olur",
+  "Ambarlara, rıhtıma ve konteynerlere dökülen malların temizliğini yapar",
+  "Gemilerde bulunan konteyneri sahaya taşıma araçlarıyla taşır, sahadaki yükleri gemiye yükler",
+  "Deniz kirliliğine karşı gemilere branda çeker",
+  "Konteyner üzerindeki İMDG kodlarını kontrol eder, uygun olmayan kodu silen veya silinemiyorsa üst amirine bildirir; tehlikeli madde taşıyan konteynerlerin sticker'larını söker-takar",
+  "Özel konteynerle (platform konteyner ya da flatrack) gelen yüklerin prosedürlere uygun şekilde yükleme-boşaltma işlemlerini yapar",
+  "Hava yastıkları, kum torbaları, tahta parçaları kullanarak yükleri sabitler",
+  "Dökme yüklerde araçların yüklenmesini sağlamak amacıyla bankerlerin açma-kapama işlemini yapar",
+  "Mesleki gelişim faaliyetlerinde bulunur"
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğin örgün bir eğitim kademesi bulunmadığından sınıf veya kademe ilerlemesi söz konusu değildir. Kişi, iş güvenliği, forklift/vinç operatörlüğü gibi çeşitli kurslara katılarak mesleki bilgi ve becerisini artırabilir.",
+  "is_hayatinda": "Deneyim kazanan liman işçileri ekip şefliği veya saha sorumluluğu gibi görevlere yükselebilir. Forklift, vinç veya diğer iş makinelerinin kullanımına ilişkin sertifika alarak operatör kadrolarına geçiş yapabilir. Zamanla usta işçi veya saha amiri gibi pozisyonlara ilerlemek mümkündür."
+ },
+ "kazanc": {
+  "egitim_suresince": "Mesleğin örgün bir eğitim süreci bulunmadığından kişi genellikle doğrudan ücretli olarak işe başlar. İşbaşı eğitim/oryantasyon dönemi de işveren ile yapılan sözleşmeye göre ücretli olarak geçirilebilir.",
+  "egitim_sonrasi": [
+   "Kamuya bağlı liman işletmelerinde çalışanlar, tabi oldukları mevzuata (657 sayılı Kanun veya işçi statüsünde ise ilgili toplu iş sözleşmesi hükümlerine) göre ücret alır",
+   "Özel sektörde yeni başlayanların kazancı genellikle asgari ücret düzeyindedir",
+   "Deneyim, vardiya/mesai yoğunluğu, çalışılan işletmenin büyüklüğü ve ekipman kullanım becerisine göre kazanç artabilir"
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T20:32:40",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6401
+  }
+ }
+}

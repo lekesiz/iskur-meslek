@@ -1,0 +1,77 @@
+{
+ "arac_gerec": [
+  "El aletleri takımı (anahtar, tornavida, pense, vb.)",
+  "Tork (moment) anahtarları",
+  "Perçinleme ekipmanları (perçin tabancası, karşı baskı aleti)",
+  "Ölçüm ve kontrol cihazları (kumpas, mikrometre, derinlik mastarı)",
+  "Boroskop ve iç yapı inceleme cihazları",
+  "Hidrolik ve yakıt sistemi test ekipmanları",
+  "Elektronik test cihazları (multimetre, devre test cihazları)",
+  "Kaldırma, destekleme ve taşıma ekipmanları (kriko, iskele, platform, vinç)",
+  "Motor test ve kontrol cihazları",
+  "Kaynak ve lehim ekipmanları",
+  "Teknik el kitapları (AMM, SRM, IPC) ve bilgisayar/tablet",
+  "Kişisel koruyucu donanım (iş elbisesi, eldiven, gözlük, kulak koruyucu)",
+  "Temizlik, yağlama ve bakım malzemeleri (solvent, gres, conta malzemesi)",
+  "Sızdırmazlık test cihazları"
+ ],
+ "genel_ozellikler": [
+  "El ve göz koordinasyonu gelişmiş,",
+  "Dikkatli, titiz ve sorumluluk sahibi,",
+  "Teknik çizim, şema ve el kitaplarını (AMM/SRM) okuyup anlayabilen,",
+  "Takım halinde çalışmaya uyumlu,",
+  "Fiziksel olarak sağlıklı ve dayanıklı,",
+  "Dar alanlarda ve zaman zaman yüksekte çalışmaya uygun,",
+  "Teknolojik gelişmeleri takip edebilen,",
+  "Teknik düzeyde İngilizce okuyup anlayabilen"
+ ],
+ "calisma_ortami": "\"Uçak-Gövde Motorcusu genellikle hangar ortamında, zaman zaman da apron (açık saha) koşullarında çalışır. Çalışma ortamında yakıt, yağ ve kimyasal madde kokusu, gürültü, metal tozu ve bazen sınırlı aydınlatma bulunabilir; kişisel koruyucu donanım kullanımı önemlidir. İşin niteliği gereği zaman zaman dar alanlarda, eğilerek veya yüksekte (platform, iskele üzerinde) çalışma gerekebilir.\\n\\nMeslek, uçuş emniyetinin sağlanması amacıyla belirli vardiya düzeninde, bazen gece veya hafta sonu dahil esnek çalışma saatleriyle yürütülür. Çalışma sırasında diğer bakım teknisyenleri, kalite kontrol personeli, mühendisler ve pilotlarla yakın iş birliği ve iletişim gerektirir.\"",
+ "calisma_alanlari": "\"Meslek elemanları başlıca havayolu şirketlerinin bakım-onarım birimlerinde, bağımsız uçak bakım-onarım (MRO) merkezlerinde, havaalanı yer hizmetleri kuruluşlarında, askeri havacılık bakım birimlerinde ve uçak/uçak parçası üreten sanayi kuruluşlarında istihdam edilebilirler. Sektördeki istihdam, havayolu taşımacılığının ve filo büyüklüğünün gelişimine bağlı olarak değişebilmektedir.\"",
+ "kazanc": {
+  "egitim_suresince": "İşletmede uygulamalı eğitim veya staj döneminde öğrenciye/çırağa genellikle asgari ücret düzeyinde veya işletme imkânlarına bağlı olarak sınırlı bir ücret ödenebilir; sigorta primleri ilgili mevzuat çerçevesinde karşılanır.",
+  "egitim_sonrasi": [
+   "Çalışma hayatına yeni başlayanların kazancı genellikle asgari ücret düzeyinde başlar.",
+   "Deneyim, sahip olunan lisans/yetki kategorisi, çalışılan işletmenin büyüklüğü ve sektördeki ücret politikalarına göre kazanç artabilir.",
+   "Kamu kurumlarında (örn. askeri havacılık) istihdam edilenler için 657 sayılı Kanun veya ilgili statüye bağlı ücretlendirme uygulanır; özel sektörde ücret işveren ile çalışan arasında karşılıklı olarak belirlenir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Lise düzeyinde ilgili alanda eğitim alanlar, Sivil Havacılık Genel Müdürlüğü (SHGM) onaylı eğitim kurumlarında veya üniversitelerin sivil havacılık/uçak bakım ile ilgili ön lisans ve lisans programlarında eğitimlerine devam ederek daha üst düzey yetki ve lisans kategorilerine (örn. B1/B2 kategorisi uçak bakım teknisyeni lisansı) ulaşabilirler. Ek tip eğitimleri ve sertifika programlarıyla farklı uçak tiplerinde çalışma yetkisi kazanılabilir.",
+  "is_hayatinda": "Deneyim kazanan meslek elemanları kıdemli teknisyen, ekip lideri, vardiya amiri, kalite kontrol/kalite güvence personeli gibi pozisyonlara yükselebilir; ilgili eğitimleri tamamlayanlar bakım planlama, eğitim veya bakım müdürlüğü gibi yönetim kademelerine geçebilir."
+ },
+ "benzer_meslekler": [
+  "Makine Teknisyeni-Havacılık",
+  "Uçak Bakım Teknisyeni (Gövde-Motor)",
+  "Uçak Motorları Bakım-Onarım Teknisyeni",
+  "Uçak Gövde Motor Teknisyeni(Uçak Bakım Teknisyeni)",
+  "Uçak Teknikeri",
+  "Motor Teknisyeni"
+ ],
+ "ek_bilgiler": "\"Bu meslek, Sivil Havacılık Genel Müdürlüğü (SHGM) düzenlemeleri kapsamında yürütülür; hava araçlarında bakım işlemlerini resmi olarak gerçekleştirebilmek için SHGM tarafından verilen uçak bakım teknisyeni lisansı ve ilgili tip yetkilendirmeleri gerekmektedir. İş, yapısı itibarıyla tehlikeli/çok tehlikeli işler kapsamında değerlendirilebileceğinden iş sağlığı ve güvenliği kurallarına titizlikle uyulması önemlidir.\"",
+ "gorevler": [
+  "Uçak gövdesindeki perçin, panel ve yapısal kontrolleri yapar,",
+  "Jet veya pistonlu motorların bakım ve parça değişimlerini yürütür,",
+  "Yakıt, hidrolik ve yağlama sistemlerindeki sızıntıları giderir,",
+  "Bakım sonrası motor testlerini ve yer kontrollerini gerçekleştirir,",
+  "Tüm işlemleri teknik el kitaplarına (AMM/SRM) uygun olarak belgeler,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi, mesleki ve teknik liselerin havacılık/uçak bakım ile ilgili alanlarında temel düzeyde verilebilmektedir; ancak mesleği resmî olarak icra edebilmek için Sivil Havacılık Genel Müdürlüğü (SHGM) tarafından SHY-147 kapsamında onaylı uçak bakım teknisyenliği eğitim kurumlarında veya üniversitelerin sivil havacılık yüksekokulu/meslek yüksekokulu bünyesindeki ilgili programlarda eğitim tamamlanması gerekmektedir. Bazı havayolu şirketleri de kendi eğitim merkezlerinde tamamlayıcı eğitimler vermektedir.",
+  "giris_kosullari": [
+   "En az lise ve dengi okul mezunu olmak (tercihen fen bilimleri ağırlıklı veya havacılık/makine ile ilgili bir alandan),",
+   "İlgili eğitim kurumunun belirlediği giriş koşullarını (sınav, mülakat, sağlık şartları vb.) taşımak,",
+   "Mesleği yapmaya engel bir sağlık sorununun bulunmaması"
+  ],
+  "sure_ve_icerik": "Eğitim; malzeme bilgisi, aerodinamik, uçak yapıları, motor sistemleri, hidrolik-pnömatik sistemler gibi teorik dersler ile işletmede uygulamalı bakım çalışmalarından oluşur. SHGM onaylı kurumlarda temel eğitim süresi kuruma göre değişmekle birlikte genellikle iki yıl civarındadır; bu eğitimi tamamlayanlar, belirli bir iş tecrübesi ve tip eğitimleri sonrasında lisans almaya hak kazanır.",
+  "belge": "Eğitimi tamamlayanlara kurumun diploma/sertifikası; mesleği resmî olarak icra edebilmek için gerekli iş tecrübesi ve tip eğitimleri sonrasında SHGM tarafından düzenlenen Uçak Bakım Teknisyeni Lisansı (ilgili kategori) verilmektedir."
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T09:20:01",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6164
+  }
+ }
+}

@@ -1,0 +1,101 @@
+{
+ "gorevler": [
+  "İş sağlığı ve güvenliği ile ilgili önlemleri alır.",
+  "Kalite yönetim sistemi ile ilgili faaliyetleri yürütür.",
+  "Çalışma organizasyonu yapar.",
+  "Hammaddeyi şişirme film üretimine hazırlar.",
+  "Hammaddeyi üretim alanına getirerek kurutur.",
+  "Hammaddeye renklendirici ve katkı maddesi karıştırır ve transfer eder.",
+  "Üretim hattı ayar ve kontrollerini yapar.",
+  "Kovan, filtre ve kafa sıcaklıklarını kontrol eder.",
+  "Şişirme havasını kontrol eder.",
+  "Soğutma suyunu veya yağını kontrol eder.",
+  "Çekici ve sarıcı merdaneleri kontrol eder.",
+  "Film soğutma havasını kontrol eder.",
+  "Balon tutucuyu kontrol eder.",
+  "Korona ve kenar kontrol ünitesinin kontrolünü yapar.",
+  "Dilimleme ve yan bıçakların kontrolünü yapar.",
+  "Şişirme film üretir.",
+  "Hammaddeyi dozajlama ünitesine yükler.",
+  "Isıtıcı üniteleri devreye alır.",
+  "Ekstrüder filtresini değiştirir.",
+  "Burguya (vidaya) yol verir.",
+  "Ürünü çekme merdanesinden geçirir.",
+  "Balon tutucu ayarlarını yapar.",
+  "Sarıcı merdaneyi çalıştırır.",
+  "Kesici bıçakları devreye alır.",
+  "Özel işlem (Korona) yapar.",
+  "Genişlik, uzunluk ve kalınlık ölçümü yapar.",
+  "Sağlam şişirme film üretir.",
+  "Ürün kontrolü yapar.",
+  "Ürün ambalajlaması yapar.",
+  "Üretim hattını devreden çıkartır.",
+  "Üretim hattının koruyucu bakım ve temizleme işlemlerini yürütür.",
+  "Mesleki gelişim faaliyetlerini yürütür."
+ ],
+ "arac_gerec": [
+  "Ekstrüzyon (şişirme film) hattı ve kontrol paneli",
+  "Hammadde kurutma ve karıştırma üniteleri",
+  "Dozajlama ünitesi",
+  "Besleme hunisi (kovan) ve burgu (vida) sistemi",
+  "Ekstrüder filtresi ve değiştirme ekipmanı",
+  "Şişirme kafası",
+  "Hava halkası ve soğutma üniteleri",
+  "Balon tutucu düzeneği",
+  "Çekici ve sarıcı merdaneler",
+  "Korona ve kenar kontrol ünitesi",
+  "Dilimleme ve yan kesme bıçakları",
+  "Kalınlık ve genişlik ölçüm cihazları",
+  "Ambalajlama ekipmanları",
+  "Kişisel koruyucu donanım (eldiven, koruyucu gözlük, kulak koruyucu)"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve tedbirli,",
+  "El ve göz koordinasyonu iyi,",
+  "Makine ve teknik sistemlerle çalışmaya istekli,",
+  "Fiziksel olarak dayanıklı,",
+  "Sorumluluk sahibi,",
+  "Takım çalışmasına uyumlu,",
+  "Sabırlı ve düzenli,"
+ ],
+ "calisma_ortami": "Plastik Şişirme Film Üretim Operatörü, fabrika veya üretim tesisi içinde, kapalı atölye ortamında çalışır. Çalışma ortamı genellikle gürültülü ve sıcaktır; erimiş plastiğin kokusuna maruz kalınabilir. Görevler makinelerin yakınında, çoğunlukla ayakta ve uzun süreli olarak yerine getirilir. Üretim sürekliliği gerektirdiğinden işler genellikle vardiyalı sistemle yürütülür.\n\nÇalışma sırasında üretim hattındaki diğer operatörlerle, bakım ve kalite kontrol personeliyle, vardiya amiri veya üretim sorumlusuyla sürekli iletişim halindedir. Erimiş plastik, sıcak yüzeyler ve hareketli makine parçalarıyla çalışma nedeniyle iş sağlığı ve güvenliği kurallarına uyum büyük önem taşır.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin örgün bir mesleki eğitim merkezi programı olarak doğrudan karşılığı yaygın değildir. Meslek genellikle işyerinde usta yanında çalışılarak öğrenilir; ayrıca Halk Eğitim Merkezleri ile İŞKUR'un açtığı mesleki eğitim kursları ve ilgili mesleki ve teknik eğitim programları (plastik teknolojisi alanı gibi) temel bilgi ve beceri kazandırabilir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "Ayakta ve sıcak/gürültülü ortamda çalışmaya uygun sağlık durumuna sahip olmak",
+   "Kurs ve işbaşı eğitim programları için genellikle 18 yaşını doldurmuş olmak tercih edilir"
+  ],
+  "sure_ve_icerik": "Mesleğin standart ve zorunlu bir eğitim süresi resmî olarak tanımlanmamıştır. Meslek elemanları çoğunlukla işe yeni başladıklarında hammazde hazırlama, basit üretim hattı işlemleri gibi görevlerle başlar; zaman içinde usta operatör gözetiminde hat ayarları, sıcaklık-basınç kontrolü, kalite kontrolü gibi daha karmaşık işlemleri öğrenerek deneyim kazanır. Bu süreç işletmeden işletmeye değişebilir ve kısa süreli mesleki kurslarla desteklenebilir.",
+  "belge": "İşbaşı eğitim veya kurs sonunda katılım/başarı belgesi verilebilir. Mesleki Yeterlilik Kurumu (MYK) Mesleki Yeterlilik Belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Plastik şişirme film, poşet, ambalaj ve benzeri ürünleri üreten plastik ve ambalaj sanayi işletmelerinde istihdam edilirler. Gıda, tekstil, inşaat ve lojistik gibi sektörlere ambalaj malzemesi üreten fabrikalar başlıca çalışma alanlarıdır. Sektörün büyüklüğüne ve üretim hacmine bağlı olarak küçük, orta veya büyük ölçekli işletmelerde görev yapabilirler.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğin resmî olarak tanımlanmış bir çıraklık/kurs programı bulunmadığından, işbaşı eğitim sürecinde çalışanlara işletmenin belirlediği ücret ödenir; bu genellikle asgari ücret düzeyinde olur.",
+  "egitim_sonrasi": [
+   "Çalışanların kazancı asgari ücret düzeyinden başlayarak, işyerinin büyüklüğü, kişinin deneyimi, bilgisi ve sektörün ücret düzeyine göre değişebilir.",
+   "Özel sektörde ücretler işveren ile çalışan arasında karşılıklı olarak belirlenir ve deneyim arttıkça artabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Meslekte ilerleme genellikle işbaşında deneyim kazanarak sağlanır. İlgili kısa süreli mesleki kurslara, sertifika programlarına ve mesleki yeterlilik sınavlarına katılarak bilgi ve beceriler geliştirilebilir.",
+  "is_hayatinda": "Deneyim kazandıkça usta operatörlüğe, hat şefliğine, üretim sorumluluğuna veya vardiya amirliğine yükselme imkânı bulunmaktadır."
+ },
+ "benzer_meslekler": [
+  "Plastik Levha ve Dökme Film Üretim Operatörü (Ekstrüzyon)",
+  "Plastik Ekstrüzyon Makinesi Operatörü (Ekstrüder)",
+  "Plastik Profil Üretim Operatörü (Ekstrüzyon)",
+  "Plastik Film İşleme Operatörü",
+  "Plastik Çekme Makinesi Operatörü",
+  "PVC Folyo Kaplama (Sarma) Makinesi Operatörü"
+ ],
+ "ek_bilgiler": "Çalışma sırasında erimiş plastik, sıcak yüzeyler ve hareketli makine parçalarıyla temas riski bulunduğundan, kişisel koruyucu donanımın eksiksiz kullanılması ve iş güvenliği kurallarına titizlikle uyulması önemlidir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T13:00:23",
+  "usage": {
+   "input_tokens": 4,
+   "output_tokens": 9381
+  }
+ }
+}

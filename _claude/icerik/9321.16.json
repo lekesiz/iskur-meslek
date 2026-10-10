@@ -1,0 +1,73 @@
+{
+ "gorevler": [
+  "Ürünleri dikiş, leke veya kumaş hatalarına karşı gözle kontrol eder.",
+  "Ürünleri ambalaj boyutuna uygun şekilde kalıp yardımıyla katlar.",
+  "Fiyat etiketi, marka kartı ve beden stickerlarını yapıştırır.",
+  "Katlanan ürünleri şeffaf poşetlere koyarak ağzını mühürler.",
+  "Paketlenen ürünleri kolilere asorti veya adet bazlı düzende dizer.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "arac_gerec": [
+  "Katlama kalıpları/şablonları",
+  "Fiyat etiketi, marka kartı ve beden stickerları",
+  "Etiket yapıştırma tabancası veya yapıştırıcı",
+  "Şeffaf ambalaj poşetleri",
+  "Poşet ağzı mühürleme/ısı ile yapıştırma cihazı",
+  "Koli bantlama makinesi",
+  "Koli/karton kutular",
+  "Kesici, makas",
+  "Çalışma masası/tezgâh",
+  "Barkod okuyucu (bazı işletmelerde)"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve gözlem yeteneği gelişmiş,",
+  "Düzenli ve titiz çalışabilen,",
+  "El becerisine sahip,",
+  "Hızlı ve seri hareket edebilen,",
+  "Monoton işi sabırla ve istikrarlı şekilde sürdürebilen,",
+  "Ayakta veya masa başında uzun süre çalışabilecek fiziksel dayanıklılığa sahip,",
+  "Renk, şekil ve doku farklılıklarını ayırt edebilecek görme yeteneğine sahip,",
+  "Takım çalışmasına uyumlu"
+ ],
+ "calisma_ortami": "Konfeksiyon ürünlerini katlama/paketleme işçisi, tekstil ve konfeksiyon fabrikalarının genellikle ütüleme sonrası paketleme bölümünde, kapalı mekânda çalışır. Çalışma masası veya bant düzeninde, oturarak ya da ayakta, kol ve el hareketlerinin sürekli tekrarlandığı bir tempoda görev yapar. Ortamda ütü bölümünden gelen sıcaklık, kumaş tozu ve lifleri bulunabilir; uzun süre aynı hareketleri tekrarlamak kas-iskelet sistemi yorgunluğuna yol açabilir.\n\nÇalışma genellikle işletmenin üretim programına bağlı olarak gündüz vardiyasında, yoğun sipariş dönemlerinde ise vardiyalı veya fazla mesaili şekilde sürdürülür. Meslek elemanı görevini çoğunlukla bir ekip içinde, diğer paketleme işçileri, üretim hattı sorumlusu ve kalite kontrol elemanlarıyla iş birliği içinde yürütür.",
+ "egitim": {
+  "verildigi_yerler": "Bu meslek için örgün bir mesleki eğitim programı (meslek lisesi alanı/dalı gibi) bulunmamaktadır. Meslek genellikle işyerlerinde usta yanında işbaşı eğitimi yoluyla kazanılmakta; ayrıca Türkiye İş Kurumu (İŞKUR) ve Halk Eğitim Merkezlerinin açtığı kısa süreli mesleki eğitim kurslarıyla da öğrenilebilmektedir.",
+  "giris_kosullari": [
+   "Okur yazar olmak (mesleğin gerektirdiği minimum eğitim düzeyi)",
+   "İş Kanunu'nda belirtilen asgari çalışma yaşını doldurmuş olmak",
+   "El becerisi ve göz-el koordinasyonu gerektiren işe uygun sağlık durumuna sahip olmak",
+   "Kurs türüne göre İŞKUR veya Halk Eğitim Merkezine kayıt için gereken temel şartları taşımak"
+  ],
+  "sure_ve_icerik": "Resmî, standart bir eğitim süresi bulunmamaktadır. İşbaşı eğitimde süre işletmeye göre birkaç gün ile birkaç hafta arasında değişebilir; kurs içeriğinde ürün kontrolü, katlama teknikleri, etiketleme, poşetleme ve paketleme standartları, temel kalite kontrol ile iş sağlığı ve güvenliği konuları yer alır. İŞKUR ve Halk Eğitim Merkezi kurslarında teorik ve uygulamalı eğitim bir arada verilir.",
+  "belge": "İşbaşı eğitimde resmî bir belge düzenlenmeyebilir. İŞKUR işgücü yetiştirme kursları veya Halk Eğitim Merkezi kurslarını tamamlayanlara katılım/kurs bitirme belgesi verilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, zorunlu olmamakla birlikte istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Konfeksiyon ürünlerini katlama/paketleme işçisi, hazır giyim ve konfeksiyon üreten fabrika ve atölyelerin paketleme bölümlerinde, ayrıca bazı tekstil ürünleri ambalajlama ve lojistik/depo işletmelerinde çalışabilir. İş bulma olanakları, tekstil ve konfeksiyon sektörünün yoğunlaştığı illerde ve ihracat sezonlarında sipariş yoğunluğuna bağlı olarak artış gösterebilir. Sektördeki üretim hacmine ve sipariş dönemlerine göre mevsimsel istihdam dalgalanmaları görülebilir.",
+ "kazanc": {
+  "egitim_suresince": "İşbaşı eğitim sırasında genellikle çırak/stajyer niteliğinde düşük bir ücret veya işletmenin politikasına göre herhangi bir ücret ödenmeyebilir. İŞKUR işgücü yetiştirme kurslarına katılanlara kurs süresince yasal mevzuat çerçevesinde cüzi bir harçlık ve kursiyer sigortası sağlanabilir.",
+  "egitim_sonrasi": [
+   "Özel sektörde çalışanların kazancı genellikle asgari ücret düzeyinde başlar; işyerinin büyüklüğüne, kişinin tecrübesine, çalışma hızına ve üretkenliğine göre prim veya parça başı ek kazançla değişebilir.",
+   "Kamuda bu meslek dalında istihdam yaygın değildir; istisnai olarak kamuya bağlı üretim tesislerinde çalışılması halinde ilgili mevzuata (657 sayılı Kanun veya toplu iş sözleşmesi hükümlerine) tabi olunur."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Meslekte örgün bir ilerleme basamağı (kalfalık-ustalık sistemi gibi) bulunmamaktadır. Kişi isterse ilgili mesleki ve teknik eğitim programlarına veya Mesleki Yeterlilik Kurumu (MYK) sınavlarına katılarak belgesini güçlendirebilir, ayrıca farklı kurs ve eğitimlerle bilgi ve becerisini geliştirebilir.",
+  "is_hayatinda": "Deneyim kazandıkça ekip lideri, vardiya sorumlusu veya kalite kontrol elemanı gibi görevlere yükselme imkânı bulunur. İlerleme büyük ölçüde kişinin performansına, işyerindeki kıdemine ve işletmenin organizasyon yapısına bağlıdır."
+ },
+ "benzer_meslekler": [
+  "Kumaş Paketleme İşçisi",
+  "Battaniye/Nevresim Katlama İşçisi",
+  "Battaniye/Nevresim Paketleme İşçisi",
+  "Etiket Yapıştırma İşçisi (Elle)",
+  "Ambalajlama İşçisi (Elle)",
+  "Paketleme İşçisi"
+ ],
+ "ek_bilgiler": "Bu meslekte istihdam, tekstil ve konfeksiyon sektöründeki sipariş yoğunluğuna bağlı olarak mevsimsel dalgalanma gösterebilir; ihracat sezonlarında ve kampanya dönemlerinde (bayram öncesi vb.) işe alım artabilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T20:02:43",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5018
+  }
+ }
+}

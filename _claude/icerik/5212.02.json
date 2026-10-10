@@ -1,0 +1,78 @@
+{
+ "arac_gerec": [
+  "Süt güğümü/kovası",
+  "Süt sağım kapları",
+  "Süzgeç/filtre bezi",
+  "Litrelik ölçek kabı",
+  "Süt deposu/tankı",
+  "Süt taşıma aracı (bisiklet, motosiklet, el arabası veya kamyonet)",
+  "Soğutucu kap veya buz",
+  "Temizlik malzemeleri (deterjan, fırça, sıcak su kazanı)",
+  "Hesap defteri ve kalem",
+  "Hayvan yemliği ve suluğu (hayvan besleyenler için)",
+  "Sağım makinesi (varsa)",
+  "Önlük ve hijyen malzemeleri"
+ ],
+ "genel_ozellikler": [
+  "Fiziksel olarak dayanıklı ve güçlü,",
+  "Erken saatlerde ve düzenli çalışmaya uygun,",
+  "Dürüst ve güvenilir,",
+  "Temizlik ve hijyen kurallarına dikkat eden,",
+  "İnsan ilişkilerinde başarılı,",
+  "Sorumluluk sahibi,",
+  "Basit hesap işlemlerini yapabilen,",
+  "Her türlü hava koşulunda çalışabilen"
+ ],
+ "gorevler": [
+  "Üreticilerden müşterilerine dağıtımını yapabileceği miktarda süt satın alır.",
+  "Devamlı süt alımı yapmak için bağlantı kurar.",
+  "Satın aldığı ya da kendisi tarafından evinde hayvan besleyerek elde ettiği sütü kendisine ait araç üzerinde bulunan depoya doldurur.",
+  "Müşterilerine dağıtım yapmak üzere yerleşim mahalline gider.",
+  "Satın almak için gelen müşterilerine istedikleri miktarda litre ile ölçerek süt verir.",
+  "Süt ücretlerini hesaplayarak nakit ya da aylık toplam olarak tahsil eder.",
+  "Günlük süt dağıtımından sonra depoda süt kalmışsa depoyu boşaltarak kalan sütü korumaya alır.",
+  "Boşalan süt deposu ve kullandığı malzemeleri sıcak su ile yıkar.",
+  "Hayvan beslemek suretiyle süt elde ediyorsa hayvanlardan süt sağımı yapar veya yaptırır.",
+  "Hayvanlar için beslenme, bakım ve barınma faaliyetlerini yürütür.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "calisma_ortami": "\"Sütçü-seyyar süt satıcıları genellikle açık havada, mahalle ve sokak aralarında dolaşarak çalışır; sabahın erken saatlerinde işe başlamaları yaygındır. Hayvan besleyerek süt elde edenler, barınma ve sağım işlemleri için ahır veya ağıl gibi kapalı mekanlarda da bulunabilir. Çalışma her mevsim ve hava koşulunda sürdürülebildiğinden fiziksel dayanıklılık gerektirir; süt depolarını ve ekipmanlarını taşımak bedensel güç ister.\\n\\nMeslek icra edilirken doğrudan müşterilerle yüz yüze iletişim kurulur, güven ilişkisine dayalı sabit bir müşteri çevresi oluşturulur. Gıda maddesiyle çalışıldığından hijyen kurallarına uyulması, sütün temiz ve sağlıklı koşullarda taşınıp saklanması önem taşır.\"",
+ "egitim": {
+  "verildigi_yerler": "Sütçü-seyyar süt satıcılığı mesleğinin icrası için örgün eğitimde ayrı bir meslek lisesi alanı/dalı bulunmamaktadır. Meslek genellikle işbaşında, usta yanında ya da aile içinde deneyim yoluyla öğrenilmektedir. Gıda ile ilgili hijyen kuralları konusunda Halk Eğitim Merkezleri ile İŞKUR tarafından açılan mesleki eğitim kursları ve gıda hijyeni eğitimleri bu alanda çalışacaklara destek sağlayabilir.",
+  "giris_kosullari": [
+   "Herhangi bir öğrenim şartı aranmamaktadır; okuryazar olmak yeterli kabul edilir.",
+   "Gıda üretimi/satışı ile uğraşacaklar için ilgili mevzuat kapsamında gıda hijyeni eğitimi alınması ve belgelendirilmesi gerekmektedir.",
+   "Hayvan besleyerek süt üretecekler için hayvan bakımı konusunda temel bilgi sahibi olmak faydalıdır."
+  ],
+  "sure_ve_icerik": "Mesleğe özgü resmî ve standart bir eğitim programı bulunmamaktadır. Bilgi ve beceriler genellikle ailede veya usta yanında çalışılarak, uygulamalı olarak kazanılır. Gıda güvenliği, hijyen, sütün taşınması ve saklanması konularında kısa süreli kurslara katılım mümkündür.",
+  "belge": "Standart bir diploma veya meslek belgesi bulunmamaktadır. Gıda ile ilgili faaliyet için mevzuat gereği alınması gereken hijyen eğitimi sertifikası ve varsa işyeri/seyyar satış izin belgesi önemlidir. Katılınan kurslardan katılım belgesi alınabilir."
+ },
+ "calisma_alanlari": "\"Sütçü-seyyar süt satıcıları genellikle kendi hesabına çalışır; belirledikleri sabit müşteri çevresine kapıdan kapıya süt dağıtımı yaparak gelir sağlarlar. Köylerde veya kasabalarda hayvancılıkla geçinen aileler, kendi hayvanlarından elde ettikleri sütü bu şekilde pazarlayabilir. Kentsel alanlarda ise toplayıcı olarak üreticilerden süt satın alıp mahallelere dağıtım yapanlar bulunmaktadır.\\n\\nGünümüzde paketli ve markalı süt ürünlerinin market zincirleri aracılığıyla yaygınlaşması, seyyar süt satıcılığının görece daraldığı bir alan olmasına yol açmıştır; buna karşın özellikle kırsal ve kasaba yerleşimlerinde, güvenilir ve taze süt arayan müşteri kitlesi sayesinde meslek varlığını sürdürmektedir. Deneyim kazananlar süt ürünleri (yoğurt, peynir vb.) satışına geçerek faaliyet alanlarını genişletebilir.\"",
+ "kazanc": {
+  "egitim_suresince": "Mesleğe özgü standart bir eğitim süreci ve buna bağlı ücretlendirme bulunmamaktadır. Meslek genellikle aile işletmesi içinde veya usta yanında öğrenilirken, bu süreçte kazanç elde edilmesi işverenle yapılan anlaşmaya bağlıdır.",
+  "egitim_sonrasi": [
+   "Kendi hesabına çalışanların kazancı; sahip oldukları müşteri sayısına, sattıkları süt miktarına ve satış bölgesine göre değişkenlik gösterir.",
+   "Bir işletme veya üretici adına dağıtım yapan ücretli çalışanların geliri genellikle asgari ücret düzeyinde başlar ve işveren ile yapılan anlaşmaya göre artabilir.",
+   "Kazanç, mevsimsel koşullara, süt fiyatlarındaki değişime ve müşteri sadakatine göre dalgalanma gösterebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğe özgü örgün bir eğitim basamağı bulunmadığından sözlük anlamında bir diploma ilerlemesi yoktur. İlgilenenler, gıda güvenliği, hijyen, hayvan yetiştiriciliği ve süt ürünleri işleme konularında açılan kurslara katılarak bilgi ve becerilerini geliştirebilir.",
+  "is_hayatinda": "Deneyim ve birikim sağlayan sütçüler, müşteri sayısını artırarak işlerini büyütebilir; süt ürünleri (yoğurt, peynir, tereyağı) üretim ve satışına geçebilir. Sermaye biriktirenler küçük ölçekli bir süt/süt ürünleri işletmesi veya dükkânı açabilir, dağıtım ağını genişletebilir ya da bir süt toplama/satış kooperatifine ortak olabilir."
+ },
+ "benzer_meslekler": [
+  "Sokak Satıcısı / İşportacı (Gıda)",
+  "Diğer Sokak Satıcıları/İşportacılar (Gıda)",
+  "Pazarcı",
+  "Büfeci"
+ ],
+ "ek_bilgiler": "\"Paketli ve markalı süt ürünlerinin market zincirleri aracılığıyla yaygınlaşması nedeniyle seyyar süt satıcılığı günümüzde özellikle büyük şehirlerde azalma eğiliminde olan bir meslektir; kırsal ve kasaba yerleşimlerinde ise varlığını sürdürmektedir. Gıda maddesi satışı yapıldığından ilgili mevzuat kapsamında hijyen eğitimi alınması ve sağlık/gıda güvenliği kurallarına uyulması önemlidir.\"",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T18:14:58",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5439
+  }
+ }
+}

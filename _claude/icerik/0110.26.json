@@ -1,0 +1,73 @@
+{
+ "gorevler": [
+  "Bölüğün eğitim, atış ve spor faaliyetlerini yönetir.",
+  "Personelin özlük işlerini ve disiplin süreçlerini takip eder.",
+  "Birliğe ait araç ve mühimmatın bakımını denetler.",
+  "Nöbet ve iç emniyet hizmetlerini koordine eder.",
+  "Üst makamlarca verilen görevleri yerine getirir.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "arac_gerec": [
+  "Kişisel silah ve mühimmat",
+  "Haberleşme cihazları (telsiz vb.)",
+  "Harita, pusula ve arazi tespit araçları",
+  "Askeri taşıt ve zırhlı araçlar",
+  "Kişisel koruyucu donanım (miğfer, yelek vb.)",
+  "Bilgisayar ve büro yazılımları (rapor ve özlük işlemleri için)",
+  "Atış ve eğitim poligonu ekipmanları",
+  "GPS ve navigasyon cihazları",
+  "Üniforma ve kişisel teçhizat",
+  "İlk yardım malzemeleri",
+  "Nöbet ve devriye ekipmanları"
+ ],
+ "genel_ozellikler": [
+  "Liderlik vasıflarına sahip,",
+  "Sorumluluk duygusu gelişmiş,",
+  "Fiziksel ve psikolojik yönden sağlıklı,",
+  "Disiplinli ve kurallara bağlı,",
+  "Çabuk ve doğru karar verebilen,",
+  "Stres altında soğukkanlılığını koruyabilen,",
+  "İnsan ilişkilerinde başarılı,",
+  "Vatan ve millet sevgisiyle hareket eden"
+ ],
+ "calisma_ortami": "Yüzbaşı (Kara Kuvvetleri), kışla, karargah, eğitim alanları, atış poligonları, arazi ve tatbikat sahaları gibi hem kapalı hem açık mekânlarda görev yapar. Görev gereği farklı coğrafi bölgelerde, sınır birliklerinde veya yurt dışı görevlerde uzun süreli konuşlanmalar söz konusu olabilir; zorlu hava ve arazi koşullarında çalışmak gerekebilir.\n\nÇalışma saatleri düzensizdir; nöbet, tatbikat ve olağanüstü durumlarda uzun mesai ve gece çalışması söz konusu olabilir. Silah ve mühimmatla iç içe, zaman zaman fiziksel risk taşıyan operasyonel görevler üstlenir. Üst rütbeli subaylar, emrindeki astsubay ve erler ile sürekli iletişim hâlinde, hiyerarşik ve disiplinli bir yapı içinde çalışır.",
+ "egitim": {
+  "verildigi_yerler": "Bu meslek, Millî Savunma Üniversitesi bünyesindeki Kara Harp Okulu'nda verilen lisans düzeyindeki askeri eğitim sonucunda subay nasbedilerek edinilir.",
+  "giris_kosullari": [
+   "Lise mezunu olmak ve Türk Silahlı Kuvvetlerinin belirlediği yaş, sağlık ve fiziki yeterlilik şartlarını taşımak",
+   "İlgili üniversite giriş sınavından yeterli puanı almak ve Kara Harp Okulu tarafından yapılan yazılı/sözlü sınav, fiziki yeterlilik testi ve mülakatta başarılı olmak",
+   "Adli sicil kaydı bulunmamak ve güvenlik soruşturmasını olumlu şekilde sonuçlandırmak"
+  ],
+  "sure_ve_icerik": "Kara Harp Okulu'nda eğitim dört yıl sürer. Bu süreçte askeri bilimler, liderlik, disiplin ve fiziki eğitimin yanı sıra seçilen bölüme göre mühendislik veya sosyal bilimler alanında lisans düzeyinde dersler okutulur. Mezuniyetin ardından teğmen rütbesiyle göreve başlanır; belirli kıdem süresinin tamamlanması ve sicil değerlendirmeleri sonucunda üsteğmenliğin ardından yüzbaşılık rütbesine terfi edilir.",
+  "belge": "Kara Harp Okulu diploması ile birlikte subaylık (teğmenlik) nasbı belgesi verilir; yüzbaşılık ise bu rütbeden sonra kıdem ve terfi sistemi çerçevesinde kazanılır."
+ },
+ "calisma_alanlari": "Türk Silahlı Kuvvetleri bünyesinde Kara Kuvvetleri Komutanlığı'na bağlı birlik, karargah ve kurumlarda görev yapar. Yurt içinde çeşitli garnizonlarda, sınır birliklerinde, eğitim merkezlerinde; gerektiğinde barışı destekleme harekâtı, uluslararası tatbikat gibi yurt dışı görevlerde istihdam edilebilir. Kamu görevi niteliğinde olduğundan özel sektörde bu unvanla çalışma imkânı bulunmamaktadır.",
+ "kazanc": {
+  "egitim_suresince": "Kara Harp Okulu öğrencileri (harbiyeliler) eğitim süresince yatılı olarak barındırılır; iaşe, giyim ve diğer temel ihtiyaçları karşılanır, ayrıca kendilerine belirli bir harçlık ödenir.",
+  "egitim_sonrasi": [
+   "Yüzbaşılar, 657 sayılı Devlet Memurları Kanunu'na değil, Türk Silahlı Kuvvetleri Personel Kanunu ve ilgili özlük mevzuatına tabi olarak rütbe ve kıdeme bağlı aylık ücret ile çeşitli tazminat ve ek ödemeler alır.",
+   "Kazanç düzeyi; rütbe, kıdem yılı, görev yeri (sınır bölgesi, tatbikat, yurt dışı görevi vb.) ve mevzuata göre belirlenen ek ödemelere bağlı olarak değişiklik gösterir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Teğmenlikten başlayan subaylık kariyerinde, belirli kıdem sürelerinin tamamlanması, sicil notları ve çeşitli kurs/okul başarılarına göre üsteğmen, yüzbaşı, binbaşı ve daha üst rütbelere terfi edilir. Kurmaylık eğitimi ve çeşitli uzmanlık/branş kursları kariyer gelişimini destekler.",
+  "is_hayatinda": "Yüzbaşılar, kıdem ve performanslarına göre sırasıyla binbaşı, yarbay, albay rütbelerine; üstün başarı gösterenler ise general/amiralliğe kadar yükselebilir. Ayrıca kurmay subaylık, karargah ve komuta kademelerinde üst düzey görevlere veya akademik/eğitim görevlerine atanabilirler."
+ },
+ "benzer_meslekler": [
+  "Binbaşı (Kara Kuvvetleri)",
+  "Üsteğmen (Kara Kuvvetleri)",
+  "Teğmen (Kara Kuvvetleri)",
+  "Yüzbaşı (Hava Kuvvetleri)",
+  "Yüzbaşı(Deniz Kuvvetleri)",
+  "Yüzbaşı (Jandarma)"
+ ],
+ "ek_bilgiler": "Bu meslekte görev alabilmek için Türk Silahlı Kuvvetlerinin belirlediği sağlık, fiziki yeterlilik ve güvenlik soruşturması şartlarının karşılanması esastır. Atanma, terfi ve özlük işlemleri Türk Silahlı Kuvvetleri Personel Kanunu ve ilgili yönetmelikler çerçevesinde yürütülür.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-07T17:21:24",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5836
+  }
+ }
+}

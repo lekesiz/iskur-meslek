@@ -1,0 +1,79 @@
+{
+ "arac_gerec": [
+  "Konik yapma makinesi (tezgah)",
+  "Kesici bıçaklar ve bıçak takma aparatları",
+  "Mengene ve diğer bağlama aparatları",
+  "Ölçü aletleri (kumpas, şerit metre, mastar)",
+  "İşaretleme kalemi, gönye",
+  "Bileme taşı/bileme makinesi",
+  "El aletleri (anahtar, tornavida vb.)",
+  "Koruyucu gözlük, iş eldiveni, kulaklık gibi kişisel koruyucu donanım",
+  "Temizlik fırçası, bezi ve basınçlı hava tabancası",
+  "Yağlama ekipmanları"
+ ],
+ "benzer_meslekler": [
+  "Torna Tezgahı Ayarcı-Operatörü (Ağaç)",
+  "Freze Tezgahı Ayarcı-Operatörü (Ağaç)",
+  "Planya Tezgahı Ayarcı-Operatörü (Ağaç)",
+  "Ağaç İşleme Tezgahı Ayarcı Operatörü",
+  "Ahşap İşleme Makineleri Operatörü",
+  "Ahşap Tornacısı"
+ ],
+ "calisma_alanlari": "Konik Yapma Makinesi Ayarcı-Operatörleri (Ağaç); mobilya, ahşap doğrama, kontrplak ve yapı elemanı üreten fabrika ve atölyelerde, özellikle sandalye/masa ayağı, merdiven kolu, tırabzan gibi konik ahşap parçaların üretildiği işletmelerde istihdam edilir. Çalışma alanı genellikle üretim bantlarının bulunduğu imalathaneler ve mobilya fabrikalarıdır; bu meslekte çoğunlukla erkek çalışanlar yer almaktadır. İş bulma olanakları, ahşap mobilya ve yapı malzemesi sektörünün bulunduğu sanayi bölgelerinde daha fazladır.",
+ "calisma_ortami": "Konik Yapma Makinesi Ayarcı-Operatörleri (Ağaç) genellikle fabrika ve atölyelerin üretim bölümlerinde, kapalı mekânlarda çalışır. Çalışma ortamı talaş ve toz içerebilir, makine sesine bağlı olarak gürültülü olabilir; dönen bıçaklarla çalışıldığından iş kazası riski bulunur, bu nedenle kişisel koruyucu donanım kullanımı ve iş güvenliği kurallarına uyum önemlidir. Çalışma genellikle ayakta ve belirli bir vücut gücü gerektirecek şekilde sürdürülür.\n\nİşletmenin üretim programına göre tek veya çok vardiyalı çalışma söz konusu olabilir. Meslek elemanı; ustabaşı, diğer makine operatörleri, kalite kontrol ve bakım personeli ile sürekli iletişim halindedir.",
+ "egitim": {
+  "verildigi_yerler": "Bu meslek için örgün eğitim kurumlarında ayrı bir meslek lisesi programı bulunmamaktadır. Kişiler genellikle ahşap/mobilya sektöründeki işletmelerde işbaşında usta yanında yetişirler. Ayrıca Halk Eğitim Merkezleri ile İŞKUR'un açtığı mesleki eğitim kursları ve mesleki eğitim merkezlerinin ahşap işleri/mobilya ile ilgili alanlarındaki eğitimler bu mesleğe hazırlayıcı nitelik taşıyabilir.",
+  "giris_kosullari": [
+   "İlköğretim mezunu olmak (meslek için gereken minimum eğitim düzeyi)",
+   "Mesleğin gerektirdiği fiziksel ve sağlık koşullarına uygun olmak",
+   "İşbaşında yetişme sürecine başlamak için bir işyeri bulmak"
+  ],
+  "sure_ve_icerik": "Mesleğin belirli ve standart bir eğitim süresi yoktur. Eğitim; makinenin tanıtımı, bıçakların kontrolü, değişimi ve bilenmesi, ölçü alma ve işaretleme, parçanın bağlanması, konikleştirme (talaş alma) işlemi ve iş güvenliği kurallarını kapsayacak şekilde, işyerinde usta gözetiminde uygulamalı olarak verilir. Süre, kişinin önceki tecrübesine ve işyerinin ihtiyacına göre değişir.",
+  "belge": "Örgün bir diploma veya sertifika zorunluluğu bulunmamaktadır. Halk Eğitim Merkezi veya İŞKUR kurslarına katılanlara kurs bitirme belgesi verilebilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, bazı işyerlerinde istihdamda tercih sebebi olabilir."
+ },
+ "ek_bilgiler": "Bu meslek dönen bıçaklı makinelerle çalışmayı içerdiğinden iş sağlığı ve güvenliği kurallarına dikkat edilmesi büyük önem taşır. Örgün bir meslek eğitimi programı bulunmadığından, bu alanda çalışmak isteyenler genellikle ahşap işleme/mobilya sektöründeki işletmelerde işbaşında deneyim kazanarak mesleğe adım atar.",
+ "genel_ozellikler": [
+  "El ve gözünü eşgüdümle kullanabilen,",
+  "El becerisine sahip,",
+  "Dikkatli ve tedbirli,",
+  "Şekil-uzay ilişkilerini görebilen,",
+  "Makine ve aletlerle çalışmaktan hoşlanan,",
+  "Fiziksel olarak dayanıklı,",
+  "Sorumluluk sahibi,",
+  "Takım çalışmasına uyumlu,"
+ ],
+ "gorevler": [
+  "İşletmenin genel çalışma prensipleri doğrultusunda araç, gereç ve ekipmanları etkin biçimde kullanarak iş organizasyonu yapar,",
+  "Makine üzerinde takılı bulunan bıçakları kontrol eder,",
+  "Kör olan bıçakları çıkartarak yerlerine yenilerini takar,",
+  "İşlenecek ağaç parçasını verilen ölçülerde işaretler veya işaretlenmiş parçaların ölçülerini kontrol eder,",
+  "Parçayı mengene veya diğer bağlama aparatları yardımıyla makine üzerine tespit ederek makineyi çalıştırır,",
+  "Tablayı hareket halindeki bıçaklara doğru sürerek bıçakları parçaya daldırır,",
+  "Talaş alma işlemini takip eder,",
+  "İşlenen parçayı bıçaklardan uzaklaştırır,",
+  "Ölçü aletleri ile kontrol eder, gerekirse talaş alma işine devam eder,",
+  "İş bitiminde işlenen parçayı makine tablası üzerinden alır, tezgahın bakım ve temizliğini yapar,",
+  "Körelen bıçakları biler,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Bu meslekte örgün bir ilerleme basamağı bulunmamaktadır. Kişiler açık öğretim veya ilgili kurslara katılarak eğitim düzeylerini yükseltebilir, mesleki eğitim merkezlerinin ahşap/mobilya ile ilgili alanlarına yönelerek belge alabilir.",
+  "is_hayatinda": "Deneyim kazanan operatörler, freze, planya, torna gibi farklı ağaç işleme tezgahlarını da kullanabilen usta operatör, vardiya/bölüm sorumlusu veya ustabaşı konumuna yükselebilir. Yeterli bilgi ve birikime sahip olanlar kendi atölyelerini açabilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Mesleğin eğitimi genellikle işyerinde işbaşında (usta yanında) verildiğinden, bu süreçteki kişilere işletmenin uygulamalarına göre ücret ödenebilir. Halk Eğitim Merkezi veya İŞKUR kurslarına katılanlara ise kursiyer harçlığı ödenebilir.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanların kazancı genellikle asgari ücret düzeyindedir.",
+   "Deneyim, bilgi, beceri ve çalışılan işletmenin büyüklüğüne göre kazanç artabilir.",
+   "Bu meslekte kamuda memur statüsünde istihdam yaygın değildir; özel sektörde çalışanlar işçi statüsünde çalışır."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T08:06:52",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6575
+  }
+ }
+}

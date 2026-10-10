@@ -1,0 +1,91 @@
+{
+ "arac_gerec": [
+  "Ampermetre, voltmetre, ohmmetre, multimetre, megohmmetre gibi ölçüm ve kontrol cihazları",
+  "İzolasyon direnci test cihazı ve topraklama ölçüm cihazı",
+  "Pense, tornavida, kargaburun, izoleli el aletleri, kontrol kalemi",
+  "Kablo, duy, fiş, sigorta, kontaktör, röle, şalter gibi elektrik malzemeleri",
+  "Havya, lehim, kablo soyma ve sıkma aletleri",
+  "Elektrik panoları, dağıtım kutuları ve devre şemaları/teknik dokümanlar",
+  "Kişisel koruyucu donanım (izoleli eldiven, baret, izoleli ayakkabı, yüz/göz koruyucu, iş elbisesi)",
+  "Elektrikli el aletleri (matkap vb.)",
+  "Taşınabilir ışıklandırma ve işaretleme ekipmanları",
+  "Yangın söndürme ekipmanları",
+  "Kurulum/söküm işlerinde kullanılan kaldırma ve platform ekipmanları",
+  "Telsiz veya benzeri iletişim cihazları"
+ ],
+ "genel_ozellikler": [
+  "El ve beden koordinasyonu iyi,",
+  "Dikkatli, tedbirli ve sabırlı,",
+  "Sorumluluk duygusu gelişmiş,",
+  "Mekanik ve elektrik konularına ilgili ve yetenekli,",
+  "Analitik düşünebilen ve problem çözme becerisine sahip,",
+  "Fiziksel olarak sağlıklı ve dayanıklı,",
+  "Ekip içinde uyumlu çalışabilen,",
+  "Talimat ve teknik dokümanları doğru okuyup uygulayabilen"
+ ],
+ "calisma_ortami": "İşletme Elektrik Bakım Ustası, genellikle fabrika, üretim tesisi, enerji santrali, büyük bina veya tesislerin bakım-onarım birimlerinde çalışır. Çalışma alanı; üretim hatları, pano ve trafo odaları, kapalı atölyeler olabileceği gibi, arıza giderme veya kurulum çalışmaları sırasında açık alanlarda, yüksekte veya dar mekanlarda da görev yapması gerekebilir. Elektrik enerjisiyle doğrudan çalıştığı için elektrik çarpması, yangın ve kazalara karşı dikkatli olunması ve iş güvenliği kurallarına titizlikle uyulması gerekir.\n\nÇalışma saatleri genellikle işletmenin üretim programına bağlıdır; sürekli üretim yapan tesislerde vardiyalı çalışma ve acil arızalarda mesai dışı çağrılma söz konusu olabilir. Görevi sırasında başta bakım/üretim ekibi, mühendisler, operatörler ve teknik yöneticiler olmak üzere işletme içindeki çalışanlarla sürekli iletişim halindedir.",
+ "gorevler": [
+  "İş sağlığı ve güvenliği, yangın ve acil durum kurallarını uygular",
+  "Kalite yönetim sistemi ile ilgili faaliyetleri yürütür",
+  "İş organizasyonu yapar",
+  "Çalışma alet ve donanımlarının koruyucu ve talimatlı bakımlarını sağlar",
+  "Bakım/onarımı yapılacak makine/cihazın teknik özelliklerini inceler",
+  "Kullanılacak alet, araç, gereç ve donanımları hazırlar",
+  "İlgili makine/cihaz ve donanımların fiili çalışmalarını sistematik olarak kontrol eder",
+  "Makine/cihaz ve donanımları gözlemleyerek normal olmayan durumları tespit eder",
+  "İşlemlere başlamadan önce güvenlik önlemlerini alır",
+  "Bakım yapılacak ekipmanın temizliğinin yapılmasını sağlar",
+  "Planlı bakımları gerçekleştirir ve takip eder",
+  "Elektriksel ayarları yapar",
+  "Planlı bakım sonrası kontrolleri yapar",
+  "Kurulum, yer değiştirme ve söküm işlemlerini gerçekleştirir",
+  "İşletme içinde kurulumu yapılan tesisatı denetler",
+  "Elektrik tesisatı bakım ve onarım işlemlerini yapar",
+  "Yüksek gerilim ve alçak gerilim hücrelerinin bakım, kontrol ve işletimini gözetim altında yapar",
+  "Topraklama tesisatı yapar",
+  "Arızayı tespit eder ve ortadan kaldırır",
+  "Elektrik manevraları yapar",
+  "Yapılan bakımların ve onarımların sonuçlarını raporlar",
+  "Mesleki gelişim faaliyetlerine katılır"
+ ],
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi, mesleki ve teknik ortaöğretim okul/kurumlarının Elektrik-Elektronik Teknolojisi alanına bağlı dallarında verilmektedir. Ayrıca mesleki eğitim merkezlerinde çıraklık eğitimi yoluyla, işletmelerde usta öğretici gözetiminde uzun süreli çalışarak da bu meslekte yetişilebilir. Halk Eğitim Merkezleri ile İŞKUR'un açtığı mesleki eğitim kursları, temel bilgi ve becerilerin kazanılmasına katkı sağlar; ancak işletme bakım ustalığı düzeyine genellikle mesleki eğitimin yanı sıra işbaşında kazanılan deneyimle ulaşılır.",
+  "giris_kosullari": [
+   "Ortaokulu tamamlamış olmak,",
+   "Milli Eğitim Bakanlığınca okul türüne ve alan/dala göre belirlenen giriş koşullarını taşımak,",
+   "Mesleki eğitim merkezi yoluyla eğitim için ilgili alanda çalıştıracak bir işletme ile sözleşme yapmak."
+  ],
+  "sure_ve_icerik": "Mesleki ve teknik ortaöğretimde Elektrik-Elektronik Teknolojisi alanındaki eğitim 4 yıl sürer; ilk yılda ortak temel dersler verilir, sonraki yıllarda dala özgü teorik ve uygulamalı dersler okulda ve işletmelerde yürütülür. Mesleki eğitim merkezlerinde çıraklık eğitimi ise teorik dersler ile işletmede usta yanında uygulamalı eğitimi birlikte içerir ve 3308 sayılı Mesleki Eğitim Kanunu'na göre yürütülür. Her iki yolda da işletme elektrik sistemlerinin bakım, onarım ve kurulumuna ilişkin bilgi ve beceriler kazandırılır. Ayrıca mesleğin uygulamalı yönü nedeniyle, meslekte ustalaşma büyük ölçüde işbaşında kazanılan deneyimle tamamlanır.",
+  "belge": "Mesleki ve teknik ortaöğretimi tamamlayanlara meslek lisesi diploması verilir. Mesleki eğitim merkezi yoluyla eğitim alanlar, 3308 sayılı Kanun kapsamında kalfalık ve ardından ustalık belgesi alabilir. Bu meslek, yüksek gerilim gibi tehlikeli/çok tehlikeli işler kapsamında değerlendirilebilen işler içerdiğinden, çalışılan işyerine göre Mesleki Yeterlilik Kurumu (MYK) Mesleki Yeterlilik Belgesi istenebilir veya istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "İşletme Elektrik Bakım Ustaları, elektrik enerjisi kullanılan ve bakım gerektiren her türlü üretim ve hizmet işletmesinde istihdam edilebilir. Başlıca çalışma alanları; tekstil, gıda, otomotiv, metal, kimya ve plastik gibi sanayi işletmelerinin bakım-onarım birimleri, enerji üretim ve dağıtım tesisleri, hastaneler, alışveriş merkezleri, büyük konut/iş siteleri ve taahhüt firmalarıdır. Sanayi ve üretim tesislerinin yoğun olduğu bölgelerde iş bulma olanağı daha fazladır; deneyimli ve belgeli ustalar için istihdam olanakları görece geniştir. Yeterli sermaye ve yasal şartları sağlayanlar kendi bakım/taahhüt işletmelerini kurabilir.",
+ "kazanc": {
+  "egitim_suresince": "Mesleki eğitim merkezi veya mesleki ve teknik ortaöğretim kapsamında işletmelerde mesleki eğitim gören öğrencilere, 3308 sayılı Mesleki Eğitim Kanunu gereğince asgari ücretin net tutarının belirli bir oranından aşağı olmamak üzere ücret ödenir; eğitim gören öğrencilerin iş kazası ve meslek hastalığı sigorta primleri devletçe karşılanır.",
+  "egitim_sonrasi": [
+   "Kamu kurum ve kuruluşlarında işçi statüsünde çalışanların ücreti ilgili toplu iş sözleşmesi hükümlerine göre belirlenir.",
+   "Özel sektörde kazanç; işyerinin büyüklüğü, kişinin deneyimi, bilgi ve becerisi ile sektörün ücret düzeyine göre değişmekle birlikte, mesleğe yeni başlayanlarda genellikle asgari ücret düzeyindedir.",
+   "Deneyim kazanılması, yüksek gerilim veya otomasyon gibi özel alanlarda uzmanlaşma ve sorumluluk üstlenme ile kazanç artabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleki ve teknik ortaöğretim kurumlarının Elektrik-Elektronik Teknolojisi alanından mezun olanlar, alanın devamı niteliğindeki yükseköğretim ön lisans programlarını (Elektrik, Elektrik-Elektronik, Mekatronik, Otomasyon vb.) tercih ettiklerinde sınavsız geçiş veya ek puandan yararlanabilir. Mesleki eğitim merkezi yoluyla kalfalık/ustalık belgesi alanlar da ilgili sınavlara girerek örgün veya açık öğretim yoluyla eğitimlerine devam edebilir. Ayrıca, YKS'de başarılı olunması durumunda ilgili lisans programlarına da geçiş yapılabilir.",
+  "is_hayatinda": "Deneyim kazanan İşletme Elektrik Bakım Ustaları; ustabaşı, bakım şefi veya teknik servis şefi gibi görevlere yükselebilir. Yüksek gerilim sistemleri, otomasyon, PLC programlama gibi özel alanlarda uzmanlaşabilir. Gerekli izin ve yeterlilikleri sağlayanlar kendi bakım/taahhüt işletmelerini kurabilir."
+ },
+ "benzer_meslekler": [
+  "Elektrik Tesisatları ve Dağıtımı Teknisyeni / Elektrik Teknisyeni",
+  "Elektrik Teknisyeni-Yüksek Voltaj",
+  "Yüksek Gerilim Sistemleri Teknisyeni",
+  "Elektrik Tesisat Ustası",
+  "Elektrik-Elektronik Teknolojisi Teknisyeni",
+  "Enerji Tesisleri İşletme Teknikeri"
+ ],
+ "ek_bilgiler": "Mesleğin bazı işlemleri (yüksek gerilim, elektrik manevraları vb.) tehlikeli veya çok tehlikeli işler kapsamında değerlendirilebileceğinden, çalışılacak işyerine göre Mesleki Yeterlilik Kurumu (MYK) Mesleki Yeterlilik Belgesi istenebilir veya istihdamda tercih sebebi olabilir. Çalışma koşullarının fiziksel zorlukları nedeniyle meslekte kadın çalışan oranı görece düşüktür.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T09:12:33",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 8464
+  }
+ }
+}

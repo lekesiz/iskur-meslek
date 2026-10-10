@@ -1,0 +1,74 @@
+{
+ "gorevler": [
+  "Üretim listesine ve kutulanacak cam eşya miktarına göre kutu sayısını belirler.",
+  "Banttan yıkanmış olarak gelen mamulün temizliğini yapar.",
+  "Üretilen mamulü kalitesine göre sınıflandırır.",
+  "Sipariş veren firmanın barkot veya etiketini yapıştırır.",
+  "Sipariş fişine göre ambalaj ve paketleme işlemlerini yapar.",
+  "Koli üzerine firma adını yazar ve koliyi numaralandırır.",
+  "Koli ve paketleme işlemlerini yaparak ürünü cinsine göre depoda istifler.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "arac_gerec": [
+  "Karton koli ve kutular",
+  "Koli bandı/paketleme bandı",
+  "Etiket ve barkod yapıştırma malzemeleri",
+  "Dolgu/koruma malzemeleri (strafor, kağıt, köpük vb.)",
+  "Temizlik bezi ve temizlik malzemeleri",
+  "Kişisel koruyucu donanım (eldiven, iş gözlüğü, iş elbisesi)",
+  "Palet",
+  "El arabası/transpalet",
+  "Cetvel/metre",
+  "Kutu kapama ve bantlama ekipmanları"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve tedbirli,",
+  "El becerisine sahip,",
+  "Fiziksel olarak dayanıklı,",
+  "Düzenli ve tertipli çalışabilen,",
+  "Sorumluluk sahibi,",
+  "Takım çalışmasına uyumlu,",
+  "Talimatlara uyabilen,",
+  "Ayakta ve hareketli çalışmaya uygun"
+ ],
+ "calisma_ortami": "Paketleme işçisi (cam), genellikle cam üretim fabrikalarının ambalajlama/paketleme bölümlerinde, kapalı ve atölye niteliğindeki alanlarda görev yapar. Çalışma ortamı sıcak, gürültülü ve tozlu olabilir; cam kırıkları nedeniyle kesilme ve yaralanma riski bulunur, bu nedenle kişisel koruyucu donanım kullanımı önemlidir. Çalışma sırasında uzun süre ayakta kalma, eğilme ve kaldırma gibi fiziksel hareketler gerekebilir.\n\nMeslek elemanı işini genellikle bir ekip içinde, diğer paketleme işçileri, ustabaşı ve üretim bandı çalışanlarıyla iş birliği yaparak yürütür. İşletmenin üretim hacmine bağlı olarak vardiyalı çalışma düzeni söz konusu olabilir; hafta sonu ve gece çalışması gerekebilir.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi için örgün bir mesleki ve teknik eğitim programı bulunmamaktadır. Meslek genellikle cam üretim fabrikalarında işbaşında, deneyimli bir işçi veya ustabaşı gözetiminde öğrenilir. Ayrıca Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kurslarında temel ambalajlama-paketleme becerileri ile iş güvenliği bilgisi kazandırılabilir.",
+  "giris_kosullari": [
+   "Okur yazar olmak",
+   "18 yaşını doldurmuş olmak",
+   "İşin gerektirdiği fiziksel çalışmaya uygun sağlık durumuna sahip olmak"
+  ],
+  "sure_ve_icerik": "Mesleğe özgü standart bir eğitim süresi ve müfredatı bulunmamaktadır. İşe yeni başlayanlar, işyerinde uygulamalı olarak cam mamullerin sınıflandırılması, temizliği, etiketlenmesi, ambalajlanması, kolilenmesi ve istiflenmesi işlemlerini kısa sürede öğrenir. İŞKUR ve Halk Eğitim Merkezlerinin açtığı kurslarda ise temel paketleme-ambalajlama teknikleri ile iş sağlığı ve güvenliği konuları işlenir.",
+  "belge": "Örgün eğitim kapsamında bir diploma verilmemektedir. İŞKUR veya Halk Eğitim Merkezi kurslarına katılanlara kurs bitirme belgesi/sertifika verilebilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Paketleme işçisi (cam), başta şişe, kavanoz, bardak, cam sofra eşyası ve diğer cam ambalaj/ürünlerini üreten cam sanayi fabrikalarının ambalajlama-paketleme bölümlerinde istihdam edilir. Ayrıca cam ürünlerinin depolandığı ve sevkiyatının yapıldığı depo ve lojistik birimlerinde de çalışabilir. Bu meslekte iş bulma olanakları, cam üretim tesislerinin yoğun olduğu sanayi bölgelerinde daha fazladır.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğe yönelik örgün bir çıraklık eğitimi bulunmadığından, kişi genellikle doğrudan işçi statüsüyle çalışmaya başlar ve işbaşı eğitim süresince de en az asgari ücret ödenir. İŞKUR'un açtığı kurslara katılanlara, katılım süresince kursiyer harçlığı ödenebilir.",
+  "egitim_sonrasi": [
+   "Özel sektörde çalışanların kazancı genellikle asgari ücret düzeyinde başlar; işyerinin büyüklüğü, çalışanın tecrübesi ve sektörün genel ücret düzeyine göre bu kazanç değişebilir.",
+   "İşçi statüsünde çalışıldığından ücret, işveren ile yapılan sözleşmeye veya varsa toplu iş sözleşmesi hükümlerine göre belirlenir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Meslekte örgün bir eğitim basamağı bulunmadığından sınavla ilerleme söz konusu değildir. Kişi, isteğe bağlı olarak İŞKUR ve Halk Eğitim Merkezlerinin açtığı ambalajlama, kalite kontrol veya iş sağlığı ve güvenliği kurslarına katılarak bilgi ve becerilerini geliştirebilir.",
+  "is_hayatinda": "Deneyim ve performansa bağlı olarak ekip lideri, vardiya sorumlusu veya ustabaşı gibi görevlere yükselme imkânı bulunmaktadır. Bilgi ve tecrübesini artıranlar kalite kontrol elemanlığı gibi görevlere geçiş yapabilir."
+ },
+ "benzer_meslekler": [
+  "Paketleme İşçisi",
+  "Paketleme İşçisi (Gıda)",
+  "Ambalajlama İşçisi (Elle)",
+  "Ambalajcı",
+  "Şişe Tasnifçisi",
+  "Etiket Yapıştırma İşçisi (Elle)"
+ ],
+ "ek_bilgiler": "Cam mamullerle çalışıldığından kesilme ve yaralanma riski bulunmaktadır; çalışanların eldiven ve iş gözlüğü gibi kişisel koruyucu donanım kullanması işyeri güvenliği açısından önemlidir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T19:57:21",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5676
+  }
+ }
+}

@@ -1,0 +1,94 @@
+{
+ "arac_gerec": [
+  "Bilgisayar ve yazılım geliştirme ortamları (IDE)",
+  "Mikrodenetleyici/mikroişlemci geliştirme kartları",
+  "JTAG/ISP programlayıcı ve hata ayıklama (debugger) cihazları",
+  "Multimetre",
+  "Osiloskop",
+  "Lojik analizör",
+  "Ayarlanabilir güç kaynağı",
+  "Lehim istasyonu, havya ve lehim malzemeleri",
+  "Breadboard ve prototipleme kartları",
+  "Elektronik devre elemanları ve bağlantı malzemeleri",
+  "Devre şeması ve baskı devre (PCB) tasarım yazılımları",
+  "Derleyici ve bellenim (firmware) yükleme araçları",
+  "Versiyon kontrol sistemleri",
+  "Teknik dokümantasyon hazırlama araçları"
+ ],
+ "genel_ozellikler": [
+  "Mantıksal ve analitik düşünebilen,",
+  "Dikkatli, sabırlı ve titiz çalışabilen,",
+  "El ve göz koordinasyonu iyi, el becerisine sahip,",
+  "Şema ve teknik çizim okuyabilen, şekil ilişkilerini görebilen,",
+  "Yeni teknolojileri takip etmeye istekli,",
+  "Problem çözme becerisi gelişmiş,",
+  "Ekip çalışmasına uyumlu,",
+  "Sorumluluk sahibi"
+ ],
+ "calisma_ortami": "Gömülü sistem geliştirici, görevini genellikle kapalı ortamda; büro, laboratuvar veya Ar-Ge ofislerinde bilgisayar başında oturarak yürütür. Donanım geliştirme ve test aşamalarında lehim istasyonu, ölçüm cihazları ve prototip kartlarla birlikte çalışır; gerektiğinde üretim, montaj veya uygulama sahasında sistemin çalışırlığını test etmek için saha ziyaretleri de yapabilir.\n\nÇalışma saatleri genellikle düzenli mesai saatleri içindedir; proje teslim dönemlerinde fazla çalışma gerekebilir. Görevi sırasında elektronik mühendisleri, elektronik teknikerleri, yazılım geliştiricileri, üretim ve kalite ekipleri ile sık sık iletişim ve iş birliği içindedir.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin temel eğitimi, mesleki ve teknik Anadolu liselerinin elektrik-elektronik teknolojisi ve bilişim teknolojileri alanlarına bağlı ilgili dallarında verilmektedir. Mesleğe yönelik bilgi ve becerilerin bir kısmı, üniversitelerin elektronik, elektronik ve haberleşme mühendisliği, mekatronik ile bilgisayar mühendisliği gibi ön lisans/lisans programlarında da kazandırılmaktadır. Ayrıca Halk Eğitim Merkezleri ve İŞKUR tarafından açılan mesleki eğitim kursları ile özel eğitim kurumlarının gömülü sistem/mikrodenetleyici programlama eğitimleri de bu alanda beceri edindirmede önemli bir yer tutmaktadır.",
+  "giris_kosullari": [
+   "Ortaokulu tamamlamış olmak,",
+   "Milli Eğitim Bakanlığınca okul türlerine ve alan/dala göre belirlenen giriş koşullarını taşımak."
+  ],
+  "sure_ve_icerik": "Mesleki ve teknik liselerde eğitim süresi 4 yıldır. 9. sınıfta ortak genel kültür dersleri verilir ve yıl sonunda alan seçimi yapılır. 10. sınıfta alana yönelik ortak yeterlikler kazandırılır, 10. sınıf sonunda dal seçimi yapılır. 11. ve 12. sınıflarda dala ait yeterlikleri içeren dersler okulda teorik ve uygulamalı, işletmelerde ise uygulamalı olarak verilir. Yükseköğretim düzeyindeki ilgili programlarda ise devre tasarımı, mikrodenetleyici/mikroişlemci programlama, gömülü yazılım geliştirme, sensör ve haberleşme protokolleri gibi konularda teorik ve uygulamalı eğitim verilmektedir.",
+  "belge": "Mesleki ve teknik lise mezunlarına meslek lisesi diploması; ilgili ön lisans/lisans programlarından mezun olanlara ön lisans veya lisans diploması; kurs ve eğitimlere katılanlara ise kurs bitirme/katılım belgesi verilmektedir."
+ },
+ "calisma_alanlari": "Gömülü sistem geliştiriciler; elektronik cihaz üreten fabrikalarda, otomotiv ve otomotiv tedarikçi firmalarında, savunma sanayii kuruluşlarında, telekomünikasyon ve haberleşme şirketlerinde, tıbbi cihaz üreticilerinde, beyaz eşya ve tüketici elektroniği firmalarında, nesnelerin interneti (IoT) çözümleri geliştiren teknoloji şirketlerinde ve Ar-Ge merkezlerinde istihdam edilebilmektedir. Deneyim ve birikimleri ölçüsünde serbest proje geliştirici olarak da çalışabilirler.",
+ "kazanc": {
+  "egitim_suresince": "3308 sayılı Mesleki Eğitim Kanunu kapsamında işletmelerde mesleki eğitim gören öğrencilere ilgili mevzuat gereğince ücret ödenmektedir. Eğitim gören öğrencilerin iş kazası ve meslek hastalığı sigortası primleri devletçe karşılanır ve öğrenciler, eğitim gördükleri işletmenin sosyal imkânlarından faydalanabilirler.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde bir ücretle çalışmaya başlar.",
+   "Deneyim, uzmanlık alanı, kullanılan teknoloji ve çalışılan sektöre bağlı olarak kazanç zaman içinde artabilir.",
+   "Kamu kurumlarında istihdam edilenlerin ücretleri 657 sayılı Kanun ya da ilgili toplu iş sözleşmesi hükümlerine göre belirlenir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleki ve teknik liselerin ilgili alan/dalından mezun olanlar, alanın devamı niteliğindeki ve ilgili yönetmeliklerde belirtilen yükseköğretim (ön lisans/lisans) programlarını tercih ettiklerinde sınavsız geçiş veya ek puandan yararlanabilir; ayrıca yükseköğretime giriş sınavlarında başarılı oldukları takdirde elektronik, elektronik ve haberleşme mühendisliği, mekatronik, bilgisayar mühendisliği gibi programlara yerleşebilirler.",
+  "is_hayatinda": "Mesleki deneyim ve bilgi birikimi arttıkça kıdemli gömülü sistem geliştirici, takım lideri, proje yöneticisi veya Ar-Ge mühendisi gibi pozisyonlara yükselme imkânı bulunmaktadır."
+ },
+ "benzer_meslekler": [
+  "Elektronik Teknisyeni",
+  "Endüstriyel Elektronik Teknisyeni",
+  "Elektronik Teknolojisi Teknikeri/Elektronik Teknikeri",
+  "Uçak Elektroniği Teknisyeni",
+  "Savunma Elektronik Sistemleri Teknisyeni",
+  "Mikroteknoloji Teknisyeni"
+ ],
+ "ek_bilgiler": "Gömülü sistem geliştirme; nesnelerin interneti (IoT), otomotiv, savunma sanayii ve akıllı cihaz teknolojilerindeki hızlı gelişime bağlı olarak son yıllarda önemi artan bir meslek alanıdır. Mesleki Yeterlilik Kurumu (MYK) belgesi ve çeşitli uluslararası sertifikalar istihdamda tercih sebebi olabilir.",
+ "gorevler": [
+  "İş emirlerini alır.",
+  "İş planlaması yapar.",
+  "Personel yönlendirmesi yapar.",
+  "Faaliyetler için araç, gereç ve donanım temin eder.",
+  "Çalışılan alanın işe uygun düzenlenmesini sağlar.",
+  "Yapılan çalışmaların form ve kayıtlarının tutulmasını sağlar.",
+  "Üst yönetime bilgilendirme ve raporlama yapar.",
+  "Sorumluluk alanı dışındaki işlemler için diğer meslek elemanları ile iletişim sağlar.",
+  "Dijital arşivleme yaptırır.",
+  "Yazılımda kullanılacak harici bileşenler, kütüphane ve çerçeveleri (framework) araştırır.",
+  "Donanımda kullanılacak harici bileşenler, kütüphane ve çerçeveleri (framework) araştırır.",
+  "Donanımda kullanılacak giriş/çıkış ve alt devre elemanlarını araştırır.",
+  "Gömülü sistem donanım ve yazılım tasarım dokümanlarının hazırlanma aşamasına katılır.",
+  "Tasarım dokümantasyonu üzerinde mutabakat sağlar.",
+  "Donanım ve yazılım geliştirme ortamlarının kurgusunu gerçekleştirir.",
+  "Gömülü sistemin iş kurallarına uygun giriş/çıkış ve alt devrelerini oluşturur.",
+  "Prototip ürünü oluşturur.",
+  "Bellenim (firmware) yazılımını oluşturur.",
+  "Yazılım ve donanım arasındaki entegrasyonu sağlar.",
+  "Oluşturulan prototip sistem ile gerekli testleri gerçekleştirir.",
+  "Gömülü sistemin uygulama ortamında gerçekleşecek uygunluk testlerine eşlik eder.",
+  "Gömülü sistem kullanıcı ve gömülü sistem teknik dokümantasyonu hazırlar.",
+  "Eğitim planlaması ve organizasyonu çalışmalarını gerçekleştirir.",
+  "Kişisel mesleki gelişimini sağlar ve ekibinin mesleki gelişimini destekler."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T09:19:28",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6768
+  }
+ }
+}

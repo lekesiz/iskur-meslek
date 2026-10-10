@@ -1,0 +1,78 @@
+{
+ "arac_gerec": [
+  "Üstüpü (temizlik bezi)",
+  "Raspa",
+  "Kazıma aletleri (kazıyıcı)",
+  "Fırça",
+  "Röle",
+  "Boya ve boya malzemeleri",
+  "Yağ giderici temizlik kimyasalları",
+  "Kova, bez, süngerler",
+  "Koruyucu eldiven",
+  "İş tulumu/koruyucu giysi",
+  "Koruyucu gözlük",
+  "Toz/buhar maskesi",
+  "El feneri",
+  "Baret ve diğer kişisel koruyucu donanımlar"
+ ],
+ "benzer_meslekler": [
+  "Gemici",
+  "Usta Gemici",
+  "Çımacı",
+  "Genel Servis İşçisi (gemi)",
+  "Güverte Tayfası",
+  "Palamarcı"
+ ],
+ "calisma_alanlari": "Silici (Gemi), ticaret gemileri, yük gemileri, tankerler, feribotlar ve diğer deniz taşıtlarının makine dairelerinde çalışır. Gemicilik ve denizcilik işletmeleri, gemi işletim/işletmecilik şirketleri, liman işletmeleri ile gemi bakım-onarım faaliyeti yürüten kuruluşlar başlıca istihdam alanlarıdır. Ülkemizde deniz ticaret filosunun ve liman trafiğinin büyüklüğüne bağlı olarak bu meslekte istihdam imkânı değişkenlik gösterebilir; deneyimli ve belgeli gemi adamlarına yönelik talep genellikle daha yüksektir.",
+ "calisma_ortami": "Silici (Gemi), gemilerin makine dairesinde, kapalı ve genellikle sıcak, nemli, gürültülü ve yağlı bir ortamda çalışır. Dar ve dik merdivenli bölmelerde, makine ve ekipmanların arasında eğilerek, çömelerek veya uzanarak çalışmak gerekebilir; yağ, pas, is gibi kirleticilere ve bazı temizlik kimyasallarına maruz kalma söz konusudur. Gemi seyir hâlindeyken titreşim ve gemi hareketlerine (sallanma) uyum gerekir.\n\nÇalışma genellikle vardiya sistemiyle yürütülür; gemide uzun süreler (haftalarca/aylarca) denizde kalmak gerekebilir. Makine dairesinde başmühendis, ikinci mühendis, yağcı, kazancı gibi gemi mürettebatı ile birlikte ekip hâlinde çalışılır; iş sağlığı ve güvenliği kurallarına uyma zorunluluğu yüksektir.",
+ "egitim": {
+  "verildigi_yerler": "Silicilik mesleğine yönelik örgün ve resmî olarak tanımlanmış bağımsız bir meslek eğitimi programı bulunmamaktadır. Meslek genellikle gemilerde, deneyimli silici, yağcı veya makine dairesi personelinin gözetiminde işbaşında uygulamalı olarak öğrenilir. Gemiadamı olarak çalışabilmek için gerekli temel denizcilik güvenlik eğitimleri (yangın, ilkyardım, kişisel can kurtarma, kişisel güvenlik ve sosyal sorumluluk gibi) denizcilik eğitim kurumları, denizcilik yüksekokulları ve ilgili eğitim merkezlerinde verilmektedir. Ayrıca Halk Eğitim Merkezleri ile İŞKUR'un açtığı mesleki eğitim kursları da temel beceri kazandırmaya yönelik destek niteliğinde olabilir.",
+  "giris_kosullari": [
+   "İlköğretim mezunu olmak",
+   "Gemide çalışmaya engel olmayacak sağlık şartlarını taşımak",
+   "Denizde çalışmaya uygun fiziksel ve psikolojik yeterliliğe sahip olmak",
+   "Gemiadamı olarak çalışabilmek için ilgili mevzuat kapsamında öngörülen gemiadamı cüzdanı ve temel güvenlik eğitimi sertifikalarına sahip olmak"
+  ],
+  "sure_ve_icerik": "Mesleğe özgü standart bir eğitim süresi ve içeriği tanımlanmamıştır. Mesleki bilgi ve beceriler, gemide çalışılan süre içinde kademeli olarak, usta-çırak ilişkisi içinde kazanılır. Denizcilikle ilgili temel güvenlik eğitimleri ise genellikle birkaç gün süren, teorik ve uygulamalı modüllerden oluşan kısa süreli kurslar şeklinde verilir.",
+  "belge": "Mesleğe özgü bir diploma veya mesleki yeterlilik belgesi bulunmamaktadır. Gemide çalışabilmek için gemiadamı cüzdanı ile temel denizcilik güvenlik eğitimlerine ilişkin sertifikalara sahip olmak gerekmektedir."
+ },
+ "ek_bilgiler": "Silicilik, gemi makine dairesinde görev yapan gemi adamları arasında genellikle giriş seviyesinde kabul edilen bir görevdir. Fiziksel olarak zorlayıcı, sıcak ve yağlı bir ortamda çalışma gerektirir. Deneyim kazanan silicilerin, makine dairesinde yağcı, kazancı gibi daha ileri görevlere geçiş yapma imkânı bulunmaktadır.",
+ "genel_ozellikler": [
+  "El becerisine sahip,",
+  "Dikkatli ve sorumluluk sahibi,",
+  "Fiziksel olarak dayanıklı ve güçlü,",
+  "Dar ve kapalı alanlarda çalışmaktan çekinmeyen,",
+  "Düzenli ve temiz çalışmaya önem veren,",
+  "Ekip çalışmasına uyumlu,",
+  "Talimatlara uyan ve disiplinli,",
+  "İş sağlığı ve güvenliği kurallarına duyarlı"
+ ],
+ "gorevler": [
+  "Gemilerde bulunan makinelerde biriken kirleri tespit eder.",
+  "Biriken kirleri üstüpüyle (bez parçası) temizler.",
+  "Makinelerin piston bölgesindeki raspalarla kırma işlemini yapar.",
+  "Kazıma aletleriyle makinenin pasını temizler.",
+  "Kazıma işleminden sonra rölelerle, fırçayla pistonları boyar.",
+  "Her türlü makine ve avadanlıkların temiz tutulmasını sağlar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğe yönelik kademeli ve resmî bir örgün eğitim basamağı bulunmamaktadır. Silicilik görevinde deneyim kazanan kişiler, gemi işletmelerinin uyguladığı eğitim ve yetiştirme uygulamalarından, varsa denizcilik eğitim kurumlarının açtığı kurslardan yararlanarak bilgi ve becerilerini geliştirebilir.",
+  "is_hayatinda": "Gemide çalışma süresi ve deneyim arttıkça silici, yağcı, kazancı gibi makine dairesi görevlerine; ileriki aşamalarda ise daha üst düzey gemi adamlığı görevlerine yükselme imkânı bulabilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Mesleğe özgü ücretli bir eğitim süreci tanımlanmamıştır. Gemide işbaşında yetişme sürecinde, çalışılan işletmenin uygulamasına göre asgari ücret düzeyinde veya daha düşük bir ücret söz konusu olabilir.",
+  "egitim_sonrasi": [
+   "Özel sektörde çalışan silicilerin ücreti, işveren ile yapılan anlaşmaya, gemi büyüklüğüne ve deneyime göre değişmekle birlikte, mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde gelir elde eder.",
+   "Deneyim kazandıkça ve daha büyük/üst düzey gemilerde çalıştıkça kazanç artabilir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T19:10:44",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5477
+  }
+ }
+}

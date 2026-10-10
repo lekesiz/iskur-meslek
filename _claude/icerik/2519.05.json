@@ -1,0 +1,74 @@
+{
+ "arac_gerec": [
+  "Bilgisayar ve sunucu sistemleri",
+  "Test otomasyon araçları (Selenium, Appium vb.)",
+  "Yük ve performans test araçları (JMeter, LoadRunner vb.)",
+  "Hata/bug takip yazılımları (Jira, Bugzilla vb.)",
+  "Test yönetim ve raporlama yazılımları (TestRail, qTest vb.)",
+  "API test araçları (Postman vb.)",
+  "Sürüm kontrol sistemleri (Git vb.)",
+  "Veritabanı yönetim araçları",
+  "Mobil test cihazları ve emülatörler/simülatörler",
+  "Ağ izleme ve günlük (log) analiz araçları",
+  "Ofis yazılımları ve doküman hazırlama programları",
+  "Proje yönetim ve iletişim yazılımları"
+ ],
+ "genel_ozellikler": [
+  "Analitik düşünme ve mantıksal çıkarım yeteneğine sahip,",
+  "Detaylara dikkat eden ve titiz çalışan,",
+  "Sabırlı ve sistemli,",
+  "Problem çözme becerisi gelişmiş,",
+  "Bilgisayar ve yazılım teknolojilerine ilgili,",
+  "Yazılı ve sözlü anlatım becerisi iyi,",
+  "Takım çalışmasına uyumlu,",
+  "Sorumluluk sahibi"
+ ],
+ "calisma_ortami": "Sistem Test Edicisi, genellikle kapalı ortamda, büro veya yazılım geliştirme ofislerinde bilgisayar başında oturarak çalışır. Çalışma düzeni çoğunlukla masa başı niteliğindedir; ancak bazı projelerde saha testleri veya müşteri lokasyonunda testler de yapılabilir. Proje teslim tarihlerine yaklaşıldığında yoğun çalışma dönemleri ve ek mesai gerekebilir.\n\nÇalışma sırasında yazılım geliştiriciler, sistem analistleri, proje yöneticileri ve kalite güvence ekipleriyle sürekli iletişim ve iş birliği içinde bulunur. Bazı kurumlarda uzaktan veya hibrit çalışma olanağı da mevcuttur.",
+ "gorevler": [
+  "Test senaryoları ve test planları hazırlar,",
+  "Manuel veya otomatik test araçlarını kullanarak sistemdeki hataları bulur,",
+  "Kullanıcı deneyimi (UX) ve yük testlerini gerçekleştirir,",
+  "Tespit edilen bug (hata) kayıtlarını raporlayarak yazılımcılara iletir,",
+  "Sistem güncellemeleri sonrası regresyon testlerini yürütür,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Mesleğin temel eğitimi üniversitelere bağlı fakülte ve yüksekokulların Bilgisayar Mühendisliği, Yazılım Mühendisliği, Bilgisayar Bilimleri, Bilgi Sistemleri Mühendisliği gibi ilgili lisans programlarında verilmektedir. Yazılım test süreçlerine ilişkin özel bilgi ve beceriler genellikle iş başında, kurum içi eğitimlerle ve ilgili mesleki sertifika programlarıyla kazandırılmaktadır.",
+  "giris_kosullari": [
+   "Lise veya dengi okul mezunu olmak,",
+   "YKS (Yükseköğretim Kurumları Sınavı) kılavuzunda belirtilen giriş koşullarını taşımak,",
+   "İlgili lisans programlarına yerleşmek."
+  ],
+  "sure_ve_icerik": "Lisans eğitiminin süresi 4 yıldır. Eğitim süresince programlama, veri yapıları ve algoritmalar, yazılım mühendisliği, veritabanı yönetim sistemleri, ağ ve sistem bilgisi, yazılım kalite güvencesi ve test yöntemleri gibi dersler okutulmaktadır. Mezuniyet sonrasında yazılım test süreçlerine yönelik uluslararası kabul görmüş sertifika programları ve kurum içi eğitimlerle mesleki bilgi derinleştirilebilmektedir.",
+  "belge": "Eğitimini başarı ile tamamlayanlara lisans diploması verilir. Ayrıca katılım sağlanan yazılım test sertifika programlarından başarı belgesi alınabilir."
+ },
+ "calisma_alanlari": "Sistem Test Edicisi; yazılım geliştirme şirketlerinde, bilişim/bilgi işlem birimi bulunan kamu kurumlarında, bankacılık, e-ticaret, telekomünikasyon, sağlık ve savunma sanayii gibi sektörlerdeki özel kuruluşlarda, bilişim danışmanlık firmalarında ve oyun geliştirme şirketlerinin kalite güvence birimlerinde görev alabilir. Dijitalleşmenin ve yazılım sektörünün büyümesiyle bu alandaki istihdam olanakları olumlu bir seyir izlemektedir.",
+ "kazanc": {
+  "egitim_suresince": "Lisans eğitimi süresince Kredi ve Yurtlar Genel Müdürlüğü'nün sağladığı öğrenim kredisi ve yurt hizmetlerinden, ayrıca çeşitli resmi ve özel kurum/kuruluşların burslarından yararlanılabilir. İsteyen öğrenciler, yazılım veya bilişim firmalarında stajyer ya da yarı zamanlı çalışarak deneyim ve ek kazanç elde edebilir.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında çalışanlar, 657 sayılı Devlet Memurları Kanunu'na göre teknik hizmetler sınıfı kapsamında maaş ve yan ödeme alır.",
+   "Özel sektörde ücret; çalışılan firma, sektör, deneyim ve üstlenilen pozisyona göre değişmektedir. Mesleğe yeni başlayanlarda kazanç genellikle asgari ücret düzeyinde seyredebilmekte, deneyim ve uzmanlık arttıkça gelir düzeyi de yükselmektedir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Deneyim kazanan sistem test edicileri kıdemli test uzmanı, test lideri veya test yöneticisi pozisyonlarına yükselebilir. İsteyenler akademik kariyer yapmak için ilgili alanlarda yüksek lisans ve doktora eğitimi alabilir; otomasyon test mühendisliği veya performans test uzmanlığı gibi alanlarda uzmanlaşabilir.",
+  "is_hayatinda": "Deneyim ve başarıya bağlı olarak kalite güvence müdürlüğü, proje yöneticiliği veya yazılım geliştirme ekip liderliği gibi yönetici pozisyonlarına yükselebilir."
+ },
+ "benzer_meslekler": [
+  "Kalite Güvence Analisti (Bilgisayar)",
+  "Yazılım Test Edicisi",
+  "Sistem Analisti (BT)",
+  "Sistem Çözümleyici",
+  "BT İş Analisti (Bilişim Teknolojileri İş Analisti)",
+  "Uygulama Destek Uzmanı (Bilişim)"
+ ],
+ "ek_bilgiler": "Mesleki Yeterlilik Kurumu (MYK) belgesi ile uluslararası kabul görmüş yazılım test sertifikaları istihdamda tercih sebebi olabilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T06:03:17",
+  "usage": {
+   "input_tokens": 4,
+   "output_tokens": 8376
+  }
+ }
+}

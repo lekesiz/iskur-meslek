@@ -1,0 +1,74 @@
+{
+ "arac_gerec": [
+  "Barometre, anemometre, termometre, higrometre gibi meteorolojik gözlem aletleri",
+  "Radyosonde (yüksek atmosfer gözlem cihazı)",
+  "Gözlem balonları ve ilgili donanımlar",
+  "Meteorolojik radarlar (Doppler radar)",
+  "Meteorolojik uydular ve uydu görüntüsü alma/işleme sistemleri",
+  "Hava haritası çizim ve analiz yazılımları",
+  "Nümerik hava tahmin modellerini çalıştıran bilgisayarlar",
+  "Veri iletişim ve kayıt sistemleri (otomatik gözlem istasyonları, veri toplayıcılar)",
+  "Coğrafi Bilgi Sistemleri (CBS) yazılımları",
+  "İstatistik ve veri analizi yazılımları",
+  "Rüzgar profili ölçüm sistemleri"
+ ],
+ "genel_ozellikler": [
+  "Matematik ve fen bilimlerine ilgili ve bu alanlarda başarılı,",
+  "Analitik düşünebilen ve sayısal verileri yorumlayabilen,",
+  "Dikkatli, titiz ve gözlemci,",
+  "Sabırlı ve sorumluluk sahibi,",
+  "Araştırmacı ve meraklı bir kişiliğe sahip,",
+  "Bilgisayar ve teknolojik cihazları etkin kullanabilen,",
+  "Ekip çalışmasına yatkın,",
+  "Gerektiğinde hızlı ve isabetli karar verebilen"
+ ],
+ "calisma_ortami": "\"Meteorologlar çoğunlukla meteoroloji istasyonları, bölge müdürlükleri, araştırma merkezleri ve üniversitelerde, kapalı ortamlarda bilgisayar başında çalışırlar. Gözlem ve ölçüm çalışmaları sırasında zaman zaman açık havada da bulunabilirler. Kesintisiz gözlem ve tahmin hizmeti gereken kurumlarda vardiyalı çalışma söz konusu olabilir.\\n\\nÇalışmaları sırasında meteoroloji teknisyenleri, gözlemciler (rasatçılar), mühendisler, pilotlar, denizciler, çiftçiler, afet yönetimi görevlileri ve zaman zaman medya temsilcileri ile iletişim halindedirler. İş, genellikle fiziksel olarak yorucu olmasa da sürekli veri takibi ve analiz gerektirdiğinden dikkat ve yoğunlaşma gerektirir.\"",
+ "egitim": {
+  "verildigi_yerler": "Meteorolog olarak çalışabilmek için genellikle üniversitelerin Meteoroloji Mühendisliği bölümlerinden ya da Fizik, Jeofizik Mühendisliği gibi atmosfer bilimleriyle ilişkili fen ve mühendislik bölümlerinden lisans derecesiyle mezun olmak gerekir. Bu bölümlerden mezun olanlar, ilgili kamu kurumlarının (başta Meteoroloji Genel Müdürlüğü olmak üzere) açtığı sınavları kazanarak meteorolog unvanıyla istihdam edilebilirler.",
+  "giris_kosullari": [
+   "Lise veya dengi okul mezunu olmak",
+   "YKS (Yükseköğretim Kurumları Sınavı) kılavuzunda ilgili lisans programı için belirtilen koşulları taşımak ve yeterli puanı almak",
+   "İlgili önlisans programlarından mezun olanlar, ÖSYM'nin açtığı Dikey Geçiş Sınavı (DGS) ile uygun lisans programlarına geçiş yapabilir"
+  ],
+  "sure_ve_icerik": "Lisans eğitimi 4 yıl sürer. Eğitim süresince atmosfer fiziği ve termodinamiği, meteorolojik gözlem yöntemleri ve aletleri, iklim bilimi ve iklim dinamiği, hava tahmin teknikleri, nümerik modelleme, istatistik ve veri analizi gibi dersler okutulur. Eğitim; fen ve mühendislik ağırlıklı olup atmosferdeki olayların bilimsel olarak gözlenmesi, açıklanması ve tahmin edilmesine yönelik bilgi ve becerileri kazandırmayı amaçlar.",
+  "belge": "Eğitimi başarıyla tamamlayanlara lisans diploması verilir. Kamu kurumlarında meteorolog olarak görev alabilmek için ayrıca ilgili kurumun açtığı sınavlarda başarılı olmak gerekir."
+ },
+ "gorevler": [
+  "Çeşitli aletlerle elde edilen gözlem bilgilerini yorumlayarak hava şartlarını inceler ve tahlil eder, yağmur, sis, kar gibi atmosferik olayları doğuran sebepleri tespit eder",
+  "Bir bölgedeki birçok meteoroloji istasyonunda aynı anda yapılan gözlemlerle derlenen bilgileri değerlendirerek meteoroloji haritaları hazırlar",
+  "Hava kitlelerinin ve basınç bölgelerinin hareketlerini önceden tahmin eder; belirli bir bölgeye ait rüzgar, yağmur, güneş ışığı, ısı, nem ve diğer meteorolojik verileri inceleyerek geçmişe yönelik gözlem raporları hazırlar",
+  "Hava hareketi, basınç ve ısı değişikliği olaylarının fiziksel niteliği ve bunların bağlı olduğu kanunlarla ilgili araştırmalar yapar",
+  "Barometre, anemometre, termometre, higrometre, radyosonde ve meteorolojik çalışmalara uygun radyo kestirme cihazları, balon, roket ve uydu gibi alet ve sistemleri kullanarak gözlem raporları düzenler",
+  "Meteoroloji biliminin belirli bir alanında uzmanlaşabilir",
+  "Mesleki gelişim faaliyetlerinde bulunur"
+ ],
+ "calisma_alanlari": "\"Meteorologlar başta Tarım ve Orman Bakanlığı'na bağlı Meteoroloji Genel Müdürlüğü olmak üzere kamu kurumlarında gözlem, araştırma, hava analizi ve tahmin birimlerinde çalışırlar. Havacılık (havaalanları, hava trafik kontrol birimleri, havayolu şirketleri), denizcilik, tarım, savunma sanayii, afet ve acil durum yönetimi kurumları, Devlet Su İşleri ve enerji kuruluşları, üniversiteler ile kamu ve özel araştırma merkezleri diğer başlıca çalışma alanlarıdır.\\n\\nKamu kurumlarına girişte genellikle KPSS sonucuna ve kurumların açtığı özel sınavlara dayalı bir istihdam süreci işler. Özel sektörde ise havacılık, enerji ve tarım alanında faaliyet gösteren şirketlerde meteorolojik danışmanlık ve tahmin hizmetleri alanında görev alma imkanı bulunur.\"",
+ "kazanc": {
+  "egitim_suresince": "Mesleğin eğitimi lisans düzeyinde örgün eğitim yoluyla verildiğinden, eğitim süresince düzenli bir kazanç söz konusu değildir. Bazı üniversite ve kurumların burs imkanlarından yararlanılabilir.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında çalışanların ücreti 657 sayılı Devlet Memurları Kanunu'na tabi olarak kadro ve derecelerine göre belirlenir.",
+   "Özel sektörde ücretler işyerinin büyüklüğüne, görevin kapsamına ve çalışanın deneyimine göre değişir; yeni mezunlar için başlangıçta genellikle asgari ücret düzeyine yakın olabilir ve deneyimle birlikte artış gösterebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Lisans eğitiminin ardından atmosfer bilimleri, iklim bilimi veya ilgili mühendislik dallarında yüksek lisans ve doktora yaparak akademik ve araştırma kariyeri geliştirilebilir. Yurt içi ve yurt dışında düzenlenen meteoroloji ve iklim bilimi konulu sertifika programlarına katılım, uzmanlaşmayı destekler.",
+  "is_hayatinda": "Kamu kurumlarında kıdem ve performansa bağlı olarak şeflik, şube müdürlüğü ve bölge müdürlüğü gibi yönetici pozisyonlarına yükselinebilir. Meslek içinde hava tahmini, iklim araştırmaları, uydu meteorolojisi, tarım meteorolojisi gibi belirli alanlarda uzmanlaşarak kariyer geliştirilebilir."
+ },
+ "benzer_meslekler": [
+  "Meteoroloji Mühendisi",
+  "Jeofizik Mühendisi",
+  "Fizik Mühendisi",
+  "Fizikçi",
+  "Astronom",
+  "Doğa Kaynaklı Afetler ve Afet Yönetimi Uzmanı"
+ ],
+ "ek_bilgiler": "\"Meteoroloji Genel Müdürlüğü ve diğer kamu kurumlarında meteorolog olarak istihdam edilebilmek için güncel KPSS şartları ve kurumların açtığı özel sınavların şartları önceden araştırılmalıdır. Meslek, iklim değişikliği ve afet yönetimi konularındaki artan önem nedeniyle gelecekte gelişen bir alan olarak öne çıkmaktadır.\"",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-07T20:41:40",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6208
+  }
+ }
+}

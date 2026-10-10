@@ -1,0 +1,74 @@
+{
+ "arac_gerec": [
+  "Flanj açma makinesi (tablalı sistem)",
+  "Makine tablaları ve tabla ayar düzenekleri",
+  "Pedal kontrol sistemi",
+  "Ölçü aletleri (metre, kumpas, mastar, şablon)",
+  "Kaldırma ve taşıma ekipmanları (vinç, forklift, el arabası)",
+  "El aletleri (anahtar takımı, tornavida, pense)",
+  "Yağlama ve bakım malzemeleri",
+  "Temizlik malzemeleri ve bezleri",
+  "Kişisel koruyucu donanım (iş eldiveni, koruyucu gözlük, iş ayakkabısı, kulak koruyucu)",
+  "İşaretleme ve markalama aletleri"
+ ],
+ "benzer_meslekler": [
+  "Daire Makas Tezgahı Operatörü (Metal Levha)",
+  "Hidrolik Makas Tezgahı Operatörü (Metal Levha)",
+  "CNC Apkant Pres Tezgahı Operatörü",
+  "Hidrolik Apkant Pres Operatörü",
+  "Metal Levha İşleme Tezgah Operatörü",
+  "Silindir Makinesi Metal Eğme Bükme Tezgahı Operatörü"
+ ],
+ "calisma_alanlari": "Flanj Açma Makinesi Operatörü (Metal Levha), başta metal levha ve sac işleme atölyeleri olmak üzere; varil, konteyner, depo, tank, havalandırma kanalı ve metal mutfak ürünleri imalatı yapan küçük, orta ve büyük ölçekli işletmelerde çalışma olanağı bulur. Ayrıca metal inşaat, makine imalatı ve genel metal sanayi kuruluşlarının üretim bölümlerinde de istihdam edilebilir.\n\nİş bulma olanağı, sektördeki üretim hacmine, sipariş yoğunluğuna ve işletmelerin otomasyon düzeyine bağlı olarak değişir. CNC kontrollü ve otomatik metal işleme sistemlerinin yaygınlaşması, zaman içinde klasik manuel/pedallı makine operatörlerine olan ihtiyacı bir ölçüde azaltabilir; buna karşın küçük ve orta ölçekli atölyelerde bu tür makinelere duyulan ihtiyaç sürmektedir.",
+ "calisma_ortami": "Flanj Açma Makinesi Operatörü, genellikle atölye veya fabrika ortamında, kapalı mekânda ve çoğunlukla ayakta çalışır. Çalışma ortamı makine gürültüsü, metal tozu ve kısmi kirlilik içerebilir; ağır ve keskin kenarlı metal parçalarla çalışıldığından el, parmak ve göz yaralanmaları açısından dikkat ve koruyucu ekipman kullanımı gereklidir. Çalışma düzeni genellikle işyerinin belirlediği gündüz mesaisi şeklindedir, ancak üretim yoğunluğuna göre vardiyalı çalışma da söz konusu olabilir.\n\nOperatör, işini büyük ölçüde makine başında bağımsız olarak yürütür; iş akışı ve kalite kontrolü için usta, ekip sorumlusu ve diğer makine operatörleriyle kısa süreli iletişim kurar. Malzeme teminini ve iş emirlerini genellikle atölye şefi veya üretim sorumlusundan alır.",
+ "egitim": {
+  "verildigi_yerler": "Flanj Açma Makinesi Operatörlüğü için ayrı, örgün bir meslek eğitimi programı bulunmamaktadır. Meslek genellikle metal/sac işleme işyerlerinde işbaşında, usta yanında çalışarak öğrenilir. Mesleki ve teknik eğitim kurumlarının Metal Teknolojisi/Makine Teknolojisi alanındaki genel programları ile Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kursları, bu mesleğe temel oluşturacak bilgi ve beceri kazandırabilir.",
+  "giris_kosullari": [
+   "Mesleğin gerektirdiği minimum eğitim düzeyi ilköğretimdir; ilköğretim mezunu olmak genellikle yeterlidir.",
+   "Sağlık durumunun ağır iş koşullarına ve makine ile çalışmaya uygun olması gerekir.",
+   "İşe alınacağı işyerinin belirlediği yaş ve fiziksel uygunluk koşullarını taşımak gerekir."
+  ],
+  "sure_ve_icerik": "Mesleğin standart bir örgün eğitim süresi yoktur. Kişi genellikle metal/sac işleme atölyesinde yardımcı işçi veya çırak olarak işe başlar; usta gözetiminde makinenin tabla ayarlarının yapılması, işlenecek metal levhanın ölçü ve cinsine göre makineye yerleştirilmesi, pedal kontrolü ile flanj çekme işleminin uygulanması, işlenen parçanın kontrolü ile makinenin bakım ve temizliği gibi iş adımlarını uygulamalı olarak öğrenir. Temel beceriler genellikle birkaç ay içinde kazanılırken, farklı makine ve malzeme türlerinde ustalaşmak birkaç yıllık uygulamalı deneyim gerektirebilir.",
+  "belge": "Mesleğe özgü resmî bir diploma veya sertifika programı bulunmadığından, çalışma genellikle işyeri tarafından kazandırılan deneyime dayanır. Katılınan mesleki eğitim kurslarından alınan kurs bitirme belgeleri ve varsa Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "genel_ozellikler": [
+  "El ve göz koordinasyonuna sahip,",
+  "Dikkatli ve sabırlı,",
+  "Şekil ve ölçüleri doğru algılayabilen,",
+  "Fiziksel olarak güçlü ve dayanıklı,",
+  "Makine ve aletlerle çalışmaktan hoşlanan,",
+  "Sorumluluk sahibi,",
+  "İş güvenliği kurallarına titizlikle uyan,",
+  "Ekip içinde uyumlu çalışabilen"
+ ],
+ "gorevler": [
+  "Flanj çekilecek silindir şeklinde bükülmüş metal levhanın cinsine ve ölçülerine göre makine üzerinde bulunan tablaları ayarlar.",
+  "Makineyi çalıştırır, silindir şeklinde bükülmüş metal levhayı makinenin alt tablası üzerine yerleştirir.",
+  "Pedala basarak tablalara hareket verir ve tablalar arasında kalan saç levhanın kenarlarına flanj çekilmesini sağlar.",
+  "Flanj açılan levhayı alt tabla üzerinden alır ve kontrol eder.",
+  "İş bitiminde makinenin bakım ve temizliğini yapar.",
+  "Varil gövdelerine flanj çekmek gibi belirli bir işin yapılmasında veya belirli bir tip makinenin çalıştırılmasında ihtisas sahibi olabilir.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "kazanc": {
+  "egitim_suresince": "Mesleğin örgün bir eğitim programı bulunmadığından, çıraklık dönemine özgü bir ücret düzenlemesi söz konusu değildir. İşbaşında çalışarak mesleği öğrenenler, genellikle işyerinin belirlediği ücretle, çoğunlukla asgari ücret düzeyinde çalışır.",
+  "egitim_sonrasi": [
+   "Özel sektörde çalışanların ücreti işveren ile yapılan anlaşmaya, kişinin deneyimine ve işletmenin büyüklüğüne göre değişir; işe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Kamuya bağlı işletmelerde işçi statüsünde çalışanların ücreti, ilgili toplu iş sözleşmesi hükümlerine göre belirlenir.",
+   "Deneyim, ustalık ve birden fazla makine/işlem bilgisine sahip olunması kazancı olumlu yönde etkileyebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Bu meslekte tanımlı bir kalfalık-ustalık basamaklandırması bulunmamaktadır. Kişi, mesleki ve teknik eğitim kurumlarının Metal Teknolojisi/Makine Teknolojisi alanındaki programlarına veya Halk Eğitim Merkezleri ile İŞKUR'un açtığı mesleki eğitim kurslarına katılarak bilgi ve becerisini geliştirebilir; isteyen açık öğretim yoluyla orta öğretimini tamamlayarak ilgili alanlardaki daha üst düzey teknik eğitim programlarına yönelebilir.",
+  "is_hayatinda": "Deneyim kazanan operatör, farklı tip flanj açma ve metal levha işleme makinelerinde çalışabilecek yetkinliğe ulaşabilir; tezgah ayarcılığı, ekip sorumluluğu veya ustabaşılık gibi pozisyonlara yükselebilir. Yeterli deneyim ve sermaye birikimine sahip olanlar kendi atölyelerini kurabilir."
+ },
+ "ek_bilgiler": "Bu meslekte çalışanlar ağır ve keskin kenarlı metal parçalarla temas ettiğinden, el ve göz yaralanmalarını önlemek için kişisel koruyucu donanımın eksiksiz kullanılması önemlidir. Varil gövdesi gibi belirli ürün türlerine veya belirli makine tiplerine yönelik ihtisaslaşma, operatörün iş bulma ve kariyer gelişiminde avantaj sağlayabilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T01:35:18",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 7442
+  }
+ }
+}

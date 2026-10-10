@@ -1,0 +1,73 @@
+{
+ "gorevler": [
+  "Gemilerin geliş takvimine göre rıhtım planlamasını (berthing) yapar,",
+  "Vinç (SSG/MHC) ve ekipman iş yükünü optimize eder,",
+  "Gemiden tahliye edilecek konteynerlerin saha istif yerlerini belirler,",
+  "Gemi kaptanı ve acentelerle operasyonel detayları koordine eder,",
+  "Operasyon hızını ve verimliliğini takip ederek raporlar,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "arac_gerec": [
+  "Bilgisayar ve liman/terminal işletim yazılımları (TOS)",
+  "Rıhtım ve saha yerleşim/planlama yazılımları",
+  "Konteyner takip ve stok yönetim sistemleri",
+  "Gemi takip ve deniz trafik izleme sistemleri (AIS)",
+  "Telsiz ve diğer haberleşme cihazları",
+  "Elektronik tablo ve raporlama programları",
+  "Saha ve rıhtım yerleşim planları, haritalar",
+  "Telefon, faks ve diğer büro iletişim araçları",
+  "Yazıcı, tarayıcı gibi büro ekipmanları",
+  "Kırtasiye malzemeleri"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve titiz,",
+  "Sayısal yeteneğe sahip,",
+  "Analitik düşünme ve planlama becerisi olan,",
+  "Hızlı ve doğru karar verebilen,",
+  "Sorumluluk sahibi,",
+  "Etkili iletişim kurabilen,",
+  "Stres altında çalışabilen,",
+  "Takım çalışmasına uyumlu"
+ ],
+ "calisma_ortami": "Liman Operasyon Planlamacısı, büyük bölümü kapalı bir ofis veya kontrol odası ortamında bilgisayar başında geçen, ancak gerektiğinde rıhtım ve konteyner sahasına çıkarak operasyonu yakından takip etmeyi gerektiren bir ortamda çalışır. Liman operasyonları genellikle kesintisiz (7/24) yürütüldüğünden vardiyalı çalışma düzeni yaygındır; gece, hafta sonu ve resmî tatillerde de çalışma gerekebilir. Açık sahaya çıkıldığında gürültü, hava koşulları ve ağır ekipmanların bulunduğu bir çalışma ortamıyla karşılaşılabilir.\n\nÇalışırken gemi kaptanları, liman acenteleri, vinç ve saha operatörleri, terminal yöneticileri, gümrük ve diğer liman görevlileriyle sürekli iletişim ve koordinasyon içinde bulunur. İş yoğunluğu, gemi geliş-gidiş programına bağlı olarak değişkenlik gösterebilir ve ani planlama değişikliklerine hızlı uyum gerektirir.",
+ "egitim": {
+  "verildigi_yerler": "Liman Operasyon Planlamacısı mesleğine yönelik, bu adla açılmış bağımsız bir mesleki ve teknik ortaöğretim programı veya üniversite bölümü bulunmamaktadır. Meslek elemanları genellikle ortaöğretim düzeyinde ilgili alanlardan (örneğin denizcilik veya lojistikle ilgili alanlar) ya da ön lisans/lisans düzeyinde lojistik yönetimi, denizcilik işletmeleri yönetimi, uluslararası ticaret ve lojistik gibi bölümlerden mezun olup, liman işletmelerinde işbaşında eğitilerek veya kademeli olarak (saha görevlisi, puantör, vardiya sorumlusu gibi pozisyonlardan) deneyim kazanarak bu göreve yükselmektedir.",
+  "giris_kosullari": [
+   "Ortaokulu tamamlamış olmak (ortaöğretim düzeyindeki ilgili programlar için)",
+   "Milli Eğitim Bakanlığınca belirlenen ilgili alan/dala giriş koşullarını taşımak",
+   "Ön lisans/lisans düzeyinde eğitim için ortaöğretimi tamamlamış ve ilgili sınavlarda (YKS) yeterli puanı almış olmak"
+  ],
+  "sure_ve_icerik": "Ortaöğretim düzeyindeki ilgili programların eğitim süresi 4 yıldır. Lojistik yönetimi, denizcilik işletmeleri yönetimi veya uluslararası ticaret ve lojistik gibi alanlarda ön lisans eğitimi 2 yıl, lisans eğitimi 4 yıl sürmektedir. Bu eğitimlerde liman ve terminal işletmeciliği, lojistik ve tedarik zinciri yönetimi, denizcilik mevzuatı, konteyner taşımacılığı, depo ve stok yönetimi, bilgisayar destekli operasyon planlama gibi konular işlenir. Mesleğe giriş için tek, standart bir eğitim programı bulunmadığından, liman işletmeleri çoğunlukla ilgili bölüm mezunlarını veya sahada deneyim kazanmış personeli işbaşında eğiterek bu göreve hazırlamaktadır.",
+  "belge": "Ortaöğretim düzeyindeki eğitimi tamamlayanlara meslek lisesi diploması, ön lisans/lisans programlarını tamamlayanlara ilgili diploma verilir. Mesleğe özgü ayrı bir diploma bulunmamaktadır. Mesleki Yeterlilik Kurumu (MYK) tarafından liman ve terminal operasyonları alanında düzenlenebilecek yeterlilik belgeleri, istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Liman Operasyon Planlamacısı; konteyner limanları, genel yük ve dökme yük limanları, liman işletme şirketleri, lojistik ve taşımacılık firmaları ile serbest bölgelerdeki liman tesislerinde istihdam edilebilir. Türkiye'nin dış ticaretinin önemli bir kısmının deniz yoluyla gerçekleştirilmesi, liman kapasitesinin ve konteyner trafiğinin artması bu alandaki istihdam ihtiyacını desteklemektedir. Ancak çalışma alanları, limanların ve büyük konteyner terminallerinin bulunduğu kıyı bölgeleriyle sınırlı olduğundan, iş bulma olanakları coğrafi olarak belirli bölgelerde yoğunlaşmaktadır.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğe özgü, standart ve zorunlu bir mesleki eğitim programı bulunmadığından, eğitim süresince belirli bir kazanç uygulaması söz konusu değildir. Liman işletmelerinde staj veya işbaşı eğitim gören öğrenci ve adaylara, 3308 sayılı Mesleki Eğitim Kanunu kapsamında mevzuatta belirtilen oranlarda ücret ödenebilir.",
+  "egitim_sonrasi": [
+   "Özel sektörde çalışanların ücreti; işletmenin büyüklüğü, kişinin bilgi, tecrübe ve çalışma kapasitesi ile sektördeki ücret düzeyine göre değişmektedir; mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde veya buna yakın bir ücretle işe başlar.",
+   "Kamuya bağlı liman işletmelerinde memur statüsünde çalışanlar 657 sayılı Devlet Memurları Kanunu'na, işçi statüsünde çalışanlar ise ilgili toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Deneyim, uzmanlık ve çalışılan terminalin büyüklüğü arttıkça kazanç düzeyi de artabilmektedir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Ortaöğretimde ilgili alan/dallardan mezun olanlar, YKS'de yeterli puanı aldıkları takdirde lojistik yönetimi, denizcilik işletmeleri yönetimi, uluslararası ticaret ve lojistik gibi ön lisans ve lisans programlarına yönelebilir. Meslekte uzmanlaşmayı sağlayan liman işletmeciliği, tedarik zinciri yönetimi, operasyonel araştırma gibi alanlarda kurs, sertifika programları ve lisansüstü eğitimlerle nitelik artışı sağlanabilir.",
+  "is_hayatinda": "Liman Operasyon Planlamacısı, deneyim ve bilgi birikimi arttıkça vardiya amiri, operasyon şefi, terminal müdür yardımcısı ve terminal müdürü gibi daha üst düzey yönetim kademelerine yükselebilir. Yabancı dil bilgisi, bilgisayarlı terminal işletim sistemleri (TOS) konusundaki uzmanlık ve liman/lojistik yönetimiyle ilgili sertifikalar meslekte ilerlemeyi destekleyen önemli unsurlardır."
+ },
+ "benzer_meslekler": [
+  "Liman Konteynır Terminal Şefi",
+  "Liman Terminal Şefi",
+  "Liman Şefi",
+  "Liman Servis Şefi",
+  "Deniz Operasyon Sorumlusu",
+  "Deniz ve Liman İşletmeciliği Meslek Elemanı"
+ ],
+ "ek_bilgiler": "Liman operasyonları kesintisiz (7/24) esasına göre yürütüldüğünden, bu meslekte vardiyalı çalışma düzeni yaygındır. Özellikle büyük konteyner terminallerinde görev yapmak isteyenler için yabancı dil bilgisi ve bilgisayarlı terminal işletim sistemlerine (TOS) hâkimiyet, istihdamda önemli bir avantaj sağlamaktadır.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T17:08:48",
+  "usage": {
+   "input_tokens": 4,
+   "output_tokens": 11110
+  }
+ }
+}

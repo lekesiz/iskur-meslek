@@ -1,0 +1,80 @@
+{
+ "arac_gerec": [
+  "Bilgisayar ve ofis yazılımları (metin işleme, hesap tablosu programları)",
+  "Denetim yönetim ve iş akışı yazılımları",
+  "Mali/muhasebe bilgi sistemleri ve kurumsal kaynak planlama (ERP) uygulamaları",
+  "Yazıcı, tarayıcı ve fotokopi makinesi",
+  "İnternet erişimi ve kurum içi bilgi sistemleri",
+  "Dosyalama, arşivleme ve evrak takip sistemleri",
+  "Telefon ve diğer iletişim araçları",
+  "Mevzuat, denetim standartları ve rehberlerin yer aldığı basılı/elektronik kaynaklar",
+  "Denetim çalışma kağıdı ve rapor şablonları",
+  "Toplantı ve görüşmelerde kullanılan kayıt/not alma araçları"
+ ],
+ "genel_ozellikler": [
+  "Sayılarla akıl yürütme ve analiz yeteneğine sahip,",
+  "Ayrıntılara dikkat eden, titiz ve dürüst,",
+  "Nesnel, tarafsız ve bağımsız değerlendirme yapabilen,",
+  "Sorumluluk sahibi ve ikna kabiliyeti yüksek,",
+  "Mevzuata ve mesleki etik kurallara bağlı,",
+  "Yazılı ve sözlü anlatım becerisi gelişmiş,",
+  "Gizliliğe önem veren ve güvenilir,",
+  "Mesleki gelişime açık"
+ ],
+ "gorevler": [
+  "Nesnel risk analizlerine dayanarak kamu idarelerinin yönetim ve kontrol yapılarını değerlendirir,",
+  "Kaynakların etkili, ekonomik ve verimli kullanılması bakımından incelemeler yapar ve önerilerde bulunur,",
+  "Harcamalar sonrasında yasal uygunluk denetimi yapar,",
+  "İdarenin harcamalarının, mali işlemlere ilişkin karar ve tasarruflarının amaç ve politikalara, kalkınma planına, programlara, stratejik planlara ve performans programlarına uygunluğunu denetler ve değerlendirir,",
+  "Mali yönetim ve kontrol süreçlerinin sistem denetimini yapar ve bu konularda önerilerde bulunur,",
+  "Denetim sonuçları çerçevesinde iyileştirmelere yönelik önerilerde bulunur ve bunları takip eder,",
+  "Denetim sırasında veya denetim sonuçlarına göre soruşturma açılmasını gerektirecek bir duruma rastlandığında, ilgili idarenin en üst amirine bildirir,",
+  "Kamu idaresince üretilen bilgilerin doğruluğunu denetler,",
+  "Üst yönetici tarafından gerekli görülen hallerde performans göstergelerini hazırlamada yardımcı olur, belirlenen performans göstergelerinin uygulanabilirliğini değerlendirir,",
+  "Suç teşkil eden durumlara ilişkin tespitlerini üst yöneticiye bildirir,",
+  "Denetim esnasında elde ettiği bilgilerin gizliliğini korur,",
+  "Mesleği alanındaki gelişmeleri takip eder ve uygulamalara yansıtır,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "calisma_ortami": "\"İç denetçi (kamu), büro ortamında çalışır; ancak denetim konusu yapılan birim ve işlemlere ilişkin belge, kayıt ve süreçleri incelemek amacıyla kurum içindeki farklı birimlerde ve bazen saha ziyaretlerinde de bulunur. Çalışma saatleri genellikle kamu kurumlarının mesai saatleriyle sınırlıdır; ancak denetim dönemleri, rapor teslim tarihleri veya incelenen konunun kapsamına bağlı olarak zaman zaman yoğun çalışma söz konusu olabilir.\\n\\nGörevi gereği kurum yöneticileri, birim çalışanları, iç kontrol görevlileri ve gerektiğinde Sayıştay gibi dış denetim kurumlarıyla iletişim kurar. Bağımsız ve nesnel değerlendirme yapma sorumluluğu taşıması, bazı durumlarda kurum içi tutum farklılıklarıyla karşılaşabilmesi nedeniyle dikkat, sabır ve stres yönetimi gerektiren bir meslektir.\"",
+ "egitim": {
+  "verildigi_yerler": "Doğrudan \"İç Denetçi\" unvanına yönelik ayrı bir lisans programı bulunmamaktadır. Üniversitelerin işletme, iktisat, maliye, kamu yönetimi, ekonomi, muhasebe ve finans gibi dört yıllık lisans programlarından mezun olmak iç denetçilik mesleğine temel oluşturur. Lisans eğitimi sonrasında kamu kurumunda göreve başlayan kişiler, İç Denetim Koordinasyon Kurulu tarafından düzenlenen veya onaylanan eğitim ve sertifikasyon programları aracılığıyla bu alanda uzmanlaşabilir.",
+  "giris_kosullari": [
+   "İşletme, iktisat, maliye, kamu yönetimi, ekonomi, muhasebe-finans veya ilgili bir alanda dört yıllık lisans programından mezun olmak,",
+   "Devlet memurluğuna giriş için gereken genel şartları (vatandaşlık, yaş, sağlık durumu vb.) taşımak,",
+   "Kamu kurumlarının iç denetçi kadrolarına atanabilmek için ilgili mevzuatta belirlenen sınav ve sertifikasyon süreçlerini tamamlamış olmak."
+  ],
+  "sure_ve_icerik": "Lisans eğitimi 4 yıl sürer; işletme, iktisat, maliye, muhasebe, denetim, kamu yönetimi ve ilgili mevzuat konularında dersler içerir. Lisans eğitimini tamamlayıp kamu kurumunda göreve başlayan adaylar, İç Denetim Koordinasyon Kurulu tarafından düzenlenen veya onaylanan sertifika eğitim programlarına katılarak iç denetim sertifikası almaya hak kazanabilir. Bu programlarda denetim standartları, risk yönetimi, iç kontrol sistemleri, mali yönetim ve denetim teknikleri gibi konularda eğitim verilir.",
+  "belge": "Lisans diploması ve kamu iç denetçi sertifikası (ilgili sınav ve eğitim süreçleri başarı ile tamamlandığında verilir)."
+ },
+ "calisma_alanlari": "\"İç denetçi (kamu), bakanlıklar, genel ve özel bütçeli kamu idareleri, belediyeler ve diğer kamu kurum ve kuruluşlarının iç denetim birimlerinde görev alır. Ayrıca İç Denetim Koordinasyon Kurulu bünyesinde veya bu kurula bağlı birimlerde çalışabilir. Mesleğe giriş, genellikle ilgili kamu kurumunun açtığı kadrolara yapılan sınav ve atama süreçleri yoluyla gerçekleşir; iş bulma olanağı kamu kurumlarının açtığı iç denetçi kadro ilanlarının sayısına bağlı olarak değişkenlik gösterebilir.\"",
+ "kazanc": {
+  "egitim_suresince": "Lisans eğitimi süresince öğrenciler, Kredi ve Yurtlar Kurumu'nun sağladığı öğrenim kredisi ve yurt hizmetlerinden, ayrıca çeşitli resmi ve özel kurum/kuruluşların burslarından yararlanabilir.",
+  "egitim_sonrasi": [
+   "Kamuda görev yapan iç denetçiler, 657 sayılı Devlet Memurları Kanunu'na tabi olarak maaş, ek gösterge ve ilgili tazminatlardan yararlanır.",
+   "Kıdem ve unvan (denetçi, baş denetçi vb.) ilerledikçe ücret düzeyi de genellikle artış gösterir.",
+   "Kazanç düzeyi, görev yapılan kurumun yapısına ve pozisyona göre değişebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "İlgili alanlarda yüksek lisans ve doktora yaparak akademik kariyere yönelebilir; iç denetim, risk yönetimi, iç kontrol ve mali yönetim alanlarında ulusal ve uluslararası sertifikalar edinerek mesleki bilgi ve statüsünü geliştirebilir.",
+  "is_hayatinda": "Kıdem ve performansa bağlı olarak baş denetçi, iç denetim birimi başkanı veya koordinatörü gibi üst düzey görevlere yükselebilir; kurum içindeki üst yönetim kademelerine veya başka kamu kurumlarının denetim ve yönetim birimlerine geçiş yapabilir."
+ },
+ "benzer_meslekler": [
+  "Denetçi - Kamu",
+  "Denetçi Yardımcısı",
+  "Bütçe Müdürü",
+  "Muhasebe Müdürü",
+  "Mal Müdürü",
+  "İdari ve Mali İşler Müdürü"
+ ],
+ "ek_bilgiler": "\"İç denetçi olarak kamuda görev alabilmek için, lisans eğitiminin yanı sıra ilgili kamu kurumunun açtığı sınav süreçlerini ve İç Denetim Koordinasyon Kurulu tarafından yürütülen sertifikasyon sürecini tamamlamak gerekir. Bu süreçlerin ayrıntıları kurumdan kuruma ve dönemsel mevzuat düzenlemelerine göre değişiklik gösterebileceğinden, güncel koşulların ilgili kamu kurumlarından ve İç Denetim Koordinasyon Kurulu'ndan öğrenilmesi önerilir.\"",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-07T19:27:14",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 7061
+  }
+ }
+}

@@ -1,0 +1,76 @@
+{
+ "arac_gerec": [
+  "Telsiz ve haberleşme cihazları",
+  "Bilgisayar ve terminal/liman otomasyon yazılımı",
+  "Anons ve sesli uyarı sistemleri",
+  "Kapalı devre kamera (CCTV) izleme ekranları",
+  "Reflektif yelek, baret/kask ve kişisel koruyucu donanım",
+  "El feneri ve sinyal/düdük ekipmanları",
+  "Trafik konisi, bariyer ve yönlendirme levhaları",
+  "Yangın söndürme ekipmanları",
+  "İlk yardım malzemeleri",
+  "Rampa ve iskele kontrol panelleri",
+  "Can yeleği ve deniz güvenlik ekipmanları",
+  "Yazıcı, telefon ve diğer büro malzemeleri"
+ ],
+ "genel_ozellikler": [
+  "Sorumluluk sahibi,",
+  "Etkili iletişim becerisine sahip,",
+  "Hızlı ve doğru karar verebilen,",
+  "Dikkatli ve tedbirli,",
+  "Fiziksel ve zihinsel olarak dayanıklı,",
+  "Ekip yönetimi ve koordinasyon becerisi olan,",
+  "Stresli ve acil durumlarda sakin kalabilen,",
+  "Takım çalışmasına uyumlu,"
+ ],
+ "calisma_ortami": "Terminal/İskele Sorumlusu, hem açık alanda (iskele, rıhtım, rampa sahası) hem de kapalı alanda (terminal binası, kontrol odası) görev yapar. Çalışma ortamı deniz ikliminin etkisine (rüzgâr, yağış, soğuk/sıcak hava), gemi ve araç trafiğinin gürültüsüne açıktır; dikkat ve tedbir gerektiren fiziksel riskler (kayma, düşme, araç-yaya çarpışması gibi) içerebilir.\\n\\nÇalışma saatleri gemi sefer tarifelerine bağlı olarak vardiyalı olabilir; gece, hafta sonu ve resmî tatillerde çalışma gerekebilir. Görevi sırasında gemi personeli, yolcular, araç sürücüleri, terminal çalışanları, güvenlik görevlileri ve acil durum ekipleriyle sürekli iletişim ve koordinasyon içindedir.",
+ "gorevler": [
+  "İskeledeki gemi trafiğini ve rampa düzenini koordine eder,",
+  "Yolcu karşılama ve araç yükleme ekiplerini sevk eder,",
+  "Terminal sahasının temizlik, aydınlatma ve güvenliğini denetler,",
+  "Operasyonel aksaklıkları ve teknik arızaları raporlar,",
+  "Acil durumlarda tahliye ve emniyet prosedürlerini yönetir,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Mesleğin icrası için ortaöğretim sonrası standart ve zorunlu bir mesleki eğitim programı bulunmamaktadır. Genel olarak lise ve dengi okul mezunu olarak işe başlanır; mesleğe özgü bilgi ve beceriler işletme bünyesinde deneyimli personel yanında işbaşında ve kurum içi eğitimlerle kazandırılır. Denizcilik, lojistik veya ulaştırma işletmeciliği ile ilgili ön lisans/lisans programlarından mezun olmak işe alımda ve görevde ilerlemede tercih sebebi olabilir.",
+  "giris_kosullari": [
+   "Lise ve dengi okul mezunu olmak,",
+   "Bazı işletmelerde ilgili alanda (denizcilik, lojistik, ulaştırma işletmeciliği vb.) ön lisans veya lisans mezuniyeti tercih edilebilir,",
+   "Görevin gerektirdiği fiziksel ve sağlık koşullarına uygun olmak,",
+   "İşletmenin talep ettiği diğer koşulları (deneyim, haberleşme/temel denizcilik bilgisi vb.) taşımak."
+  ],
+  "sure_ve_icerik": "Mesleğe ilişkin resmî olarak tanımlanmış, belirli süreli ve müfredatlı bir eğitim programı bulunmamaktadır. İşe alınan kişiler, iş yerinde deneyimli personel gözetiminde uygulamalı olarak ve kurum içi eğitimlerle (iş sağlığı ve güvenliği, acil durum ve tahliye prosedürleri, yolcu/araç trafiği yönetimi, kullanılan haberleşme ve otomasyon sistemleri gibi) yetiştirilir. Denizcilik ve liman işletmeciliği alanında Halk Eğitim Merkezleri, meslek yüksekokulları veya ilgili kurumlarca açılan kurs ve sertifika programlarına katılım faydalı olabilir.",
+  "belge": "Standart bir diploma veya sertifika zorunluluğu bulunmamaktadır; katılınan kurs ve eğitim programları sonunda katılım/başarı belgesi verilebilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Terminal/İskele Sorumlusu; deniz terminalleri, limanlar, feribot ve deniz otobüsü iskeleleri, belediyelere veya özel sektöre bağlı deniz ulaştırma işletmeleri ile liman işletmeciliği yapan kamu ve özel kuruluşlarda çalışabilir. Ülkemizde deniz yolu ile yolcu ve araç taşımacılığının yoğun olduğu kıyı şehirleri ve adalarda istihdam olanağı daha fazladır. Deniz ticareti ve turizminin gelişimine bağlı olarak sektörde zaman zaman nitelikli personel talebi oluşmaktadır.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğe ilişkin resmî ve standart bir mesleki eğitim programı bulunmadığından, 3308 sayılı Mesleki Eğitim Kanunu kapsamında işletmelerde mesleki eğitim gören öğrencilere uygulanan ücret düzenlemeleri bu meslek için geçerli değildir. İşe yeni başlayanlar genellikle doğrudan çalışan statüsünde istihdam edilir ve çalıştığı işletmenin ücret politikasına göre kazanç sağlar.",
+  "egitim_sonrasi": [
+   "Kamuya bağlı işletmelerde (belediye şirketleri, kamu liman işletmeleri vb.) çalışanlar, işçi statüsündeyse geçerli toplu iş sözleşmesi hükümlerine, memur statüsündeyse 657 sayılı Devlet Memurları Kanunu'na göre ücret alır.",
+   "Özel sektörde çalışanların ücreti işveren ile çalışan arasında karşılıklı anlaşmaya, işletmenin büyüklüğüne, kişinin deneyimine ve bilgi birikimine göre değişir.",
+   "Yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar; deneyim ve sorumluluk arttıkça ücret düzeyi yükselebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Meslekte ilerlemeyi sağlayan, belirli bir sınava bağlı resmî bir eğitim basamağı bulunmamaktadır. Kişiler, denizcilik, lojistik veya ulaştırma işletmeciliği ile ilgili ön lisans/lisans programlarına yönelerek bilgi ve becerilerini artırabilir; iş sağlığı ve güvenliği, acil durum yönetimi, yabancı dil ve iletişim konularında açılan kurs ve seminerlere katılarak niteliklerini geliştirebilirler.",
+  "is_hayatinda": "Deneyim ve performansına bağlı olarak Terminal/İskele Sorumlusu, çalıştığı işletmede liman/terminal şefliği, operasyon sorumluluğu veya benzeri daha üst düzey koordinasyon ve yönetim görevlerine yükselebilir."
+ },
+ "benzer_meslekler": [
+  "Liman Şefi",
+  "Liman Terminal Şefi",
+  "Liman Servis Şefi",
+  "Deniz Operasyon Sorumlusu",
+  "Apron Amiri",
+  "Yer İşletmecisi (İstasyon-Havaalanı)"
+ ],
+ "ek_bilgiler": "Mesleğin icrası deniz ulaştırma sektörünün sefer tarifelerine bağlı olduğundan, çalışma saatleri mevsimsel yoğunluğa (özellikle turizm sezonu) göre değişkenlik gösterebilir. Görev, acil durumlarda yolcu ve araç tahliyesi sorumluluğu içerdiğinden, temel düzeyde iş sağlığı ve güvenliği ile acil durum/ilk yardım eğitimi almış olmak işe alımda ve görevin yürütülmesinde önemlidir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T17:03:49",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5487
+  }
+ }
+}

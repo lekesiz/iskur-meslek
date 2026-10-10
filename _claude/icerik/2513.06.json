@@ -1,0 +1,75 @@
+{
+ "arac_gerec": [
+  "Programlama ve geliştirme ortamları (Visual Studio, Visual Studio Code vb.)",
+  "Oyun ve etkileşimli içerik motorları (Unity, Unreal Engine, Construct vb.)",
+  "Multimedya tasarım ve animasyon yazılımları (Adobe Animate, After Effects, Photoshop, Premiere vb.)",
+  "Programlama dilleri ve betik dilleri (JavaScript, C#, C++, ActionScript vb.)",
+  "Web teknolojileri (HTML5, CSS3, WebGL vb.)",
+  "Ses ve video düzenleme yazılımları",
+  "Versiyon kontrol sistemleri (Git vb.)",
+  "Hata ayıklama ve test araçları",
+  "Grafik tableti",
+  "Çoklu ortam dosya formatları ve sıkıştırma araçları",
+  "Mobil ve masaüstü platform test cihazları",
+  "Veritabanı bağlantı araçları"
+ ],
+ "benzer_meslekler": [
+  "Web Programcısı",
+  "Animasyon Programcısı",
+  "Bilgisayar Oyunları Programcısı",
+  "Web ve Çoklu Ortam Geliştiricisi ve Sorumlusu",
+  "Grafik ve Animasyon Tabanlı Web Sayfası Hazırlayıcısı",
+  "İnternet Geliştiricisi"
+ ],
+ "calisma_alanlari": "Çoklu ortam programcısı; yazılım geliştirme şirketleri, reklam ve dijital ajanslar, oyun stüdyoları, eğitim teknolojileri (e-öğrenme) firmaları, medya ve yayıncılık kuruluşları ile kamu kurumlarının bilgi işlem/bilişim birimlerinde çalışabilir. Ayrıca serbest (freelance) olarak proje bazlı çalışma da yaygındır. Dijital içerik, oyunlaştırma ve etkileşimli medya alanlarına olan talebin artması, bu meslekte eleman arayışını desteklemektedir; ilgili alanlarda deneyim ve güncel teknolojilere hâkimiyet iş bulmayı kolaylaştırmaktadır.",
+ "calisma_ortami": "Çoklu ortam programcısı genellikle büro/ofis ortamında, bilgisayar başında oturarak çalışır; zaman zaman evden veya uzaktan çalışma da mümkündür. Çalışma sırasında tasarımcılar, diğer yazılımcılar, proje yöneticileri ve işverenlerle sürekli etkileşim halindedir; ekip çalışması önemlidir.\n\nİş genellikle normal mesai saatlerinde yürütülür, ancak proje teslim tarihlerine yaklaşıldığında yoğun ve esnek çalışma saatleri gerekebilir. Uzun süre ekran karşısında oturmaya bağlı olarak bel, boyun ve göz yorgunluğu gibi sağlık sorunları görülebilir.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi, meslek liselerinin bilişim teknolojileri alanında, üniversitelerin ilgili önlisans ve lisans programlarında (bilgisayar programcılığı, bilişim teknolojileri, multimedya/çoklu ortam programları gibi) verilmektedir. Ayrıca Halk Eğitim Merkezleri, İŞKUR'un açtığı mesleki eğitim kursları ve özel eğitim kurumlarınca düzenlenen kurslarla da bu alanda bilgi ve beceri kazanılabilmektedir.",
+  "giris_kosullari": [
+   "Ortaöğretim (lise ve dengi okul) mezunu olmak",
+   "Üniversite programları için ilgili merkezi sınavla yerleşmek veya aranan koşulları sağlamak",
+   "Kurslara katılım için kurumların belirlediği yaş ve ön koşulları (gerekiyorsa veli izni) karşılamak"
+  ],
+  "sure_ve_icerik": "Eğitimin süresi ve içeriği, izlenen yola göre değişmektedir. Lise düzeyinde bilişim teknolojileri alanında eğitim yaklaşık 4 yıl sürmekte; programlama mantığı, web teknolojileri, grafik ve animasyon temelleri gibi dersler içermektedir. Üniversite programlarında bu süre 2 (önlisans) ile 4 yıl (lisans) arasında değişmekte; programlama dilleri, multimedya tasarım, oyun/etkileşimli içerik geliştirme, veritabanı ve proje yönetimi gibi konular işlenmektedir. Kurs programlarının süresi ve içeriği, kurumuna göre farklılık göstermektedir.",
+  "belge": "Eğitimin türüne göre lise diploması, önlisans/lisans diploması veya kurs bitirme belgesi verilmektedir. Ayrıca Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "ek_bilgiler": "Çoklu ortam programcılığı; oyun geliştirme, dijital reklam, e-öğrenme ve etkileşimli medya sektörlerindeki büyümeye paralel olarak gelişmekte olan bir meslek alanıdır. Mesleğin icrası sırasında belirli bir sektör veya işveren tarafından ek sertifika ya da teknoloji bilgisi (belirli oyun motoru, programlama dili vb.) talep edilebilir.",
+ "genel_ozellikler": [
+  "Analitik düşünebilen ve problem çözme becerisine sahip,",
+  "Yaratıcı ve görsel estetiğe duyarlı,",
+  "Detaylara dikkat eden ve titiz,",
+  "Ekip içinde uyumlu çalışabilen,",
+  "Yeni teknolojileri takip etmeye istekli,",
+  "Mantıksal ve matematiksel düşünmeye yatkın,",
+  "Sabırlı ve sorun çözmede kararlı,",
+  "İyi düzeyde iletişim kurabilen"
+ ],
+ "gorevler": [
+  "Çoklu ortam projesinin teknik mimarisini ve kod yapısını oluşturur.",
+  "Tasarımcılar tarafından hazırlanan görsel ve işitsel öğeleri programlar.",
+  "İnteraktif menüler, oyun mekanikleri veya simülasyonlar geliştirir.",
+  "Yazılımın farklı platformlarda (web, mobil vb.) çalışmasını test eder.",
+  "Mevcut dijital içeriklerin teknik güncellemelerini ve bakımlarını yapar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Önlisans düzeyinde eğitim alanlar, isterlerse dikey geçiş sınavıyla ilgili lisans programlarına geçiş yapabilir. Kurs veya meslek lisesi yoluyla alana giriş yapanlar, üniversitelerin bilişim/çoklu ortam programlarına yönelerek bilgi ve becerilerini ileri düzeye taşıyabilir.",
+  "is_hayatinda": "Deneyim kazanan çoklu ortam programcıları kıdemli programcı, proje lideri veya teknik ekip yöneticisi gibi pozisyonlara yükselebilir. Yeterli birikim ve sermayeye sahip olanlar kendi yazılım/dijital içerik işletmesini kurabilir ya da serbest (freelance) çalışmaya geçebilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Örgün eğitim (lise, önlisans, lisans) sürecinde genellikle kazanç söz konusu değildir. Halk Eğitim Merkezleri veya İŞKUR kursları süresince de ücret ödenmemektedir; ancak İŞKUR'un bazı aktif işgücü programlarında kursiyerlere belirli koşullarda harçlık/katılım desteği sağlanabilmektedir.",
+  "egitim_sonrasi": [
+   "İşe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Deneyim, bilgi birikimi ve uzmanlaşılan teknolojiye bağlı olarak kazanç artabilir.",
+   "Özel sektörde ücret, işveren ile çalışan arasındaki anlaşmaya göre değişebilir; kamu kurumlarında istihdam edilenlerin ücreti ilgili mevzuata (657 sayılı Kanun veya toplu iş sözleşmesi hükümlerine) göre belirlenir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T05:56:46",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5198
+  }
+ }
+}

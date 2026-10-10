@@ -1,0 +1,77 @@
+{
+ "arac_gerec": [
+  "Buhar basınçlı pişirme kazanı",
+  "Buharla ısıtılan karıştırma (mikser) makinesi",
+  "Tartı/baskül",
+  "Hammadde taşıma bantları ve kapları",
+  "Şeker serpme ekipmanı ve tekneler",
+  "Sıcaklık ve basınç kontrol panelleri",
+  "Termometre",
+  "Temizlik ve dezenfeksiyon malzemeleri",
+  "Koruyucu iş elbisesi, bone, eldiven ve maske",
+  "Hijyen kontrol ekipmanları"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve titiz",
+  "El ve göz koordinasyonu iyi",
+  "Fiziksel olarak sağlıklı ve dayanıklı",
+  "Hijyen kurallarına duyarlı",
+  "Talimatları eksiksiz uygulayabilen",
+  "Sorumluluk duygusu gelişmiş",
+  "Takım çalışmasına uyumlu",
+  "Vardiyalı ve ayakta çalışma düzenine uyum sağlayabilen"
+ ],
+ "calisma_ortami": "Çiklet imal işçisi, şekerleme ve gıda imalatı yapan fabrikalarda, genellikle kapalı alanlarda ve üretim bantlarının bulunduğu atölyelerde çalışır. Çalışma ortamı buhar, sıcaklık, nem ve şeker/aroma kokusu açısından yoğun olabilir; kazan ve karıştırma makinelerinin bulunduğu alanlarda sıcak yüzey ve makine kaynaklı riskler bulunur. Bu nedenle iş sağlığı ve güvenliği kurallarına, kişisel koruyucu donanım kullanımına ve hijyen kurallarına titizlikle uyulması gerekir.\n\nÇalışma genellikle ayakta ve fiziksel efor gerektiren koşullarda, çoğu zaman vardiyalı sistemle sürdürülür. Çiklet imal işçisi çalışma sırasında vardiya arkadaşları, usta/ustabaşı, üretim sorumlusu ve kalite kontrol personeli ile sürekli iletişim halindedir.",
+ "gorevler": [
+  "Üretimde kullanılacak maddeleri tartar.",
+  "Tartılan maddeleri buhar basınçlı kazana koyarak belirli bir kıvama gelinceye kadar pişirir.",
+  "Pişirilen maddeleri buharla ısıtılan karıştırma makinesine koyar.",
+  "Karıştırma makinesine belirli miktarlarda sakız, şeker, glikoz, mısır nişastası ve lezzet verici diğer maddeleri ilave eder.",
+  "Makineyi çalıştırarak karışımı belirli bir süre karıştırır.",
+  "Karıştırma işlemi tamamlandığında makineyi durdurur.",
+  "Karışımı makineden çıkararak üzerine şeker serpilmiş teknelere koyar.",
+  "Teknelere alınan karışımı daha sonraki işlemlere hazırlar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Çiklet imal işçiliği için örgün eğitimde ayrı, resmî olarak tanımlanmış bir meslek lisesi dalı veya çıraklık programı bulunmamaktadır. Meslek genellikle gıda/şekerleme üretimi yapan işyerlerinde işbaşında usta yanında öğrenilmekte; ayrıca Halk Eğitim Merkezleri ve İŞKUR'un açtığı gıda üretimi/hijyeni konulu mesleki eğitim kursları da temel bilgi ve beceri kazandırabilmektedir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "Sağlık durumunun ayakta, sıcak ve nemli ortamda çalışmaya uygun olması",
+   "Gıda üretiminde çalışmaya engel bulaşıcı bir hastalığının bulunmaması",
+   "İlgili işyerinde bir çalışma veya işbaşı eğitim imkânı bulmak"
+  ],
+  "sure_ve_icerik": "Mesleğe özgü standart bir eğitim süresi ve müfredatı bulunmamaktadır. Kişi genellikle işe alındığı gıda/şekerleme fabrikasında deneyimli bir usta veya vardiya sorumlusunun gözetiminde, hammadde tartımı, pişirme, karıştırma ve kalıba alma işlemlerini uygulamalı olarak öğrenir. Bu süreçte gıda güvenliği, hijyen ve iş güvenliği konularında kısa süreli işletme içi eğitimler de verilebilir.",
+  "belge": "Standart bir diploma veya sertifika yoktur; çalışılan işyerinden alınan deneyim/çalışma belgesi önemlidir. Mesleki Yeterlilik Kurumu (MYK) tarafından gıda üretimi alanında verilebilecek belgeler, varsa, istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Çiklet imal işçisi, başta çiklet ve sakızlı şeker olmak üzere şekerleme ve gıda ürünleri üreten özel sektör fabrikalarında istihdam edilir. İş imkânları, bu tür üretim tesislerinin yoğunlaştığı sanayi bölgelerinde daha fazladır.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğe özgü resmî bir çıraklık/stajyerlik ücret düzenlemesi bulunmamaktadır. İşbaşı eğitim sürecinde çalışana, işletmenin belirlediği ve genellikle asgari ücret düzeyinde bir ücret ödenir.",
+  "egitim_sonrasi": [
+   "Yeni başlayanlarda kazanç genellikle asgari ücret düzeyindedir.",
+   "Kazanç; işletmenin büyüklüğü, kişinin deneyimi, bilgi ve becerisi ile sektördeki ücret düzeyine göre değişebilir.",
+   "Çalışma, işçi statüsünde olup ücret ve özlük hakları işveren ile çalışan arasındaki sözleşmeye göre belirlenir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğe yönelik örgün bir ilerleme basamağı bulunmamaktadır. Gıda teknolojisi alanında açılan mesleki eğitim programlarına veya İŞKUR/Halk Eğitim Merkezi kurslarına katılarak bilgi ve beceriler geliştirilebilir.",
+  "is_hayatinda": "Deneyim kazanan çiklet imal işçisi; usta, vardiya sorumlusu veya üretim sorumlusu gibi görevlere yükselebilir. Ayrıca gıda/şekerleme üretiminin farklı aşamalarında (karıştırma, şekillendirme, paketleme) görev alarak bilgi birikimini artırabilir."
+ },
+ "benzer_meslekler": [
+  "Çikolata İmal İşçisi",
+  "Çikolata ve Çikolatalı Ürünler Üretim Operatörü",
+  "Çikolata Kaplama Makinesi Operatörü",
+  "Gofret İmalat İşçisi",
+  "Gofret Kesme Makinesi Operatörü",
+  "Bisküvi Şekillendirme Makinesi Operatörü"
+ ],
+ "ek_bilgiler": "Çiklet imal işçisinin çalıştığı gıda üretim ortamında hijyen kurallarına ve gıda güvenliği mevzuatına uyum büyük önem taşır. Mesleğe özgü zorunlu bir yeterlilik belgesi bulunmamakla birlikte, Mesleki Yeterlilik Kurumu (MYK) tarafından gıda üretimiyle ilgili verilebilecek belgeler iş bulmada tercih sebebi olabilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T15:06:49",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5246
+  }
+ }
+}

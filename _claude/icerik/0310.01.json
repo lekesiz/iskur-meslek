@@ -1,0 +1,76 @@
+{
+ "gorevler": [
+  "Verilen askeri görevleri disiplin içinde icra eder.",
+  "Silah ve teçhizatın bakımını yapar.",
+  "Nöbet ve güvenlik hizmetlerini yürütür.",
+  "Eğitim ve tatbikatlara katılım sağlar.",
+  "Birlik nizam ve düzenini korur.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "arac_gerec": [
+  "Kişisel silah ve mühimmat",
+  "Askeri teçhizat ve üniforma",
+  "Kişisel koruyucu donanım (kask, yelek vb.)",
+  "Haberleşme cihazları (telsiz vb.)",
+  "Bakım-onarım takımları",
+  "Nöbet ve gözetleme ekipmanları",
+  "Harita, pusula ve seyrüsefer araçları",
+  "Kara, deniz veya hava platformları ve araçları (görev yerine göre)",
+  "İlk yardım malzemeleri",
+  "Eğitim ve tatbikat simülatörleri",
+  "Kişisel teçhizat çantası ve donanımı"
+ ],
+ "genel_ozellikler": [
+  "Disiplinli ve kurallara uyumlu,",
+  "Sorumluluk sahibi ve güvenilir,",
+  "Fiziksel olarak sağlıklı ve dayanıklı,",
+  "Takım çalışmasına yatkın,",
+  "Stresli ve riskli ortamlarda soğukkanlılığını koruyabilen,",
+  "Talimatlara hızlı ve doğru biçimde uyabilen,",
+  "Vatan ve görev bilinci yüksek,",
+  "Zor koşullara ve değişken çalışma ortamlarına uyum sağlayabilen,"
+ ],
+ "calisma_ortami": "Bu meslek mensupları Türk Silahlı Kuvvetleri bünyesinde kışla, karargah, eğitim merkezi gibi kapalı mekanların yanı sıra arazi, deniz veya hava gibi açık ve değişken ortamlarda da görev yaparlar. Çalışma koşulları görev yerine (sınır birliği, deniz üssü, hava üssü vb.) göre farklılık gösterebilir; bazı görevler fiziksel olarak yıpratıcı olabilir ve zaman zaman zorlu hava koşulları, gürültü veya risk içeren ortamlarda çalışma söz konusu olabilir.\n\nÇalışma saatleri, nöbet ve tatbikat düzenine bağlı olarak değişkenlik gösterir; gece çalışması, vardiyalı nöbet ve uzun süreli görevlendirmeler mümkündür. Görevlerini yerine getirirken üst ve ast rütbelerdeki personelle sıkı bir hiyerarşi ve ekip çalışması içinde, disiplinli bir iletişim kurarlar.",
+ "egitim": {
+  "verildigi_yerler": "Türk Silahlı Kuvvetleri bünyesinde er, erbaş ve uzman erbaş olarak görev almak isteyenlerin başvuru, seçim ve eğitim süreçleri ilgili kuvvet komutanlıklarının (Kara, Deniz, Hava) eğitim merkezleri ve okulları tarafından yürütülür.",
+  "giris_kosullari": [
+   "Türk vatandaşı olmak",
+   "En az lise ve dengi okul mezunu olmak",
+   "İlgili mevzuatta belirlenen yaş sınırları içinde bulunmak",
+   "Askerlik hizmetine ve görev yapacağı branşa elverişli olduğuna dair sağlık kurulu raporuna sahip olmak",
+   "Güvenlik soruşturması ve arşiv araştırmasından olumlu sonuç almak",
+   "Yapılan sınav, fiziki yeterlilik testi ve mülakatları başarıyla geçmek"
+  ],
+  "sure_ve_icerik": "Eğitim süreci, statüye (er, erbaş, uzman erbaş) ve branşa göre değişmekle birlikte genel olarak temel askerlik eğitimini ve ardından göreve özgü teorik ve uygulamalı uzmanlık eğitimlerini kapsar. Eğitimler ilgili kuvvet komutanlıklarının eğitim merkezlerinde, uygulamalı atış, fiziki yeterlilik, disiplin ve göreve özgü teknik konuları içerecek şekilde verilir.",
+  "belge": "Eğitim sürecinin tamamlanmasının ardından ilgili kuvvet komutanlığınca düzenlenen uygunluk/yeterlilik belgesi ve rütbe/unvan ataması yapılır."
+ },
+ "calisma_alanlari": "Bu meslek mensupları Kara, Deniz ve Hava Kuvvetleri Komutanlıkları bünyesinde çeşitli birlik, karargah, üs ve eğitim merkezlerinde görev yapabilirler. Görev yerleri; sınır birlikleri, garnizonlar, deniz üsleri, hava üsleri ve ihtiyaç duyulan diğer askeri birimler olabilir. Atamalar ve görev yerleri ilgili kuvvet komutanlığının ihtiyaçlarına göre belirlenir.",
+ "kazanc": {
+  "egitim_suresince": "Eğitim ve görev süresince personele, bulundukları statüye (er, erbaş, uzman erbaş) göre ilgili mevzuat çerçevesinde maaş, harçlık ve sosyal haklar sağlanır.",
+  "egitim_sonrasi": [
+   "Kamu personeli statüsünde olduklarından ücretleri ilgili mevzuat (657 sayılı Devlet Memurları Kanunu ve askeri personele özgü düzenlemeler) çerçevesinde belirlenir.",
+   "Kazanç düzeyi rütbe, kıdem ve görev yerine göre değişiklik gösterir.",
+   "Risk, nöbet ve ek görev gibi unsurlara bağlı olarak çeşitli ek ödemelerden yararlanılabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Hizmet içi eğitimler, kurslar ve yeterlilik sınavları aracılığıyla farklı branşlarda uzmanlaşma veya üst düzey eğitim programlarına katılma imkânı bulunur.",
+  "is_hayatinda": "Kıdem, performans ve ilgili mevzuatta belirlenen şartları taşıma durumuna göre üst rütbelere terfi edebilir, farklı görev ve branşlara geçiş yapabilir veya astsubaylık gibi ileri kariyer basamaklarına yönelebilirler."
+ },
+ "benzer_meslekler": [
+  "Onbaşı (Kara Kuvvetleri)",
+  "Onbaşı (hava Kuvvetleri)",
+  "Piyade Eri",
+  "Hava Eri",
+  "Denizci Eri"
+ ],
+ "ek_bilgiler": "Bu meslek grubu, Türk Silahlı Kuvvetleri bünyesinde subay ve astsubay dışında kalan er, erbaş ve uzman erbaş kadrolarını genel olarak ifade eder. Görev şartları, özlük hakları, atama ve terfi süreçleri ilgili kuvvet komutanlıklarının özel mevzuatına göre belirlenir ve zaman içinde değişiklik gösterebilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-07T17:48:14",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 4550
+  }
+ }
+}

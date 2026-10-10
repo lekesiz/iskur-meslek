@@ -1,0 +1,82 @@
+{
+ "arac_gerec": [
+  "Bilgisayar ve stok takip/depo yönetim yazılımları",
+  "Barkod okuyucu ve etiketleme ekipmanları",
+  "El terminali",
+  "Telsiz ve telefon",
+  "Depo raf ve istif sistemleri",
+  "Transpalet ve forklift (kullanım yetkisine bağlı olarak)",
+  "Tartı/kantar",
+  "Depo çıkış fişi, iş emri formu gibi kayıt belgeleri",
+  "Dosyalama ve arşivleme ekipmanları",
+  "Kişisel koruyucu donanım (kask, iş ayakkabısı, eldiven, yelek)",
+  "Yazıcı ve fotokopi makinesi"
+ ],
+ "benzer_meslekler": [
+  "Ambar Sorumlusu",
+  "Depo Sorumlusu",
+  "Sayım ve Stok Kontrol İşçisi (Tersane)",
+  "Büro Memuru (Stok Kayıt)",
+  "Ambar ve Antrepo Şefi",
+  "Malzeme Takip ve Dağıtım İşçisi"
+ ],
+ "calisma_alanlari": "Ambarcı (Tersane), başta gemi inşa, bakım ve onarım faaliyeti gösteren tersaneler olmak üzere, denizcilik sektörüne malzeme ve ekipman tedarik eden işletmelerin depo/ambar birimlerinde çalışır. Tersanelerin yoğunlaştığı kıyı bölgelerindeki işletmelerde istihdam olanağı daha fazladır. Ayrıca büyük sanayi tesislerinin, gemi acentelerinin ve lojistik firmalarının depo bölümlerinde de benzer görevlerde çalışabilir. İş bulma olanakları, tersane sektöründeki üretim hacmine ve genel ekonomik duruma göre değişkenlik gösterir.",
+ "calisma_ortami": "Ambarcı (Tersane), genellikle tersane bünyesindeki kapalı depo/ambar alanlarında çalışır; zaman zaman malzeme teslim ve sevkiyat işlemleri nedeniyle açık saha, rıhtım ve gemi inşa alanlarına da çıkar. Çalışma ortamı; ağır ve hacimli malzemelerin bulunduğu, gürültülü, tozlu ve bazen kaygan yüzeylere sahip olabilen bir sanayi ortamıdır; bu nedenle iş sağlığı ve güvenliği kurallarına ve kişisel koruyucu donanım kullanımına özellikle dikkat edilmesi gerekir.\n\nÇalışma saatleri genellikle tam gün ve tersanenin üretim programına bağlı olarak değişebilir; yoğun dönemlerde fazla çalışma veya vardiyalı çalışma söz konusu olabilir. Mesleği uygularken mühendisler, teknisyenler, üretim/montaj ekipleri, satın alma ve lojistik personeli, tedarikçiler ve diğer depo görevlileriyle sık sık iletişim kurar.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğe yönelik resmî olarak tanımlanmış, tek bir okul veya bölüm bulunmamaktadır. Ortaöğretim kurumlarının Büro Yönetimi, Lojistik, Muhasebe ve Finans gibi ilgili alanlarından mezun olmak, mesleğe hazırlık açısından faydalıdır. Ayrıca İŞKUR ile Halk Eğitim Merkezlerinin açtığı stok/depo yönetimi ve lojistik konulu meslek edindirme kurslarından yararlanılabilir. Mesleğe giriş çoğunlukla tersane bünyesinde, işbaşında ve usta-çırak ilişkisi içinde verilen oryantasyon eğitimleriyle gerçekleşir.",
+  "giris_kosullari": [
+   "En az ortaöğretim (lise ve dengi) mezunu olmak",
+   "Temel düzeyde bilgisayar kullanabilmek",
+   "Sayısal işlemlere ve kayıt tutmaya ilgi duymak",
+   "Fiziksel olarak depo/saha koşullarında çalışmaya uygun olmak"
+  ],
+  "sure_ve_icerik": "Mesleğe özgü standart süreli ve içerikli bir örgün eğitim programı bulunmamaktadır. Ortaöğretim sonrası ilgili alanlarda alınan eğitim temel bilgi ve beceriyi sağlar; işe başlandıktan sonra tersanenin depo yönetim sistemi, stok takip yazılımları, malzeme sınıflandırması ve iş güvenliği uygulamaları konusunda kısa süreli işbaşı eğitimleri verilir. Deneyim arttıkça görev ve sorumluluklar genişler.",
+  "belge": "Ortaöğretim diploması ve varsa alınan mesleki kurs/sertifikalar; işyerinde tamamlanan işbaşı/oryantasyon eğitimine ilişkin belgeler."
+ },
+ "ek_bilgiler": "Tersanelerde yürütülen işler, iş sağlığı ve güvenliği açısından riskli olabilen ağır sanayi faaliyetleri içerebilir; bu nedenle temel iş sağlığı ve güvenliği eğitimi almak ve kişisel koruyucu donanımı eksiksiz kullanmak önemlidir. Depo ve stok yönetimi konusunda alınacak Mesleki Yeterlilik Kurumu (MYK) belgeleri veya ilgili sertifikalar, istihdamda tercih sebebi olabilir.",
+ "genel_ozellikler": [
+  "Dikkatli ve düzenli çalışan,",
+  "Sorumluluk sahibi,",
+  "Sayısal işlemlere yatkın,",
+  "Kayıt tutmaya özen gösteren,",
+  "El ve beden becerisine sahip,",
+  "Ekip çalışmasına uygun,",
+  "Fiziksel olarak dayanıklı,",
+  "Güvenilir ve dürüst kişiler olmaları gerekir."
+ ],
+ "gorevler": [
+  "Ambara giren malın sayımını ve kontrolünü yaparak teslim alır.",
+  "Ambara giren malın ambar içindeki dağılımını yapar.",
+  "Malın teslim alacak birimlere iletilmesini sağlar.",
+  "Depo içi organizasyonu yapar.",
+  "Stoklardaki malzemelerin yeterliliğini kontrol edip malzemenin eksikliğini bildirerek malzeme talebinde bulunur.",
+  "Talep edilen malzemenin takibini yapar.",
+  "Malın teslim edilmesi aşamasında daha önceden açılan talepler doğrultusunda bilgisayara girip malzeme envanteri oluşturur.",
+  "Envanteri kontrol altında tutar.",
+  "Depo çıkışlarını, depo çıkış fişi ve iş emri formlarıyla kayıt altına alır.",
+  "Kayıtların yedeklenmesini ve saklanmasını sağlar.",
+  "Tersanenin üretim aşamasında ihtiyaç duyduğu sarf malzemelerinin talebini ve stoğunu kontrol eder ve güncel olarak tutar.",
+  "Mesleği alanındaki gelişmeleri takip eder ve uygular.",
+  "İş sağlığı ve güvenliği ile ilgili kurallara uyar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Depo ve stok yönetimi, lojistik, iş sağlığı ve güvenliği alanlarında alınacak kurs ve sertifikalarla bilgi ve beceriler geliştirilebilir. İsteyenler, açıköğretim veya örgün eğitim yoluyla lojistik yönetimi gibi ilgili ön lisans/lisans programlarına kaydolarak mesleki bilgisini ilerletebilir.",
+  "is_hayatinda": "Deneyim ve performansa bağlı olarak ambar/depo sorumluluğu, ambar ve antrepo şefliği gibi daha üst düzey görevlere yükselme olanağı bulunur. İlgili alanda eğitim tamamlayanlar, lojistik veya stok yönetimi uzmanlığı gibi görevlere geçiş yapabilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Mesleğe yönelik standart bir örgün eğitim programı bulunmadığından, bu süreçte genellikle bir kazanç söz konusu değildir. Mesleğe işbaşında başlayanlar, çalıştıkları tersanenin ücret politikasına göre çoğunlukla asgari ücret düzeyinde bir gelir elde eder.",
+  "egitim_sonrasi": [
+   "Özel sektörde (tersanelerde) çalışanlar işçi statüsünde olup ücretleri işyeriyle yapılan sözleşmeye, deneyime ve işletmenin büyüklüğüne göre değişir; işe yeni başlayanlarda ücret genellikle asgari ücret düzeyindedir, deneyim ve sorumluluk arttıkça yükselebilir.",
+   "Kamuya bağlı tersanelerde işçi statüsünde çalışanların ücreti, ilgili toplu iş sözleşmesi hükümlerine göre belirlenir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T16:19:48",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6413
+  }
+ }
+}

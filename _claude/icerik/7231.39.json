@@ -1,0 +1,84 @@
+{
+ "arac_gerec": [
+  "Yüksek voltaja dayanıklı izoleli el aletleri (tornavida, pense, anahtar takımları)",
+  "Dijital multimetre ve voltaj/akım test cihazları",
+  "Yalıtım direnci ölçüm cihazı (megohmmetre)",
+  "Batarya paketi test ve teşhis (diyagnostik) cihazları",
+  "Araç arıza tespit bilgisayarı ve ilgili yazılımlar",
+  "İzolasyonlu eldiven, önlük, gözlük ve diğer kişisel koruyucu donanımlar (KKD)",
+  "Batarya söküm-takım aparatları ve kaldırma/taşıma ekipmanları",
+  "Araç kaldırma lifti/platformu",
+  "Şarj test cihazı ve şarj istasyonu simülatörü",
+  "Termal kamera",
+  "Osiloskop",
+  "Tork anahtarı ve tork ölçüm aletleri",
+  "Lityum iyon bataryalara özel yangın söndürme ekipmanı",
+  "El feneri ve işaretleme/etiketleme malzemeleri"
+ ],
+ "genel_ozellikler": [
+  "Elektrik ve elektronik sistemlere ilgili,",
+  "Dikkatli ve tedbirli,",
+  "El ve parmaklarını ustalıkla kullanabilen,",
+  "Mekanik ve elektronik problemleri çözebilme gücüne sahip,",
+  "Sorumluluk sahibi,",
+  "Yenilikleri ve gelişen teknolojiyi takip eden,",
+  "Takım çalışmasına uyumlu,",
+  "Yüksek voltaj riskine karşı tedbirli ve kurallara titizlikle uyan"
+ ],
+ "calisma_ortami": "Batarya Elektrikli Araç Bakım ve Onarımcısı, genellikle kapalı mekanlarda; yetkili servisler, bağımsız oto tamir atölyeleri veya araç üreticilerinin bakım birimlerinde çalışır. Çalışma ortamı büyük ölçüde ayakta ve bazen eğilerek, araç altında veya içinde yapılan işlemleri içerir; ortam zaman zaman yağlı ve kirli olabilir. Yüksek voltajlı batarya sistemleriyle çalışıldığından elektrik çarpması, kısa devre ve yangın gibi riskler bulunur; bu nedenle iş sağlığı ve güvenliği kurallarına, izolasyon ve kişisel koruyucu donanım kullanımına titizlikle uyulması gerekir.\n\nÇalışma saatleri genellikle gündüz ve belirli mesai saatleri içindedir, ancak işin yoğunluğuna göre değişebilir. Meslek, servis müşterileri, diğer teknisyenler, servis şefleri ve bazen araç üreticisi teknik destek birimleriyle sürekli iletişim gerektirir.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi; mesleki ve teknik eğitim merkezlerinde ilgili elektrik-elektronik veya motorlu araçlar teknolojisi alanlarına bağlı dallarda, bazı üniversitelerin meslek yüksekokullarında elektrikli/hibrit araç teknolojileriyle ilgili ön lisans programlarında, ayrıca Halk Eğitim Merkezleri ile İŞKUR'un açtığı mesleki eğitim kurslarında verilmektedir. Mesleğe özgü standart ve yaygın bir MEB alan/dal yapısı henüz tam olarak oturmamış olup eğitim büyük ölçüde temel otomotiv/elektrik-elektronik eğitimine ek olarak işbaşında usta yanında veya üretici firmaların düzenlediği özel kurslarla tamamlanmaktadır.",
+  "giris_kosullari": [
+   "Mesleki eğitim merkezi programlarına girmek için en az ortaokul mezunu olmak ve ilgili yaş şartlarını taşımak",
+   "Meslek yüksekokulu ön lisans programlarına girmek için lise veya dengi okul mezunu olmak ve yükseköğretime giriş sınavından yeterli puanı almak",
+   "Sağlık durumunun mesleğin gerektirdiği işleri yapmaya uygun olması (gerektiğinde sağlık raporuyla belgelendirilmesi)",
+   "Elektrikli araçlarla ve yüksek voltajla çalışmaya engel bir durumunun bulunmaması"
+  ],
+  "sure_ve_icerik": "Eğitim süresi ve içeriği, izlenen yola göre değişmektedir. Mesleki eğitim merkezi yolunda eğitim, ilgili alanın genel müfredatı içinde genel kültür dersleri ile meslek derslerinden oluşur; teorik bilgilerin yanında işyerinde usta öğretici gözetiminde uygulamalı çalışma yapılır. Meslek yüksekokulu yolunda ise yaklaşık iki yıllık ön lisans eğitimi süresince elektrik-elektronik temelleri, araç bataryaları, şarj sistemleri, yüksek voltaj güvenliği ve arıza teşhis konularında teorik ve uygulamalı dersler verilir. Bunların yanında, halihazırda ilgili bir mesleki eğitimden gelen kişiler, üretici veya ithalatçı firmaların düzenlediği kısa süreli sertifikalı kurslarla da bu alanda uzmanlaşabilmektedir.",
+  "belge": "İzlenen eğitim yoluna göre mesleki eğitim merkezi diploması/ustalık belgesi, meslek yüksekokulu ön lisans diploması veya katılınan kursa ait katılım/başarı sertifikası alınır. Mesleki Yeterlilik Kurumu (MYK) tarafından düzenlenen ilgili yeterlilik belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Batarya Elektrikli Araç Bakım ve Onarımcısı; elektrikli araç üreticilerinin yetkili servislerinde, bağımsız oto tamir ve bakım servislerinde, araç ithalatçı firmaların teknik servis birimlerinde, filo yönetimi yapan şirketlerde ve elektrikli araç satış sonrası hizmet sunan işletmelerde çalışabilir. Elektrikli araç kullanımının Türkiye'de ve dünyada hızla artması, bu alanda nitelikli iş gücüne olan talebi giderek artırmaktadır. Deneyim ve sermaye birikimine sahip olanlar kendi bakım-onarım işyerlerini de açabilmektedir.",
+ "kazanc": {
+  "egitim_suresince": "Mesleki eğitim merkezi yoluyla eğitim görenler, 3308 sayılı Mesleki Eğitim Kanunu çerçevesinde işletmelerde aldıkları eğitim karşılığında asgari ücretin belirli bir oranından aşağı olmamak üzere ücret alır ve iş kazası-meslek hastalığı sigortaları devletçe karşılanır. Sertifika kurslarına katılanlar için ayrıca bir ücret söz konusu değildir.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanların kazancı genellikle asgari ücret düzeyindedir.",
+   "Deneyim, bilgi birikimi, çalışılan işletmenin büyüklüğü ve sektördeki talebe bağlı olarak kazanç artabilir.",
+   "Özel sektörde ücret işveren ile çalışan arasında karşılıklı anlaşmaya göre belirlenir; kamu kurumlarında işçi statüsünde çalışanlar için ücret, ilgili toplu iş sözleşmesi hükümlerine göre şekillenir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Kişi, mesleki eğitim sürecinde çıraklık, kalfalık ve ustalık aşamalarından geçerek ilerleyebilir. Ayrıca temel otomotiv veya elektrik-elektronik eğitiminin üzerine yüksek voltaj ve batarya teknolojilerine yönelik ek sertifikalı eğitimler ve üretici firma kursları alarak uzmanlığını artırabilir.",
+  "is_hayatinda": "İş hayatında deneyim kazandıkça usta teknisyenlik, servis şefliği, teknik ekip liderliği gibi görevlere yükselebilir; yeterli bilgi birikimi ve sermaye ile kendi bakım-onarım işletmesini kurabilir veya mesleki eğitim kurumlarında eğitmenlik yapabilir."
+ },
+ "benzer_meslekler": [
+  "Otomotiv Elektromekanikeri/Otomotiv Diagnostik (Arıza Tespit ve Giderme)",
+  "Hibrit Araç Bakım Onarımcısı",
+  "Batarya Elektrikli Araç Servis Elemanı",
+  "Motorlu Araçlar LPG Sistemleri Bakım ve Onarımcısı",
+  "Oto Klima Bakım Onarımcısı",
+  "Otomotiv Mekanikeri"
+ ],
+ "ek_bilgiler": "Elektrikli araç kullanımının yaygınlaşmasına paralel olarak bu meslekte nitelikli eleman ihtiyacı hızla büyümektedir. Yüksek voltajlı bataryalarla çalışılması nedeniyle iş sağlığı ve güvenliği kurallarına, özellikle izolasyon ve kişisel koruyucu donanım kullanımına uyulması büyük önem taşır. Mesleğin standart bir eğitim müfredatı henüz tüm kurumlarda yerleşmediğinden, ilgilenenlerin güncel eğitim olanaklarını ve üretici firmaların açtığı sertifika programlarını takip etmeleri önerilir.",
+ "gorevler": [
+  "İş sağlığı ve güvenliği, yangın ve acil durum kurallarını uygular.",
+  "Çevre koruma mevzuatına uygun çalışır.",
+  "Kalite yönetim sistemi dokümanlarına uygun çalışır.",
+  "Çalışma esaslarını ve çalışma yerini düzenler.",
+  "Bakım onarım için alet ve donanımların koruyucu talimatlı bakımlarını sağlar.",
+  "Hazırlık işlemlerini gerçekleştirir.",
+  "Periyodik bakım yapar.",
+  "Arıza tespiti ve onarım yapar.",
+  "Seçimli cihaz ve aksesuarların montajını yapar.",
+  "Yol testi yapar.",
+  "Son kontrol ve raporlama işlemlerini gerçekleştirir.",
+  "Mesleki gelişim faaliyetlerine katılır ve faaliyetleri yürütür."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T02:29:43",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6358
+  }
+ }
+}

@@ -1,0 +1,82 @@
+{
+ "arac_gerec": [
+  "Bilgisayar ve çağrı merkezi yazılımları",
+  "Kulaklıklı mikrofon (headset)",
+  "Telefon santral/çağrı yönlendirme sistemi",
+  "Vaka kayıt ve bilgi giriş modülü",
+  "Konum/harita sorgulama (coğrafi bilgi) sistemi",
+  "Konferans görüşme sistemi",
+  "Ses/çağrı kayıt cihazı",
+  "Kurum içi haberleşme (intercom/telsiz) sistemi",
+  "Bilgisayar ağı ve sunucu altyapısı",
+  "Kırtasiye malzemeleri"
+ ],
+ "genel_ozellikler": [
+  "Stresli ve kriz anlarında sakin kalabilen,",
+  "Hızlı ve doğru karar verebilen,",
+  "Diksiyonu düzgün ve sözel iletişimi kuvvetli,",
+  "Dikkatli, sabırlı ve dinleme becerisi gelişmiş,",
+  "Sorumluluk sahibi ve güvenilir,",
+  "Empati kurabilen,",
+  "Aynı anda birden fazla işe odaklanabilen,",
+  "Vardiyalı ve düzensiz çalışma saatlerine uyumlu,"
+ ],
+ "calisma_ortami": "112 Acil Çağrı Merkezleri'nde, kapalı mekânda, bilgisayar ve telefon başında görev yapılır. Çalışma düzeni genellikle vardiyalı olup merkez 24 saat kesintisiz hizmet verdiğinden gece, gündüz, hafta sonu ve resmî tatillerde de çalışılabilir. Çağrı karşılama personeli görevi sırasında çağrı yönlendiricileri, grup sorumluları, çağrı merkezi müdürü ve ilgili kurumların (sağlık, polis, itfaiye, jandarma vb.) yetkilileriyle sürekli iletişim ve koordinasyon içindedir.\n\nİş, çoğunlukla acil ve kriz niteliğindeki çağrıların hızlı ve doğru şekilde değerlendirilmesini gerektirdiğinden yoğun ve stresli olabilir; bu nedenle duygusal ve psikolojik dayanıklılık önem taşır. Çalışma mekânları genellikle iyi aydınlatılmış, gürültüsü kontrol altında tutulan ve teknik altyapısı güçlü, kontrollü ortamlardır.",
+ "calisma_alanlari": "Çağrı Karşılama Personeli temel olarak ülke genelinde il düzeyinde kurulan 112 Acil Çağrı Merkezleri'nde istihdam edilir. Bu merkezler kamu kurumları (Sağlık Bakanlığı'na bağlı birimler ve ilgili valilik koordinasyon merkezleri) bünyesinde faaliyet gösterir. Acil çağrı hizmetlerinin tek numarada toplanması uygulaması nedeniyle bu merkezler ülkenin tamamında kurulu olduğundan istihdam alanı coğrafi olarak genişlemiş durumdadır. İşe giriş, ilgili kurumların açtığı personel alım süreçleri (sınav, mülakat vb.) yoluyla gerçekleşir.",
+ "gorevler": [
+  "Konsollarına düşen her türlü aramayı cevaplandırır.",
+  "Görevlendirildiği konsolda çağrıyı karşılayarak, konsollarında yaşanacak donanım ve yazılımla ilgili her türlü sorunu ivedilikle mesai saati içinde bilgi işlem bürosuna, mesai saati dışında nöbetçi teknik personele bildirir.",
+  "Çağrıyı sadece \"Acil Çağrı Merkezi\" ifadesiyle cevaplandırır.",
+  "Çağrının, çağrı merkezinin işletme kurallarına uygun bir çağrı olup olmadığını tespit eder.",
+  "Acil çağrı ise vaka kaydı oluşturur; acil çağrı değilse vaka kaydı oluşturmadan çağrıyı uygun ve hızlı bir şekilde sonlandırır; bilgi ve danışma amaçlı aramalarda çağrı yapanı konunun çağrı merkeziyle ilgili olmadığı hususunda bilgilendirerek usulüne uygun şekilde ilgili kuruma vaka kaydı oluşturmadan yönlendirir; asılsız ihbar olarak değerlendirdiği çağrıyı bildirir.",
+  "Vaka kaydı oluşturulan kayıt için vaka bilgi giriş modülünde derhal konum sorgusu yapar; adresin tespit edilememesi halinde adresi ve çağrının hangi kurum veya kurumlara aktarılması gerektiğini anlayacak düzeyde olayı öğrenir ve ilgili kurum yetkilisine veya yetkililerine çağrıyı aktarır.",
+  "Acil çağrı yapan kişinin numarasının görünmemesi halinde, çağrıyı çağrı yönlendiricilere aktarmadan önce mutlaka arayanın numarasını ve iletişim kurulabilecek başka telefon numarası olup olmadığını sorgular.",
+  "Çağrı kendisine atandıktan sonra sistemden veya arayandan kaynaklanan bir hata nedeniyle konuşmanın kesilmesi halinde derhal arayan kişiye geri dönüş yapar.",
+  "Yaptığı görüşme esnasında vaka ile ilgili olarak çağrı yönlendiricinin bilgisine ihtiyaç duyduğu takdirde, listeden ilgili çağrı yönlendiriciyi seçerek çağrıya dahil edip konferans görüşme yaptırır.",
+  "Vardiya değişiminde çağrı merkezi müdürü tarafından belirlenen bir sonraki vardiyada eş görevlisi gelinceye kadar görevini sürdürür.",
+  "Adli soruşturma gerektirecek, haber değeri olan olağandışı durumlarda veya birkaç kurumun organize olarak müdahale ettiği veya edeceği vakaları çağrı merkezi müdürüne iletilmek üzere grup sorumlusuna bildirir.",
+  "Görevi nedeniyle kendisine teslim edilen taşınırları, kurumdaki görevlendirmesi sona erdiğinde aynı gün içinde müdürlüğe teslim eder.",
+  "Çağrı merkezi müdürü tarafından verilen benzeri diğer iş ve işlemleri yapar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Mesleğe özgü, örgün bir \"Çağrı Karşılama Personeli\" ön lisans veya lisans programı bulunmamaktadır. Mesleğe giriş genellikle lise ve dengi okul mezuniyeti sonrasında ilgili kamu kurumunun (112 Acil Çağrı Merkezi/Sağlık Bakanlığı'na bağlı birimler) açtığı personel alım süreciyle gerçekleşir; göreve başlayanlar kurum tarafından düzenlenen hizmet içi eğitim ve sertifika programlarıyla mesleğe hazırlanır.",
+  "giris_kosullari": [
+   "En az ortaöğretim (lise ve dengi okul) mezunu olmak",
+   "İlgili kurumun açtığı personel alım sınavı/başvuru şartlarını karşılamak",
+   "Diksiyonu düzgün ve iletişim becerileri gelişmiş olmak",
+   "Temel düzeyde bilgisayar kullanabilmek",
+   "Gerekli görülmesi halinde ilgili kamu personeli seçme sınavına (örn. KPSS) girmiş olmak"
+  ],
+  "sure_ve_icerik": "Göreve atanmadan önce ve/veya göreve başladıktan sonra kurum tarafından hizmet içi eğitim verilir. Bu eğitimlerde acil çağrı yönetimi, vaka kayıt ve bilgi giriş sistemlerinin kullanımı, etkili iletişim ve ikna teknikleri, stres ve kriz yönetimi, kurumlar arası koordinasyon ve ilgili mevzuat konuları işlenir. Eğitimin süresi kurumdan kuruma ve düzenlenen programa göre değişebildiğinden kesin bir süre belirtilmemektedir.",
+  "belge": "Eğitimi tamamlayanlara kurum tarafından katılım veya başarı belgesi verilebilir; ayrıca ilgili kurumda göreve atanma ile kamu personeli statüsü kazanılır."
+ },
+ "kazanc": {
+  "egitim_suresince": "Mesleğe giriş örgün bir eğitim programına dayanmadığından, adaylar genellikle doğrudan kurumun açtığı personel alım süreci sonunda işe başlar; göreve başlangıçta verilen hizmet içi eğitim dönemi ücretli çalışma kapsamında değerlendirilir, ayrıca bir öğrenci geliri söz konusu değildir.",
+  "egitim_sonrasi": [
+   "Kamu kurumunda memur statüsünde çalışanlar 657 sayılı Devlet Memurları Kanunu hükümlerine göre ücret alır.",
+   "İşçi statüsünde istihdam edilenlerin ücreti ilgili toplu iş sözleşmesi hükümlerine göre belirlenir.",
+   "Kazanç düzeyi kıdem, unvan ve kurumun yaptığı ek ödemelere göre değişebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğe özgü örgün bir ilerleme basamağı bulunmamaktadır. Çalışanlar kurum içi hizmet içi eğitimler ve kurslarla bilgi ve becerilerini geliştirebilir; isteyenler açık öğretim veya örgün eğitim yoluyla ilgili alanlarda (acil durum yönetimi, halkla ilişkiler, iletişim vb.) lisans eğitimi tamamlayabilir.",
+  "is_hayatinda": "Deneyim ve kıdeme bağlı olarak çağrı yönlendirici, grup sorumlusu, vardiya amiri gibi görevlere; gerekli nitelik ve idari başarı şartlarını sağlayanlar çağrı merkezi müdürlüğü gibi üst düzey yönetim görevlerine yükselebilir."
+ },
+ "benzer_meslekler": [
+  "Çağrı Merkezi Müşteri Temsilcisi",
+  "Çağrı Merkezi Elemanı",
+  "Diğer Haberleşme ve Kayıt Memurları",
+  "Danışma Memuru",
+  "Telefon Santral Operatörü"
+ ],
+ "ek_bilgiler": "112 Acil Çağrı Merkezleri ülke genelinde il bazında kurulmuş olup bu merkezlerde çalışanlar genellikle kamu personeli statüsündedir. Görev, acil durumlarla sık karşılaşma ve kesintisiz hizmet gerekliliği nedeniyle vardiyalı (gece-gündüz) çalışma esasına dayanır; bu nedenle stres yönetimi ve psikolojik dayanıklılık mesleğin önemli bir gerekliliğidir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T15:56:23",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 7864
+  }
+ }
+}

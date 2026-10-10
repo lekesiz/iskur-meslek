@@ -1,0 +1,80 @@
+{
+ "gorevler": [
+  "İş organizasyonu yapar",
+  "İmal edilecek şapkaların ölçülerine göre kullanacağı kalıpları seçer",
+  "Seçtiği kalıplardan faydalanarak kumaş ve astarları biçer, kartonlar keser",
+  "Biçilen kumaş ve astar parçaları içine kesilen kartonları yerleştirerek teyeller ve diker",
+  "Dikimden çıkan şapkaların bantları üzerine istenilen şekil ve kokartları takar",
+  "Hazır olan şapkaları kalıplara yerleştirir",
+  "Şapkaların tamirini yapar ve gerekli tadilatları gerçekleştirir",
+  "Kullandığı araç ve gerecin basit bakım ve onarımını yapar",
+  "Mesleki gelişim faaliyetlerinde bulunur"
+ ],
+ "arac_gerec": [
+  "Kumaş ve astarlık malzeme",
+  "Karton ve mukavva",
+  "Şapka kalıpları (ahşap/metal/plastik)",
+  "Dikiş makinesi",
+  "Overlok makinesi",
+  "Ütü ve ütü masası",
+  "Biçki/kesim masası",
+  "Makas",
+  "Mezura, gönye, cetvel",
+  "Toplu iğne ve dikiş iğnesi",
+  "Teyel ipliği ve dikiş ipliği",
+  "Kokart, rütbe işareti ve bant gibi süsleme malzemeleri",
+  "Yapıştırıcı",
+  "Prova aynası"
+ ],
+ "genel_ozellikler": [
+  "El becerisine sahip,",
+  "Şekil ve uzay ilişkilerini görebilen,",
+  "Dikkatli ve titiz,",
+  "Sabırlı ve düzenli çalışabilen,",
+  "El ve gözünü eşgüdüm hâlinde kullanabilen,",
+  "Ölçü ve orantı kavramına yatkın,",
+  "Estetik görüşe sahip,",
+  "Bir bütünün parçaları arasındaki ilişkiyi kurabilen"
+ ],
+ "calisma_ortami": "Şapkacı genellikle küçük atölye veya imalathane ortamında, kapalı mekânda çalışır. İşini çoğunlukla oturarak, bazen ayakta yürütür; dikiş makinesi ve ütü kullanımı sırasında belirli ölçüde gürültü ve sıcaklık söz konusu olabilir, kumaş ve karton tozuna maruz kalabilir. Çalışma saatleri genellikle gündüz ve iş yoğunluğuna bağlı olarak değişebilir.\n\nMeslek, askeri personel, zabıta kuvvetleri ve öğrenciler için standartlara uygun şapka ürettiğinden, işveren kurum ve kuruluşların (okullar, kamu kurumları, üniforma tedarikçileri) belirlediği ölçü ve örneklere bağlı kalınarak çalışılır. Şapkacı; işyerindeki ustalar, kalfalar, yardımcılar ve sipariş veren kurum yetkilileriyle iş birliği içinde çalışır.",
+ "egitim": {
+  "verildigi_yerler": "Şapkacılık mesleğine özgü ayrı bir örgün mesleki eğitim alanı/dalı bulunmamaktadır. Meslek, genellikle şapka imalathanelerinde usta-çırak ilişkisi içinde, işbaşında uygulamalı olarak öğrenilmektedir. Tekstil ve giyim ile ilgili mesleki eğitim merkezleri ile mesleki ve teknik ortaöğretim kurumlarının giyim/moda tasarım alanlarında edinilen temel dikiş-kalıp bilgisi, bu mesleğe geçişte yararlı olabilir. Halk Eğitim Merkezleri ve çeşitli kurumlarca açılan kurslarda da şapka yapımına yönelik beceri kazandırılabilmektedir.",
+  "giris_kosullari": [
+   "Çıraklık yoluyla eğitime başlamak isteyenlerin ortaokul mezunu ve 14 yaşını doldurmuş olması gerekir",
+   "Eğitim görülecek meslekte bir işyeri bulunması ve işveren ile çıraklık sözleşmesi imzalanması gerekir",
+   "Sağlık durumunun mesleğin gerektirdiği el becerisi ve uzun süreli oturarak çalışmaya uygun olması gerekir"
+  ],
+  "sure_ve_icerik": "Eğitim, resmî olarak tanımlanmış standart bir süre ve müfredata sahip değildir. Usta yanında işbaşı eğitimi yoluyla kalıp çıkarma, kumaş-astar biçme, teyelleme, dikim, kokart ve bant takma, kalıba oturtma ile tamir-tadilat işlemleri aşamalı olarak öğretilir. Konuyla ilgili mesleki eğitim merkezi veya kursa devam edilmesi hâlinde bu kurumların kendi programlarına göre bir süre ve içerik uygulanır.",
+  "belge": "İşyerinde usta yanında yetişenlere herhangi bir resmî belge verilmeyebilir; mesleki eğitim merkezi kanalıyla çıraklık eğitimi tamamlanırsa kalfalık, ardından ustalık belgesi alınabilir. Kurslara katılım durumunda kursu düzenleyen kurumca kurs bitirme/katılım belgesi verilir."
+ },
+ "calisma_alanlari": "Şapkacılar; şapka ve kep imalathanelerinde, üniforma ve kurumsal giyim üreten atölye ve işletmelerde, askeri teçhizat ile resmî kıyafet üreten firmalarda, okul kıyafeti ve aksesuarı üreten işletmelerde çalışabilir; deneyim kazandıktan sonra kendi atölyelerini de açabilirler.\n\nGünümüzde hazır giyim sanayisinin ve seri üretimin yaygınlaşması nedeniyle ısmarlama şapka üretimi sınırlı bir alan hâline gelmiş; meslek daha çok askeri, resmî kurum ve okul siparişleri ile sahne/kostüm ihtiyaçları çerçevesinde sürdürülmektedir. Bu nedenle iş bulma olanakları, ülke genelinde şapka talebine ve üretim yapan işletme sayısına bağlı olarak sınırlı olabilir.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğin eğitimi çıraklık yoluyla bir işyerinde sürdürülüyorsa, 3308 sayılı Mesleki Eğitim Kanunu kapsamında çırağa/öğrenciye asgari ücretin belirli bir oranından az olmamak üzere ücret ödenir ve iş kazası-meslek hastalığı sigortası devletçe karşılanır. Usta yanında işbaşında yetişenlerde kazanç, işveren ile yapılan anlaşmaya göre değişir.",
+  "egitim_sonrasi": [
+   "Özel sektörde çalışan şapkacıların ücreti; deneyim, işyerinin büyüklüğü ve yapılan iş anlaşmasına göre değişmekte, yeni başlayanlarda genellikle asgari ücret düzeyinde seyretmektedir.",
+   "Ücretlendirme işyerine göre aylık maaş, parça başı veya prim sistemi şeklinde olabilir.",
+   "Kendi atölyesini açan ve kurumsal müşteri çevresi oluşturan şapkacılar daha yüksek gelir elde edebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Çıraklık eğitimini tamamlayarak kalfalık ve ustalık belgesi alanlar, isterlerse giyim/tekstil ve moda tasarımı ile ilgili mesleki ve teknik ortaöğretim veya yükseköğretim programlarına yönelerek eğitimlerini ileri seviyeye taşıyabilirler.",
+  "is_hayatinda": "Deneyim kazandıkça kalfalıktan ustalığa yükselinebilir; usta olanlar işyerinde atölye sorumluluğu üstlenebilir, usta öğretici olarak çırak yetiştirebilir veya kendi işyerini/atölyesini açarak bağımsız çalışabilir."
+ },
+ "benzer_meslekler": [
+  "Diğer Şapka İmalat İşçileri",
+  "Kadın Şapkası İmalat İşçisi",
+  "Şapkacı (Sahne ve Stüdyo)",
+  "Patron Hazırlayıcı-Şapka ve Kep",
+  "Kürk Terzisi",
+  "Terzi"
+ ],
+ "ek_bilgiler": "Şapkacılık, günümüzde yaygın bir örgün mesleki eğitim dalı olarak tanımlanmamış, dar bir uzmanlık alanıdır. Meslek daha çok askeri, zabıta ve öğrenci şapkalarının standartlarına uygun imalatı üzerine odaklanır; bu nedenle ilgili kurumların belirlediği teknik şartnamelere ve ölçülere hâkim olmak önem taşır. Mesleki Yeterlilik Kurumu (MYK) belgesi, iş bulma ve istihdamda tercih sebebi olabilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T08:22:20",
+  "usage": {
+   "input_tokens": 4,
+   "output_tokens": 9285
+  }
+ }
+}

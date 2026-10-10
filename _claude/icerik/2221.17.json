@@ -1,0 +1,88 @@
+{
+ "arac_gerec": [
+  "Tansiyon aleti",
+  "Ateş ölçer (derece)",
+  "EKG cihazı",
+  "Hasta başı monitörü",
+  "Oksijen tüpü ve maskesi",
+  "Enjektör, serum seti ve sonda",
+  "Pansuman malzemeleri ve steril gereçler",
+  "Steril eldiven ve koruyucu ekipman",
+  "Aspiratör",
+  "Muayene masası/sedye",
+  "Acil müdahale (resüsitasyon) çantası",
+  "İlaç ve malzeme dolapları",
+  "Hasta takip ve kayıt bilgisayar sistemi"
+ ],
+ "benzer_meslekler": [
+  "Hemşire",
+  "Diğer Hemşireler",
+  "Sorumlu Hemşire",
+  "Acil Servis Hemşiresi",
+  "Hemşire-Klinik",
+  "Enfeksiyon Kontrol Hemşiresi"
+ ],
+ "calisma_alanlari": "Poliklinik hemşireleri başta kamu ve özel hastanelerin poliklinik servisleri olmak üzere, üniversite hastaneleri, tıp merkezleri ve bazı büyük sağlık kuruluşlarının muayene birimlerinde görev alırlar.\n\nSağlık sektöründeki nitelikli personel ihtiyacı sürekli olduğundan ve nüfusun sağlık hizmeti talebi arttığından, lisans eğitimini tamamlamış hemşirelerin iş bulma olanağı genel olarak yüksektir. Kamuda Sağlık Bakanlığına bağlı kurumlarda, özel sektörde ise özel hastane ve tıp merkezlerinde istihdam edilebilirler.",
+ "calisma_ortami": "Poliklinik hemşireleri, hastanelerin poliklinik bölümlerinde, genellikle kapalı, aydınlık ve hijyenik koşullarda çalışırlar. Çalışma süresince ayakta kalma, sürekli hareket ve yoğun hasta trafiğiyle baş etme söz konusudur; enfeksiyon riskine karşı önlem alınması gerekir. 24 saat hizmet veren polikliniklerde nöbet veya vardiyalı çalışma düzeni uygulanabilir.\n\nGörev sırasında hastalar, hasta yakınları, hekimler ve diğer sağlık personeli ile sürekli iletişim kurulur. Acil durumlarla hızlı ve doğru müdahale gerektiren anlar yaşanabileceğinden, soğukkanlılık ve dikkat önem taşır.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi, üniversitelere bağlı hemşirelik fakülteleri, hemşirelik yüksekokulları veya sağlık bilimleri fakültelerinin hemşirelik bölümlerinde lisans düzeyinde verilmektedir.",
+  "giris_kosullari": [
+   "Lise veya dengi okul mezunu olmak",
+   "YKS (Yükseköğretim Kurumları Sınavı) sonucuna göre ilgili puan türünden yeterli puan almak ve hemşirelik bölümünü tercih etmek",
+   "Sağlıkla ilgili meslek yüksekokulu veya ön lisans programlarından mezun olanlar, Dikey Geçiş Sınavı (DGS) ile hemşirelik lisans programına geçiş yapabilir"
+  ],
+  "sure_ve_icerik": "Eğitim süresi 4 yıldır. Eğitim, teorik derslerin yanı sıra hastane ortamında yapılan klinik uygulama ve stajları kapsar. Öğrenciler; insan anatomisi ve fizyolojisi, mikrobiyoloji, hijyen ve enfeksiyon önleme ilkeleri, ilaç bilgisi ve ilaç uygulama esasları, hasta bakımı ilke ve teknikleri, acil durum ve ilk yardım uygulamaları, iletişim ve hasta eğitimi konularında bilgi ve beceri kazanırlar.",
+  "belge": "Eğitimini başarıyla tamamlayanlara hemşirelik lisans diploması verilir. Bu diploma, Türkiye'de hemşirelik mesleğinin yasal olarak uygulanabilmesi için gerekli yetkinin edinilmesini sağlar."
+ },
+ "ek_bilgiler": "Hemşirelik mesleğinin uygulanma esasları Türkiye'de ilgili yasal düzenlemelerle belirlenmiştir; mesleği uygulayabilmek için hemşirelik lisans diplomasına sahip olmak gerekir. Poliklinik hemşireliği, hastanelerin poliklinik servislerine özgü bir uzmanlaşma alanı olup, ilgili konularda (enfeksiyon kontrolü, acil bakım vb.) alınan ek sertifika ve eğitimler istihdamda tercih sebebi olabilir.",
+ "genel_ozellikler": [
+  "Biyoloji ve sağlık bilimlerine ilgili ve bu alanda başarılı,",
+  "İnsanlarla iletişimi güçlü, hoşgörülü ve empatik,",
+  "Sorumluluk duygusu yüksek,",
+  "Dikkatli, tedbirli ve tertipli,",
+  "Hızlı ve doğru karar verebilen,",
+  "Stresli ortamlarda soğukkanlı kalabilen,",
+  "Takım çalışmasına uygun,",
+  "Fiziksel ve zihinsel olarak dayanıklı"
+ ],
+ "gorevler": [
+  "Poliklinik muayenesi için gelen hastaya kendini tanıtır, muayene odasına alarak muayeneye hazırlar.",
+  "Uygulama anında ve sonrasında hastayı gözlemler.",
+  "Tanı ve tedavi amaçlı girişimler için hastayı hazırlar.",
+  "Hastayı tanı ve tedavisi doğrultusunda gerekli birimlere yönlendirir.",
+  "Hemşirelik uygulamalarının her aşamasını zamanında ve eksiksiz olarak kaydeder.",
+  "Hemşirelik uygulamaları için gerekli malzemelerin yeterli ve çalışır durumda olduğunu kontrol eder.",
+  "Enfeksiyon ve kazalara karşı güvenli bir çevre sağlar.",
+  "İlaçların etki ve yan etkilerini izler ve kaydeder.",
+  "İlaçları güvenli bir şekilde temin eder, uygun koşullarda güvenli ve düzenli bir şekilde korunmasını sağlar, son kullanma tarihlerini kontrol eder.",
+  "Narkotik ilaçların kullanımını kontrol altına alır, bunlara ilişkin talimatlara uyar.",
+  "Hemşirelik bakımında gerekli olan tekniklere (asepsi, sterilizasyon, izolasyon vb.) uyar ve uyulmasını sağlar.",
+  "Hasta ve ailesine hastalığına ilişkin ve genel sağlık konularında eğitim ve danışmanlık yapar.",
+  "Acil durumları saptayarak hastanenin politikalarına uygun şekilde girişimlerde bulunur ve kayıt eder; acil malzemelerin daima kullanıma hazır tutulmasını sağlar.",
+  "24 saat hizmet verilen polikliniklerde devam eden muayene ve işlemler hakkında, nöbeti teslim alan hemşireyi yazılı ve sözlü olarak bilgilendirir.",
+  "Tüm uygulamalarını etik kurallar doğrultusunda yapar.",
+  "Hemşirelik hizmetleri konularında araştırma yapar.",
+  "Mesleki ilerleme ve gelişimi için seminer ve toplantılara katılır.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Lisans eğitimini tamamlayan hemşireler, ilgili alanlarda yüksek lisans ve doktora programlarına devam ederek akademik kariyer yapabilir veya enfeksiyon kontrolü, acil bakım, yoğun bakım gibi konularda açılan sertifika programlarına katılarak uzmanlaşabilirler.",
+  "is_hayatinda": "Deneyim kazanan poliklinik hemşireleri, sorumlu hemşire, servis sorumlusu ve zamanla başhemşire gibi yönetim pozisyonlarına yükselebilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Lisans eğitimi süresince öğrenciler, Kredi ve Yurtlar Kurumunun öğrenim kredisi ve yurt hizmetlerinden yararlanabilir; bazı üniversite ve kurumların burs olanaklarından faydalanabilirler.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında 657 sayılı Devlet Memurları Kanunu'na göre maaş ve ek ödemeler alınır.",
+   "Kamuda işçi statüsünde çalışanlarda ücret, ilgili toplu iş sözleşmesi hükümlerine göre belirlenir.",
+   "Özel sektörde ücret; kurumun büyüklüğüne, deneyime ve karşılıklı anlaşmaya göre değişir; yeni başlayanlarda genellikle asgari ücret düzeyinde olabilir, deneyim ve uzmanlıkla birlikte artış gösterir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-07T23:08:24",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5567
+  }
+ }
+}

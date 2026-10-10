@@ -1,0 +1,74 @@
+{
+ "arac_gerec": [
+  "Taş planya makinesi",
+  "Değiştirilebilir kesme/planya bıçakları",
+  "Bıçak yatağı ve tutucu aparatlar",
+  "Çekiç ve keski",
+  "Eğe",
+  "Ölçüm ve markalama aletleri (metre, mastar, çizim/işaretleme kalemi)",
+  "Bileme taşı ve bileme aletleri",
+  "Kaldırma ve taşıma ekipmanları (vinç, forklift, transpalet)",
+  "Soğutma ve yağlama sıvısı sistemleri",
+  "Kişisel koruyucu donanım (gözlük, eldiven, kulaklık, toz maskesi, iş ayakkabısı, iş elbisesi)"
+ ],
+ "genel_ozellikler": [
+  "El ve beden becerisine sahip,",
+  "Dikkatli ve sabırlı,",
+  "Fiziksel olarak güçlü ve dayanıklı,",
+  "Görsel-mekansal algısı ve ölçü duygusu gelişmiş,",
+  "Makine ve el aletlerini kullanmaya istekli,",
+  "Ekip çalışmasına uyumlu,",
+  "İş güvenliği kurallarına duyarlı,"
+ ],
+ "calisma_ortami": "Taş planya makinesi operatörü, mermer ve doğal taş işleme atölye ve fabrikalarında, genellikle kapalı mekânlarda çalışır. Çalışma ortamı gürültülü, tozlu ve su kullanımı nedeniyle nemli olabilir. Ağır blok ve plaka halindeki taşların taşınması, yerleştirilmesi ve işlenmesi sırasında fiziksel güç gerekir; bu nedenle kaldırma ve taşıma ekipmanlarından yararlanılır. Kesici bıçaklar ve el aletleriyle çalışıldığından kesik, sıkışma ve yaralanma riskleri bulunur; bu riskleri azaltmak için kişisel koruyucu donanım kullanımı önemlidir.\n\nÇalışma genellikle ayakta ve bazen eğilerek yürütülür. İşletmenin üretim hacmine göre vardiyalı çalışma söz konusu olabilir. Taş planya operatörü; taş ocağı ve işleme hattında görevli diğer işçiler, makine bakım personeli, kalite kontrol elemanları ve ustabaşı ile iş birliği içinde çalışır.",
+ "gorevler": [
+  "Blok veya plaka halindeki taşın planya tablasına konulmasını idare eder,",
+  "Kesme bıçağını seçer ve taşın üstüne gelen bıçak yatağına takar,",
+  "Taş üzerinde kesilecek yerleri boyutlarıyla markalar,",
+  "Taş yüzünde fazla görünen çıkıntıları çekiç ve keskiyle kabaca yontarak düzeltir,",
+  "Planya tablasını ve taşı keski bıçağı altında yürütmek üzere makineyi çalıştırır ve bıçak yatağını kesilecek derinliğe göre ayarlar,",
+  "Blok veya plaka istenilen boyutlarda kesilinceye kadar planya işlemine devam eder ve taşın tabladan kaldırılmasını sağlar,",
+  "Taşın kenarlarını eğeyle düzeltir,",
+  "Aletlerin kesici ağızlarını bileyip düzeltir,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Mesleğin örgün bir diploma programı bulunmamaktadır. Meslek genellikle Halk Eğitim Merkezleri ve İŞKUR tarafından açılan mesleki eğitim kurslarında ya da işletmelerde işbaşında usta yanında yetişilerek kazanılır.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak.",
+   "Fiziksel olarak ağır işlerde çalışmaya uygun olmak."
+  ],
+  "sure_ve_icerik": "Kursların süresi düzenleyen kuruma göre değişmekle birlikte genellikle birkaç hafta ile birkaç ay arasında sürer. Eğitim içeriğinde taş ve mermer tanıma, planya makinesinin kullanımı, kesme bıçağı seçimi ve montajı, markalama ve ölçülendirme, taş şekillendirme teknikleri ile iş sağlığı ve güvenliği konuları yer alır. İşbaşında usta yanında uygulamalı eğitim süreci devam eder.",
+  "belge": "Kurs bitirme belgesi veya katılım belgesi verilmektedir."
+ },
+ "calisma_alanlari": "Taş planya makinesi operatörleri; mermer ve doğal taş işleme fabrikaları ve atölyelerinde, taş ocaklarına bağlı işleme tesislerinde, inşaat malzemesi üreten işletmelerde iş bulabilirler. Sektörün iş hacmi, inşaat ve doğal taş ihracatındaki talebe bağlı olarak değişkenlik gösterebilir.",
+ "kazanc": {
+  "egitim_suresince": "Kurs eğitimi süresince genellikle bir ücret söz konusu değildir. İşletmede usta yanında yetişme sürecinde ise işletmenin uygulamasına göre asgari ücret düzeyinde bir ödeme yapılabilir.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Deneyim, beceri ve çalışılan işletmenin büyüklüğüne göre kazanç artabilir.",
+   "Kamu kurumlarına bağlı tesislerde işçi statüsünde çalışanların ücretleri toplu iş sözleşmesi hükümlerine göre belirlenir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Bu meslekte belirlenmiş örgün bir ilerleme basamağı bulunmamaktadır. Deneyim kazandıkça taş kesme, cilalama ve CNC ile çalışan diğer taş işleme makinelerinde de görev alınabilir.",
+  "is_hayatinda": "Deneyim ve beceri kazanan operatörler usta, ekip şefi veya atölye sorumlusu olarak görev alabilir; yeterli birikime sahip olanlar kendi işyerlerini açabilir."
+ },
+ "benzer_meslekler": [
+  "Taş Perdah İşçisi (Makine İle)",
+  "Katrak Makinesi Operatörü (Mermer)",
+  "Mermer Torna Makinesi Operatörü",
+  "CNC Mermer İşleme Makinesi Operatörü",
+  "Mermerit Döküm İşçisi",
+  "Mermer Silim İşçisi"
+ ],
+ "ek_bilgiler": "Mesleki Yeterlilik Kurumu (MYK) belgesi, bazı işletmelerde istihdamda tercih sebebi olabilir. Mesleğin icrası sırasında ağır blok ve plaka taşlarla çalışıldığından fiziksel kondisyon ve iş güvenliği kurallarına uyum önem taşır.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T10:24:04",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5331
+  }
+ }
+}

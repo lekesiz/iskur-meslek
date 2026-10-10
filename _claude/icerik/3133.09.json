@@ -1,0 +1,73 @@
+{
+ "arac_gerec": [
+  "Ölçüm cihazları (termometre, manometre, debimetre, pH metre, yoğunluk ölçer)",
+  "Numune alma ekipmanları (numune kapları, şişeler, numune alma tüpleri/sondaları)",
+  "Tartı ve hacim ölçüm aletleri",
+  "Vanalar, borular, hortumlar ve bağlantı ekipmanları",
+  "Taşıma araçları (forklift, el arabası, konveyör bantları, vinç)",
+  "Pompalar ve kompresörler",
+  "Depolama tankları, konteynerler ve varil/bidonlar",
+  "Etiketleme ve işaretleme malzemeleri",
+  "Basınçlı kaplar ve ilgili güvenlik donanımları",
+  "Kişisel koruyucu donanım (eldiven, koruyucu gözlük, maske, tulum, çizme)",
+  "Atık toplama ve depolama ekipmanları",
+  "Temel el aletleri"
+ ],
+ "benzer_meslekler": [
+  "Kimyasal İşleme Tesisi Kontrolörü",
+  "Kimya Proses Teknisyeni",
+  "Kimyasal İşlem Teknisyeni",
+  "Kimyasal Filtreleme ve Ayırma Teçhizatı Operatörü",
+  "Kimyasal Damıtma ve Reaktörü Operatörü",
+  "Tehlikeli Atık Temizleme Operatörü (Tank/Tanker)"
+ ],
+ "calisma_alanlari": "Kimya Proses Elemanları; kimya, petrokimya, rafineri, gübre, boya, deterjan, kozmetik, plastik, lastik, tekstil, ilaç, gıda, çimento, cam ve metal sanayi gibi kimyasal madde üreten veya kullanan her türlü işletmenin üretim ve proses birimlerinde çalışabilirler. Ayrıca atık yönetimi ve depolama faaliyeti yürüten işletmelerde de görev alabilirler. Kimyasal madde kullanan sanayi işletmelerinin yaygınlığı nedeniyle iş bulma imkânları genel olarak mevcuttur, ancak işe alımlarda deneyim ve iş güvenliği bilgisi tercih sebebi olabilmektedir.",
+ "calisma_ortami": "Kimya Proses Elemanları, genellikle fabrika ve üretim tesislerinin saha ve proses alanlarında, kapalı veya kısmen açık mekânlarda çalışır. Çalışma ortamında kimyasal maddelerin kokusu, sıcaklık ve nem farklılıkları, gürültü ve bazı durumlarda tozlanma görülebilir; bu nedenle kişisel koruyucu donanım kullanımı önemlidir. Dikkatsiz çalışma ciltte, gözde veya solunum yollarında tahrişe, kimyasal madde yanıklarına ya da kazalara yol açabileceğinden iş güvenliği kurallarına uyulması gerekir.\n\nÇalışma genellikle vardiyalı sistemle, ekip halinde yürütülür; proses teknisyenleri, mühendisler, nezaretçiler ve diğer üretim personeli ile sürekli iletişim gerektirir. Görev sırasında ayakta durma, taşıma ve numune alma işlemleri nedeniyle fiziksel hareketlilik söz konusudur.",
+ "egitim": {
+  "verildigi_yerler": "Kimya Proses Elemanı olmak için mesleğe özgü, örgün ortaöğretim alan/dalı bulunmamaktadır; mesleğin gerektirdiği minimum eğitim düzeyi ortaöğretim (lise ve dengi) mezuniyetidir. Mesleğe ilişkin bilgi ve beceriler genellikle işyerlerinde işbaşında usta-çırak ilişkisi içinde veya Halk Eğitim Merkezleri ile İŞKUR tarafından açılan mesleki eğitim kurslarında kazanılır.",
+  "giris_kosullari": [
+   "Ortaöğretim (lise veya dengi okul) mezunu olmak",
+   "18 yaşını doldurmuş olmak",
+   "Sağlık durumunun kimyasal maddelerle ve fiziksel olarak güç gerektiren işlerde çalışmaya uygun olması"
+  ],
+  "sure_ve_icerik": "Mesleğe özgü standart bir eğitim süresi bulunmamaktadır. Kişi işe başladığında işletme içinde kısa süreli bir oryantasyon ve işbaşı eğitimi alarak ölçüm yapma, numune alma, katı-sıvı-gaz taşıma ve atık depolama işlemlerini öğrenir. Bunun yanında iş sağlığı ve güvenliği, kimyasal madde yönetimi ve ilkyardım gibi konularda kamu kurumları veya işveren tarafından düzenlenen kısa süreli kurslara da katılabilir.",
+  "belge": "Mesleğe özgü bir diploma bulunmamaktadır. Katılınan kurslardan kurs bitirme belgesi, işyerinde alınan iş sağlığı ve güvenliği eğitimlerinden ise eğitim katılım belgesi/sertifika verilebilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "ek_bilgiler": "Kimyasal maddelerle doğrudan çalışma söz konusu olduğundan, işyerinin faaliyet alanına göre periyodik sağlık kontrolleri ve düzenli iş sağlığı ve güvenliği eğitimleri uygulanabilmektedir. Kimyasal madde kullanımına ilişkin mevzuat ve çevre düzenlemeleri zaman zaman güncellenebildiğinden, çalışanların bu alandaki güncel kuralları takip etmesi önemlidir.",
+ "genel_ozellikler": [
+  "Dikkatli ve titiz,",
+  "Sorumluluk sahibi ve talimatlara uyabilen,",
+  "Fiziksel olarak dayanıklı,",
+  "El ve beden becerisine sahip,",
+  "Ekip çalışmasına uyumlu,",
+  "Kimyasal maddelerle çalışmaya karşı temkinli ve iş güvenliği kurallarına duyarlı,",
+  "Hızlı ve doğru karar verebilen,",
+  "Sayısal ve teknik konulara ilgi duyan"
+ ],
+ "gorevler": [
+  "İş sağlığı ve güvenliği kurallarını uygular.",
+  "Katı, sıvı ve gazlarda ölçüm yapar.",
+  "Katı, sıvı ve gazlardan numune alır.",
+  "Katı, sıvı ve gazları taşır ve atıkları depolar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Kimya Proses Elemanı olarak çalışanlar, isterlerse açık öğretim yoluyla mesleki ve teknik eğitim programlarına yönelerek kimya teknolojisi alanında daha ileri düzey yeterlilikler (örneğin Kimya Proses Teknisyenliği) kazanabilirler. Yükseköğretime giriş sınavlarında başarılı oldukları takdirde ilgili ön lisans veya lisans programlarına da yerleşebilirler.",
+  "is_hayatinda": "Deneyim ve bilgi birikimi arttıkça daha nitelikli proses işlemlerinde görevlendirilebilir, ekip sorumluluğu üstlenebilir veya vardiya amirliği gibi görevlere yükselebilirler. İş güvenliği ve kalite kontrol konularında uzmanlaşarak farklı sorumluluk alanlarına geçiş yapabilirler."
+ },
+ "kazanc": {
+  "egitim_suresince": "Mesleğe özgü örgün bir eğitim süreci bulunmadığından, eğitim süresince ayrı bir ücretlendirmeden söz edilemez; işe alınan kişi genellikle doğrudan çalışan statüsünde ücret almaya başlar.",
+  "egitim_sonrasi": [
+   "Kamu kurum ve kuruluşlarında istihdam edilenler, 657 sayılı Devlet Memurları Kanunu veya işçi statüsünde çalışıyorlarsa ilgili toplu iş sözleşmesi hükümlerine göre ücret alırlar.",
+   "Özel sektörde yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar; işyerinin büyüklüğü, çalışanın tecrübesi, bilgisi ve sektörün genel ücret düzeyine göre kazanç değişebilmektedir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T11:07:45",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5707
+  }
+ }
+}

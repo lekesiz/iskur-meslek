@@ -1,0 +1,85 @@
+{
+ "arac_gerec": [
+  "Bilgisayar ve tarımsal planlama/takip yazılımları",
+  "Telefon ve telsiz",
+  "İnternet ve iletişim araçları",
+  "Arazi/saha aracı",
+  "Toprak ve su analiz ölçüm cihazları",
+  "Meteorolojik ölçüm cihazları (sıcaklık, nem, yağış ölçer)",
+  "Sulama sistemleri ve ekipmanları",
+  "İlaçlama ve gübreleme ekipmanları",
+  "Budama ve bahçe bakım alet edevatları",
+  "Tarımsal makine ve traktörler (denetim amaçlı)",
+  "Fide/fidan ve dikim malzemeleri",
+  "Harita, plan ve GPS cihazları",
+  "Koruyucu iş kıyafeti ve ekipmanları",
+  "Yazıcı, fotokopi ve faks cihazı",
+  "Diğer büro malzemeleri"
+ ],
+ "genel_ozellikler": [
+  "Analitik düşünme ve planlama yeteneğine sahip,",
+  "Yöneticilik ve liderlik becerisi olan,",
+  "Fikirlerini açık biçimde ifade edebilen ve ekip yönetebilen,",
+  "Sorumluluk sahibi ve kararlı,",
+  "Doğa ve açık hava koşullarında çalışmaya istekli,",
+  "Dikkatli, sabırlı ve gözlem gücü yüksek,",
+  "Yenilikleri takip edebilen, değişime uyum sağlayabilen,",
+  "Fiziksel olarak saha çalışmasına uygun"
+ ],
+ "calisma_ortami": "Plantasyon ve Uygulama Müdürü (Meyve Bahçesi), görevinin bir kısmını büroda planlama, raporlama ve yazışma işleriyle; büyük bir kısmını ise açık arazide, meyve bahçelerinde ve üretim sahalarında geçirir. Saha çalışması nedeniyle mevsim koşullarına (sıcak, soğuk, yağış) bağlı olarak açık havada çalışır; bahçe gezileri, dikim, sulama, ilaçlama ve hasat gibi uygulamaları yerinde denetler.\n\nÇalışma saatleri, tarımsal faaliyetlerin yoğunluğuna ve mevsime göre değişkenlik gösterebilir; özellikle dikim, ilaçlama ve hasat dönemlerinde yoğun ve uzun çalışma söz konusu olabilir. Görevi sırasında işletme sahibi/üst yönetim, teknik danışmanlar, tarım işçileri, tedarikçiler ve denetim kuruluşları ile sürekli iletişim kurar.",
+ "egitim": {
+  "verildigi_yerler": "Bu meslek için özel olarak tanımlanmış, tek bir okul programı bulunmamaktadır. Meslek, gereken minimum eğitim düzeyi olan ortaöğretim (lise ve dengi) mezuniyetiyle, işletmelerde kademeli olarak deneyim kazanılarak edinilebilir. Uygulamada, bahçe bitkileri yetiştiriciliği, tarım teknolojileri, ziraat mühendisliği veya tarım işletmeciliği gibi tarımla ilgili ön lisans veya lisans programlarından mezun olanlar bu göreve daha kolay yönelebilmektedir. Ayrıca Halk Eğitim Merkezleri ve İŞKUR'un açtığı tarım/bahçe bitkileri ile ilgili mesleki eğitim kursları, bilgi ve becerilerin geliştirilmesine katkı sağlayabilir.",
+  "giris_kosullari": [
+   "Lise ve dengi okul mezunu olmak (zorunlu asgari düzey)",
+   "Tarımla ilgili bir ön lisans veya lisans programına girmek isteyenler için YKS (Yükseköğretim Kurumları Sınavı) kılavuzunda belirtilen koşulları taşımak",
+   "Açık havada ve sahada fiziksel olarak çalışabilecek durumda olmak"
+  ],
+  "sure_ve_icerik": "Mesleğe özgü, resmî olarak tanımlanmış bağımsız bir eğitim programı bulunmamaktadır. Tarımla ilgili ön lisans (2 yıl) veya lisans (4 yıl) programlarında toprak bilgisi, bitki besleme, sulama teknikleri, bahçe bitkileri yetiştiriciliği, bitki koruma, tarım işletmeciliği, proje ve fizibilite hazırlama gibi dersler alınır. Bu bilgiler, işletmelerde saha gözetmenliği, teknik sorumluluk gibi kademelerden geçerek kazanılan iş deneyimiyle birleştirilir ve kişi, zamanla plantasyon ve uygulama müdürlüğü görevini üstlenebilir.",
+  "belge": "Tarımla ilgili bir ön lisans veya lisans programını tamamlayanlara diploma verilir; bu meslek unvanı için ayrıca bir diploma veya sertifika zorunluluğu bulunmamakla birlikte, Mesleki Yeterlilik Kurumu (MYK) belgesi ve ilgili sektör eğitim sertifikaları istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Plantasyon ve Uygulama Müdürleri; büyük ölçekli meyve bahçesi işletmelerinde, meyve yetiştiriciliği ve ihracatı yapan tarım şirketlerinde, tarımsal üretim ve paketleme tesislerinde, tarım kooperatiflerinde ve tarımsal danışmanlık firmalarında görev alabilirler. Ayrıca kamuya bağlı tarım kuruluşlarında, araştırma ve uygulama çiftliklerinde istihdam edilme imkânları bulunmaktadır.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğe özgü ayrı bir eğitim süreci bulunmadığından, bu dönemde doğrudan bir kazançtan söz edilemez. Tarımla ilgili bir yükseköğrenim programına kayıtlı olanlar, öğrenim kredisi, yurt hizmetleri ve çeşitli kurum/kuruluşların burslarından yararlanabilir. İşletmelerde kademeli olarak bu göreve hazırlanan kişiler ise çalıştıkları pozisyona göre (saha gözetmeni, teknik sorumlu vb.) ücret alır; bu ücret genellikle deneyim düzeyine ve işletme politikasına bağlıdır.",
+  "egitim_sonrasi": [
+   "Kamu kuruluşlarında çalışanlar, bulundukları kadro ve statüye göre 657 sayılı Devlet Memurları Kanunu veya ilgili toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde çalışanların ücreti; işletmenin büyüklüğüne, bahçenin ölçeğine, kişinin deneyimine ve üstlendiği sorumluluğa göre karşılıklı anlaşma yoluyla belirlenir ve değişkenlik gösterir.",
+   "Göreve yeni başlayanlarda ücret düzeyi genellikle asgari ücret ile sektör ortalaması arasında değişebilir; deneyim ve işletme büyüklüğü arttıkça kazanç da artabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Tarımla ilgili lisans eğitimi alanlar, bahçe bitkileri, toprak bilimi veya tarım ekonomisi gibi alanlarda yüksek lisans ve akademik kariyer yapabilir; akademik kariyer seçenler üniversitelerde öğretim elemanı olarak görev alabilirler. Ayrıca mesleki gelişim kursları ve sertifika programlarıyla teknik bilgi ve yönetim becerileri geliştirilebilir.",
+  "is_hayatinda": "Saha gözetmenliği veya teknik sorumluluk gibi görevlerden başlayan kişiler, deneyim ve başarılarına bağlı olarak plantasyon ve uygulama müdürlüğüne, ardından bölge müdürlüğü veya genel müdürlük gibi daha yüksek yönetim kademelerine yükselebilir; kendi işletmesini kurma imkânına da sahiptirler."
+ },
+ "benzer_meslekler": [
+  "Hayvancılık İşletme Yöneticisi",
+  "Çiftlik Yöneticisi",
+  "Yönetici (Ormancılık ve Tomrukçuluk)",
+  "Yönetici (Balıkçılık)"
+ ],
+ "ek_bilgiler": "Meyve ihracatı ve modern tarım uygulamalarının yaygınlaşmasıyla birlikte, büyük ölçekli meyve bahçesi işletmelerinde bu unvana yönelik ihtiyaç artma eğilimindedir. Göreve atanmada, formal eğitimin yanı sıra tarımsal uygulama konusunda edinilmiş pratik deneyim büyük önem taşımaktadır.",
+ "gorevler": [
+  "Yeni plantasyon oluşturulmasında fizibilite çalışmalarını (alan seçimi, dikim yerleşim planı ve bu süreçte dikkat edilmesi gereken hususlar vb.) yürütür.",
+  "Tarımsal kalite sistemlerine uygun ürün elde edilmesi için gerekli talimat ve prosedürlerin hazırlanmasını, uygulanmasını, kontrol ve denetimini sağlar.",
+  "Teknik danışmanlarla iletişim kurarak plantasyon uygulamalarına yön verir.",
+  "Plantasyon yönetimi ve sahadaki tüm işlerin yürütülmesi için gerekli işgücünün temin edilmesini ve işe oryantasyonunu sağlar.",
+  "Çalışanların teknik eğitimine ilişkin eğitim programlarını hazırlar, hazırlatır ve gerçekleştirilmesini sağlar.",
+  "Plantasyon yapılandırma faaliyetlerinin zamanında tamamlanması için gerekli önlemlerin alınmasını sağlar.",
+  "Plantasyon uygulamalarını denetler, düzeltici ve önleyici faaliyetlerin organizasyonunun yapılmasını sağlar.",
+  "İşçi sağlığı ve iş güvenliğine yönelik alınacak tedbirlerin tespitini ve uygulatılmasını sağlar.",
+  "Elde edilen istatistiksel verileri değerlendirerek geleceğe yönelik hedefler ve planlar oluşturur.",
+  "Yurt içi ve yurt dışında sektördeki gelişmeleri, yeni üretim uygulamalarını ve standartları araştırır, yönetime teklifler götürür.",
+  "Plantasyon faaliyetlerinde kullanılan makine, cihaz, alet ve ekipmanların periyodik bakım ve kontrollerinin yaptırılmasını sağlar.",
+  "Piyasa araştırması yaparak mal ve hizmet satın alma faaliyetini gerçekleştirir, ilgili personelin alımlarına olur ve/veya onay verir.",
+  "Yurt içi ve yurt dışında ön araştırma yaparak yatırımı yapılacak yeni sistemler için fizibilite raporu oluşturur.",
+  "Mevcut kaynakların verimli kullanılmasını sağlar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-07T19:39:29",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 7402
+  }
+ }
+}

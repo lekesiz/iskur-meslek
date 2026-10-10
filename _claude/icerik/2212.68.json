@@ -1,0 +1,85 @@
+{
+ "arac_gerec": [
+  "Steteskop",
+  "Tansiyon aleti",
+  "Boy, kilo ve vücut kitle indeksi ölçüm araçları, büyüme eğrileri",
+  "İnce iğne aspirasyon biyopsi seti",
+  "Ultrason cihazı",
+  "Dinamik endokrinolojik test uygulamasında kullanılan ilaç ve kitler (uyarı/baskılama testleri)",
+  "Kan alma ve enjeksiyon malzemeleri",
+  "Laboratuvar tahlil ve test malzemeleri (kan, idrar vb.)",
+  "Kemik yaşı değerlendirmesinde kullanılan radyolojik görüntüler (röntgen filmleri)",
+  "Hasta dosyası ve bilgisayar ortamında hasta takip/kayıt sistemleri",
+  "Genel muayene aletleri (otoskop, refleks çekici vb.)"
+ ],
+ "genel_ozellikler": [
+  "Üstün akademik başarıya sahip,",
+  "Fen bilimleri (biyoloji, kimya) ve tıbbi konulara ilgili,",
+  "Çocuklarla ve aileleriyle sağlıklı iletişim kurabilen,",
+  "Sabırlı, şefkatli ve hoşgörülü,",
+  "Dikkatli, titiz ve sorumluluk sahibi,",
+  "Analitik düşünebilen, hızlı ve doğru karar verebilen,",
+  "Takım çalışmasına yatkın,",
+  "Meslek yaşamı boyunca bilimsel gelişmeleri takip etme konusunda istekli,"
+ ],
+ "calisma_ortami": "Çocuk Endokrinolojisi ve Metabolizma Hastalıkları Uzmanları, çoğunlukla üniversite hastaneleri ve eğitim-araştırma hastanelerinin çocuk sağlığı ve hastalıkları bölümlerine bağlı polikliniklerde, bazı büyük özel hastanelerde ve kliniklerde görev yapar. Bu bir yan dal uzmanlık alanı olduğundan uzman sayısı sınırlıdır ve hizmet genellikle büyükşehirlerdeki donanımlı sağlık kuruluşlarında yoğunlaşır. Çalışma ortamı kapalı mekan olup genel olarak temiz ve düzenlidir; hasta muayenesi, test uygulamaları ve biyopsi gibi işlemler sırasında dikkat ve hijyen kurallarına uyulması gerekir.\n\nÇalışma saatleri genellikle düzenli olmakla birlikte, bağlı olunan kurumun yapısına göre nöbet tutulabilir ve acil durumlarda göreve çağrılabilir. Hasta çocuklar ve aileleriyle, ayrıca çocuk cerrahisi, radyoloji, genetik, beslenme ve diğer uzmanlık alanlarındaki hekimler ve sağlık personeliyle sık işbirliği içinde çalışılır. Kronik hastalığı olan çocukların uzun süreli takibi söz konusu olduğundan hasta ve aileyle süreklilik gösteren bir iletişim kurulur.",
+ "egitim": {
+  "verildigi_yerler": "Bu meslek, üniversitelerin tıp fakültelerinde verilen 6 yıllık lisans eğitiminin ardından, Tıpta Uzmanlık Sınavı (TUS) ile kazanılan Çocuk Sağlığı ve Hastalıkları uzmanlık eğitimi ve bu eğitimi takiben yan dal uzmanlık sınavıyla kazanılan Çocuk Endokrinolojisi ve Metabolizma Hastalıkları yan dal uzmanlık eğitimiyle edinilir. Uzmanlık ve yan dal eğitimleri üniversite hastaneleri ile eğitim ve araştırma hastanelerinde verilir.",
+  "giris_kosullari": [
+   "Lise veya dengi okul mezunu olmak",
+   "YKS (Yükseköğretim Kurumları Sınavı) sonucunda tıp fakültesini kazanacak yeterli puana sahip olmak",
+   "Tıp fakültesi eğitimini tamamladıktan sonra Tıpta Uzmanlık Sınavı (TUS) ile Çocuk Sağlığı ve Hastalıkları uzmanlık eğitimine hak kazanmak",
+   "Çocuk Sağlığı ve Hastalıkları uzmanlığını tamamladıktan sonra yan dal uzmanlık sınavında başarılı olarak Çocuk Endokrinolojisi ve Metabolizma Hastalıkları yan dal eğitimine başlamak"
+  ],
+  "sure_ve_icerik": "Tıp fakültesi eğitimi teorik ve uygulamalı olarak 6 yıl sürer. İlk yıllarda temel fen bilimleri ve tıbbın temel bilimleri (anatomi, fizyoloji, biyokimya vb.), ilerleyen yıllarda klinik bilgiler ve hastane içi uygulamalı stajlar (klinik stajlar) yer alır. Tıp fakültesi sonrasında Çocuk Sağlığı ve Hastalıkları alanında uzmanlık eğitimi alınır; bu eğitim süresince çocuk hastalıklarının tanı ve tedavisine yönelik teorik ve uygulamalı eğitim verilir. Çocuk Sağlığı ve Hastalıkları uzmanlığının ardından, yan dal uzmanlık eğitimi kapsamında çocuklarda büyüme-gelişme bozuklukları, şeker hastalığı, tiroid, böbrek üstü bezi ve metabolik hastalıklar gibi konularda ileri düzeyde teorik ve uygulamalı (hasta başı, test ve biyopsi uygulamaları dahil) eğitim alınır. Toplam eğitim süreci, tıp fakültesi ile uzmanlık ve yan dal eğitimleri birlikte değerlendirildiğinde oldukça uzundur.",
+  "belge": "Eğitim sürecini başarıyla tamamlayanlara önce tıp doktorluğu diploması, uzmanlık eğitimi sonunda Çocuk Sağlığı ve Hastalıkları uzmanlık belgesi, yan dal eğitimi sonunda ise Çocuk Endokrinolojisi ve Metabolizma Hastalıkları yan dal uzmanlık belgesi verilir."
+ },
+ "gorevler": [
+  "Çocuk hastanın şikayetlerini, özgeçmişini ve soygeçmişini alır, hastanın dosyasına kaydeder.",
+  "Hastanın fiziki muayenesini yapar.",
+  "Dinamik endokrinolojik testler uygular veya uygulanmasını ister.",
+  "Hastadan ilgili tetkik, test ve filmleri yaptırmasını/çektirmesini ister.",
+  "Tiroid nodülü tespit edilen hastalara ince iğne aspirasyon biyopsisi uygular.",
+  "Fiziki muayene, tahlil, test ve biyopsi sonuçlarına göre teşhis koyar.",
+  "Hastalığın durumuna göre tedavi yöntemini planlar.",
+  "İlaç tedavisini uygular, diğer tedavi yöntemleri için ilgili hekimlerle konsültasyonda bulunur.",
+  "Hasta cerrahi tedavi görmüşse müdahale sonrası hastanın endokrin takibini yapar.",
+  "Hasta veya hasta yakınına hastalık, tedavi yöntemleri, riskleri ve ilaç kullanımı hakkında bilgi verir, tavsiyelerde bulunur.",
+  "Hastaları şeker hastalığı ve komplikasyonları hakkında bilgilendirir.",
+  "Tedavisi süren hastalarda gerektiğinde tedavi değişikliği yapar.",
+  "Hastane içinde veya dışında gerektiğinde ilk yardım müdahalesinde bulunur.",
+  "Tıbbi etik kurallarına uyar.",
+  "Meslek alanı ile ilgili gelişmeleri ve yayınları takip eder, kongre, sempozyum vb. aktivitelere katılır.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "calisma_alanlari": "Çocuk Endokrinolojisi ve Metabolizma Hastalıkları Uzmanları, başta üniversite hastaneleri ve büyük eğitim-araştırma hastaneleri olmak üzere, çocuk sağlığı ve hastalıkları bölümü bulunan kamu hastanelerinde, bazı donanımlı özel hastane ve kliniklerde çalışabilirler. Bu alanda özel muayenehanecilik sınırlı ölçüde mümkündür; uzmanlar genellikle multidisipliner bir ekibin parçası olarak kurumsal yapılar içinde görev yapar.\n\nYan dal uzmanlık alanı olması nedeniyle bu meslekte yetişen uzman sayısı sınırlıdır ve genellikle büyükşehirlerdeki üniversite hastaneleri ile büyük eğitim hastanelerinde istihdam imkanı bulunur. Çocukluk çağı şeker hastalığı, obezite ve büyüme-gelişme bozukluklarının görülme sıklığındaki artışa bağlı olarak bu alana olan ihtiyacın gelecekte de sürmesi beklenmektedir.",
+ "kazanc": {
+  "egitim_suresince": "Tıp fakültesi öğrencileri, Kredi ve Yurtlar Kurumu'nun sağladığı öğrenim kredisi, yurt imkanları ve çeşitli kurum/kuruluşların burslarından yararlanabilir. Çocuk Sağlığı ve Hastalıkları uzmanlık ve ardından yan dal uzmanlık eğitimi sırasında (asistanlık döneminde), eğitim verilen kamu hastanesi veya üniversitede araştırma görevlisi/asistan hekim olarak maaş ve döner sermaye ek ödemesi alınır.",
+  "egitim_sonrasi": [
+   "Kamu sağlık kurumlarında çalışanlar 657 sayılı Devlet Memurları Kanunu'na tabi olarak kadro ve unvanlarına göre maaş ile döner sermaye ek ödemesi alırlar.",
+   "Üniversite hastanelerinde görev yapanların ücreti akademik unvan (öğretim görevlisi, doçent, profesör vb.) ve kadroya göre belirlenir.",
+   "Özel hastane ve kliniklerde çalışanların ücreti; deneyim, uzmanlık süresi, çalışılan kurumun büyüklüğü ve karşılıklı anlaşmaya göre değişkenlik gösterir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Tıp fakültesini bitirip TUS ile Çocuk Sağlığı ve Hastalıkları uzmanlığını tamamlayanlar, yan dal uzmanlık sınavında başarılı olarak Çocuk Endokrinolojisi ve Metabolizma Hastalıkları yan dal eğitimine başlayabilir. Akademik kariyer yapmak isteyenler bu alanda doktora çalışması yürütebilir, akademik unvanlarda (doktor öğretim üyesi, doçent, profesör) ilerleyebilir.",
+  "is_hayatinda": "Deneyim kazandıkça klinik şefliği, bölüm sorumluluğu veya hastane yöneticiliği gibi idari görevlere yükselebilirler. Akademik kurumlarda çalışanlar unvan ilerletebilir; isteyenler belirli şartları taşımaları halinde özel muayenehane açabilir veya özel sağlık kuruluşlarında danışmanlık yapabilirler."
+ },
+ "benzer_meslekler": [
+  "Çocuk Sağlığı ve Hastalıkları Uzmanı",
+  "Endokrinoloji ve Metabolizma Hastalıkları Uzmanı",
+  "Çocuk Genetik Hastalıkları Uzmanı",
+  "Çocuk Gastroenterolojisi Uzmanı",
+  "Çocuk Onkolojisi Uzmanı",
+  "Çocuk Kardiyoloji Uzmanı"
+ ],
+ "ek_bilgiler": "Çocuk Endokrinolojisi ve Metabolizma Hastalıkları, çocuk sağlığı ve hastalıkları uzmanlığı sonrasında alınan bir yan dal uzmanlık alanıdır; bu nedenle eğitim süreci uzundur (tıp fakültesi + uzmanlık + yan dal eğitimi). Çocukluk çağı obezitesi, tip 1 ve tip 2 diyabet ile büyüme-gelişme bozukluklarının görülme sıklığındaki artış nedeniyle bu alandaki uzmanlara duyulan ihtiyacın sürmesi beklenmektedir, ancak yan dal uzmanı sayısının sınırlı olması nedeniyle istihdam genellikle büyükşehirlerdeki üniversite ve eğitim hastaneleri ile sınırlı kalmaktadır.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-07T22:56:44",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 8120
+  }
+ }
+}

@@ -1,0 +1,70 @@
+{
+ "arac_gerec": [
+  "Öğütme makinesi (değirmen)",
+  "Farklı göz açıklığında elekler",
+  "Besleme hunisi / konveyör sistemi",
+  "Tartım terazisi",
+  "Numune alma ekipmanları",
+  "Partikül boyutu ölçüm/elek analiz cihazı",
+  "Toz maskesi, eldiven, gözlük, kulaklık gibi kişisel koruyucu donanımlar (KKD)",
+  "Taşıma ekipmanları (el arabası, forklift)",
+  "Temizlik ve bakım aletleri",
+  "Üretim/ağırlık kayıt formları veya bilgisayar"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve sorumluluk sahibi,",
+  "El ve gözlerini eşgüdümle kullanabilen,",
+  "Fiziksel olarak dayanıklı,",
+  "Makine ve ekipman kullanımına yatkın,",
+  "Talimat ve kurallara uyan,",
+  "Ekip çalışmasına uygun,",
+  "Düzenli ve tertipli çalışan,"
+ ],
+ "calisma_ortami": "Öğütme makinesi operatörü genellikle fabrika veya üretim tesisi gibi kapalı mekanlarda, atölye ortamında çalışır. Çalışma sırasında toz, gürültü ve işlenen maddeye bağlı olarak kimyasal madde teması gibi risklerle karşılaşabileceğinden kişisel koruyucu donanım kullanımı ve iş güvenliği kurallarına uyum önemlidir.\n\nİş genellikle ayakta ve bireysel olarak yürütülür; gerektiğinde üretim ekibi, kalite kontrol ve vardiya sorumlusuyla iletişim kurulur. İşletmenin üretim programına göre vardiyalı çalışma düzeni söz konusu olabilir.",
+ "egitim": {
+  "verildigi_yerler": "Bu meslek için resmi/örgün bir meslek eğitim programı bulunmamaktadır. Meslek genellikle işyerlerinde işbaşında usta yanında yetişilerek öğrenilir; ayrıca Halk Eğitim Merkezleri ve İŞKUR'un açtığı kimya/üretim teknolojileri alanındaki kısa süreli mesleki eğitim kursları da katkı sağlayabilir.",
+  "giris_kosullari": [
+   "Okuryazar olmak",
+   "18 yaşını doldurmuş olmak (açılan kurs programlarına katılım için)",
+   "İşin gerektirdiği fiziksel güce ve dayanıklılığa sahip olmak"
+  ],
+  "sure_ve_icerik": "Mesleğin standart bir eğitim süresi belirlenmemiştir. İşbaşı eğitimi genellikle birkaç hafta ile birkaç ay arasında sürer; bu süreçte öğütme makinesinin çalışma prensipleri, elek seçimi, hammadde besleme, numune alma ve kontrol işlemleri ile iş sağlığı ve güvenliği konuları öğretilir. Açılan kurslarda süre ve içerik kurumdan kuruma farklılık gösterebilir.",
+  "belge": "İşbaşında yetişme sürecinde genellikle resmi bir belge verilmez. Kurs yoluyla eğitim alanlara ilgili kurumca 'Kurs Bitirme Belgesi' verilebilir, talep edenlere Europass Sertifika Eki düzenlenebilir."
+ },
+ "calisma_alanlari": "Mesleğin gerektirdiği yeterlilikleri kazanan bireyler; kimya, ilaç, gıda, çimento, boya, gübre, plastik ve benzeri sektörlerde katı hammaddenin öğütülerek belirli ölçüde zerreciklere dönüştürülmesi gereken fabrika ve üretim tesislerinde çalışabilirler.",
+ "kazanc": {
+  "egitim_suresince": "İşbaşında yetişme sürecinde genellikle asgari ücret düzeyinde bir kazanç sağlanır; kurs yoluyla eğitim alınması durumunda ise herhangi bir kazanç söz konusu değildir.",
+  "egitim_sonrasi": [
+   "Çalışılan işletmenin büyüklüğüne, sektöre ve kişinin deneyimine göre değişmekle birlikte başlangıçta genellikle asgari ücret düzeyindedir.",
+   "Deneyim, sorumluluk ve işletmedeki konum arttıkça kazanç artabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Bu meslek için kademeli ve sertifikalı bir ilerleme basamağı bulunmamaktadır; bilgi ve beceriler genellikle işbaşında deneyimle geliştirilir.",
+  "is_hayatinda": "Deneyim ve performansa bağlı olarak usta, ekip lideri, vardiya sorumlusu veya üretim/bölüm şefi gibi görevlere yükselme imkânı bulunabilir."
+ },
+ "benzer_meslekler": [
+  "Ezme Makinesi Operatörü-Kimyasal Maddeler",
+  "Karıştırma Makinesi Operatörü-Kimyasal Maddeler",
+  "Kırma Makinesi Operatörü-Kimyasal Maddeler",
+  "Kurutma Makinesi Operatörü-Kimyasal ve İlgili İşlemler",
+  "Yoğurucu (Kimyasal Maddeler)",
+  "Separatör İşçisi"
+ ],
+ "ek_bilgiler": "Öğütülen maddenin niteliğine göre toz, kimyasal buhar veya patlama riski bulunabileceğinden kişisel koruyucu donanım kullanımı ve iş güvenliği kurallarına uyum önem taşır. Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda tercih sebebi olabilir.",
+ "gorevler": [
+  "Elde edilecek zerreciklerin ölçüsüne göre elek seçip makineye takar.",
+  "Makineyi çalıştırarak hammaddeyle besler veya malzemenin öğütme makinesine verilmesine nezaret eder.",
+  "Öğütme işlemini takip eder, öğütülmüş malzemeden numuneler alarak zerreciklerin istenilen ölçüye uygunluğunu sağlar ve öğütülmüş malzemenin makineden alınmasına nezaret eder.",
+  "Öğütülen malzemenin ağırlık kayıtlarını tutar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T11:59:05",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5015
+  }
+ }
+}

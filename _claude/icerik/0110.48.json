@@ -1,0 +1,73 @@
+{
+ "arac_gerec": [
+  "Kişisel silah (tabanca, tüfek) ve mühimmat",
+  "Haberleşme ve telsiz cihazları",
+  "Kişisel koruyucu ve savunma donanımı (üniforma, çelik yelek, miğfer)",
+  "Zırhlı veya arazi tipi hizmet araçları",
+  "Harita, pusula ve GPS cihazları",
+  "Dürbün ve gece görüş cihazları",
+  "Bilgisayar ve idari yazışma/evrak sistemleri",
+  "Nöbet ve devriye kayıt defterleri",
+  "El feneri ve aydınlatma ekipmanları",
+  "Kelepçe ve kolluk hizmetlerine özgü müdahale ekipmanları"
+ ],
+ "genel_ozellikler": [
+  "Fiziksel ve psikolojik yönden sağlıklı,",
+  "Liderlik vasfına sahip,",
+  "Disiplinli ve sorumluluk sahibi,",
+  "Hızlı ve isabetli karar verebilen,",
+  "Stresli ve riskli durumlarda soğukkanlı kalabilen,",
+  "Ekip yönetme ve koordinasyon becerisine sahip,",
+  "Vatanını ve milletini seven, emir-komuta zincirine uyumlu,",
+  "İyi derecede bedensel dayanıklılığa sahip"
+ ],
+ "calisma_ortami": "Asteğmen (Jandarma), görev yaptığı birime göre kışla, karakol, sınır bölgesi ve kırsal/kentsel arazi gibi hem kapalı hem açık alanlarda çalışır. Görev gereği düzensiz ve uzun çalışma saatleri, zorlu hava ve arazi koşulları, zaman zaman riskli ve gerilimli ortamlarda bulunma söz konusudur; nöbet, devriye ve asayiş hizmetleri gece-gündüz sürebilir.\\n\\nÇalışma hiyerarşik ve disiplinli bir yapı içinde yürütülür. Emrindeki er ve erbaşlarla, üst rütbeli amirlerle, diğer kolluk kuvvetleri mensuplarıyla ve zaman zaman vatandaşlarla yoğun ilişki içindedir. Görev yeri ve bölgesi kurum ihtiyaçlarına göre Türkiye genelinde değişebilir.",
+ "gorevler": [
+  "Takımındaki er ve erbaşların eğitimini yaptırır.",
+  "Nöbet ve emniyet hizmetlerini yürütür.",
+  "İdari yazışmaları takip eder.",
+  "Devriye ve asayiş görevlerini icra eder.",
+  "Üst amirlerin talimatlarını uygular.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Subay adaylarına yönelik lisans düzeyinde eğitim veren askeri yükseköğretim kurumlarında (Jandarma ve Sahil Güvenlik Akademisi gibi) verilir.",
+  "giris_kosullari": [
+   "Lise mezunu olmak ve ilgili askeri yükseköğretim kurumunun giriş sınavlarını (merkezi sınav sonucu, mülakat, sağlık ve fiziki yeterlilik değerlendirmeleri) başarıyla geçmek",
+   "Türk vatandaşı olmak",
+   "Kurumun belirlediği yaş, boy-kilo, sağlık ve güvenlik soruşturması şartlarını taşımak",
+   "Askeri disiplin ve eğitime uygun fiziksel ve psikolojik yeterliliğe sahip olmak"
+  ],
+  "sure_ve_icerik": "Lisans düzeyinde yaklaşık dört yıl süren askeri eğitim ve öğretim programında askeri bilimler, hukuk, liderlik, fiziki eğitim ve mesleğe yönelik uygulamalı dersler okutulur. Eğitimini başarıyla tamamlayanlar Jandarma teşkilatında asteğmen rütbesiyle ilk göreve başlar.",
+  "belge": "Lisans diploması ile birlikte subaylık (asteğmen) rütbesi ve atama belgesi verilir."
+ },
+ "calisma_alanlari": "Asteğmen (Jandarma), Jandarma Genel Komutanlığına bağlı karakol, tabur, alay gibi birimlerde; sınır bölgelerinde, kırsal ve bazı kentsel alanlarda güvenlik ve asayiş hizmetlerinin yürütüldüğü görev yerlerinde çalışır. Bu meslek kamu güvenliği ve savunma hizmeti kapsamında olduğundan özel sektörde istihdam imkanı bulunmamaktadır; görev ve atamalar kurum ihtiyaçlarına göre Türkiye genelinde yapılır.",
+ "kazanc": {
+  "egitim_suresince": "Askeri öğrenci statüsünde öğrenim gördüğü süre boyunca barınma, iaşe ve giyim gibi temel ihtiyaçları kurum tarafından karşılanır; ayrıca belirlenen bir harçlık ödenir.",
+  "egitim_sonrasi": [
+   "Jandarma teşkilatında subay olarak atandıktan sonra kendine özgü askeri personel mevzuatına tabi olarak rütbe ve kıdemine göre maaş ile çeşitli ek ödemeler (tazminat, harcırah vb.) alır.",
+   "Kazanç düzeyi rütbe yükseldikçe ve hizmet süresi arttıkça artar."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "İlgili askeri yükseköğretim kurumundaki lisans eğitimini başarıyla tamamlayanlar asteğmen rütbesiyle göreve başlar; eğitim sürecindeki başarı durumuna göre sınıf veya branş yönlendirmesi yapılabilir.",
+  "is_hayatinda": "Asteğmen olarak göreve başlayan subay, kıdem süresi ve ilgili değerlendirme/sınav süreçlerine bağlı olarak sırasıyla teğmen, üsteğmen, yüzbaşı ve üst rütbelere terfi edebilir. Hizmet yılı ve performansına göre kurmay sınıfına geçiş ile çeşitli komutanlık veya karargah görevlerine atanma imkanı da bulunmaktadır."
+ },
+ "benzer_meslekler": [
+  "Teğmen (Jandarma)",
+  "Üsteğmen (Jandarma)",
+  "Yüzbaşı (Jandarma)",
+  "Binbaşı (Jandarma)",
+  "Asteğmen (Kara Kuvvetleri)",
+  "Asteğmen (Sahil Güvenlik)"
+ ],
+ "ek_bilgiler": "Bu meslek, kamu güvenliği ve savunma hizmeti kapsamında Jandarma Genel Komutanlığı bünyesinde yürütülür; göreve kabulde fiziksel ve psikolojik sağlık şartları ile detaylı bir güvenlik soruşturması süreci aranır. Görev yeri ve birim, hizmet gereksinimlerine göre Türkiye genelinde değişebilir ve meslek disiplinli, hiyerarşik bir çalışma düzeni gerektirir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-07T17:28:59",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 4900
+  }
+ }
+}

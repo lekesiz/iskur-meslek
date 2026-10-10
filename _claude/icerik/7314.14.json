@@ -1,0 +1,80 @@
+{
+ "gorevler": [
+  "Taş, kil eşya imalatı gibi konularda üretim programını inceler.",
+  "İşgücü ihtiyaçlarını tespit eder.",
+  "Proje şartname ve iş emirlerini inceler ve işlemlerin sırasını tespit eder.",
+  "Gerekli olan hammadde ve malzeme miktarlarını tespit eder ve çalışma mahalline getirtir.",
+  "Üretim programı gereklerini karşılayacak iş usullerini tayin eder ve işlerin işçiler arasında taksimini sağlar.",
+  "Ünitedeki işlerin, işletme dahilindeki diğer üretim üniteleriyle koordineli bir şekilde yürütülmesini sağlar.",
+  "Üretim metotlarını, teçhizat performansını, mamul kalitelerini geliştirmek için tavsiyelerde bulunur ve randımanı artırmak için çalışma şartlarında ve teçhizatın kullanılmasında değişiklikler önerir.",
+  "İş problemlerini analiz eder ve çözümler.",
+  "Kuruluşun politikaları konusunda işçilere bilgi verir ve emniyet kurallarının uygulanmasını sağlar.",
+  "Emrinde bulunan ustabaşıların çalışmalarına nezaret eder ve koordine eder.",
+  "Terfiler, transferler, işten çıkartmalar ve disiplin gibi personel işlerinde tavsiyelerde bulunur ve uygulamalarını sağlar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "arac_gerec": [
+  "Üretim programı, iş emri ve şartname dosyaları",
+  "Hammadde ve malzeme (kil, alçı, kum, taş, çamur vb.)",
+  "Üretim makine ve ekipmanları (pres, kalıp, fırın, torna, karıştırıcı/mikser vb.)",
+  "Ölçme ve kontrol araçları (kumpas, cetvel, terazi, şablon)",
+  "Kalite kontrol formları ve raporlama belgeleri",
+  "İletişim araçları (telsiz, telefon, bilgisayar)",
+  "Kişisel koruyucu donanım (eldiven, gözlük, maske, baret, iş elbisesi)",
+  "İş güvenliği ve çevre koruma talimatları",
+  "Personel çalışma çizelgeleri ve vardiya planları",
+  "Stok ve depo takip kayıtları"
+ ],
+ "genel_ozellikler": [
+  "Liderlik ve yönetim becerisine sahip,",
+  "Sorumluluk alabilen ve karar verme yeteneği olan,",
+  "İşçi sağlığı ve iş güvenliği konusunda dikkatli,",
+  "İletişimi güçlü ve ekip çalışmasına uygun,",
+  "Üretim süreçleri ve teknik konularda bilgili,",
+  "Problem çözme becerisine sahip,",
+  "Planlı ve organize çalışabilen,",
+  "Fiziksel olarak dayanıklı"
+ ],
+ "calisma_ortami": "Diğer Üretim Nezaretçi ve Ustabaşıları (Taş ve Kil), genellikle kapalı alanlarda, taş ve kil mamullerinin üretildiği atölye ve fabrikalarda çalışır. Çalışma ortamı toz, nem, gürültü ve bazı durumlarda yüksek sıcaklık (fırın bölümleri) içerebilir; bu nedenle iş sağlığı ve güvenliği kurallarına uyulması önemlidir. Çalışma genellikle gün içinde ayakta ve hareketli geçer, üretim bandı ve işçiler arasında sürekli dolaşım gerektirir; işletmenin vardiya düzenine bağlı olarak farklı saatlerde çalışılabilir.\n\nGörevi gereği, emrindeki işçiler ve diğer ustabaşılarla sürekli iletişim ve koordinasyon içinde olup, üretim, kalite kontrol, bakım ve insan kaynakları gibi birimlerdeki yöneticilerle de ilişki kurar. Liderlik, sorumluluk ve karar verme becerisi gerektiren bu görevde, kişi hem teknik bilgiyi hem de insan yönetimi becerisini bir arada kullanır.",
+ "egitim": {
+  "verildigi_yerler": "Bu meslek için ayrı, örgün bir eğitim programı bulunmamaktadır. Nezaretçi/ustabaşı pozisyonuna genellikle taş ve kil mamulleri üretimi (çömlekçilik, tuğla-kiremit, briket-bims, zımpara/aşındırıcı imalatı vb.) alanında yıllarca işçi olarak çalışmış, mesleği ustalık düzeyinde öğrenmiş ve liderlik becerisi edinmiş kişiler, işletme içi terfi yoluyla gelir. Mesleki ve teknik eğitim okullarının seramik ve cam teknolojisi gibi ilgili alanları, Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kursları, bu alanda çalışacaklara temel teknik bilgi kazandırabilir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "Taş veya kil mamulleri üretimi yapılan bir işkolunda (çömlekçilik, seramik, tuğla-kiremit, briket vb.) uzun süreli iş deneyimine sahip olmak",
+   "İşin fiziksel gerekliliklerini (ayakta çalışma, hareketlilik) karşılayacak sağlık durumuna sahip olmak",
+   "Çalıştığı işletmede liderlik ve sorumluluk üstlenebilecek güven ve performans göstermiş olmak"
+  ],
+  "sure_ve_icerik": "Bu meslek için belirli bir eğitim süresi ve müfredatı tanımlanmamıştır. Kişi, ilgili üretim alanında önce vasıfsız veya yarı vasıflı işçi olarak çalışmaya başlar; zamanla üretim süreçlerini, makine ve ekipman kullanımını, kalite kriterlerini ve iş güvenliği kurallarını öğrenerek deneyim kazanır. Yeterli bilgi, beceri ve liderlik niteliklerine ulaştığında işletme tarafından nezaretçi veya ustabaşı olarak görevlendirilir. Bu süreçte zaman zaman işletme içi veya dışı kısa süreli mesleki eğitim kurslarına katılım sağlanabilir.",
+  "belge": "Bu meslekte resmî bir diploma veya sertifika zorunluluğu yoktur; görevlendirme işletme içi terfi yoluyla yapılır. Mesleki Yeterlilik Kurumu (MYK) tarafından ilgili üretim alanında verilen yeterlilik belgeleri, işe alım ve terfi sürecinde tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Diğer Üretim Nezaretçi ve Ustabaşıları (Taş ve Kil), taş ve kil mamulleri üreten işletmelerde çalışır. Bu işletmeler arasında çömlek, seramik ve porselen imalathaneleri, tuğla ve kiremit fabrikaları, briket-bims üretim tesisleri, zımpara/aşındırıcı malzeme üreten işletmeler ve genel olarak taş-kil esaslı yapı ve süs eşyası üreten küçük ve orta ölçekli atölyeler ile büyük ölçekli fabrikalar yer alır. Bu kişiler, söz konusu işletmelerin üretim bölümlerinde işçi olarak uzun süre çalışıp deneyim kazandıktan sonra nezaretçi veya ustabaşı olarak görevlendirilirler.",
+ "kazanc": {
+  "egitim_suresince": "Bu meslek için ayrı bir çıraklık veya örgün mesleki eğitim programı bulunmadığından, kişi deneyim kazanma sürecinde ilgili üretim alanında işçi statüsünde çalışır ve bu süreçte işyerinin ücret politikasına göre genellikle asgari ücret düzeyinde bir kazanç elde eder.",
+  "egitim_sonrasi": [
+   "Ustabaşı/nezaretçi olarak görevlendirildikten sonra kazanç, çalıştığı işletmenin büyüklüğüne, sektörüne, kişinin deneyimine ve üstlendiği sorumluluğun kapsamına göre değişir.",
+   "Genellikle emrindeki işçilerden daha yüksek bir ücret alır; ücret, işveren ile karşılıklı anlaşma veya toplu iş sözleşmesi (varsa) çerçevesinde belirlenir.",
+   "Kendi işyerini kuran veya işletmenin ortağı olan kişilerin kazancı daha yüksek olabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Bu meslek için örgün bir ilerleme basamağı tanımlanmamıştır. Kişi, seramik ve cam teknolojisi gibi ilgili mesleki ve teknik eğitim alanlarına yönelik kurs ve sertifika programlarına katılarak bilgi ve becerisini artırabilir. Mesleki Yeterlilik Kurumu (MYK) belgesi almak, iş hayatında ilerleme açısından destekleyici olabilir.",
+  "is_hayatinda": "Deneyim, performans ve liderlik becerisini geliştiren kişi, üretim şefliği, işletme müdürlüğü gibi daha yüksek sorumluluk düzeyindeki görevlere yükselebilir. Yeterli birikim ve sermayeye sahip olanlar kendi üretim işletmesini kurabilir."
+ },
+ "benzer_meslekler": [
+  "Çömlekçi",
+  "Diğer Çömlekçiler ile İlgili Kil ve Zımpara Kalıpçıları",
+  "Briket-Bims İmalat İşçisi",
+  "Tuğla ve Kiremit Presçisi (Elle)",
+  "Tuğla ve Kiremit Kalıpçısı (Elle)",
+  "Çömlek ve Porselen Şekillendirme İşçisi"
+ ],
+ "ek_bilgiler": "Bu meslekte çalışanlar genellikle taş ve kil mamulleri üretimi yapılan bir işkolunda (çömlekçilik, seramik, tuğla-kiremit, zımpara/aşındırıcı imalatı vb.) uzun süre vasıflı işçi olarak çalıştıktan sonra, edindikleri teknik bilgi ve liderlik becerisiyle işletme içinde nezaretçi veya ustabaşı konumuna terfi ederler. Bu nedenle meslek, doğrudan bir okul veya kurs programıyla değil, sektör içi deneyim ve kariyer gelişimiyle kazanılır.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T03:54:41",
+  "usage": {
+   "input_tokens": 4,
+   "output_tokens": 8499
+  }
+ }
+}

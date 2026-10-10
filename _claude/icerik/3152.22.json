@@ -1,0 +1,75 @@
+{
+ "gorevler": [
+  "Geminin seyir planını hazırlar ve navigasyon sistemlerini yönetir.",
+  "Gemi personelinin görev dağılımını ve vardiya düzenini koordine eder.",
+  "Yükleme, tahliye ve yolcu güvenliği prosedürlerini denetler.",
+  "Telsiz haberleşmesini ve liman işlemlerini yürütür.",
+  "Geminin emniyet ekipmanlarını ve teknik durumunu kontrol eder.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "arac_gerec": [
+  "Manyetik ve cayro pusula",
+  "Dümen ve otomatik pilot sistemi",
+  "Radar ve GPS gibi elektronik seyir cihazları",
+  "VHF ve diğer telsiz haberleşme cihazları",
+  "Deniz haritaları ve seyir yardımcı yayınlar (notik yayınlar)",
+  "Can kurtarma ve yangın söndürme ekipmanları",
+  "Dürbün",
+  "Güverte jurnali ve seyir defteri",
+  "Meteorolojik veri takip cihazları",
+  "Halat, bağlama ve demirleme ekipmanları",
+  "Bilgisayar",
+  "Yükleme/boşaltma amaçlı güverte donanımları (varsa küçük vinç, irgat vb.)"
+ ],
+ "genel_ozellikler": [
+  "Sorumluluk sahibi,",
+  "Dikkatli ve tedbirli,",
+  "Açık denizde veya kıyı sularında çalışmaktan hoşlanan,",
+  "Hızlı ve doğru karar verebilen,",
+  "Fiziksel olarak sağlıklı ve dayanıklı,",
+  "Ekip çalışmasına uyumlu, liderlik özelliği taşıyan,",
+  "Soğukkanlı, stresli durumlarda sakin kalabilen,",
+  "Sorumluluk taşıyabilen ve disiplinli"
+ ],
+ "calisma_ortami": "Sınırlı Kaptan, belirli bir tonajın altındaki gemilerde (kıyı tankerleri, yolcu motorları, feribotlar, römorkörler, balıkçı gemileri, gezi tekneleri gibi küçük ve orta ölçekli deniz araçları) veya belirli bir seyir bölgesiyle sınırlı sularda çalışır. Çalışma ortamının önemli bir kısmı açık güverte ve köprüüstü olduğundan hava koşullarına (rüzgâr, yağış, dalga, sıcaklık farkları) açık olarak çalışılır; seyir ve haberleşme işlemleri için kaptan köşkü gibi kapalı mekânlarda da görev yapılır.\n\nGörev, vardiya sistemiyle yürütülür; gece, gündüz ve hafta sonu dâhil düzensiz çalışma saatleri söz konusu olabilir. Gemi mürettebatı, liman yetkilileri, yolcular, acente ve işletme personeli ile sürekli iletişim halinde çalışılır. Meslekte deniz kazası, olumsuz hava koşulları ve uzun süreli çalışmaya bağlı yorgunluk gibi riskler bulunur.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi, denizcilik meslek liselerinin ilgili gemi yönetimi/güverte alanlarında ve Ulaştırma ve Altyapı Bakanlığı tarafından yetkilendirilmiş denizcilik eğitim ve kurs merkezlerinde verilmektedir. Ayrıca gerekli deniz hizmetini tamamlayan gemiadamları, İdarenin açtığı sınavlara girerek bu yeterliği kazanabilmektedir.",
+  "giris_kosullari": [
+   "Ortaokul/lise veya dengi okul mezunu olmak (denizcilik meslek lisesine girişte ortaokul mezuniyeti yeterli olabilir)",
+   "Gemiadamı olmaya engel bir sağlık durumunun bulunmaması (sağlık kurulu raporu)",
+   "Gemiadamları Yönetmeliği'nde belirtilen yaş şartlarını taşımak",
+   "Yönetmelikte öngörülen eğitim ve deniz hizmeti şartlarını yerine getirmek"
+  ],
+  "sure_ve_icerik": "Denizcilik meslek liselerinde eğitim süresi genellikle 4 yıldır; seyir bilgisi, gemi manevrası, denizcilik İngilizcesi, denizde güvenlik, meteoroloji, gemi yönetimi gibi mesleki dersler ağırlıklı olmak üzere genel kültür dersleri de okutulur. Eğitim sürecinde gemide staj/deniz hizmeti yapma zorunluluğu bulunur. Örgün eğitim sonrasında, Gemiadamları Yönetmeliği'nde belirlenen süre kadar deniz hizmetini tamamlayan ve ilgili sınavda başarılı olanlar Sınırlı Kaptan yeterliğini kazanır.",
+  "belge": "Eğitim ve gerekli deniz hizmetini tamamlayarak ilgili sınavda başarılı olanlara, Gemiadamları Yönetmeliği kapsamında \"Sınırlı Kaptan\" yeterlik belgesi verilir."
+ },
+ "calisma_alanlari": "Sınırlı Kaptanlar; kabotaj hattında çalışan kıyı gemilerinde, yolcu motorlarında, feribotlarda, römorkörlerde, balıkçı gemilerinde, tur ve gezi teknelerinde, liman işletmelerinde ve özel denizcilik şirketlerinde görev alabilirler. Türkiye'nin uzun kıyı şeridi ile deniz taşımacılığı, turizm ve balıkçılık sektörlerindeki hareketlilik nedeniyle iş bulma olanakları orta-iyi düzeydedir; ancak görev yapılabilecek gemi tonajı ve seyir bölgesi sınırlı olduğundan çalışma alanı, daha yüksek yeterliklere (uzak yol gibi) göre kısıtlıdır.",
+ "kazanc": {
+  "egitim_suresince": "Örgün eğitim sürecinde öğrenciler okulun sağladığı burs ve yurt gibi imkânlardan yararlanabilir; staj/deniz hizmeti döneminde çalıştıkları işletmeden ücret alabilirler.",
+  "egitim_sonrasi": [
+   "Kamu kurum ve kuruluşlarında (liman başkanlıkları, belediye deniz işletmeleri vb.) istihdam edilenler, 657 sayılı Devlet Memurları Kanunu'na veya ilgili personel mevzuatına tabi olarak ücret alır.",
+   "Özel sektörde çalışanların kazancı; işletmenin büyüklüğü, görev yapılan gemi tipi, kişinin deneyimi ve sektördeki ücret düzeyine göre değişebilir; yeni başlayanlarda kazanç genellikle asgari ücret düzeyinde olup deneyimle birlikte artış gösterir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Sınırlı Kaptan yeterliğine sahip olanlar, Gemiadamları Yönetmeliği'nde öngörülen ek deniz hizmeti süresini ve gerekli eğitim/sınav şartlarını tamamladıklarında daha üst yeterliklere (daha yüksek tonajlı gemilerde veya daha geniş seyir bölgelerinde görev yapmaya olanak veren kaptanlık yeterliklerine) geçiş yapabilirler. İsteyenler ayrıca deniz ulaştırma ile ilgili ön lisans/lisans programlarına sınav ve kontenjan şartlarıyla yönelerek eğitimlerini ilerletebilirler.",
+  "is_hayatinda": "Deneyim kazandıkça daha büyük tonajlı gemilerde veya daha geniş seyir bölgelerinde görev alabilecek yeterliklere yükselebilirler. Ayrıca denizcilik işletmelerinin operasyon, liman veya acentecilik birimlerinde idari görevlere geçiş yapma olanakları bulunmaktadır."
+ },
+ "benzer_meslekler": [
+  "Dok Kaptanı",
+  "Gemi İdarecisi (Güverte Kaptanı)",
+  "Gemi Süvarisi (İç Sularda)",
+  "Yat Kaptanı",
+  "Romorkör Kaptanı",
+  "Feribot Kaptanı"
+ ],
+ "ek_bilgiler": "Sınırlı Kaptan yeterliği, görev yapılabilecek gemi tonajı ve/veya seyir bölgesi açısından sınırlıdır; bu sınırlar Gemiadamları Yönetmeliği'nde belirlenir ve kişinin yeterlik belgesinde açıkça gösterilir. Meslek, denizcilikle ilgili düzenlemelere ve sağlık şartlarına tabi olup, Mesleki Yeterlilik Kurumu (MYK) belgesi gibi ek belgeler istihdamda tercih sebebi olabilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T11:55:19",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 7005
+  }
+ }
+}

@@ -1,0 +1,76 @@
+{
+ "arac_gerec": [
+  "Kesme makineleri (giyotin makas, el makası, şerit testere)",
+  "Bükme makineleri (abkant pres, silindir bükme makinesi, caka)",
+  "Delme makineleri (matkap tezgâhı, zımba makinesi, el breyzi)",
+  "Kaynak makineleri (elektrik ark, oksi-gaz, TIG/MIG-MAG kaynak cihazları)",
+  "Lehim takımı ve pirinç kaynağı ekipmanı",
+  "Doğrultma araçları (çekiç, tokmak, örs, altlık, pleyt)",
+  "Ölçme ve işaretleme araçları (metre, gönye, çizecek, pergel, su terazisi)",
+  "Taşlama ve zımparalama makineleri",
+  "Mengene, kriko, çektirme",
+  "Kişisel koruyucu donanım (iş eldiveni, koruyucu gözlük, kaynak maskesi, iş elbisesi)"
+ ],
+ "benzer_meslekler": [
+  "Metal Levha İşlemecisi",
+  "Diğer Metal Levha İşçileri",
+  "Sac İşçisi",
+  "Metal Sac İşleme İşçisi",
+  "Tenekeci-İmalat",
+  "Teneke Kutu İmal İşçisi"
+ ],
+ "calisma_alanlari": "Metal levha işçileri; metal işleme ve sac imalat atölyelerinde, küçük ve orta ölçekli metal imalathanelerinde, makine ve ekipman üretimi yapan fabrikalarda, çelik konstrüksiyon ve yapı malzemesi üreten işletmelerde, kazan, radyatör, soba, baca ve benzeri metal eşya imalatı yapan firmalarda, bakım-onarım atölyelerinde çalışabilirler.\\n\\nMesleki bilgi ve deneyimini artıranlar kendi atölyelerini açarak bağımsız olarak da çalışabilirler.",
+ "calisma_ortami": "Metal levha işçileri genellikle kapalı mekânlarda, atölye ve imalathanelerde çalışır. Çalışma ortamı metal tozu, kaynak dumanı ve gürültü içerebilir; kesici, delici ve ısıtıcı araçlarla çalışıldığından iş kazası riski bulunur, bu nedenle kişisel koruyucu donanım kullanımı önemlidir. Çalışma genellikle ayakta ve bazen eğilerek yapılır, iş yoğunluğuna göre vardiyalı çalışma söz konusu olabilir.\\n\\nMeslek mensupları çalışma süresince usta, çalışma arkadaşları, atölye sahibi/işveren ve bazı durumlarda müşterilerle sürekli iletişim halinde bulunur; ekip çalışmasına ve ustadan talimat almaya uygun olmaları gerekir.",
+ "ek_bilgiler": "Kaynak, kesme ve bükme işlemleri nedeniyle iş sağlığı ve güvenliği kurallarına uyum büyük önem taşır; bazı iş kolları tehlikeli işler kapsamında değerlendirilebileceğinden işyerinde ilgili güvenlik eğitimleri alınması gerekir. Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda ve işe alımlarda tercih sebebi olabilir.",
+ "egitim": {
+  "verildigi_yerler": "Meslek eğitimi, yeterli talep olması durumunda mesleki eğitim merkezlerinde \"Metal Teknolojisi\" alanı kapsamında çıraklık (kalfalık-ustalık) eğitimi olarak verilmektedir. Ayrıca Halk Eğitim Merkezleri ve İŞKUR tarafından açılan kurslarla da mesleğe yönelik temel beceriler kazandırılabilmektedir.",
+  "giris_kosullari": [
+   "En az ortaokul mezunu olmak",
+   "Zorunlu eğitim çağında olanlar için eğitim seviyesine uygun mesleki eğitim programına kayıt yaptırmak",
+   "14 yaşını doldurmuş olmak",
+   "Mesleğin gerektirdiği işleri yapmaya sağlık durumunun uygun olması (gerektiğinde sağlık raporu ile belgelenir)",
+   "Eğitim görülecek işyeri bulup işveren ile çıraklık sözleşmesi imzalamak"
+  ],
+  "sure_ve_icerik": "Mesleki eğitim merkezlerinde eğitim süresi ilköğretim sonrası toplam 4 yıldır; bunun 3 yılı kalfalık, 1 yılı ustalık eğitimine ayrılır. Eğitim, haftada 1 gün mesleki eğitim merkezinde teorik ders, 4 gün işyerinde usta öğreticinin gözetiminde uygulamalı çalışma şeklinde yürütülür. Dersler genel kültür dersleri ile meslek bilgisi ve uygulama derslerinden oluşur. Çıraklık eğitimi dışında, Halk Eğitim Merkezi veya İŞKUR kurslarına katılarak da mesleğin temel becerileri kazanılabilir ve işbaşında usta yanında deneyim kazanılarak ilerlenebilir.",
+  "belge": "Mesleki eğitim merkezini başarıyla tamamlayanlara kalfalık belgesi, devamında ustalık eğitimini tamamlayanlara ustalık belgesi verilir. Fark derslerinin tamamlanması halinde meslek lisesi diploması alınabilir. Kurs yoluyla eğitim alanlara ise kurs bitirme/katılım belgesi verilir."
+ },
+ "genel_ozellikler": [
+  "El ve kol kaslarını iyi kullanabilen, fiziksel olarak dayanıklı,",
+  "El ve göz koordinasyonuna sahip,",
+  "Şekil ve uzay ilişkilerini görebilen,",
+  "Dikkatli ve tedbirli,",
+  "Alet, makine ve ekipmanlarla çalışmaktan hoşlanan,",
+  "Sabırlı, düzenli ve titiz çalışabilen,",
+  "Talimatları doğru uygulayabilen, ekip içinde uyumlu çalışabilen kişiler olmaları gerekir."
+ ],
+ "gorevler": [
+  "Metali seçerek üzerini proje veya diğer şartnamelere göre işaretler,",
+  "İstampa veya mastarlar yardımıyla metali keser, kalıplar, büker veya döverek şekil verir,",
+  "Perçin, cıvata ve vida yuvaları için zımba veya matkapla delikler açar,",
+  "Parçaları birleştirip kaynak, lehim, pirinç kaynağı, cıvata, perçin, vida veya diğer yöntemlerle sabitler,",
+  "Yüzeyleri düzelterek eşyayı yerine takar,",
+  "Tamir işlerini yapar,",
+  "Şekil verebilmek için gerektiğinde parçaları önceden ısıtır,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleki eğitim merkezinden mezun olanlar, meslekle ilgili alanın devamı niteliğindeki yükseköğretim programlarına sınavla veya sınavsız geçiş yapabilir. Ustalık belgesi alanlar usta öğreticilik eğitimi alarak çıraklık eğitimine katkıda bulunabilir; ayrıca ilgili kurslarla kaynakçılık gibi yakın alanlarda ek sertifikalar edinebilirler.",
+  "is_hayatinda": "Deneyim kazanan metal levha işçileri; ekip lideri, ustabaşı veya atölye şefi olarak görev alabilir. Yeterli sermaye ve deneyime sahip olanlar kendi atölyelerini açarak işveren konumuna geçebilirler."
+ },
+ "kazanc": {
+  "egitim_suresince": "Mesleki eğitim merkezinde çıraklık eğitimi gören öğrencilere, 3308 sayılı Mesleki Eğitim Kanunu kapsamında yaşlarına ve işletme büyüklüğüne göre asgari ücretin belirli bir oranından az olmamak üzere ücret ödenir; öğrencilerin iş kazası ve meslek hastalığı sigorta primleri devletçe karşılanır. Kurslarla eğitim alanlarda ise genellikle ücret söz konusu değildir.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç elde eder.",
+   "Çalışılan işyerinin büyüklüğü, kişinin tecrübesi, bilgi ve becerisi ile sektörün ücret düzeyine göre kazanç değişebilir; özel sektörde ücretler karşılıklı anlaşmaya göre belirlenir.",
+   "Kendi işyerini açanların kazancı, işin hacmine ve piyasa koşullarına göre değişkenlik gösterir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T00:24:43",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5475
+  }
+ }
+}

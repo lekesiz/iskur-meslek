@@ -1,0 +1,74 @@
+{
+ "gorevler": [
+  "Plastik levha üzerinde montajı yapılacak parçaların kesilecek yerlerini işaretler",
+  "Bıçak, makas veya elektrikle çalışan kesme makinesi kullanarak plastik levhayı işaretli yerlerinden keser",
+  "Kestiği parçaları birbirine eklenecek şekilde yerlerine koyar ve ek yerleri ile hava sübaplarını düzenler",
+  "Parçaların kenarlarına zamk sürer",
+  "Sıcak ütü veya elektrikli bir makineyle yapıştırılan kenarları su geçirmez hale getirir ve makasla kenarları düzeltir",
+  "İmal edilen eşyalarda hata olup olmadığını kontrol eder ve gerekli düzeltmeleri yapar",
+  "Mamul üzerindeki işaret ve kirleri temizler",
+  "Mesleki gelişim faaliyetlerinde bulunur"
+ ],
+ "arac_gerec": [
+  "Plastik levha ve mamul hammaddeleri",
+  "İşaretleme kalemi, şablon ve mastarlar",
+  "El makası",
+  "Kesim bıçağı",
+  "Elektrikli plastik kesme makinesi",
+  "Zamk, yapıştırıcı ve fırça",
+  "Sıcak ütü",
+  "Yüksek frekanslı (elektrikli) kaynak/yapıştırma makinesi",
+  "Hava sübapları ve bağlantı parçaları",
+  "Kontrol mastarı ve ölçüm aletleri",
+  "Temizlik bezi ve solventi",
+  "Kişisel koruyucu donanım (iş eldiveni, önlük)"
+ ],
+ "genel_ozellikler": [
+  "El ve parmak becerisine sahip,",
+  "Gözlerini ve ellerini eşgüdümle kullanabilen,",
+  "Dikkatli ve titiz,",
+  "Hızlı ve seri çalışabilen,",
+  "Tekrarlı işleri yapmaktan sıkılmayan,",
+  "Küçük parçalarla çalışmaya yatkın,",
+  "Sabırlı ve düzenli"
+ ],
+ "calisma_ortami": "Plastik mamuller montaj işçisi, genellikle kapalı ortamda, fabrika veya atölyelerde çalışır. Çalışma ortamında plastik levha, zamk ve yapıştırıcı kokusu, kesme ve ısıtma işlemlerinden kaynaklanan ısı bulunabilir; bu nedenle iş sağlığı ve güvenliği kurallarına, havalandırma ve koruyucu ekipman kullanımına dikkat edilmesi gerekir. İş genellikle oturarak veya ayakta, masa veya tezgah başında yürütülür ve elle yoğun, tekrarlayan hareketler içerir.\n\nÇalışma saatleri işyerinin üretim programına göre belirlenir; sipariş yoğunluğuna bağlı olarak vardiyalı çalışma veya mesai söz konusu olabilir. Meslek elemanı, çalışırken iş arkadaşları, ustabaşı ve kalite kontrol sorumlularıyla iletişim halindedir.",
+ "egitim": {
+  "verildigi_yerler": "Bu meslek için örgün eğitimde ayrı bir meslek lisesi alanı veya dalı bulunmamaktadır. Meslek, genellikle işyerlerinde usta yanında çalışarak, uygulamalı olarak (işbaşı eğitimi ile) öğrenilir. Halk Eğitim Merkezleri ile İŞKUR tarafından açılan mesleki eğitim kurslarında plastik işleme veya montaj konularında kısa süreli kurslar düzenlenebilir.",
+  "giris_kosullari": [
+   "En az ilköğretim okulu mezunu olmak",
+   "Bünyesi ve sağlık durumunun mesleğin gerektirdiği işleri yapmaya uygun olması",
+   "El becerisi gerektiren işlere yatkın olmak"
+  ],
+  "sure_ve_icerik": "Mesleğin örgün bir eğitim süresi bulunmamaktadır. İşyerlerinde usta gözetiminde çalışılarak, genellikle birkaç haftadan birkaç aya kadar süren bir uygulamalı eğitim sonucunda temel işlemler (kesim, yapıştırma, su geçirmez hale getirme, kontrol) öğrenilebilir. Açılabilecek kısa süreli kurslarda ise plastik malzeme tanıma, kesme ve birleştirme teknikleri, iş güvenliği ve kalite kontrol konularında bilgi ve beceri kazandırılır.",
+  "belge": "İşyerinde usta yanında çalışarak mesleği öğrenenlere resmî bir diploma verilmez; çalıştığı işyerinden iş deneyim belgesi alabilirler. Kurs yoluyla eğitim alanlara, kursu düzenleyen kurumca katılım veya başarı belgesi verilebilir. Mesleki Yeterlilik Kurumu (MYK) tarafından düzenlenmiş bir ulusal yeterlilik bulunması halinde alınacak MYK Mesleki Yeterlilik Belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Plastik mamuller montaj işçisi; çanta, hava şişirmeli oyuncak, şişme havuz, su geçirmez örtü, branda, plastik ambalaj ve benzeri plastik mamullerin üretildiği fabrika ve atölyelerde çalışabilir. Bu işletmelerde montaj, kesim ve yapıştırma bölümlerinde görev alır. Plastik mamul üretimi, iç ve dış piyasa talebine bağlı olarak değişkenlik gösterebilir; özellikle ihracata yönelik üretim yapan işletmelerde istihdam olanağı bulunmaktadır.",
+ "kazanc": {
+  "egitim_suresince": "İşyerinde usta yanında çalışarak mesleği öğrenenlere, işveren ile yapılan anlaşmaya bağlı olarak değişen miktarlarda ücret ödenebilir; bu dönemde genellikle asgari ücret düzeyinde veya altında bir kazanç söz konusu olabilir. Mesleki eğitim kapsamında işletmelerde eğitim görülmesi halinde 3308 sayılı Mesleki Eğitim Kanunu hükümleri uygulanır.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç elde eder",
+   "Deneyim ve beceri arttıkça, çalışılan işletmenin büyüklüğüne ve üretim hacmine göre ücret artabilir",
+   "Özel sektörde ücret, işveren ile çalışan arasındaki anlaşmaya göre belirlenir"
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Bu meslekte örgün mesleki eğitimde basamaklı bir ilerleme sistemi bulunmamaktadır. Deneyim kazandıkça işyeri içinde daha nitelikli işlerde görevlendirilebilir ve usta konumuna yükselebilir.",
+  "is_hayatinda": "Deneyim kazanan montaj işçileri, ekip veya vardiya sorumluluğu üstlenebilir, kalite kontrol görevlerinde çalışabilir ya da yeni işe başlayan elemanların yetişmesine usta olarak katkıda bulunabilir. Yeterli birikim ve sermayeye sahip olanlar, kendi atölyelerini açarak işveren konumuna geçebilir."
+ },
+ "benzer_meslekler": [
+  "Metal Mamuller Montaj İşçisi",
+  "Kauçuk Mamuller Montaj İşçisi",
+  "Deri Eşya Montajcısı",
+  "Evsel ve Endüstriyel Su Arıtma Cihazları İmal İşçisi"
+ ],
+ "ek_bilgiler": "Çalışma sırasında kesici alet ve ısıtıcı ekipman kullanıldığından, iş güvenliği kurallarına ve kişisel koruyucu donanım kullanımına dikkat edilmesi gerekir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T17:56:01",
+  "usage": {
+   "input_tokens": 4,
+   "output_tokens": 6488
+  }
+ }
+}

@@ -1,0 +1,75 @@
+{
+ "arac_gerec": [
+  "Bağdadi çubukları (kamış, ahşap veya metal çıta)",
+  "Çivi ve bağlama teli",
+  "Çekiç",
+  "Kerpeten",
+  "Testere veya makasla çıta kesme aletleri",
+  "Matkap veya delici el aletleri",
+  "Metre ve çekül",
+  "Su terazisi",
+  "Merdiven veya iskele",
+  "Alçı levha, mastik levha ve mantar levha gibi destek malzemeleri",
+  "Koruyucu eldiven, gözlük ve baret"
+ ],
+ "benzer_meslekler": [
+  "Sıvacı",
+  "Diğer Sıvacılar",
+  "Sıvacı (Çimento Alçı)",
+  "Sıvacı-Elyaflı Malzeme",
+  "Sıvacı-Tezyinat",
+  "Alçı Levha Uygulayıcısı",
+  "Alçı Sıva Uygulayıcısı",
+  "Alçı Dekorasyoncu (Kartonpiyer)"
+ ],
+ "calisma_alanlari": "Tirizci (Bağdadi İşçisi) genellikle özel sektöre ait inşaat ve yapı tamamlama firmalarında, taşeron ekiplerde veya kendi nam ve hesabına serbest olarak çalışır. Modern konut ve işyeri yapımında alçıpan, metal taşıyıcı profil ve hazır asma tavan sistemlerinin yaygınlaşması nedeniyle bağdadi tekniğine olan talep azalmış olup, bu meslek günümüzde daha çok tarihi ve geleneksel yapıların onarım-restorasyon çalışmalarında, bazı kırsal yapılarda ve özel taleplerde uygulanmaktadır.\n\nBu nedenle meslek elemanları çoğu zaman genel sıva veya yapı tamamlama işleri içinde bağdadi uygulamasını bilen, birden fazla beceriye sahip kişiler olarak istihdam edilmekte; iş bulma imkânı, inşaat sektörünün genel durumuna ve restorasyon projelerinin sayısına bağlı olarak değişkenlik göstermektedir.",
+ "calisma_ortami": "Tirizci (Bağdadi İşçisi) genellikle inşaat halindeki veya onarım/restorasyon gören binaların iç ve bazen dış mekânlarında çalışır. Çalışma ortamı tozlu olabilir; iş, bina içinde yükseklerde (tavan, üst kat duvarları) yapıldığından sık sık merdiven veya iskele üzerinde çalışmayı gerektirir. Çivi, tel, kesici ve delici el aletleriyle çalışıldığından yaralanma riski bulunur; bu nedenle iş sağlığı ve güvenliği kurallarına, kişisel koruyucu donanım kullanımına özen gösterilmesi gerekir.\n\nÇalışma saatleri genellikle inşaat sektörünün iş temposuna göre değişir ve hava koşullarından, inşaatın ilerleme durumundan etkilenebilir. Meslek elemanı işini çoğunlukla usta, kalfa ve diğer yapı işçileriyle (sıvacı, elektrikçi, tesisatçı gibi) birlikte, ekip hâlinde yürütür; iş sahipleri ve şantiye sorumlularıyla da iletişim hâlindedir.",
+ "egitim": {
+  "verildigi_yerler": "Bu meslek için örgün bir okul programı veya özel bir diploma programı bulunmamaktadır. Meslek genellikle ustasının yanında çıraklık yoluyla işbaşında öğrenilmekte; ayrıca Halk Eğitim Merkezleri ile İşkur'un açtığı inşaat, sıva ve yapı tamamlama işleriyle ilgili mesleki eğitim kurslarında da temel bilgi ve beceriler kazanılabilmektedir.",
+  "giris_kosullari": [
+   "Okuryazar olmak yeterlidir; kursa göre ilköğretim mezuniyeti aranabilir",
+   "18 yaşından küçükler için veli izni gerekir",
+   "İşin fiziksel gerekliliklerini (yükseklikte çalışma, el becerisi gerektiren işler) yerine getirebilecek sağlık durumuna sahip olmak"
+  ],
+  "sure_ve_icerik": "Resmî olarak belirlenmiş sabit bir eğitim süresi bulunmamaktadır; süre ve içerik, katılınan kursa veya işbaşında çıraklık sürecine göre değişir. Eğitim genellikle çerçeve kurma, bağdadi çubuğu kesme ve döşeme, bağlama teknikleri, alçı ve sıva destek malzemelerinin uygulanması gibi uygulamalı konuları kapsar.",
+  "belge": "Halk Eğitim Merkezi veya benzeri kurumlarda kursu tamamlayanlara Kurs Bitirme Belgesi verilebilir. İşbaşında usta yanında yetişenler için resmî bir diploma söz konusu değildir; Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "ek_bilgiler": "Bağdadi (tiriz) tekniği, günümüzde alçıpan, metal taşıyıcı profil ve hazır asma tavan sistemlerinin yaygınlaşmasıyla eski yaygınlığını yitirmiş; daha çok tarihi bina onarımı ve restorasyon çalışmalarında tercih edilen özel bir uygulama hâline gelmiştir. Bu nedenle meslekte uzmanlaşmış eleman sayısı sınırlıdır ve genellikle genel sıva/yapı tamamlama becerileriyle birlikte uygulanmaktadır.",
+ "genel_ozellikler": [
+  "El becerisine sahip,",
+  "Fiziksel olarak güçlü ve dayanıklı,",
+  "Yükseklikte çalışmaktan çekinmeyen,",
+  "El ve gözünü eşgüdümle kullanabilen,",
+  "Dikkatli ve sabırlı,",
+  "Düzenli ve tertipli çalışabilen,",
+  "Ekip çalışmasına yatkın,",
+  "Talimatları eksiksiz uygulayabilen,"
+ ],
+ "gorevler": [
+  "Çıtaların tespit edilebilmesi için duvarlara gerekli çerçeveleri kurar.",
+  "Bağdadi çubuklarını gereken boylarda keser; elektrik armatürleri, ısıtma ve havalandırma boruları veya diğer teçhizat için gerekli geçit deliklerini açar.",
+  "Bağdadileri çivi veya tellerle duvar üzerindeki çerçeveye ya da tavan kirişlerine bağlar.",
+  "Sıvanın tutunabilmesi için alçı levha, mastik levha ve mantar levha gibi malzemeleri tespit eder.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Meslek için resmî ve kademeli bir eğitim/sınav basamağı (kalfalık-ustalık gibi) bulunmamaktadır. Zaman içinde edinilen deneyimle kişi çıraklıktan kalfalığa, kalfalıktan ustalığa geçebilir.",
+  "is_hayatinda": "Deneyim ve bilgi birikimi arttıkça ekip lideri veya usta konumuna yükselebilir; kendi işini kurup serbest çalışabilir ya da küçük ölçekli taşeron olarak iş alabilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Eğitim genellikle işbaşında ustanın yanında yapıldığından, bu dönemde çırağa sembolik bir ücret veya asgari ücretin altında bir harçlık ödenebilir; kurslarda ise ayrıca bir kazanç söz konusu değildir.",
+  "egitim_sonrasi": [
+   "Yeni başlayanlar genellikle asgari ücret düzeyinde kazanç elde eder.",
+   "Özel sektörde çalışanların ücreti, işyerinin büyüklüğü, işin niteliği, kişinin deneyimi ve becerisine göre karşılıklı anlaşmayla belirlenir.",
+   "Herhangi bir kamu kurumunda işçi statüsünde çalışanların ücretleri ilgili toplu iş sözleşmesi hükümlerine göre belirlenir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T23:08:32",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5654
+  }
+ }
+}

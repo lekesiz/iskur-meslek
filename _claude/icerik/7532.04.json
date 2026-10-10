@@ -1,0 +1,72 @@
+{
+ "arac_gerec": [
+  "Falçata",
+  "Özel kesim bıçağı",
+  "Elektrikli testere/şerit testere",
+  "Kesim masası",
+  "Bileyi taşı ve şeridi",
+  "Mezura, metre ve cetvel",
+  "Kesim şablonu/kalıbı",
+  "Kauçuk, sünger ve köpük malzeme çeşitleri",
+  "Kesik önleyici eldiven",
+  "Koruyucu gözlük ve maske",
+  "İş önlüğü",
+  "Bıçak koruyucu kılıf",
+  "İşaretleme kalemi"
+ ],
+ "genel_ozellikler": [
+  "El becerisine sahip,",
+  "Dikkatli ve temkinli,",
+  "El-göz koordinasyonu gelişmiş,",
+  "Şekil ve ölçü algısı iyi,",
+  "Fiziksel olarak dayanıklı,",
+  "Sabırlı,",
+  "Ekip çalışmasına uyumlu,",
+  "Talimatlara uyan"
+ ],
+ "calisma_ortami": "Diğer modelciler ve biçiciler, sutyen, mayo ve döşemelik ürün imalatı yapan tekstil, konfeksiyon ve döşeme atölyeleri ile fabrikaların kesim bölümlerinde, kapalı mekânlarda çalışır. Çalışma genellikle ayakta ve kesim masası başında yürütülür; elektrikli testere ve falçata gibi kesici aletlerin kullanımı nedeniyle iş kazası riski bulunduğundan iş güvenliği kurallarına ve koruyucu ekipman kullanımına dikkat edilmesi gerekir. Ortamda kesinti sırasında oluşan toz ve gürültü bulunabilir.\n\nÇalışma saatleri işyerinin üretim temposuna göre değişebilir, dönemsel olarak yoğun sipariş dönemlerinde fazla çalışma gerekebilir. Meslek elemanı; atölye/üretim sorumlusu, kalite kontrol elemanı ve diğer üretim çalışanlarıyla sürekli iletişim halindedir.",
+ "gorevler": [
+  "Sutyen, mayo ve döşeme imalatında kullanılan kauçukları falçata, özel bıçak veya elektrikli testere ile keser.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Bu meslek için ayrı bir örgün meslek lisesi alanı/dalı bulunmamaktadır. Meslek genellikle ilgili tekstil, konfeksiyon veya döşemecilik işletmelerinde işbaşında usta yanında çalışılarak öğrenilir. Ayrıca Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kursları ile ilgili mesleki ve teknik eğitim programları da beceri kazandırabilir.",
+  "giris_kosullari": [
+   "İlköğretim mezunu olmak",
+   "Mesleğin gerektirdiği fiziksel ve sağlık koşullarına uygun olmak (el-kol sağlığının elverişli olması)",
+   "Kesici aletleri (falçata, elektrikli testere vb.) güvenli biçimde kullanabilecek beceriye sahip olmak veya kazanabilecek yatkınlıkta olmak"
+  ],
+  "sure_ve_icerik": "Mesleğin resmî olarak tanımlanmış sabit bir eğitim süresi ve müfredatı bulunmamaktadır. Kişiler genellikle işyerinde usta gözetiminde çalışarak malzeme (kauçuk, sünger, köpük) özelliklerini tanımayı, uygun kesim tekniğini seçmeyi, falçata, özel bıçak ve elektrikli testere kullanımını ve iş güvenliği kurallarını öğrenir. Bu süreç kişinin önceki becerisine göre birkaç aydan bir yıla kadar sürebilir.",
+  "belge": "Çalışılan işletmeden alınan deneyim/çalışma belgesi, katılınan kurslardan alınan kurs bitirme belgesi verilebilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, varsa ilgili alanda, istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Diğer modelciler ve biçiciler; sutyen, mayo ve iç giyim üretimi yapan tekstil ve konfeksiyon işletmelerinde, döşemelik mobilya ve yatak imalatı yapan fabrika ve atölyelerde, bu ürünlerde kullanılan kauçuk, sünger ve köpük malzemelerin kesildiği üretim bölümlerinde çalışabilirler. Sektörün büyüklüğüne göre küçük atölyelerden büyük ölçekli fabrikalara kadar farklı işletmelerde istihdam olanağı bulunmaktadır.",
+ "kazanc": {
+  "egitim_suresince": "Bu meslek için sabit süreli ve resmî ücret düzenlemesi bulunan bir çıraklık programı yaygın değildir. İşyerinde çalışarak öğrenenler genellikle asgari ücret düzeyinde ücret alır.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanların kazancı genellikle asgari ücret düzeyindedir.",
+   "Kazanç; çalışılan işletmenin büyüklüğü, bölge, mesleki deneyim ve beceriye göre değişebilir.",
+   "Bu meslekte çalışanlar genellikle özel sektörde işveren ile karşılıklı anlaşma esasına göre istihdam edilir; kamuda bu meslekte doğrudan istihdam yaygın değildir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Bu meslek için kademeli (kalfalık-ustalık gibi) örgün bir ilerleme sistemi yaygın olarak tanımlanmamıştır. İsteyenler, ilgili tekstil/giyim üretim teknolojisi veya döşemecilik alanındaki mesleki eğitim kurumlarına ya da kurslara katılarak bilgi ve becerilerini geliştirebilir.",
+  "is_hayatinda": "Deneyim kazanan çalışanlar usta işçi, kesim şefi veya atölye/üretim sorumlusu gibi görevlere yükselebilir. Yeterli bilgi, beceri ve sermaye birikimine sahip olanlar kendi küçük işletmelerini açabilir."
+ },
+ "benzer_meslekler": [
+  "Kesimci (Giyim)",
+  "Eldiven Biçici (Diğer)",
+  "Eldiven Biçici (Deri)",
+  "Makastar",
+  "Kumaş Kesme Makinesi İşçisi",
+  "Mobilya Döşeme Kesim İşçisi"
+ ],
+ "ek_bilgiler": "Bu meslekte kauçuk, sünger ve köpük gibi malzemelerin falçata, özel bıçak veya elektrikli testere ile kesilmesi söz konusu olduğundan, kesik önleyici eldiven, koruyucu gözlük gibi kişisel koruyucu donanımların kullanılması ve iş güvenliği kurallarına uyulması önemlidir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T08:30:29",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5233
+  }
+ }
+}

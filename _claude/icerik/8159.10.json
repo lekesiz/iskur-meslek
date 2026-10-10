@@ -1,0 +1,74 @@
+{
+ "arac_gerec": [
+  "Vatka makinesi",
+  "Yapıştırıcı (tutkal) hazırlama makinesi",
+  "Pamuk elyaf katları/toplar",
+  "Tutkal verme silindirleri",
+  "Döner merdaneler",
+  "Tartı (baskül)",
+  "Üretim/kalite kayıt defteri veya formları",
+  "Bakım ve ayar el aletleri (anahtar takımı, yağlama ekipmanı)",
+  "Kişisel koruyucu donanım (eldiven, toz maskesi, kulaklık)"
+ ],
+ "genel_ozellikler": [
+  "El ve göz koordinasyonu iyi olan,",
+  "Dikkatli ve titiz çalışabilen,",
+  "Makine ve teknik sistemlerle çalışmaya istekli,",
+  "Fiziksel olarak dayanıklı ve ayakta çalışabilen,",
+  "Sorumluluk sahibi,",
+  "Ekip halinde çalışmaya uyumlu,",
+  "Tozlu ortamda çalışmaya engeli olmayan"
+ ],
+ "calisma_ortami": "Vatka makinesi işçileri, pamuklu iplik ve dokuma fabrikalarının elyaf hazırlama bölümlerinde, kapalı ve genellikle gürültülü ortamlarda çalışırlar. Çalışma ortamında pamuk lifi tozu ve yapıştırıcı madde kokusu bulunabilir; bu nedenle havalandırma ve kişisel koruyucu donanım kullanımı önemlidir. Görev genellikle ayakta ve makine başında yürütülür; işyerinin üretim düzenine göre vardiyalı çalışma söz konusu olabilir.\n\nÇalışma süresince makine, elyaf ve yapıştırıcı maddelerle yakından ilgilenilir. Meslek elemanı; vardiya arkadaşları, bölüm ustası/şefi ve bakım personeli ile sürekli iletişim içindedir.",
+ "gorevler": [
+  "Elyafı sertleştirmek için kullanacağı yapıştırıcı maddeleri hazırlama makinesinde hazırlar,",
+  "Sarılı bulunan pamuk elyafını vatka makinesinin teknesine yerleştirir,",
+  "Elyafın ucunu bularak makinenin tutkal verme silindirlerinden geçirip döner merdaneler üzerine koyar,",
+  "Makinenin çalışma hızını ve makineye verilecek tutkal miktarını ayarlayarak makineyi çalıştırır,",
+  "Makinenin çalışmasını ve elyafın yapıştırıcı maddeler içinden geçerek vatka haline gelmesini kontrol eder,",
+  "Makineden geçen elyaf rulolarını yeniler,",
+  "Makineden çıkan vatkaları tartarak kayıtlarını tutar,",
+  "Makinenin bakımını yapar ve küçük arızalarını giderir,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Vatka Makinesi İşçiliği için örgün ve standart bir meslek eğitim programı bulunmamaktadır. Meslek genellikle işyerlerinde işbaşında, deneyimli işçi veya usta gözetiminde öğrenilir. Ayrıca Halk Eğitim Merkezleri ile İŞKUR tarafından açılan tekstil/iplik hazırlama alanındaki mesleki eğitim kursları, bu mesleğe temel bilgi ve beceri kazandırabilir.",
+  "giris_kosullari": [
+   "En az ilköğretim (ilkokul/ortaokul) mezunu olmak",
+   "Çalışma hayatına girmek için gereken yasal yaş sınırını taşımak",
+   "Ayakta ve makine başında çalışmaya bedensel olarak uygun olmak"
+  ],
+  "sure_ve_icerik": "Mesleğin standart bir eğitim süresi ve müfredatı yoktur. İşe yeni başlayanlar, işletmenin uyguladığı işbaşı eğitim sürecinde; elyaf hazırlama, yapıştırıcı madde oranlarının ayarlanması, vatka makinesinin çalıştırılması, ürün kontrolü ve basit bakım işlemleri konularında bilgi ve beceri kazanır. Bu süreç işletmeden işletmeye farklılık gösterebilir.",
+  "belge": "Örgün bir diploma veya sertifika programı bulunmamaktadır. Katılınması hâlinde Halk Eğitim Merkezi/İŞKUR kurslarından \"Kurs Bitirme Belgesi\" alınabilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Vatka Makinesi İşçileri, başta pamuklu iplik ve dokuma fabrikaları olmak üzere, tekstil hazırlama (harman-hallaç, tarak, vatka) ünitelerine sahip işletmelerde; hidrofil pamuk ve benzeri nonwoven (dokusuz yüzey) ürün üreten tesislerde istihdam edilirler. Çalışma alanı büyük ölçüde özel sektördeki üretim işletmeleriyle sınırlıdır; kamu kurumlarında bu meslekte istihdam olanağı bulunmamaktadır. İş bulma olanakları, tekstil sanayinin yoğun olduğu bölgelerde daha fazladır.",
+ "kazanc": {
+  "egitim_suresince": "Örgün ve ücretli bir eğitim süreci bulunmadığından, işbaşında eğitim alan kişiler çoğunlukla işletmenin belirlediği düzeyde düşük bir ücret alır veya bu süreç kısa olup ücretsiz geçebilir.",
+  "egitim_sonrasi": [
+   "Yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Deneyim, bilgi düzeyi ve işletmedeki göreve (usta, ustabaşı) bağlı olarak ücret artabilir.",
+   "Özel sektörde ücret, işveren ile işçi arasındaki anlaşmaya ve varsa toplu iş sözleşmesi hükümlerine göre belirlenir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "İşletme bünyesinde düzenlenen hizmet içi eğitimlerle elyaf hazırlama, harman-hallaç, tarak gibi ilgili üretim süreçlerine ait bilgi ve beceriler geliştirilebilir; deneyim arttıkça farklı makinelerde çalışma yetkinliği kazanılabilir.",
+  "is_hayatinda": "Deneyim ve performansa bağlı olarak usta, ustabaşı veya bölüm/vardiya sorumlusu konumuna yükselinebilir."
+ },
+ "benzer_meslekler": [
+  "Harman-Hallaç Makinesi Operatörü",
+  "Elyaf Açma Makineleri Operatörü",
+  "Hidrofil Pamuk İmalat İşçisi",
+  "Tarak Makinesi Operatörü-Tekstil",
+  "Cer Makinesi Operatörü-Tekstil",
+  "Elyaf Kurutma Fırın Operatörü"
+ ],
+ "ek_bilgiler": "Çalışma ortamında pamuk lifi tozu bulunması nedeniyle solunum yolu koruması ve düzenli havalandırma önemlidir; tozlu ortamlara karşı hassasiyeti olan kişiler bu mesleği seçerken sağlık durumlarını dikkate almalıdır.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T14:57:38",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5186
+  }
+ }
+}

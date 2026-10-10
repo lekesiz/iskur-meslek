@@ -1,0 +1,77 @@
+{
+ "arac_gerec": [
+  "Elektrolotik hücreler (elektroliz tankları)",
+  "Karıştırma tankları ve mikserler",
+  "Oksidasyon kazanları/fırınları",
+  "Asit ve kimyasal depolama tankları",
+  "Isıtma kazanları",
+  "Filtre ve süzgeç sistemleri",
+  "Tartım terazisi",
+  "pH metre ve termometre",
+  "Pompa ve vana sistemleri",
+  "Dolum ve ambalajlama ekipmanları (varil, bidon, torba)",
+  "Kişisel koruyucu donanım (eldiven, gözlük, maske, önlük, çizme)",
+  "Numune alma ekipmanları"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve tedbirli,",
+  "Sorumluluk duygusu gelişmiş,",
+  "Talimatlara eksiksiz uyabilen,",
+  "El ve bedensel becerisi gelişmiş,",
+  "Kimyasal maddelerle çalışmaya engel bir sağlık sorunu olmayan,",
+  "Ekip çalışmasına yatkın,",
+  "Fiziksel olarak dayanıklı,",
+  "Koku ve kimyasal maddelere karşı duyarlılığı bulunmayan"
+ ],
+ "calisma_ortami": "Diğer kimyasal işlemciler, sabun, deterjan, zamk/tutkal, nişasta, glikoz, gliserin ve kurşun bileşikleri gibi kimyasal ürünlerin üretildiği fabrika ve imalathanelerde, genellikle kapalı atölye ortamlarında çalışırlar. Çalışma ortamında kimyasal koku, buhar, nem, sıcaklık ve orta-yüksek düzeyde gürültü bulunabilir; kimyasal madde ve asitlerle doğrudan teması söz konusu olduğundan kişisel koruyucu donanım kullanımı önemlidir.\n\nİş genellikle ayakta ve bazı aşamalarda fiziksel efor gerektirecek şekilde yürütülür. Vardiyalı çalışma düzeni görülebilir. Meslek elemanları çoğunlukla kendi iş istasyonlarında bireysel çalışır, ancak üretim sürecinin aşamaları nedeniyle diğer çalışanlar, usta/vardiya amiri ve kalite kontrol personeli ile sürekli iletişim halinde olurlar.",
+ "egitim": {
+  "verildigi_yerler": "Bu meslek için resmî olarak tanımlanmış, standart bir örgün eğitim programı bulunmamaktadır. Meslek genellikle işbaşında, usta yanında uygulamalı olarak öğrenilir. Halk Eğitim Merkezleri ve İŞKUR tarafından açılan kimya/kimyasal ürünler üretimi alanındaki mesleki eğitim kurslarından da yararlanılabilir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "18 yaşını doldurmuş olmak",
+   "Kimyasal maddelerle çalışmaya engel bir sağlık sorunu bulunmamak",
+   "El ve beden becerisini gerektiren işleri yapabilecek fiziksel yeterliğe sahip olmak"
+  ],
+  "sure_ve_icerik": "Standart bir eğitim süresi ve müfredatı resmî olarak belirlenmemiştir. Çalışılan işletmenin ürettiği kimyasal ürüne (sabun, deterjan, zamk, nişasta, glikoz, gliserin, kurşun bileşikleri vb.) göre işbaşında usta yanında kısa süreli uygulamalı eğitimle işin gerektirdiği bilgi ve beceriler kazanılır. İşe başlamadan önce iş sağlığı ve güvenliği eğitimi alınması gerekmektedir.",
+  "belge": "İşbaşı eğitimi sonunda resmî bir diploma verilmez. Katılınan kurslardan 'Kurs Bitirme Belgesi' alınabilir. Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Bu meslek elemanları; sabun, deterjan, zamk/tutkal, nişasta, glikoz, gliserin ve kurşun bileşikleri (sülyen, üstübeç) gibi çeşitli kimyasal ürünlerin üretildiği fabrika ve imalathanelerde, kimya sanayii işletmelerinde istihdam edilirler. Çalışma alanları, işletmenin ürettiği ürüne bağlı olarak üretim hattında farklı süreçlere (karıştırma, yıkama, oksidasyon, hazırlama) yönelik olabilir.",
+ "kazanc": {
+  "egitim_suresince": "Meslek genellikle işbaşında öğrenildiğinden, ayrı bir eğitim dönemi ve bu döneme bağlı kazanç çoğunlukla söz konusu değildir; işbaşında çalışılarak öğrenilen durumlarda kişi, çalıştığı süre için ücret alabilir.",
+  "egitim_sonrasi": [
+   "Kamu kuruluşlarına bağlı üretim tesislerinde çalışanlar işçi statüsünde olup toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde ücretler işletmeye, deneyime ve üretilen ürüne göre değişmekle birlikte, yeni başlayanlar için genellikle asgari ücret düzeyindedir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Bu meslekte örgün bir ilerleme basamağı tanımlanmamıştır. Deneyim kazandıkça elektroliz, oksidasyon, formülasyon gibi farklı kimyasal üretim süreçlerinde uzmanlaşma mümkündür.",
+  "is_hayatinda": "Bilgi, beceri ve deneyim arttıkça usta, ekip lideri, vardiya amiri veya üretim şefi gibi pozisyonlara yükselme imkânı bulunur."
+ },
+ "benzer_meslekler": [
+  "Karıştırma Makinesi Operatörü-Kimyasal Maddeler",
+  "Pişirici (Kimyasal ve İlgili İşlemler)",
+  "Kavurucu (Kimyasal ve İlgili İşlemler)",
+  "Proses İşçisi",
+  "Reaktör İşçisi (Boya)",
+  "Hammadde Hazırlama İşçisi (Boya)"
+ ],
+ "ek_bilgiler": "Bu meslekte kurşun bileşikleri, asit ve çeşitli kimyasal maddelerle çalışma söz konusu olabildiğinden, iş sağlığı ve güvenliği kurallarına ve kişisel koruyucu donanım kullanımına azami özen gösterilmesi gerekmektedir. Üretilen ürüne göre bazı süreçler tehlikeli/çok tehlikeli işler sınıfında değerlendirilebilir; bu durumda ilgili mevzuat gereği ek eğitim ve belgelendirme gerekebilir.",
+ "gorevler": [
+  "Kimyasal mamüllerin işlenmesinde kullanılan elektrolotik hücrelere nezaret eder.",
+  "Kimyasal mamuller istihsalinde kimyasal maddeleri yıkar.",
+  "Kurşunu sülyen yapmak üzere okside eder.",
+  "Üstübeç yapmak için kurşunu asit veya hareretle muamele eder.",
+  "Zamk, kola, nişasta ve glikoz hazırlar.",
+  "Gliserin imal eder.",
+  "Sabun ve deterjan imalinde yer alan işleri yapar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T12:15:14",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5581
+  }
+ }
+}

@@ -1,0 +1,94 @@
+{
+ "arac_gerec": [
+  "Numune alma ekipmanları (kepçe, numune alma sondası, numune kapları)",
+  "Elek takımları ve elek sarsma cihazı",
+  "Özgül yüzey (Blaine) ölçüm cihazı",
+  "Basınç ve eğilme dayanım deney presi",
+  "Harç/çimento hamuru karıştırma mikseri",
+  "Priz süresi tayin cihazı (Vicat iğnesi)",
+  "Genişleme/otoklav deney cihazı",
+  "Etüv ve kül fırını",
+  "Hassas terazi ve elektronik tartı aletleri",
+  "X-ışını floresans (XRF) analiz cihazı",
+  "Cam malzemeler (beher, erlen, pipet, büret, desikatör)",
+  "Su banyosu ve ısıtıcılı karıştırıcı",
+  "Nem ve rutubet ölçüm cihazları",
+  "Numune etiketleme ve kayıt malzemeleri",
+  "Kişisel koruyucu donanım (eldiven, koruyucu gözlük, toz maskesi, kulak tıkacı)"
+ ],
+ "genel_ozellikler": [
+  "Fen bilimlerine, özellikle kimya ve fiziğe ilgi duyan ve bu alanda başarılı,",
+  "Dikkatini uzun süre bir işe verebilen ve ayrıntıyı algılayabilen,",
+  "Titiz, sabırlı ve düzenli çalışan,",
+  "El ve göz koordinasyonu gelişmiş,",
+  "Sorumluluk sahibi ve sonuçları doğru biçimde kayıt altına alabilen,",
+  "Takım halinde çalışmaya uyumlu,",
+  "Toz, gürültü ve kimyasal maddelerin bulunduğu ortamlarda çalışabilecek fiziksel ve sağlık yeterliliğine sahip,",
+  "Kimyasal maddelere karşı alerjisi olmayan,"
+ ],
+ "calisma_ortami": "\"Çimento Test Elemanı genellikle çimento fabrikalarının kalite kontrol laboratuvarlarında, zaman zaman da numune alma amacıyla üretim sahasında (kırma-eleme, öğütme, fırın ve paketleme bölümleri gibi) çalışır. Çalışma ortamı kapalı mekân olmakla birlikte, saha çalışması sırasında toz, gürültü, titreşim ve yüksek sıcaklık gibi fiziksel koşullarla karşılaşılabilir; kimyasal maddelerle çalışırken ve numune hazırlama işlemlerinde kişisel koruyucu donanım kullanımı önemlidir.\\n\\nÇimento fabrikalarının çoğu kesintisiz (vardiyalı) üretim yaptığından bu meslekte vardiyalı çalışma düzeni yaygındır. Çalışma sırasında mühendisler, teknikerler, üretim personeli ve kalite kontrol birimindeki diğer çalışanlarla sık iletişim kurulur; görevler genellikle belirlenen standart ve yönergelere göre bireysel olarak yürütülür, sonuçlar ilgili sorumlulara raporlanır.\"",
+ "egitim": {
+  "verildigi_yerler": "Çimento Test Elemanlığı için Millî Eğitim Bakanlığına bağlı okullarda bu mesleğe özgü ayrı bir alan/dal bulunmamaktadır. Mesleki ve teknik ortaöğretim kurumlarının kimya teknolojisi, kimya laboratuvarı gibi ilgili alanlarından mezun olmak bu mesleğe geçişte avantaj sağlayabilir. Buna karşın, meslek genellikle ortaöğretim mezunlarının çimento fabrikalarında işe alınarak işbaşında, mühendis veya tekniker gözetiminde uygulamalı olarak yetiştirilmesiyle kazanılmaktadır. Ayrıca Mesleki Yeterlilik Kurumu (MYK) ulusal yeterliliklerine dayalı kurslar ile çeşitli kurum ve kuruluşların açtığı laboratuvar/numune alma konulu kısa süreli eğitimlere de katılınabilir.",
+  "giris_kosullari": [
+   "Ortaöğretimi (lise veya dengi okul) tamamlamış olmak",
+   "İlgili işletmenin işe alım şartlarını (sağlık durumu, fiziksel yeterlilik vb.) taşımak",
+   "Kimya ve fen bilimlerine temel düzeyde ilgi ve bilgiye sahip olmak"
+  ],
+  "sure_ve_icerik": "Mesleğe özgü, belirli bir süresi ve müfredatı resmî olarak tanımlanmış bir eğitim programı bulunmamaktadır. Ortaöğretim sonrasında işe başlayan kişiler, işletme bünyesinde numune alma, laboratuvar cihazlarının kullanımı, fiziksel ve kimyasal deney yöntemleri, raporlama ve iş güvenliği konularında işbaşında uygulamalı eğitim alır. Bu süreç işletmenin büyüklüğüne ve uygulamalarına göre değişmekle birlikte genellikle usta/mühendis yanında belirli bir alışma dönemini kapsar.",
+  "belge": "Mesleğe özgü resmî bir diploma veya sertifika bulunmamaktadır. Kişi ortaöğretim diplomasına sahip olmalıdır; işletme içi eğitimler sonunda katılım belgesi verilebilir. Mesleki Yeterlilik Kurumu (MYK) Mesleki Yeterlilik Belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "\"Çimento Test Elemanları esas olarak çimento üretimi yapan fabrikaların kalite kontrol ve Ar-Ge laboratuvarlarında istihdam edilir. Bunun dışında hazır beton, beton, kireç ve diğer inşaat malzemeleri üreten tesislerin laboratuvarlarında benzer görevlerde çalışabilirler. İnşaat sektörünün büyüklüğü ve çimento üretiminin ülke ekonomisindeki yeri dikkate alındığında, bu alandaki istihdam sektörün genel seyrine bağlı olarak değişkenlik gösterebilir.\"",
+ "kazanc": {
+  "egitim_suresince": "Mesleğe özgü, yasayla düzenlenmiş bir çıraklık veya stajyerlik ücreti bulunmamaktadır. İşletme bünyesinde yürütülen işbaşı eğitim/alıştırma dönemlerinde ücret, işveren ile yapılan anlaşmaya göre belirlenir; yeni işe başlayanlarda genellikle asgari ücret düzeyinde bir kazanç söz konusudur.",
+  "egitim_sonrasi": [
+   "Kamuya bağlı işletmelerde (KİT statüsündeki kuruluşlarda) çalışanlar, 657 sayılı Kanun'a veya işçi statüsünde iseler ilgili toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektördeki çimento fabrikalarında ücret; işyerinin büyüklüğü, çalışanın deneyimi, bilgi ve becerisi ile sektördeki genel ücret düzeyine göre değişebilir.",
+   "Mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar; deneyim ve kıdem arttıkça bu seviyenin üzerine çıkılabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Meslek lisesi kimya teknolojisi veya benzeri alanlardan mezun olanlar, ilgili ön lisans programlarını (kimya teknolojisi, laboratuvar teknolojisi gibi) tercih ettiklerinde sınavsız geçiş veya ek puan avantajından yararlanabilirler. Bu programlardan mezun olanlar, isterlerse kimya, kimya mühendisliği, malzeme mühendisliği gibi lisans programlarına yönelerek eğitimlerini ilerletebilirler.",
+  "is_hayatinda": "Çimento Test Elemanı, deneyim ve bilgi birikimi kazandıkça kıdemli laborant, laboratuvar sorumlusu veya kalite kontrol şefliği gibi daha üst sorumluluklara sahip görevlere yükselebilir. İlgili lisans eğitimini tamamlayanlar kalite kontrol mühendisi gibi unvanlarla çalışabilir."
+ },
+ "benzer_meslekler": [
+  "Laborant (Çimento/X-RAY Operatörü)",
+  "Beton Laboratuvar Test Elemanı",
+  "Kimya Laboratuvarı Teknisyeni/ Kimya Teknisyeni",
+  "Numune Alma Elemanı",
+  "Laborant (Alçı)",
+  "Enerji Üretim Santral Laboratuvarcısı"
+ ],
+ "ek_bilgiler": "\"Çimento sektörü, inşaat sektörüyle doğrudan bağlantılı olduğundan bu alandaki istihdam, inşaat ve altyapı yatırımlarının seyrine göre değişkenlik gösterebilir. Mesleki Yeterlilik Kurumu (MYK) tarafından bu alanda yayımlanmış bir ulusal yeterlilik varsa, buna dayalı belgelendirme işe alımda tercih sebebi olabilir.\"",
+ "gorevler": [
+  "İSG, çevre güvenliği ve kalite önlemleri alır",
+  "Kişisel koruyucu donanım (KKD) kullanır",
+  "İş süreçlerinde çevre güvenliği önlemleri alır",
+  "Laboratuvar atıklarını ambalajlar ve etiketler",
+  "Laboratuvar atıklarının muhafaza ve teslim edilmesini sağlar",
+  "Numune alma, muayene ve deney süreci rapor ve formlarını tutar",
+  "Malzeme, araç-gereç, donanım temin eder",
+  "Cihaz ve donanımların doğrulamasını yapar",
+  "Numune alma işlemlerini yürütür, numuneyi alır",
+  "Analiz için muayene ve deney yöntemini belirler",
+  "Numunenin nitel incelemesini yapar",
+  "Numuneyi temsil eden homojen analiz numunesini hazırlar",
+  "Fiziksel analiz yapar",
+  "Gravimetrik analiz yapar",
+  "Volumetrik analiz yapar",
+  "Enstrümantal analiz yapar",
+  "Deney doğrulaması yapar",
+  "Muayene ve deney sonrası sonuç işlemlerini yürütür",
+  "Numuneyi etiketler",
+  "Numune muhafaza koşullarını kontrol eder",
+  "Muhafaza süresi dolan numuneleri ortamdan uzaklaştırır",
+  "Mesleki gelişim faaliyetlerine katılır"
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T08:47:59",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6849
+  }
+ }
+}

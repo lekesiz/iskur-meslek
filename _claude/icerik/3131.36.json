@@ -1,0 +1,75 @@
+{
+ "arac_gerec": [
+  "Kumanda odası kontrol panosu (SCADA) ve izleme ekranları",
+  "Bilgisayar ve işletme yazılımları",
+  "Buhar türbini kontrol ve koruma sistemleri",
+  "Basınç, sıcaklık ve debi ölçüm cihazları",
+  "Vana, pompa ve kompresör kumanda üniteleri",
+  "Alarm ve acil durdurma (trip) sistemleri",
+  "Telsiz ve dahili haberleşme cihazları",
+  "İşletme kayıt defterleri ve vardiya raporları",
+  "Temel el aletleri (anahtar takımı, tornavida, pense vb.)",
+  "Kişisel koruyucu donanım (baret, koruyucu gözlük, iş elbisesi, eldiven, kulaklık, çelik burunlu ayakkabı)",
+  "Yangın söndürme ve ilk müdahale ekipmanları",
+  "Taşınabilir gaz ve sıcaklık ölçüm cihazları"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve tedbirli,",
+  "Sorumluluk duygusu yüksek,",
+  "Acil ve stresli durumlarda soğukkanlı kalabilen,",
+  "Hızlı ve doğru karar verebilen,",
+  "Matematik ve fen bilimlerine ilgili,",
+  "Teknik ve mekanik sistemlere ilgili,",
+  "Ekip çalışmasına uyumlu,",
+  "İş sağlığı ve güvenliği kurallarına duyarlı,"
+ ],
+ "calisma_ortami": "Atık ısıdan enerji üretim tesisi kumanda operatörleri, görevlerinin büyük bölümünü kapalı bir ortam olan kumanda/kontrol odasında yürütür; gerektiğinde tesisin saha bölümüne (türbin dairesi, kazan/ısı geri kazanım üniteleri çevresi) de çıkar. Kumanda odası genellikle sabit sıcaklıkta ve göreli olarak sessiz bir ortamdır; ancak saha kısmında yüksek sıcaklık, gürültü, buhar ve dönen makine parçalarına yakın çalışma gibi riskler bulunabilir. Tesisler sürekli çalıştığı için görev genellikle vardiya sistemiyle (gündüz-gece dönüşümlü) yürütülür.\n\nOperatör, birlikte çalıştığı saha personeli, bakım-onarım ekipleri, vardiya amiri ve tesis yöneticileriyle sürekli iletişim halindedir; üretim ve güvenlik talimatlarına göre ekibi yönlendirir. İş sağlığı ve güvenliği kurallarına uyulmadığında elektrik çarpması, yanık, haşlanma ve makine kaynaklı kazalar yaşanabileceğinden dikkat ve tedbir gerektiren bir çalışma ortamıdır.",
+ "egitim": {
+  "verildigi_yerler": "Meslek için Türkiye'de özel olarak tanımlanmış, bağımsız bir meslek lisesi dalı bulunmamaktadır. Mesleğe geçiş genellikle mesleki ve teknik ortaöğretim kurumlarının enerji, elektrik-elektronik teknolojisi, makine veya kontrol/otomasyon alanlarından mezun olup, işe alındıktan sonra işletme bünyesinde verilen işbaşı ve sertifika eğitimleriyle sağlanır. Ayrıca İŞKUR ve Halk Eğitim Merkezlerinin açtığı enerji/elektrik-elektronik alanındaki mesleki eğitim kursları, mesleğe hazırlık açısından destekleyici olabilir. Üniversitelerin enerji sistemleri, makine veya elektrik-elektronik mühendisliği gibi ön lisans/lisans programları, ileride mühendislik ve üst düzey operatörlük görevlerine geçiş için teorik alt yapı sağlayabilir.",
+  "giris_kosullari": [
+   "Ortaöğretim (lise ve dengi okul) mezunu olmak",
+   "Tercihen enerji, elektrik-elektronik, makine veya otomasyon alanlarından mesleki ve teknik lise mezunu olmak",
+   "İşe alım sürecinde işletmenin belirlediği sağlık ve fiziksel uygunluk şartlarını taşımak",
+   "Vardiyalı çalışmaya uygun olmak"
+  ],
+  "sure_ve_icerik": "Ortaöğretim düzeyindeki mesleki ve teknik lise programları 4 yıl sürmekte ve genel kültür derslerinin yanında enerji sistemleri, elektrik-elektronik veya makine teknolojilerine ilişkin teorik ve uygulamalı dersler içermektedir. Bu eğitimin ardından işe başlayan kişiler, işletme bünyesinde tesisin çalışma prensipleri, kumanda sistemleri, iş sağlığı ve güvenliği ile atık ısı geri kazanım süreçlerine ilişkin işbaşında usta/mühendis nezaretinde uygulamalı bir eğitim sürecinden geçer.",
+  "belge": "Mesleki ve teknik ortaöğretim kurumundan alınan lise diploması temel belgedir. Bunun yanında işletmelerin verdiği iç eğitim/sertifika belgeleri ve Mesleki Yeterlilik Kurumu (MYK) tarafından ilgili alanda düzenlenmiş bir Mesleki Yeterlilik Belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Atık ısıdan enerji üretim tesisi kumanda operatörleri, atık ısı kaynağı bulunan sanayi tesislerine bağlı enerji üretim ünitelerinde (çimento, demir-çelik, cam, rafineri ve benzeri enerji yoğun sanayi kuruluşlarının atık ısı geri kazanım santralleri) ve kojenerasyon/atık ısıdan elektrik üreten bağımsız enerji üretim tesislerinde çalışır. Bu meslek, belirli sanayi bölgelerinde ve atık ısı potansiyeli yüksek işletmelerde yoğunlaşan, görece sınırlı sayıda istihdam alanı sunan bir meslektir. İş bulma olanakları, bölgedeki sanayi yoğunluğuna ve enerji verimliliği/çevre politikalarına bağlı olarak değişebilir.",
+ "kazanc": {
+  "egitim_suresince": "Mesleki ve teknik ortaöğretim kapsamında işletmelerde beceri eğitimi gören öğrencilere, 3308 sayılı Mesleki Eğitim Kanunu gereğince asgari ücretin net tutarının belirli bir oranından az olmamak üzere ücret ödenir ve iş kazası-meslek hastalığı sigorta primleri devletçe karşılanır.",
+  "egitim_sonrasi": [
+   "İşe yeni başlayanlar genellikle asgari ücret düzeyinde veya buna yakın bir ücretle çalışmaya başlar.",
+   "Kazanç, işletmenin büyüklüğüne, çalışanın deneyim ve bilgi birikimine, vardiya/nöbet tazminatlarına bağlı olarak artabilir.",
+   "Kamu kurumu bünyesinde çalışılması durumunda 657 sayılı Devlet Memurları Kanunu veya işçi statüsünde ise ilgili toplu iş sözleşmesi hükümleri uygulanır.",
+   "Özel sektörde ücret, işveren ile çalışan arasındaki karşılıklı anlaşmaya göre belirlenir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "İlgili mesleki ve teknik ortaöğretim alanlarından mezun olanlar, YKS'de bu alanın devamı niteliğindeki enerji sistemleri, makine veya elektrik-elektronik mühendisliği gibi ön lisans/lisans programlarını tercih ederek eğitimlerini ilerletebilir.",
+  "is_hayatinda": "Deneyim ve bilgi birikimi arttıkça saha operatörlüğünden kumanda operatörlüğüne, buradan vardiya amirliği/şefliği gibi daha üst sorumluluk gerektiren pozisyonlara ve tesis işletme sorumluluğuna yükselinebilir."
+ },
+ "benzer_meslekler": [
+  "Termik Santral Kumanda Operatörü",
+  "Termik Santral Türbin İşletme Operatörü",
+  "Hidroelektrik Santral Operatörü",
+  "Diğer Güç Santrali Teçhizat Operatörleri",
+  "Atık Isıdan Enerji Üretim Tesisi Saha Elemanı"
+ ],
+ "ek_bilgiler": "Bu meslek, atık ısı potansiyeli bulunan belirli sanayi tesislerine bağlı olarak gelişen, nispeten dar bir istihdam alanına sahiptir. Enerji üretim tesislerinde çalışma genellikle tehlikeli/çok tehlikeli işler kapsamında değerlendirilebileceğinden, işe alım ve çalışma sürecinde iş sağlığı ve güvenliği mevzuatına ilişkin ek eğitim ve belgelendirme şartları işletmeden işletmeye farklılık gösterebilir.",
+ "gorevler": [
+  "İşletmenin genel çalışma prensipleri doğrultusunda iş organizasyonu yapar.",
+  "Tesisin enerji üretim kalitesini takip eder.",
+  "Buhar türbinini devreye alarak atık ısıdan enerji üretir.",
+  "Enerji üretim tesisini gerekli manevralarla durdurur.",
+  "Mesleki gelişim faaliyetlerine katılır."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T10:54:42",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6583
+  }
+ }
+}

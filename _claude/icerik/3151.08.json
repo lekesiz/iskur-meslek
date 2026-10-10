@@ -1,0 +1,78 @@
+{
+ "arac_gerec": [
+  "Kompresör söküm-takım anahtar seti (İngiliz anahtarı, lokma takımı, allen anahtarları)",
+  "Kumpas, mikrometre gibi hassas ölçüm aletleri",
+  "Basınç ölçer (manometre)",
+  "Yağ ve basınç test cihazları",
+  "Krank, biyel kolu ve piston sökme-takma ekipmanları",
+  "Yedek parçalar (piston, segman, conta, supap)",
+  "El aletleri (pense, tornavida, çekiç, keski)",
+  "Yağlama ekipmanları ve yağlama malzemeleri",
+  "Kaldırma-taşıma ekipmanları (makara, vinç, zincir)",
+  "Temizlik ve sızdırmazlık malzemeleri",
+  "Elektrik motoru hizalama aletleri",
+  "Kişisel koruyucu donanım (iş eldiveni, koruyucu gözlük, kulaklık, iş elbisesi)"
+ ],
+ "benzer_meslekler": [
+  "Gemi Yağcısı",
+  "Çarkçıbaşı (Gemi)",
+  "Deniz Buhar ve Motor Makinisti",
+  "Gemi Makine Kontrolörü-Deniz",
+  "Sınırlı Makine Zabiti",
+  "Deniz Araçları Tesisat Donatım Teknisyeni"
+ ],
+ "calisma_alanlari": "Kompresörcüler (Gemi), başta yük ve yolcu gemileri olmak üzere deniz ticaret filosunda, tersanelerde, gemi bakım-onarım işletmelerinde ve liman işletmelerinin makine bakım birimlerinde çalışma olanağı bulurlar. İş bulma olanağı, deniz taşımacılığı sektörünün hacmine, gemi sayısına ve bu mesleğe olan ihtiyacın teknolojik gelişmelerle birlikte azalıp azalmamasına bağlı olarak değişmektedir. Deneyimli ve sağlık şartlarını taşıyan kişiler, yakın ve uzak yol gemilerinde iş bulabilmektedir.",
+ "calisma_ortami": "Kompresörcüler (Gemi), gemilerin makine dairesinde, kapalı, dar, sıcak, nemli, gürültülü ve yağlı bir ortamda çalışırlar. İş, fiziksel güç ve dayanıklılık, dar alanlarda eğilip bükülerek çalışabilme gerektirir; yağ, gürültü ve makine parçalarına bağlı kaza ve yaralanma riskleri bulunmaktadır. Sefer süresince gemide kalınır, çalışma saatleri genellikle vardiya düzeninde ve düzensizdir; kişi uzun süre aile ortamından uzak kalabilir.\n\nÇalışma sırasında gemi makinistleri, yağcılar, çarkçıbaşı ve diğer makine dairesi personeli ile yakın iş birliği içinde çalışılır. Arızalı kompresörün onarımı için zaman zaman kıyı bakım servisleriyle de irtibat kurulabilir.",
+ "egitim": {
+  "verildigi_yerler": "Bu meslek için mesleki ve teknik ortaöğretim kurumlarında ayrı bir eğitim dalı bulunmamaktadır. Meslek, genellikle gemi makine dairesinde usta yanında işbaşında uygulamalı olarak öğrenilmekte; ayrıca Halk Eğitim Merkezleri ile İŞKUR ve ilgili kurumların açtığı temel makine/motor bakım-onarım kurslarıyla desteklenebilmektedir.",
+  "giris_kosullari": [
+   "İlköğretim/ortaokul mezunu olmak",
+   "Gemide çalışmaya engel bir sağlık durumunun bulunmadığını gösteren gemiadamı sağlık raporuna sahip olmak",
+   "El ve beden becerisine, mekanik işlere ilgi ve yatkınlığa sahip olmak"
+  ],
+  "sure_ve_icerik": "Mesleğin standart bir okul programı ve belirli bir eğitim süresi bulunmamaktadır. Öğrenme süreci, gemide usta yanında kompresör bakım, arıza tespiti, parça değişimi ve montaj işlemlerinin uygulamalı olarak yapılmasıyla gerçekleşir; süre kişinin tecrübesine ve işletmenin ihtiyacına göre değişiklik gösterir. Temel mekanik/motor bilgisi ve iş güvenliği konularında kısa süreli kurslara katılmak bu süreci destekleyebilir.",
+  "belge": "Mesleğin öğrenilmesi sonunda resmi bir diploma verilmemektedir. Gemide çalışabilmek için ilgili denizcilik idaresinden gemiadamı cüzdanı/belgesi ve geçerli sağlık raporu alınması gerekmektedir. Katılınan kurslardan kurs bitirme belgesi edinilebilir."
+ },
+ "ek_bilgiler": "Gemi teknolojilerindeki gelişmeler nedeniyle bu meslek günümüzde daralmaktadır; birçok modern gemide kompresör bakım ve onarım işleri, ayrı bir meslek unvanı altında değil, gemi makinisti ve yağcıları tarafından yürütülmektedir. Bu nedenle mesleğe yönelecek kişilerin genel gemi makine bakım becerilerini de edinmesi istihdam olanaklarını artırabilir.",
+ "genel_ozellikler": [
+  "El ve beden becerisine sahip,",
+  "Makine ve motorlara ilgili,",
+  "Dikkatli ve sabırlı,",
+  "Sorumluluk sahibi,",
+  "Fiziksel olarak güçlü ve dayanıklı,",
+  "Dar ve kapalı mekanlarda çalışmaya uygun,",
+  "Takım halinde çalışmaya istekli,",
+  "Denizcilik ve gemicilik mesleğine ilgili,"
+ ],
+ "gorevler": [
+  "Gemi dümeninin çalışması için gerekli yüksek barda havayı sağlamak amacıyla kompresörün tamir ve bakımını yapar.",
+  "Gemilerden sökülen arızalı kompresörün arızasını tespit eder.",
+  "Kompresörü açarak krank, biyel kolu ve pistonların hareketliliğini ve ölçümünü yaparak arızayı tespit eder.",
+  "Arızalı olan parçaları değiştirir.",
+  "Hava basma niteliklerini kontrol eder.",
+  "Dranj ve lyon ayarını yapar.",
+  "Kompresör ve elektrik motorunu aynı hizada gemiye monte eder.",
+  "Günlük, aylık ve yıllık kompresör bakım ve ayarlarını yapar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Bu meslekte örgün bir meslek lisesi dalı bulunmadığından ilerleme genellikle iş deneyimi ve katılınan mesleki kurslarla sağlanır. İsteyen kişiler, denizcilik veya makine alanındaki mesleki ve teknik eğitim kurumlarına yönelerek gemi makinistliği gibi daha kapsamlı mesleklere geçiş yapabilir.",
+  "is_hayatinda": "Deneyim ve bilgi birikimi arttıkça kişi, makine dairesinde ustabaşı veya vardiya sorumlusu konumuna gelebilir. İlave eğitim ve gerekli şartları sağlamak koşuluyla gemi yağcılığı, gemi makinist yardımcılığı gibi görevlere yükselme olanağı bulunmaktadır."
+ },
+ "kazanc": {
+  "egitim_suresince": "Mesleğin örgün bir eğitim programı bulunmadığından, öğrenme süreci genellikle gemide çırak veya yardımcı olarak çalışmak yoluyla gerçekleşir. Bu dönemde alınan ücret, işverenle yapılan anlaşmaya ve işletmenin uygulamalarına göre değişmektedir.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Deneyim, çalışılan gemi türü (yakın yol-uzak yol), işletmenin büyüklüğü ve yabancı bandıralı gemilerde çalışma durumuna göre kazanç artabilir.",
+   "Özel sektörde çalışanların ücreti işveren ile yapılan karşılıklı anlaşmaya göre belirlenir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T11:40:21",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5540
+  }
+ }
+}

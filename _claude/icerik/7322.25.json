@@ -1,0 +1,88 @@
+{
+ "gorevler": [
+  "Çalışma alanının temizlik ve düzenini sağlar.",
+  "Baskı malzemelerini temin eder.",
+  "Basit arızaları giderir, büyük arızaları yetkiliye bildirir.",
+  "Baskı makinesinin bakımının yapılmasını sağlar.",
+  "Baskı makinesi ve malzemelerini kontrol eder.",
+  "Raport ve rakle basınç/pres ayarı yapar.",
+  "Şablonları yataklara, rakleleri şablonlara ve boya otomatik çubuklarını şablonlara takar.",
+  "Boya fıçılarını sıralayarak pompaya fıçıdan boya çeker.",
+  "Kumaşı makineye takar ve desene göre ortalar.",
+  "Makineye kola/zamk verir.",
+  "Kurutma sıcaklığı ayarı ve açıcıların ayarlarını yapar.",
+  "Şablonları siler ve şablonlara boya verir.",
+  "Kurutma fanlarını ve baskı makinesini çalıştırır.",
+  "Desen ayarı yapar.",
+  "Baskıyı ve desen ayarlarını kontrol eder.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "arac_gerec": [
+  "Rotasyon (döner şablonlu) baskı makinesi",
+  "Silindirik (rotary) şablonlar",
+  "Rakle ve rakle basınç/pres ayar sistemleri",
+  "Boya otomatik verme çubukları",
+  "Boya fıçıları ve boya pompası",
+  "Kumaş ruloları ve kumaş besleme-ortalama sistemi",
+  "Kola/zamk ve zamk verme düzeni",
+  "Kurutma fanları ve kurutma fırını",
+  "Açıcı (kumaş germe-açma) ekipmanları",
+  "Raport ve desen ayar aparatları",
+  "Temizlik malzemeleri (solvent, bez, fırça)",
+  "Koruyucu eldiven, gözlük ve iş elbisesi",
+  "Basit tamir el aletleri (anahtar takımı, tornavida vb.)"
+ ],
+ "genel_ozellikler": [
+  "El ve gözünü eşgüdümlü ve dikkatli kullanabilen,",
+  "Renk, desen ve şekiller arasındaki ilişkileri algılayabilen,",
+  "Dikkatli, sabırlı ve sorumluluk sahibi,",
+  "Makine ve malzeme ile çalışmaktan hoşlanan,",
+  "Ayakta, bazen eğilerek ve el-kol gücü kullanarak çalışabilecek bedensel yapıya sahip,",
+  "Ekip çalışmasına uyumlu,",
+  "Verilen talimatları ve iş akışını doğru uygulayabilen,",
+  "Yeniliklere ve yeni teknolojilere açık"
+ ],
+ "calisma_ortami": "Rotasyon Baskı Makinesi Operatörü (Raklist), genellikle tekstil baskı atölye ve fabrikalarının üretim bölümlerinde, kapalı mekânlarda çalışır. Çalışma ortamı makine gürültüsü, boya ve kola/zamk kokusu, kurutma fırınlarından kaynaklanan ısı ve nem gibi fiziksel etkenler içerebilir. Görevini büyük ölçüde ayakta, bazen eğilerek, uzanarak ve malzeme taşıyarak yerine getirir; boya ve kimyasal içerikli malzemelerle temas söz konusu olduğundan iş sağlığı ve güvenliği kurallarına, koruyucu donanım kullanımına özen gösterilmesi gerekir.\n\nİşyerinin üretim hacmine ve sipariş yoğunluğuna göre vardiyalı çalışma düzeni uygulanabilir. Çalışma sırasında usta başı, diğer makine operatörleri, boya mutfağı/varyant elemanları ve işletme yöneticileriyle sürekli iletişim ve koordinasyon içinde bulunur.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin gerektirdiği minimum eğitim düzeyi ilköğretimdir. Bu meslek için örgün mesleki ve teknik eğitimde ayrı, standart bir okul/dal programı bulunduğuna dair kesin bilgi yoktur; yakın alandaki tekstil teknolojisi ve matbaa/baskı alanlarına bağlı mesleki ve teknik eğitim programları dolaylı olarak temel baskı bilgisi verebilir. Meslek büyük ölçüde işyerlerinde usta yanında uygulamalı olarak, ayrıca Halk Eğitim Merkezleri ile İŞKUR'un açtığı mesleki eğitim kurslarında kazanılmaktadır.",
+  "giris_kosullari": [
+   "İlkokul/ortaokul mezunu olmak (örgün eğitimde devam edilecek programın koşullarına göre değişebilir)",
+   "Okuma yazma bilmek ve temel düzeyde sayısal işlem yapabilmek",
+   "Renk ve desen ayırt etme becerisine sahip olmak",
+   "Fiziksel olarak ayakta ve el gücü gerektiren işleri yapmaya uygun olmak",
+   "Kurs programları için ilgili kurumun belirlediği yaş ve kayıt şartlarını taşımak"
+  ],
+  "sure_ve_icerik": "Meslek, çoğunlukla işbaşında usta yanında kademeli olarak öğrenilir; çalışma alanının düzeni, baskı malzemelerinin temini, makine bakımı ve basit arıza giderme, şablon ve rakle ayarları, boya hazırlama, kumaş besleme ve ortalama, kurutma ve desen kontrolü gibi konular uygulamalı olarak kazandırılır. Ayrıca kurum ve kuruluşlarca açılan kısa süreli mesleki eğitim kurslarında temel baskı bilgi ve becerileri verilebilir; kurs süresi ve içeriği düzenleyen kuruma göre değişiklik gösterir.",
+  "belge": "Örgün mesleki ve teknik eğitim yoluyla yetişenlere ilgili okul/kurum diploması, kurs yoluyla yetişenlere katılım veya başarı belgesi verilir. Mesleki Yeterlilik Kurumu (MYK) Mesleki Yeterlilik Belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Rotasyon Baskı Makinesi Operatörü (Raklist), kumaş baskı yapan tekstil fabrikaları ile baskı atölyelerinde, konfeksiyon ve ev tekstili üreten işletmelerin baskı bölümlerinde çalışabilir. Tekstil sektöründeki üretim hacmine ve sipariş yoğunluğuna bağlı olarak istihdam olanakları değişkenlik gösterebilir; teknolojik yenilenme sürecinde dijital baskı sistemlerinin de yaygınlaşması, rotasyon baskı operatörlerinden makine ve otomasyon bilgisine sahip olmalarının beklenmesine yol açmaktadır.",
+ "kazanc": {
+  "egitim_suresince": "Örgün mesleki eğitim veya çıraklık eğitimi kapsamında işletmede eğitim görenler için 3308 sayılı Mesleki Eğitim Kanunu hükümleri uygulanır; bu kapsamdaki öğrenci/çıraklara asgari ücretin belirli bir oranından az olmamak üzere ücret ödenir ve iş kazası-meslek hastalığı sigorta primleri devletçe karşılanır. Kurs yoluyla yetişenlerde ise genellikle ücret söz konusu değildir.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanların kazancı genellikle asgari ücret düzeyindedir.",
+   "Özel sektörde çalışanların ücreti işyerinin büyüklüğü, kişinin tecrübesi, bilgisi, çalışma kapasitesi ve sektörün genel ücret düzeyine göre işveren ile çalışan arasında karşılıklı olarak belirlenir.",
+   "Deneyim ve sorumluluk arttıkça (örneğin ustabaşılık gibi görevlerde) kazanç düzeyi yükselebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Bu meslek için standart bir örgün eğitim ilerleme basamağı bulunmamaktadır; ancak kişi mesleki eğitim kurslarıyla ve iş deneyimiyle bilgi ve becerisini artırarak ilgili tekstil/baskı alanlarındaki daha üst düzey programlara veya sertifikalara yönelebilir.",
+  "is_hayatinda": "Mesleki deneyim ve bilgi birikimi arttıkça operatör, ustabaşı/nezaretçi, vardiya amiri veya atölye şefi gibi görevlere yükselebilir. Yeterli birikim, sermaye ve işletme bilgisine sahip olanlar kendi baskı atölyesini açabilir."
+ },
+ "benzer_meslekler": [
+  "Baskı Operatörü - Tekstil",
+  "Baskı Operatörü - Tekstil (Nezaretçi/Ustabaşı)",
+  "Şablon Operatörü (Tekstil)",
+  "Dijital Baskı Operatörü (Tekstil)",
+  "Emprime Baskı Kalıpçısı",
+  "Boya Mutfağı Elemanı"
+ ],
+ "ek_bilgiler": "Meslek, boya ve kimyasal içerikli malzemelerle teması nedeniyle iş sağlığı ve güvenliği kurallarına ve kişisel koruyucu donanım kullanımına dikkat edilmesini gerektirir. Tekstil sektöründeki teknolojik dönüşüm nedeniyle, geleneksel rotasyon baskı bilgisine ek olarak otomasyon ve dijital baskı sistemlerine aşinalık istihdamda avantaj sağlayabilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T05:31:22",
+  "usage": {
+   "input_tokens": 4,
+   "output_tokens": 9884
+  }
+ }
+}

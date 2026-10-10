@@ -1,0 +1,76 @@
+{
+ "arac_gerec": [
+  "Karıştırma kazanı",
+  "Buhar hattı/buhar jeneratörü",
+  "Ezme makinesi (merdaneli)",
+  "Soğutma havuzu/soğuk su tankı",
+  "Toplama küveti",
+  "Kazıma bıçağı",
+  "Tartı/hassas baskül",
+  "Reçete/formül kartları",
+  "Termometre",
+  "Karıştırıcı/mikser aparatları",
+  "Taşıma kapları, bidonlar",
+  "Kişisel koruyucu donanım (eldiven, önlük, maske, gözlük)"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve sabırlı,",
+  "Sorumluluk duygusu gelişmiş,",
+  "Fiziksel olarak dayanıklı ve sağlıklı,",
+  "El ve kol kaslarını etkin kullanabilen,",
+  "Talimatlara ve reçeteye titizlikle uyan,",
+  "Temizlik ve düzene özen gösteren,",
+  "Ekip çalışmasına uyumlu,",
+  "Kimyasal maddelerle çalışmaya uygun sağlık durumuna sahip"
+ ],
+ "calisma_ortami": "Pomat ilaç imal işçisi, ilaç, kozmetik veya kimya sanayine bağlı fabrika ve atölyelerde çalışır. Çalışma ortamı kapalı mekandır; sıcak buhar, nem, kimyasal koku ve orta düzeyde gürültü bulunabilir. İş genellikle ayakta ve bedensel güç gerektiren biçimde yürütülür, kaynatma ve soğutma işlemleri nedeniyle sıcaklık değişimlerine dikkat edilmesi gerekir.\n\nMeslek genellikle vardiyalı çalışma düzeninde yürütülür. Çalışan, aynı üretim hattındaki diğer işçiler, usta ve vardiya/bölüm sorumlularıyla sürekli iletişim halindedir; işin niteliği bireysel dikkat gerektirmekle birlikte ekip içinde koordineli çalışmayı da zorunlu kılar.",
+ "gorevler": [
+  "Karıştırma kazanına reçetede belirtilen maddeleri doldurup pomat cinsine göre kazana sıcak buhar vererek kaynatır.",
+  "Kaynama işlemi sonunda soğuk suyla kaynayan maddeyi soğutur.",
+  "Karıştırıcıda işleme tabi tutulan maddeyi ezme makinesinin merdaneleri arasından geçirerek pomat içindeki tozların ezilmesini sağlar.",
+  "Merdanelere sarılan pomatı bıçakla kazıyarak toplama küvetinde biriktirir.",
+  "Belirli tip pomat imalatı konusunda ihtisaslaşabilir.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Pomat ilaç imal işçiliği için örgün bir okul eğitimi bulunmamaktadır. Meslek genellikle işyerlerinde usta yanında uygulamalı olarak öğrenilir. Bazı Halk Eğitim Merkezleri ve İŞKUR tarafından zaman zaman açılan kimyasal ürün/ilaç imalatına yönelik kısa süreli mesleki eğitim kursları da destekleyici nitelikte olabilir.",
+  "giris_kosullari": [
+   "Okuryazar olmak",
+   "İşbaşı eğitiminin veya kursun gerektirdiği temel becerileri yerine getirebilecek fiziksel ve psikomotor yeterliğe sahip olmak",
+   "Genel sağlık durumunun kimyasal maddelerle çalışmaya uygun olması"
+  ],
+  "sure_ve_icerik": "Meslekte standart ve zorunlu bir eğitim süresi bulunmamaktadır. İşbaşı eğitiminde karıştırma kazanının kullanımı, reçeteye uygun madde ölçümü ve kaynatma işlemi, kaynayan maddenin soğutulması, ezme makinesinde pomatın işlenmesi ve toplanması ile iş sağlığı ve güvenliği kuralları uygulamalı olarak öğretilir. Açılan kurslara katılım halinde eğitim genellikle kısa süreli olup teorik ve uygulamalı modüllerden oluşur.",
+  "belge": "İşyerinde işbaşı eğitimi yoluyla yetişenlere resmi bir belge verilmez. Halk Eğitim Merkezi veya İŞKUR tarafından açılan bir kurs tamamlanırsa 'Kurs Bitirme Belgesi' verilir."
+ },
+ "calisma_alanlari": "Pomat ilaç imal işçileri; ilaç fabrikalarının pomat/merhem üretim bölümlerinde, kozmetik ürün imalatı yapan işletmelerde ve çeşitli kimyasal madde üreten sanayi tesislerinde istihdam edilebilirler. İş bulma olanakları, ilaç ve kozmetik sanayinin yoğunlaştığı sanayi bölgelerinde ve büyük şehirlerde daha fazladır.",
+ "kazanc": {
+  "egitim_suresince": "Meslek genellikle işbaşında öğrenildiğinden ayrı bir eğitim dönemi ücreti söz konusu değildir; çırak/stajyer olarak işe başlayanlar bu dönemde işletmenin uygulamasına göre düşük düzeyde bir ücret alabilir. Kurs yoluyla eğitim alınması durumunda eğitim süresince herhangi bir kazanç bulunmaz.",
+  "egitim_sonrasi": [
+   "Yeni başlayanlar için ücret genellikle asgari ücret düzeyindedir.",
+   "Deneyim, işletmenin büyüklüğü ve sektöre göre ücret artabilir; kamu kurumlarında işçi statüsünde çalışanlar ilgili toplu iş sözleşmesi hükümlerine tabidir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Meslekte örgün bir ilerleme basamağı bulunmamaktadır. İlgili kimya/ilaç teknolojisi alanlarında açılacak ek kurslara katılarak bilgi ve becerilerini geliştirebilirler.",
+  "is_hayatinda": "Bilgi, beceri ve deneyim arttıkça usta, formülasyon/üretim sorumlusu, vardiya amiri veya bölüm şefliği gibi görevlere yükselme imkanı bulabilirler."
+ },
+ "benzer_meslekler": [
+  "Karıştırma Makinesi Operatörü-Kimyasal Maddeler",
+  "Ezme Makinesi Operatörü-Kimyasal Maddeler",
+  "Yoğurucu (Kimyasal Maddeler)",
+  "Toz İlaç İmal İşçisi",
+  "Şurup İmal İşçisi",
+  "Süspansiyon İlaç İmal İşçisi",
+  "Kozmetik Sıvı Ürün Hazırlama İşçisi",
+  "İlaç Üretim Operatörü (Beşeri ve Veteriner)"
+ ],
+ "ek_bilgiler": "Meslek, kaynar buhar ve kimyasal maddelerle çalışmayı gerektirdiğinden işçi sağlığı ve iş güvenliği kurallarına, kişisel koruyucu donanım kullanımına özellikle dikkat edilmesi gerekir. Mesleki Yeterlilik Kurumu (MYK) belgesi, iş bulmada tercih sebebi olabilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T12:21:04",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5083
+  }
+ }
+}

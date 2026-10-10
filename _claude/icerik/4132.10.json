@@ -1,0 +1,83 @@
+{
+ "arac_gerec": [
+  "Bilgisayar ve klavye",
+  "Bilgisayarlı veri giriş ve ofis yazılımları (kelime işlemci, elektronik tablo, veritabanı programları)",
+  "Tarayıcı (scanner)",
+  "Barkod okuyucu",
+  "Çok fonksiyonlu yazıcı/fotokopi makinesi",
+  "İkinci monitör",
+  "Harici depolama birimleri ve dijital arşivleme sistemleri",
+  "Telefon",
+  "Kulaklık/mikrofon (sesli veri aktarımı yapılan işlerde)",
+  "Dosyalama malzemeleri (klasör, dosya dolabı)"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve titiz,",
+  "Klavye kullanımında hızlı ve doğru,",
+  "Yoğun ve tekrarlı işlerde dikkatini sürdürebilen,",
+  "Sabırlı ve düzenli çalışabilen,",
+  "Gözlerini ve ellerini eşgüdümlü kullanabilen,",
+  "Sorumluluk sahibi ve güvenilir,",
+  "Kişisel verilerin gizliliğine önem veren,",
+  "Zamanını planlı kullanabilen"
+ ],
+ "calisma_ortami": "Veri giriş elemanı, genellikle kapalı ortamda büro veya ofis içinde, bilgisayar başında oturarak çalışır. Çalışma masada düzenli bir biçimde kurulmuş bilgisayar, klavye ve gerekirse tarayıcı/barkod okuyucu gibi cihazlarla yapılır. Uzun süre ekrana bakmak ve aynı hareketleri tekrarlamak göz yorgunluğu, bilek-el ağrıları (tekrarlayıcı zorlanma) ve sırt-boyun şikâyetlerine yol açabilir; bu nedenle ergonomik oturuş ve düzenli ara vermek önemlidir.\\n\\nÇalışma saatleri genellikle gündüz ve mesai saatleri içindedir; iş yoğunluğuna göre fazla çalışma gerekebilir. Çağrı merkezi, hastane, banka gibi 7/24 hizmet veren kurumlarda vardiyalı veya gece çalışması söz konusu olabilir. Çalışırken daha çok birim amiri, iş arkadaşları ve veri aktarılan birimlerin çalışanlarıyla iletişim kurar; bazı işlerde evden/uzaktan çalışma da mümkündür.",
+ "gorevler": [
+  "İş ortamında iş sağlığı ve güvenliği önlemlerini uygular.",
+  "Acil durum önlemlerini uygular.",
+  "Çevre koruma önlemlerini uygular.",
+  "Kalite ve verimlilik çalışmalarına katılır.",
+  "Kişisel verilerin korunması mevzuatı ve gizlilik sözleşmelerine ilişkin önlemleri uygular.",
+  "İş planlaması yapar.",
+  "Faaliyetler için yazılım, donanım ve ekipman temin eder.",
+  "Yapılan işlerin kaydını tutar.",
+  "Dijital arşivleme yapar.",
+  "Çalışma alanının düzenini takip eder.",
+  "Veri giriş cihazını veri girişine hazır duruma getirir.",
+  "Verileri sınıflandırarak hazırlar.",
+  "Uygulamaya veri girer.",
+  "Verileri kontrol eder.",
+  "Girişi yapılan verileri arşivler.",
+  "Girişi yapılan verileri raporlar.",
+  "Kendisinin ve başkalarının mesleki gelişimini sağlar."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Veri giriş elemanlığı için zorunlu, standart bir örgün eğitim programı bulunmamaktadır. Ortaöğretim (lise ve dengi) sonrasında, Halk Eğitim Merkezleri, Mesleki Eğitim Merkezleri, İŞKUR'un açtığı mesleki eğitim kursları ve özel bilgisayar kurslarında temel bilgisayar kullanımı ve veri giriş konulu kurslar düzenlenmektedir. Meslek, çoğunlukla kurs eğitimi veya işbaşında/usta yanında deneyim yoluyla edinilir.",
+  "giris_kosullari": [
+   "En az ortaöğretim (lise veya dengi okul) mezunu olmak",
+   "Temel düzeyde bilgisayar ve klavye kullanım bilgisine sahip olmak",
+   "Kursun veya işe alım sürecinin aradığı yaş ve sağlık koşullarını taşımak"
+  ],
+  "sure_ve_icerik": "Mesleğe yönelik kurs eğitimlerinin süresi kuruma göre değişmekle birlikte genellikle birkaç haftadan birkaç aya kadar sürmektedir. Eğitim içeriğinde klavye kullanımı ve hızlı-doğru yazım teknikleri, temel bilgisayar ve ofis programları, veri tabanı/uygulama yazılımlarına veri girişi, dosyalama ve dijital arşivleme, iş sağlığı ve güvenliği ile kişisel verilerin korunması konuları yer alır. Ticaret meslek liseleri ve benzeri mesleki ve teknik eğitim programlarındaki büro yönetimi ağırlıklı dersler de bu mesleğe hazırlayıcı niteliktedir.",
+  "belge": "Kurs eğitimini tamamlayanlara kurumundan katılım veya başarı belgesi verilir. Mesleki Yeterlilik Kurumu (MYK) belgesi zorunlu olmamakla birlikte istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Veri giriş elemanları, kamu kurum ve kuruluşlarının (hastaneler, belediyeler, vergi daireleri, nüfus müdürlükleri, mahkemeler vb.) arşiv, bilgi işlem ve idari birimlerinde çalışabilir. Özel sektörde ise bankalar, sigorta şirketleri, lojistik ve kargo firmaları, çağrı merkezleri, araştırma ve anket şirketleri, e-ticaret işletmeleri, muhasebe ve mali müşavirlik büroları gibi veri girişi, arşivleme ve raporlama ihtiyacı duyan her türlü işyerinde istihdam edilebilirler. İşin niteliğine göre sürekli, dönemsel/proje bazlı veya uzaktan (evden) çalışma şeklinde görev alabilirler.",
+ "kazanc": {
+  "egitim_suresince": "İŞKUR ve Halk Eğitim Merkezleri tarafından açılan kurslar genellikle ücretsizdir; kurs süresince katılımcıya herhangi bir ücret ödenmeyebilir. İşbaşı eğitim programlarında ise genellikle asgari ücret düzeyinde bir ödeme yapılabilir.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında memur veya sözleşmeli personel statüsünde çalışanlar 657 sayılı Devlet Memurları Kanunu'na, işçi statüsünde çalışanlar ise ilgili toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar; kazanç, işyerinin büyüklüğü, çalışanın deneyimi, yazım hızı ve doğruluğu, bilgisayar/yazılım bilgisi ile sektörün ücret düzeyine göre değişebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Veri giriş elemanlığı için tanımlanmış dikey bir eğitim basamağı bulunmamaktadır. Kişi isterse büro yönetimi, bilgisayar programcılığı, muhasebe ve finansman gibi alanlarda ön lisans veya lisans eğitimi alarak farklı mesleklere geçiş yapabilir; ayrıca ileri düzey ofis programları, veri tabanı yönetimi gibi konularda sertifikalı kurslarla kendini geliştirebilir.",
+  "is_hayatinda": "Deneyim ve performansına bağlı olarak veri giriş kontrol elemanlığı, arşiv/büro sorumluluğu veya ekip liderliği gibi görevlere; bilgisayar ve yazılım bilgisini geliştirerek bilgisayar işletmenliği gibi daha nitelikli görevlere yükselebilir."
+ },
+ "benzer_meslekler": [
+  "Bilgisayar İşletmeni",
+  "Veri Giriş Kontrol İşletmeni",
+  "Barkodcu",
+  "Bilgisayar Bilgi Yönetim Elemanı",
+  "Daktilograf",
+  "Steno Daktilograf"
+ ],
+ "ek_bilgiler": "Teknolojideki gelişmeler (otomatik veri tanıma, optik karakter okuma, yapay zeka destekli belge işleme gibi) bazı basit veri giriş işlerinin otomatikleşmesine yol açabilmektedir; bu nedenle mesleği sürdürenlerin bilgisayar ve yazılım becerilerini güncel tutması istihdam olanaklarını artırmaktadır. Ayrıca bu meslekte uzaktan/evden çalışma ve proje bazlı esnek çalışma modelleri giderek daha fazla uygulanmaktadır.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T15:39:47",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6567
+  }
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "arac_gerec": [
+  "Litografik taş",
+  "Metal plaka (baskı plakası)",
+  "Baskı presi",
+  "Mürekkep",
+  "Işığa/kimyasala hassas kaplama maddesi",
+  "Özel transfer kağıdı",
+  "Asit (aşındırma maddesi)",
+  "Koruyucu pudra/toz",
+  "Selofon yapraklar",
+  "Fırça ve rulo",
+  "Temizlik solüsyonları",
+  "Koruyucu eldiven, gözlük ve önlük"
+ ],
+ "genel_ozellikler": [
+  "El ve göz koordinasyonu gelişmiş,",
+  "Dikkatli ve sabırlı,",
+  "Şekil ve çizgi ayrıntılarını algılayabilen,",
+  "Kimyasal maddelerle (asit, mürekkep, kaplama maddeleri) çalışmaya uygun sağlık durumuna sahip,",
+  "Solunum yolu ve cilt hastalığı bulunmayan,",
+  "El becerisi gelişmiş,",
+  "Temiz ve düzenli çalışmaya özen gösteren,",
+  "Standart işlem basamaklarını sırasıyla ve tekrarlı biçimde uygulayabilen"
+ ],
+ "calisma_ortami": "Kopyacı (Direkt Litografi İşçiliği), kapalı mekânda, matbaa veya baskı öncesi atölyelerinde çalışır. Çalışma sırasında mürekkep, kimyasal kaplama maddeleri ve asit gibi maddelerle sürekli temas söz konusudur; bu nedenle ortamın iyi havalandırılması, koku ve kimyasal buhara karşı koruyucu donanım kullanılması önemlidir. İş, litografik taş ve metal plakaların taşınmasını, pres kullanılmasını ve hassas el işçiliğini gerektirir; genellikle ayakta ve belirli bir fiziksel güç gerektiren koşullarda yürütülür.\n\nÇalışma saatleri işyerinin çalışma düzenine göre belirlenir ve genellikle gündüz mesaisi şeklindedir. Meslek çalışanı, baskı öncesi bölümündeki diğer teknisyenler, gravürcüler, baskı makinistleri ve ustabaşı ile yakın işbirliği içinde çalışır. Günümüzde direkt litografi tekniği, dijital baskı öncesi işlemlerin (örneğin bilgisayardan plakaya aktarım) yaygınlaşması nedeniyle matbaacılıkta çok sınırlı sayıda işyerinde uygulanmakta, daha çok sanatsal baskı atölyelerinde veya özel/gravür çalışmalarında sürdürülmektedir.",
+ "calisma_alanlari": "Direkt litografi tekniğiyle kopya işçiliği, matbaacılıkta dijital baskı öncesi teknolojilerin (bilgisayardan plakaya aktarım gibi) yaygınlaşmasından önce kullanılan geleneksel bir yöntemdir. Günümüz Türkiye'sinde kurumsal matbaalarda bu unvanla doğrudan istihdam olanağı son derece sınırlıdır. Bu beceri ve bilgi birikimi günümüzde daha çok sanatsal baskı (litografi baskı sanatı) atölyelerinde, gravür sanatçılarının çalışmalarında, nadir kitap ve belge restorasyonu ile müze/arşiv koruma çalışmalarında değer görmektedir. Modern matbaacılık sektöründe baskı öncesi süreçler büyük oranda dijitalleşmiş olduğundan, bu alanda çalışmak isteyenlerin güncel baskı öncesi teknolojilerini (dijital baskı öncesi işlemler, bilgisayar destekli tasarım) de öğrenmesi istihdam olanaklarını artırabilir.",
+ "gorevler": [
+  "Taşı mürekkepleyerek desenleri bir pres yardımıyla özel bir kağıt üzerine basar.",
+  "Kağıt üzerindeki desenleri kimyasal bir maddeyle kaplanmış metal plaka üzerine kopya eder.",
+  "Desen çizgilerinin dışında kalan kimyasal maddeyi çıkarmak için plakayı tekrar mürekkepleyip deseni daha belirgin bir hale getirir.",
+  "Desenin üzerine koruyucu bir pudra ekerek plakayı asitle işleme tabi tutup desenleri tam olarak ortaya çıkarır.",
+  "Plakalar üzerine fotoğraf alabilmek amacıyla litografik taş yüzeyindeki resimleri selofon yapraklara kopya edebilir.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Türkiye'de bu meslek için örgün bir mesleki ve teknik eğitim programı (çıraklık eğitimi veya meslek lisesi alan/dalı) bulunmamaktadır. Mesleğin bilgi ve becerisi genellikle matbaa veya baskı öncesi atölyelerinde, işbaşında usta yanında uygulamalı olarak kazanılır. Grafik sanatlar, matbaa teknolojisi veya güzel sanatlar alanlarındaki baskı sanatları ve gravür derslerinde verilen temel bilgiler bu mesleğe dolaylı olarak hazırlık sağlayabilir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "El becerisi ve görsel ayrıntıları algılama gücü gerektiren işlere ilgi duymak",
+   "Kimyasal maddelerle çalışmaya elverişli sağlık durumuna sahip olmak"
+  ],
+  "sure_ve_icerik": "Mesleğe özgü standart bir eğitim süresi ve müfredatı bulunmamaktadır. Beceri edinimi, işyerinde usta-çırak ilişkisi içinde deneme ve gözlem yoluyla zaman içinde kazanılır. Baskı sanatları, gravür ve litografi teknikleri üzerine bazı güzel sanatlar fakültelerinin ilgili bölümlerinde verilen dersler, konuya ilişkin teorik ve teknik bir temel oluşturabilir.",
+  "belge": "Örgün bir mesleki eğitim programı bulunmadığından resmî bir diploma veya sertifika söz konusu değildir. Kişi, çalıştığı işyerinden deneyim/çalışma belgesi alabilir; Halk Eğitim Merkezleri veya ilgili kurumlarca açılan baskı sanatları ve gravür kurslarına katılmışsa bu kurslardan katılım belgesi edinebilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Mesleğe yönelik örgün bir çıraklık veya mesleki eğitim programı bulunmadığından, eğitim süresine ilişkin standart bir ücretlendirme düzenlemesi yoktur. İşbaşında usta yanında yetişenler, çalıştıkları işyeriyle yaptıkları anlaşmaya göre ücret alabilirler.",
+  "egitim_sonrasi": [
+   "Özel sektörde (matbaa, baskı atölyesi) çalışanların kazancı; işyerinin büyüklüğü, kişinin deneyimi, bilgisi ve yeteneğine göre değişmekte olup genellikle asgari ücret düzeyinde başlar.",
+   "Sanatsal baskı veya gravür alanında uzmanlaşarak bağımsız çalışan ustaların kazancı, yaptıkları işin niteliğine ve müşteri talebine göre farklılık gösterebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Örgün bir eğitim programı (çıraklık-kalfalık-ustalık basamakları) bulunmadığından, mesleki eğitimde resmî bir ilerleme basamağı yoktur. Kişi, deneyim kazandıkça işini daha hızlı ve nitelikli yapmayı öğrenir.",
+  "is_hayatinda": "Deneyim kazanan kişiler daha karmaşık ve sanatsal baskı/gravür işlerine yönelebilir, baskı öncesi ekibinde sorumluluk üstlenebilir veya kendi atölyesini açarak bağımsız çalışabilir."
+ },
+ "benzer_meslekler": [
+  "Gravürcü (Litograf Taşı) (Elle)",
+  "Kopyacı-Fotomekanik",
+  "Fotogravürcü",
+  "Gravürcü (Metal Baskı Plakaları ve Ruloları) (Elle)",
+  "Klişeci-Fotogravür",
+  "Ofset Kalıpçı-Matbaa"
+ ],
+ "ek_bilgiler": "Bu meslek, matbaacılıkta dijital baskı öncesi teknolojilerin yaygınlaşmasından önce kullanılan geleneksel bir yöntem olan direkt litografi tekniğine dayanmaktadır. Günümüzde kurumsal matbaalarda bu unvanla istihdam olanağı son derece sınırlı olup, meslek bilgisi büyük ölçüde sanatsal baskı ve gravür alanında varlığını sürdürmektedir. Çalışma sırasında asit ve diğer kimyasal maddelerin kullanılması nedeniyle iş sağlığı ve güvenliği kurallarına özellikle dikkat edilmesi gerekir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T05:18:49",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 7391
+  }
+ }
+}

@@ -1,0 +1,78 @@
+{
+ "arac_gerec": [
+  "Manuel ve/veya otomatik komponent dizgi makineleri",
+  "Besleme kutuları (feeder) ve komponent haznesi",
+  "Baskılı devre kartları (PCB)",
+  "Elektronik komponentler (direnç, kondansatör, diyot, entegre devre vb.)",
+  "Dalga lehim makinesi/potası ve lehim teli, flux",
+  "Büyüteç, lup ve/veya mikroskop",
+  "El aletleri (pense, cımbız, tornavida takımları, kesici)",
+  "Barkod yazıcı ve okuyucu",
+  "Devre programını yükleyen bilgisayar ve ilgili yazılımlar",
+  "Antistatik bilek bandı ve ESD koruma donanımları",
+  "Duman/gaz emme ve havalandırma sistemleri",
+  "Kişisel koruyucu donanım (eldiven, gözlük vb.)"
+ ],
+ "genel_ozellikler": [
+  "El ve göz koordinasyonu gelişmiş,",
+  "Küçük parça ve detaylarla dikkatli çalışabilen,",
+  "El becerisine sahip,",
+  "Sabırlı ve düzenli çalışabilen,",
+  "Tekrarlı işlemleri aynı titizlikle sürdürebilen,",
+  "Renk ve şekil ayrımını iyi yapabilen,",
+  "Talimat ve şemaları doğru okuyup uygulayabilen,",
+  "Takım çalışmasına uyumlu"
+ ],
+ "calisma_ortami": "Elektro komponent dizgi işçisi, genellikle elektronik üretim tesislerinin atölye veya üretim hattı bölümlerinde, kapalı ortamda çalışır. Çalışma; yürüyen bant üzerinde veya sabit bir masa başında, ayakta ya da oturarak yürütülür. Çalıştığı alanda lehim işlemlerinden kaynaklanan ısı, koku ve duman bulunabilir; bu nedenle havalandırma ve kişisel koruyucu donanım kullanımı önemlidir. Küçük elektronik komponentlerle sürekli ve dikkatli çalışma, göz ve bilek yorgunluğuna yol açabilir.\n\nÇalışma saatleri genellikle üretim hattının çalışma düzenine bağlı olup vardiyalı olabilir. Meslek elemanı; hat amiri, kalite kontrol sorumlusu, mühendisler ve diğer üretim hattı çalışanlarıyla sürekli iş birliği içinde çalışır.",
+ "egitim": {
+  "verildigi_yerler": "Elektro komponent dizgi işçiliği için ayrı, resmî olarak tanımlanmış bir örgün meslek eğitim programı bulunmamaktadır. Meslek genellikle işyerinde usta/deneyimli personel gözetiminde uygulamalı olarak öğrenilir; ayrıca Halk Eğitim Merkezleri ile İŞKUR tarafından açılan elektronik üretim/montaj konulu mesleki eğitim kursları da bu alana hazırlık sağlayabilir. Elektrik-elektronik teknolojisi alanındaki mesleki ve teknik eğitim programları, mesleğe geçişte temel bilgi birikimi sunabilir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "El becerisi ve göz-el koordinasyonu gerektiren işlere uygunluk açısından sağlık durumunun elverişli olması",
+   "Küçük parçalarla dikkatli ve düzenli çalışabilme yeteneğine sahip olmak"
+  ],
+  "sure_ve_icerik": "Mesleğe özgü standart bir eğitim süresi bulunmamaktadır. Eğitim genellikle işe alım sonrasında işbaşında, kısa süreli uygulamalı eğitimler şeklinde verilir; iş talimatı ve şema okuma, dizgi makinesinin kullanımı, lehim kalitesi kontrolü ve iş güvenliği konuları bu eğitimlerin kapsamındadır. Ayrıca İŞKUR ve Halk Eğitim Merkezlerinin açtığı elektronik montaj/üretim kursları birkaç günden birkaç haftaya kadar sürebilir.",
+  "belge": "İşyerinde verilen işbaşı eğitimler sonunda genellikle resmî bir diploma düzenlenmez; kurs niteliğindeki eğitimlerden katılım/başarı belgesi alınabilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, ilgili yeterlilik mevcutsa istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Elektro komponent dizgi işçileri; telekomünikasyon cihazları, beyaz eşya, otomotiv elektroniği, bilgisayar ve çevre birimleri, güvenlik ve kontrol sistemleri gibi elektronik kart üretimi yapan fabrika ve işletmelerde (elektronik üretim hizmetleri -EMS- firmaları dahil) istihdam edilirler. Elektronik sanayinin gelişmesine ve üretim hacminin artmasına bağlı olarak bu alanda nitelikli ve dikkatli çalışan işçilere duyulan ihtiyaç sürmektedir. İş bulma olanakları, büyük şehirlerdeki organize sanayi bölgeleri ve elektronik üretim tesislerinin yoğunluğuna göre değişiklik gösterir.",
+ "gorevler": [
+  "İş talimatını ve şemayı ilgililerden temin eder.",
+  "Devre programını dizgi makinesine yerleştirir.",
+  "Gerekli komponentleri temin eder.",
+  "Komponentleri besleme kutularına yerleştirir.",
+  "Pota lehim programını yükler.",
+  "Devreyi dalga lehim potasına gönderir.",
+  "El ve göz muayenesinden geçirerek lehim kalitesini kontrol eder.",
+  "Çeşitli el aletleri kullanarak pürüz ve sorunları giderir.",
+  "Barkod etiketleme yapar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "kazanc": {
+  "egitim_suresince": "Mesleğe özgü resmî bir çıraklık/mesleki eğitim programı bulunmadığından, işe alım sonrası işbaşı eğitim döneminde çalışanlar genellikle asgari ücret düzeyinde veya işletmenin belirlediği deneme süresi ücretiyle çalışır.",
+  "egitim_sonrasi": [
+   "Eğitim sonrası ilk işe başlandığında kazanç genellikle asgari ücret düzeyindedir.",
+   "Kazanç; deneyim, çalışılan işletmenin büyüklüğü, performans ve üretim hattındaki sorumluluk düzeyine göre değişebilir.",
+   "Özel sektörde ücret, işveren ile çalışan arasındaki anlaşmaya göre belirlenir; kamuda işçi statüsünde istihdam söz konusuysa ilgili toplu iş sözleşmesi hükümleri uygulanır."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Meslek elemanları, çalışırken veya sonrasında elektrik-elektronik teknolojisi alanındaki mesleki ve teknik eğitim programlarına yönelerek bilgi ve becerilerini belgelendirebilir; isteyenler açık öğretim yoluyla ortaöğretimi tamamlayıp ilgili ön lisans programlarına (elektronik teknolojisi, endüstriyel elektronik vb.) devam edebilir. İŞKUR ve Halk Eğitim Merkezlerinin düzenlediği kurslarla mesleki bilgi ve beceriler artırılabilir.",
+  "is_hayatinda": "Deneyim kazanan elemanlar, üretim hattında ekip lideri, hat sorumlusu veya usta başı gibi görevlere yükselebilir; ilgili eğitimleri tamamlayarak kalite kontrol elemanlığı veya elektronik teknisyenliği gibi görevlere geçiş yapabilirler."
+ },
+ "benzer_meslekler": [
+  "Elektronik Montörü (Genel)",
+  "Elektronik Montörü (Bilgisayar ve İlgili Cihazlar)",
+  "Elektronik Montörü (Tıbbi Teçhizat)",
+  "Telekomünikasyon Elektronik Kart Üretim, Montaj ve Test Elemanı",
+  "Telekomünikasyon Elektronik Kart Üretim, Montaj ve Test Ustası"
+ ],
+ "ek_bilgiler": "Mesleğin yürütülmesinde lehim işlemlerinden kaynaklanan buhar/dumana maruziyet söz konusu olabileceğinden, işyerinde uygun havalandırma ve kişisel koruyucu donanım kullanımı önemlidir. Ayrıca elektronik komponentlerin statik elektriğe karşı hassasiyeti nedeniyle ESD (elektrostatik deşarj) önlemlerine uyulması gerekir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T06:25:09",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5570
+  }
+ }
+}

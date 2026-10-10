@@ -1,0 +1,76 @@
+{
+ "arac_gerec": [
+  "Kese",
+  "Lif",
+  "Sabun ve şampuan",
+  "Havlu, peştamal, terlik",
+  "Göbek taşı/kurna gibi hamam donanımı",
+  "Müşteri dolapları",
+  "Sıcak ve buharlı bölüm (sauna/hamam tesisatı)",
+  "Dezenfektan ve temizlik malzemeleri",
+  "Leğen, kova gibi yıkama gereçleri",
+  "Koruyucu eldiven ve önlük"
+ ],
+ "genel_ozellikler": [
+  "El becerisine sahip,",
+  "Fiziksel olarak güçlü ve dayanıklı,",
+  "Hijyen ve temizliğe önem veren,",
+  "Sabırlı, dikkatli ve titiz,",
+  "İletişim ve ikna becerisi gelişmiş,",
+  "Sıcak ve nemli ortamda çalışmaya uygun sağlık durumuna sahip,",
+  "Güler yüzlü ve hoşgörülü,"
+ ],
+ "calisma_ortami": "Keseciler (natır); hamam, sauna, spa ve benzeri tesislerin kadınlara ayrılmış bölümlerinde görev yaparlar. Çalışma ortamı sıcak, nemli ve buharlıdır; zemin ıslak olduğundan dikkatli hareket edilmesi gerekir. İş genellikle ayakta ve bedensel güç gerektiren hareketlerle (keseleme, yıkama, taşıma) yürütülür, bu nedenle fiziksel olarak yorucu olabilir.\n\nNatırlar, çalıştıkları işletmenin çalışma düzenine göre sabah, akşam veya vardiyalı olarak, hafta sonu ve resmî tatillerde de görev yapabilirler. Müşterilerle yakın ve doğrudan bedensel temas içeren bir hizmet sundukları için iletişim becerisi ve güven verici bir tavır önemlidir; işyeri sahibi/yöneticisi ve diğer çalışanlarla da koordinasyon içinde çalışırlar.",
+ "gorevler": [
+  "Kişisel hazırlık yapar.",
+  "Sauna, hamam, havuz, müşteri dolapları ve kullanacağı malzemeleri (havlu, terlik, peştamal vb.) hazırlayıp düzenler.",
+  "Müşterinin sağlığı hakkında bilgi alır, kese ve yararları hakkında bilgi verir.",
+  "Sıcak ve buharlı bir bölümde müşteriyi belirli bir süre bekleterek terlemesini ve derisinin yumuşamasını sağlar.",
+  "Terleyen ve derisi yumuşayan müşteriye ılık su ile duş aldırır.",
+  "Müşterinin vücudunu sabunlayıp yıkar.",
+  "Müşterinin vücudunu keseler.",
+  "Keseleme sonrası müşterinin vücudunu sabunlu lifle yıkayıp ılık suyla duş aldırır.",
+  "Müşterinin kullandığı havlu, peştamal vb. malzemeleri temizlenmesi için ilgili yere gönderir.",
+  "Bir sonraki müşteri için alan temizliği yapar ve kullandığı malzemeleri dezenfekte eder.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Mesleğin örgün mesleki ve teknik eğitimde doğrudan karşılığı olan ayrı bir okul/alan-dal bulunmamaktadır. Meslek genellikle işyerlerinde ustadan yetişerek (işbaşında eğitim) öğrenilmekte; ayrıca Halk Eğitim Merkezleri ile İŞKUR'un açtığı mesleki eğitim kurslarında da ilgili bilgi ve becerilerin kazandırıldığı kurslar düzenlenebilmektedir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak (meslek tanımında belirtilen minimum eğitim düzeyi)",
+   "Kurs veya işletmenin belirlediği yaş ve sağlık koşullarını taşımak",
+   "Sıcak ve nemli ortamda çalışmaya engel bir sağlık sorununun bulunmaması"
+  ],
+  "sure_ve_icerik": "Açılan kursların süresi ve içeriği kursu düzenleyen kuruma göre değişiklik gösterir. Eğitimde genel olarak hijyen ve iş güvenliği kuralları, hamam/sauna çalışma düzeni, kese-lif tekniği, cilt yapısı hakkında temel bilgiler ve müşteri ilişkileri konuları yer alır. İşbaşı eğitiminde ise aday, bir usta natırın yanında çalışarak mesleği uygulamalı olarak öğrenir.",
+  "belge": "Kurs sonunda katılım veya başarı belgesi verilmektedir. Mesleki Yeterlilik Kurumu (MYK) tarafından yetkilendirilmiş kuruluşlardan alınacak mesleki yeterlilik belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Keseciler (natır); hamamlarda, saunalarda, spa ve wellness merkezlerinde, otel ve tatil köylerinin hamam/spa bölümlerinde, kadınlara hizmet veren güzellik ve bakım merkezlerinde istihdam edilmektedir. Meslek büyük ölçüde kadın müşterilere hizmet esasına dayandığından çalışanların çoğunluğu kadındır. Meslek elemanları genellikle bir işletmeye bağlı olarak çalışır; bağımsız işyeri açma imkânı sınırlıdır ve bu yönde girişimler genellikle sauna/hamam işletmeciliği kapsamında değerlendirilir.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğin örgün bir mesleki eğitim programı bulunmadığından öğrencilik dönemine özgü düzenli bir ücret söz konusu değildir. Kurslara katılım genellikle ücretsizdir; işbaşında usta yanında yetişme sürecinde ise işletmenin uygulamasına göre değişen bir ücret ödenebilir.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanların kazancı genellikle asgari ücret düzeyindedir.",
+   "Çalışılan işletmenin büyüklüğü, bölgesi, kişinin deneyimi ve bahşiş gibi unsurlara göre kazanç değişebilir.",
+   "Kamu kurumlarına bağlı tesislerde çalışanlar için 657 sayılı Devlet Memurları Kanunu veya ilgili toplu iş sözleşmesi hükümleri, özel sektörde ise işveren ile çalışan arasındaki anlaşma koşulları geçerlidir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğin örgün eğitimde basamaklı bir ilerleme yapısı bulunmamaktadır. Meslek elemanları, Halk Eğitim Merkezleri ve İŞKUR gibi kurumların açtığı ilgili kurslara katılarak ve deneyim kazanarak bilgi ve becerilerini geliştirebilirler.",
+  "is_hayatinda": "Deneyim ve beceri kazanan natırlar, işletmede usta natır veya bölüm sorumlusu konumuna gelebilir. İmkân bulduklarında kendi hamam/sauna işletmelerini kurabilirler."
+ },
+ "benzer_meslekler": [
+  "Keseci(Tellak)",
+  "Kese ve Köpük Masörü",
+  "Vücut Bakım ve Masaj Elemanı/SPA",
+  "Yüz ve Vücut Masajcısı",
+  "Masör-Masöz"
+ ],
+ "ek_bilgiler": "Keseci (Natır), kadın müşterilerin vücut temizliğini yapan meslek elemanıdır; erkek müşterilere aynı hizmeti veren meslektaşı Türk Meslekler Sözlüğü'nde \"Keseci (Tellak)\" adıyla ayrıca tanımlanmaktadır. Meslek, sıcak ve nemli ortamda fiziksel güç gerektiren bir hizmet olduğundan çalışanların genel sağlık durumunun buna uygun olması beklenir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T17:49:58",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5259
+  }
+ }
+}

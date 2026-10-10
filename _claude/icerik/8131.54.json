@@ -1,0 +1,77 @@
+{
+ "arac_gerec": [
+  "Kireç ocağı (fırın)",
+  "Kireç taşı ve kok kömürü karışımı",
+  "Besleme bunkerleri",
+  "Su söndürme/sulandırma sistemi",
+  "CO2 gaz vanaları ve toplama tankları",
+  "Ateşe dayanıklı (refrakter) tuğla",
+  "Basınç ve sıcaklık gösterge panelleri",
+  "Taşıma/konveyör sistemleri",
+  "El takımları (kürek, maşa, çekiç vb.)",
+  "Kişisel koruyucu donanım (baret, koruyucu gözlük, eldiven, gaz maskesi, iş elbisesi, çelik burunlu ayakkabı)"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve tedbirli,",
+  "Sorumluluk duygusu gelişmiş,",
+  "Fiziksel olarak güçlü ve dayanıklı,",
+  "Isı, toz ve gaza karşı sağlık açısından uygun,",
+  "El ve kol kaslarını etkin kullanabilen,",
+  "Ekip çalışmasına uyumlu,",
+  "Vardiyalı ve yoğun çalışma temposuna dayanıklı,",
+  "Makine ve ekipman kullanımına istekli,"
+ ],
+ "calisma_ortami": "Kireç Ocağı Ustası (Şeker İmalatı), şeker fabrikaları içindeki kireç ocağı bölümünde, genellikle kapalı fakat yüksek ısı, toz ve gaz (CO2) içeren bir ortamda çalışır. Çalışma büyük ölçüde ayakta ve fiziksel güç gerektiren işlerle yürütülür; ağır malzeme taşıma, yüksekte veya dar alanlarda çalışma gerekebilir. Yanık, gaz solunumu, düşme ve kayma gibi riskler bulunduğundan iş sağlığı ve güvenliği kurallarına ve kişisel koruyucu donanım kullanımına titizlikle uyulması gerekir.\n\nŞeker üretimi mevsimsel bir faaliyet olduğundan, çalışma yoğun olarak pancar işleme (kampanya) döneminde artar ve bu dönemlerde vardiyalı çalışma yaygındır. Meslek elemanı; ustabaşı, diğer ocak işçileri ve bakım personeliyle sürekli iletişim halinde, genellikle ekip içinde çalışır.",
+ "egitim": {
+  "verildigi_yerler": "Bu meslek için örgün bir okul programı veya standart bir kurs müfredatı bulunmamaktadır. Meslek bilgi ve becerileri, genellikle şeker fabrikalarında işbaşında, deneyimli bir usta yanında uygulamalı olarak kazanılır. İş sağlığı ve güvenliği başta olmak üzere destekleyici konularda Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kurslarından yararlanılabilir.",
+  "giris_kosullari": [
+   "İlköğretim mezunu olmak",
+   "18 yaşını doldurmuş olmak",
+   "İşin gerektirdiği fiziksel güce ve sağlık koşullarına sahip olmak",
+   "Yüksek ısı, toz ve gaz ortamında çalışmaya engel bir sağlık durumu bulunmamak"
+  ],
+  "sure_ve_icerik": "Meslek, belirli bir süresi önceden tanımlanmış bir eğitim programıyla değil, işletme bünyesinde usta-çırak ilişkisi içinde uygulamalı olarak öğrenilir. Eğitim süresi ve içeriği işletmeden işletmeye farklılık gösterebilir; genellikle kireç ocağının işletilmesi, bakımı, malzeme hazırlama, iş sağlığı ve güvenliği ile acil durum tedbirleri konularında bilgi ve beceri kazandırılır.",
+  "belge": "Örgün bir diploma veya sertifika programı bulunmadığından işletme içi eğitim sonunda genellikle resmî bir belge verilmez. Katılınan Halk Eğitim Merkezi veya İŞKUR kurslarından 'Kurs Bitirme Belgesi' alınabilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Mesleğin gerektirdiği bilgi ve becerileri kazanan kişiler, şeker fabrikalarının kireç ocağı/kireç sütü üretim bölümlerinde istihdam edilebilirler. Bu meslekte çalışma olanakları, şeker fabrikalarının bulunduğu bölgelerle sınırlıdır ve istihdam, pancar işleme (kampanya) dönemlerinde yoğunlaşabilir; bazı işletmelerde mevsimlik/kampanya dönemi çalışması söz konusu olabilir.",
+ "kazanc": {
+  "egitim_suresince": "Meslek bilgi ve becerisi işbaşında, çalışan statüsünde kazanıldığından ayrı bir eğitim ücreti bulunmamaktadır.",
+  "egitim_sonrasi": [
+   "Ücretler; çalışılan işletmeye, deneyime, kıdeme ve kampanya döneminde çalışıp çalışmamaya göre değişmekle birlikte, yeni başlayanlar için genellikle asgari ücret düzeyindedir.",
+   "Kamuya bağlı şeker fabrikalarında işçi statüsünde çalışanların ücreti toplu iş sözleşmesi hükümlerine göre belirlenir; özel sektördeki işletmelerde ücret işveren ile karşılıklı anlaşmaya göre değişebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Bu meslekte kademeli bir örgün eğitim yapısı bulunmadığından, mesleki gelişim işletme içi uygulamalı eğitimler, hizmet içi kurslar ve deneyim yoluyla sağlanır.",
+  "is_hayatinda": "Bilgi, beceri ve deneyim arttıkça kişiler vardiya sorumluluğu, ustabaşılık veya üretim/bölüm şefliği gibi görevlere yükselebilirler."
+ },
+ "benzer_meslekler": [
+  "Fırın Operatörü (Çimento)",
+  "Fırın Operatörü (Elektrot Pişirme)",
+  "Kavurucu (Kimyasal ve İlgili İşlemler)",
+  "Pişirici (Kimyasal ve İlgili İşlemler)",
+  "Diğer Pişiriciler, Kavurucular ve Haruri Muamele İşçileri (Kimyasal ve İlgili İşlemler)"
+ ],
+ "ek_bilgiler": "Kireç ocağında yüksek ısı, toz ve karbon dioksit gazı ile çalışıldığından iş sağlığı ve güvenliği tedbirlerine (kişisel koruyucu donanım kullanımı, gaz ölçüm ve havalandırma uygulamaları dahil) özel önem gösterilmesi gerekir. Şeker üretimi mevsimsel bir faaliyet olduğundan, bu meslekte istihdam pancar işleme (kampanya) dönemlerinde yoğunlaşabilir.",
+ "gorevler": [
+  "Kireç taşlarını kireç ocaklarında yakarak kireç sütü ve karbon dioksit gazı üretir.",
+  "Kireç ocağına kireç taşı ve kok kömürü karışımı verir.",
+  "Kireci su ile söndürerek kireç sütü elde eder.",
+  "Kireç taşını ve kok kömürünü uygun oranlarda karıştırarak bunkerlere alır.",
+  "Kireç ocaklarındaki kırılan, eskiyen ateşe dayanıklı taşları yenileri ile değiştirir.",
+  "Kireç ocağının üst bölümünde biriken CO2 gazını vanalar yardımıyla tanklara alır.",
+  "Kampanya öncesi gerekli hazırlıkları yaparak kireç ocağını kampanyaya hazır hale getirir.",
+  "Kampanya sonrası kireç ocağını kontrol eder, ocak içerisindeki tuğlaları hazırlar.",
+  "Kullanılan malzemeleri kontrol eder, eksilen ve biten malzemelerin temin edilmesini sağlar.",
+  "Kullanılan makine, malzeme ve çalışma alanının temizliğini yapar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T12:18:56",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5822
+  }
+ }
+}

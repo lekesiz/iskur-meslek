@@ -1,0 +1,74 @@
+{
+ "arac_gerec": [
+  "Kül cüruf taşıma bantları (konveyörler)",
+  "Kumanda panelleri ve kontrol panoları",
+  "Hidrolik ve pnömatik vanalar, pompalar",
+  "Toz bastırma/su püskürtme sistemleri",
+  "Sıcaklık, basınç ve seviye ölçüm cihazları",
+  "Haberleşme ve telsiz cihazları",
+  "Temel el aletleri (anahtar takımı, pense, tornavida vb.)",
+  "Taşıma ve kaldırma ekipmanları (vinç, transpalet vb.)",
+  "Kişisel koruyucu donanım (baret, toz maskesi, iş elbisesi, çelik burunlu ayakkabı, eldiven, gözlük, kulaklık)"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli,",
+  "Sorumluluk duygusu yüksek,",
+  "Fiziksel olarak güçlü ve dayanıklı,",
+  "Talimat ve kurallara uymada titiz,",
+  "Ekip çalışmasına uygun,",
+  "Makine ve tesisat kullanımına ilgili,",
+  "Toz, sıcaklık ve gürültülü ortamda çalışmaya dayanıklı,",
+  "Vardiyalı çalışmaya uygun,"
+ ],
+ "calisma_ortami": "Termik Santral Kül Cüruf İşletme Operatörleri, termik santral sahasında, kül ve cüruf taşıma bantlarının ve depolama ünitelerinin bulunduğu açık veya yarı açık alanlarda çalışır. Çalışma ortamında toz, gürültü, sıcaklık ve nem gibi olumsuz koşullar bulunabilir; bu nedenle kişisel koruyucu donanım kullanımı önemlidir. Santrallerin sürekli çalışması nedeniyle genellikle vardiya sistemiyle (gündüz/gece) çalışılır.\n\nGörevlerini yerine getirirken diğer işletme ve bakım operatörleri, vardiya amirleri ve mühendislerle sürekli iletişim halindedir. İş sağlığı ve güvenliği kurallarına uyulmadığı durumlarda iş kazası riski bulunan bir meslektir.",
+ "calisma_alanlari": "Termik Santral Kül Cüruf İşletme Operatörleri, kömür, linyit gibi yakıtlarla elektrik üretimi yapan kamu veya özel sektöre ait termik santrallerin kül cüruf işletme birimlerinde istihdam edilir. İş bulma olanakları, ülkedeki termik santral sayısına, bu santrallerin işletme kapasitesine ve bölgesel enerji politikalarına bağlı olarak değişmektedir.",
+ "ek_bilgiler": "Kül ve cüruf gibi atık malzemelerle çalışma, yüksek sıcaklık ve toza maruz kalma gibi nedenlerle bu meslek bazı işyerlerinde tehlikeli veya çok tehlikeli işler kapsamında değerlendirilebilir; bu durumda işe alımda ve çalışma sürecinde ek sağlık ve güvenlik şartları aranabilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda tercih sebebi olabilir.",
+ "gorevler": [
+  "İşçi sağlığı ve iş güvenliği mevzuatına uyar, gerekli güvenlik önlemlerini alır.",
+  "Termik santralde oluşan kül ve cürufun taşınması, depolanması ve nakli işlerini yürütür.",
+  "Kül cüruf taşıma bantlarının (konveyörlerin) çalışmasını kontrol eder ve işletir.",
+  "Kül ve cürufun ilgili depolama alanlarına veya atık sahalarına nakledilmesini sağlar.",
+  "Taşıma bantları ve ilgili ekipmanlarda oluşabilecek arıza ve tıkanıklıkları tespit ederek ilgili birimlere bildirir.",
+  "Üretim ünitelerinin arızasız ve düzenli çalışması için periyodik kontrol ve gözlemler yapar.",
+  "Çalışma alanını ve kullandığı ekipmanları temiz ve düzenli tutar.",
+  "Vardiya teslim ve devir işlemlerini yürütür, yapılan işlemleri rapor eder.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Bu mesleğe yönelik örgün bir mesleki ve teknik ortaöğretim programı bulunmamaktadır. Mesleğe giriş için en az lise ve dengi okul mezunu olmak aranmakta, mesleğe özgü bilgi ve beceriler ise işe alım sonrasında çalışılan termik santral işletmesinde işbaşında, usta/uzman personel nezaretinde ve kurum içi eğitimlerle kazanılmaktadır.",
+  "giris_kosullari": [
+   "Lise ve dengi okul mezunu olmak",
+   "İşyerlerinin açtığı sınav ve/veya mülakatları kazanmak",
+   "Fiziksel ve sağlık durumunun vardiyalı ve ağır çalışma koşullarına uygun olması"
+  ],
+  "sure_ve_icerik": "Örgün bir eğitim süresi ve içeriği belirlenmemiştir. İşe alınan kişiler, çalıştıkları termik santralde kül cüruf işletme ünitelerinin işleyişi, kullanılan ekipmanlar ve iş sağlığı güvenliği konularında uygulamalı işbaşı eğitimi alır; ayrıca kurum içi eğitimler ve ilgili kuruluşların açtığı mesleki eğitim kurslarına katılabilirler.",
+  "belge": "Çalışılan işletme tarafından düzenlenen işbaşı eğitim/kurs katılım belgesi ve iş sağlığı güvenliği eğitim belgesi verilmektedir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Mesleğe yönelik örgün bir eğitim programı bulunmadığından eğitim süresince ücretlendirme söz konusu değildir. Kişiler genellikle lise mezuniyeti sonrasında doğrudan işe alınır ve işbaşı eğitim sürecinde işletmenin ücret politikasına göre maaş alırlar.",
+  "egitim_sonrasi": [
+   "Kamu kuruluşlarına bağlı termik santrallerde çalışanlar memur statüsündeyse 657 sayılı Devlet Memurları Kanunu'na, işçi statüsündeyse ilgili toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektöre ait termik santrallerde ücret, işletmenin büyüklüğü ile çalışanın deneyim ve bilgi birikimine göre değişmekle birlikte genellikle asgari ücret düzeyinde başlar ve zamanla artabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğin örgün bir eğitim basamağı bulunmamaktadır. Kişiler iş deneyimi kazandıkça kurum içi eğitimler ve sertifika programlarına katılarak bilgi ve becerilerini geliştirebilir; isteyenler açık öğretim veya örgün eğitim yoluyla elektrik-elektronik, makine veya enerji ile ilgili ön lisans/lisans programlarına yönelerek mesleki unvanlarını geliştirebilir.",
+  "is_hayatinda": "Deneyim ve bilgi birikimi arttıkça ekip şefi, vardiya amiri veya ustabaşı gibi görevlere yükselebilirler."
+ },
+ "benzer_meslekler": [
+  "Termik Santral Elektrik İşletme Operatörü",
+  "Termik Santral Kazan İşletme Operatörü",
+  "Termik Santral Türbin İşletme Operatörü",
+  "Termik Santral Saha Operatörü",
+  "Termik Santral Kumanda Operatörü",
+  "Termik Santral Dış Tesisler İşletme Operatörü"
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T10:50:02",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5918
+  }
+ }
+}

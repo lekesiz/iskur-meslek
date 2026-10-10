@@ -1,0 +1,82 @@
+{
+ "arac_gerec": [
+  "Kumanda odası bilgisayarı ve izleme/monitör sistemi",
+  "Harman dairesi otomasyon ve kontrol sistemi",
+  "Tartı (baskül) cihazları",
+  "Bant/konveyör sistemleri",
+  "Harman mikseri",
+  "Dinlendirme ve hammadde siloları",
+  "Rutubet ölçüm cihazı",
+  "Numune alma ekipmanları",
+  "Kalibrasyon ekipmanları",
+  "Telsiz/iletişim cihazı",
+  "Basit bakım için el aletleri (anahtar takımı, tornavida vb.)",
+  "Kişisel koruyucu donanım (maske, eldiven, baret, iş elbisesi)"
+ ],
+ "benzer_meslekler": [
+  "Karıştırıcı (Cam İmali)",
+  "Fondör (Cam)",
+  "Fırın İşçisi (Cam İmali)",
+  "Fırın Ustası (Cam)",
+  "Fırın Bakım-Onarım İşçisi (Cam)"
+ ],
+ "calisma_alanlari": "Cam üretimi yapan fabrikaların harman dairelerinde istihdam edilirler. Düz cam, cam eşya, cam ambalaj ve cam elyaf üreten işletmeler başlıca çalışma alanlarıdır. Cam sektörünün belirli illerde ve sanayi bölgelerinde yoğunlaşmış olması nedeniyle iş bulma olanakları bu fabrikaların bulunduğu yerlerde daha fazladır.",
+ "calisma_ortami": "Cam fabrikalarının harman dairesi ve kumanda odasında, kapalı ortamda çalışılır. Hammaddelerin işlenmesi sırasında toz, gürültü ve yüksek sıcaklık gibi fiziksel koşullarla karşılaşılabilir; bu nedenle kişisel koruyucu donanım kullanımı önemlidir. Üretim sürekliliği gerektiren bir süreç olduğundan genellikle vardiya sistemiyle (gece-gündüz dönüşümlü) çalışılır.\n\nÇalışma sırasında amirleri, diğer harman ve fırın operatörleri, bakım-onarım personeli ile sürekli iletişim kurar. İş büyük ölçüde kumanda odasında bilgisayar başında oturarak izleme şeklinde yürütülse de, sistem kontrolü, numune alma ve tartı işlemleri için saha içinde hareketli ve ayakta çalışma da gerekir.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin resmi/örgün bir eğitim programı bulunmamaktadır. Meslek genellikle işletmelerde işbaşında, deneyimli bir usta veya operatör yanında yetiştirme yoluyla kazanılmaktadır. Ayrıca Halk Eğitim Merkezleri ve İŞKUR'un açtığı ilgili mesleki eğitim kursları, meslek liselerinin cam ve seramik teknolojisine yönelik alanları bu mesleğe geçişte destekleyici olabilir.",
+  "giris_kosullari": [
+   "İlköğretim mezunu olmak (meslek için gereken minimum eğitim düzeyi ilköğretimdir).",
+   "İşe alınacak işletmenin belirlediği yaş, sağlık ve fiziksel uygunluk şartlarını taşımak.",
+   "Vardiyalı çalışmaya uygun olmak."
+  ],
+  "sure_ve_icerik": "Mesleğin standart bir kurs süresi ve içeriği bulunmamaktadır. İşe yeni başlayanlar, işletme bünyesinde deneyimli bir usta veya operatör gözetiminde harman hazırlama süreçlerini, kumanda odası sisteminin kullanımını, tartı ve kalibrasyon işlemlerini, hammadde özelliklerini ve iş sağlığı-güvenliği kurallarını uygulamalı olarak öğrenir. Bu süreç işletmeden işletmeye değişmekle birlikte genellikle birkaç hafta ile birkaç ay arasında sürmektedir.",
+  "belge": "Örgün bir meslek eğitimi bulunmadığından standart bir diploma veya sertifika söz konusu değildir. Katılınan kurslardan \"Kurs Bitirme Belgesi\" alınabilir; işletme içi eğitimlerde ise çalışma/deneyim belgesi düzenlenebilir."
+ },
+ "ek_bilgiler": "Cam harman dairesinde çalışma; tozlu ortamda hammadde işleme ve sürekli vardiya düzeni nedeniyle fiziksel dayanıklılık gerektirir. Yürütülen bazı işlemlerin niteliğine göre işletme, bu görevleri tehlikeli işler kapsamında değerlendirebilir; bu durumda iş güvenliği eğitimleri ve periyodik sağlık kontrolleri istenebilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda tercih sebebi olabilir.",
+ "genel_ozellikler": [
+  "Dikkatli ve tedbirli,",
+  "Sorumluluk sahibi,",
+  "Sayısal verileri (reçete, ölçüm değerleri) doğru okuyup yorumlayabilen,",
+  "Bilgisayar ve otomasyon sistemlerini kullanabilen,",
+  "Hızlı ve doğru karar verebilen,",
+  "Ekip içinde uyumlu çalışabilen,",
+  "Vardiyalı çalışma düzenine uyum sağlayabilen,",
+  "El ve göz koordinasyonu gelişmiş"
+ ],
+ "gorevler": [
+  "Vardiya raporlarını okur, sistemi gezerek gözle kontrol edip arıza ve aksama durumuna bakar,",
+  "Kumanda odasında sistemi açıp çalışmasını monitörden izler,",
+  "Sistemde herhangi bir aksama olduğunda müdahale imkânı varsa müdahale eder, yoksa amirine haber verir,",
+  "Harmandan fırının beslenmesi sırasında set edilmiş değerlerden farklı ölçülerde hammadde akması veya bilgisayarda set edilen reçete değerlerinden sapmalar olması durumunda müdahale eder,",
+  "Set edilen değerleri kendisine verilen bilgiler doğrultusunda bilgisayarda değiştirir,",
+  "Sistem arızası veya bilgisayar arızası durumunda fırının beslenmesini, sistemi bizzat kumanda ederek sağlar,",
+  "Harman dairesindeki tartı cihazlarının periyodik olarak kalibrasyonunun yapılmasını sağlar,",
+  "Harman ve hammaddelerden örnek alıp rutubet oranını tespit eder, uygunsuzlukları ilgililere bildirir,",
+  "Hammadde renk değişiminde yapılan işlemleri takip eder,",
+  "Melanj hazırlanması için dinlendirme silolarının seviyesini kontrol eder,",
+  "İhtiyacı belirleyip hazırladığı reçeteye göre hammaddeyi hazırlar,",
+  "Hammaddeyi reçeteye göre tartarak bant aracılığı ile harman mikserine boşaltır,",
+  "Çalışma alanının düzenli ve temiz olarak bulundurulmasını sağlar,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğin örgün bir eğitim kademesi bulunmadığından mesleki eğitimde doğrudan bir ilerleme basamağı yoktur. İlgili alanlarda açılan mesleki eğitim kurslarına katılarak bilgi ve beceriler güncellenebilir.",
+  "is_hayatinda": "Deneyim ve bilgi birikimi arttıkça harman dairesi sorumlusu, vardiya amiri veya fırın ustası gibi daha üst sorumluluk gerektiren pozisyonlara yükselme imkânı bulunmaktadır."
+ },
+ "kazanc": {
+  "egitim_suresince": "İşbaşında yetiştirme sürecinde, çalışılan işletmenin uygulamasına göre genellikle asgari ücret düzeyinde bir kazanç sağlanabilir.",
+  "egitim_sonrasi": [
+   "İşe başlangıçta genellikle asgari ücret düzeyinde kazanç sağlanır.",
+   "Deneyim, kıdem ve işletmenin uygulamalarına göre ücrette artış olabilir.",
+   "Özel sektörde çalışıldığından ücret, işveren ile çalışan arasındaki anlaşmaya göre değişebilir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T16:48:39",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6224
+  }
+ }
+}

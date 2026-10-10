@@ -1,0 +1,66 @@
+{
+ "arac_gerec": [
+  "Bilgisayar ve klinik veri yönetim/elektronik veri toplama (EDC) yazılımları",
+  "Olgu rapor formları (CRF) ve araştırma dokümantasyon dosyaları",
+  "Araştırma protokolü, onam formları ve etik kurul belgeleri",
+  "Randevu, tahlil ve ilaç kullanım takip çizelgeleri",
+  "İlaç stok ve muhafaza koşullarını izleme formları, sıcaklık/nem kayıt cihazları",
+  "Telefon, e-posta ve diğer iletişim araçları",
+  "Yazıcı, tarayıcı ve arşivleme/dosyalama sistemleri",
+  "Hasta dosyaları ve tıbbi kayıtlar",
+  "Kişisel koruyucu ekipman (gerektiğinde eldiven, maske)"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve titiz,",
+  "Sorumluluk duygusu yüksek,",
+  "Gizliliğe ve mesleki etik kurallarına önem veren,",
+  "Etkili iletişim kurma becerisine sahip,",
+  "Düzenli ve planlı çalışabilen,",
+  "Hasta ve çalışma arkadaşlarıyla empati kurabilen,",
+  "Zaman yönetimi becerisine sahip,",
+  "Bilgisayar ve dijital sistemleri kullanmaya yatkın"
+ ],
+ "calisma_ortami": "\"Klinik Araştırma Saha Görevlisi; üniversite hastaneleri, özel hastanelerin klinik araştırma birimleri, ilaç ve tıbbi cihaz firmaları ile Sözleşmeli Araştırma Kuruluşları (CRO) bünyesinde, genellikle kapalı ortamlarda (hastane, poliklinik, ofis) çalışır. Çalışma düzenli mesai saatleri içinde yürütülmekle birlikte, hastaların randevu ve tahlil takvimine göre çalışma saatlerinde değişiklik olabilir; birden fazla araştırma merkezinde görev alınması durumunda zaman zaman seyahat gerekebilir.\\n\\nGörevi sırasında hekimler, hemşireler, hastalar ve hasta yakınları, denetçiler (monitör), sponsor temsilcileri ve etik kurul üyeleri ile sürekli iletişim halindedir. İşin niteliği nedeniyle hasta mahremiyetine özen, veri güvenliği ve bilimsel etik kurallarına uyum büyük önem taşır; yoğun dokümantasyon ve raporlama gerektirdiğinden dikkat ve zaman baskısına dayanıklılık gerekir.\"",
+ "gorevler": [
+  "Araştırma protokolüne uygun gönüllü/hasta kayıtlarını oluşturur.",
+  "Hastaların randevu, tahlil ve ilaç kullanım süreçlerini takip eder.",
+  "Klinik verileri hatasız bir şekilde dijital sistemlere (CRF vb.) işler.",
+  "Araştırma ilaçlarının stok ve muhafaza koşullarını denetler.",
+  "Denetçiler (monitör) ile koordineli çalışarak dokümantasyonu hazır tutar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Mesleğe özgü, standart bir önlisans/lisans programı bulunmamaktadır. Mesleğe genellikle hemşirelik, sağlık hizmetleri, tıbbi dokümantasyon ve sekreterlik, biyoloji, eczacılık gibi sağlıkla ilgili önlisans veya lisans programlarından mezun olanlar yönelmekte; işe alım sonrasında işveren kuruluşlar (hastaneler, ilaç firmaları, Sözleşmeli Araştırma Kuruluşları/CRO) tarafından işbaşı eğitimi ve protokole özel eğitimlerle yetiştirilmektedir.",
+  "giris_kosullari": [
+   "Lise veya dengi okul mezunu olup YKS (Yükseköğretim Kurumları Sınavı) ile ilgili önlisans/lisans programlarına yerleşmiş olmak",
+   "Hemşirelik, sağlık hizmetleri, tıbbi dokümantasyon ve sekreterlik, biyoloji, eczacılık gibi sağlıkla ilgili bir alanda önlisans veya lisans eğitimi almış olmak",
+   "İşverene göre değişmekle birlikte yabancı dil bilgisine (özellikle İngilizce) sahip olmak tercih sebebi olabilir"
+  ],
+  "sure_ve_icerik": "Mesleğe özgü ayrı bir eğitim programı bulunmadığından, ilgili önlisans programlarının süresi genellikle 2 yıl, lisans programlarının süresi ise 4 yıl civarındadır. Bu programlarda anatomi, fizyoloji, farmakoloji, tıbbi terminoloji, biyoistatistik, sağlık hukuku ve meslek etiği gibi dersler okutulur. Mesleğe başlandıktan sonra işveren kuruluşlar tarafından İyi Klinik Uygulamaları (İKU/GCP) eğitimi ve her araştırma protokolüne özel ayrı eğitimler verilir; bu eğitimler klinik araştırmalarda görev alabilmek için gereklidir.",
+  "belge": "İlgili önlisans veya lisans programını tamamlayanlara diploma; ayrıca işe başlama sonrasında İyi Klinik Uygulamaları (İKU/GCP) eğitim sertifikası ile protokole özgü eğitim katılım belgeleri verilir."
+ },
+ "calisma_alanlari": "\"Klinik Araştırma Saha Görevlisi; üniversite hastaneleri ve eğitim-araştırma hastanelerinin klinik araştırma birimlerinde, özel hastanelerde, ilaç ve tıbbi cihaz firmalarında ve bu firmalara hizmet veren Sözleşmeli Araştırma Kuruluşlarında (CRO) çalışabilir. İş bulma olanağı, ilaç ve sağlık sektöründeki klinik araştırma sayısına bağlı olarak değişmekte; büyükşehirlerde ve üniversite hastanelerinin yoğun olduğu merkezlerde iş bulma imkânı daha fazladır.\"",
+ "kazanc": {
+  "egitim_suresince": "Mesleğe özgü ayrı bir eğitim programı olmadığından, kişiler kayıtlı oldukları önlisans/lisans programının öğrenim kredisi, yurt hizmetleri ve varsa kurum burslarından yararlanabilir.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında (üniversite/araştırma hastaneleri) çalışanlar 657 sayılı Devlet Memurları Kanunu veya ilgili sözleşmeli personel mevzuatına göre ücret alır.",
+   "Özel sektörde (ilaç firmaları, CRO'lar, özel hastaneler) ücret; işletmenin büyüklüğüne, kişinin deneyimine, bilgi ve yabancı dil düzeyine göre değişir; işe yeni başlayanlarda genellikle asgari ücret düzeyinde başlayıp deneyimle birlikte artabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Çalışanlar, İyi Klinik Uygulamaları ve klinik araştırma yönetimi konularında düzenlenen sertifika programlarına katılarak bilgi ve becerilerini güncelleyebilir; isterlerse ilgili sağlık bilimleri alanlarında lisans/yüksek lisans eğitimlerine devam edebilirler.",
+  "is_hayatinda": "Deneyim ve bilgi birikimine bağlı olarak Klinik Araştırma Koordinatörü, Klinik Araştırma Uzmanı, Proje Yöneticisi veya Denetçi (Monitör/Clinical Research Associate) gibi daha üst görevlere yükselme olanağına sahiptirler."
+ },
+ "benzer_meslekler": [
+  "Organ Nakli Koordinatörü"
+ ],
+ "ek_bilgiler": "\"Klinik araştırmalarda görev alacak personelin, Türkiye İlaç ve Tıbbi Cihaz Kurumu (TİTCK) düzenlemeleri çerçevesinde İyi Klinik Uygulamaları (İKU) eğitimi almış olması beklenmektedir. Mesleğin uygulanmasında hasta mahremiyeti, veri güvenliği ve bilimsel etik kurallarına uyum büyük önem taşımaktadır.\"",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-07T23:57:35",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 7548
+  }
+ }
+}

@@ -1,0 +1,79 @@
+{
+ "arac_gerec": [
+  "Bilgisayar ve çevre birimleri (klavye, fare, ekran)",
+  "Çeşitli programlama dilleri ve yazılım geliştirme ortamları (IDE)",
+  "İşletim sistemleri",
+  "Akış şeması ve algoritma tasarım araçları",
+  "Hata ayıklama (debug) ve test araçları",
+  "Sürüm/versiyon kontrol sistemleri",
+  "Veri tabanı yönetim sistemleri",
+  "Ofis yazılımları ve teknik dokümantasyon araçları",
+  "İnternet ve ağ bağlantısı",
+  "Yazıcı, tarayıcı gibi çevre birimleri",
+  "Yedekleme üniteleri (harici disk, USB bellek vb.)"
+ ],
+ "genel_ozellikler": [
+  "Mantıksal ve sistemli düşünebilen,",
+  "Matematik ve analitik düşünmeye yatkın,",
+  "Dikkatli ve sabırlı,",
+  "Öğrenmeye ve kendini geliştirmeye açık,",
+  "Problem çözme becerisine sahip,",
+  "İletişim becerisi gelişmiş,",
+  "Ekip çalışmasına uyumlu,",
+  "Yeni teknoloji ve gelişmeleri takip edebilen,"
+ ],
+ "calisma_ortami": "Bilgisayar Program Teknisyeni genellikle kapalı ortamda, büro veya bilgi işlem biriminde bilgisayar başında oturarak çalışır. Çalışma ortamı çoğunlukla sessiz ve düzenlidir; ancak proje teslim tarihlerine yaklaşıldığında yoğun ve zaman baskılı çalışma söz konusu olabilir. Uzun süre ekran karşısında kalma nedeniyle göz, bel ve boyun rahatsızlıkları görülebilir.\n\nÇalışma süresince yazılım geliştirme ekibindeki diğer meslektaşları, sistem yöneticileri, program kullanıcıları ve zaman zaman firma yöneticileriyle etkileşim içindedir. Mesai saatleri genellikle düzenlidir, ancak kurulum, bakım veya sorun giderme gerektiren durumlarda normal çalışma saatleri dışında da görev yapılabilir.",
+ "gorevler": [
+  "İş planlaması yapar.",
+  "Bilgisayar sisteminin işletim ve denetim programlarındaki değişiklikleri araştırır.",
+  "Yazacağı programların akış şemalarını hazırlar, programlama dilini belirler.",
+  "Programları test edip kullanıma hazır duruma getirir.",
+  "Programlama dili araştırma ve geliştirme çalışmalarını yapar.",
+  "Program örneklerini inceler.",
+  "Programlama kodunun istenilen formata uygunluğunu test eder.",
+  "Programın çalışma ve kullanma şeklini belirler.",
+  "Kullanıcıya program hakkında bilgi verir, programı tespit eder.",
+  "Kullanıcıların programın kullanımı ile ilgili sorunlarını çözer.",
+  "Mesleği ile ilgili alandaki gelişmeleri takip eder ve yenilikleri uygular."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi mesleki ve teknik Anadolu liselerinin \"Bilişim Teknolojileri\" alanında verilmektedir. Ayrıca yeterli talep olması durumunda mesleki eğitim merkezlerinde, Halk Eğitim Merkezlerinde ve İŞKUR'un açtığı mesleki eğitim kurslarında da bu alanda eğitim verilebilmektedir. Bu lise eğitiminin devamı niteliğinde, yükseköğretimde ön lisans düzeyinde \"Bilgisayar Programcılığı\" veya benzer bilgisayar teknolojileri programları bulunmaktadır.",
+  "giris_kosullari": [
+   "Ortaokulu tamamlamış olmak",
+   "Milli Eğitim Bakanlığınca ilgili alan/dal için belirlenen giriş koşullarını taşımak"
+  ],
+  "sure_ve_icerik": "Ortaöğretim düzeyindeki mesleki eğitim 4 yıl sürer. 9. sınıfta ortak genel kültür dersleri verilir ve öğrenci yıl sonunda alanını belirler. 10. sınıfta alana yönelik ortak dersler, 11. ve 12. sınıflarda ise dala özgü yeterlikleri kazandıran dersler (programlama mantığı ve algoritma, çeşitli programlama dilleri, veri tabanı, işletim sistemleri, kullanıcı destek hizmetleri gibi) okutulur. Eğitim; okulda teorik ve uygulamalı olarak, ayrıca işletmelerde staj yoluyla uygulamalı biçimde sürdürülür.",
+  "belge": "Eğitimi tamamlayanlara meslek lisesi diploması verilir. 3308 sayılı Mesleki Eğitim Kanunu kapsamında ilgili belgelendirme yapılabilir; ayrıca Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Bilgisayar Program Teknisyenleri; yazılım geliştirme firmalarında, kamu ve özel kurumların bilgi işlem birimlerinde, bankalarda, eğitim kurumlarında, bilişim destek hizmeti veren şirketlerde ve çağrı/destek merkezlerinde istihdam edilebilirler. Ayrıca serbest veya proje bazlı çalışarak küçük ölçekli işletmelere yazılım ve kullanıcı destek hizmeti sunabilirler. Bilgisayar kullanımının her sektörde yaygınlaşması nedeniyle bu alanda yetişmiş kişilere duyulan ihtiyaç sürmektedir.",
+ "kazanc": {
+  "egitim_suresince": "3308 sayılı Mesleki Eğitim Kanunu gereğince işletmelerde mesleki eğitim/staj gören öğrencilere asgari ücretin belirli bir oranında ücret ödenir; öğrencilerin iş kazası ve meslek hastalığı sigortası primleri devletçe karşılanır.",
+  "egitim_sonrasi": [
+   "Yeni başlayanlar genellikle asgari ücret düzeyinde gelir elde eder.",
+   "Deneyim, bilgi birikimi ve çalışılan kurumun büyüklüğüne göre kazanç artabilir.",
+   "Kamuda istihdam edilenlerin ücreti 657 sayılı Devlet Memurları Kanunu'na veya işçi statüsündeyse ilgili toplu iş sözleşmesi hükümlerine göre belirlenir.",
+   "Özel sektörde kazanç işveren ile çalışan arasındaki anlaşmaya, deneyime ve işletmenin büyüklüğüne göre değişiklik gösterir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Meslek liselerinin Bilişim Teknolojileri alanından mezun olanlar, YKS'de başarılı oldukları takdirde ön lisans düzeyinde Bilgisayar Programcılığı ve benzeri programları, ardından lisans düzeyinde ilgili bilişim/yazılım bölümlerini tercih ederek eğitimlerine devam edebilirler.",
+  "is_hayatinda": "Deneyim ve bilgi birikimi arttıkça yazılım geliştirici, sistem/ağ destek uzmanı, kullanıcı destek sorumlusu gibi görevlere yükselebilir; alınan sertifika ve kurslarla belirli programlama dillerinde veya sistemlerde uzmanlaşabilirler."
+ },
+ "benzer_meslekler": [
+  "Bilgisayar Teknisyeni",
+  "Veri Tabanı Programcısı Teknisyeni",
+  "Yazılım Destek Uzmanı",
+  "Bilişim Teknolojileri Teknisyeni",
+  "Bilgisayar Teknolojisi ve Programlama Teknikeri",
+  "Web Programcılığı Teknisyeni"
+ ],
+ "ek_bilgiler": "Bu meslek, tehlikeli veya çok tehlikeli işler kapsamında değerlendirilmemektedir. Mesleki Yeterlilik Kurumu (MYK) belgesi ile çeşitli programlama dili ve yazılım sertifikaları istihdamda tercih sebebi olabilir. Bilişim teknolojilerindeki hızlı değişim nedeniyle meslek mensuplarının kendini sürekli güncellemesi önem taşır.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T15:01:06",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6199
+  }
+ }
+}

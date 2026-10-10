@@ -1,0 +1,89 @@
+{
+ "arac_gerec": [
+  "Polyester iplik/filament üretim makineleri (ekstrüzyon hattı)",
+  "Düzeler (spinneret)",
+  "Granül besleme ve kurutma üniteleri",
+  "Eritme/ekstruder ünitesi",
+  "Boya ve katkı dozajlama sistemleri",
+  "Soğutma ve çekim (germe) üniteleri",
+  "Bobinaj/sarım üniteleri",
+  "İplik tansiyon ölçüm cihazları",
+  "Kalite kontrol test cihazları (krip, şirink, yağlama ölçüm cihazları)",
+  "Üretim takip panelleri (PLC/SCADA ekranları)",
+  "Koruyucu iş kıyafeti, eldiven, kulak koruyucu",
+  "Temizlik ve bakım için el aletleri"
+ ],
+ "benzer_meslekler": [
+  "Plastik Ekstrüzyon Makinesi Operatörü (Ekstrüder)",
+  "Plastik Profil Üretim Operatörü (Ekstrüzyon)",
+  "Plastik Levha ve Dökme Film Üretim Operatörü (Ekstrüzyon)",
+  "Plastik Şişirme Film Üretim Operatörü (Ekstrüzyon)",
+  "Sentetik Çuval İmal Makinesi Operatörü",
+  "Plastik Film İşleme Operatörü"
+ ],
+ "calisma_alanlari": "Polyester imal işçileri; sentetik iplik, polyester elyaf ve filament üretimi yapan tekstil ve kimya sanayisine bağlı fabrikalarda istihdam edilir. Türkiye'de özellikle sentetik iplik ve elyaf üretiminin yoğun olduğu sanayi bölgelerinde iş bulma olanağı daha fazladır. Sektördeki üretim hacmine, ihracat talebine ve teknolojik otomasyon düzeyine bağlı olarak istihdam olanakları zaman içinde değişkenlik gösterebilir.",
+ "calisma_ortami": "Polyester imal işçileri genellikle tekstil/kimya sektörüne bağlı fabrikaların üretim atölyelerinde, kapalı mekânlarda çalışır. Çalışma ortamı sıcak, nemli ve gürültülü olabilir; eritilmiş polimer ve kimyasal koku, dönen ve ısıtılan ekipmanlarla temas gibi fiziksel riskler bulunur. Çalışma büyük ölçüde makine başında ayakta geçer.\n\nİşletmenin üretim programına bağlı olarak genellikle vardiyalı (gece-gündüz) çalışılır. Çalışırken vardiya amirleri, işletme şefi, kalite kontrolcüler ve diğer makine operatörleriyle sürekli iletişim ve iş birliği içinde bulunur.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin örgün bir eğitim programı bulunmamaktadır; meslek genellikle fabrika ortamında işbaşında, deneyimli bir operatör/usta gözetiminde öğrenilir. Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kursları ile plastik/tekstil işleme alanındaki mesleki eğitim programları, bu mesleğe temel oluşturacak bilgi ve becerilerin kazanılmasına yardımcı olabilir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "18 yaşını doldurmuş olmak (vardiyalı ve fiziksel efor gerektiren fabrika ortamı nedeniyle işverenlerce genellikle tercih edilir)",
+   "Sağlık durumunun sıcak, gürültülü ve vardiyalı fabrika ortamında çalışmaya uygun olması"
+  ],
+  "sure_ve_icerik": "Mesleğin resmî bir eğitim süresi ve müfredatı bulunmamaktadır. Meslek, işe yeni başlayanların fabrika ortamında deneyimli bir operatör/usta gözetiminde; üretim reçetelerinin uygulanması, makine ayarları, düze ve deteks kontrolü, boya ayarlaması, kalite kontrol kriterleri ve iş sağlığı-güvenliği kuralları konusunda uygulamalı olarak eğitilmesiyle öğrenilir. Bu uyum süreci işletmeden işletmeye değişmekle birlikte genellikle birkaç ay içinde tamamlanır.",
+  "belge": "Örgün eğitim sonunda verilen resmî bir diploma veya meslek belgesi bulunmamaktadır. Katılınan mesleki eğitim kurslarından katılım/başarı belgesi alınabilir; ayrıca Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "ek_bilgiler": "Çalışma ortamının sıcak, nemli olması ve eritilmiş polimer ile kimyasal maddelerle temas içermesi nedeniyle bu meslek, işyeri risk değerlendirmesine göre tehlikeli işler kapsamında değerlendirilebilir; işe alımda sağlık raporu ve iş sağlığı-güvenliği eğitimi istenebilir.",
+ "genel_ozellikler": [
+  "Dikkatli ve sorumluluk sahibi,",
+  "El ve göz koordinasyonu iyi,",
+  "Fiziksel olarak dayanıklı,",
+  "Makine ve teknik sistemlere ilgili,",
+  "Renkleri ayırt etme yeteneğine sahip,",
+  "Takım çalışmasına uyumlu,",
+  "Vardiyalı çalışma düzenine uyumlu,",
+  "İş sağlığı ve güvenliği kurallarına duyarlı"
+ ],
+ "gorevler": [
+  "Vardiya amirinden veya işletme şefinden üretim reçetesini alır,",
+  "Hangi makineye hangi ürünün gireceğini gösteren reçeteye göre üretimi başlatır,",
+  "Makine ayarlarını kontrol eder,",
+  "Ürünün deteks (incelik/kalınlık) ayarını yapar,",
+  "Ürünle ilgili boya ayarlamasını yapar,",
+  "Kullanılacak hammaddeye ilişkin bilgileri sisteme girer,",
+  "Neumag tipi makinede düze değişimini yaptırır,",
+  "Üretime geçer,",
+  "Deteks kontrolü yapar,",
+  "İplikteki tansiyon kontrolünü yapar,",
+  "Üretimde kullanılan yağı kontrol eder,",
+  "Üretimde fire/telef miktarını en aza indirir,",
+  "İplikte istenen rengi oluşturur,",
+  "Çıkan ürünleri kalite sınıfına göre ayıklar,",
+  "İlk çıkan ürünün kalite kontrolcü tarafından kontrol edilmesini sağlar,",
+  "İplikte deteks değişikliği varsa istenen seviyeye tekrar getirir,",
+  "İplikteki renk kalitesini kalite kontrolcünün talimatları doğrultusunda yeniden ayarlar,",
+  "Makinedeki kopuş miktarını en aza indirir,",
+  "Makineye girilen değerlerin otomatik kontrolünü yapar,",
+  "Kalite kontrolcüye iplikteki krip, şirink ve yağ değerlerini kontrol ettirerek istenen kaliteye ulaşılınca üretimin sürdürülebilirliğini sağlar,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Bu meslekte örgün bir eğitim-ilerleme basamağı bulunmamaktadır. Çalışanlar, işletme içi veya dışı mesleki eğitim kurslarına katılarak bilgi ve becerilerini geliştirebilir; isteyenler açık öğretim yoluyla örgün öğrenimini tamamlayarak ilgili teknik lise veya ön lisans programlarına yönelebilir.",
+  "is_hayatinda": "Deneyim kazanan işçiler; makine/hat sorumlusu, vardiya sorumlusu, kalite kontrolcü veya üretim şefliği gibi daha üst sorumluluk gerektiren görevlere yükselebilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Mesleğe örgün bir eğitim programı ile girilmediğinden, işe yeni başlayanlar çalıştıkları işletmenin ücret politikasına göre genellikle asgari ücret düzeyinde bir kazanç elde eder.",
+  "egitim_sonrasi": [
+   "Özel sektörde çalışanların ücreti; işyerinin büyüklüğü, kişinin tecrübesi, bilgi ve becerisi, çalışma kapasitesi ile sektörün ücret düzeyine göre değişir; işe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Deneyim kazandıkça ve vardiya sorumluluğu, formenlik gibi görevler üstlendikçe ücret düzeyi artabilir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T12:49:28",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6782
+  }
+ }
+}

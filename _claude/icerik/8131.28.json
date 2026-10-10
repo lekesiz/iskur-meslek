@@ -1,0 +1,80 @@
+{
+ "arac_gerec": [
+  "Reaktör kazanı ve kontrol paneli",
+  "Spatula ve temizlik fırçaları",
+  "Tartım terazisi ve ölçüm kapları",
+  "Sıcaklık ve basınç göstergeleri",
+  "Vana, pompa ve transfer hatları",
+  "Tiner vakumlama ekipmanı",
+  "Numune alma kapları ve test düzenekleri",
+  "Ürün stok tankları",
+  "Kişisel koruyucu donanım (maske, eldiven, koruyucu gözlük, iş elbisesi, çelik burunlu ayakkabı)",
+  "Haberleşme cihazı (telsiz/interkom)",
+  "Yangın söndürme ekipmanları"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve tedbirli,",
+  "Sorumluluk duygusu gelişmiş,",
+  "Kimyasal maddelerle çalışmaya karşı duyarlı ve talimatlara uyumlu,",
+  "El ve göz koordinasyonu iyi,",
+  "Fiziksel olarak dayanıklı,",
+  "Ekip çalışmasına uygun,",
+  "Hızlı ve doğru karar verebilen,",
+  "Düzenli ve planlı çalışan,"
+ ],
+ "calisma_ortami": "Reaktör işçisi (boya), boya, vernik ve polyester gibi bağlayıcı üretimi yapılan fabrika ve üretim tesislerinde, kapalı mekânlarda çalışır. Çalışma ortamında kimyasal madde kokusu, yüksek sıcaklık, parlayıcı ve yanıcı maddelerle çalışma riski bulunabilir; bu nedenle iş sağlığı ve güvenliği kurallarına ve kişisel koruyucu donanım kullanımına büyük önem verilmesi gerekir. İş genellikle ayakta ve hareketli olarak, bazen vardiyalı düzende yürütülür.\n\nÇalışma sırasında proses işçisi, laboratuvar personeli, ustabaşı ve bakım-onarım elemanlarıyla sürekli iletişim halinde olunur. Üretim sürecinin aşamalarına göre fiziksel güç gerektiren işler (hammadde taşıma, kazan temizliği gibi) de yapılabilir.",
+ "gorevler": [
+  "Reaktör kazanını kullanıma hazır hale getirir.",
+  "Reaktör kazanına güvenlik önlemi alarak iner, spatula ve fırçayla temizler.",
+  "Sıvı hammaddenin reaktöre basılması için proses işçisine haber verir.",
+  "Proses bölümüne sıvı hammadde basma işlemine nezaret eder.",
+  "Reaktördeki sıvı hammaddenin üretim kartında belirtilen sıcaklığa gelmesini sağlar.",
+  "Üretim kartında belirtilen öncelik sırasına göre ve belirtilen sürelerde katı hammaddeleri reaktörün içine boşaltır.",
+  "Reaktörde kimyasal reaksiyonu başlatır.",
+  "Belirli aralıklarla reaktörden numuneler alır, laboratuvarda test ettirir, gerektiğinde değişiklikler yapar.",
+  "Reaktördeki ürünün akışkanlığını kontrol eder, gerektiğinde tiner vakumlama işlemi yaparak ürün akışkanlığını istenen değerlere getirir.",
+  "Üretim işlemi bitince reaktörü soğutur.",
+  "Üretimi tamamlanan ürünleri, ürün stok tanklarına aktarır.",
+  "Arızaları ilgililere bildirir.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi için özel bir örgün eğitim programı bulunmamaktadır. Mesleğe ilişkin bilgi ve beceriler genellikle işyerlerinde usta-çırak ilişkisi içinde işbaşında kazanılır. Ayrıca Halk Eğitim Merkezleri ile İşkur tarafından kimya/boya sektörüne yönelik açılan mesleki eğitim kursları da bu alanda temel beceri kazandırabilir.",
+  "giris_kosullari": [
+   "Okuryazar olmak",
+   "18 yaşını doldurmuş olmak (işin niteliği gereği)",
+   "Kurs/işbaşı eğitim programının öngördüğü temel becerileri yerine getirebilecek fiziksel ve psikomotor yeterliğe sahip olmak"
+  ],
+  "sure_ve_icerik": "Eğitim süresi ve içeriği, işyerinin üretim prosesine ve çalışanın önceki deneyimine göre değişmekle birlikte genellikle işbaşında, kıdemli bir ustanın gözetiminde reaktör kazanının kullanımı, hammadde hazırlama, sıcaklık ve kimyasal reaksiyon takibi, numune alma ve iş güvenliği konularında uygulamalı olarak verilir. Açılması durumunda kurs programları iş sağlığı ve güvenliği, kimyasal madde yönetimi ve üretim süreci modüllerini içerir.",
+  "belge": "İşbaşında yetişenlere genellikle resmi bir belge verilmez; bir mesleki eğitim kursu tamamlanması halinde 'Kurs Bitirme Belgesi' alınabilir."
+ },
+ "calisma_alanlari": "Mesleğin gerektirdiği yeterlilikleri kazanan bireyler; boya, vernik, polyester reçine ve benzeri bağlayıcı maddelerin üretildiği fabrika ve üretim tesislerinde, özellikle reaktör/üretim bölümlerinde çalışabilirler. Kimya sanayinin boya ve kaplama alt sektörlerinde istihdam olanağı bulunmaktadır.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğe işbaşında çalışarak girildiği için, çoğunlukla eğitim süresince de işyerinde ücretli olarak çalışılır; bu durumda ücret genellikle asgari ücret düzeyinde veya işyeri uygulamasına göre belirlenir. Kurs şeklinde alınan eğitimlerde ise kazanç söz konusu değildir.",
+  "egitim_sonrasi": [
+   "Meslek elemanlarının aldığı ücret işyerine, deneyime ve çalışılan sektöre göre değişmekle birlikte, mesleğe yeni başlayanlarda genellikle asgari ücret düzeyindedir.",
+   "Deneyim ve sorumluluk arttıkça ücret düzeyi yükselebilir; özel sektörde ücretler işveren ile karşılıklı anlaşma yoluyla belirlenir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğe özgü kademeli bir örgün eğitim/sertifika basamağı bulunmamaktadır. Deneyim arttıkça ilgili kimya/boya üretimi konularında ek kurslara katılarak bilgi düzeyi geliştirilebilir.",
+  "is_hayatinda": "Bilgi, beceri ve deneyim arttıkça iş hayatında ilerleme mümkündür. Reaktör işçileri; usta, ustabaşı, vardiya sorumlusu veya üretim/bölüm şefliği gibi unvanlara yükselebilir."
+ },
+ "benzer_meslekler": [
+  "Pasta İşçisi (Boya)",
+  "Hammadde Hazırlama İşçisi (Boya)",
+  "Boya Renk Ayar Elemanı",
+  "Şarj İşçisi (Boya)",
+  "Boyahane Tesis Takip İşçisi",
+  "Proses İşçisi"
+ ],
+ "ek_bilgiler": "Reaktör işçisinin çalışma sürecinde yüksek sıcaklık, basınç ve kimyasal reaksiyon içeren işlemler yer aldığından, iş güvenliği kurallarına ve kişisel koruyucu donanım kullanımına azami dikkat gösterilmesi gerekir. Mesleğin bazı işlemleri, çalışılan işyerine göre tehlikeli veya çok tehlikeli işler kapsamında değerlendirilebilir; bu durumda işveren tarafından ilgili iş güvenliği eğitimlerinin alınması sağlanır. Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda tercih sebebi olabilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T12:08:27",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5562
+  }
+ }
+}

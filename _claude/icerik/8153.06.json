@@ -1,0 +1,78 @@
+{
+ "arac_gerec": [
+  "İlik açma makinesi",
+  "Düğme dikme makinesi (otomat)",
+  "Makine iğneleri (çeşitli numaralarda)",
+  "İplik çeşitleri",
+  "Düğme çeşitleri (çap, renk, delik sayısına göre)",
+  "Makas",
+  "Mezura",
+  "İşaretleme kalemi/tebeşiri",
+  "Kişisel koruyucu donanım",
+  "Yağlama ve basit bakım takımları",
+  "Kompresör (toz/iplik artığı temizleme)",
+  "Makine kontrol paneli/ayar düğmeleri"
+ ],
+ "genel_ozellikler": [
+  "El ve göz koordinasyonu gelişmiş,",
+  "Dikkatli ve düzenli,",
+  "El becerisine sahip,",
+  "Küçük parçalarla hassas ve sabırlı çalışabilen,",
+  "Renk ve desen ayrıntılarını fark edebilen,",
+  "Tekrarlı işleri yapmaya istekli,",
+  "Takım çalışmasına uyumlu,",
+  "Uzun süre oturarak veya ayakta dikkatini koruyabilen"
+ ],
+ "calisma_ortami": "İlik Düğmeci/İlik Düğme Otomatçı, genellikle konfeksiyon üretimi yapan fabrika ve atölyelerin üretim bantlarında, kapalı mekânlarda çalışır. Çalışma ortamı çoğunlukla gürültülü ve tozlu olabilir; uzun süre aynı pozisyonda (oturarak veya ayakta) ve tekrarlı hareketlerle çalışmayı gerektirir. İşin niteliğine bağlı olarak göz ve el yorgunluğu, kesici-delici alet kullanımına bağlı küçük yaralanma riskleri bulunabilir.\n\nÇalışma saatleri işyerinin üretim programına göre belirlenir; yoğun sipariş dönemlerinde fazla mesai veya vardiyalı çalışma söz konusu olabilir. Meslek elemanı; üretim hattındaki diğer makine operatörleri, kalite kontrol elemanları ve üretim/vardiya sorumlusu ile sürekli iş birliği içinde çalışır.",
+ "calisma_alanlari": "İlik Düğmeci/İlik Düğme Otomatçılar ağırlıklı olarak özel sektörde, konfeksiyon üretimi yapan fabrika, atölye ve hazır giyim işletmelerinde istihdam edilir. Tekstil ve hazır giyim sanayisinin yoğunlaştığı illerde iş bulma imkânı daha fazladır. Kamuda bu meslek için doğrudan bir istihdam alanı bulunmamaktadır.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğin standart bir örgün eğitim programı bulunmadığından, işbaşında usta yanında eğitim alanlar genellikle çalıştıkları işyerinden asgari ücret düzeyinde bir ödeme alır.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Deneyim kazandıkça ve parça başı/prim sistemi uygulanan işyerlerinde performansa bağlı olarak kazanç artabilir.",
+   "Kazanç; işyerinin büyüklüğü, üretim hacmi, çalışanın hızı ve işverenle yapılan anlaşmaya göre değişkenlik gösterir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Bu meslek için kademeli bir örgün mesleki eğitim sistemi (çıraklık-kalfalık-ustalık) bulunmamaktadır. Kişiler genellikle işbaşında deneyim kazanarak ya da ilgili kısa süreli kurslara katılarak becerilerini geliştirir.",
+  "is_hayatinda": "Deneyim kazanan çalışanlar, aynı üretim hattında diğer dikiş makinesi işlemlerine geçebilir, vardiya/bölüm sorumluluğuna veya kalite kontrol görevlerine yükselebilir; alanında uzmanlaşan kişiler ustabaşılık gibi görevler üstlenebilir."
+ },
+ "benzer_meslekler": [
+  "Overlokçu",
+  "Düz Dikiş Makineci",
+  "Zikzak Makineci",
+  "Lok Makineci",
+  "Makineci (Dikiş)",
+  "Remayözcü"
+ ],
+ "ek_bilgiler": "Bu meslekte otomatik ilik-düğme makinelerinin yaygınlaşması nedeniyle, makine ayarları ve temel bakımı konusunda bilgi sahibi olmak istihdamda tercih sebebi olabilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, iş başvurularında avantaj sağlayabilir.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi genellikle işyerinde usta yanında uygulamalı olarak verilir. Ayrıca Halk Eğitim Merkezleri ile İŞKUR'un açtığı mesleki eğitim kurslarında temel konfeksiyon/dikiş makinesi kullanımına yönelik kısa süreli eğitimler bulunabilir.",
+  "giris_kosullari": [
+   "Okuryazar olmak yeterli görülmekle birlikte ilköğretim mezuniyeti tercih edilmektedir.",
+   "El ve göz koordinasyonu gerektiren işleri yapabilecek sağlık durumuna sahip olmak.",
+   "Dikkat ve sabır gerektiren tekrarlı işleri yapmaya istekli olmak."
+  ],
+  "sure_ve_icerik": "Mesleğe özgü standart ve kademeli bir örgün eğitim programı bulunmamaktadır. Eğitim genellikle işyerinde usta yanında kısa süreli uygulamalı çalışmayla, ya da Halk Eğitim Merkezleri ve İŞKUR kurslarında verilen temel makine kullanımı, ilik açma ve düğme dikme tekniklerine yönelik kısa süreli programlarla kazanılır.",
+  "belge": "İşbaşı eğitimlerde resmi bir diploma verilmeyebilir; kurs programlarına katılanlara kurum tarafından katılım/başarı belgesi düzenlenebilir. Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "gorevler": [
+  "Üretilmekte olan ürüne ve malzemeye göre ilik ve düğme makinesini ayarlar.",
+  "Ürün üzerinde ilik-düğme yerlerini tespit eder.",
+  "Kumaşın rengine göre makineye uygun ip takar.",
+  "Dikilecek düğmeleri düğme makinesine yerleştirir.",
+  "Makineyi çalıştırarak üründe işaretlenen yerlere düğmeleri diker.",
+  "Ürün üzerinde işaretlenen yerlere ilik açar.",
+  "Kullandığı makinelerin bakımlarını ve basit onarımlarını yapar.",
+  "Çalışma alanının temizliğini yapar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T14:09:37",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 4999
+  }
+ }
+}

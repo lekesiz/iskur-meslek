@@ -1,0 +1,75 @@
+{
+ "arac_gerec": [
+  "Numune torbaları, kutuları ve saklama kapları",
+  "Etiketleme malzemeleri (etiket, su geçirmez kalem, numara plakası)",
+  "Jeolojik çekiç ve el küreği, kazma, mala",
+  "Şerit metre ve basit ölçüm aletleri (eğim ölçer, pusula vb.)",
+  "GPS cihazı",
+  "Saha defteri ve kayıt formları",
+  "Sondaj ekipmanlarının taşınmasında kullanılan yardımcı araçlar",
+  "El arabası ve taşıma ekipmanları",
+  "Kişisel koruyucu donanım (baret, iş eldiveni, iş ayakkabısı, yansıtıcı yelek)",
+  "El feneri",
+  "Harita ve kroki malzemeleri"
+ ],
+ "genel_ozellikler": [
+  "Fiziksel olarak dayanıklı ve sağlıklı,",
+  "Açık havada ve zorlu arazi koşullarında çalışabilen,",
+  "Dikkatli ve sorumluluk sahibi,",
+  "Ekip çalışmasına yatkın,",
+  "Verilen talimatları eksiksiz uygulayabilen,",
+  "El becerisine sahip,",
+  "Sabırlı,",
+  "İş sağlığı ve güvenliği kurallarına özenle uyan"
+ ],
+ "gorevler": [
+  "Belirlenen koordinatlarda kaya, toprak ve mineral numunelerini toplar,",
+  "Numuneleri uygun şekilde etiketler ve muhafaza eder,",
+  "Sondaj çalışmalarında ekipman taşıma ve kurulum işlerine yardımcı olur,",
+  "Arama sahasında temizlik ve düzenleme çalışmaları yapar,",
+  "Jeolojik haritalama çalışmalarında destek sağlar,",
+  "Arazide basit ölçüm aletlerini kullanır ve kayıt tutar,",
+  "Malzeme ve ekipmanların bakımına yardımcı olur,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "calisma_ortami": "Maden arama yardımcı elemanı, dağlık ve engebeli arazide, maden arama sahalarında açık havada çalışır. Çalışma ortamı mevsim koşullarına (sıcak, soğuk, yağış) açıktır; uzun süre yürüme, eğilme, taşıma gibi fiziksel efor gerektirir. Saha, kent merkezlerinden uzak ve ulaşımı güç yerlerde olabileceğinden zaman zaman geçici konaklama gerekebilir.\n\nGörevini genellikle jeologlar, maden mühendisleri ve sondaj ekibiyle birlikte, bir ekibin parçası olarak yürütür. Çalışma saatleri saha programına ve mevsim koşullarına göre değişkenlik gösterebilir. Arazi koşulları ve kullanılan ekipman nedeniyle iş kazası riski taşıyan bir meslek olup kişisel koruyucu donanımın eksiksiz kullanılması gerekir.",
+ "egitim": {
+  "verildigi_yerler": "Meslek için tanımlanmış örgün bir mesleki eğitim programı bulunmamaktadır. Meslek genellikle işbaşında, deneyimli personel (usta, teknisyen, jeolog veya mühendis) yanında uygulamalı olarak öğrenilir. Ayrıca Halk Eğitim Merkezleri ile İŞKUR'un açtığı mesleki eğitim kursları kapsamında temel saha çalışması ve iş sağlığı-güvenliği konularında kısa süreli eğitimler alınabilir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak,",
+   "Sağlık durumunun arazi ve saha koşullarında çalışmaya elverişli olması,",
+   "Fiziksel olarak uzun süreli ve yorucu arazi çalışmasına uygun olmak"
+  ],
+  "sure_ve_icerik": "Mesleğe özgü standart bir eğitim süresi ve müfredatı yoktur. Kişi, işe girdikten sonra iş sağlığı ve güvenliği kuralları, numune alma ve etiketleme yöntemleri, basit ölçüm aletlerinin kullanımı ve saha düzeni gibi konularda işbaşında ve/veya kısa süreli kurslarla bilgi ve beceri kazanır.",
+  "belge": "Resmî bir diploma veya meslek lisesi/mesleki eğitim merkezi programı bulunmamaktadır. Katılınan iş sağlığı ve güvenliği ile saha çalışması kurslarının sonunda kurum tarafından katılım veya kurs bitirme belgesi verilebilir."
+ },
+ "calisma_alanlari": "Maden arama yardımcı elemanları, maden arama ve jeolojik etüt faaliyeti yürüten kamu kurumları ile özel maden arama ve işletme şirketlerinde, sondaj firmalarında istihdam edilir. İş bulma olanakları, madencilik sektöründeki yatırım ve arama faaliyetlerinin yoğunluğuna, bölgenin maden potansiyeline ve sektörün genel konjonktürüne bağlı olarak dönemsel ve bölgesel farklılıklar gösterebilir.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğe özgü örgün bir eğitim süreci bulunmadığından, işe başlayan kişi genellikle çalıştığı işyerinde deneyimli personel gözetiminde işbaşı eğitimi alır; bu süre içinde de işveren ile yapılan anlaşmaya göre ücret ödenir.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında işçi statüsünde istihdam edilenler toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde çalışanların kazancı işyerinin büyüklüğüne, kişinin tecrübesine ve çalıştığı bölgeye göre değişebilir; işe yeni başlayanlarda genellikle asgari ücret düzeyinde kazanç söz konusudur.",
+   "Saha ve arazi koşullarında çalışma nedeniyle bazı işyerlerinde ek ödeme (arazi/saha tazminatı gibi) uygulanabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Meslek için tanımlanmış örgün bir mesleki eğitim programı bulunmadığından ilerleme büyük ölçüde deneyim kazanma ve işbaşında alınan ek eğitimlerle sağlanır. İsteyen kişiler açık öğretim veya örgün eğitim yoluyla jeoloji, maden mühendisliği veya maden teknolojisi gibi ilgili alanlarda öğrenim görerek mesleki konumlarını geliştirebilir.",
+  "is_hayatinda": "Deneyim kazandıkça kıdemli saha elemanı veya küçük ekiplerde sorumlu konumuna gelinebilir. İş sağlığı ve güvenliği ile saha teknikleri konusunda alınan ek eğitim ve sertifikalar, sondaj ekibi içinde daha nitelikli görevlere geçişte tercih sebebi olabilir."
+ },
+ "benzer_meslekler": [
+  "Diğer Madenciler ve Taş Ocakçılar (Nitelik Gerektirmeyen)",
+  "Numuneci (Çimento)",
+  "Kum Ocağı İşçisi",
+  "Mermer Çıkarma İşçisi",
+  "Maden Seçme Ayırma İşçisi"
+ ],
+ "ek_bilgiler": "Maden arama faaliyetleri, ilgili madencilik mevzuatı çerçevesinde yürütülür ve meslek talebi, sektördeki arama ve etüt yatırımlarının hacmine bağlı olarak değişkenlik gösterir. Madencilik sektörü iş sağlığı ve güvenliği açısından riskli işler arasında yer aldığından, çalışanların iş sağlığı ve güvenliği eğitimi alması ve kişisel koruyucu donanımı eksiksiz kullanması önem taşır; Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T19:52:00",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6014
+  }
+ }
+}

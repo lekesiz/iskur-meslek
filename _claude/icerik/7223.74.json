@@ -1,0 +1,79 @@
+{
+ "arac_gerec": [
+  "Yarı mamul demir çubuklar (hammadde)",
+  "Kesme makinesi/testere",
+  "Takım tezgahı (vida/somun işleme tezgahı)",
+  "Sütunlu matkap",
+  "Vikvort ve metrik açma takımları (kalıpları)",
+  "Ölçü aletleri (kumpas, metre, mastar, şablon)",
+  "Teknik resim çizim araçları",
+  "Isıl işlem fırını",
+  "Galvaniz kaplama ekipmanları",
+  "Ambalaj malzemeleri (kutu, poşet, etiket)",
+  "Kişisel koruyucu donanım (eldiven, gözlük, iş elbisesi)"
+ ],
+ "genel_ozellikler": [
+  "El becerisine sahip,",
+  "Dikkatli ve sabırlı,",
+  "Ölçme ve hesaplama işlemlerini doğru yapabilen,",
+  "Makine ve takım tezgahlarıyla çalışmaktan hoşlanan,",
+  "Şekilleri doğru algılayabilen ve zihinde canlandırabilen,",
+  "Fiziksel olarak dayanıklı,",
+  "Sorumluluk sahibi,",
+  "İşçi sağlığı ve iş güvenliği kurallarına uyan"
+ ],
+ "calisma_ortami": "Somun imal işçisi, genellikle metal işleme atölyelerinde veya fabrikalarda, kapalı mekânda ve ayakta çalışır. Çalışma ortamında metal talaşı, yağ ve gürültü bulunur; ısıl işlem ve galvaniz kaplama sırasında sıcaklık ve kimyasal madde riskiyle karşılaşabilir. Bu nedenle kişisel koruyucu donanım kullanımı önemlidir.\n\nÇalışma saatleri genellikle işletmenin çalışma düzenine göre belirlenir; sipariş yoğunluğuna bağlı olarak değişebilir. Çalışırken çoğunlukla makine ve takımlarla bireysel olarak ilgilenir; işveren, müşteriler ve diğer çalışanlarla kısa süreli iletişim kurar.",
+ "egitim": {
+  "verildigi_yerler": "Somun imal işçiliği için ayrı, örgün bir meslek lisesi programı bulunmamaktadır. Meslek genellikle metal işleme sektöründeki işyerlerinde usta yanında uygulamalı olarak öğrenilir. Mesleki eğitim merkezlerinin Metal Teknolojisi alanına bağlı dallarında edinilen bilgi ve beceriler bu mesleğe temel oluşturabilir. Ayrıca Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kursları da bu alanda beceri kazandırabilir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "Çıraklık eğitimine girecekler için ilgili mevzuatta belirtilen yaş şartını taşımak",
+   "Sağlık durumunun mesleğin gerektirdiği işlere (ayakta çalışma, makine kullanımı) uygun olması",
+   "Mesleki eğitim kurslarına katılmak için kursun aradığı genel şartları taşımak"
+  ],
+  "sure_ve_icerik": "Eğitim süresi ve içeriği, mesleğe giriş yoluna göre değişir. İşyerinde usta yanında yetişme sürecinde kişi; demir çubukların temini ve kesimi, takım tezgahının ayarlanması ve kullanımı, matkapla delik açma, vikvort-metrik açma işlemleri, ısıl işlem ve galvaniz kaplama süreçleri, ürünlerin tasnifi ve ambalajlanması gibi uygulamalı bilgi ve becerileri kademeli olarak öğrenir. Mesleki eğitim merkezi veya kurs yoluyla eğitim alanlarda ise genel metal işleme teknolojisi bilgisi, ölçme-kontrol teknikleri, iş güvenliği ve teknik resim okuma gibi konular teorik ve uygulamalı olarak işlenir.",
+  "belge": "Mesleki eğitim merkezinde eğitim alanlara kalfalık ve ustalık belgesi, kurs yoluyla yetişenlere ise kurs bitirme/katılım belgesi verilir. Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Somun imal işçileri; cıvata, somun ve diğer metal bağlantı elemanlarını üreten küçük ve orta ölçekli atölyelerde, metal işleme fabrikalarında ve sanayi sitelerindeki işletmelerde çalışabilir. Deneyim ve sermaye edinenler kendi işyerlerini açarak serbest olarak da çalışabilir. İstihdam olanakları, otomotiv, inşaat, makine imalatı gibi somun ve cıvata talebi yüksek olan sektörlerin üretim hacmine bağlı olarak değişkenlik gösterebilir.",
+ "kazanc": {
+  "egitim_suresince": "Mesleği işyerinde usta yanında çıraklık yoluyla öğrenenler, 3308 sayılı Mesleki Eğitim Kanunu kapsamında asgari ücretin belirli bir oranında ücret alabilir; bu süreçte iş kazası ve meslek hastalığı sigorta primleri karşılanır. Kurs yoluyla eğitim alanlarda ise genellikle ücret ödenmez, bazı kurslarda katılımcılara harcırah veya cüzi bir ödeme yapılabilir.",
+  "egitim_sonrasi": [
+   "Yeni başlayanlar genellikle asgari ücret düzeyinde kazanç elde eder.",
+   "Deneyim ve ustalık kazandıkça, çalışılan işletmenin büyüklüğü ve üretim hacmine göre kazanç artabilir.",
+   "Kendi işyerini açanların kazancı iş hacmine, müşteri çevresine ve sektördeki talebe göre değişir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleki eğitim merkezinden ustalık belgesi alanlar, ilgili alanın devamı niteliğindeki mesleki ve teknik eğitim programlarına veya yükseköğretimin ilgili ön lisans programlarına yönelebilir. Ayrıca Milli Eğitim Bakanlığı ve İŞKUR tarafından düzenlenen ileri düzey mesleki eğitim kurslarına katılarak bilgi ve becerilerini geliştirebilir.",
+  "is_hayatinda": "Mesleğe yeni başlayanlar basit işlemlerle görev alırken, deneyim kazandıkça makine ayarlama, kalite kontrol ve üretim planlama gibi daha nitelikli görevler üstlenebilir. Yeterli deneyime sahip olanlar usta, atölye sorumlusu veya üretim şefi konumuna yükselebilir; sermaye birikimi olanlar kendi işyerini açarak işveren konumuna geçebilir."
+ },
+ "benzer_meslekler": [
+  "Cıvata İmal İşçisi",
+  "Gijon İmal İşçisi",
+  "Mil Menteşe İmal İşçisi",
+  "Çivi İmal Makinesi Operatörü",
+  "Matkap Tezgahı Operatörü-Metal İşçiliği",
+  "CNC Torna Tezgahı Operatörü"
+ ],
+ "ek_bilgiler": "Somun imal işçiliği, cıvata ve diğer bağlantı elemanlarının üretimiyle yakından ilişkilidir; bu nedenle sektördeki istihdam ve iş bulma olanakları, otomotiv, inşaat ve makine imalatı gibi alanlardaki üretim hacmine bağlı olarak değişebilir. Isıl işlem ve galvaniz kaplama süreçlerinde kullanılan kimyasallar ve yüksek sıcaklık nedeniyle iş güvenliği önlemlerine özellikle dikkat edilmesi gerekir.",
+ "gorevler": [
+  "Belirlenmiş standartlara uygun olarak yarı mamul haldeki işlenebilir nitelikli demir çubukları temin eder.",
+  "Müşteriler tarafından herhangi bir numune veya teknik resim verilmemiş ise talep edilen ölçülerde teknik resim çizer.",
+  "Demir çubukları ilgili takım tezgahı makinesinde işleyebilmek için makinenin işleme kapasitesine göre belirli uzunlukta keser.",
+  "İmalatı yapılacak belirlenmiş standartlardaki (boy, istenilen büyüklükte delik açılması) somun için ilgili takım tezgahı makinesinin ayarlarını yapar.",
+  "Belirli uzunlukta kesilen demir çubukları makineye yerleştirir.",
+  "İlgili takım tezgahı makinesinde kesilen ve istenilen büyüklükte açılan deliklere vikvort ve metrik açmak için somunları sütunlu matkaba yerleştirir, uygun ayarı yaparak vikvort ve metrikleri açar.",
+  "İşlemi biten somunlara istenilen sertlik ve dayanıklılık için ısıl işlem yaptırır, galvanizle kaplatır ve galvaniz kaplama sırasında renklendirilmesini sağlar.",
+  "İmal edilen somunları alınan siparişe göre ölçü ve niteliklerine göre ayrı ayrı tasnif ederek ambalajlar.",
+  "Ambalajlanmış somunları müşteriye iş yerinde teslim eder.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T01:56:35",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6386
+  }
+ }
+}

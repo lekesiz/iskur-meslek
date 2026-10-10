@@ -1,0 +1,78 @@
+{
+ "arac_gerec": [
+  "Reaktör ve türbin kontrol paneli/konsolları",
+  "SCADA/dağıtık kontrol sistemi (DCS) ekranları",
+  "Reaktör kontrol çubukları kumanda sistemleri",
+  "Türbin, jeneratör ve kondansatör izleme ekipmanları",
+  "Basınç, sıcaklık ve seviye ölçüm cihazları",
+  "Radyasyon ölçüm cihazları ve kişisel dozimetreler",
+  "Çizelge, sayaç ve gösterge panelleri",
+  "Haberleşme cihazları (telsiz, interkom, telefon)",
+  "Bilgisayar ve işletim kayıt/raporlama yazılımları",
+  "Acil durum ve yangın söndürme ekipmanları",
+  "Temel el aletleri ve bakım takımları",
+  "Kişisel koruyucu donanım (iş elbisesi, baret, eldiven, koruyucu maske, kulaklık vb.)"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve tedbirli,",
+  "Sorumluluk duygusu yüksek,",
+  "Acil ve stresli durumlarda soğukkanlı kalabilen,",
+  "Kurallara ve talimatlara titizlikle uyan,",
+  "Teknik ve analitik düşünme yeteneği olan,",
+  "Matematik ve fen bilimlerine ilgili,",
+  "Uzun süre dikkatini bir konu üzerinde toplayabilen,",
+  "Ekip çalışmasına uyumlu,"
+ ],
+ "calisma_ortami": "Nükleer enerji santral operatörleri, genellikle kapalı alanda, santralin kontrol odasında ve zaman zaman santral sahasında çalışır. Çalışma ortamı, sıkı güvenlik ve radyasyondan korunma prosedürlerinin uygulandığı, yüksek teknik donanıma sahip, sürekli gözlem ve dikkat gerektiren bir ortamdır. Çalışma genellikle vardiya sistemiyle (gece-gündüz) yürütülür.\n\nGörev sırasında vardiya arkadaşları, mühendisler, bakım personeli, güvenlik ve denetim görevlileri ile sürekli iletişim halinde olunur. İşin niteliği nedeniyle yüksek dikkat ve hatasız karar verme gerektiren, sorumluluğu ağır bir çalışma düzeni söz konusudur.",
+ "egitim": {
+  "verildigi_yerler": "Türkiye'de nükleer enerji santrali operatörlüğüne özgü, örgün bir mesleki ve teknik ortaöğretim alanı/dalı bulunmamaktadır. Bu meslek, genellikle elektrik-elektronik, makine, mekatronik, enerji teknolojileri gibi ilgili mesleki ve teknik ortaöğretim okulları veya meslek yüksekokulu/yükseköğretim programlarından mezun olan kişilerin, nükleer santral işletmecisi kuruluşlar tarafından verilen özel teorik ve uygulamalı eğitim ile lisanslama süreçlerinden geçmesiyle kazanılmaktadır.",
+  "giris_kosullari": [
+   "Ortaöğretim (lise ve dengi) mezunu olmak; elektrik-elektronik, makine, mekatronik veya enerji ile ilgili alanlardan mezuniyet tercih sebebidir",
+   "Üst düzey görevler için ilgili alanlarda (elektrik-elektronik mühendisliği, makine mühendisliği, enerji sistemleri mühendisliği vb.) ön lisans/lisans mezunu olmak genellikle beklenir",
+   "İşe alım sınav, mülakat ve değerlendirme süreçlerini başarıyla tamamlamak",
+   "Nükleer tesis çalışma koşullarına uygun sağlık ve güvenlik şartlarını taşımak"
+  ],
+  "sure_ve_icerik": "Türkiye'de bu alana özgü standart bir örgün eğitim programı bulunmadığından, eğitim süresi ve içeriği işveren kuruluşun (nükleer santral işletmecisi) belirlediği programa göre değişmektedir. Eğitim genellikle teorik dersler, simülatör uygulamaları ve işbaşında deneyimli operatör gözetiminde uygulamalı eğitim aşamalarından oluşur. Göreve başlamadan önce ilgili düzenleyici kurum tarafından belirlenen lisanslama sınavlarının başarıyla tamamlanması gerekmektedir.",
+  "belge": "Mesleki ve teknik eğitim kurumlarından alınan diploma veya sertifikaların yanı sıra, görevi yürütebilmek için ilgili düzenleyici kurum tarafından verilen operatör lisansı/yetki belgesinin alınması gerekmektedir."
+ },
+ "calisma_alanlari": "Nükleer enerji santral operatörleri, Türkiye'de nükleer enerji santrali işletmeciliği yapan kuruluşlarda istihdam edilir. Meslek, ülkedeki nükleer enerji santrali sayısının henüz sınırlı olması nedeniyle dar ve özelleşmiş bir istihdam alanına sahiptir. İş bulma olanakları, mevcut veya kurulum/işletmeye alma sürecindeki santrallerin sayısına ve bu santrallerin personel ihtiyacına bağlı olarak değişmektedir.",
+ "kazanc": {
+  "egitim_suresince": "İşbaşı eğitim veya staj sürecinde ücretlendirme, ilgili kuruluşun uygulamalarına göre değişir. 3308 sayılı Mesleki Eğitim Kanunu kapsamında eğitim görülen durumlarda, yasal olarak belirlenen asgari ücret oranları esas alınır.",
+  "egitim_sonrasi": [
+   "Özel sektörde (nükleer santral işletmecisi kuruluşlarda) ücret; işletmenin büyüklüğü, çalışanın deneyimi, eğitim düzeyi ve taşıdığı sorumluluk/lisans seviyesine göre değişiklik gösterir.",
+   "Yeni başlayan operatörlerin ücreti genellikle sektör ortalamasının üzerinde olabilir; kesin bir tutar söz konusu değildir.",
+   "Kamu kurumu bünyesinde istihdam edilenler için 657 sayılı Devlet Memurları Kanunu veya ilgili statüye göre ücretlendirme yapılır."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Meslek elemanları, elektrik-elektronik, makine, enerji sistemleri mühendisliği gibi ilgili ön lisans veya lisans programlarına yönelerek bilgi ve yetkinliklerini geliştirebilir; ileri teknik bilgi genellikle mühendislik eğitimiyle kazanılır.",
+  "is_hayatinda": "Deneyim ve ek sertifikasyonlar kazandıkça vardiya amirliği, baş operatörlük, kontrol odası sorumluluğu gibi görevlere; ileri eğitim ve lisanslarla saha/işletme müdürlüğü gibi üst düzey yönetim pozisyonlarına yükselebilirler."
+ },
+ "benzer_meslekler": [
+  "Termik Santral Kumanda Operatörü",
+  "Termik Santral Elektrik İşletme Operatörü",
+  "Elektrik Tevzii Tablosu Operatörü-Enerji Merkezi",
+  "Hidroelektrik Santral Operatörü",
+  "Vardiya Amiri/Elektrik Enerjisi Üretimi",
+  "Nükleer Santral (Kimyasal Teknoljik) Tesis İşletme Personeli",
+  "Yüksek Gerilim Trafo Merkezi İşletme Elemanı"
+ ],
+ "ek_bilgiler": "Nükleer enerji santrallerinde çalışacak operatörlerin, radyasyondan korunma ve nükleer güvenlik kuralları konusunda ilgili düzenleyici kurum tarafından belirlenen özel eğitim, sınav ve lisanslama süreçlerinden geçmesi gerekmektedir. Bu nedenle meslek, sıkı denetime tabi, yüksek sorumluluk gerektiren ve istihdam alanı dar olan bir meslektir. Türkiye'de nükleer enerji santralciliği henüz gelişme aşamasında olduğundan, bu mesleğe yönelik eleman ihtiyacı sınırlı sayıda tesisle sınırlı kalmaktadır.",
+ "gorevler": [
+  "Enerji üreten güç tesislerini işletir, gözlemler ve kontrol eder.",
+  "Nükleer enerji tesislerinde elektrik enerjisi üretmek ve dağıtmak için kullanılan buhar kazanları (boyler), türbinler, jeneratörler, kondansatörler ve reaktörler dahil enerji üreten sistem ve teçhizatları işletir ve kontrol eder.",
+  "Elektrik enerjisi teçhizatlarının başlatılması ve kapatılmasını kontrol eder, devre işlemlerini kontrol eder, su seviyelerini ayarlar, iletim dirençlerini, frekanslarını ve hat voltajlarını ayarlar ve koordine eder.",
+  "Belli aralıklarla çizelge, sayaç ve göstergeleri okur, sorunları giderir ve gerektiğinde düzeltici önlemleri alır.",
+  "Tesis kayıtlarını, sistem günlüklerini ve raporları tamamlar ve tutar; teçhizatların işletim durumlarını belirlemek için tesiste görevli diğer personel ile iletişim kurar.",
+  "Jeneratör, buhar kazanı (boyler), türbin, pompa, kompresör gibi teçhizatların bozulmasını ve yıpranmasını önlemek için bunları temizler ve bakımını yapar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T10:56:01",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 7218
+  }
+ }
+}

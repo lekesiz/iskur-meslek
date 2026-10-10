@@ -1,0 +1,84 @@
+{
+ "arac_gerec": [
+  "Bilgisayar ve sigorta/muhasebe yazılımları",
+  "Telefon ve faks",
+  "Yazıcı ve fotokopi makinesi",
+  "Hesap makinesi",
+  "Poliçe, fiş ve basılı formlar",
+  "Posta çekleri ve senetler",
+  "Zimmet defteri ve kayıt defterleri",
+  "Dosyalama ve arşivleme malzemeleri",
+  "İstatistik ve hesap cetvelleri",
+  "Diğer büro malzemeleri"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve titiz çalışma alışkanlığına sahip,",
+  "Güvenilir,",
+  "Sayısal işlemlerde başarılı,",
+  "Düzenli ve sistemli çalışabilen,",
+  "İnsan ilişkilerinde başarılı ve ikna edici,",
+  "Sözlü ve yazılı iletişim becerisi güçlü,",
+  "Gizliliğe önem veren,",
+  "Sorumluluk sahibi,"
+ ],
+ "calisma_ortami": "Sigorta Memuru genellikle sigorta şirketlerinin merkez veya şube büroları, sigorta acenteleri ya da bankaların sigorta birimlerinde, kapalı ve temiz bir büro ortamında çalışır. İşin büyük bölümü masa başında, bilgisayar ve telefon kullanılarak yürütülür; fiziksel risk düzeyi düşüktür, ancak uzun süre ekran karşısında oturmak göz, boyun ve sırt sağlığı açısından dikkat gerektirir.\n\nÇalışma saatleri genellikle büro çalışma düzenine uygun olup, poliçe yenileme dönemleri, vade sonları ve mutabakat çalışmalarında iş yükü artabilir. Meslek mensubu; müşteriler, tahsildarlar, diğer sigorta şirketleri ve işletme içindeki farklı birimlerle sürekli yazılı ve sözlü iletişim kurar.",
+ "gorevler": [
+  "Sigorta yaptırmak isteyen müşterilerle görüşür.",
+  "Hayat sigortası için başvuranların tıbbi muayenelerini ayarlar.",
+  "Sigorta edilecek malı araştırır veya gerekli dokümanter bilgiyi elde eder.",
+  "Müşterinin seçtiği barem üzerinden poliçeyi doldurup fişleri tanzim eder.",
+  "Poliçelerin zamanında ödenmesi için müşterilerle telefon veya yazı ile irtibat kurar, müşterilerin cari hesaplarını takip ederek tahsilatların yapılmasını sağlar.",
+  "Poliçelere ilişkin posta çekleri ve senetleri düzenleyip sevkini yapar.",
+  "Hesap cetvelleri üzerindeki işlemleri gerçekleştirip poliçelere ek fatura düzenler.",
+  "Protesto olan senetlerin tahsil edilmesini sağlar, tahsil edilemeyenleri ilgili birime bildirir.",
+  "İstihsal tablolarını çıkarıp ilgili birime gönderir.",
+  "Gelen poliçelerin ayrımını yapıp zimmet defterine kaydederek tahsildara verir.",
+  "Taşradaki işlemler için posta föyü düzenler.",
+  "Poliçelere posta çeklerini ve senetleri ekleyip, cari hesaplara müşterilerin ödeme şartlarını geçirerek ödenen borçlara tahsil fişi keser.",
+  "Fişteki bilgileri cari hesaplara kaydedip, ödenmeyen borçlara ihtar çeker; ihtardan sonra ödenmeyen borçların poliçelerinin iptal edilmesini sağlar.",
+  "Sigorta şirketlerine satılan ve diğer sigorta şirketlerinden alınan sigorta paylarının prim ve komisyonlarını gösterir fişleri tanzim eder.",
+  "Diğer şirketlerle ilgili tahakkuk ve iptal bordrolarını şirketler adına tanzim edilmiş fişlerle karşılaştırır, yanlışlık bulunduğunda ilgili sigorta şirketine giderek işlemleri karşılaştırır.",
+  "Noksan olanları belirleyip mutabakat sağlandığında tutanak hazırlayarak ilgililere verir.",
+  "Şirketle ilgili hesapların genel toplamlarını alıp istatistik tablolarına aktararak ilgililere teslim eder.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Mesleğin gerektirdiği önlisans eğitimi, üniversitelerin sigortacılık ile ilgili önlisans programlarında (örneğin \"Sigortacılık\" veya \"Bankacılık ve Sigortacılık\" programları) verilmektedir. Bu önlisans eğitimi dışında, meslekte gerekli uygulama bilgisi büyük ölçüde işbaşında, usta/deneyimli personel yanında ve sigorta şirketlerinin kendi içi eğitim programları ile kazandırılmaktadır.",
+  "giris_kosullari": [
+   "Lise ve dengi okul mezunu olmak",
+   "Yükseköğretime Geçiş Sınavı (YKS) sonucuna göre ilgili önlisans programına yerleşmek"
+  ],
+  "sure_ve_icerik": "Önlisans programının süresi 2 yıl (4 yarıyıl)dır. Eğitim; sigortacılık ilkeleri, risk yönetimi, sigorta hukuku, muhasebe, genel işletme ve pazarlama derslerinin yanı sıra bilgisayar destekli ofis uygulamalarını kapsar; genellikle staj uygulaması da bulunur.",
+  "belge": "Programı tamamlayanlara önlisans diploması verilir."
+ },
+ "calisma_alanlari": "Sigorta Memurları başta sigorta şirketleri olmak üzere sigorta acenteleri, sigorta brokerlik firmaları, bankaların sigorta/bireysel emeklilik birimleri ve reasürans şirketlerinde istihdam edilmektedir. Meslek mensupları ayrıca büyük işletmelerin sigorta işlerini takip eden idari/mali işler birimlerinde de görev alabilir.",
+ "kazanc": {
+  "egitim_suresince": "Önlisans eğitimi sırasında yapılan stajlarda, staj yapılan işletmenin ve varsa ilgili mevzuatın belirlediği koşullara göre ödeme yapılabilir; staj sigortası genellikle okul/üniversite aracılığıyla sağlanır.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanların kazancı genellikle asgari ücret düzeyinde olmaktadır.",
+   "Kamu kurumlarına bağlı sigorta birimlerinde çalışanlar 657 sayılı Devlet Memurları Kanunu'na, işçi statüsünde çalışanlar ise ilgili toplu iş sözleşmesi hükümlerine tabi olabilir.",
+   "Özel sektördeki sigorta şirketi ve acentelerde kazanç; işletmenin büyüklüğü, çalışanın deneyimi, performansı ve sektördeki ücret düzeyine göre karşılıklı anlaşma ile değişebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Önlisans programından mezun olanlar, Dikey Geçiş Sınavı (DGS) ile sigortacılık, işletme, iktisat, bankacılık ve finans gibi ilgili lisans programlarına geçiş yapabilir. Ayrıca sektördeki kurum içi eğitimler, seminerler ve sertifika programları ile bilgi ve becerilerini geliştirebilirler.",
+  "is_hayatinda": "Deneyim kazanan Sigorta Memurları; servis sorumluluğu, şeflik, şube müdürlüğü gibi idari görevlere ya da sigorta eksperliği, acentelik gibi farklı uzmanlık alanlarına yönelebilir. Mesleki Yeterlilik Kurumu (MYK) belgeleri ve ilgili sektörel sertifikalar istihdamda ve kariyer ilerlemesinde tercih sebebi olabilir."
+ },
+ "benzer_meslekler": [
+  "Diğer Muhasebeciler",
+  "Muhasebe Elemanı",
+  "Muhasebe Meslek Elemanı",
+  "Tahakkuk Memuru",
+  "Ön Muhasebeci",
+  "Büro Memuru (Maliyet Hesabı)"
+ ],
+ "ek_bilgiler": "Sigortacılık sektöründe acentelik, eksperlik gibi bazı unvanlar için Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme Kurumu (SEDDK) tarafından belirlenen sınav ve yetkilendirme süreçleri bulunmaktadır; Sigorta Memuru ise bu yetkilendirilmiş unvanlardan farklı olarak büro hizmetleri kapsamında, işletme içinde idari ve sayısal işlemleri yürütür.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T16:12:40",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5836
+  }
+ }
+}

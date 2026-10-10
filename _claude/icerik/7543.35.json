@@ -1,0 +1,76 @@
+{
+ "arac_gerec": [
+  "Spektrofotometre (renk ölçüm cihazı)",
+  "Viskozimetre (akışkanlık/vizkozite ölçer, Ford kupası, Stormer viskozimetresi vb.)",
+  "Parlaklık ölçer (gloss metre)",
+  "Kuruma süresi test cihazı",
+  "Adhezyon (yapışma) test cihazı (çapraz kesme/çizgi testi seti)",
+  "Örtücülük test kartları ve film uygulayıcı (aplikatör)",
+  "Hassas terazi ve pH metre",
+  "Numune alma ekipmanları ve örnek kapları",
+  "Laboratuvar karıştırıcıları ve ısıtıcılar",
+  "Kişisel koruyucu donanım (eldiven, gözlük, önlük, maske)",
+  "Bilgisayar ve kalite kontrol kayıt/veri yazılımları",
+  "Laboratuvar defteri ve test raporu formları"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve titiz,",
+  "Renk ayırt etme yeteneği gelişmiş (renk körlüğü bulunmayan),",
+  "Analitik düşünebilen ve sonuç yorumlayabilen,",
+  "Sabırlı ve düzenli çalışabilen,",
+  "Sorumluluk sahibi,",
+  "Kimyasal maddelerle çalışmaya uygun sağlık durumuna sahip,",
+  "El ve göz koordinasyonu iyi,",
+  "Ekip çalışmasına uyumlu"
+ ],
+ "calisma_ortami": "Kalite Kontrolcü (Boya), genellikle fabrika bünyesindeki laboratuvarlarda ve gerektiğinde üretim atölyesinde (boya kazanlarının bulunduğu alanlarda) çalışır. Çalışma ortamı kapalı mekandır; boya hammaddelerinden kaynaklanan kimyasal koku ve buharlara kısa süreli maruziyet olabileceğinden kişisel koruyucu donanım kullanımı önemlidir. Çalışma saatleri genellikle gündüz mesaisi şeklindedir, ancak işletmenin üretim programına bağlı olarak vardiyalı çalışma da söz konusu olabilir.\n\nGörevini yerine getirirken üretim operatörleri, üretim şefleri, laboratuvar sorumlusu, Ar-Ge/formülasyon birimi çalışanları ve kalite güvence yöneticisi ile sürekli iletişim halindedir. Testlerde kullanılan ölçüm cihazlarının hassasiyeti ve standartlara uygunluk gerekliliği nedeniyle işini dikkat ve titizlikle yapması gerekir.",
+ "egitim": {
+  "verildigi_yerler": "Bu meslekte çalışmak için genellikle ortaöğretim (lise ve dengi) düzeyinde eğitim yeterli görülmektedir. Mesleki ve teknik liselerin kimya teknolojisi, boya ve vernik teknolojisi ya da ilgili alanlardaki programları ile meslek yüksekokullarının kimya teknolojisi/boya teknolojisi gibi önlisans programları bu mesleğe temel oluşturur. Ayrıca Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kursları ile işletme bünyesinde işbaşında usta/uzman yanında verilen eğitimler de bu mesleğe giriş için bir yol olabilir.",
+  "giris_kosullari": [
+   "Ortaöğretim (lise veya dengi okul) mezunu olmak",
+   "İlgili mesleki ve teknik lise ya da meslek yüksekokulu programlarına kayıt için gerekli koşulları (varsa merkezi sınav puanı, tercih kılavuzu şartları) taşımak",
+   "Renk ayırt etme yeteneğinin bulunması (renk körlüğünün olmaması)",
+   "Kimyasal maddelerle çalışmaya engel bir sağlık sorununun bulunmaması"
+  ],
+  "sure_ve_icerik": "Mesleki ve teknik lise düzeyindeki eğitim 4 yıl, önlisans düzeyindeki programlar ise genellikle 2 yıl sürmektedir. Eğitim içeriğinde temel kimya, analitik kimya, renk ve optik, boya hammaddeleri ve formülasyonu, laboratuvar teknikleri, kalite kontrol ve ölçme yöntemleri, iş sağlığı ve güvenliği gibi konular yer alır. Kurumlar ve işletmeler tarafından düzenlenen kısa süreli mesleki kurslar ile işbaşında verilen eğitimler de mesleğe uyum sağlanmasında önemli rol oynar.",
+  "belge": "Mesleki ve teknik lise diploması veya önlisans diploması alınır. Ayrıca Mesleki Yeterlilik Kurumu (MYK) tarafından ilgili alanda bir yeterlilik belgesi düzenlenmesi halinde bu belge istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Kalite Kontrolcü (Boya), ağırlıklı olarak özel sektörde istihdam edilir. Yapı boyaları (iç/dış cephe boyaları), endüstriyel boyalar, otomotiv boyaları, ahşap ve metal kaplama boyaları üreten fabrikaların laboratuvar ve kalite kontrol birimlerinde çalışma olanağı bulur. Ayrıca boya hammaddesi üreten kimya şirketlerinin Ar-Ge ve kalite güvence bölümlerinde de görev alabilir. Boya sektörünün inşaat, otomotiv ve sanayi üretimine bağlı olarak gelişmesi, bu alandaki istihdam olanaklarını etkilemektedir.",
+ "ek_bilgiler": "Boya üretiminde kullanılan bazı kimyasal maddelerin niteliğine göre işyerinde iş sağlığı ve güvenliği uygulamalarına özel önem verilmesi gerekebilir; bu nedenle kişisel koruyucu donanım kullanımı ve laboratuvar güvenlik kurallarına uyum önemlidir. Mesleki Yeterlilik Kurumu (MYK) belgesine sahip olmak, işe alımlarda tercih sebebi olabilir.",
+ "gorevler": [
+  "Üretim kazanlarından periyodik boya numuneleri alır",
+  "Spektrofotometre ile renk sapmalarını (delta-E) ölçer",
+  "Boyanın yüzeye tutunma (adhezyon) ve örtücülük testlerini yapar",
+  "Kimyasal bileşenlerin reçeteye uygunluğunu analiz eder",
+  "Standart dışı ürünler için üretim birimine düzeltme bildirimi yapar",
+  "Mesleki gelişim faaliyetlerinde bulunur"
+ ],
+ "kazanc": {
+  "egitim_suresince": "Mesleki ve teknik lise veya önlisans eğitimi sırasında yapılan staj/işbaşı eğitim uygulamalarında öğrenciye işletme tarafından sınırlı bir ödeme yapılabilir; bu tutar genellikle asgari ücretin altında kalmaktadır.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanların kazancı genellikle asgari ücret düzeyindedir.",
+   "Deneyim, bilgi birikimi, işletmenin büyüklüğü ve sektördeki konumuna göre kazanç artış gösterebilir.",
+   "Özel sektörde ücretler işveren ile çalışan arasında serbestçe belirlenir; bazı büyük işletmelerde toplu iş sözleşmesi hükümleri uygulanabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Lise veya önlisans eğitimini tamamlayanlar, kimya mühendisliği, kimya, malzeme mühendisliği gibi lisans programlarına geçiş yaparak alanında daha ileri düzeyde eğitim alabilir. Ayrıca sektöre özgü ileri düzey laboratuvar ve kalite yönetim sistemleri kurslarına katılarak bilgi ve becerilerini geliştirebilir.",
+  "is_hayatinda": "Deneyim kazandıkça kalite kontrol şefliği, laboratuvar sorumluluğu, kalite güvence uzmanlığı veya üretim/Ar-Ge birimlerinde daha üst düzey görevlere yükselme olanağı bulunmaktadır."
+ },
+ "benzer_meslekler": [
+  "Kalite Kontrolcü",
+  "Kalite Kontrolcü (Çimento)",
+  "Kalite Kontrolcü (Plastik)",
+  "Kalite Kontrolcü (Metal)",
+  "Malzeme Muayene ve Kontrolcüsü",
+  "Kalite Muayene Test ve Kontrolcüsü"
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T09:59:06",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5424
+  }
+ }
+}

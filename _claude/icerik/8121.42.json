@@ -1,0 +1,78 @@
+{
+ "arac_gerec": [
+  "Soğuk haddeleme tezgâhı ve silindirleri",
+  "Kumanda/kontrol paneli",
+  "Konveyör bant sistemi",
+  "Su püskürtme ve soğutma sistemi",
+  "Bobin açma-sarma düzenekleri",
+  "Kesme ve makaslama tezgâhları",
+  "Kalınlık ve yüzey ölçüm cihazları (mikrometre, kumpas)",
+  "Kalite/yüzey muayene aletleri",
+  "Vinç ve forklift",
+  "İş eldiveni, koruyucu gözlük, baret, kulak koruyucu, iş elbisesi",
+  "Yağlama ve bakım ekipmanları",
+  "Taşıma paletleri ve arabaları"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli,",
+  "Sorumluluk sahibi,",
+  "El ve göz koordinasyonu gelişmiş,",
+  "Fiziksel olarak dayanıklı,",
+  "Makine ve teknik sistemlere ilgili,",
+  "Talimatları doğru yorumlayabilen,",
+  "Ekip çalışmasına yatkın,",
+  "Vardiyalı çalışma düzenine uyum sağlayabilen,"
+ ],
+ "calisma_ortami": "Soğuk Haddeci (Çelik), fabrika ve haddehane tesislerinde, genellikle kapalı mekânlarda çalışır. Çalışma ortamı makine gürültüsü, titreşim ve soğutma suyu nedeniyle zaman zaman nemli/ıslak zemin gibi özellikler taşır; bu nedenle iş sağlığı ve güvenliği kurallarına dikkatle uyulması gerekir. Metal çubuk veya levhaların yüksek hızda ve basınçla işlendiği tezgâhların yakınında çalışıldığından koruyucu donanım kullanımı önemlidir.\n\nİşletmenin üretim programına göre genellikle vardiya usulü (gece-gündüz) çalışılır. Meslek elemanı; vardiya arkadaşları, usta başı, bakım personeli ve kalite kontrol elemanlarıyla sürekli iletişim hâlindedir.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi büyük ölçüde işbaşında, haddehane işletmelerinde usta yanında uygulamalı olarak kazanılır. Yeterli talep bulunması durumunda mesleki eğitim merkezlerinin Metal Teknolojisi alanı kapsamındaki ilgili dallarında kalfalık ve ustalık eğitimi de verilebilir. Ayrıca Halk Eğitim Merkezleri ile İŞKUR tarafından açılan mesleki eğitim kursları bu alanda temel beceri kazandırabilir.",
+  "giris_kosullari": [
+   "Çıraklık eğitimine başlamak için en az ortaokul mezunu olmak ve 14 yaşını doldurmuş olmak",
+   "Mesleğin fiziksel gereklerine (işitme, görme, genel bedensel dayanıklılık) uygun sağlık durumuna sahip olmak",
+   "Eğitim görülecek bir işyeri bularak işveren ile çıraklık sözleşmesi imzalamak"
+  ],
+  "sure_ve_icerik": "Mesleki eğitim merkezi programı kapsamında eğitim alanlar için öğrenim süresi, ilgili programın yapısına göre genellikle birkaç yıl olup bu sürenin bir bölümü kalfalık bir bölümü ustalık eğitimidir. Eğitim; genel kültür ve meslek derslerinin yanı sıra işletmede uygulamalı çalışmayı içerir. Program dışında işe girenler ise işletme bünyesinde usta yanında, haddehane makinelerinin kullanımı, ölçüm teknikleri ve iş güvenliği konularında uygulamalı olarak yetişir.",
+  "belge": "Mesleki eğitim merkezi programını tamamlayanlara kalfalık, ardından ustalık belgesi verilir. İşbaşında yetişenler işletme tarafından düzenlenen deneyim/hizmet belgeleriyle çalışabilir; Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Soğuk Haddeci (Çelik), demir-çelik ve metal işleme sektöründe faaliyet gösteren soğuk haddehanelerde, çelik levha, çubuk, bobin ve profil üreten fabrikalarda çalışır. Organize sanayi bölgelerindeki metal işleme tesisleri bu mesleğin başlıca istihdam alanıdır. Çalışma alanı ağırlıklı olarak özel sektördür; kamu kuruluşlarında doğrudan istihdam imkânı sınırlıdır.",
+ "kazanc": {
+  "egitim_suresince": "Mesleki eğitim merkezi programı kapsamında eğitim görenlere, 3308 sayılı Mesleki Eğitim Kanunu çerçevesinde asgari ücretin belirli bir oranından aşağı olmamak üzere ücret ödenir ve iş kazası ile meslek hastalıklarına karşı sigorta primleri devletçe karşılanır. İşbaşında usta yanında yetişenler ise genellikle işyerinin ödediği ücretle çalışır.",
+  "egitim_sonrasi": [
+   "Yeni başlayanlar genellikle asgari ücret düzeyinde çalışmaya başlar.",
+   "Özel sektörde ücret; deneyim, işletmenin büyüklüğü, vardiya ve fazla mesai durumuna göre değişiklik gösterir.",
+   "İşçi statüsünde kamuya bağlı işletmelerde çalışanların ücreti ilgili toplu iş sözleşmesi hükümlerine göre belirlenir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleki eğitim merkezinden kalfalık ve ustalık belgesi alanlar, fark derslerini tamamlamaları hâlinde meslek lisesi diploması alabilir; açık öğretim yoluyla eğitimlerini sürdürerek metalurji, makine teknolojisi gibi ilgili ön lisans programlarına yönelebilir.",
+  "is_hayatinda": "Deneyim kazandıkça vardiya sorumluluğu, usta başılığı, kalite kontrol veya üretim şefliği gibi görevlere yükselebilir. Farklı hadde tiplerinde (kütük, çubuk, blok haddesi) ve elektronik kumandalı modern haddehane sistemlerinde uzmanlaşarak daha nitelikli pozisyonlara geçebilir."
+ },
+ "benzer_meslekler": [
+  "Sıcak Haddeci-Çelik",
+  "Bitirme Haddecisi (Metal) (Soğuk Haddehane)",
+  "Hadde Ayarcısı (Metal)",
+  "Haddehane Maniplatörü",
+  "Kontinü Hadde Operatörü (Çelik)",
+  "Diğer Haddehane Operatörleri (Metal)"
+ ],
+ "ek_bilgiler": "Haddehanelerde çalışma, yüksek hızlı makineler ve ağır metal parçalarla iç içe olması nedeniyle İş Sağlığı ve Güvenliği mevzuatı kapsamında tehlikeli/çok tehlikeli işler sınıfında değerlendirilebilir; bu nedenle işe girişte sağlık raporu ve periyodik sağlık muayeneleri istenebilir.",
+ "gorevler": [
+  "Yazılı ya da sözlü talimatları yorumlayarak çalışma biçimine karar verir.",
+  "Silindirlerin, haddehanenin ve konveyör hızının ayarlanması için talimat verir ve su püskürtme işlemini düzenler.",
+  "Haddehanenin çalışmasını gözler, haddeleme işlemi sırasında ürünleri inceler ve gerektiğinde kumanda ayarları için talimat verir.",
+  "Bitmiş ürünleri muayene eder ve ölçer.",
+  "Kütük haddesi, çubuk haddesi ya da blok haddesi gibi özel tip bir haddehanede ihtisaslaşabilir.",
+  "Çeliğe programlı olarak otomatik şekil veren elektronik kumandalı bir haddehaneyi çalıştırabilir.",
+  "Soğuk hadde tezgâhını çalıştırmada ihtisaslaşabilir.",
+  "Özel bir ürün tipinde ya da soğuk haddeleme yönteminde ihtisaslaşabilir.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T11:16:50",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6905
+  }
+ }
+}

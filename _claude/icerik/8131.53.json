@@ -1,0 +1,75 @@
+{
+ "arac_gerec": [
+  "Hassas tartım terazisi",
+  "Boya ve kimyasal maddeler için bidonlar",
+  "Naylon poşet ve zımba makinesi",
+  "Karıştırma kapları, kovalar",
+  "Reçete/üretim föyleri ve kayıt defterleri",
+  "Ölçü kapları (mezür, huni, kaşık)",
+  "Etiketleme malzemeleri",
+  "Depolama rafları ve dolapları",
+  "El arabası/transpalet",
+  "Kişisel koruyucu donanım (eldiven, maske, gözlük, önlük, bone)"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve titiz,",
+  "Sorumluluk duygusu yüksek,",
+  "Renkleri ve miktarları doğru ayırt edebilen,",
+  "El ve göz koordinasyonu iyi,",
+  "Hesap kabiliyetine sahip,",
+  "Talimat ve reçetelere eksiksiz uyan,",
+  "Takım çalışmasına uyumlu,",
+  "Fiziksel olarak dayanıklı"
+ ],
+ "calisma_ortami": "Varyant (boya mutfağı işçisi), tekstil baskı ve boyahane işletmelerinin boya mutfağı bölümünde çalışır. Çalışma ortamı kapalı bir atölye ortamıdır; boya ve kimyasal madde kokuları, toz ve nem bulunabilir, bu nedenle kişisel koruyucu donanım kullanımı önemlidir. İş genellikle ayakta ve hareketli olarak yürütülür, tartım ve hazırlık işlemleri sırasında dikkat gerektirir.\n\nÇalışma saatleri işletmenin üretim programına göre değişebilir, vardiyalı çalışma söz konusu olabilir. Meslek elemanı; üretim, laboratuvar, satın alma ve kalite kontrol birimleriyle iş birliği içinde çalışır, genellikle ekip hâlinde görev yapar.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi, gereken minimum eğitim düzeyinin ilköğretim olması nedeniyle genellikle işyerlerinde usta yanında işbaşı eğitim şeklinde verilmektedir. Ayrıca Halk Eğitim Merkezleri ve İŞKUR tarafından açılan tekstil/kimya teknolojisi alanındaki mesleki eğitim kurslarında da ilgili temel beceriler kazandırılabilir.",
+  "giris_kosullari": [
+   "İlköğretim mezunu olmak",
+   "Okuryazar olmak",
+   "Kurs/işbaşı eğitim programının öngördüğü temel becerileri gerçekleştirebilecek fiziksel ve psikomotor yeterliğe sahip olmak"
+  ],
+  "sure_ve_icerik": "Resmî olarak standart bir mesleki eğitim programı süresi bulunmamaktadır. İşbaşında verilen eğitim süreci işletmeden işletmeye değişmekle birlikte; reçete okuma, hassas tartım, kimyasal madde tanıma, karıştırma ve hazırlık teknikleri, iş sağlığı ve güvenliği konularını kapsar. Kurs şeklinde verilen eğitimlerde içerik, kimya teknolojisi alanındaki temel konulara dayanır.",
+  "belge": "İşyerinde işbaşı eğitimle yetişenlere genellikle resmî bir belge verilmez; çalışma deneyimine dayalı bir hizmet belgesi düzenlenebilir. Kurs yoluyla eğitim alanlara ilgili kurumdan Kurs Bitirme Belgesi verilebilir. Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Mesleğin gerektirdiği yeterlilikleri kazanan bireyler; tekstil baskı ve boyahane fabrikalarının boya mutfağı/kimyasal hazırlama bölümlerinde, kumaş baskı işletmelerinde ve benzeri tekstil üretim tesislerinde çalışabilirler.",
+ "kazanc": {
+  "egitim_suresince": "İşbaşında usta yanında eğitim alanlar genellikle çalıştıkları işletmeden ücret alabilir; kurs şeklinde verilen eğitimlerde ise herhangi bir kazanç söz konusu değildir.",
+  "egitim_sonrasi": [
+   "Meslek elemanlarının aldığı ücret, çalıştıkları işletmenin büyüklüğüne ve bireyin deneyimine göre değişmekle birlikte, mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Deneyim ve sorumluluk arttıkça ücret düzeyi yükselebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğin örgün eğitimde doğrudan bir ilerleme basamağı bulunmamaktadır. İlgili kimya teknolojisi veya tekstil alanındaki mesleki ve teknik eğitim programlarına katılarak bilgi ve beceriler geliştirilebilir.",
+  "is_hayatinda": "Bilgi, beceri ve deneyim arttıkça meslek elemanları usta, ekip lideri, boya mutfağı sorumlusu veya vardiya amiri gibi unvanlar alarak iş hayatında ilerleme imkânı bulabilirler."
+ },
+ "benzer_meslekler": [
+  "Boya Hazırlayıcı (Tekstil)",
+  "Boyahane Tesis Takip İşçisi",
+  "Reaktör İşçisi (Boya)",
+  "Hammadde Hazırlama İşçisi (Boya)",
+  "Boya Renk Ayar Elemanı",
+  "Pasta İşçisi (Boya)"
+ ],
+ "ek_bilgiler": "Meslek, boya ve kimyasal maddelerle doğrudan çalışmayı içerdiğinden kişisel koruyucu donanım kullanımı ve iş sağlığı güvenliği kurallarına eksiksiz uyulması önemlidir. Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir.",
+ "gorevler": [
+  "İşletmeden gelen reçeteleri kabul eder.",
+  "Gelen reçetelere göre kimyasalları tartar, bidonlara koyar.",
+  "Boyaları tartar, naylon poşetlere koyarak zımbalar.",
+  "Tartımı tamamlanan ürünleri ilgili birimlere bildirir.",
+  "Tartılan kimyasalları reçetedeki yazılış sırasına göre dizer.",
+  "Boya ve kimyasallar bitmeden önce satın alma birimine haber verir.",
+  "İşiyle ilgili kayıtları tutar.",
+  "Çalışma alanının tertipli ve temiz olmasını sağlar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T12:18:38",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 4723
+  }
+ }
+}

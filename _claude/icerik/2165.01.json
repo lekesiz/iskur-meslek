@@ -1,0 +1,78 @@
+{
+ "arac_gerec": [
+  "Çelik şerit metre",
+  "Elektronik teodolit",
+  "Elektronik takometre (total station)",
+  "Elektronik mesafe ölçer",
+  "Nivo (yükseklik ölçme aleti)",
+  "Prizma",
+  "Jalon ve jalon sehpası",
+  "Minkale (açı ölçme aleti)",
+  "GPS/GNSS alıcısı",
+  "Aydınger kağıdı ve çizim aletleri (pergel, cetvel, iletki)",
+  "Kazık, mira ve işaretleme malzemeleri",
+  "Bilgisayar ve harita/çizim yazılımları",
+  "Koruyucu iş kıyafeti, yelek, baret ve çizme"
+ ],
+ "genel_ozellikler": [
+  "Şekil ve uzay ilişkilerini görebilen,",
+  "Dikkatli ve sabırlı gözlem yapabilen,",
+  "Açık havada ve zorlu arazi koşullarında çalışmaktan hoşlanan,",
+  "El-göz koordinasyonu iyi, çizim yapabilme yeteneğine sahip,",
+  "Matematik ve geometriye ilgili,",
+  "Ekip halinde uyumlu çalışabilen,",
+  "Fiziksel olarak dayanıklı,",
+  "Titiz ve sorumluluk sahibi"
+ ],
+ "calisma_ortami": "Arazi topoğrafları işlerinin büyük bölümünü açık havada, arazi üzerinde yürüterek yaparlar; çalışma alanı kent içi inşaat sahalarından dağlık, kırsal veya ulaşımı zor bölgelere kadar değişebilir ve her türlü iklim koşulunda (sıcak, soğuk, yağmur vb.) saha çalışması gerektirebilir. Ölçüm sonuçlarının değerlendirilmesi, haritaya aktarılması ve proje hazırlığı aşamalarında ise büroda, masa başında ve bilgisayar ortamında çalışırlar.\n\nGörev gereği sık sık farklı şantiye ve arazilere seyahat edilir, çalışma saatleri projenin ve hava koşullarının durumuna göre değişkenlik gösterebilir. Çalışma sırasında harita mühendisleri, teknikerler, inşaat ekipleri, müteahhitler ve işveren temsilcileriyle sürekli iletişim kurulur. İş, uzun süre ayakta kalma, yürüme ve bazen zorlu/engebeli arazide hareket etme gerektirdiğinden fiziksel efor ve trafik, yüksek rakım, hava şartları gibi risklere karşı dikkatli olunması gerekir.",
+ "calisma_alanlari": "Arazi topoğrafları; harita ve ölçme büroları, inşaat ve müteahhitlik firmaları (bina, yol, köprü, baraj vb. projeler), karayolları ve altyapı projeleri, kadastro ve tapu çalışmalarına destek veren kuruluşlar, maden işletmeleri, enerji ve iletişim hatları (elektrik, boru hattı vb.) projeleri ile belediyelerin imar ve harita birimlerinde çalışabilirler. Genellikle harita mühendisi veya harita teknikerinin gözetiminde, ölçüm ekiplerinde görev alırlar. İş bulma olanakları; inşaat, altyapı, enerji ve kadastro çalışmalarının yoğunluğuna, bölgesel yatırım hacmine göre değişkenlik gösterir.",
+ "gorevler": [
+  "Bina ve diğer inşaatların şehir planındaki krokilerini alır, yerlerini belirler.",
+  "Nivo ve topoğrafik ölçme aletleri ile araziyi ölçer, notlar alır, eğimini belirler.",
+  "Aldığı ölçümlerle harita çizim tekniğine uygun olarak aydınger kağıdına arazinin haritasını çizer.",
+  "Araziye giderek viraj, köprü ve zeminin uygunluğu bakımından incelemeler yapar, yol güzergahını tespit eder; hat aplikasyonu yapmak için kazıklar arası mesafeyi ölçer, tespit ettiği noktaların deniz seviyesine olan yüksekliğini ölçerek kodlandırır.",
+  "Hat güzergahını ve kazıklarla tespit edilmiş noktaların avan projesini hazırlayarak belirtir.",
+  "Doldurulması gereken yerleri, viraj ve köprü olmaya müsait noktaları tespit eder.",
+  "Almış olduğu ölçümleri belirli oranlarda küçülterek ölçeklerini tespit eder, tatbikat projesine işler.",
+  "Arazide yapılan topoğrafik çalışmalarda ihtisas sahibi olur.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Arazi topoğrafı mesleğine yönelik resmî olarak tek bir ortaöğretim programı adı tanımlı değildir. Meslek, mesleki ve teknik ortaöğretim kurumlarının inşaat teknolojisi veya harita-tapu kadastro ile ilgili alanlarındaki eğitim programları, Halk Eğitim Merkezleri ile İŞKUR'un açtığı mesleki eğitim kursları, ayrıca harita mühendisi/teknikerinin yanında işbaşında uygulamalı olarak kazanılabilmektedir.",
+  "giris_kosullari": [
+   "Mesleki ve teknik ortaöğretim kurumlarının ilgili alanlarına kayıt için ortaokul mezunu olmak,",
+   "Mesleki eğitim merkezi programlarına katılmak için ilgili yaş ve öğrenim şartlarını taşımak,",
+   "Halk Eğitim Merkezi ve İŞKUR kurslarına katılmak için genellikle en az ilköğretim/ortaokul mezunu olmak."
+  ],
+  "sure_ve_icerik": "Mesleki ve teknik ortaöğretim kapsamında eğitim yaklaşık 4 yıl sürer; ortak kültür dersleri yanında ölçme bilgisi, harita çizim teknikleri, topoğrafya aletlerinin kullanımı ve arazi uygulamalarına yönelik alan dersleri ve atölye/işletme stajları ile yürütülür. Halk Eğitim Merkezi veya İŞKUR kursları ile işbaşı eğitimlerde süre ve içerik programa göre değişmekle birlikte genellikle temel ölçme teknikleri ile aletlerin kullanımına ilişkin teorik ve uygulamalı (arazi) eğitim verilir.",
+  "belge": "Mesleki ve teknik ortaöğretim kurumlarından mezun olanlara diploma; kurs ve işbaşı eğitim programlarını tamamlayanlara ise kurs bitirme sertifikası veya katılım belgesi verilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Mesleki ve teknik ortaöğretim sırasında genellikle doğrudan ücret alınmaz; işletmelerde yapılan staj dönemlerinde sınırlı düzeyde ödeme yapılabilir. İşbaşında usta yanında veya kurs sonrası staj yoluyla öğrenenler, çalıştıkları süre için genellikle asgari ücret düzeyinde veya daha düşük bir ödeme alabilir.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında işçi statüsünde istihdam edilenlerin ücreti ilgili toplu iş sözleşmesi hükümlerine göre belirlenir.",
+   "Özel sektörde (inşaat, ölçme büroları vb.) çalışanların ücreti; işyeri büyüklüğü, deneyim ve üstlenilen sorumluluğa göre karşılıklı anlaşmayla belirlenir. Mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar, deneyim ve uzmanlık arttıkça bu düzeyin üzerine çıkılabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Deneyim kazanan arazi topoğrafları, isteyip şartları sağladıklarında harita teknikerliğine yönelik önlisans programlarına veya açıköğretim/dikey geçiş gibi yollarla harita mühendisliği gibi lisans programlarına geçiş yaparak mesleki bilgi ve unvanlarını ilerletebilirler.",
+  "is_hayatinda": "İş hayatında deneyim kazandıkça ölçüm ekibi sorumluluğu, saha şefliği gibi görevlere yükselebilir; harita mühendisi veya teknikeri ile birlikte proje koordinasyonunda görev alabilir, isterlerse kendi ölçme/harita bürolarını kurabilirler."
+ },
+ "benzer_meslekler": [
+  "Diğer Topoğraflar",
+  "Fotogrametrist",
+  "Maden Topoğrafı",
+  "Su Topoğrafı",
+  "Topoğraf",
+  "Harita Mühendisi"
+ ],
+ "ek_bilgiler": "Arazi topoğrafları genellikle harita mühendisi veya harita teknikerinin gözetiminde, ölçüm ve uygulama ekiplerinde yardımcı/uygulayıcı olarak çalışır. Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda tercih sebebi olabilir. İş bulma olanakları, inşaat, altyapı ve kadastro çalışmalarının yoğunluğuna bağlı olarak dönemsel ve bölgesel farklılık gösterebilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-07T21:57:50",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6584
+  }
+ }
+}

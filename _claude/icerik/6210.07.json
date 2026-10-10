@@ -1,0 +1,80 @@
+{
+ "arac_gerec": [
+  "Emniyet kemeri",
+  "Tırmanma ipi (halat)",
+  "Mahmuz (tırmanma demiri)",
+  "Balta",
+  "El bıçkısı / el testeresi",
+  "Çekme palangası",
+  "Baret (kask)",
+  "Koruyucu iş eldiveni",
+  "Koruyucu iş elbisesi ve çizme/bot",
+  "İlk yardım malzemeleri",
+  "Haberleşme cihazı (telsiz/düdük)",
+  "İp bağlama ve sabitleme ekipmanları"
+ ],
+ "genel_ozellikler": [
+  "Fiziksel olarak güçlü ve dayanıklı,",
+  "Yükseklik korkusu olmayan,",
+  "Denge ve koordinasyon yeteneği gelişmiş,",
+  "El, kol ve bilek kuvveti yüksek,",
+  "Dikkatli, tedbirli ve sorumluluk sahibi,",
+  "Açık havada ve zor arazi koşullarında çalışmaya istekli,",
+  "Risk altında sakin kalabilen,",
+  "Takım halinde çalışmaya uyumlu,"
+ ],
+ "calisma_ortami": "Tırmanıcı (Tomrukçuluk), açık havada, ormanlık ve dağlık arazilerde, genellikle şehir merkezlerinden uzak kırsal bölgelerde çalışır. İşin esası ağaç gövdesine tırmanarak yüksekte, tepelerde ve dallarda hareket etmeyi gerektirdiğinden çalışma düşme ve yaralanma riski taşıyan tehlikeli işler kapsamında değerlendirilir. Çalışma koşulları mevsim ve hava şartlarına bağlı olarak değişir; sıcak, soğuk, yağmurlu veya rüzgarlı havalarda, eğimli ve zemini düzgün olmayan arazilerde fiziksel olarak yorucu şekilde çalışılır. Çalışma saatleri gün ışığına ve orman kesim mevsimine göre düzenlenir, bazı dönemlerde yoğun ve uzun saatler çalışılabilir.\n\nTırmanıcı, çalışmalarını genellikle bir ekip içinde; orman mühendisi, orman teknikeri, diğer orman üretim işçileri, tomrukçular, sürütme ve yükleme işçileri ile birlikte ve koordineli biçimde yürütür. İş güvenliği kurallarına titizlikle uyulması, ekip üyeleri arasında sürekli iletişim ve dikkat gerektirir.",
+ "calisma_alanlari": "Tırmanıcı (Tomrukçuluk), başta Orman Genel Müdürlüğüne bağlı orman işletmeleri olmak üzere, özel orman işletmelerinde, tomrukçuluk ve kereste üretimi yapan firmalarda, orman kooperatiflerinde ve orman ürünleri üretim faaliyetlerinde iş bulabilir. Çalışma genellikle mevsimsel ve proje bazlı kesim/üretim dönemlerine göre şekillenir; orman varlığının yoğun olduğu kırsal bölgelerde iş olanağı daha fazladır. Günümüzde ağaç kesim ve budama işlerinde motorlu testere ve mekanik ekipman kullanımının artması nedeniyle, tamamen elle ve tırmanma yöntemiyle yapılan bu işin uygulama alanı sınırlı kalmakta ve belirli özel durumlarda (makineli kesimin uygun olmadığı arazi veya ağaçlarda) tercih edilmektedir.",
+ "ek_bilgiler": "Bu meslek, yüksekte çalışma ve düşme riski taşıması nedeniyle tehlikeli işler kapsamında değerlendirilebilir; bu nedenle iş güvenliği kurallarına ve kişisel koruyucu donanım kullanımına büyük önem verilmelidir. Yasal düzenlemeler nedeniyle 18 yaşını doldurmamış kişilerin bu işte çalıştırılmaması gerekir. Günümüzde motorlu testere ve mekanik ekipmanlarla yapılan kesim yöntemlerinin yaygınlaşması, mesleğin geleneksel biçimde icra edildiği iş alanını sınırlandırmaktadır.",
+ "gorevler": [
+  "Emniyet kemerini takar.",
+  "Tırmanma ipini beline dolar.",
+  "Mahmuz takar veya ağaç gövdesinde tırmanmak için çentik açar.",
+  "Tırmanma ipini ağaç gövdesinin çevresine dolar.",
+  "İpin ucunu bırakmadan yukarı doğru fırlatarak ipi gerer.",
+  "Vücudunu arkaya salıp ipe asılarak yukarıya doğru vücudunu çeker ve ilk basamak çentiğine basar.",
+  "İkinci basamak çentiğini açarak ağaca tırmanır.",
+  "Balta ve el bıçkısıyla ağaçların budanacak dallarını ve tepelerini keser.",
+  "Ağaçların çekme palangasını takabilir.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Tırmanıcı (Tomrukçuluk) mesleğine yönelik örgün bir mesleki ve teknik eğitim programı bulunmamaktadır. Mesleğin gerektirdiği bilgi ve beceriler genellikle orman işletmelerinde işbaşında, deneyimli usta yanında çalışılarak kazanılır. Ayrıca Halk Eğitim Merkezleri, orman işletmelerinin düzenlediği iş güvenliği/teknik eğitimler ve İŞKUR'un açtığı mesleki eğitim kursları bu mesleğe hazırlıkta yararlanılabilecek kaynaklardır.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak,",
+   "18 yaşını doldurmuş olmak,",
+   "Yüksekte çalışmaya engel bir sağlık sorunu bulunmamak,",
+   "Fiziksel olarak güçlü ve sağlıklı olmak."
+  ],
+  "sure_ve_icerik": "Mesleğe yönelik belirli bir süre ve içeriğe sahip örgün bir eğitim programı yoktur. Bilgi ve beceriler, orman işletmelerinde deneyimli çalışanların yanında işbaşında uygulamalı olarak, kısa süreli iş güvenliği ve teknik beceri eğitimleriyle desteklenerek kazanılır.",
+  "belge": "Mesleğe örgün eğitim yoluyla giriş söz konusu olmadığından diploma niteliğinde bir belge bulunmamaktadır. Çalışılan işletmenin veya katılınan kursların verdiği katılım/eğitim belgeleri ile iş deneyimi mesleğe giriş için esas alınır. Mesleki Yeterlilik Kurumu (MYK) belgesine sahip olmak istihdamda tercih sebebi olabilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Mesleğe yönelik örgün bir eğitim programı bulunmadığından eğitim süresince düzenli bir ücretten söz etmek mümkün değildir. İşbaşında usta yanında çalışılarak öğrenilen dönemlerde, çalışılan işletmenin uygulamasına göre günlük veya parça başı ücret ödenebilir; bu ücret genellikle asgari ücret düzeyindedir.",
+  "egitim_sonrasi": [
+   "Kamuya bağlı orman işletmelerinde işçi statüsünde çalışanların ücreti ilgili toplu iş sözleşmesi hükümlerine göre belirlenir.",
+   "Özel sektörde çalışanların kazancı, işin niteliğine, deneyime ve işveren ile yapılan anlaşmaya göre değişir; işe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Deneyim ve ustalık kazanıldıkça, parça başı veya performansa bağlı ödeme sistemlerinde kazanç artabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğe yönelik kademeli bir örgün eğitim basamağı bulunmamaktadır. Deneyim kazanan tırmanıcılar, iş güvenliği ve teknik beceri eğitimlerine katılarak bilgi ve becerilerini geliştirebilir; isteyenler açık öğretim yoluyla eğitim düzeyini yükseltebilir.",
+  "is_hayatinda": "Deneyim kazanan tırmanıcılar, orman üretim ekiplerinde usta işçi veya ekip sorumlusu konumuna yükselebilir. Ayrıca sürütme-yükleme, orman ürünleri istifleme, tomrukçuluk gibi ilişkili işlerde görev alarak orman üretim sürecinin farklı aşamalarında deneyim kazanabilir ve zaman içinde orman üretim işlerinde denetleyici/nezaretçi pozisyonlarına geçiş yapabilir."
+ },
+ "benzer_meslekler": [
+  "Tomrukçu",
+  "Diğer Tomrukçular",
+  "Nehir Sürücüsü-Tomrukçuluk",
+  "Orman Üretim İşçisi",
+  "Sürütme ve Yükleme İşçisi",
+  "Ağaç Kesme ve Boylama Operatörü"
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T22:00:19",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6176
+  }
+ }
+}

@@ -1,0 +1,86 @@
+{
+ "arac_gerec": [
+  "Dijital fotoğraf makinesi",
+  "Boya kalınlık ölçer (digimetre)",
+  "Şase/motor numarası kontrol ekipmanları",
+  "Araç arıza teşhis (OBD) cihazı",
+  "Kumpas, şerit metre gibi ölçüm aletleri",
+  "Bilgisayar ve ekspertiz/hasar yönetim yazılımları",
+  "Yazıcı ve tarayıcı",
+  "Parça ve işçilik fiyat kataloğu/veri tabanları",
+  "El feneri",
+  "Telefon ve iletişim araçları",
+  "Kaza tespit tutanağı, trafik sigortası poliçesi gibi evrak örnekleri",
+  "Koruyucu iş kıyafeti ve eldiven"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve titiz,",
+  "Analitik düşünme ve doğru karar verme yeteneğine sahip,",
+  "Araç mekaniği, kaporta-boya ve trafik kazaları konusunda bilgili,",
+  "Dürüst, tarafsız ve sorumluluk duygusu yüksek,",
+  "İnsan ilişkilerinde başarılı, ikna ve iletişim becerisi gelişmiş,",
+  "Yazılı ve sözlü ifade yeteneği gelişmiş, açık ve anlaşılır rapor yazabilen,",
+  "Zaman yönetimine önem veren, belirli süre içinde işini tamamlayabilen,",
+  "Seyahat engeli olmayan, araç kullanabilen"
+ ],
+ "calisma_ortami": "Sigorta Eksperi (Motorlu Kara Taşıtları-Kaza), çalışmalarını büyük ölçüde açık havada ve sahada gerçekleştirir; kaza mahalleri, servisler, oto tamirhaneleri ve otoparklarda hasarlı araçları inceler. Zaman zaman ofis ortamında bilgisayar başında rapor hazırlama, belge toplama ve sigorta şirketleriyle iletişim kurma çalışmaları da yapar. Çalışma saatleri genellikle düzenli olmakla birlikte, hasar yoğunluğuna ve çağrılara göre değişkenlik gösterebilir; farklı bölgelere seyahat gerekebilir.\n\nMeslek mensubu çalışmaları sırasında hasar sahipleri, sigorta şirketi hasar personeli, servis/tamirci esnafı, trafik polisi, avukat ve gerektiğinde bilirkişilerle sürekli iletişim kurar. İşin doğası gereği trafik ortamında bulunma, farklı hava koşullarında dışarıda çalışma ve zaman baskısı altında karar verme gibi durumlarla karşılaşabilir.",
+ "calisma_alanlari": "Sigorta Eksperi (Motorlu Kara Taşıtları-Kaza), ruhsatını aldıktan sonra genellikle bağımsız olarak kendi eksperlik bürosunu kurup serbest çalışabilir veya eksperlik şirketlerinde/bürolarında bünyesinde çalışan eksper olarak görev alabilir. Ayrıca sigorta şirketlerinin hasar departmanlarında, hasar yönetim şirketlerinde ve oto ekspertiz merkezlerinde istihdam edilebilir. Sigorta acenteleri ve araç servisleriyle iş birliği içinde çalışan eksperler de bulunmaktadır. Kamu kurumlarında bu mesleğe doğrudan karşılık gelen bir kadro bulunmamaktadır.",
+ "gorevler": [
+  "Hasar sahibine işlemler hakkında bilgi verir,",
+  "Hasar ile ilgili dokümanların hazırlanmasını sağlar,",
+  "Hasar ile ilgili dokümanları toplar,",
+  "Araç ile ilgili dokümanları, kaza tespit tutanağını, ifade ve görgü tutanağını, alkol raporu tutanağını kontrol eder,",
+  "Hasarlı aracın kimliğini tespit eder,",
+  "Aracın genel durumunu kontrol eder,",
+  "Hasarlı kısımlarda meydana gelen izleri kontrol eder,",
+  "Hasarlı parçaları inceler,",
+  "Aracın mekanik aksamını kontrol eder,",
+  "Değiştirilecek parçaların listesini yapar,",
+  "Parçaların fiyat araştırmasını yapar,",
+  "İşçilik ücretini belirler,",
+  "Aracın onarım süresini belirler,",
+  "Hasar tutarı mutabakat belgesi düzenler,",
+  "Ekspertiz raporu düzenler,",
+  "Milli reasüransa kayıt/rapor verir,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Sigorta eksperliği için örgün bir okul programı bulunmamaktadır. Mesleğe giriş; en az lise ve dengi okul mezuniyeti ile Sigorta Eksperleri İcra Komitesi (SEİK) tarafından düzenlenen eksperlik sınavını kazanma ve ardından belirlenen staj sürecini tamamlamaya dayanır. Lise düzeyinde özellikle otomotiv, motor veya makine alanlarında mesleki eğitim almış olmak, üniversitelerin işletme, iktisat, mühendislik (otomotiv/makine) bölümleri veya meslek yüksekokullarının sigortacılık/otomotiv teknolojisi programlarından mezun olmak mesleğe hazırlayıcı nitelikte olup tercih sebebi sayılabilir.",
+  "giris_kosullari": [
+   "En az lise ve dengi okul mezunu olmak,",
+   "Türk Ceza Kanunu kapsamında belirli suçlardan hüküm giymemiş olmak (sicil şartlarını taşımak),",
+   "Sigorta Eksperleri İcra Komitesi'nin açtığı eksperlik sınavına girip başarılı olmak,",
+   "Sınav sonrası öngörülen staj sürecini tamamlamak,",
+   "Motorlu kara taşıtları (kaza) branşında eksperlik ruhsatı için gerekli diğer koşulları sağlamak"
+  ],
+  "sure_ve_icerik": "Mesleğe girmek isteyenler önce SEİK'in açtığı sınava girer; sınavı kazananlar, belirlenen süreli bir stajı tamamlayarak mesleki uygulama deneyimi kazanır. Staj ve sonrasında araç mekaniği, kaporta-boya, trafik kazaları, hasar tespit teknikleri, ekspertiz raporu hazırlama ve sigortacılık mevzuatı konularında bilgi ve beceri edinilir. Bu süreçte Halk Eğitim Merkezleri, sektör kuruluşları ve meslek örgütlerinin düzenlediği kurs ve seminerlere katılmak da mesleki gelişime katkı sağlar.",
+  "belge": "Sigorta Eksperliği Ruhsatnamesi (ilgili düzenleyici kurum tarafından verilir) ve katılınan sınav/staj sürecine ilişkin belgeler"
+ },
+ "kazanc": {
+  "egitim_suresince": "Staj sürecinde çalışılan kuruma göre düşük düzeyde ücret alınabilir veya bu süreç ücretsiz geçebilir; staj genellikle bir eksperlik bürosu veya şirketi bünyesinde yapılır.",
+  "egitim_sonrasi": [
+   "Ruhsat aldıktan sonra mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde veya işlem/ekspertiz sayısı bazlı ücretlendirme ile çalışmaya başlar.",
+   "Deneyim, iş hacmi ve çalıştığı sigorta şirketi/eksperlik bürosu sayısına bağlı olarak kazanç artabilir.",
+   "Bağımsız (serbest) çalışan eksperler, yaptıkları ekspertiz sayısı ve anlaşmalı oldukları kurumlara göre değişen bir gelir elde eder."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Deneyim kazanan eksperler, farklı sigorta branşlarında (örneğin deniz, yangın, nakliyat, ziraat) ek ruhsat alarak uzmanlık alanlarını genişletebilir; sektör kuruluşlarının düzenlediği ileri düzey kurs ve sertifika programlarına katılarak bilgi ve becerilerini güncelleyebilir.",
+  "is_hayatinda": "Deneyimli eksperler kendi eksperlik bürolarını kurup bağımsız çalışabilir, eksperlik şirketlerinde kıdemli eksper veya yönetici pozisyonlarına yükselebilir, sigorta şirketlerinin hasar departmanlarında yönetici kademelerine geçebilir."
+ },
+ "benzer_meslekler": [
+  "Sigorta Eksperi",
+  "Motorlu Kara Taşıtları Eksperi",
+  "Gayrimenkul ve Varlık Değerleme Uzmanı",
+  "Muhammin"
+ ],
+ "ek_bilgiler": "Sigorta eksperliği, 5684 sayılı Sigortacılık Kanunu kapsamında ruhsata bağlı bir faaliyettir. Motorlu kara taşıtları (kaza) branşında eksperlik yapabilmek için Sigorta Eksperleri İcra Komitesi'nin düzenlediği sınav ve staj sürecinin tamamlanması ve ilgili düzenleyici kurumdan ruhsat alınması gerekmektedir. Otomotiv sektöründeki araç parkının büyüklüğü ve trafik kazalarının sürekliliği nedeniyle mesleğe yönelik istihdam talebi genel olarak devam etmektedir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T12:42:19",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6772
+  }
+ }
+}

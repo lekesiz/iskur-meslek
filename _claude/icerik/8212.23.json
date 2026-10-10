@@ -1,0 +1,96 @@
+{
+ "arac_gerec": [
+  "El aletleri (tornavida, pense, kargaburun, anahtar takımları)",
+  "Bara kesme, bükme ve delme makineleri",
+  "Elektrikli el aletleri (matkap, vidalama tabancası)",
+  "Kablo soyma ve pabuç sıkma pensesi",
+  "Lehim/havya takımı",
+  "Multimetre, ampermetre, voltmetre, ohmmetre",
+  "İzolasyon test cihazı (megaohmmetre)",
+  "Kablo etiketleme ve markalama ekipmanları",
+  "Kablo kanalları, yüksük ve pabuçlar",
+  "Elektrik proje ve şemaları",
+  "Mastar, kumpas gibi ölçü aletleri",
+  "Kişisel koruyucu donanım (eldiven, koruyucu gözlük, iş ayakkabısı)"
+ ],
+ "genel_ozellikler": [
+  "El becerisine sahip,",
+  "Dikkatli ve titiz,",
+  "El ve gözünü eşgüdümle kullanabilen,",
+  "Elektrik şema ve projelerini okuyup yorumlayabilen,",
+  "Sorumluluk sahibi,",
+  "Takım çalışmasına uygun,",
+  "Fiziksel olarak sağlıklı ve dayanıklı,",
+  "Teknik konulara ilgili"
+ ],
+ "calisma_ortami": "Elektrik Pano Montaj Ustaları genellikle fabrika ve atölye ortamlarında, kapalı mekânlarda çalışır. Çalışma sırasında büyük ölçüde ayakta durur, zaman zaman eğilerek veya oturarak pano içinde ince işçilik gerektiren montaj işlemlerini yürütür. İş sağlığı ve güvenliği kurallarına uyulmadığında elektrik çarpması, kesici/delici alet yaralanmaları gibi riskler söz konusu olabileceğinden kişisel koruyucu donanım kullanımı önemlidir.\n\nÇalışma saatleri genellikle gündüz mesaisi şeklindedir; işin yoğunluğuna ve işletmenin üretim programına göre vardiyalı çalışma da söz konusu olabilir. Meslek elemanı; mühendisler, teknisyenler, diğer montaj personeli ve kalite kontrol birimleriyle sürekli iletişim ve iş birliği içinde çalışır.",
+ "gorevler": [
+  "İş sağlığı ve güvenliği önlemlerini alır",
+  "Kalite yönetim sistemi dokümanlarına uygun çalışır",
+  "İş organizasyonu yapar",
+  "Yapılan işin kaydını tutar",
+  "Araç-gereç ve malzemeyi hazırlar",
+  "Diğer birimlerden iş talebinde bulunur",
+  "Çalışanlara ve diğer birimlere verilen işi takip eder",
+  "Projeyi ve kullanılacak malzemeleri inceler",
+  "Malzemelerin yerleşim yerlerini, elektrik hat şemalarını ve kablo giriş-çıkış yönünü inceler",
+  "Tespit edilen uygunsuzlukları amirine rapor eder",
+  "Pano montajı hazırlık işlemlerini yapar",
+  "Mekanik işlev kontrolü yapar",
+  "El aletlerini seçer",
+  "Pano malzemelerinin montajını yapar",
+  "Pano karkasının, güç ve kumanda devresine ait montaj plakalarının, güç ve kumanda devresi malzemelerinin, ölçme devresi şalt malzemelerinin ve izolatörlerin montajını yapar",
+  "Bara işler",
+  "Baraları markalar, keser, form verir, delme işlemlerini gerçekleştirir ve montajını yapar",
+  "Kablo ve kablo kanalı montajı yapar",
+  "Kesit, cins ve renklerine göre kabloları hazırlar",
+  "Kesilen pano içi kabloları, etiketlenen kabloları, kablo yüksük ve pabuçlarını kontrol eder",
+  "İzolesiz pabuçların izolesini yapar",
+  "Kabloları kanallarına yerleştirir",
+  "Kablo bağlantılarını ve düzenlemelerini yapar",
+  "Panoyu kontrol eder",
+  "Panoyu sevke hazırlar",
+  "Mesleki gelişim faaliyetlerini yürütür"
+ ],
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi; mesleki ve teknik eğitim okullarının/mesleki eğitim merkezlerinin Elektrik-Elektronik Teknolojisi alanına bağlı ilgili dallarında çıraklık eğitimi yoluyla verilebilir. Ayrıca işletmelerde usta yanında işbaşı eğitimle de bu meslekte yetişmek mümkündür. Halk Eğitim Merkezleri ile İŞKUR'un açtığı mesleki eğitim kursları da temel beceri kazandırma amacıyla kullanılabilir.",
+  "giris_kosullari": [
+   "Çıraklık eğitimine başlamak için en az ortaokul mezunu olmak",
+   "14 yaşını doldurmuş olmak",
+   "Mesleğin gerektirdiği işleri yapabilecek sağlık durumuna sahip olmak",
+   "Eğitim görülecek meslekte bir işyeri bulup işveren ile çıraklık/eğitim sözleşmesi imzalamak"
+  ],
+  "sure_ve_icerik": "Mesleki eğitim merkezi yoluyla yapılan eğitimde süre, ilköğretim sonrası genellikle birkaç yılı kapsar ve kalfalık ile ustalık kademelerinden oluşur. Eğitim, haftanın bir bölümünde mesleki eğitim merkezinde teorik derslerle, kalan günlerde işyerinde usta öğreticinin gözetiminde pratik çalışmayla yürütülür. Dersler genel kültür dersleri ile elektrik pano montajına ilişkin meslek dersi ve uygulamalarından oluşur. Formal bir çıraklık süreci dışında, doğrudan işyerinde kalfa/usta yanında çalışarak mesleği öğrenenler de bulunmaktadır.",
+  "belge": "Eğitimi tamamlayanlara kalfalık ve ardından ustalık belgesi verilir; kurs yoluyla eğitim alanlara ise kurs bitirme/katılım belgesi düzenlenir. Mesleki Yeterlilik Kurumu (MYK) Mesleki Yeterlilik Belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Elektrik Pano Montaj Ustaları; elektrik panosu üreten fabrika ve atölyelerde, elektrik taahhüt ve enerji sektörü firmalarında, otomasyon sistemleri üreten işletmelerde, elektrik ve elektronik sanayi kuruluşlarının montaj ve bakım-onarım birimlerinde çalışma bulabilir. Sanayinin ve enerji altyapısının geliştiği bölgelerde bu meslek elemanlarına duyulan ihtiyaç daha fazladır.",
+ "kazanc": {
+  "egitim_suresince": "Çıraklık eğitimi kapsamında işletmelerde mesleki eğitim gören öğrencilere, ilgili mevzuat gereği belirli bir oranda ücret ödenir; ayrıca öğrencilerin iş kazası ve meslek hastalığı sigortası devletçe karşılanır.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanların kazancı genellikle asgari ücret düzeyinde olur.",
+   "Özel sektörde kazanç; çalışılan işletmenin büyüklüğü, kişinin deneyimi, bilgi ve becerisi, sektördeki ücret düzeyine göre değişebilir.",
+   "Kamu kurumlarına bağlı işletmelerde işçi statüsünde çalışanların ücreti, ilgili toplu iş sözleşmesi hükümlerine göre belirlenir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleki eğitim merkezinden diploma alarak mezun olanlar, alanın devamı niteliğindeki ön lisans/lisans programlarına sınavla yerleşebilir ve bu tercihlerde ek puandan yararlanabilir. Çeşitli kurs ve sertifika programlarına katılarak mesleki bilgi ve beceriler geliştirilebilir, MYK Mesleki Yeterlilik Belgesi alınabilir.",
+  "is_hayatinda": "Deneyim kazanan meslek elemanları ekip lideri, usta başı veya atölye/üretim sorumlusu gibi görevlere yükselebilir. Yeterli birikim ve sermayeye sahip olanlar kendi işyerini açabilir."
+ },
+ "benzer_meslekler": [
+  "Elektrik Pano Montaj İşçisi",
+  "Elektronik Pano Montajcısı",
+  "Elektro-Mekanik Montajcısı",
+  "Elektro-Mekanik Montaj Ustası",
+  "Montör (Elektrikli Cihazlar)",
+  "Elektrik Tesisatçısı ve Pano Montörü/ Elektrik Tesisatçısı"
+ ],
+ "ek_bilgiler": "Elektrik pano montajı, elektrikle çalışma ve kesici/delici alet kullanımı nedeniyle iş sağlığı ve güvenliği kurallarına titizlikle uyulması gereken bir meslektir. Bu nedenle kişisel koruyucu donanım kullanımı ve iş güvenliği eğitimleri önem taşır. Mesleki Yeterlilik Kurumu (MYK) belgesine sahip olmak, iş bulma ve kariyer gelişiminde tercih sebebi olabilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T17:53:47",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6404
+  }
+ }
+}

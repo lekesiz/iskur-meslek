@@ -1,0 +1,79 @@
+{
+ "gorevler": [
+  "İş planı ve organizasyonu yapar.",
+  "Kağıt veya plastik ventil torbayı paketleme makinesi doldurma borusuna takar.",
+  "Makinenin doldurulacak torba ağırlığına göre ayarlarını yapar.",
+  "Paketleme makinesine gelen madeni (kalsit) torbalara doldurur.",
+  "Belirli ağırlıkta dolan torbayı makine dolum borusundan alır.",
+  "Makine dolum borusunu kapatır.",
+  "Torba üzerindeki tozları temizler ve ince naylon ile sarar.",
+  "Dolumu tamamlanan torbaları istifler veya ilgili yerlere yerleştirir.",
+  "Çalışma alanının temizlik ve düzenini sağlar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "arac_gerec": [
+  "Kalsit paketleme makinesi",
+  "Kağıt veya plastik ventil torba",
+  "Makine doldurma borusu",
+  "Tartı/kantar düzeneği",
+  "El arabası veya forklift",
+  "Palet",
+  "İnce naylon/streç film",
+  "Toz maskesi ve koruyucu gözlük",
+  "İş eldiveni",
+  "İş elbisesi/tulum",
+  "Süpürge ve temizlik malzemeleri",
+  "Kürek ve kova"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli,",
+  "Fiziksel olarak güçlü ve dayanıklı,",
+  "Toz ve gürültülü ortamda çalışmaya uygun,",
+  "El ve göz koordinasyonuna sahip,",
+  "Takım çalışmasına önem veren,",
+  "Sorumluluk sahibi,",
+  "İş sağlığı ve güvenliği kurallarına uyan,",
+  "Düzenli ve temiz çalışan"
+ ],
+ "calisma_ortami": "Kalsit madenini öğüten ve paketleyen fabrika/tesis ortamında, kapalı mekânlarda çalışılır. Ortam genellikle tozludur ve makine sesi nedeniyle gürültülü olabilir; bu nedenle toz maskesi, eldiven ve koruyucu gözlük gibi kişisel koruyucu donanımların kullanılması gerekir. Çalışma büyük ölçüde ayakta ve fiziksel güç gerektiren torba kaldırma, taşıma ve istifleme işlemleriyle geçer.\n\nİşletmenin çalışma düzenine göre vardiyalı çalışma söz konusu olabilir. Meslek mensubu, işlerini genellikle diğer paketleme işçileri, makine operatörleri, vardiya sorumlusu ve ustabaşı ile koordineli biçimde yürütür.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin yürütülmesi için örgün, standart bir meslek eğitimi programı bulunmamaktadır. Meslek genellikle işbaşında usta-çırak ilişkisi içinde öğrenilir. Ayrıca Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kurslarında iş sağlığı ve güvenliği, temel üretim/paketleme bilgisi gibi konularda kısa süreli kurslara katılınabilir.",
+  "giris_kosullari": [
+   "Okuryazar olmak",
+   "Fiziksel olarak sağlıklı ve iş gereği fiziksel güç gerektiren çalışmaya uygun olmak",
+   "18 yaşını doldurmuş olmak (ağır ve tozlu işlerde çalışma açısından yaş sınırlamaları olabilir)"
+  ],
+  "sure_ve_icerik": "Resmî bir eğitim süresi ve müfredatı bulunmamaktadır. Meslek, genellikle işyerinde usta yanında kısa sürede (günler-haftalar içinde) öğrenilir. Katılınabilecek kurslarda iş sağlığı ve güvenliği, temel makine kullanımı, kişisel koruyucu donanım kullanımı ve temel ilk yardım gibi konular işlenebilir.",
+  "belge": "Örgün bir diploma veya sertifika yoktur. Katılınan kurslardan 'Kurs Bitirme Belgesi' alınabilir; ayrıca işyerinin verdiği iş sağlığı ve güvenliği eğitim belgesi bulundurulabilir."
+ },
+ "calisma_alanlari": "Kalsit ve benzeri mineral/maden işleyen işletmelerde, özellikle kalsit öğütme ve paketleme tesislerinde istihdam edilir. Bu tesisler genellikle kalsit madeni rezervi bulunan bölgelerdeki sanayi alanlarında yoğunlaşmıştır. İş bulma olanağı, maden ve mineral işleme sektörünün üretim hacmine, inşaat, boya, kâğıt, plastik gibi kalsit kullanan sektörlerin talebine bağlı olarak değişir; küçük ve orta ölçekli işletmelerde de istihdam sağlanabilir.",
+ "kazanc": {
+  "egitim_suresince": "Örgün bir eğitim süreci bulunmadığından, meslek genellikle işbaşında öğrenilir ve bu süre boyunca çalışılan işten elde edilen ücret söz konusu olur; ayrı bir eğitim ücreti bulunmamaktadır.",
+  "egitim_sonrasi": [
+   "İşe başlangıçta genellikle asgari ücret düzeyinde kazanç sağlanır.",
+   "Deneyim, performans ve işyerinin büyüklüğüne bağlı olarak ücrette artış olabilir.",
+   "Özel sektörde çalışıldığından ücret işveren ile çalışan arasında karşılıklı olarak belirlenir; işçi statüsünde çalışanlar için toplu iş sözleşmesi hükümleri geçerli olabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Meslekte ilerlemeye yönelik örgün bir eğitim kademelenmesi bulunmamaktadır. İsteyenler, iş sağlığı ve güvenliği, makine kullanımı gibi konularda açılan kurslara katılarak bilgi ve becerilerini geliştirebilir.",
+  "is_hayatinda": "Deneyim ve performansa bağlı olarak paketleme makinesi operatörlüğü, ekip/vardiya sorumluluğu veya usta yardımcılığı gibi görevlere yükselme olanağı bulunur. Uzun süre çalışanlar işletme içinde ustabaşı veya formen pozisyonlarına geçebilir."
+ },
+ "benzer_meslekler": [
+  "Maden Paketleme İşçisi (Bor)",
+  "Un Paketleme İşçisi",
+  "Tuz Paketleme İşçisi",
+  "Ambalajcı (Makine İle)",
+  "Kolileme Makinesi Operatörü",
+  "Çay Paketleme Makinesi Operatörü"
+ ],
+ "ek_bilgiler": "Çalışma ortamındaki toz nedeniyle solunum yolu koruyucu donanım kullanımı önem taşır. İşin yürütüldüğü bazı maden işletmelerinde, çalışma koşullarına bağlı olarak işe giriş ve periyodik sağlık muayeneleri ile iş sağlığı ve güvenliği eğitimleri işveren tarafından zorunlu tutulabilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T17:09:49",
+  "usage": {
+   "input_tokens": 4,
+   "output_tokens": 8101
+  }
+ }
+}

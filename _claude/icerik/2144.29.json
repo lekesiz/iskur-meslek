@@ -1,0 +1,82 @@
+{
+ "arac_gerec": [
+  "Bilgisayar destekli tasarım (CAD) yazılımları",
+  "Sonlu elemanlar analizi (FEA) yazılımları",
+  "Hesaplamalı akışkanlar dinamiği (CFD) yazılımları",
+  "Sistem mühendisliği ve gereksinim yönetimi yazılımları",
+  "Proje yönetimi ve risk analizi yazılımları",
+  "Motor/itki sistemi test ve ölçüm ekipmanları",
+  "Malzeme test ve karakterizasyon cihazları",
+  "Yüksek performanslı bilgisayarlar ve simülasyon sunucuları",
+  "Teknik çizim ve dokümantasyon araçları",
+  "Prototip ve test düzenekleri",
+  "Kalite yönetim ve doğrulama/geçerleme yazılımları",
+  "Ofis yazılımları ve raporlama araçları"
+ ],
+ "genel_ozellikler": [
+  "Matematik ve fizik alanında güçlü,",
+  "Analitik ve sistematik düşünebilen,",
+  "Karmaşık problemleri çözme becerisine sahip,",
+  "Takım çalışmasına uyumlu,",
+  "Yüksek sorumluluk bilincine sahip,",
+  "Gizlilik ilkelerine bağlı,",
+  "Yenilikçi ve araştırmacı,",
+  "Etkili sözlü ve yazılı iletişim kurabilen,"
+ ],
+ "calisma_ortami": "İtki ve Motor Sistemleri Uzmanı (Savunma Sanayi), çalışma süresinin büyük bölümünü ofis ortamında bilgisayar başında tasarım, analiz ve simülasyon çalışmalarına ayırır; bunun yanında test, üretim ve montaj aşamalarında laboratuvar, atölye ve üretim sahalarında da bulunur. Görev gereği gürültü, yüksek sıcaklık veya kimyasal madde içeren test ortamlarına kısa süreli girişler yapabilir ve bu durumlarda iş sağlığı ve güvenliği kurallarına uyması gerekir.\n\nMesleğin icrası sırasında proje ekibi, diğer mühendislik disiplinlerinden çalışma arkadaşları, kalite ve test birimleri, üst yönetim ve bazı durumlarda tedarikçi ya da son kullanıcı temsilcileriyle yoğun iş birliği içinde çalışılır. Çalışma saatleri genellikle düzenli ofis saatleridir; ancak proje teslim tarihleri, test takvimleri veya kritik aşamalarda esnek ve uzun çalışma süreleri gerekebilir. Savunma sanayii projelerinin gizlilik gerektirmesi nedeniyle çalışma ortamına giriş-çıkışlar ve bilgi paylaşımı belirli güvenlik kurallarına tabidir.",
+ "gorevler": [
+  "Savunma projelerine konu olan ürün ve hizmetleri kavramsal çalışmalar safhasından emeklilik safhasına kadar ömür devri konsepti içinde bütüncül bir yaklaşımla ele alır.",
+  "Savunma projelerinde geliştirilen, üretilen, teslim edilen, bakım ve idamesi yürütülen ve elden çıkarılan/dönüştürülen sistemler üzerindeki çalışmaları uluslararası standartlar çerçevesinde çizilen sistem mühendisliği yaklaşımıyla yürütür.",
+  "Yürütülen projelerde son kullanıcı odaklı olarak, paydaş ihtiyaç ve gereksinimlerini ön planda tutar.",
+  "Savunma projelerinde ortaya çıkarılan değeri maksimize etmek üzere değer mühendisliği metotlarını uygular.",
+  "Yüksek teknoloji gerektiren, karmaşık, çok paydaşlı, yüksek maliyetli ve uzun zamana yayılan savunma projelerini uluslararası proje yönetimi standartları çerçevesinde, kapsam, maliyet ve takvim yönetimi uygulayarak yürütür.",
+  "Projeleri etkileyebilecek riskleri erken safhalarda tespit eder ve risk önleme/azaltma stratejilerini uygular.",
+  "Yürütülen projelerde kurumsal kapasiteyi, erişilen teknoloji hazırlık seviyelerini ve yerlileşme ve millileşme gereklerini gözetir.",
+  "Havacılık ve uzay itki sistemlerini işlevsel ve mühendislik gereksinimlerine uygun şekilde modeller, performans ve davranışlarını tahmin eder ve tasarlar.",
+  "Yanma denklemlerini kullanarak farklı alev türleri ve emisyon indekslerine göre yanma alevinin karakterizasyonunu yapar.",
+  "Sistem gereksinimlerine uygun özellikteki yakıtları seçer, yakıt stabilizasyonunu sağlayacak şekilde sistem içinde yakıt depolama, transfer ve yanma odası bileşenlerini tasarlar.",
+  "İtki sistemlerinde ısı transfer modlarının sistem davranışı üzerindeki etkilerini hesaplar ve tasarımda dikkate alır.",
+  "Sonlu eleman yöntemlerini kullanarak itki sistemlerinin yapısal, ısı transferi ve akışkan dinamiği özelliklerini modeller, analiz eder ve tasarlar.",
+  "İtki ve itki alt sistemlerinde kullanılacak yüksek sıcaklık malzemelerini seçer ve prosesleri tasarlar.",
+  "Malzemenin mekanik davranışı hakkındaki teorik bilgileri uygulayarak yorulma, kırılma ve hata analizleri yapar.",
+  "Tasarım problemlerini matematiksel optimizasyon problemleri olarak formüle eder ve sayısal optimizasyon yöntemlerini kullanarak çözer.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Mesleğin temel eğitimi, üniversitelerin mühendislik fakültelerinin Makine Mühendisliği, Havacılık ve Uzay Mühendisliği, Uçak Mühendisliği veya bunlara yakın mühendislik bölümlerinde verilen lisans eğitimi ile kazanılır. Savunma sanayiine özgü itki ve motor sistemleri bilgisi ve uzmanlığı, bu lisans eğitiminin ardından ilgili kamu ve özel sektör kuruluşlarında projelere katılarak ve kurum içi mesleki eğitimlerle geliştirilir.",
+  "giris_kosullari": [
+   "Lise veya dengi okul mezunu olmak",
+   "Yükseköğretim Kurumları Sınavı (YKS) sonucuna göre ilgili mühendislik lisans programına yerleşmeye yeterli puan ve sıralamayı elde etmek"
+  ],
+  "sure_ve_icerik": "Lisans eğitiminin süresi 4 yıldır. Eğitim; matematik, fizik, termodinamik, akışkanlar mekaniği, ısı transferi, malzeme bilimi, mukavemet, makine tasarımı ve üretim yöntemleri gibi temel ve mesleki dersler ile laboratuvar çalışmaları, proje çalışmaları ve işyeri stajlarını kapsar. Savunma sanayiinde itki ve motor sistemleri alanında uzmanlaşma, lisans eğitimi sonrasında ilgili kurumlarda görev alınarak, kurum içi eğitim programları, hizmet içi kurslar ve gerektiğinde ilgili sertifika/eğitim programları ile sürdürülür.",
+  "belge": "Eğitimini başarıyla tamamlayanlara ilgili mühendislik bölümünden lisans diploması verilir. Ayrıca çalıştığı kurumun ve yürütülen projelerin gerektirdiği özel eğitim ve sertifika programlarına katılanlara ilgili katılım belgeleri düzenlenebilir."
+ },
+ "calisma_alanlari": "İtki ve Motor Sistemleri Uzmanları (Savunma Sanayi); savunma sanayii alanında faaliyet gösteren kamu kuruluşları ve özel sektör firmalarında, hava araçları, insansız hava araçları, füze ve roket sistemleri gibi platformların motor ve itki sistemlerinin tasarım, araştırma-geliştirme, üretim, test, bakım ve idame birimlerinde çalışabilirler. Ayrıca ilgili kamu araştırma kurumlarında, üniversitelerin savunma teknolojileri araştırma merkezlerinde ve savunma sanayii tedarik zincirinde yer alan firmalarda istihdam edilebilirler. Ülkemizde savunma sanayiinin yerlileşme ve millileşme politikaları çerçevesinde büyümesi, bu alandaki istihdam olanaklarını artırmaktadır.",
+ "kazanc": {
+  "egitim_suresince": "Lisans eğitimi süresince öğrenciler, Yükseköğretim Kredi ve Yurtlar Kurumunun sağladığı öğrenim ve harç kredilerinden, üniversitelerin ve çeşitli kurum/kuruluşların burs imkânlarından yararlanabilir. İşyeri stajı dönemlerinde bazı öğrenciler işletmelerden sınırlı ölçüde ücret alabilir.",
+  "egitim_sonrasi": [
+   "Kamu kurum ve kuruluşlarında çalışanlar, 657 sayılı Devlet Memurları Kanunu'na veya görev yaptığı kurumun personel rejimine göre maaş ve yan ödeme alır.",
+   "Özel sektörde çalışanların ücreti; deneyim, uzmanlık düzeyi, proje sorumluluğu ve işletmenin büyüklüğüne bağlı olarak işveren ile çalışan arasında karşılıklı anlaşma yoluyla belirlenir ve genellikle lisans düzeyindeki mühendislik ücret ölçeklerine göre değişkenlik gösterir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Lisans eğitiminin ardından ilgili mühendislik alanlarında yüksek lisans ve doktora yapılarak akademik kariyer sürdürülebilir. Kurum içinde kıdem ve deneyim kazanılarak kıdemli uzman, baş mühendis veya proje yöneticisi gibi pozisyonlara yükselinebilir. Yabancı dil bilgisi, sistem mühendisliği ve proje yönetimi alanlarındaki uluslararası sertifikalar meslekte ilerlemede etkilidir.",
+  "is_hayatinda": "Deneyim kazanan İtki ve Motor Sistemleri Uzmanları, proje lideri, teknik müdür veya Ar-Ge/tasarım birimi yöneticisi gibi kademelere yükselebilir. Teknik yetkinliklerinin yanında yönetsel becerilerini geliştirenler, kurum içinde daha üst düzey yönetici pozisyonlarına ilerleyebilir."
+ },
+ "benzer_meslekler": [
+  "Havacılık Mühendisi",
+  "Havacılık ve Uzay Mühendisi/Uzay Mühendisi",
+  "Uçak Mühendisi",
+  "Makine Mühendisi",
+  "Yapısal Analiz ve Tasarım Uzmanı (Savunma Sanayi)"
+ ],
+ "ek_bilgiler": "Savunma sanayiinde çalışacak kişilerden görev gereği güvenlik soruşturması ve arşiv araştırması istenebilir; bu nedenle gizlilik ilkelerine titizlikle uyulması önemlidir. İlgili mühendislik odasına üyelik ve Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda tercih sebebi olabilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-07T21:29:03",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 8719
+  }
+ }
+}

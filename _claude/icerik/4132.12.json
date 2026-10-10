@@ -1,0 +1,85 @@
+{
+ "arac_gerec": [
+  "Bilgisayar ve çevre birimleri",
+  "Coğrafi Bilgi Sistemleri (CBS) yazılımları (örn. ArcGIS, QGIS türü programlar)",
+  "Veri tabanı yönetim sistemleri",
+  "Tarayıcı (scanner) ve dijitalleştirme cihazları",
+  "Harici bellek ve veri depolama üniteleri",
+  "Yazıcı ve plotter (büyük ölçekli çıktı cihazı)",
+  "Ofis yazılımları (yazı, sunum, hesaplama programları)",
+  "Saha ekiplerinden gelen ölçü krokileri ve koordinat verileri",
+  "Ağ ve sunucu sistemleri, veri arşivleme üniteleri",
+  "Topografik harita ve altlık belgeler"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve titiz,",
+  "Sabırlı ve düzenli çalışabilen,",
+  "Sayısal verilerle ve matematiksel kavramlarla işlem yapabilen,",
+  "Şekil ve uzay ilişkilerini görebilen,",
+  "Bilgisayar ve yazılım teknolojilerine ilgili,",
+  "Analitik düşünebilen ve problem çözebilen,",
+  "Ekip çalışmasına uyumlu,",
+  "Sorumluluk sahibi"
+ ],
+ "calisma_ortami": "Coğrafi Bilgi Sistemleri Operatörü, genellikle kapalı ortamda, büro veya bilgi işlem biriminde bilgisayar başında oturarak çalışır. Görevi, saha ekiplerinin topladığı ölçü, koordinat ve kroki gibi ham verileri bilgisayar ortamına aktarmak, düzenlemek ve ilişkisel veri tabanı hâline getirmekle ilgilidir; bu nedenle çalışma süresinin büyük bölümü ekran karşısında geçer ve uzun süre aynı pozisyonda oturmaya bağlı göz ve sırt yorgunluğu görülebilir.\n\nÇalışma saatleri genellikle büro çalışma düzenine uygundur; ancak proje teslim tarihleri yaklaştığında yoğun ve zaman baskılı çalışma söz konusu olabilir. Çalışma sırasında saha ekipleri, mühendisler, teknikerler ve diğer büro personeli ile sık sık iletişim kurar; aldığı veya ürettiği verilerin doğruluğunu teyit etmek amacıyla ekip içi koordinasyon önem taşır.",
+ "gorevler": [
+  "İş sağlığı ve güvenliği önlemlerini alır.",
+  "İş sağlığı ve güvenliği konusundaki yasal ve işyerine ait kuralları uygular.",
+  "Risk etmenlerini azaltır.",
+  "Tehlike durumunda acil durum prosedürlerini uygular.",
+  "Acil çıkış prosedürlerini uygular.",
+  "Çevre güvenlik önlemlerini alır.",
+  "Kalite yönetim sistemi dokümanlarına uygun çalışır.",
+  "İş organizasyonu yapar.",
+  "Temin edilen grafiksel (vektörel) veriyi derler.",
+  "Toplanan veri tabanı bilgisini (grafiksel olmayan) derler.",
+  "Grafiksel ve grafiksel olmayan verilerden ilişkisel veri tabanını oluşturur.",
+  "Kullanılan yazılım ve donanımları hazır hale getirir.",
+  "Sahadan gelen ölçü krokilerini arşivler.",
+  "Saha ekibinin teslim ettiği koordinatları ve ham veriyi bilgisayarlı ortamda arşivler.",
+  "Ham veriyi yararlı bilgiye çeviren işlem ve metotları uygular (konumsal analizlerle; dönüşümler, işlemler ve coğrafi veriye değer atanması gibi).",
+  "Çizim grafiğinin veri tabanıyla ilişkilendirilmesini ve topolojiyi yapar.",
+  "İstatistik ve raporlama çalışmaları yapar.",
+  "Sunum hazırlar.",
+  "Mesleki gelişime ilişkin faaliyetleri yürütür."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi, üniversitelere bağlı meslek yüksekokullarının Coğrafi Bilgi Sistemleri veya yakın adlı önlisans programlarında verilmektedir.",
+  "giris_kosullari": [
+   "Lise veya dengi okul mezunu olmak",
+   "YKS (Yükseköğretim Kurumları Sınavı) kılavuzunda belirtilen giriş koşullarını taşımak ve ilgili puan türünden yeterli puanı almış olmak",
+   "Meslek liselerinin ilgili alanlarından mezun olanlar önlisans programına geçişte ek puan avantajından yararlanabilmektedir"
+  ],
+  "sure_ve_icerik": "Eğitim süresi önlisans düzeyinde 2 yıldır. Eğitim sürecinde Coğrafi Bilgi Sistemlerine Giriş, Veri Tabanı Yönetimi, Harita Okuma, Mesleki Matematik, Temel Bilgisayar ve Programlama, Konumsal Analiz Teknikleri gibi mesleki dersler ile genel kültür dersleri okutulur; uygulamalı çalışmalar ve staj eğitimin önemli bir parçasıdır.",
+  "belge": "Eğitimi başarıyla tamamlayanlara \"Önlisans Diploması\" verilir."
+ },
+ "calisma_alanlari": "Coğrafi Bilgi Sistemleri Operatörleri; belediyeler ve diğer yerel yönetimler, Tapu ve Kadastro, orman, tarım, enerji, telekomünikasyon, ulaştırma gibi kamu kurum ve kuruluşlarının coğrafi bilgi sistemleri veya bilgi işlem birimlerinde; harita, mühendislik ve müşavirlik firmalarında; CBS yazılım ve donanım sağlayan özel şirketlerde istihdam edilebilirler. Kamuda genellikle sınavla memur veya işçi statüsünde, özel sektörde ise iş ilanları ve mülakat süreçleri yoluyla işe alınırlar.",
+ "kazanc": {
+  "egitim_suresince": "Önlisans eğitimi süresince öğrenciler, Kredi ve Yurtlar Kurumu'nun öğrenim kredisi ve yurt imkânlarından, ayrıca bazı kamu ve özel kurumların sağladığı burslardan yararlanabilirler.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında istihdam edilenler 657 sayılı Devlet Memurları Kanunu'na veya kamu işçisi statüsündeyse ilgili toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde kazanç; işyerinin büyüklüğü, çalışanın deneyimi, bilgi ve becerisi ile sektörün ücret düzeyine göre değişir; yeni başlayanlarda genellikle asgari ücret düzeyinde olabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Önlisans programını başarıyla tamamlayanlar, Dikey Geçiş Sınavı (DGS) ile ilgili lisans programlarına (örneğin Coğrafya, Harita Mühendisliği veya yakın bölümler) geçiş yapabilirler.",
+  "is_hayatinda": "Deneyim ve hizmet içi eğitimlerle, veri analizi ve raporlama konusunda daha ileri görevlere, ekip sorumluluğuna veya CBS uzmanlığına yönelik pozisyonlara yükselebilirler."
+ },
+ "benzer_meslekler": [
+  "Coğrafi Bilgi Sistemleri Teknikeri",
+  "Coğrafi Bilgi Sistemleri Veri Giriş Operatörü",
+  "Veri Giriş Kontrol İşletmeni",
+  "Veri Giriş Elemanı",
+  "Bilgisayar İşletmeni",
+  "Bilgisayar Operatörü (Çizim Programları)"
+ ],
+ "ek_bilgiler": "Coğrafi Bilgi Sistemlerine olan talep, kamu ve özel sektörde dijitalleşme ve mekânsal veri yönetimi uygulamalarının artmasıyla birlikte giderek yaygınlaşmaktadır. CBS yazılımlarına ilişkin sertifika programları ve Mesleki Yeterlilik Kurumu (MYK) belgeleri, istihdamda tercih sebebi olabilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T15:40:48",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5412
+  }
+ }
+}

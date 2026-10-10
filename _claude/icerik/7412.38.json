@@ -1,0 +1,97 @@
+{
+ "arac_gerec": [
+  "PLC (Programlanabilir Lojik Kontrolör) cihazları ve programlama kabloları",
+  "PLC/SCADA programlama yazılımları ve bilgisayar",
+  "Röleler ve kontaktörler",
+  "Sıcaklık, basınç, seviye ve akış ölçer sensörler",
+  "Pnömatik devre elemanları (valf, silindir, kompresör, hava hattı bağlantıları)",
+  "Hidrolik devre elemanları (pompa, valf, silindir, hortum)",
+  "Elektropnömatik ve elektrohidrolik valfler",
+  "Servo sürücüler ve servo motorlar",
+  "Multimetre (avometre) ve osiloskop",
+  "Endüstriyel haberleşme kabloları ve ağ ekipmanları (Profibus, Ethernet vb.)",
+  "El aletleri (tornavida, pense, kablo soyma-sıkma aletleri)",
+  "Elektrik-elektronik devre şeması çizim araçları/yazılımları",
+  "Kişisel koruyucu donanım (eldiven, gözlük, iş elbisesi)"
+ ],
+ "benzer_meslekler": [
+  "Endüstriyel Otomasyon İşçisi",
+  "Endüstriyel Bakım-Onarım Elektrikçisi",
+  "Elektrik Pano Elemanı",
+  "Kumanda Teknikleri Elemanı",
+  "İşletme Elektrik Bakımcısı",
+  "Konveyör Bant Bakım Onarımcısı"
+ ],
+ "calisma_alanlari": "Otomasyon sistemleri destek elemanları; üretim yapan sanayi tesislerinde (otomotiv, gıda, tekstil, kimya, metal, ambalaj vb.), makine imalatı ve bakım-onarım firmalarında, PLC/SCADA sistemleri kurulumu ve devreye alımı yapan mühendislik ve teknik servis firmalarında çalışma olanağı bulurlar. Ayrıca tecrübe ve sermaye edindikten sonra kendi işyerini açarak bakım-onarım ve otomasyon hizmeti sunabilirler.\n\nSanayide otomasyon kullanımının ve üretim süreçlerinde PLC/SCADA tabanlı sistemlerin yaygınlaşması, bu mesleğe olan talebi artırmaktadır. Nitelikli, PLC/SCADA/hidrolik-pnömatik konularında bilgi sahibi destek elemanlarına ihtiyaç duyulmaktadır.",
+ "calisma_ortami": "Otomasyon sistemleri destek elemanı görevini genellikle fabrika, atölye ve üretim tesislerinin kapalı mekânlarında, makineler, elektrik panoları ve otomasyon dolapları çevresinde yürütür. Bazı durumlarda saha çalışması, yüksekte veya dar alanlarda çalışma gerekebilir. Çalışma ortamında elektrik çarpması, hareketli mekanik parçalar, basınçlı hava/hidrolik sistem riskleri bulunabileceğinden iş sağlığı ve güvenliği kurallarına dikkat edilmesi gerekir.\n\nÇalışma saatleri, görev yapılan işletmenin üretim programına göre değişebilir; üretimin sürekli olduğu tesislerde vardiyalı çalışma söz konusu olabilir. Meslek elemanı; mühendisler, teknisyenler, bakım ekibi ve diğer üretim çalışanları ile sürekli etkileşim halinde çalışır.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi; mesleki eğitim merkezlerinde elektrik-elektronik teknolojisi alanına bağlı ilgili dallarda, mesleki ve teknik ortaöğretim kurumlarının endüstriyel otomasyon/elektrik-elektronik ile ilgili alan ve dallarında verilmektedir. Ayrıca Halk Eğitim Merkezleri ile İŞKUR tarafından açılan mesleki eğitim kurslarında da PLC, SCADA, pnömatik ve hidrolik sistemler konularında eğitim verilmektedir. Üniversitelerin elektrik, elektronik, mekatronik ve otomasyon ile ilgili ön lisans/lisans programları da bu alanda bilgi ve beceri kazandırmaktadır.",
+  "giris_kosullari": [
+   "Çıraklık/mesleki eğitime başlamak için genellikle en az ortaokul mezunu olmak",
+   "Kurs programlarına katılım için ilgili kurumun belirlediği yaş ve eğitim düzeyi koşullarını sağlamak",
+   "Sağlık durumunun mesleğin gerektirdiği fiziksel işlere uygun olması",
+   "Elektrik-elektronik ve teknik konulara ilgi duymak"
+  ],
+  "sure_ve_icerik": "Mesleki ve teknik eğitim kurumlarında eğitim süresi okulun yapısına göre birkaç yıl sürmektedir; eğitim süresince elektrik-elektronik devre temelleri, lojik devreler, röleler, PLC programlama, pnömatik ve hidrolik sistemler, ölçme teknikleri (sıcaklık, basınç, seviye, akış), servo sürücüler, endüstriyel haberleşme ve SCADA konuları teorik ve uygulamalı olarak işlenir. Kurs temelli eğitimlerde süre kursun içeriğine göre değişmekte, katılımcılara temel ve ileri düzey PLC, SCADA ve pnömatik-hidrolik uygulamaları öğretilmektedir. Uygulamalı eğitim genellikle işbaşında usta yanında veya atölye ortamında tamamlanır.",
+  "belge": "Mesleki ve teknik eğitim kurumlarından mezun olunması durumunda diploma; mesleki eğitim merkezlerinde kalfalık/ustalık belgesi; kurs sonunda katılım/başarı sertifikası alınır. Ayrıca Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "ek_bilgiler": "Sanayide otomasyon teknolojilerinin yaygınlaşması nedeniyle bu mesleğe olan talep artış eğilimindedir. Görev yapılan bazı işletmelerde çalışma şartları, tehlikeli iş kollarına girebileceğinden iş güvenliği eğitimi almak ve kişisel koruyucu donanım kullanmak önem taşır.",
+ "genel_ozellikler": [
+  "Mantıksal düşünme ve analitik problem çözme yeteneğine sahip,",
+  "El ve göz koordinasyonu iyi,",
+  "Dikkatli ve tedbirli,",
+  "Elektrik-elektronik ve mekanik sistemlere ilgili,",
+  "Sabırlı ve sorumluluk sahibi,",
+  "Takım çalışmasına uyumlu,",
+  "Yeni teknolojileri öğrenmeye açık"
+ ],
+ "gorevler": [
+  "Elektrik-elektronik devre şemalarını çizer.",
+  "Temel lojik işlemleri yapar.",
+  "Lojik devre yapar.",
+  "Röleler ile PLC'ye hazırlık çalışması yapar.",
+  "PLC'de programlama yapar.",
+  "PLC'de SFC programlama yapar.",
+  "PLC'de panel kullanır.",
+  "PLC'de haberleşme yapar.",
+  "PLC'de sistem tasarımı yapar.",
+  "Temel pnömatik devre kurar.",
+  "İleri pnömatik devre kurar.",
+  "Elektropnömatik devre kurar.",
+  "Hidrolik devre kurar.",
+  "Elektrohidrolik devre kurar.",
+  "Sıcaklık ölçer.",
+  "Kuvvet, ağırlık ve basınç ölçer.",
+  "Seviye ölçer.",
+  "Akış ölçer.",
+  "Açık çevrim kontrolü yapar.",
+  "Kapalı çevrim kontrolü yapar.",
+  "Servo sürücüleri kullanır.",
+  "Endüstriyel iletişim sistemlerini kullanır.",
+  "Scada programını kullanır.",
+  "Scada sistemlerini kullanır.",
+  "Robot programlama yapar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Meslekî ve teknik eğitim kurumlarından mezun olanlar, YKS Kılavuzunda belirtilen ilgili ön lisans/lisans programlarını (örneğin elektrik-elektronik, mekatronik, otomasyon ile ilgili alanlar) tercih ettiklerinde ek puandan yararlanabilirler. Ayrıca çeşitli kurs ve sertifika programlarına katılarak PLC, SCADA ve hidrolik-pnömatik sistemler konusunda bilgi ve beceriler geliştirilebilir.",
+  "is_hayatinda": "Deneyim kazandıkça usta, ekip lideri veya bakım şefi gibi pozisyonlara yükselebilir; bilgi ve deneyimini artırarak proje sorumluluğu gerektiren görevlerde çalışabilir, isterse kendi işyerini açarak bağımsız olarak bakım-onarım/otomasyon hizmeti sunabilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Mesleki eğitim merkezlerinde çıraklık eğitimi görenlere 3308 sayılı Mesleki Eğitim Kanunu çerçevesinde asgari ücretin belirli bir oranında ücret ödenir. Halk Eğitim Merkezleri veya İŞKUR kurslarına katılanlar için genellikle ücret söz konusu değildir; bazı kurs programlarında katılımcılara harçlık ödenebilir.",
+  "egitim_sonrasi": [
+   "Yeni işe başlayanlarda kazanç genellikle asgari ücret düzeyindedir.",
+   "Kamuda işçi statüsünde çalışanların ücreti toplu iş sözleşmesi hükümlerine göre belirlenir.",
+   "Özel sektörde kazanç; işyerinin büyüklüğü, kişinin deneyimi, bilgi ve becerisi ile sektörün ücret düzeyine göre değişebilir.",
+   "Kendi işyerini açarak bağımsız çalışanların kazancı aldıkları işe göre değişkenlik gösterir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T06:11:54",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6959
+  }
+ }
+}

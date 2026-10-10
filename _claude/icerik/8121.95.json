@@ -1,0 +1,77 @@
+{
+ "arac_gerec": [
+  "İndüksiyon tezgahı/fırını",
+  "İndüktör (indüksiyon bobini)",
+  "Güç kaynağı ve jeneratör",
+  "Frekans ve güç ayar paneli",
+  "Soğutma tankı (su/yağ havuzu)",
+  "Sulama/püskürtme sistemi",
+  "Pirometre ve sıcaklık ölçüm cihazları",
+  "Sertlik ölçme cihazı",
+  "Kumpas ve metre",
+  "İş parçası taşıma ekipmanları (vinç, forklift, iş arabası)",
+  "Koruyucu gözlük ve yüz siperi",
+  "Isıya dayanıklı iş eldiveni ve iş elbisesi",
+  "Baret",
+  "Yangın söndürme cihazı"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli,",
+  "El becerisine sahip,",
+  "Fiziksel olarak dayanıklı,",
+  "Makine ve teçhizat kullanımına yatkın,",
+  "Temel matematik, fizik ve malzeme bilgisine sahip,",
+  "Sorumluluk sahibi ve tedbirli,",
+  "İş güvenliği kurallarına titizlikle uyan,",
+  "Ekip çalışmasına uygun,"
+ ],
+ "calisma_ortami": "İndüksiyon Tezgah Operatörü, genellikle metal işleme, döküm, otomotiv parçaları ve makine imalatı sektöründeki fabrika ve atölyelerin ısıl işlem bölümlerinde çalışır. Çalışma ortamı kapalı, sıcak ve nispeten gürültülüdür; yüksek frekanslı elektromanyetik alan, ani soğutma işlemleri ve sıcak metal parçalarla temas gibi riskler nedeniyle kişisel koruyucu donanım kullanımı ve iş güvenliği tedbirlerine eksiksiz uyulması gerekir.\n\nÇalışma genellikle işletmenin üretim programına bağlı olarak vardiyalı düzende sürer. Meslek elemanı; atölye şefi, vardiya arkadaşları, kalite kontrol ve bakım personeli ile sürekli iletişim halinde çalışır.",
+ "egitim": {
+  "verildigi_yerler": "Bu meslek için örgün eğitimde bağımsız, ayrı bir meslek programı bulunmamaktadır. Meslek elemanları genellikle Mesleki ve Teknik Anadolu Liselerinin Metal Teknolojisi alanından mezun olup işletmede usta yanında yetişerek veya doğrudan işbaşında eğitilerek bu mesleğe geçiş yapmaktadır. Ayrıca Halk Eğitim Merkezleri ile İŞKUR'un açtığı mesleki eğitim kurslarında ısıl işlem/metal sertleştirme konularında kısa süreli kurslar düzenlenebilmektedir.",
+  "giris_kosullari": [
+   "Meslek lisesi eğitimi için en az ortaokul mezunu olmak ve ilgili yerleştirme esaslarına göre kayıt yaptırmak",
+   "Sağlık durumunun, yüksek sıcaklık ve fiziksel çalışma koşullarına uygun olması (gerektiğinde sağlık raporuyla belgelenir)",
+   "İşbaşı eğitim veya kurslara katılım için genellikle en az ilköğretim mezunu olmak"
+  ],
+  "sure_ve_icerik": "Metal Teknolojisi alanında örgün mesleki eğitim 9-12. sınıfları kapsar ve dört yıl sürer; ortak kültür dersleri ile alan/dal derslerinin yanında işletmelerde staj uygulaması yapılır. Doğrudan işe girenler ise işbaşında usta operatör gözetiminde, makine kullanımı, sıcaklık ve süre ayarları, soğutma işlemleri ile iş güvenliği konularında pratik eğitim alarak yetişir. Kurum ve kurs eğitimleri ise genellikle kısa süreli olup teorik bilgi ile uygulamalı çalışmayı birlikte içerir.",
+  "belge": "Örgün eğitimi tamamlayanlara meslek lisesi diploması verilir. İşbaşı eğitim veya kurs ile yetişenlere çalıştığı işyerinden deneyim belgesi, katıldığı kurstan ise katılım/başarı belgesi verilebilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, geçerli olduğu alanlarda istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "İndüksiyon Tezgah Operatörleri; demir-çelik, otomotiv yedek parça, makine imalatı, döküm ve metal işleme sektöründeki küçük, orta ve büyük ölçekli fabrika ve atölyelerin ısıl işlem/sertleştirme bölümlerinde istihdam edilir. Metal parçaların bölgesel sertleştirilmesi veya ısıtılarak şekillendirilmesine ihtiyaç duyan her türlü imalat işletmesinde iş bulma olanağı bulunmaktadır. Sektördeki üretim hacmine bağlı olarak talep değişkenlik gösterebilir.",
+ "kazanc": {
+  "egitim_suresince": "Örgün mesleki eğitim kapsamında işletmede staj/çıraklık eğitimi görenlere 3308 sayılı Mesleki Eğitim Kanunu hükümleri çerçevesinde ücret ödenir ve iş kazası-meslek hastalığı sigortaları karşılanır. İşbaşında usta yanında yetişenler çoğunlukla asgari ücret düzeyinde bir kazanç elde ederken, kısa süreli kurslara katılanlara genellikle ücret ödenmez.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Deneyim, bilgi birikimi, işletmenin büyüklüğü ve çalıştığı sektöre göre ücret düzeyi artabilir.",
+   "Kamu kurumlarında istihdam edilenler 657 sayılı Devlet Memurları Kanunu veya işçi statüsündeyse ilgili toplu iş sözleşmesi hükümlerine tabi olarak ücret alır.",
+   "Özel sektörde ücret, işveren ile çalışan arasındaki anlaşmaya, tecrübeye ve işletme koşullarına göre değişir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Metal Teknolojisi alanında meslek lisesi eğitimini tamamlayanlar, alanın devamı niteliğindeki yükseköğretim ön lisans/lisans programlarına (örneğin metalurji ve malzeme mühendisliği ile ilgili bölümler) sınavla veya ilgili yerleştirme esaslarına göre geçiş yapabilir.",
+  "is_hayatinda": "Deneyim ve bilgi birikimi arttıkça usta operatörlük, ekip/vardiya sorumluluğu, atölye şefliği veya kalite kontrol sorumluluğu gibi pozisyonlara yükselme imkânı bulunur. Yeterli sermaye ve deneyime sahip olanlar kendi ısıl işlem/metal sertleştirme işletmesini kurabilir."
+ },
+ "benzer_meslekler": [
+  "Isıl İşlemci",
+  "Metal Sertleştirici",
+  "Sementasyon Tavcısı-Metal",
+  "Su Verici (Metal)",
+  "Diğer Tavcılar, Su Vericiler ve Sementasyon Tavcıları"
+ ],
+ "ek_bilgiler": "Çalışma sırasında yüksek sıcaklık, yüksek frekanslı elektromanyetik alan ve ani soğutma (su/yağ verme) işlemleri söz konusu olduğundan iş güvenliği tedbirlerine ve kişisel koruyucu donanım kullanımına özenle uyulması gerekir. Mesleki Yeterlilik Kurumu (MYK) belgesi, bu alanda çalışacaklar için istihdamda tercih sebebi olabilir.",
+ "gorevler": [
+  "Makinenin frekans, güç ve ısıtma süresi ayarlarını yapar.",
+  "İş parçasını indüksiyon bobini içine doğru şekilde konumlandırır.",
+  "Isıtma sonrası ani soğutma (su/yağ verme) işlemlerini yönetir.",
+  "Sertleştirilen yüzeyin sertlik derinliği ve mikroyapı kontrollerini izler.",
+  "Bobinlerin ve soğutma suyu sisteminin bakımını takip eder.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T11:41:57",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5694
+  }
+ }
+}

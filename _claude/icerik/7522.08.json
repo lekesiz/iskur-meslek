@@ -1,0 +1,85 @@
+{
+ "arac_gerec": [
+  "Testere (el testeresi, şerit testere, daire testere)",
+  "Rende (el rendesi, elektrikli rende)",
+  "Keser ve keski",
+  "Çekiç ve tokmak",
+  "Matkap ve raybalar",
+  "Havşa açma aletleri",
+  "Buharlama kazanı/buhar ekipmanı (tahtayı yumuşatmak için)",
+  "Metal veya ahşap çember malzemesi ve çember germe-sıkma aletleri",
+  "Perçinleme aletleri",
+  "Pres ve mengene",
+  "Zımpara ve perdahlama gereçleri",
+  "Tecrit (yalıtım) maddesi",
+  "Metre, gönye, pergel gibi ölçüm araçları",
+  "İşlenecek ahşap (meşe, kestane, karaçam vb. tomruk ve tahtalar)"
+ ],
+ "genel_ozellikler": [
+  "El becerisine sahip,",
+  "Şekil-uzay ilişkilerini görebilen,",
+  "El ve gözünü eşgüdümle kullanabilen,",
+  "Dikkatli ve tedbirli,",
+  "Fiziksel olarak güçlü ve dayanıklı,",
+  "Alet ve makinelerle çalışmaktan hoşlanan,",
+  "Sabırlı ve düzenli çalışabilen,",
+  "Ölçme ve hesaplamaya yatkın,"
+ ],
+ "calisma_ortami": "Fıçı imalat işçileri genellikle atölye, imalathane veya küçük işletmelerin ahşap işleme bölümlerinde çalışır. Çalışma ortamı ahşap talaşı ve tozu nedeniyle tozludur; testere, rende ve pres gibi makinelerin kullanımı sırasında gürültülü olabilir; buharlama işlemi sırasında sıcaklık ve nem artabilir. Ayakta çalışma, ağır tomruk ve tahta parçalarını taşıma ve kaldırma, keskin alet ve makinelerle çalışma söz konusu olduğundan iş kazası riskine karşı dikkatli olunması gerekir.\n\nÇalışma genellikle gündüz ve tam zamanlı olarak yürütülür. Meslek elemanı; işyeri sahibi/ustası, birlikte çalıştığı diğer işçiler ve zaman zaman da ürünü sipariş eden müşterilerle (şarap, bira, zeytinyağı üreticileri, kereste/mobilya işletmeleri gibi) iletişim kurar.",
+ "calisma_alanlari": "Fıçı imalat işçileri; ahşap fıçı ve benzeri ahşap kapların üretildiği küçük imalathane ve atölyelerde, kereste ve mobilya işletmelerinin ahşap kap/tank üretimi yapan bölümlerinde, şarap, bira, zeytinyağı, turşu gibi ürünlerin ahşap fıçılarda saklanmasını veya sunumunu talep eden işletmelere bağlı atölyelerde çalışabilir. Deneyim kazanan ve sermaye biriktiren kişiler kendi fıçı imalat atölyelerini de açabilir. Bu meslek, günümüzde endüstriyel ambalajlamanın yaygınlaşması nedeniyle istihdam olanağı sınırlı, geleneksel bir el sanatı niteliği taşımaktadır.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğin örgün ve resmî bir çıraklık/mesleki eğitim programı bulunmadığından, öğrenme genellikle ustanın yanında işbaşında gerçekleşir. Eğer işyeri ile resmî bir çıraklık sözleşmesi yapılırsa, 3308 sayılı Mesleki Eğitim Kanunu kapsamında öğrenciye asgari ücretin belirli bir oranında ödeme yapılabilir; aksi halde kazanç işveren ile yapılan anlaşmaya bağlıdır.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanların kazancı genellikle asgari ücret düzeyindedir.",
+   "Kazanç; çalışılan işletmenin büyüklüğü, kişinin deneyimi, el işçiliği becerisi ve sektördeki talep durumuna göre değişebilir.",
+   "Kendi atölyesini açan ve müşteri çevresi oluşturan kişiler, iş hacmine bağlı olarak daha yüksek gelir elde edebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğe özgü örgün bir ilerleme basamağı (kalfalık/ustalık sınavı gibi) bulunmamaktadır. Kişi, ahşap işleri/mobilya alanındaki mesleki eğitim merkezleri veya Halk Eğitim Merkezleri ile İŞKUR'un açtığı mesleki eğitim kurslarına katılarak genel ahşap işleme bilgi ve becerisini geliştirebilir; isterse örgün eğitime dönerek ilgili alanda açık öğretim veya meslek lisesi diploması alabilir.",
+  "is_hayatinda": "Deneyim kazanan işçiler ustalaşarak daha karmaşık ve kaliteli fıçı/tank imalatı yapabilir, kalite kontrol ve usta öğretici konumuna gelebilir. Yeterli bilgi birikimi ve sermayeye sahip olanlar kendi atölyelerini açarak işveren konumuna geçebilir."
+ },
+ "benzer_meslekler": [
+  "Depolama Tankı İmalat İşçisi (Ağaç)",
+  "Ağaç Palet İmalatçısı",
+  "Tahta Kaşık Yapımcısı",
+  "Ahşap Mobilya İmalatçısı",
+  "Ağaç Oymacısı/Ahşap Oymacısı"
+ ],
+ "ek_bilgiler": "Fıçı imalat işçiliği, endüstriyel ambalajlamanın yaygınlaşmasıyla günümüzde sınırlı sayıda atölyede sürdürülen geleneksel bir el sanatı meslektir. Şarap, bira, zeytinyağı gibi ürünlerin ahşap fıçılarda olgunlaştırılması veya saklanmasına yönelik talep bulunan işletmelerde istihdam olanağı sürmektedir. Mesleki Yeterlilik Kurumu (MYK) belgesi, iş bulma sürecinde tercih sebebi olabilir.",
+ "gorevler": [
+  "Tomruklardan biçme, bükme, ekleme ve rendeleme işlemleriyle fıçı tahtalarını hazırlar; fıçı tahtalarını istenilen şekilde birleştirerek uçlarını toplar ve aynı hizada keser.",
+  "Montajı kısmen tamamlanan fıçıya geçici çemberler takar ve çemberi sıkar.",
+  "Fıçının ağacını yumuşatmak için buhara tutar.",
+  "Fıçı tahtalarından birini deler, raybalar ve meydana gelen tıkaç deliğine havşa açar.",
+  "Fıçı tahtalarının uçlarını kesip düzeltir, alt ve üst kapakların takılması için yuvalar açar.",
+  "Kapakları biçer, yuvarlatır, düzeltir; önceden hazırlanmış parçaları kullanarak kapakları yapar.",
+  "Kapakları çembere geçirerek etrafına fıçı tahtalarını presler.",
+  "Metal veya ağaç çemberleri eğerek şekillendirir, uçlarını perçinler ve perçinlenen çemberleri fıçıya iyice uydurur.",
+  "Geçici çemberleri fıçıdan söker ve yerlerine zorlayarak daimi çemberler geçirir.",
+  "Fıçının yüzlerini düzeltip perdahlar.",
+  "Kırık tahta, kapak ve çemberleri değiştirerek, sızan ek yerlerini tıkayarak sakat fıçıları tamir eder.",
+  "Fıçının iç kısmına, sızıntıyı ve sıvı maddenin doğrudan tahta ile temasını önlemek üzere bir tecrit (yalıtım) maddesi kaplar; fıçı eklerinin sağlamlığını kontrol etmek üzere fıçıyı muayene eder.",
+  "Dairevi (silindirik) ahşap tankları da inşa eder veya tamir eder.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Fıçı İmalat İşçiliği (Ağaç) için örgün ve ayrı bir mesleki eğitim programı bulunmamaktadır. Meslek, genellikle fıçı imalatı yapan atölyelerde usta yanında işbaşında öğrenilen geleneksel bir el sanatıdır. Ahşap işleme ve mobilya alanındaki mesleki eğitim merkezleri, Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kursları, temel ahşap işleme bilgi ve becerisi kazandırması açısından destekleyici olabilir.",
+  "giris_kosullari": [
+   "İlköğretim mezunu olmak (mesleğin gerektirdiği minimum eğitim düzeyi)",
+   "El işçiliğine ve ahşap malzemeyle çalışmaya ilgi duymak",
+   "Fiziksel olarak mesleğin gerektirdiği işleri yapabilecek sağlık durumuna sahip olmak",
+   "Eğitim görmek istenilen işyerinde usta yanında çalışmaya başlamak"
+  ],
+  "sure_ve_icerik": "Meslek, belirli bir süre ile sınırlı resmî bir müfredata sahip değildir; kişi, bir fıçı imalat atölyesinde usta yanında çalışarak önce yardımcı işlerde, ardından tahta hazırlama, çember takma, kapak yapma, buharlama ve montaj gibi işlemlerde uygulamalı olarak yetişir. Bu süreç kişinin becerisine bağlı olarak yıllar sürebilir. İlgili ahşap işleme kurslarına katılım, temel araç-gereç kullanımı ve güvenlik konularında destekleyici olabilir.",
+  "belge": "Resmî bir çıraklık sözleşmesi yapılması durumunda Mesleki Eğitim Merkezlerinden kalfalık/ustalık belgesi alınabilir; aksi halde mesleğin icrası için zorunlu bir diploma veya belge bulunmamakta, beceri ve deneyim esas alınmaktadır. Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T07:47:11",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 7239
+  }
+ }
+}

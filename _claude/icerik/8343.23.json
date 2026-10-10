@@ -1,0 +1,79 @@
+{
+ "arac_gerec": [
+  "Gantry crane vinç",
+  "Sprayder (konteynır büyüklüğüne göre ayarlanabilir kaldırma aparatı)",
+  "Döner kilit mekanizmaları",
+  "Vinç kumanda kabini ve kontrol paneli",
+  "Telsiz / interkom haberleşme cihazı",
+  "Kamera ve izleme sistemi",
+  "Kaldırma halatları ve kancalar",
+  "İş güvenliği ekipmanları (baret, emniyet ayakkabısı, koruyucu gözlük, eldiven, yelek)",
+  "Konteynırlar (20-40-45 fit)",
+  "Çekici araçlar",
+  "Aydınlatma ve sinyalizasyon sistemleri",
+  "Yangın söndürme ekipmanı"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve tedbirli,",
+  "El ve göz koordinasyonunu iyi kullanabilen,",
+  "Çevredeki çeşitli uyarıcıları aynı anda algılayabilen,",
+  "Sorumluluk sahibi ve kararlı,",
+  "Yüksekte çalışmaya uygun, denge sorunu olmayan,",
+  "Stresli ve zaman baskısı olan ortamda sakin kalabilen,",
+  "Ekip çalışmasına uyumlu, iletişime açık,",
+  "İyi derecede görme ve işitme yeteneğine sahip"
+ ],
+ "calisma_ortami": "Gantry crane vinç operatörü, işini genellikle liman sahasında, vincin üst kısmında bulunan yüksek bir kumanda kabini içerisinde oturarak yürütür. Kabin kapalı olmakla birlikte liman ortamı; rüzgâr, deniz etkisiyle değişen hava koşulları, gürültü ve zaman zaman kısıtlı görüş gibi unsurlar içerebilir. Çalışma yüksekte ve hareketli bir platformda gerçekleştiğinden dikkat ve tedbir gerektirir, dikkatsizlik iş kazalarına yol açabilir.\n\nGemi trafiğine bağlı olarak vardiyalı sistemle, gece ve gündüz çalışılabilir. Operatör; gemideki serdümen, vinç sinyalcisi, çekici operatörleri, liman operasyon ve bakım personeli ile telsiz, işaret ve görsel iletişim yoluyla sürekli koordinasyon içinde çalışır.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin ayrı ve resmî bir örgün eğitim programı bulunmamaktadır. Eğitim genellikle liman işletmelerinin kendi bünyesinde düzenlediği kurslarda, özel kurs firmalarında veya iş makinesi/vinç operatörlüğüne yönelik kurslarda; sonrasında işbaşında usta operatör yanında uygulamalı olarak verilir. Mesleki ve teknik eğitim kurumlarının denizcilik/liman işletmeciliği ile ilgili alanlarındaki eğitimler de destekleyici nitelik taşır.",
+  "giris_kosullari": [
+   "18 yaşını doldurmuş olmak",
+   "En az ilköğretim mezunu olmak",
+   "Yükseklikte ve dikkat gerektiren işte çalışmaya engel bir sağlık sorunu (görme, işitme, denge vb.) bulunmamak",
+   "Kursun veya işletmenin aradığı diğer koşulları (adli sicil, fiziksel uygunluk vb.) taşımak"
+  ],
+  "sure_ve_icerik": "Eğitim süresi kursu veren kuruma göre değişmektedir. İçerikte vincin teknik yapısı ve kullanımı, konteynır yükleme-boşaltma teknikleri, sinyalleşme ve koordinasyon kuralları, iş sağlığı ve güvenliği, temel bakım bilgisi gibi konular yer alır. Teorik eğitimin ardından genellikle liman sahasında, usta operatör gözetiminde uzun bir uygulamalı eğitim (işbaşı eğitimi) süreci izlenir.",
+  "belge": "Kursu başarı ile tamamlayanlara, eğitimi veren kurum veya işletme tarafından operatör sertifikası/belgesi verilir. Mesleki Yeterlilik Kurumu (MYK) Mesleki Yeterlilik Belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Gantry crane vinç operatörleri; konteynır limanlarında, liman işletme şirketlerinde, gemi yükleme-boşaltma hizmeti veren kamu veya özel kuruluşlarda istihdam edilir. Dış ticaret hacmindeki artış ve konteynır taşımacılığının yaygınlaşması nedeniyle limanlarda bu meslek elemanlarına ihtiyaç duyulmaktadır. İş bulma olanağı, kıyı şeridinde konteynır limanı bulunan bölgelerde daha fazladır.",
+ "kazanc": {
+  "egitim_suresince": "Kurs sürecinde genellikle kazanç elde edilmez; liman işletmesi tarafından yürütülen işbaşı eğitimlerde bazı işletmeler çalışana sınırlı bir ödeme yapabilir.",
+  "egitim_sonrasi": [
+   "Kamu kuruluşlarına bağlı limanlarda çalışanlar, 657 sayılı Kanun veya ilgili toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde çalışanların kazancı; işyerinin büyüklüğü, kişinin tecrübesi ve bilgisi, çalışma kapasitesi ile sektörün ücret düzeyine göre değişebilir; yeni başlayanlarda kazanç genellikle asgari ücret düzeyindedir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Deneyim kazandıkça farklı vinç tiplerinin (RTG, SSG, mobil vinç vb.) kullanımına yönelik ek kurslara katılarak yetkinlik alanını genişletebilir.",
+  "is_hayatinda": "Deneyim ve performansına göre usta operatörlüğe, vinç ekip sorumluluğuna veya liman operasyon biriminde gözetmen/şef gibi pozisyonlara yükselebilir."
+ },
+ "benzer_meslekler": [
+  "Liman Vinç Operatörü (RTG ve SSG)",
+  "Liman RTG Operatörü",
+  "Liman SSG Operatörü",
+  "Mobil Vinç Operatörü (MHC, Sahil ve Gemi Vinci)",
+  "Rıhtım Vinç Operatörü",
+  "Gemi Vinç Operatörü",
+  "Transteynir Operatörü (Gemi)"
+ ],
+ "ek_bilgiler": "Konteynır taşımacılığındaki artış nedeniyle liman işletmelerinde bu meslek elemanlarına duyulan ihtiyaç sürmektedir. İş, yükseklikte ve dikkat gerektiren bir ortamda yapıldığından işe alımlarda sağlık muayenesi ve periyodik kontroller istenebilir.",
+ "gorevler": [
+  "Geminin rıhtıma yanaşmasından sonra vinç bomunu yatırır,",
+  "Konteynır büyüklüğüne (20-40 veya 45 fit) göre spreyderi ayarlar,",
+  "Gemi ambarlarında boşaltılacak ya da ambarlarına yüklenecek konteynır üzerine vinci ileri-geri hareket ettirerek yaklaştırır,",
+  "Döner kilitleri konteynır üzerindeki deliklere geçirip kilitler,",
+  "Bağlantısı yapılan konteynırı mayna vira (aşağı-yukarı) yapar,",
+  "Gemi ambarı içine veya ambar üstüne konteynırları istifler,",
+  "Gemiden alınan konteynırları çekiciye yükler, çekici üzerinden aldığı konteynırları gemiye yükler,",
+  "Gemi yükleme boşaltma işlemi tamamlandığında bomu toplar,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T18:58:41",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5214
+  }
+ }
+}

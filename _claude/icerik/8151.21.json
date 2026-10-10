@@ -1,0 +1,77 @@
+{
+ "arac_gerec": [
+  "Kendir ezme makinesi",
+  "Makinenin yağ deposu",
+  "Kendir yağı",
+  "Buhar kazanı ve buhar hattı",
+  "Hareketli bant (konveyör sistemi)",
+  "Kendir elyafı",
+  "Basit el aletleri (bakım ve küçük onarım için)",
+  "Koruyucu iş elbisesi, eldiven ve maske",
+  "Kulak koruyucu (gürültüye karşı)"
+ ],
+ "benzer_meslekler": [
+  "Kendir Bükücü Operatörü",
+  "Kendir Elyaf Bükücü Operatörü",
+  "Kendir Etraj Makinesi İşçisi",
+  "Kendir Kesme Makinesi İşçisi",
+  "Keten Elyaf Bükücü",
+  "Harman-Hallaç Makinesi Operatörü",
+  "Elyaf Açma Makineleri Operatörü"
+ ],
+ "calisma_alanlari": "Kendir ezme makinesi işçileri, sert elyaf (kendir, keten, jüt vb.) işleyerek iplik, halat, çuval, urgan gibi ürünler üreten tekstil fabrika ve atölyelerinde istihdam edilirler. Bu tür sert elyaf işleme tesisleri günümüzde ülkemizde sayıca sınırlıdır ve genellikle belirli bölgelerde yoğunlaşmıştır; dolayısıyla kamu kurumlarında bu meslek için istihdam olanağı bulunmamaktadır.\n\nİş bulma olanakları, sektördeki üretim hacmine ve mevcut işletmelerin sayısına bağlı olarak sınırlı kalabilmektedir. Deneyimli ve makine bakımı konusunda bilgi sahibi olan işçiler, iş bulma konusunda daha avantajlı olmaktadır.",
+ "calisma_ortami": "Kendir ezme makinesi işçileri, kendir ve benzeri sert elyafın işlendiği fabrika ve atölyelerin üretim bölümlerinde, kapalı mekânlarda çalışırlar. Çalışma ortamı, makinenin çalışması nedeniyle gürültülü olup, elyaftan kaynaklanan lif tozu havada bulunabilir; ayrıca yağ kaynatma ve buhar işlemleri nedeniyle ortam sıcak ve nemli olabilir. Bu nedenle işçiler, iş sağlığı ve güvenliği kuralları doğrultusunda koruyucu kıyafet, maske ve gerektiğinde kulak koruyucu kullanmalıdır.\n\nÇalışma genellikle ayakta ve tam gün sürdürülür, işletmenin üretim düzenine bağlı olarak vardiyalı çalışma söz konusu olabilir. Meslek mensupları çalışırken büyük ölçüde makine ve elyaf malzemesiyle ilgilenir; zaman zaman ustabaşı, iş arkadaşları ve bakım-onarım personeliyle iletişim kurar.",
+ "egitim": {
+  "verildigi_yerler": "Kendir ezme makinesi işçiliği için örgün bir okul veya kurs programı bulunmamaktadır. Mesleğin eğitimi, genellikle çalışılan işyerinde işbaşında, deneyimli bir usta veya operatör gözetiminde uygulamalı olarak verilir. Ayrıca Halk Eğitim Merkezleri ve İŞKUR tarafından açılan tekstil ve iplik işçiliğine yönelik temel düzey mesleki eğitim kursları da mesleğe hazırlık açısından faydalı olabilir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "Fiziksel olarak sağlıklı ve dayanıklı olmak",
+   "Ayakta ve makine başında çalışmaya uygun olmak"
+  ],
+  "sure_ve_icerik": "İşbaşı eğitiminin süresi, işyerinin büyüklüğüne ve işin karmaşıklığına göre değişmekle birlikte genellikle birkaç haftadan birkaç aya kadar sürebilir. Eğitim süresince makinenin çalıştırılması, yağlama ve buharlama işlemleri, elyaf besleme, makine bakımı ile iş sağlığı ve güvenliği konularında bilgi ve beceri kazandırılır.",
+  "belge": "Eğitim sonunda resmî bir diploma veya örgün eğitim belgesi bulunmamaktadır; işyerinde edinilen tecrübe esastır. Halk Eğitim Merkezi veya İŞKUR kurslarına katılanlara 'Kurs Bitirme Belgesi' verilebilir. Mesleki Yeterlilik Kurumu (MYK) tarafından ilgili alanda düzenlenmiş bir yeterlilik belgesinin bulunması, istihdamda tercih sebebi olabilir."
+ },
+ "ek_bilgiler": "Kendir, keten gibi sert elyafın işlenmesine dayalı üretim, sentetik ve diğer elyaf türlerinin yaygınlaşmasıyla birlikte ülkemizde zaman içinde azalmıştır. Bu nedenle mesleğe yönelik istihdam olanakları sınırlı olup, iş arayanların bölgesel üretim durumunu araştırmaları önerilir.",
+ "genel_ozellikler": [
+  "El ve kol becerisi gelişmiş,",
+  "Dikkatli ve tedbirli,",
+  "Fiziksel olarak dayanıklı,",
+  "Makine ve teçhizatla çalışmaktan hoşlanan,",
+  "Talimat ve kurallara uygun hareket edebilen,",
+  "Sorumluluk sahibi,",
+  "Monoton işlerde sabırlı çalışabilen,",
+  "Takım çalışmasına yatkın"
+ ],
+ "gorevler": [
+  "İş organizasyonu yapar,",
+  "Kendir elyafını yağlamakta kullanılan kendir yağını makinenin yağ deposuna doldurur,",
+  "Yağı kaynatarak inceltmek üzere depoya sıcak buhar verir,",
+  "Makineyi çalıştırır ve kendir elyafını makinenin hareketli bandına doldurur,",
+  "Makinenin çalışmasını ve elyafın makinede yağlanarak yumuşamasını kontrol eder,",
+  "Hareketli banda devamlı elyaf ikmali yapar,",
+  "Ezilmeyen ve yumuşamayan elyafı tekrar makineye verir,",
+  "Makinenin bakım ve onarımını yapar,",
+  "Ayrı bir makinede aynı işlemi yağ kullanmadan da yapabilir,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "İşletmenin büyüklüğüne ve üretim yapısına göre, işletme bünyesinde düzenlenen hizmet içi eğitim programlarıyla işçinin makine kullanımı, bakım-onarım ve farklı elyaf işleme süreçlerine ilişkin bilgi ve becerisi geliştirilebilir.",
+  "is_hayatinda": "Deneyim kazanan kendir ezme makinesi işçileri, zamanla vardiya sorumlusu veya ustabaşı konumuna yükselebilir. Farklı elyaf işleme makinelerinde (bükme, kesme, etraj vb.) görev alarak mesleki tecrübesini genişletebilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Mesleğin eğitimi genellikle işbaşında verildiğinden, çıraklık veya stajyerlik döneminde işveren ile yapılan anlaşmaya bağlı olarak düşük düzeyde bir ücret ödenebilir; bazı durumlarda eğitim sürecinde herhangi bir kazanç söz konusu olmayabilir.",
+  "egitim_sonrasi": [
+   "İşe yeni başlayan kendir ezme makinesi işçilerinin kazancı genellikle asgari ücret düzeyindedir.",
+   "Deneyim, işletmedeki kıdem ve üstlenilen sorumluluk arttıkça ücret düzeyi işveren ile yapılan anlaşmaya bağlı olarak yükselebilir.",
+   "Kamu kurumlarında bu meslekte istihdam söz konusu olmadığından ücretlendirme genel olarak özel sektördeki işveren-çalışan anlaşmasına göre belirlenir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T13:27:17",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 4762
+  }
+ }
+}

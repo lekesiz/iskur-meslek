@@ -1,0 +1,84 @@
+{
+ "arac_gerec": [
+  "Kaporta çekici ve örs takımları",
+  "Vakum/pullu çekme aparatları",
+  "Hidrolik ve mekanik gövde çekme köprüsü/platformu",
+  "Punta (direnç) kaynak makinesi",
+  "MIG/MAG kaynak makinesi",
+  "Zımpara makinesi ve çeşitli kum zımparalar",
+  "Taşlama ve polisaj makineleri",
+  "Ölçüm mastarları ve şablonlar",
+  "Lazer/bilgisayarlı kaporta ölçüm sistemleri",
+  "El aletleri (anahtar takımı, tornavida, keski)",
+  "Kriko ve destek ekipmanları",
+  "Kişisel koruyucu donanım (eldiven, gözlük, maske, iş elbisesi)"
+ ],
+ "genel_ozellikler": [
+  "El becerisine sahip,",
+  "Şekil ve uzay ilişkilerini iyi görebilen,",
+  "El ve gözünü eşgüdümle kullanabilen,",
+  "Dikkatli ve tedbirli,",
+  "Fiziksel olarak dayanıklı,",
+  "Estetik görünüme ve işin düzgünlüğüne önem veren,",
+  "Alet ve makinelerle çalışmaktan hoşlanan,",
+  "Takım çalışmasına yatkın kişiler olmaları gerekir."
+ ],
+ "calisma_ortami": "Otomotiv Kaporta İşçileri genellikle otomotiv fabrikalarının üretim hatlarında, kaporta-boya atölyelerinde veya oto servislerinde, kapalı ve çoğunlukla ayakta çalışırlar. Çalışma ortamı zaman zaman gürültülü ve tozludur; taşlama, zımparalama ve kaynak işlemleri sırasında metal tozu, kıvılcım ve kesici/döner aletlerle çalışma riski bulunduğundan kişisel koruyucu donanım kullanımı önemlidir. Fabrika ortamlarında vardiyalı çalışma düzeni söz konusu olabilir.\n\nÇalışma sırasında formen, usta, kalite kontrol personeli, mühendisler ve diğer kaporta-boya işçileriyle sürekli iletişim ve iş birliği içinde bulunurlar.",
+ "gorevler": [
+  "İş sağlığı ve güvenliği, yangın ve acil durum kurallarını uygular.",
+  "Kalite yönetim sistemi dokümanlarına uygun çalışır.",
+  "İş organizasyonu yapar.",
+  "Çalışılan yeri düzenler.",
+  "Çalışma alet ve donanımının koruyucu ve talimatlı bakımlarını sağlar.",
+  "Organizasyon ve hazırlık işlemlerini gerçekleştirir.",
+  "Kaporta hasarlarıyla ilgili hazırlıkları yapar.",
+  "Onarım işlemlerini yapar.",
+  "Tamamlayıcı işlemleri gerçekleştirir.",
+  "Yalıtım ve kontrol işlemlerini gerçekleştirir.",
+  "Ayar ve alıştırma işlemlerini gerçekleştirir.",
+  "İş bitiminde donanım ve iş alanı temizliğini yapar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi, yeterli müracaat olması durumunda Mesleki Eğitim Merkezlerinde \"Metal Teknolojisi\" alanının ilgili dalında çıraklık eğitimi şeklinde verilmektedir. Ayrıca Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kursları ile de mesleğe yönelik temel beceriler kazanılabilmekte, uygulamalı bilgiler işbaşında usta yanında da öğrenilebilmektedir.",
+  "giris_kosullari": [
+   "En az ortaokul mezunu olmak (zorunlu eğitim çağındakiler için mesleki eğitim programlarına uygun kayıt yapılır)",
+   "Sağlık durumunun mesleğin gerektirdiği işlere elverişli olması (gerektiğinde sağlık raporuyla belgelendirilir)",
+   "14 yaşını doldurmuş olmak",
+   "Çıraklık eğitimi için bir işyeri bulup işveren ile çıraklık sözleşmesi imzalamak",
+   "Yetişkinler için açılan kurslara katılımda kursun aradığı yaş ve öğrenim şartlarını taşımak"
+  ],
+  "sure_ve_icerik": "Mesleki Eğitim Merkezlerinde eğitim çok yıllı bir süreçte, kalfalık ve ardından ustalık eğitimi şeklinde yürütülür; eğitim haftanın bir bölümünde merkezde teorik derslerle, kalan günlerinde ise çıraklık sözleşmesi yapılan işyerinde usta öğreticinin gözetiminde uygulamalı olarak verilir. Yetişkinlere yönelik mesleki eğitim kurslarında ise daha kısa sürede, sac şekillendirme, hasar giderme, doğrultma, kaynak ve yüzey hazırlama gibi temel beceriler kazandırılır. Mesleğe çoğu zaman işbaşında usta yanında çalışarak da girilmektedir.",
+  "belge": "Çıraklık eğitimini tamamlayanlara kalfalık, ardından ustalık belgesi; mesleki eğitim kurslarını tamamlayanlara ise kurs bitirme belgesi verilir. Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Otomotiv Kaporta İşçileri; otomotiv fabrikalarının üretim ve kalite kontrol bölümlerinde, oto kaporta-boya atölyelerinde, yetkili ve özel oto servislerinde, kaza sonrası onarım merkezlerinde çalışabilirler. Deneyim kazandıktan sonra kendi atölyelerini açarak bağımsız olarak da çalışabilirler. İstihdam olanakları, otomotiv üretim ve onarım sektöründeki faaliyet hacmine göre değişkenlik gösterebilir.",
+ "kazanc": {
+  "egitim_suresince": "3308 sayılı Mesleki Eğitim Kanunu kapsamında işletmelerde mesleki eğitim gören çırak ve öğrencilere, yasal düzenlemelere göre belirlenen tutarda ücret ödenir; iş kazası ve meslek hastalığına karşı sigorta primleri devletçe karşılanır. Kurs döneminde ise genellikle doğrudan bir ücret söz konusu değildir.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç elde eder.",
+   "Kazanç; kişinin deneyimi, bilgi ve becerisi, çalıştığı işyerinin büyüklüğü ve sektördeki ücret düzeyine göre değişebilir.",
+   "Kendi işyerini açanların kazancı, işletmenin iş hacmine ve müşteri portföyüne göre farklılık gösterebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Çıraklık eğitimini tamamlayanlar kalfalık, ardından ustalık belgesi alabilir; fark derslerini tamamlayarak meslek lisesi diplomasına sahip olabilirler. İsteyen ve koşulları sağlayan kişiler, ilgili ön lisans/lisans programlarına yönelerek mesleki bilgisini ilerletebilir.",
+  "is_hayatinda": "Deneyim ve beceri kazandıkça usta, ekip lideri veya atölye/vardiya sorumlusu gibi pozisyonlara yükselebilirler. İş deneyimi ve sermaye birikimine bağlı olarak kendi kaporta atölyesini açabilirler."
+ },
+ "benzer_meslekler": [
+  "Karoserci",
+  "Otomotiv Kaportacısı",
+  "Otomotiv Şasi ve İskelet İşçisi",
+  "Otomotiv Sac Şekillendirme Ustası",
+  "Otomotiv Sac Şekillendirme İşçisi",
+  "Metal Levha İşçisi"
+ ],
+ "ek_bilgiler": "İşin niteliği gereği kesici, döner ve kaynak yapan ekipmanlarla çalışıldığından iş sağlığı ve güvenliği kurallarına ve kişisel koruyucu donanım kullanımına özen gösterilmesi önemlidir. Otomotiv üretim ve onarım sektöründeki talep dalgalanmaları, mesleğin istihdam olanaklarını etkileyebilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T00:32:40",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5833
+  }
+ }
+}

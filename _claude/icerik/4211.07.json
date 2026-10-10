@@ -1,0 +1,80 @@
+{
+ "arac_gerec": [
+  "Bilgisayar ve bankacılık işlem yazılımı",
+  "Para sayma ve banknot kontrol (sahte para tespit) makinesi",
+  "Kasa ve kasa kayıt sistemi",
+  "Tahsilat fişi, dekont, çek ve senet formları",
+  "Tahsilat/işlem damgası ve mühür",
+  "Hesap makinesi",
+  "Yazıcı ve tarayıcı",
+  "İmza sirküleri ve kimlik doğrulama sistemleri",
+  "Döviz kuru bilgi ekranı",
+  "Kasa ve çekmece güvenlik kilit sistemleri",
+  "Telefon ve dahili iletişim sistemleri",
+  "Belge/dosya saklama dolapları"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve titiz,",
+  "Sayısal işlemlere ve rakamlarla çalışmaya yatkın,",
+  "Dürüst ve güvenilir,",
+  "Sorumluluk sahibi,",
+  "Müşteri ilişkilerinde güler yüzlü ve sabırlı,",
+  "Zaman baskısı ve yoğun iş temposunda soğukkanlı kalabilen,",
+  "Takım çalışmasına uyumlu"
+ ],
+ "calisma_ortami": "Veznedarlar (bankada), banka şubelerinin gişe/vezne bölümlerinde, kapalı ve genellikle temiz, aydınlık bir ortamda, çoğunlukla masa başında oturarak çalışır. Çalışma saatleri banka mesai saatleriyle sınırlıdır; ancak gün sonunda kasa mutabakatı ve evrak kapanışı nedeniyle mesai süresi bazen uzayabilir.\n\nMeslek elemanı, gün içinde çok sayıda müşteriyle yüz yüze ilişki kurar; nakit, çek, senet ve döviz işlemlerinde sürekli dikkat ve yoğun odaklanma gerektiren bir tempoda çalışır. Şube müdürü, operasyon/vezne amiri, diğer banka personeli ve denetim birimleriyle de iş ilişkisi içindedir. İşin niteliği nedeniyle zaman zaman stres ve yorgunluk yaşanabilir; kasa açığı/fazlası gibi durumlarda mali ve kurumsal sorumluluk söz konusudur.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin yürütülmesi için zorunlu, resmî bir ön lisans veya lisans programı bulunmamaktadır; ortaöğretim (lise ve dengi) mezuniyeti temel giriş şartıdır. Bankacılık, bankacılık ve sigortacılık, muhasebe ve finans, işletme gibi alanlarda meslek yüksekokulu (ön lisans) veya lisans programlarından mezun olmak işe alımda tercih sebebidir. Bunun yanında bankaların kendi hizmet içi eğitim merkezlerinde verdiği oryantasyon ve mesleki eğitim programları ile İŞKUR ve Halk Eğitim Merkezlerinin açtığı bankacılık/müşteri hizmetleri ağırlıklı kurslar da meslek edinmeye katkı sağlar.",
+  "giris_kosullari": [
+   "Lise veya dengi okul mezunu olmak (bankacılık, muhasebe ve finans veya işletme ile ilgili ön lisans/lisans mezuniyeti tercih sebebidir).",
+   "Bankaların açtığı personel alım sınavı, değerlendirme testleri ve mülakat süreçlerinde başarılı olmak.",
+   "Bankacılık mevzuatının öngördüğü güvenlik soruşturması ve diğer istihdam şartlarını taşımak."
+  ],
+  "sure_ve_icerik": "Mesleğe özgü standart ve zorunlu bir eğitim süresi veya müfredatı bulunmamaktadır. İşe alınan personel, bankanın düzenlediği hizmet içi eğitim programları ile işbaşında deneyimli veznedarların yanında uygulamalı olarak yetiştirilir. Bu eğitimlerde kasa ve vezne işlemleri, tahsilat ve ödeme kuralları, müşteri hizmetleri, bankacılık yazılımlarının kullanımı, döviz işlemleri ve ilgili mevzuat konuları işlenir. Bankacılık, muhasebe ve finans ile ilgili ön lisans (iki yıl) veya lisans (dört yıl) programlarına devam edenler ise örgün eğitim süresince teorik ve uygulamalı bankacılık ve finans bilgisi edinirler.",
+  "belge": "Mesleğe giriş için ortaöğretim diploması yeterlidir. Bankacılık, muhasebe ve finans ile ilgili bir ön lisans veya lisans programını tamamlayanlara ilgili diploma verilir. Ayrıca bankanın düzenlediği hizmet içi eğitimler sonunda katılım veya başarı belgesi verilebilir."
+ },
+ "gorevler": [
+  "Günlük işlemlere yetecek oranda parayı imza karşılığı sayarak teslim alır.",
+  "Bankada hesap açtırmak veya hesabına para yatırmak için müracaat eden müşterilerin tahsilat fişlerini inceler, imzalar, kontrol eder, tahsilat damgasını basar ve parayı sayarak alır.",
+  "Senet tahsili yapar.",
+  "Hesabından para çekmek isteyen müşterilere çekecekleri para miktarını sayarak öder.",
+  "Ödenecek çekleri kontrol eder.",
+  "Müşterilerin kredi durumlarını hesap dokümanlarından araştırır.",
+  "Muhasebe defterlerine veya hesap bölümüne aktarılacak belgeler üzerine uygun kayıtlar yapar.",
+  "Mesai bitiminde aldığı paralar, ödediği nakit ve çeklerle ilgili fiş ve dekontları kasa mevcudu ile karşılaştırır ve mutabakat sağlandıktan sonra vezne el defterini kapatır.",
+  "Türk lirasına çevirmek için getirilen yabancı paraları o günkü alış kurundan alır.",
+  "Yabancı para için döviz bozma dekontunu doldurarak, imzalanan dekonta dayanarak yabancı paranın karşılığı olan Türk lirasını sayarak öder.",
+  "Komisyon hesabı veya muhasebeye ait muameleleri yapabilir.",
+  "Kambiyo, seyahat çekleri veya karşılıklı para alımı gibi muamelelerde uzmanlaşarak bu görevi yürütebilir.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "calisma_alanlari": "Meslek elemanları başta kamu ve özel sermayeli bankalar olmak üzere, katılım bankaları ve nakit işlemleri yapılan diğer finans kuruluşlarının şube vezne/gişe birimlerinde çalışabilir. Bankacılık hizmetlerinin ekonomik hayattaki sürekli ve yaygın yeri nedeniyle, güvenilir, dikkatli ve müşteri ilişkilerinde başarılı kişiler için istihdam olanağı genellikle mevcuttur. Bununla birlikte dijital bankacılık, mobil ve internet bankacılığı uygulamalarının yaygınlaşması, bazı nakit işlemlerin şube dışına kaymasına ve bu alandaki istihdam eğiliminin zaman içinde değişmesine yol açabilmektedir.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğe özgü zorunlu bir örgün eğitim süreci bulunmadığından, işbaşında yetişme döneminde kazanç genellikle çalışılan bankanın ücret politikasına bağlıdır. Bankacılık, muhasebe ve finans ile ilgili ön lisans veya lisans eğitimi alanlar bu süreçte Kredi ve Yurtlar Kurumu'ndan öğrenim kredisi/burs ile çeşitli kurum ve kuruluşların karşılıklı veya karşılıksız burs imkânlarından yararlanabilir.",
+  "egitim_sonrasi": [
+   "Kamu bankalarında çalışanlar 657 sayılı Devlet Memurları Kanunu hükümlerine veya işçi statüsünde çalışıyorlarsa ilgili toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel bankalarda çalışanların ücreti, bankanın ücret politikası, deneyim ve performansa bağlı olarak karşılıklı anlaşma ile belirlenir; işe yeni başlayanlarda ücret genellikle asgari ücret düzeyindedir, kıdem ve tecrübe arttıkça yükselebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Bankacılık, bankacılık ve sigortacılık, muhasebe ve finans veya işletme ile ilgili bir ön lisans programını tamamlayanlar, Dikey Geçiş Sınavı (DGS) ile ilgili lisans programlarına kontenjan dâhilinde geçiş yapabilir.",
+  "is_hayatinda": "Veznedar olarak işe başlayanlar, mesleki bilgi, deneyim ve bankanın iç terfi düzenine göre müşteri temsilciliği, servis yetkilisi/sorumlusu veya operasyon elemanlığı gibi görevlere; kıdem kazandıklarında ise kıdemli veznedarlık, vezne/gişe sorumluluğu ve şube idari kadrolarına yükselme olanağına sahiptir."
+ },
+ "benzer_meslekler": [
+  "Veznedar",
+  "Banka Gişe Yetkilisi",
+  "Gişe Memuru-Ptt",
+  "Mutemet",
+  "Sayman",
+  "Bankacılık Meslek Elemanı"
+ ],
+ "ek_bilgiler": "Veznedarlar, görevleri gereği günlük olarak önemli miktarda nakit ve kıymetli evrak ile çalıştıklarından bankalar, bu görev için işe alımda güvenlik soruşturması, kefalet/sigorta uygulaması veya kasa açığına ilişkin mali sorumluluk düzenlemeleri öngörebilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, bu alanda zorunlu olmamakla birlikte istihdamda tercih sebebi olabilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T15:43:51",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 7303
+  }
+ }
+}

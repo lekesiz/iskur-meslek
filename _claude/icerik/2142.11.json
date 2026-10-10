@@ -1,0 +1,83 @@
+{
+ "gorevler": [
+  "Yapıların tasarımında, temel zemininin güvenle taşıyabileceği yükü (zemin emin taşıma gücünü/zemin emniyet gerilmesini) belirler.",
+  "Yapı temellerinin uygulanan yükler altında zamana bağlı olarak yapabileceği oturmaları belirler ve müsaade edilen sınırlara göre tahkiklerini yapar.",
+  "Taşıma gücü ve oturma koşullarına göre en uygun temel tipini belirler ve boyutlandırır.",
+  "Dayanma yapılarının tasarımında, zemin ve sürşarj yükleri nedeniyle dayanma yapılarına etki eden yanal toprak basınçlarını/itkilerini hesaplar ve dayanma yapılarını projelendirir.",
+  "Toprak barajların tasarımında, inşasında kullanılabilecek uygun zemin türlerini belirleyerek dolgunun uygun şekilde teşkil edilmesini sağlar; barajların içinden sızabilecek su miktarını tespit edip bu sudan doğabilecek sorunlara çözüm önerileri sunar.",
+  "Toprak barajların boyutlarını ve şev açılarını belirler.",
+  "Su yapılarının tahkiklerinde, yapı altına su sızması durumunda sızan su miktarını, yapı altındaki su basınçlarını ve dağılımlarını belirleyerek yol açabileceği sorunları tespit eder ve çözüm önerileri sunar.",
+  "Su içinde (deniz, nehir vb.) ve kıyılarında yapılacak köprü ayaklarının temel tasarımını yapar ve uygulama çalışmalarını yürütür.",
+  "Doğal ve yapay şevlerin stabilite hesaplarında mevcut şevlerin güvenliğini belirler ve güvenli şev açısını tespit eder.",
+  "Yol, havaalanı vb. yapılarda temel tabakalarında kullanılacak zemin sınıfını belirler, sıkıştırma çalışmalarını yürütür, sıkıştırmayı kontrol eder ve temeli projelendirir.",
+  "Tünel güzergâhlarını planlar ve uygun delme yöntemlerini belirler.",
+  "Geoteknik deprem mühendisliği çalışmaları kapsamında, deprem yükleri gibi dinamik yükler altındaki temel zemininin göçmeye karşı tasarımını yapar.",
+  "Derin kazıları planlar ve uygular.",
+  "Zemin iyileştirmelerinde uygun iyileştirme yöntemlerini belirler ve planlar.",
+  "Çevre ile ilgili uygulamalarda; atıkların bertaraf edilmesi, depo alanlarının belirlenmesi, sızdırmazlık çalışmaları ve örtü tabakalarının planlanması gibi aşamalardaki geoteknik uygulamaları yürütür.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "arac_gerec": [
+  "Bilgisayar ve geoteknik mühendisliği hesap/analiz yazılımları (zemin taşıma gücü, oturma, şev stabilitesi vb.)",
+  "Teknik çizim ve proje hazırlama programları",
+  "Sondaj makineleri ve ekipmanları",
+  "Zemin numune alma araçları (örselenmiş ve örselenmemiş numune alıcılar)",
+  "Laboratuvar deney cihazları (konsolidasyon, kesme kutusu, üç eksenli basınç deney cihazı vb.)",
+  "Arazi penetrasyon test ekipmanları (standart penetrasyon, koni penetrasyon deneyi araçları)",
+  "Piezometre, inklinometre gibi arazi gözlem ve ölçüm cihazları",
+  "Jeofizik ölçüm cihazları",
+  "Ölçme aletleri (nivo, teodolit, GPS)",
+  "Hesap makinesi",
+  "Kişisel koruyucu donanım (baret, çelik burunlu ayakkabı, iş elbisesi vb.)"
+ ],
+ "genel_ozellikler": [
+  "Sayısal akıl yürütme gücüne sahip,",
+  "Fen bilimlerinde (özellikle matematik ve fizik) başarılı,",
+  "Analitik düşünme ve problem çözme becerisine sahip,",
+  "Şekiller ve uzamsal ilişkiler arasında bağlantı kurabilen,",
+  "Dikkatli ve sorumluluk sahibi,",
+  "Saha koşullarında çalışmaya istekli,",
+  "Ekip çalışmasına yatkın,",
+  "Teknolojik gelişmeleri takip etmeye istekli,"
+ ],
+ "calisma_ortami": "Geoteknik mühendisi/uzmanı, zaman zaman büroda bilgisayar başında hesap ve proje çalışmaları yapar; zaman zaman da arazide ve şantiyede saha çalışmalarını (sondaj, numune alma, arazi deneyleri, uygulama kontrolü) yürütür. Büro çalışmaları genellikle rahat bir ortamda geçerken, saha çalışmaları tozlu, gürültülü, yazın sıcak, kışın soğuk olabilir ve açık havada yürütülür; iş kazası riski bulunabilir.\n\nÇalışma saatleri çoğunlukla düzenlidir ancak proje teslim süreleri, şantiye programı veya saha koşullarına bağlı olarak mesai saatleri dışında ya da hafta sonu çalışma gerekebilir. Özellikle büyük projelerde görev alanlar sık sık farklı şehirlere veya şantiyelere seyahat edebilir. Çalışma sırasında inşaat mühendisleri, jeoloji ve jeofizik mühendisleri, mimarlar, teknik ressamlar, laboratuvar teknisyenleri, şantiye personeli ve kamu kurumlarındaki (Karayolları, DSİ, Çevre, Şehircilik ve İklim Değişikliği Bakanlığı, belediyeler vb.) teknik personelle iş birliği içinde çalışır.",
+ "egitim": {
+  "verildigi_yerler": "Geoteknik Mühendisi/Uzmanı olabilmek için öncelikle üniversitelerin mühendislik fakültelerinin İnşaat Mühendisliği (bazı üniversitelerde Jeoloji Mühendisliği gibi ilgili bölümler de kabul edilebilir) lisans programından mezun olmak gerekir. Ardından üniversitelerin fen bilimleri enstitülerine bağlı inşaat mühendisliği anabilim dallarının geoteknik mühendisliği yüksek lisans programlarında bu alanda uzmanlaşma eğitimi alınır.",
+  "giris_kosullari": [
+   "İnşaat mühendisliği veya ilgili bir mühendislik dalında lisans diplomasına sahip olmak",
+   "ALES (Akademik Personel ve Lisansüstü Eğitimi Giriş Sınavı)'ten ilgili programın aradığı yeterli puanı almak",
+   "Başvurulan üniversitenin ilgili enstitüsünün istediği yabancı dil puanı, mülakat ve/veya bilim sınavı şartlarını sağlamak"
+  ],
+  "sure_ve_icerik": "Yüksek lisans eğitimi genellikle tezli programlarda yaklaşık 2 yıl sürer. Eğitim süresince Zemin Mekaniği, Temel Mühendisliği, Şev Stabilitesi, Geoteknik Deprem Mühendisliği, Zemin İyileştirme Yöntemleri, Yeraltı Yapıları ve Tünel Mühendisliği gibi dersler ile uygulamalı arazi ve laboratuvar çalışmaları yer alır; program sonunda bir tez çalışması tamamlanır. Lisans eğitimi sırasında staj zorunluluğu bulunur.",
+  "belge": "Lisans eğitimini tamamlayanlara İnşaat Mühendisliği lisans diploması, yüksek lisans eğitimini tamamlayanlara ise geoteknik mühendisliği alanında yüksek lisans diploması verilir."
+ },
+ "calisma_alanlari": "Geoteknik Mühendisi/Uzmanı; kamu kurumlarında (Karayolları Genel Müdürlüğü, Devlet Su İşleri, TCDD, Çevre, Şehircilik ve İklim Değişikliği Bakanlığı, belediyeler, afet ve acil durum yönetimi birimleri vb.) ve özel sektörde (inşaat firmaları, zemin etüdü ve laboratuvar hizmeti veren firmalar, mühendislik müşavirlik şirketleri, baraj, köprü, tünel, yol ve bina projelerinde çalışan yüklenici firmalar) istihdam edilebilir.\n\nAyrıca üniversitelerin ilgili bölümlerinde akademik personel olarak veya bağımsız danışman/serbest müşavir mühendis olarak çalışma imkânı bulunur. Kentsel dönüşüm, deprem güvenliği ve büyük altyapı yatırımlarının (baraj, metro, köprü, tünel) artması bu alandaki uzman ihtiyacını canlı tutmaktadır.",
+ "kazanc": {
+  "egitim_suresince": "Yüksek lisans eğitimi süresince bazı üniversitelerde araştırma görevlisi kadrosunda çalışanlar maaş alabilir; ayrıca TÜBİTAK ve ilgili kurumların sağladığı yüksek lisans bursları ile öğrenim kredisinden yararlanılabilir.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında çalışanlar 657 sayılı Devlet Memurları Kanunu'na tabi mühendis kadrosunun belirlediği aylık ücret ve ek ödemelerle, işçi statüsünde çalışanlar ise ilgili toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde kazanç; mezuniyet derecesi, mesleki deneyim, uzmanlık düzeyi, görev alınan proje ve işletmenin büyüklüğüne göre karşılıklı anlaşma ile belirlenir; yeni mezunlarda genellikle sektör ortalamasına yakın, deneyim arttıkça yükselen bir ücret söz konusudur."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Lisans eğitimini tamamlayanlar geoteknik mühendisliği yüksek lisansı yaparak bu alanda uzmanlaşabilir; isteyenler doktora yaparak akademik kariyer yapabilir. Ayrıca mesleki kuruluşlar ve üniversitelerce düzenlenen sertifika programları, seminer ve kongrelerle mesleki bilgi güncellenebilir.",
+  "is_hayatinda": "Deneyim kazandıkça saha mühendisliğinden proje sorumluluğuna, teknik müdürlüğe veya proje müdürlüğüne yükselebilir. İleri düzeyde uzmanlaşanlar danışmanlık/müşavirlik hizmeti verebilir, kendi mühendislik bürosunu veya zemin etüdü/laboratuvar firmasını kurabilir; akademik kariyeri tercih edenler üniversitelerde öğretim üyeliğine yükselebilir."
+ },
+ "benzer_meslekler": [
+  "İnşaat Mühendisi-Toprak Tahlili",
+  "İnşaat Mühendisi",
+  "Diğer İnşaat Mühendisleri",
+  "İnşaat Mühendisi-Su",
+  "İnşaat Mühendisi-Köprü",
+  "İnşaat Mühendisi-Karayolu"
+ ],
+ "ek_bilgiler": "Bu meslekte çalışabilmek için inşaat mühendisliği lisans eğitiminin ardından geoteknik mühendisliği alanında yüksek lisans yapılması beklenir. Mesleğin mühendislik unvanıyla uygulanabilmesi için ilgili mühendis odasına (TMMOB İnşaat Mühendisleri Odası) kayıt ve büro tescili gerekebilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, bazı iş alanlarında (ör. zemin etüdü, sondaj denetimi) istihdamda tercih sebebi olabilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-07T21:19:45",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 7533
+  }
+ }
+}

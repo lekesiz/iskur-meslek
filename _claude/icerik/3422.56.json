@@ -1,0 +1,94 @@
+{
+ "arac_gerec": [
+  "Yay (klasik/olimpik yay, makaralı yay, geleneksel yay)",
+  "Ok ve ok sadağı",
+  "Nişangah (sight) ve stabilizer",
+  "Kiriş, parmaklık (tab) ve kolçak",
+  "Hedef (boss) ve hedef standı",
+  "Mesafe ölçüm ve işaretleme ekipmanları",
+  "Kronometre, saat ve düdük",
+  "İlk yardım çantası",
+  "Antrenman ve değerlendirme formları",
+  "Video kayıt cihazı ve bilgisayar (teknik analiz için)",
+  "Kırtasiye malzemeleri (kağıt, kalem, defter vb.)",
+  "Spor kıyafeti ve koruyucu ekipmanlar"
+ ],
+ "genel_ozellikler": [
+  "Okçuluk sporuna ilgili ve bu alanda temel bilgi ve beceriye sahip,",
+  "Çocuk ve gençlerle çalışmaktan hoşlanan, eğitimci kişiliğine sahip,",
+  "Dikkatli, sabırlı ve hoşgörülü,",
+  "İyi iletişim kurabilen, sözlerini rahatlıkla aktarabilen,",
+  "Sorumluluk sahibi, güvenilir ve disiplinli,",
+  "Fiziksel olarak sağlıklı ve dayanıklı,",
+  "Sporcunun gelişimini planlayıp takip edebilen, analitik düşünebilen,",
+  "Spor malzemelerindeki ve antrenman yöntemlerindeki yenilikleri takip etmeye istekli kişiler olmaları gerekir."
+ ],
+ "calisma_ortami": "Okçuluk antrenörleri; açık hava atış sahalarında, kapalı spor salonlarında veya kulüplere ait özel okçuluk tesislerinde görev yaparlar. Açık sahada çalışıldığında sıcak, soğuk, rüzgâr ve yağış gibi hava koşullarından etkilenebilirler. Mesleğin uygulanması sırasında ok ve yay gibi malzemelerle çalışıldığından dikkat ve güvenlik kurallarına uyum büyük önem taşır.\n\nÇalışma saatleri genellikle okul, iş ve diğer günlük aktivitelerin dışında kalan akşam saatlerine, hafta sonlarına ve okul tatillerine denk gelir. Müsabaka dönemlerinde seyahat gerekebilir. Antrenörler; sporcu adayları, veliler, kulüp yöneticileri, diğer antrenörler, hakemler ve federasyon temsilcileri ile sürekli iletişim içindedir.",
+ "gorevler": [
+  "Başlangıç düzeyindeki sporcularla ilgilenir.",
+  "Saha düzeninden sorumlu olur.",
+  "Müsabaka organizasyonlarında kafileden sorumlu olur.",
+  "Ekipman kurulumu ve bakımını yapar.",
+  "Ekipman seçiminden sorumlu olur.",
+  "Sporcu adaylarının yaş grubu ve antrenman türüne göre farklı antrenman programları oluşturur.",
+  "Antrenman programının uygulanmasını takip eder.",
+  "Spor malzemeleriyle ilgili yenilikleri takip eder.",
+  "Yetenek taraması yapar.",
+  "Sporculara okçuluk kuralları ve yarışma kuralları hakkında bilgi verir.",
+  "Adaylara sporcu disiplini kazandırır.",
+  "Yıllık, haftalık ve günlük ders programını hazırlar.",
+  "Sporcu adaylarının velileriyle görüşür.",
+  "Sporcu adaylarına lisans işlemleriyle ilgili gerekli evraklar hakkında bilgi verir ve kendilerini yönetime yönlendirir.",
+  "Müsabık olacak seviyeye gelen öğrencileri kulüp bünyesine yönlendirir.",
+  "Antrenman esnasında güvenliği sağlar ve sporcuların kurallara uymasını sağlar.",
+  "Müsabaka öncesinde ve sırasında sporcuları motive eder.",
+  "Sporculara kullandıkları malzemeyle ilgili bilgi verir.",
+  "Antrenman başlangıcında ve bitişinde malzemeleri kontrol eder.",
+  "Merkeze alınacak malzemeleri belirler.",
+  "Kaza durumunda ilk yardımda bulunur.",
+  "Ders öncesinde kişiye göre malzeme seçimi yapar.",
+  "Dersleri ısınma hareketleriyle başlatır ve soğuma hareketleriyle bitirir.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Türkiye'de okçuluk antrenörlüğü için ayrı bir örgün lisans programı bulunmamaktadır. Bu mesleğe yönelmek isteyenler genellikle beden eğitimi ve spor öğretmenliği veya spor bilimleri fakültelerinden mezun olduktan sonra ya da bu alanlarda öğrenim görmeden, Gençlik ve Spor Bakanlığı ve/veya Türkiye Okçuluk Federasyonu tarafından düzenlenen kademeli antrenörlük kurslarına katılarak mesleğe giriş yaparlar.",
+  "giris_kosullari": [
+   "En az lise ve dengi okul mezunu olmak",
+   "İlgili federasyon/bakanlık tarafından düzenlenen antrenörlük kurslarının kendi yönetmeliğinde belirtilen yaş ve sağlık koşullarını taşımak",
+   "Spor bilimleri/beden eğitimi alanında lisans eğitimi almak isteyenler için YKS sonucuna göre ilgili bölümlere yerleşmek ve varsa özel yetenek sınavını başarmak",
+   "Daha önce okçuluk sporuyla ilgilenmiş olmak veya sporcu geçmişine sahip olmak başvuruda ve mesleki başarıda avantaj sağlar"
+  ],
+  "sure_ve_icerik": "Antrenörlük kursları genellikle kademeli olarak (temel, gelişim, üst düzey gibi basamaklarla) düzenlenir. Eğitim içeriğinde okçuluk tekniği, antrenman bilimi ve periyotlama, sporcu gelişim ve yetenek seçimi, beslenme, sakatlanmaların önlenmesi, ilk yardım ve yarışma/müsabaka kuralları gibi konular yer alır. Kursların süresi, bağlı olduğu kurum ve kademeye göre değişiklik gösterir.",
+  "belge": "Kursu ve ilgili değerlendirmeleri başarıyla tamamlayanlara, kademesine uygun okçuluk antrenörlüğü sertifikası/belgesi verilir."
+ },
+ "calisma_alanlari": "Okçuluk antrenörleri; spor kulüplerinin okçuluk şubelerinde, okullarda ve okul spor kulüplerinde, Gençlik ve Spor İl Müdürlüklerine bağlı spor tesislerinde, belediyelere ait spor merkezlerinde, özel spor okullarında, yaz spor okulu ve kamp organizasyonlarında, Türkiye Okçuluk Federasyonu bünyesindeki alt yapı ve milli takım kademelerinde çalışabilirler. Ayrıca kendi okçuluk kulübünü veya özel eğitim merkezini kurarak bağımsız olarak da çalışabilirler.",
+ "kazanc": {
+  "egitim_suresince": "Antrenörlük kursları süresince genellikle ücret alınmaz; kurumlar tarafından düzenlenen kurslarda bazı durumlarda katılımcılara barınma, yol ve iaşe desteği sağlanabilir.",
+  "egitim_sonrasi": [
+   "Gençlik ve Spor Bakanlığı veya diğer kamu kurumlarında kadrolu ya da sözleşmeli olarak çalışanlar, 657 sayılı Devlet Memurları Kanunu veya ilgili mevzuata göre ücret alır.",
+   "Özel spor kulüplerinde ve spor merkezlerinde çalışanların ücreti, işveren ile yapılan anlaşmaya, deneyime ve kulübün bütçesine göre değişir; mesleğe yeni başlayanlarda genellikle asgari ücret düzeyinde olabilir.",
+   "Milli takım kademelerinde veya üst düzey kulüplerde görev alan deneyimli ve başarılı antrenörlerin kazancı, görev ve sorumluluklarına bağlı olarak artabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Temel düzey antrenörlük belgesi alanlar; deneyim kazandıkça, ilgili federasyonun düzenlediği üst kademe kurslarına ve değerlendirmelere katılarak gelişim ve üst düzey (ör. A sınıfı) antrenörlük belgelerine yükselebilirler.",
+  "is_hayatinda": "Deneyim kazandıkça alt yapı antrenörlüğünden milli takım antrenörlüğüne veya daha büyük kulüplerde görev almaya yönelebilir; federasyon bünyesinde idari/teknik görevler üstlenebilir ya da kendi okçuluk kulübünü veya özel eğitim merkezini kurabilir."
+ },
+ "benzer_meslekler": [
+  "Okçuluk Hakemi",
+  "Atıcılık Antrenörü",
+  "Antrenör (Spor Eğitmeni)",
+  "Kültür Fizik Eğitimcisi",
+  "Kondisyoner",
+  "Golf Antrenörü"
+ ],
+ "ek_bilgiler": "Okçuluk antrenörlüğü, ülkemizde Türkiye Okçuluk Federasyonu ve Gençlik ve Spor Bakanlığı tarafından düzenlenen kademeli antrenörlük kurslarına dayalı olarak gelişen bir meslektir. Bu mesleğe yönelik Mesleki Yeterlilik Kurumu (MYK) belgesi şu an için zorunlu değildir; federasyon onaylı antrenörlük belgesi, kulüplerde ve federasyon bünyesinde lisanslı sporcu çalıştırabilmek için temel koşul niteliğindedir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T14:16:35",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 7568
+  }
+ }
+}

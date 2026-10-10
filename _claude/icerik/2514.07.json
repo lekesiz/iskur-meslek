@@ -1,0 +1,73 @@
+{
+ "arac_gerec": [
+  "Masaüstü ve dizüstü bilgisayarlar ile çevre birimleri (yazıcı, tarayıcı, projeksiyon vb.)",
+  "Ağ cihazları (switch, router, modem, kablosuz erişim noktası)",
+  "Kablolama ve bağlantı ekipmanları, ağ test cihazları",
+  "Sunucu ve veri depolama sistemleri",
+  "Kesintisiz güç kaynağı (UPS)",
+  "Antivirüs ve güvenlik yazılımları",
+  "İşletim sistemleri ve ofis yazılımları",
+  "Yedekleme sistemleri ve yedekleme yazılımları",
+  "Çağrı/destek kayıt (helpdesk) yazılımları",
+  "Bilişim envanteri takip yazılımları",
+  "Temel el aletleri (tornavida takımı, kablo test cihazı vb.)",
+  "Uzaktan bağlantı ve ekran paylaşım yazılımları"
+ ],
+ "genel_ozellikler": [
+  "Analitik düşünme ve sorun çözme becerisine sahip,",
+  "Dikkatli ve sabırlı,",
+  "Teknolojik gelişmeleri takip etmeye istekli, kendini yenileyen,",
+  "İletişim becerisi gelişmiş, kullanıcılarla sabırla çalışabilen,",
+  "Sorumluluk sahibi ve güvenilir,",
+  "Ekip çalışmasına uyumlu,",
+  "Zaman yönetimine dikkat eden ve acil durumlarda hızlı karar verebilen"
+ ],
+ "calisma_ortami": "\"Bilişim personeli genellikle kapalı ortamda; büro, bilgi işlem odası veya sunucu odasında çalışır. İşin büyük bölümü bilgisayar başında oturarak yürütülmekle birlikte, kurum içindeki farklı birimlere giderek donanım kurulumu, bakım veya arıza giderme gibi işler için hareketli çalışma da gerekebilir. Sunucu odalarında sıcaklık ve nem kontrolüne bağlı özel koşullar bulunabilir.\\n\\nÇalışma saatleri genellikle normal mesai saatleri içindedir; ancak sistem arızaları, bakım çalışmaları veya acil teknik destek gerektiren durumlarda mesai saatleri dışında da çalışılabilir. Meslek mensubu; kurum çalışanları, yöneticiler, diğer bilişim ve bakım personeli ile sürekli iletişim halindedir. Zaman baskısı altında sorun çözme gerekliliği, bu meslekte dikkat ve sabır gerektiren bir çalışma temposu oluşturur.\"",
+ "gorevler": [
+  "Bilgisayar ve çevre birimlerinin kurulumunu ve konfigürasyonunu yapar,",
+  "Kullanıcılardan gelen teknik sorunları çözer ve destek verir,",
+  "Yazılım güncellemelerini ve antivirüs kontrollerini yürütür,",
+  "Ağ bağlantılarını ve veri yedekleme işlemlerini takip eder,",
+  "Bilişim envanterini tutar ve arızalı donanımları raporlar,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi, üniversitelere bağlı meslek yüksekokullarının bilgisayar teknolojileri, bilgisayar programcılığı veya bilgi güvenliği teknolojisi gibi ilgili önlisans programlarında verilmektedir. Ayrıca Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kursları ile temel bilgi işlem ve destek becerileri kazanılabilmektedir.",
+  "giris_kosullari": [
+   "Lise veya dengi okul mezunu olmak,",
+   "YKS (Yükseköğretim Kurumları Sınavı) kılavuzunda belirtilen giriş koşullarını taşımak,",
+   "İlgili meslek lisesi programlarından mezun olanlar önlisans programlarına geçişte ek puan alabilmektedir."
+  ],
+  "sure_ve_icerik": "Önlisans eğitiminin süresi 2 yıldır. Eğitim süresince işletim sistemleri, bilgisayar donanımı, ağ temelleri, bilgi güvenliği, veritabanı yönetimi, ofis uygulamaları ve temel programlama gibi mesleki dersler ile genel kültür dersleri okutulmaktadır. Eğitim sürecinde staj veya işyeri uygulaması yapma zorunluluğu bulunabilir.",
+  "belge": "Eğitimini başarı ile tamamlayanlara \"Önlisans\" diploması verilir. Ayrıca Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "\"Bilişim personeli; kamu kurumlarının bilgi işlem birimlerinde, özel sektöre ait işletmelerin bilişim teknolojileri (BT) departmanlarında, bankalarda, eğitim kurumlarında, sağlık kuruluşlarında ve bilişim/teknik destek hizmeti sunan firmalarda istihdam edilebilir. Bilgisayar ve ağ teknolojilerinin kurumsal yaşamın her alanında yaygınlaşması, bu meslekteki kişilerin iş bulma olanaklarını artırmaktadır.\"",
+ "kazanc": {
+  "egitim_suresince": "Önlisans eğitimi süresince öğrenciler, Kredi ve Yurtlar Genel Müdürlüğü'nün sağladığı öğrenim kredisi ve yurt hizmetlerinden yararlanabilir; ayrıca çeşitli resmi ve özel kurum/kuruluşların burslarından faydalanabilirler.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında istihdam edilenler, 657 sayılı Devlet Memurları Kanunu'na veya işçi statüsünde çalışıyorlarsa ilgili toplu iş sözleşmesi hükümlerine göre ücret alırlar.",
+   "Özel sektörde kazanç; işyerinin büyüklüğü, kişinin deneyimi, bilgi ve becerisi ile sektörün ücret düzeyine göre değişmektedir; yeni başlayanlarda kazanç genellikle asgari ücret düzeyinde olabilmektedir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Önlisans programını başarıyla tamamlayan kişiler, Dikey Geçiş Sınavı (DGS) ile ilgili lisans programlarına (örneğin bilgisayar mühendisliği, yönetim bilişim sistemleri gibi) kontenjan dahilinde dikey geçiş yapabilirler.",
+  "is_hayatinda": "İş hayatında edinilen deneyim, ek sertifika ve eğitimlerle sistem yöneticisi, ağ uzmanı, bilgi güvenliği uzmanı veya bilişim birim sorumlusu gibi görevlere yükselme olanağı bulunmaktadır."
+ },
+ "benzer_meslekler": [
+  "Bilgi İşlem Destek Uzmanı",
+  "Uygulama Destek Uzmanı (Bilişim)",
+  "Sistem Uzmanı/Danışmanı",
+  "BT Çözümleri Uzmanı",
+  "Uygulama Uzmanı/Danışmanı (Bilişim)",
+  "Bilgisayar Programcısı"
+ ],
+ "ek_bilgiler": "\"Mesleki Yeterlilik Kurumu (MYK) tarafından düzenlenen bilgi işlem ve teknik destek alanındaki yeterlilik belgeleri, iş başvurularında tercih sebebi olabilir.\"",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T05:59:19",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 4672
+  }
+ }
+}

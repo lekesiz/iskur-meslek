@@ -1,0 +1,74 @@
+{
+ "arac_gerec": [
+  "Manyetik ayırıcı cihazı",
+  "Kontrol butonları ve kumanda panosu",
+  "Ampermetre",
+  "Silo ve silo kapağı",
+  "Vana",
+  "Besleme konveyörü / bant sistemi",
+  "Gösterge ve ölçüm panelleri",
+  "Rapor defteri / formları",
+  "Telsiz veya dahili haberleşme cihazı",
+  "Kişisel koruyucu donanım (baret, kulaklık, toz maskesi, eldiven, çelik burunlu ayakkabı, iş elbisesi)",
+  "El aletleri (anahtar takımı, tornavida vb.)"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve tedbirli,",
+  "Sorumluluk sahibi,",
+  "Teknik alet ve cihazları kullanmaya yatkın,",
+  "El ve göz koordinasyonu iyi,",
+  "Düzenli, sistemli ve takip edebilen,",
+  "Ekip çalışmasına uyumlu,",
+  "Fiziksel olarak sağlıklı ve dayanıklı"
+ ],
+ "calisma_ortami": "Manyetik Ayırıcı Operatörü-Maden, demirli mineral içeren cevherlerin işlendiği maden zenginleştirme ve cevher hazırlama tesislerinde, genellikle kapalı mekanlarda bulunan manyetik ayırıcı ünitesinin yanında çalışır. Çalışma ortamı tozlu, gürültülü ve nemli olabilir; görev sırasında büyük ölçüde ayakta durarak, cihaz üzerindeki butonları, vanaları ve göstergeleri takip ederek çalışır.\n\nİşletmenin üretim programına bağlı olarak vardiyalı çalışabilir. Görevi sırasında tesisteki diğer makine ve ekipman operatörleri, bakım-onarım personeli ve vardiya sorumlusu/mühendisi ile iş birliği içinde bulunur.",
+ "gorevler": [
+  "Butona basarak manyetik ayırıcıyı devreye alır.",
+  "Cevherin ayrılması için gerekli olan elektrik akımını ampermetreden ayarlar.",
+  "Gerekli olan cevheri veren silo kapağını vana vasıtasıyla açarak cevherin demirli minerallerden manyetik olarak ayrılmasını sağlar.",
+  "Cevher bittiğinde silo kapağını kapatır ve butona basarak manyetiği durdurur.",
+  "Ayırıcıdan geçen cevher miktarını ayırıcı üzerindeki göstergelerden okuyarak rapor tutar ve ilgililere bildirir.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimine yönelik örgün ve standart bir meslek eğitim programı bulunmamaktadır. Mesleğin bilgi ve becerileri genellikle işyerlerinde işbaşında, usta yanında uygulamalı olarak kazanılır. Ayrıca Halk Eğitim Merkezleri ile İŞKUR tarafından açılan mesleki eğitim kurslarında ve madencilik/cevher hazırlama alanındaki mesleki ve teknik eğitim programlarında konuya ilişkin temel bilgiler edinilebilir.",
+  "giris_kosullari": [
+   "En az ilkokul/ilköğretim mezunu olmak",
+   "Maden işyerlerinde çalışmaya uygun sağlık durumuna sahip olmak",
+   "Görme ve işitme açısından işe uygun olmak"
+  ],
+  "sure_ve_icerik": "Mesleğe ilişkin belirli bir süresi ve içeriği resmi olarak tanımlanmış standart bir eğitim programı bulunmamaktadır. İşe yeni başlayanlar, deneyimli bir operatör veya usta gözetiminde cihazın çalışma prensiplerini, güvenlik kurallarını ve ayırma işlemlerini uygulamalı olarak öğrenir. Katılım sağlandığında Halk Eğitim Merkezleri veya İŞKUR kurslarının süresi ve içeriği ilgili kurum tarafından belirlenir.",
+  "belge": "İşbaşı eğitimle mesleğe başlayanlara resmi bir diploma verilmez. Kursa katılım halinde kurs bitirme belgesi alınabilir."
+ },
+ "calisma_alanlari": "Manyetik Ayırıcı Operatörü-Maden; demir, krom, manganez gibi demirli mineral içeren cevherlerin çıkarıldığı ve işlendiği maden işletmelerinin cevher hazırlama ve zenginleştirme tesislerinde çalışır. Bu tesisler genellikle maden ocaklarına bağlı ya da ayrı bir işletme olarak faaliyet gösteren cevher zenginleştirme fabrikalarıdır. İstihdam olanakları, ülkedeki maden işletmelerinin sayısı ve üretim hacmine bağlı olarak sınırlı ve bölgeseldir.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğe işbaşında usta yanında başlanması durumunda eğitim süresince ayrıca bir kazanç söz konusu değildir; kursa katılım halinde de genellikle kazanç bulunmamaktadır.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Kazanç; çalışılan işletmenin büyüklüğüne, deneyime ve mesleki bilgiye göre değişebilir.",
+   "Kamu kurumlarına bağlı işletmelerde işçi statüsünde çalışanlar için ücret, ilgili toplu iş sözleşmesi hükümlerine göre belirlenir.",
+   "Özel sektörde ücret, işveren ile çalışan arasındaki anlaşmaya bağlı olarak değişkenlik gösterebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğe yönelik kademeli, resmi bir mesleki eğitimde ilerleme sistemi bulunmamaktadır.",
+  "is_hayatinda": "Mesleki tecrübe, bilgi birikimi ve performansına göre operatör, ustabaşı veya vardiya sorumlusu gibi görevlere ilerleyebilir. İlgili teknik eğitimleri ve sertifikaları tamamlayanlar, tesisteki diğer makine ve ekipmanları da kullanabilen tesis operatörlüğü görevlerine yönelebilir."
+ },
+ "benzer_meslekler": [
+  "Ayırıcı Cihaz Operatörü-Maden",
+  "Jig Operatörü",
+  "Yüzdürme İşletme Operatörü-Maden",
+  "Mineral Kırma Makinesi Operatörü",
+  "Konkasör Operatörü (Kırma-Eleme)",
+  "Öğütme Tesisi Operatörü-Madencilik"
+ ],
+ "ek_bilgiler": "Mesleğin yürütüldüğü bazı maden işletmelerinde, çalışılan iş kolunun tehlikeli/çok tehlikeli işler kapsamında değerlendirilmesi halinde Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir veya işveren tarafından aranabilir. Mesleğe ilişkin güncel düzenlemeler için ilgili İŞKUR il müdürlükleri ve sektör kuruluşlarından bilgi alınması önerilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T10:22:44",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 4890
+  }
+ }
+}

@@ -1,0 +1,92 @@
+{
+ "arac_gerec": [
+  "Minibüs (araç)",
+  "Üçgen reflektör ve ilk yardım çantası",
+  "Yangın söndürme tüpü",
+  "Yedek lastik ve lastik değiştirme takımı",
+  "Zincir (kış lastiği/kar zinciri)",
+  "Temel bakım-onarım el aletleri (anahtar takımı, tornavida vb.)",
+  "Yağ, su, antifriz gibi sıvı kontrol ve ikmal gereçleri",
+  "Güzergah/durak bilgi levhaları",
+  "Ücret tarifesi ve bilet/fiş makinesi",
+  "Araç ruhsatı, sigorta ve muayene belgeleri",
+  "İletişim araçları (cep telefonu, telsiz)",
+  "Navigasyon/harita uygulamaları",
+  "Araç temizlik malzemeleri"
+ ],
+ "genel_ozellikler": [
+  "Sorumluluk sahibi ve güvenilir,",
+  "Dikkatli ve tedbirli,",
+  "Yoğun trafikte sakin ve soğukkanlı kalabilen,",
+  "İyi derecede araç kullanma becerisine sahip,",
+  "İnsan ilişkilerinde başarılı, sabırlı ve güler yüzlü,",
+  "Bedensel ve zihinsel olarak sağlıklı, dayanıklı,",
+  "Yön bulma becerisi gelişmiş,",
+  "Yasal ve trafik kurallarına uyma konusunda titiz"
+ ],
+ "calisma_ortami": "Minibüs şoförleri, çalışma süresinin büyük bölümünü araç içinde ve açık trafik ortamında, seyir hâlinde geçirir. Çalışma ortamı; şehir içi veya şehirlerarası yoğun trafik, gürültü, egzoz gazına maruz kalma, uzun süre oturarak araç kullanma, hava koşullarının olumsuz etkileri (sis, yağmur, kar) gibi unsurları içerebilir. Meslek, dikkat ve reflekslerin sürekli yüksek düzeyde tutulmasını, trafik kurallarına ve iş güvenliği önlemlerine titizlikle uyulmasını gerektirir.\n\nÇalışma saatleri genellikle düzensizdir; güzergaha ve işletmeye bağlı olarak sabah erken saatlerden gece geç saatlere kadar, hafta sonu ve resmî tatillerde de çalışma söz konusu olabilir. Minibüs şoförü; yolcularla, diğer sürücülerle, trafik görevlileriyle, araç bakım-onarım elemanlarıyla ve işletme/kooperatif yetkilileriyle sürekli etkileşim hâlindedir.",
+ "gorevler": [
+  "Aracın muayenelerinin, vergilerinin ve sigorta işlemlerinin zamanında yapılmasını sağlar.",
+  "Minibüsün temizlik ve düzenini sağlar.",
+  "Aracın suyunu, yağ ve filtrelerini, antifrizini, cam sileceklerini ve cam suyunu, aküsünü, kayışlarını, fren aksamını, havalandırma (ısıtma, soğutma) tertibatını, sinyal, far ve stop lambalarını, sigorta ve ampullerini, lastiklerini, motorun sesini, göstergeleri, aynaları vb. kontrol eder; varsa eksiklikleri giderir, aracı yola hazırlar.",
+  "Yolcuların konforu için gerektiğinde ısıtma, havalandırma, müzik vb. sistemleri çalıştırır.",
+  "Yol durumuna göre ve trafik kurallarına uyarak aracı kullanır.",
+  "Yolcu indirme/bindirme duraklarında yolcu iniş ve binişlerini kontrol eder.",
+  "Güzergah ve gidilen önemli yerlerin isimlerini gösteren levhaları, yolcuların görebileceği yerlere asar.",
+  "Araçta zorunlu olarak bulunması gereken trafik ve ilk yardım setleri, yangın tüpü gibi malzemeleri bulundurur.",
+  "Yolculardan, ücret tarifesine göre gittikleri mesafeye göre ücretlerini alır.",
+  "Yolcuların istek ve şikayetlerini dinler, gerekenleri yetkililere iletir.",
+  "Minibüsün bakımını düzenli olarak yaptırır, kış öncesi bakımlarını yaptırır.",
+  "Aracın yolda arızalanması durumunda gerekli güvenlik tedbirlerini alır.",
+  "Minibüs arızalandığında tamir ettirir.",
+  "Gerektiğinde ilkyardım hizmeti verir.",
+  "Hava ve yol şartlarına uygun lastik kullanır, eskiyen lastikleri yenileri ile değiştirir, hava şartlarının elverişsiz olduğu durumlarda zincir takar.",
+  "Lastik patladığında yeni lastik takar.",
+  "Trafik polislerinin yaptığı kontrollerde istenilen belge ve bilgileri verir.",
+  "Meslek alanı ile ilgili gelişmeleri takip eder, uygular.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Mesleğin örgün bir okul eğitimi bulunmamaktadır. Motorlu araçlar teknolojisi gibi ilgili mesleki ve teknik eğitim programları, motorlu taşıt sürücüleri kursları (ilgili sınıf sürücü belgesi için), Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kursları ile işbaşında usta yanında yetişme bu mesleğe hazırlayan başlıca yollardır.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak,",
+   "İlgili sınıf sürücü belgesi (minibüs için gereken sınıf) edinebilecek yaşta ve sağlık durumunda olmak,",
+   "Sürücü belgesi almak için öngörülen sağlık raporu şartlarını taşımak,",
+   "Trafik, ilk yardım ve araç bilgisi konularında temel eğitim almış olmak,",
+   "Ticari yolcu taşımacılığı yapacaklar için mevzuatın öngördüğü ek belge/eğitim şartlarını (ör. mesleki yeterlilik eğitimi) karşılamak"
+  ],
+  "sure_ve_icerik": "Mesleğe özgü resmî, standart süreli bir okul programı yoktur. Motorlu taşıt sürücüleri kurslarında trafik ve çevre bilgisi, ilk yardım, araç tekniği ve trafik adabı gibi teorik dersler ile direksiyon eğitimi verilir; süre, alınacak sürücü belgesi sınıfına göre değişir. Ticari yolcu taşımacılığı yapacak kişiler için ayrıca mesleki yeterlilik eğitimleri düzenlenebilir. Uygulamalı beceriler büyük ölçüde işbaşında, usta şoförlerin yanında deneyimle kazanılır.",
+  "belge": "Sürücü kursu sonunda yapılan sınavlarda başarılı olanlara ilgili sınıf sürücü belgesi (ehliyet) verilir. Ticari yolcu taşımacılığı için mesleki yeterlilik belgesi gerekebilir; ayrıca Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Minibüs şoförleri; belediyelere bağlı toplu taşıma işletmelerinde, özel halk otobüsü/minibüs işletmecileri ve kooperatiflerin bünyesinde, şehir içi ve şehirlerarası yolcu taşımacılığı yapan özel işletmelerde, kurumların personel servis hizmetlerinde, okul servis işletmelerinde ve turizm firmalarında istihdam edilebilir. Bunun yanında kendi minibüsünün sahibi olarak bağımsız biçimde (hat/kooperatif üyeliği yoluyla) de çalışabilirler. İş bulma olanakları, kentleşme ve toplu taşımaya olan talebe bağlı olarak genellikle istikrarlı bir seyir izlemektedir.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğin örgün bir eğitim süreci bulunmadığından, sürücü kursu döneminde kazanç söz konusu değildir; kurs ücretleri genellikle adaylar tarafından karşılanır. İşbaşında usta yanında yetişme döneminde ise düşük düzeyde ücret veya yevmiye alınabilir.",
+  "egitim_sonrasi": [
+   "Bir işletmeye veya kooperatife bağlı ücretli çalışanlar genellikle asgari ücret düzeyinde veya bu düzeyin biraz üzerinde kazanç elde eder,",
+   "Kamuya bağlı kurumlarda işçi statüsünde çalışanların ücreti toplu iş sözleşmesi hükümlerine göre belirlenir,",
+   "Kendi aracıyla çalışanların kazancı taşıdığı yolcu sayısına, güzergaha ve işletme giderlerine göre değişkenlik gösterir,",
+   "Deneyim, çalışılan güzergah ve işletmenin yapısına göre kazanç artabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Meslekte örgün bir eğitim basamağı bulunmadığından resmî bir dikey ilerleme yolu yoktur. Sürücüler, ek sürücü belgesi sınıfları ve mesleki yeterlilik eğitimleri alarak kamyon, otobüs gibi farklı araç türlerinde veya yolcu/eşya taşımacılığının diğer alanlarında çalışma imkânı elde edebilir.",
+  "is_hayatinda": "Deneyim kazandıkça daha uygun güzergahlarda veya işletmelerde çalışma imkânı bulabilir, kendi minibüsünü alarak bağımsız işletmeci konumuna geçebilir, kooperatif veya hat yönetiminde görev alabilir; servis/nakliye şirketlerinde sürücü ekip sorumluluğu gibi görevlere yükselebilir."
+ },
+ "benzer_meslekler": [
+  "Kamyonet Şoförü",
+  "Taksi Şoförü",
+  "Servis Şoförü (Okul)",
+  "Servis Aracı Şoförü",
+  "Makam Şoförü",
+  "Diğer Motorlu Araç Sürücüleri"
+ ],
+ "ek_bilgiler": "Ticari yolcu taşımacılığı yapan minibüs şoförlerinden, ilgili mevzuat gereği psikoteknik değerlendirme ve mesleki yeterlilik eğitimi/belgesi istenebilir. Büyükşehirlerde minibüs işletmeciliği çoğunlukla hat/kooperatif sistemi içinde yürütülmekte olup, meslekte bağımsız çalışma (kendi aracının sahibi olma) yaygın bir seçenektir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T18:18:24",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 7570
+  }
+ }
+}

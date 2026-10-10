@@ -1,0 +1,78 @@
+{
+ "gorevler": [
+  "Sipariş bilgilerini alır.",
+  "Malzemeleri temin eder.",
+  "Çamur kıvamında mermerit karışımı hazırlar.",
+  "Hazırlanan karışımı kalıplara döker.",
+  "Kalıp üzerinde düzeltme işlemini yapar.",
+  "Bekleme süresi dolan ürünleri kalıptan çıkarır.",
+  "Son şekillendirme (düzeltme, dolgu) yapar.",
+  "Zımpara, parlatma ve tefsiye yapar.",
+  "Montaj işlemlerini yapar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "arac_gerec": [
+  "Karıştırıcı (mikser)",
+  "Mermer tozu ve granülü",
+  "Bağlayıcı malzeme (çimento, reçine ve benzeri)",
+  "Pigment/renklendirici maddeler",
+  "Döküm kalıpları",
+  "Titreşimli (vibrasyonlu) döküm masası",
+  "Mala, mastar",
+  "Zımpara makinesi",
+  "Parlatma (polisaj) makinesi",
+  "Perdah/tefsiye el aletleri",
+  "Ölçüm kapları, terazi",
+  "El arabası, forklift",
+  "Kişisel koruyucu donanım (eldiven, gözlük, maske, kulaklık ve benzeri)"
+ ],
+ "genel_ozellikler": [
+  "El becerisine sahip,",
+  "Dikkatli ve özenli,",
+  "Fiziksel olarak dayanıklı,",
+  "Renk ve desen uyumunu ayırt edebilen,",
+  "Takım çalışmasına yatkın,",
+  "Sabırlı,",
+  "Talimat ve ölçülere titizlikle uyan,",
+  "Düzenli ve temiz çalışan"
+ ],
+ "calisma_ortami": "Mermerit Döküm İşçisi, genellikle kapalı mekânda, atölye veya fabrika ortamında çalışır. Çalışma ortamı mermer tozu ve bağlayıcı maddelerden kaynaklanan toz ve kimyasal koku içerebilir; zımpara ve parlatma işlemleri sırasında gürültü ve titreşim söz konusu olabilir. Karışım hazırlama, kalıp döküm ve şekillendirme işlemleri sırasında ayakta, eğilerek ve el-kol kuvveti gerektiren hareketlerle çalışılır.\n\nÇalışma saatleri işletmenin üretim yoğunluğuna göre değişebilir; bazı işyerlerinde vardiyalı çalışma söz konusu olabilir. Meslek mensubu; kalıpçı, montaj ekibi, usta ve üretim sorumlusu ile iş birliği içinde çalışır. Çalışma sırasında işveren tarafından sağlanan kişisel koruyucu donanımın (eldiven, gözlük, maske, kulaklık) kullanılması gerekir.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin yürütülmesine yönelik örgün bir okul eğitimi programı bulunmamaktadır. Meslek, genellikle mermerit/terrazzo üretimi yapan atölye ve fabrikalarda işbaşında usta yanında uygulamalı olarak öğrenilir. Bazı Halk Eğitim Merkezleri ve İŞKUR tarafından açılan mesleki eğitim kurslarında da temel beceriler kazandırılabilir.",
+  "giris_kosullari": [
+   "En az ilkokul/ilköğretim mezunu olmak",
+   "Fiziksel olarak çalışmaya elverişli olmak (sağlık açısından engel bulunmaması)"
+  ],
+  "sure_ve_icerik": "Resmî olarak tanımlanmış standart bir eğitim süresi ve müfredatı bulunmamaktadır. İşbaşında eğitim süresi, işyerinin büyüklüğüne ve kişinin beceri kazanma hızına göre değişmekte olup genellikle birkaç ay ile bir yıl arasında sürmektedir. Açılan kurslarda ise karışım hazırlama, kalıba döküm, son şekillendirme ve yüzey işlemleri (zımpara, parlatma, perdah) konuları işlenir.",
+  "belge": "İşbaşında yapılan eğitimin sonunda resmî bir belge verilmemektedir. Katılınan mesleki eğitim kurslarından kurs bitirme belgesi alınabilir. Mesleki Yeterlilik Kurumu (MYK) belgesine sahip olmak, istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Mermerit Döküm İşçileri; mermerit ve terrazzo üretimi yapan fabrika ve atölyelerde, mermer ve doğal taş işleme tesislerinde, yapı malzemeleri üreten işletmelerde çalışma olanağı bulabilirler. Meslek ağırlıklı olarak küçük ve orta ölçekli özel sektör işletmelerinde icra edilmekte, istihdam olanakları inşaat ve yapı malzemeleri sektöründeki üretim hacmine bağlı olarak değişmektedir.",
+ "kazanc": {
+  "egitim_suresince": "İşbaşında usta yanında eğitim alınırken genellikle asgari ücret düzeyinde veya işyerinin belirlediği bir ücret ödenir; kurs döneminde ise herhangi bir kazanç söz konusu değildir.",
+  "egitim_sonrasi": [
+   "Meslek ağırlıklı olarak özel sektörde icra edilir; ücret işveren ile çalışan arasında deneyim, beceri düzeyi ve işletmenin büyüklüğüne göre belirlenir.",
+   "Yeni başlayanlarda kazanç genellikle asgari ücret düzeyindedir; deneyim kazandıkça ücret artabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğin resmî olarak tanımlanmış bir eğitim basamağı ilerlemesi bulunmamaktadır.",
+  "is_hayatinda": "Deneyim ve beceri kazandıkça ustalığa, usta başılığa ve işletmede üretim/atölye sorumluluğuna yükselinebilir."
+ },
+ "benzer_meslekler": [
+  "Mermer Silim İşçisi",
+  "Mermer Dolum İşçisi",
+  "Mermer Seleksiyon İşçisi",
+  "Katrak Makinesi Operatörü (Mermer)",
+  "Taş Perdah İşçisi (Makine İle)",
+  "CNC Mermer İşleme Makinesi Operatörü"
+ ],
+ "ek_bilgiler": "Mermerit, doğal mermer işleme sürecinde ortaya çıkan toz ve kırıntıların bağlayıcı maddelerle karıştırılıp kalıplarda şekillendirilmesiyle üretilen yapay bir taş ürünüdür. Bu nedenle meslek, genellikle mermer işleme tesislerine bağlı üretim atölyelerinde yürütülmektedir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T10:28:33",
+  "usage": {
+   "input_tokens": 4,
+   "output_tokens": 9676
+  }
+ }
+}

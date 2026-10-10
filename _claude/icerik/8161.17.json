@@ -1,0 +1,75 @@
+{
+ "gorevler": [
+  "Talimatlara uygun olarak püre, glikoz, yağ alımlarını yapar.",
+  "Sıvı yağın plastifiye yağa dönüştürülmesi işlemlerini yapar.",
+  "Yağ yapma ünitesinde tüpün kullanılmasını sağlar.",
+  "Yağ, püre ve glikoz tanklarından numune alır ve analiz yapılmasını sağlar.",
+  "Yağ ve paralin tanklarının temizliğini yapar.",
+  "Vardiya bilgilerini aktarır.",
+  "Mesleği alanındaki gelişmeleri takip eder ve uygular.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "arac_gerec": [
+  "Yağ depolama tankları",
+  "Püre ve glikoz tankları",
+  "Plastifikasyon (sıvı yağı katılaştırma) ünitesi",
+  "Yağ yapma tüpü/gaz tüpü",
+  "Transfer pompaları ve boru hatları",
+  "Numune alma kapları ve ekipmanları",
+  "Sıcaklık ve viskozite ölçüm cihazları",
+  "Tank temizleme ekipmanları (buhar/kimyasal)",
+  "Kontrol panelleri",
+  "Koruyucu iş elbisesi, eldiven ve maske",
+  "Vardiya bilgi/raporlama formları"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve titiz,",
+  "Sorumluluk duygusu yüksek,",
+  "Fiziksel olarak dayanıklı,",
+  "Talimatlara uyma konusunda disiplinli,",
+  "Hijyen ve temizlik kurallarına duyarlı,",
+  "Vardiyalı çalışma düzenine uyum sağlayabilen,",
+  "El ve kollarını etkin kullanabilen,",
+  "Ekip içinde uyumlu çalışabilen"
+ ],
+ "calisma_ortami": "Yağ tedarik işçisi (bisküvi), bisküvi ve unlu mamuller üreten gıda fabrikalarının hammadde depolama ve yağ hazırlama bölümlerinde, genellikle kapalı alanlarda ve tank-boru hatlarının bulunduğu üretim ortamlarında çalışır. Çalışma ortamında sıcak yağ, buhar, nem ve kimyasal temizlik maddeleriyle karşılaşma riski bulunduğundan iş güvenliği önlemlerine ve koruyucu ekipman kullanımına uyulması önemlidir.\n\nÇalışma genellikle vardiyalı sistemle, tam gün esasına göre yürütülür. Görevini yerine getirirken vardiya arkadaşları, usta başı, üretim ve kalite kontrol sorumlularıyla sürekli bilgi alışverişi ve işbirliği içinde olur.",
+ "egitim": {
+  "verildigi_yerler": "Bu meslek için örgün bir okul programı bulunmamaktadır. Mesleğe giriş genellikle işletmede usta yanında işbaşı eğitimiyle sağlanır; ayrıca Halk Eğitim Merkezleri ile İŞKUR'un açtığı mesleki eğitim kurslarından ilgili gıda üretim süreçlerine yönelik bilgi edinilebilir.",
+  "giris_kosullari": [
+   "İlköğretim mezunu olmak",
+   "18 yaşını doldurmuş olmak",
+   "Ağır ve sıcak ortam koşullarında çalışmaya sağlık durumunun uygun olması"
+  ],
+  "sure_ve_icerik": "Resmi bir eğitim süresi tanımlı değildir. İşe alınan kişi, deneyimli bir usta veya vardiya sorumlusu gözetiminde kısa süreli işbaşı eğitimiyle hammadde alımı, tank temizliği, numune alma ve plastifikasyon işlemlerini uygulayarak öğrenir. Bu süreçte temel gıda hijyeni ve iş sağlığı güvenliği bilgisi de verilir.",
+  "belge": "Çalışılan işletme tarafından düzenlenen hizmet/deneyim belgesi; isteyenler için Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Yağ tedarik işçisi (bisküvi), bisküvi ve benzer unlu mamullerin üretildiği gıda fabrikalarının hammadde kabul, depolama ve yağ hazırlama bölümlerinde istihdam edilir. İş bulma olanakları, bisküvi ve gıda sanayinin yoğunlaştığı sanayi bölgelerinde daha fazladır.",
+ "kazanc": {
+  "egitim_suresince": "Bu meslekte resmi bir çıraklık veya eğitim süreci bulunmadığından, işe başlangıçta genellikle asgari ücret düzeyinde kazanç sağlanır.",
+  "egitim_sonrasi": [
+   "Kazanç; çalışılan işyerinin büyüklüğüne, kişinin tecrübesine, bilgi ve becerisine, çalışma kapasitesine ve sektördeki ücret düzeyine göre değişebilir.",
+   "Deneyim ve sorumluluk arttıkça ücret düzeyi de yükselebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Bu meslekte örgün bir eğitim kademesi bulunmadığından ilerleme büyük ölçüde iş deneyimi ve işletme içi kurslarla sağlanır. İsteyenler, ilgili mesleki ve teknik eğitim programlarına veya gıda teknolojisi alanındaki ön lisans/lisans programlarına yönelerek bilgi ve becerilerini artırabilir.",
+  "is_hayatinda": "Deneyim ve bilgi birikimi arttıkça vardiya sorumluluğu, usta başılık veya üretim bölümü sorumluluğu gibi görevlere yükselebilir."
+ },
+ "benzer_meslekler": [
+  "Şeker Tedarik İşçisi (Bisküvi)",
+  "Un Tedarik İşçisi (Bisküvi)",
+  "Sürmeci (Bisküvi)",
+  "Şurup Hazırlama İşçisi (Bisküvi)",
+  "Su Hazırlama İşçisi",
+  "Bitkisel Yağ Üretim Operatörü"
+ ],
+ "ek_bilgiler": "Yağ ve tank temizliği işlemleri sırasında sıcak yüzeyler, buhar ve temizlik kimyasallarıyla karşılaşıldığından iş güvenliği eğitimi ve koruyucu ekipman kullanımı önem taşır.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T15:51:16",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 4712
+  }
+ }
+}

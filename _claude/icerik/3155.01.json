@@ -1,0 +1,75 @@
+{
+ "arac_gerec": [
+  "Radar sistemleri ve ekranları",
+  "VOR/DME, NDB gibi seyrüsefer cihazları",
+  "ILS (Instrument Landing System) ekipmanları",
+  "VHF/UHF haberleşme verici ve alıcıları",
+  "ATM (Hava Trafik Yönetimi) otomasyon ve veri işleme sistemleri",
+  "Ağ (network) ve sunucu ekipmanları",
+  "Ölçüm ve test cihazları (avometre, osiloskop, spektrum analizör)",
+  "Güç kaynakları ve yedekli enerji sistemleri (UPS, jeneratör)",
+  "Kablolama, anten ve montaj ekipmanları",
+  "Bilgisayar, izleme ve kayıt yazılımları",
+  "Teknik el kitapları ve uluslararası standart dokümanları",
+  "Kişisel koruyucu donanım"
+ ],
+ "genel_ozellikler": [
+  "Fen bilimlerinde, özellikle fizik ve matematikte başarılı,",
+  "Elektronik, haberleşme ve bilgisayar sistemlerine ilgili,",
+  "Dikkatli ve sorumluluk sahibi,",
+  "Analitik düşünebilen ve problem çözme becerisine sahip,",
+  "Ekip çalışmasına uyumlu,",
+  "Stresli ve kesintisiz hizmet gerektiren ortamlarda sakin kalabilen,",
+  "Teknolojik gelişmeleri takip etmeye istekli,",
+  "Gece ve vardiyalı çalışmaya uygun"
+ ],
+ "calisma_ortami": "\"ATSEP'ler, havalimanlarındaki teknik binalarda, kule ve kontrol merkezlerinde, radar ve haberleşme istasyonlarında, kapalı ve bazen açık alanlarda (anten, radar kulesi gibi sistemlerin bakımı sırasında) çalışır. Hava trafik hizmetinin 7 gün 24 saat kesintisiz sürdürülmesi gerektiğinden görev genellikle vardiyalı sistemle yürütülür ve çalışma saatleri düzensiz olabilir.\\n\\nGörev sırasında hava trafik kontrolörleri, mühendisler, teknik yöneticiler ve diğer CNS/ATM personeli ile yakın iş birliği içinde çalışılır. Sistemlerin emniyet açısından kritik olması nedeniyle görev yüksek dikkat, disiplin ve sorumluluk gerektirir; arıza ve acil durumlarda hızlı ve doğru müdahale önemlidir.\"",
+ "gorevler": [
+  "Seyrüsefer sistemleri/cihazları, haberleşme sistemleri/cihazları ve radar sistemleri/cihazları ile ilgili işletme, bakım, onarım, kontrol ve izleme (monitör etme), temin ve tesis etme işlemlerini gerçekleştirir.",
+  "Yaşanan emniyet zafiyetlerini ve meydana gelen teknik aksaklıkları, CNS/ATM teknik hizmet sağlayıcılar tarafından belirlenen rapor formatını kullanarak ilgili üst birimlere bildirir.",
+  "Üreticilerin yayımladığı operasyonel teknik el kitaplarını, uluslararası nitelikteki dokümanları ve güncel yayınları takip ederek uygulanmasını sağlar; periyodik bakımların bu yayınlarda belirtilen usul ve esaslara uygun olarak yürütülmesini sağlar.",
+  "EUROCONTROL tarafından yayımlanan güvenlik düzenlemelerinin (ESARR'lar) ilgili Genel Müdürlük tarafından ulusal mevzuata kazandırılarak yürürlüğe konulmasını takip eder, gerekli planlama ve uygulamaları yaparak koordinasyon çalışmalarına destek verir.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "calisma_alanlari": "\"ATSEP'ler büyük ölçüde Devlet Hava Meydanları İşletmesi (DHMİ) Genel Müdürlüğüne bağlı havalimanları, hava trafik kontrol merkezleri (ACC) ve radar/haberleşme istasyonlarında istihdam edilir. Ayrıca Sivil Havacılık Genel Müdürlüğü (SHGM), bazı özel havalimanı işletmecileri ve askeri havacılık kuruluşlarının ilgili birimlerinde de çalışma imkânı bulunmaktadır. Sivil havacılık sektörünün büyümesi bu alanda istihdam talebini etkilemektedir.\"",
+ "kazanc": {
+  "egitim_suresince": "Mesleğe giriş için gerekli lisans eğitimi süresince öğrenciler, üniversitelerin sunduğu burs, kredi ve diğer öğrenci destek imkânlarından yararlanabilir; bu aşamada mesleki eğitim ücreti söz konusu değildir. Lisans eğitimi sonrası ilgili kurum tarafından verilen ATSEP eğitim/yetkilendirme sürecinde ise kişi genellikle kurumun personeli olarak göreve başlamış olup kurumun belirlediği ücret ve özlük haklarından yararlanır.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında (örneğin DHMİ) çalışanların ücreti, kurumun kendi personel statüsüne veya 657 sayılı Kanun'a bağlı statülere ve ilgili toplu iş sözleşmesi hükümlerine göre belirlenir.",
+   "Özel sektörde çalışanların ücreti işletmenin büyüklüğüne, kişinin deneyimine ve yabancı dil bilgisine göre değişebilir.",
+   "Yeni mezun ve deneyimsiz personelin kazancı genellikle nitelikli teknik personel ücret seviyesinde başlar; kıdem ve uzmanlaşma ile birlikte artış gösterir."
+  ]
+ },
+ "egitim": {
+  "verildigi_yerler": "Mesleğe giriş için üniversitelerin elektrik-elektronik mühendisliği, elektronik mühendisliği, elektronik ve haberleşme mühendisliği, havacılık elektronik mühendisliği veya bu alanlara yakın mühendislik lisans programlarından mezun olmak gerekir. Lisans eğitimi sonrasında, mesleğe özgü teorik ve uygulamalı eğitim, Devlet Hava Meydanları İşletmesi (DHMİ) ve Sivil Havacılık Genel Müdürlüğü (SHGM) tarafından düzenlenen ATSEP temel ve meslek içi eğitim programları kapsamında verilmektedir.",
+  "giris_kosullari": [
+   "Lise veya dengi okul mezunu olmak",
+   "YKS (Yükseköğretim Kurumları Sınavı) ile ilgili mühendislik lisans programlarından birine yerleşmek ve bu programı tamamlamak",
+   "İlgili kurumun açtığı personel alım sürecinde (sınav, mülakat, güvenlik soruşturması, sağlık muayenesi gibi) belirlenen şartları karşılamak",
+   "Kurum içi ATSEP eğitim ve yetkilendirme programına kabul edilmek"
+  ],
+  "sure_ve_icerik": "Lisans eğitimi 4 yıl sürer; temel mühendislik dersleri ile elektronik, haberleşme, sinyal işleme ve sistemler konusundaki alan dersleri bu süreçte verilir. Lisans eğitimini tamamlayarak ilgili kuruma giren kişiler, haberleşme (Communication), seyrüsefer (Navigation) ve radar/gözetim (Surveillance) sistemlerine yönelik teorik ve uygulamalı temel eğitim ile sistem bazlı ileri düzey eğitimlerden ve işbaşında usta/uzman personel gözetiminde yapılan uygulamalı eğitimden geçer. Eğitim süreci, ilgili sivil havacılık mevzuatında belirlenen yeterlilik ve yetkilendirme esaslarına göre yürütülür.",
+  "belge": "Mühendislik lisans diploması zorunlu ön şarttır. Buna ek olarak, Sivil Havacılık Genel Müdürlüğü (SHGM) tarafından ilgili sivil havacılık talimatları çerçevesinde düzenlenen ATSEP yetkilendirme belgesi/lisansı alınması gerekir; bu belge olmadan sistemler üzerinde bağımsız görev yapılamaz."
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Lisans eğitimi sonrası ilgili mühendislik alanlarında yüksek lisans ve doktora yapılabilir. Ayrıca meslekte uzmanlaşmayı sağlayan, farklı CNS sistemlerine (haberleşme, seyrüsefer, radar) yönelik ileri düzey kurslar, seminerler ve kurum içi eğitimler aracılığıyla yetkinlik ve yetki alanı genişletilebilir.",
+  "is_hayatinda": "Deneyim kazanan ATSEP personeli; ekip lideri, vardiya amiri, şef, saha/istasyon sorumlusu gibi görevlere ve ilerleyen süreçte teknik yönetici veya müdür yardımcılığı gibi idari pozisyonlara yükselebilir. Yabancı dil bilgisi ve uluslararası sertifikalar meslekte ilerlemeyi destekleyen önemli unsurlardır."
+ },
+ "benzer_meslekler": [
+  "Hava Trafik Kontrolörü-Radar",
+  "Hava Trafik Kontrolörü-Kule",
+  "Hava Trafik Baş Kontrolörü",
+  "AFTN Memuru",
+  "AİM (Havacılık Bilgi Yönetimi) Memuru",
+  "Gemi Elektroniği ve Haberleşme Teknisyeni"
+ ],
+ "ek_bilgiler": "\"ATSEP mesleği, Sivil Havacılık Genel Müdürlüğü tarafından yayımlanan ilgili sivil havacılık talimatları (ATSEP'e ilişkin SHT düzenlemeleri) çerçevesinde düzenlenmiştir; görev yapabilmek için bu düzenlemelerde belirtilen yetkilendirme/lisans şartlarının karşılanması gerekir. Mesleğin icrası, hava trafiğinin emniyeti ile doğrudan ilişkili olduğundan yüksek sorumluluk ve sürekli mesleki güncelleme gerektirir. Başlıca istihdam alanı Devlet Hava Meydanları İşletmesi (DHMİ) olup, kurumun personel alım süreçleri ve kontenjanları istihdam olanaklarını belirleyici niteliktedir.\"",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T12:01:15",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6654
+  }
+ }
+}

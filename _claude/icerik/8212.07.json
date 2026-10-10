@@ -1,0 +1,73 @@
+{
+ "arac_gerec": [
+  "Tornavida takımları (düz ve yıldız uçlu)",
+  "Pense ve kargaburun",
+  "Havya ve lehim teli",
+  "Kablo soyma pensesi",
+  "Kontak bilezikleri ve bağlantı terminalleri",
+  "Montaj şemaları ve iş talimatları",
+  "Elektrikli/pnömatik tornavida (vidalama makinesi)",
+  "Multimetre ve basit elektriksel test cihazları",
+  "Montaj tezgâhı veya montaj bandı ekipmanları",
+  "Koruyucu eldiven ve gözlük gibi kişisel koruyucu donanım",
+  "Kablo bağlama ve izole bant malzemeleri",
+  "Mamul parça taşıma kasaları/paletleri"
+ ],
+ "genel_ozellikler": [
+  "El becerisine sahip,",
+  "Dikkatli ve özenli,",
+  "El ve gözlerini eşgüdümlü kullanabilen,",
+  "Şekil ve uzay ilişkilerini algılayabilen,",
+  "Tekrara dayalı işlerde sabırlı ve düzenli çalışabilen,",
+  "Şema ve teknik çizimi okuyup uygulayabilen,",
+  "Takım hâlinde çalışmaya yatkın,",
+  "İş güvenliği kurallarına uyma konusunda sorumluluk sahibi"
+ ],
+ "calisma_ortami": "Montörler (Elektrikli Cihazlar) genellikle fabrika, atölye ve montaj hatlarında, kapalı mekânlarda çalışır. Çalışma ortamı çoğunlukla aydınlık ve düzenli olmakla birlikte, montaj hattının temposu, tekrarlayan el hareketleri, lehimleme sırasında oluşabilecek duman ve elektrikli el aletlerinin kullanımı nedeniyle dikkat ve iş güvenliği kurallarına titizlikle uyulmasını gerektirir. Görev, işin niteliğine göre kısmen ayakta kısmen oturarak yürütülür; üretim yoğunluğuna bağlı olarak vardiyalı çalışma söz konusu olabilir.\n\nMeslek mensubu, çalışması sırasında montaj hattındaki diğer işçiler, ustabaşı, kalite kontrol elemanları ve zaman zaman üretim mühendisleriyle iş birliği içinde bulunur.",
+ "egitim": {
+  "verildigi_yerler": "Montör (Elektrikli Cihazlar) mesleği için örgün eğitim kurumlarında ayrı bir diploma programı bulunmamaktadır. Meslek, çoğunlukla işyerlerinde işbaşında usta yanında yetişme yoluyla kazanılır. Ayrıca Halk Eğitim Merkezleri ile İŞKUR tarafından açılan elektrik-elektronik montajı, lehimleme ve benzeri konulardaki kısa süreli mesleki eğitim kursları da bu mesleğe hazırlayıcı nitelik taşır. Mesleki Eğitim Merkezlerinin Elektrik-Elektronik Teknolojisi alanındaki ilgili dallarından mezun olmak da bu meslekte çalışmaya temel oluşturabilir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "El becerisine sahip olmak ve işin gerektirdiği sağlık koşullarına uygun olmak",
+   "İşyerinde işbaşı eğitimi için işveren ile anlaşma yapmak veya ilgili kuruma kurs başvurusunda bulunmak"
+  ],
+  "sure_ve_icerik": "Mesleğin standart ve zorunlu bir eğitim süresi ve müfredatı bulunmamaktadır. İşe yeni başlayanlar, işyerinde deneyimli bir montör veya ustanın gözetiminde kısa süreli uygulamalı eğitimle mamul parçaların tespiti, tel bağlantılarının yapılması, lehimleme ve şema okuma gibi temel işlemleri öğrenir. Bu süreç işyerinin büyüklüğüne ve üretilen cihazın karmaşıklığına göre birkaç günden birkaç aya kadar değişebilir. Halk Eğitim Merkezleri ve İŞKUR'un açtığı kurslarda ise belirli bir program dâhilinde temel elektrik-elektronik montaj bilgi ve becerileri verilir.",
+  "belge": "Örgün eğitim yoluyla alınan bir diploma bulunmamaktadır. Katılınan kurslar sonunda kurs bitirme belgesi/sertifika verilir. Mesleki Yeterlilik Kurumu (MYK) tarafından ilgili alanda bir yeterlilik belgesi düzenlenmesi durumunda bu belge istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Montörler (Elektrikli Cihazlar), elektrikli ev aletleri (vantilatör, ekmek kızartma makinesi, ütü, elektrikli saat vb.) üreten fabrikalarda, elektrik makine ve teçhizatı imal eden sanayi işletmelerinde, montaj hatlarında ve bu ürünlerin bakım-onarımını yapan servis atölyelerinde istihdam edilir. Elektrikli küçük ev aletleri ve benzeri ürünlerin üretiminin yoğun olduğu sanayi bölgelerinde iş bulma olanağı daha fazladır.",
+ "kazanc": {
+  "egitim_suresince": "Meslek genellikle işyerinde işbaşında öğrenme yoluyla kazanıldığından, bu süreçte kişi çoğunlukla çalışan statüsündedir ve işyeriyle yapılan anlaşmaya göre, genellikle asgari ücret düzeyinde bir kazanç elde eder. Halk Eğitim Merkezi veya İŞKUR kurslarına katılım sırasında genel olarak ücret söz konusu değildir.",
+  "egitim_sonrasi": [
+   "Özel sektörde çalışanların kazancı genellikle asgari ücret düzeyinde başlar; işyerinin büyüklüğü, kişinin deneyimi, bilgi ve becerisi ile sektörün ücret politikasına göre değişebilir.",
+   "Kamu kurumlarında işçi statüsünde istihdam edilenlerin ücreti ilgili toplu iş sözleşmesi hükümlerine göre belirlenir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğin örgün bir eğitim kademesi ve diploma programı bulunmadığından sınıf/diploma bazlı bir ilerleme söz konusu değildir. İsteyenler, Mesleki Eğitim Merkezlerinin Elektrik-Elektronik Teknolojisi alanındaki ilgili dallarına yönelerek veya açık öğretim yoluyla eğitim ve belge düzeylerini yükseltebilir, ayrıca çeşitli kurslara katılarak bilgi ve becerilerini geliştirebilir.",
+  "is_hayatinda": "Deneyim kazanan montörler, daha karmaşık cihazların montajında görevlendirilebilir; ustabaşı, vardiya sorumlusu veya kalite kontrol elemanı gibi görevlere yükselebilir. Yeterli deneyim, bilgi ve sermayeye sahip olanlar, elektrikli küçük ev aletlerinin bakım-onarımını yapan kendi işyerlerini açabilir."
+ },
+ "benzer_meslekler": [
+  "Diğer Elektrikli Cihazlar Montörleri",
+  "Elektro-Mekanik Montajcısı",
+  "Elektro-Mekanik Montaj Ustası",
+  "Montör (Elektronik Cihazlar)",
+  "Diğer Elektronik Montörleri",
+  "Alıştırıcı-Montör (Büro Makineleri)"
+ ],
+ "ek_bilgiler": "Elektrikli küçük ev aletleri sanayisinde üretim hatlarının kısmen otomasyona geçmesiyle bazı montaj işlemleri makineleşmekte, ancak özel bağlantı, lehimleme ve kalite kontrol gerektiren işlemlerde nitelikli iş gücüne ihtiyaç duyulmaya devam etmektedir.",
+ "gorevler": [
+  "Tornavida, pens veya diğer el aletleriyle mamul parçaları tespit eder.",
+  "Tel irtibatlarını kontak bilezikleri ve lehim kullanarak yapar.",
+  "Şemalara bakarak çalışır.",
+  "Elektrik vantilatörleri, elektrikli ekmek kızartma makineleri, elektrik ütüleri ve elektrikli saatler gibi belirli tip makine ve teçhizat üzerinde ihtisaslaşabilir.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T17:47:22",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6863
+  }
+ }
+}

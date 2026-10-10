@@ -1,0 +1,88 @@
+{
+ "arac_gerec": [
+  "Düzlem, silindirik, iç/dış bilezik taşlama tezgâhları",
+  "Honlama ve lepleme donanımları",
+  "Taşlama taşları (zımpara taşı) ve taş bileme/düzeltme aletleri",
+  "Parça bağlama aparatları (mengene, punta, mandren, manyetik tabla)",
+  "Soğutma sıvısı sistemleri",
+  "Ölçme ve kontrol aletleri (kumpas, mikrometre, komparatör, mastar)",
+  "Teknik resim, kroki ve numune parçalar",
+  "Dengeleme sehpası",
+  "Kişisel koruyucu donanım (gözlük, siper, eldiven, kulaklık)",
+  "Parça taşıma ve kaldırma ekipmanları (vinç, forklift, el arabası)",
+  "Temizlik ve yağlama malzemeleri",
+  "El aletleri (anahtar takımı, tornavida vb.)"
+ ],
+ "genel_ozellikler": [
+  "El ve göz-el koordinasyonu gelişmiş,",
+  "Dikkatli ve titiz çalışma alışkanlığına sahip,",
+  "Teknik resim ve kroki okuyabilen,",
+  "Basit ölçme ve hesaplama yapabilen,",
+  "Ayakta ve belirli bir duruşta uzun süre çalışabilecek fiziksel dayanıklılığa sahip,",
+  "Yüzey kalitesini ve ölçü hassasiyetini ayırt edebilen görme yeteneğine sahip,",
+  "Sabırlı ve sorumluluk sahibi,",
+  "Takım çalışmasına uyumlu"
+ ],
+ "calisma_ortami": "\"Taşlama tezgâh ustası, metal işleme atölyelerinde, makine imalat fabrikalarında veya küçük sanayi sitelerindeki işyerlerinde kapalı mekânda çalışır. Çalışma ortamı genellikle gürültülüdür; taşlama ve honlama işlemleri sırasında metal tozu, taşlama tozu ve soğutma sıvısı kokusu oluşabilir. İş genellikle ayakta ve tezgâh başında yapılır, bu nedenle koruyucu gözlük, eldiven, kulaklık gibi kişisel koruyucu donanımların kullanılması önemlidir.\\n\\nÇalışma saatleri işyerinin üretim programına göre değişebilir; vardiyalı çalışma görülebilir. Meslek elemanı çalışırken genellikle diğer tezgâh ustaları, kalite kontrol elemanları, atölye şefi ve mühendislerle iş birliği içindedir.\"",
+ "egitim": {
+  "verildigi_yerler": "Taşlama tezgâh ustalığı için örgün bir meslek lisesi programı bulunmamaktadır. Mesleğe giriş genellikle mesleki eğitim merkezlerinde çıraklık eğitimi yoluyla, Halk Eğitim Merkezlerinin açtığı Makine Teknolojisi alanına bağlı taşlama/tezgâh kurslarında veya doğrudan işyerinde usta yanında uygulamalı olarak gerçekleşir.",
+  "giris_kosullari": [
+   "Okuma yazma biliyor olmak (meslek için gereken minimum eğitim düzeyi okuryazarlıktır)",
+   "Çıraklık eğitimine girişte ilgili yaş ve öğrenim şartlarını taşımak, 18 yaşından küçükler için veli izni",
+   "Halk Eğitim Merkezi kurslarına her yaş, eğitim ve gelir düzeyinden kişilerin katılabilmesi, programa göre belirli yaş/eğitim şartı aranabilmesi",
+   "İşbaşında eğitim için işyerinin kabulü ve çalışma isteği"
+  ],
+  "sure_ve_icerik": "Mesleki eğitim merkezlerinde çıraklık eğitimi 3308 sayılı Kanun kapsamında teorik ve uygulamalı derslerle yürütülür; eğitim süresince taşlama tezgâhı tanıma ve kullanma, parça bağlama, taş seçimi, ölçme-kontrol, honlama ve lepleme işlemleri, iş güvenliği gibi konularda bilgi ve beceri kazandırılır. Halk Eğitim Merkezi kurslarının süresi ve içeriği kursa göre değişmekle birlikte benzer temel konuları kapsar. İşbaşında eğitimde süre ve içerik işyerine ve ustaya göre değişir.",
+  "belge": "Çıraklık eğitimi sonunda kalfalık, ardından ustalık belgesi; kurslarda ise kurs bitirme/katılım belgesi verilir. Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "\"Taşlama tezgâh ustaları; metal işleme ve makine imalat sanayiinde, otomotiv yedek parça üreten işletmelerde, kalıp ve takım imalat atölyelerinde, organize sanayi bölgelerindeki fabrikalarda ve küçük sanayi sitelerinde bulunan taşlama atölyelerinde çalışabilirler. Deneyim ve sermaye biriktirdikten sonra kendi adlarına taşlama atölyesi açabilirler.\"",
+ "kazanc": {
+  "egitim_suresince": "Mesleki eğitim merkezlerinde çıraklık eğitimi gören adaylara ilgili mevzuat çerçevesinde cüzi bir ücret ödenebilir. Halk Eğitim Merkezi kurslarında ve işbaşında eğitimde genellikle kazanç söz konusu değildir.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanlarda kazanç genellikle asgari ücret düzeyindedir.",
+   "Deneyim, bilgi ve beceri arttıkça, çalışılan işyerinin büyüklüğüne ve sektörün ücret düzeyine göre kazanç artabilir.",
+   "Özel sektörde ücret genellikle işveren ile çalışan arasında karşılıklı anlaşmaya göre belirlenir; kamu kurumlarında işçi statüsünde çalışanlar için toplu iş sözleşmesi hükümleri geçerlidir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleki eğitim merkezlerinden kalfa olarak mezun olanlar işyerinde çalışmaya devam ederken ustalık eğitimine katılarak ustalık belgesi alabilirler. Ortaokul mezunu kalfa ve ustalar, açık öğretim lisesine devam ederek meslek lisesi diploması alabilirler.",
+  "is_hayatinda": "Meslekte deneyim kazanarak usta, usta öğretici veya atölye/vardiya sorumlusu konumuna yükselmek mümkündür. Ustalık belgesine sahip olanlar bağımsız işyeri açabilir; işyerinde çırak çalıştırmak için usta öğretici belgesine sahip olmak gerekir."
+ },
+ "benzer_meslekler": [
+  "Taşlama ve Alet Bilemecisi",
+  "Taşlama Tezgâh İşçisi",
+  "Zımpara Taşı Tezgahı İşçisi",
+  "Boru Taşlama Tezgahı İşçisi",
+  "Metal Yüzey Temizleyici",
+  "Polisaj ve Taşlama Elemanı"
+ ],
+ "ek_bilgiler": "\"Üretim sektöründe hassas ölçü ve yüzey kalitesi gerektiren parçalara olan ihtiyaç nedeniyle taşlama tezgâh ustalığı bilgi ve deneyimi tercih sebebidir. Günümüzde CNC kontrollü taşlama tezgâhlarının yaygınlaşması, meslek elemanlarından temel bilgisayar ve tezgâh programlama bilgisine de ihtiyaç duyulmasına yol açabilmektedir.\"",
+ "gorevler": [
+  "İş sağlığı ve güvenliği konusundaki yasal ve işyerine ait kuralları uygular.",
+  "Kalite yönetim sistemi dokümanlarına uygun çalışır.",
+  "Çalışılan yeri düzenler.",
+  "Çalışma alet ve donanımının koruyucu ve talimatlı bakımlarını sağlar.",
+  "Taşlama işlemi için gerekli hazırlıkları yapar.",
+  "İş organizasyonunu gerçekleştirir.",
+  "Taşlama ile ilgili hesaplamaları yapar.",
+  "Ölçme aletlerini kontrol eder.",
+  "Taşlama tezgâhını hazırlar.",
+  "Taşlama tablasını hazırlar.",
+  "Taşlama takımları ile ilgili hazırlıkları yapar.",
+  "İşlem görecek malzeme ile ilgili hazırlıkları yapar.",
+  "Taşlama işlemini başlatır.",
+  "Honlama ve lepleme işlemlerini yapar.",
+  "Taşlama işlemini sonlandırır.",
+  "Tezgâh ve işlenen malzemeleri kontrol eder ve bakımını yapar.",
+  "Taşlanan malzemeleri sevk eder ve raporlar.",
+  "Mesleki gelişim faaliyetlerine katılır."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T02:12:47",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5683
+  }
+ }
+}

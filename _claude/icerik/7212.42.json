@@ -1,0 +1,82 @@
+{
+ "arac_gerec": [
+  "Elektrofüzyon kaynak makinesi",
+  "Polietilen boru kesme makinesi veya el testeresi",
+  "Skyper (maşon/boru yüzeyi raspalama-temizleme aleti)",
+  "Elektrofüzyon maşonları (ek parçaları)",
+  "Boru hizalama ve sabitleme aparatı (klemens)",
+  "Barkod okuyucu",
+  "Jeneratör veya güç kaynağı ünitesi",
+  "Şerit metre ve işaretleme kalemi",
+  "Temizlik bezi ve yüzey temizleme solventi",
+  "Koruyucu eldiven ve gözlük",
+  "Çelik burunlu iş ayakkabısı",
+  "İş elbisesi",
+  "El aletleri (anahtar takımı, pense vb.)"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve titiz,",
+  "El ve göz koordinasyonu güçlü,",
+  "Sorumluluk sahibi,",
+  "Fiziksel olarak dayanıklı,",
+  "Talimat ve prosedürlere uyan,",
+  "Planlı ve düzenli çalışabilen,",
+  "Takım çalışmasına yatkın,",
+  "Teknik konulara ilgili ve öğrenmeye açık"
+ ],
+ "calisma_ortami": "Doğal gaz polietilen boru kaynakçıları genellikle açık havada (şantiye, kazı alanı, yol altyapı çalışmaları) ve zaman zaman kapalı mekânlarda (bina iç tesisatı, bodrum katları) çalışırlar. Çalışma, ayakta, eğilerek veya çömelerek yapılan saha işidir; hava koşullarına (sıcak, soğuk, yağış) maruz kalınabilir. Elektrofüzyon makinesinin elektrikle çalışması ve doğal gazın yanıcı/patlayıcı özelliği nedeniyle, iş güvenliği kurallarına ve kaynak öncesi-sonrası kontrol prosedürlerine titizlikle uyulması gerekir; gerekli önlemler alındığında risk düşük düzeyde tutulabilir. Meslek elemanı çalışmaları sırasında şantiye ekibi, iş arkadaşları, şantiye şefi, tesisat/proje sorumluları ve denetim görevlileriyle iş birliği içinde bulunur. Çalışma saatleri genellikle gündüz mesaisi şeklindedir; ancak proje teslim süreleri ve saha koşullarına göre değişebilir.",
+ "calisma_alanlari": "Doğal gaz polietilen boru kaynakçıları, doğal gaz dağıtım şirketlerinde ve bu şirketlere hizmet veren taşeron/yüklenici firmalarda, altyapı ve inşaat işleri yapan özel işletmelerde istihdam edilirler. Bina iç tesisatı yapan firmalarda, doğal gaz sayaç ve servis kutusu montaj ekiplerinde de çalışabilirler. Yeterli deneyim ve sermaye birikimine sahip olanlar, kendi taşeron ekiplerini veya işletmelerini kurarak doğal gaz dağıtım şirketlerine hizmet verebilirler.",
+ "ek_bilgiler": "Doğal gaz dağıtım şebekelerinde ve iç tesisatlarda polietilen boru kaynağı yapacak kişilerin, ilgili mevzuat ve dağıtım şirketi uygulamaları gereği, EPDK düzenlemeleri çerçevesinde yetkilendirilmiş eğitim/sertifika merkezlerinden alınmış bir PE kaynakçı sertifikasına sahip olması genellikle aranır ve bu sertifikanın belirli aralıklarla yenilenmesi gerekebilir. Meslek, açık alanda ve kazı sahalarında fiziksel çalışmayı gerektirdiğinden, saha çalışmasına uygun sağlık durumu önem taşır.",
+ "gorevler": [
+  "Kaynak yapılacak borunun ağız kısmını keserek düzeltir.",
+  "Skyper ile maşon boyunu pürüzsüz hale gelinceye kadar temizler.",
+  "Maşonları her iki borunun ağız kısmına takar.",
+  "Boru uçlarındaki maşonları elektrofüzyon makinesine bağlar.",
+  "Maşon üzerinde belirtilen volt ve kaynak süresine göre elektrofüzyon makinesine değerleri girer ya da maşon üzerindeki barkodu okutur.",
+  "Elektrofüzyon makinesini çalıştırır, maşon üzerindeki pimleri kontrol eder ve zamanında makineyi kapatır.",
+  "Maşon üzerinde belirtilen soğuma süresini göz önünde bulundurarak soğumasını sağlar.",
+  "Kullanılan makine ve ekipmanların bakım ve temizliğini yapar.",
+  "Mesleği alanındaki gelişmeleri takip eder ve uygular.",
+  "İşçi sağlığı ve iş güvenliği ile ilgili kurallara uyar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi; Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kurslarında, ayrıca doğal gaz dağıtım şirketlerinin veya EPDK tarafından yetkilendirilmiş eğitim merkezlerinin düzenlediği sertifika programlarında verilmektedir. Mesleğe işbaşında usta yanında yetişerek girmek de mümkündür.",
+  "giris_kosullari": [
+   "İlköğretim mezunu olmak",
+   "18 yaşından küçükler için veli izni gerekmektedir",
+   "Saha koşullarında çalışmaya uygun sağlık durumuna sahip olmak",
+   "Kurumların belirlediği yaş ve eğitim koşullarını taşımak"
+  ],
+  "sure_ve_icerik": "Eğitimin süresi ve içeriği, eğitimi veren kuruma göre değişmekle birlikte genel olarak; polietilen boru ve ek parça özellikleri, elektrofüzyon ve alın kaynağı yöntemleri, kaynak öncesi hazırlık ve yüzey temizliği, kaynak makinesinin kullanımı, kaynak kalite kontrolü ve testleri, iş sağlığı ve güvenliği konularını kapsar.",
+  "belge": "Eğitimi tamamlayanlara kurs bitirme belgesi veya sertifika verilir. Ayrıca ilgili mevzuat gereği doğal gaz dağıtım şebekesinde çalışacak kaynakçılar için EPDK tarafından yetkilendirilmiş kuruluşlarca düzenlenen PE kaynakçı sertifikası aranabilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Eğitim; kurs, sertifika programı veya işbaşında usta yanında yetişme şeklinde sürdürülüyorsa genellikle herhangi bir kazanç söz konusu değildir; ancak bazı işyerlerinde işbaşı eğitim sürecinde sınırlı bir ücret ödenebilir.",
+  "egitim_sonrasi": [
+   "Doğal gaz dağıtım şirketlerinde veya taşeron firmalarda çalışanlar, yeni başlayanlar için genellikle asgari ücret düzeyinde kazanç elde eder; deneyim ve sertifika düzeyine göre bu kazanç artabilir.",
+   "Kamu kurumlarına bağlı olarak memur statüsünde istihdam söz konusu ise 657 sayılı Kanun'a, işçi statüsünde ise ilgili toplu iş sözleşmesi hükümlerine göre ücret belirlenir.",
+   "Kendi taşeron ekibini kuran veya bağımsız çalışanların kazancı, üstlendikleri iş hacmine ve sözleşme koşullarına göre değişebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Meslek elemanları, ileri seviye kaynak teknikleri, çelik boru kaynakçılığı ve kalite kontrol konularında ek kurs ve sertifika programlarına katılarak bilgi ve becerilerini geliştirebilir. Mesleki Yeterlilik Kurumu (MYK) belgesi edinmek istihdamda tercih sebebi olabilir.",
+  "is_hayatinda": "Deneyim kazanan meslek elemanları ekip lideri, şef veya saha sorumlusu gibi görevlere yükselebilir. Yeterli deneyim ve sermaye birikimine sahip olanlar kendi taşeron firmalarını kurarak doğal gaz dağıtım şirketlerine hizmet verebilirler."
+ },
+ "benzer_meslekler": [
+  "Doğal Gaz Çelik Boru Kaynakçısı",
+  "Boru Kaynakçısı",
+  "Kaynakçı",
+  "Oksi-Gaz Kaynakçısı",
+  "Gazaltı Kaynakçısı (Mıg-Mag Kaynakçısı)",
+  "Plastik Kaynakçı"
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T00:21:18",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5977
+  }
+ }
+}

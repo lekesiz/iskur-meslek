@@ -1,0 +1,79 @@
+{
+ "arac_gerec": [
+  "Tartı/baskül",
+  "Su dolu tank, sarnıç veya çukur",
+  "Karıştırıcı",
+  "Filizlendirme tamburu (malt tamburu)",
+  "Kurutma fırını",
+  "El malası",
+  "Kürek",
+  "Termometre",
+  "Nem ölçer",
+  "Koruyucu eldiven",
+  "İş elbisesi",
+  "Koruyucu maske"
+ ],
+ "benzer_meslekler": [
+  "Fırınlama İşçisi-Malt",
+  "Fermantasyon İşçisi",
+  "Fermantasyon İşçisi (Şarap, Bira vb.)",
+  "Bira Filtreleme İşçisi",
+  "Diğer Bira, Şarap ve İçki İmalat İşçileri",
+  "Diğer Değirmen İşçileri (Hububat, Baklagil ve İlgili Ürünler)"
+ ],
+ "calisma_alanlari": "Filizleme işçisi (malt), malt üretimi yapan bira fabrikaları ve malt evlerinde (malthouse) istihdam edilir. Ürettiği malt, bira ve imbikten çekilen içkilerin (viski vb.) imalatında hammadde olarak kullanılır. Türkiye'de bu alanda faaliyet gösteren işletme sayısı sınırlı olduğundan, iş bulma olanakları bölgeseldir ve genellikle büyük bira/malt fabrikalarının bulunduğu sanayi bölgelerinde yoğunlaşır.",
+ "calisma_ortami": "Filizleme işçisi (malt), malt üretim tesislerinde genellikle kapalı alanlarda çalışır. Çalışma ortamı nemli, sıcak-soğuk geçişlerin yaşandığı, zaman zaman tozlu ve rutubetli bir yapıya sahiptir; hububatın ıslatılması, sürekli ters yüz edilmesi ve tambur/fırın işlemleri nedeniyle fiziksel güç ve dayanıklılık gerektirir. Çalışma genellikle vardiyalı ve tam gün usulde yürütülür.\n\nİş sırasında vardiya arkadaşları, usta işçiler ve üretim sorumlusu ile sürekli iletişim halinde olunur. Nem, ısı ve tozdan kaynaklanabilecek sağlık risklerine karşı koruyucu giysi, eldiven ve maske kullanımı önemlidir; iş sağlığı ve güvenliği kurallarına uyulması yasal bir zorunluluktur.",
+ "ek_bilgiler": "Malt filizleme işlemi nemli ve sıcak ortamlarda uzun süreli fiziksel çalışma gerektirdiğinden, havalandırma ve kişisel koruyucu ekipman kullanımına özellikle dikkat edilmelidir. Bu meslek Türkiye'de sınırlı sayıda malt/bira fabrikasında istihdam olanağı sunduğundan, iş arama sürecinde bu sektördeki işletmelerin bulunduğu bölgeler değerlendirilmelidir.",
+ "egitim": {
+  "verildigi_yerler": "Bu meslek için örgün bir mesleki eğitim programı bulunmamaktadır. Malt filizleme işi, sınırlı sayıda bira/malt fabrikasında yapılan özelleşmiş bir iş olduğundan, bilgi ve beceri genellikle işbaşında, deneyimli ustaların gözetiminde uygulamalı olarak kazanılır. Halk Eğitim Merkezleri ve İŞKUR'un açtığı gıda işleme ile ilgili mesleki eğitim kursları, isteyenlere temel bilgi düzeyinde destek sağlayabilir.",
+  "giris_kosullari": [
+   "İlköğretim mezunu olmak (mesleğin gerektirdiği asgari eğitim düzeyi)",
+   "Fiziksel güç gerektiren işlere uygun sağlık durumuna sahip olmak",
+   "İşe alınacağı işletmenin belirlediği yaş ve diğer koşulları karşılamak",
+   "İşbaşında eğitim ve uzun süreli ayakta/fiziksel çalışmaya uygunluk"
+  ],
+  "sure_ve_icerik": "Mesleğe özgü, süresi ve içeriği resmi olarak belirlenmiş bir eğitim programı bulunmamaktadır. Yeni başlayan kişi, deneyimli bir usta işçinin yanında çalışarak hububatın ıslatılması, karıştırılması, ters yüz edilmesi, tambur kontrolü ve kurutma fırınına nakil süreçlerini uygulamalı olarak öğrenir. Bu süreç işletmeden işletmeye ve kişinin öğrenme hızına göre değişebilir.",
+  "belge": "Örgün eğitim sonunda verilen resmi bir diploma veya belge bulunmamaktadır. Katılınması halinde kurs bitirme/katılım belgesi ile çalışılan işletme tarafından düzenlenen deneyim belgesi alınabilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "genel_ozellikler": [
+  "Fiziksel olarak güçlü ve dayanıklı,",
+  "Dikkatli ve sabırlı,",
+  "Nem, koku ve ısı değişimlerine duyarlı,",
+  "Düzenli ve temiz çalışan,",
+  "Ekip çalışmasına uyumlu,",
+  "Sorumluluk duygusu gelişmiş,",
+  "Vardiyalı ve zorlu fiziksel çalışma koşullarına uyum sağlayabilen,",
+  "Talimatları eksiksiz uygulayabilen"
+ ],
+ "gorevler": [
+  "Hububatı tartar.",
+  "Tartılan hububatı suyla doldurulmuş tank, sarnıç veya çukurlara doldurur.",
+  "Karıştırıcıları çalıştırarak hububatın suyu eminceye kadar bekletilmesini sağlar.",
+  "Suyu emmiş olan hububatı yere sererek soğuması ve havalanması için ağaç, el malası veya kürekle ters yüz eder.",
+  "Gerekirse hububatın üzerine su serper.",
+  "Su emmiş hububatı tambur içine doldurur.",
+  "Tamburanın hava cereyanını, hararetini, su püskürtülme durumunu ve dönüşümünü kontrol eder.",
+  "Yeşermiş olan hububatın kurutma fırınına nakline nezaret eder.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Bu meslek için tanımlanmış örgün bir mesleki eğitim kademesi bulunmamaktadır. İlerleme, işbaşında deneyim kazanma ve ilgili kısa süreli kurslara katılma yoluyla gerçekleşir. İsteyen kişiler, sınavla girmeleri halinde gıda teknolojisi veya ilgili alanlarda açılan yükseköğretim (ön lisans/lisans) programlarını tercih edebilir.",
+  "is_hayatinda": "Deneyim ve bilgi arttıkça usta işçi, vardiye sorumlusu veya üretim şefi gibi görevlere yükselinebilir. Ayrıca fırınlama ve fermantasyon gibi malt üretiminin diğer aşamalarında da görev alınabilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Mesleğe yönelik örgün bir çıraklık veya mesleki eğitim programı bulunmadığından, eğitim/işbaşı öğrenme süresine ilişkin yasal olarak belirlenmiş bir ücret düzenlemesi yoktur. İşbaşında eğitim alan kişi, çalıştığı işletmenin uygulamalarına göre genellikle asgari ücret düzeyinde gelir elde eder.",
+  "egitim_sonrasi": [
+   "İşe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Deneyim, bilgi, çalışma kapasitesi ve işletmenin büyüklüğüne göre ücret artabilir.",
+   "Özel sektörde ücret işveren ile yapılan anlaşmaya göre belirlenir; işçi statüsünde çalışılan kamuya bağlı işletmelerde toplu iş sözleşmesi hükümleri uygulanabilir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T15:18:21",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6466
+  }
+ }
+}

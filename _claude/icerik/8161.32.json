@@ -1,0 +1,76 @@
+{
+ "arac_gerec": [
+  "Tuz paketleme makinesi",
+  "Otomatik tartım/dolum ünitesi",
+  "Tuz silosu ve besleme hattı",
+  "Ambalaj film/bobin besleme ünitesi",
+  "Tarih kodlama (kodlayıcı) cihazı",
+  "Barkod yazıcı ve okuyucu",
+  "Taşıma/konveyör bantları",
+  "Paletleme ve istifleme ekipmanları",
+  "Transpalet/forklift",
+  "Basınçlı hava tabancası ve temizlik ekipmanları",
+  "Koruyucu iş elbisesi, eldiven ve toz maskesi",
+  "Kulak koruyucu"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve titiz,",
+  "Sorumluluk duygusu yüksek,",
+  "El ve göz koordinasyonu iyi,",
+  "Teknik alet ve makineleri kullanabilen,",
+  "Düzenli ve temiz çalışmaya önem veren,",
+  "Vardiyalı çalışma düzenine uyum sağlayabilen,",
+  "Ekip çalışmasına uyumlu,",
+  "Hızlı ve doğru karar verebilen"
+ ],
+ "gorevler": [
+  "Makinenin dolum gramajı ve ambalaj hızı ayarlarını yapar.",
+  "Tuz silosundan akışı ve ambalaj bobinlerini denetler.",
+  "Paketlerin sızdırmazlık ve yapıştırma kalitesini sürekli izler.",
+  "Tarih kodlama ve barkod cihazlarını kontrol eder.",
+  "Paketleme ünitesinin temizlik ve hijyen standartlarını korur.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "calisma_ortami": "\"Tuz paketleme makinesi operatörü, gıda veya sanayi tipi tuzun işlendiği ve paketlendiği fabrika ve tesislerde, genellikle kapalı alanlarda çalışır. Çalışma ortamı makine gürültüsü, tuz tozu ve nem açısından hassas olabilir; bu nedenle koruyucu iş elbisesi, eldiven, toz maskesi ve gerektiğinde kulak koruyucu kullanılması önemlidir. Üretim sürekliliği gerektiren tesislerde çalışma genellikle vardiyalı sistemle, ayakta ve makine başında yürütülür.\\n\\nMeslek, üretim hattındaki diğer operatörler, kalite kontrol personeli, bakım-onarım ekibi ve vardiya/üretim sorumlusu ile sürekli iletişim ve iş birliği gerektirir. İş sağlığı ve güvenliği kurallarına uyum, hem çalışanın hem de ürün hijyeninin korunması açısından büyük önem taşır.\"",
+ "egitim": {
+  "verildigi_yerler": "Tuz paketleme makinesi operatörlüğüne yönelik ayrı, standart bir örgün mesleki eğitim programı bulunmamaktadır. Mesleğin gerektirdiği bilgi ve beceriler genellikle işyerlerinde işbaşında usta-çırak ilişkisi içinde, Halk Eğitim Merkezleri ve İŞKUR tarafından açılan mesleki eğitim kurslarında ya da mesleki eğitim merkezlerinin gıda teknolojisi alanına bağlı genel programlarında kazandırılmaktadır.",
+  "giris_kosullari": [
+   "En az ilköğretim/ortaokul mezunu olmak",
+   "Okuryazar olmak",
+   "Mesleğin fiziksel gerekliliklerine uygun sağlık durumuna sahip olmak",
+   "İşe alınacak işyerinin belirlediği yaş ve diğer koşulları taşımak"
+  ],
+  "sure_ve_icerik": "Standart bir eğitim süresi bulunmamakla birlikte, işbaşı eğitimi genellikle birkaç haftadan birkaç aya kadar sürebilir. Eğitimde makinenin çalışma prensipleri, dolum ve ambalaj ayarları, hijyen kuralları, tarih kodlama ve barkod uygulamaları ile iş sağlığı ve güvenliği konuları uygulamalı olarak öğretilir. Kurumlarca açılan kurslarda ise belirlenen müfredat çerçevesinde teorik ve uygulamalı eğitim verilir.",
+  "belge": "İşbaşı eğitiminde resmî bir diploma/belge verilmemektedir; kurslara katılanlara katılım/başarı belgesi düzenlenebilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, iş bulma ve istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "\"Tuz paketleme makinesi operatörü başta gıda ve sanayi tipi tuz üreten ve paketleyen özel sektör işletmeleri olmak üzere, tuz işleme tesislerinde istihdam edilir. Bu işletmeler genellikle tuz üretim bölgelerine yakın illerde yoğunlaşmıştır. Kamu kuruluşlarında bu meslekte istihdam oldukça sınırlıdır.\"",
+ "kazanc": {
+  "egitim_suresince": "Mesleğe yönelik örgün bir çıraklık eğitimi bulunmadığından eğitim süresince ücret konusunda standart bir uygulama yoktur. İşbaşında eğitim alanlar genellikle işyerinin belirlediği ücretle çalışır; İŞKUR'un açtığı aktif işgücü piyasası eğitim kurslarına katılanlara ise kurs süresince günlük cep harçlığı ödenebilir.",
+  "egitim_sonrasi": [
+   "Çalışanlar genellikle özel sektörde işçi statüsünde çalışır ve ücretleri işveren ile yapılan iş sözleşmesine göre belirlenir.",
+   "Yeni başlayanların kazancı genellikle asgari ücret düzeyindedir.",
+   "Deneyim, bilgi, çalışma kapasitesi, işletmenin büyüklüğü ve sektördeki ücret düzeyine göre kazanç artabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğe yönelik örgün bir eğitim kademesi bulunmadığından doğrudan bir ilerleme basamağı yoktur. İsteyenler, mesleki eğitim merkezlerinin veya mesleki ve teknik eğitim okullarının gıda teknolojisi alanına bağlı programlarına yönelerek bilgi ve becerilerini belgelendirebilir, çeşitli kurs ve sertifika programlarına katılarak mesleki gelişimlerini sürdürebilirler.",
+  "is_hayatinda": "Deneyim ve bilgi birikimi arttıkça operatör, usta, hat/vardiya sorumlusu gibi görevlere yükselebilir. Girişimcilik yeteneğine sahip olanlar, uygun koşulları sağladıklarında kendi küçük ölçekli paketleme işletmelerini kurabilir."
+ },
+ "benzer_meslekler": [
+  "Paketleme Makinesi Operatörü (Makarna)",
+  "Paketleme Makinesi Operatörü (İrmik)",
+  "Paketleme Makinesi Operatörü (Un)",
+  "Tuz İmal İşçisi",
+  "Tablet Tuz İmal Ustası",
+  "Paletleme Makinesi (Paletdizer) Operatörü"
+ ],
+ "ek_bilgiler": "\"Çalışma sırasında tuz tozuna maruziyet söz konusu olabileceğinden kişisel koruyucu donanım (toz maskesi, eldiven vb.) kullanımına özen gösterilmesi önemlidir.\"",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T15:57:21",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 4931
+  }
+ }
+}

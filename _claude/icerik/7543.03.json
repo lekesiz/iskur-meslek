@@ -1,0 +1,74 @@
+{
+ "arac_gerec": [
+  "Mukavemet (çekme) test makinesi",
+  "Cer kontrol aleti",
+  "Numune kesme ve hazırlama araçları (bıçak, makas, testere)",
+  "Şerit metre, cetvel gibi ölçüm araçları",
+  "Gerilme/basınç göstergeleri (manometre)",
+  "Uluslararası standart normlarına ait kılavuz ve tablolar",
+  "Kayıt defterleri ve rapor formları",
+  "Bilgisayar ve kalite kontrol yazılımları",
+  "Kalibrasyon ekipmanları",
+  "Koruyucu eldiven, gözlük ve iş elbisesi gibi kişisel koruyucu donanım"
+ ],
+ "benzer_meslekler": [
+  "Kalite Kontrolcü",
+  "Malzeme Muayene ve Kontrolcüsü",
+  "Kalite Muayene Test ve Kontrolcüsü",
+  "Ürün Denetmeni",
+  "Kalite Kontrolcü-Tekstil"
+ ],
+ "calisma_alanlari": "Halat Kontrolörleri, başta çelik halat, lif halat, ip ve bağlama donanımı üreten imalat tesisleri olmak üzere; bu ürünleri kullanan denizcilik, gemi inşa, liman işletmeciliği, vinç ve yük kaldırma ekipmanları üretimi, inşaat ve maden sektörlerine girdi sağlayan fabrikalarda istihdam edilir. İşletmelerin kalite kontrol birimleri, test laboratuvarları ve Ar-Ge bölümleri başlıca çalışma alanlarıdır.\n\nHalat üretimi yapan işletme sayısının sınırlı olması nedeniyle bu meslekte iş bulma olanağı genel olarak dardır; sanayinin yoğunlaştığı liman kentlerinde ve organize sanayi bölgelerinde bulunan halat fabrikalarında iş bulma şansı nispeten daha yüksektir.",
+ "calisma_ortami": "Halat Kontrolörleri genellikle fabrika veya atölye ortamında, kapalı mekânlarda çalışır. Çalışma ortamı, kullanılan test makineleri nedeniyle gürültülü olabilir; gerilme altındaki halatın kopması sırasında parça fırlaması veya sıçrama gibi riskler bulunduğundan iş güvenliği kurallarına dikkatle uyulması gerekir. Çalışma saatleri genellikle gündüz mesaisi şeklindedir, üretim hacmine bağlı olarak vardiyalı çalışma da söz konusu olabilir.\n\nGörevini yerine getirirken üretim bölümü çalışanları, vardiya amirleri, mühendisler ve kalite güvence biriminden sorumlu kişilerle sürekli iletişim halindedir.",
+ "egitim": {
+  "verildigi_yerler": "Halat Kontrolörlüğü mesleğine yönelik, Türkiye'de doğrudan bir örgün eğitim programı (lise alanı, önlisans veya lisans programı) bulunmamaktadır. Meslek, genellikle lise veya meslek lisesi (makine, metal, tekstil, kalite kontrol vb. teknik alanlar) mezunlarının, halat üreten işletmelerde işbaşında usta yanında yetişmesiyle kazanılır. Ayrıca İŞKUR ve Halk Eğitim Merkezlerinin açtığı kalite kontrol, ölçme ve test teknikleri konulu kısa süreli mesleki eğitim kursları bu alanda çalışmak isteyenlere temel bilgi ve beceri kazandırabilir.",
+  "giris_kosullari": [
+   "En az ortaöğretim (lise veya dengi okul) mezunu olmak",
+   "Sayısal işlemlere, ölçüm ve test tekniklerine ilgi duymak",
+   "Renk ve rakam okumayı güçleştiren bir görme bozukluğunun bulunmaması tercih sebebidir"
+  ],
+  "sure_ve_icerik": "Mesleğe özgü standart bir eğitim süresi bulunmadığından, işbaşında eğitim süresi işletmeden işletmeye ve kişinin öğrenme hızına göre değişir. Bu süreçte; halat çeşitleri ve üretim yöntemleri, numune alma ve hazırlama teknikleri, mukavemet/çekme test makinelerinin ve cer kontrol aletlerinin kullanımı, ilgili uluslararası standart mukavemet normları, ölçüm sonuçlarının yorumlanması ile kayıt ve raporlama işlemleri öğretilir. Katılınan kalite kontrol veya ölçme-test teknikleri kursları da bu bilgileri destekler niteliktedir.",
+  "belge": "Mesleğe özgü resmî bir diploma veya sertifika bulunmamaktadır. İşbaşı eğitim sonunda deneyim kazanılır; katılınan kurslardan ise katılım belgesi veya kurs bitirme sertifikası alınabilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, ilgili alanda düzenlenmişse, istihdamda tercih sebebi olabilir."
+ },
+ "ek_bilgiler": "Halat Kontrolörlüğü, halat ve çelik halat üretiminin sınırlı sayıda işletmeyle sürdürüldüğü dar ve niş bir meslek alanıdır; bu nedenle istihdam olanakları büyük ölçüde halat ve bağlama ekipmanı üreten fabrikalarla sınırlıdır.",
+ "genel_ozellikler": [
+  "Dikkatli ve titiz,",
+  "Sayısal işlemlere ve ölçüm sonuçlarını yorumlamaya yatkın,",
+  "El ve göz koordinasyonu iyi,",
+  "Sorumluluk sahibi,",
+  "Teknik konulara ve makine kullanımına ilgili,",
+  "Standartlara ve kurallara bağlı çalışabilen,",
+  "İş güvenliği kurallarına titizlikle uyan,",
+  "Takım çalışmasına uyumlu"
+ ],
+ "gorevler": [
+  "İmalattan çıkan halatlardan istenilen boylarda numuneler alır,",
+  "Aldığı numuneleri kontrol için hazırlar,",
+  "Hazırlanan numuneyi mukavemet test makinesine veya cer kontrol aletine takar,",
+  "Makineyi çalıştırarak veya aletin çevirme kollarını kullanarak takılı bulunan halat numunesinin gerilmesini sağlar,",
+  "Gerilen halat koptuğu anda işlemi durdurarak mukavemet derecelerini göstergelerden okur,",
+  "Bulduğu değeri milletlerarası standart mukavemet normları ile karşılaştırır,",
+  "Gerekli hesaplama ve testleri yapar,",
+  "Neticeleri defterlere kaydeder veya rapor haline getirip ilgililere bildirir,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğe yönelik kademeli bir örgün eğitim sistemi bulunmamaktadır. Çalışanlar, kalite kontrol, ölçme-test teknikleri ve ilgili uluslararası standartlar (ISO vb.) konularında kısa süreli kurslar ve işbaşı eğitimlerle bilgi ve becerilerini geliştirebilir.",
+  "is_hayatinda": "Deneyim kazanan Halat Kontrolörleri, kalite kontrol şefliği, laboratuvar sorumluluğu veya üretim/kalite güvence biriminde denetçilik gibi görevlere yükselebilir. Yeterli sermaye ve deneyime sahip olanlar, kendi test/kontrol hizmeti sunan bir işletme kurabilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Mesleğe yönelik örgün bir eğitim süreci bulunmadığından, işletmelerde işbaşında eğitim/stajyerlik döneminde çalışanlar genellikle asgari ücret düzeyinde veya işletmenin belirlediği stajyer ücretiyle çalışır.",
+  "egitim_sonrasi": [
+   "Özel sektörde çalışan Halat Kontrolörlerinin kazancı, işletmenin büyüklüğüne, çalışanın deneyimine ve yaptığı işin niteliğine göre karşılıklı anlaşma ile belirlenir; yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar, deneyim kazandıkça bu düzeyin üzerine çıkabilir.",
+   "İşçi statüsünde çalışanların ücreti, işyerinde toplu iş sözleşmesi varsa bu sözleşme hükümlerine göre belirlenir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T09:46:26",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6510
+  }
+ }
+}

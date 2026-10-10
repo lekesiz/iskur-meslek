@@ -1,0 +1,75 @@
+{
+ "arac_gerec": [
+  "Sahil güvenlik botu veya gemisi",
+  "Seyir ve haberleşme cihazları (radar, GPS, telsiz)",
+  "Denizcilik harita ve seyir aletleri (pusula, dürbün)",
+  "Kişisel koruma ve can kurtarma ekipmanları (can yeleği, cankurtaran simidi)",
+  "Silah ve mühimmat",
+  "Üniforma ve rütbe işaretleri",
+  "İdari dosyalama ve bilgisayar sistemleri",
+  "İlk yardım malzemeleri",
+  "Nöbet ve gözetleme ekipmanları (dürbün, gece görüş cihazı)",
+  "Temizlik ve bakım malzemeleri"
+ ],
+ "genel_ozellikler": [
+  "Disiplinli,",
+  "Sorumluluk sahibi,",
+  "Liderlik özelliklerine sahip,",
+  "Fiziksel ve psikolojik olarak sağlıklı,",
+  "Dikkatli ve teyakkuzlu,",
+  "Takım çalışmasına uyumlu,",
+  "Kriz ve stres durumlarında sakin kalabilen,",
+  "Vatan ve görev sevgisi yüksek olan"
+ ],
+ "calisma_ortami": "Asteğmen (Sahil Güvenlik), görev yerine göre açık deniz, kıyı bölgeleri, bot/gemi üzerinde ya da kara üslerinde çalışır. Çalışma ortamı deniz koşulları, hava şartları ve operasyonun niteliğine göre değişkenlik gösterir; gündüz-gece nöbet hizmetleri, vardiyalı çalışma ve uzun süreli görev yapma durumu söz konusu olabilir.\n\nGörevi gereği erbaş ve erlerle, diğer subaylarla ve üst amirlerle sürekli iletişim halindedir. Deniz üzerindeki görevlerde fiziksel risk ve zorlu doğa koşullarıyla karşılaşabilir; disiplin, hazır bulunma ve hareketlilik gerektiren bir çalışma düzeni vardır.",
+ "calisma_alanlari": "Asteğmen (Sahil Güvenlik), Sahil Güvenlik Komutanlığı'na bağlı bölge komutanlıkları, bot/gemi üsleri, kıyı karakolları ve eğitim merkezlerinde kamu personeli statüsünde görev yapar. Görev yeri, komutanlığın operasyonel ihtiyaçlarına göre ülkenin farklı kıyı bölgelerinde değişebilir.",
+ "gorevler": [
+  "Bot veya kara birliğinde nöbet hizmetlerini yürütür.",
+  "Erbaş ve erlerin eğitimlerini ve çalışmalarını denetler.",
+  "İdari ve teknik dosyalama süreçlerini takip eder.",
+  "Tesis veya botun temizlik ve düzeninden sorumlu olur.",
+  "Üst amirlerin verdiği görevleri yerine getirir.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Bu mesleğe, lisans eğitimini tamamlamış adaylar arasından Sahil Güvenlik Komutanlığı'nın ihtiyacına göre; ilgili askeri yükseköğretim kurumlarından (örneğin Milli Savunma Üniversitesi bünyesindeki harp okulları) mezun olanlar ya da sivil yükseköğretim kurumlarından mezun olup yedek subay adayı olarak askerlik hizmetine tabi olanlar arasından geçilir.",
+  "giris_kosullari": [
+   "Herhangi bir alanda lisans mezunu olmak",
+   "Sahil Güvenlik Komutanlığı/Türk Silahlı Kuvvetleri tarafından belirlenen yaş sınırları içinde olmak",
+   "Askeri hizmete engel bir sağlık sorunu bulunmaması (sağlık kurulu raporuyla belgelenmiş)",
+   "Güvenlik soruşturması ve arşiv araştırmasından olumlu sonuç almış olmak",
+   "Yazılı sınav, fiziki yeterlilik testi ve mülakat gibi seçim süreçlerinde başarılı olmak",
+   "Askerlik hizmetine ve subaylığa engel bir ceza veya disiplin durumu bulunmamak"
+  ],
+  "sure_ve_icerik": "Harp okulu yoluyla yetişen subaylar için eğitim, lisans düzeyinde yaklaşık dört yıl sürer ve askeri bilgiler, denizcilik ve liderlik eğitimiyle birlikte akademik eğitim verilir. Yedek subay adayları için ise lisans eğitimi sonrasında, askerlik hizmeti kapsamında temel askerlik ve subaylık eğitimi veren kurumlarda belirli bir süre teorik ve uygulamalı eğitim verilir; bu eğitim sonunda asteğmen rütbesiyle göreve başlanır.",
+  "belge": "Lisans diploması ile birlikte, eğitim sürecini tamamlayanlara subaylık rütbesini gösteren atama/rütbe belgesi verilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Harp okulunda eğitim gören öğrenciler eğitim süresince iaşe, ibate ve belirli bir harçlıkla desteklenir. Yedek subay adayları ise temel askerlik eğitimi süresince askeri statüde maaş alır.",
+  "egitim_sonrasi": [
+   "Eğitimini tamamlayarak asteğmen rütbesiyle göreve başlayanlar, Türk Silahlı Kuvvetleri personel mevzuatı kapsamında rütbesine uygun aylık, ek tazminat ve yan haklarla ücretlendirilir.",
+   "Kazanç düzeyi rütbe, kıdem ve görev yerine (deniz/kara hizmeti, bölge tazminatı vb.) göre zamanla artış gösterir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Asteğmen rütbesindeki subaylar, mesleki kıdem, performans değerlendirmeleri ve açılan sınavlar/kurslar aracılığıyla sırasıyla Teğmen, Üsteğmen, Yüzbaşı, Binbaşı, Yarbay, Albay ve üstü rütbelere terfi edebilir. Ayrıca kurmaylık, uzmanlık ve branş eğitimleri alarak farklı alanlarda ilerleme sağlanabilir.",
+  "is_hayatinda": "Zaman içinde operasyon, eğitim, lojistik veya idari birimlerde farklı sorumluluklar üstlenebilir; kıdem ve liyakate bağlı olarak komuta kademelerinde yer alabilir."
+ },
+ "benzer_meslekler": [
+  "Asteğmen (Kara Kuvvetleri)",
+  "Asteğmen (Hava Kuvvetleri)",
+  "Asteğmen(Deniz Kuvvetleri)",
+  "Asteğmen (Jandarma)",
+  "Teğmen (Sahil Güvenlik)",
+  "Üsteğmen (Sahil Güvenlik)"
+ ],
+ "ek_bilgiler": "Bu mesleğe girişte aranan yaş, sağlık, fiziki yeterlilik ve güvenlik soruşturması şartları zaman içinde değişebileceğinden, güncel koşulların Sahil Güvenlik Komutanlığı ve Milli Savunma Bakanlığı'nın resmi duyurularından takip edilmesi gerekir. Görev gereği zaman zaman zorlu hava ve deniz koşullarında, yüksek sorumluluk ve risk taşıyan operasyonel faaliyetlere katılım söz konusu olabilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-07T17:33:27",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5249
+  }
+ }
+}

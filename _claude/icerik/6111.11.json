@@ -1,0 +1,81 @@
+{
+ "arac_gerec": [
+  "Traktör",
+  "Pulluk",
+  "Tırmık/kültivatör",
+  "Mibzer (ekim makinesi)",
+  "Gübre dağıtıcısı",
+  "Sulama ekipmanları (salma, yağmurlama vb.)",
+  "Pülverizatör",
+  "Tarım ilaçları (insektisit, herbisit, fungisit)",
+  "Hasat makinesi veya biçerdöver",
+  "Tırpan, orak, çapa gibi el aletleri",
+  "Tohumluk",
+  "Nem ve toprak ölçüm aletleri"
+ ],
+ "genel_ozellikler": [
+  "Açık havada ve değişken hava koşullarında çalışmaktan hoşlanan,",
+  "Fiziksel olarak dayanıklı ve sağlıklı,",
+  "Toprağı ve bitkiyi seven, tarımsal üretime ilgi duyan,",
+  "Dikkatli ve sabırlı,",
+  "El becerisine sahip,",
+  "Mevsimlik ve yoğun iş temposuna uyum sağlayabilen,",
+  "Takım çalışmasına uyumlu,",
+  "Sorumluluk sahibi"
+ ],
+ "calisma_ortami": "Fiğ Yetiştiricisi, çalışmasını büyük ölçüde açık arazi koşullarında yürütür. Toprak hazırlığı, ekim, sulama, ilaçlama ve hasat gibi işlemler tarlada, mevsim ve hava koşullarına bağlı olarak güneş, rüzgâr, soğuk veya toz altında yapılır; iş bazı dönemlerde ağır fiziksel güç ve uzun süre eğilerek veya ayakta çalışmayı gerektirir. Ekim-hasat dönemlerinde çalışma saatleri uzayabilir, yoğun mevsimlerde hafta sonu çalışması söz konusu olabilir.\n\nMeslek elemanı çalışmalarını genellikle tarla sahibi, işveren, diğer tarım işçileri ve zaman zaman ziraat mühendisi veya teknisyenlerle koordineli biçimde yürütür. Tarım ilaçları ve gübrelerle çalışma, kullanılan ekipmanın güvenli kullanımı ve kişisel koruyucu donanım kullanımı açısından dikkat gerektirir.",
+ "egitim": {
+  "verildigi_yerler": "Fiğ Yetiştiriciliği için örgün bir meslek lisesi alanı/dalı veya çıraklık eğitimi programı bulunmamaktadır. Mesleğin bilgi ve becerileri genellikle ailede veya işletmede usta-çırak ilişkisiyle, işbaşında öğrenilerek kazanılır. Halk Eğitim Merkezleri, İŞKUR'un açtığı mesleki eğitim kursları ve il/ilçe tarım müdürlüklerinin düzenlediği çiftçi eğitim programları da bu alanda bilgi ve beceri edinme imkânı sağlar.",
+  "giris_kosullari": [
+   "Mesleğin gerektirdiği minimum eğitim düzeyi ilköğretimdir.",
+   "Okuma yazma bilmek ve temel düzeyde eğitim almış olmak yeterlidir.",
+   "Açılan kurslara katılmak için kursun belirlediği yaş ve genel sağlık koşullarını karşılamak gerekir.",
+   "Tarımsal işlerde fiziksel olarak çalışabilecek sağlık durumuna sahip olmak gerekir."
+  ],
+  "sure_ve_icerik": "Resmî ve standart bir eğitim süresi/müfredatı tanımlı değildir. Bilgi ve beceriler genellikle aile işletmesinde veya usta yanında zaman içinde uygulamalı olarak öğrenilir. Halk Eğitim Merkezleri ve İŞKUR kurslarında açılması durumunda eğitim; toprak hazırlığı, tohum seçimi ve ekimi, gübreleme, sulama, hastalık-zararlı mücadelesi, hasat teknikleri ve makine-ekipman bakımı gibi konuları kapsayan kısa süreli uygulamalı programlar şeklinde olabilir.",
+  "belge": "Örgün bir diploma veya ustalık belgesi bulunmamaktadır. Katılınan kurslar sonunda Halk Eğitim Merkezi/İŞKUR katılım belgesi alınabilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, kapsamı varsa istihdamda tercih sebebi olabilir."
+ },
+ "gorevler": [
+  "Sonbaharda toprağı pullukla derin sürer, ilkbaharda uygun tarım aleti ile tarlayı düzelterek toprak hazırlığını yapar.",
+  "Tohum amaçlı fiği tek başına, ot elde etmek amacıyla ise arpa veya yulaf ile karıştırarak ekime hazırlar.",
+  "Mibzerle ekim derinliğini ve sıra aralarını göz önünde bulundurarak ekimini yapar.",
+  "Ekimle birlikte gübreleme yapar.",
+  "Çiçeklenme zamanına kadar olan dönemde 1-2 defa sulama yapar.",
+  "Alt yapraklardaki sararma ve solmaya göre sulama yapar.",
+  "Hastalık ve zararlılara karşı mücadele eder.",
+  "Kullanım amacına göre fiğin hasat zamanını tespit eder.",
+  "Elle veya makine ile hasadını yapar.",
+  "Kullanılan makine, araç, gereç ve ekipmanların periyodik bakımlarını yapar.",
+  "İş sağlığı ve güvenliği ile ilgili kurallara uyar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "calisma_alanlari": "Fiğ Yetiştiricisi, kendi tarlasında üretici olarak çalışabileceği gibi, diğer çiftçilere veya tarım işletmelerine ait arazilerde mevsimlik veya sürekli tarım işçisi olarak da istihdam edilebilir. Hayvancılıkla bütünleşik işletmelerde yem bitkisi üretimi amacıyla, tarımsal kooperatif ve birliklerde, tohumluk üretimi yapan çiftliklerde çalışma imkânı bulunmaktadır. Fiğ üretimi iklim ve mevsim koşullarına bağlı olarak genellikle yılın belirli dönemlerinde yoğunlaşan bir faaliyettir.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğin örgün bir çıraklık/mesleki eğitim programı bulunmadığından düzenli bir eğitim ücreti söz konusu değildir. İşbaşında öğrenenler genellikle mevsimlik tarım işçisi ücreti alır; aile işletmesinde çalışanlarda ayrıca bir ücret ödenmeyebilir.",
+  "egitim_sonrasi": [
+   "Kendi arazisinde üretim yapanların kazancı, ekilen alanın büyüklüğüne, verime ve ürün satış fiyatlarına göre değişir.",
+   "Ücretli çalışanlarda kazanç, işletmenin büyüklüğüne, çalışma süresine, deneyime ve bölgesel tarım işçi ücretlerine göre değişmekte olup yeni başlayanlarda genellikle asgari ücret düzeyinde seyreder."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğe özgü örgün bir ilerleme basamağı (kalfalık/ustalık) tanımlı değildir. İsteyenler Halk Eğitim Merkezleri, İŞKUR veya tarım il/ilçe müdürlüklerinin düzenlediği tarımsal eğitim ve kurslara katılarak bilgi ve becerilerini geliştirebilir; örgün ortaöğretimini tamamlayanlar sınavla tarım alanındaki ön lisans/lisans programlarına yönelebilir.",
+  "is_hayatinda": "Deneyim ve bilgi arttıkça usta işçi, tarla/ekip sorumlusu konumuna gelinebilir. Kendi arazisine veya sermayesine sahip olanlar bağımsız üretici olarak çalışabilir, tarımsal kooperatif veya birliklerde görev alabilir."
+ },
+ "benzer_meslekler": [
+  "Yonca Yetiştiricisi",
+  "Baklagil Yem Bitkileri Yetiştiricisi",
+  "Buğdaygil Yem Bitkileri Yetiştiricisi",
+  "Arpa Yetiştiricisi",
+  "Yulaf Yetiştiricisi",
+  "Tarla Bitkileri Yetiştiricisi"
+ ],
+ "ek_bilgiler": "Fiğ, Türkiye'de başta hayvan yemi (ot, saman, dane) olarak değerlendirilmek üzere yetiştirilen bir baklagil yem bitkisidir. Üretimi genellikle hayvancılıkla bütünleşik küçük ve orta ölçekli tarım işletmelerinde yapılır; ekim, bakım ve hasat işleri iklim koşullarına bağlı olarak mevsimsel yoğunluk gösterir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T20:06:37",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6008
+  }
+ }
+}

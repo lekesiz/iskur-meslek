@@ -1,0 +1,80 @@
+{
+ "arac_gerec": [
+  "Ağıl ve barınak ekipmanları",
+  "Yemlik ve suluk",
+  "Yem, ot ve kaba/kesif yem malzemesi",
+  "Sağım kovası, güğüm ve süt kapları",
+  "Keçi tımar fırçası",
+  "Tırnak kesme makası",
+  "Kırkım makası",
+  "Aşılama ve ilaçlama ekipmanları (şırınga, iğne vb.)",
+  "Doğum ve oğlak bakım malzemeleri",
+  "Hayvan bağlama ve sevk ipleri",
+  "Dezenfektan ve temizlik malzemeleri",
+  "Kayıt defteri veya kayıt formları",
+  "Koruyucu çizme, önlük ve eldiven"
+ ],
+ "genel_ozellikler": [
+  "Hayvanları seven ve onlarla ilgilenmekten hoşlanan,",
+  "Fiziksel olarak güçlü ve dayanıklı,",
+  "Açık havada ve zorlu hava koşullarında çalışmaya istekli,",
+  "Dikkatli ve sorumluluk sahibi,",
+  "Sabırlı ve düzenli,",
+  "Erken saatlerde ve uzun süre çalışmaya uyumlu,",
+  "El becerisine sahip,",
+  "Gözlem yeteneği gelişmiş"
+ ],
+ "calisma_ortami": "Keçi yetiştiricisi, genellikle kırsal bölgelerde, köy ve mera alanlarında, ağıl ve çiftlik ortamlarında çalışır. Çalışma büyük ölçüde açık havada, mevsim koşullarına bağlı olarak sıcak, soğuk, yağmurlu ya da rüzgârlı havalarda yürütülür; ağıl içinde ise hayvan kokusu, gübre ve toz gibi unsurlarla karşılaşılabilir. İş, fiziksel efor gerektirir; eğilme, kaldırma, yürüme ve ayakta durma sık görülür.\n\nÇalışma saatleri hayvanların bakım, sağım ve beslenme ihtiyaçlarına göre belirlenir; genellikle sabah erken saatlerde başlar ve günün farklı zamanlarına yayılır, hafta sonu ve tatil günlerinde de çalışma gerekebilir. Meslek mensubu çalışırken işletme sahibi, diğer hayvan bakıcıları, çobanlar ve gerektiğinde veteriner hekimlerle iş birliği içinde bulunur.",
+ "egitim": {
+  "verildigi_yerler": "Keçi yetiştiriciliği için örgün bir ön lisans veya lisans programı bulunmamaktadır. Mesleğe ait temel bilgi ve beceriler büyük ölçüde ailede veya işletmede usta-çırak ilişkisi içinde, işbaşında öğrenilerek kazanılır. Ayrıca Halk Eğitim Merkezleri ile İŞKUR tarafından açılan hayvancılık/küçükbaş hayvan yetiştiriciliği konulu mesleki eğitim kurslarında ilgili bilgi ve beceriler kazandırılabilir. Tarım ve hayvancılık alanında eğitim veren mesleki ve teknik eğitim okulları da bu mesleğe temel oluşturacak genel hayvan yetiştiriciliği bilgisi sağlayabilir.",
+  "giris_kosullari": [
+   "İlköğretim mezunu olmak veya okuryazar olmak",
+   "Açılan kurslara katılım için genellikle belirli bir yaş şartını sağlamak",
+   "Fiziksel olarak hayvancılık işlerini yapabilecek durumda olmak"
+  ],
+  "sure_ve_icerik": "Örgün bir eğitim programı bulunmadığından belirli bir eğitim süresi yoktur. İŞKUR ve Halk Eğitim Merkezlerinin açtığı kurslar genellikle kısa süreli olup, keçi bakımı, besleme, sağım, üreme, doğum yardımı ve hayvan sağlığı gibi konuları içeren teorik ve uygulamalı eğitim verilir. Meslek, çoğunlukla işbaşında usta yanında deneyim kazanılarak öğrenilir.",
+  "belge": "Kurs ve programları tamamlayanlara katılım belgesi veya sertifika verilir; örgün bir diploma söz konusu değildir."
+ },
+ "calisma_alanlari": "Keçi yetiştiricileri, kendi işletmesi olan üreticiler olarak keçi sürüsü yetiştirip bundan et, süt, yün ve diğer ürünleri elde edebilirler. Bunun yanında özel çiftliklerde, hayvancılık işletmelerinde, tarım kooperatiflerinde ve besi/damızlık işletmelerinde ücretli olarak çalışabilirler. Kırsal kalkınma ve hayvancılık destekleme projeleri kapsamında da istihdam edilebilirler. İş bulma olanakları, bölgenin hayvancılık potansiyeline ve mevsimsel talebe göre değişiklik gösterir.",
+ "kazanc": {
+  "egitim_suresince": "Örgün bir eğitim programı bulunmadığından eğitim süresince düzenli bir ücret söz konusu değildir. Kurslara katılım genellikle ücretsiz olup, bazı kurslarda katılımcılara günlük harcırah veya benzeri destekler sağlanabilir.",
+  "egitim_sonrasi": [
+   "Ücretli olarak bir işletmede çalışanların kazancı, işin niteliğine ve deneyime göre değişmekle birlikte yeni başlayanlarda genellikle asgari ücret düzeyindedir.",
+   "Kendi işletmesinde keçi yetiştiriciliği yapanların kazancı; sürü büyüklüğü, ürün çeşidi (et, süt, yün/tiftik), piyasa koşulları ve işletme giderlerine göre önemli ölçüde değişir.",
+   "Deneyim ve işletme büyüklüğü arttıkça kazanç düzeyi de yükselme eğilimi gösterir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Örgün eğitimde doğrudan bir ilerleme basamağı bulunmamaktadır. Meslek mensupları, Halk Eğitim Merkezleri ve İŞKUR'un açtığı ileri düzey hayvancılık kurslarına, hayvan sağlığı, besicilik veya yetiştiricilik konulu eğitimlere katılarak bilgi ve becerilerini geliştirebilirler.",
+  "is_hayatinda": "Deneyim kazandıkça daha büyük sürülerin bakım ve yönetiminden sorumlu hale gelebilir, işletmede sorumlu/ustabaşı konumuna yükselebilir. Yeterli birikim ve bilgiye sahip olanlar kendi keçi yetiştiriciliği işletmesini kurabilir; süt ve ürünlerin işlenmesi (peynir, yoğurt, tiftik vb.) yönünde faaliyetlerini genişletebilir."
+ },
+ "benzer_meslekler": [
+  "Koyun Yetiştiricisi",
+  "Sığır Yetiştiricisi",
+  "Çoban/Sürü Yönetim Elemanı (Küçükbaş Hayvan)",
+  "Sağım İşçisi (Elle)",
+  "Çiftçi (Hayvancılık)",
+  "Manda Yetiştiricisi"
+ ],
+ "ek_bilgiler": "Keçi yetiştiriciliği, özellikle dağlık ve meralık arazilerin yaygın olduğu kırsal bölgelerde yürütülen bir faaliyettir. Et ve süt üretiminin yanında, tiftik keçisi gibi belirli ırklarda yün (tiftik) verimi de önem taşır. Mesleğin icrası için özel bir ruhsat veya zorunlu belge bulunmamakla birlikte, Mesleki Yeterlilik Kurumu (MYK) belgesi gibi sertifikalar istihdamda tercih sebebi olabilir.",
+ "gorevler": [
+  "Hayvan Yetiştirme İşçisi (Genel) mesleğinde belirtilen benzer işleri yapar.",
+  "Keçilerin bakımını, sağımını ve ağılların temizliğini yapar.",
+  "Ağılları kontrol edip, yem, ot ve su koyar.",
+  "Keçileri çiftleştirir.",
+  "Doğumu yaklaşan keçileri doğum bölümlerine alır.",
+  "Doğuma nezaret ederek gerekirse müdahale eder ve acil durumları ilgililere bildirir.",
+  "Keçilerin çiftleşme ve doğumu ile ilgili bilgileri kaydeder.",
+  "Doğan oğlaklara bakar.",
+  "Sağım zamanı keçilerin sağımını elle yapıp, sütleri güğümlere doldurarak ilgili yere gönderir.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T21:35:25",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5604
+  }
+ }
+}

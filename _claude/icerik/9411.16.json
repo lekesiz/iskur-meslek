@@ -1,0 +1,79 @@
+{
+ "arac_gerec": [
+  "Pide fırını (taş, odun veya elektrikli)",
+  "Fırın küreği (kürek)",
+  "Hamur yoğurma makinesi veya yoğurma teknesi",
+  "Hamur açma tezgahı/masası",
+  "Oklava",
+  "Bıçak ve kesme/porsiyonlama aletleri",
+  "Tartı/baskül",
+  "Un, maya, tuz gibi hammaddeler",
+  "Kıyma, kaşar, pastırma, sebze gibi harç malzemeleri ve saklama kapları",
+  "Çalışma ve servis tezgahları",
+  "Eldiven, önlük, bone gibi hijyen malzemeleri",
+  "Temizlik malzeme ve ekipmanları"
+ ],
+ "genel_ozellikler": [
+  "El becerisine sahip,",
+  "Dikkatli ve düzenli,",
+  "Fiziksel olarak dayanıklı, uzun süre ayakta çalışabilen,",
+  "Yüksek ısılı ortamda çalışmaya uygun,",
+  "Hijyen ve gıda güvenliği kurallarına duyarlı,",
+  "Hızlı ve pratik çalışabilen,",
+  "Takım çalışmasına uyumlu,",
+  "Emir ve talimatlara uyabilen"
+ ],
+ "calisma_ortami": "Pide ustası yardımcısı, pide salonu, restoran veya fast-food işletmelerinin mutfak/fırın bölümünde, kapalı ortamda çalışır. Çalışma ortamı fırının yaydığı ısı nedeniyle sıcak ve zaman zaman nemli olabilir; uzun süre ayakta kalma, eğilme ve hızlı hareket etme gerektirir. Keskin bıçaklar ve sıcak fırın yüzeyleriyle temas söz konusu olduğundan kesilme ve yanık riski bulunur, bu nedenle iş güvenliği kurallarına ve koruyucu donanıma dikkat edilmesi önemlidir.\n\nÇalışma genellikle pide ustasının gözetiminde ve ekip halinde yürütülür; mutfak personeli, pide ustası ve bazen servis elemanlarıyla sürekli iletişim gerektirir. İşletmenin yoğunluğuna bağlı olarak vardiyalı çalışma, hafta sonu ve resmi tatillerde çalışma söz konusu olabilir; yemek saatlerinde iş temposu artar.",
+ "gorevler": [
+  "Fırını yakar, fırını kullanıma hazır hale getirir.",
+  "Hijyen kurallarına uygun olarak çalışma ortamını hazırlar.",
+  "Pide hamurunu yoğurma, gramajını ayarlayarak pide sayısı kadar bölme vb. işlerde yardımcı olur.",
+  "Hamuru yapacağı pide çeşidine göre elleriyle açar.",
+  "Kıymalı, kaşarlı, patatesli, pastırmalı vb. harçları hazırlar.",
+  "Pide harcını pide hamuru üzerine yayar.",
+  "Uygun sıcaklıkta ve sürede pişirme işlemini yapar.",
+  "Pişen pideleri keserek porsiyonlar, servise hazır hale getirir.",
+  "Fırının ve kullandığı malzemelerin bakım ve temizliğini yapar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Pide ustası yardımcılığı için örgün eğitim kurumlarında ayrı bir meslek lisesi alanı/dalı bulunmamaktadır. Meslek genellikle işbaşında, pide ustasının yanında çalışılarak öğrenilmektedir. Ayrıca Halk Eğitim Merkezleri ile Türkiye İş Kurumu (İŞKUR) tarafından açılan yiyecek-içecek hazırlama alanındaki mesleki eğitim kurslarında da ilgili beceriler kazandırılabilmektedir.",
+  "giris_kosullari": [
+   "En az ilkokul mezunu olmak (mesleğin gerektirdiği minimum eğitim düzeyi)",
+   "Yoğun ve sıcak ortamda, ayakta çalışabilecek fiziksel ve sağlık koşullarına sahip olmak",
+   "Çalışılacak işyeri ile anlaşarak işbaşı eğitimine başlamak"
+  ],
+  "sure_ve_icerik": "Mesleğin standart bir örgün eğitim süresi ve içeriği bulunmamaktadır. Kişi genellikle işyerinde usta yanında, deneyim kazanarak ve uygulamalı olarak hamur hazırlama, harç yapma, pişirme ve porsiyonlama işlemlerini öğrenir. İŞKUR ve Halk Eğitim Merkezlerinde açılan kurslar ise genellikle birkaç haftadan birkaç aya kadar sürebilen, uygulamalı ve teorik bilgi içeren programlardır.",
+  "belge": "Örgün eğitime dayalı bir diploma veya belge bulunmamaktadır. Katılınan mesleki kurslardan kurs katılım belgesi/sertifikası alınabilir. Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Pide ustası yardımcıları; pide salonları, restoranlar, fast-food ve yiyecek-içecek işletmeleri, oteller, kafeterya ve toplu yemek hizmeti veren işletmelerin mutfak/fırın bölümlerinde pide ustasına yardımcı olarak çalışabilmektedir. İş bulma olanakları, pideci ve benzeri yiyecek işletmelerinin yoğun olduğu şehir merkezlerinde ve ilçelerde genellikle daha fazladır. Sektördeki personel devir hızının yüksek olması ve bu meslekte deneyim şartının görece düşük olması, yeni başlayanlar için istihdam olanağını kolaylaştırmaktadır.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğe yönelik standart bir örgün eğitim programı bulunmadığından ayrı bir eğitim dönemi ücreti yoktur. Kişi genellikle işbaşında çalışarak hem mesleği öğrenir hem de işveren ile yapılan anlaşmaya göre ücret alır; bu dönemde kazanç genellikle asgari ücret düzeyindedir.",
+  "egitim_sonrasi": [
+   "Özel sektörde çalışanların ücreti, işyerinin büyüklüğü, kişinin deneyimi, bilgi ve becerisi ile bölgeye göre değişmekle birlikte genellikle asgari ücret düzeyinde başlamaktadır.",
+   "Deneyim arttıkça ve pide ustalığına geçiş sağlandıkça kazanç düzeyi yükselebilmektedir.",
+   "Çalışılan işletmeye göre ikramiye veya bahşiş gibi ek kazançlar söz konusu olabilmektedir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğe özgü kademelenmiş resmi bir eğitim sistemi bulunmamaktadır. Kişi, Halk Eğitim Merkezleri ve İŞKUR'un açtığı yiyecek-içecek hazırlama alanındaki kurslara katılarak bilgi ve becerisini geliştirebilir; isterse örgün veya açık öğretim yoluyla genel eğitim düzeyini yükseltebilir.",
+  "is_hayatinda": "Deneyim ve beceri kazandıkça pide ustası yardımcılığından pide ustalığına, ileride usta başılığa ya da işletme sorumluluğuna, bazı durumlarda kendi işyerini açmaya kadar ilerleme sağlanabilmektedir."
+ },
+ "benzer_meslekler": [
+  "Pide Ustası",
+  "Lahmacun Ustası",
+  "Gözleme Ustası",
+  "Izgara Ustası Yardımcısı",
+  "Aşçı Yamağı (Çırağı)",
+  "Fast Food Hazırlayıcısı-Hamburger, Tost, Sandviç Vb."
+ ],
+ "ek_bilgiler": "Pide fırınlarının yüksek ısıda çalışması nedeniyle yanık, sıcak yağ/harç sıçramaları ve kesici aletlerden kaynaklanan yaralanma riskleri bulunmaktadır; bu nedenle iş sağlığı ve güvenliği kurallarına ve koruyucu donanımın (eldiven, önlük vb.) kullanımına dikkat edilmesi önemlidir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T20:40:17",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6146
+  }
+ }
+}

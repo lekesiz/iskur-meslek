@@ -1,0 +1,72 @@
+{
+ "arac_gerec": [
+  "Bilgisayar ve ilgili çevre birimleri",
+  "Hastane Bilgi Yönetim Sistemi (HBYS) yazılımları",
+  "ICD (Uluslararası Hastalık Sınıflandırması) kodlama kitapları ve yazılımları",
+  "Tıbbi terminoloji sözlükleri ve kodlama rehberleri",
+  "Elektronik hasta dosyası/arşiv sistemleri",
+  "Yazıcı ve tarayıcı",
+  "Veri girişi ve raporlama programları",
+  "Telefon ve iletişim araçları",
+  "Dosyalama ve arşivleme malzemeleri"
+ ],
+ "benzer_meslekler": [
+  "Tıbbi Kayıt Analisti",
+  "Tıbbi Kayıt Süpervizörü",
+  "Tıbbi Kayıt Elemanı",
+  "Tıbbi Kayıt Teknisyeni",
+  "Sağlık Bilgi Sistemleri Teknikeri",
+  "Sağlık Bilgi Elemanı"
+ ],
+ "calisma_alanlari": "Klinik Kodlayıcılar başta kamuya ve özel sektöre ait hastaneler, üniversite hastaneleri, tıp merkezleri ve poliklinikler olmak üzere, sağlık hizmeti sunulan her türlü kurum ve kuruluşun tıbbi kayıt, arşiv veya bilgi işlem birimlerinde çalışabilirler.\\n\\nBunun yanında Sosyal Güvenlik Kurumu (SGK) ile ilişkili faturalandırma ve geri ödeme birimlerinde, özel sağlık sigortası şirketlerinde, sağlık bilgi sistemleri ve yazılımları geliştiren firmalarda da istihdam edilebilmektedirler. Sağlık hizmetlerinde dijitalleşmenin ve veriye dayalı raporlamanın öneminin artması, bu meslek alanındaki iş olanaklarını olumlu yönde etkilemektedir.",
+ "calisma_ortami": "Klinik Kodlayıcılar genellikle hastane ve diğer sağlık kuruluşlarının tıbbi kayıt, arşiv veya bilgi işlem birimlerinde, büro ortamında ve çoğunlukla kapalı mekânlarda, bilgisayar başında oturarak çalışırlar. İş, uzun süre ekran karşısında dikkatli ve ayrıntılı inceleme gerektirdiğinden göz ve sırt yorgunluğu gibi fiziksel risklerle karşılaşılabilir. Çalışma sırasında hasta dosyaları ile birebir ilgilenildiğinden veri gizliliği ve hasta mahremiyetine özen gösterilmesi gerekir.\\n\\nMeslek mensupları çalışmaları sırasında hekimler, hemşireler, tıbbi sekreterler, sağlık bilgi sistemleri çalışanları ve kurum yöneticileri ile sürekli bilgi alışverişinde bulunur. Çalışma saatleri genellikle büro çalışma düzenine uygun olup, kurumun yapısına göre vardiyalı çalışma da söz konusu olabilir.",
+ "ek_bilgiler": "Klinik Kodlayıcıların çalışmaları sırasında hasta bilgilerinin gizliliğine ve kişisel sağlık verilerinin korunmasına ilişkin mevzuata uygun hareket etmeleri büyük önem taşır. Mesleki Yeterlilik Kurumu (MYK) belgesi veya ilgili alanda alınan sertifikalar, istihdamda tercih sebebi olabilir. Sağlık hizmetlerinde elektronik kayıt ve veriye dayalı yönetim uygulamalarının yaygınlaşması, bu alandaki iş gücü talebinin gelecekte artmasını beklenir kılmaktadır.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi, üniversitelere bağlı meslek yüksekokullarının tıbbi dokümantasyon ve ilgili sağlık bilgi yönetimi alanındaki ön lisans programlarında verilmektedir. Bunun yanında Halk Eğitim Merkezleri, meslek kuruluşları ve İŞKUR tarafından açılan klinik kodlama/ICD kodlama konulu mesleki eğitim kurslarıyla da bu alanda bilgi ve beceri kazanılabilmektedir.",
+  "giris_kosullari": [
+   "Ortaöğretim (lise ve dengi okul) mezunu olmak",
+   "Ön lisans programına girmek isteyenlerin YKS (Yükseköğretim Kurumları Sınavı) kılavuzunda belirtilen giriş koşullarını taşıması",
+   "Mesleki eğitim kurslarına katılmak isteyenlerin kurumların belirlediği genel şartları (yaş, öğrenim durumu vb.) taşıması"
+  ],
+  "sure_ve_icerik": "İlgili ön lisans programlarının süresi 2 yıldır. Eğitim süresince Tıbbi Terminoloji, Hastalık ve İşlem Sınıflandırma Sistemleri (ICD ve benzeri kodlama sistemleri), Tıbbi Dokümantasyon, Hasta Kayıt ve Arşiv Sistemleri, Sağlık Kurumlarında Bilgi Yönetimi, Sağlık Mevzuatı ve Temel Bilgisayar Kullanımı gibi derslere yer verilmektedir. Mesleki eğitim kurslarında ise genellikle ICD kodlama sistemleri, temel tıbbi terminoloji ve bilgisayar kullanımı konuları üzerinde yoğunlaşılır.",
+  "belge": "Ön lisans eğitimini başarıyla tamamlayanlara \"Ön Lisans Diploması\" verilir. Mesleki eğitim kurslarını tamamlayanlara ise kurs bitirme/katılım belgesi verilir."
+ },
+ "genel_ozellikler": [
+  "Dikkatli ve ayrıntıları gözden kaçırmayan,",
+  "Analitik düşünme becerisine sahip,",
+  "Okuduğunu iyi anlayan ve yorumlayabilen,",
+  "Sabırlı ve tekrarlı işlerde özenli çalışabilen,",
+  "Hasta bilgilerinin gizliliğine önem veren,",
+  "Sorumluluk sahibi ve güvenilir,",
+  "Bilgisayar kullanımına yatkın,",
+  "Sistemli ve düzenli çalışan"
+ ],
+ "gorevler": [
+  "Hasta dosyalarını inceleyerek tanı bilgilerini analiz eder,",
+  "Tanı ve işlemleri ICD kodlarına göre sınıflandırır,",
+  "Veri girişlerini sisteme işler,",
+  "Kodlama hatalarını kontrol eder,",
+  "İstatistiksel raporlama süreçlerine destek verir,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "İlgili ön lisans programını başarıyla tamamlayanlar, Dikey Geçiş Sınavı (DGS) ile başarılı oldukları takdirde kılavuzda belirtilen ilgili lisans programlarına (örneğin sağlık yönetimi, sağlık bilgi sistemleri gibi alanlar) geçiş yapabilirler.",
+  "is_hayatinda": "Mesleki bilgi ve tecrübesini artıran Klinik Kodlayıcılar, kıdemli kodlayıcı, kodlama sorumlusu/süpervizörü veya tıbbi kayıt ve arşiv biriminde yönetici gibi pozisyonlara yükselebilirler."
+ },
+ "kazanc": {
+  "egitim_suresince": "Ön lisans programında öğrenim gören öğrenciler, Kredi ve Yurtlar Genel Müdürlüğünün öğrenim kredisi ve yurt hizmetlerinden, ayrıca çeşitli resmi ve özel kurum/kuruluşların sağladığı burslardan yararlanabilirler. Mesleki eğitim kurslarına katılanlar için ise genellikle doğrudan bir kazanç söz konusu değildir.",
+  "egitim_sonrasi": [
+   "Kamu sektöründe memur statüsünde istihdam edilenler 657 sayılı Devlet Memurları Kanununa, işçi statüsünde çalışanlar ise ilgili toplu iş sözleşmesi hükümlerine göre ücret alırlar.",
+   "Özel sektörde çalışanların kazancı, işyerinin büyüklüğü, kişinin tecrübesi, bilgi ve becerisi ile sektörün ücret düzeyine göre değişebilir.",
+   "Mesleğe yeni başlayanların kazancı genellikle asgari ücret düzeyinde olmaktadır."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T12:20:57",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5633
+  }
+ }
+}

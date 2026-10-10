@@ -1,0 +1,77 @@
+{
+ "arac_gerec": [
+  "El arabası",
+  "Kazma",
+  "Kürek",
+  "Balyoz ve murç",
+  "Taş, toprak ve benzeri dolgu malzemeleri",
+  "Kama",
+  "Bağ direği (ahşap/metal direk)",
+  "Ray ve hava boruları",
+  "Balçık/harç hazırlama malzemeleri",
+  "Baret ve maden lambası",
+  "İş eldiveni ve iş ayakkabısı (çelik burunlu)",
+  "Toz/gaz maskesi",
+  "Gaz dedektörü",
+  "Kişisel koruyucu donanım (tulum, kulaklık vb.)"
+ ],
+ "genel_ozellikler": [
+  "Fiziksel olarak güçlü ve dayanıklı,",
+  "El ve bedensel beceriye sahip,",
+  "Dikkatli ve tedbirli,",
+  "Kapalı, dar ve nemli mekanlarda çalışmaktan çekinmeyen,",
+  "Ekip halinde çalışmaya uyumlu,",
+  "İş sağlığı ve güvenliği kurallarına titizlikle uyan,",
+  "Sorumluluk sahibi ve sabırlı"
+ ],
+ "calisma_ortami": "Dolgucu (Elle), yeraltı maden ocaklarının galeri, ocak ve tali kısımlarında çalışır. Çalışma ortamı genellikle dar, nemli, tozlu ve havalandırması sınırlı kapalı mekanlardır; gün ışığı görmeden yapay aydınlatma ile çalışılır. İş, fiziksel olarak ağırdır; eğilme, çömelme, ağır malzeme taşıma ve uzun süre ayakta durma gerektirir. Göçük, gaz birikimi, düşme ve sıkışma gibi riskler bulunduğundan baret, maden lambası, gaz maskesi ve diğer kişisel koruyucu donanımların eksiksiz kullanılması gerekir.\n\nÇalışma genellikle vardiya usulüyle yapılır ve hafta sonu çalışması söz konusu olabilir. Dolgucu, görevini ocak nezaretçisi, ustabaşı ve diğer maden işçileriyle birlikte ekip halinde yürütür; iş güvenliği talimatlarını aldığı amirleriyle sürekli irtibat halindedir.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin örgün bir meslek lisesi veya mesleki eğitim merkezi programı bulunmamaktadır. Mesleki beceriler genellikle işbaşında, deneyimli bir dolgucu veya usta yanında çalışılarak kazanılır. Ayrıca Halk Eğitim Merkezleri ile Türkiye İş Kurumu (İŞKUR) tarafından açılan mesleki eğitim kursları ve işletmelerin kendi bünyesinde verdiği iş güvenliği/oryantasyon eğitimleri de bu mesleğe yönelik bilgi ve beceri kazandırabilir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak,",
+   "18 yaşını doldurmuş olmak (yeraltı maden işlerinde çalışma için yaş şartı aranır),",
+   "Yeraltında ağır ve riskli koşullarda çalışmaya uygun sağlık durumuna sahip olmak (sağlık raporu ile belgelendirilir),",
+   "İşe alınacağı maden işletmesinin işçi alım sürecine katılmak."
+  ],
+  "sure_ve_icerik": "Mesleğin örgün eğitim içinde ayrı bir süresi ve müfredatı bulunmamaktadır. İşe yeni başlayanlar, işletme bünyesinde temel iş sağlığı ve güvenliği eğitimi aldıktan sonra belirli bir süre deneyimli bir dolgucu veya usta gözetiminde çalışarak mesleği öğrenir. Halk Eğitim Merkezleri ve İŞKUR tarafından açılan kurslarda da temel maden işçiliği, dolgu teknikleri ve iş güvenliği konularında kısa süreli eğitimler verilebilir.",
+  "belge": "Örgün eğitim sonunda diploma niteliğinde bir belge bulunmamaktadır. İşletme içi eğitimler sonunda katılım belgesi, kurs sonunda ise kurs bitirme belgesi verilebilir. Yeraltı maden işlerinde çalışacaklar için iş güvenliği eğitimi sertifikası alınması zorunludur. Mesleki Yeterlilik Kurumu (MYK) belgesi bulunması istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Dolgucu (Elle), kömür, metal ve diğer maden türlerinin çıkarıldığı yeraltı maden ocaklarında, kamuya veya özel sektöre ait maden işletmelerinde istihdam edilir. İş bulma olanağı, ülkedeki ve bölgedeki maden üretim faaliyetlerinin yoğunluğuna, açık/yeraltı ocak sayısına göre değişmektedir. Özellikle kömür havzalarının ve yeraltı maden işletmelerinin yoğun olduğu bölgelerde istihdam olanağı daha fazladır. Üretim yapılan galeri ve ocaklarda göçük önleme amaçlı dolgu işleri sürekli bir ihtiyaç olduğundan, bu meslek faal yeraltı işletmelerinde düzenli bir iş kolu oluşturur.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğe yönelik örgün bir eğitim süreci bulunmadığından ayrı bir eğitim dönemi ücreti yoktur. Kişi genellikle doğrudan işe alınarak işçi statüsünde çalışmaya başlar ve işbaşı eğitim sürecinde de ücret alır.",
+  "egitim_sonrasi": [
+   "Kamuya bağlı maden işletmelerinde işçi statüsünde çalışanlar, toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde çalışanların kazancı; işyerinin büyüklüğü, çalışma koşulları, kişinin tecrübesi ve bölgenin ücret düzeyine göre değişebilir.",
+   "Mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar; yeraltında çalışmaya bağlı olarak ek tazminat, prim veya yeraltı zammı gibi ödemeler söz konusu olabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğin kendine özgü bir örgün eğitim kademelenmesi bulunmamaktadır. Kişi isterse iş güvenliği uzmanlığı, nezaretçilik veya ustabaşılığa yönelik açılan kurs ve sertifika programlarına katılarak bilgi ve becerisini geliştirebilir.",
+  "is_hayatinda": "Deneyim kazandıkça dolgucu, daha deneyimli ekip üyesi, usta veya ekip lideri konumuna; işletme içinde gerekli eğitim ve belgeleri edinmesi durumunda ise ustabaşı veya nezaretçi gibi daha sorumluluk gerektiren görevlere yükselebilir."
+ },
+ "benzer_meslekler": [
+  "Direkçi - Maden",
+  "Lağımcı - Maden Ocağı",
+  "Kürekçi - maden ocağı",
+  "Takımcı - Maden",
+  "Sökümcü-Maden ve Taşocağı",
+  "Kırıcı - Maden"
+ ],
+ "ek_bilgiler": "Yeraltı maden işleri, iş sağlığı ve güvenliği mevzuatına göre \"çok tehlikeli işler\" sınıfında yer almaktadır; bu nedenle işe alım öncesinde sağlık muayenesi geçirilmesi ve iş güvenliği eğitimi alınması zorunludur.",
+ "gorevler": [
+  "Dolgu yapılacak kısmı gezer, dolgu şeklini tespit eder ve gerekli malzemeyi çalışma yerine getirir.",
+  "Çalışacağı kısımda gerekli emniyeti sağlamak için belirli mesafeler dışında kalan bağlı direklerini, ayrıca ray ve hava borularını söker.",
+  "Dolgu yapılacak kısma taş, toprak ve benzeri maddeleri el arabasıyla döker ve taşlarla duvar örer.",
+  "Ördüğü duvarın çökmemesi için emniyet bağ direkleriyle duvar arasına kamalar yerleştirir.",
+  "Hava cereyanını ve gaz kaçaklarını önlemek için ördüğü duvarı balçıkla sıvar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T19:37:45",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6214
+  }
+ }
+}

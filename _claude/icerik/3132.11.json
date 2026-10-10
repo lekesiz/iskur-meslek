@@ -1,0 +1,91 @@
+{
+ "arac_gerec": [
+  "SCADA (kumanda) sistemi ve bilgisayar",
+  "Kumanda panoları",
+  "Pompalar ve hidroforlar",
+  "Havalandırma/hava üfleyici sistemleri (aeratör, blower)",
+  "Karıştırıcılar ve çamur sıyırıcılar",
+  "Izgara ve elek sistemleri",
+  "Klor ünitesi ve dezenfeksiyon ekipmanları",
+  "Çamur susuzlaştırma ünitesi (dekantör)",
+  "Numune alma kapları ve örnekleyici cihazlar",
+  "pH metre ve su kalitesi ölçüm cihazları",
+  "Kimyasal dozajlama ekipmanları",
+  "Telsiz/cep telefonu",
+  "Kişisel koruyucu donanım (eldiven, çizme, maske, baret, koruyucu gözlük)",
+  "Temel el aletleri (anahtar takımı, pense vb.)"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve sorumluluk sahibi,",
+  "Takım çalışmasına uygun,",
+  "Fiziksel olarak sağlıklı ve dayanıklı,",
+  "Teknik alet ve ekipman kullanımına ilgili,",
+  "Kimyasal maddelerle çalışırken titiz ve tedbirli,",
+  "Gözlem yapma ve sorun tespit etme becerisine sahip,",
+  "Vardiyalı ve düzensiz çalışma saatlerine uyum sağlayabilen,",
+  "Hijyen ve iş güvenliği kurallarına duyarlı,"
+ ],
+ "calisma_ortami": "Atıksu Arıtma Operatörü, hem açık sahada (arıtma havuzları, ızgara üniteleri, pompa istasyonları) hem de kapalı mekanlarda (kontrol/SCADA odası, laboratuvar) çalışır. Saha çalışması sırasında nem, kötü koku, gürültü ve kimyasal maddelere (klor, dezenfektan vb.) maruziyet gibi risklerle karşılaşabilir; bu nedenle kişisel koruyucu donanım kullanımı önemlidir. Tesislerin 7/24 işletilmesi gerektiğinden genellikle vardiyalı çalışılır.\n\nÇalışma sırasında diğer operatörler, bakım-onarım ekipleri, mühendisler ve amirleriyle sürekli iletişim halindedir. Ani arıza veya deşarj kalitesinde sorun yaşanması durumunda hızlı ve dikkatli hareket edilmesi gerekebilir.",
+ "gorevler": [
+  "Arıtma tesisinin kumanda panolarını, pompalarını, tanklarını, havuzlarını, klor ünitesini, filtrelerini ve ızgaralarını, karıştırıcı ve çamur sıyırıcılarını, hava üfleyicisi ve hidroforu günlük olarak kontrol eder.",
+  "Proses ünitelerinin işletimini yapar.",
+  "Çamur arıtma ekipmanlarının sürekli çalışılabilirliğini sağlar.",
+  "Atıksu arıtma havuzlarının SCADA (kontrol odası) takibini yapar.",
+  "Numune alır.",
+  "Numunelerin parametrelerine bakar.",
+  "Sahadaki su akışlarını kontrol eder.",
+  "Arıtma için gerekli kimyasalları hazırlar ve suya ilave eder.",
+  "Suyu çöktürme havuzuna alır, filtreler ve dezenfekte eder.",
+  "Çamur havuzundaki çamuru susuzlaştırma ünitesine (dekantör) göndererek susuzlaştırıp ayrıştırır.",
+  "Her gün çıkış suyu pH kontrollerini yapar.",
+  "Tesis çıkış deşarj suyunda herhangi bir problemle karşılaşılması halinde yetkili amire bildirir.",
+  "Gerekli ünitelerin devreye alınması ve çıkarılmasını yapar.",
+  "Kazan kontrollerini gerçekleştirir.",
+  "Kaba ve ince ızgaraların işletimini, kontrolünü ve temizliğini yapar.",
+  "Pompa istasyonlarının işletimini yapar.",
+  "Hatların açıklığının görsel kontrolünü yapar.",
+  "Havuzların boşaltılması ve temizlenmesini yapar.",
+  "Gerekli ünitelerin devreye alınması ve çıkarılmasını yapar.",
+  "SCADA sistemi üzerinden arıza takibini yapar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi genellikle işyerlerinde işbaşında, usta-çırak ilişkisi içinde verilmektedir. Bunun yanında Halk Eğitim Merkezleri ile İŞKUR'un açtığı mesleki eğitim kurslarında ve ilgili mesleki ve teknik eğitim programlarında da (çevre teknolojileri, su ve atıksu teknolojileri gibi alanlarda) eğitim alınabilmektedir.",
+  "giris_kosullari": [
+   "En az ilköğretim (ilkokul/ortaokul) mezunu olmak.",
+   "İşin gerektirdiği fiziksel koşullara uygun, sağlıklı olmak.",
+   "Vardiyalı ve saha şartlarında çalışmaya uygun olmak."
+  ],
+  "sure_ve_icerik": "Eğitimin süresi ve içeriği, eğitimin verildiği kuruma, işletmenin büyüklüğüne ve kişinin bilgi birikimine göre değişkenlik gösterir. Genel olarak arıtma süreçlerinin işleyişi, kullanılan ekipmanların (pompa, havalandırma, çamur sıyırıcı, klor ünitesi vb.) çalışma prensipleri, numune alma ve temel su kalitesi parametrelerinin (pH, bulanıklık vb.) ölçümü, SCADA/kontrol sistemlerinin kullanımı, kimyasalların güvenli kullanımı ile iş sağlığı ve güvenliği konularında bilgi ve uygulama eğitimi verilir.",
+  "belge": "İşbaşı eğitimlerinde çoğunlukla resmi bir belge verilmez; kurs programlarında katılım/başarı belgesi düzenlenebilir. Mesleki Yeterlilik Kurumu (MYK) tarafından yapılan sınav ve belgelendirme, istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Atıksu Arıtma Operatörleri başta belediyelere bağlı su ve kanalizasyon idareleri (büyükşehir belediyeleri su ve kanalizasyon genel müdürlükleri gibi) olmak üzere, organize sanayi bölgelerinin ortak atıksu arıtma tesislerinde, çeşitli sanayi kuruluşlarının (gıda, tekstil, kimya, metal işleme vb.) kendi bünyesindeki arıtma ünitelerinde, oteller ve büyük yerleşimlerin paket arıtma tesislerinde istihdam edilebilirler. Kamuda bu görev genellikle memur veya işçi statüsünde; özel sektörde ise işçi statüsünde yürütülmektedir. Çevre ve su yönetimi alanındaki yatırımların artması, bu meslekte istihdam olanaklarını desteklemektedir.",
+ "kazanc": {
+  "egitim_suresince": "İşbaşı eğitim veya kurs dönemlerinde genellikle ayrı bir ücret ödenmez; işyerinde çalışarak eğitim alanlara ise asgari ücret düzeyinde ödeme yapılabilir.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında (belediyeler, su ve kanalizasyon idareleri) 657 sayılı Devlet Memurları Kanunu'na göre memur statüsünde veya ilgili toplu iş sözleşmesine bağlı işçi statüsünde çalışılabilir.",
+   "Özel sektörde ücret; işletmenin büyüklüğüne, kişinin tecrübesine ve sektöre göre değişmekle birlikte, mesleğe yeni başlayanlar için genellikle asgari ücret düzeyindedir; deneyim ve sorumluluk arttıkça ücret de yükselebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Deneyim kazanan operatörler, çevre ve su teknolojileri alanındaki ileri düzey kurs ve sertifika programlarına katılarak bilgi ve yeterliliklerini geliştirebilir; isteyen kişiler açık öğretim veya örgün eğitim yoluyla ilgili önlisans/lisans programlarına yönelerek tekniker veya mühendis unvanına ilerleyebilir.",
+  "is_hayatinda": "Tecrübe ve bilgi birikimine bağlı olarak vardiya amirliği, ekip şefliği veya tesis sorumluluğu gibi görevlere yükselme imkanı bulunmaktadır."
+ },
+ "benzer_meslekler": [
+  "Arıtma Tesisi İşletme Operatörü",
+  "Su Arıtma Tesisi İşletme Operatörü",
+  "Atıksu Pompa Operatörü",
+  "Su SCADA Operatörü",
+  "Çamur Susuzlaştırma Ünitesi Operatörü",
+  "Pompa İstasyonu Operatörü (Petrol ve Doğal Gaz Hariç)"
+ ],
+ "ek_bilgiler": "Atıksu arıtma tesislerinde klor ve benzeri dezenfektan kimyasallarla çalışma söz konusu olduğundan iş sağlığı ve güvenliği kurallarına, kişisel koruyucu donanım kullanımına özen gösterilmesi gerekir. Tesisin özelliğine göre bazı görevler tehlikeli veya çok tehlikeli işler kapsamında değerlendirilebilir; bu durumda ilgili periyodik sağlık kontrolleri ve eğitimler zorunlu olabilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T11:01:42",
+  "usage": {
+   "input_tokens": 4,
+   "output_tokens": 11947
+  }
+ }
+}

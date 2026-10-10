@@ -1,0 +1,27 @@
+{
+  "iskur_n": 7765,
+  "onet_profiles_used": 842,
+  "iskur_with_crosswalk": 7253,
+  "iskur_with_task_text": 7765,
+  "similarity_median": 0.7209439277648926,
+  "similarity_p10_cutoff": 0.6338385820388794,
+  "low_confidence_n": 771,
+  "holland_first_letter_counts": {
+    "R": 4472,
+    "I": 370,
+    "A": 313,
+    "S": 820,
+    "E": 979,
+    "C": 811
+  },
+  "leave_one_out_onet": {
+    "n": 842,
+    "median_r_riasec": 0.9697838519127079,
+    "median_r_values": 0.8714486592479866,
+    "median_r_bigfive": 0.9690271016000283,
+    "first_letter_agreement": 0.8040380047505938
+  },
+  "model": "sentence-transformers/paraphrase-multilingual-mpnet-base-v2",
+  "top_k": 3,
+  "crosswalk_bonus": 0.04
+}

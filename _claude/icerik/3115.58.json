@@ -1,0 +1,93 @@
+{
+ "arac_gerec": [
+  "CNC tezgâhı (torna, freze vb.)",
+  "Tezgâh kontrol paneli ve CNC kumanda ünitesi",
+  "Bilgisayar ve CAD/CAM yazılımları",
+  "Kesici takımlar (uç, freze, matkap, kılavuz vb.)",
+  "Takım tutucuları",
+  "Bağlama kalıbı (fikstür) ve mengene",
+  "Dijital kumpas, mikrometre, komparatör gibi ölçüm aletleri",
+  "Referans ve sıfırlama aparatları",
+  "Teknik resim ve iş emri dokümanları",
+  "İş güvenliği ekipmanları (koruyucu gözlük, eldiven, kulak koruyucu, iş elbisesi)",
+  "Temizlik ve bakım malzemeleri (yağlama ve soğutma sıvıları dahil)"
+ ],
+ "genel_ozellikler": [
+  "Sayısal ve mantıksal düşünme becerisine sahip,",
+  "Dikkatli, titiz ve sabırlı,",
+  "El-göz koordinasyonu iyi,",
+  "Bilgisayar ve teknolojik gelişmelere yatkın,",
+  "Sorumluluk duygusu gelişmiş,",
+  "Takım hâlinde çalışabilen,",
+  "Teknik resim ve ölçü okuma becerisine sahip,",
+  "Talimatlara uygun, düzenli çalışabilen"
+ ],
+ "calisma_ortami": "\"CNC Programcısı Yardımcısı, genellikle fabrika ve atölyelerin kapalı ortamlarında, CNC tezgâhlarının bulunduğu üretim bölümlerinde çalışır. Çalışma ortamında metal talaşı, yağ, soğutma sıvısı kokusu ve makine gürültüsü bulunabilir; bu nedenle kişisel koruyucu donanım kullanımı önemlidir. Çalışma büyük ölçüde tezgâh başında ayakta ve bilgisayar ekranı önünde geçer; dikkat ve konsantrasyon gerektirir.\\n\\nMeslek elemanı; usta başı, makine mühendisi, kalite kontrol personeli ve diğer tezgâh operatörleri ile yakın iş birliği içinde çalışır. İşletmenin üretim programına bağlı olarak gündüz mesaisi şeklinde veya vardiyalı çalışma düzeni söz konusu olabilir.\"",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi, mesleki ve teknik liselerin Makine Teknolojisi alanı bünyesindeki CNC ile ilgili dallarda (ör. CNC tezgâhları/programlama ile ilişkili dal ve derslerde) verilmektedir. Ayrıca Milli Eğitim Bakanlığına bağlı mesleki eğitim merkezleri, Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kurslarında da CNC programlama ve ilgili konularda eğitim ve kurslar düzenlenebilmektedir.",
+  "giris_kosullari": [
+   "Ortaokul mezunu olmak,",
+   "Milli Eğitim Bakanlığınca okul türüne ve alan/dala göre belirlenen giriş koşullarını taşımak,",
+   "Kurs yoluyla eğitim için ilgili kurumların aradığı yaş ve öğrenim şartlarını taşımak"
+  ],
+  "sure_ve_icerik": "Mesleki ve teknik liselerde eğitim süresi 4 yıldır. 9. sınıfta ortak genel kültür ve alanın temel dersleri okutulur, sonraki yıllarda alan/dal dersleriyle birlikte makine teknolojisi, teknik resim, bilgisayar destekli imalat (CAM) ve CNC programlama ile ilgili teorik ve uygulamalı dersler verilir. Eğitim; okulda teorik/uygulamalı, atölye ve işletmelerde ise uygulamalı olarak yürütülür. Lise sonrası veya farklı bir meslekten geçiş yapanlar için kurs süreleri ve içerikleri, kursu düzenleyen kuruma göre değişiklik gösterebilir.",
+  "belge": "Mesleki ve teknik lise eğitimini tamamlayanlara diploma verilir. Kurs yoluyla eğitim alanlara kursu düzenleyen kurum tarafından kurs bitirme belgesi/sertifika verilir. Mesleki Yeterlilik Kurumu (MYK) tarafından ilgili alanda düzenlenen Mesleki Yeterlilik Belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "\"CNC Programcısı Yardımcısı; makine imalat sanayi, metal işleme atölyeleri, kalıp imalathaneleri, otomotiv yan sanayi, makine ve yedek parça üretim tesisleri, havacılık ve savunma sanayi gibi CNC tezgâhlarının kullanıldığı özel sektör işletmelerinde istihdam edilebilir. Küçük ve orta ölçekli imalat işletmelerinin yoğun olduğu organize sanayi bölgelerinde iş bulma olanağı daha fazladır.\"",
+ "kazanc": {
+  "egitim_suresince": "Mesleki ve teknik lisede okuyan ve işletmelerde beceri eğitimi gören öğrencilere, 3308 sayılı Mesleki Eğitim Kanunu kapsamında asgari ücretin belirli bir oranından az olmamak üzere ücret ödenir; öğrencilerin iş kazası ve meslek hastalığı sigortası devletçe karşılanır. Kurs yoluyla eğitim alanlarda ise genellikle böyle bir ücret ödemesi söz konusu değildir.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanların kazancı genellikle asgari ücret düzeyindedir.",
+   "Kazanç; çalışılan işyerinin büyüklüğü, kişinin tecrübesi, bilgi ve becerisi ile sektörün ücret düzeyine göre değişebilir.",
+   "Özel sektörde ücret genellikle işveren ile çalışan arasındaki anlaşmaya bağlıdır."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleki ve teknik liselerin Makine Teknolojisi alanından mezun olanlar, YKS Kılavuzunda belirtilen makine, mekatronik, CNC teknolojisi gibi ilgili ön lisans programlarına ek puan ve kontenjan avantajıyla yerleşebilir; sınavda başarılı oldukları takdirde ilgili lisans programlarına da devam edebilirler. Ayrıca kurslar, seminerler ve hizmet içi eğitimlerle mesleki bilgi ve beceri geliştirilebilir.",
+  "is_hayatinda": "Deneyim ve bilgi birikimi arttıkça CNC Programcısı Yardımcısı, CNC Programcısı konumuna yükselebilir; zamanla vardiya sorumlusu, atölye şefi veya üretim planlama gibi görevlere getirilebilir. Kendi alanında uzmanlaşarak farklı tezgâh türlerinde (torna, freze, çok eksenli işleme merkezleri) çalışma imkânı elde edebilir."
+ },
+ "benzer_meslekler": [
+  "CNC Programcısı",
+  "Makine Teknisyeni",
+  "Bilgisayarlı Makine İmalatı Teknisyeni",
+  "Endüstriyel Mekanik Teknisyeni",
+  "Makine Teknikeri",
+  "Endüstriyel Kalıpçılık Teknikeri"
+ ],
+ "ek_bilgiler": "\"Üretimde otomasyon ve bilgisayar destekli imalat sistemlerinin yaygınlaşmasıyla birlikte CNC programlama bilgisine sahip nitelikli iş gücüne olan talep artış eğilimindedir. Mesleki Yeterlilik Kurumu (MYK) belgesine sahip olmak, iş bulma ve ilerlemede tercih sebebi olabilir.\"",
+ "gorevler": [
+  "İş sağlığı ve güvenliği, yangın ve acil durum kurallarını uygular.",
+  "Kalite yönetim sistemi dokümanlarına uygun çalışır.",
+  "İş organizasyonu yapar.",
+  "Çalışanlara ve diğer birimlere verilen işi takip eder.",
+  "İş parçası için kullanılacak takımları belirler.",
+  "Kesici uç belirler.",
+  "Takım tutucularını seçer.",
+  "Takımın özelliklerini tezgâha tanıtır.",
+  "Tezgâhın referans konumunu belirler ve gönderir.",
+  "İşlenecek parçanın referans konumunu belirler.",
+  "İşlenecek parçayı bağlama kalıbının (fikstürün) referans noktasına göre bağlar.",
+  "Parçanın üzerinde belirlenen referans noktasına göre program yazar.",
+  "Sıfırlama noktalarını değiştirir.",
+  "CNC kodlarını yazar.",
+  "Tezgâhın teknik özelliklerine göre program yazar.",
+  "Koordinat sistemlerine göre program yazar.",
+  "Kesme ve ilerleme hesaplarını yapar.",
+  "Kodlama sistemini belirler.",
+  "Talep edilen işin kodlarını sıralar.",
+  "İşlem basamaklarını belirler.",
+  "Hazırlanan programı simülasyon ile kontrol eder.",
+  "Programa göre tezgâhı test eder.",
+  "Tezgâhın parametre ayarlarını yapar.",
+  "Bilgisayar destekli imalat programı kullanır.",
+  "Mesleki gelişim faaliyetlerine katılır."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T09:29:44",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5446
+  }
+ }
+}

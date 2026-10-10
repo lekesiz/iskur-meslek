@@ -1,0 +1,78 @@
+{
+ "arac_gerec": [
+  "Sıcak su / kızgın su kazanı",
+  "Brülör ve yakıt besleme sistemi (doğalgaz, fuel-oil, kömür vb.)",
+  "Basınç göstergesi (manometre)",
+  "Sıcaklık göstergesi (termometre)",
+  "Su seviye göstergesi",
+  "Emniyet (güvenlik) valfleri",
+  "Sirkülasyon pompaları",
+  "Kontrol paneli / otomasyon sistemi",
+  "Anahtar takımları, tornavida, pense gibi el aletleri",
+  "Yağlama ekipmanları",
+  "Temizlik fırçası ve üstüpü",
+  "Yedek conta ve küçük yedek parçalar",
+  "Kişisel koruyucu donanım (eldiven, maske, baret, koruyucu gözlük)",
+  "İşletme kayıt/takip formları veya dijital izleme sistemi"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli,",
+  "Sorumluluk sahibi,",
+  "Fiziksel olarak sağlıklı ve dayanıklı,",
+  "Hızlı ve doğru karar verebilen,",
+  "Teknik konulara ilgili,",
+  "El ve göz koordinasyonu iyi,",
+  "Takım çalışmasına uyumlu,",
+  "Acil durumlarda sakin kalabilen,"
+ ],
+ "calisma_ortami": "Sıcak su kazanı operatörleri genellikle binaların bodrum katlarındaki veya tesislerin ayrı bir bölümünde bulunan kazan dairelerinde, kapalı mekânlarda çalışır. Çalışma ortamı sıcak, nemli ve zaman zaman gürültülü olabilir; yakıt kokusu ve makine-tesisat ile sürekli temas söz konusudur. Görev genellikle ayakta, bazen eğilerek veya dar alanlarda yapılır.\n\nKazanın sürekli işletildiği tesislerde vardiyalı veya nöbet usulü çalışma gerekebilir. Yanma, haşlanma, gaz sızıntısı gibi iş kazası riskleri bulunduğundan kişisel koruyucu donanım kullanımı ve iş güvenliği kurallarına uyum önemlidir. Çalışma sırasında tesis yöneticileri, bakım teknisyenleri ve iş güvenliği uzmanlarıyla iş birliği yapılır.",
+ "gorevler": [
+  "İş sağlığı ve güvenliği önlemlerini alır.",
+  "Çevre koruma mevzuatına uygun çalışır.",
+  "Kalite yönetim sistemi dokümanlarına uygun çalışır.",
+  "Kazanın çalışma öncesi ayarlarını yapar.",
+  "Kazanı çalıştırır.",
+  "Acil durumlarda müdahale eder.",
+  "Temizlik ve bakım işlemlerini yapar.",
+  "Mesleki gelişim faaliyetlerine katılır."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi; Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kurslarında, bazı mesleki ve teknik eğitim kurumlarının Tesisat Teknolojisi ve İklimlendirme gibi ilgili alanlarında verilebilir. Ayrıca işyerlerinde işbaşında usta yanında yetişme de yaygın bir yoldur.",
+  "giris_kosullari": [
+   "Okuryazar olmak",
+   "Halk eğitim merkezi kurslarına katılımda 18 yaşından büyük olmak veya küçükler için veli izni bulunması",
+   "İşin gerektirdiği fiziksel koşullara uygun ve sağlıklı olmak"
+  ],
+  "sure_ve_icerik": "Eğitim süresi kurumdan kuruma ve uygulanan programa göre değişmekle birlikte genellikle kısa süreli kurs programları şeklindedir. Kurs içeriğinde; kazan çeşitleri ve çalışma prensipleri, yanma ve ısı bilgisi, kullanılan yakıt türleri, kazan çalıştırma ve durdurma prosedürleri, temel bakım-onarım bilgisi, güvenlik sistemleri ile iş sağlığı ve güvenliği kuralları teorik ve uygulamalı olarak işlenir.",
+  "belge": "Eğitimi tamamlayanlara Kurs Bitirme Belgesi verilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Sıcak su kazanı operatörleri; sanayi tesisleri, fabrikalar, hastaneler, oteller, alışveriş merkezleri, toplu konutlar, okullar ve kamu binaları gibi merkezi ısıtma veya sıcak su sistemine sahip her türlü işletmenin kazan dairelerinde istihdam edilebilir. Tesis yönetimi ve enerji hizmetleri sunan firmalarda da çalışma alanı bulabilirler.",
+ "kazanc": {
+  "egitim_suresince": "Halk eğitim merkezi veya benzeri kurs programlarında eğitim süresince genellikle bir kazanç söz konusu değildir. İşbaşında usta yanında yetişenler, çalıştıkları işyerinden ücret alabilir.",
+  "egitim_sonrasi": [
+   "Özel sektörde genellikle asgari ücret düzeyinde işe başlanır; deneyim, işletmenin büyüklüğü ve kazan kapasitesine göre ücret artabilir.",
+   "Kamu kurumlarında işçi statüsünde çalışanların ücreti ilgili toplu iş sözleşmesi hükümlerine göre belirlenir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Deneyim kazandıkça daha büyük kapasiteli kazanların ve otomasyon sistemlerinin kullanıldığı tesislerde görev alabilir; ilgili kurs ve sertifika programlarıyla bilgi ve becerisini güncelleyebilir.",
+  "is_hayatinda": "Tecrübe ve bilgi birikimi arttıkça usta, ekip sorumlusu veya tesis/bakım sorumlusu gibi görevlere yükselebilir; isteyenler kendi işini kurabilir."
+ },
+ "benzer_meslekler": [
+  "Kalorifer Ateşçisi",
+  "Doğal Gaz Kalorifer Ateşçisi",
+  "Buhar Kazanı Operatörü/Kazan Ateşçisi",
+  "Kızgın Yağ Kazanı Operatörü",
+  "Atık Isı Kazanı Operatörü",
+  "Isıtma ve Havalandırma Cihazı Operatörü"
+ ],
+ "ek_bilgiler": "Kazan dairelerinde çalışma sırasında yanma, haşlanma ve gaz sızıntısı gibi risklere karşı iş güvenliği önlemlerine titizlikle uyulması gerekir. Bazı işyerleri, operatörlerden kazan işletme ile ilgili ek sertifika veya belge talep edebilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T17:09:00",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5129
+  }
+ }
+}

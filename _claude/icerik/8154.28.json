@@ -1,0 +1,78 @@
+{
+ "arac_gerec": [
+  "Yıkama makinesi",
+  "Buhar kazanı / buhar hattı",
+  "Su kazanı ve sıcaklık göstergeleri",
+  "Kimyasal madde (sabun, deterjan, asit, klor vb.) ölçme ve dozajlama kapları",
+  "Hassas terazi",
+  "Kılavuz kumaş ve dikiş iğnesi/makinesi",
+  "Durulama ve sıkma (santrifüj) makinesi",
+  "Numune alma aparatı",
+  "Taşıma arabası / transpalet",
+  "Kontrol panosu ve basınç göstergeleri",
+  "Kişisel koruyucu donanım (eldiven, önlük, çizme, gözlük, maske)"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve sorumluluk sahibi,",
+  "El becerisine sahip,",
+  "Fiziksel olarak dayanıklı,",
+  "Kimyasal maddelerle çalışmaya uygun sağlık durumuna sahip,",
+  "Talimatlara ve işlem sırasına uygun hareket edebilen,",
+  "Makine ve ekipman kullanımına yatkın,",
+  "İş sağlığı ve güvenliği kurallarına duyarlı,",
+  "Ekip çalışmasına uyumlu,"
+ ],
+ "calisma_ortami": "Yıkama makinesi işçisi (tekstil), tekstil terbiye/apre işletmelerinin yıkama bölümlerinde kapalı mekanda çalışır. Çalışma ortamı genellikle nemli, sıcak ve gürültülüdür; zemin ıslak ve kaygan olabilir. Kullanılan sabun, deterjan, asit, klor gibi kimyasal maddelerden kaynaklanan koku ve buhar ortamda bulunabileceğinden kişisel koruyucu donanım kullanımı önemlidir.\n\nMeslek elemanı, işletmenin üretim programına göre genellikle vardiyalı çalışır; ustabaşı, diğer makine operatörleri ve bakım personeli ile iş birliği içinde görev yapar. İşin niteliği nedeniyle ayakta durarak ve bazı aşamalarda ağır malzeme taşıyarak çalışılabilir.",
+ "egitim": {
+  "verildigi_yerler": "Yıkama makinesi işçisi (tekstil) için örgün eğitim veren ayrı bir okul alanı veya dalı bulunmamaktadır. Meslek, genellikle işbaşında usta yanında çalışılarak öğrenilir. Ayrıca Halk Eğitim Merkezleri ile İŞKUR'un açtığı mesleki eğitim kursları ve mesleki eğitim merkezlerinin tekstil teknolojisi alanına bağlı ilgili dallarında verilen eğitimler, bu mesleğe hazırlık niteliğinde olabilir.",
+  "giris_kosullari": [
+   "En az ilkokul mezunu olmak",
+   "Sağlık durumunun nemli, sıcak ve kimyasal madde içeren ortamda çalışmaya uygun olması",
+   "Çıraklık/kurs eğitimi alınacaksa ilgili mevzuatta belirtilen yaş koşulunu sağlamak"
+  ],
+  "sure_ve_icerik": "Mesleğin resmî olarak belirlenmiş sabit bir eğitim süresi ve müfredatı bulunmamaktadır. Çalışanlar genellikle işe alındıktan sonra usta yanında belirli bir süre uygulamalı olarak yetiştirilir. Bu süreçte makinenin çalıştırılması, su ve kimyasal madde dozajı, yıkama süresinin ayarlanması, mamulün kontrolü ve makine bakımı gibi konular öğretilir. Ayrıca kısa süreli mesleki eğitim kurslarına katılarak teorik bilgi edinilebilir.",
+  "belge": "İşyerinde edinilen deneyim ve varsa katılınan kurslar sonunda kurs katılım/başarı belgesi alınabilir. Mesleki Yeterlilik Kurumu (MYK) Mesleki Yeterlilik Belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Yıkama makinesi işçisi (tekstil), tekstil terbiye (apre) işletmeleri, kumaş yıkama ve boyama tesisleri, iplik ve örgü yünü yıkama bölümleri, denim/kot kumaş yıkama atölyeleri ile büyük tekstil fabrikalarının yıkama-terbiye bölümlerinde çalışabilir. Çalışma alanı genellikle özel sektör ağırlıklıdır; kamuda bu unvanla doğrudan istihdam yaygın değildir.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğe yönelik resmî bir çıraklık/örgün eğitim programı bulunmadığından, bu işte yetişenler genellikle işyerinde işçi statüsünde çalışarak ücret alır. Mesleki eğitim merkezi kapsamında çıraklık eğitimi alanlar için 3308 sayılı Mesleki Eğitim Kanunu'nda belirlenen oranlarda ücret ödenir.",
+  "egitim_sonrasi": [
+   "İşe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Deneyim, işletmenin büyüklüğü, vardiya düzeni ve performansa göre ücret artabilir.",
+   "Kamuda bu unvanla doğrudan istihdam yaygın olmadığından ücretler çoğunlukla özel sektördeki işveren-işçi anlaşmasına göre belirlenir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Çeşitli kurum ve kuruluşların düzenlediği mesleki eğitim kurslarına katılarak bilgi ve becerilerini geliştirebilir. İsteyen ve koşulları sağlayanlar açık öğretim yoluyla orta öğretimini tamamlayarak ilgili mesleki ve teknik eğitim programlarına ya da yükseköğretime yönelebilir.",
+  "is_hayatinda": "Deneyim kazanan çalışanlar, çalıştıkları işletmede usta, ustabaşı veya vardiya/bölüm sorumlusu düzeyine kadar ilerleyebilir."
+ },
+ "benzer_meslekler": [
+  "İplik ve Örgü Yünü Yıkama İşçisi",
+  "Denim (Jean) Kumaş Yıkama İşçisi",
+  "Boyama-Yıkama Makinesi Operatörü (Kumaş)",
+  "Mensucat Beyazlatıcı",
+  "Yaş Kumaş Açma Makinesi Operatörü",
+  "Tekstil Terbiye İşçisi"
+ ],
+ "ek_bilgiler": "Mesleğin uygulanması sırasında sabun, deterjan, asit, klor gibi kimyasal maddelerle doğrudan temas söz konusu olabileceğinden iş sağlığı ve güvenliği kurallarına ve kişisel koruyucu donanım kullanımına özellikle dikkat edilmesi gerekir. İşyerinin risk değerlendirmesine göre bu görev tehlikeli işler kapsamında değerlendirilebilir.",
+ "gorevler": [
+  "İşletmenin genel çalışma prensipleri doğrultusunda, araç, gereç ve ekipmanları etkin bir şekilde kullanarak, işçi sağlığı, iş güvenliği ve çevre koruma düzenlemelerine ve mesleğin verimlilik ve kalite gereklerine uygun olarak çalışır,",
+  "Yıkanacak mensucat ve diğer mamulleri makine üzerindeki kılavuzlardan geçirip, makinede takılı bulunan kılavuz kumaşın ucuna diker,",
+  "Makine kazanına belirli miktarda sıcak su alıp, aldığı soğuk suyu buhar göndermek suretiyle ısıtır,",
+  "Yıkama işleminin cinsine göre sabun, deterjan, asit, klor veya diğer kimyevi maddelerden hazırlanan karışımı su kazanına ilave eder,",
+  "Makineyi çalıştırıp, makinenin çalışmasını ve yıkanan mamulleri izler,",
+  "Yıkanan mamulü kontrol eder,",
+  "Kontrol neticesine göre yıkama işlemini uzatır veya durdurur,",
+  "Makineden çıkan mamulü durulayarak kurutulacağı veya başka bir işleme tabi tutulacağı yere gönderip, makineyi temizler,",
+  "Makinenin bakım ve onarımını yapar,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T14:29:44",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6085
+  }
+ }
+}

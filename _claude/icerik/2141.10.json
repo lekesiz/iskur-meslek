@@ -1,0 +1,71 @@
+{
+ "arac_gerec": [
+  "Bilgisayar ve ofis yazılımları (kelime işlemci, hesap tablosu, sunum programları)",
+  "Veri analizi ve istatistik yazılımları",
+  "İş ve zaman etüdü formları, kronometre",
+  "Üretim akış şemaları ve süreç haritalama araçları",
+  "Proje yönetim yazılımları",
+  "Ölçüm cihazları (sayaç, kronometre, veri toplama cihazları)",
+  "Yalın üretim ve kalite yönetimi şablonları (5S, Kaizen, Altı Sigma formları)",
+  "Yazıcı, tarayıcı ve sunum ekipmanları",
+  "Raporlama ve gösterge paneli (dashboard) uygulamaları"
+ ],
+ "benzer_meslekler": [
+  "Endüstri Mühendisi",
+  "Diğer Endüstri Mühendisleri",
+  "İşletme Mühendisi",
+  "Etüt ve Zamanlama Mühendisi",
+  "Metot Mühendisi",
+  "Üretim ve Planlama Mühendisi",
+  "Kalite Kontrol Mühendisi"
+ ],
+ "calisma_alanlari": "Verimlilik uzmanları, üretim yapan özel sektör işletmelerinde (otomotiv, tekstil, gıda, elektronik, makine imalatı gibi sanayi kollarında), lojistik ve hizmet sektörü firmalarında, danışmanlık şirketlerinde, holding bünyesindeki süreç geliştirme veya iş mükemmelliği birimlerinde, kamu iktisadi teşekküllerinde ve büyük ölçekli kamu kurumlarının süreç iyileştirme birimlerinde çalışabilirler.\n\nMesleğin iş bulma olanağı, işletmelerin verimlilik ve maliyet düşürme çalışmalarına verdiği önemin artmasına paralel olarak gelişmektedir. Büyük ve orta ölçekli üretim işletmelerinde bu alanda uzmanlaşmış personele duyulan ihtiyaç giderek yükselmektedir.",
+ "calisma_ortami": "Verimlilik uzmanları çalışmalarının bir bölümünü büro ortamında bilgisayar başında veri analizi, raporlama ve sunum hazırlığı yaparak; önemli bir bölümünü de üretim sahasında, atölye veya fabrika ortamında gözlem, ölçüm ve süreç inceleme yaparak geçirirler. Saha çalışmaları sırasında gürültülü, bazen tozlu veya yağlı ortamlarda bulunabilirler ve iş güvenliği kurallarına uymaları gerekir.\n\nÇalışma saatleri genellikle tam zamanlı ve düzenlidir; ancak üretim süreçlerinin takibi, proje teslim tarihleri veya vardiyalı çalışan işletmelerde gerekirse mesai saatleri dışında da çalışma yapılabilir. Üst yönetim, üretim mühendisleri, kalite ve bakım birimleri, iş güvenliği uzmanları ile saha çalışanları gibi farklı kademelerden kişilerle sürekli iş birliği içinde çalışırlar.",
+ "egitim": {
+  "verildigi_yerler": "Verimlilik Uzmanlığı için ayrı ve bağımsız bir lisans programı bulunmamaktadır. Bu meslek genellikle üniversitelerin \"Endüstri Mühendisliği\" veya \"İşletme Mühendisliği\" bölümlerinden mezun olan kişilerin, üretim ve süreç iyileştirme alanında uzmanlaşarak yürüttüğü bir çalışma alanıdır.",
+  "giris_kosullari": [
+   "Lise veya dengi okul mezunu olmak",
+   "YKS (Yükseköğretim Kurumları Sınavı) kılavuzunda belirtilen giriş koşullarını taşımak ve ilgili mühendislik bölümlerinden birini tercih etmek"
+  ],
+  "sure_ve_icerik": "Eğitim süresi lise ve dengi okuldan sonra 4 yıl, hazırlık sınıfı bulunan üniversitelerde ise 5 yıldır. Eğitim süresince iş ve zaman etüdü, üretim planlama ve kontrol, yöneylem araştırması, yalın üretim, kalite yönetimi, istatistik, mühendislik ekonomisi ve proje yönetimi gibi dersler verilir; genellikle staj zorunluluğu bulunmaktadır. Mezuniyet sonrasında işletmelerde verimlilik ve süreç iyileştirme alanında deneyim kazanılarak ve istenirse Yalın Üretim, Altı Sigma gibi kurumsal eğitim kurumlarının verdiği ek sertifika programlarıyla bu alanda uzmanlaşılır.",
+  "belge": "Eğitimini başarı ile tamamlayanlara lisans diploması (Endüstri Mühendisi veya İşletme Mühendisi unvanı) verilir. Yalın Üretim, Altı Sigma gibi ek sertifikalar ve Mesleki Yeterlilik Kurumu (MYK) belgeleri istihdamda tercih sebebi olabilir."
+ },
+ "ek_bilgiler": "\"Verimlilik Uzmanı\" unvanı, bağımsız ve resmî bir eğitim programına dayanan bir meslek olmaktan çok, genellikle endüstri veya işletme mühendisliği mezunlarının üretim süreçlerinin iyileştirilmesi alanında uzmanlaşarak üstlendiği bir görev alanıdır. Yalın Üretim, Altı Sigma gibi ek sertifikaların yanı sıra Mesleki Yeterlilik Kurumu (MYK) belgeleri iş bulmada tercih sebebi olabilir.",
+ "genel_ozellikler": [
+  "Analitik düşünme ve sayısal/matematiksel yeteneğe sahip,",
+  "Sorun çözme becerisi gelişmiş,",
+  "Dikkatli ve iyi bir gözlemci,",
+  "Etkili iletişim ve ikna becerilerine sahip,",
+  "Ekip çalışmasına uygun,",
+  "Planlı ve düzenli çalışabilen,",
+  "Değişime açık ve yeni yöntemleri öğrenmeye istekli,",
+  "Sorumluluk duygusu gelişmiş"
+ ],
+ "gorevler": [
+  "İş etüdü, zaman etüdü ve metot analizleri yapar,",
+  "Üretim hatlarındaki darboğazları tespit eder ve çözüm üretir,",
+  "Maliyet düşürme ve verimlilik artırma projelerini yönetir,",
+  "Yalın üretim ve kalite kontrol sistemlerini uygular,",
+  "Süreç iyileştirme raporlarını yönetime sunar,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Mezunlar, endüstri mühendisliği veya işletme mühendisliği alanında yüksek lisans ve doktora yaparak akademik kariyere yönelebilir; üniversitelerde araştırma görevlisi, doktor öğretim üyesi, doçent ve profesör unvanlarına yükselme olanağına sahiptirler. Ayrıca Yalın Üretim, Altı Sigma gibi alanlarda ileri düzey sertifika programlarına devam ederek uzmanlıklarını geliştirebilirler.",
+  "is_hayatinda": "İşletmelerde kıdemli verimlilik uzmanı, süreç iyileştirme uzmanı/yöneticisi, üretim planlama müdürü veya operasyon müdürü gibi kademelere yükselebilirler. Deneyim ve başarıya bağlı olarak genel müdür yardımcılığı gibi üst düzey yönetim kademelerine ulaşabilir ya da danışmanlık alanında kendi işlerini kurabilirler."
+ },
+ "kazanc": {
+  "egitim_suresince": "Meslek eğitimi süresince öğrenciler, Kredi ve Yurtlar Genel Müdürlüğünün sağladığı öğrenim kredisi ve yurt hizmetlerinden; ayrıca çeşitli resmi ve özel kurum/kuruluşlar tarafından sağlanan burslardan yararlanabilirler.",
+  "egitim_sonrasi": [
+   "Kamu kurum ve kuruluşlarında 657 sayılı Devlet Memurları Kanunu'na bağlı olarak çalışanlar, ilgili hizmet sınıfının ücretini alır; ek olarak zam ve tazminatlardan yararlanırlar.",
+   "Özel sektörde ücret; işyerinin büyüklüğü, faaliyet gösterilen sektör, çalışanın deneyimi ve yürütülen projelerin kapsamına göre değişiklik gösterir; yeni başlayanlar için genellikle asgari ücret düzeyinin üzerinde bir ücretle işe başlanır ve deneyim arttıkça kazanç yükselir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-07T21:14:00",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5490
+  }
+ }
+}

@@ -1,0 +1,77 @@
+{
+ "arac_gerec": [
+  "Teknik resim araçları (cetvel, gönye, pergel, iletki)",
+  "Ahşap işleme el aletleri (testere, çekiç, rende, zımpara)",
+  "Ahşap model/kalıp malzemeleri",
+  "Plastik hammadde (reçine, granül vb.)",
+  "Isıtma/ergitme fırını veya kazanı",
+  "Döküm kalıp kutuları ve kalıplama ekipmanları",
+  "Eğe",
+  "Freze tezgahı",
+  "Torna tezgahı",
+  "Tesviye el aletleri",
+  "Ölçü ve kontrol aletleri (kumpas, mikrometre, mastar)",
+  "Kişisel koruyucu donanım (eldiven, gözlük, maske, önlük)"
+ ],
+ "genel_ozellikler": [
+  "El ve göz koordinasyonu iyi,",
+  "Teknik resim okuyabilen ve gerektiğinde çizebilen,",
+  "Üç boyutlu düşünme yeteneğine sahip,",
+  "El becerisi gelişmiş,",
+  "Dikkatli ve sabırlı,",
+  "Ölçme ve kontrol işlemlerine özen gösteren,",
+  "Yüksek ısı ile çalışmaya uygun sağlık durumuna sahip,",
+  "Takım çalışmasına uyumlu"
+ ],
+ "calisma_ortami": "Modelci (Plastik), genellikle plastik ürün imal eden işletmelerin kalıp/model atölyelerinde, kapalı mekânda çalışır. Çalışma ortamında ahşap talaşı ve tozu, ergitilmiş plastik malzemeden kaynaklanan koku ve ısı, tesviye ve kesme aletlerinin kullanımına bağlı gürültü bulunabilir; bu nedenle kişisel koruyucu donanım kullanımı önemlidir. Çalışma genellikle ayakta ve belirli bir iş istasyonunda, günlük mesai saatleri içinde yürütülür.\n\nİş sırasında teknik ressam/mühendis, atölye ustabaşısı, kalite kontrol elemanları ve diğer makine operatörleriyle iletişim kurar. İşin niteliğine göre dikkatli ve düzenli çalışma, iş güvenliği kurallarına uyum gerektirir.",
+ "calisma_alanlari": "Modelci (Plastik), başta plastik enjeksiyon ve döküm yoluyla parça üreten işletmeler olmak üzere; kalıp ve model imalat atölyelerinde, otomotiv yedek parça, beyaz eşya, oyuncak, ambalaj ve benzeri sektörlere hizmet veren plastik işleme fabrikalarında çalışma alanı bulabilir. İstihdam, genellikle küçük ve orta ölçekli özel sektör atölye ve işletmelerinde, kalıp/model hazırlama bölümlerinde gerçekleşir. Plastik sektörünün ülkemizde yaygınlaşması ve sanayi üretiminde plastik parça kullanımının artması, bu mesleğe olan ihtiyacı sürdürmektedir.",
+ "kazanc": {
+  "egitim_suresince": "Bu meslek için örgün ve resmî bir çıraklık/mesleki eğitim programı bulunmadığından, meslek genellikle işbaşında usta yanında veya kısa süreli kurslarla öğrenilir. İşbaşında eğitim alan kişilere işveren tarafından ödenen ücret, çoğunlukla asgari ücret düzeyinde veya altında olabilir; bu durum işyerinin uygulamasına göre değişir.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanların kazancı genellikle asgari ücret düzeyindedir.",
+   "Deneyim, bilgi, beceri ve çalışılan işyerinin büyüklüğüne göre kazanç artabilir.",
+   "Özel sektörde çalışanların ücreti işveren ile karşılıklı anlaşmaya göre belirlenir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğin örgün bir mesleki eğitim programı bulunmadığından, ilerleme genellikle Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kursları, işletme içi eğitimler ve işbaşında usta yanında kazanılan deneyimle sağlanır. İsteyenler ilgili mesleki ve teknik eğitim programlarına veya yükseköğretime yönelerek bilgi ve becerilerini geliştirebilir.",
+  "is_hayatinda": "Deneyim kazanan modelciler, kalıp/model atölyelerinde ustabaşı veya bölüm sorumlusu konumuna yükselebilir. Yeterli bilgi, sermaye ve müşteri çevresine sahip olanlar kendi model/kalıp atölyelerini kurabilir."
+ },
+ "benzer_meslekler": [
+  "Plastik Modelleme Elemanı",
+  "Plastik Enjeksiyon Kalıpçısı",
+  "Termoset Plastik Kalıpçısı",
+  "Plastik Ekstrüzyon Kalıpçısı",
+  "Plastik Şişirme Kalıpçısı",
+  "Plastik İşlemeci"
+ ],
+ "ek_bilgiler": "Isıyla ergitilmiş malzeme ve tesviye aletleriyle çalışma, iş sağlığı ve güvenliği açısından dikkat gerektirir; bu nedenle Mesleki Yeterlilik Kurumu (MYK) belgesi veya iş güvenliği eğitim sertifikaları istihdamda tercih sebebi olabilir.",
+ "egitim": {
+  "verildigi_yerler": "Modelci (Plastik) mesleği için örgün ve standart bir mesleki eğitim programı (lise/çıraklık dalı) bulunmamaktadır. Meslek, genellikle plastik ürün imal eden işletmelerde işbaşında usta yanında veya Halk Eğitim Merkezleri ile İŞKUR'un açtığı mesleki eğitim kurslarında kazanılmaktadır.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak,",
+   "El ve göz koordinasyonu iyi olmak,",
+   "Mesleğin gerektirdiği fiziksel ve sağlık koşullarına uygun olmak,",
+   "İşbaşı eğitim verecek bir işyeri ile anlaşmak (işbaşında eğitimde)"
+  ],
+  "sure_ve_icerik": "Resmî olarak belirlenmiş bir eğitim süresi bulunmamaktadır; işbaşında eğitim süresi işletmenin uygulamasına ve kişinin gelişimine göre değişir. Eğitim içeriği; teknik resim okuma, ahşap model (kalıp) hazırlama, plastik malzeme hazırlama ve döküm teknikleri, tesviye işlemleri (eğeleme, frezeleme, tornalama) ve ölçü-kontrol işlemlerini kapsar.",
+  "belge": "Örgün eğitim sonunda verilen resmî bir diploma bulunmamaktadır. Katıldığı kurslar sonunda kurs bitirme/katılım belgesi alabilir; işyerinde edindiği deneyim işveren referansı niteliğindedir."
+ },
+ "gorevler": [
+  "Yapılması istenen makine parçasının teknik ve yapısal özelliklerini gösteren resimlerini çizer veya çizilmiş resmi anlamaya çalışır.",
+  "Parçanın yapımında kullanılacak plastik malzemenin cinsini ve miktarını saptayarak hazırlar.",
+  "Makine parçalarının, teknik resim ölçülerine göre ahşap modelini (kalıbını) hazırlar.",
+  "Ahşap modelden plastik modeli yapar.",
+  "Tamamlanan modelin eğe, freze, torna ve benzeri tesviye aletleriyle düzeltme ve temizleme işlemlerini yapar veya yaptırır.",
+  "Ölçü aletleriyle iş parçasının istenen niteliklere sahip olup olmadığını kontrol eder.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T12:53:08",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 4756
+  }
+ }
+}

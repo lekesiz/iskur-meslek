@@ -1,0 +1,77 @@
+{
+ "arac_gerec": [
+  "Döner Waelz fırını ve besleme sistemi",
+  "Dozajlama/tartım terazileri",
+  "Konveyör ve besleyici ekipmanları",
+  "Proses sıcaklığı ve operasyonel parametre izleme panelleri",
+  "Toz toplama ve filtrasyon sistemi (siklon, torba filtre, elektrofiltre)",
+  "Cüruf taşıma ekipmanları (yükleyici, kepçe, konveyör)",
+  "İş makineleri (forklift, loder)",
+  "El aletleri (kürek, maşa, anahtar takımı)",
+  "Numune alma ekipmanları",
+  "Kişisel koruyucu donanım (toz maskesi/solunum koruyucu, eldiven, koruyucu gözlük, baret, çelik burunlu ayakkabı, kulaklık, iş elbisesi)",
+  "Vardiya rapor ve kayıt formları/sistemleri"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve sorumluluk sahibi,",
+  "Fiziksel olarak güçlü ve dayanıklı,",
+  "Yüksek sıcaklık ve tozlu ortamda çalışmaya uyumlu,",
+  "El ve beden koordinasyonu iyi,",
+  "Talimatlara titizlikle uyan,",
+  "Ekip çalışmasına yatkın,",
+  "Vardiyalı çalışma düzenine uyumlu,",
+  "Acil durumlarda hızlı ve doğru karar verebilen,"
+ ],
+ "calisma_ortami": "Waelz prosesi saha işçisi, çinko içeren atıkların işlendiği fabrika ve tesislerin saha bölümünde, döner fırın çevresinde çalışır. Çalışma ortamı yüksek sıcaklık, toz ve orta-yüksek düzeyde gürültü içerir; proses sırasında ağır metal tozu ve kimyasal maddelere maruziyet riski bulunduğundan kişisel koruyucu donanımların eksiksiz kullanılması gerekir. İş genellikle ayakta, fiziksel güç gerektiren hareketli bir tempoda yürütülür.\n\nÇalışma vardiyalı düzende sürdürülür. Meslek elemanı, sahada diğer saha işçileri, operatörler, vardiya amirleri ve iş güvenliği sorumlularıyla sürekli iletişim halinde ekip çalışması içinde görev yapar.",
+ "ek_bilgiler": "Waelz prosesi, yüksek sıcaklıkta işlem gerektiren, toz ve ağır metal maruziyeti riski taşıyan bir süreçtir. Bu nedenle mesleğin icrası, yürütüldüğü işletmenin risk değerlendirmesine bağlı olarak tehlikeli veya çok tehlikeli işler kapsamında değerlendirilebilir; kişisel koruyucu donanımların eksiksiz ve sürekli kullanılması büyük önem taşır. Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda tercih sebebi olabilir.",
+ "gorevler": [
+  "Waelz fırınına beslenecek çinko içeren atık malzemeleri hazırlar ve dozajlar.",
+  "Döner fırının besleme sistemini kontrol eder ve düzenli çalışmasını sağlar.",
+  "Proses sıcaklığını ve diğer operasyonel parametreleri izler.",
+  "Fırından çıkan çinko oksit tozunun toplanmasında görev alır.",
+  "Proses artığı olarak oluşan cürufu uzaklaştırır ve depolama alanına taşır.",
+  "Saha ekipmanlarının rutin bakımlarını yapar ve arızaları bildirir.",
+  "Çevre ve iş güvenliği prosedürlerine sıkı şekilde uyar ve koruyucu ekipman kullanır.",
+  "Üretim kayıtlarını tutar ve vardiya raporlarını hazırlar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "calisma_alanlari": "Mesleğin gerektirdiği yeterlilikleri kazanan bireyler; çinko, kurşun gibi metallerin atıklardan geri kazanımını yapan tesislerde, demir çelik tozu işleme ve metal geri dönüşüm fabrikalarında, waelz fırını işleten üretim tesislerinin saha bölümlerinde çalışabilirler.",
+ "egitim": {
+  "verildigi_yerler": "Bu meslek için standart, resmî olarak tanımlanmış bir meslek eğitim programı bulunmamaktadır. Meslek genellikle işbaşında usta yanında uygulamalı olarak öğrenilir. Halk Eğitim Merkezleri'nin ve mesleki eğitim kurumlarının kimya teknolojisi veya metalurji teknolojisi alanındaki genel kursları temel bilgi düzeyinde destek sağlayabilir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "18 yaşını doldurmuş olmak",
+   "İşin gerektirdiği fiziksel ve psikomotor yeterliğe sahip olmak",
+   "Vardiyalı ve ağır çalışma koşullarına sağlık açısından uygun olmak"
+  ],
+  "sure_ve_icerik": "Belirli ve standart bir eğitim süresi bulunmamaktadır. Meslek elemanları, işe başlamadan önce iş sağlığı ve güvenliği eğitimi alır; ardından işbaşında usta yanında çinko içeren atık malzemelerin hazırlanması ve dozajlanması, fırın besleme sisteminin işletilmesi, proses parametrelerinin izlenmesi, toz toplama ve cüruf yönetimi gibi konularda uygulamalı olarak beceri kazanır.",
+  "belge": "Örgün bir eğitim programı sonunda verilen standart bir diploma veya sertifika bulunmamaktadır. İşe giriş ve çalışma süresince alınan iş sağlığı ve güvenliği eğitimlerine ilişkin katılım belgeleri düzenlenebilir. Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Standart bir örgün eğitim programı bulunmadığından eğitim süresince ayrıca bir kazanç söz konusu değildir; işbaşında eğitim alan çalışanlara işletmenin belirlediği ücret ödenebilir.",
+  "egitim_sonrasi": [
+   "Ücret, çalışılan işletmeye, deneyime ve çalışma koşullarına göre değişmekle birlikte yeni başlayanlar için genellikle asgari ücret düzeyindedir.",
+   "Deneyim, sorumluluk ve nitelik arttıkça ücret düzeyi artabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Bu meslekte örgün, standart bir ilerleme basamağı bulunmamaktadır. Meslek elemanları, ilgili kurum ve kuruluşların açtığı iş güvenliği ve teknik kurslara katılarak bilgi ve becerilerini geliştirebilirler.",
+  "is_hayatinda": "Bilgi, beceri ve deneyimlerine göre iş hayatında ilerleyebilirler. Deneyim arttıkça usta, ekip lideri, vardiya amiri veya saha şefi gibi unvanlar alarak yükselme imkanı bulabilirler."
+ },
+ "benzer_meslekler": [
+  "Pişirici (Kimyasal ve İlgili İşlemler)",
+  "Kavurucu (Kimyasal ve İlgili İşlemler)",
+  "Fırın Operatörü (Çimento)",
+  "Fırın Operatörü (Elektrot Pişirme)",
+  "Proses İşçisi",
+  "Kurutma Makinesi Operatörü-Kimyasal ve İlgili İşlemler"
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T12:33:53",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5553
+  }
+ }
+}

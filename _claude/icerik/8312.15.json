@@ -1,0 +1,86 @@
+{
+ "arac_gerec": [
+  "İletişim araçları (telsiz, telefon, GSM-R)",
+  "Sinyalizasyon ve telekomünikasyon test/ölçüm cihazları (multimetre, ohmmetre vb.)",
+  "El feneri",
+  "El kitapları, mevzuat ve talimat kılavuzları",
+  "Bilgisayar ve raporlama/kayıt programları",
+  "Denetim ve turne raporu formları",
+  "İşaret bayrakları ve işaret levhaları",
+  "Kumanda anahtarı, kare anahtar, makas çevirme kolu",
+  "Tevkif takozu",
+  "Kişisel koruyucu donanım (baret, reflektörlü yelek, iş elbisesi)",
+  "Turne denetimlerinde kullanılan lokomotif veya oto drezin/servis aracı"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli, sorumluluk sahibi ve kurallara bağlı çalışabilen,",
+  "Analitik düşünebilen ve teknik arızalara hızlı çözüm üretebilen,",
+  "Elektrik-elektronik ve telekomünikasyon sistemlerine ilgili ve bu alanda bilgi sahibi,",
+  "Sözlü ve yazılı iletişimi iyi, rapor hazırlama becerisine sahip,",
+  "Ekip çalışmasına uyumlu ve denetim/koordinasyon yapabilen,",
+  "Değişken ve seyahat gerektiren çalışma koşullarına uyum sağlayabilen,",
+  "Acil ve stresli durumlarda soğukkanlı kalabilen,",
+  "Yüksekliğe, açık hava koşullarına ve saha çalışmasına fiziksel olarak uygun"
+ ],
+ "calisma_ortami": "Tesisler Kontrolörü (Demiryolu), görevinin bir kısmını gar ve istasyonlardaki büro ve kontrol odalarında, bir kısmını da hat boyunda, istasyonlarda ve tesislerde açık havada yürütür. Turne denetimleri sırasında tren, lokomotif veya oto drezinle seyahat eder; bu nedenle görev süresince hareket halinde ve farklı lokasyonlarda bulunabilir. Çalışma sırasında elektrik akımına, hareketli araç ve vagonlara, gürültü ve titreşime, mevsim koşullarına (sıcak, soğuk, yağış) bağlı risklerle karşı karşıya kalabilir.\n\nTren trafiğinin aksamadan sürdürülmesi gerektiğinden çalışma saatleri genellikle vardiyalı düzende olup gece, hafta sonu ve resmi tatil günlerinde de çalışma gerekebilir. Görevi sırasında bakım ve sinyalizasyon personeli, makinistler, istasyon görevlileri, diğer tesisler kontrolörleri ve işletme yöneticileriyle sürekli iletişim ve koordinasyon içinde çalışır.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin standart bir örgün eğitim programı olarak verildiği, yaygın bilinen bir okul/bölüm bulunmamaktadır. Meslek elemanları genellikle ortaöğretim düzeyinde teknik eğitim aldıktan sonra TCDD ve benzeri demiryolu işletmelerinin kendi eğitim ve sınav merkezlerinde düzenlenen kurumsal eğitim, kurs ve işbaşında usta yanında eğitim yoluyla yetiştirilir.",
+  "giris_kosullari": [
+   "Ortaöğretim (lise ve dengi), tercihen elektrik-elektronik, elektronik, telekomünikasyon veya raylı sistemler elektrik-elektronik alanlarından mezun olmak",
+   "Demiryolu işletmesinin (TCDD gibi) açtığı kurum içi sınav ve değerlendirme süreçlerinde başarılı olmak",
+   "Görevin gerektirdiği sağlık ve fiziksel uygunluk şartlarını taşımak",
+   "Genellikle sinyalizasyon, telekomünikasyon veya elektrifikasyon teknisyenliği gibi ilgili görevlerde deneyim sahibi olmak, kurum içi terfi yoluyla bu unvana geçişte tercih sebebidir"
+  ],
+  "sure_ve_icerik": "Resmî olarak tanımlanmış, sabit süreli bir müfredat bulunmamaktadır. Kurum içi eğitimler genellikle sinyalizasyon, telekomünikasyon ve elektrifikasyon sistemlerinin çalışma prensiplerini, demiryolu trafiği ve işletme mevzuatını, arıza tespit ve giderme usullerini, denetim/raporlama tekniklerini ve iş sağlığı-güvenliği konularını kapsar; teorik eğitimin yanında saha ve işbaşı uygulamalarıyla desteklenir.",
+  "belge": "Eğitimi tamamlayanlara, eğitimi veren kurum tarafından kurum içi sertifika/yetki belgesi düzenlenir. Mesleki Yeterlilik Kurumu (MYK) tarafından ilgili ulusal yeterlilik yayımlanmışsa, bu belgeye sahip olmak istihdamda tercih sebebi olabilir."
+ },
+ "gorevler": [
+  "Gar ve istasyonlarda telekomünikasyon, sinyalizasyon ve elektrifikasyon tesislerinde meydana gelen arızaların, tren trafiğini aksatmadan giderilmesini sağlar.",
+  "İşyeri ve tesislerin periyodik bakım ve ayar işlerini yapar/yaptırır.",
+  "Telekomünikasyon, sinyalizasyon ve elektrifikasyon tesislerinin düzenli ve kesintisiz çalışmasını sağlar.",
+  "Trafikle ilgili sabit tesis, işaret, makas, yol ve benzeri araç gereçlerin kullanıma uygun şekilde trenlerde, istasyonlarda, hat boyunda bulunması gereken yerlerde ve görevli personelde bulundurulmasını sağlar.",
+  "Tren teşkilatında bulunan ve tren trafiği emniyetini tehlikeye sokacak şekilde arızalı, bakımsız, kurallara uygun olarak yüklenmemiş vagonları tren teşkilatından çıkartır, seyrine izin vermez.",
+  "İşyerlerinden gelen arıza faaliyet raporlarını inceler ve zamanında ilgili birimlere gönderir, olumsuzlukların giderilmesini sağlar.",
+  "Demirbaş ve malzeme ihtiyaçlarını kontrol eder, uygun gördüklerinin temin edilmesini sağlar.",
+  "Bakım teşkilatında çalışan tüm personeli çalıştığı sistem ve mevzuat konusunda bilgilendirir.",
+  "Tren trafiğinin hızlı, akıcı ve güvenli şekilde sağlanması için gerekli önlemleri alır.",
+  "Yıllık turne programına göre belirli aralıklarla sorumluluk alanında tren, lokomotif veya oto drezinle turne denetimleri yapar.",
+  "Turne denetimi sonucunda denetim raporu hazırlayarak ilgili makama sunar.",
+  "Görevi ile ilgili soruşturma komisyonlarına katılır, personelin neden olduğu tren/kaza olaylarının soruşturulmasında heyetin raportörlüğünü yapar.",
+  "Tren trafiğinin emniyetli, hızlı ve ekonomik yürütülmesini denetler.",
+  "Trenlerin gecikmelerini ve nedenlerini araştırır, giderilmesi için tedbirler alır, önerilerde bulunur.",
+  "Refakat edilen yolcu ve yük trenlerinde trafik cetveli, trafik ve tren teşkili ile diğer hususları denetler.",
+  "İstasyonlarda uzun süre bekleyen vagonların bekleme nedenlerini ve emniyete alınmış olduklarını kontrol eder, ilgililere bildirir.",
+  "Tüm istasyonların, tren trafiğine ayrılmış yollarının her zaman trenlerin geçişine uygun olarak hazır bulundurulmasını kontrol eder.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "calisma_alanlari": "Meslek elemanları başta Türkiye Cumhuriyeti Devlet Demiryolları (TCDD) olmak üzere, demiryolu işletmeciliği yapan kamu ve özel kuruluşlarda, şehir içi raylı sistem işletmelerinde (metro, tramvay, banliyö hatları vb.) ve demiryolu hattına sahip bazı sanayi/maden işletmelerinde istihdam edilir. Ülkemizde demiryolu ağının ve yük/yolcu taşımacılığının geliştirilmesine yönelik yatırımlar sürdükçe, sinyalizasyon, telekomünikasyon ve elektrifikasyon sistemlerinin denetim ve işletiminde görev alacak nitelikli personele olan ihtiyacın sürmesi beklenmektedir.",
+ "kazanc": {
+  "egitim_suresince": "Kurum içi eğitim/kurs döneminde, eğitimi veren kuruluşun belirlediği eğitim ödeneği veya genellikle asgari ücret düzeyinde bir ödeme yapılabilir.",
+  "egitim_sonrasi": [
+   "Kamu kurumunda (TCDD gibi) kadrolu çalışanlar 657 sayılı Devlet Memurları Kanunu'na, işçi statüsünde çalışanlar ise ilgili toplu iş sözleşmesi hükümlerine göre ücret alır; kıdem, unvan ve ek ödemelerle (yol tazminatı, fazla mesai vb.) birlikte kazanç artar.",
+   "Özel sektörde veya şehir içi raylı sistem işletmelerinde çalışanların ücreti işletmenin büyüklüğüne, kişinin deneyim ve kıdemine göre değişiklik gösterir; işe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar, deneyim kazandıkça bu tutarın üzerine çıkabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Meslek elemanları, sinyalizasyon, telekomünikasyon, elektrik-elektronik veya raylı sistemler alanında açılan ön lisans ve lisans programlarına (örneğin raylı sistemler teknolojisi, elektrik-elektronik mühendisliği, raylı sistemler mühendisliği gibi) yönelerek teknik bilgi ve formasyonlarını güçlendirebilir; kurum içi hizmet içi eğitimlerle ilerleyebilirler.",
+  "is_hayatinda": "Genellikle sinyalizasyon, telekomünikasyon veya elektrifikasyon teknisyenliği/sürveyanlığı gibi görevlerden deneyim kazanarak Tesisler Kontrolörlüğüne terfi edilir. Bu görevden sonra kıdem ve performansa bağlı olarak şeflik, bölge/işletme müdür yardımcılığı ve müdürlük gibi daha üst kademe idari ve teknik yönetim görevlerine ilerleme imkânı bulunmaktadır."
+ },
+ "benzer_meslekler": [
+  "Demiryolu Sinyalcisi",
+  "Telekomat Bakım Sürveyanı",
+  "Demiryolu Tesisler Sürveyanı",
+  "Demiryolu Yol Kontrol Görevlisi",
+  "Yol Sürveyanı (Demiryolu)",
+  "Katener İşçisi"
+ ],
+ "ek_bilgiler": "Görev, elektrikli hatlar ve hareketli demiryolu araçları yakınında saha çalışmasını içerdiğinden iş sağlığı ve güvenliği kurallarına uyum büyük önem taşır; bu nedenle mesleğin bazı iş kollarında tehlikeli/çok tehlikeli işler kapsamında değerlendirilebileceği göz önünde bulundurulmalıdır. Kesin kapsam ve zorunlu belge gereklilikleri için ilgili işletmenin (TCDD vb.) mevcut mevzuatı ve ilan şartları esas alınmalıdır.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T18:13:12",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 8157
+  }
+ }
+}

@@ -1,0 +1,73 @@
+{
+ "arac_gerec": [
+  "Bilgisayar ve çoklu monitör sistemleri",
+  "SCADA izleme ve kontrol yazılımı",
+  "Alarm ve sinyal takip panelleri",
+  "Telsiz veya telefon",
+  "Saha ekipmanlarına ait uzaktan izleme donanımları (PLC, RTU vb.)",
+  "Basınç, debi ve seviye ölçüm verilerini gösteren ekranlar",
+  "Vardiya ve çalışma raporu defteri/formları",
+  "Yazıcı",
+  "Kesintisiz güç kaynağı (UPS) izleme sistemi",
+  "Coğrafi bilgi sistemi (GIS) tabanlı harita yazılımları",
+  "Kişisel koruyucu donanım (saha kontrollerinde)"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve ayrıntıları fark edebilen,",
+  "Sorumluluk sahibi,",
+  "Hızlı ve doğru karar verebilen,",
+  "Teknik ve mekanik konulara ilgili,",
+  "Stres altında sakin kalabilen,",
+  "Bilgisayar kullanımına yatkın,",
+  "İletişim becerileri gelişmiş,",
+  "Takım çalışmasına uygun,"
+ ],
+ "calisma_ortami": "Su SCADA Operatörü, genellikle su veya atıksu işletmesinin kontrol/SCADA odasında, bilgisayar ekranları önünde oturarak çalışır. Sistemin 7/24 kesintisiz izlenmesi gerektiğinden çalışma vardiyalı şekilde yürütülür ve gece, hafta sonu ve resmi tatillerde de çalışma söz konusu olabilir. Arıza veya alarm durumlarında hızlı müdahale gerekebileceğinden görev sırasında dikkat ve temkinli davranış önemlidir.\n\nÇalışma sırasında saha ekipleri, bakım-onarım personeli, mühendisler ve amirlerle sürekli iletişim halindedir; planlı kesinti ve arıza süreçlerini bu kişilerle koordine eder. Gerektiğinde ekipman kontrolü veya arıza tespiti amacıyla sahaya çıkabilir; bu durumda açık alanda, farklı hava koşullarında ve tesis içindeki teknik birimlerde de bulunabilir.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi öncelikle işyerlerinde, deneyimli operatörler eşliğinde işbaşı eğitimi şeklinde verilmektedir. Bunun yanında elektrik-elektronik, endüstriyel otomasyon, bilgisayar teknolojileri veya su ve atıksu teknolojisi gibi alanlardaki ortaöğretim ve meslek yüksekokulu programları ile Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kursları da mesleğe hazırlayıcı eğitim olanakları sunmaktadır.",
+  "giris_kosullari": [
+   "En az lise ve dengi okul mezunu olmak.",
+   "Bilgisayar kullanımına ve teknik sistemlere ilgili olmak.",
+   "Tercihen elektrik-elektronik, otomasyon, bilgisayar veya su/atıksu teknolojisi alanında eğitim almış olmak."
+  ],
+  "sure_ve_icerik": "Mesleğe giriş genellikle lise veya ilgili ön lisans programlarından mezuniyet sonrası gerçekleşir. İşe başlayan kişiler, işletmenin SCADA altyapısını, saha ekipmanlarının çalışma mantığını, alarm ve sinyal sistemlerini, arıza takip ve raporlama prosedürlerini, iş sağlığı ve güvenliği kurallarını kapsayan işbaşı eğitiminden geçer. Eğitim süresi, kişinin önceki bilgi birikimine ve işletmenin uyguladığı programa göre değişkenlik gösterir.",
+  "belge": "İşbaşı eğitimi sonunda genellikle resmi bir diploma verilmez; kurum içi yetkinlik değerlendirmesiyle göreve başlanır. Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Su SCADA Operatörleri, başta belediyelerin su ve kanalizasyon idareleri olmak üzere, içme suyu ve atıksu arıtma tesislerinde, su dağıtım ve pompa istasyonlarında, ilgili kamu kurumlarının su işletme birimlerinde ve bu alanda hizmet veren özel sektör işletmelerinde istihdam edilebilir. Su ve atıksu altyapısında otomasyon sistemlerinin yaygınlaşmasıyla bu alandaki iş olanaklarının artması beklenmektedir.",
+ "gorevler": [
+  "İSG, çevre koruma ve kalite önlemlerini uygular.",
+  "İş organizasyonu yapar.",
+  "SCADA çalışma envanterini hazırlar.",
+  "SCADA ekipmanlarının çalışabilirlik durumlarını takip eder; saha ekipmanlarındaki arıza ve eksikleri izler, SCADA kontrol merkezindeki malzeme gereksinimlerinin giderilmesini sağlar, SCADA sinyal ve alarmlarının takibini yapar.",
+  "SCADA operasyonlarını yönetir; SCADA işletim ağında oluşan arızaları tespit eder, arızalı bölgenin izole edilmesini sağlar, sistemi normal durumuna getirir, planlı su kesintilerini koordine eder ve yapılan çalışmaları raporlar.",
+  "Mesleki gelişim çalışmalarında bulunur."
+ ],
+ "kazanc": {
+  "egitim_suresince": "Eğitim süresince genellikle ayrı bir kazanç söz konusu değildir; işbaşında eğitim alınan dönemde çalışılan işletmenin uygulamasına göre sembolik bir ödeme yapılabilir.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarına bağlı su ve kanalizasyon idarelerinde işçi statüsünde çalışanların ücreti ilgili toplu iş sözleşmesi hükümlerine göre belirlenir.",
+   "Özel sektörde kazanç; işletmenin büyüklüğüne, kişinin deneyimine ve bilgi birikimine göre değişkenlik gösterir; mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "SCADA sistemleri, endüstriyel otomasyon ve su/atıksu teknolojileri alanında açılan hizmet içi eğitimlere, sertifika programlarına ve kurslara katılarak bilgi ve becerilerini geliştirebilir.",
+  "is_hayatinda": "Deneyim ve bilgi birikimi arttıkça vardiya amirliği, SCADA sorumluluğu veya işletme şefliği gibi daha üst pozisyonlara yükselebilir."
+ },
+ "benzer_meslekler": [
+  "Arıtma Tesisi İşletme Operatörü",
+  "Kumanda Tablosu Operatörü",
+  "Su Pompası Operatörü",
+  "Atıksu Arıtma Operatörü",
+  "Su Arıtma Tesisi İşletme Operatörü",
+  "Pompa İstasyonu Operatörü (Petrol ve Doğal Gaz Hariç)"
+ ],
+ "ek_bilgiler": "Su ve atıksu işletmelerinde otomasyon ve uzaktan izleme sistemlerinin (SCADA) kullanımının artması, bu meslekte istihdam olanaklarının gelecekte genişlemesini beklenebilir kılmaktadır. Mesleğin gerektirdiği minimum eğitim düzeyi ortaöğretim olmakla birlikte, elektrik-elektronik veya otomasyon alanında teknik eğitim almış olmak işe girişte ve mesleki gelişimde avantaj sağlayabilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T11:02:44",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5265
+  }
+ }
+}

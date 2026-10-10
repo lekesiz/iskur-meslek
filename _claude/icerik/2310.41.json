@@ -1,0 +1,81 @@
+{
+ "arac_gerec": [
+  "Bilgisayar ve devre/sistem benzetim (simülasyon) yazılımları (MATLAB/Simulink, SPICE vb.)",
+  "Osiloskop, fonksiyon jeneratörü, güç kaynağı, multimetre",
+  "Lojik analizör ve sinyal ölçüm cihazları",
+  "Devre tasarım ve baskı devre (PCB) tasarım yazılımları",
+  "Laboratuvar deney setleri ve geliştirme kitleri (FPGA, mikrodenetleyici vb.)",
+  "Bilimsel yayın, veri tabanı ve kütüphane erişim sistemleri",
+  "Projeksiyon, bilgisayar ve sunum sistemleri",
+  "Ders notları, çalışma planları, ölçme-değerlendirme formları",
+  "Ofis yazılımları ve iletişim/yazışma araçları"
+ ],
+ "genel_ozellikler": [
+  "Matematik ve fen bilimlerine ilgili ve bu alanlarda yetkin,",
+  "Analitik düşünebilen ve soyut kavramları kavrayabilen,",
+  "Araştırmaya ve bilimsel çalışmaya istekli,",
+  "Teknolojik gelişmeleri takip etmeye meraklı,",
+  "Sabırlı, sistemli ve düzenli çalışabilen,",
+  "Anlatım gücü iyi, bilgi ve birikimini başkalarına aktarabilen,",
+  "Ekip çalışmasına yatkın,",
+  "Kendini sürekli geliştirmeye ve yenilemeye istekli,"
+ ],
+ "calisma_ortami": "Devreler ve Sistemler Öğretim Üyesi, üniversite bünyesinde çalışma odası, derslik ve laboratuvar ortamlarında görev yapar. Çalışmanın büyük kısmı bilgisayar başında ders hazırlığı, araştırma, makale ve proje yazımı şeklinde geçer; bunun yanında laboratuvar derslerinde ve deneysel çalışmalarda bulunur. Çalışma ortamı genellikle kapalı, aydınlık ve sakin olup önemli bir fiziksel risk taşımaz; laboratuvar çalışmalarında elektrikli cihazlarla ilgili iş güvenliği kurallarına uyulması gerekir.\n\nÇalışma saatleri ders programına göre düzenlenmekle birlikte araştırma, yayın ve proje çalışmaları nedeniyle mesai saatleri dışında da çalışma gerekebilir. Görevi sırasında öğrenciler, akademik ve idari personel, üniversite yöneticileri, bilimsel hakemler ve kamu/özel sektör kuruluşlarındaki ilgili kişilerle iletişim kurar.",
+ "gorevler": [
+  "Elektrik-elektronik devreler ve mühendislik sistemlerinin çözümleme ve tasarımına yönelik kuramsal ve bilgisayar destekli yöntemler üzerine çalışmalar yapar.",
+  "Ölçme tekniklerinin ve devre analiz/sentez yöntemlerinin kuramsal ve uygulamalı öğretimini verir, bu alanda araştırma yapar.",
+  "Yükseköğretim kurumlarında alanı ile ilgili bilimsel araştırma ve projeler üretir ve yürütür.",
+  "Araştırma sonuçlarını ulusal ve uluslararası bilimsel toplantı ve kongrelerde sunar ya da bilimsel dergilerde veya elektronik ortamlarda yayınlar.",
+  "Araştırma ya da projelerin uygulamaya dönük sonuçlarını ilgili kurum ve kuruluşlarla paylaşır.",
+  "Yükseköğretim kurumlarında eğitim, öğretim ve uygulama çalışmaları yapar ve yaptırır; müfredat programlarını geliştirir, yeniler ve uygular.",
+  "Ders yılı içinde ve sonunda öğrencilerin bilgi düzeyini ölçmek için ödevler hazırlatır, sınavlar yapar, sınav kağıtlarını okuyup değerlendirir ve sonuçlarını idareye bildirir.",
+  "Lisansüstü öğrencilerine tez konularını verir ya da tez konusu seçiminde öğrencilere yardımcı olur ve çalışmalarını izler.",
+  "İlgili birim başkanlığınca düzenlenen programa göre belirli günlerde öğrencileri kabul ederek onlara gerekli konularda yardımcı olur, ilgili kanundaki amaç ve ana ilkeler doğrultusunda yol gösterir ve rehberlik eder.",
+  "Kamu ve özel sektörde bilimsel danışmanlık yapar, alanı ile ilgili konularda bilirkişilik yapar.",
+  "Çeşitli bilimsel yayınlarda hakemlik yapar, yurt içinde ve yurt dışında konferanslar verir.",
+  "Gerektiğinde idari sorumluluk üstlenir.",
+  "Konusundaki gelişme ve yenilikleri izleyip araştırmalar yapar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Bu mesleğe hazırlanmak isteyenler öncelikle üniversitelerin Elektrik-Elektronik Mühendisliği veya yakın mühendislik bölümlerinde lisans eğitimini tamamlar. Ardından ilgili üniversitelerin Fen Bilimleri Enstitüsü bünyesindeki Elektrik-Elektronik Mühendisliği anabilim dalında, devreler ve sistemler alanında yoğunlaşarak yüksek lisans ve doktora eğitimi alınır. Doktora sonrası üniversitelerin ilgili bölümlerine akademik personel olarak atanmak gerekir.",
+  "giris_kosullari": [
+   "Lise ve dengi okul mezunu olmak ve merkezi üniversite sınavı (YKS) ile Elektrik-Elektronik Mühendisliği veya yakın bir mühendislik bölümüne yerleşmek",
+   "Lisans eğitimini tamamladıktan sonra Akademik Personel ve Lisansüstü Eğitimi Giriş Sınavı (ALES) ve ilgili yabancı dil sınavından (YDS/YÖKDİL vb.) yeterli puanı almak",
+   "İlgili yüksek lisans ve doktora programlarının kabul şartlarını (mülakat, lisans/yüksek lisans not ortalaması vb.) karşılamak",
+   "Doktora sonrasında üniversitelerin ilgili bölümlerinde ilan edilen akademik kadro şartlarını (bilimsel yayın, yabancı dil düzeyi vb.) sağlamak"
+  ],
+  "sure_ve_icerik": "Lisans eğitimi 4 yıl sürer; bu dönemde temel mühendislik, matematik, elektrik-elektronik devreler ve sistemler ile ilgili dersler verilir. Yüksek lisans eğitimi ortalama 2 yıl, doktora eğitimi ise ortalama 4-5 yıl sürer. Doktora eğitiminde devreler ve sistemler alanında ileri düzey dersler alınır, bilimsel araştırma yöntemleri öğrenilir ve bilgisayar destekli çözümleme/tasarım yöntemleri üzerine özgün bir tez çalışması yürütülür. Doktora sonrasında akademik kadroya atananlar, Dr. Öğretim Üyesi, Doçent ve Profesör unvanlarına yükselmek için bilimsel çalışma, yayın ve sınav süreçlerinden geçerler.",
+  "belge": "Eğitimini başarı ile tamamlayanlara lisans, yüksek lisans ve doktora diploması verilir. Akademik kadroya atanıp gerekli şartları sağlayanlara Dr. Öğretim Üyesi, Doçent ve Profesör unvanları verilir."
+ },
+ "calisma_alanlari": "Devreler ve Sistemler Öğretim Üyeleri, başta devlet üniversiteleri olmak üzere vakıf üniversitelerinin Elektrik-Elektronik Mühendisliği bölümlerinde öğretim üyesi olarak görev alırlar. Ayrıca araştırma enstitülerinde, kamu kurumlarının ve özel sektörün Ar-Ge/teknoloji geliştirme birimlerinde bilimsel danışmanlık, bilirkişilik veya proje yürütücülüğü yapabilir; teknoparklarda yürütülen Ar-Ge projelerinde görev alabilirler.",
+ "kazanc": {
+  "egitim_suresince": "Lisans eğitimi süresince öğrenciler Yüksek Öğrenim Kredi ve Yurtlar Kurumu'nun kredi, yurt ve harç imkânlarından ve çeşitli kurum/kuruluşların burslarından yararlanabilir. Yüksek lisans ve doktora döneminde ise üniversitelerde araştırma görevlisi kadrosunda çalışanlar 657 sayılı Devlet Memurları Kanunu'na göre maaş alabilir; ayrıca TÜBİTAK gibi kurumların bilimsel araştırma burslarından yararlanılabilir.",
+  "egitim_sonrasi": [
+   "Devlet üniversitelerinde öğretim üyesi olarak görev alanlar 657 sayılı Devlet Memurları Kanunu'na göre maaş, ek ders ücreti ve döner sermaye katkısı alır; kazanç akademik unvan (Dr. Öğretim Üyesi, Doçent, Profesör) ve kıdeme göre artar.",
+   "Vakıf üniversitelerinde ücretler kurumla yapılan sözleşmeye göre belirlenir; akademik unvan, deneyim ve kurumun olanaklarına bağlı olarak değişir.",
+   "Bilimsel danışmanlık, proje yürütücülüğü ve bilirkişilik gibi ek faaliyetlerden elde edilen gelirler, akademik gelire ek olarak değerlendirilebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Lisans sonrası yüksek lisans ve doktora eğitimini tamamlayarak üniversitelerde araştırma görevlisi kadrosunda akademik kariyere başlanır; doktora sonrasında Dr. Öğretim Üyesi, ardından gerekli bilimsel yeterlilikler sağlandığında Doçent ve Profesör unvanlarına yükselinir.",
+  "is_hayatinda": "Akademik kariyerde ilerleyenler bölüm başkanlığı, anabilim dalı başkanlığı, enstitü/fakülte yöneticiliği, dekanlık veya rektör yardımcılığı gibi idari görevlere getirilebilir. Ayrıca ulusal/uluslararası projelerde yürütücülük, sanayi kuruluşlarına danışmanlık ve bilimsel kurul üyelikleri gibi sorumluluklar üstlenerek mesleki saygınlığını artırabilirler."
+ },
+ "benzer_meslekler": [
+  "Elektrik-Elektronik Mühendisliği Öğretim Üyesi",
+  "Elektronik Öğretim Üyesi",
+  "Elektronik ve Haberleşme Mühendisliği Öğretim Üyesi",
+  "Elektromanyetik Alanlar ve Mikrodalga Tekniği Öğretim Üyesi",
+  "Elektrik Elektronik ve Telekomünikasyon Öğretim Üyesi",
+  "Bilgisayar Mühendisliği Öğretim Üyesi"
+ ],
+ "ek_bilgiler": "Akademik kariyerde Dr. Öğretim Üyesi, Doçent ve Profesör unvanlarına yükselebilmek için Yükseköğretim Kurulu (YÖK) ve Üniversitelerarası Kurul (ÜAK) tarafından belirlenen bilimsel yayın, atıf sayısı ve yabancı dil yeterliliği gibi şartların karşılanması gerekir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T00:24:41",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 8090
+  }
+ }
+}

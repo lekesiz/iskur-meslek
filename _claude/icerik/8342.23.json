@@ -1,0 +1,76 @@
+{
+ "arac_gerec": [
+  "Asfalt kesme makinesi (hızarlı/diskli kesim ünitesi)",
+  "Elmas uçlu kesme diski (hızar)",
+  "Su besleme hortumu ve su tankı (soğutma ve toz bastırma için)",
+  "Yakıt (benzin/dizel) ve motor yağları",
+  "Yedek disk/hızar takımları",
+  "Kişisel koruyucu donanım: baret, toz/gaz maskesi, kulak koruyucu, iş gözlüğü, eldiven, iş ayakkabısı",
+  "Trafik uyarı koni ve bantları, reflektif yelek",
+  "Temel el aletleri: anahtar takımı, tornavida, pense",
+  "Ölçüm ve işaretleme malzemeleri (tebeşir, ip, mastar)",
+  "Temizlik ve bakım malzemeleri (üstübü, gres yağı)"
+ ],
+ "genel_ozellikler": [
+  "El ve göz koordinasyonu güçlü,",
+  "Fiziksel olarak dayanıklı,",
+  "Dikkatli ve tedbirli,",
+  "Sorumluluk sahibi,",
+  "Mekanik aletlere ve makinelere ilgili,",
+  "Açık havada ve zorlu koşullarda çalışmaya istekli,",
+  "Trafik kurallarına ve iş güvenliğine duyarlı,",
+  "Ekip çalışmasına yatkın,"
+ ],
+ "calisma_ortami": "Asfalt Kesme Makinesi Operatörü, çoğunlukla açık havada, yol, cadde, kaldırım veya şantiye sahalarında, zaman zaman trafiğe açık alanlarda çalışır. Çalışma ortamı gürültülü ve tozludur; kesim sırasında sıçrayan parçacıklar ve kesme diskinin kullanımı belirli riskler taşır, bu nedenle kişisel koruyucu donanımın eksiksiz kullanılması önemlidir. Hava koşullarına (sıcak, soğuk, yağış) açık biçimde çalışılabilir. Çalışma saatleri genellikle gündüzdür; ancak trafik yoğunluğunun azaltılması amacıyla bazı işlerde gece veya vardiyalı çalışma da söz konusu olabilir.\n\nMeslek mensubu, çalışmaları sırasında şantiye veya ekip şefi, diğer iş makinesi operatörleri, yardımcı işçiler ve zaman zaman trafik görevlileriyle etkileşim hâlindedir. İşin doğası gereği dikkatli ve tedbirli olmak, hem kendi hem de çevredekilerin güvenliği açısından büyük önem taşır.",
+ "egitim": {
+  "verildigi_yerler": "Bu meslek için resmî olarak tanımlanmış, standart bir örgün eğitim programı bulunmamaktadır. Mesleğe giriş genellikle işbaşında usta yanında yetişme yoluyla olur. Ayrıca Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kursları ile bazı özel kurs firmalarında kısa süreli uygulamalı kurslar verilebilmektedir. Yol yapım ve bakım işleriyle uğraşan kamu kurumları ile büyük ölçekli firmalar, kendi bünyelerinde çalışanlarına hizmet içi eğitim verebilmektedir.",
+  "giris_kosullari": [
+   "En az ilköğretim okulu mezunu olmak",
+   "18 yaşını doldurmuş olmak",
+   "Makine kullanımını engelleyecek bir sağlık probleminin bulunmaması (işitme, görme ve fiziksel yeterlilik önemlidir)"
+  ],
+  "sure_ve_icerik": "Mesleğe özgü standart, süresi ve içeriği belirlenmiş resmî bir eğitim programı yoktur. Bilgi ve beceriler çoğunlukla işbaşında, deneyimli bir operatörün yanında çalışarak; makinenin tanınması, bakımı, kesme işlemi ayarları, iş güvenliği kuralları ve trafik içinde çalışma pratikleri üzerinden kazanılır. Halk Eğitim Merkezleri veya özel kurumlarca açılan kısa süreli mesleki kurslarda da temel düzeyde teorik ve uygulamalı eğitim verilebilmektedir.",
+  "belge": "İşbaşında yetişenler için resmî bir belge zorunluluğu yoktur; kurs tamamlayanlara katılım/kurs bitirme belgesi verilir. Mesleki Yeterlilik Kurumu (MYK) Ulusal Yeterlilik Belgesi, mevcut olduğu durumlarda istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Asfalt Kesme Makinesi Operatörleri; belediyeler, Karayolları Genel Müdürlüğü gibi kamu kurumları, yol yapım ve bakım-onarım işleri yürüten inşaat firmaları, alt yapı çalışmaları (doğalgaz, su, elektrik, telekomünikasyon) sonrası asfalt kesme ve onarım işlerini üstlenen taşeron firmalar ile iş makinesi kiralama şirketlerinde çalışabilirler. Yol yapım ve alt yapı yatırımlarının sürekliliği nedeniyle bu alanda iş bulma olanakları genel olarak mevcuttur.",
+ "kazanc": {
+  "egitim_suresince": "Meslek genellikle işbaşında, usta yanında öğrenildiğinden ayrı bir örgün eğitim süreci ve buna bağlı düzenli bir kazanç söz konusu değildir; çıraklık veya yardımcı operatörlük döneminde sınırlı bir ücret ödenebilir.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında işçi statüsünde çalışanlar, ilgili toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde ücret; işletmenin büyüklüğü, kişinin deneyimi ve bölgesel koşullara göre değişir; yeni başlayanlar genellikle asgari ücret düzeyinde kazanç elde eder, deneyim arttıkça kazanç da yükselebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğe özgü tanımlanmış, basamaklı bir örgün eğitimde ilerleme sistemi bulunmamaktadır. Deneyim kazandıkça ve ek kurslara katılarak diğer iş makinelerinin kullanımında da yetkinlik kazanılabilir.",
+  "is_hayatinda": "Deneyim kazanan operatörler ustabaşı veya ekip/şantiye şefi yardımcılığı gibi görevlere yükselebilir. Ayrıca farklı iş makinelerinin (silindir, asfalt distribütörü, finişer gibi) kullanımını öğrenerek iş bulma olanaklarını artırabilir ve daha nitelikli işlerde çalışabilirler."
+ },
+ "benzer_meslekler": [
+  "Beton Delme Kesme Makinesi Operatörü (Karotcu)",
+  "Yüzey (Asfalt-Beton) Kazıma Makinesi Operatörü",
+  "Beton Asfalt Serme (Finişer-Serici) Makinesi Operatörü",
+  "Silindir Operatörü",
+  "Asfalt Distribütör Operatörü",
+  "Zift Dökme Makinesi Operatörü"
+ ],
+ "ek_bilgiler": "Asfalt kesme işleri genellikle yol yapım, bakım-onarım ve alt yapı çalışmaları kapsamında, diğer iş makinesi operatörleriyle koordineli biçimde yürütülür. İş güvenliği açısından kesme diskinin durumu ve su soğutma sisteminin düzenli kontrolü büyük önem taşır.",
+ "gorevler": [
+  "Kesilmesi gereken asfalt zeminini işaretleyerek tespit eder.",
+  "Asfalt kesme makinesinin gerekli bakımlarının yapılarak kullanıma hazır bulundurulmasını sağlar.",
+  "Kesilecek asfaltın özelliğine göre asfalt kesme makinesinin gerekli ayarlarını yapar.",
+  "İstenen bölgede gerekli asfalt kesme işlemini başka yerlere zarar vermeden gerçekleştirir.",
+  "Asfalt kesme makinesinin hızarının bilenmesi, gerektiğinde değiştirilmesi işlerini yapar.",
+  "Asfalt kesme makinesinin yağ ve su ilave etme ve değiştirme işlerini yapar.",
+  "Çıkarılması gereken curuf ve parçaların çıkarılmasını sağlar.",
+  "Asfalt kesme makinesinin arızalanması durumunda tamir edilmesini sağlar.",
+  "Meslek alanı ile ilgili gelişmeleri takip eder ve uygular.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T18:41:23",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5848
+  }
+ }
+}

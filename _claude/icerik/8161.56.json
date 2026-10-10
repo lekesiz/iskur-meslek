@@ -1,0 +1,75 @@
+{
+ "gorevler": [
+  "Kütle ölçümü yapar",
+  "Hacim ölçer",
+  "Kuru bakliyatları ve tahıl tanelerinde kalibrasyon yapar",
+  "Kuru bakliyatları ve tahıl tanelerini ayıklar",
+  "Kırmızı mercimek üretiminde kalibrasyon yapar",
+  "Tahılları depolar",
+  "Ölçülendirme ve ölçeklendirme yapar",
+  "Mesleki gelişim faaliyetlerinde bulunur"
+ ],
+ "arac_gerec": [
+  "Kalibrasyon makineleri",
+  "Elek ve ayıklama makineleri",
+  "Tartı ve kütle ölçüm cihazları",
+  "Hacim ölçüm kapları ve ekipmanları",
+  "Taşıma bantları",
+  "Renk ayırıcı ve optik ayıklama sistemleri",
+  "Depolama siloları/ambarları",
+  "Paketleme ve ambalajlama ekipmanları",
+  "Elle taşıma ve yükleme araçları (el arabası, forklift vb.)",
+  "Toz maskesi, eldiven ve koruyucu iş elbisesi"
+ ],
+ "genel_ozellikler": [
+  "El ve göz koordinasyonu iyi,",
+  "Dikkatli ve gözlem yeteneği gelişmiş,",
+  "Fiziksel olarak dayanıklı,",
+  "Düzenli ve temiz çalışmaya önem veren,",
+  "Sorumluluk duygusu yüksek,",
+  "Ekip çalışmasına uyumlu,",
+  "Pratik ve hızlı karar verebilen,",
+  "Toza ve kapalı ortam koşullarına uyum sağlayabilen."
+ ],
+ "calisma_ortami": "Kuru baklagil elemanı, bakliyat ve tahıl işleme tesislerinde, genellikle kapalı alanlarda, üretim hattı ve depolama bölümlerinde çalışır. Çalışma ortamı tozlu ve gürültülü olabilir; ürünün niteliğine göre bazı dönemlerde yoğun ve mevsimsel çalışma söz konusudur. Çalışma saatleri işletmenin üretim programına göre vardiyalı veya tam gün düzeninde olabilir.\n\nMeslek erbabı; işletme içinde diğer üretim hattı çalışanları, ustabaşı ve kalite kontrol personeli ile iş birliği içinde çalışır. Toz ve kapalı ortamdan kaynaklanabilecek sağlık risklerine karşı kişisel koruyucu donanım (maske, eldiven, iş elbisesi) kullanılması ve iş sağlığı ve güvenliği kurallarına tam uyulması gerekmektedir.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi için ülkemizde standart ve zorunlu bir mesleki ve teknik eğitim programı bulunmamaktadır. Mesleğe ilişkin bilgi ve beceriler genellikle işbaşında, usta-çırak ilişkisi içinde kazanılır. Ayrıca Halk Eğitim Merkezleri ve İŞKUR tarafından açılan mesleki eğitim kursları ile mesleki eğitim merkezlerinin gıda teknolojisi alanındaki genel programları, bu mesleğe temel oluşturabilir.",
+  "giris_kosullari": [
+   "İlköğretim mezunu olmak",
+   "İşin gerektirdiği fiziksel koşullara (ayakta çalışma, toz ortamına dayanıklılık) uygun sağlık durumuna sahip olmak",
+   "İşe alındığı işletmede yapılan sağlık muayenesinden geçmek"
+  ],
+  "sure_ve_icerik": "Mesleğe özgü belirlenmiş standart bir eğitim süresi bulunmamaktadır. Eğitim genellikle işe yeni başlayan kişinin, deneyimli bir usta veya ustabaşı gözetiminde kütle ve hacim ölçümü, kalibrasyon, ayıklama, depolama ve ölçeklendirme işlemlerini uygulamalı olarak öğrenmesiyle gerçekleşir. İŞKUR ve Halk Eğitim Merkezleri tarafından açılan kısa süreli mesleki eğitim kursları da bilgi ve becerilerin geliştirilmesine katkı sağlar.",
+  "belge": "Mesleğe özgü zorunlu bir diploma veya sertifika bulunmamaktadır. Katılınan kurslar sonunda kurs bitirme belgesi verilir. Mesleki Yeterlilik Kurumu (MYK) tarafından yapılan sınavda başarılı olunması durumunda ise Mesleki Yeterlilik Belgesi alınabilir; bu belge istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Kuru baklagil elemanı; kuru bakliyat (mercimek, nohut, kuru fasulye, bezelye vb.) ve tahıl tanelerinin temizlenmesi, kalibrasyonu, ayıklanması, depolanması ve satışa hazırlanması işlemlerinin yapıldığı gıda işleme ve paketleme tesislerinde, un ve bakliyat fabrikalarında, tahıl depolama ve ticareti yapan işletmelerde çalışabilir. İş imkânları, bakliyat üretiminin yoğun olduğu bölgelerdeki işletmelerin sayısına ve büyüklüğüne göre değişmektedir.",
+ "kazanc": {
+  "egitim_suresince": "Meslek genellikle işbaşında öğrenildiğinden, bu süreçte kişi çoğunlukla işletmede çalışan statüsünde bulunur ve ücreti işyerinin uyguladığı ücret politikasına göre belirlenir; yeni başlayanlar için bu kazanç genellikle asgari ücret düzeyindedir. Örgün bir çıraklık eğitimine kaydolunması durumunda 3308 sayılı Mesleki Eğitim Kanunu hükümleri çerçevesinde ücret ödenir ve iş kazası ile meslek hastalığı sigortası devletçe karşılanır.",
+  "egitim_sonrasi": [
+   "Çalışmaya yeni başlayanların kazancı genellikle asgari ücret düzeyindedir.",
+   "Deneyim, bilgi ve beceri arttıkça, çalışılan işletmenin büyüklüğüne ve sektördeki ücret düzeyine göre kazanç yükselebilir.",
+   "Kamu kurumlarında işçi statüsünde istihdam söz konusu olduğunda ücret, ilgili toplu iş sözleşmesi hükümlerine göre belirlenir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğe özgü örgün bir eğitim kademesi bulunmadığından ilerleme, genellikle Halk Eğitim Merkezleri ve İŞKUR tarafından açılan mesleki eğitim kurslarına katılarak bilgi ve becerilerin geliştirilmesi yoluyla sağlanır. İsteyenler, Mesleki Yeterlilik Kurumu (MYK) sınavlarına girerek yeterlilik belgesi alabilir ve bu belge istihdamda tercih sebebi olabilir.",
+  "is_hayatinda": "Deneyim kazandıkça ustabaşılık, vardiya sorumluluğu veya üretim sorumluluğu gibi görevlere yükselebilir. Yeterli bilgi, birikim ve sermayeye sahip olanlar kendi işletmelerini kurarak bakliyat/tahıl işleme veya ticareti alanında girişimci olabilir."
+ },
+ "benzer_meslekler": [
+  "Un İmal İşçisi",
+  "Un İmal Ustası",
+  "Tarhana İmal İşçisi",
+  "Kuruyemiş Sınıflama ve Kalibrasyon Makinesi Operatörü",
+  "Yıkamacı (Bugday)",
+  "Gıda İşlemecisi"
+ ],
+ "ek_bilgiler": "Bu meslekte iş imkânları, bakliyat ve tahıl üretiminin/işlenmesinin yoğun olduğu bölgelerdeki işletme sayısına göre değişebilmektedir. Tozlu ortamda çalışma söz konusu olduğundan, işveren tarafından gerekli kişisel koruyucu donanımın sağlanması ve iş sağlığı ve güvenliği tedbirlerine uyulması önemlidir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T16:07:29",
+  "usage": {
+   "input_tokens": 4,
+   "output_tokens": 8408
+  }
+ }
+}

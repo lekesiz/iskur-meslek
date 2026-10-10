@@ -1,0 +1,79 @@
+{
+ "arac_gerec": [
+  "Anten direği ve taşıyıcı konsol",
+  "RF (radyo frekans) antenler",
+  "Radyolink üniteleri",
+  "Feeder (koaksiyel/fiber) kablo",
+  "Sistem kabini ve enerji dağıtım panosu",
+  "Topraklama çubuğu ve kablosu",
+  "Paratoner sistemi",
+  "El aletleri (anahtar takımı, pense, tornavida)",
+  "Vinç/caraskal ve kaldırma ekipmanları",
+  "Emniyet kemeri (harness), karabina ve yüksekte çalışma ekipmanları",
+  "Baret, güvenlik ayakkabısı ve kişisel koruyucu donanım",
+  "Sinyal test cihazı (anten/hat test ölçüm cihazı)",
+  "Telsiz veya mobil iletişim cihazı",
+  "Jeneratör veya yedek güç ünitesi"
+ ],
+ "genel_ozellikler": [
+  "Yüksekte çalışmaktan korkmayan,",
+  "El ve kol becerisine sahip,",
+  "Dikkatli ve tedbirli,",
+  "Fiziksel olarak dayanıklı ve sağlıklı,",
+  "Takım halinde çalışmaya uyumlu,",
+  "Sorumluluk duygusu gelişmiş,",
+  "Teknik çizim ve şemaları okuyabilen,",
+  "Değişken hava koşullarında açık havada çalışmaya istekli"
+ ],
+ "calisma_ortami": "Açık havada, genellikle şehir içi veya şehir dışındaki kule, direk, bina çatısı gibi yüksek noktalarda çalışır. Rüzgâr, sıcak, soğuk ve yağış gibi değişen hava koşullarına açık ortamlarda görev yapar; yüksekte çalışma riski taşıdığından emniyet kemeri, baret gibi kişisel koruyucu donanımı eksiksiz kullanması gerekir.\n\nÇalışma saatleri genellikle gündüzdür, ancak proje teslim süreleri veya arıza durumlarında yoğun ve esnek çalışma söz konusu olabilir. Saha ekibi, teknik mühendisler, operasyon ve bakım personeli ile sürekli iletişim halinde çalışır; iş gereği farklı il ve bölgelere seyahat edebilir.",
+ "egitim": {
+  "verildigi_yerler": "Bu mesleğe yönelik örgün bir meslek lisesi alanı/dalı bulunmamaktadır. Meslek genellikle telekomünikasyon ve altyapı firmalarında işbaşında usta yanında yetişme yoluyla veya Halk Eğitim Merkezleri ile İŞKUR'un açtığı mesleki eğitim kursları aracılığıyla kazanılmaktadır. Elektrik-elektronik teknolojisi alanında alınan mesleki ve teknik eğitim bu mesleğe iyi bir temel oluşturabilir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "Yüksekte çalışma gerektirdiğinden işverenlerce genellikle 18 yaşını doldurmuş olmak tercih edilir",
+   "Sağlık durumunun yüksekte ve açık havada çalışmaya uygun olması (gerektiğinde sağlık raporu ile belgelenir)",
+   "Yüksekte çalışma güvenliği eğitimini alabilecek veya almış durumda olmak"
+  ],
+  "sure_ve_icerik": "Meslek için standart ve zorunlu bir okul programı bulunmamaktadır. Mesleki bilgi ve beceriler genellikle firmalar tarafından verilen kısa süreli uygulamalı eğitimlerle (anten ve kule montajı, kablo döşeme, topraklama, yüksekte çalışma güvenliği), usta-çırak ilişkisi içinde işbaşında öğrenme ile ve İŞKUR/Halk Eğitim Merkezleri bünyesinde açılan ilgili mesleki kurslarla kazanılır. Elektrik-elektronik alanında mesleki eğitim almış olmak işe başlarken avantaj sağlar.",
+  "belge": "Katıldığı kurs ve eğitimler sonunda katılım/başarı belgesi, yüksekte çalışma güvenliği eğitimine ilişkin sertifika alır; ayrıca Mesleki Yeterlilik Kurumu (MYK) Mesleki Yeterlilik Belgesi edinebilir."
+ },
+ "calisma_alanlari": "Mobil telefon operatörlerinde ve bu operatörlere hizmet veren alt yüklenici telekomünikasyon altyapı firmalarında, baz istasyonu kurulum ve bakım işleri yapan şirketlerde çalışabilir. Türkiye'de mobil haberleşme altyapısının (3G/4G/5G ve sonrası) sürekli genişlemesi, yenilenmesi ve bakımı nedeniyle bu alanda belirli bir istihdam hacmi bulunmaktadır. Çalışma genellikle proje bazlıdır ve saha ekipleri farklı şehir ve bölgelerde görevlendirilebilir.",
+ "kazanc": {
+  "egitim_suresince": "Meslek örgün bir eğitim programı şeklinde yürütülmediğinden öğrencilik dönemine özgü bir ücret söz konusu değildir; firma bünyesinde işbaşında yetişmeye başlayanlar çoğunlukla asgari ücret düzeyinde bir ücretle çalışmaya başlar.",
+  "egitim_sonrasi": [
+   "Kazanç; çalışılan firmanın büyüklüğüne, kişinin deneyim ve becerisine, proje yoğunluğuna göre değişir.",
+   "Yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar; deneyim kazanıp ekip liderliği veya ustabaşılık gibi görevlere geçildikçe kazanç yükselebilir.",
+   "Yüksekte çalışma ve sık seyahat gerektirmesi nedeniyle bazı işletmelerde ek prim veya tazminat ödenebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Bu meslekte örgün bir ilerleme basamağı (kalfalık-ustalık sistemi) bulunmamaktadır. Elektrik-elektronik veya telekomünikasyon alanında meslek lisesi ya da ön lisans eğitimi tamamlayanlar, baz istasyonu kurulum ekiplerinde daha teknik görevlere yönelebilir. Kişi, katıldığı kurs ve sertifika programlarıyla bilgi ve becerisini güncelleyebilir.",
+  "is_hayatinda": "Deneyim kazandıkça ekip lideri, saha şefi veya ustabaşı gibi görevlere yükselebilir. İlgili teknik eğitimi tamamlayanlar saha mühendisi veya proje koordinatörü gibi pozisyonlara geçebilir. Yeterli sermaye ve deneyime sahip olanlar kendi alt yüklenici firmasını kurarak işveren olabilir."
+ },
+ "benzer_meslekler": [
+  "Telekomünikasyon Şebeke Kurulum Ustası",
+  "Telekomünikasyon Şebeke Kurulum Elemanı",
+  "Telekomünikasyon Yer İstasyonu Tesis ve İşletme Ustası",
+  "Telekomünikasyon Yer İstasyonu Tesis ve İşletme Elemanı",
+  "TV Anten - Uydu Sistemleri Montaj ve Servis Elemanı",
+  "Fiber Optik Data ve Uydu Sistemleri Tesisatçısı",
+  "Telekomünikasyon Enerji Sistemleri Elemanı"
+ ],
+ "ek_bilgiler": "Yüksekte çalışma içermesi nedeniyle bu meslek, iş sağlığı ve güvenliği uygulamalarında tehlikeli/çok tehlikeli işler kapsamında değerlendirilebilir; işverenler bu nedenle yüksekte çalışma güvenliği eğitim belgesi ve periyodik sağlık kontrolü talep edebilir. Mesleki Yeterlilik Kurumu (MYK) belgesine sahip olmak istihdamda tercih sebebi olabilir.",
+ "gorevler": [
+  "Anten direklerini ve taşıyıcı konsolları sahada monte eder.",
+  "RF antenlerini, radyolink ünitelerini ve kablo hatlarını (feeder) döşer.",
+  "Sistem kabinlerini kurar ve cihazların enerji bağlantılarını yapar.",
+  "Topraklama ve paratoner sistemlerinin kurulumunu gerçekleştirir.",
+  "Montaj sonrası basit sinyal testlerini yaparak teknik ekibe onaylatır.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T06:40:49",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6508
+  }
+ }
+}

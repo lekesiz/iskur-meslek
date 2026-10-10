@@ -1,0 +1,100 @@
+{
+ "arac_gerec": [
+  "Ana makine (dizel motor, türbin) kumanda ve kontrol panelleri",
+  "Jeneratör, pompa, kompresör gibi yardımcı makine ve donanımlar",
+  "Yangın ihbar, söndürme ve yağmurlama sistemleri",
+  "Tahliye (sintine) pompaları ve devreleri",
+  "Ölçüm ve kontrol cihazları (basınç, sıcaklık, devir göstergeleri vb.)",
+  "Yedek parça, yağlama ve bakım malzemeleri",
+  "Makine dairesi el takımları ve atölye ekipmanları",
+  "Teknik dokümanlar, el kitapları (manuel) ve bakım kayıt defterleri",
+  "Devir çark ve vardiya jurnalleri",
+  "Telsiz, telefon ve dahili haberleşme cihazları",
+  "Sabit Karinalı Şişme Bot (RHIB) ve arama kurtarma donanımı",
+  "Kişisel koruyucu donanım (iş elbisesi, eldiven, kulaklık, can yeleği vb.)"
+ ],
+ "genel_ozellikler": [
+  "Fen bilimleri, özellikle fizik ve matematik alanında başarılı,",
+  "Makine ve teknik sistemlere ilgili ve bu alanda bilgili,",
+  "Sorumluluk sahibi ve kararlı,",
+  "Yöneticilik ve organizasyon becerisine sahip,",
+  "Dikkatli ve tedbirli,",
+  "Fiziksel ve ruhsal olarak dayanıklı,",
+  "Ekip çalışmasına uygun,",
+  "Uzun süre denizde ve aile ortamından uzak kalabilen,"
+ ],
+ "calisma_ortami": "\"Uzakyol vardiya mühendisi/makinisti, her türlü ticari gemide (yük, tanker, konteyner, yolcu gemisi vb.) makine dairesinde çalışır. Çalışma ortamı genellikle sıcak, gürültülü, titreşimli ve dar kapalı mekanlardır; ortamda yağ, yakıt ve kimyasal maddelerle temas söz konusu olabilir. Çalışma düzeni vardiya esasına göre belirlenir ve gemi seyir halindeyken günün her saatinde nöbet tutmayı gerektirir; sefer süresi geminin güzergahına göre uzun olabileceğinden kişi uzun süre aile ve sosyal çevresinden uzak kalabilir.\\n\\nMeslek mensubu görevi sırasında kaptan, diğer gemi zabitleri, makine personeli, kuruluş (armatör/işletme) yetkilileri ve liman/sahil servis personeli ile sürekli iletişim halindedir. İş kazası, yangın, elektrik çarpması ve gürültüye bağlı işitme kaybı gibi mesleki riskler bulunduğundan iş sağlığı ve güvenliği kurallarına uyulması önem taşır.\"",
+ "gorevler": [
+  "Geminin makine kısmına ait yazışmaları hazırlar/hazırlatır, kaptanla birlikte imzalayarak ilgili kuruluşa gönderir.",
+  "Makine dairesi ve geminin makine ile ilgili bütün sistem ve teçhizatının düzenini, temizliğini ve en ekonomik şekilde çalışmasını sağlar, kontrol eder.",
+  "Göreve başladığı gemide cihazları kontrol eder ve çalıştırır, tespit edilen aksaklıkları tutanakla belirleyip kuruluşa bildirilmesini sağlar.",
+  "Makine ve elektrik ile ilgili gereken malzeme ve yedek parçaları tespit ederek kuruluştan talep eder, gelen malzemeleri teslim alır.",
+  "Makine kısmına ait her türlü ihtiyacı kuruluşa bildirir.",
+  "Yangın ihbar ve söndürme cihazlarının çalışır halde bulunmasını sağlar.",
+  "Tahliye pompaları ile donanımlarının çalıştırılması, kontrolü, bakım ve onarımlarını yapar.",
+  "Yangın pompaları ve devreleri ile yağmurlama sisteminin her an çalışır halde bulunmasını sağlar.",
+  "Makine personelinin eğitim ve gemiye intibak planlarını yapar, role cetvelindeki görevlerini tam olarak yerine getirmelerini sağlar.",
+  "Devir çark ve jurnalleri hazırlar ve dosyalar.",
+  "Limandan hareketten önce makineyi torna çark ederek sonucu kaptana bildirir.",
+  "Firmalara yaptırılan gemi onarımlarında kendi kısmıyla ilgili onarımları izler, sonucu kuruluşa bildirir.",
+  "Gemideki teknik dokümanların muhafazasından sorumlu olur.",
+  "Makine personelinin iş emniyetinin sağlanması için gerekli tedbirleri alır ve kontrol eder.",
+  "Makine personelinin fazla mesai işlerini düzenler.",
+  "Eğitim manueli ve başkanlıkça gönderilen diğer manuellerin kendisine yüklediği görevleri yapar.",
+  "PBS uygulama sorumlusu ve koordinatörü olarak faaliyetlerini yürütür.",
+  "Gemi emniyetini etkileyebilecek bir arıza oluşması durumunda arızayı tespit eder ve derhal kuruluşa bildirilmesini sağlar.",
+  "Gemide tamir ekibi bulunması halinde tamir ekibi personelini organize eder, cihazlara zarar vermelerine engel olur, gerek görmesi halinde işi durdurur ve kuruluşa bilgi verir.",
+  "Makine kısmına ait gemi olanaklarıyla yapılabilecek arıza, bakım ve onarımları yapar; geminin seyrine engel olan veya gemi olanaklarıyla yapılamayan arıza, bakım ve onarımları kuruluşa bildirir.",
+  "Havuza alınan geminin şaft, pervane, dümen vb. bakım ve onarım işlerine nezaret eder.",
+  "Makine bölümü onarım ve tamir raporları hazırlayarak kuruluşa bildirir.",
+  "Arama ve kurtarma faaliyetlerinde ve acil durumlarda arama kurtarma gemisi kaptanının görevlerinin yerine getirilmesinde kaptana yardımcı olur.",
+  "Nöbet hizmetlerinde telsiz, telefon vb. dinleme görevini yapar.",
+  "İhtiyaç halinde sabit karinalı şişme botlarla (RHIB) arama kurtarma faaliyetlerine katılır ve bu botların kullanılmasına yardımcı olur.",
+  "Makine personelinin vardiya ve iş planlamasını yapar, dinlenme zamanlarını belirler, kaptanın onayını alır ve çizelgeyi ilgili personelin görebileceği yere asar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi, üniversitelerin denizcilik fakülteleri veya meslek yüksekokullarına bağlı ilgili bölümlerin lisans düzeyindeki gemi makineleri işletme mühendisliği (veya eşdeğer deniz ulaştırma işletme mühendisliği) programlarında verilmektedir.",
+  "giris_kosullari": [
+   "Lise ve dengi okul diplomasına sahip olmak",
+   "YKS'de ilgili puan türünden yeterli puanı almış olmak ve ilgili lisans programını tercih etmek",
+   "Denizde çalışmaya engel bir sağlık durumunun bulunmadığına dair gemiadamı sağlık raporu alınabilecek nitelikte olmak",
+   "Göz, işitme ve genel fiziksel sağlık açısından mesleğin gerektirdiği koşullara uygun olmak"
+  ],
+  "sure_ve_icerik": "Eğitim süresi 4 yıldır. Programda temel mühendislik, fizik, matematik dersleri ile birlikte gemi makineleri, motor ve türbin sistemleri, elektrik-elektronik, denizcilik hukuku ve emniyeti, çevre koruma gibi mesleki dersler yer alır. Öğrenciler eğitimleri sırasında gemilerde staj yaparak uygulamalı deniz hizmeti kazanırlar. Lisans eğitiminin ardından, Uluslararası Denizcilik Örgütü (IMO) STCW Sözleşmesi ve ulusal mevzuat çerçevesinde belirlenen deniz hizmet süresi ve sınav şartlarının tamamlanması gerekir.",
+  "belge": "Lisans diploması ile birlikte, ilgili idare (Ulaştırma ve Altyapı Bakanlığı) tarafından STCW gerekliliklerine uygun olarak düzenlenen Vardiya Mühendisi/Makinist yeterlik belgesi ve gemiadamı cüzdanı alınır."
+ },
+ "calisma_alanlari": "\"Uzakyol vardiya mühendisi/makinisti; sefer bölgesi ve makine gücü sınırlaması olmaksızın her türlü ticari gemide (yük, tanker, konteyner, yolcu gemisi vb.) makine zabiti olarak görev yapar. Yerli ve yabancı bandıralı gemilerde, denizcilik ve armatörlük şirketlerine bağlı olarak, zaman zaman da kamu kurumlarına ait gemilerde (liman işletmeleri, sahil güvenlik vb.) istihdam edilebilir. Dünya genelinde deniz ticaretinin yoğunluğuna bağlı olarak yurt dışında da iş bulma olanağı bulunmaktadır.\"",
+ "kazanc": {
+  "egitim_suresince": "Lisans eğitimi süresince öğrenciler, üniversitelerin sunduğu burs, kredi ve barınma imkanlarından yararlanabilir. Eğitim kapsamındaki gemi stajları sırasında, staj yapılan işletmenin uygulamasına göre değişmekle birlikte genellikle sınırlı düzeyde bir ücret veya harçlık ödenebilir.",
+  "egitim_sonrasi": [
+   "Gemi adamlarının ücretleri, denizde çalışmanın getirdiği riskler ve yoğun çalışma temposu nedeniyle kara işlerine göre genellikle daha yüksek belirlenmektedir.",
+   "Kazanç; kişinin deneyimi, yabancı dil bilgisi, çalıştığı gemi türü ve bandırası (yerli/yabancı) ile sektörün genel ücret düzeyine göre değişebilmektedir.",
+   "Yabancı bandıralı gemilerde çalışanların ücretleri genellikle daha yüksek olabilmektedir.",
+   "Kamu kurumlarına bağlı gemilerde çalışanlar için ücret, ilgili mevzuat (657 sayılı Kanun veya toplu iş sözleşmesi) hükümlerine göre belirlenir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Gerekli deniz hizmet süresinin tamamlanması ve ilgili idare tarafından yapılan sınavlarda başarılı olunması halinde, Uzakyol İkinci Mühendisi/Makinisti ve ardından Uzakyol Başmühendisi/Başmakinisti yeterlik belgesine yükselme mümkündür. Ayrıca meslekte uzmanlaşmayı sağlayan sertifika programları, seminerler ve hizmet içi eğitimlerle nitelik artışı sağlanabilir.",
+  "is_hayatinda": "Deneyim ve kıdem kazandıkça Uzakyol Başmühendisliği/Başmakinistliğe, denizcilik şirketlerinde teknik müdürlük, filo yöneticiliği veya makine enspektörlüğü gibi kara görevlerine, ayrıca denizcilik eğitim kurumlarında eğitmenlik görevlerine yükselme olanağı bulunmaktadır."
+ },
+ "benzer_meslekler": [
+  "Uzakyol Başmühendisi/Başmakinisti",
+  "Uzakyol İkinci Mühendisi/Makinisti",
+  "Gemi Baş Makine Zabiti",
+  "Gemi Makine Zabiti",
+  "Sınırlı Makine Zabiti",
+  "Deniz Buhar ve Motor Makinisti",
+  "Çarkçıbaşı (Gemi)",
+  "Sınırlı Başmakinist"
+ ],
+ "ek_bilgiler": "\"Bu meslekte çalışabilmek için IMO'nun STCW (Gemiadamlarının Eğitim, Belgelendirilmesi ve Vardiya Standartları Sözleşmesi) hükümlerine uygun deniz hizmet süresi, sağlık raporu ve yeterlik sınavlarının tamamlanması gerekmektedir. Makine dairesindeki çalışma koşulları nedeniyle meslek, iş sağlığı ve güvenliği açısından riskli işler kapsamında değerlendirilebilir; bu nedenle periyodik sağlık kontrolleri ve emniyet eğitimleri önem taşır.\"",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T11:43:04",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6607
+  }
+ }
+}

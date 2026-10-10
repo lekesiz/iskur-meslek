@@ -1,0 +1,79 @@
+{
+ "arac_gerec": [
+  "Ana makineler (dizel/türbin tahrik sistemleri)",
+  "Yardımcı makineler ve jeneratörler",
+  "Pompalar, kompresörler ve ısı eşanjörleri",
+  "Yakıt ve yağ arıtma (purifier/separatör) sistemleri",
+  "Yakıt, yağlama ve soğutma sistemleri",
+  "Kazan ve buhar sistemleri",
+  "Makine kontrol odası otomasyon ve kumanda panelleri",
+  "Elektrik panoları ve ölçüm cihazları (termometre, manometre, viskozimetre)",
+  "El aletleri ve tamir-bakım takımları",
+  "Yangın söndürme ve emniyet ekipmanları",
+  "Kişisel koruyucu donanım (KKD)",
+  "Yakıt/yağ ikmal (bunkering) ekipmanları",
+  "Yedek parça takip ve stok sistemleri",
+  "Gemi bakım-tutum planı (PMS) yazılımları"
+ ],
+ "genel_ozellikler": [
+  "Fen bilimleri, özellikle fizik ve matematik alanında başarılı,",
+  "Teknik ve mekanik konulara ilgili,",
+  "Sorumluluk sahibi, liderlik ve yöneticilik özelliklerine sahip,",
+  "Ekip çalışmasına yatkın,",
+  "Stresli ve acil durumlarda soğukkanlı karar verebilen,",
+  "Uzun süreli olarak aileden ve kara yaşamından uzak kalmaya uyum sağlayabilen,",
+  "Fiziksel ve ruhsal açıdan sağlıklı,",
+  "Yabancı dilde (özellikle İngilizce) teknik iletişim kurabilen"
+ ],
+ "calisma_alanlari": "\"Uzakyol İkinci Mühendisleri/Makinistleri; yerli ve yabancı bandıralı ticari gemilerde (kuru yük, tanker, konteyner, yolcu gemisi vb.) makine zabiti olarak çalışır. Ayrıca gemi işletmeciliği yapan denizcilik şirketlerinde teknik işletme ve gemi yönetimi birimlerinde, makine enspektörlüğü ve survey gibi kara görevlerinde de istihdam edilebilirler.\"",
+ "calisma_ortami": "\"Uzakyol İkinci Mühendisleri/Makinistleri, ticari gemilerin makine dairelerinde görev yapar. Çalışma ortamı genellikle gürültülü, sıcak, titreşimli ve dar/kapalı alanlardan oluşur; yakıt ve yağ kokusu, nem ve sınırlı hava sirkülasyonu söz konusu olabilir. Görev, vardiya düzeninde (genellikle belirli saatlik periyotlarla) sürdürülür ve gece-gündüz ayrımı yapılmadan çalışma gerektirebilir.\\n\\nMeslek mensupları, aylarca sürebilen seferler boyunca aile ve kara yaşamından uzak kalır; düzensiz bir yaşam ritmine uyum sağlamaları gerekir. Makine dairesi personeli (yağcı, motorcu), başmühendis ve diğer gemi zabitleriyle sürekli koordinasyon içinde çalışılır. Yanma, sıkışma, düşme ve kimyasal maddelere maruz kalma gibi iş kazası riskleri bulunduğundan, iş sağlığı ve güvenliği ile deniz emniyeti kurallarına titizlikle uyulması gereken bir çalışma ortamıdır.\"",
+ "ek_bilgiler": "\"Bu meslek, Uluslararası Denizcilik Örgütü (IMO) tarafından belirlenen STCW (Gemiadamlarının Eğitim, Belgelendirme ve Vardiya Standartları Sözleşmesi) hükümlerine tabidir. Meslek mensuplarının belirli deniz hizmet süresi şartlarını sağlaması, düzenli sağlık muayenesinden geçmesi ve yeterlik belgelerini periyodik olarak yenilemesi gerekmektedir.\"",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi, üniversitelerin Denizcilik Fakülteleri veya Deniz Bilimleri ve Teknolojisi Fakülteleri bünyesindeki ilgili lisans programlarında (örn. Gemi Makineleri İşletme Mühendisliği) verilmektedir.",
+  "giris_kosullari": [
+   "Lise veya dengi okul mezunu olmak",
+   "YKS'de (TYT ve AYT - sayısal puan türünde) yeterli puanı almış olmak ve ilgili lisans programını tercih etmiş olmak",
+   "Denizde çalışmaya engel teşkil edebilecek bir sağlık probleminin bulunmadığına dair 'Gemiadamı Sağlık Raporu'na sahip olmak",
+   "Renk körlüğü gibi mesleğin icrasına engel durumların bulunmaması"
+  ],
+  "sure_ve_icerik": "Lisans eğitimi 4 yıl sürer. Eğitimde temel mühendislik dersleri (matematik, fizik, termodinamik, malzeme bilgisi) ile birlikte gemi makineleri, motor teorisi, elektrik-elektronik, otomasyon, gemi inşası, deniz hukuku ve yabancı dil (İngilizce) dersleri okutulur. Eğitim sürecinde gemide uygulamalı staj/stajyer mühendislik dönemi de yer alır. Eğitim sonunda, Ulaştırma ve Altyapı Bakanlığınca STCW kurallarına uygun olarak düzenlenen sınavların başarıyla tamamlanması gerekmektedir.",
+  "belge": "Lisans diploması (Gemi Makineleri İşletme Mühendisliği veya ilgili bölüm) ile birlikte, Ulaştırma ve Altyapı Bakanlığı tarafından STCW gerekliliklerine göre düzenlenen 'Uzakyol İkinci Mühendisi' yeterlik belgesi ve gemiadamı cüzdanı alınır."
+ },
+ "gorevler": [
+  "Ana makine ve jeneratörlerin verimli çalışmasını sağlar ve vardiya düzenini yönetir.",
+  "Gemi bakım-tutum planı (PMS) dahilindeki işleri koordine eder.",
+  "Yakıt ve yağ ikmal (bunkering) işlemlerini bizzat denetler.",
+  "Makine dairesi personelinin iş dağılımını yapar ve emniyetini sağlar.",
+  "Teknik arızaların giderilmesini yönetir ve başmühendise rapor sunar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Lisans eğitimini tamamlayanlar, ilgili alanda yüksek lisans ve doktora programlarına devam ederek akademik kariyer yapabilir; ayrıca uluslararası denizcilik kuruluşlarının düzenlediği ileri düzey teknik ve yönetim kurslarına katılarak bilgi ve becerilerini geliştirebilirler.",
+  "is_hayatinda": "Belirli bir deniz hizmet süresini tamamlayan ve gerekli STCW sınavlarını başarıyla geçen Uzakyol İkinci Mühendisleri/Makinistleri, 'Uzakyol Başmühendisi/Başmakinisti' yeterliğine yükselebilir. Deneyim kazandıktan sonra kara tesislerinde makine enspektörü, teknik müdür veya survey uzmanı gibi görevlere geçiş yapabilirler."
+ },
+ "kazanc": {
+  "egitim_suresince": "Lisans eğitimi süresince öğrenciler, varsa burs imkânlarından yararlanabilir; staj dönemlerinde bazı işletmeler tarafından ödeme yapılabilmekte, bu dönemde iş kazası sigortası genellikle okul veya işletme tarafından karşılanmaktadır.",
+  "egitim_sonrasi": [
+   "Denizde çalışanların kazancı; çalıştığı geminin bandırası, şirketin büyüklüğü, deneyim ve yabancı dil bilgisine göre değişmekle birlikte genellikle sektör ortalamasının üzerinde seyreder.",
+   "Kamu kurum ve kuruluşlarında (liman başkanlıkları, kamu gemi işletmeleri vb.) istihdam edilenler, 657 sayılı Devlet Memurları Kanunu veya ilgili kurumun toplu iş sözleşmesi hükümlerine tabi olarak ücret alır.",
+   "Yabancı bandıralı gemilerde çalışanların ücretleri döviz bazında ödenebilir ve genellikle daha yüksek olabilir."
+  ]
+ },
+ "benzer_meslekler": [
+  "Uzakyol Başmühendisi/Başmakinisti",
+  "Uzakyol Vardiya Mühendisi/Makinisti",
+  "Gemi Baş Makine Zabiti",
+  "Gemi Makine Zabiti",
+  "Çarkçıbaşı (Gemi)",
+  "Sınırlı Makine Zabiti",
+  "Sınırlı Başmakinist"
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T11:42:53",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6770
+  }
+ }
+}

@@ -1,0 +1,75 @@
+{
+ "arac_gerec": [
+  "Hareketli bomlu vinç",
+  "Vinç kumanda kolları/paneli",
+  "Kaldırma palangası",
+  "Çelik halat ve kancalar",
+  "Tutma/bağlama mekanizmaları (sapan, zincir)",
+  "Telsiz veya diğer işaretleşme/iletişim cihazları",
+  "Kask, eldiven, koruyucu gözlük, iş ayakkabısı gibi kişisel koruyucu donanım",
+  "Gres pompası ve yağlama ekipmanları",
+  "Bakım için el aletleri",
+  "El feneri",
+  "İşaretleşme flaması/düdük"
+ ],
+ "benzer_meslekler": [
+  "Ceraskal Operatörü-İnşaat",
+  "Ceraskal Operatörü-Maden Ocağı",
+  "Diğer Vinç ve Ceraskal Operatörleri",
+  "Vinç Operatörü",
+  "Gantry Crane Vinç Operatörü",
+  "Kule Vinç Operatörü"
+ ],
+ "calisma_alanlari": "Vinç operatörleri (seyyar vinçten gayri bomlu vinçler); inşaat şantiyelerinde, fabrikalarda, limanlarda, maden ocaklarında, depolarda, çelik ve döküm tesislerinde, enerji santrallerinde ve ağır yük kaldırma-taşıma işlemlerinin yapıldığı kamu ve özel sektöre bağlı diğer işyerlerinde istihdam edilebilirler. Sanayi üretimi, inşaat ve altyapı yatırımlarındaki artışa bağlı olarak meslek elemanlarına duyulan ihtiyaç sürmektedir.",
+ "calisma_ortami": "Vinç operatörü, işini genellikle sabit veya hareketli vinç kabini içinde, bazen de yerden kumanda ederek açık havada (şantiye, liman, saha) veya kapalı mekânlarda (fabrika, atölye, depo) yürütür. Çalışma ortamı sıcak, soğuk, tozlu, gürültülü ve yüksekte olabilir; dikkatsizlik ağır kazalara yol açabileceğinden iş sağlığı ve güvenliği kurallarına titizlikle uyulması gerekir.\n\nOperatör, çalışması sırasında sinyalci/işaretçi, diğer işçiler, usta ve yöneticilerle sürekli iletişim halindedir. İşin niteliğine göre vardiyalı çalışma, uzun süre oturarak veya ayakta dikkat gerektiren görevleri yerine getirme söz konusu olabilir.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi; Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kursları, Milli Eğitim Bakanlığına bağlı mesleki eğitim kurumları, özel kurs firmaları ile işyerlerinde işbaşında (usta yanında) uygulamalı eğitim şeklinde verilmektedir.",
+  "giris_kosullari": [
+   "En az ilkokul/ilköğretim mezunu olmak",
+   "18 yaşını doldurmuş olmak",
+   "Operatörlük yapmasını engelleyecek bir sağlık sorunu (görme, işitme, denge vb.) bulunmamak",
+   "İlgili kurs ve mevzuatta belirtilen diğer şartları taşımak"
+  ],
+  "sure_ve_icerik": "Eğitimin süresi ve içeriği, eğitimi veren kuruma göre değişmektedir. Genellikle teorik ve uygulamalı derslerden oluşan eğitimde; vinç mekanizmaları ve kontrol sistemleri, yük kaldırma teknikleri, halat ve bağlama elemanlarının kullanımı, periyodik bakım, işaretleşme teknikleri ile iş sağlığı ve güvenliği konuları işlenir. Mesleğin resmî olarak tanımlanmış, standart bir örgün eğitim programı bulunmamakla birlikte, işbaşında usta yanında yetişme yaygın bir yoldur.",
+  "belge": "Eğitimi tamamlayanlara kursu veren kurumca \"Operatör Belgesi/Sertifikası\" düzenlenebilir. Ayrıca Mesleki Yeterlilik Kurumu (MYK) Mesleki Yeterlilik Belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "ek_bilgiler": "Ağır yük kaldırma işleri iş sağlığı ve güvenliği açısından riskli işler arasında değerlendirildiğinden, operatörlerin periyodik sağlık muayenesinden geçmesi ve düzenli iş güvenliği eğitimi alması önem taşır.",
+ "genel_ozellikler": [
+  "El ve gözlerini eşgüdümle kullanabilen,",
+  "Çevredeki çeşitli uyarıcıları aynı anda algılayabilen,",
+  "Dikkatli, tedbirli ve sorumluluk sahibi,",
+  "Mekanik sistemlere ilgi duyan,",
+  "Yükseklik ve dar alanlarda çalışmaktan çekinmeyen,",
+  "Ekip çalışmasına ve işaretleşmeye uyumlu,",
+  "Ani durumlarda hızlı ve doğru karar verebilen",
+  "kişiler olmaları gerekir."
+ ],
+ "gorevler": [
+  "Bomun ve kablolarının sağlamlığını ve çalışma durumunu kontrol eder.",
+  "Vinç motorunu çalıştırır.",
+  "Kontrol kollarını çalıştırarak bomu sağa, sola, aşağı ve yukarı hareket ettirir ve kaldırma palangasını yükün bağlanabileceği bir yere indirir.",
+  "Yükü kaldırır, ilerletir ve istenilen noktaya indirir.",
+  "Vinci çoğunlukla diğer işçilerin işaretlerine göre çalıştırır.",
+  "Kaldırma palangasına bir tutma mekanizması takılmış vinçleri de çalıştırabilir.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Deneyim ve ek eğitimler yoluyla farklı tip ve kapasitedeki vinçleri veya diğer ağır iş makinelerini kullanma yetkinliği kazanılabilir. Alınacak ek sertifikalarla usta öğreticilik/eğitmenlik yönünde ilerleme mümkündür.",
+  "is_hayatinda": "Deneyim kazanan operatörler ekip veya vardiya sorumluluğu, saha şefliği gibi görevlere yükselebilir. Ekipman maliyetinin yüksek olması nedeniyle kendi hesabına çalışma imkânı sınırlıdır."
+ },
+ "kazanc": {
+  "egitim_suresince": "Kurs veya eğitim süresince genellikle doğrudan bir kazanç elde edilmez; işbaşında usta yanında yetişenlere işletme tarafından sınırlı bir ödeme yapılabilir.",
+  "egitim_sonrasi": [
+   "Kamu kurum ve kuruluşlarında görev alanlar 657 sayılı Devlet Memurları Kanunu'na, işçi statüsünde çalışanlar ise bağlı oldukları toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde çalışanların kazancı genellikle asgari ücret düzeyinde başlar; işyerinin büyüklüğü, çalışılan sektör ve kişinin deneyim/bilgi birikimine göre bu düzeyin üzerine çıkabilir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T18:54:39",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5780
+  }
+ }
+}

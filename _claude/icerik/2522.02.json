@@ -1,0 +1,76 @@
+{
+ "arac_gerec": [
+  "Sunucu bilgisayarlar",
+  "Ağ anahtarlama (switch) ve yönlendirme (router) cihazları",
+  "Güvenlik duvarı (firewall) cihaz ve yazılımları",
+  "Yedekleme (backup) cihazları ve yazılımları",
+  "Kablosuz ağ erişim noktaları (access point)",
+  "Sunucu işletim sistemleri ve yapılandırma yazılımları",
+  "Sistem ve ağ izleme (monitoring) yazılımları",
+  "Ağ kablolama ve bağlantı ekipmanları",
+  "Kesintisiz güç kaynağı (UPS)",
+  "Sistem odası/veri merkezi altyapı donanımları",
+  "Kişisel bilgisayar ve çevre birimleri",
+  "Dizin hizmeti ve e-posta sunucu yazılımları"
+ ],
+ "genel_ozellikler": [
+  "Mantıksal düşünme ve analiz yeteneğine sahip,",
+  "Dikkatli ve sorumluluk sahibi,",
+  "Problem çözme becerisi gelişmiş,",
+  "Yeni teknolojileri takip etmeye istekli,",
+  "Ekip çalışmasına uyumlu,",
+  "Stres altında ve zaman baskısı içinde çalışabilen,",
+  "Öğrenmeye açık ve kendini sürekli geliştiren,"
+ ],
+ "gorevler": [
+  "İş organizasyonu yapar.",
+  "İşletmenin BT alt yapısını oluşturma faaliyetlerine katkı sağlar; BT alt yapısının donanımsal ve yazılımsal olarak planlanmasına katkı sağlar, işletmenin envanterindeki donanım ve yazılımların periyodik takibini yapar, ağ yapısı ile sunucu parkı ve sistem odasının fiziksel kurulum faaliyetlerine katkıda bulunur, kişisel bilgisayar sistemleri, çevre birimleri ve diğer BT donanımlarının fiziksel kurulumlarının gerçekleştirilmesine katkı sağlar, ortak kullanıma sunulacak çevre birimlerini yapılandırır, BT alt yapısını test eder.",
+  "Ağ donanımlarını yapılandırır; yerel ağ, geniş alan ağı ve internet bağlantısını kurar, kablosuz ağ güvenliğini yapılandırır, yönlendirme işlemlerini yapar, kişisel bilgisayar sistemlerini ve çevre birimlerini yapılandırır.",
+  "Sunucu sistemlerini yapılandırır; sunucu işletim sistemlerinin kurulumunu yapar, sunucu servislerini yapılandırır, dizin hizmetini yapılandırır, elektronik posta servisini yapılandırır, sunucular üzerinde çalışacak diğer ağ servislerini yapılandırır.",
+  "Sunucu, ağ ve yedekleme sistemlerini izler; bu sistemlerde hata kontrolü yapar, sistemleri yönetir, sistemlere yazılım yükler, yedekleme işlemlerini takip eder, sunucu ve ağ güvenlik planını uygular.",
+  "İnternet ve intranet uygulamalarının işletilmesine katkı sağlar; web sitelerini ve internet uygulamalarını yönetir, uygulamaları izler.",
+  "Sunucu, ağ ve yedekleme sistemlerinin bakımını yapar; yedekleme yapar, koruyucu ve periyodik bakım faaliyetlerini yürütür, periyodik ağ güvenlik takiplerini yapar, işletim sistemi ve sunucu yazılımlarının bakımını yapar, veri güvenliği ve gizliliğini sağlar.",
+  "Sunucu ve ağ sistemlerinde sorun giderir; BT sistemlerinin sorunları hakkında bilgi toplar, basit bağlantı problemlerini ve fiziksel sorunları giderir, ağ yapısındaki sorunları giderir, sunucu, ağ ve yedekleme sistemlerinde yazılımsal sorunları giderir.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "calisma_ortami": "Bilgisayar Sistemleri Yöneticileri genellikle kapalı ortamda, büro ve sunucu/sistem odalarında çalışır. Sistem odaları, cihazların soğutulması amacıyla düşük sıcaklıkta tutulur ve cihaz gürültüsü nedeniyle sesli olabilir; ayrıca elektrik ve kablolama ile ilgili bazı riskler barındırabilir. Görev, büyük ölçüde ekran başında oturarak yapılır ve yoğun dikkat, odaklanma gerektirir.\\n\\nÇalışma saatleri genellikle düzenlidir; ancak sistem arızaları, güncelleme/bakım çalışmaları veya güvenlik olayları gibi durumlarda mesai saatleri dışında, gece veya hafta sonu çalışma ya da nöbet uygulaması gerekebilir. Meslek mensubu; bilgi işlem ekibi, kurum yöneticileri, diğer birim çalışanları ve zaman zaman dış tedarikçi/teknik destek firmalarıyla iletişim kurarak çalışır.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi, üniversitelerin Bilgisayar Mühendisliği, Yazılım Mühendisliği, Bilgisayar Bilimleri, Bilgi Teknolojileri ve Bilişim Sistemleri Mühendisliği, Elektrik-Elektronik Mühendisliği gibi ilgili lisans programlarında verilmektedir. Ayrıca üniversiteler, özel eğitim kurumları ve teknoloji firmaları tarafından düzenlenen ağ ve sistem yönetimi konulu sertifika programları da mesleki bilgi ve beceri kazandırmaya yönelik eğitim olanakları sunmaktadır.",
+  "giris_kosullari": [
+   "Lisans düzeyinde ilgili bir bölümden mezun olmak",
+   "Üniversiteye girebilmek için YKS (Yükseköğretim Kurumları Sınavı) sınavına girip yeterli puanı almış olmak",
+   "Sayısal alanda yeterliliğe ve analitik düşünme becerisine sahip olmak"
+  ],
+  "sure_ve_icerik": "Lisans eğitimi 4 yıl sürmektedir. Eğitim programlarında genel olarak; işletim sistemleri, bilgisayar ağları, veri tabanı yönetimi, sunucu sistemleri, ağ ve bilgi güvenliği, programlama ve sistem yönetimi gibi dersler okutulmaktadır. Bazı programlarda bir dönem staj uygulaması da bulunmaktadır.",
+  "belge": "Eğitimini tamamlayanlara \"Lisans\" diploması verilir. Ayrıca sektörde faaliyet gösteren teknoloji firmaları tarafından sunucu, ağ ve işletim sistemleri alanlarında verilen uluslararası geçerliliği olan sertifikalar, istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Bilgisayar Sistemleri Yöneticileri; kamu kurumları ve özel sektörde bilgi işlem/bilgi teknolojileri departmanı bulunan her türlü kuruluşta istihdam edilebilir. Bankacılık ve finans, telekomünikasyon, bilişim, e-ticaret, sağlık, eğitim, kamu kurumları, sanayi ve hizmet sektörü başta olmak üzere, BT altyapısına ihtiyaç duyan tüm sektörlerde çalışabilirler. Ayrıca bilgi teknolojileri hizmeti sunan firmalar bünyesinde veya bağımsız danışman olarak da görev alabilirler.",
+ "kazanc": {
+  "egitim_suresince": "Lisans eğitimi süresince öğrenciler, Kredi ve Yurtlar Genel Müdürlüğünün öğrenim kredisi ve yurt hizmetlerinden yararlanabilir; bazı üniversiteler ayrıca başarı veya ihtiyaç bursu imkânı sunabilir.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında memur statüsünde çalışanlar 657 sayılı Devlet Memurları Kanunu'na, işçi statüsünde çalışanlar ise ilgili toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde kazanç; işyerinin büyüklüğü, çalışanın deneyimi, bilgi ve becerisi ile sektörün ücret düzeyine göre değişmekle birlikte, mesleğe yeni başlayanlar için genellikle asgari ücret düzeyinin üzerinde başlamakta, deneyim ve uzmanlıkla birlikte artış göstermektedir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Lisansüstü eğitim (yüksek lisans, doktora) yaparak akademik kariyer olanağı elde edilebilir. Ayrıca ağ, sistem yönetimi ve bilgi güvenliği alanlarında ileri düzey mesleki sertifikalar alarak uzmanlık geliştirilebilir.",
+  "is_hayatinda": "Deneyim kazandıkça Kıdemli Sistem Yöneticisi, Ağ ve Sistem Yöneticisi, Bilgi Teknolojileri Uzmanı, Bilgi İşlem Müdürü veya Bilgi Teknolojileri Yöneticisi gibi kademelere yükselebilirler."
+ },
+ "benzer_meslekler": [
+  "Bilgisayar Ağ ve Güvenliği Yöneticisi",
+  "Ağ Veri Tabanı Yöneticisi",
+  "Bilgisayar Ağı Analisti",
+  "Ağ Teknolojileri ve Bilgi Güvenliği Uzmanı",
+  "Siber Güvenlik Uzmanı",
+  "Enformasyon Teknolojileri Uzmanı"
+ ],
+ "ek_bilgiler": "Bilgisayar Sistemleri Yöneticisi, işletmelerin bilgi teknolojileri altyapısının sürekliliğini ve güvenliğini sağlamakla sorumlu olduğundan, Mesleki Yeterlilik Kurumu (MYK) belgesi ve sektörel sertifikalar istihdamda tercih sebebi olabilir. Bilgi teknolojilerindeki hızlı değişim nedeniyle, meslek mensuplarının bilgi ve becerilerini sürekli güncel tutmaları önem taşımaktadır.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T06:08:10",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 7508
+  }
+ }
+}

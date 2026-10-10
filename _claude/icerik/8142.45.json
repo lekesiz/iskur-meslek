@@ -1,0 +1,79 @@
+{
+ "arac_gerec": [
+  "Ultrasonik kaynak makinesi",
+  "Sonotrod (ultrasonik kaynak boynuzu)",
+  "Transdüser ve jeneratör (ultrasonik güç ünitesi)",
+  "Pleyt / kalıp tutucu aparat",
+  "Makine kontrol paneli ve ayar düğmeleri",
+  "Baskı düğmesi / pedal sistemi",
+  "PLC tabanlı otomasyon ve kontrol ünitesi",
+  "Ölçüm aletleri (kumpas, mastar)",
+  "Hatalı ürün ayırma kutusu",
+  "Basınçlı hava tabancası (temizlik için)",
+  "Koruyucu eldiven",
+  "İş gözlüğü",
+  "Kulak koruyucu (kulaklık/tıkaç)",
+  "İş önlüğü"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve gözlem gücü yüksek,",
+  "El ve göz koordinasyonuna sahip,",
+  "Tekrarlı ve ayakta çalışmaya uygun fiziksel dayanıklılığa sahip,",
+  "Sabırlı ve düzenli çalışabilen,",
+  "Makine ve teknik aletlere ilgili,",
+  "Sorumluluk sahibi,",
+  "Takım çalışmasına uyumlu,",
+  "İş sağlığı ve güvenliği kurallarına duyarlı"
+ ],
+ "calisma_ortami": "Ultrasonik Kaynak Makinesi Operatörü, genellikle plastik ürünler imal eden fabrika ve işletmelerin üretim atölyelerinde, kapalı ortamda çalışır. Çalışma büyük ölçüde ayakta ve makinenin başında, tekrarlı hareketlerle geçer; işin niteliğine göre vardiyalı çalışma düzeni söz konusu olabilir. Ortamda makine gürültüsü ve ultrasonik kaynak sırasında oluşan yüksek frekanslı ses bulunabileceğinden kulak koruyucu ekipman kullanımı önemlidir.\n\nÇalışma sırasında vardiya amiri, kalite kontrol elemanları ve diğer üretim hattı çalışanlarıyla sürekli iletişim halindedir. İşçi sağlığı ve iş güvenliği kurallarına uyum, kaynak kalitesinin korunması açısından büyük önem taşır.",
+ "egitim": {
+  "verildigi_yerler": "Bu meslek için örgün ortaöğretim kurumlarında (meslek lisesi veya mesleki eğitim merkezi) ayrı, standart bir alan/dal bulunmamaktadır. Mesleğe giriş genellikle işletme içinde işbaşında usta veya deneyimli operatör gözetiminde yapılan uygulamalı eğitimle gerçekleşir. Ayrıca Halk Eğitim Merkezleri ile İŞKUR'un açtığı mesleki eğitim kursları ve plastik işleme teknolojisine ilişkin mesleki ve teknik eğitim programları da ilgili temel bilgi ve becerilerin kazanılmasında destek sağlayabilir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "İşe alınacak işletmenin belirlediği sağlık ve fiziksel uygunluk şartlarını taşımak",
+   "Katılınacak kursların aradığı genel yaş ve eğitim şartlarını sağlamak"
+  ],
+  "sure_ve_icerik": "Mesleğe yönelik resmî olarak tanımlanmış standart bir çıraklık programı veya meslek lisesi müfredatı bulunmamaktadır. İşe yeni başlayanlar, işletme içinde kısa süreli uygulamalı eğitimle; makinenin ürün cinsine göre ayarlanması, pleyte ürün yerleştirme, kaynak işleminin yürütülmesi ve nezareti, kaynak kalitesinin kontrolü, hatalı ürünlerin ayrılması ve iş güvenliği kurallarına uygun çalışma konularında yetiştirilir. Halk Eğitim Merkezleri ve İŞKUR kurslarında verilen plastik işleme veya makine operatörlüğüne yönelik eğitimler de teorik bilgi desteği sağlayabilir.",
+  "belge": "İşletme içi eğitimler sonunda genellikle resmî bir diploma verilmez; katıldığı kurslara göre kursu açan kurumdan katılım veya başarı belgesi alınabilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, zorunlu olmamakla birlikte istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Ultrasonik Kaynak Makinesi Operatörleri, plastik ürün imalatı yapan özel sektör işletmelerinde, özellikle ambalaj, kozmetik, gıda ve küçük ev aletleri gibi yarı mamul plastik parçaların (kapak, klips vb.) birleştirildiği üretim hatlarında istihdam edilir. Plastik sektörünün büyümesine ve otomasyona dayalı üretim süreçlerinin yaygınlaşmasına bağlı olarak bu meslekte iş bulma olanakları orta düzeyde değerlendirilmektedir.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğe giriş genellikle işletme içinde kısa süreli uygulamalı eğitim şeklinde olduğundan, bu dönem için ayrı bir yasal ücret düzenlemesi bulunmamaktadır; katılım işletmenin uygulamasına göre ücretli veya ücretsiz olabilir. Halk Eğitim Merkezleri ve İŞKUR kurslarına katılanlara genellikle ayrıca ücret ödenmez.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanların kazancı genellikle asgari ücret düzeyindedir.",
+   "Çalışılan işletmenin büyüklüğü, kişinin tecrübesi, bilgi ve beceri düzeyi ile sektördeki ücret politikalarına göre kazanç değişebilir.",
+   "Özel sektörde çalışanların ücreti işveren ile işçi arasındaki anlaşmaya veya toplu iş sözleşmesi hükümlerine göre belirlenir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Deneyim kazanan operatörler, plastik üretim alanındaki kurs ve sertifika programlarına (plastik işleme, kalite kontrol, otomasyon sistemleri vb.) katılarak bilgi ve becerilerini geliştirebilir; isteyen ve koşulları sağlayanlar örgün veya açık öğretim yoluyla eğitim düzeyini yükseltebilir.",
+  "is_hayatinda": "Tecrübe ve bilgi birikimine bağlı olarak vardiya sorumlusu, ekip lideri, kalite kontrol elemanı veya üretim şefi gibi görevlere yükselebilir; farklı plastik üretim makinelerinde (enjeksiyon, ekstrüzyon vb.) operatörlük yapabilir."
+ },
+ "benzer_meslekler": [
+  "Plastik Enjeksiyon Üretim Elemanı",
+  "Plastik Kalıp Makinesi Operatörü (Presle)",
+  "Plastik Mamuller İmal İşçisi",
+  "Diğer Plastik Mamuller İmalat İşçileri",
+  "Plastik Vakum Ambalaj Makinesi /Termoform Makinesi Operatörü",
+  "Plastik Film İşleme Operatörü"
+ ],
+ "ek_bilgiler": "Ultrasonik kaynak işlemi sırasında yüksek frekanslı ses dalgaları ve makine gürültüsü oluşabileceğinden, çalışma ortamında işitme koruyucu donanım kullanımı önem taşır.",
+ "gorevler": [
+  "Yarı mamul plastik ürünlerin cinsine göre makineyi ayarlar.",
+  "Plastik ürünü pleyte yerleştirir.",
+  "Baskı düğmesine basarak makineyi çalıştırır ve kaynak işlemine nezaret eder.",
+  "Kaynak işlemi biten plastik ürünü pleytten alır, kaynak kalitesini kontrol eder.",
+  "Bozuk olan ürünlerin kapaklarını, klipslerini ve bacaklarını kontrol eder, bozuk olanları ayırır.",
+  "PLC sistem kontrolünü yapar.",
+  "Çalışma alanının temiz ve tertipli olmasını sağlar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T13:07:15",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5730
+  }
+ }
+}

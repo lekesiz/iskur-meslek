@@ -1,0 +1,85 @@
+{
+ "gorevler": [
+  "İş sağlığı ve güvenliği, yangın ve acil durum kurallarını uygular.",
+  "Kalite yönetim sistemi ile ilgili faaliyetleri yürütür.",
+  "İş organizasyonu yapar.",
+  "Temellerde, döşemelerde ve tavanlarda ısı yalıtımı yapar.",
+  "Toprakla temas eden döşemelerde ısı yalıtımı yapar.",
+  "Isıtılmayan iç hacme birleşik döşemelerde ısı yalıtımı yapar.",
+  "Kat arası (yüzer döşemelerde) ısı yalıtımı yapar.",
+  "Dış duvarda ısı yalıtımı yapar.",
+  "İç duvarda ısı yalıtımı yapar.",
+  "Toprakla temas eden perde duvarlarda ısı yalıtımı yapar.",
+  "Çatı arası kullanılmayan eğimli çatılarda ısı yalıtımı yapar.",
+  "Çatı arası kullanılan eğimli çatılarda ısı yalıtımı yapar.",
+  "Teras çatılarda ısı yalıtımı yapar.",
+  "Sanayi çatılarında ısı yalıtımı yapar.",
+  "Mesleki gelişime ilişkin faaliyetleri yürütür."
+ ],
+ "arac_gerec": [
+  "Metre, su terazisi, lazerli nivo, metal cetvel, gönye",
+  "Maket bıçağı, keski, testere, sac/levha kesme bıçağı",
+  "Mala, spatula, derz malası, mikser (harç/yapıştırıcı karıştırma için)",
+  "Sıcak hava/kaynak tabancası (örtü malzemeler için), tutkal tabancası",
+  "Çivi çakma tabancası, çekiç, matkap, vidalama tornavidası, dübel",
+  "Mineral yün (cam yünü, taş yünü), EPS/XPS köpük levhalar, poliüretan panel gibi ısı yalıtım malzemeleri",
+  "Buhar kesici/su yalıtım örtüleri, ayırıcı tabakalar, alüminyum folyo kaplı membranlar",
+  "Yapıştırma harcı, astar, mastik ve derz dolgu malzemeleri",
+  "Sabit ve tekerlekli iskele, platform, emniyet halatı ve bağlantı ekipmanları",
+  "Kişisel koruyucu donanım (baret, eldiven, koruyucu gözlük, toz/gaz maskesi, emniyet kemeri, iş ayakkabısı)"
+ ],
+ "genel_ozellikler": [
+  "El becerisine sahip,",
+  "El ve gözünü eşgüdümlü kullanabilen,",
+  "Dikkatli, titiz ve tedbirli,",
+  "Yükseklikte ve açık havada çalışmaktan çekinmeyen,",
+  "Fiziksel olarak dayanıklı,",
+  "Talimat ve teknik çizimleri doğru uygulayabilen,",
+  "Takım halinde çalışmaya uyumlu,",
+  "Yenilik ve gelişmelere açık"
+ ],
+ "calisma_ortami": "Isı yalıtımcısı, konut, işyeri, sanayi tesisi gibi her türlü bina inşaatında; temel, döşeme, duvar ve çatı gibi farklı yapı bölümlerinde çalışır. Çalışma ortamı büyük ölçüde şantiye alanı olup hem kapalı mekanlarda (bodrum, iç duvar, tavan) hem de açık havada (çatı, dış cephe) sürdürülür; bu nedenle sıcak, soğuk, yağmurlu hava koşullarına ve zaman zaman toz, lif ve kimyasal koku yoğunluğuna maruz kalınabilir. Çatı ve cephe çalışmaları yükseklikte yapıldığından iskele ve emniyet ekipmanı kullanımı önemlidir.\n\nMeslek genellikle ayakta, eğilerek veya diz çökerek, bedensel güç gerektiren biçimde yürütülür. Çalışma saatleri şantiyenin iş programına göre değişebilir, hava koşulları ve proje teslim süreleri zaman zaman fazla çalışmayı gerektirebilir. İş sırasında mimar, inşaat mühendisi, yalıtım teknikeri, şantiye şefi ve diğer inşaat sanatkarlarıyla (sıvacı, çatı ustası, elektrikçi vb.) koordineli çalışılır.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi, talep olması durumunda mesleki eğitim merkezlerinin inşaat teknolojisi alanı kapsamındaki ilgili dallarında çıraklık eğitimi şeklinde verilebilir. Ayrıca Halk Eğitim Merkezleri ile İŞKUR tarafından açılan mesleki eğitim kurslarında da ısı yalıtımı uygulamalarına yönelik eğitimler düzenlenmektedir. Meslekte usta yanında işbaşında yetişme yaygın bir yoldur.",
+  "giris_kosullari": [
+   "Çıraklık eğitimine başlamak için en az ortaokul mezunu olmak",
+   "14 yaşını doldurmuş olmak",
+   "Mesleğin öğrenimine sağlık durumu açısından elverişli olmak",
+   "Kurs programlarına katılım için genellikle okuryazar/ilköğretim mezunu olmak yeterlidir",
+   "Eğitim görmek istediği meslekte bir işyeri bulup işvereniyle çıraklık sözleşmesi imzalamak (çıraklık eğitimi için)"
+  ],
+  "sure_ve_icerik": "Mesleki eğitim merkezinde çıraklık eğitimi alınması durumunda eğitim, genel kültür dersleri ile meslek bilgisi ve uygulama derslerinden oluşur; teorik eğitimin bir kısmı eğitim merkezinde, uygulamalı eğitim ise işyerinde usta öğreticinin gözetiminde yürütülür. İŞKUR veya Halk Eğitim Merkezleri tarafından açılan kurslarda ise eğitim süresi kursun içeriğine göre değişmekte olup, malzeme tanıma, ölçü alma, yalıtım uygulama teknikleri ve iş güvenliği konularını kapsar.",
+  "belge": "Mesleki eğitim merkezinde eğitim tamamlandığında kalfalık ve ardından ustalık belgesi verilir. Kurs yoluyla eğitim alanlara ise katılım veya başarı belgesi düzenlenir. Mesleki Yeterlilik Kurumu (MYK) tarafından düzenlenen ulusal yeterlilik belgesi, istihdamda ve bazı iş kollarında tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Isı yalıtımcıları başta inşaat ve yalıtım taahhüt firmaları olmak üzere, konut ve işyeri inşaatları, sanayi tesisleri, alt yüklenici (taşeron) firmalar ile yalıtım malzemesi üreten ve uygulayan şirketlerde istihdam edilir. Deneyim kazandıktan sonra kendi adına yalıtım işleri üstlenerek serbest çalışabilir veya küçük ölçekli bir işletme kurabilir. İnşaat sektöründeki enerji verimliliği uygulamalarının yaygınlaşması, meslekte nitelikli işgücüne olan talebi artırmaktadır.",
+ "kazanc": {
+  "egitim_suresince": "Mesleki eğitim merkezinde çıraklık eğitimi gören öğrencilere 3308 sayılı Mesleki Eğitim Kanunu çerçevesinde belirlenen esaslara göre ücret ödenir ve iş kazası ile meslek hastalığına karşı sigorta primleri devletçe karşılanır. İŞKUR kurslarına katılanlara ise kurs süresince genel hükümler çerçevesinde cep harçlığı ve sigorta desteği sağlanabilir.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanların kazancı genellikle asgari ücret düzeyindedir.",
+   "Kazanç; çalışılan firmanın büyüklüğüne, yapılan işin kapsamına, kişinin bilgi, beceri ve deneyimine göre değişebilir.",
+   "Kamu kurumlarında işçi statüsünde istihdam durumunda ücret, ilgili toplu iş sözleşmesi hükümlerine göre belirlenir.",
+   "Kendi işini kuranların kazancı aldığı iş miktarına ve piyasa koşullarına bağlı olarak farklılık gösterir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleki eğitim merkezinde kalfalık belgesi alan kişi, eğitimine devam ederek ustalık belgesi alabilir. Ustalık belgesi sahipleri, ilgili mevzuat şartlarını sağlamaları halinde kendi işyerini açma hakkı kazanabilir. İsteyen kişiler ilgili alanlarda açılan ustalık eğitimi ve teknik öğretmenlik programlarına yönelerek eğitim alanında da ilerleyebilir.",
+  "is_hayatinda": "Meslekte tecrübe kazanan ısı yalıtımcıları ekip başı veya usta konumuna yükselebilir, şantiyelerde yalıtım işlerinin sorumluluğunu üstlenebilir. Deneyim ve sermaye birikimine bağlı olarak kendi yalıtım taahhüt işini kurarak işveren konumuna geçebilir."
+ },
+ "benzer_meslekler": [
+  "Yapı Yalıtımcısı",
+  "Su Yalıtımcısı",
+  "Ses Yalıtımcısı(Yapı Sektörü)",
+  "Yangın Yalıtımcısı",
+  "Püskürtme Tipi Poliüretan Isı Yalıtım Uygulama Operatörü",
+  "Akustik Tecritçisi"
+ ],
+ "ek_bilgiler": "Binalarda enerji verimliliğine yönelik mevzuat ve uygulamaların yaygınlaşması, ısı yalıtımı işlerine olan talebi artırmaktadır. Meslek, yükseklikte çalışma ve çeşitli yalıtım malzemeleriyle temas gerektirdiğinden iş sağlığı ve güvenliği kurallarına, kişisel koruyucu donanım kullanımına özel önem verilmesi gerekir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T23:16:10",
+  "usage": {
+   "input_tokens": 4,
+   "output_tokens": 10788
+  }
+ }
+}

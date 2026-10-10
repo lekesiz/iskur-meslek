@@ -1,0 +1,84 @@
+{
+ "arac_gerec": [
+  "Tornavida ve pense takımları",
+  "Lehim havyası ve lehim teli",
+  "Multimetre (avometre)",
+  "Osiloskop",
+  "Antistatik bilezik ve çalışma matı",
+  "Kablo test cihazı",
+  "Bilgisayar kasası ve iç bileşenleri (anakart, işlemci, bellek, güç kaynağı vb.)",
+  "Çevre birimleri (klavye, mouse, yazıcı, monitör)",
+  "Ağ kabloları, konnektör ve kablo sıkma (crimping) pensesi",
+  "Bilgisayar temizlik ve bakım malzemeleri (hava spreyi, temizlik bezi vb.)",
+  "Taşınabilir bellek ve kurtarma/kurulum medyaları (USB, DVD)",
+  "Bilgisayar tanılama ve bakım yazılımları"
+ ],
+ "genel_ozellikler": [
+  "Matematik ve fiziğe ilgili ve bu alanlarda başarılı,",
+  "El ve göz koordinasyonu iyi, el becerisine sahip,",
+  "Mekaniğe ve elektroniğe ilgili ve yetenekli,",
+  "Analitik düşünebilen ve problem çözme yeteneği gelişmiş,",
+  "Dikkatli, sabırlı ve sorumluluk duygusu gelişmiş,",
+  "Yeniliklere açık, teknolojik gelişmeleri takip edebilen,",
+  "Kullanıcı ve müşterilerle iyi iletişim kurabilen,",
+  "Düzenli ve sistemli çalışma alışkanlığına sahip"
+ ],
+ "gorevler": [
+  "İç donanım birimlerinin montajını yapar.",
+  "Dış donanım birimlerinin bağlantılarını yapar.",
+  "Nitelikli lehim yapar ve baskı devre hazırlar.",
+  "SMD montajı ve demontajını yapar.",
+  "Standartlara uygun olarak çalışabilir güç kaynağı yapar.",
+  "İşletim sisteminin kurulumunu yapar.",
+  "İşletim sisteminin yönetimini yapar.",
+  "Bilgisayar ortamı için koruyucu bakım yapar.",
+  "Bilgisayarın bakımı için gerekli programların kurulumunu yapar.",
+  "Donanımsal sorunları giderir.",
+  "Yazılım sorunlarını giderir.",
+  "İşletim sistemleri sorunlarını giderir.",
+  "Ağ sorunlarını giderir.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "calisma_ortami": "Bilgisayar satış ve teknik servis firmaları, kamu ve özel kurumların bilgi işlem birimleri ile bilgisayar bakım-onarım atölyeleri gibi genellikle kapalı mekânlarda; büro veya servis/atölye ortamında, bazen elektronik kartlarla çalışırken antistatik düzenlenmiş alanlarda görev yapar. Lehim işlemleri sırasında dumana, elektronik kartlarla çalışırken elektrostatik boşalmaya ve düşük düzeyde elektrik çarpmasına karşı dikkatli olunması, ilgili iş güvenliği kurallarına uyulması gerekir.\n\nÇalışma saatleri genellikle gündüz ve işyerinin resmi çalışma saatleri içindedir; ancak arıza giderme taleplerine göre mesai yapılabilir. Arıza tespiti ve kurulum için bazen müşteri/kullanıcı mekânlarına giderek saha çalışması da yapar. Çalışırken daha çok cihaz, alet ve donanım malzemeleriyle ilgilenir; bununla birlikte meslektaşları, yöneticileri ve kullanıcı/müşterilerle sürekli iletişim kurması gerekir.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi, yeterli talep olması durumunda mesleki eğitim merkezlerinde bilişim teknolojileri alanının ilgili dallarında çıraklık eğitimi şeklinde verilebilir. Ayrıca mesleki ve teknik Anadolu liselerinin bilişim teknolojileri alanında da bu mesleğe yönelik temel bilgi ve beceriler kazandırılır. Yetişkinler için Halk Eğitim Merkezleri ile İŞKUR'un açtığı bilgisayar donanım/teknik servis kursları da mesleğe giriş için bir yoldur. Mesleğe, resmi bir mesleki eğitim almadan, işbaşında usta yanında çalışarak ve kendi kendine gelişerek girilmesi de mümkündür.",
+  "giris_kosullari": [
+   "Çıraklık eğitimi için en az ortaokul mezunu olmak ve 14 yaşını doldurmuş olmak",
+   "Eğitim görülecek meslekte bir işyeri bulup işveren ile çıraklık sözleşmesi imzalamak",
+   "Mesleğin gerektirdiği işleri yapmaya sağlık durumunun uygun olması (gerektiğinde sağlık raporu ile belgelendirilir)",
+   "Halk Eğitim Merkezi veya İŞKUR kurslarına katılım için kurumların belirlediği genel katılım şartlarını (yaş, öğrenim durumu vb.) taşımak"
+  ],
+  "sure_ve_icerik": "Mesleki eğitim merkezlerinde çıraklık eğitimi ilköğretim sonrası yaklaşık 4 yıl sürer; bu sürenin büyük kısmı kalfalık, son yılı ustalık eğitimidir. Eğitim haftada bir gün mesleki eğitim merkezinde teorik meslek dersleri, kalan günlerde işyerinde usta öğretici gözetiminde uygulamalı çalışma şeklinde yürütülür. Halk Eğitim Merkezi ve İŞKUR kurslarının süre ve içeriği kursu düzenleyen kuruma göre değişmekle birlikte genel olarak bilgisayar donanımı tanıma, montaj-demontaj, nitelikli lehim ve baskı devre bilgisi, işletim sistemi kurulumu ve yönetimi, temel bilgisayar ağı bilgisi ile donanım/yazılım arızalarının tespit ve giderimi konularını kapsar. Mesleğe giriş için zorunlu bir yükseköğrenim programı bulunmamakla birlikte, bilişim veya elektronik-elektrik alanındaki mesleki ve teknik eğitim programları da bu mesleğe hazırlayıcı niteliktedir.",
+  "belge": "Mesleki eğitim merkezinde eğitimini tamamlayanlara önce kalfalık, ardından ustalık belgesi verilir; fark derslerini tamamlayanlar ayrıca meslek lisesi diploması alabilir. Halk Eğitim Merkezi veya İŞKUR kurslarını tamamlayanlara kursu veren kurum tarafından katılım/başarı belgesi düzenlenir. Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Bilgisayar satış ve teknik servis firmalarında, kamu ve özel kurum/kuruluşların bilgi işlem birimlerinde, bilgisayar bakım-onarım atölyelerinde, eğitim kurumlarında, bankalarda, hastanelerde ve bilgisayar kullanılan her türlü işyerinde çalışabilir. Deneyim ve birikim kazandıktan sonra kendi işini kurarak bilgisayar bakım-onarım servisi açabilir. Bilgisayar kullanımının ve bilişim sektörünün sürekli büyümesi nedeniyle bu meslekte yetişmiş teknik elemanlara olan talep sürmektedir; ancak sektördeki hızlı teknolojik değişim nedeniyle bilgi ve becerilerini sürekli güncelleyenlerin iş bulma olasılığı daha yüksektir.",
+ "kazanc": {
+  "egitim_suresince": "Mesleki eğitim merkezinde çıraklık eğitimi gören öğrencilere 3308 sayılı Mesleki Eğitim Kanunu gereğince işletmelerce asgari ücretin belirli bir oranında ücret ödenir ve iş kazası ile meslek hastalıkları sigortası primleri devletçe karşılanır. Halk Eğitim Merkezi veya İŞKUR kurslarına katılanlara ise kursun türüne göre değişen koşullar (bazı kurslarda kursiyer zaruri gider desteği gibi) uygulanabilir.",
+  "egitim_sonrasi": [
+   "Yeni mesleğe başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Kamu kurumlarında işçi statüsünde çalışanların ücreti ilgili toplu iş sözleşmesine göre belirlenir.",
+   "Özel sektörde ücret, işyerinin büyüklüğüne, kişinin tecrübesine, bilgi ve becerisine göre değişebilir.",
+   "Kendi işini kuranların kazancı iş hacmine ve müşteri potansiyeline göre artabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleki eğitim merkezinden diploma alarak mezun olanlar, bilişim/elektronik-elektrik alanının devamı niteliğindeki ön lisans/lisans programlarına yerleşmede ek puandan yararlanabilir. Ayrıca çeşitli kurum ve kuruluşlarca düzenlenen ileri düzey bilgisayar donanımı, ağ yönetimi ve sistem yönetimi kurslarına katılarak bilgi ve becerilerini geliştirebilir.",
+  "is_hayatinda": "Deneyim kazandıkça servis sorumlusu veya teknik ekip lideri gibi görevlere yükselebilir. Yeterli birikim ve sermaye sağladığında kendi bilgisayar bakım-onarım işyerini açarak işveren konumuna geçebilir. İlgi ve yeteneğine göre bilgisayar ağ sistemleri, sistem yöneticiliği gibi uzmanlık alanlarına yönelerek mesleki konumunu güçlendirebilir."
+ },
+ "benzer_meslekler": [
+  "Bilgisayar Bakım ve Onarımcısı",
+  "Bilgisayar Ağ Sistemleri ve Yönlendirme Elemanı",
+  "Bilgisayar Ağ Temelleri Elemanı",
+  "Bilgisayar Ağ Veri Tabanı Elemanı",
+  "Haberleşme Cihazları Bakım ve Onarımcısı"
+ ],
+ "ek_bilgiler": "Bilişim teknolojilerindeki hızlı değişim nedeniyle bu meslekte çalışanların bilgi ve becerilerini sürekli güncellemesi önemlidir. Yabancı kaynaklı donanım ve yazılım dokümantasyonunu takip edebilmek açısından yabancı dil (özellikle İngilizce) bilgisi iş bulma ve ilerleme olanaklarını artırabilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T06:42:18",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 7824
+  }
+ }
+}

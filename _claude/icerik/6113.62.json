@@ -1,0 +1,73 @@
+{
+ "gorevler": [
+  "Örtü altı sistemleri kurar.",
+  "Sera içi üretim ortamlarını tesis eder.",
+  "Harç hazırlar.",
+  "Generatif üretim yapar (tohumla üretim).",
+  "Vegetatif üretim yapar (çelik, daldırma, ayırma gibi yöntemlerle üretim).",
+  "Fide yetiştirir.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "arac_gerec": [
+  "Sera ve örtü altı yapı malzemeleri (polietilen örtü, demir/plastik iskelet vb.)",
+  "Harç karışım malzemeleri (torf, perlit, kum, kompost vb.)",
+  "Tohum, çelik, ana bitki materyali",
+  "Viyol, saksı, fide kasası",
+  "Aşı bıçağı, budama makası, çapa, kürek, tırmık, elek",
+  "Sulama ve damlama sistemi ekipmanları, sırt pompası, kova",
+  "Gübre ve bitki koruma ürünleri",
+  "Termometre, higrometre, pH metre",
+  "Eldiven, maske, çizme, iş önlüğü/tulumu",
+  "Ortama uygun koruyucu kıyafet"
+ ],
+ "genel_ozellikler": [
+  "Doğayı ve bitkileri seven,",
+  "Sabırlı ve dikkatli,",
+  "El becerisine sahip,",
+  "Fiziksel olarak dayanıklı,",
+  "Nemli ve sıcak ortamda çalışmaya uygun bünyeli,",
+  "Düzenli ve titiz çalışan,",
+  "Ekip halinde çalışmaya yatkın,",
+  "Bitkilere karşı alerjisi olmayan"
+ ],
+ "calisma_ortami": "Süs bitkileri fidesi yetiştiricisi, genellikle seralarda ve örtü altı üretim alanlarında, zaman zaman da açık alanlarda çalışır. Sera içi ortamlar sıcak ve nemli olabileceğinden solunum yolu rahatsızlığı bulunanlar için zorlayıcı olabilir; açık alanda çalışma ise mevsim koşullarına bağlı olarak sıcak, soğuk, tozlu veya çamurlu ortamlarda sürdürülebilir. Çalışma sırasında toprak, harç malzemeleri ve bitki koruma ürünleriyle doğrudan temas söz konusu olduğundan iş güvenliği önlemlerine (eldiven, maske vb.) dikkat edilmesi gerekir.\n\nÇalışma genellikle ayakta, eğilerek veya çömelerek sürdürülür ve fiziksel güç gerektirir. Üretim dönemlerine göre çalışma yoğunluğu artabilir, hafta sonu ve mesai saatleri dışında çalışma gerekebilir. Meslek mensubu; işletme sahibi, ziraat mühendisi/teknisyeni, diğer bahçıvanlık ve fide üretim çalışanlarıyla birlikte ekip hâlinde çalışır.",
+ "egitim": {
+  "verildigi_yerler": "Bu mesleğin örgün bir okul veya üniversite programı bulunmamaktadır. Mesleğe yönelik bilgi ve beceriler; Halk Eğitim Merkezleri ile İŞKUR tarafından açılan mesleki eğitim kurslarında, tarım il/ilçe müdürlüklerinin düzenlediği eğitimlerde veya işletmelerde işbaşında, usta yanında çalışarak kazanılır.",
+  "giris_kosullari": [
+   "Okuryazar olmak,",
+   "Genel olarak ilkokul/ilköğretim mezunu olmak,",
+   "Kurs veya işletme tarafından aranan yaş ve sağlık koşullarını taşımak (bazı kurumlarca ek koşul istenebilir)."
+  ],
+  "sure_ve_icerik": "Mesleğin kurs süresi ve içeriği, eğitimi veren kuruma göre değişiklik gösterir. Kurslarda genel olarak sera kurulumu, harç hazırlama, tohum ve çelikle üretim (generatif/vegetatif üretim), fide bakımı, sulama-gübreleme ve hastalık/zararlılarla mücadele konularında teorik ve uygulamalı eğitim verilir. İşbaşında yetişme durumunda ise bilgi ve beceri, işletmede deneyimli bir usta veya teknik personel gözetiminde zaman içinde kazanılır.",
+  "belge": "Kurs sonunda genellikle katılım belgesi veya sertifika verilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, mevcutsa, istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Süs bitkileri fidesi yetiştiricileri; özel süs bitkisi, fide ve fidan üretim işletmelerinde, seralarda, fidanlıklarda, tarım il/ilçe müdürlüklerine bağlı üretim birimlerinde, belediyelerin park-bahçe ve sera ünitelerinde, peyzaj firmalarının üretim bölümlerinde çalışabilir. Deneyim ve sermaye birikimiyle kendi sera/fidanlık işletmesini kurarak bağımsız olarak da çalışabilirler.",
+ "kazanc": {
+  "egitim_suresince": "Halk Eğitim Merkezi veya İŞKUR kurslarına katılım genellikle ücretsizdir; bazı kurs programlarında katılımcılara kursiyer harçlığı ödenebilir. İşbaşında usta yanında yetişme durumunda, çalışılan işletmede asgari ücret düzeyinde bir ücret alınabilir ve sigorta yapılabilir.",
+  "egitim_sonrasi": [
+   "Özel sektörde çalışanlar, işçi statüsünde 4857 sayılı İş Kanunu'na tabi olarak çalışır; ücret işyerinin büyüklüğüne, çalışanın deneyim ve becerisine göre işveren ile karşılıklı anlaşma yoluyla belirlenir ve genellikle asgari ücret düzeyinde başlar.",
+   "Kamu kurum/kuruluşlarına bağlı işletmelerde mevsimlik veya sürekli işçi statüsünde çalışanlar için ücret, ilgili toplu iş sözleşmesi hükümlerine göre belirlenir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Meslekte ilerlemek isteyenler, ileri düzey kurslara katılarak bilgi ve becerilerini geliştirebilir. İsteyen ve uygun koşulları sağlayanlar, açık öğretim veya örgün yollarla tarım, bahçe bitkileri veya peyzaj alanında ön lisans/lisans eğitimi alarak tekniker veya teknisyen düzeyinde ilerleyebilir.",
+  "is_hayatinda": "Mesleğinde deneyim kazanan çalışanlar, işletmelerde usta başı, tarım çavuşu veya kısım şefi gibi görevlere yükselebilir. Yeterli bilgi birikimi ve sermayeye sahip olanlar kendi sera veya fidanlık işletmelerini kurabilir."
+ },
+ "benzer_meslekler": [
+  "Süs Bitkileri Yetiştirme Elemanı",
+  "Fidan Yetiştiricisi",
+  "Seracı",
+  "Çiçek Yetiştirme İşçisi",
+  "Kesme Çiçek Yetiştiricisi",
+  "Dikim İşçisi (Bahçecilik)"
+ ],
+ "ek_bilgiler": "Bu meslekte çalışma yoğunluğu, üretim ve pazar dönemlerine göre mevsimsel olarak değişiklik gösterebilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T21:25:01",
+  "usage": {
+   "input_tokens": 4,
+   "output_tokens": 7383
+  }
+ }
+}

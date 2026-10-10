@@ -1,0 +1,70 @@
+{
+ "arac_gerec": [
+  "Deri ütüleme/presleme makinesi",
+  "Isıtmalı silindirler",
+  "Pres tablası ve kalıpları",
+  "Sıcaklık ve basınç göstergeleri",
+  "Makine kontrol paneli",
+  "Deri taşıma arabaları ve raflar",
+  "Deri germe aparatları",
+  "Koruyucu eldiven ve iş önlüğü",
+  "Yağlama ve bakım gereçleri",
+  "Temizlik bez ve malzemeleri"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli,",
+  "El becerisine sahip,",
+  "Fiziksel olarak güçlü ve dayanıklı,",
+  "Düzenli ve tertipli çalışabilen,",
+  "Makine ve ekipman kullanımına yatkın,",
+  "Talimat ve yönergelere uygun çalışabilen,",
+  "Sabırlı ve özenli,"
+ ],
+ "calisma_ortami": "Deri ütüleme işçileri, deri ve kürk işleme fabrika ile atölyelerinde, kapalı mekânlarda çalışır. Çalışma ortamı, makinelerin yaydığı ısı nedeniyle sıcak olabilir; tabaklama ve deri işleme sürecinden kalan kimyasal koku, nem ve gürültü gibi etkenler de söz konusudur. Çalışma genellikle ayakta ve tam gün sürer; işyerinin üretim yoğunluğuna göre vardiyalı çalışma gerekebilir.\n\nDeri ütüleme işçisi çalışırken daha çok makine ve malzemeyle ilgilenir; işlem sırasında ustabaşı, kalite kontrol elemanları ve diğer atölye çalışanları ile iletişim kurar.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi için ülkemizde örgün bir okul programı bulunmamaktadır. Meslek, genellikle işyerlerinde usta yanında uygulamalı olarak öğrenilmekte; ayrıca Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kurslarında da ilgili bilgi ve beceriler kazandırılabilmektedir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "İşin gerektirdiği fiziksel güce ve dayanıklılığa sahip olmak",
+   "İşe başlama için yasal çalışma yaşını doldurmuş olmak"
+  ],
+  "sure_ve_icerik": "İşbaşında usta yanında yetişme süresi işyerine ve kişinin öğrenme hızına göre değişir. Açılması durumunda kurs süresi ve içeriği düzenleyen kurum tarafından belirlenir; genel olarak deri özellikleri, makine kullanımı ve ayarları, ütüleme/presleme teknikleri ile iş sağlığı ve güvenliği konularını kapsar.",
+  "belge": "Kurs yoluyla eğitim alanlara genellikle \"Kurs Bitirme Belgesi\" verilir. İşyerinde usta yanında yetişenler için resmî bir belge çoğunlukla düzenlenmez; Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Deri ütüleme işçileri; deri ve kürk işleme/tabaklama fabrikaları, deri finisaj atölyeleri, deri konfeksiyon ve kundura üretim tesislerinde istihdam edilebilir. Kamuda bu meslek için istihdam olanağı bulunmamaktadır. Özel sektörde, deri sanayinin yoğun olduğu bölgelerdeki işletmelerde iş bulma imkânı vardır.",
+ "kazanc": {
+  "egitim_suresince": "İşbaşında usta yanında yetişme sürecinde genellikle asgari ücret düzeyinde bir kazanç sağlanabilir; Halk Eğitim Merkezi veya İŞKUR kurslarında eğitim süresince herhangi bir kazanç söz konusu değildir.",
+  "egitim_sonrasi": [
+   "İşe yeni başlayanların kazancı genellikle asgari ücret düzeyindedir.",
+   "Deneyim ve belirli makine tiplerinde uzmanlaşma arttıkça ücret düzeyi yükselebilir.",
+   "Ücretler işyerinin büyüklüğüne, çalışanın tecrübesine ve üretim yoğunluğuna göre değişiklik gösterir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "İşyerinde çalışarak deneyim kazanan işçi, farklı tip ütüleme/presleme makinelerinde ihtisaslaşabilir; işletme bünyesinde düzenlenen hizmet içi eğitimlerle bilgi ve becerisini geliştirebilir.",
+  "is_hayatinda": "Deneyim kazandıktan sonra ustabaşı veya atölye şefi olabilir; bilgi ve tecrübesini artırarak kendi işyerini açabilir."
+ },
+ "benzer_meslekler": [
+  "Deri Islah İşçisi (Makineyle)",
+  "Deri Kurutma Makinesi İşçisi",
+  "Deri Temizleme İşçisi (Makineyle)",
+  "Post Temizleme İşçisi (Makineyle)",
+  "Deri-Finisajcı",
+  "Deri Dolapcı"
+ ],
+ "ek_bilgiler": "Deri işleme sektöründe çalışma, tabaklama sürecinden kalan kimyasal maddelerle ve ısıtmalı makinelerle temas içerebileceğinden, iş sağlığı ve güvenliği kurallarına eksiksiz uyulması önemlidir.",
+ "gorevler": [
+  "Ütüsü yapılacak derileri makine üzerine yerleştirerek makineyi çalıştırır.",
+  "Silindirler veya pres vasıtasıyla derileri ütüler.",
+  "Belirli tip bir makine üzerinde ihtisaslaşabilir ve bu şekilde derileri ayırt eder.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T14:44:04",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 4564
+  }
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "arac_gerec": [
+  "Astar kesme (pres tipi) makinesi",
+  "Model ve numaralara göre hazırlanmış kesim ıstampaları (kalıplar)",
+  "Kesilecek astar malzemesi (deri, suni deri, kumaş vb.)",
+  "Makinenin kesim tablası",
+  "Kesim bıçakları",
+  "Numaralama kalemi veya etiketleme malzemesi",
+  "Temizlik bezi ve malzemeleri",
+  "Koruyucu eldiven",
+  "İş önlüğü",
+  "Basit bakım-onarım el aletleri"
+ ],
+ "genel_ozellikler": [
+  "El becerisine sahip,",
+  "Göz ve elini eşgüdümle kullanabilen,",
+  "Dikkatli ve düzenli,",
+  "Fiziksel olarak dayanıklı, uzun süre ayakta/makine başında çalışabilen,",
+  "Sorumluluk sahibi,",
+  "Makine ve teknik aletlerle çalışmaya istekli,",
+  "Takım halinde çalışmaya uyumlu"
+ ],
+ "calisma_ortami": "Astar kesme makinesi operatörleri ayakkabı imalatı yapılan atölye ve fabrikalarda, genellikle kapalı mekânlarda ve makine başında ayakta çalışır. Çalışma ortamı zaman zaman gürültülü ve tozlu olabilir; kesici bıçak ve basınçlı makine ile çalışıldığından iş güvenliği kurallarına uyum önemlidir. Çalışma saatleri genellikle işyerinin üretim temposuna bağlı olarak düzenli mesai şeklindedir, sipariş yoğunluğuna göre fazla çalışma gerekebilir.\n\nMeslek çalışanı iş sırasında üretim bandındaki diğer işçilerle (saya dikicisi, kesimci, montaj operatörü vb.), ustabaşı ve atölye sorumlusu ile sürekli etkileşim halindedir.",
+ "egitim": {
+  "verildigi_yerler": "Bu meslek için örgün eğitim kurumlarında ayrı bir program bulunmamaktadır. Meslek genellikle işyerlerinde usta yanında işbaşı eğitimi yoluyla ya da Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kurslarında kazanılmaktadır. Mesleki eğitim merkezlerinin ayakkabı ve deri üretimi ile ilgili alan/dallarında eğitim alanlar da bu mesleğe yönelebilir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "Çıraklık eğitimine girecekler için 14 yaşını doldurmuş olmak",
+   "Meslek için gerekli el becerisi ve fiziksel uygunluğa sahip olmak",
+   "Sağlık durumunun makine ile çalışmaya elverişli olması"
+  ],
+  "sure_ve_icerik": "Mesleğin resmî olarak tanımlanmış bir eğitim süresi bulunmamaktadır. Kişi, işyerinde usta gözetiminde uygulamalı olarak makinenin kullanımını, basınç ayarını, ıstampa yerleştirme ve kesim tekniklerini öğrenerek belirli bir süre içinde (genellikle birkaç ay) işi yapabilecek düzeye gelir. Kurs yoluyla eğitim alınması durumunda ise kısa süreli teorik ve uygulamalı eğitim verilir.",
+  "belge": "Çıraklık eğitimi kapsamında yetişenler kalfalık/ustalık belgesi alabilir. Kurs yoluyla eğitim alanlara kurs tamamlama/katılım belgesi verilir. Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Bu meslekte yetişenler, ayakkabı imalatı yapan özel sektör işletmelerinin astar kesim/hazırlık bölümlerinde çalışabilir. İş bulma olanağı, ayakkabı ve deri sektörünün üretim hacmine ve bölgesel üretim yoğunluğuna (özellikle ayakkabı imalatının yoğun olduğu illerde) bağlı olarak değişir. Mesleğin tek bir üretim işlemine odaklı olması nedeniyle bağımsız işyeri açma olanağı sınırlıdır; çalışanlar genellikle ücretli olarak istihdam edilir.",
+ "kazanc": {
+  "egitim_suresince": "Çıraklık eğitimi kapsamında yetişenlere, 3308 sayılı Mesleki Eğitim Kanunu çerçevesinde asgari ücretin belirli bir oranında ücret ödenir. İşbaşında veya kurs yoluyla yetişenler ise genellikle çalıştıkları işyerinde işçi statüsünde ücret alır.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Kazanç; çalışılan işyerinin büyüklüğü, kişinin tecrübesi, beceri düzeyi ve sektördeki ücret düzeyine göre değişebilir.",
+   "Özel sektörde çalışanlar işveren ile karşılıklı anlaşmaya göre ücret alır."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Çıraklık eğitimi yoluyla yetişenler kalfalık ve ardından ustalık belgesi alarak ilerleyebilir. Ayrıca çeşitli kurs ve mesleki gelişim programlarına katılarak bilgi ve becerilerini artırabilirler.",
+  "is_hayatinda": "Deneyim kazanan operatörler, diğer kesim ve üretim makinelerinde (örneğin kesici veya lazerli kesim makinesi) çalışacak şekilde yetkinlik kazanabilir, ustabaşılık veya bölüm sorumluluğu gibi görevlere yükselebilir."
+ },
+ "benzer_meslekler": [
+  "Kesici (Makine İle) -Ayakkabı, Çanta Vb.",
+  "Saya Dikici (Makine İle)",
+  "Monte Makinesi Operatörü(Ayakkabı)",
+  "Lazerli Kesim Makinesi Operatörü(Ayakkabı)",
+  "Ayakkabı Taban Basma Makinesi Operatörü",
+  "Sayacı"
+ ],
+ "ek_bilgiler": "Mesleğin icrası, ayakkabı imalatında kullanılan astar kesme makinelerinin teknolojik gelişimine bağlı olarak değişebilmektedir; otomasyon ve lazerli kesim sistemlerinin yaygınlaşması, geleneksel pres tipi astar kesme makinesi operatörlüğünün iş gücü talebini etkileyebilir.",
+ "gorevler": [
+  "Makinenin basınç ayarını yaparak makineyi çalıştırır.",
+  "Kesilecek astarı makinenin tablası üzerine sererek verilen model ve numaralara göre seçtiği ıstampayı en az fire ile sağlam ve ıskartasız bir kesim elde edilecek şekilde astar üzerine yerleştirir.",
+  "İlgili kol yardımıyla bıçaklara hareket vererek astarın ıstampaya göre kesilmesini sağlar.",
+  "Kesilen parçaları ve ıstampayı makineden çıkarır.",
+  "Kesilen parçaları ilgili kısma göndererek makineyi temizler.",
+  "Astarları numaralandırır ve makinenin bakım ve onarımını yapar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T14:47:04",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 4583
+  }
+ }
+}

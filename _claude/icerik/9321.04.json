@@ -1,0 +1,73 @@
+{
+ "gorevler": [
+  "Paketlenecek ürünleri tasnif eder ve kalite hatasını bildirir.",
+  "Ürünleri kutu veya ambalajlarına düzgünce yerleştirir.",
+  "Kolilerin ağzını bantlar veya şeritler.",
+  "Paketlenen ürünlerin üzerine etiket ve barkod yapıştırır.",
+  "Çalışma alanını ve ambalaj malzemelerini düzenli tutar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "arac_gerec": [
+  "Koli bantlama makinesi veya el bantlama aparatı",
+  "Şerit bağlama/kayışlama makinesi",
+  "Koli, kutu, karton ve ambalaj malzemeleri",
+  "Streç film, naylon poşet, balon folyo gibi koruyucu ambalaj malzemeleri",
+  "Etiket ve barkod yapıştırma aparatı, etiket yazıcısı",
+  "Tartı/baskül",
+  "El arabası, transpalet veya forklif",
+  "Bıçak, makas, cetvel gibi kesici ve ölçü aletleri",
+  "Eldiven, iş önlüğü, maske gibi kişisel koruyucu donanım",
+  "Palet ve istif malzemeleri"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli,",
+  "Düzenli ve tertipli,",
+  "El ve göz koordinasyonu iyi,",
+  "Fiziksel olarak dayanıklı,",
+  "Hızlı ve pratik hareket edebilen,",
+  "Takım halinde çalışmaya uyumlu,",
+  "Talimat ve kurallara uyan,",
+  "Sorumluluk sahibi"
+ ],
+ "calisma_ortami": "Ambalajcı, genellikle fabrika, atölye veya depo ortamlarında, üretim bandının sonunda ya da paketleme bölümünde çalışır. Çalışma ortamı sektöre göre değişmekle birlikte sıcak, nemli, tozlu veya gürültülü olabilir; bazı işletmelerde soğuk hava deposu koşullarında çalışmak gerekebilir. Görev genellikle ayakta, uzun süre tekrarlayan el ve kol hareketleriyle yapılır; ağır kaldırma ve taşıma işlemleri de görevin bir parçası olabilir.\n\nİşletmenin büyüklüğüne ve üretim hacmine göre vardiyalı çalışma ve hafta sonu çalışması söz konusu olabilir. Meslek elemanı, çalışmasını genellikle bir ekip içinde, usta başı, kalite kontrol elemanları ve diğer üretim çalışanlarıyla eş güdüm içinde yürütür.",
+ "egitim": {
+  "verildigi_yerler": "Ambalajcılık mesleğinin yürütülebilmesi için örgün bir mesleki eğitim programı bulunmamaktadır. Meslek, genellikle işyerlerinde deneyimli çalışanların veya usta başının gözetiminde işbaşında öğrenilir. Ayrıca Türkiye İş Kurumu (İŞKUR) ve Halk Eğitim Merkezlerinin açtığı mesleki eğitim kurslarında da bu alanda eğitim verilebilmektedir.",
+  "giris_kosullari": [
+   "Okuryazar olmak",
+   "Meslekle ilgili bedensel yeterliliğe sahip olmak",
+   "Çalışılacak işyerinin belirlediği yaş ve sağlık şartlarını taşımak"
+  ],
+  "sure_ve_icerik": "Meslek için belirlenmiş resmî bir eğitim süresi bulunmamaktadır. İşe yeni başlayanlar, çalıştıkları işyerinde kısa sürede uygulamalı olarak işin gerektirdiği bilgi ve becerileri kazanır. İŞKUR ve Halk Eğitim Merkezlerinde açılan paketleme/ambalajlama konulu kurslar ise genellikle kısa süreli olup teorik ve uygulamalı eğitim içerir.",
+  "belge": "Örgün eğitim sonunda verilen bir diploma veya ustalık belgesi bulunmamaktadır. Kursları tamamlayanlara kurs bitirme belgesi/sertifika verilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Ambalajcılar; gıda, içecek, tekstil, kozmetik, ilaç, plastik, kimya ve elektronik gibi çok çeşitli üretim sektörlerindeki işletmelerin paketleme/ambalajlama bölümlerinde, depo ve lojistik merkezlerinde çalışma olanağı bulur. İşe alımlarda genellikle yüksek bir eğitim düzeyi aranmaz; iş bulma olanakları üretim ve ihracat hacmine, mevsimsel talebe ve sektördeki istihdam yoğunluğuna göre değişmektedir. Özellikle büyük şehirlerdeki sanayi bölgeleri ve organize sanayi sitelerinde çalışma olanağı daha fazladır.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğin örgün bir eğitim süreci bulunmadığından eğitim süresince ücret söz konusu değildir. İŞKUR kurslarına katılanlara, katılım şartlarına bağlı olarak kursiyer harçlığı ödenebilir.",
+  "egitim_sonrasi": [
+   "Kazanç genellikle asgari ücret düzeyinde başlar.",
+   "Özel sektörde ücret; işyerinin büyüklüğü, çalışılan sektör, kişinin deneyimi ve performansına göre değişebilir.",
+   "Kamuya bağlı işletmelerde işçi statüsünde çalışanlar, toplu iş sözleşmesi hükümlerine tabi olarak ücret alır."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Meslekte örgün bir eğitim kademelenmesi bulunmamaktadır. Kişi, deneyim kazandıkça İŞKUR veya Halk Eğitim Merkezlerinin açtığı ileri düzey mesleki kurslara katılarak bilgi ve becerilerini geliştirebilir.",
+  "is_hayatinda": "Deneyim ve performansa bağlı olarak ekip liderliği, vardiya amirliği veya ustabaşılık gibi görevlere yükselme mümkündür. Zamanla kalite kontrol elemanlığı veya depo/sevkiyat sorumluluğu gibi görevlere geçiş yapılabilir."
+ },
+ "benzer_meslekler": [
+  "Ambalajlama İşçisi (Elle)",
+  "Paketleme İşçisi",
+  "Paket Yapma İşçisi - Kağıt, Karton vb.",
+  "Etiket Yapıştırma İşçisi (Elle)",
+  "Boya Dolum ve Ambalajlama İşçisi",
+  "Paketleme İşçisi (Gıda)"
+ ],
+ "ek_bilgiler": "Gıda sektöründe çalışacak ambalajcılardan, işyerinin tabi olduğu hijyen ve gıda güvenliği mevzuatı gereğince hijyen eğitimi sertifikası istenebilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T19:58:32",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5513
+  }
+ }
+}

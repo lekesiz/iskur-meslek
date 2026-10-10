@@ -1,0 +1,76 @@
+{
+ "arac_gerec": [
+  "Şardon makinesi",
+  "Bilgisayarlı kontrol paneli",
+  "İğneli/teleli şardon silindirleri (iğne bantları)",
+  "Kumaş besleme ve sarma tertibatı",
+  "Kumaş ruloları",
+  "Hız, basınç ve sıcaklık ayar düğmeleri",
+  "İş emri ve sipariş formları",
+  "Koruyucu eldiven",
+  "Toz maskesi",
+  "Kulak koruyucu",
+  "Kalite kontrol etiketleri ve formları",
+  "Basit bakım-onarım el aletleri"
+ ],
+ "genel_ozellikler": [
+  "El ve göz koordinasyonuna sahip,",
+  "Dikkatli ve titiz,",
+  "Makine ve bilgisayarlı ekipman kullanımına yatkın,",
+  "Kumaş dokusu ve yüzey farklılıklarını ayırt edebilen,",
+  "Sorumluluk sahibi,",
+  "Ayakta ve uzun süre çalışabilecek fiziksel dayanıklılığa sahip,",
+  "Yönergelere ve iş talimatlarına uygun çalışabilen,",
+  "Takım çalışmasına uyumlu"
+ ],
+ "calisma_ortami": "Şardon makinesi operatörleri, tekstil ve konfeksiyon fabrikalarının kumaş terbiye (apre/finisaj) bölümlerinde, kapalı mekânlarda çalışır. Çalışma ortamı genellikle gürültülü olup, havalandırması yetersiz işyerlerinde hava lif ve toz ile yüklü olabilir; bu nedenle koruyucu maske ve kulaklık kullanımı önem taşır. Görev genellikle tam gün sürdürülür, işletmenin üretim yoğunluğuna bağlı olarak vardiyalı çalışma söz konusu olabilir.\n\nÇalışma sırasında büyük ölçüde makine ve kumaş malzemesi ile ilgilenilir; zaman zaman vardiya amiri, bölüm şefi, kalite kontrol elemanları ve diğer makine operatörleri ile iletişim kurulur. İş, dikkat ve sürekli gözlem gerektirdiğinden operatörün makinenin çalışmasını yakından takip etmesi beklenir.",
+ "egitim": {
+  "verildigi_yerler": "Şardon makinesi operatörlüğü için örgün bir meslek eğitimi programı bulunmamaktadır. Meslek, genellikle işyerlerinde işbaşında usta yanında yetişme yoluyla öğrenilir. Ayrıca Halk Eğitim Merkezleri ve İŞKUR tarafından açılan mesleki eğitim kurslarında tekstil terbiye işlemleri ve makine kullanımına ilişkin temel bilgiler verilebilir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "İşe girişte 18 yaşını doldurmuş olmak genellikle beklenir",
+   "Açılan kurslara katılımda, kurumların duyurduğu yaş ve eğitim koşullarına uyulması gerekir"
+  ],
+  "sure_ve_icerik": "İşbaşında eğitim süresi işletmeden işletmeye ve kişinin öğrenme hızına göre değişmekle birlikte, genellikle usta yanında belirli bir süre uygulamalı çalışma şeklinde yürütülür. Bu süreçte makinenin tanınması, bilgisayardan ayar yapılması, kumaşın makineye beslenmesi, işlemin takibi ve iş güvenliği kuralları öğretilir. Açılabilecek kurslarda ise tekstil terbiye (apre) işlemleri, kumaş özellikleri, makine kullanımı ve iş sağlığı-güvenliği konularında temel bilgiler verilir.",
+  "belge": "İşyerinde edinilen deneyim sonucunda işletmeden \"çalışma belgesi\" alınabilir; katılınan kurslardan ise \"Kurs Bitirme Belgesi\" verilebilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Şardon makinesi operatörleri, kumaş terbiye (apre/finisaj) bölümü bulunan tekstil ve konfeksiyon fabrika ve işletmelerinde, özellikle örme ve dokuma kumaş üretimi yapan tesislerde istihdam edilirler. Kamu kurumlarında bu meslek için istihdam olanağı bulunmamaktadır. Tekstil sanayinin yoğunlaştığı illerde (İstanbul, Bursa, Denizli, Kahramanmaraş, Gaziantep gibi) iş bulma olanağı daha fazladır.",
+ "kazanc": {
+  "egitim_suresince": "İşbaşında yetişme döneminde genellikle asgari ücret düzeyinde veya işletmenin belirlediği bir ücret ödenebilir.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Deneyim, bilgi birikimi ve çalışılan işletmenin büyüklüğüne göre kazanç artabilir.",
+   "Kamuda istihdam olanağı bulunmadığından ücret, işveren ile yapılan anlaşmaya ve işletme koşullarına göre belirlenir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "İşletme bünyesinde düzenlenebilecek hizmet içi eğitimlerle makine kullanımı, bilgisayarlı ayar sistemleri, farklı kumaş türlerine uygun işlem teknikleri ve kalite kontrol konularında bilgi ve beceri geliştirilebilir.",
+  "is_hayatinda": "Deneyim ve bilgi birikimi kazanan operatörler usta, vardiya sorumlusu veya terbiye (apre) bölümü şefliğine yükselebilir; farklı terbiye makinelerini (sanfor, tüylendirme vb.) kullanabilecek yetkinliğe ulaşabilir."
+ },
+ "benzer_meslekler": [
+  "Tüylendirme Makinesi İşçisi (Otomatik Tezgah)",
+  "Sanfor Operatörü(Sanforcu)",
+  "Kumaş Açıcı",
+  "Kumaş Katlama Makinesi Operatörü",
+  "Denim Kumaş Operatörü",
+  "Silici (Tekstil)"
+ ],
+ "ek_bilgiler": "Şardon işlemi, kumaş yüzeyine tüylenme/hav kabartma uygulanarak yumuşaklık, dolgunluk ve sıcak tutma özelliği kazandırılan bir terbiye (apre) sürecidir; bu nedenle meslek, tekstil terbiye hattında çalışan diğer makine operatörlükleriyle yakından ilişkilidir.",
+ "gorevler": [
+  "Makineyi kullanıma hazırlar.",
+  "Şardon yapılacak kumaşlarla ilgili bilgileri alır.",
+  "Bilgisayardan şardon makinesinin ayarlarını yapar.",
+  "Kumaşı makineye verir.",
+  "Şardon makinesinin çalışmasına nezaret eder.",
+  "İşlemi tamamlanan kumaşları kalite kontrole gönderir.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T13:58:44",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5360
+  }
+ }
+}

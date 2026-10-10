@@ -1,0 +1,74 @@
+{
+ "arac_gerec": [
+  "SCADA sistemi ve kontrol bilgisayarları",
+  "Operatör/kumanda paneli",
+  "Atık besleme sistemi ekipmanları",
+  "Yakma fırını kontrol üniteleri",
+  "Baca gazı arıtım sistemi ekipmanları",
+  "Buhar ve elektrik üretim ünitelerine ait göstergeler",
+  "Gaz analiz ve ölçüm cihazları",
+  "Sıcaklık, basınç ve debi ölçüm cihazları",
+  "Telsiz ve diğer haberleşme cihazları",
+  "Kişisel koruyucu donanım (iş elbisesi, baret, eldiven, gaz maskesi vb.)",
+  "İş talimatları ve operasyon formları",
+  "Vardiya rapor defteri",
+  "Yangın söndürme ve acil müdahale ekipmanları"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve sorumluluk sahibi,",
+  "Teknik konulara ilgili,",
+  "Analitik düşünebilen ve problem çözme becerisine sahip,",
+  "Hızlı ve isabetli karar verebilen,",
+  "Takım çalışmasına yatkın,",
+  "Stresli ve acil durumlarda sağlıklı karar verebilen,",
+  "İletişim becerileri gelişmiş,",
+  "Fiziksel ve zihinsel olarak dayanıklı,"
+ ],
+ "calisma_ortami": "Atık Yakma Operatörü, atık yakma tesislerinde hem kapalı kontrol/SCADA odasında hem de tesis sahasında (yakma fırını, atık besleme üniteleri, baca gazı arıtma sistemleri) görev yapar. Kontrol odasında bilgisayar ekranları üzerinden sistemi izlerken, gerektiğinde sahaya çıkarak fırın, besleme sistemleri ve arıtma ünitelerini yerinde denetler. Çalışma ortamı yüksek sıcaklık, gürültü, toz, koku ve gaz gibi unsurlar içerebileceğinden iş sağlığı ve güvenliği önlemlerine tam uyum gerektirir.\n\nTesisler genellikle 7/24 kesintisiz işletildiğinden görev vardiyalı sistemle yürütülür. Operatör, sahada çalışan atık yakma elemanlarını sevk ve koordine eder; vardiya amirleri, bakım-onarım ekipleri, çevre ve kalite sorumluları ile sürekli iletişim halinde çalışır.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin örgün ve standart bir eğitim programı bulunmamaktadır. Atık yakma, atıktan enerji üretimi ve çevre teknolojileri alanında faaliyet gösteren işletmeler, personelini genellikle işbaşında ve hizmet içi eğitimlerle yetiştirmektedir. Ortaöğretim düzeyinde meslek liselerinin kimya teknolojisi, çevre, elektrik-elektronik, makine veya enerji gibi alanlarından mezun olanlar ile ilgili ön lisans/lisans programlarından (çevre mühendisliği, kimya, enerji sistemleri mühendisliği vb.) mezun olanlar bu alanda tercih edilmektedir. Halk Eğitim Merkezleri ve İŞKUR tarafından açılan atık yönetimi, çevre teknolojileri ile ilgili kurslar da mesleğe hazırlıkta destekleyici olabilir.",
+  "giris_kosullari": [
+   "En az ortaöğretim (lise ve dengi) mezunu olmak",
+   "Vardiyalı çalışma düzenine ve fiziksel olarak zorlu koşullara uygun olmak",
+   "Tercihen meslek lisesinin veya ön lisans/lisans düzeyinde çevre, kimya, enerji, elektrik-elektronik ya da makine gibi alanlarda eğitim almış olmak"
+  ],
+  "sure_ve_icerik": "İşletmeler, yeni başlayan personeli genellikle deneyimli bir operatör veya usta yanında işbaşında yetiştirir. Eğitim süresi işletmeden işletmeye ve kişinin hazır bulunuşluk düzeyine göre değişmekle birlikte; SCADA sisteminin kullanımı, atık besleme sistemleri ve yakma fırını işletimi, buhar/elektrik üretim süreçleri, baca gazı arıtım sistemleri, acil durum prosedürleri, iş sağlığı ve güvenliği ile çevre mevzuatı konularında uygulamalı eğitim verilir.",
+  "belge": "İşletme içi eğitim sonunda genellikle resmi bir diploma verilmez; katılım veya kurs bitirme belgesi düzenlenebilir. Mesleki Yeterlilik Kurumu (MYK) Mesleki Yeterlilik Belgesi, tesisin faaliyet alanına göre istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Atık Yakma Operatörü; belediyelere veya özel sektöre ait atık yakma tesislerinde, katı atık bertaraf ve geri kazanım tesislerinde, atık ısıdan enerji üretim (atıktan enerji - WtE) tesislerinde ve bazı tehlikeli atık bertaraf tesislerinde istihdam edilir. Kamuya bağlı belediye şirketlerinde genellikle işçi statüsünde, özel sektörde ise atık yönetimi ve enerji üretimi alanında faaliyet gösteren firmalarda çalışabilir. Katı atık yönetimi ve enerji geri kazanımına yönelik yatırımların artmasıyla bu alandaki istihdam olanaklarının gelişmesi beklenmektedir.",
+ "gorevler": [
+  "İş sağlığı ve güvenliği, çevre koruma ve kalite önlemlerinin uygulanması ile ilgili işlemleri yürütür.",
+  "İş organizasyonu ile ilgili işleri yürütür.",
+  "Yakma tesisinin işletimini koordine eder.",
+  "Mesleki gelişim faaliyetlerine katılır."
+ ],
+ "kazanc": {
+  "egitim_suresince": "İşbaşı eğitim sürecinde genellikle asgari ücret düzeyinde veya kursiyer/stajyer ödeneği şeklinde bir kazanç söz konusu olabilir.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde ücretlendirilir.",
+   "Kamuya bağlı işletmelerde (belediye şirketleri vb.) işçi statüsünde çalışanların ücreti toplu iş sözleşmesi hükümlerine göre belirlenir.",
+   "Özel sektörde kazanç; işletmenin büyüklüğü, kişinin tecrübesi ve sektörün genel ücret düzeyine göre değişkenlik gösterir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Alanında açılan ileri düzey kurslara ve sertifika programlarına katılarak; SCADA ve otomasyon sistemleri, çevre mevzuatı, enerji üretim süreçleri gibi konularda bilgi ve yeterliliğini artırabilir.",
+  "is_hayatinda": "Deneyim kazandıkça vardiya amirliği, saha sorumluluğu veya tesis işletme şefliği gibi daha üst pozisyonlara yükselebilir."
+ },
+ "benzer_meslekler": [
+  "Çöp Fırını Operatörü",
+  "Atık Isıdan Enerji Üretim Tesisi Kumanda Operatörü",
+  "Atık Isıdan Enerji Üretim Tesisi Saha Elemanı",
+  "Atık Besleme Elemanı",
+  "Atık Yakma Saha Elemanı",
+  "Alternatif Yakıt Hazırlama Operatörü"
+ ],
+ "ek_bilgiler": "Atık yakma tesislerinde yüksek sıcaklık, yanıcı/patlayıcı maddeler ve baca gazı gibi risklerin bulunması nedeniyle bu işler, faaliyet alanına göre tehlikeli veya çok tehlikeli işler kapsamında değerlendirilebilir; bu durumda ilgili pozisyonlar için Mesleki Yeterlilik Kurumu (MYK) Mesleki Yeterlilik Belgesi aranabilir. Katı atık yönetimi ve atıktan enerji üretimi yatırımlarının artmasıyla mesleğe olan talebin önümüzdeki dönemde artması beklenmektedir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T11:04:10",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 7304
+  }
+ }
+}

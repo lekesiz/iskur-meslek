@@ -1,0 +1,79 @@
+{
+ "arac_gerec": [
+  "Ekstrüzyon presi ve kumanda paneli",
+  "Kalıp ve kalıp tutucu takımları",
+  "Biyet kesme makinesi",
+  "Biyet ısıtma/tavlama fırını (indüksiyon fırını)",
+  "Kovan (konteyner)",
+  "Piston ve çekiç (puller) düzeneği",
+  "Soğutma tüneli/soğutma masası",
+  "Germe (gerdirme) tezgahı",
+  "Boy kesim testeresi",
+  "Yaşlandırma (ısıl işlem) fırını",
+  "Kumpas, mikrometre ve metre gibi ölçüm aletleri",
+  "Forklift ve köprülü vinç",
+  "El aletleri (anahtar takımı, pense, tornavida)",
+  "Kişisel koruyucu donanım (baret, iş gözlüğü, eldiven, kulaklık, iş elbisesi)"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve tedbirli,",
+  "El ve göz koordinasyonu gelişmiş,",
+  "Fiziksel olarak güçlü ve dayanıklı,",
+  "Yüksek sıcaklıkta çalışmaya uygun sağlık durumuna sahip,",
+  "Makine ve teknik aletleri kullanmaya yatkın,",
+  "Sorumluluk sahibi ve talimatlara uyan,",
+  "Ekip çalışmasına uyumlu,",
+  "Temel matematik, ölçme ve malzeme bilgisine sahip,"
+ ],
+ "gorevler": [
+  "İş sağlığı ve güvenliği, çevre koruma ve kalite önlemlerinin uygulanması ile ilgili işlemleri yürütür.",
+  "İş organizasyonu ile ilgili işlemleri yürütür.",
+  "Çalışma alet ve donanımını korur, talimatlara uygun bakımlarını sağlar.",
+  "Ekstrüzyon ön hazırlık işlemlerini yürütür.",
+  "Biyet hazırlık işlemlerini yürütür.",
+  "Ekstrüzyon işlemleri ile ilgili soğutma işlemini yapar, ilk parçanın kontrolünü gerçekleştirir, boy kesiminin yapılmasını sağlar.",
+  "Ekstrüzyon sonrası işlemlerini yürütür.",
+  "Mesleki gelişim faaliyetlerini yürütür."
+ ],
+ "calisma_ortami": "Metal Ekstrüzyon Üretim İşçisi, metal ve alaşım profillerin üretildiği fabrika ve atölyelerde, genellikle kapalı mekânlarda çalışır. Çalışma ortamı, biyetlerin tavlanması ve ekstrüzyon presinin çalışması nedeniyle yüksek sıcaklık, belirli derecede gürültü ve metal tozu/dumanına açık olabilir. Ağır ve hareketli makinelerle, sıcak metalle ve basınçlı sistemlerle çalışıldığından iş kazası riski bulunur; bu nedenle iş sağlığı ve güvenliği kurallarına ve kişisel koruyucu donanım kullanımına titizlikle uyulması gerekir.\n\nÜretim genellikle vardiya sistemiyle sürdürülür ve meslek elemanı, kalıp seçimi, makine ayarı ve kalite kontrol gibi aşamalarda vardiya arkadaşları, ustabaşı, kalite kontrol personeli ve bakım-onarım ekipleriyle yakın iletişim halinde çalışır.",
+ "egitim": {
+  "verildigi_yerler": "Metal Ekstrüzyon Üretim İşçiliği için standart, örgün bir mesleki eğitim programı bulunmamaktadır. Meslek elemanları genellikle işyerlerinde deneyimli ustaların yanında işbaşında eğitilerek veya Halk Eğitim Merkezleri ile İŞKUR tarafından açılan mesleki eğitim kurslarına katılarak mesleğe hazırlanır. Metal Teknolojisi alanındaki mesleki ve teknik eğitim programları da bu meslek için temel oluşturabilir.",
+  "giris_kosullari": [
+   "En az ilköğretim/ortaokul mezunu olmak",
+   "Fiziksel olarak sağlıklı, yüksek sıcaklık ve ağır iş koşullarında çalışmaya uygun olmak",
+   "Yasal olarak en az 18 yaşını doldurmuş olmak (tehlikeli/çok tehlikeli iş niteliği taşıyabilen görevler nedeniyle)"
+  ],
+  "sure_ve_icerik": "Mesleğe özgü standart bir eğitim süresi ve müfredat bulunmamaktadır. İşe yeni başlayanlar, işyerinde deneyimli bir ustanın gözetiminde kalıp seçimi, biyet hazırlama, makine ayarı, ekstrüzyon ve ekstrüzyon sonrası işlemleri uygulamalı olarak öğrenir. Bu süreç işletmenin büyüklüğüne ve kullanılan teknolojiye göre değişmekle birlikte genellikle birkaç ay ile bir yıl arasında sürer.",
+  "belge": "Örgün bir meslek eğitimi diploması bulunmamaktadır. Katılınan kurslar sonunda kurs bitirme belgesi verilir; Mesleki Yeterlilik Kurumu (MYK) tarafından yetkilendirilen kuruluşlarca yapılan sınavlarda başarılı olunması durumunda Mesleki Yeterlilik Belgesi alınabilir."
+ },
+ "calisma_alanlari": "Metal Ekstrüzyon Üretim İşçileri; alüminyum ve diğer metal/alaşım profil, boru ve çubukların üretildiği metal işleme tesislerinde çalışır. Bu tesisler genellikle inşaat, otomotiv, beyaz eşya, mobilya ve ambalaj sektörlerine girdi sağlayan fabrikalardır. Sanayinin yoğun olduğu organize sanayi bölgelerinde ve metal işleme kümelerinin bulunduğu illerde iş bulma olanakları daha fazladır.",
+ "kazanc": {
+  "egitim_suresince": "İşyerinde usta yanında çalışarak mesleğe başlayanlar genellikle asgari ücret düzeyinde bir ücretle işe alınır. İŞKUR tarafından açılan mesleki eğitim kurslarına katılanlara kursiyer harçlığı ödenebilir.",
+  "egitim_sonrasi": [
+   "Kamuya bağlı kuruluşlarda işçi statüsünde istihdam edilenlerin ücretleri ilgili toplu iş sözleşmesi hükümlerine göre belirlenir.",
+   "Özel sektörde çalışanların ücreti işin niteliğine, deneyime ve işletmenin büyüklüğüne göre değişmekte, deneyimsiz başlayanlar genellikle asgari ücret düzeyinde ücret almaktadır.",
+   "Deneyim kazanan, ustabaşılık veya vardiya sorumluluğu gibi görevlere yükselen meslek elemanlarının kazancı artabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğe yönelik örgün bir ilerleme basamağı bulunmamaktadır. Çalışanlar işyerinde deneyim kazanarak daha karmaşık kalıp ve makine ayarları gerektiren işleri üstlenebilir; isteyenler Mesleki Yeterlilik Kurumu belgelendirme sınavlarına girerek yeterliliklerini belgeleyebilir.",
+  "is_hayatinda": "Deneyim kazanan meslek elemanları usta, ekip lideri, vardiya amiri veya üretim şefi gibi pozisyonlara yükselebilir. İlgili kurum ve kuruluşların açtığı sertifika programlarına katılarak kalite kontrol, bakım-onarım gibi farklı bölümlerde görev alabilirler."
+ },
+ "benzer_meslekler": [
+  "Haddeci-Demir Dışı Metaller",
+  "Sıcak Haddeci-Çelik",
+  "Soğuk Haddeci-Çelik",
+  "Dikişli Boru Profil Üretim Operatörü",
+  "Dikişsiz Boru Haddecisi",
+  "Isıl İşlemci"
+ ],
+ "ek_bilgiler": "Ekstrüzyon işlemi, yüksek sıcaklıkta ısıtılmış metalin güçlü hidrolik presler altında şekillendirilmesini içerdiğinden, bu meslek iş sağlığı ve güvenliği açısından riskli işler kapsamında değerlendirilebilir; işe alımlarda sağlık uygunluğu ve iş güvenliği eğitimi talep edilebilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda tercih sebebi olabilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T11:43:10",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 7121
+  }
+ }
+}

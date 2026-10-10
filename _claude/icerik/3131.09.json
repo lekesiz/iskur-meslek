@@ -1,0 +1,84 @@
+{
+ "arac_gerec": [
+  "Telsiz ve kuranportör cihazları",
+  "Telefon ve faks cihazları",
+  "Çeşitli ölçü ve kontrol aletleri (ampermetre, voltmetre, watmetre vb.)",
+  "Güç trafoları, fan soğutma pompaları ve teneffüs cihazları",
+  "Hava kompresörleri",
+  "Röleler ve senkronoskop cihazı",
+  "Aküler ve akü şarj üniteleri",
+  "Yangın söndürme ekipmanları",
+  "Devre kesiciler ve ayırıcılar",
+  "Gaz, hava ve hidrolik basınçlı kesiciler",
+  "Kayıt ve izleme panoları/yazılımları",
+  "Temel el aletleri (tornavida, pense vb.)",
+  "Kişisel koruyucu donanım (baret, izoleli eldiven, iş elbisesi, çelik burunlu ayakkabı, koruyucu gözlük vb.)"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve tedbirli olan,",
+  "Sorumluluk duygusu yüksek olan,",
+  "Elektrik ve elektroniğe ilgili olan,",
+  "Fiziksel ve zihinsel olarak sağlıklı ve dayanıklı olan,",
+  "Acil ve stresli durumlarda soğukkanlı ve hızlı karar verebilen,",
+  "El-göz koordinasyonu gelişmiş olan,",
+  "Ekip çalışmasına yatkın olan,",
+  "Vardiyalı ve düzenli çalışmaya uygun olan"
+ ],
+ "calisma_ortami": "Yüksek gerilim trafo merkezi işletme elemanları, çalışmalarını trafo merkezlerinin kontrol odalarında (kapalı alan) ve açık şalt sahasında (açık alan) sürdürürler. Çalışma ortamı, yüksek gerilimli teçhizatın bulunması nedeniyle ciddi iş güvenliği riskleri taşır; elektrik çarpması, trafo ve kesicilerden kaynaklanan gürültü, açık sahada çalışıldığında her türlü hava koşuluna (sıcak, soğuk, yağmur) maruz kalma gibi etkenler söz konusudur. Trafo merkezlerinin sürekli izlenmesi gerektiğinden çalışma genellikle vardiya usulü (gece-gündüz, 7/24) yürütülür.\\n\\nMeslek elemanları görevleri sırasında vardiya arkadaşları, vardiya amirleri, bakım-onarım ekipleri ve bağlı oldukları kurumun (TEİAŞ, elektrik dağıtım/üretim şirketleri vb.) yetkilileriyle sürekli iletişim halindedir. İş güvenliği kurallarına uyum, bu meslekte hayati önem taşır.",
+ "gorevler": [
+  "Trafo merkezindeki telsizleri ve kuranportörleri, telefon ve faksı, ölçü aletlerini, güç trafolarının fan soğutma pompaları ve teneffüs cihazlarını kontrol eder.",
+  "Hava kompresörlerini, röleleri ve senkronoskop cihazını kontrol eder.",
+  "Aküleri, yangın söndürme aletlerini ve aydınlatma sistemini kontrol eder.",
+  "Trafolardaki yağ seviyelerini ve yağ kaçağını kontrol eder.",
+  "Trafo merkezinde bulunan ölçü aletlerinin değerlerini kaydeder.",
+  "Kesicilerin gaz, hava ve hidrolik basınçlarını kaydeder.",
+  "Güç trafosu üzerindeki sıcaklık değerini, kademe değiştirici sayı değerini ve ortamın sıcaklığını kaydeder.",
+  "Akü ölçümlerini kaydeder.",
+  "Güç aktarım ve dağıtımının arızasını kaydeder, sesli alarmı susturur, ışıklı arıza sinyallerini siler.",
+  "Devre kesicisini uzaktan açar/kapar.",
+  "Ayırıcıyı açarak veya kapayarak manevralar yapar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Mesleğe özgü, bağımsız bir mesleki ve teknik ortaöğretim alanı/dalı bulunmamaktadır. Bu mesleğe girenler genellikle meslek liselerinin elektrik-elektronik teknolojisi alanı gibi ilgili alanlardan veya düz lise mezunu olarak işe alınır; mesleğe hazırlık, işe giriş sonrası kurum içi hizmet içi eğitim ve işbaşında usta/deneyimli personel yanında eğitim yoluyla sağlanır. TEİAŞ, elektrik dağıtım ve üretim şirketleri gibi kurumlar, yeni personele trafo merkezi işletmeciliği, yüksek gerilimde çalışma kuralları ve iş güvenliği konularında kurslar düzenlemektedir.",
+  "giris_kosullari": [
+   "Ortaöğretimi (lise ve dengi) tamamlamış olmak,",
+   "Tercihen elektrik-elektronik teknolojisi alanı gibi ilgili bir alandan mezun olmak,",
+   "Kurumların açtığı işe alım sınav ve mülakatlarında başarılı olmak,",
+   "Sağlık durumunun yüksek gerilim ortamında çalışmaya uygun olması."
+  ],
+  "sure_ve_icerik": "Resmî olarak tanımlanmış, belirli bir süreye bağlı bağımsız bir eğitim programı bulunmamaktadır. İşe alınan personel, kurum içi teorik eğitimler (elektrik tesisleri, röle ve koruma sistemleri, manevra kuralları, iş güvenliği vb.) ile birlikte belirli bir süre deneyimli personel nezaretinde işbaşı eğitim alarak mesleği öğrenir.",
+  "belge": "Lise diploması; işe giriş sonrası alınan kurum içi eğitim ve iş güvenliği sertifikaları."
+ },
+ "calisma_alanlari": "Yüksek gerilim trafo merkezi işletme elemanları; Türkiye Elektrik İletim Anonim Şirketi (TEİAŞ), elektrik dağıtım şirketleri, termik, hidroelektrik ve yenilenebilir enerji santralleri gibi enerji üretim tesislerinin trafo merkezlerinde, büyük sanayi işletmelerinin ve organize sanayi bölgelerinin kendi trafo merkezlerinde istihdam edilmektedir. Elektrik enerjisi üretimi, iletimi ve dağıtımı alanındaki kamu ve özel sektör kuruluşlarının büyümesine ve yatırımlarına bağlı olarak meslekte iş bulma olanakları değişkenlik gösterebilir.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğe özgü, ücretli bir örgün eğitim süreci bulunmadığından, bu dönemde düzenli bir kazanç söz konusu değildir. İşe alınan kişi, kurum içi işbaşı eğitim sürecinde kurumun ücret politikasına göre maaş almaya başlar.",
+  "egitim_sonrasi": [
+   "İlk işe girişte kazanç, genellikle asgari ücret düzeyinde olmaktadır.",
+   "Kamu kurumlarında (TEİAŞ gibi) çalışanlar için ücret, 657 sayılı Devlet Memurları Kanunu veya işçi statüsündekiler için ilgili toplu iş sözleşmesi hükümlerine göre belirlenir.",
+   "Özel sektörde çalışanların ücreti, işletmenin büyüklüğüne, çalışanın deneyim ve becerisine bağlı olarak karşılıklı anlaşma ile belirlenir ve zamanla artabilir.",
+   "Vardiyalı çalışma, gece ve fazla mesai ödemeleri ücreti etkileyebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Lise mezuniyeti sonrası yükseköğretime giriş sınavlarında başarılı olanlar, elektrik-elektronik teknikerliği, elektrik mühendisliği gibi ilgili ön lisans veya lisans programlarına yönelerek mesleki bilgi ve unvanlarını ilerletebilirler.",
+  "is_hayatinda": "Deneyim kazanan çalışanlar; vardiya amirliği, trafo merkezi sorumluluğu, saha şefliği veya bakım-onarım ekip sorumluluğu gibi görevlere yükselebilir."
+ },
+ "benzer_meslekler": [
+  "Elektrik Tevzii Tablosu Operatörü-Enerji Merkezi",
+  "Vardiya Amiri/Elektrik Enerjisi Üretimi",
+  "Termik Santral Elektrik İşletme Operatörü",
+  "Nezaretçi ve Ustabaşı (Elektrik-Gaz İstihsal ve Dağıtım)",
+  "Hidroelektrik Santral Operatörü",
+  "Diğer Güç Santrali Teçhizat Operatörleri"
+ ],
+ "ek_bilgiler": "Yüksek gerilimli teçhizatla çalışma riski nedeniyle bu meslek, tehlikeli/çok tehlikeli işler kapsamında değerlendirilebilmekte; periyodik iş güvenliği eğitimleri ve ilgili sertifikalar çalışanlar için önemlidir. Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda tercih sebebi olabilir. TEİAŞ ve elektrik dağıtım şirketlerine girişte, kurumların açtığı personel alım sınavları ve mülakatlar belirleyici olmaktadır.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T10:42:44",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6188
+  }
+ }
+}

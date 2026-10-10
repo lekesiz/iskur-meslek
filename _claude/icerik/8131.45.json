@@ -1,0 +1,80 @@
+{
+ "arac_gerec": [
+  "Tartım terazisi",
+  "Öğütme/ezme makinesi ve silindirleri",
+  "Hidrolik çekme makinesi ve çekme mastarları",
+  "Kurutma makinesi/kurutma rafları",
+  "Mastar ve tutamaklı kesme bıçağı",
+  "Fırın hücresi (kontrollü ısıtma fırını)",
+  "Balmumu veya gres dolu işlem kapları",
+  "Oluk açma ve tutkal sürme makinesi",
+  "Tahta çubuk yapıştırma düzeneği",
+  "Kalem kesme, boyama, baskı ve cilalama otomatik makinesi",
+  "Kişisel koruyucu donanım (eldiven, toz maskesi, gözlük, iş önlüğü)",
+  "El arabası/istif paletleri"
+ ],
+ "benzer_meslekler": [
+  "Ezme Makinesi Operatörü-Kimyasal Maddeler",
+  "Karıştırma Makinesi Operatörü-Kimyasal Maddeler",
+  "Öğütme Makinesi Operatörü (Kimyasal ve İlgili İşlemler)",
+  "Kurutma Makinesi Operatörü-Kimyasal ve İlgili İşlemler",
+  "Boya Kurutma Fırını İşçisi",
+  "Diğer Kırma, öğütme, karıştırma ve Silindiraj/ Kalandır İşçileri (Kimyasal ve İlgili İşlemleri)"
+ ],
+ "calisma_alanlari": "Kurşun kalem imal işçileri, başta kalem ve kırtasiye malzemesi üreten fabrikalar olmak üzere kimyasal karışım hazırlama, kalıplama, kesme ve montaj hatlarına sahip imalat işletmelerinde istihdam edilirler. İşyerlerinde üretim hattının farklı bölümlerinde (karıştırma-öğütme, çekme-kurutma, fırınlama, tahta çubuk işleme, montaj ve bitirme) görevlendirilebilirler. Sektördeki üretimin büyük ölçüde otomasyona dayalı makinelerle yapılması nedeniyle bu alandaki istihdam, el emeğine göre nispeten sınırlı ve belirli işletmelerle kısıtlıdır.",
+ "calisma_ortami": "Kurşun kalem imal işçileri, kalem fabrikalarının üretim atölyelerinde, kapalı mekânlarda çalışır. Çalışma ortamında grafit ve boya tozu, tutkal ve balmumu gibi maddelerin kokusu, fırın bölümlerinde yüksek ısı ve makinelerin çalışmasından kaynaklanan orta düzeyde gürültü bulunabilir. İş genellikle ayakta ve makine başında, bazen vardiyalı düzende yürütülür; tozlu ve kimyasal madde içeren ortamlarda kişisel koruyucu donanım kullanımı önem taşır.\n\nÇalışma sırasında işçi, üretim hattındaki diğer işçiler, ustabaşı ve kalite kontrol personeli ile sürekli iletişim halindedir. Görev genellikle bireysel olarak bir makine veya iş istasyonunda yürütülmekle birlikte, üretim akışının bütünlüğü nedeniyle ekip çalışması gerektirir.",
+ "egitim": {
+  "verildigi_yerler": "Kurşun kalem imal işçiliği için örgün bir okul programı veya standart bir meslek kursu bulunmamaktadır. Meslek, genellikle kalem ve kırtasiye malzemesi üreten işletmelerde işbaşında, usta yanında çalışarak öğrenilir. Kimya teknolojisi veya üretim süreçleriyle ilgili genel içerikli Halk Eğitim Merkezi ve İŞKUR kursları, temel bilgi edinme açısından destekleyici olabilir.",
+  "giris_kosullari": [
+   "Okuryazar olmak",
+   "En az ilköğretim mezunu olmak (mesleğin gerektirdiği minimum eğitim düzeyi ilköğretimdir)",
+   "El ve göz koordinasyonu gerektiren işleri yapabilecek fiziksel ve psikomotor yeterliğe sahip olmak",
+   "Ayakta ve makine başında uzun süre çalışabilecek bedensel uygunluğa sahip olmak"
+  ],
+  "sure_ve_icerik": "Mesleğe özgü standart ve belirli bir eğitim süresi tanımlanmamıştır. Bilgi ve beceriler, işe alındıktan sonra işletme bünyesinde tecrübeli bir usta gözetiminde, üretim hattındaki görevlerin (karıştırma, öğütme, çekme, kurutma, fırınlama, montaj, kesme-boyama-cilalama) sırasıyla uygulanması yoluyla, işletmenin eğitim süresine ve üretim sürecine bağlı olarak kazandırılır.",
+  "belge": "Örgün eğitim sonunda verilen standart bir diploma veya sertifika bulunmamaktadır. İşbaşı eğitimini tamamlayanlar işletme içinde deneyim kazanarak yetkinlik elde eder; ilgili genel kurslara katılanlara Halk Eğitim Merkezleri tarafından Kurs Bitirme Belgesi verilebilir."
+ },
+ "ek_bilgiler": "Kurşun kalem imalatı günümüzde büyük ölçüde otomasyona dayalı makinelerle yapılmaktadır; bu nedenle elle yürütülen işlem basamakları sınırlı olup üretim hattında makine besleme, kontrol ve kusur tespiti gibi görevler ön plana çıkmaktadır. Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda tercih sebebi olabilir.",
+ "genel_ozellikler": [
+  "El ve göz koordinasyonuna sahip,",
+  "Dikkatli ve sabırlı,",
+  "El becerisi gelişmiş,",
+  "Makine ve ekipman kullanımına yatkın,",
+  "Düzenli ve temiz çalışmaya önem veren,",
+  "Fiziksel olarak dayanıklı (uzun süre ayakta çalışabilen),",
+  "Ekip çalışmasına uyumlu,",
+  "Talimat ve iş güvenliği kurallarına uyan,"
+ ],
+ "gorevler": [
+  "Grafit, porselen çamuru, tebeşir, boya maddesi veya boya ve su gibi maddeleri formülüne göre tartar, karıştırır ve karışımı bir öğütme veya ezme makinesi silindirlerinden geçirir.",
+  "Öğütülmüş grafit veya çamur karışımını bir hidrolik çekme makinesine koyar ve makineyi çalıştırarak karışımı basınçla çekme mastarlarından geçirir, kalemin kurşununu yapar.",
+  "Çekilmiş kurşunları bir kurutma makinesine istif eder.",
+  "Kurumuş olanları bir mastar ve tutamaklı bıçak kullanarak kalem boyuna göre keser.",
+  "Kesilmiş kurşunları fırın hücresine koyarak kontrollü bir hararet altında muhafaza eder.",
+  "Fırınlanan kurşunları asılı ve kısmen erimiş balmumu veya grese batırılmış kaplarda muamele eder.",
+  "İnce uzun tahta çubukları otomatik bir makineye vererek bir yüzüne oluk açar, tutkal sürülmesini sağlar.",
+  "Tutkallanmış oluklu tahta çubuk içine kurşunu yerleştirir ve diğer bir oluklu tahta çubuğu bunun üzerine kapatarak birbirine yapıştırır.",
+  "Yapışan çubukları kurşun kalem şeklinde kesen, boyayan ve üzerine isim, cins vb. yazıları basan ve cilalayan otomatik bir makineye verir ve bitmiş kurşun kalemlerde kusur araştırır.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğe yönelik kademeli, resmî bir örgün eğitim basamağı bulunmamaktadır. Çalışanlar, işletme içindeki farklı üretim istasyonlarında (karıştırma, çekme, fırınlama, montaj, bitirme) görev alarak deneyimlerini artırabilir ve genel kimya teknolojisi veya üretim süreçlerine yönelik kurslarla bilgilerini geliştirebilirler.",
+  "is_hayatinda": "Bilgi, beceri ve deneyim arttıkça işçi, usta, ustabaşı veya bölüm/atölye şefliği gibi görevlere yükselebilir. Üretim sürecini bütünüyle tanıyan deneyimli elemanlar, kalite kontrol veya işletme içi eğitim görevlerinde de değerlendirilebilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Meslek genellikle işbaşında öğrenildiğinden ayrı bir eğitim dönemi ve bu döneme özgü standart bir kazanç söz konusu değildir. İşe yeni başlayan kişi, çoğunlukla çalıştığı işletmenin ücret politikasına göre gelir elde eder.",
+  "egitim_sonrasi": [
+   "Yeni başlayanların ücreti genellikle asgari ücret düzeyindedir.",
+   "Deneyim, beceri ve çalışılan işletmenin büyüklüğüne göre ücret artabilir.",
+   "Özel sektörde ücretler işveren ile çalışan arasındaki anlaşmaya ve işletme koşullarına göre değişiklik gösterir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T12:15:23",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5749
+  }
+ }
+}

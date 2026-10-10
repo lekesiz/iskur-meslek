@@ -1,0 +1,78 @@
+{
+ "arac_gerec": [
+  "Traktör",
+  "Pulluk",
+  "Diskaro/kültivatör",
+  "Tırmık",
+  "Mibzer (ekim makinesi)",
+  "Gübre dağıtıcısı",
+  "Pülverizatör (ilaçlama makinesi)",
+  "Taban ve üst gübreler",
+  "Sertifikalı tohumluk",
+  "Tarım ilaçları (herbisit, fungisit, insektisit)",
+  "Biçerdöver",
+  "Römork",
+  "Toprak ve nem ölçüm aletleri",
+  "Sulama ekipmanları"
+ ],
+ "genel_ozellikler": [
+  "Açık havada ve zorlu mevsim koşullarında çalışmaya istekli,",
+  "Toprağı ve bitkiyi seven, tarımsal üretime ilgi duyan,",
+  "Dikkatli ve gözlem gücü yüksek,",
+  "Tarım makinelerini ve aletlerini kullanabilen, mekanik beceriye sahip,",
+  "Fiziksel olarak dayanıklı,",
+  "Planlı çalışabilen ve zamanlama yapabilen,",
+  "Sorumluluk sahibi ve kararlı,",
+  "Değişen hava ve iklim koşullarına göre esnek çalışabilen"
+ ],
+ "calisma_ortami": "Buğday Yetiştiricisi, çalışmasını büyük ölçüde açık arazide, tarlada yürütür; toprak hazırlığı, ekim, gübreleme, ilaçlama ve hasat gibi işlemler nedeniyle güneş, rüzgâr, toz ve zaman zaman olumsuz hava koşullarına açık ortamlarda çalışır. Tarım makinelerinin kullanımı nedeniyle gürültü, titreşim ve yorucu bedensel efor söz konusu olabilir; ekim ve hasat dönemlerinde çalışma süresi yoğunlaşır, diğer dönemlerde daha düşük yoğunlukta sürer.\n\nÇalışma genellikle kendi işletmesinde, aile içinde veya tarımsal işletmelerde tek başına ya da küçük ekipler halinde yürütülür. Meslek elemanı; diğer tarım işçileri, ziraat mühendisleri, tarım danışmanları, tohum-gübre-ilaç bayileri ve ürünü alan kooperatif veya tüccarlarla iletişim kurar.",
+ "egitim": {
+  "verildigi_yerler": "Buğday Yetiştiriciliği için ayrı, resmî olarak tanımlanmış bağımsız bir mesleki eğitim programı bulunmamaktadır. Mesleğe ilişkin bilgi ve beceriler büyük ölçüde ailede veya işletmede işbaşında, usta-çırak ilişkisi içinde kazanılır. Bunun yanında Halk Eğitim Merkezleri ile İŞKUR'un açtığı tarımsal nitelikli kurslar, tarım meslek liselerinin ilgili alanları (Tarla Bitkileri Yetiştiriciliği gibi) ve ziraat fakültelerinin tarla bitkileri/bitkisel üretim bölümleri mesleğe yönelik teorik ve teknik bilgi kazandırır.",
+  "giris_kosullari": [
+   "İlköğretim mezunu olmak (mesleğin gerektirdiği minimum eğitim düzeyi)",
+   "Kurs ve çıraklık eğitimlerine katılmak için genellikle belirli bir yaşı doldurmuş olmak",
+   "Tarım meslek lisesi veya üniversite programlarına girmek isteyenler için ilgili sınav ve kayıt koşullarını sağlamak",
+   "Mesleğin fiziksel gerekliliklerine uygun sağlık durumuna sahip olmak"
+  ],
+  "sure_ve_icerik": "Mesleğe özgü resmî bir çıraklık süresi tanımlı değildir; bilgi ve deneyim yıllar içinde uygulamalı olarak kazanılır. İŞKUR ve Halk Eğitim Merkezlerinin açtığı tarımsal üretim, bitki koruma, gübreleme ve tarım makineleri kullanımına yönelik kısa süreli kurslar bu bilgiyi destekler. Tarım meslek liselerinde ve ziraat fakültelerinin tarla bitkileri bölümlerinde ise örgün eğitim süresi ve içeriği ilgili mevzuata göre belirlenir.",
+  "belge": "Katılınan kurslar sonunda kurs katılım/başarı belgesi, tarım meslek lisesi eğitimini tamamlayanlara diploma, ziraat fakültesi tarla bitkileri bölümünü tamamlayanlara lisans diploması verilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, ilgili alanda açılmışsa istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Buğday Yetiştiricisi başlıca kendi tarlasında veya aile işletmesinde bağımsız olarak çalışır. Ayrıca tarımsal üretim yapan özel işletmelerde, tohumluk, gübre ve zirai ilaç bayilerinde, tarım kooperatiflerinde, Toprak Mahsulleri Ofisi ve Tarım ve Orman Bakanlığı'na bağlı taşra teşkilatlarının uygulama birimlerinde, tarım makineleri satış ve kiralama işletmelerinde ücretli olarak istihdam edilebilir. İş bulma olanakları bölgenin tarımsal yapısına, mevsimlik işgücü talebine ve tarım politikalarına bağlı olarak değişir.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğe özgü resmî bir çıraklık eğitimi bulunmadığından, katılınan Halk Eğitim Merkezi veya İŞKUR kursları genellikle ücretsizdir. İşletmede çalışarak mesleği öğrenenler bu süreçte işveren ile anlaşmaya bağlı olarak genellikle asgari ücret düzeyinde bir kazanç elde edebilir.",
+  "egitim_sonrasi": [
+   "Kendi işletmesinde çalışanların kazancı; tarla büyüklüğü, verim, buğday fiyatları ve devlet destekleri gibi etkenlere bağlı olarak değişkenlik gösterir.",
+   "Bir işletmede ücretli olarak çalışanlar genellikle asgari ücret düzeyinde kazanç sağlar; deneyim, çalışılan işletmenin büyüklüğü ve üstlenilen sorumluluğa göre bu ücret artabilir.",
+   "Kamu kurumlarında işçi statüsünde istihdam edilenler ilgili toplu iş sözleşmesi hükümlerine göre ücret alır."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleki ve teknik eğitimde ilerlemek isteyenler tarım meslek liselerinin ilgili alanlarını, ardından ön lisans (bitkisel üretim, tarla bitkileri yetiştiriciliği) ve lisans (ziraat mühendisliği, tarla bitkileri bölümü) programlarını tercih edebilir. Üniversite programlarına yerleşmek isteyenlerin ilgili sınavlarda başarılı olması gerekir.",
+  "is_hayatinda": "Deneyim kazanan meslek elemanları kendi işletmesini büyütebilir, tarım makinesi parkını genişletebilir, ürün çeşitliliğine geçebilir, kooperatif yöneticiliği veya bayi işletmeciliği yapabilir; ileri eğitim alanlar tarım danışmanlığı veya teknik eleman pozisyonlarına yönelebilir."
+ },
+ "benzer_meslekler": [
+  "Tarla Bitkileri Yetiştiricisi",
+  "Arpa Yetiştiricisi",
+  "Yulaf Yetiştiricisi",
+  "Tritikale Yetiştiricisi",
+  "Serin İklim Tahılları Yetiştiricisi",
+  "Buğdaygil Yem Bitkileri Yetiştiricisi"
+ ],
+ "ek_bilgiler": "Mesleğin kazancı ve istihdam olanakları; iklim koşulları, verim durumu, buğday fiyatları ve tarım politikalarındaki (destekleme, kota, ithalat/ihracat düzenlemeleri gibi) değişimlerden doğrudan etkilenir.",
+ "gorevler": [
+  "Toprağı ekime hazırlar ve taban gübresi uygulamasını yapar.",
+  "Sertifikalı tohumları uygun derinlik ve sıklıkta mibzerle eker.",
+  "Üst gübreleme ve yabancı otla kimyasal mücadele süreçlerini yönetir.",
+  "Bitkinin gelişim evrelerini ve süne gibi zararlıları takip eder.",
+  "Hasat zamanını belirler ve biçerdöver operasyonunu koordine eder.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T20:04:50",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5896
+  }
+ }
+}

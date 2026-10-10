@@ -1,0 +1,84 @@
+{
+ "arac_gerec": [
+  "Su havuzu (radyatör test/kontrol havuzu)",
+  "Hava basma tabancası ve kompresör",
+  "Lehim havyası ve lehim malzemesi",
+  "Alüminyum kaynak makinesi (TIG/MIG kaynak)",
+  "Oksijen-asetilen kaynak takımı",
+  "Anahtar takımları, pense, kargaburun",
+  "Tornavida takımları, zımba ve matkap",
+  "Araç kaldırma lifti veya kriko",
+  "Radyatör sökme-takma el aletleri",
+  "Temizlik ve yıkama ekipmanları",
+  "Koruyucu eldiven, gözlük ve önlük",
+  "Antifriz/su ikmal ekipmanları",
+  "Fatura, garanti belgesi ve kırtasiye malzemeleri"
+ ],
+ "genel_ozellikler": [
+  "El ve parmaklarını ustalıkla kullanabilen,",
+  "Dikkatli ve sabırlı,",
+  "El becerisine sahip,",
+  "Küçük parçalarla hassas çalışabilen,",
+  "Mekanik problemleri çözebilme gücüne sahip,",
+  "Temas yoluyla yer ve şekil tanıyabilme becerisine sahip,",
+  "Sorumluluk sahibi,",
+  "Dayanıklı (ayakta ve eğilerek çalışmaya uygun)"
+ ],
+ "calisma_ortami": "Radyatör tamircisi, genellikle oto radyatör tamir atölyelerinde veya oto tamirhanelerinin bir bölümünde çalışır. Çalışma ortamı kapalı mekandır; su, antifriz ve yağ nedeniyle kirli olabilir, lehim ve kaynak işlemleri sırasında duman ve ısıya bağlı riskler bulunur. İş, ayakta ve zaman zaman eğilerek yapılan fiziksel bir çalışmayı gerektirir; koruyucu eldiven, gözlük gibi iş güvenliği ekipmanlarının kullanılması önemlidir.\n\nÇalışma saatleri genellikle gündüz mesaisi şeklindedir, iş yoğunluğuna göre uzayabilir. Meslek sahibi; müşterilerle, işletme sahibi veya ustayla ve diğer tamircilerle sürekli iletişim halindedir.",
+ "gorevler": [
+  "Radyatörde su sızıntısı olup olmadığını gözlemleyerek kontrol eder.",
+  "Radyatördeki suyu (antifriz) boşaltır, araç üzerinden radyatörü söker.",
+  "Radyatörü su havuzuna tamamen batırarak hava basmak suretiyle çatlak, delik, çürük vb. arızaları tespit eder.",
+  "Su sızıntısına neden olan arızayı gidermek için bakırdan imal edilmiş mamulde lehim, alüminyumdan imal edilmiş mamulde alüminyum kaynağı yapar.",
+  "Tamir sonrasında radyatörü tekrar su havuzuna batırarak hava basmak suretiyle arızanın giderilip giderilmediğini kontrol eder.",
+  "Yenilenmesi gereken radyatörü yeni radyatör ile değiştirir.",
+  "Arızası giderilen ya da yenilenmesine karar verilen radyatörü araca monte eder.",
+  "Radyatöre yeteri kadar su doldurur.",
+  "Aracı çalıştırarak sistemin normal çalışıp çalışmadığını kontrol eder.",
+  "Yeni takılan radyatör için garanti belgesi düzenler.",
+  "Yapılan işlemlerle ilgili hesap çıkarır, fatura veya satış fişi düzenler.",
+  "Yapılan işlemler hakkında müşteriyi bilgilendirir.",
+  "Aracın müşteriye tesliminde ücret tahsili yapar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi için ayrı ve resmi olarak standart hale getirilmiş bir çıraklık/mesleki eğitim merkezi dalı bulunmamaktadır. Beceriler genellikle işbaşında usta yanında yetişme yoluyla veya motorlu araçlar teknolojisi alanı kapsamındaki ilgili mesleki eğitim merkezi programlarında temel beceriler kazanılarak öğrenilir. Ayrıca Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kurslarında ilgili beceriler geliştirilebilir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "Çıraklık eğitimi için 14 yaşını doldurmuş olmak ve ilgili işyeri ile çıraklık sözleşmesi imzalamak",
+   "Sağlık durumunun mesleğin gerektirdiği işlere (ayakta çalışma, kaynak/lehim dumanına maruziyet gibi) uygun olması"
+  ],
+  "sure_ve_icerik": "Meslekte resmi olarak standart hale getirilmiş bir eğitim süresi tanımlanmamıştır. Beceriler genellikle işyerinde usta yanında çıraklıkla veya ilgili mesleki eğitim merkezi programları içinde kademeli olarak kazanılır; süre kişinin öğrenme hızına ve işyerindeki uygulamalara göre değişebilir. Eğitim sürecinde radyatör arıza tespiti, lehim ve kaynak teknikleri, sökme-takma işlemleri, iş güvenliği ve müşteri ilişkileri konuları üzerinde durulur.",
+  "belge": "Çıraklık eğitimini tamamlayanlara kalfalık, ardından ustalık belgesi verilebilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Radyatör tamircileri; kendi işyerlerini açabilir, oto tamir-bakım servislerinde, otomotiv yedek parça ve radyatör imalat/tamir atölyelerinde, filo ve nakliye şirketlerinin bakım birimlerinde, belediyelerin araç bakım atölyelerinde çalışabilirler.\n\nMotorlu taşıt sayısının artması ve araçların düzenli bakım ihtiyacı bu meslekte istihdam olanağı sunmaktadır. Ancak yeni araçlarda plastik ve alüminyum radyatörlerin yaygınlaşması nedeniyle onarım yerine parça değişiminin tercih edilmesi, geleneksel tamir işlerini bir ölçüde azaltmaktadır; buna karşın ticari araç ve eski model araç filosu bu meslek için talep oluşturmaya devam etmektedir.",
+ "kazanc": {
+  "egitim_suresince": "Çıraklık veya işbaşı eğitim sürecinde, 3308 sayılı Mesleki Eğitim Kanunu kapsamında eğitim gören öğrencilere işyerinin büyüklüğüne göre asgari ücretin belirli bir oranından az olmamak üzere ücret ödenir; sigorta primleri devletçe karşılanır.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Deneyim, bilgi ve beceri arttıkça kazanç artabilir; kendi işyerini açanlarda kazanç işletmenin büyüklüğü ve müşteri potansiyeline göre değişkenlik gösterir.",
+   "Özel sektörde ücret taraflar arasında karşılıklı anlaşmayla belirlenir; kamuya bağlı kuruluşların bakım atölyelerinde işçi statüsünde çalışanlar için toplu iş sözleşmesi hükümleri geçerlidir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Çıraklık eğitiminde kalfalık, ardından ustalık belgesi alınarak ilerleme sağlanabilir; ustalık belgesi sahipleri usta öğretici olarak eğitim verme yetkisi elde edebilir.",
+  "is_hayatinda": "Deneyim kazandıkça ustalaşma, atölye veya servis şefliğine yükselme ya da kendi işyerini açarak işletme sahipliğine geçiş mümkündür."
+ },
+ "benzer_meslekler": [
+  "Oto Bakım-Onarımcısı (Otomotiv Mekanikcisi)",
+  "Egzoz Tamircisi",
+  "Oto Klima Bakım Onarımcısı",
+  "Otobüs/Kamyon Bakım Onarımcısı",
+  "Kaporta Tamircisi/Otomotiv Gövdecisi",
+  "Motor Yenileştirmecisi (Motor Rektifiyecisi)"
+ ],
+ "ek_bilgiler": "Günümüzde araçlarda plastik ve alüminyum radyatörlerin yaygınlaşması nedeniyle onarım yerine parça değişimi tercih edilebilmekte, bu durum mesleğin uygulama şeklini etkilemektedir. Ayrıca lehim ve kaynak işlemleri nedeniyle iş sağlığı ve güvenliği önlemlerine (havalandırma, koruyucu ekipman kullanımı) dikkat edilmesi önemlidir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T02:20:53",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6676
+  }
+ }
+}

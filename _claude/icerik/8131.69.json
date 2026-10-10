@@ -1,0 +1,74 @@
+{
+ "gorevler": [
+  "Tesisin otomatik çalışmasına nezaret eder.",
+  "Isı, basınç ve reaksiyona tabi tutulan kimyasal maddeleri göstergelerden kontrol eder.",
+  "Belirli zamanlarda reaksiyon kazanlarından numune alır.",
+  "Numuneyi kimyasal kontrollerden geçirerek kıvamını tespit eder.",
+  "Kontrol sonuçlarına göre kazanlara kimyasal maddelerin giriş ve çıkışını ayarlar.",
+  "İmalatın belirli aşamasında uzmanlaşabilir.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "arac_gerec": [
+  "Reaksiyon kazanları/tankları",
+  "Isı ve basınç göstergeleri (termometre, manometre)",
+  "Otomasyon/kontrol paneli",
+  "Numune alma ekipmanları",
+  "Laboratuvar kontrol ve kıvam/yoğunluk ölçüm cihazları",
+  "Vana ve boru sistemleri",
+  "Besleme ve tahliye pompaları",
+  "Kişisel koruyucu donanım (eldiven, gözlük, maske, iş elbisesi)",
+  "Havalandırma ve gaz algılama sistemleri",
+  "Kimyasal madde depolama tankları",
+  "Taşıma ve dolum ekipmanları"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve sorumluluk sahibi,",
+  "Kimyasal maddelerle çalışmaya karşı gerekli önlemleri alabilen,",
+  "Gösterge ve ölçüm değerlerini doğru okuyup yorumlayabilen,",
+  "El ve göz koordinasyonu gelişmiş,",
+  "Takım çalışmasına uyumlu,",
+  "Hızlı ve doğru karar verebilen,",
+  "Fiziksel olarak dayanıklı,",
+  "Vardiyalı çalışma düzenine uyum sağlayabilen,"
+ ],
+ "calisma_ortami": "Amonyum sülfatlı gübre imal işçisi, gübre üretimi yapılan fabrika ve kimya tesislerinde, kapalı mekânlarda ve reaksiyon kazanlarının bulunduğu üretim alanlarında çalışır. Çalışma ortamında kimyasal madde kokusu, gaz çıkışı, nem, sıcaklık ve orta-yüksek düzeyde gürültü bulunabilir; bu nedenle kişisel koruyucu donanım kullanımı ve iş güvenliği kurallarına uyum büyük önem taşır.\n\nİş genellikle ayakta ve vardiyalı olarak yürütülür. Çalışan, tesisteki diğer operatör ve teknik personelle sürekli iletişim halinde olup, çoğunlukla ekip içinde görev yapar.",
+ "egitim": {
+  "verildigi_yerler": "Meslek için ulusal düzeyde standart ve örgün bir okul programı bulunmamaktadır. Meslek elemanları genellikle işyerlerinde usta yanında uygulamalı eğitim yoluyla yetişmekte; ayrıca Halk Eğitim Merkezleri ve İŞKUR tarafından açılan kimya ve gübre üretimi ile ilgili mesleki eğitim kurslarından da yararlanılabilmektedir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "18 yaşını doldurmuş olmak",
+   "İşin gerektirdiği fiziksel ve sağlık koşullarına uygun olmak"
+  ],
+  "sure_ve_icerik": "Mesleğe özgü standart bir eğitim süresi ve içeriği belirlenmemiştir. Meslek, genellikle işyerinde usta yanında kademeli olarak öğrenilir; iş sağlığı ve güvenliği, kimyasal madde kullanımı, reaksiyon takibi ve kalite kontrol konularında işbaşı eğitimi verilir. Açılması durumunda kurumsal kurslarda da benzer konular işlenir.",
+  "belge": "İşyerinde yetişenlere resmî bir belge verilmemekle birlikte, kurs tamamlayanlara kursu düzenleyen kurum tarafından Kurs Bitirme Belgesi verilebilir."
+ },
+ "calisma_alanlari": "Mesleğin gerektirdiği yeterlilikleri kazanan bireyler; amonyum sülfatlı gübre üreten fabrika ve kimya tesislerinde, gübre ve kimyasal ürünler sanayisine bağlı işletmelerde çalışabilirler.",
+ "kazanc": {
+  "egitim_suresince": "İşbaşında usta yanında yetişme sürecinde işyerine bağlı olarak değişen bir ücret söz konusu olabilir; standart bir kurs eğitimi süresince genellikle kazanç bulunmamaktadır.",
+  "egitim_sonrasi": [
+   "Meslek elemanlarının ücreti çalıştıkları işletmeye, deneyime ve tecrübeye göre değişmekle birlikte, yeni başlayanlar için genellikle asgari ücret düzeyindedir.",
+   "Deneyim ve sorumluluk arttıkça kazanç düzeyi yükselebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Bu meslekte kademeli, resmî bir mesleki eğitim ilerleme basamağı bulunmamaktadır.",
+  "is_hayatinda": "Bilgi, beceri ve deneyim kazandıkça usta, vardiya sorumlusu, formen veya bölüm şefliği gibi görevlere yükselme imkânı bulabilirler."
+ },
+ "benzer_meslekler": [
+  "Süper Fosfatlı Gübre İmalat Makinesi Operatörü",
+  "Karıştırma Makinesi Operatörü-Kimyasal Maddeler",
+  "Reaktör İşçisi (Boya)",
+  "Proses İşçisi",
+  "Otoklav Operatörü (Kimyasal ve İlgili İşlemler)",
+  "Evaporatör Operatörü-Kimyasal İşlemler"
+ ],
+ "ek_bilgiler": "Amonyum sülfatlı gübre üretiminde kullanılan kimyasal maddeler ve yüksek ısı/basınç koşulları nedeniyle iş, tehlikeli iş sınıfında değerlendirilebilir; bu nedenle iş sağlığı ve güvenliği kurallarına eksiksiz uyulması gerekir. Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda tercih sebebi olabilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T12:24:45",
+  "usage": {
+   "input_tokens": 4,
+   "output_tokens": 7247
+  }
+ }
+}

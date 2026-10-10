@@ -1,0 +1,69 @@
+{
+ "arac_gerec": [
+  "Çeşitli tuzak ve kapan türleri (ağ, ilmek, kafes tuzak vb.)",
+  "Kamuflaj malzemeleri (dal, yaprak, kamuflaj file ve örtüleri)",
+  "Kesim aletleri (bıçak, satır, bileği taşı)",
+  "Ambalaj malzemeleri (file, poşet, kutu, etiket)",
+  "Tartı/terazi",
+  "Koruyucu eldiven ve iş giysisi",
+  "Taşıma çantası, sepeti veya kasası",
+  "İp, halat, bağlama malzemeleri",
+  "El feneri",
+  "Arazi tipi giysi ve çizme",
+  "Kuşları ürkütmek için kullanılan ses/ışık çıkaran basit araçlar (düdük, çıngırak vb.)",
+  "İlk yardım çantası"
+ ],
+ "genel_ozellikler": [
+  "Açık havada ve zorlu arazi koşullarında çalışmaya istekli,",
+  "Fiziksel olarak dayanıklı ve güçlü,",
+  "El becerisine sahip,",
+  "Dikkatli ve sabırlı,",
+  "Hayvan davranışları konusunda gözlem yeteneğine sahip,",
+  "Takım hâlinde çalışmaya uyumlu,",
+  "Sorumluluk sahibi,",
+  "Değişen hava koşullarına dayanıklı"
+ ],
+ "calisma_ortami": "\"Diğer Avcılar, kırsal alanlarda, kır, orman veya av sahalarında açık havada çalışır. Çalışma; tuzak kurma ve kamufle etme, av hayvanlarını kesme-parçalama-ambalajlama gibi işlemler sırasında ayakta, eğilerek veya uzun süre hareketsiz bekleyerek sürdürülür. İş, büyük ölçüde av mevsimlerine ve hava koşullarına bağlı olarak mevsimsel ve düzensiz bir nitelik taşır; soğuk, yağmur, sıcak gibi olumsuz hava şartlarına maruz kalınabilir.\\n\\nÇalışma sırasında avcılarla ve varsa diğer yardımcı personelle yakın iş birliği içinde bulunulur. Kesim ve parçalama işlemlerinde kesici aletlerle çalışıldığından dikkatli olmak ve hijyen kurallarına uymak gerekir. Çalışma saatleri düzenli olmayıp genellikle av dönemlerine ve işverenin ihtiyacına göre değişkenlik gösterir.\"",
+ "gorevler": [
+  "Avcılara tuzakların kurulması ve kamufle edilmesinde yardımcı olur.",
+  "Kuşları ürküterek ortaya çıkarır.",
+  "Av hayvanlarını keser, parçalar ve ambalajlar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Bu meslek için örgün bir meslek lisesi veya üniversite programı bulunmamaktadır. Mesleğe ilişkin bilgi ve beceriler genellikle işbaşında, deneyimli avcıların yanında çalışılarak kazanılır. Zaman zaman Halk Eğitim Merkezleri veya ilgili kurumlarca açılan kısa süreli, avcılık ve yaban hayatıyla ilgili bilgilendirme/kurs niteliğinde programlardan da faydalanılabilir.",
+  "giris_kosullari": [
+   "İlköğretim mezunu olmak",
+   "Açık havada ve fiziksel olarak zorlu koşullarda çalışabilecek sağlık durumuna sahip olmak",
+   "Av faaliyetleriyle ilgili yürürlükteki mevzuata (avlanma dönemi, bölge ve izinlerle ilgili düzenlemeler) uygunluk sağlamak"
+  ],
+  "sure_ve_icerik": "Meslek için belirlenmiş resmî bir eğitim süresi ve müfredatı bulunmamaktadır. Bilgi ve beceriler; tuzak kurma ve kamufle etme teknikleri, av hayvanlarının kesimi-parçalanması ve ambalajlanması gibi konularda, deneyimli avcıların yanında çalışılarak, uygulamalı olarak zaman içinde kazanılır.",
+  "belge": "Mesleğin icrası için zorunlu bir diploma veya sertifika bulunmamaktadır. Ancak çalışılan av faaliyetinin niteliğine göre ilgili mevzuat kapsamında avlanmayla ilgili izin/belge gerekliliği söz konusu olabilir."
+ },
+ "calisma_alanlari": "\"Bu meslek mensupları genellikle özel avcılar, av işletmeleri veya av turizmi faaliyeti yürüten işletmeler tarafından mevsimlik ya da geçici olarak istihdam edilir. Kırsal ve ava elverişli bölgelerde, özellikle av mevsimlerinde iş bulma olanağı artar. Kamu sektöründe bu meslek için doğrudan ve süreklilik arz eden bir istihdam alanı bulunmamaktadır.\"",
+ "kazanc": {
+  "egitim_suresince": "Bu meslek için örgün bir eğitim programı bulunmadığından, eğitim sürecine ilişkin düzenli bir ücretlendirme sistemi yoktur.",
+  "egitim_sonrasi": [
+   "Çalışma genellikle mevsimlik ve geçici nitelikte olduğundan kazanç, çalışılan gün sayısına ve işverenle yapılan karşılıklı anlaşmaya göre değişir.",
+   "Yeni başlayanlarda ücret genellikle asgari ücret düzeyinde olabilir.",
+   "Deneyim arttıkça ve düzenli iş bulma imkânı yükseldikçe kazanç artabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Bu meslek için kademeli ilerlemeyi sağlayan resmî bir eğitim basamağı bulunmamaktadır.",
+  "is_hayatinda": "Deneyim kazandıkça bizzat avcı olarak çalışma, av rehberliği yapma veya av işletmelerinde daha fazla sorumluluk gerektiren görevlere geçme imkânı doğabilir."
+ },
+ "benzer_meslekler": [
+  "Avcı (Ateşli Silah-Tuzakla)",
+  "Diğer Balıkçılar"
+ ],
+ "ek_bilgiler": "\"Türkiye'de avcılık faaliyetleri 4915 sayılı Kara Avcılığı Kanunu ve ilgili mevzuat çerçevesinde belirli dönemlerde ve bölgelerde yapılabilmektedir. Bu nedenle bu meslekte çalışma biçimi mevsimsel ve sınırlı sürelidir; düzenli ve sürekli istihdam olanağı kısıtlıdır.\"",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T22:08:28",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6407
+  }
+ }
+}

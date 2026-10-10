@@ -1,0 +1,79 @@
+{
+ "arac_gerec": [
+  "Cam levhalar",
+  "Tavlama (temperleme) fırını",
+  "Cam asma mandalları/kıskaçları",
+  "Taşıma rayı veya konveyör sistemi",
+  "Soğuk hava püskürtücüleri (quench üniteleri)",
+  "Soğumadan düzeltme/şekillendirme kalıpları",
+  "Pres tertibatı",
+  "Isı ve sıcaklık ölçüm cihazları (pirometre)",
+  "Fırın kontrol paneli",
+  "Otomatik cam tavlama makinesi",
+  "Koruyucu eldiven ve önlük",
+  "Isıya dayanıklı koruyucu gözlük/yüz siperi",
+  "Kulak koruyucu",
+  "Güvenlik ayakkabısı",
+  "Temizlik ve bakım gereçleri"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve tedbirli,",
+  "Sabırlı ve sorumluluk sahibi,",
+  "Fiziksel olarak dayanıklı,",
+  "Yüksek ısıya karşı dayanıklı olabilen,",
+  "El ve göz koordinasyonu gelişmiş,",
+  "Takım hâlinde çalışmaya uyumlu,",
+  "İş sağlığı ve güvenliği kurallarına duyarlı,",
+  "Vardiyalı çalışma düzenine uyum sağlayabilen"
+ ],
+ "gorevler": [
+  "İşletmenin genel çalışma prensipleri doğrultusunda, araç, gereç ve ekipmanları etkin bir şekilde kullanarak, işçi sağlığı, iş güvenliği ve çevre koruma düzenlemelerine ve mesleğin verimlilik ve kalite gereklerine uygun olarak çalışır",
+  "Fırını yakar ve belirli bir ısıyı sağlayabilmek için teçhizatı ayarlar",
+  "Camı mandallarla asıp fırına indirir",
+  "Yumuşayan camı fırından çıkarır ve çabuk soğuması için soğuk hava püskürtücülerinin arasına yerleştirir veya cam kavislenmişse soğumadan önce düzeltme kalıpları arasında presler",
+  "Cam tavlayan otomatik makineyi kullanır",
+  "Mesleki gelişim faaliyetlerinde bulunur"
+ ],
+ "calisma_ortami": "\"Cam tavcısı, cam fabrikalarının üretim atölyelerinde, tavlama fırınlarının bulunduğu kapalı ortamlarda çalışır. Çalışma süresince genellikle ayakta durur; fırınların yaydığı yüksek ısıya, makine gürültüsüne ve cam parçalarının kırılma riskine karşı dikkatli ve tedbirli olmak gerekir. Koruyucu eldiven, önlük ve gözlük gibi kişisel koruyucu donanımların kullanılması önem taşır.\\n\\nÜretim süreci genellikle çok vardiyalı yürütüldüğünden gece ve hafta sonu çalışma söz konusu olabilir. Meslek, fırın operatörleri, pres ve kalıp işçileri, ustabaşı ve üretim sorumlularıyla yakın iş birliği içinde, ekip hâlinde yürütülür.\"",
+ "egitim": {
+  "verildigi_yerler": "Cam tavcılığı için ayrı ve örgün bir okul programı bulunmamaktadır. Meslek, genellikle cam üretim fabrikalarında işbaşında, usta yanında çalışılarak öğrenilir. Bazı Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kurslarında cam işleme ve ilgili alanlarda kısa süreli kurslar düzenlenebilir; ayrıca mesleki ve teknik eğitim kurumlarının cam/seramik teknolojisi ile ilgili alan ve dallarından gelen kişiler de bu işe yönlenebilir.",
+  "giris_kosullari": [
+   "İlköğretim mezunu olmak (meslek için gereken asgari eğitim düzeyi)",
+   "Fiziksel olarak uygun ve yüksek ısıya karşı dayanıklı olmak",
+   "İşe alındığı işletmede usta yanında çalışarak mesleği öğrenmeye istekli olmak",
+   "Açılacak kurslar için ilgili kurumların belirlediği yaş ve sağlık şartlarını taşımak"
+  ],
+  "sure_ve_icerik": "Eğitim süresi, işe alındığı işletmenin uygulamasına göre değişmekle birlikte genellikle işbaşında usta yanında birkaç aydan bir yıla kadar sürebilir. Bu süreçte tavlama fırınının çalışma prensibi, ısı ayarı ve kontrolü, camın asılması ve fırına indirilmesi, soğutma ve şekillendirme kalıplarının kullanımı, otomatik tavlama makinelerinin çalıştırılması ile iş sağlığı ve güvenliği kuralları uygulamalı olarak öğretilir.",
+  "belge": "Mesleğe özgü, ulusal düzeyde zorunlu bir diploma veya sertifika bulunmamaktadır; çalışılan işletme içi eğitimler sonunda usta onayı ile işe başlanır. Mesleki Yeterlilik Kurumu (MYK) tarafından cam sektörüne yönelik yeterlilik belgeleri varsa, bu belgeler istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "\"Cam tavcıları başlıca düzcam, otomotiv camı, ayna, beyaz eşya camı ve temperli (sertleştirilmiş) cam üreten fabrika ve atölyelerde istihdam edilir. Çalışma alanı, cam üretim ve işleme sektörünün yoğunlaştığı sanayi bölgeleriyle sınırlı olup iş bulma olanakları bu sektörün üretim hacmine ve yatırımlarına bağlı olarak değişir.\"",
+ "kazanc": {
+  "egitim_suresince": "Eğitim işbaşında usta yanında yürütüldüğünden, bu süreçte genellikle işletmenin uygulamasına göre asgari ücret düzeyinde veya daha düşük bir ücret ödenebilir; bazı işletmelerde eğitim süresi boyunca herhangi bir kazanç söz konusu olmayabilir.",
+  "egitim_sonrasi": [
+   "İşe yeni başlayanlar genellikle asgari ücret düzeyinde ücretle çalışmaya başlar.",
+   "Deneyim, işletmenin büyüklüğü ve vardiyalı çalışma gibi etkenlere bağlı olarak ücret zamanla artabilir.",
+   "Özel sektörde ücret, işveren ile çalışan arasındaki anlaşmaya ve işletmenin uygulamalarına göre değişiklik gösterir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğe özgü kademeli bir örgün eğitim basamağı bulunmamaktadır. Çalışanlar, işletme içi eğitimlere ve varsa ilgili mesleki yeterlilik sınavlarına katılarak bilgi ve becerilerini geliştirebilir.",
+  "is_hayatinda": "Deneyim kazanan cam tavcıları, zaman içinde ustabaşı, ekip lideri veya fırın sorumlusu gibi görevlere yükselebilir; üretim süreçlerini daha iyi tanıyarak kalite kontrol ve üretim planlama gibi alanlarda sorumluluk alabilir."
+ },
+ "benzer_meslekler": [
+  "Fırın İşçisi (Cam Tavlama)",
+  "Fırın Ustası (Cam)",
+  "Fırın İşçisi (Cam İmali)",
+  "Cam Pres Makinesi Operatörü",
+  "Diğer Cam ve Seramik Fırın İşçileri",
+  "Levha Cam Merdane İşçisi"
+ ],
+ "ek_bilgiler": "\"Meslek, yüksek ısıya sahip fırınlar ve eriyen/yumuşayan cam ile çalışmayı gerektirdiğinden, iş sağlığı ve güvenliği açısından dikkat gerektiren işler arasında değerlendirilebilir; bu nedenle işe giriş ve periyodik sağlık muayeneleri ile kişisel koruyucu donanım kullanımı önem taşır.\"",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T16:40:53",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5928
+  }
+ }
+}

@@ -1,0 +1,73 @@
+{
+ "arac_gerec": [
+  "Bilgisayar ve gömülü sistem geliştirme yazılımları (IDE'ler)",
+  "FPGA/CPLD geliştirme kartları (development board)",
+  "Mikrodenetleyici geliştirme kartları (ARM, AVR, STM32 vb.)",
+  "JTAG/SWD debugger ve programlayıcı cihazlar",
+  "Osiloskop ve lojik analizör",
+  "Multimetre ve güç kaynağı (power supply)",
+  "Havya, lehim ve elektronik montaj el aletleri",
+  "Donanım tanımlama dili (VHDL, Verilog, SystemVerilog) simülasyon ve sentez araçları",
+  "Haberleşme protokol analiz cihazları (I2C, SPI, UART, CAN analizörleri)",
+  "Sürüm kontrol ve test otomasyon yazılımları",
+  "Teknik dokümantasyon ve devre şeması çizim yazılımları"
+ ],
+ "genel_ozellikler": [
+  "Sayısal elektronik ve mantık devrelerine ilgi duyan,",
+  "Analitik düşünme ve problem çözme becerisi gelişmiş,",
+  "Dikkatli, titiz ve sabırlı,",
+  "Soyut kavramları somutlaştırıp mantıksal çıkarım yapabilen,",
+  "Takım çalışmasına uyumlu ve iletişim becerisi iyi,",
+  "Yeni donanım ve yazılım teknolojilerini sürekli takip etmeye istekli,",
+  "Yoğun ve zaman baskılı projelerde çalışabilen kişiler olmaları gerekir."
+ ],
+ "calisma_ortami": "Gömülü Sistemler Uzmanı, genellikle kapalı ortamda; Ar-Ge birimleri, laboratuvar, ofis veya tasarım atölyelerinde çalışır. Çalışma zamanının büyük bölümünü bilgisayar başında tasarım, kodlama, simülasyon ve test işlemlerine ayırır; bunun yanında elektronik devre kartları, geliştirme kitleri ve ölçüm cihazlarıyla doğrudan uygulamalı çalışmalar da yapar. Çalışma ortamı genel olarak temiz ve sakindir; ancak lehimleme, elektrostatik hassas malzemelerle çalışma gibi işlemlerde küçük risklere karşı iş güvenliği kurallarına uyulması gerekir.\n\nMesai saatleri genellikle düzenlidir; ancak proje teslim tarihlerine yaklaşıldığında veya test/doğrulama süreçlerinde fazla çalışma gerekebilir. Görevi sırasında yazılım mühendisleri, donanım tasarımcıları, test mühendisleri, proje yöneticileri ve üretim ekipleriyle yakın işbirliği içinde çalışır.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi, üniversitelerin Elektrik-Elektronik Mühendisliği, Elektronik Mühendisliği, Elektronik ve Haberleşme Mühendisliği veya Bilgisayar Mühendisliği gibi ilgili mühendislik lisans programlarında verilmektedir. Gömülü sistemler alanına özgü, ayrı ve resmî bir lisans programı bulunmamaktadır; bu alanda uzmanlaşmak isteyenler yukarıdaki programlardan mezun olduktan sonra iş başında, projelerle ve ilave eğitimlerle uzmanlık geliştirirler.",
+  "giris_kosullari": [
+   "Lise veya dengi okul mezunu olmak",
+   "YKS (Yükseköğretim Kurumları Sınavı) kılavuzunda ilgili mühendislik programları için belirtilen giriş koşullarını taşımak",
+   "Meslek Yüksekokulları ile Açıköğretim Önlisans Programlarının Dikey Geçiş Sınavı (DGS) kılavuzunda belirtilen ilgili bölümlerinden mezun olanlar, ÖSYM tarafından açılan DGS'de başarılı oldukları takdirde ilgili mühendislik lisans programına dikey geçiş yapabilir"
+  ],
+  "sure_ve_icerik": "Eğitim süresi 4 yıldır, hazırlık sınıfı bulunan okullarda bu süre 5 yıla çıkabilir. Eğitim süresince; devre teorisi, sayısal mantık tasarımı, mikroişlemciler ve mikrodenetleyiciler, programlama dilleri (C, C++), donanım tanımlama dilleri (VHDL, Verilog), işletim sistemleri, haberleşme protokolleri, sinyaller ve sistemler, elektronik malzeme bilimi gibi dersler okutulur. Lisans eğitimini tamamlayanlar; gömülü sistem tasarımı, FPGA programlama ve test/doğrulama konularında yüksek lisans programları, kurumsal eğitimler veya işbaşı projelerle uzmanlaşabilirler.",
+  "belge": "Eğitimini başarı ile tamamlayanlara ilgili mühendislik alanında lisans diploması verilir. Ayrıca donanım ve yazılım üreticilerinin verdiği FPGA/mikrodenetleyici programlama sertifikaları ile Mesleki Yeterlilik Kurumu (MYK) belgeleri istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Gömülü Sistemler Uzmanları; savunma sanayi, otomotiv, telekomünikasyon, tıbbi cihaz, beyaz eşya ve tüketici elektroniği, enerji sistemleri, havacılık ve uzay, nesnelerin interneti (IoT) cihazları üreten firmalarda; özel sektör Ar-Ge merkezlerinde, teknoparklarda, üniversite bünyesindeki araştırma merkezlerinde ve kamuya ait Ar-Ge kurumlarında istihdam edilmektedir. Gömülü sistem teknolojilerinin elektronik, otomotiv ve savunma sektörlerinde yaygınlaşması nedeniyle bu alanda nitelikli iş gücüne yönelik talep sürmektedir.",
+ "kazanc": {
+  "egitim_suresince": "Meslek eğitimi süresince öğrenciler, Kredi ve Yurtlar Genel Müdürlüğünün sağladığı öğrenim kredisi ve yurt hizmetlerinden; ayrıca çeşitli resmî ve özel kurum/kuruluşların sunduğu burslardan yararlanabilirler.",
+  "egitim_sonrasi": [
+   "Kamu kurum ve kuruluşlarında çalışanlar, 657 sayılı Devlet Memurları Kanunu'na göre teknik hizmetler sınıfı aylığı ile ilgili zam ve tazminatlardan yararlanır.",
+   "Özel sektörde ücret; işletmenin büyüklüğüne, çalışanın deneyimine, uzmanlaştığı donanım platformuna (FPGA, mikrodenetleyici vb.) ve yabancı dil bilgisine göre değişiklik gösterir; yeni mezunlarda ücret görece düşük başlayıp deneyimle birlikte artış göstermektedir.",
+   "Mühendislik meslekleri arasında genel olarak görece yüksek ücretle çalışılan meslek gruplarındandır."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Gömülü Sistemler Uzmanları, lisans eğitimini tamamladıktan sonra elektronik, bilgisayar mühendisliği veya ilgili alanlarda yüksek lisans ve doktora yaparak akademik kariyer yapabilir; üniversitelerde araştırma görevlisi, öğretim üyesi gibi unvanlara yükselebilirler.",
+  "is_hayatinda": "İş hayatında deneyim kazandıkça kıdemli mühendis, ekip/takım lideri, proje yöneticisi, Ar-Ge müdürü veya teknik müdür gibi pozisyonlara yükselebilirler."
+ },
+ "benzer_meslekler": [
+  "Elektronik Mühendisi",
+  "Diğer Elektronik Mühendisleri",
+  "Elektronik ve Haberleşme Mühendisi",
+  "Telekomünikasyon Mühendisi",
+  "Elektrik-Elektronik Mühendisi",
+  "Radar ve Haberleşme Sistemleri Uzmanı (Savunma Sanayi)"
+ ],
+ "ek_bilgiler": "Gömülü sistemler alanına özgü, ayrı ve resmî bir lisans programı bulunmamaktadır; bu meslek genellikle elektrik-elektronik, elektronik, elektronik-haberleşme veya bilgisayar mühendisliği gibi programlardan mezun olup bu alanda uzmanlaşan mühendisler tarafından yürütülmektedir. Savunma sanayi, otomotiv ve IoT sektörlerindeki büyüme nedeniyle bu alandaki istihdam olanaklarının artması beklenmektedir.",
+ "gorevler": [
+  "Sayısal sistem tasarım ilkelerine uygun şekilde gömülü sistem tasarımı yapar.",
+  "Gömülü sistem tasarımında FPGA, CPLD, ASSP ve ASIC, mikrodenetleyiciler, GPU tabanlı sistemler gibi farklı sayısal sistemler arasından güç tüketimi, hız, güvenilirlik, maliyet, esneklik gibi tasarım ve doğrulama gereklerine uygun şekilde seçim yapar.",
+  "Linux işletim sistemi, C ve C++ gibi programlama dillerini kullanarak gömülü sistem geliştirir.",
+  "VHDL, Verilog ve SystemVerilog gibi dilleri kullanarak FPGA (alan programlamalı kapı dizileri) tasarımı yapar ve tasarımları uygun test ortamları ve senaryoları hazırlayarak doğrular.",
+  "Sistem bileşenleri arasında haberleşme için uygun haberleşme protokolünü seçer ve uygular.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-07T21:44:42",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6174
+  }
+ }
+}

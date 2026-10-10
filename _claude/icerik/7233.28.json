@@ -1,0 +1,75 @@
+{
+ "arac_gerec": [
+  "Yağ kapları ve bidonları",
+  "Gres tabancaları (manuel/pnömatik)",
+  "Yağlama kartı ve kayıt defteri/formları",
+  "Yağ seviye ölçüm çubuğu (şerit)",
+  "Huni ve aktarma ekipmanları",
+  "Atık yağ toplama kapları",
+  "El takımları (anahtar seti, pense, tornavida)",
+  "Temizlik bez ve malzemeleri",
+  "Koruyucu eldiven ve iş elbisesi",
+  "Basınçlı hava tabancası",
+  "Yağ pompası",
+  "Basit sıkma ve ayar aletleri"
+ ],
+ "genel_ozellikler": [
+  "El becerisine sahip,",
+  "Dikkatli ve sorumluluk sahibi,",
+  "Makine parçaları arasındaki ilişkiyi görebilen,",
+  "Fiziksel olarak dayanıklı,",
+  "Düzenli ve tertipli çalışabilen,",
+  "Yönergeleri izleyebilen,",
+  "Aletlerle ve malzemelerle çalışmaktan hoşlanan,",
+  "Takım çalışmasına uyumlu,"
+ ],
+ "gorevler": [
+  "Yağ kaplarına ve gres tabancalarına yağ ve gres doldurur",
+  "Yağlanacak makinenin parçalarını, yağlama kartına, kaydına veya makine üzerindeki kendi bilgi ve görgüsüne göre yağlar",
+  "Makinenin yağ deposundaki yağı belirli zamanlarda değiştirir",
+  "Görülen kusurları tamirciye bildirir",
+  "Ufak ayarlar yapar, gevşemiş kısımları sıkıştırır ve makine operatörüne veya tamirciye yardımcı olur",
+  "Yaptığı işin kaydını tutar",
+  "Mesleki gelişim faaliyetlerinde bulunur"
+ ],
+ "calisma_ortami": "Yağlayıcı ve gresleyiciler, fabrika, imalathane ve atölye gibi kapalı mekânlarda, makine ve motorların bulunduğu alanlarda çalışırlar. Ortam genellikle gürültülü, yağlı ve kirli olabilir; eğilerek veya makine altına girerek çalışma gerektirebilir. Çalışılan işletmenin üretim düzenine göre vardiyalı çalışma söz konusu olabilir.\n\nBu mesleği yürütenler daha çok makine, alet ve malzemelerle ilgilidir. Çalışmaları sırasında tamirciler, makine operatörleri ve ustabaşı ile iletişim kurarlar.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi için ayrı bir mesleki ve teknik ortaöğretim alanı/dalı bulunmamaktadır. Bilgi ve beceriler genellikle işyerinde usta yanında çalışılarak kazanılır. Ayrıca Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kurslarında, Motorlu Araçlar Teknolojisi veya Makine Teknolojisi alanı kapsamındaki ilgili programlar da temel bilgi ve beceri kazandırabilir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "Mesleğin gerektirdiği işleri yapmaya uygun sağlık durumuna sahip olmak",
+   "Çıraklık/kurs eğitimine katılmak için ilgili yaş şartlarını taşımak"
+  ],
+  "sure_ve_icerik": "Mesleğin standart bir çıraklık, kalfalık veya ustalık programı bulunmamaktadır. Bilgi ve beceriler genellikle işyerinde usta yanında çalışılarak, kısa süreli mesleki eğitim kursları ve işbaşı eğitimleri ile kazanılır. Eğitim süresi, kişinin öğrenme hızına ve işyeri uygulamalarına göre değişebilir.",
+  "belge": "Halk Eğitim Merkezleri veya İŞKUR'un açtığı mesleki eğitim kursları/işbaşı eğitim programları sonunda katılım veya kurs bitirme belgesi verilebilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Yağlayıcı ve gresleyiciler; fabrikalar, imalathaneler, makine bakım-onarım atölyeleri, tarım makineleri servisleri, iş makineleri ve inşaat makineleri bakım merkezleri, enerji santralleri ve tekstil fabrikaları gibi çok sayıda makinenin bir arada bulunduğu her türlü işletmede görev alabilirler.\n\nSanayileşmenin ve makineleşmenin sürmesi bu mesleğe olan talebi destekleyen bir unsurdur. Ancak günümüzde pek çok işletmede yağlama işlemleri otomatik yağlama sistemleriyle yapıldığından, bu görevler giderek makine bakım teknisyenlerinin ve bakım personelinin genel sorumlulukları arasına dahil olmaktadır. Bu nedenle bağımsız bir \"yağlayıcı\" kadrosu yerine, makine bakım ekiplerinin bir parçası olarak istihdam daha yaygındır.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğe özgü örgün bir çıraklık eğitim programı bulunmadığından, işyerinde usta yanında çalışılarak öğrenim görenler genellikle asgari ücret düzeyinde bir ücret alabilir.",
+  "egitim_sonrasi": [
+   "Kamu kurum ve kuruluşlarında işçi statüsünde istihdam edilenler, tabi oldukları toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde çalışanların kazancı; işyerinin büyüklüğü, kişinin deneyimi, bilgi ve becerisi ile sektörün ücret düzeyine göre değişmekte olup genellikle asgari ücret düzeyinde başlar."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğin örgün bir kalfalık-ustalık ilerleme basamağı bulunmamaktadır. Kişiler, Halk Eğitim Merkezleri ve İŞKUR tarafından açılan makine bakım-onarım, hidrolik-pnömatik sistemler gibi alanlardaki kurs ve eğitimlere katılarak bilgi ve becerilerini geliştirebilirler.",
+  "is_hayatinda": "İş hayatında deneyim kazanan kişiler, makine bakım ustası, bakım teknisyeni veya ustabaşı gibi görevlere yükselebilir; aldıkları ek eğitimlerle ilgili makine bakım-onarım mesleklerine geçiş yapabilirler."
+ },
+ "benzer_meslekler": [
+  "Makine Bakım Ustası",
+  "Diğer Yağlayıcılar",
+  "Makine Bakım ve Onarımcısı",
+  "Makine Bakım Onarım Yardımcı Elemanı",
+  "İş Makineleri Yağcısı",
+  "Makine Montaj ve Bakım Onarımcısı"
+ ],
+ "ek_bilgiler": "Günümüzde endüstriyel tesislerde otomatik yağlama sistemlerinin yaygınlaşması nedeniyle bu mesleğin görevleri giderek makine bakım teknisyenliği kapsamına dahil olmaktadır; bu durum bağımsız \"yağlayıcı ve gresleyici\" kadrolarının zaman içinde azalmasına yol açabilmektedir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T02:49:05",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5272
+  }
+ }
+}

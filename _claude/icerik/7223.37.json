@@ -1,0 +1,82 @@
+{
+ "gorevler": [
+  "Şekillenecek parçanın teknik resmini ve diğer ölçülerini inceler.",
+  "Parça boyuna göre tezgahın vargel yüksekliğini ve ayarlama yatağını ayarlar.",
+  "Tezgah pistonunun uzama boyunu takozla takviye eder.",
+  "Bükme açısı ölçülerine göre saç levhalardan şablon çıkartır.",
+  "Çıkarttığı şablon yardımıyla piston ve sabit kalıp merkezlerini kontrol eder.",
+  "Bükme açısını parça üzerine işaretler.",
+  "Parçayı tezgahın sabit kalıbına yerleştirir ve işaretlenen kısmı piston merkezine göre ayarlar.",
+  "Tezgahı çalıştırır.",
+  "İlgili kolu hareket ettirir ve parçanın otomatik olarak kalıp ve piston arasında bükülmesini sağlar.",
+  "Bükülen parçaları tezgahtan alır ve parçayı kontrol eder.",
+  "Gerekirse bükme işlemini tekrar eder.",
+  "İş bitimlerinde tezgahın bakım ve temizliğini yapar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "arac_gerec": [
+  "Hidrolik apkant pres tezgahı",
+  "Sabit kalıp ve piston (üst kalıp) takımları",
+  "Bükme şablonları",
+  "Ölçü aletleri (metre, mastar, kumpas)",
+  "Takozlar ve ayar parçaları",
+  "Teknik resim ve ölçü çizimleri",
+  "Saç levhalar ve bükülecek metal parçalar",
+  "El aletleri (anahtar takımı, markalama kalemi vb.)",
+  "Vargel ve ayar yatağı mekanizmaları",
+  "Kişisel koruyucu donanım (iş eldiveni, koruyucu gözlük, iş ayakkabısı, kulaklık)"
+ ],
+ "genel_ozellikler": [
+  "Şekilleri doğru algılayan ve zihinde canlandırabilen,",
+  "El ve göz koordinasyonu gelişmiş,",
+  "Teknik resim ve ölçü değerlerini doğru okuyup yorumlayabilen,",
+  "Dikkatli ve titiz çalışan,",
+  "Alet ve makinelerle çalışmaktan hoşlanan,",
+  "Fiziksel olarak dayanıklı,",
+  "İş güvenliği kurallarına duyarlı,",
+  "Sorumluluk sahibi"
+ ],
+ "calisma_ortami": "Hidrolik Apkant Pres Operatörü, genellikle fabrika veya atölye gibi kapalı mekânlarda, tezgahının başında ayakta çalışır. Çalışma ortamı kısmen gürültülü olabilir; metal işleme sırasında ortaya çıkan talaş, yağ ve toz gibi unsurlar bulunabilir. Ağır ve bazen keskin kenarlı sac parçalarla çalışılması nedeniyle sıkışma, ezilme ve kesilme gibi riskler söz konusu olup kişisel koruyucu donanım kullanımı önemlidir.\n\nÇalışma saatleri işletmenin üretim programına göre belirlenir; sanayi kuruluşlarında vardiyalı çalışma görülebilir. Kişi, çalışması sırasında büyük ölçüde tezgahla baş başadır; görev teslimi, ölçü kontrolü ve iş akışı konularında usta, mühendis, kalite kontrol elemanları ve diğer tezgah operatörleriyle kısa süreli iletişim kurar.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi, yeterli müracaat olması durumunda mesleki eğitim merkezlerinde Metal Teknolojisi alanının ilgili dallarında çıraklık eğitimi yoluyla verilebilmektedir. Bunun dışında Halk Eğitim Merkezleri ile İŞKUR tarafından açılan mesleki eğitim kurslarında ve işyerlerinde işbaşında usta yanında yetişerek de bu mesleğe girilebilmektedir. Mesleki ve teknik Anadolu liselerinin Metal Teknolojisi alanının ilgili programlarında da mesleğe temel oluşturan bilgi ve beceriler verilmektedir.",
+  "giris_kosullari": [
+   "En az ilköğretim/ortaokul mezunu olmak",
+   "Çıraklık eğitimine başlamak için 14 yaşını doldurmuş olmak",
+   "Sağlık durumunun mesleğin gerektirdiği işlere uygun olması (gerektiğinde sağlık raporuyla belgelendirilir)",
+   "Mesleki eğitim merkezi yoluyla eğitim alacaklar için ilgili işyeri ile çıraklık sözleşmesi imzalamak",
+   "Kurs yoluyla eğitim alacaklar için kursu açan kurumun belirlediği başvuru şartlarını taşımak"
+  ],
+  "sure_ve_icerik": "Mesleki eğitim merkezi yoluyla eğitime devam edenlerde süre ilköğretim sonrası yaklaşık 3-4 yıl olup bir kısmı kalfalık, bir kısmı ustalık eğitimine ayrılır; eğitim haftanın bir bölümünde okulda, kalan bölümünde işyerinde uygulamalı olarak yürütülür. Kurs yoluyla alınan eğitimler ise genellikle birkaç haftadan birkaç aya kadar sürebilen teorik ve uygulamalı programlardır. Eğitim içeriğinde teknik resim okuma, ölçü aletlerinin kullanımı, kalıp ve tezgah ayarları, şablon çıkarma, bükme işlemleri, tezgah bakımı ve iş sağlığı-güvenliği konuları yer alır. Sektörde CNC kontrollü apkant pres tezgahlarının yaygınlaşması nedeniyle, klasik hidrolik tezgah bilgisine ek olarak temel CNC/otomasyon bilgisi de giderek önem kazanmaktadır.",
+  "belge": "Mesleki eğitim merkezi yoluyla eğitim alanlara kalfalık ve ustalık belgesi, fark derslerini tamamlayanlara meslek lisesi diploması verilir. Kurs yoluyla eğitim alanlara ise kursu veren kurum tarafından katılım/başarı belgesi düzenlenir. Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Hidrolik Apkant Pres Operatörleri; metal işleme, sac levha işleme, makine imalatı, çelik konstrüksiyon, beyaz eşya, otomotiv yan sanayi ve metal mobilya gibi sac bükme işlemine ihtiyaç duyulan üretim dallarında çalışabilirler. İş bulma olanakları genellikle organize sanayi bölgeleri ve metal sanayinin yoğun olduğu illerde daha fazladır. Sektörde CNC kontrollü apkant pres tezgahlarının yaygınlaşması, klasik hidrolik tezgah operatörlüğüne olan talebi zamanla azaltabilmekte; buna karşılık CNC apkant pres operatörlüğüne geçiş yapan kişiler için istihdam olanakları görece daha olumlu seyretmektedir.",
+ "kazanc": {
+  "egitim_suresince": "Mesleki eğitim merkezi/çıraklık yoluyla eğitim görenler, 3308 sayılı Mesleki Eğitim Kanunu gereğince asgari ücretin belirli bir oranında ücret alır ve iş kazası ile meslek hastalıkları sigortası devletçe karşılanır. Halk Eğitim Merkezi veya İŞKUR kursları yoluyla eğitim alanlarda genellikle ücret ödenmez; bazı kurslarda katılımcılara zaruri gider ödemesi yapılabilir.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Deneyim, ustalık belgesi ve CNC/otomasyon tezgahlarını kullanabilme becerisi arttıkça ücret düzeyi yükselebilir.",
+   "Kamuda işçi statüsünde çalışanların ücreti ilgili toplu iş sözleşmesi hükümlerine göre belirlenir; özel sektörde ücret işveren ile işçi arasındaki anlaşmaya ve işletmenin büyüklüğüne göre değişiklik gösterir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleki eğitim merkezinden diploma alarak mezun olanlar, meslek lisesi diplomasıyla ilgili alanın devamı niteliğindeki yükseköğretim (ön lisans) programlarına sınavsız geçiş veya ek puan avantajından yararlanarak devam edebilir.",
+  "is_hayatinda": "Deneyim kazanan operatörler zamanla usta, ekip/vardiya sorumlusu veya atölye şefi konumuna yükselebilir. Klasik hidrolik tezgah deneyimini CNC apkant pres operatörlüğüne taşıyarak daha nitelikli pozisyonlara geçebilir; yeterli birikim ve sermayeye sahip olanlar kendi metal işleme atölyesini kurabilir."
+ },
+ "benzer_meslekler": [
+  "CNC Apkant Pres Tezgahı Operatörü",
+  "Hidrolik Makas Tezgahı Operatörü (Metal Levha)",
+  "Metal Levha İşleme Tezgah Operatörü",
+  "Silindir Makinesi Metal Eğme Bükme Tezgahı Operatörü",
+  "Eksantrik Pres Tezgahı Operatörü",
+  "Caka Saç Kıvırma Tezgahı İşçisi"
+ ],
+ "ek_bilgiler": "Metal sektöründe otomasyon ve bilgisayar kontrollü (CNC) tezgahların yaygınlaşması, klasik hidrolik apkant pres operatörlüğünün yerini kademeli olarak CNC apkant pres operatörlüğüne bırakmasına yol açmaktadır. Bu nedenle mesleğe yönelecek kişilerin, geleneksel tezgah bilgisinin yanında CNC/otomasyon konularında da kendilerini geliştirmesi istihdam olanaklarını artırabilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T01:39:13",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 7112
+  }
+ }
+}

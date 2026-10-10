@@ -1,0 +1,71 @@
+{
+ "arac_gerec": [
+  "Yüzey (yer) ve yüksek seviye sinoptik haritaları",
+  "Temp diyagramları ve ısı/nem eğrisi şablonları",
+  "Harita çizim gereçleri (özel cetvel, şablon, meteorolojik sembol kalemleri)",
+  "Barometre, termometre, hijrometre, anemometre gibi ölçüm cihazları",
+  "Barograf ve termograf gibi kayıt cihazları",
+  "Meteorolojik veri işleme ve tahmin yazılımları içeren bilgisayar sistemleri",
+  "Uydu ve radar görüntüleme sistemleri",
+  "Teleks/veri iletim ve haberleşme sistemleri",
+  "Telsiz ve telefon haberleşme cihazları",
+  "Brifing ve sunum için projeksiyon/gösterim cihazları",
+  "Klarens (uçuş bilgilendirme) formları ve ilgili doküman şablonları"
+ ],
+ "benzer_meslekler": [
+  "Rasatçı",
+  "Fizik Teknisyeni",
+  "Diğer Fiziki Bilimler Teknisyenleri"
+ ],
+ "calisma_alanlari": "İstidlalciler başta Hava Kuvvetleri Komutanlığı'na bağlı hava üsleri, filo ve kuvvet komutanlıklarının meteoroloji birimleri olmak üzere, Meteoroloji Genel Müdürlüğü ve Devlet Hava Meydanları İşletmesi (DHMİ) bünyesindeki sivil havaalanı meteoroloji istasyonlarında görev yaparlar.\n\nBu meslek büyük ölçüde kamu ve askeri kurumlara özgüdür; özel sektörde istihdam alanı çok sınırlıdır. Bilgisayar destekli sayısal tahmin modelleri ve otomatik gözlem sistemlerinin yaygınlaşması nedeniyle, elle harita çizimine ve klasik istidlal tekniklerine dayanan bu görev tanımı giderek daha az sayıda personel tarafından yürütülmekte, görev içerikleri modern meteoroloji teknisyenliği/teknikerliği ve meteorolog unvanları altında birleşmektedir.",
+ "calisma_ortami": "İstidlalci, genellikle kapalı mekânlarda; bilgisayar ekranları, sinoptik haritalar, ölçüm ve haberleşme cihazlarıyla donatılmış meteoroloji ofisi/istasyonunda çalışır. Hava trafiği ve askeri/sivil uçuş operasyonlarının kesintisiz sürmesi nedeniyle genellikle 24 saat esasına göre nöbet/vardiya sistemiyle görev yapar.\n\nGörevini askeri hava üssü, filo komutanlığı veya havaalanı meteoroloji biriminde yürütür; pilotlar, kule ve operasyon personeli, kuvvet komutanlığı yetkilileri ve diğer meteoroloji çalışanlarıyla sürekli iletişim halindedir. Verdiği bilgiler uçuş güvenliğiyle doğrudan ilişkili olduğundan görev zamanında, hatasız ve yüksek dikkatle yürütülmek zorundadır; bu da işin stres ve sorumluluk düzeyini artırır.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğe yönelik örgün bir mesleki ve teknik ortaöğretim programı bulunmamaktadır. Eğitim; Hava Kuvvetleri Komutanlığı'na bağlı meteoroloji birimleri, Meteoroloji Genel Müdürlüğü ve Devlet Hava Meydanları İşletmesi (DHMİ) gibi kurumların kendi bünyelerinde açtığı hizmet içi eğitim ve kurslar yoluyla verilmektedir.",
+  "giris_kosullari": [
+   "Ortaöğretim (lise ve dengi okul) mezunu olmak",
+   "Görev yapılacak kurumun açtığı sınav, mülakat ve değerlendirme süreçlerini başarıyla tamamlamak",
+   "Görevin gerektirdiği sağlık şartlarını (özellikle göz ve işitme sağlığı) taşımak"
+  ],
+  "sure_ve_icerik": "Eğitim süresi ve içeriği görev yapılan kuruma göre değişmekle birlikte genellikle temel meteoroloji bilgisi, sinoptik harita okuma ve çizme teknikleri, istidlal (hava durumu çıkarımı) yöntemleri, brifing hazırlama ve klarens düzenleme konularını kapsayan teorik dersler ile işbaşında uygulamalı eğitimden oluşur.",
+  "belge": "Eğitimi tamamlayanlara görev yaptığı kurum tarafından düzenlenen kurs bitirme belgesi/sertifika verilir; ulusal düzeyde ayrı bir diploma veya meslek standardı bulunmamaktadır."
+ },
+ "ek_bilgiler": "İstidlalci, Türk meteoroloji teşkilatında ve askeri havacılık meteorolojisinde kullanılan, elle sinoptik harita çizimi ve klasik istidlal tekniklerine dayanan geleneksel bir görev unvanıdır. Bilgisayarlı sayısal tahmin modelleri ve otomatik veri sistemlerinin yaygınlaşmasıyla bu işlevler büyük ölçüde meteoroloji teknisyeni/teknikeri ve meteorolog kadrolarına devredilmekte, istihdam alanı daralmaktadır. Görevin uçuş güvenliğiyle doğrudan ilişkili olması nedeniyle yüksek sorumluluk ve hassasiyet gerektirir.",
+ "genel_ozellikler": [
+  "Sayısal ve analitik düşünme yeteneğine sahip,",
+  "Harita ve grafik okuma-yorumlama becerisi gelişmiş,",
+  "Dikkatli ve gözlem yeteneği güçlü,",
+  "Hızlı ve doğru karar verebilen,",
+  "Sorumluluk sahibi ve güvenilir,",
+  "Ekip çalışmasına uyumlu,",
+  "Vardiyalı ve sorumluluğu yüksek çalışma koşullarına dayanıklı,",
+  "Sözlü ve yazılı iletişimi etkili kullanabilen"
+ ],
+ "gorevler": [
+  "İş organizasyonu ve planlaması yapar.",
+  "Yüksek seviye kartları ve yer kartlarını çizer.",
+  "Çizdiği yüksek seviye, yer kartları ve temp diyagramlarını inceler, çeşitli tekniklerle istidlal yapar, görüşlerini amirine iletir.",
+  "Kuvvet, üs ve filolar için verilecek brifinglerde kullanılan yansıları hazırlar.",
+  "Mevcut meydan durumları ve istidlalleri ile ilgili bilgileri isteyen birim ve şahıslara verir.",
+  "Çeşitli amaçlar için uçacak pilotlara klarens düzenleyerek bilgi verir.",
+  "Mesleğindeki gelişmeleri takip eder ve uygular."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Bu meslekte örgün bir ön lisans/lisans programı bulunmamaktadır; ancak çalışanlar meteoroloji, fizik veya ilgili mühendislik alanlarında ön lisans/lisans eğitimi tamamlayarak meteoroloji teknikeri, meteoroloji mühendisi veya meteorolog unvanına geçebilirler.",
+  "is_hayatinda": "Deneyim ve kıdem kazanan istidlalciler, kıdemli istidlalci, istasyon/meteoroloji amiri veya benzeri sorumluluk pozisyonlarına yükselebilir; ilgili yükseköğretim programlarını tamamlayanlar meteorolog olarak görev yapabilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Bu meslekte örgün bir mesleki eğitim süreci bulunmadığından, eğitim genellikle göreve başlandıktan sonra ilgili kurum bünyesinde maaşlı/ücretli statüde hizmet içi eğitim şeklinde yürütülür.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında (Hava Kuvvetleri Komutanlığı, Meteoroloji Genel Müdürlüğü, DHMİ) memur, işçi veya askeri personel statüsünde çalışanlar, bağlı oldukları mevzuata (657 sayılı Kanun, ilgili toplu iş sözleşmesi veya askeri personel mevzuatı) göre ücret alır.",
+   "Özel sektörde bu unvanla istihdam oldukça sınırlıdır; kazanç, kişinin deneyimine, bilgisine ve çalıştığı kuruluşun büyüklüğüne göre değişebilir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T08:42:10",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 8413
+  }
+ }
+}

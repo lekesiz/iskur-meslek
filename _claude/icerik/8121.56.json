@@ -1,0 +1,82 @@
+{
+ "arac_gerec": [
+  "Isıtma (tav) fırını",
+  "Maşa ve kanca takımları",
+  "Pota",
+  "Su verme tankları (su, yağ, tuzlu su)",
+  "Soğuk hava üfleme cihazı",
+  "Sertlik ölçüm cihazı (Rockwell/Brinell tipi)",
+  "Pirometre / sıcaklık ölçer",
+  "Koruyucu gözlük",
+  "Isıya dayanıklı iş eldiveni",
+  "Isıya dayanıklı iş elbisesi ve önlük",
+  "Baret",
+  "Taşıma arabaları / paletler",
+  "Vinç veya caraskal",
+  "Yangın söndürme cihazı"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve sabırlı,",
+  "El ve göz koordinasyonu iyi,",
+  "Fiziksel olarak dayanıklı,",
+  "Yüksek ısı ve ani sıcaklık değişimlerine karşı dayanıklı,",
+  "Sorumluluk sahibi,",
+  "İş sağlığı ve güvenliği kurallarına titizlikle uyan,",
+  "Ekip çalışmasına uyumlu,",
+  "Temel fizik ve malzeme bilgisine sahip"
+ ],
+ "gorevler": [
+  "İş organizasyonu yapar,",
+  "Çalışma alanının, araç, gereç ve koruyucu malzemelerin hazırlığını yapar,",
+  "Sertleştirilecek çelik eşyaları fırına yerleştirir,",
+  "Çelik eşyaları istenilen sıcaklığa kadar fırında ısıtarak tavlar,",
+  "Isıtma süresini ve sıcaklığını kontrol eder,",
+  "İstenilen ısıtma dönemi tamamlandığında eşyaları fırından çıkarır,",
+  "Çelik eşyaları suda, yağda veya tuzlu suda su vererek ya da soğuk hava üfleyerek sertleştirir,",
+  "Özel aletler kullanarak çelik eşyaların sertlik derecesini test eder,",
+  "Test sonucuna göre işlemi tekrarlar veya eşyayı bir sonraki aşamaya gönderir,",
+  "Kullandığı araç, gereç ve ekipmanın bakımını yapar,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "calisma_ortami": "Metal Sertleştirici, genellikle küçük ve orta ölçekli metal işleme atölyeleri ile büyük fabrikaların ısıl işlem bölümlerinde, kapalı mekânlarda çalışır. Çalışma ortamı fırınların sürekli çalışması nedeniyle sıcaktır, buhar, koku ve belirli düzeyde gürültü bulunabilir. Su verme, yağ ve tuzlu su havuzlarının bulunduğu alanlarda sıçrama, yanık ve kayma gibi riskler söz konusu olduğundan iş sağlığı ve güvenliği tedbirlerine uyulması önemlidir.\n\nÇalışma genellikle işletmenin üretim programına bağlı olarak gündüz, bazı işletmelerde ise vardiyalı düzende sürer. Meslek elemanı; ustabaşı, diğer ısıl işlem ve atölye çalışanları, kalite kontrol personeli ve yöneticilerle iş birliği içinde çalışır.",
+ "egitim": {
+  "verildigi_yerler": "Metal Sertleştirici mesleğine yönelik örgün bir meslek lisesi programı bulunmamaktadır. Mesleğe genellikle işbaşında, usta-çırak ilişkisi içinde veya işletme bünyesinde uygulamalı olarak girilmektedir. Yeterli sayıda talep olması durumunda mesleki eğitim merkezlerinin Metal Teknolojisi alanı kapsamındaki ilgili dallarda çıraklık eğitimi açılabilmektedir. Ayrıca Halk Eğitim Merkezleri ile İŞKUR'un açtığı mesleki eğitim kursları, metal ısıl işlem konusunda temel beceri kazandırmaya yönelik olabilir.",
+  "giris_kosullari": [
+   "En az ilköğretim/ortaokul mezunu olmak,",
+   "Çıraklık eğitimine başlayacaklar için 14 yaşını doldurmuş olmak ve zorunlu eğitim çağında bulunmak,",
+   "Sağlık durumunun yüksek ısı ve ağır çalışma koşullarına uygun olması (gerektiğinde sağlık raporuyla belgelendirilir),",
+   "Eğitim görmek istediği işyeri ile çıraklık veya işbaşı eğitim sözleşmesi imzalamak."
+  ],
+  "sure_ve_icerik": "Mesleğin örgün bir eğitim programı bulunmadığından bilgi ve beceriler büyük ölçüde işyerinde usta gözetiminde uygulamalı olarak kazanılır. Mesleki eğitim merkezi bünyesinde çıraklık eğitimi açıldığında süre ilköğretim sonrası birkaç yıl olup, haftanın bir günü mesleki eğitim merkezinde teorik meslek dersleri, kalan günler ise işyerinde uygulamalı eğitim şeklinde yürütülür.",
+  "belge": "Çıraklık eğitimini tamamlayanlara kalfalık, ardından ustalık belgesi verilir. İşbaşında yetişenler çalıştıkları işletmeden veya katıldıkları kurslardan katılım belgesi alabilir. Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Metal Sertleştiriciler; metal işleme, makine imalatı, döküm ve haddehane tesisleri, otomotiv yedek parça üretimi, kalıp ve takım imalatı, tarım makineleri gibi çelik parçaların ısıl işlemden geçirildiği küçük, orta ve büyük ölçekli özel sektör işletmelerinde çalışabilirler. İş bulma olanakları, bu sektörlerdeki üretim hacmine ve işletme sayısına bağlı olarak değişmektedir.",
+ "kazanc": {
+  "egitim_suresince": "Çıraklık eğitimi kapsamında eğitim görenlere, 3308 sayılı Mesleki Eğitim Kanunu gereğince asgari ücretin belirli bir yüzdesinden az olmamak üzere ücret ödenir; ayrıca iş kazası ve meslek hastalıkları sigortası primleri devletçe karşılanır.",
+  "egitim_sonrasi": [
+   "Kamu sektöründe istihdam edilenler 657 sayılı Devlet Memurları Kanunu'na veya işçi statüsünde çalışanlar toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde çalışanların ücreti işin niteliği, deneyim ve işletmenin büyüklüğüne göre değişir; yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar, deneyim arttıkça ücret de artabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleki eğitim merkezinde kalfalık ve ustalık belgesi alanlar isterlerse fark derslerini tamamlayarak meslek lisesi diploması alabilir ve ilgili yükseköğretim programlarına yönelebilirler.",
+  "is_hayatinda": "Deneyim kazanan meslek elemanları ustalığa yükselebilir, ekip veya vardiya sorumlusu, atölye şefi gibi görevler üstlenebilir; birikim sağladıklarında kendi işyerlerini açabilirler."
+ },
+ "benzer_meslekler": [
+  "Isıl İşlemci",
+  "Sementasyon Tavcısı-Metal",
+  "Su Verici (Metal)",
+  "Diğer Tavcılar, Su Vericiler ve Sementasyon Tavcıları",
+  "İzabeci (Metal Tavlama Ocağı)",
+  "Diğer Metal Ergitmeciler ve Metal Tavlayıcılar"
+ ],
+ "ek_bilgiler": "Yüksek ısı ve ağır çalışma koşulları nedeniyle bu meslekteki bazı işler, ilgili mevzuat kapsamında tehlikeli veya çok tehlikeli işler sınıfında değerlendirilebilir; bu durumda çalışanlardan Mesleki Yeterlilik Kurumu (MYK) belgesi istenebilir ve periyodik sağlık kontrolü gerekebilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T11:24:30",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6025
+  }
+ }
+}

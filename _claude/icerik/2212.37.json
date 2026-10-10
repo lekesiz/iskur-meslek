@@ -1,0 +1,80 @@
+{
+ "arac_gerec": [
+  "Gama kamera",
+  "Pozitron emisyon tomografisi (PET) cihazı",
+  "SPECT/CT ve PET/CT gibi hibrit görüntüleme cihazları",
+  "Doz kalibratörü (radyoaktivite ölçüm cihazı)",
+  "Radyasyon dozimetreleri (kişisel ve ortam dozimetreleri)",
+  "Kurşun önlük, kurşun cam ve diğer radyasyon koruyucu ekipmanlar",
+  "Radyofarmasötik hazırlama ve uygulama setleri, enjektörler",
+  "Radyasyon seviyesi ölçüm cihazları (Geiger sayacı vb.)",
+  "Bilgisayar ve görüntü işleme/raporlama yazılımları",
+  "Radyoaktif atık toplama ve depolama kapları",
+  "Laboratuvar malzemeleri (tüp, pipet, numune kapları)",
+  "Kişisel koruyucu donanım (eldiven, maske, önlük)"
+ ],
+ "genel_ozellikler": [
+  "Kimya, fizik ve biyoloji alanlarına ilgili ve bu alanlarda başarılı,",
+  "Dikkatli, titiz ve sabırlı,",
+  "Sorumluluk sahibi ve güvenilir,",
+  "Radyasyon güvenliği kurallarına azami özen gösteren,",
+  "Analitik düşünebilen ve hızlı doğru karar verebilen,",
+  "Takım çalışmasına uyumlu,",
+  "Hasta ve çalışma arkadaşlarıyla iyi iletişim kurabilen,",
+  "Meslek yaşamı boyunca tıp ve teknolojideki gelişmeleri takip etme sorumluluğu üstlenebilecek"
+ ],
+ "calisma_ortami": "Nükleer tıp uzmanları, hastanelerin ve görüntüleme merkezlerinin nükleer tıp bölümlerinde, radyasyondan korunma amacıyla özel olarak tasarlanmış (kurşun kaplı duvarlar, izole uygulama ve bekleme odaları içeren) birimlerde görev yaparlar. Çalışma ortamında açık iyonizan radyasyon kaynakları ve radyoaktif maddelerle temas söz konusu olduğundan, radyasyon güvenliği kurallarına sıkı şekilde uyulması, kişisel koruyucu donanım kullanılması ve düzenli dozimetrik takip yapılması gerekir.\n\nÇalışma saatleri genellikle gündüz ve düzenlidir; ancak hastane bünyesinde çalışanlar için zaman zaman nöbet veya acil çağrılar olabilir. Görevleri sırasında hastalarla, hasta yakınlarıyla, radyoloji ve onkoloji gibi diğer uzmanlık branşlarından hekimlerle, hemşire, radyoterapi teknisyeni ve fizik mühendisi gibi sağlık ekibi üyeleriyle yakın iş birliği içinde çalışırlar.",
+ "egitim": {
+  "verildigi_yerler": "Nükleer Tıp Uzmanı olabilmek için önce üniversitelerin tıp fakültelerinde 6 yıllık lisans eğitimi tamamlanır. Ardından Tıpta Uzmanlık Sınavı (TUS) ile üniversite hastaneleri veya eğitim ve araştırma hastanelerinin nükleer tıp anabilim dalı/kliniklerinde uzmanlık eğitimi alınır.",
+  "giris_kosullari": [
+   "Lise veya dengi okul mezunu olmak",
+   "YKS (Yükseköğretim Kurumları Sınavı) kılavuzunda belirtilen giriş koşullarını taşıyarak bir tıp fakültesine yerleşmek",
+   "Tıp fakültesi mezuniyeti sonrasında Tıpta Uzmanlık Sınavı (TUS)'ta başarılı olup nükleer tıp alanında uzmanlık eğitimi hakkı kazanmak"
+  ],
+  "sure_ve_icerik": "Tıp fakültesi eğitimi teorik ve uygulamalı olarak 6 yıl sürer; ilk yıllarda temel fen bilimleri ve tıbba giriş, ardından insan anatomisi, fizyolojisi ve hastalıklar, son yıllarda ise hastane içinde uygulamalı klinik eğitim (staj) verilir. Tıp fakültesi sonrasında nükleer tıp uzmanlık eğitimi yaklaşık 4-5 yıl sürer; bu süreçte radyasyon fiziği ve güvenliği, radyofarmasi, görüntüleme teknikleri (gama kamera, PET, hibrit sistemler), radyonüklid tedavi uygulamaları ve ilgili klinik konularda teorik ve uygulamalı eğitim alınır.",
+  "belge": "Tıp fakültesini başarı ile tamamlayanlara lisans diploması (tıp doktorluğu diploması), uzmanlık eğitimini tamamlayanlara ise Nükleer Tıp Uzmanlık Belgesi verilir."
+ },
+ "gorevler": [
+  "Radyofarmasötikleri ve radyoaktif maddeleri damar, deri, ağız ve solunum yoluyla hastaya vererek teşhis amacıyla gama kamera, pozitron emisyon tomografisi ve her türlü hibrit görüntüleme cihazlarını kullanarak insan vücudunda görüntüleme yapar ve raporlar.",
+  "Radyofarmasötikleri, radyoaktif maddeleri ve açık iyonizan radyasyon kaynaklarını tedavi amacıyla hastaya damar, deri, ağız veya solunum yoluyla, ayakta veya yatar durumda uygular.",
+  "Tedavi alacak hastanın ön değerlendirmesini yapar, tedavi dozunu belirler, verilen dozun muhtemel kısa ve uzun dönemli yan etkileri için hastayı takip eder ve gerekli önlemleri alır.",
+  "Teşhis ve tedavi amacıyla, radyofarmasötiklerin, radyoaktif maddelerin ve açık iyonizan radyasyon kaynaklarının kullanımı öncesinde gerekli ön hazırlığı yapar ve uygun medikasyonu sağlar.",
+  "Radyofarmasötikleri ve radyoaktif maddeleri kullanarak görüntüleme yapmadan insan vücudunda veya cansız numunelerde fonksiyonel tetkikler yapar.",
+  "Radyoaktif maddeleri kullanarak vücut sıvısı, doku ve atıklarında hormon, enzim, vitamin, ilaç düzeyi ve benzeri ölçümleri yapar; amaca uygun olarak insan vücudunda her türlü dağılım çalışmasını uygular.",
+  "Kullanılan radyofarmasötiklerin kalite kontrollerini yapar.",
+  "Hastaları ve çalışan personeli radyasyonun olumsuz etkilerinden korumak için gerekli önlemleri alır ve konuyla ilgili eğitim verir.",
+  "Teşhis ve tedavide kullanılan radyoaktif madde, radyofarmasötik ve açık iyonizan radyasyon kaynaklarının kullanım sonrasında kalan kısmının ve uygulama sonrasında oluşan radyoaktif atıkların insan sağlığına ve çevreye zarar vermeyecek hale getirilmesini sağlar.",
+  "Radyasyonun biyolojik etkilerini değerlendirerek uygulamaların güvenli ve etkin şekilde sürdürülmesini sağlar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "calisma_alanlari": "Nükleer Tıp Uzmanları; kamu ve özel hastanelerin nükleer tıp bölümlerinde, üniversite hastanelerinin ilgili anabilim dallarında, görüntüleme ve tanı merkezlerinde, onkoloji merkezlerinde ve bazı araştırma kurumlarında görev alabilirler. Alan, ileri görüntüleme teknolojileri ve radyonüklid tedavi yöntemlerinin yaygınlaşmasıyla gelişmeye devam etmekte; özellikle onkolojik görüntüleme ve tedavi alanında uzman hekim ihtiyacı sürmektedir. Büyük şehirlerdeki üniversite ve eğitim araştırma hastanelerinde istihdam olanağı nispeten daha fazladır.",
+ "kazanc": {
+  "egitim_suresince": "Tıp fakültesi öğrencileri, Kredi ve Yurtlar Genel Müdürlüğünün sağladığı öğrenim kredisi ve yurt hizmetlerinden, ayrıca çeşitli resmi ve özel kurum/kuruluşların burslarından yararlanabilirler. Uzmanlık eğitimi sırasında (asistanlık döneminde) ilgili mevzuata göre maaş ve nöbet ücreti ödenir.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında (üniversite ve eğitim araştırma hastaneleri) çalışan Nükleer Tıp Uzmanlarının ücretleri 657 sayılı Devlet Memurları Kanunu ve ilgili döner sermaye/performans mevzuatına göre belirlenir.",
+   "Özel hastane ve merkezlerde çalışanların ücreti, işyeri ile yapılan sözleşmeye, deneyime ve kurumun büyüklüğüne göre değişir.",
+   "Mesleki deneyim, akademik unvan ve çalışılan kurumun niteliği arttıkça kazanç düzeyi genellikle yükselir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Tıp fakültesi mezunları, Tıpta Uzmanlık Sınavı (TUS) ile nükleer tıp alanında uzmanlık eğitimine başlayabilir. Uzmanlık eğitimini tamamlayanlar isterlerse akademik kariyer yoluna girip üniversitelerde öğretim üyesi olarak ilerleyebilir (doçentlik, profesörlük gibi akademik unvanlar alabilirler).",
+  "is_hayatinda": "Nükleer Tıp Uzmanları, deneyim kazandıkça kamu hastanelerinde klinik şefliği, bölüm sorumluluğu veya idari görevler üstlenebilir; üniversitelerde akademik unvanlarla ilerleyebilir. Özel sektörde kendi muayenehanesini veya görüntüleme merkezini açabilir ya da özel hastanelerde kıdemli uzman hekim olarak çalışabilir."
+ },
+ "benzer_meslekler": [
+  "Radyoloji Uzmanı",
+  "Radyasyon Onkolojisi Uzmanı",
+  "Girişimsel Radyoloji Uzmanı",
+  "Tıbbi Onkoloji Uzmanı",
+  "Temel Onkoloji Uzmanı",
+  "Prevantif Onkoloji Uzmanı"
+ ],
+ "ek_bilgiler": "Nükleer Tıp Uzmanları açık iyonizan radyasyon kaynaklarıyla doğrudan çalıştıklarından, radyasyondan korunma mevzuatına (ilgili düzenleyici kurumun belirlediği kurallara) uymak, kişisel dozimetre takibi yapmak ve düzenli sağlık kontrolünden geçmek zorundadırlar. Mesleğe giriş, tüm tıp uzmanlık dallarında olduğu gibi tıp fakültesi eğitimi ve ardından Tıpta Uzmanlık Sınavı (TUS) sürecine bağlıdır; bu nedenle uzun ve rekabetçi bir eğitim süreci gerektirir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-07T22:33:23",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6933
+  }
+ }
+}

@@ -1,0 +1,79 @@
+{
+ "arac_gerec": [
+  "Perde makinesi (boya/vernik perdeleme ünitesi)",
+  "Perde kafası ve basınç ayar ventili",
+  "Hassas terazi",
+  "Boya ve vernik deposu",
+  "Merdane ve dönüş tavası düzeneği",
+  "Özel ayar anahtarı",
+  "Santrifüj devirdaim düzeneği",
+  "Konveyör (taşıyıcı bant) sistemi",
+  "Solvent ve çözücü maddeler",
+  "Yağlama ekipmanları",
+  "Ölçü kapları",
+  "Koruyucu eldiven, gözlük ve maske",
+  "İş elbisesi"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve tedbirli,",
+  "El ve göz koordinasyonu gelişmiş,",
+  "El becerisine sahip,",
+  "Sorumluluk duygusu gelişmiş,",
+  "Düzenli ve sistemli çalışabilen,",
+  "Kimyasal maddelere karşı alerjisi olmayan,",
+  "Ekip çalışmasına uyumlu,",
+  "Vardiyalı çalışmaya uygun,"
+ ],
+ "calisma_ortami": "Plaka perde makinesi ayarcı-operatörü, genellikle elyaflı plaka (MDF, sunta vb.) üretimi yapılan fabrikaların boyama-verniklemehanelerinde, kapalı ve gürültülü bir atölye ortamında çalışır. Görevini büyük ölçüde ayakta, makine ve konveyör hattı başında yürütür; çalışma ortamında boya, vernik ve solvent kokuları ile kimyasal buharlar bulunabilir. Bu nedenle çalışırken maske, eldiven, gözlük ve uygun iş elbisesi gibi kişisel koruyucu donanım kullanması gerekir.\n\nÜretim hattının sürekliliğine bağlı olarak vardiyalı çalışma söz konusu olabilir. Görev sırasında ustabaşı, diğer makine operatörleri, bakım personeli ve kalite kontrol çalışanları ile sürekli iletişim halindedir.",
+ "egitim": {
+  "verildigi_yerler": "Bu meslek için örgün bir okul programı bulunmamaktadır. Meslek, genellikle elyaflı plaka (MDF, sunta vb.) üreten işletmelerde işbaşında, usta yanında çalışılarak öğrenilir. Ayrıca Halk Eğitimi Merkezleri ve İŞKUR'un açtığı ilgili alanlardaki mesleki eğitim kursları da temel bilgi ve beceri kazandırılmasında destekleyici olabilir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "18 yaşından küçükler için veli izni gerekmektedir",
+   "İşe alımda, işletmenin talebine göre belirli bir fiziksel uygunluk ve sağlık durumu aranabilir"
+  ],
+  "sure_ve_icerik": "İşbaşında eğitim süresi işyerinin büyüklüğüne, makine özelliklerine ve kişinin öğrenme hızına göre değişmekle birlikte genellikle birkaç haftadan birkaç aya kadar sürebilir. Eğitim süresince boya ve verniğin özellikleri, perde kafası basınç ve santrifüj ayarının yapılması, boya/vernik miktarının hesaplanması, makine ve konveyör sisteminin çalıştırılması, üretim sırasında oluşabilecek aksaklıkların fark edilip giderilmesi, makinenin temizliği ve yağlanması ile iş sağlığı ve güvenliği kuralları öğretilir.",
+  "belge": "İşbaşında yetiştirilenlere genellikle resmi bir belge verilmez, deneyim esas alınır. Katılınan kurslarda ise 'Kurs Bitirme Belgesi' düzenlenebilir."
+ },
+ "calisma_alanlari": "Plaka perde makinesi ayarcı-operatörleri, başta elyaflı plaka (MDF, sunta, yonga levha vb.) üretimi yapan fabrikalar olmak üzere, bu plakaların boya veya vernik ile kaplandığı yüzey işlem tesislerinde istihdam edilirler. Ağaç ürünleri ve mobilya sanayine hammadde sağlayan üretim tesislerinde çalışma olanağı bulunmaktadır. İş bulma olanakları, sektördeki üretim hacmine ve işletmelerin otomasyon düzeyine bağlı olarak değişkenlik gösterebilir.",
+ "kazanc": {
+  "egitim_suresince": "İşbaşında eğitim alanlar, çalıştıkları süre boyunca genellikle asgari ücret düzeyinde veya vasıfsız işçi yevmiyesi karşılığında ücret alırlar. Kurslara katılım genellikle ücretsizdir.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Deneyim, bilgi düzeyi ve çalışılan işletmenin büyüklüğüne bağlı olarak ücret artabilir.",
+   "Özel sektörde ücret, işveren ile çalışan arasındaki anlaşmaya, işletme büyüklüğüne ve performansa göre değişebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Meslekte ilerleme; farklı boya/vernik türleri ve makine tiplerinde deneyim kazanma, daha karmaşık perde makinelerinde çalışabilme becerisi edinme ve bilgi birikimine bağlı olarak ücret artışı şeklinde olabilir.",
+  "is_hayatinda": "Deneyim kazanan operatörler, vardiya sorumluluğu, hat şefliği veya ustabaşılık gibi görevlere yükselebilir. Büyük işletmelerde, kullanılan boya/vernik çeşidine veya makine tipine göre uzmanlaşma söz konusu olabilir."
+ },
+ "benzer_meslekler": [
+  "Lak Sürme Makinesi İşçisi-Metal Levha",
+  "Hassas Lak Sürme Makinesi İşçisi (Baskı Silindirleri)",
+  "Elektrostatik Boya Operatörü",
+  "Diğer Boyacılar (İnşaat ve Bakım Hariç) (Makineyle)",
+  "Çelik Kapı Boya İşçisi"
+ ],
+ "ek_bilgiler": "Bu meslek, elyaflı plaka (MDF, sunta vb.) üreten ağaç ürünleri sanayisine özgüdür ve istihdam, bu sektördeki üretim hacmine bağlıdır. İşletmelerdeki otomasyon seviyesinin artması, operatörlerin görev ve sorumluluklarında zaman içinde değişikliklere yol açabilir.",
+ "gorevler": [
+  "İstenilen miktarda boyayı veya verniği akıtmak için ilgili ventili sağa veya sola çevirerek perde kafası içindeki basıncı ve santrifüj derecesini ayarlar.",
+  "Hassas terazide boyanacak plakayı tartar.",
+  "Tartı neticesinde elde ettiği değeri boyanmış plaka ağırlığı ile karşılaştırarak kullanacağı boya ve vernik miktarını bulur.",
+  "Tespit ettiği miktardaki boyayı veya verniği hazırlayarak makine deposuna doldurur.",
+  "Makine üzerindeki merdanelerin ve dönüş tavasının seviye ayarını özel anahtar kullanarak yapar.",
+  "Santrifüj devirdaimini, konveyörleri ve makineyi çalıştırır, otomatik çalışmayı izler.",
+  "Konveyörler üzerinde gelen ve makineden boyanarak veya verniklenerek çıkan plakaları kontrol eder.",
+  "Gördüğü aksaklıkları gerekli müdahalelerde bulunarak giderir.",
+  "İş bitiminde, perde makinesinin dönüş tavasını, boya deposunu ve perde başlığını bazı solventlerle yıkayarak temizler, makinenin yağlanması gereken kısımlarını yağlar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T11:50:36",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5345
+  }
+ }
+}

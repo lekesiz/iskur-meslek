@@ -1,0 +1,79 @@
+{
+ "arac_gerec": [
+  "Bükme presi (kalıplama tezgahı)",
+  "Alt ve üst kalıp parçaları",
+  "Buhar kazanı ve buhar vanaları",
+  "Somun sıkma anahtarları ve el aletleri",
+  "Hareket pedalı veya kumanda kolu",
+  "Ölçüm aletleri (şerit metre, mastar, kumpas)",
+  "Kontrplak parçaları (hammadde)",
+  "İş eldiveni ve koruyucu gözlük",
+  "Kulak koruyucu",
+  "Yağlama ve bakım gereçleri",
+  "Temizlik malzemeleri (fırça, bez vb.)"
+ ],
+ "genel_ozellikler": [
+  "El ve göz koordinasyonu iyi,",
+  "Dikkatli ve tedbirli,",
+  "Makine ve tezgahlarla çalışmaktan hoşlanan,",
+  "Fiziksel olarak güçlü ve dayanıklı,",
+  "Ölçme ve kontrol işlerinde titiz,",
+  "Sabırlı,",
+  "Talimatlara ve iş güvenliği kurallarına uyan,",
+  "Ekip çalışmasına uyumlu"
+ ],
+ "calisma_ortami": "Bükücüler (Makine ile) genellikle ağaç işleri, kontrplak ve mobilya üretimi yapılan fabrika ve atölyelerde, kapalı mekanlarda çalışırlar. Çalışma ortamında buhar, nem, gürültü ve belirli oranda toz bulunabilir; ayakta ve tezgah başında geçen uzun çalışma süreleri söz konusudur. İş kazası riskine karşı iş güvenliği kurallarına ve kişisel koruyucu donanım kullanımına dikkat edilmesi gerekir.\n\nÇalışma saatleri işyerinin üretim programına göre belirlenir, vardiyalı çalışma görülebilir. Meslek elemanları çalışma sırasında ustabaşı, diğer makine operatörleri ve üretim sorumluları ile sürekli iletişim halindedir.",
+ "gorevler": [
+  "Şekillendirilecek kontrplak parçalarının ölçülerini inceler,",
+  "Tezgah üzerinde takılı bulunan kalıp parçalarının bu ölçülere uygun olup olmadığını kontrol eder,",
+  "Ölçülere uygun olmayan kalıp parçalarını sökerek tezgahtan çıkarır,",
+  "Kullanacağı kalıp parçalarını seçerek tezgah üzerine bağlar,",
+  "Kalıp parçalarının çalışma ayarlarını yapar, somunları sıkarak tespit eder ve tezgahı çalıştırır,",
+  "Buhar vanalarını açarak kalıp parçalarının sıcaklığını belirli ısı derecesine getirir ve şekillenecek kontrplak parçasını alt kalıp parçası üzerine yerleştirir,",
+  "Hareket pedalına veya koluna basarak üst kalıp parçasını kontrplak parçası üzerine indirir,",
+  "Kontrplak parçasının kalıp parçaları arasında şekillenmesi için bir müddet bekler,",
+  "Kalıp parçalarını açarak şekillenen kontrplak parçasını tezgahtan alır,",
+  "İş bitimlerinde tezgahın bakım ve temizliğini yapar,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Bu meslek için örgün bir mesleki eğitim programı bulunmamaktadır. Meslek genellikle ağaç işleri ve kontrplak/mobilya üretimi yapılan işletmelerde işbaşında usta yanında çalışarak öğrenilir. Ayrıca Halk Eğitim Merkezleri ile İşkur'un açtığı mesleki eğitim kurslarında ağaç işleme makineleri ile ilgili temel beceriler kazanılabilir.",
+  "giris_kosullari": [
+   "İlköğretim mezunu olmak (mesleğin gerektirdiği minimum eğitim düzeyi)",
+   "Fiziksel olarak makine başında ayakta ve dikkat gerektiren işleri yapmaya uygun olmak",
+   "Sağlık durumunun bu işi yapmaya elverişli olması"
+  ],
+  "sure_ve_icerik": "Mesleğe özgü belirli bir süre ve müfredatı olan resmi bir eğitim programı yoktur. Kişi işe yeni başladığında işletme bünyesinde deneyimli bir usta veya operatörün gözetiminde, tezgahın ayarlanması, kalıpların bağlanması, buhar ve basınç ayarları ile iş güvenliği kurallarını uygulamalı olarak öğrenir. Bu süre işletmeden işletmeye ve kişinin becerisine göre değişebilir.",
+  "belge": "Mesleğin icrası için zorunlu bir diploma veya sertifika bulunmamaktadır. Mesleki Yeterlilik Kurumu (MYK) tarafından ilgili alanda verilebilecek bir Mesleki Yeterlilik Belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Bükücüler (Makine ile) -Kontrplak, Ağaç başta ağaç işleme ve kontrplak fabrikaları, mobilya ve ahşap eşya imalathaneleri olmak üzere, kontrplak parçaların preslenerek şekillendirildiği her türlü üretim işletmesinde çalışabilirler. Kendi işyerini açmak bu meslekte yaygın bir seçenek değildir; çalışanlar genellikle mevcut üretim işletmelerinde istihdam edilir.",
+ "kazanc": {
+  "egitim_suresince": "Resmi bir çıraklık veya mesleki eğitim programı bulunmadığından, işbaşında eğitim alanlar genellikle işletmenin belirlediği, asgari ücret düzeyinde veya buna yakın bir ücretle çalışmaya başlar.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanların kazancı genellikle asgari ücret düzeyindedir.",
+   "Deneyim, beceri, çalışılan işletmenin büyüklüğü ve sektörün ücret düzeyine göre kazanç değişebilir.",
+   "Kıdemli ve deneyimli operatörler, farklı makinelerde de çalışabilme yetkinliği kazandıklarında daha yüksek ücretle istihdam edilebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Halk Eğitim Merkezleri ve İŞKUR kursları ile mesleki bilgi ve beceriler geliştirilebilir. Mesleki Yeterlilik Kurumu (MYK) belgesi almak, mesleki gelişimi belgelendirme açısından faydalı olabilir.",
+  "is_hayatinda": "Deneyim kazanan kişiler usta, ustabaşı veya vardiya sorumlusu konumuna yükselebilir. Ayrıca freze, torna, planya, CNC gibi diğer ağaç işleme makinelerinde de operatörlük yaparak yetkinliklerini çeşitlendirebilirler."
+ },
+ "benzer_meslekler": [
+  "Bükücü (Ağaç)",
+  "Buharlı Pres Makinesi İşçisi-Ağaç Kaplama",
+  "Presçi (Mobilya)",
+  "Melamin Pres Makinesi Operatörü (Ahşap)",
+  "Ahşap İşleme Makineleri Operatörü",
+  "Ağaç İşleme Tezgahı Ayarcı-Operatörü"
+ ],
+ "ek_bilgiler": "",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T08:12:06",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 4670
+  }
+ }
+}

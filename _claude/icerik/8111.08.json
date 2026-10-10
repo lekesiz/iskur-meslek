@@ -1,0 +1,77 @@
+{
+ "arac_gerec": [
+  "Işıklı kontrol panosu / kumanda masası",
+  "Bilgisayar ve izleme ekranları (SCADA benzeri sistemler)",
+  "Telsiz cihazı",
+  "Yer altı/yer üstü telefon ve haberleşme sistemi",
+  "Bant sistemi kumanda düğmeleri ve anahtarları",
+  "Arıza ve vardiya kayıt defteri/formları",
+  "Kişisel koruyucu donanım (baret, kulaklık, iş elbisesi, çelik burunlu ayakkabı)",
+  "Acil durum uyarı ve alarm sistemleri",
+  "El feneri",
+  "Yazıcı ve rapor formları"
+ ],
+ "benzer_meslekler": [
+  "Kumanda Merkezi Operatörü (Kömür Madeni)",
+  "Bant Kaydırıcı ve Tanzimcisi",
+  "Tesis İşçisi (Maden)",
+  "Otomatik Maden Makinesi Operatörü"
+ ],
+ "calisma_alanlari": "Kömür madenciliği yapan kamu ve özel sektör işletmelerinin bant dağıtım ve kontrol merkezlerinde istihdam edilirler. Özellikle açık ocak işletmelerinde kömür, toprak ve kül taşıma bant sistemlerinin merkezi olarak izlendiği kontrol odalarında çalışırlar. İş bulma olanağı, ülkedeki kömür madenciliği faaliyetlerinin yoğunluğuna, işletmelerin üretim kapasitesine ve bant sistemlerinin otomasyon düzeyine bağlı olarak değişmektedir.",
+ "calisma_ortami": "Bant Kontrol Merkezi Operatörü (Kömür Madeni), genellikle işletmenin bant kontrol merkezinde, kapalı bir mekânda görev yapar. Çalışma ortamı büro ortamına benzese de bağlı olduğu madencilik tesisinin genel koşulları nedeniyle gürültü, toz ve titreşim gibi etkenlerle karşılaşabilir; bu nedenle görme ve işitme duyularının iyi olması, dikkatin uzun süre yüksek tutulması gerekir.\n\nÇalışma saatleri işletmenin vardiya sistemine bağlı olarak düzenlenir; gece, gündüz ve hafta sonu vardiyalarında çalışılabilir. Görevini yerine getirirken kule operatörü, vardiya amiri, bakım-onarım ve arıza giderme ekipleri ile telsiz veya telefon üzerinden sürekli iletişim kurar; iş başında ve vardiya sonunda bir önceki ve bir sonraki vardiya operatörleriyle bilgi ve rapor teslimi yapar.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğe yönelik ülke genelinde standart bir örgün mesleki eğitim programı bulunmamaktadır. Mesleğe giriş genellikle işletme bünyesinde verilen işbaşı eğitimi ve usta/deneyimli operatör yanında yetişme yoluyla gerçekleşir. Ayrıca Halk Eğitim Merkezleri ve İŞKUR tarafından açılan madencilik ve bant sistemleri alanındaki mesleki eğitim kurslarında temel bilgiler edinilebilir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak.",
+   "Madencilik işletmelerinde çalışmaya uygun sağlık raporuna sahip olmak.",
+   "Okuma yazma bilmek ve telsiz/telefon gibi haberleşme araçlarını kullanabilmek."
+  ],
+  "sure_ve_icerik": "Resmî olarak tanımlanmış standart bir eğitim süresi ve müfredat bulunmamaktadır. İşletmeler; bant dağıtım ve kumanda sistemlerinin çalışma mantığı, ışıklı pano üzerinden izleme, telsiz ile haberleşme, arıza bildirim ve kayıt tutma yöntemleri ile iş sağlığı ve güvenliği konularında belirli bir süre işbaşı eğitimi verir. Bu eğitim genellikle deneyimli bir operatörün gözetiminde uygulamalı olarak yürütülür.",
+  "belge": "Standart bir diploma veya sertifika zorunluluğu bulunmamaktadır; işletme içi eğitim tamamlama belgesi ya da katılım belgesi verilebilir. Mesleki Yeterlilik Kurumu (MYK) belgesine sahip olmak, istihdamda tercih sebebi olabilir."
+ },
+ "ek_bilgiler": "Kömür madenciliği, genel olarak iş sağlığı ve güvenliği açısından yüksek risk taşıyan bir sektördür; bu nedenle işe alımlarda sağlık raporu ve düzenli iş güvenliği eğitimleri önem taşır. Mesleki Yeterlilik Kurumu (MYK) belgesi, işletmelerin tercihine göre istihdamda avantaj sağlayabilir.",
+ "genel_ozellikler": [
+  "Dikkatli ve tedbirli,",
+  "Sorumluluk sahibi,",
+  "Hızlı ve doğru karar verebilen,",
+  "İyi iletişim kurabilen,",
+  "Görme ve işitme duyuları gelişmiş,",
+  "Takım çalışmasına uygun,",
+  "Stresli ve acil durumlarda sakin kalabilen,",
+  "Teknik konulara ilgili,"
+ ],
+ "gorevler": [
+  "Bir önceki vardiya operatöründen işi teslim alır.",
+  "Kule operatörü ile birlikte, bant dağıtım merkezindeki gezer-başlığın çalışmasını sağlar.",
+  "Amirinin talimatları doğrultusunda makinelerin öncelik sırasına göre çalıştırılmasını sağlar.",
+  "Telsiz devrelerine kumanda ederek gerekli haberleşmeyi sağlar.",
+  "Makinelerin çalışma kapasite ve zamanlarını kaydeder.",
+  "Arıza bilgilerini kaydeder, ilgili ekiplere bildirir, gerekli önlemlerin alınmasını sağlar.",
+  "Sistemin çalışması sırasında acil ve özel bir durum meydana geldiğinde amirine bilgi verir.",
+  "Yetkili amirin personele duyurulmasını istediği talimatları personele duyurur.",
+  "Işıklı panodan sistemi sürekli izler, sistemin verimli bir şekilde çalışmasını sağlar.",
+  "Arıza kayıt raporlarını bir sonraki vardiya operatörüne teslim eder.",
+  "Meslek alanı ile ilgili gelişmeleri takip eder ve yenilikleri uygular.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Meslekte ilerleme genellikle deneyim ve işletme içi eğitimlerle sağlanır; mesleğe yönelik kademeli bir örgün eğitim yapısı bulunmamaktadır.",
+  "is_hayatinda": "Deneyim ve bilgi birikimi arttıkça çalışanlar usta operatörlük, vardiya sorumluluğu, nezaretçilik veya kontrol merkezi şefliği gibi görevlere yükselebilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Eğitim genellikle işbaşında verildiğinden, çalışan statüsünde eğitim alanlar için işletmenin belirlediği ücret geçerli olabilir; ayrı bir eğitim ücreti bulunmamaktadır.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Deneyim, bilgi birikimi ve çalışılan işletmenin büyüklüğüne göre kazanç artabilir.",
+   "Kamu kurumlarına bağlı işletmelerde çalışanlar 657 sayılı Devlet Memurları Kanunu'na veya işçi statüsünde ise ilgili toplu iş sözleşmesi hükümlerine göre ücret alır; özel sektörde ücret işveren ile çalışan arasındaki anlaşmaya göre belirlenir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T10:06:57",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6526
+  }
+ }
+}

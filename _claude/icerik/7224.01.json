@@ -1,0 +1,82 @@
+{
+ "arac_gerec": [
+  "Tuzruhu (kaynak suyu/asit)",
+  "Üstübü",
+  "Maşa",
+  "İnce ıslak kum",
+  "Örs",
+  "Çekiç",
+  "Tahta tokmak",
+  "Kaynak takımı (lehim malzemesi)",
+  "Kömürle yanan ocak",
+  "Kıskaç",
+  "Toz nişadır (amonyum klorür)",
+  "Çubuk kalay",
+  "Pamuk",
+  "Su kabı/leğen",
+  "Koruyucu eldiven ve gözlük gibi iş güvenliği donanımı"
+ ],
+ "genel_ozellikler": [
+  "El becerisine sahip,",
+  "Dikkatli ve titiz çalışan,",
+  "Fiziksel olarak dayanıklı,",
+  "Sıcak ortamda çalışmaya uygun sağlık durumuna sahip,",
+  "El-göz koordinasyonu gelişmiş,",
+  "Sabırlı,",
+  "Kimyasal maddelerle (tuzruhu, nişadır) temasa dayanıklı sağlık durumuna sahip"
+ ],
+ "calisma_ortami": "Kalaycılar genellikle küçük, kapalı atölye veya dükkanlarda çalışır. Çalışma alanında kömür ocağının ısısı, kaynak işlemi, tuzruhu buharı ve nişadır kokusu gibi etkenler bulunduğundan ortamın havalandırılması önemlidir. İş büyük ölçüde ayakta, eğilerek ve ocak başında yürütülür; sıcak yüzeyler, açık ateş ve asit niteliğindeki tuzruhu ile doğrudan temas söz konusu olduğundan iş güvenliği önlemlerine (eldiven, gözlük, uygun havalandırma) dikkat edilmesi gerekir.\n\nÇalışma saatleri genellikle işyerinin açılış-kapanış saatlerine bağlı olarak gündüz sürdürülür. Meslek elemanı, kendi işyerinde çalışıyorsa müşterilerle (bakır kap sahipleri), bir işyerinde çalışıyorsa işveren ve varsa yardımcı işçiyle sürekli iletişim halindedir.",
+ "egitim": {
+  "verildigi_yerler": "Kalaycılığın örgün, standart bir meslek eğitimi programı bulunmamaktadır. Meslek, geleneksel olarak kalaycı ustasının yanında çıraklık ve işbaşında eğitim yoluyla öğrenilmektedir. Bazı dönemlerde Halk Eğitim Merkezleri bünyesinde geleneksel el sanatları veya bakır işleme kapsamında açılan kurslara katılarak da ilgili bilgi ve beceriler edinilebilir.",
+  "giris_kosullari": [
+   "Okuma yazma bilmek yeterli kabul edilir, belirli bir eğitim düzeyi şartı yoktur.",
+   "Mesleğe girişte ilköğretim düzeyinde eğitim yeterli görülmektedir.",
+   "Usta yanında çalışmaya başlamak için işyeri/usta ile sözlü veya yazılı anlaşma yapılır."
+  ],
+  "sure_ve_icerik": "Mesleğin standart bir eğitim süresi ve müfredatı yoktur. Usta yanında geçirilen öğrenme süresi kişinin beceri kazanma hızına ve ustanın değerlendirmesine göre değişir. Bu süreçte sırasıyla kapların tuzruhu ve üstübü ile temizlenmesi, kum ile ovularak parlatılması, şekil bozukluklarının çekiç ve tokmakla düzeltilmesi, delik kısımların kaynatılması, ocakta tavlama, nişadır serpme, kalayla kaplama ve son temizlik işlemleri öğretilir.",
+  "belge": "Örgün bir eğitim programı bulunmadığından genellikle resmi bir diploma verilmez; kişi usta yanında yetişerek mesleki yeterlilik kazanır. Katılınan kurslardan ise 'Kurs Bitirme Belgesi' alınabilir."
+ },
+ "calisma_alanlari": "Kalaycılar genellikle kendi adlarına küçük atölye veya dükkanlar işletir ya da bakırcılık, kalaycılık ve bakır eşya tamiri yapılan işyerlerinde çalışır. Bazı kalaycılar gezici olarak çalışıp talep üzerine ev veya işyerlerine giderek hizmet de verebilir.\n\nGünümüzde bakır mutfak eşyasının yerini çelik, çelik-emaye ve diğer malzemelerden yapılan kaplar aldığından bu mesleğe olan talep büyük ölçüde azalmıştır. Buna bağlı olarak meslek elemanı sayısı sınırlı olup, iş bulma olanakları geleneksel çarşı/pazar yerleri, el sanatları atölyeleri ve antika/restorasyon alanlarıyla sınırlı kalmaktadır.",
+ "kazanc": {
+  "egitim_suresince": "Usta yanında işbaşında öğrenim sürecinde genellikle düzenli bir ücret söz konusu değildir; bazı ustalar çırağına harçlık düzeyinde bir ödeme yapabilir.",
+  "egitim_sonrasi": [
+   "Kazanç; çalışılan yerin büyüklüğüne, bölgeye, iş yoğunluğuna ve kişinin deneyimine göre değişmektedir.",
+   "Kendi işyerini açanların kazancı işin hacmine ve müşteri potansiyeline bağlı olarak değişkenlik gösterir.",
+   "Mesleğe yeni başlayanlarda kazanç genellikle asgari ücret düzeyinde olabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğin örgün bir eğitim kademesi bulunmadığından ilerleme, usta yanında geçirilen süre ve kazanılan deneyime bağlıdır; çıraklıktan kalfalığa, kalfalıktan ustalığa geçiş ustanın değerlendirmesiyle gerçekleşir.",
+  "is_hayatinda": "Deneyim kazanan kişi usta unvanı alarak kendi adına atölye/işyeri açabilir ve yanına çırak alabilir. Talebin azalması nedeniyle meslek, günümüzde genellikle bakırcılık, dekoratif eşya tamiri veya antika restorasyonu gibi ek becerilerle birlikte sürdürülmektedir."
+ },
+ "benzer_meslekler": [
+  "Nalbant",
+  "Demirci (Sanat ve Stüdyo)",
+  "Soğuk Demirci/ Çelik Yapılandırmacı",
+  "Metal Şekillendirici (Elle)",
+  "Anahtarcı (Çilingir)"
+ ],
+ "ek_bilgiler": "Kalaycılık, bakır kapların günlük hayatta yaygın kullanıldığı dönemlerde önemli bir meslek olmuştur. Günümüzde çelik ve emaye mutfak eşyalarının yaygınlaşmasıyla bu mesleğe olan talep büyük ölçüde azalmış, meslek elemanı sayısı oldukça sınırlı kalmıştır. Meslek, bazı yerel yönetim ve belediyeler tarafından geleneksel el sanatları ve kültürel miras kapsamında desteklenmektedir.",
+ "gorevler": [
+  "Kalaylanacak bakır kap içine belirli miktarda tuzruhu döker.",
+  "Maşaya kıstırdığı üstübüyü tuzruhu içine batırarak kaynaklanacak satıhları siler.",
+  "Tuzruhu ile silinen kabı yardımcı işçiye verip ince ıslak kum ile ovdurur.",
+  "Temizlenen kabı kontrol edip düşme ve vurma neticesinde meydana gelen şekil bozukluklarını tespit eder.",
+  "Tespit ettiği bu kısımları örs üzerinde veya zeminde çekiç ve tahta tokmak kullanarak düzeltir.",
+  "Kap üzerindeki delik kısımları kaynak ile kapatır.",
+  "Hazır olan kabı kömür ile yanan ocak üzerine yerleştirip kıskaç ile tutup çevirerek tavlar.",
+  "Tavlanan kabın yüzlerine toz nişadır serper.",
+  "Çubuk kalayı kaba temas ettirerek eritir, eriyen kalayı pamukla yayarak bütün yüzeye dağıtır.",
+  "Kalaylanan kabı soğumaya bırakır.",
+  "Kapları kalaylandıktan sonra su içinde yıkayarak temizleyebilir.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T02:07:53",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6863
+  }
+ }
+}

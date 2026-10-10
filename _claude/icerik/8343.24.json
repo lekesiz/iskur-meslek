@@ -1,0 +1,77 @@
+{
+ "arac_gerec": [
+  "Makaslı platform (scissor lift)",
+  "Eklemli/teleskopik platform (manitou tipi araçlar)",
+  "Sepetli yükseltici araç",
+  "Kumanda kolu/kumanda paneli",
+  "Kablosuz kumanda ve haberleşme cihazı (telsiz)",
+  "Emniyet kemeri ve çengeli (düşmeyi önleyici sistem)",
+  "Baret/kask",
+  "İş eldiveni",
+  "Emniyet ayakkabısı ve koruyucu gözlük",
+  "Gres pompası ve yağlama ekipmanları",
+  "El feneri",
+  "Periyodik bakım ve kontrol formları",
+  "Rüzgar hızı ölçer (anemometre)",
+  "Takoz ve stabilizatör ekipmanları"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve tedbirli,",
+  "Sorumluluk sahibi,",
+  "El ve göz koordinasyonunu iyi kullanabilen,",
+  "Yükseklikte çalışmaktan çekinmeyen,",
+  "Mekanik ve hidrolik sistemlere ilgi duyan,",
+  "Hızlı ve doğru karar verebilen,",
+  "Bedensel olarak sağlıklı ve dengeli,",
+  "Çevresindeki uyarıları aynı anda algılayabilen,"
+ ],
+ "calisma_ortami": "Kaldırma yükleme (personel ve yük yükseltici) operatörü, işini genellikle açık havada; inşaat şantiyeleri, fabrika ve depo sahaları, bakım onarım alanları gibi ortamlarda yürütür. Zaman zaman kapalı mekânlarda (fabrika içi, salon, sahne vb.) da çalışabilir. Çalışma ortamı yükseklik, rüzgâr, yağmur, soğuk veya sıcak hava koşulları nedeniyle risk taşıyabilir; dikkatsizlik sonucu düşme, devrilme veya sıkışma gibi kazalara yol açabilir, bu nedenle iş sağlığı ve güvenliği kurallarına titizlikle uyulması gerekir.\n\nOperatör, platform üzerinde ayakta durarak veya kumanda panosu önünde durarak çalışır. Çalışma saatleri işin yoğunluğuna göre değişebilir, bazı işlerde vardiyalı veya hafta sonu çalışma gerekebilir. Görevi sırasında işveren, şantiye/saha şefleri, platform üzerindeki personel, bakım teknisyenleri ve diğer makine operatörleriyle sürekli iletişim halindedir.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi; Halk Eğitim Merkezleri, İŞKUR tarafından düzenlenen mesleki eğitim ve işbaşı eğitim programları ile özel kurs firmaları ve iş makinesi operatörlüğü eğitimi veren kuruluşlarca verilen kurslarda sağlanmaktadır. Meslek, büyük ölçüde işbaşında usta-çırak ilişkisi içinde de öğrenilmektedir.",
+  "giris_kosullari": [
+   "18 yaşını doldurmuş olmak",
+   "En az ilköğretim mezunu olmak",
+   "Yükseklikte ve platform üzerinde çalışmaya engel bir sağlık probleminin bulunmaması",
+   "Operatörlük yapmasını engelleyecek bedensel ve ruhsal bir engeli olmamak",
+   "İlgili kurs/kurum tarafından istenen diğer koşulları (adli sicil kaydı vb.) taşımak"
+  ],
+  "sure_ve_icerik": "Eğitim süresi, eğitimi veren kuruma ve programa göre değişmektedir. Eğitimde genel olarak platform ve yükseltici araçların teknik yapısı, hidrolik ve denge sistemleri, kumanda sistemlerinin kullanımı, yük kapasitesi ve rüzgâr limitlerinin hesaplanması, iş sağlığı ve güvenliği ile yüksekte çalışma kuralları, periyodik bakım ve yağlama işlemleri konularında teorik ve uygulamalı dersler verilir.",
+  "belge": "Eğitimi başarı ile tamamlayanlara kurumuna göre \"Operatör Belgesi\" veya \"Kurs Bitirme Belgesi/Sertifikası\" verilir. Mesleğin yükseklikte çalışma ve platform kullanımı içermesi nedeniyle iş yerlerinde Mesleki Yeterlilik Kurumu (MYK) Mesleki Yeterlilik Belgesi istihdamda tercih sebebi olabilir; bazı iş kollarında işveren tarafından aranabilir."
+ },
+ "calisma_alanlari": "Kaldırma yükleme (personel ve yük yükseltici) operatörleri; inşaat şantiyelerinde, fabrikalarda, depolarda, limanlarda, bakım ve montaj işlerinde, elektrik-aydınlatma bakım hizmetlerinde, yüksek bina cephe ve cam temizliği işlerinde, etkinlik ve organizasyon sektöründe sahne/dekor kurulumunda, ağaç budama ve peyzaj hizmetlerinde çalışabilirler. Kamu kurumlarında ve özel sektöre bağlı iş yerlerinde istihdam edilebildikleri gibi, deneyim ve sermaye sahibi olanlar kendi platform/yükseltici araçlarını edinerek kendi hesaplarına da çalışabilirler. İnşaat ve altyapı yatırımlarındaki artış, sektördeki insan gücü ihtiyacını etkilemektedir.",
+ "kazanc": {
+  "egitim_suresince": "Kurs ve eğitim süresince genellikle kazanç elde etme imkânı yoktur; İŞKUR işbaşı eğitim programlarına katılanlara mevzuat kapsamında belirlenen günlük cep harçlığı ödenebilir.",
+  "egitim_sonrasi": [
+   "Kamu kurum ve kuruluşlarında çalışanlar, memur statüsünde 657 sayılı Kanun'a, işçi statüsünde ise ilgili toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde çalışanların kazancı genellikle asgari ücret düzeyinde başlar; işyerinin büyüklüğü, çalışanın tecrübesi, bilgi ve becerisi ile sektörün ücret düzeyine göre değişebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Operatör, farklı tip platform ve yükseltici araçları kullanabilmek için ek operatörlük eğitimleri ve sertifika programlarına katılarak bilgi ve becerisini geliştirebilir. İleri seviye iş makinesi operatörlüğü veya iş sağlığı ve güvenliği alanlarında ek eğitimler alabilir.",
+  "is_hayatinda": "Deneyim kazanan operatörler, ekip liderliği, saha sorumluluğu veya bakım-onarım sorumluluğu gibi görevlere yükselebilir. Yeterli deneyim ve sermayeye sahip olanlar, kendi platform/yükseltici araçlarını edinerek kendi işini kurabilir."
+ },
+ "benzer_meslekler": [
+  "Araç Üstü Eklemli/Teleskopik Platform Operatörü",
+  "Araç Üstü Vinç Platform Operatörü",
+  "Mobil Vinç Operatörü",
+  "Vinç Operatörü",
+  "Diğer Malzeme Taşıma Makinesi Operatörleri"
+ ],
+ "ek_bilgiler": "Mesleğin yükseklikte çalışmayı içermesi nedeniyle iş sağlığı ve güvenliği mevzuatı kapsamında tehlikeli iş kolları arasında değerlendirilebilir; bu durum işe alımda ek eğitim, periyodik sağlık kontrolü ve belgelendirme gerekliliğini artırabilir. Kesin ve güncel mevzuat bilgisi için ilgili kurumlardan teyit alınması önerilir.",
+ "gorevler": [
+  "İş makinesinin denge ve hidrolik sistemlerini her sabah kontrol eder.",
+  "Platformun yük kapasitesini ve rüzgâr limitlerini denetler.",
+  "Kumanda kolu ile sepeti hassas şekilde istenilen noktaya sevk eder.",
+  "Personelin platform üzerindeki emniyet kurallarına uymasını sağlar.",
+  "Makinenin periyodik muayene ve yağlama işlemlerini takip eder.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T18:58:53",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5896
+  }
+ }
+}

@@ -1,0 +1,73 @@
+{
+ "gorevler": [
+  "Uygulamalı eğitim programlarını ve materyallerini hazırlar.",
+  "Teknik becerileri atölye ortamında kursiyerlere bizzat gösterir.",
+  "Kursiyerlerin çalışmalarını denetleyerek hatalarını düzeltir.",
+  "Atölye güvenliğini ve araç-gereçlerin korunmasını sağlar.",
+  "Eğitim sonu değerlendirme kayıtlarını tutar ve sertifika süreçlerine destek verir.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "arac_gerec": [
+  "Eğitim verilen alana özgü el aletleri ve makineler",
+  "Atölye/işlik tezgahları ve çalışma masaları",
+  "Kişisel koruyucu donanım (eldiven, gözlük, önlük vb.)",
+  "Örnek uygulama parçaları ve gösterim materyalleri",
+  "İş ve işlem yaprakları, uygulama föyleri",
+  "Günlük/haftalık çalışma planı ve ders planı",
+  "Yoklama fişi ve not/değerlendirme defteri",
+  "Ölçüm ve kontrol aletleri",
+  "Bilgisayar, projeksiyon gibi sunum araçları",
+  "Alanla ilgili mesleki yayın ve kaynaklar"
+ ],
+ "genel_ozellikler": [
+  "Eğitim verdiği alanda uygulamalı bilgi ve beceriye sahip,",
+  "El becerisi gelişmiş,",
+  "Sabırlı ve hoşgörülü,",
+  "Anlaşılır ve açık bir dille bilgi aktarabilen,",
+  "İyi bir öğrenme ortamı sağlayabilen,",
+  "Dikkatli, işine özen gösteren,",
+  "Sorumluluk sahibi ve güvenlik kurallarına duyarlı,",
+  "Kendini ve mesleki bilgisini güncel tutmaya istekli,"
+ ],
+ "calisma_ortami": "Usta öğretici, çalıştığı el sanatı, teknik beceri veya hobi alanına uygun atölye, işlik veya kurs ortamında görev yapar. Çalışma ortamı, verilen eğitimin niteliğine göre değişmekle birlikte genellikle uygulamalı çalışmaya elverişli, araç-gereç ve makinelerin bulunduğu mekânlardır; bazı alanlarda kesici, elektrikli veya ısı/kimyasal madde içeren ekipmanlarla çalışıldığından dikkat gerektirir ve iş sağlığı ve güvenliği kurallarına uyulması önemlidir.\n\nÇalışma saatleri, görev yapılan kurumun (Halk Eğitim Merkezi, özel kurs, işletme vb.) programına göre değişebilir; gündüz, akşam veya hafta sonu kursları şeklinde olabilir. Usta öğretici, çalışması sırasında kursiyerler, kurum yöneticileri ve diğer eğitmenlerle sürekli iletişim içindedir.",
+ "egitim": {
+  "verildigi_yerler": "Usta öğreticilik için standart bir örgün eğitim programı bulunmamaktadır. Bu meslek, kişinin ilgili el sanatı, teknik beceri veya hobi alanında edindiği bilgi, beceri ve deneyimin, kursiyerlere aktarılabilecek şekilde belgelendirilmesiyle kazanılan bir yeterliliktir. Halk Eğitim Merkezleri, Mesleki Eğitim Merkezleri, özel öğretim kurumları ve İŞKUR tarafından açılan kurslarda usta öğretici olarak görev almak isteyenlerden ilgili alanda yeterlilik belgesi, sertifika ve/veya mesleki deneyim istenir.",
+  "giris_kosullari": [
+   "İlgili el sanatı, teknik beceri veya hobi alanında yeterli bilgi ve beceriye sahip olmak",
+   "Çalışılacak kuruma göre en az ilköğretim mezunu olmak (alana göre aranan asgari öğrenim düzeyi değişebilir)",
+   "Görev alınacak kurumun aradığı usta öğreticilik belgesi, alan sertifikası veya mesleki deneyim şartını karşılamak"
+  ],
+  "sure_ve_icerik": "Usta öğreticiliğin belirli bir eğitim süresi ve standart içeriği yoktur; bu, kişinin öğreteceği el sanatı veya teknik beceriye göre değişir. Adaylar genellikle ilgili meslek alanında çıraklık-kalfalık-ustalık sürecinden geçerek veya mesleki kurslarla yetişir. Bazı kurumlarda ayrıca görev almadan önce kısa süreli bir usta öğreticilik/öğretmenlik formasyonu eğitimi alınması istenebilir.",
+  "belge": "Eğitimini ve/veya yeterlilik sürecini tamamlayanlara, bağlı bulunduğu kurumca (Halk Eğitim Merkezi, Mesleki Eğitim Merkezi, özel kurs vb.) usta öğreticilik yapmaya yetkili olduğunu gösteren belge veya sertifika verilir."
+ },
+ "calisma_alanlari": "Usta öğreticiler; Halk Eğitim Merkezleri, Mesleki Eğitim Merkezleri, özel kurs ve dershaneler, belediyelerin meslek edindirme kursları, İŞKUR işbaşı eğitim programları, sivil toplum kuruluşları ve işletmelerin kendi bünyesinde açtığı eğitim birimlerinde çalışabilirler. Ayrıca serbest olarak kendi atölyelerinde veya işletmelerinde kurs ve eğitim verebilirler.",
+ "kazanc": {
+  "egitim_suresince": "Usta öğreticiliğin standart bir örgün eğitim süreci bulunmadığından, bu dönemde düzenli bir kazançtan söz edilemez; kişi genellikle çalıştığı meslek alanında edindiği deneyimle usta öğreticilik yeterliliğine ulaşır.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında (Halk Eğitim Merkezi vb.) görevlendirilenler, ilgili mevzuata göre ek ders ücreti esasıyla ücret alır",
+   "Özel kurum ve işletmelerde çalışanların kazancı, işletmeyle yapılan anlaşmaya, deneyime ve ders saatine göre değişir",
+   "Yeni başlayanlarda kazanç genellikle asgari ücret düzeyinde olabilir, deneyim ve uzmanlaşma arttıkça kazanç yükselebilir"
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Usta öğreticiler, alanlarındaki yeni teknik ve yöntemleri izleyerek, katıldıkları hizmet içi eğitim, seminer ve mesleki kurslarla bilgi ve becerilerini güncelleyebilir; ilgili alanda daha üst düzey sertifika ve belgeler alarak uzmanlıklarını artırabilirler.",
+  "is_hayatinda": "Deneyim kazandıkça atölye veya bölüm sorumluluğu, eğitim koordinatörlüğü gibi görevlere yükselebilir; birikim ve sermayeye sahip olanlar kendi atölyesini veya kurs işletmesini açarak girişimci olabilir."
+ },
+ "benzer_meslekler": [
+  "Usta Öğretici (Doğramacılık)",
+  "Usta Öğretici (Seramik Şekillendirme)",
+  "Usta Öğretici (Çiçek Düzenlemeciliği)",
+  "Usta Öğretici (Pastacılık, Tatlıcılık ve Şekerlemecilik)",
+  "Eğitmen",
+  "Uzman Öğretici"
+ ],
+ "ek_bilgiler": "Bu meslek, belirli bir el sanatı, teknik beceri veya hobi alanında uzmanlaşmış usta öğreticileri kapsayan genel bir tanımdır; usta öğreticinin kullandığı araç-gereç, çalışma ortamı, aranan belgeler ve eğitim süreci, uzmanlık alanına göre önemli ölçüde farklılık gösterebilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T04:57:30",
+  "usage": {
+   "input_tokens": 6,
+   "output_tokens": 12395
+  }
+ }
+}

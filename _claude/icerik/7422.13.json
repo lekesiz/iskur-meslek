@@ -1,0 +1,77 @@
+{
+ "arac_gerec": [
+  "Bilgisayar ve çevre birimleri (ekran, klavye, mouse)",
+  "Görsel programlama dili yazılımları ve entegre geliştirme ortamları (IDE)",
+  "Kod düzenleyiciler ve derleyici/yorumlayıcı programlar",
+  "Veritabanı yönetim sistemleri",
+  "Hata ayıklama (debug) araçları",
+  "Sürüm kontrol sistemleri",
+  "İnternet tarayıcısı ve sunucu/test ortamları",
+  "Teknik dokümantasyon ve kullanım kılavuzları",
+  "Ağ bağlantısı ve yerel/uzak sunucu erişim araçları",
+  "Yedekleme ve veri depolama birimleri"
+ ],
+ "genel_ozellikler": [
+  "Mantıksal ve analitik düşünebilen,",
+  "Matematiğe ilgili ve bu alanda başarılı,",
+  "Dikkatli, sabırlı ve sorumluluk duygusu gelişmiş,",
+  "Problem çözme yeteneği gelişmiş,",
+  "Görsel-uzamsal algısı iyi,",
+  "Yeniliklere açık, teknolojik gelişmeleri takip edebilen,",
+  "Ekip çalışmasına uygun,",
+  "Uzun süre bilgisayar başında dikkatini sürdürebilen"
+ ],
+ "calisma_ortami": "Görsel programlama elemanı genellikle kapalı ortamda, büro ya da ofis düzeninde, bilgisayar başında oturarak çalışır. Çalışma süresinin büyük bölümünü ekran karşısında geçirir; bu nedenle göz, bel ve boyun gibi bölgelerde yorgunluk ve rahatsızlıklar görülebilir. Proje teslim tarihlerine bağlı olarak çalışma saatleri yoğunlaşabilir ve mesai dışı çalışma gerekebilir.\n\nİş sırasında yazılım ekibi üyeleri, proje yöneticileri, sistem yöneticileri ve bazen doğrudan müşterilerle iletişim kurar. Günümüzde işin niteliğine göre kısmen veya tamamen uzaktan/evden çalışma da mümkün olabilmektedir.",
+ "gorevler": [
+  "İş yerinde plan, program ve iş organizasyonu yapar.",
+  "İşçi sağlığı mevzuatına uyar ve iş güvenliği önlemlerini alır.",
+  "Görsel programlama dilinin kurulumunu yapar.",
+  "Görsel ara birim (arayüz) oluşturur.",
+  "Görsel programlamada kod kısımlarını yazar.",
+  "Görsel programlama dilinin komutlarını kullanır.",
+  "Görsel programlama dilinde yardımcı komutları yazar.",
+  "Görsel programlamada kod hatalarını giderir.",
+  "Görsel programlamada veri tabanı ile program yazar.",
+  "Görsel programlamada internet uygulamaları yapar.",
+  "Mesleki alandaki gelişmeleri takip eder ve uygular."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi; mesleki ve teknik Anadolu liselerinin Bilişim Teknolojileri alanı ile ilgili dallarında, mesleki eğitim merkezlerinde, Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kurslarında verilmektedir. Ayrıca yükseköğretimde ön lisans düzeyinde Bilgisayar Programcılığı ile ilgili programlar ve lisans düzeyinde Bilgisayar Mühendisliği/Yazılım Mühendisliği gibi bölümler mesleğe yönelik daha ileri düzeyde eğitim olanağı sağlamaktadır.",
+  "giris_kosullari": [
+   "Mesleki ve teknik eğitime devam edebilmek için ortaokul mezunu olmak ve ilgili alana kayıt yaptırmak",
+   "Mesleki eğitim merkezinde çıraklık eğitimine başlamak için 14 yaşını doldurmuş olmak, bir işyeri bulmak ve işvereniyle çıraklık sözleşmesi imzalamak",
+   "Yükseköğretim programlarına girebilmek için lise mezunu olmak ve YKS'de ilgili programın gerektirdiği puanı almak",
+   "Halk Eğitim Merkezleri ve İŞKUR kurslarına katılım için genellikle okuryazar olmak ve temel bilgisayar kullanım bilgisine sahip olmak yeterli olmaktadır"
+  ],
+  "sure_ve_icerik": "Mesleki ve teknik Anadolu liselerinde eğitim 4 yıl sürer; ortak genel kültür dersleri ile birlikte programlama mantığı, görsel programlama dili kullanımı, arayüz (ara birim) tasarımı, veritabanı ve internet uygulamaları gibi meslek dersleri okutulur. Ön lisans programları 2 yıl, lisans programları ise 4 yıl sürmektedir. Halk Eğitim Merkezleri ve İŞKUR tarafından açılan kurslar ise içeriğe göre değişen, genellikle kısa süreli (haftalar-aylar) programlar şeklindedir ve temel programlama mantığı, görsel programlama dili kullanımı, arayüz oluşturma ve veritabanı uygulamalarını kapsar.",
+  "belge": "Mesleki ve teknik eğitimde diploma; mesleki eğitim merkezlerinde kalfalık ve ustalık belgesi; Halk Eğitim Merkezi/İŞKUR kurslarında katılım veya başarı belgesi; yükseköğretimde ön lisans ya da lisans diploması verilir. Ayrıca Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Görsel programlama elemanları; yazılım geliştirme firmalarında, kamu ve özel kuruluşların bilgi işlem birimlerinde, bankacılık ve finans sektöründe, e-ticaret şirketlerinde ve bilişim hizmeti sunan işletmelerde görev alabilirler. Ayrıca serbest çalışan (freelance) olarak proje bazlı işler yapabilir veya kendi yazılım işletmelerini kurabilirler. Dijitalleşmenin artmasıyla birlikte hemen her sektörde görsel programlama bilgisi gerektiren pozisyonlara ihtiyaç duyulmaktadır.",
+ "kazanc": {
+  "egitim_suresince": "Mesleki ve teknik eğitim kapsamında işletmelerde staj/eğitim gören öğrenciler 3308 sayılı Mesleki Eğitim Kanunu'na göre ücret alabilirler. Halk Eğitim Merkezleri ve İŞKUR kurslarında genellikle ücret ödenmez; bazı kurs programlarında katılımcılara belirli ödemeler yapılabilir.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında istihdam edilenler 657 sayılı Devlet Memurları Kanunu veya tabi oldukları statüye göre ücret alır.",
+   "Özel sektörde çalışanların kazancı; işyerinin büyüklüğü, kişinin bilgi birikimi, deneyimi ve çalıştığı sektöre göre değişir; mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Deneyim ve uzmanlık arttıkça kazanç yükselebilir; proje bazlı/serbest çalışanların geliri üstlendikleri proje sayısına ve niteliğine göre değişkenlik gösterir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleki ve teknik eğitimden mezun olanlar, alanının devamı niteliğindeki yükseköğretim (ön lisans/lisans) programlarına sınavla veya ek puan avantajıyla yerleşebilirler. Ayrıca çeşitli kurs ve sertifika programlarına katılarak farklı programlama dilleri ve teknolojiler öğrenip mesleki bilgi ve becerilerini geliştirebilirler.",
+  "is_hayatinda": "Deneyim kazanan görsel programlama elemanları; kıdemli yazılım geliştirici, proje sorumlusu veya ekip/takım lideri gibi pozisyonlara yükselebilir. İsteyenler, bilgi birikim ve sermayelerine göre kendi yazılım işlerini kurarak işveren konumuna geçebilirler."
+ },
+ "benzer_meslekler": [
+  "Nesne Tabanlı Programlamacı",
+  "Mobil Programlama Elemanı",
+  "Bilgisayar Ağ Veri Tabanı Elemanı",
+  "Bilgisayar Ağ Temelleri Elemanı"
+ ],
+ "ek_bilgiler": "Bilişim ve yazılım sektöründeki hızlı gelişim nedeniyle görsel programlama bilgisine sahip kişilere olan talep artmaktadır. Mesleğin icrasında yeni programlama dillerini, geliştirme araçlarını ve teknolojik gelişmeleri sürekli takip etmek mesleki başarı açısından önemlidir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T06:39:49",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6920
+  }
+ }
+}

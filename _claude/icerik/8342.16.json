@@ -1,0 +1,70 @@
+{
+ "gorevler": [
+  "Kepçeye benzer bir kova ile toprağı kazıyıp dolduran, boşaltılıncaya kadar bu durumda tutan veya vagonet biçimindeki skreyperle toprağı kazıyıp gösterilen yere kadar taşıyan ve boşaltan özel tip yol tesviye ve kazma aracını (skreyper) kullanır.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "arac_gerec": [
+  "Skreyper (kazıyıcı-taşıyıcı) makinesi ve çekici ünitesi",
+  "Kesici bıçak ve toprak haznesi (kova)",
+  "Hidrolik kaldırma, devirme ve boşaltma sistemleri",
+  "Çelik halat ve kumanda kabloları (kablolu tip skreyperlerde)",
+  "Yıldız ve çift ağızlı anahtar, pense, tornavida gibi el aletleri",
+  "Çeşitli yağdanlıklar ve madeni yağlar",
+  "Akaryakıt ve yakıt ikmal ekipmanları",
+  "Üstübü, hava filtreleri",
+  "Toz gözlüğü, eldiven, kulak koruyucu gibi kişisel koruyucu donanım",
+  "Yedek parça (bıçak ağzı, hidrolik hortum vb.)",
+  "Günlük bakım kontrol formları",
+  "Telsiz veya haberleşme cihazı"
+ ],
+ "genel_ozellikler": [
+  "Ellerini, gözlerini ve ayaklarını eşgüdümle kullanabilen,",
+  "Çevresindeki çeşitli uyarıları aynı anda algılayabilen,",
+  "Mekaniğe ve motorlu araçlara ilgili,",
+  "Dikkatli, tedbirli ve sorumluluk sahibi,",
+  "Açık havada ve zorlu çalışma koşullarına dayanıklı,",
+  "Fiziksel olarak sağlıklı,",
+  "Ekip çalışmasına yatkın,"
+ ],
+ "calisma_ortami": "\"Skreyper Operatörü çalışmalarını araç içinde ve açık havada, genellikle yol yapım, baraj, havalimanı veya büyük hafriyat şantiyelerinde yürütür. Çalışma ortamı tozlu, gürültülü olabilir ve mevsim koşullarına (sıcak, soğuk, yağış) açıktır. İş genellikle gündüz saatlerinde yürütülse de proje takvimine göre vardiyalı çalışma da söz konusu olabilir. Dikkatsizlik iş kazalarına yol açabileceğinden iş güvenliği kurallarına titizlikle uyulması gerekir.\\n\\nOturarak çalışan operatör, iş öncesi ve sonrasında şantiye şefi, mühendisler, diğer makine operatörleri ve bakım personeli ile iletişim halindedir; makine başındaki çalışma süresince ise genellikle yalnız çalışır.\"",
+ "egitim": {
+  "verildigi_yerler": "Bu meslek için örgün bir okul veya üniversite programı bulunmamaktadır. İş makinesi operatörlüğü eğitimi; MEB onaylı özel öğretim kurumlarının iş makineleri sürücü eğitim kurslarında, İŞKUR'un açtığı mesleki eğitim kurslarında ve bazı büyük inşaat veya kamu kuruluşlarının işbaşı eğitim programlarında (usta operatör yanında) verilmektedir.",
+  "giris_kosullari": [
+   "18 yaşını doldurmuş olmak",
+   "En az ilköğretim okulu mezunu olmak",
+   "Operatörlük yapmaya engel olacak bir sağlık sorunu (görme, işitme, bedensel yeterlilik) bulunmamak",
+   "İlgili kurs yönergelerinde belirtilen diğer şartları (adli sicil vb.) taşımak"
+  ],
+  "sure_ve_icerik": "Özel sürücü kurslarında iş makinesi operatörlüğü eğitimi; trafik bilgisi, motor bilgisi, iş sağlığı ve güvenliği ile ilk yardım konularını kapsayan teorik dersler ve makine başında uygulamalı eğitimden oluşur. Kursun süresi kuruma göre değişmekle birlikte genellikle birkaç haftayı bulur. Kurs sonrasında, işe yeni başlayanlar belirli bir süre deneyimli bir operatörün (usta operatör) yanında uygulamalı olarak yetiştirilir.",
+  "belge": "Eğitimi başarıyla tamamlayanlara \"Operatör Belgesi\" veya \"İş Makinesi Operatörlüğü Sertifikası\" verilir. Makinenin karayolunda sevk edilmesi gerektiğinde, sürücü belgesine (ehliyete) ilgili operatörlük sertifikasının işlenmesi gerekmektedir."
+ },
+ "calisma_alanlari": "\"Skreyper Operatörleri; Karayolları Genel Müdürlüğü, Devlet Su İşleri, belediyeler gibi kamu kurumlarıyla; yol yapımı, baraj, havalimanı, maden ve taş ocağı işletmeciliği gibi büyük ölçekli hafriyat ve altyapı projeleri yürüten özel inşaat firmalarında çalışabilirler. Skreyper, özellikle orta mesafeli büyük hacimli toprak taşıma işlerinde tercih edilen bir makinedir; günümüzde bazı iş alanlarında yerini ekskavatör-kamyon kombinasyonlarına bırakmış olsa da geniş kapsamlı projelerde kullanımı sürmektedir. Bu nedenle iş bulma olanakları, genel iş makinesi operatörlüğü mesleklerine kıyasla daha sınırlı ve büyük projelerin varlığına bağlı olabilir; ancak edinilen operatörlük deneyimi diğer hafriyat makinelerine geçişi kolaylaştırır.\"",
+ "kazanc": {
+  "egitim_suresince": "Kurs döneminde genellikle bir ücret söz konusu değildir; bazı işverenler usta operatör yanında uygulamalı olarak yetişen adaylara sembolik bir ücret ödeyebilir.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında istihdam edilenler 657 sayılı Devlet Memurları Kanunu'na veya işçi statüsündeyse ilgili toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde yeni başlayanların kazancı genellikle asgari ücret düzeyindedir; işletmenin büyüklüğü, projenin kapsamı ve operatörün deneyimi arttıkça ücret düzeyi de yükselebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Meslekte örgün ve kademeli bir eğitim basamağı bulunmamaktadır. Operatör, ek kurs ve sertifika programlarıyla farklı iş makinelerinin (greyder, buldozer, ekskavatör vb.) kullanımını öğrenerek bilgi ve becerisini genişletebilir.",
+  "is_hayatinda": "Deneyim kazanan ve başarılı bulunan operatörler baş operatör, ustabaşı veya şantiye makine parkı sorumlusu gibi görevlere yükselebilir. Farklı iş makinelerinde uzmanlaşarak istihdam olanaklarını artırabilir ve işletme içinde makine bakım/koordinasyon gibi sorumluluklar üstlenebilir."
+ },
+ "benzer_meslekler": [
+  "Buldozer-Dozer Operatörü",
+  "Greyder Operatörü",
+  "Ekskavatör (Kazıma ve Yükleme) Operatörü",
+  "Hendek Açma Makinesi Operatörü",
+  "Kepçeli Araç Operatörü",
+  "Beko Loder (Kazıcı - Yükleyici) Operatörü"
+ ],
+ "ek_bilgiler": "\"Skreyper, kendi yürür veya bir traktörle çekilen; geniş bir kazıyıcı bıçak ile toprağı biriktiren bir haznesi (kova) bulunan, kazı, taşıma ve boşaltma işlemlerini tek makinede birleştiren bir hafriyat makinesidir. Özellikle orta mesafeli, büyük hacimli toprak taşıma gerektiren yol, baraj ve havalimanı inşaatlarında tercih edilir. Günümüzde bazı iş alanlarında ekskavatör-kamyon kombinasyonlarının yaygınlaşmasıyla kullanımı azalmış olsa da, büyük ölçekli projelerde halen tercih edilmektedir.\"",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T18:38:53",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 7145
+  }
+ }
+}

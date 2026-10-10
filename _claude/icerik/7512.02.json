@@ -1,0 +1,85 @@
+{
+ "arac_gerec": [
+  "Buğday unu, su, tuz",
+  "Hamur teknesi veya yoğurma kabı",
+  "Merdane / oklava",
+  "Hamur açma tezgâhı (sofra)",
+  "Yufka sacı",
+  "Ocak / ısı kaynağı",
+  "Terazi",
+  "Un eleği",
+  "Hamur kesme aleti (bıçak, keski)",
+  "Nemli bez / örtü",
+  "Ambalaj malzemesi (poşet, naylon)",
+  "Etiket ve etiketleme malzemesi",
+  "Temizlik malzemeleri"
+ ],
+ "genel_ozellikler": [
+  "El becerisine sahip,",
+  "Dikkatli ve sabırlı,",
+  "El ve gözünü eşgüdümle kullanabilen,",
+  "Ayakta ve tekrarlı hareketlerle uzun süre çalışabilecek fiziksel güce sahip,",
+  "Temizlik, hijyen ve düzene önem veren,",
+  "Sıcak ortamda çalışmaya dayanıklı,",
+  "Zamanı iyi yönetebilen"
+ ],
+ "calisma_ortami": "Yufka ustaları; yufka imalathanelerinde, unlu mamul/gıda üretim işletmelerinde, fırınlara bağlı üretim birimlerinde veya kendi işyerlerinde (yufkacı dükkânı) çalışır. Çalışma ortamı genellikle kapalı mekân olup, sacın ve ocağın yaydığı ısı nedeniyle sıcak, unlu ve bazen nemli bir havaya sahiptir. İş, ayakta durmayı, eğilmeyi ve tekrarlı el-kol hareketlerini gerektirir; bu nedenle fiziksel yorgunluk söz konusu olabilir.\n\nÇalışma saatleri işletmenin üretim ve sipariş düzenine göre değişebilir; genellikle sabah erken saatlerde başlanır. Yufka ustası; işveren, birlikte çalıştığı diğer üretim personeli, malzeme tedarikçileri ve doğrudan satış yapılan durumlarda müşterilerle iletişim kurar.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin gereken minimum eğitim düzeyi okuryazarlık olup, örgün bir mesleki ve teknik eğitim programı (meslek lisesi/mesleki eğitim merkezi dalı) olarak yaygın biçimde tanımlanmamıştır. Meslek büyük ölçüde işbaşında usta-çırak ilişkisi içinde öğrenilmekte; bunun yanında Halk Eğitim Merkezleri ile İŞKUR'un açtığı mesleki eğitim kurslarında da ilgili beceriler kazandırılabilmektedir. Talep olması durumunda bazı mesleki eğitim merkezlerinde gıda/unlu mamuller alanına bağlı olarak kısa süreli yufkacılık eğitimleri açılabilmektedir.",
+  "giris_kosullari": [
+   "Okuryazar olmak",
+   "Kurslara katılabilmek için genellikle belirli bir yaşın (çalışma mevzuatına uygun asgari yaş) üzerinde olmak",
+   "İşin gerektirdiği fiziksel koşullara (sıcak ortamda ve ayakta çalışma) sağlık durumunun uygun olması",
+   "İşbaşında eğitim için bir işyeri bularak usta yanında çalışmaya başlamak"
+  ],
+  "sure_ve_icerik": "Mesleğin standart ve zorunlu bir örgün eğitim süresi bulunmamaktadır. Beceri genellikle işbaşında usta yanında bir süre çalışılarak ya da kısa süreli (birkaç hafta ile birkaç ay arasında değişebilen) mesleki eğitim kurslarıyla kazanılır. Eğitimde; hijyen kuralları, hamur hazırlama ve yoğurma, hamuru gramajlı parçalara (pazılara) ayırma, merdane/oklava ile açma teknikleri, sac üzerinde pişirme, ürünün ambalajlanması ve etiketlenmesi konuları öğretilir.",
+  "belge": "Halk Eğitim Merkezi veya İŞKUR kurslarını tamamlayanlara kurs bitirme/katılım belgesi verilir. Mesleki Yeterlilik Kurumu (MYK) belgesi zorunlu olmamakla birlikte, istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Yufka ustaları; yufka imalathanelerinde, unlu mamul ve gıda üretim işletmelerinde, fırınlara bağlı üretim birimlerinde, market ve bakkallara ürün sağlayan küçük üretim yerlerinde çalışabilirler. Ayrıca pideci, börekçi ve bazı lokanta işletmelerinde de yufka üretimi için istihdam edilebilirler. Yeterli sermaye ve deneyime sahip olanlar kendi yufka imalathanesini veya dükkânını açabilir.",
+ "kazanc": {
+  "egitim_suresince": "İşbaşında usta yanında eğitim alanlara, çalıştıkları işletme tarafından genellikle sembolik bir ücret veya yardımcı eleman ücreti ödenebilir. Halk Eğitim Merkezi ya da İŞKUR kurslarına katılım döneminde herhangi bir ücret söz konusu değildir.",
+  "egitim_sonrasi": [
+   "Özel sektörde çalışanların kazancı; işyerinin büyüklüğü, bulunduğu bölge ve kişinin tecrübesine göre değişmekte olup, yeni başlayanlar için genellikle asgari ücret düzeyindedir.",
+   "Deneyim ve beceri arttıkça kazanç yükselebilir.",
+   "Kendi işyerini açanların kazancı; işin hacmine, müşteri potansiyeline ve ürün çeşitliliğine göre değişkenlik gösterir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğin örgün eğitimde tanımlı bir kalfalık-ustalık ilerleme basamağı bulunmamaktadır. Deneyim kazanan kişiler zamanla ustalık düzeyine ulaşarak daha nitelikli işler üstlenebilir; isteyenler kurs ve sertifika programlarıyla bilgi ve becerilerini belgelendirebilir.",
+  "is_hayatinda": "Deneyim kazanan yufka ustaları, işletmede usta, ekip sorumlusu veya üretim sorumlusu konumuna gelebilir. Sermaye biriktirenler kendi yufka imalathanesini veya satış yerini açarak işletme sahibi olabilir."
+ },
+ "benzer_meslekler": [
+  "Lavaş Ustası",
+  "Börek Ustası",
+  "Mantı Ustası",
+  "Hamurkâr",
+  "Hamur Hazırlayıcı Yardımcısı",
+  "Mayacı (Hamur)",
+  "Boyoz Ustası"
+ ],
+ "ek_bilgiler": "Gıda üretimi yapıldığından çalışanların hijyen eğitimi almaları ve periyodik sağlık kontrollerinden geçmeleri önem taşır. Sıcak sac/ocak çevresinde çalışma nedeniyle iş güvenliği kurallarına (yanık, kayma riskleri vb.) dikkat edilmesi gerekir. Meslek, kadın ve erkek çalışanlar tarafından yürütülebilen, farklı yaş gruplarına açık bir el zanaatıdır.",
+ "gorevler": [
+  "İş planlaması ve organizasyonu yapar,",
+  "Hijyen kurallarına uygun olarak çalışma ortamını hazırlar,",
+  "Buğday unu, su ve tuzu karıştırarak hamur hazırlar,",
+  "Hamuru istenilen kıvama gelinceye kadar yoğurur,",
+  "Hamuru aynı gramajlarda olmak üzere yuvarlak parçalara (pazılara) ayırır,",
+  "Parça halindeki hamurları merdane veya oklava yardımıyla tezgâh üzerinde gerekli incelik ve büyüklükte yırtmadan açar,",
+  "Açılan yufkaları önceden ısıtılan sacın üstünde kıvamında pişirir,",
+  "Pişirilen yufkaları; üretim ve son kullanma tarihleri, muhtevası, üretici firma adı ve gramajı yazan etiketle ambalajlara koyarak satışa hazır hale getirir,",
+  "Gerektiğinde ürünlerin satışını yapar,",
+  "Eksilen malzemelerin temin edilmesini sağlar,",
+  "Kullandığı malzemelerin bakım ve temizliğini yapar,",
+  "Yufka yapımında kullanılan araç, gereç ve malzemeleri kullanılır halde bulundurur,",
+  "Mesleği alanındaki gelişmeleri takip eder,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T07:01:12",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6109
+  }
+ }
+}

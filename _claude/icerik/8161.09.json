@@ -1,0 +1,75 @@
+{
+ "arac_gerec": [
+  "Salamura havuzu",
+  "Kabuk soyma makinesi",
+  "Santrifüj kazanı",
+  "Kürek",
+  "Tava haznesi",
+  "Kavurma fırını/kavurucu",
+  "Değirmen (taş değirmeni)",
+  "Taşıma bantları/elevatör",
+  "Depolama tankları",
+  "Dolum ve paketleme ekipmanları",
+  "Isı kontrol paneli/termometre",
+  "Eldiven, koruyucu maske ve iş elbisesi"
+ ],
+ "benzer_meslekler": [
+  "Tahin Ustası",
+  "Bitkisel Yağ Üretim Operatörü",
+  "Yer Fıstığı Kavurma Makinesi Operatörü",
+  "Gıda İşlemecisi",
+  "Un İmal İşçisi",
+  "Fındık İşleme İşçisi"
+ ],
+ "calisma_alanlari": "Tahin imal işçisi, tahin ve tahin helvası üreten gıda işletmelerinde, susamlı ürün üreten fabrika ve atölyelerde, bitkisel yağ ve gıda sanayii tesislerinde iş bulabilir. İş imkânları genellikle susam işlemeciliğinin yoğun olduğu bölgelerde ve organize sanayi bölgelerindeki gıda üretim tesislerinde bulunmaktadır.",
+ "calisma_ortami": "Tahin imal işçisi, susam işleme ve tahin üretimi yapan fabrika ve atölyelerde, genellikle kapalı alanlarda çalışır. Çalışma ortamı kavurma işlemi nedeniyle sıcak, susam tozuna bağlı olarak tozlu ve kokuludur; ayrıca makine gürültüsü ve nem gibi etkenler de söz konusu olabilir. Çalışma genellikle ayakta, fiziksel güç gerektiren hareketlerle (kürekle malzeme taşıma, yükleme-boşaltma gibi) sürdürülür.\n\nÜretim sürecinin vardiyalı olabilmesi nedeniyle çalışma saatleri değişkenlik gösterebilir. Tahin imal işçisi çalışması sırasında ustabaşı, diğer üretim işçileri ve kalite kontrol personeli ile iş birliği içinde çalışır. İş sağlığı ve güvenliği önlemlerinin (koruyucu giysi, maske, eldiven kullanımı, makine güvenlik tedbirleri) eksiksiz uygulanması gerekmektedir.",
+ "ek_bilgiler": "Tahin imalatı sırasında susamın kavrulması yüksek ısı, öğütme ve kurutma işlemleri ise toz ve gürültü oluşturabilir; bu nedenle çalışanların koruyucu ekipman kullanımı ve iş sağlığı güvenliği kurallarına uyumu önem taşır. Bu meslekte örgün bir mesleki ve teknik eğitim programı (lise düzeyinde alan/dal) bulunmamakta, yetişme genellikle işbaşında usta yanında veya kısa süreli kurslarla gerçekleşmektedir.",
+ "genel_ozellikler": [
+  "Fiziksel olarak dayanıklı,",
+  "El becerisine sahip,",
+  "Dikkatli ve titiz,",
+  "Koku ve tat duyusu gelişmiş,",
+  "Temiz ve düzenli çalışmaya özen gösteren,",
+  "Takım çalışmasına yatkın,",
+  "Sorumluluk sahibi,",
+  "Talimatlara uymaya istekli"
+ ],
+ "gorevler": [
+  "Salamura havuzlarında veya kabuk soyma makinesinde susamın kabuklarını soyar.",
+  "Santrifüj kazanında susamları kurutarak, kuruyan susamları kürekle tava haznesine doldurur.",
+  "Belirli bir hararette kavurarak, kavrulan susamı tahin haline getirmek için değirmene sevk eder.",
+  "Değirmende otomatik olarak öğütülen tahinin depolara sevkine nezaret eder.",
+  "İmalatın belirli bir safhasında ihtisaslaşabilir veya o şekilde görev alabilir.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Tahin imal işçiliği için örgün eğitim kurumlarında (meslek lisesi gibi) ayrı bir alan veya dal bulunmamaktadır. Meslek genellikle işbaşında usta yanında çalışılarak kazanılır; Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kursları da bu mesleğe yönelik temel bilgi ve beceri kazandırabilir.",
+  "giris_kosullari": [
+   "İlköğretim mezunu olmak (mesleğin gerektirdiği asgari eğitim düzeyi)",
+   "18 yaşını doldurmuş olmak (işin fiziksel güç gerektiren ve kavurma gibi sıcak işlemler içeren yapısı nedeniyle)",
+   "Sağlık durumunun gıda üretim işlerine elverişli olması; gıda sektöründe çalışacaklar için gerekli sağlık muayenesinden geçmiş olmak"
+  ],
+  "sure_ve_icerik": "Mesleğin resmî olarak tanımlanmış bir eğitim süresi bulunmamaktadır. İşbaşında usta yanında çalışılarak belirli bir sürede öğrenilir. Açılan kurslarda ise süre kurumdan kuruma değişmekle birlikte, genellikle susamın hazırlanması, kavurma, değirmende öğütme, ürünün depolanması, hijyen kuralları ve iş sağlığı güvenliği konuları işlenir.",
+  "belge": "İşbaşında yetişenlere herhangi bir resmî belge verilmez. Kurs yoluyla eğitim alanlara katılım/başarı belgesi düzenlenebilir. Mesleki Yeterlilik Kurumu (MYK) belgesi bazı işyerlerinde istihdamda tercih sebebi olabilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "İşbaşında usta yanında yetişenler genellikle çalıştıkları işletme tarafından belirlenen bir ücret alır. İŞKUR tarafından açılan kurslara katılanlara, kurs süresince kursiyer zaruri gider karşılığı ödeme yapılabilir.",
+  "egitim_sonrasi": [
+   "Yeni başlayanlarda kazanç genellikle asgari ücret düzeyindedir.",
+   "Deneyim, işletmenin büyüklüğü ve sektördeki konum arttıkça kazanç yükselebilir.",
+   "Özel sektörde ücret işveren ile çalışan arasındaki anlaşmaya göre belirlenir; kamuya bağlı bir işletmede işçi statüsünde çalışılması durumunda ilgili toplu iş sözleşmesi hükümleri uygulanır."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğin resmî örgün bir eğitim basamağı bulunmadığından, bu alanda tanımlı bir mesleki eğitimde ilerleme yolu yoktur. İsteyen çalışanlar gıda teknolojisi veya gıda mühendisliği gibi alanlarda mesleki ve teknik eğitim veya yükseköğretim programlarına yönelerek bilgi ve becerilerini geliştirebilir.",
+  "is_hayatinda": "Tecrübe ve bilgi birikimi arttıkça ustabaşı, vardiya sorumlusu veya üretim sorumlusu gibi görevlere yükselebilir. Girişimcilik yeteneğine sahip olanlar kendi tahin üretim işletmesini kurabilir."
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T15:48:13",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5008
+  }
+ }
+}

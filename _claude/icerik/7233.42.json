@@ -1,0 +1,82 @@
+{
+ "arac_gerec": [
+  "El takımları (anahtar, tornavida, pense, çekiç vb.)",
+  "Ölçü ve kontrol aletleri (metre, çelik cetvel, kumpas vb.)",
+  "Lokma takımı ve tork anahtarı",
+  "Yağlama ekipmanları (gres tabancası, yağ kapları, yağdanlık)",
+  "Basit kaynak ve lehim ekipmanı",
+  "Montaj-demontaj takımları",
+  "El matkabı ve basit delme-kesme aletleri",
+  "Temizlik ve bakım malzemeleri (bez, solvent, fırça vb.)",
+  "Kişisel koruyucu donanım (iş eldiveni, gözlük, baret, iş elbisesi, kulak koruyucu)",
+  "Taşıma ve kaldırma ekipmanları (kriko, vinç, transpalet)",
+  "Yedek parça ve sarf malzemeleri",
+  "İş emri, bakım takip formu ve raporlama kağıtları"
+ ],
+ "benzer_meslekler": [
+  "Makine Bakım ve Onarımcısı",
+  "Makine Bakım Ustası",
+  "Makine Montaj ve Bakım Onarımcısı",
+  "Mekanik Bakım ve Onarımcısı (Motorlu Taşıtlar Hariç)",
+  "Tarım Alet ve Makineleri Bakım-Onarımcısı",
+  "Kestirimci Bakım Elemanı"
+ ],
+ "calisma_alanlari": "Makine bakım onarım yardımcı elemanları, makine ve donanım kullanılan hemen her türlü sanayi tesisinde çalışabilirler. Başlıca çalışma alanları; metal, tekstil, gıda, otomotiv, tarım makineleri imalatı, enerji ve maden işletmeleri gibi sanayi kuruluşlarının bakım-onarım birimleri, makine imalat ve servis atölyeleri ile tarımsal makine bakım servisleridir.\n\nSanayi üretiminin ve makineleşmenin artmasına bağlı olarak, işletmelerin üretim sürekliliğini sağlamak için bakım-onarım ekiplerine ihtiyacı sürmektedir. Bu meslek, çoğunlukla usta ve teknisyenlerin gözetiminde çalışan bir yardımcı eleman konumunda olduğundan, kamu ve özel sektörde nispeten geniş bir istihdam olanağı bulunmaktadır.",
+ "calisma_ortami": "Makine bakım onarım yardımcı elemanları genellikle fabrika, atölye ve imalathane gibi kapalı mekânlarda; bazı durumlarda tarımsal veya açık alanda kullanılan makinelerin bakımı için açık alanda da çalışırlar. Çalışma ortamı gürültülü, yağlı, tozlu ve bazen sıcak olabilir; makinenin konumuna göre ayakta, eğilerek veya dar alanlarda çalışmak gerekebilir.\n\nHareketli parçalar, keskin kenarlar, elektrik ve basınçlı sistemlerle çalışma nedeniyle iş kazası riski bulunduğundan iş güvenliği kurallarına ve koruyucu donanım kullanımına dikkat edilmesi önemlidir. Bu meslek genellikle ekip hâlinde yürütülür; ustalar, bakım teknisyenleri, mühendisler ve üretim personeli ile sürekli iletişim kurulur. İşletmenin üretim programına göre vardiyalı çalışma söz konusu olabilir.",
+ "egitim": {
+  "verildigi_yerler": "Bu meslek için standart süreli, ayrı bir örgün mesleki ve teknik eğitim alanı/dalı bulunmamaktadır. Meslek genellikle işyerlerinde usta yanında işbaşında eğitim yoluyla ya da Halk Eğitim Merkezleri ve İŞKUR'un açtığı kısa süreli mesleki eğitim kurslarıyla kazanılmaktadır. Ayrıca mesleki ve teknik eğitim kurumlarının makine/metal teknolojisi ile ilgili alanlarından mezun olanlar da işbaşı eğitimle bu mesleğe yönelebilirler.",
+  "giris_kosullari": [
+   "En az ilköğretim/ortaokul mezunu olmak",
+   "Fiziksel olarak bedensel çalışmaya ve ayakta çalışmaya uygun olmak",
+   "İşin özelliğine göre sağlık durumunun bu çalışmaya elverişli olduğunu belgelemek",
+   "İşbaşı eğitim veya çıraklık için bir işyerinde çalışmaya başlamak"
+  ],
+  "sure_ve_icerik": "Mesleğin eğitimi, sabit bir süre ve müfredata bağlı örgün bir program şeklinde değildir. Genellikle kısa süreli kurslarla temel bilgiler (iş sağlığı ve güvenliği, el aletlerinin kullanımı, basit ölçme, yağlama, montaj-demontaj) kazandırılır; asıl beceri gelişimi işyerinde usta ve teknisyenlerin gözetiminde, pratik uygulama yoluyla zaman içinde sağlanır.",
+  "belge": "Katıldığı kurslar sonunda kurs bitirme/katılım belgesi alınabilir. Mesleki Yeterlilik Kurumu (MYK) tarafından ilgili alanda yeterlilik belgesi düzenlenmesi durumunda bu belge istihdamda tercih sebebi olabilir."
+ },
+ "genel_ozellikler": [
+  "El becerisine sahip,",
+  "Makine parçaları arasındaki ilişkiyi görebilen,",
+  "El ve gözünü eşgüdümle kullanabilen,",
+  "Dikkatli ve sabırlı,",
+  "Aletlerle ve makinelerle çalışmaktan hoşlanan,",
+  "Yönergeleri doğru algılayıp uygulayabilen,",
+  "Fiziksel olarak dayanıklı,",
+  "Takım çalışmasına uyumlu"
+ ],
+ "gorevler": [
+  "İş sağlığı ve güvenliği, yangın ve acil durum kurallarını uygular.",
+  "Kalite yönetim sistemi dokümanlarına uygun çalışır.",
+  "İş organizasyonu yapar.",
+  "Çalışılan yeri düzenler.",
+  "Çalışma alet ve donanımının koruyucu ve talimatlı bakımlarını sağlar.",
+  "Bakım, onarım işlemlerinden önce hazırlıkları tamamlar.",
+  "Makinalar ile ilgili bakım faaliyetlerini gerçekleştirir.",
+  "Makinaların parça değişimini gerçekleştirir.",
+  "Koruyucu bakım faaliyetlerini gerçekleştirir.",
+  "Makinanın basit ayarlarını yapar.",
+  "Makinalar ile ilgili basit onarım faaliyetlerini gerçekleştirir.",
+  "Son kontrol ve raporlama işlemlerini gerçekleştirir.",
+  "Mesleki gelişim faaliyetlerine katılır."
+ ],
+ "kazanc": {
+  "egitim_suresince": "Bu meslek için standart bir örgün eğitim programı bulunmadığından, bilgi ve beceri genellikle kısa süreli kurslar ya da işyerinde işbaşı eğitim yoluyla kazanılır. Halk Eğitim Merkezleri ve İŞKUR kursları çoğunlukla ücretsizdir; işyerinde çalışarak mesleği öğrenenler ise çalıştıkları süre için ücret alırlar.",
+  "egitim_sonrasi": [
+   "Kamu kurum ve kuruluşlarının bakım-onarım birimlerinde memur statüsünde çalışanlar 657 sayılı Devlet Memurları Kanunu'na, işçi statüsünde çalışanlar ise toplu iş sözleşmesi hükümlerine göre ücret alırlar.",
+   "Özel sektörde genellikle asgari ücret düzeyinde başlanır; kazanç, işyerinin büyüklüğü, kişinin deneyimi ve sektörün ücret düzeyine göre değişebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Çalışırken edinilen deneyim, çeşitli kurs ve seminerlere katılımla desteklenerek daha ileri düzey bakım-onarım mesleklerine (makine bakım ustalığı, bakım teknisyenliği gibi) yönelinebilir. İmkân bulunan kişiler, ilgili mesleki ve teknik eğitim kurumlarından diploma alarak veya açık öğretim yoluyla eğitimlerini ilerleterek ilgili ön lisans/lisans programlarına geçiş yapabilirler.",
+  "is_hayatinda": "Deneyim ve bilgi birikimi arttıkça makine bakım ustası, bakım teknisyeni veya bakım şefi/formeni gibi görevlere yükselinebilir. Yeterli bilgi, sermaye ve deneyime sahip olanlar kendi bakım-onarım atölyelerini açabilirler."
+ },
+ "ek_bilgiler": "Bu meslek, \"yardımcı eleman\" düzeyinde tanımlanmış olup çalışanlar genellikle usta ve teknisyenlerin gözetiminde, montaj-demontaj, sıkma, basit ölçme, yağlama ve basit mekanik/hidrolik/pnömatik ayar gibi işlemleri yürütürler. Deneyim ve ek eğitimle daha kapsamlı bakım-onarım mesleklerine geçiş yapılması mümkündür.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T02:55:16",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6509
+  }
+ }
+}

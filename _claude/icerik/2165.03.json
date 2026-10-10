@@ -1,0 +1,69 @@
+{
+ "arac_gerec": [
+  "Hava fotoğraf makineleri (metrik/dijital kameralar)",
+  "İnsansız hava araçları (İHA/drone)",
+  "Stereoskop ve stereo değerlendirme kapları",
+  "Analitik/dijital fotogrametrik değerlendirme istasyonları",
+  "GPS/GNSS alıcıları",
+  "Lazer tarama (LiDAR) sistemleri ve verileri",
+  "Bilgisayar ve fotogrametri/CBS yazılımları",
+  "Ortofoto ve sayısal yükseklik modeli (DEM) üretim yazılımları",
+  "Uydu görüntüsü işleme yazılımları",
+  "Plotter (çizim çıkış birimi)",
+  "Harita ve plan arşivleri"
+ ],
+ "genel_ozellikler": [
+  "Şekil ve uzay ilişkilerini iyi kavrayabilen,",
+  "Sayısal ve analitik düşünme yeteneğine sahip,",
+  "Dikkatli, sabırlı ve titiz gözlem yapabilen,",
+  "Bilgisayar teknolojilerini etkin biçimde kullanabilen,",
+  "Görsel hafızası ve çizim yeteneği gelişmiş,",
+  "Başkalarıyla işbirliği içinde çalışabilen,",
+  "Teknolojik gelişmeleri takip etmeye istekli,"
+ ],
+ "calisma_ortami": "Fotogrametrist, görevinin büyük bölümünü büroda bilgisayar ortamında yürütür; hava fotoğraflarını, uydu görüntülerini ve lazer tarama verilerini değerlendirerek topoğrafik özellikleri belirler ve arazi yükseklik modelleri hazırlar. Çalışma genellikle kapalı ortamda, ekran karşısında uzun süreli dikkat gerektiren bir nitelik taşır.\\n\\nBazı projelerde yer kontrol noktalarının belirlenmesi veya elde edilen verilerin saha ile karşılaştırılması amacıyla arazi çalışmalarına da katılabilir; bu durumda açık havada, farklı iklim ve arazi koşullarında çalışması gerekebilir. Çalışmalarında harita mühendisleri, topoğraflar, şehir plancıları, inşaat, jeoloji ve çevre mühendisleri gibi meslek gruplarıyla işbirliği yapar. Genellikle normal mesai saatleri içinde çalışılır, ancak proje teslim dönemlerinde çalışma süresi uzayabilir.",
+ "egitim": {
+  "verildigi_yerler": "Fotogrametrist olarak çalışabilmek için üniversitelerin Mühendislik Fakültelerine bağlı 'Harita Mühendisliği', 'Jeodezi ve Fotogrametri Mühendisliği' veya 'Geomatik Mühendisliği' bölümlerinde lisans eğitimi almak gerekir. Bu bölümlerde yer alan fotogrametri, uzaktan algılama ve hava fotoğrafçılığına ilişkin dersler, fotogrametrist olarak çalışmanın temelini oluşturur; meslek, bağımsız bir lisans programı olarak değil bu mühendislik eğitiminin bir uzmanlık alanı olarak yürütülür.",
+  "giris_kosullari": [
+   "Lise veya dengi okul mezunu olmak",
+   "YKS (Yükseköğretim Kurumları Sınavı) sonucuna göre ilgili mühendislik bölümlerinden birine yerleşmek",
+   "Meslek yüksekokullarının ilgili önlisans programlarından mezun olanlar, Dikey Geçiş Sınavı (DGS) ile ilgili lisans programlarına geçiş yapabilir"
+  ],
+  "sure_ve_icerik": "Eğitim süresi 4 yıldır. İlk yıllarda matematik, fizik, geometri ve temel mühendislik dersleri; sonraki yıllarda ölçme bilgisi, jeodezi, fotogrametri, uzaktan algılama, coğrafi bilgi sistemleri ve sayısal görüntü işleme gibi derslerde yoğunlaşan bir eğitim verilir. Eğitim süresince staj yapma ve bitirme projesi hazırlama zorunluluğu bulunur.",
+  "belge": "Eğitimini başarıyla tamamlayanlara lisans diploması verilir."
+ },
+ "gorevler": [
+  "Mevcut topoğrafik harita ve planları göz önüne alarak ve hava fotoğraflarından yararlanarak matematiksel formül ve fotometrik teknikler uygulayarak topoğrafik özellikleri belirler.",
+  "Fotoğrafları çekilen alanların yüksekliklerini gösteren modeller hazırlar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "calisma_alanlari": "Fotogrametristler; kadastro çalışmaları, büyük ölçekli harita üretimi, şehir ve bölge imar planlaması, orman envanteri çıkarma, maden ve jeolojik etüt çalışmaları, yol ve baraj projeleri, doğal afet izleme ve coğrafi bilgi sistemleri uygulamaları gibi alanlarda görev alır. Kamuda Tapu ve Kadastro Genel Müdürlüğü, Harita Genel Müdürlüğü, Karayolları Genel Müdürlüğü, Devlet Su İşleri Genel Müdürlüğü, Tarım ve Orman Bakanlığı ile belediyeler gibi kurumlarda istihdam edilebilirler. Özel sektörde harita ve mühendislik büroları, uzaktan algılama ve coğrafi bilgi sistemleri şirketleri, inşaat ve madencilik firmaları ile savunma sanayinde çalışma olanağı bulurlar.",
+ "kazanc": {
+  "egitim_suresince": "Lisans eğitimi süresince düzenli bir kazanç söz konusu değildir; staj dönemlerinde bazı öğrenciler sınırlı bir ödenek alabilir.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında çalışanlar 657 sayılı Devlet Memurları Kanunu'na göre belirlenen maaş ve ek ödemelerden yararlanır.",
+   "Özel sektörde kazanç; işyerinin büyüklüğüne, çalışanın deneyimine ve üstlenilen projenin niteliğine göre değişir; yeni mezunlarda kazanç genellikle sektör ortalamasına yakın bir düzeyde başlar."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Lisans eğitimi sonrasında fotogrametri, uzaktan algılama ve coğrafi bilgi sistemleri alanlarında yüksek lisans ve doktora yaparak akademik kariyer yapılabilir.",
+  "is_hayatinda": "Deneyim kazanıldıkça proje sorumluluğu, ekip liderliği ve kamuda şube müdürlüğü gibi yönetim görevlerine yükselme olanağı bulunur; ayrıca kendi harita/mühendislik büro veya şirketini kurma imkanı vardır."
+ },
+ "benzer_meslekler": [
+  "Harita/Harita ve Kadastro/Jeodezi ve Fotogrametri/Geomatik Mühendisi",
+  "Harita Mühendisi",
+  "Topoğraf",
+  "Arazi Topoğrafı",
+  "Coğrafi Bilgi Sistemleri Uzmanı",
+  "Tapu ve Kadastro Uzmanı"
+ ],
+ "ek_bilgiler": "Günümüzde fotogrametri çalışmaları büyük ölçüde insansız hava araçları (İHA/drone), lazer tarama (LiDAR) ve uzaktan algılama teknolojileriyle birlikte yürütülmektedir. Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda tercih sebebi olabilir ancak mesleğe giriş için lisans eğitimi esastır.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-07T21:58:12",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5761
+  }
+ }
+}

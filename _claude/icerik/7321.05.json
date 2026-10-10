@@ -1,0 +1,87 @@
+{
+ "arac_gerec": [
+  "Dijital flekso kalıp üretim sistemi (CTP - Computer to Plate)",
+  "Lazer görüntüleme/gravür ünitesi",
+  "UV pozlandırma (ışığa maruz bırakma) ünitesi",
+  "Kalıp yıkama/indirgeme (washout) ünitesi",
+  "Kurutma/fırınlama fırını",
+  "Son poz (finishing) ünitesi",
+  "Işıklı film kontrol masası",
+  "Densitometre/spektrofotometre",
+  "Montaj masası ve montaj bantları",
+  "Kalıp/klişe kesim makinesi ve bıçakları",
+  "Montaj silindirleri/sleeve'ler",
+  "Çözücü (solvent) test donanımı",
+  "Bilgisayar ve ilgili RIP/baskı öncesi yazılımları",
+  "Büyüteç/mikroskop (kalıp kontrolü için)",
+  "Kişisel koruyucu donanım (eldiven, gözlük, önlük, maske)"
+ ],
+ "genel_ozellikler": [
+  "El ve göz koordinasyonu iyi olan,",
+  "Dikkatli ve titiz çalışabilen,",
+  "Şekil, renk ve ayrıntıları algılayabilen,",
+  "Bilgisayar ve dijital sistemleri kullanabilen,",
+  "Kimyasal maddelerle çalışmaya uygun sağlık durumuna sahip olan,",
+  "Teknolojik gelişmeleri takip edebilen,",
+  "Planlı ve düzenli çalışabilen,",
+  "Ekip içinde uyumlu çalışabilen"
+ ],
+ "calisma_ortami": "Flekso Kalıp Operatörü, genellikle matbaaların veya ambalaj baskı tesislerinin baskı öncesi hazırlık (prepress) bölümlerinde, kapalı ve kontrollü ortamlarda çalışır. Çalışma alanında UV pozlandırma, kurutma fırınları ve çözücü (solvent) kullanımı söz konusu olabileceğinden, iş sağlığı ve güvenliği önlemlerine uyulması ve kişisel koruyucu donanım kullanılması önemlidir. Bazı işlemlerde kimyasal koku, ısı ve makine sesi gibi fiziksel koşullarla karşılaşılabilir.\n\nÇalışma saatleri genellikle işletmenin üretim programına bağlı olarak düzenli mesai veya vardiyalı şekilde sürdürülür. Görevlerini yerine getirirken baskı operatörleri, grafik tasarımcılar, kalite kontrol personeli ve üretim sorumluları ile sık sık iletişim kurar.",
+ "gorevler": [
+  "İSG, çevre güvenliği ve kalite önlemleri alır,",
+  "Günlük iş planı yapar,",
+  "Kalıp üretimi için malzeme ve ekipman temin eder,",
+  "Kalıp/klişe yapımında kullanılacak makine ve donanımları üretime hazırlar,",
+  "Analog kalıp/klişe üretiminde kullanılacak filmleri kontrol eder,",
+  "Dijital kalıp/klişe üretimi için dijital ortamda kontrol yapar,",
+  "Montaj planı hazırlar,",
+  "Çözücü (solvent) testleri yapar,",
+  "Kalıp/klişe üretmek için; kalıp/klişe rölyef derinliğini ayarlar, görüntüyü kalıp/klişeye aktarır, kalıp/klişeyi yıkar/indirger, kalıp/klişeyi fırınlar/kurutur, klişenin ön yüzünü temizler, kalıp/klişeyi dinlendirir, son poz verir (finishing), kalıp/klişenin arkasını temizler, kalıp/klişeyi keser, kalıp/klişeyi istifler,",
+  "Kalıp/klişe üretim sonrası işlemlerini yapar,",
+  "Kalıp/klişenin baskıya uygunluğunu kontrol eder,",
+  "Kalıp/klişeyi montajlar,",
+  "Kalıp/klişe bağlar,",
+  "Kalıp/klişeyi teslim eder,",
+  "Mesleki gelişim faaliyetlerine katılır."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi, mesleki ve teknik ortaöğretim kurumlarının basım/matbaa teknolojisi ile ilgili alan ve dallarında verilebilmektedir. Ayrıca mesleki eğitim merkezlerinde çıraklık eğitimi yoluyla, Halk Eğitim Merkezleri ile İŞKUR tarafından açılan mesleki eğitim kurslarında ve işyerlerinde işbaşında usta yanında yetişme yoluyla da bu mesleğe girilebilmektedir.",
+  "giris_kosullari": [
+   "Mesleki ve teknik ortaöğretim kurumlarına kayıt için ortaokul mezunu olmak",
+   "Çıraklık eğitimine başlamak için en az ortaokul mezunu olmak ve 14 yaşını doldurmuş olmak",
+   "Eğitim görülecek meslekte bir işyeri bulup işveren ile çıraklık sözleşmesi imzalamak",
+   "Kimyasal maddelerle (çözücü, pozlandırma vb.) çalışmaya uygun sağlık durumuna sahip olmak"
+  ],
+  "sure_ve_icerik": "Ortaöğretim düzeyinde meslek eğitimi, ilgili alanda dört yıl sürmekte olup ortak genel kültür dersleri ile meslek derslerinden oluşmaktadır. Çıraklık eğitimi yoluyla yetişmek isteyenler için eğitim, haftanın bir günü mesleki eğitim merkezinde teorik ders, kalan günlerde ise çıraklık sözleşmesi yapılan işyerinde usta öğretici gözetiminde uygulamalı çalışma şeklinde yürütülür. Eğitim süresince flekso kalıp/klişe üretiminin hazırlık, üretim ve üretim sonrası işlemleri teorik ve pratik olarak öğretilir.",
+  "belge": "Mesleki ve teknik ortaöğretim kurumunu tamamlayanlar diploma alır; çıraklık eğitimini tamamlayanlar kalfalık, ardından ustalık belgesi alır. Mesleki Yeterlilik Kurumu (MYK) Mesleki Yeterlilik Belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Flekso Kalıp Operatörleri; matbaalarda, ambalaj baskı tesislerinde (etiket, esnek ambalaj, oluklu mukavva baskısı yapan işletmeler), baskı öncesi hazırlık (prepress) hizmeti veren firmalarda ve flekso baskı teknolojisi kullanan diğer üretim işletmelerinde istihdam edilmektedir. Ambalaj ve etiket baskısına olan talebin artması, bu alandaki iş olanaklarını desteklemektedir.",
+ "kazanc": {
+  "egitim_suresince": "3308 sayılı Mesleki Eğitim Kanunu kapsamında işletmelerde mesleki eğitim gören öğrencilere, işletmenin personel sayısına göre belirlenen oranlarda asgari ücretten aşağı olmamak üzere ücret ödenir. Eğitim gören öğrencilerin iş kazası ve meslek hastalığı sigortası primleri devletçe karşılanır.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında bu meslekte istihdam sınırlı olup, istihdam edilenler 657 sayılı Devlet Memurları Kanunu veya ilgili mevzuata tabi olarak ücret alır.",
+   "Özel sektörde çalışanların kazancı, işyerinin büyüklüğü, kullanılan teknoloji, kişinin tecrübesi, bilgi ve becerisine göre değişmekte olup yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar; deneyim kazandıkça bu düzey artabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Çıraklık eğitimini tamamlayanlar kalfalık, ardından ustalık belgesi alabilir. Mesleki ve teknik ortaöğretim diploması alanlar, dilerse basım/ambalaj teknolojisi, grafik tasarım gibi ilgili yükseköğretim programlarına devam edebilir.",
+  "is_hayatinda": "Deneyim ve bilgi birikimini artıran operatörler; usta operatör, baskı öncesi hazırlık şefi, ekip lideri veya üretim sorumlusu gibi pozisyonlara yükselebilir. Yeterli sermaye ve deneyime sahip olanlar kendi baskı öncesi hazırlık işletmesini kurabilir."
+ },
+ "benzer_meslekler": [
+  "Flekso Baskı Öncesi Hazırlık Operatörü",
+  "Ofset Baskı Öncesi Hazırlık Operatörü",
+  "Ofset Kalıpçı-Matbaa",
+  "Klişeci-Fotogravür",
+  "Klişeci-Metal Gravür",
+  "Klişe Rötuşçusu"
+ ],
+ "ek_bilgiler": "Ambalaj, etiket ve esnek ambalaj baskısında flekso baskı teknolojisinin yaygınlaşması, bu meslekteki istihdam olanaklarını olumlu etkilemektedir. Mesleki Yeterlilik Kurumu (MYK) Mesleki Yeterlilik Belgesine sahip olmak, iş bulma ve kariyer gelişiminde tercih sebebi olabilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T05:10:10",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6841
+  }
+ }
+}

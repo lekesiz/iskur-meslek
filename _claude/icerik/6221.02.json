@@ -1,0 +1,80 @@
+{
+ "arac_gerec": [
+  "Tekne veya kayık",
+  "Dalış ekipmanları (maske, şnorkel, tüp, palet)",
+  "İstiridye yetiştirme kafesleri ve sepetleri",
+  "Koruyucu örtü ve ayıklama ağları",
+  "İşaretleme çubukları ve şamandıralar",
+  "İstiridye kabuğu ve larva tutma malzemeleri",
+  "Temizlik fırçası ve kazıyıcı aletler",
+  "Eleme/sınıflandırma ekipmanları",
+  "Paketleme malzemeleri (file, kasa, kutu)",
+  "Su kalitesi ölçüm cihazları",
+  "Koruyucu eldiven, bot ve kıyafet",
+  "Kaldırma/taşıma ekipmanları"
+ ],
+ "genel_ozellikler": [
+  "Açık havada ve su üzerinde/içinde çalışmaya istekli,",
+  "El ve bedensel beceriye sahip,",
+  "Fiziksel olarak dayanıklı,",
+  "Dikkatli ve gözlemci,",
+  "Sabırlı ve düzenli çalışabilen,",
+  "Ekip halinde çalışmaya uyumlu,",
+  "Doğa ve deniz canlılarına ilgili,"
+ ],
+ "calisma_ortami": "İstiridye Çiftliği İşçisi, deniz kıyısında veya kıyıya yakın sularda, açık havada ve çoğunlukla tekne veya kayık üzerinde çalışır. İş gereği zaman zaman suya girmek, ağır ekipman taşımak ve eğilip kalkmak gerekebilir; bu durum fiziksel güç ve dayanıklılık gerektirir. Çalışma, güneş, rüzgâr, yağmur ve soğuk gibi değişken hava koşullarına açıktır; nemli ortamda uzun süre çalışma, cilt ve solunum yolu sorunlarına yol açabilecek riskler taşıyabilir. Deniz araçlarıyla çalışma ve ekipman kullanımı nedeniyle iş kazası riski bulunur, bu yüzden iş güvenliği kurallarına uyulması önemlidir.\n\nÇalışma saatleri genellikle gün ışığına ve istiridye yetiştirme-hasat döngüsüne bağlı olarak değişkenlik gösterir; sezonluk yoğunluk olabilir. İşletme sahibi veya yöneticisiyle, diğer çiftlik işçileriyle ve bazen ürünü satın alanlarla iletişim halinde çalışılır.",
+ "egitim": {
+  "verildigi_yerler": "Türkiye'de istiridye yetiştiriciliğine yönelik örgün bir mesleki ve teknik eğitim programı bulunmamaktadır. Su ürünleri yetiştiriciliğine ilişkin genel bilgi ve beceriler tarım/su ürünleri alanındaki mesleki ve teknik ortaöğretim kurumları ile üniversitelerin su ürünleri/balıkçılık teknolojisi ön lisans ve lisans programlarında verilebilmektedir. Ancak bu meslek fiilen çoğunlukla işbaşında, usta yanında çalışarak veya Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kurslarıyla öğrenilmektedir.",
+  "giris_kosullari": [
+   "En az ilköğretim/ortaokul mezunu olmak",
+   "Fiziksel olarak sağlıklı ve açık hava koşullarında çalışmaya uygun olmak",
+   "Yüzme bilmek ve suya karşı korku duymamak (işe giriş için avantaj sağlar)",
+   "Dalış veya deniz araçlarıyla çalışmaya istekli olmak"
+  ],
+  "sure_ve_icerik": "Mesleğe özgü standart ve resmî bir eğitim süresi bulunmamaktadır. Kişi genellikle çalıştığı işletmede deneyimli bir usta yanında belirli bir süre uygulamalı olarak çalışarak istiridye yatağı hazırlama, larva yerleştirme, bakım, hasat ve paketleme işlemlerini öğrenir. Kısa süreli kurslarla su ürünleri yetiştiriciliğinin temel bilgileri desteklenebilir.",
+  "belge": "Resmî bir diploma veya mesleki belge genellikle bulunmamaktadır; katılınan kurslar için katılım belgesi verilebilir. İlgili alanda Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "İstiridye Çiftliği İşçisi, özel sektöre ait su ürünleri yetiştiriciliği işletmelerinde, kıyı bölgelerindeki istiridye veya karma su ürünleri çiftliklerinde ve bu alandaki kooperatiflerde çalışabilir. Türkiye'de istiridye yetiştiriciliği, midye ve balık yetiştiriciliğine kıyasla sınırlı ölçekte yapıldığından iş bulma olanakları kısıtlıdır ve genellikle kıyı illerindeki küçük ölçekli işletmelerle sınırlıdır. Deneyim kazanan kişiler benzer su ürünleri yetiştiriciliği işletmelerinde de istihdam edilebilir.",
+ "kazanc": {
+  "egitim_suresince": "Resmî bir mesleki eğitim süreci bulunmadığından, işbaşında çalışarak öğrenme sürecinde kişi genellikle günlük veya aylık ücretle, çoğunlukla asgari ücret düzeyinde gelir elde eder.",
+  "egitim_sonrasi": [
+   "Bu meslekte yeni çalışmaya başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Deneyim arttıkça ve sorumluluk üstlenildikçe (örneğin yatak hazırlama ve hasat sürecini yönetme) kazanç artabilir.",
+   "Özel sektörde ücret, işletmenin büyüklüğüne, çalışanın deneyimine ve karşılıklı anlaşmaya göre değişebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Meslekte örgün bir eğitim kademesi veya diploma basamağı bulunmamaktadır; kişi deneyim kazanarak ve ek kurslara katılarak bilgi ve becerisini geliştirebilir.",
+  "is_hayatinda": "Deneyim kazanan İstiridye Çiftliği İşçisi, işletme içinde sorumlu işçi veya usta konumuna yükselebilir, çiftliğin günlük işlerini yönetebilir ya da zamanla kendi küçük ölçekli su ürünleri yetiştiriciliği işletmesini kurabilir. Ayrıca midye ve diğer kabuklu su ürünleri yetiştiriciliği gibi yakın alanlara geçiş yapabilir."
+ },
+ "benzer_meslekler": [
+  "Deniz Balıkları Üreticisi",
+  "Su Ürünleri Üreticisi",
+  "Su Ürünleri İşlemecisi",
+  "Alabalık Yetiştiricisi",
+  "Akvaryum Balıkları Üreticisi"
+ ],
+ "ek_bilgiler": "İstiridye yetiştiriciliği Türkiye'de midye ve diğer su ürünleri yetiştiriciliğine kıyasla sınırlı ölçekte yapılmaktadır; bu nedenle bu meslekte istihdam olanakları kısıtlı olup çoğunlukla kıyı bölgelerindeki küçük ölçekli işletmelerde görülür. Deniz suyu kalitesi, mevsim koşulları ve ilgili çevre/su ürünleri mevzuatı çalışma koşullarını doğrudan etkilemektedir.",
+ "gorevler": [
+  "İstiridye yetiştiriciliği için elverişli deniz yatağı alanını araştırır ve hazırlar.",
+  "İstiridye yataklarını çubuklarla işaretler; deniz yıldızı ve diğer istiridye yiyicilerini ayıklayarak yatakları ağla kapatır.",
+  "İstiridye yataklarını temiz istiridyelerle doldurur.",
+  "İstiridye larvalarının tutunması için özel hazırlanmış istiridye kabukları, taş ve diğer temiz maddeleri yatağa koyar.",
+  "İstiridye larvalarını yatakların üstüne dağıtır.",
+  "Tutan genç istiridye larvalarını büyüyecekleri yatağa yerleştirir veya özel korunmalı kafeslerde yetiştirir.",
+  "Olgun istiridyeleri semirtme gübreli yataklara yerleştirir.",
+  "Yuvarlaklaşan istiridyeleri toplar, paketler ve pazarlar.",
+  "İstiridye yataklarını temizler.",
+  "Örtücü ağların ve diğer aletlerin bakımını yapar.",
+  "Olgunlaşmaya hazır istiridyeleri satın alabilir, sadece olgunlaştırma yataklarında çalışabilir.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T22:04:13",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5875
+  }
+ }
+}

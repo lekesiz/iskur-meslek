@@ -1,0 +1,79 @@
+{
+ "arac_gerec": [
+  "Kireç fırını (dik veya döner tip endüstriyel fırın)",
+  "Fırın kontrol paneli / PLC otomasyon sistemi",
+  "Sıcaklık ve basınç ölçüm sensörleri",
+  "Hammadde besleme bantları ve konveyör sistemleri",
+  "Kırıcı ve eleme ekipmanları",
+  "Numune alma araç ve kapları",
+  "Kalite kontrolü için laboratuvar test cihazları",
+  "Emisyon ve gaz ölçüm cihazları",
+  "Refrakter tuğla ve fırın bakım malzemeleri",
+  "Yakıt besleme üniteleri (kömür, doğalgaz veya fuel-oil sistemleri)",
+  "Malzeme taşıma ekipmanları (vinç, forklift vb.)",
+  "Telsiz/haberleşme sistemleri",
+  "Kişisel koruyucu donanım (maske, baret, gözlük, eldiven, iş elbisesi)"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve sorumluluk sahibi,",
+  "Teknik konulara ilgili,",
+  "Makine ve ekipman kullanımına yatkın,",
+  "Fiziksel olarak dayanıklı,",
+  "Yüksek sıcaklık ve tozlu ortamda çalışabilen,",
+  "Problem çözme becerisine sahip,",
+  "Takım çalışmasına yatkın,",
+  "Planlı ve düzenli çalışabilen,"
+ ],
+ "calisma_ortami": "Kireç fırın operatörleri, kireç üretimi yapan fabrika ve tesislerin üretim sahalarında, fırın başında çalışırlar. Çalışma ortamı genellikle yüksek sıcaklık, toz ve gürültü içerir; fırının yapısı gereği yanma gazlarına, toz ve kimyasal maddelere maruziyet söz konusu olabileceğinden kişisel koruyucu donanım kullanımı önemlidir. Üretim sürekliliği nedeniyle çalışma genellikle vardiyalı düzende yürütülür.\n\nMeslek elemanları çalışma sırasında saha mühendisleri, bakım-onarım personeli, kalite kontrol elemanları ve diğer vardiya operatörleriyle sürekli iletişim halindedir. Görev gereği iş sağlığı ve güvenliği kurallarına titizlikle uyulması, fırının ve emisyon değerlerinin sürekli izlenmesi gerekir.",
+ "gorevler": [
+  "Kireç fırınını başlatır, durdurur ve sürekli kontrol eder,",
+  "Kireçtaşı besleme sistemini ayarlar ve hammadde akışını düzenler,",
+  "Fırın sıcaklığını, basıncını ve yakıt tüketimini izleyerek optimum yakma koşullarını sağlar,",
+  "Üretilen kirecin kalitesini kontrol eder ve numune alır,",
+  "Fırın içi refrakter kaplamaların durumunu takip eder ve bakım gereksinimlerini bildirir,",
+  "Emisyon değerlerini izler ve çevre standartlarına uygunluğu sağlar,",
+  "Arıza ve anormallikleri tespit ederek gerekli müdahaleleri yapar veya bildirir,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Bu meslek için örgün eğitimde ayrı, standart bir program bulunmamaktadır. Meslek genellikle işletmelerde işbaşında, deneyimli bir operatör veya usta gözetiminde öğrenilmektedir. Halk eğitim merkezleri ve İŞKUR'un açtığı mesleki eğitim kursları ile mesleğe hazırlayıcı temel bilgiler kazandırılabilir. Madencilik ve mineral işleme teknolojileri alanındaki meslek lisesi veya meslek yüksekokulu programları da mesleğe teorik alt yapı sağlayabilir.",
+  "giris_kosullari": [
+   "İlköğretim mezunu olmak (meslek için gereken asgari eğitim düzeyi)",
+   "18 yaşını doldurmuş olmak",
+   "Sağlık durumunun yüksek sıcaklık, toz ve fiziksel çalışma koşullarına elverişli olması",
+   "İşe alınacağı işletmenin belirlediği diğer koşulları (başvuru, mülakat vb.) karşılamak"
+  ],
+  "sure_ve_icerik": "Mesleğe özgü standart bir örgün eğitim süresi bulunmamaktadır. Meslek elemanları genellikle işletmeye girdikten sonra, işletmenin uygulamasına bağlı olarak birkaç aydan bir yıla kadar sürebilen bir işbaşı eğitimi sürecinde fırın çalıştırma, sıcaklık ve basınç kontrolü, hammadde besleme, kalite kontrolü, emisyon takibi ve iş güvenliği konularında yetişirler. Bu süreç, İŞKUR veya halk eğitim merkezlerinin açtığı kısa süreli mesleki eğitim kurslarıyla desteklenebilir.",
+  "belge": "Mesleğin örgün bir diploma zorunluluğu bulunmamaktadır. Katılınan kurslar sonunda kurs bitirme belgesi, işletme bünyesinde yetişenlere ise işletme tarafından düzenlenen çalışma/yetkinlik belgesi verilebilir. Mesleki Yeterlilik Kurumu (MYK) Ulusal Yeterlilik Sistemi kapsamında alınacak bir mesleki yeterlilik belgesi istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Kireç fırın operatörleri başta kireç üretimi yapan fabrikalar ve kireç ocağı işletmeleri olmak üzere, kireci girdi olarak kullanan çimento, inşaat malzemeleri, demir-çelik, şeker ve kimya sanayii tesislerinin üretim birimlerinde istihdam edilirler. Kireç üretimi birçok sanayi dalına girdi sağladığından, sektördeki genel üretim ve yatırım hacmine bağlı olarak iş bulma olanakları değişkenlik gösterebilir.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğe örgün bir çıraklık eğitimi kapsamında girilmediğinden, işletmede işbaşı eğitimi alan kişiler genellikle çalıştıkları işletmenin belirlediği ücret üzerinden, genellikle asgari ücret düzeyinde gelir elde ederler.",
+  "egitim_sonrasi": [
+   "Meslek elemanlarının kazancı, çalıştıkları işletmenin büyüklüğüne, kişinin deneyimine, bilgi ve becerisine ve sektörün ücret düzeyine göre değişmektedir.",
+   "Özel sektörde çalışanlar işveren ile yapılan anlaşmaya göre ücret alırlar; kamuya bağlı işletmelerde işçi statüsünde çalışanların ücreti toplu iş sözleşmesi hükümlerine tabi olabilir.",
+   "Yeni işe başlayanların kazancı genellikle asgari ücret düzeyinde olup, deneyim ve sorumluluk arttıkça ücret yükselebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Bu meslekte örgün bir çıraklık-kalfalık-ustalık ilerleme basamağı bulunmamaktadır. Meslek elemanları, işletme içi eğitimler ile İŞKUR ve halk eğitim merkezlerinin açtığı kurslara katılarak bilgi ve becerilerini geliştirebilir. İsteyenler, açık öğretim veya örgün eğitim yoluyla madencilik, mineral işleme teknolojileri veya ilgili mühendislik alanlarında orta/yüksek öğrenim görerek mesleki bilgilerini ilerletebilirler.",
+  "is_hayatinda": "Deneyim kazandıkça vardiya amirliği, üretim şefliği veya tesis sorumluluğu gibi görevlere yükselebilirler. Ayrıca kalite kontrol, bakım-onarım veya iş sağlığı ve güvenliği gibi ilgili birimlerde görev alma imkânları bulunmaktadır."
+ },
+ "benzer_meslekler": [
+  "Merkezi Kumanda Operatörü (Çimento)",
+  "Kireç Söndürme İşçisi",
+  "Gazbeton Kireç Hazırlama Operatörü",
+  "Kireç Paketleme İşçisi",
+  "Çimento Üretim Elemanı",
+  "Bunker Operatörü (Hazır Beton)"
+ ],
+ "ek_bilgiler": "Kireç fırını işletmeciliği yüksek sıcaklık, toz ve bazı kimyasal maddelerle çalışmayı gerektirdiğinden, bu meslek iş sağlığı ve güvenliği mevzuatı kapsamında tehlikeli veya çok tehlikeli işler sınıfında değerlendirilebilmektedir. Bu nedenle işe girişte periyodik sağlık muayeneleri, düzenli iş güvenliği eğitimleri ve kişisel koruyucu donanım kullanımı önem taşımaktadır.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T10:45:49",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6881
+  }
+ }
+}

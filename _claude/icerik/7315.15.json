@@ -1,0 +1,73 @@
+{
+ "arac_gerec": [
+  "Zımpara taşı ve zımpara çarkı",
+  "Konikleştirme/tıraşlama tezgahı",
+  "Optik eksen tespit cihazları",
+  "Ölçüm ve kontrol aletleri (mikrometre, komparatör vb.)",
+  "Numune/şablon parçalar",
+  "Perdah (parlatma) disk ve aletleri",
+  "Soğutma/taşlama sıvıları",
+  "Büyüteç veya optik kontrol mikroskobu",
+  "Koruyucu gözlük ve eldiven",
+  "Optik cam ham malzemeler (prizma, mercek blankları, optik elemanlar)",
+  "Zımpara çarkı bileme aletleri"
+ ],
+ "benzer_meslekler": [
+  "İnce Tıraşçı (Optik Cam)",
+  "Perdahçı-Optik Cam",
+  "Optik Cam Kesicisi",
+  "Mercek Kalıpçısı",
+  "Cam Kenarı Perdahlayıcısı",
+  "Diğer Cam Kalıpçıları, Kesicileri, Tıraşçıları ve Perdahçıları"
+ ],
+ "calisma_ortami": "Konik tıraşçı (optik cam), optik cam, mercek ve prizma üretimi yapan fabrika ve atölyelerde, tezgah başında çalışır. Çalışma genellikle kapalı mekanda, oturarak veya ayakta, zımpara tezgahının yakınında gerçekleşir; zımparalama sırasında ortaya çıkan ince cam tozu ve gürültü nedeniyle koruyucu gözlük, maske ve eldiven kullanılması gerekir. İşin hassasiyeti göz ve ellerin uzun süre dikkatle, aynı tempoda kullanılmasını gerektirir.\\n\\nMeslek mensubu, üretim hattında diğer optik eleman işçileriyle (kalıpçı, perdahçı, kontrol elemanı vb.) birlikte ekip halinde çalışır. Çalışma saatleri genellikle işletmenin vardiya düzenine göre belirlenir ve sanayi işletmelerinde standart mesai veya vardiyalı çalışma şeklinde olabilir.",
+ "egitim": {
+  "verildigi_yerler": "Bu meslek için ayrı, resmî olarak tanımlanmış bağımsız bir mesleki eğitim programı veya meslek lisesi dalı bulunmamaktadır. Meslek genellikle optik cam ve mercek üreten işletmelerde işbaşında, deneyimli bir usta gözetiminde öğrenilir. Cam ve seramik teknolojisi ile ilgili mesleki eğitim merkezlerinde kazanılan temel cam işleme becerileri, Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kursları bu mesleğe geçişte destekleyici olabilir.",
+  "giris_kosullari": [
+   "İlköğretim mezunu olmak",
+   "El becerisine sahip olmak, ince ve hassas işçilik yapabilecek fiziksel ve görsel yeterliliğe sahip olmak",
+   "Sağlık durumunun işin gerektirdiği uzun süreli dikkat ve yakın görme ihtiyacına uygun olması"
+  ],
+  "sure_ve_icerik": "Standart ve resmî olarak belirlenmiş bir eğitim süresi bulunmamaktadır. İşe yeni başlayanlar, optik cam veya mercek üreten işletmelerde deneyimli bir usta yanında işbaşında eğitim alarak mesleği öğrenir. Bu süreçte optik eksenlerin tespiti, kenarların zımpara taşına doğru açıyla tutulması, istenen koniklik ve perdahın verilmesi, işin numuneye uygunluğunun ölçülüp kontrol edilmesi ve zımpara çarkının bakımı gibi işlemler uygulamalı olarak öğretilir.",
+  "belge": "Standart bir çıraklık/ustalık belgesi veya diploma bulunmamaktadır; mesleki yeterlilik, işletme içi deneyim ve usta onayı ile kazanılır. Mesleki Yeterlilik Kurumu (MYK) belgesi, varsa, istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Konik tıraşçı (optik cam), optik cam, mercek, prizma ve diğer optik elemanları üreten fabrika ve atölyelerde çalışabilir. Gözlük camı, fotoğraf/kamera lensleri, bilimsel ve laboratuvar optik cihazları ile çeşitli optik enstrümanların üretildiği işletmeler bu mesleğin başlıca istihdam alanlarıdır. Türkiye'de bu alanda ihtisaslaşmış işletme sayısı sınırlı olduğundan, iş imkanları belirli sanayi bölgelerinde yoğunlaşmaktadır.",
+ "kazanc": {
+  "egitim_suresince": "Resmî bir çıraklık eğitimi programı bulunmadığından, mesleğe işbaşında başlayanlar genellikle asgari ücret düzeyinde veya işletmenin belirlediği bir eğitim/deneme ücretiyle çalışmaya başlar.",
+  "egitim_sonrasi": [
+   "İşe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Deneyim ve uzmanlık arttıkça ücret, işletme ile çalışan arasındaki anlaşmaya, performansa ve sektördeki talebe göre değişkenlik gösterebilir.",
+   "Bu meslekte kamuda doğrudan istihdam yaygın değildir; kamu kurumlarında benzer işlerde çalışanlar için 657 sayılı Kanun veya ilgili toplu iş sözleşmesi hükümleri geçerli olabilir."
+  ]
+ },
+ "genel_ozellikler": [
+  "Dikkatli ve sabırlı,",
+  "El becerisine sahip,",
+  "Göz ve ellerini eşgüdümle kullanabilen,",
+  "Şekilleri ve açıları algılama yeteneğine sahip,",
+  "İnce ve hassas işlerde uzun süre çalışabilen,",
+  "Standartlara ve numuneye bağlı kalarak çalışabilen,",
+  "Yaptığı işe uzun süre dikkatini verebilen,",
+  "Tedbirli ve düzenli"
+ ],
+ "gorevler": [
+  "Diğer optik elemanların optik eksenlerini tespit ederek kenarlarının zımpara taşına hangi açıda tutulacağını belirler.",
+  "Kenarlara istenilen konikliği ve perdahı vermek için işi zımpara taşına tutar.",
+  "İşi ölçüp kontrol ederek numunesine uygun duruma getirir.",
+  "Gerektiğinde zımpara çarkının ağzını düzeltir.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Bu meslekte resmî ve kademeli bir çıraklık/ustalık eğitim sistemi tanımlı değildir. Kişi işbaşında kazandığı deneyimle daha karmaşık optik elemanların işlenmesinde görevlendirilebilir ve zamanla yeni başlayanların eğitiminde usta rolü üstlenebilir.",
+  "is_hayatinda": "Deneyim kazandıkça vasıflı işçi, usta veya bölüm/atölye sorumlusu gibi pozisyonlara yükselebilir. Yeterli birikim ve sermayeye sahip olanlar kendi optik cam işleme atölyesini kurabilir."
+ },
+ "ek_bilgiler": "Bu meslek, oldukça dar ve ihtisaslaşmış bir alan olan optik cam işleme sektörüne özgüdür. Ülkemizde optik cam, mercek ve prizma üretimi yapan işletme sayısı sınırlı olduğundan, istihdam imkanları belirli sanayi bölgeleriyle sınırlı kalabilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T04:07:01",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5661
+  }
+ }
+}

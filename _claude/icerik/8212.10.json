@@ -1,0 +1,80 @@
+{
+ "arac_gerec": [
+  "Bilgisayar destekli hidrolik-pnömatik kablo kesme makineleri",
+  "Mekanik presler",
+  "Kablo sıyırma ve uç işleme üniteleri",
+  "Konnektör ve conta takma ekipmanları",
+  "Kablo makaraları ve makaralık düzenekleri",
+  "Üretim kalıpları",
+  "Terminal şeritleri",
+  "Pnömatik hortum ve bağlantı elemanları",
+  "Ölçüm aletleri (kumpas, şerit metre, kalibre mastarı)",
+  "Bilgisayar ve üretim takip/giriş yazılımı",
+  "El aletleri (tornavida, pense, anahtar takımı)",
+  "Kişisel koruyucu donanım (eldiven, koruyucu gözlük, kulak koruyucu)"
+ ],
+ "genel_ozellikler": [
+  "El becerisine sahip,",
+  "Dikkatli ve titiz,",
+  "El ve gözünü eş güdümle kullanabilen,",
+  "Makine ve teknik ekipmanlarla çalışmaya istekli,",
+  "Sorumluluk sahibi,",
+  "Talimat ve üretim standartlarına uyabilen,",
+  "Ekip içinde uyumlu çalışabilen,",
+  "Uzun süre ayakta çalışabilecek fiziksel yeterliliğe sahip"
+ ],
+ "calisma_ortami": "\"Kablo Ağı Kesme Operatörü, genellikle fabrika ve atölye ortamlarında, kapalı mekânlarda çalışır. Çalışma ortamında makine sesine bağlı belirli bir gürültü düzeyi bulunabilir; operatör görevini büyük ölçüde ayakta ve makine başında yürütür. İş sağlığı ve güvenliği kuralları ile kişisel koruyucu donanım kullanımı önemlidir.\\n\\nÇalışma genellikle vardiyalı sistemde yürütülebilir. Operatör, vardiya arkadaşları, vardiya amiri ve kalite/bakım personeli ile sürekli iletişim halindedir; bir önceki vardiyadan bilgi alıp bir sonrakine bilgi aktarma gibi ekip içi koordinasyon görevin önemli bir parçasıdır.\"",
+ "egitim": {
+  "verildigi_yerler": "Bu meslek için örgün eğitimde ayrı, standart bir okul programı bulunmamaktadır. Meslekle ilgili bilgi ve beceriler genellikle işyerlerinde işbaşında usta/ustabaşı gözetiminde, mesleki ve teknik eğitim kurumlarının Elektrik-Elektronik Teknolojisi alanına bağlı dersler ile Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kursları yoluyla kazandırılır.",
+  "giris_kosullari": [
+   "İlköğretim mezunu olmak (meslek için gereken minimum eğitim düzeyi)",
+   "Meslekte çalışmaya engel bir sağlık probleminin bulunmaması",
+   "Kurs veya işe girişte ilgili mevzuatta belirtilen asgari yaş şartlarını karşılamak"
+  ],
+  "sure_ve_icerik": "Standart ve sabit bir eğitim süresi yoktur. İşbaşı eğitimi işletmenin ihtiyacına göre birkaç haftadan birkaç aya kadar sürebilir. Eğitim içeriğinde kesme/sıyırma makinelerinin tanınması ve kullanımı, kalıp ve konnektör montajı, üretim kartı ve kalite standartlarının okunması, makine ayarları, iş sağlığı ve güvenliği konuları yer alır.",
+  "belge": "Çalışılan işyerinde veya katılınan kursta verilen katılım/başarı belgesi alınabilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, iş bulmada ve istihdamda tercih sebebi olabilir."
+ },
+ "gorevler": [
+  "Bir önceki vardiyada yapılan, halen devam eden veya yapılması gereken işlemler hakkında gerekli ön bilgileri vardiya görevlisinden alır.",
+  "Üretime başlamadan önce sorumluluğunda bulunan makine ve donanımı gözle kontrol eder.",
+  "Üretimini yapacağı ürünü ve bu ürün için kullanılacak kablo, conta, kalıp, etiket vb. malzemeleri ve uygun üretim kalıbını tespit eder.",
+  "Kablo makaralarını inceleyerek renk, kalınlık, çizgi vb. yönlerden üretim kartı bilgilerine uygunluğunu kontrol eder, kalıbı kontrol ederek talep edilen kalıp olduğundan emin olur.",
+  "Kablo makarasını makaralık bölümünde tanımlı yere elle oturtur, kablo ucunu tespit eder.",
+  "Kablo ucunu makinenin otomatik kullanımına hazırlar, kabloyu makine işlem bölümüne kadar ilerletir, kablonun ilerlemesini ve düzeltilmesini sağlayan makara ve ruloların kavrama ayarlarını kontrol eder, sapma varsa ayarlar.",
+  "Kalıp cihazını makinedeki kalıp yuvasına elle yerleştirir, kalıbın yuvaya sabitlenmesini sağlar, pnömatik hortumların bağlantılarını yapar, terminal şeritlerini makinenin kullanımına hazırlar, gerekli bağlantı ve düzenlemeleri yapar.",
+  "Ürün verilerinin bilgisayar ortamında girişini yaparak makinelere ürün tanıtımını yapar.",
+  "Makine ve cihazları kesme, sıyırma, conta takma vb. işlemler için kullanıma hazırlar, deneme çalışması yaparak çıkan numune kabloyu inceler ve standartlara göre makine ayarlarını yapar.",
+  "Seri üretime başlamadan önce tüm deneme ve ayar işlemlerini gerçekleştirerek talep edilen özelliklere en uygun üretimin yapılmasını sağlar.",
+  "Makine ve cihaz ayarları sonrasında seri üretimi başlatır, çalışma süresince meydana gelen arıza ve aksaklıkları zamanında amirine bildirir.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "calisma_alanlari": "\"Kablo Ağı Kesme Operatörleri başta otomotiv yan sanayi olmak üzere, kablo demeti (kablo harness) üreten işletmelerde, beyaz eşya ve elektrik-elektronik sanayinde, kablo ve kablo bağlantı elemanı üreten fabrikalarda çalışabilirler. Bu üretim dalının yoğunlaştığı sanayi bölgelerinde iş bulma olanakları daha fazladır.\"",
+ "kazanc": {
+  "egitim_suresince": "İşyerinde işbaşı eğitimi veya 3308 sayılı Mesleki Eğitim Kanunu kapsamında eğitim görülmesi hâlinde, ilgili mevzuatta belirlenen oranlarda ücret ödenir; eğitim gören kişilerin iş kazası ve meslek hastalığı sigorta primleri genellikle devletçe karşılanır.",
+  "egitim_sonrasi": [
+   "Özel sektörde çalışanların kazancı, işyerinin büyüklüğü, kişinin deneyimi, bilgi ve becerisi ile sektörün ücret düzeyine göre değişir.",
+   "Yeni başlayanlar için kazanç genellikle asgari ücret düzeyindedir, deneyim ve ustalıkla birlikte artabilir.",
+   "Çalışanlar işçi statüsünde ise varsa toplu iş sözleşmesi hükümlerinden yararlanabilirler."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "İsteyenler, ilgili mesleki ve teknik lise/meslek yüksekokullarının Elektrik-Elektronik Teknolojisi alanına yönelik programlara veya sektörle ilgili sertifika/kurs programlarına katılarak bilgi ve becerilerini geliştirebilirler.",
+  "is_hayatinda": "Deneyim kazandıkça vardiya sorumluluğu, usta/ustabaşılık, kalite kontrol elemanlığı veya bakım-ayar teknisyenliği gibi görevlere yükselebilirler."
+ },
+ "benzer_meslekler": [
+  "Kablo Ağı Bantlama Elemanı",
+  "Kablo Gruplama İşçisi",
+  "Bobin İzalasyon Makinesi Operatörü",
+  "Elektro-Mekanik Montajcısı",
+  "Montör (Elektrikli Cihazlar)"
+ ],
+ "ek_bilgiler": "\"Bu mesleğin istihdamı, özellikle otomotiv yan sanayi ve kablo demeti üretimi yapan işletmelerin yoğunlaştığı bölgelerde daha fazladır. Meslek için resmî, standart bir örgün eğitim programı bulunmadığından bilgi ve beceri kazanımı büyük ölçüde işyerinde uygulamalı olarak gerçekleşir.\"",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T17:48:37",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6485
+  }
+ }
+}

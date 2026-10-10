@@ -1,0 +1,74 @@
+{
+ "gorevler": [
+  "Makineyi çalıştırmadan önce gerekli kontrolleri yapar, değiştirilmesi gereken hortum, fırça, lastik vb. parçaları değiştirir veya durumu sorumlu personele bildirir.",
+  "Makinenin ilgili tanklarına temiz su ve temizlenecek zeminin özelliğine göre gerekli kimyevi temizlik maddelerini koyar.",
+  "Makineyi çalıştırır.",
+  "Binicili zemin temizleme makinesini kullanarak zemin temizleme ve yıkama işlerini yapar.",
+  "Makinenin günlük genel temizliğini yapar.",
+  "Makineyi uygun park alanına park eder.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "arac_gerec": [
+  "Binicili zemin temizleme ve yıkama makinesi",
+  "Makinenin su deposu/tankı",
+  "Kimyasal temizlik maddesi tankı",
+  "Süpürme/yıkama fırçaları",
+  "Yedek lastik/tekerlek",
+  "Hortum ve bağlantı parçaları",
+  "Filtre ve emme aparatları",
+  "Temizlik kimyasalları",
+  "Basit bakım el aletleri (anahtar takımı vb.)",
+  "Kişisel koruyucu donanım (eldiven, reflektörlü yelek, iş ayakkabısı, koruyucu gözlük)",
+  "Su besleme ve dolum ekipmanı"
+ ],
+ "genel_ozellikler": [
+  "El ve göz koordinasyonu iyi,",
+  "Dikkatli ve sorumluluk sahibi,",
+  "Fiziksel olarak sağlıklı ve dayanıklı,",
+  "Makine ve araç kullanmaya istekli,",
+  "İş sağlığı ve güvenliği kurallarına uyan,",
+  "Açık havada ve değişken koşullarda çalışmaya uygun,",
+  "Trafik ve çevre güvenliğine dikkat eden,",
+  "Düzenli ve temiz çalışmaya önem veren"
+ ],
+ "calisma_ortami": "Bu meslek genellikle açık havada; cadde, meydan, park, otopark, kampüs ve benzeri geniş dış mekanlarda yürütülür. Çalışma sırasında sıcak, soğuk, yağmur gibi hava koşullarına, makine gürültüsüne, egzoz veya kimyasal madde kokusuna maruz kalınabilir; ayrıca trafiğe açık alanlarda çalışma riski bulunur. Çalışma saatleri genellikle belediye veya hizmet alınan kurumun temizlik programına bağlı olarak sabah erken saatlerde, gece ya da vardiyalı şekilde düzenlenebilir.\n\nMeslek elemanı, çalıştığı belediye veya firmanın temizlik ekibi üyeleri, amirleri ve bakım/teknik personel ile sürekli iletişim halindedir. İşin niteliği nedeniyle fiziksel dayanıklılık ve açık alanda uzun süre çalışabilme önem taşır.",
+ "egitim": {
+  "verildigi_yerler": "Bu meslek için örgün bir mesleki ve teknik eğitim programı bulunmamaktadır. Meslek elemanları, genellikle işbaşında usta yanında eğitim yoluyla veya Halk Eğitim Merkezleri ile İŞKUR'un açtığı mesleki eğitim kurslarında yetişmektedir.",
+  "giris_kosullari": [
+   "Okur yazar olmak",
+   "Çalışılacak işin gerektirdiği yaş ve sağlık şartlarını taşımak",
+   "Kullanılacak makinenin özelliğine göre işverenin istediği ek şartları (gerekiyorsa sürücü belgesi vb.) karşılamak"
+  ],
+  "sure_ve_icerik": "Eğitimin süresi ve içeriği, eğitimin verildiği kuruma göre değişmekle birlikte genellikle makinenin tanıtımı, çalıştırılması, günlük bakımı, temizlik kimyasallarının doğru kullanımı ile iş sağlığı ve güvenliği konularını kapsayan kısa süreli kurs ve işbaşı uygulamalardan oluşur.",
+  "belge": "Kurs sonunda katılım veya başarı belgesi verilebilir; ayrıca Mesleki Yeterlilik Kurumu (MYK) belgesine sahip olmak istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Bu meslek elemanları; belediyelerin temizlik işleri müdürlüklerinde, belediyelere hizmet veren özel temizlik firmalarında, alışveriş merkezleri, havalimanları, fabrikalar, üniversite kampüsleri ve benzeri büyük açık veya yarı açık alanların zemin temizliğini üstlenen işletmelerde çalışabilirler.",
+ "kazanc": {
+  "egitim_suresince": "Bu meslek için örgün bir mesleki eğitim süreci bulunmadığından eğitim süresince standart bir ücretten söz etmek mümkün değildir; işbaşında eğitim alan kişiler genellikle çalıştıkları işyerinin ücret politikasına göre gelir elde ederler.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Belediyeler gibi kamu kurumlarında işçi statüsünde çalışanların ücreti, ilgili toplu iş sözleşmesi hükümlerine göre belirlenir.",
+   "Özel sektörde ücret; işyerinin büyüklüğüne, çalışma koşullarına ve kişinin tecrübesine göre değişebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Bu meslek için kademeli, örgün bir mesleki eğitim ilerleme basamağı bulunmamaktadır. İlgi duyan kişiler, iş makinesi kullanımı ve bakımına yönelik açılan sertifikalı kurslara katılarak bilgi ve becerilerini geliştirebilirler.",
+  "is_hayatinda": "Deneyim kazanan çalışanlar, ekip sorumluluğu, vardiya amirliği veya makine bakım/operasyon sorumluluğu gibi görevlere getirilebilir. Geniş araç filosuna sahip belediye veya firmalarda usta/formen pozisyonuna yükselme olanağı bulunabilir."
+ },
+ "benzer_meslekler": [
+  "Park Süpürücü",
+  "Park Temizlik İşçisi",
+  "Süpürgeci (Temizlik İşçisi) - Cadde, Sokak vb.",
+  "Temizlik İşçisi (Elle - Cadde, Sokak, Park vb.)",
+  "Çöpçü"
+ ],
+ "ek_bilgiler": "Bu meslekte çalışanların, kullandıkları makinenin türüne ve işyerinin talebine göre iş makinesi kullanımına ilişkin sertifika veya ilgili sürücü belgesine sahip olmaları işverenler tarafından tercih sebebi olabilir. Belediyelerin ve büyük işletmelerin mekanik temizlik makinelerine yönelmesiyle bu meslek dalına olan talebin arttığı gözlemlenmektedir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T20:58:32",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 4998
+  }
+ }
+}

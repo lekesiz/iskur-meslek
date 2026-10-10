@@ -1,0 +1,74 @@
+{
+ "gorevler": [
+  "Uçağı uçuş öncesi kontrol ederek normal çalışıp çalışmadığını tespit eder.",
+  "Kalkış için sürat ve trim ayarını hesaplayarak kaptan pilota durumu bildirir.",
+  "Kalkış anında motor ve diğer uçuş aletlerini gözleyerek teknik aksaklıklar varsa tespit eder, kalkış emniyetini sağlar.",
+  "Düz uçuş esnasında otomatik kontroldeki uçağın verilen değerler içerisinde hareketini kontrol eder.",
+  "Tespit ettiği teknik arızalara yerinde ve zamanında müdahale etmeye çalışır, arızayı pilota bildirir.",
+  "Uçuş sırasında yapılan bakım ve onarım kayıtlarını tutar, pilotla sürekli olarak bilgi alışverişinde bulunur.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "arac_gerec": [
+  "Uçuş mühendisi gösterge paneli (motor, yakıt, hidrolik, elektrik sistemleri göstergeleri)",
+  "Yakıt yönetim ve basınçlandırma/klima sistemi panelleri",
+  "Performans hesap çizelgeleri, uçuş el kitapları ve kontrol listeleri (checklist)",
+  "Sürat ve trim hesaplamalarına yönelik hesap tabloları/hesap makineleri",
+  "Taşınabilir bilgisayar veya tablet (ağırlık-denge ve performans hesaplamaları için)",
+  "Uçuş kayıt defteri (teknik jurnal) ve bakım-onarım kayıt formları",
+  "Kulaklık ve dahili haberleşme (interkom) sistemi",
+  "Telsiz ve haberleşme cihazları",
+  "Navigasyon ve meteoroloji verilerine erişim sistemleri",
+  "Küçük teknik müdahaleler için temel el aletleri ve el feneri"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve yüksek konsantrasyonlu,",
+  "Hızlı ve doğru karar verebilen,",
+  "Stres altında sakin kalabilen ve soğukkanlı,",
+  "Sorumluluk sahibi ve güvenilir,",
+  "Takım çalışmasına uyumlu, etkili iletişim kurabilen,",
+  "Analitik düşünebilen, teknik/mekanik konulara ilgili,",
+  "İyi derecede İngilizce bilen,",
+  "Uçuş ekibi sağlık ve psikoteknik şartlarını taşıyan"
+ ],
+ "calisma_ortami": "\"Uçuş Mühendisi, görevini uçağın kokpitinde, kapalı ve dar bir mekânda yerine getirir. Çalışma ortamı motor sesi, titreşim, kabin basıncı değişimleri ve uzun süreli oturarak çalışma gibi fiziksel koşullar içerir. Çalışma saatleri düzensizdir; uçuş programına bağlı olarak gece, gündüz, hafta sonu ve tatil günlerinde görev yapılabilir, farklı zaman dilimlerinde ve şehirlerde konaklama gerekebilir.\\n\\nMeslek mensubu kokpitte kaptan pilot ve diğer uçuş ekibi üyeleriyle sürekli ve yakın bir işbirliği içinde çalışır; sivil havayolu işletmelerinde veya askeri havacılık birimlerinde görev yapabilir. İş, yüksek dikkat ve sorumluluk gerektirir; herhangi bir teknik aksaklığın zamanında fark edilip bildirilmesi uçuş güvenliği açısından kritik önem taşır.\"",
+ "egitim": {
+  "verildigi_yerler": "Türkiye'de sivil havacılıkta ayrı ve bağımsız bir \"Uçuş Mühendisliği\" lisans programı bulunmamaktadır. Meslek mensupları genellikle üniversitelerin mühendislik fakültelerine bağlı makine mühendisliği, havacılık mühendisliği veya uçak mühendisliği gibi bölümlerden lisans derecesi alır; ardından görev alacakları uçak tipine özgü uçuş mühendisi/sistem eğitimini, ilgili kurum (Türk Hava Kuvvetleri Komutanlığı, havayolu işletmesi veya yetkili eğitim kuruluşu) bünyesinde tamamlar.",
+  "giris_kosullari": [
+   "Lise veya dengi okul mezunu olmak,",
+   "Yükseköğretim Kurumları Sınavı (YKS) sonucuna göre ilgili mühendislik bölümüne (makine, havacılık, uçak mühendisliği vb.) yerleşmek ve lisans eğitimini başarıyla tamamlamak,",
+   "Görev alınacak uçak tipine özgü uçuş mühendisi eğitimine kabul için ilgili kurumun belirlediği sağlık, psikoteknik ve yabancı dil (İngilizce) yeterlilik şartlarını taşımak."
+  ],
+  "sure_ve_icerik": "İlgili mühendislik lisans eğitimi 4 yıl sürmekte, teorik ve uygulamalı derslerden oluşmaktadır. Lisans eğitimini tamamlayanlar, görev alacakları uçak tipine özgü uçuş mühendisliği/sistemler eğitimi ile simülatör eğitimini ilgili kurum bünyesinde tamamlar; bu eğitimin süresi ve içeriği kurumdan kuruma ve uçak tipine göre değişiklik gösterir.",
+  "belge": "Mühendislik lisans diploması ile görev alınan kurum veya yetkili otorite tarafından verilen, ilgili uçak tipine ait uçuş mühendisi yetki belgesi/sertifikası."
+ },
+ "calisma_alanlari": "Uçuş Mühendisleri, uçuş mühendisi gerektiren uçak tiplerini işleten havayolu işletmelerinde, kargo havacılığı yapan kuruluşlarda, Türk Hava Kuvvetleri Komutanlığı ve diğer askeri havacılık birimlerinde (özellikle nakliye ve tanker uçakları gibi üç kişilik kokpit ekibi gerektiren uçak tiplerinde) çalışabilirler. Ayrıca havacılık test ve araştırma kuruluşlarında da görev alabilirler.\n\nModern sivil havacılıkta \"glass cockpit\" adı verilen ileri teknoloji avionik sistemlere geçilmesiyle birlikte iki pilotlu kokpit düzeni yaygınlaşmış, bu nedenle uçuş mühendisi istihdamı sivil havacılıkta büyük ölçüde azalmıştır. Günümüzde meslek, daha çok askeri havacılıkta ve bazı eski nesil uçak tiplerini işleten sınırlı sayıda özel/kargo operasyonunda sürdürülmektedir.",
+ "kazanc": {
+  "egitim_suresince": "Lisans eğitimi süresince öğrenciler, Yüksek Öğrenim Kredi ve Yurtlar Kurumu Genel Müdürlüğünün sağladığı öğrenim ve harç kredisinden, ayrıca çeşitli kurum ve kuruluşların burs imkânlarından yararlanabilirler. Uçak tipine özgü uçuş mühendisi eğitimi genellikle ilgili kurum (askeri birim veya işletme) tarafından görevlendirme kapsamında verilir.",
+  "egitim_sonrasi": [
+   "Askeri havacılık birimlerinde görev yapanlar, bulundukları statüye (subay, sivil memur vb.) uygun mevzuat çerçevesinde maaş ve özlük hakları elde eder.",
+   "Kamu kuruluşlarında memur statüsünde çalışanlar 657 sayılı Devlet Memurları Kanunu'na göre ücretlendirilir.",
+   "Özel sektörde (havayolu işletmeleri) ücret, kişinin deneyimine, niteliklerine ve işveren ile yapılan sözleşme koşullarına göre değişmektedir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Lisans eğitiminden sonra ilgili mühendislik alanında yüksek lisans veya doktora yapılabilir. Meslek mensupları, farklı uçak tiplerine geçiş eğitimleri alarak yetkinlik alanlarını genişletebilir; yabancı dil ve teknik bilgi düzeylerini geliştirerek daha ileri uçak sistemlerinde görev alabilirler. Uygun şartları taşıyanlar pilotluk eğitimine geçiş yapabilir.",
+  "is_hayatinda": "Deneyim kazanan Uçuş Mühendisleri kıdemli uçuş mühendisi veya eğitmen uçuş mühendisi konumuna yükselebilir. Yönetsel yetkinliklerini geliştirenler, bağlı oldukları kurumda teknik müdürlük, filo yönetimi veya eğitim birimi sorumluluğu gibi görevlere ilerleyebilirler."
+ },
+ "benzer_meslekler": [
+  "Havacılık Mühendisi",
+  "Uçak Mühendisi",
+  "Havacılık ve Uzay Mühendisi/Uzay Mühendisi",
+  "Uçak Gövde Motor Bakım Teknik Uzmanı",
+  "Bakım Onarım Mühendisi",
+  "Makine Mühendisi"
+ ],
+ "ek_bilgiler": "Uçuş Mühendisliği mesleği, uçak teknolojisindeki gelişmeler (özellikle \"glass cockpit\" ileri avionik sistemlerin yaygınlaşması) sonucunda sivil havacılıkta büyük ölçüde ortadan kalkmış; günümüzde daha çok üç kişilik kokpit ekibi gerektiren eski nesil uçak tiplerinde ve askeri havacılıkta (örneğin nakliye/tanker uçaklarında) sürdürülmektedir. Meslek mensuplarının, uçuş ekibi olarak görev yapabilmek için ilgili otoritenin belirlediği periyodik sağlık ve psikoteknik muayenelerden geçmesi gerekir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-07T21:27:47",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 7308
+  }
+ }
+}

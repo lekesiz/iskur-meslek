@@ -1,0 +1,73 @@
+{
+ "arac_gerec": [
+  "Kişisel koruyucu ekipman (tulum, eldiven, bot, koruyucu gözlük)",
+  "Yarım veya tam yüz maskeli filtreli solunum cihazları (respiratör)",
+  "HEPA filtreli endüstriyel vakum ve elektrikli süpürgeler",
+  "Negatif basınçlı hava tahliye ve havalandırma üniteleri",
+  "Asbest sökümüne özel el aletleri (kazıyıcı, spatula, bıçak)",
+  "Islatma ve nemlendirme ekipmanları (sprey, pompa, hortum)",
+  "Sızdırmaz ve etiketli özel asbest atık torbaları",
+  "Kapalı taşıma konteynerleri",
+  "İzolasyon brandaları ve bariyer malzemeleri",
+  "Uyarı/işaret levhaları ve şerit bantlar",
+  "Hava kalitesi ölçüm cihazları",
+  "Dekontaminasyon üniteleri (giriş-çıkış kabinleri, duş)",
+  "Etiketleme malzemeleri ve kayıt/rapor formları"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve titiz,",
+  "Fiziksel olarak dayanıklı,",
+  "Talimatlara ve kurallara harfiyen uyabilen,",
+  "Ekip halinde çalışmaya uyumlu,",
+  "Sorumluluk sahibi,",
+  "Tehlikeli ortamlarda temkinli ve sabırlı,",
+  "El becerisine sahip,",
+  "Kapalı ve dar alanlarda çalışmaya elverişli"
+ ],
+ "calisma_ortami": "Asbest söküm çalışanı, asbest içerdiği tespit edilen bina, tesis veya endüstriyel yapılarda, genellikle kapalı ve izole edilmiş alanlarda görev yapar. Çalışma ortamı tozlu olabileceğinden kişisel koruyucu ekipman ve solunum cihazı sürekli kullanılır; alan negatif basınçlı hava sistemleriyle dış ortamdan izole edilir. İş, asbestin sağlığa ciddi zararları (başta akciğer hastalıkları ve kanser riski) nedeniyle tehlikeli/çok tehlikeli işler kapsamında değerlendirilir ve sıkı iş sağlığı ve güvenliği kurallarına uyulması gerekir.\n\nÇalışma genellikle ekip halinde, iş güvenliği uzmanı, mühendis ve proje sorumlularıyla koordineli şekilde yürütülür. Çalışma saatleri projenin kapsamına ve işverenin planlamasına göre değişebilir; bazı işler mesai dışı saatlerde veya binaların boşaltıldığı dönemlerde yapılabilir. Dar ve dekontaminasyon kabinlerinden geçerek alana giriş-çıkış yapılması, uzun süre koruyucu ekipmanla çalışılması işin zorlayıcı yönlerindendir.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin örgün bir meslek lisesi veya meslek yüksekokulu programı bulunmamaktadır. Bilgi ve beceriler genellikle işbaşında usta/deneyimli çalışan yanında, işverenlerin iş sağlığı ve güvenliği mevzuatı gereği düzenlediği eğitimlerle, ayrıca Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kursları ile ilgili kuruluşlarca verilen asbestle çalışma eğitimleri yoluyla kazanılır.",
+  "giris_kosullari": [
+   "En az ilköğretim/ortaokul mezunu olmak",
+   "18 yaşını doldurmuş olmak (tehlikeli işler kapsamında çalışma şartı nedeniyle)",
+   "Sağlık durumunun bu işe (toz, kapalı/dar alan, kişisel koruyucu ekipmanla uzun süre çalışma) uygun olduğunun sağlık raporuyla belgelenmiş olması",
+   "İşe başlamadan önce veya işbaşında asbestle çalışmaya ilişkin iş sağlığı ve güvenliği eğitimlerine katılmış/katılacak olmak"
+  ],
+  "sure_ve_icerik": "Mesleğin standart ve örgün bir eğitim süresi bulunmamaktadır. Eğitim; asbestin tanınması ve riskleri, kişisel koruyucu ekipman kullanımı, güvenli söküm teknikleri, çalışma alanının izolasyonu ve dekontaminasyonu, asbest atıklarının güvenli şekilde paketlenmesi ve bertarafı gibi konuları içeren kısa süreli (günler-haftalar düzeyinde) teorik ve uygulamalı kurslar ile işbaşında usta yanında yetişme şeklinde gerçekleşir. İlgili mevzuat gereği yetkilendirilmiş kuruluşlarca düzenlenen özel asbest söküm eğitim programları da bulunmaktadır.",
+  "belge": "Eğitimi tamamlayanlara katılım/başarı belgesi verilir. Ayrıca Mesleki Yeterlilik Kurumu (MYK) tarafından yayımlanan ulusal yeterliliğe göre yapılan sınavda başarılı olunması halinde Mesleki Yeterlilik Belgesi alınabilir. Asbest söküm işleri tehlikeli ve çok tehlikeli işler kapsamında değerlendirildiğinden, bu belge pek çok işyerinde istihdam şartı olarak aranmaktadır."
+ },
+ "calisma_alanlari": "Asbest söküm çalışanları; asbest arındırma ve bertaraf işleri yapan özel şirketlerde, yapı yıkım ve çevre temizliği firmalarında, inşaat ve restorasyon işletmelerinde, endüstriyel tesislerin bakım-onarım ve tasfiye çalışmalarında, ayrıca belediyeler ve diğer kamu kurumlarının yürüttüğü asbest arındırma projelerinde (taşeron/yüklenici firma bünyesinde) görev alabilirler. İstihdam olanağı, büyük ölçüde eski yapı stoğunun asbestten arındırılmasına yönelik kamu ve özel sektör projelerinin hacmine bağlıdır; bu alanda uzmanlaşmış işletme sayısı sınırlı olduğundan iş bulma olanakları bölgesel talebe göre değişebilir.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğe özgü örgün bir çıraklık eğitimi ve buna bağlı eğitim ücreti düzenlemesi bulunmamaktadır. İşe alınan kişiler genellikle doğrudan çalışan statüsünde işbaşı eğitimine tabi tutulur; bu süreçte işyerinin ücret politikasına göre ücretlendirilirler.",
+  "egitim_sonrasi": [
+   "Özel sektörde çalışanların ücreti işyerinin büyüklüğü, projenin kapsamı, kişinin tecrübesi ve sektördeki ücret düzeyine göre değişmekte, yeni başlayanlarda genellikle asgari ücret düzeyinde olmaktadır.",
+   "İşin tehlikeli/çok tehlikeli iş kapsamında olması nedeniyle bazı işyerlerinde ek ödeme veya prim uygulamaları bulunabilir.",
+   "Kamu kurumlarınca yürütülen projelerde taşeron/yüklenici firma bünyesinde çalışanlar, ilgili toplu iş sözleşmesi hükümlerine göre ücretlendirilebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Bu meslekte örgün bir mesleki eğitim merkezi programı ve buna bağlı sınıf/kademe ilerlemesi bulunmamaktadır. Deneyim kazanan çalışanlar, katıldıkları ileri düzey iş sağlığı ve güvenliği, asbest yönetimi ve denetim konulu eğitimlerle bilgi ve becerilerini geliştirebilirler.",
+  "is_hayatinda": "Deneyim ve ek eğitimlerle ekip lideri/formen, saha sorumlusu veya iş güvenliği gözetmeni konumuna yükselebilir; ileri düzey eğitimlerle asbest söküm projelerinin planlama ve denetim kademelerinde görev alabilirler."
+ },
+ "benzer_meslekler": [],
+ "ek_bilgiler": "Asbest, uzun süreli solunması halinde akciğer hastalıkları ve kanser riski taşıyan bir maddedir; bu nedenle meslek, tehlikeli ve çok tehlikeli işler kapsamında değerlendirilmekte ve çalışanların periyodik sağlık muayenelerinden geçirilmesi, kişisel koruyucu ekipmanın eksiksiz kullanılması yasal olarak zorunlu tutulmaktadır. Eski yapı stoğunda asbestli malzemelerin arındırılmasına yönelik düzenlemelerin artmasıyla bu alandaki iş hacminin önümüzdeki dönemde artması beklenmektedir.",
+ "gorevler": [
+  "Asbest içeren malzemelerin yerini tespit eder ve çalışma alanını izole eder.",
+  "Kişisel koruyucu ekipman kullanarak sağlık ve güvenlik önlemlerini alır.",
+  "Özel teknikler ve aletlerle asbest malzemeleri dikkatlice söker.",
+  "Sökülen asbest malzemeleri özel torbalara ve konteynerlara güvenli şekilde yerleştirir.",
+  "Çalışma alanını HEPA filtreli ekipmanlarla temizler ve dekontamine eder.",
+  "Asbest atıklarını yasal düzenlemelere uygun olarak etiketler ve geçici depolama alanına taşır.",
+  "Söküm işlemleri ile ilgili kayıt ve raporları düzenler.",
+  "Hava kalitesi ölçümlerinin yapılmasına yardımcı olur.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T10:56:03",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 8148
+  }
+ }
+}

@@ -1,0 +1,80 @@
+{
+ "arac_gerec": [
+  "El takımları (anahtar, tornavida, pense, çekiç, eğe takımları vb.)",
+  "Ölçü ve kontrol aletleri (kumpas, çelik cetvel, komparatör, basınç göstergesi)",
+  "Gres tabancası ve yağlama ekipmanları",
+  "Taşlama tezgahı",
+  "Matkap ve el tipi elektrikli aletler",
+  "Kaynak makinesi (ark/gaz kaynağı)",
+  "Kompresör ve basınçlı hava tabancası",
+  "Hidrolik sistem test ve söküm takımları",
+  "Ekim, dikim ve gübreleme makinelerine ait yedek parçalar (disk, bıçak, hazne, mekanizma parçaları vb.)",
+  "Kayış, zincir ve dişli değişim takımları",
+  "Torna ve freze gibi atölye tezgahları (gerektiğinde)",
+  "Üretici firma kullanma ve bakım kılavuzları",
+  "Kişisel koruyucu donanım (eldiven, gözlük, iş elbisesi vb.)"
+ ],
+ "genel_ozellikler": [
+  "El becerisine sahip,",
+  "Makine parçaları arasındaki ilişkiyi görebilen,",
+  "El ve gözünü eşgüdümle kullanabilen,",
+  "Dikkatli ve sabırlı,",
+  "Fiziksel olarak dayanıklı,",
+  "Açık hava ve zorlu çalışma koşullarına uyumlu,",
+  "Sorumluluk sahibi,",
+  "Aletlerle ve makinelerle çalışmaktan hoşlanan,"
+ ],
+ "calisma_ortami": "\"Ekim dikim ve gübreleme makineleri bakım-onarımcıları, genellikle tarım makineleri bakım atölyelerinde, bayi servislerinde veya doğrudan tarlada/açık arazide çalışır. Çalışma ortamı mevsime göre değişir; sıcak, tozlu, gürültülü ve yağlı koşullarda çalışmak gerekebilir, bazı işlemler açık havada ve zaman zaman elverişsiz hava şartlarında yapılır. Ekim ve gübreleme sezonlarında iş yoğunluğu ve çalışma saatleri artabilir, acil arıza müdahaleleri için mesai saatleri dışında da çalışma gerekebilir.\\n\\nBu meslekte çalışanlar daha çok makine, alet ve yedek parçalarla ilgilidir; çiftçiler, işletme sahipleri, satış-servis yetkilileri ve diğer teknik personelle sık sık iletişim kurarlar.\"",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi, tarım makineleri ile ilgili alan/dallarda eğitim veren mesleki eğitim merkezlerinde ve mesleki ve teknik ortaöğretim kurumlarında çıraklık eğitimi şeklinde verilebilmektedir. Bunun yanında Halk Eğitim Merkezleri ve İŞKUR tarafından açılan mesleki eğitim kurslarında kısa süreli eğitimler de alınabilir. Meslek, pratikte ağırlıklı olarak işbaşında, usta yanında yetişme yoluyla da öğrenilebilir.",
+  "giris_kosullari": [
+   "En az ilkokul/ilköğretim mezunu olmak (meslek için gereken minimum eğitim düzeyi ilköğretimdir)",
+   "Çıraklık eğitimine girecekler için ilgili mevzuatta belirtilen yaş ve okul şartlarını taşımak ve işveren ile çıraklık sözleşmesi imzalamak",
+   "Fiziksel olarak mesleğin gerektirdiği işleri yapabilecek sağlık durumuna sahip olmak",
+   "Kurs yoluyla eğitim alacaklar için kursun belirlediği asgari yaş ve eğitim şartlarını taşımak"
+  ],
+  "sure_ve_icerik": "Çıraklık eğitimi yoluyla edinilen eğitimde süre ve içerik, ilgili mesleki eğitim merkezi programına göre değişmekte olup genel kültür dersleri ile birlikte temel mekanik işlemler, ekim-dikim makineleri bakımı, ayarları ve kullanımı, gübreleme makineleri bakımı, ayarları ve kullanımı gibi meslek dersleri ve işyerinde uygulamalı eğitimden oluşur. Kurs yoluyla alınan eğitimler ise genellikle birkaç haftadan birkaç aya kadar sürebilen, uygulamalı atölye çalışmalarını içeren programlardır. Mesleğe işbaşında usta yanında çalışarak da girilebilir; bu durumda eğitim süresi kişinin öğrenme hızına ve işyerindeki iş yüküne göre değişir.",
+  "belge": "Çıraklık eğitimini tamamlayanlara kalfalık, ardından ustalık belgesi; Halk Eğitim Merkezleri veya İŞKUR kursunu tamamlayanlara ise kurs bitirme/katılım belgesi verilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, mevcut olduğu takdirde istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "\"Bu meslek mensupları; tarım makineleri satış ve servis bayilerinde, ekim-dikim ve gübreleme makinesi üreten fabrikaların bakım-onarım birimlerinde, tarım kooperatiflerinde, tarım işletmelerinde, ziraat odalarına bağlı tesislerde ve kamuya ait tarım işletmelerinde çalışabilirler. Ayrıca kendi bakım-onarım atölyesini açarak serbest çalışabilirler. Türkiye'de tarımsal mekanizasyonun yaygınlaşması ve makine parkının büyümesiyle bu alanda nitelikli bakım-onarım personeline duyulan ihtiyaç sürmektedir.\"",
+ "gorevler": [
+  "Temel mekanik işlemlerini yapar.",
+  "Ekim dikim makinelerinin bakımını yapar.",
+  "Ekim dikim makinelerinin bakımını yapar.",
+  "Ekim dikim makinelerinin ayarlarını yapar ve kullanır.",
+  "Ekim dikim makinelerinin ayarlarını yapar ve kullanır.",
+  "Gübreleme makinelerinin bakımını yapar.",
+  "Gübreleme makinelerinin ayarlarını yapar ve kullanır.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "kazanc": {
+  "egitim_suresince": "Çıraklık eğitimi kapsamında işletmelerde eğitim gören öğrencilere, 3308 sayılı Mesleki Eğitim Kanunu hükümleri doğrultusunda asgari ücretin belirli bir oranında ücret ödenir ve iş kazası ile meslek hastalığı sigorta primleri devletçe karşılanır. İşbaşında usta yanında yetişenlerin kazancı ise işyeri ile yapılan anlaşmaya göre değişir.",
+  "egitim_sonrasi": [
+   "Yeni mesleğe başlayanların kazancı genellikle asgari ücret düzeyindedir.",
+   "Kamu kurumlarında çalışanlar, kadroları işçi veya memur statüsünde olup olmamasına göre ilgili toplu iş sözleşmesi hükümlerine veya 657 sayılı Devlet Memurları Kanunu'na tabi olarak ücret alırlar.",
+   "Özel sektörde çalışanların kazancı; işyerinin büyüklüğü, kişinin tecrübesi, bilgi ve becerisi ile sektördeki ücret düzeyine göre değişebilir.",
+   "Kendi işyerini açan ve işini büyüten kişiler daha yüksek gelir elde edebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Çıraklık eğitimini tamamlayarak kalfalık ve ardından ustalık belgesi alanlar, isterlerse fark derslerini tamamlayarak meslek lisesi diploması alabilir ve ardından mesleğin devamı niteliğindeki ön lisans/lisans programlarına yönelebilirler. Ayrıca çeşitli kurslara ve seminerlere katılarak hidrolik, pnömatik ve elektronik kontrol sistemleri gibi konularda bilgi ve becerilerini geliştirebilirler.",
+  "is_hayatinda": "Deneyim kazandıkça usta, servis şefi veya atölye sorumlusu gibi pozisyonlara yükselebilirler. Mesleki bilgi ve tecrübesini geliştirenler bayi/servis yetkilisi olabilir veya kendi bakım-onarım işyerini açarak bağımsız çalışabilirler."
+ },
+ "benzer_meslekler": [
+  "Tarım Alet ve Makineleri Bakım-Onarımcısı",
+  "Biçerdöver Tamircisi",
+  "Bitki Bakım ve Koruma Makineleri Bakım-Onarımcısı",
+  "Kendi Yürür Özel Tarım Makineleri Bakım ve Onarımcısı",
+  "İş Makineleri Tamircisi",
+  "Makine Bakım ve Onarımcısı"
+ ],
+ "ek_bilgiler": "\"Bu meslekte iş yoğunluğu, ekim ve gübreleme mevsimlerine göre artış gösterebilir; bu nedenle bazı dönemlerde çalışma saatleri uzayabilir. Tarımsal mekanizasyonun artması, bu meslekte nitelikli iş gücüne olan talebi destekleyen bir etken olarak değerlendirilebilir.\"",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T03:04:43",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6368
+  }
+ }
+}

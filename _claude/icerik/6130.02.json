@@ -1,0 +1,73 @@
+{
+ "arac_gerec": [
+  "Traktör ve koşum takımları",
+  "Pulluk, tırmık, kültivatör gibi toprak işleme aletleri",
+  "Bel, kürek, çapa, tırpan",
+  "Tohum, fide ve gübre (kimyasal/organik)",
+  "Sulama ekipmanları (hortum, motopomp, sulama kanalları)",
+  "Hasat araçları (orak, biçer, taşıma römorku)",
+  "Hayvan bakım malzemeleri (yem, su kapları, tımar fırçası, ip/zincir)",
+  "Ahır, ağıl ve kümes temizlik ekipmanları",
+  "Basit onarım el aletleri (çekiç, pense, anahtar takımı)",
+  "Koruyucu giysi, eldiven ve çizme",
+  "Depolama ve taşıma kapları (çuval, kasa, sandık)"
+ ],
+ "genel_ozellikler": [
+  "Fiziksel olarak güçlü ve dayanıklı,",
+  "Açık havada ve zorlu arazi şartlarında çalışmaya istekli,",
+  "Bitki ve hayvan yetiştirmeye ilgi duyan,",
+  "El becerisine sahip,",
+  "Dikkatli ve sorumluluk sahibi,",
+  "Basit tarım araç ve makinelerini kullanabilen,",
+  "Takım çalışmasına uyumlu,",
+  "Sabırlı ve düzenli"
+ ],
+ "calisma_ortami": "Çiftlik İşçisi (Genel), çalışmalarını büyük ölçüde açık arazide (tarla, bahçe, otlak) ve kısmen kapalı mekanlarda (ahır, ağıl, kümes, ambar) sürdürür. İş, hava koşullarına bağlı olarak değişen fiziksel güç gereksinimi, toz, gübre ve hayvan kokusu, güneş, soğuk veya yağış gibi dış ortam koşullarına maruz kalma ile iş makinesi ve hayvanlarla temas gibi riskler içerir.\n\nÇalışma saatleri mevsime, ekim-dikim ve hasat dönemlerine göre değişkenlik gösterebilir; tarımsal faaliyetin yoğunlaştığı dönemlerde erken başlangıç ve uzun çalışma saatleri söz konusu olabilir. Meslek elemanı, çiftlik sahibi veya işletme yöneticisi, diğer çiftlik işçileri, zaman zaman veteriner ve ziraat teknisyenleri ile iş birliği içinde çalışır.",
+ "gorevler": [
+  "Toprağı koşumlu ve motorlu çeşitli ziraat makinelerini kullanarak sürer, gübreler, tırmıklar, tohumları serper, meyve ağaçları diker, toprağı sular ve ürün yetiştirir,",
+  "Tarla, sebze ve meyve bahçelerinde ve diğer yetiştirme alanlarında gerekli işleri yapar,",
+  "Hasat ve harmanlama çalışmalarına katılır,",
+  "Çiftlik hayvanlarının üretilmesi, yetiştirilmesi, terbiyesi ve bakımını ve bunlarla ilgili diğer yardımcı işleri yapar,",
+  "Çeşitli çiftlik teçhizatını kullanır,",
+  "Çiftlik yapılarını, çitleri, makineleri ve diğer teçhizatın bakımını ve tamirini yapar,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Mesleğin örgün bir eğitim programı veya diplomaya dayalı yetiştirme sistemi bulunmamaktadır. Bilgi ve beceriler genellikle çiftlikte çalışarak, işbaşında deneyimli işçi veya işveren gözetiminde kazanılır. Halk Eğitim Merkezleri ile İŞKUR'un açtığı tarım ve hayvancılıkla ilgili kısa süreli mesleki eğitim kursları da beceri kazandırmada destekleyici olabilir.",
+  "giris_kosullari": [
+   "İlköğretim mezunu olmak (sözlükte belirtilen minimum eğitim düzeyi)",
+   "Fiziksel olarak açık havada ve ağır işlerde çalışmaya uygun sağlık durumuna sahip olmak",
+   "Belirli bir yaş sınırının altında çalıştırılma iş kanunları çerçevesinde sınırlıdır; işe alım koşulları işverenin belirlediği şartlara göre değişir"
+  ],
+  "sure_ve_icerik": "Mesleğe özgü belirli bir süresi ve müfredatı olan resmi bir eğitim programı bulunmamaktadır. Bilgi ve beceriler çoğunlukla işe başlandıktan sonra, çiftlikte deneyimli işçi veya işveren gözetiminde uygulamalı olarak öğrenilir. İsteyenler, tarım, hayvancılık, sulama, gübreleme ve zirai mücadele gibi konularda açılan kısa süreli kurslara da katılabilir.",
+  "belge": "Mesleğe giriş için zorunlu bir diploma veya yeterlilik belgesi bulunmamaktadır. Katılınan kurslardan katılım veya başarı belgesi alınabilir; Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Çiftlik İşçisi (Genel), özel çiftliklerde, bitkisel ve hayvansal üretim yapan tarım işletmelerinde, büyük tarla ve bahçe işletmelerinde, tarımsal kooperatiflere bağlı üretim alanlarında çalışabilir. Genellikle mevsimlik veya sürekli işçi statüsünde istihdam edilir; tarımsal üretimin yoğun olduğu dönemlerde mevsimlik işçi talebi artabilir. Tecrübe ve olanak bulunması halinde kendi arazi ve hayvanlarıyla kendi hesabına çalışma imkânı da bulunmaktadır.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğe özgü örgün bir eğitim dönemi bulunmadığından bu aşamaya ilişkin bir eğitim ücreti söz konusu değildir; kişi genellikle doğrudan çalışmaya başlayarak kazanç elde eder.",
+  "egitim_sonrasi": [
+   "İşe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Kazanç; işletmenin büyüklüğüne, çalışanın deneyimine ve yapılan işin niteliğine göre değişebilir.",
+   "Mevsimlik veya geçici işçi olarak çalışıldığında kazanç, çalışılan gün sayısına göre belirlenir.",
+   "Kamuya bağlı tarım işletmelerinde işçi statüsünde çalışanlar, tabi oldukları toplu iş sözleşmesi hükümlerine göre ücret alır."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğe özgü resmi bir eğitim basamağı veya diploma süreci bulunmamaktadır. İsteyenler Halk Eğitim Merkezleri veya İŞKUR'un açtığı tarım ve hayvancılık kurslarına katılarak bilgi ve becerilerini geliştirebilir; açık öğretim yoluyla eğitim düzeyini yükselterek ilgili mesleki ve teknik eğitim programlarına veya yükseköğretime yönelebilir.",
+  "is_hayatinda": "Mesleki deneyim ve bilgi birikimi arttıkça usta işçi, ekip sorumlusu veya çiftlik nezaretçisi (kahya) gibi görevlere yükselebilir. Yeterli birikim ve olanak sağlandığında kendi çiftliğini kurarak işletme sahibi olabilir."
+ },
+ "benzer_meslekler": [
+  "Çiftçi (Pazara Yönelik)",
+  "Diğer Hayvan Yetiştiricileri ve Tarım İşçileri",
+  "Çiftlik Nezaretçisi (Kahya)"
+ ],
+ "ek_bilgiler": "Mesleğin bazı işleri (tarım makinelerinin kullanımı, büyükbaş/küçükbaş hayvanlarla çalışma) fiziksel risk taşıyabileceğinden temel iş sağlığı ve güvenliği bilgisi önemlidir. Tarımsal üretimin mevsimsel niteliği nedeniyle iş bulma ve kazanç durumu yıl içinde dönemsel dalgalanma gösterebilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T21:55:57",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5559
+  }
+ }
+}

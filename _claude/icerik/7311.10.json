@@ -1,0 +1,75 @@
+{
+ "gorevler": [
+  "Belirli zamanlarda saatlerin bulunduğu yerleri ziyaret eder ve bunların normal şekilde çalışıp çalışmadığını kontrol eder.",
+  "Kontrol sonucunda tespit ettiği ayar bozukluklarını ve arızaları gidermek için çarkları, kılavuzları, konik dişlileri ve diğer parçaları söker.",
+  "Arızalı kısımları tamir eder.",
+  "Tamiri imkânsız olan parçaları yenileriyle değiştirir ve parçaları tekrar yerlerine takar.",
+  "Takılan parçaların çalışma ayarlarını yapar ve kontrol ederek teslim eder.",
+  "Belirli zamanlarda saatleri temizler ve yağlar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "arac_gerec": [
+  "Tornavida takımları",
+  "Cımbız",
+  "Pense",
+  "Kargaburun",
+  "Yan keski",
+  "Büyüteç (lup)",
+  "Mercek",
+  "Saat temizleme sıvıları ve fırçaları",
+  "Sıvı madeni yağ",
+  "Çeşitli ölçme aletleri",
+  "Zımba takımları",
+  "Yedek çark, dişli ve kılavuz parçaları",
+  "Küçük çekiç"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve sabırlı,",
+  "El ve göz koordinasyonu iyi,",
+  "Ayrıntıları algılayabilen,",
+  "Mekanik yeteneğe sahip,",
+  "Sorumluluk sahibi,",
+  "Düzenli ve sistemli çalışabilen,"
+ ],
+ "calisma_ortami": "Zaman saatleri bakım ve tamir işçisi, genellikle kendine ait veya bağlı olduğu atölye ortamında, oturarak ve hassasiyet gerektiren küçük parçalarla uzun süre dikkatini vererek çalışır. Saatlerin kurulu olduğu fabrika, kurum veya işyerlerini belirli aralıklarla ziyaret ederek yerinde kontrol ve bakım da yapabilir; bu durumda çalışma ortamı saha koşullarına göre değişebilir.\n\nİş genellikle tek başına yürütülür; müşteriler, saatlerin bulunduğu kurumların görevlileri ve yedek parça tedarikçileriyle iletişim kurulur. Çalışma saatleri genellikle normal mesai saatleridir, ancak yerinde bakım gerektiren durumlarda bu saatler değişebilir. Küçük parçalarla çalışma göz ve bel yorgunluğuna yol açabilir.",
+ "egitim": {
+  "verildigi_yerler": "Zaman saatleri (kart saatleri, kronometreler vb.) bakım ve tamiri alanında ayrı, örgün bir mesleki eğitim programı bulunmamaktadır. Meslek bilgi ve becerileri genellikle saat tamirciliği ve hassas alet tamirciliği ile ilgili atölyelerde ustanın yanında işbaşında öğrenilir; ayrıca Halk Eğitim Merkezleri ve İŞKUR tarafından açılan mesleki eğitim kurslarından da yararlanılabilir.",
+  "giris_kosullari": [
+   "Okuma yazma bilmek ve mesleğe ilgi duymak",
+   "El becerisine ve mekanik yeteneğe sahip olmak",
+   "Sağlık durumunun ayrıntılı ve dikkat gerektiren işleri yapmaya uygun olması"
+  ],
+  "sure_ve_icerik": "Meslekte eğitimin süresi ve içeriği standart bir programla belirlenmemiştir; genellikle bir ustanın yanında çalışarak zaman içinde kazanılan beceriye bağlıdır. İlgili yakın alanlarda (örneğin saat tamirciliği) mesleki eğitim merkezlerinde verilen çıraklık eğitimlerinden veya kısa süreli mesleki kurslardan da yararlanılabilir. Eğitim içeriği; saatlerin mekanik parçalarının sökülmesi, arıza tespiti, parça değişimi, temizlik, yağlama ve ayar işlemlerini kapsar.",
+  "belge": "Bu meslek için standart olarak tanımlanmış örgün bir diploma veya sertifika bulunmamaktadır. Yakın alanda çıraklık eğitimi alanlara kalfalık/ustalık belgesi, kurs ile eğitim alanlara ise kurs bitirme belgesi verilebilir. Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Zaman saatleri bakım ve tamir işçileri; fabrika, kurum ve işyerlerinde kullanılan kart saatleri (personel giriş-çıkış takip sistemleri), duvar/masa/pano saatleri ve kronometreler gibi hassas zaman ölçüm aletlerinin bakım ve onarımını üstlenen küçük atölyelerde, saat tamir işletmelerinde veya bu cihazları yoğun kullanan kurumların teknik servislerinde çalışabilirler. Elektronik ve dijital zaman takip sistemlerinin yaygınlaşması nedeniyle mekanik zaman saatlerine olan talep azalmakta, bu durum meslekteki istihdam alanını ve iş bulma olanaklarını sınırlamaktadır.",
+ "kazanc": {
+  "egitim_suresince": "Bu meslekte standart bir çıraklık veya mesleki eğitim programı tanımlanmadığından, işbaşında eğitim alanlar genellikle çalıştıkları işyerinin ödeme politikasına göre, deneyim kazanırken düşük düzeyde bir ücret alabilir.",
+  "egitim_sonrasi": [
+   "Kazanç; çalışılan işyerinin büyüklüğüne, kişinin deneyim ve ustalık düzeyine, bağımsız çalışıp çalışmadığına göre değişir.",
+   "Mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Kendi işyerini açanların geliri işin hacmine, bulunduğu konuma ve müşteri potansiyeline göre değişkenlik gösterir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Meslekte örgün bir ilerleme basamağı (ortaokul-lise-yükseköğretim) standart olarak tanımlanmamıştır. Kişiler, saat tamirciliği ve hassas alet tamirciliği gibi yakın alanlardaki kurs ve eğitimlere katılarak bilgi ve becerilerini geliştirebilir.",
+  "is_hayatinda": "Deneyim kazandıkça daha karmaşık arızaları çözebilen usta düzeyine ulaşabilir, bağımsız işyeri açabilir veya kurumların teknik servis biriminde sorumlu pozisyonlara yükselebilir."
+ },
+ "benzer_meslekler": [
+  "Saat Tamircisi",
+  "Sayaç Tamir İşçisi",
+  "Tartı Aletleri Bakım ve Tamir İşçisi",
+  "Diğer Hassas ve Dakik Aletler, Saat İmalat İşçileri ve Tamircileri",
+  "Hassas ve Dakik Aletler İmalat İşçisi ve Tamircisi",
+  "Elektronik Su Sayaç Tamir İşçisi"
+ ],
+ "ek_bilgiler": "Elektronik ve dijital zaman takip sistemlerinin yaygınlaşması nedeniyle mekanik zaman saatlerine duyulan ihtiyaç azalmakta, bu durum meslekteki istihdam olanaklarını sınırlayabilmektedir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T03:15:41",
+  "usage": {
+   "input_tokens": 4,
+   "output_tokens": 6877
+  }
+ }
+}

@@ -1,0 +1,75 @@
+{
+ "arac_gerec": [
+  "Cilt tezyinat (yaldız) presi makinesi",
+  "Metal harf ve desen/unvan kalıpları",
+  "Makinenin ısıtma elemanı ve termostat düzeni",
+  "Yaldız/folyo şeridi ve makarası",
+  "Otomatik germe makarası",
+  "Mil ve kılavuz sistemleri",
+  "Otomatik besleme ünitesi",
+  "Kitap kapakları (bez, deri, karton vb. malzeme)",
+  "Kumpas ve ölçüm aletleri",
+  "Koruyucu eldiven",
+  "Makine bakım ve temizlik malzemeleri",
+  "Basınç ve sıcaklık ayar düğmeleri"
+ ],
+ "genel_ozellikler": [
+  "El ve göz koordinasyonuna sahip,",
+  "Dikkatli ve sabırlı,",
+  "El becerisine sahip,",
+  "Şekil ve desen algısı gelişmiş,",
+  "Sıcak yüzeylerle çalışırken tedbirli ve iş güvenliği kurallarına uyan,",
+  "Makine ve mekanik aletlere ilgili,",
+  "Düzenli ve temiz çalışan,",
+  "Başkaları ile işbirliği içinde çalışabilen"
+ ],
+ "calisma_ortami": "Cilt tezyinatçısı (makine ile), matbaa ve cilt atölyelerinde kapalı ortamda çalışır. Çalıştığı makinenin ısıtma elemanı nedeniyle ortam sıcak olabilir; makine gürültüsü ve bazen yaldız/folyo işleminden kaynaklanan hafif koku söz konusu olabilir. Genellikle ayakta ve tekrarlı el hareketleriyle çalışır, sıcak kalıp ve yüzeylere karşı dikkatli olunması gerekir.\n\nÇalışma saatleri işyerinin mesai düzenine göre belirlenir, sipariş yoğunluğuna bağlı olarak fazla çalışma gerekebilir. Diğer cilt işçileri, mürettipler, baskı operatörleri, usta ve işyeri sorumlularıyla iş birliği içinde çalışır.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin gerektirdiği minimum eğitim düzeyi ilköğretim olup, bu mesleğe özgü ayrı bir mesleki ve teknik ortaöğretim alanı/dalı genel olarak bulunmamaktadır. Eğitim ağırlıklı olarak matbaa ve ciltevi işletmelerinde işbaşında usta yanında yetişme yoluyla, ayrıca Halk Eğitim Merkezleri ile İŞKUR'un açtığı mesleki eğitim kurslarında ve mesleki eğitim merkezlerinin matbaacılık/ciltleme ile ilgili alan ve derslerinde verilmektedir.",
+  "giris_kosullari": [
+   "En az ilköğretim/ortaokul mezunu olmak",
+   "Çıraklık eğitimi yoluyla girişte 14 yaşını doldurmuş olmak",
+   "Mesleğin öğrenimine ve uygulanmasına sağlık durumunun uygun olması (gerektiğinde sağlık raporu ile belgelenir)",
+   "Mesleki eğitim merkezi yoluyla eğitim alınacaksa bir işyeri bulup işveren ile eğitim/çıraklık sözleşmesi imzalamak"
+  ],
+  "sure_ve_icerik": "Mesleki eğitim merkezi yoluyla eğitim alınması durumunda süre ve içerik ilgili alanın çıraklık eğitimi mevzuatına göre belirlenir; eğitim haftanın bir bölümünde mesleki eğitim merkezinde teorik ders, kalan günlerde işyerinde usta öğretici gözetiminde uygulamalı çalışma şeklinde yürütülür. İşbaşında usta yanında yetişme yoluyla girenlerde ise süre kişinin öğrenme hızına ve işletmenin eğitim imkanlarına göre değişir; temel makine kullanımı ve kalıp bağlama işlemleri genellikle kısa sürede, ustalaşma ise daha uzun bir süreçte kazanılır.",
+  "belge": "Mesleki eğitim merkezi yoluyla eğitim alanlara kalfalık ve ardından ustalık belgesi verilir. Kurs yoluyla eğitim alanlara kurs bitirme/katılım belgesi verilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, bu alanda düzenlenmişse istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Cilt tezyinatçıları (makine ile) matbaalarda, ciltevlerinde, basım ve yayınevlerinin ciltleme/bitirme bölümlerinde, defter, ajanda, diploma kabı ve benzeri ürünlerin üretildiği işletmelerde çalışabilirler. Ayrıca ambalaj ve kutu üretimi yapan, yaldız/desen baskı işlemi gerektiren işletmelerde de istihdam olanağı bulunur. El işi ciltlemenin giderek azalıp makineli üretimin yaygınlaşmasıyla bu makineleri kullanabilen elemanlara ihtiyaç duyulmaktadır; bununla birlikte basılı kitap ve kağıt ürünlerindeki genel sektörel değişimler, zaman içinde istihdam hacmini etkileyebilir.",
+ "gorevler": [
+  "Metal harf veya kalıbı makineye bağlayıp kalıbın ısıtma elemanını açar,",
+  "Şerit sarılı makarayı mil üzerine sabitleyip şeridi makinenin kılavuzları içinden ve kalıbın altından otomatik germe makarasından geçirir,",
+  "Kitap kabını tezyin etmek için makineyi çalıştırıp biten parçayı çıkarır,",
+  "Otomatik beslemeli makineyi kullanabilir,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "kazanc": {
+  "egitim_suresince": "Mesleki eğitim merkezi veya çıraklık eğitimi yoluyla eğitim görenlere, 3308 sayılı Mesleki Eğitim Kanunu çerçevesinde asgari ücretin net tutarının belirli bir oranında ücret ödenir; bu süreçte iş kazası ve meslek hastalığı sigortası devletçe karşılanır. İşbaşında usta yanında yetişenlerin ücreti işveren ile yapılan anlaşmaya göre belirlenir ve genellikle asgari ücret düzeyindedir.",
+  "egitim_sonrasi": [
+   "Özel sektörde çalışanların kazancı; işyerinin büyüklüğü, kişinin deneyimi, becerisi ve sektörün genel ücret düzeyine göre değişir, yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Kamu kurumlarına bağlı basımevlerinde istihdam edilenler, memur statüsünde iseler 657 sayılı Devlet Memurları Kanunu'na, işçi statüsünde iseler ilgili toplu iş sözleşmesi hükümlerine göre ücret alır."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleki eğitim merkezinde kalfalık eğitiminin ardından ustalık eğitimine devam edilebilir. Ustalık belgesi alanlar, gerekli diğer şartları da sağlamaları durumunda usta öğreticilik yapabilir.",
+  "is_hayatinda": "Deneyim kazanan cilt tezyinatçıları (makine ile) usta, ustabaşı veya cilt/bitirme bölümü sorumlusu olarak görev alabilir; birikim ve sermaye oluşturduklarında kendi ciltevi veya matbaa işletmesini açabilirler."
+ },
+ "benzer_meslekler": [
+  "Ciltçi - Mücellit (Elle)",
+  "Diğer Ciltçiler ve İlgili İşçiler",
+  "Süsleyici (Kitap) (Elle)",
+  "Spiral Ciltleme Operatörü/Ciltçi (Mücellit)",
+  "Kapak Takma Makinesi Operatörü (Ciltcilik)",
+  "Baş Mücellit",
+  "Folyo Uygulamacısı"
+ ],
+ "ek_bilgiler": "Bu meslekte kullanılan presin ısıtma elemanı nedeniyle sıcak yüzey ve kalıplarla çalışılır; koruyucu eldiven kullanımı ve iş güvenliği kurallarına uyum önem taşır. Mesleğe özgü, yaygın ve ayrı bir ortaöğretim programı bulunmadığından, bu meslek genellikle işbaşında usta yanında veya kısa süreli mesleki kurslarla öğrenilmektedir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T05:45:55",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6250
+  }
+ }
+}

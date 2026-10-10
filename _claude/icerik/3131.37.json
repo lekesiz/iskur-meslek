@@ -1,0 +1,74 @@
+{
+ "arac_gerec": [
+  "Isı değiştiriciler (eşanjörler)",
+  "Pompalar ve vanalar",
+  "Boru hatları ve bağlantı elemanları",
+  "Basınç ve sıcaklık ölçüm cihazları (manometre, termometre)",
+  "Debimetreler ve diğer ölçüm aletleri",
+  "Elektrik panoları ve kontrol/otomasyon sistemleri",
+  "Yağlama ve soğutma ekipmanları",
+  "Temel el aletleri (anahtar takımları, pense, tornavida, çekiç vb.)",
+  "Kaldırma ve taşıma ekipmanları (vinç, transpalet, el arabası vb.)",
+  "Gaz ve kaçak dedektörleri",
+  "Telsiz/haberleşme cihazları",
+  "Yangın söndürme ekipmanları",
+  "Kişisel koruyucu donanım (baret, koruyucu gözlük, eldiven, iş elbisesi, çelik burunlu ayakkabı, kulaklık, gerektiğinde gaz maskesi)"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve tedbirli,",
+  "Sorumluluk sahibi,",
+  "Fiziksel olarak dayanıklı,",
+  "Takım çalışmasına uyumlu,",
+  "Hızlı ve doğru karar verebilen,",
+  "El becerisine sahip,",
+  "Makine ve ekipmanlara ilgili,",
+  "Acil ve stresli durumlarda soğukkanlı davranabilen,"
+ ],
+ "calisma_ortami": "Atık Isıdan Enerji Üretim Tesisi Saha Elemanları, tesisin açık ve kapalı sahalarında (ısı değiştirici üniteleri, boru hatları, pompa ve vana istasyonları, kazan/enerji dönüşüm bölümleri vb.) çalışırlar. Çalışma ortamında yüksek sıcaklık, gürültü, buhar, zaman zaman koku ve kaçak gaz riski bulunabilir; yüksekte çalışma, hareketli/dönen ekipmanlarla birlikte çalışma gibi riskler mevcuttur. Bu nedenle iş sağlığı ve güvenliği kurallarına, kişisel koruyucu donanım kullanımına büyük önem verilir.\n\nSaha elemanları genellikle vardiya sistemiyle (gündüz/gece, hafta sonu ve resmî tatiller dâhil) çalışırlar. Görevleri sırasında kumanda operatörleri, bakım ekipleri, mühendisler ve vardiya amirleriyle sürekli iletişim ve koordinasyon içindedirler.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğe özgü, bağımsız bir mesleki ve teknik eğitim programı bulunmamaktadır. Meslek elemanları genellikle enerji, elektrik-elektronik, makine, metal teknolojisi veya kimya teknolojisi gibi ilgili alanlardan mezun olarak ya da işletmelerde usta yanında/işbaşı eğitimi yoluyla yetişmektedir. Ayrıca Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kursları da mesleki gelişime katkı sağlayabilir.",
+  "giris_kosullari": [
+   "Ortaöğretimi (lise ve dengi okul) tamamlamış olmak,",
+   "Tercihen enerji, elektrik-elektronik, makine, metalurji veya kimya teknolojisi ile ilgili alanlardan mezun olmak,",
+   "İşletmelerin belirlediği sağlık ve fiziksel uygunluk şartlarını taşımak."
+  ],
+  "sure_ve_icerik": "Mesleğe özgü standart bir eğitim süresi ve müfredat bulunmamaktadır. İlgili mesleki ve teknik ortaöğretim programlarının eğitim süresi 4 yıldır; teorik dersler okulda, uygulamalı eğitim ise atölye ve işletme ortamlarında verilir. Mesleğe başlayanlar ayrıca işletme bünyesinde iş sağlığı ve güvenliği, tesis işleyişi ve ekipman kullanımına yönelik işbaşı eğitimi alırlar.",
+  "belge": "Mezun olunan ortaöğretim programına göre diploma, katılınan mesleki eğitim kurslarına göre ise kurs bitirme/katılım belgesi verilir. İlgili alanlarda alınabilecek Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Atık Isıdan Enerji Üretim Tesisi Saha Elemanları; endüstriyel atık ısıyı değerlendirerek elektrik veya buhar üreten enerji tesislerinde, çimento, demir-çelik, cam, kimya gibi atık ısı potansiyeli yüksek sanayi kuruluşlarının enerji geri kazanım ünitelerinde ve belediyeler ya da özel sektöre bağlı atık ısıdan enerji üretim tesislerinde istihdam edilmektedir. Enerji verimliliği ve yenilenebilir/alternatif enerji politikalarının desteklenmesi bu tür tesislerin sayısını artırmakta, bu da meslek elemanlarına yönelik talebi olumlu etkilemektedir. İş bulma olanakları, bu tesislerin yoğunlaştığı sanayi bölgelerinde daha fazladır.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğe özgü tanımlı bir çıraklık/stajyerlik düzeni bulunmamakla birlikte, işletmelerde 3308 sayılı Mesleki Eğitim Kanunu kapsamında mesleki eğitim gören öğrencilere asgari ücretin belirli bir oranında ücret ödenir; bu dönemde iş kazası ve meslek hastalığı sigortası devletçe karşılanır.",
+  "egitim_sonrasi": [
+   "İlk işe başlangıçta ücret genellikle asgari ücret düzeyinde olur.",
+   "Deneyim, bilgi-beceri düzeyi ve işletmenin büyüklüğüne bağlı olarak ücret artabilir.",
+   "Kamuya bağlı tesislerde çalışanlar 657 sayılı Devlet Memurları Kanunu'na veya işçi statüsünde ilgili toplu iş sözleşmesi hükümlerine tabi olarak ücret alır; özel sektörde ücret işveren ile çalışan arasında karşılıklı olarak belirlenir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Bu meslekte doğrudan ilerlemeyi sağlayan, tanımlı bir ön lisans/lisans programı bulunmamaktadır. İlgili meslek lisesi alanlarından mezun olanlar, YKS Kılavuzunda yer alan enerji sistemleri, makine, elektrik-elektronik gibi ilgili yükseköğretim programlarına yönelerek bilgi ve becerilerini geliştirebilirler.",
+  "is_hayatinda": "Deneyim kazanan saha elemanları; saha sorumlusu, bakım sorumlusu, vardiya amiri gibi görevlere yükselebilir, ilave eğitimler alarak kumanda operatörlüğü gibi görevlere geçebilirler."
+ },
+ "benzer_meslekler": [
+  "Atık Isıdan Enerji Üretim Tesisi Kumanda Operatörü",
+  "Termik Santral Saha Operatörü",
+  "Enerji Üretim Tesisleri İşletme ve Bakım Onarımcısı",
+  "Diğer Güç Santrali Teçhizat Operatörleri",
+  "Yenilenebilir Enerji Teknolojileri Teknisyeni"
+ ],
+ "ek_bilgiler": "Bu meslekte çalışma ortamındaki yüksek sıcaklık, basınç ve hareketli/dönen ekipmanlar nedeniyle iş sağlığı ve güvenliği açısından dikkat gerektiren işler söz konusu olabilir; bu nedenle işe alımlarda periyodik sağlık muayenesi ve belirli fiziksel uygunluk şartları aranabilir.",
+ "gorevler": [
+  "İş organizasyonu yapar.",
+  "Tesis sahasının rutin kontrollerini yapar.",
+  "Tesis sahasında acil müdahalelerde bulunur.",
+  "Tesis sahasının bakım uygulamalarını yürütür.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T10:54:48",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6685
+  }
+ }
+}

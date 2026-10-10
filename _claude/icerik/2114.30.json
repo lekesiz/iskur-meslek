@@ -1,0 +1,75 @@
+{
+ "arac_gerec": [
+  "Coğrafi Bilgi Sistemleri (CBS/GIS) yazılımları",
+  "Afet risk modelleme ve senaryo yazılımları",
+  "Erken uyarı sistemi donanımları (sismograf, sensörler, alarm sistemleri)",
+  "Uydu görüntüleme ve uzaktan algılama sistemleri",
+  "Meteorolojik ve hidrolojik veri istasyonları",
+  "Sayısal harita ve coğrafi veri tabanları",
+  "Telsiz, uydu telefonu gibi acil durum iletişim cihazları",
+  "GPS ve saha ölçüm ekipmanları",
+  "İnsansız hava aracı (İHA/drone)",
+  "Afet yönetim bilgi sistemleri ve kriz masası yazılımları",
+  "Bilgisayar ve ofis yazılımları",
+  "Raporlama ve sunum araçları"
+ ],
+ "genel_ozellikler": [
+  "Fen bilimlerine ve yer bilimlerine ilgili,",
+  "Analitik düşünme ve problem çözme becerisine sahip,",
+  "Kriz anında hızlı ve sağlıklı karar verebilen, soğukkanlı,",
+  "Sorumluluk sahibi ve dikkatli,",
+  "İletişim ve koordinasyon becerisi gelişmiş,",
+  "Ekip çalışmasına uyumlu,",
+  "Raporlama ve sunum becerisine sahip,",
+  "Saha çalışmasına, seyahate ve değişken çalışma koşullarına açık"
+ ],
+ "calisma_ortami": "Doğa Kaynaklı Afetler ve Afet Yönetimi Uzmanı, görevinin bir kısmını büroda bilgisayar ortamında risk analizi, haritalama, raporlama ve planlama çalışmaları yaparak, bir kısmını ise sahada (afet bölgelerinde, risk altındaki yerleşim alanlarında, kurum ve kuruluşlarda) yürütür. Saha çalışmaları sırasında zorlu arazi koşulları, olumsuz hava şartları ve afet bölgelerine özgü riskler ile karşılaşabilir; bu nedenle iş sağlığı ve güvenliği kurallarına özellikle dikkat etmesi gerekir.\n\nÇalışma saatleri normal şartlarda belirli bir düzen içinde olsa da, afet veya kriz anlarında düzensiz ve yoğun çalışma gerekebilir; gerektiğinde gece-gündüz, tatil günü ayrımı olmaksızın görev yapılabilir. Çalışma sırasında AFAD, belediyeler, kamu kurumları, sivil toplum kuruluşları, yerel halk, teknik ekipler ve diğer uzmanlarla sürekli iletişim ve koordinasyon içinde bulunur.",
+ "egitim": {
+  "verildigi_yerler": "Türkiye'de bu meslek için doğrudan \"Afet Yönetimi Uzmanı\" adıyla yaygın, standartlaşmış bir lisans programı bulunmamaktadır. Bu alanda çalışanlar genellikle üniversitelerin Jeoloji Mühendisliği, Jeofizik Mühendisliği, Çevre Mühendisliği, İnşaat Mühendisliği, Coğrafya veya bazı üniversitelerde yer alan Afet Yönetimi/Afet ve Acil Durum Yönetimi lisans ya da önlisans programlarından mezun olduktan sonra, afet yönetimi alanında uzmanlaşarak bu görevi üstlenirler.",
+  "giris_kosullari": [
+   "Lise veya dengi okul mezunu olmak",
+   "YKS (Yükseköğretim Kurumları Sınavı) kılavuzunda belirtilen giriş koşullarını ve ilgili bölümün gerektirdiği puan türü/taban puanı sağlamak",
+   "Önlisans programlarından lisans programlarına geçiş için Dikey Geçiş Sınavı (DGS) koşullarını sağlamak"
+  ],
+  "sure_ve_icerik": "Tercih edilen ilgili lisans programlarının (jeoloji, jeofizik, çevre, inşaat mühendisliği, afet yönetimi vb.) eğitim süresi genellikle 4 yıldır. Eğitimde matematik, fizik, kimya gibi temel dersler ile yer bilimleri, çevre bilimleri, risk analizi, coğrafi bilgi sistemleri, afet yönetimi ve acil durum planlaması gibi alan dersleri yer alır. Lisans eğitiminin ardından afet yönetimi, kriz yönetimi veya ilgili alanlarda yüksek lisans yapılması ya da AFAD ve benzeri kurumlarca düzenlenen sertifika/eğitim programlarına katılım, bu meslekte uzmanlaşmayı destekler.",
+  "belge": "İlgili lisans programından mezuniyet sonrası diploma; ayrıca afet yönetimi alanında alınan yüksek lisans diploması veya katılım/sertifika belgeleri."
+ },
+ "calisma_alanlari": "Doğa Kaynaklı Afetler ve Afet Yönetimi Uzmanları başta Afet ve Acil Durum Yönetimi Başkanlığı (AFAD) olmak üzere; belediyeler, Çevre, Şehircilik ve İklim Değişikliği Bakanlığı ile bağlı kuruluşlar, Kızılay ve diğer sivil toplum kuruluşları, kamu ve özel sektör kuruluşlarının risk yönetimi/iş sürekliliği birimleri, sigorta ve reasürans şirketleri, danışmanlık firmaları, üniversiteler ve araştırma merkezleri, uluslararası kuruluşlar (Birleşmiş Milletler kuruluşları, uluslararası yardım örgütleri vb.) bünyesinde istihdam edilebilirler.",
+ "kazanc": {
+  "egitim_suresince": "Lisans eğitimi süresince öğrenciler Kredi ve Yurtlar Genel Müdürlüğünün sağladığı öğrenim kredisi ve yurt hizmetlerinden, ayrıca çeşitli resmi ve özel kurum/kuruluşların sunduğu burslardan yararlanabilirler.",
+  "egitim_sonrasi": [
+   "Kamu kurum ve kuruluşlarında (örneğin AFAD, belediyeler) çalışanlar 657 sayılı Devlet Memurları Kanunu'na göre maaş, ek ödeme ve tazminatlardan yararlanır.",
+   "Özel sektörde çalışanların kazancı deneyim, uzmanlık düzeyi, yabancı dil bilgisi ve çalışılan kuruluşun büyüklüğüne göre değişiklik gösterir.",
+   "Mesleğe yeni başlayanların kazancı genellikle asgari ücret düzeyinde olabilmekte, deneyim ve unvan arttıkça bu düzeyin üzerine çıkabilmektedir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mezunlar afet yönetimi, risk analizi, kriz yönetimi veya ilgili mühendislik alanlarında yüksek lisans ve doktora yaparak akademik kariyer imkânı bulabilir; üniversitelerde araştırma görevlisi, öğretim üyesi olarak çalışabilirler.",
+  "is_hayatinda": "Deneyim ve ek eğitimlerle proje koordinatörlüğü, şube müdürlüğü, daire başkanlığı gibi yönetici pozisyonlarına; özel sektörde ise kıdemli uzmanlık, danışmanlık ve yöneticilik görevlerine yükselebilirler."
+ },
+ "gorevler": [
+  "Bölgesel afet risk haritaları hazırlar ve senaryolar oluşturur,",
+  "Erken uyarı sistemlerinin kurulumu ve işletilmesi süreçlerini yönetir,",
+  "Kurumsal ve toplumsal afet hazırlık eğitimlerini koordine eder,",
+  "Afet anında lojistik ve operasyonel müdahale planlarını yürütür,",
+  "Afet sonrası iyileştirme ve zarar azaltma raporlarını hazırlar,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "benzer_meslekler": [
+  "Jeoloji Mühendisi",
+  "Jeofizik Mühendisi",
+  "Hidrojeoloji Mühendisi",
+  "Jeomorfolog",
+  "Jeoteknik Mühendisi",
+  "Çevre Jeoloji Uzmanı"
+ ],
+ "ek_bilgiler": "Bu meslek Türkiye'de henüz kendine özgü, standartlaşmış tek bir eğitim programına sahip değildir; genellikle jeoloji, jeofizik, çevre veya inşaat mühendisliği gibi temel mühendislik eğitimlerinin üzerine afet yönetimi alanında uzmanlaşan kişiler tarafından yürütülmektedir. İklim değişikliği ve kentleşmeyle birlikte afet risklerinin artması, bu alandaki uzman ihtiyacının önümüzdeki yıllarda artmasını beklenir kılmaktadır.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-07T20:56:35",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5531
+  }
+ }
+}

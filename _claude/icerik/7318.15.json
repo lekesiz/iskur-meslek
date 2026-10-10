@@ -1,0 +1,82 @@
+{
+ "arac_gerec": [
+  "Yıkama havuzu/kazanı",
+  "Buhar ventilleri ve boru hattı",
+  "Hareketli bant/konveyör sistemi",
+  "Motor ve sirkülasyon pompaları",
+  "Sıcaklık göstergesi/termometre",
+  "Sabun ve temizlik/deterjan maddeleri",
+  "Numune alma kapları",
+  "Kurutma fırını",
+  "Koruyucu eldiven, önlük ve çizme",
+  "Elyaf taşıma arabaları/sepetleri",
+  "Temizlik fırçaları ve araçları",
+  "Basit bakım-onarım el aletleri"
+ ],
+ "benzer_meslekler": [
+  "Hallaç",
+  "Elyaf Harman Takipçisi",
+  "Elyaf Kardeci",
+  "Harman Hazırlama İşçisi (Tekstil)",
+  "Harman Hallaç İşçisi (Yün)",
+  "İplik Temizleme İşçisi"
+ ],
+ "calisma_alanlari": "Elyaf yıkayıcılar; tekstil fabrikaları, iplik ve kumaş üretim tesisleri, yün ve pamuk işleme tesisleri, halı ipliği üretim atölyeleri gibi mensucat elyafının ham hâlde işlendiği işyerlerinde görev alırlar. İstihdam olanakları, tekstil sektörünün üretim hacmine, mevsimsel talebe ve işletmelerde üretim sürecinin otomasyon düzeyine bağlı olarak değişkenlik gösterebilir.",
+ "calisma_ortami": "Elyaf yıkayıcı, genellikle fabrika veya atölye ortamında, yıkama havuzları ve kazanlarının bulunduğu bölümlerde ayakta çalışır. Çalışma ortamında nem, buhar, sıcaklık, temizlik ve kimyasal madde kokuları ile makine gürültüsü bulunabilir; bu nedenle iş sağlığı ve güvenliği kurallarına, kişisel koruyucu donanım kullanımına özellikle dikkat edilmesi gerekir.\n\nİşini genellikle ekip halinde, bazen vardiyalı çalışma düzeninde yürütür. Çalışma sırasında iş arkadaşları, usta başı/vardiya amiri ve üretim sürecindeki diğer bölümlerde (kurutma, kardeleme, harman vb.) çalışan kişilerle iletişim kurar.",
+ "ek_bilgiler": "Tekstil sektöründe üretim süreçlerinin kısmen otomasyona geçmesi, bu meslekte çalışan sayısında zaman içinde azalma eğilimine yol açabilmektedir. İşlem sırasında sıcak su, buhar ve kimyasal temizlik maddeleriyle doğrudan çalışıldığından, iş sağlığı ve güvenliği kurallarına uyum büyük önem taşır. Mesleğin tehlike sınıfına ve yürütüldüğü işletmedeki risklere bağlı olarak Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir.",
+ "egitim": {
+  "belge": "Mesleğin örgün bir eğitim programı ve buna bağlı resmî diploma/sertifika süreci bulunmamaktadır. Katılınan kısa süreli kurslardan katılım belgesi alınabilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, çalışılacak işyerlerinde tercih sebebi olabilir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "Ayakta ve nemli/sıcak ortamda çalışmaya, kimyasal maddelerle temasa engel bir sağlık sorunu bulunmamak",
+   "İş sağlığı ve güvenliği açısından ilgili yaş ve sağlık koşullarını taşımak"
+  ],
+  "sure_ve_icerik": "Mesleğin standart bir eğitim süresi ve müfredatı bulunmamaktadır. İşe yeni başlayan kişi, genellikle işbaşında deneyimli bir usta veya vardiya amirinin gözetiminde belirli bir süre uygulamalı olarak yetişir. Halk Eğitim Merkezleri veya İŞKUR tarafından açılan kısa süreli mesleki eğitim kurslarında temizlik maddelerinin kullanımı, makine ve ekipman tanıtımı, iş sağlığı ve güvenliği gibi konular işlenebilir.",
+  "verildigi_yerler": "Mesleğe yönelik ayrı bir meslek lisesi alanı veya örgün mesleki eğitim programı bulunmamaktadır. Meslek elemanları büyük ölçüde işbaşında, usta-çırak ilişkisi içinde yetişir. Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kursları temel bilgi ve beceri kazandırabilir."
+ },
+ "genel_ozellikler": [
+  "Dikkatli,",
+  "Sabırlı,",
+  "Fiziksel olarak dayanıklı,",
+  "El ve kol kaslarını etkin kullanabilen,",
+  "Düzenli ve tertipli çalışabilen,",
+  "Takım çalışmasına uyumlu,",
+  "Sorumluluk sahibi,"
+ ],
+ "gorevler": [
+  "İş organizasyonu yapar",
+  "Yıkama havuzlarına veya kazanlarına belirli miktarda su alır",
+  "İlgili ventilleri açarak buhar gönderir ve suyu istenilen dereceye kadar ısıtır",
+  "Isınan suyun içine sabun ve diğer temizlik maddelerini katar",
+  "Hareketli bandı çalıştırarak veya diğer usullerle elyafın havuzlara veya kazanlara dolmasını sağlar",
+  "İlgili motor ve pompaları çalıştırarak karışımda sirkülasyon oluşturur",
+  "Yıkama işlemine nezaret eder ve göstergeleri izler",
+  "Gerektiğinde ısıyı düzenler",
+  "Yıkanan elyaftan numune alıp kontrol eder",
+  "Kontrol sonucuna göre karışıma belirli miktarlarda temizlik maddesi ilave ederek yıkama işlemini uzatır veya durdurur",
+  "Yıkamadan çıkan elyafı kurutulacağı veya başka bir işleme tabi tutulacağı yere ulaştırır",
+  "Yıkama havuzlarını veya kazanlarını temizler",
+  "Yıkanan elyafı fırınlarda kurutabilir, havuz veya kazanların bakım ve onarımını yapabilir",
+  "Mesleki gelişim faaliyetlerinde bulunur"
+ ],
+ "ilerleme": {
+  "is_hayatinda": "Deneyim kazanan elyaf yıkayıcıları; usta başılık, vardiya sorumluluğu veya kalite kontrol gibi görevlere yükselebilir. İlgili kurslara katılarak makine operatörlüğü gibi daha nitelikli görevlere geçiş yapabilirler.",
+  "mesleki_egitimde": "Mesleğin örgün bir eğitim kademesi bulunmadığından, bu alanda çalışanlar isterlerse açık öğretim yoluyla orta veya yükseköğretimlerini tamamlayabilir, tekstil teknolojisi ile ilgili mesleki eğitim programlarına veya kurslara katılarak bilgi ve becerilerini geliştirebilirler."
+ },
+ "kazanc": {
+  "egitim_suresince": "Mesleğin standart bir örgün eğitim süreci bulunmadığından, işbaşında eğitim alan kişiler genellikle çalıştıkları işletmede asgari ücret düzeyinde ücret alırlar.",
+  "egitim_sonrasi": [
+   "Meslekte yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Deneyim, kıdem ve çalışılan işletmenin büyüklüğüne bağlı olarak ücretler değişebilir; işletmede toplu iş sözleşmesi varsa buna göre belirlenir.",
+   "Kamu kuruluşlarında bu meslekte çalışanlar için 657 sayılı Kanun veya ilgili toplu iş sözleşmesi hükümleri geçerlidir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T04:34:02",
+  "usage": {
+   "input_tokens": 4,
+   "output_tokens": 8914
+  }
+ }
+}

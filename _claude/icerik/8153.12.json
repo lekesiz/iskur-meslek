@@ -1,0 +1,83 @@
+{
+ "arac_gerec": [
+  "Sanayi tipi nakış makinesi (kasnaklı/kasnaksız)",
+  "Elektronik/otomatik desenli nakış makineleri",
+  "Kasnak çeşitleri",
+  "İğne çeşitleri (kum iğnesi, astragan iğnesi, blonya iğnesi, çin iğnesi vb.)",
+  "İplik çeşitleri (metal sırma, pamuklu, sentetik vb.)",
+  "Porşömen kağıdı ve kopya/karbon kağıdı",
+  "Delici kalem ve işaretleme malzemeleri",
+  "Mezura, cetvel",
+  "Makas",
+  "Ütü",
+  "Farklı kumaş ve deri çeşitleri",
+  "Aplike ve süsleme malzemeleri",
+  "Kişisel koruyucu donanım"
+ ],
+ "genel_ozellikler": [
+  "El becerisine sahip,",
+  "Göz ve elini eşgüdümlü kullanabilen,",
+  "Renk, şekil ve desen ayrıntılarını algılayabilen,",
+  "Estetik görüşe sahip,",
+  "Dikkatli ve sabırlı,",
+  "Düzenli ve tertipli çalışabilen,",
+  "Görme sağlığı iyi olan,",
+  "Yeniliklere ve değişime açık,"
+ ],
+ "calisma_ortami": "Makine Nakışçıları genellikle tekstil ve konfeksiyon atölyeleri, hazır giyim ve ev tekstili fabrikaları ile geleneksel el sanatları/nakış atölyelerinde, kapalı mekanlarda çalışır. Çalışma ortamı sıklıkla makine gürültüsü ve kumaş tozu içerir; uzun süre oturarak, göz ve bilek üzerinde yoğunlaşan ince işçilik yapılması nedeniyle göz, bel ve el bilekleri üzerinde yorgunluk oluşabilir. İşin özelliğine göre işçi sağlığı ve iş güvenliği kurallarına, özellikle makine kullanımı ve iğne/kesici aletlere bağlı risklere dikkat edilmesi gerekir.\n\nÇalışma saatleri genellikle gündüz ve işletmenin üretim programına göre belirlenir; sipariş yoğunluğuna bağlı olarak fazla çalışma gerekebilir. Meslek elemanları çalışmalarını desen/model sorumluları, kalite kontrol personeli ve diğer üretim çalışanlarıyla eşgüdüm içinde yürütür.",
+ "egitim": {
+  "verildigi_yerler": "Makine Nakışçılığı için ülke genelinde standart bir örgün mesleki ve teknik eğitim programı bulunmamaktadır. Meslek genellikle işbaşında usta yanında yetişme yoluyla, ayrıca Halk Eğitim Merkezleri ile İŞKUR'un açtığı mesleki eğitim kurslarında kazanılır. Bazı mesleki eğitim merkezlerinde tekstil/giyim üretim teknolojileri alanı kapsamında nakış ve süsleme tekniklerine yönelik dersler verilebilir.",
+  "giris_kosullari": [
+   "Okuryazar olmak (meslek için gerekli görülen asgari eğitim düzeyi)",
+   "El becerisine ve göz-el koordinasyonuna sahip olmak",
+   "Görme sağlığının iyi olması",
+   "Desen, renk ve şekil ayrıntılarına ilgi duymak"
+  ],
+  "sure_ve_icerik": "Kurs ve işbaşı eğitimlerinin süresi veren kuruma ve öğrenilecek teknik çeşitliliğine göre değişir. Eğitimde farklı iğne ve nakış teknikleri (kum iğnesi, astragan, blonya, aplike, türk işi, maraş işi, antep işi, kadife işi, tül işi vb.), desen çizme ve kumaşa geçirme yöntemleri, makine kullanımı ile bakım-temizlik konuları işlenir. Uygulamalı eğitim, deneyimli bir usta nakışçının gözetiminde pratik çalışmayla desteklenir.",
+  "belge": "Kurs sonunda katılım veya başarı belgesi verilir. Formel bir çıraklık/kalfalık-ustalık sistemine dahil olunursa ilgili belgeler alınabilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "gorevler": [
+  "Kum iğnesi, astragan iğnesi, blonya iğnesi, çin iğnesi, aplike, beyaz iş, türk işi ve hesap işi, maraş işi, antep işi, kadife işi, çöp işi, tül işi gibi tekniğe uygun deseni tespit eder,",
+  "Desen ve tekniğe uygun kumaşı seçer,",
+  "Kumaşın ölçüsüne göre desenle uygun bir kompozisyon belirler,",
+  "Desen veya motifi porşömen kağıt üzerine çizer,",
+  "Kumaş cinsine göre desenleri çizme, delme, sayma, teyelleme, ütüleme, oyma ve kopya kağıdı gibi değişik teknikler yardımıyla kumaşa geçirir,",
+  "Uygulanacak tekniğe göre kumaşı kasnağa takar,",
+  "Seçilen iplikleri makineye takar ve gerekli ayarlarını yapar,",
+  "Makinede belirlenen motif veya deseni kumaşa işler,",
+  "Otomatik makinelerdeki hazır motif ve desenleri kumaşa işler,",
+  "Gerektiğinde yapılan işin kenar kısımlarına piko çeker,",
+  "Kumaştaki iplik artıklarını temizler,",
+  "Kullanılan makine ve ekipmanların bakım ve temizliğini yapar,",
+  "Mesleği alanındaki gelişmeleri takip eder ve uygular,",
+  "İşçi sağlığı ve iş güvenliği ile ilgili kurallara uyar."
+ ],
+ "calisma_alanlari": "Makine Nakışçıları başlıca tekstil, hazır giyim ve ev tekstili üretimi yapan fabrika ve atölyelerde, geleneksel el sanatları/nakış atölyelerinde, nikah/gelinlik ve özel dikim atölyelerinde, tente ve dekorasyon ürünleri üreten işletmelerde çalışabilir. Deneyim ve sermaye birikimiyle kendi nakış atölyesini açarak serbest çalışma imkânı da bulunmaktadır. Özellikle konfeksiyon ve ev tekstili sektörünün yoğun olduğu illerde iş bulma olanağı daha fazladır.",
+ "kazanc": {
+  "egitim_suresince": "Kurs veya işbaşında usta yanında yetişme döneminde, resmî bir çıraklık sözleşmesi bulunmuyorsa genellikle ücret ödenmez ya da işletmenin uygulamasına göre düşük düzeyde bir ücret verilebilir. Çıraklık eğitimi 3308 sayılı Mesleki Eğitim Kanunu kapsamında yürütülürse, kanunda belirlenen oranlarda ücret ödenir ve sigorta primleri devletçe karşılanır.",
+  "egitim_sonrasi": [
+   "Yeni başlayan Makine Nakışçıları genellikle asgari ücret düzeyinde çalışmaya başlar.",
+   "Deneyim, işlem hızı, teknik çeşitliliği ve iş kalitesine bağlı olarak ücret artabilir; bazı işyerlerinde parça başı veya prim usulü ödeme yapılır.",
+   "Kendi atölyesini açan ve müşteri çevresi oluşturabilen kişiler daha yüksek gelir elde edebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Meslekte standart kademeli bir sertifikasyon sistemi (çırak-kalfa-usta) genel olarak yaygın değildir; ilerleme çoğunlukla edinilen teknik çeşitliliği ve deneyimle sağlanır. Katılınan kursların ileri seviye modülleri veya ek teknik eğitimler bilgi ve beceriyi artırır.",
+  "is_hayatinda": "Deneyim kazanan Makine Nakışçıları usta nakışçı, atölye sorumlusu/formen olarak görev alabilir, desen ve model geliştirme işlerine yönelebilir veya kendi nakış atölyesini kurarak işveren konumuna geçebilir."
+ },
+ "benzer_meslekler": [
+  "Sanayi Nakışçısı",
+  "Kompleci (Hazır Giyim ve Ev Tekstili)",
+  "Model Makineci (Tekstil)/Hazır Giyim Model Makinecisi",
+  "Düz Dikiş Makineci"
+ ],
+ "ek_bilgiler": "Bu meslekte kullanılan maraş işi, antep işi, hesap işi, tül işi gibi bazı teknikler geleneksel Türk el sanatları ile yakından ilişkilidir; bu nedenle meslek, el sanatlarının korunması ve geleneksel/özel dikim ürünlerinde istihdam veya girişimcilik açısından ek bir alan sunabilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T14:11:27",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6278
+  }
+ }
+}

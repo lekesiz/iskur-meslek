@@ -1,0 +1,85 @@
+{
+ "arac_gerec": [
+  "Bilgisayar ve sunucu sistemleri",
+  "Ağ cihazları (yönlendirici, anahtarlama cihazı, güvenlik duvarı)",
+  "Saldırı tespit/önleme sistemleri (IDS/IPS)",
+  "Zafiyet tarama (vulnerability scanning) yazılımları",
+  "Sızma testi (penetrasyon testi) araçları",
+  "Günlük (log) kayıt analiz yazılımları",
+  "Denetim standartları ve kontrol listeleri (ISO/IEC 27001, COBIT vb.)",
+  "Risk analizi ve değerlendirme yazılımları",
+  "Veri şifreleme ve kimlik doğrulama sistemleri",
+  "Veri yedekleme ve depolama sistemleri",
+  "Raporlama ve doküman yönetim yazılımları",
+  "Ofis yazılımları",
+  "İnternet ve kurumsal haberleşme sistemleri"
+ ],
+ "genel_ozellikler": [
+  "Analitik düşünme ve problem çözme yeteneğine sahip,",
+  "Detaylara dikkat eden ve titiz çalışan,",
+  "Bilgi teknolojileri ve siber güvenlik konularına ilgi duyan,",
+  "Sorumluluk sahibi, dürüst ve güvenilir,",
+  "Sözlü ve yazılı iletişim becerisi gelişmiş,",
+  "Etik değerlere bağlı ve gizliliğe önem veren,",
+  "Mantık yürütme ve çözümleme yeteneği olan,",
+  "Sürekli öğrenmeye ve mesleki gelişime açık kişiler olmaları gerekir."
+ ],
+ "calisma_ortami": "Bilgi Güvenlik Denetmeni, çalışmalarının büyük bölümünü büro ortamında bilgisayar başında gerçekleştirir; denetim planlaması, bulgu analizi ve raporlama gibi işlemler bu şekilde yürütülür. Denetim faaliyetleri sırasında işletmenin sunucu odaları, veri merkezleri veya ilgili birimlerinde sahada çalışması da gerekebilir.\n\nGörevi gereği kurum içi bilgi işlem ve yönetim kadrosu, denetlenen birim çalışanları ve üst düzey yöneticilerle sürekli iletişim halindedir. Denetim takvimine bağlı olarak farklı işletmelere veya şehirlere seyahat edebilir; proje teslim tarihlerine yakın dönemlerde çalışma saatleri uzayabilir. Hassas ve gizli verilerle çalıştığından dikkat ve sorumluluk gerektiren, zaman zaman stresli bir çalışma temposu söz konusudur.",
+ "calisma_alanlari": "Bilgi Güvenlik Denetmenleri; bankacılık ve finans kuruluşları, telekomünikasyon şirketleri, kamu kurumlarının bilgi işlem ve bilgi güvenliği birimleri, enerji ve savunma sanayi gibi kritik altyapı işletmeleri ile her ölçekteki özel sektör işletmesinin BT/bilgi güvenliği departmanlarında çalışabilirler.\n\nBunun yanında, bağımsız denetim firmaları ve bilgi güvenliği/siber güvenlik danışmanlık şirketlerinde, işletmelere dışarıdan denetim hizmeti veren uzman olarak da istihdam edilebilirler. Kişisel verilerin korunması ve siber güvenlik mevzuatına uyum zorunluluklarının artması, bu alandaki iş olanaklarını genişletmektedir.",
+ "gorevler": [
+  "Çalışma esnasında kişisel iş sağlığı ve güvenliği önlemlerini alır.",
+  "Çevre koruma önlemlerinin alınmasını sağlar.",
+  "Kalite uygulamalarını yürütür.",
+  "İş organizasyonu yapar.",
+  "Denetim planını hazırlar.",
+  "Denetimin kapsamını oluşturur.",
+  "Denetim prosedürlerini tanımlar.",
+  "Denetim planını oluşturur.",
+  "Denetim faaliyetini gerçekleştirir.",
+  "Denetim raporlamasını yapar.",
+  "Bulgu takibini gerçekleştirir.",
+  "Bulguları izler.",
+  "İzlediği bulguların denetimini gerçekleştirir.",
+  "Mesleki gelişim faaliyetlerini yürütür.",
+  "Mesleki ve teknolojik yenilikleri takip eder.",
+  "Personelin eğitim almasını sağlar."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi, üniversitelerin bilgisayar mühendisliği, yazılım mühendisliği, bilgisayar bilimleri, elektrik-elektronik mühendisliği gibi bölümlerinde; bazı üniversitelerde ise bilgi güvenliği, siber güvenlik veya adli bilişim mühendisliği gibi programlarda verilmektedir.",
+  "giris_kosullari": [
+   "Lise veya dengi okul mezunu olmak",
+   "YKS (Yükseköğretim Kurumları Sınavı) kılavuzunda ilgili lisans programı için belirtilen giriş koşullarını taşımak ve yeterli puanı almak",
+   "İlgili önlisans programlarından mezun olanlar, DGS (Dikey Geçiş Sınavı) ile ilgili lisans programlarına geçiş yapabilir"
+  ],
+  "sure_ve_icerik": "Eğitim süresi, bazı üniversitelerde bir yıl yabancı dil hazırlık sınıfı dahil olmak üzere genellikle dört yıldır. Eğitim süresince; programlama, veri yapıları, bilgisayar ağları, işletim sistemleri, kriptografi, ağ ve sistem güvenliği, risk yönetimi, denetim standartları ve veritabanı yönetimi gibi mesleki dersler verilmektedir. Lisans eğitiminin yanı sıra bilgi güvenliği ve denetim alanında Halk Eğitim Merkezleri, üniversiteler veya özel kuruluşlarca düzenlenen sertifika programları ile bilgi ve beceriler güçlendirilebilir.",
+  "belge": "Eğitimi başarı ile tamamlayanlara lisans diploması verilir. Bunun yanında CISA, CISSP, ISO/IEC 27001 Baş Denetçi gibi ulusal veya uluslararası sertifikalar, mesleki yeterliliği gösteren ve istihdamda tercih sebebi olabilen belgelerdir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Lisans eğitimi süresince öğrenciler, Kredi ve Yurtlar Genel Müdürlüğünün sağladığı öğrenim kredisi ve yurt hizmetlerinden yararlanabilir; ayrıca çeşitli resmi ve özel kurum/kuruluşların sunduğu burslardan faydalanabilirler.",
+  "egitim_sonrasi": [
+   "Kamu kurum ve kuruluşlarında 657 sayılı Devlet Memurları Kanunu'na tabi olarak çalışanlar, görev yaptıkları kadronun maaş, ek gösterge, zam ve tazminatlarından yararlanır.",
+   "Özel sektörde ücret; işletmenin büyüklüğü, çalışılan sektör, kişinin deneyimi ve sahip olduğu sertifikalara göre değişmektedir; mesleğe yeni başlayanlar genellikle asgari ücretin üzerinde bir ücretle işe başlar, deneyim ve uzmanlık arttıkça kazanç düzeyi de yükselir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Lisans eğitiminin ardından bilgisayar mühendisliği, bilgi güvenliği veya siber güvenlik alanlarında yüksek lisans ve doktora yaparak akademik kariyer yapılabilir. Ayrıca mesleki sertifika programları ile uzmanlık alanları derinleştirilebilir.",
+  "is_hayatinda": "Mesleki deneyim ve bilgi birikimi arttıkça kıdemli denetmen, bilgi güvenliği yöneticisi, BT denetim sorumlusu veya üst düzey bilgi güvenliği yöneticisi (CISO benzeri pozisyonlar) gibi görevlere yükselme imkânı bulunmaktadır."
+ },
+ "benzer_meslekler": [
+  "Siber Güvenlik Uzmanı",
+  "Bilgi Güvenliği Uzmanı",
+  "Güvenlik Uzmanı (BİT)",
+  "Ağ Teknolojileri ve Bilgi Güvenliği Uzmanı",
+  "Bilgisayar Ağ ve Güvenliği Yöneticisi",
+  "Kişisel Verileri Koruma Uzmanı"
+ ],
+ "ek_bilgiler": "Mesleğin yasal olarak zorunlu bir mesleki yeterlilik belgesi bulunmamakla birlikte, CISA, CISSP veya ISO/IEC 27001 Baş Denetçi gibi ulusal ve uluslararası sertifikalar istihdamda tercih sebebi olabilir. Kişisel verilerin korunması ve siber güvenlik alanındaki mevzuat ve düzenlemelerin genişlemesi, bu mesleğe olan talebin önümüzdeki yıllarda artmasını beklenir kılmaktadır.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T06:09:48",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6412
+  }
+ }
+}

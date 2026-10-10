@@ -1,0 +1,86 @@
+{
+ "arac_gerec": [
+  "İnspektör hata tespit cihazı (ışık ve kameralı kontrol sistemi)",
+  "Şişe dolum makinesi",
+  "Konveyör bant sistemi",
+  "Fotoselli ayırma sistemi",
+  "Atık haznesi/kasası",
+  "El aletleri (tornavida, pense, anahtar takımları)",
+  "Yedek makine parçaları",
+  "Hata karşılaştırma (test) numune dolabı",
+  "Matbu kontrol ve kayıt formları",
+  "Kişisel koruyucu donanım (eldiven, kulaklık, gözlük, iş elbisesi)",
+  "Temizlik malzeme ve ekipmanları"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve gözlem yeteneği gelişmiş,",
+  "El ve göz koordinasyonu iyi,",
+  "Sorumluluk sahibi,",
+  "Makine ve teknik sistemlere ilgili,",
+  "Takım çalışmasına uyumlu,",
+  "Fiziksel olarak dayanıklı,",
+  "Hızlı tempoda ve vardiyalı çalışmaya uygun,",
+  "Temizlik ve hijyen kurallarına duyarlı"
+ ],
+ "calisma_ortami": "İnspektör ve dolum makinesi operatörleri, bira veya diğer içecek üretim tesislerinin kapalı ve genellikle gürültülü, nemli üretim/dolum hatlarında çalışır. Çalışma süresince büyük ölçüde ayakta durulur, sürekli dikkat ve hızlı refleks gerektiren bant hızına uyumlu bir tempo söz konusudur. Makinelerin yakınında çalışıldığı için hareketli parçalar, cam kırılması ve gürültü gibi risklere karşı kişisel koruyucu donanım kullanılması gerekir.\n\nÇalışma genellikle vardiya sistemi şeklinde yürütülür. Operatör, çalışma sırasında vardiya arkadaşları, hat sorumlusu, bakım-onarım personeli ve kalite kontrol birimiyle sürekli iletişim halindedir.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin resmi olarak tanımlanmış, standart bir örgün eğitim programı bulunmamaktadır. Meslek genellikle gıda/içecek üretim işletmelerinde işbaşında, deneyimli operatör ya da usta yanında uygulamalı olarak öğrenilir. Mesleki ve teknik eğitimin gıda teknolojisi veya makine ile ilgili alanlarındaki programları, Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kursları da temel bilgi ve beceri kazandırabilir.",
+  "giris_kosullari": [
+   "İlköğretim mezunu olmak",
+   "İş hayatına girmek için 18 yaşını doldurmuş olmak",
+   "İşe alım sürecinde işletmelerin belirlediği sağlık ve fiziksel uygunluk şartlarını taşımak",
+   "El becerisine ve dikkatli gözleme yeteneğine sahip olmak"
+  ],
+  "sure_ve_icerik": "Standart bir eğitim süresi ve müfredatı bulunmamaktadır. İşe yeni başlayanlar, çalıştıkları işletmede deneyimli operatörler eşliğinde işbaşı eğitimine alınır. Bu eğitimde inspektör hata tespit cihazının ve dolum makinesinin çalışma prensipleri, makine ayarları, hata takibi ve basit bakım-onarım işlemleri, hijyen kuralları ve iş sağlığı-güvenliği konuları uygulamalı olarak öğretilir. Açılması halinde Halk Eğitim Merkezleri veya İŞKUR kurslarında da makine kullanımı, hijyen ve iş güvenliğine yönelik içerikler yer alabilir.",
+  "belge": "Resmi bir diploma veya sertifika zorunluluğu bulunmamaktadır. İşletme içi eğitimler sonunda işveren tarafından, Halk Eğitim Merkezi veya İŞKUR kursuna katılım halinde ise ilgili kurum tarafından katılım/kurs bitirme belgesi verilebilir."
+ },
+ "calisma_alanlari": "İnspektör ve dolum makinesi operatörleri; başta bira olmak üzere meşrubat, su, süt ve diğer içecekleri üreten gıda/içecek fabrikalarının dolum ve paketleme hatlarında istihdam edilir. Benzer dolum-ambalajlama teknolojisi kullanan diğer gıda ve içecek işletmelerinde de çalışabilirler. İş bulma olanakları, sektördeki üretim hacmine ve otomasyon yatırımlarına bağlı olarak değişmektedir; teknolojik dolum hatlarının yaygınlaşması nitelikli operatörlere olan talebi desteklemektedir.",
+ "kazanc": {
+  "egitim_suresince": "İşbaşında eğitim gören kişi, çalıştığı işletmeden genellikle asgari ücret düzeyinde bir kazanç sağlayabilir. Halk Eğitim Merkezi veya İŞKUR kurslarına katılım sırasında genellikle bir kazanç söz konusu değildir.",
+  "egitim_sonrasi": [
+   "İşe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Deneyim, işletmedeki kıdem ve üstlenilen sorumluluk arttıkça ücret düzeyi değişebilir.",
+   "Kamu kuruluşlarına bağlı işletmelerde işçi statüsünde çalışanların ücreti toplu iş sözleşmesi hükümlerine göre belirlenir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Meslekte kademeli, resmi bir eğitim sistemi bulunmamaktadır. İlgili mesleki ve teknik eğitim programlarına ya da kurslara katılarak bilgi ve beceriler geliştirilebilir.",
+  "is_hayatinda": "Deneyim kazanan operatörler vardiya sorumlusu veya hat şefi gibi görevlere yükselebilir; zaman içinde üretim/bakım ustabaşılığı veya bölüm sorumluluğu gibi görevler üstlenebilirler."
+ },
+ "benzer_meslekler": [
+  "Su Şişeleme Makinesi Operatörü",
+  "Kutu Bira Dolum Makinesi Operatörü",
+  "Bira Kasalama İşçisi",
+  "Şişe Etiketleme Makinesi Operatörü",
+  "Sıvı Dolum Makinesi Operatörü",
+  "Kap Doldurma Makinesi Operatörü"
+ ],
+ "ek_bilgiler": "Bu meslek, bira ve diğer içecek üretim tesislerinde otomasyonun yaygınlaşmasıyla birlikte önem kazanmaktadır. Çalışma sırasında cam kırılması, hareketli makine parçaları ve gürültü gibi risklere karşı kişisel koruyucu donanımın eksiksiz kullanılması gerekir.",
+ "gorevler": [
+  "İnspektör hata tespit cihazını ve şişe bira dolum makinesini kullanıma hazırlar,",
+  "Banttan inspektöre gelen şişelerin gözle kontrollerini yapar, hatalı şişeleri ayırır,",
+  "Cihazdan geçen şişelerin ışık ve kameralı sistemle kontrol edilmelerini sağlar,",
+  "Kontrolden geçen şişe hatalarının tespit edilmesini ve kaydedilmesini sağlar,",
+  "İnspektörde bulunan ışık ve kamera sisteminin sağlamlık ve temizlik kontrollerini yapar,",
+  "Hatalı şişelerin fotoselli sistemle banttan atık haznesine ayrılmalarını sağlar,",
+  "Atık haznelerinde biriken atık şişelerin boşaltılmalarını sağlar,",
+  "Makine aparatları yıprandığında veya kırıldığında parça değişimi yapar,",
+  "Dolum makinesinde otomatik ürün dolum işlemlerini gerçekleştirir,",
+  "Dolum hatalarını takip eder ve giderir, hatalı şişeleri banttan ayırır,",
+  "Hata karşılaştırma işlemleri (test) için tanımlı dolapta hata numuneleri oluşturur,",
+  "Ürün değişimlerinde konveyör bandın, inspektörün ve dolum makinesinin ayarlarını yeniler,",
+  "Makine arıza ve aksaklıklarının giderilmesini sağlar,",
+  "İşlemlere ait matbu form kayıtlarını tutar,",
+  "Sistem dolum hattının otomatik temizliklerini başlatır,",
+  "Çalışma alanının temizlenmesini sağlar,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T17:13:26",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6172
+  }
+ }
+}

@@ -1,0 +1,75 @@
+{
+ "arac_gerec": [
+  "Bilgisayar, yazıcı ve tarayıcı gibi büro cihazları",
+  "Sosyal yardım bilgi sistemleri/veri tabanı yazılımları",
+  "Hane ziyaret ve sosyal inceleme formları",
+  "Anket ve değerlendirme (puanlama) formları",
+  "Resmi yazışma ve rapor şablonları",
+  "Fotoğraf makinesi veya kamera (saha tespiti için)",
+  "Saha ziyaretlerinde kullanılan ulaşım aracı",
+  "Telefon",
+  "Kimlik/evrak doğrulama sistemleri",
+  "Harita/adres tespit uygulamaları",
+  "Kırtasiye malzemeleri",
+  "Dosyalama ve arşivleme ekipmanları"
+ ],
+ "genel_ozellikler": [
+  "İnsanlarla sağlıklı ve güvenilir iletişim kurabilen,",
+  "Gözlem gücü yüksek,",
+  "Dikkatli ve titiz,",
+  "Tarafsız ve nesnel değerlendirme yapabilen,",
+  "Empati kurabilen, ancak kararlarında objektif kalabilen,",
+  "Yasal mevzuata ve mesleki etik kurallara bağlı,",
+  "Saha çalışmasına ve değişken koşullara uyum sağlayabilen,",
+  "Yazılı ve sözlü anlatım/raporlama becerisine sahip,"
+ ],
+ "calisma_ortami": "Meslek mensupları, görevlerini hem büro hem de saha ortamında yürütür. Büroda bilgisayar üzerinden veri girişi yapar, rapor hazırlar ve kurul onayı için evrak düzenler; saha çalışmasında ise yardım talebinde bulunan kişilerin ikametgahlarına giderek inceleme yapar. Saha ziyaretleri kırsal veya kentsel farklı sosyo-ekonomik çevrelerde, bazen zor erişim koşullarında gerçekleştirilir ve meslek mensubu bu ziyaretler için araçla seyahat eder.\n\nÇalışma genellikle resmi çalışma saatleri içinde yürütülür; ancak saha programına göre esneklik gerekebilir. Görev gereği yardım başvurusunda bulunan bireyler, aileler, kurul üyeleri, kurum yöneticileri ve diğer kamu görevlileriyle sürekli iletişim halinde olunur. Bazı durumlarda, incelenen kişilerin olumsuz tepkileriyle karşılaşılabileceğinden sabırlı ve soğukkanlı davranmak önemlidir.",
+ "egitim": {
+  "verildigi_yerler": "Bu meslek için mesleki ve teknik eğitim kurumlarında doğrudan bir alan/dal bulunmamaktadır. Göreve atanacaklarda asgari eğitim koşulu ortaöğretim (lise ve dengi) mezuniyetidir. Uygulamada, Aile ve Sosyal Hizmetler Bakanlığı taşra teşkilatı, kaymakamlıklar, belediyeler veya Sosyal Yardımlaşma ve Dayanışma Vakıfları (SYDV) bünyesinde çalışacak personel, kamu personeli alım süreçleri yoluyla işe alınır ve mesleğe kurum içi hizmet içi eğitimlerle hazırlanır.",
+  "giris_kosullari": [
+   "En az ortaöğretim (lise ve dengi) mezunu olmak",
+   "İlgili kurumların açtığı personel alım sınavlarında (örneğin KPSS) başarılı olmak",
+   "Kurumun düzenlediği mülakat/değerlendirme sürecini geçmek",
+   "Saha çalışmasına (seyahat, yürüme vb.) uygun sağlık durumuna sahip olmak"
+  ],
+  "sure_ve_icerik": "Mesleğe özgü, standart süreli örgün bir eğitim programı bulunmamaktadır. İşe yeni başlayanlar, çalıştıkları kurumun düzenlediği hizmet içi eğitim ve işbaşı eğitim süreciyle sosyal yardım mevzuatı, hane ziyaret teknikleri, veri tabanı/bilgi sistemi kullanımı, puanlama kriterleri ve raporlama konularında bilgilendirilir. Bu eğitim süreci kurumdan kuruma farklılık gösterebilir ve genellikle kısa süreli kurs, seminer ve staj şeklinde yürütülür.",
+  "belge": "Örgün eğitim sonunda verilen bir diploma bulunmamaktadır. Kurum içi eğitimleri tamamlayanlara katılım belgesi veya sertifika verilebilir."
+ },
+ "calisma_alanlari": "Meslek mensupları; Aile ve Sosyal Hizmetler Bakanlığı'na bağlı il/ilçe müdürlükleri, Sosyal Yardımlaşma ve Dayanışma Vakıfları (SYDV), kaymakamlıklar ve belediyelerin sosyal yardım/sosyal hizmetler birimleri gibi kamu kurum ve kuruluşlarında istihdam edilmektedir. Çalışma genellikle memur veya sözleşmeli personel statüsünde kamu sektöründedir; özel sektörde bu meslek için ayrı bir istihdam alanı bulunmamaktadır.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğe özgü standart bir çıraklık/stajyerlik dönemi ve buna bağlı sabit bir ücret uygulaması bulunmamaktadır. Göreve başlayanlar, doğrudan çalıştıkları kurumun belirlediği kadro veya sözleşme şartlarına göre ücretlendirilir.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında memur statüsünde çalışanlar 657 sayılı Devlet Memurları Kanunu'na tabi olarak ücret alır.",
+   "Sözleşmeli personel statüsünde çalışanların ücreti ilgili mevzuat ve sözleşme hükümlerine göre belirlenir.",
+   "Sosyal Yardımlaşma ve Dayanışma Vakıfları gibi özel bütçeli kurumlarda çalışanların ücreti kurumun kendi mevzuatına ve bütçe olanaklarına göre değişebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Bu meslek için örgün bir ilerleme basamağı bulunmamaktadır. İlgi duyanlar açık öğretim veya örgün yükseköğretimde sosyal hizmet, sosyoloji, psikoloji gibi alanlarda lisans eğitimi alarak mesleki bilgi ve niteliklerini geliştirebilir; bu durum kurum içinde daha üst unvanlı görevlere (sosyal çalışmacı, uzman vb.) geçişte avantaj sağlayabilir.",
+  "is_hayatinda": "Kamu kurumlarında kıdem, performans ve kurumsal sınav/yeterlilik şartlarını sağlayanlar; şeflik, birim sorumluluğu, uzman veya yönetici kadrolarına ilerleyebilirler."
+ },
+ "benzer_meslekler": [
+  "Sosyal Yardımlar Memuru",
+  "Sosyal Destek Hizmetleri Elemanı",
+  "Denetmen",
+  "Denetmen Yardımcısı",
+  "Araştırmacı"
+ ],
+ "ek_bilgiler": "Bu meslekte çalışanlar sıklıkla Sosyal Yardımlaşma ve Dayanışma Vakıfları (SYDV) bünyesinde görev yapmaktadır. Görevin yürütülmesinde tarafsızlık, gizlilik ve başvuru sahiplerine ait kişisel verilerin korunması ilkelerine uyulması büyük önem taşır.",
+ "gorevler": [
+  "Yardım talebinde bulunan kişilerin ikametgahlarına giderek hane incelemesi yapar.",
+  "Ailenin gelir, varlık ve yaşam standartları hakkında veri toplar.",
+  "İnceleme sonuçlarını merkezi veri tabanına hatasız işler.",
+  "Sosyal yardım kriterlerine göre puanlama ve değerlendirme yapar.",
+  "Tespit edilen bulguları içeren raporu kurul onayına sunar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T13:23:36",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6322
+  }
+ }
+}

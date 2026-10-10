@@ -1,0 +1,74 @@
+{
+ "arac_gerec": [
+  "Toplama sepeti veya çıkın",
+  "Bıçak veya küçük orak",
+  "Bahçe/budama makası",
+  "Koruyucu eldiven",
+  "Uygun ayakkabı/bot ve koruyucu giysi",
+  "Bez torba, file veya çuval",
+  "Bitki ve mantar tanıma kılavuzu/kitapçığı",
+  "Su kabı/matara",
+  "Güneşten korunma malzemesi (şapka, vb.)",
+  "Bağlama ipi",
+  "İlk yardım malzemeleri",
+  "Taşıma amaçlı sırt çantası"
+ ],
+ "benzer_meslekler": [
+  "Mantar Toplayıcısı",
+  "Odun Dışı Ürün Toplayıcısı (Yerden)",
+  "Odun Dışı Ürün Toplayıcısı (Yüksekten)",
+  "Kendi Geçimine Yönelik Tuzakçı",
+  "Kendi Geçimine Yönelik Balıkçı"
+ ],
+ "calisma_alanlari": "Kendi Geçimine Yönelik Toplayıcı, resmi bir işyerinde veya kurumda çalışmaz; faaliyetini kendi köyü, mahallesi veya ailesinin yaşadığı bölgenin çevresindeki orman, kır, dağ ve kırsal alanlarda sürdürür. Bu faaliyet, gelir getirici ticari bir istihdam biçimi olmayıp ailenin kendi ihtiyacını karşılamaya yönelik geleneksel bir geçim yöntemidir. Bu nedenle mesleğin tanımı itibarıyla kurumsal bir işyeri, işveren veya düzenli bir iş bulma süreci bulunmamaktadır. Bazı kişiler zamanla edindikleri bilgi birikimini küçük ölçekli yerel satışa (örneğin köy pazarlarında mevsimlik ürün satışı) yönlendirebilir; bu durumda faaliyet ticari bir boyut kazanabilir, ancak mesleğin asıl niteliği kendi geçimine yöneliktir.",
+ "calisma_ortami": "Kendi Geçimine Yönelik Toplayıcı, çalışmasını tamamen açık havada; orman, çayır, dağ yamacı, kır ve kırsal arazi gibi doğal ortamlarda yürütür. Çalışma, mevsime ve toplanacak ürünün yetişme zamanına bağlı olarak değişkenlik gösterir; genellikle ilkbahar, yaz ve sonbahar aylarında yoğunlaşır. Arazi şartları engebeli ve yürüyüşü zorlayıcı olabilir; sıcak, yağmur, rüzgâr gibi hava koşullarına açık biçimde çalışılır. Düşme, yaralanma, zehirli bitki/mantar ile temas veya yabani hayvanlarla karşılaşma gibi riskler bulunabilir.\n\nÇalışma saatleri düzenli ve sabit değildir; gün ışığına, mevsime ve toplanacak ürünün bulunabilirliğine göre belirlenir. Toplayıcı genellikle yalnız veya aile üyeleriyle birlikte, küçük gruplar halinde çalışır; resmî bir iş ilişkisi veya hiyerarşi söz konusu değildir. Toplanan ürünler çoğunlukla aynı gün içinde ailenin kendi kullanımına yönelik olarak işlenir veya saklanır.",
+ "ek_bilgiler": "Bu meslek, Türk Meslekler Sözlüğü'nde tanımlanmış olsa da gelir getirici resmî bir istihdam türü değildir; kırsal alanlarda ailelerin kendi geçimini sağlamasına yönelik geleneksel bir faaliyettir. Toplanan bitki, mantar ve otların zehirli veya zararlı türlerden doğru şekilde ayırt edilmesi büyük önem taşır; yanlış tanımlama ciddi sağlık riskleri doğurabilir. Bu nedenle yöresel bilgi birikimi ve deneyim, mesleğin güvenli yürütülmesinde belirleyici rol oynar.",
+ "egitim": {
+  "verildigi_yerler": "Bu faaliyet için örgün veya resmî bir mesleki eğitim programı bulunmamaktadır. Bilgi ve beceri genellikle aile içinde nesilden nesile aktarılan yöresel bilgi birikimi, kırsal yaşam deneyimi ve usta-çırak ilişkisine benzer gözlem yoluyla kazanılır. Bazı illerde Halk Eğitim Merkezleri veya kamu kurumlarının açtığı 'şifalı/tıbbi ve aromatik bitkiler', 'yabani mantar tanıma' gibi bilgilendirme kursları bu bilgiyi destekleyici nitelikte olabilir.",
+  "giris_kosullari": [
+   "Mesleğe girişte resmî bir koşul veya diploma şartı bulunmamaktadır",
+   "Gereken minimum eğitim düzeyi ilköğretimdir; okuryazarlık düzeyinde temel eğitim yeterli görülür",
+   "Arazi şartlarında çalışabilecek fiziksel sağlığa ve dayanıklılığa sahip olmak gerekir",
+   "Bölgeye özgü bitki, mantar ve ot türlerine ilişkin asgari bilgi veya bu bilgiyi aile/çevreden öğrenme imkânına sahip olmak önemlidir"
+  ],
+  "sure_ve_icerik": "Belirli bir eğitim süresi, müfredat veya aşamalı program bulunmamaktadır. Mesleki bilgi; mevsimlere göre toplanacak ürünlerin tanınması, doğru toplama teknikleri, zehirli/zararlı türlerin ayırt edilmesi ve saklama yöntemleri gibi konularda zaman içinde gözlem ve deneyim yoluyla edinilir.",
+  "belge": "Mesleğin niteliği itibarıyla eğitim sonunda diploma, sertifika veya resmî bir yeterlilik belgesi verilmemektedir. Mesleki Yeterlilik Kurumu (MYK) kapsamında bu meslek için tanımlı bir ulusal yeterlilik bulunmamaktadır."
+ },
+ "genel_ozellikler": [
+  "Doğayı ve kırsal yaşamı seven,",
+  "Dikkatli ve gözlemci,",
+  "Bölgesindeki bitki, mantar ve ot türlerini ayırt edebilecek bilgiye veya bu bilgiyi edinme isteğine sahip,",
+  "Açık havada ve zorlu arazi şartlarında çalışabilecek fiziksel dayanıklılığa sahip,",
+  "Sabırlı ve mevsimsel değişimleri takip edebilen,",
+  "Çevreyi koruma ve biyolojik çeşitliliğe duyarlı,",
+  "Yön bulma ve arazide hareket etme becerisine sahip,",
+  "Risklere karşı temkinli davranabilen"
+ ],
+ "gorevler": [
+  "Mevsime uygun toplanacak bitki ve ürünleri belirler.",
+  "Ürünlerin doğru toplanma tekniklerini (köke zarar vermeden vb.) uygular.",
+  "Zehirli veya zararlı türleri ayırt ederek güvenli toplama yapar.",
+  "Toplanan ürünleri tasnif eder ve saklama koşullarını sağlar.",
+  "Toplama araçlarının (sepet, bıçak vb.) temizlik ve bakımını yapar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğin örgün bir eğitim yapısı bulunmadığından, mesleki eğitimde basamaklı bir ilerleme (çıraklık, kalfalık, ustalık gibi) söz konusu değildir. Kişi, zaman içinde deneyim ve gözlem yoluyla bölgesindeki bitki/mantar türleri ve toplama teknikleri konusunda bilgisini kendi çabasıyla geliştirir.",
+  "is_hayatinda": "Resmî bir iş hayatı ve kariyer basamağı bulunmadığından klasik anlamda bir ilerleme söz konusu değildir. Deneyim ve bilgi birikimi arttıkça, bazı kişiler topladıkları ürünleri ailenin ihtiyacı dışında küçük ölçekli yerel satışa yönlendirerek ek gelir elde etmeye başlayabilir; bu durumda faaliyet kısmen ticari bir nitelik kazanabilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Mesleğin örgün bir eğitim süreci bulunmadığından, eğitim süresince herhangi bir ücret veya kazanç söz konusu değildir.",
+  "egitim_sonrasi": [
+   "Bu faaliyet, ailenin kendi geçimine yönelik olarak yapıldığından düzenli bir ücret, maaş veya gelir getirmez.",
+   "Bazı durumlarda topladığı ürünlerin bir kısmını yerel pazarlarda satan kişiler için elde edilen gelir, mevsime, ürün bolluğuna ve satış koşullarına bağlı olarak değişkenlik gösterir ve düzenli bir kazanç olarak değerlendirilemez."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T22:12:16",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5645
+  }
+ }
+}

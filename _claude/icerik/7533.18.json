@@ -1,0 +1,70 @@
+{
+ "arac_gerec": [
+  "Kumaş topları ve parçaları",
+  "Masa veya kontrol tezgahı",
+  "Makas",
+  "Sökük sökücü",
+  "İğne ve iplik",
+  "Mezür/şerit metre",
+  "İşaretleme kalemi veya tebeşir",
+  "Meto (sıra) etiketleri",
+  "Büyüteç/lup (defo kontrolü için)",
+  "Ütü (gerekli görülen düzeltmelerde)",
+  "Eldiven"
+ ],
+ "benzer_meslekler": [
+  "Kumaş Onarıcı-Örücü",
+  "Konfeksiyon İşçisi",
+  "Bant Şefi (Tekstil)",
+  "Tela Presleme Makinesi Operatörü"
+ ],
+ "calisma_alanlari": "Regulacılar genellikle tekstil ve hazır giyim (konfeksiyon) fabrikalarında, kumaş imalat işletmelerinde ve bu işletmelerin kalite kontrol/hazırlık bölümlerinde istihdam edilir. Çalışma hacmi, tekstil ve konfeksiyon sektörünün üretim ve ihracat durumuna, mevsimsel sipariş yoğunluğuna bağlı olarak değişkenlik gösterebilir. İşverenler, iş hacmine göre dönemsel olarak eleman alımı yapabilmekte, sipariş azaldığında geçici olarak çalışma süresi kısalabilmektedir.",
+ "calisma_ortami": "Regulacı, genellikle kapalı mekanlarda; tekstil ve konfeksiyon fabrikalarının kumaş hazırlık, kalite kontrol veya kesimhane bölümlerinde çalışır. Çalışma büyük ölçüde ayakta veya masa başında oturarak yürütülür; kumaş tozu, makine gürültüsü ve bazı dönemlerde yoğun iş temposu çalışma ortamının koşulları arasındadır. İyi aydınlatma, renk ve doku farklarının doğru tespiti için önemlidir.\n\nÇalışma saatleri genellikle hafta içi tam gün ve işyerinin vardiya düzenine göre değişebilir. Kişi çalışması sırasında kesimci, dikişçi, kalite kontrol elemanı ve atölye sorumlusu gibi diğer meslek elemanlarıyla iletişim halindedir. Dikkatsizlik durumunda makas veya iğne ile küçük yaralanmalar söz konusu olabilir.",
+ "egitim": {
+  "verildigi_yerler": "Regulacılık için örgün eğitimde ayrı bir program bulunmamaktadır. Meslek, genellikle işyerlerinde usta yanında işbaşında yetişilerek öğrenilir. Ayrıca Halk Eğitim Merkezleri ve İŞKUR tarafından açılan tekstil/konfeksiyon alanındaki mesleki eğitim kurslarında temel kumaş bilgisi ve kontrol teknikleri kazandırılabilir.",
+  "giris_kosullari": [
+   "Okuryazar olmak yeterlidir, ayrıca bir eğitim düzeyi şartı aranmaz.",
+   "18 yaşından büyük olmak genellikle tercih edilir; küçükler veli izniyle katılabilir.",
+   "Halk Eğitim Merkezi kurslarına katılım koşulları kurum tarafından duyurulur."
+  ],
+  "sure_ve_icerik": "Mesleğin eğitimi için standart bir süre belirlenmemiştir; işyerlerinde işbaşında eğitim süresi günler ile birkaç ay arasında değişebilir. Eğitim içeriğinde kumaş çeşitlerinin tanınması, meto (sıra) sistemiyle tasnif, renk ve doku farkının ayırt edilmesi, kumaş defolarının tespiti ve basit düzeltme/onarım teknikleri yer alır.",
+  "belge": "İşbaşında yetişenlere genellikle resmî bir belge verilmez; katılınan Halk Eğitim Merkezi veya kurum kurslarını tamamlayanlara kurs bitirme belgesi düzenlenebilir."
+ },
+ "ek_bilgiler": "Regulacılık, tekstil ve konfeksiyon üretim zincirinde kaliteyi doğrudan etkileyen bir hazırlık/kontrol mesleği olduğundan, sektördeki üretim ve ihracat hacmine bağlı olarak istihdam talebi değişkenlik gösterebilir.",
+ "genel_ozellikler": [
+  "Dikkatli ve gözlem gücü yüksek,",
+  "Renk ve doku farklarını iyi ayırt edebilen,",
+  "El becerisine sahip,",
+  "Sabırlı ve titiz,",
+  "Düzenli ve sistemli çalışabilen,",
+  "Uzun süre dikkatini dağıtmadan çalışabilen,",
+  "Sorumluluk sahibi"
+ ],
+ "gorevler": [
+  "Kumaşları meto sırasına göre tasnif eder.",
+  "Kumaşlarda renk farkı, doku farkı ve defo olup olmadığını kontrol eder.",
+  "Ürün üzerinde gerekli görülen düzeltmeleri yapar.",
+  "Kumaşları meto sırasına göre dikişe hazır hale getirir.",
+  "Çalışma alanının temizliğini yapar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğe yönelik kademeli, resmî bir eğitim ilerleme sistemi bulunmamaktadır; kişi deneyim kazanarak ve ek kurslara katılarak bilgi ve becerisini geliştirebilir.",
+  "is_hayatinda": "Deneyim ve bilgi birikimi arttıkça kalite kontrol sorumluluğu üstlenebilir, usta başı veya atölye şefliğine yükselebilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Halk Eğitim Merkezi kurslarına katılanlar genellikle bir kazanç elde etmez. İşbaşında usta yanında yetişenler, işyerinin uygulamasına göre asgari ücret düzeyinde veya daha düşük bir ücret alabilir.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanların kazancı genellikle asgari ücret düzeyindedir.",
+   "Deneyim, bilgi düzeyi ve çalışılan işletmenin büyüklüğüne göre ücret artabilir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T08:50:10",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 4295
+  }
+ }
+}

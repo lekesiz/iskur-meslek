@@ -1,0 +1,75 @@
+{
+ "arac_gerec": [
+  "Düdük",
+  "El feneri",
+  "Telsiz veya cep telefonu",
+  "Bisiklet, motosiklet ya da görev bölgesine göre binek hayvanı",
+  "Koruyucu/ayırt edici kıyafet (yelek, üniforma, rozet)",
+  "Yağmurluk, bot gibi hava koşullarına uygun giysi ve ekipman",
+  "Rapor defteri ve kalem",
+  "Dürbün",
+  "Basit ilk yardım malzemeleri",
+  "Baston/cop gibi caydırıcı donanım (görev gereği verilmişse)"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve gözlemci,",
+  "Sorumluluk sahibi ve güvenilir,",
+  "Fiziksel olarak dayanıklı,",
+  "Kırsal yaşama ve arazi şartlarına uyumlu,",
+  "Dürüst,",
+  "Sabırlı ve tedbirli,",
+  "İnsanlarla iyi iletişim kurabilen,",
+  "Gece ve gündüz, açık havada çalışmaya istekli."
+ ],
+ "calisma_ortami": "Kır bekçileri görevlerini açık havada, kırsal alanlarda, tarım arazilerinde, bağ ve bahçelerde yürütür. Çalışma, köy veya belde sınırları içindeki geniş arazilerde yaya, bisiklet, motosiklet gibi araçlarla ya da görev bölgesine göre binek hayvanıyla dolaşarak yapılır. Görev genellikle vardiyalı ve nöbet usulüyle sürdürülür; gece saatlerinde ve her türlü hava koşulunda (sıcak, soğuk, yağış) çalışmak gerekebilir.\n\nKır bekçisi görevi sırasında çiftçiler, muhtar, köy ihtiyar heyeti, jandarma ve kolluk güçleri ile iletişim kurar. Hırsızlık veya zararlı hayvanlarla karşılaşma gibi durumlarda fiziksel risk taşıyan, bazen yalnız bazen küçük bir ekip halinde yürütülen bir meslektir.",
+ "egitim": {
+  "verildigi_yerler": "Kır bekçiliği için standart, örgün bir meslek eğitimi programı bulunmamaktadır. Görevlendirme genellikle ilgili köy muhtarlığı, belde/belediye yönetimi veya Çiftçi Malları Koruma Meclisi tarafından yapılır ve göreve başlamadan önce kısa süreli, işbaşında bir bilgilendirme ile öğrenilir. Bazı illerde Halk Eğitim Merkezleri veya İŞKUR tarafından açılan kırsal güvenlik, nöbetçi/bekçilik konulu kısa süreli mesleki eğitim kursları da destekleyici nitelikte olabilir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "Türk vatandaşı olmak",
+   "Reşit olmak (18 yaşını doldurmuş olmak)",
+   "Sağlık durumunun açık havada ve arazi koşullarında çalışmaya uygun olması",
+   "Görevlendirmeyi yapan merciin öngördüğü güvenilirlik ve sicil şartlarını taşımak"
+  ],
+  "sure_ve_icerik": "Resmi olarak tanımlanmış, standart süreli bir eğitim programı bulunmamaktadır. Göreve başlamadan önce kır bekçisi adayına, Çiftçi Mallarının Korunması Hakkında Kanun'un öngördüğü görev ve yetkiler, arazi devriyesi usulleri, rapor tutma ve ilgili mercilere bildirim yöntemleri, temel iletişim ve gerektiğinde ilk yardım bilgisi kısa süreli ve işbaşında aktarılır. Bu bilgiler görevi veren muhtarlık, belediye veya koruma meclisi tarafından, bazı durumlarda kolluk güçleriyle iş birliği içinde verilir.",
+  "belge": "Eğitim sonunda ulusal düzeyde geçerli bir diploma veya sertifika söz konusu değildir. Göreve başlama, ilgili mercinin (muhtarlık, köy ihtiyar heyeti, belde belediyesi veya Çiftçi Malları Koruma Meclisi) kararı, görevlendirme yazısı ve gerekli görülen hallerde yemin ile gerçekleşir."
+ },
+ "calisma_alanlari": "Kır bekçileri, tarım arazilerinin yoğun olduğu köy ve belde yerleşim yerlerinde, köy muhtarlıkları ve belediyelerin kırsal mahalle teşkilatları bünyesinde, Çiftçi Malları Koruma Meclisi tarafından oluşturulan koruma teşkilatlarında istihdam edilir. İstihdam genellikle yerel yönetimler eliyle, arazi sahibi çiftçilerin talep ve katkılarıyla belirlenen bölgelerde yapılır. Tarımın yoğun olduğu kırsal bölgelerde talep daha fazladır; kentleşme ve tarım arazilerinin azaldığı bölgelerde iş olanakları sınırlı olabilir.",
+ "kazanc": {
+  "egitim_suresince": "Örgün ve ücretli bir eğitim süreci bulunmadığından, göreve başlamadan önceki kısa süreli bilgilendirme döneminde genellikle ayrıca bir ücret ödenmez.",
+  "egitim_sonrasi": [
+   "Kır bekçileri, görevlendirildikleri köy, belde veya Çiftçi Malları Koruma Meclisi bütçesinden, ilgili arazi sahibi çiftçilerin ödediği koruma bedelleri/aidatlar üzerinden ücret alır.",
+   "Kazanç düzeyi, görev yapılan bölgenin büyüklüğüne, arazi sayısına ve yerel yönetimin olanaklarına göre değişmekle birlikte genellikle asgari ücret düzeyindedir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Meslekte kademeli, resmi bir eğitim ilerleme sistemi bulunmamaktadır. Deneyim kazanan kır bekçileri, gönüllü olarak güvenlik, ilk yardım veya arazi/çevre koruma konularında kısa süreli kurslara katılarak bilgi ve becerilerini geliştirebilir.",
+  "is_hayatinda": "Deneyim ve bölgeyi tanıma arttıkça sorumluluk alanı genişleyebilir; birden fazla bekçinin bulunduğu bölgelerde kıdemli kır bekçisi veya ekip sorumlusu olarak görevlendirilebilir. Edinilen deneyimle güvenlik korucusu, çarşı ve mahalle bekçisi, inşaat/işyeri bekçisi gibi benzer koruma ve güvenlik mesleklerine geçiş yapılabilir."
+ },
+ "benzer_meslekler": [
+  "Çarşı ve Mahalle Bekçisi",
+  "Güvenlik Korucusu",
+  "Orman Muhafaza Memuru",
+  "İnşaat/İşyeri Bekçisi",
+  "Diğer Koruyucu Güvenlik Elemanları"
+ ],
+ "ek_bilgiler": "Kır bekçiliği, çiftçilerin ekili ve dikili arazilerinin korunmasına yönelik Çiftçi Mallarının Korunması Hakkında Kanun çerçevesinde yürütülen, yerel yönetimler ve köy teşkilatları eliyle organize edilen bir koruma hizmetidir. Görevin kapsamı, yetkileri ve çalışma usulleri bölgeden bölgeye, ilgili muhtarlık/belediye uygulamalarına göre farklılık gösterebilir.",
+ "gorevler": [
+  "İş plan ve organizasyonunu yapar.",
+  "Çiftçi Malları Koruma Kanunu'na ve çiftçi taleplerine göre arazilerde görev alır.",
+  "Çiftçilerin ekili ve dikili arazilerini motorlu veya yaya olarak dolaşır.",
+  "Hayvan, yabani hayvan vb. zararlılara karşı tarlaları ve ekili dikili alanları korur.",
+  "Hayvan, yabani hayvan vb. zararlılarla karşılaşıldığında rapor tutar ve ilgiliye haber verir.",
+  "Hırsızlıklara karşı tarlaları ve ekili dikili alanları korur.",
+  "Hırsızlık durumunda rapor tutar ve ilgili mercilere haber verir.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T19:59:58",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5850
+  }
+ }
+}

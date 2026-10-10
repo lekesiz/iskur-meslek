@@ -1,0 +1,76 @@
+{
+ "arac_gerec": [
+  "Sondaj makinesi (kulesi)",
+  "Matkap ucu (drill bit)",
+  "Tij (drill pipe/rod) dizisi",
+  "Sondaj çamuru pompaları ve karıştırıcıları",
+  "Kontrol paneli/konsol",
+  "Kuyu başı emniyet ekipmanı (BOP vb.)",
+  "Karot sandığı ve numune kutuları",
+  "Vinç ve halat sistemi",
+  "Jeneratör ve kompresör",
+  "Kişisel koruyucu donanım (baret, eldiven, koruyucu gözlük, kulaklık, çelik burunlu ayakkabı)",
+  "El aletleri (anahtar takımları, maşa)",
+  "Ölçüm ve nivelman ekipmanları",
+  "Telsiz/haberleşme cihazı"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve sabırlı,",
+  "Fiziksel olarak güçlü ve dayanıklı,",
+  "El ve göz koordinasyonuna sahip,",
+  "Ekip çalışmasına uyumlu,",
+  "Sorumluluk sahibi,",
+  "Mekanik alet ve makinelere ilgili,",
+  "Değişen hava ve arazi koşullarına uyum sağlayabilen,",
+  "Kurallara ve iş güvenliği talimatlarına uyan,"
+ ],
+ "gorevler": [
+  "Sondaj makinesini ölçüm noktasına teraziye alarak kurar.",
+  "Matkap ucu ve tij dizisini formasyona göre seçer ve ekler.",
+  "Sondaj çamuru parametrelerini ve baskı hızını panelden yönetir.",
+  "Karot (numune) alım işlemlerini hassasiyetle gerçekleştirir.",
+  "Kuyu emniyet ekipmanlarını (BOP vb.) sürekli faal tutar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "calisma_ortami": "Sondaj Operatörü/Sondör, açık arazide (maden sahaları, petrol ve doğalgaz arama alanları, su kuyusu açma sahaları, inşaat temel sondajları, jeotermal arama sahaları) ya da sondaj kulesi çevresindeki çalışma alanlarında görev yapar. Çalışma ortamı gürültülü, tozlu, bazen çamurlu ve ıslak olabilir; değişken hava koşullarına (sıcak, soğuk, yağmur) açık şekilde, sahada sürekli hareket halinde ve genellikle ayakta çalışır.\n\nÇalıştığı işin niteliğine göre vardiyalı çalışabilir ve sahanın konumuna bağlı olarak uzun süreli görevlendirmelerle (kamp yaşamı) bulunabilir. Jeolog/mühendis, sondaj çamurcusu, vinç operatörü ve yardımcı sondaj işçileriyle iş birliği içinde çalışır. İş kazası riski (düşme, sıkışma, basınçlı sıvı/gaz kaçağı) bulunduğundan kişisel koruyucu donanım kullanımı ve iş güvenliği kurallarına uyum büyük önem taşır.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi genellikle işbaşında usta-çırak ilişkisi içinde edinilmekte; ayrıca Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kurslarında, bazı özel sektör kuruluşlarının kendi bünyesinde düzenlediği eğitim programlarında verilebilmektedir. Mesleki ve teknik eğitim kurumlarındaki ilgili alan ve programlar da bu mesleğe hazırlayıcı nitelik taşıyabilir.",
+  "giris_kosullari": [
+   "En az ilkokul/ilköğretim mezunu olmak",
+   "Saha ve ağır/tehlikeli işlerde çalışmaya uygun sağlık raporuna sahip olmak",
+   "Fiziksel olarak sahada çalışmaya uygun olmak"
+  ],
+  "sure_ve_icerik": "Kurs programlarının süresi ve içeriği düzenleyen kuruma göre değişmekle birlikte genellikle sondaj makinesini tanıma, matkap ucu ve tij seçimi, sondaj çamuru hazırlama ve yönetimi, karot alma teknikleri, kuyu emniyet ekipmanlarının kullanımı ile iş sağlığı ve güvenliği konularını kapsar. Kurs sonrasında mesleğe giriş genellikle işbaşında usta yanında uygulamalı eğitimle tamamlanır.",
+  "belge": "Kurs bitirme belgesi verilebilmektedir; ayrıca Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Sondaj Operatörü/Sondörler; maden arama ve çıkarma işletmelerinde, petrol ve doğalgaz arama şirketlerinde, yer altı suyu arama ve kuyu açma firmalarında, inşaat temel sondajı ve zemin etüdü işlerinde, jeotermal enerji arama projelerinde çalışabilirler. Kamu kurumlarında (maden ve su kaynakları araştırmasıyla ilgili kuruluşlarda) ve özel sektör sondaj firmalarında istihdam olanağı bulunmaktadır.",
+ "kazanc": {
+  "egitim_suresince": "Kurs eğitimi süresince genellikle bir kazanç söz konusu değildir; işbaşında usta yanında eğitim alınması durumunda çıraklık/stajyer düzeyinde bir ödeme yapılabilir.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Deneyim, çalışılan sektör (petrol-doğalgaz sahalarında genellikle daha yüksek ücret söz konusu olabilir) ve işletmenin büyüklüğüne göre kazanç artabilir.",
+   "Kamu kurumlarında işçi statüsünde çalışanlar ilgili toplu iş sözleşmesi hükümlerine göre ücret alır."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğe özgü belirli bir örgün ilerleme basamağı bulunmamaktadır; deneyim ve ek eğitimlerle (iş güvenliği, sondaj teknikleri, sondaj çamuru yönetimi gibi sertifika programları) mesleki bilgi ve beceri geliştirilebilir.",
+  "is_hayatinda": "Deneyim kazandıkça yardımcı işçilik konumundan sondör/operatörlüğe, ileride ekip sorumluluğu ve saha yönetimi gerektiren üst görevlere (ekip şefi, saha sorumlusu gibi) ilerleme mümkündür."
+ },
+ "benzer_meslekler": [
+  "Petrol Sondörü",
+  "Maden Sondörü",
+  "Su Sondaj Operatörü",
+  "Döner Sondaj Makinesi Operatörü-Petrol ve Doğal Gaz Kuyuları",
+  "Sondaj Çamurcusu",
+  "Zemin Delgi (Delik Delme ve Sondaj) Makinesi Operatörü"
+ ],
+ "ek_bilgiler": "Sondaj mesleği, çalışıldığı sektöre (maden, petrol-doğalgaz, su kuyusu, inşaat) bağlı olarak tehlikeli veya çok tehlikeli işler kapsamında değerlendirilebilir; bu nedenle iş sağlığı ve güvenliği eğitimleri ile kişisel koruyucu donanım kullanımı önem taşır. Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T10:39:26",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5791
+  }
+ }
+}

@@ -1,0 +1,86 @@
+{
+ "gorevler": [
+  "İş sağlığı ve güvenliği, yangın ve acil durum kurallarını uygular.",
+  "Kalite yönetim sistemi ile ilgili faaliyetleri yürütür.",
+  "İş organizasyonu yapar.",
+  "Mekanik ve elektriksel sistem tasarımını yapar.",
+  "Tasarlanacak sistemin elektriksel ve mekanik gereksinimlerini ve yerleşimini belirler.",
+  "Elektriksel ve mekanik sistemin optimizasyonunu sağlar.",
+  "Mekanik ve elektriksel alt sistem bileşenlerinin saha montajını yapar.",
+  "Saha hazırlık çalışmaları ve denetimini yapar.",
+  "Elektrik ve mekanik tasarım ile ilgili yasal prosedürleri uygular.",
+  "Sistem kurulumunu yapar.",
+  "Bağlantı ve sistem kontrollerini yapar.",
+  "Sistem çıkışı ile mekanik ve elektriksel kontrol sınamasını yapar.",
+  "Elektriksel ve mekanik denetim yapar.",
+  "Sistemin çalışma altında denetimini yapar.",
+  "Sistem güvenliğini sağlar.",
+  "Bakım ve onarım işlemlerini gerçekleştirir.",
+  "Mesleki gelişim faaliyetlerini yürütür."
+ ],
+ "arac_gerec": [
+  "Rüzgâr türbini bileşenleri (kanat, göbek/rotor, nasel, jeneratör, dişli kutusu vb.)",
+  "Elektrik pano ve kumanda sistemleri",
+  "Bağlantı kabloları ve konnektörler",
+  "Konvertör ve invertör üniteleri",
+  "SCADA ve uzaktan izleme/kontrol yazılım ve donanımları",
+  "Elektriksel ölçüm cihazları (multimetre, megaohmmetre, pens ametre vb.)",
+  "Mekanik ölçüm ve kontrol aletleri (tork anahtarı, kumpas, şerit metre vb.)",
+  "Vinç ve ağır yük kaldırma-taşıma ekipmanları",
+  "Yüksekte çalışma donanımı (emniyet kemeri, halat, tırmanma ekipmanı)",
+  "Temel el aletleri (tornavida, pense, anahtar takımları vb.)",
+  "Teknik çizim ve proje yazılımları, montaj şemaları",
+  "Kişisel koruyucu donanım (baret, eldiven, gözlük, çelik burunlu ayakkabı, kulaklık vb.)"
+ ],
+ "genel_ozellikler": [
+  "Elektrik, elektronik ve mekanik konulara ilgili,",
+  "Matematiksel ve teknik düşünme becerisine sahip,",
+  "Şekil ve uzay ilişkilerini kavrayabilen,",
+  "Problem çözme ve risk değerlendirme becerisine sahip,",
+  "Dikkatli ve tertipli çalışabilen,",
+  "Sorumluluk duygusu yüksek,",
+  "Ekip çalışmasına yatkın ve yönlendirme becerisine sahip,",
+  "Yüksekte ve açık havada çalışmaya elverişli fiziksel ve sağlık durumuna sahip,"
+ ],
+ "calisma_ortami": "\"Rüzgâr güç sistemi sorumluları, çoğunlukla rüzgâr enerjisi santrallerinin (RES) kurulu olduğu açık alanlarda; rüzgârın yoğun olduğu kıyı, yayla ve tepelik bölgelerde çalışırlar. Çalışmalarının bir bölümünü türbin kulesi ve nasel (türbin başlığı) içinde yüksekte, bir bölümünü de saha kumanda/kontrol odalarında kapalı ortamda sürdürürler. Rüzgâr, soğuk, sıcak ve nem gibi değişken hava koşullarına, gürültüye, elektrik çarpması ve yüksekten düşme risklerine maruz kalabilirler.\\n\\nÇalışma saatleri genellikle vardiya sistemine göre düzenlenir; arıza ve bakım durumlarında mesai saatleri dışında da çağrılabilirler. Görevlerini genellikle saha ekibiyle birlikte yürütür; montaj ve bakım personeli, mühendisler ve işletme yöneticileriyle sürekli iletişim ve koordinasyon içinde çalışırlar.\"",
+ "egitim": {
+  "verildigi_yerler": "Bu meslek için mesleki ve teknik ortaöğretim kurumlarında doğrudan bu adı taşıyan ayrı bir program bulunmamaktadır. Mesleğe genellikle; Elektrik-Elektronik Teknolojisi, Mekatronik Teknolojisi veya Yenilenebilir Enerji Teknolojileri gibi alanlardan mezun olduktan sonra rüzgâr enerjisi santrallerinde teknisyen/usta düzeyinde çalışarak deneyim kazanılması ve kurum/firmaların düzenlediği mesleki eğitim kurslarına katılım yoluyla ulaşılmaktadır.",
+  "giris_kosullari": [
+   "Ortaöğretimi (lise veya dengi okul) tamamlamış olmak",
+   "Tercihen Elektrik-Elektronik, Mekatronik veya Yenilenebilir Enerji Teknolojileri alanlarından mezun olmak",
+   "Rüzgâr enerjisi sistemlerinde teknisyen/usta düzeyinde iş deneyimine sahip olmak"
+  ],
+  "sure_ve_icerik": "Mesleğin kendisine özgü, belirli süreli ve resmî olarak tanımlanmış bir ortaöğretim programı bulunmamaktadır. İlgili mesleki ve teknik lise programları genel olarak 4 yıl sürmekte olup elektrik-elektronik, mekanik, ölçme-kontrol ve iş güvenliği gibi temel yeterlikleri kazandırır. Bu temel eğitimin ardından rüzgâr güç sistemlerine özgü bilgi ve beceriler; işbaşında usta/mühendis nezaretinde çalışarak, firmaların verdiği hizmet içi eğitimlerle ve İŞKUR ile diğer kurumların açtığı mesleki eğitim kurslarıyla kazanılmaktadır.",
+  "belge": "Ortaöğretim diploması ile birlikte, katılınan mesleki eğitim kurslarından kurs bitirme belgesi/sertifika alınır. Mesleki Yeterlilik Kurumu (MYK) tarafından rüzgâr enerjisi alanında düzenlenen ulusal yeterlilik belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Rüzgâr güç sistemi sorumluları başlıca; rüzgâr enerjisi santrallerinin (RES) işletme ve bakım birimlerinde, türbin üreticisi ve türbin montajı yapan firmalarda, enerji şirketlerinin saha ekiplerinde ve mühendislik/danışmanlık firmalarında çalışabilmektedir.\n\nTürkiye'de rüzgâr enerjisi yatırımlarının yoğunlaştığı Ege, Marmara ve bazı Akdeniz, İç Anadolu ve Güneydoğu Anadolu bölgelerinde iş olanakları görece fazladır. Yenilenebilir enerji yatırımlarındaki artış eğilimi, bu meslekteki istihdam olanaklarını olumlu yönde etkilemektedir.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğe özgü, ayrı ve resmî olarak tanımlanmış bir eğitim süreci bulunmadığından, işbaşında çalışılarak deneyim kazanılan dönemdeki kazanç işverenle yapılan anlaşmaya ve varsa yürürlükteki mevzuata (ör. 3308 sayılı Mesleki Eğitim Kanunu kapsamındaki uygulamalara) göre değişiklik gösterir.",
+  "egitim_sonrasi": [
+   "İlk işe girişte kazanç genellikle asgari ücret düzeyinde olur.",
+   "Deneyim, üstlenilen sorumluluk düzeyi ve çalışılan işletmenin büyüklüğüne bağlı olarak kazanç artış gösterebilir.",
+   "Özel sektörde ücret taraflar arasındaki anlaşmaya göre belirlenir; kamu kurumlarında memur statüsünde istihdam halinde 657 sayılı Devlet Memurları Kanunu, işçi statüsünde ise ilgili toplu iş sözleşmesi hükümleri geçerli olur."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Rüzgâr güç sistemi ustası veya teknisyeni olarak çalışanlar, deneyim kazanarak ve ek eğitimler alarak rüzgâr güç sistemi sorumluluğu görevine yükselebilirler. Ayrıca ilgili önlisans/lisans programlarına (Elektrik-Elektronik Mühendisliği, Mekatronik Mühendisliği, Yenilenebilir Enerji Sistemleri Mühendisliği/Teknolojileri vb.) yönelerek mesleki bilgi ve unvanlarını geliştirebilirler.",
+  "is_hayatinda": "Deneyim ve performansa bağlı olarak saha ekip sorumlusu, vardiya amiri, bakım-onarım sorumlusu ve işletme yöneticiliği gibi kademelere yükselebilirler."
+ },
+ "benzer_meslekler": [
+  "Rüzgâr Güç Sistemi Ustası",
+  "Rüzgar Enerji Sistemleri Teknisyeni",
+  "Güneş Enerji Sistemleri Teknisyeni",
+  "Fotovoltaik Güç Sistemi Sorumlusu",
+  "Yenilenebilir Enerji Teknolojileri Teknisyeni",
+  "Biyogaz Sistemleri Sorumlusu"
+ ],
+ "ek_bilgiler": "Rüzgâr türbinlerinde çalışma genellikle yüksekte ve açık havada yapıldığından, bu meslekte çalışacak kişilerin sağlık durumunun yüksekte çalışmaya elverişli olması ve yüksekte çalışma ile elektrik güvenliğine ilişkin eğitimleri almış olmaları önem taşımaktadır.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T10:46:16",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 7906
+  }
+ }
+}

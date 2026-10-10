@@ -1,0 +1,74 @@
+{
+ "arac_gerec": [
+  "Bilgisayar donanımı ve sunucular",
+  "Ağ ve veri iletişim ekipmanları",
+  "Veritabanı yönetim sistemleri",
+  "Sistem/iş akışı modelleme yazılımları (UML, akış şeması araçları)",
+  "Proje ve süreç yönetim yazılımları",
+  "Programlama geliştirme ortamları",
+  "Test ve hata ayıklama araçları",
+  "Doküman ve rapor hazırlama yazılımları",
+  "Sunum ve iletişim araçları",
+  "Büro makineleri ve malzemeleri"
+ ],
+ "genel_ozellikler": [
+  "Analitik ve mantıksal düşünme yeteneğine sahip,",
+  "Matematiksel düşünme ve problem çözme becerisi olan,",
+  "Bilgisayar ve teknolojiye ilgi duyan,",
+  "Dikkatli ve sabırlı,",
+  "Planlı ve düzenli çalışabilen,",
+  "Sözlü ve yazılı iletişim becerisine sahip,",
+  "Ekip çalışmasına uyumlu,",
+  "Sürekli öğrenmeye ve kendini geliştirmeye açık"
+ ],
+ "gorevler": [
+  "Yapılacak işlemleri inceleyerek işlemin planını hazırlar,",
+  "Bilgisayar kotlama sistemine göre kotlayarak kütük düzenlemelerini yapar,",
+  "İş akımının plan ve projesini çizer,",
+  "Kullanılacak bilgisayar programlarını belirler,",
+  "Programlarda hangi işlemlerin yapılacağına karar verir,",
+  "Kartlara işlenen programlarda hata olup olmadığını bilgisayarı işleterek saptar,",
+  "Yeni programın bilgisayara önceden geçirilmiş programlarla çelişkili olup olmadığını kontrol eder,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "calisma_ortami": "Sistem Analistleri genellikle büro ortamında, masa başında bilgisayar karşısında çalışırlar. İhtiyaç ve süreç analizi yapmak amacıyla zaman zaman kullanıcı birimlerini ziyaret eder, farklı departmanlardaki çalışanlarla görüşmeler yürütürler. Çalışma sırasında yazılım geliştiriciler, proje yöneticileri, sistem yöneticileri ve kurum içindeki diğer birim çalışanlarıyla yakın iş birliği içinde bulunurlar.\n\nÇalışma saatleri genellikle düzenlidir; ancak proje teslim tarihlerine yaklaşıldığında veya sistem geçişleri/sorunları sırasında mesai saatleri uzayabilir. İş, uzun süre ekran karşısında oturarak yapıldığından göz ve bilek yorgunluğu gibi ergonomik riskler görülebilir; bunun dışında meslek genel olarak fiziksel risk taşımaz.",
+ "calisma_alanlari": "Sistem Analistleri, bilgi işlem/bilgi teknolojileri birimi bulunan her türlü kamu ve özel sektör kuruluşunda istihdam edilebilirler. Başlıca çalışma alanları; bankalar ve finans kuruluşları, kamu kurumlarının bilgi işlem daireleri, yazılım geliştirme ve danışmanlık firmaları, sigorta şirketleri, telekomünikasyon işletmeleri, perakende ve lojistik sektöründeki büyük işletmelerin BT departmanlarıdır. Kurumsal bilgi sistemlerine olan ihtiyacın artması nedeniyle bu alanda nitelikli iş gücüne yönelik talep sürmektedir.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi üniversitelerin ilgili fakültelerinde; başta Bilgisayar Mühendisliği, Yazılım Mühendisliği, Bilgisayar Bilimleri ve Yönetim Bilişim Sistemleri bölümleri olmak üzere ilgili mühendislik ve bilişim programlarında verilmektedir.",
+  "giris_kosullari": [
+   "Lise veya dengi okul mezunu olmak,",
+   "YKS (Yükseköğretim Kurumları Sınavı) kılavuzunda ilgili bölüm için belirtilen giriş koşullarını (gerekli puan türü ve taban puanı) sağlamak,",
+   "Önlisans mezunlarının Dikey Geçiş Sınavı (DGS) ile ilgili lisans programlarına geçiş yapabilmeleri mümkündür."
+  ],
+  "sure_ve_icerik": "Mesleğin eğitim süresi genellikle 4 yıldır. Eğitim süresince programlama, veri yapıları ve algoritmalar, veritabanı yönetim sistemleri, sistem analizi ve tasarımı, yazılım mühendisliği, bilgisayar ağları, proje yönetimi ve iş süreçleri modelleme gibi dersler okutulur.",
+  "belge": "Eğitimini başarı ile tamamlayanlara lisans diploması verilir. Mesleki Yeterlilik Kurumu (MYK) belgesi bu meslekte yasal bir zorunluluk olmayıp istihdamda tercih sebebi olabilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Lisans eğitimi süresince öğrenciler Kredi ve Yurtlar Genel Müdürlüğünün sağladığı öğrenim kredisi ve yurt hizmetlerinden, ayrıca çeşitli resmi ve özel kurumların burslarından yararlanabilirler. İsteyenler staj veya yarı zamanlı çalışma yoluyla hem deneyim hem de ek kazanç sağlayabilir.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında çalışanlar 657 sayılı Devlet Memurları Kanunu çerçevesinde teknik hizmetler sınıfına uygun maaş ve yan ödeme alırlar.",
+   "Özel sektörde ücret; çalışılan kurumun büyüklüğü, sektörü, çalışanın deneyimi ve yetkinliklerine göre değişmekte, işe yeni başlayanlarda genellikle asgari ücret düzeyinden başlayarak deneyimle birlikte artmaktadır."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Lisans eğitimini tamamlayanlar ilgili alanlarda yüksek lisans ve doktora yaparak akademik kariyer yönünde ilerleyebilir, üniversitelerde araştırma görevlisi, öğretim üyesi gibi unvanlara yükselebilirler.",
+  "is_hayatinda": "İş hayatında deneyim kazanan Sistem Analistleri kıdemli analist, proje yöneticisi, sistem mimarı, bilgi teknolojileri (BT) müdürü ve üst düzey bilgi işlem yöneticisi (CIO) gibi pozisyonlara yükselebilir; ayrıca bağımsız danışman olarak çalışabilirler."
+ },
+ "benzer_meslekler": [
+  "Sistem Çözümleyici",
+  "Sistem Mimarı/Tasarımcısı",
+  "BT Çözümleri Uzmanı",
+  "Yönetim Bilişim Sistemleri Uzmanı",
+  "BT İş Analisti (Bilişim Teknolojileri İş Analisti)",
+  "Program Analisti"
+ ],
+ "ek_bilgiler": "Bilgi teknolojileri alanındaki hızlı değişim nedeniyle Sistem Analistlerinin mesleki bilgilerini güncel tutması ve sürekli eğitim/sertifika programlarını takip etmesi önemlidir. Bu meslekte tehlikeli/çok tehlikeli iş sınıfı kapsamında zorunlu bir belge bulunmamaktadır.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T05:47:42",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 4663
+  }
+ }
+}

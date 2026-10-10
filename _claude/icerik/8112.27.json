@@ -1,0 +1,92 @@
+{
+ "arac_gerec": [
+  "Flotasyon (yüzdürme) hücreleri ve tankları",
+  "Liç (kimyasal çözme) tankları ve reaktör tankları",
+  "Bant filtre ve filtre pres sistemleri",
+  "Cila (polish) filtresi",
+  "Vakum kristalizatörü",
+  "Akışkan yataklı kurutucu",
+  "Tikiner (çöktürme/susuzlaştırma) tankı",
+  "Pompa, vana ve boru hattı sistemleri",
+  "Kontrol paneli ve otomasyon ekipmanları",
+  "pH metre, yoğunluk ölçer gibi ölçüm cihazları",
+  "Numune alma ekipmanları",
+  "Kimyasal reaktif hazırlama ve dozajlama ekipmanları",
+  "Kişisel koruyucu donanım (iş elbisesi, eldiven, gözlük, maske, çizme vb.)"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve tedbirli,",
+  "Sorumluluk sahibi,",
+  "Ekip çalışmasına yatkın,",
+  "Fiziksel olarak dayanıklı,",
+  "Kimyasal maddelerle çalışmaya uygun,",
+  "Teknik ve sayısal işlemlere ilgili,",
+  "Kurallara uyan,",
+  "Hızlı ve doğru karar verebilen,"
+ ],
+ "calisma_ortami": "Kimyasal cevher zenginleştirme operatörü, genellikle maden işletmelerine bağlı cevher zenginleştirme (konsantratör) tesislerinde, kapalı veya yarı açık mekânlarda çalışır. Çalışma ortamı nemli, ıslak, gürültülü olabilir; kullanılan kimyasal maddeler (flotasyon reaktifleri, liç kimyasalları vb.) nedeniyle koku ve kimyasal madde teması riski bulunur. Bu nedenle çalışma süresince kişisel koruyucu donanım kullanılması gerekir.\n\nÇalışma genellikle vardiyalı sistemle, ayakta ve hareketli olarak sürdürülür. Operatör; tesisteki diğer operatörler, bakım ve elektrik personeli, mühendis ve teknisyenlerle sürekli iş birliği içinde çalışır; vardiya değişimlerinde bilgi aktarımı yapar.",
+ "calisma_alanlari": "Kimyasal Cevher Zenginleştirme Operatörleri, başta metal madenciliği (altın, gümüş, bakır, çinko, nikel vb.) ve bazı endüstriyel hammadde işletmeleri olmak üzere, flotasyon ve liç yöntemiyle cevher zenginleştirme yapılan tesislerde istihdam edilirler. Özel sektöre ait madencilik şirketlerinin cevher hazırlama/zenginleştirme tesislerinde çalışma olanağı bulunmaktadır. İş bulma olanakları, ülkedeki madencilik faaliyetlerinin ve yeni işletmeye açılan tesislerin yoğunluğuna bağlı olarak değişkenlik gösterir.",
+ "ek_bilgiler": "Çalışılan tesisin özelliğine göre siyanür, asit gibi kimyasal maddelerle temas riski bulunabileceğinden iş sağlığı ve güvenliği kurallarına titizlikle uyulması önemlidir. Bu nedenle bazı işletmeler, işe alımda sağlık uygunluğu şartı arayabilir. Mesleki Yeterlilik Kurumu (MYK) belgesine sahip olmak, işe alımlarda tercih sebebi olabilir.",
+ "gorevler": [
+  "İş sağlığı ve güvenliği ile ilgili yasal düzenlemelere ve işyeri kurallarına uyar.",
+  "Acil durum kurallarını uygular.",
+  "Çevre koruma yöntemlerini uygular.",
+  "Kalite çalışmalarını destekler.",
+  "İş hazırlığını yapar.",
+  "Vardiya başı işlemlerini yapar.",
+  "Yüzdürme (flotasyon) yöntemiyle zenginleştirme yapar.",
+  "Tank liçi ile zenginleştirme yapar.",
+  "Yığın liçi ile zenginleştirme yapar.",
+  "Basınç liçi ile zenginleştirme yapar.",
+  "Reaktör tankı ile zenginleştirme yapar.",
+  "Bant filtre ile zenginleştirme yapar.",
+  "Cila (polish) filtresi ile berraklaştırma yapar.",
+  "Vakum kristalizatörü ile zenginleştirme yapar.",
+  "Akışkan yatak ile kurutma yapar.",
+  "Tikiner ile susuzlaştırma yapar.",
+  "Filtre ile susuzlaştırma yapar.",
+  "Makine ve teçhizatın günlük bakımını yapar.",
+  "Vardiya sonu rapor verir.",
+  "Bireysel mesleki gelişim çalışmalarına katılır.",
+  "Konusuyla ilgili diğer çalışanların mesleki gelişimini destekler."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Bu meslek için örgün eğitim kurumlarında (ortaöğretim/yükseköğretim) doğrudan tanımlanmış bir program bulunmamaktadır. Meslek genellikle işletme bünyesinde işbaşında, usta yanında yetişme yoluyla veya Halk Eğitim Merkezleri ile İŞKUR'un açtığı mesleki eğitim kurslarında kazanılmaktadır. Meslek lisesi veya meslek yüksekokullarının madencilik, cevher hazırlama/zenginleştirme ya da kimya teknolojisi ile ilgili alan ve bölümlerinden mezun olmak da bu mesleğe yönelmede avantaj sağlar.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak.",
+   "Fiziksel olarak çalışmaya uygun ve sağlık durumu işe engel olmayan kişi olmak.",
+   "İşyerinin isteyebileceği temel okuryazarlık ve sayısal işlem becerisine sahip olmak."
+  ],
+  "sure_ve_icerik": "Kurs veya işbaşı eğitiminin süresi ve içeriği, eğitimi veren kuruma ve işletmeye göre değişmektedir. Eğitimlerde genel olarak temel kimya ve madencilik bilgisi, flotasyon ve liç yöntemleri, kullanılan makine ve ekipmanların çalışma prensipleri, iş sağlığı ve güvenliği ile çevre koruma konuları yer alır.",
+  "belge": "Kurs veya eğitime katılanlara kurs bitirme/katılım belgesi verilir. Mesleki Yeterlilik Kurumu (MYK) Mesleki Yeterlilik Belgesine sahip olmak, istihdamda tercih sebebi olabilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Halk Eğitim Merkezi veya kurum kurslarında eğitim süresince genellikle doğrudan bir kazanç söz konusu değildir. İşletme bünyesinde işbaşında yetiştirilenler, çalıştıkları süre için genellikle asgari ücret düzeyinde ücret alabilir.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde ücret alır.",
+   "Deneyim, bilgi birikimi ve çalışılan işletmenin büyüklüğüne göre ücretler artabilir.",
+   "Özel sektörde ücretler işveren ile çalışan arasındaki karşılıklı anlaşmaya göre belirlenir; işçi statüsünde çalışanlar için toplu iş sözleşmesi hükümleri de geçerli olabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Bu meslekte tanımlanmış bir örgün ilerleme basamağı bulunmamaktadır. İsteyenler, madencilik, cevher hazırlama/zenginleştirme veya kimya teknolojisi ile ilgili meslek yüksekokulu programlarına devam ederek mesleki bilgi ve becerilerini geliştirebilir.",
+  "is_hayatinda": "Deneyim, bilgi birikimi ve yeteneklerine göre usta başılığı, vardiya amirliği veya tesis şefliği gibi daha üst sorumluluk gerektiren görevlere yükselebilirler."
+ },
+ "benzer_meslekler": [
+  "Mekanik(Fiziksel) Cevher Zenginleştirme Operatörü",
+  "Jig Operatörü",
+  "Yüzdürme İşletme Operatörü-Maden",
+  "Siyanür Cihazı Operatörü (Cevher İşleme)",
+  "Filtre Tesisi Operatörü-Maden",
+  "Reaktif Hazırlayıcı",
+  "Manyetik Ayırıcı Operatörü-Maden"
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T10:31:06",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6275
+  }
+ }
+}

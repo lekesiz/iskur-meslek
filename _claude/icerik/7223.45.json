@@ -1,0 +1,80 @@
+{
+ "arac_gerec": [
+  "Matkap tezgahı (dik/radyal matkap tezgahları)",
+  "Matkap uçları ve raybalar",
+  "Tezgah aynası (mandren) ve ayna anahtarı",
+  "Tespit ve bağlama parçaları (mengene, kelepçe, tespit cıvataları)",
+  "Ölçü ve kontrol aletleri (kumpas, mikrometre, gönye, mastar, şablon)",
+  "Teknik resim/iş resmi ve çalışma talimatları",
+  "Kesme ve soğutma sıvısı (yağ) sistemi",
+  "Anahtar takımları ve ayar aletleri",
+  "Talaş temizleme fırçası ve zımpara",
+  "Kişisel koruyucu donanım (koruyucu gözlük, iş eldiveni, iş önlüğü)",
+  "Levye (manuel besleme için)",
+  "Parça taşıma ve kaldırma ekipmanları"
+ ],
+ "genel_ozellikler": [
+  "El ve göz koordinasyonuna sahip,",
+  "Şekilleri ve ölçüleri doğru algılayabilen, teknik resim okuyabilen,",
+  "El becerisine sahip,",
+  "Dikkatli ve sabırlı,",
+  "Makine ve aletlerle çalışmaktan hoşlanan,",
+  "Ayakta ve bazen tekrarlı hareketlerle çalışmaya uygun fiziksel dayanıklılığa sahip,",
+  "İş sağlığı ve güvenliği kurallarına duyarlı ve sorumluluk sahibi,",
+  "Takım çalışmasına uyumlu"
+ ],
+ "calisma_ortami": "Matkap Tezgahı Ayarcı-Operatörü, genellikle fabrika veya atölye ortamında, kapalı mekanlarda ve çoğunlukla ayakta çalışır. Çalışma ortamı makine gürültüsü, metal talaşı ve kesme yağı/soğutma sıvısı nedeniyle kısmen kirli ve bazen yağlı olabilir; kesici takımlar ve dönen parçalar nedeniyle iş kazası riski bulunduğundan iş güvenliği kurallarına ve kişisel koruyucu donanım kullanımına özen gösterilmesi gerekir.\n\nÇalışma saatleri işyerinin üretim programına göre belirlenir; vardiyalı çalışma söz konusu olabilir. Operatör, çalışması sırasında büyük ölçüde kendi tezgahı ve işiyle ilgilenir; usta, mühendis, kalite kontrol ve diğer tezgah operatörleriyle iş akışı ve parça teslimleri konusunda kısa süreli iletişim kurar.",
+ "egitim": {
+  "verildigi_yerler": "Bu meslek için Milli Eğitim Bakanlığı tarafından ayrı bir örgün meslek lisesi dalı/programı bulunmamaktadır. Meslek genellikle işyerlerinde usta yanında işbaşı eğitimi yoluyla ya da Metal Teknolojisi alanının ilgili dallarında eğitim veren mesleki eğitim merkezlerinde kazanılır. Ayrıca Halk Eğitim Merkezleri ve İŞKUR tarafından açılan mesleki eğitim kurslarında da ilgili beceriler kazandırılabilir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak (mesleğin gerektirdiği minimum eğitim düzeyi)",
+   "Çıraklık/mesleki eğitim merkezi programlarına katılmak için ilgili yaş ve sağlık koşullarını taşımak",
+   "El ve gözü eşgüdümlü kullanabilme, temel fiziksel uygunluğa sahip olmak"
+  ],
+  "sure_ve_icerik": "Eğitim süresi ve içeriği, kazanım yoluna göre değişir. İşbaşı eğitiminde süre işyerinin ihtiyacına ve çalışanın becerisine bağlı olarak değişkenlik gösterir; usta gözetiminde matkap tezgahının tanınması, iş resmi okuma, takım ve parça bağlama, tezgah ayarları ile iş güvenliği konuları uygulamalı olarak öğretilir. Mesleki eğitim merkezlerinde Metal Teknolojisi alanı kapsamında verilen eğitimlerde ise genel kültür dersleri ile meslek dersleri birlikte okutulur, haftanın bir bölümü okulda teorik eğitime, kalan günler işyerinde uygulamalı eğitime ayrılır. İŞKUR ve Halk Eğitim Merkezi kurslarının süresi kursun içeriğine göre kısa dönemlidir ve temel düzeyde beceri kazandırmayı amaçlar.",
+  "belge": "Mesleki eğitim merkezi programını tamamlayanlara kalfalık/ustalık belgesi verilir. İşbaşı eğitimle yetişenler, çalıştıkları işyerinden deneyim/referans belgesi alabilir. İŞKUR veya Halk Eğitim Merkezi kurslarını tamamlayanlara kurs bitirme/katılım belgesi düzenlenir. Ayrıca Mesleki Yeterlilik Kurumu (MYK) tarafından yetkilendirilmiş kuruluşlardan ilgili metal işleme alanında ulusal yeterlilik belgesi almak, istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Matkap Tezgahı Ayarcı-Operatörleri başta metal işleme ve makine imalatı olmak üzere, otomotiv yedek parça üretimi, tarım makineleri, inşaat ve beyaz eşya gibi metal parça kullanan her türlü sanayi dalında, özel sektöre ait küçük ve orta ölçekli atölyeler ile büyük fabrikaların üretim bölümlerinde iş bulabilirler. Mesleğin istihdam hacmi, imalat sanayinin genel durumuna ve üretim hacmine bağlı olarak dalgalanma gösterebilir. CNC ve bilgisayar destekli tezgahların yaygınlaşması, geleneksel manuel matkap tezgahı operatörlüğüne olan talebi zamanla azaltabileceğinden, bu alanda çalışmak isteyenlerin CNC teknolojisine de aşina olmaları iş bulma olanaklarını artırabilir.",
+ "kazanc": {
+  "egitim_suresince": "İşyerinde çırak veya stajyer olarak eğitim görülmesi durumunda 3308 sayılı Mesleki Eğitim Kanunu kapsamında asgari ücretin belirli bir oranında ücret ödenir ve eğitim gören kişinin iş kazası ile meslek hastalığı sigortası devletçe karşılanır. İŞKUR veya Halk Eğitim Merkezi kurslarında genellikle ücret ödenmez; bazı İŞKUR kurs programlarında katılımcılara kursiyer harçlığı verilebilir.",
+  "egitim_sonrasi": [
+   "Özel sektörde ücret, işyerinin büyüklüğü, deneyim ve beceri düzeyine göre karşılıklı anlaşma ile belirlenir; işe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Deneyim ve ustalık kazandıkça, özellikle özel sektörde kazanç artabilir.",
+   "Kamu kurumlarında işçi statüsünde çalışanlar, ilgili toplu iş sözleşmesi hükümlerine göre ücret alır."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleki eğitim merkezinde kalfalık eğitimini tamamlayanlar, bir yıl daha eğitim görerek ustalık belgesi alabilir. Ustalık belgesine sahip olanlar, fark derslerini tamamlamaları halinde meslek lisesi diploması ve işyeri açma belgesi alabilirler. Ayrıca CNC tezgah teknolojisine yönelik ek eğitimlerle daha ileri teknoloji gerektiren tezgahlarda çalışabilecek yeterlilik kazanılabilir.",
+  "is_hayatinda": "Deneyim kazandıkça usta, kalite kontrol sorumlusu, ekip/vardiya şefi veya atölye sorumlusu gibi görevlere yükselinebilir. Yeterli birikim ve sermayeye sahip olanlar kendi metal işleme atölyesini açabilir."
+ },
+ "gorevler": [
+  "Yapılacak parçanın resmini ve özelliklerini inceler",
+  "Matkap ucunu ya da raybayı seçer ve makinenin aynasına sabitler",
+  "Tespit parçası ve gerekirse diğer bağlantı parçaları ile metali tezgahın tablasına yerleştirir ve bağlar",
+  "Yatakları ve tespit parçalarını ayarlar",
+  "Kesici bıçağın dönüş hızını ayarlar ve tezgahı çalıştırır",
+  "İşlenecek parçanın delinmesi için kesici bıçağı levye ile bastırır ya da kesici bıçağın metali otomatik olarak delmesi için tezgahı ayarlar ve çalıştırır",
+  "Kesici bıçağın ucuna yağın akışını kontrol eder",
+  "Gerekirse matkap ucunun ya da raybanın ve metalin yerini değiştirir",
+  "Kesici ucun ilerlemesini kontrol eder ve gerekirse makine tezgahının ayarlarını düzenler",
+  "Özel tip bir matkap tezgahında ihtisas yapabilir ve buna göre sınıflandırılabilir",
+  "Mesleki gelişim faaliyetlerinde bulunur"
+ ],
+ "benzer_meslekler": [
+  "Boring Matkap Tezgâhı Ayarcı-Operatörü (Metal İşçiliği)",
+  "Boring Matkap Tezgahı Operatörü-Metal İşçiliği",
+  "Borverk (Bohrwerk) Operatörü",
+  "Matkap Tezgahı Operatörü-Metal İşçiliği",
+  "Freze Tezgahı Ayarcı-Operatörü (Metal İşçiliği)",
+  "Metal İşleme Tezgahı Ayarcısı"
+ ],
+ "ek_bilgiler": "CNC ve bilgisayar destekli üretim tezgahlarının giderek yaygınlaşması, geleneksel manuel/yarı otomatik matkap tezgahı operatörlüğüne duyulan talebi uzun dönemde azaltabilir. Bu nedenle bu meslekte çalışmak isteyenlerin, kariyerlerini güçlendirmek için CNC tezgah kullanımı ve bilgisayar destekli üretim konularında da bilgi ve beceri edinmeleri önerilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T01:42:46",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6978
+  }
+ }
+}

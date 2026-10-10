@@ -1,0 +1,80 @@
+{
+ "arac_gerec": [
+  "Radar sistemleri ve ekranları",
+  "Gemi Trafik Hizmetleri (VTS) konsolları ve yazılımları",
+  "Otomatik Tanımlama Sistemi (AIS) alıcı-vericileri",
+  "VHF telsiz ve haberleşme cihazları",
+  "CCTV kamera ve görüntüleme sistemleri",
+  "Hidro-meteorolojik veri izleme sistemleri",
+  "Bilgisayar ve gemi veri tabanı yazılımları",
+  "Elektronik seyir haritaları (ENC) ve deniz haritaları",
+  "Kayıt ve ses kayıt sistemleri",
+  "Telefon ve interkom haberleşme sistemleri"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli, tedbirli ve sorumluluk duygusu gelişmiş,",
+  "Hızlı ve doğru karar verebilen,",
+  "Stres altında sakin kalabilen,",
+  "İyi derecede İngilizce bilen (denizcilik terminolojisine hakim),",
+  "İşitme ve görme duyuları güçlü,",
+  "Takım çalışmasına uyumlu ve iletişim becerisi iyi,",
+  "Coğrafya ve haritacılığa ilgili,",
+  "Uzun süre ekran başında dikkatini sürdürebilen"
+ ],
+ "calisma_ortami": "Deniz Trafik Operatörleri, genellikle Gemi Trafik Hizmetleri (GTH) merkezlerinin kontrol odalarında, kapalı mekanda çalışır. Çalışma süresince radar, AIS ve CCTV ekranlarını sürekli izleyerek sorumluluk sahası içindeki gemi trafiğini takip ederler. Yoğun deniz trafiğine sahip boğaz ve liman bölgelerinde görev yapıldığından iş, yüksek dikkat ve konsantrasyon gerektirir; herhangi bir ihmal veya hatalı değerlendirme ciddi sonuçlara yol açabileceğinden sorumluluk düzeyi yüksektir.\n\nÇalışma genellikle 24 saat kesintisiz hizmet esasına dayandığından vardiyalı (gece-gündüz, hafta sonu dahil) bir düzende yürütülür. Meslek elemanları, görevleri sırasında gemi kaptanları, acenteler, kılavuz kaptanlar, liman başkanlığı, sahil güvenlik ve diğer sektör operatörleriyle sürekli sesli ve yazılı iletişim halindedir. Ekran başında uzun süre oturarak çalışmanın getirdiği göz ve sırt yorgunluğu ile vardiyalı çalışmanın biyolojik ritme etkisi mesleğin olası riskleri arasındadır.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin gerektirdiği minimum eğitim düzeyi ortaöğretim (lise ve dengi) olarak belirlenmiştir; bu mesleğe özgü, standart ve yaygın örgün bir eğitim programı (lise alanı/dalı veya ön lisans-lisans bölümü) bulunmamaktadır. Meslek elemanları genellikle lise mezuniyetinin yanı sıra denizcilik alanında eğitim veren meslek yüksekokulu veya fakültelerden (örneğin gemi ve deniz teknolojisi, deniz ulaştırma işletme gibi bölümlerden) mezun olmaktadır. Bu temel eğitimin ardından, görev alacakları Gemi Trafik Hizmetleri merkezini işleten ilgili kamu kurumu (Ulaştırma ve Altyapı Bakanlığı bünyesindeki birimler) tarafından düzenlenen Gemi Trafik Hizmetleri (VTS) operatörlüğü eğitim ve sertifikasyon sürecine katılırlar.",
+  "giris_kosullari": [
+   "En az lise ve dengi okul mezunu olmak (denizcilik alanında eğitim almış olmak tercih sebebidir)",
+   "İlgili kurumun açtığı sınav, mülakat ve değerlendirme süreçlerinde başarılı olmak",
+   "Sağlık durumunun, özellikle işitme ve görme açısından, mesleği yapmaya uygun olduğunu belgelemek",
+   "Yabancı dil (İngilizce) yeterliliğini gösteren sınav ve değerlendirmelerde başarılı olmak"
+  ],
+  "sure_ve_icerik": "Mesleğe özgü, resmî olarak belirlenmiş standart bir eğitim süresi bulunmamaktadır. İşe alınan kişiler, görev yapacakları Gemi Trafik Hizmetleri merkezinde teorik ve uygulamalı bir VTS operatörlüğü kursuna alınır; bu kurslarda radar ve AIS kullanımı, seyir emniyeti kuralları, ulusal ve uluslararası denizcilik mevzuatı, haberleşme prosedürleri ve acil durum yönetimi gibi konular işlenir. Teorik eğitimin ardından, deneyimli bir operatörün gözetiminde belirli bir süre işbaşında uygulamalı çalışma (staj/adaylık) dönemi yürütülür.",
+  "belge": "Eğitim ve değerlendirme sürecini başarıyla tamamlayanlara, görev yapacakları Gemi Trafik Hizmetleri merkezinde mesleği bağımsız olarak uygulama yetkisi veren bir operatörlük sertifikası/yetki belgesi verilmektedir."
+ },
+ "calisma_alanlari": "Meslek elemanları, başta Ulaştırma ve Altyapı Bakanlığı'na bağlı Gemi Trafik Hizmetleri (GTH) merkezleri olmak üzere, yoğun deniz trafiğine sahip boğaz geçişleri ve büyük liman bölgelerinde istihdam edilmektedir. Ayrıca bazı büyük liman işletmelerinin kendi bünyelerinde kurduğu trafik yönetim ve izleme merkezlerinde de görev alabilirler. Bu merkezlerin sayısının sınırlı olması nedeniyle iş bulma olanağı, açılan kadro ve ihtiyaç durumuna bağlı olarak değişmektedir.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğe özgü standart bir örgün eğitim süreci bulunmadığından, eğitim süresince ayrıca bir kazanç söz konusu değildir; işe alındıktan sonra verilen operatörlük eğitimi ve adaylık sürecinde çalışanlar genellikle çalıştıkları kurumun ücret politikasına göre maaş alırlar.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında istihdam edilenler, memur statüsünde iseler 657 sayılı Devlet Memurları Kanunu'na, işçi statüsünde iseler ilgili toplu iş sözleşmesi hükümlerine göre ücret alırlar.",
+   "Özel sektörde (liman işletmeleri vb.) çalışanların kazancı, işyerinin büyüklüğü, kişinin deneyimi, bilgi ve becerisi ile sektördeki ücret düzeyine göre değişebilir.",
+   "Mesleğe yeni başlayanların kazancı genellikle asgari ücret ile kurumun taban ücret düzeyi arasında değişmektedir; deneyim arttıkça kazanç da artış gösterebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Bu meslekte, diğer bazı meslekler gibi dikey geçiş sınavı (DGS) yoluyla ilerleyen resmî bir eğitim basamağı bulunmamaktadır. Meslek elemanları, kurumlarının düzenlediği ileri seviye VTS operatörlüğü, baş operatörlük veya yöneticilik eğitimlerine katılarak bilgi ve yetkinliklerini artırabilirler.",
+  "is_hayatinda": "Deneyim kazanan Deniz Trafik Operatörleri, kıdem ve performanslarına bağlı olarak baş operatör, vardiya amiri veya merkez şefi gibi görevlere yükselebilir; zaman içinde idari kadrolarda yöneticilik pozisyonlarına ilerleyebilirler."
+ },
+ "benzer_meslekler": [
+  "AIS Memuru",
+  "Muhabere Operatörü (Kıyı Emniyeti)",
+  "Telsiz Operatörü-Gemi",
+  "Telsiz-Telefon Operatörü",
+  "CCTV Operatörü",
+  "Haberleşme Servisi Nezaretçisi"
+ ],
+ "ek_bilgiler": "Bu meslek, özellikle Türk Boğazları ve yoğun deniz trafiğine sahip liman bölgelerinde uygulanan Gemi Trafik Hizmetleri (VTS) sistemi kapsamında yürütülmektedir. Görev, uluslararası denizcilik kuruluşlarının belirlediği standartlara uygun eğitim ve sertifikasyon süreçlerinin önem taşıdığı, yüksek sorumluluk ve dikkat gerektiren özel bir çalışma alanıdır. Çalışma düzeni genellikle 24 saat kesintisiz vardiya sistemine dayanır.",
+ "gorevler": [
+  "Sorumluluk sahası içerisindeki aktif katılımcı gemilere trafik organizasyon hizmeti verir.",
+  "Sorumluluk sahası içerisindeki aktif katılımcı gemilere bilgi hizmeti verir.",
+  "İstendiğinde veya gerektiğinde aktif katılımcı gemilere seyir yardımı hizmeti verir.",
+  "Gemi trafik hizmetlerinde tüm trafik akışının düzen ve emniyetinin artırılmasını sağlar.",
+  "Gemilerin ulusal ve uluslararası kural, tüzük ve yönetmeliklere uyup uymadığını kontrol eder.",
+  "Kural, tüzük, yönerge ve yönetmelik ihlallerini saptadığında Gemi Trafik Hizmetleri baş operatörüne rapor eder ve ilgili formu doldurup imzalayarak iletir.",
+  "Sorumluluk sahasındaki tüm aktif katılımcı gemileri tanımlar, etiketler ve özelliklerini veri tabanından kontrol eder.",
+  "Talep edildiğinde gemilere güncellenmiş hidro/meteorolojik bilgileri sağlar.",
+  "Sorumluluk sahasından ayrılan bir geminin sonraki sektör operatörü tarafından izlendiğinden emin olur.",
+  "Hizmet alanından çıkan geminin hizmete katılımını sonlandırır.",
+  "Konusuyla ilgili diğer görevleri yerine getirir.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T15:24:08",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 7762
+  }
+ }
+}

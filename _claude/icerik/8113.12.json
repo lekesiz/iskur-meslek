@@ -1,0 +1,89 @@
+{
+ "arac_gerec": [
+  "Sondaj kulesi (kule mastı)",
+  "Döner masa (rotary table)",
+  "Köşeli boru (kelly)",
+  "Sondaj matkabı (drill bit)",
+  "Muhafaza boruları ve kondüktör borusu",
+  "Sondaj çamuru hazırlama ve pompalama ekipmanları",
+  "Fırdöndü (swivel) ve sondaj hortumu",
+  "Vinç, taç makara ve halat donanımları",
+  "Karotiyer ve karot matkabı",
+  "Tahlisiye (fishing) aletleri",
+  "Drill Stem Test takımı",
+  "Çimentolama ekipmanları",
+  "Anahtar takımları ve el aletleri",
+  "Telsiz ve saha haberleşme cihazları",
+  "Kişisel koruyucu donanım (baret, eldiven, iş elbisesi, çelik burunlu bot, koruyucu gözlük, kulaklık)"
+ ],
+ "genel_ozellikler": [
+  "Fiziksel güce ve dayanıklılığa sahip,",
+  "El ve beden koordinasyonu iyi,",
+  "Ekip çalışmasına yatkın,",
+  "Dikkatli, sorumluluk sahibi ve soğukkanlı,",
+  "Zor hava koşullarında ve açık havada çalışmaya istekli,",
+  "Teknik alet, makine ve ekipmanları etkin kullanabilen,",
+  "Hızlı ve doğru karar verebilen,",
+  "İş sağlığı ve güvenliği kurallarına titizlikle uyan"
+ ],
+ "calisma_ortami": "Petrol Sondörü, genellikle açık havada kurulan sondaj sahalarında, bazen kırsal ve ıssız bölgelerde, bazen de şehir dışında kamp düzeninde çalışır. Çalışma ortamı gürültülü, tozlu, yağlı ve hava koşullarına (sıcak, soğuk, yağmur, rüzgâr) açıktır; kule üzerinde yükseklikte çalışma, ağır ekipmanlarla temas ve makine kaynaklı kazalar gibi riskler barındırır. Bu nedenle kişisel koruyucu donanım kullanımı ve iş sağlığı güvenliği kurallarına uyum zorunludur.\\n\\nÇalışma genellikle vardiya sistemiyle, gece-gündüz kesintisiz olarak yürütülür ve uzun süreli saha/kamp görevlerini kapsayabilir. Sondaj mühendisi, sondaj çamurcusu, yardımcı sondör, vinç operatörü, kule montörü ve diğer saha personeli ile yakın işbirliği içinde, ekip halinde çalışılır.",
+ "gorevler": [
+  "Sondaj makinesi ekipmanlarını kule planına göre yerleştirir ve kule mastını birleştirir,",
+  "Taç makarayı ve manevra yerini bağlar, halat donanımları yapar ve kuleyi kaldırır,",
+  "Platform ekipmanlarının montajını yapar ve kondüktör borusunu yerleştirir,",
+  "Sondaj çamuru hazırlar,",
+  "Köşeli boruyu (kelly) ve sondaj hortumunu fırdöndüye bağlar,",
+  "Yan ve ön delikleri kazar ve borularını yerleştirir,",
+  "Kule merkez ayarı ve fonksiyon testi yaparak sondaj hazırlığı yapar,",
+  "Sondaj matkabı ve köşeli boru kılavuzunu bağlayarak sondaj dizisi oluşturur,",
+  "Drill-off testi yapar ve sondaj parametrelerini uygular,",
+  "Kuyu temizler, muhafaza borusunu kuyuya indirir ve çimentolama yapar,",
+  "Tahlisiye aletlerini bağlar ve kuyuya indirir, tahlisiye operasyonu yapar, aletleri kuyudan çeker ve söker,",
+  "Karot matkabını karotiyere bağlar ve kuyuya indirir, karot sondajı yapar, karot çıkışı yapar ve söker,",
+  "Drill Stem testi için test takımını bağlar, kuyuya indirir, test yapar, test takımını kuyudan çeker ve söker,",
+  "Sondaj dizisini, platform ekipmanlarını ve yardımcı elemanlarını söker,",
+  "Kuyu başı düzeneğini, ön ve yan delik borularını söker, kuleyi yatırır, halat donanımlarını söker,",
+  "Taç makarayı ve kule mastını ayırma işlemleri ile kule makinesinin demontajını yapar,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Petrol Sondörlüğü mesleğine ilişkin ayrı ve resmî bir örgün eğitim programı bulunmamaktadır. Mesleğe giriş genellikle petrol ve doğal gaz sondaj işletmelerinde 'yardımcı sondör' olarak işe başlayıp, deneyimli sondörlerin gözetiminde işbaşında (usta-çırak ilişkisi içinde) uzun süreli uygulamalı eğitimle gerçekleşir. Bu sürece İŞKUR ve ilgili kamu/özel kuruluşların açtığı mesleki eğitim ve iş sağlığı-güvenliği kursları eşlik edebilir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak.",
+   "Ağır ve tehlikeli işlerde çalışmaya uygun olduğunu gösteren sağlık raporuna sahip olmak.",
+   "Fiziksel olarak dayanıklı ve saha/kule çalışmasına uygun olmak."
+  ],
+  "sure_ve_icerik": "Meslek, sahada kademeli olarak öğrenilir; yardımcı sondörlükten başlanarak sondaj ekipmanlarının montajı, sondaj çamuru hazırlama, kuyu açma, karotaj ve test işlemleri gibi uygulamalar uzun süreli deneyim yoluyla kazanılır. Bu sürecin tamamlanması genellikle birkaç yılı bulur. Ayrıca ilgili kamu kurumları ve İŞKUR tarafından açılan mesleki eğitim kursları ile iş sağlığı ve güvenliği eğitimleri bu uygulamalı öğrenme sürecini tamamlayıcı niteliktedir.",
+  "belge": "Kurs/eğitim bitirme belgesi ve işletme tarafından düzenlenen deneyim/yeterlilik belgesi verilebilir; Mesleki Yeterlilik Kurumu (MYK) belgesi de alınabilir."
+ },
+ "calisma_alanlari": "Petrol Sondörü, petrol ve doğal gaz arama, sondaj ve üretim faaliyeti yürüten kamu ve özel sektör işletmelerine ait sondaj sahalarında çalışır. Bu işletmeler yurt içinde belirli bölgelerde yoğunlaşmakla birlikte, uluslararası sondaj projelerinde de görev alınabilir. Türkiye'de bu alanda faaliyet gösteren işletme sayısının sınırlı olması nedeniyle iş bulma olanakları, sektördeki arama ve üretim yatırımlarının yoğunluğuna bağlı olarak değişkenlik gösterir.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğe giriş genellikle sahada yardımcı sondör olarak çalışarak gerçekleştiğinden, bu dönemde kişi çalıştığı işletmenin belirlediği ücreti alır; ayrı ve ücretsiz bir eğitim dönemi söz konusu değildir.",
+  "egitim_sonrasi": [
+   "Deneyimsiz başlayanlar genellikle asgari ücret düzeyinde veya buna yakın bir ücretle işe başlar.",
+   "Mesleki deneyim, bilgi birikimi, görev sorumluluğu (yardımcı sondör-sondör-vardiya amiri) ve çalışılan işletmeye göre kazanç artabilir.",
+   "Yer altı/tehlikeli işlerde çalışan işçilerin çalışma süresi ve ücret koşullarına ilişkin yasal düzenlemeler bulunabilir; kesin kazanç düzeyi işveren ile yapılan sözleşmeye göre değişir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğe ilişkin örgün bir eğitimde ilerleme basamağı bulunmamaktadır; ilerleme, sahada kazanılan deneyim ve ek mesleki eğitim/kurslarla gerçekleşir.",
+  "is_hayatinda": "Deneyim ve bilgi birikimine göre yardımcı sondörlükten sondörlüğe, oradan vardiya amirliğine, sondaj ustabaşılığına, saha şefliğine ve sondaj müdürlüğü gibi görevlere yükselme mümkündür."
+ },
+ "benzer_meslekler": [
+  "Çektirmeci-Petrol ve Doğal Gaz Kuyuları",
+  "Çimentolama, Asitleme ve Test Operatörü-Petrol ve Doğal Gaz Kuyuları",
+  "Döner Sondaj Makinesi Operatörü-Petrol ve Doğal Gaz Kuyuları",
+  "Kablolu Sondaj Makinesi Operatörü-Petrol ve Doğal Gaz Kuyuları",
+  "Sondaj Kulesi Montörü-Petrol ve Doğal Gaz Kuyuları",
+  "Sondaj Çamurcusu"
+ ],
+ "ek_bilgiler": "Petrol Sondörlüğü, saha koşulları ve kullanılan ağır ekipmanlar nedeniyle tehlikeli/çok tehlikeli işler kapsamında değerlendirilebilen bir meslektir; iş sağlığı ve güvenliği kurallarına titizlikle uyulması gerekir. Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir. Sektördeki istihdam olanakları, petrol ve doğal gaz arama/üretim yatırımlarının seyrine bağlı olarak zaman içinde değişkenlik gösterebilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T10:37:54",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6924
+  }
+ }
+}

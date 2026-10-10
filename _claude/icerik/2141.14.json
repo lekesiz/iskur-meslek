@@ -1,0 +1,75 @@
+{
+ "arac_gerec": [
+  "3D yazıcılar (FDM, SLA/DLP, SLS vb. teknolojiler)",
+  "Slicer (dilimleme) yazılımları",
+  "Bilgisayar destekli tasarım (CAD) yazılımları",
+  "Filament, reçine gibi baskı hammaddeleri",
+  "Yazıcı kalibrasyon araçları",
+  "Dijital kumpas ve ölçüm aletleri",
+  "Zımpara, bıçak ve yüzey işleme araçları",
+  "UV kürleme fırını (reçine baskılar için)",
+  "Sıcaklık ve nem kontrol ekipmanları",
+  "Kişisel koruyucu donanım (eldiven, maske, koruyucu gözlük)",
+  "Bilgisayar ve çevre birimleri",
+  "Yedek parça ve temel bakım takımları",
+  "Hammadde depolama/saklama kapları"
+ ],
+ "genel_ozellikler": [
+  "Teknik ve analitik düşünme yeteneğine sahip,",
+  "El ve göz koordinasyonu iyi,",
+  "Detaylara dikkat eden ve titiz,",
+  "Sabırlı ve sorunları çözme becerisi gelişmiş,",
+  "Yeni teknolojilere ilgili ve öğrenmeye açık,",
+  "Takım çalışmasına uyumlu,",
+  "Estetik algısı gelişmiş,",
+  "Sorumluluk duygusu gelişmiş"
+ ],
+ "calisma_ortami": "3D Üretim Uzmanları genellikle kapalı ortamda, atölye, üretim tesisi veya mühendislik/tasarım ofislerinde çalışır. Tasarım dosyalarının hazırlanması ve slicer ayarlarının yapılması bilgisayar başında, büro benzeri bir ortamda gerçekleşirken; baskı sürecinin izlenmesi, hammadde yüklemesi, yazıcı bakımı ve baskı sonrası işlemler atölye ortamında yapılır. Eriyen filamentten veya reçineden kaynaklanan koku, ısı ve bazı durumlarda kimyasal maddelere kısa süreli temas söz konusu olabileceğinden kişisel koruyucu donanım kullanımı gerekebilir.\n\nMeslek mensubu; mühendislik ekibi, tasarımcılar, üretim personeli ve zaman zaman müşterilerle iş birliği içinde çalışır. Çalışma genellikle gündüz saatlerinde yürütülür; ancak üretim takvimine ve sipariş yoğunluğuna göre mesai süresi değişebilir.",
+ "gorevler": [
+  "Tasarım dosyalarını baskı yazılımlarına (slicer) aktarır ve ayar yapar,",
+  "3D yazıcının hammadde (filament, reçine vb.) yüklemesini gerçekleştirir,",
+  "Baskı sürecini izleyerek olası teknik hatalara müdahale eder,",
+  "Baskı sonrası destek yapılarını temizler ve yüzey iyileştirmesi yapar,",
+  "Yazıcıların periyodik bakımını ve kalibrasyonunu sağlar,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Mesleğin gerektirdiği minimum eğitim düzeyi lisanstır. Üniversitelerin Endüstri Mühendisliği, Makine Mühendisliği, Mekatronik Mühendisliği, İmalat/Üretim Mühendisliği gibi ilgili mühendislik bölümlerinden lisans eğitimi alanlar bu mesleğe yönelebilir. Türkiye'de eklemeli imalat (3D baskı) konusunda doğrudan ayrı bir lisans programı bulunmamakta olup, mesleğe özgü uygulamalı bilgi ve beceriler bu mühendislik bölümlerindeki ilgili ders ve laboratuvar çalışmalarıyla, ayrıca işbaşında eğitim ve sertifika programlarıyla kazanılır.",
+  "giris_kosullari": [
+   "Lise veya dengi okul mezunu olmak,",
+   "YKS (Yükseköğretim Kurumları Sınavı) kılavuzunda belirtilen ilgili mühendislik programları için gerekli koşulları taşımak."
+  ],
+  "sure_ve_icerik": "Lisans eğitimi, lise sonrası 4 yıl, hazırlık sınıfı bulunan üniversitelerde 5 yıl sürer. Eğitim süresince mühendislik temel dersleri yanında malzeme bilimi, üretim teknolojileri, bilgisayar destekli tasarım (CAD/CAM) ve eklemeli imalat (3D baskı) teknolojilerine ilişkin dersler verilir. Slicer yazılımlarının kullanımı, yazıcı kalibrasyonu ve baskı sonrası işlemler gibi mesleğe özgü uygulamalı beceriler genellikle staj, işbaşında eğitim veya üretici firmaların/eğitim kurumlarının düzenlediği kısa süreli sertifika kursları ile geliştirilir.",
+  "belge": "Lisans eğitimini başarı ile tamamlayanlara mühendislik lisans diploması verilir. Ayrıca katılınan mesleki sertifika programları sonunda katılım veya başarı belgesi alınabilir."
+ },
+ "calisma_alanlari": "3D Üretim Uzmanları; eklemeli imalat (3D baskı) hizmeti veren işletmelerde, prototip ve kalıp üretimi yapan fabrikalarda, mühendislik ve tasarım ofislerinde çalışabilirler. Otomotiv, havacılık, mücevher, mimarlık, eğitim ve sağlık (protez-ortez, diş hekimliği gibi) alanlarında eklemeli imalat teknolojilerinin kullanıldığı kurum ve işletmeler de çalışma alanları arasındadır. 3D baskı teknolojisinin kullanım alanlarının giderek yaygınlaşması, bu meslekte istihdam olanaklarının gelecekte artabileceğine işaret etmektedir.",
+ "kazanc": {
+  "egitim_suresince": "Lisans eğitimi süresince öğrenciler, Kredi ve Yurtlar Genel Müdürlüğünün sağladığı öğrenim kredisi ve yurt hizmetlerinden yararlanabilir; ayrıca çeşitli resmi ve özel kurum/kuruluşlar tarafından sağlanan burslardan faydalanabilirler.",
+  "egitim_sonrasi": [
+   "Kazanç; çalışılan işletmenin büyüklüğüne, sektöre, kişinin tecrübesine ve uzmanlık düzeyine göre değişir.",
+   "Kamu kurum ve kuruluşlarında çalışanlar 657 sayılı Devlet Memurları Kanunu'na göre ücret alır ve ilgili zam/tazminatlardan yararlanır.",
+   "Özel sektörde işe yeni başlayanlar genellikle asgari ücret düzeyinde bir ücretle çalışmaya başlayabilir; deneyim ve uzmanlık arttıkça kazanç da artabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mezunlar, ilgili mühendislik alanlarında yüksek lisans ve doktora yaparak akademik kariyer yapabilir; eklemeli imalat, malzeme bilimi veya üretim teknolojileri konularında uzmanlaşabilirler.",
+  "is_hayatinda": "Deneyim kazanan 3D Üretim Uzmanları üretim ekip liderliği, proje sorumluluğu veya Ar-Ge uzmanlığı gibi görevlere yükselebilir; nitelikli ve başarılı olanlar işletmelerde üst düzey yöneticilik pozisyonlarına getirilebilir."
+ },
+ "benzer_meslekler": [
+  "Endüstri Mühendisi",
+  "İmalat Mühendisi/Üretim Mühendisi",
+  "Makine Mühendisi",
+  "Kalite Kontrol Mühendisi",
+  "Üretim ve Planlama Mühendisi",
+  "Mekatronik Mühendisi"
+ ],
+ "ek_bilgiler": "3D baskı (eklemeli imalat) teknolojileri hızla gelişmekte olduğundan, bu mesleği yapmak isteyenlerin yazılım ve donanımdaki yenilikleri sürekli takip etmesi önemlidir. Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda tercih sebebi olabilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-07T21:15:14",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6148
+  }
+ }
+}

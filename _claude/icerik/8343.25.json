@@ -1,0 +1,87 @@
+{
+ "arac_gerec": [
+  "RTG (Rubber Tyred Gantry) konteyner vinci",
+  "SSG (Ship to Shore Gantry) rıhtım vinci",
+  "Spreader (konteyner kaldırma başlığı)",
+  "Kumanda paneli ve joystick sistemleri",
+  "Telsiz ve haberleşme cihazları",
+  "Kamera ve izleme/monitör sistemleri",
+  "Terminal işletim sistemi (TOS) ekran birimi",
+  "Konteyner kilitleme ve twist-lock ekipmanları",
+  "Kişisel koruyucu donanım (baret, iş elbisesi, çelik burunlu ayakkabı, kulaklık, yelek)",
+  "Yağlama ve basit bakım ekipmanları",
+  "Arıza bildirim ve çalışma kayıt formları",
+  "El feneri ve sinyalizasyon ekipmanları"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve tedbirli,",
+  "El ve gözünü eşgüdümle, hassas şekilde kullanabilen,",
+  "Çevresindeki görsel ve işitsel uyarıları aynı anda algılayabilen,",
+  "Sorumluluk sahibi ve disiplinli,",
+  "Yüksekte ve kapalı kabinde uzun süre çalışmaya uygun,",
+  "Ani ve kritik durumlarda hızlı, soğukkanlı karar verebilen,",
+  "Mekanik ve teknik sistemlere ilgili,",
+  "Ekip halinde, talimat ve işaretlere uyarak çalışabilen"
+ ],
+ "calisma_ortami": "\"Liman Vinç Operatörü (RTG ve SSG), görevini liman, rıhtım, iskele ve konteyner terminali sahalarında, RTG veya SSG vincinin yüksekte konumlanmış kabini içinde oturarak yürütür. Kabin kapalı olmakla birlikte çalışma alanı açık havaya maruz kaldığından; rüzgâr, yağmur, sıcak-soğuk hava koşulları, gürültü ve gemi/liman trafiğinin getirdiği yoğunluk çalışma koşullarını etkileyebilir. İş genellikle vardiyalı olarak, gece ve gündüz saatlerinde, gemi sefer programına bağlı şekilde yürütülür.\\n\\nOperatör; çalışma süresince operasyon yöneticisi, serdümen, saha ekibi, bakım personeli ve diğer vinç/araç operatörleri ile telsiz veya işaretler yoluyla sürekli iletişim halindedir. Yük ve konteyner elleçleme işlemleri yüksekte, hareketli ve ağır ekipmanlarla yapıldığından dikkatsizlik ciddi iş kazalarına yol açabilir; bu nedenle iş sağlığı ve güvenliği kurallarına titizlikle uyulması gerekir.\"",
+ "gorevler": [
+  "İş sağlığı ve güvenliği konusundaki yasal ve işyerine ait kuralları uygular.",
+  "Kalite yönetim sistemi dokümanlarına uygun çalışır.",
+  "Çalışma öncesinde iş makinesinin genel ve dış kontrolünü yapar.",
+  "Fonksiyonel kontrolleri yapar.",
+  "İş makinesinin görüş aksamının ve kabininin temizliğini yapar.",
+  "Arıza bildiriminde bulunur.",
+  "RTG'nin hattını değiştirir.",
+  "Serdümenin işaretlerini takip eder.",
+  "Çalışma esnasında bekleme yapar.",
+  "Operasyon başlama onaylarını takip eder.",
+  "Spreaderi yüke veya konteynere sabitler.",
+  "Yükü veya konteyneri vira yapar (kaldırır).",
+  "Yükü veya konteyneri trolleyle yürütür.",
+  "Aktarma araçlarını yönlendirir.",
+  "Yükü veya konteyneri mayna yapar (indirir).",
+  "SSG ile gemide kapak açma hareketini yapar.",
+  "SSG ile gemide kapak kapama hareketini yapar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi; liman işletmelerinin kendi bünyesindeki eğitim birimlerinde, Halk Eğitim Merkezleri ile İŞKUR'un açtığı mesleki eğitim kurslarında ve özel kurs firmalarında verilmektedir. Eğitimin önemli bir bölümü, deneyimli bir operatörün (usta operatör) gözetiminde işbaşında tamamlanır.",
+  "giris_kosullari": [
+   "18 yaşını doldurmuş olmak",
+   "En az ilköğretim mezunu olmak",
+   "Operatörlük yapmasını engelleyecek bir sağlık probleminin (görme, işitme, denge, yükseklik vb.) bulunmaması",
+   "İlgili kurumun belirlediği psikoteknik ve sağlık değerlendirmelerinden geçmek"
+  ],
+  "sure_ve_icerik": "Eğitim süresi ve içeriği, eğitimi veren kuruma ve işletmeye göre değişmekle birlikte genellikle iş sağlığı ve güvenliği, liman mevzuatı, konteyner elleçleme kuralları, vincin teknik yapısı ve kumanda sistemleri gibi konuları içeren teorik dersler ile simülatör uygulamaları ve gerçek ekipman üzerinde usta yanında yapılan pratik eğitimden oluşur.",
+  "belge": "Eğitimi tamamlayanlara kurumca düzenlenen operatör sertifikası/katılım belgesi verilir. Konteyner elleçleme faaliyetlerinin tehlikeli iş kapsamında değerlendirilmesi nedeniyle, Mesleki Yeterlilik Kurumu (MYK) Mesleki Yeterlilik Belgesi istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "\"Liman Vinç Operatörü (RTG ve SSG); konteyner terminallerine sahip limanlarda, liman işletmeciliği yapan kamu ve özel şirketlerde, gemi yükleme-boşaltma hizmeti veren liman ve rıhtım işletmelerinde istihdam edilir. Dış ticaret ve konteyner taşımacılığı hacmindeki artışa paralel olarak, özellikle büyük liman ve terminal işletmelerinde bu meslek elemanlarına ihtiyaç duyulmaktadır.\"",
+ "kazanc": {
+  "egitim_suresince": "Eğitim, genellikle işletme bünyesinde ve işbaşında verildiğinden kursiyerlere ayrıca bir ücret ödenmeyebilir; bazı işletmelerde eğitim süresince asgari ücret düzeyinde bir ödeme yapılabilir.",
+  "egitim_sonrasi": [
+   "Kamu kurum ve kuruluşlarına bağlı limanlarda çalışanlar, tabi oldukları mevzuata (memur ise 657 sayılı Kanun, işçi statüsünde ise toplu iş sözleşmesi hükümlerine) göre ücret alır.",
+   "Özel sektörde çalışanların kazancı, genellikle asgari ücret düzeyinde başlayıp; işletmenin büyüklüğü, çalışılan limanın yük hacmi, kişinin deneyimi ve vardiya/fazla çalışma durumuna göre değişebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Deneyim kazanan operatörler, farklı vinç tiplerinde (STS, RMG, mobil vinç gibi) ek eğitim ve sertifikasyon alarak yetkinliklerini genişletebilir.",
+  "is_hayatinda": "Yeterli deneyim kazanan operatörler, usta operatörlüğe, vinç ekip şefliğine veya saha/operasyon nezaretçiliği gibi görevlere yükselebilir."
+ },
+ "benzer_meslekler": [
+  "Liman RTG Operatörü",
+  "Liman SSG Operatörü",
+  "Gantry Crane Vinç Operatörü",
+  "Rıhtım Vinç Operatörü",
+  "Transteynir Operatörü (Gemi)",
+  "Mobil Vinç Operatörü (MHC, Sahil ve Gemi Vinci)"
+ ],
+ "ek_bilgiler": "\"Konteyner elleçleme faaliyetleri, İş Sağlığı ve Güvenliğine İlişkin İşyeri Tehlike Sınıfları Tebliği kapsamında genellikle tehlikeli/çok tehlikeli işler arasında değerlendirilmektedir; bu nedenle işe girişte sağlık ve psikoteknik değerlendirmeler önem taşır. Dış ticaret hacmindeki ve konteyner taşımacılığındaki artış, meslek elemanına olan talebi etkilemektedir.\"",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T18:59:52",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5916
+  }
+ }
+}

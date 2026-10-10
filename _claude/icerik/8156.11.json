@@ -1,0 +1,70 @@
+{
+ "arac_gerec": [
+  "Bilgisayar kontrollü lazer kesim makinesi",
+  "Lazer kesim ve tasarım kalıp yazılımları",
+  "Lazer kafası/tüpü ve odaklama donanımı",
+  "Kesim tablası ve malzeme sabitleme (vakum) aparatları",
+  "Duman/koku tahliyesi için egzoz ve filtrasyon sistemi",
+  "Deri, suni deri, kösele, tekstil gibi saya ham malzemeleri",
+  "Kalınlık ölçer, cetvel, mezura",
+  "Koruyucu gözlük ve eldiven gibi kişisel koruyucu donanım",
+  "Kesilen parçaların tasnifi için kasa, etiket ve raf düzeni"
+ ],
+ "benzer_meslekler": [
+  "Astar Kesme Makinesi Operatörü (Ayakkabı)",
+  "Kesici (Makine İle) -Ayakkabı, Çanta Vb.",
+  "Sayacı",
+  "Monte Makinesi Operatörü(Ayakkabı)",
+  "Ayakkabı Taban Basma Makinesi Operatörü",
+  "Saya Dikici (Makine İle)"
+ ],
+ "calisma_alanlari": "Lazerli kesim makinesi operatörleri, başta ayakkabı ve saya imalatı yapan fabrika ve atölyeler olmak üzere, bilgisayar kontrollü lazer kesim makinesi bulunan üretim hatlarında çalışırlar. Deri ve tekstil sektöründe kesim bölümlerine sahip işletmelerde, benzer makine ve teknoloji kullanılan çanta ve saraciye üretim atölyelerinde de istihdam olanağı bulabilirler.\n\nSektörde seri üretim yapan, teknolojik yatırımları artan büyük işletmelerin çoğalmasıyla birlikte, bilgisayar destekli kesim sistemlerini kullanabilen nitelikli operatörlere olan ihtiyacın orta ve uzun vadede artması beklenmektedir.",
+ "calisma_ortami": "Lazerli kesim makinesi operatörleri genellikle kapalı mekânlarda, fabrika veya atölye ortamında, çoğunlukla ayakta ve makine başında çalışırlar. Çalışma ortamında lazer kesim sırasında ortaya çıkabilecek koku ve ince duman bulunabilir; bu nedenle etkin havalandırma ve egzoz sistemlerinin kullanılması önemlidir. Ortam, üretim yoğunluğuna bağlı olarak gürültülü olabilir ve dikkatli çalışmayı gerektirir.\n\nÇalışma saatleri işyerinin üretim temposuna göre değişebilir, bazı işletmelerde vardiyalı çalışma söz konusu olabilir. Operatör, çalışması sırasında tasarım biriminden gelen kalıp verilerini kullanır, kesilen parçaları montaj birimine sevk ederken üretim ekibindeki diğer çalışanlarla (tasarımcı, kalite kontrol, montaj personeli) iletişim halindedir.",
+ "egitim": {
+  "verildigi_yerler": "Bu meslek için ülkemizde ayrı, standart bir örgün eğitim programı tanımlanmamıştır. Meslek genellikle ayakkabı veya saya imalatı yapan işletmelerde işbaşında usta yanında çalışılarak öğrenilir. Mesleki eğitim merkezlerinin ayakkabı ve saraciye teknolojisi alanında verilen temel eğitimler bu mesleğe zemin oluşturabilir. Ayrıca Halk Eğitim Merkezleri ile İŞKUR'un açtığı mesleki eğitim kursları, bilgisayar destekli kesim teknolojilerine ilişkin bilgi ve beceri kazandırabilir.",
+  "giris_kosullari": [
+   "İlköğretim mezunu olmak (meslek için gereken minimum eğitim düzeyi ilköğretimdir).",
+   "Çıraklık/işbaşı eğitimine başlamak isteyenler için ilgili yaş koşulunu taşımak ve işletme ile eğitim/çalışma ilişkisi kurmak.",
+   "Sağlık durumunun makine başında uzun süreli çalışmaya ve lazer kesim ortamına elverişli olması."
+  ],
+  "sure_ve_icerik": "Standart ve yıllara bölünmüş resmi bir eğitim süresi bulunmamaktadır. Kişi genellikle işbaşında usta yanında bir süre çalışarak lazer makinesinin güvenli kullanımını, malzeme türüne göre lazer ayarlarının yapılmasını, tasarım kalıplarının makine yazılımına yüklenmesini ve kesim sürecinin izlenmesini öğrenir. Katılabileceği kurslarda ise temel ayakkabı/saya üretimi bilgisi ile bilgisayar destekli kesim yazılımlarının kullanımı işlenir.",
+  "belge": "İşbaşında yetişenler çalıştıkları işletmeden deneyim/referans belgesi alabilir; katıldıkları kurslar sonunda kurs tamamlama belgesi verilebilir. Mesleki eğitim merkezi programına katılanlara kalfalık/ustalık belgesi verilebilir. Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "ek_bilgiler": "Lazer kesim makineleri yüksek güçte lazer ışını ile çalıştığından, operatörlerin iş sağlığı ve güvenliği kurallarına uymaları, koruyucu gözlük gibi kişisel koruyucu donanımı kullanmaları önemlidir. Kesim sırasında oluşabilecek duman ve koku nedeniyle çalışma ortamındaki havalandırma sistemlerinin düzenli ve etkin çalışması sağlık açısından önem taşır.",
+ "genel_ozellikler": [
+  "Dikkatli ve titiz,",
+  "El ve göz koordinasyonu güçlü,",
+  "Bilgisayar ve ilgili yazılımları kullanabilen,",
+  "Sorumluluk sahibi,",
+  "Düzenli ve sistemli çalışabilen,",
+  "Teknik ayrıntılara ve ölçülere dikkat eden"
+ ],
+ "gorevler": [
+  "Kesilecek deri veya malzemenin özelliğine göre lazer ayarı yapar.",
+  "Tasarım kalıplarını makine yazılımına yükler.",
+  "Malzemeyi makine tablasına düzgün bir şekilde yerleştirir.",
+  "Kesim işlemini başlatır ve yanmaları önlemek için süreci izler.",
+  "Kesilen parçaları tasnif ederek montaj birimine sevk eder.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleki eğitim merkezinden veya ilgili alandan diploma alanlar, yükseköğretime giriş sınavlarında başarılı oldukları takdirde ilgili ön lisans/lisans programlarına yerleşebilirler. Bilgisayar destekli kesim ve tasarım yazılımlarına yönelik kurs ve sertifika programlarına katılarak bilgi ve becerilerini geliştirebilirler.",
+  "is_hayatinda": "Deneyim kazandıkça usta operatörlüğe, kesim bölümü sorumluluğuna veya vardiya amirliğine yükselebilirler. Bilgi birikimi ve yeteneklerine bağlı olarak üretim planlama veya işletme yönetimi gibi görevlere geçiş yapabilirler."
+ },
+ "kazanc": {
+  "egitim_suresince": "İşbaşında usta yanında veya çıraklık kapsamında yetişenlere, 3308 sayılı Mesleki Eğitim Kanunu çerçevesinde işletme büyüklüğüne göre değişen oranlarda asgari ücret esaslı bir ödeme yapılabilir; bu süreçte iş kazası ve meslek hastalığı sigortası devletçe karşılanır.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç elde eder.",
+   "Kazanç, kişinin deneyimi, bilgi ve becerisi, çalıştığı işletmenin büyüklüğü ile sektördeki ücret düzeyine göre değişebilir.",
+   "Özel sektörde ücret, işveren ile çalışan arasındaki karşılıklı anlaşmaya ve işletme koşullarına göre belirlenir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T14:50:38",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6090
+  }
+ }
+}

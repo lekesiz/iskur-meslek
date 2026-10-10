@@ -1,0 +1,72 @@
+{
+ "arac_gerec": [
+  "Galvanizli çelik tel (hammadde)",
+  "Tel örme/hasır örme makinesi",
+  "Tel kesme makinesi/makası",
+  "Büküm ve şekillendirme makinesi",
+  "Kaynak makinesi (bağlantı ve birleştirme için)",
+  "Ölçme ve kontrol aletleri (şerit metre, kumpas)",
+  "Tel kesme ve bükme pensesi",
+  "Paketleme malzemeleri (bağ teli, strap, naylon örtü)",
+  "Forklift veya vinç (sevkiyat/yükleme için)",
+  "Kişisel koruyucu donanım (eldiven, gözlük, iş ayakkabısı)",
+  "El aletleri (tornavida, pense, çekiç)"
+ ],
+ "genel_ozellikler": [
+  "El ve kol kuvvetine sahip,",
+  "El becerisi gelişmiş,",
+  "Dikkatli ve sabırlı,",
+  "Fiziksel olarak dayanıklı,",
+  "Ölçülü ve düzenli çalışabilen,",
+  "Takım halinde çalışmaya istekli,",
+  "İş güvenliği kurallarına duyarlı,"
+ ],
+ "calisma_ortami": "Gabion sepet imal işçisi, tel örgü ve çelik hasır üretimi yapan fabrika ve atölyelerde, genellikle kapalı ortamda çalışır; ürünlerin paketlenmesi ve sevkiyata hazırlanması aşamasında zaman zaman açık depo alanlarında da bulunabilir. Çalışma ortamı makine gürültüsü, metal tozu ve ağır malzeme taşıma gibi unsurlar içerir; tel kesme, bükme ve örme makineleriyle çalışıldığından kesilme ve sıkışma riskine karşı iş güvenliği kurallarına ve kişisel koruyucu donanım kullanımına dikkat edilmesi gerekir.\n\nÇalışma genellikle ayakta, bazen eğilerek ve fiziksel güç gerektirecek şekilde yürütülür. İşletmenin üretim programına göre vardiyalı çalışma söz konusu olabilir. Meslek elemanı; ustabaşı, diğer üretim işçileri, kalite kontrol personeli ve sevkiyat ekibiyle sürekli iş birliği içinde çalışır.",
+ "egitim": {
+  "verildigi_yerler": "Gabion sepet imalatına yönelik ayrı bir örgün mesleki eğitim alanı/dalı bulunmamaktadır. Meslek genellikle tel örgü, çelik hasır ve gabion üretimi yapan fabrikalarda işbaşında usta yanında yetişerek öğrenilir. Ayrıca Halk Eğitim Merkezleri ile İŞKUR'un açtığı metal işleme, kaynakçılık ve ilgili alanlardaki mesleki eğitim kursları, bu mesleğe temel oluşturacak bilgi ve beceriler kazandırabilir.",
+  "giris_kosullari": [
+   "İlköğretim/ortaokul mezunu olmak",
+   "Fiziksel olarak işin gerektirdiği güç ve dayanıklılığa sahip olmak",
+   "Sağlık durumunun ağır iş ve makine kullanımına uygun olması"
+  ],
+  "sure_ve_icerik": "Mesleğe giriş genellikle işbaşında kısa süreli uyum eğitimi ile olur; makine kullanımı, tel örme/kesme teknikleri ve kalite kontrol bilgisi, çalışılan işyerinde deneyimle zaman içinde geliştirilir. İlgili kurslara katılım halinde kurs süresi ve içeriği kursu açan kuruma göre değişir.",
+  "belge": "İşbaşı eğitiminde resmi bir diploma verilmez; katılınan kurslardan katılım/başarı belgesi alınabilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, sektöre göre istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Gabion sepet imal işçileri; çelik hasır, tel örgü ve gabion üretimi yapan metal işleme fabrikalarında istihdam edilir. Üretilen gabionlar başta karayolu, demiryolu, baraj, dere ıslahı ve çevre düzenleme projelerinde istinat duvarı ve erozyon kontrolü amacıyla kullanıldığından, bu meslek elemanlarına altyapı ve inşaat sektörüne malzeme tedarik eden işletmelerde ihtiyaç duyulmaktadır. Çalışma alanları genellikle küçük ve orta ölçekli üretim tesisleridir.",
+ "kazanc": {
+  "egitim_suresince": "Resmi bir çıraklık/mesleki eğitim programı kapsamında değerlendirilmediğinden, işbaşı eğitim sürecinde çalışılan işyerinin belirlediği, genellikle asgari ücret düzeyinde bir ücret ödenir.",
+  "egitim_sonrasi": [
+   "Yeni başlayanların kazancı genellikle asgari ücret düzeyindedir.",
+   "Deneyim, işyerinin büyüklüğü ve sektördeki ücret düzeyine göre kazanç artabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğin ayrı bir örgün eğitim programı bulunmadığından ilerleme; işyerinde deneyim kazanma, usta yanında yetişme ve ilgili metal işleme/kaynak kurslarına katılma yoluyla sağlanır.",
+  "is_hayatinda": "Deneyim kazanan işçiler ekip şefliği, ustabaşılık veya kalite kontrol sorumluluğu gibi görevlere yükselebilir. Sektördeki tecrübe ve bilgi birikimine bağlı olarak üretim planlama veya işletme yönetimi alanlarında görev alabilirler."
+ },
+ "gorevler": [
+  "Galvanizli tel hammadde hazırlığını yapar,",
+  "Tel örme veya hasır makinelerini teknik ölçülere göre ayarlar,",
+  "Tel kafes panellerini keser ve kenar tellerini takar,",
+  "Üretilen panellerin kalite ve mukavemet kontrollerini yapar,",
+  "İmalatı biten gabionları paketleyerek sevkiyata hazırlar,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "benzer_meslekler": [
+  "Gabion Sepet Montaj İşçisi",
+  "Korkuluk İmal İşçisi",
+  "Diğer Metal Levha ve Metal İnşaat İşçileri",
+  "Endüstriyel ve Yapısal Çelik Konstrüksiyon İşçisi",
+  "İnşaat Çeliği İşçisi-Atölye",
+  "İnşaat Demiri Bağlama Ustası"
+ ],
+ "ek_bilgiler": "Gabion üretimi; karayolu, demiryolu ve çevre düzenleme projelerindeki istinat duvarı ve erozyon kontrolü uygulamalarına bağlı olarak talep görmektedir. Çalışılan işyerin faaliyet alanına göre Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T00:45:19",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5039
+  }
+ }
+}

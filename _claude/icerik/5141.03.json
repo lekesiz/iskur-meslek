@@ -1,0 +1,77 @@
+{
+ "gorevler": [
+  "Saç analizi yapılacak kişileri bilgilendirir.",
+  "Analizi yapılacak kişiyi koltuğa oturtur.",
+  "Bilgisayar bağlantılı tarama aleti ile saçlar hakkında (uçları ve dipleri) veriler toplar.",
+  "Toplanan bilgileri değerlendirir ve kişiyi bilgilendirir.",
+  "Rahatsızlığı olan kişilere kozmetik ürünleri tavsiye eder.",
+  "Kontrol gerektiren durumlarda müşteriye tekrar randevu verir.",
+  "Randevu listesini kontrol eder, randevuları ayarlar.",
+  "Yapılan çalışmalarla ilgili rapor hazırlar.",
+  "Uzmanlık alanı ile ilgili konferans ve seminerleri takip eder.",
+  "Mesleği alanındaki gelişmeleri takip eder ve uygular."
+ ],
+ "arac_gerec": [
+  "Bilgisayar bağlantılı saç ve saç derisi tarama cihazı (dermoskop/trikoskop)",
+  "Bilgisayar ve görüntüleme/analiz yazılımı",
+  "Büyüteçli inceleme lambası",
+  "Raporlama ve yazdırma ekipmanı",
+  "Randevu takip sistemi/yazılımı",
+  "Çeşitli taraklar ve fırçalar",
+  "Önlük, eldiven ve hijyen malzemeleri",
+  "Dezenfektan ve sterilizasyon ürünleri",
+  "Kozmetik ürün kataloğu ve numuneleri",
+  "Çalışma koltuğu ve aynalar"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve gözlemci,",
+  "İletişim becerisi güçlü,",
+  "İnsan ilişkilerinde güler yüzlü ve ikna kabiliyeti olan,",
+  "Teknolojik cihazları etkin kullanabilen,",
+  "Analitik düşünebilen,",
+  "Hijyen ve temizlik kurallarına duyarlı,",
+  "Sabırlı,",
+  "Mesleki gelişime açık"
+ ],
+ "calisma_ortami": "Saç analisti, güzellik salonları, kuaför salonları, saç bakım merkezleri ve dermokozmetik merkezler gibi kapalı mekânlarda çalışır. Çalışma ortamı genellikle temiz ve aydınlıktır; iş, çoğunlukla oturarak veya ayakta, bilgisayar bağlantılı cihazlar ve müşteriyle doğrudan temas halinde yürütülür.\n\nÇalışma saatleri, çalışılan işletmenin çalışma düzenine göre değişir; hizmet sektörünün yapısı gereği hafta sonu ve akşam saatlerinde çalışma söz konusu olabilir. Meslek elemanı, analiz süresince müşteriyle sürekli iletişim halindedir; zaman zaman işletmedeki diğer kuaför ve güzellik uzmanlarıyla da koordineli çalışır.",
+ "egitim": {
+  "verildigi_yerler": "Meslek, Türk Meslekler Sözlüğü'nde ilköğretim düzeyinde bir meslek olarak tanımlanmıştır; ancak günümüzde \"Saç Analisti\" adıyla ayrı, yaygın bir örgün mesleki eğitim programı bulunmamaktadır. Bu alanda çalışacak kişiler genellikle önce \"Güzellik ve Saç Bakım Hizmetleri\" alanında kuaförlük/saç bakımı eğitimi alır, ardından saç analizi konusunda özel kurslar, sertifika programları veya işbaşında eğitimle uzmanlaşır. Halk Eğitim Merkezleri, özel kurs merkezleri, kozmetik/dermokozmetik firmalarının düzenlediği cihaz ve ürün eğitimleri ile İŞKUR'un açtığı mesleki eğitim kursları bu alandaki başlıca eğitim kaynaklarıdır.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "Sağlık durumunun mesleğin gereklerine (uzun süre ayakta/oturarak çalışma, kimyasal ürünlerle temas) elverişli olması",
+   "İletişim ve el becerisi gerektiren işlere yatkın olmak"
+  ],
+  "sure_ve_icerik": "Mesleğe özgü standart ve zorunlu bir eğitim süresi bulunmamaktadır. Kuaförlük veya saç bakımı alanındaki temel mesleki eğitimin ardından; saç ve saç derisi anatomisi, saç tipleri ve yaygın saç/deri sorunları, bilgisayar bağlantılı tarama ve analiz cihazlarının kullanımı, kozmetik ürün bilgisi, müşteri iletişimi ve raporlama gibi konuları içeren kısa süreli kurslar veya firma eğitimleriyle uzmanlık kazanılır.",
+  "belge": "Katılım veya başarı sertifikası (kurs ya da firma/cihaz eğitimi sonunda). Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Güzellik salonları, kuaför salonları, saç bakım ve saç ekim merkezleri, dermokozmetik ve kozmetik satış merkezlerinde çalışabilir. Ayrıca saç bakım ürünleri üreten firmalarda tanıtım, danışmanlık veya eğitim elemanı olarak istihdam edilebilir. Meslek, genellikle bir işletme bünyesinde icra edilir; bağımsız olarak kendi işyerini açma olanağı sınırlıdır.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğe özgü standart bir çıraklık/kalfalık eğitim sistemi bulunmadığından, kurs veya işbaşı eğitim sürecinde ücret genellikle işletmenin ve eğitim programının yapısına göre belirlenir; işbaşında eğitim alanlara çoğunlukla asgari ücret düzeyinde veya işletmenin belirlediği koşullarda ödeme yapılır.",
+  "egitim_sonrasi": [
+   "Özel sektörde işe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç elde eder.",
+   "Deneyim, bilinirlik ve çalışılan işletmenin müşteri potansiyeline göre kazanç artabilir.",
+   "Ücret, işveren ile çalışan arasındaki karşılıklı anlaşmaya göre belirlenir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Meslekte ilerleme, saç bakımı ve kuaförlük alanındaki temel eğitimin ardından saç ve saç derisi analizi, trikoloji ve kozmetik ürün bilgisi konularında alınan ek kurs ve sertifikalarla sağlanır.",
+  "is_hayatinda": "Deneyim kazandıkça daha büyük ve tanınmış saç bakım merkezlerinde veya dermokozmetik firmalarında uzman/danışman olarak çalışabilir; salon içinde sorumluluk üstlenebilir veya eğitmenliğe yönelebilir."
+ },
+ "benzer_meslekler": [
+  "Saç Bakım ve Yapımcısı",
+  "Saça Geçici ve Kalıcı Şekil Verme ve Boyama Teknikleri Uygulayıcısı",
+  "Saça Geçici ve Kalıcı Şekil Verme Teknikleri Uygulayıcısı",
+  "Saç Bakımı ve Güzellik Meslek Elemanı",
+  "Dermokozmetik Uzmanı",
+  "Kozmetik Ürünler Tanıtım ve Uygulama Elemanı"
+ ],
+ "ek_bilgiler": "Bu meslek, Türkiye'de henüz standart bir örgün veya yaygın mesleki eğitim programıyla ayrı olarak tanımlanmamış, güzellik ve saç bakım sektöründe gelişmekte olan bir uzmanlık alanıdır. Eğitim ve istihdam olanakları çalışılan işletmeye ve sektördeki teknolojik gelişmelere bağlı olarak değişkenlik gösterebilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T17:39:21",
+  "usage": {
+   "input_tokens": 4,
+   "output_tokens": 8967
+  }
+ }
+}

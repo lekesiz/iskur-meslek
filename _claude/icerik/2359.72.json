@@ -1,0 +1,78 @@
+{
+ "arac_gerec": [
+  "Motor, şanzıman, fren, süspansiyon ve direksiyon sistemlerine ait örnek parça ve kesit modelleri",
+  "El takımları (anahtar takımı, tornavida, pense, çekiç vb.)",
+  "Kaldırma lifti, kriko ve araç altı destek ekipmanları",
+  "Arıza tespit (diagnostik) cihazları",
+  "Kompresör ve basınçlı hava ekipmanları",
+  "Kaynak makinesi ve kesme-şekillendirme aletleri",
+  "Multimetre, ampermetre gibi elektrik-elektronik ölçüm cihazları",
+  "Yağ değişim ve yağlama ekipmanları",
+  "Kişisel koruyucu donanım (eldiven, gözlük, iş elbisesi, iş ayakkabısı)",
+  "Eğitim pano ve şemaları, sunum araçları",
+  "Bilgisayar ve ilgili yazılımlar",
+  "Çeşitli tornavida, pense, somun sıkma/sökme takımları gibi atölye el aletleri"
+ ],
+ "benzer_meslekler": [
+  "Alan Şefi (Mesleki ve Teknik Eğitim)",
+  "Usta Öğretici (İş Makineleri Bakım Onarımcılığı)",
+  "Usta Öğretici (Kaynakçılık)",
+  "Usta Öğretici (Isıtma ve Sıhhi Tesisatçılık)",
+  "Usta Öğretici (Frezecilik)",
+  "Diğer Öğretmenler"
+ ],
+ "calisma_alanlari": "Usta Öğretici (Otomotiv Mekanikerliği), esas mesleği olan otomotiv mekanikerliğini genellikle oto tamirhaneleri, yetkili servisler veya kendi işletmesinde sürdürürken, bu işletmelerin mesleki eğitim merkezleri ve mesleki ve teknik eğitim okul/kurumlarıyla yaptığı protokoller çerçevesinde buralardan gelen aday çırak, çırak, kalfa ve öğrencilerin işyerindeki pratik eğitiminden sorumlu olarak görev yapar.\n\nOtomotiv sektörünün büyüklüğü ve sürekli gelişen araç teknolojileri nedeniyle hem usta hem de usta öğretici olarak istihdam olanakları genellikle düzenlidir; büyük şehirlerde ve organize sanayi bölgelerinde bulunan servis ve bakım-onarım işletmelerinde çalışma imkânı daha fazladır.",
+ "calisma_ortami": "Usta öğretici, mesleğinin esasını oluşturan otomotiv mekanikerliği işini genellikle kapalı atölye veya servis ortamında, zaman zaman gürültü, yağ, kir ve kimyasal maddelerle (yağ, çözücü, akü asidi vb.) temas ederek, ayakta ve eğilerek çalışmayı gerektiren koşullarda yürütür. Eğitim verdiği süre içinde ise aynı atölye/servis ortamında veya mesleki eğitim kurumlarının atölyelerinde öğrenci ve çıraklarla birlikte bulunur.\n\nÇalışma saatleri genellikle işyerinin çalışma düzenine ve anlaşmalı olduğu okulun/kurumun programına göre belirlenir. Meslek icrası sırasında işveren veya işletme sahibi, iş arkadaşları, müşteriler; eğitim verirken ise öğrenci, çırak, kalfa, okul yönetimi ve zaman zaman veliler ile iletişim kurar. İş kazası riskinin bulunduğu bir meslek olduğundan iş sağlığı ve güvenliği kurallarına dikkat edilmesi önemlidir.",
+ "egitim": {
+  "verildigi_yerler": "Usta Öğretici (Otomotiv Mekanikerliği) olabilmek için örgün bir okul eğitimi programı bulunmamaktadır. Kişinin öncelikle otomotiv mekanikerliği mesleğinde ustalık düzeyine erişmiş olması; bunun için mesleki eğitim merkezlerinde çıraklık-kalfalık-ustalık aşamalarını tamamlamış olması veya ilgili mesleki ve teknik eğitim programından mezun olup yeterli iş deneyimine sahip bulunması gerekir. Ustalık yeterliğini kazandıktan sonra Milli Eğitim Bakanlığı tarafından açılan usta öğreticilik (pedagojik formasyon) kurslarına katılarak bu mesleğe geçiş yapılır.",
+  "giris_kosullari": [
+   "Otomotiv mekanikerliği alanında ustalık belgesine sahip olmak (3308 sayılı Mesleki Eğitim Kanunu kapsamında kalfalık ve ustalık sınavlarını başarı ile tamamlamış olmak veya ilgili mesleki ve teknik eğitim programından mezun olup gerekli iş tecrübesine sahip olmak)",
+   "En az ilköğretim mezunu olmak",
+   "Usta öğreticilik için açılan formasyon/pedagojik eğitim kurslarına katılım koşullarını sağlamak"
+  ],
+  "sure_ve_icerik": "Usta öğreticilik eğitimi genellikle Milli Eğitim Bakanlığı tarafından düzenlenen kısa süreli (birkaç haftalık) kurslar şeklinde verilir; öğretim yöntem ve teknikleri, mesleki eğitimde rehberlik, ölçme-değerlendirme, iletişim ve iş sağlığı ve güvenliği gibi konuları kapsar. Bu eğitime girmeden önce kişinin otomotiv mekanikerliği mesleğini çıraklık, kalfalık ve ustalık aşamalarıyla veya ilgili mesleki ve teknik eğitim programlarıyla edinmiş olması gerekir.",
+  "belge": "Eğitimini ve ilgili değerlendirmeleri başarı ile tamamlayanlara \"Usta Öğreticilik Belgesi\" verilir; bu belge, otomotiv mekanikerliği ustalık belgesiyle birlikte geçerlidir."
+ },
+ "ek_bilgiler": "Otomotiv mekanikerliği, yapılan işin niteliği itibarıyla iş sağlığı ve güvenliği açısından riskli işler arasında değerlendirilebilir; bu nedenle usta öğreticilerin kendileri ve eğitim verdikleri çırak/öğrencilerin güvenliği için iş güvenliği kurallarına özellikle dikkat etmesi gerekir. Mesleki Yeterlilik Kurumu (MYK) belgesi, otomotiv mekanikerliği alanında istihdamda tercih sebebi olabilir.",
+ "genel_ozellikler": [
+  "Otomotiv mekanikerliği mesleğinde ustalık düzeyinde bilgi ve beceriye sahip",
+  "El ve beden becerisi gelişmiş, dikkatli",
+  "Sabırlı, hoşgörülü, öğretmekten hoşlanan",
+  "Sözlü ifade gücüne sahip, iyi iletişim kurabilen",
+  "Sorumluluk sahibi, planlı ve düzenli çalışabilen",
+  "İş sağlığı ve güvenliği kurallarına duyarlı",
+  "Mesleki gelişmeleri takip etmeye istekli, kendini geliştirmeye açık"
+ ],
+ "gorevler": [
+  "Aday çırak, çırak, kalfa ve öğrencilerin iş yerindeki eğitiminden sorumlu olur.",
+  "Otomotiv mekanikerliği eğitimi ile ilgili gereken makine, araç-gereç ve malzemeler ile eğitim materyallerinin hazırlanmasını sağlar.",
+  "Aday çırak, çırak, kalfa ile mesleki ve teknik eğitim okul ve kurumları öğrencilerine, otomotiv mekanikerliği ile ilgili kullanılması gereken makine, araç-gereç ve malzemeleri tanıtır.",
+  "Öğrencilere mesleği ile ilgili konularda eğitim verir.",
+  "Öğrencilerin, otomotiv mekanikerliği ile ilgili konularda uygulama yapmalarını sağlar, gördüğü hata ve eksikliklerin düzeltilmesini sağlar.",
+  "Öğrencilere, otomotiv mekanikerliği işlerinde kullanılan makine, araç-gereç ve malzemelerin basit bakım-onarım, kontrol ve ayar işleriyle ilgili gerekli eğitimleri verir.",
+  "Öğrencilere iş sağlığı ve güvenliği konularında eğitim verir.",
+  "Meslek dersleri ve atölye uygulama sınavlarında komisyon üyesi olarak görev yapar.",
+  "Meslek alanı ile ilgili gelişmeleri takip eder, uygular.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Usta öğretici, mesleğindeki deneyimini ve eğitim becerisini geliştirerek mesleki ve teknik eğitim kurumlarında alan şefliği veya atölye şefliği gibi görevlere yönelebilir; isterse ilgili pedagojik formasyon programlarını tamamlayarak teknik öğretmenlik yoluna geçiş yapabilir.",
+  "is_hayatinda": "Kendi oto tamirhanesini veya servisini açabilir, deneyim kazanarak daha fazla öğrenci/çırak eğitimi verebilir, zamanla işletme sorumlusu, servis şefi veya işletme müdürü konumuna yükselebilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Usta öğreticilik eğitimi süresince genellikle ayrı bir ücret ödenmez; kişi bu eğitime, esas mesleği olan otomotiv mekanikerliğini bir işletmede usta olarak sürdürürken veya kendi işletmesinde çalışırken katılır.",
+  "egitim_sonrasi": [
+   "Usta öğretici, anlaşmalı olduğu mesleki eğitim merkezi veya okuldan verdiği eğitim karşılığında ek ders ücreti alır.",
+   "Esas kazancını otomotiv mekanikerliği işinden elde eder; usta öğreticilik geliri bu kazanca ek niteliktedir.",
+   "Kazanç; işletmenin büyüklüğüne, deneyime, bölgeye ve anlaşma koşullarına göre değişebilir; mesleğe yeni başlayanlar için genellikle asgari ücret düzeyinde olabilir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T04:14:35",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 7705
+  }
+ }
+}

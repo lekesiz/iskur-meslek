@@ -1,0 +1,77 @@
+{
+ "arac_gerec": [
+  "Değirmen taşı/kazanı",
+  "Dövme makinesi",
+  "Buğday çuvalları",
+  "Tartı/kantar",
+  "Su kabı veya hortum",
+  "El arabası / taşıma aracı",
+  "Bakım-onarım için temel el aletleri (anahtar takımı vb.)",
+  "Süpürge, faraş ve temizlik malzemeleri",
+  "Koruyucu iş elbisesi",
+  "Eldiven",
+  "Toz maskesi",
+  "Kulak koruyucu"
+ ],
+ "genel_ozellikler": [
+  "Fiziksel olarak güçlü ve dayanıklı,",
+  "El ve kol kaslarını etkin biçimde kullanabilen,",
+  "Dikkatli ve sabırlı,",
+  "Basit mekanik aletler ve makinelerle uyumlu çalışabilen,",
+  "Düzenli ve sorumluluk sahibi,",
+  "Gürültülü ve tozlu ortamda çalışmaya uygun sağlık durumuna sahip,",
+  "Müşterisiyle (üretici/çiftçi) uygun iletişim kurabilen"
+ ],
+ "calisma_ortami": "Değirmen işçisi (bulgur dövme), genellikle kırsal alanlarda ve kasabalarda bulunan küçük ölçekli değirmen işletmelerinde, kapalı mekânlarda çalışır. Çalışma ortamı, dövme makinesinin çıkardığı sesten dolayı gürültülü, buğday tozu nedeniyle de tozludur. Çuvalların taşınması, boşaltılması ve doldurulması gibi işlemler fiziksel güç gerektirir.\n\nÇalışma yoğunluğu, bölgedeki hasat dönemine ve üreticilerin talebine göre mevsimsel olarak değişebilir; hasat sonrası dönemlerde çalışma saatleri uzayabilir. Meslek sahibi, hizmet verdiği çiftçi ve üreticilerle doğrudan ilişki kurar; küçük işletmelerde genellikle tek başına veya az sayıda çalışanla birlikte çalışılır.",
+ "gorevler": [
+  "Belirli ağırlıktaki dövmelik buğdayı değirmen kazanına çuvallardan boşaltır.",
+  "Dövme işini kolaylaştırmak için kazan içerisine belirli oranda su ilave eder.",
+  "Dövme makinesini çalıştırır.",
+  "Belirli bir süre dövme işlemini sürdürür.",
+  "Dövme sırasında buğdayın kırılma işlemini kolaylaştırmak için zaman zaman karıştırır.",
+  "Dövme işlemi bittikten sonra buğdayı çuvallara doldurur.",
+  "Dövme işlemine ait ücreti tahsil eder.",
+  "Değirmen makinesinde oluşan arızaları giderir.",
+  "Değirmenin temizlik ve bakımını yapar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Bu meslek için örgün bir meslek lisesi programı veya mesleki eğitim merkezi dalı bulunmamaktadır. Meslek genellikle işbaşında, usta yanında çalışılarak öğrenilir; küçük ölçekli değirmen işletmelerinde çırak olarak başlayıp deneyim kazanma yoluyla edinilir. İŞKUR ve Halk Eğitim Merkezlerinin açtığı gıda/değirmencilik alanındaki kısa süreli mesleki kurslar da bilgi ve beceri kazandırabilir.",
+  "giris_kosullari": [
+   "Okuryazar olmak yeterlidir, özel bir eğitim şartı bulunmamaktadır.",
+   "İşin gerektirdiği fiziksel güce ve dayanıklılığa sahip olmak gerekir.",
+   "İşe başlamak için işveren tarafından belirlenen asgari yaş ve sağlık koşullarını taşımak gerekir."
+  ],
+  "sure_ve_icerik": "Resmî ve standart bir eğitim süresi veya programı bulunmamaktadır. Meslek, genellikle işbaşında usta yanında çalışılarak; değirmen kazanına buğday ve su konulması, dövme makinesinin çalıştırılması, dövme süresinin ve su oranının ayarlanması, makinenin basit bakım ve onarımı gibi uygulamalı bilgilerin gözlem ve tekrar yoluyla kazanılmasıyla öğrenilir.",
+  "belge": "Örgün eğitim sonucu verilen resmî bir diploma veya sertifika bulunmamaktadır. Katılınan kısa süreli mesleki kurslardan (varsa) katılım belgesi alınabilir."
+ },
+ "calisma_alanlari": "Değirmen işçisi (bulgur dövme), bulgur imalatı yapılan geleneksel değirmenlerde, köy ve kasaba değirmen işletmelerinde, tarımsal üretimin yoğun olduğu bölgelerdeki küçük ölçekli işletmelerde çalışabilir. Genellikle yerel esnaf niteliğindeki işletmelerde istihdam edilir; yeterli bilgi ve birikime sahip olanlar kendi değirmenlerini işletebilir. Bulgur üretiminin büyük ölçekli, sanayi tipi tesislerde makineleşerek yapılmasının yaygınlaşması nedeniyle, geleneksel yöntemle çalışan bu meslek dalındaki istihdam alanı giderek daralmaktadır.",
+ "kazanc": {
+  "egitim_suresince": "Resmî bir mesleki eğitim programı bulunmadığından eğitim süresince düzenli bir kazançtan söz edilemez. İşbaşında öğrenme sürecinde çalışan kişi, genellikle usta yanında ücretli olarak çalışır.",
+  "egitim_sonrasi": [
+   "Ücretli çalışanlar için kazanç genellikle asgari ücret düzeyinde başlar; işyerinin büyüklüğü, kişinin tecrübesi ve bölgesel talebe göre değişebilir.",
+   "Kendi değirmenini işleten kişilerin kazancı, verdiği hizmet karşılığında aldığı dövme ücretine ve işletmenin iş yoğunluğuna göre değişkenlik gösterir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Bu meslekte örgün bir ilerleme basamağı (kalfalık/ustalık eğitimi) bulunmamaktadır. Deneyim kazanan kişi, değirmen işletmeciliği ve makine bakım-onarımı gibi konularda bilgi ve becerisini artırabilir.",
+  "is_hayatinda": "Deneyim kazandıkça değirmende usta/sorumlu konumuna gelebilir, makinenin bakım ve onarımını üstlenebilir. Yeterli bilgi ve birikime sahip olduğunda kendi değirmen işletmesini kurabilir."
+ },
+ "benzer_meslekler": [
+  "Bulgur İmal İşçisi",
+  "Değirmen İşçisi (Bulgur Kırma)",
+  "Değirmen İşçisi (Hububat)",
+  "Diğer Değirmen İşçileri (Hububat, Baklagil ve İlgili Ürünler)",
+  "Değirmen İşçisi (Mısır)",
+  "Değirmencilik Ürünleri ve Unlu Mamuller Üreticisi"
+ ],
+ "ek_bilgiler": "Bu meslek, geleneksel yöntemle bulgur üretiminin yapıldığı küçük ölçekli, yerel değirmen işletmelerinde görülmektedir. Sanayi tipi bulgur fabrikalarının yaygınlaşması ve üretimin makineleşmesiyle bu meslek dalındaki istihdam olanakları zamanla azalmaktadır.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T15:11:02",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5837
+  }
+ }
+}

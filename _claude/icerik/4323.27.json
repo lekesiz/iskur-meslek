@@ -1,0 +1,83 @@
+{
+ "arac_gerec": [
+  "Bilgisayar ve uçuş operasyon/yük kontrol yazılımları",
+  "Teleks ve telsiz haberleşme cihazları",
+  "Telefon ve dahili haberleşme sistemleri",
+  "Ağırlık ve denge (balans) hesap formları",
+  "Uçak tipine ait manuel kataloglar (teknik el kitapları)",
+  "Hesap makinesi",
+  "Yazıcı ve fotokopi makinesi",
+  "Yolcu, kargo ve posta manifesto/yük listeleri",
+  "Dosyalama ve arşivleme ekipmanları",
+  "Muhaberat (mesaj iletim) sistemleri",
+  "Kırtasiye malzemeleri",
+  "Kimlik kartı ve apron giriş-güvenlik ekipmanları"
+ ],
+ "genel_ozellikler": [
+  "Sorumluluk sahibi,",
+  "Dikkatli ve titiz,",
+  "Sayısal (hesap) yeteneğine sahip,",
+  "Hızlı ve doğru karar verebilen,",
+  "Zaman baskısı altında çalışabilen,",
+  "Ekip çalışmasına uyumlu,",
+  "Etkili iletişim becerisine sahip,",
+  "Stres yönetimi iyi olan,"
+ ],
+ "calisma_ortami": "Uçuş Hareket Memuru havalimanında, hem operasyon/büro ortamında hem de uçakların bulunduğu apron (açık) alanda görev yapar. Apronda çalışırken gürültü, hava koşulları, uçak yakıt ve egzoz kokusu gibi fiziksel etkenlere maruz kalabilir; bu nedenle iş güvenliği kurallarına, özellikle uçak ve araç trafiğine karşı dikkatli olunması gerekir. Uçuşlar günün her saatinde gerçekleştiğinden çalışma saatleri genellikle vardiyalı ve düzensizdir; gece, hafta sonu ve resmî tatillerde çalışma söz konusu olabilir.\n\nGörevi sırasında pilot, kabin amiri, dispeçer (uçuş harekat uzmanı), kule personeli, yolcu ve kargo servisi çalışanları, amirleri ve diğer yer hizmetleri personeli ile sık sık iletişim kurar. Uçağın emniyetli kalkışını sağlamak amacıyla hesaplamaları hatasız ve zamanında tamamlaması gerektiğinden, zaman baskısı altında yoğun bir çalışma temposuna sahiptir.",
+ "calisma_alanlari": "Uçuş Hareket Memurları başlıca havayolu şirketlerinin operasyon birimlerinde, havalimanlarında hizmet veren yer hizmetleri (ground handling) şirketlerinde ve bazı havalimanı işletmelerinin operasyon/yük kontrol departmanlarında istihdam edilir. İstihdam olanağı, havacılık sektörünün ve hava trafiği hacminin genişlemesine bağlı olarak değişkenlik gösterir. Bilgisayar kullanımına hâkim, yabancı dil bilen, dikkatli ve hızlı hesap yapabilen adaylara sektörde daha fazla talep olmaktadır.",
+ "gorevler": [
+  "Merkezi planlama müdürlüğü tarafından hazırlanan uçuş tarifelerinden yararlanarak amirince tamim edilen günlük uçak sefer kayıt formunu inceler,",
+  "Alana o gün iniş yapacak uçakları tespit eder,",
+  "Formda yer alan uçaklar alana inip aprona park ettiğinde, bir sonraki uçağın kalkış limanından teleksle aldığı bilgilere dayanarak alana inecek ve uçakta kalacak yük yolcu miktarını tespit eder,",
+  "Görevli bulunduğu alandaki kargo ve yolcu servislerinden gelen listeleri alır,",
+  "Uçakta kalan yolcu ve yük değerleriyle birlikte alandan bindirilecek yeni yolcu ve yük değerlerini birleştirir,",
+  "Uçağın emniyetli bir şekilde alandan kalkış yapabilmesi ve uçabilmesi için yolcu ve kargo servisleri tarafından hazırlanarak kendisine verilen yolcu ve kargo ağırlık değerlerine, uçağın alacağı yakıt ağırlığını da ekleyerek manuel kataloğunda belirtilen maksimum kalkış ağırlığını geçmeyecek şekilde kalkış ağırlık hesaplarını yapar,",
+  "Uçuş için gerekli hazırlıkların yapılıp yapılmadığını öğrenip, aksaklıkları dispeçere iletir,",
+  "Yaptığı hesaplamalara göre balans formu düzenleyip amirine onaylatır; onaylanan balans formunun bir suretini uçağın pilotuna, bir suretini uçak kabin amirine verir,",
+  "Uçağın kalkması için kuleden verilen son talimat üzerine alanı terk eder,",
+  "Kalkış yapan uçak için düzenlediği balans formundaki bilgileri uçağın gideceği alana bildirmek amacıyla yük mesaj formu ile uçak kalkış mesaj formunu düzenler,",
+  "Formları muhaberat servisine zimmet karşılığı verir,",
+  "Ay içerisinde günlük yolcu, kargo ve posta bilgilerini içeren istatistik çizelgelerini tanzim eder,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Uçuş Hareket Memurluğu, örgün mesleki ve teknik ortaöğretimde ayrı bir alan/dal olarak tanımlanmış bir meslek değildir. Lise ve dengi okul mezunu olarak işe alınan adaylar, çalıştıkları havayolu şirketi veya yer hizmetleri (ground handling) işletmesi tarafından düzenlenen kurumsal yük kontrol/balans (load control) eğitimleri ve sivil havacılık mevzuatına uygun kurslarla mesleğe hazırlanır. Üniversitelerin sivil havacılık yüksekokullarında yer alan Sivil Hava Ulaştırma İşletmeciliği, Havacılık Yönetimi gibi ön lisans/lisans programları da bu mesleğe yönelik teorik bilgi birikimi sağlayabilir.",
+  "giris_kosullari": [
+   "En az lise ve dengi okul mezunu olmak,",
+   "İşe alım yapan havayolu veya yer hizmetleri işletmesinin açtığı sınav ve mülakatlarda başarılı olmak,",
+   "Sivil havacılık mevzuatınca istenen güvenlik soruşturması ve sağlık şartlarını taşımak,",
+   "Bazı işletmelerde havacılıkla ilgili ön lisans/lisans programlarından mezun olmak tercih sebebi olabilir."
+  ],
+  "sure_ve_icerik": "Mesleğe hazırlık süreci işletmeden işletmeye değişmekle birlikte genellikle teorik ve uygulamalı yük kontrol/balans hesaplama eğitimi, uçak tipine ait manuel katalog bilgisi, sivil havacılık mevzuatı, iş sağlığı ve güvenliği eğitimi ile işbaşında usta yanında (OJT) uygulamalı eğitimden oluşur. Eğitim süresi işletmenin uyguladığı programa göre haftalar ile aylar arasında değişebilir.",
+  "belge": "Eğitimi tamamlayanlara işletme içi yeterlilik belgesi veya sertifika verilir. Resmî olarak standart bir diploma programı bulunmamakla birlikte, bazı işletmelerde uluslararası havacılık kuruluşlarının (IATA/ICAO) esas aldığı yük kontrol eğitim sertifikaları da aranabilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Mesleğe hazırlık işletme içi eğitim/staj şeklinde yürütüldüğünden bu dönemde genellikle asgari ücret düzeyinde veya işletmenin belirlediği bir eğitim ücreti ödenir; resmî, örgün mesleki eğitim programı bulunmadığından uygulama işletmeden işletmeye değişebilir.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarına bağlı havacılık işletmelerinde çalışanlar 657 sayılı Devlet Memurları Kanunu veya ilgili kurumun personel mevzuatına göre ücret alır.",
+   "Özel havayolu ve yer hizmetleri şirketlerinde çalışanların ücreti işyerinin büyüklüğüne, kişinin deneyimine, bilgisine ve sektördeki ücret düzeyine göre değişebilir.",
+   "Mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde çalışmaya başlar; deneyim ve kıdemle birlikte kazanç artabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğin örgün bir eğitim programı bulunmadığından ilerleme genellikle işletme içi kurslar, sertifika programları ve hizmet içi eğitimlerle sağlanır. Sivil Hava Ulaştırma İşletmeciliği, Havacılık Yönetimi gibi ön lisans/lisans programlarına yönelerek mesleğe ilişkin bilgi birikimi artırılabilir.",
+  "is_hayatinda": "Deneyim kazanan Uçuş Hareket Memurları, kıdemli uçuş hareket memuru, uçuş harekat uzmanı (dispeçer), vardiya amiri veya operasyon şefi gibi pozisyonlara; ilerleyen yıllarda ise işletmenin operasyon müdürlüğü gibi yönetim kademelerine yükselebilir."
+ },
+ "benzer_meslekler": [
+  "Uçuş Harekat Uzmanı(Dispeçer)",
+  "Apron Amiri",
+  "Apron Memuru",
+  "Ramp Kontrol Memuru",
+  "Uçuş Bilgi Memuru",
+  "Ekip Tahsis Memuru-Havayolları"
+ ],
+ "ek_bilgiler": "Uçuş Hareket Memurluğu, mesleki ve teknik ortaöğretimde ayrı bir alan/dal olarak tanımlanmamıştır; mesleğe giriş ve yetiştirme süreci büyük ölçüde havayolu şirketleri ve yer hizmetleri işletmelerinin kendi iç eğitim, sınav ve yetkilendirme süreçlerine bağlıdır. Sivil havacılık mevzuatına ve uçuş emniyetine ilişkin güncel bilgi takibi mesleğin önemli bir parçasıdır.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T16:47:43",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 7790
+  }
+ }
+}

@@ -1,0 +1,77 @@
+{
+ "arac_gerec": [
+  "Stok takip ve depo yönetim yazılımları, bilgisayar",
+  "Barkod okuyucu ve etiketleme sistemleri",
+  "Raf, dolap ve depolama düzenekleri",
+  "Sıcaklık ve nem ölçer cihazlar",
+  "Ameliyat malzemeleri (gazlı bez, eldiven, dikiş malzemesi vb.)",
+  "Enjektör ve enjeksiyon malzemeleri",
+  "Pamuk ve diğer sıhhi sarf malzemeleri",
+  "Taşıma arabaları ve paletler",
+  "Kayıt, sayım ve kalite kontrol formları/defterleri",
+  "İletişim cihazları (telefon, dahili hat)"
+ ],
+ "benzer_meslekler": [
+  "Eczacı",
+  "Eczacı (Ameliyathane)",
+  "Eczacı (Depo İlaç)",
+  "Eczacı (Klinik)",
+  "Eczacı (Majistral)",
+  "Endüstriyel Eczacı"
+ ],
+ "calisma_alanlari": "Eczacı (Sıhhi Sarf), başta kamu ve özel hastaneler olmak üzere, sıhhi sarf malzeme temini, depolanması ve dağıtımının yapıldığı sağlık kuruluşlarının eczane/depo birimlerinde çalışır. Hastanelerin büyümesi, yatak kapasitelerinin artması ve sağlık hizmetlerinde kalite standartlarının yükselmesiyle, malzeme yönetimi ve stok kontrolü konusunda bilgi sahibi eczacılara olan ihtiyaç sürmektedir. Bu alanda istihdam, büyük ölçüde kamu kurumlarının personel politikalarına ve hastanelerin organizasyon yapısına bağlı olarak şekillenmektedir.",
+ "calisma_ortami": "Eczacı (Sıhhi Sarf), genellikle hastanelerin eczane ve depo birimlerinde, kapalı mekanlarda görev yapar. Çalışma ortamı büyük ölçüde temiz ve düzenlidir; ancak malzeme taşıma, sayım, yerleştirme gibi işler nedeniyle ayakta ve hareketli çalışma gerekebilir. Görevi süresince hastane kliniklerindeki hekim ve hemşirelerle, laboratuvar personeliyle, depo ve satın alma birimleriyle sürekli iletişim ve koordinasyon içinde bulunur.\n\nHastane ortamı gereği hijyen ve enfeksiyon kontrol kurallarına uyulması önemlidir. Çalışma saatleri genellikle hastane mesai düzenine göre belirlenir; hastanenin büyüklüğüne ve organizasyonuna bağlı olarak zaman zaman ek çalışma veya nöbet usulü görevlendirme söz konusu olabilir.",
+ "ek_bilgiler": "Bu meslek, hastane eczacılığı içinde ameliyat malzemeleri, enjeksiyon malzemeleri, pamuk vb. sıhhi sarf malzemelerinin temin, depolama ve dağıtım süreçlerinde uzmanlaşmayı ifade eder. Ayrı bir lisans programı bulunmamaktadır; eczacılık lisans eğitimini tamamlayıp eczacı unvanını kazanan kişiler, hastane bünyesinde bu alanda görevlendirilerek sıhhi sarf malzeme yönetimi konusunda deneyim ve bilgi kazanırlar.",
+ "egitim": {
+  "verildigi_yerler": "Eczacı (Sıhhi Sarf) olarak çalışabilmek için lisans düzeyinde eczacılık eğitimi almak gerekir. Eğitim, üniversitelerin eczacılık fakültelerinde verilmektedir. Sıhhi sarf malzeme yönetimi konusunda ayrı bir lisans programı bulunmamakta; bu alandaki bilgi ve beceriler, eczacılık lisans eğitimi sonrasında hastane bünyesinde görevlendirme yoluyla kazanılmaktadır.",
+  "giris_kosullari": [
+   "Lise veya dengi okul mezunu olmak",
+   "YKS (Yükseköğretim Kurumları Sınavı) kılavuzunda belirtilen giriş koşullarını taşımak ve ilgili puan türünden yeterli puan almış olmak"
+  ],
+  "sure_ve_icerik": "Eczacılık lisans eğitiminin süresi 5 yıldır. Eğitim sürecinde Genel Kimya, Analitik Kimya, Organik Kimya, Anatomi-Fizyoloji, Farmakoloji, Farmasötik Mikrobiyoloji ve İmmünoloji, Toksikoloji gibi dersler okutulur. Dersler teorik ve pratik olarak yürütülür, öğrenciler laboratuvar uygulamalarının yanı sıra kamuya açık bir eczane veya hastanede bir eczacının denetiminde zorunlu staj yapar. Sıhhi sarf malzemelerinin temini, depolanması, dağıtımı ve stok kontrolüne ilişkin uygulamalı bilgi ve beceriler ise genellikle lisans eğitimi sonrasında hastane ortamında işbaşında ve hizmet içi eğitimlerle kazanılır.",
+  "belge": "Eğitimini başarı ile tamamlayanlara \"Eczacılık\" lisans diploması verilir."
+ },
+ "genel_ozellikler": [
+  "Sorumluluk duygusu yüksek,",
+  "Dikkatli, tertipli ve düzenli,",
+  "Planlı ve organize çalışabilen,",
+  "Sayısal ve analitik düşünebilen,",
+  "Stok ve malzeme yönetimine ilgili,",
+  "Halk ve hasta sağlığına karşı duyarlı,",
+  "İletişim ve koordinasyon becerisine sahip,",
+  "Takım çalışmasına uyumlu"
+ ],
+ "gorevler": [
+  "Hastane klinikleri ve laboratuvarlarında kullanılacak sıhhi sarf malzeme ihtiyacını tespit eder.",
+  "Gelen malzemelerin belirlenen standartlara uygunluğunu kontrol eder.",
+  "Sorunlu malzemeleri alındığı depoya bilgi vererek iadesini yapar.",
+  "Malzemelerin son kullanım tarihi kontrolünü yapar, gerektiğinde değişimini sağlar.",
+  "Depo standartlarına göre malzemeleri teslim alır.",
+  "Saklama koşullarına uygun olarak malzemelerin depolanmasını sağlar.",
+  "İstemde bulunan klinik ve laboratuvar ihtiyacına göre malzeme dağıtımını yapar.",
+  "Son kullanma tarihi yaklaşan malzemelerin öncelikle kullanılmasını sağlar.",
+  "Gerektiğinde birimler arası malzeme değişimi yapar.",
+  "Depo sayımında bulunur ve malzemelerin karşılaştırmasını yapar.",
+  "Sıhhi sarf malzeme alım, depolama ve dağıtımı ile ilgili kayıt işlemlerini yapar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Eczacılık fakültesi mezunları, ilgili alanlarda yüksek lisans ve doktora yaparak akademik kariyer yapabilir; ayrıca hastane yönetimi, sağlık lojistiği ve malzeme yönetimi gibi konularda sertifika programları ve hizmet içi eğitimlerle uzmanlaşabilirler.",
+  "is_hayatinda": "Hastane eczane/depo biriminde deneyim kazanan eczacılar, birim sorumluluğu veya birim yöneticiliği gibi kademelere yükselebilir; sağlık kuruluşlarının satın alma, stok yönetimi ve lojistik birimlerinde üst düzey görevlere ilerleyebilirler."
+ },
+ "kazanc": {
+  "egitim_suresince": "Meslek eğitimi süresince Kredi ve Yurtlar Genel Müdürlüğünün sağladığı öğrenim kredisi ve yurt hizmetlerinden yararlanılabilir; ayrıca çeşitli resmi ve özel kurum/kuruluşların sunduğu burslardan faydalanılabilir.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında çalışan eczacılar, 657 sayılı Devlet Memurları Kanunu'na tabi olarak sağlık hizmetleri sınıfında istihdam edilir ve bu sınıfa ilişkin ek ödeme ve tazminatlardan yararlanabilir.",
+   "Özel sektörde çalışanların kazancı, işyerinin büyüklüğüne, deneyime ve yapılan sözleşmeye göre değişmektedir; mesleğe yeni başlayanlarda kazanç genellikle asgari ücret düzeyinde olabilir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-07T23:36:38",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6239
+  }
+ }
+}

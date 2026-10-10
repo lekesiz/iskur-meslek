@@ -1,0 +1,77 @@
+{
+ "arac_gerec": [
+  "Kazık çakma makinesi (pnömatik, buharlı veya şahmerdanlı sistem)",
+  "Şahmerdan ünitesi ve kaldırma donanımı",
+  "Hava kompresörü (pnömatik şahmerdan kullanılıyorsa)",
+  "Vinç/kreyn mekanizması ve kumanda kolları",
+  "Çelik ve kendir halatlar",
+  "Kazık tutucu ve yönlendirici aparatlar",
+  "Yıldız ve çift ağızlı anahtar, pense, tornavida gibi el aletleri",
+  "Yağlama ekipmanları ve çeşitli madeni yağlar",
+  "Yakıt ve yakıt ikmal gereçleri",
+  "Şakül, nivo gibi ölçüm aletleri",
+  "Telsiz veya diğer iletişim cihazları",
+  "Baret, kulaklık, eldiven, iş ayakkabısı gibi kişisel koruyucu donanım"
+ ],
+ "genel_ozellikler": [
+  "El, göz ve ayak uyumunu iyi kullanabilen,",
+  "Mekaniğe ve motorlu araçlara ilgili,",
+  "Dikkatli ve tedbirli,",
+  "Sorumluluk sahibi,",
+  "Fiziksel olarak dayanıklı,",
+  "Uzamsal algısı güçlü,",
+  "Ekip çalışmasına yatkın,",
+  "Çevresel uyarıları hızlı algılayabilen,"
+ ],
+ "calisma_ortami": "\"Kazık Çakma Makinesi Operatörü çalışmalarını büyük ölçüde açık havada, şantiye ortamında yürütür; bina temeli, köprü ayağı, liman iskelesi, demiryolu veya kara yolu altyapı çalışmalarının yapıldığı alanlarda, bazen su kıyısında veya su üzerinde kurulu platformlarda görev yapabilir. Çalışma ortamı gürültülü ve titreşimlidir; toz, hava koşulları ve zemin yapısına bağlı riskler söz konusudur, bu nedenle kişisel koruyucu donanım kullanımı önemlidir. Çalışma saatleri genellikle gündüzdür, ancak proje takvimine göre vardiyalı çalışma da söz konusu olabilir.\\n\\nOperatör, makinenin başında bireysel olarak çalışır; ancak iş öncesinde ve sonrasında şantiye şefi, mühendisler, diğer makine operatörleri ve yardımcı işçilerle sürekli iletişim ve koordinasyon içindedir. Dikkatsizlik veya hatalı kullanım, iş kazalarına ve makine arızalarına yol açabileceğinden işçi sağlığı ve iş güvenliği kurallarına titizlikle uyulması gerekir.\"",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi, Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kursları ile özel kurs firmalarının düzenlediği iş makineleri operatörlüğü kurslarında verilmektedir. Mesleğe giriş çoğunlukla işbaşında usta yanında yetişme yoluyla da olabilmektedir.",
+  "giris_kosullari": [
+   "18 yaşını doldurmuş olmak",
+   "En az ilköğretim okulu mezunu olmak",
+   "Operatörlük yapmaya engel bir sağlık sorunu bulunmamak",
+   "İlgili mevzuatta belirtilen adli suçlardan hüküm giymemiş olmak"
+  ],
+  "sure_ve_icerik": "Kurs süresi kurumdan kuruma değişmekle birlikte genellikle birkaç haftadan birkaç aya kadar sürebilir. Eğitimde makinenin teknik yapısı ve sistemleri, motor ve hidrolik bilgisi, şahmerdan ve vinç mekanizmasının kullanımı, kumanda kolları ve pedalların kullanımı, periyodik bakım ve basit arıza giderme, iş sağlığı ve güvenliği ile ilk yardım konuları işlenir. Kurs sonrası genellikle işbaşında usta yanında pratik deneyim kazanılır.",
+  "belge": "Kursu başarıyla tamamlayanlara \"Operatör Belgesi\" veya sertifika verilir. Makinenin karayoluna çıkarılması gerekiyorsa ilgili sınıfta sürücü belgesi (ehliyet) de gerekebilir. Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "\"Kazık Çakma Makinesi Operatörleri; inşaat firmalarında, bina ve köprü temeli yapım işlerinde, liman ve iskele inşaatlarında, demiryolu ve kara yolu altyapı projelerinde, enerji nakil hattı direk temeli çalışmalarında görev alabilirler. Devlet Su İşleri, Karayolları Genel Müdürlüğü, liman işletmeleri gibi kamu kurumlarının yanı sıra özel inşaat ve taahhüt şirketlerinde de istihdam edilirler. Büyükşehirlerde ve altyapı yatırımlarının yoğun olduğu bölgelerde iş bulma olanağı nispeten daha fazladır.\"",
+ "kazanc": {
+  "egitim_suresince": "Kurs eğitimi süresince genellikle bir kazanç söz konusu değildir; işbaşında usta yanında yetişenler ise öğrendikleri süre boyunca sınırlı bir ücret alabilirler.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında çalışanlar 657 sayılı Devlet Memurları Kanunu'na veya işçi statüsündeyse ilgili toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde yeni başlayanlar genellikle asgari ücret düzeyinde kazanç elde eder; deneyim, uzmanlık ve işletme büyüklüğüne göre bu kazanç artabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Bu meslekte örgün bir ilerleme basamağı bulunmamaktadır; operatörler deneyim kazandıkça çeşitli kurum ve kuruluşların düzenlediği ileri düzey kurs ve seminerlere katılarak bilgi ve becerilerini geliştirebilirler.",
+  "is_hayatinda": "Deneyim kazanan operatörler baş operatörlüğe, ustabaşılığına veya şantiye şefliğine yükselebilir. Çalıştıkları işletmenin olanaklarına göre diğer iş makinelerinin (vinç, ekskavatör, fore kazık makinesi gibi) kullanımında da uzmanlaşarak iş bulma olanaklarını genişletebilirler."
+ },
+ "benzer_meslekler": [
+  "Fore Kazık Makinesi Operatörü",
+  "Diğer Hafriyat Makineleri ve İlgili Teçhizat Operatörleri",
+  "Buldozer-Dozer Operatörü",
+  "Ekskavatör (Kazıma ve Yükleme) Operatörü",
+  "Beko Loder (Kazıcı - Yükleyici) Operatörü",
+  "İş Makineleri Operatörü"
+ ],
+ "ek_bilgiler": "\"Kazık çakma makineleri; köprü ayağı, liman iskelesi, bina temeli gibi zemin güçlendirme ve temel atma işlerinde ağaç, beton veya çelik kazıkların zemine veya su dibine çakılmasında kullanılır. Su üzerinde veya su kıyısında yapılan çalışmalarda ilave iş güvenliği önlemleri alınması gerekebilir.\"",
+ "gorevler": [
+  "Kumanda kollarını ve pedalları kullanarak makineyi kazık çakma durumuna getirir.",
+  "Kazığı kaldırır ve çakılacak noktaya indirir.",
+  "Şahmerdanı çalıştıran kolları kullanır.",
+  "Vinç makinesinin ayarlarını yapar.",
+  "Şahmerdanı tamir eder ve ayarlar.",
+  "Makinenin tamirine ve bakımına yardım eder.",
+  "Pnömatik şahmerdan kullanıyorsa hava kompresörünü de çalıştırabilir.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T18:37:59",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5047
+  }
+ }
+}

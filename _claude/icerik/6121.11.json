@@ -1,0 +1,84 @@
+{
+ "gorevler": [
+  "Hayvan yetiştirme işçisi (Genel)'de belirtilen benzer işleri yapar.",
+  "Süt sağma, süzme ve soğutma gibi işlerde uzmanlaşır.",
+  "Sağılacak inekleri süt sağma istasyonlarına götürüp, sağılmaya hazırlar.",
+  "Makine veya elle sütünü sağar.",
+  "Sağılan sütü süzüp, soğutup, büyük kaplara aktararak işleme merkezine gönderir.",
+  "Ahır ve süt sağma yerlerini temizler.",
+  "Ahırlarda hayvanlara yeni yataklar hazırlar.",
+  "Pazar için buzağı seçer.",
+  "Süt kaplarını temizler.",
+  "Sütün yağını alıp, kremasını ayırır.",
+  "Yoğurt ve peynir yapar.",
+  "Süt hayvanları için yetiştirilen otları dikip, yetiştirerek harmanlayabilir.",
+  "Üretim ve diğer kayıtları tutabilir.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "arac_gerec": [
+  "Süt sağım makinesi/pompası",
+  "Süt sağma istasyonu ekipmanları",
+  "Süt güğümü/kovası",
+  "Süzgeç",
+  "Soğutma tankı",
+  "Krema ayırıcı (separatör)",
+  "Yoğurt ve peynir yapımında kullanılan kaplar ve mayalar",
+  "Temizlik ve dezenfeksiyon malzemeleri",
+  "Çizme, önlük/tulum ve eldiven",
+  "Ahır için yatak malzemesi (saman vb.)",
+  "El feneri",
+  "Üretim kayıtlarının tutulduğu defter veya bilgisayar"
+ ],
+ "genel_ozellikler": [
+  "Hayvanlara ilgi ve sevgi duyan,",
+  "El becerisine sahip,",
+  "Dayanıklı ve sabırlı,",
+  "Düzenli ve dikkatli çalışabilen,",
+  "Erken saatlerde çalışmaya istekli,",
+  "Hijyen kurallarına duyarlı,",
+  "Fiziksel olarak güçlü ve sağlıklı,",
+  "Sorumluluk sahibi"
+ ],
+ "calisma_ortami": "Süthane işçisi, hayvancılık yapılan ahır, süt sağım ünitesi ve mandıra gibi genellikle kapalı ortamlarda çalışır; mevsime ve işletmenin yapısına göre açık alanlarda da görev yapabilir. Çalışma ortamında gübre, yem ve hayvan kokusu, nem ve toz bulunabilir; bu nedenle hijyen kurallarına dikkat edilmesi gerekir. Sağım işlemleri genellikle sabah ve akşam olmak üzere günde iki kez yapıldığından çalışma saatleri erken başlayabilir ve hayvanların bakım döngüsüne bağlı olarak düzenlenir.\n\nİş sırasında uzun süre ayakta kalma, eğilme ve tekrarlayan hareketler yapma söz konusudur; hayvanlarla doğrudan temas nedeniyle tekme, çarpma gibi yaralanma riskleri bulunur. Çalışırken işletme sahibi, veteriner, diğer hayvan bakıcıları ve süthane personeli ile iş birliği içinde çalışır.",
+ "egitim": {
+  "verildigi_yerler": "Bu meslek için örgün bir okul eğitimi bulunmamaktadır. Meslek genellikle işbaşında usta yanında çalışarak öğrenilir. Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kursları ile tarımla ilgili mesleki ve teknik eğitim programları da temel bilgi ve beceri kazandırabilir.",
+  "giris_kosullari": [
+   "İlköğretim mezunu olmak (meslek için gereken minimum eğitim düzeyi)",
+   "Okuma yazma biliyor olmak",
+   "Fiziksel olarak hayvancılık işlerine uygun olmak"
+  ],
+  "sure_ve_icerik": "Örgün bir eğitim programı bulunmadığından standart bir süre ve içerikten söz etmek mümkün değildir. Açılan kurslar genellikle kısa süreli olup süt sağımı, hayvan bakımı ve hijyeni, ahır temizliği ile yoğurt-peynir gibi süt ürünlerinin yapımı konularını içerir. Mesleğin büyük bölümü işbaşında, deneyimli bir işçinin yanında çalışarak öğrenilir.",
+  "belge": "Katıldığı kurslardan katılım veya başarı belgesi alabilir. Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Süthane işçileri; büyükbaş hayvan yetiştiriciliği yapılan özel çiftliklerde, mandıralarda, tarımsal kalkınma kooperatiflerine bağlı işletmelerde ve aile işletmelerinde çalışırlar. Hayvancılığın yoğun olduğu kırsal bölgelerde iş bulma olanağı daha fazladır. Bazı kamu kuruluşlarına bağlı deneme veya örnek çiftliklerde de istihdam edilebilirler. Deneyim kazandıktan sonra kendi hesabına küçük ölçekli süt veya mandıra işletmesi kurarak çalışabilirler.",
+ "kazanc": {
+  "egitim_suresince": "Örgün bir meslek eğitimi bulunmadığından eğitim süresince düzenli bir kazançtan söz edilemez; İŞKUR kurslarına katılan kursiyerlere ilgili düzenlemeler kapsamında günlük cep harçlığı ödenebilir.",
+  "egitim_sonrasi": [
+   "Yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Deneyim, iş yükü ve işletmenin büyüklüğüne göre kazanç değişebilir.",
+   "Kamu kurumlarına bağlı işletmelerde işçi statüsünde çalışanların ücreti toplu iş sözleşmesi hükümlerine göre belirlenir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğe özgü örgün bir ilerleme basamağı bulunmamaktadır. Kurs ve sertifika programlarına katılarak hayvan yetiştiriciliği, süt sağımı ve süt ürünleri işleme konularında bilgi ve beceri geliştirilebilir.",
+  "is_hayatinda": "Deneyim kazandıkça usta sağımcı, ahır/sürü sorumlusu gibi görevlere yükselebilir; işletme büyüklüğüne göre işletme yöneticiliğine getirilebilir. Yeterli birikim ve deneyime sahip olanlar kendi süt veya mandıra işletmesini kurabilir."
+ },
+ "benzer_meslekler": [
+  "Süt Hayvanları Yetiştiricisi",
+  "Sağım İşçisi (Elle)",
+  "Sağım İşçisi (Makine İle)",
+  "Sığır Yetiştiricisi",
+  "Diğer Süthane/mandıra İşçileri",
+  "Süt Sığırı Yetiştiricisi",
+  "Manda Yetiştiricisi"
+ ],
+ "ek_bilgiler": "Süt ve süt ürünlerinin hijyenik koşullarda elde edilmesi önemli olduğundan, bazı işletmeler çalışanlarından periyodik sağlık kontrolü (örneğin portör muayenesi) talep edebilir. Tarımsal istihdam teşvikleri ve kırsal kalkınma destekleri döneme göre bu alanda iş fırsatlarını etkileyebilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T21:38:30",
+  "usage": {
+   "input_tokens": 4,
+   "output_tokens": 8394
+  }
+ }
+}

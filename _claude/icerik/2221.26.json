@@ -1,0 +1,96 @@
+{
+ "arac_gerec": [
+  "Hasta başı monitörler (EKG, satürasyon, kan basıncı takip cihazları)",
+  "Mekanik ventilatör ve solunum destek cihazları",
+  "Enjektör, serum seti, infüzyon ve perfüzyon pompaları",
+  "Aspiratör ve aspirasyon setleri",
+  "Santral ve periferik kateterler, kateter bakım malzemeleri",
+  "Pansuman malzemeleri ve steril setler",
+  "Defibrilatör ve acil müdahale (resüsitasyon) seti, acil ilaç kutusu",
+  "Kan gazı analiz cihazı ve kan şekeri ölçüm cihazı",
+  "Pace maker ve intra aortik balon pompası gibi destek cihazları",
+  "Nazogastrik sonda, üriner kateter ve ilgili takip malzemeleri",
+  "Oksijen tüpü, nemlendirici ve oksijen uygulama ekipmanları",
+  "Hasta dosyası, takip çizelgeleri ve bilgi işlem sistemleri"
+ ],
+ "genel_ozellikler": [
+  "Sorumluluk duygusu yüksek,",
+  "Dikkatli ve gözlem yeteneği gelişmiş,",
+  "Hızlı ve doğru karar verebilen,",
+  "Stresli ortamlarda soğukkanlı kalabilen,",
+  "Fiziksel ve psikolojik olarak dayanıklı,",
+  "Şefkatli ve empatik,",
+  "Ekip çalışmasına uyumlu,",
+  "El becerisine sahip ve teknolojik cihazları kullanabilen"
+ ],
+ "calisma_ortami": "\"Yoğun bakım hemşireleri, hastanelerin yoğun bakım üniteleri (dahiliye, cerrahi, koroner, çocuk/yenidoğan, anestezi vb.) içinde, genellikle kapalı ve sterilizasyon kurallarının sıkı uygulandığı ortamlarda çalışır. Ortam sürekli izleme ve monitörizasyon cihazlarının bulunduğu, hızlı müdahale gerektirebilecek durumların sık yaşandığı, zaman zaman stresli ve yoğun bir atmosfere sahiptir. Enfeksiyon riski, bulaşıcı hastalıklara maruz kalma, ağır hasta kaldırma gibi fiziksel riskler bulunabilir.\\n\\nMeslek, 24 saat kesintisiz hizmet gerektirdiğinden nöbet usulü veya vardiyalı çalışma sistemine tabidir; gece, hafta sonu ve resmi tatil çalışması olağandır. Hekimler, diğer hemşireler, sağlık teknisyenleri, hasta ve hasta yakınlarıyla sürekli ve yakın iletişim halinde görev yapılır.\"",
+ "egitim": {
+  "verildigi_yerler": "Üniversitelerin hemşirelik fakülteleri veya sağlık bilimleri fakültelerine bağlı 'Hemşirelik' lisans programlarında temel hemşirelik eğitimi verilir. Yoğun bakım hemşireliği, bu lisans eğitiminin ardından ilgili sağlık kuruluşlarında edinilen deneyim, hizmet içi eğitimler ve kurum/dernekler tarafından açılan yoğun bakım hemşireliği sertifika programları ile uzmanlaşılan bir alandır.",
+  "giris_kosullari": [
+   "Lise veya dengi okul mezunu olmak",
+   "YKS (Yükseköğretim Kurumları Sınavı) kılavuzunda belirtilen giriş koşullarını taşımak ve ilgili puan türünde yeterli puanı almak",
+   "Hemşirelik önlisans programlarından mezun olanlar, Dikey Geçiş Sınavı (DGS) ile hemşirelik lisans programına geçiş yapabilir",
+   "Yoğun bakım hemşireliğine yönelmek için hemşirelik lisans diplomasına sahip olmak ve genellikle ilgili klinik alanda çalışma deneyimi edinmek"
+  ],
+  "sure_ve_icerik": "Temel hemşirelik lisans eğitimi 4 yıl sürer; teorik dersler ve klinik uygulamalardan oluşur. Eğitimde anatomi-fizyoloji, farmakoloji, hasta bakımı ilke ve yöntemleri, dahiliye ve cerrahi hastalıkların bakımı, ilk yardım, enfeksiyon kontrolü ve etik konular işlenir. Lisans eğitimi sonrasında yoğun bakım ünitelerinde çalışmaya başlayan hemşireler; kritik hasta izlemi, ventilatör bakımı, hemodinamik takip, invazif/non-invazif monitörizasyon, kardiyak ritim yorumlama ve ileri yaşam desteği gibi konularda kurum içi eğitimler, hizmet içi kurslar ve sertifika programları ile mesleki bilgi ve becerilerini geliştirirler.",
+  "belge": "Lisans eğitimini tamamlayanlara hemşirelik lisans diploması verilir. Yoğun bakım alanında çalışmak için ayrıca ilgili kurum veya meslek kuruluşlarınca düzenlenen yoğun bakım hemşireliği sertifikası/kursu tamamlama belgesi talep edilebilir; Mesleki Yeterlilik Kurumu (MYK) belgesi de istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "\"Yoğun bakım hemşireleri; üniversite hastaneleri, devlet hastaneleri, Sağlık Bakanlığına bağlı kurum ve kuruluşlar ile özel hastanelerin dahiliye, cerrahi, koroner, çocuk, yenidoğan, anestezi ve reanimasyon gibi farklı türdeki yoğun bakım ünitelerinde görev alabilirler. Sağlık hizmetlerine olan sürekli talep ve kritik bakım alanında uzmanlaşmış hemşirelere duyulan ihtiyaç nedeniyle, bu alanda meslek elemanlarının iş bulma olanakları genel olarak iyi düzeydedir.\"",
+ "gorevler": [
+  "Hastayı üniteye kabul eder ve hasta ile ailesinin üniteye uyumunu sağlar.",
+  "Hasta tanılama bulgularını, hemşirelik girişimlerini ve bunlara yönelik hasta yanıtlarını kayıt eder.",
+  "Hasta bakımının etkinliğini sürekli ve sistematik şekilde değerlendirir.",
+  "Hemşirelik bakımında gerekli olan asepsi, sterilizasyon ve izolasyon tekniklerine uyar ve uyulmasını sağlar.",
+  "Aseptik tekniğe uygun şekilde hastanın pansumanlarını ve kateter bakımlarını yapar.",
+  "Temel ve ileri yaşam desteği protokollerine uygun acil girişimleri başlatır.",
+  "Acil ilaç seti, tıbbi malzeme ve cihazları kullanıma hazır bulundurur.",
+  "Hastalıklara yönelik standart bakım ve tedavi yaklaşımlarını bilir ve uygular.",
+  "Doktorlarla beraber hasta vizitine katılır, hastanın tedavi ve bakım planının oluşturulmasına katkıda bulunur.",
+  "Çevresel uyaranları kontrol altına alarak hastaların uyku ve dinlenmelerini sağlar.",
+  "Tedavi amaçlı girişimler için hastayı hazırlar, işlem sırasında destek olur, işlem sonrasında hastayı izler, hasta tetkik örneklerinin uygun şekilde ve en kısa zamanda yerine ulaştırılmasını sağlar.",
+  "İlaçları hekimin yazılı istemine uygun şekilde verir.",
+  "Hastaları ilaçların yan etkileri yönünden gözler ve gerektiğinde ilgililere rapor eder.",
+  "Non-invazif monitörizasyon tekniklerini kullanır.",
+  "İnvazif girişimlerde hekime asiste eder.",
+  "Hastaların solunuma ilişkin sorunlarını çözer, ventilatördeki hastaya bakım verir.",
+  "Hemodinamik parametreleri takip eder ve hesaplar, sonuçları yorumlar, kaydeder ve ilgili doktora bildirir.",
+  "Kardiyak ritmi izler, yorumlar, öldürücü ritimleri tanır ve gerekli acil girişimleri bilir, uygular.",
+  "Pace makerli, intra aortik balon pompalı hastaları izler, bakımını bilir ve uygular.",
+  "Bası yarası riskini değerlendirir ve önleyici uygulamalar yapar.",
+  "Hastaya oksijen ve postural drenaj uygulamalarında görev alır.",
+  "Aldığı-çıkardığı sıvı takibi, enteral ve total parenteral nutrisyon uygulama ve takibini yapar.",
+  "Kan ve kan ürünlerinin uygulanması ve takibinde görev alır.",
+  "Hastanın başka bir bölüme transferinin güvenli bir şekilde gerçekleşmesini sağlar.",
+  "Hastayla ilgili bilgileri bir sonraki vardiyada çalışacak hemşireye yazılı olarak teslim eder.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "kazanc": {
+  "egitim_suresince": "Hemşirelik lisans eğitimi süresince öğrenciler, Kredi ve Yurtlar Genel Müdürlüğünün sunduğu öğrenim kredisi ve yurt hizmetlerinden yararlanabilir. Bazı üniversiteler ve kurumlar tarafından verilen burslardan da yararlanılabilir. Yoğun bakım hemşireliğine özgü ayrı bir eğitim dönemi ücreti bulunmamaktadır; bu alandaki yetkinlik genellikle mezuniyet sonrası çalışma hayatı içinde kazanılır.",
+  "egitim_sonrasi": [
+   "Kamu sağlık kurumlarında çalışan yoğun bakım hemşirelerinin ücretleri 657 sayılı Devlet Memurları Kanunu ve ilgili mevzuata göre belirlenir; nöbet ve icap nöbeti ücretleri ile ek ödemeler gelire eklenebilir.",
+   "Özel sağlık kuruluşlarında ücretler işveren ile çalışan arasındaki anlaşmaya, deneyime, çalışılan kurumun büyüklüğüne ve yoğun bakım alanındaki uzmanlık düzeyine göre değişebilir.",
+   "Mesleğe yeni başlayan hemşireler için ücret düzeyi genellikle asgari ücretin biraz üzerinde seyredebilir; deneyim ve ek sertifikalarla birlikte kazanç artış eğilimi gösterebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Hemşirelik lisans programından mezun olduktan sonra, ilgi duyulan kritik bakım alanında deneyim kazanarak yoğun bakım hemşiresi olarak çalışılabilir. İlgili alanda yüksek lisans ve doktora yaparak akademik kariyer, araştırma görevliliği veya eğitim hemşireliği gibi görevlere geçilebilir. Kurumların açtığı yoğun bakım hemşireliği sertifika programları ve hizmet içi eğitimlerle uzmanlık düzeyi derinleştirilebilir.",
+  "is_hayatinda": "Deneyim kazandıkça sorumlu hemşire, baş hemşire yardımcısı veya baş hemşire gibi yönetici pozisyonlarına yükselinebilir. Ayrıca enfeksiyon kontrol hemşireliği, eğitim hemşireliği gibi uzmanlık alanlarına geçiş yapılabilir veya kurum içinde klinik eğitim sorumluluğu üstlenilebilir."
+ },
+ "benzer_meslekler": [
+  "Hemşire",
+  "Diğer Hemşireler",
+  "Uzman Hemşire",
+  "Acil Servis Hemşiresi",
+  "Hemodiyaliz Hemşiresi",
+  "Sorumlu Hemşire"
+ ],
+ "ek_bilgiler": "\"Yoğun bakım hemşireliği, kritik hasta bakımı gerektiren yüksek sorumluluklu bir uzmanlık alanı olduğundan, bu alanda çalışacak hemşirelerin ileri yaşam desteği, kardiyak ritim takibi ve ventilatör bakımı gibi konularda ek eğitim ve deneyim edinmesi büyük önem taşır. Mesleğin icrası sırasında hasta ile fiziksel yakın temas, enfeksiyöz materyallerle karşılaşma ve ağır iş yükü gibi nedenlerle iş sağlığı ve güvenliği tedbirlerine özel önem verilmesi gerekir.\"",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-07T23:12:01",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5031
+  }
+ }
+}

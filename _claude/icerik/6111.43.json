@@ -1,0 +1,79 @@
+{
+ "arac_gerec": [
+  "Traktör ve toprak işleme aletleri (pulluk, diskaro, kültivatör)",
+  "Çapa makinesi ve bahçe çapası",
+  "Tohum/fide",
+  "Sulama ekipmanları (damla sulama sistemi, salma sulama kanalları, hortum)",
+  "Gübre dağıtıcısı",
+  "Organik ve kimyasal gübreler",
+  "Pülverizatör (ilaçlama makinesi)",
+  "Tarım ilaçları (fungisit, insektisit, herbisit)",
+  "El aletleri (bel, çapa, orak, makas)",
+  "Hasat torbaları ve kasalar",
+  "Koruyucu kıyafet, eldiven ve maske",
+  "Ölçüm aletleri (pH metre, nem ölçer, termometre)",
+  "Depolama ve taşıma araçları (kasa, çuval, römork)"
+ ],
+ "genel_ozellikler": [
+  "Doğaya ve bitki yetiştiriciliğine ilgi duyan,",
+  "Açık havada ve fiziksel olarak çalışmaktan hoşlanan,",
+  "El becerisine ve bedensel dayanıklılığa sahip,",
+  "Dikkatli ve sabırlı,",
+  "Gözlem yeteneği gelişmiş, bitki hastalık ve zararlılarını fark edebilen,",
+  "Mevsim ve iklim koşullarına uyum sağlayabilen,",
+  "Sorumluluk sahibi ve planlı çalışabilen,",
+  "Takım halinde çalışmaya istekli"
+ ],
+ "calisma_ortami": "Fasulye Yetiştiricisi, çalışmalarını büyük ölçüde açık arazide, tarla ve bahçe koşullarında yürütür; bazı dönemlerde sera veya örtü altı üretim alanlarında da çalışabilir. Çalışma ortamı toprak, toz, güneş, yağmur ve sıcaklık değişimleri gibi doğal koşullara açıktır; eğilerek, çömelerek veya ayakta uzun süre çalışmayı gerektirebilir ve belirli dönemlerde (ekim, çapalama, ilaçlama, hasat) yoğun fiziksel efor ister.\n\nÇalışma saatleri mevsime, bitkinin gelişim evresine ve hava koşullarına göre değişkenlik gösterir; hasat döneminde çalışma süresi uzayabilir. Meslek elemanı; işletme sahibi, diğer tarım işçileri, ziraat mühendisi veya teknisyenleri, tarım danışmanları ve zaman zaman tohum, gübre, ilaç bayileriyle iletişim kurarak çalışır.",
+ "gorevler": [
+  "Üretim tekniklerini araştırır,",
+  "Ekim dikim yerlerini hazırlar,",
+  "Gübreleme yapar,",
+  "Kültürel işlemleri yapar,",
+  "Bitkilerde görülen zararlıları inceler,",
+  "Hastalık, zararlılar ve yabancı otlarla mücadele yapar,",
+  "Fasulye yetiştirir,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Fasulye Yetiştiricisi olmak için örgün eğitimde ayrı bir okul veya program bulunmamaktadır. Mesleğin temel bilgi ve becerileri genellikle aile işletmelerinde ustadan çırağa, işbaşında uygulamalı olarak öğrenilir. Ayrıca Tarım ve Orman Bakanlığı il/ilçe müdürlükleri, Halk Eğitim Merkezleri, İŞKUR ve bazı tarımsal kuruluşlarca açılan sertifikalı tarımsal üretim ve bitki yetiştiriciliği kursları ile ilgili meslek liselerinin tarım alanındaki bölümlerinden de bu alanda bilgi ve beceri kazanılabilir.",
+  "giris_kosullari": [
+   "Mesleğin öğrenimi için örgün eğitimde belirli bir giriş koşulu bulunmamaktadır; ilköğretim mezuniyeti yeterli kabul edilir.",
+   "Kurslara katılmak için genellikle okuma yazma bilmek ve kursun düzenlendiği yaş/sağlık koşullarını karşılamak yeterlidir.",
+   "İşyerinde (tarım işletmesinde) çalışarak mesleği öğrenmek isteyenler için işveren ile anlaşma ve işin fiziksel gerekliliklerine uygun sağlık durumu gerekir."
+  ],
+  "sure_ve_icerik": "Mesleğe özgü standart süreli ve belgeli bir örgün eğitim programı bulunmamaktadır. Bilgi ve beceri genellikle yıllar içinde uygulamalı deneyimle, mevsimlik tarım döngüsünü (toprak hazırlığı, ekim, gübreleme, sulama, hastalık ve zararlı mücadelesi, hasat) birkaç üretim sezonu boyunca tekrarlayarak kazanılır. Tarımsal kuruluşlarca düzenlenen kısa süreli kurslarda ise toprak hazırlığı, tohum seçimi, gübreleme, sulama teknikleri, hastalık ve zararlılarla mücadele konuları teorik ve uygulamalı olarak işlenir.",
+  "belge": "Örgün eğitim yoluyla alınan standart bir diploma bulunmamaktadır. Katılınan kurslar sonunda kursu düzenleyen kurum tarafından katılım/başarı belgesi verilebilir. Mesleki Yeterlilik Kurumu (MYK) tarafından tarımsal üretim alanında düzenlenen yeterlilik belgeleri istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Fasulye Yetiştiricisi, başta kendi aile işletmesi veya kiraladığı tarım arazileri olmak üzere, özel çiftlik ve tarımsal üretim işletmelerinde, tohumluk, gübre ve tarım ilacı üreten/pazarlayan firmalara bağlı üretim sahalarında, kooperatiflere üye çiftçi işletmelerinde ve örtü altı (sera) üretim yapan işletmelerde çalışabilir. Tarım ve Orman Bakanlığı'na bağlı araştırma enstitüleri ve tarımsal işletmelerde yardımcı işçi olarak da istihdam edilebilir. İş bulma olanakları, mevsimlik tarımsal işgücü talebine, bölgedeki fasulye üretim yoğunluğuna ve kişinin kendi üretim alanına (toprak, su kaynağı) sahip olup olmamasına göre değişmektedir. Kendi arazisinde üretim yapanlar için gelir, verim ve pazarlama koşullarına bağlıdır.",
+ "kazanc": {
+  "egitim_suresince": "Örgün bir mesleki eğitim programı bulunmadığından 3308 sayılı Mesleki Eğitim Kanunu kapsamında standart bir çıraklık ücreti söz konusu değildir. İşletmede çalışarak öğrenenler, işverenle yapılan anlaşmaya göre günlük veya mevsimlik ücret alabilir; kursa katılanlar için ise genellikle ücret ödenmez.",
+  "egitim_sonrasi": [
+   "Başlangıçta, özellikle tarım işçisi olarak çalışanlarda kazanç genellikle asgari ücret düzeyinde veya mevsimlik gündelik usulüyle belirlenir.",
+   "Kendi arazisinde üretim yapanların kazancı; üretim miktarına, verime, pazarlama koşullarına, girdi maliyetlerine ve piyasa fiyatlarına bağlı olarak değişir.",
+   "Deneyim, işletme büyüklüğü ve üretim verimliliği arttıkça kazanç düzeyi de artabilir.",
+   "Kamuya bağlı kurumlarda yardımcı personel olarak çalışanlar, tabi oldukları mevzuata (657 sayılı Kanun veya ilgili toplu iş sözleşmesi) göre ücret alır."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Standart bir örgün mesleki eğitim programı bulunmadığından, bu meslekte diploma temelli bir ilerleme basamağı yoktur. İlgilenenler, tarım, bahçıvanlık veya bitkisel üretim alanındaki mesleki ve teknik eğitim programlarına ya da örgün/açık öğretim yoluyla tarımla ilgili ön lisans ve lisans programlarına (örneğin tarım teknolojileri, bitkisel üretim, ziraat mühendisliği gibi) yönelerek bilgi ve unvanlarını geliştirebilirler.",
+  "is_hayatinda": "Deneyim arttıkça kişi, kendi işletmesinin büyüklüğünü artırabilir, farklı tarla ürünleri yetiştiriciliğine geçebilir veya üretim-pazarlama sürecinde daha fazla sorumluluk alabilir. Ayrıca tarımsal kooperatiflerde, üretici birliklerinde görev alabilir, tecrübesini aktaran bir usta/danışman konumuna gelebilir ya da tarım ilaçları, tohumluk ve gübre bayiliği gibi ilişkili işlere yönelebilir."
+ },
+ "benzer_meslekler": [
+  "Bamya Yetiştiricisi",
+  "Bezelye Yetiştiricisi",
+  "Bakla Yetiştiricisi",
+  "Börülce Yetiştiricisi",
+  "Nohut Yetiştiricisi",
+  "Mercimek Yetiştiricisi"
+ ],
+ "ek_bilgiler": "Fasulye yetiştiriciliği genellikle mevsimlik ve bölgesel iklim koşullarına bağlı olarak yapılan bir tarımsal faaliyettir; bu nedenle istihdam ve kazanç, üretim sezonuna ve bölgedeki tarımsal arazi varlığına göre dalgalanma gösterebilir. Meslek, çoğunlukla aile işletmeciliği şeklinde sürdürülmekte olup bağımsız üreticilik ağırlıklıdır.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T20:21:24",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 4125
+  }
+ }
+}

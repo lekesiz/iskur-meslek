@@ -1,0 +1,88 @@
+{
+ "arac_gerec": [
+  "Bilgisayar ve sunucu donanımları",
+  "Çeşitli işletim sistemleri (Windows, Linux dağıtımları vb.)",
+  "Sanal makine ve sanallaştırma yazılımları",
+  "Ağ tarama ve trafik analiz araçları (Nmap, Wireshark vb. benzeri yazılımlar)",
+  "Sızma testi araç setleri ve dağıtımları",
+  "Güvenlik açığı (zafiyet) tarama yazılımları",
+  "Parola/şifre test ve kırma araçları",
+  "Kaynak kod analiz ve statik/dinamik güvenlik analiz araçları",
+  "Veri tabanı yönetim sistemleri",
+  "Bulut bilişim platformları",
+  "Güvenlik duvarı, IDS/IPS ve anti virüs sistemleri",
+  "Ağ donanımları (switch, router, modem)",
+  "Mobil cihazlar ve mobil test araçları",
+  "Raporlama ve dokümantasyon yazılımları",
+  "Büro yazılımları ve donanımları"
+ ],
+ "genel_ozellikler": [
+  "Analitik düşünme ve problem çözme yeteneğine sahip,",
+  "Detaylara dikkat eden ve titiz,",
+  "Sabırlı ve sistemli çalışabilen,",
+  "Araştırmacı, meraklı ve öğrenmeye açık,",
+  "Teknolojik gelişmeleri takip eden,",
+  "Etik değerlere bağlı ve güvenilir,",
+  "Sorumluluk sahibi,",
+  "Takım çalışmasına uyumlu"
+ ],
+ "calisma_ortami": "Etik Hacker, çalışmalarının büyük bölümünü büro ortamında bilgisayar başında oturarak gerçekleştirir; gerektiğinde sunucu odaları, veri merkezleri veya müşteri kurumların tesislerinde saha çalışması yapabilir. İş, uzun süre ekran karşısında yoğun zihinsel dikkat gerektirir; bu nedenle göz ve bilek yorgunluğu gibi ergonomik risklerle karşılaşılabilir.\n\nÇalışma saatleri genellikle ofis mesaisi içindedir ancak sızma testlerinin canlı sistemler üzerinde iş akışını kesintiye uğratmayacak şekilde yapılması gerektiğinde mesai dışı, gece veya hafta sonu çalışma söz konusu olabilir. Meslek mensubu; sistem yöneticileri, yazılım geliştiriciler, bilgi güvenliği ekipleri, üst yönetim ve müşterilerle sık sık iletişim kurar. Yaptığı testlerin yetkilendirilmiş sözleşmeler çerçevesinde ve yasal sınırlar içinde gerçekleştirilmesi, gizlilik ilkelerine titizlikle uyulması mesleğin önemli bir gerekliliğidir.",
+ "calisma_alanlari": "Etik Hacker; bilgi teknolojileri ve siber güvenlik şirketlerinde, bankacılık ve finans kuruluşlarında, kamu kurumlarının bilgi işlem/siber güvenlik birimlerinde, e-ticaret ve teknoloji firmalarında, savunma sanayi kuruluşlarında, telekomünikasyon şirketlerinde, bilişim danışmanlık firmalarında çalışabilir; ayrıca bağımsız danışman (freelance) olarak hizmet verebilir. Dijitalleşmenin hızlanması ve siber tehditlerin artmasına paralel olarak kamu ve özel sektörde nitelikli siber güvenlik iş gücüne olan talep sürekli artmaktadır.",
+ "ek_bilgiler": "Etik Hacker, sızma testlerini ancak yetkili olduğu ve yazılı izin/sözleşme kapsamında bulunduğu sistemler üzerinde gerçekleştirir; aksi durumda yapılan erişim ve testler yasal sorumluluk doğurur. Bu nedenle mesleğin etik ilkelere ve yasal çerçeveye bağlılık gerektirdiği unutulmamalıdır. Mesleki Yeterlilik Kurumu (MYK) belgesi ile alanda kabul görmüş siber güvenlik/sızma testi sertifikaları istihdamda tercih sebebi olabilir.",
+ "gorevler": [
+  "İş planlaması yapar.",
+  "Faaliyetler için yazılım, donanım ve ekipman temin eder.",
+  "Yapılan işlerin kaydını tutar.",
+  "Dijital arşivleme yapar.",
+  "Çalışma alanının düzenini takip eder.",
+  "Son kullanıcı sistemlerinin siber güvenlik bileşenlerini ve içeriklerini araştırır.",
+  "Ağ sistemlerinin siber güvenlik bileşenlerini ve içeriklerini araştırır.",
+  "Sunucu sistemlerinin siber güvenlik bileşenlerini ve içeriklerini araştırır.",
+  "İşletim sistemlerinin siber güvenlik bileşenlerini ve içeriklerini araştırır.",
+  "Yazılım uygulamalarının siber güvenlik bileşenlerini ve içeriklerini araştırır.",
+  "Veri tabanı sistemlerinin siber güvenlik bileşenlerini ve içeriklerini araştırır.",
+  "Anti virüs sistemlerinin siber güvenlik bileşenlerini ve içeriklerini araştırır.",
+  "Çevresel birimlerin siber güvenlik bileşenlerini ve içeriklerini araştırır.",
+  "Bulut sistemlerinin siber güvenlik bileşenlerini ve içeriklerini araştırır.",
+  "Son kullanıcı sebepli gerçekleşebilecek güvenlik zafiyetini araştırır.",
+  "Sızma testi için hazırlık yapar, testi uygular.",
+  "Kendisinin ve başkalarının mesleki gelişimi konusunda çalışmalar yapar."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi; üniversitelerin bilgisayar mühendisliği, yazılım mühendisliği, bilgisayar bilimleri, bilgi güvenliği teknolojisi ve benzeri bilgisayar/bilişim tabanlı lisans programlarında verilmektedir. Lisans eğitiminin yanı sıra, siber güvenlik ve sızma testi alanında uzmanlaşmak isteyenler için üniversiteler ve özel eğitim kuruluşları tarafından düzenlenen ileri düzey kurs ve sertifika programları da bulunmaktadır.",
+  "giris_kosullari": [
+   "Lise veya dengi okul mezunu olmak",
+   "YKS (Yükseköğretim Kurumları Sınavı) kılavuzunda belirtilen giriş koşullarını taşımak ve ilgili lisans programı için yeterli puana sahip olmak",
+   "Meslek Yüksekokulları veya Açıköğretim Önlisans programlarının ilgili bölümlerinden mezun olanların, Dikey Geçiş Sınavı (DGS) ile ilgili lisans programlarına geçiş yapabilmesi"
+  ],
+  "sure_ve_icerik": "Lisans eğitimi genellikle 4 yıl sürer. Eğitim süresince programlama, bilgisayar ağları, işletim sistemleri, veri tabanı yönetimi, kriptografi, bilgi ve ağ güvenliği, siber güvenlik mevzuatı gibi dersler okutulur. Lisans eğitiminin ardından, sızma testi ve etik hackerlık konularında uzmanlaşmak isteyenler, bu alana yönelik ileri düzey kurs ve sertifika programlarına katılarak mesleki bilgi ve becerilerini geliştirebilir.",
+  "belge": "Eğitimini başarıyla tamamlayanlara lisans diploması verilir. Ayrıca katılınan uzmanlık kurs ve sertifika programları sonunda, programı düzenleyen kurum tarafından sertifika/katılım belgesi verilebilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Lisans eğitimi süresince Kredi ve Yurtlar Genel Müdürlüğünün sağladığı öğrenim kredisi ve yurt hizmetlerinden yararlanılabilir; çeşitli resmi ve özel kurum/kuruluşların burslarından faydalanılabilir. Eğitim sırasında staj veya yarı zamanlı çalışma yoluyla deneyim ve ek kazanç elde edilebilir.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında çalışanlar, 657 sayılı Devlet Memurları Kanunu çerçevesinde öğrenim düzeyine uygun kadro ve derecelere göre maaş ve yan ödeme alır.",
+   "Özel sektörde ücret; çalışılan kurumun büyüklüğüne, kişinin deneyimine, uzmanlık alanına ve sahip olduğu sertifikalara göre değişmekte olup, mesleğe yeni başlayanlarda genellikle asgari ücret düzeyinde başlayarak deneyimle birlikte artış göstermektedir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Lisans eğitiminin ardından siber güvenlik, bilgi güvenliği veya ilgili alanlarda yüksek lisans ve doktora yapılarak akademik kariyer imkânı bulunur. Ayrıca alanda düzenlenen ileri düzey sertifika programlarına katılarak uzmanlık derinleştirilebilir.",
+  "is_hayatinda": "Deneyim kazanıldıkça kıdemli sızma testi uzmanlığı, siber güvenlik ekip liderliği, bilgi güvenliği yöneticiliği gibi pozisyonlara yükselinebilir; ileri deneyimle kendi danışmanlık firmasını kurma veya bağımsız danışman olarak çalışma imkânı doğabilir."
+ },
+ "benzer_meslekler": [
+  "Sistem Değerlendirmecisi",
+  "Sistem Test Edicisi",
+  "Yazılım Test Edicisi",
+  "Kalite Güvence Analisti (Bilgisayar)",
+  "Bilişim Sistemleri Mühendisi",
+  "Bulut Bilişim Analisti"
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T06:04:15",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 7695
+  }
+ }
+}

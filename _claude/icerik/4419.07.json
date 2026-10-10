@@ -1,0 +1,73 @@
+{
+ "gorevler": [
+  "Müşteri ve araç bilgilerini sisteme girer.",
+  "Araç üzerindeki hasar ve arızaları müşteriyle birlikte tespit eder.",
+  "Servis iş emrini oluşturarak teknik birime yönlendirir.",
+  "Müşteriye tahmini onarım maliyeti ve süresi hakkında bilgi verir.",
+  "Onarımı biten aracın teslimat ve faturalandırma sürecini koordine eder.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "arac_gerec": [
+  "Bilgisayar",
+  "Servis/iş emri takip yazılımı",
+  "Yazıcı ve tarayıcı",
+  "Telefon ve internet bağlantısı",
+  "Dijital fotoğraf makinesi veya tablet (hasar kaydı için)",
+  "Hasar tespit formu ve kontrol listesi",
+  "Araç anahtarlık ve etiketleme malzemeleri",
+  "Kalem, bloknot",
+  "Yazar kasa/POS cihazı",
+  "El feneri",
+  "Koruyucu kılıf (koltuk, direksiyon, paspas örtüsü)"
+ ],
+ "genel_ozellikler": [
+  "İnsan ilişkilerinde başarılı,",
+  "Güler yüzlü ve ikna kabiliyeti yüksek,",
+  "Düzgün ve anlaşılır diksiyona sahip,",
+  "Dikkatli ve titiz,",
+  "Sorumluluk duygusu gelişmiş,",
+  "Temel otomotiv bilgisine sahip veya bu konuda öğrenmeye istekli,",
+  "Stresli ortamda sakin kalabilen,",
+  "Bilgisayar kullanabilen"
+ ],
+ "calisma_ortami": "Araç Kabul Görevlisi, otomotiv servis işletmelerinin hem büro bölümünde hem de araçların kabul edildiği servis sahasında görev yapar. Çalışma sırasında bir yandan bilgisayar başında oturarak kayıt ve belge işlemleri yürütür, bir yandan da araç çevresinde ayakta durarak müşteriyle birlikte hasar ve arıza tespiti yapar. Servis sahasında kısa süreli olarak yağ, gürültü ve araç trafiği gibi unsurlarla karşılaşabilir.\n\nMesleğin icrası sırasında müşteriler, servis teknisyenleri, ustalar, servis şefi ve işletme yönetimiyle sürekli iletişim halindedir. Çalışma genellikle gündüz mesaisi şeklindedir; işletmenin yoğunluğuna ve çalışma saatlerine göre zaman zaman vardiyalı çalışma da söz konusu olabilir.",
+ "egitim": {
+  "verildigi_yerler": "Araç Kabul Görevliliği için ayrı, resmî olarak tanımlanmış bir örgün eğitim programı bulunmamaktadır. Mesleğe genellikle lise ve dengi okul mezunu olarak, işletme içinde usta/deneyimli servis danışmanı yanında uygulamalı eğitimle başlanır. Ayrıca mesleki ve teknik liselerin motorlu araçlar teknolojisi alanı mezunları ile Halk Eğitim Merkezleri ve İŞKUR tarafından açılan müşteri ilişkileri ve otomotiv servis danışmanlığına yönelik kurslardan geçenler de bu mesleğe yönelebilmektedir.",
+  "giris_kosullari": [
+   "En az lise ve dengi okul mezunu olmak",
+   "Düzgün diksiyona ve iletişim becerisine sahip olmak",
+   "Temel düzeyde bilgisayar kullanabilmek",
+   "Bazı işletmelerde B sınıfı sürücü belgesine sahip olmak tercih sebebi olabilir"
+  ],
+  "sure_ve_icerik": "Resmî, standart süresi belirlenmiş tek bir eğitim programı yoktur. İşletme içi oryantasyon ve usta yanında uygulamalı eğitim genellikle birkaç haftadan birkaç aya kadar sürebilir. Bu süreçte müşteri karşılama, araç muayene/hasar tespit teknikleri, servis iş emri düzenleme, temel otomotiv terminolojisi, müşteri ilişkileri ve bilgisayar kullanımı konularında bilgi ve beceri kazandırılır. Ayrıca Halk Eğitim Merkezleri ve İŞKUR bünyesinde açılan müşteri hizmetleri/servis danışmanlığı kursları da bu alana hazırlık niteliğindedir.",
+  "belge": "Kurs tamamlandığında ilgili kurumdan \"Kurs Bitirme Belgesi\" alınabilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, iş bulma ve istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Araç Kabul Görevlileri başta otomotiv markalarının yetkili servisleri olmak üzere, özel oto tamir-bakım servisleri, araç bayileri, lastik ve yedek parça servisleri, filo kiralama şirketlerinin servis birimleri gibi otomotiv satış sonrası hizmet sunan işletmelerde çalışma imkânı bulabilir.",
+ "kazanc": {
+  "egitim_suresince": "İşletme içinde usta yanında uygulamalı eğitim görülüyorsa bu süre için genellikle bir ücret söz konusu değildir; bazı işletmeler staj/eğitim sürecinde sınırlı bir destek ödemesi yapabilir.",
+  "egitim_sonrasi": [
+   "Özel sektörde çalışanlar genellikle asgari ücret düzeyinde işe başlar; mesleki bilgi, beceri, deneyim ve işletmenin büyüklüğüne bağlı olarak ücret artabilir.",
+   "Kazanç, işveren ile çalışan arasındaki anlaşmaya, işletmenin müşteri hacmine ve çalışanın performansına göre değişiklik gösterebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleki Yeterlilik Kurumu kapsamındaki sertifika programları, otomotiv ve müşteri ilişkileri alanında açılan kurs ve seminerlerle bilgi ve beceriler geliştirilebilir.",
+  "is_hayatinda": "Deneyim kazanan Araç Kabul Görevlileri, servis danışmanlığı, servis şefliği, servis müdürlüğü veya müşteri ilişkileri sorumluluğu gibi görevlere yükselebilir."
+ },
+ "benzer_meslekler": [
+  "Müşteri Temsilcisi",
+  "Müşteri Hizmetleri Görevlisi/Asistanı",
+  "Müşteri Kabul Görevlisi (Araç Muayene İstasyonu)",
+  "Satış Destek Personeli",
+  "Müşteri Hizmetleri Satış ve Hizmet Yetkilisi"
+ ],
+ "ek_bilgiler": "Otomotiv sektöründeki araç sayısının ve yetkili/özel servis ağının genişlemesi, bu meslekte istihdam olanaklarını olumlu etkileyebilir. Temel otomotiv bilgisi ve yabancı dil bilgisi, özellikle yetkili servislerde tercih sebebi olabilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T17:17:14",
+  "usage": {
+   "input_tokens": 4,
+   "output_tokens": 9599
+  }
+ }
+}

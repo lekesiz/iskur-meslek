@@ -1,0 +1,87 @@
+{
+ "arac_gerec": [
+  "Bilgisayar ve çevre birimleri",
+  "Sunucu ve ağ ekipmanları",
+  "Veritabanı yönetim sistemleri",
+  "Yazılım geliştirme ve test araçları",
+  "İş analizi ve süreç modelleme araçları (UML, BPMN vb.)",
+  "Proje yönetimi yazılımları",
+  "Bulut bilişim platformları",
+  "Veri güvenliği ve siber güvenlik yazılımları",
+  "Dokümantasyon ve raporlama yazılımları",
+  "Ofis yazılımları ve iletişim/toplantı araçları"
+ ],
+ "genel_ozellikler": [
+  "Analitik düşünme ve mantıksal çözümleme yeteneğine sahip,",
+  "Problem çözme becerisi gelişmiş,",
+  "Teknolojik gelişmeleri takip etmeye istekli,",
+  "Sözel ve yazılı anlatım gücü iyi, raporlama becerisine sahip,",
+  "Takım çalışmasına uyumlu ve iç/dış birimlerle koordineli çalışabilen,",
+  "Dikkatli, sistemli ve düzenli çalışan,",
+  "Sorumluluk sahibi ve güvenilir,",
+  "Yeni bilgi ve teknolojileri öğrenmeye açık"
+ ],
+ "calisma_ortami": "Bu meslekte çalışanlar genellikle ofis veya bilgi işlem/BT departmanı ortamında, bilgisayar başında masa başı çalışırlar. Çalışma süresince iş analizi için ilgili birim yöneticileri ve kullanıcılarla, çözümün geliştirilmesi için yazılım geliştiriciler, sistem yöneticileri ve test ekipleriyle sürekli iletişim halindedirler; bu nedenle toplantı, sunum ve yazılı raporlama faaliyetleri işin önemli bir parçasıdır.\n\nProje teslim tarihleri yaklaştığında veya sistemde kritik bir sorun yaşandığında mesai saatleri dışında çalışma gerekebilir. İş genellikle ekip halinde yürütülür; uzun süre ekran karşısında oturarak çalışmanın getirdiği göz ve sırt-bel yorgunluğu gibi ergonomik riskler söz konusu olabilir. Bazı işletmelerde saha ziyaretleri, veri merkezi veya sunucu odası kontrolleri de çalışma kapsamına girebilir.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi üniversitelere bağlı fakültelerin Bilgisayar Mühendisliği, Yazılım Mühendisliği, Bilişim Sistemleri Mühendisliği, Yönetim Bilişim Sistemleri gibi ilgili lisans bölümlerinde verilmektedir.",
+  "giris_kosullari": [
+   "Lise veya dengi okul mezunu olmak,",
+   "YKS (Yükseköğretim Kurumları Sınavı) kılavuzunda belirtilen giriş koşullarını ve ilgili puan türü şartlarını taşımak,",
+   "Meslek Yüksekokulları ile Açıköğretim Önlisans Programlarının ilgili alanlarından mezun olanlar, ÖSYM tarafından açılan Dikey Geçiş Sınavı'nda (DGS) başarılı oldukları takdirde ilgili lisans programlarına dikey geçiş yapabilirler."
+  ],
+  "sure_ve_icerik": "Mesleğin eğitim süresi genel olarak 4 yıldır. Eğitim süresince programlama, veri yapıları, veritabanı yönetimi, sistem analizi ve tasarımı, yazılım mühendisliği, ağ ve bilgi güvenliği, proje yönetimi, iş analizi gibi dersler okutulmaktadır. Lisans eğitiminin yanı sıra; güncel teknolojiler, bulut bilişim, yapay zekâ ve veri güvenliği konularında ilgili kurumların açtığı sertifika programları ve mesleki gelişim kursları da izlenebilir.",
+  "belge": "Eğitimini başarı ile tamamlayanlara lisans diploması verilir. Ayrıca ilgili alanlarda alınan Mesleki Yeterlilik Kurumu (MYK) belgesi ve çeşitli uluslararası sertifikalar istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "BT Çözümleri Uzmanları; bilişim teknolojileri (BT) hizmetleri sunan yazılım ve danışmanlık firmalarında, bankacılık ve finans kuruluşlarının bilgi teknolojileri birimlerinde, kamu kurumlarının bilgi işlem daire başkanlıklarında, telekomünikasyon şirketlerinde, e-ticaret ve üretim işletmelerinin BT departmanlarında, sistem entegrasyonu ve danışmanlık hizmeti veren firmalarda görev alabilirler.\n\nKurumların dijitalleşme ve bilgi teknolojilerine olan ihtiyacının giderek artması nedeniyle, nitelikli iş analizi ve çözüm tasarımı yapabilen BT Çözümleri Uzmanlarına duyulan talep yüksektir. Deneyim ve bilgi birikimi arttıkça, hem özel sektörde hem kamuda iş bulma olanakları genişlemektedir.",
+ "kazanc": {
+  "egitim_suresince": "Meslek eğitimi süresince öğrenciler, Kredi ve Yurtlar Genel Müdürlüğü'nün sağladığı öğrenim kredisi ve yurt hizmetlerinden, ayrıca çeşitli kamu ve özel kuruluşların sunduğu burslardan yararlanabilirler. Eğitim sırasında staj veya yarı zamanlı çalışmalarla deneyim ve ek kazanç elde edilmesi mümkündür.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında çalışanlar, 657 sayılı Devlet Memurları Kanunu'na göre öğrenim düzeyine uygun teknik hizmetler sınıfından maaş ve yan ödeme alırlar.",
+   "Özel sektörde kazanç; çalışılan firmanın büyüklüğüne, sektöre, pozisyona ve kişinin deneyim/uzmanlık düzeyine göre değişmektedir; mesleğe yeni başlayanlarda kazanç genellikle asgari ücret düzeyinin üzerinde başlayıp deneyimle birlikte artmaktadır."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Lisans eğitiminin ardından ilgili bilişim veya işletme alanlarında yüksek lisans ve doktora yaparak akademik kariyer yapılabilir; ayrıca güncel teknolojiler (bulut bilişim, siber güvenlik, veri analitiği, yapay zekâ vb.) üzerine sertifika ve uzmanlık eğitimleri ile bilgi birikimi derinleştirilebilir.",
+  "is_hayatinda": "Deneyim kazanan BT Çözümleri Uzmanları; kıdemli sistem/iş analisti, proje yöneticisi, çözüm mimarı, BT departman yöneticisi veya bilişim danışmanı gibi pozisyonlara, büyük kurumlarda ise Bilgi Teknolojileri Müdürü/Direktörü (CIO) düzeyine kadar ilerleyebilirler."
+ },
+ "benzer_meslekler": [
+  "Sistem Analisti (BT)",
+  "Sistem Çözümleyici",
+  "Sistem Mimarı/Tasarımcısı",
+  "Yönetim Bilişim Sistemleri Uzmanı",
+  "BT İş Analisti (Bilişim Teknolojileri İş Analisti)",
+  "Uygulama Uzmanı/Danışmanı (Bilişim)",
+  "Bilişim Sistemleri ve Teknolojisi Uzmanı"
+ ],
+ "ek_bilgiler": "Kurumların dijital dönüşüm süreçlerini hızlandırması nedeniyle BT Çözümleri Uzmanlığına olan talep son yıllarda artış göstermektedir. Mesleki Yeterlilik Kurumu (MYK) belgesi veya uluslararası bilişim sertifikalarına sahip olmak istihdamda tercih sebebi olabilir.",
+ "gorevler": [
+  "İSG önlemleri alır.",
+  "Çevre koruma önlemleri alınmasını sağlar.",
+  "Kalite uygulamalarını yürütür.",
+  "İş organizasyonu yapar.",
+  "Personel yönlendirmesi yapar.",
+  "Çalışılan alanın işe uygun düzenlenmesini sağlar.",
+  "Yapılan çalışmaların form ve kayıtlarının tutulmasını sağlar.",
+  "Bilgilendirme ve raporlama yapar.",
+  "İşletmenin BT ihtiyaçlarını belirler.",
+  "İş analizi yapar.",
+  "İş analizini işletmeye sunar ve onaylatır.",
+  "Veri güvenliği ve gizliliğini sağlar.",
+  "İç ve dış birimlerle koordineli olarak bütünleşik çözümleri tasarlar ve çözümlerin bilişim teknolojileri mimarisini oluşturur.",
+  "Uygun donanımları ve altyapı hizmetlerini sağlar.",
+  "Uygun yazılım ve geliştirme araçlarının belirlenmesi çalışmalarına katılır ve çözümlerin gelişim sürecini takip eder.",
+  "Çözümün kalite güvencesini planlar.",
+  "Çözümün sürdürülebilirliğini sağlar.",
+  "Oluşturulan çözümün sorunlarını tespit eder ve giderir.",
+  "Raporlama ve dokümantasyon yapılmasını sağlar.",
+  "Mesleki gelişim faaliyetlerini yürütür."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T05:48:51",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5359
+  }
+ }
+}

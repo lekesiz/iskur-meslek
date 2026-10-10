@@ -1,0 +1,74 @@
+{
+ "arac_gerec": [
+  "Havai fişek dolum makinesi",
+  "Kimyasal karıştırma ve harman üniteleri",
+  "Boş kovan besleme ünitesi",
+  "Hassas tartım ve dozajlama cihazları",
+  "Basınç ve miktar ölçüm sensörleri",
+  "Fitil montaj ekipmanları",
+  "Sızdırmazlık/mühürleme (kapatma) makinesi",
+  "Statik elektrik ve kıvılcım önleyici topraklama ekipmanları",
+  "Antistatik iş elbisesi, eldiven, maske, koruyucu gözlük gibi kişisel koruyucu donanımlar",
+  "Yangın söndürme ekipmanları",
+  "Basit bakım ve kontrol için el aletleri"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve tedbirli,",
+  "Sorumluluk duygusu yüksek,",
+  "El ve göz koordinasyonu gelişmiş,",
+  "Kurallara ve talimatlara titizlikle uyan,",
+  "Fiziksel ve psikolojik açıdan göreve uygun,",
+  "Stresli ve riskli ortamlarda sakin kalabilen,",
+  "Takım çalışmasına uyumlu,"
+ ],
+ "calisma_ortami": "Havai fişek üretim makinesi operatörü, genellikle güvenlik mesafeleri belirlenmiş, yerleşim yerlerinin dışında kurulmuş fabrika veya atölye ortamlarında çalışır. Patlayıcı ve parlayıcı kimyasallarla temas söz konusu olduğundan iş kazası ve yangın riski yüksektir; bu nedenle statik elektrik, kıvılcım, ısı ve nem gibi etkenlere karşı sıkı önlemler alınır ve kişisel koruyucu donanım kullanımı zorunludur.\n\nÇalışma genellikle ayakta, dikkat ve yoğunlaşma gerektiren bir tempoda yürütülür. İşyerinin vardiya düzenine göre çalışma saatleri değişebilir. Operatör, üretim sürecinde çoğunlukla bireysel sorumlulukla hareket eder; ustabaşı, kalite kontrol görevlileri ve iş sağlığı güvenliği uzmanlarıyla sık iletişim kurar.",
+ "gorevler": [
+  "İşletmenin genel çalışma prensipleri doğrultusunda, araç, gereç ve ekipmanları etkin bir şekilde kullanarak, işçi sağlığı ve patlayıcı madde emniyet kurallarına uygun olarak çalışır.",
+  "Kimyasal karışım reçetelerini makine ayarlarına yansıtır.",
+  "Boş kovan besleme ünitesini ve dolum haznelerini kontrol eder.",
+  "Dolum sırasında basınç ve miktar hassasiyetini sürekli izler.",
+  "Üretilen fişeklerin fitil ve sızdırmazlık montajlarını denetler.",
+  "Çalışma alanında statik elektrik ve kıvılcım önleyici tedbirleri uygular.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Mesleğin örgün bir eğitim programı veya okul/bölüm bulunmamaktadır. Meslekle ilgili bilgi ve beceriler genellikle işletme içinde işbaşında usta yanında kazanılır. Bunun yanında Halk Eğitim Merkezleri ve İŞKUR tarafından açılan iş sağlığı ve güvenliği ile kimyasal madde kullanımına yönelik mesleki eğitim kursları da destekleyici nitelikte olabilir.",
+  "giris_kosullari": [
+   "18 yaşını doldurmuş olmak",
+   "Okuryazar olmak, ilköğretim düzeyinde eğitim almış olmak",
+   "Görevin gerektirdiği fiziksel ve psikomotor yeterliliğe sahip olmak",
+   "Patlayıcı madde ile çalışmaya engel bir sağlık sorununun bulunmaması"
+  ],
+  "sure_ve_icerik": "Standart bir eğitim süresi ve müfredatı bulunmamaktadır. İşe alım sonrasında işletmeler çalışanlarına; iş sağlığı ve güvenliği, patlayıcı madde ile çalışma kuralları, makine kullanımı, kalite kontrol ve acil durumlarda alınacak tedbirler konularında işbaşı eğitimi verir. Patlayıcı madde üretimi çok tehlikeli işler sınıfında yer aldığından, çalışanların ilgili mevzuatta belirlenen temel iş sağlığı ve güvenliği eğitimlerini almaları gerekmektedir.",
+  "belge": "Örgün bir diploma veya sertifika programı bulunmamaktadır. İşletme içi eğitimler ve iş sağlığı güvenliği eğitimleri sonunda katılım belgesi verilebilir."
+ },
+ "calisma_alanlari": "Havai fişek üretim makinesi operatörleri, havai fişek ve pirotekni ürünleri üreten fabrika ve atölyelerde istihdam edilir. Bu işletmeler, güvenlik gerekçesiyle genellikle yerleşim alanlarının dışında kurulur. Sektördeki işletme sayısının sınırlı olması nedeniyle iş bulma olanakları bölgesel ve göreli olarak kısıtlıdır; üretim yoğunluğu yılbaşı ve özel kutlamalar gibi dönemlerde artış gösterebilir.",
+ "kazanc": {
+  "egitim_suresince": "Standart bir eğitim süreci bulunmadığından ayrı bir eğitim dönemi ücreti yoktur; işe alım sonrası işbaşı eğitim sürecinde çalışan, işletme tarafından ücretlendirilir.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanların ücreti genellikle asgari ücret düzeyindedir.",
+   "Deneyim, üstlenilen sorumluluk ve işletmenin büyüklüğü arttıkça kazanç artabilir.",
+   "Çalışma genellikle özel sektör işletmelerinde işçi statüsünde yürütülür; ücret çalışılan işyerine göre değişir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Meslekte ilerlemeye yönelik standart bir örgün eğitim basamağı bulunmamaktadır; deneyim ve işletme içi eğitimlerle yetkinlik geliştirilebilir.",
+  "is_hayatinda": "Bilgi, beceri ve deneyim arttıkça usta, ustabaşı, vardiya amiri veya üretim sorumlusu gibi görevlere yükselebilirler."
+ },
+ "benzer_meslekler": [
+  "Yangın Söndürme Tüpü Dolum Makinesi Operatörü",
+  "Toz Dolum Makinesi Operatörü",
+  "Karıştırma Makinesi Operatörü-Kimyasal Maddeler",
+  "Kibrit İmal İşçisi",
+  "Pil İmal İşçisi"
+ ],
+ "ek_bilgiler": "Havai fişek üretimi, patlayıcı madde içermesi nedeniyle iş sağlığı ve güvenliği mevzuatı kapsamında çok tehlikeli işler sınıfında yer almaktadır. Bu nedenle işyerlerinde iş sağlığı ve güvenliği kurallarına titizlikle uyulması, kişisel koruyucu donanımların kullanılması ve ilgili eğitimlerin alınması büyük önem taşır. Ayrıca bu alanda faaliyet gösteren işletmelerin, ilgili kamu kurumlarından patlayıcı madde üretim ve depolamaya ilişkin gerekli ruhsat ve izinleri almış olması gerekmektedir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T12:31:10",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5946
+  }
+ }
+}

@@ -1,0 +1,76 @@
+{
+ "arac_gerec": [
+  "Kazma",
+  "Kürek",
+  "Balyoz",
+  "Keski",
+  "El arabası",
+  "Şerit metre / ölçüm ipi",
+  "İşaret çitası/kazık",
+  "İş eldiveni",
+  "Koruyucu iş elbisesi, çizme ve baret",
+  "Gerektiğinde su tahliye pompası",
+  "Büyük mezarlıklarda kullanılan kepçe/iş makinesi",
+  "Mezar tabelası ve sabitleme malzemeleri"
+ ],
+ "benzer_meslekler": [
+  "Beden İşçisi (İnşaat)",
+  "Hafriyat İşçisi",
+  "İnşaat İşçisi",
+  "Su Kanalı İşçisi",
+  "Bina Yıkım İşçisi"
+ ],
+ "calisma_alanlari": "Mezar kazma işçileri başta belediyelerin mezarlık müdürlükleri olmak üzere, vakıflara veya özel kuruluşlara bağlı mezarlıklarda görev yapmaktadır. Nüfusu yoğun büyükşehirlerde istihdam olanağı daha fazladır. Meslek, nüfus artışına ve defin ihtiyacının sürekliliğine bağlı olarak düzenli bir iş gücü talebi barındırmakla birlikte, çoğunlukla belediyelerin kendi bünyeleri veya yüklenici firmaları aracılığıyla sınırlı sayıda kişi istihdam edilmektedir.",
+ "calisma_ortami": "Mezar kazma işçisi açık havada, mezarlık alanlarında çalışır. Yağmur, sıcak, soğuk gibi değişken hava koşullarına maruz kalır; toprağın yapısına göre (kayalık, taşlı, çamurlu vb.) iş zorlaşabilir. Kazma, kürek gibi el aletleriyle sürekli eğilme, kaldırma ve kazma hareketleri gerektiren ağır fiziksel bir iştir. Toprak kayması, düşme, kesici-delici aletlerle yaralanma gibi riskler bulunduğundan iş güvenliği kurallarına dikkat edilmesi önemlidir.\n\nÇalışma genellikle belediyelerin mezarlık birimleri bünyesinde, bazen yalnız bazen küçük bir ekip halinde yürütülür. Cenaze sahipleri, mezarlık görevlileri ve din görevlileriyle iletişim kurulur. Çalışma saatleri genelde mesai saatleri içindedir; ancak cenaze defin işlemlerinin aciliyeti nedeniyle hafta sonu, resmî tatil ve mesai dışı çalışma gerekebilir.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi için örgün bir meslek lisesi programı veya çıraklık eğitimi bulunmamaktadır. Mesleğe giriş genellikle belediyelerin mezarlık müdürlükleri veya özel mezarlık işletmelerinde işbaşında, deneyimli işçi gözetiminde öğrenilerek gerçekleşir. Ayrıca Halk Eğitim Merkezleri ve İŞKUR'un açtığı iş sağlığı ve güvenliği içerikli mesleki eğitim kurslarından da yararlanılabilir.",
+  "giris_kosullari": [
+   "İlköğretim mezunu olmak (mesleğin gerektirdiği minimum eğitim düzeyi)",
+   "Fiziksel olarak işin gerektirdiği ağır çalışma koşullarına uygun ve sağlık durumu bu işe elverişli olmak",
+   "Reşit olmak (ağır fiziksel iş niteliği nedeniyle genellikle yetişkin işçiler tercih edilmektedir)"
+  ],
+  "sure_ve_icerik": "Mesleğin belirli bir süre ve müfredatla yürütülen resmî bir örgün eğitim programı bulunmamaktadır. İşe yeni başlayanlar, deneyimli işçilerin yanında çalışarak kazı tekniklerini, mezarlık düzenine ilişkin usulleri, toplumsal/dini hassasiyetlere uygun davranış kurallarını ve iş güvenliği uygulamalarını işbaşında öğrenir. Kısa süreli kurslarla temel iş sağlığı ve güvenliği bilgisi desteklenebilir.",
+  "belge": "Örgün eğitim sonucu alınan bir diploma veya mesleki yeterlilik belgesi bulunmamaktadır. Katılınan iş sağlığı ve güvenliği kurslarına ilişkin katılım belgesi verilebilir."
+ },
+ "ek_bilgiler": "Mesleğin icrası sırasında toplumun dini inanç, örf ve adetlerine uygun hareket edilmesi önem taşır. İş genellikle belediyelerin mezarlık hizmetleri birimleri tarafından yürütüldüğünden istihdam büyük ölçüde kamu eliyle veya kamuya bağlı yüklenici firmalar aracılığıyla sağlanmaktadır. İşin açık havada ve fiziksel olarak yoğun biçimde icra edilmesi nedeniyle kişinin sağlık durumunun bu koşullara uygun olması gerekir.",
+ "genel_ozellikler": [
+  "Fiziksel olarak güçlü ve dayanıklı,",
+  "Açık havada ve zorlu hava koşullarında çalışmaya uygun,",
+  "Dikkatli ve sorumluluk sahibi,",
+  "Toplumun dini inanç, geleneklerine ve göreneklerine saygılı,",
+  "Sabırlı ve hoşgörülü,",
+  "İnsanlarla iyi ilişki kurabilen,",
+  "Ekip halinde çalışmaya uyumlu,",
+  "El ve kol kaslarını etkin şekilde kullanabilen"
+ ],
+ "gorevler": [
+  "Kazım için gerekli malzemeyi temin eder.",
+  "Cenazenin çocuk, kadın veya erkek olup olmadığını ve vücut yapısı hakkında bilgi alır.",
+  "Diğer mezarlara paralel olacak şekilde kazı yerini belirler.",
+  "Cenaze cinsiyetine göre belirli ebatlarda mezar kazar.",
+  "Mezar içerisindeki toprakları tamamen temizler.",
+  "Mezar kazım işlemi bittikten sonra mezarlık görevlisine veya cenaze sahiplerine bilgi verir.",
+  "Cenazenin defnedilmesinden sonra mezarı toprakla doldurur.",
+  "Mezar baş tarafına mezar bilgilerini içeren tabelayı takar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğin örgün bir eğitim kademesi bulunmadığından klasik anlamda mesleki eğitimde ilerleme söz konusu değildir. İsteyen kişiler, ilgili mesleki ve teknik eğitim kurumlarının bina dışı inşaat, peyzaj veya genel yapı işleri gibi alanlarındaki kurslarına katılarak bilgi ve becerilerini geliştirebilir.",
+  "is_hayatinda": "Deneyim kazanan işçiler, mezarlık bakım-onarımı, düzenleme ve peyzaj gibi ek görevlerde sorumluluk üstlenebilir; zaman içinde ekip sorumluluğu veya mezarlık görevlisi gibi gözetim gerektiren pozisyonlara yükselebilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Mesleğe yönelik örgün bir eğitim süreci bulunmadığından, eğitim süresince ayrı bir ücretlendirme söz konusu değildir; kişi genellikle doğrudan çalışmaya başlayarak ücretini bu şekilde alır.",
+  "egitim_sonrasi": [
+   "Belediyelerde işçi statüsünde çalışanlar toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel mezarlık işletmelerinde çalışanların ücreti işyerinin büyüklüğü, kişinin tecrübesi ve bölgesel koşullara göre değişmekle birlikte genellikle asgari ücret düzeyindedir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T19:53:18",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6031
+  }
+ }
+}

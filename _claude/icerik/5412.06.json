@@ -1,0 +1,81 @@
+{
+ "arac_gerec": [
+  "Çeşitli tip hafif ve ağır silahlar (tabanca, tüfek, keskin nişancı tüfeği vb.)",
+  "Silah mühimmatı ve patlayıcı madde imha ekipmanları",
+  "Kişisel koruyucu donanım (çelik yelek, kask, gaz maskesi)",
+  "Gece görüş ve termal görüntüleme cihazları",
+  "Telsiz ve diğer haberleşme cihazları",
+  "Zırhlı araçlar, panzer ve özel taşıtlar",
+  "Helikopter ve hava araçları",
+  "İp, halat ve tırmanma/rapel ekipmanları",
+  "Kapı kırma ve içeri giriş (breaching) ekipmanları",
+  "Göz yaşartıcı gaz, ses bombası gibi caydırıcı malzemeler",
+  "GPS cihazı, harita ve pusula",
+  "İlk yardım ve kurtarma malzemeleri"
+ ],
+ "benzer_meslekler": [
+  "Terörle Mücadele Polisi",
+  "Çevik Kuvvet Polisi",
+  "Asayiş Polisi",
+  "Yakın Koruma (Bodyguard)",
+  "Bomba Uzmanı (Polis)",
+  "Arama Kurtarma Elemanı"
+ ],
+ "calisma_alanlari": "Özel Harekat Polisi, İçişleri Bakanlığı'na bağlı Emniyet Genel Müdürlüğü bünyesinde il ve ilçelerdeki Özel Harekat Şube Müdürlüklerinde görev yapar. Başlıca çalışma alanları terörle mücadele operasyonları (meskun mahal ve kırsal alan), rehine kurtarma, toplumsal olaylarda özel müdahale, VIP/devlet adamı koruma ve eskort görevleri, keskin nişancılık ve gerektiğinde afet/arama kurtarma faaliyetlerine destektir. Meslek, kamu kurumunda memur statüsünde icra edilir; özel sektörde karşılığı bulunmamaktadır. İstihdam tamamen devlet eliyle, sınav ve seçme süreçleriyle gerçekleşir; iş bulma sorunu yaşanmaz, ancak göreve kabul koşulları oldukça seçicidir.",
+ "calisma_ortami": "Özel Harekat Polisi, görevin niteliğine göre hem açık hem kapalı alanlarda; şehir merkezlerinde, kırsal ve dağlık bölgelerde, bina içlerinde veya araç/helikopter içinde çalışır. Görevler genellikle ekip (tim) halinde yürütülür; gece-gündüz, her türlü hava ve arazi koşulunda, yüksek fiziksel efor ve risk gerektiren operasyonlara katılır. Çalışma saatleri düzensizdir, ani ve gizlilik gerektiren görevlendirmeler söz konusu olabilir, Türkiye'nin farklı bölgelerine geçici veya sürekli görevle gönderilebilir.\n\nGörev sırasında amirleri, ekip arkadaşları, diğer emniyet ve güvenlik birimleri, bazı durumlarda yabancı heyetler ve kamuoyu ile iletişim kurar. Meslek, yüksek düzeyde fiziksel ve psikolojik dayanıklılık gerektirir; yaralanma ve yaşamsal risk ihtimali diğer polislik branşlarına göre daha fazladır.",
+ "egitim": {
+  "verildigi_yerler": "Özel Harekat Polisi olabilmek için önce Polis Meslek Yüksekokulu veya Polis Meslek Eğitim Merkezinde polis memurluğu temel eğitimi tamamlanır. Ardından Emniyet Genel Müdürlüğü Özel Harekat Dairesi Başkanlığına bağlı özel harekat eğitim merkezlerinde ek branş eğitimi verilir.",
+  "giris_kosullari": [
+   "T.C. vatandaşı olmak",
+   "Daha önce polis memuru olarak atanmış ve görevde bulunmak (branşlaşma öncesi temel polislik eğitimini tamamlamış olmak)",
+   "Üstün fiziksel kondisyona sahip olmak ve kurumun belirlediği dayanıklılık, yüzme, atıcılık gibi seçme testlerinden başarılı olmak",
+   "Güvenlik soruşturması ve arşiv araştırması olumlu olmak",
+   "Psikolojik değerlendirme ve mülakat sürecinden başarıyla geçmek",
+   "Kurumun belirlediği yaş, kıdem ve sağlık şartlarını taşımak"
+  ],
+  "sure_ve_icerik": "Özel harekat branş eğitimi, görevdeki polis memurlarının fiziksel dayanıklılık, silah ve atış teknikleri, taktik hareket, şehir içi ve kırsal alan operasyonları, rehine kurtarma, dağ-kış harekatı, tırmanma/rapel, yüzme-dalış ve ilk yardım gibi konularda yetiştirildiği yoğun bir programdır. Eğitim süresi kuruma göre değişmekle birlikte genellikle birkaç ayı kapsayan, fiziksel ve psikolojik açıdan zorlayıcı, eleme sınavlarının da uygulandığı bir seçme ve yetiştirme sürecidir.",
+  "belge": "Temel polislik eğitimi sonunda, eğitimin verildiği kuruma göre lise dengi veya önlisans diploması alınır. Özel harekat branş eğitimini başarıyla tamamlayanlar Özel Harekat Şube Müdürlüklerinde görevlendirilir ve bu branşta çalışmaya hak kazanır."
+ },
+ "ek_bilgiler": "Özel Harekat Polisliği, yüksek risk ve yoğun fiziksel/psikolojik dayanıklılık gerektiren bir branştır; görev süresince düzenli fiziksel kondisyon ve atış testlerinden geçilir. Göreve kabul, önce polis memuru olmayı ve ardından kurum içi seçme sürecini başarmayı gerektirdiğinden standart polislik mesleğine göre daha seçici bir yoldur. Görevler gizlilik içerebilir ve görev yeri/saatleri önceden belirlenemeyebilir.",
+ "genel_ozellikler": [
+  "Fiziksel ve psikolojik açıdan dayanıklı,",
+  "Soğukkanlı ve cesur,",
+  "Ekip çalışmasına uyumlu,",
+  "Disipline uyan, yönergeleri hızlı ve doğru uygulayan,",
+  "Stres altında hızlı ve doğru karar verebilen,",
+  "Sorumluluk duygusu yüksek, güvenilir,",
+  "Dikkatli ve tedbirli,",
+  "Vatanını ve görevini önceleyen, özverili"
+ ],
+ "gorevler": [
+  "Meskun mahalde terörle ilgili hücre evi, uçak, araç, bina vb. operasyonlara katılır.",
+  "Kırsal alanlarda terör örgütü ile ilgili takip, silahlı temas, baskın vb. operasyonlara katılır.",
+  "Görevle ilgili her türlü silah, mühimmat, araç ve gereçleri kullanır.",
+  "Görev esnasında yakalanan veya teslim alınan kişileri ilgili birimlere teslim eder.",
+  "Gerektiğinde yabancı ülke devlet adamlarına eskortluk yapar.",
+  "Olay çıkması muhtemel toplumsal olaylarda keskin nişancı olarak görev alır.",
+  "Sürekli eğitim ve sportif faaliyetlerde bulunmak suretiyle fiziksel kondisyonunu korur.",
+  "Kullanılan araç ve ekipmanların bakım ve temizliğini yapar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Adaylar önce Polis Meslek Yüksekokulu veya Polis Meslek Eğitim Merkezinde temel polislik eğitimi alarak polis memuru olur; ardından kurum içi seçme sınavları ve ek eğitim süreciyle Özel Harekat branşına geçiş yapabilirler. Kıdem ve ileri eğitimlerle keskin nişancılık, patlayıcı imha, dalgıç timi gibi alt uzmanlık alanlarına yönelebilirler.",
+  "is_hayatinda": "Deneyim, performans ve kıdeme bağlı olarak tim komutanlığı, grup/şube amirliği gibi görevlere, ayrıca eğitmenlik ve uzman kadrolarına yükselebilirler. Rütbe terfileri genel polislik kariyer basamaklarına göre ilerler."
+ },
+ "kazanc": {
+  "egitim_suresince": "Adaylar özel harekat branş eğitimine başladıklarında zaten polis memuru statüsünde olduklarından, eğitim süresince memur maaşları ve yasal özlük haklarının yanı sıra kurumun belirlediği harcırah veya ek ödemelerden yararlanabilirler.",
+  "egitim_sonrasi": [
+   "657 sayılı Devlet Memurları Kanunu çerçevesinde belirlenen maaş, ek gösterge ve tazminatlarla çalışırlar.",
+   "Görevin risk düzeyine bağlı olarak özel hizmet veya risk tazminatı gibi ek ödemeler alabilirler.",
+   "Kıdem ve rütbe yükseldikçe kazanç düzeyi artar."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T19:47:00",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6861
+  }
+ }
+}

@@ -1,0 +1,83 @@
+{
+ "gorevler": [
+  "Teknik işleri organize eder",
+  "İş organizasyonunu yapar",
+  "Personelin eğitim ihtiyacını tespit edip iş başında eğitim yaptırır",
+  "Bölümündeki yatırım projelerinin ilk etütlerini yapar",
+  "Ekonomik ömrünü tamamlamış teçhizatın devre dışı bırakılmasını sağlar",
+  "Apronda güvenlik önlemleri aldırır",
+  "Kazaların raporlarını düzenler ve ilgililere iletir",
+  "Birimine nezaret eder",
+  "İlgili teçhizatın alınmasını sağlar",
+  "İdari işleri organize eder",
+  "Personelin vardiya, izin, özlük işlerini düzenler",
+  "Diğer şirketlere kiralanan teçhizatların kira parasını alır ve ilgililere teslim eder",
+  "Mesleki gelişim faaliyetlerinde bulunur"
+ ],
+ "arac_gerec": [
+  "Bilgisayar ve ofis yazılımları",
+  "Telsiz ve haberleşme cihazları",
+  "Apron yer hizmet araçlarına (push-back aracı, yer elektrik ünitesi, merdiven, bagaj arabası vb.) ait teknik dokümanlar",
+  "Bakım/arıza takip formları ve kayıt defterleri",
+  "Vardiya ve personel planlama çizelgeleri",
+  "Kaza/olay rapor formları",
+  "Kişisel koruyucu donanım (reflektörlü yelek, baret, kulaklık vb.)",
+  "Kırtasiye malzemeleri",
+  "Telefon/faks",
+  "İlgili mevzuat, prosedür ve talimat dokümanları",
+  "Araç-ekipman envanter kayıtları",
+  "Kira/sözleşme takip belgeleri"
+ ],
+ "genel_ozellikler": [
+  "Sorumluluk sahibi,",
+  "Yöneticilik ve organizasyon becerisine sahip,",
+  "Ekip yönetiminde ve koordinasyonda başarılı,",
+  "Dikkatli ve tedbirli,",
+  "İş sağlığı ve güvenliği konusunda bilinçli,",
+  "Hızlı ve doğru karar verebilen,",
+  "Teknik konulara ilgili,",
+  "İletişim becerisi gelişmiş,"
+ ],
+ "calisma_ortami": "Apron Yer Teçhizat Bakım Şefi, havaalanı apron sahasında ve büroda görev yapar. Açık alanda uçak gürültüsü, hava koşulları (sıcak, soğuk, yağmur) ve hareketli araç trafiği gibi risklerin bulunduğu bir ortamda çalışır; büroda ise idari işleri, raporlama ve planlama çalışmalarını yürütür. Havaalanları kesintisiz hizmet verdiğinden çalışma genellikle vardiyalı sistemle yürütülür; iş yoğunluğuna göre mesai saatleri değişebilir.\n\nÇalışması sırasında bağlı personeli, diğer havaalanı birim şefleri/amirleri, yöneticiler, ilgili havayolu şirketlerinin ve yer hizmetleri kuruluşlarının temsilcileriyle sürekli iletişim halindedir.",
+ "egitim": {
+  "verildigi_yerler": "Meslek için Milli Eğitim Bakanlığına bağlı okullarda örgün bir alan/dal programı bulunmamaktadır. Bu meslek, genellikle havaalanı yer hizmetleri işletmelerinde (DHMİ, havayolu şirketleri, THY, özel yer hizmetleri kuruluşları vb.) apron memurluğu, apron amirliği gibi görevlerde kazanılan tecrübe ve iş başında alınan teknik-idari eğitimler sonucunda edinilmektedir. Sivil Havacılık Genel Müdürlüğü (SHGM) onaylı apron/ramp hizmetleri, iş sağlığı ve güvenliği, yangın ve ilkyardım kursları bu süreci destekler. Üniversitelerin sivil havacılık/ulaştırma işletmeciliği ile ilgili ön lisans ve lisans programları da meslekte ilerlemeye katkı sağlayabilir.",
+  "giris_kosullari": [
+   "En az ortaöğretim (lise ve dengi okul) mezunu olmak",
+   "Sağlık durumunun apron sahasında çalışmaya uygun olması",
+   "Tercihen sivil havacılık, ulaştırma işletmeciliği veya ilgili alanda ön lisans/lisans eğitimi almış olmak",
+   "İlgili kurumun açacağı sınav, mülakat ve güvenlik soruşturması süreçlerini tamamlamak"
+  ],
+  "sure_ve_icerik": "Resmi olarak tanımlanmış, belirli bir süreye sahip örgün bir eğitim programı bulunmamaktadır. Kişi genellikle apron memuru veya apron amiri gibi alt kademelerde çalışarak teknik ve idari tecrübe kazanır; işletme içinde düzenlenen eğitimler, SHGM onaylı apron/ramp handling kursları ve iş güvenliği eğitimleriyle bu bilgiler desteklenir. Zaman içinde kazanılan deneyim ve başarı performansı doğrultusunda şeflik görevine terfi edilir.",
+  "belge": "Örgün bir diploma yerine, çalışılan kurum tarafından düzenlenen iç eğitim sertifikaları ile havaalanı işletmesi/SHGM onaylı apron-ramp çalışma yetki belgeleri ve havalimanı giriş kartı (güvenlik kartı) alınır."
+ },
+ "calisma_alanlari": "DHMİ tarafından işletilen havaalanları, özel havaalanı işletmeleri, Türk Hava Yolları ve diğer havayolu şirketleri, Havaş, Çelebi, TGS gibi yer hizmetleri kuruluşlarının apron yer teçhizatı bakım birimlerinde istihdam edilir. Havayolu taşımacılığı sektörünün büyümesine bağlı olarak istihdam olanakları değişkenlik gösterebilir; teknik bilgiye ve yönetim tecrübesine sahip kişiler tercih edilmektedir.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğe örgün bir eğitim programıyla girilmediğinden eğitim süresine özgü ayrı bir ücretlendirme bulunmamaktadır. Kişi genellikle apron memuru/amiri gibi alt kademelerde çalışarak deneyim kazanır ve bu dönemde bulunduğu kadronun ücretini alır.",
+  "egitim_sonrasi": [
+   "Kamu kurumunda (DHMİ gibi) çalışanlar, ilgili mevzuata veya toplu iş sözleşmesine göre ücret alır.",
+   "Özel sektörde (havayolu şirketleri, yer hizmetleri kuruluşları) çalışanların kazancı işyerinin büyüklüğüne, kişinin tecrübesine, bilgi ve becerisine ve sektördeki ücret düzeyine göre değişebilir.",
+   "Şeflik pozisyonu olması nedeniyle ücret, genellikle bağlı çalıştığı personele göre daha yüksek düzeydedir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Sivil havacılık işletmeciliği, ulaştırma ve lojistik gibi alanlarda ön lisans/lisans eğitimi tamamlayanlar mesleki bilgi birikimini ve kariyer olanaklarını artırabilir.",
+  "is_hayatinda": "Apron Memuru veya Apron Amiri gibi görevlerden tecrübe kazanılarak Apron Yer Teçhizat Bakım Şefliğine ulaşılabilir. Bu görevden sonra apron müdürlüğü, yer hizmetleri operasyon müdürlüğü veya benzeri üst düzey yönetim kademelerine ilerlemek mümkündür."
+ },
+ "benzer_meslekler": [
+  "Apron Amiri",
+  "Apron Memuru",
+  "Ramp Kontrol Memuru",
+  "Ekip Tahsis Memuru-Havayolları",
+  "Uçak Tahsis Memuru",
+  "Yer İşletmecisi (İstasyon-Havaalanı)"
+ ],
+ "ek_bilgiler": "Apron sahasında uçak hareketleri nedeniyle yüksek dikkat ve güvenlik kurallarına uyum gerekmektedir; bu nedenle işe alımlarda sağlık muayenesi ve güvenlik soruşturması istenebilir. Havaalanında çalışabilmek için havalimanı güvenlik (giriş) kartı alınması gerekmektedir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T16:38:13",
+  "usage": {
+   "input_tokens": 4,
+   "output_tokens": 12605
+  }
+ }
+}

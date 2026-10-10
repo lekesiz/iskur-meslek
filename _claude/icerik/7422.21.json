@@ -1,0 +1,85 @@
+{
+ "arac_gerec": [
+  "Fiber optik kablo ve bakır/koaksiyel kablo",
+  "Fiber optik ek (splice) makinesi",
+  "Optik güç ölçer (OPM) ve optik kaynak (OLS)",
+  "Kablo ve hat test cihazları, multimetre",
+  "Kablo soyma, kesme ve sıkma el aletleri (pense, tornavida vb.)",
+  "Yükseltici platform, merdiven, tırmanma ve emniyet ekipmanları",
+  "Kişisel koruyucu donanım (baret, emniyet kemeri, eldiven)",
+  "Anten, çanak anten ve LNB gibi uydu terminal ekipmanları",
+  "Router, switch, modem gibi şebeke ve terminal cihazları",
+  "Baz istasyonu ve şebeke kurulum ekipmanları",
+  "Dizüstü bilgisayar ve konfigürasyon/test yazılımları",
+  "Kablo döşeme ve çekme ekipmanları",
+  "Telsiz veya mobil haberleşme cihazı"
+ ],
+ "genel_ozellikler": [
+  "El ve bedensel beceri gerektiren işlerde başarılı,",
+  "Elektrik-elektronik ve haberleşme sistemlerine ilgili ve bu alanda bilgili,",
+  "Dikkatli, sabırlı ve sorumluluk sahibi,",
+  "Yüksekte ve açık hava koşullarında çalışmaya uyumlu,",
+  "Takım halinde çalışmaya istekli ve uyumlu,",
+  "Teknolojik gelişmeleri takip edebilen,",
+  "Problem çözme ve analitik düşünme becerisine sahip,",
+  "Fiziksel olarak dayanıklı"
+ ],
+ "calisma_ortami": "Telekomünikasyon şebeke kurulum ustası, görevin niteliğine göre hem açık hem kapalı alanlarda çalışır. Saha çalışmaları genellikle açık havada; direk, kule, çatı gibi yüksek noktalarda veya bina içlerinde, bazen dar ve kapalı mekanlarda (santral, dağıtım dolabı, veri merkezi) yürütülür. Hava koşullarına bağlı olarak sıcak, soğuk, yağmurlu ortamlarda görev yapabilir; yüksekte çalışma ve elektrik riskine karşı iş güvenliği kurallarına titizlikle uyması gerekir.\n\nÇalışma genellikle ekip halinde yürütülür; iş yoğunluğuna göre mesai saatleri dışında veya hafta sonu çalışma, arıza giderme gibi durumlarda çağrı üzerine görevlendirme söz konusu olabilir. Meslek, saha ekip arkadaşları, teknik sorumlular ve hizmet verilen kurum/müşteri temsilcileriyle sık iletişim kurmayı gerektirir.",
+ "gorevler": [
+  "İş sağlığı, iş güvenliği, çevre koruma ve kalite gerekliliklerine uygun çalışır.",
+  "İş organizasyonu yapar.",
+  "Kurulum öncesi keşif (survey) ve hazırlık işlemlerini yapar.",
+  "Şebeke uç noktalarının (network terminali) kurulumunu yapar.",
+  "Çekirdek şebeke (core network) kurulumunu yapar.",
+  "Veri iletim yolu (transmisyon) kurulumunu yapar.",
+  "Kurulumu yapılan ekipmanların fonksiyonel kontrollerini yapar.",
+  "Şebekenin enerjilendirilmesine yönelik işlemleri yapar.",
+  "Sabit terminal (müşteri noktası) kurulumunu yapar.",
+  "Terminal kurulumlarının testlerini yapar.",
+  "Uydu terminal kurulumunu yapar.",
+  "Mesleki gelişim çalışmalarında bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi, yeterli müracaat olması durumunda mesleki ve teknik eğitim kurumlarının ilgili alanları bünyesinde mesleki eğitim merkezlerinde çıraklık eğitimi şeklinde verilebilir. Bunun yanında İŞKUR ve Halk Eğitim Merkezlerinin açtığı mesleki eğitim kursları ile işyerlerinde usta yanında yetişme yoluyla da mesleğe giriş mümkündür.",
+  "giris_kosullari": [
+   "En az ilköğretim/ortaokul mezunu olmak",
+   "Çıraklık eğitimine başlamak için 14 yaşını doldurmuş olmak ve ilgili işyeri ile çıraklık sözleşmesi imzalamak",
+   "Sağlık durumunun yüksekte ve saha koşullarında çalışmaya uygun olması (gerektiğinde sağlık raporu ile belgelenir)",
+   "Kurs programları için ilgili kurumun belirlediği yaş ve öğrenim şartlarını taşımak"
+  ],
+  "sure_ve_icerik": "Mesleki eğitim merkezlerinde çıraklık eğitimi ilköğretim sonrası yaklaşık 4 yıl sürer; bu sürenin 3 yılı kalfalık, 1 yılı ustalık eğitimine ayrılır. Eğitim haftada 1 gün mesleki eğitim merkezinde teorik, kalan günlerde işyerinde uygulamalı olarak yürütülür. İŞKUR ve Halk Eğitim Merkezlerinin açtığı kurslar ise genellikle kısa süreli (haftalar-birkaç ay) olup temel şebeke kurulum bilgi ve becerilerini kazandırmayı hedefler. Eğitim içeriği; temel elektrik-elektronik bilgisi, fiber optik ve bakır kablolama teknikleri, şebeke ve terminal kurulum işlemleri, ölçüm-test cihazlarının kullanımı ile iş sağlığı ve güvenliği konularını kapsar.",
+  "belge": "Çıraklık eğitimini tamamlayanlara kalfalık, ardından ustalık belgesi verilir; fark derslerini tamamlayanlar meslek lisesi diploması da alabilir. Kurs programlarını tamamlayanlara kurs bitirme/katılım belgesi verilir. Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Telekomünikasyon şebeke kurulum ustaları; GSM ve telekomünikasyon operatörleri, internet servis sağlayıcıları, kablo TV ve uydu hizmet şirketleri ile bu kuruluşlara yüklenici/alt yüklenici olarak hizmet veren şebeke kurulum ve bakım firmalarında çalışabilirler. Ayrıca baz istasyonu kurulum firmaları ve kamu kurumlarının haberleşme altyapı birimlerinde de görev alabilirler. Sektördeki altyapı yatırımları ve mobil/sabit şebeke genişleme çalışmalarına bağlı olarak iş bulma olanakları değişkenlik gösterebilir; deneyim ve fiber optik, yüksekte çalışma gibi ek sertifikalar istihdam şansını artırmaktadır.",
+ "kazanc": {
+  "egitim_suresince": "Çıraklık eğitimi kapsamında eğitim görenlere, 3308 sayılı Mesleki Eğitim Kanunu gereğince asgari ücretin belirli bir oranından az olmamak üzere işletme tarafından ücret ödenir; ayrıca iş kazası ve meslek hastalığı sigorta primleri devletçe karşılanır. İŞKUR ve Halk Eğitim Merkezi kurslarına katılanlara ise kursiyer harçlığı ödenebilir.",
+  "egitim_sonrasi": [
+   "Kamu kurum/kuruluşlarında istihdam edilenler 657 sayılı Devlet Memurları Kanunu veya tabi oldukları toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde işe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Deneyim, bilgi, çalışma kapasitesi ve işletmenin büyüklüğüne göre ücret artabilir; bazı işletmelerde yapılan iş/kurulum başına ek prim ödenebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleki eğitim merkezinden diploma alarak mezun olanlar, alanın devamı niteliğindeki yükseköğretim (ön lisans/lisans) programlarına sınavla girebilir ve bazı programlarda ek puan hakkından yararlanabilir. Çeşitli mesleki kurs ve sertifika programlarına katılarak bilgi ve beceriler güncellenebilir.",
+  "is_hayatinda": "Deneyim kazanan ustalar ekip lideri, saha şefi veya teknik sorumlu gibi pozisyonlara yükselebilir. Ayrıca kendi işini kurarak yüklenici/alt yüklenici firma sahibi olarak çalışabilirler."
+ },
+ "benzer_meslekler": [
+  "Fiber Optik Data ve Uydu Sistemleri Tesisatçısı",
+  "TV Anten - Uydu Sistemleri Montaj ve Servis Elemanı",
+  "Baz İstasyonu Montaj Elemanı",
+  "Altyapı Destek (Survey) Elemanı",
+  "Telekomünikasyon Yer İstasyonu Tesis ve İşletme Ustası",
+  "Telekomünikasyon Şebeke Kurulum Elemanı",
+  "Telekomünikasyon Bakım Onarım Ustası",
+  "Haberleşme Tesisatı Bakım ve Onarımcısı"
+ ],
+ "ek_bilgiler": "Direk, kule, çatı gibi yüksek noktalarda çalışma gerektiren görevler nedeniyle bu işler tehlikeli/çok tehlikeli işler kapsamında değerlendirilebilir; bu durumda yüksekte çalışma eğitimi ve periyodik sağlık kontrolleri önem kazanır. Mobil ve sabit şebeke teknolojilerindeki hızlı değişim (fiber altyapı yaygınlaşması, yeni nesil mobil şebekeler) nedeniyle mesleki bilgi ve becerilerin sürekli güncellenmesi gerekir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T06:43:47",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 7466
+  }
+ }
+}

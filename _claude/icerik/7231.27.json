@@ -1,0 +1,77 @@
+{
+ "arac_gerec": [
+  "Test dinamometresi (motor test cihazı)",
+  "Rodaj test standı/tablosu",
+  "Ölçü ve kontrol aletleri (manometre, termometre, takometre, basınç ölçer)",
+  "Kalibrasyon cihazları ve mastarlar",
+  "El takımları (anahtar, tornavida, pense takımı)",
+  "Egzoz gazı analiz cihazı",
+  "Basınç ve sızdırmazlık test ekipmanları",
+  "Veri kayıt ve raporlama için bilgisayar/yazılım",
+  "Yağ ve yakıt ikmal ekipmanları",
+  "Kaldırma ve taşıma ekipmanları (vinç, forklift, transpalet)",
+  "Kişisel koruyucu donanım (eldiven, kulaklık, koruyucu gözlük, iş elbisesi)"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve titiz,",
+  "El ve göz koordinasyonuna sahip,",
+  "Mekanik problemleri çözebilme gücüne sahip,",
+  "Sayısal verileri okuyup yorumlayabilen,",
+  "Sorumluluk sahibi,",
+  "Takım çalışmasına uyumlu,",
+  "Yenilikleri ve teknolojik gelişmeleri takip eden,",
+  "Düzenli ve sistemli çalışabilen"
+ ],
+ "calisma_ortami": "Motor test operatörü, genellikle otomotiv veya motor üretim fabrikalarının montaj hattına bağlı test ve rodaj bölümlerinde, kapalı mekânlarda çalışır. Çalışma ortamı gürültülü olabilir, motor egzoz gazı ve yağ kokusu bulunabilir; bu nedenle kişisel koruyucu donanım kullanımı önemlidir. Çalışma genellikle ayakta ve vardiyalı düzende sürdürülür.\n\nMeslek daha çok makine ve ölçüm cihazlarıyla ilgilidir; ancak iş sürecinde üretim mühendisleri, kalite kontrol personeli, ustabaşı ve diğer vardiya çalışanlarıyla yakın iletişim gerektirir. Raporlama ve kayıt tutma işleri nedeniyle bilgisayar kullanımı da işin bir parçasıdır.",
+ "gorevler": [
+  "Montaj hattından gelen motorları iş sırasına göre test işlemi için sıraya koyar,",
+  "Motorları test dinamometrelerine bağlayıp rodaj tablosunda belirtilen sürelerde testlerini yapar,",
+  "Test işlemi sonunda motorun versiyonuna göre ayarlarını yapar,",
+  "Test esnasında motorda görülen uygunsuzlukları ve arızaları giderir,",
+  "Test bulgularını tablo ve grafik halinde rapor eder,",
+  "Raporla ilgili hesapları yapar,",
+  "Ölçü ve kontrol aletlerinin kalibrasyonunu yapar,",
+  "İş ile ilgili talimat ve şemaları okur,",
+  "Hassas ölçü aletlerinin kalibrasyonu, tertibat ve aparatlar ile motor tekniği konusunda temel bilgilere sahip olmak amacıyla eğitimlere katılır,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Motor Test Operatörlüğü için ayrı ve resmi olarak tanımlanmış bağımsız bir mesleki eğitim programı bulunmamaktadır. Mesleğin gerektirdiği bilgi ve beceriler genellikle \"Motorlu Araçlar Teknolojisi\" alanındaki mesleki ve teknik eğitim programlarında, meslek yüksekokullarının otomotiv/makine teknolojisi programlarında ve işletmelerde verilen işbaşı eğitimlerinde kazanılır. Ayrıca Halk Eğitim Merkezleri ile İŞKUR'un açtığı mesleki eğitim kursları da bu alanda temel beceri kazandırabilir.",
+  "giris_kosullari": [
+   "En az ilköğretim/ortaokul mezunu olmak",
+   "İlgili mesleki ve teknik eğitim programına kayıt için okulun aradığı genel şartları taşımak",
+   "Sağlık durumunun işin gerektirdiği koşullara (ayakta çalışma, gürültülü ve kapalı ortamda çalışma) uygun olması"
+  ],
+  "sure_ve_icerik": "Meslek için tanımlanmış bağımsız bir çıraklık/kalfalık-ustalık eğitim süreci yoktur. İlgili temel bilgiler, \"Motorlu Araçlar Teknolojisi\" alanındaki orta öğretim düzeyi mesleki eğitim programlarında veya meslek yüksekokulu düzeyindeki otomotiv/makine programlarında; motor yapısı ve çalışma prensipleri, ölçme-kontrol teknikleri, hidrolik-pnömatik sistemler, temel elektrik-elektronik bilgisi gibi konuları içeren eğitimlerle kazanılır. Mesleğe giriş genellikle fabrika ortamında, deneyimli bir usta veya teknisyenin gözetiminde verilen kısa süreli işbaşı/hizmet içi eğitimlerle tamamlanır.",
+  "belge": "Mesleki ve teknik eğitim kurumlarından alınan diploma veya sertifika, ya da çalışılan işletmede verilen hizmet içi eğitim katılım belgesi düzenlenir. Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Motor test operatörleri başta otomotiv ana sanayi olmak üzere, motor üretim ve montaj fabrikalarının test/kalite kontrol bölümlerinde istihdam edilir. Ayrıca motor yenileştirme (rektifiye) tesislerinde ve motor üreten yan sanayi işletmelerinde de çalışma olanağı bulunmaktadır.\n\nÇalışma alanı, üretim hacmi büyük ve montaj hattı bulunan sınırlı sayıda büyük ölçekli fabrika ile sınırlı olduğundan iş bulma olanağı, otomotiv sektörünün genel üretim hacmine ve yeni motor üretim tesislerinin açılmasına bağlı olarak değişmektedir.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğe özgü ayrı bir çıraklık eğitimi tanımlı olmadığından, eğitim genellikle mesleki ve teknik eğitim kurumlarında öğrencilik kapsamında veya işletmelerde staj/işbaşı eğitimi şeklinde sürdürülür. Staj döneminde ödenecek ücret, varsa işyerinin kendi uygulamalarına ve ilgili mevzuata göre değişir.",
+  "egitim_sonrasi": [
+   "Kamu kuruluşlarına bağlı üretim tesislerinde çalışanlar 657 sayılı Devlet Memurları Kanunu veya ilgili toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde işe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar; deneyim, bilgi birikimi, uzmanlaşma düzeyi ve çalışılan işletmenin büyüklüğüne göre ücretler artabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "İlgili mesleki ve teknik eğitim programlarını tamamlayanlar, diploma/sertifika düzeylerini yükselterek önlisans veya lisans düzeyinde otomotiv ya da makine mühendisliği eğitimine yönelerek mesleki bilgi ve unvanlarını ilerletebilir.",
+  "is_hayatinda": "Deneyim kazanan motor test operatörleri; vardiya amirliği, kalite kontrol sorumluluğu, test laboratuvarı şefliği gibi görevlere yükselebilir. Ayrıca motor yenileştirme, bakım-onarım veya üretim süreç mühendisliğine destek gibi ilişkili alanlarda uzmanlaşabilir."
+ },
+ "benzer_meslekler": [
+  "Motor Yenileştirmecisi (Motor Rektifiyecisi)",
+  "Otomotiv Kontrol, Test ve Ayar İşçisi",
+  "Otomotiv Mekanikeri",
+  "Diğer Motorlu Araç Tamirci Makinistleri",
+  "Dizel Motorları Yakıt Pompası ve Enjektör Ayarcısı",
+  "Oto Ekspertiz Elemanı"
+ ],
+ "ek_bilgiler": "Motor Test Operatörlüğü, genellikle motor üretim/montaj hattı bulunan büyük ölçekli otomotiv fabrikalarında yürütülen bir meslektir; bağımsız veya serbest çalışma olanağı bulunmamaktadır. İstihdam, otomotiv sektöründeki üretim hacmine ve yeni yatırımlara bağlı olarak sınırlı sayıda işletmede yoğunlaşmaktadır.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T02:24:52",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6188
+  }
+ }
+}

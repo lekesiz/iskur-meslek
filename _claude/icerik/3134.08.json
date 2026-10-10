@@ -1,0 +1,75 @@
+{
+ "arac_gerec": [
+  "Buhar veya elektrikle çalışan pompalar",
+  "Boru hattı ve tank valfleri, el çarkları",
+  "Basınç göstergeleri (manometre)",
+  "Seviye ölçüm aletleri (şamandıralı ve basınç tipi göstergeler)",
+  "Akış miktarı ölçüm cihazları",
+  "Numune alma kapları ve ekipmanları",
+  "Özgül ağırlık ölçüm aletleri (hidrometre)",
+  "Basit el aletleri (anahtar takımı, pense vb.)",
+  "Kişisel koruyucu donanım (baret, koruyucu gözlük, eldiven, iş elbisesi, gerektiğinde gaz maskesi)",
+  "Haberleşme cihazları (telsiz)",
+  "Kayıt defteri/formlar, kalem"
+ ],
+ "benzer_meslekler": [
+  "Diğer Petrol Rafine İşçileri",
+  "Karıştırıcı (Petrol Rafinesi)",
+  "Kontrolör (Petrol Rafinesi)",
+  "Muamele İşçisi (Petrol Rafinesi)",
+  "İmbik Operatörü (Petrol Rafinesi)",
+  "Petrol ve Ürünleri Elleçleme Operatörü"
+ ],
+ "calisma_alanlari": "Pompacılar (Petrol Rafinesi), başta petrol rafinerileri olmak üzere petrokimya tesislerinde, akaryakıt depolama ve dolum tesislerinde, boru hattı işletme tesislerinde çalışabilirler. İstihdam, ülkemizdeki sınırlı sayıda rafineri ve büyük akaryakıt/petrokimya tesisinin bulunmasına bağlı olarak sınırlıdır; bu tesislerde genellikle işletme içi eğitimle yetiştirilen personel istihdam edilmektedir. Kamuya ait veya özel sektöre ait rafineri ve petrokimya kuruluşları ile bu kuruluşlara bağlı dolum ve depolama tesisleri başlıca iş bulma alanlarıdır.",
+ "calisma_ortami": "Pompacı (Petrol Rafinesi), rafinerilerin pompa istasyonları, tank çiftlikleri ve boru hattı sahalarında, hem açık hava koşullarında hem de kapalı mekânlarda çalışır. Çalışma ortamı gürültülü olabilir, havada petrol/kimyasal koku bulunabilir; yanıcı, parlayıcı ve bazı durumlarda zehirli madde riski taşıyan bir ortamda görev yapılır. Bu nedenle iş sağlığı ve güvenliği kurallarına, kişisel koruyucu donanım kullanımına titizlikle uyulması gerekir.\n\nMesleğini genellikle vardiyalı sistemle, ayakta ve hareketli olarak yürütür; tankların, boru hatlarının ve pompaların bulunduğu geniş sahalarda yürüyerek kontrol ve bakım işleri yapar. Çalışma sırasında mühendisler, teknikerler, diğer operatörler ve bakım personeli ile sürekli iletişim ve koordinasyon içindedir.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimine yönelik örgün bir okul programı bulunmamaktadır. Meslek, genellikle rafineri ve petrokimya işletmelerinde işbaşında usta/deneyimli operatör yanında uygulamalı olarak öğrenilir. Ayrıca Halk Eğitim Merkezleri ile İŞKUR tarafından açılan mesleki eğitim kurslarından da mesleğe yönelik temel bilgi ve beceri kazanılabilir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "Fiziksel olarak sağlıklı ve bedensel engeli bulunmamak (işe giriş sağlık muayenesinden geçmek)",
+   "İşletmelerin belirlediği yaş ve diğer koşulları taşımak"
+  ],
+  "sure_ve_icerik": "Mesleğe giriş için belirli bir eğitim süresi standart olarak tanımlanmamıştır. İşe yeni başlayan kişi, işletme içinde deneyimli bir pompacı veya operatör gözetiminde; pompaların çalıştırılması, valf ve el çarklarının kullanımı, basınç ve seviye göstergelerinin okunması, arıza/sızıntı belirtilerinin fark edilmesi, numune alma ve basit testlerin yapılması gibi konularda uygulamalı olarak yetiştirilir. Petrol rafinerisi faaliyetlerinin tehlikeli iş kolları arasında değerlendirilmesi nedeniyle, işe başlamadan önce ve çalışma süresince iş sağlığı ve güvenliği eğitimleri alınması önemlidir.",
+  "belge": "Örgün bir diploma veya zorunlu meslek belgesi bulunmamaktadır. İşletme içi eğitim sonunda verilen katılım/yeterlilik belgeleri ile Halk Eğitim Merkezi veya İŞKUR kurs bitirme belgeleri mesleğe girişte ve ilerlemede olumlu katkı sağlar. Mesleki Yeterlilik Kurumu (MYK) tarafından ilgili alanda yetkilendirilmiş bir belge bulunması hâlinde bu belge istihdamda tercih sebebi olabilir."
+ },
+ "genel_ozellikler": [
+  "Dikkatli ve tedbirli,",
+  "El ve beden becerisi gelişmiş,",
+  "Fiziksel olarak sağlıklı ve dayanıklı,",
+  "Sorumluluk sahibi,",
+  "Verilen talimat ve prosedürlere uyabilen,",
+  "Renkleri ve göstergeleri doğru ayırt edebilen,",
+  "Vardiyalı ve açık/kapalı sahada çalışmaya uygun,",
+  "Ekip içinde uyumlu çalışabilen"
+ ],
+ "gorevler": [
+  "Pompaları çalıştırıp akış ve basınç durumunu inceleyerek pompalama hızını ayarlar.",
+  "Tankların ve boru hattının valflarını açmak veya kapamak için el çarklarını çevirir.",
+  "Arıza ve sızıntı olup olmadığını anlamak için pompaların çalışmasını inceler.",
+  "Pompa teçhizatının bakım ve tamirini sağlar.",
+  "Ölçü aletleriyle tankların seviyelerini tespit eder.",
+  "İşlem hakkında kayıt tutar; aldığı örnekler üzerinde özgül ağırlık ve renk testleri yapar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğe yönelik örgün bir eğitim kademesi veya dikey geçiş olanağı bulunmamaktadır. Kişi, isteğe bağlı olarak Halk Eğitim Merkezleri ve İŞKUR kurslarıyla bilgi ve becerisini güncelleyebilir; ayrıca açık öğretim yoluyla genel eğitim düzeyini (lise, ön lisans) yükseltebilir.",
+  "is_hayatinda": "Pompacı, işyerinde çalıştığı süre içinde deneyim ve bilgisini artırarak kıdemli pompacı, vardiya sorumlusu, nezaretçi/formen gibi görevlere getirilebilir. Eğitim düzeyini yükseltenler, işletme içi teknik eğitimlerle operatör veya tekniker düzeyindeki görevlere geçiş için aday olabilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Mesleğe giriş için ayrı bir örgün eğitim süreci bulunmadığından, işbaşı eğitim genellikle çalışan statüsüyle birlikte yürütülür; bu dönemde kişi işçi ücreti almaya başlar. Halk Eğitim Merkezleri ve İŞKUR kurslarına katılım sırasında ise herhangi bir ücret söz konusu değildir; bazı İŞKUR kurslarında katılımcılara kursiyer harçlığı ödenebilir.",
+  "egitim_sonrasi": [
+   "Kamu kuruluşlarına bağlı rafinerilerde işçi statüsünde çalışanlar, yürürlükteki toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde çalışanların kazancı işyerinin büyüklüğü, kişinin deneyimi, bilgi ve becerisi ile sektördeki ücret düzeyine göre değişir.",
+   "Mesleğe yeni başlayanların kazancı genellikle asgari ücret düzeyinde olup, deneyim arttıkça yükselme eğilimi gösterir."
+  ]
+ },
+ "ek_bilgiler": "Petrol rafinerilerinde yapılan işler, yanıcı/parlayıcı madde ve basınçlı sistemlerle çalışma riski nedeniyle tehlikeli veya çok tehlikeli işler kapsamında değerlendirilebilmektedir; bu nedenle işe giriş ve çalışma sürecinde periyodik iş sağlığı ve güvenliği eğitimleri ile sağlık muayeneleri önem taşır. Sektördeki istihdam, ülkemizdeki rafineri ve büyük petrokimya tesisi sayısının sınırlı olması nedeniyle görece dardır.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T11:11:26",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5489
+  }
+ }
+}

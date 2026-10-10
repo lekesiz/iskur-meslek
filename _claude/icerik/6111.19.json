@@ -1,0 +1,83 @@
+{
+ "arac_gerec": [
+  "Traktör",
+  "Pulluk",
+  "Mibzer (tohum ekim makinesi)",
+  "Çapa makinesi/kültivatör",
+  "El çapası, kürek, bel gibi el aletleri",
+  "Sulama ekipmanları (salma, yağmurlama veya damla sulama sistemi)",
+  "Gübre ve gübre dağıtma aleti",
+  "Tarım ilaçları (herbisit, insektisit, fungisit) ve ilaçlama pülverizatörü",
+  "Pancar hasat/sökme makinesi",
+  "Yaprak kesme bıçağı/orak",
+  "Yük taşıma aracı (römork, kasa)"
+ ],
+ "genel_ozellikler": [
+  "Açık havada ve zorlu arazi koşullarında çalışmaya istekli,",
+  "Fiziksel olarak güçlü ve dayanıklı,",
+  "El becerisine sahip,",
+  "Toprağı ve bitkiyi seven, tarımsal üretime ilgi duyan,",
+  "Sabırlı ve dikkatli,",
+  "Mevsim ve hava koşullarına uyum sağlayabilen,",
+  "Basit tarım araç ve makinelerini kullanabilen,",
+  "Ekip halinde çalışmaya uyumlu"
+ ],
+ "calisma_ortami": "Şeker Pancarı Yetiştiricisi, çalışmasını büyük ölçüde açık arazide, tarla koşullarında yürütür. Toprak hazırlığı, ekim, çapalama, sulama, ilaçlama ve hasat gibi işler mevsime bağlı olarak değişen yoğunlukta, bazen uzun saatler boyunca ve eğilip kalkmayı gerektiren fiziksel bir efor ile yapılır. Toz, toprak, nem, güneş ve soğuk gibi hava koşullarına, ayrıca tarım ilaçlarına maruziyet riskine açıktır.\n\nÇalışma saatleri mevsimlik iş yoğunluğuna göre değişkenlik gösterir; ekim, bakım ve özellikle hasat dönemlerinde yoğun ve uzun çalışma söz konusu olabilir. Meslek elemanı çalışmalarını genellikle diğer tarım işçileri, aile üyeleri, işletme sahibi veya çiftçi ile birlikte, zaman zaman ziraat mühendisi/teknisyen ya da şeker fabrikası tarım teşkilatı görevlileriyle iş birliği içinde yürütür.",
+ "kazanc": {
+  "egitim_suresince": "Bu meslekte örgün bir mesleki eğitim programı bulunmadığından eğitim sürecine ilişkin resmî bir ücret düzenlemesi yoktur. İşbaşında usta çiftçi yanında öğrenim sürecinde, çalışılan işletmenin imkânlarına göre gündelik veya mevsimlik ücret alınabilir.",
+  "egitim_sonrasi": [
+   "Kendi arazisinde üretim yapan kişinin kazancı; ürettiği ürün miktarına, verime, satış/sözleşme fiyatına ve maliyetlere göre değişir.",
+   "Başka bir işletmede ücretli olarak çalışanlar genellikle mevsimlik/gündelik ücretle veya asgari ücret düzeyinde çalışır.",
+   "Deneyim, işletmenin büyüklüğü, bölgesel koşullar ve verim arttıkça kazanç da artabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğin örgün bir eğitim kademesi bulunmadığından sınavla diploma veya unvan kazanılan bir ilerleme basamağı yoktur. İsteyenler, Tarım ve Orman Bakanlığı'na bağlı kuruluşlar, ziraat odaları, şeker fabrikaları tarım teşkilatları veya Halk Eğitim Merkezleri ve İŞKUR tarafından açılan tarımsal eğitim kurs ve seminerlerine katılarak bilgi ve becerilerini geliştirebilir. Ayrıca, açık öğretim yoluyla genel eğitimini tamamlayarak örgün mesleki ve teknik eğitimin tarım alanına yönelme imkânı bulunur.",
+  "is_hayatinda": "Deneyim kazandıkça usta çiftçi, tarla/ekip sorumlusu veya işletme sorumlusu gibi görevlere ilerleyebilir. Sermaye biriktirenler kendi arazisinde bağımsız üretici olarak çalışabilir, üretimini büyüterek işletmesini genişletebilir veya şeker fabrikalarıyla sözleşmeli üretim yapan çiftçi konumuna geçebilir."
+ },
+ "benzer_meslekler": [
+  "Çiftçi (Tarla Ürünleri)",
+  "Pamuk Yetiştiricisi",
+  "Buğday Yetiştiricisi",
+  "Patates Yetiştiricisi",
+  "Soğan Yetiştiricisi",
+  "Tarla Bitkileri Yetiştiricisi",
+  "Toprak İşleme İşçisi"
+ ],
+ "ek_bilgiler": "Şeker pancarı üretimi, genellikle şeker fabrikalarıyla yapılan sözleşmeli üretim modeline dayandığından, üretim alanı ve miktarı fabrika kotaları ve bölgesel iklim koşullarına bağlı olarak değişebilir. Meslek, genellikle aile işletmeciliği şeklinde ve mevsimlik emek yoğun bir faaliyet olarak sürdürülür.",
+ "gorevler": [
+  "Sonbaharda tarladaki bitki artıklarını pullukla sürerek anız bozar, uygun tarım aleti ile tarlayı düzeltir.",
+  "Elle taban gübresini yapar, uygun tarım aleti ile toprağa karıştırarak toprak hazırlığını yapar.",
+  "Ekimden önce tarlayı taş, kesek ve bitki artıklarından temizler.",
+  "Mibzer ile pancar tohumlarının ekim derinliğini ve sıra aralarını göz önünde bulundurarak ekimini yapar.",
+  "Pancar tohumları topraktan çıkınca yabancı ot temizliği için ilk çapalamayı yapar.",
+  "Toprağın havalandırılması için birkaç kez çapalama işlemini yapar.",
+  "Bitkiler uygun büyüklüğe gelince seyreltme işlemini yapar.",
+  "Hastalık ve zararlılara karşı uygun ilaç ve zamanında ilaçlama yaparak mücadele eder.",
+  "Pancarın çıkış, gelişme ve hasat öncesi dönemlerde bitkideki gelişmeyi göz önünde bulundurarak gerekli sayıda sulamasını yapar.",
+  "Pancar köklerinin sökülmesi, temizlenmesi ve yapraklarının kesilmesi işlemlerini elle veya makine ile yaparak ürünü hasat eder.",
+  "Sökülen pancarı özelliğini kaybetmeden korumak için yığınlama yapar.",
+  "Kullanılan makine, araç, gereç ve ekipmanların bakımını yapar.",
+  "İş sağlığı ve güvenliği ile ilgili kurallara uyar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Şeker Pancarı Yetiştiriciliği için örgün bir mesleki eğitim merkezi programı (çıraklık/kalfalık/ustalık eğitimi) bulunmamaktadır. Meslek, genellikle ailede veya tarlada usta çiftçi yanında uygulamalı olarak, kuşaktan kuşağa aktarılarak öğrenilir. Bunun yanında Tarım ve Orman Bakanlığı'na bağlı kuruluşlar, ziraat odaları, şeker fabrikalarının tarım teşkilatları, Halk Eğitim Merkezleri ve İŞKUR tarafından açılan kısa süreli tarımsal eğitim kurs ve seminerleri de bilgi ve beceri kazandırmaktadır.",
+  "giris_kosullari": [
+   "Örgün bir eğitim şartı aranmaz; okuma yazma bilmek yeterli olabilir.",
+   "Tarım işlerini yürütebilecek fiziksel sağlık durumuna sahip olmak gerekir.",
+   "Çalışma hayatına ilişkin yasal asgari çalışma yaşının üzerinde olmak gerekir."
+  ],
+  "sure_ve_icerik": "Mesleğe ilişkin belirli bir süreye bağlanmış resmî/örgün bir eğitim programı bulunmamaktadır. Bilgi ve beceriler; toprak hazırlığı, ekim, çapalama, sulama, ilaçlama ve hasat gibi mevsimlik iş akışı içinde, usta çiftçi veya aile büyükleri gözetiminde uygulamalı olarak zaman içinde kazanılır. Kamu kurumları, şeker fabrikaları veya tarım kuruluşlarınca düzenlenen kısa süreli (gün/hafta ölçeğinde) kurs ve seminerler ile bu bilgiler desteklenebilir.",
+  "belge": "Örgün eğitim sonunda verilen resmî bir diploma veya mesleki yeterlilik belgesi bulunmamaktadır. Katılınan kısa süreli kurs ve seminerler sonunda katılım/başarı belgesi verilebilir."
+ },
+ "calisma_alanlari": "Şeker Pancarı Yetiştiricisi, kendi mülkü olan veya kiraladığı tarım arazilerinde bağımsız çiftçi olarak çalışabileceği gibi, büyük tarım işletmelerinde, çiftliklerde ve şeker fabrikalarıyla sözleşmeli üretim yapan tarlalarda mevsimlik veya sürekli tarım işçisi olarak da istihdam edilebilir. Ayrıca tarımsal üretim kooperatifleri ve ortaklıklarına bağlı arazilerde de çalışma imkânı bulunmaktadır.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T20:10:40",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 7149
+  }
+ }
+}

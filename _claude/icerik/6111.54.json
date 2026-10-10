@@ -1,0 +1,91 @@
+{
+ "arac_gerec": [
+  "Sera örtü malzemeleri (plastik, naylon veya cam)",
+  "Damla sulama sistemleri ve sulama boruları",
+  "Sera ısıtma ve havalandırma sistemleri",
+  "Fide kasaları, viyoller ve yetiştirme tepsileri",
+  "Torf, perlit gibi yetiştirme ortamı malzemeleri",
+  "Tohum ve fide",
+  "Kimyasal ve organik gübreler",
+  "Bitki koruma ürünleri (ilaç) ve pülverizatör",
+  "Bahçe çapası, bel, mala, budama makası gibi el aletleri",
+  "Destek çubukları, askı ipi ve file (domates, biber, hıyar gibi sarılıcı bitkiler için)",
+  "Sıcaklık ve nem ölçüm cihazları",
+  "Hasat ve taşıma kasaları",
+  "Elek ve sınıflandırma ekipmanları",
+  "Kişisel koruyucu donanım (eldiven, maske, çizme)"
+ ],
+ "genel_ozellikler": [
+  "Toprağı ve bitkiyi seven, bitkisel üretime ilgi duyan,",
+  "Dikkatli ve gözlemci,",
+  "Sabırlı ve düzenli çalışabilen,",
+  "El becerisine sahip,",
+  "Fiziksel olarak dayanıklı,",
+  "Sorumluluk sahibi,",
+  "Değişen hava ve sera koşullarına uyum sağlayabilen,",
+  "Ekip halinde çalışmaya istekli"
+ ],
+ "calisma_ortami": "Örtü Altı Sebze Yetiştiricisi, genellikle plastik veya cam örtülü seralarda, bazı dönemlerde ise açık alanda fide ve tohum hazırlama işlerinde çalışır. Sera içi ortam yüksek nem ve sıcaklık, bazı dönemlerde ise ani sıcaklık düşüşleri gibi özellikler taşıyabilir; çalışma sırasında uzun süre eğilerek, çömelerek veya ayakta kalarak iş yapmak gerekebilir. Gübreleme ve ilaçlama gibi işlemler sırasında kimyasal maddelerle temas riski bulunduğundan koruyucu ekipman kullanımı önemlidir.\n\nÇalışma saatleri, bitkinin gelişim dönemine, hasat zamanına ve mevsime göre değişebilir; hasat döneminde çalışma yoğunluğu artabilir. Meslek elemanı; işletme sahibi veya yöneticisi, diğer tarım işçileri, ziraat mühendisi veya teknikeri ve ürünü satın alan toptancı/pazarlamacılarla iş birliği içinde çalışır.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimine yönelik resmi olarak tanımlanmış, örgün bir meslek lisesi veya mesleki eğitim merkezi programı bulunmamaktadır. Meslekle ilgili temel bilgi ve beceriler genellikle işbaşında usta yanında yetişme yoluyla, Halk Eğitim Merkezlerinin ve İŞKUR'un açtığı tarım/seracılık konulu kurslarla, tarım il/ilçe müdürlüklerinin düzenlediği eğitimlerle ya da tarım meslek liselerinin ve ilgili mesleki ve teknik eğitim programlarının kapsadığı bahçe bitkileri/seracılık konularıyla kazanılmaktadır.",
+  "giris_kosullari": [
+   "Mesleğin gerektirdiği minimum eğitim düzeyi ilköğretimdir.",
+   "Açılan kurslara katılabilmek için genellikle okuryazar veya ilköğretim mezunu olmak yeterlidir.",
+   "Açık alan ve sera koşullarında çalışmaya uygun bedensel ve sağlık durumuna sahip olmak gerekir.",
+   "İşbaşında yetişme yoluyla meslek öğrenmek isteyenler için bir sera işletmesinde çalışma imkânı bulmak önemlidir."
+  ],
+  "sure_ve_icerik": "Resmi ve standart bir eğitim süresi bulunmamaktadır. Kurs yoluyla edinilen eğitimler genellikle kısa süreli (birkaç hafta ile birkaç ay arası) olup; toprak hazırlığı, tohum ve fide üretimi, sulama, gübreleme, hastalık ve zararlılarla mücadele, sera iklimlendirmesi ve ürün hasadı gibi konuları kapsar. İşbaşında yetişme durumunda ise bilgi ve beceri, uygulamalı olarak ve mevsim döngüsü içinde zaman alarak kazanılır.",
+  "belge": "Katılınan kurslar sonunda kurum tarafından verilen katılım belgesi veya sertifika alınabilir. Resmi bir diploma veya yasal zorunlu belge bulunmamaktadır; Mesleki Yeterlilik Kurumu (MYK) belgesi edinilmesi durumunda bu belge istihdamda tercih sebebi olabilir."
+ },
+ "gorevler": [
+  "İşletmenin genel çalışma prensipleri doğrultusunda, araç, gereç ve ekipmanları etkin bir şekilde kullanarak, işçi sağlığı, iş güvenliği ve çevre koruma düzenlemelerine uygun olarak sebze yetiştirir.",
+  "Tohumla üretim yapar.",
+  "Fide yetiştirir.",
+  "Ekim dikim yerlerini hazırlar.",
+  "Kültürel işlemleri yapar.",
+  "Gübreleme yapar.",
+  "Sulama yapar.",
+  "Bitkilerde görülen hastalıkları inceler.",
+  "Bitkilerde görülen zararlıları inceler.",
+  "Hastalık, zararlılar ve yabancı otlarla mücadele yapar.",
+  "Domates yetiştirir.",
+  "Biber yetiştirir.",
+  "Patlıcan yetiştirir.",
+  "Hıyar yetiştirir.",
+  "Kavun yetiştirir.",
+  "Sebzelerde tohum üretimi yapar.",
+  "Pazarlama organizasyonu yapar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "calisma_alanlari": "Örtü Altı Sebze Yetiştiricisi; başta Akdeniz ve Ege bölgeleri olmak üzere seracılığın yoğun yapıldığı bölgelerdeki özel sera işletmelerinde, tarımsal üretim kooperatiflerinde, tohumculuk ve fide üretimi yapan firmalarda, tarım kredi kooperatiflerine bağlı işletmelerde ve büyük ölçekli sebze üretim tesislerinde çalışabilir. Ayrıca kendi sera işletmesini kurarak bağımsız olarak üretim ve pazarlama faaliyetinde bulunabilir. Tarım ve Orman Bakanlığı'na bağlı kuruluşlarda ve tarımsal araştırma kurumlarında yardımcı personel olarak görev alma imkânı da bulunmaktadır.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğe yönelik resmi bir çıraklık eğitimi programı bulunmadığından, mesleğin öğrenilmesi aşamasında standart bir ücretlendirme söz konusu değildir. Halk Eğitim Merkezleri veya İŞKUR'un açtığı kurslara katılanlar genellikle ücret ödemez; işbaşında bir işletmede çalışarak öğrenenler ise işveren ile yapılan anlaşmaya göre ücret alabilir.",
+  "egitim_sonrasi": [
+   "İşe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç elde eder.",
+   "Deneyim, işletmenin büyüklüğü, çalışılan bölge ve üretilen ürünün pazar değerine göre kazanç artabilir.",
+   "Kendi sera işletmesini kuranların kazancı, üretim miktarı, ürün kalitesi ve pazarlama becerisine bağlı olarak değişkenlik gösterir.",
+   "Kamu kurumlarında işçi statüsünde istihdam edilenler, tabi oldukları toplu iş sözleşmesi hükümlerine göre ücret alır."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğe yönelik örgün bir eğitim kademesi bulunmadığından standart bir ilerleme basamağı tanımlanmamıştır. Meslekle ilgilenenler, tarım meslek liselerinin bahçe bitkileri/seracılık içerikli programlarını, mesleki ve teknik eğitim programlarını ya da yükseköğretimde bahçe bitkileri, bitkisel üretim ve teknolojileri gibi ön lisans/lisans programlarını tercih ederek bilgi ve becerilerini geliştirebilir.",
+  "is_hayatinda": "Tecrübe kazandıkça meslek elemanı, sera işletmelerinde usta işçi, sorumlu işçi veya işletme yöneticisi gibi pozisyonlara yükselebilir. Yeterli birikim ve sermayeye sahip olanlar kendi sera işletmelerini kurarak işveren konumuna geçebilir. Ayrıca ilgili kurs ve sertifika programlarına katılarak organik tarım, iyi tarım uygulamaları gibi alanlarda uzmanlaşma imkânı bulunmaktadır."
+ },
+ "benzer_meslekler": [
+  "Sebze Yetiştiricisi",
+  "Örtü Altı Domates Yetiştiricisi",
+  "Domates Yetiştiricisi",
+  "Biber Yetiştiricisi",
+  "Patlıcan Yetiştiricisi",
+  "Fide Yetiştiricisi"
+ ],
+ "ek_bilgiler": "Örtü altı sebze yetiştiriciliği, ülkemizde özellikle Akdeniz ve Ege bölgelerinde yoğunlaşan, iklim koşullarından nispeten bağımsız üretim yapılmasına imkân veren bir tarım dalıdır. Isıtma, aydınlatma ve sulama sistemlerine yapılan yatırımlar işletme maliyetlerini ve dolayısıyla kazancı etkileyebilir. Sektördeki talep, iç pazarın yanı sıra ihracata yönelik üretimle de ilişkilidir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T20:33:25",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6251
+  }
+ }
+}

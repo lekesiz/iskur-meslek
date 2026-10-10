@@ -1,0 +1,80 @@
+{
+ "arac_gerec": [
+  "Zincirli halka ve kancalar",
+  "Hayvan kaldırma vinci",
+  "Ray/monoray taşıma sistemi",
+  "Kelle arabası",
+  "Damgalama ve mühür aletleri",
+  "Kantar ve tartı etiketleme malzemeleri",
+  "Karkas yıkama hortumu ve basınçlı su sistemi",
+  "Sakatat taşıma kapları ve arabaları",
+  "Dinlendirme deposu rafları/askıları",
+  "Koruyucu iş kıyafeti (önlük, eldiven, çizme, baret)",
+  "Temizlik ve dezenfeksiyon malzemeleri"
+ ],
+ "genel_ozellikler": [
+  "Fiziksel olarak dayanıklı ve güçlü,",
+  "Kan, et ve kesim ortamına karşı tiksinti duymayan,",
+  "Herhangi bir bulaşıcı hastalığı olmayan,",
+  "Dikkatli ve tedbirli,",
+  "Ekip halinde çalışmaya uyumlu,",
+  "Kişisel temizlik ve hijyen kurallarına uyan,",
+  "El ve göz koordinasyonu gelişmiş,",
+  "Soğuk ve nemli ortamda çalışmaya uygun sağlık durumuna sahip,"
+ ],
+ "gorevler": [
+  "Kesimhaneye alınan hayvanın arka ayak bileğine zincirli halkayı geçirir, diğer ucunu kaldırma vincine takar.",
+  "Ray üzerindeki hayvanı, kesim yapacak kasaba doğru itekleyerek götürür.",
+  "Kesilen hayvanın boynuzlarını keser ve kelle arabasına asar.",
+  "Ön kolları yüzülmüş gövdeyi kasaplara doğru ray üzerinde hareket ettirerek yüzülmesine yardımcı olur.",
+  "Muayenesi tamamlanmış karkaslara damga vurur.",
+  "Sıcak tartı kantarına taşıdığı karkasa kantar etiketini yapıştırır.",
+  "Karkasları yıkar ve dinlendirme deposuna götürür.",
+  "Sakatatları sakatat deposuna götürür.",
+  "Kesimhanenin temizliğine yardım eder.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "calisma_ortami": "Kesimhane işçisi, mezbaha/kesimhane içinde kapalı ortamda çalışır. Çalışma ortamı soğuk, nemli ve genellikle kaygan zeminlidir; kan, et ve dezenfektan kokuları hakimdir. Ağır karkasların taşınması, hayvanların ray üzerinde hareket ettirilmesi ve kaldırma vinci ile çalışma nedeniyle fiziksel güç gerektirir; kesici aletlerin ve kayganlığın bulunduğu bu ortamda yaralanma ve kayma riski vardır.\\n\\nİşçi, günün büyük bölümünde ayakta ve hareketli çalışır; vardiyalı çalışma düzeni görülebilir. Çalışma sırasında kasaplar, veteriner hekim/kontrol personeli ve diğer kesimhane çalışanlarıyla sürekli iş birliği içindedir. İş sağlığı ve güvenliği kurallarına, hijyen ve temizlik düzenlemelerine titizlikle uyulması gerekir.",
+ "egitim": {
+  "verildigi_yerler": "Bu meslek için örgün biçimde ayrı, standart bir mesleki eğitim merkezi programı bulunmamaktadır. Meslek genellikle kesimhane/mezbaha işletmelerinde işbaşında, deneyimli işçi veya usta gözetiminde öğrenilir. Halk Eğitim Merkezleri ile İŞKUR'un açtığı kısa süreli mesleki eğitim kursları ve ilgili olabilecek kasaplık alanındaki mesleki eğitim programları, mesleğe temel bilgi ve beceri kazandırabilir.",
+  "giris_kosullari": [
+   "İlköğretim mezunu olmak (mesleğin gerektirdiği minimum eğitim düzeyi)",
+   "Sağlık durumunun ağır fiziksel işe ve kesimhane ortamına uygun olması; gerektiğinde sağlık raporuyla belgelenmesi",
+   "Bulaşıcı hastalığı olmaması",
+   "Kan, et ve kesim ortamına karşı aşırı tiksinti/alerji durumu bulunmaması"
+  ],
+  "sure_ve_icerik": "Mesleğin resmi/standart bir eğitim süresi ve müfredatı tanımlı değildir. İlgi duyanlar, kısa süreli kurslarda genel hijyen, gıda güvenliği ve kesimhane çalışma esaslarına ilişkin temel bilgileri aldıktan sonra, işyerinde deneyimli işçilerin gözetiminde pratik olarak mesleği öğrenirler.",
+  "belge": "Katılınan kurslardan kurs katılım/bitirme belgesi alınabilir; ayrı bir diploma veya kalfalık-ustalık belgesi düzenlenmemektedir."
+ },
+ "calisma_alanlari": "Kesimhane işçisi, kamuya veya özel sektöre ait mezbahalarda/kesimhanelerde, et entegre tesislerinde, büyükbaş ve küçükbaş hayvan kesim tesislerinde ve belediyelere bağlı hayvan kesim yerlerinde çalışabilir.",
+ "kazanc": {
+  "egitim_suresince": "Örgün bir çıraklık eğitimi bulunmadığından eğitim süresince ayrı bir ücret düzenlemesi yoktur. Kısa süreli kurslara katılanlar genellikle ücretsiz eğitim alır; işbaşında öğrenenler ise çalıştıkları işletmeden ücret alarak öğrenir.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarına bağlı kesimhanelerde işçi statüsünde çalışanların ücreti ilgili toplu iş sözleşmesi hükümlerine göre belirlenir.",
+   "Özel sektörde çalışanların kazancı işyerinin büyüklüğü, bölge ve deneyime göre değişir; işe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Deneyim kazandıkça ve sorumluluk üstlendikçe ücret artabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Bu meslekte standart bir ilerleme basamağı (kalfalık/ustalık) tanımlı değildir. İlgi duyanlar, Halk Eğitim Merkezleri ile İŞKUR'un açtığı kurslara katılarak veya kasaplık alanındaki mesleki eğitim programlarına yönelerek bilgi ve becerilerini geliştirebilir.",
+  "is_hayatinda": "Deneyim kazandıkça kesim, yüzüm ve parçalama gibi daha nitelikli işlere yönelerek kasap veya vasıflı et işleme elemanı olarak çalışabilir; kesimhanede ekip sorumluluğu üstlenebilir."
+ },
+ "benzer_meslekler": [
+  "Mezbaha Kesim İşçisi",
+  "Kasap",
+  "Kasap (Et Hazırlayıcı)",
+  "Et Kesimcisi",
+  "Diğer Kasaplar ve Et Hazırlama İşçileri",
+  "Et Temizleyicisi-Sıyırıcısı",
+  "Padok Kahyası-Mezbaha"
+ ],
+ "ek_bilgiler": "Kesimhane ortamı fiziksel olarak ağır ve riskli olduğundan iş sağlığı ve güvenliği önlemlerine (koruyucu ekipman kullanımı, kişisel hijyen, kayma ve yaralanmaya karşı dikkat) titizlikle uyulması önemlidir. Mesleğe özgü zorunlu bir Mesleki Yeterlilik Belgesi düzenlemesi bulunup bulunmadığına ilişkin kesin bilgi yoktur; ancak gıda ve et sektöründe alınacak Mesleki Yeterlilik Kurumu (MYK) belgeleri istihdamda tercih sebebi olabilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T06:51:49",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5914
+  }
+ }
+}

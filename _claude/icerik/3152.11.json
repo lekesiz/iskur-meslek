@@ -1,0 +1,83 @@
+{
+ "arac_gerec": [
+  "Bot (deniz motoru/küçük tekne)",
+  "Dümen ve motor kumanda sistemleri",
+  "Telsiz haberleşme cihazları",
+  "Telefon ve faks cihazı",
+  "GPS ve elektronik seyir cihazları",
+  "Manyetik pusula",
+  "Güverte jurnali ve telsiz jurnali (kayıt defterleri)",
+  "Can kurtarma yelekleri ve can kurtarma botları/halkaları",
+  "İlk yardım malzemeleri",
+  "Yangın söndürme ekipmanları",
+  "Bağlama halatları ve usturmaçalar",
+  "Fener ve işaret/sinyal cihazları",
+  "Meteorolojik bilgi takip cihazları",
+  "Dürbün"
+ ],
+ "genel_ozellikler": [
+  "Açık denizde ve zorlu hava koşullarında çalışmaktan çekinmeyen,",
+  "Dikkatli, tedbirli ve sorumluluk sahibi,",
+  "Ani ve beklenmedik durumlarda hızlı ve doğru karar verebilen,",
+  "Fiziksel olarak sağlıklı ve dayanıklı,",
+  "Astlarını sevk ve idare edebilen, liderlik özelliklerine sahip,",
+  "Takım çalışmasına uyumlu,",
+  "Kriz anlarında soğukkanlı kalabilen,",
+  "İşitme ve görme duyuları güçlü"
+ ],
+ "calisma_ortami": "Bot Kaptanı, görevini açık denizde, limanlarda ve bağlı bulunduğu bot istasyonunda yürütür. Çalışma ortamı büyük ölçüde açık alandır; rüzgâr, dalga, soğuk, sıcak ve yağış gibi hava koşullarına doğrudan maruz kalınır. Can kurtarma, hasar kontrolü veya acil ihbarlara müdahale gibi görevler nedeniyle zaman zaman riskli ve stresli koşullarda, hızlı müdahale gerektiren biçimde çalışılır.\n\nÇalışma saatleri genellikle vardiya ve nöbet sistemine dayanır; gece, gündüz, hafta sonu ve resmî tatillerde görev yapılabilir. Görev sırasında botta çalışan personel, istasyon amiri ve diğer yetkililer, olay yeri koordinatörleri, Sahil Güvenlik/liman başkanlığı gibi ilgili kurum temsilcileri ve gerektiğinde yardım talep eden kişilerle sürekli iletişim halinde bulunulur.",
+ "egitim": {
+  "verildigi_yerler": "Bot Kaptanlığı için standart, örgün bir okul veya bölüm bulunmamaktadır. Mesleğe yönelik bilgi ve beceriler, Ulaştırma ve Altyapı Bakanlığına bağlı yetkili denizcilik eğitim kurumlarının ve Gemiadamları Eğitim ve Sınav Merkezlerinin düzenlediği seyir, can kurtarma, yangınla mücadele, ilk yardım ve telsiz haberleşme kurslarıyla; ayrıca görev yapılan kurumda (Sahil Güvenlik, liman işletmeleri, belediyeler vb.) işbaşında usta yanında yetişme yoluyla kazanılır.",
+  "giris_kosullari": [
+   "Lise veya dengi okul mezunu olmak",
+   "Gemiadamları Yönetmeliği kapsamında istenen sağlık ve diğer şartları taşımak",
+   "Görev alınacak kurumun açtığı sınav, mülakat veya değerlendirme sürecinde başarılı olmak"
+  ],
+  "sure_ve_icerik": "Mesleğe giriş için belirli bir süre ve müfredatı olan ortak bir eğitim programı bulunmamaktadır. Yetkili kurumlarca verilen kurslarda temel seyir bilgisi, can kurtarma teknikleri, yangınla mücadele, ilk yardım, telsiz ve haberleşme kuralları, güverte jurnali tutma gibi konular öğretilir. Bunun yanında ilgili kurumda deniz hizmeti ve işbaşı uygulamalarla deneyim kazanılması gerekir.",
+  "belge": "Gemiadamı cüzdanı ve çalışılan kurumun/mevzuatın öngördüğü kaptanlık yeterlilik belgesi (örneğin sınırlı kaptanlık yeterliği) ile görev yapılan kurum tarafından verilen görevlendirme belgesi aranır."
+ },
+ "calisma_alanlari": "Bot Kaptanları başta Sahil Güvenlik Komutanlığı olmak üzere, liman başkanlıkları ve liman işletmeleri, belediyelerin deniz hizmetleri/can kurtarma birimleri, özel denizcilik ve lojistik şirketleri ile karaya bağlantısı olmayan fenerlere ve tesislere servis sağlayan kamu ve özel kuruluşlarda istihdam edilmektedir. Deniz kıyısına sahip bölgelerde, özellikle liman kentlerinde iş bulma olanağı diğer bölgelere göre daha fazladır.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğe hazırlık işbaşında veya kurslarla yürütüldüğünden, bu süreçte kurumun statüsüne göre stajyerlik ödeneği alınabileceği gibi, doğrudan göreve başlayanlar genellikle asgari ücret düzeyinde bir gelirle çalışmaya başlar.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında (Sahil Güvenlik, belediye vb.) memur statüsünde çalışanlar 657 sayılı Devlet Memurları Kanunu'na, işçi statüsünde çalışanlar ise toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde çalışanların kazancı işyerinin büyüklüğü, kişinin deneyimi, bilgi ve becerisi ile sektörün genel ücret düzeyine göre değişebilmektedir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Bot Kaptanları, Gemiadamları Yönetmeliği kapsamında ilave deniz hizmeti süresi ve kurslar tamamlayarak daha üst düzey kaptanlık/zabitlik yeterlilik belgelerine yönelik sınavlara girebilir ve yeterliliklerini artırabilirler.",
+  "is_hayatinda": "Deneyim ve kıdem kazandıkça bot istasyonu şefliği, bot filosu sorumluluğu, saha/olay yeri koordinatörlüğü gibi daha üst düzey görev ve sorumluluklara yükselebilirler."
+ },
+ "benzer_meslekler": [
+  "Dok Kaptanı",
+  "Romorkör Kaptanı",
+  "Yat Kaptanı",
+  "Sınırlı Kaptan",
+  "İç Su Aracı Sürücüsü",
+  "Feribot Kaptanı"
+ ],
+ "ek_bilgiler": "Bot Kaptanlığı çoğunlukla Sahil Güvenlik Komutanlığı, liman başkanlıkları ve belediyelerin deniz hizmetleri birimleri gibi kamu kurumlarında icra edilen bir görevdir. Göreve başlamak için Gemiadamları Yönetmeliği kapsamında aranan sağlık, yaş ve denizcilik sicili gibi şartların yanı sıra ilgili yeterlilik belgelerine sahip olmak gerekebilir.",
+ "gorevler": [
+  "Botta çalışan personeli sevk ve idare eder.",
+  "Gemiye ait bütün telsiz, telefon ve faks haberleşmesini (gemide bulunan 3. şahıslar ve personelin özel görüşmeleri hariç) kontrol eder ve onay verir.",
+  "Güverte jurnali ve telsiz jurnalinin düzenli ve doğru bir şekilde tutulmasını sağlar.",
+  "Güverte jurnalini günü gününe kontrol eder ve onaylar.",
+  "Geminin sefer hesaplarını kontrol eder, onaylar, hesapların düzenli tutulmasını sağlar.",
+  "Geminin herhangi bir kazaya karışması ve hasar durumunda hasar kontrolü yapar, en kısa sürede durumu ilgili kuruluşa bildirir, olay ile ilgili tutanak hazırlatır.",
+  "Can kurtarma hizmeti için alınan ihbarlarda derhal hareket eder ve durumu ilk amirine bildirir.",
+  "Bot ve istasyon nöbet hizmetlerinin, telsiz ve telefon dinlenmesinin eksiksiz yapılmasını sağlar.",
+  "Vukuatlarda olay yeri koordinatörü ile uyum içinde çalışır, gerektiğinde olay yeri koordinatörlüğü yapar.",
+  "Bot ve bağlı bulunduğu istasyonun elektrik, su, telefon-faks gibi sarfiyatların en aza indirilmesi için gerekli tedbirleri alır.",
+  "Bot ve istasyonun tesisat, cihaz, bina, tesis ve demirbaşlarının korunmasını sağlar.",
+  "Belirlenmiş bölgelerde malzeme ve personel servisi için botları hazır bulundurur.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T11:51:30",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6495
+  }
+ }
+}

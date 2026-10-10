@@ -1,0 +1,88 @@
+{
+ "arac_gerec": [
+  "Kamyon, kamyonet gibi yük taşıma araçları",
+  "Sürücü belgesi (C, C1, CE sınıfı ehliyet)",
+  "SRC (Sürücü Mesleki Yeterlilik) belgesi",
+  "Takograf cihazı",
+  "Branda, halat ve germe kayışları",
+  "Zincir (kar/buz şartlarına karşı)",
+  "Yükleme-bağlama ekipmanları (palet, kanca, germe aparatı)",
+  "Kriko, yedek lastik ve basit tamir takımı",
+  "İlk yardım çantası ve yangın söndürme tüpü",
+  "GPS/navigasyon cihazı",
+  "Taşıma irsaliyesi, sevk irsaliyesi ve gümrük evrakları",
+  "Telsiz veya cep telefonu"
+ ],
+ "genel_ozellikler": [
+  "Sorumluluk sahibi ve dikkatli,",
+  "Bedensel olarak sağlıklı ve dayanıklı,",
+  "Göz-el-ayak koordinasyonu iyi, refleksleri hızlı,",
+  "Uzun süre araç kullanmaya ve yorgunluğa dayanıklı,",
+  "Yön bulma ve mekânsal algısı gelişmiş,",
+  "Trafik kurallarına saygılı, sabırlı ve soğukkanlı,",
+  "Gerektiğinde bağımsız çalışabilen, kararlı,",
+  "Zamanı ve güzergâhı planlayabilen"
+ ],
+ "calisma_ortami": "Şoför (Yük Taşıma), görevini büyük ölçüde araç içinde, şehir içi, şehirlerarası veya uluslararası yollarda gerçekleştirir. Çalışma süresi genellikle uzun ve değişkendir; gece çalışması, vardiyalı çalışma, hafta sonu çalışması ve uzun süreli seferler nedeniyle evden uzak kalma söz konusu olabilir. Yükleme-boşaltma noktalarında fiziksel efor gerektiren işler de yapabilir; sıcak, soğuk, yağmurlu veya karlı hava şartlarında çalışmak zorunda kalabilir.\n\nMeslek, kaza, arıza ve yol riskleri açısından dikkat ve tedbir gerektirir. Çalışma sırasında işveren, yük sahipleri, depo ve gümrük görevlileri, trafik denetim görevlileri ve diğer sürücülerle iletişim kurar. Uzun mesafe taşımacılıkta sürücünün uzun süre direksiyon başında kalması ve dinlenme süreleriyle ilgili mevzuata uyması gerekir.",
+ "egitim": {
+  "verildigi_yerler": "Bu meslek için örgün bir okul programı bulunmamaktadır. Mesleğe giriş için gerekli olan sürücü belgesi (ehliyet), sürücü kurslarında; ticari yük taşımacılığı için gerekli SRC (Sürücü Mesleki Yeterlilik) belgesi ise Milli Eğitim Bakanlığına bağlı kurumlar veya yetkilendirilmiş SRC eğitim merkezlerinde verilmektedir. Ayrıca mesleki ve teknik eğitimde motorlu araçlar teknolojisi alanındaki programlar bu mesleğe temel oluşturabilir. Deneyim ise genellikle usta-çırak ilişkisi içinde, deneyimli şoförlerin yanında muavin/yardımcı olarak çalışılarak kazanılır.",
+  "giris_kosullari": [
+   "Kullanılacak araç sınıfına uygun yaşta olmak (C sınıfı için 18 yaş ve üzeri, CE gibi üst sınıflarda ilgili mevzuatta belirtilen ek yaş ve kıdem koşulları)",
+   "Sağlık muayenesinden geçerek araç kullanmaya engel bir durumu bulunmadığını belgelemek",
+   "En az ilkokul mezunu olmak, okuma yazma bilmek",
+   "Trafik kurallarına ve ilk yardım konularına ilişkin temel bilgiye sahip olmak"
+  ],
+  "sure_ve_icerik": "Sürücü belgesi almak için sürücü kurslarında teorik dersler (trafik, motor bilgisi, ilk yardım, trafik adabı) ve direksiyon eğitimi verilir; süre ehliyet sınıfına göre değişir. Ticari araçla yük taşımacılığı yapacaklar için ayrıca SRC eğitiminde trafik ve iş güvenliği kuralları, yük taşımacılığı mevzuatı, taşıma belgeleri, araç bakımı ve çevre bilgisi gibi konular işlenir. Bu eğitimlerin ardından sınava girilir. Mesleğin uygulamalı inceliklerinin çoğu, iş başında deneyimli şoförlerin yanında çalışılarak öğrenilir.",
+  "belge": "Sürücü belgesi (ehliyet, C/C1/CE sınıfı), SRC belgesi, kurs/sınav sonunda verilen ilgili yeterlilik belgeleri."
+ },
+ "calisma_alanlari": "Şoför (Yük Taşıma), kara yolu ile yük taşımacılığı yapan özel nakliye ve lojistik firmalarında, kargo ve dağıtım şirketlerinde, inşaat, gıda, tekstil, otomotiv gibi üretim ve ticaret sektörlerinin kendi nakliye birimlerinde, kamu kurum ve kuruluşlarının (belediyeler, kamu kuruluşlarının lojistik birimleri vb.) nakliye hizmetlerinde çalışabilir. Ayrıca kendi aracının sahibi olarak bağımsız şekilde (serbest çalışan) yük taşımacılığı yapanlar da bulunmaktadır. Şehir içi, şehirlerarası ve uluslararası (TIR ile) taşımacılık alanlarında iş bulma imkanı vardır.",
+ "gorevler": [
+  "Aracın trafik muayenesinin, motorlu taşıtlar vergisi ve sigorta işlemlerinin yapılmasını sağlar.",
+  "Araca uygun yük (iş) bulur.",
+  "Yükün dağıtım planlamasını yapar.",
+  "Otoyol ile ilgili evrakı düzenler.",
+  "Motorlu yük taşıma araçlarının bakımını yapar.",
+  "Motorlu yük taşıma araçlarını sefere (yola) hazırlar.",
+  "Yükü ve yükleme belgelerini teslim alır.",
+  "Yükleme ve boşaltma sırasında malı kontrol eder.",
+  "Tonaj ve gabari kontrolü yapar.",
+  "Branda çeker.",
+  "Taşıma belgelerini düzenler.",
+  "Yükün boşaltılmasını sağlar.",
+  "Yükün cinsine göre zaman planlaması yapar.",
+  "Kaza ve arıza durumunda yükün naklini sağlar.",
+  "Zincir takar.",
+  "Uluslararası taşımacılıkta gümrük işlemlerini yaptırır.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "kazanc": {
+  "egitim_suresince": "Bu meslek için örgün ve ücretli bir eğitim süreci bulunmamaktadır; ehliyet ve SRC belgesi edinme sürecinde kursiyer herhangi bir kazanç elde etmez, bu kursların ücretleri genellikle kursiyer tarafından karşılanır. Usta yanında muavin olarak çalışanlar ise bu dönemde genellikle sınırlı bir ücret alır.",
+  "egitim_sonrasi": [
+   "Özel sektörde yeni işe başlayan şoförler genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Deneyim, kullanılan araç tipi (kamyon, tır, özel ekipmanlı araç), uluslararası sefer yapma durumu ve çalışılan işletmenin büyüklüğüne göre kazanç değişebilir.",
+   "Kamu kurumlarında işçi statüsünde çalışanların ücreti toplu iş sözleşmesi hükümlerine göre belirlenir.",
+   "Kendi aracı ile bağımsız çalışanların kazancı yük hacmi, sefer sıklığı ve işletme giderlerine göre değişkenlik gösterir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Deneyim kazandıkça daha büyük tonajlı veya özel ekipmanlı araçları (tanker, frigorifik araç, ağır nakliye aracı vb.) kullanabilmek için ek sürücü belgeleri ve mesleki eğitimler alınabilir.",
+  "is_hayatinda": "Deneyimli şoförler, filo sorumluluğu, nakliye/lojistik koordinatörlüğü veya sürücü eğitmenliği gibi görevlere yükselebilir; isteyenler kendi nakliye işletmesini kurarak işveren konumuna geçebilir."
+ },
+ "benzer_meslekler": [
+  "Tır-Çekici Şoförü",
+  "Kamyon Şoförü",
+  "Tır/Kamyon Muavini",
+  "Oto Kurtarıcı-Çekici Araç Şoförü",
+  "Kara Tankeri Operatörü (Tehlikeli Madde Taşımacılığı)",
+  "Silobas Operatörü"
+ ],
+ "ek_bilgiler": "Ticari amaçla kara yolu yük taşımacılığı yapacak sürücülerin SRC belgesine sahip olmaları ve kullandıkları araçların periyodik muayenelerini düzenli olarak yaptırmaları mevzuat gereğidir. Uzun mesafeli ve uluslararası taşımacılıkta sürücülerin uzun süre evden ve ailesinden uzak kalması söz konusu olabilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T18:22:11",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6350
+  }
+ }
+}

@@ -1,0 +1,79 @@
+{
+ "arac_gerec": [
+  "Teknik resim ve şartname belgeleri",
+  "Boru kesme tezgahları ve testereler",
+  "Makinato (boru ucu sıkma-genişletme aleti)",
+  "Kompresör",
+  "Ölçme ve kontrol aletleri (metre, kumpas, mastar)",
+  "Hidrostatik su basınç test donanımı",
+  "El aletleri (anahtar, çekiç, pense, keski)",
+  "Taşıma ve kaldırma ekipmanları (vinç, kaldıraç)",
+  "Kaynak kontrol ekipmanları",
+  "Kişisel koruyucu donanım (baret, iş gözlüğü, eldiven, kulaklık, iş elbisesi)"
+ ],
+ "genel_ozellikler": [
+  "El ve beden becerisine sahip,",
+  "Şekil ve uzay ilişkilerini görebilen,",
+  "Dikkatli ve tedbirli,",
+  "Fiziksel olarak güçlü ve dayanıklı,",
+  "Teknik resim ve şartname okuyabilen,",
+  "Takım halinde çalışmaya uyumlu,",
+  "Sorumluluk sahibi,",
+  "Alet ve makinelerle çalışmaktan hoşlanan kişiler olmaları gerekir."
+ ],
+ "calisma_ortami": "Makinatocular, buhar kazanı ve basınçlı kap imalatı yapan fabrika ve atölyelerde çalışırlar. Çalışma ortamı kapalı mekandır; gürültülü olabilir, metal tozu ve talaşı bulunabilir, kazan içi gibi dar ve sınırlı alanlarda eğilerek veya kıvrılarak çalışma gerekebilir. İşin niteliği nedeniyle dikkatsizlik, iş kazası ve yaralanma riski taşır; bu nedenle iş sağlığı ve güvenliği kurallarına uyum büyük önem taşır.\n\nÇalışma genellikle gündüz mesaisi şeklindedir, ancak işletmenin üretim planına göre vardiyalı çalışma da söz konusu olabilir. Meslek mensupları; yardımcı işçiler, kaynakçılar, kalite kontrol elemanları, ustabaşı ve mühendislerle sürekli iletişim halinde, ekip çalışması içinde görev yaparlar.",
+ "egitim": {
+  "verildigi_yerler": "Makinatoculuğun kendine özgü, ayrı bir mesleki eğitim merkezi dalı bulunmamaktadır. Meslek genellikle Metal Teknolojisi alanı kapsamındaki ilgili dallarda temel metal işleme eğitimi alındıktan sonra, kazan ve basınçlı kap imalatı yapan işyerlerinde usta yanında işbaşında (çıraklık/kalfalık ilişkisi içinde) öğrenilmektedir. Ayrıca Halk Eğitim Merkezleri ile İŞKUR tarafından açılan metal işleri ve kaynak alanındaki mesleki eğitim kursları, mesleğe temel beceri kazandıran destekleyici eğitim olanakları sunar.",
+  "giris_kosullari": [
+   "En az ortaokul mezunu olmak",
+   "14 yaşını doldurmuş olmak",
+   "Sağlık durumunun ağır ve dar alanlarda çalışmaya elverişli olması (gerektiğinde sağlık raporu ile belgelendirilir)",
+   "Çıraklık eğitimi için ilgili işyeri ile sözleşme imzalamak (mesleki eğitim merkezi yolunu izleyenler için)"
+  ],
+  "sure_ve_icerik": "Mesleki eğitim merkezi yoluyla Metal Teknolojisi alanında eğitime başlayanlarda süre ilköğretim sonrası genellikle 4 yıldır; bunun 3 yılı kalfalık, 1 yılı ustalık eğitimine ayrılır. Eğitim haftada bir gün merkezde teorik derslerle, kalan günlerde işyerinde usta öğreticinin gözetiminde pratik çalışma şeklinde yürütülür. İşe doğrudan çırak olarak giren veya kısa süreli kurslarla temel beceri kazananlarda ise meslek, kazan imalatı yapan işyerlerinde fiilen çalışarak, borulama, sıkma-genişletme ve kontrol işlemlerinin tekrarı yoluyla zaman içinde öğrenilir.",
+  "belge": "Mesleki eğitim merkezi yolunu tamamlayanlara kalfalık ve ardından ustalık belgesi, fark derslerini tamamlayanlara meslek lisesi diploması verilir. Halk Eğitim Merkezi veya İŞKUR kurslarını bitirenlere kurs bitirme belgesi/sertifika verilir."
+ },
+ "calisma_alanlari": "Makinatocular; buhar kazanı, basınçlı kap, boyler ve ısı değiştirici imalatı yapan metal işleme fabrika ve atölyelerinde, enerji ve ısıtma sistemleri üreten tesislerde, bazı gemi inşa ve bakım-onarım işletmelerinde istihdam edilirler. Ayrıca kazan bakım-onarım hizmeti veren firmalarda da çalışma olanağı bulabilirler. İş bulma olanakları, büyük ölçüde kazan ve basınçlı kap imalatı yapan sanayi tesislerinin bulunduğu bölgelerdeki üretim hacmine bağlıdır.",
+ "kazanc": {
+  "egitim_suresince": "Mesleki eğitim merkezi yoluyla çıraklık/kalfalık eğitimi alanlara, 3308 sayılı Mesleki Eğitim Kanunu kapsamında yasal olarak belirlenmiş asgari bir ücret ödenir; sigorta primleri devletçe karşılanır. İşyerinde doğrudan çırak olarak çalışanlarda ücret, işveren ile yapılan anlaşmaya göre değişebilir.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanlarda kazanç genellikle asgari ücret düzeyindedir.",
+   "Deneyim, bilgi, beceri ve çalışılan işyerinin büyüklüğüne göre kazanç artabilir.",
+   "Özel sektörde ücret, işveren ile karşılıklı anlaşmaya ve sektörün genel ücret düzeyine göre belirlenir.",
+   "Kamu kuruluşlarında işçi statüsünde çalışanlar, ilgili toplu iş sözleşmesi hükümlerine tabi olarak ücret alır."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleki eğitim merkezinde kalfalık belgesi alanlar bir yıl daha eğitim görerek ustalık belgesi alabilir. Fark derslerini tamamlayanlar meslek lisesi diploması ve işyeri açma belgesi alabilir. İsteyenler ilgili önlisans programlarına geçiş yapabilir.",
+  "is_hayatinda": "İş hayatında deneyim kazanan makinatocular; usta, ekip sorumlusu, atölye/üretim şefi veya kalite kontrol sorumlusu gibi görevlere yükselebilir. Yeterli sermaye ve deneyime sahip olanlar kendi küçük imalat/bakım-onarım işyerlerini açabilir."
+ },
+ "benzer_meslekler": [
+  "Kazan Yapımcısı",
+  "Kalorifer Kazan İmalatçısı",
+  "Panel Radyatör İmalatçısı",
+  "Çelik Konstrüksiyon (Yapılandırmacı) Elemanı",
+  "Metal Levha İşçisi",
+  "Sac İşçisi"
+ ],
+ "ek_bilgiler": "Buhar kazanı ve basınçlı kap imalatında çalışma, kazan içi gibi dar ve kapalı alanlarda yapılabildiğinden ve basınç testleri içerdiğinden, ilgili iş sağlığı ve güvenliği mevzuatı kapsamında dikkat gerektiren bir meslektir. Bu nedenle güvenlik eğitimleri ve kişisel koruyucu donanım kullanımı önem taşır. Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda tercih sebebi olabilir.",
+ "gorevler": [
+  "Verilen teknik resim ve şartnameleri inceler.",
+  "Ölçülere göre kazanlar içine yerleştireceği boruları keser veya ilgili tezgahlarda kesilmesini sağlar.",
+  "Kesilen boruları yardımcı işçilerle birlikte kazanlar içerisine yerleştirir.",
+  "Yerleşen boru uçlarını makinato ile sıkarak veya genişleterek kazan içindeki aynalara tespit eder.",
+  "Ayna dışı kalan boru uçlarını kompresörü çalıştırarak kıvırır.",
+  "Montesi tamamlanan boru sistemini kontrol etmek üzere kazanlara su doldurur.",
+  "Borulardan ve kazanların diğer kısımlarından su sızıp sızmadığını kontrol eder.",
+  "Su sızdıran boruları tekrar sıkar.",
+  "Kaynaklardaki hataları ilgili işçilere gösterip hataların düzeltilmesini sağlar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T00:23:56",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 7437
+  }
+ }
+}

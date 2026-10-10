@@ -1,0 +1,75 @@
+{
+ "gorevler": [
+  "Dağıtılacak evrak ve paketleri teslim alır ve kayıt altına alır.",
+  "Evrakları adres ve öncelik sırasına göre tasnif eder ve dağıtım rotası planlar.",
+  "Evrak ve paketleri belirtilen adreslere zamanında ve eksiksiz olarak teslim eder.",
+  "Teslim edilen evraklar için alıcılardan imza veya onay alır.",
+  "Dağıtım sırasında kullanılan araç ve ekipmanların bakımını yapar.",
+  "Günlük dağıtım kayıtlarını tutar ve ilgili birimlere raporlar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "arac_gerec": [
+  "Evrak çantası/dağıtım kutusu",
+  "Teslim/imza fişi, dağıtım defteri",
+  "Kalem",
+  "Cep telefonu veya el terminali (barkod/QR okuyucu)",
+  "Bisiklet veya motosiklet",
+  "Kask ve koruyucu giysi",
+  "Yağmurluk",
+  "GPS/navigasyon uygulaması veya şehir/kurum kat planı",
+  "Posta çantası veya sırt çantası",
+  "Kilit/güvenlik mühürü (gizli/önemli evrak için)"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve dürüst,",
+  "Güvenilir ve sorumluluk sahibi,",
+  "Fiziksel olarak dayanıklı,",
+  "Yön bulma becerisine sahip,",
+  "Zamanı iyi kullanabilen,",
+  "Hava ve trafik koşullarına dayanıklı,",
+  "İnsan ilişkilerinde uyumlu,",
+  "Çalışkan ve düzenli"
+ ],
+ "calisma_ortami": "Genel evrak dağıtıcıları, görevlerini hem kurum içindeki büro ve koridor ortamında hem de kurum dışında açık alanda, yürüyerek veya bisiklet/motosiklet gibi araçlarla yerine getirirler. Gün içinde sürekli hareket halinde çalışırlar; yağmur, sıcak, soğuk gibi değişken hava koşullarına ve şehir içi trafiğine maruz kalabilirler, bu nedenle trafik kazası gibi iş güvenliği riskleri bulunur.\n\nÇalışma saatleri genellikle kurumun mesai saatleriyle sınırlıdır; ancak acil evrak dağıtımı gerektiren işyerlerinde esnek çalışma söz konusu olabilir. Bu meslek elemanları; kurum yöneticileri, diğer çalışanlar, evrak alıcıları ve bazen dış kurum/vatandaşlarla doğrudan iletişim kurarlar.",
+ "egitim": {
+  "verildigi_yerler": "Genel Evrak Dağıtıcısı için örgün mesleki ve teknik eğitim kurumlarında ayrı bir alan veya dal bulunmamaktadır. Meslek, genellikle işbaşında usta-çırak ilişkisiyle ya da Halk Eğitim Merkezleri ve İŞKUR tarafından açılan kısa süreli mesleki eğitim kurslarıyla öğrenilmektedir.",
+  "giris_kosullari": [
+   "Okuma yazma biliyor olmak",
+   "Genellikle en az ilkokul/ilköğretim mezunu olmak",
+   "Yürüme ve taşıma işine uygun bedensel/sağlık durumuna sahip olmak",
+   "Varsa işyerinin belirlediği yaş ve diğer koşulları taşımak"
+  ],
+  "sure_ve_icerik": "Mesleğe özgü, belirli bir süresi resmî olarak tanımlanmış bir eğitim programı bulunmamaktadır. Meslek elemanları, işe başladıklarında kurumun evrak takip sistemi, dağıtım rotası planlama, iletişim kuralları, trafik güvenliği ve iş sağlığı-güvenliği konularında kısa süreli işbaşı eğitimi veya birkaç günden birkaç haftaya kadar sürebilen kurs eğitimi alırlar.",
+  "belge": "Örgün eğitim sonunda verilen bir diploma bulunmamaktadır. Katıldığı kurslar sonunda kurs bitirme/katılım belgesi alabilir."
+ },
+ "calisma_alanlari": "Genel evrak dağıtıcıları; kamu kurum ve kuruluşlarının evrak/arşiv ve genel idare servislerinde, özel şirketlerin yazı işleri ve haberleşme birimlerinde, bankalarda, hastanelerde, eğitim kurumlarında, kargo ve kurye firmalarında, belediyelerde ve benzeri kurumların evrak dağıtım servislerinde çalışabilirler.",
+ "kazanc": {
+  "egitim_suresince": "Örgün bir eğitim süreci bulunmadığından, meslek genellikle doğrudan işe başlayarak öğrenilir. İşbaşında eğitim sürecinde çalışan, işveren tarafından ödenen ücreti alır; miktar işyerine göre değişir.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında işçi statüsünde çalışanların ücreti toplu iş sözleşmesi hükümlerine göre belirlenir.",
+   "Özel sektörde ücret, işyerinin büyüklüğüne, çalışanın deneyimine ve işveren ile yapılan anlaşmaya göre değişir.",
+   "Mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Bu meslek için örgün eğitimde tanımlanmış bir ilerleme basamağı bulunmamaktadır. İsteyen kişiler, kurye, lojistik, depolama ve dağıtım gibi alanlarda açılan kurs ve sertifika programlarına katılarak bilgi ve becerilerini geliştirebilir.",
+  "is_hayatinda": "Deneyim kazanan meslek elemanları, çalıştıkları kurumda evrak/arşiv sorumluluğu, haberleşme servisi sorumluluğu veya dağıtım ekibi sorumluluğu gibi daha üst görevlere geçebilir; isterlerse kurye, lojistik ve dağıtım hizmetleri alanlarına yönelebilirler."
+ },
+ "benzer_meslekler": [
+  "Kurye",
+  "Haberleşme Görevlisi/Haberci",
+  "Paket Teslim Elemanı (Yaya)",
+  "Kurye (İlaç Dağıtım)",
+  "Gazete Dağıtıcısı",
+  "El İlanı, Broşür Dağıtıcısı"
+ ],
+ "ek_bilgiler": "Kargo ve e-ticaret hacminin artmasıyla evrak ve paket dağıtım hizmetlerine olan ihtiyaç büyümektedir. Bu meslekte çalışanların trafik kurallarına uyması ve hava koşullarına karşı kişisel koruyucu donanım kullanması, iş kazası risklerini azaltmak açısından önemlidir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T21:05:12",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 4459
+  }
+ }
+}

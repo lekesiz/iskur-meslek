@@ -1,0 +1,85 @@
+{
+ "gorevler": [
+  "Atletizmin atma kategorileri olan gülle, disk, cirit ve çekiç atma branşlarında, sporcular için müsabaka takvimine göre çalışma programı hazırlar ve uygulanmasını sağlar.",
+  "Sağlık ekibinin çalışmalarda yer almasını sağlar.",
+  "Sporculara atletizmin atma branşlarına göre uygun antrenmanlar yaptırır, gerekli teknik ve taktik çalışmalar yaptırır.",
+  "Sporcuları teknik, taktik, fizik, kondisyon ve psikolojik olarak müsabakalara hazırlar.",
+  "Antrenmanlarda, yapılacak müsabakaların taktiklerini uygulatır, zayıf yönleri belirleyip güçlendirmek amacıyla gerekli teknikleri uygulamalı olarak çalıştırır.",
+  "Sporcuların dengeli beslenmeleri için gıda programı hazırlatır ve uygulanmasını sağlar.",
+  "Sporcuların sağlık durumları, özel yaşamları, izinleri ve sorunları ile ilgilenir.",
+  "Gerektiğinde sporcuları kampa alır, kamp programı hazırlar ve uygular.",
+  "Sporcuların devam ve form durumlarını izler, devamsızlığı olan ve form düşüklüğü gösteren sporcuları uyarır ve tedbir alır.",
+  "Form düşüklüğü gösteren sporcuları özel çalışmaya tabi tutar.",
+  "Müsabaka öncesinde sporculara son taktikleri verir.",
+  "Atletizm sporuna yetiştirilmek üzere sporcu seçmelerine katılır.",
+  "Haftalık, aylık ve yıllık antrenman raporu hazırlar, ilgililere sunar.",
+  "Mesleği alanındaki gelişmeleri ve atletizm sporundaki değişiklikleri takip eder ve uygular.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "arac_gerec": [
+  "Spor kıyafetleri (eşofman, şort, tişört vb.)",
+  "Spor ayakkabıları",
+  "Yağmurluk, rüzgârlık, şapka",
+  "Kronometre, saat, düdük",
+  "Gülle, disk, cirit, çekiç (atma branşı malzemeleri)",
+  "Atma halkası, atma sektörü çizgi ve ölçüm ekipmanları",
+  "Mezura, şerit metre, ölçüm aletleri",
+  "Ağırlık ve kondisyon aletleri, lastik bantlar, sağlık topları",
+  "Video kamera, bilgisayar ve hareket analiz programları",
+  "Kırtasiye malzemeleri (kâğıt, kalem, antrenman defteri vb.)",
+  "İlk yardım malzemeleri",
+  "Kampta ve müsabakada kullanılan ulaşım ve iletişim ekipmanları"
+ ],
+ "genel_ozellikler": [
+  "Atletizm sporunu ve sporcuyu seven,",
+  "Atma branşlarının teknik gereklerini (biyomekanik, denge, koordinasyon) iyi bilen,",
+  "İnsanlarla iyi iletişim kurabilen, sabırlı ve anlayışlı,",
+  "Bir grubu yönetebilen, otoriter ve güvenilir,",
+  "Dikkatli ve gözlem yeteneği gelişmiş,",
+  "Analitik düşünebilen, problem çözme becerisine sahip,",
+  "Sürekli mesleki gelişime ve yeniliklere açık,",
+  "Seyahat etmekten ve değişik ortamlarda çalışmaktan hoşlanan"
+ ],
+ "calisma_ortami": "Atletizm Antrenörü (Atma), görevini genellikle açık hava atletizm pistlerinde ve atma sektörlerinde (gülle, disk, cirit, çekiç atma alanları) yürütür; bunun yanında kondisyon çalışmaları ve video analiz gibi faaliyetler için kapalı spor salonlarını ve ofis ortamlarını da kullanır. Çalışma sırasında sıcak, soğuk, yağmur, rüzgâr gibi değişen hava koşullarına açık olarak görev yapar; branşın doğası nedeniyle atılan malzemelerin (gülle, disk, cirit, çekiç) sebep olabileceği kazalara karşı dikkatli olunması gereken bir ortamdır.\n\nÇalışma saatleri müsabaka takvimine, antrenman programına ve kamp dönemlerine göre değişkenlik gösterir; hafta sonları, akşam saatleri ve seyahat gerektiren dönemlerde de çalışılabilir. Sporcular, sporcu aileleri, diğer antrenörler ve yardımcı antrenörler, sağlık personeli (doktor, fizyoterapist, masör), kulüp yöneticileri, federasyon temsilcileri ve hakemlerle sürekli iletişim içindedir.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi, üniversitelerin spor bilimleri fakültelerinin antrenörlük eğitimi bölümlerinde (ilgili branş uzmanlık alanı seçilerek) verilmektedir. Ayrıca Gençlik ve Spor Bakanlığı ile atletizm federasyonu tarafından açılan antrenör yetiştirme kurslarına katılarak da bu mesleğe yönelik yeterlilik kazanılabilir.",
+  "giris_kosullari": [
+   "Lise veya dengi okul mezunu olmak,",
+   "Üniversite programına girmek için YKS (Yükseköğretim Kurumları Sınavı) kılavuzunda belirtilen koşulları taşımak ve ilgili üniversitece yapılan özel yetenek sınavında başarılı olmak,",
+   "Federasyon tarafından açılan antrenörlük kurslarına katılmak için ilgili federasyonun belirlediği yaş, eğitim ve branşla ilgilenme şartlarını taşımak,",
+   "Daha önce atletizm sporuyla (özellikle atma branşlarıyla) amatör veya profesyonel olarak ilgilenmiş olmak, eğitime girişte ve sonrasında başarıyı artırıcı bir etkendir."
+  ],
+  "sure_ve_icerik": "Üniversitelerdeki antrenörlük eğitimi programları lisans düzeyinde dört yıl sürmekte, spor bilimi, anatomi, fizyoloji, antrenman bilgisi, branşa özgü teknik eğitim gibi dersleri içermektedir. Federasyon ve Gençlik ve Spor Bakanlığı bünyesinde açılan antrenör yetiştirme kursları ise kademeli olarak (temel seviyeden ileri seviyeye) düzenlenmekte, atletizmin atma branşlarına özgü teknik, taktik ve antrenman bilgisi kazandırmayı amaçlamaktadır.",
+  "belge": "Üniversite eğitimini tamamlayanlara lisans diploması verilir. Federasyon ve Gençlik ve Spor Bakanlığı tarafından düzenlenen kursları başarıyla tamamlayanlara ise kademeye uygun antrenörlük belgesi/sertifikası verilir. Resmî müsabakalarda ve kulüplerde görev alabilmek için ilgili federasyondan antrenörlük lisansı alınması gerekir."
+ },
+ "calisma_alanlari": "Atletizm Antrenörü (Atma); okullara bağlı spor kulüplerinde, amatör ve profesyonel spor kulüplerinde, üniversitelerin spor birimlerinde, Gençlik ve Spor Bakanlığına bağlı il müdürlüklerinde, spor eğitim merkezlerinde, atletizm federasyonuna bağlı altyapı ve milli takım çalışmalarında ve özel spor akademilerinde çalışabilir.\n\nKamu kurumlarında antrenör kadrosunda veya sözleşmeli personel statüsünde, özel kulüplerde ise kulüple yapılan sözleşme çerçevesinde görev alabilir. Gülle, disk, cirit ve çekiç atma branşlarına yönelik altyapı çalışmaları ve milli takım kampları bu mesleğin başlıca istihdam alanlarıdır.",
+ "kazanc": {
+  "egitim_suresince": "Üniversitelerin antrenörlük eğitimi bölümlerinde okuyan öğrenciler, diğer lisans öğrencileri gibi burs ve kredi olanaklarından yararlanabilir; eğitim süresince ayrıca bir kazanç söz konusu değildir. Federasyon ve Gençlik ve Spor Bakanlığı kurslarına katılım genellikle ücretsizdir veya sembolik bir katılım bedeli gerektirir.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında (Gençlik ve Spor Bakanlığına bağlı birimler, okullar, üniversiteler) kadrolu veya sözleşmeli olarak çalışan antrenörlerin ücretleri 657 sayılı Devlet Memurları Kanunu veya ilgili sözleşmeli personel mevzuatına göre belirlenir.",
+   "Özel spor kulüplerinde çalışan antrenörlerin kazancı; antrenörün deneyimi, branştaki başarısı, kulübün bütçesi ve taraflar arasındaki sözleşmeye göre değişmektedir.",
+   "Mesleğe yeni başlayan ve deneyimi az olan antrenörlerin kazancı genellikle asgari ücret düzeyindedir; deneyim, başarı ve milli takım görevleriyle birlikte kazanç artabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Antrenörlük eğitimi lisans programını tamamlayanlar, isterlerse yüksek lisans ve doktora yaparak akademik kariyer yapabilir veya federasyonların düzenlediği ileri seviye antrenörlük kurslarına katılarak kademelerini yükseltebilirler. Federasyon kurslarıyla mesleğe başlayanlar da kademeli eğitimlerle (temel, orta, ileri seviye antrenörlük) ilerleyebilirler.",
+  "is_hayatinda": "Deneyim kazanan antrenörler; altyapı takımlarından milli takım antrenörlüğüne, il temsilciliklerinden federasyon teknik kurullarına kadar çeşitli kademelerde görev alabilir. Başarılı antrenörler teknik direktörlük, federasyon teknik kurulu üyeliği veya spor yöneticiliği gibi görevlere yükselebilir."
+ },
+ "benzer_meslekler": [
+  "Atletizm Antrenörü (Atlama)",
+  "Atletizm Antrenörü (Koşu)",
+  "Antrenör (Spor Eğitmeni)",
+  "Kondisyoner",
+  "Halter Antrenörü",
+  "Kültür Fizik Eğitimcisi"
+ ],
+ "ek_bilgiler": "Bu meslekte resmî müsabakalarda görev alabilmek için ilgili atletizm federasyonundan antrenörlük lisansı alınması gerekmektedir. Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda tercih sebebi olabilir ancak bu meslek için zorunlu bir koşul değildir. İstihdam imkânları büyük ölçüde kulüplerin ve federasyonun altyapı ile milli takım çalışmalarına ayırdığı kaynaklara bağlı olduğundan, bu alanda kariyer yapmak isteyenlerin branşa erken yaşta ilgi duymuş ve mümkünse sporcu olarak deneyim kazanmış olmaları avantaj sağlar.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T13:57:08",
+  "usage": {
+   "input_tokens": 4,
+   "output_tokens": 8741
+  }
+ }
+}

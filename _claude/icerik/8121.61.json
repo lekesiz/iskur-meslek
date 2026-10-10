@@ -1,0 +1,79 @@
+{
+ "arac_gerec": [
+  "Boru çekme tezgahı (çekme bankı)",
+  "Konik kılavuz ve kılavuz blokları",
+  "Çekme zinciri",
+  "Müteharrik şaryö (hareketli çekme arabası)",
+  "Maşa",
+  "Kumpas ve çap ölçüm aletleri",
+  "Metre/mastar",
+  "Köprü vinç",
+  "Forklift / malzeme taşıyıcılar",
+  "Yağlama ve soğutma sıvıları",
+  "İş eldiveni",
+  "Koruyucu gözlük",
+  "Baret",
+  "İş elbisesi (tulum)",
+  "Kişisel koruyucu donanım (kulaklık, çelik burunlu ayakkabı)"
+ ],
+ "benzer_meslekler": [
+  "Dikişli Boru Profil Üretim Operatörü",
+  "Dikişsiz Boru Haddecisi",
+  "Metal Boru Kesme Makinesi Operatörü",
+  "Hadde Ayarcısı (Metal)",
+  "Haddehane Maniplatörü",
+  "Diğer Haddehane Operatörleri (Metal)"
+ ],
+ "calisma_alanlari": "Dikişsiz Boru Çekici, genellikle demir-çelik sanayinin bir parçası olan boru ve profil üretim tesislerinde, haddehanelerde ve metal işleme fabrikalarında çalışır. Kamuya ait veya özel sektöre ait büyük ve orta ölçekli demir-çelik işletmeleri, boru imalat fabrikaları ve bu fabrikalara yan sanayi olarak hizmet veren işletmeler başlıca çalışma alanlarıdır. İnşaat, enerji, otomotiv ve makine imalat sektörlerinde boru talebinin sürekliliği, bu alanda çalışan işletmelerde iş bulma olanağını destekler.",
+ "calisma_ortami": "Dikişsiz Boru Çekici, fabrika ve atölye ortamında, kapalı mekânlarda çalışır. Çalışma ortamı; ağır makinelerin, zincir ve şaryö sistemlerinin bulunduğu, genellikle gürültülü ve sıcak bir üretim hattıdır. Kaba boru ve metal malzemelerle, büyük tezgahlarla ve hareketli mekanik parçalarla sürekli temas söz konusu olduğundan, iş kazası riski bulunur; bu nedenle iş güvenliği kurallarına eksiksiz uyulması gerekir. Çalışma genellikle vardiyalı sistemle, ayakta ve bazen ağır kaldırma gerektiren koşullarda sürer.\n\nMeslek elemanı; ustabaşı, vardiya amiri, diğer tezgah operatörleri ve kalite kontrol personeli ile sürekli iletişim halinde çalışır. Ekip çalışması, dikkat ve koordinasyon bu meslekte önemli bir yer tutar.",
+ "egitim": {
+  "verildigi_yerler": "Dikişsiz Boru Çekici için resmi olarak tanımlanmış, ayrı bir örgün mesleki eğitim programı bulunmamaktadır. Meslek, genellikle çalışılan fabrika veya işletme bünyesinde işbaşında, usta-çırak ilişkisi içinde öğrenilir. İlgili mesleki ve teknik eğitim programları (örneğin metal teknolojisi alanı altındaki haddecilik/metal işleme dalları) ve Halk Eğitim Merkezleri ile İŞKUR'un açtığı mesleki eğitim kursları, mesleğe temel oluşturacak bilgi ve beceriyi kazandırabilir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "Fiziksel olarak ağır iş koşullarına ve vardiyalı çalışmaya uygun olmak (gerektiğinde sağlık raporu ile belgelenir)",
+   "14 yaşını doldurmuş olmak",
+   "Dikkatli, sabırlı ve makine kullanımına ilgili olmak"
+  ],
+  "sure_ve_icerik": "Mesleğin resmi olarak belirlenmiş bir eğitim süresi bulunmamaktadır. Meslek elemanları genellikle işe yeni başladıklarında deneyimli bir usta veya operatör gözetiminde, işbaşında eğitim yoluyla; tezgahın çalışma prensiplerini, konik kılavuz ve blok ayarlarını, çekme işlemini ve iş güvenliği uygulamalarını öğrenir. Bu süreç, kişinin yeteneğine ve işyerinin uygulamasına göre birkaç aydan bir-iki yıla kadar sürebilir.",
+  "belge": "Mesleğe giriş için zorunlu bir diploma veya sertifika genellikle aranmaz; işyerinde edinilen deneyim esastır. Mesleki Yeterlilik Kurumu (MYK) Mesleki Yeterlilik Belgesi, istihdamda ve bazı işyerlerinde tercih sebebi olabilir."
+ },
+ "ek_bilgiler": "Bu meslek, ağır makinelerle ve metal malzemelerle çalışmayı gerektirdiğinden iş sağlığı ve güvenliği kurallarına uyum büyük önem taşır. Boru üretimine olan talep, inşaat, enerji ve makine imalat sektörlerindeki gelişmelere bağlı olarak değişkenlik gösterebilir.",
+ "genel_ozellikler": [
+  "Dikkatli,",
+  "El ve göz koordinasyonu gelişmiş,",
+  "Fiziksel olarak güçlü ve dayanıklı,",
+  "Makine ve mekanik sistemlere ilgili,",
+  "Sorumluluk sahibi,",
+  "İş güvenliği kurallarına titizlikle uyan,",
+  "Ekip çalışmasına uyumlu,",
+  "Ölçüm ve kontrol işlemlerinde dikkatli ve sabırlı,"
+ ],
+ "gorevler": [
+  "Kaba boruyu çekme tezgahı üzerindeki yerine yerleştirir,",
+  "Konik kılavuzu blok üzerindeki merkez deliğine yerleştirir,",
+  "Kaba borunun ucunu kılavuz deliğinden itip veya çekerek maşa ile çekme zincirine yahut müteharrik şaryöye tespit eder,",
+  "Zinciri veya şaryöyü harekete geçirerek boruyu kılavuz üzerinden çeker, iç çap ile kılavuz ve dış çapı tayin eden blok arasındaki boşluğu kontrol eder,",
+  "İstenilen boru uzunluğu elde edilince zinciri veya şaryoyu durdurur, maşayı borudan çıkarır ve istenilen çap elde edilinceye kadar işlemi tekrarlar,",
+  "Çekilen boruyu tipine veya kullanılan metalin cinsine göre ayırt eder,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Dikişsiz Boru Çekici için resmi bir mesleki eğitim ilerleme basamağı tanımlanmamıştır. İsteyen meslek elemanları, Mesleki Yeterlilik Kurumu belgelendirme süreçlerine katılabilir veya ilgili mesleki ve teknik eğitim kurumlarının açtığı metal işleme ile ilgili kurs ve programlara devam ederek bilgi ve becerilerini belgelendirebilir.",
+  "is_hayatinda": "Meslekte deneyim kazanan çalışanlar; vardiya sorumluluğu, ustabaşılık veya tezgah grubu sorumluluğu gibi görevlere yükselebilir. Üretim sürecine ilişkin bilgi ve deneyimini geliştiren kişiler, zamanla üretim şefliği veya işletme yöneticiliği gibi görevlere ilerleyebilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Mesleğe işbaşında başlayan kişiler, çalıştıkları işletmenin uygulamasına göre genellikle asgari ücret düzeyinde bir ücretle çalışmaya başlar. Resmi çıraklık eğitimi kapsamında eğitim görenler için 3308 sayılı Mesleki Eğitim Kanunu hükümleri uygulanabilir.",
+  "egitim_sonrasi": [
+   "Kamuya bağlı işletmelerde işçi statüsünde çalışanlar, ilgili toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde çalışanların ücreti; deneyim, işletmenin büyüklüğü ve işin niteliğine göre değişir; yeni başlayanlar genellikle asgari ücret düzeyinde ücret alır, deneyim kazandıkça bu düzeyin üzerine çıkabilir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T11:26:36",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5791
+  }
+ }
+}

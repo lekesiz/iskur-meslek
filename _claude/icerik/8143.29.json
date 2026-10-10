@@ -1,0 +1,92 @@
+{
+ "arac_gerec": [
+  "Kağıt hamuru hazırlama (pulper) makineleri",
+  "Elyaf öğütme (refiner) makineleri",
+  "Eleme ve kağıt hamuru temizleme üniteleri",
+  "Kağıt makinesi elek, pres ve kurutma partileri",
+  "Kalender makinesi",
+  "Laminasyon makinesi",
+  "Kağıt kesme ve dilimleme makineleri",
+  "Mal sarıcı (bobin sarma) üniteleri",
+  "Buhar kazanı ve buhar hatları",
+  "Gramaj, rutubet ve cobb test cihazları",
+  "Elektrik ve otomasyon kontrol panoları",
+  "Kağıt kimyasalları (nişasta ve yardımcı maddeler)",
+  "İstifleme, bağlama ve etiketleme ekipmanları",
+  "Kişisel koruyucu donanım (eldiven, koruyucu gözlük, kulaklık, maske)"
+ ],
+ "genel_ozellikler": [
+  "El ve bedensel beceriye sahip,",
+  "Dikkatli ve sorumluluk sahibi,",
+  "Fiziksel olarak güçlü ve dayanıklı,",
+  "Makine ve teknik sistemlerle ilgili,",
+  "Takım çalışmasına uyumlu,",
+  "Vardiyalı çalışma düzenine uyumlu,",
+  "Temizlik ve düzene özen gösteren,",
+  "Tehlikeli çalışma koşullarına karşı tedbirli"
+ ],
+ "gorevler": [
+  "Hurda kağıt tasnifi yapar",
+  "Kağıt hamuru yapar",
+  "Kağıt hamuru temizliği yapar",
+  "Elyaf öğütümü yapar",
+  "Tekrar eleme yapar",
+  "Elek partisini ön safhada kullanır",
+  "Pres partisi ile sıkar",
+  "Kurutma partisi ile kurutur",
+  "Kalenderler",
+  "Nişastalama ile mukavemet arttırır",
+  "Cobb'lama yapar",
+  "Mal sarıcıya kağıt sarar",
+  "Kağıt bağlar, kağıt ebatlar",
+  "İstifler, etiketler",
+  "Gramaj, rutubet ve cobb testi yapar",
+  "Kağıt makinesi ekipmanlarına kumanda eder",
+  "Elektrik, otomasyon panolarına ve düğmelerine kumanda eder",
+  "Buhar kazan ünitesini kullanır",
+  "Laminasyon yapar",
+  "Kağıt dilimler",
+  "Kağıt kimyasallarını kullanır",
+  "Mesleki gelişim faaliyetlerinde bulunur"
+ ],
+ "calisma_ortami": "Gri karton, şirenz kağıt üretim ve laminasyon işçisi, kapalı fabrika ve üretim tesisi ortamında çalışır. Çalışma ortamı genellikle gürültülü, buhar ve nem nedeniyle sıcak ve nemli olabilir; kağıt hamuru hazırlama, pres ve kurutma üniteleri ile buhar kazanı gibi makinelerin yakınında ayakta ve hareketli olarak görev yapar. Kağıt kimyasalları ile temas, kayma-düşme ve makine kaynaklı kazalar açısından iş sağlığı ve güvenliği kurallarına uyum önemlidir.\n\nÇalışma genellikle vardiya sistemi (gündüz, akşam, gece) şeklinde sürdürülür. İş sırasında aynı bölümde çalışan diğer işçilerle, ustabaşı, vardiya amiri ve bakım-onarım personeliyle sürekli iletişim halindedir.",
+ "calisma_alanlari": "Bu meslek mensupları esas olarak gri karton ve şirenz kağıt üreten kağıt/karton fabrikalarında, selüloz ve kağıt hamuru işleme tesislerinde, ambalaj sektörüne girdi sağlayan laminasyon tesislerinde istihdam edilir. İstihdam tamamen özel sektöre bağlıdır; kamuda bu meslek için doğrudan bir istihdam alanı bulunmamaktadır. Kağıt ve karton üretim/ambalaj sektörünün gelişimine bağlı olarak nitelikli ve deneyimli işçilere ihtiyaç duyulmaktadır.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin örgün bir mesleki ve teknik eğitim programı (ortaöğretim alanı/dalı) bulunmamaktadır. Meslek genellikle kağıt/karton fabrikalarında işbaşında usta yanında uygulamalı olarak öğrenilir. Ayrıca Halk Eğitim Merkezleri ve İŞKUR tarafından açılan mesleki eğitim kurslarında temel bilgi ve beceriler kazandırılabilir.",
+  "giris_kosullari": [
+   "En az ilköğretim/ilkokul mezunu olmak",
+   "İşin gerektirdiği fiziksel güce ve sağlık durumuna sahip olmak (gerektiğinde sağlık raporu ile belgelendirilir)",
+   "18 yaşını doldurmuş olmak (işin ağır ve tehlikeli koşullar içerebilmesi nedeniyle)"
+  ],
+  "sure_ve_icerik": "Resmi olarak tanımlanmış sabit bir eğitim süresi bulunmamaktadır. Kişi işe başladığında kısa süreli iş sağlığı ve güvenliği eğitimi alır; ardından kağıt hamuru hazırlama, elyaf öğütümü, pres-kurutma süreçleri, laminasyon ve test işlemleri gibi konularda deneyimli usta ve teknik personel gözetiminde işbaşında eğitilerek yetişir. Katıldığı kurslarda genel kağıt üretim süreçleri, makine kullanımı ve iş güvenliği konuları işlenir.",
+  "belge": "İşbaşı eğitim sürecinin sonunda resmi bir diploma verilmemektedir. Katıldığı kurslardan katılım/başarı belgesi alabilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, mevcut olduğu durumlarda istihdamda tercih sebebi olabilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Mesleğin örgün bir eğitim programı bulunmadığından, işe yeni başlayanlar genellikle işletmenin belirlediği, asgari ücret düzeyinde bir ücretle çalışmaya başlar. İŞKUR veya Halk Eğitim Merkezi kurslarına katılanlar, kurs süresince kursiyer harçlığından yararlanabilir.",
+  "egitim_sonrasi": [
+   "Yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Deneyim, vardiya düzeni, işletmenin büyüklüğü ve sektördeki ücret seviyesine göre kazanç artabilir.",
+   "Özel sektörde ücretler işveren ile çalışan arasındaki karşılıklı anlaşmaya göre belirlenir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğin resmi bir ilerleme basamağı (kalfalık-ustalık sistemi gibi) bulunmamaktadır. Kişi, kağıt ve karton üretimi, makine bakımı, otomasyon ve laboratuvar test teknikleri konularında açılan kurs ve eğitimlere katılarak bilgi ve becerisini geliştirebilir.",
+  "is_hayatinda": "Deneyim ve bilgi birikimi kazanan işçiler, zaman içinde vardiya amiri, usta, makine operatör şefi gibi daha sorumluluk gerektiren pozisyonlara yükselebilir."
+ },
+ "benzer_meslekler": [
+  "Karton Astarlama Makinesi Operatörü",
+  "Laminasyon Makinesi Operatörü",
+  "Karton Pres Operatörü",
+  "Karton ve Mukavva Makinesi Operatörü (Yapıştırma Usulüyle)",
+  "Oluklu Mukavva Levha Üretim Elemanı"
+ ],
+ "ek_bilgiler": "Meslek, buhar, yüksek sıcaklık, kimyasal maddeler ve ağır makinelerle çalışmayı içerdiğinden, iş sağlığı ve güvenliği eğitimi ve koruyucu donanım kullanımı büyük önem taşımaktadır. Çalışılan işin niteliğine göre tehlikeli/çok tehlikeli işler kapsamında değerlendirilebileceğinden, bu durumda ilgili mevzuat gereği ek eğitim ve belgelendirme gerekebilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T13:20:07",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5659
+  }
+ }
+}

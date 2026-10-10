@@ -1,0 +1,75 @@
+{
+ "arac_gerec": [
+  "PCB (baskı devre) tasarım yazılımları (örn. Altium, Eagle, KiCad)",
+  "Elektronik devre simülasyon yazılımları (SPICE tabanlı yazılımlar, Proteus vb.)",
+  "Osiloskop",
+  "Multimetre",
+  "Sinyal jeneratörü",
+  "Lojik analizör",
+  "Ayarlanabilir güç kaynağı",
+  "Lehim istasyonu ve lehim malzemeleri",
+  "Mikrodenetleyici/FPGA geliştirme kartları (Arduino, STM32, FPGA kitleri vb.)",
+  "Elektronik devre elemanları (direnç, kapasitör, entegre devre, konnektör vb.)",
+  "El aletleri (pense, tornavida takımı, cımbız vb.)",
+  "Bilgisayar",
+  "Teknik dokümantasyon ve raporlama araçları"
+ ],
+ "benzer_meslekler": [
+  "Mikroişlem Tasarımcısı",
+  "Sistem Mimarı/Tasarımcısı",
+  "Bilişim Sistemleri Mühendisi",
+  "Yazılım Mühendisi",
+  "Bilgisayar Mühendisi",
+  "Mikrodenetleyici Programcısı"
+ ],
+ "calisma_alanlari": "Donanım Geliştirme Uzmanları; elektronik cihaz üreticileri, bilgisayar ve çevre birimleri üreten firmalar, otomotiv elektroniği şirketleri, telekomünikasyon firmaları, savunma sanayi kuruluşları, IoT (nesnelerin interneti) cihazları geliştiren firmalar, Ar-Ge merkezleri ve teknoparklarda yer alan şirketler ile kamuya bağlı araştırma kurumlarının Ar-Ge birimlerinde çalışma olanağı bulabilirler.\\n\\nElektronik donanım geliştirme, günümüzde akıllı cihazlar, otomasyon sistemleri ve gömülü sistemlere olan talebin artmasıyla birlikte gelişen bir alandır. Bu nedenle ilgili mühendislik bölümlerinden mezun, donanım tasarımı ve prototipleme konusunda deneyim kazanmış kişiler için iş bulma olanakları genel olarak olumludur; ancak istihdam, kişinin edindiği pratik deneyime, bildiği tasarım/simülasyon yazılımlarına ve sektördeki genel ekonomik koşullara bağlı olarak değişebilir.",
+ "calisma_ortami": "Donanım Geliştirme Uzmanları genellikle Ar-Ge laboratuvarları, elektronik test ve prototip atölyeleri ile büro ortamında çalışırlar. Çalışma alanında bilgisayar başında tasarım ve simülasyon yazılımlarıyla uzun süre oturarak çalışmanın yanı sıra, prototip montajı ve test aşamalarında lehim istasyonu, osiloskop, multimetre gibi cihazlarla ayakta veya masa başında el becerisi gerektiren işler yapılır. Lehimleme sırasında ortaya çıkan dumana, küçük elektronik parçalara ve elektrik akımına karşı dikkatli olunması gerekir; iş sağlığı ve güvenliği kurallarına uyulduğunda risk düzeyi düşüktür.\\n\\nÇalışma saatleri genellikle düzenli mesai şeklindedir; ancak proje teslim tarihlerine yaklaşıldığında veya üretim öncesi test süreçlerinde çalışma süresi uzayabilir. Meslek mensupları; gömülü yazılım (firmware) geliştiricileri, mekanik tasarımcılar, üretim ve kalite kontrol ekipleri, proje yöneticileri ve müşteriler ile sık sık iş birliği içinde çalışır.",
+ "egitim": {
+  "verildigi_yerler": "\"Donanım Geliştirme Uzmanı\" adıyla doğrudan bir lisans programı bulunmamaktadır. Mesleğin gerektirdiği bilgi ve beceriler, üniversitelerin Elektrik-Elektronik Mühendisliği, Elektronik Mühendisliği, Bilgisayar Mühendisliği, Mekatronik Mühendisliği gibi ilgili mühendislik bölümlerinde verilen lisans eğitimi ile kazanılır. Ayrıca, temel eğitimin üzerine PCB tasarımı, gömülü sistemler ve donanım testi konularında kurumlar ve özel eğitim merkezlerince düzenlenen sertifika programları ve kurslarla mesleki bilgi derinleştirilebilir.",
+  "giris_kosullari": [
+   "Lise veya dengi okul mezunu olmak",
+   "YKS (Yükseköğretim Kurumları Sınavı) kılavuzunda ilgili mühendislik bölümleri için belirtilen puan türü ve koşulları sağlamak",
+   "Meslek Yüksekokulları ile Açıköğretim Önlisans Programlarının ilgili bölümlerinden mezun olanlar, Dikey Geçiş Sınavı (DGS) ile ilgili lisans programlarına geçiş yapabilirler"
+  ],
+  "sure_ve_icerik": "İlgili mühendislik bölümlerinde eğitim süresi 4 yıldır. Eğitim süresince devre teorisi, analog ve sayısal elektronik, sayısal tasarım, mikroişlemciler ve mikrodenetleyiciler, gömülü sistemler, sinyal işleme, PCB tasarımı gibi temel dersler okutulur. Lisans eğitiminin ardından sektörde yaygın olarak kullanılan PCB tasarım ve simülasyon yazılımlarına yönelik kurslar, işbaşı eğitimler ve usta-çırak ilişkisi içinde kazanılan pratik deneyimle mesleki yetkinlik geliştirilir.",
+  "belge": "Eğitimi başarı ile tamamlayanlara ilgili mühendislik alanında lisans diploması verilir. Tamamlanan sertifika programları ve kurslar için katılım veya başarı belgesi düzenlenir."
+ },
+ "genel_ozellikler": [
+  "Matematik ve fen bilimlerine ilgili,",
+  "Analitik düşünme ve problem çözme yeteneğine sahip,",
+  "El ve göz koordinasyonu iyi,",
+  "Görsel-uzamsal algısı güçlü,",
+  "Dikkatli ve sabırlı,",
+  "Araştırmacı ve yeniliklere açık,",
+  "Ekip çalışmasına uyumlu,",
+  "Düzenli ve sistemli çalışabilen"
+ ],
+ "gorevler": [
+  "Donanım gereksinimlerini belirler ve PCB (baskı devre) tasarımları yapar,",
+  "Devre elemanlarını seçer ve simülasyon yazılımları ile test eder,",
+  "Prototip montajını yapar ve teknik ölçümlerini (gerilim, direnç vb.) yürütür,",
+  "Gömülü yazılım (firmware) ekipleriyle koordineli çalışır,",
+  "Donanım hatalarını giderir ve teknik dokümantasyon hazırlar,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "kazanc": {
+  "egitim_suresince": "Meslek eğitimi süresince öğrenciler Kredi ve Yurtlar Genel Müdürlüğünün sağladığı öğrenim kredisi ve yurt hizmetlerinden yararlanabilir, çeşitli resmi ve özel kurum/kuruluşların burslarından faydalanabilirler. İsteyen öğrenciler, staj veya yarı zamanlı çalışma yoluyla hem deneyim hem de ek kazanç elde edebilir.",
+  "egitim_sonrasi": [
+   "Kamu kurum ve kuruluşlarında çalışanlar, 657 sayılı Devlet Memurları Kanunu'na göre öğrenim düzeylerine uygun kadrolarda maaş ve yan haklar alır.",
+   "Özel sektörde ücret; çalışılan firmanın büyüklüğü, sektörü, kişinin deneyimi ve uzmanlık alanına göre değişmekte olup, mesleğe yeni başlayanlarda genellikle asgari ücret düzeyinde olabilir; deneyim ve uzmanlık arttıkça kazanç da yükselebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Lisans eğitimini tamamlayanlar, ilgili mühendislik alanlarında yüksek lisans ve doktora yaparak akademik kariyere yönelebilir; üniversitelerde araştırma görevlisi, öğretim üyesi gibi unvanlara ulaşabilirler.",
+  "is_hayatinda": "Deneyim kazandıkça kıdemli donanım mühendisliği, Ar-Ge ekip liderliği, proje yöneticiliği ve teknik müdürlük gibi pozisyonlara yükselebilirler. Ayrıca kendi Ar-Ge şirketini kurarak girişimcilik yoluna gidebilirler."
+ },
+ "ek_bilgiler": "Mesleğin icrası için zorunlu bir mesleki yeterlilik belgesi bulunmamakla birlikte, Mesleki Yeterlilik Kurumu (MYK) tarafından ilgili alanlarda verilen belgeler istihdamda tercih sebebi olabilir. İşe alımlarda ilgili mühendislik bölümlerinden lisans diplomasına ek olarak PCB tasarım ve simülasyon yazılımlarına ilişkin pratik deneyim veya proje/portfolyo çalışmaları önemli bir değerlendirme kriteri olabilmektedir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T06:03:50",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5485
+  }
+ }
+}

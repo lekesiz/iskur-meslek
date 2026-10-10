@@ -1,0 +1,74 @@
+{
+ "arac_gerec": [
+  "Taşınabilir gaz ölçüm cihazları (oksijen, patlayıcı gaz/LEL, zehirli gaz-H2S, CO vb. ölçer)",
+  "Kalibrasyon gazı tüpleri ve kalibrasyon/doğrulama kitleri",
+  "Kişisel koruyucu donanım (gaz maskesi/solunum cihazı, baret, koruyucu iş elbisesi, emniyet kemeri ve halatı)",
+  "Periyodik gaz ölçüm takip ve kontrol formları",
+  "Bilgisayar ve ölçüm kayıtlarının yüklendiği izleme programı (GAS)",
+  "El feneri ve aydınlatma ekipmanı",
+  "Telsiz veya diğer haberleşme cihazları",
+  "Ölçüm sonuçlarının kayıt altına alındığı defter ve tutanaklar",
+  "Uyarı, ikaz bandı ve işaretleme ekipmanları",
+  "Dar alan/kapalı mahal girişlerinde kullanılan güvenlik ekipmanları"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve titiz,",
+  "Sorumluluk sahibi,",
+  "Sabırlı ve tedbirli,",
+  "Teknik ölçüm cihazlarını doğru kullanabilen,",
+  "İş sağlığı ve güvenliği kurallarına duyarlı,",
+  "Ekip çalışmasına uyumlu,",
+  "Stresli ve riskli ortamlarda sağlıklı karar verebilen,",
+  "Rapor ve form düzenleyebilecek düzeyde okuryazar"
+ ],
+ "calisma_ortami": "Gaz ölçüm destek personeli genellikle gemi geri dönüşüm (söküm) tesisleri, tersaneler, petrol-kimya tesisleri ve depolama tankı bulunan sanayi işletmelerinde çalışır. Görevini yerine getirirken çoğunlukla kapalı, dar veya tehlikeli kabul edilen mahallerde (tank, depo, gemi bölmesi vb.) bulunur; bir kısım çalışma da açık alanda saha dolaşımı şeklinde gerçekleşir. Ortamda patlayıcı, yanıcı veya zehirli gaz bulunma riski, dar alanda çalışma, yükseklik ve bazen gürültü/toz gibi fiziksel koşullar söz konusu olabileceğinden iş sağlığı ve güvenliği kurallarına titizlikle uyulması gerekir.\n\nÇalışma gaz ölçüm uzmanına karşı sorumlu olarak yürütülür; görevi sırasında saha sorumluları, vardiya amirleri ve diğer çalışanlarla sürekli iletişim halindedir. İşin niteliğine ve işletmenin çalışma düzenine göre vardiyalı çalışma söz konusu olabilir.",
+ "egitim": {
+  "verildigi_yerler": "Bu mesleğe yönelik örgün eğitimde (meslek lisesi alanı/dalı veya mesleki eğitim merkezi programı olarak) ayrı ve standart bir program bulunmamaktadır. Meslek, genellikle en az lise mezunu olan kişilerin ilgili işletmede (başta gemi geri dönüşüm ve tersane tesisleri) gaz ölçüm uzmanı gözetiminde işbaşı eğitimiyle; ayrıca İŞKUR, Halk Eğitim Merkezleri veya özel eğitim kurumlarının açtığı iş sağlığı-güvenliği ve gaz ölçüm cihazları kullanımına yönelik kurslarla kazanılmaktadır.",
+  "giris_kosullari": [
+   "En az ortaöğretim (lise ve dengi okul) mezunu olmak",
+   "Sağlık durumunun mesleğin gerektirdiği şartlara (dar alanda ve tehlikeli ortamlarda çalışmaya) uygun olduğunu sağlık raporuyla belgelemek",
+   "18 yaşını doldurmuş olmak",
+   "İşe alım sürecinde işletmenin belirlediği diğer koşulları (mülakat, deneme süresi vb.) karşılamak"
+  ],
+  "sure_ve_icerik": "Resmi olarak tanımlanmış standart bir çıraklık veya meslek lisesi eğitim süresi yoktur. Eğitim süresi işyerine ve katılınan kursa göre değişmekle birlikte genellikle kısa süreli olup; iş sağlığı ve güvenliği esasları, kapalı/tehlikeli mahallerde çalışma kuralları, gaz ölçüm cihazlarının kullanımı ve bakımı, ölçüm sonuçlarının yorumlanması ile form ve kayıt düzenleme konularını kapsayan teorik eğitimin yanı sıra gaz ölçüm uzmanı gözetiminde uygulamalı çalışmayı içerir.",
+  "belge": "Mesleğe özgü, ulusal düzeyde zorunlu tek bir diploma veya sertifika bulunmamaktadır. Katılınan kurum/kurs tarafından verilen katılım sertifikası ile işyerinin kendi değerlendirmesine göre düzenlediği görevlendirme/yetkilendirme belgesi yaygın olarak kullanılır. Bazı işletmelerde ayrıca iş sağlığı ve güvenliği ile dar alanda çalışmaya ilişkin ek eğitim belgeleri de istenebilir."
+ },
+ "calisma_alanlari": "Gaz ölçüm destek personeli başta gemi geri dönüşüm (söküm) tesisleri ve tersaneler olmak üzere; petrol, kimya ve depolama tankı bulunan sanayi işletmelerinde, bakım-onarım faaliyeti yürüten firmalarda istihdam edilmektedir. Meslek dar bir alanda tanımlanmış olup çalışma olanakları büyük ölçüde bu tesislerin yoğunlaştığı bölgelerdeki (özellikle gemi geri dönüşüm tesislerinin bulunduğu sanayi bölgeleri gibi) sektörel faaliyet hacmine bağlıdır. İş bulma olanakları, ilgili sektörün (gemi söküm, tersane, tank/depolama tesisleri) iş hacmi ve mevzuat gereklilikleriyle doğrudan ilişkilidir.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğe özgü, 3308 sayılı Mesleki Eğitim Kanunu kapsamında yürütülen resmi bir çıraklık/mesleki eğitim programı bulunmadığından, eğitim veya deneme sürecinde kazanç genellikle işveren ile yapılan anlaşmaya bağlıdır; bu dönemde ödenen ücret çoğunlukla asgari ücret düzeyinde olmaktadır.",
+  "egitim_sonrasi": [
+   "Göreve yeni başlayanların kazancı genellikle asgari ücret düzeyindedir.",
+   "Deneyim, işletmenin büyüklüğü, görev yapılan sektör (gemi geri dönüşümü, tersane, sanayi tesisi vb.) ve çalışma koşullarının riskliliğine göre kazanç değişebilmektedir.",
+   "Çalışma özel sektörde ağırlıklı olarak işveren ile çalışan arasındaki karşılıklı anlaşmaya göre belirlenmektedir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Lise mezuniyeti sonrası, sınavla girilebilen iş sağlığı ve güvenliği, çevre teknolojileri veya denizcilik/gemi ile ilgili ön lisans ve lisans programlarına yönelebilirler. Ayrıca iş sağlığı ve güvenliği, gaz ölçüm ve ilgili konularda düzenlenen sertifika programlarına katılarak mesleki bilgi ve becerilerini geliştirebilirler.",
+  "is_hayatinda": "Deneyim ve bilgi birikimini artıran, gerekli yeterlilik ve sertifikaları tamamlayan personel, işletme bünyesinde daha üst bir görev olan gaz ölçüm uzmanlığına veya saha/ekip sorumluluğu gibi görevlere yükselebilir."
+ },
+ "benzer_meslekler": [
+  "Gaz Ölçüm Uzmanı",
+  "Gemi Geri Dönüşüm İşçisi",
+  "Tersane Yardımcı İşçisi",
+  "Gemi Onarım İşçisi",
+  "Gemi Montaj ve Onarım Elemanı"
+ ],
+ "ek_bilgiler": "Bu meslek, özellikle gemi geri dönüşüm (söküm) tesisleri ve benzeri tehlikeli mahaller içeren işletmelerde, sıcak veya soğuk çalışma öncesinde ortamda patlayıcı, yanıcı veya zehirli gaz bulunup bulunmadığının belirlenmesi amacıyla istihdam edilir ve iş sağlığı güvenliği açısından kritik önem taşır. Çalışma koşullarının niteliği nedeniyle görev, tehlikeli veya çok tehlikeli işler kapsamında değerlendirilebilir; bu durumda periyodik sağlık muayenesi ve düzenli iş güvenliği eğitimi gerekliliği söz konusu olabilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, ilgili alanda tanımlanmışsa istihdamda tercih sebebi olabilir.",
+ "gorevler": [
+  "Yönetmelik esaslarına uygun, düzenli ve gaz ölçüm uzmanına karşı sorumlu olarak ölçüm yapar ve ölçüm yaptığı mahallerin periyodik gaz ölçüm takip ve kontrol formunu, formatına uygun olarak düzenler.",
+  "Kapalı veya tehlikeli mahallerin ölçüm cihazlarını kullanarak emniyetli giriş, sıcak veya soğuk çalışmaya uygunluğunun devamlılığını belirler.",
+  "Düzenlemiş olduğu belgelerin bir nüshasını ölçümün yapılmasını müteakip sorumlu kişiye verir ve bu belgeleri GAS programına yükler.",
+  "Kullandığı ölçüm cihazlarının üreticisine, yetkili temsilcisine veya ilgili konuda akredite edilmiş kurum ya da kuruluşlara genel bakım ve kalibrasyonunu veya doğrulama testini yaptırır ve bu işlemlere ait kayıtları tutar.",
+  "Kullandığı ölçüm cihazlarının günlük bakım tutumlarını ve doğrulama testlerini düzenli olarak yapar.",
+  "Düzenlemiş olduğu bütün belgelerin nüshasını gaz ölçüm uzmanına verir ve fiziksel olarak muhafaza eder.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T00:51:03",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 8020
+  }
+ }
+}

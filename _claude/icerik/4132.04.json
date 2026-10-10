@@ -1,0 +1,72 @@
+{
+ "gorevler": [
+  "Makineye kart paketini veya manyetik makara ya da şeridi yerleştirir.",
+  "Makineyi çalıştırır ve makine üzerinde gerekli ayarları yapar.",
+  "Makinenin klavyesi üzerinde bulunan tuşlara basarak kayıtlarda basılı bilgileri kart üzerine deler ya da şerit veya manyetik baskıya verileri kaydeder.",
+  "Yapılan işlemin doğruluğunu kontrol eder.",
+  "Yanlış varsa düzeltir.",
+  "Kartların delinmesi sırasında üzerlerine tanıtma bilgisi yazan veya açılan deliklerin doğruluğunu tasdik eden bir makineyi çalıştırır.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "arac_gerec": [
+  "Kart delme makinesi (keypunch)",
+  "Şerit delme makinesi",
+  "Delikli kart (punch card) paketleri",
+  "Manyetik makara/şerit",
+  "Kart okuyucu",
+  "Doğrulama (verifier) makinesi",
+  "Tasdik/kontrol makinesi",
+  "Klavye",
+  "Kart saklama ve taşıma kutuları"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve titiz,",
+  "El ve göz koordinasyonu gelişmiş,",
+  "Hızlı ve doğru tuşlama yapabilen,",
+  "Düzenli ve sistemli çalışabilen,",
+  "Sabırlı ve tekrarlı işlerde dikkatini sürdürebilen,",
+  "Sorumluluk sahibi,",
+  "Rakam ve sembollerle çalışmaya yatkın"
+ ],
+ "calisma_ortami": "Kart ve Şerit Delme Makinesi Operatörü, kapalı mekânda, büro veya veri işlem merkezi ortamında, masa başında ve makinenin klavyesi önünde oturarak çalışır. Çalışma sırasında makinelerin çıkardığı mekanik sesler nedeniyle belirli düzeyde gürültüye maruz kalınabilir; uzun süre aynı pozisyonda oturarak tekrarlı el ve parmak hareketleriyle çalışmak gerekir.\n\nÇalışma saatleri genellikle gündüz mesaisi şeklindedir; ancak yoğun veri işleme dönemlerinde bazı kurumlarda vardiyalı çalışma söz konusu olabilir. Meslek elemanı, çalıştığı birimdeki diğer veri işlem personeli, amirleri ve verilerin kaynağı olan diğer birimlerle iş birliği içinde çalışır.",
+ "egitim": {
+  "verildigi_yerler": "Bu meslek için örgün eğitim kurumlarında ayrı bir program bulunmamaktadır. Meslek, delikli kart (punch card) teknolojisine dayanmakta olup bu teknoloji günümüz bilgisayar sistemlerinin yaygınlaşmasıyla büyük ölçüde terk edilmiştir. Geçmişte bu meslek, işbaşında usta yanında yetişme veya kurum içi kısa süreli eğitimlerle kazanılmıştır; günümüzde benzer içerikli yapılandırılmış bir kurs veya okul programına rastlanmamaktadır.",
+  "giris_kosullari": [
+   "İlköğretim mezunu olmak",
+   "Klavye kullanma becerisine sahip olmak",
+   "Dikkat ve el becerisi gerektiren işlere yatkın olmak"
+  ],
+  "sure_ve_icerik": "Mesleğe özgü belirli bir süre ve müfredatla tanımlanmış resmî bir eğitim programı bulunmamaktadır. Geçmişte bu meslek, kurum bünyesinde kısa süreli işbaşı eğitimleriyle, makinenin kullanımı, kart/şerit yerleştirme, tuşlama ve kontrol işlemlerinin öğretilmesi şeklinde kazandırılmıştır.",
+  "belge": "Örgün bir eğitim sonunda diploma veya sertifika verilmemektedir; kurum içi eğitim sonunda bazı işyerlerince katılım belgesi düzenlenmiş olabilir."
+ },
+ "calisma_alanlari": "Kart ve Şerit Delme Makinesi Operatörü, geçmişte kamu kurumlarının ve büyük özel sektör işletmelerinin (bankalar, sigorta şirketleri, istatistik ve sayım kuruluşları gibi) veri işlem merkezlerinde istihdam edilmekteydi. Delikli kart teknolojisi, günümüz bilgisayar ve yazılım sistemlerinin yaygınlaşmasıyla büyük ölçüde terk edilmiş olup, bu makinelerin üretimi ve kullanımı neredeyse tamamen sona ermiştir.\n\nBu nedenle meslek fiilen güncelliğini yitirmiş durumdadır; yerini doğrudan bilgisayara veri girişi yapan \"Veri Giriş Elemanı\" ve \"Bilgisayar İşletmeni\" gibi meslekler almıştır. Günümüzde bu meslekte iş bulma olanağı son derece sınırlıdır; yalnızca eski sistemlerin arşivlendiği veya özel amaçlı bazı kurumsal ortamlarda istisnai olarak ihtiyaç duyulabilir.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğe özgü örgün bir eğitim programı bulunmadığından eğitim süresince ayrı bir kazanç söz konusu değildir; meslek genellikle işbaşında, ücretli çalışma karşılığında öğrenilmiştir.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında çalışanlar, tabi oldukları statüye göre (memur ise 657 sayılı Devlet Memurları Kanunu, işçi ise toplu iş sözleşmesi hükümlerine göre) ücret alır.",
+   "Özel sektörde çalışanların kazancı, işyerinin büyüklüğüne, çalışanın deneyimine ve sektörün ücret düzeyine göre değişmekte olup yeni başlayanlarda genellikle asgari ücret düzeyindedir.",
+   "Meslek günümüzde çok sınırlı istihdam alanına sahip olduğundan güncel kazanç verisi bulunmamaktadır."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğe özgü kademeli bir eğitim/ilerleme programı bulunmamaktadır. Kişiler, bilgisayar kullanımı ve veri girişi alanında açılan kurslara katılarak veya kendi kendine gelişerek güncel veri giriş ve bilgi işlem mesleklerine geçiş yapabilir.",
+  "is_hayatinda": "Deneyim kazanan kişiler, işyerlerinde veri giriş sorumlusu, bilgisayar operatörü veya veri işlem biriminde kıdemli pozisyonlara yükselebilir."
+ },
+ "benzer_meslekler": [
+  "Kart Delme Makinesi Operatörü",
+  "Diğer Kart ve Şerit Delme Makinesi Operatörleri",
+  "Veri Giriş Elemanı",
+  "Veri Giriş Kontrol İşletmeni",
+  "Bilgisayar İşletmeni",
+  "Daktilograf"
+ ],
+ "ek_bilgiler": "Bu meslek, delikli kart (punch card) ve manyetik şerit teknolojisine dayanmaktadır. Bilgisayar teknolojilerinin gelişmesiyle bu teknoloji büyük ölçüde terk edilmiş olup, meslek fiilen güncelliğini yitirmiştir. Meslek seçimi yapılırken bu durumun ve günümüzdeki istihdam olanaklarının sınırlılığının göz önünde bulundurulması, bunun yerine güncel veri giriş ve bilgisayar işletmenliği gibi mesleklerin değerlendirilmesi önerilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T15:37:26",
+  "usage": {
+   "input_tokens": 4,
+   "output_tokens": 8584
+  }
+ }
+}

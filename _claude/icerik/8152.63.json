@@ -1,0 +1,79 @@
+{
+ "arac_gerec": [
+  "Atkılı örme makinesi (düz veya dairesel örme tezgâhı)",
+  "İplik kopsları, bobinleri ve makaraları",
+  "Desen/program kartları veya bilgisayarlı kontrol ünitesi",
+  "İğne, platin ve örme elemanları",
+  "Kalite kontrol araçları (büyüteç, cetvel, mukayese kartelası)",
+  "Yağlama ve bakım malzemeleri, basit el aletleri",
+  "Koruyucu eldiven ve kişisel koruyucu donanım",
+  "Üretim takip formları ve iş emirleri",
+  "Makas, cımbız gibi küçük el aletleri",
+  "Hata uyarı sistemleri ve sensörler"
+ ],
+ "genel_ozellikler": [
+  "El ve göz koordinasyonuna sahip,",
+  "Dikkatli ve titiz,",
+  "Makine ve tekniğe ilgili,",
+  "Renk ve deseni ayırt edebilen,",
+  "Sorumluluk sahibi,",
+  "Vardiyalı ve ayakta çalışmaya uygun fiziksel yapıya sahip,",
+  "Takım çalışmasına uyumlu,",
+  "Problem çözme becerisine sahip"
+ ],
+ "calisma_ortami": "Atkılı örme operatörleri, genellikle tekstil ve konfeksiyon fabrikalarının örme atölyelerinde, kapalı mekânlarda çalışır. Çalışma ortamı makine gürültüsü, iplik tozu ve zaman zaman yüksek sıcaklık gibi fiziksel koşullar içerebilir; görev süresince büyük ölçüde ayakta durulur ve makineler arasında hareket edilir. İşin niteliğine göre vardiyalı çalışma söz konusu olabilir.\n\nÇalışma sırasında makine, iplik ve üretim parametreleri ile ilgilenen operatör; bakım-onarım personeli, kalite kontrol elemanları, vardiya amiri/formen ve diğer makine operatörleri ile sürekli iletişim halindedir.",
+ "calisma_alanlari": "Atkılı örme operatörleri; triko, çorap, kumaş ve hazır giyim üretimi yapan tekstil fabrikaları ile örme atölyelerinde istihdam edilebilir. Mesleğin kamu kurumlarında istihdam olanağı bulunmamaktadır; çalışma alanı büyük ölçüde özel sektördeki üretim tesisleridir. Tekstil sanayinin yoğun olduğu illerde iş bulma olanağı daha fazladır.",
+ "gorevler": [
+  "İş sağlığı ve güvenliği önlemlerini alır",
+  "Kalite yönetim sistemi dokümanlarına uygun çalışır",
+  "İş organizasyonu yapar",
+  "Üretim öncesi hazırlıkları tamamlar",
+  "Makineleri üretime hazırlar",
+  "Makinenin üretimini takip eder",
+  "Makineyi boşaltır",
+  "Ürünün görsel kontrolünü yapar",
+  "Sorumluluğundaki makineleri takip eder",
+  "Mesleki gelişime yönelik faaliyetleri yürütür"
+ ],
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi, Halk Eğitim Merkezleri bünyesinde açılan tekstil/örme teknolojisi alanındaki mesleki eğitim kurslarında ve mesleki eğitim merkezlerinde (çıraklık eğitimi kapsamında) verilmektedir. Ayrıca mesleki ve teknik Anadolu liselerinin tekstil teknolojisi alanı da bu mesleğe yönelik temel bilgi ve beceri kazandırabilir. Meslek, çoğunlukla işyerlerinde işbaşında usta yanında veya işletme içi eğitimlerle de öğrenilmektedir.",
+  "giris_kosullari": [
+   "İlköğretim mezunu olmak",
+   "Belirli bir yaş ve sağlık koşuluna sahip olmak (işyerinin ve kursun şartlarına göre değişebilir)",
+   "18 yaşından küçükler için veli izni gerekebilir",
+   "Mesleki eğitim merkezlerine (çıraklık eğitimi) kayıt için ilgili mevzuatta belirtilen yaş ve eğitim koşullarını taşımak"
+  ],
+  "sure_ve_icerik": "Eğitim süresi ve içeriği, eğitimin verildiği kuruma göre değişmektedir. Genel olarak iplik özellikleri, örme makinelerinin yapısı ve çalışma prensipleri, makine ayarları, desen/program uygulamaları, iş sağlığı ve güvenliği, kalite kontrol esasları ve temel bakım bilgileri konularında bilgi ve uygulama verilmektedir. İşyerinde usta yanında eğitimde süre, kişinin öğrenme hızına ve işletmenin ihtiyacına göre değişebilir.",
+  "belge": "Kurs veya çıraklık eğitimini tamamlayanlara \"Kurs Bitirme Belgesi\" veya ilgili mevzuata uygun çıraklık/kalfalık belgesi verilmektedir. Mesleki Yeterlilik Kurumu (MYK) Mesleki Yeterlilik Belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Halk eğitim merkezi veya kurs kapsamında eğitim alınması durumunda genellikle bir kazanç söz konusu değildir. İşyerinde usta yanında veya işletme bünyesinde eğitim alınması halinde ise asgari ücret düzeyinde bir kazanç sağlanabilir.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanların kazancı genellikle asgari ücret düzeyindedir.",
+   "Deneyim, bilgi birikimi, kullanılan makine teknolojisi ve işletmenin büyüklüğüne bağlı olarak ücret düzeyi artabilir.",
+   "Ücretler, işveren ile çalışan arasında yapılan anlaşmaya ve varsa toplu iş sözleşmesi hükümlerine göre belirlenir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "İşletmenin yapısına ve büyüklüğüne göre, farklı makine tiplerinde ve üretim süreçlerinde uzmanlaşmaya yönelik hizmet içi eğitim programları düzenlenebilmektedir. Deneyim arttıkça daha karmaşık makinelerde ve otomasyon sistemlerinde çalışma fırsatı doğabilir.",
+  "is_hayatinda": "Deneyim kazanan Atkılı Örme Operatörü, vardiya amiri, usta başı, formen veya üretim şefi gibi görevlere yükselebilir. Yeterli birikim ve sermayeye sahip olanlar kendi işyerlerini açabilir."
+ },
+ "benzer_meslekler": [
+  "Örme Operatörü",
+  "Örgü Makinası Operatörü",
+  "Örgü Makinesi Operatörü (Bilgisayarlı)/Trikotaj",
+  "Çözgülü Örme Makinesi Operatörü",
+  "Kompleci (Yuvarlak Örme Makinesi Operatörü)",
+  "Trikotajcı/Endüstriyel Örmeci",
+  "Çorap Örme Makinesi Operatörü"
+ ],
+ "ek_bilgiler": "Tekstil sektöründe bilgisayar kontrollü örme makinelerinin yaygınlaşması nedeniyle temel bilgisayar ve otomasyon bilgisi, bu meslekte istihdam açısından avantaj sağlayabilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T14:04:04",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 4714
+  }
+ }
+}

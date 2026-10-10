@@ -1,0 +1,75 @@
+{
+ "arac_gerec": [
+  "Radar test ve ölçüm cihazları (sinyal jeneratörü, spektrum analizörü vb.)",
+  "Osiloskop ve multimetre gibi elektronik ölçü aletleri",
+  "Lehim istasyonu ve havya takımı",
+  "Çeşitli el takımları (tornavida, pense, anahtar takımları)",
+  "Kalibrasyon cihazları",
+  "Devre kartı arıza tespit ve test cihazları",
+  "Güç kaynakları",
+  "Kablo, konnektör ve anten test ekipmanları",
+  "Bilgisayar ve bakım/arıza takip yazılımları",
+  "Yedek parça ve malzeme stok takip sistemleri",
+  "Teknik şema, devre planı ve kullanım kılavuzları",
+  "Kişisel koruyucu donanım"
+ ],
+ "benzer_meslekler": [
+  "Savunma Elektronik Sistemleri Teknisyeni",
+  "Uçak Elektroniği Teknisyeni",
+  "Uçak Elektrik ve Elektronik Teknikeri",
+  "Elektronik Teknisyeni",
+  "Diğer Elektronik Teknisyenleri",
+  "Endüstriyel Bakım Onarım Teknisyeni/Endüstriyel Elektronik Teknisyeni"
+ ],
+ "calisma_alanlari": "Radar Bakım Onarım Teknisyenleri başlıca savunma sanayii firmalarında, Türk Silahlı Kuvvetlerine bağlı birim ve tesislerde, Devlet Hava Meydanları İşletmesi (DHMİ) gibi hava trafik kontrol hizmeti veren kamu kurumlarında, liman ve deniz trafiği izleme merkezlerinde, Meteoroloji Genel Müdürlüğü gibi radar kullanan kamu kuruluşlarında ve radar sistemleri üreten veya bakımını yapan özel sektör firmalarında istihdam edilmektedir.\n\nMesleğin istihdam alanı, genel elektronik teknisyenliğine kıyasla daha sınırlı ve belirli kurum/kuruluşlarla ilişkili bir niş oluşturmaktadır; buna karşılık bu alanlarda uzmanlaşmış teknisyenlere ihtiyaç duyulmaktadır.",
+ "calisma_ortami": "Radar Bakım Onarım Teknisyenleri genellikle savunma sanayii, havacılık, denizcilik ve kamu kurumlarına ait bakım atölyelerinde, laboratuvarlarda veya radar sistemlerinin kurulu olduğu saha ve istasyonlarda çalışır. Çalışma ortamı kapalı alanlarda (atölye, laboratuvar) olabileceği gibi, arıza giderme ve bakım çalışmaları için açık havada, yüksekte veya radar kulelerinde de sürdürülebilir. İş, elektronik devre ve sistemlerle yakın temas gerektirir; dikkatli ve kurallara uygun çalışılmadığında elektrik çarpması ve elektromanyetik yayılıma maruz kalma gibi riskler söz konusu olabilir.\n\nÇalışma saatleri genellikle düzenlidir; ancak arıza bildirimlerine tanımlanan sürede müdahale edilmesi gerekliliği nedeniyle vardiyalı çalışma veya mesai dışında göreve çağrılma durumu ortaya çıkabilir. Meslek mensubu; amirleri, mühendisler, diğer teknisyenler ve bazı durumlarda yedek parça tedarikçileriyle sürekli iletişim halindedir. Çalışılan kurumun niteliğine göre (askeri tesis, havalimanı vb.) güvenlik protokollerine uyma zorunluluğu bulunabilir.",
+ "egitim": {
+  "verildigi_yerler": "Bu mesleğe özgü bağımsız bir meslek lisesi alanı/dalı bulunmamaktadır. Meslekle ilgili temel elektronik bilgi ve becerileri, mesleki ve teknik Anadolu liselerinin elektrik-elektronik teknolojisi alanı ile ilgili dallarında edinmek mümkündür. Radara özgü bilgi ve beceriler ise genellikle bu alanda istihdam sağlayan kurum ve kuruluşlarda (savunma sanayii firmaları, ilgili kamu kurumları) işbaşında, usta-çırak ilişkisi içinde ve kurum içi eğitimlerle kazandırılır. İlgili üniversitelerin elektronik teknolojisi veya elektrik-elektronik teknikerliği gibi ön lisans programları ile elektrik-elektronik mühendisliği gibi lisans programları da bu mesleğe hazırlayıcı nitelikte olabilir.",
+  "giris_kosullari": [
+   "Ortaokulu tamamlamış olmak,",
+   "Mesleki ve teknik Anadolu liselerinin ilgili alanına kayıt için okul türü ve alan/dal giriş koşullarını taşımak,",
+   "Kurum içi eğitimlere katılabilmek için ilgili kurumun işe alım şartlarını (genellikle en az lise mezuniyeti) taşımak."
+  ],
+  "sure_ve_icerik": "Mesleki ve teknik Anadolu liselerinde eğitim süresi 4 yıldır; 9. sınıfta ortak genel kültür dersleri verilir, 10. sınıfta alan ortak yeterlikleri kazandırılır, 11. ve 12. sınıflarda ise seçilen dala ait teorik ve uygulamalı dersler verilir. Radar sistemlerine özgü bilgi ve beceriler bu örgün eğitimin dışında, istihdam edilen kurum/kuruluş tarafından verilen hizmet içi eğitimler, kurslar ve işbaşında usta yanında uygulamalı çalışmalar yoluyla kazandırılır. İsteyenler, ilgili ön lisans veya lisans programlarını tamamlayarak da mesleğe hazırlanabilir.",
+  "belge": "Mesleki ve teknik Anadolu lisesi diploması; tamamlanması halinde ilgili ön lisans veya lisans diploması; ayrıca çalışılan kurum tarafından verilen kurum içi eğitim/sertifika belgeleri."
+ },
+ "ek_bilgiler": "Bu meslek büyük ölçüde savunma sanayii, havacılık ve kamu kurumlarına bağlı radar sistemlerinin bulunduğu kuruluşlarda istihdam edilmektedir. Çalışılacak kuruma göre güvenlik soruşturması, askerlik hizmetinin tamamlanmış olması gibi ek şartlar aranabilir. Radar teknolojisindeki hızlı gelişmeler nedeniyle mesleki bilgi ve becerilerin sürekli güncellenmesi, mesleğin önemli bir gereğidir.",
+ "genel_ozellikler": [
+  "Elektronik ve elektrik alanına ilgili,",
+  "Analitik düşünme yeteneğine sahip,",
+  "Dikkatli ve sabırlı,",
+  "El ve göz koordinasyonu iyi,",
+  "Sorumluluk sahibi ve güvenilir,",
+  "Takım çalışmasına uyumlu,",
+  "Teknik şema ve kılavuzları okuyup anlayabilen,",
+  "Yeni teknolojileri öğrenmeye açık."
+ ],
+ "gorevler": [
+  "Arıza bildirimlerinde tanımlanan sürede arızalara müdahale eder.",
+  "Yapılan tüm bakım/onarım işlemlerinin tanımlanan prosedür dahilinde kaydını tutar.",
+  "Fabrika seviyesinde bakım/onarım gerektiren donanımı sevke hazırlar.",
+  "Dışarıda tamir ettirilen donanımın kabul ve montajını yapar.",
+  "Malzeme/yedek parça ihtiyacını tespit eder, amirine bildirir.",
+  "Yedek malzeme planlaması yapar, asgari stok seviyesini belirler ve tedarik için takip ve koordinasyonu sağlar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleki ve teknik Anadolu liselerinin ilgili alanından mezun olanlar, YKS Kılavuzunda belirtilen ve alanın devamı niteliğindeki elektronik teknolojisi veya elektrik-elektronik teknikerliği gibi ön lisans programlarına ek puan avantajıyla yerleşebilir; başarılı oldukları takdirde elektrik-elektronik mühendisliği gibi lisans programlarına da yönelebilirler.",
+  "is_hayatinda": "Deneyim ve bilgi birikimini artıran teknisyenler, çalıştıkları kurumda kıdemli teknisyen, ekip/takım lideri, usta başı veya bakım-onarım şefi gibi görevlere yükselebilir; ilgili ön lisans/lisans eğitimini tamamlayanlar teknikerlik veya mühendislik kadrolarına geçiş yapabilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Mesleğe özgü örgün bir çıraklık ücreti düzenlemesi bulunmamaktadır; mesleki ve teknik eğitim sürecinde işletmelerde uygulamalı eğitim gören öğrencilere 3308 sayılı Mesleki Eğitim Kanunu kapsamında asgari ücretin belirli bir yüzdesinden az olmamak üzere ücret ödenir. Kurum içi eğitim döneminde kazanç, çalışılan kurumun ücret politikasına göre değişir.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında (örneğin Türk Silahlı Kuvvetlerine bağlı birimler, DHMİ gibi kuruluşlar) ilgili personel mevzuatına (657 sayılı Kanun veya toplu iş sözleşmesi hükümlerine) göre belirlenen maaş ve ek ödemeler alınır.",
+   "Özel sektördeki savunma sanayii ve ilgili firmalarda ücret; deneyim, uzmanlık düzeyi ve işletmenin büyüklüğüne göre değişmekte olup yeni başlayanlar için genellikle asgari ücret düzeyinde olabilir, deneyim arttıkça yükselebilir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T09:18:05",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 7885
+  }
+ }
+}

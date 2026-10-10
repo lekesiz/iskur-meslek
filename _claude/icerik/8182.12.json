@@ -1,0 +1,77 @@
+{
+ "gorevler": [
+  "İş sağlığı ve güvenliği ile çevresel önlemleri alarak iş organizasyonu yapar.",
+  "Kazanı yakmadan önce yağ seviyesini ve tesisat sızıntılarını kontrol eder.",
+  "Kazanın ateşleme ve sıcaklık parametrelerini sisteme göre ayarlar.",
+  "Sirkülasyon pompalarının ve emniyet valflerinin çalışmasını izler.",
+  "Yağ analizlerini takip eder ve yakıt brülör ayarlarını denetler.",
+  "Arıza veya aşırı basınç durumunda acil kapatma prosedürlerini uygular.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "arac_gerec": [
+  "Kızgın yağ kazanı ve ısıtma devresi",
+  "Brülör (sıvı/gaz yakıtlı sistemlerde)",
+  "Katı yakıt besleme ve ateşleme ekipmanı",
+  "Sirkülasyon pompaları",
+  "Emniyet valfleri",
+  "Sıcaklık ve basınç göstergeleri (termometre, manometre)",
+  "Otomasyon/kontrol paneli",
+  "Yağ seviye göstergesi",
+  "Yakıt depolama ve besleme hattı",
+  "Yangın söndürme ekipmanı",
+  "Kişisel koruyucu donanım (eldiven, gözlük, baret, iş elbisesi)",
+  "El aletleri (anahtar takımı, tornavida, pense)",
+  "Yağdanlık",
+  "Temizlik ve bakım malzemeleri"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve sorumluluk sahibi,",
+  "Fiziksel olarak sağlıklı ve dayanıklı,",
+  "Teknik konulara ilgili ve makine mantığını kavrayabilen,",
+  "Hızlı ve doğru karar verebilen,",
+  "Acil durumlarda sakin kalabilen,",
+  "Takım çalışmasına uyumlu,",
+  "Talimatlara ve iş güvenliği kurallarına titizlikle uyan"
+ ],
+ "calisma_ortami": "Kızgın Yağ Kazanı Operatörü, genellikle fabrika ve sanayi tesislerinin kazan dairelerinde, kapalı ve sıcak bir ortamda çalışır. Çalışma sırasında yüksek sıcaklık, gürültü, yakıt/yağ kokusu gibi koşullara maruz kalınabilir; kazanın niteliği nedeniyle yanma, yanık ve basınç kaynaklı kazalara karşı iş sağlığı ve güvenliği kurallarına titizlikle uyulması gerekir. Çalışma genellikle ayakta ve hareketli geçer, işletmenin üretim düzenine göre vardiyalı çalışma söz konusu olabilir.\n\nGörevini yerine getirirken işletme mühendisleri, bakım-onarım personeli, diğer operatörler ve vardiya amiriyle sürekli iletişim ve iş birliği içinde bulunur.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi çoğunlukla işyerlerinde işbaşında, usta-çırak ilişkisi içinde kazanılmaktadır. Ayrıca Halk Eğitim Merkezleri ve İŞKUR tarafından açılan kazan işletmeciliği/ateşçilik konulu mesleki eğitim kurslarında da bu mesleğe yönelik eğitim verilebilmektedir. Mesleki ve teknik eğitimdeki ilgili alan ve dallar (tesisat teknolojisi ve iklimlendirme gibi) da bu mesleğe temel oluşturabilir.",
+  "giris_kosullari": [
+   "İlköğretim mezunu olmak",
+   "18 yaşından küçükler için veli izni gerekmektedir",
+   "Açılan kursun programına göre belirli bir yaş ve sağlık şartı aranabilir"
+  ],
+  "sure_ve_icerik": "Kursların süresi ve içeriği düzenleyen kuruma göre değişmekle birlikte genel olarak; kazan yapıları ve çalışma prensipleri, yakıt türleri (katı, sıvı, gaz) ve özellikleri, yanma ve ısı bilgisi, brülör ve kontrol/otomasyon sistemlerinin çalışması, kazan bakımı ve basit arıza giderme, iş sağlığı ve güvenliği kuralları teorik ve uygulamalı olarak verilir.",
+  "belge": "Eğitimi tamamlayanlara genellikle \"Kurs Bitirme Belgesi\" verilmektedir. Çalışılan işin niteliğine göre Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Kızgın yağ kazanları; tekstil, gıda, kimya, plastik, kağıt ve benzeri ısıl işlem gerektiren üretim süreçlerine sahip sanayi tesislerinde yaygın olarak kullanılmaktadır. Bu nedenle Kızgın Yağ Kazanı Operatörleri, bu sektörlere ait fabrikaların ve sanayi tesislerinin kazan dairelerinde istihdam edilmektedir. Sanayileşmenin yoğun olduğu organize sanayi bölgeleri ve büyük üretim tesislerinin bulunduğu şehirlerde iş bulma olanağı daha fazladır.",
+ "kazanc": {
+  "egitim_suresince": "Eğitim işbaşında usta yanında veya kurs şeklinde alınıyorsa genellikle herhangi bir kazanç söz konusu değildir; işyerinde çalışarak mesleği öğrenenler ise asgari ücret düzeyinde bir gelir elde edebilir.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Deneyim, bilgi birikimi ve çalışılan işletmenin büyüklüğüne göre ücret artış gösterebilir.",
+   "Kamu kurumlarında işçi statüsünde çalışanların ücretleri ilgili toplu iş sözleşmesi hükümlerine göre belirlenir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğin örgün bir ilerleme basamağı bulunmamaktadır; ancak kazan teknolojileri, otomasyon sistemleri ve iş sağlığı güvenliği konularında açılan sertifika programlarına katılarak bilgi ve beceriler güncellenebilir.",
+  "is_hayatinda": "Deneyim kazanan operatörler kazan dairesi sorumlusu veya vardiya amiri gibi görevlere yükselebilir; bilgi ve becerisini geliştiren operatörler bakım-onarım ekiplerinde veya tesis işletme sorumluluğu gerektiren pozisyonlarda görev alabilir."
+ },
+ "benzer_meslekler": [
+  "Atık Isı Kazanı Operatörü",
+  "Buhar Kazanı Operatörü/Kazan Ateşçisi",
+  "Kalorifer Ateşçisi",
+  "Doğal Gaz Kalorifer Ateşçisi",
+  "Sıcak Su Kazanı Operatörü",
+  "Isıtma ve Havalandırma Cihazı Operatörü"
+ ],
+ "ek_bilgiler": "Kızgın yağ kazanlarının yüksek sıcaklıkta ve basınç altında çalışması nedeniyle, bu mesleği yürütenlerin iş sağlığı ve güvenliği eğitimlerini düzenli olarak almaları ve işyerlerinde yapılan periyodik sağlık kontrollerine tabi olmaları önem taşımaktadır.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T17:08:57",
+  "usage": {
+   "input_tokens": 4,
+   "output_tokens": 8890
+  }
+ }
+}

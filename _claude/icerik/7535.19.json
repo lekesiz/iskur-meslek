@@ -1,0 +1,75 @@
+{
+ "arac_gerec": [
+  "Tabaklama kazanları (fıçı/pervane tipi döner kazanlar)",
+  "Tabaklama eriyiği hazırlama ve depolama tankları",
+  "Karıştırma/çalkalama makineleri",
+  "Tabaklama maddeleri (krom tuzları, bitkisel tanenler, sülfirik asit vb. kimyasallar)",
+  "Kireç, tuz ve diğer yardımcı kimyasal maddeler",
+  "Numune kaynatma kabı ve kontrol ekipmanları",
+  "Deri taşıma arabaları ve varil/fıçılar",
+  "Jilet, bıçak gibi kesme aletleri",
+  "Koruyucu eldiven, önlük, çizme",
+  "Maske ve koruyucu gözlük",
+  "Ölçüm aletleri (pH ölçer, yoğunluk ölçer vb.)"
+ ],
+ "genel_ozellikler": [
+  "Kötü koku, nem ve kirli ortamdan rahatsız olmayan,",
+  "El becerisine sahip,",
+  "Dikkatli ve sabırlı,",
+  "Kimyasal maddelere karşı alerjisi olmayan,",
+  "Romatizmal rahatsızlığı bulunmayan,",
+  "Fiziksel olarak dayanıklı ve ayakta çalışabilen,",
+  "Takım çalışmasına uyumlu,",
+  "Sorumluluk sahibi"
+ ],
+ "calisma_ortami": "Debbağlar (sepiciler) genellikle tabakhane ve deri işleme tesislerinde, kapalı mekanlarda çalışırlar. Çalışma ortamı nemli, kokulu ve kimyasal madde kalıntıları nedeniyle kirlidir; iş genellikle ayakta ve bazı dönemlerde vardiyalı olarak yürütülür. Kullanılan asit, tuz ve tabaklama kimyasalları nedeniyle koruyucu ekipman kullanımı gereklidir.\n\nÇalışma sırasında deri, pöstekiler ve tabaklama makineleri ile birinci derecede ilgilenilir; aynı zamanda ustabaşı, diğer işçiler ve kalite kontrol personeli ile iletişim kurmayı gerektiren durumlar da olabilir. Ağır kaldırma, nemli ve bazen yüksek sıcaklıktaki ortamda çalışma mesleğin fiziksel zorluklarındandır.",
+ "egitim": {
+  "verildigi_yerler": "Debbağlık (sepicilik) için ayrı, bağımsız bir resmi okul/diploma programı bulunmamaktadır. Meslek genellikle tabakhanelerde işbaşında usta yanında yetişme yoluyla öğrenilir. Dericilik sektörüyle ilişkili olarak mesleki eğitim merkezlerinde ilgili kimya/deri teknolojisi alanlarında çıraklık eğitimi açılabilmekte; ayrıca Halk Eğitim Merkezleri ve İŞKUR tarafından düzenlenen mesleki eğitim kursları da bulunmaktadır.",
+  "giris_kosullari": [
+   "Çıraklık eğitimine girmek için en az ortaokul mezunu olmak",
+   "14 yaşını doldurmuş olmak",
+   "Sağlık durumunun mesleğin gerektirdiği çalışma koşullarına uygun olması",
+   "Eğitim görülecek işyeri ile çıraklık sözleşmesi imzalanması"
+  ],
+  "sure_ve_icerik": "Mesleki eğitim merkezi kapsamında açılan ilgili dallarda eğitim genellikle haftanın bir günü okulda teorik, kalan günlerinde işyerinde (tabakhanede) uygulamalı olarak yürütülür. Eğitimde tabaklama eriyiklerinin hazırlanması, makinelerin kullanımı, deri kalitesinin ve tabaklama derecesinin kontrolü, iş sağlığı ve güvenliği ile kimyasal madde kullanımı konuları işlenir. Ayrı bir resmi program bulunmadığı durumlarda meslek, işbaşında usta-çırak ilişkisi içinde uzun bir deneyim süreci sonunda öğrenilir.",
+  "belge": "Çıraklık eğitimi tamamlandığında kalfalık ve ardından ustalık belgesi alınabilir. Ayrıca Mesleki Yeterlilik Kurumu (MYK) tarafından deri işleme alanında düzenlenen ulusal yeterlilik belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "gorevler": [
+  "İş organizasyonu yapar,",
+  "Tabaklama eriyiğini hazırlayarak depo/kazanlara doldurur, belirli miktarda içine koyarak makineyi çalıştırır ve eriyiği çalkalar,",
+  "Belirli bir süre geçtikten sonra veya muamelenin tamamlandığına kanaat getirince makineyi durdurur,",
+  "Tabaklama derecesini kontrol etmek için bir deri parçasını numune olarak çıkarıp su içinde kaynatır, gerekiyorsa muameleye devam eder; tabaklama işlemi bitince derileri çıkarır,",
+  "Beyazlatma, yarma ve benzeri işlemler sırasında rengini kaybeden derileri tekrar tabaklama işlemine tabi tutar,",
+  "Belirli bir tabaklama işleminde uzmanlaşarak deri türlerini ve kalitesini ayırt eder,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "calisma_alanlari": "Debbağlar (sepiciler) özel sektöre ait deri işleme tesislerinde (tabakhanelerde) ve kamuya ait deri işleme fabrikalarında çalışabilirler. Deri sanayinin yoğun olduğu İstanbul (Tuzla Deri Organize Sanayi Bölgesi), Bolu-Gerede, Uşak, Niğde, Tekirdağ-Çorlu, İzmir ve Bursa gibi illerde iş bulma olanakları daha geniştir. Sektördeki üretim hacmine ve mevsimsel taleplere bağlı olarak istihdam değişkenlik gösterebilir.",
+ "kazanc": {
+  "egitim_suresince": "Çıraklık eğitimi kapsamında eğitim görenlere, 3308 sayılı Mesleki Eğitim Kanunu çerçevesinde asgari ücretin belirli bir oranında ücret ödenebilir; iş kazası ve meslek hastalığı sigorta primleri bu süre için genellikle devletçe karşılanır.",
+  "egitim_sonrasi": [
+   "İşe yeni başlayanlarda kazanç genellikle asgari ücret düzeyindedir.",
+   "Deneyim, uzmanlık (belirli tabaklama türünde ihtisaslaşma) ve çalışılan işletmenin büyüklüğüne göre kazanç artabilir.",
+   "Özel sektörde ücret, işveren ile çalışan arasındaki anlaşmaya ve toplu iş sözleşmesi varsa buna göre belirlenir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Çıraklık eğitimini tamamlayarak kalfalık ve ustalık belgesi alanlar, ilgili yükseköğretim programlarına (örneğin deri/kimya teknolojisi alanlarına) yönelebilir; ayrıca kurum ve kuruluşlarca açılan mesleki kurslara katılarak bilgi ve becerilerini geliştirebilirler.",
+  "is_hayatinda": "Deneyim kazandıkça usta, ustabaşı veya atölye/bölüm sorumlusu konumuna yükselebilir, zamanla kendi tabakhanesini açarak bağımsız çalışabilirler."
+ },
+ "benzer_meslekler": [
+  "Deri İşlemecisi",
+  "Mahlül Hazırlama İşçisi (Debbağlık)",
+  "Deri Yaş İşlenti Sorumlusu",
+  "Diğer Debbağlar",
+  "Deri İşlenti Sorumlusu"
+ ],
+ "ek_bilgiler": "Debbağlık işi, kullanılan kimyasal maddeler (asit, tuz, tabaklama maddeleri vb.) ve ağır/nemli çalışma koşulları nedeniyle iş sağlığı ve güvenliği mevzuatı açısından riskli işler arasında değerlendirilebilir; koruyucu ekipman kullanımı ve periyodik sağlık kontrolü önem taşır.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T09:27:20",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6487
+  }
+ }
+}

@@ -1,0 +1,76 @@
+{
+ "arac_gerec": [
+  "Bilgisayar ve hastane bilgi yönetim sistemi yazılımı",
+  "Hasta tabelaları ve tedavi formları",
+  "İlaç dolapları, raflar ve ilaç saklama üniteleri",
+  "Soğuk zincir gerektiren ilaçlar için buzdolabı/soğutucu",
+  "İlaç kutuları, poşetler ve etiketleme malzemeleri",
+  "Barkod okuyucu ve yazıcı",
+  "Stok ve sayım takip formları",
+  "Miat (son kullanma tarihi) takip çizelgeleri",
+  "İletişim cihazları (telefon, dahili hat)",
+  "Kişisel koruyucu donanım (eldiven, önlük)"
+ ],
+ "benzer_meslekler": [
+  "Eczacı",
+  "Eczacı (Ameliyathane)",
+  "Eczacı (Depo İlaç)",
+  "Eczacı (Majistral)",
+  "Eczacı (Sıhhi Sarf)",
+  "Yardımcı Eczacı"
+ ],
+ "calisma_alanlari": "Eczacı (Klinik), kamu ve özel hastanelerin bünyesinde yer alan klinik eczaneleri veya servis eczanelerinde görev yapar. Büyük hastanelerin dahiliye, cerrahi, yoğun bakım gibi çeşitli servislerine ilaç dağıtımı yapan birimlerde istihdam edilir. Üniversite hastaneleri, eğitim ve araştırma hastaneleri ile büyük özel hastaneler, klinik eczacılığa en çok ihtiyaç duyulan kurumlardır. Sağlık sektöründeki hastane yatak kapasitesinin büyüklüğü ve ilaç yönetiminin kurumsallaşma düzeyi, bu meslek elemanlarına olan talebi doğrudan etkilemektedir.",
+ "calisma_ortami": "Eczacı (Klinik), hastane içerisinde klinik eczanesi veya servis eczanesi olarak adlandırılan kapalı mekanlarda çalışır. Çalışma ortamı genellikle temizdir; ancak ilaç ve kimyasal madde kokusu bulunabilir. Görevi sırasında hastane servislerinde çalışan hemşireler, hekimler, diğer eczacılar ve sağlık personeli ile sürekli iletişim ve koordinasyon içindedir.\n\nÇalışma saatleri hastanenin işleyişine bağlı olarak değişebilir; bazı kurumlarda vardiyalı çalışma veya nöbet sistemi uygulanabilir. Görev sırasında ayakta durma, ilaç hazırlama ve dağıtım için hareketli çalışma gerekebilir. İş, zaman zaman yoğun ve stresli olabilir; özellikle acil ilaç taleplerinde hızlı ve doğru karar verme gerektirir.",
+ "egitim": {
+  "verildigi_yerler": "Eczacı (Klinik) olarak çalışabilmek için gerekli temel eğitim, üniversitelerin eczacılık fakültelerinde verilen lisans eğitimidir. Klinik eczacılık, bu temel eğitimin ardından hastane bünyesinde görevlendirme yoluyla veya ilgili yüksek lisans/sertifika programları ile uzmanlaşılan bir çalışma alanıdır.",
+  "giris_kosullari": [
+   "Lise veya dengi okul mezunu olmak",
+   "YKS (Yükseköğretim Kurumları Sınavı) kılavuzunda eczacılık fakülteleri için belirtilen giriş koşullarını taşımak"
+  ],
+  "sure_ve_icerik": "Eczacılık fakültesi eğitimi 5 yıl sürer. Eğitim sürecinde Genel Kimya, Tıbbi Biyoloji, Biyoistatistik, Organik ve Analitik Kimya, Anatomi-Fizyoloji, Farmakoloji, Farmasötik Mikrobiyoloji ve İmmünoloji gibi dersler okutulur; teorik derslerin yanında fakülte laboratuvarlarında uygulamalı eğitim ile kamuya açık bir eczane veya hastanede zorunlu staj yapılır. Lisans eğitimini tamamlayan eczacılar, hastanede klinik eczanesinde görevlendirilerek veya ilgili kurumların açtığı hizmet içi eğitim ve klinik eczacılık alanındaki yüksek lisans/sertifika programlarına katılarak bu alanda deneyim ve bilgi kazanırlar.",
+  "belge": "Eğitimini başarı ile tamamlayanlara \"Eczacılık\" lisans diploması verilir. Hastane bünyesinde klinik eczacısı olarak görevlendirilme, kurumun ilgili birimi tarafından yapılır; kamu kurumlarında bu görev genellikle atama veya görevlendirme yoluyla, ilgili yüksek lisans/sertifika eğitimleri ise tercih sebebi olabilir."
+ },
+ "ek_bilgiler": "Klinik eczacılığı, hastane içinde ilaç yönetimine özgü, ihtisaslaşmış bir çalışma alanıdır. Bazı hastanelerde bu görev doğrudan eczacılar tarafından yürütülürken, bazı kurumlarda eczane teknisyenleri ve diğer yardımcı sağlık personeli ile birlikte ekip hâlinde yürütülmektedir. Kamu hastanelerinde çalışabilmek için genellikle kamu personeli alım süreçleri (sınav, atama veya sözleşmeli personel alımı) yoluyla işe başlanmaktadır; özel hastanelerde ise işe alım kurumun kendi süreçlerine göre işlemektedir.",
+ "genel_ozellikler": [
+  "Dikkatli ve titiz,",
+  "Sorumluluk duygusu yüksek,",
+  "Hesap yapma ve sayısal işlemlerde başarılı,",
+  "Düzenli ve sistemli çalışabilen,",
+  "İletişim ve ekip çalışmasına yatkın,",
+  "Hızlı ve doğru karar verebilen,",
+  "İlaç ve kimyasal maddelere karşı alerjisi olmayan,",
+  "Stresli ve yoğun çalışma ortamlarında sakin kalabilen"
+ ],
+ "gorevler": [
+  "Servislerden gelen hasta tabelalarını bilgisayara kaydeder,",
+  "Hastane servislerinin toplu olarak servisler bazında dökümünü alır,",
+  "Servislere göre dökümü yapılan ilaçları kutulara veya poşetlere doldurur,",
+  "Klinikte çalışan hemşirelere yatan hastaların ilaçlarını teslim eder,",
+  "İlaçların uygun saklama koşullarına göre saklanmasını sağlar,",
+  "İlaçların maksimal dozları hakkında hekimlere bilgi verir,",
+  "Klinik eczanesinde bulunan ilaçların miat kontrollerini yapar,",
+  "Klinik eczanesinde bulunan ilaçların belirli aralıklarla sayımını yapar,",
+  "Klinik eczanede sarf olunan ilaç miktarını belirler, buna göre ihtiyaç talebinde bulunur,",
+  "Meslek alanı ile ilgili gelişmeleri takip eder ve uygular,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Eczacı (Klinik), eczacılık alanında yüksek lisans, doktora veya akademik kariyer yapabilir. Klinik eczacılık alanındaki uzmanlık programlarına veya sertifika eğitimlerine katılarak bilgi ve becerilerini geliştirebilir; yükseköğretim kurumlarında araştırma görevlisi, öğretim üyesi gibi unvanlara yükselme olanağına sahiptir.",
+  "is_hayatinda": "Hastane bünyesinde deneyim kazandıkça eczane sorumlu eczacılığı, baş eczacılık veya ilaç yönetimi ile ilgili idari görevlere yükselebilir. Kurumsal hastane yönetim kadrolarında görev alabilir; kamu kurumlarında kıdeme bağlı olarak unvan ve görev değişiklikleri yaşanabilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Eczacılık fakültesi öğrencileri, Kredi ve Yurtlar Genel Müdürlüğünün sağladığı öğrenim kredisi ve yurt hizmetlerinden yararlanabilir; ayrıca çeşitli resmî ve özel kurum/kuruluşların sunduğu burslardan faydalanabilirler.",
+  "egitim_sonrasi": [
+   "Kamu hastanelerinde çalışan Eczacı (Klinik), 657 sayılı Devlet Memurları Kanunu'na bağlı olarak sağlık hizmetleri sınıfında maaş, ek ödeme ve tazminatlardan yararlanır.",
+   "Özel hastanelerde çalışanların ücreti, kurumun büyüklüğüne, çalışanın deneyimine ve karşılıklı anlaşmaya göre değişmekte olup işe yeni başlayanlar için kazanç genellikle asgari ücret düzeyinde olabilmektedir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-07T23:35:22",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5411
+  }
+ }
+}

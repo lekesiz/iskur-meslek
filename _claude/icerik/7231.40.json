@@ -1,0 +1,79 @@
+{
+ "arac_gerec": [
+  "Yüksek voltaj ölçüm cihazları (multimetre, izolasyon direnci test cihazı)",
+  "Yalıtımlı (dielektrik) el aletleri: tornavida, pense ve anahtar takımları",
+  "Batarya şarj cihazları ve şarj istasyonu test ekipmanları",
+  "Araç arıza teşhis (diagnostik) cihazı ve bilgisayar yazılımları",
+  "Kaldırma platformu (lift) ve araç çekme/taşıma ekipmanları",
+  "Kişisel koruyucu donanım: yalıtkan eldiven, yüz siperliği, yalıtkan ayakkabı ve iş elbisesi",
+  "Batarya söküm-takım aparatları ve kaldırma düzenekleri",
+  "Soğutma sistemi test ve dolum ekipmanları",
+  "Tork anahtarı",
+  "Kısa devre ve arıza tespit cihazları",
+  "Elektriksel yalıtım matları ve paspaslar",
+  "Lityum batarya yangınlarına uygun özel söndürme ekipmanları",
+  "Temizlik malzemeleri ve ekipmanları",
+  "El feneri ve işaretleme/etiketleme malzemeleri"
+ ],
+ "genel_ozellikler": [
+  "El ve kol becerisine sahip,",
+  "Dikkatli ve sorumluluk sahibi,",
+  "Elektrik-elektronik sistemlere ilgili ve teknik konulara meraklı,",
+  "İş güvenliği kurallarına titizlikle uyan,",
+  "Takım halinde çalışmaya istekli,",
+  "Değişen teknolojiyi ve yeni gelişmeleri takip eden,",
+  "Fiziksel olarak dayanıklı,",
+  "Sabırlı ve analitik düşünebilen"
+ ],
+ "calisma_ortami": "Batarya elektrikli araç servis elemanı, genellikle oto servis atölyelerinde veya yetkili bayi servis alanlarında, kapalı mekânda çalışır; aracın servise çekilmesi gibi işlemler sırasında açık alanda da bulunabilir. Çalışma ortamı yağlı ve kirli olabileceği gibi, yüksek voltajlı batarya sistemleriyle çalışıldığından elektrik çarpması riski taşıyan, dikkat ve koruyucu ekipman kullanımı gerektiren bir ortamdır. Genellikle ayakta ve bazen eğilerek/kısıtlı alanlarda çalışılır.\n\nÇalışma saatleri işyerinin yapısına göre değişebilir; vardiyalı çalışma söz konusu olabilir. Meslek elemanı; servis şefi, usta, diğer teknisyenler, araç sahipleri ve zaman zaman üretici firma temsilcileriyle iletişim kurar.",
+ "egitim": {
+  "verildigi_yerler": "Batarya elektrikli araç servis elemanlığı için ayrı ve yaygın bir örgün meslek lisesi dalı bulunmamaktadır. Mesleğe genellikle \"Motorlu Araçlar Teknolojisi\" alanında mesleki ve teknik eğitim (meslek lisesi, mesleki eğitim merkezi) görerek temel otomotiv bilgisi kazananlar; bunun üzerine elektrikli/hibrit araç bakım-onarımına yönelik ek eğitim ve sertifika programlarıyla geçiş yapmaktadır. Halk Eğitim Merkezleri, İŞKUR işbaşı eğitim programları, özel eğitim kurumları ve araç üreticisi/ithalatçı firmaların kendi bayi-servis teknisyenlerine verdiği iç eğitimler de bu alandaki yetişme yollarından biridir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak (mesleğin gerektirdiği asgari eğitim düzeyi)",
+   "Mesleki eğitim merkezi/meslek lisesi yoluyla yetişmek isteyenler için ilgili mevzuatta belirtilen yaş ve öğrenim şartlarını taşımak",
+   "Sağlık durumunun elektrikli sistemlerle çalışmaya ve el-kol becerisi gerektiren işlere uygun olması",
+   "Elektrikle çalışma riski nedeniyle genellikle reşit (18 yaş ve üzeri) olmak tercih edilmektedir"
+  ],
+  "sure_ve_icerik": "Mesleğe özgü, ülke çapında standart bir eğitim süresi resmî olarak tanımlanmamıştır. Temel otomotiv mesleki eğitimi (varsa) üzerine eklenen elektrikli araç bakım-onarım kursları genellikle kısa süreli (birkaç gün ile birkaç hafta arasında) olup; yüksek voltaj güvenliği, batarya yapısı ve çalışma prensibi, şarj sistemleri, periyodik bakım işlemleri, parça değişimi ve temel arıza tespiti gibi konuları kapsar. İşbaşında usta/teknisyen yanında pratik eğitim süreci de önemli bir yer tutar.",
+  "belge": "Kurs ve eğitim programlarını tamamlayanlara katılım/başarı belgesi verilir. Mesleki eğitim merkezi yoluyla yetişenler ustalık/kalfalık belgesi alabilir. Mesleki Yeterlilik Kurumu (MYK) tarafından ilgili alanda yetkilendirilmiş bir belge bulunması durumunda bu belge istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Batarya elektrikli araç servis elemanları; elektrikli araç satış ve yetkili servis bayilerinde, bağımsız oto servis işletmelerinde (elektrikli araç bakımına yönelmiş olanlarda), araç filosu işleten kurum ve şirketlerde, belediyelerin veya özel işletmelerin elektrikli otobüs/toplu taşıma araç filolarında, elektrikli araç şarj istasyonu işletmelerinde ve otomotiv yan sanayi işletmelerinde çalışma olanağı bulabilir.\n\nTürkiye'de elektrikli araç kullanımının ve satışının giderek artması, bu alanda eğitimli ve nitelikli servis elemanına olan talebi yükseltmektedir. Bu nedenle mesleğin önümüzdeki yıllarda daha fazla iş bulma olanağı sunması beklenmektedir.",
+ "gorevler": [
+  "İş sağlığı ve güvenliği, yangın ve acil durum kurallarını uygular.",
+  "Çevre koruma mevzuatına uygun çalışır.",
+  "Kalite yönetim sistemi dokümanlarına uygun çalışır.",
+  "Çalışma esaslarını ve çalışma yerini düzenler.",
+  "Bakım ve onarımda kullanılan alet ve donanımların koruyucu, talimatlı bakımlarını sağlar.",
+  "Aracın servis alanına çekilmesi, bağlantı ve kontrol gibi hazırlık işlemlerini gerçekleştirir.",
+  "Bataryalı elektrikli araçların periyodik bakımını, parça değişimini ve temizliğini yapar; şarj işlemlerini gerçekleştirir ve şarj sırasında oluşabilecek elektriksel riskleri giderir.",
+  "Mesleki gelişim faaliyetlerine katılır ve bu faaliyetleri yürütür."
+ ],
+ "kazanc": {
+  "egitim_suresince": "Mesleki eğitim merkezi veya çıraklık kapsamında eğitim alanlara, 3308 sayılı Mesleki Eğitim Kanunu hükümleri doğrultusunda asgari ücretin belirli bir oranından aşağı olmamak üzere ücret ödenebilir. Kısa süreli kurs eğitimlerinde genellikle ücret ödenmez; işbaşında usta yanında yetişenlerin kazancı işletmenin uygulamasına göre değişir.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanların kazancı genellikle asgari ücret düzeyindedir.",
+   "Özel sektörde kazanç; işletmenin büyüklüğü, çalışanın deneyimi, bilgisi ve yeteneğine göre karşılıklı anlaşma ile değişkenlik gösterir.",
+   "Kamu kurumlarına bağlı işletmelerde (belediye, toplu taşıma işletmeleri gibi) işçi statüsünde çalışanlar, ilgili toplu iş sözleşmesi hükümlerine göre ücret alır."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Motorlu araçlar teknolojisi alanında temel eğitim alıp ustalık belgesi kazananlar, elektrikli/hibrit araç teknolojilerine yönelik ileri düzey kurs ve sertifika programlarıyla bu alanda uzmanlaşabilir.",
+  "is_hayatinda": "Deneyim ve bilgi birikimi arttıkça usta, ekip lideri, servis şefi veya teknik danışman gibi pozisyonlara yükselebilir; yeterli sermaye ve mevzuat şartlarını sağlayanlar kendi elektrikli araç servis işletmesini kurabilir."
+ },
+ "benzer_meslekler": [
+  "Batarya Elektrikli Araç Bakım ve Onarımcısı",
+  "Hibrit Araç Bakım Onarımcısı",
+  "Otomotiv Elektromekanikeri/Otomotiv Diagnostik (Arıza Tespit ve Giderme)",
+  "Otomotiv Mekanikeri",
+  "Oto Klima Bakım Onarımcısı"
+ ],
+ "ek_bilgiler": "Bu meslekte yüksek voltajlı batarya sistemleriyle doğrudan çalışıldığından, elektriksel risklerin yönetimi ve iş güvenliği kuralları büyük önem taşır; bu nedenle ilgili iş güvenliği eğitimleri ve varsa Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir. Elektrikli araç pazarının Türkiye'de büyümesiyle bu meslekte orta ve uzun vadede istihdam artışı beklenmektedir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T02:30:36",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 7541
+  }
+ }
+}

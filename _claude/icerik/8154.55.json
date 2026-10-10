@@ -1,0 +1,74 @@
+{
+ "gorevler": [
+  "Boyanacak kumaşı makineye hatasız ve düğümsüz olarak yükler.",
+  "Reçeteye göre boya, kimyasal ve tuz dozajlamalarını gerçekleştirir.",
+  "Makine sıcaklık, basınç ve devir hızı grafiklerini panelden izler.",
+  "Boyama sonrası numune alarak renk kontrolü (lab) yaptırır.",
+  "Yıkama ve durulama işlemlerini tamamlayarak kumaşı boşaltır.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "arac_gerec": [
+  "Over flov (overflow) boya makinesi ve kontrol paneli",
+  "Dozaj tankları ve dozajlama üniteleri",
+  "Hassas tartı/terazi",
+  "Boya, kimyasal madde ve tuz stok kapları",
+  "Numune alma aparatı",
+  "Renk ölçüm cihazı (spektrofotometre) veya lab kutusu",
+  "Sıcaklık, basınç ve devir hızı göstergeleri",
+  "Su ve buhar vanaları",
+  "Halat açma makinesi",
+  "Transpalet / taşıyıcı araba",
+  "Kişisel koruyucu donanım (eldiven, gözlük, önlük, maske, çizme)",
+  "Üretim/takip formları ve kayıt defterleri"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve tedbirli,",
+  "El-göz koordinasyonu iyi,",
+  "Renkleri ayırt edebilen,",
+  "Sorumluluk sahibi,",
+  "Talimatlara ve reçetelere uyan,",
+  "Basit ölçüm ve hesaplama yapabilen,",
+  "Ekip çalışmasına uyumlu,",
+  "Fiziksel olarak dayanıklı"
+ ],
+ "calisma_ortami": "Over flov boya makinesi operatörü, tekstil terbiye ve boyama işletmelerinde kapalı mekânlarda, makine ve boya tanklarının bulunduğu üretim alanlarında çalışır. Ortam genellikle nemli ve sıcaktır; boya ve kimyasal maddelerden kaynaklanan koku, buhar ve bazen gürültü bulunabilir. Zeminin ıslak ve kaygan olabilmesi nedeniyle iş güvenliği kurallarına ve kişisel koruyucu donanım kullanımına özen gösterilmesi gerekir.\n\nÇalışma genellikle ayakta ve vardiyalı düzende sürdürülür. Operatör, çalışma sırasında diğer makine operatörleri, ustabaşı, kalite kontrol ve laboratuvar çalışanlarıyla iş birliği içinde bulunur.",
+ "egitim": {
+  "verildigi_yerler": "Over flov boya makinesi operatörlüğü için ülke genelinde ayrı bir meslek lisesi dalı ya da örgün mesleki eğitim programı bulunmamaktadır. Meslek, genellikle işyerlerinde deneyimli bir operatör veya usta gözetiminde işbaşında öğrenilir. Mesleki eğitim merkezlerinin Tekstil Teknolojisi alanı kapsamında edinilen temel tekstil terbiye ve boyama bilgileri de bu mesleğe hazırlık sağlayabilir. Ayrıca Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kursları da ilgi duyanlara temel bilgi ve beceri kazandırabilir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "Tekstil üretim ortamında çalışmaya uygun sağlık durumuna sahip olmak",
+   "İşyerinde işbaşı eğitimine kabul edilmek"
+  ],
+  "sure_ve_icerik": "Resmî olarak tanımlanmış, standart süreli bir eğitim programı bulunmamaktadır. İşbaşında eğitim süresi işletmeden işletmeye değişmekle birlikte, genellikle deneyimli bir operatör gözetiminde birkaç ay süren uygulamalı bir öğrenme sürecini kapsar. Bu süreçte kumaş yükleme, reçeteye göre dozajlama, makine panelinden sıcaklık-basınç takibi ve boşaltma işlemleri uygulamalı olarak öğretilir.",
+  "belge": "Resmî bir diploma veya zorunlu sertifika bulunmamaktadır. İşyerinde edinilen deneyim, çalışılan işletme tarafından verilen katılım belgesi veya kurs sonu belgesi ile desteklenebilir. Mesleki Yeterlilik Kurumu (MYK) tarafından ilgili alanda düzenlenen bir yeterlilik belgesi varsa, bu belge istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Over flov boya makinesi operatörü; kumaş boyama ve tekstil terbiye (apre) işletmelerinde, dokuma ve örme kumaş üreten fabrikaların boyahane bölümlerinde istihdam edilir. Bu meslek elemanları, özellikle tekstil ve hazır giyim sanayinin yoğun olduğu bölgelerdeki üretim tesislerinde çalışma olanağı bulabilir.",
+ "kazanc": {
+  "egitim_suresince": "İşbaşında yetişenler, bu süreçte çalıştıkları işletmenin ücret politikasına bağlı olarak genellikle asgari ücret düzeyinde bir kazanç sağlar. İşletme bünyesinde yürütülen mesleki eğitim programlarına dahil olunması durumunda 3308 sayılı Mesleki Eğitim Kanunu'nda yer alan ilgili hükümler uygulanabilir.",
+  "egitim_sonrasi": [
+   "İşe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Deneyim, işteki performans, çalışılan işletmenin büyüklüğü ve sektördeki konumuna göre kazanç artabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Meslekte resmî bir kademeli eğitim sistemi bulunmamakla birlikte, operatörler çeşitli kurum ve kuruluşlarca düzenlenen tekstil boyama ve terbiye konulu kurs ve sertifika programlarına katılarak bilgi ve becerilerini geliştirebilir.",
+  "is_hayatinda": "Deneyim kazanan operatörler, çalıştıkları işletmede diğer boyama makinelerinde de görev alabilir; kıdem ve performanslarına bağlı olarak vardiya amirliği, ustabaşılık veya boyahane sorumluluğu gibi pozisyonlara yükselebilirler."
+ },
+ "benzer_meslekler": [
+  "Jet Boya Makinesi Operatörü",
+  "JET Boya Makinesi Operatörü (Kumaş Boyama)",
+  "Boyama Makinesi Operatörü-Tekstil",
+  "İplik-Elyaf Boyama Makinesi Operatörü",
+  "Boyama-Yıkama Makinesi Operatörü (Kumaş)",
+  "Boyama (Emdirme) Makinesi Operatörü"
+ ],
+ "ek_bilgiler": "Bu meslekte kimyasal madde ve boya kullanımı yoğun olduğundan, çalışanların işçi sağlığı ve iş güvenliği kurallarına, kişisel koruyucu donanım kullanımına ve reçeteye uygun dozajlama işlemlerine titizlikle uyması önemlidir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T14:41:11",
+  "usage": {
+   "input_tokens": 4,
+   "output_tokens": 8261
+  }
+ }
+}

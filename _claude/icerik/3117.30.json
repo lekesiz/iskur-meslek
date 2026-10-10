@@ -1,0 +1,85 @@
+{
+ "gorevler": [
+  "İş sağlığı ve güvenliği konusundaki yasal ve işyerine ait kuralları uygular.",
+  "Kalite yönetim sistemi dokümanlarına uygun çalışır.",
+  "Çalışılan yeri düzenler.",
+  "Çalışma alet ve donanımının koruyucu ve talimatlı bakımlarını sağlar.",
+  "İş organizasyonunu gerçekleştirir.",
+  "Test öncesi hazırlık işlemlerini yapar.",
+  "Numune hazırlar.",
+  "Test sürecinde kullanılacak cihazları hazırlar.",
+  "Test programını hazırlar.",
+  "Test işlemlerini gerçekleştirir.",
+  "Çekme, basma, darbe, eğme, sertlik, sürünme, burulma, aşınma, yorulma testi yapar.",
+  "Test sonuçlarını değerlendirir ve raporlar.",
+  "Mesleki gelişim faaliyetlerine katılır."
+ ],
+ "arac_gerec": [
+  "Çekme-basma (üniversal) test makineleri",
+  "Darbe (Charpy/Izod) test cihazları",
+  "Sertlik ölçüm cihazları (Brinell, Rockwell, Vickers)",
+  "Eğme test düzenekleri",
+  "Burulma test cihazları",
+  "Sürünme ve yorulma test cihazları",
+  "Aşınma test cihazları",
+  "Numune kesme ve hazırlama makineleri",
+  "Numune kalıplama, taşlama ve zımparalama ekipmanları",
+  "Kumpas, mikrometre ve diğer hassas ölçüm aletleri",
+  "Test sonuçlarını kaydeden bilgisayar ve test yazılımları",
+  "Kişisel koruyucu donanım (eldiven, koruyucu gözlük, iş elbisesi, kulaklık)",
+  "Hidrolik ve pnömatik tahrikli test düzenekleri",
+  "Kalibrasyon ve referans numuneleri"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve titiz çalışabilen,",
+  "Sayısal ve analitik düşünme yeteneğine sahip,",
+  "El becerisine ve makine kullanımına yatkın,",
+  "Fen bilimleri ve malzeme bilgisine ilgili,",
+  "Sorumluluk sahibi, norm ve standartlara uygun çalışabilen,",
+  "Takım çalışmasına uyumlu,",
+  "Ölçüm sonuçlarını doğru biçimde kayıt altına alıp raporlayabilen,",
+  "İş güvenliği kurallarına titizlikle uyan"
+ ],
+ "calisma_ortami": "Tahribatlı Muayene Operatörü, genellikle fabrika bünyesindeki kalite kontrol laboratuvarlarında, malzeme test merkezlerinde veya bağımsız muayene/test kuruluşlarında kapalı ortamda çalışır. Çalışma alanı, yüksek kuvvet uygulayan mekanik ve elektromekanik test cihazlarının bulunduğu bir atölye/laboratuvar niteliğindedir; ortamda gürültü, titreşim ve numune kesme/hazırlama işlemlerinden kaynaklanan toz bulunabilir. Testler sırasında yüksek basınç ve kuvvete bağlı olarak numune veya ekipman parçalarının fırlaması, sıkışma gibi riskler söz konusu olabileceğinden kişisel koruyucu donanım kullanımı ve iş güvenliği kurallarına uyum önemlidir.\n\nÇalışma genellikle tam gün sürer; üretimin yoğun olduğu işletmelerde vardiyalı çalışma gerekebilir. Meslek elemanı; üretim ve kalite kontrol mühendisleri, laboratuvar teknisyenleri, üretim personeli ve gerektiğinde müşteri/denetim kuruluşu temsilcileriyle yakın iletişim içinde çalışır.",
+ "egitim": {
+  "verildigi_yerler": "Tahribatlı Muayene Operatörlüğü için ortaöğretim düzeyinde özel olarak tanımlanmış bağımsız bir meslek lisesi dalı bulunmamaktadır. Meslek, genellikle ortaöğretimin ardından işletmelerde işbaşında usta yanında, kurum içi eğitimlerle veya Halk Eğitim Merkezleri ile İŞKUR'un açtığı mesleki eğitim kurslarıyla kazanılmaktadır. Metal Teknolojisi, Makine Teknolojisi, Kimya Teknolojisi gibi mesleki ve teknik ortaöğretim alanları ile üniversitelerin meslek yüksekokullarındaki Metalurji ve Malzeme, Malzeme Muayene Teknolojisi gibi ön lisans programları da bu mesleğe temel oluşturabilecek bilgi ve beceri sağlamaktadır.",
+  "giris_kosullari": [
+   "Ortaöğretim (lise ve dengi) mezunu olmak",
+   "İlgili ön lisans programlarına girmek isteyenler için lise mezuniyeti ve YKS'de yeterli puan almak",
+   "İşletme içi eğitim ve kurslara katılabilmek için genellikle lise mezuniyeti yeterli görülmektedir"
+  ],
+  "sure_ve_icerik": "Mesleğe özgü, ülke çapında standart hale getirilmiş ayrı bir ortaöğretim programı bulunmadığından eğitim süresi ve içeriği işletmeden işletmeye değişmektedir. Genel olarak; malzeme bilgisi, test standartları (ulusal ve uluslararası norm ve standartlar), numune hazırlama teknikleri, test cihazlarının kullanımı, ölçüm ve raporlama konularında teorik ve uygulamalı eğitim verilir. İlgili ön lisans programlarını tercih edenler için eğitim süresi 2 yıldır ve metalurji, malzeme bilimi, mekanik testler gibi dersleri kapsar.",
+  "belge": "Ortaöğretim diploması, ilgili ön lisans programını tamamlayanlar için önlisans diploması, ayrıca işletme içi eğitimi tamamlayanlara kurum sertifikası verilebilir. Mesleki Yeterlilik Kurumu (MYK) belgesi bazı işletmelerde istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Tahribatlı Muayene Operatörü; metalurji ve metal işleme tesislerinde, makine imalat sanayinde, otomotiv ve otomotiv yan sanayi işletmelerinde, demir-çelik ve döküm tesislerinde, kaynaklı imalat ve basınçlı kap üretimi yapan işletmelerde, savunma sanayinde, ar-ge ve inovasyon merkezlerinde, bağımsız malzeme test ve muayene kuruluşlarında ve üniversitelerin malzeme test laboratuvarlarında istihdam edilmektedir. Kalite kontrol süreçlerinin yoğun olduğu her sanayi dalında bu mesleğe yönelik iş olanakları bulunabilmektedir.",
+ "kazanc": {
+  "egitim_suresince": "İşletmede mesleki eğitim kapsamında çalışılması durumunda 3308 sayılı Mesleki Eğitim Kanunu'na göre öğrencilere asgari ücretin belirli bir oranından az olmamak üzere ücret ödenir. İşbaşı eğitim veya kurs sürecinde ise ücretlendirme işletmenin uygulamalarına göre değişir; bazı işletmeler bu süreçte asgari ücret düzeyinde ödeme yapabilir.",
+  "egitim_sonrasi": [
+   "İşe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç elde eder.",
+   "Deneyim, uzmanlaşma ve işletmenin büyüklüğüne bağlı olarak ücret artış göstermektedir.",
+   "Özel sektörde ücret, kişinin deneyimine, bilgi birikimine ve işletme ile yapılan anlaşmaya göre değişmektedir.",
+   "Kamu kurumlarında (örneğin standart ve muayene kuruluşlarında) 657 sayılı Kanun'a bağlı memur statüsünde veya ilgili toplu iş sözleşmesine bağlı işçi statüsünde istihdam söz konusu olabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Ortaöğretimden sonra bu alanda çalışanlar, isterlerse üniversitelerin Metalurji ve Malzeme Mühendisliği, Malzeme Muayene Teknolojisi, Metalurji ve Malzeme gibi ön lisans veya lisans programlarına yönelerek bilgi ve becerilerini ilerletebilirler.",
+  "is_hayatinda": "Mesleki deneyim ve ek eğitimlerle kalite kontrol laboratuvarı sorumluluğu, vardiya/ekip şefliği, test mühendisi yardımcılığı gibi görevlere, ilgili lisans eğitimini tamamlayanlar ise mühendislik pozisyonlarına yükselebilmektedir."
+ },
+ "benzer_meslekler": [
+  "Tahribatsız Muayene Operatörü",
+  "Tahribatsız Muayene Teknikeri",
+  "Tahribatsız Muayene Uzmanı",
+  "Metalurji Teknikeri/Metalografi ve Malzeme Muayenesi Teknikeri",
+  "Metalurji Malzeme Teknikeri",
+  "Isıl İşlem Teknisyeni"
+ ],
+ "ek_bilgiler": "Bu meslekte yüksek kuvvet uygulayan test cihazlarıyla çalışıldığından, iş güvenliği eğitimleri ve kişisel koruyucu donanım kullanımı özel önem taşımaktadır. Sanayi üretiminin kalite kontrol süreçlerine verdiği önemin artması, bu meslekte istihdam olanaklarını olumlu yönde etkilemektedir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T09:45:08",
+  "usage": {
+   "input_tokens": 4,
+   "output_tokens": 10139
+  }
+ }
+}

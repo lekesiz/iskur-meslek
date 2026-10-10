@@ -1,0 +1,78 @@
+{
+ "arac_gerec": [
+  "Seyyar satış tezgahı veya tablası",
+  "Naylon torba, kese kağıdı ve ambalaj malzemeleri",
+  "El arabası veya atla çekilen satış arabası",
+  "Motorlu taşıt (kullanılıyorsa)",
+  "Terazi/kantar ve ölçü aletleri",
+  "Metre, cetvel gibi ölçüm gereçleri",
+  "Basit kesme aletleri (makas, bıçak vb.)",
+  "Fiyat etiketi ve etiketleme malzemeleri",
+  "Para çantası veya bozuk para kasası",
+  "Tente, şemsiye veya branda (ürünü hava koşullarından korumak için)",
+  "Ürünleri sergilemek için ip, çengel, askı düzenekleri",
+  "Cep hesap makinesi"
+ ],
+ "genel_ozellikler": [
+  "Fiziksel olarak dayanıklı ve sağlıklı,",
+  "İletişim becerisi ve ikna gücü yüksek,",
+  "Girişken, pratik düşünebilen,",
+  "Dürüst ve güvenilir,",
+  "Değişen hava koşullarında ve uzun süre açık havada ayakta çalışabilen,",
+  "Basit hesap işlemlerini hızlı ve doğru yapabilen,",
+  "Sabırlı, insan ilişkilerinde başarılı,",
+  "Düzensiz çalışma saatlerine ve değişken kazanca uyum sağlayabilen."
+ ],
+ "calisma_ortami": "Sokak satıcısı/işportacı, görevini çoğunlukla açık havada; cadde, sokak, pazar yeri, otogar ve istasyon çevreleri, plaj veya festival/etkinlik alanları gibi kalabalık mekânlarda yürüterek ya da sabit bir noktada sergileyerek yapar. Çalışma ortamı sıcak, soğuk, yağmur gibi hava koşullarına açıktır; uzun süre ayakta kalmayı, yürümeyi ve bazen ağır yük taşımayı gerektirir. Trafik, kalabalık ve zaman zaman belediye denetimleri nedeniyle işin yürütülmesinde güçlükler yaşanabilir.\n\nMeslek genellikle kendi hesabına ve bağımsız olarak yürütülür; satıcı sürekli müşteriyle doğrudan iletişim kurar. Çalışma saatleri düzensizdir, mevsime, bölgeye ve talebe göre değişir; hafta sonu ve resmî tatillerde de çalışma yaygındır.",
+ "gorevler": [
+  "Satın alacağı ticari mallar için piyasa araştırması yapar.",
+  "Satış için uygun gördüğü malları üreticiden, toptancı veya imalatçılardan satın alır; aldığı malları naylon torbalara, tablolara, elle itilen veya atla çekilen arabalara, motorlu taşıta ve tezgah üzerine müşteri beğenisine uygun şekilde dizer ve yerleştirir.",
+  "Gerekirse malın üzerine görülecek şekilde satış etiketi koyar, malı satışa hazırlar.",
+  "Malını cadde ve sokaklarda gezerek veya uygun gördüğü yerlerde sergileyerek teşhir eder.",
+  "Müşteri ilgisini çekmek için yüksek sesle bağırır; müşteriye sattığı malları tartar, ölçer, keser, paketlemesini veya ambalajlamasını yapar.",
+  "Ücretini alır.",
+  "Günlük satamadığı malları taşıt aracına, torbasına veya depo görevini görecek bir yere koyar; günlük hasılatını hesaplar, satım araçlarının bakım ve temizliğini yapar.",
+  "Taşıt araçlarını kullanabilir, malları evlerde pazarlayıp satabilir.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Bu meslek için örgün bir okul veya kurs programı tanımlı değildir; genellikle iş başında deneyim yoluyla, aile içinde veya tecrübeli bir satıcının yanında öğrenilir. İŞKUR'un açtığı işgücü yetiştirme kursları ile Halk Eğitim Merkezlerinin temel pazarlama, müşteri ilişkileri ve girişimcilik konulu kursları isteyenlere destek olabilir.",
+  "giris_kosullari": [
+   "Okuryazar olmak yeterlidir, özel bir eğitim şartı bulunmamaktadır.",
+   "Satış yapılacak yere göre belediyeden seyyar satıcı izin belgesi/ruhsatı alınması gerekebilir.",
+   "Açık havada uzun süre ve fiziksel olarak çalışabilecek sağlık durumuna sahip olmak."
+  ],
+  "sure_ve_icerik": "Mesleğin öğrenilmesi için belirli bir eğitim süresi ve müfredat bulunmamaktadır. Temel okuma-yazma ve basit hesap bilgisi ile iş başında, deneyim yoluyla kısa sürede öğrenilebilir. İsteyenler, İŞKUR ve Halk Eğitim Merkezlerinin açtığı temel pazarlama, müşteri ilişkileri veya girişimcilik kurslarına katılarak bilgi ve becerilerini geliştirebilir.",
+  "belge": "Örgün bir diploma veya sertifika zorunluluğu yoktur; katılınan kurslardan katılım belgesi alınabilir. Faaliyetin yapılacağı yere göre belediyeden seyyar satıcı izin belgesi/ruhsatı gerekebilir."
+ },
+ "calisma_alanlari": "Sokak satıcısı/işportacılar genellikle kendi hesabına çalışan bağımsız girişimcilerdir; cadde, sokak, semt pazarları, otogar ve istasyon çevreleri, plaj, festival ve çeşitli etkinlik alanları gibi kalabalık mekânlarda satış yapar. Çalışılacak yerin belediye mevzuatı, seyyar satışa izin verilen bölgeler ve denetimler bölgeden bölgeye farklılık gösterir. Bayram, yılbaşı, turistik dönem gibi özel zamanlarda bazı ürünlere olan talep artışı iş hacmini etkiler.",
+ "kazanc": {
+  "egitim_suresince": "Örgün bir eğitim süreci bulunmadığından eğitim süresince ücret söz konusu değildir; iş başında öğrenme döneminde kazanç yapılan satıştan elde edilen gelire bağlıdır.",
+  "egitim_sonrasi": [
+   "Bu meslek genellikle kendi hesabına (bağımsız) yürütülür; kazanç sabit bir ücret değil, satılan malın türüne, miktarına, sermayeye, çalışılan bölgeye ve kişisel beceriye göre değişen bir gelirdir.",
+   "Bir işletme adına çalışan seyyar satıcılarda ücret işveren ile yapılan anlaşmaya göre belirlenir ve genellikle asgari ücret düzeyinde başlar.",
+   "Kazanç mevsimsel ve günlük talebe göre dalgalanma gösterebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Bu meslekte örgün bir eğitim kademelenmesi bulunmamaktadır. Deneyim kazandıkça satıcı; ticaret, pazarlama veya girişimcilik konularında İŞKUR ve Halk Eğitim Merkezlerinin açtığı kurslara katılarak bilgi ve becerisini artırabilir.",
+  "is_hayatinda": "Deneyim ve biriken sermaye ile sokak satıcısı, sabit bir tezgaha, pazar yerinde bir dükkâna veya küçük bir perakende işletmeye geçiş yapabilir; sermayesini büyüterek toptan alım yapan bir esnafa dönüşebilir."
+ },
+ "benzer_meslekler": [
+  "Diğer Sokak Satıcıları/işportacılar (Gıda Dışı)",
+  "Çerçi - Seyyar Satıcı (gıda dışı)",
+  "Eskici-Seyyar",
+  "Çiçek Satıcısı - Seyyar",
+  "Baloncu - seyyar satış",
+  "Seyyar Medya Ürünleri Satıcısı"
+ ],
+ "ek_bilgiler": "Belediye sınırları içinde seyyar satıcılık genellikle izin/ruhsat şartına bağlıdır. İzinsiz satış yapıldığında belediye zabıtası tarafından malın geçici olarak el konulması veya idari işlem uygulanması söz konusu olabilir; bu nedenle çalışılacak yerin ilgili belediye mevzuatının önceden öğrenilmesi önerilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T20:50:42",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6341
+  }
+ }
+}

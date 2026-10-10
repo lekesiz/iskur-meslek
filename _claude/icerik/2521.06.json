@@ -1,0 +1,72 @@
+{
+ "arac_gerec": [
+  "Dağıtık veri işleme yazılımları (Hadoop, Spark, Hive, Kafka vb.)",
+  "Bilgisayar, sunucu ve veri merkezi sistemleri",
+  "Bulut bilişim platformları (AWS, Azure, Google Cloud vb.)",
+  "Veritabanı yönetim sistemleri (ilişkisel ve NoSQL veritabanları)",
+  "Programlama dilleri ve kütüphaneleri (Python, R, Scala, Java vb.)",
+  "Veri görselleştirme ve raporlama araçları (Power BI, Tableau vb.)",
+  "Makine öğrenmesi ve istatistiksel analiz yazılımları",
+  "Dağıtık dosya sistemleri (HDFS vb.)",
+  "Bilgisayar ağı ve siber güvenlik sistemleri",
+  "Veri tabanından oluşan bilişim teknolojisi alt yapısı"
+ ],
+ "genel_ozellikler": [
+  "Sayısal yetenek sahibi,",
+  "Analitik ve soyut düşünme becerisi gelişmiş,",
+  "Araştırmacı ve meraklı,",
+  "Dikkatli ve ayrıntılarla uğraşmayı seven,",
+  "Problem çözme yeteneği yüksek,",
+  "Ekip çalışmasına uygun,",
+  "Teknolojik gelişmeleri takip eden ve sürekli öğrenmeye açık,",
+  "İletişim yeteneği güçlü"
+ ],
+ "calisma_ortami": "Büyük Veri Uzmanı/Danışmanı, genellikle büro ortamında bilgisayar başında masa başı çalışır. Bilişim/yazılım şirketleri, bankalar, telekomünikasyon firmaları, e-ticaret ve kamu kurumlarının bilgi teknolojileri birimleri gibi ortamlarda görev yapar; bazı projelerde uzaktan veya esnek çalışma da mümkün olabilir. Ekran başında uzun süre çalışmak göz ve bel yorgunluğu gibi ergonomik riskler oluşturabilir; proje teslim dönemlerinde yoğun çalışma ve zaman baskısı yaşanabilir.\n\nGörevlerini yerine getirirken yazılım geliştiriciler, veri mühendisleri, sistem yöneticileri, iş analistleri, yöneticiler ve ilgili diğer departman çalışanlarıyla sürekli iletişim ve iş birliği içinde çalışır.",
+ "gorevler": [
+  "Dağıtık veri işleme sistemlerini (Hadoop, Spark vb.) tasarlar,",
+  "Büyük veri setlerinden veri madenciliği yöntemleriyle anlamlı bilgi çıkarır,",
+  "Veri saklama ve hızlı erişim protokollerini optimize eder,",
+  "Tahminleme modelleri kurarak kurumsal kararlara veri desteği sunar,",
+  "Veri gizliliği ve siber güvenlik standartlarını uygular,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Mesleğin temel bilgi ve becerileri; üniversitelerin Bilgisayar Mühendisliği, Yazılım Mühendisliği, Elektrik-Elektronik Mühendisliği, Endüstri Mühendisliği, İstatistik, Matematik veya Yönetim Bilişim Sistemleri gibi lisans programlarında kazandırılır. Ayrıca bazı üniversitelerde açılan Büyük Veri Analitiği, Veri Bilimi veya Veri Mühendisliği alanlarındaki yüksek lisans ve sertifika programları ile de mesleki eğitim alınabilmektedir.",
+  "giris_kosullari": [
+   "Lisans mezunu olmak (tercihen Bilgisayar Mühendisliği, Yazılım Mühendisliği, Elektrik-Elektronik Mühendisliği, İstatistik, Matematik, Endüstri Mühendisliği veya Yönetim Bilişim Sistemleri gibi ilgili bölümlerden mezun olmak)",
+   "Yüksek lisans programlarına başvuruda bazı üniversitelerde ALES sayısal puan türünden belirlenen taban puanı almış olmak",
+   "Bazı programlarda YÖKDİL veya eşdeğer bir yabancı dil sınavından yeterli puanı almış olmak"
+  ],
+  "sure_ve_icerik": "Lisans eğitimi genellikle 4 yıl sürer; bu süreçte programlama, veri yapıları ve algoritmalar, veritabanı yönetim sistemleri, istatistik ve olasılık, bilgisayar ağları ile dağıtık sistemler gibi temel konular işlenir. Büyük veriye özgü dağıtık veri işleme çerçeveleri (Hadoop, Spark vb.), veri madenciliği, makine öğrenmesi, bulut bilişim ve veri güvenliği konularındaki bilgi ve beceriler ise lisans sonrası sertifika programları, üniversitelerin açtığı yüksek lisans programları veya iş başında alınan kurumsal eğitimlerle geliştirilir.",
+  "belge": "Lisans eğitimini tamamlayanlara \"Lisans Diploması\", yüksek lisans programını tamamlayanlara \"Yüksek Lisans Diploması\", ilgili sertifika programlarını tamamlayanlara ise \"Sertifika\" verilir."
+ },
+ "calisma_alanlari": "Büyük Veri Uzmanı/Danışmanı; kamu kurumları, özel sektör kuruluşları veya bağımsız danışman olarak çalışabilir. Başta bilişim/yazılım şirketleri, bankalar ve finans kuruluşları, telekomünikasyon firmaları, e-ticaret ve perakende şirketleri, enerji, lojistik, sağlık ve sanayi kuruluşları olmak üzere, yüksek hacimli veri üreten ve işleyen her türlü kurum ve kuruluşun bilgi teknolojileri veya veri yönetimi birimlerinde istihdam edilebilir.",
+ "kazanc": {
+  "egitim_suresince": "Lisans ve yüksek lisans öğrenimi sırasında Kredi ve Yurtlar Genel Müdürlüğünün öğrenim kredisi ve yurt hizmetlerinden, bazı üniversite ve kurumların sunduğu burs olanaklarından yararlanılabilir.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında istihdam edilenler 657 sayılı Devlet Memurları Kanunu'na tabi olarak maaş alır.",
+   "Özel sektörde çalışanların kazancı; çalışılan işyerinin büyüklüğü, kişinin deneyimi, bilgi ve becerisi ile sektörün ücret düzeyine göre değişmekle birlikte, mesleğe yeni başlayanlarda genellikle asgari ücretin üzerinde bir düzeyde başlamakta, deneyim ve uzmanlık arttıkça önemli ölçüde yükselebilmektedir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Akademik kariyer yapmak isteyenler yüksek lisans ve doktora eğitimi alarak üniversitelerde araştırma görevlisi, öğretim üyesi gibi unvanlara yükselebilir; ayrıca mesleki sertifika ve uzmanlık eğitimleriyle bilgi ve becerilerini sürekli geliştirebilirler.",
+  "is_hayatinda": "Deneyim kazandıkça kıdemli uzman, ekip lideri, proje yöneticisi, veri yönetimi departmanı yöneticisi gibi kademelere; büyük kuruluşlarda ise üst düzey veri yönetimi sorumluluğu taşıyan yönetici pozisyonlarına yükselebilirler."
+ },
+ "benzer_meslekler": [
+  "Veri Bilimci",
+  "Veri Madenciliği Uzmanı/Danışmanı",
+  "Veri ve Bilgi Mühendisi",
+  "Veri Tabanı Mimarı",
+  "ETL Uzmanı/Danışmanı",
+  "İş Zekası Uzmanı"
+ ],
+ "ek_bilgiler": "Büyük Veri Uzmanı/Danışmanlığı tehlikeli veya çok tehlikeli işler kapsamında değerlendirilmediğinden mesleğin icrası için yasal olarak zorunlu bir belge bulunmamaktadır; ancak Mesleki Yeterlilik Kurumu (MYK) belgesi ve ilgili teknoloji sertifikaları (bulut bilişim, büyük veri platformları vb.) istihdamda tercih sebebi olabilir. Veri hacminin ve dijitalleşmenin artmasıyla birlikte bu alanda nitelikli iş gücüne talep hızla büyümektedir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T06:06:50",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6015
+  }
+ }
+}

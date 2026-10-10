@@ -1,0 +1,74 @@
+{
+ "arac_gerec": [
+  "Yangın söndürme tüpleri (karbondioksitli, köpüklü, kuru kimyevi tozlu vb.)",
+  "Yangın hortumu, hidrant, vana ve rakorlar",
+  "Yangın dolabı ve içindeki ekipmanlar",
+  "Yangın alarm ve algılama sistemleri (duman/ısı dedektörü, ihbar butonu)",
+  "Kişisel koruyucu donanım (yangına dayanıklı kıyafet, baret, eldiven, bot, maske)",
+  "Telsiz veya diğer haberleşme cihazları",
+  "El feneri",
+  "Yangın battaniyesi",
+  "İlk yardım çantası ve malzemeleri",
+  "Tahliye yönlendirme ve işaretleme ekipmanları (ışıklı tabela, kordon bandı)",
+  "İşyerine ait acil durum ve tahliye planları/krokiler"
+ ],
+ "benzer_meslekler": [
+  "Diğer İtfaiyeciler ve İlgili İşçiler",
+  "İtfaiyeci",
+  "İtfaiye Çavuşu",
+  "Orman İtfaiyecisi",
+  "ARFF Memuru(Havalimanı Kurtarma ve Yangınla Mücadele)",
+  "Afet Müdahale Elemanı"
+ ],
+ "calisma_alanlari": "Yangın İlk Müdahale İşçileri; fabrika, depo, imalathane, alışveriş merkezi, otel, hastane, iş merkezi, enerji tesisi gibi yangın riski taşıyan özel ve kamu işyerlerinin iş sağlığı ve güvenliği birimlerinde veya ilgili idari birimlerinde istihdam edilirler. İşyerlerinin büyüklüğüne, faaliyet alanına ve taşıdığı yangın riskine göre bu görevi yürütecek personel sayısı değişmekte, bazı işyerlerinde görev tam zamanlı bir meslek olarak, bazılarında ise başka görevlerle birlikte yürütülmektedir. İş sağlığı ve güvenliği mevzuatı gereği risk düzeyi yüksek işyerlerinde bu tür görevlendirmelerin yapılması zorunlu olduğundan, sanayileşme ve işyeri sayısındaki artışa paralel olarak bu alanda eleman ihtiyacı sürmektedir.",
+ "calisma_ortami": "Yangın İlk Müdahale İşçisi, görev yaptığı işyerinin niteliğine göre fabrika, atölye, depo, ofis veya açık saha gibi farklı ortamlarda çalışır. Çalışma ortamı genellikle işyerinin normal üretim veya hizmet ortamıyla aynıdır; ancak yangın, tahliye tatbikatı veya acil durum anlarında yüksek sıcaklık, duman, gürültü ve fiziksel tehlike içeren koşullarda görev yapması gerekebilir. Bu nedenle meslek, bedensel çaba ve ani risklere hazırlıklı olmayı gerektirir.\n\nÇalışma saatleri işyerinin vardiya düzenine göre belirlenir; bazı işyerlerinde gündüz mesaisi, bazılarında ise vardiyalı veya nöbet usulü çalışma söz konusudur. Görev sırasında işyeri çalışanları, iş güvenliği uzmanı, işveren/işveren vekili ve yangın anında itfaiye ekipleriyle yakın iletişim ve iş birliği içinde bulunulur.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin örgün eğitim veren bağımsız bir okulu veya bölümü bulunmamaktadır. Meslek elemanları genellikle çalıştıkları işyerlerinde işbaşında ve usta yanında yetiştirilir; ayrıca Halk Eğitim Merkezleri ile İŞKUR tarafından açılan mesleki eğitim kursları, işyerlerinin düzenlediği yangın güvenliği eğitimleri ve sivil savunma/acil durum tatbikatları yoluyla da bu alanda bilgi ve beceri kazanılabilir.",
+  "giris_kosullari": [
+   "İlköğretim mezunu olmak",
+   "18 yaşını doldurmuş olmak",
+   "Sağlık durumu bakımından fiziksel çaba gerektiren işlere elverişli olmak"
+  ],
+  "sure_ve_icerik": "Belirli ve standart bir eğitim süresi yoktur. İşyerlerinde verilen eğitimlerde genel yangın bilgisi, yangın türleri ve söndürme yöntemleri, yangın söndürme tüp ve ekipmanlarının kullanımı, alarm sistemlerinin işletilmesi, tahliye ve yönlendirme uygulamaları, temel ilk yardım bilgisi ve iş sağlığı güvenliği kuralları konularında kısa süreli (genellikle birkaç günden birkaç haftaya kadar değişen) teorik ve uygulamalı eğitimler verilir. Eğitimler belirli aralıklarla tazelenir.",
+  "belge": "Eğitimi veren kurum veya işyeri tarafından düzenlenen katılım/başarı belgesi verilir. Standart bir diploma veya örgün eğitim diploması bulunmamaktadır."
+ },
+ "genel_ozellikler": [
+  "Soğukkanlı ve panik yapmayan,",
+  "Hızlı ve isabetli karar verebilen,",
+  "Fiziksel olarak güçlü ve dayanıklı,",
+  "Dikkatli ve tedbirli,",
+  "Takım çalışmasına yatkın,",
+  "Sorumluluk duygusu gelişmiş,",
+  "Talimat ve kurallara titizlikle uyan,",
+  "Stresli ve ani gelişen durumlarda çalışabilen,"
+ ],
+ "gorevler": [
+  "Yangın söndürme tüpleri ve ekipmanlarını hazır tutar,",
+  "Yangın anında alarm sistemini devreye sokar ve tahliyeye yardımcı olur,",
+  "İlk söndürme müdahalesini güvenli şekilde gerçekleştirir,",
+  "Yangın bölgesindeki riskli maddelerin uzaklaştırılmasını sağlar,",
+  "Yangın sonrası alan kontrolü ve raporlama yapar,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Meslek elemanları, iş sağlığı ve güvenliği, yangın güvenliği, ileri söndürme teknikleri ve ilk yardım konularında açılan ek kurs ve sertifika programlarına katılarak bilgi ve becerilerini geliştirebilirler. İsteyenler, ilgili önlisans/lisans programlarına yönelerek iş güvenliği uzmanlığı veya benzeri alanlarda ilerleyebilir.",
+  "is_hayatinda": "Deneyim kazandıkça işyerinde yangın ekibi sorumluluğu, vardiya amirliği gibi görevlere getirilebilir. İş sağlığı ve güvenliği alanında ek eğitim alanlar iş güvenliği uzmanlığı gibi daha ileri pozisyonlara geçiş yapabilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Meslek genellikle örgün bir eğitim programı gerektirmediğinden, eğitim işyerinde çalışırken verilmektedir; bu dönemde kişi işyerindeki normal ücretini almaya devam eder. Bağımsız kısa süreli kurslara katılım genellikle ücretsiz veya düşük maliyetlidir.",
+  "egitim_sonrasi": [
+   "Göreve yeni başlayanlar genellikle asgari ücret düzeyinde kazanç elde eder.",
+   "Özel sektörde kazanç, işyerinin büyüklüğüne, sektörüne, çalışanın deneyimine ve varsa toplu iş sözleşmesi hükümlerine göre değişebilir.",
+   "Kamu kurumlarında işçi statüsünde istihdam edilenlerin ücreti ilgili toplu iş sözleşmesi hükümlerine tabidir."
+  ]
+ },
+ "ek_bilgiler": "Yangın riski taşıyan bazı işyerlerinde bu görev, iş sağlığı ve güvenliği mevzuatı kapsamında tehlikeli veya çok tehlikeli işler sınıfında değerlendirilebilmektedir; bu durumda işveren tarafından periyodik sağlık kontrolü ve ek eğitim zorunluluğu doğabilir. Mesleki Yeterlilik Kurumu (MYK) tarafından ilgili alanda verilen belgeler istihdamda tercih sebebi olabilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T19:43:57",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5297
+  }
+ }
+}

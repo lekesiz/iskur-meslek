@@ -1,0 +1,81 @@
+{
+ "arac_gerec": [
+  "Ampermetre, voltmetre, avometre, meger gibi ölçü aletleri",
+  "Faz kalemi ve seri lamba",
+  "Tornavida, pense, kargaburun, yan keski, çekiç gibi el aletleri",
+  "Kablo soyma, sıkma ve ekleme takımları",
+  "İzole eldiven, baret, iş elbisesi, maden lambası/far gibi kişisel koruyucu donanım",
+  "Gaz dedektörü ve ortam ölçüm cihazları",
+  "Kondüktör, şalter, sigorta, röle, termostat, sinyal lambası gibi kumanda ve kontrol elemanları",
+  "Kablo, kablo kanalı, boru ve bağlantı malzemeleri",
+  "Grizu emniyetli (patlamaya dayanıklı) elektrikli ekipman ve aksesuarlar",
+  "Lehim/havya takımı",
+  "Çektirme, tezgâh mengenesi, eğe, testere, pafta ve kılavuz takımları",
+  "El feneri ve ocak içi aydınlatma teçhizatı"
+ ],
+ "benzer_meslekler": [
+  "Elektrikçi (Genel)",
+  "Endüstriyel Bakım ve Onarımcısı/ Bakım ve Onarım Elektrikçisi",
+  "İşletme Elektrik Bakımcısı",
+  "İşletme Elektrik Bakım Yardımcısı",
+  "Elektrik Tesis İşletme Bakım İşçisi",
+  "Elektrik Dağıtım Şebekesi İşletme Bakım Görevlisi"
+ ],
+ "calisma_alanlari": "Elektrikçi (Maden Ocakları), kamuya veya özel sektöre ait kömür, metal ve diğer maden işletmelerinin yer altı ve yer üstü ocaklarında istihdam edilir. İşletmelerin elektrik bakım-onarım birimlerinde, vardiyalı çalışma düzeni içinde görev yapar.\\n\\nMaden sektöründeki üretim hacmine ve yatırımlara bağlı olarak istihdam olanakları değişkenlik gösterebilir. Elektrikli ve otomasyonlu ekipman kullanımının artması, bu alanda nitelikli ve iş güvenliği bilgisine sahip elektrikçilere olan ihtiyacı sürdürmektedir.",
+ "calisma_ortami": "Elektrikçi (Maden Ocakları) genellikle yer altı maden ocaklarında, bazen de yer üstü tesislerde çalışır. Çalışma ortamı dar, karanlık, nemli, tozlu ve gürültülü olabilir; sıcaklık ve havalandırma koşulları değişkendir. Gaz birikimi, patlama, göçük, elektrik çarpması ve mekanik yaralanma gibi riskler bulunduğundan iş sağlığı ve güvenliği kurallarına titizlikle uyulması gerekir. Çalışma genellikle vardiyalı sistemle, zaman zaman gece saatlerinde de sürdürülür.\\n\\nMeslek elemanı; maden mühendisleri, iş güvenliği uzmanları, ustabaşı, diğer bakım personeli ve ocak işçileriyle sürekli iletişim ve iş birliği içinde çalışır. İşin niteliği, ekip hâlinde ve koordineli hareket etmeyi gerektirir.",
+ "egitim": {
+  "verildigi_yerler": "Bu meslek için örgün eğitim kurumlarında ayrı bir diploma programı bulunmamaktadır. Mesleki ve teknik eğitim kurumlarının elektrik-elektronik teknolojisi alanındaki temel eğitim, mesleğe geçiş için bir alt yapı oluşturur. Mesleğe özgü bilgi ve beceriler büyük ölçüde maden işletmelerinde işbaşında, deneyimli usta yanında çalışılarak; ayrıca Halk Eğitim Merkezleri, İŞKUR ve bazı kamu/özel kuruluşların açtığı mesleki eğitim ve iş güvenliği kurslarıyla kazanılır.",
+  "giris_kosullari": [
+   "İlköğretim mezunu olmak (meslek için gereken asgari eğitim düzeyi)",
+   "Maden işletmesinde çalışmaya uygun sağlık durumuna sahip olmak; periyodik sağlık muayenelerinden geçebilecek fiziksel uygunlukta olmak",
+   "Çok tehlikeli işler sınıfında yer alan maden ocaklarında çalışacağından, temel iş sağlığı ve güvenliği eğitimini tamamlamış veya tamamlamaya uygun olmak",
+   "Elektrik tesisatı ve ekipmanları konusunda temel bilgi ve ilgiye sahip olmak"
+  ],
+  "sure_ve_icerik": "Mesleğin standart bir eğitim süresi tanımlı değildir. Aday genellikle mesleki ve teknik eğitimde elektrik-elektronik alanındaki temel dersleri aldıktan sonra, maden işletmesinde deneyimli bir elektrikçinin gözetiminde işbaşı eğitimiyle mesleği öğrenir. Bu süreçte elektrik tesisatı kurulumu, arıza tespiti ve onarımı, kumanda-kontrol-sinyal sistemleri, kablo tesisatı ile maden ocağına özgü iş güvenliği ve grizu emniyetli ekipman kullanımı konuları uygulamalı olarak öğretilir. Ayrıca kısa süreli mesleki eğitim ve iş güvenliği kursları bu sürece eşlik eder.",
+  "belge": "Mesleğe özgü zorunlu bir okul diploması bulunmamakla birlikte, katılınan kurs ve eğitimlerden katılım belgesi/sertifika alınabilir. Maden ocakları çok tehlikeli işler sınıfında yer aldığından, çalışılan işletmenin ve ilgili mevzuatın gerektirdiği iş güvenliği eğitim belgeleri önemlidir. Mesleki Yeterlilik Kurumu (MYK) belgesi, bu alanda istihdamda tercih sebebi olabilir; ilgili meslek standardı kapsamındaysa işe alımda aranabilir."
+ },
+ "ek_bilgiler": "Maden ocakları, iş sağlığı ve güvenliği mevzuatında çok tehlikeli işler sınıfında yer almaktadır. Bu nedenle mesleği uygulayacakların düzenli iş güvenliği eğitimi almaları, periyodik sağlık muayenesinden geçmeleri ve kullanılan elektrikli ekipmanın grizu emniyetli (patlamaya dayanıklı, ex-proof) özellikte olmasına ve ilgili standartlara uygun kurulmasına özen göstermeleri gerekmektedir.",
+ "genel_ozellikler": [
+  "El ve beden becerisine sahip,",
+  "Dikkatli ve titiz,",
+  "Fiziksel olarak sağlıklı ve dayanıklı,",
+  "Dar, kapalı ve karanlık alanlarda çalışmaktan çekinmeyen,",
+  "Ekip çalışmasına uyumlu,",
+  "Sorumluluk sahibi,",
+  "Tehlikeli ortam koşullarına karşı temkinli ve tedbirli,",
+  "Elektrik ve mekanik sistemlere ilgi ve yetenek duyan"
+ ],
+ "gorevler": [
+  "İşletmenin çalışma prensipleri doğrultusunda iş organizasyonu yapar",
+  "Maden ocağındaki elektrik tesisat ve teçhizatını kurar",
+  "Elektrik tesisat ve teçhizatında arıza tespiti yapar",
+  "Elektrikli makine ve teçhizatın arızalarını giderir",
+  "Tahrik sistemlerinin yağlı otomatik kondaktörlerinin bakım ve onarımını yapar",
+  "Enerji dağıtım sistemlerinin aydınlatma tesisatının bakım ve onarımını yapar",
+  "Mekanik ve statik gerilim konvertörlerinin kumanda, kontrol ve sinyal sistemleri üzerinde çalışır",
+  "Bu sistemlere bağlı kablo tesisatının döşenmesi, bakım ve onarımını yapar",
+  "Koruyucu/emniyet tesisatının bakım ve onarımını yapar",
+  "Makine ve teçhizatın periyodik/koruyucu bakımını yapar",
+  "Mesleki gelişim faaliyetlerinde bulunur"
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleki ve teknik eğitim kurumlarının elektrik-elektronik teknolojisi alanında eğitim alanlar, sınavla ilgili yükseköğretim (ön lisans/lisans) programlarına geçebilir. Çalıştıkça elektrik tesisatı, endüstriyel bakım-onarım, otomasyon ve iş güvenliği konularında açılan kurs ve sertifika programlarına katılarak bilgi ve becerilerini geliştirebilir.",
+  "is_hayatinda": "Deneyim ve bilgi birikimi arttıkça usta, ekip lideri veya bakım-onarım şefliği gibi görevlere yükselebilir. İş güvenliği, bakım planlama veya teknisyenlik gibi ilgili alanlara geçiş yapabilir. Yeterli deneyim ve sermaye ile kendi elektrik bakım-onarım işini kurabilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Mesleğe özgü örgün bir çıraklık eğitimi tanımlı olmadığından, işbaşında eğitim alanlar genellikle çalıştıkları maden işletmesinin ücret politikasına göre, çoğunlukla asgari ücret düzeyinde bir ücret alır.",
+  "egitim_sonrasi": [
+   "Kamuya bağlı maden işletmelerinde memur statüsünde çalışanlar 657 sayılı Devlet Memurları Kanunu'na, işçi statüsünde çalışanlar ise toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektördeki maden işletmelerinde ücret; işyerinin büyüklüğü, çalışanın deneyimi, bilgi ve becerisi ile sektördeki genel ücret düzeyine göre değişir.",
+   "Madencilik sektöründeki çalışma risk ve koşulları nedeniyle bu alandaki ücretler, deneyimli ve nitelikli elemanlar için piyasa ortalamasının üzerinde olabilir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T05:53:07",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 7930
+  }
+ }
+}

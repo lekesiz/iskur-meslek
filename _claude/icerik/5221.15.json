@@ -1,0 +1,86 @@
+{
+ "arac_gerec": [
+  "Kavurma fırını/makinesi",
+  "Tartı ve baskül",
+  "Paketleme ve ambalaj makinesi",
+  "Poşet, kese kağıdı, kavanoz ve kutu gibi ambalaj malzemeleri",
+  "Teşhir rafları ve vitrin üniteleri",
+  "Ayıklama ve temizleme ekipmanları",
+  "Fiyat etiketleme cihazı",
+  "Yazar kasa/POS cihazı",
+  "Kasa, çuval gibi depolama ve nakliye malzemeleri",
+  "Bıçak, makas gibi kesici el aletleri",
+  "Fatura, makbuz ve irsaliye defterleri",
+  "Temizlik malzeme ve ekipmanları"
+ ],
+ "genel_ozellikler": [
+  "Dürüst ve güvenilir,",
+  "Dikkatli ve titiz,",
+  "İnsan ilişkilerinde başarılı,",
+  "İkna yeteneğine sahip,",
+  "Fiziksel olarak dayanıklı,",
+  "Hesap kabiliyeti olan,",
+  "Pazarlama ve ticari zekaya sahip,",
+  "Düzenli ve tertipli"
+ ],
+ "calisma_ortami": "Kuruyemişçiler genellikle kendilerine ait dükkan veya mağaza içinde, bazı durumlarda pazar yeri tezgahı ya da AVM içi satış noktası gibi yarı açık alanlarda çalışır. Kavurma işlemi sırasında ısı ve kokuya, uzun süre ayakta durmaya ve ürün taşımaya bağlı fiziksel yorgunluk söz konusu olabilir. Çalışma saatleri genellikle uzundur, hafta sonları ve resmî tatillerde de çalışma yapılabilir; özellikle kış ayları ve özel günlerde (bayram, yılbaşı vb.) iş yoğunluğu artar.\n\nMeslek, müşterilerle, toptancı ve imalatçı firmalarla, tedarikçilerle sürekli iletişim gerektirir. Kendi işyerini işletenler satış yanında tedarik, muhasebe, vergi ve personel yönetimi gibi işlerle de ilgilenir.",
+ "egitim": {
+  "verildigi_yerler": "Kuruyemişçilik için örgün bir mesleki eğitim programı bulunmamaktadır. Meslek genellikle ilköğretim sonrası işyerinde usta yanında çalışarak öğrenilir. Halk Eğitim Merkezleri ve İşkur'un açtığı gıda satışı, hijyen ve temel pazarlama/satış becerilerine yönelik kısa süreli mesleki eğitim kursları, mesleğe hazırlanmak isteyenler için destekleyici nitelikte olabilir.",
+  "giris_kosullari": [
+   "İlköğretim mezunu olmak",
+   "Çalışma hayatına katılım için gereken yaş sınırını karşılamak",
+   "Gıda satışı yapılacağından hijyen/gıda güvenliği eğitimine katılmaya istekli olmak"
+  ],
+  "sure_ve_icerik": "Mesleğin belirli bir resmi eğitim süresi yoktur. Bilgi ve beceriler genellikle işyerinde usta-çırak ilişkisi içinde uygulamalı olarak kazanılır. İsteyenler gıda hijyeni, temel satış-pazarlama ve işletme yönetimi konularında kısa süreli kurslara katılarak bilgilerini artırabilir.",
+  "belge": "Katıldığı kurslar için kurs bitirme/katılım belgesi ve gıda satışı yapılan işyerlerinde çalışanlar için hijyen eğitimi sertifikası alınabilir. Kendi işyerini açacaklar için işyeri açma ve çalışma ruhsatı ile ilgili mevzuata uygun gıda satış izin belgesi gerekir."
+ },
+ "calisma_alanlari": "Kuruyemişçiler kendilerine ait dükkan veya mağazalarda, pazar yeri tezgahlarında, alışveriş merkezleri içindeki satış noktalarında ve bazı market/şarküteri bölümlerinde çalışabilir. Özellikle büyükşehirlerde, yoğun ticari bölgelerde ve turistik yerlerde talep daha fazladır. Meslek kendi işini kurmaya uygundur; yeterli sermaye ve deneyime sahip olanlar kendi işyerlerini açabilir, deneyimli ve güvenilir çalışanlar mevcut işyerlerinde kolaylıkla iş bulabilir.",
+ "kazanc": {
+  "egitim_suresince": "Örgün bir mesleki eğitim programı bulunmadığından öğrencilik döneminde ücret söz konusu değildir. İşyerinde çalışarak mesleği öğrenenler genellikle asgari ücret düzeyinde bir kazanç elde edebilir.",
+  "egitim_sonrasi": [
+   "Ücretli olarak çalışanların kazancı 4857 sayılı İş Kanunu kapsamında işverenle yapılan sözleşmeye, deneyime, bilgi ve beceriye, işyerinin büyüklüğüne göre değişir; yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Kendi işyerini işletenlerin kazancı işletmenin büyüklüğü, müşteri potansiyeli, sermayesi ve işletmecilik becerisine göre değişkenlik gösterir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Bu meslekte kademeli bir örgün mesleki eğitim ilerleme sistemi bulunmamaktadır. İsteyenler gıda teknolojisi, pazarlama ve işletmecilik gibi alanlarda açık öğretim veya örgün eğitim programlarına yönelerek bilgi ve becerilerini geliştirebilir.",
+  "is_hayatinda": "Deneyim ve sermaye biriktiren çalışanlar kendi işyerlerini açabilir, mevcut işletmelerini büyütebilir, personel istihdam ederek işletmeyi genişletebilir veya toptan satış/dağıtım faaliyetlerine geçebilir."
+ },
+ "benzer_meslekler": [
+  "Bakkal",
+  "Manav",
+  "Aktar (Baharatçı)",
+  "Turşucu",
+  "Sakatatçı",
+  "Zahireci"
+ ],
+ "ek_bilgiler": "Gıda satışı yapıldığından işyerinin, belediye ve sağlık mevzuatı çerçevesinde gıda satış/işyeri açma ruhsatına sahip olması gerekir. Kendi işyerini açacaklar için ilgili esnaf ve sanatkarlar odasına kayıt söz konusu olabilir.",
+ "gorevler": [
+  "Satışı yapılabilecek kuruyemiş çeşitleri ile kalite ve miktarını tespit eder.",
+  "Toptancı ve imalatçı firmalardan en uygun şartlarda mal temin eder, işyerine nakliyesini sağlar.",
+  "İşyerine getirilen kuruyemişlerden kavrulması gerekenlerin kavrulmasını, ayıklanmasını ve satışa hazır hale getirilmesini sağlar.",
+  "Satışı yapılan ürünlerin fiyatlarını, indirim ve kampanyaları belirler.",
+  "Malların tüketici beğenisine uygun şekilde teşhir edilmesini sağlar.",
+  "Müşterilere kuruyemişlerin özellikleri, besin değerleri, tüketilmesi ve saklanması gibi konularda bilgi verir.",
+  "Müşterilere kuruyemişlerin fiyatları hakkında bilgi verir, satın alma kararlarına yardımcı olur.",
+  "Gerektiğinde müşterilerden sipariş alır, siparişlerin hazırlanarak müşterilere teslim edilmesini sağlar.",
+  "Gerektiğinde müşterilerin istediği kuruyemişleri tartar, paketler ve müşterilere teslim eder.",
+  "Gerektiğinde satışı yapılan ürünün ücretini tahsil eder, fatura ya da yazar kasa fişi düzenleyerek müşteriye verir.",
+  "Ürün stoklarını kontrol eder, biten ve azalan ürünleri temin eder.",
+  "İşyerine ait envanter ve muhasebe kayıtlarının tutulmasını sağlar.",
+  "İşyerine ait vergi, resim, harç, kira gibi aidat ve ödemelerin yapılmasını sağlar.",
+  "Gerektiğinde makbuz, fatura, senet, çek gibi ticari belgeleri düzenler.",
+  "Çalıştırdığı personel varsa sevk ve idare eder.",
+  "İşyerinin temizlik ve sağlık kurallarına göre temizliğinin ve gerekli düzenlemelerin yapılmasını sağlar.",
+  "Meslek alanı ile ilgili gelişmeleri takip eder ve uygular.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T18:22:54",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6392
+  }
+ }
+}

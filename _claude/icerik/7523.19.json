@@ -1,0 +1,77 @@
+{
+ "arac_gerec": [
+  "Zımpara kağıdı/zımpara bantları (çeşitli kalınlık ve kalınlıkta)",
+  "Bantlı veya silindirli zımpara makinesi",
+  "Merdane (silindir) ve tabla düzenekleri",
+  "Hava aspiratörü ve manometre",
+  "Kumanda şalteri ve hareket kolu",
+  "Kauçuk oluklu merdane",
+  "Kalınlık ölçüm aletleri (kumpas, şerit metre)",
+  "Toz emme/elektrikli süpürge sistemi",
+  "İş eldiveni, toz maskesi, koruyucu gözlük, kulaklık",
+  "Temizlik ve bakım gereçleri (fırça, yağlama malzemeleri)",
+  "Ağaç parçalar, paneller, mobilya elemanları"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve tedbirli,",
+  "El ve gözünü eşgüdümle kullanabilen,",
+  "Makine ve aletlerle çalışmaktan hoşlanan,",
+  "Fiziksel olarak dayanıklı,",
+  "Düzenli ve sabırlı,",
+  "Talimatlara uyabilen,",
+  "Toz ve gürültülü ortamda çalışabilen,",
+  "İşbirliğine açık"
+ ],
+ "calisma_ortami": "\"Zımpara makinesi operatörleri (ağaç), ağaç işleme ve mobilya üretim atölye ve fabrikalarında kapalı mekanlarda çalışır. Çalışma ortamı genellikle tozlu ve gürültülüdür; bu nedenle toz maskesi, kulaklık ve koruyucu gözlük gibi kişisel koruyucu donanım kullanılması gerekir. İş, çoğunlukla ayakta ve makine başında durarak yapılır; uzun süre aynı pozisyonda çalışma fiziksel dayanıklılık gerektirir.\\n\\nÇalışma saatleri işletmenin üretim programına göre değişebilir, bazı işletmelerde vardiyalı çalışma söz konusu olabilir. Operatör, çalışma sırasında diğer makine operatörleri, ustabaşı, kalite kontrol elemanları ve bakım personeliyle sürekli iletişim halindedir.\"",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitim düzeyi ilköğretim olarak belirlenmiştir ve bu mesleğe özgü, örgün eğitim sistemi içinde ayrı bir ders programı bulunmamaktadır. Meslek genellikle ağaç işleme ve mobilya üretim işletmelerinde işbaşında usta yanında öğrenilir. Ayrıca Halk Eğitim Merkezleri ile İŞKUR'un açtığı mesleki eğitim kurslarında ahşap/mobilya işleme konularında kısa süreli kurslar düzenlenebilmektedir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "Fiziksel olarak ayakta ve makine başında çalışmaya uygun olmak",
+   "Toz ve gürültülü ortamda çalışmaya engel bir sağlık sorununun bulunmaması"
+  ],
+  "sure_ve_icerik": "Mesleğe özgü standart bir eğitim süresi bulunmamaktadır. İşletmelerde usta yanında belirli bir uyum ve uygulama süreci içinde makine ayarları, zımpara kağıdı seçimi, parça besleme ve bakım-temizlik işlemleri öğretilir. Açılan kurslarda ise ağaç işleme makineleri, iş güvenliği ve temel uygulama bilgileri verilmektedir.",
+  "belge": "İşbaşında yetişenler için resmî bir diploma söz konusu değildir; katıldıkları kurslar sonunda katılım veya başarı belgesi alabilirler. Çıraklık eğitimi kapsamında yetişenlere ilgili mevzuata göre kalfalık/ustalık belgesi verilebilir."
+ },
+ "calisma_alanlari": "\"Zımpara makinesi operatörleri (ağaç); mobilya, kapı-pencere doğraması, parke, kontrplak, sunta ve benzeri ahşap ürünlerin üretildiği fabrika ve atölyelerde istihdam edilmektedir. Ağaç işleme ve mobilya sektörünün yoğun olduğu bölgelerde iş bulma olanağı daha yüksektir. İşe alımlarda genellikle fiziksel uygunluk ve makine kullanımına ilişkin temel bilgi/tecrübe aranır.\"",
+ "kazanc": {
+  "egitim_suresince": "Meslek genellikle işbaşında usta yanında öğrenildiğinden, bu süreçte çalışanlara işletmenin uygulamasına göre asgari ücret düzeyinde veya buna yakın bir ücret ödenebilir. Çıraklık eğitimi kapsamında yetişenler için 3308 sayılı Mesleki Eğitim Kanunu hükümleri uygulanabilir.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanların kazancı genellikle asgari ücret düzeyindedir.",
+   "Deneyim, işletme büyüklüğü ve sektördeki ücret düzeyine göre kazanç artabilir.",
+   "Özel sektörde ücretler işveren ile karşılıklı anlaşmaya göre belirlenir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Zımpara makinesi operatörleri, Halk Eğitim Merkezleri ve İŞKUR'un açtığı kurslara katılarak veya işletme içi eğitimlerle farklı ağaç işleme makinelerinin (planya, freze, CNC ahşap işleme makineleri vb.) kullanımını öğrenerek mesleki bilgi ve becerilerini geliştirebilirler.",
+  "is_hayatinda": "Deneyim kazandıkça farklı ağaç işleme makinelerinde operatörlük yapabilir, ustabaşı veya vardiya sorumlusu konumuna yükselebilirler. CNC destekli ahşap işleme makinelerinde uzmanlaşarak daha nitelikli iş kollarına geçiş yapabilirler."
+ },
+ "benzer_meslekler": [
+  "Ahşap İşleme Makineleri Operatörü",
+  "Diğer Ağaç İşleme Makinesi Operatörleri",
+  "Perdahlama Makinesi Ayarcı-Operatörü (Ağaç)",
+  "Planya Tezgahı Ayarcı-Operatörü (Ağaç)",
+  "Tesviye İşçisi-Ağaç",
+  "Ahşap İşleme Makineleri Operatörü-Ustası"
+ ],
+ "ek_bilgiler": "\"Çalışma ortamındaki ahşap tozuna uzun süre maruz kalma, solunum yolu açısından risk oluşturabileceğinden kişisel koruyucu donanımların düzenli kullanılması önemlidir. Mesleki Yeterlilik Kurumu (MYK) belgesi bazı işletmelerde istihdamda tercih sebebi olabilir.\"",
+ "gorevler": [
+  "İşletmenin genel çalışma prensipleri doğrultusunda, iş güvenliği ve çevre koruma düzenlemelerine, mesleğin verimlilik ve kalite gereklerine uygun olarak çalışır.",
+  "Kullanacağı zımpara kağıdını seçerek makine silindirleri üzerine takar.",
+  "Zımparalanacak ağaç parçanın kalınlığına göre otomatik düğmeden merdane ile tabla arasındaki mesafeyi ayarlar.",
+  "Hava aspiratörünü çalıştırır; basınçlı hava miktarını düzenler ve manometre göstergesinden yaptığı ayarı kontrol eder.",
+  "Şalteri açarak merdaneleri döndürür; hareket kolunu sağa veya sola çevirerek dönüş hızını ayarlar.",
+  "Otomatik düğmeye basarak kauçuk oluklu merdaneyi çalıştırır.",
+  "Zımparalanacak parçayı merdanelere doğru sürerek parça yüzlerinin zımparalanmasını ve temizlenmesini sağlar.",
+  "İş bitiminde makinenin bakım ve temizliğini yapar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T08:09:38",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5054
+  }
+ }
+}

@@ -1,0 +1,78 @@
+{
+ "arac_gerec": [
+  "GPS/GNSS el cihazı",
+  "Lazer mesafe ölçer",
+  "Şerit metre ve mezura",
+  "Kablo/boru dedektörü",
+  "Toprak sondası veya çelik tespit çubuğu",
+  "Dizüstü bilgisayar veya tablet",
+  "Teknik çizim (CAD) ve harita/GIS yazılımları",
+  "Dijital fotoğraf makinesi",
+  "Şebeke planları ve saha haritaları",
+  "Survey formları ve tutanaklar",
+  "Kişisel koruyucu donanım (baret, reflektörlü yelek, iş eldiveni, iş ayakkabısı)",
+  "Trafik uyarı ekipmanları (koni, bariyer, işaret levhası)",
+  "El feneri",
+  "Projeye göre drone veya optik ölçüm cihazları"
+ ],
+ "genel_ozellikler": [
+  "Açık havada ve farklı arazi koşullarında çalışmaya istekli,",
+  "Dikkatli, titiz ve sorumluluk duygusu gelişmiş,",
+  "Harita ve teknik çizim okuma becerisine sahip,",
+  "Yön bulma ve uzamsal algısı gelişmiş,",
+  "Fiziksel olarak dayanıklı,",
+  "Ekip halinde çalışmaya uyumlu,",
+  "Temel bilgisayar ve ölçüm yazılımlarını kullanabilen,",
+  "Raporlama ve belgelemede düzenli ve sistemli çalışan"
+ ],
+ "calisma_ortami": "Altyapı destek (survey) elemanı, çoğunlukla açık havada; şehir içi ve şehir dışı sahalarda, yol kenarlarında, kazı alanlarında ve bazen zor arazi koşullarında görev yapar. Topladığı verileri aktarmak ve rapor hazırlamak için zaman zaman kapalı ortamda (ofis) bilgisayar başında da çalışır. Çalışma sırasında trafik, olumsuz hava koşulları, kazı/şantiye alanlarına özgü riskler ve bazen yüksekte çalışma söz konusu olabilir; bu nedenle kişisel koruyucu donanım kullanımı önemlidir.\n\nÇalışma saatleri genellikle gündüz ve proje takvimine bağlı olarak değişkenlik gösterebilir; bazı projelerde şehir dışı görevlendirme ve seyahat gerekebilir. Görevi sırasında saha ekibi, mühendisler, teknik ekipler, taahhüt firması yetkilileri ile belediye/kurum görevlileriyle sıkça iletişim kurar.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğe özgü, ayrı bir meslek lisesi alanı/dalı veya örgün mesleki eğitim programı bulunmamaktadır. Mesleğe genellikle ortaöğretim (lise ve dengi, özellikle elektrik-elektronik, harita-tapu-kadastro veya telekomünikasyon ile ilgili teknik programlardan mezun) sonrasında işbaşında usta/deneyimli personel yanında eğitimle veya İŞKUR ile özel kuruluşların açtığı mesleki eğitim kurslarıyla girilmektedir.",
+  "giris_kosullari": [
+   "En az lise veya dengi okul mezunu olmak",
+   "Sağlık durumunun açık havada ve arazi koşullarında çalışmaya uygun olması",
+   "B sınıfı sürücü belgesine sahip olmak işe alımda genellikle tercih sebebidir",
+   "Temel bilgisayar kullanım bilgisine sahip olmak"
+  ],
+  "sure_ve_icerik": "Mesleğin resmî olarak tanımlanmış bir eğitim süresi ve müfredatı bulunmamaktadır. İşe alındıktan sonra işbaşında, deneyimli personel gözetiminde; GPS/GNSS cihazları ve ölçüm ekipmanlarının kullanımı, harita okuma, teknik çizim ve survey raporu hazırlama, şebeke envanteri kontrolü, iş sağlığı ve güvenliği uygulamaları gibi konularda uygulamalı eğitim verilir. Bu süreç işletmeye ve projenin niteliğine göre değişmekle birlikte genellikle birkaç hafta ile birkaç ay arasında sürer.",
+  "belge": "Mesleğe giriş için zorunlu resmî bir diploma veya sertifika bulunmamaktadır; katılınan kurslardan katılım/başarı belgesi alınabilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, ilgili alanda düzenlenmişse istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Altyapı destek (survey) elemanları; telekomünikasyon operatörleri ve bunların yüklenici/taahhüt firmalarında, fiber optik altyapı kurulum şirketlerinde, elektrik dağıtım ve enerji altyapı şirketlerinde, mühendislik ve harita/GIS hizmeti veren firmalarda, belediyelerin altyapı birimlerinde çalışabilirler. Ülkemizde fiber optik ve enerji altyapı yatırımlarının sürmesi, bu alanda saha ölçümü ve envanter çalışması yapan personele olan ihtiyacı desteklemektedir.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğe özgü, 3308 sayılı Kanun kapsamında yürütülen bir çıraklık/mesleki eğitim süreci bulunmadığından, işbaşı eğitim döneminde çalışanlara işletme tarafından genellikle asgari ücret düzeyinde ücret ödenmektedir.",
+  "egitim_sonrasi": [
+   "Özel sektörde çalışanların kazancı; işyerinin büyüklüğü, kişinin tecrübesi, bilgi ve becerisi, üstlenilen proje ve sektörün ücret düzeyine göre değişmektedir; genellikle asgari ücret düzeyinde başlar ve deneyimle birlikte artış gösterebilir.",
+   "Kamu kurum ve kuruluşlarında istihdam edilenler 657 sayılı Devlet Memurları Kanunu'na veya ilgili statüye tabi olarak ücret alır.",
+   "Bazı işletmelerde tamamlanan proje veya iş miktarına bağlı ek prim ödemesi yapılabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğe özgü örgün bir eğitim basamağı bulunmadığından ilerleme, genellikle deneyim ve ilave kurs/sertifikalarla sağlanır. İsteyenler elektrik-elektronik, harita mühendisliği, jeodezi ve fotogrametri, telekomünikasyon gibi ilgili ön lisans veya lisans programlarına yönelerek bilgi ve unvanlarını güçlendirebilir.",
+  "is_hayatinda": "Deneyim kazandıkça saha ekip lideri, survey/ölçüm uzmanı, proje koordinatörü veya saha operasyon sorumlusu gibi görevlere yükselebilir. Yeterli bilgi birikimi ve sermayeye sahip olanlar kendi taahhüt/survey firmasını kurarak işveren olarak da çalışabilir."
+ },
+ "benzer_meslekler": [
+  "Telekomünikasyon Şebeke Planlama Saha Elemanı",
+  "Telekomünikasyon Şebeke Kurulum Elemanı",
+  "Baz İstasyonu Montaj Elemanı",
+  "Telekomünikasyon Enerji Sistemleri Elemanı",
+  "Fiber Optik Data ve Uydu Sistemleri Tesisatçısı",
+  "Telekomünikasyon Operasyon ve İşletim Elemanı"
+ ],
+ "ek_bilgiler": "Mesleğin icrası sırasında şehir dışı/farklı illerde görevlendirme ve seyahat gerekebilir. Harita okuma, teknik çizim (CAD) ve GIS yazılımlarına ilişkin bilgi, işe alımda ve kariyer gelişiminde tercih sebebidir. Kazı ve montaj öncesi yer tespiti gibi işlemler nedeniyle saha güvenliği kurallarına uyum büyük önem taşır.",
+ "gorevler": [
+  "Saha etütleri yaparak altyapı ölçümlerini gerçekleştirir.",
+  "Teknik çizim ve survey raporları hazırlar.",
+  "Mevcut şebeke envanterini kontrol eder ve günceller.",
+  "Kazı ve montaj öncesi yer tespiti yapar.",
+  "Toplanan verileri dijital sistemlere aktarır.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T06:40:44",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5451
+  }
+ }
+}

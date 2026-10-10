@@ -1,0 +1,78 @@
+{
+ "arac_gerec": [
+  "Rezistans (punta) kaynak makinesi",
+  "Alın kaynağı (yakma alın/çok uçlu punta alın) makinesi",
+  "Dikiş kaynağı için merdane uçlu elektrotlar",
+  "Bakır elektrot uçları ve elektrot başlıkları",
+  "Akım ayar trafosu ve kontrol panosu",
+  "Zamanlayıcı/kumanda rölesi",
+  "Basınç ayar düzeneği (pnömatik veya hidrolik silindir)",
+  "Soğutma suyu devresi ve bağlantıları",
+  "Kumpas, mastar ve şerit metre",
+  "Taşlama motoru ve tel fırça",
+  "Teknik çizim ve ölçü planları",
+  "Koruyucu gözlük veya yüz siperi",
+  "İş eldiveni ve önlük",
+  "Çelik burunlu iş ayakkabısı",
+  "Kulak koruyucu"
+ ],
+ "benzer_meslekler": [
+  "Punta Kaynak Makinesi İşçisi",
+  "Nokta Kaynak İşçisi",
+  "Direnç Kaynak Ayarcısı",
+  "Direnç Alın Kaynakçısı",
+  "Dikiş Kaynak Makinesi İşçisi",
+  "Otomatik Zincir Kaynak Makinesi İşçisi"
+ ],
+ "calisma_alanlari": "Rezistans kaynakçıları, başta otomotiv ve otomotiv yan sanayi olmak üzere, beyaz eşya, makine imalatı, metal eşya, elektrikli ev aletleri, inşaat demiri ve profil üretimi gibi metal sanayi işletmelerinde istihdam edilirler. Seri üretim yapılan fabrikalarda üretim hattında, orta ve büyük ölçekli atölyelerde ya da taşeron firmalar bünyesinde çalışabilirler. Meslek, genellikle bireysel olarak değil bir işletme bünyesinde yürütülür; kendi adına bağımsız işyeri açma imkânı sınırlıdır.",
+ "calisma_ortami": "Rezistans kaynakçıları, genellikle fabrika ve atölye gibi kapalı mekânlarda, üretim hattı içinde ayakta çalışırlar. Çalışma ortamı makine gürültüsü, metal tozu ve kaynak işlemi sırasında ortaya çıkan ısı ve koku nedeniyle yorucu olabilir. Elektrik akımıyla çalışan makinelerin kullanılması nedeniyle elektrik çarpması, sıcak metal parçalarla yanık ve el-kol yaralanmaları gibi riskler bulunur; gerekli koruyucu donanımın kullanılması ve iş güvenliği kurallarına uyulması bu riskleri önemli ölçüde azaltır.\n\nÇalışma genellikle belirli bir vardiya düzeninde ve üretim hattının temposuna bağlı olarak yürütülür. Meslek elemanı; iş arkadaşları, hat sorumlusu, kalite kontrol personeli ve bakım ekipleriyle sürekli iletişim halindedir, zaman zaman teknik çizim ve iş talimatlarını yorumlayarak çalışır.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi, mesleki ve teknik eğitim okullarının metal teknolojisi/kaynak alanlarında, Halk Eğitim Merkezleri ile İŞKUR'un açtığı mesleki eğitim kurslarında ve büyük ölçüde işyerlerinde işbaşında usta yanında yetişme yoluyla kazanılmaktadır. Resmî olarak yalnızca bu mesleğe özgü, standart bir okul programı bulunmamakla birlikte genel kaynak/metal işleri eğitimi içinde yer alır.",
+  "giris_kosullari": [
+   "Mesleğe giriş için en az ilköğretim mezunu olmak",
+   "Her yaş, eğitim ve sosyal statüden kişilerin kurslara katılabilmesi; 18 yaşından küçüklerin veli izniyle katılabilmesi",
+   "El ve göz koordinasyonunun iyi olması, kapalı/gürültülü ortamda çalışmaya engel bir sağlık sorununun bulunmaması"
+  ],
+  "sure_ve_icerik": "Eğitim süresi ve içeriği, alınan kursun veya programın türüne göre değişmektedir. İçerikte genellikle temel kaynak teknolojisi, metal malzeme bilgisi, teknik resim okuma, elektrik-elektronik temel bilgisi, makine kullanımı, ölçme-kontrol ve iş sağlığı-güvenliği konuları yer alır. Mesleğin uygulamalı kısmı büyük ölçüde işbaşında, usta gözetiminde kazanılır.",
+  "belge": "Kurs veya programı tamamlayanlara \"Kurs Bitirme Belgesi\" ya da ilgili mesleki eğitim kurumunun diploması verilir. Ayrıca Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "ek_bilgiler": "Rezistans kaynakçılığı, genellikle seri üretim yapan büyük ölçekli fabrikalarda otomasyonlu hatlarda uygulanan bir kaynak yöntemidir; bu nedenle istihdam, otomotiv ve beyaz eşya sektöründeki üretim hacmine bağlı olarak değişebilir. Elektrikle çalışan makinelerin kullanılması nedeniyle iş güvenliği eğitimi ve koruyucu donanım kullanımı önem taşır.",
+ "genel_ozellikler": [
+  "El ve göz koordinasyonuna sahip,",
+  "Dikkatini belirli bir noktaya yoğunlaştırabilen,",
+  "Makine ve elektrikli ekipmanlarla çalışmaya ilgili,",
+  "Teknik çizim ve ölçü bilgisini okuyup uygulayabilen,",
+  "Fiziksel olarak dayanıklı ve ayakta uzun süre çalışabilen,",
+  "Sorumluluk sahibi ve dikkatli,",
+  "İş güvenliği kurallarına uyumlu,",
+  "Takım çalışmasına uygun"
+ ],
+ "gorevler": [
+  "Çizimleri ve diğer teknik özellikleri inceler.",
+  "Kaynak yapılacak metal parçaları akım uçları arasına hazırlayarak yerleştirir ya da yatağına koyar.",
+  "Akım uçlarından ya da merdane uçlarından akımın geçmesi için makineyi çalıştırır.",
+  "Kaynak noktasında, rezistanstan geçen elektrik akımı ile ısı sağlayarak ve basınç altında tutarak metali eritmek için belirli bir süre kumandaları çalıştırır.",
+  "Kaynak yapılan parçaları temizleyip düzeltir.",
+  "Punta, çok uçlu punta alın kaynağı ve yakma alın kaynağı makinelerini çalıştırır ve bunları işleme göre sınıflandırır; pirinç kaynağı yapılan rezistans kaynak makinesini çalıştırır.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Meslek elemanları, farklı kaynak yöntemlerine (gazaltı, ark, TIG vb.) yönelik ek kurslara katılarak bilgi ve becerilerini artırabilir, kalfalık ve ustalık belgesi almak için gerekli eğitim ve sınavlara girebilirler.",
+  "is_hayatinda": "Deneyim ve belge kazanan meslek elemanları, hat sorumlusu, ustabaşı veya kalite kontrol elemanı gibi görevlere yükselebilir. Daha büyük ve kurumsal firmalarda çalışmaya geçiş, meslekte ilerlemenin başlıca yoludur; bağımsız işyeri açma imkânı bu meslekte sınırlıdır."
+ },
+ "kazanc": {
+  "egitim_suresince": "Halk Eğitim Merkezleri ve benzeri kurumlarda alınan kurslar sırasında genellikle bir kazanç söz konusu değildir. İşyerinde çıraklık veya stajyer olarak çalışılması halinde asgari ücret düzeyinde bir ödeme yapılabilir.",
+  "egitim_sonrasi": [
+   "Kamu kuruluşlarında işçi statüsünde istihdam edilenler, toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar; kazanç, işyerinin büyüklüğü, kişinin deneyimi ve sektörün ücret düzeyine göre değişebilir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T00:09:10",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5411
+  }
+ }
+}

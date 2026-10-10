@@ -1,0 +1,78 @@
+{
+ "arac_gerec": [
+  "Bilgisayar ve sunucu sistemleri",
+  "Güvenlik duvarı (firewall) yazılım ve donanımları",
+  "Antivirüs/antimalware yazılımları",
+  "Saldırı tespit ve önleme sistemleri (IDS/IPS)",
+  "Güvenlik bilgi ve olay yönetimi (SIEM) sistemleri",
+  "Penetrasyon testi ve güvenlik açığı tarama araçları",
+  "Şifreleme ve kriptografi yazılımları",
+  "Ağ izleme ve trafik analiz araçları",
+  "Kimlik doğrulama ve yetkilendirme sistemleri",
+  "Veri depolama ve yedekleme sistemleri",
+  "Log yönetimi ve analiz yazılımları",
+  "İnternet ve haberleşme sistemleri"
+ ],
+ "benzer_meslekler": [
+  "Bilgi Güvenliği Uzmanı",
+  "Siber Güvenlik Uzmanı",
+  "Bilgi Güvenlik Denetmeni",
+  "Ağ Teknolojileri ve Bilgi Güvenliği Uzmanı",
+  "Bilgisayar Ağ ve Güvenliği Yöneticisi",
+  "Kişisel Verileri Koruma Uzmanı"
+ ],
+ "calisma_alanlari": "Güvenlik Uzmanı (BİT), bilişim sistemlerinin kullanıldığı hemen her sektörde istihdam edilebilir. Kamu kurumlarında (bakanlıklar, düzenleyici ve denetleyici kurumlar, savunma ve güvenlik kuruluşları) ve özel sektörde bankacılık, finans, telekomünikasyon, e-ticaret, sağlık, enerji gibi kritik altyapı niteliğindeki alanlarda çalışabilir. Bilişim ve danışmanlık firmalarının güvenlik operasyon merkezlerinde (SOC) veya bağımsız danışman olarak proje bazlı çalışabilir.\n\nSiber tehditlerin artması ve kurumların dijitalleşmesiyle birlikte bu meslekte istihdam olanakları sürekli genişlemektedir. Deneyim ve uzmanlaşma ile kurumsal güvenlik yönetimi, risk danışmanlığı veya serbest danışmanlık gibi alanlarda da çalışma imkânı bulunmaktadır.",
+ "calisma_ortami": "Güvenlik Uzmanı (BİT), genellikle kapalı ve klimalı büro/ofis ortamlarında, bilgisayar başında oturarak çalışır. Kurumların bilgi işlem veya bilgi güvenliği birimlerinde tek başına ya da bir ekip halinde görev yapar. Güvenlik olaylarına müdahale gerektiren durumlarda çalışma temposu yoğunlaşabilir; bu nedenle bazı kurumlarda vardiyalı veya nöbet usulü (7/24 izleme) çalışma düzeni uygulanabilir.\n\nÜst yönetim, bilgi işlem ekipleri, iç/dış denetçiler ve bazen tedarikçi firmalarla sıkı iletişim halinde çalışılır. Uzun süre ekran karşısında çalışma nedeniyle göz ve bilek yorgunluğu gibi ergonomik riskler görülebilir; proje ve denetim çalışmaları için zaman zaman şehir içi/şehirler arası seyahat gerekebilir.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi, üniversitelerin Bilgisayar Mühendisliği, Yazılım Mühendisliği, Bilgisayar Bilimleri, Elektrik-Elektronik Mühendisliği gibi ilgili lisans programlarında verilmektedir. Bazı üniversitelerde ayrıca siber güvenlik alanına yönelik lisans ve yüksek lisans programları da bulunmaktadır.",
+  "giris_kosullari": [
+   "Lise veya dengi okul mezunu olmak",
+   "YKS (Yükseköğretim Kurumları Sınavı) kılavuzunda ilgili programlar için belirtilen giriş koşullarını taşımak ve yeterli puanı almak",
+   "Önlisans mezunlarının Dikey Geçiş Sınavı (DGS) ile ilgili lisans programlarına geçiş yapabilmesi"
+  ],
+  "sure_ve_icerik": "Lisans eğitimi genellikle 4 yıl sürer (bazı programlarda 1 yıl İngilizce hazırlık sınıfı eklenebilir). Eğitim süresince programlama, bilgisayar ağları, işletim sistemleri, veritabanı yönetimi, ağ ve sistem güvenliği, kriptografi gibi mesleki dersler okutulmaktadır. Mezuniyet sonrasında bilgi güvenliği yönetimi, ağ güvenliği, etik hackerlık gibi alanlarda sektörel/uluslararası sertifika programları ve Halk Eğitim Merkezleri veya İŞKUR'un açtığı mesleki eğitim kursları da tamamlayıcı eğitim olarak tercih edilebilir.",
+  "belge": "Eğitimi başarı ile tamamlayanlara lisans diploması verilir. Ayrıca bilgi güvenliği/siber güvenlik alanında alınan sektörel veya uluslararası sertifikalar ve Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "ek_bilgiler": "Kritik altyapı niteliğindeki kurumlarda (bankacılık, kamu, savunma vb.) çalışacak kişilerden güvenlik soruşturması ve arşiv araştırması gibi ek şartlar istenebilir. Siber güvenlik alanında edinilen güncel sertifikalar, hızla değişen tehdit ortamına uyum açısından işe alımlarda ve kariyer gelişiminde önemli bir avantaj sağlamaktadır.",
+ "genel_ozellikler": [
+  "Analitik düşünme ve problem çözme yeteneğine sahip,",
+  "Detaylara dikkat eden ve titiz çalışan,",
+  "Sorumluluk sahibi ve güvenilir,",
+  "Sürekli öğrenmeye ve teknolojik gelişmeleri takip etmeye açık,",
+  "Baskı altında hızlı ve doğru karar verebilen,",
+  "Takım çalışmasına uyumlu,",
+  "İletişim ve ikna yeteneği gelişmiş,",
+  "Etik değerlere bağlı"
+ ],
+ "gorevler": [
+  "Bilgi güvenliği politikalarını ve prosedürlerini geliştirir, uygular ve güncelleştirir.",
+  "Siber saldırıları ve güvenlik olaylarını tespit eder, analiz eder ve müdahale eder.",
+  "Güvenlik açıklarını taramak için penetrasyon testleri ve güvenlik değerlendirmeleri yapar.",
+  "Güvenlik duvarı, antivirüs, saldırı tespit sistemleri gibi güvenlik araçlarını yapılandırır ve yönetir.",
+  "Kullanıcı erişim kontrollerini ve yetkilendirme süreçlerini tasarlayarak uygular.",
+  "Veri şifreleme ve kriptografi yöntemlerini uygulayarak hassas bilgilerin korunmasını sağlar.",
+  "Güvenlik farkındalığı eğitimleri düzenleyerek personeli bilinçlendirir.",
+  "Güvenlik standartlarına uyumu denetler ve uyumsuzlukları raporlar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Mezunlar bilgi güvenliği, siber güvenlik veya bilgisayar mühendisliği alanlarında yüksek lisans ve doktora yaparak akademik kariyer imkânı elde edebilirler.",
+  "is_hayatinda": "İş tecrübesi ve uzmanlaşma düzeyi arttıkça kıdemli güvenlik uzmanı, güvenlik ekibi lideri ve üst düzeyde bilgi güvenliği yöneticisi (CISO) gibi pozisyonlara yükselme olanağı bulunmaktadır."
+ },
+ "kazanc": {
+  "egitim_suresince": "Meslek eğitimi süresince Kredi ve Yurtlar Genel Müdürlüğünün sağladığı öğrenim kredisi ve yurt hizmetlerinden, çeşitli resmi ve özel kurum/kuruluşların burslarından yararlanılabilir.",
+  "egitim_sonrasi": [
+   "Kamu kurum ve kuruluşlarında çalışanlar 657 sayılı Devlet Memurları Kanunu'na göre belirlenen ücret, zam ve tazminatlardan yararlanır.",
+   "Özel sektörde ücret; işteki tecrübeye, işyerinin büyüklüğüne ve çalışılan sektöre göre karşılıklı anlaşma ile belirlenir, mesleğe yeni başlayanlarda genellikle asgari ücret düzeyinde olabilir.",
+   "Deneyim ve uzmanlaşma arttıkça, özellikle özel sektör ve danışmanlık projelerinde kazanç düzeyi yükselebilir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T06:11:00",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5933
+  }
+ }
+}

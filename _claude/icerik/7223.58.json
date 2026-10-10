@@ -1,0 +1,76 @@
+{
+ "gorevler": [
+  "CNC punch programını yükler ve takımları (zımba/matris) diz er",
+  "Sac levhayı makine tablasına yerleştirerek sıfırlama yapar",
+  "Makine çalışırken delme ve form verme işlemlerini izler",
+  "İşlenen parçaların teknik resme uygunluğunu ölçü aletleriyle denetler",
+  "Makine yağlamasını yapar ve takım körelmelerini takip eder",
+  "Mesleki gelişim faaliyetlerinde bulunur"
+ ],
+ "arac_gerec": [
+  "CNC punch (delme) makinesi",
+  "Zımba ve matris takımları",
+  "Bilgisayar kontrol paneli (CNC kontrol ünitesi)",
+  "Metal sac levhalar",
+  "Kumpas, mikrometre gibi ölçü aletleri",
+  "Mastar ve şablonlar",
+  "Teknik resim ve çalışma programı dosyaları",
+  "Yağlama ekipmanları",
+  "Basınçlı hava tabancası",
+  "Malzeme taşıma apareti, vinç veya forklift",
+  "Kişisel koruyucu donanım (eldiven, gözlük, kulaklık)",
+  "Temel el aletleri (anahtar takımı, tornavida vb.)"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve sabırlı,",
+  "El ve göz koordinasyonu iyi olan,",
+  "Şekilleri ve ölçüleri doğru algılayıp zihinde canlandırabilen,",
+  "Teknik resim ve ölçü aletlerini okuyup yorumlayabilen,",
+  "Sayısal işlemlere ve mantıksal düşünmeye yatkın,",
+  "Makine ve bilgisayarla çalışmaktan hoşlanan,",
+  "Sorumluluk sahibi ve işçi sağlığı/iş güvenliği kurallarına uyan,",
+  "Fiziksel olarak sağlıklı"
+ ],
+ "calisma_ortami": "\"CNC Punch Makinesi Operatörü, metal işleme fabrika ve atölyelerinde, genellikle kapalı mekânlarda ve ayakta çalışır. Çalışma ortamı makine sesi nedeniyle gürültülü olabilir; metal talaşı, yağ ve toz nedeniyle kısmen kirlidir. Hareketli makine parçaları ve kesici takımlarla çalışıldığından iş güvenliği kurallarına ve koruyucu donanım kullanımına dikkat edilmesi gerekir.\\n\\nİşletmenin üretim yoğunluğuna göre gündüz mesaisi veya vardiyalı çalışma düzeni uygulanabilir. Operatör; üretim sorumluları, kalite kontrol personeli ve diğer makine operatörleriyle iş birliği içinde çalışır, çoğu zaman makine ve bilgisayar kontrol paneliyle yoğun olarak ilgilenir.\"",
+ "egitim": {
+  "verildigi_yerler": "Bu mesleğe yönelik eğitim; mesleki ve teknik Anadolu liselerinin Makine Teknolojisi veya Metal Teknolojisi alanlarında CNC tezgah operatörlüğüne yönelik dallarda, yeterli müracaat olması durumunda mesleki eğitim merkezlerinde ilgili alan/dal kapsamında çıraklık eğitimi şeklinde, ayrıca Halk Eğitim Merkezleri ile İŞKUR'un açtığı CNC operatörlüğü kurslarında verilmektedir. Mesleğe giriş genellikle işbaşında usta yanında yetişme yoluyla da gerçekleşmektedir.",
+  "giris_kosullari": [
+   "Mesleki eğitim merkezi/çıraklık eğitimine girmek için en az ortaokul mezunu olmak",
+   "14 yaşını doldurmuş olmak",
+   "Sağlık durumunun mesleğin gerektirdiği işlere uygun olması (gerektiğinde sağlık raporuyla belgelenir)",
+   "Kurs programlarına katılmak için kurumların belirlediği yaş ve öğrenim şartlarını taşımak"
+  ],
+  "sure_ve_icerik": "Mesleki eğitim merkezlerinde verilen eğitim, teorik derslerin yanı sıra işyerinde usta öğreticinin gözetiminde uygulamalı çalışmayı içerir ve kalfalık/ustalık eğitimi şeklinde birkaç yıl sürebilir. Eğitim içeriğinde CNC punch makinesinin tanınması, program yükleme ve takım (zımba/matris) dizme, sac levha yerleştirme ve sıfırlama, delme/form verme işlemlerinin izlenmesi, ölçü aletleriyle kontrol, makine bakım ve yağlaması ile iş sağlığı ve güvenliği konuları yer alır. İŞKUR ve Halk Eğitim Merkezlerinde açılan kurslar ise genellikle daha kısa süreli, yoğunlaştırılmış uygulamalı eğitimler şeklindedir.",
+  "belge": "Mesleki eğitim merkezini başarıyla tamamlayanlara kalfalık/ustalık belgesi ve meslek lisesi diploması verilir. Kurs eğitimlerini tamamlayanlara kurs bitirme/katılım belgesi düzenlenir. Mesleki Yeterlilik Kurumu (MYK) tarafından yetkilendirilmiş kuruluşlardan alınabilecek Mesleki Yeterlilik Belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "\"CNC Punch Makinesi Operatörleri; metal sac işleme, beyaz eşya, elektrik panosu ve elektrik malzemeleri imalatı, otomotiv yan sanayi, inşaat ve yapı malzemeleri, mobilya metal aksamı ve genel makine imalatı sektörlerindeki fabrika ve atölyelerde istihdam edilmektedir. Sanayinin ve imalat sektörünün yoğun olduğu organize sanayi bölgelerinde iş bulma olanağı daha fazladır. Üretimde otomasyon ve CNC teknolojilerinin yaygınlaşması bu meslekte nitelikli iş gücüne olan talebi desteklemektedir.\"",
+ "kazanc": {
+  "egitim_suresince": "Mesleki eğitim merkezinde çıraklık eğitimi gören öğrencilere, 3308 sayılı Mesleki Eğitim Kanunu kapsamında yasal düzenlemelere uygun ücret ödenir ve iş kazası/meslek hastalığı sigorta primleri devletçe karşılanır. İŞKUR veya Halk Eğitim Merkezi kurslarına katılanlara ise kursun niteliğine göre değişen koşullarda destek sağlanabilir.",
+  "egitim_sonrasi": [
+   "Yeni mesleğe başlayanlar genellikle asgari ücret düzeyinde kazanç elde eder.",
+   "Özel sektörde ücret; işletmenin büyüklüğü, operatörün deneyimi, kullandığı makinenin karmaşıklığı ve karşılıklı anlaşmaya göre değişebilir.",
+   "Deneyim ve uzmanlık kazanan operatörlerin, özellikle birden fazla CNC tezgahını kullanabilenlerin kazancı artabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleki eğitim merkezi veya mesleki ve teknik lise mezunları, alanın devamı niteliğinde olan ve YKS Kılavuzunda belirtilen ön lisans/lisans programlarını tercih ettiklerinde ek puandan yararlanabilir. Ayrıca CNC programlama, CAD/CAM yazılımları ve kalite kontrol konularında ileri düzey kurslara katılarak bilgi ve becerisini geliştirebilir.",
+  "is_hayatinda": "Deneyim kazanan operatör; usta operatör, ekip/vardiya sorumlusu, atölye veya üretim şefliğine yükselebilir. CAD/CAM bilgisi geliştiren operatörler CNC programcılığına geçiş yapabilir, kalite kontrol veya üretim planlama görevlerinde çalışabilir; yeterli sermaye ve deneyimle kendi atölyesini açabilir."
+ },
+ "benzer_meslekler": [
+  "CNC Apkant Pres Tezgahı Operatörü",
+  "CNC Lazerle Kesme Operatörü",
+  "CNC Plazma Kesim Operatörü",
+  "Metal Levha İşleme Tezgah Operatörü",
+  "Metal Levha İşleme Tezgah İşçisi",
+  "Hidrolik Apkant Pres Operatörü"
+ ],
+ "ek_bilgiler": "\"Mesleki Yeterlilik Kurumu (MYK) tarafından yetkilendirilmiş kuruluşlardan alınan Mesleki Yeterlilik Belgesi, bu meslekte istihdamda tercih sebebi olabilir. İmalat sektöründe otomasyon ve dijitalleşme eğiliminin artması, CNC makine kullanımına olan talebi ve bu alandaki iş gücü ihtiyacını zaman içinde artırabilir.\"",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T01:48:53",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5524
+  }
+ }
+}

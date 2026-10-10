@@ -1,0 +1,74 @@
+{
+ "arac_gerec": [
+  "Bilgisayar donanımı (sunucu, istemci, çevre birimleri)",
+  "Ağ ve veri merkezi ekipmanları",
+  "Sistem ve ağ performans izleme yazılımları",
+  "Yük ve performans test araçları",
+  "Veri tabanı yönetim sistemleri",
+  "Sistem analiz ve modelleme araçları",
+  "Proje ve süreç yönetimi yazılımları",
+  "Raporlama ve dokümantasyon yazılımları",
+  "İşletim sistemleri ve sanallaştırma platformları",
+  "Ofis yazılımları ve büro malzemeleri"
+ ],
+ "benzer_meslekler": [
+  "Sistem Analisti (BT)",
+  "Sistem Çözümleyici",
+  "Sistem Mimarı/Tasarımcısı",
+  "Sistem Uzmanı/Danışmanı",
+  "Donanım Geliştirme Uzmanı",
+  "BT Çözümleri Uzmanı"
+ ],
+ "calisma_alanlari": "Sistem Değerlendirmeci; kamu kurumlarının ve özel sektör işletmelerinin bilgi işlem/bilgi teknolojileri birimlerinde, yazılım geliştirme şirketlerinde, bilişim danışmanlık firmalarında, bankacılık ve finans kuruluşlarında, telekomünikasyon şirketlerinde ve büyük ölçekli BT altyapısı bulunan her türlü kurumda çalışabilir. Donanım ve yazılım performansının izlenmesi, sistem altyapısının değerlendirilmesi, yeni donanım/yazılım yatırımlarına ilişkin teknik ve ekonomik değerlendirme çalışmalarının yapılması gereken her alanda istihdam olanağı bulunur.\n\nKurumların dijital dönüşüm süreçlerini hızlandırması, bilgi teknolojileri yatırımlarının artması ve sistem verimliliğine verilen önemin yükselmesi bu meslekte orta ve uzun vadede istihdam olanaklarını destekleyen etkenlerdir. Ancak bu meslek adıyla doğrudan ilan verilen pozisyon sayısı sınırlı olabileceğinden, benzer unvanlarla (sistem analisti, BT uzmanı, sistem danışmanı vb.) iş aramak gerekebilir.",
+ "calisma_ortami": "Sistem Değerlendirmeci genellikle kapalı ortamda, büro veya bilgi işlem merkezlerinde bilgisayar başında oturarak çalışır. Çalışmaları sırasında zaman zaman sunucu odaları ve veri merkezlerinde donanım incelemesi yapması gerekebilir. Çalışma saatleri genellikle düzenli ofis saatleridir; ancak proje teslim tarihlerine yakın dönemlerde veya sistem sorunlarının acil çözülmesi gereken durumlarda mesai saatleri uzayabilir.\n\nGörevini yerine getirirken yöneticiler, sistem yöneticileri, yazılım geliştiriciler, donanım satıcıları ve diğer bilişim personeli ile sürekli iletişim ve iş birliği içinde çalışır. Uzun süre ekran karşısında çalışma, teknik raporlama ve analiz yapma mesleğin fiziksel ve zihinsel açıdan dikkat gerektiren yönleridir.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi, üniversitelerin bilgisayar mühendisliği, yazılım mühendisliği, bilgisayar bilimleri, bilişim sistemleri mühendisliği veya yönetim bilişim sistemleri gibi ilgili lisans programlarında verilmektedir. Bu meslek adıyla doğrudan açılmış bir lisans programı bulunmamakta olup, bu bölümlerden mezun olanlar mesleğe yönelik bilgi ve beceriyi kazanmaktadır.",
+  "giris_kosullari": [
+   "Lise veya dengi okul mezunu olmak",
+   "YKS (Yükseköğretim Kurumları Sınavı) kılavuzunda ilgili lisans programları için belirtilen giriş koşullarını ve taban puanlarını sağlamak",
+   "Meslek yüksekokulları ile açık öğretim ön lisans programlarının ilgili bölümlerinden mezun olup Dikey Geçiş Sınavı (DGS)'nde başarılı olanlar, ilgili lisans programlarına dikey geçiş yapabilir"
+  ],
+  "sure_ve_icerik": "Eğitim süresi 4 yıldır. Eğitim süresince programlama, veri yapıları ve algoritmalar, bilgisayar donanımı, işletim sistemleri, bilgisayar ağları, veri tabanı yönetimi, sistem analizi ve tasarımı, yazılım mühendisliği, performans değerlendirme ve proje yönetimi gibi dersler okutulmaktadır. Mesleğe yönelik güncel bilgi ve beceriler, lisans eğitimine ek olarak sertifika programları ve kurumsal eğitimlerle de geliştirilebilir.",
+  "belge": "Eğitimini başarıyla tamamlayanlara lisans diploması verilir. Ayrıca sistem performans yönetimi, BT yönetişimi veya proje yönetimi alanlarında alınabilecek ulusal/uluslararası sertifikalar ve Mesleki Yeterlilik Kurumu (MYK) belgeleri istihdamda tercih sebebi olabilir."
+ },
+ "genel_ozellikler": [
+  "Analitik düşünme ve problem çözme yeteneğine sahip,",
+  "Bilgisayar donanımı ve yazılımına ilgi duyan,",
+  "Sayısal verileri değerlendirip yorumlayabilen,",
+  "Detaylara dikkat eden ve sistematik çalışabilen,",
+  "Yazılı ve sözlü anlatım becerisi gelişmiş,",
+  "Ekip çalışmasına uyumlu,",
+  "Teknolojik gelişmeleri takip etmeye istekli,",
+  "Sabırlı ve sorumluluk sahibi"
+ ],
+ "gorevler": [
+  "Yapı performansı ile ilgili bilgileri sağlayacak yöntemler oluşturur.",
+  "Donanım değerlendirme ve satın alma projelerini yönlendirir.",
+  "Yapı için performans standartları belirler.",
+  "Yapının etkinliği konusunda yönetime bilgi verir.",
+  "Uygulama planları ve işletim sistemlerinin gelişmesine bağlı olarak yapıda gerekli değişiklik ihtiyaçlarını belirler.",
+  "En uygun donanım/yazılım yapısını bularak en iyi maliyet/performans oranına erişmek için yardımcı olur.",
+  "Yazılım ve donanım performansını denetleyebilmek için gerekli bilgiyi toplar ve bu bilgiyi kullanarak sorunların çözümlenebileceği ve gelecekteki ihtiyaçların karşılanabileceği değişiklikleri önerir.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "kazanc": {
+  "egitim_suresince": "Mesleğin eğitimi süresince üniversite öğrencileri Kredi ve Yurtlar Genel Müdürlüğünün sağladığı öğrenim kredisi ve yurt hizmetlerinden, ayrıca çeşitli resmî ve özel kurum/kuruluşların burslarından yararlanabilir. Bilişim alanında staj yapan öğrenciler, staj dönemlerinde ücret veya harçlık elde edebilir.",
+  "egitim_sonrasi": [
+   "Kamu kurum ve kuruluşlarında çalışanlar, 657 sayılı Devlet Memurları Kanunu'na göre öğrenim düzeylerine uygun olarak teknik hizmetler sınıfından maaş ve yan ödeme alır.",
+   "Özel sektörde çalışanların ücreti; işletmenin büyüklüğü, çalışılan sektör, kişinin deneyimi ve uzmanlık düzeyine göre değişmekte olup işveren ile karşılıklı anlaşma sonucu belirlenir. Mesleğe yeni başlayanlarda ücret genellikle asgari ücret düzeyinde olup deneyim ve uzmanlıkla birlikte artış gösterebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Lisans eğitimini tamamlayanlar, bilgisayar/yazılım mühendisliği, bilişim sistemleri veya işletme yönetimi alanlarında yüksek lisans ve doktora yaparak akademik kariyer yapabilir; ayrıca sistem performans yönetimi, BT yönetişimi ve proje yönetimi alanlarında sertifika programlarıyla uzmanlaşabilir.",
+  "is_hayatinda": "Deneyim ve bilgi birikimi kazanan Sistem Değerlendirmeciler, kıdemli sistem analisti, proje yöneticisi, BT yöneticisi veya bilgi işlem/bilgi teknolojileri müdürü gibi daha üst sorumluluk gerektiren pozisyonlara yükselebilir."
+ },
+ "ek_bilgiler": "Bu meslek adıyla Türkiye'de doğrudan açılmış bir lisans programı bulunmamaktadır; mesleğe ilgili bilişim bölümlerinden mezun olanlar yönelmektedir. Kurumların bilgi teknolojileri yatırımlarının ve dijital dönüşüm çalışmalarının artması, sistem performansının değerlendirilmesine yönelik bu meslek dalına olan ihtiyacı artırmaktadır.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T06:01:38",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5974
+  }
+ }
+}

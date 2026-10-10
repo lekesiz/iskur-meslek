@@ -1,0 +1,84 @@
+{
+ "arac_gerec": [
+  "El takımları (anahtar, tornavida, pense, eğe vb.)",
+  "Multimetre",
+  "Osiloskop",
+  "Lehim takımı ve lehim istasyonu",
+  "Kablo ve devre test cihazları",
+  "Akü ve şarj sistemi test cihazları",
+  "Sigorta, röle ve anahtarlama elemanı test ekipmanları",
+  "PLC programlama cihazı ve bilgisayar",
+  "Arıza tespit (diagnostik) cihazları",
+  "Kablo demeti, konnektör ve bağlantı elemanları",
+  "Kaynak ve lehim ekipmanları",
+  "Kişisel koruyucu donanım (eldiven, gözlük, iş elbisesi)"
+ ],
+ "genel_ozellikler": [
+  "Elektrik ve elektronik konularına ilgili,",
+  "Şekiller ve parçalar arası ilişkiyi doğru algılayabilen,",
+  "El becerisine sahip,",
+  "El ve gözünü eşgüdümle kullanabilen,",
+  "Dikkatli ve sabırlı,",
+  "Sorumluluk sahibi,",
+  "Yönergeleri izleyebilen,",
+  "Alet, makine ve malzemelerle çalışmaktan hoşlanan"
+ ],
+ "calisma_ortami": "İş Makineleri Elektrik-Elektronik Sistemler Bakım ve Onarımcıları, iş makinelerinin bakım ve onarımının yapıldığı atölyelerde, yetkili servislerde, bazen de şantiye ve saha ortamlarında çalışır. Çalışma ortamı kapalı alan (atölye) olabileceği gibi açık havada şantiye koşullarında da olabilir; ortam gürültülü, yağlı ve kirli olabilir, elektrik ile çalışıldığından iş güvenliği kurallarına uyulması önemlidir.\n\nBu meslek daha çok alet, makine ve elektronik ekipmanlarla ilgilidir. Çalışanlar; birlikte görev yaptıkları ustabaşı, teknisyen ve mühendislerle, ayrıca araç sahibi müşterilerle iletişim kurar. Çalışma saatleri genellikle gündüz mesaisi şeklindedir, ancak arıza durumlarında veya saha çalışmalarında mesai saatleri değişebilir.",
+ "gorevler": [
+  "Marş sistemlerinin bakım ve onarımını yapar.",
+  "Şarj sistemlerinin bakım ve onarımını yapar.",
+  "Isıtma, soğutma ve havalandırma sistemlerinin bakım ve onarımını yapar.",
+  "Güvenlik ve konfor sistemlerinin bakım ve onarımını yapar.",
+  "Aydınlatma ve uyarı sistemlerinin bakım ve onarımını yapar.",
+  "Anahtarlama elemanlarını elektronik devrelerde kullanır.",
+  "İşlemsel yükselteçleri elektronik devrelerde kullanır.",
+  "Lojik devreleri kurar.",
+  "Elektrik ve elektronik sistemlerde arızaları giderir.",
+  "Arıza ve bakım arşivi oluşturur.",
+  "Mikrobilgisayar ile kumanda yapar.",
+  "PLC ile kumanda yapar.",
+  "Kumanda sisteminin ayarını yapar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi, mesleki ve teknik ortaöğretim okul/kurumlarının ilgili alan ve dallarında (elektrik-elektronik ve iş makineleri ile ilişkili programlar) verilmektedir. Ayrıca yeterli talep olması durumunda mesleki eğitim merkezlerinde çıraklık eğitimi şeklinde de verilebilmektedir. Bunların dışında Halk Eğitim Merkezleri ile İŞKUR ve özel kuruluşların açtığı mesleki eğitim kurslarında da bu alanda beceri kazandırılmaktadır.",
+  "giris_kosullari": [
+   "Mesleki eğitim merkezi/çıraklık eğitimine başlamak için en az ortaokul mezunu olmak ve 14 yaşını doldurmuş olmak,",
+   "Sağlık durumunun mesleğin gerektirdiği işlere uygun olması (gerektiğinde sağlık raporu ile belgelenir),",
+   "Çıraklık eğitimi için ilgili işyeri ile çıraklık sözleşmesi imzalamak,",
+   "Meslek lisesi programlarına kayıt için ilgili mevzuatta belirtilen koşulları taşımak,",
+   "Kurs yoluyla yetişmek isteyenler için ilgili kurumun belirlediği genel katılım şartlarını taşımak."
+  ],
+  "sure_ve_icerik": "Mesleki eğitim merkezleri ve meslek liselerinde eğitim süresi, ortaokul sonrası genellikle 4 yıl olup bu sürenin bir kısmı kalfalık, devamı ustalık eğitimine ayrılır. Eğitim programı; genel kültür dersleri, elektrik-elektronik temel bilgisi, iş makinelerinde kullanılan marş, şarj, aydınlatma, ısıtma-soğutma, güvenlik ve konfor sistemleri, lojik devreler, mikrobilgisayar ve PLC ile kumanda konularını kapsayan meslek dersleri ile işyerinde usta öğretici gözetiminde yapılan uygulamalı çalışmalardan oluşur. Kurslar yoluyla yetişenler için eğitim süresi ve içeriği kurumdan kuruma değişebilir, genellikle teorik bilgiyi işbaşında usta yanında uygulamalı pratik eğitim takip eder.",
+  "belge": "Mesleki eğitim merkezini başarıyla tamamlayanlara kalfalık ve ardından ustalık belgesi, fark derslerini tamamlayanlara meslek lisesi diploması verilir. Kurs yoluyla yetişenlere katılım veya başarı belgesi verilir. Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "İnşaat, madencilik, tarım, yol ve baraj yapımı gibi alanlarda kullanılan iş makinelerinin sayısının ve teknolojik karmaşıklığının artması, bu makinelerin elektrik-elektronik sistemlerinde uzmanlaşmış kişilere olan ihtiyacı da artırmaktadır. Bu meslek elemanları; karayolları, DSİ, orman işletmeleri, belediyeler gibi kamu kuruluşlarının makine bakım atölyelerinde, iş makinesi bayilerinin ve üreticilerin yetkili servislerinde, inşaat ve madencilik firmalarının bakım birimlerinde istihdam edilebilir. Yeterli deneyim ve sermayeye sahip olanlar kendi bakım-onarım işyerlerini açarak bağımsız çalışabilirler.",
+ "kazanc": {
+  "egitim_suresince": "Mesleki eğitim merkezinde çıraklık eğitimi gören öğrencilere 3308 sayılı Mesleki Eğitim Kanunu kapsamında asgari ücretin belirli bir oranından az olmamak üzere ücret ödenir ve iş kazası ile meslek hastalığı sigortası primleri devletçe karşılanır. Kurs yoluyla eğitim alanlar için genellikle bir ücret ödemesi söz konusu değildir.",
+  "egitim_sonrasi": [
+   "Kamu kuruluşlarında istihdam edilenler 657 sayılı Devlet Memurları Kanunu veya işçi statüsündeyse ilgili toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde işe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar; kişinin deneyimi, bilgisi, becerisi ve çalıştığı işyerinin büyüklüğüne göre kazanç artabilir.",
+   "Kendi işyerini açanların geliri işin hacmine, müşteri potansiyeline ve işletme büyüklüğüne göre değişebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Meslek lisesi veya mesleki eğitim merkezinden diploma alanlar, alanlarının devamı niteliğindeki yükseköğretim (ön lisans/lisans) programlarını tercih ettiklerinde ilgili mevzuata göre ek puan avantajından yararlanabilir; yükseköğretime giriş sınavında başarılı oldukları takdirde ilgili elektrik-elektronik veya otomotiv teknolojisi programlarına yerleşebilirler. Çeşitli mesleki kurs ve sertifika programlarına katılarak bilgi ve becerilerini güncelleyebilirler.",
+  "is_hayatinda": "Deneyim ve bilgi birikimini artıranlar usta, ekip şefi veya servis sorumlusu gibi görevlere yükselebilir. Yeni teknolojilere (elektronik kontrol üniteleri, gelişmiş PLC ve mikrobilgisayar sistemleri vb.) uyum sağlamak için mesleki gelişim kurs ve seminerlerine katılabilirler. Yeterli sermaye ve deneyime sahip olanlar kendi bakım-onarım işyerlerini açabilirler."
+ },
+ "benzer_meslekler": [
+  "İş Makineleri Tamircisi",
+  "İş Makineleri Hidrolik Sistemler Bakım ve Onarımcısı",
+  "İş Makineleri Motor ve Aktarma Organları Bakım-Onarımcısı",
+  "Makine Bakım ve Onarımcısı",
+  "Mekanik Bakım ve Onarımcısı (Motorlu Taşıtlar Hariç)"
+ ],
+ "ek_bilgiler": "İş makinelerinde elektronik kontrollü sistemlerin (PLC, mikrobilgisayar tabanlı kumanda vb.) kullanımının yaygınlaşması, bu meslekte çalışanların teknik bilgilerini sürekli güncellemesini gerekli kılmaktadır.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T02:58:02",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6866
+  }
+ }
+}

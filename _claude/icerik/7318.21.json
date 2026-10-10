@@ -1,0 +1,77 @@
+{
+ "arac_gerec": [
+  "Harman hallaç makinesi",
+  "Balya açma düzenekleri",
+  "Elyaf/balya taşıma arabaları",
+  "Balya bağı kesme bıçağı veya makas",
+  "Elyaf nakil bantları (konveyör)",
+  "Tartı/kantar",
+  "Reçete ve üretim talimat kartları",
+  "Toz maskesi",
+  "Koruyucu gözlük",
+  "Kulak koruyucu (kulaklık/tapa)",
+  "İş eldiveni",
+  "Çelik burunlu iş ayakkabısı",
+  "Temizlik süpürgesi, fırça ve vakumlu temizleyici",
+  "İş elbisesi (tulum/önlük)"
+ ],
+ "genel_ozellikler": [
+  "Fiziksel olarak güçlü ve dayanıklı,",
+  "Dikkatli ve sorumluluk sahibi,",
+  "El ve kol kaslarını etkin kullanabilen,",
+  "Takım çalışmasına uyumlu,",
+  "Talimat ve reçetelere uygun çalışabilen,",
+  "Toz ve gürültülü ortamda çalışmaya uygun sağlık durumuna sahip,"
+ ],
+ "calisma_ortami": "\"Harman hallaç makinesi arkacısı, tekstil fabrikalarının harman hallaç dairelerinde, kapalı ve genellikle tozlu, gürültülü bir atölye ortamında çalışır. İşin niteliği gereği ayakta durma, elyaf balyalarını taşıma ve makineyi sürekli besleme gibi fiziksel güç gerektiren hareketler ön plandadır. Üretimin devamlılığı nedeniyle işletmelerde vardiyalı çalışma düzeni (gündüz/gece) yaygındır.\\n\\nÇalışma sırasında amiri, vardiya şefi veya usta işçi ile ve harman hallaç dairesindeki diğer çalışanlarla sürekli iletişim kurar. Dönen makine parçaları, toz ve gürültü başlıca iş güvenliği riskleri arasındadır; bu nedenle kişisel koruyucu donanımın eksiksiz kullanılması gerekir.\"",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin örgün eğitimde ayrı bir dal olarak yaygın bir karşılığı bulunmamaktadır. Meslek genellikle işyerinde işbaşında, usta işçinin gözetiminde öğrenilmekte; ayrıca Halk Eğitim Merkezleri ve İŞKUR tarafından açılan tekstil alanındaki mesleki eğitim kurslarına katılarak da bu mesleğe yönelik temel bilgi ve beceriler edinilebilmektedir.",
+  "giris_kosullari": [
+   "İlköğretim (ilkokul/ortaokul) mezunu olmak",
+   "İşin fiziksel gerekliliklerine uygun sağlık durumuna sahip olmak",
+   "Katılınacak kurs veya işyerinin aradığı yaş ve başvuru koşullarını taşımak"
+  ],
+  "sure_ve_icerik": "Mesleğin standart ve belirli bir eğitim süresi bulunmamaktadır. Kişiler genellikle işe alındıkları işyerinde kısa süreli bir uyum ve işbaşı eğitiminin ardından usta işçinin gözetiminde çalışarak mesleği öğrenirler. Halk Eğitim Merkezleri veya İŞKUR tarafından açılan kurslarda ise elyaf ve balya açma işlemleri, harman hallaç makinelerinin çalışma prensipleri, iş sağlığı ve güvenliği gibi konularda teorik ve uygulamalı eğitim verilmektedir.",
+  "belge": "Örgün eğitim yoluyla alınan bir diploma bulunmamaktadır. Katılınan kurslar sonunda kurs bitirme belgesi/sertifika verilebilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "\"Harman hallaç makinesi arkacıları; yün, pamuk, sentetik elyaf ve benzeri malzemeleri işleyen iplik, dokuma ve halı üretimi yapan tekstil fabrikalarının harman hallaç (balya açma-karıştırma) dairelerinde çalışırlar. İstihdam olanakları, tekstil sektörünün üretim hacmine ve bölgesel yoğunluğuna göre değişmektedir. Üretim süreçlerinde otomasyonun artması bu meslekteki istihdamı kısmen sınırlamakla birlikte, özellikle küçük ve orta ölçekli işletmelerde bu alanda çalışan nitelikli işçiye ihtiyaç duyulmaktadır.\"",
+ "kazanc": {
+  "egitim_suresince": "Mesleğin örgün bir eğitim süreci bulunmadığından bu dönem için düzenli bir ücretten söz etmek mümkün değildir. İşyerinde çalışarak mesleği öğrenenler, işveren ile yaptıkları anlaşmaya göre ücret alırlar; bu genellikle asgari ücret düzeyindedir.",
+  "egitim_sonrasi": [
+   "Yeni başlayanlar genellikle asgari ücret düzeyinde gelir elde eder.",
+   "Deneyim kazanıldıkça ve işyerindeki sorumluluk arttıkça kazanç yükselebilir.",
+   "Kazanç; çalışılan işletmenin büyüklüğü, deneyim ve işçi-işveren anlaşmasına göre değişkenlik gösterir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğin örgün eğitimde doğrudan bir karşılığı bulunmadığından ilerleme genellikle iş deneyimi ve katılınan mesleki eğitim kursları yoluyla sağlanır. İsteyenler, tekstil teknolojisi alanındaki mesleki ve teknik eğitim programlarına veya ilgili yetişkin eğitimi kurslarına katılarak bilgi ve becerilerini geliştirebilirler.",
+  "is_hayatinda": "Deneyim kazandıkça usta işçi, vardiya sorumlusu veya ustabaşı gibi pozisyonlara yükselebilir, harman hallaç dairesinin sorumluluğunu üstlenebilirler. Ayrıca kardeci, hallaç gibi tekstil üretim sürecindeki diğer görevlere geçiş yapabilirler."
+ },
+ "benzer_meslekler": [
+  "Hallaç",
+  "Elyaf Harman Takipçisi",
+  "Elyaf Kardeci",
+  "Elyaf Yıkayıcı",
+  "Harman Hazırlama İşçisi (Tekstil)",
+  "Harman Hallaç Besleme İşçisi",
+  "Harman Hallaç İşçisi (Yün)",
+  "Harman Hallaç İşçisi (Halı)"
+ ],
+ "ek_bilgiler": "\"Toz ile sürekli temas edilen bir meslek olduğundan, solunum yolu sağlığının korunması açısından kişisel koruyucu donanımın (toz maskesi vb.) düzenli kullanılması önemlidir.\"",
+ "gorevler": [
+  "Balyaları açar ve verilen reçeteye göre çalışır hale getirir.",
+  "Makinelerde gördüğü arızaları amirine bildirir.",
+  "Elyafları ve balyaları makineye taşır.",
+  "Makineleri elyaf ve reçete özelliklerine göre düzgün ve sürekli besler.",
+  "Çalışılan makine ile çalışma alanının temizlik ve düzenini sağlar.",
+  "Meslek alanı ile ilgili gelişmeleri takip eder, uygular."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T04:36:14",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6062
+  }
+ }
+}

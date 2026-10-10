@@ -1,0 +1,75 @@
+{
+ "arac_gerec": [
+  "Harman-hallaç makinesi",
+  "Balya açıcı (manuel veya otomatik)",
+  "Metal dedektörü",
+  "Elyaf nakil boruları ve kanalları",
+  "Vatka taşıma ve stoklama ekipmanları",
+  "Tanıtım/etiket levhaları",
+  "Temizlik ekipmanları (fırça, süpürge, basınçlı hava tabancası)",
+  "Kişisel koruyucu donanım (toz maskesi, kulak koruyucu, eldiven, iş elbisesi)",
+  "Makine kumanda paneli",
+  "Basit bakım el aletleri"
+ ],
+ "benzer_meslekler": [
+  "Elyaf Açma Makineleri Operatörü",
+  "Tarak Makinesi Operatörü-Tekstil",
+  "Paçavra Açma Makinesi Operatörü (Gyotin)",
+  "Çırçır Makinesi Operatörü",
+  "Sentetik Elyaf İmal İşçisi"
+ ],
+ "calisma_alanlari": "Harman-Hallaç Makinesi Operatörleri, iplik ve dokuma fabrikalarının elyaf hazırlama (harman-hallaç) bölümlerinde, tekstil üretim tesislerinde istihdam edilir. Bu meslekte kamu kurumlarında istihdam olanağı bulunmamaktadır. İş bulma olanağı, tekstil sektörünün yoğun olduğu organize sanayi bölgeleri ve sanayi şehirlerinde daha fazladır. Sektörün üretim hacmine ve ekonomik koşullara bağlı olarak işe alım talebi değişkenlik gösterebilir.",
+ "calisma_ortami": "Harman-Hallaç Makinesi Operatörleri, tekstil fabrikalarının elyaf hazırlama bölümlerinde kapalı alanda çalışır. Çalışma ortamı genellikle gürültülü ve elyaf tozu ile yüklüdür; yeterli havalandırma bulunmayan işyerlerinde bu durum daha belirgin olabilir. Görev tam gün sürdürülür ve işletmenin üretim düzenine bağlı olarak vardiyalı çalışma söz konusu olabilir. Operatör, ayakta ve zaman zaman elyaf balyalarını taşıyarak çalışır, bu nedenle fiziksel dayanıklılık gerektirir.\n\nÇalışma sırasında büyük ölçüde makine ve malzeme ile ilgilenir; arıza bildirimi, bakım ve koordinasyon amacıyla vardiya amiri, bakım-onarım personeli ve diğer operatörlerle iletişim kurar. İş sağlığı ve güvenliği kuralları ile kişisel koruyucu donanım kullanımı, tozlu ve gürültülü ortam nedeniyle önem taşır.",
+ "ek_bilgiler": "Çalışma ortamındaki elyaf tozu ve gürültü nedeniyle kişisel koruyucu donanım kullanımı önemlidir. Mesleğin bazı işletmelerde tehlikeli işler kapsamında değerlendirilebileceği unutulmamalı, ilgili işyerinin iş sağlığı ve güvenliği uygulamalarına uyulmalıdır.",
+ "egitim": {
+  "verildigi_yerler": "Bu meslek için örgün bir mesleki ve teknik eğitim programı bulunmamaktadır. Meslek bilgi ve becerisi genellikle işyerlerinde işbaşında usta yanında kazanılmakta; ayrıca Halk Eğitim Merkezleri ve İŞKUR tarafından açılan tekstil/iplik üretimi alanındaki mesleki eğitim kurslarında da bu yönde beceriler edinilebilmektedir.",
+  "giris_kosullari": [
+   "İlköğretim mezunu olmak",
+   "18 yaşını doldurmuş olmak",
+   "İşin gerektirdiği fiziksel koşullara (ayakta çalışma, tozlu/gürültülü ortam) uygun sağlık durumuna sahip olmak"
+  ],
+  "sure_ve_icerik": "Resmî olarak belirlenmiş standart bir eğitim süresi bulunmamaktadır. İşbaşı eğitimi işletmenin yapısına göre birkaç haftadan birkaç aya kadar sürebilir. Eğitim içeriği; makine tanıma, iş sağlığı ve güvenliği kuralları, elyafın balya açıcıya beslenmesi, vatka kontrolü ve standardizasyonu, makine temizliği ve basit bakım işlemlerini kapsar.",
+  "belge": "İşyerinde verilen işbaşı eğitimler sonunda işletme tarafından düzenlenen bir katılım belgesi verilebilir. Kurs yoluyla eğitim alanlara Kurs Bitirme Belgesi verilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "genel_ozellikler": [
+  "Dikkatli ve titiz,",
+  "El ve göz koordinasyonuna sahip,",
+  "Fiziksel olarak dayanıklı,",
+  "Makine ve ekipmanla çalışmaya istekli,",
+  "Sorumluluk sahibi,",
+  "Takım çalışmasına uyumlu,",
+  "Tozlu ve gürültülü ortamda çalışabilen"
+ ],
+ "gorevler": [
+  "Makine ayarlarının yapılmasını sağlar",
+  "Makine aksamlarının günlük temizliğini yapar",
+  "Arızaları ilgililere bildirir",
+  "Çalışma alanının temizlik ve düzenini sağlar",
+  "Elyafı balya açıcıya besler",
+  "Vatka numaralarının standart kalmasını sağlar",
+  "Makineden çıkan vatkayı stoklar ve tanıtım levhası hazırlar",
+  "Otomatik sistemde çalışan makinelerde otomatik balya açıcıyı çalıştırır, açıcıda elyaf akışını ve metal dedektörleri kontrol eder, sıkışmalara ve makine ikazlarına müdahale eder",
+  "Tip değişimlerinde genel temizlik (aksam, ızgara ve hasır altı, açıcı silindirler, elyaf nakil boruları) yapar",
+  "Mesleki gelişim faaliyetlerinde bulunur"
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "İşletme bünyesinde düzenlenen hizmet içi eğitim programları ile makine kullanımı, bakım ve otomasyon sistemleri konusunda bilgi ve beceri geliştirilebilir.",
+  "is_hayatinda": "Deneyim kazandıkça vardiya sorumlusu, usta başı veya bölüm şefi gibi görevlere yükselebilir; teknik bilgi ve beceri geliştirerek makine bakım-onarım teknisyenliğine geçiş yapabilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "İşyerinde işbaşında eğitim alanlar genellikle çalışan statüsünde bulunduğundan asgari ücret düzeyinde bir kazanç sağlayabilir; kurs yoluyla eğitim alanlarda eğitim süresince herhangi bir kazanç söz konusu değildir.",
+  "egitim_sonrasi": [
+   "İşe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Deneyim, bilgi birikimi ve işletmedeki göreve bağlı olarak ücret düzeyi artabilir.",
+   "Ücretler, işveren ile yapılan anlaşmaya veya çalışılan işletmenin toplu iş sözleşmesine göre değişebilir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T13:25:19",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5803
+  }
+ }
+}

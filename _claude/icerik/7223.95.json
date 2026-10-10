@@ -1,0 +1,84 @@
+{
+ "gorevler": [
+  "İş sağlığı ve güvenliği konusundaki yasal ve işyerine ait kuralları uygular.",
+  "Kalite yönetim sistemi dokümanlarına uygun çalışır.",
+  "Çalışılan yeri düzenler.",
+  "Çalışma alet ve donanımının koruyucu ve talimatlı bakımlarını sağlar.",
+  "Hazırlık işlemlerini gerçekleştirir.",
+  "Ölçme aletlerini kontrol eder.",
+  "Tezgah, takım ve iş parçasını üretime hazır hale getirir.",
+  "Takımları ve iş parçasını tezgaha bağlar.",
+  "Parça talaşlı üretim işlemlerini gerçekleştirir.",
+  "Üretimin sürekliliğini sağlar.",
+  "İş bitiminde donanım ve iş alanı temizliğini yapar.",
+  "Kontrol ve raporlama işlemlerini gerçekleştirir.",
+  "Mesleki gelişim faaliyetlerine katılır."
+ ],
+ "arac_gerec": [
+  "NC/CNC torna tezgahı",
+  "NC/CNC freze tezgahı",
+  "CNC kumanda/kontrol paneli",
+  "Takım tutucular (ayna, mandren, punta)",
+  "Kesici takımlar (freze bıçağı, matkap ucu, kater, uçlar)",
+  "Ölçü ve kontrol aletleri (kumpas, mikrometre, mastar, komparatör)",
+  "İş parçası bağlama aparatları (pens, mengene, aparat)",
+  "Soğutma ve yağlama sıvısı sistemi",
+  "Teknik resim ve CAM/CAD yazılımları",
+  "Kişisel koruyucu donanım (gözlük, eldiven, kulaklık, iş elbisesi)",
+  "Kaldırma ve taşıma ekipmanları (vinç, forklift, caraskal)",
+  "Temizlik ve bakım malzemeleri"
+ ],
+ "genel_ozellikler": [
+  "Şekilleri doğru algılayan ve zihinde canlandırabilen,",
+  "Dikkatli ve sabırlı,",
+  "El ve göz koordinasyonu gelişmiş,",
+  "Sayısal işlemlere ve teknik ölçümlere yatkın,",
+  "Teknik resim okuyabilen,",
+  "Bilgisayar ve programlanabilir cihazlarla çalışmaktan hoşlanan,",
+  "Sorumluluk sahibi ve ekip çalışmasına uygun,",
+  "Fiziksel olarak dayanıklı"
+ ],
+ "calisma_ortami": "NC/CNC Tezgah İşçisi genellikle fabrika ve atölye gibi kapalı mekânlarda, çoğunlukla ayakta çalışır. Çalışma ortamında makine sesi, metal talaşı, kesme ve soğutma sıvılarının kokusu bulunabilir; hareketli parçalar ve kesici takımlar nedeniyle iş güvenliği kurallarına titizlikle uyulması gerekir. İşletmenin üretim hacmine göre vardiyalı çalışma düzeni söz konusu olabilir.\n\nÇalışırken genellikle usta, mühendis, kalite kontrol elemanı ve diğer tezgah operatörleriyle iş birliği içindedir. İşin niteliği, bireysel dikkat ile ekip içinde koordineli çalışmayı birlikte gerektirir.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi, mesleki eğitim merkezlerinde Metal Teknolojisi alanının ilgili dalı (CNC Tezgahları/Makine Teknolojisi) kapsamında çıraklık eğitimi şeklinde verilebilir. Ayrıca mesleki ve teknik Anadolu liselerinin Makine Teknolojisi alanında CNC tezgahları ile ilgili dallarda temel bilgi ve beceriler kazandırılır. Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kurslarında da CNC tezgah operatörlüğüne yönelik kısa süreli eğitimler düzenlenmektedir.",
+  "giris_kosullari": [
+   "Çıraklık eğitimine başlamak için en az ortaokul mezunu olmak",
+   "14 yaşını doldurmuş olmak",
+   "Mesleğin öğrenimine sağlık durumunun uygun olması (gerektiğinde sağlık raporu ile belgelenir)",
+   "Mesleki ve teknik eğitim programlarına kayıt için ortaokul mezunu olmak ve ilgili yönlendirme esaslarına uymak",
+   "İŞKUR/Halk Eğitim Merkezi kurslarına katılmak için kursun belirlediği yaş ve eğitim düzeyi koşullarını sağlamak"
+  ],
+  "sure_ve_icerik": "Mesleki eğitim merkezlerinde çıraklık eğitimi ilköğretim sonrası toplam 4 yıl sürer; bunun 3 yılı kalfalık, 1 yılı ustalık eğitimidir. Eğitim haftada bir gün kurumda teorik, dört gün işyerinde uygulamalı olarak yürütülür. Mesleki ve teknik liselerde ilgili alanda 4 yıllık örgün eğitim kapsamında teknik resim, ölçme-kontrol, malzeme bilgisi, tezgah kullanımı ve G-M kodları ile temel CNC programlama konuları öğretilir. İŞKUR ve Halk Eğitim Merkezi kursları ise genellikle birkaç hafta ile birkaç ay süren, teorik ve uygulamalı yoğunlaştırılmış eğitim programlarıdır.",
+  "belge": "Çıraklık eğitimini tamamlayanlara kalfalık belgesi, ardından ustalık eğitimini tamamlayanlara ustalık belgesi verilir; fark derslerini tamamlayanlar ayrıca meslek lisesi diploması alabilir. Kurs programlarını tamamlayanlara katılım veya başarı belgesi verilir. Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "NC/CNC Tezgah İşçisi; metal işleme, makine imalatı, otomotiv yedek parça, kalıpçılık, tarım makineleri, beyaz eşya ve savunma sanayi gibi alanlarda faaliyet gösteren özel sektöre ait fabrika ve atölyelerde çalışabilir. Sanayide otomasyon ve bilgisayar destekli üretimin yaygınlaşması, nitelikli CNC tezgah işçilerine olan talebi sürdürmektedir. İş bulma olanakları, sanayinin yoğun olduğu organize sanayi bölgeleri ve büyük şehirlerde daha fazladır.",
+ "kazanc": {
+  "egitim_suresince": "3308 sayılı Mesleki Eğitim Kanunu kapsamında işletmelerde mesleki eğitim gören öğrencilere asgari ücretin belirli bir oranından az olmamak üzere ücret ödenir. İŞKUR veya Halk Eğitim Merkezi kurslarına katılanlara ise kursiyer harçlığı verilebilir.",
+  "egitim_sonrasi": [
+   "İşe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Deneyim, bilgisayarlı programlama becerisi ve çalışılan işletmenin büyüklüğüne göre kazanç artabilir.",
+   "Kamuya bağlı kuruluşlarda çalışanlar 657 sayılı Kanun veya ilgili toplu iş sözleşmesi hükümlerine göre ücret alır."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleki eğitim merkezi veya meslek lisesi mezunları, alanının devamı niteliğindeki yükseköğretim (ön lisans/lisans) programlarını tercih ettiklerinde ilgili mevzuat çerçevesinde ek puan veya sınavsız geçiş hakkından yararlanabilir; Makine, Makine Mühendisliği, Mekatronik gibi bölümlere yönelebilirler.",
+  "is_hayatinda": "Deneyim kazanan NC/CNC Tezgah İşçisi, CNC programcılığına, tezgah ayarcılığına (ayarcı-operatör), kalite kontrol görevlerine veya üretim şefliğine yükselebilir; yeterli birikim ve sermayeye sahip olduğunda kendi işyerini açabilir."
+ },
+ "benzer_meslekler": [
+  "CNC Freze Tezgahı Operatörü",
+  "CNC Torna Tezgahı Operatörü",
+  "NC/CNC Tezgah Operatörü",
+  "Metal İşleme Tezgahı Ayarcısı",
+  "Metal İşleme Tezgâhları Ayarcı-Operatörleri",
+  "Otomatik Metal İşleme Transfer Tezgahı Ayarcı-Operatörü"
+ ],
+ "ek_bilgiler": "Sanayide otomasyon ve dijitalleşme eğilimiyle birlikte CNC tezgah kullanımı yaygınlaşmakta, bu durum mesleğe olan talebi desteklemektedir. G-M kodları ile programlama ve bilgisayar destekli üretim (CAM) bilgisine sahip olmak istihdamda avantaj sağlar.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T02:06:10",
+  "usage": {
+   "input_tokens": 4,
+   "output_tokens": 9942
+  }
+ }
+}

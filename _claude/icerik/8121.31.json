@@ -1,0 +1,81 @@
+{
+ "gorevler": [
+  "Ocağın dibine ve alt kısımlarına kum yayar",
+  "Ocağın dibine ilk ateşleme amacıyla yerleştirilmiş kok ve tutuşturma odununu hazırlar ve yakar",
+  "Metal, kok ve katalizör maddelerinin ocağa ayrı tabakalar oluşturacak şekilde doldurulması için talimat verir",
+  "Ocağa hava üfleyerek vantilatörü çalıştırır",
+  "Erimiş metalin ocak tabanına damlamasını gözlemler",
+  "Erimiş metalin bir kepçe içine boşaltılması için gereken seviyeye ulaşması halinde ocağın dibindeki çamuru kırar",
+  "Kepçe dolunca erimiş metalin akışını durdurmak üzere deliği çamurla tıkar",
+  "Eritme işleminden sonra ocağın alt kapaklarını açarak içeride kalan cüruf, metal ve kokun zemine dökülmesini sağlar",
+  "Ocak soğuyunca cidarlarındaki cüruf ve kefekeleri kırar, cidar tuğlalarının yanık kısımlarını ateş toprağı ve su karışımı ile onarır",
+  "Ocağın çalıştırılmasında kendisine yardımcı olan personelin olağan hizmetlerine nezaret eder",
+  "Mesleki gelişim faaliyetlerinde bulunur"
+ ],
+ "arac_gerec": [
+  "Kupola (izabe) ocağı",
+  "Kok kömürü",
+  "Kireç taşı ve katalizör maddeleri",
+  "Ocak dibi için kum ve ateş toprağı",
+  "Üfleme (vantilatör) ve hava besleme sistemi",
+  "Döküm kepçesi",
+  "Demir çubuk, maça ve müdahale aletleri",
+  "Ocak cidar tuğlaları ve tamir malzemesi",
+  "Koruyucu baret, gözlük ve yüz siperi",
+  "Isıya dayanıklı iş elbisesi ve eldiven",
+  "Solunum maskesi",
+  "Kürek ve el aletleri",
+  "Yangın söndürme cihazı"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli,",
+  "Sabırlı ve tedbirli,",
+  "Fiziksel olarak dayanıklı ve güçlü,",
+  "El ve göz koordinasyonu gelişmiş,",
+  "Yüksek sıcaklık altında çalışabilen,",
+  "İş güvenliği kurallarına titizlikle uyan,",
+  "Ekip çalışmasına yatkın,",
+  "Sorumluluk sahibi,"
+ ],
+ "calisma_ortami": "İzabeci (Kupola), genellikle döküm fabrikaları ve döküm atölyelerinde, kupola ocağının bulunduğu bölümde çalışır. Çalışma ortamı kapalı olmakla birlikte yüksek sıcaklık, duman, toz, gürültü ve ocaktan kaynaklanan ısı etkisi altındadır; erimiş metalle çalışıldığından yanık, sıçrama ve yaralanma riski bulunur, bu nedenle koruyucu donanım kullanımı ve iş güvenliği kurallarına uyulması büyük önem taşır.\n\nÇalışma genellikle ayakta, fiziksel güç gerektiren koşullarda sürdürülür; işletmenin üretim programına göre vardiyalı çalışma söz konusu olabilir. Meslek elemanı; işyeri yöneticileri, ustabaşı, şarj işçileri ve döküm işçileriyle yakın işbirliği içinde çalışır.",
+ "egitim": {
+  "verildigi_yerler": "İzabeci (Kupola) mesleğine yönelik resmi olarak tanımlanmış, ayrı bir örgün mesleki eğitim programı (çıraklık/kalfalık/ustalık dalı) bulunmamaktadır. Meslek elemanları genellikle döküm fabrikalarında işbaşında, deneyimli ustaların yanında çalışarak yetişir. Metal teknolojisi alanındaki mesleki ve teknik eğitim kurumlarında alınan temel döküm/metal işleme eğitimi bu mesleğe hazırlık niteliği taşıyabilir. Ayrıca Halk Eğitim Merkezleri ile İŞKUR tarafından açılan mesleki eğitim kurslarından yararlanılabilir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "İşe alınacağı işyerinin aradığı nitelikleri taşımak",
+   "Yüksek sıcaklık ve fiziksel güç gerektiren işlerde çalışabilecek sağlık ve bedensel yeterliliğe sahip olmak",
+   "Mesleğin tehlikeli iş kapsamında değerlendirilebilmesi nedeniyle genellikle 18 yaşını doldurmuş olmak"
+  ],
+  "sure_ve_icerik": "Mesleğe yönelik resmi olarak tanımlanmış belirli bir eğitim süresi ve müfredat bulunmamaktadır. Meslek elemanları işyerinde, deneyimli bir ustanın gözetiminde çalışarak uygulamalı şekilde yetişir. Bu süreçte ocağın hazırlanması, şarj edilmesi, ateşlenmesi, eritme ve döküm işlemleri ile iş sağlığı ve güvenliği kuralları öğrenilir. Kamu kurumları veya meslek kuruluşlarınca açılan kısa süreli mesleki eğitim kursları, bilgi ve becerilerin geliştirilmesine katkı sağlayabilir.",
+  "belge": "Örgün eğitim yoluyla alınan bir diploma bulunmamaktadır. İşyerinde edinilen deneyim esastır; katılınan kurslar sonunda katılım/başarı belgesi verilebilir. Ayrıca Mesleki Yeterlilik Kurumu (MYK) tarafından yetkilendirilmiş kuruluşlardan alınacak mesleki yeterlilik belgesi istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "İzabeci (Kupola), başta demir-çelik ve demir dışı metal döküm fabrikaları olmak üzere, makine parçası, yedek parça ve döküm ürünü imal eden küçük, orta ve büyük ölçekli sanayi işletmelerinde istihdam edilir. Çalışma alanları genellikle özel sektöre ait döküm atölye ve fabrikalarıdır; kamuya bağlı sanayi kuruluşlarının döküm tesislerinde de iş bulma olanağı bulunabilir.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğe yönelik örgün bir eğitim süreci bulunmadığından, mesleğe yeni başlayanlar genellikle işyerinde yardımcı eleman olarak çalışmaya başlar ve bu dönemde genellikle asgari ücret düzeyinde kazanç elde eder.",
+  "egitim_sonrasi": [
+   "Özel sektörde çalışanların ücreti işin niteliğine, deneyime, işletmenin büyüklüğüne ve karşılıklı anlaşmaya göre değişmekle birlikte genellikle asgari ücret ile belirli oranda üzeri arasında belirlenir.",
+   "Kamu kuruluşlarına bağlı döküm tesislerinde işçi statüsünde çalışanların ücreti, yürürlükteki toplu iş sözleşmesi hükümlerine göre belirlenir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğe yönelik kademeli bir örgün eğitim sistemi (çıraklık-kalfalık-ustalık) bulunmadığından, ilerleme büyük ölçüde işyerinde kazanılan deneyime bağlıdır. İsteyenler, Halk Eğitim Merkezleri ve ilgili kurumlarca açılan metal/döküm teknolojisi kurslarına katılarak bilgi ve becerilerini geliştirebilir.",
+  "is_hayatinda": "Deneyim kazandıkça usta işçi, ocak sorumlusu veya vardiya amiri gibi görevlere yükselebilir. Yeterli birikim ve sermayeye sahip olanlar kendi döküm atölyelerini kurabilir."
+ },
+ "benzer_meslekler": [
+  "Kupol Ocağı Operatörü",
+  "Şarj İşçisi (Kupola Ocağı)",
+  "İzabeci (Metal Ergitme) (Kupola Hariç)",
+  "İzabeci (Metal Tavlama Ocağı)",
+  "Diğer Metal Ergitmeciler ve Metal Tavlayıcılar",
+  "Potacı-Dökümcü"
+ ],
+ "ek_bilgiler": "Kupola ocağının çalıştırılması yüksek sıcaklık, yanma ve erimiş metalle temas riski taşıdığından, iş sağlığı ve güvenliği mevzuatı kapsamında tehlikeli/çok tehlikeli işler arasında değerlendirilebilmektedir; bu nedenle 18 yaşından küçüklerin bu işte çalıştırılmaması esastır. Döküm sektöründe indüksiyon ve elektrikli ergitme ocaklarının yaygınlaşması nedeniyle kupola ocağı kullanımı ve buna bağlı istihdam zaman içinde azalma eğilimi göstermektedir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T11:10:40",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6852
+  }
+ }
+}

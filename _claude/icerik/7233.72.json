@@ -1,0 +1,82 @@
+{
+ "arac_gerec": [
+  "El takımları (anahtar, tornavida, pense, çekiç vb.)",
+  "Multimetre ve elektriksel ölçüm cihazları",
+  "Osiloskop",
+  "Mobil kumanda paneli (teach pendant)",
+  "Robot kontrol ünitesi ve arıza teşhis yazılımları",
+  "Hidrolik ve pnömatik test takımları",
+  "Yedek mekanik parçalar (kaplin, dişli, redüktör, rulman vb.)",
+  "Yağlama ekipmanları ve yağlama malzemeleri",
+  "Kablo, konektör ve bağlantı elemanları",
+  "Kaldırma ve taşıma ekipmanları (vinç, caraskal vb.)",
+  "Dizüstü bilgisayar ve programlama/arıza tespit yazılımları",
+  "Kişisel koruyucu donanım (eldiven, koruyucu gözlük, kulaklık, iş elbisesi vb.)"
+ ],
+ "benzer_meslekler": [
+  "Makine Bakım Ustası",
+  "Makine Bakım ve Onarımcısı",
+  "Makine Montaj ve Bakım Onarımcısı",
+  "İş Makineleri Elektrik-Elektronik Sistemler Bakım ve Onarımcısı",
+  "Hidrolik Pnömatik Elemanı",
+  "Kestirimci Bakım Elemanı"
+ ],
+ "calisma_alanlari": "Endüstriyel robot bakımcıları; otomotiv, beyaz eşya, elektronik, gıda, metal ve plastik işleme gibi endüstriyel robotların yaygın kullanıldığı üretim tesislerinde çalışabilirler. Ayrıca robot ve otomasyon sistemleri üreten, satan, kuran veya bakım-servis hizmeti sunan firmalarda ve sistem entegratörü şirketlerde istihdam edilebilirler.\n\nSanayide otomasyona ve Endüstri 4.0 uygulamalarına geçişin hızlanması, üretim hatlarında kullanılan endüstriyel robot sayısının artmasına ve buna bağlı olarak bu mesleğe olan talebin yükselmesine yol açmaktadır. Organize sanayi bölgeleri ve büyük üretim tesislerinin yoğun olduğu şehirlerde iş bulma olasılığı daha yüksektir.",
+ "calisma_ortami": "Endüstriyel robot bakımcıları genellikle fabrika ve üretim tesislerinin atölye bölümlerinde ya da doğrudan üretim hatlarında çalışır. Çalışma ortamı zaman zaman gürültülü, yağlı ve tozlu olabilir. Hareketli robot kolları ve elektrikli sistemlerle çalışıldığından iş sağlığı ve güvenliği kurallarına eksiksiz uyulması gerekir; aksi durumda kaza riski bulunur.\n\nÇalışma saatleri, görev yapılan işletmenin üretim düzenine bağlı olarak değişebilir; bazı işyerlerinde vardiyalı çalışma ya da planlı bakım çalışmaları için mesai saatleri dışında görevlendirme söz konusu olabilir. Bu meslek elemanları; üretim mühendisleri, operatörler, diğer bakım-onarım teknisyenleri ve işletme yöneticileriyle sık sık iletişim kurar, genellikle ekip halinde çalışır.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin temel bilgi ve becerileri, mesleki ve teknik ortaöğretim kurumlarının (lise) Mekatronik Teknolojisi, Elektrik-Elektronik Teknolojisi veya Endüstriyel Otomasyon Teknolojileri gibi ilgili alanlarında verilmektedir. Mesleğe özgü ileri düzey bilgi ve beceriler ise Halk Eğitim Merkezleri, İŞKUR'un açtığı işgücü yetiştirme kursları, üniversitelerin sürekli eğitim merkezleri, robot/otomasyon üreticisi firmaların kendi eğitim merkezleri ve işletmelerde işbaşında usta/uzman eşliğinde kazanılmaktadır.",
+  "giris_kosullari": [
+   "Mesleki ve teknik ortaöğretim kurumlarının ilgili alanlarına kayıt için ortaokul diploması sahibi olmak",
+   "Sağlık durumunun mesleğin gerektirdiği işlere (fiziksel çalışma, elektrikli sistemlerle temas vb.) uygun olması",
+   "Kısa süreli kurs ve sertifika programlarına katılım için genellikle en az ortaöğretim mezunu olmak ve ilgili kurumun belirlediği şartları taşımak"
+  ],
+  "sure_ve_icerik": "Mesleki ve teknik ortaöğretimde örgün eğitim süresi 4 yıldır; bu süreçte genel kültür derslerinin yanında temel elektrik-elektronik, mekanik sistemler, kontrol teknikleri, PLC ve otomasyon gibi meslek dersleri okutulur. Endüstriyel robot bakımına özgü bilgi ve beceriler ise bu temel eğitimin üzerine, kurum ve kuruluşlarca açılan haftalar veya aylar süren kısa dönemli kurs ve sertifika programlarıyla ya da işletmede kullanılan robot markasına özgü üretici eğitimleriyle kazandırılır. Bu programların süresi ve içeriği, eğitimi veren kuruma ve kullanılan teknolojiye göre değişebilir.",
+  "belge": "Mesleki ve teknik ortaöğretim kurumlarından alınan diploma; katılınan kurs ve sertifika programlarından alınan katılım/başarı belgesi; varsa Mesleki Yeterlilik Kurumu (MYK) Mesleki Yeterlilik Belgesi."
+ },
+ "ek_bilgiler": "Endüstriyel Robot Bakımcılığı, üretim hatlarında robot kullanımının yaygınlaşmasıyla birlikte önem kazanan, Endüstri 4.0 süreçleriyle ilişkili görece yeni bir meslektir. İşletmede kullanılan robot markasına/modeline özgü ek eğitimler almak iş bulma ve mesleki ilerlemede avantaj sağlayabilir. Mesleki Yeterlilik Kurumu (MYK) belgesine sahip olmak istihdamda tercih sebebi olabilir.",
+ "genel_ozellikler": [
+  "Şekilleri ve teknik çizimleri doğru algılayabilen,",
+  "Makine ve sistem parçaları arasındaki ilişkiyi görebilen,",
+  "El becerisine ve el-göz koordinasyonuna sahip,",
+  "Dikkatli, sabırlı ve sorumluluk sahibi,",
+  "Analitik düşünebilen ve problem çözme yeteneğine sahip,",
+  "Elektrik, elektronik ve mekanik sistemlere ilgi duyan,",
+  "Yeni teknolojileri öğrenmeye açık,",
+  "Takım halinde çalışmaya uyumlu"
+ ],
+ "gorevler": [
+  "İş sağlığı ve güvenliği ile çevre koruma önlemlerini uygular,",
+  "Temel robot bileşenlerini tanır,",
+  "Mobil kumanda paneli üzerinden endüstriyel robot kullanımını gerçekleştirir,",
+  "Endüstriyel robotların mekanik bileşenlerini tanır,",
+  "Endüstriyel robotların talimatla belirtilen mekanik bakım için ön hazırlık faaliyetlerini yapar,",
+  "Endüstriyel robotların temel elektrik bileşenlerini tanır,",
+  "Endüstriyel robotların talimatla belirtilen elektrik bakım onarım ve arıza tespiti için ön hazırlık faaliyetlerini yapar,",
+  "Endüstriyel robotların elektrik arıza tespiti faaliyetlerini yapar,",
+  "Endüstriyel robotların elektrik bakım onarım faaliyetlerini yapar,",
+  "Endüstriyel robot kurulumu ön hazırlıklarını yapar,",
+  "Endüstriyel robot sistemi için talimat ile belirtilen kurulum işlemini gerçekleştirir,",
+  "Endüstriyel robot sistemini devreye alır,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleki ve teknik ortaöğretim kurumlarından mezun olanlar, alanın devamı niteliğindeki yükseköğretim (ön lisans/lisans düzeyinde Mekatronik, Elektrik-Elektronik, Otomasyon vb.) programlarını tercih ettiklerinde sınav sonuçlarına göre veya ek puan avantajıyla bu programlara yerleşebilirler. Ayrıca çeşitli kurs, seminer ve sertifika programlarına katılarak bilgi ve becerilerini güncelleyebilirler.",
+  "is_hayatinda": "Deneyim kazandıkça ekip lideri, bakım şefi veya otomasyon/robot sistemleri uzmanı gibi pozisyonlara yükselebilirler. İlgili eğitimleri tamamlayarak sistem entegrasyonu ve robot programlama gibi daha ileri görevler üstlenebilir; isteyenler kendi bakım-servis işletmelerini kurabilirler."
+ },
+ "kazanc": {
+  "egitim_suresince": "Mesleki ve teknik ortaöğretim kapsamında işletmelerde mesleki eğitim gören öğrencilere, 3308 sayılı Mesleki Eğitim Kanunu gereğince asgari ücretin net tutarının belirli bir yüzdesinden az olmamak üzere ücret ödenir. Kısa süreli kurs ve sertifika programlarına katılanlara genellikle ücret ödenmez.",
+  "egitim_sonrasi": [
+   "Kamu kurum ve kuruluşlarında istihdam edilenler, memur statüsünde ise 657 sayılı Devlet Memurları Kanunu'na, işçi statüsünde ise ilgili toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde yeni başlayanların kazancı genellikle asgari ücret düzeyindedir; işletmenin büyüklüğü, kişinin deneyimi, bilgisi ve becerisine göre kazanç artabilir.",
+   "Farklı robot markalarına hakim olan, yabancı dil bilen ve uzmanlaşan kişiler daha yüksek ücretle çalışabilir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T03:10:29",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 8215
+  }
+ }
+}

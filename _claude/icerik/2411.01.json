@@ -1,0 +1,81 @@
+{
+ "arac_gerec": [
+  "Bilgisayar ve ofis yazılımları (kelime işlemci, hesap tablosu)",
+  "Kamu bütçe ve muhasebe yönetim sistemleri (örn. e-bütçe/e-muhasebe uygulamaları)",
+  "Hesap makinesi",
+  "Resmî mevzuat, kanun, yönetmelik ve genelge metinleri",
+  "Bütçe hazırlık, ödenek ve harcama formları",
+  "Yazıcı, tarayıcı ve arşivleme sistemleri",
+  "E-devlet ve kurum içi bilgi sistemleri",
+  "Telefon ve kurumsal iletişim araçları",
+  "Çeşitli kırtasiye malzemeleri",
+  "Faaliyet raporu ve istatistik hazırlama şablonları"
+ ],
+ "genel_ozellikler": [
+  "Sayılarla akıl yürütebilme yeteneğine sahip,",
+  "Analitik düşünebilen ve ayrıntılara dikkat eden,",
+  "Mevzuatı takip etmeye istekli ve yorumlama becerisine sahip,",
+  "Sorumluluk sahibi, güvenilir ve gizliliğe önem veren,",
+  "Düzenli, planlı ve sistemli çalışabilen,",
+  "Yazılı ve sözlü iletişim becerisi gelişmiş,",
+  "Zaman yönetimine ve iş önceliklendirmeye özen gösteren,",
+  "Büro ortamında ve bilgisayarla uzun süre çalışmaktan hoşlanan"
+ ],
+ "calisma_ortami": "Bütçe Uzmanları, genel yönetim kapsamındaki kamu idarelerinin Mali Hizmetler/Strateji Geliştirme Birimlerinde, büro ortamında ve genellikle oturarak çalışır. Görevleri ağırlıklı olarak bilgisayar ve bütçe-muhasebe yazılımları üzerinden yürütülür; sayısal verilerle, mevzuat metinleriyle ve resmî belgelerle sürekli etkileşim söz konusudur. Mesai saatleri genel olarak düzenlidir; bütçe hazırlık, ödenek dağıtımı, kesin hesap ve faaliyet raporu dönemlerinde iş yükü ve çalışma süresi artabilir.\n\nÇalışma sırasında kurum içinde üst yöneticiler, harcama yetkilileri ve diğer birim çalışanlarıyla; kurum dışında ise Hazine ve Maliye Bakanlığı, Sayıştay ve ilgili diğer kamu idareleriyle yazılı ve sözlü iletişim kurar. İş, fiziksel olarak ağır veya riskli değildir; temel zorluk, yoğun mevzuat takibi, zaman baskısı ve hata toleransının düşük olmasından kaynaklanır.",
+ "egitim": {
+  "verildigi_yerler": "Üniversitelerin İktisadi ve İdari Bilimler Fakülteleri ile Siyasal Bilgiler Fakültelerinin İktisat, İşletme, Maliye, Kamu Yönetimi, Ekonomi, Uluslararası İlişkiler ve benzeri bölümleri bu mesleğe temel oluşturan lisans eğitimini verir.",
+  "giris_kosullari": [
+   "İlgili alanlarda (İktisat, İşletme, Maliye, Kamu Yönetimi, Ekonomi vb.) dört yıllık lisans eğitimini tamamlamış olmak",
+   "Kamu Personeli Seçme Sınavı (KPSS) sonucuna göre başvuru hakkı kazanmak",
+   "İlgili kamu idaresinin açtığı Mali Hizmetler Uzman Yardımcılığı giriş sınavını (yazılı ve/veya sözlü) başarıyla tamamlamak",
+   "Kamu görevlerine girişte aranan genel şartları (yaş, sağlık durumu, vatandaşlık vb.) taşımak"
+  ],
+  "sure_ve_icerik": "Mesleğe hazırlayan lisans eğitimi dört yıl sürer ve ekonomi, kamu maliyesi, bütçe teorisi ve uygulaması, muhasebe, işletme ve ilgili hukuk derslerini içerir. Lisans sonrasında ilgili kamu idaresinin açtığı giriş sınavını kazananlar belirli bir süre (genellikle üç yıl) Mali Hizmetler Uzman Yardımcısı olarak çalışır; bu süre içinde hizmet içi eğitim alır, mevzuat ve uygulama konularında deneyim kazanır. Yardımcılık döneminin sonunda yapılan yeterlik sınavı ve/veya uzmanlık tezinin kabulü ile Mali Hizmetler Uzmanı (Bütçe Uzmanı) unvanı kazanılır.",
+  "belge": "İlgili lisans bölümünden alınan diploma ve kamu idaresi tarafından verilen Mali Hizmetler Uzmanlığı (Bütçe Uzmanlığı) atama/unvan onayı."
+ },
+ "gorevler": [
+  "İdarenin stratejik plan ve performans programının hazırlanmasını koordine eder, sonuçlarının konsolide edilmesi çalışmalarını yürütür.",
+  "İzleyen iki yılın bütçe tahminlerini de içeren idare bütçesini, stratejik plan ve yıllık performans programına uygun olarak hazırlar; idare faaliyetlerinin bunlara uygunluğunu izler.",
+  "Mevzuatı uyarınca belirlenecek bütçe ilke ve esasları çerçevesinde ayrıntılı harcama programı hazırlar; hizmet gereksinimleri dikkate alınarak ödeneğin ilgili birimlere gönderilmesini sağlar.",
+  "Bütçe kayıtlarını tutar; bütçe uygulama sonuçlarına ilişkin verileri toplar, değerlendirir, bütçe kesin hesabı ile mali istatistikleri hazırlar.",
+  "İlgili mevzuatı çerçevesinde idare gelirlerini tahakkuk ettirir, gelir ve alacaklarının takip ve tahsil işlemlerini yürütür.",
+  "Genel bütçe kapsamı dışında kalan idarelerde muhasebe hizmetlerini yürütür.",
+  "Harcama birimleri tarafından hazırlanan birim faaliyet raporlarını da esas alarak idarenin faaliyet raporunu hazırlar.",
+  "İdarenin mülkiyetinde veya kullanımında bulunan taşınır ve taşınmazlara ilişkin icmal cetvellerini düzenler.",
+  "İdarenin yatırım programı hazırlanmasını koordine eder, uygulama sonuçlarını izler ve yıllık yatırım değerlendirme raporunu hazırlar.",
+  "İdarenin diğer idareler nezdinde takibi gereken mali iş ve işlemlerini yürütür ve sonuçlandırır.",
+  "Mali kanunlarla ilgili diğer mevzuatın uygulanması konusunda üst yöneticiye ve harcama yetkililerine gerekli bilgileri sağlar, danışmanlık yapar.",
+  "Ön mali kontrol faaliyetlerini yürütür.",
+  "İç kontrol sisteminin kurulması, standartlarının uygulanması ve geliştirilmesi konularında çalışmalar yapar.",
+  "Mali konularda amirler tarafından verilen diğer görevleri yapar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "calisma_alanlari": "Bütçe Uzmanları, genel yönetim kapsamındaki kamu idarelerinin (bakanlıklar, bağlı ve ilgili kuruluşlar, genel ve özel bütçeli kurumlar, büyükşehir belediyeleri gibi) Mali Hizmetler/Strateji Geliştirme Birimlerinde istihdam edilir. İş bulma olanağı, ilgili kamu idaresinin açtığı sınav ve kadro ilanlarına bağlıdır; dolayısıyla istihdam, kamu personel alım süreçleriyle sınırlıdır. Deneyim kazandıktan sonra farklı kamu idarelerine kurumlar arası naklen geçiş ya da benzer unvanlı kadrolara atanma yoluyla hareketlilik mümkündür.",
+ "kazanc": {
+  "egitim_suresince": "Mali Hizmetler Uzman Yardımcısı olarak çalışılan dönemde, 657 sayılı Devlet Memurları Kanunu'na tabi olarak derece ve kademesine göre memur maaşı ile ek ödemeler alınır; bu dönemdeki kazanç genellikle asgari ücretin üzerindedir.",
+  "egitim_sonrasi": [
+   "Mali Hizmetler Uzmanı (Bütçe Uzmanı) unvanı kazanıldıktan sonra 657 sayılı Devlet Memurları Kanunu'na göre derece, kademe, ek gösterge ve özel hizmet tazminatı esaslarına uygun maaş alınır.",
+   "Kazanç düzeyi, çalışılan kamu idaresine, kıdeme, unvana ve yürütülen görevin niteliğine göre değişiklik gösterebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Giriş sınavını kazananlar belirli bir süre Mali Hizmetler Uzman Yardımcısı olarak çalışır; bu sürenin sonunda yapılan yeterlik sınavı ve/veya hazırlanan uzmanlık tezinin kabulüyle Mali Hizmetler Uzmanı (Bütçe Uzmanı) unvanı kazanılır.",
+  "is_hayatinda": "Kıdem, performans ve kurumun kadro yapısına bağlı olarak Bütçe Uzmanları; kıdemli uzmanlık, birim sorumluluğu veya Strateji Geliştirme/Mali Hizmetler Daire Başkanlığı gibi yönetici kadrolarına yükselebilir. Ayrıca kurumlar arası geçiş yoluyla benzer mali unvanlı görevlere atanabilirler."
+ },
+ "benzer_meslekler": [
+  "Mali Kontrolör",
+  "Mali Denetçi",
+  "Hesap Uzmanı",
+  "Defterdarlık Uzmanı",
+  "Gelirler Uzmanı"
+ ],
+ "ek_bilgiler": "Bu meslek, 5018 sayılı Kamu Mali Yönetimi ve Kontrol Kanunu çerçevesinde kamu idarelerinin Mali Hizmetler Biriminde görev yapan \"Mali Hizmetler Uzmanı\" kadrosuna karşılık gelmektedir; bazı kurumlarda bu unvan \"Bütçe Uzmanı\" olarak da kullanılabilir. Göreve giriş ve ilerleme koşulları, çalışılan kamu idaresinin ilgili yönetmeliğine göre farklılık gösterebilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T05:00:41",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 7655
+  }
+ }
+}

@@ -1,0 +1,92 @@
+{
+ "arac_gerec": [
+  "Sapan (çeşitli tip ve kapasitelerde)",
+  "Bağlama donanımları (lashing ekipmanları)",
+  "Kaldırma zincirleri ve halatlar",
+  "Spreader ve kancalar",
+  "Konteyner kilitleri (twist-lock)",
+  "Kişisel koruyucu donanım (baret, iş ayakkabısı, eldiven, reflektörlü yelek)",
+  "Telsiz/haberleşme cihazı",
+  "Kargo planı, bay planı ve iş listesi belgeleri",
+  "El feneri",
+  "Ölçüm aletleri (şerit metre vb.)",
+  "Düdük ve el işaretleri ile iletişim ekipmanları"
+ ],
+ "benzer_meslekler": [
+  "Sapancı (Kaldırma Teçhizatlı)",
+  "Gemi Halat ve Kablo Donanım İşçisi",
+  "Armadör İşçisi",
+  "Halat ve Kablo Ekleyicisi",
+  "Diğer Sapancılar ve Kablo Ekleyicileri"
+ ],
+ "calisma_alanlari": "Meslek elemanları başlıca deniz limanları, konteyner terminalleri, liman işletmeleri, gemi acenteleri ve yük elleçleme hizmeti veren özel şirketlerde istihdam edilir.\\n\\nİş bulma olanağı, limanların yoğun olduğu kıyı illerinde (İstanbul, İzmir, Mersin, Kocaeli, Hatay, Tekirdağ vb.) yoğunlaşmaktadır. Dış ticaret hacmindeki artışa ve liman trafiğine bağlı olarak deneyimli işaretçi/sapancılara duyulan ihtiyaç sürmektedir.",
+ "calisma_ortami": "İşaretçi/Sapancı; liman rıhtımları, gemi ambarları, konteyner sahaları ve açık depolama alanları gibi genellikle açık havada çalışır. Gürültülü, tozlu, rüzgârlı ve değişken hava koşullarına açık bir ortamda, ağır yüklerle ve kaldırma ekipmanlarıyla iş yapılır. Vardiya sistemiyle çalışılır; liman trafiğine göre gece, gündüz ve hafta sonu çalışması gerekebilir.\\n\\nMeslek, operasyon yöneticisi, vinç operatörü, gemi personeli, liman işçileri ve posta üyeleriyle sürekli koordinasyon ve iletişim gerektirir. Yüksekten düşme, sıkışma, yük altında kalma gibi iş kazası riskleri bulunduğundan, iş sağlığı ve güvenliği kurallarına titizlikle uyulması zorunludur.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğe özgü, resmi olarak tanımlanmış bir mesleki ve teknik eğitim programı (çıraklık, meslek lisesi alan/dalı vb.) bulunmamaktadır. Meslek elemanları genellikle işbaşında, deneyimli bir sapancı veya usta gözetiminde çalışarak yetişir; ayrıca liman işletmelerinin düzenlediği iş başı eğitimler ile Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kursları da bu alanda bilgi ve beceri kazandırabilir.",
+  "giris_kosullari": [
+   "İlköğretim mezunu olmak (meslek için gereken minimum eğitim düzeyi)",
+   "Liman sahasındaki ağır ve riskli çalışma koşulları nedeniyle genellikle 18 yaşını doldurmuş olmak",
+   "Sağlık durumunun ağır iş koşullarına ve açık hava çalışmasına uygun olduğunu belgelemek"
+  ],
+  "sure_ve_icerik": "Standart ve resmi bir eğitim süresi ile müfredatı bulunmamaktadır. İşe yeni başlayanlar, belirli bir süre deneyimli bir işaretçi/sapancı ya da operasyon yöneticisi gözetiminde çalışarak sapanlama, pabuçlama, yük bağlama-çözme teknikleri, kargo ve bay planı okuma, elleçleme güvenliği ve el işaretleri ile iletişim yöntemlerini uygulamalı olarak öğrenir. Liman işletmelerinin düzenlediği iş sağlığı ve güvenliği eğitimleri de bu sürecin önemli bir parçasıdır.",
+  "belge": "Resmi bir diploma veya sertifika zorunluluğu bulunmamaktadır. İşyerlerinin düzenlediği iş güvenliği eğitimi katılım belgeleri yaygındır; Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "genel_ozellikler": [
+  "El ve beden becerisine sahip,",
+  "Dikkatli ve tedbirli,",
+  "Takım çalışmasına uygun,",
+  "Sorumluluk sahibi,",
+  "Fiziksel olarak dayanıklı,",
+  "Açık havada ve yüksekte çalışmaya uygun,",
+  "Hızlı ve doğru karar verebilen,",
+  "Görme ve işitme duyuları güçlü,"
+ ],
+ "gorevler": [
+  "İSG, çevre ve kalite önlemlerini destekler.",
+  "Kişisel koruyucu donanım (KKD) kullanır.",
+  "Günlük vardiya iş listesini alır.",
+  "Vardiya teslim alır/eder.",
+  "İş organizasyonu yapar.",
+  "Yapılan işler ve işlerin durumu hakkında amire veya ilgili birime geribildirimde bulunur.",
+  "Elleçleme öncesi hazırlıkları yapar.",
+  "Kargo ve bay planı listelerini alır.",
+  "Kargo ve bay planını değerlendirir.",
+  "Sapan, bağlama donanımları (lashing), diğer elleçleme aparatları ve çalışma sahasını değerlendirir.",
+  "Postasının yük elleçleme işlemlerini yapar.",
+  "Ambar veya istif alanının kontrolünü sağlar.",
+  "Yüklerin ve gemi ambar kapağının bağlama, çözme, kilitleme işlemini yapar.",
+  "Yüklerin uygun sapan ve aparatlar kullanarak elleçlemesini yapar.",
+  "Yük/saha/gemi ambar kapağı-kızağı ve yük hasarı kontrolünü yapar.",
+  "Verilmiş olan adreslemeye yönlendirme yapar.",
+  "Gemi ve saha arasında yükleme, boşaltma koordinasyonunu sağlar.",
+  "Tahmil ve tahliye işlemlerinde geminin dengesini/stabilitesini gözetir.",
+  "Yükün hacim ve tonaj ayarının yapılmasına yardımcı olur.",
+  "Yükün gemiye, istife, araca veya konteynere; kargo planına ve tonaj ölçütüne uygun şekilde elleçlemesini sağlar.",
+  "İşlerin durumunu değerlendirir.",
+  "Elleçleme sonrası işlemleri yapar.",
+  "Sapan ve diğer ekipmanları toplar.",
+  "Sapan ve ekipmanları dış etkenlerden korur.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğe yönelik örgün bir ilerleme basamağı bulunmamaktadır. Deneyim kazanan meslek elemanları, liman işletmelerinin düzenlediği ileri düzey iş güvenliği, kargo planlama veya kaldırma ekipmanları kullanımı kurslarına katılarak bilgi ve becerilerini geliştirebilir.",
+  "is_hayatinda": "Deneyim ve performansa bağlı olarak posta şefliği, vardiya amirliği veya operasyon yöneticiliği gibi kademelere yükselebilirler."
+ },
+ "kazanc": {
+  "egitim_suresince": "Mesleğin resmi/örgün bir eğitim süreci bulunmadığından, işe yeni başlayanlar işbaşı eğitim döneminde işyeri ile yapılan anlaşmaya bağlı olarak genellikle asgari ücret düzeyinde bir kazanç elde eder.",
+  "egitim_sonrasi": [
+   "Kamuya bağlı liman işletmelerinde çalışanlar, 657 sayılı Devlet Memurları Kanunu'na veya işçi statüsündeyse ilgili toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde çalışanların kazancı; işyerinin büyüklüğü, kişinin deneyimi, bilgisi, çalışma kapasitesi ve sektörün genel ücret düzeyine göre değişebilmektedir.",
+   "Vardiyalı ve gece çalışması gerektiren işlerde ek ücret/prim uygulamaları görülebilir."
+  ]
+ },
+ "ek_bilgiler": "Liman ve kıyı tesislerinde yapılan yük elleçleme ve sapanlama işleri, iş sağlığı ve güvenliği açısından riskli kabul edilen faaliyetler arasında yer almaktadır. Bu nedenle çalışanların düzenli iş güvenliği eğitimi almaları, kişisel koruyucu donanım kullanmaları ve gemi-saha koordinasyonunda dikkatli hareket etmeleri büyük önem taşır.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T00:56:02",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 7297
+  }
+ }
+}

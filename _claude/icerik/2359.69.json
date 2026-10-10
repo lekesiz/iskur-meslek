@@ -1,0 +1,76 @@
+{
+ "gorevler": [
+  "Aday çırak, çırak, kalfa ve öğrencilerin iş yerindeki eğitiminden sorumlu olur.",
+  "Otomotiv elektrikçiliği eğitimi ile ilgili gereken makine, araç-gereç ve malzemeler ile eğitim materyallerinin hazırlanmasını sağlar.",
+  "Aday çırak, çırak, kalfa ile mesleki ve teknik eğitim okul ve kurumları öğrencilerine, otomotiv elektrikçiliği ile ilgili kullanılması gereken makine, araç-gereç ve malzemeleri tanıtır.",
+  "Öğrencilere mesleği ile ilgili konularda eğitim verir.",
+  "Öğrencilerin, otomotiv elektrikçiliği ile ilgili konularda uygulama yapmalarını sağlar, gördüğü hata ve eksikliklerin düzeltilmesini sağlar.",
+  "Öğrencilere, otomotiv elektrikçiliği işlerinde kullanılan makine, araç-gereç ve malzemelerin basit bakım-onarım, kontrol ve ayar işleriyle ilgili gerekli eğitimleri verir.",
+  "Öğrencilere iş sağlığı ve güvenliği konularında eğitim verir.",
+  "Meslek dersleri ve atölye uygulama sınavlarında komisyon üyesi olarak görev yapar.",
+  "Meslek alanı ile ilgili gelişmeleri takip eder ve uygulamalarını mesleki eğitime aktarır.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "arac_gerec": [
+  "Otomotiv elektrik sistemleri eğitim setleri ve maketleri",
+  "Multimetre ve osiloskop",
+  "Akü şarj ve test cihazları",
+  "Kablo demeti şemaları ve eğitim materyalleri",
+  "OBD arıza tespit cihazı",
+  "El takımları (tornavida, pense, kargaburun vb.)",
+  "Lehim makinesi ve kablo tamir malzemeleri",
+  "Marş motoru, alternatör, sensör gibi eğitim amaçlı oto elektrik parçaları",
+  "Kişisel koruyucu donanım (eldiven, koruyucu gözlük)",
+  "Bilgisayar ve sunum/projeksiyon ekipmanları"
+ ],
+ "genel_ozellikler": [
+  "El ve parmaklarını ustalıkla kullanabilen,",
+  "Öğretmeyi seven, sabırlı ve anlayışlı,",
+  "Elektrik-elektronik sistemlere ilgili ve bu alanda bilgi birikimine sahip,",
+  "Dikkatli ve sorumluluk sahibi,",
+  "İnsanlarla ve özellikle gençlerle iyi iletişim kurabilen,",
+  "Mesleki bilgisini güncel teknolojilere göre geliştirmeye istekli,",
+  "Planlı, düzenli ve sistemli çalışabilen,",
+  "Güvenlik kurallarına duyarlı"
+ ],
+ "calisma_ortami": "Usta öğretici, mesleki eğitim merkezleri, çıraklık eğitimi merkezleri veya otomotiv elektrik işyerlerine bağlı atölyelerde görev yapar. Çalışma genellikle kapalı atölye ortamında geçer; zaman zaman araç üzerinde pratik uygulama yaptırmak için açık alanda da bulunabilir. Elektrik kaçağı, kesici-delici alet kullanımı, yağ ve kir gibi risklerle karşılaşabilir; ayakta, eğilerek veya araç altında çalışma gerektirebilir.\n\nÇalışma saatleri genellikle gündüzdür ve bağlı olunan kuruma göre değişiklik gösterebilir. Görevi sırasında aday çırak, çırak, kalfa ve öğrencilerle, diğer usta öğretici ve öğretmenlerle, atölye/bölüm şefleriyle ve kurum yönetimi ile sürekli iletişim içindedir.",
+ "egitim": {
+  "verildigi_yerler": "Bu meslek için örgün bir ön lisans veya lisans programı bulunmamaktadır. Usta öğretici unvanı, otomotiv elektrikçiliği alanında ustalık yeterliğine sahip kişilerin, Millî Eğitim Bakanlığı tarafından düzenlenen \"Usta Öğreticilik\" eğitim programını tamamlamaları ile kazanılır. Bu eğitimler halk eğitimi merkezleri, mesleki eğitim merkezleri ve il/ilçe millî eğitim müdürlükleri bünyesinde verilmektedir.",
+  "giris_kosullari": [
+   "En az ilköğretim/ortaokul mezunu olmak,",
+   "Otomotiv elektrikçiliği alanında ustalık belgesine veya bu alanda yeterli mesleki deneyime sahip olmak,",
+   "Usta öğreticilik eğitim programına katılım için istenen genel koşulları taşımak."
+  ],
+  "sure_ve_icerik": "Usta öğreticilik eğitimi; mesleki eğitim teknikleri, öğrenciyle iletişim, ölçme-değerlendirme ve iş sağlığı-güvenliği gibi konuları kapsayan kısa süreli bir pedagojik formasyon programı niteliğindedir. Bu eğitimin yanı sıra kişinin otomotiv elektrikçiliği alanındaki ustalığını çıraklık eğitimi veya uzun süreli mesleki deneyim yoluyla kazanmış olması gerekir.",
+  "belge": "Eğitimi tamamlayanlara \"Usta Öğreticilik Belgesi\" verilir."
+ },
+ "calisma_alanlari": "Usta öğreticiler; mesleki eğitim merkezleri, çıraklık eğitimi merkezleri, halk eğitim merkezleri ve mesleki-teknik eğitim okul ve kurumlarında öğrenci ile çırakların işyerindeki eğitiminden sorumlu olarak çalışabilirler. Ayrıca otomotiv elektrik servisleri ve işletmelerinde, İŞKUR tarafından açılan mesleki eğitim kurslarında eğitici olarak görev alabilirler.",
+ "kazanc": {
+  "egitim_suresince": "Usta öğreticilik eğitimi kısa süreli olduğundan bu dönem için ayrıca bir gelir söz konusu değildir; katılımcılar genellikle otomotiv elektrikçisi olarak çalışmaya devam eder.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarına bağlı mesleki eğitim merkezlerinde görev alan usta öğreticiler, verdikleri ders saati üzerinden ek ders ücreti alır.",
+   "Özel işletmelerde usta öğretici olarak çalışanların ücreti işveren ile yapılan anlaşmaya, deneyime ve işletmenin büyüklüğüne göre değişiklik gösterir.",
+   "Mesleğe yeni başlayanlarda kazanç genellikle asgari ücret düzeyinde olabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Usta öğreticiler, otomotiv elektrik-elektronik sistemlerindeki teknolojik gelişmeleri takip etmek üzere hizmet içi eğitimlere ve mesleki kurslara katılarak bilgi ve becerilerini güncelleyebilirler.",
+  "is_hayatinda": "Deneyim kazandıkça atölye şefliği veya bölüm şefliği gibi görevlere yükselebilir; isterlerse kendi otomotiv elektrik işletmelerini kurarak girişimci olarak çalışabilirler."
+ },
+ "benzer_meslekler": [
+  "Alan Şefi (Mesleki ve Teknik Eğitim)",
+  "Usta Öğretici (İş Makineleri Bakım Onarımcılığı)",
+  "Usta Öğretici (Haberleşme Sistemleri)",
+  "Usta Öğretici (Güvenlik Sistemleri)",
+  "Usta Öğretici (Görüntü ve Ses Sistemleri)"
+ ],
+ "ek_bilgiler": "Otomotiv elektrik-elektronik sistemlerindeki hızlı teknolojik değişim (elektrikli ve hibrit araçlar, elektronik kontrol üniteleri gibi) nedeniyle usta öğreticilerin güncel teknolojileri yakından takip etmesi mesleğin önemli bir gereğidir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T04:13:01",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6066
+  }
+ }
+}

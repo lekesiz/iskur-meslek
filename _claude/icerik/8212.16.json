@@ -1,0 +1,75 @@
+{
+ "arac_gerec": [
+  "Büyüteç ve büyütücü lambalar (lup)",
+  "Punto (nokta) kaynak makinesi",
+  "Havya ve lehim malzemeleri",
+  "Cımbız, pense, tornavida gibi küçük el aletleri",
+  "Kondansatör sarım makinesi/çıkrığı",
+  "Sarım teli (emaye bakır tel) ve yalıtım malzemeleri",
+  "Elektronik tüp (radyo lambası) montaj kalıpları",
+  "Ölçü ve test cihazları (multimetre, voltmetre)",
+  "Montaj tezgahı ve sabitleme aparatları",
+  "Isı ile daralan (shrink) tüp ve bantlar",
+  "Vakum pens ve esd korumalı ekipmanlar",
+  "Mikroskop veya büyütmeli gözlük"
+ ],
+ "genel_ozellikler": [
+  "El becerisi olan,",
+  "El ve gözlerini eşgüdümle, hassas biçimde kullanabilen,",
+  "Dikkatli ve sabırlı,",
+  "Küçük ve ayrıntılı parçalarla çalışmaktan hoşlanan,",
+  "Görme keskinliği iyi olan,",
+  "Düzenli ve titiz çalışabilen,",
+  "Elektronik devre ve bileşenlere ilgi duyan,",
+  "Takım halinde çalışmaya uyumlu"
+ ],
+ "calisma_ortami": "Elektronik Cihazlar Montörleri, genellikle elektronik sanayi işletmelerinin üretim hatlarında, kapalı ve iyi aydınlatılmış atölye ya da fabrika ortamlarında çalışırlar. Çalışma ortamı çoğunlukla temiz olup aşırı gürültü ya da ağır fiziksel güç gerektiren koşullar bulunmaz; ancak uzun süre aynı pozisyonda oturarak veya eğilerek, küçük parçalara yoğunlaşarak çalışmak göz ve bel yorgunluğuna yol açabilir. Lehimleme ve punto kaynağı işlemlerinde ısı, duman ve kimyasal buharlara kısa süreli temas söz konusu olabileceğinden kişisel koruyucu donanım kullanımı önemlidir.\n\nMesleğin icrası sırasında genellikle ekip halinde, üretim bandı düzeninde çalışılır; vardiyalı çalışma düzeni yaygındır. Çalışan, aynı üretim hattındaki diğer montörler, kalite kontrol elemanları ve vardiya/üretim amirleriyle sürekli iş birliği içindedir.",
+ "gorevler": [
+  "İşletmenin genel çalışma prensipleri doğrultusunda, araç, gereç ve ekipmanları etkin bir şekilde kullanarak, iş sağlığı ve güvenliği ile çevre koruma düzenlemelerine ve mesleğin verimlilik ve kalite gerekliliklerine uygun olarak çalışır.",
+  "Kulaklık ve uydu haberleşme cihazları gibi mikro elektronik cihazları, büyüteçler, el aletleri ve punto kaynağı kullanarak monte eder.",
+  "Kondansatörleri sarar ve kondansatörleri monte eder.",
+  "Elektronik tüplerini (radyo lambaları) monte eder.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi için ülkemizde ayrı bir meslek lisesi alanı veya yükseköğretim programı bulunmamaktadır. Meslek, genellikle Elektrik-Elektronik Teknolojisi alanından mezun olanlar tarafından ya da ilgili işyerlerinde işbaşında, usta-çırak ilişkisi içinde öğrenilmekte; ayrıca Halk Eğitim Merkezleri ile İŞKUR tarafından açılan mesleki eğitim kurslarında temel düzeyde elektronik montaj bilgisi kazandırılabilmektedir.",
+  "giris_kosullari": [
+   "İlköğretim mezunu olmak (meslek için gerekli minimum eğitim düzeyi ilköğretimdir).",
+   "İlgili mesleki ve teknik eğitim programlarına (Elektrik-Elektronik Teknolojisi alanı) kayıt için okulun aradığı koşulları taşımak.",
+   "El becerisi gerektiren işlerde çalışmaya uygun sağlık durumuna sahip olmak.",
+   "Kurs programlarına katılım için ilgili kurumun (Halk Eğitim Merkezi, İŞKUR vb.) belirlediği yaş ve kayıt şartlarını sağlamak."
+  ],
+  "sure_ve_icerik": "Meslekle ilgili resmî ve standart bir eğitim programı tanımlı değildir. Mesleki ve teknik eğitim okullarının Elektrik-Elektronik Teknolojisi alanında alınan temel elektronik, devre elemanları, lehim ve montaj bilgisi bu mesleğe hazırlık niteliğindedir. İşe girişte çoğunlukla işyerinde kısa süreli oryantasyon ve işbaşı eğitimiyle, büyüteç/mikroskop altında hassas montaj, lehimleme, punto kaynağı ve kondansatör sarım gibi işlemler uygulamalı olarak öğretilir. Kurs programlarının süresi ve içeriği kurumdan kuruma değişmektedir.",
+  "belge": "Mesleki ve teknik eğitim kurumlarından mezun olanlar diploma alır. Halk Eğitim Merkezi veya İŞKUR kurslarına katılanlara kurs bitirme/katılım belgesi verilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, bazı işverenlerce istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Elektronik Cihazlar Montörleri, başta tüketici elektroniği (kulaklık, ses ve görüntü cihazları) olmak üzere, haberleşme ve uydu sistemleri cihazları, elektronik bileşen (kondansatör, bobin, elektronik tüp) üretimi yapan işletmelerde çalışırlar. Ayrıca elektronik devre kartı ve cihaz montajı yapan fabrika ve atölyelerde, özellikle elektronik sanayinin yoğunlaştığı illerde iş bulma olanakları bulunmaktadır. Sektördeki üretim hacmine ve teknolojik değişime bağlı olarak istihdam talebi dönemsel farklılık gösterebilir.",
+ "kazanc": {
+  "egitim_suresince": "Mesleki ve teknik eğitim kapsamında işletmelerde eğitim gören öğrencilere 3308 sayılı Mesleki Eğitim Kanunu gereğince ilgili yönetmeliklerde belirlenen esaslara göre ücret ödenir; eğitim gören öğrencilerin iş kazası ve meslek hastalığı sigortası devletçe karşılanır. Kurs programlarına katılanlar için ayrıca bir ücret söz konusu değildir; bazı kurslarda katılımcılara kursiyer harçlığı ödenebilir.",
+  "egitim_sonrasi": [
+   "İşe yeni başlayanların kazancı genellikle asgari ücret düzeyindedir.",
+   "Kamu kurumlarında işçi statüsünde istihdam edilenlerin ücreti toplu iş sözleşmesi hükümlerine göre belirlenir.",
+   "Özel sektörde kazanç; işyerinin büyüklüğü, çalışanın tecrübesi, becerisi, çalışma kapasitesi ve sektörün genel ücret düzeyine göre değişebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "İlgili mesleki ve teknik eğitim kurumlarından mezun olanlar, alanının devamı niteliğindeki yükseköğretim (ön lisans/lisans) programlarına sınavla veya ek puan avantajıyla yerleşebilirler. Çeşitli kurs ve sertifika programlarına katılarak mesleki bilgi ve beceriler geliştirilebilir.",
+  "is_hayatinda": "Deneyim kazandıkça usta, ekip lideri veya vardiya sorumlusu gibi görevlere yükselebilirler. İlgili alanda eğitim alarak elektronik teknisyenliği veya elektronik mühendisliği gibi daha üst mesleklere geçiş yapılabilir."
+ },
+ "benzer_meslekler": [
+  "Diğer Elektronik Montörleri",
+  "Montör (Elektronik Cihazlar)",
+  "Elektronik Pano Montajcısı",
+  "Bobinajcı",
+  "LED Aydınlatma Ekipmanları Montajcısı",
+  "Diğer Elektrikli Cihazlar Montörleri"
+ ],
+ "ek_bilgiler": "Mesleğin icrasında hassas ve küçük elektronik parçalarla çalışıldığından, görme keskinliği ve el becerisi önem taşır. Elektronik sektöründeki teknolojik gelişmeler, üretim süreçlerinin otomasyonuyla birleştiğinde meslek elemanlarından temel elektronik ve basit otomasyon sistemlerine aşinalık beklenebilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T17:50:49",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 3729
+  }
+ }
+}

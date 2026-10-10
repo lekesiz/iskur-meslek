@@ -1,0 +1,79 @@
+{
+ "arac_gerec": [
+  "Beton kaplama makinesi (slipform paver)",
+  "Yıldız ve çift ağızlı anahtar, pense, tornavida gibi el aletleri",
+  "Çeşitli yağdanlıklar ve madeni yağlar",
+  "Akaryakıt",
+  "Toz gözlüğü, eldiven, iş elbisesi, çelik burunlu iş ayakkabısı",
+  "Konveyör bant veya besleme şütü",
+  "Su tankı ve su besleme hortumları",
+  "Karıştırma tamburası/kazanı",
+  "Kova",
+  "Üstübü ve temizlik malzemeleri",
+  "Basit ölçü aletleri (mastar, şerit metre)"
+ ],
+ "benzer_meslekler": [
+  "Beton Asfalt Serme (Finişer-Serici) Makinesi Operatörü",
+  "Zift Dökme Makinesi Operatörü",
+  "Asfalt Distribütör Operatörü",
+  "Yüzey (Asfalt-Beton) Kazıma Makinesi Operatörü",
+  "Silindir Operatörü",
+  "Asfalt Plenti Operatörü"
+ ],
+ "calisma_alanlari": "\"Beton Kaplama Makinesi Operatörleri; T.C. Karayolları Genel Müdürlüğü, belediyeler, Devlet Su İşleri gibi kamu kurum ve kuruluşlarında, yol, otoyol, havaalanı pisti, kanal, kaldırım gibi beton kaplama işleri yapan inşaat ve yol yapım firmalarında, beton santralleri ve taahhüt şirketlerinde istihdam edilirler. Yol ve altyapı yatırımlarının sürdüğü dönemlerde bu alanda iş bulma olanakları genellikle olumludur; çalışma, yapım projelerinin yoğunluğuna ve mevsimsel koşullara bağlı olarak değişkenlik gösterebilir.\"",
+ "calisma_ortami": "\"Beton Kaplama Makinesi Operatörü, görevini açık havada ve çoğunlukla yol inşaatı veya tamiratı yapılan şantiye sahalarında, makinenin kumanda bölümünde oturarak veya ayakta durarak yürütür. Çalışma ortamı tozlu, gürültülü olabilir; çimento ve beton tozuna, egzoz gazına, güneş, sıcak veya soğuk hava koşullarına açık biçimde çalışılır. Beton dökümünün gerektirdiği zaman baskısı nedeniyle çalışma saatleri değişken olabilir, hava koşullarına bağlı olarak erken saatlerde veya hafta sonu çalışma gerekebilir.\\n\\nOperatör, çalışması sırasında şantiye şefi, mühendis, diğer makine operatörleri ve işçilerle sürekli koordinasyon içindedir. Dikkatsiz çalışma; makineye, yola veya çevredeki kişilere zarar verebilecek kazalara yol açabileceğinden iş güvenliği kurallarına uyulması önemlidir.\"",
+ "ek_bilgiler": "\"Beton Kaplama Makinesi Operatörü, iş makinesini karayoluna çıkarmadan yalnızca şantiye/işyeri sınırları içinde kullanacaksa operatörlük belgesi yeterli olabilir; makineyi karayolunda sevk etmesi gerekiyorsa ayrıca uygun sürücü belgesine (ehliyete) ihtiyaç duyabilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda tercih sebebi olabilir.\"",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi; iş makineleri operatörlüğü alanında faaliyet gösteren özel kurs firmaları, Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kurslarında, ayrıca işyerlerinde işbaşında usta operatör yanında yetiştirilerek verilmektedir.",
+  "giris_kosullari": [
+   "18 yaşını doldurmuş olmak",
+   "En az ilköğretim mezunu olmak",
+   "Operatörlük yapmasını engelleyecek bir sağlık probleminin bulunmaması",
+   "İlgili kurs yönergelerinde belirtilen şartları taşımak"
+  ],
+  "sure_ve_icerik": "Kurs süresi ve içeriği, eğitimi veren kuruma göre değişmekle birlikte genel olarak iş makinesinin teknik yapısı ve çalışma sistemi, makinenin kullanımı ve ayarları, periyodik bakımı, iş güvenliği, ekonomik ve verimli kullanım konularında teorik ve pratik dersler verilir. Kurs sonrasında belirli bir süre işbaşında usta operatör gözetiminde uygulamalı çalışma yapılarak beceri geliştirilir.",
+  "belge": "Eğitimi başarı ile tamamlayanlara \"Operatör Belgesi\" veya ilgili kurumca düzenlenen sertifika verilir."
+ },
+ "genel_ozellikler": [
+  "Elini, gözünü ve ayağını eşgüdümle kullanabilen,",
+  "Dikkatli ve tedbirli,",
+  "Sorumluluk sahibi,",
+  "Mekaniğe ve makine kullanımına ilgili,",
+  "Çevredeki uyarıcıları aynı anda algılayabilen,",
+  "Açık havada ve zor koşullarda çalışmaya istekli,",
+  "Fiziksel olarak sağlıklı ve dayanıklı,",
+  "Ekip çalışmasına uyumlu"
+ ],
+ "gorevler": [
+  "İşe başlamadan önce makinenin ve çalışma alanının genel kontrolünü yapar.",
+  "Motoru çalıştırır.",
+  "Kaplama makinesini kullanılacağı yere getirir ve karıştırma tamburasını döndürmeye başlar.",
+  "Tavayı indirir ve çimento, kum, çakıl gibi malzemeyi alır.",
+  "Tavayı kaldırır ve malzemeyi karıştırma kazanına boşaltır.",
+  "Karıştırma kazanına belirli miktarda su alır.",
+  "Boşaltma şütünü açarak çimentoyu bir kovaya veya konveyör bandına boşaltır.",
+  "Malzemeyi yol üzerine döker.",
+  "Betonun boşalmasını kolaylaştırmak için makineyi ileri geri yürütür.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Beton Kaplama Makinesi Operatörlüğünde ayrıca yapılandırılmış bir ilerleme basamağı bulunmamaktadır. Operatörler, deneyim kazandıkça diğer hafriyat ve yol yapım makinelerinin kullanımı için ek kurslara katılarak farklı makineler üzerinde de uzmanlaşabilirler.",
+  "is_hayatinda": "Mesleğinde belirli bir süre çalışarak deneyim ve başarı gösteren operatörler, ekip/vardiya sorumlusu, baş operatör veya makine parkı sorumlusu gibi görevlere yükselebilirler. İşletme içinde ustabaşılık gibi unvanlar da elde edilebilir. Çalıştığı işletmenin bünyesinde açılan kurs ve seminerlere katılarak mesleki gelişim sağlanabilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Kurs veya işbaşı eğitimi sırasında genellikle bir kazanç söz konusu değildir; işbaşında usta yanında yetişenler çalıştıkları işyerinin olanaklarına göre bir ücret alabilirler.",
+  "egitim_sonrasi": [
+   "Kamu kurum ve kuruluşlarında çalışanlar, 657 sayılı Devlet Memurları Kanunu'na veya işçi statüsünde ise ilgili toplu iş sözleşmesi hükümlerine göre ücret alırlar.",
+   "Özel sektörde yeni başlayan operatörlerin kazancı genellikle asgari ücret düzeyindedir.",
+   "Deneyim, işletmenin büyüklüğü, sektördeki ücret düzeyi ve çalışılan bölgeye göre kazanç değişebilir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T18:34:35",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 3159
+  }
+ }
+}

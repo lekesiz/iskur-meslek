@@ -1,0 +1,69 @@
+{
+ "gorevler": [
+  "Arıza yapan iş makinesini veya tesisatını sahada muayene eder.",
+  "Hidrolik hortum patlaklarını, motor arızalarını veya şanzıman sorunlarını onarır.",
+  "Palet, kova ve delici uçların aşınma kontrollerini yapar ve aşınan parçaları yeniler.",
+  "Planlı bakım takvimine göre yağlama ve filtre değişimlerini yürütür.",
+  "Onarım sonrası makinenin emniyetli çalışma testlerini gerçekleştirir.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "arac_gerec": [
+  "Hidrolik test ve basınç ölçüm cihazları",
+  "Hidrolik hortum sıkma/pres makinesi",
+  "Kaynak makinesi ve kesme ekipmanları",
+  "El takım çantası (anahtar takımları, pense, tornavida, çekiç)",
+  "Yağlama tabancası ve pompaları",
+  "Filtre sökme-takma anahtarları",
+  "Kaldırma ve taşıma ekipmanları (zincirli caraskal, kriko, vinç)",
+  "Ölçü ve kontrol aletleri (kumpas, mastar, manometre)",
+  "Arıza tespit ve diagnostik cihazları",
+  "Elektrik ve elektronik ölçüm aletleri (multimetre)",
+  "Yedek parça ve sarf malzemeleri",
+  "El arabası, transpalet",
+  "Kişisel koruyucu donanım (baret, iş eldiveni, koruyucu gözlük, iş elbisesi, çelik burunlu ayakkabı)"
+ ],
+ "genel_ozellikler": [
+  "Makine ve mekanik sistemlere ilgili,",
+  "El becerisine sahip,",
+  "Dikkatli ve sorumluluk sahibi,",
+  "Fiziksel olarak güçlü ve dayanıklı,",
+  "Takım halinde çalışmaya istekli,",
+  "Karşılaştığı arızalara pratik çözüm üretebilen,",
+  "Vardiyalı ve zorlu çalışma koşullarına uyumlu,",
+  "İşçi sağlığı ve iş güvenliği kurallarına duyarlı"
+ ],
+ "calisma_ortami": "Maden makineleri bakım ve onarımcısı, yeraltı veya açık ocak maden işletmelerinde, genellikle saha koşullarında çalışır. Çalışma ortamı toz, gürültü, nem, sıcaklık değişimleri ve kısıtlı alanlar gibi fiziksel zorluklar içerebilir; bazı durumlarda yeraltında dar ve karanlık mekânlarda görev yapılması gerekebilir. Bu nedenle meslek, iş sağlığı ve güvenliği açısından riskli (tehlikeli/çok tehlikeli) işler kapsamında değerlendirilir ve kişisel koruyucu donanım kullanımı önem taşır.\n\nÇalışma genellikle vardiya sistemiyle yürütülür; arıza bildirimleri üzerine ani saha müdahaleleri gerekebilir. Meslek sahibi; iş makinesi operatörleri, maden mühendisleri, saha amirleri ve diğer bakım-onarım personeliyle sürekli iletişim halinde çalışır.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin örgün eğitim sisteminde ayrı ve standart bir dalı bulunmamaktadır. Mesleki ve teknik eğitim veren kurumların Makine Teknolojisi/Metal Teknolojisi alanındaki ilgili bölümleri, Halk Eğitim Merkezleri ile İŞKUR'un açtığı mesleki eğitim kursları, bu alanda bilgi ve beceri kazandırabilir. Meslek, büyük ölçüde maden işletmelerinde işbaşında usta yanında yetişme ve işletme içi hizmet içi eğitimler yoluyla edinilmektedir.",
+  "giris_kosullari": [
+   "İlköğretim mezunu olmak (meslek için gereken minimum eğitim düzeyi ilköğretimdir)",
+   "Maden ocağı çalışma koşullarına fiziksel ve sağlık açısından uygun olmak (sağlık raporu ile belgelenebilir)",
+   "Tehlikeli/çok tehlikeli işler kapsamında değerlendirilen maden ocaklarında çalışabilmek için ilgili yaş şartlarını (reşit olmak) karşılamak",
+   "Mekanik/elektromekanik sistemlere ve el işçiliğine ilgi duymak"
+  ],
+  "sure_ve_icerik": "Mesleğe ait resmî, standart süreli bir örgün eğitim programı bulunmamaktadır. Bilgi ve beceriler genellikle işletmede usta yanında uygulamalı olarak, kısa süreli mesleki kurslarla desteklenerek kazanılır. Eğitim sürecinde hidrolik-pnömatik sistemler, iş makinelerinin mekanik aksamları, kaynak ve metal işleme teknikleri, yağlama ve bakım planlaması, arıza tespiti ile iş sağlığı ve güvenliği uygulamaları gibi konular işlenir.",
+  "belge": "Katıldığı kurs veya programlara göre katılım/başarı belgesi alabilir; ilgili meslek lisesi veya meslek yüksekokulu programından mezun olanlar diploma alır. Madencilik sektörünün tehlikeli iş kolu niteliği nedeniyle, bazı işletmelerde Mesleki Yeterlilik Kurumu (MYK) Mesleki Yeterlilik Belgesi istihdamda tercih sebebi olabilir veya işveren tarafından aranabilir."
+ },
+ "calisma_alanlari": "Maden makineleri bakım ve onarımcıları başta kömür, metal ve diğer maden ocakları olmak üzere yeraltı ve açık ocak işletmelerinde istihdam edilir. Ayrıca maden makineleri üreten veya bu makinelere bakım-onarım hizmeti sunan özel firmalarda, maden işletmelerinin kendi bünyesindeki bakım-onarım atölyelerinde de çalışabilirler. İstihdam olanakları, madencilik sektörünün üretim hacmine ve yatırımlarına bağlı olarak değişkenlik gösterir; deneyimli ve sertifikalı personele yönelik talep genellikle süreklidir.",
+ "kazanc": {
+  "egitim_suresince": "İşbaşında eğitim alanlar, çalıştıkları işletmenin ücret politikasına göre genellikle asgari ücret düzeyinde veya yardımcı personel ücreti karşılığında çalışır. Örgün mesleki eğitim kapsamında eğitim görenler için 3308 sayılı Mesleki Eğitim Kanunu hükümleri uygulanabilir.",
+  "egitim_sonrasi": [
+   "Kamuya bağlı maden işletmelerinde işçi statüsünde çalışanların ücreti, ilgili toplu iş sözleşmesi hükümlerine göre belirlenir.",
+   "Özel sektörde ücret; deneyim, çalışılan işletmenin büyüklüğü, çalışma koşulları (yeraltı/açık ocak, vardiya) ve karşılıklı anlaşmaya göre değişir; deneyim arttıkça kazanç genellikle yükselir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "İlgili mesleki ve teknik eğitim kurumlarından (meslek lisesi, meslek yüksekokulu makine/maden teknolojisi programları) diploma alınması, hizmet içi eğitimler ve sertifika programlarıyla mesleki bilgi ve becerilerin geliştirilmesi mümkündür. İsteyen ve koşulları sağlayanlar Makine Mühendisliği veya Maden Mühendisliği gibi ilgili lisans programlarına yönelebilir.",
+  "is_hayatinda": "Deneyim kazandıkça usta, ekip şefi, bakım-onarım şefi veya saha amiri gibi pozisyonlara yükselme imkânı bulunur. Yönetim becerilerini geliştirenler bakım-onarım birimi müdürlüğü gibi üst kademelere ilerleyebilir."
+ },
+ "benzer_meslekler": [],
+ "ek_bilgiler": "Maden ocaklarında yapılan çalışmalar, iş sağlığı ve güvenliği açısından yüksek riskli (çok tehlikeli iş sınıfı) işler arasında yer alır; bu nedenle periyodik sağlık muayeneleri, düzenli iş güvenliği eğitimleri ve kişisel koruyucu donanım kullanımı zorunludur. Yeraltı maden ocaklarında çalışacaklara ilişkin yaş ve sağlık şartları ilgili yasal düzenlemelerle ayrıca belirlenmiştir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T01:42:30",
+  "usage": {
+   "input_tokens": 4,
+   "output_tokens": 10265
+  }
+ }
+}

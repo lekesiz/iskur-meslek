@@ -1,0 +1,85 @@
+{
+ "arac_gerec": [
+  "Bilgisayar ve mobil geliştirme donanımları (dizüstü/masaüstü bilgisayar)",
+  "Akıllı telefon ve tablet gibi test cihazları (iOS/Android)",
+  "Entegre geliştirme ortamları (Android Studio, Xcode, Visual Studio vb.)",
+  "Mobil programlama dilleri ve çerçeveleri (Java, Kotlin, Swift, Objective-C, Dart, React Native, Flutter vb.)",
+  "Versiyon kontrol sistemleri (Git ve benzeri)",
+  "API/web servisi test araçları (Postman ve benzeri)",
+  "Hata ayıklama (debugging) ve test araçları",
+  "Emülatör ve simülatör yazılımları",
+  "Veritabanı yönetim sistemleri",
+  "Proje ve hata takip yazılımları (Jira, Trello vb.)",
+  "Arayüz/kullanıcı deneyimi tasarım dosyaları ve araçları (Figma, Adobe XD vb.)",
+  "Bulut sunucu ve servis altyapıları"
+ ],
+ "benzer_meslekler": [
+  "Uygulama Programcısı",
+  "Oyun Geliştirme Uzmanı",
+  "Dijital Oyun Tasarımcısı",
+  "Web Programcısı",
+  "Yazılım Geliştirme Uzmanı",
+  "Bilgisayar Oyunları Programcısı"
+ ],
+ "calisma_alanlari": "Mobil Yazılım Geliştirme Uzmanları; bilişim ve yazılım şirketleri, mobil uygulama geliştirme ajansları, bankalar ve finans kuruluşları, e-ticaret şirketleri, oyun stüdyoları, perakende ve hizmet sektöründeki kurumsal bilgi işlem birimleri ile kamu kurumlarının bilişim birimlerinde çalışabilirler.\n\nMobil cihaz kullanımının ve mobil uygulama talebinin sürekli artması nedeniyle bu meslekteki kişilerin iş bulma olanakları geniştir. Deneyim ve proje geçmişine bağlı olarak serbest (freelance) çalışma veya kendi uygulama/girişimini geliştirme olanağı da bulunmaktadır.",
+ "calisma_ortami": "Mobil Yazılım Geliştirme Uzmanları genellikle büro ortamında, bilgisayar başında oturarak çalışırlar; proje ve işletmeye göre kısmen veya tamamen uzaktan (evden) çalışma da mümkündür. Çalışma sırasında yazılım geliştiriciler, tasarımcılar, test uzmanları, proje yöneticileri ve kullanıcılarla sürekli iletişim halindedir.\n\nİş, zihinsel yoğunluk gerektirir ve genellikle sakin, sessiz bir ortamda yürütülür. Uzun süre ekran karşısında oturarak çalışma nedeniyle göz ve bel yorgunluğu gibi riskler söz konusu olabilir. Proje teslim tarihlerine bağlı olarak yoğun dönemlerde çalışma saatleri uzayabilir.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi, üniversitelere bağlı meslek yüksekokullarının \"Bilgisayar Programcılığı\", \"Mobil Programcılık\" ve benzeri adlarla açılan önlisans programlarında verilmektedir. Ayrıca \"Bilgisayar Mühendisliği\" veya \"Yazılım Mühendisliği\" gibi lisans programlarını tamamlayarak da bu alanda uzmanlaşmak mümkündür. Temel bilgisayar ve programlama bilgisine sahip kişiler, Halk Eğitim Merkezleri, İŞKUR ve özel eğitim kurumlarının açtığı mobil uygulama geliştirme kurslarıyla da mesleğe yönelebilir.",
+  "giris_kosullari": [
+   "Lise veya dengi okul mezunu olmak",
+   "Önlisans programları için YKS (Yükseköğretim Kurumları Sınavı) sonucuna göre ilgili programa yerleşmek",
+   "Lisans programları için YKS'de yeterli puan ve başarı sırasına sahip olmak",
+   "Kurs programları için ilgili kurumun belirlediği temel bilgisayar/programlama ön koşullarını sağlamak"
+  ],
+  "sure_ve_icerik": "Önlisans eğitimi 2 yıl, lisans eğitimi ise 4 yıldır. Eğitim süresince programlama temelleri, nesne tabanlı programlama, mobil uygulama geliştirme (Android/iOS), veri tabanı yönetimi, web servisleri, kullanıcı arayüzü (UI) ve kullanıcı deneyimi (UX) tasarımı, yazılım test teknikleri gibi mesleki dersler ile genel kültür dersleri okutulur. Kurs programlarının süresi ve içeriği, kursu düzenleyen kuruma göre değişiklik göstermektedir.",
+  "belge": "Önlisans programını başarıyla tamamlayanlara \"ön lisans diploması\", lisans programını tamamlayanlara \"lisans diploması\" verilir. Kurs programlarını tamamlayanlara, kursu düzenleyen kuruma göre katılım veya başarı belgesi verilir."
+ },
+ "ek_bilgiler": "Bu meslekte Mesleki Yeterlilik Kurumu (MYK) belgesi zorunlu değildir; ancak iş başvurularında tercih sebebi olabilir. iOS, Android gibi farklı mobil platformlarda veya oyun geliştirme gibi özel alanlarda uzmanlaşma, istihdam olanaklarını ve kazanç düzeyini olumlu etkileyebilir. Mobil teknolojilerin hızla değiştiği bir alan olduğundan, meslek mensuplarının sürekli kendini yenilemesi ve yeni teknolojileri takip etmesi gerekir.",
+ "genel_ozellikler": [
+  "Mantıksal ve analitik düşünme gücüne sahip",
+  "Matematik ve problem çözmeye ilgili",
+  "Yaratıcı, yenilikçi ve araştırmacı",
+  "Yeni teknolojileri öğrenmeye ve takip etmeye istekli",
+  "Dikkatli, sabırlı ve titiz",
+  "Takım çalışmasına uygun",
+  "İyi derecede İngilizce bilgisine sahip (teknik dokümantasyonu takip edebilecek düzeyde)"
+ ],
+ "gorevler": [
+  "Daha önce oluşturulan iş listesini kontrol eder",
+  "Web servislerini test eder",
+  "Daha önce yazılan kodları kontrol eder, gözden geçirir",
+  "Programda geliştirilecek bir madde varsa üzerinde çalışır",
+  "Programı kullanan kişilere teknik destek sağlar",
+  "Kullanıcıların yaşadığı ve karşılaştığı problemleri kayıt altına alır",
+  "Programı desteklemeyen cihazları raporlar",
+  "Yeni teknolojilerin araştırmasını yapar",
+  "Yeni teknolojilerin kod denemelerini yapar",
+  "Uygulama optimizasyonu yapar",
+  "Kullanıcı ön yüz (arayüz) kodlamasını yapar",
+  "Programın mantık (arka yüz) kodlamasını yapar",
+  "Mobil oyunlardaki mekanikleri kodlar",
+  "Oyunu doğrudan ilgilendiren mekaniklerle ilgili hissiyatın optimizasyonunu yapar",
+  "Oyunla ilgili çıkabilecek kod hatalarını temizler",
+  "Yeni teknolojilerin kod denemelerini yapar",
+  "Mesleki gelişim faaliyetlerinde bulunur"
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Önlisans programını başarıyla tamamlayanlar, Dikey Geçiş Sınavı (DGS) ile ilgili lisans programlarına (Bilgisayar Mühendisliği, Yazılım Mühendisliği vb.) dikey geçiş yapabilirler. Lisans eğitimini tamamlayanlar ise ilgili alanlarda yüksek lisans ve doktora eğitimine devam edebilirler.",
+  "is_hayatinda": "Mesleki bilgi, tecrübe ve proje yönetimi becerisine bağlı olarak kıdemli yazılım geliştirici, takım lideri, proje yöneticisi veya yazılım mimarı gibi üst görevlere yükselme olanağına sahiptir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Önlisans veya lisans öğrencileri Kredi ve Yurtlar Genel Müdürlüğü'nün öğrenim kredisinden ve yurt hizmetlerinden, ayrıca çeşitli resmi ve özel kurum/kuruluşların sağladığı burslardan yararlanabilirler. Kurs programları sırasında genellikle bir kazanç söz konusu değildir; staj veya işbaşı uygulamalarında sınırlı bir ödeme yapılabilir.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında istihdam edilenler, 657 sayılı Devlet Memurları Kanunu'na veya işçi statüsünde çalışıyorsa ilgili toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde yeni başlayanların kazancı genellikle asgari ücret düzeyindedir; çalışılan işletmenin büyüklüğü, kişinin bilgi birikimi, deneyimi, uzmanlaştığı platform (iOS/Android) ve sektörün ücret düzeyine göre bu kazanç artabilir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T05:59:10",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 7367
+  }
+ }
+}

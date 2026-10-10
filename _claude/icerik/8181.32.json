@@ -1,0 +1,85 @@
+{
+ "arac_gerec": [
+  "Seramik karo (preslenmiş, sır kaplanmış, serigraf baskılı)",
+  "Tünel fırın",
+  "Yürütme bantları (aktarma, sırlama, fırın giriş bantları)",
+  "Bekleme/besleme vagonları",
+  "Geri besleme ve stoklama vagonları",
+  "Otomasyon panosu / bilgisayar kontrol sistemi",
+  "Bant fotoselleri ve okuyucu sensörler",
+  "Manuel istifleme vagonu ve raylı taşıma sistemi",
+  "Yağlama ekipmanları ve bakım el aletleri",
+  "Anahtar takımları, tornavida gibi basit tamir gereçleri",
+  "Temizlik malzemeleri",
+  "Isıya dayanıklı eldiven ve koruyucu iş elbisesi",
+  "Koruyucu gözlük ve kulak koruyucu"
+ ],
+ "benzer_meslekler": [
+  "Fırın İşçisi (Çömlek ve Porselen)",
+  "Diğer Cam ve Seramik Fırın İşçileri",
+  "Seramik Pres Makinesi Operatörü (Karo)",
+  "Seramik Sırlama Makinesi Operatörü",
+  "Seramik İmal İşçisi",
+  "Granit Seramik İmal İşçisi"
+ ],
+ "calisma_alanlari": "Seramik fırın işçileri (karo), seramik ve karo üretimi yapan fabrikaların üretim hatlarında, özellikle fırınlama bölümlerinde istihdam edilir. Türkiye'de bu meslek, seramik ve karo üretiminin yoğun olduğu sanayi bölgelerindeki işletmelerde iş bulma olanağı sunar. Sektördeki üretim hacmine, inşaat ve yapı malzemeleri talebine bağlı olarak istihdam olanakları değişkenlik gösterebilir. İşletme büyüklüğüne göre, aynı işçi hem fırın operasyonlarından hem de bakım-kontrol görevlerinden sorumlu olabilir.",
+ "calisma_ortami": "Seramik/karo üretimi yapan fabrikaların üretim atölyelerinde, fırın hatları üzerinde çalışılır. Çalışma ortamında yüksek ısı, gürültü ve toz gibi fiziksel etkenler bulunur; bu nedenle iş sağlığı ve güvenliği kurallarına titizlikle uyulması ve koruyucu ekipman kullanılması gerekir. Görev genellikle ayakta, hareketli biçimde ve bant/fırın hattı etrafında yürütülür.\n\nÜretim süreci genellikle kesintisiz işlediğinden çalışma vardiyalı sistemle (gündüz, gece, hafta sonu dahil) yürütülür. Çalışma sırasında vardiya amiri, usta başı, diğer fırın ve üretim hattı işçileri ile kalite kontrol personeliyle iletişim kurulur; vardiya teslim-devir süreçlerinde bilgi aktarımı önemlidir.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğe özgü, resmi olarak tanımlanmış bağımsız bir örgün eğitim programı bulunmamaktadır. Meslek genellikle seramik/karo üreten işletmelerde işbaşında usta yanında yetişerek kazanılır. Ayrıca Halk Eğitim Merkezleri ile İŞKUR'un açtığı mesleki eğitim kursları ve seramik/cam-seramik teknolojisi alanındaki mesleki ve teknik eğitim kurumlarının ilgili programları da mesleğe hazırlayıcı nitelik taşıyabilir.",
+  "giris_kosullari": [
+   "Mesleğin gerektirdiği minimum eğitim düzeyi ilköğretimdir.",
+   "İşbaşı eğitime kabul için ilgili işletmenin belirlediği koşullar (yaş, sağlık durumu vb.) geçerlidir.",
+   "Halk Eğitim Merkezleri ve İŞKUR kurslarına, kursun özelliğine göre belirlenen asgari eğitim düzeyini tamamlamış kişiler katılabilir.",
+   "18 yaşından küçüklerin çalışma hayatına girişinde ilgili iş kanunu hükümleri ve veli izni şartı aranır."
+  ],
+  "sure_ve_icerik": "Eğitimin süresi ve içeriği, programın açıldığı kuruma göre değişiklik gösterir. İşbaşı eğitimde süre, işletmenin üretim sistemine ve çalışanın öğrenme hızına bağlı olarak değişir; genel olarak fırın ve bant sistemlerinin çalışma mantığı, otomasyon panosu kullanımı, ürün takibi, defolu ürün tespiti, temel bakım-yağlama işlemleri ile iş sağlığı ve güvenliği konularını kapsar. Kurs programlarında ise seramik üretim süreçleri ve temel teknik bilgiler teorik ve uygulamalı olarak verilir.",
+  "belge": "Örgün mesleki eğitim programlarını tamamlayanlara diploma; kurslara katılanlara ise genellikle 'Kurs Bitirme Belgesi' verilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "ek_bilgiler": "Fırınlama işlemi yüksek ısıyla yapıldığından iş güvenliği önlemlerine (koruyucu ekipman kullanımı, yanık ve yaralanma risklerine karşı tedbir) özellikle dikkat edilmesi gerekir. Meslek, belirli sanayi bölgelerinde yoğunlaşmış seramik/karo üretim tesislerinde istihdam olanağı sunar; bu nedenle iş bulma olanakları coğrafi olarak değişkenlik gösterebilir.",
+ "genel_ozellikler": [
+  "Dikkatli ve tedbirli,",
+  "Sorumluluk sahibi,",
+  "Fiziksel olarak dayanıklı,",
+  "El ve göz koordinasyonu gelişmiş,",
+  "Makine ve teknik sistemlere ilgili,",
+  "Takım çalışmasına uyumlu,",
+  "Vardiyalı çalışma düzenine uyumlu,",
+  "Disiplinli ve kurallara bağlı"
+ ],
+ "gorevler": [
+  "Fırını, yürütme bantlarını ve bekleme/besleme vagonlarını günlük kullanıma hazırlar.",
+  "Ürün cinsini otomasyon panosundan seçip onaylayarak makineye tanıtır.",
+  "Aktarma bandı, sırlama bandı ve fırın giriş bandı motor hız ayarlarını yapar.",
+  "Bant fotosellerinin kontrolünü yapar ve ürüne göre okuyucuları ayarlar.",
+  "Geçici karo stoklama ve geri besleme vagonlarının hız ayarlarını yapar.",
+  "Fırın giriş grup sayısını ürüne göre belirler ve bant ayarını yapar.",
+  "Gerektiği durumlarda raylar üzerinden manuel istifleme vagonu beslemesi yapar.",
+  "Fırın girişi bant arızalarını ve fırınlama sorunlarını tespit ederek giderir.",
+  "Üretim duruşlarını tespit ederek nedenleriyle beraber otomasyon panosuna veri girişini yapar.",
+  "Bant üzerinden defolu ürün tespiti yapar, defolu karoları fırına girmeden ayırır.",
+  "Fırının ve bantların temizlik, bakım ve yağlamasını yapar, bakım işlemlerine nezaret eder.",
+  "Fırınlama işlemleri konusunda amirini bilgilendirir.",
+  "Vardiya bilgilerini kaydeder ve görevi bir sonraki vardiya görevlisine devreder.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Meslekte kademeli, resmi bir eğitim ilerleme sistemi bulunmamaktadır. Deneyim kazanan işçiler, işletme içinde düzenlenen ek kurslar veya hizmet içi eğitimlerle otomasyon sistemleri, kalite kontrol ve bakım-onarım konularında bilgi ve becerilerini geliştirebilir.",
+  "is_hayatinda": "Deneyim ve performansa bağlı olarak vardiya sorumlusu, usta başı veya üretim hattı sorumlusu gibi pozisyonlara yükselinebilir. Teknik bilgi ve becerisini geliştiren işçiler fırın bakım-onarımı veya otomasyon sistemleri gibi uzmanlık alanlarına yönelebilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "İşbaşında usta yanında yetişme sürecinde işletmenin uygulamasına göre düşük düzeyde bir ücret söz konusu olabilir. Halk Eğitim Merkezleri veya İŞKUR kurslarında eğitim süresince ayrıca bir kazanç söz konusu değildir.",
+  "egitim_sonrasi": [
+   "Yeni başlayanlar genellikle asgari ücret düzeyinde çalışmaya başlar.",
+   "Deneyim, işletme büyüklüğü ve vardiya uygulamalarına göre ücret zamanla artış gösterebilir.",
+   "Özel sektörde ücret, işveren ile yapılan sözleşmeye ve işletmenin uygulamalarına göre değişir; kamuda bu meslekte istihdam yaygın değildir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T16:49:59",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6391
+  }
+ }
+}

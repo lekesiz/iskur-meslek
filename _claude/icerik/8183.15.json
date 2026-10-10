@@ -1,0 +1,78 @@
+{
+ "gorevler": [
+  "Tank veya depoya malzeme doldurur ve doldurma kılavuzunu kabın boyuna göre ayarlar yahut makineye uygun bir doldurma kılavuzu takar.",
+  "Makineyi çalıştırır ve kabı doldurma kılavuzu altına veya konveyör üzerine koyar.",
+  "Kolu açıp kaba, doluncaya kadar malzeme akıtır veya otomatik doldurma tertibatını gözlemler.",
+  "Doldurma kılavuzlarını gereğine göre ayarlar veya malzeme akışını kolaylaştırmak için bunları dürter veya sallar.",
+  "Malzeme tıkanıklığını gidermek için makineyi durdurur ve kırık, yırtık, özürlü veya iyi dolmamış kapları çekip çıkarır.",
+  "Makineyi temizler, yağlar ve ufak tamirler yapar.",
+  "Makinenin doğru bir şekilde çalışıp çalışmadığını kontrol etmek için doldurulmuş kapları tartar.",
+  "Tıpalama ve mühürleme mekanizması bulunan bir makineyi çalıştırır.",
+  "Doldurulan kapların kaydını tutar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "arac_gerec": [
+  "Kap doldurma makinesi",
+  "Konveyör bant",
+  "Doldurma kılavuzu/nozul",
+  "Tartı/terazi",
+  "Doldurulacak kaplar (şişe, teneke kutu, karton, tüp, çuval, torba)",
+  "Tıpalama ve mühürleme mekanizması",
+  "Yağdanlık",
+  "Temizlik malzemeleri",
+  "Tornavida ve çeşitli el aletleri",
+  "Anahtar takımları",
+  "Kayıt defteri veya bilgisayar",
+  "Kişisel koruyucu donanım (eldiven, gözlük, kulaklık, maske)"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli,",
+  "Sorumluluk sahibi,",
+  "El ve göz koordinasyonu gelişmiş,",
+  "Makine ve teknik aletlere ilgili,",
+  "Takım çalışmasına yatkın,",
+  "Fiziksel olarak dayanıklı,",
+  "Düzenli ve disiplinli,",
+  "Tekrarlayan işlerde sabırlı"
+ ],
+ "calisma_ortami": "Kap doldurma makinesi operatörü, genellikle fabrika ve üretim tesislerinin kapalı atölye ortamlarında, ayakta ve hareketli biçimde çalışır. Çalışma ortamı makine sesine bağlı olarak gürültülü olabilir; faaliyet gösterilen sektöre göre (gıda, kimya, kozmetik vb.) tozlu, nemli veya kimyasal kokulu ortamlarda bulunabilir ve bu nedenle kişisel koruyucu donanım kullanımı gerekebilir. Üretim temposuna bağlı olarak vardiyalı çalışma düzeni yaygındır.\n\nÇalışma sırasında üretim hattındaki diğer işçiler, vardiya amiri, bakım teknisyenleri ve kalite kontrol personeli ile sürekli iletişim halindedir. İşin niteliği gereği dikkatin sürekli yüksek tutulması, tekrarlayan hareketlerin yapılması ve zaman zaman kap/kutuların elle taşınması söz konusu olabilir.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin yaygın biçimde tanımlanmış, örgün bir okul programı bulunmamaktadır; meslek genellikle işe girildikten sonra işletme içinde usta yanında uygulamalı olarak öğrenilir. Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kurslarında temel makine kullanımı ve iş güvenliği becerileri kazandırılabilir. Ayrıca ortaöğretim düzeyinde gıda teknolojisi, kimya teknolojisi veya üretim/paketleme ile ilgili mesleki ve teknik eğitim programları da bu mesleğe dolaylı olarak hazırlık sağlayabilir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "18 yaşını doldurmuş olmak (işin niteliğine göre bazı işletmelerde yaş şartı aranabilir)",
+   "Sağlık durumunun işin gerektirdiği fiziksel koşullara (ayakta çalışma, tekrarlayan hareketler) uygun olması"
+  ],
+  "sure_ve_icerik": "Meslek genellikle resmi bir örgün eğitim programına değil, işe alındıktan sonra işletme içinde usta yanında verilen uygulamalı eğitime dayanır. İşletmeler, kullandıkları dolum makinesinin markasına ve özelliklerine göre kısa süreli (birkaç gün ile birkaç hafta arası) uyum/oryantasyon eğitimi verir. Bu eğitimde makinenin çalışma prensibi, ayar ve kalibrasyon işlemleri, iş sağlığı ve güvenliği kuralları, sektöre göre hijyen kuralları ve basit bakım-onarım konuları işlenir.",
+  "belge": "Resmi bir diploma veya sertifika zorunluluğu bulunmamaktadır; katılınan kurslardan \"Kurs Bitirme Belgesi\" veya işletme içi eğitimlerden katılım belgesi alınabilir. Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Gıda, içecek, kozmetik, kimya, ilaç, deterjan, yem ve benzeri sıvı, toz veya katı ürün üreten fabrikalarda; ambalaj ve paketleme tesislerinde istihdam edilir. Üretim ve paketleme sektörünün yaygınlığı nedeniyle iş bulma olanakları genellikle geniştir; özellikle büyük şehirlerdeki organize sanayi bölgelerinde ve üretim tesislerinin yoğun olduğu bölgelerde talep daha fazladır.",
+ "kazanc": {
+  "egitim_suresince": "Meslek bağımsız bir eğitim dönemine değil işe başlamayla birlikte verilen uyum eğitimine dayandığından, bu süreçte genellikle çalışan işçi statüsünde ücret alınmaya başlanır.",
+  "egitim_sonrasi": [
+   "Özel sektörde çalışanlar işçi statüsünde olup ücretleri işçi-işveren arasındaki anlaşmaya, işyerinin büyüklüğüne ve deneyime göre değişir; yeni başlayanlar genellikle asgari ücret düzeyinde çalışmaya başlar.",
+   "Kamuya bağlı üretim tesislerinde işçi statüsünde çalışanların ücreti toplu iş sözleşmesi hükümlerine göre belirlenir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Meslekte örgün bir ilerleme basamağı bulunmamaktadır. Deneyim kazandıkça farklı makine tiplerinde (otomatik veya yarı otomatik dolum hatları) çalışabilme yetkinliği artar; isteyenler iş sağlığı ve güvenliği, kalite kontrol veya bakım-onarım alanlarında ek kurslara katılarak bilgi ve becerisini geliştirebilir.",
+  "is_hayatinda": "Deneyim ve performansına göre operatörler vardiya amirliği, hat sorumluluğu veya bakım teknisyenliği gibi görevlere yükselebilir; büyük işletmelerde üretim şefliğine kadar ilerleme imkânı bulunabilir."
+ },
+ "benzer_meslekler": [
+  "Ürün Dolum Makinesi Operatörü (Kozmetik)",
+  "Dolum Tesisi Makinesi-Aseptik Operatörü-İçecek",
+  "Yağ Dolum Makinesi Operatörü",
+  "Sıvı Dolum Makinesi Operatörü",
+  "Su Şişeleme Makinesi Operatörü",
+  "Kutu Bira Dolum Makinesi Operatörü"
+ ],
+ "ek_bilgiler": "Faaliyet gösterilen sektöre (gıda, kozmetik, kimya vb.) göre hijyen ve iş güvenliği uygulamaları farklılık gösterebilir; gıda ile temas eden ürünlerin dolumunda çalışanlardan hijyen eğitimi belgesi istenebilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T17:14:37",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6251
+  }
+ }
+}

@@ -1,0 +1,91 @@
+{
+ "arac_gerec": [
+  "İtfaiye hizmet araçları (oto, pikap, arazöz, şnorkel, merdiven, köpük kulesi, kurtarma aracı, personel taşıyıcı vb.)",
+  "Motopomp ve su/köpük sistemleri",
+  "Yangın söndürme hortumları ve lansları",
+  "Hidrant anahtarları ve su alma ekipmanları",
+  "Projektör ve sahne aydınlatma ekipmanları",
+  "Telsiz, telefon ve anons/haberleşme cihazları",
+  "Kişisel koruyucu teçhizat (yangına dayanıklı kıyafet, kask, bot, eldiven)",
+  "Temiz hava solunum cihazı",
+  "İlk yardım malzemeleri",
+  "Kurtarma ekipmanları (hidrolik makas, germe-kesme aletleri, halat vb.)",
+  "Ağır vasıta (E sınıfı) sürücü belgesi",
+  "Araç bakım ve basit tamir takımları"
+ ],
+ "genel_ozellikler": [
+  "Fiziksel olarak güçlü ve dayanıklı,",
+  "Soğukkanlı, stres altında hızlı ve doğru karar verebilen,",
+  "Sorumluluk sahibi ve dikkatli,",
+  "Takım çalışmasına yatkın, iletişimi güçlü,",
+  "Ağır vasıta kullanma becerisi yüksek, trafik kurallarına hâkim,",
+  "Fiziksel ve zihinsel olarak sağlıklı, bedensel engeli bulunmayan,",
+  "Acil ve tehlikeli durumlarda itaatkâr, disiplinli ve emir-komuta zincirine uyumlu"
+ ],
+ "gorevler": [
+  "İtfaiye araçlarının periyodik bakımlarını yaptırarak her an göreve hazır bulundurulmasını sağlar.",
+  "İtfaiye araçlarının düzenli olarak temizliğinin yapılmasını sağlar.",
+  "Sorumlu olduğu araçlarda kişisel teçhizatını hazır bulundurur.",
+  "Şoförlerin görevlendirilmesini planlar ve bu planın uygulanmasını sağlar.",
+  "Göreve gidecek araçlara şoför görevlendirir.",
+  "Zil, telefon, telsiz, anons vb. araçlarla yapılan görev bildirimlerinde belirlenen sürede ve süratle araç mahalline intikal ederek aracın hareket etmesini sağlar, gerektiğinde araçları kullanır.",
+  "İtfaiye aracını, geçiş üstünlüğünü trafiği tehlikeye sokmadan, trafik ve yol durumuna göre tepe lambaları ve sirenler gibi duyulur ve görünür ikaz işaretlerini kullanarak güvenli bir şekilde olay yerine ulaştırır.",
+  "Olay yerine ulaşılınca araçların yerleşimini ve şoförler arasındaki koordinasyonu sağlar.",
+  "Olay yerinde projektörleri çalıştırarak olay mahallinin aydınlatılmasını sağlar.",
+  "İtfaiye araçlarına su takviyesinin doğru ve hızlı bir şekilde yapılmasını sağlar.",
+  "İtfaiye araçlarının motopompunu çalıştırarak su ve köpüğü kullanıma hazır hale getirir, gerektiğinde bu işlemleri bizzat yapar.",
+  "İtfaiye araçlarındaki donanımların, araç-gereç ve ekipmanların uygun kullanımını sağlar ve bunları denetler.",
+  "İtfaiye hizmeti faaliyetlerinde ekip çalışmalarına katılır.",
+  "Yangından korunma ve yangınla mücadele kurallarını uygular ve uygulanmasını sağlar.",
+  "Gerektiğinde temiz hava solunum cihazını kullanır.",
+  "Gerektiğinde ilk yardım malzemelerini doğru şekilde kullanır.",
+  "Dönüş hazırlıkları aşamasında sorumlu olunan malzemelerin toplanmasını sağlar.",
+  "Olay yerinden dönüşte araçlardaki eksikliklerin giderilerek tekrar göreve hazır hale getirilmesini sağlar.",
+  "Araçların yakıt ikmalini düzenli olarak yaptırır, zamanı geldiğinde yağ değişimini yaptırır.",
+  "İtfaiye araçlarının arızalanması durumunda arızaların giderilmesini sağlar.",
+  "Mesleğiyle ilgili hizmet içi eğitim, seminer vb. faaliyetlere katılır.",
+  "Mesleği alanındaki gelişmeleri takip eder, uygular ve uygulanmasını sağlar."
+ ],
+ "calisma_ortami": "\"İtfaiye Başşoförü, görevde olmadığı zamanlarda itfaiye istasyonunda, olay anında ise yangın, trafik kazası, doğal afet gibi çeşitli olay mahallerinde (açık ve kapalı alanlarda) çalışır. Görev sırasında sıcak, soğuk, dumanlı, gürültülü ve tehlikeli ortamlarda bulunabilir; is, duman, yüksek ısı, kimyasal madde ve enkaz gibi risklerle karşılaşabilir. Çalışma 24 saat esasına dayalı vardiya ve nöbet sistemiyle yürütülür; gece, hafta sonu ve resmî tatil günlerinde çalışma söz konusudur.\\n\\nMeslektaşları olan itfaiye erleri ve şoförlerle, amirleriyle ve olay yerinde sağlık, emniyet, AFAD gibi diğer kurum görevlileriyle yoğun biçimde iletişim halindedir. İş, hem araç kullanımını hem de ekip koordinasyonunu kapsadığından fiziksel ve zihinsel olarak yorucu olabilir, ani ve stresli durumlara hızlı tepki verilmesini gerektirir.\"",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin resmi olarak tanımlanmış ayrı bir örgün eğitim programı veya okulu bulunmamaktadır. İtfaiye Başşoförlüğüne, büyükşehir ve il/ilçe belediyelerinin itfaiye daire başkanlıkları/müdürlükleri bünyesinde itfaiye eri veya şoför olarak göreve başlayıp, kurum içi hizmet içi eğitim, usta-şoför nezaretinde uygulamalı çalışma ve deneyim kazanarak ulaşılır.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "Belediyelerin/itfaiye teşkilatlarının açtığı itfaiye eri veya şoförlük alım sınavlarını kazanmak",
+   "Ağır vasıta sürücü belgesine (E sınıfı ehliyet) sahip olmak",
+   "Kurumun aradığı sağlık, bedensel ve fiziki yeterlilik şartlarını karşılamak",
+   "Kurumların belirlediği yaş sınırları içinde olmak"
+  ],
+  "sure_ve_icerik": "Standart süreli, resmi bir örgün eğitim programı yoktur. İtfaiye eri/şoför olarak göreve başlayanlar; yangın söndürme teknikleri, itfaiye araç ve donanımlarının kullanımı, motopomp işletimi, kurtarma teknikleri, ilk yardım, iş sağlığı ve güvenliği gibi konularda kurum içi hizmet içi eğitimler alır. Deneyim kazanılması, performans ve kurumun belirlediği kriterlerin (hizmet süresi, sınav, kurum içi değerlendirme vb.) karşılanmasıyla başşoförlük görevine atanır. Ayrıca Halk Eğitim Merkezleri ve İŞKUR'un açtığı ağır vasıta sürücülüğü, ilk yardım ve iş güvenliği kurslarından da yararlanılabilir.",
+  "belge": "Kurumlarca düzenlenen hizmet içi eğitim/kurs bitirme belgeleri, ağır vasıta (E sınıfı) sürücü belgesi ve ilk yardım sertifikası sahip olunması beklenen belgelerdir. Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "\"İtfaiye Başşoförleri başlıca büyükşehir belediyeleri ile il ve ilçe belediyelerinin itfaiye daire başkanlıkları/müdürlüklerinde istihdam edilir. Bunun yanında organize sanayi bölgelerindeki büyük fabrikaların kurum içi itfaiye/yangın söndürme birimlerinde, havalimanlarının sivil havacılık itfaiye birimlerinde ve orman yangınlarıyla mücadele eden kamu kuruluşlarında da görev alabilirler. Meslek büyük ölçüde kamu sektöründe (belediyeler ve kamu kurumları) icra edilmektedir.\"",
+ "kazanc": {
+  "egitim_suresince": "Mesleğe özgü ayrı bir eğitim dönemi ücreti bulunmamaktadır. Kişi, itfaiye eri veya şoför olarak kurumda çalışırken maaş/ücret almaya devam eder; deneyim kazanarak ve kurum içi değerlendirmelerle zamanla başşoförlük görevine yükselir.",
+  "egitim_sonrasi": [
+   "Belediyelerde memur statüsünde çalışanlar 657 sayılı Devlet Memurları Kanunu'na tabi olarak maaş ve ek ödemeler (fazla mesai, risk/nöbet tazminatı vb.) alır.",
+   "İşçi statüsünde çalışanlar, kurumun tabi olduğu toplu iş sözleşmesi hükümlerine göre ücretlendirilir.",
+   "Özel sektörde (fabrika, OSB, havalimanı itfaiyesi vb.) ücret, işletmenin büyüklüğüne, sektöre ve kişinin deneyimine göre değişir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Kurum içi hizmet içi eğitimlerle yangın söndürme ve kurtarma teknikleri, araç ve donanım kullanımı, ilk yardım ve iş sağlığı-güvenliği konularında bilgi ve becerisini geliştirebilir; ayrıca ileri sürücülük ve özel ekipman kullanım kurslarına katılabilir.",
+  "is_hayatinda": "İtfaiye eri veya şoför olarak göreve başlayan kişi, deneyim kazanarak ve kurum içi sınav/değerlendirmelerle başşoför, çavuş, amir, istasyon şefi gibi kademelerde ilerleyebilir; idari ve yönetsel kademelerde itfaiye müdürlüğüne kadar yükselme imkânı bulunabilir."
+ },
+ "benzer_meslekler": [
+  "İtfaiye Aracı Operatörü",
+  "Arazöz Şoförü",
+  "Kamyon Şoförü",
+  "Şoför-Yük Taşıma",
+  "Tır-Çekici Şoförü"
+ ],
+ "ek_bilgiler": "\"Bu meslek, yangın ve afetlere müdahale gerektirdiğinden tehlikeli/çok tehlikeli işler kapsamında değerlendirilebilir; bu nedenle kurumlar bünyesinde düzenli sağlık muayeneleri ve fiziki yeterlilik testleri uygulanabilir. İş, yoğun fiziksel efor ve risk içerdiğinden adayların iyi bir fiziksel kondisyona sahip olması beklenir.\"",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T18:24:59",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 8551
+  }
+ }
+}

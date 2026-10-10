@@ -1,0 +1,70 @@
+{
+ "arac_gerec": [
+  "Bilgisayar",
+  "Tasarım ve prototipleme yazılımları (örneğin Figma, Adobe XD, Sketch)",
+  "Çizim tableti",
+  "Kullanılabilirlik testi ve ekran kayıt yazılımları",
+  "Göz izleme (eye-tracking) sistemleri (varsa)",
+  "Anket ve veri analizi araçları",
+  "Proje ve iş akışı yönetim yazılımları",
+  "Sunum ekipmanları (projeksiyon, ekran vb.)",
+  "Not defteri, kalem ve kartlar (kullanıcı testleri/atölye çalışmaları için)",
+  "İnternet bağlantısı ve iletişim/toplantı araçları"
+ ],
+ "genel_ozellikler": [
+  "Analitik düşünme yeteneğine sahip,",
+  "Yaratıcı ve yenilikçi,",
+  "Görsel tasarıma ilgili ve estetik anlayışa sahip,",
+  "İletişim becerisi yüksek ve empati kurabilen,",
+  "Detaylara dikkat eden,",
+  "Ekip çalışmasına uyumlu,",
+  "Problem çözme becerisine sahip,",
+  "Değişen teknolojiye ayak uydurabilen"
+ ],
+ "calisma_ortami": "Kullanıcı Deneyimi Uzmanı genellikle büro ortamında, bilgisayar başında oturarak çalışır. Çalışma süresince yazılım geliştiriciler, ürün yöneticileri, grafik tasarımcılar ve pazarlama ekipleriyle sürekli etkileşim halindedir. Kullanılabilirlik testleri ve kullanıcı araştırmaları kapsamında zaman zaman kullanıcılarla yüz yüze veya çevrimiçi görüşmeler yapar.\n\nÇalışma saatleri genellikle düzenlidir; ancak proje teslim tarihlerine bağlı olarak yoğun dönemlerde ekstra çalışma gerekebilir. İşin niteliği, büro dışında ağır fiziksel risk taşımaz; büyük ölçüde ekran başında çalışmaya bağlı göz ve duruş yorgunluğu söz konusu olabilir. İşletmenin yapısına göre kısmen veya tamamen uzaktan (evden) çalışma imkânı da bulunabilir.",
+ "calisma_alanlari": "Kullanıcı Deneyimi Uzmanları; yazılım ve bilişim şirketlerinde, e-ticaret firmalarında, bankacılık ve finans kuruluşlarında, telekomünikasyon şirketlerinde, dijital ajanslarda, kamu kurumlarının bilişim birimlerinde ve mobil/web uygulaması geliştiren her türlü işletmede görev alabilirler. Dijitalleşmenin ve kullanıcı odaklı tasarım yaklaşımının yaygınlaşmasıyla bu alandaki iş olanakları hızla büyümektedir; deneyim kazananlar için bağımsız (freelance) çalışma imkânı da bulunmaktadır.",
+ "kazanc": {
+  "egitim_suresince": "Üniversitede ilgili bölümlerde okuyan öğrenciler Kredi ve Yurtlar Kurumunun öğrenim kredisi ve yurt hizmetlerinden, bazı kurum ve kuruluşların sağladığı burslardan yararlanabilir. Sertifika ve kurs programlarına katılanlar genellikle çalışma hayatı içindeyken bu eğitimleri alırlar.",
+  "egitim_sonrasi": [
+   "Yeni başlayanlarda kazanç genellikle asgari ücret düzeyinde olabilir.",
+   "Deneyim, bilgi, yetenek ve çalışılan işyerinin büyüklüğüne göre kazanç artabilir.",
+   "Özel sektörde ücret, karşılıklı anlaşmaya, işletmenin büyüklüğüne ve sektöre göre değişmektedir.",
+   "Kamu kurumlarının bilişim birimlerinde istihdam edilenler 657 sayılı Devlet Memurları Kanunu'na göre ücret alır."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "İlgili ön lisans programını tamamlayanlar, Dikey Geçiş Sınavı (DGS) ile lisans programlarına geçiş yapabilirler. Alanında uzmanlaşmak isteyenler ileri düzey sertifika programları ve kurslara katılarak bilgi ve becerilerini geliştirebilirler.",
+  "is_hayatinda": "Deneyim kazandıkça kıdemli (senior) Kullanıcı Deneyimi Uzmanlığı, UX/UI ekip liderliği veya Ürün Yöneticiliği gibi pozisyonlara yükselebilirler. İşletmenin yapısına ve büyüklüğüne göre müdürlük veya danışmanlık düzeyine kadar ilerleme olanağı bulunmaktadır."
+ },
+ "benzer_meslekler": [
+  "Ürün Uzmanı",
+  "Elektronik Ticaret ve Yönetimi Uzmanı"
+ ],
+ "ek_bilgiler": "Kullanıcı Deneyimi Uzmanlığı, dijitalleşme ve kullanıcı odaklı tasarım yaklaşımlarının yaygınlaşmasıyla ülkemizde ve dünyada hızla gelişen bir meslek alanıdır. Doğrudan bu adla resmî bir lisans veya ön lisans programı yaygın olarak bulunmamaktadır; alanda çalışanlar genellikle tasarım, bilişim, mühendislik veya psikoloji gibi ilgili bölümlerden mezun olup sertifika programları ve kurslarla uzmanlaşmaktadır. Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir.",
+ "gorevler": [
+  "Kullanıcı araştırmaları, anketler ve rakip analizleri yapar",
+  "Kullanıcı yolculuğu haritaları (customer journey) ve akış şemaları tasarlar",
+  "Ürün arayüzleri için tel kafes (wireframe) ve prototipler oluşturur",
+  "Kullanılabilirlik testleri yaparak tasarımın etkinliğini ölçer",
+  "Tasarımın yazılım ekibi tarafından doğru uygulanmasını denetler",
+  "Mesleki gelişim faaliyetlerinde bulunur"
+ ],
+ "egitim": {
+  "verildigi_yerler": "Doğrudan \"Kullanıcı Deneyimi Uzmanlığı\" adıyla resmî bir lisans veya ön lisans programı yaygın değildir. Üniversitelerin \"Grafik Tasarım\", \"Görsel İletişim Tasarımı\", \"Bilgisayar Mühendisliği/Programcılığı\", \"Endüstri Mühendisliği\" ve \"Psikoloji\" gibi ilgili lisans ve ön lisans programları temel bilgi sağlar. Ayrıca üniversiteler, özel eğitim kurumları ve çevrimiçi platformlar tarafından düzenlenen kullanıcı deneyimi/kullanılabilirlik sertifika programları ve kurslar bulunmaktadır.",
+  "giris_kosullari": [
+   "Lise veya dengi okul mezunu olmak",
+   "İlgili ön lisans/lisans programları için YKS (Yüksek Öğretim Kurumları Sınavı) kılavuzunda belirtilen puan ve kontenjan koşullarını taşımak",
+   "Sertifika ve kurs programları için genellikle temel bilgisayar kullanımı ve tasarıma ilgi yeterli görülmektedir"
+  ],
+  "sure_ve_icerik": "Üniversite düzeyinde ilgili bölümlerde eğitim süresi ön lisansta 2, lisansta 4 yıldır; bu programlarda tasarım, bilişim, psikoloji ve işletme ile ilgili temel dersler okutulur. Bunun yanında kullanıcı deneyimi tasarımı, kullanılabilirlik testleri, etkileşim tasarımı ve prototipleme konularında kısa süreli sertifika programları ve çevrimiçi kurslar da verilmektedir.",
+  "belge": "İlgili lisans veya ön lisans programını tamamlayanlara diploma; sertifika ve kurs programlarını tamamlayanlara ise kurum onaylı sertifika veya katılım belgesi verilir."
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T12:52:30",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6814
+  }
+ }
+}

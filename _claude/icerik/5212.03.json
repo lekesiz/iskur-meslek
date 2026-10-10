@@ -1,0 +1,71 @@
+{
+ "gorevler": [
+  "Satacağı gıda maddesini toptancıdan veya halden satın alır.",
+  "Satın aldığı gıda maddesini pişirir.",
+  "Pişirdiği gıda maddelerini belirli bir yerde veya gezici olarak bir tabla üzerinde satar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "arac_gerec": [
+  "Tabla veya seyyar satış tezgahı",
+  "Ocak, mangal veya gazlı pişirme düzeneği",
+  "Tüp/gaz",
+  "Tava, tencere, kepçe, maşa gibi pişirme gereçleri",
+  "Bıçak ve kesme tahtası",
+  "Servis için peçete, naylon poşet, kağıt kap/tabak",
+  "Para çantası veya kasa kutusu",
+  "El arabası veya tekerlekli tezgah",
+  "Güneşlik, şemsiye veya tente",
+  "Temizlik ve hijyen malzemeleri (dezenfektan, eldiven, önlük)",
+  "Terazi (gramaj ile satılan ürünler için)",
+  "Soğutucu kutu veya ısı koruyucu kap"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli,",
+  "Temizlik ve hijyen kurallarına özen gösteren,",
+  "Fiziksel olarak dayanıklı,",
+  "İnsan ilişkilerinde başarılı ve güler yüzlü,",
+  "Dürüst ve sorumluluk sahibi,",
+  "Hızlı ve pratik iş yapabilen,",
+  "Basit hesap işlemlerini yapabilen,",
+  "Değişen hava koşullarına uyum sağlayabilen"
+ ],
+ "calisma_ortami": "Bu meslek mensupları açık havada, sokak, cadde, pazar yeri, park, sahil, okul veya işyeri çevreleri gibi insan yoğunluğunun olduğu alanlarda sabit bir yerde veya gezici olarak çalışırlar. Çalışma ortamı mevsim ve hava koşullarına (sıcak, soğuk, yağmur, rüzgâr) açıktır; genellikle ayakta ve bazen uzun süre yürüyerek çalışmayı gerektirir. Ocak, tüp veya sıcak yağ gibi pişirme araçlarının kullanımı nedeniyle yanma, kesilme gibi riskler bulunur, bu yüzden iş güvenliği ve gıda hijyeni kurallarına dikkat edilmesi gerekir.\n\nÇalışma saatleri düzensiz olup müşteri yoğunluğuna göre sabah erken veya gece geç saatlere kadar, hafta sonları dahil uzayabilir. Meslek mensupları çoğunlukla bağımsız/kendi hesabına çalışır; doğrudan müşterilerle ve zaman zaman esnaf, belediye görevlileri veya tedarikçilerle iletişim halindedir.",
+ "egitim": {
+  "verildigi_yerler": "Bu meslek için örgün eğitim kurumlarında ayrı bir program bulunmamaktadır. Mesleğin bilgi ve becerileri genellikle işbaşında, usta yanında veya ailede çalışarak kazanılır. Halk Eğitim Merkezleri ile İŞKUR tarafından açılan gıda hijyeni, yiyecek hazırlama/pişirme ve küçük işletmecilik konulu kısa süreli kurslar bu mesleğe yönelik temel bilgi kazandırabilir.",
+  "giris_kosullari": [
+   "Mesleğin gerektirdiği minimum eğitim düzeyi okuryazar olmaktır; özel bir eğitim şartı aranmaz.",
+   "Belediyeden seyyar satıcılık/işyeri açma izni veya ruhsat alınması gerekir.",
+   "Gıda ile ilgili çalışıldığından gıda hijyeni ve güvenliği konusunda temel bilgi sahibi olmak önemlidir."
+  ],
+  "sure_ve_icerik": "Mesleğin resmi olarak tanımlanmış bir eğitim süresi ve müfredatı yoktur. Bilgi ve beceriler usta-çırak ilişkisi içinde veya işi yaparak öğrenilir. Katılım sağlanabilecek kısa süreli kurslarda genellikle gıda güvenliği ve hijyen kuralları, basit pişirme teknikleri, malzeme/stok yönetimi ve müşteri ilişkileri konuları işlenir.",
+  "belge": "Örgün bir eğitim sonunda verilen diploma veya sertifika bulunmamaktadır. Katılınan kurslar sonunda kurs bitirme belgesi veya gıda hijyeni eğitimi sertifikası alınabilir. Faaliyete başlamak için ilgili belediyeden alınan seyyar satıcılık/işyeri izin belgesi gereklidir."
+ },
+ "calisma_alanlari": "Bu meslek mensupları genellikle bağımsız/kendi hesabına çalışan esnaftır; kurumsal bir işletmeye bağlı olmadan sokak, cadde, pazar yeri, okul ve işyeri çevreleri, park, sahil gibi insan yoğunluğunun bulunduğu açık alanlarda sabit veya gezici olarak faaliyet gösterirler. Mısır, kestane, simit, kokoreç, balık-ekmek gibi pişirilerek satılan gıda ürünlerini hazırlayıp sunarlar.\n\nİşe başlamak için gereken sermaye (tabla, ocak, malzeme) nispeten düşüktür, bu nedenle meslek kendi işini kurmaya uygundur. Büyükşehirlerde, turistik bölgelerde ve insan yoğunluğunun fazla olduğu yerlerde talep ve iş bulma olanağı daha fazladır. Çalışma koşulları mevsime, bölgeye ve belediyelerin ruhsat/denetim uygulamalarına göre değişkenlik gösterebilir.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğin örgün bir eğitim süreci bulunmadığından eğitim süresince düzenli bir ücretten söz edilemez; bilgi ve beceriler genellikle çalışarak, işbaşında kazanılır.",
+  "egitim_sonrasi": [
+   "Bağımsız/kendi hesabına çalışıldığından kazanç; satılan ürünün türüne, satış yapılan bölgeye, çalışma saatlerine ve müşteri yoğunluğuna göre değişir.",
+   "Sabit bir ücret yerine günlük veya haftalık satış hasılatına bağlı bir kazanç söz konusudur.",
+   "Yeni başlayanlarda kazanç genellikle düşük ve düzensizdir; deneyim, sabit müşteri kitlesi ve işin büyütülmesiyle kazanç artabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Bu meslekte örgün bir eğitim kademesi ve buna bağlı resmi bir ilerleme sistemi bulunmamaktadır. İlgi duyan kişiler gıda hijyeni, pişirme teknikleri ve küçük işletmecilik/girişimcilik konularında kurslara katılarak bilgi ve becerilerini geliştirebilir.",
+  "is_hayatinda": "Deneyim ve sermaye biriktikçe sabit bir büfe, tezgah veya küçük bir satış yeri açabilir, ürün çeşidini artırabilir. İleri aşamada kendi işyerini (büfe, küçük lokanta vb.) kurarak işletmesini büyütebilir."
+ },
+ "benzer_meslekler": [
+  "Sokak Satıcısı / İşportacı (Gıda)",
+  "Sütçü-Seyyar Süt Satıcısı",
+  "Büfeci",
+  "Pazarcı"
+ ],
+ "ek_bilgiler": "Bu meslek gıda ile ilgili olduğundan belediyelerin seyyar satıcılık ve gıda satışına ilişkin ruhsat/izin uygulamalarına tabidir; gıda hijyeni ve güvenliği kurallarına uyulması önem taşır. Mesleki Yeterlilik Kurumu (MYK) belgesi bu meslek için zorunlu değildir, ancak gıda güvenliği sertifikası istihdamda ve ruhsat alım sürecinde tercih sebebi olabilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T18:15:42",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6084
+  }
+ }
+}

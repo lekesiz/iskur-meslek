@@ -1,0 +1,79 @@
+{
+ "gorevler": [
+  "Mekanik ekskavatör kullanarak kazı işlemlerini yapar.",
+  "Elektromekanik ekskavatör kullanarak kazı işlemlerini yapar.",
+  "Kepçeyi taşıyıcı seviyesine kaldırır.",
+  "Makine gövde dönüşünü yapar.",
+  "Kepçeyi taşıyıcıya boşaltır.",
+  "Yükleme sistemini kontrol eder.",
+  "Yükleme kapasitesini ayarlar.",
+  "Yükleyicinin palet kumandasını sağlar.",
+  "Makine ve aksamların genel kontrolünü yapar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "arac_gerec": [
+  "Döner kepçeli (paletli veya lastik tekerlekli) ekskavatör",
+  "Kumanda kolları ve pedallar",
+  "Gösterge paneli ve kontrol sistemleri",
+  "Yıldız ve çift ağızlı anahtar, pense, tornavida gibi el aletleri",
+  "Yağdanlık ve çeşitli madeni yağlar",
+  "Akaryakıt ve yakıt ikmal ekipmanları",
+  "Üstübü, hava ve yağ filtreleri",
+  "Çelik ve kendir halatlar",
+  "Yedek palet ve palet ayar anahtarı",
+  "Toz gözlüğü, eldiven, baret, iş ayakkabısı gibi kişisel koruyucu donanım",
+  "Kepçe/kova ve ataşmanlar"
+ ],
+ "genel_ozellikler": [
+  "Ellerini, gözlerini ve ayaklarını eşgüdümle kullanabilen,",
+  "Çevredeki uyarıcıları aynı anda algılayabilen, dikkatli,",
+  "Mekaniğe ilgi duyan,",
+  "Sorumluluk sahibi, tedbirli,",
+  "Uzamsal (üç boyutlu) algısı güçlü,",
+  "Fiziksel olarak dayanıklı,",
+  "Açık havada ve zorlu koşullarda çalışmaya istekli,",
+  "Takım çalışmasına yatkın"
+ ],
+ "calisma_ortami": "Döner Kepçeli Ekskavatör Operatörü çalışmalarını büyük ölçüde araç kabini içinde ve açık havada, şantiye, maden ocağı, taş ocağı, yol yapım alanı gibi sahalarda yürütür. Çalışma ortamı genellikle tozlu, gürültülü olup hava koşullarına (sıcak, soğuk, yağış) açıktır. İşin niteliğine göre vardiyalı veya proje süresine bağlı olarak uzun saatler çalışılabilir; dikkatsizlik iş kazalarına yol açabileceğinden iş sağlığı ve güvenliği kurallarına uyma gerekliliği yüksektir.\n\nOperatör, çalışma süresince genellikle kabin içinde tek başına görev yapar; iş öncesi ve sonrasında şantiye şefi, mühendisler, makine bakımcıları, yağlayıcılar ve diğer iş makinesi operatörleri ile iletişim halindedir.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi, özel kurs firmalarınca açılan iş makinesi operatörlüğü (G sınıfı) kurslarında, Halk Eğitim Merkezleri ile İŞKUR'un açtığı mesleki eğitim kurslarında ve bazı meslek odalarının düzenlediği sertifika programlarında verilmektedir. Ayrıca işbaşında usta operatör yanında çıraklık yoluyla da öğrenilebilmektedir.",
+  "giris_kosullari": [
+   "18 yaşını doldurmuş olmak",
+   "En az ilköğretim/ilkokul mezunu olmak",
+   "Operatörlük yapmaya engel bir sağlık sorunu bulunmamak",
+   "İlgili kurs yönetmeliklerinde belirtilen adli sicil şartlarını taşımak"
+  ],
+  "sure_ve_icerik": "Özel sürücü/operatör kurslarında eğitim genellikle teorik ve pratik uygulama derslerinden oluşur; bu derslerde motor bilgisi, hidrolik sistemler, makinenin teknik yapısı, periyodik bakım, iş güvenliği, zemin ve kazı tekniği ile ilk yardım konuları işlenir. Kurs sonrası uygulamalı sınav yapılır. Deneyim kazanımı büyük ölçüde işbaşında usta operatör gözetiminde gerçekleşir.",
+  "belge": "Kursu başarıyla tamamlayanlara İş Makinesi Operatörü Sertifikası/Belgesi verilir. Bu belgeyle iş makinesi işyeri sınırları içinde kullanılabilir; aracın karayoluna çıkması gerekiyorsa ayrıca sürücü belgesi (ehliyet) üzerine ilgili sınıfın işlenmesi gerekir."
+ },
+ "calisma_alanlari": "Döner Kepçeli Ekskavatör Operatörleri; Devlet Su İşleri, Karayolları Genel Müdürlüğü, belediyeler, Maden Tetkik ve Arama gibi kamu kuruluşlarında; inşaat firmaları, yol yapım şirketleri, maden ve taş ocağı işletmeleri, hafriyat ve nakliye firmaları gibi özel sektör işyerlerinde istihdam edilirler. İnşaat ve maden sektörlerindeki faaliyet hacmine bağlı olarak iş bulma olanakları değişkenlik gösterir.",
+ "kazanc": {
+  "egitim_suresince": "Kurs eğitimi süresince genellikle bir kazanç söz konusu değildir; işbaşında usta operatör yanında yetişenler ise genellikle asgari ücret düzeyinde bir ücret alabilir.",
+  "egitim_sonrasi": [
+   "Kamu kurum ve kuruluşlarında çalışanlar, 657 sayılı Devlet Memurları Kanunu veya işçi statüsündeyse ilgili toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde yeni başlayan operatörler genellikle asgari ücret düzeyinde kazanç elde eder.",
+   "Deneyim, işletme büyüklüğü, çalışılan sektör (maden, inşaat, altyapı) ve makinenin niteliğine göre kazanç zamanla artabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğin doğrudan bir örgün eğitim kademesi bulunmamaktadır; operatörler deneyim ve ek kurslarla (farklı iş makinesi tipleri, iş güvenliği, bakım-onarım gibi) mesleki bilgi ve becerilerini geliştirebilir.",
+  "is_hayatinda": "Deneyim kazanarak ve başarılı performans göstererek baş operatör, ustabaşı veya şantiye/makine parkı şefi gibi görevlere yükselebilirler. Bazı kamu kuruluşları kendi bünyelerinde yaptıkları sınavlarla başarılı operatörleri üst unvanlara atayabilmektedir. Operatörler ayrıca farklı iş makinelerinin (yükleyici, greyder, buldozer vb.) kullanımında uzmanlaşarak iş olanaklarını genişletebilir."
+ },
+ "benzer_meslekler": [
+  "Ekskavatör (Kazıma ve Yükleme) Operatörü",
+  "Elektrikli Ekskavatör Operatörü",
+  "Lastik Tekerlekli Ekskavatör Operatörü",
+  "Beko Loder (Kazıcı - Yükleyici) Operatörü",
+  "Amfibi ve Tarak Ekskavatör Operatörü",
+  "Kepçeli Araç Operatörü"
+ ],
+ "ek_bilgiler": "Döner kepçeli ekskavatörler, kazı, yükleme ve taşıma işlerinde yaygın olarak kullanılan ağır iş makineleridir ve çalışma sahasının niteliğine göre mekanik veya elektromekanik tahrikli olabilir. Maden ve inşaat sektörlerinde çalışılması nedeniyle görev, iş sağlığı ve güvenliği mevzuatı kapsamında tehlikeli/çok tehlikeli işler arasında değerlendirilebilir; bu nedenle Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T18:35:52",
+  "usage": {
+   "input_tokens": 4,
+   "output_tokens": 8032
+  }
+ }
+}

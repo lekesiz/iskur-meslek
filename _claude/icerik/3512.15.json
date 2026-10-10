@@ -1,0 +1,77 @@
+{
+ "arac_gerec": [
+  "Bilgisayar ve çevre birimleri (yazıcı, tarayıcı vb.)",
+  "Sunucu ve test/uygulama ortamları",
+  "Veritabanı yönetim sistemleri",
+  "Veri aktarımı ve dönüştürme (ETL) araçları",
+  "Hata/çağrı takip ve bilet (ticket) yönetim sistemleri",
+  "Uzaktan erişim ve ekran paylaşım yazılımları",
+  "Ağ ve iletişim ekipmanları (telefon, e-posta, anlık mesajlaşma sistemleri)",
+  "Eğitim ve sunum araçları (projeksiyon, sunum yazılımları)",
+  "Dokümantasyon araçları (kullanım kılavuzu, SSS, eğitim materyali hazırlama yazılımları)",
+  "Proje ve görev yönetim yazılımları",
+  "Yedekleme üniteleri ve bellek aygıtları",
+  "Ofis yazılımları (kelime işlemci, elektronik tablolama vb.)"
+ ],
+ "benzer_meslekler": [
+  "Yazılım Destek Uzmanı",
+  "Bilgi İşlem Destek Elemanı",
+  "Bilgi İşlem Destek Sorumlusu",
+  "Bilişim Teknolojileri Teknisyeni",
+  "Sistem İşletmeni",
+  "Bilişim Uzmanı"
+ ],
+ "calisma_alanlari": "Yazılım Uygulama ve Destek Elemanları; kamu kurum ve kuruluşlarının bilgi işlem/bilişim birimlerinde, bankalar ve finans kuruluşlarında, yazılım geliştirme ve danışmanlık şirketlerinde, ERP/CRM gibi kurumsal yazılım sistemleri kullanan özel işletmelerde, e-ticaret şirketlerinde, çağrı merkezlerinde ve bilgi teknolojileri hizmeti sunan her ölçekteki işletmede istihdam edilebilirler.\n\nKurumların yazılım sistemlerine olan bağımlılığının artması, dijitalleşme ve kurumsal yazılımların yaygınlaşması nedeniyle bu meslekte çalışan kişilere olan ihtiyacın gelecek yıllarda da sürmesi beklenmektedir. Yeterli bilgi ve deneyime sahip olanlar, serbest çalışarak proje bazlı destek hizmeti de verebilirler.",
+ "calisma_ortami": "Yazılım Uygulama ve Destek Elemanı, genellikle büro/ofis ortamında bilgisayar başında oturarak çalışır. Yazılımın canlıya alınması, kullanıcı eğitimi verilmesi veya saha desteği gerektiren durumlarda kullanıcı kurumlarına giderek çalışma yürütebilir; eğitim salonlarında grup eğitimleri verebilir. İş genellikle düzenli mesai saatlerinde yürütülür; ancak yazılımın canlıya alınması, kritik hata giderme veya yoğun destek talebi dönemlerinde çalışma saatleri uzayabilir, bazı kurumlarda vardiyalı veya 7/24 destek hizmeti gerekebilir.\n\nUzun süre ekran başında çalışmaya bağlı göz, bel ve boyun yorgunluğu görülebilir; kullanıcıların yoğun ve bazen aciliyet içeren taleplerine bağlı olarak zaman zaman stresli bir çalışma temposu yaşanabilir. Çalışırken yazılım geliştiriciler, proje yöneticileri, sistem yöneticileri, son kullanıcılar ve müşteri/kurum temsilcileri ile sürekli iletişim halindedir.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin gerektirdiği minimum eğitim düzeyi önlisanstır. Eğitim; üniversitelere bağlı meslek yüksekokullarının bilgisayar programcılığı, bilgisayar teknolojisi, yönetim bilişim sistemleri gibi ilgili önlisans programlarında verilir. Ayrıca bilişim alanında temel beceri kazandırmaya yönelik olarak Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kurslarından da yararlanılabilir.",
+  "giris_kosullari": [
+   "Lise ve dengi okul mezunu olmak",
+   "Üniversitelerin ilgili önlisans programlarına girmek için gerekli merkezi sınav (YKS vb.) şartlarını ve puan türünü sağlamak",
+   "Bilgisayar ve bilişim teknolojilerine ilgi ve temel düzeyde yetenek sahibi olmak"
+  ],
+  "sure_ve_icerik": "Önlisans eğitimi genellikle 2 yıl (4 yarıyıl) sürer. Eğitimde programlama mantığı, veritabanı yönetimi, ağ ve sistem bilgisi, işletim sistemleri, yazılım test süreçleri, kullanıcı iletişimi ve teknik destek uygulamaları gibi dersler yer alır; teorik eğitimin yanı sıra uygulamalı çalışmalara ve bazı programlarda zorunlu stajlara yer verilir.",
+  "belge": "Eğitimi başarıyla tamamlayanlara önlisans diploması verilir. Bunun yanında mesleki gelişim kapsamında alınabilecek yazılım, bulut bilişim ve kullanıcı desteği alanlarına yönelik sertifikalar ile Mesleki Yeterlilik Kurumu (MYK) belgeleri istihdamda tercih sebebi olabilir."
+ },
+ "ek_bilgiler": "Kurumların yazılım sistemlerine bağımlılığının artması ve dijitalleşmenin yaygınlaşması nedeniyle bu meslekte önümüzdeki yıllarda istihdam olanaklarının artması beklenmektedir. Çalışılan sektöre ve kuruma göre ek olarak belirli yazılım, bulut bilişim veya veri güvenliği konularında sertifikasyon istenebilir.",
+ "genel_ozellikler": [
+  "Analitik düşünme yeteneğine sahip",
+  "Sözlü ve yazılı anlatım becerisi gelişmiş",
+  "Sabırlı ve kullanıcı odaklı",
+  "Problem çözme yeteneğine sahip",
+  "Yeni teknolojileri öğrenmeye ve kendini geliştirmeye açık",
+  "Ekip çalışmasına uyumlu",
+  "Dikkatli ve sistemli çalışabilen",
+  "Sorumluluk sahibi"
+ ],
+ "gorevler": [
+  "İş sağlığı ve güvenliği önlemlerini alır.",
+  "Çevre koruma önlemlerini alır.",
+  "Kalite uygulamalarına destek verir.",
+  "İş organizasyonu yapar.",
+  "Planlanan yazılım destek sistemi ile ilgili dokümanları hazırlar.",
+  "Aday kullanıcılara yazılım hakkında bilgilendirme yapar ve eğitim verir.",
+  "Yazılımı uygulamaya alma işlemleri ile ilgili veri aktarımı çalışmalarını gerçekleştirir, yazılımı canlı uygulamaya alır.",
+  "Yazılım kullanım desteği verme işlemleri ile ilgili yazılım sorunlarına ait bilgi alır, sorunların çözümünü kullanıcılara ulaştırır, periyodik düzenleme/kontrol/güncelleme işlemlerini koordine eder.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Önlisans programından mezun olanlar, Ölçme, Seçme ve Yerleştirme Merkezi (ÖSYM) tarafından yapılan Dikey Geçiş Sınavı (DGS) ile başarılı oldukları takdirde bilgisayar mühendisliği, yazılım mühendisliği, bilgi sistemleri mühendisliği gibi ilgili lisans programlarına geçiş yapabilirler.",
+  "is_hayatinda": "Mesleki deneyim ve bilgi birikimi arttıkça yazılım destek uzmanlığı, sistem/ağ yöneticiliği, kalite güvence uzmanlığı, proje koordinatörlüğü veya ekip liderliği gibi daha üst sorumluluklara sahip pozisyonlara yükselinebilir. Alınacak ek sertifikalar ve mesleki yeterlilik belgeleri bu süreci destekler."
+ },
+ "kazanc": {
+  "egitim_suresince": "Önlisans eğitimi süresince öğrenciler genellikle herhangi bir ücret almaz; ancak zorunlu staj veya işletmede uygulamalı eğitim dönemlerinde işletmeler tarafından asgari ücret düzeyinde bir ödeme yapılabilir ve bu dönemlerde iş kazası ile meslek hastalığına karşı sigorta güvencesi sağlanabilir.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında istihdam edilenler 657 sayılı Devlet Memurları Kanunu'na veya ilgili kurumun toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde işe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar; mesleki deneyim, bilgi birikimi ve çalışılan kurumun büyüklüğüne göre kazanç artabilir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T15:03:40",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6279
+  }
+ }
+}

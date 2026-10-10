@@ -1,0 +1,86 @@
+{
+ "arac_gerec": [
+  "Hassas terazi ve tartım cihazları",
+  "Ölçü kapları (mezür, balon joje, pipet, beher)",
+  "pH metre ve basit analiz cihazları",
+  "Sıcaklık ve basınç ölçüm cihazları (termometre, manometre)",
+  "Gaz dedektörü",
+  "Numune alma kapları ve sondaları",
+  "Çözelti hazırlama ekipmanları (karıştırıcı, cam malzemeler)",
+  "Katı/sıvı taşıma ekipmanları (varil, konteyner, el arabası, forklift)",
+  "Kimyasal atık depolama konteynerleri ve etiketleri",
+  "Kişisel koruyucu donanım (eldiven, gözlük, maske, iş elbisesi, çizme)",
+  "Güvenlik duşu ve göz yıkama istasyonu",
+  "Vana, pompa ve basit proses kontrol panelleri"
+ ],
+ "benzer_meslekler": [
+  "Proses İşçisi",
+  "Karıştırma Makinesi Operatörü-Kimyasal Maddeler",
+  "Separatör İşçisi",
+  "Reaktör İşçisi (Boya)",
+  "Diğer Kimyasal İşlemciler ve İlgili İşçiler",
+  "Santrifüj-Seperatör Makinesi Operatörü"
+ ],
+ "calisma_alanlari": "Mesleğin gerektirdiği yeterlilikleri kazanan bireyler; kimya sanayi, ilaç, boya, gübre, kozmetik, plastik, petrokimya ve tekstil boyama gibi kimyasal madde üreten fabrika ve tesislerin üretim/proses bölümlerinde ve bu tesislere bağlı laboratuvarlarda çalışabilirler.",
+ "calisma_ortami": "Kimya proses operatör yardımcıları, kimyasal madde üretimi yapan fabrika ve tesislerin üretim üniteleri, depo alanları ve laboratuvarlarında çalışır. Çalışma genellikle kapalı alanlarda yürütülür; ancak katı/sıvı/gaz taşıma, numune alma ve depolama işlemleri sırasında açık alanlarda da bulunulabilir. Kimyasal madde kokusu, buhar, zaman zaman yüksek sıcaklık ve gürültü ortamın belirgin özellikleridir; bu nedenle kişisel koruyucu donanım kullanımı ve iş güvenliği kurallarına titizlikle uyulması gerekir.\n\nİş genellikle ayakta ve hareketli bir çalışma temposuyla yürütülür. İşletmenin üretim takvimine göre vardiyalı çalışma söz konusu olabilir. Meslek elemanı; vardiya arkadaşları, kimya mühendisleri, laboratuvar teknisyenleri ve proses operatörleriyle sürekli iletişim ve iş birliği içinde çalışır.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin gerektirdiği minimum eğitim düzeyi okur yazar olarak belirlenmiştir ve örgün bir diploma programı bulunmamaktadır. Bilgi ve beceriler genellikle işletme içinde işbaşında usta-çırak ilişkisiyle, işe giriş eğitimleriyle ve İŞKUR ile Halk Eğitim Merkezlerinin açtığı kimya teknolojisi alanındaki mesleki eğitim kurslarıyla kazandırılır. Mesleki ve teknik eğitim okullarındaki kimya teknolojisi/kimya laboratuvarı alanlarında alınan eğitimler de bu mesleğe temel oluşturabilir.",
+  "giris_kosullari": [
+   "Okur yazar olmak",
+   "18 yaşını doldurmuş olmak",
+   "Kurs/işbaşı eğitiminin gerektirdiği temel becerileri yerine getirebilecek fiziksel ve psikomotor yeterliğe sahip olmak",
+   "Kimyasal maddelerle çalışmaya engel bir sağlık sorunu bulunmamak"
+  ],
+  "sure_ve_icerik": "Resmi olarak standart bir eğitim süresi belirlenmemiştir. İşletme içi eğitimler ve kurslar genellikle kısa süreli olup; iş sağlığı ve güvenliği, temel laboratuvar işlemleri, kütle ve hacim ölçümü, çözelti hazırlama, katı-sıvı-gaz taşıma ve depolama, numune alma ve basit fiziksel/kimyasal kontrol konularında bilgi ve beceri kazandırmayı hedefler.",
+  "belge": "İşletme içi eğitim veya kurs sonunda genellikle bir katılım/kurs bitirme belgesi verilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, özellikle tehlikeli iş kolları kapsamında değerlendirilen işyerlerinde istihdamda tercih sebebi olabilir."
+ },
+ "ek_bilgiler": "Meslek elemanları kimyasal maddelerle doğrudan çalıştığından, çalıştıkları işletmenin faaliyet alanına göre iş bazı işyerlerinde tehlikeli veya çok tehlikeli işler sınıfında değerlendirilebilir. Bu durumda işe giriş sağlık muayenesi, periyodik sağlık kontrolleri ve iş sağlığı güvenliği eğitimleri zorunlu olabilir.",
+ "genel_ozellikler": [
+  "Dikkatli ve tedbirli,",
+  "Sorumluluk duygusu yüksek,",
+  "Talimatlara eksiksiz uyabilen,",
+  "El ve göz koordinasyonu iyi,",
+  "Fiziksel olarak sağlıklı ve dayanıklı,",
+  "Ekip çalışmasına uyumlu,",
+  "Kimyasal maddelerle çalışmaya karşı temkinli,",
+  "Hızlı ve doğru karar verebilen"
+ ],
+ "gorevler": [
+  "Kütle ölçümü yapar.",
+  "Hacim ölçümü yapar.",
+  "Fiziksel değişimleri inceler.",
+  "Kimyasal değişimleri inceler.",
+  "Çözelti hazırlar.",
+  "Katıları inceler.",
+  "Sıvıları inceler.",
+  "Gazları inceler.",
+  "Katıları taşır.",
+  "Sıvıları taşır.",
+  "Gazları taşır.",
+  "Kimyasal atıkları depolar.",
+  "Üniteden numune alır.",
+  "Analiz sonuçlarını değerlendirir.",
+  "Fiziksel kontrol yapar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğin örgün bir ilerleme basamağı bulunmamaktadır. İlgili mesleki eğitim kurslarına katılarak ve deneyim kazanarak bilgi ve becerilerini geliştirebilirler. Kimya teknolojisi alanında mesleki ve teknik eğitim programlarını tamamlayanlar kimya teknisyenliği veya teknikerliği gibi unvanlara yönelebilir.",
+  "is_hayatinda": "Bilgi, beceri ve deneyim arttıkça Kimya Proses Operatörü, vardiya sorumlusu, usta veya ustabaşı gibi unvanlar alarak iş hayatında ilerleme fırsatı bulabilirler."
+ },
+ "kazanc": {
+  "egitim_suresince": "İşbaşı eğitimi veya kurs süresince genellikle bir kazanç söz konusu değildir; bazı işletmelerde staj/deneme sürecinde asgari ücret düzeyinde ödeme yapılabilir.",
+  "egitim_sonrasi": [
+   "Yeni işe başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Deneyim, işletmenin büyüklüğü ve sektöre göre ücret artabilir.",
+   "Kamuya bağlı tesislerde işçi statüsünde çalışanların ücreti toplu iş sözleşmesi hükümlerine göre belirlenir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T12:32:38",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5763
+  }
+ }
+}

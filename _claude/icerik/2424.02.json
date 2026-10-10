@@ -1,0 +1,89 @@
+{
+ "arac_gerec": [
+  "Bilgisayar ve İnsan Kaynakları/eğitim yönetim bilgi sistemleri yazılımları",
+  "Eğitim ihtiyaç analizi ve anket formları",
+  "Ölçme-değerlendirme araçları (test, anket, performans değerlendirme formları)",
+  "Projeksiyon cihazı ve sunum donanımları",
+  "Eğitim materyalleri (eğitim notu, slayt, kitapçık, görsel materyal)",
+  "Video konferans ve uzaktan eğitim (e-öğrenme) platformları",
+  "Bütçe takip ve raporlama programları (elektronik tablo yazılımları)",
+  "Yazıcı, tarayıcı ve diğer büro ekipmanları",
+  "Eğitim salonu ve toplantı odası donanımları",
+  "Telefon, internet ve kurum içi iletişim araçları",
+  "Eğitim kayıt, arşivleme ve raporlama sistemleri"
+ ],
+ "genel_ozellikler": [
+  "İletişim ve ikna becerisi gelişmiş,",
+  "Planlama ve organizasyon yeteneğine sahip,",
+  "Analitik düşünebilen ve ihtiyaç analizi yapabilen,",
+  "İnsan ilişkilerinde başarılı ve işbirliğine açık,",
+  "Sabırlı, dikkatli ve sorumluluk sahibi,",
+  "Yazılı ve sözlü anlatım becerisi iyi,",
+  "Eğitim ve gelişim alanındaki yenilikleri takip etmeye istekli,",
+  "Bütçe ve zaman yönetiminde başarılı"
+ ],
+ "calisma_ortami": "\"Eğitim Uzmanı-Hizmetiçi Eğitim, genellikle ofis/büro ortamında, kapalı mekânlarda, temiz ve sağlıklı koşullarda çalışır. Eğitimlerin düzenlendiği salonlarda, toplantı odalarında veya gerektiğinde kuruluşun farklı birim ve şubelerinde de bulunabilir; bazı kuruluşlarda farklı yerleşke veya bölgelerdeki birimlere seyahat etmesi gerekebilir.\\n\\nÇalışma saatleri genel olarak büro mesaisine uygun olmakla birlikte, eğitim dönemlerinde veya bütçe/raporlama süreçlerinde mesai saatleri uzayabilir. Görevi sırasında kuruluş yöneticileri, insan kaynakları çalışanları, eğitmenler, dış eğitim kuruluşları ve kuruluşun diğer çalışanlarıyla sürekli iletişim ve iş birliği içinde çalışır.\"",
+ "egitim": {
+  "verildigi_yerler": "Bu meslek için doğrudan ve tek bir isimle açılmış bağımsız bir lisans programı bulunmamaktadır. Mesleğe genellikle yükseköğretim kurumlarının İşletme, Eğitim Bilimleri, İnsan Kaynakları Yönetimi, Endüstri ve Örgüt Psikolojisi, Çalışma Ekonomisi ve Endüstri İlişkileri, Psikoloji, Sosyoloji veya Eğitim Yönetimi gibi ilgili lisans bölümlerinden mezun olanlar yönelmektedir.",
+  "giris_kosullari": [
+   "Lise veya dengi okul mezunu olmak",
+   "YKS (Yükseköğretim Kurumları Sınavı) kılavuzunda belirtilen ilgili bölümün giriş koşullarını ve puan türünü sağlamak",
+   "Meslek Yüksekokulları veya Açıköğretim Önlisans programlarından mezun olanlar için Dikey Geçiş Sınavı (DGS) ile ilgili lisans bölümlerine geçiş yapılabilmesi"
+  ],
+  "sure_ve_icerik": "Tercih edilen lisans programına göre eğitim süresi genellikle dört yıldır. Eğitim süresince seçilen bölüme bağlı olarak işletme, insan kaynakları yönetimi, örgütsel davranış, yetişkin eğitimi ve öğrenme psikolojisi, eğitim ihtiyaç analizi, eğitim program geliştirme, performans yönetimi, bütçeleme ve proje yönetimi gibi konularda bilgi ve beceri kazandırılmaktadır. Mesleğe yönelik uzmanlaşma genellikle lisans eğitimi sonrasında iş başında, kurum içi eğitimlerle veya insan kaynakları/eğitim yönetimi alanındaki sertifika programları ve kurslarla desteklenmektedir.",
+  "belge": "Mezuniyet sonunda ilgili lisans programının diploması verilir. Ayrıca iş başında veya kurumlar tarafından düzenlenen insan kaynakları, eğitim yönetimi, eğitici eğitimi gibi sertifika programlarına katılım söz konusu olabilir."
+ },
+ "calisma_alanlari": "\"Eğitim Uzmanı-Hizmetiçi Eğitim, kamu kurumları ve özel sektördeki orta ve büyük ölçekli işletmelerin insan kaynakları veya eğitim ve gelişim departmanlarında çalışabilir. Üretim, hizmet, finans, sağlık, bilişim gibi farklı sektörlerdeki kuruluşların kurum içi eğitim sistemlerinin kurulması ve yürütülmesinde görev alabileceği gibi, insan kaynakları danışmanlık şirketlerinde veya kurumsal eğitim hizmeti sunan firmalarda da istihdam edilebilir. Kuruluşların kurumsal gelişim, performans ve yetenek yönetimi birimleriyle yakın çalışabilmektedir.\"",
+ "kazanc": {
+  "egitim_suresince": "Yükseköğrenim süresince öğrenciler, Kredi ve Yurtlar Genel Müdürlüğünün sağladığı kredi ve yurt hizmetlerinden yararlanabilir; ayrıca çeşitli resmî ve özel kurum ve kuruluşlar tarafından sağlanan burslardan faydalanabilirler.",
+  "egitim_sonrasi": [
+   "Çalıştıkları kuruluşun büyüklüğüne, sektörüne, mali yapısına ve ücret politikasına göre değişen ücretler alırlar.",
+   "Kamu kurumlarında istihdam edilenler 657 sayılı Devlet Memurları Kanunu'na göre, işçi statüsünde çalışanlar ilgili toplu iş sözleşmesi hükümlerine göre ücretlendirilir.",
+   "Özel sektörde ücretler işveren ile çalışan arasındaki karşılıklı anlaşmaya, deneyime ve işletmenin büyüklüğüne göre değişir; göreve yeni başlayanlarda genellikle asgari ücret düzeyinde başlayan ücretler, deneyim ve kıdemle birlikte artış gösterebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Lisans eğitimini tamamlayanlar, insan kaynakları yönetimi, eğitim yönetimi ve denetimi, örgütsel davranış veya ilgili sosyal bilimler alanlarında yüksek lisans ve doktora yaparak akademik ve uzmanlık düzeyinde ilerleyebilirler.",
+  "is_hayatinda": "Meslek elemanları çalıştıkları kuruluşların personel politikaları doğrultusunda eğitim uzman yardımcısı, eğitim uzmanı, kıdemli eğitim uzmanı gibi unvanlarla göreve başlayıp; eğitim ve gelişim şefi/yöneticisi, insan kaynakları müdürü, kurumsal gelişim müdürü gibi kademelere, kamu kurumlarında ise şef, müdür, daire başkanı gibi unvanlara doğru ilerleyebilirler."
+ },
+ "benzer_meslekler": [
+  "İşgücü Yetiştirme Uzmanı",
+  "Kurumsal Eğitmen",
+  "Organizasyonel Gelişim Uzmanı",
+  "İnsan Kaynakları Uzmanı (Yöneticisi)",
+  "Eğitim Danışmanı",
+  "Kariyer ve Yetenek Yönetimi Uzmanı"
+ ],
+ "ek_bilgiler": "\"Bu meslek için doğrudan ve bağımsız bir lisans programı bulunmamaktadır; mesleğe genellikle işletme, insan kaynakları yönetimi, eğitim bilimleri, psikoloji veya sosyoloji gibi ilgili bölümlerden mezun olanlar yönelmekte ve uzmanlaşma iş başında ya da sertifika programlarıyla desteklenmektedir. Mesleki Yeterlilik Kurumu (MYK) belgesi veya insan kaynakları/eğitmen eğitimi sertifikaları, istihdamda tercih sebebi olabilir.\"",
+ "gorevler": [
+  "İSG ve çevre koruma ile ilgili kuralları takip eder",
+  "Süreçlerin yasal mevzuata, kalite sistemine ve kuruluş prosedürlerine uygunluğunu sağlar",
+  "İK bilgi sistemi eğitim modülünün kuruluşu ile ilgili alt yapı çalışmalarını yürütür",
+  "İK bilgi sistemi eğitim modülü kayıt, raporlama ve arşivleme faaliyetlerini yürütür",
+  "Eğitim faaliyetleri bütçesini hazırlar",
+  "Eğitim faaliyetleri bütçe gerçekleşmelerini takip eder",
+  "Eğitim politika ve standartlarının belirlenmesine katkıda bulunur",
+  "Eğitim prosedürlerini hazırlar",
+  "Dış kaynaklardan alınacak hizmetleri koordine eder",
+  "Eğitim ihtiyaç analizi yapar",
+  "Eğitimleri planlar",
+  "Eğitim programını geliştirir",
+  "Eğitim programının içeriğini geliştirir",
+  "Eğitim programının uygulama sürecini planlar",
+  "Eğitmenlerin çalışmalarını organize eder",
+  "Ölçme-değerlendirme araçlarının hazırlanmasına destek verir",
+  "Eğitimler hakkında çalışanları bilgilendirir",
+  "Eğitimlerin organizasyonunu gerçekleştirir",
+  "Eğitim etkinliğinin ölçümünü yapar",
+  "Kayıt ve raporlama faaliyetlerini yürütür",
+  "Mesleki gelişim faaliyetlerinde bulunur"
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T05:38:02",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5954
+  }
+ }
+}

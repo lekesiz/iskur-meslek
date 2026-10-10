@@ -1,0 +1,83 @@
+{
+ "arac_gerec": [
+  "Bilgisayar ve çevre birimleri (yazıcı, tarayıcı)",
+  "Bilgisayar destekli tasarım (CAD) yazılımları",
+  "Katı modelleme ve yüzey modelleme yazılımları",
+  "CAM/CNC kod türetme yazılımları",
+  "Çizim ve ölçümlendirme standartları, şablonlar",
+  "Grafik tablet",
+  "Plotter/ozalit makinesi",
+  "Dosya arşivleme ve veri yönetim sistemleri",
+  "Harici depolama birimleri ve sunucular",
+  "Ölçüm aletleri (kumpas, mikrometre vb.)"
+ ],
+ "genel_ozellikler": [
+  "Şekil ve uzay ilişkilerini algılayabilen,",
+  "Gördüklerini ve tasarladıklarını zihinde üç boyutlu canlandırabilen,",
+  "Sayısal düşünme yeteneği gelişmiş,",
+  "Dikkatli, düzenli ve titiz,",
+  "Bilgisayar ve teknik çizim yazılımlarını kullanmaya istekli,",
+  "Sabırlı ve detaylara özen gösteren,",
+  "Ekip içinde uyumlu çalışabilen,",
+  "Yeni teknolojik gelişmeleri takip edebilen"
+ ],
+ "calisma_ortami": "İmalat çizerleri, genellikle makine, kalıp, sac metal veya plastik şekillendirme gibi alanlarda imalat yapan işletmelerin teknik resim/proje bürolarında, kapalı ve ısıtma-aydınlatma koşulları düzenlenmiş ortamlarda çalışır. İşlerinin büyük bölümünü bilgisayar başında oturarak yürütürler; bu nedenle uzun süre ekran karşısında kalmaya bağlı göz ve bilek yorgunluğu gibi riskler söz konusu olabilir.\n\nÇalışmalarını mühendis ve teknisyenlerin yönlendirmesi ve denetimi altında, çoğunlukla bireysel olarak yürütürler; ancak üretim, kalite kontrol ve CNC programcılığı gibi birimlerle sık sık bilgi paylaşımında bulunurlar. Mesai saatleri genellikle düzenlidir, ancak proje teslim tarihlerine yaklaşıldığında çalışma yoğunluğu ve süresi artabilir.",
+ "calisma_alanlari": "İmalat çizerleri; makine, kalıp, sac metal, plastik şekillendirme ve döküm gibi alanlarda üretim yapan fabrika ve işletmelerin teknik resim/proje bürolarında, mühendislik ve tasarım ofislerinde, CNC ile imalat yapan atölyelerde çalışma olanağı bulurlar. Bilgi ve becerilerinin başka alanlarda da kullanılabilmesi nedeniyle, kalite kontrol, üretim planlama ve CNC programcılığı gibi ilişkili bölümlerde de görev alabilirler. Bu meslekte iş bulma olanağı, sektördeki imalat ve yatırım hacmine bağlı olarak değişkenlik gösterir.",
+ "ek_bilgiler": "İmalat çizerliğinde CAD/CAM yazılımlarını etkin kullanabilme, mesleğe girişte ve ilerlemede önemli bir avantajdır. Mesleki Yeterlilik Kurumu (MYK) tarafından yetkilendirilmiş kuruluşlardan alınabilecek mesleki yeterlilik belgesi, istihdamda tercih sebebi olabilir. Sanayide dijitalleşme ve bilgisayar destekli üretim sistemlerinin yaygınlaşması, bu meslekte nitelikli iş gücüne olan talebi etkileyen bir unsurdur.",
+ "gorevler": [
+  "Bilgisayarda yeterli görünüş çizer ve kütüphane oluşturur.",
+  "Nokta ve doğrunun izdüşümlerini çizer.",
+  "Düzlem yüzeylerin ve cisimlerin izdüşümlerini çizer.",
+  "Düzlemle, doğrunun, düzlemin ve cisimlerin ara kesitlerini çizer.",
+  "Cisimle, cisimlerin ara kesitlerini ve açınımlarını çizer.",
+  "Üç boyutlu ortamda çizim yapar ve düzenleme komutlarını kullanır.",
+  "Katı-yüzey modelleme görsellik işlemlerini yapar.",
+  "Modelden görünüş çıkarır, hesaplama ve sorgulama işlemlerini yapar.",
+  "Makine parçalarını üç boyutlu çizer ve animasyon yapar.",
+  "Parça işlem analizi oluşturur ve CNC kod türetir.",
+  "Parça sıfırlaması yapar, işleme parametrelerini oluşturur ve CNC tezgâhlarına dosya aktarımı yapar.",
+  "Sac metal kalıp ve mekanizmalar resmini çizer.",
+  "Hacim ve plastik şekillendirme kalıp resmini çizer.",
+  "Model ve döküm resmini çizer.",
+  "Mekanizma devre şeması ve montaj resmini çizer.",
+  "Bağlantı detayı ve montaj resimlerini çizer.",
+  "Diyagram ve bakım planı hazırlar ve çizer.",
+  "Katalog hazırlar ve arşivleme yapar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi, mesleki ve teknik Anadolu liselerinin Makine ve Tasarım Teknolojisi alanı kapsamındaki bilgisayar destekli teknik resim/çizim ile ilgili dallarında verilmektedir. Ayrıca Halk Eğitim Merkezleri ve İŞKUR tarafından açılan bilgisayar destekli teknik resim/CAD kurslarıyla da mesleğe yönelik beceri kazanılabilir.",
+  "giris_kosullari": [
+   "Ortaokulu tamamlamış olmak",
+   "Milli Eğitim Bakanlığınca okul türüne ve alan/dala göre belirlenen giriş koşullarını taşımak"
+  ],
+  "sure_ve_icerik": "Mesleki ve teknik lisede eğitim süresi 4 yıldır. 9. sınıfta ortak genel kültür dersleri ve alanın temel kazanımları verilir, yıl sonunda dal seçimi yapılır. 10, 11 ve 12. sınıflarda dal/meslek derslerine ağırlık verilir. Eğitim; okulda teorik ve uygulamalı, işletmelerde ise uygulamalı (staj) olarak yürütülür. Halk Eğitim Merkezleri ve İŞKUR kurslarında ise süre ve içerik, kursun müfredatına göre değişmekte olup genellikle bilgisayar destekli çizim programlarının kullanımına yöneliktir.",
+  "belge": "Mesleki ve teknik lise diploması; kurs yoluyla edinilen bilgi ve beceriler için kurs bitirme/katılım belgesi. Mesleki Yeterlilik Kurumu (MYK) tarafından yetkilendirilmiş kuruluşlardan alınabilecek mesleki yeterlilik belgesi istihdamda tercih sebebi olabilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "3308 sayılı Mesleki Eğitim Kanunu gereğince, işletmelerde mesleki eğitim gören öğrencilere asgari ücretin net tutarının belirli bir oranından aşağı olmamak üzere ücret ödenir ve iş kazası ile meslek hastalıkları sigortası primleri devletçe karşılanır.",
+  "egitim_sonrasi": [
+   "Yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Kazanç; çalışılan işletmenin büyüklüğü, kişinin deneyimi, bilgi ve beceri düzeyi ile sektörün genel ücret düzeyine göre değişebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleki ve teknik lise mezunları, alanının devamı niteliğindeki makine, mekatronik veya endüstriyel tasarım ile ilgili yükseköğretim ön lisans programlarına sınavsız geçiş veya ek puanla yerleşebilir. Başarılı olanlar, üniversite sınavlarına girerek ilgili lisans programlarına da devam edebilirler. Ayrıca kurslar, seminerler ve işbaşı eğitimlerle CAD/CAM yazılımlarında uzmanlaşma sağlanabilir.",
+  "is_hayatinda": "Deneyim kazanan imalat çizerleri, teknik resim bürosu şefliği veya proje sorumluluğu gibi görevlere yükselebilir. CAD/CAM yazılımlarında ve CNC programcılığında uzmanlaşarak ilgili teknik birimlerde daha üst düzey görevler üstlenebilirler."
+ },
+ "benzer_meslekler": [
+  "Bilgisayar Destekli Makine Ressamı/Makine Ressamı",
+  "Teknik Ressam",
+  "Diğer Teknik Ressamlar",
+  "Makine Resim Konstrüksiyon Teknikeri",
+  "Konstrüktör"
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T09:48:45",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5919
+  }
+ }
+}

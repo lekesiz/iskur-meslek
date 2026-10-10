@@ -1,0 +1,73 @@
+{
+ "arac_gerec": [
+  "Bilgisayar ve proje yönetimi yazılımları (örn. MS Project, Primavera)",
+  "Mimari, statik ve tesisat proje çizimleri",
+  "Metraj ve keşif cetvelleri, teknik şartnameler",
+  "Sözleşme ve ihale dosyaları",
+  "Ölçüm aletleri (metre, lazer metre, nivo vb.)",
+  "Kişisel koruyucu donanım (baret, iş güvenliği yeleği, çelik burunlu ayakkabı)",
+  "Telsiz, telefon ve haberleşme cihazları",
+  "Şantiye sahasında kullanılan araç",
+  "Ofis gereç ve ekipmanları (yazıcı, tarayıcı vb.)",
+  "Raporlama ve takip formları"
+ ],
+ "genel_ozellikler": [
+  "Liderlik vasfı olan,",
+  "Sorumluluk duygusu yüksek,",
+  "Planlama ve organizasyon becerisine sahip,",
+  "Analitik düşünebilen,",
+  "Etkili iletişim kurabilen,",
+  "Çabuk ve doğru karar verebilen,",
+  "Zaman yönetimine dikkat eden,",
+  "Ekip çalışmasına yatkın,"
+ ],
+ "calisma_ortami": "Proje Müdürleri (İnşaat) çalışma sürelerinin bir bölümünü büro ortamında planlama, raporlama ve toplantılar için, bir bölümünü de şantiye sahasında yürütülen faaliyetleri yerinde takip etmek için geçirir. Şantiye ortamında açık havada, zaman zaman olumsuz hava koşullarında, toz, gürültü ve iş kazası riskinin bulunduğu bir ortamda çalışabilirler.\n\nÇalışma saatleri proje takvimine göre değişkenlik gösterir; teslim tarihlerine yaklaşıldığında mesai saatleri uzayabilir. Görevleri sırasında mühendisler, mimarlar, taşeronlar, şantiye işçileri, tedarikçiler, yatırımcı/işveren temsilcileri ve denetim kurumlarıyla sürekli iletişim ve koordinasyon içinde çalışırlar.",
+ "gorevler": [
+  "İnşaat projelerinin yapımını üstlenen kurum veya kuruluşların faaliyetlerini planlar.",
+  "Kurum veya kuruluşun bir veya birkaç şubesinin faaliyetlerini kendisine verilen yetkiler dahilinde organize eder.",
+  "Proje için gerekli malzeme miktarını tahmin eder.",
+  "İşin süresine ve iş gücüne ilişkin tahminler yapar.",
+  "İnşaat faaliyetlerinin yürütülmesini kontrol eder ve denetler.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Mesleğe yönelik eğitim, üniversitelerin ilgili fakültelerinde inşaat mühendisliği, mimarlık veya yapı/inşaat yönetimi gibi bölümlerde verilen dört yıllık lisans programlarıyla kazanılır. Ayrıca bu lisans eğitiminin ardından proje yönetimi alanında açılan sertifika ve yüksek lisans programları da mesleğe yönelik yetkinlik kazandırabilir.",
+  "giris_kosullari": [
+   "Lise veya dengi okul mezunu olmak",
+   "YKS (Yükseköğretim Kurumları Sınavı) sonucuna göre ilgili lisans programına (inşaat mühendisliği, mimarlık, yapı/inşaat yönetimi vb.) yerleşmek",
+   "Meslek yüksekokulu mezunlarının Dikey Geçiş Sınavı (DGS) ile ilgili lisans programlarına geçiş yapabilmesi"
+  ],
+  "sure_ve_icerik": "Lisans eğitimi genellikle 4 yıl sürer. Eğitimde yapı statiği, yapı malzemeleri, maliyet ve metraj hesapları, proje ve şantiye yönetimi, sözleşme yönetimi, iş sağlığı ve güvenliği gibi dersler okutulur; çoğu programda staj zorunluluğu bulunur. Lisans eğitimine ek olarak iş hayatında kazanılan deneyim ve proje yönetimi alanındaki sertifika programları mesleki yetkinliği güçlendirir.",
+  "belge": "İlgili bölümden (inşaat mühendisliği, mimarlık veya yakın alan) lisans diploması. Mesleki Yeterlilik Kurumu (MYK) belgesi ve proje yönetimi sertifikaları istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Proje Müdürleri (İnşaat); inşaat ve müteahhitlik firmalarında, konut, ticari, endüstriyel veya altyapı projeleri yürüten şirketlerde, kamu kurumlarının yapı işleri birimlerinde (belediyeler, bakanlıklar, kamu konut kuruluşları vb.), mühendislik-mimarlık danışmanlık firmalarında ve gayrimenkul geliştirme şirketlerinde çalışabilirler. Büyük ölçekli yapım işlerinde proje bazlı istihdam da yaygındır.",
+ "kazanc": {
+  "egitim_suresince": "Lisans eğitimi süresince Kredi ve Yurtlar Genel Müdürlüğünün sağladığı öğrenim kredisi ve yurt hizmetlerinden, ayrıca çeşitli resmi ve özel kurum/kuruluşların burslarından yararlanılabilir. Staj dönemlerinde bazı işletmeler öğrencilere staj ücreti ödeyebilir.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında çalışanlar 657 sayılı Devlet Memurları Kanunu'na göre maaş ve ilgili ek ödemelerden yararlanır.",
+   "Özel sektörde ücret; işyerinin büyüklüğü, proje ölçeği, deneyim ve sektörün genel ücret politikasına göre değişir.",
+   "Mesleğe yeni başlayanlar genellikle görece düşük ücretle işe başlar, deneyim ve üstlenilen proje sorumluluğu arttıkça kazanç da artabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Lisans eğitiminin ardından inşaat yönetimi, proje yönetimi veya ilgili mühendislik/mimarlık alanlarında yüksek lisans ve doktora eğitimi alarak akademik kariyer veya uzmanlık geliştirebilirler.",
+  "is_hayatinda": "Deneyim kazandıkça şantiye şefliği veya saha sorumluluğu gibi görevlerden proje müdürlüğüne, oradan da program müdürü, inşaat direktörü, yapı işleri müdürü veya genel müdür gibi üst düzey yönetici pozisyonlarına yükselebilirler."
+ },
+ "benzer_meslekler": [
+  "Üst Düzey Yöneticisi (İnşaat)",
+  "Müteahhit-İnşaat Sektörü",
+  "İnşaat Direktörü",
+  "Saha Şefi/Sorumlusu",
+  "Sözleşme Yöneticisi",
+  "Yapı İşleri Müdürü"
+ ],
+ "ek_bilgiler": "Mesleği yürütmek için genellikle inşaat mühendisliği veya mimarlık lisans eğitimi tercih edilmekte, büyük ölçekli projelerde Mesleki Yeterlilik Kurumu (MYK) belgesi ve proje yönetimi alanındaki ulusal/uluslararası sertifikalar istihdamda tercih sebebi olabilmektedir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-07T19:50:23",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6620
+  }
+ }
+}

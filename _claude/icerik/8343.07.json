@@ -1,0 +1,77 @@
+{
+ "arac_gerec": [
+  "Gezer köprü vinç ve kumanda sistemi (pandantif kumanda, joystick veya kablosuz kumanda)",
+  "Halat, zincir ve sapan takımları",
+  "Kanca ve bağlantı elemanları",
+  "Fren tertibatı ve emniyet kilitleri",
+  "Ray ve bara sistemleri",
+  "Baret, iş elbisesi, iş eldiveni, koruyucu ayakkabı ve gözlük",
+  "El feneri",
+  "Yağdanlık ve gres pompası",
+  "Bakım ve kontrol kayıt defteri",
+  "Telsiz veya diğer haberleşme cihazları",
+  "İşaretleşme (el/kol sinyali) ekipmanları"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve tedbirli,",
+  "Sorumluluk sahibi,",
+  "El ve göz koordinasyonu gelişmiş,",
+  "Çevresindeki uyarıları aynı anda algılayabilen,",
+  "Mekanik sistemlere ilgili,",
+  "Yükseklikte ve kapalı/dar alanlarda çalışmaya elverişli,",
+  "Hızlı ve doğru karar verebilen,",
+  "Ekip çalışmasına uyumlu,"
+ ],
+ "gorevler": [
+  "Vincin kurulmasına yardımcı olur.",
+  "Köprü vincin genel kontrolünü yapar.",
+  "Fren tertibatını, halat sistemini, sapanı kontrol eder.",
+  "Rayları, baraları, kumanda elemanlarını, emniyet kilitlerini kontrol eder.",
+  "Malzeme kaldırma işlemleri yapar.",
+  "Kancaları yüke takar/takılmasını sağlar, yükü emniyetli taşıma mesafesine çıkarır.",
+  "Malzemenin taşınmasını sağlar.",
+  "Boşaltma/indirme alanlarını tespit eder, yükü boşaltır, indirir.",
+  "Potayı temizler.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "calisma_ortami": "\"Gezer köprü vinç operatörü, işini genellikle fabrika, atölye, depo, liman veya şantiye gibi kapalı ya da yarı açık mekânlarda; tavana monteli bir kabin içinden veya yerden kumanda cihazıyla yürütür. Çalışma ortamı gürültülü, tozlu, sıcak veya soğuk olabilir; yük altında ve yükseklikte çalışma nedeniyle iş kazası riski taşır, bu yüzden iş sağlığı ve güvenliği kurallarına titizlikle uyulması gerekir.\\n\\nİşin niteliğine göre vardiyalı çalışabilir. Görevi sırasında üretim ve depo çalışanları, sapancı/bağlama elemanı, formen/ustabaşı ve bakım personeli ile sürekli iletişim ve koordinasyon içindedir.\"",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi; Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kursları ile özel kurs merkezlerinde verilmektedir. Ayrıca işyerlerinde usta yanında işbaşı eğitimi yoluyla da bu meslek öğrenilebilmektedir.",
+  "giris_kosullari": [
+   "18 yaşını doldurmuş olmak",
+   "En az ilkokul/ilköğretim mezunu olmak",
+   "Operatörlük yapmasını engelleyecek bir sağlık probleminin (işitme, görme, denge vb.) bulunmaması"
+  ],
+  "sure_ve_icerik": "Kurs süreleri kuruma göre değişmekle birlikte genellikle iş güvenliği, vinç mekaniği ve elektrik aksamı, yük ve halat hesapları, sinyalleşme/işaretleşme kuralları gibi teorik dersler ile vinç kullanımı, bakım ve kontrol uygulamalarını içeren pratik eğitimlerden oluşur. Birçok işyerinde bu eğitim, deneyimli bir operatörün yanında işbaşında uygulamalı olarak da tamamlanır.",
+  "belge": "Eğitimi tamamlayanlara kurs katılım/operatör belgesi ya da sertifika verilir. Gezer köprü vinç operatörlüğü tehlikeli işler kapsamında değerlendirildiğinden, Mesleki Yeterlilik Kurumu (MYK) tarafından verilen Vinç Operatörü Mesleki Yeterlilik Belgesi işe alımlarda önemli bir koşul veya tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "\"Gezer köprü vinç operatörleri; metal ve makine imalatı, otomotiv, gemi inşa, çelik konstrüksiyon, cam, çimento, enerji ve inşaat malzemesi üretim tesisleri, depolar ve limanlar gibi ağır malzeme kaldırma ve taşıma işlemi yapılan kamu ve özel sektör işyerlerinde çalışabilirler. Sanayi üretimindeki ve lojistik faaliyetlerdeki artışa bağlı olarak bu alanda nitelikli eleman ihtiyacı sürmektedir.\"",
+ "kazanc": {
+  "egitim_suresince": "Kurs veya işbaşı eğitimi süresince genellikle ayrıca bir kazanç sağlanmaz; işyerinde çalışarak eğitim alan kişiler ise genellikle asgari ücret düzeyinde bir gelir elde edebilir.",
+  "egitim_sonrasi": [
+   "Kamu kurum ve kuruluşlarında işçi statüsünde çalışanlar, toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde çalışanların kazancı genellikle asgari ücret düzeyinde başlar; işyerinin büyüklüğü, kişinin deneyimi, bilgi ve becerisi ile sektörün ücret düzeyine göre değişebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Deneyim kazanan operatörler, ek eğitimlerle mobil vinç, kule vinç gibi farklı vinç türlerinde operatörlük yapabilecek bilgi ve belgeye sahip olabilir; iş sağlığı ve güvenliği ile bakım konularında ek sertifikalar edinebilir.",
+  "is_hayatinda": "Deneyimli operatörler; vardiya/ekip sorumlusu veya baş operatör gibi görevlere gelebilir, bakım ve iş güvenliği konularında eğitici/denetleyici rol üstlenebilir."
+ },
+ "benzer_meslekler": [
+  "Mobil Vinç Operatörü",
+  "Kule Vinç Operatörü",
+  "Vinç Operatörü",
+  "Gantry Crane Vinç Operatörü",
+  "Kaldırma, Taşıma Raylı Sistem Tavan Vinç Operatörü",
+  "Liman Vinç Operatörü (RTG ve SSG)"
+ ],
+ "ek_bilgiler": "\"Gezer köprü vinç operatörlüğü, mevzuat gereği tehlikeli işler kapsamında değerlendirilebilen bir meslektir; bu nedenle işyerlerinde çalışabilmek için Mesleki Yeterlilik Kurumu (MYK) belgesi aranması veya tercih sebebi olması söz konusu olabilir. Kesin belge zorunluluğu, çalışılacak işyerinin faaliyet alanına ve ilgili mevzuata göre değişebileceğinden, ilgili kurumlardan güncel bilgi alınması önerilir.\"",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T18:52:06",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5389
+  }
+ }
+}

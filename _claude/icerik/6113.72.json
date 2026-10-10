@@ -1,0 +1,77 @@
+{
+ "arac_gerec": [
+  "Toprak işleme aletleri (pulluk, kültivatör, tırmık)",
+  "Çapa, bel, kürek, tırmık gibi el aletleri",
+  "Sulama ekipmanları (hortum, sulama borusu, yağmurlama/damla sulama sistemi)",
+  "Gübre ve gübreleme ekipmanları (gübre tankı, serpme aleti)",
+  "Sırt pompası ve ilaçlama ekipmanları",
+  "Tohum elekleri, ayıklama ve temizleme ekipmanları",
+  "Hasat araçları (orak, biçer, harman/döven ekipmanları)",
+  "Tohum torbaları, çuval, etiketleme ve ambalaj malzemeleri",
+  "Koruyucu eldiven, maske, çizme, iş tulumu",
+  "Nem ölçer, termometre gibi basit ölçüm aletleri",
+  "Traktör ve tarım römorku (işletmeye göre)",
+  "Depolama kapları ve ambar ekipmanları"
+ ],
+ "genel_ozellikler": [
+  "Doğayı ve bitkileri seven,",
+  "Açık havada çalışmaya istekli ve fiziksel olarak dayanıklı,",
+  "Dikkatli ve gözlem gücü yüksek,",
+  "Sabırlı ve düzenli,",
+  "El becerisine sahip,",
+  "Zamanını iyi planlayabilen,",
+  "Ekip çalışmasına uyumlu,",
+  "Mevsim koşullarına ve değişken hava şartlarına dayanıklı"
+ ],
+ "calisma_ortami": "Tohum yetiştiricisi, büyük ölçüde açık tarla ve bahçe alanlarında çalışır; bazı işletmelerde sera veya kapalı depolama/işleme alanlarında da görev alabilir. Çalışma, güneş, sıcak, soğuk, toz ve zaman zaman çamurlu koşullara açık ortamda yürütülür; tarla hazırlığı, ekim ve hasat dönemlerinde fiziksel olarak yoğun ve uzun saatler çalışma gerekebilir. Gübreleme ve ilaçlama sırasında kimyasal maddelerle temas riski bulunduğundan iş sağlığı ve güvenliği kurallarına uyulması önemlidir.\n\nÇalışma saatleri mevsime ve tarımsal faaliyetin yoğunluğuna göre değişkenlik gösterir; ekim ve hasat dönemlerinde mesai uzayabilir. Meslek sahibi; işletme sahibi veya yöneticisi, ziraat mühendisi/teknikeri, diğer tarım işçileri ve bazı durumlarda tohum satın alan müşteriler veya tedarikçilerle iş birliği içinde çalışır.",
+ "gorevler": [
+  "İş sağlığı ve güvenliği (İSG), çevre güvenliği ile üretimde kalite için gerekli önlemleri uygular.",
+  "İş programı yapar.",
+  "Tarla hazırlığı yapar.",
+  "Ekim işlemlerini yapar.",
+  "Bakım işlemleri ile ilgili sulama yapar, çapalama ve gübreleme yapar, zirai mücadele yapar.",
+  "Hasat işlemlerini yapar.",
+  "Mesleki gelişim çalışmalarında bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Mesleğin gerektirdiği minimum eğitim düzeyi okuryazarlık olup, bu meslek için örgün öğretimde özel bir diploma programı bulunmamaktadır. Mesleğe genellikle tarım işletmelerinde işbaşında, usta yanında çalışarak veya aile işletmelerinde deneyim kazanarak girilmektedir. Halk Eğitim Merkezleri ile İŞKUR'un açtığı tarımsal üretim ve tohumculukla ilgili kısa süreli mesleki eğitim kursları ile tarım meslek lisesi veya mesleki eğitim merkezlerindeki ilgili tarım alanı programları, bu mesleğe yönelik temel bilgi ve beceri kazandırabilir.",
+  "giris_kosullari": [
+   "Okuryazar olmak yeterlidir; özel bir öğrenim şartı aranmamaktadır.",
+   "Açık alanda fiziksel olarak çalışmaya uygun bedensel yapıya sahip olmak.",
+   "Kurs ve işbaşı eğitim programlarına katılabilecek yaşta olmak."
+  ],
+  "sure_ve_icerik": "Mesleğin standart bir örgün eğitim süresi ve müfredatı bulunmamaktadır. Bilgi ve beceriler çoğunlukla işbaşında, deneyimli bir usta veya işletme sorumlusu gözetiminde zaman içinde kazanılır. Halk Eğitim Merkezleri ve İŞKUR'un açtığı tarımsal yetiştiricilik kurslarının süresi ve içeriği kuruma göre değişmekte olup; genellikle tarla/toprak hazırlığı, ekim teknikleri, sulama, gübreleme, zirai mücadele ve hasat konularını kapsar.",
+  "belge": "Örgün bir diploma yerine, katılınan kurslardan kurs katılım veya başarı belgesi alınabilir. İlgili alanda Mesleki Yeterlilik Kurumu (MYK) belgesine sahip olmak, istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Tohum yetiştiricileri; tohumculuk şirketlerinin üretim çiftliklerinde, özel tarım işletmelerinde, tarımsal kooperatiflerde, kamuya bağlı tarımsal araştırma enstitüleri ve üretim işletmelerinde iş bulabilmektedir. Deneyim ve sermaye birikimine bağlı olarak kendi tarla veya işletmesini kurarak bağımsız olarak da tohum üretimi yapabilirler. Tarım sektöründeki istihdam, bölgenin tarımsal yapısına, mevsim koşullarına ve ürün çeşidine göre değişkenlik gösterir; bazı işlerde mevsimlik/geçici çalışma yaygındır.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğe özgü standart bir örgün eğitim süreci ve buna bağlı bir ücret düzenlemesi bulunmamaktadır. İşbaşında çalışarak öğrenme sürecinde, işveren ile yapılan anlaşmaya göre ücret ödenebilir; bu dönemde sigortalılık durumu işletmenin uygulamasına bağlıdır.",
+  "egitim_sonrasi": [
+   "Yeni başlayanlarda ücret genellikle asgari ücret düzeyindedir.",
+   "Deneyim, işletmenin büyüklüğü ve üstlenilen sorumluluk arttıkça kazanç yükselebilir.",
+   "Mevsimlik veya kısmi süreli çalışmalarda ücret, çalışılan gün sayısına veya yapılan iş miktarına göre belirlenebilir.",
+   "Kamu kurumlarına bağlı tarım işletmelerinde işçi statüsünde çalışanların ücreti ilgili toplu iş sözleşmesi hükümlerine göre belirlenir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Meslek için örgün bir yükselme basamağı bulunmamaktadır. İsteyen kişiler, açık öğretim veya örgün yollarla tarım teknolojileri, bitkisel üretim veya ziraat ile ilgili mesleki ve teknik programlara yönelerek bilgi ve becerilerini geliştirebilir ve daha ileri düzey tarımsal unvanlar için gerekli öğrenimi tamamlayabilirler.",
+  "is_hayatinda": "Deneyim kazanan tohum yetiştiricileri, işletmelerde ekip başı, tarım çavuşu veya kısım şefi gibi görevlere yükselebilir. Yeterli birikim ve deneyime sahip olanlar kendi tohum üretim işletmesini kurarak bağımsız çalışabilir."
+ },
+ "benzer_meslekler": [
+  "Çiftçi (Bahçıvan)",
+  "Tarım Çavuşu",
+  "Tarım Kısım Şefi",
+  "Endüstri Bitkileri Yetiştiricisi",
+  "Sebze Fidesi Üreticisi",
+  "Çayır Mera ve Yem Bitkileri Yetiştiricisi"
+ ],
+ "ek_bilgiler": "Sertifikalı tohum üretimi yapılan işletmelerde çalışan tohum yetiştiricilerinin, ilgili tohumculuk mevzuatı çerçevesinde belirlenen kalite ve kayıt standartlarına uyması gerekebilir. Mesleğin yoğunluğu mevsimsel olup, ekim ve hasat dönemlerinde iş yükü artmaktadır.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T21:29:51",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5806
+  }
+ }
+}

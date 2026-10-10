@@ -1,0 +1,75 @@
+{
+ "gorevler": [
+  "Pamuk temizleme ve didikleme makinelerini çalıştırır.",
+  "Hidrofilleştirme (emici hale getirme) kimyasallarını hazırlar ve uygular.",
+  "Pamuğun yıkama, ağartma ve kurutma işlemlerini takip eder.",
+  "Üretilen pamuğu rulo veya paket haline getirir.",
+  "Üretim sahasının hijyen standartlarını korur.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "arac_gerec": [
+  "Pamuk temizleme ve didikleme makinesi",
+  "Hidrofilleştirme (emici hale getirme) kimyasalı hazırlama tankları",
+  "Yıkama makineleri/kazanları",
+  "Ağartma kazanları",
+  "Kurutma fırınları/kurutucular",
+  "Rulo sarma makinesi",
+  "Paketleme ve ambalajlama makinesi",
+  "Tartı ve ölçüm aletleri",
+  "Kişisel koruyucu donanım (eldiven, maske, gözlük, önlük, bone)",
+  "Malzeme taşıma arabaları",
+  "Etiketleme ekipmanları",
+  "Temizlik ve hijyen malzemeleri"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve titiz,",
+  "Fiziksel olarak dayanıklı,",
+  "Düzen ve hijyen kurallarına uyumlu,",
+  "Ekip halinde çalışabilen,",
+  "Talimatlara uygun hareket edebilen,",
+  "El ve kol kullanımında beceri sahibi,",
+  "Kimyasal maddelerle çalışırken tedbirli ve sorumluluk sahibi"
+ ],
+ "calisma_ortami": "Hidrofil pamuk imalat işçileri, tıbbi ve kişisel bakım amaçlı pamuk üreten fabrika ve atölyelerin üretim hatlarında, kapalı mekanlarda çalışır. Çalışma ortamı; makine gürültüsü, nem, pamuk lifi tozu ve kullanılan kimyasalların kokusu gibi unsurları içerebilir; bu nedenle kişisel koruyucu donanım kullanımı önemlidir. Görev genellikle tam gün sürdürülür, işletmenin üretim yoğunluğuna bağlı olarak vardiyalı çalışma söz konusu olabilir.\n\nÇalışma sırasında makine ve malzeme ile yoğun biçimde ilgilenirler; zaman zaman vardiya arkadaşlarıyla, usta/formenle ve kalite kontrol sorumlularıyla iletişim kurarlar. Üretilen ürünün tıbbi/hijyenik kullanım amacı nedeniyle temizlik ve hijyen standartlarına uyum çalışma ortamının önemli bir parçasıdır.",
+ "egitim": {
+  "verildigi_yerler": "Hidrofil pamuk imalat işçiliğinin özel/örgün bir eğitim programı bulunmamaktadır. Meslek genellikle işbaşında usta yanında yetişilerek öğrenilir. Halk Eğitim Merkezleri ve İŞKUR tarafından açılan tekstil/dokusuz yüzey üretimine ilişkin mesleki eğitim kursları da bu mesleğe hazırlayıcı nitelikte olabilir. Ayrıca ortaöğretim düzeyinde ilgili mesleki ve teknik eğitim programları (tekstil teknolojisi alanı) temel bilgi kazandırabilir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "Fiziksel olarak işin gerektirdiği koşullara uygun olmak",
+   "Kurslara katılım için genellikle belirli bir yaş ve sağlık şartı aranabilir"
+  ],
+  "sure_ve_icerik": "Resmî bir eğitim süresi ve müfredatı tanımlı değildir. İşbaşı eğitiminde makinelerin tanıtımı, kimyasal hazırlama ve uygulama, yıkama-ağartma-kurutma süreçlerinin takibi, paketleme işlemleri ile iş sağlığı, güvenliği ve hijyen kuralları uygulamalı olarak öğretilir. Açılan kurslarda ise temel tekstil üretim bilgileri, makine kullanımı ve iş güvenliği konuları verilmektedir.",
+  "belge": "İşyerinde edinilen deneyim resmî bir belgeye bağlı değildir. Kurslara katılanlara Kurs Bitirme Belgesi verilebilir. Mesleki Yeterlilik Kurumu (MYK) belgesi bulunması, istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Hidrofil pamuk imalat işçileri; tıbbi ve kişisel bakım ürünleri üreten pamuk fabrikalarında, tekstil ve dokusuz yüzey (nonwoven) üretim tesislerinde istihdam edilirler. Kamu kurumlarında doğrudan istihdam olanağı bulunmamaktadır; çalışma alanı özel sektördeki üretim tesisleriyle sınırlıdır. İşe giriş genellikle işletmelerin ilan ettiği eleman ihtiyacına veya İŞKUR aracılığıyla yapılan başvurulara göre gerçekleşir. Tecrübe ve referans, iş bulmada önemli rol oynar.",
+ "kazanc": {
+  "egitim_suresince": "Resmî bir eğitim programı bulunmadığından eğitim süresince düzenli bir kazanç söz konusu değildir. İşyerinde usta yanında çalışılarak öğrenim görüldüğünde, işletmenin uygulamasına bağlı olarak sınırlı bir ücret ödenebilir.",
+  "egitim_sonrasi": [
+   "İşe yeni başlayanların kazancı genellikle asgari ücret düzeyindedir.",
+   "Deneyim, bilgi düzeyi ve işletmedeki konuma bağlı olarak ücret artabilir.",
+   "Özel sektörde kamu statüsü bulunmadığından ücretler işveren ile çalışan arasındaki anlaşmaya ve işletme koşullarına göre değişir.",
+   "Vardiyalı çalışma durumunda ek ücret uygulamaları söz konusu olabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "İşletme bünyesinde düzenlenen hizmet içi eğitimlerle, çalışan farklı makine ve üretim aşamalarında (temizleme, hidrofilleştirme, yıkama-ağartma, kurutma, paketleme) deneyim kazanarak bilgi ve becerisini geliştirebilir.",
+  "is_hayatinda": "Deneyim kazanan işçi, vardiya amiri, usta başı veya kalite kontrol sorumlusu gibi görevlere yükselebilir. Yeterli birikim ve sermayeye sahip olanlar, uygun koşulları sağlamaları hâlinde kendi üretim işletmelerini kurabilir."
+ },
+ "benzer_meslekler": [
+  "Vatka Makinesi İşçisi",
+  "Medikal Maske İmal İşçisi",
+  "Çocuk Bezi Makinesi Operatörü",
+  "Elyaf Açma Makineleri Operatörü",
+  "Harman-Hallaç Makinesi Operatörü",
+  "Elyaf Kurutma Fırın Operatörü"
+ ],
+ "ek_bilgiler": "Hidrofil pamuk tıbbi ve kişisel bakım amaçlı kullanıldığından, üretim sürecinde hijyen ve kalite standartlarına uyulması önem taşır. Yıkama ve ağartma aşamalarında kimyasal madde kullanıldığından iş sağlığı ve güvenliği kurallarına, kişisel koruyucu donanım kullanımına dikkat edilmesi gerekir. Mesleki Yeterlilik Kurumu (MYK) belgesi, bazı işletmelerce istihdamda tercih sebebi olabilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T14:58:56",
+  "usage": {
+   "input_tokens": 4,
+   "output_tokens": 7230
+  }
+ }
+}

@@ -1,0 +1,91 @@
+{
+ "arac_gerec": [
+  "Işık ve floresan mikroskop",
+  "Otoklav ve diğer sterilizasyon cihazları",
+  "Laminar akış (biyogüvenlik) kabini",
+  "Etüv, inkübatör ve soğutmalı dolaplar",
+  "Besiyerleri (agar, broth) ve kimyasal katkı maddeleri",
+  "Petri kapları, lam-lamel, öze, pipet",
+  "PCR cihazı ve moleküler biyoloji ekipmanları",
+  "Santrifüj",
+  "Hassas tartı, pH metre",
+  "Kişisel koruyucu donanım (eldiven, önlük, maske, gözlük)",
+  "Bilgisayar, projeksiyon cihazı ve sunum yazılımları",
+  "İstatistik ve literatür tarama yazılımları, bilimsel veri tabanları",
+  "Ders materyalleri (sunum, sınav kağıdı, ödev ve tez dokümanları)",
+  "Alanıyla ilgili bilimsel yayın ve dergiler"
+ ],
+ "genel_ozellikler": [
+  "Fen bilimlerine ve araştırmaya ilgili,",
+  "Analitik ve sistematik düşünme yeteneğine sahip,",
+  "Dikkatli, titiz ve sabırlı,",
+  "Yazılı ve sözlü anlatım becerisi gelişmiş,",
+  "En az bir yabancı dili iyi düzeyde kullanabilen,",
+  "Ekip çalışmasına yatkın,",
+  "Sorumluluk sahibi ve güvenilir,",
+  "Kendini ve bilgisini sürekli güncellemeye istekli,"
+ ],
+ "calisma_ortami": "Farmasötik Mikrobiyoloji Öğretim Üyesi, zamanının önemli bir kısmını üniversitenin eczacılık fakültesi bünyesindeki mikrobiyoloji laboratuvarlarında, bir kısmını ise derslik, ofis ve toplantı ortamlarında geçirir. Laboratuvar ortamında mikroorganizmalar, kimyasal maddeler ve sterilizasyon cihazlarıyla çalışıldığından biyogüvenlik kurallarına ve kişisel koruyucu donanım kullanımına dikkat edilmesi gerekir; dikkatsizlik durumunda enfeksiyon ve kimyasal maruziyet riski bulunur.\\n\\nÇalışma saatleri genellikle ders programına bağlı olmakla birlikte, araştırma, proje, yayın hazırlama ve tez danışmanlığı gibi faaliyetler nedeniyle mesai saatleri dışında da çalışma gerekebilir; bilimsel toplantılar için yurt içi ve yurt dışı seyahat söz konusu olabilir. Çalışması sırasında öğrencilerle, akademik meslektaşlarıyla, laboratuvar teknisyenleriyle, üniversite yönetimiyle ve ilgili kamu/özel sektör kuruluşlarıyla yoğun iletişim kurar.",
+ "egitim": {
+  "verildigi_yerler": "Bu mesleğin eğitimi, doğrudan bir lisans programı olarak değil; eczacılık fakültesi lisans eğitiminin ardından üniversitelerin sağlık bilimleri enstitülerine bağlı farmasötik mikrobiyoloji anabilim dallarında yürütülen yüksek lisans ve doktora programlarıyla kazanılır.",
+  "giris_kosullari": [
+   "Lise veya dengi okuldan mezun olmak ve YKS ile Eczacılık Fakültesi (veya ilgili bir fen/sağlık bilimleri) lisans programına yerleşmek,",
+   "Lisans eğitimini tamamladıktan sonra ALES ve gerekli yabancı dil şartlarını sağlayarak farmasötik mikrobiyoloji alanında yüksek lisans ve doktora programına kabul edilmek,",
+   "Doktora derecesini tamamladıktan sonra üniversitelerin akademik personel ilanlarına başvurarak ilgili mevzuatta belirtilen şartları (yayın, sınav/mülakat vb.) sağlamak."
+  ],
+  "sure_ve_icerik": "Eczacılık fakültesi lisans eğitimi genellikle 5 yıl sürer. Bunu izleyen farmasötik mikrobiyoloji alanındaki yüksek lisans ve doktora eğitimi toplamda yaklaşık 5-8 yıl sürmektedir. Eğitim; mikroorganizmaların üretimi, sterilizasyon teknikleri, antimikrobiyal aktivite ve direnç mekanizmaları araştırmaları, farmasötik ürünlerin mikrobiyolojik analizi, moleküler biyoloji yöntemleri ve bilimsel araştırma yöntemleri gibi konuları ve bir tez çalışmasını kapsar.",
+  "belge": "Eğitimi başarıyla tamamlayanlar doktora diploması alır. Doktora sonrası üniversitelerde göreve başlayanlara önce doktor öğretim üyesi unvanı verilir; ilgili akademik süreçler (yayın, sınav vb.) tamamlandığında doçentlik ve profesörlük unvanlarına yükselinebilir."
+ },
+ "gorevler": [
+  "Mikroorganizmaların özelliklerini inceler.",
+  "Mikroorganizmaları çalışmalarda kullanılmak üzere en iyi şekilde üretme çalışmaları yapar.",
+  "Ortamın steril olması ve çalışmaların sağlıklı olması için sterilizasyon tekniklerini uygular.",
+  "Tasarım halindeki yeni ilaç maddelerinin in-vitro antimikrobiyal aktivitelerini araştırır.",
+  "Farmasötik ürünlerin mikrobiyolojik analizlerini yapar.",
+  "Dirençli mikroorganizmaların moleküler yöntemlerle direnç mekanizmalarını araştırır.",
+  "Mikrobiyoloji bilimindeki gelişmelerin devam ettirilmesi için dokümantasyona ve diğer kaynaklara dayanan çalışmalar yapar.",
+  "Bilimsel yöntem oluşturur, geliştirir, uygular.",
+  "Yükseköğretim kurumlarında alanı ile ilgili bilimsel araştırma ve projeler üretir ve yapar.",
+  "Araştırma sonuçlarını ilgili ulusal ve uluslararası bilimsel toplantı ve kongrelerde sunar ya da bilimsel dergilerde veya elektronik formatlarda yayınlar.",
+  "Araştırma ya da projelerin uygulamaya dönük sonuçlarını ilgili kurum ve kuruluşlarla paylaşır.",
+  "Yükseköğretim kurumlarında eğitim, öğretim ve uygulama çalışmaları yapar ve yaptırır, müfredat programlarını geliştirir, yeniler ve uygular.",
+  "Ders yılı içerisinde ve bitiminde öğrencilerin bilgi düzeyinin ölçülmesi için ödevler hazırlatır, sınavlar yapar, sınav kağıtlarını okuyup değerlendirir, sonuçlarını idareye bildirir.",
+  "Lisansüstü öğrencilerine tez konularını verir ya da tez konularının seçiminde öğrencilere yardımcı olur ve çalışmalarını izler.",
+  "İlgili birim başkanlığınca düzenlenecek programa göre, belirli günlerde öğrencileri kabul ederek onlara gerekli konularda yardımcı olur, ilgili kanundaki amaç ve ana ilkeler doğrultusunda yol gösterir ve rehberlik eder.",
+  "Kamu ve özel sektörde bilimsel danışmanlık yapar, alanı ile ilgili konularda bilirkişilik yapar.",
+  "Çeşitli bilimsel yayınlarda hakemlik yapar, yurt içi ve yurt dışında konferanslar verir.",
+  "Gerektiğinde idari sorumluluk yüklenir.",
+  "Konusundaki gelişme ve yenilikleri izleyip araştırmalar yapar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "calisma_alanlari": "Farmasötik Mikrobiyoloji Öğretim Üyesi, başta devlet ve vakıf üniversitelerinin eczacılık fakültelerine bağlı farmasötik mikrobiyoloji anabilim dallarında görev yapar. Ayrıca ilaç sanayinin Ar-Ge birimlerinde, kamu ve özel sağlık/araştırma kurumlarında bilimsel danışman veya araştırmacı olarak, bazı durumlarda ise bilirkişilik ve hakemlik gibi görevlerde yer alabilir.",
+ "kazanc": {
+  "egitim_suresince": "Lisans eğitimi sırasında öğrenciler Yüksek Öğrenim Kredi ve Yurtlar Kurumu'nun kredi/yurt imkânlarından ve çeşitli burslardan yararlanabilir. Yüksek lisans ve doktora döneminde üniversitelerde araştırma görevlisi kadrosunda görev alanlar 657 sayılı Devlet Memurları Kanunu'na göre maaş alır; ayrıca TÜBİTAK ve benzeri kurumların doktora burslarından yararlanılabilir.",
+  "egitim_sonrasi": [
+   "Kamu üniversitelerinde görev yapanlar 657 sayılı Devlet Memurları Kanunu'na göre akademik unvan ve kademelerine uygun maaş ile ek ders ve döner sermaye gibi ödemeler alır.",
+   "Vakıf üniversitelerinde ücret, üniversite ile yapılan sözleşmeye göre değişkenlik gösterir.",
+   "Deneyim, akademik unvan (doktor öğretim üyesi, doçent, profesör) ve yürütülen proje/danışmanlık faaliyetleri kazancı etkileyen önemli etkenlerdir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Doktora eğitimini tamamlayanlar üniversitelerde doktor öğretim üyesi olarak göreve başlar. Yayın, proje ve akademik performans kriterlerini sağlayarak sırasıyla doçentlik ve profesörlük unvanlarına yükselebilirler.",
+  "is_hayatinda": "Deneyim ve akademik birikim arttıkça anabilim dalı başkanlığı, bölüm başkanlığı, enstitü/fakülte yöneticiliği gibi idari görevlere getirilebilir; ulusal ve uluslararası proje yürütücülüğü, bilimsel danışmanlık ve kurul üyelikleri gibi sorumluluklar üstlenebilir."
+ },
+ "benzer_meslekler": [
+  "Eczacılık Temel Bilimleri Öğretim Üyesi",
+  "Eczacılık İşletmeciliği Öğretim Üyesi",
+  "Biyokimya Öğretim Üyesi",
+  "Biyoloji Öğretim Üyesi",
+  "Analitik Kimya Öğretim Üyesi",
+  "Besin Analizleri Öğretim Üyesi"
+ ],
+ "ek_bilgiler": "Bu meslekte akademik kadroya giriş ve yükselme, YÖK ile ilgili üniversite senatolarının belirlediği atama ve yükseltme kriterlerine (yayın sayısı ve niteliği, proje, sınav/mülakat vb.) bağlıdır; bu kriterler zaman içinde ve üniversiteden üniversiteye değişebilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T00:44:46",
+  "usage": {
+   "input_tokens": 4,
+   "output_tokens": 12087
+  }
+ }
+}

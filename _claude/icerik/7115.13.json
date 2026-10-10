@@ -1,0 +1,79 @@
+{
+ "arac_gerec": [
+  "El testeresi ve elektrikle çalışan testere tezgahı (daire/şerit testere)",
+  "Planya makinesi",
+  "Ağaç torna tezgahı",
+  "Delik delme/matkap makinesi",
+  "Zımpara makinesi ve zımpara kağıdı",
+  "Metre, gönye ve çizecek gibi ölçü-işaretleme aletleri",
+  "Çekiç, tokmak ve keser",
+  "Çivi, vida ve tutkal/yapıştırıcı malzemeler",
+  "Mengene/işkence",
+  "Tornavida, kerpeten, eğe ve törpü gibi el aletleri",
+  "Çeşitli rende ve bıçaklar",
+  "Koruyucu gözlük, eldiven, kulaklık ve maske gibi kişisel koruyucu donanımlar",
+  "İşlenecek ağaç malzeme (kereste, kontrplak, suntalam vb.)"
+ ],
+ "benzer_meslekler": [
+  "Marangoz",
+  "Atölye Marangozu",
+  "Doğramacı/Ahşap Doğramacı",
+  "Diğer Marangozlar ve Doğramacılar",
+  "Ahşap Şekillendirmeci"
+ ],
+ "calisma_alanlari": "Meslek elemanları, metal veya ağaç işleyen makine ve tezgahların üretildiği fabrika ve atölyelerde; bu tür makinelerin satışını, bakımını ve onarımını yapan işletmelerde çalışabilir. Ayrıca ağaç işleme sanayisine makine ve tezgah üreten firmaların üretim ve servis birimlerinde, mobilya ve dekorasyon fabrikalarının makine bakım birimlerinde de istihdam edilirler.\n\nMeslekte iş bulma olanağı, ülkedeki sanayi üretimi ve ağaç işleme sektörünün gelişimine bağlı olarak değişmektedir. Mesleki bilgi ve becerisini geliştiren, makine mekaniğine de hakim olan kişilerin iş bulma şansı daha yüksektir. Girişimcilik özelliğine sahip olanlar, kendi atölyelerini açarak bu alanda bakım-onarım hizmeti verebilirler.",
+ "calisma_ortami": "Meslek elemanları genellikle kapalı mekanlarda, fabrika ve atölye ortamlarında çalışır. Çalışma ortamı talaş tozu, makine gürültüsü ve bazı durumlarda yapıştırıcı/boya kokusuyla yüklü olabilir. Kesici ve dönen parçalı makinelerle çalışıldığından iş güvenliği kurallarına ve koruyucu donanım kullanımına dikkat edilmesi gerekir. Çalışma sırasında ayakta durma, eğilme ve zaman zaman ağır parça kaldırma gibi beden gücü gerektiren işler yapılır.\n\nÇalışma saatleri genellikle işyerinin mesai düzenine göre belirlenir; iş yoğunluğuna bağlı olarak fazla çalışma gerekebilir. Meslek elemanı çalışma sırasında ustabaşı, mühendisler, diğer atölye çalışanları ve bazı durumlarda müşterilerle iletişim kurar.",
+ "egitim": {
+  "verildigi_yerler": "Bu meslek dalına özgü ayrı ve bağımsız bir resmi mesleki eğitim programı bulunmamaktadır. Meslek elemanları genellikle Mesleki Eğitim Merkezlerinin ağaç işleri/doğramacılık ile ilgili alanlarında temel marangozluk eğitimi aldıktan sonra, metal veya ağaç işleyen makine üreten ya da bu makinelerin bakım-onarımını yapan işletmelerde usta yanında işbaşında eğitim görerek yetişmektedir. Ayrıca Halk Eğitim Merkezleri ile İŞKUR tarafından açılan marangozluk/doğramacılık kurslarından da yararlanılabilir.",
+  "giris_kosullari": [
+   "En az ortaokul mezunu olmak (çıraklık eğitimi için)",
+   "14 yaşını doldurmuş olmak",
+   "Eğitim görmek istenilen meslekte bir işyeri bulup işveren ile çıraklık sözleşmesi imzalamak",
+   "Mesleğin gerektirdiği bedensel koşullara ve sağlık durumuna uygun olmak"
+  ],
+  "sure_ve_icerik": "Mesleki eğitim merkezlerinde ağaç işleri/doğramacılık alanında eğitim, genellikle haftada bir gün okulda teorik derslerle, diğer günler işyerinde uygulamalı olarak verilir; örgün çıraklık eğitiminin süresi ortaokul sonrası genellikle 4 yıl olup bunun 3 yılı kalfalık, 1 yılı ustalık eğitimidir. Bu mesleğe özgü bağımsız bir program bulunmadığından, meslek elemanlarının çoğu önce genel marangozluk/doğramacılık bilgisini edinir, ardından metal veya ağaç işleyen makinelerin ağaç aksamının yapımı ve onarımı konusunda işbaşında deneyim kazanarak uzmanlaşır.",
+  "belge": "Mesleki eğitim merkezini başarıyla tamamlayanlara kalfalık, ardından ustalık belgesi verilir. İşbaşında yetişenler için resmi bir belge zorunluluğu bulunmamakla birlikte, Mesleki Yeterlilik Kurumu (MYK) tarafından ilgili ağaç işleri alanında düzenlenen yeterlilik belgesi istihdamda tercih sebebi olabilir."
+ },
+ "ek_bilgiler": "Bu meslek, genel marangozluk/doğramacılık bilgisinin yanı sıra metal veya ağaç işleyen makinelerin yapısı hakkında da temel bilgi gerektirdiğinden, sanayi marangozluğu ile makine bakım-onarım alanlarının kesiştiği özel bir uzmanlık dalıdır. Bu nedenle meslek elemanları genellikle ilgili makineleri üreten veya onarım servisi veren işletmelerde deneyim yoluyla yetişmektedir.",
+ "genel_ozellikler": [
+  "El becerisine sahip,",
+  "El ve gözünü eşgüdümlü kullanabilen,",
+  "Ölçü ve teknik çizimleri okuyup uygulayabilen,",
+  "Dikkatli ve tedbirli,",
+  "Makine ve el aletleriyle çalışmaktan hoşlanan,",
+  "Fiziksel olarak dayanıklı,",
+  "Sabırlı ve düzenli çalışabilen,",
+  "Takım halinde çalışmaya uyumlu"
+ ],
+ "gorevler": [
+  "Makinelerin ağaç aksamlarını kontrol ederek tamir veya yeniden inşa edileceklerini tespit eder.",
+  "Yapılacak işin ölçülerine ve cinsine göre kullanacağı ağaç malzemeyi seçer.",
+  "Seçtiği malzemeyi ölçülere göre işaretler.",
+  "El testeresi veya elektrikle çalışan testere tezgahını kullanarak malzemeyi keser.",
+  "Planya, torna ve diğer ağaç işleyen tezgahlarda kesilen malzemeyi şekillendirir.",
+  "Hazır olan parçaları tezgah üzerinde birleştirerek ilgili makineye monte eder veya doğrudan makine üzerine monte eder.",
+  "İş bitiminde kullandığı takımların ve tezgahların bakım ve temizliğini yapar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleki eğitim merkezinden kalfalık belgesi alanlar, mesleki eğitimlerine devam ederek ustalık belgesi alabilir. İsteyen kişiler açık öğretim yoluyla orta öğretimini tamamlayarak ilgili teknik eğitim programlarına geçiş yapabilir.",
+  "is_hayatinda": "Meslekte deneyim kazanan kişiler usta, ustabaşı veya atölye/bölüm sorumlusu konumuna gelebilir. Girişimcilik özelliği olan ve yeterli sermayeye sahip olanlar, kendi atölyelerini açarak makinelerin ağaç aksamının imalatı ve onarımı konusunda bağımsız olarak çalışabilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Çıraklık/mesleki eğitim kapsamında işletmelerde eğitim gören kişilere 3308 sayılı Mesleki Eğitim Kanunu gereğince asgari ücretin belirli bir oranında ücret ödenir ve iş kazası ile meslek hastalıkları sigortası devletçe karşılanır. İşbaşında usta yanında yetişenlerde ücret, işveren ile yapılan anlaşmaya göre değişebilir.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanların kazancı genellikle asgari ücret düzeyindedir.",
+   "Deneyim, bilgi, beceri ve çalışılan işletmenin büyüklüğüne göre kazanç artış gösterebilir.",
+   "Kamu kurum ve kuruluşlarının atölyelerinde işçi statüsünde çalışanların ücreti toplu iş sözleşmesi hükümlerine göre belirlenir.",
+   "Kendi işyerini açarak çalışanların kazancı işin hacmine ve müşteri potansiyeline göre değişkenlik gösterir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T22:42:13",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6581
+  }
+ }
+}

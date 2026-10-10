@@ -1,0 +1,88 @@
+{
+ "arac_gerec": [
+  "Steteskop",
+  "Tansiyon aleti",
+  "Beden termometresi",
+  "Refleks çekici",
+  "Dil baskısı",
+  "Otoskop (kulak muayene aleti)",
+  "Oftalmoskop (göz muayene aleti)",
+  "EKG (elektrokardiyografi) cihazı",
+  "Pulse oksimetre",
+  "Kan şekeri ölçüm cihazı",
+  "Elektronik hasta kayıt ve bilgi sistemleri",
+  "Laboratuvar tetkik sonuçlarını değerlendirme yazılımları",
+  "Görüntüleme tetkiki (röntgen, ultrason, tomografi, MR) sonuçlarını izleme araçları",
+  "Enjektör ve basit müdahale malzemeleri",
+  "Hasta dosyası ve reçete yazım sistemleri"
+ ],
+ "genel_ozellikler": [
+  "Üstün bir belleğe ve analitik düşünme yeteneğine sahip,",
+  "Biyoloji, kimya ve tıp bilimlerine ilgi duyan ve bu alanlarda başarılı,",
+  "Dikkatli, sabırlı ve soğukkanlı,",
+  "Hasta ve hasta yakınlarıyla etkili iletişim kurabilen,",
+  "Sorumluluk sahibi ve özverili çalışabilen,",
+  "Mesleki gelişmeleri sürekli takip etme isteğinde olan,",
+  "Ekip çalışmasına uyumlu,",
+  "Stres altında doğru ve hızlı karar verebilen"
+ ],
+ "calisma_ortami": "İç hastalıkları (dahiliye) uzmanları; kamu ve özel hastanelerde, üniversite hastanelerinde, eğitim ve araştırma hastanelerinde, polikliniklerde ve muayenehanelerde görev yaparlar. Çalışma alanları başta dahiliye servisleri ve poliklinikler olmak üzere, gerektiğinde yoğun bakım üniteleridir. Çalışma ortamı genellikle temiz ve kapalı mekândır; ancak bulaşıcı hastalık riski taşıyan hastalarla teması nedeniyle enfeksiyon riski bulunabilir, bu nedenle hijyen ve koruyucu ekipman kullanımına özen gösterilir.\n\nÇalışma saatleri genellikle düzenli poliklinik saatleri şeklindedir; ancak servis takibi, nöbet sistemi ve acil durumlar nedeniyle gece ve hafta sonu çalışma, uzun ve değişken mesai söz konusu olabilir. Görevleri sırasında hastalar ve hasta yakınları, hemşireler, diğer branş hekimleri, cerrahi bölümler ve sağlık teknisyenleriyle sürekli iş birliği ve iletişim içinde çalışırlar.",
+ "gorevler": [
+  "Hastanın şikâyeti ve tıbbi öyküsü hakkında ayrıntılı bilgi alır, ailesi hakkında bilgi alır ve hasta formuna kaydeder.",
+  "Hastanın fiziki muayenesini yapar.",
+  "Teşhise yönelik idrar, kan, tam kan, biyokimya, röntgen, ultrason, ilaçlı filmler, endoskopi vb. tetkikleri ister.",
+  "Tanıya yönelik daha ileri tetkiklere ihtiyaç duyulduğunda hastayı ilgili uzmanlık alanına sevk eder.",
+  "Muayene bulguları ve tetkik sonuçlarına göre hastalığın teşhis, tedavisi ve izlenmesi için verileri yorumlar ve değerlendirir.",
+  "Teşhise göre ilaç yazar ve koruyucu hekimlik konularında hastayı bilgilendirir.",
+  "Hasta veya hasta yakınına hastalık, hastalığın tedavi ve seçenekleri, riskleri, korunma yöntemleri hakkında bilgi verir.",
+  "Dahiliye hastalarının takip ve kontrollerini yapar, hasta raporlarını hazırlar.",
+  "Hastalığın seyrine göre tedavi değişikliğine karar verir.",
+  "İç hastalıklarla ilgili hastalara tavsiye ve önerilerde bulunur.",
+  "Dahiliye dışı birimlerden istenen (preoperatif değerlendirmeler dahil) konsültasyonları değerlendirir.",
+  "Yoğun bakım ünitesinde ve dahiliye servislerinde izlenmesi sırasında yoğun bakım tedavisi gerekli olan, ölüm riski yüksek, ağır hastaların takip ve tedavisini yapar.",
+  "Şeker hastalığı, karaciğer hastalıkları, böbrek hastalıkları, kan hastalıkları, sindirim sistemi hastalıkları, enfeksiyon hastalıkları, solunum sistemi hastalıkları, hormon hastalıkları, romatizmal hastalıklar ve şişmanlık gibi hastalıkların tanı ve tedavi hizmetlerini yürütür.",
+  "Tanısını koyduğu hastayı, cerrahi tedavi gerektiği durumlarda genel cerrahi başta olmak üzere ilgili cerrahi branşlara yönlendirir.",
+  "Ameliyat öncesi ve ameliyat sonrası dönemde hastanın kalp, akciğer, böbrek gibi organ fonksiyonlarını değerlendirerek ilgili konsültasyon hizmetini verir.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi, üniversitelerin tıp fakültelerinde verilen lisans eğitiminin ardından, Tıpta Uzmanlık Sınavı (TUS) ile yerleşilen eğitim ve araştırma hastaneleri veya üniversite hastanelerinin iç hastalıkları anabilim dallarında uzmanlık eğitimi şeklinde tamamlanır.",
+  "giris_kosullari": [
+   "Lise veya dengi okul mezunu olmak",
+   "YKS (Yükseköğretim Kurumları Sınavı) sonucuna göre bir tıp fakültesini kazanmış olmak",
+   "Tıp fakültesi eğitimini tamamladıktan sonra Tıpta Uzmanlık Sınavı (TUS) ile iç hastalıkları alanında uzmanlık eğitimine yerleşecek başarıyı sağlamış olmak"
+  ],
+  "sure_ve_icerik": "Tıp fakültesi eğitimi teorik ve uygulamalı olarak 6 yıl sürer. İlk yıllarda fen bilimleri ve temel tıp bilimleri (anatomi, fizyoloji, biyokimya vb.) dersleri okutulur; sonraki yıllarda klinik stajlarla hastane içinde hasta başı eğitim verilir. Son sınıfta öğrenciler intern olarak eğitim hastanelerinde bir hekim gibi çalışarak uygulamalı eğitim görür.\n\nTıp fakültesinden mezun olduktan sonra TUS ile iç hastalıkları branşına yerleşenler, eğitim ve araştırma hastaneleri veya üniversite hastanelerinde asistan hekim olarak genellikle 4-5 yıl süren uzmanlık eğitimi alırlar. Bu süreçte hasta takibi, tanı ve tedavi süreçleri, servis ve poliklinik uygulamaları, nöbetler ve bilimsel çalışmalarla uygulamalı ve teorik eğitim görürler.",
+  "belge": "Tıp fakültesi eğitimini tamamlayanlara lisans diploması (tıp doktoru unvanı) verilir. Uzmanlık eğitimini başarı ile tamamlayanlar İç Hastalıkları (Dahiliye) Uzmanlık Belgesi almaya hak kazanır ve bu belge Sağlık Bakanlığı tarafından tescil edilir."
+ },
+ "calisma_alanlari": "İç hastalıkları (dahiliye) uzmanları; kamu hastaneleri, üniversite hastaneleri, eğitim ve araştırma hastaneleri, özel hastaneler ve polikliniklerde hekim olarak çalışabilir, ayrıca muayenehane açarak serbest meslek icra edebilirler. Hastanelerin dahiliye servisi, poliklinik ve gerektiğinde yoğun bakım üniteleri temel çalışma alanlarıdır.\n\nUzmanlık eğitimi sonrasında gastroenteroloji, nefroloji, endokrinoloji ve metabolizma hastalıkları, hematoloji, romatoloji, geriatri ve yoğun bakım gibi alanlarda yandal uzmanlığı alarak daha özelleşmiş alanlarda çalışabilirler. Kronik hastalıkların (diyabet, hipertansiyon, obezite, kalp-damar hastalıkları vb.) toplumda yaygınlaşması nedeniyle iç hastalıkları uzmanlarına yönelik istihdam talebinin sürmesi beklenmektedir.",
+ "kazanc": {
+  "egitim_suresince": "Tıp fakültesi öğrencileri, öğrenim süresince Kredi ve Yurtlar Genel Müdürlüğünün sağladığı öğrenim kredisi ve yurt hizmetlerinden, ayrıca çeşitli resmi ve özel kurum/kuruluşların burslarından yararlanabilirler. TUS sonrası uzmanlık eğitimi (asistanlık) döneminde, eğitim ve araştırma hastaneleri veya üniversite hastanelerinde araştırma görevlisi/asistan hekim olarak çalışılır ve bu süre boyunca kamu mevzuatına göre maaş alınır.",
+  "egitim_sonrasi": [
+   "Kamu hastanelerinde çalışanlar 657 sayılı Devlet Memurları Kanunu'na göre maaş ve döner sermaye ek ödemesi alırlar.",
+   "Özel hastane ve polikliniklerde çalışanların kazancı, deneyime, kuruma ve performansa göre karşılıklı anlaşma ile belirlenir.",
+   "Muayenehane açarak serbest çalışanların kazancı, hasta sayısına, bölgeye ve mesleki tecrübeye göre değişiklik gösterir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "İç hastalıkları uzmanları, uzmanlık eğitimi sonrasında gastroenteroloji, nefroloji, endokrinoloji ve metabolizma hastalıkları, hematoloji, romatoloji, geriatri gibi alanlarda üst uzmanlık (yandal) eğitimi alarak ilerleyebilirler. Akademik kariyer yapmak isteyenler, bilimsel çalışmalar ve akademik sınavlarla üniversitelerde öğretim üyesi (doktor öğretim üyesi, doçent, profesör) unvanlarına yükselebilirler.",
+  "is_hayatinda": "Kamuda klinik şefliği, başhekim yardımcılığı veya başhekimlik gibi idari görevlere yükselebilirler. Özel sektörde hastane veya poliklinik yöneticiliğine yönelebilir ya da kendi muayenehanelerini açarak serbest çalışabilirler. Mesleki tecrübe ve bilinirlik arttıkça hasta sayısı ve buna bağlı kazanç da artabilir."
+ },
+ "benzer_meslekler": [
+  "Gastroenteroloji Uzmanı",
+  "Endokrinoloji ve Metabolizma Hastalıkları Uzmanı",
+  "Nefroloji Uzmanı",
+  "Hematoloji Uzmanı",
+  "Romatoloji Uzmanı",
+  "Göğüs Hastalıkları Uzmanı"
+ ],
+ "ek_bilgiler": "İç hastalıkları (dahiliye) uzmanlığı, gastroenteroloji, nefroloji, endokrinoloji, hematoloji ve romatoloji gibi birçok yandal uzmanlığının temelini oluşturan bir iç tıp branşıdır. Mesleğin icrası için tıp fakültesi diplomasının Sağlık Bakanlığınca tescil edilmesi ve uzmanlık eğitiminin tamamlanarak uzmanlık belgesi alınması gerekmektedir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-07T22:30:05",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 8444
+  }
+ }
+}

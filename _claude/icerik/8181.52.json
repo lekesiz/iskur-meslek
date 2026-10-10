@@ -1,0 +1,77 @@
+{
+ "arac_gerec": [
+  "Öğütme (değirmen) makinesi",
+  "Hammadde besleme deposu/silosu",
+  "Su vanası ve su besleme hattı",
+  "Makine kontrol paneli/şalter tablosu",
+  "Konveyör bant veya elevatör",
+  "Forklift veya el arabası (hammadde taşıma amaçlı)",
+  "Yağlama ekipmanları",
+  "Çeşitli el aletleri (anahtar, tornavida, pense)",
+  "Koruyucu iş elbisesi ve çelik burunlu ayakkabı",
+  "Baret",
+  "Toz maskesi",
+  "Koruyucu eldiven",
+  "Kulak koruyucu (kulaklık/tıkaç)",
+  "Temizlik malzemeleri ve ekipmanları"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve tedbirli,",
+  "Sorumluluk sahibi,",
+  "Makine ve teçhizat kullanımına yatkın,",
+  "Fiziksel olarak dayanıklı,",
+  "Talimatlara uyan,",
+  "Ekip çalışmasına uygun,",
+  "Tertipli ve düzenli,",
+  "Vardiyalı çalışmaya uygun"
+ ],
+ "calisma_ortami": "Öğütme ve çamur makinesi operatörü, tuğla, kiremit, seramik ve benzeri inşaat elemanlarının üretildiği fabrikalarda, genellikle kapalı atölye ve üretim hatlarında çalışır. Çalışma ortamında toz, gürültü ve nem bulunabilir; bu nedenle kişisel koruyucu donanım kullanımı önemlidir. Çalışma genellikle ayakta ve makine başında geçer, işin niteliğine göre vardiyalı çalışma söz konusu olabilir.\n\nGörevini yerine getirirken üretim hattındaki diğer işçiler, usta/ustabaşı ve bakım-onarım personeli ile iş birliği içinde çalışır. Makinenin otomatik çalışmasına nezaret etmesi nedeniyle uzun süre dikkatini makineye vermesi gerekir.",
+ "gorevler": [
+  "İşletmenin genel çalışma prensipleri doğrultusunda, araç, gereç ve ekipmanları etkin bir şekilde kullanarak, işçi sağlığı, iş güvenliği ve çevre koruma düzenlemelerine ve mesleğin verimlilik ve kalite gereklerine uygun olarak çalışır.",
+  "Öğütülecek maddeleri değirmenin deposuna doldurur.",
+  "Değirmeni çalıştırır ve öğütülen maddenin çamur haline gelmesi için su vanasını açar.",
+  "Değirmenin otomatik çalışmasına nezaret ederek katı maddelerin öğütülüp suyla karıştırılmak suretiyle çamur haline gelmesini sağlar.",
+  "Değirmenin bakım ve temizliğini yapar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Bu mesleğe yönelik örgün bir okul programı bulunmamaktadır. Meslek, genellikle tuğla, kiremit, seramik ve benzeri inşaat elemanları üreten fabrikalarda işbaşında, deneyimli bir usta veya operatör yanında yetişilerek öğrenilmektedir. Ayrıca Halk Eğitim Merkezleri ve İŞKUR'un açtığı ilgili mesleki eğitim kurslarında da bu alana yakın konularda kısa süreli kurslar düzenlenebilmektedir.",
+  "giris_kosullari": [
+   "İlköğretim mezunu olmak",
+   "18 yaşını doldurmuş olmak",
+   "Sağlık durumunun bu işe (ağır kaldırma, makine başında çalışma, toz ve gürültülü ortam) uygun olması"
+  ],
+  "sure_ve_icerik": "İşbaşında yetişme süresi, işletmenin büyüklüğüne ve makinenin özelliğine göre değişmekle birlikte genellikle birkaç haftadan birkaç aya kadar sürebilir. Eğitim sürecinde; değirmenin çalışma prensibi, hammaddenin depoya doldurulması, su oranının ayarlanması, makinenin otomatik çalışmasının takibi, basit bakım ve temizlik işlemleri ile iş sağlığı ve güvenliği kuralları uygulamalı olarak öğretilir.",
+  "belge": "İşbaşında yetişme yoluyla edinilen bu mesleğin sonunda, genel olarak resmî bir diploma veya sertifika verilmemektedir. Kurs yoluyla alınan eğitimlerde ise kursu düzenleyen kurum tarafından katılım/kurs bitirme belgesi verilebilir."
+ },
+ "calisma_alanlari": "Öğütme ve çamur makinesi operatörleri; tuğla, kiremit ve benzeri inşaat elemanlarının üretildiği fabrikalarda, kil ve kaya öğütme tesislerinde, seramik ve çimento üretimi yapan işletmelerde istihdam edilmektedir. İş bulma olanakları, inşaat sektöründeki üretim hacmine ve bu ürünlere olan talebe bağlı olarak değişkenlik gösterebilir. İnşaat sektöründeki canlılık, mesleğe olan talebi doğrudan etkilemektedir.",
+ "kazanc": {
+  "egitim_suresince": "Meslek genellikle işbaşında öğrenildiğinden, eğitim süresince işletmenin uygulamasına göre asgari ücret düzeyinde bir kazanç sağlanabilir; bazı işletmelerde bu dönemde herhangi bir ücret ödenmeyebilir.",
+  "egitim_sonrasi": [
+   "İşe başlangıçta genellikle asgari ücret düzeyinde kazanç sağlanır.",
+   "Deneyim, işletmenin büyüklüğü ve çalışılan sektöre göre ücret zamanla artabilir.",
+   "Özel sektörde çalışıldığı için ücret, işveren ile çalışan arasındaki anlaşmaya ve işletme politikalarına göre değişebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğin örgün bir eğitim basamağı bulunmadığından, mesleki eğitimde ilerleme imkânı sınırlıdır. Çalışanlar, işletme içi veya kurum dışı kurslarla bilgi ve becerilerini geliştirebilir.",
+  "is_hayatinda": "Deneyim kazanan operatörler, zaman içinde vardiya sorumlusu, ekip lideri veya usta gibi görevlere yükselebilir. Ayrıca üretim hattındaki farklı makinelerin kullanımını öğrenerek diğer makine operatörlüğü görevlerine geçiş yapabilirler."
+ },
+ "benzer_meslekler": [
+  "Kil Çamuru Hazırlayıcısı",
+  "Kil Hamur Makinesi Operatörü",
+  "Kil Hamuru Vakum Makinesi İşçisi",
+  "Kil Şerbeti Hazırlama Makinesi Operatörü",
+  "Kaya ve Kil Öğütme İşçisi",
+  "Karıştırıcı (İnşaat Elemanları)"
+ ],
+ "ek_bilgiler": "Mesleğin icrası sırasında toz ve gürültüye karşı kişisel koruyucu donanım kullanımı önem taşımaktadır. Mesleki Yeterlilik Kurumu (MYK) belgesi, bazı işletmelerde istihdamda tercih sebebi olabilmektedir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T16:57:17",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5017
+  }
+ }
+}

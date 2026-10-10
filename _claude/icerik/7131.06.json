@@ -1,0 +1,85 @@
+{
+ "arac_gerec": [
+  "Kişisel koruyucu donanım (tulum, eldiven, gaz maskesi/solunum maskesi, koruyucu gözlük, baret, emniyet kemeri)",
+  "Kumlama (sablama) makinesi ve kompresörü",
+  "Kazıma ve pas temizleme aletleri (spatula, çelik fırça, kazıyıcı)",
+  "Zımpara makinesi ve çeşitli zımpara malzemeleri",
+  "Boya püskürtme tabancası (airless sprey) ve kompresörü",
+  "Fırça ve rulo takımları",
+  "Boya karıştırma kapları ve karıştırıcılar",
+  "Karina (su altı) boyaları, astar ve özel kaplama malzemeleri",
+  "Kalınlık ve yüzey ölçüm cihazları (ultrasonik kalınlık ölçer)",
+  "Şaft ve pervane kontrol/ölçüm aletleri",
+  "İskele, platform ve merdivenler",
+  "Aydınlatma ekipmanları",
+  "Fotoğraf makinesi/tablet (hasar tespiti ve raporlama için)",
+  "Ölçüm ve kayıt formları"
+ ],
+ "genel_ozellikler": [
+  "El ve göz koordinasyonu iyi,",
+  "Dikkatli ve titiz,",
+  "Fiziksel olarak güçlü ve dayanıklı,",
+  "Yükseklikte ve kapalı/dar alanlarda çalışmaya uygun,",
+  "Renkleri iyi ayırt edebilen,",
+  "Sorumluluk sahibi ve güvenilir,",
+  "Ekip çalışmasına uyumlu,",
+  "Kimyasal madde ve boya kokusuna karşı sağlık sorunu bulunmayan"
+ ],
+ "calisma_ortami": "\"Gemi Karina Kontrol Boyacısı, genellikle tersanelerde, kuru havuzlarda (dock) ve bazı durumlarda iskele ayakları gibi su yapılarında çalışır. Çalışma ortamı büyük ölçüde açık alan niteliğinde olup, boya, tiner ve kimyasal madde kokusunun yoğun olduğu, gürültülü ve tozlu koşullar görülebilir. İş, çoğu zaman yüksekte iskele üzerinde, bazen de dar ve kapalı tank/bölme içlerinde yürütülür; bu nedenle düşme, kimyasal maruziyet ve kapalı alan riskleri söz konusu olabilir ve kişisel koruyucu donanım kullanımı zorunludur.\\n\\nÇalışma saatleri geminin dok süresine ve iş programına göre değişebilir, zaman zaman uzun ve yoğun çalışma dönemleri olabilir. Meslek elemanı; usta, mühendis, gemi mürettebatı, işveren temsilcileri ve diğer tersane çalışanlarıyla sürekli iletişim halinde, genellikle ekip halinde çalışır.\"",
+ "egitim": {
+  "verildigi_yerler": "Gemi karina kontrol boyacılığına yönelik, Türkiye'de resmi olarak tanımlanmış bağımsız bir okul programı veya diploma dalı bulunmamaktadır. Meslek elemanları genellikle tersane ve gemi inşa/bakım işletmelerinde işbaşında, usta yanında yetişerek bu mesleği öğrenir. Boyacılık ve yüzey hazırlama konusundaki temel beceriler, mesleki eğitim merkezlerinin ilgili inşaat/boya alanlarında veya Halk Eğitim Merkezleri ile İŞKUR'un açtığı mesleki eğitim kurslarında kazanılabilir; ancak gemi karinasına özgü kontrol ve raporlama bilgisi büyük ölçüde iş deneyimiyle ve işletme içi eğitimlerle edinilir.",
+  "giris_kosullari": [
+   "İlköğretim mezunu olmak (meslek için gereken minimum eğitim düzeyi)",
+   "Yükseklikte, dar ve kapalı alanlarda çalışmaya elverişli sağlık durumuna sahip olmak",
+   "İş sağlığı ve güvenliği ile kişisel koruyucu donanım kullanımına ilişkin temel eğitimi almış olmak veya almaya istekli olmak",
+   "Fiziksel olarak dayanıklı olmak"
+  ],
+  "sure_ve_icerik": "Standart bir eğitim süresi ve müfredatı bulunmamaktadır. İşbaşı eğitim süreci, kişinin önceki deneyimine ve işletmenin uygulamasına göre değişmekle birlikte genellikle boya ve yüzey hazırlama tekniklerinin, kontrol/ölçüm yöntemlerinin (şaft ölçümü, pervane kontrolü vb.) ve raporlama usullerinin usta gözetiminde uygulamalı olarak öğretilmesini içerir. Ayrıca iş sağlığı ve güvenliği, kapalı alanda çalışma ve yükseklikte çalışma konularında kısa süreli sertifikalı eğitimler alınabilir.",
+  "belge": "Resmi bir diploma veya ustalık belgesi zorunluluğu bulunmamaktadır. Mesleki Yeterlilik Kurumu (MYK) tarafından yayımlanan ilgili boyacılık/yüzey hazırlama mesleki yeterlilik belgesi, istihdamda tercih sebebi olabilir. Çalışılan işin niteliğine göre yükseklikte çalışma, kapalı alanda çalışma ve iş güvenliği konularında alınan sertifikalar da işe alımda önemli görülebilir."
+ },
+ "gorevler": [
+  "İskele ayakları ve gemilerin su altı kesimlerine uygulanan boya özelliklerini ve kontrol yöntemlerini bilir ve uygular.",
+  "Gemi su altı takıntılarını inceler.",
+  "Kontrol yöntemlerini, şaft ölçüm yöntemini ve pervane yöntemini bilir ve uygular.",
+  "Gemi karinalarını (geminin su altında kalan kısmını) kontrol eder.",
+  "Boya uygulamalarını rapor eder, uygun formatlara göre hazırlar ve işverene sunar.",
+  "Boyaların özelliklerini ve hasarlarını tespit eder.",
+  "Gemi karinasında ve iskele ayaklarında oluşmuş hasarlı boyaların yüzeyini temizler ve boyaya hazırlar.",
+  "Usulüne uygun olarak boya uygulamasını yapar, kontrol eder ve raporlar.",
+  "Özellikli su altı cihazlarını ve ecizeleri (su altındaki boyanması gereken malzemeleri) boyar.",
+  "Gemi su altı tanklarının incelenmesini, kontrol yöntemlerini, şaft ölçüm yöntemini ve pervane kontrol yöntemlerini gözden geçirir.",
+  "Su altı karina kontrol sistemini uygulamalı olarak yapar ve raporlamasını gerçekleştirir.",
+  "Meslek alanı ile ilgili gelişmeleri takip eder ve uygular.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "calisma_alanlari": "\"Gemi Karina Kontrol Boyacıları başlıca tersanelerde, gemi inşa ve gemi bakım-onarım işletmelerinde, denizcilik ve liman işletmelerinde istihdam edilir. Türkiye'nin önemli tersane bölgelerinde (özellikle kıyı illerinde) bu alanda çalışma olanağı bulunmaktadır. Deneyimli ve güvenilir elemanlara sektörde talep olabilmekte, iş bulma olanakları genel olarak tersanecilik ve denizcilik sektörünün iş hacmine bağlı olarak değişmektedir.\"",
+ "kazanc": {
+  "egitim_suresince": "Mesleğe yönelik resmi bir çıraklık veya örgün eğitim programı bulunmadığından, işbaşında eğitim alan kişilere ödenecek ücret işletme ile kişi arasındaki anlaşmaya bağlıdır; bu dönemde genellikle asgari ücret düzeyinde bir kazanç söz konusu olabilir.",
+  "egitim_sonrasi": [
+   "Kazanç; çalışılan işyerinin büyüklüğüne, kişinin deneyimine, bilgi ve becerisine, çalışma kapasitesine ve sektörün genel ücret düzeyine göre değişmektedir.",
+   "Yeni başlayanlarda kazanç genellikle asgari ücret düzeyinde olup, deneyim ve uzmanlaşma arttıkça kazanç da yükselebilir.",
+   "Kamu kurumlarına bağlı tersanelerde işçi statüsünde çalışanların ücreti ilgili toplu iş sözleşmesi hükümlerine göre belirlenir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğe yönelik kademeli, resmi bir eğitim/diploma basamağı bulunmamaktadır. Meslek elemanları, boya, yüzey hazırlama, iş güvenliği, kapalı alanda çalışma ve denizcilik/gemi teknolojileri konularında açılan kurs ve sertifika programlarına katılarak bilgi ve becerilerini geliştirebilir.",
+  "is_hayatinda": "Deneyim kazandıkça usta, ekip lideri veya denetleyici/kontrol sorumlusu konumuna yükselebilirler. Yeterli bilgi, birikim ve sermayeye sahip olanlar, uygun şartları sağlamaları hâlinde kendi işini kurabilir veya taşeron olarak hizmet verebilir."
+ },
+ "benzer_meslekler": [
+  "Boyacı (Çelik İnşaat ve Gemi)",
+  "Gemi-Yat-Tekne Boyacısı",
+  "Cilacı (Gemi)",
+  "Gemi Yüzey Hazırlama Elemanı",
+  "Metal Yüzey Boyacısı",
+  "Yüzey Boyama Elemanı"
+ ],
+ "ek_bilgiler": "\"Bu meslek; yükseklikte, kapalı/dar alanlarda ve boya/kimyasal madde ile iç içe çalışmayı gerektirdiğinden, iş sağlığı ve güvenliği açısından dikkat gerektiren bir meslektir. Çalışılan işin niteliğine göre işveren tarafından ilgili mevzuat kapsamında ek iş güvenliği eğitimi ve kişisel koruyucu donanım sağlanması gerekebilir.\"",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T23:54:17",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6081
+  }
+ }
+}

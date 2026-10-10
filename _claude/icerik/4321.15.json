@@ -1,0 +1,90 @@
+{
+ "arac_gerec": [
+  "Forklift ve transpalet",
+  "El bilgisayarı / barkod okuyucu",
+  "Raf ve palet sistemleri",
+  "Kantar / tartı aletleri",
+  "Ambalaj açma araçları (bıçak, makas vb.)",
+  "Paketleme ve etiketleme malzemeleri",
+  "Etiketleme makinesi",
+  "Bilgisayar ve stok takip/kayıt yazılımları",
+  "Telsiz veya telefon",
+  "Stok kartı, irsaliye ve fiş gibi kayıt belgeleri",
+  "Kişisel koruyucu donanım (eldiven, kask, çelik burunlu ayakkabı)",
+  "Taşıma el arabası / kangurular"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve titiz,",
+  "Düzenli ve sistemli çalışabilen,",
+  "Fiziksel olarak dayanıklı,",
+  "Sorumluluk sahibi ve güvenilir,",
+  "Sayısal işlemlere yatkın,",
+  "Takım çalışmasına uyumlu,",
+  "Zamanını iyi yönetebilen,",
+  "Pratik ve hızlı karar verebilen"
+ ],
+ "calisma_ortami": "Ambarcılar genellikle işletmelerin kapalı depo ve ambar alanlarında, bazen de açık yükleme-boşaltma sahalarında çalışır. Depo koşullarına göre sıcak, soğuk, tozlu veya nemli ortamlarda bulunabilir; görevleri sırasında çoğunlukla ayakta durur, eğilip kalkar ve ağırlık taşıma gerektiren işler yapar. Bu nedenle kas-iskelet sistemi yüklenmesi ve forklift/transpalet gibi araçların kullanıldığı alanlarda iş kazası riski söz konusudur; iş güvenliği kurallarına uyma önemlidir.\n\nÇalışma saatleri işletmenin faaliyetine göre genellikle gündüz mesaisi şeklindedir, ancak üretim temposu yoğun olan işyerlerinde vardiyalı çalışma da görülebilir. Ambarcı; depo sorumlusu, satın alma, üretim, sevkiyat ve muhasebe birimleri gibi işletme içi birimlerle, bazen de tedarikçi ve nakliye firması çalışanlarıyla iletişim kurar.",
+ "gorevler": [
+  "Ambara gelen hammadde, yarı mamul, mamul veya yardımcı malzemenin taşındığı araçtan indirilmesini sağlar, gerektiğinde indirilmesine yardım eder.",
+  "Malzemenin miktar kontrolünü yapar.",
+  "İnen malzemelerin ambalajlarını çıkarır.",
+  "Malzemeleri ambardaki ilgili yerlere taşır, yerleştirir ve istifler.",
+  "Malzemeleri kartlarına işler.",
+  "Ambardan çekilmek üzere talep edilen malzemeleri hazırlar, fişini alır, malzemeyi teslim eder ve gerekli kaydını tutar.",
+  "Stok seviyelerini izleyerek malzeme hareketlerini günü gününe ilgili yerlere işler.",
+  "Ambardaki malzemelerin genel sayımını yapar.",
+  "Sipariş düzeyleri belirli malzemelerin bu düzeyin altına düşmemesi için ilgililere gerekli uyarılarda bulunur.",
+  "Ambar ve ilgili bölümlerin temizliğini ve düzenini sağlar.",
+  "Yurt dışından gelen parçaların analizini yapar.",
+  "Yurt dışından tır ile gelen parçaların gümrük ödeme bilgilerini takip eder.",
+  "Yurt dışından havayolu sevkiyatı ile gelen üretim parçası veya isme gelen parçaların takibini yapar.",
+  "Gümrük işlemleri tamamlanmış sevkiyatların indirilmesini, kontrolünün yapılmasını, hasarlı sevkiyat varsa tutanağının tutulmasını ve parçaların ambar adreslerine fifo kuralına göre istiflenmesini sağlar.",
+  "Üretimde kullanılan parçaların, kullanım talebine göre üretime destek verilmesini sağlar.",
+  "Panel üretim sistemini uygular.",
+  "Fabrika dışına fason parça gönderilmesini sağlar.",
+  "Fabrika yan sanayisine parça gönderir.",
+  "Eksik veya yanlış çıkan parçaların claim işlemini yapar.",
+  "Yurt dışından gelen sevkiyatlarda yolda kaza yapan veya hasar gören sevkiyatlarla ilgili tutanak tutar, hasarın tespiti için ekspere bilgi verir, sonuca göre sevkiyatı indirir veya geri gönderir.",
+  "Mesleği alanındaki gelişmeleri takip eder ve uygular."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Ambar/depo görevliliği için örgün bir meslek lisesi alanı veya yükseköğretim programı bulunmamaktadır. Meslek genellikle ilköğretim veya ortaöğretim sonrasında işyerlerinde usta/deneyimli personel yanında işbaşında öğrenilir. Halk Eğitim Merkezleri ve İŞKUR'un açtığı depo/stok yönetimi, forklift operatörlüğü ve temel bilgisayar/ofis programları kursları bu sürece destek olur. Lojistik alanında mesleki ve teknik eğitim almış kişiler de bu mesleğe daha donanımlı başlayabilir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "Okuma yazma bilmek ve temel sayısal işlemleri yapabilmek",
+   "Fiziksel olarak kaldırma, taşıma ve ayakta çalışmaya uygun olmak",
+   "Forklift gibi iş makinesi kullanılacak işyerlerinde ilgili operatörlük belgesine sahip olmak veya bu belgeyi alabilecek yeterlilikte olmak"
+  ],
+  "sure_ve_icerik": "Belirli ve standart bir eğitim süresi bulunmamaktadır. İşe yeni başlayanlar, malzeme kabul, miktar kontrolü, depolama/istifleme, stok kaydı, sipariş takibi ve sevkiyat hazırlama gibi işlemleri işbaşında deneyimli personelin gözetiminde öğrenir. İŞKUR ve Halk Eğitim Merkezlerinin açtığı depo ve stok yönetimi, forklift operatörlüğü, temel bilgisayar kullanımı gibi kurslar bu süreci destekler; kurs süreleri kuruma ve programa göre günler veya haftalar düzeyinde değişir.",
+  "belge": "Örgün bir eğitim programı olmadığından diploma söz konusu değildir. Katılınan mesleki kurslardan katılım veya başarı belgesi alınabilir; forklift gibi araçların kullanıldığı işyerlerinde operatörlük sertifikası gerekebilir."
+ },
+ "calisma_alanlari": "Ambar/depo görevlileri; üretim ve sanayi işletmelerinin depo ve ambar birimlerinde, toptan ve perakende ticaret işletmelerinde, lojistik ve dağıtım firmalarında, gümrük antrepolarında, otomotiv yedek parça ve yan sanayi firmalarında, tekstil ve diğer üretim sektörlerinin ambarlarında, e-ticaret ve kargo firmalarının depolarında, kamu kurumlarının taşınır kayıt/ayniyat birimlerinde çalışabilir. Lojistik sektörünün büyümesi ve e-ticaretin yaygınlaşması bu meslekte istihdam olanaklarını artırmaktadır.",
+ "kazanc": {
+  "egitim_suresince": "Örgün bir eğitim süreci bulunmadığından bu dönemde ayrı bir kazanç söz konusu değildir. İşbaşında çalışarak mesleği öğrenenler bu süreçte işveren tarafından ücretlendirilir; kısa süreli kurslara katılanlara genellikle ücret ödenmez.",
+  "egitim_sonrasi": [
+   "Özel sektörde ücret; işyerinin büyüklüğüne, sektöre, deneyime ve üstlenilen sorumluluğa göre değişir; işe yeni başlayanlarda genellikle asgari ücret düzeyindedir.",
+   "Kamu kurumlarında taşınır kayıt ve kontrol gibi benzer görevlerde çalışanlar, bulundukları statüye göre (657 sayılı Devlet Memurları Kanunu veya işçi statüsünde toplu iş sözleşmesi hükümleri) ücretlendirilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Meslekte örgün bir ilerleme basamağı bulunmamaktadır. Çalışanlar deneyim kazandıkça işletme içi eğitimler, Halk Eğitim Merkezi ve İŞKUR kurslarıyla stok yönetimi, forklift operatörlüğü gibi alanlarda bilgisini geliştirebilir; isteyenler açıköğretim veya örgün programlarla lojistik, işletme gibi alanlarda eğitim alarak mesleki bilgisini ilerletebilir.",
+  "is_hayatinda": "Deneyim ve performansa bağlı olarak vardiya amirliği, depo sorumluluğu, ambar/antrepo şefliği gibi kademelere yükselebilir; büyük işletmelerde stok kontrol veya lojistik operasyon sorumluluğu gibi görevlere geçebilir."
+ },
+ "benzer_meslekler": [
+  "Depo Sorumlusu",
+  "Ambar Sorumlusu",
+  "Diğer Stok Memurları",
+  "Büro Memuru (Stok Kayıt)",
+  "Malzeme Takip ve Dağıtım İşçisi",
+  "Ambar ve Antrepo Şefi"
+ ],
+ "ek_bilgiler": "Forklift gibi iş makinelerinin kullanıldığı işyerlerinde operatörlük belgesi gerekebilir. Tehlikeli madde, soğuk hava deposu veya gümrük antreposu gibi özel nitelikli depolarda çalışacaklar için işyerine özgü ek güvenlik eğitimleri ve belgeler istenebilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, bazı işyerlerinde istihdamda tercih sebebi olabilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T16:22:44",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 7277
+  }
+ }
+}

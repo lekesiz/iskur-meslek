@@ -1,0 +1,81 @@
+{
+ "arac_gerec": [
+  "Yolcu taşıma aracı (otobüs, minibüs, midibüs, dolmuş, servis aracı vb.)",
+  "Sürücü belgesi (ilgili sınıf ehliyet) ve mesleki yeterlilik (SRC) belgesi",
+  "Araç ruhsatı, sigorta poliçesi ve muayene belgeleri",
+  "Takograf veya hız sınırlayıcı cihaz",
+  "Bilet/ücret tahsilat sistemi, elektronik kart okuyucu",
+  "Bagaj taşıma ve yükleme ekipmanları",
+  "İlk yardım çantası ve yangın söndürme tüpü",
+  "Yol haritası, navigasyon cihazı",
+  "İletişim cihazı (telsiz veya telefon)",
+  "Temizlik ve bakım malzemeleri",
+  "Isıtma, havalandırma ve ses sistemi kontrol panelleri",
+  "Yedek lastik ve basit tamir takımı"
+ ],
+ "genel_ozellikler": [
+  "El, ayak ve göz koordinasyonuna sahip,",
+  "Dikkatli ve sorumluluk sahibi,",
+  "Sabırlı, hoşgörülü ve insan ilişkilerinde başarılı,",
+  "Fiziksel ve ruhsal açıdan sağlıklı, yorgunluğa dayanıklı,",
+  "Trafik kurallarına saygılı ve disiplinli,",
+  "Ani ve stresli durumlarda sakin kalabilen,",
+  "Yön bulma ve mekânsal algısı iyi,",
+  "Güler yüzlü ve iletişime açık"
+ ],
+ "calisma_ortami": "Şoför (Yolcu Taşıma), görevini çoğunlukla açık yollarda ve şehir içi/şehirlerarası güzergâhlarda, aracın içinde oturarak yürütür. Çalışma ortamı mevsim ve hava koşullarına, trafik yoğunluğuna ve güzergâh özelliklerine göre değişkenlik gösterir; uzun süre direksiyon başında kalmak fiziksel ve zihinsel yorgunluğa yol açabilir. Görev yapılan hat ve işletmeye bağlı olarak tam gün, vardiyalı, gece ve hafta sonu çalışma söz konusu olabilir.\n\nÇalışma sırasında yolcular, bilet/kontrol görevlileri, terminal ve dispatç görevlileri, trafik polisi ve diğer sürücülerle sürekli iletişim halindedir. Trafik kazası riski, yoğun trafik, uzun yol yorgunluğu ve değişken hava koşulları mesleğin başlıca risk unsurlarıdır; bu nedenle trafik güvenliği kurallarına ve dinlenme sürelerine uyulması önem taşır.",
+ "calisma_alanlari": "Şoför (Yolcu Taşıma), belediyelere veya özel şirketlere ait şehir içi toplu taşıma işletmelerinde, şehirlerarası otobüs firmalarında, turizm ve seyahat şirketlerinde, okul ve personel servis işletmelerinde, dolmuş-minibüs işletmeciliğinde ve özel şahıslara ait araçlarda çalışabilir. Yolcu taşımacılığı Türkiye'nin her bölgesinde ihtiyaç duyulan yaygın bir hizmet olduğundan, gerekli sürücü belgelerine sahip kişiler için iş bulma imkânı genel olarak kolaydır; büyükşehirlerde toplu taşıma talebinin yüksek olması bu olanağı artırmaktadır.",
+ "egitim": {
+  "verildigi_yerler": "Bu meslekte örgün bir meslek eğitimi programı bulunmamaktadır. Mesleğe giriş için gerekli sürücü belgesi, Milli Eğitim Bakanlığınca yetkilendirilmiş özel motorlu taşıt sürücüleri kurslarında; yolcu taşımacılığı için zorunlu mesleki yeterlilik (SRC) eğitimi ise yetkilendirilmiş eğitim kurumlarında verilmektedir. Mesleğin uygulamaya dönük bilgi ve becerileri büyük ölçüde işbaşında, deneyimli şoförlerin yanında çalışılarak kazanılmaktadır.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "Yolcu taşımacılığına uygun sınıfta geçerli bir sürücü belgesine sahip olmak",
+   "İlgili sürücü belgesi sınıfı için kanunen aranan asgari yaşı doldurmuş olmak",
+   "Sağlık muayenesinde araç kullanmaya engel bir durumu bulunmamak (görme, işitme ve genel sağlık yönünden)",
+   "Mesleğin icrasına engel bir adli sicil durumu bulunmamak"
+  ],
+  "sure_ve_icerik": "Örgün bir eğitim programı olmadığından süre standart değildir. Sürücü kursunda trafik ve çevre bilgisi, ilk yardım, motor ve araç tekniği ile trafik adabı konularında teorik eğitim ve direksiyon eğitimi (uygulama) verilir; süre alınacak sürücü belgesi sınıfına göre değişir. Ticari olarak yolcu taşıyacaklar için ayrıca mesleki yeterlilik (SRC) eğitimi alınır; bu eğitim genellikle kısa süreli teorik derslerden oluşur. Bunların dışında mesleğin günlük işleyişine ilişkin bilgi ve beceriler (güzergâh bilgisi, yolcu ilişkileri, araç bakımı vb.) işyerinde deneyimli şoförlerin yanında çalışılarak öğrenilir.",
+  "belge": "Sürücü kursu sonunda ilgili sınıfta sürücü belgesi (ehliyet), mesleki yeterlilik eğitimi sonunda SRC belgesi verilir. İşbaşında kazanılan bilgi ve beceriler için resmi bir diploma veya sertifika düzenlenmemektedir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Sürücü belgesi ve mesleki yeterlilik (SRC) eğitimi süresince adaylara herhangi bir kazanç sağlanmaz; kurs ücretleri genellikle aday tarafından karşılanır.",
+  "egitim_sonrasi": [
+   "Belediyeler veya kamuya bağlı işletmelerde işçi statüsünde çalışanlar, yürürlükteki toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde çalışan şoförlerin ücreti işyerinin büyüklüğü, çalışılan hat/güzergâh ve deneyime göre değişmekle birlikte, mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar; kıdem ve deneyim arttıkça ücret yükselebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Bu meslekte örgün bir ilerleme basamağı bulunmamaktadır. Deneyim kazanan şoförler, ek sürücü belgesi sınıfları alarak farklı araç türlerinde (minibüs, midibüs, otobüs vb.) çalışma alanını genişletebilir.",
+  "is_hayatinda": "Deneyim ve kıdem kazanan şoförler usta şoförlük, araç filosu veya hat sorumluluğu, nakliye/ulaştırma şefliği gibi görevlere yükselebilir; isteyenler kendi aracını alarak veya küçük bir işletme kurarak kendi işinin sahibi olabilir."
+ },
+ "benzer_meslekler": [
+  "Otobüs Kaptanı (Şoförü)",
+  "Metrobüs Şoförü",
+  "Şehir İçi Toplu Taşıma Otobüs Şoförü",
+  "Kent İçi Raylı Sistemler Tren Sürücüsü/ Tramvay/Metro Sürücüsü (Vatman)"
+ ],
+ "ek_bilgiler": "Ticari amaçla yolcu taşıyan şoförlerin, kullandıkları araç sınıfına uygun sürücü belgesinin yanında mesleki yeterlilik (SRC) belgesine sahip olmaları yasal bir zorunluluktur. Mesleki Yeterlilik Kurumu (MYK) belgesi de istihdamda tercih sebebi olabilir.",
+ "gorevler": [
+  "Aracın trafik muayenesinin, motorlu taşıtlar vergisi ve sigorta işlemlerinin yapılmasını sağlar.",
+  "Motorlu yolcu taşıma araçlarının bakımını yapar.",
+  "Motorlu yolcu taşıma araçlarını yola hazırlar.",
+  "Yolcu iniş/binişlerini kontrol eder.",
+  "Yol düzergâhını belirler (dolmuş-servis şoförlerinde).",
+  "Yol ve trafik kurallarına uyarak aracı kullanır.",
+  "Aracın temizliğini sağlar.",
+  "Yolcuların bagajları ile ilgilenir.",
+  "İniş binişlerde yolculara yardım eder.",
+  "Okul servislerinde çocuklarla ilgilenir (servis şoförlerinde).",
+  "Yolcuların istek ve şikâyetleri ile ilgilenir.",
+  "Yolcuların konforu için gerekli ısıtma, havalandırma, müzik vb. sistemleri sağlar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T18:20:48",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6829
+  }
+ }
+}

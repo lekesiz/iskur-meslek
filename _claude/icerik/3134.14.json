@@ -1,0 +1,89 @@
+{
+ "arac_gerec": [
+  "Basınç, sıcaklık, akış ve seviye ölçüm cihazları",
+  "Kontrol panelleri, otomasyon ve uzaktan izleme (SCADA/DCS) ekranları",
+  "Pompa, kompresör, eşanjör, kolon ve dram gibi proses ekipmanları",
+  "Laboratuvar cam malzemeleri (beher, pipet, balon joje vb.) ve basit analiz cihazları",
+  "Numune alma ekipmanları",
+  "Çeşitli kimyasal maddeler ve çözeltiler",
+  "Kişisel koruyucu donanım (maske, eldiven, koruyucu giysi, baret, gaz dedektörü vb.)",
+  "Yangın ve gaz algılama/alarm sistemleri",
+  "Haberleşme cihazları (telsiz, telefon)",
+  "Kayıt ve rapor formları, bilgisayar"
+ ],
+ "genel_ozellikler": [
+  "Fen bilimlerine, özellikle kimyaya ilgili,",
+  "Dikkatini uzun süre bir noktaya yoğunlaştırabilen,",
+  "Tedbirli ve sorumluluk sahibi,",
+  "Yönergeleri izleyebilen,",
+  "Takım çalışmasına uyumlu,",
+  "Fiziksel olarak sağlıklı ve dayanıklı,",
+  "Vardiyalı ve zaman zaman açık havada çalışmaya uygun,",
+  "Acil durumlarda hızlı ve doğru karar verebilen"
+ ],
+ "calisma_ortami": "Petrokimya kontrol elemanı, rafineri ve petrokimya tesislerinin üretim sahalarında, kontrol odalarında ve laboratuvarlarında çalışır. Çalışma ortamı genellikle gürültülü olup havada kimyasal koku bulunabilir; yüksek sıcaklık, basınç ve kimyasal maddelerle çalışma nedeniyle belirli riskler taşır, bu nedenle kişisel koruyucu donanım kullanımı ve iş sağlığı-güvenliği kurallarına uyum büyük önem taşır. Çalışma genellikle vardiya usulüyle (gece-gündüz, hafta sonu dâhil) yürütülür.\n\nGörevini yerine getirirken mühendisler, teknikerler, diğer operatörler ve bakım personeli ile sürekli iletişim halindedir; ekip çalışması ve iletişim becerisi önemlidir.",
+ "egitim": {
+  "verildigi_yerler": "Bu mesleğe yönelik ülkemizde ayrı, standart bir örgün eğitim programı bulunmamaktadır. Mesleki ve teknik Anadolu liselerinin kimya teknolojisi ve benzeri ilgili alanlarından mezun olanlar ile genel lise mezunları, rafineri ve petrokimya tesislerine işe alındıktan sonra işyerinde verilen kurum içi eğitimler ve usta-çırak ilişkisi içinde işbaşında yetiştirilerek bu mesleğe yönelebilir. Ayrıca Halk Eğitim Merkezleri ile İŞKUR tarafından açılan mesleki eğitim kursları da ilgili temel bilgi ve becerilerin kazandırılmasına katkı sağlayabilir.",
+  "giris_kosullari": [
+   "En az lise veya dengi okul mezunu olmak",
+   "Tercihen kimya, kimya teknolojisi, petrokimya veya ilgili teknik bir alandan mezun olmak",
+   "İşe alım sınavı, mülakat ve değerlendirmelerde başarılı olmak",
+   "Vardiyalı çalışma ve tesis koşullarına uygun sağlık durumuna sahip olmak"
+  ],
+  "sure_ve_icerik": "Standart bir eğitim süresi ve müfredatı bulunmamaktadır. İşe yeni başlayanlar, işyerinde deneyimli personel ve teknik sorumlular eşliğinde proses güvenliği, temel kimya bilgisi, laboratuvar uygulamaları, iş sağlığı ve güvenliği, yangın ve kimyasal risklerden korunma ile proses ekipmanlarının kullanımı gibi konularda uygulamalı işbaşı eğitimi alır. Bu süreç işyerine göre değişmekle birlikte genellikle birkaç ay sürer ve kademeli olarak artan sorumluluklarla devam eder.",
+  "belge": "Örgün bir diploma programı bulunmadığından, çalışılan işyeri tarafından düzenlenen iç eğitim ve katılım sertifikaları verilir. Yapılan işlerin tehlikeli veya çok tehlikeli işler kapsamında değerlendirilebilmesi nedeniyle, bazı görevler için Mesleki Yeterlilik Kurumu (MYK) Mesleki Yeterlilik Belgesi işe alımda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Petrokimya kontrol elemanları; ham petrolün işlenmesi, petrokimyasal hammaddelerin üretimi ve petrol ürünlerinin elde edilmesiyle ilgili rafineri ve petrokimya tesislerinde istihdam edilir. Bu tesisler ülke genelinde sınırlı sayıda büyük ölçekli sanayi kuruluşu tarafından işletildiğinden, iş olanakları bu tesislerin bulunduğu bölgelerde yoğunlaşmaktadır. Sektördeki yeni yatırımlar, mevcut tesislerin kapasite artışları ve bakım dönemlerindeki ek istihdam ihtiyacı, mesleğe yönelik iş bulma olanaklarını etkileyen başlıca faktörlerdir.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğe yönelik ayrı bir örgün eğitim programı bulunmadığından, öğrenim süresince bağımsız bir kazançtan söz edilemez. İşe alınan kişiler, işbaşı eğitim sürecinde de işyerinin ücret politikasına göre genellikle asgari ücret düzeyinde veya buna yakın bir ücretle çalışmaya başlar.",
+  "egitim_sonrasi": [
+   "Kamuya bağlı tesislerde çalışanlar 657 sayılı Devlet Memurları Kanunu veya ilgili toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde ücret, işyerinin büyüklüğüne, kişinin deneyimine, bilgi ve becerisine, vardiya düzenine ve sektörün genel ücret seviyesine göre değişebilir.",
+   "Deneyim ve sorumluluk düzeyi arttıkça kazanç genellikle yükselir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğe yönelik doğrudan bir dikey ilerleme programı bulunmamaktadır. İsteyen kişiler, örgün veya açık öğretim yoluyla kimya, kimya teknolojisi ya da petrokimya/rafineri teknolojisi gibi alanlarda ön lisans veya lisans eğitimi tamamlayarak tekniker veya mühendis unvanıyla mesleki ilerleme sağlayabilir.",
+  "is_hayatinda": "Petrokimya kontrol elemanı, deneyim ve bilgi birikimini artırarak kıdemli operatör, vardiya amiri, saha veya proses sorumlusu gibi görevlere yükselebilir; ilgili eğitim programlarını tamamlaması durumunda tekniker veya mühendis kadrolarına geçiş yapabilir."
+ },
+ "benzer_meslekler": [
+  "Rafineri ve Petrokimya Teknikeri",
+  "Petrokimya Üretim Elemanı",
+  "Reaktör Operatörü-Petrol Rafinerisi",
+  "Kontrolör (Petrol Rafinesi)",
+  "Petrol-Gaz Üretim Operatörü",
+  "Petrol - Petrokimya Teknisyeni"
+ ],
+ "ek_bilgiler": "Rafineri ve petrokimya tesislerinde yapılan işler, yüksek sıcaklık, basınç ve kimyasal madde riskleri nedeniyle genellikle \"tehlikeli\" veya \"çok tehlikeli işler\" kapsamında değerlendirilmektedir. Bu nedenle mesleği yürütecek kişilerin düzenli sağlık kontrolünden geçmesi, periyodik iş güvenliği eğitimleri alması ve kişisel koruyucu donanımları eksiksiz kullanması önemlidir.",
+ "gorevler": [
+  "Kütle ve hacim ölçümü yapar.",
+  "Fiziksel ve kimyasal değişimleri inceler.",
+  "Çözelti hazırlar.",
+  "Katıları, sıvıları ve gazları inceler.",
+  "Proseste havayı bileşenlerine ayırır.",
+  "Kirli suyu arıtır.",
+  "Proses suyunu üretime hazırlar.",
+  "Proses suyunu üretimde kullanır.",
+  "Fırında yanma kontrolü yapar.",
+  "Dram, kolon ve eşanjörlerde kontrol yapar.",
+  "Kazan, akış ve pompa kontrolü yapar.",
+  "Isı transferini yapar.",
+  "Kompresörlerin çalışmasını kontrol eder.",
+  "Çeviricileri kontrol eder.",
+  "Sıcaklık, basınç ve akış ölçümü yapar.",
+  "Tanklarda seviye ölçümü yapar.",
+  "Yüzeydeki petrol ve petrol ürünlerini temizler.",
+  "Bakım sonrası atıkları temizler.",
+  "Ham madde ve ürünlerin taşınmasını ve depolanmasını yapar.",
+  "Kimyasal maddelerin depolanmasını yapar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T11:14:29",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 8023
+  }
+ }
+}

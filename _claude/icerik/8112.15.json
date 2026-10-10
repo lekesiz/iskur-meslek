@@ -1,0 +1,71 @@
+{
+ "gorevler": [
+  "Silim makinesini kullanıma hazırlar.",
+  "Dolumdan gelen mermerleri silim makinesine yerleştirir.",
+  "Makinenin ayarlarını yapar.",
+  "Mermer, plaka ve parçaların yüzeylerini pürüzsüz hale getirir.",
+  "İşlem sonunda ürünleri seleksiyon bölümüne gönderir.",
+  "Mesleğiyle ilgili gelişmeleri takip eder ve uygular.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "arac_gerec": [
+  "Silim (parlatma) makinesi",
+  "Farklı kalınlıkta zımpara taşı/diskleri",
+  "Su besleme hortumu ve sistemi",
+  "Vinç veya forklift (mermer parça/plaka taşımak için)",
+  "Mermer taşıma arabaları ve rayları",
+  "Ölçüm aletleri (metre, kumpas)",
+  "El aletleri (anahtar takımı, tornavida)",
+  "Basınçlı hava tabancası",
+  "Kişisel koruyucu donanım (eldiven, koruyucu gözlük, kulaklık, iş elbisesi, çizme)"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve özenli,",
+  "El ve göz koordinasyonu güçlü,",
+  "Fiziksel olarak güçlü ve dayanıklı,",
+  "Makine ve teknik aletleri kullanmaya yatkın,",
+  "Ekip çalışmasına uyumlu,",
+  "Tekrarlayan işlerde sabırlı ve düzenli çalışabilen,"
+ ],
+ "calisma_ortami": "Mermer Silim İşçisi, mermer işleme fabrika ve atölyelerinde, kapalı mekanlarda çalışır. Çalışma ortamı silim işlemi sırasında kullanılan su nedeniyle nemli, makinelerin çalışmasından dolayı gürültülü ve genellikle tozlu olabilir. Ağır mermer blok ve plakaların taşınması söz konusu olduğundan iş sırasında fiziksel güç gerektirebilir ve ayakta çalışılır.\n\nÇalışma saatleri işletmenin üretim programına göre belirlenir, vardiyalı çalışma söz konusu olabilir. Çalışma süresince kişisel koruyucu donanım kullanılır. Mermer Dolum İşçisi, Mermer Seleksiyon İşçisi ve atölyedeki diğer makine operatörleri ile iş birliği içinde çalışır.",
+ "egitim": {
+  "verildigi_yerler": "Mermer Silim İşçiliği için örgün eğitim veren ayrı bir meslek lisesi programı bulunmamaktadır. Meslek genellikle işbaşında usta yanında uygulamalı olarak öğrenilir. Ayrıca Halk Eğitim Merkezleri ve İŞKUR tarafından açılan mermer/doğal taş işleme ile ilgili mesleki eğitim kursları da bu mesleğe hazırlık sağlayabilir.",
+  "giris_kosullari": [
+   "En az ilkokul mezunu olmak.",
+   "Fiziksel olarak sağlıklı ve ağır iş yapabilecek durumda olmak."
+  ],
+  "sure_ve_icerik": "Meslek, işbaşında usta yanında belirli bir süre çalışılarak kazanılır; bu süre işletmeden işletmeye değişebilir. Açılan kurslarda ise silim makinesinin tanıtımı, kullanımı, iş sağlığı ve güvenliği gibi konular belirli saatlik modüller halinde verilir.",
+  "belge": "İşbaşı eğitiminde resmi bir belge düzenlenmeyebilir. Kurs tamamlandığında kurs bitirme belgesi verilir. Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Mermer Silim İşçisi; mermer ve doğal taş işleme fabrikaları, mermer ocaklarına bağlı işleme tesisleri ile plaka ve blok mermer üretimi yapan özel sektör işletmelerinde çalışma imkânı bulur. Bu işletmeler ağırlıklı olarak mermer ocaklarının ve işleme tesislerinin yoğun olduğu bölgelerde yer almaktadır.",
+ "kazanc": {
+  "egitim_suresince": "İşbaşında usta yanında çalışılarak öğrenilen bir meslek olduğundan, genellikle öğrenme sürecinde işletme tarafından belirlenen düzeyde bir ücret söz konusu olabilir; kurslarda ise eğitim süresince kazanç söz konusu değildir.",
+  "egitim_sonrasi": [
+   "Özel sektörde çalışan Mermer Silim İşçilerinin ücreti, işin yapıldığı işletmenin büyüklüğüne, işçinin deneyim ve becerisine, işveren ile yapılan anlaşmaya göre değişiklik gösterir.",
+   "Yeni başlayanlarda ücret genellikle asgari ücret düzeyindedir, deneyim kazandıkça artış gösterebilir.",
+   "İşçi statüsünde çalışılması halinde varsa toplu iş sözleşmesi hükümleri uygulanır."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Bu meslek için tanımlı, kademeli bir örgün mesleki eğitim ilerleme basamağı bulunmamaktadır.",
+  "is_hayatinda": "Mesleki tecrübe ve bilgi birikimine göre ustalık, vardiya sorumluluğu veya usta başılık gibi görevlere yükselinebilir."
+ },
+ "benzer_meslekler": [
+  "Mermer Dolum İşçisi",
+  "Mermer Seleksiyon İşçisi",
+  "Katrak Makinesi Operatörü (Mermer)",
+  "Taş Perdah İşçisi (Makine İle)",
+  "Taş Planya Makinesi Operatörü",
+  "CNC Mermer İşleme Makinesi Operatörü",
+  "Mermer Torna Makinesi Operatörü"
+ ],
+ "ek_bilgiler": "Mermer Silim İşçiliği, Türkiye'de özellikle Afyonkarahisar, Muğla, Denizli ve Bilecik gibi mermer ocaklarının ve işleme tesislerinin yoğun olduğu bölgelerde iş imkânı sunmaktadır.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T10:26:08",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 4487
+  }
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "gorevler": [
+  "Proje ihtiyacına uygun mikrodenetleyici mimarisini (ARM, PIC vb.) seçer.",
+  "C/C++, Assembly veya benzeri dillerle gömülü yazılım geliştirir.",
+  "Donanım-yazılım entegrasyonu için sensör ve motor sürücü kodları yazar.",
+  "Yazılımı debug (hata ayıklama) süreçlerinden geçirerek optimize eder.",
+  "Teknik dökümantasyon hazırlar ve sürüm güncellemelerini yönetir.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "arac_gerec": [
+  "Bilgisayar",
+  "Mikrodenetleyici geliştirme kartları (Arduino, STM32, PIC, ARM tabanlı kartlar vb.)",
+  "Entegre geliştirme ortamları (IDE) ve derleyiciler",
+  "Programlayıcı/debugger cihazları (JTAG, ISP programlayıcı vb.)",
+  "Multimetre",
+  "Osiloskop",
+  "Lehim istasyonu ve lehim malzemeleri",
+  "Breadboard ve prototipleme kitleri",
+  "Sensörler ve motor sürücü modülleri",
+  "Konnektör, kablo ve bağlantı elemanları",
+  "Versiyon kontrol yazılımları",
+  "Teknik dokümantasyon ve proje yönetim yazılımları"
+ ],
+ "genel_ozellikler": [
+  "Matematiksel ve mantıksal düşünme yeteneğine sahip,",
+  "Elektronik ve elektrik devrelerine ilgili,",
+  "Analitik düşünme ve problem çözme becerisi olan,",
+  "Dikkatli ve sabırlı,",
+  "Yeni teknolojileri takip etmeye istekli, araştırmacı,",
+  "El becerisine sahip (lehim ve devre montajı için),",
+  "Ekip çalışmasına uyumlu, iletişim becerisi iyi,",
+  "Sorumluluk sahibi ve titiz"
+ ],
+ "calisma_ortami": "Mikrodenetleyici programcıları genellikle büro ya da AR-GE/elektronik atölye ve laboratuvar ortamlarında çalışır; iş büyük ölçüde oturarak, bilgisayar başında kodlama yaparak yürütülür. Geliştirilen yazılımın donanım üzerinde test edilmesi gerektiğinde elektronik laboratuvarında veya üretim/saha ortamında da bulunabilir; bu aşamalarda lehim dumanı, statik elektrik ve küçük elektronik parçalarla çalışma gibi riskler söz konusu olabilir.\n\nÇalışma genellikle düzenli mesai saatleri içinde yürütülür, ancak proje teslim tarihlerine yaklaşıldığında mesai saatleri uzayabilir. Meslek mensubu; elektrik-elektronik mühendisleri, donanım tasarımcıları, diğer yazılım geliştiricileri ve proje yöneticileriyle sürekli iş birliği içinde çalışır.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi için \"Mikrodenetleyici Programcısı\" adıyla müstakil ve zorunlu bir okul/bölüm bulunmamaktadır. Meslek; üniversitelere bağlı meslek yüksekokullarının elektronik, bilgisayar programcılığı, mekatronik, kontrol ve otomasyon gibi ilgili ön lisans programlarından, mühendislik fakültelerinin elektrik-elektronik mühendisliği, bilgisayar mühendisliği, mekatronik mühendisliği gibi lisans programlarından mezun olunarak; ayrıca Halk Eğitim Merkezleri, İŞKUR'un açtığı mesleki eğitim kursları ve özel kurslar/çevrimiçi eğitim platformlarında verilen gömülü sistem ve mikrodenetleyici programlama eğitimleriyle de kazanılabilmektedir.",
+  "giris_kosullari": [
+   "Lise veya dengi okul mezunu olmak (meslek için gereken asgari eğitim düzeyi ortaöğretimdir)",
+   "Ön lisans veya lisans programlarına girmek isteyenler için YKS (Yükseköğretim Kurumları Sınavı) kılavuzunda belirtilen koşulları taşımak",
+   "Kurs yoluyla yetişmek isteyenler için ilgili kurumun aradığı yaş ve temel eğitim düzeyi koşullarını taşımak"
+  ],
+  "sure_ve_icerik": "Resmi olarak \"Mikrodenetleyici Programcısı\" adında müstakil bir eğitim programı bulunmamaktadır; meslek genellikle elektronik, bilgisayar veya mekatronik alanındaki ön lisans (2 yıl) ya da lisans (4 yıl) programlarından mezun olunduktan sonra veya işbaşında/kurslarla edinilen bilgi birikimiyle yürütülür. Bu programlarda elektronik devreler, sayısal/analog elektronik, programlama temelleri (C/C++), mikroişlemci/mikrodenetleyici mimarileri, gömülü sistemler ve sensör-aktüatör entegrasyonu gibi dersler okutulur. Kurs ve sertifika programlarında ise genellikle belirli bir mikrodenetleyici platformu (Arduino, STM32, PIC vb.) üzerinden uygulamalı eğitim verilmektedir.",
+  "belge": "Ön lisans veya lisans programını başarıyla tamamlayanlara \"Ön Lisans\" ya da \"Lisans\" diploması; kurs/sertifika programlarını tamamlayanlara ise katılım veya başarı belgesi/sertifika verilir."
+ },
+ "calisma_alanlari": "Elektronik cihaz üreten firmalar, otomotiv elektroniği ve beyaz eşya sanayii, nesnelerin interneti (IoT) cihazları geliştiren şirketler, savunma sanayii, robotik ve endüstriyel otomasyon firmaları, telekomünikasyon ve enerji sektörü işletmeleri ile AR-GE merkezlerinde istihdam edilebilirler. Ayrıca proje bazlı serbest çalışabilir veya kendi girişimini (start-up) kurabilirler.",
+ "kazanc": {
+  "egitim_suresince": "Ön lisans veya lisans eğitimi alanlar, öğrenim kredisi, yurt hizmetleri ve çeşitli resmi/özel burs olanaklarından yararlanabilir. Kurs yoluyla yetişenler için düzenli bir kazanç söz konusu değildir; bazı mesleki eğitim kursları (İŞKUR kursları gibi) ücretsiz olabilir.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında istihdam edilenler 657 sayılı Devlet Memurları Kanunu'na veya işçi statüsündeyse ilgili toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde yeni başlayanlar genellikle asgari ücret düzeyinde veya buna yakın bir ücretle işe başlar; kazanç işyerinin büyüklüğü, kişinin deneyimi, bilgi/yetenek düzeyi ve sektörün ücret politikasına göre değişebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Ön lisans programını tamamlayanlar, DGS (Dikey Geçiş Sınavı) ile ilgili mühendislik lisans programlarına geçiş yapabilir. Lisans mezunları ise yüksek lisans ve doktora yaparak akademik veya AR-GE alanında ilerleme olanağına sahiptir.",
+  "is_hayatinda": "İş hayatında edinilen deneyim ve bilgiye bağlı olarak kıdemli gömülü yazılım geliştirici, donanım-yazılım entegrasyon uzmanı, proje/takım lideri veya AR-GE birimi sorumlusu gibi görevlere yükselme olanağı vardır."
+ },
+ "benzer_meslekler": [
+  "Yazılım Mühendisi",
+  "Bilgisayar Mühendisi",
+  "Donanım Geliştirme Uzmanı",
+  "Mikroişlem Tasarımcısı",
+  "Sistem Programcısı",
+  "Uygulama Programcısı"
+ ],
+ "ek_bilgiler": "Mesleğe özgü zorunlu bir ruhsat veya yasal sertifika bulunmamaktadır; ancak üretici firma sertifikaları ve Mesleki Yeterlilik Kurumu (MYK) belgesi gibi belgeler istihdamda tercih sebebi olabilir. Çalışılacak sektöre göre (örneğin savunma sanayii, otomotiv) bazı işverenler ek güvenlik soruşturması veya referans isteyebilir; bu durum firmadan firmaya değişen bir uygulamadır.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T06:01:12",
+  "usage": {
+   "input_tokens": 4,
+   "output_tokens": 12518
+  }
+ }
+}

@@ -1,0 +1,68 @@
+{
+ "arac_gerec": [
+  "Toplama kovası, file ve kasalar",
+  "Tırmık, çapa benzeri toplama aparatları",
+  "Su geçirmez tulum, bot/çizme",
+  "Koruyucu eldiven",
+  "Boy/büyüklük ölçüm eleği veya mastar",
+  "Yüzme ve gerektiğinde dalış ekipmanı",
+  "Soğutucu/buzlu nakliye kapları",
+  "Kıyı veya küçük tekne türü taşıma aracı",
+  "Temizleme ve arındırma için su ve elek sistemleri"
+ ],
+ "genel_ozellikler": [
+  "Fiziksel olarak dayanıklı ve güçlü,",
+  "Soğuk, nemli ve değişken hava koşullarına dayanıklı,",
+  "Yüzme bilen ve suda çalışmaktan çekinmeyen,",
+  "Dikkatli ve sabırlı,",
+  "El becerisine sahip,",
+  "Açık havada ve zorlu arazi koşullarında çalışmaya istekli,",
+  "Takım halinde çalışabilen,",
+  "Doğaya ve çevreye duyarlı"
+ ],
+ "calisma_ortami": "Kabuklu ve yumuşakça toplayıcısı, deniz kıyılarında, sığ sularda, kumsal ve kayalık alanlarda açık havada çalışır. Çalışma sırasında soğuk su ve değişken hava koşullarına (rüzgâr, yağış, güneş) maruz kalır; uzun süre eğilerek, çömelerek veya suya girerek çalışması gerekebilir. Kayalık ve kaygan zeminlerde yürüme, deniz canlılarıyla temas gibi fiziksel riskler söz konusudur.\n\nÇalışma saatleri mevsime, hava ve deniz koşullarına göre değişkenlik gösterir; genellikle sabah erken saatlerde ve gelgit zamanlarına bağlı olarak çalışılır. Meslek genellikle küçük ekipler hâlinde, zaman zaman tek başına yürütülür; toplayıcı, işletme veya kooperatif yetkilileri, tekne sahipleri ve diğer toplayıcılarla iletişim hâlindedir. Çalışma büyük ölçüde mevsimsel ve bölgesel özellik taşır.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin örgün bir okul eğitimi veya özel bir meslek lisesi programı bulunmamaktadır. Bilgi ve beceriler genellikle işbaşında, deneyimli toplayıcıların yanında çalışarak kazanılır. Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kurslarında su ürünleri ve kıyı balıkçılığı ile ilgili kurslar, mesleğe yönelik temel bilgi ve beceri kazandırabilir.",
+  "giris_kosullari": [
+   "Okuryazar olmak",
+   "Yüzme bilmek ve soğuk/sığ suda çalışmaya uygun sağlık durumuna sahip olmak",
+   "Fiziksel olarak açık havada ve zorlu koşullarda çalışmaya elverişli olmak"
+  ],
+  "sure_ve_icerik": "Mesleğin standart bir eğitim süresi ve müfredatı bulunmamaktadır; mesleki bilgi ve beceriler zaman içinde işbaşında kazanılır. Açılabilecek kısa süreli kurslarda deniz ürünlerini tanıma, toplama teknikleri, toplama alanlarının yasal sınırlamaları, hijyen ve gıda güvenliği konularında temel bilgiler verilebilir.",
+  "belge": "Örgün eğitim sonunda verilen resmî bir diploma veya sertifika bulunmamaktadır. Katılınan kurslar sonunda katılım belgesi alınabilir; Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Kabuklu ve yumuşakça toplayıcıları; su ürünleri avcılığı ve toplama işletmelerinde, su ürünleri kooperatiflerinde, kıyı balıkçılığı ile uğraşan küçük işletmelerde veya kendi hesabına çalışarak iş bulabilirler. İş bulma olanakları bölgeye, mevsime, toplama alanlarının bulunduğu kıyı şeridine ve deniz ürünleri talebine göre değişkenlik gösterir; kıyı bölgelerinde ve belirli hasat dönemlerinde çalışma olanağı artar.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğin örgün bir eğitim basamağı bulunmadığından eğitim süresince ayrı bir ücretlendirme söz konusu değildir; işbaşında öğrenme sürecinde kişi genellikle çalıştığı işletmeden ya da topladığı ürün karşılığında ücret alır.",
+  "egitim_sonrasi": [
+   "Kamuya bağlı kurum veya kooperatiflerde istihdam edilenler, tabi oldukları mevzuata (657 sayılı Kanun veya işçi statüsündeyse ilgili toplu iş sözleşmesi hükümlerine) göre ücret alır.",
+   "Özel sektörde ve kendi hesabına çalışanlarda kazanç; toplanan ürün miktarı, mevsim, bölge, işletmeyle yapılan anlaşma ve kişinin deneyimine göre değişir; mesleğe yeni başlayanlarda gelir genellikle asgari ücret düzeyinde seyreder."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğin örgün bir eğitim kademesi bulunmadığından bu alanda resmî bir ilerleme basamağı yoktur. Kişi, su ürünleri yetiştiriciliği veya avcılığı alanında açılan kurslara katılarak bilgi ve becerisini geliştirebilir.",
+  "is_hayatinda": "Deneyim kazanan kişiler ekip sorumlusu veya usta toplayıcı konumuna yükselebilir, kendi hesabına çalışarak küçük ölçekli bir işletme kurabilir ya da su ürünleri işletmelerinde daha kalifiye görevlerde istihdam edilebilir."
+ },
+ "benzer_meslekler": [
+  "Balıkçılık ve Avcılık İşçileri",
+  "Kurbağa Toplayıcısı",
+  "Salyangoz Toplayıcısı"
+ ],
+ "ek_bilgiler": "Kabuklu ve yumuşakça toplama faaliyeti; toplama alanlarının kirlilik düzeyi, tür ve boy sınırlamaları gibi yasal düzenlemelere tabidir ve ilgili kamu kurumlarınca denetlenir. Meslek, bölgesel ve mevsimsel koşullara bağlı olarak değişkenlik gösterir.",
+ "gorevler": [
+  "Toplama alanlarının yasal ve sağlık açısından uygunluğunu kontrol eder.",
+  "Belirlenen türdeki kabukluları uygun aparatlarla toplar.",
+  "Toplanan ürünleri yabancı maddelerden ve kumdan arındırır.",
+  "Ürünleri büyüklüklerine göre tasnif ederek fileler/kasalar.",
+  "Hasat edilen ürünlerin taze kalması için uygun nakliye hazırlığı yapar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T19:34:55",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5361
+  }
+ }
+}

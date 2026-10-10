@@ -1,0 +1,95 @@
+{
+ "arac_gerec": [
+  "Boru kesme ve kıvırma (bükme) makineleri",
+  "Sert lehim/kaynak takımı (oksi-asetilen, brazing ekipmanı)",
+  "Vakum pompası",
+  "Manifold gösterge seti (basınç ölçüm takımı)",
+  "Kaçak dedektörü",
+  "Termometre ve nem ölçer",
+  "Elektrikli matkap, delik açma ekipmanları",
+  "El aletleri (pense, anahtar takımı, tornavida, metre, gönye)",
+  "Su terazisi, şakül",
+  "Kompresör ve basınçlı hava ekipmanları",
+  "Soğutucu gaz tüpleri ve dolum ekipmanları",
+  "İzolasyon malzemeleri ve uygulama aletleri",
+  "Kaldırma ve taşıma ekipmanları (caraskal, vinç, el arabası)",
+  "Teknik proje ve montaj şemaları",
+  "Kişisel koruyucu donanım (eldiven, gözlük, kulaklık, iş ayakkabısı)"
+ ],
+ "genel_ozellikler": [
+  "El ve kol becerisine sahip,",
+  "Dikkatli ve sabırlı,",
+  "Fiziksel olarak güçlü ve dayanıklı,",
+  "Mekanik ve teknik konulara ilgili,",
+  "Teknik çizim ve projeleri okuyup yorumlayabilen,",
+  "Takım halinde çalışmaya uyumlu,",
+  "Dar ve yüksek alanlarda çalışabilen,",
+  "İş sağlığı ve güvenliği kurallarına duyarlı,"
+ ],
+ "calisma_ortami": "Endüstriyel Soğutma Sistemleri Montajcısı; fabrika, soğuk hava deposu, gıda ve ilaç üretim tesisi, hastane, alışveriş merkezi gibi kapalı mekânlarda, bazen de soğutma gruplarının çatı veya dış mekân kurulumlarında açık alanlarda çalışır. İş; ayakta, eğilerek, zaman zaman dar ve yüksek alanlarda yürütülür; boru kesme, bükme, kaynak yapma ve ağır parça taşıma gibi fiziksel güç gerektiren işlemleri kapsar. Soğutucu gazlarla çalışma, kesici-delici alet kullanımı ve yükseklik nedeniyle iş kazası riski bulunduğundan kişisel koruyucu donanım kullanımı önem taşır.\n\nÇalışma saatleri genellikle gündüz vaktidir; ancak montaj teslim tarihlerine göre fazla çalışma gerekebilir. Meslek elemanı; mühendisler, teknisyenler, aynı ekipte çalıştığı diğer montaj personeli, işveren veya müteahhit ile sürekli iletişim halindedir.",
+ "gorevler": [
+  "İş sağlığı ve güvenliği, yangın ve acil durum kurallarını uygular.",
+  "Çevre koruma mevzuatına uygun çalışır.",
+  "Kalite yönetim sistemi dokümanlarına uygun çalışır.",
+  "Montaj öncesi mekanik işlemleri yürütür.",
+  "Tesisat elemanlarının ölçümünü yapar.",
+  "Boru kesimi yapar, montaj için delik deler, metal yüzeyi işler.",
+  "Montaj öncesi ön hazırlık işlemlerini yürütür; soğutma sistem projesini okur, malzeme temin eder, montaj araç ve takımlarını hazırlar.",
+  "Soğutma sistemi elemanlarının montajını yapar.",
+  "Soğutma grubunun montajını yapar.",
+  "Kontrol paneli montajını yapar.",
+  "Soğutma sistemi boru tesisatı yapar.",
+  "Boru bükme işlemi yapar.",
+  "Boru tesisat montajı yapar.",
+  "Boru tesisatını sabitler.",
+  "Soğutma sistemi ünitelerinin montajını yapar.",
+  "Soğuk oda sistem montajı yapar.",
+  "Su soğutma (Chiller) ünitesi montajı yapar.",
+  "Cihaz kaidesini hazırlar.",
+  "Montaj sonrası soğutma sisteminin testini yapar, boru izolasyonu yapar.",
+  "Soğutma sistemlerinin bakımını gerçekleştirir.",
+  "Soğutma sistemlerinin basit onarım işlemlerini yapar.",
+  "Mesleki gelişim faaliyetlerine katılır."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi, mesleki eğitim merkezlerinin ve mesleki ve teknik ortaöğretim kurumlarının elektrik-elektronik teknolojisi ya da iklimlendirme ve soğutma teknolojisi ile ilgili alan/dallarında verilmektedir. Ayrıca Halk Eğitim Merkezleri ile İŞKUR'un açtığı mesleki eğitim kurslarında yetişkinlere yönelik kısa süreli eğitimler de düzenlenebilmektedir. Meslekte işbaşında usta yanında çalışarak yetişme de yaygındır.",
+  "giris_kosullari": [
+   "Çıraklık/mesleki eğitime başlamak için en az ilköğretim (ortaokul) mezunu olmak",
+   "Yaş şartını (genellikle 14 yaşını doldurmuş olma) karşılamak",
+   "Mesleğin gerektirdiği bedensel ve sağlık koşullarına (fiziksel güç, dar ve yüksek alanlarda çalışabilme) uygun olmak",
+   "Eğitim görülecek işyeri ile çıraklık veya mesleki eğitim sözleşmesi imzalamak"
+  ],
+  "sure_ve_icerik": "Mesleki eğitim merkezlerinde eğitim, teorik derslerin haftada bir gün eğitim kurumunda, uygulamalı eğitimin ise haftanın kalan günlerinde işyerinde usta öğretici gözetiminde yürütülmesi esasına dayanır. Program kapsamında iş sağlığı ve güvenliği, teknik resim okuma, soğutma sistemleri bilgisi, boru montaj ve kaynak/lehim teknikleri, elektrik-elektronik temelleri gibi konular yer alır. Mesleğe, ilgili teknik eğitim almadan doğrudan işbaşında usta yanında çalışarak girenler de bulunmaktadır.",
+  "belge": "Mesleki eğitimi tamamlayanlara kalfalık, ardından ustalık belgesi verilir. Kurslara katılanlar kurs bitirme belgesi alabilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, özellikle soğutucu gazlarla çalışma gerektiren işlerde istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Bu meslek elemanları; fabrikalar, soğuk hava depoları, gıda ve ilaç üretim tesisleri, hastaneler, alışveriş merkezleri gibi endüstriyel soğutma ve iklimlendirme sistemlerine ihtiyaç duyulan işletmelerde; bu sistemleri üreten, montajını yapan veya bakım-onarımını üstlenen firmalarda ve taahhüt şirketlerinde çalışabilir. Bir işyerine bağlı olarak istihdam edilebileceği gibi, deneyim ve sermaye biriktirdikten sonra kendi işyerini açarak bağımsız olarak da çalışabilir. İş bulma olanakları; inşaat, gıda, ilaç, lojistik ve sanayi sektörlerindeki yatırım ve üretim faaliyetlerinin seyrine bağlı olarak değişmektedir.",
+ "kazanc": {
+  "egitim_suresince": "3308 sayılı Mesleki Eğitim Kanunu kapsamında işletmelerde mesleki eğitim gören öğrencilere, işletme büyüklüğüne göre değişen oranlarda asgari ücretin net tutarının bir bölümü kadar ücret ödenir; öğrencilerin iş kazası ve meslek hastalığı sigortası primleri devletçe karşılanır.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde bir kazanç elde eder.",
+   "Deneyim, uzmanlık düzeyi ve çalışılan işin büyüklüğüne göre kazanç artabilir.",
+   "Kendi işyerini açan veya taahhüt işleri üstlenen meslek elemanlarının kazancı, üstlendiği işin hacmine göre değişkenlik gösterir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleki eğitim merkezinden diploma alanlar, iklimlendirme ve soğutma teknolojisi veya ilgili alanlardaki ön lisans/lisans programlarına yönelebilir. Çeşitli kurs ve sertifika programlarına katılarak bilgi ve becerilerini güncelleyebilir.",
+  "is_hayatinda": "Deneyim kazandıkça usta, ekip şefi veya proje sorumlusu gibi görevlere yükselebilir. Yeterli deneyim ve sermayeye sahip olanlar kendi işyerini açarak bağımsız çalışabilir."
+ },
+ "benzer_meslekler": [
+  "Soğutma Isıtma Sistemleri Bakım-Onarımcısı",
+  "Endüstriyel Soğutma Sistemleri Servis Elemanı",
+  "Endüstriyel Soğutma Sistemleri Uzmanı",
+  "Evsel ve Ticari Soğutma Sistemleri Servis Ustası",
+  "Merkezi ve Endüstriyel İklimlendirme Sistemleri Servis Elemanı",
+  "Merkezi ve Endüstriyel İklimlendirme Sistemleri Servis Ustası"
+ ],
+ "ek_bilgiler": "Soğutucu gazlarla çalışma, florlu sera gazlarına ilişkin çevre mevzuatı ve iş güvenliği düzenlemelerine uyulmasını gerektirir; bu konulardaki ek sertifikalar istihdamda tercih sebebi olabilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T23:47:20",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 7463
+  }
+ }
+}

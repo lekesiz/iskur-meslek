@@ -1,0 +1,73 @@
+{
+ "gorevler": [
+  "Temel elektrik-elektronik devreleri çizer.",
+  "Temel elektrik-elektronik devreleri kurar.",
+  "Elektriksel bağlantıları yapar.",
+  "Elektriksel ölçmeler yapar.",
+  "Temel elektrik-elektronik elemanları kullanır.",
+  "Elektriksel arıza analizi yapar.",
+  "Zincir dikiş makinesinin ayarlarını yapar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "arac_gerec": [
+  "El takımları (tornavida, pense, anahtar takımları, eğe)",
+  "Ölçü aletleri (metre, kumpas, çelik cetvel)",
+  "Multimetre/avometre ve elektriksel ölçüm cihazları",
+  "Lehim takımı ve kablo bağlantı elemanları",
+  "Zincir dikiş makinesi parçaları ve yedek parçaları",
+  "Yağlama ekipmanları ve yağlar",
+  "Temizlik ekipmanları (hava tabancası, fırça, temizlik bezleri)",
+  "Makine bakım ve kullanım kılavuzları/kataloğları",
+  "El feneri ve aydınlatma gereçleri",
+  "Kişisel koruyucu donanım (eldiven, gözlük, iş elbisesi)"
+ ],
+ "genel_ozellikler": [
+  "El becerisine sahip,",
+  "Makine parçaları arasındaki ilişkiyi görebilen,",
+  "Dikkatli ve sabırlı,",
+  "El ve gözlerini eşgüdümle kullanabilen,",
+  "Elektrik-elektronik sistemlere ilgi duyan,",
+  "Sorumluluk sahibi,",
+  "Yönergeleri doğru biçimde izleyebilen,",
+  "Aletlerle ve makinelerle çalışmaktan hoşlanan,"
+ ],
+ "calisma_ortami": "Zincir makinesi kurulum ve bakım onarımcıları, genellikle tekstil ve konfeksiyon üretim tesislerinin atölye bölümlerinde, kapalı mekanlarda çalışırlar. Çalışma ortamı makine gürültüsüne, yağ ve toza açık olabilir; iş sırasında ayakta durma, eğilme ve dar alanlarda çalışma gerekebilir.\n\nÇalışma saatleri genellikle işyerinin üretim programına bağlı olup, bazı işletmelerde vardiyalı çalışma söz konusu olabilir. Bu mesleği yürütenler daha çok makine, alet ve elektriksel donanımla ilgilenir; üretim operatörleri, atölye sorumluları ve diğer teknik personelle sürekli iletişim halinde çalışırlar.",
+ "egitim": {
+  "verildigi_yerler": "Bu meslek için bağımsız bir çıraklık dalı veya meslek lisesi programı bulunmamaktadır. İlgili mesleki ve teknik eğitim programları (Elektrik-Elektronik Teknolojisi, Tekstil Teknolojisi gibi alanlar) kapsamında temel bilgi ve beceriler kazanılabilir. Bunun yanında meslek, genellikle işbaşında usta yanında yetişme yoluyla veya Halk Eğitim Merkezleri ile İŞKUR'un açtığı mesleki eğitim kursları aracılığıyla öğrenilmektedir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "Mesleğin gerektirdiği el becerisine ve fiziksel koşullara uygun sağlık durumuna sahip olmak"
+  ],
+  "sure_ve_icerik": "Resmî olarak tanımlanmış standart bir eğitim süresi bulunmamaktadır. İlgi duyanlar genellikle ilgili tekstil makineleri bakım-onarım veya elektrik-elektronik alanındaki temel eğitimleri aldıktan sonra işyerinde usta yanında uygulamalı olarak zincir dikiş makinesinin elektriksel ve mekanik özelliklerini öğrenirler. Süre, kişinin önceki bilgi birikimine ve çalıştığı işletmenin eğitim imkanlarına göre değişir.",
+  "belge": "Mesleki ve teknik eğitim kurumlarından alınan ilgili alan diploması veya sertifika sahibi olunabilir. Ayrıca Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Zincir makinesi kurulum ve bakım onarımcıları, zincir dikiş makinesi kullanılan tekstil ve konfeksiyon üretim tesislerinde, bu makineleri üreten veya satan firmalarda, makine bakım-onarım servislerinde çalışabilirler. Tekstil sektörünün yoğun olduğu bölgelerde bu meslek için istihdam olanağı bulunmaktadır.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğe yönelik resmî bir çıraklık eğitimi programı bulunmadığından, işbaşında eğitim alanlar genellikle çalıştıkları işyerinin belirlediği ücretle çalışırlar.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında istihdam edilenler, memur statüsündeyse 657 sayılı Devlet Memurları Kanunu'na, işçi statüsündeyse ilgili toplu iş sözleşmesi hükümlerine göre ücret alırlar.",
+   "Özel sektörde yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar; kişinin tecrübesi, bilgisi, yeteneği ve işletmenin büyüklüğüne göre kazanç değişebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "İlgili mesleki ve teknik eğitim programlarını tamamlayanlar, alanın devamı niteliğindeki ön lisans/lisans programlarına yönelebilir. Çeşitli kurs ve seminerlere katılarak mesleki bilgi ve becerilerini artırabilirler.",
+  "is_hayatinda": "Deneyim kazandıkça usta, bakım sorumlusu veya atölye şefi olarak görev alabilirler. Yeterli bilgi ve sermaye birikimine sahip olanlar bağımsız bakım-onarım işyeri açabilirler."
+ },
+ "benzer_meslekler": [
+  "Düğme ve Punteriz Makineleri Kurulum ve Bakım Onarımcısı",
+  "İlik Makinesi Kurulum ve Bakım Onarımcısı",
+  "Overlok Makinesi Kurulum ve Bakım Onarımcısı",
+  "Düz Dikiş Makinesi Kurulum ve Bakım Onarımcısı",
+  "Çift İğne Makinesi Kurulum ve Bakım Elemanı",
+  "Konfeksiyon Makineleri Tamircisi"
+ ],
+ "ek_bilgiler": "Bu meslek, tekstil ve konfeksiyon sektöründe kullanılan zincir dikiş makinelerinin kurulumu ve bakımına özgü, dar kapsamlı ve uzmanlaşmış bir alandır. İstihdam olanağı, büyük ölçüde tekstil sektörünün üretim hacmine ve bölgesel yoğunluğuna bağlı olarak değişmektedir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T02:59:15",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 4964
+  }
+ }
+}

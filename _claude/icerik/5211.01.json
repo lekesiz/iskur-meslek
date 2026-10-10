@@ -1,0 +1,81 @@
+{
+ "arac_gerec": [
+  "Satış tezgahı/reyon ve raflar",
+  "Yazar kasa veya POS cihazı",
+  "Para çekmecesi/kasa kutusu",
+  "Buzdolabı, soğutucu vitrin veya içecek dolabı",
+  "Isıtıcı cihazlar (tost makinesi, ızgara, sosis/kızartma makinesi vb.)",
+  "Gazete-dergi standı/sergi ünitesi",
+  "Kontör/hat yükleme cihazı veya POS üzerinden kontür sistemi",
+  "Ambalaj malzemeleri, poşet, peçete",
+  "Fiş/fatura makbuzu ve hesap makinesi",
+  "Temizlik malzeme ve ekipmanları",
+  "Stok ve sipariş defteri/formları",
+  "Çöp kovası ve atık kapları"
+ ],
+ "genel_ozellikler": [
+  "Güler yüzlü ve insan ilişkilerinde başarılı,",
+  "Dikkatli ve hesap konusunda titiz,",
+  "Dürüst ve güvenilir,",
+  "Sorumluluk sahibi,",
+  "Fiziksel olarak dayanıklı,",
+  "Düzenli ve temiz çalışmaya önem veren,",
+  "Müşteri memnuniyetine odaklı,",
+  "Pratik ve çözüm odaklı düşünebilen"
+ ],
+ "calisma_ortami": "Büfeciler genellikle şehir merkezlerinde, cadde üzerlerinde, sahil, park, okul, hastane ve iş merkezi çevrelerinde yer alan küçük, kapalı veya yarı açık büfe, kiosk ya da sabit tezgah tipi işyerlerinde çalışır. Bazı büfeler tamamen kapalı mekanlardır, bazıları ise açık havaya bakan bir tezgah düzenindedir; bu durumda sıcak, soğuk, yağış gibi iklim koşullarından etkilenebilirler.\n\nÇalışma genellikle ayakta ve dar bir alanda geçer; mesai saatleri işyerinin açılış-kapanış saatlerine göre uzun olabilir, hafta sonu ve resmi tatillerde de çalışma söz konusudur. Büfeci, gün içinde çok sayıda müşteriyle ve ürün tedarik eden firma temsilcileriyle sürekli iletişim halindedir. Para ile sürekli işlem yapması nedeniyle dikkat ve güvenilirlik gerektiren bir çalışma temposu vardır.",
+ "egitim": {
+  "verildigi_yerler": "Büfecilik için örgün eğitim sisteminde (mesleki eğitim merkezi/meslek lisesi) ayrı bir çıraklık dalı bulunmamaktadır. Meslek genellikle işbaşında, usta yanında çalışarak öğrenilir. İsteyenler, Halk Eğitim Merkezleri ile İŞKUR tarafından açılan satış elemanlığı, perakende satış, müşteri ilişkileri gibi kısa süreli mesleki eğitim kurslarına katılarak bilgi ve becerilerini geliştirebilir.",
+  "giris_kosullari": [
+   "Okuryazar olmak, tercihen ilköğretim mezunu olmak",
+   "İşbaşında çalışmaya başlayabilmek için ilgili işyeri sahibi ile anlaşmak",
+   "İş sağlığına uygun bir sağlık durumuna sahip olmak",
+   "Kendi işyerini açmak isteyenler için reşit olmak ve ilgili mevzuatta belirtilen koşulları taşımak"
+  ],
+  "sure_ve_icerik": "Mesleğe yönelik belirli bir süre ve müfredatı olan resmî bir eğitim programı tanımlanmamıştır. Beceriler genellikle işyerinde çalışarak kısa sürede kazanılır (kasa ve satış işlemleri, stok takibi, müşteri ilişkileri, hijyen ve temizlik kuralları gibi). İsteyenler, İŞKUR ve Halk Eğitim Merkezlerinin açtığı satış/perakende alanındaki kısa süreli kurslara katılabilir.",
+  "belge": "Örgün eğitim sonucu verilen bir diploma bulunmamaktadır. Katılınan kurslar sonunda kurs bitirme/katılım belgesi alınabilir. Kendi işini açacak kişilerin ilgili belediyeden işyeri açma ve çalışma ruhsatı alması gerekir."
+ },
+ "calisma_alanlari": "Büfeciler; cadde, sokak, sahil, park, okul, hastane, iş merkezi, alışveriş merkezi gibi yoğun insan trafiğinin olduğu alanlardaki büfe, kiosk veya sabit tezgah işletmelerinde çalışabilirler. Gazete-dergi bayilerinde, büfe zincirlerinde çalışan olarak istihdam edilebilecekleri gibi, yeterli sermaye ve deneyime sahip olduklarında kendi büfelerini açarak bağımsız olarak da çalışabilirler. Meslek, küçük ölçekli kendi işini kurmaya uygundur.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğe yönelik örgün ve ücretli bir çıraklık eğitim süreci bulunmadığından, işbaşında usta yanında yetişenlere genellikle işveren tarafından belirlenen bir ücret ödenebilir. Kısa süreli İŞKUR/Halk Eğitim Merkezi kurslarına katılım genellikle ücretsizdir ve bu süreçte çalışma karşılığı bir kazanç söz konusu olmaz.",
+  "egitim_sonrasi": [
+   "Yeni başlayan ve işletmede çalışan büfeciler genellikle asgari ücret düzeyinde bir kazanç elde eder.",
+   "Kazanç; çalışılan işyerinin büyüklüğü, konumu, çalışma saatleri, kişinin deneyimi ve tecrübesine göre değişebilir.",
+   "Kendi işyerini açan büfecilerin kazancı; işletmenin konumu, müşteri yoğunluğu ve işletme giderlerine göre değişkenlik gösterir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğe özgü kademeli bir örgün eğitim/ilerleme sistemi bulunmamaktadır. Büfeciler, satış, perakende, müşteri ilişkileri ve küçük işletme yönetimi alanlarında açılan kurs ve sertifika programlarına katılarak bilgi ve becerilerini geliştirebilirler.",
+  "is_hayatinda": "Deneyim kazanan büfeciler daha büyük işletmelerde sorumlu veya işletmeci konumuna gelebilir, zincir market/kiosk işletmelerinde kademe içinde ilerleyebilir. Yeterli sermaye ve deneyime sahip olanlar kendi büfelerini veya küçük market/bakkal işletmelerini açarak bağımsız çalışabilirler."
+ },
+ "benzer_meslekler": [
+  "Pazarcı",
+  "Sokak Satıcısı / İşportacı (Gıda)",
+  "Diğer Sokak Satıcıları/işportacılar (Gıda)",
+  "Sütçü-Seyyar Süt Satıcısı"
+ ],
+ "ek_bilgiler": "Kendi işyerini açmak isteyen büfecilerin ilgili belediyeden işyeri açma ve çalışma ruhsatı alması gerekir. Tütün ve tütün mamulleri veya alkollü içecek satışı yapılacaksa ilgili mevzuat kapsamında ek satış izin belgesi alınması zorunludur. Mesleki Yeterlilik Kurumu (MYK) belgesi bu meslek için yasal bir zorunluluk olmamakla birlikte, iş başvurularında tercih sebebi olabilir.",
+ "gorevler": [
+  "Satışı yapılacak ürünlerin raf düzenlemesini yapar.",
+  "Satışı yapılacak gazete, dergi vb. yayınları satışa hazırlar, stantlara yerleştirir.",
+  "Büfenin temizlik ve düzenini sağlar.",
+  "Gelen müşterileri karşılar, istediği ürünü verir, ücretini alır, fişini düzenleyerek verir.",
+  "Kontürlü telefonla görüşmek isteyen müşterilere yardımcı olur, yaptığı görüşmenin kontürü tutarınca ücretini alır.",
+  "Satışı yapılan, biten, azalan ürünler için ilgili firmaya sipariş verir.",
+  "Firmalarca getirilen ürünleri teslim alır, ücretlerini öder, raflara yerleştirir.",
+  "Gün sonunda iade edilecek, satılmayan gazete ve dergilerle ilgili formları doldurur ve bunları paketler.",
+  "Büfenin vergi, harç gibi ödemelerini, elektrik, telefon faturalarını öder.",
+  "Yeni çıkan ürünleri takip eder ve satışını yapar.",
+  "Satışı yapılan ürünlerle ilgili müşterilerin memnuniyet ve şikayetlerini alır, ilgili firmalara iletir.",
+  "Meslek alanı ile ilgili gelişmeleri takip eder, uygular.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T18:13:39",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6143
+  }
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "arac_gerec": [
+  "Bilgisayar, klavye ve monitör",
+  "Yazıcı ve tarayıcı",
+  "Hastane/Sağlık Bilgi Yönetim Sistemi yazılımı",
+  "Barkod/kimlik kartı okuyucu",
+  "Telefon ve dahili iletişim sistemleri",
+  "Dosya ve arşiv dolapları",
+  "Dosya gömlekleri, etiket ve klasörler",
+  "Zımba, delgeç, ataç gibi büro malzemeleri",
+  "Fotokopi makinesi",
+  "Kişisel koruyucu donanım (gerektiğinde eldiven, maske)"
+ ],
+ "benzer_meslekler": [
+  "Tıbbi Kayıt Elemanı",
+  "Tıbbi Kayıt Teknisyeni",
+  "Sağlık Bilgi Sistemleri Teknikeri",
+  "Klinik Kodlayıcı",
+  "Tıbbi Kayıt Analisti",
+  "Tıbbi Kayıt Süpervizörü"
+ ],
+ "calisma_alanlari": "Sağlık Bilgi Elemanları; devlet ve özel hastaneler, üniversite hastaneleri, aile sağlığı merkezleri ve sağlık ocakları, poliklinikler, tıp merkezleri, diyaliz ve diyagnostik merkezleri, özel muayenehaneler gibi sağlık hizmeti veren kurum ve kuruluşların kayıt, arşiv, hasta kabul ve bilgi işlem birimlerinde çalışabilmektedir.\n\nAyrıca Sosyal Güvenlik Kurumu, özel sağlık sigortası şirketleri ve sağlık hizmeti satın alan/denetleyen kurumların ilgili birimlerinde de istihdam olanağı bulunmaktadır. Sağlık sektörünün ve dijitalleşmenin büyümesiyle bu alanda çalışan personele olan ihtiyaç devam etmektedir.",
+ "calisma_ortami": "Sağlık Bilgi Elemanları, hastane ve sağlık kuruluşlarının hasta kabul, kayıt, arşiv ve bilgi işlem birimlerinde, genellikle kapalı ve büro niteliğinde ortamlarda çalışır. Çalışma süresinin önemli bir kısmını bilgisayar ekranı başında oturarak geçirir; bu nedenle uzun süreli ekran kullanımı ve hareketsizliğe bağlı fiziksel riskler söz konusu olabilir.\n\nHastane gibi 7/24 hizmet veren kurumlarda vardiyalı çalışma düzeni görülebilir. Meslek mensubu; hastalar, hasta yakınları, doktor, hemşire ve diğer sağlık personeli ile sürekli ve yoğun iletişim halindedir; bu nedenle stresli ve zaman baskısı olan anlar yaşanabilir. Hasta mahremiyetinin ve kişisel sağlık verilerinin gizliliğinin korunması, çalışma sırasında büyük önem taşır.",
+ "egitim": {
+  "verildigi_yerler": "Sağlık Bilgi Elemanlığı için ayrı ve resmî olarak tanımlanmış bir önlisans veya lisans programı bulunmamaktadır. Mesleğin gerektirdiği minimum eğitim düzeyi ortaöğretimdir (lise ve dengi). Bu mesleğe, ortaöğretim kurumlarının sağlık alanı ile ilgili dallarından mezun olanlar ile genel lise mezunları; Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kurslarında temel bilgisayar, dosyalama-arşivleme ve tıbbi terminoloji eğitimi alarak veya sağlık kuruluşlarında işbaşında/usta yanında eğitimle yönelebilmektedir.",
+  "giris_kosullari": [
+   "Ortaöğretimi (lise ve dengi okul) tamamlamış olmak",
+   "Temel düzeyde bilgisayar ve ofis yazılımları kullanabilme becerisine sahip olmak",
+   "Okuma-yazma ve ifade yeteneği iyi olmak"
+  ],
+  "sure_ve_icerik": "Resmî ve standart süresi tanımlanmış örgün bir eğitim programı bulunmadığından süre, katılınan kursa veya işbaşı eğitim sürecine göre değişkenlik gösterir. Bu süreçte genellikle temel bilgisayar kullanımı ve ofis programları, temel tıbbi terminoloji, dosyalama ve arşivleme teknikleri, hasta mahremiyeti ve kişisel verilerin korunması, iletişim becerileri gibi konular işlenir.",
+  "belge": "Katılınan kurs sonunda kurumundan alınan katılım/başarı belgesi ve/veya çalıştığı sağlık kuruluşundan alınan deneyim/hizmet belgesi geçerli olmaktadır."
+ },
+ "ek_bilgiler": "Sağlık Bilgi Elemanlarının görevleri sırasında hasta mahremiyeti ve kişisel sağlık verilerinin korunmasına ilişkin mevzuata (ör. kişisel verilerin korunmasına dair düzenlemeler) özenle uyması büyük önem taşımaktadır. Ayrıca Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda tercih sebebi olabilir.",
+ "genel_ozellikler": [
+  "Dikkatli ve titiz,",
+  "Düzenli ve sistemli çalışan,",
+  "Gizliliğe önem veren ve güvenilir,",
+  "Sorumluluk sahibi,",
+  "İletişim becerisi iyi,",
+  "Bilgisayar kullanımına yatkın,",
+  "Hasta ve yakınlarına karşı sabırlı ve anlayışlı,",
+  "Zaman yönetimi iyi"
+ ],
+ "gorevler": [
+  "Tıbbi kayıtları ve hasta dosyalarını düzenler.",
+  "Sağlık bilgi sistemlerine veri girişi yapar.",
+  "Arşivleme ve dosyalama süreçlerini yönetir.",
+  "İstatistiksel verileri derler.",
+  "Hasta mahremiyeti ve veri güvenliğini sağlar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Sağlık Bilgi Elemanı olarak çalışanlar, isterlerse açık öğretim yoluyla ortaöğretimlerini tamamlayabilir ve ardından sağlık bilgi sistemleri teknikerliği, tıbbi dokümantasyon ve sekreterlik gibi ilgili önlisans programlarına geçiş yaparak mesleki bilgi ve becerilerini ilerletebilirler.",
+  "is_hayatinda": "İş hayatında kazandıkları deneyim ve bilgi birikimiyle arşiv/kayıt sorumlusu, birim yetkilisi veya ekip lideri gibi görevlere yükselebilirler. Deneyim ve ek eğitimle sağlık bilgi sistemleri alanında daha teknik pozisyonlara geçiş yapabilirler."
+ },
+ "kazanc": {
+  "egitim_suresince": "Mesleğe yönelik resmî ve standart bir örgün eğitim programı bulunmadığından, kurs döneminde düzenli bir kazanç genellikle söz konusu değildir; İŞKUR kursları kapsamında kursiyerlere mevzuata göre harcırah ödenebilir. İşbaşında eğitim alanlar, çalıştıkları sağlık kuruluşundan ücret alabilir.",
+  "egitim_sonrasi": [
+   "Kamu sağlık kuruluşlarında çalışanlar, 657 sayılı Devlet Memurları Kanunu'na veya ilgili personel statüsüne göre ücret alır.",
+   "Özel sağlık kuruluşlarında çalışanların kazancı, işyerinin büyüklüğü, kişinin deneyimi ve bölgeye göre değişmekle birlikte, mesleğe yeni başlayanlarda genellikle asgari ücret düzeyindedir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T12:20:58",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5445
+  }
+ }
+}

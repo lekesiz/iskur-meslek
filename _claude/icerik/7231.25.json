@@ -1,0 +1,77 @@
+{
+ "arac_gerec": [
+  "Montaj çalışma tezgahı",
+  "Montaj fikstürleri ve kalıpları",
+  "Tornavida, pense ve anahtar takımları",
+  "Lehim havyası ve lehim malzemesi",
+  "Seviye göstergesi ve elektronik gösterge test cihazları",
+  "Multimetre ve elektriksel kontrol cihazları",
+  "Sızdırmazlık/basınç test ünitesi",
+  "Mastar ve şablon gibi ölçüm-kontrol gereçleri",
+  "Seri numarası/üretim tarihi markalama (damga veya lazer markalama) ekipmanı",
+  "Taşıma kasaları ve paletler",
+  "Kişisel koruyucu donanım (eldiven, koruyucu gözlük)"
+ ],
+ "genel_ozellikler": [
+  "El ve göz koordinasyonu gelişmiş,",
+  "Küçük parçalarla dikkatli çalışabilen el becerisine sahip,",
+  "Düzenli ve sistemli çalışabilen,",
+  "Standart işlem sırasına uyabilen,",
+  "Sabırlı ve tekrarlı işlerden sıkılmayan,",
+  "Takım çalışmasına uyumlu,",
+  "Sorumluluk sahibi,",
+  "İş güvenliği kurallarına duyarlı"
+ ],
+ "calisma_ortami": "Şamandıra Montajcısı (Oto Gaz Sistemleri), genellikle LPG oto gaz sistemleri ve bileşenlerinin üretildiği fabrika veya atölyelerde, kapalı ortamda ve montaj hattında çalışır. Çalışma, tezgah başında ayakta veya oturarak, aynı hareketlerin tekrarlandığı bir düzende yürütülür; ortamda metal parça, lehim ve küçük el aletleriyle çalışmaya bağlı kesilme, yaralanma gibi riskler bulunabileceğinden kişisel koruyucu donanım kullanımı önemlidir.\n\nÇalışma saatleri işletmenin üretim programına göre belirlenir ve vardiyalı çalışma söz konusu olabilir. Meslek sahibi; aynı hatta çalışan diğer montaj işçileri, ustabaşı, kalite kontrol elemanları ve üretim sorumlularıyla sürekli iletişim halindedir.",
+ "egitim": {
+  "verildigi_yerler": "Şamandıra Montajcısı (Oto Gaz Sistemleri) mesleğine yönelik örgün bir mesleki ve teknik eğitim programı (ortaokul/mesleki eğitim merkezi dalı) bulunmamaktadır. Gereken minimum eğitim düzeyi ilköğretimdir ve meslek, bu alanda üretim yapan işletmelerde işbaşında, deneyimli bir usta veya teknisyen gözetiminde öğrenilir. İŞKUR tarafından açılan mesleki eğitim kursları da bu alana hazırlık için kullanılabilir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "El ve göz koordinasyonu gerektiren küçük parçalarla çalışmaya uygun olmak",
+   "İşyerinin aradığı yaş ve sağlık koşullarını (genellikle 18 yaş ve üzeri) taşımak"
+  ],
+  "sure_ve_icerik": "Mesleğe özgü standart ve süresi belirlenmiş resmi bir eğitim programı yoktur. İşe alınan kişi, işletmede deneyimli bir çalışanın gözetiminde şamandıra parçalarının tanınması, montaj sırasının öğrenilmesi, seviye göstergesi ve elektronik gösterge montajı, basit ölçüm-kontrol işlemleri ve kalite kontrol kriterleri konularında uygulamalı olarak yetiştirilir. Bu işbaşı eğitim süreci işletmeden işletmeye değişmekle birlikte genellikle kısa sürede temel yeterliliğin kazanılmasını sağlar.",
+  "belge": "Örgün eğitim sonunda verilen resmi bir diploma veya sertifika bulunmamaktadır. İşletme içi eğitim sonunda çalışma/katılım belgesi ya da varsa Halk Eğitim Merkezleri veya İŞKUR'un açtığı kursların katılım belgesi alınabilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, bazı işyerlerinde istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Şamandıra Montajcısı (Oto Gaz Sistemleri), ağırlıklı olarak LPG oto gaz sistemleri ve bileşenlerini (yakıt tankı, şamandıra, regülatör, enjeksiyon sistemi parçaları vb.) üreten fabrika ve atölyelerde, otomotiv yan sanayi işletmelerinde çalışma olanağı bulur. Bu meslek, otomotiv ana veya yan sanayinde dar kapsamlı, belirli bir ürün grubuna özgü bir üretim/montaj görevi olduğundan istihdam alanı, LPG'li araç dönüşüm sektörünün ve bu ürünlere olan talebin büyüklüğüne bağlı olarak sınırlı ve yerel düzeyde değişkenlik gösterir.",
+ "kazanc": {
+  "egitim_suresince": "Bu meslekte örgün çıraklık eğitimi veya resmi bir mesleki eğitim programı bulunmadığından eğitim süresince ayrı bir ücretlendirme uygulaması yoktur; işe yeni başlayan kişi genellikle doğrudan işletmenin ücretli çalışanı olarak göreve başlar ve işbaşı eğitimi aldığı süre boyunca da ücretini alır.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanların kazancı genellikle asgari ücret düzeyindedir.",
+   "Kazanç; çalışılan işletmenin büyüklüğü, kişinin deneyimi, üretim hızı ve işyeri ile yapılan karşılıklı anlaşmaya göre değişebilir.",
+   "İstihdam ağırlıklı olarak özel sektörde olduğundan ücretlendirme işveren-çalışan anlaşmasına bağlıdır."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Bu meslekte çıraklık-kalfalık-ustalık gibi örgün bir ilerleme basamağı tanımlı değildir; kişi işyerinde deneyim kazandıkça montaj hattındaki daha karmaşık veya kritik işlemlere yönlendirilebilir.",
+  "is_hayatinda": "Deneyim kazanan kişi; usta işçi, kalite kontrol elemanı, hat/vardiya sorumlusu gibi görevlere yükselebilir. İsteyenler, ek eğitim ve deneyim kazanarak motorlu araçlar LPG sistemleri bakım-onarımı gibi yakın alanlara geçiş yapabilir."
+ },
+ "benzer_meslekler": [
+  "Motorlu Araçlar LPG Sistemleri Bakım ve Onarımcısı",
+  "Otomotiv Kontrol, Test ve Ayar İşçisi",
+  "Diğer Motorlu Araç Tamirci Makinistleri",
+  "Takograf Tamircisi (Motorlu Taşıt)"
+ ],
+ "ek_bilgiler": "Bu meslek, LPG oto gaz dönüşüm sektörünün büyüklüğüne bağlı, dar kapsamlı bir üretim/montaj görevidir. LPG tankı ve basınçlı sistem bileşenleriyle çalışıldığından, işyerinde iş sağlığı ve güvenliği eğitimi, kişisel koruyucu donanım kullanımı ve kalite kontrol kurallarına titizlikle uyulması önem taşır.",
+ "gorevler": [
+  "Şamandıra parçalarını birbirine monte etmek üzere işlem sırasına göre çalışma tezgahına koyar.",
+  "Tank içerisinde bulunan seviye gösterge parçalarını şamandıra üzerine monte eder.",
+  "Seviye teli parçalarını birleştirir.",
+  "Seviye telini şamandıra ana gövdesine monte eder.",
+  "Elektronik gösterge cihazını monte eder.",
+  "Tezgah üzerindeki parçaları işlem sırasına göre monte eder.",
+  "Şamandıra gövdesi üzerine görülecek şekilde seri numarası ve üretim tarihi bilgilerini yazar.",
+  "Gözle görülebilen arızalı parçaları ayırır.",
+  "Montajı yapılan parçaların kontrolünü yapar.",
+  "Kalite kontrol sonrası ilgili bölümüne teslim eder.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T02:23:46",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6284
+  }
+ }
+}

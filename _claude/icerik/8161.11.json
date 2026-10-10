@@ -1,0 +1,78 @@
+{
+ "gorevler": [
+  "Fileto hâline getirilmiş kasalarla gelen balıkları büyüklüklerine göre ayırır.",
+  "Günlük çalışma raporunda bildirilen miktar ve gramajlara göre balıkları kesim makinesine verir.",
+  "Üretim raporunda belirtilen konserve gramaj ve çeşidine (sade, diyet/light, garnitürlü vb.) göre konserve dolum makinesine talimat girişi yapar ve makineyi çalıştırır.",
+  "Yürüyen bantlar üzerinde metal konserve kutularına dolumu gerçekleşen balıkları tepsilere yerleştirir.",
+  "Tepsilerle sterilizasyon makinesine verilen balık konservelerini paketleme bölümüne gönderir.",
+  "Gramajı büyük olan fileto hâlindeki balıkları birer kiloluk kutulara elle keserek doldurur.",
+  "Elle doldurulan balıkların kutularını elle kapatır ve sterilizasyon makinesine verir.",
+  "Sterilizasyon makinesinden çıkan birer kiloluk balık konservelerini paketleme bölümüne gönderir.",
+  "Kesimi ve konserveleme işlemi yapılan balıkları üretim raporuna işler.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "arac_gerec": [
+  "Kesim makinesi",
+  "Konserve dolum makinesi",
+  "Sterilizasyon (otoklav) makinesi",
+  "Yürüyen bant",
+  "Metal konserve kutuları",
+  "Tepsiler",
+  "Kesim bıçakları",
+  "Tartı/terazi",
+  "Koruyucu eldiven",
+  "İş önlüğü ve bone",
+  "Su geçirmez çizme",
+  "Günlük çalışma ve üretim raporu formları"
+ ],
+ "genel_ozellikler": [
+  "El becerisine sahip,",
+  "Dikkatli ve titiz,",
+  "Temiz ve düzenli çalışmaya özen gösteren,",
+  "Fiziksel olarak dayanıklı,",
+  "Hijyen kurallarına uyan,",
+  "Ekip çalışmasına yatkın,",
+  "Talimatlara uyabilen,",
+  "Görme ve dokunma duyusu keskin (balık büyüklük ve gramaj ayrımı yapabilen)"
+ ],
+ "calisma_ortami": "\"Ton balığı kesim ve konserveleme işçisi, genellikle kapalı alanlarda, su ürünleri/konserve fabrikalarında çalışır. Çalışma ortamı nemli, soğuk veya serin, balık kokusuna ve zaman zaman gürültüye açık bir ortamdır; zemin ıslak olabilir. Ayakta, bazen soğuk hava deposuna yakın bölümlerde çalışılır; keskin bıçaklar ve makinelerle temas nedeniyle kesik, ezilme ve kayma riskine karşı dikkatli olunması gerekir, bu nedenle eldiven, çizme, önlük ve bone gibi koruyucu malzemelerin kullanılması önemlidir.\\n\\nÇalışma genellikle vardiyalı düzende yürütülür ve balık avı/işleme sezonuna bağlı olarak mevsimsel yoğunluk gösterebilir. İşçi, çalışma sırasında diğer üretim hattı işçileri, vardiya sorumlusu ve kalite kontrol personeli ile iletişim hâlindedir. İşçi sağlığı ve iş güvenliği önlemlerinin eksiksiz uygulanması, gıda güvenliği açısından da zorunludur.\"",
+ "egitim": {
+  "verildigi_yerler": "Bu mesleğe yönelik resmî olarak tanımlanmış, örgün bir çıraklık veya mesleki eğitim merkezi dalı bulunmamaktadır. Eğitim büyük ölçüde işyerlerinde işbaşında, deneyimli bir işçi veya usta gözetiminde kazanılır. Ayrıca Halk Eğitim Merkezleri ile İŞKUR tarafından açılan gıda/su ürünleri işleme konulu mesleki eğitim kursları da mesleğe hazırlayıcı nitelikte olabilir. Mesleki ve teknik eğitim veren okulların gıda teknolojisi alanı, bu meslek için genel bir temel oluşturabilir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "Gıda sektöründe çalışmaya elverişli olduğunu gösteren sağlık raporuna/portör muayenesine sahip olmak",
+   "El becerisine ve dikkatli çalışma yeteneğine sahip olmak",
+   "Soğuk ve nemli ortamda, ayakta çalışmaya uygun fiziksel durumda olmak"
+  ],
+  "sure_ve_icerik": "Mesleğe yönelik resmî olarak tanımlanmış standart bir eğitim süresi ve müfredat bulunmamaktadır. İşe yeni başlayan kişi, belirli bir süre deneyimli bir işçi veya usta gözetiminde balık ayırma, kesim, dolum ve sterilizasyon makinelerinin kullanımı, hijyen kuralları ve iş sağlığı-güvenliği konularında işbaşı eğitim alır. İŞKUR veya Halk Eğitim Merkezleri tarafından açılan kurslar ise genellikle birkaç haftadan birkaç aya kadar sürebilmekte ve temel bilgi ile beceri kazandırmayı amaçlamaktadır.",
+  "belge": "Örgün bir çıraklık/ustalık eğitimi süreci bulunmadığından diploma verilmez. İŞKUR veya Halk Eğitim Merkezi kurslarına katılanlara kurs bitirme/katılım belgesi düzenlenir. Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "\"Ton balığı kesim ve konserveleme işçisi, başta kıyı bölgelerinde kurulu su ürünleri işleme ve konserve fabrikaları olmak üzere, deniz ürünlerinin işlenip konserve hâline getirildiği özel sektör işletmelerinde çalışabilir. İş imkânları, balık avcılığı ve konserve üretiminin yoğun olduğu bölgelerde yoğunlaşmakta olup, üretim mevsimsel olarak değişkenlik gösterebilir.\"",
+ "kazanc": {
+  "egitim_suresince": "Mesleğe yönelik örgün bir çıraklık eğitimi süreci bulunmadığından, kişi genellikle doğrudan işe alınarak işbaşı eğitim görür ve bu dönemde de ücret alır; bu ücret genellikle asgari ücret düzeyindedir.",
+  "egitim_sonrasi": [
+   "Kazanç, çalışılan işletmenin büyüklüğüne, kişinin tecrübesine, verimliliğine ve sektörün o dönemki ücret düzeyine göre değişebilir.",
+   "Yeni başlayanlarda kazanç genellikle asgari ücret düzeyindedir.",
+   "Çalışma büyük ölçüde özel sektör gıda işletmelerinde gerçekleşmekte olup ücretler işveren ile çalışan arasında karşılıklı belirlenmekte veya varsa toplu iş sözleşmesi hükümlerine göre düzenlenmektedir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Örgün bir meslek eğitimi basamağı bulunmadığından, mesleki ilerleme genellikle açık öğretim yoluyla ortaöğretimi tamamlama, gıda teknolojisi veya su ürünleri işleme alanında açılan mesleki eğitim kurslarına katılma ya da ilgili önlisans/lisans programlarına yönelme şeklinde olabilir.",
+  "is_hayatinda": "Tecrübe ve bilgi birikimi arttıkça vardiya sorumlusu, usta başı veya üretim hattı sorumlusu gibi görevlere yükselebilir; ileri düzeyde kalite kontrol veya üretim planlama gibi alanlarda görev alabilir."
+ },
+ "benzer_meslekler": [
+  "Sterilize Pişirme Operatörü-Meyve ve Sebze Konservesi",
+  "Otoklav Operatörü (Konserve İmalatı)",
+  "Gıda İşlemecisi",
+  "Sterilizer Makinesi Operatörü (Süthane / Mandıra)"
+ ],
+ "ek_bilgiler": "\"Gıda sektöründe çalışanlar için Gıda Hijyeni Yönetmeliği gereği periyodik sağlık muayenesi (portör muayenesi) yaptırma zorunluluğu bulunmaktadır. Üretim ve istihdam, balık avı ve işleme sezonuna bağlı olarak mevsimsel yoğunluk gösterebilir.\"",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T15:49:03",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6975
+  }
+ }
+}

@@ -1,0 +1,76 @@
+{
+ "arac_gerec": [
+  "Tumba (vagonet devirme/boşaltma) düzeneği ve mekanik aksamları",
+  "Maden arabaları (vagonetler)",
+  "Yağlama ekipmanları (yağdanlık, gres pompası)",
+  "El aletleri (kürek, kazma, balyoz, kırma takımları)",
+  "Ray, makas ve fren tertibatı",
+  "Baret ve kafa lambası",
+  "Kişisel koruyucu donanım (iş eldiveni, iş elbisesi, çelik burunlu bot, toz maskesi, kulak koruyucu)",
+  "Haberleşme ve sinyal sistemleri (telefon, zil, ışıklı sinyal düzeni)",
+  "Kayıt defteri/formlar",
+  "Temizlik araç ve gereçleri (süpürge, faraş vb.)"
+ ],
+ "genel_ozellikler": [
+  "Fiziksel olarak güçlü ve dayanıklı,",
+  "Dikkatli ve tedbirli,",
+  "Sorumluluk sahibi,",
+  "Talimatlara uyan ve disiplinli,",
+  "Takım halinde uyumlu çalışabilen,",
+  "Kapalı, dar ve yer altı ortamlarında çalışmaktan çekinmeyen,",
+  "El ve kol kaslarını etkin kullanabilen,",
+  "El-göz koordinasyonu iyi olan"
+ ],
+ "calisma_ortami": "Tumbacı-Maden ocağı, genellikle yer altı maden ocaklarındaki tumba istasyonlarında çalışır. Çalışma ortamı tozlu, nemli, gürültülü ve sınırlı aydınlatmaya sahip olabilir; yer altı koşulları nedeniyle göçük, gaz, toz ve nem gibi riskler taşıyabilir. İş genellikle vardiya usulü (gündüz-gece) yürütülür ve fiziksel güç gerektiren, ayakta ve hareketli bir çalışma biçimidir.\n\nGörevini yürütürken nakliyat sistemi çalıştırıcıları, ustabaşı, iş güvenliği görevlileri ve diğer maden işçileriyle sürekli iletişim ve koordinasyon içindedir. Arızalı araba ve malzemelerin bildirimi gibi işlerde ilgililerle sözlü/yazılı bilgi paylaşımı yapar.",
+ "gorevler": [
+  "Tertip edildiği tumba ve eklentilerini kontrol eder, varsa arızalarını ilgililere bildirir.",
+  "Tumba ve eklentilerinin belirlenen talimat doğrultusunda bakımını yapar ve yağlar.",
+  "Arabaların elle veya mekanik olarak manevralarını yapar ve dolu arabaları tumba eder.",
+  "Tumba ile ilişkili diğer nakliyat sistemlerinin çalıştırıcıları ile mutabakat sağlar.",
+  "Tumba ızgaralarından geçemeyen taş veya kömür parçalarının kırılmasını sağlar, ızgaraya dökülen demir, ağaç vb. malzemeleri çıkarır.",
+  "Tumbaya girmesinde sakınca görülen arızalı arabaları tumbaya sokmaz ve ilgililere bilgi verir.",
+  "Tumbaya sokulmasında sakınca görülmeyen arızalı arabaları işaretler.",
+  "Tumba edilen taş ve kömür arabalarının kayıtlarını tutar ve ilgililere bilgi verir.",
+  "Tumba ve çevresinin temizliğini yapar.",
+  "Mesleği alanındaki gelişmeleri takip eder ve uygular."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Mesleğin örgün bir meslek lisesi programı veya belirlenmiş bir meslek eğitim merkezi dalı bulunmamaktadır. Meslek genellikle işbaşında usta yanında yetişerek veya işletmelerin, İŞKUR'un ve Halk Eğitim Merkezlerinin açtığı maden işçiliği ve iş sağlığı-güvenliği kurslarıyla öğrenilir. Yer altı maden işletmelerinde çalışacaklara yönelik temel iş güvenliği eğitimleri ilgili kurum ve işyerlerince ayrıca verilir.",
+  "giris_kosullari": [
+   "İlköğretim mezunu olmak (mesleğin gerektirdiği minimum eğitim düzeyi)",
+   "18 yaşını doldurmuş olmak (yer altı maden işlerinde çalışma yaşı sınırlamaları nedeniyle)",
+   "Sağlık durumunun yer altında ağır işlerde çalışmaya uygun olduğunun sağlık raporuyla belgelenmesi",
+   "İşe alındığı işletmenin düzenlediği iş güvenliği ve işbaşı eğitimlerine katılmak"
+  ],
+  "sure_ve_icerik": "Meslekte belirli bir örgün eğitim süresi bulunmamaktadır. Eğitim genellikle kısa süreli iş güvenliği ve işbaşı uygulama eğitimi şeklindedir; işe yeni başlayan kişi, deneyimli bir usta veya işçinin gözetiminde tumbanın çalıştırılması, bakımı, arabaların manevra edilmesi ve güvenlik kurallarını uygulamalı olarak öğrenir.",
+  "belge": "Örgün bir diploma veya meslek lisesi mezuniyet belgesi söz konusu değildir. İşyeri/kurum tarafından verilen iş sağlığı ve güvenliği eğitim sertifikası ile Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Tumbacı-Maden ocağı, kömür, maden ve taş ocaklarının özellikle yer altı işletmelerindeki tumba istasyonlarında çalışır. Kamu iktisadi kuruluşlarına bağlı maden işletmelerinde veya özel sektöre ait maden ve taş ocaklarında istihdam edilir. İş bulma olanakları, bölgesel maden havzalarındaki üretim yoğunluğuna, sektörün genel durumuna ve mekanizasyon seviyesine bağlı olarak değişkenlik göstermektedir.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğin örgün ve belirli süreli bir eğitim süreci bulunmadığından, işe alınan kişi genellikle doğrudan işçi statüsünde çalışmaya başlar ve işe başladığı andan itibaren ücret alır.",
+  "egitim_sonrasi": [
+   "Kamu işletmelerinde çalışanlar, tabi oldukları toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde kazanç; işyerinin büyüklüğü, kişinin deneyimi, bilgisi ve sektörün genel ücret düzeyine göre değişmekle birlikte, yeni başlayanlar için genellikle asgari ücret düzeyindedir. Yer altında çalışma nedeniyle ek tazminat veya prim uygulamaları söz konusu olabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Bu meslekte örgün bir eğitim kademesi bulunmadığından ilerleme, genellikle iş içinde deneyim kazanma ile ilgili iş sağlığı-güvenliği ve teknik kurslara katılma yoluyla sağlanır.",
+  "is_hayatinda": "Deneyim ve performansa bağlı olarak nakliyat/tumba sorumluluğu genişletilebilir; kişi ustabaşılık veya nezaretçilik gibi gözetim görevlerine yükselebilir."
+ },
+ "benzer_meslekler": [
+  "Vagoncu - Maden",
+  "Manevracı-Harmancı (Maden)",
+  "Kancacı (madende arabaları birbirine bağlayan)",
+  "Kürekçi - maden ocağı",
+  "Bantçı - maden"
+ ],
+ "ek_bilgiler": "Yer altı maden işleri, 4857 sayılı İş Kanunu ve ilgili mevzuat kapsamında ağır ve tehlikeli işler arasında değerlendirilmektedir; bu nedenle çalışma süresi, yaş sınırı ve periyodik sağlık muayeneleri konusunda özel düzenlemeler uygulanır. 18 yaşından küçüklerin yer altı işlerinde çalıştırılması yasaktır.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T19:39:20",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6516
+  }
+ }
+}

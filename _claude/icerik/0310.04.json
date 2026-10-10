@@ -1,0 +1,74 @@
+{
+ "arac_gerec": [
+  "Piyade tüfeği ve diğer hafif silahlar",
+  "Mühimmat ve eğitim mühimmatı",
+  "Kişisel koruyucu donanım (çelik yelek, miğfer)",
+  "Muhabere cihazları (telsiz)",
+  "Dürbün ve gece görüş cihazı",
+  "Harita, pusula ve arazi tespit malzemeleri",
+  "Silah bakım ve temizlik malzemeleri (yağ, fırça, bez)",
+  "İlk yardım çantası ve malzemeleri",
+  "Barınma ve kamp malzemeleri (çadır, sırt çantası)",
+  "İstihkam malzemeleri (kazma, kürek)",
+  "Kişisel teçhizat (üniforma, bot, eldiven)"
+ ],
+ "genel_ozellikler": [
+  "Disiplinli ve emir-komuta zincirine saygılı,",
+  "Fiziksel olarak güçlü ve dayanıklı,",
+  "Askerlik hizmetine engel sağlık sorunu bulunmayan,",
+  "Sorumluluk bilinci yüksek,",
+  "Ekip çalışmasına uyumlu,",
+  "Zorlu arazi ve iklim koşullarına dayanıklı,",
+  "Stresli ve riskli durumlarda sakin kalabilen,",
+  "Vatan ve görev sevgisi yüksek"
+ ],
+ "calisma_ortami": "Piyade Eri, çoğunlukla kışla, eğitim sahası, atış poligonu ve garnizon gibi ortamlarda görev yapar; görevin niteliğine göre açık havada, zorlu arazi ve iklim koşullarında da çalışması gerekebilir. Çalışma düzeni belirli bir mesai saatine bağlı değildir; nöbet sistemi, tatbikat ve eğitim takvimine göre gece-gündüz çalışma söz konusu olabilir.\n\nGörevini genellikle ekip halinde, katı bir hiyerarşi ve disiplin düzeni içinde, üstleriyle ve diğer er/erbaşlarla sürekli iletişim halinde yürütür. Görev bölgesine ve koşullara bağlı olarak fiziksel zorlanma ve risk içerebilen bir çalışma ortamı söz konusudur.",
+ "gorevler": [
+  "Askeri eğitim ve atış faaliyetlerine katılır.",
+  "Nöbet ve emniyet görevlerini yerine getirir.",
+  "Silah ve teçhizatın temizlik ve bakımını yapar.",
+  "Birlik nizam ve disiplinine uygun davranır.",
+  "Üstlerinin emirlerini sahada uygular.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Kara Kuvvetleri Komutanlığı'na bağlı eğitim merkezlerinde verilen temel askerlik eğitimi yoluyla kazanılır. Sözleşmeli er olarak bu mesleğe girmek isteyenler, ilgili kuvvet komutanlıklarının açtığı başvuru, sınav ve eğitim süreçlerinden geçer.",
+  "giris_kosullari": [
+   "En az lise ve dengi okul mezunu olmak",
+   "Türk vatandaşı olmak",
+   "Askerlik hizmetine engel bir sağlık sorunu bulunmamak (ilgili sağlık yönetmeliğine uygunluk)",
+   "Başvuru döneminde belirlenen yaş sınırları içinde olmak",
+   "Güvenlik soruşturması ve arşiv araştırmasından olumlu sonuç almak",
+   "Yazılı/sözlü sınav, fiziki yeterlilik testi ve mülakat aşamalarında başarılı olmak"
+  ],
+  "sure_ve_icerik": "Başvuru ve seçim süreçlerini geçen adaylar, temel askerlik eğitimine alınır. Bu eğitimde silah kullanımı ve atış, fiziki yeterlilik, nizam ve disiplin, ilk yardım, muhabere, saha taktikleri ve kişisel teçhizat kullanımı gibi konularda teorik ve uygulamalı eğitim verilir. Eğitimin süresi ve içeriği ilgili kuvvet komutanlığının belirlediği programa göre değişiklik gösterebilir.",
+  "belge": "Eğitimi başarıyla tamamlayanlara göreve başlama hakkı veren resmi bir belge/sertifika düzenlenir."
+ },
+ "calisma_alanlari": "Kara Kuvvetleri Komutanlığı bünyesindeki piyade birliklerinde görev alır. Görevlendirilme durumuna göre garnizonlarda, sınır birliklerinde, eğitim merkezlerinde ve gerektiğinde yurt içi veya yurt dışı görev bölgelerinde çalışabilir. Bu meslek Türk Silahlı Kuvvetleri dışında özel sektörde icra edilmez.",
+ "kazanc": {
+  "egitim_suresince": "Temel askeri eğitim süresince personele iaşe ve ibate sağlanır; ayrıca ilgili mevzuata göre belirlenen harçlık/aylık ödemesi yapılır.",
+  "egitim_sonrasi": [
+   "Sözleşmeli er olarak göreve başlayanlar, ilgili özel mevzuatla belirlenen aylık ücret ve ek ödemelerden (tazminat, ikramiye vb.) yararlanır.",
+   "Kazanç düzeyi; rütbe, hizmet yılı, görev yeri ve görevin risk derecesine göre değişiklik gösterir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Hizmet sırasında açılan kurs ve sınavlara katılarak mesleki bilgi ve becerilerini geliştirebilir.",
+  "is_hayatinda": "Hizmet süresi, performansı ve ilgili kuvvet komutanlığının açtığı sınavlardaki başarısına göre onbaşı, çavuş gibi üst rütbelere terfi edebilir; uzman erbaşlık veya astsubaylık gibi ileri kariyer basamaklarına geçiş yapabilir."
+ },
+ "benzer_meslekler": [
+  "Onbaşı (Kara Kuvvetleri)",
+  "Onbaşı (hava Kuvvetleri)",
+  "Hava Eri",
+  "Denizci Eri"
+ ],
+ "ek_bilgiler": "Bu meslek, Türk Silahlı Kuvvetleri bünyesinde sözleşmeli er statüsünde istihdamı ifade eder. Alım koşulları, kontenjan sayıları ve sınav takvimi dönem dönem ilgili kuvvet komutanlıklarının resmi duyurularına göre değişiklik gösterebilir. Görevin niteliği nedeniyle yüksek fiziksel ve psikolojik uyum, sağlık ve güvenlik şartları aranır.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-07T17:49:27",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5056
+  }
+ }
+}

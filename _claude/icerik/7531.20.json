@@ -1,0 +1,78 @@
+{
+ "arac_gerec": [
+  "Dikiş makinesi",
+  "Overlok makinesi",
+  "Ütü ve ütü masası",
+  "Makas",
+  "Mezura",
+  "Düz ve eğri cetvel",
+  "Model/tebeşir kalemi",
+  "Toplu iğne ve iğne yastığı",
+  "Sökücü",
+  "Fermuar, düğme, kopça, çıtçıt gibi malzemeler",
+  "Kumaş, astar, tela, iplik",
+  "Prova aynası",
+  "Kol tahtası",
+  "Ölçü defteri"
+ ],
+ "genel_ozellikler": [
+  "El becerisine sahip,",
+  "Şekil ve uzay ilişkilerini görebilen,",
+  "Renkleri ayırt edebilen,",
+  "Dikkatli ve titiz,",
+  "Sabırlı ve ayrıntıları algılayabilen,",
+  "Estetik görüşe ve yaratıcılığa sahip,",
+  "Müşteriyle sağlıklı iletişim kurabilen,",
+  "El, göz ve ayaklarını eşgüdüm halinde kullanabilen"
+ ],
+ "calisma_ortami": "Giysi tadilatçısı genellikle terzihane, konfeksiyon atölyesi, kuru temizleme işletmelerinin tadilat bölümü veya mağaza/AVM bünyesindeki tadilat atölyeleri gibi kapalı mekanlarda çalışır. İşini çoğunlukla oturarak ve dikiş makinesi, overlok makinesi ile ütü kullanarak yapar; bu sırada makine gürültüsü ve sarsıntı ile karşılaşabilir, uzun süre aynı pozisyonda çalışmak göz ve bel yorgunluğuna yol açabilir.\\n\\nÇalışma saatleri genellikle işyerinin mesai düzenine ve iş yoğunluğuna göre değişir. Meslek erbabı işini tek başına yapabildiği gibi, konfeksiyon atölyelerinde diğer terzi, kesimci ve ütücülerle eşgüdüm halinde de çalışabilir. Mesleğin en önemli unsurlarından biri müşteri ile doğrudan iletişim kurarak isteklerini doğru anlamak ve uygulamaktır.",
+ "gorevler": [
+  "Giyside yapılacak tadilatı ya da model değişikliğini belirler.",
+  "Gerekli ölçüm işlemlerini yapar.",
+  "Tadilat ya da model değişikliğine ilişkin çizim ve kesim işlemlerini yapar.",
+  "Gerekli düzeltmeleri yapar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Giysi tadilatçılığı için ayrı ve bağımsız bir örgün mesleki eğitim programı bulunmamaktadır. Meslek genellikle terzilik mesleğinin bir uzmanlaşma alanı olarak kazanılır. Mesleki ve teknik eğitim okul/kurumlarının moda tasarım teknolojileri alanının terzilik ile ilgili dallarında alınan eğitim, bu mesleğe temel oluşturur. Ayrıca Halk Eğitim Merkezleri ile İŞKUR'un açtığı mesleki eğitim kurslarında ve işyerlerinde işbaşında usta yanında yetişme yoluyla da bu meslek öğrenilebilir.",
+  "giris_kosullari": [
+   "İlköğretim mezunu olmak (mesleğin gerektirdiği minimum eğitim düzeyi)",
+   "Çıraklık eğitimine girecekler için en az ortaokul mezunu ve 14 yaşını doldurmuş olmak",
+   "Sağlık durumunun mesleğin gerektirdiği işlere (uzun süre oturarak çalışma, el-göz koordinasyonu gerektiren işler) uygun olması",
+   "El becerisi ve dikkat gerektiren işlere ilgi duymak"
+  ],
+  "sure_ve_icerik": "Meslek, terzilik alanındaki örgün çıraklık eğitimi kapsamında veya kısa süreli kurslar yoluyla kazanılabilir. Eğitim içeriğinde beden ölçüsü alma, kalıp ve model değişikliği teknikleri, kumaş üzerinde işaretleme ve kesim, dikiş ve son düzeltme işlemleri yer alır. Eğitim süresi, izlenen yola (örgün çıraklık eğitimi, kurs veya işbaşı eğitimi) göre değişiklik gösterir; örgün çıraklık eğitiminde teorik dersler haftada bir gün eğitim kurumunda, uygulamalı eğitim ise işyerinde usta öğretici gözetiminde verilir.",
+  "belge": "Örgün çıraklık eğitimi yoluyla yetişenler kalfalık ve ustalık belgesi alabilir. Kurs yoluyla yetişenler kurs bitirme/katılım belgesi alır. Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Giysi tadilatçıları; terzihanelerde, konfeksiyon atölyelerinde, hazır giyim mağazalarının ve alışveriş merkezlerinin bünyesindeki tadilat servislerinde, kuru temizleme işletmelerinin tadilat bölümlerinde çalışabilir. Ayrıca kendi işyerini açarak bağımsız çalışma imkanı da bulunmaktadır. Hazır giyimin yaygınlaşmasıyla birlikte tüketicilerin satın aldıkları giysilerde ölçü ve model değişikliği talep etmesi, bu mesleğe olan ihtiyacı sürdürmektedir. İş bulma açısından kadın ve erkek adaylar arasında belirgin bir fark bulunmamaktadır.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğin eğitimi örgün çıraklık eğitimi yoluyla alınıyorsa, 3308 sayılı Mesleki Eğitim Kanunu kapsamında işletmelerde eğitim gören öğrencilere kanunda belirtilen esaslara göre ücret ödenir ve iş kazası-meslek hastalığı sigortası devletçe karşılanır. Kurs yoluyla eğitim alanlarda genellikle ücret söz konusu değildir; işbaşında usta yanında yetişenlere ise işyerinin uygulamasına göre değişen bir ücret ödenebilir.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanların kazancı genellikle asgari ücret düzeyindedir.",
+   "Kazanç, kişinin deneyimine, becerisine, çalıştığı işletmenin büyüklüğüne ve ücret politikasına göre değişir.",
+   "Bazı işyerlerinde ücret aylık ödenirken, bazılarında parça başı veya prim sistemiyle ödeme yapılabilir.",
+   "Kendi işyerini açan ve müşteri çevresi oluşturabilen kişiler daha yüksek gelir elde edebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Terzilik alanında örgün çıraklık eğitimi alan kişiler kalfalık ve ardından ustalık belgesi alabilir; mesleki eğitimi tamamlayarak ilgili alanın devamı niteliğindeki ön lisans/lisans programlarına yönelebilirler. Kurs yoluyla yetişenler, ilgi ve isteklerine göre daha kapsamlı terzilik veya modelistlik eğitimlerine devam edebilir.",
+  "is_hayatinda": "Deneyim kazanan giysi tadilatçıları usta terzi, atölye sorumlusu ya da tadilat servisi yöneticisi gibi pozisyonlara yükselebilir. Yeterli birikim ve müşteri çevresi oluşturan kişiler kendi tadilat atölyesini veya terzihanesini açabilir. İsteyen ve yetenekli kişiler modelistlik, kesimcilik gibi ilgili alanlara geçiş yapabilir."
+ },
+ "benzer_meslekler": [
+  "Terzi",
+  "Kadın Terzisi",
+  "Erkek Terzisi",
+  "Kadın Elbise Dikimcisi",
+  "Terzi (Otel)",
+  "Kesimci (Giyim)"
+ ],
+ "ek_bilgiler": "Hazır giyim sektörünün büyümesi, tüketicilerin satın aldıkları giysilerde ölçü ve model uyarlaması talep etmesine yol açmakta; bu durum mağaza, alışveriş merkezi ve kuru temizleme işletmeleri bünyesindeki tadilat hizmetlerine olan ihtiyacı desteklemektedir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T08:26:26",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5569
+  }
+ }
+}

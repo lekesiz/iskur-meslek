@@ -1,0 +1,83 @@
+{
+ "arac_gerec": [
+  "Şebeke izleme ve yönetim yazılımları (network monitoring)",
+  "Şebeke Operasyon Merkezi (NOC) ekranları ve kontrol panoları",
+  "Sunucu ve veritabanı yönetim sistemleri",
+  "Konfigürasyon yönetim yazılımları",
+  "Envanter yönetim sistemleri",
+  "Arıza/olay takip (ticketing) sistemleri",
+  "Trafik analiz ve performans izleme araçları",
+  "Yedekleme sistemleri ve yazılımları",
+  "Uzaktan erişim ve uzaktan yönetim yazılımları",
+  "Bilgi ve donanım güvenliği yazılımları",
+  "Bilgisayar ve iletişim altyapı yazılımları",
+  "Teknik dokümantasyon ve raporlama araçları"
+ ],
+ "benzer_meslekler": [
+  "Telekomünikasyon Mühendisi",
+  "Elektronik ve Haberleşme Mühendisi",
+  "Telekomünikasyon Yer İstasyonu Tesis ve İşletme Uzmanı",
+  "Telekomünikasyon Şebeke Planlama Uzmanı",
+  "Telekomünikasyon Şebeke Kurulum Uzmanı"
+ ],
+ "calisma_alanlari": "Telekomünikasyon Operasyon ve İşletim Uzmanları, başta mobil ve sabit hat telekomünikasyon operatörleri, internet servis sağlayıcıları olmak üzere, telekomünikasyon altyapı ve teçhizat üreten firmalarda, kamu kurumlarının haberleşme birimlerinde ve bilişim/teknoloji şirketlerinin şebeke operasyon merkezlerinde istihdam edilebilirler. Telekomünikasyon sektöründeki sürekli teknolojik gelişim ve dijitalleşme eğilimleri, şebekelerin kesintisiz ve etkin işletilmesine duyulan ihtiyacı artırmakta, bu da meslekteki istihdam olanaklarını desteklemektedir.",
+ "calisma_ortami": "Telekomünikasyon Operasyon ve İşletim Uzmanları çalışmalarının büyük bölümünü Şebeke Operasyon Merkezi (NOC) gibi kapalı, kontrollü sıcaklık ve nem koşullarına sahip ofis ortamlarında, bilgisayar ve izleme ekranları başında sürdürür. Şebekelerin kesintisiz işletilmesi gerektiğinden çalışma genellikle vardiyalı sistemle 7/24 esasına göre yürütülür; zaman zaman acil müdahale gerektiren durumlarda yoğun ve stresli çalışma temposu söz konusu olabilir. Gerektiğinde saha ekipleri ile koordinasyon amacıyla kısa süreli saha ziyaretleri de yapılabilir.\n\nMeslek mensupları çalışmaları sırasında ekip arkadaşları, saha teknik ekipleri, sistem ve yazılım geliştirme birimleri, üst yönetim ve zaman zaman müşteri/hizmet alan kurumlarla yoğun iletişim halindedir.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğe yönelik olarak üniversitelerin Telekomünikasyon Mühendisliği, Elektronik ve Haberleşme Mühendisliği, Elektrik-Elektronik Mühendisliği gibi ilgili mühendislik bölümlerinde lisans eğitimi alınabilir. Lisans eğitiminin ardından işletmeler bünyesinde şebeke operasyon ve işletim süreçlerine yönelik işbaşı eğitimler ve ilgili teknoloji sağlayıcı firmaların açtığı sertifika programları ile mesleki yetkinlik geliştirilir.",
+  "giris_kosullari": [
+   "Lise veya dengi okul mezunu olmak",
+   "YKS (Yükseköğretim Kurumları Sınavı) sonucunda ilgili mühendislik programına yeterli puan ve kontenjan dahilinde yerleşmek"
+  ],
+  "sure_ve_icerik": "İlgili mühendislik lisans programlarının eğitim süresi 4 yıldır. Eğitimde temel mühendislik dersleri, telekomünikasyon ve haberleşme sistemleri, şebeke teknolojileri, sinyal işleme, bilgisayar ağları, bilgi güvenliği ve iş/süreç yönetimi gibi konularda teorik ve uygulamalı dersler yer alır. Mezuniyet sonrasında işe başlayanlar, işletmenin kullandığı şebeke yönetim sistemleri, izleme araçları ve işletim prosedürlerine ilişkin işbaşında eğitim alarak mesleki uzmanlıklarını geliştirirler.",
+  "belge": "Eğitimini başarı ile tamamlayanlara üniversite tarafından ilgili mühendislik dalında lisans diploması verilir. Ayrıca kurum içi eğitimler ve bazı teknoloji sağlayıcı firmaların düzenlediği sertifika programları tamamlanma belgesi ile sonuçlanabilir."
+ },
+ "ek_bilgiler": "Telekomünikasyon sektöründeki hızlı teknolojik değişim nedeniyle meslek mensuplarının yeni nesil şebeke teknolojilerini (ör. mobil şebeke teknolojileri, fiber altyapı, bulut tabanlı sistemler) yakından takip etmesi önem taşır. Mesleki Yeterlilik Kurumu (MYK) belgesi ve uluslararası teknoloji sertifikaları istihdamda tercih sebebi olabilir.",
+ "genel_ozellikler": [
+  "Sayısal düşünme ve analitik problem çözme yeteneğine sahip,",
+  "Temel bilimlere (matematik, fizik) ve bilgisayar teknolojilerine ilgili,",
+  "Dikkatli, sistemli ve organize çalışabilen,",
+  "Sorumluluk sahibi, kriz anlarında soğukkanlı kalabilen,",
+  "Takım çalışmasına yatkın, iletişim becerisi güçlü,",
+  "Değişen teknolojileri yakından takip eden ve kendini sürekli geliştiren,",
+  "Hızlı ve isabetli karar verebilen, çözüm odaklı,",
+  "Vardiyalı çalışma düzenine uyum sağlayabilen kimseler olmaları gerekir."
+ ],
+ "gorevler": [
+  "İşçi sağlığı, iş güvenliği, çevre koruma ve kalite gerekliliklerini uygular.",
+  "İş organizasyonu yapar.",
+  "Şebeke işletim sistemlerini izler.",
+  "Olay yönetimi uygulamalarının yürütülmesini sağlar.",
+  "Problem yönetimi uygulamalarının yürütülmesini sağlar.",
+  "İşletim değişimi uygulamalarını yönetir.",
+  "Envanter yönetimi uygulamalarının yürütülmesini sağlar.",
+  "Konfigürasyon yönetimi uygulamalarının yürütülmesini sağlar.",
+  "Sayısal (dijital) arşivleme ve güncelleme işlemlerinin yürütülmesini sağlar.",
+  "İletişim (bilgi ve donanım) güvenliği uygulamalarının kontrolünü yapar.",
+  "Sistemlerin yedeklemesinin yapılmasını sağlar.",
+  "Hizmet seviyesi (kapasite ve performans) yönetimi uygulamalarının yürütülmesini sağlar.",
+  "Erişebilirlik yönetimi uygulamalarının yürütülmesini sağlar.",
+  "Trafik yönetimi uygulamalarının yürütülmesini sağlar.",
+  "Hizmetin sunumuna ilişkin işlemleri yönetir.",
+  "Mesleki gelişim çalışmalarında bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Lisans eğitiminin ardından ilgili mühendislik alanlarında yüksek lisans ve doktora yapılarak akademik kariyer veya uzmanlık alanında derinleşme sağlanabilir. Ayrıca şebeke yönetimi, bilgi güvenliği, proje yönetimi gibi konularda sertifika programlarına katılınarak mesleki gelişim desteklenebilir.",
+  "is_hayatinda": "Meslekte deneyim kazanıldıkça kıdemli uzmanlık, ekip liderliği ve Şebeke Operasyon Merkezi (NOC) yöneticiliği gibi pozisyonlara; ilerleyen dönemde operasyon müdürlüğü ve üst düzey yönetim kademelerine yükselme imkânı bulunmaktadır."
+ },
+ "kazanc": {
+  "egitim_suresince": "İlgili mühendislik lisans programlarında öğrenciler, üniversitelerin belirlediği dönemlerde zorunlu stajlarını yapar; stajyerlere işletmelerin kendi ücret politikalarına göre ödeme yapılabilir. Öğrenim süresince isteyen öğrenciler Yüksek Öğrenim Kredi ve Yurtlar Kurumu Genel Müdürlüğünden öğrenim ve harç kredisi alabilir.",
+  "egitim_sonrasi": [
+   "Özel sektörde yeni mezun olarak işe başlayanların ücretleri işyerinin büyüklüğüne, sektöre ve deneyime göre değişmekle birlikte genellikle asgari ücret düzeyinin üzerinde belirlenir.",
+   "Kamu kurumlarında istihdam edilenlerin ücretleri 657 sayılı Devlet Memurları Kanunu veya ilgili mevzuata göre belirlenir.",
+   "Deneyim, uzmanlık düzeyi ve üstlenilen sorumluluklar arttıkça kazanç düzeyi de yükselir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-07T21:46:25",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 7651
+  }
+ }
+}

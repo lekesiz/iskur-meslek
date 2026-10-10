@@ -1,0 +1,80 @@
+{
+ "gorevler": [
+  "Makine Mühendisi (Genel) kapsamında belirtilen benzer işleri yapar,",
+  "Uçakların, güdümlü mermilerin ve diğer uçak teçhizatının geliştirilmesine yönelik araştırma projelerini planlar,",
+  "Uçaklarda kaldırma, sürtünme, gerileme, tazyik, titreme, hız, hat ve sallanma gibi olayları etüt eder,",
+  "Deney modelleri ve test sonuçlarını kaydetmek için aletler/düzenekler tasarlar ve kurar,",
+  "Uçak, güdümlü mermi ve diğer uçak tesisatının geliştirilmesi ve tadili ile ilgili mühendislik ihtiyaçlarını tespit eder,",
+  "Aerodinamik şekiller, yapılış sınırlamaları, itme, mekanik ve hidrolik şartlar, parçalar, sistemler, yolcu, kargo ve mürettebat yerleri ve emniyet cihazları gibi faktörleri göz önünde bulundurarak çizim bilgilerini tamamlar; uygunluğunu kontrol etmek için statik, dinamik, iklimsel, uçuş ve hava tüneli testleri yapar,",
+  "Teçhizatın özelliklere uygunluğunu tespit etmek için kontrol standartları, aletler ve teknikler geliştirir; yeterli olmadığı durumlarda nedenlerini tespit etmek için test bilgilerini yeniden değerlendirip düzeltir,",
+  "Alınacak tedbirleri teklif eder, teknik raporlar hazırlar,",
+  "Uçakların araştırma ve geliştirme projeleriyle ilgili kayıtları tutar,",
+  "Helikopter, planör, hava gemisi, balon, roket, güdümlü mermi ve özel uçak tipleri ile bunların motor, pervane, hidrolik sistem, uçak aletleri, fren sistemi ve emniyet bağları, paraşüt, buz kırıcı ve tekerlek gibi teçhizatının laboratuvar ve imalat işleri dahil, uçak parçaları ve araştırma hizmetlerinden bir veya daha fazlasında ihtisas sahibi olabilir,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "arac_gerec": [
+  "Bilgisayar destekli tasarım (CAD) ve mühendislik analiz yazılımları",
+  "Hesaplamalı akışkanlar dinamiği (CFD) ve yapısal analiz yazılımları",
+  "Bilgisayar donanımları ve teknik çizim programları",
+  "Hava tüneli test düzenekleri",
+  "Statik, dinamik ve titreşim test ekipmanları",
+  "Ölçme ve kontrol cihazları (gerinim ölçer, basınç sensörü vb.)",
+  "Deney modelleri ve prototip üretim ekipmanları (3 boyutlu yazıcı/tarayıcı)",
+  "Malzeme test cihazları",
+  "Veri kayıt ve analiz sistemleri",
+  "Teknik rapor ve dokümantasyon araçları",
+  "Simülasyon yazılımları",
+  "El ile çizim gereçleri (gerektiğinde)"
+ ],
+ "genel_ozellikler": [
+  "Matematik ve fizik konularında ilgili ve başarılı,",
+  "Şekil ve uzay ilişkilerini algılayabilen,",
+  "Analitik ve sistematik düşünebilen, neden-sonuç ilişkisi kurabilen,",
+  "Dikkatli, titiz ve sabırlı,",
+  "Sorumluluk sahibi ve kararlarının sonuçlarını üstlenebilen,",
+  "Ekip çalışmasına yatkın ve etkili iletişim kurabilen,",
+  "Araştırmacı, yenilikçi ve sürekli öğrenmeye açık,",
+  "Pratik düşünce ve problem çözme becerisine sahip"
+ ],
+ "calisma_ortami": "Havacılık mühendisleri; havacılık ve savunma sanayi işletmelerinin tasarım/AR-GE ofislerinde, üretim atölye ve hangarlarında, hava tüneli ve test laboratuvarlarında çalışır. Büro ortamındaki bilgisayar başında geçen tasarım ve analiz çalışmalarının yanı sıra, üretim ve test aşamalarında saha/atölye koşullarında da bulunabilirler; bu durumlarda gürültü, uçuş emniyeti ve iş güvenliği kurallarına özellikle uyulması gerekir.\n\nGenellikle ekip halinde çalışılır; diğer mühendisler, teknisyenler, kalite ve test uzmanları ile sürekli iletişim ve koordinasyon içindedirler. Çalışma saatleri genelde düzenlidir, ancak proje teslim tarihleri, test takvimleri veya kritik üretim süreçlerinde fazla çalışma gerekebilir.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi, üniversitelerin mühendislik fakültelerine bağlı \"Havacılık Mühendisliği\", \"Uçak Mühendisliği\" veya \"Havacılık ve Uzay Mühendisliği\" bölümlerinde verilmektedir.",
+  "giris_kosullari": [
+   "Lise veya dengi okul mezunu olmak,",
+   "Yükseköğretim Kurumları Sınavı (YKS) sonucunda ilgili puan türünden yeterli puanı almış ve bu bölümü tercih etmiş olmak,",
+   "Meslek yüksekokullarının ilgili ön lisans programlarından mezun olanlar, Dikey Geçiş Sınavı (DGS) ile programa geçiş yapabilir."
+  ],
+  "sure_ve_icerik": "Eğitim süresi 4 yıldır. Programda temel mühendislik, matematik ve fizik derslerinin yanında aerodinamik, uçuş mekaniği, uçak yapıları ve malzemeleri, tahrik (itki) sistemleri, kontrol ve avionik sistemleri gibi derslere yer verilir. Eğitim; kuramsal derslerin yanı sıra laboratuvar ve tasarım projeleri ile desteklenir, işyeri stajı bulunmaktadır.",
+  "belge": "Eğitimini başarıyla tamamlayanlara ilgili bölüme göre Havacılık Mühendisliği, Uçak Mühendisliği veya Havacılık ve Uzay Mühendisliği lisans diploması verilir."
+ },
+ "calisma_alanlari": "Havacılık mühendisleri; havacılık ve savunma sanayinde faaliyet gösteren kamu ve özel sektör işletmelerinde, uçak ve uçak parçaları üreten fabrikalarda, uçak bakım-onarım merkezlerinde, havayolu işletmelerinin teknik birimlerinde, üniversite ve kamu kurumlarına bağlı AR-GE merkezlerinde çalışabilirler. Ayrıca sivil havacılıkla ilgili kamu kurumlarında teknik personel olarak, yükseköğretim kurumlarında akademisyen olarak ve mühendislik danışmanlık şirketlerinde de istihdam edilebilirler. Havacılık ve savunma sanayindeki yatırımların artması, bu meslekte iş bulma olanaklarını olumlu etkilemektedir.",
+ "kazanc": {
+  "egitim_suresince": "Eğitim süresince Yükseköğrenim Kredi ve Yurtlar Kurumu (KYK) tarafından sağlanan öğrenim ve harç kredisi ile üniversitelerin ve çeşitli kurum/kuruluşların sağladığı burs olanaklarından yararlanılabilir.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında çalışanlar 657 sayılı Devlet Memurları Kanunu'na göre teknik eleman statüsünde maaş ve yan ödeme alır.",
+   "Özel sektörde ücret, işletmenin büyüklüğüne, kişinin deneyim ve niteliklerine göre değişir; mesleğe yeni başlayanlarda ücret genellikle asgari ücret düzeyinde olabilir, deneyim ve uzmanlaşmayla birlikte artış gösterir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Lisans eğitiminin ardından ilgili mühendislik alanlarında yüksek lisans ve doktora yapılabilir, araştırma görevliliği ve akademik kariyer olanakları bulunmaktadır. Yabancı dil bilgisi ve ileri düzey tasarım/analiz yazılımlarına yönelik sertifikalı eğitimler meslekte ilerlemede avantaj sağlar.",
+  "is_hayatinda": "Deneyim kazanan havacılık mühendisleri; aerodinamik, yapısal analiz, itki sistemleri gibi alanlarda uzmanlaşabilir, proje ve ekip liderliği görevleri üstlenebilir, işletmelerde teknik yönetici veya üst düzey mühendislik pozisyonlarına yükselebilirler."
+ },
+ "benzer_meslekler": [
+  "Uçak Mühendisi",
+  "Havacılık ve Uzay Mühendisi/Uzay Mühendisi",
+  "Makine Mühendisi",
+  "Makine ve İmalat Mühendisi",
+  "Uçuş Mühendisi",
+  "Yapısal Analiz ve Tasarım Uzmanı (Savunma Sanayi)",
+  "İtki ve Motor Sistemleri Uzmanı (Savunma Sanayi)"
+ ],
+ "ek_bilgiler": "Havacılık sektöründe görev alanına bağlı olarak Sivil Havacılık Genel Müdürlüğü (SHGM) ve ilgili uluslararası havacılık otoritelerinin düzenlemelerine uygun sertifikasyon süreçlerine tabi olunabilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, bazı uzmanlık alanlarında istihdamda tercih sebebi olabilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-07T21:23:10",
+  "usage": {
+   "input_tokens": 4,
+   "output_tokens": 10170
+  }
+ }
+}

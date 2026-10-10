@@ -1,0 +1,61 @@
+{
+ "arac_gerec": [
+  "Çeşitli şifalı bitkiler ve otlar",
+  "Bitkisel yağlar, özütler ve karışımlar",
+  "Havan, harç ve karıştırma kapları",
+  "Pamuk, gazlı bez",
+  "Saklama kapları ve şişeler",
+  "Ölçüm için basit kaplar/kaşıklar",
+  "Basit el aletleri (cımbız, spatula vb.)",
+  "Temizlik ve hijyen malzemeleri"
+ ],
+ "benzer_meslekler": [
+  "Diğer Sağlık Personeli",
+  "Köy Sağlık Çalışanı",
+  "Toplum Sağlığı Çalışanı"
+ ],
+ "calisma_alanlari": "Bu kapsamdaki kişiler genellikle resmî sağlık kurumları dışında, kendi evlerinde, köy veya mahalle ortamında, küçük ölçekli ve bağımsız biçimde faaliyet gösterir. Devlet hastaneleri, özel sağlık kuruluşları veya diş klinikleri gibi kurumsal yapılarda bu tanıma uygun bir istihdam biçimi bulunmamaktadır. Faaliyet, daha çok yöresel talep ve geleneksel uygulamaların sürdüğü kırsal alanlarda görülmektedir.",
+ "calisma_ortami": "Çalışma genellikle kapalı mekânlarda; kişinin kendi evinde, küçük bir işyerinde veya hizmet verdiği kişinin evinde, gayriresmî bir ortamda yürütülür. Sabit bir çalışma saati, mekân standardı veya hijyen denetimi söz konusu değildir; bu durum hem uygulayıcı hem de hizmet alan kişi açısından sağlık riski oluşturabilir.\n\nİş, büyük ölçüde birebir insan ilişkisine dayanır; yardım isteyen kişilerle yakın ve doğrudan iletişim kurulur. Çalışma düzensiz ve taleple sınırlıdır, düzenli bir gelir veya kurumsal güvence bulunmaz. Ayrıca, dişle ilgili rahatsızlıkların lisanssız kişilerce tedavi edilmeye çalışılması, kişiyi hem sağlık hem de hukuki risklerle karşı karşıya bırakabilir.",
+ "egitim": {
+  "verildigi_yerler": "Türkiye'de bu tanıma uygun, örgün ve resmî bir eğitim kurumu veya programı bulunmamaktadır. Bilgi ve beceri, aile veya çevre içinde kuşaktan kuşağa aktarılan geleneksel/deneyimsel yolla edinilir.",
+  "giris_kosullari": [
+   "Resmî bir eğitim programı bulunmadığından belirli bir giriş koşulu tanımlanmamıştır",
+   "Uygulayıcılar genellikle bu bilgiyi ailesinden veya çevresinden, deneyim yoluyla öğrenir"
+  ],
+  "sure_ve_icerik": "Belirli bir süresi ve müfredatı olan örgün bir eğitim süreci yoktur. Bilgi, gözlem, deneyim ve usta-çırak ilişkisi içinde zaman içinde edinilir; standart bir ders içeriği bulunmaz.",
+  "belge": "Bu alanda resmî bir diploma, sertifika veya Mesleki Yeterlilik Kurumu (MYK) belgesi bulunmamaktadır."
+ },
+ "ek_bilgiler": "Bu kayıt, Türk Meslekler Sözlüğü'nde \"başka yerde sınıflandırılmamış\" bir artık (residüel) kategori olarak yer almaktadır ve örgün eğitimle yetişilen, tanımlı bir kariyer basamağı olan resmî bir sağlık mesleğini ifade etmemektedir. Türkiye'de ağız ve diş sağlığı ile ilgili tanı ve tedavi işlemleri, ilgili mevzuat gereği yalnızca lisanslı diş hekimleri tarafından yapılabilir; bu alanda lisanssız kişilerce yürütülen tedavi girişimleri hem hizmet alan kişi için sağlık riski taşır hem de hukuki sorumluluk doğurabilir. Diş sağlığı alanında çalışmak isteyen gençlere, Diş Hekimliği veya Ağız ve Diş Sağlığı Teknikerliği gibi resmî olarak tanımlanmış, örgün eğitime dayalı mesleklere yönelmeleri önerilir.",
+ "genel_ozellikler": [
+  "El becerisine sahip,",
+  "Bitkiler ve doğal yöntemler konusunda bilgi sahibi,",
+  "Hijyen kurallarına özen gösteren,",
+  "Sabırlı ve dikkatli,",
+  "İnsan ilişkilerinde güven veren,",
+  "Geleneksel bilgi birikimini aktarabilen,",
+  "Yardım ettiği kişilerin sağlığı konusunda sorumluluk bilincine sahip,"
+ ],
+ "gorevler": [
+  "Çeşitli ot ve bitkilerle, ilaçsız yöntemlerle hastalıkları tedavi etmeye çalışır.",
+  "Diş ile ilgili rahatsızlıkları gidermeye çalışır.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Bu alanda tanımlı, örgün bir eğitim basamağı veya ilerleme yolu bulunmamaktadır. Diş sağlığı alanında ilerlemek isteyenlerin Ağız ve Diş Sağlığı Teknikerliği veya Diş Hekimliği gibi resmî eğitim programlarına yönelmesi önerilir.",
+  "is_hayatinda": "Deneyim ve çevredeki tanınırlık arttıkça kişi daha çok talep görebilir; ancak resmî bir unvan, kadro veya kariyer basamağı ilerlemesi söz konusu değildir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Örgün bir eğitim süreci bulunmadığından eğitim süresince kazanç söz konusu değildir.",
+  "egitim_sonrasi": [
+   "Kazanç, karşılıklı anlaşmaya, yöresel talebe ve kişiden kişiye değişen uygulamalara bağlıdır; düzenli, güvenceli veya standart bir gelirden söz etmek mümkün değildir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T12:18:28",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6286
+  }
+ }
+}

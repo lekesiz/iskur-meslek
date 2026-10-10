@@ -1,0 +1,78 @@
+{
+ "arac_gerec": [
+  "Bilgisayar ve dokunmatik ekran/tablet",
+  "Restoran otomasyon (satış-sipariş takip) yazılımı",
+  "POS cihazı ve yazar kasa entegrasyon ünitesi",
+  "Fiş/fatura yazıcısı",
+  "Barkod okuyucu",
+  "El terminali (mobil sipariş cihazı)",
+  "Ağ (network) kabloları, switch ve router",
+  "Kurulum el aletleri (tornavida, pense, kablo bağlantı malzemeleri)",
+  "Yazılım kurulum dosyaları/USB-CD",
+  "Tanıtım katalogu, broşür ve fiyat teklif formları",
+  "Satış sözleşmesi ve sipariş fişi",
+  "Çalışma planı ve müşteri takip formları"
+ ],
+ "genel_ozellikler": [
+  "İnsan ilişkilerinde başarılı, girişken ve ikna yeteneği olan,",
+  "Bilgisayar, yazılım ve donanım konularına ilgili ve teknolojik gelişmeleri takip eden,",
+  "Düzgün ve anlaşılır bir diksiyona sahip, sözlü ve yazılı anlatımı güçlü,",
+  "Planlı, organize ve zamanını iyi yönetebilen,",
+  "Sabırlı, güler yüzlü ve müşteri odaklı,",
+  "Sorumluluk sahibi ve güvenilir,",
+  "Seyahat etmeye ve farklı işletmelerde çalışmaya engeli bulunmayan,",
+  "Analitik düşünebilen ve karşılaştığı teknik sorunlara pratik çözümler üretebilen,"
+ ],
+ "calisma_ortami": "Restoran programı satış elemanı, çalışmalarının bir kısmını büro ortamında (müşteri görüşmeleri, teklif hazırlama, planlama), bir kısmını ise saha ortamında; yani ürünün tanıtıldığı ve kurulumunun yapıldığı restoran, kafe, pastane gibi yiyecek-içecek işletmelerinde yürütür. Kurulum sırasında kablo döşeme, cihaz yerleştirme gibi işler nedeniyle ayakta durma, eğilme ve dar alanlarda çalışma gerekebilir. Çalışma saatleri, hizmet verilen işletmelerin açılış-kapanış saatlerine göre değişkenlik gösterebilir ve bazen mesai saatleri dışında (akşam, hafta sonu) çalışmayı gerektirebilir. Görevi sırasında işletme sahipleri, yöneticiler, mutfak ve servis personeli ile çalıştığı firmanın teknik destek ve satış ekibiyle sürekli iletişim halindedir.\n\nMeslek, sık seyahat etmeyi ve farklı işletmelere gidip gelmeyi gerektirdiğinden hareketli bir çalışma temposuna sahiptir.",
+ "gorevler": [
+  "Ürün tanıtımı yapılacak işletmeleri tespit eder, çalışma planı hazırlar.",
+  "Belirlenen işletmelere ürünün tanıtımını yapar.",
+  "Firmaların ürünle ilgilenmesi ve satın almaya karar vermeleri halinde işletmede fizibilite çalışması yapar, kullanılacak bilgisayar, malzeme ve kablo döşenecek yerlerin tespitini yapar.",
+  "Fiyat tespiti yapar.",
+  "Malzeme siparişi verir.",
+  "Sistemin kurulumunu yapar, yazılımı yükler.",
+  "Sistemin kontrolünü yapar.",
+  "İşletmede ilgili personele sistemin kullanımını gösterir (eğitim verir).",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Bu meslek için Millî Eğitim Bakanlığına bağlı örgün bir mesleki eğitim programı (çıraklık, meslek lisesi alan/dalı vb.) bulunmamaktadır. Meslek, genellikle bilgisayar/yazılım satışı ve pazarlama sektöründe faaliyet gösteren firmalarda işbaşında eğitim yoluyla veya bilişim teknolojileri, pazarlama ve perakende gibi ilgili alanlarda eğitim almış kişilerin bu alana yönelmesiyle kazanılmaktadır. Halk Eğitim Merkezleri ile İŞKUR tarafından açılan temel bilgisayar, satış teknikleri ve müşteri ilişkileri kurslarından da yararlanılabilir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak,",
+   "Temel düzeyde bilgisayar kullanabiliyor olmak,",
+   "Mesleğin gerektirdiği saha çalışmasını ve seyahati yapmaya engel bir sağlık sorunu bulunmamak,",
+   "İşe alınacak işletmenin belirleyeceği ek koşulları (deneyim, sürücü belgesi, yaş vb.) taşımak."
+  ],
+  "sure_ve_icerik": "Standart ve resmî olarak tanımlanmış bir eğitim süresi veya müfredatı bulunmamaktadır. İşe alınan kişiler genellikle çalıştıkları firma bünyesinde; satılan yazılımın ve donanımın tanıtımı, kurulum teknikleri, temel bilgisayar ağı/donanım bilgisi, satış ve müşteri ilişkileri konularında işbaşında eğitim alırlar. Bilişim teknolojileri, pazarlama/perakende satış veya benzer alanlarda mesleki ve teknik eğitim almış olmak işe girişte ve mesleki gelişimde avantaj sağlar.",
+  "belge": "Mesleğe özgü, yasal olarak zorunlu bir diploma veya sertifika bulunmamaktadır. Çalışılan firmanın verdiği iç eğitim katılım belgeleri ile Halk Eğitim Merkezleri, İŞKUR veya özel kurumlardan alınan kurs katılım sertifikaları bulunabilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Bu mesleği edinenler; restoran, kafe, pastane, otel gibi yiyecek-içecek işletmelerine yönelik satış ve sipariş takip yazılımı/donanımı geliştiren veya satan firmalarda, bu firmaların bayilik ya da distribütörlük yapan işletmelerinde satış ve kurulum elemanı olarak çalışabilirler. Yazılım ve teknoloji firmalarının saha satış, pazarlama ve teknik destek ekiplerinde görev alabilirler. Sektörde yeterli bilgi birikimi ve sermayeye sahip olanlar, zaman içinde kendi bayiliklerini açabilir veya bağımsız satış/danışmanlık faaliyeti yürütebilirler.\n\nRestoran ve kafe işletmeciliğinin yaygınlaşması ve işletmelerin dijitalleşme eğilimi, bu meslekte iş bulma olanaklarını olumlu etkilemektedir.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğe yönelik örgün bir çıraklık veya mesleki eğitim programı bulunmadığından, 3308 sayılı Kanun kapsamında bir eğitim ücreti söz konusu değildir. Firma bünyesinde işbaşı eğitim alan yeni çalışanlara, işletmenin belirlediği bir ücret ödenir; bu ücret genellikle asgari ücret düzeyinde olur.",
+  "egitim_sonrasi": [
+   "İşe yeni başlayanlara genellikle asgari ücret düzeyinde bir ücret ödenir.",
+   "Özel sektörde ücret; çalışanın deneyimi, satış performansı ve işletmenin büyüklüğüne göre işveren ile çalışan arasında belirlenir; sabit ücrete ek olarak satış primi/komisyon uygulanması yaygındır.",
+   "Kendi bayiliğini veya işletmesini kuranların kazancı, gerçekleştirdikleri satış ve kurulum hacmine göre değişkenlik gösterir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğe yönelik kademeli (çıraklık-kalfalık-ustalık) bir mesleki eğitim sistemi bulunmamaktadır. Çalışanlar, bilişim teknolojileri, yazılım, pazarlama ve satış teknikleri alanlarında açılan kurs ve sertifika programlarına katılarak bilgi ve becerilerini geliştirebilir.",
+  "is_hayatinda": "Deneyim kazanan satış elemanları; kıdemli satış temsilcisi, bölge satış sorumlusu, satış ekibi yöneticisi veya teknik destek/eğitim sorumlusu gibi görevlere yükselebilir. Yeterli sermaye ve deneyime sahip olanlar kendi bayiliğini kurarak işveren konumuna geçebilir."
+ },
+ "benzer_meslekler": [
+  "Bilgisayar Satış Elemanı",
+  "Modül-Kart Satış Elemanı",
+  "Güvenlik Sistemleri Satış Elemanı",
+  "Fotokopi Makinesi Satış Elemanı",
+  "Cep Telefonu ve Aksesuarları Satış Elemanı"
+ ],
+ "ek_bilgiler": "Bu meslek, restoran ve kafe işletmelerinde yaygınlaşan otomasyon, sipariş takip ve ödeme (POS) sistemlerine duyulan talebe bağlı olarak gelişmektedir. Satışı yapılan yazılım ve donanım teknolojilerindeki hızlı değişim nedeniyle, meslek üyelerinin güncel ürün ve sistemleri yakından takip etmesi gerekir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T19:05:44",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 7066
+  }
+ }
+}

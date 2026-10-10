@@ -1,0 +1,73 @@
+{
+ "arac_gerec": [
+  "Bilgisayar ve ofis yazılım programları",
+  "Teknik çizim ve tasarım yazılımları (CAD/CAM vb.)",
+  "Laboratuvar cihaz ve ekipmanları (sektöre göre değişir)",
+  "Ölçüm, analiz ve test cihazları",
+  "Numune, prototip ve örnek malzemeler",
+  "Hammadde örnekleri ve kalite kontrol kitleri",
+  "Veri tabanları, pazar araştırma ve istatistik yazılımları",
+  "Proje yönetimi ve dokümantasyon araçları",
+  "İletişim araçları (telefon, e-posta, görüntülü görüşme sistemleri)",
+  "Kişisel koruyucu donanım (laboratuvar/üretim ortamında çalışılıyorsa)"
+ ],
+ "benzer_meslekler": [
+  "Ürün Geliştirme Elemanı",
+  "Ürün Geliştirme Elemanı (Tekstil)",
+  "Ürün Geliştirme Elemanı (Metal)",
+  "Endüstriyel Tasarımcı",
+  "Endüstriyel Tasarım Mühendisi"
+ ],
+ "calisma_alanlari": "ARGE elemanları; gıda, kimya, tekstil, kozmetik, otomotiv, makine, elektrik-elektronik, ambalaj, mobilya, ilaç ve diğer üretim sektörlerindeki işletmelerin araştırma-geliştirme (AR-GE), ürün geliştirme ve inovasyon birimlerinde istihdam edilmektedir.\n\nAyrıca üniversitelerin ve kamu kurumlarının araştırma merkezlerinde, teknoparklarda faaliyet gösteren teknoloji ve girişim şirketlerinde de çalışma imkânı bulunmaktadır. İşletmelerin rekabet gücünü artırmak amacıyla AR-GE faaliyetlerine verdiği önemin giderek artması, bu alandaki istihdam olanaklarını genişletmektedir. İş bulma imkânı, kişinin sahip olduğu teknik eğitim, yabancı dil bilgisi ve ilgili sektördeki deneyimine göre değişiklik göstermektedir.",
+ "calisma_ortami": "ARGE elemanları genellikle işletmelerin AR-GE departmanlarında, ofislerde ve laboratuvar ortamlarında çalışır; zaman zaman üretim sahasında numune ve pilot uygulama çalışmalarına da katılabilirler. Çalışmaları sırasında tedarikçiler, üretim, pazarlama, satın alma ve kalite kontrol birimleriyle sık sık iletişim hâlindedirler.\n\nÇalışma saatleri genellikle büro çalışma düzenine uygundur; ancak proje teslim tarihleri ve test süreçlerine bağlı olarak mesai saatleri uzayabilir. Faaliyet gösterilen sektöre göre (kimya, gıda, tekstil vb.) laboratuvar ortamında kimyasal maddeler, cihaz ve makinelerle çalışma söz konusu olabileceğinden iş sağlığı ve güvenliği kurallarına uyulması önem taşır.",
+ "egitim": {
+  "verildigi_yerler": "Türkiye'de \"ARGE Elemanı\" adıyla ayrı, standart bir örgün eğitim programı bulunmamaktadır. Bu meslek, çalışılan sektöre göre (kimya, tekstil, gıda, makine, elektrik-elektronik, endüstri mühendisliği, tasarım vb.) üniversitelerin ilgili mühendislik ve fen bölümleri, meslek yüksekokullarının ilgili ön lisans programları, mesleki ve teknik liselerin ilgili alanları ile Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kursları aracılığıyla edinilen bilgi ve becerilerle icra edilmektedir.",
+  "giris_kosullari": [
+   "Türk Meslekler Sözlüğüne göre mesleğin gerektirdiği asgari eğitim düzeyi ortaöğretim (lise ve dengi okul) mezuniyetidir.",
+   "Günümüzde işletmeler AR-GE elemanı istihdamında genellikle ilgili mühendislik, fen veya teknik bölümlerden lisans ya da ön lisans mezunlarını tercih etmektedir.",
+   "İlgili lisans programlarına girebilmek için ortaöğretim mezunu olmak ve YKS (Yükseköğretim Kurumları Sınavı) sonucuna göre ilgili bölüme yerleşmek gerekir.",
+   "Meslek yüksekokulu veya mesleki ve teknik lise mezunları, DGS (Dikey Geçiş Sınavı) ile ilgili lisans programlarına geçiş yapabilir."
+  ],
+  "sure_ve_icerik": "Standart bir \"ARGE Elemanlığı\" eğitim süresi bulunmamaktadır. Çalışılacak sektöre uygun mühendislik/fen bölümleri lisans düzeyinde genellikle 4 yıl, ilgili ön lisans programları ise 2 yıl sürmektedir. Bu programlarda temel bilimler, malzeme bilgisi, üretim ve süreç teknolojileri, kalite yönetimi, proje yönetimi ve sektöre özgü teknik dersler yer alır. İşletmeler ayrıca yeni işe başlayan AR-GE elemanlarına işbaşında usta yanında eğitim, kurum içi uyum programları ve mesleki gelişim kursları ile ek eğitim sağlamaktadır.",
+  "belge": "İlgili lisans veya ön lisans programını tamamlayanlara diploma; mesleki eğitim kurslarını tamamlayanlara kurs bitirme belgesi veya sertifika verilir."
+ },
+ "ek_bilgiler": "\"ARGE Elemanı\" unvanı, çalışılan sektöre (gıda, kimya, tekstil, otomotiv, elektronik vb.) göre farklı teknik bilgi ve uzmanlık alanları gerektirebilir. Bu nedenle mesleğe hazırlayan eğitim programının içeriği, giriş koşulları ve istihdam olanakları, kişinin yöneldiği sektöre göre değişiklik gösterebilir.",
+ "genel_ozellikler": [
+  "Analitik düşünme ve problem çözme yeteneğine sahip,",
+  "Araştırmacı, meraklı ve öğrenmeye açık,",
+  "Yenilikçi ve yaratıcı,",
+  "Sayısal ve sözel akıl yürütme becerisi gelişmiş,",
+  "Dikkatli, sabırlı ve sistemli çalışabilen,",
+  "Ekip çalışmasına yatkın,",
+  "Yazılı ve sözlü iletişim becerisi güçlü,",
+  "Değişen koşullara ve teknolojiye uyum sağlayabilen"
+ ],
+ "gorevler": [
+  "Mevcut ürünler için maliyet iyileştirme ve yaşam döngüsü uzatma projelerinde bulunur.",
+  "Ürün formülasyonu geliştirme ve iyileştirme konularında gerekli tüm çalışmaları yapar ve bunları dokümante eder.",
+  "Pazar analizlerini yapar, pazar trendlerini takip eder ve bu trendlere uygun ürün çeşitleri için projeler tasarlar.",
+  "Yeni ürün ve süreç tasarım çalışmalarını yürütür ve yönetir.",
+  "Hammadde süreci için mevcut ve/veya alternatif tedarikçilerle görüşmeler yapar, yeni ve/veya alternatif hammaddeleri tespit eder, bunların mevcut formüllere adapte edilmesi için denemeler yapar ve raporlar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "İlgili lisans eğitimini tamamlayanlar, yüksek lisans ve doktora yaparak akademik kariyer yapabilir; alanında uzmanlaştıkça kıdemli araştırmacı veya uzman unvanına yükselebilir.",
+  "is_hayatinda": "Deneyim kazandıkça AR-GE uzmanı, kıdemli AR-GE uzmanı, proje lideri, AR-GE şefi/müdür yardımcısı ve AR-GE müdürü gibi kademelere yükselme imkânı bulunmaktadır. Başarılı projeler, patent çalışmaları ve inovasyon faaliyetleri meslekte ilerlemeyi desteklemektedir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Mesleğin standart bir örgün eğitim programı bulunmadığından, ilgili lisans veya ön lisans eğitimini alanlar Kredi ve Yurtlar Genel Müdürlüğünün öğrenim kredisi ve yurt hizmetlerinden, çeşitli resmi ve özel kurum/kuruluşların burslarından yararlanabilir; bazı öğrenciler staj veya yarı zamanlı çalışma yoluyla ek gelir elde edebilir.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında istihdam edilenlerin kazancı 657 sayılı Devlet Memurları Kanunu'na veya çalıştığı kurumun ilgili mevzuatına göre belirlenir.",
+   "Özel sektörde kazanç; işletmenin büyüklüğü, faaliyet gösterilen sektör, kişinin eğitim düzeyi, deneyimi ve uzmanlığına göre değişmektedir.",
+   "İşe yeni başlayanların kazancı genellikle asgari ücret düzeyinde olabilir; deneyim ve uzmanlık arttıkça kazanç da yükselmektedir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-07T21:53:33",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 7758
+  }
+ }
+}

@@ -1,0 +1,76 @@
+{
+ "arac_gerec": [
+  "Çapa",
+  "Kürek",
+  "Kanal pulluğu",
+  "Traktör",
+  "Pamuk tohumu",
+  "Sulama kanalları ve hortumlar",
+  "Gübre",
+  "Tarım ilaçları (herbisit, insektisit)",
+  "İlaçlama makinesi (pülverizatör)",
+  "Pamuk toplama torbası/çantası",
+  "Tartı/baskül",
+  "Balyalama ekipmanı",
+  "Koruyucu eldiven, şapka ve iş giysisi"
+ ],
+ "genel_ozellikler": [
+  "Açık havada, güneş altında ve uzun süre ayakta/eğilerek çalışabilecek fiziksel dayanıklılığa sahip,",
+  "El becerisine sahip,",
+  "Dikkatli ve sabırlı,",
+  "Toprağı ve bitkiyi seven, tarımsal üretime ilgi duyan,",
+  "Yorucu ve tekrarlayan işlerde çalışmaya istekli,",
+  "Ekip çalışmasına uyumlu,",
+  "Mevsimsel ve değişken hava koşullarına uyum sağlayabilen,",
+  "Basit tarım alet ve makinelerini kullanabilen."
+ ],
+ "calisma_ortami": "Pamuk Yetiştiricisi, görevini açık arazide, tarlalarda yürütür. Çalışma koşulları mevsime ve yapılan işe göre değişir; sıcak, güneşli ve tozlu ortamda uzun süre eğilerek veya ayakta çalışmayı, sulama kanalları çevresinde ıslak ve çamurlu zeminde bulunmayı gerektirebilir. Ekim, çapalama ve özellikle hasat dönemlerinde çalışma süresi uzayabilir; hasat genellikle yaz sonu ve güz aylarında yoğunlaşır ve bu dönemlerde mevsimlik işçi olarak çalışma yaygındır.\n\nÇalışma sırasında işletme sahibi, diğer tarım işçileri ve zaman zaman tarım teknisyeni veya ziraat mühendisleriyle iş birliği içinde bulunulur. İşin niteliği nedeniyle bel, el ve kol yorgunluğu, güneş çarpması ve tarım ilaçlarına maruziyet gibi riskler bulunduğundan koruyucu giysi ve ekipman kullanımı önemlidir.",
+ "egitim": {
+  "verildigi_yerler": "Pamuk yetiştiriciliğine özgü, ayrı ve resmî bir örgün mesleki eğitim programı bulunmamaktadır. Mesleğin bilgi ve becerileri genellikle ailede veya işbaşında, usta-çırak ilişkisi içinde tarımla uğraşan işletmelerde çalışarak kazanılır. Tarım ve Orman Bakanlığı'na bağlı il/ilçe müdürlükleri, Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kursları ile tarımsal yayım kuruluşlarınca düzenlenen kısa süreli kurslarda da temel bilgiler edinilebilir. Mesleki ve teknik eğitim veren tarım alanındaki okul ve mesleki eğitim merkezlerinin bitkisel üretim/tarla bitkileri yetiştiriciliği ile ilgili dalları bu mesleğe temel oluşturabilir.",
+  "giris_kosullari": [
+   "Mesleğin uygulanması için belirli bir eğitim düzeyi zorunlu değildir; ilköğretim düzeyinde eğitim yeterli görülmektedir.",
+   "Kurslara katılım için genellikle okuryazar olmak ve belirli bir yaşı doldurmuş olmak yeterlidir.",
+   "Açık havada ve zorlu arazi koşullarında çalışmaya uygun sağlık durumuna sahip olmak gerekir."
+  ],
+  "sure_ve_icerik": "Resmî, standart bir eğitim süresi tanımlı değildir; bilgi ve beceri genellikle işbaşında deneyim yoluyla zaman içinde kazanılır. Halk Eğitim Merkezleri, İŞKUR kursları ve tarımsal yayım faaliyetleri kapsamında düzenlenen kısa süreli eğitimlerde toprak hazırlığı, tohum ekimi, sulama, gübreleme, yabancı ot ve zararlılarla mücadele, hasat ve depolama konularında teorik ve uygulamalı bilgiler verilir.",
+  "belge": "Örgün eğitim yoluyla alınan bir diploma bulunmamaktadır; katılınan kurslar sonunda katılım belgesi veya sertifika verilebilir."
+ },
+ "calisma_alanlari": "Pamuk Yetiştiricisi; başta Çukurova, Güneydoğu Anadolu (GAP bölgesi) ve Ege bölgesi gibi pamuk tarımının yoğun yapıldığı illerdeki özel çiftliklerde, tarımsal işletmelerde ve aile işletmelerinde çalışabilir. Tarım kooperatifleri, tohumluk ve tarım ilacı/gübre bayileri ile tarımsal üretim yapan şirketler de istihdam alanları arasındadır. Hasat dönemlerinde mevsimlik tarım işçisi olarak farklı bölgelerde çalışma imkânı bulunmaktadır. Kendi arazisi olan kişiler, kendi tarlalarında üretici olarak da bu mesleği sürdürebilir.",
+ "kazanc": {
+  "egitim_suresince": "Örgün bir mesleki eğitim programı bulunmadığından eğitim süresince düzenli bir ücretten söz etmek mümkün değildir; kısa süreli kurslarda genellikle ücret ödenmez, bazı kurslarda katılımcılara yol veya yemek gibi destekler sağlanabilir.",
+  "egitim_sonrasi": [
+   "Mevsimlik veya gündelik çalışılan işlerde kazanç, çalışılan gün sayısına ve yapılan iş miktarına (örneğin toplanan pamuk miktarına) göre değişebilir.",
+   "Düzenli olarak bir işletmede çalışanlar genellikle asgari ücret düzeyinde gelir elde eder; deneyim ve üstlenilen sorumluluğa göre bu tutar artabilir.",
+   "Kendi arazisinde üretim yapan kişilerin kazancı, verime, pamuk fiyatlarına ve işletme büyüklüğüne göre değişkenlik gösterir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Bu meslek için tanımlı, kademeli bir örgün eğitim ilerleme basamağı (kalfalık-ustalık gibi) bulunmamaktadır. Deneyim kazanan kişiler, tarımsal üretim teknikleri, bitki koruma ve sulama gibi konularda düzenlenen kurs ve seminerlere katılarak bilgi ve becerilerini geliştirebilir. İsteyen kişiler, tarım alanındaki mesleki ve teknik eğitim programlarına veya ilgili ön lisans/lisans programlarına yönelebilir.",
+  "is_hayatinda": "Deneyim kazandıkça işçibaşı veya tarla sorumlusu gibi görevlere getirilebilir, tarımsal işletmelerde daha fazla sorumluluk üstlenebilir. Yeterli birikim ve sermayeye sahip olanlar kendi tarım işletmesini kurarak üretici konumuna geçebilir."
+ },
+ "benzer_meslekler": [
+  "Çiftçi (Tarla Ürünleri)",
+  "Tarla Bitkileri Yetiştiricisi",
+  "Şeker Pancarı Yetiştiricisi",
+  "Mısır Yetiştiricisi",
+  "Ayçiçeği Yetiştiricisi",
+  "Susam Yetiştiricisi"
+ ],
+ "ek_bilgiler": "Pamuk hasadı mevsimlik ve yoğun iş gücü gerektiren bir faaliyet olduğundan, hasat döneminde mevsimlik tarım işçiliği yaygın olarak görülmekte ve bazı bölgelerde işçi hareketliliği yaşanmaktadır. Yabancı ot ve zararlı mücadelesinde kullanılan tarım ilaçlarına maruziyet riski bulunduğundan, çalışma sırasında koruyucu ekipman kullanımı önemlidir.",
+ "gorevler": [
+  "Genel tarla ürünü çiftlik işçiliğinde yapılan işlere benzer görevleri yerine getirmekle birlikte, pamuk ekimi, yetiştirilmesi ve toplanması konusunda uzmanlaşır.",
+  "Pamuk tohumunu eker.",
+  "Pamuk tarlalarında kanal pullukları ile açılan kanallardan tarlaya su verir.",
+  "Kanallardaki tıkanmaları kürekle açar, çapa ile tarladaki yabancı otları temizler, çapalar, ilaçlar.",
+  "Yetişen pamuğu elle toplar, çekirdeğinden ayırır, tartar, balyalar ve depolar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T20:02:50",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 7650
+  }
+ }
+}

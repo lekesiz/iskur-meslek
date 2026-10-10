@@ -1,0 +1,82 @@
+{
+ "arac_gerec": [
+  "Hakem kıyafeti (forma, şort/pantolon)",
+  "Şapka veya güneş siperliği",
+  "Güneş gözlüğü",
+  "Hava koşullarına uygun kıyafet (yağmurluk, rüzgârlık, mont)",
+  "Taşınabilir alçak hakem sandalyesi/taburesi",
+  "Yedek tenis topları",
+  "Kayıt/skor kâğıdı ve kalem",
+  "Kimlik kartı veya turnuva akreditasyon kartı",
+  "Haberleşme/kulaklık sistemi (bazı büyük turnuvalarda kule hakemiyle iletişim için)",
+  "Kronometre veya saat"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve gözlem gücü yüksek,",
+  "Çabuk ve doğru karar verebilen,",
+  "Görme ve algılama yeteneği güçlü,",
+  "Tarafsız, dürüst ve kurallara bağlı,",
+  "Uzun süre yoğun dikkat gerektiren işlere karşı dayanıklı,",
+  "Fiziksel olarak sağlıklı ve hareketli,",
+  "Ekip çalışmasına uyumlu,",
+  "Stresli ortamlarda sakin kalabilen kişiler olmaları gerekir."
+ ],
+ "gorevler": [
+  "Maça girmeden önce hakem kıyafetlerini giyer.",
+  "Tenis maçında görevli olduğu çizgi pozisyonuna göre kendi çizgisinde hazır bulunur.",
+  "Yarım saatte bir dikkat dağılacağı için görev değişikliği yapar.",
+  "Turnuvadan önce antrenman yapar.",
+  "Out anonsu verir.",
+  "Oyuncuların dinlenme sürelerinde yerlerini diğer hakemlere bırakır.",
+  "Topun çizginin dışına çıkıp çıkmadığını kontrol eder (long çizgi hakemi, servis çizgi hakemi).",
+  "Oyuncunun servis atarken çizgiye basıp basmadığını kontrol eder (baseline çizgi hakemi).",
+  "Topun fileye çarpıp çarpmadığını kontrol eder (net çizgi hakemi).",
+  "Tüm kontrollerden sonra çizgi hattındaki el işaretlerini yapar.",
+  "Kule hakemine gerekli komutları verir.",
+  "Toplar yıprandığında topları değiştirir (servis çizgi hakemi).",
+  "Mesleği alanındaki gelişmeleri takip eder ve uygular."
+ ],
+ "calisma_ortami": "Tenis çizgi hakemleri açık veya kapalı tenis kortlarında, sahanın yan ve arka çizgilerinde ayakta veya alçak hakem sandalyelerinde oturarak görev yaparlar. Çalışma süresince yoğun dikkat gerektiren bir pozisyonda sabit kalınır; bu nedenle genellikle yarım saatte bir görev rotasyonu yapılır. Açık kortlarda görev yapanlar güneş, sıcak, soğuk, rüzgâr ve bazen yağmur gibi hava koşullarına doğrudan maruz kalabilir.\\n\\nÇalışma saatleri turnuva programına göre değişir; gündüz, akşam, hafta sonu ve resmî tatiller dâhil düzensiz saatlerde görev alınabilir. Çalışma süresince diğer çizgi hakemleri, kule hakemi (baş hakem), oyuncular ve turnuva organizasyon görevlileriyle sürekli iletişim ve koordinasyon içinde bulunulur.",
+ "egitim": {
+  "verildigi_yerler": "Bu meslek için örgün eğitim sisteminde ayrı bir okul veya bölüm bulunmamaktadır. Hakemlik bilgi ve becerisi, Türkiye Tenis Federasyonu ile bağlı il temsilciliklerinin düzenlediği hakem kursları, seminerler ve turnuvalarda kıdemli hakemlerin gözetiminde yapılan uygulamalı çalışmalar yoluyla kazanılır.",
+  "giris_kosullari": [
+   "En az ortaöğretim (lise ve dengi okul) mezunu olmak",
+   "Tenis kurallarına ve oyun yapısına ilgi ve temel bilgi sahibi olmak",
+   "İlgili federasyonun açtığı hakem kurslarına katılabilecek yaş ve sağlık koşullarını taşımak",
+   "Görme ve fiziksel yeterlilik açısından hakemlik görevini yerine getirebilecek durumda olmak"
+  ],
+  "sure_ve_icerik": "Eğitim süresi ve içeriği federasyonun belirlediği programa göre değişmekle birlikte genellikle tenis kuralları, oyun terminolojisi, çizgi ve kule hakemliği teknikleri, el işaretleri, iletişim kuralları ve uygulamalı maç gözetimi konularını kapsar. Kurs sonrasında adaylar, deneyim kazanmak amacıyla yerel turnuvalarda görev alarak kademeli olarak ilerler.",
+  "belge": "Türkiye Tenis Federasyonu tarafından düzenlenen hakem kursu ve sınavı sonunda başarılı olan adaylara, kademesine uygun bir hakem belgesi/lisansı verilir."
+ },
+ "calisma_alanlari": "Tenis çizgi hakemleri; yerel, bölgesel, ulusal ve uluslararası düzeyde düzenlenen tenis turnuvalarında, tenis kulüplerinde, spor kompleksleri ve özel turnuva organizasyonlarında görev alabilirler. Çalışma genellikle Türkiye Tenis Federasyonu veya turnuva organizasyon komiteleri bünyesinde, turnuva bazlı görevlendirme şeklinde yürütülür.",
+ "kazanc": {
+  "egitim_suresince": "Hakemlik için düzenlenen kurslar sırasında genellikle bir gelir elde edilmez; kurs giderleri aday tarafından veya bağlı olunan kulüp ya da federasyon tarafından karşılanabilir.",
+  "egitim_sonrasi": [
+   "Çizgi hakemliği çoğunlukla turnuva bazlı görevlendirme şeklinde yürütüldüğünden sabit bir maaş yerine, görev alınan maç ve turnuva sayısına göre değişen bir kazanç söz konusudur.",
+   "Federasyon veya kamu kurumları bünyesinde kadrolu olarak istihdam edilenlerin ücretleri 657 sayılı Devlet Memurları Kanunu'na veya ilgili toplu iş sözleşmesi hükümlerine göre belirlenir.",
+   "Özel turnuva organizasyonlarında ücret, deneyim, hakemlik kademesi ve turnuvanın önemine göre karşılıklı anlaşma ile belirlenir.",
+   "Yeni başlayan hakemlerin kazancı genellikle sınırlıdır ve bu meslek çoğunlukla tam zamanlı bir ana iş değil, ek gelir kaynağı olarak değerlendirilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Aday hakemlikten başlayarak deneyim ve başarıya göre il hakemi, ulusal hakem ve uluslararası (ITF sertifikalı) hakem kademelerine yükselinebilir.",
+  "is_hayatinda": "Deneyim kazandıkça daha büyük ve önemli turnuvalarda görevlendirilme, kule hakemi (baş hakem) veya üst düzey turnuva hakemliği gibi görevlere geçme, ayrıca federasyon bünyesinde hakem eğitmenliği yapma imkânı doğabilir."
+ },
+ "benzer_meslekler": [
+  "Voleybol Çizgi Hakemi",
+  "Masa Tenisi Hakemi",
+  "Masa Tenisi Yardımcı Hakemi",
+  "Tenis Antrenörü",
+  "Tenis Eğitmeni",
+  "Spor Hakemi"
+ ],
+ "ek_bilgiler": "Bu meslek Türkiye'de genellikle gönüllülük esasına veya turnuva bazlı görevlendirmeye dayanır; tam zamanlı ve kadrolu istihdam imkânı sınırlıdır. Mesleği yapanların çoğu bu görevi başka bir iş veya eğitimle birlikte, ek faaliyet olarak sürdürür.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T14:10:39",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5563
+  }
+ }
+}

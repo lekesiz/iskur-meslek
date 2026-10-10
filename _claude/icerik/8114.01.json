@@ -1,0 +1,80 @@
+{
+ "arac_gerec": [
+  "Bilgisayar ve merkezi kumanda (otomasyon/SCADA) yazılımı",
+  "Kontrol paneli ve komuta masası",
+  "İzleme monitörleri ve ekranlar",
+  "Dağıtık kontrol sistemi (DCS) üniteleri",
+  "Haberleşme cihazları (telsiz, dahili telefon)",
+  "Alarm ve uyarı sistemleri",
+  "Kapalı devre kamera (CCTV) izleme sistemi",
+  "Üretim takip ve rapor defterleri/formları",
+  "Laboratuvardan gelen analiz verilerini okuma/girme ekranları",
+  "Kişisel koruyucu donanım (baret, kulaklık, iş gözlüğü, iş elbisesi)"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve sorumluluk sahibi,",
+  "Hızlı ve doğru karar verebilen,",
+  "Sayısal/analitik düşünme yeteneğine sahip,",
+  "Bilgisayar ve teknolojik sistemleri kullanmaya yatkın,",
+  "Ekip çalışmasına uygun, sevk ve idare becerisine sahip,",
+  "Vardiyalı ve yoğun çalışma temposuna fiziksel ve psikolojik olarak dayanıklı,",
+  "Problem çözme becerisine sahip,",
+  "İşitme ve görme duyuları gelişmiş,"
+ ],
+ "calisma_ortami": "Merkezi kumanda operatörü (çimento), çimento fabrikalarının genellikle klimalı ve kontrollü iç ortama sahip merkezi kumanda odalarında görev yapar. Çalışma süresinin büyük kısmı bilgisayar ve kontrol panelleri karşısında geçer; ancak gerektiğinde sahaya (üretim üniteleri) çıkarak tozlu, gürültülü ve sıcaklığın yüksek olabildiği ortamlarda da bulunabilir.\n\nÇimento üretimi genellikle kesintisiz (24 saat) sürdüğü için meslek elemanı vardiyalı çalışır. Görevi sırasında vardiya amiri, saha personeli, bakım ekipleri ve laboratuvar çalışanlarıyla sürekli iletişim halindedir; iş sağlığı ve güvenliği kurallarına titizlikle uyulması gereken bir çalışma alanıdır.",
+ "gorevler": [
+  "Görev yaptığı ünitelerde çalışma öncesi bakım ve temizliğini yapar/yaptırır.",
+  "Bilgisayara iş talimatında belirtilen girdi oranlarıyla ilgili bilgi yüklemesini yapar.",
+  "Merkezi kumanda sistemini çalıştırmadan önce gözle kontrol eder, gerekli ayarlamaları yapar.",
+  "Elektronik sistemleri çalıştırır, kumanda eder.",
+  "Sistemin tamamının devreye alınabilirliğini kontrol eder, aksaklık varsa amirine haber verir.",
+  "Monitörden belirlenen sürelerde kimyasal ve fiziksel rapor çıktılarını alır, laboratuvara gönderir.",
+  "Laboratuvardan gelen analiz sonuçlarına göre uygun ayarlamaları yapar.",
+  "Vardiyasında çalışan personeli sevk eder.",
+  "Üretimle ilgili günlük çalışma (rapor) defteri tutar.",
+  "Ünitesinin temizliğini yaptırır.",
+  "Bakım işleri için ekibini sevk ve idare eder.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi için ayrı, resmî olarak tanımlanmış örgün bir mesleki eğitim programı bulunmamaktadır. Meslek genellikle çimento fabrikalarında işbaşında usta/kıdemli operatör yanında yetişme yoluyla kazanılır. Ayrıca ilgili mesleki ve teknik eğitim programları (örneğin kimya teknolojisi, otomasyon, elektrik-elektronik, endüstriyel otomasyon teknolojileri alanları) ile Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kursları bu mesleğe hazırlık açısından destekleyici olabilir.",
+  "giris_kosullari": [
+   "İlköğretim mezunu olmak (meslek için gereken minimum eğitim düzeyi)",
+   "Çimento üretim tesisinde işe alınarak işbaşında yetişmeye uygun fiziksel ve sağlık durumuna sahip olmak",
+   "Meslek lisesi veya meslek yüksekokulunun ilgili (kimya, elektrik-elektronik, otomasyon, makine vb.) bölümlerinden mezun olmak işe alımda ve yetişmede tercih sebebidir",
+   "Vardiyalı çalışmaya uygun olmak"
+  ],
+  "sure_ve_icerik": "Resmî olarak belirlenmiş sabit bir eğitim süresi bulunmamaktadır. Genellikle işletmeye önce saha operatörü olarak girilir; zaman içinde süreç bilgisi, makine ve sistem tanıma, üretim parametreleri ve kalite standartları konularında işbaşı eğitimi alınarak kademeli olarak merkezi kumanda odası görevine geçilir. Bu yetişme süreci işletmeden işletmeye değişmekle birlikte genellikle birkaç ay ile birkaç yıl arasında sürebilir.",
+  "belge": "Mesleğe ilişkin zorunlu bir diploma veya sertifika bulunmamaktadır; işletme içi eğitim katılım belgeleri ve iş sağlığı-güvenliği eğitim sertifikaları verilebilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda ve kariyer gelişiminde tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Merkezi kumanda operatörleri (çimento) başta çimento fabrikaları olmak üzere, bazı hazır beton ve çimento ürünleri üretim tesislerinde ve mineral işleme/madencilik sektöründeki benzer otomasyon sistemine sahip tesislerde istihdam edilirler. Sektörün büyük sanayi tesislerinde yoğunlaşması nedeniyle iş bulma olanakları genellikle bu tesislerin bulunduğu bölgelerle sınırlıdır.",
+ "kazanc": {
+  "egitim_suresince": "Resmî örgün bir eğitim/çıraklık programı bulunmadığından, mesleğe yeni başlayanlar genellikle çalıştıkları işletmede işbaşı eğitim sürecinde asgari ücret düzeyinde bir ücretle çalışır.",
+  "egitim_sonrasi": [
+   "Deneyim ve sorumluluk arttıkça ücret düzeyi yükselir.",
+   "Büyük sanayi işletmelerinde çalışanlar genellikle ilgili işyerindeki toplu iş sözleşmesi hükümlerine tabi olabilir.",
+   "Kazanç; işletmenin büyüklüğü, çalışanın deneyimi, bilgi birikimi ve sektörün genel ücret düzeyine göre değişebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "İlgili alanlarda (kimya teknolojisi, elektrik-elektronik, otomasyon, makine vb.) açılan ön lisans/lisans programlarına yönelebilir; otomasyon sistemleri, iş sağlığı ve güvenliği gibi konularda sertifika programlarına katılarak bilgi ve becerilerini geliştirebilir.",
+  "is_hayatinda": "Deneyim kazandıkça vardiya amirliği, üretim şefliği, bölüm sorumluluğu ve işletme müdürlüğü gibi kademelere yükselebilir."
+ },
+ "benzer_meslekler": [
+  "Beton Santral Operatörü",
+  "Gazbeton Kazan Otoklav Operatörü",
+  "Kireç Fırın Operatörü",
+  "Çimento Üretim Elemanı",
+  "Çimento Paketleme Makinesi Operatörü",
+  "Bunker Operatörü (Hazır Beton)"
+ ],
+ "ek_bilgiler": "Çimento üretim tesislerindeki çalışma, tehlikeli/çok tehlikeli işler kapsamında değerlendirilebilen süreçler içerdiğinden iş sağlığı ve güvenliği eğitimleri önem taşır. Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T10:40:35",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5510
+  }
+ }
+}

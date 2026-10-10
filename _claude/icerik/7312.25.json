@@ -1,0 +1,83 @@
+{
+ "arac_gerec": [
+  "Teknik çizim araçları (cetvel, gönye, pergel, iletki)",
+  "El rendeleri ve kesim bıçakları",
+  "Oyma ve şekillendirme keskileri",
+  "Testere (el ve makine testeresi)",
+  "Zımpara kağıdı ve zımpara makinesi",
+  "Planya, freze ve torna gibi ahşap işleme makineleri",
+  "Mengene ve sıkıştırma kalıpları",
+  "Kumpas, şerit metre, mastar gibi ölçüm araçları",
+  "Ahşap kurutma ve koruma malzemeleri",
+  "Tutkal ve yapıştırıcılar",
+  "Vernik, cila ve perdahlama malzemeleri",
+  "Çeşitli ağaç türleri (kayın, ladin, akçaağaç, ceviz vb.)",
+  "Kişisel koruyucu donanım (toz maskesi, gözlük, eldiven)"
+ ],
+ "benzer_meslekler": [
+  "Müzik Aleti (Çalgı) Yapımcısı",
+  "Lutiye",
+  "Yaylı Sazlar İmal İşçisi",
+  "Nefesli Sazlar İmal İşçisi-Ağaç",
+  "Bağlama Yapımcısı",
+  "Klasik Gitar Yapımcısı"
+ ],
+ "calisma_alanlari": "Müzik aleti temel işlemcileri genellikle; müzik aleti (çalgı) imalat atölyelerinde, enstrüman üretimi yapan küçük ve orta ölçekli işletmelerde, usta yanında çırak veya kalfa olarak çalışabilirler. Deneyim kazandıktan sonra kendi atölyelerini açarak bağımsız olarak çalışma imkânı da bulunmaktadır. Ayrıca müzik aleti satış ve onarım dükkânlarının imalat/atölye bölümlerinde görev alabilirler.",
+ "calisma_ortami": "Müzik aleti temel işlemcileri kapalı atölye ortamında çalışırlar. Çalışma alanı genellikle ahşap tozu, talaş ve kesici-delici makinelerin oluşturduğu gürültüye sahiptir; bu nedenle toz maskesi, koruyucu gözlük gibi kişisel koruyucu donanım kullanılması gerekebilir. El aletleri ve makinelerle yapılan kesim, oyma ve şekillendirme işlemleri sırasında dikkat gerektiren kesici/döner parçalarla çalışıldığından iş kazası riski bulunur.\n\nÇalışma saatleri genellikle gündüz ve işyerinin mesai düzenine göre değişir; sipariş yoğunluğuna bağlı olarak zaman zaman uzun çalışma saatleri söz konusu olabilir. Meslek elemanı çalışmaları sırasında atölye sahibi/ustası, diğer imalat işçileri ve zaman zaman sipariş veren müşterilerle iletişim kurar.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi için resmî olarak tanımlanmış, belirli bir okul veya üniversite programı bulunmamaktadır. Mesleğe giriş genellikle Mesleki Eğitim Merkezlerinde çıraklık eğitimi yoluyla, Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kurslarında ya da müzik aleti imalat atölyelerinde usta yanında işbaşında yetişerek sağlanmaktadır.",
+  "giris_kosullari": [
+   "İlköğretim/temel eğitim mezunu olmak",
+   "Çıraklık eğitimine girişte ilgili yaş ve sağlık şartlarını taşımak",
+   "El becerisine ve ahşap malzemeyle çalışmaya uygun fiziksel yeterliliğe sahip olmak"
+  ],
+  "sure_ve_icerik": "Eğitim süresi, girilen çıraklık programına, kursa veya işyerindeki uygulamaya göre değişiklik gösterir. İçerikte genellikle temel teknik resim ve ölçülendirme, ağaç malzeme bilgisi ve seçimi, ağacın kurutulması ve korunması, el aletleriyle kesim, rendeleme ve oyma, makinelerde kaba işlem ve şekillendirme ile birleştirme ve perdahlama uygulamaları yer alır.",
+  "belge": "Çıraklık eğitimi sonunda kalfalık belgesi, kurslar sonunda katılım/başarı belgesi verilebilir. Mesleki Yeterlilik Kurumu (MYK) Mesleki Yeterlilik Belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "ek_bilgiler": "Bu meslek, geleneksel usta-çırak ilişkisi içinde el sanatları atölyelerinde öğrenilen ve genellikle küçük ölçekli işletmelerde uygulanan bir meslektir; istihdam olanakları bölgesel müzik aleti üretim yoğunluğuna ve atölye sayısına göre değişiklik gösterebilir.",
+ "genel_ozellikler": [
+  "El becerisine sahip,",
+  "Şekil ve uzay ilişkilerini algılayabilen, teknik çizime yatkın,",
+  "Dikkatli ve sabırlı,",
+  "Estetik görüşe ve ayrıntıya duyarlı,",
+  "Müzik ve enstrümanlarla ilgili,",
+  "Ağaç malzeme özelliklerini tanıyabilen,",
+  "El ve gözünü eşgüdümlü kullanabilen,",
+  "Makine ve el aletleriyle çalışırken iş güvenliği kurallarına uyan"
+ ],
+ "gorevler": [
+  "Norm yazı, çizgi çeşitleri ve temel geometrik çizimler yapar.",
+  "İz düşümü çizimleri yapar ve parçaların görünüşlerini çıkarır.",
+  "Ölçülendirme ve ölçeklendirme yapar; perspektif, açınım ve arakesit çizer.",
+  "Enstrüman çizimleri yapar.",
+  "Elde rendeleme ve kesim yapar.",
+  "Elde oyma ve şekillendirme yapar.",
+  "Birleştirme ve perdah yapar.",
+  "Makinelerde kaba işlemler yapar.",
+  "Makinelerde şekillendirme yapar.",
+  "Müzik aletleri yapımında kullanılan ağaçları seçer.",
+  "Ağacı kurutur ve korur.",
+  "Sipariş alır.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Çıraklık eğitimini tamamlayanlar kalfalık ve ardından ustalık belgesi alabilir; deneyim ve beceri kazandıkça daha karmaşık enstrüman yapım ve onarım işlerine (lutiye) yönelebilirler.",
+  "is_hayatinda": "Deneyim kazandıkça usta işçi veya atölye sorumlusu konumuna gelebilir, kendi müzik aleti imalat atölyesini açarak bağımsız çalışabilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Çıraklık eğitimi veya kurs sürecinde genellikle çıraklık ücreti veya asgari ücret düzeyinde bir gelir söz konusu olabilir; bazı kurslar ücretsiz olup herhangi bir ödeme sağlamayabilir.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Deneyim, beceri ve ustalık düzeyi arttıkça kazanç artabilir.",
+   "Kendi atölyesini açanların kazancı işin hacmine, sipariş yoğunluğuna ve işletme giderlerine göre değişir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T03:30:37",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 4931
+  }
+ }
+}

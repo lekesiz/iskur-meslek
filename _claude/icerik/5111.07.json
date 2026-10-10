@@ -1,0 +1,72 @@
+{
+ "gorevler": [
+  "Uçuş öncesi kabin emniyet ekipmanlarının kontrolünü yapar.",
+  "Yolcuları karşılar, yerleşimlerine ve bagajlarına yardımcı olur.",
+  "Acil durum prosedürleri hakkında yolcuları bilgilendirir.",
+  "Uçuş sırasında yemek, içecek ve konfor hizmetlerini sunar.",
+  "Kabin içi disiplini korur ve tıbbi durumlarda ilk yardım desteği verir.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "arac_gerec": [
+  "Kabin emniyet ekipmanları (yangın söndürme cihazı, oksijen tüpü/maskesi)",
+  "İlk yardım çantası ve defibrilatör (AED)",
+  "Can yeleği ve acil durum tahliye kaydırağı",
+  "İkram arabası (trolley) ve servis tepsisi",
+  "Galley ekipmanları (fırın, kahve/çay makinesi, buz kutusu)",
+  "Anons/mikrofon sistemi ve megafon",
+  "El feneri",
+  "Yolcu koltuğu emniyet kemeri ve bagaj kontrol ekipmanları",
+  "Kabin günlüğü, uçuş kontrol listeleri, kalem",
+  "Yiyecek ve içecek malzemeleri"
+ ],
+ "genel_ozellikler": [
+  "İnsan ilişkilerinde başarılı,",
+  "Sözel iletişimi güçlü ve ikna edici,",
+  "Dikkatli, titiz ve gözlem yeteneği gelişmiş,",
+  "Soğukkanlı, kriz anında hızlı ve doğru karar verebilen,",
+  "Bedensel ve ruhsal açıdan sağlıklı, dayanıklı,",
+  "Ekip çalışmasına uyumlu,",
+  "Bakımlı, temsil kabiliyeti yüksek,",
+  "En az bir yabancı dili iyi derecede bilen"
+ ],
+ "calisma_ortami": "\"Sivil havacılık kabin hizmetleri meslek elemanı, uçağın basınçlandırılmış kapalı kabini içinde çalışır. Çalışma süresi uçuş saatlerine bağlı olup gece, hafta sonu ve resmî tatillerde de görev yapılabilir; vardiyalı ve düzensiz bir çalışma düzeni, sık seyahat ve zaman dilimi değişiklikleri (jet lag) söz konusudur. Çalışma süresince ayakta kalma, dar alanda hareket etme ve türbülans gibi fiziksel zorluklarla karşılaşılabilir.\\n\\nMeslek elemanı; uçuş sırasında kaptan pilot, diğer kabin memurları ve yolcularla, yerde ise yer hizmetleri personeli ve havayolu şirketi yöneticileriyle sürekli iletişim halindedir. Yolcu güvenliğinden sorumlu olması nedeniyle dikkat ve sorumluluk gerektiren, bazen stresli ve acil durum yönetimi içeren bir çalışma ortamına sahiptir.\"",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi, üniversitelere bağlı meslek yüksekokullarının \"Sivil Havacılık Kabin Hizmetleri\" önlisans programlarında verilmektedir. Bunun yanında, havayolu şirketleri işe aldıkları adaylara Sivil Havacılık Genel Müdürlüğü (SHGM) düzenlemelerine uygun olarak kendi eğitim merkezlerinde veya SHGM onaylı eğitim kuruluşlarında temel kabin memurluğu eğitimi vermektedir.",
+  "giris_kosullari": [
+   "Önlisans programına girmek için lise veya dengi okul mezunu olup YKS (TYT) sonucuna göre ilgili programa yerleşmek gerekir.",
+   "Havayolu şirketlerinin açtığı kabin memuru eğitimlerine katılabilmek için genellikle en az lise mezunu olmak (önlisans/lisans mezuniyeti çoğu şirkette tercih sebebidir), belirlenen boy-kilo oranına uygun olmak ve iyi derecede yabancı dil bilmek gerekir.",
+   "Şirketlerin ve SHGM'nin öngördüğü sağlık muayenesinden (görme, işitme, genel sağlık durumu) geçmek şarttır."
+  ],
+  "sure_ve_icerik": "Üniversitelerdeki önlisans programı 2 yıl (4 yarıyıl) sürer; havacılık işletmeciliği, uçuş emniyeti ve acil durum prosedürleri, ilk yardım, yolcu hizmetleri, iletişim ve yabancı dil gibi derslerden oluşur. Bu eğitimden sonra ya da doğrudan işe alım yoluyla havayolu şirketine giren adaylara, SHGM talimatlarına uygun olarak haftalarca süren temel kabin memuru eğitimi (acil durum ve tahliye prosedürleri, yangınla mücadele, ilk yardım, can kurtarma, kabin içi hizmet standartları) verilir. Bu eğitimi ve sınavlarını başarıyla tamamlayanlar uçuşa başlayabilir. Meslekte çalışanlar, periyodik olarak yenileme (recurrent) eğitimlerine katılmak zorundadır.",
+  "belge": "Önlisans diploması; ayrıca havayolu şirketinin veya SHGM onaylı eğitim kuruluşunun verdiği Kabin Memuru Eğitim Sertifikası ile çalışılan uçak tipine ilişkin yetkilendirme belgesi."
+ },
+ "calisma_alanlari": "\"Sivil Havacılık Kabin Hizmetleri Meslek Elemanları, başta tarifeli ve charter seferler düzenleyen yurt içi ve yurt dışı havayolu şirketleri olmak üzere, özel jet işletmelerinde de istihdam edilmektedir. Havacılık sektörünün büyümesine bağlı olarak meslek elemanlarına duyulan ihtiyaç sürmekle birlikte, işe alım süreçleri yoğun başvuru nedeniyle rekabetçi olabilmektedir.\"",
+ "kazanc": {
+  "egitim_suresince": "Üniversitelerdeki önlisans eğitimi süresince genellikle bir kazanç söz konusu değildir. Havayolu şirketi bünyesinde verilen temel kabin memuru eğitimi sürecinde ise şirketten şirkete değişmekle birlikte bazı işletmeler eğitim süresinde ücret ödeyebilmektedir.",
+  "egitim_sonrasi": [
+   "Kamuya bağlı havayolu şirketlerinde çalışanların ücreti ilgili toplu iş sözleşmesi hükümlerine göre belirlenir.",
+   "Özel sektörde ücret; çalışılan şirkete, uçulan hatlara (iç/dış hat), uçuş saatine ve deneyime göre değişmekte olup maaşa ek olarak uçuş primi ödenmektedir.",
+   "Mesleğe yeni başlayanların kazancı genellikle asgari ücret düzeyinde olup, kıdem ve prim ile birlikte artış göstermektedir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Meslekte deneyim kazandıktan sonra havayolu şirketlerinin açtığı ek eğitim ve sertifika programlarına katılarak eğitmen kabin memurluğu veya kabin amirliğine yönelik yetkinlikler kazanılabilir.",
+  "is_hayatinda": "Kıdem ve performansa bağlı olarak kabin amiri (şef kabin memuru), eğitmen kabin memuru veya kabin hizmetleri birim yöneticiliği gibi pozisyonlara yükselme mümkündür."
+ },
+ "benzer_meslekler": [
+  "Host- Hostes (Kabin Memuru)",
+  "Kamarot",
+  "Baş Kamarot (Gemi)",
+  "Seyahat Servis Elemanı-Tren",
+  "Seyahat Servis Elemanı (Otobüs/ Tren)"
+ ],
+ "ek_bilgiler": "\"Sivil Havacılık Genel Müdürlüğü (SHGM) düzenlemeleri gereği kabin memurlarının periyodik sağlık muayenesinden geçmesi ve düzenli olarak yenileme (recurrent) eğitimlerine katılması gerekmektedir. Mesleğin uluslararası uçuşlarda da yürütülmesi nedeniyle geçerli pasaport ve seyahat belgelerine sahip olmak önemlidir.\"",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T17:21:42",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6288
+  }
+ }
+}

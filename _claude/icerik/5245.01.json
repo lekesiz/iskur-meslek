@@ -1,0 +1,80 @@
+{
+ "arac_gerec": [
+  "Akaryakıt pompası ve tabancası",
+  "Pompa kumanda/programlama paneli",
+  "Yazar kasa veya POS cihazı",
+  "Tankerden istasyon tankına boşaltma ekipmanları (kapak açma anahtarı, sayaç)",
+  "Tank seviye ölçüm çubuğu/cihazı",
+  "Motor yağı, antifriz, akü suyu, cam suyu gibi sarf malzemeleri",
+  "Yakıt katkı maddesi ve ölçüm kapları",
+  "Temizlik malzemeleri (bez, fırça, deterjan)",
+  "Koruyucu eldiven ve iş elbisesi",
+  "Yangın söndürme tüpü ve yangına karşı koruyucu ekipmanlar",
+  "Trafik yönlendirme ekipmanları (koni, işaret çubuğu)",
+  "El feneri"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve tedbirli,",
+  "Sorumluluk sahibi ve güvenilir,",
+  "Fiziksel olarak dayanıklı,",
+  "Uzun süre ayakta çalışabilen,",
+  "Hızlı ve pratik düşünebilen,",
+  "İnsan ilişkilerinde başarılı, güler yüzlü,",
+  "El ve beden becerisine sahip,",
+  "İş sağlığı ve güvenliği kurallarına duyarlı"
+ ],
+ "calisma_ortami": "\"Akaryakıt satış elemanları (pompacılar), genellikle açık havada, akaryakıt istasyonlarının satış sahasında çalışırlar. Çalışma süresi boyunca ayakta kalmaları, sıcak, soğuk, yağmur gibi hava koşullarına açık ortamda görev yapmaları gerekir. Yanıcı ve parlayıcı akaryakıt ürünleriyle sürekli temas, yakıt kokusu ve buharına maruz kalma söz konusudur; bu nedenle yangın ve kaza riskine karşı dikkatli olunması gerekir. İstasyonlar genellikle 24 saat hizmet verdiğinden vardiyalı sistemle, gece ve resmî tatillerde de çalışılabilir.\\n\\nÇalışma sırasında sürekli olarak müşterilerle, istasyon sorumlusu ve diğer çalışanlarla, tankeri getiren şoförlerle iletişim kurulur. İşin temposu, özellikle yoğun saatlerde ve araç trafiğinin arttığı dönemlerde yüksektir.\"",
+ "egitim": {
+  "verildigi_yerler": "Akaryakıt Satış Elemanı (Pompacı) olmak için örgün eğitimde ayrı bir okul veya program bulunmamaktadır. Meslek, genellikle işbaşında usta/deneyimli çalışan yanında uygulamalı olarak öğrenilir. Ayrıca Halk Eğitim Merkezleri ve İŞKUR tarafından açılan mesleki eğitim kurslarında da bu alanda kısa süreli kurslar düzenlenebilmektedir. Bazı akaryakıt dağıtım şirketleri, bayilerinde çalışacak personele kendi oryantasyon ve iş başı eğitim programlarını uygulamaktadır.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "18 yaşını doldurmuş (reşit) olmak",
+   "Sağlık durumunun bu işi yapmaya uygun olması",
+   "Bazı işletmelerde adli sicil kaydı istenmesi"
+  ],
+  "sure_ve_icerik": "Kurs ve iş başı eğitimlerin süresi kurumdan kuruma değişmekle birlikte genellikle kısa sürelidir (günler ile birkaç hafta arasında). Eğitimde; akaryakıt türlerinin tanınması, pompa ve dolum sistemlerinin kullanımı, tanker boşaltma işlemleri, iş sağlığı ve güvenliği, yangından korunma, müşteri ilişkileri, basit araç bakım kontrolleri (yağ, su, akü seviyesi) ve satış/tahsilat işlemleri konularında bilgi ve beceri kazandırılır.",
+  "belge": "Kurs veya işbaşı eğitimi sonunda katılım/başarı belgesi verilebilir. Akaryakıt istasyonlarındaki çalışma tehlikeli ve çok tehlikeli işler kapsamında değerlendirildiğinden, bu alanda çalışacak kişilerin Mesleki Yeterlilik Kurumu (MYK) tarafından yetkilendirilmiş kuruluşlardan alınan ulusal yeterlilik belgesine sahip olması gerekmektedir."
+ },
+ "calisma_alanlari": "\"Akaryakıt Satış Elemanları (Pompacılar), şehir içi ve şehirlerarası yollarda bulunan özel ya da bayilik sistemiyle çalışan akaryakıt istasyonlarında istihdam edilir. Çalışma alanları arasında büyük akaryakıt dağıtım şirketlerine bağlı istasyonlar, bağımsız bayiler, LPG dolum tesisleri bulunan kompleksler ve dinlenme tesisi bünyesindeki istasyonlar sayılabilir.\\n\\nÜlke genelinde çok sayıda akaryakıt istasyonu bulunması ve personel devir hızının nispeten yüksek olması nedeniyle bu meslekte iş bulma olanağı görece kolaydır. Ancak işin fiziksel yorgunluğu ve vardiyalı çalışma düzeni nedeniyle çalışan devir oranı da yüksektir.\"",
+ "kazanc": {
+  "egitim_suresince": "Meslek genellikle işbaşında öğrenildiğinden, eğitim aşamasında çalışan kişi fiilen çalışmaya başlamış sayılır ve bu dönemde genellikle asgari ücret düzeyinde bir kazanç elde edilir.",
+  "egitim_sonrasi": [
+   "Yeni başlayanlar genellikle asgari ücret düzeyinde bir ücret alır.",
+   "Çalışılan işletmenin büyüklüğü, vardiya/mesai durumu ve deneyime bağlı olarak ücret artabilir.",
+   "Kamu kurumlarına bağlı akaryakıt tesislerinde çalışan personelin ücreti ilgili toplu iş sözleşmesi hükümlerine göre belirlenir; özel sektörde ücret işveren ile çalışan arasında karşılıklı olarak belirlenir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Meslekte örgün bir ilerleme basamağı bulunmamaktadır. Çalışanlar, mesleki eğitim kurumlarının düzenlediği ileri düzey kurslara veya MYK yeterlilik belgesi güncelleme/yükseltme sınavlarına katılarak bilgi ve becerilerini geliştirebilirler.",
+  "is_hayatinda": "Deneyim kazanan pompacılar, istasyonda vardiya sorumlusu, istasyon sorumlusu/müdürü gibi daha üst görevlere yükselebilir. İlerleyen yıllarda birikim ve tecrübeyle kendi akaryakıt bayiliğini kurabilir veya istasyon işletmeciliğine geçebilirler."
+ },
+ "benzer_meslekler": [
+  "Lpg Satış Elemanı (Pompacı)",
+  "Akaryakıt İstasyon Sorumlusu",
+  "Akaryakıt ve Otogaz İkmal ve Dolum Elemanı"
+ ],
+ "ek_bilgiler": "\"Akaryakıt istasyonlarında çalışma, yanıcı ve parlayıcı maddelerle doğrudan temas gerektirdiğinden tehlikeli ve çok tehlikeli işler kapsamında değerlendirilmektedir; bu nedenle iş sağlığı ve güvenliği kurallarına titizlikle uyulması zorunludur. İstasyonların genellikle gün boyu veya 24 saat hizmet vermesi nedeniyle vardiyalı, gece ve hafta sonu/resmî tatil çalışması bu meslekte yaygındır.\"",
+ "gorevler": [
+  "Pompanın temizliğini yapar.",
+  "Tankerle gelen yakıtı istasyon tankına boşaltır.",
+  "Araçları istasyon içinde yönlendirir.",
+  "Müşteri isteğini belirler.",
+  "Pompayı programlar.",
+  "Araç deposuna akaryakıt doldurur.",
+  "Verilen akaryakıt miktarını pompa ekranından kontrol eder.",
+  "Aracın motor yağını seviyesine tamamlar.",
+  "Aracın akü, radyatör ve cam sularını seviyesine tamamlar.",
+  "Yakıta katkı maddesi ekler.",
+  "Satış bedelini tahsil eder.",
+  "İstasyon akaryakıt tanklarının kontrolünü yapar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T19:29:38",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5942
+  }
+ }
+}

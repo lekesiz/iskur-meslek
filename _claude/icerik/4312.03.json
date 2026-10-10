@@ -1,0 +1,77 @@
+{
+ "arac_gerec": [
+  "Bilgisayar ve ofis yazılımları",
+  "Anket formu/soru kağıdı",
+  "Hesap makinesi",
+  "Yazıcı ve tarayıcı",
+  "Telefon",
+  "Fotokopi makinesi",
+  "Dosyalama ve arşivleme malzemeleri",
+  "Veri tablolama ve raporlama programları",
+  "Posta/kargo takip belgeleri",
+  "Kayıt defterleri ve formlar"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve titiz çalışma alışkanlığına sahip,",
+  "Sayısal konularda ve matematikte başarılı,",
+  "İnsan ilişkilerinde başarılı ve ikna edici,",
+  "Düzenli ve sistemli çalışabilen,",
+  "Sabırlı ve sorumluluk sahibi,",
+  "Elde ettiği bilgilerin gizliliğine özen gösteren,",
+  "Ekip çalışmasına uygun,",
+  "Zamanı etkin kullanabilen"
+ ],
+ "calisma_ortami": "\"İstatistik Büro Elemanı çoğunlukla kapalı mekânlarda, büro ortamında bilgisayar başında çalışır; ancak bilgi toplama aşamasında saha çalışması da yapar, anket uygulamak amacıyla işyerlerine, kurumlara veya hanelere gidebilir. Büro ortamında işçi sağlığı ve iş güvenliği açısından ciddi bir risk bulunmazken, uzun süre masa başında ve bilgisayar karşısında oturmak göz, sırt ve boyun bölgesinde sağlık sorunlarına yol açabilir. Saha çalışmasında hava koşulları, yoğun yürüme ve farklı kişilerle sürekli iletişim söz konusu olabilir.\\n\\nÇalışma saatleri genellikle normal mesai saatleridir; ancak araştırma, anket veya veri derleme dönemlerinde iş yükü artabileceğinden fazla çalışma gerekebilir. Meslek elemanı; görevi sırasında anket yaptığı kişiler, kurum yetkilileri, çalıştığı kurumun yöneticileri ve organizatörleriyle sürekli iletişim ve işbirliği içindedir.\"",
+ "egitim": {
+  "verildigi_yerler": "İstatistik Büro Elemanı olmak için Türkiye'de meslek lisesi düzeyinde bu mesleğe özgü, ayrı bir alan/dal bulunmamaktadır. Meslek, genellikle en az ortaöğretim (lise ve dengi) mezuniyeti sonrasında, kurum içi işbaşı eğitimiyle veya İŞKUR ve Halk Eğitim Merkezleri tarafından açılan istatistik, veri analizi, büro yönetimi ve bilgisayar uygulamalarına yönelik mesleki eğitim kurslarıyla kazanılmaktadır. Ortaöğretimde işletme, muhasebe-finansman veya büro yönetimi alanlarında eğitim almak bu mesleğe geçişte avantaj sağlayabilir.",
+  "giris_kosullari": [
+   "En az ortaöğretim (lise ve dengi okul) mezunu olmak",
+   "Kurumların veya kursların belirlediği yaş ve sağlık koşullarını taşımak",
+   "Temel bilgisayar ve ofis programları kullanımına ilişkin bilgiye sahip olmak (tercih sebebi)"
+  ],
+  "sure_ve_icerik": "Mesleğe özgü, belirli bir süreyle tanımlanmış resmî bir eğitim programı bulunmamaktadır. Kurum içi eğitimler ve kurslar genellikle birkaç haftadan birkaç aya kadar sürebilmekte; veri toplama, anket uygulama teknikleri, verilerin tasnifi, tablolaştırılması, temel istatistik hesaplamaları ve ofis/istatistik yazılımlarının kullanımı konularında teorik ve uygulamalı eğitim verilmektedir. Çoğu meslek elemanı, işe başladıktan sonra kurum içinde usta-çırak ilişkisi içinde veya hizmet içi eğitimlerle mesleki bilgi ve becerisini geliştirmektedir.",
+  "belge": "Ortaöğretim diploması, katıldığı mesleki eğitim kurslarına ait katılım/başarı belgesi ve/veya kurum içi hizmet içi eğitim sertifikası alınabilmektedir. Mesleğin icrası için yasal olarak zorunlu bir meslekî yeterlilik belgesi bulunmamakla birlikte, Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "\"İstatistik Büro Elemanları; Türkiye İstatistik Kurumu (TÜİK) ve diğer kamu kurum ve kuruluşlarının istatistik, planlama ve araştırma birimlerinde, belediyelerde, bakanlıkların ilgili daire başkanlıklarında, üniversitelerin araştırma merkezlerinde, pazar araştırma ve anket şirketlerinde, bankalar ve sigorta şirketlerinin araştırma/raporlama birimlerinde, özel sektör işletmelerinin plânlama, pazarlama veya Ar-Ge departmanlarında çalışabilirler. Kamu kurumlarında memur statüsünde, özel sektörde ise işçi statüsünde istihdam edilmeleri mümkündür. İş bulma olanakları; kurumların veri toplama, araştırma ve raporlama ihtiyacına, sayım ve anket dönemlerine, kişinin bilgisayar ve istatistik bilgisine, deneyimine ve iletişim becerilerine göre değişmektedir.\"",
+ "kazanc": {
+  "egitim_suresince": "Mesleğe özgü, 3308 sayılı Mesleki Eğitim Kanunu kapsamında yürütülen bir çıraklık/stajyerlik eğitim programı bulunmadığından, eğitim süresince belirli bir ücretlendirme standardı yoktur. Kurum içi eğitim veya staj dönemlerinde, çalışılan kurumun uygulamasına göre asgari ücret düzeyinde veya daha düşük bir ödeme yapılabilmektedir.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında çalışanların ücreti 657 sayılı Devlet Memurları Kanunu'na göre belirlenen memur maaş ve ek ödemelerine tabidir.",
+   "Özel sektörde çalışanların kazancı, işin yapıldığı işyerinin büyüklüğü, sektörü, kişinin deneyimi ve işveren ile yapılan anlaşmaya göre değişmekte olup yeni başlayanlarda genellikle asgari ücret düzeyindedir.",
+   "Deneyim ve uzmanlık kazanıldıkça kazanç düzeyi artabilmektedir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "İstatistik Büro Elemanı olarak çalışanlar; istatistik, ekonometri, işletme, ekonomi, kamu yönetimi veya büro yönetimi gibi alanlarda açık öğretim, ön lisans veya lisans programlarına devam ederek mesleki bilgi ve becerilerini artırabilir, bu sayede daha üst düzey görevlere geçiş için gerekli donanımı kazanabilirler. Ayrıca çalıştıkları kurumların düzenlediği hizmet içi eğitimler, veri analizi ve istatistik yazılımlarına yönelik sertifika programları ile niteliklerini geliştirebilirler.",
+  "is_hayatinda": "Deneyim kazanan İstatistik Büro Elemanları; kurumlarında kıdem ve bilgi birikimlerine bağlı olarak araştırma-planlama uzman yardımcılığı, şeflik veya birim sorumluluğu gibi görevlere yükselebilir. Üniversite eğitimini tamamlayanlar, istatistikçi, araştırmacı veya uzman unvanlarıyla daha nitelikli pozisyonlarda görev alabilirler."
+ },
+ "benzer_meslekler": [
+  "Büro Memuru (Maliyet Hesabı)",
+  "Büro Memuru (Maliye)",
+  "Büro Memuru (Ücret Hesaplama)",
+  "Tahakkuk Memuru",
+  "Kooperatif Büro Elemanı"
+ ],
+ "ek_bilgiler": "\"Bu meslek için Türkiye'de ortaöğretim düzeyinde ayrı, resmî olarak tanımlanmış bir meslek dalı bulunmamaktadır; meslek elemanları genellikle ilgili lise ve ön lisans/lisans programlarından (istatistik, ekonomi, işletme, büro yönetimi vb.) mezun olup işbaşında eğitimle veya kurumsal kurslarla yetişmektedir. Kamu kurumlarınca yürütülen genel nüfus, hane halkı ve sektörel sayım/anket çalışmaları döneminde, geçici veya dönemsel istihdam olanakları da ortaya çıkabilmektedir.\"",
+ "gorevler": [
+  "Toplumun belirli kesimlerinde veya belirli bir faaliyet koluna yönelik işyerlerinin tümünden istatistiki bilgiler derlemek için bilgi toplayacağı kaynağa gider.",
+  "Yetkililere görevini ve bilgi toplama amacını anlatıp, anket veya soru kağıdındaki soruları muhatabına yönelterek aldığı cevapları ankete veya soru kağıdına yazar.",
+  "Aldığı bilgilerin tümünü forma doğru olarak işler.",
+  "Postayla cevap vermesi gereken kişilere ait soru kağıtlarının takibini yapıp, zamanında göndermeyenleri ziyaret ederek doldurulup gönderilmesi gerekliliğini hatırlatır.",
+  "Bilginin kapsamını ve tamamlığını kontrol edip, elde edilen verileri toplamak veya geliştirmek için düzenler.",
+  "Toplamları, yüzdeleri ve diğer detayları hesaplayıp, istenen biçimde verileri tablolaştırır.",
+  "Hesap makinelerini, yüzde tabloları vb. hesap yapan diğer makineleri kullanır.",
+  "Hazırladığı verileri kontrol için organizatörlere sunar.",
+  "Kaynak malzeme hakkında raporlar hazırlayabilir ve olaylara dayanan bilgileri dağıtabilir.",
+  "Toplanan istatistiki verilerin aktarılmasına yardımcı olabilir.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T16:14:01",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6246
+  }
+ }
+}

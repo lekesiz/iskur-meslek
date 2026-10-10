@@ -1,0 +1,78 @@
+{
+ "arac_gerec": [
+  "Şerit ve daire testere tezgahları (katrak, hızar makinesi)",
+  "Kaplamalık levha dilme/yarma makineleri",
+  "Kontrplak pres makineleri",
+  "Tutkal sürme ve karıştırma makineleri",
+  "Kaplama soyma/bantlama makineleri",
+  "Taşıma ve kaldırma ekipmanları (forklift, vinç, konveyör)",
+  "Ölçüm araçları (metre, gönye, kumpas)",
+  "Testere bileme ve kaynak makineleri",
+  "El takımları (çekiç, keser, tornavida, kerpeten)",
+  "Sıvı/katı yağlayıcılar ve bakım malzemeleri",
+  "Kişisel koruyucu donanım (eldiven, gözlük, kulaklık, maske, iş elbisesi)"
+ ],
+ "genel_ozellikler": [
+  "Bedensel güce ve dayanıklılığa sahip,",
+  "El ve göz koordinasyonu iyi,",
+  "Dikkatli ve tedbirli,",
+  "Makine ve aletleri tekniğine uygun kullanabilen,",
+  "Ekip çalışmasına uyumlu,",
+  "Talimat ve ölçülere uyma konusunda titiz,",
+  "Sabırlı ve düzenli"
+ ],
+ "calisma_ortami": "Diğer bıçkıcılar, kontrplak imalatçıları ve ilgili ağaç işlem işçileri; kereste depolarında, bıçkı fabrikalarında, kontrplak ve kaplama imalathanelerinde, orman ürünleri sanayi tesislerinde kapalı mekânlarda çalışır. Çalışma ortamı genellikle tozlu, gürültülü ve ahşap talaşı ile tutkal/kimyasal koku içerebilen bir ortamdır. İş çoğunlukla ayakta, bedensel güç gerektiren ve makine başında yürütülür; vardiyalı çalışma düzeni görülebilir.\n\nÇalışma sırasında kesici alet ve makinelerden kaynaklanan yaralanma, ağır malzemelerin kaldırılmasından doğan kazalar, göze talaş kaçması ve tutkal/kimyasal maddelere bağlı sağlık riskleri söz konusu olabilir. Meslek elemanı; usta başı, diğer makine operatörleri, yardımcı işçiler ve iş güvenliği sorumlularıyla sürekli iş birliği içinde çalışır.",
+ "egitim": {
+  "verildigi_yerler": "Bu meslek adı altında örgün bir mesleki eğitim merkezi programı bulunmamaktadır. Meslek genellikle işbaşında usta yanında öğrenilir; ayrıca Halk Eğitim Merkezleri ile İŞKUR tarafından açılan mesleki eğitim kurslarında temel bilgi ve beceriler kazandırılabilir. Orman ürünleri/ahşap teknolojisi alanındaki mesleki ve teknik eğitim kurumları da ilgili temel bilgileri verebilir.",
+  "giris_kosullari": [
+   "Belirli bir okul eğitimi şartı bulunmamakla birlikte en az ilkokul mezunu olmak genel olarak yeterli görülmektedir",
+   "Bedensel olarak işin gerektirdiği güç ve dayanıklılığa sahip olmak",
+   "Kurslara katılım için genel sağlık durumunun işin gerektirdiği koşullara uygun olması"
+  ],
+  "sure_ve_icerik": "Mesleğe özgü standart bir eğitim süresi ve müfredatı bulunmamaktadır. Bilgi ve beceriler genellikle işyerinde çalışarak, deneyimli ustaların gözetiminde zaman içinde kazanılır. Açılan kurslarda ağaç malzeme tanıma, makine kullanımı, ölçü alma, iş güvenliği gibi temel konular öğretilir.",
+  "belge": "Örgün bir diploma/çıraklık belgesi bulunmamaktadır; katıldığı kurslardan katılım/başarı belgesi alabilir. Tehlikeli ve çok tehlikeli işler kapsamına giren görevlerde Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Bu meslek elemanları başta bıçkı fabrikaları ve kereste işleme tesisleri, kontrplak ve kaplama imalathaneleri, yonga/elyaf levha üretim tesisleri olmak üzere orman ürünleri sanayiinin çeşitli kollarında istihdam edilir. İş bulma olanakları, inşaat, mobilya ve ambalaj sektörlerindeki ahşap malzeme talebine ve orman ürünleri sanayiinin gelişimine bağlı olarak değişkenlik gösterir.",
+ "kazanc": {
+  "egitim_suresince": "Bu meslek için örgün bir çıraklık eğitimi bulunmadığından, işe yeni başlayanlar genellikle işbaşında eğitim alırken asgari ücret düzeyinde bir kazanç elde eder. Kurs döneminde ise genellikle ücret söz konusu değildir.",
+  "egitim_sonrasi": [
+   "Kazanç; çalışılan işletmenin büyüklüğüne, bölgeye, kişinin deneyim ve ustalık düzeyine göre değişmektedir.",
+   "Yeni başlayanlar genellikle asgari ücret düzeyinde kazanç elde eder.",
+   "Deneyim ve vasıf kazandıkça ücret artabilir; işçi statüsünde çalışanlar ilgili toplu iş sözleşmesi hükümlerine tabi olabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Bu meslek için standart bir örgün mesleki eğitim ilerleme basamağı bulunmamaktadır. İsteyen kişiler, orman ürünleri/ahşap teknolojisi alanındaki mesleki ve teknik eğitim programlarına veya ilgili yükseköğretim (ön lisans/lisans) programlarına yönelerek bilgi ve becerilerini belgelendirebilir.",
+  "is_hayatinda": "İş hayatında deneyim ve bilgi birikimi arttıkça usta başı, vardiya sorumlusu veya atölye/tesis şefliği gibi görevlere yükselinebilir. Yeterli sermaye ve deneyime sahip olanlar kendi küçük ölçekli işletmelerini açabilir."
+ },
+ "benzer_meslekler": [
+  "Baş Bıçkıcı (Bıçkı Fabrikası)",
+  "Bıçkı Makinesi Operatörü (Bıçkıcı)",
+  "Katrakt Makinesi Operatörü (Ağaç)",
+  "Şerit Testere Tezgahı Operatörü-Bıçkı Fabrikası",
+  "Kontrplak Pres Operatörü-Ağaç",
+  "Kontrplak Tutkal Makinesi Operatörü"
+ ],
+ "ek_bilgiler": "Bu meslek, \"başka yerde sınıflandırılmamış diğer bıçkıcılar, kontrplak imalatçıları ve ilgili ağaç işlem işçileri\" kapsamında geniş bir yelpazedeki bıçkı ve kontrplak imalatı işlerini kapsayan bir çerçeve meslek tanımıdır. Çalışılan makine ve işleme göre görev içeriği işletmeden işletmeye farklılık gösterebilir. Yapılan işlerin kesici makine ve ağır malzeme kullanımı içermesi nedeniyle tehlikeli/çok tehlikeli işler kapsamında değerlendirilebilecek görevlerde Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir.",
+ "gorevler": [
+  "İşletmenin çalışma prensipleri doğrultusunda kullanılacak ahşap malzemeyi (tomruk, kereste, kaplama levhası) belirler",
+  "Bıçkı, katrak ve ilgili kesme makinelerinin ayarlarını yapar ve çalıştırır",
+  "Tomruk ve kerestelik odunları istenilen ölçülerde keser, diler ve yarar",
+  "Kaplamalık levhaları diler, ebatlar ve kontrol eder",
+  "Kontrplak imalatında kaplama levhalarına tutkal uygulayarak preslemeye hazırlar",
+  "Pres makinelerinde kaplama ve kontrplak levhalarını presler",
+  "Üretilen kalas, tahta ve levhaların ölçü ve kalite kontrolünü yapar",
+  "Üretilen malzemeleri uygun şekilde istifler ve depolar",
+  "Kullandığı makine ve tezgahların günlük bakım ve temizliğini yapar",
+  "İşçi sağlığı, iş güvenliği ve çevre koruma düzenlemelerine uygun çalışır",
+  "Mesleki gelişim faaliyetlerinde bulunur"
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T16:24:30",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6245
+  }
+ }
+}

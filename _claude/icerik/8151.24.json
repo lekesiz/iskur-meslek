@@ -1,0 +1,80 @@
+{
+ "arac_gerec": [
+  "Tarak makinesi",
+  "Vatka besleme sehpası / besleme haznesi (dolabı)",
+  "Kalender silindirleri",
+  "Koy ve fener aparatları",
+  "Koy kovaları",
+  "Vatka, tülbent ve şerit (elyaf yarı mamulü)",
+  "Elyaf",
+  "Temizlik ekipmanları (fırça, bez, süpürge, basınçlı hava tabancası)",
+  "Basit bakım-onarım el aletleri (anahtar takımı, tornavida vb.)",
+  "Kişisel koruyucu donanım (kulaklık, toz maskesi, eldiven, iş elbisesi)"
+ ],
+ "genel_ozellikler": [
+  "El ve göz koordinasyonuna sahip,",
+  "Dikkatli ve tedbirli,",
+  "Fiziksel olarak dayanıklı ve ayakta çalışabilen,",
+  "Makine ve teknik aletlerle ilgili,",
+  "Sorumluluk sahibi,",
+  "Vardiyalı çalışma düzenine uyum sağlayabilen,",
+  "Takım halinde çalışmaya istekli,",
+  "Tozlu ve gürültülü ortamda çalışabilecek sağlık durumuna sahip"
+ ],
+ "calisma_ortami": "\"Tarak makinesi operatörleri, iplik ve tekstil fabrikalarının harman-hallaç ve tarak dairelerinde, kapalı mekanlarda çalışırlar. Çalışma ortamı genellikle gürültülü olup, elyaf tozu nedeniyle havalandırmanın yeterli olmadığı işyerlerinde hava lif tozuyla yüklü olabilir; sıcaklık ve nem oranı üretim sürecine bağlı olarak değişebilir. Çalışma süresi boyunca ayakta ve hareketli olarak görev yapılır, işyerinin üretim temposuna göre vardiyalı çalışma (gece dahil) söz konusu olabilir.\\n\\nTarak makinesi operatörü, çalışması sırasında büyük ölçüde makine ve malzeme ile ilgilenir; arıza bildirimi, makine ayarı ve onarımlarda ustabaşı, bakım personeli ve diğer makine operatörleriyle iletişim kurar.\"",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin kendine özgü, resmî bir örgün eğitim programı bulunmamaktadır. Meslek genellikle işyerlerinde usta/ustabaşı gözetiminde işbaşı eğitimi yoluyla öğrenilir. Ayrıca Halk Eğitim Merkezleri ile İŞKUR tarafından açılan tekstil/iplik üretimi alanındaki mesleki eğitim kurslarında da temel bilgi ve beceriler kazandırılabilir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "18 yaşını doldurmuş olmak (küçükler için veli izni gerekir)",
+   "Ayakta ve hareketli çalışmaya, gürültülü ve tozlu ortama uygun sağlık durumuna sahip olmak",
+   "İşitme ve el-kol fonksiyonlarında engel bulunmamak"
+  ],
+  "sure_ve_icerik": "Eğitim süresi ve içeriği, işbaşı eğitim veya kursun uygulandığı kuruma göre değişiklik gösterir. İşbaşı eğitimde operatör; makine bölümlerini tanıma, vatka/tülbent/şerit akışının kontrolü, besleme işlemleri, basit arıza tespiti, temizlik ve bakım konularında bilgi ve beceri kazanır. Kurs programlarında ise elyaf özellikleri, iplik hazırlama süreçleri, makine kullanımı, iş sağlığı ve güvenliği gibi konular işlenir.",
+  "belge": "İşyerinde işbaşı eğitimle yetişenlere genellikle resmî bir belge verilmez; kurslara katılanlara ise kursu düzenleyen kurum tarafından \"Kurs Bitirme Belgesi\" verilebilir. Mesleki Yeterlilik Kurumu (MYK) Mesleki Yeterlilik Belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "\"Tarak makinesi operatörleri; pamuk, sentetik ve diğer elyaf türlerinden iplik üreten tekstil fabrikalarının harman-hallaç ve tarak dairelerinde istihdam edilir. Kamu kurumlarında bu meslekte iş bulma olanağı bulunmamaktadır. Özel sektörde, tekstil ve iplik sanayinin yoğun olduğu illerde (örneğin Denizli, Bursa, Kahramanmaraş, Gaziantep, Adana, İstanbul ve çevresi) iş bulma olanağı daha fazladır. Sektördeki otomasyon artışı, bu meslekte istihdam edilen kişi sayısını zaman içinde etkileyebilmektedir.\"",
+ "kazanc": {
+  "egitim_suresince": "Mesleğin işbaşında öğrenilmesi durumunda çoğunlukla asgari ücret veya işyerinin belirlediği bir ücretle çalışılır. Kurs yoluyla eğitim alınması durumunda ise genellikle bir kazanç söz konusu değildir.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanların kazancı genellikle asgari ücret düzeyindedir.",
+   "Deneyim, bilgi ve beceri düzeyi arttıkça, işyerinin büyüklüğüne ve çalışma koşullarına göre ücret artabilir.",
+   "Sendikalı işyerlerinde çalışanların ücreti, ilgili toplu iş sözleşmesi hükümlerine göre belirlenir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "İşletme bünyesinde düzenlenen hizmet içi eğitimlerle operatör, cer makinesi, harman-hallaç makinesi, open-end makinesi gibi iplik hazırlama hattındaki diğer makinelerde de çalışabilecek bilgi ve beceriyi kazanabilir. Mesleki Yeterlilik Kurumu (MYK) belgesi edinmek, mesleki gelişime katkı sağlayabilir.",
+  "is_hayatinda": "Deneyim kazanan operatör, zaman içinde vardiya amiri, ustabaşı veya atölye şefi olabilir. İlgili teknik eğitim alarak tekstil teknikeri/mühendisi gözetiminde daha üst düzey teknik görevlere yönelebilir."
+ },
+ "benzer_meslekler": [
+  "Cer Makinesi Operatörü-Tekstil",
+  "Harman-Hallaç Makinesi Operatörü",
+  "Elyaf Açma Makineleri Operatörü",
+  "Fitil (Flayer) Makineci",
+  "Open End Makinesi Operatörü",
+  "İplik Eğirme Operatörü (Ring/vater/vargel)"
+ ],
+ "ek_bilgiler": "\"Tekstil sektöründe üretim makinelerinin otomasyon düzeyinin artması, bu meslekte istihdam edilen kişi sayısını ve iş yapma biçimini zaman içinde etkileyebilmektedir. Çalışma ortamındaki gürültü ve toz nedeniyle periyodik sağlık kontrolleri ve kişisel koruyucu donanım kullanımı önem taşır.\"",
+ "gorevler": [
+  "Çalışma alanının temizlik ve düzenini sağlar,",
+  "Arızaları ilgililere bildirir,",
+  "Makinenin temizliğini yapar,",
+  "Manuel sistemde vatkayı makineye taşır ve besleme sehpasına besler,",
+  "Otomatik sistemde vatka besleme haznesini/dolabını kontrol eder,",
+  "Vatka akışını ve tülbent akışını kontrol eder,",
+  "Tülbendi kalender silindirlerine aktarır,",
+  "Şeridi koylere/fenere aktarır,",
+  "Şerit kopmalarına, elyaf sıkışmalarına ve makine ikazlarına müdahale eder,",
+  "Koylere kova besler,",
+  "Makine onarımlarına yardımcı olur,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T13:28:27",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5216
+  }
+ }
+}

@@ -1,0 +1,89 @@
+{
+ "arac_gerec": [
+  "Steteskop",
+  "Tansiyon aleti",
+  "Oksijen satürasyon ölçer (pulse oksimetre)",
+  "Monitör (kalp atımı, solunum, tansiyon takip cihazı)",
+  "Resüsitasyon (canlandırma) seti ve defibrilatör",
+  "Entübasyon seti ve solunum yolu açma ekipmanları",
+  "Serum ve damar yolu açma malzemeleri",
+  "Çocuk boyuna uygun ilaç ve ekipman seçim şeritleri (ör. resüsitasyon cetveli)",
+  "Otoskop ve oftalmoskop",
+  "Refleks çekici, dil baskısı, el feneri",
+  "Yara bakımı ve dikiş seti",
+  "Alçı ve atel malzemeleri",
+  "Laboratuvar tetkik istem ve görüntüleme (röntgen, ultrason, tomografi) sistemleri",
+  "Bilgisayar ve hasta kayıt/bilgi sistemleri"
+ ],
+ "genel_ozellikler": [
+  "Hızlı ve doğru karar verebilen,",
+  "Soğukkanlı, stres altında sakin davranabilen,",
+  "Çocuklarla ve ailelerle iyi iletişim kurabilen, sabırlı,",
+  "Dikkatli, gözlem gücü yüksek,",
+  "Sorumluluk sahibi, hızlı refleks gösterebilen,",
+  "Ekip içinde çalışmaya uygun, otorite kurabilen,",
+  "Fiziksel ve zihinsel olarak dayanıklı,",
+  "Meslek yaşamı boyunca kendini yenileyebilen, bilimsel gelişmeleri takip eden"
+ ],
+ "calisma_ortami": "\"Çocuk Acil Uzmanı, hastanelerin çocuk acil servislerinde görev yapar. Çalışma ortamı kapalı mekan olup genellikle hijyen kurallarının sıkı uygulandığı, yoğun ve zaman zaman kalabalık bir alandır. Acil servisin doğası nedeniyle çalışma temposu yüksektir; aniden ağırlaşan vakalar, bulaşıcı hastalıklar ve bazen şiddet içeren davranışlar gibi riskler söz konusu olabilir.\\n\\nÇalışma saatleri düzensizdir; vardiyalı çalışma, gece nöbetleri, hafta sonu ve resmî tatil mesaileri mesleğin ayrılmaz bir parçasıdır. Hasta çocuklar, aileleri, hemşireler, sağlık teknisyenleri, diğer uzman hekimler ve hastane yönetimiyle sürekli iletişim ve iş birliği içinde çalışılır. Acil ve kritik durumlarda hızlı müdahale gerektiğinden görev, yüksek düzeyde dikkat ve psikolojik dayanıklılık ister.\"",
+ "gorevler": [
+  "Çocuk hastanın şikayeti ve tıbbi öyküsü hakkında hastadan veya hasta yakınından ayrıntılı bilgi alır ve kaydeder.",
+  "Hastanın ayrıntılı fiziki muayenesini yapar.",
+  "Teşhise yönelik olarak tomografi, manyetik rezonans, ultrason, röntgen, kan, idrar vb. tetkikleri ister.",
+  "Muayene bulguları ve tetkik sonuçlarına göre tanı koyar ve tedavi yöntemlerini belirler.",
+  "Acil servise başvuran tüm akut hasta ve yaralıların stabilizasyon ve resüsitasyonlarını (yeniden canlandırma) değerlendirir ve bakımlarını sağlar.",
+  "Hastanın değerlendirilmesi, hastalığın teşhis edilmesi, tedaviye başlanması, yatırılması, taburcu veya sevk edilmesi ile ilgili işlemleri yapar.",
+  "Gerektiğinde hastanın, hastane içinde veya dışında sürekli bakım olanaklarından (polikliniklerden) yararlanması için bilgilendirilmesini sağlar ve yönlendirir.",
+  "Akut bir hastalık veya yaralanma geçiren hastaların hastaneye gelmeden önceki bakımlarını uygun şekilde gerçekleştirir.",
+  "Acil servisten çıkan hastaların izlenmelerini sağlar.",
+  "Kritik bakım ve toksikoloji gibi alanlarda danışmanlık hizmeti verir.",
+  "Gerektiğinde ilgili hekimlerle konsültasyonda bulunur.",
+  "Hastalık, yaralanma ve zehirlenmelerin önlenmesi için hastalar ve halkın eğitilmelerine yardımcı olur.",
+  "Acil veya felaket durumlarında, toplumsal felaket hazırlıkları ve acil tıp hizmetleri sisteminin (EMS) yönetimine katılır.",
+  "Acil serviste görev yapan yardımcı sağlık personelinin eğitim ve denetiminden sorumlu olur.",
+  "Mesleği ile ilgili bilimsel gelişmeleri takip eder, kongre, sempozyum vb. aktivitelere katılır.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Çocuk Acil Uzmanı olabilmek için öncelikle üniversitelerin tıp fakültelerinde lisans eğitimi tamamlanmalıdır. Ardından, Tıpta Uzmanlık Sınavı (TUS) ile Çocuk Sağlığı ve Hastalıkları uzmanlık eğitimi programlarına yerleşilir. Çocuk acil tıp alanında uzmanlaşmak isteyenler, çocuk sağlığı ve hastalıkları uzmanlığını tamamladıktan sonra, ilgili sınav ve başvuru süreçleriyle çocuk acil (yandal/üst ihtisas) eğitim programlarında eğitim alırlar.",
+  "giris_kosullari": [
+   "Lise veya dengi okul mezunu olmak",
+   "YKS (Yükseköğretim Kurumları Sınavı) kılavuzunda belirtilen giriş koşullarını taşıyarak tıp fakültesine yerleşmek",
+   "Tıp fakültesi lisans eğitimini tamamlamak",
+   "Tıpta Uzmanlık Sınavı (TUS) ile Çocuk Sağlığı ve Hastalıkları uzmanlık eğitimine girmeye hak kazanmak",
+   "Çocuk Sağlığı ve Hastalıkları uzmanlığını tamamladıktan sonra ilgili yandal/üst ihtisas eğitim programına kabul edilmek"
+  ],
+  "sure_ve_icerik": "Tıp fakültelerinde eğitim teorik ve uygulamalı olarak 6 yıl sürer. İlk yıllarda fen bilimleri ve temel tıp bilimleri dersleri, sonraki yıllarda insan vücudunun anatomisi, fizyolojisi, hastalıklardan korunma ve tedavi dersleri okutulur. Son sınıfta öğrenciler eğitim hastanelerinde hasta başı uygulamalı eğitim (internlik) görürler.\n\nTıp fakültesi sonrasında Çocuk Sağlığı ve Hastalıkları alanında uzmanlık eğitimi birkaç yıl sürer; bu süreçte çocuk hastalıklarının tanı ve tedavisi, aşılama, büyüme-gelişme takibi gibi konularda uygulamalı eğitim alınır. Çocuk acil tıp alanındaki ileri uzmanlık (yandal) eğitiminde ise, çocuklarda acil durumların tanınması, resüsitasyon, travma yönetimi, zehirlenmeler, yoğun bakım gerektiren durumların ilk değerlendirmesi gibi konularda hastane acil servislerinde yoğun uygulamalı eğitim verilir.",
+  "belge": "Tıp fakültesi eğitimini başarı ile tamamlayanlara lisans diploması (tıp doktorluğu diploması) verilir. Çocuk Sağlığı ve Hastalıkları uzmanlık eğitimini tamamlayanlara uzmanlık belgesi, çocuk acil alanındaki yandal eğitimini tamamlayanlara ise bu alandaki uzmanlık (yandal uzmanlığı) belgesi verilir."
+ },
+ "calisma_alanlari": "\"Çocuk Acil Uzmanları, başta büyük şehirlerdeki eğitim ve araştırma hastaneleri, üniversite hastaneleri ve çocuk hastaneleri olmak üzere, çocuk acil servisi bulunan kamu ve özel hastanelerde görev alabilirler. Ayrıca bazı özel sağlık kuruluşlarının çocuk acil üniteleri de istihdam alanı oluşturur.\\n\\nBu alan ülkemizde görece yeni ve sınırlı sayıda uzmanın bulunduğu bir yandal uzmanlık alanıdır; bu nedenle nitelikli uzmanlara olan ihtiyaç sürmektedir. Çocuk nüfusunun büyüklüğü ve acil sağlık hizmetlerine erişim ihtiyacı göz önüne alındığında, bu alandaki istihdam olanaklarının gelecekte de devam etmesi beklenmektedir.\"",
+ "kazanc": {
+  "egitim_suresince": "Tıp fakültesi öğrencileri, Kredi ve Yurtlar Genel Müdürlüğü'nün sağladığı öğrenim kredisi ve yurt hizmetlerinden, ayrıca bazı resmî ve özel kurum/kuruluşların burslarından yararlanabilirler. Uzmanlık ve yandal eğitimi sürecinde (asistanlık döneminde) ilgili mevzuat çerçevesinde maaş ve ödemeler alınır.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında görev yapan Çocuk Acil Uzmanlarının ücretleri 657 sayılı Devlet Memurları Kanunu ve ilgili mevzuat çerçevesinde belirlenir; döner sermaye ek ödemesi gibi unsurlar da gelire eklenir.",
+   "Özel sektörde çalışan uzmanların kazançları; çalıştıkları kurumun büyüklüğü, deneyim, bulunduğu bölge ve yapılan sözleşme koşullarına göre değişiklik gösterir.",
+   "Serbest çalışan veya özel sağlık kuruluşlarında kısmi zamanlı görev alan uzmanların kazancı, hizmet verdikleri hasta sayısına ve kurumla yapılan anlaşmaya göre farklılaşabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Tıp fakültesini başarıyla tamamlayanlar, Tıpta Uzmanlık Sınavı (TUS) ile Çocuk Sağlığı ve Hastalıkları uzmanlık eğitimine başlayabilir. Bu uzmanlık eğitimini tamamlayanlar, ilgili başvuru ve sınav süreçleriyle çocuk acil tıp yandal (üst ihtisas) eğitimine devam ederek bu alanda uzmanlaşabilirler.",
+  "is_hayatinda": "Çocuk Acil Uzmanları, deneyim kazandıkça hastanelerin çocuk acil servislerinde sorumlu hekimlik, birim koordinatörlüğü veya idari yönetici (klinik şefi, başasistan vb.) gibi görevlere yükselebilirler. Akademik kariyer yapmak isteyenler üniversite hastanelerinde akademik unvanlar (yardımcı doçent, doçent, profesör) alabilir, eğitim ve araştırma faaliyetlerinde görev üstlenebilirler. Ayrıca bilimsel çalışmalar, kongre ve sempozyumlara katılım yoluyla mesleki ilerleme sağlanabilir."
+ },
+ "benzer_meslekler": [
+  "Acil Tıp Uzmanı",
+  "Çocuk Sağlığı ve Hastalıkları Uzmanı",
+  "Yoğun Bakım Uzmanı",
+  "Yeni Doğan Yoğun Bakım Uzmanı (Neonatoloji)",
+  "Çocuk Enfeksiyon Uzmanı",
+  "Çocuk Cerrahisi Uzmanı"
+ ],
+ "ek_bilgiler": "\"Çocuk Acil Uzmanlığı, Çocuk Sağlığı ve Hastalıkları uzmanlığı sonrasında alınan bir yandal (üst ihtisas) uzmanlık alanıdır ve ülkemizde bu alanda eğitim veren kurum sayısı sınırlıdır. Meslek, yüksek stresli ve kritik kararların hızla alınması gereken bir çalışma temposu içerdiğinden, adayların bu koşullara uygun fiziksel ve psikolojik dayanıklılığa sahip olması önemlidir.\"",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-07T22:51:28",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5517
+  }
+ }
+}

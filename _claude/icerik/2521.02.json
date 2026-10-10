@@ -1,0 +1,72 @@
+{
+ "arac_gerec": [
+  "Bilgisayar ve sunucu sistemleri",
+  "Veri tabanı yönetim sistemi yazılımları (Oracle, SQL Server, MySQL, PostgreSQL vb.)",
+  "SQL ve benzeri sorgulama dilleri",
+  "Veri modelleme ve tasarım araçları",
+  "Performans izleme ve analiz yazılımları",
+  "Yedekleme ve veri kurtarma yazılımları",
+  "Ağ ve sunucu izleme araçları",
+  "Raporlama ve veri görselleştirme yazılımları",
+  "İşletim sistemleri",
+  "Güvenlik duvarı ve veri güvenliği yazılımları",
+  "Dokümantasyon ve proje yönetim araçları"
+ ],
+ "genel_ozellikler": [
+  "Sayısal yetenek sahibi,",
+  "Analitik düşünebilen,",
+  "Dikkatli ve ayrıntılara önem veren,",
+  "Problem çözme yeteneği gelişmiş,",
+  "Sorumluluk sahibi ve güvenilir,",
+  "Ekip çalışmasına uygun,",
+  "Yeni teknolojileri öğrenmeye istekli,",
+  "İletişim yeteneği iyi,"
+ ],
+ "calisma_ortami": "Veri Tabanı Analistleri genellikle bilgi işlem veya BİT departmanlarına bağlı büro ortamında bilgisayar başında çalışır. Gerektiğinde sunucu veya sistem odalarına girerek donanım ve yazılım kurulumlarıyla ilgilenebilirler. Çalışma genellikle kapalı ortamda, oturarak ve ekran başında geçer; ancak sistem bakımı, güncelleme veya acil müdahale gerektiren durumlarda mesai saatleri dışında da çalışılabilir.\n\nGörevlerini yerine getirirken yazılım geliştiricileri, sistem yöneticileri, ağ uzmanları ve kurum içindeki diğer birim yöneticileriyle sürekli iletişim halindedir. İşin niteliği itibariyle fiziksel risk düşük olmakla birlikte, uzun süre ekran karşısında çalışmaya bağlı göz ve duruş yorgunluğu görülebilir.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi, üniversitelerin Bilgisayar Mühendisliği, Yazılım Mühendisliği, Bilgisayar Bilimleri, Yönetim Bilişim Sistemleri ve ilgili diğer mühendislik/bilişim lisans programlarında verilir. Ayrıca veri tabanı yönetim sistemleri konusunda yazılım firmaları ve eğitim kurumları tarafından açılan sertifika programları da mesleki bilgi ve beceri kazandırmaktadır.",
+  "giris_kosullari": [
+   "Lisans programlarına girmek için YKS sınavında ilgili puan türünden yeterli puan almak gerekir.",
+   "Bilgisayar Mühendisliği, Yazılım Mühendisliği, Bilgisayar Bilimleri, Yönetim Bilişim Sistemleri, İstatistik veya Matematik gibi bölümler tercih edilebilir.",
+   "Analitik ve sayısal düşünme becerisine sahip olmak eğitim sürecinde avantaj sağlar."
+  ],
+  "sure_ve_icerik": "İlgili lisans programları genellikle 4 yıl sürer. Eğitim süresince programlama, veri tabanı yönetim sistemleri, SQL ve veri sorgulama, veri modelleme ve tasarımı, ağ ve sistem yönetimi, yazılım geliştirme ile veri güvenliği gibi konular işlenir. Mezuniyet sonrasında kullanılan veri tabanı yönetim sistemlerine (Oracle, Microsoft SQL Server, MySQL vb.) yönelik sertifika programlarıyla bilgi ve beceriler güncellenir ve geliştirilir.",
+  "belge": "Eğitimi tamamlayanlara ilgili bölümden lisans diploması verilir. Ayrıca yazılım firmalarının düzenlediği veri tabanı sertifikaları ve Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Veri Tabanı Analistleri; kamu kurumları, bankalar ve finans kuruluşları, bilişim ve yazılım şirketleri, e-ticaret, telekomünikasyon, sağlık, perakende, lojistik ve dış ticaret gibi veri yoğun çalışan hemen her sektörün bilgi işlem/bilgi teknolojileri birimlerinde istihdam edilebilir. Ayrıca danışmanlık şirketleri bünyesinde veya bağımsız danışman olarak da çalışabilirler.",
+ "kazanc": {
+  "egitim_suresince": "Lisans eğitimi süresince Kredi ve Yurtlar Genel Müdürlüğünün sağladığı öğrenim kredisi ve yurt hizmetlerinden yararlanılabilir; ayrıca bazı üniversite ve kuruluşların burs olanaklarından faydalanılabilir.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında 657 sayılı Devlet Memurları Kanunu'na tabi olarak çalışanlar, bulundukları kadro ve dereceye göre maaş alırlar.",
+   "Özel sektörde kazanç; işyerinin büyüklüğü, çalışanın deneyimi, bilgi birikimi ve sektörün ücret düzeyine göre değişmekle birlikte, mesleğe yeni başlayanlarda genellikle asgari ücret düzeyinde başlar ve deneyim arttıkça yükselebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "İlgili alanlarda yüksek lisans ve doktora yaparak akademik kariyer yapılabilir; veri tabanı yönetimi, veri mühendisliği, büyük veri analitiği gibi alanlarda uzmanlaşma sağlanabilir.",
+  "is_hayatinda": "Deneyim ve bilgi birikimi arttıkça Veri Tabanı Yöneticisi, Veri Tabanı Mimarı veya bilgi teknolojileri birim yöneticisi gibi pozisyonlara, proje ya da ekip liderliğine yükselinebilir."
+ },
+ "benzer_meslekler": [
+  "Veri Tabanı Yöneticisi",
+  "Ağ Veri Tabanı Yöneticisi",
+  "Veri Tabanı Mimarı",
+  "ETL Uzmanı/Danışmanı",
+  "İş Zekası Uzmanı",
+  "Veri ve Bilgi Mühendisi"
+ ],
+ "ek_bilgiler": "Kurumların ve işletmelerin veri odaklı çalışma biçimine geçişiyle birlikte veri tabanlarının etkin yönetimi ve performans analizi önem kazanmakta, bu alanda uzmanlaşmış kişilere olan ihtiyaç artmaktadır.",
+ "gorevler": [
+  "İşletme bünyesinde kullanılan yazılımlardaki veri analizlerini yapar ve kontrol eder.",
+  "Yaptığı veri analiz sonuçlarını üst yönetime sunar.",
+  "Kullanılan yazılım ve donanımlara destek vererek yeni işletim sistemlerinin, yazılımların ve donanımların yüklenmesini sağlar.",
+  "Uygulama geliştirme süreçlerinde veri tabanının uygulamayla uyumlu çalışmasını sağlar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T06:04:54",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5175
+  }
+ }
+}

@@ -1,0 +1,78 @@
+{
+ "arac_gerec": [
+  "El potası ve kepçe",
+  "Ergitme fırını/ocak (kupol veya indüksiyon ocağı ağzı)",
+  "Döküm kalıpları (kum kalıp, maça)",
+  "Isıya dayanıklı maşa ve kanca",
+  "Kalıp çıkarma ve kaldırma aparatları",
+  "Isıya dayanıklı iş elbisesi ve önlük",
+  "Yüz siperliği ve koruyucu gözlük",
+  "Isıya dayanıklı eldiven ve tozluk",
+  "Baret/kask ve çelik burunlu ayakkabı",
+  "Kaba temizlik için çekiç, keski ve tel fırça",
+  "Kum/maça temizleme aletleri",
+  "Taşıma arabası, palet ve vinç/forklift",
+  "Yangın söndürme cihazı",
+  "Soğutma alanı ve havalandırma ekipmanı"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve tedbirli,",
+  "El becerisine sahip,",
+  "Fiziksel olarak güçlü ve dayanıklı,",
+  "Yüksek ısı koşullarında çalışmaya uygun,",
+  "İş sağlığı ve güvenliği kurallarına titizlikle uyan,",
+  "Sorumluluk sahibi,",
+  "Ekip çalışmasına yatkın,",
+  "El-göz koordinasyonu gelişmiş,"
+ ],
+ "gorevler": [
+  "Döküm kalıplarını kontrol eder ve döküme hazırlar.",
+  "Ergimiş metali fırından el potasına emniyetli şekilde alır.",
+  "Metali kalıba uygun hız ve teknikle döker.",
+  "Döküm sonrası soğuma sürecini izler.",
+  "Kalıplardan çıkan parçaların kaba temizliğini ve kontrolünü yapar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "calisma_ortami": "\"Metal Dökümcüsü (Elle), genellikle döküm fabrikaları ve atölyelerinde, kapalı mekânlarda çalışır. Çalışma ortamı, ergitme ocaklarının bulunması nedeniyle sıcak, zaman zaman gürültülü, tozlu ve dumanlıdır. Ergimiş metalle ve ağır kalıplarla çalışıldığından yanık, sıçrama ve ağır kaldırmaya bağlı yaralanma riskleri bulunur; bu nedenle kişisel koruyucu donanımların eksiksiz kullanılması ve iş güvenliği kurallarına titizlikle uyulması gerekir.\\n\\nMeslek elemanı genellikle ayakta ve bazen vardiyalı olarak çalışır. Çalışma sırasında ustabaşı, diğer döküm işçileri, kalıp hazırlayıcılar ve kalite kontrol personeliyle sürekli iş birliği içindedir.\"",
+ "egitim": {
+  "verildigi_yerler": "Meslek, günümüzde örgün eğitimde ayrı ve yaygın bir program olarak tanımlanmamakta; çoğunlukla işyerlerinde usta yanında yetişme (işbaşı eğitimi) yoluyla öğrenilmektedir. Talep olması durumunda mesleki eğitim merkezlerinin metal teknolojisi alanı kapsamında döküme yönelik dallarda çıraklık eğitimi verilebilmektedir. Ayrıca Halk Eğitim Merkezleri ile İŞKUR tarafından açılan mesleki eğitim kurslarında da döküm işçiliğine yönelik kısa süreli eğitimler düzenlenebilmektedir.",
+  "giris_kosullari": [
+   "En az ilkokul/ortaokul mezunu olmak",
+   "Çıraklık eğitimine girecekler için 14 yaşını doldurmuş olmak ve zorunlu eğitim çağında bulunmak",
+   "Yüksek ısı ve ağır kaldırma gerektiren çalışma koşullarına sağlık durumunun uygun olması",
+   "Çıraklık eğitimi yoluyla girişte, eğitim görülecek işyeri ile çıraklık sözleşmesi imzalamak"
+  ],
+  "sure_ve_icerik": "Mesleğe giriş çoğunlukla işbaşında, deneyimli bir usta gözetiminde pratik çalışmayla gerçekleşir; bu süreçte kalıp hazırlama, ergimiş metali güvenli şekilde taşıma, döküm tekniği ve temel iş güvenliği konuları öğretilir. Çıraklık eğitimi yoluyla girilmesi durumunda süre ve içerik ilgili mesleki eğitim merkezi programına göre değişmekte, genel kültür dersleri ile meslek dersleri bir arada verilmekte, haftanın belirli günleri işyerinde uygulamalı eğitim yapılmaktadır. İŞKUR ve Halk Eğitim Merkezi kursları ise genellikle daha kısa süreli olup temel döküm işçiliği becerilerini kazandırmayı amaçlar.",
+  "belge": "Çıraklık eğitimi yoluyla girilmesi ve başarılı olunması durumunda kalfalık/ustalık belgesi; kurs yoluyla girilmesi durumunda kurs bitirme/katılım belgesi alınır. Mesleki Yeterlilik Kurumu (MYK) Ulusal Yeterlilik Belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "\"Metal Dökümcüsü (Elle), başta demir-çelik ve demir dışı metal döküm atölye ve fabrikaları olmak üzere, makine imalat sanayi, otomotiv yedek parça üretimi, tarım makineleri, pompa-vana üretimi ve genel metal sanayi işletmelerinde istihdam edilir. Çalışma alanları genellikle küçük ve orta ölçekli döküm atölyeleri ile büyük sanayi tesislerinin döküm bölümlerini kapsar. Ülkemizde metal sanayinin yaygın olduğu bölgelerde iş bulma olanağı nispeten daha fazladır.\"",
+ "kazanc": {
+  "egitim_suresince": "Çıraklık eğitimi yoluyla mesleğe giren öğrencilere, 3308 sayılı Mesleki Eğitim Kanunu çerçevesinde işletme tarafından asgari ücretin belirli bir oranında ücret ödenir ve iş kazası ile meslek hastalıkları sigortası devletçe karşılanır. İşbaşı eğitim veya İŞKUR/Halk Eğitim Merkezi kursları yoluyla yetişenler için ise genellikle kurs süresince kursiyer harçlığı dışında düzenli bir ücret söz konusu değildir; bazı işletmelerde işbaşı eğitim sırasında asgari ücret düzeyinde ödeme yapılabilir.",
+  "egitim_sonrasi": [
+   "Kamuya bağlı işletmelerde işçi statüsünde çalışanlar, ilgili toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde çalışanların kazancı; deneyim, el becerisi, işletmenin büyüklüğü ve sektördeki talebe göre değişmekte, mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlamaktadır.",
+   "Deneyim ve ustalık kazanıldıkça ücretler ortalamanın üzerine çıkabilmektedir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Çıraklık eğitimi yoluyla yetişenler kalfalık belgesini aldıktan sonra ustalık eğitimine devam ederek ustalık belgesi alabilir. Usta öğreticilik belgesi alarak mesleki eğitim merkezlerinde veya işyerlerinde usta öğretici olarak çalışabilirler. Ayrıca Mesleki Yeterlilik Kurumu (MYK) belgelendirme süreçlerine katılarak mesleki yeterliliklerini belgeleyebilirler.",
+  "is_hayatinda": "Meslek elemanı, deneyim kazandıkça kalfa, usta, ekip şefi (formen) ve atölye şefliğine kadar ilerleyebilir. İleri düzey deneyim ve birikimle birlikte, sermaye olanaklarının bulunması durumunda kendi döküm atölyesini kurarak işveren konumuna geçebilir."
+ },
+ "benzer_meslekler": [
+  "Potacı-Dökümcü",
+  "İngot Dökümcüsü",
+  "İngot Kalıp Hazırlama İşçisi",
+  "Haruri Muameleci (Döküm)",
+  "Kupol Ocağı Operatörü",
+  "Şarj İşçisi (Kupola Ocağı)"
+ ],
+ "ek_bilgiler": "\"Bu meslekte ergimiş metalle doğrudan çalışma söz konusu olduğundan, yanık ve sıçrama riskleri nedeniyle iş sağlığı ve güvenliği yönünden dikkat edilmesi gereken işler arasında yer alır; kişisel koruyucu donanımların eksiksiz kullanılması ve periyodik sağlık kontrolleri önem taşır. Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda tercih sebebi olabilir.\"",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T11:37:00",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6663
+  }
+ }
+}

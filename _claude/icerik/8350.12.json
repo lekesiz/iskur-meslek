@@ -1,0 +1,85 @@
+{
+ "gorevler": [
+  "Gemiyi iskeleye yanaştırır.",
+  "Gemiyi şamandıraya bağlar.",
+  "Mendireğe bağlayarak geminin demirlemesini sağlar.",
+  "Yer değiştirme (şifting) işleminde gemiyi çözer ve tekrar bağlar.",
+  "Geminin servisini yapar.",
+  "Hortum çekme işlemini yaparak gemilere gaz alma işlemini gerçekleştirir.",
+  "Limana demir atan gemilerin her türlü ihtiyacını karşılar.",
+  "Personelin karaya güvenli bir şekilde çıkmasını sağlar.",
+  "Geminin halat çekimi işini yapar.",
+  "Can güvenliği ile ilgili işlemleri gerçekleştirir.",
+  "Karadan gemilerdeki tankere gaz boşaltma işlemi gerçekleştirilirken irtibat kılavuzluğu yapar.",
+  "Açıkta duran gemileri şamandıraya bağlar.",
+  "Meslek alanı ile ilgili gelişmeleri takip eder ve uygulamalara yansıtır."
+ ],
+ "arac_gerec": [
+  "Palamar halatları",
+  "Bocurgat (vinç)",
+  "Can yeleği",
+  "Can simidi",
+  "Koruyucu baret/kask",
+  "Koruyucu eldiven",
+  "Su geçirmez iş kıyafeti ve bot",
+  "Telsiz/portatif haberleşme cihazı",
+  "El feneri",
+  "Çengel ve kanca",
+  "Matafora (bağlama iskelesi/merdiveni)",
+  "Halat makarası ve bağlama babası",
+  "İşaret bayrağı/flaması",
+  "Emniyet kemeri"
+ ],
+ "genel_ozellikler": [
+  "Fiziksel olarak güçlü ve dayanıklı,",
+  "El ve kol kaslarını etkin kullanabilen,",
+  "Yükseklik ve su korkusu olmayan, yüzme bilen,",
+  "Dikkatli ve tedbirli,",
+  "Ekip çalışmasına uyumlu,",
+  "Talimat ve işaretlere hızlı tepki verebilen,",
+  "Sorumluluk sahibi,",
+  "Açık havada ve değişken koşullarda çalışmaya istekli,"
+ ],
+ "calisma_ortami": "Palamarcılar görevlerini liman, rıhtım, iskele ve açık deniz üzerinde, büyük ölçüde açık havada yürütürler. Çalışma ortamı; gürültü, nem, deniz suyu, güneş ve soğuk gibi değişken hava koşullarına açıktır. Gemilerin giriş-çıkış, demirleme ve yanaşma saatlerine bağlı olarak gece-gündüz ve vardiya esasına göre çalışılır; düşme, boğulma, sıkışma ve halat kopması gibi iş kazası riskleri bulunur.\n\nMeslek elemanları genellikle ekip halinde çalışır; gemi kaptanı, lostromo, kılavuz kaptan, çımacı ve diğer liman/güverte personeli ile sürekli iletişim ve koordinasyon içindedirler. İşin niteliği, hızlı hareket etmeyi, fiziksel dayanıklılığı ve iş güvenliği kurallarına eksiksiz uymayı gerektirir.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi için resmi, örgün bir mesleki eğitim programı bulunmamaktadır. Meslek genellikle liman ve iskelelerde, deneyimli palamarcı veya lostromo gözetiminde işbaşında öğrenilir. Ayrıca Halk Eğitim Merkezleri, denizcilik meslek liseleri ve İŞKUR'un açtığı mesleki eğitim kurslarında temel gemi adamlığı/güverte eğitimleri alınabilir.",
+  "giris_kosullari": [
+   "İlköğretim mezunu olmak",
+   "Denizde ve ağır işlerde çalışmaya uygun sağlık durumuna sahip olmak",
+   "Yüzme bilmek, su ve yükseklik korkusu olmamak",
+   "Erkek adaylar için askerlik hizmeti ile ilişiği bulunmamak"
+  ],
+  "sure_ve_icerik": "Mesleğe giriş genellikle yardımcı/çırak olarak başlanıp deneyimli bir palamarcı veya lostromo gözetiminde uygulamalı şekilde öğrenilir. Bu süreçte halat bağlama ve çözme teknikleri, vinç/bocurgat kullanımı, denizcilik terminolojisi, iş sağlığı ve güvenliği kuralları ile temel gemi adamlığı bilgileri kazanılır. Çalışılacak işletmeye bağlı olarak temel denizcilik güvenlik kursları (yangın, ilk yardım, kişisel can kurtarma gibi) alınması gerekebilir.",
+  "belge": "Örgün bir diploma yerine; çalışılan kurum veya liman işletmesi tarafından verilen çalışma belgesi, gemi adamı cüzdanı ve katılınan denizcilik/güvenlik kurslarına ait sertifikalar edinilir. Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Palamarcılar; liman işletmeleri, kılavuzluk ve römorkörcülük teşkilatları, iskele ve rıhtım işletmeleri, petrol/LPG terminalleri, tersaneler ile deniz taşımacılığı yapan kamu ve özel kuruluşlarda çalışma olanağı bulurlar. Deniz ticaretinin ve liman trafiğinin yoğun olduğu kıyı bölgelerinde (İstanbul, İzmir, Kocaeli, Mersin, Hatay gibi) istihdam olanağı daha fazladır. Liman kapasitelerinin ve deniz taşımacılığı hacminin artması, bu meslekte istihdamı olumlu yönde etkilemektedir.",
+ "kazanc": {
+  "egitim_suresince": "Meslek örgün bir eğitim programıyla değil, çoğunlukla işbaşında çırak/yardımcı olarak öğrenildiğinden, bu dönemde çalışılan işletmenin ücret politikasına göre genellikle asgari ücret düzeyinde bir kazanç sağlanır.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarına bağlı liman işletmelerinde çalışanlar, 657 sayılı Devlet Memurları Kanunu veya ilgili toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde çalışanların ücreti; işletmenin büyüklüğü, deneyim, çalışma saatleri ve vardiya düzenine göre karşılıklı anlaşma yoluyla belirlenir.",
+   "Mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlarken, deneyim ve kıdem arttıkça gelir düzeyi yükselebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğin örgün bir eğitim kademesi bulunmamakla birlikte, deneyim kazanan palamarcılar katıldıkları denizcilik ve gemi adamlığı kurslarıyla bilgi ve becerilerini geliştirebilir; usta gemici veya lostromo gibi görevler için gerekli ek sertifikaları edinebilirler.",
+  "is_hayatinda": "Deneyim kazandıkça ekip sorumluluğu üstlenebilir; usta palamarcı, çımacı başı veya güverte lostromosu gibi kademelere yükselebilir, yeterlilik ve sertifikalarını geliştirerek liman operasyonlarında koordinasyon görevlerine geçebilirler."
+ },
+ "benzer_meslekler": [
+  "Çımacı",
+  "Gemici",
+  "Güverte Tayfası",
+  "Usta Gemici",
+  "Güverte Lostromosu",
+  "Gemi Rampa Elemanı"
+ ],
+ "ek_bilgiler": "Palamarcılık, açık deniz ve liman ortamında yürütülen, düşme, sıkışma ve boğulma gibi riskler taşıyan fiziksel bir meslektir; bu nedenle kişisel koruyucu donanım kullanımı ve iş sağlığı-güvenliği kurallarına eksiksiz uyum büyük önem taşır. Gemi trafiğinin yoğunluğuna bağlı olarak gece, gündüz ve resmi tatil günlerinde çalışma gerekebilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T19:11:00",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6860
+  }
+ }
+}

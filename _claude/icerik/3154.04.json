@@ -1,0 +1,74 @@
+{
+ "arac_gerec": [
+  "Bilgisayar ve AFTN/AMHS haberleşme terminalleri",
+  "Mesaj işleme ve yönlendirme yazılımları",
+  "Yazıcı (printer) ve evrak çıkış üniteleri",
+  "Haberleşme ağı anahtarlama ve yönlendirme ekipmanları",
+  "Kesintisiz güç kaynağı (UPS) sistemleri",
+  "Veri kayıt ve yedekleme üniteleri (CD/DVD, sunucu depolama)",
+  "Arşivleme ve kayıt sistemleri",
+  "Telefon ve dahili haberleşme (interkom) sistemleri",
+  "Ağ sunucuları ve ilgili donanım altyapısı",
+  "Yetkilendirilmiş kullanıcı erişim/giriş sistemleri"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve titiz,",
+  "Sorumluluk sahibi ve güvenilir,",
+  "Hızlı ve doğru karar verebilen,",
+  "İngilizce başta olmak üzere yabancı dil bilgisine sahip,",
+  "Yoğun ve zaman baskısı olan ortamlarda sakin kalabilen,",
+  "Bilgisayar ve haberleşme sistemlerini kullanmaya yatkın,",
+  "Vardiyalı ve düzensiz çalışma saatlerine uyum gösterebilen,",
+  "Takım çalışmasına uygun"
+ ],
+ "calisma_ortami": "AFTN memurları, havaalanlarındaki hava trafik hizmet birimleri, haberleşme merkezleri ve ilgili kontrol merkezlerinde kapalı mekanlarda, genellikle bilgisayar ve haberleşme terminalleri önünde çalışır. Çalışma ortamı büro/kontrol merkezi niteliğindedir; fiziksel olarak ağır bir iş değildir, ancak sürekli ve yoğun dikkat gerektirir.\n\nHava trafik hizmetlerinin kesintisiz yürütülmesi gerektiğinden hizmet 7 gün 24 saat esasına göre sunulur; bu nedenle meslek mensupları vardiyalı (gündüz, gece, hafta sonu ve resmi tatil) çalışma düzenine tabidir. Görevleri sırasında hava trafik kontrolörleri, diğer havacılık personeli, ilgili birim amirleri ve kurum/kuruluşlarla (örneğin Devlet Hava Meydanları İşletmesi, Sivil Havacılık Genel Müdürlüğü) sürekli iletişim halindedir. İşin niteliği nedeniyle hata toleransının düşük olması, çalışanlarda yüksek sorumluluk ve stres yönetimi becerisi gerektirir.",
+ "egitim": {
+  "verildigi_yerler": "AFTN Memurluğu için resmi olarak tanımlanmış, ayrı bir mesleki ve teknik ortaöğretim alan/dalı bulunmamaktadır. Mesleğe giriş, genellikle Devlet Hava Meydanları İşletmesi (DHMİ) ve Sivil Havacılık Genel Müdürlüğü gibi ilgili kamu kurumlarının açtığı personel alım süreçleri ve bu kurumların kendi bünyesinde verdiği hizmet içi eğitim/kurslar yoluyla gerçekleşmektedir.",
+  "giris_kosullari": [
+   "En az ortaöğretim (lise ve dengi okul) mezunu olmak,",
+   "İlgili kurumun açtığı yazılı/sözlü sınav ve yabancı dil (özellikle İngilizce) değerlendirmesinde başarılı olmak,",
+   "Kurumun belirlediği sağlık şartlarını ve güvenlik soruşturması/arşiv araştırması kriterlerini taşımak,"
+  ],
+  "sure_ve_icerik": "Mesleğe özgü, belirli bir süreyle sınırlandırılmış örgün bir okul programı bulunmamaktadır. Lise mezunu olarak işe alınan adaylar, çalışacakları kurum tarafından düzenlenen hizmet içi eğitim ve kurslarla; havacılık haberleşme usulleri, AFTN/AMHS mesaj formatları, ilgili uluslararası (ICAO) kurallar ve ulusal mevzuat konularında teorik ve uygulamalı olarak yetiştirilir. Eğitimin süresi ve içeriği, kurumun ihtiyacına ve göreve göre değişebilmektedir.",
+  "belge": "Eğitimi ve uygulama sürecini tamamlayanlara, görev yapacakları kurum tarafından verilen bir iç sertifika veya yetkilendirme belgesi söz konusudur; mesleğe özgü resmi bir diploma bulunmamaktadır."
+ },
+ "gorevler": [
+  "Gelen mesajları gözlemler ve mesaj türlerini inceler.",
+  "Sistem tarafından otomatik olarak işleme tabi tutulamayan mesajları, acil durum mesajları gibi özel işlem görmesi gereken mesajları ve üçüncü taraflarca sunulan mesajları zamanında oluşturur, işleme tabi tutar ve/veya teslim eder.",
+  "Mesaj kaybının önlenmesi ve mesajların en kısa zamanda adreslerine teslim edilmesi amacıyla, haberleşme ağında kesinti olması durumunda mesajların teslimi için alternatif yolları kullanır ve gerektiğinde mesajların yolunu değiştirir.",
+  "AİT sistemine giren bütün ATC mesajlarının doğruluğunu ve doğru adrese gelip gelmediğini kontrol ettikten sonra, mesajları ilgili adreslerine göre tasnif ederek yönlendirir veya çıktı alarak evrakla teslim eder.",
+  "Ana sisteme gelen bütün ATC mesajlarını (uçuş planı, permi, kalkış mesajı, iniş mesajı, gecikme, iptal, NOTAM gibi) günlük ve aylık olarak bilgisayar ortamında ve harici kayıt ortamlarında arşivleyerek hizmetin devamlılığını sağlar.",
+  "Mesleği alanındaki gelişmeleri takip eder ve uygular.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "calisma_alanlari": "AFTN memurları başta Devlet Hava Meydanları İşletmesi (DHMİ) ve Sivil Havacılık Genel Müdürlüğü olmak üzere havaalanlarındaki hava trafik hizmet birimleri ve haberleşme merkezlerinde kamu personeli olarak istihdam edilir. Ayrıca bazı havayolu işletmeleri ve özel havacılık kuruluşlarının haberleşme/operasyon birimlerinde de benzer nitelikte görevlerde çalışılabilmektedir. İstihdam olanakları, sektördeki havaalanı ve hava trafiği kapasitesine, kurumların personel ihtiyacına bağlı olarak değişmektedir.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğe özgü örgün bir eğitim programı bulunmadığından, kuruma kabul edilen adaylar genellikle aday memur veya göreve hazırlık sürecinde ilgili kurumun personel mevzuatına göre ücretlendirilir.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında (DHMİ gibi) çalışanlar 657 sayılı Devlet Memurları Kanunu veya kurumun kendi personel rejimine göre ücretlendirilir; kazanç unvan, kıdem ve kurumun ücret politikasına göre değişir.",
+   "Özel sektörde çalışanların kazancı işveren ile yapılan anlaşmaya, deneyime ve işletmenin büyüklüğüne göre farklılık gösterebilir.",
+   "Yeni göreve başlayanların kazancı genellikle asgari ücret düzeyinde veya buna yakın başlayıp deneyim ve kıdemle birlikte artış gösterebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğe özgü kademeli bir resmi eğitim basamağı bulunmamaktadır. Çalışanlar, kurum içi kurslar, seminerler ve hizmet içi eğitim programlarına katılarak bilgi ve becerilerini geliştirebilir; ayrıca açıköğretim veya örgün yükseköğretimde havacılık, iletişim veya ilgili alanlarda eğitim alarak niteliklerini artırabilirler.",
+  "is_hayatinda": "Deneyim ve performansa bağlı olarak kurum içinde kıdemli memur, şef veya amir gibi görevlere yükselme mümkündür. Ayrıca ilgili havacılık alanlarında ek eğitim ve sınavları başarıyla tamamlayanlar hava trafik kontrolörlüğü veya havacılık bilgi yönetimi gibi farklı unvanlara geçiş yapabilmektedir."
+ },
+ "benzer_meslekler": [
+  "AİM (Havacılık Bilgi Yönetimi) Memuru",
+  "Sivil Hava Ulaştırma İşletmeciliği Meslek Elemanı",
+  "Hava Trafik Kontrolörü-Kule",
+  "Hava Trafik Kontrolörü-Radar",
+  "Seyrüseferci",
+  "ATSEP (Hava Trafik Emniyeti Elektronik Personeli)"
+ ],
+ "ek_bilgiler": "Mesleğin uluslararası sivil havacılık kuralları (ICAO) çerçevesinde yürütülmesi ve hava trafik hizmetlerinin kesintisiz sunulması gerektiğinden, çalışanlar vardiyalı bir düzende görev yapar. Görev, hata toleransı düşük ve gizlilik gerektiren bilgi akışının doğru ve zamanında sağlanmasına dayandığından, yüksek dikkat ve sorumluluk bilinci önem taşımaktadır.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T11:59:48",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 7017
+  }
+ }
+}

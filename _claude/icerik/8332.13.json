@@ -1,0 +1,74 @@
+{
+ "arac_gerec": [
+  "Arazöz (su tankı ve pompa sistemine sahip özel araç)",
+  "Su pompası ve basınç ayar sistemleri",
+  "Yangın hortumları ve lanslar",
+  "Su ikmal/hidrant bağlantı ekipmanları",
+  "Köpük tankı ve köpük karıştırma sistemi (varsa)",
+  "Ağır vasıta sürücü belgesi (ehliyet)",
+  "Telsiz veya diğer iletişim cihazları",
+  "Kişisel koruyucu donanım (yangına dayanıklı kıyafet, eldiven, baret, gözlük)",
+  "Araç bakım ve basit tamir takımları",
+  "Yedek yakıt ve su seviyesi gösterge panelleri",
+  "İlk yardım malzemeleri"
+ ],
+ "genel_ozellikler": [
+  "Sorumluluk sahibi ve dikkatli,",
+  "Soğukkanlı, stresli ve acil durumlarda sağlıklı karar verebilen,",
+  "Fiziksel olarak sağlıklı ve dayanıklı,",
+  "El-göz-ayak koordinasyonu gelişmiş,",
+  "Takım çalışmasına yatkın ve talimatlara uyan,",
+  "Zor hava ve yol koşullarında güvenli araç kullanabilen,",
+  "Mekanik ve hidrolik sistemlere ilgili,",
+  "Renkleri ve sesli/ışıklı uyarıları ayırt edebilen,"
+ ],
+ "calisma_ortami": "Arazöz şoförü, görevini büyük ölçüde araç içinde oturarak yürütür; ancak yangın söndürme veya sulama noktasına ulaşıldığında araç dışında da çalışır. Çalışma ortamı, görev yapılan kuruma göre açık arazi, orman, tarım alanı, sanayi tesisi, yerleşim yeri veya yol üzerinde olabilir. Yangın müdahalesi sırasında duman, yüksek sıcaklık, kısıtlı görüş ve kaza riski gibi tehlikeli koşullarla karşılaşılabilir. Çalışma saatleri genellikle vardiyalı ve nöbet usulüdür; özellikle itfaiye ve orman yangını hizmetlerinde gece çalışması, hafta sonu çalışması ve acil çağrı üzerine ani göreve çıkma söz konusudur. Meslek mensubu; ekip arkadaşları, itfaiye/afet yönetimi personeli, amirleri ve gerektiğinde halkla sürekli iletişim halindedir.",
+ "egitim": {
+  "verildigi_yerler": "Arazöz şoförlüğü için ayrı ve resmi olarak tanımlanmış bağımsız bir örgün eğitim programı bulunmamaktadır. Meslek; ağır vasıta sürücü belgesi (ehliyet) alındıktan sonra görev yapılacak kurumun (belediye itfaiyesi, Orman Genel Müdürlüğü, organize sanayi bölgeleri, fabrikalar, havalimanları vb.) kendi hizmet içi eğitimleri ve usta-çırak ilişkisiyle işbaşında kazanılmaktadır. Sürücülük eğitimi, Milli Eğitim Bakanlığına bağlı sürücü kursları ile Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kurslarında alınabilir.",
+  "giris_kosullari": [
+   "İlköğretim mezunu olmak (kurumların aradığı ek eğitim şartları değişebilir)",
+   "Görevin gerektirdiği sınıfta (genellikle C veya üzeri ağır vasıta) geçerli sürücü belgesine sahip olmak",
+   "Sağlık açısından araç kullanmaya ve fiziksel olarak zorlayıcı görevlere elverişli olmak",
+   "Başvurulan kurumun (belediye, orman, fabrika vb.) belirlediği yaş ve sınav şartlarını sağlamak"
+  ],
+  "sure_ve_icerik": "Ağır vasıta sürücü belgesi eğitiminin süresi ve içeriği ilgili sürücü kursu mevzuatına göre belirlenir. Bu belge alındıktan sonra, görev yapılacak kurumda arazözün su-pompa sistemi, hortum ve köpük sistemi kullanımı, su ikmal işlemleri, acil müdahale prosedürleri, iş sağlığı ve güvenliği kuralları konularında değişen sürelerde kurum içi teorik ve uygulamalı eğitim verilir; aday bir süre deneyimli bir şoförün gözetiminde görev yapar.",
+  "belge": "Ağır vasıta sürücü belgesi (ehliyet) ve görev yapılan kurum tarafından verilen hizmet içi eğitim/görevlendirme belgesi. Mesleki Yeterlilik Kurumu (MYK) belgesi, bazı kurumlarda istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Arazöz şoförleri başta belediyelerin itfaiye teşkilatları olmak üzere, Orman Genel Müdürlüğü ve orman yangınlarıyla mücadele birimlerinde, organize sanayi bölgelerinde ve büyük fabrikaların/sanayi tesislerinin kendi yangın güvenlik ekiplerinde, havalimanlarında, tarımsal sulama hizmeti veren kamu veya özel kuruluşlarda görev alabilirler. Ayrıca özel güvenlik ve yangından korunma hizmeti sunan firmalarda da istihdam edilebilirler. Mesleğin iş bulma olanakları, görev yapılan kurumun (özellikle itfaiye ve orman teşkilatlarının) personel ihtiyacına ve orman yangını riskinin yoğunlaştığı mevsimsel dönemlere göre değişebilir.",
+ "kazanc": {
+  "egitim_suresince": "Sürücü belgesi eğitimi sırasında kursiyer kendi kurs ücretini öder; herhangi bir kazanç söz konusu değildir. Kurum içi hizmet içi eğitim döneminde ise, görev yapılan kurumun statüsüne göre genellikle normal ücret veya asgari ücret düzeyinde bir ödeme yapılır.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında (belediye, orman teşkilatı vb.) memur statüsünde çalışanlar 657 sayılı Devlet Memurları Kanunu'na, işçi statüsünde çalışanlar ise toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde (fabrika, OSB, özel firma) ücret, işletmenin büyüklüğüne, çalışanın deneyimine ve karşılıklı anlaşmaya göre değişir; yeni başlayanlarda genellikle asgari ücret düzeyindedir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Meslekte ayrı bir örgün ilerleme basamağı bulunmamaktadır. Deneyim kazandıkça farklı araç tiplerini (daha büyük kapasiteli arazözler, özel donanımlı itfaiye araçları) kullanma yetkinliği ve kurum içi ileri eğitimlere katılma imkânı artar.",
+  "is_hayatinda": "Mesleğinde deneyim kazananlar kıdemli şoför veya ekip/araç sorumlusu olabilir. İtfaiye teşkilatlarında görev yapanlar, kurumun açtığı sınav ve eğitimlerle itfaiye eri, çavuş veya ekip amiri gibi kademelere yükselebilir; bu geçiş kurumun kendi mevzuatına bağlıdır."
+ },
+ "benzer_meslekler": [
+  "İtfaiye Aracı Operatörü",
+  "İtfaiye Başşoförü",
+  "Vidanjör Şoförü",
+  "Kara Tankeri Operatörü (Tehlikeli Madde Taşımacılığı)",
+  "Kamyon Şoförü",
+  "Silobas Operatörü"
+ ],
+ "ek_bilgiler": "Mesleğe olan talep, orman yangını riskinin arttığı yaz aylarında ve kuraklık dönemlerinde yükselebilir. Bazı kurumlarda arazöz şoförlüğü, itfaiye eri veya şoför kadrosunun bir parçası olarak yürütülmekte olup ayrı bir kadro unvanı olmayabilir.",
+ "gorevler": [
+  "Aracın su seviyesini, pompa ve hortum sistemlerini kontrol eder.",
+  "Yangın veya müdahale alanına aracı güvenli ve hızlı şekilde sevk eder.",
+  "Pompa basınç ayarlarını yaparak su veya köpük püskürtülmesini sağlar.",
+  "Su ikmal noktalarından tankın dolumunu gerçekleştirir.",
+  "Aracın periyodik bakımını ve temizliğini takip eder.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T18:27:12",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5650
+  }
+ }
+}

@@ -1,0 +1,83 @@
+{
+ "arac_gerec": [
+  "Metalografik (optik) mikroskop",
+  "Röntgen (X-ışınları) cihazı",
+  "Streskop",
+  "Çekme-basma test cihazı (üniversal test makinesi)",
+  "Katlama, burma ve ezme deney aparatları",
+  "Sertlik ölçüm cihazları (Brinell, Rockwell, Vickers)",
+  "Numune kesme ve hazırlama cihazları",
+  "Numune kalıplama, zımparalama ve polisaj cihazları",
+  "Dağlama (etching) kimyasalları ve ekipmanı",
+  "Eritme ocakları",
+  "Hadde tezgahları (sıcak/soğuk hadde)",
+  "Döküm ve dövme ekipmanları",
+  "Isıl işlem fırınları",
+  "Kaplama ekipmanları",
+  "Kişisel koruyucu donanım (eldiven, gözlük, önlük, maske)",
+  "Bilgisayar ve laboratuvar/analiz yazılımları"
+ ],
+ "benzer_meslekler": [
+  "Metalurji Teknisyeni",
+  "Döküm Teknisyeni",
+  "Isıl İşlem Teknisyeni",
+  "Metalurji Teknikeri",
+  "Metalurji Malzeme Teknikeri",
+  "Tahribatsız Muayene Teknikeri"
+ ],
+ "calisma_alanlari": "Fiziki Metalurji Teknisyenleri, metal ve alaşım üreten fabrikalarda (demir-çelik, alüminyum, bakır vb. metal işleme tesisleri), dökümhanelerde, haddehanelerde, ısıl işlem ve yüzey kaplama tesislerinde, metalurji ve malzeme laboratuvarlarında, kalite kontrol birimlerinde ve ar-ge merkezlerinde çalışabilmektedirler.\\n\\nBu meslek elemanları ağırlıklı olarak kamu ve özel sektöre bağlı üretim işletmelerinde, mühendislik ekiplerinin yanında teknik destek elemanı olarak istihdam edilmektedir. Metal ve metalurji sanayisinin yoğun olduğu bölgelerde iş bulma olanakları daha fazladır.",
+ "calisma_ortami": "Fiziki Metalurji Teknisyenleri genellikle fabrika, atölye ve laboratuvar ortamlarında çalışır. Çalışma ortamı sıcak, gürültülü ve bazı işlemler (eritme, döküm, ısıl işlem) sırasında yüksek sıcaklığa ve kimyasal maddelere açık olabilir. Dikkatli ve tedbirli çalışılmadığında yanma, kesilme, elektrik çarpması ve kimyasal madde teması gibi riskler bulunmaktadır. Bu nedenle çalışma süresince kişisel koruyucu donanım kullanımı önemlidir.\\n\\nÇalışma genellikle tam gün esasına dayanır; üretimin sürekliliği gereken işletmelerde vardiyalı çalışma söz konusu olabilir. Meslek elemanı çalışması sırasında mühendisler, diğer teknisyen ve teknikerler, kalite kontrol personeli ve üretim işçileri ile yakın ilişki içinde bulunur.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi, mesleki ve teknik ortaöğretim okul/kurumlarının Metal Teknolojisi/Metalurji ile ilgili alan ve dallarında verilmektedir. Ayrıca, bölgesel ihtiyaç ve talebe göre mesleki eğitim merkezlerinde de ilgili alanda eğitim verilebilmektedir.",
+  "giris_kosullari": [
+   "Ortaokul mezunu olmak",
+   "Merkezi sınav sonuçlarına ya da ilgili yerleştirme sistemine göre meslek lisesinin ilgili alanına kayıt yaptırmak",
+   "Sağlık durumunun mesleğin gerektirdiği işlere uygun olması"
+  ],
+  "sure_ve_icerik": "Mesleğin ortaöğretim düzeyindeki eğitim süresi 4 yıldır. 9. sınıfta ortak genel kültür dersleri, 10. sınıfta alana yönelik ortak yeterlikleri kazandıran dersler okutulur. 10. sınıf sonunda bölgesel ve sektörel ihtiyaçlar, okulun donanımı ve öğrencinin ilgisine göre dal seçimi yapılır. 11. ve 12. sınıflarda dala ait mesleki yeterlikleri kazandıran dersler verilir. Eğitim; okulda teorik ve uygulamalı, işletme ve atölyelerde ise uygulamalı olarak sürdürülür. Bu alanda resmî olarak tanımlanmış bir meslek lisesi dalı bulunmaması durumunda, ilgili mesleki bilgi ve beceriler yakın alanlardaki eğitim programları, işbaşı eğitim ve kurs programları ile de kazanılabilmektedir.",
+  "belge": "Eğitimini başarı ile tamamlayanlara meslek lisesi diploması verilir; kurs/program yoluyla eğitim alanlara ise ilgili kurumca kurs bitirme belgesi/sertifika verilebilir."
+ },
+ "ek_bilgiler": "Fiziki Metalurji Teknisyenleri, sıcaklık, kimyasal madde ve kesici-delici ekipmanlarla çalıştıklarından iş sağlığı ve güvenliği kurallarına uyum büyük önem taşır. Mesleki Yeterlilik Kurumu (MYK) belgesine sahip olmak, istihdamda tercih sebebi olabilir. Metal ve metalurji sektöründeki üretim hacmine bağlı olarak istihdam olanakları bölgesel farklılık gösterebilir.",
+ "genel_ozellikler": [
+  "Fen bilimlerine (fizik, kimya) ilgili ve bu alanlarda başarılı,",
+  "Dikkatli ve titiz,",
+  "Analitik düşünme yeteneğine sahip,",
+  "El ve göz koordinasyonu iyi,",
+  "Sabırlı ve sistemli çalışabilen,",
+  "Ekip çalışmasına yatkın,",
+  "Sorumluluk sahibi,",
+  "Yeni teknolojik gelişmeleri takip edebilen"
+ ],
+ "gorevler": [
+  "Üretimde kullanılan hammadde ve yardımcı maddelerin fiziksel özelliklerini belirler.",
+  "Satın alınacak hammaddelerin şartnamelerini hazırlar ve fiziksel uygunluğunu belirlemek için testler yapar.",
+  "Üretim için hazırlanan hamurun karışım, oran ve özelliklerini belirler.",
+  "Hazırlanan hamurdan örnekler alır, mikroskopla inceler, röntgenini çeker, fiziksel analizlerini yapar ve hatalarını belirler; üretimin çeşitli aşamalarında üründen örnekler alarak mikroskop, röntgen ve streskop ile inceleyip metal numunesinde yabancı madde, kırık ve diğer bozukluklar bulunup bulunmadığını tespit eder.",
+  "Fiziksel deneyleri yapılacak metalleri tespit eder.",
+  "Çekme, katlama, ezme, burma gibi çeşitli deney ve hesaplamalar yaparak metal ya da alaşım hakkında karar verir.",
+  "Metal ve alaşımların mühendislik özellikleri ve fiziki karakteristiklerini araştırmada ve istenilen nitelikte metal elde etmek için işlemleri geliştirmede yardımcı olur.",
+  "Eritme, alaşım yapma, sıcak ve soğuk haddeden geçirme, döküm, dövme, çekme, ısıl işlem ve kaplama gibi işlemlere yardımcı olur.",
+  "Makine, tezgâh ve aparatların periyodik bakım ve onarımları ile senelik revizyonlarını yapar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleki ve teknik ortaöğretim kurumlarının Metal Teknolojisi/Metalurji alanından mezun olanlar, alanın devamı niteliğindeki yükseköğretim (önlisans/lisans) programlarını tercih ettiklerinde sınavsız geçiş veya ek puan avantajından yararlanabilirler. Metalurji ve malzeme mühendisliği, malzeme mühendisliği gibi lisans programlarına veya metalurji teknikerliği gibi önlisans programlarına yönelebilirler.",
+  "is_hayatinda": "Deneyim ve bilgi birikimini artıran meslek elemanları, laboratuvar sorumlusu, kalite kontrol şefi veya ekip lideri gibi görevlere yükselebilir; ileri eğitim alarak mühendislik kadrolarında çalışabilir ya da kendi işini kurabilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "3308 sayılı Mesleki Eğitim Kanunu kapsamında işletmelerde mesleki eğitim gören öğrencilere asgari ücretin belirli bir oranından az olmamak üzere ücret ödenir; öğrencilerin iş kazası ve meslek hastalığı sigortası devletçe karşılanır.",
+  "egitim_sonrasi": [
+   "İşe yeni başlayanlar genellikle asgari ücret düzeyinde gelir elde eder.",
+   "Deneyim, uzmanlaşma ve çalışılan işletmenin büyüklüğüne göre ücret artış göstermektedir.",
+   "Kamu kurumlarında çalışanlar 657 sayılı Devlet Memurları Kanunu'na veya işçi statüsünde ise ilgili toplu iş sözleşmesi hükümlerine göre ücret alır; özel sektörde ücret karşılıklı anlaşma, deneyim ve işletme politikalarına göre değişiklik gösterir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T09:39:01",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5745
+  }
+ }
+}

@@ -1,0 +1,73 @@
+{
+ "arac_gerec": [
+  "El aletleri (anahtar takımı, tornavida, pense, çekiç vb.)",
+  "Ölçüm ve kontrol cihazları (multimetre, basınç ölçer, termometre, seviye göstergeleri)",
+  "Yağlama ve bakım ekipmanları, yedek parça ve sarf malzemeleri",
+  "Seyir ve haberleşme cihazları (radar, GPS, telsiz, pusula)",
+  "Yangınla mücadele ve kurtarma ekipmanları (can yelekleri, can simitleri, şişme botlar, yangın söndürme tüpleri)",
+  "Halat, zincir ve bağlama donanımı",
+  "Temel elektrik-elektronik test cihazları",
+  "Bakım-onarım kayıt defterleri ve teknik el kitapları",
+  "Kişisel koruyucu donanım (iş elbisesi, eldiven, baret, emniyet kemeri, kulak koruyucu)",
+  "İletişim ve haberleşme telsizleri"
+ ],
+ "benzer_meslekler": [
+  "Gemi Elektroniği ve Haberleşme Teknisyeni",
+  "Deniz Araçları Tesisat Donatım Teknisyeni",
+  "Gemi Yağcısı",
+  "Deniz Buhar ve Motor Makinisti",
+  "Güverte İşletme Teknisyeni/Gemi Yönetimi Teknisyeni/Vardiya Zabiti",
+  "Gemi Makine Kontrolörü-Deniz"
+ ],
+ "calisma_alanlari": "Denizcilik teknisyenleri; yük, yolcu, römorkör ve özel amaçlı gemilerde, tersanelerde, liman işletmelerinde, denizcilik şirketlerinde ve kıyıdaki bakım-onarım tesislerinde teknik personel olarak çalışabilirler.\n\nKamuya bağlı liman başkanlıkları, sahil güvenlik birimleri ve ilgili diğer kamu kurumlarında da teknik destek personeli olarak istihdam edilme olanağı bulunmaktadır. İş bulma olanakları, denizcilik sektörünün genel hacmine, yabancı dil bilgisine ve gemiadamı yeterliliklerine bağlı olarak değişmektedir.",
+ "calisma_ortami": "Denizcilik teknisyenleri esas olarak seyir halindeki veya limanda bulunan gemilerin makine dairesi, güverte ve köprüüstü bölümlerinde; ayrıca kıyıdaki bakım-onarım tesislerinde çalışırlar. Çalışma ortamı sıklıkla gürültülü, titreşimli, nemli ve bazı bölümlerde sıcak olabilir; makine dairesinde yakıt ve yağ kokusu yaygındır.\n\nÇalışma genellikle vardiya sistemiyle sürdürülür; gemide görev yapanlar uzun süre denizde kalabilir ve bu nedenle aile ve sosyal yaşamdan belirli dönemler uzak kalabilirler. Yolcu gemilerinde dönüş süreleri daha düzenli olabilirken, ticari gemilerde seyir süreleri değişkenlik gösterebilir. Kaptan, makine zabitleri, güverte ve makine ekibiyle sürekli iş birliği içinde çalışılır. Düşme, sıkışma, elektrik çarpması ve yangın gibi riskler bulunduğundan iş sağlığı ve güvenliği kurallarına, kişisel koruyucu donanım kullanımına dikkat edilmesi gerekir.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi, mesleki ve teknik ortaöğretim kurumlarının denizcilik ile ilgili alan/dallarında verilmektedir. Ayrıca Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kurslarında, gemiadamı yeterlilik eğitimi veren yetkilendirilmiş kurumlarda ve işbaşında usta yanında da ilgili bilgi ve beceriler kazandırılabilmektedir.",
+  "giris_kosullari": [
+   "Ortaokulu tamamlamış olmak",
+   "Milli Eğitim Bakanlığınca ilgili alan/dala göre belirlenen giriş koşullarını taşımak",
+   "Gemiadamları ve Kılavuz Kaptanlar Eğitim ve Sınav Yönergesi kapsamında denizde çalışmaya engel bir sağlık durumu bulunmadığına ilişkin rapor alınması gerekmektedir"
+  ],
+  "sure_ve_icerik": "Mesleki ve teknik ortaöğretim kurumlarında eğitim süresi 4 yıldır. İlk yılda ortak genel kültür ve temel meslek dersleri verilir, sonraki sınıflarda denizcilikle ilgili alan/dal derslerinde teorik ve uygulamalı eğitim sürdürülür; eğitim, okuldaki atölye çalışmalarının yanı sıra işletmelerde yapılan uygulama ve stajlarla desteklenir. Mesleğe yetkili gemiadamı olarak çalışabilmek için, ilgili mevzuat çerçevesinde ayrıca temel güvenlik ve yeterlilik eğitimleri alınması ve sınavlara girilmesi gerekebilir.",
+  "belge": "Mesleki ve teknik ortaöğretim kurumunu bitirenlere diploma verilir. İlgili mevzuatta belirlenen koşulları sağlayanlara, yetkili idare tarafından uygun yeterlilikte gemiadamı cüzdanı/belgesi düzenlenebilir."
+ },
+ "genel_ozellikler": [
+  "Fen bilimleri, özellikle fizik ve mekanik konularına ilgili,",
+  "El ve beden becerisi gelişmiş,",
+  "Dikkatli ve sorumluluk sahibi,",
+  "Ekip çalışmasına uyumlu,",
+  "Fiziksel olarak dayanıklı,",
+  "Sabırlı ve soğukkanlı,",
+  "Teknolojik gelişmeleri takip eden,",
+  "Uzun süre aileden ayrı kalabilecek yaşam tarzına uyum sağlayabilen"
+ ],
+ "gorevler": [
+  "Gemi makinelerinin ve yardımcı motorların periyodik bakımına katılır.",
+  "Güverte ekipmanlarının ve kurtarma araçlarının faal olmasını sağlar.",
+  "Elektrikli ve elektronik seyir sistemlerinin kontrollerini yapar.",
+  "Seyir öncesi yakıt, yağ ve su seviyelerini denetler.",
+  "Arıza durumlarında onarım ekiplerine teknik destek sunar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "kazanc": {
+  "egitim_suresince": "3308 sayılı Mesleki Eğitim Kanunu kapsamında, işletmelerde mesleki eğitim gören öğrencilere kanunda belirlenen oranlardan az olmamak üzere ücret ödenir; öğrencilerin iş kazası ve meslek hastalığı sigortası devletçe karşılanır.",
+  "egitim_sonrasi": [
+   "İşe yeni başlayanların kazancı genellikle asgari ücret düzeyindedir.",
+   "Kamu kurumlarında çalışanların ücreti 657 sayılı Devlet Memurları Kanunu veya ilgili toplu iş sözleşmesi hükümlerine göre belirlenir.",
+   "Özel sektörde ücret; deneyim, yabancı dil bilgisi, çalışılan geminin türü/bandırası ve işletmenin büyüklüğüne göre değişebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleki ve teknik ortaöğretim kurumlarının denizcilik ile ilgili alan/dalından mezun olanlar, ilgili yükseköğretim ön lisans ve lisans programlarına sınavla veya mevzuatta belirtilen avantajlarla yönelebilirler. Kurslar, seminerler ve hizmet içi eğitimler yoluyla ek bilgi ve beceri kazanılarak meslekte uzmanlaşma sağlanabilir.",
+  "is_hayatinda": "Deneyim ve ek eğitimle kıdemli teknisyen, usta veya vardiya/ekip sorumlusu konumuna yükselinebilir. İlgili yeterlilik eğitimlerini ve sınavlarını tamamlayanlar, zabitan kadrolarına geçiş için gerekli süreçlere yönelebilir. Yabancı dil bilgisi, özellikle yabancı bandıralı gemilerde ve uluslararası şirketlerde kariyer ilerlemesini kolaylaştıran önemli bir unsurdur."
+ },
+ "ek_bilgiler": "Denizde çalışma koşulları nedeniyle, mesleğin bazı görevleri ağır ve riskli işler kapsamında değerlendirilebilmekte; bu nedenle periyodik sağlık muayenesi ve \"Gemiadamı Olur Sağlık Raporu\" gerekliliği doğabilmektedir. Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda tercih sebebi olabilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T11:41:04",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6294
+  }
+ }
+}

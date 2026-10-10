@@ -1,0 +1,76 @@
+{
+ "arac_gerec": [
+  "Kumanda odası kontrol panelleri ve ekranları (SCADA/DCS sistemleri)",
+  "Proses izleme ve kontrol bilgisayarları",
+  "Alarm ve uyarı sistemleri",
+  "Telsiz, telefon gibi haberleşme cihazları",
+  "Basınç, sıcaklık, debi, seviye gibi ölçüm göstergeleri",
+  "Acil durdurma düğmeleri ve güvenlik sistemleri",
+  "Vardiya ve işletme kayıt defterleri/raporlama yazılımları",
+  "Bilgisayar ve ofis yazılımları",
+  "El feneri",
+  "Kişisel koruyucu donanım (baret, iş elbisesi, çelik burunlu ayakkabı, eldiven, gözlük, kulaklık vb.)"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve tedbirli,",
+  "Sorumluluk duygusu yüksek,",
+  "Acil ve stresli durumlarda soğukkanlı kalabilen,",
+  "Hızlı ve doğru karar verebilen,",
+  "Matematiksel ve analitik düşünebilen,",
+  "Teknik sistemlere ve makinelere ilgili,",
+  "Ekip çalışmasına yatkın,",
+  "İletişim becerisi gelişmiş,"
+ ],
+ "calisma_ortami": "Termik Santral Kumanda Operatörü, büyük ölçüde kapalı ve iklimlendirilmiş kumanda odasında çalışır; görevinin önemli bir bölümünü ekranlardan proses izleyerek ve kayıt tutarak geçirir. Gerektiğinde kazan, türbin, baca gazı arıtma, kül, hidrojen ve su alma sahaları gibi santral bölümlerine çıkarak saha operatörleriyle birlikte kontrol ve manevra yapabilir; bu alanlarda gürültü, yüksek sıcaklık, buhar ve elektrik riskleriyle karşılaşabilir.\n\nSantraller genellikle kesintisiz çalıştığından görev, vardiya sistemiyle (gündüz, akşam, gece) yürütülür; hafta sonu ve resmi tatillerde de çalışma gerekebilir. Vardiya amiri, saha operatörleri, bakım ekipleri ve diğer vardiya personeliyle sürekli iletişim ve koordinasyon içinde çalışılır; iş güvenliği kurallarına titizlikle uyulması gerekir.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin gerektirdiği minimum eğitim düzeyi ortaöğretimdir (lise ve dengi). Mesleki ve teknik ortaöğretim kurumlarının Elektrik-Elektronik Teknolojisi veya Enerji alanı ile ilgili dallarında, ayrıca yükseköğretim kurumlarının enerji üretimi ve işletmeciliği ile ilgili ön lisans programlarında bu alana temel oluşturan eğitimler verilmektedir. Mesleğe özgü uygulamalı yetkinlikler büyük ölçüde işe alındıktan sonra işletme içi eğitim programlarında, deneyimli operatör ve usta gözetiminde kazanılır. Halk Eğitim Merkezleri ve İŞKUR tarafından açılan mesleki eğitim kursları da destekleyici nitelikte olabilir.",
+  "giris_kosullari": [
+   "Ortaokulu tamamlamış olmak (ortaöğretime giriş için)",
+   "Milli Eğitim Bakanlığınca ilgili alan/dal için belirlenen giriş koşullarını taşımak",
+   "İşe alım sürecinde işletmelerin belirlediği eğitim düzeyi, yaş, sağlık durumu ve gerekiyorsa sınav/mülakat koşullarını sağlamak"
+  ],
+  "sure_ve_icerik": "Ortaöğretim düzeyindeki mesleki eğitim 4 yıl sürer; ortak dersler ve alan derslerinin ardından ilgili alanda uygulamalı eğitim verilir. Yükseköğretim düzeyinde tercih edilen ön lisans programları genellikle 2 yıl sürer. Her iki durumda da işe başlandığında, santralin proses ve ekipmanlarına özgü ayrıntılı bilgi ve beceriler, işletmenin düzenlediği teorik ve uygulamalı iç eğitim programları ile işbaşında usta yanında eğitim yoluyla kazandırılır.",
+  "belge": "Mesleki ve teknik ortaöğretim kurumlarından mezun olanlara meslek lisesi diploması, ön lisans programlarını tamamlayanlara ön lisans diploması verilir. İşletme içi eğitim süreçlerinin sonunda kuruma özgü yeterlilik belgesi veya sertifika düzenlenebilir; Mesleki Yeterlilik Kurumu (MYK) belgesi sahibi olmak istihdamda tercih sebebi olabilir."
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Ortaöğretim düzeyinde bu alanda mezun olanlar, sınavla girilen yükseköğretim programlarından elektrik-elektronik, enerji sistemleri mühendisliği veya enerji üretimiyle ilgili ön lisans/lisans programlarını tercih ederek eğitimlerini ilerletebilirler.",
+  "is_hayatinda": "Deneyim ve performansa bağlı olarak Termik Santral Kumanda Operatörleri, vardiya amiri yardımcısı, vardiya amiri, işletme şefi veya tesis sorumlusu gibi daha üst sorumluluk gerektiren pozisyonlara yükselebilirler."
+ },
+ "kazanc": {
+  "egitim_suresince": "Mesleki ve teknik ortaöğretim kurumlarında işletmelerde mesleki eğitim gören öğrencilere 3308 sayılı Mesleki Eğitim Kanunu kapsamında belirlenen oranlarda ücret ödenir ve iş kazası-meslek hastalığı sigorta primleri devletçe karşılanır. İşletme içi eğitim dönemindeki yeni işe başlayanların ücreti ise işletmenin politikasına bağlı olarak belirlenir.",
+  "egitim_sonrasi": [
+   "Kamuya bağlı enerji üretim şirketlerinde çalışanlar, statülerine göre 657 sayılı Devlet Memurları Kanunu veya ilgili toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektördeki santrallerde ücret, işyerinin büyüklüğü, çalışanın deneyimi ve bilgi birikimine göre karşılıklı anlaşma ile belirlenir; işe yeni başlayanlarda genellikle asgari ücret düzeyinde başlayıp deneyimle birlikte artış gösterebilir."
+  ]
+ },
+ "gorevler": [
+  "Vardiya düzenlemelerine göre kumanda odasındaki ekranlardan prosesi işletme talimatlarına göre izler ve prosesi verimli bir şekilde çalıştırır.",
+  "Önceki vardiya hakkında bilgi alır, sorun varsa sorunun giderilmesini sağlar ve yöneticilerini bilgilendirir.",
+  "Proses ekipmanlarının devreye alınması, devreden çıkarılması ve prosesin çalıştırılması sırasında gerekli manevraları yapar, ortaya çıkacak sorunları giderir veya giderilmesini sağlar.",
+  "Operasyonel değerleri sürekli olarak izler, çıkabilecek sorunları tespit ederek sorunun giderilmesini sağlar.",
+  "Proses kararlılığını izler ve ilgili parametrelerin eğilimlerini yorumlar.",
+  "Prosesin sürekli ve verimli çalışmasının sağlanması amacıyla Termik Santral Saha Operatörlerini yönlendirir.",
+  "Sistem ve ekipmanlarda oluşan arızaları tespit ederek Vardiya Amirini veya Amir Yardımcısını bilgilendirir, Bakım Yönetim Programında iş isteğinde bulunur veya bulunulmasını sağlar.",
+  "Bakım hizmetlerinde ve arıza duruşlarında bakım ekibine yardımcı olur.",
+  "Arızaların giderilmesi sonrasında proses ekipmanlarının test edilip işletmeye alınmasını sağlar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "calisma_alanlari": "Termik Santral Kumanda Operatörleri; kömür, doğalgaz veya fuel-oil gibi yakıtlarla elektrik üreten kamu (EÜAŞ ve bağlı kuruluşlar gibi) ve özel sektöre ait termik santrallerin kumanda odalarında istihdam edilir. Türkiye'de enerji üretimine olan ihtiyaç ve santrallerin 7/24 işletilme zorunluluğu nedeniyle meslek, kurulu santrallerin bulunduğu bölgelerde istikrarlı bir istihdam alanı sunar; ayrıca benzer proses izleme becerileri diğer enerji üretim tesislerinde de değerlendirilebilir.",
+ "benzer_meslekler": [
+  "Termik Santral Kazan İşletme Operatörü",
+  "Termik Santral Türbin İşletme Operatörü",
+  "Termik Santral Saha Operatörü",
+  "Termik Santral Elektrik İşletme Operatörü",
+  "Termik Santral BGKA(Baca Gazı Kükürt Arıtma) İşletme Operatörü",
+  "Termik Santral Dış Tesisler İşletme Operatörü"
+ ],
+ "ek_bilgiler": "Meslek, enerji üretim tesislerinde sürekli ve kesintisiz çalışma gerektirdiğinden vardiya (gece-gündüz) sistemiyle yürütülür. Santral ortamının bazı bölümleri tehlikeli/çok tehlikeli işler kapsamında değerlendirilebileceğinden, çalışılan işletmenin iş sağlığı ve güvenliği mevzuatı ile ilgili belge/eğitim gereklilikleri değişebilir; bu konuda işe alınacak işletmenin bilgilerine başvurulması gerekir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T10:54:29",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6357
+  }
+ }
+}

@@ -1,0 +1,78 @@
+{
+ "arac_gerec": [
+  "Mobil vinç (MHC - Mobile Harbour Crane)",
+  "Sahil vinci",
+  "Gemi vinci",
+  "Sapan, halat ve kanca takımları",
+  "Zincir ve kelepçe gibi bağlama ekipmanları",
+  "Vinç kontrol paneli ve joystick sistemi",
+  "Telsiz/haberleşme cihazı",
+  "Kişisel koruyucu donanım (kask, iş ayakkabısı, eldiven, gözlük, yelek)",
+  "Yağdanlık ve gres pompası",
+  "Bakım ve kontrol el aletleri",
+  "Yük tartım ve ölçüm göstergeleri"
+ ],
+ "benzer_meslekler": [
+  "Gemi Vinç Operatörü",
+  "Yüzer Vinç Operatörü",
+  "Rıhtım Vinç Operatörü",
+  "Liman Vinç Operatörü (RTG ve SSG)",
+  "Liman RTG Operatörü",
+  "Liman SSG Operatörü",
+  "Gantry Crane Vinç Operatörü"
+ ],
+ "calisma_alanlari": "Mobil Vinç Operatörü (MHC, Sahil ve Gemi Vinci); deniz limanları, konteyner terminalleri, tersaneler, gemi işletmeleri, yük ve lojistik firmaları ile kamuya veya özel sektöre ait liman işletmelerinde çalışabilir.\n\nDış ticaret hacminin ve deniz taşımacılığının artışına, liman ve lojistik altyapı yatırımlarına bağlı olarak meslek elemanlarına sektörde belirli bir istihdam imkânı bulunmaktadır. Deneyimli operatörler, liman işletmeciliği veya lojistik firmalarında tercih edilmektedir.",
+ "calisma_ortami": "Mobil Vinç Operatörü işini genellikle limanlarda, rıhtımlarda ve gemi güvertelerinde, açık havada ve vinç kabini içerisinde oturarak yürütür. Çalışma ortamı rüzgârlı, yağmurlu, soğuk veya sıcak, gürültülü ve titreşimli olabilir; yükseklikte çalışma ve ağır yük elleçleme nedeniyle dikkatsizlik ciddi iş kazalarına yol açabilir.\n\nLiman ve gemi trafiğine bağlı olarak vardiyalı ve zaman zaman gece çalışması gerekebilir. Operatör; serdümen, gemi personeli, liman işçileri, diğer vinç operatörleri ve saha amirleriyle sürekli haberleşme ve koordinasyon içinde çalışır.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi, resmî olarak tanımlanmış tek bir örgün eğitim programı şeklinde değildir. Genellikle liman işletmelerinin düzenlediği işbaşı eğitimler, Halk Eğitim Merkezleri ile özel kurs merkezlerinin açtığı iş makinesi/vinç operatörlüğü kursları ve İŞKUR'un açtığı mesleki eğitim kursları aracılığıyla kazanılır. Bazı liman işletmelerinde usta yanında yetişme yöntemi de uygulanmaktadır.",
+  "giris_kosullari": [
+   "18 yaşını doldurmuş olmak",
+   "En az ilköğretim mezunu olmak",
+   "Operatörlük yapmasını engelleyecek bir sağlık probleminin (işitme, görme, denge vb.) bulunmaması",
+   "İş makinesi/vinç operatörlüğü kurslarının kendi yönergelerinde belirtilen giriş şartlarını taşımak"
+  ],
+  "sure_ve_icerik": "Kurs süreleri kurumdan kuruma değişmekle birlikte genellikle teorik (vinç mekaniği ve kontrol sistemleri, yük hesapları ve bağlama usulleri, iş sağlığı ve güvenliği, haberleşme/sinyal sistemi) ve pratik (vinç kullanımı, yük sabitleme, vira-mayna uygulamaları) eğitimlerden oluşur. Liman ortamında işbaşında usta yanında uygulamalı yetişme süreci de yaygındır.",
+  "belge": "Eğitimi tamamlayanlara kurumun yetkisine göre operatör belgesi veya katılım/başarı belgesi verilir. Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "ek_bilgiler": "Liman ve deniz taşımacılığı ortamında ağır yük elleçleme ve yükseklikte çalışma nedeniyle iş sağlığı ve güvenliği önlemlerine uyum büyük önem taşır; düzenli sağlık kontrolü ve periyodik güvenlik eğitimleri gerekebilir.",
+ "genel_ozellikler": [
+  "El ve göz koordinasyonu güçlü,",
+  "Dikkatli ve tedbirli,",
+  "Sorumluluk sahibi,",
+  "Hızlı ve doğru karar verebilen,",
+  "Dengeli ve yükseklikten/kapalı alandan rahatsızlık duymayan,",
+  "Mekaniğe ve tekniğe ilgili,",
+  "Ekip çalışmasına uyumlu,",
+  "Stresli ve değişken koşullarda sakin kalabilen"
+ ],
+ "gorevler": [
+  "İş sağlığı ve güvenliği ile çevre koruma risklerine karşı yapılacak işlemleri açıklar.",
+  "İş sağlığı ve güvenliği ile çevre koruma önlemlerini uygular.",
+  "Mobil vinç ile yük elleçler.",
+  "Vincin günlük kontrollerini yapar.",
+  "Yükü sapan, halat veya kancaya sabitler.",
+  "Yükle vira yapar.",
+  "Yükü mayna yapar.",
+  "Vinç ile yük elleçleme işlemlerini yapar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğe özgü, belirli bir dikey ilerleme basamağı tanımlı değildir. Deneyim ve ek kurslarla farklı tip ve kapasitede vinç kullanma yetkinliği kazanılabilir.",
+  "is_hayatinda": "Deneyim kazanan operatörler vardiya sorumluluğu, ekip liderliği veya saha amirliği gibi görevlere yükselebilir; bazı operatörler eğitmenlik yapabilir veya ilerleyen süreçte kendi işini kurma yoluna gidebilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Kurs veya eğitim sürecinde genellikle ücret alınmaz; işbaşında usta yanında yürütülen eğitim süreçlerinde çalışılan işletmeye göre değişebilir.",
+  "egitim_sonrasi": [
+   "Kamuya bağlı liman işletmelerinde çalışanlar, memur statüsündeyse 657 sayılı Devlet Memurları Kanunu'na, işçi statüsündeyse toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde çalışanların kazancı; işyerinin büyüklüğü, deneyim, sorumluluk düzeyi ve sektörün ücret koşullarına göre değişmekte olup, yeni başlayanlar genellikle asgari ücret düzeyinde kazanç elde eder."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T19:02:43",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 7410
+  }
+ }
+}

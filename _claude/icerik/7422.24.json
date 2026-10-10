@@ -1,0 +1,87 @@
+{
+ "arac_gerec": [
+  "Jeneratör",
+  "Akü grupları (batarya bankaları)",
+  "Kesintisiz güç kaynağı (UPS)",
+  "Doğrultucu (redresör) cihazları",
+  "Topraklama ölçüm cihazı",
+  "Paratoner ve topraklama malzemeleri",
+  "Avometre / multimetre",
+  "Pens ampermetre",
+  "İzolasyon test cihazı",
+  "El aletleri takımı (tornavida, pense, anahtar seti)",
+  "Kablo, konnektör ve bağlantı elemanları",
+  "Kişisel koruyucu donanım (baret, eldiven, emniyet kemeri, iş ayakkabısı)",
+  "El telsizi / saha iletişim cihazı",
+  "Dizüstü bilgisayar ve izleme/kontrol yazılımları"
+ ],
+ "genel_ozellikler": [
+  "Elektrik ve elektronik konularına ilgili ve bu alanda becerikli,",
+  "Dikkatli, tedbirli ve sorumluluk duygusu gelişmiş,",
+  "El ve bedensel becerisi gelişmiş,",
+  "Yüksekte ve açık sahada çalışmaya elverişli bedensel ve sağlık yapısına sahip,",
+  "Takım hâlinde çalışmaya yatkın,",
+  "Vardiyalı ve çağrı üzerine çalışmaya uygun,",
+  "Plânlı ve düzenli çalışma alışkanlığına sahip,",
+  "Teknolojik gelişmeleri takip edebilen"
+ ],
+ "calisma_ortami": "Telekomünikasyon Enerji Sistemleri Elemanı, baz istasyonları, santral binaları, veri merkezleri ve enerji odaları gibi kapalı mekânlarda çalıştığı gibi, kule dibi, çatı ve saha gibi açık alanlarda da görev yapar. Çalışma ortamı elektrikli sistemler, yüksek gerilim hatları ve bazen yükseklik içerdiğinden iş kazası riski taşır; bu nedenle iş sağlığı ve güvenliği kurallarına titizlikle uyulması gerekir.\n\nİş genellikle ekip hâlinde yürütülür; teknisyen, mühendis, saha sorumluları ve bazen müşteri temsilcileriyle iletişim kurulur. Arızaya müdahale gerektiren durumlarda vardiyalı veya çağrı üzerine, gece dâhil her saatte çalışılabilir; hava koşullarından (sıcak, soğuk, yağmur) ve gürültüden etkilenilebilir.",
+ "gorevler": [
+  "İş sağlığı ve güvenliği, çevre koruma ve kalite gerekliliklerini uygular.",
+  "İş organizasyonu yapar.",
+  "Enerji sisteminin kurulum süreçlerine ilişkin keşif (survey) çalışmalarına destek verir.",
+  "Enerji sisteminin cihaz ve ekipmanlarını yerleştirir.",
+  "Enerji sisteminin bağlantılarını oluşturur.",
+  "Topraklama ve paratoner tesisatını kurar.",
+  "Kurulumun uygunluğunu kontrol eder.",
+  "Sistemin uygunluğunu kontrol eder.",
+  "Sistemi devreye alır.",
+  "Plânlı aktarma çalışmaları yapar.",
+  "Sistemin sökümünü yapar.",
+  "Sistemin takip ve kontrol işlemlerini yürütür.",
+  "Sistemin periyodik bakımlarını yapar.",
+  "Sistem arızalarını giderir.",
+  "Sistemin acil durum planlarını uygular.",
+  "Mesleki gelişim çalışmalarında bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Mesleğe yönelik, örgün eğitimde doğrudan karşılığı olan ayrı ve standart bir program bulunmamaktadır. İlgili mesleki ve teknik eğitim kurumlarında elektrik-elektronik teknolojileri alanındaki programlar temel bilgi ve beceri kazandırır. Bunun yanında Halk Eğitim Merkezleri ile İŞKUR tarafından açılan mesleki eğitim kurslarında ve sektördeki firmaların düzenlediği işbaşı/sertifika eğitimlerinde yetişilebilir.",
+  "giris_kosullari": [
+   "Mesleğin gerektirdiği asgari eğitim düzeyi olan ilköğretim mezunu olmak",
+   "Sağlık durumunun yükseklikte, açık alanda ve elektrikli sistemlerle çalışmaya elverişli olması",
+   "Katılacağı kurs veya işbaşı eğitim programının kendi başvuru koşullarını taşımak"
+  ],
+  "sure_ve_icerik": "Mesleğe özgü, belirli bir süreye bağlanmış zorunlu bir eğitim programı yoktur. İlgili mesleki ve teknik eğitim programlarında elektrik, elektronik ve telekomünikasyon temel dersleri alınabilir; mesleğin asıl öğrenimi ise işe girildikten sonra deneyimli personel/usta yanında işbaşında uygulamalı olarak gerçekleşir. Ayrıca jeneratör, UPS, akü grupları ve topraklama sistemlerine yönelik kısa süreli kurs ve üretici firma eğitimleri alınabilir.",
+  "belge": "Katıldığı kurs veya eğitim programının sonunda katılım/başarı belgesi ya da sertifika alabilir. Mesleki Yeterlilik Kurumu (MYK) Mesleki Yeterlilik Belgesi, özellikle tehlikeli işler kapsamındaki görevlerde istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Telekomünikasyon Enerji Sistemleri Elemanı, başta GSM ve sabit hat operatörleri olmak üzere, baz istasyonu ve telekomünikasyon altyapısı kurulum/bakım hizmeti veren taşeron ve alt yüklenici firmalarda, jeneratör-UPS-akü sistemleri kurulum ve bakımı yapan şirketlerde, veri merkezlerinde ve çeşitli altyapı işletmecilerinin teknik birimlerinde çalışabilir. Telekomünikasyon ve veri hizmetlerine olan talebin sürekli artması, bu alandaki istihdam olanaklarını canlı tutmaktadır.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğe yönelik örgün ve zorunlu bir çıraklık/mesleki eğitim süreci bulunmadığından, genellikle ayrı bir eğitim dönemi ücreti söz konusu olmaz. İŞKUR tarafından düzenlenen mesleki eğitim kurslarına katılanlara, ilgili mevzuat çerçevesinde kurs süresince cep harçlığı ödenebilir.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında istihdam edilenler, memur statüsündeyse 657 sayılı Devlet Memurları Kanunu'na, işçi statüsündeyse ilgili toplu iş sözleşmesi hükümlerine tabi olarak ücret alır.",
+   "Özel sektörde yeni başlayanların kazancı genellikle asgari ücret düzeyindedir.",
+   "Deneyim, bilgi birikimi, çalışılan işletmenin büyüklüğü ve sektördeki konuma göre ücret artabilir; saha çalışması ve vardiyaya bağlı ek ödeme/prim uygulamaları olabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğe özgü kademeli bir çıraklık-kalfalık-ustalık eğitim sistemi bulunmamaktadır. Çalışanlar, açık öğretim veya örgün yollarla orta/yükseköğretimlerini tamamlayarak ya da ilgili mesleki ve teknik eğitim programlarına, elektrik-elektronik veya telekomünikasyon teknolojileri alanında ön lisans/lisans programlarına yönelerek bilgi ve unvanlarını geliştirebilirler.",
+  "is_hayatinda": "Mesleki deneyim ve bilgi birikimi arttıkça ekip lideri, saha şefi, bakım-onarım ustası veya teknik sorumlu gibi görevlere yükselinebilir; ileride proje veya saha yöneticiliği pozisyonlarına geçiş mümkün olabilir."
+ },
+ "benzer_meslekler": [
+  "Baz İstasyonu Montaj Elemanı",
+  "Altyapı Destek (Survey) Elemanı",
+  "Telekomünikasyon Yer İstasyonu Tesis ve İşletme Elemanı",
+  "Telekomünikasyon Şebeke Kurulum Elemanı",
+  "Telekomünikasyon Bakım Onarım Elemanı",
+  "Telekomünikasyon Operasyon ve İşletim Elemanı"
+ ],
+ "ek_bilgiler": "Görev sırasında yüksekte ve elektrikli sistemlerle çalışma riski bulunduğundan iş sağlığı ve güvenliği eğitimleri ile kişisel koruyucu donanım kullanımı büyük önem taşır. Yürütülen bazı işler tehlikeli/çok tehlikeli işler kapsamında değerlendirilebileceğinden, bu durumda ilgili mevzuat gereği Mesleki Yeterlilik Kurumu (MYK) belgesi istenebilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T06:44:55",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6360
+  }
+ }
+}

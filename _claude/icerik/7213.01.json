@@ -1,0 +1,79 @@
+{
+ "arac_gerec": [
+  "Kesme makineleri (giyotin makas, kollu makas, şerit testere)",
+  "Bükme makineleri (abkant pres, silindir bükme makinesi, caka)",
+  "Delme makineleri (matkap tezgahı, el matkabı)",
+  "Zımba ve delme ekipmanları",
+  "Taşlama ve zımparalama araçları",
+  "Kaynak makineleri (elektrik ark, MIG/MAG, punta kaynak)",
+  "Perçin ve perçinleme ekipmanları",
+  "Doğrultma araçları (çekiç, örs, altlık)",
+  "Kalaylama ekipmanları",
+  "El aletleri (çekiç, tokmak, gönye, su terazisi, mengene)",
+  "Ölçüm araçları (mastar, kumpas, metre, pergel)",
+  "Metal kesme ve işaretleme kalemleri/şablonları",
+  "Kişisel koruyucu donanım (eldiven, gözlük, kulaklık, iş elbisesi)"
+ ],
+ "genel_ozellikler": [
+  "El ve kol kaslarını koordineli ve dayanıklı biçimde kullanabilen,",
+  "Şekil ve uzay ilişkilerini görebilen,",
+  "Dikkatli ve tedbirli,",
+  "El becerisine sahip,",
+  "Alet ve makinelerle çalışmaktan hoşlanan,",
+  "Ayakta ve değişen pozisyonlarda uzun süre çalışabilecek fiziksel dayanıklılığa sahip,",
+  "Sabırlı ve düzenli çalışan,",
+  "İşbirliğine açık kişiler olması gerekir."
+ ],
+ "calisma_ortami": "\"Metal levha işlemecileri genellikle atölye, imalathane veya fabrika ortamlarında çalışırlar. Çalışma ortamı kapalı mekan olup; metal kesme, taşlama ve kaynak işlemleri nedeniyle gürültülü, tozlu ve bazı durumlarda dumanlı olabilir. Kesici aletler, basınçlı makineler ve kaynak ekipmanlarıyla çalışıldığından iş kazası riski bulunmakta, bu nedenle iş sağlığı ve güvenliği kurallarına ve kişisel koruyucu donanım kullanımına dikkat edilmesi gerekmektedir.\\n\\nÇalışma süresi genellikle işyerinin çalışma düzenine bağlı olarak gündüz saatlerinde ve haftalık yasal çalışma süresine uygun şekilde gerçekleşir. Meslek mensupları; işyeri sahipleri, ustabaşı, diğer metal işleri çalışanları, kaynakçılar ve müşterilerle sürekli iletişim halinde çalışırlar.\"",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi, yeterli talep olması durumunda mesleki eğitim merkezlerinin Metal Teknolojisi alanı kapsamındaki ilgili dallarında çıraklık eğitimi şeklinde verilebilmektedir. Bunun yanında Halk Eğitim Merkezleri ve İŞKUR tarafından açılan mesleki eğitim kurslarında da metal levha işlemeciliğine yönelik beceri eğitimleri sunulmaktadır. Mesleğe, resmi bir örgün eğitim programı bulunmadığı durumlarda işbaşında usta yanında çalışarak da girilebilmektedir.",
+  "giris_kosullari": [
+   "En az ortaokul mezunu olup zorunlu eğitim çağında olanlar, mesleki eğitim merkezlerindeki çıraklık eğitimine başvurabilir.",
+   "14 yaşını doldurmuş olmak gerekmektedir.",
+   "Sağlık durumunun mesleğin gerektirdiği fiziksel koşullara (ayakta çalışma, el-kol kullanımı) uygun olması gerekir; gerektiğinde sağlık raporu istenebilir.",
+   "Çıraklık eğitimi için ilgili işyeri ile çıraklık sözleşmesi yapılması gerekmektedir."
+  ],
+  "sure_ve_icerik": "Mesleki eğitim merkezinde çıraklık eğitimine girenler için eğitim süresi ilköğretim sonrası yaklaşık 3-4 yıl olup, bu sürenin büyük bölümü kalfalık, son dönemi ustalık eğitimidir. Eğitim haftanın bir günü mesleki eğitim merkezinde teorik derslerle, kalan günlerde işyerinde usta öğretici gözetiminde uygulamalı olarak yürütülür. Kurs yoluyla edinilen mesleki eğitimlerde ise süre ve içerik, kursu açan kuruma ve kursun kapsamına göre değişmekte, genellikle temel metal işleme, kesme, bükme, delme ve birleştirme tekniklerini kapsamaktadır.",
+  "belge": "Mesleki eğitim merkezinde eğitimini tamamlayanlara kalfalık ve ardından ustalık belgesi verilir; fark derslerinin tamamlanması halinde meslek lisesi diploması da alınabilir. Kurs yoluyla eğitim alanlara ise kurs bitirme/katılım belgesi verilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, iş bulma ve istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "\"Metal levha işlemecileri; metal eşya ve mobilya imalathaneları, inşaat ve yapı malzemeleri sektöründeki metal işleme atölyeleri, soba ve kalorifer kazanı imalatçıları, teneke kutu ve ambalaj üretimi yapan işletmeler, havalandırma ve baca sistemleri üreten firmalar ile otomotiv sanayiine bağlı sac/kaporta işleri yapan atölyeler gibi çeşitli üretim ve onarım işletmelerinde çalışabilirler. Ayrıca kendi işyerini açarak serbest olarak da çalışabilirler. İstihdam olanakları, metal işleme ve imalat sektörünün yoğun olduğu sanayi bölgelerinde ve küçük ölçekli atölyelerin bulunduğu yerleşim yerlerinde daha fazladır.\"",
+ "kazanc": {
+  "egitim_suresince": "Mesleki eğitim merkezinde çıraklık eğitimi gören öğrencilere, 3308 sayılı Mesleki Eğitim Kanunu kapsamında asgari ücretin belirli bir oranından az olmamak üzere ücret ödenir; iş kazası ve meslek hastalığı sigorta primleri devletçe karşılanır. İşbaşında usta yanında veya kurs yoluyla eğitim alanlarda ise kazanç, eğitim veren işletmenin uygulamasına bağlı olarak değişebilir.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanların kazancı genellikle asgari ücret düzeyindedir.",
+   "Deneyim, bilgi, çalışma kapasitesi ve işyerinin büyüklüğüne bağlı olarak kazanç artabilir.",
+   "Kendi işyerini açanların kazancı, işin hacmine ve piyasa koşullarına göre değişkenlik gösterir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleki eğitim merkezinden kalfalık ve ustalık belgesi alan kişiler, fark derslerini tamamlayarak meslek lisesi diploması alabilir ve bu diploma ile ilgili mesleki ve teknik alanlardaki yükseköğretim programlarına (ön lisans) sınavsız veya sınavla geçiş hakkı elde edebilirler. Ayrıca alanında kurslar ve sertifika programlarıyla bilgi ve becerilerini geliştirebilirler.",
+  "is_hayatinda": "İşyerinde deneyim kazanan metal levha işlemecileri, ustabaşı veya atölye sorumlusu gibi görevlere yükselebilir, tecrübe ve sermaye biriktirdikçe kendi işyerini açarak işveren konumuna geçebilir."
+ },
+ "benzer_meslekler": [
+  "Karoserci",
+  "Sac İşçisi",
+  "Metal Sac İşleme İşçisi",
+  "Çelik Levha Bükücüsü",
+  "Otomotiv Kaporta İşçisi",
+  "Teneke Kutu İmal İşçisi"
+ ],
+ "ek_bilgiler": "\"Metal levha işlemeciliği, kesme, bükme, delme, perçinleme ve kaynak gibi birden fazla temel metal işleme becerisini bir arada gerektiren bir meslektir. Kaynak ve kesme işlemleri sırasında kullanılan ekipmanlar nedeniyle iş sağlığı ve güvenliği önlemlerine uyulması önemlidir.\"",
+ "gorevler": [
+  "Yapılacak eşyaya göre uygun metali seçer, işaretler ve keser.",
+  "Kalıplama, bükme veya dövme gibi işlemlerle metale şekil verir.",
+  "Vida yuvalarını zımba veya matkap ile deler.",
+  "Çizim planına göre parçaları birleştirir.",
+  "Pürüzlü yüzeyleri düzeltir.",
+  "Eşyanın kalaylanması gerekiyorsa kalay yapar.",
+  "Gerekli tamir işlerini yapar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T00:22:14",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 3501
+  }
+ }
+}

@@ -1,0 +1,84 @@
+{
+ "arac_gerec": [
+  "Ana makine ve yardımcı makineler",
+  "Jeneratörler ve elektrik dağıtım panoları",
+  "Pompalar, kazanlar, kompresörler",
+  "Soğutma, havalandırma ve klima sistemleri",
+  "Basınç, sıcaklık, debi ölçer gibi ölçüm ve kontrol cihazları",
+  "Yağ, yakıt ve su analiz kitleri",
+  "El aletleri ve tamir-bakım takımları",
+  "Kişisel koruyucu donanım (iş elbisesi, baret, eldiven, kulaklık, güvenlik ayakkabısı)",
+  "Yangın söndürme ve emniyet teçhizatı",
+  "Gemi makine izleme ve otomasyon yazılımları, bilgisayar",
+  "Telsiz ve interkom gibi iletişim cihazları",
+  "Teknik çizim, kullanım kılavuzu ve el kitapları"
+ ],
+ "benzer_meslekler": [
+  "Gemi Makineleri İşletme Mühendisi",
+  "Gemi İnşaatı ve Gemi Makineleri Mühendisi",
+  "Gemi ve Deniz Teknolojileri Mühendisi",
+  "Gemi ve Deniz Yapıları Mühendisi",
+  "Makine Bakım Şefi",
+  "Bakım Onarım Mühendisi"
+ ],
+ "calisma_alanlari": "Baş Mühendis (Gemi); yük gemisi, tanker, konteyner gemisi, yolcu gemisi gibi ticari gemilerin makine dairelerinde görev alır. Denizcilik ve armatörlük şirketleri, gemi işletme firmaları başlıca istihdam alanlarıdır. Ayrıca gemi inşa ve tersane firmalarında teknik danışmanlık, liman işletmelerinde ve denizcilik idarelerinde sörvey/denetim görevlerinde de çalışabilir.\\n\\nDeniz ticaretindeki dalgalanmalar, filo büyüklüğü ve sezonluk talep istihdamı etkileyebilir. Deneyimli ve kademeli yeterlilik belgelerine sahip baş mühendislere hem yerli hem yabancı bayraklı gemilerde talep bulunmaktadır.",
+ "calisma_ortami": "Baş Mühendis, geminin makine dairesinde; gürültülü, sıcak, titreşimli ve kapalı bir ortamda çalışır. Çalışma, geminin denizde bulunduğu süre boyunca vardiya düzeninde ve kesintisiz sürer; sefer süresi boyunca aileden uzun süre ayrı kalma söz konusudur. Makine dairesinde yanma, elektrik çarpması, kimyasal madde maruziyeti ve denge kaybı gibi riskler bulunduğundan iş sağlığı ve güvenliği kurallarına titizlikle uyulması gerekir.\\n\\nGörevi sırasında gemi kaptanı, diğer gemi zabitleri, makine personeli, armatör temsilcileri ve liman yetkilileriyle sürekli iletişim halindedir. Limanda bulunulan sürelerde de bakım, yedek parça temini ve yazışma gibi işler devam eder.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin lisans eğitimi, üniversitelerin ilgili fakültelerinde \"Gemi Makineleri İşletme Mühendisliği\" bölümünde verilmektedir. Bunun yanında denizcilik meslek liseleri ve denizcilik yüksekokullarındaki gemi makineleri alanındaki eğitimler de, belirli deniz hizmeti süresi ve sınavlarla kademeli olarak baş mühendislik yeterliliğine giden yollardan biridir.",
+  "giris_kosullari": [
+   "Lise veya dengi okul mezunu olmak",
+   "Yükseköğretim Kurumları Sınavı (YKS) kılavuzunda belirtilen giriş koşullarını (ilgili puan türü ve taban puanı) sağlamak",
+   "Denizcilik mesleğinin gerektirdiği sağlık ve fiziksel yeterlilik şartlarını (işitme, görme, renk ayırt etme gibi) taşımak"
+  ],
+  "sure_ve_icerik": "Lisans eğitimi 4 yıl sürer; teorik dersler makine, enerji ve gemi sistemleriyle ilgili uygulamalı laboratuvar çalışmaları ve gemide/işyerinde staj uygulamalarıyla desteklenir. Lisans eğitimini tamamlayanlar, ilgili idarenin gemi adamları mevzuatı kapsamında kademeli olarak (önce vardiya mühendisi, ardından ikinci mühendis gibi görevlerde) belirli süre deniz hizmeti alır ve bu süreçte zorunlu eğitim ve sınavlardan geçerek \"Baş Mühendis\" yeterlilik belgesine hak kazanır.",
+  "belge": "Gemi Makineleri İşletme Mühendisliği lisans diploması ve ilgili denizcilik idaresi tarafından, kademeli deniz hizmeti ve sınav sonucunda verilen Baş Mühendis yeterlilik belgesi."
+ },
+ "ek_bilgiler": "Baş Mühendislik unvanı, lisans diplomasının yanında belirli süre deniz hizmeti ve ilgili idarenin sınavlarıyla kademeli olarak kazanılan bir yeterlilik belgesine bağlıdır; bu nedenle mesleğe lisans eğitimiyle doğrudan başlamak mümkün değildir. Denizde çalışma riskleri nedeniyle periyodik sağlık muayeneleri ve belirli fiziksel uygunluk şartları aranır.",
+ "genel_ozellikler": [
+  "Sorumluluk sahibi ve güvenilir",
+  "Teknik konulara ilgili ve bu alanda başarılı",
+  "Ekip yönetebilen ve liderlik özelliklerine sahip",
+  "Dikkatli ve tedbirli",
+  "Fiziksel ve psikolojik olarak sağlıklı",
+  "Kapalı, dar ve gürültülü mekânlarda çalışmaya dayanıklı",
+  "Uzun süre denizde ve aileden ayrı kalmaya istekli",
+  "Acil durumlarda hızlı ve doğru karar verebilen"
+ ],
+ "gorevler": [
+  "Makine dairesi ve geminin makine ile ilgili bütün sistem ve teçhizatının düzenini ve temizliğini sağlar.",
+  "Makinelerin tekniğine uygun ve ekonomik bir şekilde çalışmasını sağlar.",
+  "Makine ve elektrikle ilgili gemide bulunması gereken malzeme ve yedek parçaları tespit eder, yetkililerden talep eder, gemiye gelen yedek parça ve malzemeleri kontrol ederek teslim alır.",
+  "Geminin ihtiyacı olan yağ, yakıt, su ve kimyasal madde miktarını tespit ve temin eder.",
+  "Emniyet ve kirliliği önleme ile ilgili sistemlerin ve teçhizatın bakımlarını yaptırır.",
+  "Acil durumlarda nasıl davranılacağı konusunda makine personelinin eğitimine katkı sağlar.",
+  "Personelin iş emniyetinin sağlanması için gerekli tedbirleri alır.",
+  "Makine kısmına gelen bilgileri personele duyurur.",
+  "Makine ile ilgili sistemlerin ve teçhizatın sörveye hazırlanmasını sağlar.",
+  "Makine personelinin liman, seyir vardiyalarını onaylar, düzenler, kontrol eder.",
+  "Kendi sorumluluğundaki makine ve teçhizatın gerekli kontrollerinin ve bakımlarının yapılmasını sağlar.",
+  "Makine kısmına ait yazışmaları hazırlar/hazırlatır.",
+  "Makine dairesiyle ilgili yakıt, yağ işlerinden dolayı yapılacak boşaltmalarda deniz denetimini yapar, gerekli tedbirlerin alınmasını sağlar.",
+  "Acil durumlarda ilgili prosedürlerin makine bölümüne yüklediği görevlerin yerine getirilmesini sağlar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Gemi makineleri mühendisliği alanında yüksek lisans ve doktora yaparak akademik kariyere yönelebilir. İlgili idarenin mevzuatı kapsamında ek eğitim ve sınavlarla kademeli yeterlilik basamaklarında (vardiya mühendisliğinden ikinci mühendisliğe, oradan baş mühendisliğe) ilerleyebilir.",
+  "is_hayatinda": "Deneyim kazanan baş mühendisler, denizcilik ve armatörlük şirketlerinde teknik müdürlük, filo işletme müdürlüğü gibi karada görev alan yönetici pozisyonlarına; ayrıca gemi sörvey, denetim ve teknik danışmanlık görevlerine yükselebilirler."
+ },
+ "kazanc": {
+  "egitim_suresince": "Lisans eğitimi süresince öğrenim kredisi, harç kredisi ve çeşitli kurum/kuruluşların burs olanaklarından yararlanılabilir.",
+  "egitim_sonrasi": [
+   "Kazanç; çalışılan gemi türüne, armatör firmaya, deneyim ve kıdeme göre değişir.",
+   "Deniz hizmeti genellikle sözleşmeli esasa dayanır ve ücretler karşılıklı anlaşmaya göre belirlenir; kıdemli baş mühendislerin kazancı yeni göreve başlayanlara göre belirgin şekilde yüksektir.",
+   "Kamu kurumlarında istihdam edilmesi halinde 657 sayılı Devlet Memurları Kanunu'na göre ücretlendirilir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-07T21:24:42",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 7375
+  }
+ }
+}

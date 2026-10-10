@@ -1,0 +1,78 @@
+{
+ "arac_gerec": [
+  "Plastik ekstrüzyon makinesi",
+  "Ekstrüzyon kalıpları",
+  "Kalibre (soğutma/şekillendirme kalıbı)",
+  "Kaldırma ve taşıma ekipmanları (vinç, caraskal, forklift)",
+  "El takımları (anahtar takımı, tornavida, pense)",
+  "Zımpara ve temizleme gereçleri",
+  "Ölçü aletleri (kumpas, mikrometre, mastar)",
+  "Soğutma ve vakum sistemi bağlantı elemanları",
+  "Yağlama ve bakım malzemeleri",
+  "Torkmetre",
+  "Kişisel koruyucu donanım (eldiven, gözlük, iş elbisesi, kulaklık)"
+ ],
+ "benzer_meslekler": [
+  "Plastik Ekstrüzyon Makinesi Operatörü (Ekstrüder)",
+  "Plastik Profil Üretim Operatörü (Ekstrüzyon)",
+  "Plastik Levha ve Dökme Film Üretim Operatörü (Ekstrüzyon)",
+  "Plastik Şişirme Film Üretim Operatörü (Ekstrüzyon)",
+  "Plastik Enjeksiyon Kalıpçısı",
+  "Plastik Boru İmal İşçisi"
+ ],
+ "calisma_alanlari": "Plastik Ekstrüzyon Kalıpçıları, plastik boru, profil, levha, film ve benzeri ürünlerin ekstrüzyon yöntemiyle üretildiği fabrika ve atölyelerde çalışırlar. Bu işletmeler genellikle özel sektöre aittir ve plastik ambalaj, inşaat malzemesi, boru-profil, ambalaj filmi gibi alt sektörlerde yoğunlaşır. Plastik sektörünün üretim hacminin ve çeşitliliğinin artmasına bağlı olarak, kalıp bağlama ve makine ayar bilgisine sahip, deneyimli meslek mensuplarına işletmelerde sürekli ihtiyaç duyulmaktadır.",
+ "calisma_ortami": "Plastik Ekstrüzyon Kalıpçıları genellikle fabrika ve atölyelerin üretim bölümlerinde, kapalı mekânlarda çalışırlar. Çalışma ortamı makinelerin çalışma sesine bağlı olarak gürültülü, ekstrüzyon hattının ısısı nedeniyle sıcak olabilir; ayrıca eriyik plastik, hareketli makine parçaları ve ağır kalıpların kaldırılıp taşınması nedeniyle iş kazası riski taşır. Bu nedenle iş sağlığı ve güvenliği kurallarına uyum büyük önem taşır.\n\nÇalışma genellikle ayakta ve bazen vardiyalı sistemde sürdürülür. Meslek mensupları çalışmaları sırasında makine operatörleri, bakım-onarım personeli, üretim şefleri ve diğer işçilerle sürekli iş birliği içinde bulunur.",
+ "egitim": {
+  "verildigi_yerler": "Plastik Ekstrüzyon Kalıpçılığı için ayrı bir örgün meslek lisesi alanı veya diploma programı bulunmamaktadır. Meslek, genellikle plastik üretim işletmelerinde işbaşında usta yanında yetişilerek; ayrıca Halk Eğitim Merkezleri, mesleki eğitim merkezleri ve İŞKUR'un açtığı mesleki eğitim kursları aracılığıyla kazanılmaktadır.",
+  "giris_kosullari": [
+   "En az ilkokul/ilköğretim mezunu olmak",
+   "Fiziksel olarak ağır kalıpları kaldırma, taşıma ve ayakta çalışmaya uygun sağlık durumuna sahip olmak",
+   "İşyerinde çalışmaya başlamak için ilgili işveren ile anlaşmak"
+  ],
+  "sure_ve_icerik": "Mesleğe giriş için belirli ve standart bir eğitim süresi bulunmamaktadır. Kişi genellikle işletmede yardımcı eleman olarak başlar; deneyimli bir usta veya ustabaşının gözetiminde kalıp bağlama, kalibre ayarlama, soğutma ve vakum sistemi bağlantıları gibi işlemleri uygulamalı olarak öğrenir. Bu süreç işletmenin büyüklüğüne ve kişinin öğrenme hızına göre değişmekle birlikte genellikle birkaç ay ile bir yıl arasında sürer. Kurs ve seminerlerle plastik malzeme bilgisi, kalıp bakımı ve iş güvenliği konularında teorik bilgi desteklenebilir.",
+  "belge": "Örgün eğitim sonunda verilen bir diploma bulunmamaktadır. Katılınan kurslar sonunda kurs bitirme belgesi alınabilir. Mesleki Yeterlilik Kurumu (MYK) Mesleki Yeterlilik Belgesi istihdamda tercih sebebi olabilir."
+ },
+ "ek_bilgiler": "Ağır kalıpların kaldırılması ve taşınması, makine ve kalıp sıcaklığına bağlı riskler nedeniyle meslek mensuplarının iş sağlığı ve güvenliği kurallarına titizlikle uyması gerekir.",
+ "genel_ozellikler": [
+  "Mekanik yeteneğe sahip,",
+  "Dikkatli ve sabırlı,",
+  "El ve göz koordinasyonu iyi,",
+  "Fiziksel olarak dayanıklı ve ağır işlere uygun,",
+  "Sorumluluk sahibi,",
+  "Ekip çalışmasına uyumlu,",
+  "Ölçü aletlerini ve teknik çizimleri okuyup yorumlayabilen,"
+ ],
+ "gorevler": [
+  "Kalıp bağlanmasında güvenlik ile ilgili önlemleri alır.",
+  "Kalıpların taşınmasında kullanılacak yeterli kapasitedeki kaldırma, taşıma araçlarını hazırlar.",
+  "Makine üzerinde önceden bağlanmış başka bir kalıp ve kalibre var ise bağlantıları uygun biçimde söker.",
+  "Kalıbın montajı yapılmadan önce gerekli ise parçaları söker, uygun zımpara ve temizleme gereçleri ile bakımını ve temizliğini gerçekleştirir.",
+  "Kalıp elemanlarını uygun kaldırma taşıma aracı ile makine üzerindeki konumuna getirerek montaj sırasına göre makineye tespit eder.",
+  "Ekstrüzyon kalıbını ve kalibresini makineye bağlar.",
+  "Kalıp kalibresini makineye tespit eder.",
+  "Kalibre ayarlarını yapar.",
+  "Soğutma ve vakum sistemi bağlantılarını yapar.",
+  "Bağlantıları kontrol eder.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleki eğitimde ilerleme için standart bir yükseköğretime geçiş yolu bulunmamaktadır. İlgi duyan kişiler plastik teknolojileri, makine veya endüstriyel üretim alanlarındaki mesleki ve teknik eğitim programlarına, kurslara ve MYK yeterlilik sınavlarına katılarak bilgi ve becerilerini geliştirebilir ve belgelendirebilir.",
+  "is_hayatinda": "Deneyim kazanan meslek mensupları ustabaşılığa, vardiya amirliğine ve üretim/bakım şefliği gibi görevlere yükselebilir. Kalıp üretimi ve bakımı konusunda uzmanlaşarak kalıphane sorumluluğu üstlenebilirler."
+ },
+ "kazanc": {
+  "egitim_suresince": "Mesleğe genellikle işletmede çalışmaya başlayarak girildiğinden, eğitim süresince kazanç durumu işveren ile yapılan anlaşmaya göre belirlenir; bu dönemde genellikle asgari ücret düzeyinde bir gelir söz konusudur.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanların kazancı genellikle asgari ücret düzeyindedir.",
+   "Çalışılan işyerinin büyüklüğü, kişinin tecrübesi, bilgisi ve sektörün ücret düzeyine göre kazanç değişebilir.",
+   "Özel sektörde çalışanların ücreti işveren ile karşılıklı anlaşmaya bağlıdır; kamuda işçi statüsünde istihdam söz konusu olduğunda toplu iş sözleşmesi hükümleri uygulanır."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T12:55:37",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5460
+  }
+ }
+}

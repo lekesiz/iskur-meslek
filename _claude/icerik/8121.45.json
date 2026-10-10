@@ -1,0 +1,79 @@
+{
+ "arac_gerec": [
+  "Testere tezgahı (sıcak kesim testeresi)",
+  "Yedek testere bıçağı/diski",
+  "Bileme taşı veya bileme makinesi",
+  "Kaldırma ve taşıma ekipmanları (vinç, kreyn, kanca, maşa)",
+  "Kumpas, metre, şerit metre",
+  "Anahtar takımı, tornavida takımı",
+  "Isıya dayanıklı koruyucu iş elbisesi",
+  "Koruyucu gözlük ve yüz siperi",
+  "Isıya dayanıklı eldiven",
+  "Baret",
+  "Kulak koruyucu (kulaklık/tıkaç)",
+  "Çelik burunlu güvenlik ayakkabısı",
+  "Soğutma/yağlama sıvısı",
+  "İş emri formları ve üretim kayıt defteri",
+  "Yangın söndürme cihazı"
+ ],
+ "benzer_meslekler": [
+  "Hadde Makasçısı (Sıcak Haddehane)",
+  "Doğrultma İşçisi-Metal (Sıcak Haddehane)",
+  "Sıcak Haddeci-Çelik",
+  "Metal Levha Markacısı-Sıcak Haddehane",
+  "Hadde Ayarcısı (Metal)",
+  "Haddehane Maniplatörü"
+ ],
+ "calisma_alanlari": "Testere Tezgahı İşçisi (Sıcak Haddehane), demir-çelik fabrikaları ve haddehanelerin bulunduğu metal işleme tesislerinde çalışır. Çalışma alanları; sıcak haddehanesi bulunan küçük, orta ve büyük ölçekli özel sektör metal sanayi işletmeleridir. Kamu iktisadi teşekküllerine bağlı demir-çelik tesislerinde de istihdam olanağı bulunmaktadır. İş bulma olanakları, sanayi bölgeleri ve organize sanayi bölgelerindeki metal üretim tesislerinin yoğunluğuna göre değişmektedir.",
+ "calisma_ortami": "Testere Tezgahı İşçisi (Sıcak Haddehane), haddehane içindeki kapalı fabrika ortamında çalışır. Çalışma ortamı, haddeden çıkan kızgın metal nedeniyle yüksek sıcaklık, kıvılcım, yoğun gürültü ve titreşim içerir; iş sağlığı ve güvenliği tedbirlerine eksiksiz uyulması gerekir. Ayakta ve genellikle vardiyalı (gece dahil) çalışılır, bazen uzun saatler fiziksel efor gerektirir.\n\nÇalışma sırasında hadde ustaları, diğer haddehane işçileri, bakım-onarım personeli ve usta başı ile sürekli iletişim ve koordinasyon içinde bulunulur. İş, dikkat ve reflekslerin yoğun kullanılmasını gerektirdiğinden kısa süreli de olsa dalgınlık kaza riskini artırabilir.",
+ "egitim": {
+  "verildigi_yerler": "Testere Tezgahı İşçisi (Sıcak Haddehane) mesleğine özgü, resmî olarak tanımlanmış örgün bir meslek lisesi programı bulunmamaktadır. Meslek, genellikle demir-çelik ve haddehane işletmelerinde işbaşında usta yanında yetişme yoluyla kazanılmaktadır. Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kursları ile de temel bilgi ve beceriler edinilebilir. Metal Teknolojisi alanındaki mesleki ve teknik eğitim kurumlarından mezun olanlar, bu mesleğe daha kolay uyum sağlayabilir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "18 yaşını doldurmuş olmak (ağır ve riskli çalışma koşulları nedeniyle)",
+   "Sağlık durumunun yüksek ısı ve fiziksel güç gerektiren çalışmaya uygun olduğunu belgelendirmek",
+   "Fiziksel olarak dayanıklı ve koordinasyonu iyi olmak"
+  ],
+  "sure_ve_icerik": "Mesleğin öğrenimi için belirli bir süre ve müfredatla tanımlanmış resmî bir okul programı bulunmamaktadır. Eğitim, genellikle işletmeye yeni giren işçinin deneyimli usta ve işçilerin gözetiminde, tezgahın ölçüye göre ayarlanması, malzemenin tezgaha yerleştirilmesi, kesim işleminin gerçekleştirilmesi, testerenin bilenmesi ve değiştirilmesi ile tezgah bakımı konularını uygulamalı olarak öğrenmesiyle gerçekleşir. Bu süreç, kısa süreli iş güvenliği ve mesleki eğitim kurslarıyla desteklenebilir.",
+  "belge": "Resmî bir diploma zorunluluğu bulunmamaktadır. Katılınan kurslar sonunda kurs bitirme/katılım belgesi alınabilir. Mesleki Yeterlilik Kurumu (MYK) tarafından ilgili alanda bir yeterlilik belgesi düzenlenmiş olması hâlinde, bu belgeye sahip olmak istihdamda tercih sebebi olabilir."
+ },
+ "ek_bilgiler": "Bu meslek, yüksek sıcaklıkta ve ağır fiziksel koşullarda çalışmayı gerektirdiğinden, işe alımlarda genellikle 18 yaş ve üzeri olma şartı ile sağlık raporu istenebilir. İşletmeler, çalışanlarına iş sağlığı ve güvenliği konusunda düzenli eğitim ve kişisel koruyucu donanım sağlamakla yükümlüdür.",
+ "genel_ozellikler": [
+  "Dikkatli,",
+  "El ve göz koordinasyonu iyi,",
+  "Fiziksel olarak güçlü ve dayanıklı,",
+  "Yüksek ısıya ve gürültülü ortama karşı dayanıklı,",
+  "El becerisine sahip,",
+  "Makine ve tezgahları kullanabilen,",
+  "İş güvenliği kurallarına titizlikle uyan,",
+  "Sorumluluk sahibi ve takım çalışmasına uygun,"
+ ],
+ "gorevler": [
+  "Kesilecek malzemenin ölçülerine göre tezgahı ayarlar,",
+  "Kesilecek malzemeyi tezgaha yerleştirir, testere altına getirerek metalin kesilmesini sağlar,",
+  "Tezgahın bakım ve temizliğini yapar,",
+  "Körelen testereyi tezgahtan söker ve yenisini takar,",
+  "Arızaları bakımcılarına bildirir ve onartır,",
+  "Körelen testereleri biler,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Bu meslekte örgün bir eğitim programı çerçevesinde kalfalık-ustalık gibi resmî bir ilerleme basamağı tanımlanmamıştır. Çalışan, deneyim kazandıkça haddehanedeki daha nitelikli makine operatörlüğü görevlerine (örneğin hadde ayarcılığı, hadde makasçılığı gibi) geçiş yapabilir.",
+  "is_hayatinda": "Deneyim, performans ve işletme içi eğitimlerle usta başılığa, vardiya amirliğine veya haddehane formenliğine yükselme mümkündür. Ayrıca farklı haddehane makinelerinin kullanımını öğrenerek operatörlük alanında yatay ilerleme sağlanabilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Meslek resmî bir çıraklık/mesleki eğitim programı kapsamında öğrenilmiyorsa, işe yeni başlayanlar genellikle işletmenin belirlediği ücret ile (çoğunlukla asgari ücret düzeyinde) çalışmaya başlar. Eğer işletme bünyesinde 3308 sayılı Mesleki Eğitim Kanunu kapsamında bir eğitim süreci yürütülüyorsa, öğrencilere yasada belirtilen oranlarda ücret ödenir ve sigorta primleri karşılanır.",
+  "egitim_sonrasi": [
+   "Kamu kuruluşlarına bağlı tesislerde işçi statüsünde çalışanlar, toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde çalışanların ücreti; işyerinin büyüklüğü, çalışanın tecrübesi, işin yoğunluğu ve vardiya düzenine göre değişmekte, yeni başlayanlar genellikle asgari ücret düzeyinde kazanç elde etmektedir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T11:18:10",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5726
+  }
+ }
+}

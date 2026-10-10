@@ -1,0 +1,77 @@
+{
+ "arac_gerec": [
+  "Karıştırıcı (mikser) ünitesi",
+  "Pompa ünitesi",
+  "Kumanda tablosu/panosu",
+  "Konveyör bant sistemi",
+  "Boru hattı ve bağlantı parçaları",
+  "Ağaç ve kenevir baraj malzemeleri",
+  "El aletleri (anahtar takımı, pense, tornavida)",
+  "Kişisel koruyucu donanım (baret, kafa lambası, gözlük, eldiven, maske, kulaklık, çelik burunlu bot, iş elbisesi)",
+  "Yeraltı telefonu/telsizi",
+  "Basit onarım ve bakım takımları",
+  "Metre"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve tedbirli,",
+  "Fiziksel olarak güçlü ve dayanıklı,",
+  "Makine ve ekipman kullanımına yatkın,",
+  "El ve göz koordinasyonu gelişmiş,",
+  "Ekip çalışmasına uyumlu,",
+  "Sorumluluk sahibi,",
+  "Kapalı ve dar alanlarda çalışmaya elverişli,",
+  "Kurallara uyan,"
+ ],
+ "calisma_ortami": "Dolgu Makinesi Operatörü, yer altı maden ocaklarında üretim yapılmış galeri, ocak ve tali kısımlarda, genellikle kapalı, nemli, tozlu, gürültülü ve sınırlı aydınlatılmış bir ortamda çalışır. Çalışma sırasında ayakta durarak ve belirli bir fiziksel güç gerektiren hareketlerle (malzeme doldurma, boru döşeme, baraj kurma gibi) görev yapar; ortamda zaman zaman gaz birikimi, zemin kaygıları ve düşük sıcaklık gibi riskler bulunabilir.\n\nÇalıştığı işletmenin vardiya düzenine bağlı olarak dönüşümlü (gece-gündüz) çalışabilir. Çalışma süresince işveren tarafından sağlanan kişisel koruyucu donanımı kullanır. Görevini yerine getirirken tahkimatçı, nakliyat işçisi, ocak nezaretçisi, elektrik işçisi gibi diğer yer altı çalışanlarıyla iş birliği içinde hareket eder.",
+ "gorevler": [
+  "Dolgu yapılacak malzemeyi karıştırıcıya doldurur.",
+  "Pompa ünitesinden dolgu yapılacak kısma boruları döşer.",
+  "Dolgu malzemesinin etrafa yayılmasını önlemek üzere doldurulacak kısmın etrafına ağaç ve kenevirle baraj kurar.",
+  "Boru ucunu dolgu yapılacak boşluğa sokar.",
+  "Karıştırıcıyı çalıştırır.",
+  "Karıştırılan malzemenin konveyör vasıtasıyla pompa ünitesine gelmesini ve dolgu yapılacak kısma pompalanmasını sağlamak için makineyi kumanda tablosundan otomatik olarak çalıştırır.",
+  "Dolgu malzemesi donduktan sonra barajı kaldırır.",
+  "Makinenin basit onarımlarını ve bakımını yapar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Dolgu Makinesi Operatörlüğü için örgün bir meslek lisesi programı bulunmamaktadır. Mesleğe genellikle maden işletmelerinde işbaşında usta yanında yetişerek veya Halk Eğitim Merkezleri ile İŞKUR'un açtığı madencilik alanındaki mesleki eğitim kurslarına katılarak girilmektedir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "18 yaşını doldurmuş olmak",
+   "Yer altında ağır ve tehlikeli işlerde çalışabilir sağlık raporuna sahip olmak"
+  ],
+  "sure_ve_icerik": "Kurs veya işbaşı eğitiminin süresi, uygulandığı kuruma ve işletmenin ihtiyacına göre değişmektedir. Eğitimde dolgu makinesi ve pompa ünitesinin çalışma prensipleri, karıştırıcı ve boru hattı sistemlerinin kullanımı, baraj kurma teknikleri, makinenin basit bakım ve onarımı ile iş sağlığı ve güvenliği konuları yer alır. İşveren tarafından verilen iş başı eğitimi ve İSG kursları bu süreci tamamlar.",
+  "belge": "Kurs bitirme belgesi veya işveren tarafından düzenlenen iş başı eğitim/sertifika belgesi verilebilir."
+ },
+ "calisma_alanlari": "Dolgu Makinesi Operatörü, kömür ve metal madenciliği yapılan yer altı işletmelerinde, üretim yapılmış galeri, ocak ve tali kısımlardaki boşlukların doldurulması (dolgu) işlerinin yürütüldüğü bölümlerde çalışır. Kamuya veya özel sektöre bağlı maden işletmelerinde istihdam edilebilir. İş bulma olanakları, madencilik sektörünün üretim hacmine ve bölgesel maden işletmelerinin faaliyet durumuna bağlı olarak değişkenlik gösterir.",
+ "kazanc": {
+  "egitim_suresince": "Kurs döneminde genellikle bir kazanç söz konusu değildir; işbaşında usta yanında yetişme sürecinde işletmenin uygulamasına bağlı olarak sınırlı bir ücret ödenebilir.",
+  "egitim_sonrasi": [
+   "Yer altı maden işlerinde çalışanların günlük çalışma süresi en çok 7,5 saat, haftalık çalışma süresi en çok 37,5 saat olarak kanunla sınırlandırılmıştır.",
+   "Yeni başlayanlar için kazanç genellikle asgari ücret düzeyinde başlar; yer altında çalışanlara ilişkin ücret düzenlemeleri ilgili mevzuata göre belirlenir.",
+   "Deneyim, bilgi birikimi ve çalışılan işletmenin büyüklüğüne göre kazanç artış gösterebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğe özgü kademeli bir örgün eğitim ilerleme basamağı bulunmamaktadır.",
+  "is_hayatinda": "Mesleki tecrübe, bilgi birikimi ve yeteneklerine göre usta başılığa, vardiya amirliğine veya nezaretçiliğe doğru ilerleyebilir."
+ },
+ "benzer_meslekler": [
+  "Tahkimatçı-Maden Ocağı",
+  "Tesis İşçisi (Maden)",
+  "Yeraltı Hazırlık İşçisi (Madencilik ve Maden Çıkarma)",
+  "Otomatik Maden Makinesi Operatörü",
+  "Kumanda Merkezi Operatörü (Kömür Madeni)",
+  "Yeraltı Üretim İşçisi"
+ ],
+ "ek_bilgiler": "Yer altı maden işleri genel olarak tehlikeli ve çok tehlikeli işler kapsamında değerlendirilir; bu nedenle bazı yer altı mesleklerinde Mesleki Yeterlilik Kurumu (MYK) belgesi zorunlu tutulmaktadır. Dolgu Makinesi Operatörlüğü için bu tür bir zorunluluğun kapsamı değişebileceğinden, ilgili güncel mevzuatın takip edilmesi önerilir. MYK belgesi, zorunlu olmasa da istihdamda tercih sebebi olabilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T10:12:31",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5505
+  }
+ }
+}

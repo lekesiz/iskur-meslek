@@ -1,0 +1,82 @@
+{
+ "arac_gerec": [
+  "Sterilizasyon cihazları (otoklav)",
+  "Diş üniti",
+  "Periodontal cerrahi aletleri (küret, elevatör, periodontal sond vb.)",
+  "Ameliyat seti ve steril örtüler",
+  "Diş taşı temizleme (skeyling) aletleri ve ultrasonik cihazlar",
+  "Steril paketleme ve ambalaj malzemeleri",
+  "Enjektör ve kan alma tüpleri",
+  "Tansiyon aleti",
+  "Kişisel koruyucu ekipman (eldiven, maske, gözlük, önlük)",
+  "Dezenfektan ve antiseptik solüsyonlar",
+  "Malzeme stok ve takip kayıt formları",
+  "Teknik arıza bildirim ve bakım takip formları"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve titiz,",
+  "Hijyen ve sterilizasyon kurallarına duyarlı,",
+  "El ve göz koordinasyonu iyi,",
+  "Sorumluluk sahibi,",
+  "Hastalar ve hekiplerle iyi iletişim kurabilen,",
+  "Ekip çalışmasına uyumlu,",
+  "Stresli ve yoğun ortamda sakin kalabilen,",
+  "Öğrenmeye ve mesleki gelişime açık"
+ ],
+ "gorevler": [
+  "Diş steril alet ve malzemelerini hazırlar.",
+  "Kullanılan kirli aletleri yıkadıktan sonra steril merkezine gönderir.",
+  "Diş eti ameliyatları için ameliyat seti hazırlar.",
+  "Ameliyathanede kullanılan kirli setleri toplar, steril merkezine gönderir.",
+  "Diş taşı temizleme aletlerini ve diş ünitelerini hazırlar, kirli olanları sterilizasyona gönderir.",
+  "Öğrencilerin kullanacağı steril aletleri verir, kirli olanları toplar.",
+  "Araştırma amacıyla istenilen hastalardan kan alır.",
+  "Diş ünit bakımı yapar, hastaların tansiyonlarına bakar.",
+  "Bölümde kullanılan diş malzemelerinin listesini tutar, ihtiyaç olanları temin eder.",
+  "Diş steril malzemelerini steril öncesi ve sonrası teslim alır.",
+  "Diş kliniğinde kullanılan malzemelerin takibini yapar.",
+  "Diş ünite bakım teknik malzemelerinin tamir ve bakımını yaptırır.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "calisma_ortami": "\"Hemşire (Periodontoloji), diş hekimliği fakültelerinin periodontoloji kliniklerinde, hastanelerin ağız ve diş sağlığı/periodontoloji bölümlerinde veya ağız ve diş sağlığı merkezlerinde çalışır. Çalışma ortamı kapalı, klinik ve ameliyathane niteliğinde, hijyen kurallarının sıkı uygulandığı ancak kan ve vücut sıvılarıyla temas, enfeksiyon ve kesici-delici alet yaralanması riski taşıyan bir ortamdır. Çalışma genellikle ayakta ve dikkat gerektiren işlemler şeklinde sürer.\\n\\nÇalışma saatleri çoğunlukla poliklinik/klinik çalışma düzenine göre gündüz mesaisi şeklindedir; görev yapılan kurumun yapısına göre nöbet veya vardiyalı çalışma da söz konusu olabilir. Meslek mensubu; diş hekimleri, diğer hemşireler, öğrenciler, hastalar ve hasta yakınlarıyla sürekli ve yakın iletişim halinde görev yapar.\"",
+ "egitim": {
+  "verildigi_yerler": "Meslek eğitimi, üniversitelere bağlı hemşirelik yüksekokulları/fakültelerinde verilen 4 yıllık \"Hemşirelik\" lisans programı kapsamında alınır. Periodontoloji alanında çalışabilmek için ek olarak, görev yapılan klinikte hekim ve deneyimli hemşireler gözetiminde işbaşı eğitimi ile bu alana özgü bilgi ve beceriler kazanılır.",
+  "giris_kosullari": [
+   "Lise veya dengi okul mezunu olmak",
+   "YKS (Yükseköğretim Kurumları Sınavı) kılavuzunda belirtilen giriş koşullarını taşımak ve hemşirelik bölümünü tercih ederek yeterli puanı almak",
+   "Önlisans programı mezunlarının Dikey Geçiş Sınavı (DGS) ile hemşirelik lisans programına geçiş yapabilmesi"
+  ],
+  "sure_ve_icerik": "Hemşirelik lisans eğitimi 4 yıl sürer ve teorik derslerle klinik uygulamaları birlikte içerir. Eğitim kapsamında anatomi-fizyoloji, mikrobiyoloji, sterilizasyon ve dezenfeksiyon ilkeleri, farmakoloji, temel hasta bakımı, cerrahi hastalıkları hemşireliği gibi konular işlenir. Periodontoloji alanına özgü bilgi ve beceriler (ağız-diş sağlığı, periodontal cerrahi seti hazırlama, sterilizasyon uygulamaları, diş üniti kullanımı, kan alma teknikleri vb.) ise genellikle lisans eğitimi sonrasında, görevlendirildiği klinikte işbaşında kazandırılır.",
+  "belge": "Eğitimi başarıyla tamamlayanlara hemşirelik lisans diploması verilir. Periodontoloji alanında görevlendirilme, bu diplomaya ek olarak kurum içi görevlendirme ve klinik deneyime bağlıdır."
+ },
+ "calisma_alanlari": "\"Hemşire (Periodontoloji) için başlıca çalışma alanları üniversitelere bağlı diş hekimliği fakültelerinin periodontoloji anabilim dalları, kamu ve özel hastanelerin ağız ve diş sağlığı/periodontoloji bölümleri ile ağız ve diş sağlığı merkezleridir. Hemşirelik mesleğinin genel istihdam olanaklarının yüksek olması nedeniyle bu alanda deneyim kazanan hemşireler için iş bulma olanağı görece elverişlidir; ancak periodontoloji alanına özgü doğrudan kadro sayısı, genel hemşirelik kadrolarına kıyasla sınırlıdır.\"",
+ "kazanc": {
+  "egitim_suresince": "Lisans eğitimi süresince öğrenciler Kredi ve Yurtlar Kurumunun öğrenim kredisi ve yurt hizmetlerinden yararlanabilir; bazı üniversiteler ayrıca burs imkânı sağlayabilir.",
+  "egitim_sonrasi": [
+   "Kamu sağlık kurumlarında çalışanlar 657 sayılı Devlet Memurları Kanunu'na göre ücretlendirilir.",
+   "Özel sağlık kurumlarında çalışanların ücreti işyeri, deneyim ve yapılan iş sözleşmesine göre değişir.",
+   "Mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde veya buna yakın bir ücretle çalışmaya başlar; deneyim arttıkça kazanç düzeyi yükselir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Hemşirelik lisans eğitimini tamamlayanlar yüksek lisans ve doktora yaparak uzman hemşire, akademisyen veya araştırmacı olabilir. Periodontoloji alanında bilgi ve becerilerini geliştirmek isteyenler ilgili bilimsel kurs ve sertifika programlarına katılabilir.",
+  "is_hayatinda": "Deneyim kazanan hemşireler sorumlu hemşire, servis/bölüm sorumlusu veya başhemşire gibi görevlere yükselebilir; ayrıca kurum içi klinik eğitim hemşiresi veya öğrenci eğitiminden sorumlu hemşire olarak görev alabilirler."
+ },
+ "benzer_meslekler": [
+  "Hemşire (Dişçilik)",
+  "Sterilizasyon Hemşiresi (Dişçilik)",
+  "Hemşire-Klinik",
+  "Hemşire-Ameliyathane",
+  "Hemşire",
+  "Hemşire (Kan Alma)"
+ ],
+ "ek_bilgiler": "\"Bu meslek, diş hekimliği fakülteleri ile hastanelerin periodontoloji/ağız ve diş sağlığı bölümlerinde görev yapan bir hemşirelik uzmanlık alanıdır. Diş eti ameliyatları ve diş taşı temizleme işlemlerinde kullanılan alet ve malzemelerin sterilizasyonu ile hazırlığı mesleğin merkezinde yer aldığından, enfeksiyon kontrolü ve sterilizasyon kurallarına titizlikle uyulması büyük önem taşır.\"",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-07T23:12:03",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6372
+  }
+ }
+}

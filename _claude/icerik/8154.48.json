@@ -1,0 +1,78 @@
+{
+ "arac_gerec": [
+  "Merserize kumaş (terbiye) makinesi",
+  "Kostik soda eritme kazanı",
+  "Buhar kazanı ve pompa sistemi",
+  "Isı ve basınç kontrol panelleri",
+  "Kumaş kılavuz aparatları",
+  "Kumaş ucu birleştirme (dikiş) makinesi",
+  "Yıkama/durulama üniteleri",
+  "Numune alma ve kontrol aparatları",
+  "El aletleri (bakım-onarım için)",
+  "Kişisel koruyucu donanım (eldiven, önlük, gözlük, maske, çizme)"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve titiz,",
+  "El becerisine sahip,",
+  "Fiziksel olarak dayanıklı,",
+  "Kimyasal maddelerle çalışmaya elverişli sağlık durumuna sahip,",
+  "Talimatlara uygun hareket edebilen,",
+  "Sorumluluk sahibi,",
+  "Ekip çalışmasına yatkın,",
+  "Vardiyalı çalışmaya uygun"
+ ],
+ "gorevler": [
+  "İşletmenin genel çalışma prensipleri doğrultusunda, araç, gereç ve ekipmanları etkin bir şekilde kullanarak, işçi sağlığı, iş güvenliği ve çevre koruma düzenlemelerine ve mesleğin verimlilik ve kalite gereklerine uygun olarak:",
+  "Makinenin kazanına belirli miktarda eritilmiş kostik alır,",
+  "Makineye buhar gönderip ilgili pompayı çalıştırarak kostiğin makine içinde dolaşmasını sağlar,",
+  "Merserize olacak kumaş ucunu makine üzerindeki kılavuzlardan geçirir veya makine üzerinde takılı bulunan kılavuzu kumaşın ucuna diker,",
+  "Makineyi çalıştırıp, makinenin çalışmasını ve kumaşın makineye girişini kontrol eder,",
+  "Çapraz olarak makineye giren kumaşı düzeltir,",
+  "Isı ve basıncı düzenler,",
+  "Makineden çıkan kumaşı muayene edip neticeye göre işlemi uzatır veya durdurur,",
+  "Makineyi temizler,",
+  "Makinenin bakım ve onarımını yapar,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "calisma_ortami": "\"Merserize kumaş makinesi işçisi, kapalı ortamda, tekstil terbiye (apre) işletmelerinin üretim bölümlerinde çalışır. Çalışma ortamı, kostik soda gibi tahriş edici ve aşındırıcı kimyasal maddelerin kullanılması nedeniyle dikkat gerektirir; ayrıca buhar kullanımına bağlı olarak nemli ve sıcaktır. Ortamda gürültü, ıslak-kaygan zemin, kimyasal koku ve buhar gibi olumsuz koşullar bulunabileceğinden kişisel koruyucu donanım (eldiven, önlük, gözlük, çizme vb.) kullanımı önemlidir.\\n\\nÜretim genellikle vardiya usulü yürütüldüğünden çalışma saatleri değişkenlik gösterebilir. Meslek elemanı; vardiya arkadaşları, bölüm/atölye sorumlusu, bakım personeli ve kalite kontrol çalışanlarıyla sürekli iletişim halinde görev yapar.\"",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin ayrı, standart bir örgün eğitim dalı bulunmamaktadır. Meslek genellikle işyerlerinde işbaşında usta yanında öğrenilir; ayrıca Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kursları ile mesleki eğitim merkezlerinin tekstil teknolojisi alanı bünyesindeki ilgili dallarda da bilgi ve beceri kazanılabilir.",
+  "giris_kosullari": [
+   "İlköğretim mezunu olmak",
+   "Sağlık durumunun kimyasal maddelerle ve vardiyalı çalışmaya elverişli olması",
+   "Kurs veya çıraklık eğitimine başvuracaklar için ilgili yaş ve kayıt şartlarını taşımak"
+  ],
+  "sure_ve_icerik": "Mesleğin belirli bir örgün eğitim süresi bulunmamaktadır. Eğitim; kostik hazırlama, makine kullanımı, ısı-basınç ayarlarının yapılması, kumaşın kontrolü ve makinenin temizlik-bakımı gibi konularda uygulamalı olarak işyerinde verilir. Halk Eğitim Merkezleri veya İŞKUR tarafından açılan mesleki eğitim kurslarına katılarak da temel teorik ve uygulamalı bilgiler edinilebilir.",
+  "belge": "İşyerinde edinilen deneyim esastır. Katılınan kurslardan katılım/kurs bitirme belgesi alınabilir. Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "\"Merserize kumaş makinesi işçisi; pamuklu dokuma kumaş üreten tekstil terbiye (apre) işletmelerinde, kumaş boyama-apre fabrikalarında ve entegre tekstil tesislerinin merserizasyon bölümlerinde çalışır. İş bulma olanakları, tekstil üretiminin yoğun olduğu sanayi bölgelerinde ve büyük tekstil üretim merkezlerinde daha fazladır.\"",
+ "kazanc": {
+  "egitim_suresince": "İşyerinde çalışarak öğrenilen bir meslek olduğundan, öğrenim sürecinde genellikle asgari ücret düzeyinde kazanç elde edilir; çıraklık kapsamında eğitim görülüyorsa 3308 sayılı Mesleki Eğitim Kanunu hükümlerine göre ücret ödenir.",
+  "egitim_sonrasi": [
+   "İşe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç elde eder.",
+   "Deneyim kazandıkça, işteki performansa, çalışılan işletmenin büyüklüğüne ve pozisyona göre ücret değişiklik gösterebilir.",
+   "Bu meslekte istihdam ağırlıklı olarak özel sektördedir; kamuda bu unvanla istihdam yaygın değildir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Bu meslekte ayrı bir örgün mesleki eğitim kademesi bulunmadığından ilerleme, genellikle işbaşında deneyim kazanma ve ilgili kurslara katılma yoluyla olur. İsteyenler, mesleki ve teknik ortaöğretimin tekstil teknolojisi alanı gibi ilgili programlarına yönelerek bilgi ve becerilerini artırabilir, bu yolla yükseköğretime geçiş yapabilirler.",
+  "is_hayatinda": "Deneyim ve performansa bağlı olarak vardiya amirliği, bölüm sorumluluğu veya usta başılığı gibi görevlere yükselinebilir."
+ },
+ "benzer_meslekler": [
+  "Tekstil Terbiye İşçisi (Apre)",
+  "Ağartma ve Pişirme Makinesi Operatör (Kasar)",
+  "Asit Buharı Makinesi Operatörü (Tekstil)",
+  "Mensucat Beyazlatıcı",
+  "Merserize İplik Makinesi İşçisi",
+  "Boyama Makinesi Operatörü-Tekstil"
+ ],
+ "ek_bilgiler": "\"Mesleğin uygulanmasında kostik soda gibi aşındırıcı ve tahriş edici kimyasal maddeler kullanıldığından, iş sağlığı ve güvenliği önlemlerine (kişisel koruyucu donanım kullanımı, yeterli havalandırma, ilgili talimatlara uyum) özellikle dikkat edilmesi gerekir.\"",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T14:37:43",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5733
+  }
+ }
+}

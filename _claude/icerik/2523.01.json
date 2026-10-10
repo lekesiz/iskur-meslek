@@ -1,0 +1,80 @@
+{
+ "arac_gerec": [
+  "Bilgisayar ve sunucular",
+  "Switch, router ve modem",
+  "Kablosuz erişim noktaları (access point)",
+  "Firewall / güvenlik duvarı cihazları",
+  "VPN yazılım ve donanımları",
+  "Ağ izleme ve log analiz yazılımları (SIEM)",
+  "Antivirüs ve zararlı yazılım tespit sistemleri",
+  "Ağ kablolama ve test ekipmanları (kablo test cihazı, patch panel)",
+  "Veri yedekleme ve felaket kurtarma sistemleri",
+  "Sunucu ve ağ işletim sistemleri",
+  "IP adresleme ve DNS/DHCP yönetim araçları",
+  "Dokümantasyon ve envanter yazılımları"
+ ],
+ "benzer_meslekler": [
+  "Bilgisayar Ağ ve Güvenliği Yöneticisi",
+  "Siber Güvenlik Uzmanı",
+  "Bilgi Güvenliği Uzmanı",
+  "Güvenlik Uzmanı (BİT)",
+  "Bilgisayar Sistemleri Yöneticisi",
+  "Bilgisayar Ağı Analisti"
+ ],
+ "calisma_alanlari": "Ağ Teknolojileri ve Bilgi Güvenliği Uzmanları; kamu kurumları, bankalar ve finans kuruluşları, telekomünikasyon şirketleri, bilişim ve yazılım firmaları, e-ticaret şirketleri, sağlık kuruluşları, eğitim kurumları, enerji, sanayi ve lojistik firmaları başta olmak üzere bilgi işlem/bilgi teknolojileri birimi bulunan hemen her kurum ve kuruluşta istihdam edilebilirler. Ayrıca bilişim danışmanlık firmaları bünyesinde veya bağımsız danışman olarak da çalışabilirler.",
+ "calisma_ortami": "Ağ Teknolojileri ve Bilgi Güvenliği Uzmanları genellikle büro/ofis ortamında, sunucu odalarında veya veri merkezlerinde masa başında çalışır; bilgisayar ve ağ cihazlarıyla sürekli temas halindedirler. Ağ kesintileri veya güvenlik ihlali gibi acil durumlarda normal çalışma saatleri dışında da müdahale gerekebilir; bu nedenle bazı kurumlarda vardiyalı veya çağrı üzerine çalışma düzeni uygulanabilir.\n\nMeslek mensupları; kurum içindeki bilgi işlem ekipleri, yöneticiler, diğer teknik personel ve gerektiğinde dış tedarikçi veya danışmanlık firmalarıyla iş birliği içinde çalışır. Sürekli değişen tehdit ve teknolojileri takip etme zorunluluğu nedeniyle görev yoğun ve stresli olabilir; dikkatin ve odaklanmanın sürekli yüksek tutulması gerekir.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin temel eğitimi üniversitelerin Bilgisayar Mühendisliği, Yazılım Mühendisliği, Bilişim Sistemleri Mühendisliği, Elektrik-Elektronik Mühendisliği, Bilgisayar Bilimleri gibi lisans programlarında verilmektedir. Ayrıca ağ ve bilgi güvenliği alanında uzmanlaşmaya yönelik yüksek lisans programları ile üniversiteler, özel eğitim kurumları ve İŞKUR'un açtığı mesleki eğitim kursları bünyesinde sertifika programları da bulunmaktadır.",
+  "giris_kosullari": [
+   "Ortaöğretimi tamamlamış olmak",
+   "YKS sınavında ilgili lisans programına yerleşmeye yeterli puanı almış olmak",
+   "Bilgisayar Mühendisliği, Yazılım Mühendisliği, Bilişim Sistemleri Mühendisliği, Elektrik-Elektronik Mühendisliği veya ilgili bölümlerden mezun olmak (işe girişte genel olarak aranan koşuldur)"
+  ],
+  "sure_ve_icerik": "Lisans eğitimi 4 yıl sürer. Bu süreçte programlama, veri yapıları ve algoritmalar, bilgisayar ağları, işletim sistemleri, veritabanı yönetimi, kriptografi, ağ protokolleri ve siber güvenlik temelleri gibi dersler okutulur. Lisans eğitiminin ardından ilgili alanda yüksek lisans eğitimi veya sektörde kabul görmüş sertifika programlarıyla (örneğin ağ ve güvenlik konularında uzmanlaşmaya yönelik eğitimler) uzmanlaşma sağlanabilir.",
+  "belge": "Eğitim sonunda \"Lisans\" diploması verilir. Ayrıca alanında uzmanlaşmayı gösteren ulusal/uluslararası sertifikalar ile Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "ek_bilgiler": "Ağ teknolojileri ve bilgi güvenliği alanı, dijitalleşme ve artan siber tehditler nedeniyle önemi hızla büyüyen bir meslek alanıdır. Teknolojinin sürekli değişmesi nedeniyle meslek mensuplarının kendilerini düzenli olarak güncellemeleri ve yeni tehdit/teknolojileri takip etmeleri gerekir. Bazı kurum ve kuruluşlarda, çalışılan pozisyona bağlı olarak güvenlik soruşturması veya özel yetkilendirme süreçleri istenebilir.",
+ "genel_ozellikler": [
+  "Sayısal ve analitik düşünme yeteneğine sahip,",
+  "Dikkatli ve sorumluluk sahibi,",
+  "Problem çözme yeteneği gelişmiş,",
+  "Sürekli değişen teknolojileri öğrenmeye ve takip etmeye istekli,",
+  "Ekip çalışmasına uygun,",
+  "Stres altında hızlı ve doğru karar verebilen,",
+  "Gizlilik ilkesine bağlı,",
+  "İletişim yeteneği güçlü,"
+ ],
+ "gorevler": [
+  "Kurumun kablolu ve kablosuz ağ sistemlerini, modem, switch, router, erişim noktası, firewall ve benzeri ağ cihazlarını kurar, yapılandırır ve yönetir.",
+  "Bağlantı kopması, yavaşlama, IP çakışması, DNS/DHCP sorunları, erişim hataları ve donanım arızaları gibi sorunları analiz ederek ağ performansını ve sürekliliğini sağlar.",
+  "Kurum sistemlerini yetkisiz erişim, veri sızıntısı, zararlı yazılım, siber saldırı ve güvenlik ihlallerine karşı korumak için bilgi güvenliği önlemlerini uygular.",
+  "Güvenlik duvarı (firewall) kurallarını düzenler, VPN bağlantılarını yapılandırır, kullanıcı ve cihaz erişim yetkilerini kontrol eder.",
+  "Ağ trafiğini, sistem loglarını, güvenlik uyarılarını ve anormal hareketleri izleyerek olası tehdit ve siber saldırıları önceden tespit etmeye çalışır.",
+  "Güvenlik açıklarını belirler ve giderir.",
+  "Yedekleme, felaket kurtarma ve süreklilik süreçlerine destek verir.",
+  "Kullanıcı hesapları ve yetkilendirmelerini yönetir.",
+  "Ağ topolojisi, IP planı, güvenlik politikaları, cihaz envanteri, yapılan işlemler, olay kayıtları ve risk analizleriyle ilgili doküman hazırlar.",
+  "Kullanıcıların güvenli parola kullanımı, oltalama saldırıları, veri güvenliği ve kurumsal bilgi güvenliği kuralları konusunda bilinçlenmesine destek olur.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Alanında yüksek lisans ve doktora eğitimi alarak akademik kariyer yapabilir; ulusal ve uluslararası sertifika programlarıyla uzmanlaşma düzeyini artırabilirler.",
+  "is_hayatinda": "Deneyim kazandıkça Ağ ve Sistem Yöneticisi, Bilgi Güvenliği Yöneticisi, Bilgi Teknolojileri (BT) Müdürü veya Bilgi İşlem Müdürü gibi yönetici kademelerine yükselebilirler."
+ },
+ "kazanc": {
+  "egitim_suresince": "Lisans eğitimi süresince öğrenciler Kredi ve Yurtlar Genel Müdürlüğünün sunduğu öğrenim kredisi ve yurt hizmetlerinden yararlanabilir; bazı üniversitelerde burs olanakları da bulunmaktadır.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında istihdam edilenler 657 sayılı Devlet Memurları Kanunu'na tabi olarak maaş alır.",
+   "Özel sektörde kazanç; çalışılan işyerinin büyüklüğü, kişinin tecrübesi, bilgi ve becerisi, sektör ve bölgeye göre değişiklik gösterir.",
+   "İşe yeni başlayanlarda kazanç genellikle asgari ücret düzeyinde başlayıp, deneyim ve uzmanlık arttıkça yükselebilir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T06:08:30",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 7084
+  }
+ }
+}

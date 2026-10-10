@@ -1,0 +1,75 @@
+{
+ "gorevler": [
+  "Kullanıcılara danışarak taleplerini belirler ve doküman haline getirir, sistem ilkelerine ilişkin anlaşma sağlamak amacıyla yönetime danışır.",
+  "İş süreçlerini, prosedürlerini ve çalışma pratiklerini tanımlar ve analiz eder.",
+  "Verimsiz uygulamaları tanımlar ve değerlendirir, optimal iş uygulamaları ile sistem işlerliği ve davranışını tavsiye eder.",
+  "Sistem test planlarını oluşturma, uyarlama ve uygulama gibi fonksiyonel çözümlemelerin hayata geçirilmesi için gerekli sorumlulukları alır.",
+  "Sistem geliştiricilerinin kullanımı için fonksiyonel özellikleri geliştirir.",
+  "İş akışını geliştirmek veya yeni amaçlara hizmet etmek için sistemi genişletir veya yeniler.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "arac_gerec": [
+  "Bilgisayar ve çevre birimleri",
+  "Sunucu ve ağ altyapısı bileşenleri",
+  "Veri tabanı yönetim sistemleri",
+  "Sistem analizi ve modelleme araçları (UML, BPMN vb.)",
+  "Proje ve süreç yönetimi yazılımları",
+  "Yazılım/sistem test ve hata takip araçları",
+  "Doküman ve gereksinim yönetimi yazılımları",
+  "Ofis yazılımları (yazı, sunum, hesap tablosu programları)",
+  "İletişim ve toplantı yazılımları",
+  "Bulut bilişim platformları (kurumun kullandığı sistemlere göre)"
+ ],
+ "genel_ozellikler": [
+  "Analitik düşünme ve problem çözme yeteneğine sahip,",
+  "Bilgi teknolojilerine ve sistemlere ilgi duyan,",
+  "Sözlü ve yazılı iletişim becerisi gelişmiş,",
+  "Dikkatli, sabırlı ve düzenli çalışabilen,",
+  "Farklı birim ve kişilerle etkili işbirliği kurabilen,",
+  "Araştırmacı ve yeniliklere açık,",
+  "Planlama ve organizasyon yapabilen,",
+  "Değişen teknolojik gelişmeleri takip etmeye istekli"
+ ],
+ "calisma_ortami": "Sistem Uzmanı/Danışmanı genellikle büro ortamında, bilgisayar başında masa başı olarak çalışır. Çalışmalarını zaman zaman kullanıcı birimlerinde, toplantı odalarında veya saha ziyaretlerinde kullanıcılarla, yöneticilerle, yazılım geliştiricileri ve diğer bilişim personeli ile yüz yüze görüşerek sürdürür. Çalışma saatleri genellikle normal ofis mesaisi şeklindedir; ancak proje teslim tarihleri, sistem geçişleri veya kritik sorunların çözümü gerektiği dönemlerde çalışma süresi uzayabilir ve zaman baskısı artabilir.\n\nİş, büyük ölçüde ekip çalışmasına dayanır; farklı departmanların ihtiyaçlarını anlamak ve teknik ekiplerle koordinasyon sağlamak mesleğin önemli bir parçasıdır. Çalışma ortamı fiziksel risk açısından düşük olmakla birlikte, uzun süre ekran karşısında oturmaya bağlı göz ve bel yorgunluğu gibi ergonomik etkiler görülebilir.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin gerektirdiği asgari eğitim düzeyi ortaöğretimdir (lise ve dengi okul); ancak günümüzde sektörde bu meslekte çalışanların büyük bölümü üniversitelerin bilgisayar mühendisliği, yazılım mühendisliği, bilgisayar bilimleri, yönetim bilişim sistemleri gibi lisans programlarından veya bilgisayar programcılığı gibi önlisans programlarından mezun kişilerdir. Ayrıca İŞKUR tarafından açılan mesleki eğitim kursları, Halk Eğitim Merkezleri ve çeşitli özel kurumların sunduğu bilişim/sistem analizi sertifika programları da bu alana yönelme ve gelişim için kullanılabilir.",
+  "giris_kosullari": [
+   "Lise ve dengi okul mezunu olmak (meslek için asgari şart)",
+   "Üniversitelerin ilgili lisans programlarına girebilmek için YKS (Yükseköğretim Kurumları Sınavı) sonucunda yeterli puanı almak ve bölümün giriş koşullarını taşımak",
+   "Önlisans programlarından mezun olanların, Dikey Geçiş Sınavı (DGS) ile ilgili lisans programlarına geçiş yapabilmesi mümkündür",
+   "Sektöre işbaşında, kurs veya sertifika programları yoluyla girenler için ilgili temel bilgisayar ve sistem bilgisine sahip olmak"
+  ],
+  "sure_ve_icerik": "Üniversite lisans programları 4 yıl sürmektedir; bu programlarda programlama, veri tabanları, sistem analizi ve tasarımı, yazılım mühendisliği, bilgisayar ağları, proje yönetimi gibi dersler yer alır. Önlisans programları 2 yıl sürmektedir. Üniversite eğitimi dışında, kısa süreli mesleki kurslar ve sertifika programları da sistem analizi, iş süreçleri modelleme ve proje yönetimi konularında bilgi ve beceri kazandırmaya yöneliktir. Mesleğe giriş sonrasında iş başında, deneyimli uzmanlar ve projeler eşliğinde de önemli ölçüde mesleki gelişim sağlanır.",
+  "belge": "Üniversite programlarını tamamlayanlara lisans veya önlisans diploması verilir. Kurs ve sertifika programlarını tamamlayanlara ise ilgili kurumdan kurs bitirme belgesi/sertifika verilir. İş analizi, proje yönetimi, bulut bilişim gibi alanlarda alınabilecek ulusal veya uluslararası mesleki sertifikalar istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Sistem Uzmanı/Danışmanları; bankacılık ve finans kuruluşları, kamu kurumları, telekomünikasyon, sağlık, lojistik, perakende ve e-ticaret gibi sektörlerin bilgi işlem/bilişim teknolojileri birimlerinde, yazılım geliştirme ve sistem geliştirme şirketlerinde, bilişim danışmanlık firmalarında ve büyük ölçekli işletmelerin dijital dönüşüm/proje yönetim birimlerinde çalışma alanı bulabilirler. Kurumların bilgi sistemlerini sürekli geliştirme ve iyileştirme ihtiyacı, kurumsal dijitalleşme ve yazılım projelerinin artması nedeniyle bu meslekte istihdam olanakları genel olarak olumlu bir eğilim göstermektedir.",
+ "kazanc": {
+  "egitim_suresince": "Üniversite düzeyinde eğitim alanlar, Kredi ve Yurtlar Kurumu'nun öğrenim kredisi ve yurt hizmetlerinden, ayrıca çeşitli resmi ve özel kurum/kuruluşların burslarından yararlanabilirler. Eğitim sürecinde staj, yarı zamanlı çalışma veya proje bazlı görevler yoluyla hem deneyim hem de ek gelir elde edilebilir.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında çalışanlar, 657 sayılı Devlet Memurları Kanunu çerçevesinde öğrenim düzeyine uygun kadro ve derece üzerinden maaş ve yan ödeme alırlar.",
+   "Özel sektörde ücret; çalışılan firmanın büyüklüğü, sektörü, kişinin deneyimi ve üstlendiği sorumluluk düzeyine göre değişmektedir.",
+   "Mesleğe yeni başlayanlarda kazanç genellikle asgari ücret düzeyinde veya buna yakın olabilir; deneyim ve uzmanlık arttıkça kazanç düzeyi de yükselir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "İlgili alanlarda lisans eğitimini tamamlayanlar yüksek lisans ve doktora yaparak akademik kariyere yönelebilir; ayrıca iş analizi, proje yönetimi, veri tabanı yönetimi, bulut bilişim gibi konularda ileri düzey sertifika ve uzmanlık eğitimleri alarak mesleki bilgi ve becerilerini geliştirebilirler.",
+  "is_hayatinda": "Deneyim kazanan Sistem Uzmanı/Danışmanları kıdemli sistem analisti, proje yöneticisi, ekip/takım lideri gibi pozisyonlara; daha sonra bilgi işlem/bilişim teknolojileri birim yöneticiliği veya bilgi sistemleri direktörlüğü gibi üst düzey yönetim kademelerine yükselebilirler."
+ },
+ "benzer_meslekler": [
+  "Sistem Analisti (BT)",
+  "Sistem Çözümleyici",
+  "BT Çözümleri Uzmanı",
+  "Yönetim Bilişim Sistemleri Uzmanı",
+  "BT İş Analisti (Bilişim Teknolojileri İş Analisti)",
+  "Uygulama Uzmanı/Danışmanı (Bilişim)"
+ ],
+ "ek_bilgiler": "Kurumların dijital dönüşüm süreçlerini hızlandırması ve bilgi sistemlerine olan bağımlılığın artması nedeniyle bu meslekte orta ve uzun vadede istihdam talebinin devam etmesi beklenmektedir. Mesleğin icrası için yasal bir ruhsat veya zorunlu sertifika bulunmamakla birlikte, ilgili alanda alınan lisans eğitimi ve mesleki sertifikalar işe alımlarda tercih sebebi olabilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T05:50:45",
+  "usage": {
+   "input_tokens": 4,
+   "output_tokens": 8146
+  }
+ }
+}

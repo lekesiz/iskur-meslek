@@ -1,0 +1,87 @@
+{
+ "arac_gerec": [
+  "Multimetre, ampermetre, voltmetre, ohmmetre gibi ölçüm ve test cihazları",
+  "Osiloskop ve devre test üniteleri",
+  "Havya, lehim istasyonu ve lehim alma (vakumlu) cihazı",
+  "El takımları (tornavida takımı, pense, kargaburun, anahtar takımları)",
+  "Sıcak hava tabancası ve ısı ile söküm/montaj aletleri",
+  "Elektronik komponentler ve yedek parçalar (direnç, kondansatör, entegre devre, kart vb.)",
+  "Kablo, konnektör ve bağlantı elemanları",
+  "Cihaza özel servis/diagnostik yazılımları yüklü bilgisayar",
+  "Servis el kitapları, devre şemaları ve teknik kılavuzlar",
+  "Antistatik bilezik, ESD matı gibi koruyucu donanım",
+  "Taşıma ve servis çantası/takım kutusu",
+  "Kalibrasyon cihazları"
+ ],
+ "genel_ozellikler": [
+  "El ve göz koordinasyonu gelişmiş,",
+  "Elektrik-elektronik konularına ilgili ve bu alanda başarılı,",
+  "Analitik düşünebilen ve mantıksal çıkarım yapabilen,",
+  "Dikkatli, tedbirli ve sabırlı,",
+  "Sorumluluk duygusu gelişmiş ve güvenilir,",
+  "Küçük parçalarla ve ayrıntılı işlerle çalışmaya uygun el becerisine sahip,",
+  "Yeni teknolojik gelişmeleri takip etmeye ve öğrenmeye istekli,",
+  "Müşteri ilişkilerinde güler yüzlü, iletişime açık kişiler olmaları gerekir."
+ ],
+ "calisma_ortami": "Elektronik ve elektrikli ürünler servisçisi, genellikle teknik servis atölyeleri, mağaza servis bölümleri ve bakım-onarım merkezleri gibi kapalı mekânlarda çalışır. Bazı durumlarda arızalı cihazların kurulumu veya onarımı için müşterinin ev ya da iş yerine giderek yerinde servis hizmeti verir. Çalışma sırasında lehim dumanı, küçük elektronik parçalar, elektrik akımı gibi unsurlarla karşılaşır; bu nedenle iş sağlığı ve güvenliği kurallarına, elektrik çarpması ve yangın risklerine karşı dikkatli olunması gerekir. Çalışma süresi genellikle gündüz ve belirli mesai saatleri içindedir; ancak yerinde servis taleplerine göre esneklik gösterilebilir.\n\nMeslek elemanı; müşterilerle, işletme yöneticileri, servis şefi ve diğer teknik personelle sürekli iletişim halindedir. İş genellikle bireysel olarak yürütülmekle birlikte, karmaşık arızalarda veya büyük servis merkezlerinde ekip çalışması da gerekebilir.",
+ "calisma_alanlari": "Elektronik ve elektrikli ürünler servisçileri; elektronik ve elektrikli ev aletleri, beyaz eşya, küçük ev aletleri, ofis cihazları üreten firmaların yetkili teknik servislerinde, bağımsız teknik servis işletmelerinde, elektronik ürün satan mağaza ve bayilerin servis bölümlerinde çalışabilirler. Ayrıca deneyim ve sermaye edindiklerinde kendi bağımsız teknik servis işyerlerini açabilirler. Günlük yaşamda elektronik ve elektrikli cihaz kullanımının sürekli artması, bu alandaki istihdam olanaklarının devam etmesini sağlamaktadır.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi; mesleki ve teknik eğitim okullarının elektrik-elektronik teknolojisi alanı ile mesleki eğitim merkezlerinin ilgili dallarında verilmektedir. Bunun yanında Halk Eğitim Merkezleri ve İŞKUR tarafından açılan mesleki eğitim kurslarında da temel ve ileri düzey eğitimler verilebilmektedir. Meslekte usta yanında işbaşı eğitimiyle de yetişmek mümkündür.",
+  "giris_kosullari": [
+   "Mesleğin gerektirdiği minimum eğitim düzeyi ilköğretim olup, en az ilköğretim/ortaokul mezunu olmak,",
+   "Mesleki eğitim merkezinde çıraklık eğitimine başlamak için 14 yaşını doldurmuş olmak,",
+   "Sağlık durumunun, mesleğin gerektirdiği el-göz koordinasyonu ve dikkat gerektiren işleri yapmaya uygun olması,",
+   "Çıraklık eğitimi için ilgili bir işyeri bulup işveren ile eğitim/çıraklık sözleşmesi imzalamak."
+  ],
+  "sure_ve_icerik": "Mesleki ve teknik eğitim okulları ile mesleki eğitim merkezlerinde elektrik-elektronik teknolojisi alanında örgün eğitim, ortaokul sonrası yaklaşık 4 yıl sürmektedir. Mesleki eğitim merkezlerinde eğitim genellikle haftada bir gün teorik derslerle, diğer günler ise işyerinde uygulamalı çalışma şeklinde yürütülür. Ders içeriğinde temel elektrik-elektronik bilgisi, devre analizi, ölçme-kontrol teknikleri, arıza tespiti ve onarım yöntemleri, iş sağlığı ve güvenliği konuları yer alır. Ayrıca Halk Eğitim Merkezleri ve İŞKUR kursları kapsamında, daha kısa süreli yoğunlaştırılmış kurslarla da temel servis becerileri kazandırılabilir.",
+  "belge": "Örgün eğitimi tamamlayanlara kalfalık ve ustalık belgesi veya meslek lisesi diploması verilir. Kurs yoluyla eğitim alanlara kurs bitirme/katılım belgesi düzenlenir. Mesleki Yeterlilik Kurumu (MYK) tarafından verilen mesleki yeterlilik belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "gorevler": [
+  "İş sağlığı ve güvenliği, yangın ve acil durum kurallarını uygular.",
+  "Çevre koruma mevzuatına uygun çalışır.",
+  "Kalite yönetim sistemi dokümanlarına uygun çalışır.",
+  "Çalışılan yeri düzenler.",
+  "Çalışma alet ve donanımının koruyucu ve talimatlı bakımlarını sağlar.",
+  "Bakım, onarım yapılacak alet veya cihaza uygun donanımı hazırlar.",
+  "Yerinde verilecek servis hizmetleri ile ilgili işlemleri yapar.",
+  "Periyodik bakım işlemlerini gerçekleştirir.",
+  "Parça değişim işlemlerini gerçekleştirir.",
+  "Ayar işlemlerini gerçekleştirir.",
+  "Arıza tespiti yapar.",
+  "Tamir işlemlerini gerçekleştirir.",
+  "Kurulum işlemlerini gerçekleştirir.",
+  "Son kontrol işlemlerini yapar.",
+  "Rapor ve gerekli dokümanları hazırlar.",
+  "Mesleki gelişim faaliyetlerine katılır."
+ ],
+ "kazanc": {
+  "egitim_suresince": "Mesleki eğitim merkezlerinde veya işletmelerde eğitim gören öğrenciler, 3308 sayılı Mesleki Eğitim Kanunu kapsamında işveren tarafından kendilerine ödenen bir ücret alırlar ve iş kazası ile meslek hastalıklarına karşı sigorta primleri devletçe karşılanır. İşbaşında usta yanında yetişenlerde kazanç, işletme ile yapılan anlaşmaya göre değişir.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Kazanç; deneyime, uzmanlaşma düzeyine, çalışılan işyerinin büyüklüğüne ve performansa göre artış gösterebilir.",
+   "Özel sektörde ücret, işveren ile işçi arasındaki anlaşmaya göre belirlenir; kamuda istihdam söz konusu olduğunda ilgili statüye göre ücretlendirme yapılır.",
+   "Kendi işyerini açanların kazancı, işin hacmine ve müşteri potansiyeline göre değişkenlik gösterir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleki eğitim merkezi veya meslek lisesi mezunları, alanın devamı niteliğindeki ön lisans/lisans programlarına yükseköğretime giriş sınavı sonuçlarına göre yerleşebilir; mezuniyet durumunda ilgili alan tercihlerinde ek puandan yararlanabilirler. Ayrıca çeşitli kurs ve sertifika programlarına katılarak mesleki bilgi ve becerilerini geliştirebilirler.",
+  "is_hayatinda": "Deneyim kazandıkça usta, ekip şefi veya servis sorumlusu gibi pozisyonlara yükselebilirler. Yeterli bilgi, beceri ve sermaye birikimine sahip olanlar kendi bağımsız teknik servis işyerlerini açabilirler. Büyük firmalarda teknik destek, eğitmen veya kalite kontrol sorumlusu gibi görevlere geçebilirler."
+ },
+ "benzer_meslekler": [
+  "Büro Makineleri Bakım ve Onarımcısı",
+  "Büro Makineleri Teknik Servis Elemanı",
+  "Radyo ve Televizyon Tamircisi",
+  "Dijital Elektronik Cihazlar Bakım Onarımcısı",
+  "Mobil İletişim Cihazları/Cep Telefonu Bakım Onarımcısı",
+  "Çoklu Ortam Sistemleri Bakım Onarımcısı"
+ ],
+ "ek_bilgiler": "Teknolojik gelişmeler ve elektronik/elektrikli cihazların günlük yaşamda yaygınlaşması, bu meslekte nitelikli iş gücüne olan talebi sürdürmektedir. Üretici firmalar tarafından verilen cihaza özel servis eğitimlerine katılmak, meslek elemanlarının güncel teknolojilere uyum sağlaması açısından önemlidir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T06:33:40",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6954
+  }
+ }
+}

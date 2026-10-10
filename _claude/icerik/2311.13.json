@@ -1,0 +1,89 @@
+{
+ "arac_gerec": [
+  "Bilgisayar ve harita/CBS (Coğrafi Bilgi Sistemi) yazılımları",
+  "CAD (bilgisayar destekli tasarım) programları",
+  "GPS/GNSS alıcıları ve uydu bazlı konum belirleme sistemleri",
+  "Total station (elektronik takeometre)",
+  "Teodolit ve nivo gibi klasik ölçme aletleri",
+  "Fotogrametrik değerlendirme sistemleri ve hava/uydu görüntüleri",
+  "İnsansız hava aracı (drone) ile görüntüleme ekipmanları",
+  "Veri işleme ve haritalama için özel mühendislik yazılımları",
+  "Projeksiyon cihazı ve sunum ekipmanları",
+  "Bilimsel veritabanları, akademik yayın ve kütüphane kaynakları",
+  "Laboratuvar ölçüm cihazları",
+  "Ofis yazılımları ve iletişim araçları"
+ ],
+ "genel_ozellikler": [
+  "Matematik, geometri ve fen bilimlerine ilgili,",
+  "Analitik ve sistematik düşünebilen,",
+  "Araştırmaya ve bilimsel çalışmaya istekli,",
+  "Teknolojik gelişmeleri takip etmeye açık,",
+  "Sabırlı ve ayrıntılara dikkat eden,",
+  "Sözlü ve yazılı anlatım becerisi gelişmiş, öğrencilerle iyi iletişim kurabilen,",
+  "Sorumluluk sahibi ve ekip çalışmasına uyumlu,",
+  "Kendini sürekli geliştirmeye istekli"
+ ],
+ "calisma_ortami": "Jeodezi ve Fotogrametri (Harita ve Kadastro) Mühendisliği Öğretim Üyesi, çalışmalarının büyük bölümünü üniversitenin derslik, ofis ve laboratuvar ortamlarında yürütür; ders verme, araştırma, proje hazırlama ve yayın çalışmaları genellikle kapalı mekânlarda gerçekleşir. Bununla birlikte arazi ölçmeleri, uygulama dersleri ve saha çalışmaları kapsamında açık havada, bazen zorlu arazi koşullarında da çalışabilir.\n\nÇalışma saatleri ders programına, akademik kurul ve sınav dönemlerine göre değişkenlik gösterebilir; ders dışı zamanlarda araştırma, proje ve idari işler için esnek ancak yoğun bir çalışma temposu söz konusudur. Çalışması sırasında öğrenciler, akademik personel, üniversite yönetimi, kamu kurumları (örneğin tapu ve kadastro, belediye, CBS birimleri) ve özel sektör temsilcileriyle iş birliği içinde bulunur.",
+ "gorevler": [
+  "Coğrafi Bilgi Sistemi ile gelişen amaçlar doğrultusunda belli bir coğrafyaya ilişkin halihazır harita, kadastral harita, imar planı, teknik altyapı (su, kanal, gaz, telefon, elektrik vb.) tesisleri haritası ve tematik harita yapımı ile inşaat mühendisliği, mimarlık, jeoloji mühendisliği, maden mühendisliği, şehir ve bölge planlama mühendisliği, çevre mühendisliği ve coğrafya meslek dallarına altlık ve ortak kullanım imkânı hazırlar.",
+  "Kentsel ve kırsal arazi ve arsa düzenlemeleri, kamulaştırma projeleri alanlarında çalışmalar yürütür.",
+  "Etüt ve işletme haritaları ile ilgili çalışmalar yürütür.",
+  "İçme suyu ve kanalizasyon projeleri alanlarında çalışmalar yürütür.",
+  "Tescile konu olan harita ve planlar ile kadastro haritalarının yapımı alanlarında çalışmalar yürütür.",
+  "Sayısal harita üretimi, mühendislik ve endüstriyel ölçmeler, yersel ve uydu bazlı (GPS) sistemler ile konum belirleme, hidrografik ölçmeler, yeraltı ölçmeleri, her türlü projenin araziye uygulama işleri (aplikasyon), röleve ölçmeleri, plankoteler vb. alanlarda çalışmalar yürütür.",
+  "Bilimsel yöntem oluşturur, geliştirir ve uygular.",
+  "Yükseköğretim kurumlarında alanı ile ilgili bilimsel araştırma ve projeler üretir ve yapar.",
+  "Araştırma sonuçlarını ilgili ulusal ve uluslararası bilimsel toplantı ve kongrelerde sunar ya da bilimsel dergilerde veya elektronik formatlarda yayınlar.",
+  "Araştırma ya da projelerin uygulamaya dönük sonuçlarını ilgili kurum ve kuruluşlarla paylaşır.",
+  "Yükseköğretim kurumlarında eğitim, öğretim ve uygulama çalışmaları yapar ve yaptırır; müfredat programlarını geliştirir, yeniler ve uygular.",
+  "Ders yılı içerisinde ve bitiminde öğrencilerin bilgi düzeyini ölçmek için ödevler hazırlatır, sınavlar yapar, sınav kağıtlarını okuyup değerlendirir ve sonuçlarını idareye bildirir.",
+  "Lisansüstü öğrencilerine tez konularını verir ya da tez konularının seçiminde öğrencilere yardımcı olur ve çalışmalarını izler.",
+  "İlgili birim başkanlığınca düzenlenecek programa göre belirli günlerde öğrencileri kabul ederek onlara gerekli konularda yardımcı olur, ilgili kanundaki amaç ve ana ilkeler doğrultusunda yol gösterir ve rehberlik eder.",
+  "Kamu ve özel sektörde bilimsel danışmanlık yapar, alanı ile ilgili konularda bilirkişilik yapar.",
+  "Çeşitli bilimsel yayınlarda hakemlik yapar, yurt içinde ve yurt dışında konferanslar verir.",
+  "Gerektiğinde idari sorumluluk üstlenir.",
+  "Konusundaki gelişme ve yenilikleri izleyip araştırmalar yapar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Bu mesleğe ulaşabilmek için öncelikle bir üniversitenin Jeodezi ve Fotogrametri Mühendisliği, Harita Mühendisliği veya Geomatik Mühendisliği gibi ilgili lisans programından mezun olmak gerekir. Ardından aynı veya yakın alanda yüksek lisans ve doktora eğitimi üniversitelerin ilgili fen bilimleri enstitülerinde tamamlanır. Doktora sonrasında üniversitelerin ilgili mühendislik fakültelerinde öğretim üyesi olarak göreve başlanır.",
+  "giris_kosullari": [
+   "Jeodezi ve Fotogrametri Mühendisliği, Harita Mühendisliği veya yakın bir mühendislik alanında lisans eğitimi tamamlamış olmak",
+   "Lisansüstü eğitime (yüksek lisans ve doktora) kabul için ilgili üniversitenin sınav ve değerlendirme süreçlerinde (ALES, yabancı dil sınavı gibi) başarılı olmak",
+   "Doktora eğitimini tamamlayarak doktora unvanını almış olmak",
+   "Akademik kadroya atanmak için ilgili üniversitenin ilan ettiği şartları (yayın, yabancı dil düzeyi vb.) karşılamak"
+  ],
+  "sure_ve_icerik": "Lisans eğitimi genellikle 4 yıl sürer. Bunu takip eden yüksek lisans ve doktora eğitimleri toplamda ortalama 5-8 yıl kadar sürebilir; süre, yürütülen tez çalışmasına ve kuruma göre değişebilir. Doktora eğitimi sırasında dersler, seminerler, bilimsel yayın yapma ve bir tez çalışmasını tamamlama süreçleri yer alır. Doktora sonrasında akademik kariyerde Doktor Öğretim Üyesi, Doçent ve Profesör unvanlarına yükselme, ilgili bilimsel çalışma ve sınav/değerlendirme süreçleriyle mümkün olur.",
+  "belge": "Eğitim sürecinin sonunda önce lisans diploması, ardından yüksek lisans ve doktora diploması alınır. Akademik kadroya atanan kişiye üniversite tarafından \"Doktor Öğretim Üyesi\" unvanı verilir; sonraki aşamalarda Doçentlik ve Profesörlük unvanları kazanılabilir."
+ },
+ "calisma_alanlari": "Jeodezi ve Fotogrametri (Harita ve Kadastro) Mühendisliği Öğretim Üyeleri başlıca devlet ve vakıf üniversitelerinin harita mühendisliği, jeodezi ve fotogrametri mühendisliği veya geomatik mühendisliği bölümlerinde görev alırlar. Bunun yanında TÜBİTAK ve benzeri kamu araştırma kurumlarında araştırmacı olarak çalışabilir, kamu kurumlarının (tapu ve kadastro, belediyeler, harita genel müdürlüğü gibi) projelerine bilimsel danışmanlık verebilir, özel sektördeki harita, mühendislik ve coğrafi bilgi sistemleri şirketlerine proje bazlı danışmanlık yapabilirler. Alandaki üniversite sayısının sınırlı olması nedeniyle akademik kadroya yerleşme süreci rekabetçidir ve genellikle yayın, proje ve dil yeterliliği gibi kriterlere bağlıdır.",
+ "kazanc": {
+  "egitim_suresince": "Lisans eğitimi sırasında öğrenciler Yükseköğrenim Kredi ve Yurtlar Kurumu'nun kredi ve yurt imkânlarından yararlanabilir. Yüksek lisans ve doktora döneminde araştırma görevlisi kadrosunda çalışanlar 657 sayılı Devlet Memurları Kanunu'na göre maaş alır; bazı öğrenciler ise TÜBİTAK gibi kurumların sağladığı burslardan yararlanabilir.",
+  "egitim_sonrasi": [
+   "Devlet üniversitelerinde akademik kadroya atananlar Dr. Öğretim Üyesi, Doçent ve Profesör unvanlarına göre 657 sayılı Devlet Memurları Kanunu çerçevesinde maaş ve ek ödemeler alır; unvan ve kıdem yükseldikçe kazanç da artar.",
+   "Vakıf üniversitelerinde çalışanların kazancı, kurumla yapılan sözleşmeye, unvana ve tecrübeye göre değişiklik gösterir.",
+   "Danışmanlık, bilirkişilik ve proje çalışmaları ek gelir kaynağı olabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Lisans eğitiminin ardından yüksek lisans ve doktora eğitimleri tamamlanarak akademik kariyer basamaklarına geçiş sağlanır. Doktora sonrasında ilgili üniversitede akademik kadroya atanmak ve ardından bilimsel çalışma, yayın ve sınav/değerlendirme süreçleriyle Doçentlik ve Profesörlük unvanlarına ilerlemek mümkündür.",
+  "is_hayatinda": "İş hayatında Dr. Öğretim Üyesi olarak başlayan kişi, bilimsel yayın, proje ve akademik performansına bağlı olarak Doçent ve Profesör unvanlarına yükselebilir. Ayrıca bölüm başkanlığı, dekanlık gibi idari görevlere getirilebilir; kamu ve özel sektörde danışmanlık ve bilirkişilik görevleri üstlenerek deneyimini genişletebilir."
+ },
+ "benzer_meslekler": [
+  "İnşaat Mühendisliği Öğretim Üyesi",
+  "Jeodezi Öğretim Üyesi",
+  "Jeoloji Mühendisliği Öğretim Üyesi",
+  "Kartoğrafya Öğretim Üyesi",
+  "Maden Mühendisliği Öğretim Üyesi",
+  "Mimarlık Öğretim Üyesi"
+ ],
+ "ek_bilgiler": "Akademik kadroya atanma ve unvan kazanma süreçleri 2547 sayılı Yükseköğretim Kanunu ve ilgili üniversitelerin akademik atama ve yükseltme yönergelerine göre yürütülür; bu nedenle somut şartlar (gerekli yayın sayısı, yabancı dil düzeyi, sınav süreçleri vb.) kurumdan kuruma ve dönemden döneme farklılık gösterebilir. Alanda görev yapabilecek üniversite ve bölüm sayısının sınırlı olması nedeniyle akademik kadroya yerleşme rekabetçi bir süreçtir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T01:06:00",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 7725
+  }
+ }
+}

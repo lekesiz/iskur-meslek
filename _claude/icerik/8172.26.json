@@ -1,0 +1,81 @@
+{
+ "arac_gerec": [
+  "Kalem uç açma makinesi",
+  "Zımpara bantları/zımpara taşları",
+  "Kesme bıçakları",
+  "Bıçak bileme ekipmanı",
+  "Kalem taşıma kasaları ve bantları",
+  "Basınçlı hava tabancası (toz temizliği için)",
+  "Fırça ve temizlik malzemeleri",
+  "Koruyucu eldiven, toz maskesi, kulak koruyucu",
+  "Üretim kayıt defteri/formları",
+  "El aletleri (tornavida, anahtar takımı vb.)",
+  "Yedek parça ve yağlama malzemeleri"
+ ],
+ "benzer_meslekler": [
+  "Kalem Başkesme Makinesi Operatörü",
+  "Kalem Dip Yuvarlama Makinesi Operatörü",
+  "Kalem Bölme Makinesi Operatörü",
+  "Kalem Silgi Takma Makinesi Operatörü",
+  "Ham Kalem Profil Makinesi Operatörü",
+  "Kalem Katrak Makinesi Operatörü"
+ ],
+ "calisma_alanlari": "Kalem Uç Açma Makinesi Operatörleri, kalem ve kırtasiye malzemesi üreten fabrikalarda, ahşap kalem imalatı yapan üretim tesislerinde istihdam edilirler.\n\nBu meslek oldukça özelleşmiş ve dar bir alanı kapsar; iş bulma olanağı, ülkedeki kalem/kırtasiye üretimi yapan işletme sayısına ve bu sektördeki üretim hacmine bağlıdır. Sektördeki otomasyon artışı, işgücü ihtiyacını zaman içinde etkileyebilir.",
+ "calisma_ortami": "Kalem Uç Açma Makinesi Operatörleri, kalem ve kırtasiye üretimi yapılan fabrika ve atölyelerde, kapalı mekânda çalışırlar. Çalışma ortamı makine gürültüsü ve ahşap tozu açısından yoğun olabilir; bu nedenle toz maskesi, kulak koruyucu ve eldiven gibi kişisel koruyucu donanım kullanımı önemlidir. İş genellikle ayakta ve makine başında yürütülür, üretim temposuna bağlı olarak vardiyalı çalışma söz konusu olabilir.\n\nÇalışma sırasında dikkatsizlik sonucu elin makineye kaptırılması, zımpara veya bıçakla yaralanma gibi iş kazaları yaşanabilir. Operatör; usta başı, bakım personeli, kalite kontrol elemanları ve bir sonraki üretim aşamasındaki çalışanlarla yakın iş birliği içinde çalışır.",
+ "egitim": {
+  "verildigi_yerler": "Bu meslek için okul veya mesleki eğitim merkezlerinde örgün olarak verilen, ayrı bir diploma programı bulunmamaktadır. Mesleğin bilgi ve becerisi genellikle işbaşında usta yanında veya Halk Eğitim Merkezleri ile İŞKUR'un açtığı mesleki eğitim kurslarında kazanılır.",
+  "giris_kosullari": [
+   "İlköğretim mezunu olmak (mesleğin gerektirdiği asgari eğitim düzeyi ilköğretimdir)",
+   "Makine başında çalışmaya uygun sağlık durumuna sahip olmak",
+   "El ve göz koordinasyonunun iyi olması"
+  ],
+  "sure_ve_icerik": "Belirli bir süre ve müfredatla tanımlanmış resmî bir eğitim programı bulunmamaktadır. İşe yeni başlayanlar, işyerinde deneyimli bir operatörün veya ustanın gözetiminde kısa süreli bir işbaşı eğitimi alarak makinenin kullanımını, zımpara ve bıçak bakımını, kalite kontrol ölçütlerini ve iş güvenliği kurallarını öğrenir. Beceri, çalışma süresi ve deneyim arttıkça gelişir.",
+  "belge": "Örgün bir diploma veya sertifika programı bulunmamaktadır. Katılım sağlanan kurslardan katılım belgesi alınabilir; Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "ek_bilgiler": "Bu meslek, kalem ve kırtasiye üretimi yapan sınırlı sayıda işletmede istihdam olanağı sunan, oldukça özelleşmiş bir meslektir. Makine ile çalışma söz konusu olduğundan iş güvenliği kurallarına ve kişisel koruyucu donanım kullanımına dikkat edilmesi önemlidir.",
+ "genel_ozellikler": [
+  "El ve göz koordinasyonuna sahip,",
+  "Dikkatli ve titiz,",
+  "Düzenli ve sabırlı,",
+  "Elleriyle çalışmaktan hoşlanan,",
+  "Makine ve teçhizat kullanımına ilgili,",
+  "Monoton ve tekrarlı işlere uyum sağlayabilen,",
+  "Takım çalışmasına uyumlu,",
+  "Sorumluluk sahibi"
+ ],
+ "gorevler": [
+  "Makineyi kullanıma hazır hale getirir.",
+  "Uç açma işlemi gerçekleştirilecek kalemleri makineye yükler.",
+  "Makinede bulunan zımparaların temizliğini yapar.",
+  "Zımparayı gerekiyorsa değiştirir.",
+  "Kalemler bıçakla açılacaksa bıçak kontrollerini yapar, körelmiş bıçakları bilenmesi için ilgili kişiye teslim eder.",
+  "Makine haznesinden düşen kalemlere düzgün bir şekilde uç açma işlemini yapar.",
+  "Uç açma esnasında kalem boyalarını, açılarını ve kırılma durumunda kalem ucunun küt olma durumunu sürekli kontrol eder.",
+  "Kalemin ucunun küt, kırık veya merkezi kayık olmayacak şekilde standart boyda açılmasını sağlar.",
+  "Ucu açılan kalemleri kasalara koyarak bir sonraki işlem için ilgili kişiye teslim eder.",
+  "Üretim kayıtlarını tutar.",
+  "Üretimde veya makinede herhangi bir problem olması durumunda makineyi durdurarak gerekli müdahaleyi yapar.",
+  "Makinenin günlük ve haftalık bakımını yapar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Bu meslekte örgün bir eğitim programı ve buna bağlı bir ilerleme basamağı tanımlı değildir. Çalışanlar, Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kurslarına katılarak bilgi ve becerilerini geliştirebilirler.",
+  "is_hayatinda": "Deneyim kazanan operatörler, işletme içinde usta başı, vardiya sorumlusu veya üretim/kalite kontrol sorumlusu gibi görevlere yükselebilir. Yeterli birikim ve sermayeye sahip olanlar, uygun koşullarda kendi küçük ölçekli üretim işletmelerini kurabilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Mesleğe yönelik örgün bir eğitim programı bulunmadığından, öğrencilik dönemine özgü bir kazanç söz konusu değildir. İşe yeni başlayanlar, işyerinin uygulamalarına göre bir deneme/işbaşı eğitimi sürecinde çalışır ve bu süreçte genellikle işletmenin belirlediği ücreti alır.",
+  "egitim_sonrasi": [
+   "İşe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Deneyim, performans ve işletmenin büyüklüğüne göre ücret artabilir.",
+   "Ücret, özel sektörde işveren ile çalışan arasındaki anlaşmaya ve işletme koşullarına göre değişiklik gösterir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T16:33:23",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5937
+  }
+ }
+}

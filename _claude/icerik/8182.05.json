@@ -1,0 +1,73 @@
+{
+ "arac_gerec": [
+  "Buhar kazanı (boyler)",
+  "Akaryakıt (mazot) veya diğer yakıtlar",
+  "Yakıt pompası ve yakıt hatları",
+  "Yakıt püskürtme memesi (enjektör/meme)",
+  "Basınç göstergesi (manometre)",
+  "Su seviye göstergesi",
+  "Hava besleme vanaları ve kontrol düzenekleri",
+  "Anahtar takımları, tornavida, pense",
+  "Yağdanlık ve yağlama ekipmanları",
+  "Temizlik fırçası, üstüpü",
+  "Koruyucu eldiven, gözlük ve iş elbisesi",
+  "El feneri",
+  "Yangın söndürme ekipmanları"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve tedbirli,",
+  "Sorumluluk sahibi,",
+  "Fiziksel olarak dayanıklı,",
+  "Yüksek sıcaklıkta ve gürültülü ortamda çalışmaya uygun,",
+  "Vardiyalı çalışmaya ve uzun süre denizde kalmaya uygun,",
+  "Ekip halinde çalışmaya istekli,",
+  "El ve beden becerisine sahip,",
+  "Talimatlara uyan"
+ ],
+ "calisma_ortami": "Gemi ateşçisi, geminin makine dairesinde, kazan ve yakıt sistemlerinin bulunduğu kapalı, sıcak, nemli ve gürültülü bir ortamda çalışır. Çalışma sırasında genellikle ayakta durulur; yakıt kokusu, yüksek sıcaklık, buhar ve titreşim gibi koşullara maruz kalınır. İş, yanık, buhar kaçağı, yakıt sızıntısı ve yangın gibi riskler içerebileceğinden iş sağlığı ve güvenliği kurallarına titizlikle uyulması gerekir.\\n\\nGörev genellikle vardiyalı sistemle, geminin seyir süresine bağlı olarak uzun saatler ve bazen uzun deniz yolculukları şeklinde yürütülür. Çalışma sırasında makine dairesindeki diğer mürettebatla (yağcı, makine zabiti/mühendis vb.) yakın iş birliği içinde olunur ve kaptan köprüsünden gelen talimatlar doğrultusunda hareket edilir.",
+ "gorevler": [
+  "Su tanklarını ve buhar basıncını istenilen seviyede tutar.",
+  "Ocaklara verilen hava ve yakıt miktarlarını kontrol eder ve ocaklara yakıt püskürten memeleri temizler.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Gemi ateşçiliği ilköğretim düzeyinde bir meslek olup, bu meslek için ayrı bir örgün meslek eğitim programı genellikle bulunmamaktadır. Meslek, genellikle gemilerde işbaşında usta-çırak ilişkisi içinde deneyimli makine dairesi personelinin gözetiminde öğrenilmekte; denizcilikle ilgili temel bilgiler ise gemiadamları için düzenlenen temel eğitim ve güvenlik kurslarında kazanılmaktadır.",
+  "giris_kosullari": [
+   "Gemide çalışacak kişilerde ilgili mevzuat kapsamında belirlenen yaş ve sağlık şartlarının (sağlık raporu, deniz işine uygunluk vb.) karşılanması gerekir.",
+   "İlköğretim mezunu olmak genellikle yeterli görülür.",
+   "Yüzme bilmek ve denizde uzun süreli çalışmaya fiziksel olarak uygun olmak beklenir."
+  ],
+  "sure_ve_icerik": "Resmî olarak tanımlanmış, standart süreli bir örgün eğitim programı bulunmamaktadır. Mesleğe giriş genellikle gemide işbaşında, deneyimli personelin gözetiminde kazan ve yakıt sistemlerinin tanınması, güvenlik kuralları ve temel bakım işlemlerinin öğrenilmesiyle gerçekleşir. Ayrıca denizcilik sektöründe çalışacak kişilerin ilgili mevzuat kapsamında temel güvenlik ve yangınla mücadele gibi eğitimleri alması gerekebilir.",
+  "belge": "Standart bir meslek diploması ya da kurs bitirme belgesi bulunmamaktadır; denizcilik mevzuatı kapsamında alınması gereken gemiadamı cüzdanı ve ilgili temel eğitim/güvenlik sertifikaları iş bulmada önemli olabilir."
+ },
+ "calisma_alanlari": "Gemi ateşçisi, ana ve yardımcı makinelerine buhar sağlayan kazan sistemine sahip gemilerin makine dairesinde istihdam edilir. Bu meslek, teknolojik gelişmelerle birlikte gemilerde buharlı kazan sistemlerinin yerini büyük ölçüde dizel ve elektronik kontrollü sistemlerin almasıyla daralmış bir çalışma alanına sahiptir. Buhar kazanlı ticaret gemileri, bazı özel amaçlı gemiler ve yüzer tesislerde iş bulma olanağı bulunmaktadır. İş bulma olanakları, denizcilik sektöründeki istihdam hareketliliğine ve bu tür kazan sistemine sahip gemi sayısına bağlı olarak sınırlı ve değişkendir.",
+ "kazanc": {
+  "egitim_suresince": "Meslek, örgün bir eğitim programıyla değil genellikle işbaşında öğrenildiği için eğitim süresince ayrı bir kazanç söz konusu değildir; ancak gemide çalışmaya başlanan dönemde asgari ücret düzeyinde bir gelir elde edilebilir.",
+  "egitim_sonrasi": [
+   "Deneyimsiz gemi ateşçileri genellikle asgari ücret düzeyinde bir ücretle işe başlar.",
+   "Deneyim, çalışılan gemi türü, sefer süresi ve işletmenin uygulamalarına göre ücret artabilir.",
+   "Özel sektörde ücret, işveren ile çalışan arasındaki anlaşmaya ve geminin sefer bölgesine (yurt içi/yurt dışı sefer) göre değişiklik gösterebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Meslekte ayrı bir örgün ilerleme basamağı bulunmamakla birlikte, kişi deneyim kazandıkça ve ilgili sertifika/eğitimleri tamamladıkça makine dairesinde yağcılık gibi daha üst görevlere veya ilave eğitimlerle gemi makineleri alanındaki diğer unvanlara yönelebilir.",
+  "is_hayatinda": "Deneyim ve kıdem arttıkça makine dairesinde sorumluluk düzeyi daha yüksek görevlere geçiş mümkün olabilir. Ancak buharlı kazan sistemli gemilerin azalması nedeniyle meslekte sektörel daralma yaşanmakta, çalışanların benzer kazan/makine operatörlüğü alanlarına yönelmesi söz konusu olabilmektedir."
+ },
+ "benzer_meslekler": [
+  "Gemi Ateşçisi (Kömürlü)",
+  "Ateşçi (Buharlı Lokomotif)",
+  "Diğer Makine Dairesi Mürettebatı ve Ateşçileri",
+  "Buhar Kazanı Operatörü/Kazan Ateşçisi",
+  "Kalorifer Ateşçisi",
+  "Atık Isı Kazanı Operatörü"
+ ],
+ "ek_bilgiler": "Buharlı kazan sistemiyle çalışan gemi sayısının azalması nedeniyle bu meslek günümüzde sınırlı bir istihdam alanına sahiptir. Denizcilik sektöründe çalışacak kişilerin, ilgili mevzuat kapsamında gemiadamı belgesi ve temel güvenlik eğitimleri gibi şartları karşılaması gerekebilir; bu belgeler istihdamda belirleyici olabilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T17:05:49",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5438
+  }
+ }
+}

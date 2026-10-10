@@ -1,0 +1,82 @@
+{
+ "arac_gerec": [
+  "Pnömatik ve elektrikli somun sıkma/tornavida tabancaları",
+  "Tork anahtarları ve ayarlı el aletleri",
+  "Anahtar takımları, pense, çekiç gibi genel el aletleri",
+  "Parça taşıma ve kaldırma ekipmanları (vinç, pres, konveyör, forklift, transpalet)",
+  "Montaj hattına özgü aparat ve fikstürler",
+  "Ölçüm ve kontrol aletleri (mastar, kumpas, tork ölçer)",
+  "Taşıma arabaları ve paletler",
+  "Kişisel koruyucu donanım (iş eldiveni, koruyucu gözlük, iş ayakkabısı, kulak tıkacı)",
+  "Otomasyon/robot destekli montaj ekipmanları"
+ ],
+ "genel_ozellikler": [
+  "El ve beden becerisine sahip,",
+  "El ve gözlerini eşgüdümle kullanabilen,",
+  "Dikkatli ve sabırlı,",
+  "Fiziksel olarak dayanıklı,",
+  "Mekanik konulara ilgili ve yetenekli,",
+  "Takım çalışmasına yatkın,",
+  "Talimatlara uyabilen,",
+  "Düzenli ve disiplinli çalışabilen"
+ ],
+ "gorevler": [
+  "İş sağlığı ve güvenliği, yangın ve acil durum kurallarını uygular,",
+  "Çevre koruma mevzuatına uygun çalışır,",
+  "Kalite yönetim sistemi dokümanlarına uygun çalışır,",
+  "Çalıştığı yeri düzenler,",
+  "Çalışma alet ve donanımlarının koruyucu ve talimatlı bakımlarını sağlar,",
+  "Monte edilecek parçayı hazırlar,",
+  "Parça üzerinde gerekli ayarları yapar,",
+  "Monte edilecek parçayı taşır,",
+  "İşlem sırası gelen araç üzerinde yapılması gereken hazırlıkları tamamlar,",
+  "Önceden montajı yapılan parçaları kontrol eder,",
+  "Koruma işlemlerini gerçekleştirir,",
+  "Monte edilecek parçayı araç üzerindeki uygun konuma getirir,",
+  "Monte edilecek parçayı sabitler,",
+  "Monte edilen parçayla ilgili bağlantı ve ayarları gerçekleştirir,",
+  "Görevi biten alet ve aparatların güvenli bir şekilde araçtan uzaklaşmasını sağlar,",
+  "Montaj işlemini kontrol eder ve sonuçları raporlar,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "calisma_ortami": "Otomotiv montaj işçileri, otomobil ve diğer kara taşıtlarının üretildiği fabrikaların montaj hatlarında, kapalı atölye/üretim ortamlarında çalışırlar. Çalışma genellikle ayakta ve montaj hattının belirlediği tempoya bağlı olarak, bazen eğilerek veya aynı hareketleri tekrarlayarak yürütülür; vardiyalı çalışma düzeni yaygındır.\\n\\nİş aletlerinin ve hat makinelerinin kullanımı nedeniyle gürültü bulunabilir ve iş kazası riski taşıyan bir ortamdır; bu nedenle iş sağlığı ve güvenliği kurallarına uyulması ve kişisel koruyucu donanımın kullanılması önemlidir. Çalışma sırasında hat arkadaşları, usta başı/hat sorumluları ve kalite kontrol personeli ile sürekli iletişim halinde çalışılır.",
+ "calisma_alanlari": "Otomotiv montaj işçileri; otomobil, ticari araç, otobüs, kamyon gibi araçların üretildiği fabrikaların montaj hatlarında ve bu fabrikalara parça/aksam üreten otomotiv yan sanayi işletmelerinde istihdam edilirler. Otomotiv üretiminin yoğunlaştığı sanayi bölgelerinde iş bulma olanakları daha fazladır.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğe özgü örgün bir mesleki ve teknik eğitim programı bulunmamaktadır. Meslek elemanları genellikle işletmeler bünyesinde işbaşında, usta yanında yetiştirilir; ayrıca Halk Eğitim Merkezleri ile İŞKUR'un açtığı mesleki eğitim kurslarında da mesleğe yönelik temel bilgi ve beceriler kazandırılabilmektedir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak (mesleğin gerektirdiği asgari eğitim düzeyi)",
+   "Mesleğin fiziksel gerekliliklerine (uzun süre ayakta çalışma, belirli duruşlar ve tekrarlayan hareketler) uygun sağlık durumuna sahip olmak",
+   "İşe alınacağı işletmenin belirlediği yaş ve diğer koşulları taşımak"
+  ],
+  "sure_ve_icerik": "Mesleğe özgü standart süreli ve içerikli bir eğitim programı bulunmamaktadır. İşe yeni başlayanlar, işletme bünyesinde kısa süreli oryantasyon ve iş başı eğitimleriyle, deneyimli bir usta veya hat sorumlusunun gözetiminde mesleği öğrenirler. Bu süreçte montaj teknikleri, kullanılan alet ve ekipmanların tanıtımı, iş sağlığı ve güvenliği kuralları ile kalite standartları uygulamalı olarak aktarılır.",
+  "belge": "Örgün eğitim sonunda verilen bir diploma veya sertifika bulunmamaktadır. Katılınan kurslar sonunda kurs bitirme belgesi, işletme içi eğitimler sonunda ise katılım belgesi verilebilir. Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Mesleğe özgü örgün bir eğitim süreci bulunmadığından, işe yeni başlayanlar genellikle işletmenin belirlediği deneme süresi ücreti veya asgari ücret düzeyinde bir ücretle çalışmaya başlarlar.",
+  "egitim_sonrasi": [
+   "Özel sektörde çalışanların kazancı; işletmenin büyüklüğüne, çalışanın deneyimine, becerisine ve varsa toplu iş sözleşmesi hükümlerine göre değişmektedir.",
+   "Yeni başlayanlar genellikle asgari ücret düzeyinde kazanç elde eder; deneyim kazandıkça, vardiya ve prim uygulamalarına bağlı olarak kazanç artabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğe özgü örgün bir eğitim basamağı bulunmadığından mesleki eğitimde ilerleme söz konusu değildir. İsteyenler, ilgili alanlarda açılan mesleki eğitim ve sertifika programlarına katılarak bilgi ve becerilerini artırabilir; ayrıca açık öğretim veya örgün eğitim yoluyla genel eğitim düzeylerini yükseltebilirler.",
+  "is_hayatinda": "Deneyim kazandıkça ekip lideri, usta başı veya hat sorumlusu gibi görevlere yükselebilirler. Ek eğitim ve sertifikalarla kalite kontrol, bakım-onarım gibi farklı birimlere geçiş yapabilirler."
+ },
+ "benzer_meslekler": [
+  "Makine Montaj İşçisi",
+  "Makine Montajcısı",
+  "Otomotiv Montajcısı",
+  "Treyler Montaj İşçisi",
+  "Lastik-Jant Montaj İşçisi",
+  "Metal Mamuller Alıştırıcı Montörü (Genel)"
+ ],
+ "ek_bilgiler": "Otomotiv sektörü, ülkemizde üretim ve istihdam hacmi yüksek bir sanayi koludur; bu nedenle montaj işçiliği alanındaki istihdam olanakları sektörün ve üretim hacminin durumuna bağlı olarak değişkenlik gösterebilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T17:42:42",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5991
+  }
+ }
+}

@@ -1,0 +1,73 @@
+{
+ "arac_gerec": [
+  "Bilgisayar ve hastane/sağlık bilgi yönetim sistemleri yazılımları",
+  "Nöbet ve çalışma programı planlama araçları (çizelge, yazılım)",
+  "Tıbbi sarf malzeme ve ilaç stok takip sistemleri",
+  "Tansiyon aleti, termometre gibi temel tıbbi ölçüm cihazları",
+  "Monitör, EKG cihazı gibi hasta takip ekipmanları",
+  "Telefon, telsiz ve dahili anons/iletişim sistemleri",
+  "Hasta bakım standartları ve prosedür dokümanları",
+  "Personel performans değerlendirme formları",
+  "Pansuman ve enjeksiyon malzemeleri",
+  "Rapor ve kayıt tutmaya yönelik dosyalama sistemleri"
+ ],
+ "genel_ozellikler": [
+  "Sorumluluk duygusu yüksek,",
+  "Liderlik ve yöneticilik becerisine sahip,",
+  "İyi iletişim kurabilen,",
+  "Organizasyon ve planlama becerisi gelişmiş,",
+  "Çabuk ve doğru karar verebilen,",
+  "Stresli ortamlarda sakin kalabilen,",
+  "Empatik, hoşgörülü ve insan ilişkilerinde başarılı,",
+  "Ekip çalışmasına uygun"
+ ],
+ "calisma_ortami": "Sorumlu hemşireler; hastaneler, klinikler, sağlık merkezleri gibi genellikle kapalı, temiz ve belirli hijyen standartlarına uygun ortamlarda çalışır. Görev yaptığı birime bağlı olarak hastalarla doğrudan temasın yanı sıra büro çalışması niteliğinde planlama, raporlama ve koordinasyon işleriyle de ilgilenir.\n\nÇalışma saatleri genellikle sağlık kurumunun nöbet ve vardiya sistemine bağlıdır; gece nöbeti, hafta sonu ve resmi tatil çalışması söz konusu olabilir. Meslek mensubu, çalıştığı birimdeki hemşireler ve diğer sağlık personeli, hekimler, idari yöneticiler, hastalar ve hasta yakınları ile sürekli iletişim halindedir. İş yükü yoğun olabilir ve ani gelişen sağlık durumlarına hızlı müdahale gerektirebilir; bu nedenle zaman zaman stresli ve yorucu bir çalışma temposu söz konusudur.",
+ "egitim": {
+  "verildigi_yerler": "Üniversitelere bağlı hemşirelik fakülteleri, hemşirelik yüksekokulları veya sağlık bilimleri fakültelerinin hemşirelik bölümlerinde lisans düzeyinde eğitim verilmektedir. Sorumlu hemşirelik görevine ilişkin ayrıca tanımlanmış, bağımsız bir örgün eğitim programı bulunmamaktadır; bu göreve genellikle hemşirelik mesleğinde edinilen kıdem ve deneyim sonrasında atama yoluyla gelinir.",
+  "giris_kosullari": [
+   "Lise veya dengi okul mezunu olmak",
+   "YKS (Yükseköğretim Kurumları Sınavı) kılavuzunda belirtilen giriş koşullarını taşımak ve hemşirelik lisans programına yerleşmek",
+   "İlgili meslek yüksekokulu/önlisans programı mezunlarının Dikey Geçiş Sınavı (DGS) ile hemşirelik lisans programına geçiş yapması da mümkündür",
+   "Sorumlu hemşire olarak görevlendirilebilmek için genellikle hemşire olarak belirli bir süre mesleki deneyime sahip olmak gerekir"
+  ],
+  "sure_ve_icerik": "Hemşirelik lisans eğitiminin süresi 4 yıldır ve teorik derslerle klinik uygulamaları birlikte kapsar. Eğitim sürecinde insan anatomisi ve fizyolojisi, hastalıklar ve bakım ilkeleri, ilaç bilgisi ve uygulama yöntemleri, hijyen ve enfeksiyon kontrolü, hasta ve personel eğitimi, sağlık mevzuatı ve sağlık hizmetleri yönetimi gibi konularda bilgi ve beceri kazandırılır. Lisans eğitimini tamamladıktan sonra, hemşire olarak çalışılan sağlık kurumunda edinilen deneyim ve gösterilen performans doğrultusunda, bazı durumlarda ilave hemşirelik yönetimi veya liderlik eğitimleri/sertifika programları alınarak sorumlu hemşirelik görevine atanılabilir.",
+  "belge": "Eğitimini başarı ile tamamlayanlara hemşirelik lisans diploması verilir. Sorumlu hemşirelik görevi için ayrı bir diploma bulunmamakla birlikte, kurum içi görevlendirme veya atama yazısı bu göreve ilişkin belgeyi oluşturur. Mesleki Yeterlilik Kurumu (MYK) tarafından hemşirelik yönetimi/liderlik alanında verilen belgeler, bazı kurumlarda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Sorumlu hemşireler; kamuya bağlı devlet hastaneleri, üniversite hastaneleri, Sağlık Bakanlığına bağlı sağlık kuruluşları ile özel hastaneler, özel klinikler ve bakım merkezlerinde, hizmet verilen servis veya birimin hemşirelik yönetiminden sorumlu olarak görev alabilirler. Sağlık sektöründeki hemşire ihtiyacının sürekliliği nedeniyle, yeterli deneyime sahip hemşireler için bu göreve geçiş imkânı genellikle mevcuttur; ancak bu pozisyonların sayısı, hemşire kadrolarına kıyasla daha sınırlıdır ve genellikle kurum içi değerlendirme ve kıdem esasına göre doldurulur.",
+ "kazanc": {
+  "egitim_suresince": "Hemşirelik lisans eğitimi süresince öğrenciler, Kredi ve Yurtlar Genel Müdürlüğünün sağladığı öğrenim kredisi ve yurt hizmetlerinden yararlanabilir; bazı üniversiteler ve kurumlar burs imkânı sunabilir. Sorumlu hemşirelik görevi için ayrı bir eğitim dönemi ve bu döneme özgü bir kazanç söz konusu değildir; bu göreve çalışma hayatı içinde atama yoluyla geçilir.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında çalışan sorumlu hemşireler, 657 sayılı Devlet Memurları Kanunu çerçevesinde belirlenen maaş ve ek ödemelerden yararlanır; yönetici konumunda olmaları nedeniyle ek görev tazminatı alabilirler.",
+   "Özel sağlık kuruluşlarında kazanç, kurumun büyüklüğü, deneyim, sorumluluk kapsamı ve karşılıklı anlaşmaya göre değişiklik gösterir.",
+   "Yeni atanan ya da daha az deneyimli sorumlu hemşirelerin kazancı genellikle hemşirelere kıyasla biraz daha yüksek olmakla birlikte, kurum ve bölgeye göre farklılık gösterebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Lisans eğitimini tamamlayan hemşireler, hemşirelik yönetimi, hastane yönetimi, halk sağlığı veya ilgili klinik alanlarda yüksek lisans ve doktora programlarına devam ederek akademik kariyer yapabilir ya da uzmanlık alanlarına yönelik sertifika programlarına katılabilirler.",
+  "is_hayatinda": "Sorumlu hemşireler, edindikleri yönetim deneyimi ve performansa bağlı olarak başhemşirelik, hemşirelik hizmetleri müdürlüğü veya sağlık hizmetleri yöneticiliği gibi daha üst düzey yönetim pozisyonlarına yükselebilirler. Ayrıca eğitim, kalite yönetimi veya hastane idaresi gibi farklı birimlerde görev alma imkânına sahip olabilirler."
+ },
+ "benzer_meslekler": [
+  "Başhemşire",
+  "Hemşire",
+  "Hemşire-Klinik",
+  "Uzman Hemşire",
+  "Diğer Hemşireler"
+ ],
+ "ek_bilgiler": "Sorumlu hemşirelik, hemşirelik mesleğinde bağımsız bir giriş mesleği değil; genellikle lisans eğitimi ve belirli süreli mesleki deneyim sonrasında kurum içi atama veya görevlendirme yoluyla ulaşılan bir yönetim pozisyonudur. Bu nedenle mesleğe yönelik ayrı bir eğitim programı veya resmi giriş sınavı bulunmamaktadır; aday hemşirelerin öncelikle hemşirelik mesleğinde deneyim kazanması gerekir.",
+ "gorevler": [
+  "Hemşirelik hizmetlerinin çalışma programını ve nöbet listelerini hazırlar.",
+  "Hasta bakım standartlarının uygulanmasını denetler.",
+  "Tıbbi sarf malzemelerinin stok yönetimini ve ilaç takibini koordine eder.",
+  "Birim içi personelin eğitim ve performans değerlendirme süreçlerini yürütür.",
+  "Hekimler ve diğer birimlerle hasta bakım koordinasyonunu sağlar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-07T23:16:15",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5007
+  }
+ }
+}

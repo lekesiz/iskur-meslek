@@ -1,0 +1,70 @@
+{
+ "arac_gerec": [
+  "Baskı makineleri (operatöre yardımcı olarak kullanılan)",
+  "Baskı malzemeleri (kağıt, karton, mürekkep, boya)",
+  "Taşıma arabaları, el arabaları, paletler",
+  "Forklift/transpalet (büyük işletmelerde)",
+  "Temizlik malzemeleri (bez, solvent, deterjan, fırça)",
+  "Yağlama ve bakım ekipmanları",
+  "Kurutma rafları, istif sehpaları",
+  "Ambalaj ve paketleme malzemeleri",
+  "Koruyucu eldiven, gözlük ve maske",
+  "Konveyör/kayar bant sistemleri",
+  "Ölçüm ve kontrol araçları (cetvel, kumpas vb.)"
+ ],
+ "genel_ozellikler": [
+  "El ve beden gücünü etkin biçimde kullanabilen,",
+  "Dikkatli ve sorumluluk sahibi,",
+  "Fiziksel olarak dayanıklı,",
+  "Ekip çalışmasına uyumlu,",
+  "Düzenli ve tertipli çalışabilen,",
+  "Talimatları doğru ve hızlı uygulayabilen,",
+  "Makine ve malzeme ile çalışmaktan hoşlanan,",
+  "Öğrenmeye ve yeni bilgi edinmeye açık"
+ ],
+ "calisma_ortami": "Diğer Baskıcılar, matbaa ve basımevlerinin üretim atölyelerinde, kapalı ortamda çalışır. Çalışma alanı, baskı makinelerinin bulunduğu bölümler olduğu için genellikle gürültülüdür; kullanılan mürekkep, boya, solvent ve temizlik maddeleri nedeniyle ortamda keskin kokular bulunabilir. Çalışma büyük ölçüde ayakta geçer; malzeme taşıma, eğilme, uzanma ve kaldırma gibi fiziksel efor gerektiren hareketler sık yapılır.\n\nİşyerinin iş hacmine göre mesai saatleri uzayabilir; basımevi statüsündeki büyük işletmelerde vardiyalı çalışma söz konusu olabilir. Çalışma sırasında başta baskı makinesi operatörleri olmak üzere diğer atölye çalışanları, usta ve işletme yöneticileriyle sürekli iletişim halinde olunur.",
+ "egitim": {
+  "verildigi_yerler": "Bu meslek ilköğretim düzeyinde bir meslek olarak tanımlanmakta olup, bağımsız ve standart bir örgün meslek eğitimi programı bulunmamaktadır. Eğitim genellikle matbaa ve basımevi işletmelerinde işbaşında, usta yanında uygulamalı olarak kazanılır. Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kurslarında da baskı/matbaa konularında kısa süreli kurslar düzenlenebilir. Mesleki ve teknik eğitim kurumlarının Matbaa Teknolojisi alanındaki programları, baskı sektöründe daha nitelikli görevlere (örneğin baskı makinesi operatörlüğü) geçiş için temel oluşturabilir.",
+  "giris_kosullari": [
+   "İlköğretim okulu mezunu olmak (mesleğin gerektirdiği asgari eğitim düzeyi)",
+   "Fiziksel olarak çalışma koşullarına uygun olmak",
+   "Açılacak kurslara katılım için ilgili kurumların belirlediği koşulları taşımak"
+  ],
+  "sure_ve_icerik": "Mesleğin standart bir eğitim süresi ve müfredatı bulunmamaktadır. İşbaşında usta yanında öğrenme süreci işyerinin ihtiyacına ve kişinin öğrenme hızına göre değişmekte, temel iş ve işlemler genellikle kısa sürede kavranabilmektedir. Açılan kurslarda ise baskı makinelerinin tanınması, malzeme ikmali, temel bakım-temizlik kuralları, ürünlerin kurutulması, istiflenmesi ve sevkiyatı gibi konular işlenebilir.",
+  "belge": "Örgün bir meslek eğitimi programı bulunmadığından diploma niteliğinde bir belge söz konusu değildir. Katılınan kurslar sonunda katılım veya başarı belgesi verilebilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, ilgili alanda düzenlenmişse, istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Diğer Baskıcılar; matbaalarda, basımevlerinde, ambalaj ve etiket üreten işletmelerin baskı atölyelerinde, gazete-dergi basım tesislerinde ve tekstil baskı işletmelerinde baskı makinesi operatörlerine yardımcı olarak çalışabilirler. Küçük ölçekli matbaalarda malzeme ikmali, makine bakım-temizliği, ürün kurutma, istifleme ve sevkiyat gibi görevlerin birkaçı aynı kişi tarafından yürütülebilirken, büyük basımevlerinde çalışanlar belirli görevlerde uzmanlaşabilir.\n\nMatbaacılık sektörü, basılı ürünlere olan talebin sürekliliği nedeniyle istihdam sağlamaya devam etmektedir; ancak dijitalleşme, otomasyon ve dijital baskı teknolojilerinin yaygınlaşması, bu mesleğin kapsadığı yardımcı nitelikteki iş hacmini orta ve uzun vadede etkileyebilir.",
+ "kazanc": {
+  "egitim_suresince": "Örgün bir meslek eğitimi programı bulunmadığından bu meslekte öğrenme genellikle doğrudan çalışarak (işbaşında usta yanında) gerçekleşir; bu süreçte kişi işyerinde çalışan statüsünde ücret alır.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Kazanç; işyerinin büyüklüğü, kişinin tecrübesi, çalışma kapasitesi ve sektörün ücret düzeyine göre değişebilir.",
+   "Kamuya bağlı basımevlerinde işçi statüsünde çalışanların ücreti ilgili toplu iş sözleşmesi hükümlerine göre belirlenir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Bu meslekte örgün bir eğitim kademesi bulunmadığından ilerleme büyük ölçüde işyerinde kazanılan tecrübe ve beceriye bağlıdır. Deneyim kazanan ve isteyen kişiler, mesleki ve teknik eğitim kurumlarının Matbaa Teknolojisi alanındaki programlarına veya mesleki eğitim merkezlerindeki ustalık eğitimine yönelerek baskı makinesi operatörlüğü gibi daha nitelikli mesleklere geçiş yapabilir.",
+  "is_hayatinda": "Tecrübe kazandıkça baskı makinesi operatörlüğüne terfi edebilir, yardımcılıktan ustalığa geçebilir, atölyede nezaretçi/ustabaşı gibi sorumluluk üstlenebilir veya ilgili alanda kendi işini kurabilir."
+ },
+ "benzer_meslekler": [
+  "Matbaa İşçisi",
+  "Matbaa İşçisi (Baskı Sonrası)",
+  "Diğer Başka Yerde Sınıflandırılmamış Baskı İşçileri",
+  "Baskı Sonrası Operatörü",
+  "Boya Mutfağı Elemanı"
+ ],
+ "ek_bilgiler": "Bu meslek, baskı makinesi operatörüne yardımcı nitelikte görevleri kapsadığından, bağımsız ve standart bir meslek eğitimi programı veya ustalık-kalfalık düzenlemesi bulunmamaktadır. Burada verilen eğitim ve kazanç bilgileri, genel matbaacılık sektörü uygulamaları esas alınarak ihtiyatlı bir şekilde sunulmuştur.",
+ "gorevler": [
+  "Baskı işinde kullanılan malzemelerin makinelere ikmalinde ve makinelerin bakım ve temizliğinde baskı makinesi operatörlerine yardım eder.",
+  "Baskıdan çıkan mamulleri kurutur, istifler ve sevk eder.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T05:33:36",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6090
+  }
+ }
+}

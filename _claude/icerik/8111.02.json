@@ -1,0 +1,82 @@
+{
+ "gorevler": [
+  "Mineralleri el ya da kompresör kazması ile koparır.",
+  "El ya da kompresör matkabından faydalanarak çalışılan yüzeyde delikler açar.",
+  "Açılan deliklere patlayıcı maddeler yerleştirir.",
+  "Patlamadan sonra kopan mineralleri kürekle vagonetlere ya da konveyöre yükler.",
+  "Yüklenen vagonetleri taşımak üzere raylara sürer.",
+  "Nakliye olukları ya da geçici iskeletler kurar.",
+  "Duvar ve tavanların takviyesi için ahşap ya da çelik payanda, dayanak ve kemerler kurar.",
+  "Vagonet raylarını çalışılan maden yüzüne kadar uzatır.",
+  "Gerektiğinde matkapla açılan delikler içindeki patlayıcı maddeleri ateşler ve maden kuyuları açma gibi ek işler yapar.",
+  "Çıkarılan minerallerin cinsine göre ayrımını yapar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "arac_gerec": [
+  "El ve kompresör kazması",
+  "El ve kompresör matkabı (delici)",
+  "Patlayıcı madde ve fünye",
+  "Vagonet ve ray takımları",
+  "Konveyör bant",
+  "Kürek, balyoz",
+  "Ahşap ve çelik payanda, dayanak ve kemer malzemeleri",
+  "Nakliye oluğu ve geçici iskele malzemeleri",
+  "Kişisel koruyucu donanım (baret, toz/gaz maskesi, koruyucu gözlük, eldiven, çelik burunlu bot, oksijenli ferdi kurtarıcı)",
+  "Yeraltı aydınlatma lambası",
+  "Havalandırma ve gaz ölçüm cihazları",
+  "Yeraltı telefonu ve telsiz",
+  "Metre"
+ ],
+ "genel_ozellikler": [
+  "Fiziksel olarak güçlü ve dayanıklı,",
+  "Dar, kapalı ve sınırlı alanlarda rahatlıkla çalışabilen,",
+  "Dikkatli ve tedbirli,",
+  "El ve beden koordinasyonu iyi,",
+  "Ekip çalışmasına yatkın,",
+  "Sorumluluk sahibi,",
+  "Zor ve tehlikeli koşullarda soğukkanlı,",
+  "Kurallara ve talimatlara uyan,"
+ ],
+ "calisma_ortami": "Madenci (Genel), çoğunlukla yeraltında bazen de yerüstü açık ocaklarda çalışır. Çalışma ortamı tozlu, nemli, karanlık veya yetersiz aydınlatılmış, gürültülü olabilir; metan, karbonmonoksit gibi gazlara maruz kalma, göçük, patlama ve düşme gibi riskler içerir. Bu nedenle çalışma süresince kişisel koruyucu donanım kullanımı ve iş sağlığı güvenliği kurallarına uyum zorunludur.\n\nÇalışma genellikle ekip halinde ve ayakta, zaman zaman eğilerek veya diz üstü pozisyonda yürütülür. İşletmenin üretim programına göre vardiyalı (genellikle üç vardiya) çalışma düzeni yaygındır. Madenci; ateşleyici, nezaretçi, ustabaşı, maden mühendisi, tahkimatçı ve diğer yeraltı/yerüstü maden işçileriyle sürekli iş birliği içinde görev yapar.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi genellikle işletmelerde usta yanında işbaşı eğitimi yoluyla kazanılır. Bunun yanında Halk Eğitim Merkezleri ve İŞKUR tarafından açılan mesleki eğitim kurslarında da madencilik alanına yönelik eğitimler verilmektedir. Mesleki ve teknik eğitim kurumlarının madencilik ve maden çıkarma alanındaki programları da bu mesleğe hazırlayıcı nitelik taşıyabilir.",
+  "giris_kosullari": [
+   "En az ilkokul mezunu olmak (mesleğin gerektirdiği asgari eğitim düzeyi ilköğretimdir).",
+   "Yeraltında ve ağır, tehlikeli işlerde çalışmaya elverişli olduğunu gösterir sağlık raporuna sahip olmak.",
+   "18 yaşını doldurmuş olmak (yeraltı maden işlerinde çalışacaklar için)."
+  ],
+  "sure_ve_icerik": "Eğitimin süresi ve içeriği düzenleyen kuruma göre değişmekle birlikte, kurslarda genel olarak iş sağlığı ve güvenliği, maden ocağı tanıma, kazı ve delik açma teknikleri, patlayıcı madde ile güvenli çalışma, tahkimat uygulamaları ve nakliyat konuları yer alır. Mesleğin uygulamalı kısmı büyük ölçüde iş başında, deneyimli bir usta gözetiminde öğrenilir.",
+  "belge": "Kurs bitirme/katılım belgesi verilmektedir. Madencilik, tehlikeli ve çok tehlikeli işler kapsamında değerlendirildiğinden, bazı maden işlerinde Mesleki Yeterlilik Kurumu (MYK) Mesleki Yeterlilik Belgesi istihdamda aranan veya tercih edilen bir belge olabilir."
+ },
+ "calisma_alanlari": "Madenciler; kömür, metal cevheri, taş ve diğer katı minerallerin çıkarıldığı yeraltı ocaklarında, açık ocaklarda ve taş ocaklarında çalışır. Kamuya ait maden işletmeleri ile özel sektöre ait maden ve taş ocağı şirketlerinde istihdam edilebilirler. İş bulma olanakları, bulunulan bölgedeki maden yataklarının varlığına ve sektördeki üretim yoğunluğuna bağlı olarak değişkenlik gösterir.",
+ "kazanc": {
+  "egitim_suresince": "Kurs döneminde genellikle bir kazanç söz konusu değildir. İşletmelerde verilen işbaşı eğitimlerinde çalışılan kuruma göre ücret ödenebilir.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde çalışmaya başlar.",
+   "Yeraltında çalışan işçilerin günlük ve haftalık çalışma süreleri ile taban ücretleri ilgili iş kanunu hükümleriyle özel olarak düzenlenmiştir.",
+   "Kazanç; deneyim, kıdem, çalışılan işletmenin büyüklüğü ve çalışma koşullarına göre değişebilir.",
+   "Kamu maden işletmelerinde çalışanlar toplu iş sözleşmesi hükümlerine, özel sektörde çalışanlar ise işveren ile yapılan anlaşmaya tabi olarak ücret alır."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Meslekte kademeli, resmi bir eğitim ilerleme sistemi bulunmamaktadır. Çalışanlar, deneyim kazandıkça ustabaşılık, nezaretçilik veya ateşleyicilik gibi görevlere yönelik ek eğitim ve kurslara katılabilirler.",
+  "is_hayatinda": "Deneyim, bilgi birikimi ve beceriye bağlı olarak ustalık, ekip liderliği, nezaretçilik veya ustabaşılık gibi görevlere yükselme imkânı bulunmaktadır."
+ },
+ "benzer_meslekler": [
+  "Tahkimatçı-Maden Ocağı",
+  "Taş Ocakçı (Genel)",
+  "Yeraltı Hazırlık İşçisi (Madencilik ve Maden Çıkarma)",
+  "Yeraltı Üretim İşçisi",
+  "Kazmacı-Maden ve Taşocağı",
+  "Tünel İşçisi"
+ ],
+ "ek_bilgiler": "Yeraltı maden işlerinde çalışma, 4857 sayılı İş Kanunu kapsamında çalışma süresi, dinlenme ve sağlık muayenesi açısından özel düzenlemelere tabidir. Madencilik, tehlikeli ve çok tehlikeli işler kapsamında yer aldığından, bazı maden meslekleri Mesleki Yeterlilik Kurumu (MYK) Mesleki Yeterlilik Belgesi zorunluluğu kapsamına alınmıştır; bu nedenle istihdamda MYK belgesine sahip olmak önemli bir avantaj veya şart olabilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T10:04:51",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6474
+  }
+ }
+}

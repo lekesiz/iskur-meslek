@@ -1,0 +1,76 @@
+{
+ "arac_gerec": [
+  "Radar cihazları",
+  "Radyo haberleşme ve telsiz sistemleri",
+  "Seyrüsefer (navigasyon) haritaları",
+  "Pusula ve yön bulma araçları",
+  "Uçuş kayıt defterleri ve formları",
+  "Hesap makinesi ve mesafe/zaman hesaplama araçları",
+  "Meteorolojik durum raporları",
+  "Uçuş planı belgeleri",
+  "GPS ve uydu tabanlı seyrüsefer sistemleri",
+  "İletişim kulaklığı (headset)",
+  "Liman ve meydan bilgi raporları"
+ ],
+ "benzer_meslekler": [
+  "Pilot",
+  "Uçuş Öğretmeni",
+  "Hava Trafik Kontrolörü-Radar",
+  "Hava Trafik Kontrolörü-Kule",
+  "Uçuş Performans ve Planlama Kontrolörü",
+  "AİM (Havacılık Bilgi Yönetimi) Memuru"
+ ],
+ "calisma_alanlari": "Seyrüseferciler, havayolu işletmelerinde, askıeri havacılık birliklerinde ve özel uçuş operasyonları yürüten kurumlarda uçuş ekibinin bir parçası olarak görev alabilirler.\n\nGünümüzde sivil havacılıkta uçağın rotasını belirleme işlevi büyük ölçüde elektronik seyrüsefer sistemleri (GPS, INS, uçuş yönetim sistemleri) tarafından üstlenildiğinden, bu meslekte istihdam alanı oldukça sınırlı olup daha çok askeri havacılık, özel uçuş operasyonları ve bazı özel amaçlı uçuşlarla sınırlı kalmaktadır.",
+ "calisma_ortami": "Seyrüseferciler, uçuş sırasında kapalı bir ortam olan uçak kabini içinde, genellikle pilot, yardımcı pilot ve diğer uçuş ekibi üyeleriyle birlikte görev yaparlar. Uçuş sırasında gürültülü ve titreşimli bir ortamda, yüksek dikkat ve konsantrasyon gerektiren koşullarda çalışırlar.\n\nÇalışma saatleri uçuş programına göre belirlenir; uzun uçuşlarda yorucu olabilen, düzensiz vardiyalar, gece uçuşları ve zaman dilimi değişiklikleri söz konusu olabilir. Hava trafik kontrolörleri, meteoroloji görevlileri ve yer personeli ile sürekli iletişim halindedirler. Özellikle zorlu hava koşullarında ve acil durumlarda hızlı ve doğru karar vermeleri gerekebilir.",
+ "egitim": {
+  "verildigi_yerler": "Seyrüseferci yetiştirmeye yönelik yaygın ve standart bir lisans/önlisans eğitim programı bulunmamaktadır. Eğitim genellikle Türk Silahlı Kuvvetleri bünyesindeki havacılık okulları ve birliklerinde ya da ilgili havacılık işletmelerinin kendi iç eğitim ve kurs programlarında verilmektedir.",
+  "giris_kosullari": [
+   "En az lise ve dengi okul mezunu olmak",
+   "Eğitimi veren kurumun belirlediği fiziksel ve sağlık şartlarını (görme, işitme, genel sağlık durumu vb.) taşımak",
+   "Yapılan sınav ve/veya mülakatlarda başarılı olmak",
+   "İyi derecede yabancı dil (İngilizce) bilmek",
+   "Askeri havacılık okullarına başvuranlar için ilgili askeri öğrenci alım şartlarını taşımak"
+  ],
+  "sure_ve_icerik": "Eğitimin süresi ve içeriği, eğitimi veren kuruma göre değişiklik gösterir. Genel olarak eğitim; seyrüsefer teknikleri, harita okuma, radar ve radyo sistemlerinin kullanımı, meteoroloji bilgisi, uçuş planlaması, mesafe ve zaman hesaplama yöntemlerine ilişkin teorik dersler ile uçuş içi uygulamalı eğitimleri kapsar.",
+  "belge": "Eğitimi başarıyla tamamlayanlara, eğitimi veren kurum tarafından düzenlenen bir sertifika veya yetki belgesi verilir."
+ },
+ "ek_bilgiler": "Seyrüseferci mesleği, uçaklarda GPS ve otomatik seyrüsefer/uçuş yönetim sistemlerinin yaygınlaşmasıyla birlikte sivil havacılıkta işlevinin büyük ölçüde elektronik sistemlere devredildiği bir meslektir. Günümüzde bu görev çoğunlukla askeri havacılık, özel uçuş operasyonları veya belirli özel amaçlı uçuşlarla sınırlı kalmış olup istihdam olanağı oldukça sınırlıdır. Meslek seçimi öncesinde güncel istihdam koşullarının ilgili kurum ve işletmelerden araştırılması önerilir.",
+ "genel_ozellikler": [
+  "Matematiksel ve analitik düşünme becerisine sahip,",
+  "Dikkatli ve sorumluluk sahibi,",
+  "Soğukkanlı, hızlı ve doğru karar verebilen,",
+  "Uzamsal (mekansal) algısı güçlü,",
+  "Yükseklik ve uçuş koşullarına uyum sağlayabilen,",
+  "Takım çalışmasına yatkın ve iletişim becerisi gelişmiş,",
+  "Teknik cihaz ve sistemleri etkin kullanabilen,",
+  "Stresli ve değişken koşullarda çalışabilen,"
+ ],
+ "gorevler": [
+  "Radar, radyo dalgaları, harita ve diğer seyrüsefer yardımcı aletlerinden yararlanarak uçağın yerini ve istikametini tayin eder.",
+  "Hava şartlarına göre rotadan yapacağı sapmaları tespit eder.",
+  "Uçuş kayıtları tutar.",
+  "Limanlar arası mesafeleri ölçerek uçuş mesafelerini tespit eder.",
+  "Limanların durumu hakkında bilgi alır.",
+  "Gerektiğinde yedek pilot olarak da görev yapar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Seyrüseferci olarak görev yapanlar, ileri seyrüsefer teknikleri, uçuş planlama, pilotaj veya hava trafik kontrolörlüğü gibi alanlarda ek eğitimler alarak bilgi ve becerilerini geliştirebilirler.",
+  "is_hayatinda": "Deneyim kazandıkça daha büyük hava araçlarında veya uzun menzilli uçuşlarda görevlendirilebilir, kıdemli seyrüseferci veya uçuş ekibi sorumlusu gibi konumlara yükselebilirler. Bazı seyrüseferciler, ek eğitim ve sınavlarla pilotluk gibi ilgili havacılık mesleklerine geçiş yapabilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Eğitim sırasında ücret durumu, eğitimi veren kuruma göre değişir. Askeri havacılık okullarında eğitim gören öğrencilere harçlık verilebilirken, bazı özel kurum programlarında eğitim ücretli olabilir ve öğrenciye ayrıca bir ödeme yapılmayabilir.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında (örneğin askeri havacılık bünyesinde) görev yapanlar, 657 sayılı Devlet Memurları Kanunu veya ilgili mevzuata göre ücret alır.",
+   "Özel sektörde çalışanların kazancı, işletmenin büyüklüğüne, deneyime ve yapılan sözleşmeye göre değişir; göreve yeni başlayanlarda kazanç genellikle asgari ücret düzeyinde olabilir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T11:56:16",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6043
+  }
+ }
+}

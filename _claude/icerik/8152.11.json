@@ -1,0 +1,75 @@
+{
+ "arac_gerec": [
+  "Sarma (büküm-sarım) makinesi",
+  "Ayar dişlileri ve değiştirme çarkları",
+  "Motor kasnakları ve kayışları",
+  "Bobin takılan iğler",
+  "İplik kılavuzları ve kopçaları",
+  "Elyaf fitilleri ve iplik bobinleri",
+  "El takımları (anahtar, tornavida, pense vb.)",
+  "Ölçüm aletleri (kumpas, şerit metre)",
+  "Yağlama ve bakım malzemeleri",
+  "Temizlik malzemeleri",
+  "Kişisel koruyucu donanım (eldiven, kulaklık, iş gözlüğü, toz maskesi)"
+ ],
+ "benzer_meslekler": [
+  "Cer Fitil Makinesi Ayarcısı",
+  "Kart Makinesi Ayarcısı",
+  "Tarak Makinesi Ayarcısı-Tekstil",
+  "Konik Çözgü Makinesi Operatörü",
+  "Seri Çözgü Makinesi Operatörü",
+  "Otomatik Tezgah İplikçisi"
+ ],
+ "calisma_alanlari": "İplik üretimi yapan fabrikalar ile dokuma ve örme fabrikalarının iplik hazırlama, büküm ve sarım bölümleri bu mesleğin temel çalışma alanıdır. Pamuk, yün, sentetik ve karma iplik üreten tesislerde, iplik katlama-büküm atölyelerinde ve bazı konfeksiyon öncesi iplik hazırlama birimlerinde istihdam edilebilirler.\\n\\nMesleğin kamu kurumlarında istihdam olanağı bulunmamaktadır. İş bulma olanakları, tekstil sanayinin yoğunlaştığı illerdeki iplik ve dokuma fabrikalarının sayısı ve üretim hacmine bağlı olarak değişmektedir. Sektördeki teknolojik yenilenme ve otomasyon, iş bulma olanaklarını ve mesleğin içeriğini zaman içinde etkileyebilmektedir.",
+ "calisma_ortami": "Sarma makinesi ayarcıları, iplik ve dokuma fabrikalarının üretim bölümlerinde, kapalı mekânlarda çalışır. Çalışma ortamı makine gürültüsü içerir; yeterli havalandırma bulunmayan işyerlerinde ortamda lif tozu bulunabilir. Görev genellikle ayakta ve hareketli şekilde, makineler arasında dolaşarak yürütülür. İşletmenin üretim takvimine göre tam gün ve gerektiğinde vardiyalı çalışma söz konusu olabilir.\n\nÇalışma sırasında büyük ölçüde makine, iplik ve ayar ekipmanı ile ilgilenilir. Arıza bildirimi, ayar sonrası teslim ve iş organizasyonu kapsamında vardiya arkadaşları, operatörler, bakım-onarım personeli ve ustabaşı ile iletişim kurulur. Makine hareketli parçalarıyla çalışılması nedeniyle iş sağlığı ve güvenliği kurallarına uyum önem taşır.",
+ "ek_bilgiler": "Mesleğin eğitimine ilişkin standart, ülke çapında uygulanan resmi bir kurs programı bulunmamaktadır; yetişme büyük ölçüde işletme içinde deneyimle gerçekleşir. Mesleki Yeterlilik Kurumu (MYK) belgesi, bazı işyerlerinde istihdamda tercih sebebi olabilir.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimine ilişkin ülke çapında standart bir örgün veya yaygın eğitim programı bulunmamaktadır. Meslek genellikle iplik ve dokuma fabrikalarında işbaşında, deneyimli bir ustanın yanında çalışılarak öğrenilir. Mesleki eğitim merkezlerinin tekstil teknolojisi alanındaki ilgili çıraklık programları da bu mesleğe temel oluşturabilir. Ayrıca Halk Eğitim Merkezleri ve İŞKUR tarafından açılan iplik/tekstil makineleri ile ilgili mesleki eğitim kursları da zaman zaman bu alanda yetişmeye katkı sağlayabilir.",
+  "giris_kosullari": [
+   "İlköğretim mezunu olmak (meslek için gereken minimum eğitim düzeyi)",
+   "Genel sağlık durumunun makine başında çalışmaya uygun olması",
+   "El ve göz koordinasyonunun iyi olması",
+   "Çıraklık eğitimi kapsamında 18 yaşından küçükler için veli izni gerekmesi"
+  ],
+  "sure_ve_icerik": "Standart bir eğitim süresi ve müfredatı bulunmamaktadır. İşbaşında yetişme süreci işletmeden işletmeye değişmekle birlikte genellikle birkaç aydan bir yıla kadar sürebilir. Bu süreçte iplik büküm ve sarım makinelerinin tanınması, ayar dişlileri ve mekanizmalarının işleyişi, iğ-büküm-sarım ayarlarının yapılması, basit arızaların tespiti ve giderilmesi gibi uygulamalı konular öğretilir. Çıraklık eğitimi veya kurs yoluyla yetişenlerde ise genel tekstil makineleri bilgisi, iş sağlığı ve güvenliği gibi teorik konular da yer alabilir.",
+  "belge": "İşbaşında yetişme sürecinde işletmenin verdiği bir deneyim/çalışma belgesi söz konusu olabilir. Çıraklık eğitimi kapsamında eğitim alınmışsa 3308 sayılı Kanun çerçevesinde kalfalık ve ardından ustalık belgesi alınabilir."
+ },
+ "genel_ozellikler": [
+  "El ve göz koordinasyonu iyi,",
+  "Dikkatli ve titiz,",
+  "Makine mekanizmalarını kavrayabilen, teknik yeteneğe sahip,",
+  "Sabırlı ve sorumluluk sahibi,",
+  "El becerisi gelişmiş,",
+  "Yönergelere uygun ve disiplinli çalışabilen,",
+  "Fiziksel olarak dayanıklı (uzun süre ayakta çalışabilen),",
+  "Ekip çalışmasına uyumlu"
+ ],
+ "gorevler": [
+  "Ayarları bozulan veya yeni bir işe göre ayarları düzenlenecek makineleri tespit eder",
+  "Makinelerin ayar dişlilerini, motor kasnaklarını, bobin takılan iğlerini ve ipliklerin geçtiği kopça ve kılavuzları kontrol eder",
+  "İmal edilecek ipliğin ölçülerine, yapılacak büküm ve sarımın cinsine göre ayar dişlilerinden ve kollarından gerekli iğ, büküm ve sarım ayarlarını yapar",
+  "Ayarlama anında tespit ettiği ufak arızaları giderir veya ilgili kısımlara haber vererek arızaların giderilmesini sağlar",
+  "Ayarları biten makineleri çalıştırıp son kontrollerini yaparak ilgili işçilere teslim eder",
+  "Mesleki gelişim faaliyetlerinde bulunur"
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "İşletmenin yapısına ve büyüklüğüne göre, farklı iplik büküm, sarım ve çözgü makineleri üzerinde hizmet içi eğitim programları düzenlenebilir. Deneyim arttıkça operatör, farklı makine tiplerinin ayarını yapabilecek bilgi ve beceriye ulaşabilir.",
+  "is_hayatinda": "Deneyim kazanan sarma makinesi ayarcıları, çalıştıkları işletmede usta, formen veya atölye/bölüm şefi olarak görevlendirilebilir. Bilgi ve tecrübesi artanlar, makine bakım-onarımından sorumlu kademelere yükselebilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Eğitim, genellikle işbaşında bir usta yanında yürütüldüğünden, bu süreçte çalışan kişi işletmeyle anlaşmasına göre asgari ücret düzeyinde veya çıraklık statüsünde daha düşük bir ücret alabilir.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanların kazancı genellikle asgari ücret düzeyindedir.",
+   "Deneyim, bilgi birikimi ve çalıştığı işletmenin büyüklüğüne bağlı olarak ücret düzeyi artabilir.",
+   "Özel sektörde ücretler işveren ile çalışan arasındaki anlaşmaya ve sektördeki genel ücret koşullarına göre değişiklik gösterebilir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T13:45:51",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5622
+  }
+ }
+}

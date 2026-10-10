@@ -1,0 +1,80 @@
+{
+ "arac_gerec": [
+  "Kumaş ve süsleme malzemeleri (düğme, fermuar, dantel, aksesuar vb.)",
+  "Model ve kalıp kağıtları",
+  "Bilgisayar destekli tasarım (CAD) yazılımları",
+  "Kesim makasları ve kesim makineleri",
+  "Mekanik ve elektronik örme makineleri",
+  "Dikiş ve overlok makineleri",
+  "Terbiye (boyama, apre) kimyasalları ve reçeteleri",
+  "Ölçüm araçları (mezura, cetvel, gönye)",
+  "Kalite kontrol araç ve cihazları",
+  "Makine bakım ve onarım el aletleri (anahtar, tornavida vb.)",
+  "Renk kartelası ve numune panoları"
+ ],
+ "genel_ozellikler": [
+  "El becerisine sahip,",
+  "Renk, desen ve estetik duyusu gelişmiş,",
+  "Dikkatli ve titiz,",
+  "El ve gözünü eşgüdümle kullanabilen,",
+  "Hesap yapabilen ve plan kurabilen,",
+  "Yaratıcı ve tasarım yeteneğine sahip,",
+  "Makine ve teknolojiyi kullanabilen,",
+  "Ekip içinde uyumlu çalışabilen,"
+ ],
+ "calisma_ortami": "\"Tekstil Konfeksiyon Teknisyeni genellikle hazır giyim, örme ve tekstil terbiye işletmelerinin atölye ve üretim bölümlerinde, bazen de tasarım ve kalıp ofislerinde çalışır. Çalışma ortamı, kullanılan makine ve işleme göre gürültülü, tozlu ve kimyasal koku içerebilir; makinelerde hareketli ve dönen parçalar bulunduğundan iş güvenliği kurallarına büyük önem verilir. İş genellikle ayakta ve dikkat gerektiren şekilde yürütülür.\\n\\nÇalışırken tasarımcı, mühendis, usta, işçi ve kalite kontrol personeli ile sürekli iletişim halindedir. Çalışma saatleri genellikle düzenlidir; ancak üretim hacmine bağlı olarak vardiyalı çalışma veya yoğun dönemlerde fazla mesai söz konusu olabilir.\"",
+ "gorevler": [
+  "İş planı ve organizasyonu yapar.",
+  "Yapılacak üretime uygun olan makineleri hazırlar.",
+  "Yapılacak ürün ile ilgili model tasarımı yapar.",
+  "Yaptığı tasarım doğrultusunda renkleri seçer.",
+  "Kullanılacak kumaş ve süsleme malzemelerinin miktarını hesaplar.",
+  "Belirlenen modele ve ölçüye uygun kalıbı hazırlar.",
+  "Parçaların kesimini yapar.",
+  "Terbiye reçetelerini hazırlar ve uygular.",
+  "Mekanik ve elektronik örme makinelerini kullanarak örme işlemlerini yapar.",
+  "Yarı mamul ve mamullerin kalite kontrolünü yapar.",
+  "Makinelerin bakım, ayar ve onarımını yapar.",
+  "Mesleki alanındaki gelişmeleri takip eder ve uygular.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi, mesleki ve teknik ortaöğretim okul/kurumlarının Tekstil Teknolojisi alanı bünyesindeki ilgili dallarda (örneğin giyim üretim, örme veya tekstil terbiye teknolojisi dalları) verilmektedir. Yeterli talep olması durumunda mesleki eğitim merkezlerinde de bu alanda eğitim verilebilmektedir. Ayrıca Halk Eğitim Merkezleri ile İŞKUR'un açtığı mesleki eğitim kurslarında ve üniversitelerin/özel kuruluşların düzenlediği kurslarda da mesleğe yönelik eğitimler bulunmaktadır.",
+  "giris_kosullari": [
+   "Ortaokulu tamamlamış olmak,",
+   "Milli Eğitim Bakanlığınca okul türlerine ve alan/dala göre belirlenen giriş koşullarını taşımak."
+  ],
+  "sure_ve_icerik": "Mesleki ve teknik ortaöğretimde eğitim süresi 4 yıldır. 9. sınıfta ortak genel kültür dersleri ve alanın temel ortak kazanımları verilir; öğrenci yılsonunda dal/meslek seçimini yapar. 10, 11 ve 12. sınıflarda ise seçilen dal/mesleğe ait teorik ve uygulamalı dersler okulda, atölyede ve işletmelerde verilir. Program; model tasarımı, kalıp hazırlama, kesim, örme ve terbiye işlemleri, kalite kontrol ile makine bakım ve kullanımına yönelik konuları içerir.",
+  "belge": "Eğitimi tamamlayanlara meslek lisesi diploması verilir. Ayrıca 3308 sayılı Mesleki Eğitim Kanunu'nda belirtilen koşulları sağlayanlara ustalık belgesi ve buna bağlı olarak bağımsız işyeri açma belgesi verilebilmektedir."
+ },
+ "calisma_alanlari": "\"Tekstil Konfeksiyon Teknisyenleri başta hazır giyim ve konfeksiyon fabrikaları olmak üzere, örme işletmelerinde, tekstil terbiye (boyama-apre) tesislerinde, kalıp ve model atölyelerinde, kalite kontrol birimlerinde teknik eleman olarak çalışabilirler. Deneyim kazandıktan sonra kendi atölye veya işyerlerini açabilirler.\\n\\nTekstil ve konfeksiyon sanayinin yoğun olduğu illerde iş bulma olanağı nispeten daha fazladır. Sektörün dışa bağımlı ve rekabetçi yapısı nedeniyle istihdam, ülke ve dünya ekonomik koşullarına bağlı olarak dönemsel dalgalanmalar gösterebilir; nitelikli, tasarım ve teknolojiyi iyi kullanabilen meslek elemanlarına genellikle öncelik verilmektedir.\"",
+ "kazanc": {
+  "egitim_suresince": "3308 sayılı Mesleki Eğitim Kanunu gereğince, işletmelerde mesleki eğitim gören öğrencilere asgari ücretin belirli bir oranından az olmamak üzere ücret ödenir; eğitim süresince iş kazası ve meslek hastalıkları sigortası devletçe karşılanır.",
+  "egitim_sonrasi": [
+   "Yeni mesleğe başlayanların kazancı genellikle asgari ücret düzeyindedir.",
+   "Deneyim, bilgi, beceri, çalışılan işletmenin büyüklüğü ve sektördeki ücret düzeyine göre kazanç artabilir.",
+   "Kendi işyerini açanların kazancı işin hacmine ve müşteri potansiyeline göre değişir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleki ve teknik ortaöğretim kurumlarının Tekstil Teknolojisi alanından mezun olanlar, YKS Kılavuzunda belirtilen ve alanlarının devamı niteliğindeki tekstil, tekstil teknolojisi, moda tasarımı gibi ön lisans/lisans programlarını tercih ettiklerinde ek puan ve kontenjan avantajından yararlanabilirler. Ayrıca meslekte uzmanlaşmayı sağlayacak kurs, seminer ve hizmet içi eğitim programlarına katılabilirler.",
+  "is_hayatinda": "Mesleki deneyim kazanan teknisyenler atölye şefliği, usta başılık, kalite kontrol sorumluluğu veya model/kalıp uzmanlığı gibi görevlere yükselebilir; ilgili yükseköğretim programlarını tamamlayarak tekniker veya mühendis unvanıyla çalışabilirler. Ayrıca yeterli sermaye ve deneyime sahip olanlar kendi işyerlerini açabilirler."
+ },
+ "benzer_meslekler": [
+  "Kalıp Teknisyeni (Tekstil Konfeksiyon)",
+  "Kesim Teknisyeni (Giyim)",
+  "Endüstriyel Örme Teknisyeni/Örme Teknisyeni",
+  "Tekstil Terbiye Teknisyeni",
+  "Tekstil Teknolojisi Teknisyeni",
+  "Hazır Giyim Model Makineciliği Elemanı"
+ ],
+ "ek_bilgiler": "\"Tekstil ve konfeksiyon sektörü Türkiye'nin önemli ihracat kalemlerinden biridir; sektördeki teknolojik gelişmeler ve bilgisayar destekli tasarım/üretim uygulamaları nedeniyle mesleki alanda sürekli güncel bilgi ve teknoloji takibi önem taşımaktadır. Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda tercih sebebi olabilir.\"",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T09:57:43",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5671
+  }
+ }
+}

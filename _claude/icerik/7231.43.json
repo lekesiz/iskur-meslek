@@ -1,0 +1,82 @@
+{
+ "arac_gerec": [
+  "Rot-far ayar cihazı",
+  "Roller (merdane) test cihazı",
+  "ECOS elektronik kontrol ve onay sistemi cihazı",
+  "Arıza/diagnostik tespit cihazı",
+  "Ölçüm takımları (sentil, mastar, açı ölçer)",
+  "El takımları (anahtar, pense, tornavida takımları)",
+  "Basınçlı hava tabancası",
+  "Kaldırma platformu/lift",
+  "Su test kabini ekipmanları",
+  "Araç kartı ve takip formları",
+  "Kişisel koruyucu donanım (eldiven, koruyucu gözlük, iş elbisesi)"
+ ],
+ "benzer_meslekler": [
+  "Oto Bakım-Onarımcısı (Otomotiv Mekanikcisi)",
+  "Otomotiv Elektromekanikeri/Otomotiv Diagnostik (Arıza Tespit ve Giderme)",
+  "Ön Düzen ve Balans Ayarcısı",
+  "Motor Test Operatörü",
+  "Oto Ekspertiz Elemanı",
+  "Otomotiv Mekanikeri"
+ ],
+ "calisma_alanlari": "Otomotiv kontrol, test ve ayar işçisi, başlıca otomobil, kamyon ve otobüs üreten otomotiv montaj/üretim fabrikalarının kalite kontrol ve test bölümlerinde çalışır. Ayrıca büyük ölçekli yetkili servislerin ve otomotiv yan sanayi işletmelerinin test birimlerinde de istihdam edilebilir.\\n\\nOtomotiv sektörünün üretim hacmine ve yatırımlarına bağlı olarak bu meslekteki istihdam olanakları değişkenlik gösterir; üretim kapasitesinin arttığı dönemlerde nitelikli test ve ayar personeline olan talep yükselir. Sektörde elektronik kontrol sistemlerinin yaygınlaşması, mesleğin teknik bilgi gereksinimini artırmaktadır.",
+ "calisma_ortami": "Otomotiv kontrol, test ve ayar işçisi, otomotiv üretim fabrikalarının montaj hattı sonrasındaki test ve kalite kontrol bölümlerinde, kapalı alanda görev yapar. Çalışma ortamı gürültülü olabilir; egzoz gazı, yağ ve diğer kimyasal maddelere kısa süreli temas söz konusu olabilir. İş, sık sık ayakta durmayı, eğilmeyi ve araç içi-dışı hareketli çalışmayı gerektirir.\n\nÜretim fabrikalarının genel çalışma düzenine bağlı olarak çoğunlukla vardiyalı sistemde çalışılır. Meslek, montaj hattı çalışanları, kalite kontrol personeli, ustabaşı ve mühendislerle sürekli iş birliği ve iletişim gerektirir.",
+ "egitim": {
+  "verildigi_yerler": "Bu meslek için ayrı, bağımsız bir örgün mesleki eğitim programı bulunmamaktadır. Motorlu Araçlar Teknolojisi alanındaki mesleki ve teknik eğitim programlarından (ör. Otomotiv Mekanikerliği/Otomotiv Elektromekanikerliği dalları) mezun olanlar, otomotiv üretim fabrikalarına işe girerek işbaşında eğitim yoluyla bu mesleği edinirler. Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kursları da temel otomotiv mekanik ve elektrik-elektronik bilgisi kazandırabilir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "Mesleki ve teknik eğitim programına kayıt için okulun aradığı öğrenim koşullarını (genellikle ortaokul mezuniyeti) taşımak",
+   "Sağlık durumunun işin gerektirdiği fiziksel koşullara (uzun süre ayakta çalışma, eğilme, kaldırma) uygun olması",
+   "İşe alınacağı işletmenin belirlediği yaş ve diğer istihdam şartlarını taşımak"
+  ],
+  "sure_ve_icerik": "Mesleğe özgü standart bir çıraklık süresi tanımlı değildir. Motorlu Araçlar Teknolojisi alanındaki ortaöğretim düzeyindeki mesleki ve teknik eğitim programları (yaklaşık 4 yıl) temel otomotiv mekanik, elektrik ve elektronik bilgisini kazandırır. Bu temel bilgi üzerine, otomotiv üretim fabrikasına işe alınan kişiler; operasyon kartlarının okunması, rot-far ayar cihazı, roller test cihazı, ECOS gibi test sistemlerinin kullanımı, kalite standartları ve arıza giderme teknikleri konusunda ustabaşı/usta gözetiminde işbaşında uygulamalı eğitim alarak mesleği öğrenirler.",
+  "belge": "Mesleki ve teknik eğitim kurumundan mezun olanlara diploma; mesleki eğitim merkezinde eğitim alanlara kalfalık/ustalık belgesi verilir. İşbaşı eğitimini tamamlayanlara işletme tarafından yetkinlik belgesi/sertifika düzenlenebilir. Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "ek_bilgiler": "Bu meslek genellikle otomotiv üretim fabrikalarının montaj hattı sonrasında yürütülen kalite kontrol sürecinin bir parçasıdır; bağımsız oto tamirciliğinden farklı olarak doğrudan bireysel müşteriye hizmet vermez, üretimden çıkan araçların standartlara uygunluğunu denetler ve onaylar.",
+ "genel_ozellikler": [
+  "Mekanik ve elektrik-elektronik sistemleri anlayabilen",
+  "Şekiller ve ölçüler arasındaki ilişkileri algılayabilen",
+  "Dikkatli ve titiz",
+  "El ve göz koordinasyonu iyi",
+  "Sorumluluk sahibi",
+  "Takım halinde çalışmaya uyumlu",
+  "Teknolojik gelişmeleri takip eden",
+  "Fiziksel olarak dayanıklı"
+ ],
+ "gorevler": [
+  "Operasyon kartları ve işlem talimatları çerçevesinde işlem yapar.",
+  "Montajdan gelen onaylanmış otoyu alır.",
+  "Otoyu rot-far ayar cihazına sokar ve ayarlarını yapar.",
+  "Otoda Toe açılarında-köprü, yaprak, yay vb. sorun varsa sorunu giderir ve tekrar rot ayarı yapar.",
+  "Sorun yoksa otoyu roller test cihazına alır ve ECOS cihazı ile roller kabin içinde teste tutar.",
+  "Test sonunda hata varsa (motor, şanzıman, fren sistemleri vb.) hatayı giderir ve otoyu tekrar roller testine tabi tutar.",
+  "Test sonucu oto onaylanırsa otoya final onayı verir.",
+  "Onaylanan otoyu finisyon süreci için su test kabini önüne bırakır.",
+  "Montajdan onay alamamış otoların montajda giderilememiş olan arızalarını (motor, şanzıman problemleri, yağ, su kaçakları ve mekanik aksam üzerindeki montaj bölümünce tespit edilen hatalar) giderir.",
+  "Arızası giderilen otoları tekrar montaj bantı üzerine bırakarak montaj onayından geçmesini sağlar.",
+  "Kontrolleri yapılmış otoların karoser, elektrik ve mekanik hatalarını giderir ve finisyon için su testine gönderir.",
+  "Otoyu kalite kontrole teslim eder.",
+  "Gelen ve işlem gören her oto için ilgili bilgileri içeren araç kartı düzenler.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Bu meslekte standart bir çırak-kalfa-usta ilerleme basamağı örgün olarak tanımlı değildir. Motorlu Araçlar Teknolojisi alanında mesleki eğitim merkezinde eğitim alanlar kalfalık, ardından ustalık belgesi alarak ilerleyebilir.",
+  "is_hayatinda": "Deneyim ve bilgi arttıkça ekip lideri, vardiya amiri, kalite kontrol şefi veya test/ayar bölümü sorumlusu gibi görevlere yükselinebilir; ilgili mühendislik eğitimini tamamlayanlar kalite/üretim mühendisi olarak görev alabilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Meslek örgün bir çıraklık eğitimi kapsamında standart olarak yürütülmediğinden ayrı bir eğitim dönemi ücreti genellikle bulunmaz; işbaşında eğitim alan yeni işçilere işletmenin belirlediği ücret ödenir.",
+  "egitim_sonrasi": [
+   "Kazanç, çalışılan işletmenin büyüklüğüne, kişinin tecrübe ve bilgisine, kamu/özel sektör ayrımına ve varsa toplu iş sözleşmesi hükümlerine göre değişir.",
+   "Yeni başlayanlarda kazanç genellikle asgari ücret düzeyindedir; deneyim ve uzmanlık arttıkça kazanç artabilir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T02:32:00",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6941
+  }
+ }
+}

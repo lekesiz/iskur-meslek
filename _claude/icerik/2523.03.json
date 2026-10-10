@@ -1,0 +1,73 @@
+{
+ "gorevler": [
+  "Ağ trafiğini izler ve darboğazları tespit eder.",
+  "Ağ donanımlarının (router, switch vb.) konfigürasyonlarını analiz eder.",
+  "Yeni ağ gereksinimleri için mimari tasarımlar ve öneriler sunar.",
+  "Ağ güvenliği açıklarını saptayarak iyileştirme planları hazırlar.",
+  "Veri iletim hızını ve kesintisizliği artıracak çözümler geliştirir.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "arac_gerec": [
+  "Yönlendirici (router)",
+  "Anahtarlama cihazı (switch)",
+  "Güvenlik duvarı (firewall) cihaz ve yazılımları",
+  "Ağ izleme ve performans analiz yazılımları",
+  "Ağ trafiği analiz araçları (paket analizörleri)",
+  "Sunucu bilgisayarlar",
+  "Kablolama ve ağ bağlantı ekipmanları, konnektörler",
+  "Ağ topolojisi tasarım ve simülasyon yazılımları",
+  "Kablosuz ağ erişim noktaları (access point)",
+  "Güvenlik tarama ve sızma testi araçları",
+  "Dokümantasyon ve raporlama yazılımları",
+  "Bilgisayar ve ofis yazılımları"
+ ],
+ "genel_ozellikler": [
+  "Sayısal ve analitik düşünme yeteneğine sahip,",
+  "Dikkatli ve ayrıntılarla uğraşmayı seven,",
+  "Problem çözme yeteneği gelişmiş,",
+  "Sorumluluk sahibi ve güvenilir,",
+  "Teknolojik gelişmeleri takip etmeye istekli,",
+  "Yazılı ve sözlü iletişim yeteneği güçlü,",
+  "Ekip çalışmasına uyumlu,"
+ ],
+ "calisma_ortami": "Bilgisayar Ağı Analistleri, genellikle büro/ofis ortamında bilgisayar başında masa başı çalışır; bunun yanında kurumsal veri merkezleri, sunucu odaları ve ağ dolaplarının bulunduğu teknik alanlarda saha çalışması da yapabilirler. Çalışma süresince ekranlı araçların uzun süre kullanılması nedeniyle göz ve bel yorgunluğu gibi ergonomik riskler söz konusu olabilir. Çalışma saatleri genellikle düzenlidir; ancak ağ kesintisi veya kritik arıza durumlarında mesai dışı çalışma ya da nöbet gerekebilir.\n\nGörevlerini yerine getirirken bilgi işlem/sistem yöneticileri, bilgi güvenliği uzmanları, yazılım geliştiriciler, kurum yöneticileri ve gerektiğinde dış hizmet sağlayıcılarla (donanım/yazılım tedarikçileri) yakın iş birliği içinde çalışır.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi, üniversitelerin Bilgisayar Mühendisliği, Yazılım Mühendisliği, Bilgisayar Bilimleri, Elektrik-Elektronik Mühendisliği veya Bilişim Sistemleri Mühendisliği gibi ilgili lisans programlarında verilmektedir. Ayrıca ağ teknolojileri üreticilerinin (örneğin Cisco gibi) açtığı sertifika programları ve çeşitli eğitim kurumlarının sunduğu ağ yönetimi/bilgi güvenliği sertifika kursları ile mesleki bilgi ve beceriler desteklenmektedir.",
+  "giris_kosullari": [
+   "Lise ve dengi okul mezunu olmak.",
+   "YKS (Yükseköğretim Kurumları Sınavı) sonucuna göre ilgili lisans programına yerleşmek.",
+   "Bilgisayar Mühendisliği, Yazılım Mühendisliği, Bilgisayar Bilimleri, Elektrik-Elektronik Mühendisliği veya Bilişim Sistemleri Mühendisliği gibi ilgili bölümlerden mezun olmak."
+  ],
+  "sure_ve_icerik": "Lisans eğitimi 4 yıl sürmektedir. Eğitim süresince; bilgisayar ağları ve protokolleri, veri iletişimi, ağ mimarileri ve topolojileri, ağ güvenliği, işletim sistemleri, programlama, veri tabanı yönetimi gibi dersler ile bilgisayar donanımı ve sistem yönetimi konuları işlenir. Lisans eğitimine ek olarak, ağ teknolojileri üreticilerinin düzenlediği sertifika programlarıyla pratik beceriler geliştirilebilir.",
+  "belge": "Meslek eğitimini bitirenlere ilgili lisans programının diploması verilmektedir. Ayrıca ağ teknolojileri alanında alınan uzmanlık sertifikaları (üretici sertifikaları vb.), istihdamda tercih sebebi olabilmektedir."
+ },
+ "calisma_alanlari": "Bilgisayar Ağı Analistleri; kamu kurumlarının bilgi işlem birimleri, bankalar ve finans kuruluşları, telekomünikasyon şirketleri, bilişim ve yazılım firmaları, e-ticaret şirketleri, sağlık kuruluşları, enerji şirketleri, savunma sanayi kuruluşları, veri merkezleri ile kurumsal ölçekte bilgisayar ağı altyapısı bulunan her türlü özel ve kamu işletmesinde istihdam edilebilirler. Danışmanlık firmaları bünyesinde veya bağımsız danışman olarak da çalışabilirler.",
+ "kazanc": {
+  "egitim_suresince": "Lisans eğitimi süresince öğrenciler, Kredi ve Yurtlar Genel Müdürlüğünün sağladığı öğrenim kredisi ve yurt hizmetlerinden, ayrıca bazı üniversitelerin burs olanaklarından yararlanabilirler.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında istihdam edilenler, 657 sayılı Devlet Memurları Kanunu'na tabi olarak ilgili mevzuata göre maaş alırlar.",
+   "Özel sektörde kazanç; işyerinin büyüklüğü, kişinin deneyimi, bilgi birikimi, çalışma kapasitesi ve sektörün ücret düzeyine göre değişmektedir; mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde veya bu düzeyin biraz üzerinde bir kazanca sahip olabilir, deneyim ve uzmanlık arttıkça kazanç yükselebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "İlgilenenler lisansüstü eğitim (yüksek lisans, doktora) yaparak bilgisayar ağları, bilgi güvenliği veya ilgili alanlarda akademik kariyer yapabilir; ayrıca ileri düzey ağ ve güvenlik sertifika programlarıyla uzmanlık alanlarını geliştirebilirler.",
+  "is_hayatinda": "Deneyim kazandıkça ağ yöneticisi, bilgi teknolojileri (BT) yöneticisi, bilgi güvenliği uzmanı/yöneticisi gibi pozisyonlara yükselebilir; kariyerlerinde ilerledikçe bilgi işlem müdürü veya proje yöneticisi gibi üst düzey görevlere gelebilirler."
+ },
+ "benzer_meslekler": [
+  "Ağ Teknolojileri ve Bilgi Güvenliği Uzmanı",
+  "İletişim Analisti (Bilgisayar)",
+  "Bilgisayar Ağ ve Güvenliği Yöneticisi",
+  "Bilgisayar Sistemleri Yöneticisi",
+  "Siber Güvenlik Uzmanı",
+  "Güvenlik Uzmanı (BİT)"
+ ],
+ "ek_bilgiler": "",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T06:09:53",
+  "usage": {
+   "input_tokens": 4,
+   "output_tokens": 9035
+  }
+ }
+}

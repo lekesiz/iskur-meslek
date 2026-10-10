@@ -1,0 +1,87 @@
+{
+ "arac_gerec": [
+  "Halat ve çelik halat",
+  "Palamar ve bağlama armaları",
+  "Dümen dolabı",
+  "Vinç ve bocurgat",
+  "Boya ve fırça takımı",
+  "Kazıma (raspa) aletleri",
+  "Cankurtarma sandalı/botu ve teçhizatı",
+  "Can yeleği ve emniyet kemeri",
+  "Koruyucu iş elbisesi, eldiven ve bot",
+  "Temizlik malzemeleri ve basınçlı su hortumu",
+  "Deniz feneri",
+  "İşaret flamaları",
+  "Telsiz ve haberleşme cihazları",
+  "El aletleri (anahtar, çekiç, pense vb.)"
+ ],
+ "genel_ozellikler": [
+  "Fiziksel olarak güçlü ve dayanıklı,",
+  "El ve bedensel becerisi gelişmiş,",
+  "Yüzme bilen,",
+  "Denizde ve açık havada çalışmaktan çekinmeyen,",
+  "Ekip çalışmasına uyumlu,",
+  "Dikkatli, sorumluluk sahibi ve talimatlara uyan,",
+  "Disiplinli ve dayanıklı,",
+  "Değişken ve zorlu hava koşullarına karşı dirençli"
+ ],
+ "calisma_ortami": "Usta gemiciler açık deniz gemilerinin güverte bölümünde, büyük ölçüde açık havada çalışır. Çalışma ortamı; dalgalanma, sarsıntı, rüzgâr, nem, gürültü ve mevsime bağlı sıcak-soğuk hava koşullarının etkili olduğu, bazen tehlikeli ve ağır fiziksel çaba gerektiren bir ortamdır. Düşme, yaralanma, denize düşme gibi iş kazası riskleri bulunduğundan iş sağlığı ve güvenliği kurallarına titizlikle uyulması gerekir.\n\nÇalışma saatleri vardiya sistemine göre düzenlenir; gece, gündüz, hafta sonu ve resmî tatillerde çalışma söz konusudur. Seyir süresince gemide ikamet edilir ve aile ile uzun süreler ayrı kalınabilir. Çalışma sırasında gemi kaptanı, zabitler, serdümen, lostromo ve diğer güverte personeli ile yakın iş birliği içinde bulunulur.",
+ "egitim": {
+  "verildigi_yerler": "Usta Gemicilik için örgün bir okul diploması zorunlu değildir. Mesleğin temel bilgi ve becerileri; denizcilik ile ilgili mesleki ve teknik eğitim veren okulların gemi adamlığı/güverte programlarında, Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kurslarında, ayrıca Gemiadamları Yönetmeliği kapsamında yetkilendirilmiş eğitim kurumlarının düzenlediği temel denizcilik (STCW) eğitimlerinde kazanılır. Bunun yanında işbaşında, gemide usta gemici veya serdümen yanında çalışarak deneyim yoluyla da öğrenilir.",
+  "giris_kosullari": [
+   "İlköğretim mezunu olmak",
+   "Denizcilik mesleğine fiziksel ve sağlık açısından uygun olmak (ilgili sağlık/sevk muayenesinden geçmek)",
+   "Yüzme bilmek",
+   "Gemiadamı olmaya engel bir durumunun bulunmaması",
+   "İlgili kurs ve eğitimleri tamamlamaya istekli olmak"
+  ],
+  "sure_ve_icerik": "Eğitimin süresi ve içeriği, eğitimi veren kuruma göre değişmektedir. Genel olarak temel denizcilik eğitimi; kişisel güvenlik ve sosyal sorumluluk, temel yangınla mücadele, ilkyardım, kişisel hayatta kalma teknikleri gibi konuları kapsar. Buna ek olarak halat ve çelik halat örme, bağlama (palamar) işlemleri, dümen tutma, güverte bakım-onarımı, boyama ve temizlik gibi uygulamalı bilgi ve beceriler kurs ortamında veya işbaşında usta yanında kazanılır.",
+  "belge": "Eğitimini tamamlayan kişiler, katıldığı kurumdan kurs bitirme belgesi ve/veya Gemiadamları Yönetmeliği kapsamında geçerli STCW temel eğitim sertifikaları ile gemiadamı cüzdanı alabilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, iş bulma sürecinde tercih sebebi olabilir."
+ },
+ "gorevler": [
+  "Gemi dümenini talimatlara uygun olarak tutar.",
+  "Halatları gemi bordasına bağlar.",
+  "Tahliye botlarını indirir ve kaldırır.",
+  "Tahliye botlarına ve diğer küçük kayıklara yük alır.",
+  "Gemi donanımını çözer, donatır ve istifleme yapar.",
+  "Yükleme donatımını muayene eder, onarır.",
+  "Çelik halatları ve diğer halatları örer.",
+  "Tahliye botlarını, güverte donatımını ve cankurtarma teçhizatını korur, küçük onarımlarını yapar.",
+  "Geminin boyalı yüzeylerini kazır, temizler ve yeniden boyar.",
+  "Güverteyi yıkar, gemi gövdesinin, donanımının, üst güvertenin ve yük yerlerinin bakım ve temizliğini yapar.",
+  "Yük istiflenirken ve boşaltılırken yardımcı olur.",
+  "Küçük rütbeli zabitlerin maiyetinde çalışır.",
+  "Serdümenlik vb. görevlere göre sınıflandırılabilir.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "calisma_alanlari": "Usta gemiciler başta yük ve yolcu taşımacılığı yapan ticaret gemileri olmak üzere, denizcilik şirketlerine bağlı çeşitli gemilerde çalışırlar. Liman işletmelerine ait römorkör ve servis gemileri, özel yat işletmeleri ile kamuya ait sivil amaçlı gemilerde de istihdam edilebilirler. Ülkemiz üç tarafı denizlerle çevrili olduğundan ve denizyolu taşımacılığı önemli bir sektör olduğundan, deneyimli ve yeterlilik belgesine sahip usta gemicilere iş bulma olanağı genel olarak bulunmaktadır.",
+ "kazanc": {
+  "egitim_suresince": "Kurs döneminde genellikle herhangi bir ücret ödenmez; işbaşında (gemide çıraklık/stajyer olarak) eğitim alanlara ise genellikle asgari ücret düzeyinde bir ödeme yapılabilir.",
+  "egitim_sonrasi": [
+   "Özel sektörde çalışan usta gemicilerin kazancı; geminin büyüklüğü, sefer bölgesi (iç hat/dış hat), işletmenin imkânları ve kişinin deneyimine göre değişmekte, genellikle asgari ücret düzeyinde başlamaktadır.",
+   "Kamu kurumlarına bağlı gemilerde işçi statüsünde çalışanlar, ilgili toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Deneyim ve kıdem arttıkça, üstlenilen sorumluluk ve görevle birlikte kazanç da artabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Usta gemiciler, ilave eğitim, kurs ve sınavları tamamlayarak serdümenlik, lostromoluk gibi daha üst düzey güverte görevlerine yönelik yeterlilikler kazanabilir; isteyenler ilgili denizcilik eğitim kurumlarında eğitimlerini ilerleterek zabitlik eğitimlerine başvurabilir.",
+  "is_hayatinda": "Deneyim ve kıdem arttıkça usta gemici, serdümen, lostromo gibi görevlere; gerekli eğitim ve belgeleri tamamlayanlar ise güverte zabitliği kademesine yükselebilir."
+ },
+ "benzer_meslekler": [
+  "Serdümen",
+  "Güverte Lostromosu",
+  "Güverte Tayfası",
+  "Gemici",
+  "Çımacı",
+  "Palamarcı"
+ ],
+ "ek_bilgiler": "Mesleğin önemli bir kısmı açık denizde ve uzun süreli seyirlerde geçer; Gemiadamları Yönetmeliği kapsamında sağlık raporu, STCW temel eğitim sertifikaları ve gemiadamı cüzdanına sahip olunması beklenir. Ağır ve riskli fiziksel koşullar nedeniyle iş sağlığı ve güvenliği kurallarına eksiksiz uyum büyük önem taşır.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T19:09:26",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6101
+  }
+ }
+}

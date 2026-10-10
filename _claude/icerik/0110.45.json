@@ -1,0 +1,76 @@
+{
+ "gorevler": [
+  "Bölüğün asayiş ve eğitim faaliyetlerini sevk ve idare eder.",
+  "Personelin özlük ve disiplin işlerini takip eder.",
+  "Birlik envanterindeki araç ve silahların bakımını denetler.",
+  "Nöbet ve iç emniyet planlarını koordine eder.",
+  "Üst amirlerin talimatlarını icra eder.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "arac_gerec": [
+  "Kişisel silah (tabanca, tüfek) ve mühimmat",
+  "Kişisel koruyucu donanım (çelik yelek, kask)",
+  "Telsiz ve askeri haberleşme sistemleri",
+  "Devriye ve hizmet araçları",
+  "Harita, kroki ve coğrafi bilgi sistemleri",
+  "Nöbet, devriye ve eğitim planlama belgeleri",
+  "Personel özlük ve disiplin dosyaları",
+  "Araç, silah ve teçhizat bakım/denetim kayıtları",
+  "Bilgisayar, ofis yazılımları ve kurum içi bilgi sistemleri",
+  "İç emniyet ve asayiş talimatnameleri",
+  "Sevk ve nakil ekipmanları (kelepçe vb.)"
+ ],
+ "genel_ozellikler": [
+  "Liderlik vasfına sahip,",
+  "Disiplinli ve sorumluluk sahibi,",
+  "Fiziksel ve psikolojik yönden sağlıklı,",
+  "Stresli ve ani gelişen durumlarda sağlıklı karar verebilen,",
+  "İyi derecede iletişim ve ikna becerisine sahip,",
+  "Analitik düşünebilen ve planlama yapabilen,",
+  "Hiyerarşik yapı içinde çalışmaya yatkın,",
+  "Vatan ve millet sevgisiyle hareket eden,"
+ ],
+ "calisma_ortami": "Yüzbaşı (Jandarma), Jandarma Genel Komutanlığı'na bağlı il ve ilçe jandarma komutanlıkları, karakol ve bölük birimleri ile sınır, kırsal ve kentsel asayiş bölgelerinde görev yapar. Görev yeri ve niteliğine göre hem kapalı mekânlarda (karargâh, idari bina) hem de açık arazi, dağlık ve kırsal alanlarda, zaman zaman olumsuz hava koşullarında çalışır. Çalışma saatleri düzensiz olabilir; nöbet, operasyon ve acil durumlarda gece-gündüz, hafta sonu ve resmî tatil ayrımı gözetilmeksizin görev yapılabilir.\n\nGörevi gereği ast ve üst rütbeli askeri personel, kamu kurumları, mülki idare amirleri ve sivil halkla sürekli iletişim hâlindedir. Meslek, fiziksel dayanıklılık, disiplin ve kimi zaman risk içeren koşullarda görev yapmayı gerektirir; Türkiye'nin farklı bölgelerine tayin yoluyla görevlendirilebilir.",
+ "egitim": {
+  "verildigi_yerler": "Jandarma subayı olarak yetişmek isteyenler, Milli Savunma Üniversitesi bünyesindeki Jandarma ve Sahil Güvenlik Akademisi'nde lisans eğitimi alarak teğmen rütbesiyle mezun olur. Ayrıca mevzuata göre açılan fakülte/yüksekokul mezunu subay temin kaynaklarından da subaylığa geçiş mümkün olabilir. Yüzbaşılık, teğmenlik ve üsteğmenlik kademelerinden sonra kıdem ve terfi yoluyla ulaşılan bir rütbedir, ayrı bir eğitim programı değildir.",
+  "giris_kosullari": [
+   "Lise mezunu olmak ve ilgili akademiye giriş için gerekli sınav ve değerlendirmeleri başarıyla tamamlamak",
+   "Türk Silahlı Kuvvetleri ve Jandarma Genel Komutanlığı tarafından belirlenen sağlık ve fiziki yeterlilik şartlarını taşımak",
+   "Güvenlik soruşturması ve arşiv araştırmasından olumlu sonuç almak",
+   "Belirlenen yaş ve boy-kilo gibi niteliklere uymak",
+   "İyi derecede ahlaki ve disiplin sicili bulunmak"
+  ],
+  "sure_ve_icerik": "Akademi eğitimi, askeri ve akademik derslerin bir arada verildiği dört yıllık bir lisans programı şeklinde yürütülür; eğitim sonunda teğmen rütbesiyle orduya katılım sağlanır. Yüzbaşılık rütbesine, teğmenlik ve üsteğmenlik kademelerinde geçirilen hizmet süresi ve mevzuatta belirlenen kıdem şartlarının tamamlanmasıyla terfi yoluyla ulaşılır. Hizmet boyunca çeşitli kurs, seminer ve hizmet içi eğitimlere katılım söz konusudur.",
+  "belge": "Lisans diploması ve subay nasb belgesi; rütbe terfilerinde ilgili terfi belgeleri düzenlenir."
+ },
+ "calisma_alanlari": "Yüzbaşı (Jandarma), Jandarma Genel Komutanlığı'na bağlı il ve ilçe jandarma komutanlıkları, bölük ve karakol komutanlıkları, sınır birlikleri, asayiş ve eğitim birimleri ile ihtiyaç duyulan diğer jandarma teşkilatı birimlerinde görev yapabilir. İstihdam alanı kamu sektörüyle sınırlıdır; bu meslek yalnızca Jandarma Genel Komutanlığı bünyesinde icra edilir.",
+ "kazanc": {
+  "egitim_suresince": "Jandarma ve Sahil Güvenlik Akademisi'nde öğrenim gören öğrencilerin barınma, iaşe ve giyim giderleri devlet tarafından karşılanır; ayrıca kendilerine belirli bir harçlık ödenir.",
+  "egitim_sonrasi": [
+   "Subaylar, askeri personel mevzuatına tabi olarak aylık maaş, rütbe ve kıdem tazminatı ile çeşitli ek ödemeler alır.",
+   "Kazanç düzeyi rütbe, kıdem, görev yeri ve hizmet yılına göre değişiklik gösterir.",
+   "Bu meslek yalnızca kamu bünyesinde icra edildiğinden özel sektöre özgü bir ücretlendirme söz konusu değildir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Akademiden teğmen rütbesiyle mezun olunur; üsteğmenlik ve yüzbaşılık rütbelerine, mevzuatta belirlenen hizmet süresi ve kıdem şartlarının tamamlanmasıyla kademeli olarak terfi edilir.",
+  "is_hayatinda": "Yüzbaşılıktan sonra kıdem, performans ve sınav/değerlendirme süreçlerine bağlı olarak binbaşı, yarbay ve albaylığa kadar terfi edilebilir; kurmay sınıfına geçiş, çeşitli komutanlık, karargâh ve eğitim kurumlarında üst düzey görevlere atanma imkânı bulunur."
+ },
+ "benzer_meslekler": [
+  "Binbaşı (Jandarma)",
+  "Üsteğmen (Jandarma)",
+  "Teğmen (Jandarma)",
+  "Yarbay (Jandarma)",
+  "Yüzbaşı (Kara Kuvvetleri)",
+  "Yüzbaşı (Sahil Güvenlik)"
+ ],
+ "ek_bilgiler": "Bu meslek, askeri hiyerarşi ve disiplin kurallarına tabidir; görev yeri Türkiye'nin herhangi bir bölgesinde olabilir ve tayin usulüyle değişebilir. Göreve başlama ve meslekte ilerleme, Jandarma Genel Komutanlığı'na özgü mevzuat, sağlık şartları ve güvenlik soruşturması süreçlerine bağlıdır.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-07T17:28:23",
+  "usage": {
+   "input_tokens": 4,
+   "output_tokens": 8208
+  }
+ }
+}

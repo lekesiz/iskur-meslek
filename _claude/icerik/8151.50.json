@@ -1,0 +1,78 @@
+{
+ "arac_gerec": [
+  "Çırçır makinesi (fatura sistemli)",
+  "Makineyi çalıştıran elektrik motoru ve tahrik düzeneği",
+  "Besleme haznesi",
+  "Tarak ve ızgara düzenekleri",
+  "Boşaltma/çekirdek ayrışım haznesi",
+  "Kumanda ve kontrol paneli",
+  "Bakım takımları (anahtar seti, yağlama ekipmanları)",
+  "Basınçlı hava ile temizlik ekipmanı",
+  "Kişisel koruyucu donanım (eldiven, toz maskesi, kulak koruyucu, iş elbisesi)",
+  "Elektrik kesme/acil durdurma sistemleri",
+  "Taşıma ve nakliye ekipmanları (konveyör, forklift vb.)"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve tedbirli,",
+  "Makine ve teknik aletleri kullanmaya istekli,",
+  "El ve beden koordinasyonu iyi,",
+  "Fiziksel olarak dayanıklı,",
+  "Sorumluluk sahibi,",
+  "Talimatlara ve iş güvenliği kurallarına uyan,",
+  "Gürültülü ve tozlu ortamda çalışabilen,",
+  "Ekip çalışmasına uyumlu"
+ ],
+ "calisma_ortami": "Çırçır Makinesi Operatörleri, pamuk üretilen bölgelerdeki çırçır fabrika ve işletmelerinde, genellikle kapalı mekânlarda çalışır. Çalışma ortamı makine gürültüsü ve pamuk lifi/tozu nedeniyle yoğun olup, yeterli havalandırma bulunmayan işyerlerinde solunum açısından risk oluşturabilir. Hareketli makine parçalarına yakın çalışılması nedeniyle iş kazası riski bulunduğundan iş güvenliği kurallarına uyulması önemlidir.\n\nÇalışma genellikle pamuk hasat dönemine bağlı olarak mevsimsel yoğunluk gösterir; bu dönemlerde vardiyalı ve uzun saatli çalışma söz konusu olabilir. Operatör, çalışması sırasında makine ve malzemeyle ilgilenir; ayrıca usta, bakım personeli, ustabaşı ve diğer iş arkadaşlarıyla iş birliği içinde bulunur.",
+ "gorevler": [
+  "Çırçır makinelerinin genel özellikleri hakkında bilgi sahibi olur.",
+  "Çırçır makinelerinin periyodik bakımını yapar.",
+  "Çırçır makinelerini çalıştırır.",
+  "Makine ayarlarını işlenecek pamuğun türüne uygun şekilde yapar.",
+  "Makineyi çalışma devrine getirir ve/veya uygun devirde çalışmasını ayarlar.",
+  "Tarak ve ızgara ayarlarını yapar.",
+  "Boşaltma haznesindeki pamuğun çekirdek ayrışım kontrolünü yapar.",
+  "Makinenin çalışmasını emniyetli bir şekilde sonlandırır.",
+  "Çırçır makinelerini kullanır.",
+  "Gerekli güvenlik tedbirlerini alır.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Mesleğin resmî ve örgün bir okul eğitimi bulunmamaktadır. Meslek, genellikle işbaşında usta yanında yetişme yoluyla veya Halk Eğitim Merkezleri ile İŞKUR tarafından açılan mesleki eğitim kurslarında kazanılmaktadır.",
+  "giris_kosullari": [
+   "İlköğretim mezunu olmak",
+   "Fiziksel olarak işin gerektirdiği koşullara uygun olmak",
+   "18 yaşını doldurmuş olmak (işin niteliğine göre işyerlerince aranabilir)"
+  ],
+  "sure_ve_icerik": "Standart bir eğitim süresi ve müfredatı tanımlanmamıştır. İşyerinde usta yanında çalışılarak çırçır makinesinin yapısı, çalışma prensibi, bakımı, ayarları ve güvenli kullanımı öğretilir. Açılan kısa süreli mesleki kurslarda ise makine bilgisi, temel bakım işlemleri ve iş sağlığı-güvenliği konularında bilgi verilir.",
+  "belge": "Kurs yoluyla eğitim alanlara kurs bitirme belgesi verilebilir; işbaşında yetişenler ise işyeri deneyimi ile mesleğe devam eder. Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Çırçır Makinesi Operatörleri, pamuk tarımının yoğun olduğu bölgelerdeki (Çukurova, Ege, Güneydoğu Anadolu gibi) çırçır fabrika ve işletmelerinde istihdam edilebilir. Kamu kurumlarında bu meslekte doğrudan istihdam olanağı bulunmamaktadır; çalışma alanı özel sektördeki tarım ürünleri işleme tesisleriyle sınırlıdır. İş olanakları, pamuk hasat dönemine bağlı olarak mevsimsel değişkenlik gösterebilir.",
+ "kazanc": {
+  "egitim_suresince": "Kurs yoluyla eğitim alınması durumunda genellikle bir kazanç söz konusu değildir. İşbaşında usta yanında yetişme sürecinde ise çalışılan işyerine göre ücret ödenebilir.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Deneyim, bilgi düzeyi ve işletmedeki konuma (usta, bakım sorumlusu vb.) bağlı olarak ücret artabilir.",
+   "Çalışmanın mevsimsel olması nedeniyle yıllık kazanç, çalışılan süreye göre değişkenlik gösterebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "İşletme bünyesinde düzenlenebilecek hizmet içi eğitimlerle makine bakımı, ayarları ve farklı çırçır makinesi tiplerinin kullanımı konusunda bilgi ve beceri geliştirilebilir.",
+  "is_hayatinda": "Deneyim kazanan operatörler usta, bakım sorumlusu, vardiye amiri veya atölye/tesis şefliği gibi görevlere ilerleyebilir."
+ },
+ "benzer_meslekler": [
+  "Harman-Hallaç Makinesi Operatörü",
+  "Elyaf Açma Makineleri Operatörü",
+  "Pamuk Kesme Makinesi İşçisi",
+  "Paçavra Açma Makinesi Operatörü (Gyotin)",
+  "Paçavra Açma Makinesi Operatörü (Garnet)"
+ ],
+ "ek_bilgiler": "Çırçır makinesi operatörlüğü mevsimsel nitelikli bir iştir ve çalışma yoğunluğu pamuk hasat dönemine denk gelir. Makinede hareketli parçalar ve yoğun toz bulunması nedeniyle iş sağlığı ve güvenliği kurallarına uyulması ve koruyucu ekipman kullanılması önem taşımaktadır.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T13:38:20",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5363
+  }
+ }
+}

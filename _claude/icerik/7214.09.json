@@ -1,0 +1,76 @@
+{
+ "arac_gerec": [
+  "Çelik levha ve profil malzemeler",
+  "Kaynak makinesi (ark/gaz altı kaynağı)",
+  "Oksi-gaz kesim ve ısıtma ekipmanı",
+  "Perçin tabancası ve perçin takımları",
+  "Bükme presi / silindir makinesi",
+  "Zımba presi ve delme makinesi (matkap)",
+  "Markalama ve işaretleme aletleri (çizici, mastar, şablon)",
+  "Ölçme ve kontrol aletleri (mezura, gönye, şerit metre, su terazisi)",
+  "Taşlama makinesi ve zımpara",
+  "Vinç ve kaldırma-taşıma ekipmanları",
+  "El aletleri (çekiç, keski, pense, tornavida)",
+  "Kişisel koruyucu donanım (kaynak maskesi, eldiven, iş elbisesi, baret, güvenlik ayakkabısı)"
+ ],
+ "genel_ozellikler": [
+  "El becerisine sahip,",
+  "Fiziksel olarak güçlü ve dayanıklı,",
+  "Dikkatli ve sabırlı,",
+  "Teknik resim ve projeleri okuyup yorumlayabilen,",
+  "Şekilleri ve ölçüleri zihinde canlandırabilen,",
+  "Takım halinde çalışmaya yatkın,",
+  "Yükseklikte ve dar/kapalı alanlarda çalışabilen,",
+  "İş sağlığı ve güvenliği kurallarına uyan,"
+ ],
+ "gorevler": [
+  "Proje ve diğer şartnameleri inceler.",
+  "Şekil verilecek ve yerine takılacak çelik levhalar üzerine yardımcı işaretler koyar.",
+  "Levhaları el veya makineyle, üzerlerindeki işaret veya şablondan faydalanarak keser, büker ve zımbayla deler.",
+  "Levhaların kenarlarını düzeltir; levhaları perçinler, zıvanalar, kaynak ve perçinle tutturup yerlerine takar.",
+  "Gerektiğinde şekil verme işleminden önce levhaları ısıtır.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "calisma_ortami": "Zırh işçileri (gemi) tersanelerde, gemi inşa ve onarım atölyelerinde, kuru havuzlarda ve inşa/tamir halindeki geminin içinde, güvertesinde veya dış tekne yüzeyinde çalışırlar. Çalışma ortamı genellikle gürültülü, tozlu ve bazen dar, kapalı ve yetersiz havalandırılan mekanlardır (tekne içi bölmeler gibi); açık havada, her mevsim koşuluna maruz kalınarak da çalışılır. Yüksekte çalışma, ağır malzeme taşıma, kesme-kaynak işlemleri nedeniyle iş kazası ve meslek hastalığı riski bulunduğundan iş güvenliği kurallarına ve kişisel koruyucu donanım kullanımına özen gösterilmesi gerekir.\n\nMeslek elemanları; kaynakçı, montajcı, boyacı gibi diğer tersane çalışanları, ustabaşı ve mühendislerle yakın iş birliği içinde ekip hâlinde çalışır. İş yoğunluğuna bağlı olarak vardiyalı çalışma söz konusu olabilir.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin, bağımsız bir meslek lisesi veya meslek dalı olarak örgün ve tanımlı bir eğitim programı bulunmamaktadır. Beceriler genellikle tersanelerde işbaşında usta yanında çalışılarak kazanılır. Ayrıca yakın alanlarda (Metal Teknolojisi/Gemi Yapımı gibi) faaliyet gösteren mesleki eğitim merkezlerinde, Halk Eğitim Merkezlerinde ve İŞKUR'un açtığı mesleki eğitim kurslarında temel ve ileri düzey bilgi ve beceriler kazandırılabilir.",
+  "giris_kosullari": [
+   "En az ilköğretim/ortaokul mezunu olmak",
+   "Çıraklık eğitimi için en az 14 yaşını doldurmuş olmak",
+   "Ağır fiziksel çalışmaya, yükseklikte ve dar alanda çalışmaya elverişli bir sağlık durumuna sahip olmak (gerektiğinde sağlık raporuyla belgelenir)",
+   "Mesleki eğitim merkezi yoluyla yetişmek isteyenlerin ilgili işyeri ile çıraklık sözleşmesi imzalaması"
+  ],
+  "sure_ve_icerik": "Mesleğin kendine özgü, resmî olarak tanımlanmış bir örgün eğitim süresi ve müfredatı bulunmamaktadır. Tersanede usta yanında çalışarak yetişme süreci kişinin yeteneğine ve iş yoğunluğuna göre değişir. Yakın meslek dallarında mesleki eğitim merkezi programına devam edenler için kalfalık ve ustalık eğitimi birkaç yıl sürer; teorik dersler haftanın bir günü okulda, uygulamalı eğitim ise işyerinde usta öğreticinin gözetiminde verilir. Kısa süreli mesleki eğitim kurslarıyla da temel kesme, bükme, markalama ve montaj becerileri kazandırılabilir.",
+  "belge": "Mesleki eğitim merkezi yoluyla yetişenlere kalfalık ve ustalık belgesi, kurs yoluyla yetişenlere kurs bitirme/katılım belgesi verilir. Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Zırh işçileri (gemi) başta tersaneler olmak üzere, gemi inşa ve onarım fabrikaları/atölyelerinde, tekne üretim işletmelerinde ve denizcilik sanayiine bağlı kamu ve özel kuruluşlarda istihdam edilirler. Çalışma alanları, tersanelerin yoğunlaştığı kıyı bölgelerinde yoğunlaşmaktadır. Sektördeki istihdam olanakları, gemi inşa ve onarım siparişlerinin yoğunluğuna, denizcilik sektörünün genel ekonomik durumuna göre değişkenlik gösterebilir.",
+ "kazanc": {
+  "egitim_suresince": "Mesleki eğitim merkezi kapsamında işletmelerde eğitim görenlere 3308 sayılı Mesleki Eğitim Kanunu gereğince asgari ücretin belirli bir oranında ücret ödenir. Kurs yoluyla yetişenler İŞKUR'un açtığı kurslarda kursiyer zaruri gider ödemesinden yararlanabilir.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç elde eder.",
+   "Deneyim, beceri düzeyi ve çalışılan tersane/işletmenin büyüklüğüne göre kazanç artabilir.",
+   "Özel sektörde ücret, işveren ile çalışan arasındaki anlaşmaya veya varsa toplu iş sözleşmesi hükümlerine göre belirlenir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleki eğitim merkezinden diploma alanlar, ilgili alanın devamı niteliğindeki yükseköğretim (ön lisans) programlarını sınavla kazanarak eğitimlerini ilerletebilirler. Ayrıca çeşitli mesleki eğitim kurs ve sertifika programlarına katılarak bilgi ve becerilerini geliştirebilirler.",
+  "is_hayatinda": "Deneyim ve beceri kazandıkça usta, formen veya ustabaşı pozisyonuna yükselebilirler. İleride kalite kontrol veya üretim denetim görevlerinde çalışabilir, yeterli sermaye ve deneyime ulaşanlar kendi atölyelerini açabilirler."
+ },
+ "benzer_meslekler": [
+  "Gemi Montörü-Metal",
+  "Tekne Montaj İşçisi",
+  "Gemi Onarım İşçisi",
+  "Gemi Ön İmalat ve Montaj Elemanı",
+  "Gemi Montaj ve Onarım Elemanı",
+  "Endüstriyel ve Yapısal Çelik Konstrüksiyon İşçisi"
+ ],
+ "ek_bilgiler": "Zırh işçiliği, gemi inşa ve onarımında çelik levhaların kesilmesi, şekillendirilmesi, kaynak ve perçinle montajını içeren ağır ve riskli bir meslektir; sektördeki benzer işler çoğunlukla tehlikeli/çok tehlikeli işler kapsamında değerlendirilebildiğinden iş sağlığı ve güvenliği eğitimi ile kişisel koruyucu donanım kullanımı büyük önem taşır.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T00:40:06",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6561
+  }
+ }
+}

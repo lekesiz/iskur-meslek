@@ -1,0 +1,72 @@
+{
+ "arac_gerec": [
+  "Çeşitli elektronik ölçü aletleri (multimetre, osiloskop, sinyal jeneratörü)",
+  "Aviyonik test ve bakım cihazları (bench test üniteleri)",
+  "Kablo ve konnektör krimpleme/sıkıştırma aletleri",
+  "Lehim istasyonu ve havyalar",
+  "Torklu tornavida ve anahtarlar",
+  "Kalibrasyon cihazları",
+  "Taşınabilir test üniteleri ve arıza tespit cihazları",
+  "Uçak teknik bakım kılavuzları ve el kitapları",
+  "Bilgisayar ve bakım takip/kayıt yazılımları",
+  "Çeşitli el takımları (pense, tornavida, kablo soyucu vb.)",
+  "Statik elektriğe karşı koruyucu ekipman (ESD bilekliği)",
+  "Kişisel koruyucu donanım (iş eldiveni, kulak koruyucu vb.)"
+ ],
+ "genel_ozellikler": [
+  "Elektrik ve elektroniğe ilgili, bu alanda temel bilgi ve beceriye sahip,",
+  "El becerisi iyi, el ve göz koordinasyonu gelişmiş,",
+  "Teknik çizim, şema ve bakım dokümanlarını okuyup yorumlayabilen,",
+  "Dikkatli, titiz ve sabırlı çalışabilen,",
+  "Sorumluluk sahibi; yaptığı işin uçuş güvenliğini doğrudan etkilediğinin bilincinde olan,",
+  "Takım halinde çalışmaya uyumlu,",
+  "Teknik İngilizce okuyup anlayabilen,",
+  "Vardiyalı ve değişken çalışma koşullarına uyum sağlayabilen kişiler"
+ ],
+ "gorevler": [
+  "Uçak aviyonik sistemlerinin periyodik kontrollerini yapar.",
+  "Elektrik kablo donanımları ve bağlantılarındaki arızaları giderir.",
+  "Radar, telsiz ve navigasyon cihazlarının testlerini gerçekleştirir.",
+  "Uçuş veri kaydedicileri ve gösterge panellerinin kalibrasyonunu sağlar.",
+  "Yapılan işlemleri havacılık bakım kayıtlarına eksiksiz işler.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "calisma_ortami": "\"Uçak elektrik ve elektronik teknikerleri; hangar, bakım atölyesi ve uçak park sahalarında çalışırlar. Çalışma genellikle kapalı alanlarda yürütülmekle birlikte, bazı durumlarda açık havada, dar ve yüksek bölümlerde, zaman zaman gürültülü ortamlarda görev yapılabilir. İşin niteliğine bağlı olarak vardiyalı çalışma, gece ve hafta sonu mesaisi gerekebilir.\\n\\nMeslek; pilotlar, uçak mühendisleri, diğer bakım teknisyenleri, kalite kontrol ve denetim görevlileri ile yakın işbirliği ve iletişim gerektirir. İş sağlığı ve güvenliği kurallarına, havacılık mevzuatına ve kalite standartlarına titizlikle uyulması zorunludur.\"",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi, üniversitelere bağlı meslek yüksekokullarının Elektrik-Elektronik Teknikerliği, Avionik veya Uçak Teknolojisi ile ilgili önlisans programlarında verilmektedir.",
+  "giris_kosullari": [
+   "Lise veya dengi okul diplomasına sahip olmak",
+   "Yükseköğretim Kurumları Sınavı (YKS) sonucuna göre ilgili önlisans programına yerleşmek"
+  ],
+  "sure_ve_icerik": "Eğitim süresi 2 yıldır (4 yarıyıl). Programda elektrik-elektronik devreleri, elektronik ölçme ve test teknikleri, uçak aviyonik sistemleri, haberleşme ve seyrüsefer sistemleri, uçak bakım mevzuatı gibi teorik ve uygulamalı dersler yer alır. Eğitim sırasında işletmelerde staj yapılması gerekmektedir.",
+  "belge": "Eğitimi başarıyla tamamlayanlara önlisans diploması ve Uçak Elektrik ve Elektronik Teknikeri unvanı verilir."
+ },
+ "calisma_alanlari": "\"Uçak elektrik ve elektronik teknikerleri; havayolu şirketlerinin bakım merkezlerinde, bağımsız uçak bakım ve onarım kuruluşlarında (MRO), havaalanı işletmelerinde, savunma sanayii kuruluşlarında, uçak ve uçak parçası üreten fabrikalarda, Hava Kuvvetleri Komutanlığı gibi kamu kurumlarının bakım tesislerinde iş bulabilirler. Sivil havacılık sektörünün büyümesine bağlı olarak nitelikli uçak teknik personeline duyulan ihtiyaç devam etmektedir.\"",
+ "kazanc": {
+  "egitim_suresince": "Önlisans eğitimi sırasında işletmelerde staj yapan öğrenciler, ilgili mevzuat ve işletmenin uygulamalarına bağlı olarak belirli bir ücret veya harçlık alabilir; staj sırasında iş kazası ve meslek hastalıkları sigortası genellikle işletme ya da devlet tarafından karşılanır.",
+  "egitim_sonrasi": [
+   "Kamu kurum ve kuruluşlarında çalışanların ücretleri 657 sayılı Devlet Memurları Kanunu'na veya işçi statüsünde olanlar için toplu iş sözleşmesi hükümlerine göre belirlenir.",
+   "Özel sektörde ücretler; işletmenin büyüklüğüne, çalışanın deneyimine, yabancı dil ve sertifika düzeyine göre değişir; işe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar, deneyim kazandıkça bu tutar artabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Önlisans programını başarıyla tamamlayanlar, Dikey Geçiş Sınavı (DGS) ile elektrik-elektronik mühendisliği, uçak mühendisliği veya havacılık elektrik-elektroniği gibi ilgili lisans programlarına geçiş yapabilirler.",
+  "is_hayatinda": "Deneyim ve ilave sertifikasyonlarla ekip lideri, bakım şefi, kalite kontrol sorumlusu gibi pozisyonlara yükselebilirler. Yeterlilik ve deneyim arttıkça daha karmaşık sistemlerde ve denetim görevlerinde çalışabilirler."
+ },
+ "benzer_meslekler": [
+  "Uçak Elektroniği Teknisyeni",
+  "Savunma Elektronik Sistemleri Teknisyeni",
+  "Radar Bakım Onarım Teknisyeni",
+  "Elektronik Teknolojisi Teknikeri/Elektrik-Elektronik Teknikeri",
+  "Endüstriyel Elektronik Teknikeri"
+ ],
+ "ek_bilgiler": "\"Sivil havacılık alanında bakım yapan teknik personel, Sivil Havacılık Genel Müdürlüğü (SHGM) tarafından düzenlenen ilgili yetkilendirme ve lisans süreçlerine tabi olabilir; bu nedenle mesleğe yönelecek kişilerin sektördeki güncel mevzuat ve sertifikasyon gerekliliklerini ilgili kurumlardan takip etmeleri önerilir.\"",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T09:14:53",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5076
+  }
+ }
+}

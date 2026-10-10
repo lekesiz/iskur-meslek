@@ -1,0 +1,80 @@
+{
+ "arac_gerec": [
+  "Matkap tezgahı (dik veya yatay tip delik delme makinesi)",
+  "Çeşitli çap ve uzunluklarda ağaç matkap uçları (burgu)",
+  "Madren (matkap başlığı bağlama yuvası)",
+  "Mengene, el merdanesi ve diğer bağlama aparatları",
+  "Tabla ayar çubukları ve derinlik-uzunluk mastarları",
+  "Ölçme aletleri (kumpas, metre, derinlik mastarı)",
+  "Matkap ucu bileme taşı/aparatı",
+  "Basınçlı hava tabancası (talaş temizliği için)",
+  "Yağlama ekipmanları",
+  "Fırça ve temizlik malzemeleri",
+  "Kişisel koruyucu donanım (koruyucu gözlük, eldiven, kulaklık, iş önlüğü)",
+  "Çeşitli ölçü ve cinste ağaç malzeme (tahta, kontrplak, MDF, sunta vb.)"
+ ],
+ "genel_ozellikler": [
+  "El ve gözünü eşgüdümle kullanabilen,",
+  "El becerisine sahip,",
+  "Ölçü ve şekilleri doğru algılayabilen,",
+  "Dikkatli ve tedbirli,",
+  "Makine ve aletlerle çalışmaktan hoşlanan,",
+  "Sabırlı ve düzenli çalışabilen,",
+  "Fiziksel olarak dayanıklı,",
+  "İş güvenliği kurallarına uymaya özen gösteren,"
+ ],
+ "calisma_ortami": "Matkap tezgahı ayarcı-operatörleri (ağaç) genellikle mobilya fabrikaları, ahşap doğrama ve kapı-pencere imalathaneleri, ahşap ambalaj üretim yerleri ile çeşitli ölçekteki ağaç işleri atölyelerinde, kapalı mekanlarda çalışırlar. Çalışma ortamı talaş tozlu, kısmen gürültülü ve makine kokulu olabilir; genellikle ayakta ve dönen kesici uçlarla yakın mesafede çalışıldığından iş kazası riskine karşı dikkatli olunması ve koruyucu donanımın kullanılması gerekir.\n\nÇalışma saatleri işyerinin üretim temposuna göre değişebilir, yoğun dönemlerde fazla mesai veya vardiyalı çalışma söz konusu olabilir. Çalışırken ustabaşı, atölye/fabrika yöneticileri ve diğer ağaç işleme makinesi operatörleri ile sürekli iletişim halinde bulunurlar.",
+ "egitim": {
+  "verildigi_yerler": "Bu meslekte çalışmak için aranan resmî minimum eğitim düzeyi ilköğretimdir. Meslek büyük ölçüde işbaşında, usta yanında uygulamalı olarak öğrenilir. Ayrıca, yeterli talep olması durumunda mesleki eğitim merkezlerinin ağaç işleri/mobilya teknolojisi alanına bağlı ilgili dallarında çıraklık eğitimi kapsamında da verilebilmekte; Halk Eğitim Merkezleri ile İŞKUR'un açtığı mesleki eğitim kurslarında da ahşap/ağaç işleme makineleri operatörlüğüne yönelik kurslar düzenlenebilmektedir.",
+  "giris_kosullari": [
+   "Çıraklık eğitimine başlamak için en az ortaokul mezunu olmak",
+   "14 yaşını doldurmuş olmak",
+   "Sağlık durumunun mesleğin gerektirdiği işlere uygun olması",
+   "Eğitim görmek istediği meslekte bir işyeri bulup işveren ile çıraklık sözleşmesi imzalamak",
+   "İşbaşında yetişme veya kurs yoluyla meslek edinmek isteyenler için ise temel okuryazarlık ve ilköğretim düzeyinde eğitim yeterli görülmektedir"
+  ],
+  "sure_ve_icerik": "Çıraklık eğitimi yoluyla meslek edinimi genellikle birkaç yıl sürer; eğitimde genel kültür dersleri ile ağaç işleme makineleri, malzeme bilgisi, ölçme-kontrol ve iş güvenliği konularını içeren meslek dersleri haftanın bir günü eğitim merkezinde, kalan günlerde ise işyerinde usta öğreticinin gözetiminde uygulamalı olarak verilir. İşbaşında yetişme yolunda ise kişi, deneyimli bir operatörün yanında matkap tezgahının ayarlanması, matkap seçimi, bağlama, delik derinlik/uzunluk ayarı ve ölçü kontrolü gibi işlemleri uygulayarak öğrenir. Kurs yoluyla eğitimde ise temel makine kullanımı, iş güvenliği ve ölçme teknikleri kısa süreli program dahilinde verilir.",
+  "belge": "Çıraklık eğitimini tamamlayanlara kalfalık, ardından ustalık belgesi verilir. Kurs yoluyla eğitim alanlara ise kurs bitirme/katılım belgesi düzenlenir. Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "gorevler": [
+  "Verilen ölçülere göre delinecek ağaç parçalarını işaretler veya işaretlenmiş olan parçaların açılacak delik ölçülerini inceler",
+  "Açılacak delik ölçülerine göre kullanacağı delici matkabı seçer ve seçtiği matkabı makine başlığındaki yuvaya (madren) takar",
+  "Delinecek parçayı makine tablası üzerine mengene, el merdanesi veya diğer bağlama aparatları yardımıyla tutturur",
+  "Parçanın ölçülerine göre tablayı ayarlayarak, ayar çubukları yardımıyla açılacak deliğin derinlik ve uzunluk ayarlarını yapar",
+  "Makineyi çalıştırarak matkabı ekseni etrafında döndürmeye başlar; dönen matkabı parça üzerine indirerek veya parçanın bağlı bulunduğu tablayı dönen matkaba doğru kaldırarak parçanın delinmesini sağlar",
+  "Delinen parçayı tabla üzerinden alarak açılan delik ölçülerini ölçme aletleri ile kontrol eder, iş bitimlerinde makinenin bakım ve temizliğini yapar",
+  "Körelen matkap uçlarını biler",
+  "Kullanılan malzemenin tipine ve delik açılan ağaç parçasının cinsine göre ihtisası bulunur ve bu suretle ayırt eder",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "calisma_alanlari": "Matkap tezgahı ayarcı-operatörleri (ağaç) başta mobilya fabrikaları ve atölyeleri olmak üzere, ahşap kapı-pencere (doğrama) imalatçıları, ahşap ambalaj ve palet üreticileri, parke ve kaplama üreticileri ile genel ağaç işleri sektöründeki üretim tesislerinde istihdam edilirler. İş bulma olanağı, ağaç işleme ve mobilya sektörünün yoğun olduğu bölgelerde ve organize sanayi bölgelerinde daha yüksektir. Deneyim ve referansla iş bulma süreci kolaylaşmaktadır.",
+ "kazanc": {
+  "egitim_suresince": "Çıraklık eğitimi kapsamında işletmelerde mesleki eğitim gören öğrencilere 3308 sayılı Mesleki Eğitim Kanunu gereğince asgari ücretin belirli bir yüzdesinden az olmamak üzere ücret ödenir; ayrıca öğrencilerin iş kazası ve meslek hastalıkları sigorta primleri devletçe karşılanır. Kurs yoluyla eğitim alanlarda ise genellikle ücret söz konusu değildir.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Kazanç; çalışılan işyerinin büyüklüğü, kişinin deneyimi, bilgi ve becerisi ile sektörün ücret düzeyine göre değişebilir.",
+   "Özel sektörde çalışanlar işveren ile karşılıklı anlaşarak ücret belirleyebilir; kamuya bağlı işletmelerde işçi statüsünde çalışanlar için toplu iş sözleşmesi hükümleri geçerlidir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Çıraklık eğitimi yoluyla kalfalık ve ustalık belgesi alanlar, fark derslerini tamamlamaları durumunda meslek lisesi diploması alabilir ve bu sayede ilgili alanın devamı niteliğindeki ön lisans/lisans programlarına yönelebilirler. Ayrıca çeşitli mesleki eğitim kurslarına katılarak bilgi ve becerilerini güncel makine teknolojilerine (örneğin CNC ağaç işleme makineleri) uyumlu şekilde geliştirebilirler.",
+  "is_hayatinda": "Deneyim kazanan operatörler farklı tip ağaç işleme makinelerinde (freze, planya, torna vb.) de çalışabilecek şekilde ustalaşabilir, ustabaşı veya atölye/vardiya sorumlusu konumuna yükselebilirler. Yeterli birikim ve sermayeye sahip olanlar kendi atölyelerini açabilirler."
+ },
+ "benzer_meslekler": [
+  "Ağaç İşleme Tezgahı Ayarcı Operatörü",
+  "Ağaç İşleme Tezgahı Ayarcısı",
+  "Freze Tezgahı Ayarcı-Operatörü (Ağaç)",
+  "Yatay Delik Makinesi Operatörü (Ahşap-Mobilya)",
+  "Dikey Delik Makinesi Operatörü (Ahşap-Mobilya)",
+  "Çoklu Delik Makinesi Operatörü (Ahşap-Mobilya)"
+ ],
+ "ek_bilgiler": "Günümüzde ağaç işleme sektöründe otomasyon ve bilgisayar kontrollü (CNC) makinelerin kullanımı giderek yaygınlaşmaktadır. Bu nedenle mesleği öğrenenlerin, geleneksel matkap tezgahı kullanımının yanında temel bilgisayar ve otomasyon sistemlerine de ilgi duyması, iş bulma ve ilerleme olanaklarını artırabilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T08:07:08",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6369
+  }
+ }
+}

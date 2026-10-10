@@ -1,0 +1,91 @@
+{
+ "arac_gerec": [
+  "Monoray hattı (ray sistemi)",
+  "Monoray vagonu/personel kabini",
+  "Çekme halatı veya zincir tahrik sistemi",
+  "Fren sistemi ve fren pabuçları",
+  "Sesli ve ışıklı ikaz sistemleri",
+  "Telsiz/haberleşme cihazları",
+  "Emniyet zinciri ve korkuluklar",
+  "İnme-binme platformları",
+  "Kişisel koruyucu donanım (baret/kask, baret lambası, eldiven, iş elbisesi, çelik burunlu ayakkabı)",
+  "El feneri",
+  "Gres pompası ve yağlama ekipmanları",
+  "Kontrol ve bakım el aletleri",
+  "Vardiya rapor formları"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli, tedbirli ve sorumluluk sahibi,",
+  "Çevresindeki çeşitli uyarıları aynı anda algılayıp hızlı ve doğru tepki verebilen,",
+  "El ve gözünü eşgüdümle kullanabilen,",
+  "Fiziksel olarak sağlıklı, dar ve kapalı alanlarda çalışabilen,",
+  "Talimat, yönerge ve iş güvenliği kurallarına titizlikle uyan,",
+  "Ekip çalışmasına uyumlu, iletişime açık,",
+  "Mekaniğe ve teknik sistemlere ilgi duyan,",
+  "Monoton ve değişken çalışma koşullarına karşı dayanıklı"
+ ],
+ "calisma_ortami": "Monoray operatörleri, çoğunlukla yer altı maden ocaklarının galerilerinde kurulu monoray hatlarında ya da büyük sanayi tesislerinde (fabrika, santral, tersane ve benzeri işyerlerinde) kurulmuş monoray sistemlerinde çalışır. Yer altında çalışıldığında ortam kapalı, dar, nemli, tozlu ve gürültülü olabilir; sınırlı aydınlatma ve havalandırma koşulları söz konusudur. Çalışma genellikle vardiyalı (gündüz/gece, sürekli üretim) sistemde yürütülür ve dikkatsizlik ciddi iş kazalarına yol açabilir.\n\nOperatör, işi sırasında vardiya amirleri, diğer operatörler, bakım-onarım personeli, iş güvenliği görevlileri ve monoray ile taşınan personel ile sürekli iletişim ve koordinasyon içindedir. Çalışma süresince ayakta veya kumanda mevkiinde oturarak görev yapılır, sinyal ve haberleşme kurallarına uygun hareket etmek zorunludur.",
+ "egitim": {
+  "verildigi_yerler": "Monoray operatörlüğünün bağımsız, resmî olarak tanımlanmış bir örgün eğitim programı bulunmamaktadır. Eğitim genellikle işbaşında usta/deneyimli operatör yanında, işletmelerin (özellikle maden işletmelerinin) kendi bünyesinde düzenlediği iş güvenliği ve operatörlük kurslarında; ayrıca Halk Eğitim Merkezleri ile İŞKUR'un açtığı mesleki eğitim kurslarında verilmektedir.",
+  "giris_kosullari": [
+   "18 yaşını doldurmuş olmak",
+   "En az ilköğretim mezunu olmak",
+   "Mesleğin gerektirdiği fiziksel ve sağlık koşullarına (işitme, görme, denge, dar/kapalı ve yer altı ortamında çalışabilme) sahip olmak",
+   "Maden ocaklarında çalışacaklar için işe giriş sağlık muayenesinden ve gerekli iş güvenliği eğitimlerinden geçmiş olmak"
+  ],
+  "sure_ve_icerik": "Eğitimin süresi ve içeriği, eğitimi veren kuruma ve işletmenin uygulamasına göre değişmektedir. Kurslarda genel olarak iş sağlığı ve güvenliği, monoray sisteminin yapısı ve çalışma prensibi, kontrol ve bakım esasları, sinyalizasyon ve haberleşme teknikleri ile acil durum ve tahliye uygulamaları konularında teorik bilgi verilir; ardından aday bir süre deneyimli bir operatörün gözetiminde işbaşı/pratik eğitim alır.",
+  "belge": "Eğitimi başarıyla tamamlayanlara, eğitimi veren kurum/kuruluş tarafından katılım veya yeterlilik belgesi/sertifikası verilir. Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Monoray operatörleri başta yer altı maden ocakları olmak üzere, monoray sistemi kurulu büyük sanayi tesislerinde, enerji santrallerinde, tersanelerde ve benzeri işyerlerinde kamu veya özel sektöre bağlı olarak istihdam edilebilirler. Meslek büyük ölçüde maden sektörünün üretim ve personel/malzeme nakliyatı ihtiyacına bağlı olarak gelişmektedir; madencilik faaliyetlerinin sürekliliği bu meslek elemanlarına olan talebi korumaktadır.",
+ "kazanc": {
+  "egitim_suresince": "İşbaşı eğitim veya kurs süresince genellikle ayrı bir kazanç söz konusu değildir; eğitim bir işletme bünyesinde çalışılarak alınıyorsa genellikle asgari ücret düzeyinde bir ödeme yapılabilir.",
+  "egitim_sonrasi": [
+   "Kamu kurum ve kuruluşlarında memur statüsünde çalışanlar 657 sayılı Devlet Memurları Kanunu'na, işçi statüsünde çalışanlar ise ilgili toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde çalışanların kazancı genellikle asgari ücret düzeyinde başlar; işyerinin büyüklüğü, çalışılan sektör (özellikle maden), kişinin tecrübesi, bilgisi ve çalışma koşullarına (yer altı tazminatı, vardiya ve risk primleri gibi) göre değişebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Deneyim kazanan operatörler, ileri düzey iş sağlığı ve güvenliği eğitimleri ile diğer hareketli tesis/vinç operatörlüğü (kule vinç, mobil vinç, taşıma teçhizatı gibi) eğitimlerini alarak bilgi ve becerilerini geliştirebilirler.",
+  "is_hayatinda": "Deneyimli ve başarılı operatörler vardiya amirliği, nakliyat şefliği gibi sorumluluk gerektiren görevlere yükselebilir; ilgi ve eğitimlerine göre bakım-onarım teknisyenliği veya iş güvenliği görevlisi gibi alanlara geçiş yapabilirler."
+ },
+ "benzer_meslekler": [
+  "Maden Ocağı Asansörü Operatörü",
+  "Troleyci-Maden",
+  "Desandre Vinççisi",
+  "Kaldırma, Taşıma Raylı Sistem Tavan Vinç Operatörü",
+  "Konveyör Operatörü",
+  "Gezer Köprü Vinç Operatörü"
+ ],
+ "ek_bilgiler": "Monoray sistemleri başta yer altı maden ocakları olmak üzere personel ve malzeme taşımacılığında kullanılır; bu nedenle meslek büyük ölçüde maden sektörüyle ilişkilidir. Yer altında çalışacak operatörler, dar alan, nem, sınırlı havalandırma ve kaçış yolları gibi madenciliğe özgü risklerle karşılaşabileceğinden periyodik sağlık muayenesi ve düzenli iş güvenliği eğitimleri önem taşımaktadır.",
+ "gorevler": [
+  "İş sağlığı ve güvenliği konusundaki yasal ve işyerine ait kuralları uygular.",
+  "İş öncesi işin güvenli yapılması için çalışma alanında yeterli önlemleri alır, kullanacağı alet ve ekipmanların kontrollerini yapar, güvenlikle ilgili tehlikeleri değerlendirir.",
+  "Bir önceki vardiya operatöründen aldığı bilgiler doğrultusunda çalışma alanının genel kontrollerini yapar.",
+  "Harekete başlamadan önce makinenin teker, halat, fren, ışıklı ve sesli ikaz sistemleri, yakıt, hidrolik ve hava hortumlarının emniyet kontrollerini yapar.",
+  "Çalışma alanında makinenin çalışmasına ve taşıma işi yapılmasına engel olacak engelleri ortadan kaldırır.",
+  "Monoray ünitelerinin devreye alınmasında gerçekleştirilen faaliyetlerde görev alır.",
+  "Monoray ile nakliyat yapar.",
+  "İnme binme platformları aracılığıyla monoraya kabin kapasitesine uygun olarak personelin binmesini sağlar.",
+  "Çalışanların güvenli bir şekilde taşınabilmesi için emniyet zincirleri ya da korkulukların takılmasını sağlar.",
+  "Monorayın hareketi esnasında personelin kişisel koruyucu ve benzeri malzemelerinin nakliyatı engellemeyecek şekilde düzenlenmesini sağlar.",
+  "Nakliyat işleminde sinyal ve haberleşme tekniklerine ve yönergeye uygun hareket eder.",
+  "Nakliyat sırasında yol boyunca malzemenin güvenliğini sağlar.",
+  "Çalışma sürecinde ray üzerinde fark ettiği olası eksiklik ve sorunları amirine bildirir.",
+  "Yer altı ocaklarından yerüstüne veya yerüstünden yer altı ocaklarına insan ve malzeme nakliyatının talimatlarda belirtilen şekilde gerçekleştirilmesinde saçı (binici) veya operatör olarak görev alır.",
+  "Nakliyat sırasında, nakliyat güzergâhını ve nakliyat aracında bulunan personel veya malzemeyi gözetler.",
+  "Nakliyat sırasında iletişim araçlarını düzgün ve etkili kullanır.",
+  "Monoray ile yapılan nakliyat işi kuyruk tamburunda son buluyorsa personelin indirilmesinin ardından kuyruk tamburu ve bağlantıları, yürüyüş makaraları, makara grupları, halatları gibi donanımları kontrol eder.",
+  "Monoray ile yapılan nakil işlemi sonunda tahrik tekerleri, yürüyüş tekerleri, fren pabuçları ve benzeri donanımların kontrolünü yapar.",
+  "Vardiya süresince yapılan nakliyat sayısı, personel nakil işleri, arızalar, bakım-onarım işleri, yakıt tüketim miktarı ve benzeri yapılan tüm işleri vardiya raporuna yazar.",
+  "Makinelerin personel oturma yerlerinin ve taşıma kabinlerinin genel temizliğini yapar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T18:57:27",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 8077
+  }
+ }
+}

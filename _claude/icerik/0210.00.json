@@ -1,0 +1,76 @@
+{
+ "gorevler": [
+  "Verilen askeri, teknik veya idari görevleri yerine getirir.",
+  "Silah, teçhizat ve askeri araçların korunmasını sağlar.",
+  "Eğitim, tatbikat ve operasyonlara aktif katılım gösterir.",
+  "Nöbet ve güvenlik hizmetlerini mevzuata uygun şekilde yürütür.",
+  "Birlik disiplini ve hiyerarşisi içerisinde hareket eder.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "arac_gerec": [
+  "Kişisel silah ve mühimmat",
+  "Askeri üniforma ve kişisel teçhizat",
+  "Kişisel koruyucu donanım (miğfer, balistik yelek vb.)",
+  "Telsiz ve diğer haberleşme cihazları",
+  "Görev alanına göre kara, deniz veya hava araçları",
+  "Optik gözetleme ve nişan alma aletleri",
+  "Harita, pusula ve navigasyon ekipmanları",
+  "Bakım onarım el aletleri",
+  "İlk yardım malzemeleri",
+  "Bilgisayar ve ofis yazılımları (idari görevlerde)",
+  "Eğitim ve tatbikat simülatörleri"
+ ],
+ "genel_ozellikler": [
+  "Disiplinli,",
+  "Sorumluluk sahibi,",
+  "Fiziksel ve ruhsal açıdan dayanıklı,",
+  "Ekip çalışmasına yatkın,",
+  "Komuta zincirine ve hiyerarşiye uyumlu,",
+  "Stresli ve riskli koşullarda soğukkanlı kalabilen,",
+  "Kararlı ve özgüvenli,",
+  "Vatan ve millet sevgisiyle hareket eden"
+ ],
+ "calisma_ortami": "Subay olmayan silahlı kuvvetlerin daimi mensupları; görev yaptıkları kuvvete göre kışla, karargah, askeri okul, gemi, uçak üssü, sınır karakolu veya tatbikat/operasyon sahaları gibi farklı ortamlarda çalışır. Çalışma; kapalı mekânlarda (büro, atölye, gemi iç kısmı) olabileceği gibi açık havada, zorlu iklim koşullarında ve bazen yurt içi veya yurt dışı görevlerinde de sürebilir. Görev yerine ve niteliğine göre (sınır güvenliği, operasyon, uçuş, denizde görev) fiziksel risk ve tehlike düzeyi artabilir.\n\nÇalışma düzeni genellikle vardiyalı ve nöbet esasına dayanır; mesai saatleri sabit değildir ve acil durumlarda uzun süreli, kesintisiz görev yapılabilir. Görev süresince sık sık yer değiştirme (tayin) söz konusu olabilir. Meslek mensubu; üstleri, emrindeki personel, subaylar, diğer askeri birimler ve zaman zaman sivil kurumlarla yakın iş birliği içinde çalışır.",
+ "egitim": {
+  "verildigi_yerler": "Astsubaylar için Milli Savunma Üniversitesi bünyesindeki astsubay meslek yüksekokulları; uzman erbaşlar için ilgili kuvvet komutanlıklarının, Jandarma Genel Komutanlığının ve Sahil Güvenlik Komutanlığının açtığı temel askerlik ve meslek edindirme eğitim merkezleri.",
+  "giris_kosullari": [
+   "Astsubay olabilmek için en az lise ve dengi okul mezunu olmak ve ilgili astsubay meslek yüksekokulu giriş sınavlarını (yazılı sınav, mülakat, fiziki yeterlilik) kazanmak",
+   "Uzman erbaş olabilmek için en az ortaöğretim mezunu olmak, askerlik hizmetini yapmış veya yapmakta olmak ve ilgili kuvvet komutanlığının açtığı sınav/mülakatı kazanmak",
+   "Türkiye Cumhuriyeti vatandaşı olmak",
+   "Kuvvet komutanlıklarınca belirlenen yaş, boy-kilo ve sağlık şartlarını taşımak",
+   "Güvenlik soruşturması ve arşiv araştırması sonucunun olumlu olması",
+   "Herhangi bir suçtan hüküm giymemiş olmak"
+  ],
+  "sure_ve_icerik": "Astsubay adaylarının eğitimi, astsubay meslek yüksekokullarında yaklaşık iki yıl sürer; bu süreçte askeri bilgi ve disiplin, branşa yönelik teknik/idari dersler ile fiziki yeterlilik eğitimi verilir, mezuniyet sonrasında görev yerine özgü kısa süreli intibak ve uzmanlık kursları uygulanabilir. Uzman erbaşlar ise temel askerlik eğitiminin ardından ilgili kuvvetin düzenlediği meslek edindirme kurslarına tabi tutulur; eğitimin süresi ve içeriği görev alanına (kara, deniz, hava, jandarma, sahil güvenlik) göre değişiklik gösterir.",
+  "belge": "Eğitim sürecini başarıyla tamamlayanlara astsubaylık veya uzman erbaşlık rütbe/unvanına ilişkin resmi atama belgesi verilir."
+ },
+ "calisma_alanlari": "Türk Silahlı Kuvvetlerine bağlı Kara, Deniz ve Hava Kuvvetleri Komutanlıkları ile Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığı bünyesindeki birlik, karargah, askeri okul, gemi, uçak filosu, sınır birimi ve operasyon merkezlerinde istihdam edilir. Yurt içinde çeşitli garnizonlarda görev yapılabildiği gibi, uluslararası görev ve misyonlarda yurt dışına da gönderilebilir.",
+ "kazanc": {
+  "egitim_suresince": "Astsubay adayları meslek yüksekokulu eğitimi süresince öğrenci/aday statüsünde barınma, iaşe ve harçlık gibi imkanlardan yararlanır; uzman erbaş adayları ise temel eğitim sürecinden itibaren askeri personel statüsünde ücret almaya başlar.",
+  "egitim_sonrasi": [
+   "Astsubaylar ve uzman erbaşlar, 657 sayılı Devlet Memurları Kanunu'na değil, kendi özel personel mevzuatlarına (926 sayılı Türk Silahlı Kuvvetleri Personel Kanunu ve ilgili düzenlemeler) tabi olarak maaş, rütbe tazminatı ve çeşitli ek ödemelerden yararlanır.",
+   "Kazanç düzeyi; rütbe, hizmet yılı (kıdem), görev yeri ve görevin niteliğine (sınır, deniz, uçuş gibi riskli görevler) bağlı olarak değişkenlik gösterir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Astsubaylıkta kıdem, başarı ve ek kurslara bağlı olarak çavuşluktan üstçavuşluk ve başçavuşluğa kadar rütbe terfileri yaşanır; ayrıca branşa yönelik ileri uzmanlık kursları alınabilir. Uzman erbaşlıkta ise hizmet süresine bağlı olarak onbaşılıktan çavuşluğa kadar kademeli bir ilerleme bulunur.",
+  "is_hayatinda": "Belirlenen hizmet süresini ve gerekli sınav/değerlendirmeleri tamamlayan personel üst rütbelere (kıdemli üstçavuş, kıdemli başçavuş vb.) yükselebilir; performans ve kıdeme göre karargah, eğitim kurumu, uzmanlık birimi gibi daha fazla sorumluluk gerektiren görevlere atanabilir."
+ },
+ "benzer_meslekler": [
+  "Astsubay Kıdemli Başçavuş(Hava Kuvvetleri)",
+  "Astsubay Kıdemli Başçavuş(Deniz Kuvvetleri)",
+  "Astsubay Kıdemli Başçavuş (Jandarma)",
+  "Uzman Çavuş",
+  "Uzman Jandarma",
+  "Sahil Güvenlik Uzman Çavuş"
+ ],
+ "ek_bilgiler": "Bu meslek tanımı; astsubay ve uzman erbaş gibi farklı kadro ve rütbeleri kapsayan genel bir çerçevedir. Göreve giriş şartları, eğitim süreçleri, rütbe sistemi ve özlük hakları; ilgili kuvvet komutanlığına (Kara, Deniz, Hava Kuvvetleri, Jandarma, Sahil Güvenlik) göre ayrıntıda farklılık gösterebilir. Göreve başlama ve görevde kalma sürecinde periyodik sağlık muayeneleri, fiziki yeterlilik testleri ve güvenlik soruşturmaları önemli rol oynar.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-07T17:33:35",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6355
+  }
+ }
+}

@@ -1,0 +1,79 @@
+{
+ "arac_gerec": [
+  "Rotatif veya domuz burnu tipi kar temizleme makinesi/aracı",
+  "Kumanda kolları ve joystick düzenekleri",
+  "Direksiyon ve sürüş kontrol sistemleri",
+  "Kar alma tamburu, bıçak ve kazıyıcı düzenekler",
+  "Hidrolik ve pnömatik sistemler",
+  "Araç aydınlatma, sinyalizasyon ve uyarı ışıkları",
+  "Tuz/kum serpme ünitesi (bazı araçlarda)",
+  "Kar zinciri veya özel kış lastikleri",
+  "Telsiz veya mobil iletişim cihazı",
+  "Temel bakım-onarım el aletleri (anahtar takımı, yağdanlık, pense)",
+  "Koruyucu iş kıyafeti, eldiven, baret ve reflektörlü yelek",
+  "Yakıt, madeni yağ ve antifriz gibi sarf malzemeleri"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve sorumluluk bilincine sahip,",
+  "El, göz ve ayak koordinasyonu gelişmiş,",
+  "Mekanik araç ve sistemlere ilgi duyan,",
+  "Soğuk ve olumsuz hava koşullarında çalışabilecek fiziksel dayanıklılığa sahip,",
+  "Yön bulma ve mekanı algılama yeteneği gelişmiş,",
+  "Vardiyalı ve gece çalışmaya uygun,",
+  "Ani ve beklenmedik durumlarda sakin kalıp hızlı karar verebilen,",
+  "Trafik kurallarına ve iş güvenliği kurallarına riayet eden"
+ ],
+ "calisma_ortami": "Kar Temizleme Makinesi Operatörü, çalışmalarını açık havada, karayolları, dağ ve orman yolları üzerinde, kapalı bir araç kabini içinde ancak dış ortam koşullarına doğrudan bağlı olarak yürütür. Çalışma ortamı soğuk, karlı ve zaman zaman buzlanmaya bağlı kaygan olabilir; görüş mesafesi düşebilir. İş, hava koşullarına bağlı olarak gündüz ya da gece, vardiyalı ve bazen uzun süreli olarak yapılabilir; özellikle kış aylarında çalışma yoğunlaşır.\n\nOperatör, görevini genellikle tek başına araç içinde yerine getirir; iş öncesi ve sonrasında yöneticiler, diğer operatörler, bakım personeli, trafik ve karayolu ekipleri ile gerektiğinde acil durum ekipleriyle iletişim kurar. Dikkatsizlik veya yorgunluk kazaya yol açabileceğinden, çalışma sırasında yüksek dikkat ve tedbir gerektirir.",
+ "gorevler": [
+  "Kumanda kolları ile makineyi çalıştırır,",
+  "Aracı hareket ettirip kar temizleyen tamburu kar yığını üzerine sürer,",
+  "Karın yerden alınıp tambur bacasından yol kenarına atılmasını kontrol eder,",
+  "Yol güzergahında makinenin hareketini direksiyonla idare eder,",
+  "Domuz burun makinesi ile yolun engebeli yerlerini tesviye eder,",
+  "Kalan karları temizler,",
+  "Araçlarının basit bakım ve tamirlerini yapar,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Mesleğe özgü, resmî olarak tanımlanmış ayrı bir okul programı bulunmamaktadır. Eğitim; genellikle Karayolları Genel Müdürlüğü, belediyeler ve benzeri kamu kurumlarının hizmet içi eğitimleri, MEB onaylı özel iş makinesi operatörlük kursları, Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kursları ile işbaşında usta yanında yetiştirme yoluyla kazanılmaktadır.",
+  "giris_kosullari": [
+   "18 yaşını doldurmuş olmak",
+   "En az ilköğretim mezunu olmak",
+   "Operatörlük yapmaya engel bir sağlık probleminin (görme, işitme, denge gibi) bulunmaması",
+   "İlgili sürücü belgesine (ehliyet) sahip olmak",
+   "Kurs yönergelerinde belirtilen diğer koşulları (adli sicil vb.) taşımak"
+  ],
+  "sure_ve_icerik": "İş makinesi operatörlüğü kurslarında trafik bilgisi, motor bilgisi, temel bakım, iş sağlığı ve güvenliği ile ilk yardım konularında teorik ders; makinenin kullanımı, kar temizleme tamburu ve bıçak ayarları ile basit bakım-onarım konularında pratik eğitim verilir. Eğitim süresi kurumdan kuruma değişebilir. Kamu kurumlarında işe alınanlara ayrıca hizmet içi eğitim ve usta-çırak ilişkisiyle uygulamalı eğitim verilmektedir.",
+  "belge": "Kursu başarıyla tamamlayanlara operatörlük belgesi/sertifikası verilir; aracın karayolunda kullanılabilmesi için bu belgenin ilgili sürücü belgesine (ehliyete) işlenmesi gerekir."
+ },
+ "calisma_alanlari": "Kar Temizleme Makinesi Operatörleri başta Karayolları Genel Müdürlüğü, belediyeler, il özel idareleri ve orman işletmeleri gibi kamu kurumlarında istihdam edilir. Ayrıca dağlık bölgelerdeki kayak merkezleri, dağ turizmi işletmeleri ve kar mücadelesi hizmeti sunan özel firmalarda da çalışma olanağı bulunmaktadır. İş bulma olanağı, karlı ve dağlık bölgelerde ve kış aylarında daha fazladır; mesleğin mevsimsel/dönemsel bir istihdam yapısı olabilir.",
+ "kazanc": {
+  "egitim_suresince": "Eğitim süresince genellikle bir kazanç söz konusu değildir; bazı durumlarda kurs ücretleri ilgili kurum veya İŞKUR tarafından karşılanabilir.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında çalışanlar 657 sayılı Devlet Memurları Kanunu'na veya işçi statüsünde ise ilgili toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde ücret; işletmenin büyüklüğü, çalışılan bölge, kişinin deneyimi ve mevsimsel çalışma yoğunluğuna göre değişebilir.",
+   "Mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Deneyim kazandıkça greyder, buldozer, kar ezme (snow track) makinesi gibi diğer iş makinelerinin kullanımına yönelik ek kurs ve sertifikalar alınarak uzmanlaşma sağlanabilir.",
+  "is_hayatinda": "Uzun süreli ve başarılı çalışma sonucunda operatörler baş operatör, ekip/vardiya sorumlusu veya makine parkı şefi gibi unvanlara yükselebilir. Kamu kurumlarında açılan iç sınavlarla üst pozisyonlara geçiş mümkündür."
+ },
+ "benzer_meslekler": [
+  "Kar Ezme (Snow Track) Makinesi Operatörü",
+  "Kar Küreme ve Tuzlama Aracı Operatörü",
+  "Yapay Kar Makinesi Operatörü",
+  "Snotrak Araç Operatörü",
+  "Greyder Operatörü",
+  "Buldozer-Dozer Operatörü"
+ ],
+ "ek_bilgiler": "Bu meslek mevsimsel bir çalışma yoğunluğuna sahiptir; iş hacmi kış aylarında ve kar yağışının yoğun olduğu bölgelerde artar. Karayollarının trafiğe açık tutulması açısından önemli bir kamu hizmeti niteliği taşıdığından, istihdam ağırlıklı olarak kamu kurumları üzerinden gerçekleşmektedir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T18:38:05",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6085
+  }
+ }
+}

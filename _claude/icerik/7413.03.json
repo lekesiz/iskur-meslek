@@ -1,0 +1,78 @@
+{
+ "arac_gerec": [
+  "Direğe/kuleye tırmanma ekipmanları (çelik mahmuz/krampon, tırmanma kemeri)",
+  "Paraşüt tipi emniyet kemeri ve düşmeyi önleyici ekipmanlar",
+  "Baret, izolasyonlu eldiven, izole çizme gibi kişisel koruyucu donanım",
+  "İzolatör, paratoner tesisatı ve bağlantı aparatları",
+  "Kablo makarası, kablo germe halatı ve çekme vinci",
+  "Kablo ekleme ve pres aletleri",
+  "Pense, tornavida, anahtar takımı, kargaburun gibi el aletleri",
+  "Voltmetre, ampermetre gibi ölçüm aletleri",
+  "Çelik merdiven, sepetli vinçli araç (bucket truck)",
+  "Telsiz veya diğer haberleşme cihazları",
+  "İp, halat ve çeşitli bağlama malzemeleri",
+  "İş güvenliği levhaları ve topraklama ekipmanları"
+ ],
+ "genel_ozellikler": [
+  "Yükseklik korkusu olmayan,",
+  "Fiziksel olarak güçlü ve dayanıklı,",
+  "El ve kol kaslarını iyi kullanabilen, denge yeteneği gelişmiş,",
+  "Dikkatli, tedbirli ve iş güvenliği kurallarına titizlikle uyan,",
+  "Açık havada ve zorlu hava koşullarında çalışmaya istekli,",
+  "Ekip çalışmasına uyumlu,",
+  "Sorumluluk sahibi ve kararlarını hızlı alabilen,",
+  "Mekanik ve elektrik konularına ilgili"
+ ],
+ "calisma_ortami": "Hat Çekiciler, genellikle açık havada; direk, kule ve bina çatıları üzerinde yükseklikte çalışırlar. Çalışma ortamı mevsim ve coğrafyaya bağlı olarak sıcak, soğuk, yağmurlu veya rüzgarlı olabilir; şehir içinde, kırsal alanda veya dağlık arazide görev yapılabilir. Elektrikli iletkenlerle ve yükseklikte çalışılması nedeniyle elektrik çarpması ve düşme riski bulunduğundan iş güvenliği kurallarına ve kişisel koruyucu donanım kullanımına büyük önem verilir.\n\nMeslek elemanları genellikle ekip halinde çalışır; diğer hat çekicilerle, ustabaşı, teknisyen ve mühendislerle koordineli biçimde iş yürütürler. Arıza giderme çalışmalarında vardiyalı veya çağrı üzerine mesai dışı saatlerde de görev yapılabilir.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin ilköğretim düzeyinde temel giriş koşulu bulunmakla birlikte, hat çekiciliğe özgü resmî ve standart bir meslek lisesi programı bulunmamaktadır. Temel elektrik bilgisi, mesleki eğitim merkezlerinin ve mesleki-teknik ortaöğretim kurumlarının elektrik-elektronik teknolojisi alanında verilmektedir. Hat çekiciliğe özgü beceriler ise büyük ölçüde elektrik dağıtım/iletim şirketlerinde ve şebeke kurulum-bakım yüklenicisi firmalarda işbaşında, usta yanında kazanılır. Ayrıca İŞKUR ve Halk Eğitim Merkezlerinin açtığı mesleki eğitim kursları ile yükseklikte çalışma ve elektrik iş güvenliği sertifika programları bu alanda destekleyici eğitim sağlar.",
+  "giris_kosullari": [
+   "En az ilköğretim/ortaokul mezunu olmak",
+   "Sağlık durumunun yükseklikte ve açık havada çalışmaya uygun olduğunu sağlık raporu ile belgelemek",
+   "Yükseklik korkusu bulunmamak, denge ve fiziksel dayanıklılığa sahip olmak",
+   "Çıraklık eğitimi kapsamında eğitime başlamak için 14 yaşını doldurmuş olmak ve ilgili işyeri ile çıraklık sözleşmesi imzalamak"
+  ],
+  "sure_ve_icerik": "Mesleki eğitim merkezlerinde genel kültür dersleri ve temel elektrik-elektronik dersleri verilir. İşyerinde ise usta öğreticinin gözetiminde direğe tırmanma teknikleri, izolatör ve paratoner montajı, kablo çekme ve eğim hesaplama, kablo ekleme yöntemleri ile arızalı hat ve teçhizatın tamiri gibi uygulamalı beceriler kazandırılır. Yükseklikte çalışma ve elektrik iş güvenliği eğitimleri programın zorunlu bir parçasıdır. Eğitim süresi, izlenen program ve işyerine göre değişebilir.",
+  "belge": "Mesleki eğitim merkezi veya çıraklık eğitimi yoluyla kalfalık/ustalık belgesi alınabilir. Ayrıca yükseklikte çalışma sertifikası ve elektrik iş güvenliği eğitim belgeleri önemlidir. Mesleki Yeterlilik Kurumu (MYK) Mesleki Yeterlilik Belgesi, bu meslekte istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Hat Çekiciler başta elektrik dağıtım ve iletim şirketleri olmak üzere, elektrik şebekesi kurulum ve bakımı işini yürüten yüklenici/taşeron firmalarda, belediyelerin altyapı birimlerinde, inşaat ve altyapı projelerinde çalışabilirler. Benzer beceriler nedeniyle demiryolu ve kent içi raylı sistem işletmelerinde katener hattı bakım ekiplerinde de istihdam edilebilirler. Elektrik enerjisine olan talebin sürekliliği ve şebeke yenileme/genişletme çalışmaları nedeniyle bu meslekte iş bulma olanağı genel olarak istikrarlıdır.",
+ "kazanc": {
+  "egitim_suresince": "Çıraklık veya mesleki eğitim kapsamında işletmede eğitim gören öğrencilere, 3308 sayılı Mesleki Eğitim Kanunu hükümlerine göre ücret ödenir; bu ücret genellikle asgari ücret düzeyindedir. Eğitim gören öğrencilerin iş kazası ve meslek hastalığı sigortası devletçe karşılanır.",
+  "egitim_sonrasi": [
+   "Kamuya bağlı elektrik dağıtım/iletim kuruluşlarında çalışanlar, tabi oldukları kanun ve toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektördeki yüklenici firmalarda çalışanların ücreti, işyerinin büyüklüğü, kişinin tecrübesi ve sektörün genel ücret düzeyine göre karşılıklı anlaşmayla belirlenir.",
+   "Yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar; yükseklikte ve riskli ortamda çalışma nedeniyle bazı işyerlerinde ek tazminat/risk zammı uygulanabilir.",
+   "Deneyim, uzmanlık ve sorumluluk arttıkça kazanç düzeyi de yükselme eğilimi gösterir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleki eğitim merkezinden veya ilgili alandan mezun olanlar, istedikleri takdirde elektrik-elektronik teknolojisi alanına yönelik ön lisans/lisans programlarına sınavla girebilir; ayrıca yükseklikte çalışma, iş güvenliği ve elektrik şebeke teknolojilerine yönelik kurslara katılarak bilgi ve becerilerini geliştirebilirler.",
+  "is_hayatinda": "Deneyim kazandıkça ekip lideri veya ustabaşı pozisyonuna yükselebilirler. İlgili kurum ve firmalarda şebeke işletme-bakım sorumluluğu üstlenebilir, denetim ve planlama görevlerine geçebilirler. Ek eğitimlerle teknisyenlik veya tekniker kadrolarına geçiş mümkün olabilir."
+ },
+ "benzer_meslekler": [
+  "Hat Çekici (Elektrik Cer Hatları)",
+  "Diğer Hat Çekiciler ve Kablo Ekleyiciler",
+  "Kablo Ekleyici-Elektrik",
+  "Elektrik Direği Dikim İşçisi",
+  "Elektrik Dağıtım Şebekesi İşletme Bakım Görevlisi",
+  "Kent İçi Raylı Sistemler Katener Bakım Elemanı"
+ ],
+ "ek_bilgiler": "Bu meslek, yükseklikte ve elektrikli iletkenler üzerinde çalışmayı gerektirdiğinden genellikle tehlikeli ve çok tehlikeli işler kapsamında değerlendirilmektedir; bu nedenle periyodik sağlık muayenesi, düzenli iş güvenliği eğitimi ve kişisel koruyucu donanım kullanımı meslekte büyük önem taşır.",
+ "gorevler": [
+  "İşletmenin genel çalışma prensipleri doğrultusunda, araç, gereç ve ekipmanları etkin bir şekilde kullanarak, işçi sağlığı, iş güvenliği ve çevre koruma düzenlemelerine uygun olarak çalışır",
+  "Diğer işçilerin yardımıyla direk ve küçük kuleler diker",
+  "Direk ve kulelere tırmanarak izolatör, paratoner tesisatı ve diğer yardımcı teçhizatı takar",
+  "Değişen hava şartları altında kopmaması için gerekli eğimi vermeye özellikle dikkat ederek kuleler, direkler ve evler arasına kablo çeker",
+  "Kabloları çeşitli yöntemlerle ekler",
+  "Arızalı hat, direk ve yardımcı teçhizatı tamir eder",
+  "Mesleki gelişim faaliyetlerinde bulunur"
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T06:17:04",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 7050
+  }
+ }
+}

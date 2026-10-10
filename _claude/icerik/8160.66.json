@@ -1,0 +1,84 @@
+{
+ "arac_gerec": [
+  "Bilgisayar kumandalı otomasyon (SCADA) sistemi ve kontrol panelleri",
+  "Eleme (elek) ünitesi",
+  "Taş ayırma ünitesi",
+  "Mıknatıslı metal ayırma ünitesi",
+  "Öğütme kazanı/değirmeni",
+  "Mayşe kazanı",
+  "Süzme teknesi (filtrasyon tankı)",
+  "Kaynatma kazanı (kettle)",
+  "Fermantasyon tankları",
+  "Taşıma boru hatları, vanalar ve pompalar",
+  "Otomatik temizlik (CIP) sistemi",
+  "Matbu takip formları ve kayıt defterleri",
+  "Kişisel koruyucu donanım (eldiven, koruyucu gözlük, kulaklık, iş elbisesi, baret)"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve sorumluluk sahibi,",
+  "Bilgisayar ve otomasyon sistemlerini kullanmaya istekli,",
+  "El ve göz koordinasyonu iyi,",
+  "Takım çalışmasına uygun,",
+  "Vardiyalı çalışma düzenine uyum sağlayabilen,",
+  "Hijyen ve iş güvenliği kurallarına duyarlı,",
+  "Arıza ve aksaklıkları fark edip hızlı karar verebilen,",
+  "Düzenli ve planlı çalışmayı seven"
+ ],
+ "calisma_ortami": "Malt Kaynatma İşlem Operatörü, bira üretimi yapan fabrikaların imalat bölümünde, kazan ve tank hatlarının bulunduğu kapalı alanlarda çalışır. Çalışma ortamı sıcak, buharlı, nemli ve zaman zaman gürültülü olabilir; hammadde elenmesi, öğütülmesi ve kaynatma işlemleri sırasında toz ve buhara maruz kalınabilir. Üretim genellikle vardiyalı (gece-gündüz) düzende sürdürülür.\n\nÇalışma sırasında üretim mühendisleri, kalite kontrol personeli, diğer hat operatörleri ve bakım-onarım teknisyenleriyle iş birliği içinde bulunur. Kaynama kazanları, buharlı hatlar ve dönen ekipmanlar nedeniyle yanık, haşlanma ve diğer iş kazaları riski taşıdığından, iş sağlığı ve güvenliği kurallarına ve kişisel koruyucu donanım kullanımına titizlikle uyulması gerekir.",
+ "calisma_alanlari": "Malt Kaynatma İşlem Operatörü, bira ve malt üretimi yapan gıda/içecek fabrikalarının mayşe hazırlama ve kaynatma bölümlerinde istihdam edilir. İş imkânları, ülkemizde bira üretim tesisi bulunan sınırlı sayıdaki il ve işletmeyle sınırlıdır. Çalışma alanı tamamen özel sektördeki gıda/içecek üretim tesisleridir; kamu kurumlarında bu meslekte istihdam söz konusu değildir.",
+ "benzer_meslekler": [
+  "Fermantasyon İşçisi (Şarap, Bira vb.)",
+  "Bira Filtreleme İşçisi",
+  "Fıçı Bira Dolum Makinesi Operatörü",
+  "Fıçı Yıkama Makinesi Operatörü",
+  "Fırınlama İşçisi-Malt",
+  "Filizleme İşçisi-Malt"
+ ],
+ "ek_bilgiler": "Bu meslek, ülkemizde sınırlı sayıdaki bira/malt üretim tesisinde istihdam olanağı sunmaktadır; iş bulma imkânı büyük ölçüde bu tesislerin bulunduğu bölgelerle sınırlıdır. Çalışma, kaynar sıvı ve buharla temas riski taşıyan kazan ve tank sistemleri içerdiğinden işveren tarafından alınan iş sağlığı ve güvenliği tedbirlerine tam uyum önemlidir.",
+ "egitim": {
+  "verildigi_yerler": "Bu meslek için ayrı, örgün bir mesleki eğitim merkezi programı (çıraklık eğitimi) bulunmamaktadır. Genellikle ilköğretim/ortaöğretim mezunu kişiler, bira fabrikalarında işe alındıktan sonra deneyimli operatör veya usta gözetiminde işbaşında yetiştirilir. Gıda teknolojisi, kimya teknolojisi gibi alanlarda mesleki ve teknik eğitim görmüş kişiler bu işe daha kolay yönelebilir. Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kursları, temel bilgi ve becerilerin desteklenmesine yardımcı olabilir.",
+  "giris_kosullari": [
+   "İlköğretim mezunu olmak (meslek için belirtilen asgari eğitim düzeyi)",
+   "İşe alınacak işletmenin aradığı sağlık ve fiziksel uygunluk şartlarını taşımak",
+   "Gıda üretimi ortamında çalışmaya elverişli olduğunu gösteren sağlık raporuna sahip olmak"
+  ],
+  "sure_ve_icerik": "Standart, resmî olarak tanımlanmış bir eğitim süresi ve müfredatı bulunmamaktadır. İşe yeni başlayanlar, işletme bünyesinde deneyimli operatör veya usta gözetiminde bilgisayar kumandalı hat sistemi, eleme, taş ve metal ayırma, öğütme, mayşeleme, süzme ve kaynatma işlemleri, hijyen kuralları ve iş güvenliği konularında uygulamalı olarak eğitilir. Bu uyum/işbaşı eğitim süreci işletmeden işletmeye değişmekle birlikte genellikle birkaç ay içinde tamamlanır.",
+  "belge": "Örgün bir diploma veya sertifika zorunluluğu yoktur; işletme içi eğitimi tamamlayanlara işyeri tarafından katılım/yetkinlik belgesi verilebilir. Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "gorevler": [
+  "Bilgisayar kumandalı hat sistemini kontrol eder ve kullanıma hazırlar,",
+  "Bilgisayar üzerinden hattı yönlendirerek pirinç ve malt hammaddesini ilgili tanklara alır,",
+  "Hammaddenin elek bölümünde elenmesini sağlar,",
+  "Taş ayırma bölümünde olası taşların ayıklanmasını sağlar,",
+  "Mıknatıs bölümünde olası metallerin ayıklanmasını sağlar,",
+  "Öğütme kazanında hammaddenin öğütülmesini sağlar,",
+  "Mayşeleme kazanında hammaddenin mayşelenmesini sağlar,",
+  "Oluşan mayşeyi sistem hattından ilgili tanklara alarak süzer, kaynatır ve tortularından ayırır,",
+  "Şırayı hat üzerinden fermantasyon tanklarına gönderir,",
+  "Tüm işlem basamaklarını bilgisayar sisteminden sürekli takip eder,",
+  "Tespit edilen arıza ve aksaklıkların giderilmesini sağlar,",
+  "İşlemlere ait matbu form kayıtlarını tutar,",
+  "Sistem hattının, işlem tank ve kazanlarının otomatik temizliklerinin yapılmasına nezaret eder,",
+  "Çalışma alanının temizlenmesini sağlar,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Bu meslekte resmî olarak tanımlanmış bir çıraklık/kalfalık/ustalık ilerleme basamağı bulunmamaktadır. İlgi duyan kişiler, gıda teknolojisi, kimya teknolojisi gibi alanlarda açık öğretim veya örgün ortaöğretim/yükseköğretim (ön lisans/lisans) programlarına devam ederek mesleki bilgilerini destekleyebilir.",
+  "is_hayatinda": "Tecrübe ve bilgi birikimi arttıkça vardiya sorumlusu, usta başı veya kaynatma/mayşeleme bölümü sorumlusu gibi görevlere yükselebilir; ilerleyen süreçte üretim şefliği veya işletme yöneticiliği pozisyonlarına geçiş yapabilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "İşletme bünyesinde verilen işbaşı eğitimi sırasında, çalışılan işyerinin statüsüne göre genellikle en az asgari ücret düzeyinde ücret ödenir; bu süreçte çalışanın sigorta primleri işveren tarafından yatırılır.",
+  "egitim_sonrasi": [
+   "Özel sektörde işçi statüsünde çalışan Malt Kaynatma İşlem Operatörlerinin ücreti, işyerinin büyüklüğü, kişinin tecrübesi, bilgisi ve sektördeki ücret düzeyine göre değişmekle birlikte genellikle asgari ücret düzeyinde başlar.",
+   "Deneyim ve kıdem arttıkça, üstlenilen sorumluluk ve iş yüküne bağlı olarak ücret düzeyi artabilir; toplu iş sözleşmesi bulunan işyerlerinde ücret, sözleşme hükümlerine göre belirlenir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T15:30:12",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6851
+  }
+ }
+}

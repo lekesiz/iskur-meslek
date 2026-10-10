@@ -1,0 +1,83 @@
+{
+ "arac_gerec": [
+  "Fırın kontrol odası bilgisayarı ve kontrol panosu",
+  "Cam eritme/tavlama fırını",
+  "Refrakter (ateş tuğlası) malzemeler",
+  "Sıcaklık ölçüm cihazları (optik pirometre)",
+  "Basınç ölçüm cihazları",
+  "Su sistemi pompaları, valfler ve borular",
+  "Soğutma fanları ve enversiyon damperleri",
+  "Rejeneratör ve harman besleme sistemi",
+  "El aletleri (anahtar takımı, tornavida, pense)",
+  "Kişisel koruyucu donanım (ısıya dayanıklı kıyafet, eldiven, koruyucu gözlük)",
+  "Kontrol kayıt ve rapor formları"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve tedbirli,",
+  "Sorumluluk sahibi,",
+  "Fiziksel olarak dayanıklı,",
+  "Teknik konulara ilgili,",
+  "El ve göz koordinasyonu iyi,",
+  "Ekip çalışmasına uyumlu,",
+  "Yüksek ve değişken sıcaklığa dayanıklı,",
+  "Problem çözme becerisine sahip,"
+ ],
+ "calisma_ortami": "Fırın ustaları, cam fabrikalarının fırın hatlarında kapalı ortamda çalışır. Çalışma ortamı yüksek sıcaklık, gürültü ve yoğun ısı etkisi içerir; bu nedenle iş sağlığı ve güvenliği kurallarına ve koruyucu donanım kullanımına titizlikle uyulması gerekir. Üretim sürekliliği gerektiren bir süreç olduğundan çalışma genellikle vardiyalı düzende (gündüz-gece) yürütülür.\n\nÇalışma sırasında büyük ölçüde ayakta ve hareketli olarak görev yapılır. Fırın ekibi üyeleri, mühendisler ve vardiya amirleriyle sürekli iletişim ve koordinasyon içinde çalışılır.",
+ "gorevler": [
+  "İş programına göre fırın kontrol odasındaki bilgisayar vasıtasıyla set edilmiş değerler ile fırının (fırın cam, kenar sıcaklıkları, yakma havası basınçları vb.) belirlenmiş alan ve noktalardaki fiili değerlerini kontrol eder, farklarını saptar.",
+  "Sürekli olarak fırını kontrol eder, sorun varsa çözümlenmesi için amirine bildirir.",
+  "Harman dökülen yerden itibaren cam örtüsünü izler, fırın seviyesini kontrol eder.",
+  "Fırın duvarlarının refraktör yapısını dökülme ve kopma yönünden kontrol eder.",
+  "Su sisteminin basıncını, dolaşımını, fırın içi camın hareketini, gaz ve hava geçen bölgeleri, valfleri, fırın zemin katında fırın fanlarını kontrol eder ve bilgileri kontrol kayıtlarına geçirir.",
+  "Harman dairesini, fırın bacasını, fırın duvarlarını kontrol eder, dökülme, kırılma vb. arızaların fırın ekibi ile birlikte tamir edilmesini sağlar.",
+  "Fırın kumanda odasından başlayarak soğutma fanlarını, su havuz ve su pompasını, fırın rejeneratör taban kontrolünü, enversiyon damperleri vb. kontrol edilmesi gereken sistemlerin çalışmasını, olması gereken ölçü ve standartta olup olmadıklarını inceler ve kontrol eder.",
+  "Fırın kontrol panosu ve fırın içini gözleyerek fırın ve yakma sistemlerinin çalışmasını kontrol eder.",
+  "Periyodik olarak fırının ve diğer destek sistemlerinin temizlik ve bakımını yapar, alınması gereken örnekleri alır.",
+  "Fırından optik pirometre ile sıcaklık ölçümü yapar.",
+  "Fırının bakım, onarım, temizlik, değiştirme vb. operasyonlarında fırın ekibinin üyesi olarak çalışır.",
+  "Fırının standarda uygun çalışmasını engelleyen etkenleri saptar ve ortadan kaldırmak için yapılması gerekenleri belirler.",
+  "Çevre ve çalışılan alanların temizliğini yapar.",
+  "Kullanılan araç, gereç ve makinelerin bakım ve kontrolünü yapar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Mesleğin örgün ve standart bir eğitim programı bulunmamaktadır. Eğitim genellikle cam fabrikalarında işbaşında, usta yanında yetişme yoluyla kazanılır. Ayrıca Halk Eğitim Merkezleri ve Mesleki Eğitim Merkezlerinin cam ve seramik alanındaki ilgili kurslarında temel düzeyde bilgi edinilebilir.",
+  "giris_kosullari": [
+   "İlköğretim mezunu olmak (meslekte aranan asgari eğitim düzeyi ilköğretimdir).",
+   "İşe alınacak işletmenin belirlediği yaş ve sağlık koşullarını taşımak.",
+   "Yüksek ısı ortamında çalışmaya fiziksel olarak uygun olmak."
+  ],
+  "sure_ve_icerik": "Meslekte belirli ve standart bir eğitim süresi yoktur. Cam fabrikasına işçi olarak giren kişi, önce fırın ekibinde yardımcı görevlerde çalışarak deneyim kazanır; zamanla usta yanında fırının kontrolü, bakımı, sıcaklık ve basınç ölçümü, arıza tespiti ve giderilmesi gibi konularda uygulamalı eğitim alarak kademeli şekilde fırın ustalığına yükselir. Bu süreç işletmeden işletmeye değişmekle birlikte genellikle uzun bir deneyim süresi gerektirir.",
+  "belge": "Resmi bir diploma veya sertifika zorunluluğu bulunmamaktadır; işletme içi eğitimler sonunda kurum tarafından katılım belgesi verilebilir. Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Fırın ustaları; düz cam, cam eşya, cam ambalaj, cam elyaf gibi ürünlerin üretildiği cam fabrikalarının fırın hatlarında istihdam edilir. Cam üretiminin yoğunlaştığı sanayi bölgelerindeki fabrikalarda çalışma olanağı bulunmaktadır. Sektördeki fabrika sayısı ve üretim hacmine bağlı olarak iş bulma olanakları sınırlı sayıda işletmeyle kısıtlı olmakla birlikte, nitelikli ve deneyimli fırın ustalarına düzenli ihtiyaç duyulmaktadır.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğe işbaşında eğitimle girildiğinden, işletmede çalışmaya başlayan kişi genellikle asgari ücret düzeyinde bir kazanç elde eder.",
+  "egitim_sonrasi": [
+   "İşe başlangıçta genellikle asgari ücret düzeyinde kazanç sağlanır.",
+   "Deneyim, kıdem ve uzmanlaşma düzeyine bağlı olarak ücret artış göstermektedir.",
+   "Özel sektörde çalışıldığından ücret, işveren ile yapılan anlaşmaya ve işletmenin büyüklüğüne göre değişebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Meslekte örgün bir ilerleme basamağı bulunmamaktadır; kişi deneyim kazandıkça fırın yardımcılığından fırın ustalığına yükselir.",
+  "is_hayatinda": "Deneyim ve performansa bağlı olarak fırın ustası; vardiya sorumlusu, üretim şefi veya fabrika üretim amirliği gibi görevlere ilerleyebilir."
+ },
+ "benzer_meslekler": [
+  "Fırın İşçisi (Cam İmali)",
+  "Fırın İşçisi (Cam Tavlama)",
+  "Fırın Bakım-Onarım İşçisi (Cam)",
+  "Cam Tavcısı",
+  "Harman Operatörü (Cam)",
+  "Fondör (Cam)"
+ ],
+ "ek_bilgiler": "Cam fırınları çok yüksek sıcaklıklarda sürekli çalıştırıldığından, meslek yoğun ısı, gürültü ve vardiyalı çalışma koşulları içermektedir. Bu nedenle iş sağlığı ve güvenliği kurallarına, koruyucu donanım kullanımına titizlikle uyulması önemlidir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T16:48:56",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6660
+  }
+ }
+}

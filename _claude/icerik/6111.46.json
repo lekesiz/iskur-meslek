@@ -1,0 +1,77 @@
+{
+ "arac_gerec": [
+  "Traktör ve toprak işleme aletleri (pulluk, tırmık, kültivatör)",
+  "Bel, çapa, tırmık gibi el aletleri",
+  "Tohum veya fide",
+  "Gübre dağıtıcısı ve kimyasal/organik gübreler",
+  "Damla sulama sistemi ve sulama ekipmanları",
+  "Pülverizatör",
+  "Tarım ilaçları (insektisit, fungisit, herbisit)",
+  "Sırık, tel-kazık veya file gibi destekleme malzemeleri",
+  "Sera/örtü altı malzemeleri (plastik örtü, naylon tünel)",
+  "Hasat kasaları ve taşıma ekipmanları",
+  "Ölçme ve kontrol aletleri (nem ölçer, pH metre)",
+  "Kişisel koruyucu donanım (eldiven, maske, koruyucu giysi)"
+ ],
+ "genel_ozellikler": [
+  "Toprağı ve bitkiyi seven, tarımsal üretime ilgi duyan",
+  "Açık havada ve zaman zaman sera ortamında çalışmaktan hoşlanan",
+  "Fiziksel olarak dayanıklı ve el becerisine sahip",
+  "Dikkatli ve gözlem yeteneği güçlü",
+  "Sabırlı, düzenli ve sorumluluk sahibi",
+  "Mevsimsel yoğun çalışma temposuna uyum sağlayabilen",
+  "Ekip çalışmasına yatkın",
+  "Çevreyi ve doğayı korumayı ilke edinen"
+ ],
+ "calisma_ortami": "Hıyar Yetiştiricisi, açık tarlada veya örtü altı (sera) ortamında çalışır. Çalışma sırasında güneş, sıcak, nem ve toz gibi iklim koşullarına maruz kalabilir; eğilerek, çömelerek veya uzun süre ayakta kalarak fiziksel güç gerektiren işler yapar. Tarım ilaçları ile temas riski bulunduğundan koruyucu ekipman kullanımı önemlidir. Çalışma saatleri mevsime ve özellikle hasat dönemine göre değişkenlik gösterir; hasat zamanlarında uzun ve yoğun çalışma söz konusu olabilir.\n\nGörevini genellikle işletme sahibi/çiftçi, diğer tarım işçileri ve zaman zaman ziraat mühendisi veya teknisyenlerle iş birliği içinde yürütür. Kendi hesabına çalışanlar ise üretim, pazarlama ve işletme kararlarını kendileri alır.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin örgün bir eğitim programı olarak tanımlanmış sabit bir okul veya diploma süreci bulunmamaktadır. Bilgi ve beceri genellikle aile işletmesinde veya bir tarım işletmesinde usta-çırak ilişkisi içinde, işbaşında öğrenilir. Bunun yanında Tarım ve Orman Bakanlığı'na bağlı il/ilçe müdürlükleri, Halk Eğitim Merkezleri ve İŞKUR tarafından açılan sebze yetiştiriciliği ile ilgili kısa süreli mesleki eğitim kursları bulunmaktadır. Tarım alanında ortaöğretim ve yükseköğretim düzeyinde ilgili bölüm mezunları da bu meslekte bilgi ve beceri geliştirebilir.",
+  "giris_kosullari": [
+   "Mesleğin icrası için belirli bir asgari eğitim şartı bulunmamakla birlikte, ilköğretim mezunu olmak genel olarak yeterli görülmektedir",
+   "Açılan kurslara katılmak isteyenlerin ilgili kurumun belirlediği yaş ve genel şartları taşıması gerekir",
+   "Sağlık durumunun açık hava koşullarında ve fiziksel güç gerektiren işlerde çalışmaya elverişli olması gerekir"
+  ],
+  "sure_ve_icerik": "Mesleğin örgün bir eğitim süresi ve müfredatı bulunmamaktadır. Bilgi ve beceri genellikle zaman içinde, aile işletmelerinde veya tarım işletmelerinde uygulamalı olarak kazanılır. İŞKUR ve Halk Eğitim Merkezleri tarafından açılan sebze yetiştiriciliği kurslarının süresi içeriğine göre değişmekle birlikte, toprak hazırlığı, tohum/fide seçimi, dikim, gübreleme, sulama, hastalık ve zararlılarla mücadele ile hasat konularını kapsar.",
+  "belge": "Örgün bir eğitim süreci olmadığından diploma söz konusu değildir; katılınan kurslar sonunda kurs bitirme/katılım belgesi verilebilir. Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Hıyar Yetiştiricisi; kendi arazisinde veya başkasına ait tarım işletmelerinde, sebze üretimi yapan özel çiftliklerde, tarım kooperatiflerinde ve sera (örtü altı üretim) işletmelerinde ücretli ya da kendi hesabına çalışabilir. Ayrıca tohum, fide, tarım ilacı ve gübre bayilerinde, tarımsal danışmanlık hizmeti veren işletmelerde görev alabilir. Tarım ve Orman Bakanlığı'na bağlı kuruluşlarda ve tarımsal araştırma enstitülerinde yardımcı personel olarak istihdam edilme imkânı bulunmaktadır. Kendi işini kurmak isteyenler için uygun tarım arazisine sahip olmak veya arazi kiralamak önemli bir koşuldur.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğin örgün bir eğitim süreci bulunmadığından bu dönemde düzenli ve belirli bir ücretten söz etmek güçtür. Aile işletmesinde veya ücretli olarak bir işletmede çalışılarak öğrenilmesi hâlinde, çalışılan süre için işveren ile çalışan arasındaki anlaşmaya bağlı olarak ücret alınabilir.",
+  "egitim_sonrasi": [
+   "Ücretli olarak bir işletmede çalışanlar genellikle asgari ücret düzeyinde kazanç elde eder; deneyim, işletmenin büyüklüğü ve çalışma koşullarına göre bu ücret artabilir",
+   "Kendi hesabına üretim yapanların kazancı, işlettikleri arazinin büyüklüğüne, verime ve pazar koşullarına göre değişiklik gösterir",
+   "Kamu kurumlarında istihdam edilenler, tabi oldukları statüye (657 sayılı Kanun veya ilgili mevzuat) göre ücret alır"
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğin örgün bir eğitim kademesi bulunmadığından mesleki eğitimde ilerleme sınırlıdır. Ancak tarım alanında açılan kurslara katılarak güncel üretim tekniklerini, hastalık ve zararlı mücadelesini, sertifikalı tohum/fide kullanımını öğrenerek bilgi ve becerisini geliştirebilir. İsteyenler açık öğretim veya örgün yollarla tarım teknolojileri, bitkisel üretim ya da bahçıvanlık gibi ilgili ön lisans/lisans programlarına yönelerek mesleki bilgisini ilerletebilir.",
+  "is_hayatinda": "Deneyim kazandıkça işletmede sorumluluk alanı genişleyebilir, usta işçi veya işletme sorumlusu konumuna gelebilir. Yeterli sermaye biriktirdiğinde kendi üretim işletmesini kurarak işveren konumuna geçebilir. Organik tarım veya örtü altı (sera) üretim gibi uzmanlık alanlarına yönelerek katma değeri yüksek üretim yapabilir."
+ },
+ "benzer_meslekler": [
+  "Sebze Yetiştiricisi",
+  "Domates Yetiştiricisi",
+  "Kabak Yetiştiricisi",
+  "Örtü Altı Sebze Yetiştiricisi",
+  "Kavun Yetiştiricisi",
+  "Karpuz Yetiştiricisi"
+ ],
+ "ek_bilgiler": "Hıyar yetiştiriciliği hem açık tarlada hem de örtü altında (seralarda) yapılabilmektedir. Örtü altı üretim, yıl boyunca üretim imkânı sunduğundan bölgeye ve pazar talebine göre tercih edilebilmektedir.",
+ "gorevler": [
+  "Üretim tekniklerini araştırır",
+  "Ekim dikim yerlerini hazırlar",
+  "Gübreleme yapar",
+  "Kültürel işlemleri yapar",
+  "Bitkilerde görülen zararlıları inceler",
+  "Hastalık, zararlılar ve yabancı otlarla mücadele eder",
+  "Hıyar yetiştirir",
+  "Mesleki gelişim faaliyetlerinde bulunur"
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T20:22:37",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6831
+  }
+ }
+}

@@ -1,0 +1,75 @@
+{
+ "arac_gerec": [
+  "Kısa ve uzun namlulu ateşli silahlar (tabanca, tüfek)",
+  "Telsiz ve diğer haberleşme cihazları",
+  "Kelepçe ve zapt etme ekipmanları",
+  "Resmi devriye/hizmet aracı",
+  "Kişisel koruyucu donanım (çelik yelek, kask, eldiven)",
+  "Trafik kontrol ve işaretleme ekipmanları (ışıklı işaret çubuğu, koni, dedektör)",
+  "GPS/navigasyon cihazı",
+  "İlk yardım malzemeleri",
+  "Güvenlik arama cihazları (metal dedektörü vb.)",
+  "Tutanak, form ve diğer resmi evrak malzemeleri",
+  "Kamera ve görüntü kayıt sistemleri",
+  "Düdük ve işaret verme ekipmanları"
+ ],
+ "genel_ozellikler": [
+  "Fiziksel ve psikolojik yönden sağlıklı,",
+  "Sorumluluk sahibi ve disiplinli,",
+  "Ani ve stresli durumlarda sakin kalıp hızlı, doğru karar verebilen,",
+  "İyi iletişim kurabilen ve halkla ilişkilerde dengeli,",
+  "Fiziksel dayanıklılığa ve çabukluğa sahip,",
+  "Kanun, nizam ve emir komuta zincirine bağlı,",
+  "Takım çalışmasına uyumlu,",
+  "Tehlikeli ve riskli ortamlarda görev yapabilecek cesarete sahip"
+ ],
+ "calisma_ortami": "Uzman jandarmalar, görev yerine göre açık havada (devriye, sınır, trafik denetimi, kırsal arazi) veya kapalı mekânlarda (karakol, birlik merkezi, nöbet kulübesi) çalışır. Görev, farklı iklim ve hava koşullarında, bazen uzun ve düzensiz çalışma saatlerinde (vardiya, nöbet, gece görevi) yürütülür; silahlı ve bedensel risk içeren, zaman zaman tehlikeli olaylara doğrudan müdahaleyi gerektiren bir ortamdır.\n\nÇalışma sırasında üst ve ast rütbeli askeri personelle, diğer güvenlik birimleriyle, adli ve mülki mercilerle, ayrıca halkla sürekli iletişim halinde olunur. Görev, bölgesel asayiş ve güvenlik ihtiyaçlarına göre farklı illere veya birliklere atanmayı ve zaman zaman yer değiştirmeyi gerektirebilir.",
+ "gorevler": [
+  "Suç önleyici devriye ve denetim faaliyetleri yapar.",
+  "Olaylara müdahale eder ve tutanak hazırlar.",
+  "Trafik kontrolleri ve güvenlik aramaları gerçekleştirir.",
+  "Birliğindeki idari ve operasyonel işleri yürütür.",
+  "Halkla ilişkiler faaliyetlerini yürütür ve toplumsal asayişi korur.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Uzman jandarma olabilmek için Jandarma Genel Komutanlığı bünyesindeki ilgili eğitim merkezlerinde temel askerlik ve mesleki branş eğitimi verilir. Eğitime kabul, Jandarma Genel Komutanlığının ilan ettiği uzman jandarma temin ve eğitim süreci üzerinden gerçekleşir.",
+  "giris_kosullari": [
+   "En az lise ve dengi okul mezunu olmak",
+   "Jandarma Genel Komutanlığı tarafından ilan edilen başvuru şartlarını (yaş, boy-kilo, vatandaşlık, askerlikle ilişki, adli sicil vb.) taşımak",
+   "Yapılan yazılı/fiziki yeterlilik sınavları, mülakat ve güvenlik soruşturması aşamalarında başarılı olmak",
+   "Sağlık muayenesinden \"askeri öğrenci/uzman jandarma olur\" raporu almak"
+  ],
+  "sure_ve_icerik": "Eğitim süreci, temel askerlik eğitimi ile birlikte asayiş, trafik, güvenlik ve mevzuat konularını içeren mesleki branş eğitimini kapsar. Eğitimin süresi ve içeriği, Jandarma Genel Komutanlığının belirlediği programa göre değişebilir; eğitimi başarıyla tamamlayanlar uzman jandarma olarak göreve başlar.",
+  "belge": "Eğitimi başarıyla bitirenlere \"Uzman Jandarma\" unvanı verilir ve ilgili birliklerde göreve başlatılır."
+ },
+ "calisma_alanlari": "Uzman jandarmalar, Jandarma Genel Komutanlığına bağlı il ve ilçe jandarma komutanlıkları, sınır birlikleri, trafik timleri, asayiş ve özel harekât birimleri gibi yurt içindeki farklı jandarma birimlerinde istihdam edilir. Kamuya ait bu görev, 3269 sayılı Uzman Jandarma Kanunu kapsamında sürekli statüde yürütülen bir askeri hizmettir; özel sektörde bu mesleğin bir karşılığı bulunmamaktadır.",
+ "kazanc": {
+  "egitim_suresince": "Eğitim sürecinde adaylara, askeri öğrenci/aday statüsünde ilgili mevzuata göre belirlenen harçlık veya aylık ödenir; barınma, giyim ve iaşe gibi ihtiyaçlar genellikle kurum tarafından karşılanır.",
+  "egitim_sonrasi": [
+   "Göreve başlayan uzman jandarmaların maaş ve özlük hakları, 3269 sayılı Uzman Jandarma Kanunu ve ilgili mevzuat çerçevesinde belirlenir.",
+   "Kazanç düzeyi; rütbe, kıdem, görev yeri ve risk/görev tazminatları gibi unsurlara göre değişiklik gösterir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Göreve başlangıçta temel eğitim sonrası uzman jandarma unvanı kazanılır; hizmet içi eğitimler ve mevzuatta belirlenen kıdem süreleri tamamlandıkça kıdemli uzman jandarma kademelerine ilerleme sağlanır.",
+  "is_hayatinda": "Kıdem, performans ve hizmet süresine bağlı olarak daha üst kıdem kademelerine ve farklı görev/branşlara (asayiş, trafik, sınır güvenliği vb.) atanma imkânı bulunur; belirli şartları taşıyanlar ilgili sınav ve süreçlerle astsubaylık gibi üst kadrolara geçiş başvurusunda bulunabilir."
+ },
+ "benzer_meslekler": [
+  "Jandarma Uzman Çavuş",
+  "Jandarma Uzman Onbaşı",
+  "Astsubay Çavuş (Jandarma)",
+  "Astsubay Kıdemli Çavuş (Jandarma)",
+  "Uzman Çavuş",
+  "Sahil Güvenlik Uzman Çavuş"
+ ],
+ "ek_bilgiler": "Uzman jandarmalık, 3269 sayılı Uzman Jandarma Kanunu ile düzenlenen, silahlı ve riskli görevleri içeren bir askeri meslektir; bu nedenle göreve girişte sıkı sağlık, fiziki yeterlilik ve güvenlik soruşturması şartları uygulanır. Meslek, yurdun farklı bölgelerine atanmayı ve görev gereği yer değiştirmeyi kapsayabileceğinden hareketliliğe açık olmak önemlidir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-07T17:41:05",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 4819
+  }
+ }
+}

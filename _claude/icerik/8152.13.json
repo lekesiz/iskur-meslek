@@ -1,0 +1,78 @@
+{
+ "arac_gerec": [
+  "Dokuma tezgahı (otomatik veya yarı otomatik)",
+  "Örgü (gücü) takımı ve telleri",
+  "Tel dizileri (lamel ve gücü telleri)",
+  "Argaç ve sarma ağacı",
+  "Mekik",
+  "Donanım bantları",
+  "İplik (argaç/çözgü)",
+  "El aletleri (pense, tornavida, anahtar takımı)",
+  "Makas",
+  "Ölçüm aletleri (metre, kumpas)",
+  "Temizlik malzemeleri ve yağlama gereçleri"
+ ],
+ "genel_ozellikler": [
+  "El ve göz becerisine sahip,",
+  "Dikkatli ve titiz,",
+  "Sabırlı ve düzenli çalışabilen,",
+  "Mekanik aletlere ve makinelere ilgili,",
+  "Teknik şema ve örnek desenleri okuyup uygulayabilen,",
+  "Renk ve desenleri ayırt edebilen,",
+  "Fiziksel olarak dayanıklı,",
+  "Yönergelere uygun çalışabilen"
+ ],
+ "calisma_ortami": "Tezgah tertipleyiciler, dokuma kumaş, halı, perde veya benzeri tekstil ürünlerinin üretildiği fabrika ve atölyelerin dokuma bölümlerinde çalışır. Çalışma ortamı kapalı mekandır; makine sesinden kaynaklanan gürültü ve havada bulunan lif tozu, çalışma koşullarını zorlaştırabilir. Görev genellikle tam gün sürdürülür, işletmenin üretim düzenine göre vardiyalı çalışma söz konusu olabilir.\n\nMeslek mensupları çalışırken ayakta durur, eğilip kalkar ve tezgahların üzerinde veya önünde hassas işlemler yapar. Çalışma sırasında daha çok makine ve malzeme ile ilgilenir; zaman zaman işveren, atölye ustası, dokuma makineleri operatörleri ve diğer iş arkadaşlarıyla iletişim kurar.",
+ "gorevler": [
+  "İş organizasyonu yapar.",
+  "Tezgah donanımını, örgü (gücü) takımı tellerini ve tel dizilerini yerlerine oturtur.",
+  "Argaç uçlarını sarma ağacına bağlar.",
+  "Tezgahı, yeni bir örneğe göre dokuma yapacak veya değişik kalitede imalat yapacak şekilde çalıştırır.",
+  "Düzenli çalışmasını sağlamak amacıyla tezgahı zaman zaman kontrol eder.",
+  "Donanım bantlarını yeniler.",
+  "Aşınmış mekikleri değiştirir.",
+  "Boşalan argaç sarma ağacını dolu olanlarla değiştirir.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimine yönelik örgün bir okul programı bulunmamaktadır. Meslek genellikle işyerlerinde usta yanında çalışılarak öğrenilmekte; ayrıca Halk Eğitim Merkezleri, Mesleki Eğitim Merkezleri ve tekstil sektörüne yönelik olarak belediyeler, özel kurum ve kuruluşlar ile İŞKUR tarafından açılan mesleki eğitim kurslarında da bu alanda bilgi ve beceri kazandırılabilmektedir.",
+  "giris_kosullari": [
+   "Okuryazar olmak",
+   "Belirli bir yaş ve eğitim düzeyi aranıyorsa, bu durum kursu/eğitimi veren kurum tarafından duyurulur",
+   "18 yaşından küçükler, velisinin izniyle eğitime katılabilir",
+   "Tekstil veya dokuma makineleri alanındaki temel bilgiler, mesleğe uyumu kolaylaştırır"
+  ],
+  "sure_ve_icerik": "Eğitim süresi, uygulandığı kuruma ve programa göre değişiklik gösterir. Eğitim süresince dokuma tezgahının yapısı ve çalışma prensibi, örgü (gücü) takımı ve tel dizilerinin yerleştirilmesi, argaç bağlama, donanım bantlarının yenilenmesi, mekik değişimi ve tezgahların kontrolüne ilişkin temel bilgi ve beceriler uygulamalı olarak verilir.",
+  "belge": "Kurs yoluyla eğitim alanlara Kurs Bitirme Belgesi verilir. İşyerinde usta yanında yetişenlerde ise mesleki deneyim esas alınır."
+ },
+ "calisma_alanlari": "Tezgah tertipleyiciler; kumaş, halı, kilim, perde, etiket gibi ürünlerin dokunduğu tekstil fabrikaları ve atölyelerinde, dokuma tezgahlarının kurulumu, ayarı ve bakımından sorumlu olarak çalışabilirler. Özellikle dokuma makineleri sayısının fazla olduğu orta ve büyük ölçekli tekstil işletmelerinde istihdam edilebilirler. Dokuma makineleri operatörlüğünde deneyim kazanan kişiler, zaman içinde tezgah tertipleyiciliğe geçiş yapabilmektedir. Kamu kurumlarında bu mesleğe yönelik istihdam olanağı bulunmamaktadır.",
+ "kazanc": {
+  "egitim_suresince": "İşyerinde usta yanında yetişilen durumlarda çıraklık/işbaşı eğitim dönemi için işveren tarafından değişken bir ücret ödenebilir; kurs yoluyla eğitim alınıyorsa eğitim süresince genellikle bir kazanç söz konusu değildir.",
+  "egitim_sonrasi": [
+   "Çalışma hayatına yeni başlayanlarda kazanç genellikle asgari ücret düzeyindedir.",
+   "Tecrübe, bilgi düzeyi ve farklı tezgah tiplerine hakimiyet arttıkça ücret düzeyi yükselebilir.",
+   "Özel sektörde çalışılan işletmenin büyüklüğü ve ücret politikasına göre kazanç değişebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "İşletmenin yapısına ve büyüklüğüne bağlı olarak, işletme bünyesinde hizmet içi eğitim programları düzenlenerek farklı tezgah tipleri ve ileri teknolojili dokuma makineleri konusunda bilgi ve beceri geliştirilebilir.",
+  "is_hayatinda": "Tecrübe kazanan tezgah tertipleyiciler, çalıştıkları işyerinde usta, atölye şefi veya bakım-onarım sorumlusu konumuna yükselebilir. Yeterli bilgi ve sermaye birikimine sahip olanlar kendi küçük ölçekli dokuma atölyelerini kurabilir."
+ },
+ "benzer_meslekler": [
+  "Jakar Tezgahı Tertipleyicisi",
+  "Çözgü Takıcı (Dokuma Tezgahı)",
+  "Dokuma Makineleri Operatörü ve Ayarcısı",
+  "Sarma Makinesi Ayarcısı",
+  "Kart Makinesi Ayarcısı",
+  "Lamel Dizicisi (Dokuma Tezgahı)"
+ ],
+ "ek_bilgiler": "Bu meslek, dokuma makineleri operatörlüğü gibi ilgili mesleklerde edinilen deneyim üzerine gelişen teknik bir ara kademe meslektir; işletmedeki tezgah çeşitliliği arttıkça tezgah tertipleyicinin bilgi ve deneyim ihtiyacı da artmaktadır.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T13:46:41",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5135
+  }
+ }
+}

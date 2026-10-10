@@ -1,0 +1,81 @@
+{
+ "gorevler": [
+  "Makinenin gerekli kimyasal ihtiyacını belirler.",
+  "Ram makinesinin hava, su ve gaz hattını açarak makineyi ısıtır.",
+  "Yaş açma bölümünden aldığı kumaşı makineye takarak sudan geçirir.",
+  "İstenilen ölçüye göre kumaşı açar.",
+  "Kumaşın cinsi ve kalitesine göre makinenin ısısını ve hızını ayarlar, yeterli miktarda kimyasal verir.",
+  "En, boy ve beslemesini ayarlayarak kumaşı Ram makinesinden geçirir, apre ve ön tutumunu (tuşesini) yapar.",
+  "Ramdan geçen kumaşın rengini, tutumunu, enini, gramajını, atkı düzgünlüğünü vb. kontrol eder.",
+  "İşlemi biten kumaşı metre ve baskı bölümüne verir.",
+  "Kullanılan makine, araç ve gereçlerin bakım ve temizliğini yapar.",
+  "Ram makinesinin genel temizliğini yapar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "arac_gerec": [
+  "Ram (Ramöz) makinesi",
+  "Kumaş germe-açma zincirleri ve iğne/klips sistemi",
+  "Kontrol paneli ve ısı-hız ayar düzeneği",
+  "Kimyasal dozajlama ve ölçüm kapları",
+  "Hassas terazi",
+  "Buhar, su ve gaz hattı vanaları",
+  "Numune alma aparatı",
+  "Metre, cetvel",
+  "Gramaj ölçüm cihazı",
+  "Renk kontrol aparatları",
+  "Kumaş sarma/rulo yapma ekipmanı",
+  "Taşıma arabası, transpalet",
+  "Kişisel koruyucu donanım (eldiven, önlük, maske, gözlük, kulaklık)"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve tedbirli,",
+  "El-göz koordinasyonu gelişmiş,",
+  "Renkleri ve dokuyu ayırt edebilen,",
+  "Fiziksel olarak dayanıklı,",
+  "Sorumluluk sahibi ve işini düzenli yürütebilen,",
+  "Ekip çalışmasına uygun,",
+  "Teknik konulara ilgili,",
+  "Vardiyalı çalışmaya uygun"
+ ],
+ "calisma_ortami": "Ram Makinesi Operatörü, kapalı mekânda, tekstil terbiye (apre) işletmelerinin üretim bölümünde çalışır. Çalışma ortamı, makinenin ısıtma ve buharlama işlemleri nedeniyle sıcak ve nemlidir; kullanılan kimyasal maddelerden kaynaklanan koku, buhar, gürültü ve titreşim görülebilir. Zeminin ıslak ve kaygan olabilmesi, sıcak yüzeyler ve kimyasal maddelerle temas gibi riskler nedeniyle kişisel koruyucu donanım kullanımı önemlidir.\n\nÇalışma genellikle ayakta ve vardiya düzeninde (gündüz/gece) sürdürülür. Meslek elemanı, çalıştığı işletmede ustabaşı, diğer makine operatörleri, kalite kontrol personeli ve bakım elemanlarıyla sürekli iletişim içindedir.",
+ "egitim": {
+  "verildigi_yerler": "Bu mesleğin eğitimi, yeterli talep olması durumunda mesleki eğitim merkezlerinin Tekstil Teknolojisi alanı kapsamında verilebilmektedir. Bunun yanında Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kurslarında da bilgi ve beceri kazandırılabilmekte, meslek büyük ölçüde işyerlerinde deneyimli bir operatör veya ustabaşı gözetiminde işbaşında öğrenilmektedir.",
+  "giris_kosullari": [
+   "En az ilkokul/ilköğretim mezunu olmak",
+   "Mesleki eğitim merkezi yoluyla çıraklık eğitimine başlamak isteyenler için en az ortaokul mezunu ve 14 yaşını doldurmuş olmak, eğitim görülecek işyeri ile çıraklık sözleşmesi imzalamak",
+   "Renkleri ve dokuyu ayırt edebilecek sağlık durumuna, sıcak ve nemli ortamda çalışmaya uygun fiziksel yapıya sahip olmak"
+  ],
+  "sure_ve_icerik": "Mesleki eğitim merkezi yoluyla eğitim alınması durumunda süre ilköğretim sonrası 4 yıl olup bunun 3 yılı kalfalık, 1 yılı ustalık eğitimidir; eğitim haftada 1 gün merkezde, kalan günler işyerinde uygulamalı olarak yürütülür. Meslek ayrıca kısa süreli kurslar ve işyerinde usta yanında pratik eğitim yoluyla da kazanılabilmektedir; bu süreçte kumaş özellikleri, kimyasal kullanımı, makine ayarları ve kalite kontrol konularında bilgi ve beceri edinilir.",
+  "belge": "Mesleki eğitim merkezinden mezun olanlara kalfalık ve ustalık belgesi, kurs yoluyla eğitim alanlara kurs bitirme belgesi verilir. İşyerinde yetişen meslek elemanlarına deneyimlerini gösteren işveren belgesi düzenlenebilir. Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Ram Makinesi Operatörü (Tekstil); dokuma ve örme kumaş üreten tekstil fabrikalarında, tekstil terbiye (apre, boya-baskı) işletmelerinde ve entegre tekstil tesislerinin bitim işlemleri bölümlerinde istihdam edilebilir. Tekstil sektörünün üretim merkezi olan illerde iş bulma olanağı daha fazladır; sektördeki üretim hacmine bağlı olarak talep değişkenlik gösterebilir.",
+ "kazanc": {
+  "egitim_suresince": "Çıraklık eğitimi kapsamında mesleki eğitim merkezinde eğitim görenlere, 3308 sayılı Mesleki Eğitim Kanunu gereğince asgari ücretin belirli bir oranında ücret ödenir ve iş kazası-meslek hastalığı sigortası devletçe karşılanır. Kurs veya işbaşı eğitim yoluyla yetişenler ise genellikle çalıştıkları işletmede diğer personelle aynı koşullarda ücretlendirilir.",
+  "egitim_sonrasi": [
+   "İşe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Deneyim, performans, işletmenin büyüklüğü ve çalışılan sektöre göre ücret artabilir.",
+   "Özel sektörde çalışıldığından ücret işveren ile karşılıklı anlaşmaya göre belirlenir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleki eğitim merkezinden diploma alanlar, ilgili alanın devamı niteliğindeki yükseköğretim programlarını tercih ettiklerinde sınavda ek puandan yararlanabilir ve başarılı oldukları takdirde tekstil teknolojisi ile ilgili ön lisans/lisans programlarına yerleşebilirler. Ayrıca çeşitli kurs ve eğitimlere katılarak mesleki bilgi ve becerilerini geliştirebilirler.",
+  "is_hayatinda": "Deneyim kazanan Ram Makinesi Operatörleri, vardiya sorumluluğu, bölüm şefliği veya atölye şefliği gibi görevlere yükselebilir. Yeterli bilgi birikimi ve sermayeye sahip olanlar kendi işletmelerini kurabilir."
+ },
+ "benzer_meslekler": [
+  "Ram Makinesi Operatörü Yardımcısı (Ram Arkacı)",
+  "Tekstil Terbiye İşçisi (Apre)",
+  "Kurutma-Apre Makinesi Operatörü",
+  "Fiksaj İşçisi",
+  "Yaş Kumaş Açma Makinesi Operatörü",
+  "Boyama Makinesi Operatörü-Tekstil"
+ ],
+ "ek_bilgiler": "Çalışma ortamındaki ısı, buhar ve kimyasal maddeler nedeniyle bu meslek, iş sağlığı ve güvenliği açısından riskli işler kapsamında değerlendirilebilir; bu nedenle periyodik sağlık muayeneleri ve kişisel koruyucu donanım kullanımına özen gösterilmesi önemlidir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T14:34:25",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 7057
+  }
+ }
+}

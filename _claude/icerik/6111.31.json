@@ -1,0 +1,79 @@
+{
+ "arac_gerec": [
+  "Traktör ve toprak işleme ekipmanları (pulluk, diskaro, tırmık)",
+  "Kültivatör ve çapalama aletleri",
+  "Dikim/ekim makinesi veya elle dikim aletleri",
+  "Sulama sistemleri (damla sulama ekipmanları)",
+  "Gübre dağıtıcısı",
+  "Kimyasal ve organik gübreler",
+  "Tarım ilaçları (fungisit, herbisit, insektisit)",
+  "İlaçlama makinesi (pülverizatör)",
+  "Sarımsak söküm/hasat makinesi",
+  "Kurutma ve depolama ekipmanları",
+  "Sarımsak diş ayırma ve ayıklama aletleri",
+  "Ölçüm ve kontrol aletleri (nem, sıcaklık ölçer vb.)",
+  "Kişisel koruyucu donanım (eldiven, maske, çizme)"
+ ],
+ "genel_ozellikler": [
+  "Toprağı ve bitkiyi seven, üretime ilgi duyan,",
+  "Açık havada çalışmaktan hoşlanan,",
+  "Fiziksel olarak dayanıklı ve bedensel güce sahip,",
+  "Dikkatli ve sabırlı,",
+  "Gözlem yeteneği gelişmiş,",
+  "Mevsimsel çalışma temposuna uyum sağlayabilen,",
+  "El becerisine sahip,",
+  "Ekip çalışmasına yatkın"
+ ],
+ "calisma_ortami": "\"Sarımsak Yetiştiricisi, çalışmalarını büyük ölçüde açık tarım arazilerinde, mevsim ve hava koşullarına bağlı olarak yürütür. Toprak hazırlığı, dikim, gübreleme, çapalama, ilaçlama ve hasat gibi işlemler sırasında eğilerek, çömelerek veya ayakta uzun süre çalışmak gerekebilir; bu nedenle fiziksel güç ve dayanıklılık önemlidir. Hasat sonrası kurutma, ayıklama ve depolama işlemleri kapalı mekânlarda (depo, kurutma tesisi) sürdürülebilir.\\n\\nMeslek elemanı çalışmaları sırasında tarım ilaçları ve gübrelerle temas edebileceğinden iş güvenliği kurallarına ve koruyucu ekipman kullanımına dikkat etmesi gerekir. Çalışma saatleri, ekim ve hasat dönemlerinde yoğunlaşan, mevsimsel değişkenlik gösteren bir yapıdadır. Görevini yerine getirirken diğer tarım işçileri, çiftçiler, tarım teknisyenleri ve ziraat mühendisleriyle iş birliği içinde çalışır.\"",
+ "egitim": {
+  "verildigi_yerler": "Sarımsak yetiştiriciliğine özgü, örgün eğitim sisteminde ayrı bir meslek lisesi dalı veya çıraklık/kalfalık programı bulunmamaktadır. Mesleğe ilişkin bilgi ve beceriler genellikle ailede veya işletmede usta-çırak ilişkisi içinde uygulamalı olarak kazanılır; ayrıca Tarım ve Orman Bakanlığı il/ilçe müdürlüklerinin tarımsal yayım hizmetlerinden, Halk Eğitim Merkezleri ile İŞKUR'un açtığı kısa süreli tarımsal üretim kurslarından yararlanılabilir. Tarım meslek liselerinde bitkisel üretim ve bahçe bitkileri alanında alınan genel eğitim de bu mesleğe temel oluşturabilir. Konuyla ilgili ön lisans/lisans düzeyinde eğitim almak isteyenler tarım/bitkisel üretim ve teknolojileri, bahçe bitkileri veya ziraat mühendisliği bölümlerini tercih edebilir.",
+  "giris_kosullari": [
+   "Mesleğe örgün eğitim yoluyla girişte resmî bir koşul bulunmamaktadır",
+   "Halk Eğitim Merkezi ve İŞKUR kurslarına katılım için genellikle okuryazar olmak ve kursun belirlediği yaş şartlarını taşımak yeterlidir",
+   "İlgili lisans/ön lisans programlarına girmek isteyenlerin YKS sınavında yeterli puanı almaları gerekir"
+  ],
+  "sure_ve_icerik": "Mesleğe özgü standart ve zorunlu bir eğitim süresi bulunmamaktadır. Bilgi ve beceriler genellikle işbaşında, mevsimlik üretim süreçleri içinde deneyimle kazanılır. Kurum ve kuruluşlarca açılan kısa süreli kurslarda toprak hazırlığı, dikim, gübreleme, hastalık ve zararlılarla mücadele, hasat ve depolama konularında teorik ve uygulamalı bilgiler verilir.",
+  "belge": "Halk Eğitim Merkezi ve İŞKUR kurslarını tamamlayanlara kurs bitirme/katılım belgesi verilir. Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "\"Sarımsak Yetiştiricisi, kendi tarım işletmesinde üretici olarak çalışabileceği gibi, büyük tarım işletmelerinde, tarımsal üretici birlikleri ve kooperatiflerde, sarımsak üretimi yapan şirketlerde işçi veya usta olarak da istihdam edilebilir. Tarım il/ilçe müdürlüklerinin yürüttüğü destekleme ve yayım programlarından teknik destek alarak üretimini geliştirebilir. Tohumluk, gübre ve zirai ilaç bayilerinde, sebze hal ve pazarlama kuruluşlarında da bu alanla ilgili bilgi ve deneyim gerektiren görevlerde çalışma imkânı bulunmaktadır. Türkiye'de sarımsak üretiminin yoğun olduğu bölgelerde iş bulma olanakları daha fazladır.\"",
+ "kazanc": {
+  "egitim_suresince": "Mesleğe özgü örgün bir çıraklık eğitimi ve buna bağlı yasal ücret düzenlemesi bulunmadığından, eğitim süresince standart bir kazançtan söz etmek mümkün değildir. Kısa süreli kurslara katılanlar genellikle ücretsiz eğitim alır; işletmede çalışarak öğrenenler ise işveren ile yaptıkları anlaşmaya göre gündelik veya mevsimlik ücret elde edebilir.",
+  "egitim_sonrasi": [
+   "Başlangıçta, işletmede işçi olarak çalışanlar genellikle asgari ücret düzeyinde bir kazanç elde eder.",
+   "Kazanç; çalışılan işletmenin büyüklüğüne, kişinin deneyimine, üretim miktarına ve ürün fiyatlarındaki dalgalanmaya göre değişebilir.",
+   "Kendi işletmesinde üretim yapanların kazancı, ekim alanı, verim ve sarımsak satış fiyatlarına bağlı olarak değişkenlik gösterir.",
+   "Kamu kurumlarında teknik destek personeli olarak çalışanlar, tabi oldukları mevzuata (657 sayılı Kanun veya ilgili statü) göre maaş alır."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Örgün mesleki eğitimde bu mesleğe özgü ayrı bir ilerleme basamağı (kalfalık-ustalık) bulunmamaktadır. Tarım meslek lisesi mezunları veya bu alana ilgi duyanlar, YKS sınavında başarılı oldukları takdirde bitkisel üretim ve teknolojileri, bahçe bitkileri, tarla bitkileri veya ziraat mühendisliği gibi ön lisans/lisans programlarına yönelerek bilgi ve becerilerini ilerletebilirler. Ayrıca kamu kurumları ve İŞKUR tarafından açılan tarımsal eğitim kurslarına katılarak mesleki bilgi güncellenebilir.",
+  "is_hayatinda": "Deneyim kazanan meslek elemanları kendi işletmelerini büyütebilir, üretim alanını genişletebilir veya üretici birliği/kooperatif yöneticiliğine geçebilir. Ürün kalitesini ve verimi artırarak doğrudan pazarlama, ihracat veya katma değerli ürün (kurutulmuş sarımsak, toz sarımsak vb.) üretimine yönelebilir. Teknik bilgisini geliştirenler, tarımsal danışmanlık veya eğitmenlik gibi görevlere de geçebilir."
+ },
+ "benzer_meslekler": [
+  "Soğan Yetiştiricisi",
+  "Pırasa Yetiştiricisi",
+  "Sebze Yetiştiricisi",
+  "Zambakgil Sebzeler Yetiştiricisi",
+  "Organik Tarım Ürünler Üreticisi",
+  "Tarla Bitkileri Yetiştiricisi"
+ ],
+ "ek_bilgiler": "\"Türkiye'de sarımsak yetiştiriciliği belirli bölgelerde yoğunlaşmıştır; bazı yörelerde üretilen sarımsak, kendine özgü nitelikleriyle coğrafi işaret tescili alabilmektedir. Bu durum, bölgesel üretimde katma değeri ve pazarlama olanaklarını artırabilir. Üretim mevsimsel olduğundan, meslek elemanlarının yıl içinde farklı tarımsal faaliyetlerle de ilgilenmesi yaygın bir durumdur.\"",
+ "gorevler": [
+  "Üretim tekniklerini araştırır.",
+  "Ekim dikim yerlerini hazırlar.",
+  "Gübreleme yapar.",
+  "Kültürel işlemleri yapar.",
+  "Bitkilerde görülen zararlıları inceler.",
+  "Hastalık, zararlılar ve yabancı otlarla mücadele yapar.",
+  "Sarımsak yetiştirir.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T20:16:11",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5765
+  }
+ }
+}

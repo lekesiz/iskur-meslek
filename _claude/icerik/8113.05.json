@@ -1,0 +1,75 @@
+{
+ "arac_gerec": [
+  "Dinamometre cihazı ve dinamometre kalemi",
+  "Bağlama çeneleri",
+  "Sabitleştirme tablası",
+  "Kuyu durum kayıt kartları",
+  "Dinamometre tamburu",
+  "El avadanlıkları (anahtar takımı ve benzeri)",
+  "Pompa ayar ekipmanları",
+  "Nakil/taşıma aracı",
+  "Telsiz veya haberleşme cihazı",
+  "Kişisel koruyucu donanım (baret, koruyucu gözlük, eldiven, iş elbisesi, güvenlik ayakkabısı)"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve gözlem gücü yüksek,",
+  "El ve göz koordinasyonu iyi,",
+  "Teknik cihaz ve ekipman kullanmaya istekli,",
+  "Sorumluluk sahibi ve güvenilir,",
+  "Fiziksel olarak dayanıklı,",
+  "Açık hava ve saha koşullarında çalışmaya uygun,",
+  "Ekip çalışmasına yatkın,",
+  "İş güvenliği kurallarına uyan,"
+ ],
+ "calisma_ortami": "Dinamometre Operatörü, petrol üretim kuyularının bulunduğu açık arazi sahalarında görev yapar. Çalışma ortamı mevsim ve iklim koşullarına (sıcak, soğuk, yağış, toz) açıktır; kuyu başlarında, bazen gürültülü ve titreşimli ekipmanların yakınında, yağ ve çeşitli kimyasal maddelerle temas olasılığı bulunan koşullarda çalışır. İş genellikle ayakta, hareketli ve zaman zaman ağır cisimleri kaldırmayı gerektiren bir niteliktedir.\n\nÜretim sahasının genişliğine bağlı olarak kuyu kuyu dolaşarak çalışır; vardiyalı veya çağrı esasına göre çalışma söz konusu olabilir. Çalışma sırasında saha mühendisleri, teknisyenler, pompa bakım ekipleri ve değerlendirme merkezi personeli ile iş birliği içinde bulunur.",
+ "gorevler": [
+  "Teçhizatını, çalışmasında aksaklık görülen kuyuya getirir,",
+  "Dinamometre parçalarını bağlama çeneleri ile sabitleştirme tablasına bağlar,",
+  "Dinamometreyi parçaların üstüne koyar,",
+  "Kuyu durumunun işleneceği özel kartları dinamometrenin tamburuna yerleştirir ve dinamometre kalemini kart üzerine düşürür,",
+  "Dinamometre motorunu çalıştırarak kart üzerine kuyu durumunun işlenmesini sağlar,",
+  "İşlenen kartı tambur üzerinden alarak değerlendirme merkezine gönderir,",
+  "Merkezden gelen değerlere göre pompaların hareket ve ağırlık durumlarını el avadanlıklarını kullanarak istenilen şekilde ayarlar,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Dinamometre Operatörlüğü için örgün bir okul programı bulunmamaktadır. Meslek genellikle petrol üretim işletmelerinde işbaşında, deneyimli bir operatör veya usta gözetiminde uygulamalı olarak öğrenilir. İşletme içi oryantasyon ve iş güvenliği eğitimleri bu süreci tamamlar.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak.",
+   "İşin gerektirdiği fiziksel koşullara (açık hava, saha çalışması) uygun sağlık durumuna sahip olmak.",
+   "Teknik alet ve ekipman kullanımına ilgi duymak."
+  ],
+  "sure_ve_icerik": "Resmî olarak tanımlanmış, belirli süreli bir meslek eğitimi programı bulunmamaktadır. Kişi, işe alındıktan sonra işletmenin kendi uygulama ve iş başı eğitim süreçleri içinde, dinamometre cihazının bağlanması, çalıştırılması, kart değerlendirme ve pompa ayarlarının yapılması konularında deneyim kazanarak yetişir. Bu süreç işletmeden işletmeye farklılık gösterir.",
+  "belge": "İşletme tarafından verilen iş başı eğitim/katılım belgesi dışında, mesleğe özgü zorunlu bir diploma veya sertifika bulunmamaktadır. Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Dinamometre Operatörleri, petrol ve doğal gaz üretim kuyularının işletildiği kamu veya özel sektör petrol üretim şirketlerinde istihdam edilir. Çalışma alanları, ülkemizde petrol üretim faaliyetlerinin yoğunlaştığı bölgelerdeki üretim sahaları ve kuyu başlarıdır. İş bulma olanağı, petrol üretim havzalarının coğrafi dağılımına bağlı olarak sınırlı sayıda ildedir.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğin işletme içi işbaşı eğitim şeklinde kazanılması nedeniyle, eğitim süresince kazanç durumu çalışılan işletmenin uygulamasına göre değişir.",
+  "egitim_sonrasi": [
+   "Özel sektörde ücret, işveren ile çalışan arasındaki anlaşmaya, deneyime ve işletmenin büyüklüğüne göre değişir; yeni başlayanlar için genellikle asgari ücret düzeyinde olabilir.",
+   "Kamuya bağlı işletmelerde işçi statüsünde çalışanların ücretleri toplu iş sözleşmesi hükümlerine göre belirlenir.",
+   "Memur statüsünde istihdam söz konusu olduğunda 657 sayılı Devlet Memurları Kanunu hükümleri uygulanır."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğe özgü tanımlanmış bir eğitim kademesi veya ilerleme basamağı bulunmamaktadır.",
+  "is_hayatinda": "Mesleki tecrübe, bilgi birikimi ve yeteneklerine göre ekip başı, saha sorumlusu veya nezaretçi gibi daha üst sorumluluk pozisyonlarına yükselebilirler."
+ },
+ "benzer_meslekler": [
+  "Döner Sondaj Makinesi Operatörü-Petrol ve Doğal Gaz Kuyuları",
+  "Çimentolama, Asitleme ve Test Operatörü-Petrol ve Doğal Gaz Kuyuları",
+  "Kablolu Sondaj Makinesi Operatörü-Petrol ve Doğal Gaz Kuyuları",
+  "Log Operatörü-Petrol",
+  "Sondaj Operatörü/Sondör",
+  "Petrol Sondörü"
+ ],
+ "ek_bilgiler": "Dinamometre Operatörlüğü, ülkemizde petrol üretim faaliyetlerinin sınırlı sayıda bölgede yoğunlaşması nedeniyle coğrafi olarak dar bir istihdam alanına sahiptir. Mesleğe ilişkin örgün bir eğitim programı veya zorunlu MYK belgesi bulunmamaktadır; bu nedenle işe giriş ve ilerleme büyük ölçüde işletme içi deneyime bağlıdır.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T10:34:34",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 4923
+  }
+ }
+}

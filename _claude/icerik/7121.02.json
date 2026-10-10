@@ -1,0 +1,78 @@
+{
+ "arac_gerec": [
+  "Mop ve fırça",
+  "Sıcak katran kazanı/ocağı (brülör, propan tüpü)",
+  "Çatı kağıdı (ruberoid)",
+  "Stabilize malzeme (kum, çakıl vb.)",
+  "Tırmık",
+  "Sert süpürge",
+  "Kesme bıçağı/maket bıçağı",
+  "Çinko levha veya kalın katranlı kağıt",
+  "Metre ve işaretleme ekipmanı",
+  "Merdiven ve iskele",
+  "Emniyet kemeri ve halatı",
+  "Baret ve iş eldiveni",
+  "İş ayakkabısı (kaymaz tabanlı)",
+  "Mala/spatula"
+ ],
+ "genel_ozellikler": [
+  "Fiziksel olarak güçlü ve dayanıklı,",
+  "Yükseklikte çalışmaktan çekinmeyen,",
+  "Dikkatli ve tedbirli,",
+  "El becerisine sahip,",
+  "Denge duyusu gelişmiş,",
+  "Sıcak katran kokusuna ve dış ortam koşullarına karşı dayanıklı,",
+  "Takım halinde uyumlu çalışabilen,"
+ ],
+ "calisma_ortami": "Asfalt çatı işçisi büyük ölçüde açık havada, binaların çatılarında, yani yükseklikte çalışır. İş genellikle eğilerek, çömelerek veya ayakta yürütülür; sıcak katran kullanımı nedeniyle yüksek ısı, duman ve kötü koku ile karşı karşıya kalınır. Düşme, yanma ve kayma gibi iş kazası riskleri bulunduğundan emniyet kemeri, baret ve kaymaz ayakkabı gibi kişisel koruyucu donanımların kullanılması önemlidir. Çalışma hava koşullarına bağlıdır; yağmurlu, karlı veya aşırı sıcak günlerde çalışma güçleşebilir ya da durdurulabilir, bu nedenle iş genellikle mevsimsel yoğunluk gösterir.\n\nÇalışma saatleri genellikle gündüz vaktidir ve işin teslim süresine göre uzayabilir. Meslek elemanı; usta başı, diğer çatı işçileri, inşaat ustaları ve işveren/müteahhit ile sürekli iletişim halindedir.",
+ "egitim": {
+  "verildigi_yerler": "Asfalt çatı işçiliği için örgün eğitim veren ayrı bir okul dalı bulunmamaktadır. Meslek genellikle işbaşında, usta yanında çalışarak veya Halk Eğitim Merkezleri ile İŞKUR'un açtığı mesleki eğitim kurslarında öğrenilir. İsteyenler, mesleki eğitim merkezlerinin inşaat teknolojisi alanı kapsamındaki çatı kaplama ve yalıtım ile ilgili dal/modüllere yönelerek bilgi ve becerilerini belgelendirebilir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "Yükseklikte çalışmaya engel bir sağlık sorununun bulunmaması",
+   "Fiziksel olarak dayanıklı olmak",
+   "Mesleki eğitim merkezi/çıraklık eğitimine girmek isteyenler için ilgili yaş ve işyeri bulma şartlarını sağlamak"
+  ],
+  "sure_ve_icerik": "Resmî olarak belirlenmiş sabit bir eğitim süresi bulunmamaktadır. Usta yanında işbaşında öğrenme süresi kişinin öğrenme hızına ve işin karmaşıklığına göre değişmekle birlikte genellikle birkaç ay ile bir yıl arasında sürer. Eğitim içeriğinde katranın ısıtılması ve güvenli kullanımı, çatı kağıdının serilmesi ve yapıştırılması, kesim ve detay uygulamaları, stabilize malzeme uygulaması ile iş sağlığı ve güvenliği kuralları yer alır. İş sağlığı ve güvenliği mevzuatı gereği yüksekte çalışma ile ilgili temel eğitimlerin alınması gerekir.",
+  "belge": "Mesleki eğitim merkezi veya kurs programını tamamlayanlara kurs bitirme/katılım belgesi verilir; mesleki eğitim merkezinde kayıtlı eğitim alanlara kalfalık/ustalık belgesi verilebilir. Mesleki Yeterlilik Kurumu (MYK) Çatı Kaplamacısı/Çatı İşçisi yeterlilik belgesi, istihdamda tercih sebebi olabilir ve yüksekte çalışma riski taşıyan bu işte iş güvenliği açısından önem taşır."
+ },
+ "calisma_alanlari": "Asfalt çatı işçileri; inşaat firmaları, çatı kaplama ve yalıtım işleri yapan taahhüt şirketleri, belediyelerin yapı bakım birimleri ile sanayi tesislerinin çatı bakım ve onarım işlerinde çalışabilirler. Ayrıca deneyim kazandıktan sonra bağımsız usta olarak küçük ölçekli çatı onarım ve kaplama işlerini üstlenebilirler. İş olanakları büyük ölçüde inşaat sektörünün durumuna ve mevsimsel koşullara bağlıdır; kış aylarında iş hacmi azalabilir.",
+ "kazanc": {
+  "egitim_suresince": "Mesleki eğitim merkezi kapsamında çıraklık eğitimi alanlara 3308 sayılı Mesleki Eğitim Kanunu gereğince asgari ücretin belirli bir oranında ücret ödenir. İşbaşında usta yanında yetişenler ise genellikle asgari ücret düzeyinde bir kazanç elde eder.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Deneyim ve beceri kazandıkça, yapılan işin hacmine ve anlaşma şekline (günlük, parça başı veya iş bazlı) göre kazanç artabilir.",
+   "Bağımsız çalışan veya kendi ekibini yöneten ustaların kazancı, aldıkları iş miktarına ve mevsimsel talebe göre değişkenlik gösterir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğin örgün eğitimde doğrudan bir ilerleme basamağı bulunmamaktadır. İsteyenler, inşaat teknolojisi alanındaki ilgili mesleki eğitim merkezi programlarına katılarak veya kurslara devam ederek bilgi ve becerilerini geliştirip belgelendirebilirler.",
+  "is_hayatinda": "Deneyim kazanan işçiler usta, ekip lideri veya formen konumuna yükselebilir. Yeterli deneyim ve sermaye biriktirenler kendi ekiplerini kurarak bağımsız olarak taahhüt işleri alabilir."
+ },
+ "benzer_meslekler": [
+  "Arduvaz ve Kiremit Çatı İşçisi",
+  "Diğer Çatı İşçileri",
+  "Metal Çatı İşçisi",
+  "Sentetik Madde Çatı İşçisi",
+  "Panel Çatı Kaplamacısı",
+  "Örtü Tipi Çatı Kaplamacısı"
+ ],
+ "ek_bilgiler": "Bu meslekte yükseklikte çalışma ve sıcak katran kullanımı nedeniyle iş kazası riski yüksektir; bu nedenle iş sağlığı ve güvenliği kurallarına, kişisel koruyucu donanım kullanımına ve yüksekte çalışma eğitimlerine uyulması büyük önem taşır. Çalışma, hava koşullarına bağlı olarak mevsimsel yoğunluk gösterebilir.",
+ "gorevler": [
+  "Çatı kaplaması üzerine mop, fırça veya başka bir araçla sıcak katran sürer.",
+  "Bunun üzerine bütün çatıyı kaplayacak ve kenarları birbiri üzerine binecek tarzda çatı kağıdı serer ve yapıştırır.",
+  "Çatı kağıtlarını çatı köşelerine veya borular, bacalar yahut diğer kısımlar etrafına uyacak şekilde keser.",
+  "Tayin edilmiş kaplama kalınlığına göre çatıya bir kat katran ve bir kat kağıt olmak üzere kat kat kaplar.",
+  "Çatı yüzü ile duvarlar arasındaki açıya uyacak şekilde çinko veya kalın katranlı kağıt keser ve bunları yerlerine serer.",
+  "Son kat üzerine kalınca bir kat sıcak katran döker ve üzerine tırmık veya sert bir süpürge ile stabilize malzemesi yayar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T22:58:18",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6022
+  }
+ }
+}

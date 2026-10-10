@@ -1,0 +1,85 @@
+{
+ "arac_gerec": [
+  "Kontrol odası kumanda panelleri ve otomasyon/SCADA sistemleri",
+  "Bilgisayar ve izleme ekranları",
+  "Sıcaklık, basınç ve gaz ölçüm/algılama cihazları",
+  "Şarj ve vinç kumanda sistemleri",
+  "Döküm açma-kapama ekipmanları",
+  "Haberleşme cihazları (telsiz, interkom, telefon)",
+  "Alarm ve uyarı sistemleri",
+  "Numune alma ekipmanları",
+  "Temel bakım el aletleri",
+  "Kişisel koruyucu donanım (baret, koruyucu gözlük/yüz siperi, ısıya dayanıklı iş elbisesi, çelik burunlu ayakkabı, eldiven, kulaklık, gaz maskesi)"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve tedbirli,",
+  "Sorumluluk duygusu yüksek,",
+  "Hızlı ve doğru karar verebilen,",
+  "Acil durumlarda soğukkanlı kalabilen,",
+  "Takım çalışmasına uygun,",
+  "Fiziksel ve zihinsel olarak dayanıklı,",
+  "Teknik konulara ve sayısal işlemlere ilgili,",
+  "İş sağlığı ve güvenliği kurallarına duyarlı,"
+ ],
+ "calisma_ortami": "Yüksek fırın kumanda operatörleri, demir-çelik üretim tesislerinde hem kapalı kontrol odalarında hem de fırın sahasında çalışır. Kontrol odasında süreç ekranlar üzerinden izlenirken, saha çalışmalarında yüksek ısı, gürültü, toz, zehirli gaz (karbon monoksit) ve yanma/patlama riskleriyle karşılaşılabilir. Üretimin kesintisiz sürdürülmesi nedeniyle vardiyalı (gece-gündüz) çalışma düzeni yaygındır.\n\nÇalışma sırasında mühendisler, vardiya amirleri, vinç operatörleri, bakım-onarım ekipleri ve diğer vardiya personeli ile sürekli iletişim ve koordinasyon gerektirir. Kişisel koruyucu donanım kullanımı ve iş güvenliği kurallarına titizlikle uyulması zorunludur.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin bağımsız bir ortaöğretim alan/dalı olarak resmî bir eğitim programı bulunmamaktadır. Metal teknolojisi, metalurji ve malzeme mühendisliği gibi ilgili mesleki ve teknik ortaöğretim programlarından veya meslek yüksekokullarının metalurji/demir-çelik teknolojisi gibi ilgili önlisans programlarından mezun olanlar, demir-çelik işletmelerinde işbaşında usta yanında eğitim ve kurum içi eğitim programlarıyla bu mesleğe yönelebilmektedir.",
+  "giris_kosullari": [
+   "Ortaöğretimi (lise ve dengi) tamamlamış olmak",
+   "İlgili mesleki ve teknik lise veya önlisans programlarının giriş koşullarını taşımak",
+   "Fiziksel ve sağlık açısından ağır sanayi koşullarında çalışmaya uygun olmak"
+  ],
+  "sure_ve_icerik": "Mesleğe özgü, standart süreli ayrı bir yetiştirme programı tanımlanmamıştır. İlgili teknik lise programları genellikle 4 yıl, önlisans programları 2 yıl sürmektedir. Bu eğitimlerin ardından işletmeler, personelini fırın işletme esasları, otomasyon sistemleri, iş sağlığı ve güvenliği konularında uzun süreli işbaşı/usta yanı eğitim ve kurum içi kurslarla mesleğe hazırlar.",
+  "belge": "Mesleki ve teknik ortaöğretim kurumlarından diploma veya meslek yüksekokullarından önlisans diploması; işletme bünyesinde düzenlenen eğitim sertifikaları. Mesleki Yeterlilik Kurumu (MYK) Mesleki Yeterlilik Belgesi düzenlenmiş olması hâlinde istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Yüksek fırın kumanda operatörleri, entegre demir-çelik üretim tesislerinin yüksek fırın işletme birimlerinde istihdam edilir. Bu tesisler genellikle büyük ölçekli kamu veya özel sektör demir-çelik fabrikalarıdır. Sektördeki istihdam olanakları, ülkemizde sınırlı sayıda bulunan büyük ölçekli entegre tesislerin üretim kapasitesi ve yatırım planlarına bağlı olarak değişmektedir.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğe yönelik örgün bir çıraklık eğitimi sürecinde 3308 sayılı Mesleki Eğitim Kanunu kapsamında işletmelerde eğitim gören öğrencilere asgari ücretin belirli bir oranında ücret ödenebilir. İşletme içi işbaşı eğitim/stajyerlik döneminde ise genellikle işletmenin belirlediği eğitim ücreti ödenir.",
+  "egitim_sonrasi": [
+   "İşe yeni başlayanlar genellikle asgari ücret düzeyinde bir ücretle çalışmaya başlar.",
+   "Deneyim, kıdem, işletmenin büyüklüğü ve vardiya/risk tazminatlarına bağlı olarak kazanç artabilir.",
+   "Kamu sektöründeki işletmelerde 657 sayılı Devlet Memurları Kanunu veya ilgili toplu iş sözleşmesi hükümleri, özel sektörde ise işveren ile yapılan anlaşma esas alınır."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğin resmî bir ortaöğretim sonrası doğrudan ilerleme basamağı tanımlanmamıştır. İlgili teknik lise mezunları metalurji ve malzeme mühendisliği, maden mühendisliği gibi yükseköğretim programlarına sınavla girebilir; önlisans mezunları dikey geçiş sınavıyla ilgili lisans programlarına geçiş yapabilir.",
+  "is_hayatinda": "Deneyim ve performansa bağlı olarak vardiya amirliği, fırın şefliği, işletme şefliği gibi kademelere yükselinebilir. İlgili mühendislik eğitimini tamamlayanlar üretim mühendisliği veya işletme müdürlüğü gibi üst düzey görevlere ilerleyebilir."
+ },
+ "benzer_meslekler": [
+  "Konverter Operatör Sorumlusu",
+  "Konverter Operatörü",
+  "İzabeci",
+  "Yüksek Fırın Miksercisi (Cevher Ergitme)",
+  "Yüksek Fırın Hammadde Hazırlamacısı",
+  "Ark Ocağı Operatörü",
+  "Sürekli Döküm Ustası"
+ ],
+ "ek_bilgiler": "Yüksek fırın işletmeciliği; yüksek sıcaklık, zehirli gaz ve yanma riskleri nedeniyle dikkat ve iş güvenliği önlemlerinin üst düzeyde uygulanmasını gerektiren bir çalışma alanıdır. Bu nedenle düzenli sağlık kontrolleri ve periyodik iş güvenliği eğitimleri önem taşımaktadır.",
+ "gorevler": [
+  "İş sağlığı ve güvenliği, yangın ve acil durum kurallarını uygular.",
+  "Kalite yönetim sistemi dokümanlarına uygun çalışır.",
+  "İş organizasyonu yapar.",
+  "Çalıştığı alanı düzenler.",
+  "Çalışma alet ve donanımının koruyucu ve talimatlı bakımlarını sağlar.",
+  "Döküm işlemlerinin yapılmasını sağlar.",
+  "Döküm açma-kapama işlemlerini yapar.",
+  "Yüksek fırın sobalarının işletmede tutulmasını sağlar.",
+  "Yüksek fırın sobalarını ısıtır.",
+  "Sobayı fırın devresine alır.",
+  "Şarj sisteminin işletilmesini sağlar.",
+  "Şarjı fırına alır.",
+  "Şarjı durdurur.",
+  "Yüksek fırını işletir.",
+  "Yüksek fırını durdurur.",
+  "Yüksek fırını çalıştırır.",
+  "Mesleki gelişim faaliyetlerini yürütür."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T11:15:46",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6167
+  }
+ }
+}

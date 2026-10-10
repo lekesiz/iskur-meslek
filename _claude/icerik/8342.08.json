@@ -1,0 +1,85 @@
+{
+ "arac_gerec": [
+  "Elektrikli ekskavatör (kepçeli/dragline tipi ağır hafriyat makinesi)",
+  "Enerji besleme kablosu ve kablo makarası/tamburu",
+  "Kumanda kolları, pedallar ve kontrol/gösterge panelleri",
+  "Hoist (kaldırma) ve drag (çekme) tertibatı",
+  "Elektrik bağlantı ve trafo irtibat ekipmanları",
+  "Baret, iş eldiveni, iş ayakkabısı, toz gözlüğü, kulak koruyucu gibi kişisel koruyucu donanım",
+  "Telsiz veya diğer haberleşme cihazları",
+  "Temel el aletleri (anahtar takımı, tornavida, yağdanlık vb.)",
+  "Yağlama ve bakım malzemeleri",
+  "Aydınlatma, sinyal ve uyarı ekipmanları",
+  "Yangın söndürme cihazı"
+ ],
+ "genel_ozellikler": [
+  "Elleri, gözleri ve ayaklarını eşgüdümle kullanabilen,",
+  "Mekanik ve elektrik sistemlerine ilgi duyan,",
+  "Dikkatli, sorumlu ve tedbirli,",
+  "Çevresindeki uyarı ve işaretleri hızlı algılayıp değerlendirebilen,",
+  "Fiziksel olarak dayanıklı,",
+  "İş güvenliği kurallarına duyarlı,",
+  "Ekip çalışmasına yatkın ve talimatlara uyan,",
+  "Kapalı kabin içinde uzun süre dikkatini koruyabilen"
+ ],
+ "calisma_ortami": "Elektrikli Ekskavatör Operatörü, genellikle açık ocak maden sahaları veya büyük hafriyat alanlarında, makinenin kapalı kabini içinde çalışır. Çalışma ortamı tozlu, gürültülü olup mevsim koşullarına (sıcak, soğuk, yağış) açıktır. Makinenin sabit bir enerji kablosuyla beslenmesi nedeniyle kablo yönetimi ve elektrik güvenliğine özel önem gösterilmesi gerekir. Çalışma genellikle vardiyalar hâlinde, kesintisiz üretim yapılan işletmelerde gece-gündüz sürdürülebilir.\n\nOturarak ve kabin içinden çalışan operatör, iş öncesinde ve sonrasında saha şefi, vardiya sorumlusu, elektrik/makine bakım teknisyenleri, diğer operatörler ve kamyon şoförleriyle iletişim halindedir. Dikkatsizlik hâlinde makine arızalarına, elektrik kaynaklı kazalara veya iş kazalarına yol açabilecek riskli bir çalışma ortamıdır.",
+ "gorevler": [
+  "Çalışma zeminini kontrol eder,",
+  "Çalışma zemininin tesviyesinin yapılmasını sağlar,",
+  "Ekskavatörün genel kontrolünü yapar,",
+  "Kepçeyi kaldırır,",
+  "Makinenin dönüş, yürüyüş ve fren sistemlerini kontrol eder,",
+  "Hoist (kaldırma) ve drag (çekme-sürüme) sistemlerini kontrol eder,",
+  "Makineyi aynaya yaklaştırır,",
+  "Aynayı tarar,",
+  "Araçların kepçe mesafesine yaklaşmasını sağlar,",
+  "Kepçeyi malzeme ile doldurur,",
+  "Malzemeyi araçlara yükler,",
+  "Makinenin çalışma konumunu değiştirir,",
+  "Çalışma alanının temizlenmesini sağlar,",
+  "Çalışma bitiminde aracı park eder,",
+  "Operatör kabininin temizlenmesini sağlar,",
+  "Dragline makine ile malzeme nakli yapar,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Mesleğe özgü resmi olarak tanımlanmış, standart bir örgün meslek eğitim programı bulunmamaktadır. Operatörlük bilgi ve becerisi genellikle iş makineleri operatörlüğüne yönelik özel kurslarda, Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kurslarında, ayrıca büyük maden ve hafriyat işletmelerinde deneyimli usta operatör yanında işbaşında eğitim yoluyla kazanılır.",
+  "giris_kosullari": [
+   "18 yaşını doldurmuş olmak",
+   "En az ilköğretim mezunu olmak",
+   "Operatörlük yapmasına engel olabilecek sağlık sorunu (işitme, görme, denge vb.) bulunmamak",
+   "Kurs veya işletmenin aradığı ek sürücü belgesi/sağlık raporu şartlarını taşımak"
+  ],
+  "sure_ve_icerik": "İş makineleri operatörlüğüne yönelik kurslarda iş sağlığı ve güvenliği, makine tanıma, temel elektrik ve mekanik sistem bilgisi, bakım esasları gibi teorik dersler ile ekskavatör kullanımı, kazı ve yükleme teknikleri gibi uygulamalı eğitimler verilir; eğitim süresi kurumdan kuruma değişebilir. Büyük işletmelerde işe yeni başlayanlar, belirli bir süre deneyimli bir operatörün gözetiminde işbaşı eğitimi alarak elektrikli ekskavatörün kendine özgü kullanım özelliklerini (kablo yönetimi, hoist-drag sistemleri vb.) öğrenir.",
+  "belge": "Eğitimi/kursu başarıyla tamamlayanlara \"Operatör Belgesi/Sertifikası\" verilir. İş makinesini karayoluna çıkarmak gerektiğinde ayrıca ilgili sürücü belgesine operatörlük sertifikasının işlenmesi gerekir."
+ },
+ "calisma_alanlari": "Elektrikli Ekskavatör Operatörleri başta açık ocak kömür ve maden işletmeleri olmak üzere, büyük ölçekli hafriyat ve taş ocağı şirketlerinde, kamuya ait maden ve enerji kuruluşlarında çalışır. Bu makineler yüksek kazı kapasitesi gerektiren büyük ölçekli sahalarda tercih edildiğinden, istihdam olanakları ağırlıklı olarak madencilik sektörünün faaliyet yoğunluğuna bağlıdır.",
+ "kazanc": {
+  "egitim_suresince": "Kurs veya işbaşı eğitim sürecinde genellikle bir kazanç söz konusu değildir; bazı işletmelerde eğitim alan kişiye sınırlı düzeyde bir ödeme yapılabilir.",
+  "egitim_sonrasi": [
+   "Kamu kuruluşlarında çalışanlar, statülerine göre 657 sayılı Devlet Memurları Kanunu veya toplu iş sözleşmesi hükümlerine tabi olarak ücret alır.",
+   "Özel sektörde işe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç elde eder; deneyim, çalışılan işletmenin büyüklüğü, vardiya ve saha koşulları ile sektörün ücret düzeyine göre kazanç artabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğe özgü resmi bir kademeli eğitim basamağı bulunmamaktadır; operatörler ek kurs ve sertifika programlarıyla farklı hafriyat makinesi türlerinde yetkinlik kazanabilir.",
+  "is_hayatinda": "Deneyim ve başarı gösteren operatörler baş operatör, vardiya sorumlusu veya makine parkı şefi gibi görevlere yükselebilir; ayrıca diğer hafriyat makinelerinin (ekskavatör, buldozer, greyder vb.) kullanımında uzmanlaşarak iş olanaklarını genişletebilirler."
+ },
+ "benzer_meslekler": [
+  "Döner Kepçeli Ekskavatör Operatörü",
+  "Ekskavatör (Kazıma ve Yükleme) Operatörü",
+  "Lastik Tekerlekli Ekskavatör Operatörü",
+  "Amfibi ve Tarak Ekskavatör Operatörü",
+  "Beko Loder (Kazıcı - Yükleyici) Operatörü",
+  "Diğer Hafriyat Makineleri ve İlgili Teçhizat Operatörleri"
+ ],
+ "ek_bilgiler": "Elektrikli ekskavatörler, genellikle büyük ölçekli açık ocak madenciliğinde kullanılan, sabit bir enerji kablosuyla beslenen ağır hafriyat makineleridir. Dizel ekskavatörlere göre daha yüksek kazı ve yükleme kapasitesine sahip olmakla birlikte, kablo yönetimi ve elektrik güvenliği konusunda ek bilgi ve dikkat gerektirir. Çalışma alanının çoğunlukla büyük maden işletmeleriyle sınırlı olması nedeniyle meslek, ekskavatör operatörlüğünün özel ve kısmen dar bir uzmanlık dalı olarak değerlendirilebilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T18:35:48",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6441
+  }
+ }
+}

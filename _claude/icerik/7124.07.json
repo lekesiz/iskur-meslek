@@ -1,0 +1,76 @@
+{
+ "arac_gerec": [
+  "Mala",
+  "Tesviye latası ve kılavuz lata",
+  "Süpürge",
+  "Kaplama kağıdı veya örtü malzemesi",
+  "Mastik/asfalt karışımı eritme-ısıtma kazanı",
+  "Taşıma kovası",
+  "Spatula",
+  "Metre ve su terazisi",
+  "Koruyucu eldiven",
+  "İş gözlüğü",
+  "Koruyucu tulum/iş elbisesi",
+  "Solunum maskesi",
+  "El arabası"
+ ],
+ "benzer_meslekler": [
+  "Yapı Yalıtımcısı",
+  "Su Yalıtımcısı",
+  "Zemin Kaplamacısı (Tezyinat Karoları)",
+  "Beton Parke ve Bordür Taşı Döşeme İşçisi",
+  "Parke Taşı ve Bordür Kaplamacı",
+  "Asfalt Çatı İşçisi"
+ ],
+ "genel_ozellikler": [
+  "El becerisine sahip,",
+  "El ve gözünü eşgüdümle kullanabilen,",
+  "Yaptığı işte dikkatli ve titiz,",
+  "Fiziksel olarak dayanıklı,",
+  "Sıcak malzeme ile çalışırken tedbirli ve iş güvenliği kurallarına uyan,",
+  "Yönergeleri izleyebilen,",
+  "Takım halinde çalışmaya uyumlu,"
+ ],
+ "calisma_ortami": "Zemin kaplamacısı (mastik karışımlı), genellikle açık havada şantiye ve inşaat alanlarında, bazen de kapalı mekânlarda (teras, bodrum, otopark vb.) çalışır. Çalışma sırasında ısıtılmış mastik/asfalt karışımı ile temas, sıcaklık, duman ve koku gibi etkenlerle karşılaşabilir; bu nedenle yanık ve solunum riskine karşı koruyucu ekipman kullanımı önem taşır. İş uzun süre ayakta durmayı, eğilerek çalışmayı ve bazen ağır malzeme taşımayı gerektirir.\n\nÇalışma saatleri genellikle şantiyenin iş programına bağlı olarak değişir, bazı dönemlerde hava koşulları veya iş teslim süresine göre uzayabilir. Çalışma sırasında usta işçiler, diğer inşaat işçileri, taşeron ve şantiye şefi ile iş birliği içinde hareket eder.",
+ "egitim": {
+  "verildigi_yerler": "Bu meslek için örgün bir mesleki ve teknik eğitim programı bulunmamaktadır. Meslek genellikle işbaşında usta yanında çalışarak öğrenilir. Halk Eğitim Merkezleri ve İŞKUR tarafından açılan mesleki eğitim kursları ile inşaat teknolojisi alanındaki yalıtım/zemin kaplama ile ilgili genel mesleki eğitim programları bu mesleğe temel oluşturabilir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "Ağır ve sıcak malzeme ile çalışmaya uygun fiziksel ve sağlık durumuna sahip olmak",
+   "Açılan kurslara katılmak isteyenler için kursu düzenleyen kurumun belirlediği genel kabul şartlarını taşımak"
+  ],
+  "sure_ve_icerik": "Mesleğe özgü standart bir çıraklık, kalfalık veya ustalık eğitim süresi bulunmamaktadır. Mesleki bilgi ve beceri, işbaşında usta yanında zaman içinde kazanılır. Açılabilecek kurslarda süre ve içerik kursu düzenleyen kuruma göre değişmekle birlikte genellikle zemin hazırlama, karışım hazırlama, kaplama uygulama teknikleri ile iş sağlığı ve güvenliği konularını kapsar.",
+  "belge": "Örgün bir eğitim programı ve diploma bulunmamaktadır; katılınan kurslardan kurs bitirme belgesi alınabilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Zemin kaplamacıları (mastik karışımlı), inşaat ve yapı sektöründe, özellikle zemin kaplama ve su yalıtımı işleri yapan taşeron firmalarda, inşaat şirketlerinde çalışabilir veya kendi hesabına iş alabilir. Baraj, teras, çatı, otopark, bodrum ve benzeri yapılarda mastik/asfalt esaslı zemin kaplama ve su yalıtımı işlerinde görev alırlar. İnşaat sektörünün hacmine ve yapı yalıtım/kaplama işlerine olan talebe bağlı olarak iş bulma olanakları değişkenlik gösterir.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğin örgün bir eğitim programı bulunmadığından, eğitim süresine ilişkin standart bir kazanç düzenlemesi yoktur. İşbaşında yetişenler, çalıştıkları işyerinde genellikle yardımcı işçi ücretiyle çalışmaya başlar.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Deneyim ve ustalık kazandıkça çalışılan işletmeye, iş hacmine ve kişinin bilgi-becerisine göre kazanç artabilir.",
+   "Kendi hesabına veya taşeron olarak çalışanların kazancı aldıkları iş miktarına ve anlaşma koşullarına göre değişiklik gösterir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğin örgün bir ilerleme basamağı (çıraklık-kalfalık-ustalık) bulunmamaktadır. Deneyim kazanan kişiler, zaman içinde usta işçi düzeyine ulaşabilir.",
+  "is_hayatinda": "Deneyim ve beceri kazandıkça ekip başı, şef işçi veya formen gibi pozisyonlara yükselebilir; yeterli sermaye ve tecrübeye sahip olanlar taşeron olarak kendi işini kurabilir."
+ },
+ "gorevler": [
+  "Zemini süpürüp üzerine özel kağıtlar veya malzemeler sererek kaplama işlemine hazırlar.",
+  "Karışımı mala ile kağıtlar üzerine yayar.",
+  "Kılavuz ve tesviye latası kullanarak kaplamanın aynı kalınlıkta olmasını sağlar.",
+  "Kaplama yüzünü mala ile düzler.",
+  "Kaplamayı malzeme ilavesi ile gereği kadar kalınlaştırır.",
+  "Yüzeyi petrolle ıslatıp cilalar ve son katı döktükten sonra mala ile düzler.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ek_bilgiler": "Çalışma sırasında ısıtılmış mastik/asfalt karışımı ile temas nedeniyle yanık ve solunum riski bulunduğundan, koruyucu eldiven, gözlük ve gerekli hallerde maske kullanımı önem taşır.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T23:12:49",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5373
+  }
+ }
+}

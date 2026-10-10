@@ -1,0 +1,84 @@
+{
+ "gorevler": [
+  "Bütün mıntıkasını görmek şartıyla her ay yaya olarak turne yapar.",
+  "Trafiğin yoğun olduğu banliyö mıntıkasında, drezin ile turne yapılmaması halinde lokomotif ile turne yapar.",
+  "Yapılması gereken turneleri aksatmadan ve eksiksiz yerine getirir, zorunlu hallerde turnenin aksayacağı anlaşılırsa şube şefine haber verir.",
+  "Yola çıkmadan önce oto ve motorlu drezinlerin ilgililerce iyice temizlenmiş olduğunu, drezinin yola çıkmasında herhangi bir sakınca bulunmadığını, aracın gerekli muayene, bakım ve (yağ, yakıt, su) ikmalinin yapıldığını, seyrüsefere engel bir durumun bulunup bulunmadığını ve yanında götüreceği malzemelerin tamam olup olmadığını kontrol eder.",
+  "Turneleri esnasında gördüğü çeşitli aksaklıkları not ederek, ilgili yol çavuşuna, vekiline veya yol bekçisine gereken emirleri verir.",
+  "Yaya turne esnasında yol ve tesislerini inceler, taş düşmesi veya heyelan olması muhtemel yarmalar ile civarını muayene eder, tespit ettiği durumların acil olanlarına derhal müdahale eder veya şube şefine bildirir.",
+  "Telgraf veya telefon tel ve direklerinde gördüğü arızayı en yakın istasyona bildirir.",
+  "Mıntıkasındaki rampa, gabari, peron, istinat duvarı, tünel, köprü, menfez ve güzergahtaki su tesisleri ile kilometre, hektometre ve eğim levhaları gibi sabit tesisleri kontrol eder, tespit ettiği arızaları şubesine bildirir.",
+  "Mıntıkasında yapılan ve kendisiyle ilgili işlerin başında bulunur, gerektiğinde yardım eder.",
+  "Mıntıkası dahilinde sefer eden bütün trenlerin geçiş saatlerini bilir ve yola çıkarken seyrüsefer cüzdanını yanında bulundurur.",
+  "Kapanan yolun en kısa zamanda seyrüsefere açılması için işi bizzat idare etmek üzere olay mahallinde kalır ve işbaşından ayrılmadan bilgi akışını sağlar.",
+  "Mıntıkasında çalışan takımları gerektiğinde olay yerine gönderir, yol kontrolünün aksatılmaması için yol bekçilerini mıntıkalarında bırakır.",
+  "Çavuş, bekçi, geçit bekçileri ve işçilerin muayene ve tedavileri için gerekli hastalık belgelerini düzenler.",
+  "Personelle ilgili yazışmaları yapar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "arac_gerec": [
+  "Motorlu veya oto drezin",
+  "Lokomotif",
+  "Seyrüsefer cüzdanı",
+  "Telsiz ve telefon haberleşme cihazları",
+  "El feneri ve sinyal fişeği",
+  "Gabari ölçüm aletleri, nivo ve mastar gibi ölçüm araçları",
+  "Yol bakım ve onarımda kullanılan el aletleri",
+  "Kişisel koruyucu donanım (yelek, baret, çelik burunlu ayakkabı)",
+  "Kontrol ve kayıt formları, raporlar",
+  "Bilgisayar",
+  "Kırtasiye malzemeleri"
+ ],
+ "genel_ozellikler": [
+  "Sorumluluk sahibi,",
+  "Dikkatli ve gözlem yeteneği gelişmiş,",
+  "Fiziksel olarak sağlıklı ve dayanıklı (uzun yürüyüş yapabilen),",
+  "Problemler karşısında çabuk ve doğru karar verebilen,",
+  "Etkili iletişim becerisine sahip,",
+  "Planlı ve organize çalışabilen,",
+  "Açık havada ve zorlu koşullarda çalışmaya uygun,",
+  "Ekip yönetebilen ve yönlendirebilen"
+ ],
+ "calisma_ortami": "Yol Kısım Şefi (Demiryolu), görevini büyük ölçüde açık havada, demiryolu hattı boyunca yürüyerek, drezin veya lokomotif ile yapılan turnelerle gerçekleştirir. Çalışma ortamı mevsim ve hava koşullarına bağlı olarak değişkenlik gösterir; yağmur, kar, sıcak veya soğuk havada saha denetimi yapmak gerekebilir. Tren trafiğinin bulunduğu hat üzerinde çalışıldığından iş kazası riskine karşı dikkatli olunması ve iş güvenliği kurallarına titizlikle uyulması gerekir.\n\nÇalışma saatleri, trafik yoğunluğuna, turne programına ve acil arıza veya kaza durumlarına göre değişebilir; gerektiğinde mesai saatleri dışında veya gece de görev yapılabilir. Görevi sırasında yol çavuşu, yol bekçisi, işçiler, şube şefi ve istasyon personeli ile sürekli iletişim halindedir.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin gerektirdiği minimum eğitim düzeyi ortaöğretim (lise ve dengi) olup, bu görev için ayrı ve bağımsız bir mesleki ve teknik eğitim alanı/dalı bulunmamaktadır. Yol Kısım Şefi (Demiryolu) olarak görev yapılabilmesi, demiryolu işletmeciliği yapan kamu/özel kuruluşlarda lise ve dengi okul mezunları arasından yapılan personel alımları ve kurum içi görevde yükselme süreçleri ile sağlanmaktadır. Teknik lise, meslek lisesi (örneğin ulaştırma, inşaat, makine veya elektrik-elektronik ile ilgili alanlar) mezuniyeti tercih sebebi olabilir.",
+  "giris_kosullari": [
+   "En az lise ve dengi okul mezunu olmak",
+   "İlgili kurumun açtığı personel alım sınav ve/veya mülakatlarında başarılı olmak",
+   "Açık havada uzun süre ve mesafede yürüme gerektiren görev şartlarına uygun sağlık ve fiziksel koşullara sahip olmak",
+   "Demiryolu işletmelerinde yol bakım-onarım alanında belirli süre deneyim kazanmış olmak (genellikle kurum içi yükselme yoluyla)"
+  ],
+  "sure_ve_icerik": "Bu görev için Milli Eğitim Bakanlığı tarafından resmî olarak tanımlanmış ayrı bir okul programı bulunmamaktadır. Adaylar lise eğitimlerini tamamladıktan sonra demiryolu işletmelerinde yol bakım ve onarım hizmetleriyle ilgili görevlerde (örneğin yol bekçiliği, yol çavuşluğu gibi) çalışarak mesleki tecrübe kazanır. Bu süreçte işbaşında usta yanında uygulamalı eğitim, kurumun düzenlediği hizmet içi eğitimler, kurslar ve seminerler yoluyla demiryolu altyapısı, bakım-onarım teknikleri, iş sağlığı ve güvenliği ile seyrüsefer kuralları konularında bilgi ve beceri edinilir. Kıdem ve performansa bağlı olarak yol kısım şefliği görevine atanma söz konusu olabilir.",
+  "belge": "Örgün eğitim sonunda lise/meslek lisesi diploması alınır. Ayrıca, kurumun düzenlediği hizmet içi eğitim, kurs ve seminerler sonunda katılım belgesi verilebilir. Mesleğe özgü bağımsız ustalık/kalfalık belgesi veya bağımsız işyeri açma belgesi bulunmamaktadır."
+ },
+ "calisma_alanlari": "Yol Kısım Şefi (Demiryolu), başta TCDD olmak üzere demiryolu işletmeciliği yapan kamu kuruluşlarında ve özel sektörde faaliyet gösteren demiryolu işletmelerinde yol bakım-onarım şefliklerinde istihdam edilir. Kent içi raylı sistem işletmelerinde de benzer nitelikte saha denetim görevleri bulunabilmekle birlikte bu meslek esas olarak klasik demiryolu hattının bakım ve emniyetiyle ilgilidir.\n\nİş bulma olanağı, ülkedeki demiryolu ağının genişlemesine, mevcut hatların bakım ihtiyacına ve kamu/özel sektör istihdam politikalarına bağlıdır. Kadro sayısı sınırlı olduğundan, bu göreve geçiş genellikle ilgili kurumda daha alt kademelerde (yol bekçiliği, yol çavuşluğu gibi) çalışarak deneyim kazanmış personel arasından yapılmaktadır.",
+ "kazanc": {
+  "egitim_suresince": "Bu meslek için resmî olarak tanımlanmış ayrı bir mesleki eğitim programı bulunmadığından, eğitim süresince ayrı bir ücret düzenlemesi yoktur. Aday genellikle kurumda göreve başladıktan sonra yol bekçiliği, yol çavuşluğu gibi görevlerde deneyim kazanarak yol kısım şefliğine atanır ve bu süreçte çalışan statüsüne uygun normal ücretini alır.",
+  "egitim_sonrasi": [
+   "Kamu kurumunda memur statüsünde çalışanlar 657 sayılı Devlet Memurları Kanunu'na, işçi statüsünde çalışanlar ise ilgili toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde faaliyet gösteren demiryolu işletmelerinde ücret, işletmenin büyüklüğü, çalışanın deneyimi, bilgi ve becerisi ile sektördeki ücret düzeyine göre değişebilir.",
+   "Yeni göreve başlayanlarda ücret genellikle asgari ücret düzeyinde olabilir; kıdem, sorumluluk ve performans arttıkça kazanç yükselebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Bu meslek için ayrı bir örgün mesleki eğitim programı bulunmadığından, ilerleme esas olarak kurum içi kariyer basamaklarıyla sağlanır. Lise mezunu olarak göreve başlayanlar, isteğe bağlı olarak ulaştırma, inşaat, makine veya elektrik-elektronik mühendisliği gibi ilgili ön lisans/lisans programlarına yönelebilir; bu eğitimler yol şube şefliği ve üzeri kademelere yükselmede katkı sağlayabilir.",
+  "is_hayatinda": "Yol kısım şefi olarak görev yapanlar, kıdem, deneyim ve performanslarına bağlı olarak yol şube şefliği gibi daha üst kademelere terfi edebilir. Kurumun açtığı hizmet içi eğitimler, teknik kurslar ve seminerlere katılarak bilgi ve becerilerini güncelleyebilir, bu da ilerlemelerine olumlu katkı sağlar."
+ },
+ "benzer_meslekler": [
+  "Yol Şube Şefi (Demiryolu)",
+  "Demiryolu Servis Nezaretçisi",
+  "Demiryolu Trafik Kontrolörü",
+  "İstasyon Şefi-Demiryolu",
+  "Tesisler Haberleşme Şefi (Demiryolu)",
+  "Trafik Başkontrolörü (Demiryolu)"
+ ],
+ "ek_bilgiler": "Bu meslek, demiryolu hattı üzerinde açık havada uzun mesafeler yürümeyi ve tren trafiğinin bulunduğu hat üzerinde çalışmayı gerektirdiğinden, fiziksel uygunluk ve iş sağlığı-güvenliği kurallarına titiz uyum önem taşımaktadır. Mesleğe giriş genellikle örgün bir okul programından ziyade, demiryolu işletmelerinde kademeli görevde yükselme yoluyla gerçekleşmektedir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T16:34:39",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 8778
+  }
+ }
+}

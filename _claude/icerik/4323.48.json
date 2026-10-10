@@ -1,0 +1,81 @@
+{
+ "arac_gerec": [
+  "Bilgisayar ve ofis yazılımları",
+  "Kargo/sevkiyat takip programları",
+  "Araç takip ve GPS sistemleri",
+  "Telefon ve telsiz haberleşme cihazları",
+  "Yazıcı ve tarayıcı",
+  "İrsaliye, sevk formu ve diğer evrak/belgeler",
+  "Hesap makinesi",
+  "Kırtasiye malzemeleri (kağıt, kalem vb.)",
+  "Dosyalama ve arşivleme ekipmanları",
+  "İnternet/ağ bağlantısı ve kurumsal bilgi sistemleri"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve ayrıntılara özen gösteren,",
+  "Sorumluluk sahibi,",
+  "Planlı ve organize çalışabilen,",
+  "Sayısal yeteneğe sahip,",
+  "Bilgisayar kullanımına yatkın,",
+  "Hızlı ve doğru karar verebilen,",
+  "Etkili iletişim becerisine sahip,",
+  "Zaman yönetimine önem veren"
+ ],
+ "calisma_ortami": "Araç Takip Görevlisi (Kargo), genellikle kargo dağıtım merkezlerinin ofis/operasyon birimlerinde, kapalı mekanda ve bilgisayar başında çalışır. Çalışma, büyük ölçüde masa başında ekran karşısında geçer; zaman zaman araç giriş-çıkışlarının takibi için depo veya saha alanına çıkması gerekebilir. Kargo sektöründe sevkiyatların gün boyu sürmesi nedeniyle çalışma saatleri vardiyalı olabilir, iş yoğunluğuna göre mesai süresi değişebilir.\n\nÇalışırken şoförler, sevkiyat ve operasyon sorumluları, depo personeli ve yöneticilerle sürekli iletişim halindedir. İş, hem bilgisayar ortamında veri girişi/takibini hem de insan ilişkilerini gerektirir; zaman baskısı ve yoğun bilgi akışı altında dikkatli ve hatasız çalışma önem taşır.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğe özgü, standart bir mesleki ve teknik ortaöğretim alan/dalı bulunmamaktadır. Lise düzeyindeki genel veya mesleki eğitim (özellikle lojistik, ulaştırma hizmetleri, büro yönetimi gibi alanlarda alınan eğitim) bu mesleğe hazırlık niteliğinde olabilir. Meslek büyük ölçüde işe giriş sonrası işbaşında, kurumsal oryantasyon ve uygulamalı eğitimle; ayrıca Halk Eğitim Merkezleri ile İŞKUR'un açtığı bilgisayar, lojistik ve sevkiyat/operasyon yönetimi kurslarıyla öğrenilmektedir.",
+  "giris_kosullari": [
+   "Lise veya dengi okul mezunu olmak",
+   "İşe alım yapan işletmenin belirlediği koşulları (sağlık durumu, yaş, deneyim vb.) taşımak"
+  ],
+  "sure_ve_icerik": "Mesleğe özgü resmî olarak tanımlanmış bir eğitim süresi ve müfredatı bulunmamaktadır. Lise eğitimini tamamlayanlar, işe başladıktan sonra işletme içinde deneyimli personel yanında uygulamalı olarak araç takip, sevkiyat kayıt sistemleri ve kurumsal yazılımların kullanımını öğrenir. Bilgisayar kullanımı, ofis programları, lojistik/sevkiyat yönetimi ve araç takip yazılımlarına yönelik kısa süreli kurslara katılım meslekteki yetkinliği artırır.",
+  "belge": "Lise diploması meslek için temel eğitim belgesidir. Mesleğe özgü zorunlu bir sertifika veya diploma bulunmamaktadır; katılınan kurs ve seminerler sonunda katılım veya başarı belgesi verilebilir."
+ },
+ "calisma_alanlari": "Araç Takip Görevlisi (Kargo), başta kargo ve lojistik şirketleri olmak üzere, nakliye, dağıtım ve taşımacılık hizmeti sunan özel sektör işletmelerinin operasyon, sevkiyat ve filo yönetimi birimlerinde çalışabilir. E-ticaretin ve kargo/lojistik sektörünün büyümesi, bu meslekte istihdam olanağını desteklemektedir. Bilgisayar ve ilgili yazılımları etkin kullanabilen, iletişim becerisi gelişmiş ve deneyim sahibi kişiler iş bulmada avantajlı konumdadır.",
+ "gorevler": [
+  "Kargo dağıtım merkezine gelecek ve merkezden çıkış yapacak araçların bilgisayar kayıtlarını tutar ve takip eder.",
+  "Dağıtım merkezine ait araç hareketlerini bilgisayara kaydeder.",
+  "Sevkiyatların toplu taşıma irsaliyelerini inceler, bilgi alır.",
+  "Mevcut veriler doğrultusunda araç ve şoför organizasyonu yapar.",
+  "Yük dağılımına uygun olarak araç görevlendirmesi yapar.",
+  "Sevk edilen araçların seyir ve varış sürelerinin takibini yapar.",
+  "Bilgisayar ortamında araçların sevkiyata çıkış, karşı birime varış bilgileri, araç ve yük bilgileri, görevli personel bilgileri vb. verileri gelen, giden, kilometre, saat vb. bazında kaydeder ve takibini yapar.",
+  "Kargo araçlarının başlangıç ve varış noktaları arasında yapmış oldukları kilometrelerin tespiti için şoförler tarafından düzenlenen kilometre takip verilerini derler.",
+  "Araçta yapılan kilometreler ile tüketilen akaryakıt miktarları arasındaki uygunluğu araştırır, tolerans sınırları dışında tüketim olması durumunda nedenini araştırır.",
+  "Araçların malzeme ve parça ihtiyacının temin edilmesini sağlar.",
+  "Her araç için masraf kalemlerinin tespit edilmesini sağlar.",
+  "Kargo araçlarının kira sözleşmelerini hazırlar, takip ve kontrol eder.",
+  "Araçların trafiğe çıkması için gerekli yasal zorunlulukları yerine getirir.",
+  "Mesleği alanındaki gelişmeleri takip eder ve uygular.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "kazanc": {
+  "egitim_suresince": "Mesleğe özgü örgün bir mesleki eğitim programı bulunmadığından, eğitim sürecine ilişkin ayrı bir ücretlendirme düzenlemesi yoktur. Lise öğrenimi sırasında işletmede staj/mesleki eğitim yapılması halinde ilgili mevzuat kapsamında öğrenciye ücret ödenebilir.",
+  "egitim_sonrasi": [
+   "Özel sektörde çalışanların ücreti; işletmenin büyüklüğü, çalışanın deneyimi, bilgi ve becerisi ile sektörün genel ücret düzeyine göre değişmektedir.",
+   "Mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde gelir elde eder; deneyim ve sorumluluk arttıkça kazanç da artabilir.",
+   "Kamu kurumlarına bağlı taşımacılık/lojistik birimlerinde çalışanlar, 657 sayılı Devlet Memurları Kanunu veya ilgili toplu iş sözleşmesi hükümlerine göre ücret alır."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Lise mezunları, yükseköğretime giriş sınavlarında başarılı oldukları takdirde lojistik, ulaştırma hizmetleri yönetimi, işletme gibi alanlardaki ön lisans/lisans programlarına yerleşebilirler. Bu programlardan mezun olmak, meslekte daha üst düzey sevkiyat ve operasyon planlama görevlerine geçişi destekler.",
+  "is_hayatinda": "Deneyim kazanıldıkça sevkiyat/operasyon şefliği, filo sorumluluğu veya lojistik koordinatörlüğü gibi daha üst görevlere terfi edilebilir. İşletme içi eğitimler, bilgisayar ve ilgili yazılım kursları ile iletişim ve yabancı dil kursları meslekte ilerlemeyi destekler."
+ },
+ "benzer_meslekler": [
+  "Kargo Takip Görevlisi",
+  "Sevkiyat Görevlisi",
+  "Araç Filo Sorumlusu",
+  "Depo Sevkiyat Sorumlusu",
+  "Taşıt (Araç) Operasyon Sorumlusu",
+  "Araç Yükleme Operatörü"
+ ],
+ "ek_bilgiler": "Kargo ve e-ticaret sektöründeki büyüme, araç ve sevkiyat takibinde bilgisayar/yazılım tabanlı sistemlerin kullanımını yaygınlaştırmakta, bu da meslekte dijital beceri gerekliliğini artırmaktadır.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T16:57:18",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 7769
+  }
+ }
+}

@@ -1,0 +1,97 @@
+{
+ "arac_gerec": [
+  "Kaynak makinesi (elektrik ark, MIG/MAG, TIG)",
+  "Oksijen-gaz kesme takımı (oksi-asetilen)",
+  "Plazma kesim makinesi",
+  "Metal kesme testeresi/hızar",
+  "Matkap ve delik delme ekipmanları",
+  "Taşlama ve zımpara makinesi",
+  "Hidrolik pres, abkant pres (büküm-presleme makineleri)",
+  "Vinç, caraskal, forklift gibi kaldırma ekipmanları",
+  "Ölçme ve kontrol aletleri (mezura, gönye, su terazisi, lazer metre)",
+  "Markalama ve çizim aletleri",
+  "Cıvata-somun ve perçin takımları",
+  "El aletleri (çekiç, pense, tornavida, anahtar takımları)",
+  "Kaldırma aparatları (sapan, zincir, halat)",
+  "Boya ve kaplama ekipmanları (kompresör, boya tabancası)",
+  "Kişisel koruyucu donanım (kaynak maskesi, eldiven, baret, iş elbisesi, emniyet kemeri)"
+ ],
+ "genel_ozellikler": [
+  "El ve bedensel beceriye sahip,",
+  "Dikkatli ve sabırlı,",
+  "Fiziksel olarak güçlü ve dayanıklı,",
+  "Teknik resim ve proje okuyabilen,",
+  "Takım çalışmasına uyumlu,",
+  "Yüksekte ve açık havada çalışmaktan çekinmeyen,",
+  "Sorumluluk sahibi,",
+  "İş sağlığı ve güvenliği kurallarına duyarlı,"
+ ],
+ "calisma_ortami": "Endüstriyel ve Yapısal Çelik Konstrüksiyon Ustaları genellikle imalat atölyelerinde ve inşaat/montaj sahalarında çalışır. Atölyedeki üretim işlemleri kapalı ortamda yapılırken, saha montajı açık havada, bazen yüksekte ve farklı hava koşullarında gerçekleştirilir. Çalışma ortamı kaynak dumanı, gürültü, metal tozu, kıvılcım ve ağır malzemelerle çalışma gibi risklere açıktır; bu nedenle iş sağlığı ve güvenliği kurallarına titizlikle uyulması gerekir.\n\nÇalışma saatleri genellikle belirli olup proje teslim tarihlerine göre fazla çalışma gerekebilir. Mühendis, teknisyen, kaynakçı, vinç operatörü ve diğer şantiye/atölye personeli ile yakın işbirliği içinde çalışılır.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi, yeterli talep olması durumunda mesleki ve teknik eğitim merkezlerinde Metal Teknolojisi alanı kapsamında ve mesleki ve teknik ortaöğretim kurumlarında verilmektedir. Ayrıca Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kursları ile işyerlerinde işbaşında usta yanında yetişme yoluyla da bu mesleğe girmek mümkündür.",
+  "giris_kosullari": [
+   "En az ortaokul mezunu olmak (mesleki eğitim merkezi/çıraklık eğitimine girişte)",
+   "14 yaşını doldurmuş olmak",
+   "Mesleğin gerektirdiği fiziksel ve sağlık şartlarına sahip olmak (gerektiğinde sağlık raporu ile belgelendirilir)",
+   "Eğitim görmek istediği meslekte bir işyeri bulup işveren ile çıraklık/mesleki eğitim sözleşmesi imzalamak"
+  ],
+  "sure_ve_icerik": "Mesleki eğitim merkezlerinde eğitim ilköğretim/ortaokul sonrasında yıllara yayılı olarak sürdürülür; teorik dersler haftanın belirli günlerinde eğitim merkezinde, uygulamalı eğitim ise işyerinde usta öğretici gözetiminde verilir. Eğitim içeriğinde metal işleme teknikleri, kaynak yöntemleri, teknik resim okuma, ölçme-kontrol, soğuk şekillendirme ve birleştirme işlemleri ile iş sağlığı ve güvenliği dersleri bulunur. Mesleğe örgün eğitim dışında kurslar ve işbaşında usta yanında yetişme yoluyla da girilebilir.",
+  "belge": "Mesleki eğitim merkezinde eğitimini tamamlayanlara kalfalık, ardından ustalık belgesi verilir; kurs yoluyla yetişenler katıldıkları kursun belgesini alır. Kaynak ve montaj işlemleri risk taşıdığından, ilgili iş kollarında Mesleki Yeterlilik Kurumu (MYK) Mesleki Yeterlilik Belgesi istihdamda tercih sebebi olabilir, bazı iş kollarında yasal olarak zorunlu tutulabilir."
+ },
+ "calisma_alanlari": "Bu meslek elemanları başta inşaat, enerji, liman/tersane, çelik yapı imalathaneleri, köprü ve altyapı projeleri ile sanayi tesisleri (fabrika, depo, hangar vb.) olmak üzere çelik konstrüksiyon üretimi ve montajı yapılan her alanda istihdam edilebilir. Çalışma alanları küçük-orta ölçekli atölyelerden büyük çelik yapı fabrikalarına kadar değişebilir; şantiyelerde geçici görevlendirme ve seyahat gerekebilir.",
+ "kazanc": {
+  "egitim_suresince": "Mesleki eğitim merkezi/çıraklık eğitimi kapsamında eğitim görenlere 3308 sayılı Mesleki Eğitim Kanunu gereğince asgari ücretin belirli bir oranından az olmamak üzere ücret ödenir; eğitim süresince iş kazası ve meslek hastalığı sigortası devletçe karşılanır.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Deneyim, uzmanlık alanı (kaynak, montaj, saha sorumluluğu vb.), çalışılan işletmenin büyüklüğü ve sektöre göre kazanç artabilir.",
+   "Kamu kurumlarında işçi statüsünde çalışanların ücretleri toplu iş sözleşmesi hükümlerine göre belirlenir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleki eğitim merkezinden veya meslek lisesinden mezun olanlar, alanın devamı niteliğindeki ön lisans/lisans programlarına yönelebilir; ayrıca çeşitli kurs ve sertifika programlarına katılarak mesleki bilgi ve becerilerini güncelleyebilir, kaynak teknikleri ve ileri düzey MYK yeterlilik belgeleri alabilir.",
+  "is_hayatinda": "Deneyim kazandıkça ustabaşı, saha şefi veya montaj ekip sorumlusu gibi görevlere yükselebilir; yeterli sermaye ve deneyime sahip olanlar kendi atölye/işletmelerini kurabilir."
+ },
+ "benzer_meslekler": [
+  "Endüstriyel ve Yapısal Çelik Konstrüksiyon İşçisi",
+  "İnşaat Çeliği İşçisi-Atölye",
+  "Diğer Metal Levha ve Metal İnşaat İşçileri",
+  "Gemi Montörü-Metal",
+  "Metal Doğramacı /Alüminyum Doğramacı",
+  "Ferforje Demir Ustası"
+ ],
+ "ek_bilgiler": "Bu meslekte kaynak ve yüksekte çalışma gibi riskli işlemler yapıldığından iş sağlığı ve güvenliği kurallarına özel önem verilmesi gerekir; ilgili iş kollarında Mesleki Yeterlilik Kurumu (MYK) Mesleki Yeterlilik Belgesi istihdamda tercih sebebi olabilir ve bazı iş kollarında zorunlu tutulabilir. Saha çalışmalarında yüksekte çalışma eğitimi/sertifikası talep edilebilir.",
+ "gorevler": [
+  "İş sağlığı ve güvenliği, yangın ve acil durum kurallarını uygular.",
+  "Çevre koruma mevzuatına uygun çalışır.",
+  "Kalite yönetim sistemi dokümanlarına uygun çalışır.",
+  "Çalışma alanını düzenler.",
+  "Çalışma alet ve donanımını korur ve talimatlara uygun bakımlarını sağlar.",
+  "Çalışma donanımının bozulma ve yıpranmaları ile ilgili bilgileri aktarır.",
+  "İmalat öncesi hazırlık yapar, iş organizasyonu yapar, malzeme temin eder.",
+  "İmalat işlemleri yapar.",
+  "Markalama işlemi yapar.",
+  "Kesim yapar.",
+  "Delik deler.",
+  "Eğme-bükme işlemlerini yapar.",
+  "Sökülebilir birleştirme yapar.",
+  "Kaynak ön hazırlığı yapar.",
+  "Kaynaklı birleştirme yapar.",
+  "Kaynak kontrollerini yapar.",
+  "İmalat sonrası işlemleri yapar.",
+  "Temizleme yapar.",
+  "Boya ve kaplama yapar.",
+  "Projeye uygunluk kontrolü yapar.",
+  "İşi imalat yerinde teslim eder, ürünü sevk eder, işi sahada teslim eder/teslim alır.",
+  "Saha montajı yapar; montaj hazırlığı yapar, zemin hazırlığı yapar, konstrüksiyonu yerleştirir.",
+  "Montaj sonrası işlemleri yapar.",
+  "Mesleki gelişim faaliyetlerine katılır."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T00:46:54",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 7979
+  }
+ }
+}

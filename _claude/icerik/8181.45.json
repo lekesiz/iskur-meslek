@@ -1,0 +1,79 @@
+{
+ "arac_gerec": [
+  "Cam elyafı kesme makinesi",
+  "Makinenin kesici bıçakları",
+  "Dolu cam elyafı bobinleri",
+  "Boş (sarım) bobinler",
+  "Bobin takma-çıkarma tertibatı",
+  "Çeşitli el aletleri (tornavida, pense, anahtar takımı)",
+  "Yağdanlık",
+  "Temizlik malzemeleri (fırça, üstüpü)",
+  "Ölçü aletleri (şerit metre)",
+  "Koruyucu eldiven",
+  "Toz/solunum maskesi",
+  "Koruyucu gözlük",
+  "Kulak koruyucu (kulaklık/tıkaç)",
+  "İş elbisesi",
+  "Bobin taşımada kullanılan el arabası veya forklift"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli,",
+  "Sabırlı,",
+  "El ve göz koordinasyonu iyi,",
+  "Fiziksel olarak dayanıklı,",
+  "Sorumluluk sahibi,",
+  "Makine ve mekanik aletlere ilgili,",
+  "Düzenli ve tertipli,",
+  "Takım çalışmasına uyumlu,"
+ ],
+ "calisma_ortami": "Kesme makinesi işçisi (cam elyafı), cam elyafı veya cam elyafından mamul ürünlerin (izolasyon malzemesi, kompozit hammaddesi vb.) üretildiği fabrikalarda, kapalı atölye ve üretim hatlarında çalışır. Çalışma genellikle ayakta ve makine başında sürdürülür; bobinlerin takılıp çıkarılması, taşınması fiziksel güç gerektirebilir. Ortamda makine gürültüsü, cam elyafı kesilirken ortaya çıkan ince cam tozu ve kıl parçacıkları bulunabileceğinden solunum yolu ve cilt tahrişi riskine karşı kişisel koruyucu donanım (eldiven, maske, gözlük, kulak koruyucu) kullanımı önemlidir.\n\nÜretim tesisleri genellikle sürekli (vardiyalı) çalıştığından, mesleği uygulayanlar gece ve hafta sonu dâhil değişen vardiyalarda görev yapabilir. Çalışma sırasında vardiya amiri, bakım-onarım personeli ve diğer makine operatörleriyle yakın iş birliği içinde bulunulur.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin ayrı, standart bir örgün eğitim programı bulunmamaktadır. Meslek, genellikle cam elyafı üretim tesislerinde işbaşında, deneyimli bir usta veya vardiya sorumlusu gözetiminde uygulamalı olarak öğrenilir. Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kursları, iş güvenliği ve temel makine kullanımına yönelik tamamlayıcı eğitimler sunabilir.",
+  "giris_kosullari": [
+   "İlköğretim diplomasına sahip olmak yeterlidir.",
+   "İşe alımlarda işletmenin belirlediği yaş ve sağlık uygunluğu kriterleri aranabilir.",
+   "18 yaşından küçüklerin ağır ve tehlikeli işler kapsamında çalıştırılmasına ilişkin yasal sınırlamalara dikkat edilir."
+  ],
+  "sure_ve_icerik": "Standart bir eğitim süresi ve müfredat bulunmamaktadır. İşe yeni başlayan kişi, işyerinde kısa süreli uygulamalı eğitim sürecinde makinenin tanıtımı, kesici bıçak ayarları, bobin takma-değiştirme işlemleri ve iş sağlığı-güvenliği kurallarını öğrenir. Bu süreç işletmeden işletmeye değişmekle birlikte genellikle günler ile haftalar arasında temel yeterliliği kazandırır.",
+  "belge": "Örgün bir eğitim sonunda diploma veya sertifika verilmez; bazı işletmeler kendi iç eğitimlerini tamamlayan çalışanlara belge düzenleyebilir. Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Kesme makinesi işçisi (cam elyafı), cam elyafı (fiberglas) üreten veya cam elyafını hammadde olarak işleyen sanayi tesislerinde istihdam edilir. Bu tesisler, izolasyon malzemesi, kompozit ürün hammaddesi ve benzeri cam elyaf esaslı ürünlerin üretildiği fabrikalarda yoğunlaşmıştır. Bu alandaki işletme sayısı sınırlı olduğundan, iş bulma olanakları sektördeki üretim hacmine ve bölgesel sanayi yoğunluğuna bağlı olarak değişir.",
+ "kazanc": {
+  "egitim_suresince": "Meslek işbaşında öğrenildiğinden, genellikle ayrı bir kazançsız eğitim dönemi bulunmaz; kişi çalışan statüsünde ücret alarak işi öğrenir.",
+  "egitim_sonrasi": [
+   "İşe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Deneyim, işletmenin büyüklüğü ve varsa toplu iş sözleşmesi hükümlerine göre ücret artabilir.",
+   "Çalışma genellikle özel sektör işletmelerinde sürdürülür; kamuda bu mesleğe yönelik istihdam yaygın değildir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğin kademeli bir örgün eğitim basamağı bulunmamaktadır. Çalışanlar isteğe bağlı olarak Halk Eğitim Merkezleri veya İŞKUR'un açtığı iş güvenliği, kalite kontrol gibi destekleyici kurslara katılarak bilgi ve becerilerini geliştirebilir.",
+  "is_hayatinda": "Mesleğe işçi olarak başlayan kişi, deneyim ve performansına göre kıdemli operatör, vardiya sorumlusu veya usta pozisyonuna yükselebilir. Üretim sürecini bütünüyle öğrenen kişiler, bakım-onarım veya kalite kontrol birimlerine geçiş yapabilir."
+ },
+ "benzer_meslekler": [
+  "Cam Elyaf İmal İşçisi",
+  "Cam Elyaf Kalıplama İşçisi",
+  "Cam Keçe İmal İşçisi",
+  "Fitil İmal İşçisi (Cam Elyafı)",
+  "Cam Eşya Kesici (Makineyle)",
+  "Cam Levha Kesme ve Koparma Makinesi Operatörü"
+ ],
+ "ek_bilgiler": "Cam elyafı kesimi sırasında ortaya çıkan ince cam tozu ve kıl parçacıklarının solunması veya cilde batması risk oluşturabilir; bu nedenle kişisel koruyucu donanımın eksiksiz kullanılması önemlidir. İşin niteliğine göre bazı işletmelerde bu görev, iş sağlığı ve güvenliği mevzuatı kapsamında ek tedbir gerektiren işler arasında değerlendirilebilir.",
+ "gorevler": [
+  "Makinenin kesici bıçaklarını ayarlar.",
+  "Cam elyafı bobinini ve kesilen cam elyafının sarılacağı boş bobinleri makine üzerindeki yerlerine takar.",
+  "Gerekli ayarları yaparak makineyi çalıştırır.",
+  "Makinenin otomatik çalışmasına nezaret ederek cam elyafının istenilen ölçülerde kesilmesini ve bobinlere sarılmasını sağlar.",
+  "Dolan ve boşalan bobinleri değiştirir.",
+  "İş bitiminde makinenin bakım ve temizliğini yapar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T16:54:56",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5740
+  }
+ }
+}

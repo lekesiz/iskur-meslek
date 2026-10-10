@@ -1,0 +1,84 @@
+{
+ "arac_gerec": [
+  "Teknik resim takımları (cetvel, gönye, pergel, T-cetveli)",
+  "Ölçü ve kontrol aletleri (kumpas, mikrometre, mastar, komparatör)",
+  "Üniversal torna tezgahı",
+  "Freze tezgahı",
+  "Taşlama tezgahı",
+  "Matkap/delik delme tezgahı",
+  "El aletleri (anahtar takımı, pense, çekiç, tornavida, pafta)",
+  "Kesici takımlar (matkap ucu, freze bıçağı, taşlama taşı)",
+  "Montaj aparatları ve bağlama elemanları (vida, cıvata, pim)",
+  "Bilgisayar ve teknik çizim (CAD) yazılımları",
+  "Kesme sıvısı ve yağlama malzemeleri",
+  "Kişisel koruyucu donanım (iş gözlüğü, eldiven, kulaklık, iş elbisesi)"
+ ],
+ "genel_ozellikler": [
+  "El ve göz koordinasyonu iyi,",
+  "Üç boyutlu düşünebilen ve teknik resmi yorumlayabilen,",
+  "Dikkatli ve sabırlı,",
+  "Matematiksel işlemlere ve ölçmeye yatkın,",
+  "Analitik düşünebilen,",
+  "El becerisi gelişmiş,",
+  "Makine ve aletlerle çalışmaya istekli,",
+  "Sorumluluk sahibi ve işçi sağlığı-iş güvenliği kurallarına duyarlı,"
+ ],
+ "calisma_ortami": "Temel İmalat (Talaşlı) ve Montaj Elemanı, genellikle fabrika ve atölye ortamlarında çalışır. Çalışma ortamı makine gürültüsü, metal talaşı, kesme ve yağlama sıvıları gibi unsurlar içerebilir; iş büyük ölçüde ayakta ve hareketli olarak yürütülür. Tezgah ve makinelerle doğrudan temas halinde çalışıldığından kişisel koruyucu donanım kullanımı önemlidir. Çalışma saatleri genellikle işyerinin üretim programına göre belirlenir, işin yoğunluğuna bağlı olarak vardiyalı çalışma söz konusu olabilir.\n\nMeslek mensubu, üretim sürecinde ustabaşı, mühendis, kalite kontrol elemanı ve diğer üretim çalışanlarıyla iş birliği içinde çalışır. Çalışma genellikle ekip içinde yürütülmekle birlikte, tezgah başında bireysel dikkat ve özen gerektirir.",
+ "egitim": {
+  "verildigi_yerler": "Bu meslekte çalışmak için mesleki ve teknik eğitim okullarının makine/metal teknolojisi alanlarında örgün eğitim alınabilir. Ayrıca mesleki eğitim merkezlerinde çıraklık eğitimi yoluyla, Halk Eğitim Merkezleri ile İŞKUR'un açtığı mesleki eğitim kurslarında ve işletme bünyesinde işbaşında usta yanında yetişme yoluyla da mesleğe giriş mümkündür.",
+  "giris_kosullari": [
+   "Mesleki ve teknik eğitim okullarına devam için ilköğretim/ortaokul mezunu olmak ve ilgili yerleştirme esaslarını sağlamak",
+   "Mesleki eğitim merkezi (çıraklık eğitimi) için ortaokul mezunu olmak ve işletmede usta yanına çırak olarak kayıt yaptırmak",
+   "Kurs programlarına katılım için genellikle okuma-yazma bilmek veya ilköğretim mezunu olmak"
+  ],
+  "sure_ve_icerik": "Eğitim süresi ve içeriği izlenen yola göre değişmektedir. Örgün mesleki eğitimde ve mesleki eğitim merkezlerinde teknik resim ve ölçülendirme, temel el işlemleri, delme-vidalama, torna, freze, taşlama tezgahlarının kullanımı, temel modelleme ile bilgisayar destekli teknik çizim konularında teorik ve uygulamalı dersler yer alır. İşletme içi eğitimlerde ise süre, kişinin bilgi, beceri ve çalışma hızına göre değişmekte; çoğunlukla işbaşında usta gözetiminde pratik eğitim şeklinde yürütülmektedir.",
+  "belge": "Örgün mesleki ve teknik eğitim veya mesleki eğitim merkezi programını tamamlayanlar diploma/sertifika almaya hak kazanır. Kurs yoluyla eğitim alanlara katılım veya başarı belgesi verilir. Mesleki Yeterlilik Kurumu (MYK) Mesleki Yeterlilik Belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Temel İmalat (Talaşlı) ve Montaj Elemanları; metal işleme fabrikalarında, makine imalat atölyelerinde, otomotiv ve beyaz eşya yan sanayi işletmelerinde, kalıp-takım imalat işletmelerinde, bakım-onarım atölyelerinde ve organize sanayi bölgelerindeki üretim tesislerinde istihdam edilebilmektedir. Bilgi, beceri ve deneyime göre iş bulma imkanı bulunmaktadır; konvansiyonel tezgah bilgisinin yanında bilgisayar destekli üretim (CNC) alanına geçiş yapanlar için istihdam olanakları daha da genişlemektedir.",
+ "kazanc": {
+  "egitim_suresince": "Mesleki eğitim merkezinde çıraklık eğitimi alanlara ilgili mevzuat çerçevesinde bir ücret ödenir. İşletme bünyesinde işbaşı eğitimi alanlara ise genellikle asgari ücret düzeyinde ödeme yapılır.",
+  "egitim_sonrasi": [
+   "İşe yeni başlayanların kazancı genellikle asgari ücret düzeyindedir.",
+   "Deneyim, bilgi-beceri düzeyi ve çalışılan işletmenin büyüklüğüne göre kazanç artabilir.",
+   "Kamu kurumlarına bağlı işletmelerde işçi statüsünde çalışanların ücreti toplu iş sözleşmesi hükümlerine göre belirlenir; özel sektörde ücret işveren ile çalışan arasındaki anlaşmaya bağlı olarak değişir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğini geliştirmek isteyenler CNC tezgahları, bilgisayar destekli tasarım/üretim (CAD/CAM) gibi ileri teknik eğitim programlarına yönelebilir; isteyenler meslek lisesi sonrası ön lisans veya lisans düzeyinde makine/metal teknolojileri eğitimi alarak ilerleyebilir.",
+  "is_hayatinda": "Deneyim kazandıkça usta, ustabaşı, kalite kontrol elemanı, CNC operatörü veya atölye şefi gibi görevlere yükselebilir; yeterli birikim ve sermayeye sahip olanlar kendi atölyesini kurabilir."
+ },
+ "benzer_meslekler": [
+  "CNC Taşlama Operatörü",
+  "Üniversal Torna Tezgahı Operatörü",
+  "Kalıp ve Takım-Aparat İşçisi",
+  "Bağlantı Parçası ve Mastar Yapıcı",
+  "Metal Markacı",
+  "Prototip İşçisi"
+ ],
+ "ek_bilgiler": "Metal işleme tezgahlarıyla çalışmak fiziksel risk içerebileceğinden iş güvenliği eğitimi ve kişisel koruyucu donanım kullanımı önem taşımaktadır. Konvansiyonel tezgah bilgisinin yanı sıra bilgisayar destekli üretim (CNC) teknolojilerine ilişkin yetkinlik kazanılması, sektördeki istihdam olanaklarını artırabilmektedir.",
+ "gorevler": [
+  "Geometrik çizimler yapar.",
+  "Görünüş çıkarır.",
+  "Ölçülendirme ve yüzey işlemleri yapar.",
+  "Kroki-perspektif ve yapım resmi çizer.",
+  "Temel el işlemlerini yapar.",
+  "Delme ve vidalama işlemlerini yapar.",
+  "Temel tornalama yapar.",
+  "Freze tezgahlarında hazırlık işlemlerini yapar.",
+  "Temel frezeleme yapar.",
+  "Taşlama tezgahlarını ayarlar ve kullanır.",
+  "Temel taşlama yapar.",
+  "Temel modelleme yapar.",
+  "Geometrik çizimler yapar.",
+  "Bilgisayar ortamında yeterli görünüşleri çizer ve kütüphane oluşturur.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T02:14:46",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5818
+  }
+ }
+}

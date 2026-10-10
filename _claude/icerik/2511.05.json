@@ -1,0 +1,72 @@
+{
+ "arac_gerec": [
+  "Bilgisayar donanımı",
+  "Yazılım geliştirme ortamları (IDE)",
+  "Veritabanı yönetim sistemleri",
+  "Sürüm kontrol sistemleri",
+  "Proje ve iş takip yazılımları",
+  "Test ve hata takip araçları",
+  "Uygulama programlama arayüzü (API) test araçları",
+  "Sunucu ve ağ altyapısı bileşenleri",
+  "Dokümantasyon ve modelleme araçları",
+  "Büro yazılımları ve iletişim/toplantı uygulamaları"
+ ],
+ "benzer_meslekler": [
+  "Sistem Analisti (BT)",
+  "Sistem Çözümleyici",
+  "BT İş Analisti (Bilişim Teknolojileri İş Analisti)",
+  "Uygulama Destek Uzmanı (Bilişim)",
+  "Yazılım Test Edicisi",
+  "Sistem Test Edicisi"
+ ],
+ "calisma_alanlari": "Sistem Geliştirme Uzmanı (Banka), öncelikle bankaların bilgi teknolojileri, bilgi işlem veya sistem geliştirme birimlerinde; internet şubesi, mobil bankacılık, çağrı merkezi ve kredi satış kanalları gibi alternatif dağıtım kanallarına yönelik projelerde görev alır. Bankaların doğrudan kendi bünyesinde çalışan birimlerinde veya bankalara bilişim hizmeti veren yazılım ve danışmanlık şirketlerinde istihdam edilebilir.\n\nDijital bankacılık hizmetlerinin ve mobil/internet şubesi kullanımının giderek yaygınlaşması nedeniyle bu alandaki nitelikli personele olan talep artış eğilimindedir; bu da iş bulma olanaklarını olumlu yönde etkilemektedir.",
+ "calisma_ortami": "Sistem Geliştirme Uzmanı (Banka), genellikle bankanın genel müdürlük binası veya bilgi teknolojileri merkezinde, kapalı ortamda, masa başında ve bilgisayar önünde oturarak çalışır. Çalışma düzeni büro saatlerine dayalıdır; ancak proje teslim dönemlerinde veya üretim ortamında yaşanan acil sorunların çözümünde mesai saatleri dışında da destek vermesi gerekebilir.\n\nGörevleri sırasında proje ekipleri, yazılım geliştiriciler, test uzmanları, sistem yöneticileri ve bankanın ilgili iş birimleriyle sık sık iletişim kurar. Ekran karşısında uzun süre oturarak çalışması nedeniyle göz ve bel yorgunluğu gibi ergonomik riskler söz konusu olabilir; işin doğası genel olarak düşük fiziksel risk taşır.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi üniversitelerin bilgisayar mühendisliği, yazılım mühendisliği, bilgisayar bilimleri, yönetim bilişim sistemleri veya endüstri mühendisliği gibi ilgili lisans programlarında verilmektedir. Bankacılığa özgü sistem geliştirme bilgi ve becerileri ise çoğunlukla bankaların kendi iç eğitim programları ve işbaşında usta yanında kazandırılır.",
+  "giris_kosullari": [
+   "Lise veya dengi okul mezunu olmak",
+   "YKS (Yükseköğretim Kurumları Sınavı) kılavuzunda belirtilen giriş koşullarını taşımak ve ilgili lisans programına yerleşmek",
+   "Meslek yüksekokulu/önlisans mezunlarının Dikey Geçiş Sınavı (DGS) ile ilgili lisans programlarına geçiş yapabilmesi"
+  ],
+  "sure_ve_icerik": "Lisans eğitiminin süresi 4 yıldır. Eğitim süresince programlama, veri yapıları, veritabanı yönetimi, sistem analizi ve tasarımı, yazılım mühendisliği, ağ ve sistem mimarisi gibi dersler okutulur. Bankacılık sektöründe işe başlayanlar, ayrıca bankanın kendi bilgi sistemleri, bankacılık uygulamaları, iş süreçleri ve bilgi güvenliği konularında işbaşı eğitim alır.",
+  "belge": "Eğitimini başarıyla tamamlayanlara lisans diploması verilir. Ayrıca bankaların düzenlediği kurum içi eğitim/sertifika programları ve mesleki yeterlilik sertifikaları tamamlanabilir."
+ },
+ "ek_bilgiler": "Bu meslek özellikle bankacılıktaki alternatif dağıtım kanalları (internet şubesi, mobil bankacılık, çağrı merkezi, kredi satış kanalları) alanında uzmanlaşmayı gerektirir. Bankacılık mevzuatı, finansal süreçler ve bilgi güvenliği standartlarına ilişkin bilgi sahibi olmak işe alımda ve kariyer gelişiminde tercih sebebi olabilir. Mesleki Yeterlilik Kurumu (MYK) belgesi gibi sertifikalar istihdamda avantaj sağlayabilir.",
+ "genel_ozellikler": [
+  "Matematiksel ve mantıksal düşünme yeteneğine sahip,",
+  "Analitik düşünebilen ve problem çözme becerisi gelişmiş,",
+  "Bilgisayar ve teknolojiye ilgili,",
+  "Dikkatli ve sabırlı,",
+  "Takım çalışmasına uyumlu,",
+  "Sözlü ve yazılı iletişimi etkin kullanabilen,",
+  "Değişen teknolojileri takip edebilen ve sürekli öğrenmeye açık,",
+  "Sorumluluk sahibi ve planlı çalışabilen"
+ ],
+ "gorevler": [
+  "Projenin analizini yapar,",
+  "Projenin tasarımını yapar,",
+  "Sistem geliştirme testlerini yapar,",
+  "Gerekirse projenin üretime geçişi sonrasında destek verir,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "İlgili alanlarda yüksek lisans ve doktora yaparak akademik kariyere yönelebilir; bilişim alanında uzmanlık sertifikaları ve mesleki yeterlilik belgeleri edinebilir.",
+  "is_hayatinda": "Deneyim kazandıkça kıdemli sistem geliştirme uzmanlığı, proje yöneticiliği, takım liderliği ve bilgi teknolojileri birim yöneticiliği gibi pozisyonlara yükselebilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Lisans eğitimi süresince öğrenim kredisi, burs ve yurt hizmetlerinden yararlanılabilir. Bilişim veya bankacılık sektöründe yapılan stajlar aracılığıyla hem deneyim hem de kazanç sağlanabilir.",
+  "egitim_sonrasi": [
+   "Kamu bankalarında çalışanlar, kurumun özlük haklarına ve ilgili mevzuata göre ücret alır.",
+   "Özel bankalarda ve bilişim şirketlerinde ücret; çalışılan kurum, deneyim ve bilgi birikimine göre değişir.",
+   "Yeni mezunlar için başlangıç ücreti sektör ortalamasına yakın olabilir; deneyim ve uzmanlık arttıkça kazanç belirgin şekilde artma eğilimindedir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T05:49:38",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5223
+  }
+ }
+}

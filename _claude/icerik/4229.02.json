@@ -1,0 +1,83 @@
+{
+ "arac_gerec": [
+  "Bilgisayar ve hastane bilgi yönetim sistemi yazılımı",
+  "Yazıcı ve tarayıcı",
+  "Telefon ve faks",
+  "Hasta kabul ve kayıt defteri",
+  "Kimlik/kart okuyucu cihazları",
+  "Kaşe ve mühür",
+  "Kayıt formları, cetveller ve tutanaklar",
+  "Ölüm haber ihbar varakası formları",
+  "Doğum bildirim cetvelleri",
+  "Emanet eşya kayıt defteri ve poşetleri",
+  "Dosyalama ve arşiv dolapları",
+  "Hesap makinesi"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve titiz,",
+  "Düzenli ve sistemli çalışabilen,",
+  "İletişim becerisi gelişmiş,",
+  "Sabırlı ve hoşgörülü,",
+  "Gizliliğe önem veren, güvenilir,",
+  "Sorumluluk sahibi,",
+  "Stresli durumlarda sakin kalabilen,",
+  "Yazılı ve sözlü anlatımı düzgün"
+ ],
+ "calisma_ortami": "Hasta Kabul-Kayıt Görevlisi, hastanelerin veya sağlık kuruluşlarının kabul-kayıt birimlerinde, genellikle kapalı ve büro niteliğinde bir ortamda çalışır. Çalışma süresince bilgisayar başında uzun süre oturarak kayıt işlemleri yapar; hastalar, hasta yakınları, hekimler, hemşireler ve idari personelle sürekli ve yoğun iletişim içindedir.\n\nHastanelerin kesintisiz hizmet vermesi nedeniyle çoğunlukla vardiyalı ve nöbet usulü çalışılır; gece, hafta sonu ve resmi tatillerde de görev yapılabilir. Ölüm, doğum ve acil durumlarla ilgili hassas ve bazen stresli durumlarla karşı karşıya kalınabilir; bu nedenle duygusal dengeyi koruyabilmek ve gizlilik ilkelerine uymak önemlidir.",
+ "gorevler": [
+  "Hasta kabul yerinin temizliğini, düzen ve disiplinini sağlar.",
+  "Yatırılan hastaların kabul evrakı ve kimlik belgelerini inceleyerek künyelerini belirler ve hasta kabul defterine kaydeder.",
+  "Kimliği belirlenemeyen veya bilgi veremeyecek durumda olan hastalar hakkında baştabibe ve nöbetçi hekime bilgi verir.",
+  "Hasta kabul defterine hastaların kimlik bilgilerini, giriş tarih ve saatlerini, geldikleri yeri ve açık adreslerini, yatırıldıkları servisi, çıkış tarihi ile protokol numarasını, hastalık ve sonuçlarını tabeladan naklen kaydeder ve işaretler.",
+  "Ölen hastaların ölüm tarih ve saatini, cesetleri hakkında yapılan işlemleri, kurumca nereye gömüldüklerini veya ailesine teslim edildiğini ayrıca kayda geçirir.",
+  "Doğan çocuğun doğum tarihi ve saati, ana-babasının adı ve soyadı, uyruk ve dinini, çocuğun cinsiyetini kabul defterine işler.",
+  "Doğan çocukların doğum bilgilerini ilgili cetvellere kaydederek bir ay içinde baştabiplik aracılığıyla nüfus idarelerine bildirir.",
+  "Ölen hastalar için ölüm haber ihbar varakasını düzenler.",
+  "Her gün hastaneye giren ve çıkan hasta sayısı ile ölüm sayısını cetvel halinde düzenleyerek, günlük toplamları sağlık istatistikçisine veya hastane müdürüne bildirir.",
+  "Emanet eşya deposunda ayrıca görevli bulunmadığı durumlarda, yatan ve çıkan hastaların elbise, para ve değerli eşyalarıyla ilgili işlemleri ilgili hükümlere göre yürütür.",
+  "Kurumda ölen bir devlet memurunun mensup olduğu daire veya kuruma ölüm durumunu resmi bir yazı ile en kısa zamanda bildirmek üzere gereken işlemleri yapar.",
+  "Yatan hastaların ziyaretçiler tarafından kolayca bulunabilmesi için sosyal hizmet, sosyal servis, halkla ilişkiler veya müracaat birimine hasta giriş-çıkış bilgilerini düzenli ve zamanında bildirir.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi, örgün bir diploma programına bağlı olmaksızın yaygın olarak hastanelerde veya diğer sağlık kuruluşlarında hizmet içi eğitim ve işbaşı eğitimi yoluyla verilir. Ayrıca sağlık kurumları işletmeciliği, tıbbi sekreterlik ve benzeri mesleki ve teknik eğitim programlarından mezun olan kişiler de bu mesleğe yönelebilmekte, Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kurslarından da yararlanılabilmektedir.",
+  "giris_kosullari": [
+   "Mesleğin gerektirdiği en az eğitim düzeyi ilköğretimdir.",
+   "Çoğu işyeri, eleman seçiminde lise ve dengi okul mezunlarını tercih eder.",
+   "Temel bilgisayar kullanma becerisi beklenir.",
+   "Eleman alımı genellikle mülakat ile yapılır."
+  ],
+  "sure_ve_icerik": "İşbaşı eğitim süresi, çalışılan kurumun uygulamasına göre değişmekle birlikte genellikle kısa süreli (birkaç hafta) bir hizmet içi eğitim şeklindedir. Eğitim, deneyimli bir personelin gözetiminde uygulamalı olarak verilir; hasta kabul ve kayıt işlemleri, defter ve cetvel düzenleme, doğum-ölüm bildirimleri, hasta gizliliği ve kişisel verilerin korunması gibi konular işlenir.",
+  "belge": "Mesleğe özgü örgün bir diploma veya sertifika programı bulunmamaktadır. İşyerinde verilen hizmet içi eğitim sonunda bir katılım belgesi verilebilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Hasta Kabul-Kayıt Görevlisi, kamu ve özel hastaneler, üniversite hastaneleri, sağlık ocakları/aile sağlığı merkezleri ve diğer sağlık kuruluşlarının hasta kabul-kayıt birimlerinde istihdam edilir.\n\nSağlık sektöründeki yatırımların ve özel sağlık kuruluşu sayısının artması bu meslekte istihdam olanaklarını genel olarak olumlu yönde etkilemektedir. Ancak örgün bir diploma programı gerektirmeyen ve işbaşında yetişilen bir meslek olduğundan, iş aramada eleman sayısının fazlalığı nedeniyle rekabet yaşanabilmektedir.",
+ "kazanc": {
+  "egitim_suresince": "Kişi genellikle işe alındıktan sonra işyerinde hizmet içi eğitime tabi tutulur ve bu süreçte normal ücretini almaya devam eder. Eğitim sürecinin ücretlendirilmesi işyerinin uygulamasına göre değişebilir.",
+  "egitim_sonrasi": [
+   "Kamu sağlık kuruluşlarında memur statüsünde çalışanlar 657 sayılı Devlet Memurları Kanunu'na, işçi statüsünde çalışanlar ise ilgili toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sağlık kuruluşlarında ücret, işyeri ile yapılan anlaşmaya, kişinin deneyimine, bilgi ve becerisine, işletmenin büyüklüğüne ve sektörün genel ücret düzeyine göre değişebilir.",
+   "Mesleğe yeni başlayanların kazancı genellikle asgari ücret düzeyinde olabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğin örgün bir ilerleme basamağı bulunmamaktadır. İlgili meslek yüksekokullarının sağlık kurumları işletmeciliği, tıbbi sekreterlik veya sağlık yönetimi gibi programlarına devam edilerek bilgi ve beceriler geliştirilebilir.",
+  "is_hayatinda": "Deneyim ve performansa bağlı olarak hasta kabul-kayıt biriminde sorumlu veya şef pozisyonuna yükselebilir, yeni personelin eğitiminde görev alabilir; zaman içinde hasta hizmetleri, idari hizmetler veya sağlık kurumları yönetimi birimlerinde daha üst görevlere geçebilir."
+ },
+ "benzer_meslekler": [
+  "Hasta Danışmanı",
+  "Hasta Karşılama ve Yönlendirme Görevlisi",
+  "Hasta Hakları Sorumlusu",
+  "Hasta Hizmetleri Personeli",
+  "Danışma Memuru",
+  "Büro Memuru (Haberleşme)"
+ ],
+ "ek_bilgiler": "Bu meslekte çalışanların, hasta kişisel verilerinin ve sağlık bilgilerinin korunmasına ilişkin mevzuata özel önem göstermesi gerekir. Ayrıca doğum ve ölüm kayıtlarının ilgili resmi mercilere (nüfus idaresi vb.) bildirilmesi gibi işlemler yasal sorumluluk taşıdığından, bu alanda dikkatli ve titiz çalışma önem kazanmaktadır.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T16:02:50",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6503
+  }
+ }
+}

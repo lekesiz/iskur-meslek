@@ -1,0 +1,75 @@
+{
+ "arac_gerec": [
+  "Bilgisayar destekli tasarım (CAD) ve mühendislik analizi (CAE/FEM) yazılımları",
+  "Yörünge mekaniği ve uçuş dinamiği simülasyon yazılımları",
+  "Uydu alt sistem tasarım ve test yazılımları",
+  "Titreşim test düzenekleri ve shaker (sarsıcı) sistemler",
+  "Termal vakum test odaları",
+  "Elektronik ölçüm ve test cihazları (osiloskop, sinyal jeneratörü vb.)",
+  "Yer istasyonu haberleşme ve telemetri sistemleri",
+  "Veri analizi ve işleme yazılımları",
+  "Temiz oda (clean room) ekipmanları ve koruyucu kıyafetler",
+  "Üç boyutlu tarayıcı ve prototip üretim cihazları (3B yazıcı)",
+  "Teknik çizim ve dokümantasyon yazılımları",
+  "Proje yönetimi ve raporlama yazılımları"
+ ],
+ "genel_ozellikler": [
+  "Matematik, fizik ve mekanik konularında ilgili ve başarılı,",
+  "Şekil ve uzay ilişkilerini algılayabilen, üç boyutlu düşünebilen,",
+  "Analitik ve sistematik düşünebilen, problem çözme becerisine sahip,",
+  "Yüksek düzeyde dikkat ve sabır gerektiren işlerde titiz çalışabilen,",
+  "Yeniliklere açık, araştırmacı ve öğrenmeye istekli,",
+  "Ekip çalışmasına yatkın, etkili iletişim kurabilen,",
+  "Yabancı dilde teknik literatürü takip edebilen,",
+  "Sorumluluk sahibi ve kararlarının sonuçlarını üstlenebilen"
+ ],
+ "calisma_ortami": "\"Uzay ve Uydu Mühendisi, çalışmalarının büyük bölümünü büro ortamında bilgisayar başında tasarım, hesaplama ve analiz yaparak; bir bölümünü ise test laboratuvarları, temiz odalar ve entegrasyon tesislerinde uygulamalı olarak gerçekleştirir. Titreşim ve termal vakum testleri gibi bazı çalışmalar özel donanımlı ve kontrollü ortamlarda yürütülür; bu ortamlarda toz, statik elektrik ve sıcaklık gibi etkenlere karşı belirlenen kurallara uyulması gerekir.\\n\\nMesleğin icrası sırasında mühendisler, bilim insanları, teknisyenler, proje yöneticileri ve kamu kurumları ile sık sık işbirliği ve iletişim içinde çalışılır. Çalışma saatleri genellikle düzenlidir; ancak proje teslim tarihleri, fırlatma takvimleri veya kritik test süreçlerinde uzun ve yoğun çalışma gerekebilir. Yurt içinde ve yurt dışında saha ziyaretleri, test kampanyaları veya toplantılar nedeniyle seyahat gerektirebilir.\"",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi, üniversitelerin mühendislik fakültelerine bağlı havacılık ve uzay mühendisliği, uzay mühendisliği veya ilgili mühendislik bölümlerinde (örneğin makine, elektrik-elektronik mühendisliği gibi uzay/uydu teknolojilerine yönelen programlarda) verilmektedir.",
+  "giris_kosullari": [
+   "Lise veya dengi okul mezunu olmak,",
+   "Yükseköğretim Kurumları Sınavı (YKS) kılavuzunda belirtilen giriş koşullarını (sayısal puan türü vb.) taşımak,",
+   "İlgili lisans programının gerektirdiği taban puan ve kontenjan koşullarını sağlamak."
+  ],
+  "sure_ve_icerik": "Mesleğin eğitim süresi 4 yıldır. Eğitim; matematik, fizik, mekanik, malzeme bilgisi gibi temel mühendislik derslerinin yanı sıra uçuş dinamiği, yörünge mekaniği, uzay sistemleri tasarımı, haberleşme sistemleri ve uzay yapıları gibi alana özel dersleri kapsar. Teorik derslerin yanında laboratuvar uygulamaları ve staj çalışmaları da programın bir parçasıdır. Lisans eğitiminin ardından ilgili alanda yüksek lisans ve doktora yapmak, Ar-Ge yoğun bu meslekte tercih edilen bir yoldur.",
+  "belge": "Eğitimini başarıyla tamamlayanlara ilgili mühendislik bölümünden lisans diploması verilir."
+ },
+ "calisma_alanlari": "\"Uzay ve Uydu Mühendisleri; kamu kurumlarına bağlı uzay ve savunma sanayii kuruluşlarında, uydu ve uzay sistemleri üreten özel sektör firmalarında, havacılık ve savunma sanayii şirketlerinde, araştırma merkezlerinde ve üniversitelere bağlı Ar-Ge birimlerinde görev alabilirler. Ayrıca yer istasyonu işletmeciliği yapan kuruluşlarda, telekomünikasyon şirketlerinde ve uluslararası uzay ajansları ile işbirliği yürüten projelerde de istihdam edilebilirler.\\n\\nTürkiye'de uzay ve uydu teknolojileri alanındaki kamu yatırımlarının ve özel sektör girişimlerinin artması, bu alanda istihdam olanaklarını genişletebilmektedir. Ancak meslek, görece dar ve uzmanlaşmış bir istihdam alanına sahiptir; iş bulma olanakları sektördeki proje sayısına ve yatırımlara bağlı olarak değişkenlik gösterebilir.\"",
+ "kazanc": {
+  "egitim_suresince": "Lisans eğitimi süresince öğrenciler, Yüksek Öğrenim Kredi ve Yurtlar Kurumu Genel Müdürlüğünün sağladığı öğrenim ve harç kredisinden yararlanabilir; ayrıca üniversiteler, kamu kurumları ve özel kuruluşların sunduğu burs imkânlarından faydalanabilirler.",
+  "egitim_sonrasi": [
+   "Kamu kurum ve kuruluşlarında çalışanlar, 657 sayılı Devlet Memurları Kanunu'na göre belirlenen maaş ve yan haklardan yararlanır.",
+   "Özel sektörde ücret; kişinin deneyimi, uzmanlık düzeyi, çalıştığı kurumun büyüklüğü ve işin niteliğine göre değişkenlik gösterir; yeni başlayanlarda genellikle sektör ortalaması düzeyinde bir ücretle çalışılır.",
+   "Deneyim, yüksek lisans/doktora derecesi ve uzmanlaşılan alan (örneğin yörünge mekaniği, haberleşme sistemleri) kazancı olumlu etkileyebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Lisans eğitiminin ardından uzay, havacılık, makine veya elektrik-elektronik mühendisliği alanlarında yüksek lisans ve doktora yapılabilir; akademik kariyere yönelerek araştırma görevlisi veya öğretim üyesi olunabilir. Uluslararası kongre, sertifika programı ve ileri düzey teknik eğitimlere katılarak bilgi ve beceriler güncellenebilir.",
+  "is_hayatinda": "Deneyim kazanan mühendisler proje mühendisliği, sistem mühendisliği veya teknik ekip liderliği gibi görevlere yükselebilir. Yönetsel yetkinliklerini geliştirenler proje yöneticiliği, Ar-Ge birim yöneticiliği veya daha üst düzey teknik yöneticilik pozisyonlarına ilerleyebilir. Yabancı dil ve uluslararası proje deneyimi, kariyer ilerlemesinde önemli bir avantaj sağlar."
+ },
+ "gorevler": [
+  "Uydu alt sistemlerinin (güç, haberleşme vb.) teknik tasarımlarını yapar,",
+  "Fırlatma sistemleri ve yörünge mekaniği hesaplamalarını yürütür,",
+  "Uzay kalifikasyon testlerini (titreşim, termal vakum) planlar ve yönetir,",
+  "Yer istasyonu verilerini analiz ederek uydu sağlığını takip eder,",
+  "Yeni nesil uzay teknolojileri üzerine Ar-Ge projeleri hazırlar,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "benzer_meslekler": [
+  "Havacılık Mühendisi",
+  "Havacılık ve Uzay Mühendisi/Uzay Mühendisi",
+  "Uzay Mühendisi",
+  "Uçak Mühendisi",
+  "Uzay Bilimleri ve Teknolojileri Uzmanı",
+  "İtki ve Motor Sistemleri Uzmanı (Savunma Sanayi)"
+ ],
+ "ek_bilgiler": "\"Uzay ve uydu mühendisliği, Türkiye'de görece yeni ve sınırlı sayıda kurumda istihdam olanağı sunan özelleşmiş bir alandır. Savunma sanayii ve uzay teknolojileri kuruluşlarında çalışacak kişilerden güvenlik soruşturması gibi ek şartlar istenebilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, bu alanda yasal bir zorunluluk olmamakla birlikte bazı kurumlarda istihdamda tercih sebebi olabilir.\"",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-07T21:27:25",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 3982
+  }
+ }
+}

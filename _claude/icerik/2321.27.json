@@ -1,0 +1,78 @@
+{
+ "gorevler": [
+  "Eğitiminden sorumlu olduğu grubun düzeyine uygun bir çalışma planı hazırlar.",
+  "Sorumlu olduğu atölye, laboratuvar, işlik vb. yerleri eğitime hazır durumda tutar.",
+  "Kendisine ayrılan ders saatlerinde çalışma planını uygulayarak öğrencilere makine ve kalıp alanı ile ilgili bilgi ve beceriler kazandırır.",
+  "Öğrencilerin başarılarını ölçer, değerlendirir, sonuçları idareye bildirir.",
+  "Alanı ile ilgili gelişmeleri izler, ihtiyaçları saptar, bunların öğretim programlarına yansıtılması için ilgililere önerilerde bulunur.",
+  "Öğrencilerin gelişimlerine katkıda bulunacak eğitim-öğretim yöntemlerini geliştirir ve uygular.",
+  "Nöbetçi olduğu günlerde okulun düzen ve disiplinini sağlar.",
+  "Öğrencilerin gelişimlerini izler, sorunlarının çözümüne yardımcı olur.",
+  "Mesleği alanındaki gelişmeleri takip eder ve uygular.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "arac_gerec": [
+  "Alanı ile ilgili ders müfredatı, yıllık ve günlük çalışma planları, ders ve yoklama defterleri",
+  "Ders kitapları, bilgi ve iş-işlem yaprakları, teknik kataloglar ve yayınlar",
+  "Eğitim araçları (bilgisayar, projeksiyon cihazı, eğitim yazılımları, görsel sunum materyalleri)",
+  "Teknik resim takımları ve bilgisayar destekli tasarım/üretim (CAD/CAM) yazılımları",
+  "Torna, freze, matkap ve CNC tezgahları",
+  "Ölçme ve kontrol aletleri (kumpas, mikrometre, mihengir, komparatör)",
+  "Kalıp yapımında kullanılan el aletleri ve numune kalıp parçaları",
+  "Pres ve enjeksiyon kalıpları ile ilgili eğitim setleri",
+  "Kaynak, taşlama ve kesme makineleri",
+  "İş sağlığı ve güvenliği ekipmanları (koruyucu gözlük, eldiven, iş önlüğü)",
+  "Atölye ve laboratuvar donanımları, el aletleri ve ölçüm cihazları"
+ ],
+ "genel_ozellikler": [
+  "Fen ve teknolojiye ilgili, mantıksal ve analitik düşünebilen,",
+  "El ve göz koordinasyonu iyi, üç boyutlu düşünebilen,",
+  "Düşüncelerini açık ve anlaşılır biçimde aktarabilen, iyi bir öğrenme ortamı oluşturabilen,",
+  "Dikkatli, titiz ve işine özen gösteren,",
+  "Sabırlı, hoşgörülü, öğrencilerle ve çalışma arkadaşlarıyla iyi iletişim kurabilen,",
+  "Planlı ve düzenli çalışabilen,",
+  "Kendini ve mesleki bilgisini sürekli geliştirmeye istekli,",
+  "Girişimci ve yaratıcı"
+ ],
+ "calisma_ortami": "Makine ve Kalıp Öğretmeni, mesleki ve teknik eğitim kurumlarının sınıf, atölye ve laboratuvar ortamlarında görev yapar. Ders anlatımı sırasında genellikle ayakta ve hareketli çalışır; atölye uygulamalarında tezgah, makine ve el aletleriyle birlikte öğrencilere eşlik eder. Ortamda metal talaşı, yağ, gürültü ve kesici-delici alet kullanımına bağlı riskler bulunabileceğinden iş sağlığı ve güvenliği kurallarına uyulması önemlidir.\n\nÇalışma saatleri genellikle okulun ders programına göre gündüz saatleriyle sınırlıdır; nöbet görevleri ve bazı dönemlerde ek ders uygulamaları olabilir. Görevi sırasında öğrencilerin yanı sıra diğer öğretmenler, okul idaresi, veliler ve varsa staj yapılan işletme temsilcileriyle iletişim kurar.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi, üniversitelerin Teknoloji Fakülteleri veya Eğitim Fakültelerinin makine ve kalıp alanıyla ilgili öğretmenlik bölümlerinde verilir. Bu alanda doğrudan öğretmenlik bölümü bulunmayan dönemlerde veya kontenjanlarda, makine mühendisliği, imalat mühendisliği, makine ve kalıp teknolojisi gibi ilgili mühendislik/teknoloji bölümlerinden mezun olup Milli Eğitim Bakanlığı ve Yükseköğretim Kurulu işbirliğiyle açılan pedagojik formasyon eğitimi veya öğretmenlik meslek bilgisi programını tamamlayanlar da bu alanda öğretmen olarak atanabilir.",
+  "sure_ve_icerik": "Lisans eğitiminin süresi 4 yıldır. Eğitim süresince makine elemanları, teknik resim, malzeme bilgisi, imalat yöntemleri, kalıpçılık, CAD/CAM uygulamaları gibi mesleki derslerin yanı sıra öğretmenlik meslek bilgisi dersleri (eğitim bilimleri, öğretim yöntemleri, ölçme-değerlendirme vb.) okutulur. Öğrenciler genellikle ara sınıflarda işletmelerde staj, son sınıfta ise okullarda öğretmenlik uygulaması yapar.",
+  "belge": "Eğitimini başarı ile tamamlayanlara lisans diploması verilir. Öğretmen olarak atanabilmek için ayrıca pedagojik formasyon eğitimi/öğretmenlik meslek bilgisi sertifikasına ve ilgili atama şartlarına (KPSS, alan sınavı vb.) sahip olmak gerekir.",
+  "giris_kosullari": [
+   "Lise veya dengi okul mezunu olmak,",
+   "YKS (Yükseköğretim Kurumları Sınavı) sonucunda ilgili lisans programı için yeterli puanı almış olmak ve o programı tercih etmiş olmak,",
+   "Meslek yüksekokulu veya açıköğretim ön lisans programlarının ilgili bölümlerinden mezun olanlar, Dikey Geçiş Sınavı (DGS) ile ilgili lisans programına geçiş yapabilir."
+  ]
+ },
+ "calisma_alanlari": "Makine ve Kalıp Öğretmeni, başta Milli Eğitim Bakanlığına bağlı mesleki ve teknik ortaöğretim kurumları (meslek liseleri, teknik liseler, mesleki eğitim merkezleri) olmak üzere, halk eğitim merkezleri ve bazı özel öğretim kurumlarında atölye ve meslek dersi öğretmeni olarak çalışabilir. Kamu kurumlarında genellikle Kamu Personeli Seçme Sınavı (KPSS) sonucuna göre, 657 sayılı Devlet Memurları Kanunu çerçevesinde öğretmen olarak atanır; özel öğretim kurumlarında ise kurumla yapılan sözleşme çerçevesinde çalışılır. Alanındaki mesleki tecrübesine bağlı olarak sanayi kuruluşları, meslek odaları ve İŞKUR'un açtığı mesleki eğitim kurslarında eğitmen/usta öğretici olarak da görev alabilir.",
+ "kazanc": {
+  "egitim_suresince": "Örgün lisans eğitimi süresince genellikle düzenli bir gelir elde edilmez; öğrenciler KYK bursu veya kredisi gibi destekler alabilir. Staj dönemlerinde işletmelerde yapılan uygulamalı eğitim karşılığında genellikle asgari ücret düzeyinde bir ödeme yapılabilir.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında çalışan öğretmenlerin ücretleri 657 sayılı Devlet Memurları Kanunu'na göre belirlenen maaş ve ek ders ücretlerinden oluşur.",
+   "Özel öğretim kurumlarında ücret, kurum ile yapılan sözleşmeye, deneyime ve kurumun büyüklüğüne göre değişir; yeni başlayanlarda genellikle asgari ücret düzeyinde olabilir.",
+   "Sanayi kuruluşlarında eğitmen/usta öğretici olarak çalışanların kazancı, işletmenin büyüklüğü ve deneyime göre değişiklik gösterir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Lisans eğitimini tamamlayanlar, alanında veya eğitim bilimleri alanında yüksek lisans ve doktora eğitimi yaparak akademik kariyer yapabilir; ayrıca CAD/CAM, CNC teknolojileri gibi güncel konularda sertifika programlarına katılarak alan bilgisini güncelleyebilir.",
+  "is_hayatinda": "Mesleki deneyim ve kıdem kazandıktan sonra alan/bölüm şefliği, zümre başkanlığı, müdür yardımcılığı ve okul müdürlüğü gibi idari görevlere; ayrıca il/ilçe milli eğitim müdürlüklerinde uzman veya eğitim müfettişliği gibi görevlere yükselme imkânı bulunur."
+ },
+ "benzer_meslekler": [
+  "Motorlu Araçlar Teknolojisi Öğretmeni",
+  "Plastik Teknolojisi Öğretmeni",
+  "Kaynak Öğretmeni",
+  "Endüstriyel Otomasyon Teknolojileri Öğretmeni",
+  "Tekstil Makineleri Öğretmeni",
+  "Raylı Sistemler Makine Öğretmeni"
+ ],
+ "ek_bilgiler": "Atölye ortamında tezgah ve makinelerle çalışıldığından iş sağlığı ve güvenliği eğitimi bu meslekte özel önem taşır. Alanla ilgili Mesleki Yeterlilik Kurumu (MYK) belgesine sahip olmak, istihdamda ve ek eğitmenlik görevlerinde tercih sebebi olabilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T02:55:09",
+  "usage": {
+   "input_tokens": 4,
+   "output_tokens": 10836
+  }
+ }
+}

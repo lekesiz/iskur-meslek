@@ -1,0 +1,69 @@
+{
+ "arac_gerec": [
+  "Havuz kapılarını açıp kapatan motor ve tahrik sistemleri",
+  "Elektrik kumanda panosu ve kontrol teçhizatı",
+  "Hidrolik/elektrikli vinç ve açma-kapama mekanizmaları",
+  "Haberleşme cihazları (telsiz, telefon)",
+  "Sinyalizasyon ve ikaz sistemleri (ışıklı/sesli uyarı düzenleri)",
+  "Kayıt defteri ve kayıt formları",
+  "Yağlama ekipmanları (gres pompası, yağdanlık)",
+  "Basit bakım ve tamir el aletleri",
+  "Koruyucu donanım (baret, iş elbisesi, can yeleği, bot)",
+  "El feneri",
+  "Haberleşme ve gözlem için dürbün"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve sorumluluk sahibi,",
+  "Mekanik ve elektrik tesisatına ilgi duyan,",
+  "El ve göz koordinasyonu iyi gelişmiş,",
+  "İşitme ve görme duyuları sağlıklı,",
+  "Değişen hava koşullarında çalışmaya istekli,",
+  "Takım çalışmasına uyumlu,",
+  "Kurallara ve talimatlara bağlı çalışabilen,",
+  "Hızlı ve doğru karar verebilen,"
+ ],
+ "benzer_meslekler": [
+  "Köprü Operatörü (Açılır-Kapanır Köprüler)",
+  "Liman Pompa ve Tank Saha Operatörü",
+  "Rıhtım Vinç Operatörü"
+ ],
+ "calisma_ortami": "Havuz operatörü (kanal ve liman), görevini kanal veya liman sahasında bulunan kontrol kabini ile açık hava koşullarında birlikte yürütür. Çalışma ortamı; rüzgâr, yağmur, nem, soğuk veya sıcak hava gibi değişken dış koşullara açıktır; su kenarında çalışılması nedeniyle düşme ve kayma riski bulunur. Deniz/kanal trafiğinin sürekliliği nedeniyle çalışma genellikle vardiyalı sistemle, gece dahil farklı saatlerde yürütülebilir.\n\nOperatör, görevi sırasında liman ve kanal işletme yöneticileri, diğer liman personeli, gemi kaptanları ve trafik kontrol görevlileri ile sürekli iletişim halindedir. Dikkatsizlik ve iletişim eksikliği, teknelerin geçişinde kazalara veya gecikmelere yol açabileceğinden işini büyük bir dikkat ve sorumluluk anlayışıyla yürütmesi gerekir.",
+ "egitim": {
+  "verildigi_yerler": "Bu mesleğe yönelik ulusal düzeyde standart bir örgün mesleki eğitim programı bulunmamaktadır. Mesleğe genellikle ilköğretim veya ortaöğretim mezunu olarak girilir ve beceriler işbaşında, deneyimli operatörlerin yanında usta-çırak ilişkisi içinde kazanılır. Liman ve kanal işletmeciliği yapan kamu kurumları (liman işletmeleri, kanal/boğaz işletme müdürlükleri, belediyeler) kendi personeline yönelik hizmet içi eğitimler düzenleyebilir. Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kursları, temel elektrik-mekanik bilgisi ve iş güvenliği konularında destekleyici eğitimler sunabilir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "18 yaşını doldurmuş olmak",
+   "Görevin yapılmasını engelleyecek bir sağlık sorunu bulunmamak, özellikle işitme ve görme sağlığının iyi olması",
+   "Açık havada ve su kenarında çalışmaya uygun olmak"
+  ],
+  "sure_ve_icerik": "Standart bir kurs süresi ve müfredatı bulunmamaktadır. İşe yeni başlayanlar, işyerinde deneyimli operatörlerin gözetiminde işbaşı eğitimi alarak havuz kapı mekanizmalarının ve elektrik teçhizatının çalıştırılmasını, bakım-onarım işlemlerini, teknelere ilişkin bilgilerin kaydını tutmayı ve iş güvenliği kurallarını öğrenirler. Kurumlarca düzenlenen hizmet içi eğitimlerde temel elektrik-mekanik bilgisi, iş sağlığı ve güvenliği, haberleşme ve kayıt sistemleri konularında eğitim verilebilir.",
+  "belge": "Mesleğe özgü, ulusal düzeyde zorunlu bir diploma veya sertifika bulunmamaktadır. Çalışılan kurumun düzenlediği hizmet içi eğitimler sonunda katılım belgesi verilebilir; ayrıca iş sağlığı ve güvenliği eğitimi belgesi gibi mevzuatın gerektirdiği belgelere sahip olmak gerekebilir."
+ },
+ "calisma_alanlari": "Havuz operatörleri (kanal ve liman), kanal ve liman işletmeciliği yapan kamu kurumları (liman işletmeleri, kanal/boğaz işletme müdürlükleri, belediyeler, ilgili altyapı kuruluşları) ile özel liman işletmelerinde istihdam edilebilir. Ülkemizde bu özellikteki kanal ve liman havuzlarının sayısı sınırlı olduğundan, meslekte istihdam kapasitesi görece sınırlıdır. Yeni kanal ve liman projelerinin işletmeye alınması durumunda bu alanda ilave personel ihtiyacı doğabilir.",
+ "ek_bilgiler": "Mesleğin uygulandığı kanal ve liman havuzlarının sayısının sınırlı olması nedeniyle istihdam olanakları görece azdır ve çoğunlukla kamu kurumlarında istihdam söz konusudur. Görevin su kenarında ve elektrik-mekanik teçhizatla yürütülmesi nedeniyle iş sağlığı ve güvenliği kurallarına uyum büyük önem taşır.",
+ "gorevler": [
+  "Kanal veya limanlarda havuzların açılıp kapatılmasını sağlayan makineleri ve elektrik teçhizatını çalıştırır.",
+  "Teçhizatı temizler, yağlar ve ufak tamir işlerini yapar.",
+  "Teknelerin sayısına, tipine, seyir istikametine, su kesimlerine, hava şartlarına ve diğer hususlara ait bilgilerin kaydını tutar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğe yönelik kademeli, resmî bir eğitim/sertifikasyon programı bulunmamaktadır. Deneyim kazanan operatörler, kurumlarının düzenlediği ileri düzey hizmet içi eğitimlere ve sertifika programlarına katılarak bilgi ve becerilerini geliştirebilir.",
+  "is_hayatinda": "Deneyimli operatörler, çalıştıkları kurum bünyesinde ekip sorumlusu, vardiya amiri veya liman/kanal işletme teknik personeli gibi daha üst sorumluluk gerektiren görevlere yükselebilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Mesleğe özgü bağımsız bir kurs bulunmadığından, beceriler genellikle işbaşında kazanılır; bu süreçte çalışan işyerinde istihdam ediliyorsa ücret alabilir.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında istihdam edilenler, memur statüsündeyse 657 sayılı Devlet Memurları Kanunu'na, işçi statüsündeyse ilgili toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde çalışanların kazancı işyerinin büyüklüğüne, çalışanın tecrübesine, bilgi ve becerisine göre değişir; işe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T18:52:44",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6650
+  }
+ }
+}

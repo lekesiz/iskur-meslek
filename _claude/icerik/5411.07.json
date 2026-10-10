@@ -1,0 +1,84 @@
+{
+ "arac_gerec": [
+  "Dürbün ve gözetleme ekipmanları",
+  "Telsiz, telefon ve haberleşme cihazları",
+  "Arazöz ve yangın söndürme araçları",
+  "Motorlu testere (motorlu bıçkı) ve budama aletleri",
+  "Balta, kazma, kürek ve çapa",
+  "Sırt pompası / yangın söndürme tüfeği",
+  "Kişisel koruyucu donanım (yangına dayanıklı kıyafet, baret, eldiven, bot, maske/gözlük)",
+  "İlk yardım çantası",
+  "GPS, harita ve pusula",
+  "Yangınla mücadelede kullanılan su, toprak ve kimyasal söndürücü maddeler",
+  "Gözetleme kulesi ekipmanları",
+  "Arazi tipi taşıtlar (pikap, arazöz vb.)"
+ ],
+ "genel_ozellikler": [
+  "Fiziksel olarak güçlü ve dayanıklı,",
+  "Soğukkanlı, hızlı ve doğru karar verebilen,",
+  "Dikkatli ve sorumluluk sahibi,",
+  "Ekip halinde uyum içinde çalışabilen,",
+  "Zorlu arazi, iklim ve çalışma koşullarına dayanıklı,",
+  "Sağlık durumu bu işin gerektirdiği fiziksel efora uygun,",
+  "Doğaya ve çevreye duyarlı,",
+  "Yüksekte (gözetleme kulesi) ve sınırlı alanlarda çalışmaktan çekinmeyen"
+ ],
+ "calisma_ortami": "Orman itfaiyecisi, genellikle açık havada, ormanlık ve dağlık arazide görev yapar; zaman zaman gözetleme kulelerinde yüksekte nöbet tutar. Çalışma yoğunluğu özellikle sıcak ve kurak geçen yangın mevsiminde (ilkbahar sonu-yaz-sonbahar başı) artar; bu dönemlerde uzun saatler, vardiyalı ve bazen gece dahil çalışma gerekebilir. Yangın söndürme çalışmaları sırasında sıcak, duman, kıvılcım, düşme, yanık, böcek/yılan ısırığı gibi riskler bulunduğundan kişisel koruyucu donanım kullanımı önemlidir.\n\nGörev, büyük ölçüde ekip halinde yürütülür; orman mühendisleri, orman muhafaza memurları, diğer yangın söndürme ekipleri, jandarma ve gerektiğinde AFAD gibi kurumlarla koordineli çalışılır. İş, fiziksel dayanıklılık, hızlı hareket edebilme ve ekip içi iletişim gerektirir.",
+ "egitim": {
+  "verildigi_yerler": "Orman itfaiyeciliği için ayrı, resmi bir örgün eğitim programı (ön lisans/lisans) bulunmamaktadır. Mesleğe genellikle Orman Genel Müdürlüğü ve bağlı birimlerinde mevsimlik veya sürekli işçi statüsünde yapılan personel alımlarıyla girilir; göreve başlayanlar kurumun düzenlediği hizmet içi eğitimler ve orman yangınlarıyla mücadele kursları ile yetiştirilir. Orman mühendisliği gibi ilgili lisans programları, orman yangınlarıyla mücadelenin teknik ve yönetim boyutuna yönelik eğitim verir; ancak itfaiyeci (uygulayıcı) kadroları için bu eğitim şart değildir.",
+  "giris_kosullari": [
+   "En az ortaöğretim (lise ve dengi) mezunu olmak",
+   "Görevin gerektirdiği fiziksel efora uygun, sağlıklı olmak",
+   "İlgili kurumun açtığı personel alım ilan ve sınavlarında başarılı olmak",
+   "Kurumun belirlediği yaş sınırları içinde bulunmak",
+   "Erkek adaylar için askerlik hizmetiyle ilişkisi bulunmamak (kurumun talep ettiği şartlara göre)"
+  ],
+  "sure_ve_icerik": "Standart ve zorunlu bir eğitim süresi ile müfredatı bulunmamaktadır. Göreve yeni başlayanlar, genellikle kısa süreli hizmet içi eğitimlerle (yangın söndürme teknikleri, arazi oryantasyonu, telsiz kullanımı, ilk yardım, kişisel koruyucu donanım kullanımı, ekip çalışması ve iş güvenliği gibi konularda) yetiştirilir. Mesleki bilgi ve beceriler büyük ölçüde işbaşında, deneyimli personelin gözetiminde uygulamalı olarak kazanılır.",
+  "belge": "Mesleğe özgü zorunlu bir diploma veya ulusal sertifika bulunmamaktadır; kurum tarafından verilen hizmet içi eğitim katılım belgesi düzenlenebilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Orman itfaiyecileri başta Orman Genel Müdürlüğü ve bağlı orman işletme müdürlükleri olmak üzere, orman yangınlarıyla mücadele ekiplerinde mevsimlik veya sürekli işçi statüsünde istihdam edilir. Bazı belediyelerin orman ve yeşil alan birimleri ile sınırlı sayıda özel orman işletmesinde de görev alınabilir. İş yoğunluğu, özellikle yangın riskinin yüksek olduğu yaz aylarında artar; kış aylarında personel farklı orman bakım ve koruma işlerinde görevlendirilebilir. İstihdam ağırlıklı olarak kamu eliyle sağlanmakta olup iş bulma olanağı bölgenin orman varlığına ve yangın riskine göre değişiklik gösterir.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğe özgü ayrı bir örgün eğitim dönemi bulunmadığından bağımsız bir öğrencilik kazancı yoktur; işe alınanlar hizmet içi eğitim sürecinde de normal ücretlerini almaya başlarlar.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında (Orman Genel Müdürlüğü vb.) sürekli veya mevsimlik işçi statüsünde çalışanların ücreti ilgili toplu iş sözleşmesi hükümlerine göre belirlenir.",
+   "Özel sektörde veya belediyelerde çalışanların kazancı işletmenin büyüklüğüne, bölgeye ve deneyime göre değişmekle birlikte, yeni başlayanlarda genellikle asgari ücret düzeyinde olabilir.",
+   "Kıdem, ekip amirliği/çavuşluk gibi görevlere yükselme ve mevsimlik çalışmanın sürekli kadroya dönüşmesi kazancı olumlu etkileyebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Çalışırken alınan hizmet içi eğitimler ve kazanılan deneyim, ekip amirliği, çavuşluk gibi kademelere yükselmede etkili olur. İlgili lisans programlarını (örneğin orman mühendisliği) tamamlayanlar, orman yangınlarıyla mücadelede teknik veya yönetici kadrolara geçiş yapabilir.",
+  "is_hayatinda": "Deneyim kazanan orman itfaiyecileri; ekip amirliği, çavuşluk, başçavuşluk gibi kademelere veya kurum içi sınavlarla orman muhafaza memurluğu gibi benzer görevlere yükselebilir. Mevsimlik işçi olarak başlayanlar, kurumun kadro olanaklarına bağlı olarak sürekli işçi statüsüne geçebilir."
+ },
+ "benzer_meslekler": [
+  "Diğer İtfaiyeciler ve İlgili İşçiler",
+  "İtfaiye Çavuşu",
+  "İtfaiye Onbaşısı",
+  "İtfaiye Başçavuşu",
+  "İtfaiyeci",
+  "Orman Muhafaza Memuru",
+  "Yangın İlk Müdahale İşçisi",
+  "Arama Kurtarma Elemanı",
+  "Afet Müdahale Elemanı"
+ ],
+ "ek_bilgiler": "Orman itfaiyeciliği, yangın riskinin mevsimsel olarak yoğunlaşması nedeniyle özellikle yaz aylarında artan iş yüküyle yürütülen, yüksek fiziksel dayanıklılık ve ekip çalışması gerektiren bir meslektir. Görev, yangınla mücadele sırasında ortaya çıkan ısı, duman ve yanma riskleri nedeniyle dikkat ve iş güvenliği kurallarına uyumu önemli kılar; kişisel koruyucu donanımın doğru kullanımı bu meslekte büyük önem taşır.",
+ "gorevler": [
+  "Belirlenen orman alanını dolaşır.",
+  "Gözetleme kulesinden gözle veya dürbünle gözetleme yapar.",
+  "Yangın gördüğünde telsiz, telefon ya da diğer yollarla yangını ilgililere bildirir.",
+  "Gerekli teçhizatı kuşanarak yangın söndürme ekibine katılır ve yangın mahalline gider.",
+  "Yangının çevreye sıçramaması için gerekli teçhizatı kullanarak ağaçların dallarını keser.",
+  "Hendek açar.",
+  "Yangını su, toprak ve kimyasal maddelerle söndürmeye çalışır.",
+  "Yangın alanını temizler.",
+  "Yangın araçlarının bakım ve temizliğini yapar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T19:42:56",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6943
+  }
+ }
+}

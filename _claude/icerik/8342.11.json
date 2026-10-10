@@ -1,0 +1,86 @@
+{
+ "arac_gerec": [
+  "Greyder",
+  "İşe uygun ataşmanlar (bıçak, skarifikatör vb.)",
+  "Yıldız ve çift ağızlı anahtar, pense, tornavida gibi el aletleri",
+  "Yağdanlık ve çeşitli madeni yağlar",
+  "Akaryakıt",
+  "Üstübü, hava filtreleri",
+  "Toz gözlüğü, eldiven, baret, iş elbisesi",
+  "Çelik ve kendir halatlar",
+  "Yedek lastik/palet parçaları",
+  "Bakım ve kontrol kayıt formları",
+  "Telsiz veya diğer iletişim cihazları"
+ ],
+ "genel_ozellikler": [
+  "Elleri, gözleri ve ayaklarını eşgüdümle kullanabilen,",
+  "Çevresindeki çeşitli uyarıcıları aynı anda algılayabilen,",
+  "Mekaniğe ilgili,",
+  "Dikkatli, sorumlu ve tedbirli,",
+  "Açık havada ve zor hava koşullarında çalışmaya elverişli bedensel yapıya sahip,",
+  "Sabırlı ve kararlı,",
+  "Takım çalışmasına yatkın,",
+  "Teknik yenilikleri takip etmeye istekli,"
+ ],
+ "calisma_ortami": "Greyder Operatörü çalışmalarını açık havada, yol yapım-onarım şantiyelerinde, maden ocaklarında veya arazide, araç kabini içinde oturarak yürütür. Çalışma ortamı tozlu ve gürültülü olabilir; sıcak, soğuk, yağmurlu veya karlı hava koşullarında görev yapılması gerekebilir. Kar temizleme işlerinde gece dahil vardiyalı ve acil çağrı esaslı çalışma söz konusu olabilir. Araç kullanımı sırasında titreşime maruz kalınır ve dikkatsizlik ciddi iş kazalarına yol açabilir.\n\nGreyder Operatörü işini genellikle araç içinde tek başına yürütür; iş öncesinde ve sonrasında şantiye şefi, mühendis, teknisyen, makine bakımcıları ve diğer operatörlerle iletişim kurar.",
+ "gorevler": [
+  "Çalışma alanını inceler,",
+  "İşe uygun ataşmanları seçer,",
+  "Greyderin temizliğinin ve periyodik bakımının yapılmasını sağlar,",
+  "Sızıntı kontrollerini yapar,",
+  "Yağ ve yakıt seviyelerini kontrol eder,",
+  "Mekanik aksamların kontrolünü yapar,",
+  "Fren testi yapar,",
+  "Basit arıza ve eksiklikleri giderir, büyük arıza ve eksiklikleri yetkiliye bildirir,",
+  "Greyderin bakım ve kontrol kayıtlarını tutar,",
+  "Şev keser,",
+  "Hendek açar,",
+  "Yola eğim (dever) verir,",
+  "Malzeme serer,",
+  "Zemin ince tesviyesi (reglaj) yapar,",
+  "Zemin gevşetme işlemleri yapar,",
+  "Kar temizler,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi; Milli Eğitim Bakanlığına bağlı özel motorlu taşıt sürücüleri kurslarında (iş makinesi operatörlüğü), Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kurslarında, bazı meslek odalarının düzenlediği kurslarda ve işbaşında usta yanında verilmektedir.",
+  "giris_kosullari": [
+   "18 yaşını doldurmuş olmak",
+   "En az ilkokul mezunu olmak",
+   "Operatörlük yapmaya engel teşkil edecek bir sağlık sorunu bulunmamak",
+   "İlgili kurs/sertifika programlarının kendi yönergelerinde belirtilen diğer şartları taşımak"
+  ],
+  "sure_ve_icerik": "İş makinesi operatörlüğü kurslarında teorik ve pratik dersler verilir; trafik bilgisi, motor bilgisi, ilk yardım, iş makinesinin teknik yapısı ve sistemleri, periyodik bakımı, güvenli ve verimli kullanımı gibi konular işlenir. Bunun yanında, özellikle küçük işletmelerde işbaşında usta yanında çalışarak mesleği öğrenme yaygın bir yoldur. Kamu kurumlarında göreve başlayanlara ayrıca hizmet içi eğitim verilebilir.",
+  "belge": "Kursu başarıyla tamamlayanlara İş Makinesi Operatörü (G sınıfı) sürücü sertifikası/belgesi verilir. Greyderin karayoluna çıkarılarak kullanılabilmesi için bu belgenin sürücü belgesine (ehliyete) işlenmesi gerekir; işyeri sınırları içinde kullanım için bu belge yeterli olabilir."
+ },
+ "calisma_alanlari": "Greyder Operatörleri; Karayolları Genel Müdürlüğü, Devlet Su İşleri, belediyeler gibi kamu kurum ve kuruluşlarında, ayrıca yol yapım ve onarım firmaları, inşaat şirketleri, maden ve taş ocağı işletmeleri gibi özel sektör işyerlerinde görev alabilirler. Yol yapım çalışmalarının ve kış mevsiminde kar mücadelesi hizmetlerinin yoğun olduğu bölgelerde istihdam olanağı daha fazladır.",
+ "kazanc": {
+  "egitim_suresince": "Kurs döneminde genellikle bir kazanç söz konusu değildir. İşbaşında usta yanında yetişenler, bulundukları işyerinde yardımcı eleman olarak çalışmaları karşılığında sınırlı bir gelir elde edebilirler.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında istihdam edilenler 657 sayılı Devlet Memurları Kanunu'na veya işçi statüsünde çalışıyorlarsa ilgili toplu iş sözleşmesi hükümlerine göre ücret alırlar.",
+   "Özel sektörde yeni başlayanlar genellikle asgari ücret düzeyinde gelir elde eder; işletmenin büyüklüğü, çalışanın deneyimi ve bilgi birikimi, çalışma kapasitesi ve sektörün genel ücret düzeyine göre kazanç değişebilir.",
+   "Deneyim arttıkça ve farklı iş makinelerinin kullanımında yetkinlik kazanıldıkça kazanç olanakları da artabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Ek kurs ve sertifika programlarıyla diğer iş makinelerinin (ekskavatör, buldozer, silindir vb.) kullanımında yetkinlik kazanılabilir.",
+  "is_hayatinda": "Deneyim kazanıp başarılı performans gösteren operatörler baş operatör, ustabaşı veya makine parkı şefi gibi görevlere yükselebilir. Mesleki Yeterlilik Kurumu (MYK) belgesine sahip olmak istihdamda tercih sebebi olabilir."
+ },
+ "benzer_meslekler": [
+  "Buldozer-Dozer Operatörü",
+  "Ekskavatör (Kazıma ve Yükleme) Operatörü",
+  "Hendek Açma Makinesi Operatörü",
+  "Kar Temizleme Makinesi Operatörü",
+  "Skreyper Operatörü",
+  "Beko Loder (Kazıcı - Yükleyici) Operatörü"
+ ],
+ "ek_bilgiler": "Greyder, önünde ayarlanabilir geniş bir bıçağı bulunan, yol ve arazi yüzeylerinin tesviyesi, şev kesme, hendek açma, eğim verme ve kar temizleme gibi işlerde kullanılan ağır iş makinesidir. Kar mücadelesi hizmetlerinde görev alan operatörler, kış aylarında gece dahil vardiyalı ve acil durum esaslı çalışabilirler.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T18:36:46",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5267
+  }
+ }
+}

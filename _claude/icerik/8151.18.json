@@ -1,0 +1,73 @@
+{
+ "arac_gerec": [
+  "Kendir bükme makinesi",
+  "Boş ve dolu bobinler",
+  "Kılavuz ve germe aparatları",
+  "Sap bağlama/düğümleme aparatları",
+  "Makas ve el aletleri",
+  "Koruyucu eldiven",
+  "Kulak koruyucu (gürültüye karşı)",
+  "Toz maskesi",
+  "Makine bakım ve temizlik gereçleri (yağ, bez vb.)",
+  "Buhar ünitesi veya ısıtma tertibatı (halat üretiminde tüy ütüleme için)"
+ ],
+ "genel_ozellikler": [
+  "El ve parmak becerisine sahip,",
+  "Dikkatli ve sabırlı,",
+  "Makine ve mekanik aletlerle çalışmaya istekli,",
+  "Fiziksel olarak dayanıklı,",
+  "Takım halinde çalışmaya uyumlu,",
+  "Düzenli ve tertipli çalışabilen,",
+  "Vardiyalı çalışma düzenine uyum sağlayabilen"
+ ],
+ "calisma_ortami": "Kendir bükücü operatörleri, kendir, kırnap ve halat üretimi yapan fabrika ve atölyelerde, kapalı mekânlarda çalışır. Çalışma ortamı makinelerin çalışmasından kaynaklanan gürültüye sahip olabilir; yeterli havalandırma bulunmayan işyerlerinde elyaf tozu havada bulunabilir. Bu nedenle çalışanların koruyucu donanım kullanması önemlidir.\n\nGörev genellikle tam gün sürdürülür, işletmenin üretim düzenine göre vardiyalı çalışma söz konusu olabilir. Operatör çalışırken büyük ölçüde makine ve hammadde (kendir sapı, bobin) ile ilgilenir; zaman zaman ustabaşı, iş arkadaşları ve bakım personeliyle iletişim kurar. İş, genellikle ayakta ve belirli ölçüde fiziksel güç ve dikkat gerektiren bir biçimde yürütülür.",
+ "gorevler": [
+  "Bükülecek kendir saplarının uçlarını birleştirerek makinenin kılavuzlarından geçirip boş bobinlerin gövdelerine bağlar.",
+  "Makineyi çalıştırır; makinenin çalışmasını ve sapların bükülerek bobinlere sarılışını kontrol eder.",
+  "Kopan sapların uçlarını parmak hareketleriyle birbirine bağlar.",
+  "Dolan bobinleri değiştirir, makineye sap ikmali yapar.",
+  "Makineyi temizler, makinenin bakım ve onarımını yapar.",
+  "Halat imal ederken saplar üzerindeki tüylerin ütülenmesi için makineyi ısıtır veya makineye buhar gönderir.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Kendir bükücü operatörlüğünün örgün bir okul eğitimi bulunmamaktadır. Meslek genellikle işbaşında, usta yanında çalışılarak veya kendir/halat üreten işletmelerin kendi bünyesinde düzenlediği kısa süreli uygulamalı eğitimlerle öğrenilir. Ayrıca Halk Eğitim Merkezleri ve İŞKUR tarafından açılan mesleki eğitim kurslarında da ilgili temel bilgi ve beceriler kazandırılabilir.",
+  "giris_kosullari": [
+   "İlköğretim mezunu olmak",
+   "Çalışma mevzuatına göre belirlenen asgari çalışma yaşını doldurmuş olmak",
+   "Mesleği yapmaya engel bir sağlık sorununun bulunmaması"
+  ],
+  "sure_ve_icerik": "Mesleğin eğitim süresi ve içeriği, eğitimin verildiği işletme veya kuruma göre değişiklik gösterir. İşbaşı eğitiminde, usta gözetiminde makinenin tanıtımı, sap bağlama ve düğümleme teknikleri, bobin değiştirme, iş sağlığı ve güvenliği kuralları ile makinenin temel bakımı fiili uygulama yoluyla öğretilir. Kurs programları açılması hâlinde de benzer konular teorik ve uygulamalı olarak işlenir.",
+  "belge": "Kurs yoluyla alınan eğitimlerde katılımcılara 'Kurs Bitirme Belgesi' verilebilir. İşbaşında usta yanında kazanılan beceriler için resmî bir belge düzenlenmeyebilir; bu durumda çalışan, işletmede edindiği deneyim ve referanslarla mesleğini sürdürür."
+ },
+ "calisma_alanlari": "Kendir bükücü operatörleri, kendir, jüt, sisal gibi doğal elyaftan kırnap, ip ve halat üreten iplik ve tekstil işletmelerinde, özellikle elyaf hazırlama ve bükme bölümlerinde çalışır. Bu tür doğal elyaf işleme tesisleri günümüzde sentetik elyaf ve halat üretiminin yaygınlaşması nedeniyle sınırlı sayıda işletmede sürdürülmektedir; bu nedenle iş bulma olanakları bölgesel üretim yoğunluğuna ve sektörel talebe bağlı olarak değişkenlik gösterir. Kamu kurumlarında bu meslek için doğrudan bir istihdam alanı bulunmamaktadır.",
+ "kazanc": {
+  "egitim_suresince": "İşbaşında eğitim alınması durumunda, çalışılan süre için işletme tarafından belirlenen bir ücret ödenebilir. Kurs yoluyla alınan eğitimlerde ise genellikle ayrıca bir kazanç söz konusu değildir.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanların kazancı genellikle asgari ücret düzeyinde olmaktadır.",
+   "Deneyim, bilgi birikimi ve çalışılan işletmenin üretim hacmine bağlı olarak ücret düzeyi artabilir.",
+   "Özel sektörde çalışma koşulları ve ücret, işveren ile çalışan arasında karşılıklı anlaşmaya göre belirlenir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "İşletme bünyesinde düzenlenebilecek hizmet içi eğitimlerle makine bakımı, kalite kontrolü ve farklı bükme/büküm makinelerinin kullanımı konusunda bilgi ve beceri geliştirilebilir.",
+  "is_hayatinda": "Deneyim kazanan operatörler, çalıştıkları işyerinde usta, ustabaşı veya vardiya sorumlusu gibi görevlere yükselebilir; üretim sürecinin takibinden sorumlu kademelere geçebilir."
+ },
+ "benzer_meslekler": [
+  "Kendir Elyaf Bükücü Operatörü",
+  "Keten Elyaf Bükücü",
+  "İp Büküm Makinesi Operatörü",
+  "Halat Sarma Makinesi Operatörü-Tekstil",
+  "Kendir Etraj Makinesi İşçisi",
+  "Kendir Kesme Makinesi İşçisi"
+ ],
+ "ek_bilgiler": "Kendir bükücülük, doğal elyaftan halat ve kırnap üretimine dayanan geleneksel bir üretim koludur. Sentetik elyaf ve otomasyonlu üretim teknolojilerinin yaygınlaşması nedeniyle bu mesleğin uygulandığı işletme sayısı ve istihdam hacmi azalma eğilimi göstermektedir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T13:26:32",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5630
+  }
+ }
+}

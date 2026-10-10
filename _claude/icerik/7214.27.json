@@ -1,0 +1,91 @@
+{
+ "arac_gerec": [
+  "Kaynak makinesi (elektrik ark kaynağı/MIG-MAG)",
+  "Metal kesme makinesi (flex/taşlama)",
+  "Metal testeresi veya hızar",
+  "Matkap ve delme tezgahı",
+  "Bükme (profil/boru bükme) makinesi veya presi",
+  "Bilgisayar kontrollü kesim/büküm tezgahları (CNC, varsa)",
+  "Ölçme ve kontrol aletleri (metre, gönye, çap pergeli, kumpas, su terazisi)",
+  "El aletleri (çekiç, pense, anahtar takımı, tornavida)",
+  "Taşlama diski ve zımpara",
+  "Kaynak maskesi, eldiven ve koruyucu iş kıyafeti",
+  "Montaj iskelesi veya seyyar merdiven",
+  "Kaldırma ve taşıma ekipmanları (vinç, el arabası)",
+  "Teknik resim ve ölçü aletleri",
+  "Boya ve yüzey işleme ekipmanları"
+ ],
+ "genel_ozellikler": [
+  "El becerisine sahip,",
+  "Dikkatli ve sabırlı,",
+  "Fiziksel olarak güçlü ve dayanıklı,",
+  "El ve gözünü eşgüdümle kullanabilen,",
+  "Şekil ve ölçüleri zihinde canlandırabilen,",
+  "Teknik resim ve krokileri okuyup uygulayabilen,",
+  "İş güvenliği kurallarına duyarlı,",
+  "Ekip halinde çalışmaya uyumlu,"
+ ],
+ "calisma_ortami": "Korkuluk imal işçileri genellikle atölye ortamında çalışır; imalatın bir bölümü (ölçü alma, montaj, yerine sabitleme) ise inşaat şantiyeleri, bina cepheleri veya açık havada yapılır. Çalışma ortamı kaynak dumanı, metal tozu ve gürültü içerebilir; kesme, taşlama ve kaynak işlemleri sırasında yanma, kesilme ve göz yaralanması gibi riskler bulunduğundan koruyucu ekipman (eldiven, gözlük, maske, kaynak maskesi) kullanılması gerekir. Çalışma genellikle ayakta ve bazen yüksekte veya dar alanlarda yapılır, ağır malzemelerin kaldırılması ve taşınması işin bir parçasıdır.\n\nMesleğin icrası sırasında işveren, iş arkadaşları, usta/ustabaşı ile sürekli iletişim kurulur; bazı durumlarda ölçü alma ve montaj için müşteri ya da inşaat ekibiyle de çalışılır. Çalışma saatleri genellikle gündüz ve işyerinin iş yoğunluğuna göre değişebilir; proje teslim tarihlerine göre fazla çalışma gerekebilir.",
+ "gorevler": [
+  "İş sağlığı ve güvenliği konusundaki yasal ve işyerine ait kuralları uygular.",
+  "Kalite yönetim sistemi dokümanlarına uygun çalışır.",
+  "Çalışılan yeri düzenler.",
+  "Çalışma alet ve donanımının koruyucu ve talimatlı bakımlarını sağlar.",
+  "Çalışma donanımlarının bakım aşamalarını uygular.",
+  "İş organizasyonunu gerçekleştirir.",
+  "Doğrama imalatı öncesi hazırlık işlemlerini gerçekleştirir.",
+  "Ölçme işlemlerini yapar.",
+  "Teknik çizimleri okur ve gerçekleştirir.",
+  "Doğrama imalatı öncesi hazırlık işlemlerini gerçekleştirir.",
+  "Kesme, bükme ve delme işlemlerini gerçekleştirir.",
+  "Doğrama imalatı yapar.",
+  "Birleştirme işlemlerini yapar.",
+  "Düzeltme işlemlerini yapar.",
+  "Doğrama montajı yapar.",
+  "Doğramayı yerine sabitler.",
+  "Son kontrol ve raporlama işlemlerini yapar.",
+  "Mesleki gelişim faaliyetlerine katılır."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Korkuluk İmal İşçiliğine yönelik bağımsız, resmi olarak tanımlanmış bir eğitim programı bulunmamaktadır. Mesleğe ilişkin temel bilgi ve beceriler, mesleki ve teknik eğitim kurumlarındaki Metal Teknolojisi alanı kapsamındaki ilgili dallarda (örneğin kaynakçılık, metal doğrama), Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kurslarında ya da işyerlerinde usta yanında (işbaşında) kazanılmaktadır.",
+  "giris_kosullari": [
+   "Mesleki ve teknik eğitim kurumlarına (çıraklık eğitimi dahil) başlamak için en az ortaokul mezunu olmak",
+   "14 yaşını doldurmuş olmak",
+   "Yapılacak işe elverişli sağlık durumuna sahip olmak (gerektiğinde sağlık raporu ile belgelendirilir)",
+   "Çıraklık eğitimi için bir işyeri bulup işveren ile sözleşme imzalamak",
+   "Kurs yoluyla yetişmek isteyenler için Halk Eğitim Merkezleri veya İŞKUR kurslarının belirlediği başvuru koşullarını sağlamak"
+  ],
+  "sure_ve_icerik": "Mesleki ve teknik eğitim kurumlarında ilgili alanda eğitim süresi genellikle birkaç yıl sürer ve teorik derslerle birlikte atölye/işyeri uygulamalarını içerir. Kurslarda eğitim süresi kursun içeriğine göre birkaç haftadan birkaç aya kadar değişebilir. İşbaşında yetişme sürecinde ise kişi, bir ustanın gözetiminde kaynak, kesme, bükme, birleştirme ve montaj işlemlerini uygulayarak deneyim kazanır.",
+  "belge": "Mesleki ve teknik eğitim kurumlarından mezun olanlar diploma, kalfalık veya ustalık belgesi alır. Kurslara katılanlara katılım veya başarı belgesi verilir. İşbaşında yetişenler için resmi bir belge genellikle bulunmamaktadır; Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Korkuluk imal işçileri; metal doğrama ve konstrüksiyon atölyelerinde, ferforje ve demir işleri yapan küçük ve orta ölçekli işletmelerde, inşaat ve yapı malzemeleri üreten firmalarda, çelik konstrüksiyon ve metal inşaat malzemesi imalatı yapan işyerlerinde çalışabilir. Ayrıca inşaat şirketlerine bağlı olarak şantiyelerde taşeron veya usta olarak, bina, merdiven, balkon ve teras korkuluğu üreten ve monte eden firmalarda istihdam edilebilirler. Bağımsız atölye açarak kendi işini kurma imkânı da bulunmaktadır.",
+ "kazanc": {
+  "egitim_suresince": "Mesleki ve teknik eğitim kapsamında işletmelerde eğitim görenlere, 3308 sayılı Mesleki Eğitim Kanunu çerçevesinde asgari ücretin belirli bir oranından az olmamak üzere ücret ödenir. Halk Eğitim Merkezleri veya İŞKUR kurslarına katılanlar için genellikle ücret ödemesi söz konusu değildir.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanların kazancı genellikle asgari ücret düzeyindedir.",
+   "Deneyim, beceri, çalışılan işletmenin büyüklüğü ve sektörün ücret düzeyine göre kazanç artabilir.",
+   "Bağımsız atölye işletenlerin kazancı, aldıkları iş hacmine ve işletme performansına göre değişir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleki ve teknik eğitim kurumlarından mezun olanlar, ilgili alanın devamı niteliğindeki yükseköğretim (ön lisans/lisans) programlarına sınavla ya da ek puan avantajıyla yerleşebilir. Ayrıca çeşitli kurs ve sertifika programlarına katılarak mesleki bilgi ve beceriler geliştirilebilir.",
+  "is_hayatinda": "Deneyim kazanan çalışanlar ustalık, ustabaşılık veya atölye şefliği gibi görevlere yükselebilir. Yeterli sermaye ve deneyime sahip olanlar bağımsız atölye veya işyeri açarak kendi işini kurabilir."
+ },
+ "benzer_meslekler": [
+  "Ferforje Demir Ustası",
+  "Metal Doğramacı /Alüminyum Doğramacı",
+  "Endüstriyel ve Yapısal Çelik Konstrüksiyon İşçisi",
+  "Diğer Metal Levha ve Metal İnşaat İşçileri",
+  "İnşaat Çeliği İşçisi-Atölye",
+  "Gabion Sepet İmal İşçisi"
+ ],
+ "ek_bilgiler": "Mesleğin icrasında kaynak, kesme ve bükme işlemleri sırasında iş güvenliği ekipmanlarının (koruyucu gözlük, eldiven, kaynak maskesi vb.) kullanılması önemlidir. Mesleki Yeterlilik Kurumu (MYK) belgesi, iş bulma ve istihdamda tercih sebebi olabilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T00:49:33",
+  "usage": {
+   "input_tokens": 4,
+   "output_tokens": 11643
+  }
+ }
+}

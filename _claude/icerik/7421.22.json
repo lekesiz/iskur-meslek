@@ -1,0 +1,80 @@
+{
+ "arac_gerec": [
+  "Tornavida takımları, pense ve kargaburun",
+  "Lehim havyası ve lehim malzemeleri",
+  "Anti-statik bilek bandı ve montaj matları",
+  "Multimetre ve basit ölçüm cihazları",
+  "Kablo, konektör ve bağlantı elemanları",
+  "Anakart, işlemci, bellek modülü, sürücü gibi bilgisayar donanım bileşenleri",
+  "Montaj tezgahı ve vidalama setleri",
+  "Bilgisayar ve test/tanılama yazılımları",
+  "Büyüteçli lamba veya mikroskop",
+  "ESD (elektrostatik boşalma) önleyici ekipmanlar"
+ ],
+ "benzer_meslekler": [
+  "Elektronik Montörü (Genel)",
+  "Elektronik Montörü (Elektronik İkaz Sistemleri)",
+  "Elektronik Montörü (Tıbbi Teçhizat)",
+  "Telekomünikasyon Elektronik Kart Üretim, Montaj ve Test Elemanı",
+  "Telekomünikasyon Elektronik Kart Üretim, Montaj ve Test Ustası",
+  "Elektro Komponent Dizgi İşçisi"
+ ],
+ "calisma_alanlari": "Elektronik Montörü (Bilgisayar ve İlgili Cihazlar), bilgisayar ve ilgili elektronik cihazları üreten fabrika ve montaj hatlarında, bilgisayar donanım bakım-onarım ve teknik servis firmalarında, kurumların bilgi işlem/teknik destek birimlerinde çalışma olanağı bulur.\\n\\nBilgi ve iletişim teknolojilerindeki gelişime bağlı olarak sektörde donanım montajı, kurulum ve teknik destek alanında ihtiyaç duyulan nitelikli işgücü talebi sürmektedir; ancak üretimin önemli ölçüde ithal bileşenlere dayanması, istihdam hacminin yerli üretim ve montaj yatırımlarına göre değişkenlik göstermesine neden olabilir.",
+ "calisma_ortami": "Elektronik Montörü (Bilgisayar ve İlgili Cihazlar) genellikle fabrika, atölye veya teknik servis gibi kapalı mekânlarda, masa başı montaj hatlarında çalışır. Küçük elektronik parçalarla uzun süre dikkat gerektiren işler yaptığından oturarak veya ayakta, belirli bir düzen içinde çalışır. Bazı durumlarda kurulum ve bağlantı işlemleri için müşteri işyerlerine gidilebilir.\\n\\nÇalışma ortamında lehim dumanı, statik elektrik ve küçük parçalarla çalışmaya bağlı riskler bulunur; bu nedenle iş güvenliği ve ESD önleme kurallarına uyulması gerekir. Çalışma saatleri genellikle gündüz ve düzenlidir, ancak üretim temposuna göre vardiyalı çalışma da olabilir. Meslek elemanı; mühendis, teknisyen, kalite kontrol elemanı ve diğer montaj çalışanlarıyla iş birliği içinde görev yapar.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi, mesleki ve teknik eğitim okullarının elektrik-elektronik teknolojisi alanında ve mesleki eğitim merkezlerinde çıraklık eğitimi kapsamında verilmektedir. Ayrıca Halk Eğitim Merkezleri ile İŞKUR tarafından açılan mesleki eğitim kurslarında da temel beceriler kazandırılabilmektedir.",
+  "giris_kosullari": [
+   "En az ilköğretim/ortaokul mezunu olmak",
+   "Çıraklık eğitimi için ilgili yaş şartını taşımak ve eğitim görülecek işyeri ile çıraklık sözleşmesi imzalamak",
+   "Sağlık durumunun mesleğin gerektirdiği işlere uygun olması"
+  ],
+  "sure_ve_icerik": "Meslek eğitimi işbaşında usta yanında veya mesleki eğitim merkezlerinde çıraklık eğitimi şeklinde yürütülebilir. Eğitimde temel elektrik-elektronik bilgisi, bilgisayar donanım bileşenlerinin tanınması ve montajı, kablo/port bağlantıları, cihaz montajı ve işletim sistemi kurulum-yönetimi konuları teorik ve uygulamalı olarak öğretilir. Eğitimin süresi ve içeriği, verildiği kuruma ve programa göre değişebilir.",
+  "belge": "Mesleki eğitim merkezlerinde eğitimi tamamlayanlara kalfalık ve ustalık belgesi, kurslarda eğitimi tamamlayanlara katılım/başarı belgesi verilir. Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "ek_bilgiler": "Bilgisayar donanım sektöründeki üretim ve montaj faaliyetlerinin büyük ölçüde ithal bileşenlere dayanması nedeniyle bu meslekteki istihdam olanakları, yerli üretim ve montaj yatırımlarındaki değişimlere göre farklılaşabilir.",
+ "genel_ozellikler": [
+  "El ve göz koordinasyonu gelişmiş,",
+  "Küçük parçalarla dikkatli çalışabilen el becerisine sahip,",
+  "Dikkatli, sabırlı ve düzenli çalışabilen,",
+  "Elektronik ve bilgisayar teknolojisine ilgi duyan,",
+  "Sorumluluk duygusu gelişmiş,",
+  "Takım çalışmasına uyumlu,",
+  "Değişen teknolojiyi takip etmeye istekli"
+ ],
+ "gorevler": [
+  "Elektronik Montörü (Genel)'in yaptığı benzer görevleri yapar.",
+  "İşlemci ve bellek modülünü anakart üzerine monte eder.",
+  "Ana kartı kasa içerisine monte eder.",
+  "Genişleme yuvası kartlarını monte eder.",
+  "İç donanım sürücülerini monte eder.",
+  "Portları ana karta monte eder.",
+  "Bilgisayarın ilk açılışını yapar.",
+  "Bilgisayar ekranlarının bağlantısını yapar.",
+  "Bilgisayar yazıcılarının bağlantısını yapar.",
+  "Görüntü işleme cihazlarının bağlantısını yapar.",
+  "İşletim sisteminin yönetimini yapar.",
+  "İşletim sisteminin yönetimini yapar.",
+  "İşletim sisteminin denetim masasını etkin olarak kullanır.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleki eğitim merkezinden diploma alarak mezun olanlar, alanın devamı niteliğindeki ön lisans/lisans programlarına yerleşebilir. Çeşitli kurs ve sertifika programlarına katılarak mesleki bilgi ve becerilerini geliştirebilirler.",
+  "is_hayatinda": "Deneyim kazandıkça usta, ekip lideri, kalite kontrol elemanı veya teknik servis sorumlusu gibi pozisyonlara yükselebilir; yeterli bilgi ve sermayeye sahip olanlar kendi teknik servis işyerini açabilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Çıraklık eğitimi kapsamında eğitim görenlere, 3308 sayılı Mesleki Eğitim Kanunu çerçevesinde belirlenen asgari ücretin belli bir oranında ücret ödenir; eğitim süresince iş kazası ve meslek hastalığı sigorta primleri devletçe karşılanır.",
+  "egitim_sonrasi": [
+   "İşe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Deneyim, performans ve çalışılan işletmenin büyüklüğüne göre kazanç artabilir.",
+   "Kamu kurumlarında istihdam edilenler 657 sayılı Devlet Memurları Kanunu veya ilgili toplu iş sözleşmesi hükümlerine göre ücret alır."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T06:29:19",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5842
+  }
+ }
+}

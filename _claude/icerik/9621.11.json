@@ -1,0 +1,72 @@
+{
+ "arac_gerec": [
+  "Dağıtılacak el ilanı/broşür",
+  "Taşıma çantası veya torba",
+  "Bölge/güzergah haritası",
+  "Not defteri ve kalem (dağıtım takibi için)",
+  "Dağıtım listesi/rapor formu",
+  "Kimlik/yaka kartı",
+  "Hava koşullarına uygun giyim (yağmurluk, şemsiye)",
+  "Rahat yürüyüş ayakkabısı",
+  "Cep telefonu (amirle iletişim için)"
+ ],
+ "genel_ozellikler": [
+  "Fiziksel olarak dayanıklı ve sağlıklı,",
+  "Uzun süre yürümeye ve açık havada çalışmaya istekli,",
+  "Dikkatli ve sorumluluk sahibi,",
+  "Dürüst ve güvenilir,",
+  "Yönünü bulma ve bölge tanıma konusunda başarılı,",
+  "Düzenli ve planlı çalışabilen,",
+  "İnsan ilişkilerinde uyumlu,",
+  "Zamanını iyi kullanabilen"
+ ],
+ "calisma_ortami": "El İlanı, Broşür Dağıtıcısı açık havada, sokak, cadde, iş merkezleri, kapı önleri ve belirlenen hedef bölgelerde çalışır. Çalışma süresince uzun süre yürümek ve ayakta durmak gerekir; hava koşullarına (sıcak, soğuk, yağmur) doğrudan bağlıdır. Çalışma saatleri genellikle gündüz olup, kampanya veya organizasyon dönemlerinde yoğunlaşabilir; iş çoğunlukla geçici, yarı zamanlı veya proje bazlıdır.\n\nBu mesleği yürütenler çalıştıkları işletmenin amiri veya sorumlusu ile düzenli olarak iletişim kurar; dağıtım yaptığı bölgedeki halk, apartman görevlileri ve bina yöneticileriyle de karşılıklı iletişim içindedir. İşin niteliği itibarıyla ekip hâlinde veya tek başına çalışılabilir.",
+ "egitim": {
+  "verildigi_yerler": "Bu meslek için mesleki ve teknik ortaöğretimde ayrı bir alan veya dal bulunmamaktadır. Meslek genellikle işbaşında, usta/amir yanında kısa süreli bilgilendirme yoluyla veya Halk Eğitim Merkezleri ile İŞKUR tarafından açılan kısa süreli mesleki eğitim kurslarıyla öğrenilmektedir.",
+  "giris_kosullari": [
+   "Okuryazar olmak",
+   "İş mevzuatına göre çalışma yaşına ulaşmış olmak",
+   "Dağıtım işini yürütebilecek fiziksel ve sağlık durumuna sahip olmak"
+  ],
+  "sure_ve_icerik": "Mesleğin standart bir eğitim süresi ve müfredatı bulunmamaktadır. İşe başlamadan önce işveren tarafından genellikle kısa süreli (bir-iki gün içinde tamamlanabilen) uygulamalı bir bilgilendirme verilir; bu bilgilendirme dağıtım bölgesinin tanıtılması, güzergah planlaması, çevre temizliği kuralları ve raporlama usullerini kapsar. Bazı bölgelerde İŞKUR veya Halk Eğitim Merkezlerinin açtığı temel satış/dağıtım elemanlığına yönelik kısa kurslara katılım mümkündür.",
+  "belge": "Örgün eğitim sonunda verilen resmî bir diploma veya sertifika bulunmamaktadır. Katılınan kurslar sonunda, varsa, katılım belgesi verilebilir."
+ },
+ "calisma_alanlari": "El İlanı, Broşür Dağıtıcısı; reklam ve tanıtım ajanslarında, matbaalarda, kurye ve dağıtım hizmeti veren şirketlerde, perakende ve market zincirlerinde, restoran, kafe ve diğer hizmet işletmelerinde, gayrimenkul/emlak ofislerinde, siyasi parti ve dernek organizasyonlarında, belediyelerin ve kamu kurumlarının bilgilendirme kampanyalarında çalışabilir. İş genellikle geçici, yarı zamanlı veya proje/kampanya bazlı olarak yürütülür; bu nedenle istihdam biçimi mevsimsel ve değişkendir.",
+ "kazanc": {
+  "egitim_suresince": "Bu meslek için örgün bir eğitim süreci bulunmadığından eğitim süresine ilişkin ayrı bir ücretlendirme söz konusu değildir; çalışmaya başlandığı anda doğrudan iş karşılığı ücretlendirme yapılır.",
+  "egitim_sonrasi": [
+   "Yeni başlayanlar genellikle asgari ücret düzeyinde veya saatlik/parça (dağıtılan adet) başına ücretlendirme ile çalışır.",
+   "Kazanç; çalışılan işletmeye, çalışma biçimine (tam zamanlı, yarı zamanlı, proje bazlı) ve dağıtılan materyal sayısına göre değişebilir.",
+   "Bu meslekte kamu kurumlarında doğrudan istihdam yaygın değildir; özel sektörde ücretlendirme işveren ile çalışan arasındaki anlaşmaya bağlıdır."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Bu meslek için örgün mesleki eğitimde tanımlı bir ilerleme basamağı bulunmamaktadır. İsteyen kişiler açık öğretim veya yaygın eğitim yoluyla genel eğitim düzeylerini yükseltebilir, satış, pazarlama, lojistik veya kurye hizmetleri alanlarında açılan mesleki eğitim kurslarına katılarak farklı mesleklere geçiş için hazırlanabilirler.",
+  "is_hayatinda": "Deneyim kazanan dağıtıcılar ekip sorumluluğu veya saha koordinatörlüğü gibi görevlere getirilebilir. Zamanla kurye, paket teslim elemanlığı, dağıtım/lojistik şirketlerinde şoförlük veya depo görevlisi gibi ilişkili mesleklere yönelebilirler."
+ },
+ "benzer_meslekler": [
+  "Kurye",
+  "Gazete Dağıtıcısı",
+  "Paket Teslim Elemanı (Yaya)",
+  "Haberleşme Görevlisi/Haberci",
+  "Genel evrak dağıtıcısı",
+  "Ekmek Dağıtım Elemanı"
+ ],
+ "ek_bilgiler": "Bu meslek genellikle düşük nitelik ve kısa süreli işbaşı bilgilendirme gerektiren, giriş seviyesi bir iştir; çoğunlukla öğrenciler, ek gelir arayan kişiler veya mevsimlik/kampanya dönemlerinde geçici işçi olarak çalışmak isteyenler tarafından yürütülür. İşin fiziksel yorucu olması ve hava koşullarına açık olması nedeniyle süreklilik gösteren bir kariyer alanı olarak değil, genellikle geçici bir çalışma biçimi olarak değerlendirilir.",
+ "gorevler": [
+  "Dağıtılacak broşürlerin sayımını ve hazırlığını yapar.",
+  "Belirlenen bölge veya hedef kitlenin bulunduğu alanlara gider.",
+  "İlanları çevre kirliliği yaratmadan ve izinli alanlara dağıtır.",
+  "Dağıtım yapılan sokak ve bina bilgilerini not eder.",
+  "Gün sonu dağıtım raporunu ilgili amire iletir.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T21:04:53",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5229
+  }
+ }
+}

@@ -1,0 +1,76 @@
+{
+ "arac_gerec": [
+  "Bilgisayar ve çevre birimleri (klavye, fare, monitör, yazıcı, tarayıcı)",
+  "Modem, switch, router gibi ağ cihazları",
+  "El takımları (tornavida seti, pense, kablo soyucu vb.)",
+  "Kablo test cihazı ve multimetre",
+  "Lehim takımı",
+  "Bellek, anakart, kaynak birimi gibi bilgisayar donanım parçaları",
+  "İşletim sistemi ve sürücü kurulum medyaları/dosyaları",
+  "Ağ kabloları, konnektör ve prizler",
+  "Kablosuz ağ erişim cihazları",
+  "Antistatik bilek bandı ve koruyucu ekipman",
+  "Taşınabilir disk ve yedekleme cihazları",
+  "Teknik dokümantasyon ve cihaz kullanım kılavuzları"
+ ],
+ "genel_ozellikler": [
+  "El ve göz koordinasyonu iyi,",
+  "Dikkatli ve sabırlı,",
+  "Sorumluluk sahibi,",
+  "Elektronik ve bilgisayar donanımına ilgili,",
+  "Problem çözme ve analitik düşünme yeteneğine sahip,",
+  "Ekip çalışmasına uyumlu,",
+  "Fiziksel olarak sağlıklı (bazen ağır cihaz taşıma ve yüksekte çalışma gerektirebilir),",
+  "Yeni teknolojileri öğrenmeye istekli"
+ ],
+ "calisma_ortami": "Bilgi İşlem Donanım Görevlisi genellikle büro ortamlarında, bilgi işlem merkezlerinde, sunucu odalarında ve bina içi kablolama alanlarında çalışır. Çalışmaları sırasına göre bazen bina içinde dolap, tavan arası veya kablo kanalları gibi dar ve erişimi kısıtlı alanlarda, bazen de elektrik şalt panolarına yakın bölgelerde görev yapması gerekebilir. Elektrik çarpması, düşme, ağır cihaz taşıma gibi riskler bulunduğundan iş sağlığı ve güvenliği kurallarına dikkat edilmesi önemlidir.\n\nÇalışma saatleri genellikle düzenlidir; ancak arıza ve bakım talepleri doğrultusunda mesai saatleri dışında çağrılabilir. Görevini yerine getirirken işyerindeki sistem yöneticileri, diğer teknik personel, kullanıcılar ve bazen dış tedarikçi/servis firmalarıyla iletişim halindedir.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi, mesleki ve teknik Anadolu liselerinin bilişim teknolojileri alanında verilmektedir. Ayrıca çeşitli üniversitelerin ön lisans düzeyinde bilgisayar donanımı/bilgisayar teknolojileri ile ilgili programlarında da eğitim alınabilir. Bunların dışında Millî Eğitim Bakanlığına bağlı Halk Eğitim Merkezleri ile İŞKUR'un açtığı mesleki eğitim kurslarında da bu alanda eğitim verilmektedir.",
+  "giris_kosullari": [
+   "Mesleki ve teknik lise bilişim teknolojileri alanına girebilmek için ortaokul mezunu olmak",
+   "Ön lisans programlarına girebilmek için lise veya dengi okul mezunu olmak ve YKS (Yükseköğretim Kurumları Sınavı) kılavuzunda belirtilen giriş koşullarını taşımak",
+   "Kurs programlarına katılabilmek için genellikle en az ilköğretim/lise mezunu olmak ve kurumun belirlediği şartları taşımak"
+  ],
+  "sure_ve_icerik": "Mesleki ve teknik liselerin bilişim teknolojileri alanındaki eğitim süresi 4 yıldır; bu süre içinde bilgisayar donanımı, işletim sistemleri, temel elektrik-elektronik bilgisi ve ağ temelleri gibi dersler okutulur. Üniversitelerin ilgili ön lisans programlarının eğitim süresi 2 yıldır; bilgisayar donanımı, ağ teknolojileri, işletim sistemleri ve elektronik devre esasları gibi dersler yer alır. Halk Eğitim Merkezleri ve İŞKUR kurslarının süresi ve içeriği kurumdan kuruma değişmekle birlikte genellikle bilgisayar donanımı kurulumu ve bakımı, arıza tespiti ve giderme, kablolama ve temel ağ bilgisi konularını kapsar.",
+  "belge": "Mesleki ve teknik lise programını tamamlayanlara lise diploması, ön lisans programını tamamlayanlara ön lisans diploması verilir. Kurs programlarını tamamlayanlara ise kurs bitirme/katılım belgesi verilir. Ayrıca Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Bilgi İşlem Donanım Görevlisi; kamu kurumlarının bilgi işlem birimlerinde, özel şirketlerin bilişim/bilgi işlem departmanlarında, bilgisayar ve teknoloji satış-servis firmalarında, bilişim hizmeti sunan firmalarda istihdam edilmektedir. Ayrıca bilgi ve deneyim kazanan meslek elemanları serbest olarak bilgisayar kurulum ve tamir-servis hizmeti verebilmektedir.",
+ "kazanc": {
+  "egitim_suresince": "Mesleki ve teknik lise öğrencileri resmî okullarda eğitimlerini ücretsiz olarak sürdürür. Ön lisans öğrencileri Kredi ve Yurtlar Genel Müdürlüğünün kredi ve yurt hizmetlerinden yararlanabilir, çeşitli resmi ve özel kurum/kuruluşların sağladığı burslardan faydalanabilirler. İŞKUR'un açtığı kurslara katılan kursiyerlere belirli koşullarda cep harçlığı ödenebilir.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında çalışanlar 657 sayılı Devlet Memurları Kanunu hükümlerine veya kadrolarına göre ilgili toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde ücret, işyerinin büyüklüğüne, çalışanın bilgi ve deneyimine göre değişmekle birlikte, işe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar; deneyim ve uzmanlık arttıkça ücret yükselebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Ön lisans mezunları, dikey geçiş sınavı ile ilgili lisans programlarına (örneğin bilgisayar mühendisliği, elektrik-elektronik mühendisliği gibi) geçiş yapabilirler. Ayrıca mesleki gelişim kurs ve sertifika programlarıyla ağ yönetimi, sistem yönetimi gibi uzmanlık alanlarında kendilerini geliştirebilirler.",
+  "is_hayatinda": "Deneyim ve bilgi birikimi arttıkça kıdemli teknisyen, bilgi işlem destek sorumlusu veya sistem/ağ yöneticisi gibi pozisyonlara yükselebilirler. Yeterli sermaye ve deneyime sahip olanlar kendi bilgisayar servis işletmelerini kurabilirler."
+ },
+ "benzer_meslekler": [
+  "Bilgisayar Teknisyeni",
+  "Bilgisayar Teknik Servisçisi/Bilgisayar Donanım Teknisyeni",
+  "Ağ İşletmeni / Ağ Teknolojileri Elemanı",
+  "Bilgi İşlem Destek Elemanı",
+  "Bilgi İşlem Destek Sorumlusu",
+  "Bilgisayar Teknolojileri Teknikeri"
+ ],
+ "ek_bilgiler": "Mesleğin bazı çalışma koşulları (elektrik tesisatına yakın çalışma, yüksekte kablolama gibi) iş sağlığı ve güvenliği açısından dikkat gerektiren işler kapsamında değerlendirilebilir; bu nedenle işe alımlarda ilgili sağlık ve güvenlik şartları aranabilir.",
+ "gorevler": [
+  "İşletmenin genel çalışma prensipleri doğrultusunda, araç, gereç ve ekipmanları etkin bir şekilde kullanarak, işçi sağlığı, iş güvenliği ve çevre koruma düzenlemelerine ve mesleğin verimlilik ve kalite gereklerine uygun olarak çalışır.",
+  "Kullanacağı önceden tasarlanmış otomasyon sistemini kurar, bakım ve onarımını yapar.",
+  "Cihazların kurulumlarını yapar.",
+  "Cihazların yazılım yüklemelerini yapar.",
+  "Hatların ölçülmesi, devreye alınması ve modemlerin çalıştırılması işlerini yapar.",
+  "Tüm cihaz arızalarının giderilmesi ve cihazların yer değiştirilmesi işlerini yapar.",
+  "Bilgi işlem merkezlerinde gerekli donanımın kurulmasını sağlar ve ağ güvenliğinin sağlanması için kurulum esnasında gerekli önlemleri alır.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T14:58:47",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6724
+  }
+ }
+}

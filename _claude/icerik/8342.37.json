@@ -1,0 +1,72 @@
+{
+ "arac_gerec": [
+  "Kar makinesi (kar topu/kar silahı)",
+  "Su besleme hortumları ve bağlantı ekipmanları",
+  "Basınçlı hava kompresörü ve hava hatları",
+  "Nozul/püskürtme ucu ayar düzenekleri",
+  "Basınç ve debi ölçüm göstergeleri",
+  "Meteorolojik ölçüm cihazları (termometre, nem ölçer, anemometre)",
+  "Elektrik kabloları ve jeneratör bağlantıları",
+  "El aletleri (anahtar takımı, pense, tornavida)",
+  "Telsiz/haberleşme cihazı",
+  "Kar üzerinde ulaşım aracı (kar motosikleti, paletli araç)",
+  "Koruyucu termal ve su geçirmez kıyafet, eldiven, bot",
+  "Yedek parça ve bakım malzemeleri"
+ ],
+ "genel_ozellikler": [
+  "Soğuk ve zorlu hava koşullarında çalışabilen,",
+  "El ve kol kaslarını etkili biçimde kullanabilen,",
+  "Teknik ve mekanik sistemlere ilgi duyan,",
+  "Dikkatli, sorumluluk sahibi ve tedbirli,",
+  "Takım halinde çalışmaya uyumlu,",
+  "Fiziksel olarak dayanıklı,",
+  "Meteorolojik koşulları takip ederek hızlı ve doğru karar verebilen,"
+ ],
+ "calisma_ortami": "Yapay Kar Makinesi Operatörü, açık havada, genellikle yüksek rakımlı kayak merkezlerinde ve soğuk hava koşullarında çalışır. Kar üretimi için en uygun saatler çoğunlukla gece ve sabaha karşı sıcaklığın düşük olduğu zaman dilimleri olduğundan çalışma saatleri meteorolojik koşullara göre değişken olabilir ve gece mesaisi gerektirebilir. Buzlu ve kaygan zeminde çalışma, soğuğa bağlı sağlık riskleri (donma, hipotermi) ve yüksekte/engebeli pist arazisinde hareket etme gibi riskler bulunur.\\n\\nÇalışma sürecinde pist bakım ekibi, kayak merkezi teknik personeli ve işletme yöneticileriyle iletişim halinde çalışır. Meslek, kış sporları sezonuyla sınırlı olarak mevsimlik nitelik taşıyabilir.",
+ "gorevler": [
+  "Meteorolojik verileri takip ederek uygun kar yapma saatlerini belirler,",
+  "Kar makinelerini pist üzerindeki stratejik noktalara yerleştirir ve bağlar,",
+  "Su basıncı, hava akışı ve nozul ayarlarını dış sıcaklığa göre düzenler,",
+  "Üretilen karın kalitesini ve pist üzerindeki birikim miktarını izler,",
+  "Makine arızalarını tespit eder ve donmaya karşı önlemleri alır,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Bu meslek için örgün bir okul programı bulunmamaktadır. Eğitim genellikle kayak merkezlerinde işbaşında usta yanında, işletme içi hizmet içi eğitimlerle veya Halk Eğitim Merkezleri ile İŞKUR'un açtığı mesleki eğitim kurslarıyla kazanılır. Kar üretim sistemi üreticileri de bazen kendi ekipmanlarının kullanımına yönelik eğitim verebilmektedir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "18 yaşını doldurmuş olmak",
+   "Soğuk ve açık hava koşullarında çalışmaya engel bir sağlık sorunu bulunmamak",
+   "Fiziksel olarak dayanıklı olmak"
+  ],
+  "sure_ve_icerik": "Eğitimin süresi ve içeriği işletmeden işletmeye değişmekle birlikte genellikle kar makinelerinin teknik yapısı, su ve hava basınç sistemlerinin çalışma prensibi, meteorolojik takip, iş sağlığı ve güvenliği ile ilk yardım konularını kapsar. İşbaşı eğitiminin süresi, kullanılan makine tipine ve kişinin önceki deneyimine göre değişebilir.",
+  "belge": "Resmî bir diploma veya zorunlu sertifika bulunmamaktadır; katılınan kurs ya da işletme içi eğitim sonunda katılım veya başarı belgesi verilebilir."
+ },
+ "calisma_alanlari": "Yapay Kar Makinesi Operatörleri, kayak merkezleri ve diğer kış sporları tesislerinde, bu tesisleri işleten özel şirketlerde ya da belediye/kamu işletmelerinde çalışır. Çalışma, kar yağışının yetersiz olduğu dönemlerde ve kış mevsimiyle sınırlı olabileceği gibi, büyük kayak merkezlerinde yıl boyu bakım ve hazırlık kadrosunda istihdam da mümkündür. Türkiye'de kayak turizminin geliştiği sınırlı sayıdaki dağ ve kış turizmi merkeziyle sınırlı olduğundan iş bulma olanakları bölgesel ve tesis sayısına bağlı olarak kısıtlıdır.",
+ "kazanc": {
+  "egitim_suresince": "Örgün bir eğitim süreci bulunmadığından ayrı bir eğitim dönemi ücreti söz konusu değildir; işbaşında eğitim alanlar genellikle çalıştıkları işletmeden ücret alır.",
+  "egitim_sonrasi": [
+   "Belediye veya kamu işletmelerinde işçi statüsünde çalışanlar toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde ücret, işletmenin büyüklüğüne, çalışanın deneyimine ve mevsimlik ya da sürekli istihdam durumuna göre değişir; mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Bu meslekte kademeli bir örgün eğitim basamağı bulunmamaktadır; deneyim kazandıkça daha karmaşık kar üretim sistemlerinin kullanımı ve bakımı konusunda yetkinlik geliştirilebilir.",
+  "is_hayatinda": "Deneyim kazanan operatörler pist bakım ekibi sorumluluğu, ekip şefliği veya tesis teknik sorumlusu gibi görevlere yükselebilir; ilgili iş makineleri ve soğutma/sulama sistemleri konusunda uzmanlaşarak teknik servis ve bakım alanında kariyer yapabilirler."
+ },
+ "benzer_meslekler": [
+  "Kar Temizleme Makinesi Operatörü",
+  "Kar Ezme (Snow Track) Makinesi Operatörü",
+  "Kar Küreme ve Tuzlama Aracı Operatörü",
+  "Snotrak Araç Operatörü"
+ ],
+ "ek_bilgiler": "Yapay kar üretimi, kayak merkezlerinde doğal kar kalınlığının yetersiz olduğu dönemlerde pistlerin kullanıma açılmasını sağlamak amacıyla uygulanır. Bu nedenle operatörün çalışma yoğunluğu ve saatleri büyük ölçüde hava sıcaklığına ve meteorolojik koşullara bağlı olarak mevsimsel ve değişken niteliktedir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T18:47:04",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6026
+  }
+ }
+}

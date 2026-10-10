@@ -1,0 +1,87 @@
+{
+ "arac_gerec": [
+  "Stetoskop",
+  "Tansiyon aleti",
+  "Refleks çekici",
+  "Otoskop (kulak muayene aleti)",
+  "Oftalmoskop (göz muayene aleti)",
+  "Beden termometresi",
+  "Elektrokardiyografi (EKG) cihazı",
+  "Kognitif değerlendirme ölçekleri (örneğin mini mental test formları)",
+  "Kemik dansitometresi cihazı",
+  "Hasta takip ve bilgi yönetim yazılımları",
+  "Bilgisayar",
+  "Laboratuvar tetkik istem ve sonuç formları",
+  "İlaç tarif çizelgeleri"
+ ],
+ "genel_ozellikler": [
+  "Sorumluluk duygusu yüksek,",
+  "Hastalara ve yakınlarına karşı sabırlı ve empatik,",
+  "İletişim becerisi gelişmiş,",
+  "Dikkatli ve gözlemci,",
+  "Tıp alanındaki gelişmeleri sürekli takip etmeye istekli,",
+  "Stresli durumlarda sakin ve soğukkanlı kalabilen,",
+  "Ekip çalışmasına uygun,",
+  "Hijyen kurallarına özen gösteren"
+ ],
+ "calisma_ortami": "Geriatri uzmanları genellikle hastanelerin geriatri servis ve poliklinikleri, üniversite hastaneleri ile eğitim ve araştırma hastanelerinde çalışırlar. Çalışma ortamı kapalı mekan olup genellikle temiz ve düzenlidir; muayene, görüntüleme ve laboratuvar birimleriyle iş birliği içinde çalışılır. Hastalar genellikle ileri yaşta ve birden fazla kronik sağlık sorunu olan bireylerdir; bu nedenle hasta yakınlarıyla da yoğun iletişim kurulur.\n\nÇalışma saatleri, görev yapılan kurumun niteliğine göre değişebilir; poliklinik hizmeti genellikle gündüz saatlerinde yürütülür, ancak hastanede görevli olanlar için nöbet ve çağrı üzerine çalışma söz konusu olabilir. Meslek, bulaşıcı hastalıklara temas gibi sağlık risklerini içerebilir; bu nedenle hijyen ve koruyucu tedbirlere uyulması önemlidir. Diğer uzman hekimler, hemşireler, fizyoterapistler, diyetisyenler ve sosyal hizmet uzmanlarıyla birlikte çok disiplinli bir yaklaşımla çalışılır.",
+ "gorevler": [
+  "Hastanın şikayeti ve tıbbi öyküsü hakkında ayrıntılı bilgi alır ve hasta bilgi formuna kaydeder.",
+  "Hastanın fiziki ve ruhsal muayenesini yapar.",
+  "Teşhise yönelik olarak kan ve idrar tetkikleri, röntgen, tomografi, manyetik rezonans, ultrason, kemik dansitometresi gibi tetkikleri ister.",
+  "Muayene bulguları ve tetkik sonuçlarına göre teşhis ve tedavi yöntemlerini belirler.",
+  "Yaşlılık hastalıkları ile ilgili klinik testler ve ölçekler uygular, hastanın durumunu değerlendirir.",
+  "Yaşlanmayla ortaya çıkan alzheimer, parkinson, bunama (demans), unutkanlık, depresyon, konsantrasyon bozukluğu gibi hastalıkların teşhis, tedavi ve takiplerini yapar.",
+  "Beyin ve boyun damar rahatsızlıklarına bağlı serebrovasküler hastalıkların teşhis ve tedavilerini yapar.",
+  "Yaşlanmaya bağlı olarak kemik dokusundaki yoğunluğun azalmasıyla ortaya çıkan kemik erimesi (osteoporoz) hastalığının takip ve tedavisini yapar.",
+  "Uyku bozuklukları, performans düşüklüğü, algılamada zorlanma gibi rahatsızlıkların tedavilerini yapar.",
+  "Yüz, boyun ve ellerde ortaya çıkan titreme, seyirme, kasılma gibi istemsiz hareketlere neden olan hastalıkların tedavilerini yapar.",
+  "Koroner kalp hastalıkları, kardiyovasküler hastalıklar ve risk faktörleri, kronik akciğer hastalıkları, diyabet, kolesterol yüksekliği takip ve tedavilerini yapar.",
+  "Sindirim sistemi tembellikleri ve hastalıklarının tedavilerini yapar.",
+  "Yaşlı hastalarda istemsiz idrar ve gaita kaçırma gibi bozuklukların tedavisini yapar.",
+  "Yaşlı hastaya veya hasta yakınına tedaviyi ayrıntılı bir şekilde anlatır, ilaçların düzenli kullanılması ile ilgili ilaç tarif çizelgesi verir ve gerekli tavsiyelerde bulunur.",
+  "Hastaların durumunu düzenli aralıklarla kontrol ve takip eder.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Geriatri uzmanı olabilmek için önce üniversitelerin tıp fakültelerinde lisans eğitimi, ardından ilgili uzmanlık ve yan dal uzmanlık eğitim programlarını tamamlamak gerekir. Bu eğitimler üniversite hastaneleri ile Sağlık Bakanlığına bağlı eğitim ve araştırma hastanelerinde verilmektedir.",
+  "giris_kosullari": [
+   "Lise veya dengi okul mezunu olmak",
+   "YKS (Yükseköğretim Kurumları Sınavı) kılavuzunda tıp fakülteleri için belirtilen giriş koşullarını sağlamak",
+   "Tıp fakültesi mezunu olduktan sonra Tıpta Uzmanlık Sınavı (TUS) ile iç hastalıkları uzmanlık eğitimine giriş koşullarını sağlamak",
+   "İç hastalıkları uzmanlığını tamamladıktan sonra Yan Dal Uzmanlık Sınavı (YDUS) ile geriatri yan dal eğitimine giriş koşullarını sağlamak"
+  ],
+  "sure_ve_icerik": "Tıp fakültesi eğitimi 6 yıl sürer; ilk yıllarda fen bilimleri ve temel tıp bilimleri, sonraki yıllarda klinik stajlar ve hasta başı eğitimler yer alır. Tıp fakültesi sonrasında iç hastalıkları alanında uzmanlık eğitimi (yaklaşık 4-5 yıl) tamamlanır. Bunun ardından geriatri yan dal uzmanlık eğitimi alınır; bu eğitimde yaşlı hastanın kapsamlı değerlendirilmesi, kronik hastalıkların yönetimi, demans, düşme, polifarmasi (çoklu ilaç kullanımı), beslenme bozuklukları ve yaşlılığa özgü sendromlar konularında teorik ve uygulamalı (klinik, poliklinik, hasta başı) eğitim verilir.",
+  "belge": "Eğitim sürecini başarıyla tamamlayanlara sırasıyla tıp doktorluğu lisans diploması, iç hastalıkları uzmanlık belgesi ve geriatri yan dal uzmanlık belgesi verilir."
+ },
+ "calisma_alanlari": "Geriatri uzmanları başta kamu ve özel hastanelerin geriatri servis ve poliklinikleri olmak üzere, üniversite hastaneleri ile eğitim ve araştırma hastanelerinde çalışabilirler. Bazı yaşlı bakım ve rehabilitasyon kurumlarına bağlı sağlık ünitelerinde de görev alabilirler. Türkiye'de yaşlı nüfusun hızla artması, geriatri alanına olan ihtiyacı ve ilgiyi artırmaktadır; ancak bu yan dal uzmanlık alanında yetişen hekim sayısı henüz sınırlı olduğundan geriatri uzmanları ağırlıklı olarak büyük şehirlerdeki üniversite ve eğitim hastanelerinde yoğunlaşmaktadır.",
+ "kazanc": {
+  "egitim_suresince": "Tıp fakültesi öğrencileri Kredi ve Yurtlar Kurumunun öğrenim kredisi ve yurt hizmetlerinden, ayrıca çeşitli resmî ve özel kurum/kuruluşların burslarından yararlanabilirler. Uzmanlık ve yan dal uzmanlık eğitimi sırasında (asistanlık döneminde) kamu hastanelerinde çalışarak 657 sayılı Devlet Memurları Kanunu kapsamında maaş alırlar.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında çalışan geriatri uzmanları 657 sayılı Devlet Memurları Kanunu'na göre maaş ve döner sermaye ek ödemesi alırlar.",
+   "Özel hastane ve kuruluşlarda çalışanların kazancı, kurumla yapılan sözleşmeye, mesleki deneyime ve çalışılan işletmeye göre değişiklik gösterir.",
+   "Kendi muayenehanesini açan uzmanların kazancı hasta sayısına ve işletme giderlerine bağlı olarak değişkenlik gösterir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "İç hastalıkları uzmanlığını tamamlayan hekimler Yan Dal Uzmanlık Sınavı (YDUS) ile geriatri yan dal eğitimine ilerleyebilirler. Akademik kariyer hedefleyenler doktora sonrası çalışmalar yaparak doçentlik ve profesörlük unvanlarına yükselebilirler.",
+  "is_hayatinda": "Mesleki deneyim ve kıdem arttıkça klinik şefliği, bölüm sorumluluğu veya hastane yöneticiliği gibi görevlere gelinebilir. Akademik kurumlarda çalışanlar öğretim üyeliği kademelerinde (yardımcı doçent, doçent, profesör) ilerleyebilirler."
+ },
+ "benzer_meslekler": [
+  "İç Hastalıkları (Dahiliye) Uzmanı",
+  "Nöroloji Uzmanı",
+  "Endokrinoloji ve Metabolizma Hastalıkları Uzmanı",
+  "Kardiyoloji (Kalp-Damar Hastalıkları) Uzmanı",
+  "Fiziksel Tıp ve Rehabilitasyon Uzmanı",
+  "Psikiyatri Uzmanı (Psikiyatr)"
+ ],
+ "ek_bilgiler": "Geriatri, ülkemizde nispeten yeni gelişmekte olan bir yan dal uzmanlık alanıdır ve bu alanda yetişmiş uzman hekim sayısı henüz sınırlıdır. Nüfusun yaşlanması ve yaşlı sağlığına yönelik hizmet talebinin artması nedeniyle geriatri uzmanlarına olan ihtiyacın gelecekte artması beklenmektedir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-07T22:25:44",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 7798
+  }
+ }
+}

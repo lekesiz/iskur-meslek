@@ -1,0 +1,85 @@
+{
+ "arac_gerec": [
+  "Bilgisayar destekli tasarım (CAD) yazılımları",
+  "Sonlu elemanlar yöntemi (FEA/CAE) tabanlı yapısal analiz yazılımları",
+  "Dinamik, titreşim ve yorulma analiz programları",
+  "Malzeme mukavemeti ve elastisite hesap araçları",
+  "Akışkanlar mekaniği ve termo-mekanik analiz yazılımları",
+  "Proje ve risk yönetimi yazılımları",
+  "Teknik çizim, modelleme ve simülasyon donanımları",
+  "Gerinim ve titreşim ölçüm cihazları",
+  "Teknik standart, şartname ve sertifikasyon dokümanları",
+  "Masaüstü/dizüstü bilgisayar ve ofis yazılımları",
+  "Veri tabanı ve doküman yönetim sistemleri"
+ ],
+ "genel_ozellikler": [
+  "Matematik, fizik ve mekanik konularında bilgili ve başarılı,",
+  "Analitik ve sistematik düşünebilen, neden-sonuç ilişkisi kurabilen,",
+  "Sayısal verileri yorumlayabilen, dikkatli ve sabırlı,",
+  "Yeni teknolojik gelişmeleri ve uluslararası standartları takip etmeye istekli,",
+  "Ekip çalışmasına uyumlu, etkili iletişim kurabilen,",
+  "Gizlilik ilkelerine bağlı, güvenlik soruşturması gerektiren ortamlarda çalışmaya uygun,",
+  "Sorumluluk sahibi, düzenli ve sistemli çalışabilen,",
+  "Problem çözme becerisine sahip ve pratik çözümler üretebilen,"
+ ],
+ "calisma_ortami": "Yapısal Analiz ve Tasarım Uzmanı (Savunma Sanayi), çalışmalarının büyük bölümünü büro ortamında, AR-GE ve tasarım merkezlerinde bilgisayar başında yürütür. Gerektiğinde üretim, montaj ve test alanlarına, saha ziyaretlerine veya prototip inceleme çalışmalarına katılır. İşin yapısı nedeniyle proje ekipleri, sistem mühendisleri, üretim ve kalite birimleri ile sıkı iletişim içinde çalışır; çoğunlukla ekip hâlinde görev yapar.\n\nÇalışma saatleri genellikle tam gün ve düzenlidir; ancak proje teslim tarihlerine yaklaşıldığında veya kritik test/analiz süreçlerinde çalışma süresi uzayabilir. Savunma sanayii projelerinin niteliği nedeniyle gizlilik dereceli bilgi ve belgelerle çalışılabilir; bu durum belirli güvenlik kurallarına uyulmasını gerektirir.",
+ "gorevler": [
+  "Savunma projelerinde geliştirilen, üretilen, teslim edilen, bakım ve idamesi yürütülen ve elden çıkarılan/dönüştürülen sistemler üstündeki çalışmaları uluslararası standartlar çerçevesinde sistem mühendisliği yaklaşımıyla yürütür.",
+  "Yürütülen projelerde son kullanıcı odaklı olarak paydaş ihtiyaç ve gereksinimlerini ön planda tutar.",
+  "Savunma projelerinde ortaya çıkarılan değeri maksimize etmek üzere değer mühendisliği metotlarını uygular.",
+  "Yüksek teknoloji gerektiren, karmaşık, çok paydaşlı, yüksek maliyetli ve uzun zamana yayılan savunma projelerini uluslararası proje yönetimi standartları çerçevesinde, kapsam, maliyet ve takvim yönetimi uygulayarak yürütür.",
+  "Projeleri etkileyebilecek riskleri erken safhalarda tespit eder ve risk önleme/azaltma stratejilerini uygular.",
+  "Yürütülen projelerde kurumsal kapasite, erişilen teknoloji hazırlık seviyeleri ve yerlileşme ve millileşme gereklerini gözetir.",
+  "Bileşen ve sistem tasarımında yapısal elemanlardaki gerilmeleri, gerinimleri ve deformasyonları hesaplar.",
+  "Analiz ve tasarımlarını, üretimde malzeme şekillendirme ve kaldırma işlemlerinin teorileri ve uygulamalarını dikkate alarak üretilebilirlik gereklerine uygun şekilde gerçekleştirir.",
+  "Katıların (zemin, metaller, plastikler ve kompozit malzemeler) davranışını ve yapısal yüklerle ilgili olarak akışkanlar mekaniğini dikkate alarak ihtiyaç duyulan termo-mekanik, burkulma, yapısal ve dinamik analizleri gerçekleştirir.",
+  "Analiz ve tasarımlarında mukavemet ve elastisite teorisini kullanır.",
+  "Sonlu eleman yöntemlerini kullanarak sistemi ve bileşenleri analiz eder.",
+  "Malzemenin mekanik davranışı hakkındaki teorik bilgileri uygulayarak yorulma, kırılma ve hata analizleri yapar.",
+  "Analitik ve hesaplama yöntemlerini kullanarak titreşimleri tahmin eder, simüle edilen ve ölçülen titreşimleri yorumlar.",
+  "Tasarımları üretim ve montaj sırasında ortaya çıkabilecek problemleri önleyecek şekilde yapar; montaj alanından gelen geri dönüşlere göre ya da ağırlık azaltma fırsatlarını kullanarak tasarımları iyileştirir.",
+  "Alanındaki yenilikçi teknoloji ve sistemleri, güncel gelişme ve uygulamaları takip eder ve uygular.",
+  "Alanındaki uluslararası standart, sertifikasyon, metodoloji ve çerçeve, bilgi birikimi kılavuzları gibi referans kaynaklarını takip eder ve uygular.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Mesleğin temel eğitimi, üniversitelerin mühendislik fakültelerine bağlı Makine Mühendisliği, Havacılık ve Uzay Mühendisliği, Uçak Mühendisliği gibi ilgili mühendislik bölümlerinde lisans düzeyinde verilmektedir. Bu lisans eğitiminin ardından, savunma sanayiine özgü yapısal analiz ve tasarım uzmanlığı; savunma sanayii kuruluşlarında işbaşında usta-çırak ilişkisine dayalı uygulamalı eğitim, kurum içi teknik eğitim programları, ilgili mühendislik alanlarında yüksek lisans programları ve sektörel/uluslararası sertifika programları yoluyla kazanılmaktadır.",
+  "giris_kosullari": [
+   "Lise veya dengi okul mezunu olmak",
+   "Yükseköğretim Kurumları Sınavı (YKS) sonucuna göre ilgili mühendislik lisans programına yerleşmek",
+   "Meslek yüksekokulu veya ön lisans programı mezunlarının Dikey Geçiş Sınavı (DGS) ile ilgili mühendislik lisans programına geçiş yapabilmesi"
+  ],
+  "sure_ve_icerik": "İlgili mühendislik lisans eğitiminin süresi 4 yıldır; matematik, fizik, mukavemet, malzeme bilimi, mekanik ve tasarım gibi temel ve meslek dersleri teorik ve uygulamalı olarak verilir, eğitim sürecinde işyeri stajları bulunur. Lisans eğitimi sonrasında, savunma sanayii kuruluşlarında yürütülen gerçek projelerde sistem mühendisliği, yapısal analiz, sonlu elemanlar yöntemi, titreşim ve yorulma analizi gibi konularda uygulamalı ve kurum içi eğitimlerle mesleki uzmanlaşma sağlanır; bu süreç genellikle kurumsal ve sektörel sertifika programlarıyla desteklenir.",
+  "belge": "İlgili mühendislik bölümünden alınan lisans diploması (örneğin Makine Mühendisliği, Havacılık ve Uzay Mühendisliği veya Uçak Mühendisliği); ayrıca kurum içi eğitimler ve katılınan sertifika programlarına ilişkin katılım/yeterlilik belgeleri alınabilir."
+ },
+ "calisma_alanlari": "Yapısal Analiz ve Tasarım Uzmanı (Savunma Sanayi); hava, deniz ve kara araçları ile silah sistemleri ve bunların alt sistem ve bileşenlerini geliştiren, üreten veya bakım-idamesini yürüten savunma sanayii şirketlerinde ve bu şirketlere bağlı AR-GE/tasarım merkezlerinde çalışabilir. Kamuya bağlı savunma sanayii kuruluşları, savunma ve havacılık alanında üretim yapan özel sektör firmaları ile üniversite-sanayi işbirliği kapsamındaki AR-GE projelerinde de istihdam edilebilir. Türkiye'de savunma sanayiinde yerlileşme ve millileşme politikalarına verilen önem, bu alandaki nitelikli mühendis ihtiyacını artırmaktadır.",
+ "kazanc": {
+  "egitim_suresince": "Lisans eğitimi süresince öğrenciler, Yükseköğrenim Kredi ve Yurtlar Kurumunun sağladığı öğrenim ve harç kredilerinden, ayrıca üniversiteler ve bazı kurum/kuruluşların sunduğu burs imkânlarından yararlanabilirler.",
+  "egitim_sonrasi": [
+   "Özel sektörde çalışan uzmanların ücreti, deneyim, eğitim düzeyi (yüksek lisans/doktora), proje kapsamı ve işletmenin büyüklüğüne göre karşılıklı anlaşma ile belirlenir.",
+   "Kamu kesiminde çalışanlar 657 sayılı Devlet Memurları Kanunu'na göre teknik personel statüsünde maaş ve yan ödeme alır; kamu kurumlarında işçi statüsünde istihdam söz konusuysa ücret toplu iş sözleşmesi hükümlerine göre belirlenir.",
+   "Mesleğe yeni başlayanların ücreti genellikle sektördeki mühendislik giriş seviyesi ücretlerine yakın olup, deneyim ve uzmanlaşma ile birlikte artış gösterir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Lisans eğitiminin ardından ilgili mühendislik alanlarında yüksek lisans ve doktora yapılabilir, akademik kariyere yönelinebilir. Sonlu elemanlar analizi, yapısal dinamik, sistem mühendisliği, proje yönetimi gibi konularda sektörel ve uluslararası sertifika programlarına katılarak mesleki bilgi ve beceriler geliştirilebilir. Yabancı dil bilgisi, özellikle uluslararası standart ve kılavuzların takibi açısından önemli bir avantaj sağlar.",
+  "is_hayatinda": "Deneyim kazanan uzmanlar kıdemli mühendis, proje lideri, teknik müdür veya AR-GE/tasarım birimi yöneticisi gibi pozisyonlara ilerleyebilir. Teknik yetkinliklerinin yanında proje ve risk yönetimi, ekip liderliği gibi yönetsel becerilerini geliştirenler üst düzey yönetim kademelerine yükselebilir."
+ },
+ "benzer_meslekler": [
+  "Makine ve İmalat Mühendisi",
+  "Makine Mühendisi",
+  "Havacılık Mühendisi",
+  "Havacılık ve Uzay Mühendisi/Uzay Mühendisi",
+  "Gemi İnşaatı ve Gemi Makineleri Mühendisi",
+  "İtki ve Motor Sistemleri Uzmanı (Savunma Sanayi)"
+ ],
+ "ek_bilgiler": "Bu meslek, savunma sanayii projelerinin niteliği nedeniyle gizlilik dereceli bilgi ve belgelerle çalışmayı gerektirebilir; bu kapsamda işe alım süreçlerinde güvenlik soruşturması ve/veya arşiv araştırması istenebilir. Mesleki Yeterlilik Kurumu (MYK) belgesi veya sektöre özgü uluslararası sertifikalar, istihdamda tercih sebebi olabilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-07T21:28:15",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 7620
+  }
+ }
+}

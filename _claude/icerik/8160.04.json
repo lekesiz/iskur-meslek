@@ -1,0 +1,76 @@
+{
+ "gorevler": [
+  "Balık yemi imalatına ilişkin bilgileri alır,",
+  "Reçeteye göre karışım bilgilerini bilgisayara girer,",
+  "Bilgisayar monitöründen karışım oranlarının sıralamasını girer,",
+  "Karışım ürünlerinin değirmene sevkiyatını monitörden takip eder,",
+  "Kesim milimine göre bıçak seçer ve değirmen çıkışına yerleştirir,",
+  "Üretimden rastgele örnekler alır, belirlenen süreler dahilinde muhafaza eder,",
+  "Ar-Ge birimiyle yenilikler hakkında istişare eder,",
+  "Üretim aşamalarında arıza tespit edildiğinde ilgili birimlere haber verir,",
+  "Mesleği alanındaki gelişmeleri takip eder,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "arac_gerec": [
+  "Balık yemi üretim değirmeni",
+  "Karışım/mikser üniteleri",
+  "Bilgisayar ve üretim kontrol yazılımı (monitör, kumanda paneli)",
+  "Değişik kesim ölçülerine uygun bıçak takımları",
+  "Tartım ve dozajlama ekipmanları",
+  "Taşıma bantları/konveyörler",
+  "Numune alma kapları ve muhafaza ekipmanları",
+  "Ambalajlama ve paketleme makineleri",
+  "Forklift/transpalet (hammadde ve ürün taşıma)",
+  "Koruyucu iş elbisesi, eldiven, maske ve kulak koruyucu gibi kişisel koruyucu donanım"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve titiz,",
+  "Sorumluluk duygusu gelişmiş,",
+  "El ve göz koordinasyonuna sahip,",
+  "Sayısal verilerle ve bilgisayarla çalışmaya yatkın,",
+  "Talimatlara ve iş güvenliği kurallarına uyan,",
+  "Ekip çalışmasına yatkın,",
+  "Fiziksel olarak dayanıklı,",
+  "Düzenli ve planlı çalışabilen"
+ ],
+ "calisma_ortami": "Balık yemi imal işçisi, genellikle balık unu/yağı ve su ürünleri yemi üreten fabrikalarda, kapalı alanlarda çalışır. Çalışma ortamı makine gürültüsü, titreşim, toz ve kendine özgü koku açısından hassas bir ortamdır; nem oranı zaman zaman yüksek olabilir. Üretim genellikle vardiyalı sistemle, zaman zaman tam gün veya mevsimsel yoğunlukla sürdürülür. İşçi sağlığı ve iş güvenliği önlemlerinin (koruyucu giysi, eldiven, maske, kulak koruyucu vb.) eksiksiz alınması ve kurallara uyulması hem yasal hem de sağlık açısından önemlidir.\n\nÇalışma sırasında üretim ekibindeki diğer işçilerle, vardiya/üretim sorumlusuyla, kalite kontrol ve Ar-Ge birimi çalışanlarıyla iletişim kurulur. İş, büyük ölçüde makine ve bilgisayar destekli kontrol panelleri aracılığıyla yürütülür; hammadde ve ürünün tesis içinde taşınması sırasında fiziksel güç de gerekebilir.",
+ "egitim": {
+  "verildigi_yerler": "Balık yemi imal işçiliği için örgün eğitim veren, bu mesleğe özgü ayrı bir meslek lisesi programı veya dalı bulunmamaktadır. Mesleğin gerektirdiği bilgi ve beceriler genellikle işyerinde usta işçi gözetiminde işbaşı eğitimiyle, kurum içi eğitimlerle ya da Halk Eğitim Merkezleri ve İŞKUR'un açtığı gıda/yem üretimi ile ilgili mesleki eğitim kurslarıyla kazanılır. Mesleki ve teknik eğitim kurumlarının gıda teknolojisi alanındaki genel programları da dolaylı olarak temel bilgi sağlayabilir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "Mesleğin fiziksel gerektirdiklerini (ayakta çalışma, kapalı ve nemli ortamda bulunma vb.) karşılayacak genel sağlık durumuna sahip olmak",
+   "İşe alınacağı işletmenin belirlediği koşulları (yaş, sağlık raporu vb.) sağlamak"
+  ],
+  "sure_ve_icerik": "Mesleğe özgü standart ve süresi önceden belirlenmiş bir eğitim programı bulunmamaktadır. İşletmeye girenler, genellikle usta işçi veya vardiya sorumlusu gözetiminde kısa süreli bir uyum/işbaşı eğitimi alarak üretim sürecini, reçeteye göre karışım hazırlama, bilgisayar/kontrol paneli kullanımı, bıçak seçimi ve değiştirme, numune alma, iş sağlığı ve güvenliği ile hijyen kurallarını öğrenir. Bu süreç işletmenin büyüklüğüne ve üretim teknolojisine göre birkaç haftadan birkaç aya kadar değişebilir.",
+  "belge": "Mesleğin örgün bir diploma veya kalfalık/ustalık belgesi bulunmamaktadır. İşletme veya kurs sonunda katılım/başarı belgesi verilebilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, iş bulma ve kariyer gelişiminde tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Balık yemi imal işçisi, başta su ürünleri (akuakültür) yemi üreten özel sektör fabrikaları olmak üzere, hayvan yemi üretim tesislerinin balık yemi bölümlerinde çalışabilir. Bu işletmeler, su ürünleri yetiştiriciliğinin yoğun olduğu kıyı bölgelerinde ve büyük gıda/yem üretim merkezlerinde daha fazla iş imkânı sunmaktadır. İstihdam büyük ölçüde özel sektörde, işletmenin üretim kapasitesine ve sipariş yoğunluğuna bağlı olarak gerçekleşir.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğe özgü, yasayla düzenlenmiş bir çıraklık/eğitim ücreti sistemi bulunmamaktadır. İşletme bünyesinde işbaşı eğitim alanlara, çalıştıkları süre boyunca genellikle asgari ücret düzeyinde ücret ödenmektedir.",
+  "egitim_sonrasi": [
+   "Kazanç, çalışılan işletmenin büyüklüğüne, kişinin deneyimine, bilgi ve becerisine, çalışma kapasitesine ve sektörün genel ücret düzeyine göre değişebilir.",
+   "İşe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç elde eder; deneyim arttıkça ücret de yükselebilir.",
+   "Özel sektörde çalışma büyük ölçüde işveren ile çalışan arasındaki anlaşmaya bağlıdır."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğe özgü kademeli bir örgün eğitim basamağı bulunmadığından ilerleme, genellikle kişinin katıldığı gıda/yem üretimiyle ilgili kurslar, işletme içi eğitimler ve edindiği tecrübeyle sağlanır. İsteyenler açık öğretim yoluyla genel eğitim düzeyini yükseltebilir veya gıda teknolojisiyle ilgili mesleki ve teknik eğitim programlarına yönelebilir.",
+  "is_hayatinda": "Deneyim ve bilgi birikimi arttıkça usta işçilik, vardiya sorumluluğu veya üretim nezaretçiliği gibi görevlere yükselebilir. İşletmecilik bilgisi ve sermayesi olanlar, kendi küçük ölçekli yem üretim işletmelerini kurabilir."
+ },
+ "benzer_meslekler": [
+  "Değirmen İşçisi (Yağlı Tohum)",
+  "Değirmen İşçisi (Hububat)",
+  "Diğer Değirmen İşçileri (Hububat, Baklagil ve İlgili Ürünler)",
+  "Bulgur İmal İşçisi",
+  "Kurutucu (Gıda Maddeleri)"
+ ],
+ "ek_bilgiler": "Balık yemi imalatı, büyük ölçüde su ürünleri yetiştiriciliğinin yoğun olduğu kıyı bölgelerinde yoğunlaşan bir alt sektördür; bu nedenle iş imkânları coğrafi olarak bölgesel yoğunluk gösterebilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T15:04:14",
+  "usage": {
+   "input_tokens": 6,
+   "output_tokens": 12601
+  }
+ }
+}

@@ -1,0 +1,77 @@
+{
+ "arac_gerec": [
+  "El aletleri (tornavida, pense, anahtar takımı vb.)",
+  "Kumpas, metre ve açı ölçer gibi ölçüm aletleri",
+  "Multimetre ve osiloskop gibi elektrik/elektronik ölçüm cihazları",
+  "PLC (Programlanabilir Mantık Denetleyici) ve programlama yazılımı yüklü bilgisayar",
+  "Hidrolik ve pnömatik devre elemanları (silindir, valf, şartlandırıcı, hortum, boru)",
+  "Algılayıcılar (sensörler) ve kablo kanalları",
+  "Motor sürücüler, ana kontrol ve operatör panelleri",
+  "Kaynak ve montaj ekipmanları",
+  "Kişisel koruyucu donanım (iş eldiveni, gözlük, iş ayakkabısı vb.)",
+  "El ve testere tipi kesme-şekillendirme aletleri"
+ ],
+ "genel_ozellikler": [
+  "Teknik konulara ve elektrik-elektronik/mekanik sistemlere ilgi duyan,",
+  "El becerisine ve şekil-uzay ilişkilerini kavrama yeteneğine sahip,",
+  "Dikkatli, sabırlı ve titiz çalışabilen,",
+  "Analitik düşünebilen ve problem çözme becerisine sahip,",
+  "Sorumluluk sahibi ve ekip çalışmasına yatkın,",
+  "Görme ve işitme duyuları sağlam,",
+  "Fiziksel olarak sağlıklı ve bedensel olarak zorlayıcı işlerde çalışabilecek güçte,",
+  "Makine ve tesisatla çalışmaktan rahatsızlık duymayan kişiler olması gerekir."
+ ],
+ "calisma_ortami": "\"Otomatik Kumanda Teknisyeni, genellikle fabrika, atölye ve üretim tesislerinin montaj ve bakım alanlarında, kapalı mekânlarda çalışır. Çalışma ortamı zaman zaman gürültülü olabilir; hareketli makine parçaları, elektrik bağlantıları ve basınçlı hava/hidrolik sistemlerle iç içe çalıştığı için iş sağlığı ve güvenliği kurallarına titizlikle uyması gerekir. Çalışma sırasında eğilme, uzanma gibi bedensel çaba gerektiren hareketler yapabilir ve zaman zaman yüksekte veya dar alanlarda çalışması gerekebilir.\\n\\nMeslek mensubu, çalıştığı işletmedeki mühendisler, teknikerler, ustabaşılar ve operatörlerle sürekli iletişim hâlindedir. İşletmenin üretim programına ve arıza/bakım ihtiyaçlarına göre çalışma saatleri değişebilir; vardiyalı çalışma ve bazı durumlarda saha/müşteri işletmelerde kurulum-servis amaçlı seyahat söz konusu olabilir.\"",
+ "egitim": {
+  "verildigi_yerler": "Meslek eğitimi, mesleki ve teknik ortaöğretim kurumlarının elektrik-elektronik teknolojileri, mekatronik veya endüstriyel otomasyon teknolojileri ile ilgili alan/dallarında verilmektedir. Ayrıca mesleki eğitim merkezlerinde çıraklık ve kalfalık/ustalık eğitimi yoluyla, Halk Eğitim Merkezleri ile İŞKUR'un açtığı mesleki eğitim kurslarında da bu mesleğe yönelik bilgi ve beceri kazanılabilir.",
+  "giris_kosullari": [
+   "Ortaokulu bitirmiş olmak",
+   "İlgili mesleki ve teknik ortaöğretim alanına yönlendirme/yerleştirme sisteminde belirlenen koşulları taşımak",
+   "Mesleki eğitim merkezi yoluyla eğitime girmek isteyenler için ilgili mevzuatta belirtilen yaş ve öğrenim koşullarını taşımak"
+  ],
+  "sure_ve_icerik": "Mesleki ve teknik ortaöğretim kurumlarında eğitim, ortaokuldan sonra 4 yıl sürmekte olup teorik derslerin yanı sıra atölye uygulamaları ve işletmelerde beceri eğitimini (staj) kapsar. Eğitim içeriğinde elektrik-elektronik devreler, hidrolik-pnömatik sistemler, PLC programlama, otomasyon sistemlerinin montajı, devreye alınması, bakım ve onarımına ilişkin bilgi ve beceriler yer alır. Mesleki eğitim merkezi yoluyla eğitim alanlarda süre ve içerik, işletmede usta öğretici gözetiminde yapılan uygulamalı eğitim ile desteklenir; kurs yoluyla edinilen eğitimlerde süre kursun içeriğine göre değişir.",
+  "belge": "Mesleki ve teknik ortaöğretim kurumunu tamamlayanlara lise diploması; mesleki eğitim merkezi yoluyla eğitim alanlara kalfalık/ustalık belgesi; kurs yoluyla eğitim alanlara ise kurs bitirme/katılım belgesi verilir. Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "\"Otomatik Kumanda Teknisyenleri; endüstriyel otomasyon sistemleri kuran, devreye alan ve bakımını yapan firmalarda, makine imalat sanayinde, gıda, tekstil, otomotiv, kâğıt, kimya, çimento gibi çeşitli üretim sektörlerindeki fabrikaların bakım-onarım ve üretim birimlerinde çalışabilmektedir. Ayrıca otomasyon sistemleri kurulum ve servis hizmeti veren özel firmalarda saha teknisyeni olarak da istihdam edilebilirler. Kamu kurum ve kuruluşlarının teknik birimlerinde de görev alma imkânı bulunmaktadır.\"",
+ "kazanc": {
+  "egitim_suresince": "Mesleki ve teknik ortaöğretim kurumlarında okuyan öğrenciler, işletmelerde beceri eğitimi (staj) döneminde bazı işletmelerden cep harçlığı niteliğinde ödeme alabilirler. Mesleki eğitim merkezinde çırak statüsünde eğitim görenlere ise ilgili mevzuat gereği asgari ücretin belirli bir oranında ücret ödenir. Kurs yoluyla eğitim alanlarda genellikle ücret söz konusu değildir.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında işçi statüsünde çalışanlar toplu iş sözleşmesi hükümlerine tabi olarak ücret alır.",
+   "Özel sektörde ücret, işveren ile çalışan arasında karşılıklı anlaşmayla belirlenir; bilgi, beceri, deneyim ve işletmenin büyüklüğüne göre değişiklik gösterir.",
+   "Yeni mezun olup mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç elde ederken, deneyim ve uzmanlık arttıkça kazanç artabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleki ve teknik ortaöğretim kurumundan mezun olanlar, isteyen ve ilgili sınavlarda başarılı olanlar elektrik-elektronik, mekatronik veya otomasyon teknolojileri alanlarındaki ön lisans programlarına yönelebilir; ön lisans mezunları da Dikey Geçiş Sınavı (DGS) ile lisans programlarına geçiş yapabilirler.",
+  "is_hayatinda": "İş hayatında edinilen deneyim ve ek eğitimlerle usta teknisyen, bakım-onarım sorumlusu, ekip/vardiya şefi gibi görevlere yükselme imkânı bulunmaktadır. Otomasyon mühendisleri ve teknikerleriyle birlikte çalışarak sistem kurulumu ve devreye alma konularında uzmanlaşabilirler."
+ },
+ "benzer_meslekler": [
+  "Endüstriyel Otomasyon Teknolojisi/Otomatik Kumanda/Endüstriyel Otomasyon Teknolojisi (Elektronik)/Kontrol ve Enstrümantasyon Teknisyeni",
+  "Otomasyon Sistemleri Teknisyeni / Otomatik Kumanda Teknisyeni",
+  "Otomasyon Sistemleri Programcısı",
+  "Endüstriyel Robot Programcısı",
+  "CNC Takım Tezgahları Uygulama ve Servis Görevlisi",
+  "NC/CNC Takım Tezgâhları Elektrik/Elektronik Servis Görevlisi"
+ ],
+ "ek_bilgiler": "\"Çalışılan işyerine ve yapılan işin niteliğine göre bu meslek, tehlikeli veya çok tehlikeli işler kapsamında değerlendirilebilir; bu durumda periyodik sağlık kontrolleri ve iş güvenliği eğitimleri zorunlu olabilir. Sanayide otomasyon uygulamalarının yaygınlaşmasıyla bu mesleğe olan talebin artması beklenmektedir.\"",
+ "gorevler": [
+  "Otomatik kumanda sistemini kurmak için projeyi ve kurulacak yeri inceler, projeye göre malzemeleri temin eder.",
+  "Silindirleri, şartlandırıcıları, algılayıcıları ve kablo kanallarını taşıyıcı gövdeye monte eder.",
+  "Kontrol ünitesini projede belirlenen yere monte eder.",
+  "Hidrolik/pnömatik sistem elemanları arasındaki hortum, boru ve sistem elektrik bağlantılarını yapar.",
+  "Hidrolik/pnömatik güç kaynaklarını, motor sürücülerini, ana kontrol ve operatör panellerini monte eder.",
+  "Yazılımı sisteme yükler ve plot üretim yaparak sistemi test eder.",
+  "Ürün tipine göre aparat değiştirir ve kontrol sistem parametrelerini girer.",
+  "Sistemi çalıştırır, üretim bantında ürün akışını ve kontrol panellerini gözler, ürünün genel kontrolünü yapar.",
+  "Otomatik kumanda sisteminin bakım, onarım ve kontrollerini yapar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T11:21:03",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6823
+  }
+ }
+}

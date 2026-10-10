@@ -1,0 +1,82 @@
+{
+ "arac_gerec": [
+  "El takımları (anahtar, tornavida, pense, çekiç, eğe, testere vb.)",
+  "Ölçme ve kontrol aletleri (kumpas, komparatör, çelik cetvel, mikrometre)",
+  "Titreşim ölçüm cihazı ve termometre/termal kamera",
+  "Basınç ölçer (manometre) ve sızdırmazlık test takımları",
+  "Hidrolik ve pnömatik test ve bağlantı ekipmanları",
+  "Yağlama ekipmanları (gresörler, yağ pompaları, yağlama tabancası)",
+  "Kaldırma ve taşıma ekipmanları (vinç, kriko, zincir, palanga)",
+  "Lokma takımları, matkap ve taşlama tezgâhı",
+  "Kompresör",
+  "Kaynak ve kesme ekipmanları",
+  "Rulman, burç, kam, yay gibi yedek parçalar",
+  "Kişisel koruyucu donanım (iş eldiveni, koruyucu gözlük, baret, iş ayakkabısı)"
+ ],
+ "genel_ozellikler": [
+  "El ve kol becerisine sahip,",
+  "Makine parçaları arasındaki ilişkiyi görebilen,",
+  "El-gözünü eşgüdümle kullanabilen,",
+  "Dikkatli ve sabırlı,",
+  "Fiziksel olarak dayanıklı ve güçlü,",
+  "Aletlerle ve makinelerle çalışmaktan hoşlanan,",
+  "Sorumluluk sahibi ve güvenilir,",
+  "Takım halinde çalışmaya uyumlu,"
+ ],
+ "calisma_ortami": "Mekanik bakım ve onarımcısı, genellikle fabrika, atölye ve işletmelerin üretim sahalarında, kapalı mekânlarda çalışır; arıza yerine göre açık alanlarda veya yüksekte çalışma da gerekebilir. Ortam sıcak/soğuk, gürültülü, yağlı ve tozlu olabilir; ağır parça kaldırma, kesici-delici aletler ve hareketli makine parçaları nedeniyle iş kazası riski bulunduğundan iş sağlığı ve güvenliği kurallarına uyum önemlidir.\n\nÇalışma saatleri işletmenin üretim programına bağlı olarak değişebilir; bazı işyerlerinde vardiyalı çalışma veya ani arızalarda mesai saatleri dışında çağrılma söz konusu olabilir. Meslek, üretim ve bakım mühendisleri, operatörler, diğer bakım personeli ve zaman zaman tedarikçi/yetkili servis temsilcileriyle iş birliği ve iletişim gerektirir.",
+ "gorevler": [
+  "Makinenin kurulacağı yeri belirler, alt yapısını hazırlar, yerine yerleştirir ve sabitler.",
+  "Makinenin hidrolik, pnömatik ve soğutma suyu bağlantısını yapar, yağ ve soğutma sıvısı koyar.",
+  "Makinede bulunan pompa ve motorların dönüş yönlerini, yağ ve hava basıncını, makine parametrelerini ve emniyet sistemlerini kontrol eder, test parçası imal ettirir.",
+  "Makinenin titreşim ve ısısını ölçer.",
+  "Makinenin basınç ve kuvvetini, bağlantı elemanlarının gevşekliğini, yağ akışını, balansını ve sızdırmazlık elemanlarını kontrol eder.",
+  "Makine ve ekipmanın periyodik olarak merkezi yağlama sistemini, akümülatörün gaz basıncını, hidrolik ve pnömatik sistemlerini, kavrama ve fren sistemlerini, emniyet sistemlerini ve tahrik organlarını kontrol eder.",
+  "Makine ve ekipmanın periyodik olarak dişli kutusu yağlarını, rulman ve burçlarını, kam, makara ve yaylarını değiştirir.",
+  "Makine ve ekipmanın arızasını tespit eder ve arızanın nedenlerini araştırır.",
+  "Makine ve ekipmanın mekanik, pnömatik ve hidrolik arızalarını giderir (parçayı söker, onarır veya değiştirir ve sökülen parçayı monte eder).",
+  "Makinenin çalışmasını test eder.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Bu meslek için ayrı, tek bir ad altında tanımlanmış bağımsız bir mesleki eğitim merkezi/meslek lisesi dalı bulunmamaktadır. Eğitim genellikle mesleki eğitim merkezlerinin ve mesleki ve teknik ortaöğretim kurumlarının makine teknolojisi/endüstriyel bakım onarım ile ilişkili alan ve dallarında, işyerlerinde usta yanında çalışılarak ya da Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kurslarıyla kazanılmaktadır.",
+  "giris_kosullari": [
+   "Çıraklık eğitimine başlamak için en az ortaokul mezunu olmak",
+   "14 yaşını doldurmuş olmak",
+   "Mesleğin gerektirdiği fiziksel ve sağlık koşullarına uygun olmak (gerektiğinde sağlık raporuyla belgelendirilir)",
+   "Eğitim görmek istediği meslekte bir işyeri bulup işvereniyle çıraklık/eğitim sözleşmesi imzalamak",
+   "Kurslara katılım için ilgili kurumun belirlediği yaş ve öğrenim şartlarını taşımak"
+  ],
+  "sure_ve_icerik": "Mesleki eğitim merkezi yoluyla yetişenlerde eğitim süresi, seçilen alana göre genellikle kalfalık ve ardından ustalık eğitimini kapsayan birkaç yıllık bir süreçtir; eğitimin bir bölümü teorik derslerle, bir bölümü ise işyerinde usta öğreticinin gözetiminde uygulamalı olarak verilir. Kurs yoluyla yetişenlerde ise eğitim, makine elemanları, el takımlarının kullanımı, ölçme-kontrol, yağlama, hidrolik-pnömatik sistemler, arıza tespiti ve giderme gibi konuları içeren daha kısa süreli modüller halinde verilir.",
+  "belge": "Mesleki eğitim merkezi yoluyla yetişenlere kalfalık ve ustalık belgesi; kurs yoluyla yetişenlere ise katılım/başarı belgesi verilir. Mesleki Yeterlilik Kurumu (MYK) tarafından yetkilendirilmiş kuruluşlardan alınabilecek mesleki yeterlilik belgesi, bazı işyerlerinde tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Mekanik bakım ve onarımcıları, endüstriyel üretim yapan fabrika ve işletmelerde (tekstil, gıda, metal, kimya, çimento, kağıt, ambalaj, enerji vb. sektörlerde) bakım-onarım birimlerinde istihdam edilebilirler. Ayrıca bakım-onarım hizmeti veren özel firmalar, makine imalat ve montaj işletmeleri, yetkili servisler ve kamu kuruluşlarının teknik bakım departmanlarında da çalışabilirler. Sanayi üretiminin ve otomasyonun yaygınlaşması, bu meslekte nitelikli iş gücüne olan talebi desteklemektedir.",
+ "kazanc": {
+  "egitim_suresince": "Mesleki eğitim merkezi yoluyla çıraklık eğitimi görenlere, 3308 sayılı Mesleki Eğitim Kanunu'nda belirlenen esaslara göre işveren tarafından ücret ödenir ve iş kazası ile meslek hastalığı sigortası devletçe karşılanır. İŞKUR veya Halk Eğitim Merkezleri aracılığıyla kursa katılanlara ise genellikle kursiyer harçlığı/ücreti ödenebilir.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında istihdam edilenler 657 sayılı Devlet Memurları Kanunu'na veya işçi statüsünde çalışıyorlarsa ilgili toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde yeni başlayanların kazancı genellikle asgari ücret düzeyindedir; deneyim, bilgi, beceri, çalışılan işyerinin büyüklüğü ve sektörün ücret düzeyine göre bu kazanç artabilir.",
+   "Kendi işyerini açanların kazancı, işin hacmine ve müşteri potansiyeline göre değişkenlik gösterir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleki eğitim merkezinden diploma alarak mezun olanlar, YKS Kılavuzunda belirtilen ve alanın devamı niteliğindeki ön lisans/lisans programlarını tercih ettiklerinde ek puandan yararlanabilirler. Ayrıca çeşitli kurs ve sertifika programlarıyla mesleki bilgi ve beceriler geliştirilebilir.",
+  "is_hayatinda": "İş hayatında deneyim kazanan kişiler ustabaşı, bakım şefi veya bakım sorumlusu gibi görevlere yükselebilir; ileri düzey kurs ve sertifikalarla hidrolik-pnömatik sistemler, kestirimci bakım gibi uzmanlık alanlarına yönelebilir. Yeterli deneyim ve sermayeye sahip olanlar kendi bakım-onarım işyerlerini açabilir."
+ },
+ "benzer_meslekler": [
+  "Makine Bakım Ustası",
+  "Makine Montaj ve Bakım Onarımcısı",
+  "Makine Kurma ve Tesisat İşçisi",
+  "Makine Bakım ve Onarımcısı",
+  "Mekaniker-Fabrika Bakımı",
+  "Kestirimci Bakım Elemanı"
+ ],
+ "ek_bilgiler": "Bu meslek, çalışılan sektöre ve yapılan işin niteliğine göre iş sağlığı ve güvenliği mevzuatı kapsamında tehlikeli veya çok tehlikeli işler sınıfında değerlendirilebilir; bu durumda işe girişte periyodik sağlık muayenesi ve iş güvenliği eğitimi şartı aranabilir. Mesleki Yeterlilik Kurumu (MYK) tarafından yetkilendirilmiş kuruluşlardan alınacak mesleki yeterlilik belgesi, işe alımlarda tercih sebebi olabilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T02:41:27",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 7513
+  }
+ }
+}

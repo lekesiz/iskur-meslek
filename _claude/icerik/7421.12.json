@@ -1,0 +1,82 @@
+{
+ "arac_gerec": [
+  "Programlanabilir lojik kontrolör (PLC) cihazları ve giriş/çıkış modülleri",
+  "PLC programlama kabloları ve bilgisayar bağlantı arabirimleri (haberleşme modülleri)",
+  "Bilgisayar ve PLC programlama yazılımları",
+  "Multimetre, ampermetre, voltmetre, ohmmetre gibi ölçme ve kontrol cihazları",
+  "Havya, lehim takımı ve baskı devre malzemeleri",
+  "Pense, kargaburun, tornavida takımları ve diğer el aletleri",
+  "Kablo, konnektör ve bağlantı elemanları",
+  "Kumanda devre elemanları (kontaktör, röle, buton, sensör, zaman rölesi)",
+  "Asenkron motorlar ve motor sürücü/inverter üniteleri",
+  "Analog giriş/çıkış devre elemanları",
+  "Teknik resim ve elektrik/elektronik şema takımları",
+  "Kişisel koruyucu donanım (eldiven, gözlük vb.)"
+ ],
+ "benzer_meslekler": [
+  "Endüstriyel Bakım-Onarım Elektronikçisi",
+  "Mekatronik Bakım Onarımcısı",
+  "Endüstriyel Kontrol Teknisyeni/Kontrol ve Enstrümantasyon Teknolojisi Teknisyeni",
+  "Akıllı Bina Otomasyon Sistemleri Bakım Onarımcısı",
+  "İşletme Elektroniği Yardımcısı",
+  "Elektronik Montörü (Genel)"
+ ],
+ "calisma_alanlari": "\"Programlanabilir Lojik Kontrol (PLC) İşçisi; fabrikalar, üretim tesisleri, montaj hatları, gıda, tekstil, otomotiv ve benzeri sanayi kuruluşlarında, endüstriyel otomasyon ve bakım-onarım hizmeti veren firmalarda, elektrik-elektronik taahhüt ve servis şirketlerinde, makine ve ekipman imalatı yapan işletmelerde çalışma imkânı bulur.\\n\\nSanayide otomasyon sistemlerinin yaygınlaşması ve üretim süreçlerinin PLC tabanlı kontrol sistemlerine geçişi ile bu alanda nitelikli eleman ihtiyacı artmaktadır. Meslek elemanları genellikle bir işletmeye bağlı olarak çalışır; deneyim ve donanım sahibi olanlar teknik servis veya otomasyon hizmeti veren küçük işletmeler açabilir.\"",
+ "calisma_ortami": "\"Programlanabilir Lojik Kontrol (PLC) İşçisi, genellikle fabrika, üretim tesisi ve atölye gibi kapalı mekânlarda, endüstriyel makine ve otomasyon panolarının bulunduğu ortamlarda çalışır. Çalışma sırasında elektrik çarpması, hareketli makine parçalarına maruz kalma ve dar alanlarda çalışma gibi riskler bulunduğundan iş sağlığı ve güvenliği kurallarına uyum büyük önem taşır. İşletmenin üretim düzenine göre vardiyalı çalışma söz konusu olabilir.\\n\\nMeslek elemanı çalışmaları sırasında mühendisler, teknisyenler, elektrikçiler ve diğer bakım-onarım personeli ile sıkı işbirliği içinde bulunur; kurulum, devreye alma ve arıza giderme çalışmalarında ekip hâlinde görev yapar.\"",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi; mesleki ve teknik eğitim okullarının ilgili Elektrik-Elektronik Teknolojisi alanlarında, mesleki eğitim merkezlerinde çıraklık eğitimi yoluyla ve Halk Eğitim Merkezleri ile İŞKUR'un açtığı mesleki eğitim kurslarında verilmektedir. Ayrıca meslek yüksekokullarının Elektrik-Elektronik, Otomasyon veya Mekatronik gibi ilgili önlisans programlarında da PLC programlama ve endüstriyel kontrol eğitimi verilmektedir.",
+  "giris_kosullari": [
+   "Çıraklık eğitimine başlamak için en az ortaokul mezunu olmak ve 14 yaşını doldurmuş olmak",
+   "Eğitim görülecek meslekte bir işyeri bulunarak işveren ile çıraklık sözleşmesi imzalanması",
+   "Sağlık durumunun mesleğin öğrenimine ve uygulamasına elverişli olması",
+   "Halk Eğitim Merkezi ve İŞKUR kurslarına katılım için genellikle temel okuryazarlık/ilköğretim düzeyinde eğitim yeterlidir",
+   "Meslek yüksekokulu önlisans programları için ortaöğretim mezunu olup ilgili yerleştirme sınavı sonucuna göre kayıt yapılması gerekir"
+  ],
+  "sure_ve_icerik": "Mesleki eğitim merkezlerinde çıraklık eğitimi ortaokul sonrasında genellikle birkaç yıl sürer; teorik dersler haftanın belirli günlerinde eğitim merkezinde, uygulamalı eğitim ise işyerinde usta öğretici gözetiminde verilir. Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kursları ise birkaç haftadan birkaç aya kadar değişen sürelerde temel elektrik-elektronik bilgisi, kumanda devreleri, PLC donanımı, giriş/çıkış bağlantıları ve PLC programlama mantığını kapsayan teorik ve uygulamalı eğitim verir. Meslek yüksekokulu önlisans programları iki yıl sürer ve PLC programlama, otomasyon sistemleri, mekatronik ve endüstriyel kontrol konularını içeren dersler sunar.",
+  "belge": "Çıraklık eğitimini tamamlayanlara kalfalık, devamında ustalık belgesi; Halk Eğitim Merkezi veya İŞKUR kurslarını tamamlayanlara kurs bitirme/katılım belgesi; önlisans programını tamamlayanlara meslek yüksekokulu diploması verilir. Ayrıca Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "genel_ozellikler": [
+  "Fen bilimleri, elektrik-elektronik ve bilgisayar konularına ilgili ve bu alanlarda başarılı,",
+  "El ve göz koordinasyonu gelişmiş,",
+  "Mantıksal ve sistematik düşünebilen, analitik yaklaşımlı,",
+  "Teknik resim ve elektrik/elektronik şema okuyabilen,",
+  "Dikkatli, tedbirli ve sabırlı,",
+  "Sorumluluk sahibi ve başkalarıyla işbirliği içinde çalışabilen,",
+  "Yeni teknolojileri öğrenmeye açık kişiler olmaları gerekir."
+ ],
+ "gorevler": [
+  "El ve güç aletlerini kullanır.",
+  "Norm yazı ve çizim uygulamaları yapar.",
+  "Lehim yapar ve baskı devre hazırlar.",
+  "PLC ve giriş çıkış elemanlarını seçerek bağlantısını yapar.",
+  "Temel mantık devrelerini kurar.",
+  "Kumanda devre elemanlarını seçer.",
+  "Asenkron motor kumanda devrelerini kurar.",
+  "PLC ile kontrol edilecek sisteme göre programı yaparak PLC'ye yükler.",
+  "Ünitelerin PLC ile kontrolünü yapar.",
+  "Asenkron motorun PLC ile kontrolünü yapar.",
+  "PLC ile analog veri için program yaparak devresini kurar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "kazanc": {
+  "egitim_suresince": "Çıraklık eğitimi sırasında 3308 sayılı Mesleki Eğitim Kanunu kapsamında asgari ücretin belirli bir oranında ücret ödenir ve eğitim gören öğrencilerin iş kazası ile meslek hastalıkları sigortası devlet tarafından karşılanır. Halk Eğitim Merkezi ve İŞKUR kurslarında genellikle ücret ödenmez; bazı İŞKUR kurslarında katılımcılara cep harçlığı verilebilir.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç elde eder.",
+   "Deneyim, bilinen PLC marka ve yazılımlarındaki uzmanlık, çalışılan işletmenin büyüklüğü ve sektörüne göre kazanç artış gösterebilir.",
+   "Kamu kurumlarında işçi statüsünde istihdam edilenlerin ücreti toplu iş sözleşmesi hükümlerine göre, özel sektörde ise işveren ile karşılıklı anlaşmaya göre belirlenir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleki eğitim merkezi veya meslek yüksekokulu mezunları, ilgili yükseköğretim (önlisans/lisans) programlarına sınav veya dikey geçiş yoluyla devam edebilir. Çeşitli PLC marka ve yazılımlarına yönelik ileri seviye kurs ve sertifika programlarına katılarak mesleki bilgi ve beceriler geliştirilebilir.",
+  "is_hayatinda": "Deneyim kazandıkça usta, ekip şefi veya bakım-onarım sorumlusu gibi pozisyonlara yükselebilir. Otomasyon mühendisleri ve teknisyenlerle birlikte proje bazlı çalışabilir, belirli bir süre sonunda kendi teknik servis veya otomasyon işletmesini kurabilir."
+ },
+ "ek_bilgiler": "\"Sanayide otomasyona geçiş ve üretim süreçlerinin dijitalleşmesi (Endüstri 4.0 eğilimleri) ile PLC programlama bilgisine olan talep artmaktadır. Farklı marka ve modellerdeki PLC cihazlarına ilişkin güncel bilgi ve beceriye sahip olmak istihdamda avantaj sağlar.\"",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T06:26:31",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6876
+  }
+ }
+}

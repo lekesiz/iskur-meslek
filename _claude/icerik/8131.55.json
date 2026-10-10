@@ -1,0 +1,77 @@
+{
+ "arac_gerec": [
+  "Karıştırma kazanları",
+  "Isıtma ve soğutma üniteleri",
+  "Emülsiyon hazırlama ve olgunlaştırma tankları",
+  "Kaplama (coating) makinesi",
+  "Soğutma silindiri / soğutma hücresi",
+  "Kurutma tüneli",
+  "Rotatif kesme ve sarma (makaralama) makinesi",
+  "Film ve kağıt rulo/makaraları",
+  "Sıcaklık ve nem kontrol cihazları",
+  "Tartım ve ölçüm ekipmanları",
+  "Kimyasal madde depolama kapları",
+  "Kişisel koruyucu donanım (eldiven, gözlük, maske, iş önlüğü)",
+  "Karartılmış oda/bölüm aydınlatma ve güvenlik ekipmanları"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve titiz,",
+  "El ve göz koordinasyonu iyi,",
+  "Kimyasal maddelerle çalışmaya uygun sağlık yapısına sahip,",
+  "Talimatlara eksiksiz uyabilen,",
+  "Takım çalışmasına yatkın,",
+  "Fiziksel olarak dayanıklı,",
+  "Sorumluluk sahibi,",
+  "Az ışıklı/karartılmış ortamlarda çalışmaya uyum sağlayabilen"
+ ],
+ "calisma_ortami": "Fotoğraf filmi ve kağıdı imal işçisi, genellikle fabrika ortamında kapalı mekanlarda çalışır. Film ve kağıt yüzeyindeki emülsiyon tabakası ışığa duyarlı olduğundan, üretimin bazı aşamaları karartılmış veya özel aydınlatmalı bölümlerde yürütülür. Kimyasal madde buharına, nem ve sıcaklık kontrolüne ihtiyaç duyulan ortamlarda çalışıldığından kişisel koruyucu donanım kullanımı önemlidir.\n\nİş genellikle ayakta ve makine başında yürütülür, vardiyalı çalışma düzeni görülebilir. Çalışma sırasında üretim hattındaki diğer işçiler, vardiya amirleri ve kalite kontrol personeli ile iletişim halinde olunur.",
+ "calisma_alanlari": "Mesleğin icra edildiği başlıca yerler fotoğraf filmi ve fotoğraf kağıdı üreten fabrika ve imalathanelerdir. Dijital fotoğrafçılığın yaygınlaşması nedeniyle analog film ve fotoğraf kağıdı üretimine olan talep büyük ölçüde azalmış olup, bu alandaki üretim tesisi sayısı ve dolayısıyla istihdam olanakları dünya genelinde sınırlıdır.",
+ "ek_bilgiler": "Dijital fotoğrafçılığın yaygınlaşmasıyla birlikte geleneksel fotoğraf filmi ve kağıdı üretimine olan talep büyük ölçüde azalmıştır; bu nedenle mesleğin istihdam olanakları sınırlıdır ve dünya genelinde az sayıda üretim tesisi bulunmaktadır. Üretim sürecinde kullanılan kimyasal maddeler ve ışığa duyarlı malzemelerle çalışılması nedeniyle iş sağlığı ve güvenliği önlemlerine titizlikle uyulması gerekmektedir.",
+ "gorevler": [
+  "Jelatin, su ve kimyasal maddeleri bir kazanda karıştırır,",
+  "Karışımı belirli bir süre ısıtır ve soğumaya bırakarak pelte kıvamında emülsiyon malzemesi elde eder,",
+  "Kaplama işleminden önce istenilen yoğunlukta emülsiyon maddesi elde edebilmek için sıcaklığı kontrol eder; istenilen kaplamaya göre başka kimyasal maddeler de katarak pelte kıvamındaki emülsiyon maddesini eritip olgunlaştırır,",
+  "Kaplama makinesini çalıştırır ve boş film ile kağıdı makineye verir,",
+  "Film ve kağıdı sıvı haldeki emülsiyon maddesi içinden, soğutulmuş bir silindir üzerinden veya soğutma hücresinden geçirdikten sonra havası filtre edilmiş ve ısıtılmış bir kurutma tünelinden geçirir,",
+  "Film veya kağıdı dar bantlar halinde kesip her bandı otomatik olarak bir makaraya saran rotatif makineyi çalıştırır,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Bu meslek için ülkemizde yaygın ve standart bir örgün mesleki eğitim programı bulunmamaktadır. Meslek elemanları genellikle çalıştıkları fabrikalarda işbaşında, usta yanında yetiştirilmektedir. Kimyasal madde kullanımı, iş sağlığı ve güvenliği gibi konularda Halk Eğitim Merkezleri ile İŞKUR tarafından açılan mesleki eğitim kurslarından yararlanılabilir; ayrıca kimya teknolojisi veya kimya laboratuvarı alanındaki mesleki ve teknik eğitim programlarından edinilen temel bilgiler bu mesleğe geçişte faydalı olabilir.",
+  "giris_kosullari": [
+   "İlköğretim mezunu olmak (meslek için aranan asgari eğitim düzeyi)",
+   "18 yaşını doldurmuş olmak",
+   "Kimyasal maddelerle çalışmaya uygun sağlık durumuna sahip olmak",
+   "Vardiyalı çalışma düzenine uyum sağlayabilmek"
+  ],
+  "sure_ve_icerik": "Standart bir kurs süresi ve müfredatı bulunmamaktadır. İşbaşı eğitimler işletmenin üretim sürecine (emülsiyon hazırlama, kaplama, kurutma, kesme-sarma) göre değişmekte olup iş sağlığı ve güvenliği, kimyasal madde kullanımı ve ilgili makinelerin kullanımı konularında uygulamalı olarak verilir.",
+  "belge": "Örgün bir eğitim programı bulunmadığından resmi bir diploma veya sertifika zorunluluğu yoktur. Katılınan mesleki eğitim kurslarından Kurs Bitirme Belgesi alınabilir; işe girişte iş sağlığı ve güvenliği eğitimi belgesi istenebilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Örgün bir eğitim programı bulunmadığından eğitim süresince ayrıca bir kazanç söz konusu değildir; işbaşında yetiştirilme genellikle ücretli çalışma kapsamında yürütülür.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanlarda ücret genellikle asgari ücret düzeyindedir.",
+   "Özel sektörde ücretler işyerine, deneyime ve çalışma koşullarına göre karşılıklı anlaşmayla belirlenir.",
+   "Kamu kuruluşlarına bağlı üretim tesislerinde işçi statüsünde istihdam söz konusu olduğunda ücretler ilgili toplu iş sözleşmesi hükümlerine göre belirlenir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğe yönelik kademeli, resmi bir örgün eğitim ilerleme sistemi bulunmamaktadır. Deneyim kazanan çalışanlar işletme içi uygulamalı eğitimlerle ustalık düzeyine ulaşabilir.",
+  "is_hayatinda": "Bilgi, beceri ve deneyim arttıkça usta, vardiya/ekip sorumlusu veya üretim şefliği gibi görevlere yükselme imkânı bulunmaktadır."
+ },
+ "benzer_meslekler": [
+  "Karıştırma Makinesi Operatörü-Kimyasal Maddeler",
+  "Kurutma Makinesi Operatörü-Kimyasal ve İlgili İşlemler",
+  "Proses İşçisi",
+  "Reaktör İşçisi (Boya)",
+  "Kristalizasyon İşçisi (Kimyasal İşlemler)"
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T12:18:51",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6377
+  }
+ }
+}

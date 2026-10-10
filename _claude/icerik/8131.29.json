@@ -1,0 +1,71 @@
+{
+ "arac_gerec": [
+  "Otomatik tüp dolum makinesi",
+  "Basınç ve dolum miktarı ayar panelleri",
+  "Manometre ve vana (başlık) montaj aparatları",
+  "Azot gazı tüpü ve basınçlandırma ekipmanı",
+  "Sızıntı test havuzu/düzeneği",
+  "Valf ve iç boru temizleme ekipmanı (basınçlı hava tabancası)",
+  "Tartım terazisi",
+  "Etiketleme/baskı makinesi",
+  "El aletleri (anahtar takımları, sıkma aparatları)",
+  "Forklift veya transpalet",
+  "Kişisel koruyucu donanım (eldiven, koruyucu gözlük, kulaklık, iş elbisesi)"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve tedbirli,",
+  "Sorumluluk duygusu yüksek,",
+  "El ve göz koordinasyonu iyi,",
+  "Teknik alet ve makineleri kullanmaya istekli,",
+  "Talimat ve iş güvenliği kurallarına uyumlu,",
+  "Fiziksel olarak sağlıklı ve dayanıklı,",
+  "Ekip çalışmasına uyumlu,",
+  "Basınçlı gaz ve ekipmanlarla çalışırken temkinli"
+ ],
+ "calisma_ortami": "Yangın söndürme tüpü dolum işi, bu ürünleri üreten veya dolum/bakımını yapan fabrika ve atölyelerde yürütülür. Çalışma genellikle ayakta ve makine başında geçer; ortam makine sesleri nedeniyle orta düzeyde gürültülü olabilir. Basınçlı gaz (azot) ve dolum sistemleriyle çalışıldığından iş güvenliği kurallarına uyum büyük önem taşır; kişisel koruyucu donanım kullanımı gereklidir.\n\nMeslek elemanı genellikle vardiyalı sistemde çalışabilir, işin niteliğine göre ayakta ve hareketli bir tempoda görev yapar. Çalışma sırasında diğer üretim/bakım personeli, ustabaşı ve kalite kontrol birimiyle iletişim halindedir.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin ayrı ve resmî bir örgün eğitim programı bulunmamaktadır. Meslek genellikle ilgili işletmelerde işbaşında, usta yanında uygulamalı eğitimle öğrenilir. Ayrıca Halk Eğitim Merkezleri ve İŞKUR tarafından açılan kimya/üretim teknolojileri alanındaki mesleki eğitim kursları, iş güvenliği ve temel üretim becerileri konusunda destekleyici eğitim sağlayabilir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "Kurs programına katılacaklar için okuryazar olmak ve kursun öngördüğü fiziksel/psikomotor yeterliğe sahip olmak",
+   "İşe alımlarda genellikle 18 yaşını doldurmuş olmak tercih edilir"
+  ],
+  "sure_ve_icerik": "Resmî bir kurs programı söz konusu olduğunda süre ve içerik ilgili kurumun programına göre değişir; genel olarak iş sağlığı ve güvenliği, basınçlı kaplarla çalışma kuralları, makine kullanımı ve ürün dolum/etiketleme işlemlerini kapsar. İşbaşı eğitiminde süre işletmenin ihtiyacına göre değişmekle birlikte, operatör belirli bir uygulama süresi sonunda makineyi bağımsız kullanabilecek yeterliliğe ulaşır.",
+  "belge": "Kurs yoluyla eğitim alanlara Kurs Bitirme Belgesi verilebilir; işbaşı eğitiminde ise çoğunlukla işletme içi eğitim kaydı veya sertifikası düzenlenir. Mesleki Yeterlilik Kurumu (MYK) belgesi, çalışılan işin kapsamına göre istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Mesleğin gerektirdiği yeterlilikleri kazanan bireyler; yangın söndürme tüpü ve ekipmanı üreten fabrikalarda, yangın güvenlik malzemeleri dolum ve bakım tesislerinde, yangın söndürme cihazı bakım-yenileme (dolum) istasyonlarında çalışabilirler.",
+ "kazanc": {
+  "egitim_suresince": "Kurs yoluyla eğitim alınıyorsa eğitim süresince genellikle bir kazanç söz konusu değildir. İşbaşında usta yanında eğitim alanlar, çalıştıkları işletmenin uygulamasına göre bir ücret alabilir.",
+  "egitim_sonrasi": [
+   "Meslek elemanlarının aldığı ücret, çalıştıkları işletmeye, deneyime ve bölgeye göre değişmekle birlikte, mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Deneyim ve sorumluluk arttıkça ücret düzeyi işletme içindeki ücret politikalarına göre yükselebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğin ayrı bir örgün ilerleme basamağı bulunmamaktadır; ilgili kimya/üretim teknolojileri alanlarında alınacak ileri düzey mesleki eğitim ve kurslarla bilgi ve beceriler geliştirilebilir.",
+  "is_hayatinda": "Bilgi, beceri ve deneyim arttıkça meslek elemanları usta, ustabaşı, vardiya sorumlusu veya üretim/bölüm şefliği gibi görevlere yükselme imkânı bulabilir."
+ },
+ "benzer_meslekler": [
+  "Toz Dolum Makinesi Operatörü",
+  "Karıştırma Makinesi Operatörü-Kimyasal Maddeler",
+  "Kurutma Makinesi Operatörü-Kimyasal ve İlgili İşlemler",
+  "Kırma Makinesi Operatörü-Kimyasal Maddeler"
+ ],
+ "ek_bilgiler": "Meslek, basınçlı gaz (azot) kullanımı ve sızıntı testi gibi işlemler içerdiğinden, çalışanların iş sağlığı ve güvenliği kurallarına, basınçlı kaplarla çalışma talimatlarına sıkı şekilde uyması gerekir. İşin yapıldığı işletmenin tehlike sınıfına göre ilgili mevzuat kapsamında ek güvenlik eğitimleri ve kişisel koruyucu donanım kullanımı zorunlu olabilir.",
+ "gorevler": [
+  "Tüp tipine göre makinenin dolum miktarı ve basınç ayarlarını yapar,",
+  "Boş tüplerin valf ve iç boru temizliklerini kontrol eder,",
+  "Dolum sonrası tüp başlıklarını (vana/manometre) sızdırmaz şekilde monte eder,",
+  "Tüplere azot gazı ile basınçlandırma yaparak sızıntı testine sokar,",
+  "Tüplerin üzerine tarih, miktar ve parti bilgilerini içeren etiketleri basar,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T12:08:51",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5415
+  }
+ }
+}

@@ -1,0 +1,76 @@
+{
+ "arac_gerec": [
+  "Harman hallaç makinesi/eritici",
+  "Kart (karde) makinesi ve web oluşturma üniteleri",
+  "Dokusuz yüzey üretim hattı (iğneleme/termal bağlama/hidroentanglement vb. sisteme bağlı üniteler)",
+  "Merkezi kontrol panosu ve üretim takip bilgisayarı",
+  "Elyaf hammaddesi (polyester, polipropilen, viskon vb.)",
+  "Gramaj ve kalınlık ölçüm cihazları",
+  "Sarım, kesim ve paketleme üniteleri",
+  "Taşıma ekipmanları (forklift, transpalet, konveyör)",
+  "Basit bakım ve onarım el aletleri",
+  "Kişisel koruyucu donanım (eldiven, kulak tıkacı, toz maskesi, iş elbisesi)"
+ ],
+ "benzer_meslekler": [
+  "Dokusuz Yüzey Operatörü (Nezaretçi/Ustabaşı)",
+  "Harman-Hallaç Makinesi Operatörü",
+  "Elyaf Açma Makineleri Operatörü",
+  "Tarak Makinesi Operatörü-Tekstil",
+  "Elyaf Kurutma Fırın Operatörü"
+ ],
+ "calisma_alanlari": "Dokusuz yüzey operatörleri, dokusuz yüzey (nonwoven) kumaş üreten tekstil fabrikalarında istihdam edilir. Hijyen ürünleri (bebek bezi, hijyenik ped), medikal tekstil (maske, önlük, örtü), filtre, otomotiv tekstili, inşaat ve tarım tekstili gibi farklı alanlarda hammadde üreten işletmeler başlıca çalışma alanlarıdır.\\n\\nBu meslek elemanları genellikle tekstil sanayinin yoğun olduğu büyük ve orta ölçekli sanayi bölgelerinde iş bulabilir. İşletmenin büyüklüğüne ve üretim kapasitesine göre istihdam olanakları artabilir. Kamu kurumlarında bu meslek için doğrudan bir istihdam alanı bulunmamaktadır.",
+ "calisma_ortami": "Dokusuz yüzey operatörleri, tekstil fabrikalarının üretim hattı/atölye bölümlerinde çalışır. Çalışma ortamı genellikle gürültülü olup, havalandırması yetersiz işyerlerinde ortam havası elyaf tozuyla yüklü olabilir; bazı üretim süreçlerinde yüksek ısıyla karşılaşılabilir. Görev genellikle tam gün sürdürülür ve işletmenin üretim düzenine bağlı olarak vardiyalı (gece-gündüz) çalışma söz konusu olabilir.\\n\\nÇalışma sırasında ayakta durma, zaman zaman malzeme taşıma ve kaldırma gerekebilir. Meslek elemanı esas olarak makine ve hammadde ile ilgilenir; üretim sürecinde vardiya arkadaşları, bakım-onarım personeli ve üretim sorumlularıyla iletişim kurar.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin örgün bir diploma programı bulunmamaktadır. Meslek elemanları genellikle işyerlerinde usta yanında işbaşı eğitimi yoluyla yetişir. Ayrıca Halk Eğitim Merkezleri ile İŞKUR'un açtığı mesleki eğitim kurslarında tekstil üretim ve makine operatörlüğüne yönelik temel eğitimler verilebilmektedir.",
+  "giris_kosullari": [
+   "İlköğretim mezunu olmak",
+   "Fiziksel olarak vardiyalı ve ayakta çalışmaya uygun olmak",
+   "18 yaşını doldurmuş olmak (iş hayatına girişte)"
+  ],
+  "sure_ve_icerik": "Kurs programlarının süresi düzenleyen kuruma göre değişmekle birlikte genellikle kısa süreli (birkaç hafta-ay) olup; iş sağlığı ve güvenliği, temel makine bilgisi, üretim süreçleri ve kalite kontrol gibi konuları kapsar. Mesleğin esas öğrenimi, işyerinde deneyimli bir operatör veya ustanın gözetiminde uygulamalı olarak gerçekleşir.",
+  "belge": "Kurs programlarını tamamlayanlara \"Kurs Bitirme Belgesi\" verilir. Resmî bir diploma zorunluluğu bulunmamaktadır; Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "genel_ozellikler": [
+  "Dikkatli ve titiz,",
+  "El ve göz koordinasyonu iyi,",
+  "Makine ve teknik sistemlerle ilgilenmekten hoşlanan,",
+  "Sorumluluk sahibi,",
+  "Fiziksel olarak dayanıklı,",
+  "Vardiyalı çalışmaya uygun,",
+  "Takım çalışmasına uyumlu,",
+  "Talimatlara uygun çalışabilen"
+ ],
+ "gorevler": [
+  "İş sağlığı ve güvenliği önlemlerini alır.",
+  "Kalite yönetim sistemi dokümanlarına uygun çalışır.",
+  "İş organizasyonu yapar.",
+  "Üretim öncesi hazırlıkları tamamlar.",
+  "Harman hallaç makinesini/eriticiyi besler.",
+  "Makineleri üretime hazırlar.",
+  "Makinenin üretimini takip eder.",
+  "Ürünleri kontrol eder.",
+  "Sorumluluğundaki makineleri takip eder.",
+  "Mesleki gelişime yönelik faaliyetleri yürütür."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "İşletme bünyesinde düzenlenen hizmet içi eğitim programları ile makine bilgisi ve üretim süreçleri konusunda derinleşebilir; farklı makine tiplerinde çalışarak deneyim ve bilgi birikimini artırabilir.",
+  "is_hayatinda": "Deneyim ve bilgi birikimi arttıkça nezaretçi/ustabaşı konumuna (Dokusuz Yüzey Operatörü (Nezaretçi/Ustabaşı)) yükselebilir; üretim takibi, kalite kontrol veya vardiya sorumluluğu gibi görevler üstlenebilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "İşbaşı eğitim/çıraklık döneminde işletmeye göre düşük düzeyde bir ücret ödenebilir; kurs programları süresince genellikle bir kazanç söz konusu değildir.",
+  "egitim_sonrasi": [
+   "Yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Deneyim, bilgi birikimi ve çalışılan işletmenin büyüklüğüne bağlı olarak ücret artabilir.",
+   "Özel sektörde ücret, işveren ile karşılıklı anlaşmaya göre belirlenir."
+  ]
+ },
+ "ek_bilgiler": "Dokusuz yüzey kumaşlar hijyen, medikal, filtre, otomotiv ve inşaat sektörleri gibi geniş bir kullanım alanına sahip olduğundan bu alandaki üretim tesislerinin sayısına bağlı olarak istihdam olanakları değişebilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T15:01:00",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5602
+  }
+ }
+}

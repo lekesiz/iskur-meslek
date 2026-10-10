@@ -1,0 +1,89 @@
+{
+ "arac_gerec": [
+  "Multimetre, ampermetre, voltmetre gibi ölçüm ve kontrol cihazları",
+  "Tornavida, pense, kargaburnu, kontrol kalemi gibi el aletleri",
+  "Bara kesme, bükme ve delme makineleri",
+  "Kablo soyma ve sıkma pensleri, kablo baskı terminalleri",
+  "Elektrik panoları, karkaslar, şalt malzemeleri, klemensler, izolatörler",
+  "Teknik proje, elektrik hat şemaları ve montaj planları",
+  "Bilgisayar ve proje/çizim yazılımları",
+  "Etiketleme makinesi ve etiketleme malzemeleri",
+  "El matkabı, havya",
+  "Moment (tork) anahtarı",
+  "Yapılan işe uygun iş elbiseleri ve kişisel koruyucu donanımlar (eldiven, gözlük, yalıtkan ayakkabı vb.)"
+ ],
+ "genel_ozellikler": [
+  "El ve göz koordinasyonu iyi,",
+  "Teknik resim ve elektrik şemalarını okuyup yorumlayabilen,",
+  "Dikkatli ve titiz,",
+  "Sorumluluk duygusu gelişmiş,",
+  "Ekip yönetimi ve iş organizasyonu yeteneğine sahip,",
+  "Planlı ve sistemli çalışabilen,",
+  "İletişim becerisi iyi,",
+  "Fiziksel olarak sağlıklı"
+ ],
+ "calisma_ortami": "Elektrik Pano Montajcısı (Nezaretçi-Ustabaşı), genellikle elektrik panosu üretilen fabrika ve atölyelerde, kapalı mekanlarda çalışır. Zaman zaman panoların kurulduğu şantiye veya saha ortamında da bulunabilir. Elektrikli malzeme ve devrelerle çalıştığı için dikkatsizlik ciddi kazalara yol açabilir; iş sağlığı ve güvenliği kurallarına titizlikle uyulması gerekir.\n\nGenellikle gündüz ve belirli çalışma saatlerinde, ekip halinde çalışır. Nezaretçi-ustabaşı olarak kendisine bağlı montaj işçilerinin çalışmalarını denetler, iş organizasyonunu yapar; mühendis, teknik eleman ve işveren ile sık sık iletişim kurar.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin temel teknik eğitimi, mesleki ve teknik ortaöğretim okul/kurumlarının \"Elektrik-Elektronik Teknolojisi\" alanının ilgili dallarında verilmektedir. \"Nezaretçi-ustabaşı\" unvanı ise genellikle elektrik pano montajı alanında belirli süre çalışarak deneyim kazanmış kişilere işyerleri tarafından verilen bir kademedir. Mesleğe yönelik ek beceriler, Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kurslarında da geliştirilebilir.",
+  "giris_kosullari": [
+   "Ortaokulu tamamlamış olmak,",
+   "Milli Eğitim Bakanlığınca okul türlerine ve alan/dala göre belirlenen giriş koşullarını taşımak."
+  ],
+  "sure_ve_icerik": "Mesleki ve teknik ortaöğretimde eğitim süresi 4 yıldır; 9. sınıfta ortak genel kültür ve alan dersleri, 10, 11 ve 12. sınıflarda ise dal/mesleğe ait teorik ve uygulamalı dersler verilir. Eğitim; okulda teorik/uygulamalı, işletme ve atölye ortamlarında ise uygulamalı olarak yürütülür. Nezaretçi-ustabaşılık düzeyine yükselmek için, bu temel eğitimin ardından ilgili alanda uzun süreli fiili çalışma deneyimi ve işbaşında usta yanında kazanılan beceri gerekmektedir.",
+  "belge": "Meslek eğitimini tamamlayanlara meslek lisesi diploması verilir. Ayrıca, Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "gorevler": [
+  "İş sağlığı ve güvenliği, yangın ve acil durum kurallarını uygular.",
+  "Kalite yönetim sistemi ile ilgili faaliyetleri yürütür.",
+  "İş organizasyonu yapar.",
+  "Pano boyutlarını, kullanılacak malzemeleri, malzemelerin yerleşim yerlerini, elektrik hat şemalarını, kablo giriş-çıkış yönünü inceler ve tespit edilen uygunsuzlukları rapor eder.",
+  "Pano montajı hazırlık işlemlerini yapar.",
+  "Malzeme kontrol ve temini yapar.",
+  "Mekanik işlev kontrolü yapar.",
+  "Pano malzemelerinin montajını yapar.",
+  "Pano karkasının montajını yaptırır.",
+  "Güç ve kumanda devresine ait montaj plakalarının, güç ve kumanda devresi malzemelerinin, ölçme devresi şalt malzemelerinin, izolatörlerin montajını ve klemenslerin montajını yapar.",
+  "Bara ölçülerini belirler, baraları markalar, keser, form verir, kontrol eder ve montajını kontrol eder.",
+  "Kablo kanalı montajını yapar, kabloları kontrol eder.",
+  "Kablo bağlantılarını ve düzenlemelerini yapar.",
+  "Pano kontrolünü yapar.",
+  "Bağlantı noktalarının kontrollerini yapar.",
+  "Etiketleme kontrolünü yapar.",
+  "Panonun son iç ve dış temizliğini kontrol eder.",
+  "Panonun son boya kontrolünü yapar.",
+  "Panonun hareketli parçalarının kontrolünü yapar.",
+  "Panoyu sevke hazırlar.",
+  "Mesleki gelişim faaliyetlerini yürütür."
+ ],
+ "calisma_alanlari": "Elektrik Pano Montajcısı (Nezaretçi-Ustabaşı), elektrik panosu üreten fabrika ve atölyelerde, elektrik pano montaj firmalarında çalışabilir. Ayrıca enerji, sanayi ve inşaat sektöründeki elektrik taahhüt firmalarında, elektrik tesisat ve enerji dağıtım şirketlerinde, kamu kurum ve kuruluşlarının teknik birimlerinde istihdam edilebilir. Elektrik panolarına ihtiyaç duyulan her türlü sanayi tesisinde çalışma olanağı bulunmaktadır.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğe hazırlık sürecinde işyerinde çalışarak deneyim kazanılan bir meslek olduğundan, mesleki eğitim kapsamında çalışan öğrenci ve çıraklara 3308 sayılı Mesleki Eğitim Kanunu gereğince asgari ücretin belirli bir oranında ücret ödenebilir.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Kamu sektöründe memur statüsünde çalışanlar 657 sayılı Devlet Memurları Kanunu'na, işçi statüsünde çalışanlar ilgili toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde ücret, işletmenin büyüklüğü, kişinin deneyimi, bilgi ve becerisi ile sektörün ücret düzeyine göre değişebilir.",
+   "Nezaretçi-ustabaşı konumunda olanlar, üstlendikleri sorumluluk ve deneyim düzeyine bağlı olarak daha yüksek ücret elde edebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleki ve teknik ortaöğretim kurumlarından mezun olanlar, YKS Kılavuzunda belirtilen ilgili yükseköğretim ön lisans/lisans programlarını tercih ederek elektrik-elektronik teknolojisi alanında teknikerlik veya mühendislik düzeyine yükselebilir.",
+  "is_hayatinda": "Elektrik pano montajında çalışan kişiler, zaman içinde kazandıkları deneyim ve bilgiyle nezaretçi-ustabaşı, atölye şefi veya üretim sorumlusu konumuna yükselebilir. Yönetim becerilerini geliştirerek proje yöneticiliği veya işletme müdürlüğü gibi pozisyonlara ulaşabilirler."
+ },
+ "benzer_meslekler": [
+  "Elektrik Tesisatları ve Dağıtımı Teknisyeni / Elektrik Teknisyeni",
+  "Elektrik Teknikeri",
+  "Elektrik Tesisat Ustası",
+  "Bilgisayar Destekli Elektrik Proje Çizim Elemanı",
+  "Yüksek Gerilim Kablo Aksesuarları Montajcısı",
+  "İşletme Elektrik Bakım Ustası"
+ ],
+ "ek_bilgiler": "\"Nezaretçi-ustabaşı\" unvanı, elektrik pano montajı alanında uzun süreli iş deneyimi kazanmış kişilere işyerleri tarafından verilen bir kademedir; bu nedenle meslek, örgün eğitimin yanında işbaşında kazanılan tecrübeyle de edinilmektedir. Elektrikle çalışma riski taşıdığından iş sağlığı ve güvenliği kurallarına uyum büyük önem taşır; bu kapsamda Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T09:09:47",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6913
+  }
+ }
+}

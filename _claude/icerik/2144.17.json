@@ -1,0 +1,79 @@
+{
+ "arac_gerec": [
+  "Bilgisayar yazılım ve donanımları",
+  "CAD (bilgisayar destekli tasarım) programları",
+  "Hesaplamalı Akışkanlar Dinamiği (CFD) analiz yazılımları",
+  "Yüzey ve hacim ağ (mesh) oluşturma yazılımları",
+  "3 boyutlu tarayıcılar",
+  "Prototip üretimi için 3 boyutlu yazıcılar ve hızlı prototipleme ekipmanları",
+  "Rüzgar tüneli ve aerodinamik test düzenekleri",
+  "Ölçme, veri toplama ve kalibrasyon ekipmanları (basınç, hız, sıcaklık sensörleri vb.)",
+  "Prototip imalatı için atölye tezgah ve ekipmanları",
+  "Teknik çizim ve raporlama araçları",
+  "Ofis bilgisayarı ve donanımları"
+ ],
+ "benzer_meslekler": [
+  "Makine ve İmalat Mühendisi",
+  "Makine Mühendisi",
+  "Havacılık Mühendisi",
+  "Otomotiv Mühendisi",
+  "Uçak Mühendisi",
+  "Yapısal Analiz ve Tasarım Uzmanı (Savunma Sanayi)"
+ ],
+ "calisma_alanlari": "Makine Mühendisi (Arge/Aerodinamik), özellikle otomotiv, havacılık ve uzay, savunma sanayii, enerji ve rüzgar enerjisi gibi ürün tasarımı ile aerodinamik performansın önemli olduğu sektörlerin Ar-Ge ve tasarım merkezlerinde çalışabilir.\n\nAyrıca üniversitelerin mühendislik fakültelerine bağlı araştırma merkezlerinde, kamu ve özel sektöre ait Ar-Ge kuruluşlarında, mühendislik danışmanlık ve test/simülasyon hizmeti veren firmalarda görev alabilir. Ülkemizde otomotiv ve havacılık sektöründeki Ar-Ge yatırımlarının artması, bu alanda istihdam olanaklarını desteklemektedir.",
+ "calisma_ortami": "Makine Mühendisi (Arge/Aerodinamik), çalışma zamanının büyük bölümünü Ar-Ge/tasarım merkezlerinde ofis ortamında, bilgisayar başında tasarım ve analiz yazılımlarıyla çalışarak geçirir. Bunun yanı sıra prototip üretim atölyelerinde, rüzgar tünellerinde ve test sahalarında da bulunabilir; bu ortamlarda gürültü, titreşim gibi koşullarla karşılaşabileceğinden iş sağlığı ve güvenliği kurallarına uyması gerekir.\n\nÇalışma saatleri genellikle düzenli mesai saatleri şeklindedir; ancak proje teslim tarihlerine yaklaşıldığında çalışma süresi uzayabilir. Meslek mensubu; tasarım ve üretim ekipleri, test mühendisleri, tedarikçiler, kalite birimleri ve üst yönetimle sürekli iş birliği içinde çalışır.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin temel eğitimi, üniversitelerin mühendislik fakültelerine bağlı Makine Mühendisliği bölümlerinde lisans düzeyinde verilmektedir. Arge/aerodinamik alanında uzmanlaşma genellikle lisans eğitimini tamamladıktan sonra, akışkanlar mekaniği, aerodinamik veya havacılık/uzay mühendisliği gibi alanlarda yapılan yüksek lisans/doktora programları ile ya da işyerinde uygulamalı olarak kazanılmaktadır.",
+  "giris_kosullari": [
+   "Lise veya dengi okul mezunu olmak",
+   "Yükseköğretim Kurumları Sınavı (YKS)'nda yeterli puanı alarak ilgili mühendislik programına yerleşmek",
+   "Meslek yüksekokulu mezunlarının, Dikey Geçiş Sınavı (DGS) ile ilgili lisans programına geçiş yapabilmesi"
+  ],
+  "sure_ve_icerik": "Lisans eğitiminin süresi 4 yıldır. Eğitim programında matematik, fizik, termodinamik, akışkanlar mekaniği, malzeme bilimi, makine tasarımı ve üretim yöntemleri gibi temel ve mesleki dersler kuramsal ve uygulamalı olarak verilir; işyeri stajları da bulunmaktadır. Aerodinamik ve Ar-Ge alanında uzmanlaşmak isteyenler lisans eğitimi sonrasında ilgili yüksek lisans/doktora programlarına yönelebilir; ayrıca işyerinde CAD/CFD yazılımlarının ve test süreçlerinin kullanımına yönelik uygulamalı eğitimler ve sertifika kursları alabilirler.",
+  "belge": "Eğitimini başarıyla tamamlayanlara Makine Mühendisliği lisans diploması verilir; lisansüstü eğitim alanlara yüksek lisans veya doktora derecesi verilir."
+ },
+ "ek_bilgiler": "Bu meslek özellikle otomotiv ve havacılık sektöründeki Ar-Ge yoğun işletmelerde tercih edilmektedir. CAD ve CFD yazılımlarına hakimiyet, deneyim ve yabancı dil bilgisi istihdamda önemli bir avantaj sağlamaktadır.",
+ "genel_ozellikler": [
+  "Matematik ve fizik, özellikle akışkanlar mekaniği konularında ilgili ve başarılı,",
+  "Şekil ve uzay ilişkilerini algılayabilen,",
+  "Analitik ve sistematik düşünebilen, neden-sonuç ilişkisi kurabilen,",
+  "Yaratıcı ve yeniliklere açık,",
+  "Detaylara dikkat eden ve sabırlı,",
+  "Ekip çalışmasına yatkın,",
+  "Sözlü ve yazılı iletişim becerisine sahip,",
+  "Sürekli öğrenmeye ve kendini geliştirmeye istekli"
+ ],
+ "gorevler": [
+  "Tasarlanan aracın/ürünün teknik resimlerinden ve CAD dosyalarından analizde kullanılacak geometriyi oluşturur, parça çizimleri yapar,",
+  "Prototip hazırlar,",
+  "Yüzey ağ yapısını ve hacim ağ yapısını oluşturur,",
+  "Hesaplamalı Akışkanlar Dinamiği (CFD) analizinde kullanılacak fiziksel modelleri seçer, diğer ayarları yapar ve analizi çözdürür,",
+  "Sonuçları inceler ve değerlendirir,",
+  "Üretim için ilgili birime önerilerini rapor eder,",
+  "Araç/ürün için test planı oluşturur ve takibini yapar,",
+  "Tasarlanan ürünün üretim sürecini takip eder,",
+  "Mevcut üretimi yapılan ürün ve parçaların revizyonlarını gerçekleştirir,",
+  "Hedefler ve piyasa analizi sonuçlarından yola çıkarak yeni ürün tasarım projeleri hazırlar,",
+  "Mesleği ile ilgili alanındaki gelişmeleri takip eder ve uygular,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Lisans eğitiminin ardından akışkanlar mekaniği, aerodinamik, havacılık/uzay mühendisliği gibi alanlarda yüksek lisans ve doktora yapılabilir; araştırma görevlisi olarak akademik kariyer geliştirilebilir. CFD yazılımları, test ve ölçüm teknikleri üzerine düzenlenen ileri düzey kurs ve sertifika programlarına katılarak mesleki bilgi ve beceriler artırılabilir.",
+  "is_hayatinda": "Deneyim kazandıkça kıdemli mühendis, proje lideri, Ar-Ge/tasarım birim sorumlusu veya müdürü gibi pozisyonlara yükselinebilir. Yabancı dil bilgisini ve yönetsel yetkinliklerini geliştirenler üst düzey yönetici kademelerine ilerleyebilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Öğrenciler, Yükseköğretim Kredi ve Yurtlar Kurumunun sağladığı öğrenim ve harç kredisinden, çeşitli kurum ve kuruluşların sunduğu burs olanaklarından yararlanabilirler.",
+  "egitim_sonrasi": [
+   "Özel sektörde ücret, kişinin deneyimine, uzmanlık düzeyine ve çalıştığı işletmenin büyüklüğüne göre değişmekte olup işe yeni başlayanlarda ücret genellikle asgari ücret düzeyinin üzerinde başlamaktadır.",
+   "Kamu kurumlarında çalışanlar 657 sayılı Devlet Memurları Kanunu'na göre teknik personel statüsünde maaş ve yan ödeme almaktadır."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-07T21:25:04",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6581
+  }
+ }
+}

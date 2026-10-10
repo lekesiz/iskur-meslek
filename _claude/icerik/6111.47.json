@@ -1,0 +1,77 @@
+{
+ "arac_gerec": [
+  "Traktör ve toprak işleme ekipmanları (pulluk, tırmık, kültivatör)",
+  "Kabak tohumluğu/fidesi",
+  "Çapa, bel, tırmık gibi el aletleri",
+  "Gübre dağıtıcısı",
+  "Kimyasal ve organik gübreler",
+  "Tarım ilaçları (insektisit, fungisit, herbisit)",
+  "Sırt pülverizatörü/ilaçlama ekipmanı",
+  "Sulama sistemi (damla sulama hortum ve ekipmanları)",
+  "Hasat bıçağı/makası",
+  "Taşıma kasaları ve çuvallar",
+  "Ölçüm ve kontrol aletleri (nem, pH ölçer)",
+  "Koruyucu iş elbisesi, eldiven, maske"
+ ],
+ "genel_ozellikler": [
+  "Toprağı ve bitkiyi seven, üretime ilgi duyan",
+  "Açık havada çalışmaktan hoşlanan",
+  "Fiziksel olarak dayanıklı",
+  "Dikkatli ve gözlem yeteneği gelişmiş",
+  "Mevsimsel ve değişken çalışma koşullarına uyum sağlayabilen",
+  "El becerisine sahip",
+  "Sabırlı ve özenli",
+  "Ekip çalışmasına yatkın"
+ ],
+ "calisma_ortami": "Kabak Yetiştiricisi, çalışmasını genellikle açık arazide, tarla veya bahçe ortamında yürütür; bazı durumlarda örtü altı (sera/tünel) üretiminde de görev alabilir. Çalışma, mevsim ve hava koşullarına (sıcak, soğuk, yağış, güneş) bağlı olarak değişir; eğilerek, çömelerek ve ayakta uzun süre çalışmayı gerektirir, fiziksel güç ister. Toprak hazırlığı, ekim, bakım ve özellikle hasat dönemlerinde çalışma yoğunluğu artar, çalışma saatleri düzensiz ve mevsime bağlı olabilir.\n\nMeslek elemanı, çalıştığı işletmede diğer tarım işçileri, usta çiftçiler ve gerektiğinde ziraat teknisyeni/mühendisleriyle iş birliği içinde çalışır. Gübre ve tarım ilacı kullanımı nedeniyle iş sağlığı ve güvenliği kurallarına, koruyucu ekipman kullanımına dikkat edilmesi gerekir.",
+ "gorevler": [
+  "Üretim tekniklerini araştırır,",
+  "Ekim dikim yerlerini hazırlar,",
+  "Gübreleme yapar,",
+  "Kültürel işlemleri yapar,",
+  "Bitkilerde görülen zararlıları inceler,",
+  "Hastalık, zararlılar ve yabancı otlarla mücadele yapar,",
+  "Kabak yetiştirir,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimine yönelik ülkemizde örgün bir meslek lisesi veya çıraklık programı bulunmamaktadır. Mesleğe ait bilgi ve beceriler genellikle aile işletmelerinde veya tarım işletmelerinde işbaşında usta-çırak ilişkisi içinde kazanılır. Ayrıca Halk Eğitim Merkezleri ile İŞKUR'un açtığı bitkisel üretim/sebzecilik konulu mesleki eğitim kursları da bu alanda bilgi ve beceri kazandırmaktadır. Konuyla ilgili teorik bilgi; tarım meslek liselerinin bitkisel üretim alanındaki bölümleri ile üniversitelerin ziraat fakültelerinin bahçe bitkileri/bitkisel üretim ve ilgili bölümlerinde de verilmektedir.",
+  "giris_kosullari": [
+   "Mesleğe ilköğretim mezunu olarak başlanabilir.",
+   "İşbaşında öğrenim için belirli bir yaş ve fiziksel dayanıklılığa uygun sağlık durumu gereklidir.",
+   "Örgün bir mesleki ve teknik eğitim programına veya kursa katılmak isteyenler, ilgili kurumun belirlediği giriş şartlarını (yaş, öğrenim durumu vb.) sağlamalıdır."
+  ],
+  "sure_ve_icerik": "Meslek, çoğunlukla örgün bir eğitim programına bağlı olmaksızın işbaşında deneyim yoluyla öğrenilmektedir. Halk Eğitim Merkezleri ve İŞKUR tarafından açılan kurslarda toprak hazırlığı, tohum/fide seçimi, ekim, gübreleme, sulama, hastalık ve zararlılarla mücadele, hasat ve ürün değerlendirme konularında teorik ve uygulamalı eğitim verilir. Bu kursların süresi programa göre değişmekle birlikte genellikle kısa süreli (birkaç hafta ile birkaç ay arası) olup uygulamaya dayalıdır. Mesleki ve teknik eğitim kapsamındaki bitkisel üretim alanı programlarında ise eğitim daha uzun süreli ve kapsamlıdır.",
+  "belge": "Kursu tamamlayanlara katılım veya başarı belgesi/sertifika verilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, zorunlu olmamakla birlikte istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Kabak Yetiştiricisi, kendi tarlasında veya bahçesinde bağımsız üretici olarak çalışabileceği gibi, tarımsal işletmelerde, tarım kooperatiflerinde, tohumluk/fide üreten şirketlerde ve sebze üretim çiftliklerinde işçi ya da usta işçi olarak istihdam edilebilir. Ayrıca tarım ve orman teşkilatına bağlı kuruluşlar ile tarımsal araştırma kurumlarında yardımcı/uygulamacı personel olarak görev alma imkânı bulunmaktadır. Tarım girdileri (tohum, gübre, ilaç) satan işletmelerde ve pazarlama/toplama merkezlerinde de çalışılabilir.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğe yönelik örgün bir çıraklık eğitimi bulunmadığından, kurslara katılım döneminde genellikle bir ücret ödenmez. İşletmede çalışarak mesleği öğrenenler, işveren ile yapılan anlaşmaya göre ücret alabilir.",
+  "egitim_sonrasi": [
+   "Yeni başlayanlar için kazanç genellikle asgari ücret düzeyindedir.",
+   "Kazanç; çalışılan işletmenin büyüklüğüne, üretim miktarına, kişinin deneyimine ve mevsimsel verime göre değişiklik gösterir.",
+   "Kendi işini yapanların kazancı, ürün verimine ve pazar fiyatlarına bağlı olarak dönemden döneme değişkenlik gösterebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğe özgü örgün bir ilerleme basamağı bulunmamakla birlikte, ilgi duyanlar tarım meslek liselerinin bitkisel üretim alanındaki bölümlerinde veya üniversitelerin ziraat fakültelerinin bahçe bitkileri/bitkisel üretim bölümlerinde eğitim alarak mesleki bilgi ve unvanlarını (teknisyen, ziraat mühendisi gibi) geliştirebilir.",
+  "is_hayatinda": "Deneyim kazandıkça usta işçi veya işletme sorumlusu konumuna gelinebilir; birikim ve sermaye oluşturularak kendi üretim işletmesi kurulup girişimci olunabilir. Ayrıca tarım kooperatiflerinde yöneticilik gibi görevler üstlenilebilir."
+ },
+ "benzer_meslekler": [
+  "Kavun Yetiştiricisi",
+  "Karpuz Yetiştiricisi",
+  "Hıyar Yetiştiricisi",
+  "Patlıcan Yetiştiricisi",
+  "Domates Yetiştiricisi",
+  "Sebze Yetiştiricisi"
+ ],
+ "ek_bilgiler": "Kabak yetiştiriciliği, hem açık arazide hem de örtü altı (sera/tünel) koşullarında yapılabilir; üretim yöntemi ve dönem, yetiştirilen kabak çeşidine (sakız kabağı, bal kabağı vb.) göre farklılık gösterebilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T20:23:05",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5550
+  }
+ }
+}

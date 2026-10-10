@@ -1,0 +1,80 @@
+{
+ "arac_gerec": [
+  "Bilgisayar ve sismik veri kayıt (recorder) sistemleri",
+  "Veri izleme ve kalite kontrol yazılımları",
+  "Geofon ve geofon kabloları",
+  "Jeofon/kablo arıza takip sistemleri",
+  "Telsiz ve saha haberleşme cihazları",
+  "GPS ve konumlandırma sistemleri",
+  "Online raporlama ve veri aktarım sistemleri",
+  "Veri depolama ve yedekleme üniteleri",
+  "Çoklu monitör/ekran sistemleri",
+  "Kişisel koruyucu donanım (saha ziyaretlerinde)"
+ ],
+ "benzer_meslekler": [
+  "Coğrafi Bilgi Sistemleri Operatörü",
+  "Coğrafi Bilgi Sistemleri Veri Giriş Operatörü",
+  "Veri Giriş Kontrol İşletmeni",
+  "Bilgisayar Bilgi Yönetim Elemanı"
+ ],
+ "calisma_alanlari": "Sismik Veri Kayıt Operatörü/Observer, başta petrol ve doğalgaz arama faaliyeti yürüten kamu ve özel kuruluşlar olmak üzere, kara ve deniz sismik veri toplama hizmeti veren jeofizik hizmet şirketlerinde istihdam edilir. Çalışma alanının başında, yurt içinde ve yurt dışında yürütülen kara sismik arama projeleri ile deniz (offshore) sismik arama gemilerinde görev yapılan operasyonlar gelir. Bu alandaki iş imkânları, ülkenin ve bölgenin petrol-doğalgaz arama faaliyetlerinin yoğunluğuna, uluslararası enerji şirketlerinin yatırımlarına ve proje sayısına bağlı olarak değişkenlik gösterir. Deneyimli ve ilgili teknik eğitim almış kişiler için istihdam olanağı bulunmaktadır.",
+ "calisma_ortami": "Sismik Veri Kayıt Operatörü/Observer, kara sismik arama projelerinde sahadaki kayıt kamyonu (recording truck) veya kontrol ünitesinde, deniz sismik arama projelerinde ise gemideki veri kayıt/kontrol odasında görev yapar. Çalışma süresinin büyük bölümü bilgisayar ekranları başında, verileri ve sistem göstergelerini izleyerek geçer; bununla birlikte zaman zaman saha veya güverte kontrolleri de yapılabilir. Hava koşulları, gemi/kara ortamının fiziksel şartları ve uzun süreli ekran başında çalışma, mesleğin başlıca fiziksel etkenleridir.\n\nÇalışma saatleri genellikle vardiya esasına dayanır; operasyonların kesintisiz yürütülmesi gerektiğinden gece çalışması ve uzun süreli saha/gemi görevleri (proje süresince evden uzak kalma) söz konusu olabilir. Meslek mensubu; saha ekipleri, jeofizikçiler, sismologlar, teknik personel ve proje yöneticileriyle sürekli telsiz veya iletişim sistemleri üzerinden koordinasyon içinde çalışır.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin gerektirdiği minimum eğitim düzeyi önlisandır. Doğrudan bu mesleğe yönelik ayrı bir önlisans programı bulunmamaktadır; meslek yüksekokullarının elektronik, bilgisayar teknolojileri, jeofizik ile ilgili teknik programlarından mezun olanlar, işe giriş sonrasında şirket içi uygulamalı eğitimlerle bu mesleğe yönelebilmektedir. Mesleğe özgü uygulama bilgisi ve beceriler büyük ölçüde işbaşında, usta/kıdemli operatör gözetiminde ve kurum içi eğitim programlarıyla kazanılmaktadır.",
+  "giris_kosullari": [
+   "Lise veya dengi okul mezunu olmak",
+   "YKS (Yükseköğretim Kurumları Sınavı) kılavuzunda belirtilen ilgili puan türünden yeterli puanı almak",
+   "İlgili önlisans programına yerleşmiş olmak"
+  ],
+  "sure_ve_icerik": "İlgili önlisans programlarının eğitim süresi 2 yıldır. Eğitimde; temel elektronik, bilgisayar sistemleri, veri iletişimi, ölçme teknikleri ve mesleki matematik gibi dersler ile genel kültür dersleri yer alır. İşe başlangıçta ve çalışma süresince; sismik veri kayıt sistemlerinin kullanımı, kalite kontrol prosedürleri, saha operasyon kuralları ve iş sağlığı-güvenliği konularında şirket içi uygulamalı eğitimler verilir.",
+  "belge": "Önlisans programını tamamlayanlara \"Önlisans\" diploması verilir. Ayrıca çalışılan şirkete ve operasyon türüne (kara/deniz) göre iş sağlığı-güvenliği ve saha/gemi operasyonlarına yönelik kurum içi eğitim sertifikaları alınabilir."
+ },
+ "ek_bilgiler": "Bu meslek büyük ölçüde petrol ve doğalgaz arama sektöründe faaliyet gösteren şirketlerde icra edilir; proje bazlı çalışma yaygındır ve kara ile deniz operasyonları arasında görevlendirme yapılabilir. Özellikle deniz (offshore) operasyonlarında görev almak isteyenlerden denizcilik güvenlik eğitimleri ve sağlık/uygunluk şartlarını karşılama beklenebilir. Sektördeki istihdam, uluslararası enerji arama yatırımlarının seyrine bağlı olarak dönemsel dalgalanma gösterebilir.",
+ "genel_ozellikler": [
+  "Dikkatli ve titiz,",
+  "Sorumluluk sahibi,",
+  "Matematiksel ve mantıksal düşünebilen, sayısal verileri yorumlayabilen,",
+  "Teknolojiye ve bilgisayar sistemlerine ilgili,",
+  "Hızlı ve doğru karar verebilen,",
+  "Ekip çalışmasına yatkın,",
+  "Stresli ve değişken koşullarda sakin kalabilen,",
+  "Uzun süre saha/gemide çalışmaya ve seyahate uyum sağlayabilen"
+ ],
+ "gorevler": [
+  "Sağlıklı veri alınamayan kabloların sistem üzerinden takibini yapar.",
+  "Hatalı konumlandırma durumlarını takip eder ve ilgili personele aktarır.",
+  "Atış yapılan veriler için kontrolleri gerçekleştirir; gün sonu tüm verileri sistem üzerinden çeker ve jeofizik ekibine iletir.",
+  "Online raporları operasyonu aksatmadan kapatır.",
+  "Sahadaki kesilmiş ya da yıpranmış kabloların recorder sistemi üzerinden takibini yapar.",
+  "Recorder sistemi üzerinden atış yapılması gereken noktalar için komut verir.",
+  "İlk atışı manuel olarak başlatır, diğer atışların periyodik olarak sistem üzerinden yapılmasını sağlar.",
+  "Vibro araçlarının belirlenen noktaya olan offset mesafesine göre, sistem üzerinden ekibi yönlendirir.",
+  "Sahadaki geofon cihazından gelen verilerin, geofonun fiziksel durumundan kaynaklanan hatalarına ilişkin kalite kontrollerini gerçekleştirir.",
+  "Geofon cihazının sızıntı testine ilişkin sistem üzerinden gelen veri kayıtlarını kontrol eder, hata durumunda ilgili personeli yönlendirir.",
+  "Geofonların eğim (tilt) testlerine göre hatalı konumlandırma oranlarını takip eder ve ilgili personele aktarır.",
+  "Verileri kontrol eder ve hatalı veriler için ilgili personeli yönlendirir.",
+  "Atış yapılan veriler için gürültü kontrollerini gerçekleştirir.",
+  "Tüm gün sonu verilerini sistem üzerinden çeker ve sismologlara aktarır.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "İlgili önlisans programını başarıyla tamamlayanlar, Dikey Geçiş Sınavında (DGS) başarılı olmaları hâlinde kılavuzda belirtilen ve kontenjan dahilinde ilişkili lisans programlarına (ör. jeofizik mühendisliği ile ilgili alanlar) dikey geçiş yapabilirler.",
+  "is_hayatinda": "Mesleki deneyim ve bilgi birikimi arttıkça kıdemli observer, ekip sorumlusu veya saha operasyon yöneticisi (parti şefliği) gibi pozisyonlara yükselebilirler. Kurum içi eğitimler ve sertifikalar bu ilerlemede etkilidir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Önlisans eğitimi süresince öğrenciler, Kredi ve Yurtlar Kurumu'nun sağladığı öğrenim kredisi ve yurt imkânlarından, ayrıca varsa kurumsal burs olanaklarından yararlanabilirler.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında (ör. kamuya bağlı petrol arama kuruluşları) istihdam edilenler, tabi oldukları mevzuata (657 sayılı Devlet Memurları Kanunu veya işçi statüsündeyse ilgili toplu iş sözleşmesi hükümlerine) göre ücret alır.",
+   "Özel sektörde kazanç; çalışılan şirketin büyüklüğü, projenin niteliği (kara/deniz), kişinin deneyimi, bilgi ve becerisi ile sektörün genel ücret düzeyine göre değişebilir.",
+   "Mesleğe yeni başlayanlarda ücret genellikle asgari ücret düzeyinde olabilir; deneyim arttıkça ve uluslararası projelerde görev alındıkça kazanç artabilir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T15:41:09",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 7081
+  }
+ }
+}

@@ -1,0 +1,73 @@
+{
+ "arac_gerec": [
+  "Şilte (dolgu) üretim makinesi",
+  "Elyaf besleme ve açma ünitesi",
+  "Sünger, elyaf ve keçe hammaddeleri",
+  "Kalınlık ve yoğunluk ölçüm aletleri",
+  "Kesim bıçakları/kesim ünitesi",
+  "Form verme kalıpları",
+  "Taşıma arabaları",
+  "Yağlama ve bakım takımları (anahtar seti, yağdanlık)",
+  "Basınçlı hava tabancası (temizlik için)",
+  "Kişisel koruyucu donanım (eldiven, toz maskesi, kulak tıkacı, iş gözlüğü)"
+ ],
+ "genel_ozellikler": [
+  "El ve göz koordinasyonuna sahip,",
+  "Dikkatli ve titiz,",
+  "Makine ve ekipman kullanımına yatkın,",
+  "Fiziksel olarak dayanıklı,",
+  "Sorumluluk sahibi,",
+  "Ölçüm ve kontrol işlerine özen gösteren,",
+  "Takım çalışmasına uyumlu,",
+  "Yönergelere uygun çalışabilen"
+ ],
+ "calisma_ortami": "\"Şilte makinesi operatörleri; yatak, koltuk ve mobilya dolgu malzemesi üreten fabrika ve atölyelerde, genellikle ayakta ve makine başında çalışır. Çalışma ortamı gürültülü olabilir; yeterli havalandırma bulunmayan işyerlerinde elyaf tozu yoğun olabilir. Çalışma süresi tam gündür, işletmenin üretim yoğunluğuna bağlı olarak vardiyalı çalışma söz konusu olabilir.\\n\\nMeslek mensupları çalışırken esas olarak makine ve hammaddeyle ilgilenir; bunun yanında usta başı, iş arkadaşları ve kalite kontrol personeliyle iletişim kurar. İş güvenliği kurallarına uyum, kişisel koruyucu donanım kullanımı ve dikkatli çalışma, iş kazalarının önlenmesi açısından önemlidir.\"",
+ "gorevler": [
+  "Şilte makinesinin ölçü ve yoğunluk ayarlarını yapar.",
+  "Elyaf, sünger veya keçe hammaddelerini makineye besler.",
+  "Üretilen şiltelerin kalınlık ve yumuşaklık kontrollerini yapar.",
+  "Kesim ve form verme aşamalarını izler.",
+  "Makinenin günlük temizlik ve periyodik bakımını yürütür.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Şilte makinesi operatörlüğü için örgün bir eğitim programı veya diploma veren bir okul bulunmamaktadır. Meslek genellikle işyerlerinde işbaşında, usta yanında uygulamalı olarak öğrenilir. Ayrıca Halk Eğitim Merkezleri ve İŞKUR tarafından açılan mesleki eğitim kurslarında temel makine kullanımı ve iş güvenliği bilgileri verilebilir.",
+  "giris_kosullari": [
+   "İlköğretim mezunu olmak",
+   "Fiziksel olarak makine başında ayakta ve dikkat gerektiren işlerde çalışmaya uygun olmak",
+   "Kurslara katılım için genellikle 18 yaşını doldurmuş olmak (18 yaşından küçükler veli izniyle katılabilir)"
+  ],
+  "sure_ve_icerik": "Mesleğin standart bir eğitim süresi ve müfredatı bulunmamaktadır. İşbaşında usta yanında yetişme sürecinde; şilte makinesinin tanınması, ölçü ve yoğunluk ayarlarının yapılması, hammadde (elyaf, sünger, keçe) besleme, üretilen şiltenin kalite kontrolü, kesim-form verme işlemlerinin takibi ve makinenin temizlik-bakımı gibi konularda uygulamalı bilgi ve beceri kazandırılır. Açılan kurslarda ise genel makine kullanımı, iş sağlığı ve güvenliği gibi temel bilgiler verilir.",
+  "belge": "İşyerinde usta yanında yetişenlere resmi bir belge verilmemektedir. Kurslara katılanlara ise genellikle 'Kurs Bitirme Belgesi' verilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "\"Şilte makinesi operatörleri; yatak, koltuk, kanepe ve diğer mobilyaların dolgu malzemesini üreten fabrika ve atölyelerde, sünger/elyaf dolgu üretimi yapan işletmelerde istihdam edilir. Kamu kurumlarında bu meslek için istihdam olanağı bulunmamaktadır. Mobilya ve yatak sektörünün yoğunlaştığı sanayi bölgelerinde iş bulma olanağı daha fazladır.\"",
+ "kazanc": {
+  "egitim_suresince": "İşbaşında usta yanında eğitim alanlar, çalıştıkları süre için işveren tarafından belirlenen bir ücret alabilir. Kurslara katılanlar için genellikle herhangi bir kazanç söz konusu değildir.",
+  "egitim_sonrasi": [
+   "İşe yeni başlayanların kazancı genellikle asgari ücret düzeyindedir.",
+   "Deneyim kazandıkça, özellikle makine ayarları ve bakımında uzmanlaşanların ücreti artabilir.",
+   "Kazanç; işyerinin büyüklüğüne, çalışma koşullarına ve karşılıklı anlaşmaya göre değişkenlik gösterebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "İşletme bünyesinde düzenlenen hizmet içi eğitimlerle makine kullanımı, yeni üretim teknolojileri ve iş sağlığı-güvenliği konularında bilgi ve beceriler geliştirilebilir.",
+  "is_hayatinda": "Deneyim kazanan operatörler usta, vardiya sorumlusu veya atölye şefi konumuna yükselebilir. Yeterli birikim ve sermayeye sahip olanlar kendi işyerini açabilir."
+ },
+ "benzer_meslekler": [
+  "Sünger Kesim Makinesi Operatörü",
+  "CNC Sünger Kesim Makinesi Operatörü",
+  "Vatka Makinesi İşçisi",
+  "Prese Makinesi Operatörü (Tekstil)",
+  "Hidrofil Pamuk İmalat İşçisi",
+  "Elyaf Açma Makineleri Operatörü"
+ ],
+ "ek_bilgiler": "\"Mobilya ve yatak sektöründeki üretim hacmine bağlı olarak bu meslekteki istihdam talebi bölgesel ve dönemsel olarak değişkenlik gösterebilir.\"",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T15:01:59",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5056
+  }
+ }
+}

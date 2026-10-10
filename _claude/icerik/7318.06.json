@@ -1,0 +1,82 @@
+{
+ "arac_gerec": [
+  "Hallaç yayı",
+  "Tokmak",
+  "Yay kirişi (ip)",
+  "Yaygı (çalışma bezi/sergi)",
+  "Süpürge ve faraş",
+  "Elek",
+  "Çuval/torba",
+  "Terazi (yün-pamuk tartımı için)",
+  "Makas",
+  "Koruyucu eldiven",
+  "Toz maskesi",
+  "Temizlik fırçası"
+ ],
+ "benzer_meslekler": [
+  "Elyaf Harman Takipçisi",
+  "Elyaf Kardeci",
+  "Elyaf Yıkayıcı",
+  "Harman Hazırlama İşçisi (Tekstil)",
+  "Harman Hallaç Besleme İşçisi",
+  "Harman Hallaç İşçisi (Yün)",
+  "Harman Hallaç İşçisi (Halı)",
+  "Harman Hallaç Makinesi Arkacısı"
+ ],
+ "calisma_alanlari": "Hallaçlar; yorgan, yastık ve minder imalatçıları, pamuk/yün işleme atölyeleri ile halı ve kilim imalathaneleri gibi genellikle küçük ölçekli işletmelerde çalışabilir veya kendi işyerini açabilir.\\n\\nGünümüzde hallaçlama işleminin büyük ölçüde makineleşmesi nedeniyle elle hallaçlık yapan meslek elemanı sayısı ve bu alandaki iş olanakları giderek azalmaktadır. Meslek, daha çok geleneksel ve el sanatı niteliğinde küçük atölyelerde ve kırsal kesimde sürdürülmektedir.",
+ "calisma_ortami": "Hallaç, genellikle kapalı mekanlarda, atölye veya küçük işletme ortamında çalışır. Çalışma ortamı yün ve pamuk tozu nedeniyle tozludur; bu durum solunum yolu açısından risk oluşturabileceğinden toz maskesi ve gerekli diğer koruyucu donanımların kullanılması önemlidir. İş, ayakta ve bedensel güç gerektiren şekilde, kol ve bilek hareketlerinin tekrarlı kullanıldığı bir biçimde yürütülür.\\n\\nÇalışma saatleri genellikle işyerinin mesai düzenine bağlıdır. Meslek elemanı; işveren, ustabaşı, birlikte çalıştığı diğer işçiler ve zaman zaman müşterilerle iletişim kurar. İşini çoğunlukla tek başına veya küçük bir ekip içinde yürütür.",
+ "egitim": {
+  "verildigi_yerler": "Hallaçlık için örgün eğitim kurumlarında ayrı bir meslek dalı/program bulunmamaktadır. Meslek geleneksel olarak ustasının yanında, işbaşında (çıraklık usulü) öğrenilir. Ayrıca Halk Eğitim Merkezleri ile İŞKUR tarafından açılan tekstil ve el sanatları ile ilgili kurslarda da mesleğe yönelik temel bilgi ve beceriler kazandırılabilir.",
+  "giris_kosullari": [
+   "Okuma yazma bilmek",
+   "Mesleği yapmaya uygun bedensel ve sağlık durumuna sahip olmak",
+   "Mesleği öğrenmek için bir usta ya da işyeri bulmak",
+   "Açılan kurslara katılabilmek için ilgili kurumun belirlediği genel koşulları karşılamak"
+  ],
+  "sure_ve_icerik": "Mesleğin standart bir eğitim programı ve süresi bulunmamaktadır. Usta yanında işbaşında öğrenme, genellikle birkaç ay ile bir yıl arasında değişen bir sürede; yün ve pamuğun hazırlanması, yay ve tokmak kullanma teknikleri, kiriş gerdirme ve yünü atma gibi uygulamalı becerilerin kazanılmasını içerir. Kurumlarca açılan kurslarda ise süre ve içerik, kursu düzenleyen kuruma göre değişiklik gösterir.",
+  "belge": "Usta-çırak ilişkisi içinde yetişenlere resmî bir diploma veya sertifika verilmemektedir. Katılınan mesleki kurslar sonunda ise kursu düzenleyen kurum tarafından katılım veya başarı belgesi düzenlenebilir."
+ },
+ "ek_bilgiler": "Hallaçlık, günümüzde büyük ölçüde makineli üretime bırakılmış geleneksel bir el sanatı meslek koludur; elle hallaçlama daha çok küçük ölçekli yorgan-yastık imalathanelerinde ve kırsal alanlarda sürdürülmektedir. Bu nedenle mesleğe olan talep ve istihdam alanı sınırlı olup zaman içinde azalma eğilimindedir.",
+ "genel_ozellikler": [
+  "Fiziksel olarak güçlü ve dayanıklı,",
+  "El ve kol kaslarını etkin biçimde kullanabilen,",
+  "El becerisine sahip,",
+  "Dikkatli ve sabırlı,",
+  "Tozlu ortamda çalışmaya uygun sağlık durumuna sahip,",
+  "Düzenli ve organize çalışabilen,",
+  "Ayakta ve hareketli çalışmaya istekli"
+ ],
+ "gorevler": [
+  "Çalışma yapılacak yere yaygı sererek çalışma alanını hazırlar.",
+  "Hallaçlama işlemi uygulanacak (bitmiş) yünleri çıkarır ve yığar.",
+  "Yünün içindeki işe yaramayan çaput ve benzeri parçaları temizler.",
+  "Hallaç yayının ipini (kirişini) gerer, gerginliğini kontrol eder.",
+  "Gergin olan ipi (kirişi) topaklanmış olan yün ve kırpıntı yüne değdirir.",
+  "Tokmak ile kirişe vurarak yünün atılmasını sağlar.",
+  "Atılan ve hallaçlama işlemi biten yünleri ayırır ve yığar.",
+  "Yayın kirişi koptuğunda yenisini gerdirerek takar.",
+  "Çalışma alanındaki yün kırpıklarını süpürür ve temizler.",
+  "Mesleğindeki gelişmeleri takip eder ve uygular.",
+  "Kullanılan araç, gereç ve malzemelerin bakım ve temizliğini yapar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğe yönelik örgün bir eğitim kademesi bulunmadığından mesleki eğitimde kurumsal anlamda ilerleme imkânı sınırlıdır. İsteyenler, Halk Eğitim Merkezleri ve ilgili kurumlarca açılan tekstil ve el sanatları ile ilgili kurslara katılarak bilgi ve becerilerini geliştirebilir.",
+  "is_hayatinda": "Deneyim kazanan hallaçlar ustabaşı olabilir, kendi işyerini açabilir ya da yün/pamuk işleme, yorgan-yastık imalatı gibi ilişkili alanlarda çalışabilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Usta yanında işbaşında eğitim alanlara, düzenli bir ücretten çok işyerinin imkanlarına bağlı olarak değişen sembolik bir ödeme veya yevmiye verilebilir; bu durum işyerine göre farklılık gösterir.",
+  "egitim_sonrasi": [
+   "Ücretli olarak çalışanlar genellikle asgari ücret düzeyinde veya işyerinin imkanlarına göre belirlenen bir ücretle çalışır.",
+   "Kendi işini kuranların geliri işin hacmine, müşteri çevresine ve işletmenin bulunduğu konuma göre değişir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T04:29:17",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5590
+  }
+ }
+}

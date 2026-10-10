@@ -1,0 +1,88 @@
+{
+ "arac_gerec": [
+  "Bilgisayar (merkezi sistem/iş istasyonu)",
+  "Konsol klavye ve kumanda paneli",
+  "Disk ve disketler / veri kayıt ortamları",
+  "Delgi makinesi ve delgi kartları",
+  "Yazıcı",
+  "Hesap makinesi",
+  "Manyetik bant ve arşivleme ekipmanı",
+  "Çevre birimleri (tarayıcı, modem, ağ bağlantı donanımı)",
+  "Isı ve nem ölçüm cihazları",
+  "İşletim sistemi ve uygulama yazılımları"
+ ],
+ "benzer_meslekler": [
+  "Bilgisayar Operatörü",
+  "Diğer Bilgisayar Makinesi Operatörleri",
+  "Bilgi İşlem Donanım Görevlisi",
+  "Sistem İşletmeni",
+  "Bilgisayar Operatörü Meslek Elemanı",
+  "Bilgi İşlem Destek Elemanı"
+ ],
+ "calisma_alanlari": "Elektronik Bilgisayar Operatörleri; kamu kurumlarının, bankaların, hastanelerin, eğitim kurumlarının ve özel sektör işletmelerinin bilgi işlem merkezlerinde, veri işleme birimlerinde ve sistem odalarında çalışabilirler. Mesleğin ait olduğu tanım, bilgisayar teknolojisinin ilk dönemlerindeki büyük sistemlerin işletilmesine dayandığından, günümüzde bu görevler büyük ölçüde \"Bilgisayar Operatörü\", \"Sistem İşletmeni\" ve \"Bilgi İşlem Destek Elemanı\" gibi unvanlar altında, güncellenmiş donanım ve yazılımlarla sürdürülmektedir. İstihdam olanakları, kurumların bilgi işlem merkezlerinin büyüklüğüne ve dijitalleşme düzeyine göre değişmektedir.",
+ "calisma_ortami": "Çalışma, genellikle kapalı mekânlarda; klimalı, ısı ve nem kontrolü yapılan sistem/bilgisayar odalarında ya da büro ortamlarında gerçekleşir. Ekran karşısında uzun süre oturarak dikkatli ve düzenli çalışma gerektirir; kurumun ihtiyacına göre vardiyalı çalışma veya mesai saatleri dışında görev yapma söz konusu olabilir.\n\nÇalışma sırasında servis birimleri, sistem programcıları, bilgi işlem sorumluları ve diğer teknik personelle sürekli iletişim halinde olunur. İş, büyük ölçüde oturarak ve ekip içinde yürütülür; göz ve el-koordinasyonu gerektiren, dikkat yoğunluğu yüksek bir çalışma biçimi öne çıkar.",
+ "ek_bilgiler": "Bu meslek tanımı, bilgisayar teknolojisinin erken dönemlerine ait disk, disket, delgi kartı ve manyetik bant kullanımına dayalı sistem operatörlüğü işlerini yansıtmaktadır. Günümüzde benzer görevler, güncel donanım ve yazılımlarla, çoğunlukla \"Bilgisayar Operatörü\" ve \"Sistem İşletmeni\" gibi unvanlar altında yürütülmektedir. Mesleğe yönelecek kişilerin, güncel bilgisayar sistemleri ve ofis yazılımları konusunda da bilgi sahibi olmaları iş bulma olanaklarını artırır.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğe özgü, resmî olarak tanımlanmış ayrı bir ortaöğretim alan/dalı günümüzde yaygın olarak bulunmamaktadır. Mesleğin temel bilgi ve becerileri; bilgi işlem/bilişim teknolojileri alanındaki mesleki ve teknik eğitim programları, Halk Eğitim Merkezleri ile Türkiye İş Kurumu (İŞKUR) tarafından açılan bilgisayar işletmenliği ve ofis programları kurslarında, ayrıca işbaşında usta-çırak ilişkisi içinde kazandırılmaktadır.",
+  "giris_kosullari": [
+   "Ortaöğretim (lise ve dengi okul) mezunu olmak",
+   "Kurs ve sertifika programları için ilgili kurumun belirlediği yaş, eğitim düzeyi ve sağlık şartlarını taşımak",
+   "Temel bilgisayar kullanımına ilgi ve yatkınlık"
+  ],
+  "sure_ve_icerik": "Eğitimin süresi ve içeriği, alınan kurum ve programa göre değişmektedir. Genel olarak temel bilgisayar kullanımı, işletim sistemleri, veri giriş-çıkış işlemleri, dosya ve arşiv yönetimi, donanım-yazılım temelleri, ofis yazılımları ile iş sağlığı ve güvenliği konuları eğitim içeriğinde yer alır.",
+  "belge": "Mesleki ve teknik eğitim programını tamamlayanlara diploma; kurs ve sertifika programlarını başarı ile tamamlayanlara katılım veya başarı sertifikası verilir."
+ },
+ "genel_ozellikler": [
+  "Dikkatli ve titiz,",
+  "Sorumluluk sahibi,",
+  "El ve göz koordinasyonu gelişmiş,",
+  "Mantıksal düşünme yeteneğine sahip,",
+  "Sabırlı ve düzenli çalışabilen,",
+  "Talimat ve prosedürlere uyumlu,",
+  "Ekip çalışmasına yatkın,",
+  "Yeni teknolojilere ilgi duyan"
+ ],
+ "gorevler": [
+  "Bilgisayara gelen elektrik voltajını, odanın ısı ve nem ayarını ölçer",
+  "Çalışma odasının hava durumunu ayarlar",
+  "Sistemi çalıştırmak için kumanda mandallarını hazır duruma getirir",
+  "Delgiden gelen disk ve disketleri teslim alır",
+  "Servislerden gelen işleri öncelik sırasına koyar",
+  "Bilgisayara yüklenecek disk ve disketleri yerlerine yerleştirir",
+  "Tuşlara basarak önceden öğrenilen bilgileri yazar",
+  "Bilgisayara bilgileri yükleyerek programlar",
+  "İstenilen işlere ait disk ve disketleri delgi masasındaki yuvalarına yerleştirir",
+  "Program ismi ve istenen bilgilere ait komutları konsol klavyesi üzerindeki tuşlara basarak yazar",
+  "Sistem yükleme tuşuna basarak işlemi bilgisayarın hafızasına vererek tamamlar",
+  "Hafızasına kaydettiği işlemlerin doğru olup olmadığını ekrandan kontrol eder",
+  "Hata varsa düzeltir",
+  "Program tamamlanınca yapılan işleri çıkarır",
+  "Yazıcı ile işlem yapılacaksa bilgisayarın ikaz ışığı yandığında ilgili düğmeye basarak çıkan listeleri alır ve gerektiğinde hesap makinesi ile kontrolünü yapar",
+  "Disketlerden bantlara aldığı bilgileri gerektiğinde kullanılmak üzere arşivde saklar veya ilgili yerlere gönderir",
+  "Yeni programlar verilmesi halinde işlemi sistem programcıları ile birlikte yapar",
+  "İşlem bitiminde sistemi kapatır",
+  "Çevre makinelerin bakım ve temizliğini yapar",
+  "Başka bir bilgisayara girdi ve çıktı hizmeti sağlamak için kontrol eder",
+  "Mesleki gelişim faaliyetlerinde bulunur"
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Deneyim kazandıktan sonra ilgili bilgi işlem/bilişim teknolojileri alanlarındaki önlisans ve lisans programlarına devam ederek sistem yönetimi, ağ yönetimi, yazılım geliştirme gibi daha ileri bilişim alanlarına yönelebilirler.",
+  "is_hayatinda": "Kıdem, deneyim ve bilgi birikimine bağlı olarak bilgi işlem sorumlusu, sistem operatörlüğü ekip lideri veya sistem yöneticisi gibi daha üst sorumluluk gerektiren pozisyonlara yükselebilirler."
+ },
+ "kazanc": {
+  "egitim_suresince": "Kurs ve sertifika programları sırasında genellikle ücret alınmaz. İŞKUR tarafından düzenlenen kurslarda kursiyerlere zaruri gider desteği verilebilir; işbaşı eğitim programlarına katılanlara ise günlük cep harçlığı ödenebilir.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında işçi veya memur statüsünde çalışanların ücreti, 657 sayılı Devlet Memurları Kanunu veya ilgili toplu iş sözleşmesi hükümlerine göre belirlenir.",
+   "Özel sektörde ücret, işyerinin büyüklüğüne, çalışanın deneyim ve bilgi-beceri düzeyine göre işveren ile karşılıklı anlaşma yoluyla belirlenir.",
+   "Mesleğe yeni başlayanlarda ücret genellikle asgari ücret düzeyinde olur."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T14:58:31",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6588
+  }
+ }
+}

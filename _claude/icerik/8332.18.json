@@ -1,0 +1,75 @@
+{
+ "arac_gerec": [
+  "SPMT (kendinden tahrikli modüler taşıyıcı) üniteleri",
+  "Uzaktan kumanda paneli (joystick/kumanda kutusu)",
+  "Hidrolik süspansiyon ve denge ayar sistemleri",
+  "Modüler ünite birleştirme/kenetleme pimleri ve bağlantı ekipmanları",
+  "Zemin basıncı ve yük dağılımı ölçüm cihazları",
+  "Su terazisi, lazer seviye ve nivo ölçüm aletleri",
+  "Telsiz ve haberleşme cihazları",
+  "Uyarı lambaları, flaşör ve sinyalizasyon ekipmanları",
+  "Takoz ve destek ayakları",
+  "Kişisel koruyucu donanım (baret, çelik burunlu ayakkabı, iş elbisesi, eldiven, yelek)",
+  "Teknik muayene ve bakım için temel el aletleri",
+  "İş makinesi operatörlük belgesi/sertifikası"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve sorumluluk sahibi,",
+  "El-göz-ayak koordinasyonu güçlü,",
+  "Mekanik ve teknik konulara ilgili,",
+  "Temel hesaplama yapabilen (ağırlık merkezi ve denge hesapları için),",
+  "Sabırlı, soğukkanlı ve tedbirli,",
+  "Takım çalışmasına uygun,",
+  "Fiziksel ve psikolojik açıdan sağlıklı,",
+  "Görme ve işitme duyuları güçlü"
+ ],
+ "calisma_ortami": "SPMT operatörü; tersane, petrol rafinerisi, inşaat şantiyesi, köprü yapım alanı ve enerji santrali gibi geniş ve açık sahalarda çalışır. İş genellikle ayakta, aracı uzaktan kumanda panelinden yöneterek yürütülür; saha koşulları nedeniyle toz, gürültü, farklı hava şartları ve ağır ekipman/yük hareketlerine bağlı riskler söz konusudur. Proje takvimine göre tam gün, vardiyalı ve bazen hafta sonu çalışma gerekebilir.\n\nÇalışma sırasında saha mühendisleri, montaj ekipleri, vinç ve diğer iş makinesi operatörleri, iş güvenliği uzmanları ve proje yöneticileriyle sürekli iletişim ve koordinasyon içinde bulunur. İş, yüksek dikkat ve ekip içi uyum gerektirir; hatalı bir hareket ciddi maddi kayıplara veya iş kazalarına yol açabileceğinden iş güvenliği kurallarına titizlikle uyulması gerekir.",
+ "gorevler": [
+  "Modüler taşıyıcı üniteleri yükün ağırlığına göre birleştirir,",
+  "Yükün ağırlık merkezini hesaplayarak hidrolik denge ayarlarını yapar,",
+  "Uzaktan kumanda paneliyle aracı ve yükü milimetrik sevk eder,",
+  "Güzergah üzerindeki zemin basıncını ve engelleri sürekli izler,",
+  "Operasyon sonrası araç sistemlerinin teknik muayenesini yapar,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Bu meslek için Türkiye'de örgün, standart hale gelmiş bir mesleki eğitim programı bulunmamaktadır. Temel iş makinesi operatörlüğü bilgisi Halk Eğitim Merkezleri ve İŞKUR'un açtığı iş makinesi operatörlüğü kurslarında kazanılabilir. SPMT (ağır nakliye/low-bed) gibi özel ekipmanların kullanımına yönelik eğitim ise genellikle ekipmanı üreten veya kiralayan firmalar ile büyük ölçekli nakliye/montaj şirketleri tarafından işbaşında, deneyimli bir operatör/usta nezaretinde verilmektedir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "18 yaşını doldurmuş olmak",
+   "Sağlık durumu ağır iş makinesi kullanımına uygun olmak",
+   "Bazı işyerlerinde genel iş makinesi operatörlüğü belgesi veya ilgili ehliyet sınıfına sahip olmak tercih sebebi olabilir"
+  ],
+  "sure_ve_icerik": "Standart bir eğitim süresi ve içeriği tanımlanmamıştır. Genel olarak önce temel iş makinesi operatörlüğüne ilişkin teorik ve pratik bilgiler (hidrolik sistemler, güvenlik kuralları, temel makine bilgisi) kazandırılır; ardından işe alınan kişiye, kullanılan SPMT ekipmanına özgü kumanda sistemi, yük/denge hesapları, modüler ünite birleştirme ve saha uygulamalarına yönelik firma içi eğitim verilir. Bu süreç, işyerine ve ekipmana göre birkaç haftadan birkaç aya kadar değişebilir.",
+  "belge": "Katılınan kurs veya eğitim programından alınan kurs bitirme belgesi ya da firma içi eğitim/yetkinlik sertifikası verilir. Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "SPMT operatörleri; tersaneler, petrol ve doğalgaz rafinerileri, büyük inşaat şantiyeleri, köprü ve altyapı yapım projeleri, enerji santralleri (termik, nükleer, rüzgar türbini montajı vb.) ile ağır sanayi tesislerinde, liman ve lojistik işletmelerinde çalışabilir. Bu meslek oldukça özel ve niş bir alan olup yaygın bir istihdam alanı değildir; iş bulma olanağı, büyük ölçekli endüstriyel ve enerji projelerinin yürütüldüğü sanayi bölgeleri, liman kentleri ve büyük şantiye alanlarıyla sınırlıdır. Proje bazlı çalışma yaygın olduğundan istihdam, yeni projelerin açılmasına bağlı olarak dönemsel değişkenlik gösterebilir.",
+ "kazanc": {
+  "egitim_suresince": "İşe alınarak firma bünyesinde işbaşında eğitim alan kişiler genellikle çalıştıkları işletmeden ücret alır. Kurum dışı genel iş makinesi operatörlüğü kurslarında ise eğitim süresince herhangi bir kazanç söz konusu değildir.",
+  "egitim_sonrasi": [
+   "Kamu kurum veya kuruluşlarında çalışanlar 657 sayılı Devlet Memurları Kanunu ya da işçi statüsündeyse ilgili toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde ücret; deneyim, kullanılan ekipmanın niteliği, işletme büyüklüğü ve proje türüne göre değişir.",
+   "Mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar; deneyim ve uzmanlaşma arttıkça kazanç yükselebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Bu meslekte belirlenmiş örgün bir ilerleme basamağı bulunmamaktadır. Operatörler deneyim kazandıkça daha büyük kapasiteli ve karmaşık SPMT ekipmanlarını kullanmaya yönelik ileri düzey firma içi eğitimlere katılabilir.",
+  "is_hayatinda": "Deneyim kazanan operatörler ekip lideri, saha/operasyon sorumlusu veya işbaşında yeni operatörleri yetiştiren eğitmen/usta konumuna yükselebilir."
+ },
+ "benzer_meslekler": [
+  "Çekici Tahrikli Ağır Nakliye (Low-Bed) İş Makinesi Operatörü",
+  "Terminal Çekici Operatörü",
+  "Kaya Kamyonu Operatörü",
+  "Ara-Taşıt Aracı Operatörü (Maden Ocağı)",
+  "Tır-Çekici Şoförü"
+ ],
+ "ek_bilgiler": "Bu meslek oldukça özel ve niş bir alandır; büyük ölçekli endüstriyel taşıma, montaj ve enerji projelerinde ihtiyaç duyulur, yaygın bir meslek değildir. Ağır ve hassas ekipman kullanımı içerdiğinden iş güvenliği eğitimleri ve uygulamaları büyük önem taşır.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T18:29:56",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6061
+  }
+ }
+}

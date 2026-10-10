@@ -1,0 +1,83 @@
+{
+ "gorevler": [
+  "İş organizasyonu yapar,",
+  "Fizikçi (Genel) mesleğinde belirtilen benzer işleri yapar,",
+  "Nükleer yapı ve parçalanması, yüksek hızla hareket eden zerrecikler, izotopların ölçülmesi ve ayrılması, atom ve molekül yapısı, radyoskopik kristalografi veya kozmik ışınlar gibi atomik branşlarda ihtisas sahibi olur,",
+  "Elementlerin çekirdeklerinin çeşitli modeller kullanarak yapısını ve özelliklerini, çekirdek kuvvetlerini, çekirdekleri ve onları meydana getiren parçacıkların birbirleriyle ve elektromanyetik alanlarla etkileşmelerini, radyoaktiviteyi ve bozunmayı inceleyen laboratuvar çalışmalarını yürütür,",
+  "Son derece hassas ölçme aletleriyle çeşitli mekanik ve elektronik düzeneklerle ölçümler yapar,",
+  "Parçacık odaklama sistemini çalışmaya hazırlar,",
+  "Plazma parametrelerini tespit edip elde ettiği verileri değerlendirir,",
+  "Sistemin vakumunu sağlayıp sisteme gaz verilmesini, yüksek gerilim uygulanmasını ve sistem üzerine boşaltılmasını, bilgilerin osilaskopa aktarılmasını, osilaskopta oluşan şekillerin fotoğraflarının alınmasını sağlar,",
+  "Deneyde kullanılacak malzemeleri temin edip sistemi çalışmaya hazır hale getirir,",
+  "Sistem üzerindeki rogofski bobinlerinden sonra operasyonel entegratörlerden akım geçirip, geçen akım transiyentleri ve voltaj bölücüleri yardımıyla alınan voltajı belirler,",
+  "Plazma akımı, basınç, voltaj gibi plazma fonksiyonuna ait bilgileri hesaplayarak en elverişli çalışma şartlarını elde eder,",
+  "Elde edilen verileri bilgisayara aktarıp sonuçları inceleyerek aletin daha verimli hale getirilmesi için gerekli şartları tespit eder,",
+  "Nükleer fiziğin belli bir konusunda uzmanlaşabilir,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "arac_gerec": [
+  "Parçacık hızlandırıcılar",
+  "Nükleer/parçacık dedektörleri (Geiger-Müller sayaçları, sintilasyon dedektörleri)",
+  "Radyasyon ölçüm cihazları ve dozimetreler",
+  "Vakum pompaları ve vakum sistemleri",
+  "Osilaskoplar",
+  "Spektrometreler",
+  "Yüksek gerilim güç kaynakları",
+  "Voltaj bölücüler ve operasyonel entegratörler",
+  "Rogofski bobinleri",
+  "Kurşun ve radyasyondan koruyucu ekipmanlar",
+  "Bilgisayar ve veri analiz/simülasyon yazılımları",
+  "Laboratuvar ölçüm ve kayıt cihazları"
+ ],
+ "genel_ozellikler": [
+  "Üstün akademik başarıya sahip,",
+  "Matematik ve fizik alanlarına ilgili ve bu alanlarda yetkin,",
+  "Analitik ve soyut düşünme yeteneği gelişmiş,",
+  "Dikkatini uzun süre bir noktaya yoğunlaştırabilen,",
+  "Sabırlı ve titiz,",
+  "Araştırmacı, meraklı ve yeni bilgilere açık,",
+  "Takım çalışmasına yatkın,",
+  "Sorumluluk sahibi ve güvenlik kurallarına uyan kişiler olmaları gerekir."
+ ],
+ "calisma_ortami": "Fizikçi (Nükleer), üniversitelerin fizik bölümlerine bağlı laboratuvarlarda, araştırma merkezlerinde ve bazı kamu kurumlarının Ar-Ge birimlerinde, genellikle kapalı ortamlarda çalışır. Çalışma ortamı çoğunlukla düzenli ve sessizdir; ancak kullanılan cihazlar ve radyoaktif malzemeler nedeniyle radyasyon güvenliği kurallarına titizlikle uyulması gereken, belirli risk içeren bir ortamdır. Bu nedenle koruyucu ekipman kullanımı ve düzenli sağlık kontrolleri önem taşır.\n\nÇalışma genellikle mesai saatleri içinde yürütülse de, sürmekte olan bir deney veya ölçüm nedeniyle zaman zaman uzun saatler çalışmak gerekebilir. Meslek mensubu; diğer fizikçiler, mühendisler, teknisyenler ve akademik personelle yakın iş birliği içinde, ekip hâlinde çalışır.",
+ "egitim": {
+  "verildigi_yerler": "Fizik lisans eğitimi, üniversitelerin Fen Fakültelerine bağlı Fizik bölümlerinde verilir. Nükleer fizik alanında uzmanlaşma, lisans eğitiminin ardından üniversitelerin fizik veya nükleer enerji mühendisliği anabilim dallarında yürütülen yüksek lisans ve doktora programlarıyla sağlanır.",
+  "giris_kosullari": [
+   "Lise veya dengi okul mezunu olmak",
+   "YKS (Yükseköğretim Kurumları Sınavı) kılavuzunda belirtilen giriş koşullarını taşımak"
+  ],
+  "sure_ve_icerik": "Fizik lisans eğitiminin süresi 4 yıldır. Eğitim süresince Genel Fizik, Mekanik, Elektromanyetizma, Termodinamik, Kuantum Mekaniği, Atom ve Molekül Fiziği, Çekirdek Fiziği, Parçacık Fiziği, Katıhal Fiziği ve Matematiksel Fizik Yöntemleri gibi dersler okutulur. Nükleer fizik alanında ihtisaslaşmak isteyenler, lisans sonrasında yüksek lisans ve doktora düzeyinde çekirdek fiziği, radyasyon fiziği, parçacık hızlandırıcıları ve plazma fiziği gibi konularda derinleşir.",
+  "belge": "Lisans eğitimini başarıyla tamamlayanlara fizik lisans diploması; yüksek lisans ve doktora eğitimini tamamlayanlara ilgili yüksek lisans ve doktora diploması verilir."
+ },
+ "calisma_alanlari": "Fizikçi (Nükleer), üniversitelerin fizik bölümlerinde araştırma görevlisi veya öğretim üyesi olarak akademik kariyere başlayabilir. Nükleer araştırma ve enerji alanında faaliyet gösteren kamu kurumlarının (örneğin Türkiye Enerji, Nükleer ve Maden Araştırma Kurumu bünyesindeki araştırma merkezleri gibi) Ar-Ge birimlerinde görev alabilir. Sağlık kuruluşlarında radyasyon/medikal fizik alanında, savunma sanayii ve enerji sektöründeki Ar-Ge birimlerinde de çalışabilir.\n\nTürkiye'de nükleer fizik alanında doğrudan ve özel olarak istihdam edilen pozisyon sayısı sınırlıdır. Bu alanda eğitim alanların önemli bir kısmı akademik kariyer yoluna girmekte, bir kısmı ise genel fizik, mühendislik, radyasyon güvenliği veya medikal fizik gibi ilişkili alanlarda istihdam edilmektedir.",
+ "kazanc": {
+  "egitim_suresince": "Meslek eğitimi süresince Kredi ve Yurtlar Genel Müdürlüğünün sağladığı öğrenim kredisi ve yurt imkanlarından, ayrıca çeşitli resmi ve özel kurum/kuruluşların sunduğu burslardan yararlanılabilir.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında araştırmacı/uzman olarak çalışanlar 657 sayılı Devlet Memurları Kanunu'na tabi olarak ücret alır.",
+   "Üniversitelerde öğretim üyesi veya araştırma görevlisi olarak çalışanlar, ilgili yükseköğretim mevzuatına göre ücretlendirilir.",
+   "Özel sektörde çalışanların ücreti; işletmenin büyüklüğüne, çalışanın deneyim ve uzmanlık düzeyine, üstlenilen göreve göre değişir; yeni mezunlar genellikle giriş seviyesi ücretlerle işe başlar."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Lisans eğitiminin ardından fizik veya nükleer enerji mühendisliği alanında yüksek lisans ve doktora yapılarak akademik kariyer basamaklarında (araştırma görevlisi, doktor öğretim üyesi, doçent, profesör) ilerlenebilir.",
+  "is_hayatinda": "Kamu kurumlarında kıdem ve uzmanlık derecelerine göre uzman, baş uzman veya proje yöneticisi gibi üst unvanlara yükselinebilir; araştırma grubu liderliği üstlenilebilir ve uluslararası araştırma projelerinde yer alınabilir."
+ },
+ "benzer_meslekler": [
+  "Fizikçi",
+  "Diğer Fizikçiler",
+  "Fizikçi (Elektronik)",
+  "Fizikçi-Işık",
+  "Radyasyon (Sağlık) Fizikçisi",
+  "Fizik Mühendisi",
+  "Diğer Fizik Bilim Adamları"
+ ],
+ "ek_bilgiler": "Nükleer alanda çalışma, radyasyonla çalışmayı içerdiğinden radyasyon güvenliği mevzuatına, düzenli sağlık kontrollerine ve ilgili kurumların belirlediği eğitim/sertifikasyon süreçlerine tabi olunabilir. Bu alanda çalışacak kişilerin işe başlamadan önce ilgili kurumun (örneğin Türkiye Enerji, Nükleer ve Maden Araştırma Kurumu) güncel düzenlemelerini ve istihdam koşullarını araştırması önerilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-07T20:40:17",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6757
+  }
+ }
+}

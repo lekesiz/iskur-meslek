@@ -1,0 +1,79 @@
+{
+ "arac_gerec": [
+  "Pastörizasyon tankı/makinesi",
+  "Santrifüj (krema ayırıcı/separatör)",
+  "Yayık makinesi (kontinü veya kesikli yayık)",
+  "Krema olgunlaştırma (fermantasyon) tankları",
+  "Laktik kültür/tahammür maddesi",
+  "Termometre",
+  "Hidrometre/yağ ölçüm cihazı",
+  "Tuzlama ve karıştırma ekipmanları",
+  "Ambalajlama ve paketleme makineleri",
+  "Numune alma kapları ve ekipmanları",
+  "Hijyen ve temizlik malzemeleri (dezenfektan, temizlik solüsyonları)",
+  "Soğuk hava deposu/depolama tankları",
+  "Koruyucu iş kıyafeti (önlük, bone, eldiven, çizme)"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve titiz,",
+  "Koku ve tat alma duyuları gelişmiş,",
+  "Temizlik ve hijyen kurallarına önem veren,",
+  "El ve bilek becerisine sahip,",
+  "Fiziksel olarak dayanıklı, ayakta çalışabilen,",
+  "Bulaşıcı hastalık taşıyıcısı olmayan (sağlıklı),",
+  "Ekip halinde çalışmaya uyumlu,",
+  "Düzenli ve sorumluluk sahibi."
+ ],
+ "calisma_ortami": "Tereyağı imal işçisi; mandıralarda, süt ve süt ürünleri fabrikalarında, süt kooperatiflerinde ve tereyağı imalathanelerinde çalışır. Çalışma ortamı genellikle nemli ve serin/soğuktur, çünkü süt ve kremanın bozulmaması için düşük sıcaklıkta tutulması gerekir; bazı bölümlerde makinelerin çalışmasından kaynaklanan gürültü bulunabilir. İş büyük ölçüde ayakta yürütülür; süt toplama ve işleme saatlerine bağlı olarak erken saatlerde başlayan vardiyalı çalışma söz konusu olabilir.\n\nÇalışırken diğer imal işçileri, kalite kontrol personeli, üretim/işletme sorumluları ve süt tedarikçileri ile iletişim kurar. Gıda ile doğrudan temas nedeniyle hijyen kurallarına sıkı şekilde uyulması gerekir; periyodik sağlık kontrolünden geçilmesi işin doğası gereği önemlidir.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi, mesleki eğitim merkezlerinin Gıda Teknolojisi alanı kapsamındaki süt ürünleri işleme dalında çıraklık eğitimi yoluyla verilebilmektedir. Bunun yanında Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kurslarında da ilgili konularda eğitim verilmektedir. Yaygın olarak işbaşında, usta yanında yetişilen bir meslektir.",
+  "giris_kosullari": [
+   "En az ilkokul/ortaokul mezunu olmak (çıraklık eğitimine girişte ortaokul mezuniyeti aranır)",
+   "14 yaşını doldurmuş olmak (çıraklık eğitimi için)",
+   "Sağlık durumunun mesleğin gerektirdiği koşullara uygun olması, bulaşıcı hastalık taşıyıcısı olmaması",
+   "Çıraklık eğitimi için bir işyeri bulup işveren ile sözleşme imzalamak"
+  ],
+  "sure_ve_icerik": "Mesleki eğitim merkezlerinde çıraklık yoluyla eğitim genellikle ilköğretim sonrası birkaç yıl sürer; eğitimin bir bölümü kalfalık, bir bölümü ustalık düzeyindedir. Eğitim haftanın bir günü meslek dersleri olarak eğitim merkezinde, kalan günlerde işyerinde usta öğreticinin gözetiminde uygulamalı olarak yürütülür. Kurs yoluyla edinilen eğitimde ise süre ve içerik kursun programına göre değişmekle birlikte genel hijyen kuralları, süt kabulü, pastörizasyon, krema ayırma, yayıklama ve kalite kontrolüne ilişkin temel bilgi ve beceriler kazandırılır.",
+  "belge": "Çıraklık eğitimini tamamlayanlara kalfalık, ardından ustalık belgesi verilir. Kurs yoluyla alınan eğitimlerde katılım/başarı belgesi verilir; Mesleki Yeterlilik Kurumu (MYK) Mesleki Yeterlilik Belgesi istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Tereyağı imal işçisi; süt ve süt ürünleri üreten fabrikalarda, mandıralarda, süt kooperatiflerinde ve küçük ölçekli imalathanelerde istihdam edilebilir. Gıda sektöründeki üretim hacmine, mevsimsel süt arzına ve sektörel büyümeye bağlı olarak iş bulma olanakları değişebilir. Deneyim ve sermaye birikimiyle kendi işyerini açma imkânı da bulunmaktadır.",
+ "kazanc": {
+  "egitim_suresince": "Çıraklık eğitimi kapsamında eğitim görenlere, 3308 sayılı Mesleki Eğitim Kanunu gereğince asgari ücretin belirli bir oranından az olmamak üzere ücret ödenir ve iş kazası-meslek hastalığı sigortası devletçe karşılanır. Kurs yoluyla edinilen eğitimlerde genellikle ücret ödenmez.",
+  "egitim_sonrasi": [
+   "Kamu sektöründe istihdam edilenler, 657 sayılı Devlet Memurları Kanunu veya işçi statüsündeyse ilgili toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar; kıdem, deneyim, işletmenin büyüklüğü ve bölgenin sektör ücret düzeyine göre kazanç artabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleki eğitim merkezinden diploma alarak mezun olanlar, alanın devamı niteliğindeki gıda teknolojisi veya süt ve ürünleri ile ilgili ön lisans/lisans programlarına sınavla yerleşebilir. Ayrıca çeşitli kurs ve sertifika programlarına katılarak mesleki bilgi ve becerilerini geliştirebilirler.",
+  "is_hayatinda": "Meslekte deneyim kazanan işçiler usta, ustabaşı veya vardiya/üretim sorumlusu gibi pozisyonlara yükselebilir. Ustalık belgesine sahip olanlar kendi işyerini (küçük ölçekli imalathane) açabilir."
+ },
+ "benzer_meslekler": [
+  "Kültürcü (Süthane / Mandıra)",
+  "Süthane/ Mandıra İşçisi",
+  "Yoğurt İmal İşçisi",
+  "Peynir İmal İşçisi",
+  "Tereyağ Yayık Makine Operatörü",
+  "Süt ve Süt Ürünleri İşlemecisi",
+  "Süt Kabul İşçisi"
+ ],
+ "ek_bilgiler": "Gıda üretim alanlarında çalışanların, gıda hijyeni mevzuatı kapsamında hijyen eğitimi almaları ve periyodik sağlık muayenelerinden geçmeleri gerekmektedir. Tereyağı üretimi, süt sanayinin mevsimsel süt arzı ve bölgesel üretim koşullarındaki dalgalanmalardan etkilenebilir.",
+ "gorevler": [
+  "Zararlı bakterileri yok etmek için sütü pastörize eder.",
+  "Bir santrifüj içinde sütün kremasını ayırır.",
+  "Kremayı olgunlaştırmak için içine laktik tahammür (fermantasyon) maddesi ilave eder.",
+  "Kremayı makineli bir yayığa döker veya pompalar; yayığı çalıştırır.",
+  "Rutubeti, harareti ve yayıklama süresini kontrol ederek tereyağı yapar.",
+  "Yayık içinde tereyağına tuz ilave eder.",
+  "Muayene için tereyağından numuneler alır.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T07:17:31",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6229
+  }
+ }
+}

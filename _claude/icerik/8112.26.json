@@ -1,0 +1,75 @@
+{
+ "arac_gerec": [
+  "Besleme bunkeri ve besleme bantları",
+  "Bilyeli/çubuklu değirmen ve motor grubu",
+  "Öğütücü bilye ve çubuklar",
+  "Pulp (çamur) yoğunluk ölçüm cihazı",
+  "Elek ve tane boyutu ölçüm ekipmanları",
+  "Kontrol panosu ve göstergeler",
+  "Yağlama ekipmanları",
+  "El aletleri (anahtar takımı, kürek, maşa vb.)",
+  "Temizlik malzemeleri ve ekipmanları",
+  "Telsiz veya haberleşme cihazı",
+  "Kişisel koruyucu donanım (baret, kulaklık, toz maskesi, eldiven, iş elbisesi, çelik burunlu ayakkabı vb.)"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve sorumluluk sahibi,",
+  "Makine ve mekanik sistemlere ilgili,",
+  "El ve bedensel beceri gerektiren işlerde başarılı,",
+  "Ekip çalışmasına yatkın,",
+  "Fiziksel olarak dayanıklı,",
+  "Sesleri ve çalışma düzensizliklerini ayırt edebilen,",
+  "Kurallara ve talimatlara uyan,",
+  "Vardiyalı çalışmaya uyumlu"
+ ],
+ "calisma_ortami": "Değirmen işçisi, maden işletmelerine bağlı cevher zenginleştirme/öğütme tesislerinde, genellikle kapalı tesis alanlarında ayakta ve hareketli olarak çalışır. Çalışma ortamı tozlu, gürültülü, nemli, titreşimli ve bazı bölgelerde ıslak (pulp/çamur) olabilir. Tesisin sürekli çalışma zorunluluğu nedeniyle vardiyalı olarak çalışılabilir.\n\nGörevini yerine getirirken kişisel koruyucu donanım kullanır. Tesis operatörleri, bakım ve elektrik personeli, ustabaşı ve diğer tesis çalışanlarıyla yakın iş birliği içinde çalışır. İş sağlığı ve güvenliği kurallarına uyulmaması durumunda makine kaynaklı yaralanma, gürültüye bağlı işitme kaybı ve toz kaynaklı sağlık riskleri söz konusu olabilir.",
+ "gorevler": [
+  "Değirmenlerin besleme bunkeri ve bantlarını kontrol eder.",
+  "Öğütücü bilye veya çubuk ilavelerini talimatlara göre yapar.",
+  "Çamur (pulp) yoğunluğunu ve tane boyutunu periyodik olarak kontrol eder.",
+  "Değirmen yatakları ve motorlarının çalışma sesini izler.",
+  "Üretim hattındaki tıkanıklıkları giderir ve temizlik yapar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimine yönelik standart bir örgün eğitim programı bulunmamaktadır. Temel bilgiler Halk Eğitim Merkezleri ile İŞKUR'un açtığı mesleki eğitim kurslarında verilebilir; mesleğin uygulamaya dayalı becerileri ise işletmelerde işbaşında usta yanında kazanılır.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "Maden işlerinde çalışmaya uygun olduğunu gösteren sağlık raporuna sahip olmak",
+   "Fiziksel olarak işin gerektirdiği koşullara uygun olmak"
+  ],
+  "sure_ve_icerik": "Kurs programlarının süresi ve içeriği, eğitimi veren kuruma göre değişmekle birlikte genellikle değirmen besleme sistemleri, öğütücü ortam ilavesi, pulp yoğunluğu ve tane boyutu takibi, değirmen bakım ve temizliği ile iş sağlığı ve güvenliği konularını kapsar. İşletmeye girişte verilen iş başı eğitimleri de mesleki becerilerin kazanılmasında önemli rol oynar.",
+  "belge": "Kurs bitirme belgesi verilmektedir. Ayrıca işletme içi eğitimler sonucunda iş başı eğitim belgesi düzenlenebilir."
+ },
+ "calisma_alanlari": "Değirmen işçisi (maden), cevher zenginleştirme ve mineral işleme tesisi bulunan maden işletmelerinde (metal maden, kömür veya endüstriyel hammadde işleyen tesisler) istihdam edilir. Bu tesislerde öğütme/değirmen ünitelerinde görev alır. İş bulma olanakları, maden işletmelerinin faaliyet yoğunluğuna, bölgesel maden kaynaklarına ve sektörün genel durumuna bağlı olarak değişiklik gösterir.",
+ "kazanc": {
+  "egitim_suresince": "Kurs sürecinde genel olarak bir kazanç söz konusu değildir. İşletme içi işbaşı eğitiminde çalışılıyorsa işveren tarafından belirlenen bir ücret ödenebilir.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanların kazancı genellikle asgari ücret düzeyindedir.",
+   "Deneyim, bilgi birikimi ve çalışılan işletmenin büyüklüğüne göre kazanç artabilir.",
+   "Kamu iktisadi teşekküllerine bağlı maden işletmelerinde çalışanlar işçi statüsünde olup ücretleri toplu iş sözleşmesi hükümlerine göre belirlenir.",
+   "Özel sektörde ücret, işveren ile çalışan arasındaki anlaşmaya ve işletme koşullarına göre değişir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğe özgü kademeli bir örgün eğitim basamağı bulunmamaktadır. Deneyim kazandıkça ilgili ileri düzey kurslara veya Mesleki Yeterlilik Kurumu (MYK) belgelendirme sınavlarına katılım sağlanabilir.",
+  "is_hayatinda": "Mesleki tecrübe, bilgi birikimi ve performansa bağlı olarak değirmen işçisi, tesis içinde usta, ekip sorumlusu veya nezaretçi gibi görevlere yükselebilir; ilgili eğitimleri tamamlayarak tesis operatörlüğüne geçiş yapabilir."
+ },
+ "benzer_meslekler": [
+  "Öğütme Tesisi Operatörü-Madencilik",
+  "Konkasör Operatörü (Kırma-Eleme)",
+  "Kırma Eleme Tesis Operatörü",
+  "Mineral Kırma Makinesi Operatörü",
+  "Yıkama Makinesi Operatörü (Maden)",
+  "Filtre Tesisi Operatörü-Maden"
+ ],
+ "ek_bilgiler": "Maden sektöründe çalışıldığından iş sağlığı ve güvenliği mevzuatı kapsamında belirlenen sağlık ve fiziksel uygunluk şartlarının karşılanması ve kişisel koruyucu donanımın eksiksiz kullanılması önemlidir. Mesleki Yeterlilik Kurumu (MYK) belgesine sahip olmak istihdamda tercih sebebi olabilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T10:30:50",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 4837
+  }
+ }
+}

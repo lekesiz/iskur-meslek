@@ -1,0 +1,76 @@
+{
+ "arac_gerec": [
+  "El aletleri (testere, keski, rende, matkap)",
+  "Elektrikli el aletleri (elektrikli testere, zımpara makinesi, matkap)",
+  "Metal döküm kalıpları ve döküm ekipmanları",
+  "Levha kesme ve şekillendirme aletleri",
+  "Civata, perçin takımları",
+  "Kaynak ve lehim takımı",
+  "Ölçü aletleri (cetvel, gönye, kumpas)",
+  "Akort düdüğü ve elektronik akort cihazı",
+  "Zımpara kağıdı, yapıştırıcı ve tutkal",
+  "Mekanik ve elektrik montaj parçaları (klape, pedal, sibop vb.)",
+  "İş güvenliği ekipmanları (eldiven, koruyucu gözlük, maske, kulaklık)"
+ ],
+ "genel_ozellikler": [
+  "El becerisine sahip,",
+  "Sesleri ayırt edebilen, iyi bir işitme yeteneğine sahip,",
+  "Müzikle ilgili,",
+  "Dikkatli ve sabırlı,",
+  "El ve göz koordinasyonu iyi,",
+  "Üç boyutlu düşünebilen ve tasarım yeteneği olan,",
+  "El aletlerini ve elektrikli ekipmanları kullanmaya istekli,",
+  "Takım çalışmasına uyumlu"
+ ],
+ "calisma_ortami": "Org imal işçisi genellikle kapalı atölye ortamında çalışır. Çalışma sırasında ahşap talaşı, metal tozu, boya ve vernik kokusu bulunabilir; ortam zaman zaman tozlu ve gürültülü olabilir, ancak akort ve ses ayarı yapılırken sessiz bir ortam sağlanmaya çalışılır. Kesici, delici ve elektrikli aletlerle çalışma nedeniyle iş kazası riski bulunduğundan iş sağlığı ve güvenliği kurallarına uyulması önemlidir.\n\nÇalışma genellikle ayakta, eğilerek veya oturarak sürer. Org kurulumu için kilise, konser salonu, sinema gibi mekanlara gidildiğinde saha çalışması da yapılabilir. Meslek mensupları, atölyedeki diğer ustalar ve yardımcılarla, ayrıca org kullanılacak mekânın sahipleri veya müzisyenlerle iletişim kurar. Çalışma saatleri genellikle gündüzdür; ancak kurulum ve onarım işlerinde bu durum değişebilir.",
+ "egitim": {
+  "verildigi_yerler": "Türkiye'de org imalatı için örgün (okul tabanlı) bir mesleki eğitim programı bulunmamaktadır. Meslek genellikle usta-çırak ilişkisi içinde işbaşında öğrenilir. Ahşap işleme, metal şekillendirme, elektrik-elektronik montaj gibi temel beceriler Mesleki Eğitim Merkezleri, Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kurslarında da kazanılabilir.",
+  "giris_kosullari": [
+   "İlkokul/ilköğretim mezunu olmak (mesleğin gerektirdiği minimum eğitim düzeyi ilköğretimdir)",
+   "El becerisine sahip olmak ve müzikle ilgilenmek",
+   "3308 sayılı Kanun kapsamında çıraklık eğitimine başvuracaklar için ilgili yaş ve diğer giriş şartlarını taşımak"
+  ],
+  "sure_ve_icerik": "Mesleğin standart ve resmî olarak tanımlanmış bir eğitim süresi bulunmamaktadır. İşbaşında usta yanında çıraklıktan kalfalığa, kalfalıktan ustalığa geçiş süreci yıllar sürebilir. Eğitim süresince ahşap ve metal işleme teknikleri, org parçalarının birleştirilmesi, mekanik veya elektrik mekanizmalarının montajı, org kurulumu ve akort/ses ayarı konularında uygulamalı olarak beceri kazanılır.",
+  "belge": "Çıraklık eğitimi kapsamında eğitime devam edenlere sırasıyla Çırak, Kalfa ve Usta belgesi verilebilir. Ayrıca Mesleki Yeterlilik Kurumu (MYK) tarafından ilgili alanda yetkilendirilmiş kuruluşlardan alınabilecek mesleki yeterlilik belgesi istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Org imal işçileri; org imalatı veya onarımı yapan özel atölyelerde, müzik aletleri üretim ve tamir işletmelerinde çalışabilirler. Kilise, konser salonu, sinema gibi org bulunan veya yeni org kurulacak mekanlara kurulum ve bakım hizmeti verebilirler. Deneyim ve sermaye biriktirdiklerinde kendi atölyelerini açarak serbest olarak da çalışabilirler. Org, Türkiye'de yaygın kullanılan bir müzik aleti olmadığından bu meslekte istihdam edilen kişi sayısı ve iş bulma olanakları oldukça sınırlıdır.",
+ "kazanc": {
+  "egitim_suresince": "Çıraklık eğitimi sırasında işveren tarafından, 3308 sayılı Kanun çerçevesinde asgari ücretin belirli bir oranında ücret ödenebilir; sigorta primleri genellikle devlet tarafından karşılanır.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Deneyim ve ustalık kazanan, özellikle org tamiri ve akordunda uzmanlaşan kişilerin kazancı artabilir.",
+   "Kendi atölyesini açarak çalışanların kazancı iş hacmine, müşteri çevresine ve aldığı sipariş/kurulum işlerine göre değişkenlik gösterir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Çıraklıktan kalfalığa, kalfalıktan ustalığa doğru ilerleme sağlanabilir. Ustalık belgesi alanlar kendi işyerini açabilir ve çırak eğitebilir.",
+  "is_hayatinda": "Deneyim kazandıkça usta yardımcılığından ustalığa, atölye şefliğine veya kendi işyerini kurmaya kadar ilerleme mümkündür. Org tamiri, akordu veya kurulumu gibi konularda uzmanlaşarak tanınırlık ve iş imkanı artırılabilir."
+ },
+ "benzer_meslekler": [
+  "Akordeon İmal İşçisi",
+  "Piyano İmal İşçisi",
+  "Müzik Aletleri İmalat ve Tamircisi",
+  "Müzik Aletleri Akortçusu",
+  "Piyano Akortçusu",
+  "Müzik Aleti (Çalgı) Yapımcısı"
+ ],
+ "ek_bilgiler": "Org, Türkiye'de yaygın olarak kullanılan bir müzik aleti olmadığından bu meslek oldukça sınırlı sayıda kişi tarafından icra edilmektedir. Çalışmalar genellikle kilise, konser salonu gibi özel mekanlara yönelik imalat, kurulum ve onarım hizmetleri şeklinde yürütülür; bu nedenle istihdam alanı ve iş bulma olanakları dardır.",
+ "gorevler": [
+  "Org için gerekli parçaları yapar.",
+  "Kutu parçalarını civatalar, birleştirir ve perçinler.",
+  "Stopları ve diğer parçaları deler.",
+  "Ağaçtan org boruları yapar veya çeşitli metallerden levhalar dökerek bunlardan org boruları yapar.",
+  "İçlerine mekanik veya elektrik mekanizması takar.",
+  "Kilise, sinema ve diğer binalara orglar kurar.",
+  "Orgları tamir ve akort eder.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T03:23:31",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5640
+  }
+ }
+}

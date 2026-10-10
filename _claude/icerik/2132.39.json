@@ -1,0 +1,72 @@
+{
+ "arac_gerec": [
+  "Bilgisayar ve ofis yazılımları (kayıt ve rapor hazırlama için)",
+  "İyi Tarım Uygulamaları standartları ve kontrol listeleri (check-list)",
+  "Kayıt, dokümantasyon ve tutanak formları",
+  "Örnekleme ve ölçüm ekipmanları (pH metre, nem ölçer, terazi vb.)",
+  "Kişisel koruyucu donanım (eldiven, maske, koruyucu çizme)",
+  "Fotoğraf makinesi/kamera (saha tespitlerinin belgelenmesi için)",
+  "Gübre ve ilaç etiket/depo kontrol ekipmanları",
+  "Harita ve parsel takip uygulamaları (GPS, CBS tabanlı programlar)",
+  "Telefon ve internet bağlantısı",
+  "Rapor ve iç tetkik şablonları"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve titiz,",
+  "Analitik düşünme yeteneğine sahip,",
+  "Sorumluluk duygusu yüksek,",
+  "Tarım ve çevre konularına ilgili,",
+  "Yazılı ve sözlü iletişim becerisi gelişmiş,",
+  "Mevzuat ve standartları takip edebilen,",
+  "Arazi koşullarında çalışmaya istekli,",
+  "Planlı ve düzenli çalışabilen"
+ ],
+ "calisma_ortami": "İyi Tarım Uygulamaları İç Kontrolörü, çalışmalarını büyük ölçüde açık arazi/tarla koşullarında ve işletmeye ait depo, sera, ambalajlama ve paketleme tesisleri gibi kapalı ortamlarda yürütür. Saha denetimleri sırasında güneş, sıcak, soğuk, nem gibi değişken hava koşullarına; depo kontrollerinde ise gübre ve ilaç kokuları, toz gibi etkenlere maruz kalabilir. Bunların yanında büro ortamında bilgisayar başında kayıt inceleme, dokümantasyon hazırlama ve rapor yazma işleri de yapar.\n\nÇalışma saatleri genellikle düzenlidir; ancak hasat dönemleri, dış denetim öncesi hazırlık süreçleri veya mevsimsel üretim yoğunluğunun arttığı zamanlarda çalışma süresi uzayabilir. Görevleri sırasında işletme sahibi/yöneticisi, saha personeli, tarım işçileri, ziraat mühendisleri/agronomlar ve dış denetim kuruluşu temsilcileriyle sürekli iletişim halindedir.",
+ "egitim": {
+  "verildigi_yerler": "İyi Tarım Uygulamaları İç Kontrolörlüğü için müstakil bir lisans programı bulunmamaktadır. Bu görev genellikle Ziraat Fakültelerinin Bitkisel Üretim, Bahçe Bitkileri, Bitki Koruma, Tarla Bitkileri gibi bölümlerinden veya Gıda Mühendisliği gibi tarımla ilgili diğer lisans programlarından mezun olan kişiler tarafından, ilgili eğitim ve tecrübe desteğiyle yürütülmektedir. Ayrıca Tarım ve Orman Bakanlığı tarafından yetkilendirilmiş kuruluşlar ile bazı üniversite ve meslek kuruluşlarınca düzenlenen İyi Tarım Uygulamaları konulu eğitim ve sertifika programları bu alanda yetkinlik kazandırır.",
+  "giris_kosullari": [
+   "Lise veya dengi okul mezunu olmak",
+   "YKS (Yükseköğretim Kurumları Sınavı) sonucuna göre Ziraat Fakültesi veya ilgili mühendislik/fen bölümlerinden birine yerleşmek",
+   "Lisans eğitimini tamamladıktan sonra İyi Tarım Uygulamaları ile ilgili düzenlenen eğitim veya sertifika programlarına katılmak"
+  ],
+  "sure_ve_icerik": "İlgili lisans programlarının eğitim süresi 4 yıldır (bazı üniversitelerde buna 1 yıllık yabancı dil hazırlık sınıfı eklenir). Eğitim süresince bitki yetiştiriciliği, toprak bilgisi, bitki koruma, tarımsal ekonomi ve kalite güvence sistemlerine ilişkin dersler okutulur. Bunun yanında İyi Tarım Uygulamaları mevzuatı, kalite standartları, iç denetim teknikleri, kayıt ve dokümantasyon yönetimi konularında kısa süreli, uygulamalı eğitim ve sertifika programlarına katılım mesleki yetkinlik için önemlidir.",
+  "belge": "İlgili lisans bölümünden alınan diploma; ayrıca İyi Tarım Uygulamaları alanında düzenlenen eğitimler sonunda katılım veya başarı belgesi/sertifika alınabilir."
+ },
+ "calisma_alanlari": "İyi Tarım Uygulamaları İç Kontrolörleri; başta sertifikalı üretim yapan büyük ölçekli tarımsal işletmeler, üretici grupları ve birlikleri olmak üzere, özellikle ihracata yönelik çalışan meyve-sebze üretim, hasat ve paketleme tesislerinde istihdam edilir. Ayrıca tarımsal danışmanlık firmaları, kooperatifler ve bazı üretici örgütleri bünyesinde iç kontrol/kalite sorumlusu olarak görev yapabilirler. Mesleğin iş bulma olanakları, İyi Tarım Uygulamaları sertifikasyonuna yönelen işletme sayısının ve ihracat odaklı üretimin artışına bağlı olarak değişkenlik göstermektedir.",
+ "kazanc": {
+  "egitim_suresince": "Lisans eğitimi süresince genel olarak ücret alınmaz; başarılı öğrenciler burs alabilir, bazı işletmelerde staj dönemlerinde sınırlı bir ödeme yapılabilir.",
+  "egitim_sonrasi": [
+   "Özel sektördeki tarımsal işletmelerde çalışanların ücreti; işletmenin büyüklüğü, deneyim ve üstlenilen sorumluluk düzeyine göre değişir, işe yeni başlayanlarda genellikle asgari ücret düzeyinde olabilir.",
+   "Kamu kurum ve kuruluşlarında görev alanlar için 657 sayılı Devlet Memurları Kanunu hükümlerine göre ücretlendirme yapılır."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Lisans eğitimini tamamlayanlar, tarım bilimleri veya gıda mühendisliği gibi ilgili alanlarda yüksek lisans ve doktora yaparak akademik kariyer yapabilir; iyi tarım uygulamaları, kalite yönetim sistemleri, gıda güvenliği ve sertifikasyon konularında ek eğitim ve sertifika programlarına katılarak uzmanlaşabilirler.",
+  "is_hayatinda": "Deneyim kazandıkça işletme bünyesinde kalite/kontrol birimi sorumluluğuna, saha şefliğine veya üretim müdürlüğüne yükselebilir; birikimini artırarak bağımsız tarım danışmanlığı yapabilir ya da kendi danışmanlık bürosunu kurabilir."
+ },
+ "benzer_meslekler": [
+  "İyi Tarım Uygulamaları Kontrolörü",
+  "İyi Tarım Uygulamaları Sertifikeri",
+  "Organik Tarım Kontrolörü",
+  "Organik Tarım Sertifikeri",
+  "Organik Tarım İşletmecisi",
+  "Tarım Müşaviri/Danışmanı"
+ ],
+ "ek_bilgiler": "İyi Tarım Uygulamalarına ilişkin standart ve mevzuat Tarım ve Orman Bakanlığı tarafından belirlenmektedir; bu alanda görev almak isteyenler için Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir. İşletme bünyesinde yapılan iç kontrol çalışmaları, dış denetim kuruluşlarının gerçekleştirdiği resmi denetimlerden önceki hazırlık sürecini kapsar ve mesleğin kapsamı işletmenin büyüklüğüne, ürün çeşidine ve sertifikasyon kapsamına göre farklılık gösterebilir.",
+ "gorevler": [
+  "İşletme içindeki tüm kayıt ve dokümantasyonun güncelliğini denetler.",
+  "Gübre ve ilaç depolarının standartlara uygunluğunu kontrol eder.",
+  "Saha çalışmalarında iyi tarım kurallarına uyulup uyulmadığını izler.",
+  "Eksiklikleri tespit ederek düzeltici faaliyetleri personele bildirir.",
+  "İç tetkik raporlarını hazırlayarak işletme sahibine/yönetimine sunar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-07T21:10:29",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 7150
+  }
+ }
+}

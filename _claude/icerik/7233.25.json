@@ -1,0 +1,77 @@
+{
+ "arac_gerec": [
+  "El takımları (anahtarlar, çekiçler, tornavidalar, penseler, eğeler vb.)",
+  "Kaynak makinesi ve kaynak ekipmanları",
+  "Perçinleme takımları",
+  "Metal işleme tezgâhları (torna, freze, matkap vb.)",
+  "Ölçme ve kontrol aletleri (kumpas, mastar, çelik cetvel, komparatör vb.)",
+  "Kriko, vinç ve diğer kaldırma ekipmanları",
+  "Yağ tabancası ve gres pompası gibi yağlama ekipmanları",
+  "Taşlama makinesi",
+  "Boru ve hortum bağlantı elemanları, sızdırmazlık test düzenekleri",
+  "Kişisel koruyucu donanım (eldiven, koruyucu gözlük, baret, iş elbisesi vb.)"
+ ],
+ "genel_ozellikler": [
+  "Makine parçaları arasındaki ilişkiyi görebilen,",
+  "El becerisine sahip olan,",
+  "El ve gözünü eşgüdümle kullanabilen,",
+  "Dikkatli ve sabırlı,",
+  "Aletlerle ve malzemelerle çalışmaktan hoşlanan,",
+  "Fiziksel olarak dayanıklı,",
+  "Yönergeleri doğru şekilde izleyebilen,",
+  "Takım halinde çalışmaya uyumlu"
+ ],
+ "calisma_ortami": "Mekaniker-Vagon, demiryolu işletmelerine bağlı vagon bakım-onarım atölyelerinde, bazı durumlarda açık havada yapılan saha kontrolleri ve tamirlerinde çalışır. Çalışma ortamı genellikle gürültülü, yağlı ve tozlu olabilir; kışın soğuk, yazın sıcak koşullarda görev yapılabilir. Ağır vagon parçalarının taşınması ve kaldırılması nedeniyle fiziksel güç gerektiren işler yapılır, kaynak, taşlama ve metal işleme sırasında iş güvenliği risklerine karşı dikkatli olunması gerekir.\n\nMesleği yürütenler genellikle vardiyalı çalışabilir, demiryolu hatlarının kesintisiz işleyişini sağlamak amacıyla bakım programlarına göre düzenli veya acil onarım görevleri üstlenirler. Çalışma sırasında diğer mekanikerler, teknisyenler, vagon kontrol ve işletme personeli ile yakın iş birliği içinde bulunurlar.",
+ "gorevler": [
+  "Arızalı vagonların koşum takımlarını, tamponlarını, dingil yataklarını, yay ve makaralarını, hava fren hortumlarını, borularını ve diğer kısımlarını kontrol ederek arızaların nedenlerini ve yerlerini araştırır.",
+  "Tespit ettiği arızalı kısmın parçalarını söker.",
+  "Sökülen parçalardan arızaya sebebiyet verenleri çeşitli tip metal işleyen tezgâhları çalıştırarak veya kaynak, perçin ve çeşitli tip el avadanlıkları kullanarak tamir eder.",
+  "Tamiri imkânsız olan parçaları yenileri ile değiştirir.",
+  "Sökülen parçaları tekrar yerlerine takar ve gerekli sistem ayarlarını yapar.",
+  "Vagonların eskiyen ve aşınan kasa levhalarını değiştirir.",
+  "Şaselerde meydana gelen arızaları giderir.",
+  "Belirli zamanlarda vagonların bakımını yapar.",
+  "Hareketli kısımlarını yağlar.",
+  "Vagonlar üzerindeki yağ depolarına yağ basar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi için ayrı, standart bir mesleki ve teknik eğitim programı bulunmamaktadır. Mesleğe giriş genellikle ilköğretim sonrası metal/makine işleriyle ilgili mesleki eğitim merkezlerinde alınan temel eğitimin ardından, demiryolu işletmelerinin bünyesindeki atölyelerde usta yanında işbaşı eğitimiyle gerçekleşmektedir. Ayrıca Halk Eğitim Merkezleri ve İŞKUR tarafından açılan metal işleme, kaynak, makine bakım-onarım konularındaki mesleki eğitim kursları da bu mesleğe hazırlık niteliğinde olabilir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "Sağlık durumunun ağır fiziksel işlere ve atölye ortamına uygun olması",
+   "İlgili işyerinde (demiryolu işletmesi/atölye) çalışmaya başlayabilecek yaşta olmak"
+  ],
+  "sure_ve_icerik": "Mesleğe özgü standart bir eğitim süresi ve müfredatı resmî olarak tanımlanmamıştır. Kişiler genellikle metal işleri, kaynak, makine bakım-onarım alanlarında temel mesleki eğitim aldıktan sonra, demiryolu vagon bakım atölyelerinde deneyimli ustaların gözetiminde uygulamalı olarak mesleği öğrenirler. İşbaşı eğitim süresi işletmeden işletmeye ve kişinin önceki mesleki birikimine göre değişebilir.",
+  "belge": "Mesleki eğitim merkezlerinden alınan kalfalık/ustalık belgesi, Halk Eğitim Merkezi veya İŞKUR kurs katılım/başarı belgeleri ile işyerinde kazanılan deneyim, istihdamda etkili olmaktadır."
+ },
+ "calisma_alanlari": "Mekaniker-Vagon, başta demiryolu taşımacılığı yapan kamu ve özel işletmeler olmak üzere vagon bakım-onarım atölyelerinde, demiryolu lojistik firmalarında ve vagon üretimi/bakımı yapan sanayi tesislerinde çalışabilir. Bu meslek, demiryolu taşımacılığı sektörüne özgü ve nispeten dar bir istihdam alanına sahiptir; iş bulma olanakları, demiryolu altyapı yatırımlarının ve yük/yolcu taşımacılığındaki vagon filosunun büyüklüğüne bağlı olarak değişmektedir.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğe özgü standart bir çıraklık/eğitim ücreti düzenlemesi bulunmamaktadır. İşbaşı eğitim veya staj döneminde çalışanlara genellikle asgari ücret düzeyinde bir ödeme yapılabilir; bu durum işletmeden işletmeye değişebilir.",
+  "egitim_sonrasi": [
+   "Kamu kuruluşlarında (örneğin demiryolu işletmelerinde) istihdam edilenler, tabi oldukları statüye göre 657 sayılı Devlet Memurları Kanunu veya ilgili toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde çalışanların kazancı, işletmenin büyüklüğü, kişinin deneyimi, bilgi ve becerisine göre değişmekle birlikte mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç elde eder."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Metal işleme, kaynak ve makine bakım-onarımı alanlarında alınan kalfalık/ustalık belgeleri ile mesleki bilgi ve beceriler kademeli olarak geliştirilebilir. Ayrıca çeşitli kurum ve kuruluşlarca açılan ileri düzey bakım-onarım kurslarına katılarak mesleki yeterlilik artırılabilir.",
+  "is_hayatinda": "Deneyim kazanan mekanikerler, kıdemli mekaniker, ekip sorumlusu veya bakım-onarım amirliği gibi görevlere yükselebilir. Ayrıca ilgili kurs ve seminerlere katılarak mesleki bilgi ve becerilerini güncel tutabilirler."
+ },
+ "benzer_meslekler": [
+  "Mekaniker-Lokomotif",
+  "Mekaniker-Fabrika Bakımı",
+  "Makine Bakım Ustası",
+  "Makine Bakım ve Onarımcısı",
+  "Makine Montaj ve Bakım Onarımcısı",
+  "Motor İmalat Bakım ve Onarım İşçisi"
+ ],
+ "ek_bilgiler": "Mekaniker-Vagon, demiryolu taşımacılığı sektörüne özgü, nispeten dar ve uzmanlaşmış bir meslektir. Bu mesleğe yönelik ayrı, standart bir örgün mesleki eğitim programı bulunmadığından, mesleğe giriş genellikle metal/makine bakım alanındaki temel mesleki eğitimin ardından demiryolu işletmelerinde işbaşı eğitimle sağlanmaktadır. Atölye ortamında ağır parçalarla, kaynak ve taşlama işlemleriyle çalışıldığından iş sağlığı ve güvenliği kurallarına uyum büyük önem taşır.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T02:47:58",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5623
+  }
+ }
+}

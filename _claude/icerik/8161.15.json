@@ -1,0 +1,86 @@
+{
+ "gorevler": [
+  "Üretime başlamadan önce UHT bölümünde bulunan makine ve teçhizatın görsel kontrolünü yapar, görülen basit onarımları yapar.",
+  "Kullanım öncesi makinelerin sterilizasyonunu (kapalı sistem kuru buharla) sağlar.",
+  "Süt, krema veya karışımı bekleme tankından palizatör sistemine alır.",
+  "Üretimi yapılacak ürünün bekleme tankından dengeleme havuzuna gelmesini sağlar.",
+  "Dengeleme havuzunun ayarlarını yaparak ürünü işlenmek üzere pastör cihazına, plakalı eşanjörlere ve diğer işlem bölümlerine gönderir.",
+  "Rejenerasyon cihazının sıcaklık ayarlarını yaparak işlenecek ürünün ön ısıtma işlemlerini yapar.",
+  "Ön ısıtma işlemi yapılan ürünün buhar odasında mikropların kırılması ve sterilizasyon işlemlerini yürütür.",
+  "Ürüne karıştırılan buharın vakum tankında otomatik olarak tahliye edilmesini sağlar.",
+  "Vakum tankından tahliye edilen sütün homojenizasyon makinesinde karışımını sağlar.",
+  "Soğutucu eşanjörün ayarlarını yaparak karışımı tamamlanan sütün soğutma işlemlerini yürütür.",
+  "Üretimi gerçekleştirilen üründen numune alır ve laboratuvarda analiz edilmesini sağlar, sonuçlara göre gerektiğinde üretim işlemlerine müdahale eder.",
+  "Pastörizasyon ve homojenizasyon işlemleri biten ürünleri paketlenmek üzere tetrapak ünitesine gönderir.",
+  "Palizatör sistemindeki makinelerin asit, kostik, hidrojen peroksit, şebeke suyu ve buharla kapalı sistem temizlik işlemlerini yapar.",
+  "Üretim süresince kullanılan makine ve ekipmanların değerlerini (buhar, basınç, sıcaklık, seviye vb.) sürekli takip ve kontrol eder.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "arac_gerec": [
+  "UHT (ultra yüksek sıcaklıkta işleme) ünitesi ve kontrol panelleri",
+  "Palizatör sistemi",
+  "Bekleme tankı ve dengeleme havuzu",
+  "Pastörizatör",
+  "Plakalı eşanjörler",
+  "Rejenerasyon cihazı",
+  "Homojenizasyon makinesi",
+  "Soğutucu eşanjör",
+  "Vakum tankı",
+  "Tetrapak dolum/paketleme ünitesi",
+  "Numune alma ve örnekleme ekipmanları",
+  "CIP (Clean in Place) kapalı sistem temizlik ünitesi ve temizlik kimyasalları (asit, kostik, hidrojen peroksit)",
+  "Buhar kazanı ve buhar hatları",
+  "Koruyucu iş elbisesi, eldiven, bone ve maske"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve titiz,",
+  "Sorumluluk duygusu yüksek,",
+  "Hijyen kurallarına duyarlı,",
+  "Teknik aletlere ve makinelere ilgili,",
+  "Gözlem gücü ve el becerisi gelişmiş,",
+  "Ekip çalışmasına yatkın,",
+  "Fiziksel olarak sağlıklı ve vardiyalı çalışmaya uygun,",
+  "Talimatlara uyan ve disiplinli"
+ ],
+ "calisma_ortami": "Uht Operatörü, süt ve süt ürünleri fabrikalarının UHT üretim bölümünde, kapalı alanda çalışır. Çalışma ortamı yüksek hijyen standartları gerektirir; buhar, yüksek sıcaklık, nem ve zaman zaman gürültülü makine sesleri söz konusudur. Üretim ve temizlik (CIP) süreçlerinde kullanılan asit, kostik ve hidrojen peroksit gibi kimyasallarla temas riskine karşı koruyucu iş kıyafeti, eldiven ve gerektiğinde maske kullanılması gerekir.\n\nÜretim genellikle vardiyalı sistemde, bazen kesintisiz işleyen hatlarda yürütülür. Uht Operatörü, çalışması sırasında üretim ekibi arkadaşları, vardiya amiri, kalite kontrol/laboratuvar personeli ve bakım teknisyenleriyle sürekli iletişim ve iş birliği içinde bulunur. İş ortamında iş sağlığı ve güvenliği önlemlerinin eksiksiz alınması ve çalışanlarca uygulanması önemlidir.",
+ "egitim": {
+  "verildigi_yerler": "Uht Operatörlüğü için örgün bir okul/dal programı bulunmamaktadır. Meslek genellikle süt ve süt ürünleri işleme tesislerinde işbaşında, usta işçi gözetiminde uygulamalı olarak öğrenilir. Ayrıca mesleki ve teknik liselerin gıda teknolojisi alanı mezunlarının bu alanda işe başlaması ve Halk Eğitim Merkezleri ile İŞKUR tarafından açılan gıda/süt işleme konulu mesleki eğitim kurslarından yararlanılması yaygın bir yoldur.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "Gıda sektöründe çalışmaya elverişli olduğunu gösteren sağlık raporuna sahip olmak",
+   "Vardiyalı ve ayakta çalışmaya uygun fiziksel yeterliliğe sahip olmak"
+  ],
+  "sure_ve_icerik": "Mesleğin resmî olarak tanımlanmış, belirli bir süreye bağlı bir çıraklık/ustalık programı bulunmamaktadır. İşe yeni başlayanlar, genellikle işletme bünyesinde deneyimli bir operatör veya usta gözetiminde UHT hattının çalışma prensiplerini, hijyen kurallarını, sterilizasyon ve CIP temizlik süreçlerini uygulamalı olarak öğrenir. Bu süreç işletmenin büyüklüğüne ve üretim hattının karmaşıklığına göre birkaç haftadan birkaç aya kadar sürebilir. Mesleki ve teknik liselerin gıda teknolojisi alanından mezun olanlar, teorik alt yapıya sahip oldukları için işe uyum sürecinde avantajlı olabilir.",
+  "belge": "Meslekte zorunlu bir diploma veya sertifika bulunmamaktadır; işyerinde kazanılan deneyim esastır. Katılım sağlanan kurslar sonunda kurs bitirme belgesi alınabilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, iş başvurularında tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Uht Operatörü, başta büyük ve orta ölçekli süt ve süt ürünleri işleme fabrikaları (mandıralar) olmak üzere, uzun ömürlü (UHT) süt, meyveli süt karışımı ve benzeri ürünleri üreten özel sektör gıda işletmelerinde çalışma imkânı bulur. İş alanları genellikle süt üretiminin yoğun olduğu bölgelerde ve organize sanayi bölgelerindeki gıda fabrikalarında yoğunlaşmaktadır. Sektördeki üretim hacmine ve otomasyon düzeyine bağlı olarak nitelikli UHT operatörlerine olan talep değişkenlik gösterebilir.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğin örgün/resmî bir çıraklık eğitimi programı bulunmadığından, işe yeni başlayanlar genellikle yardımcı işçi veya stajyer statüsünde çalışarak işbaşında öğrenir. Bu dönemde ücret genellikle asgari ücret düzeyinde olmaktadır.",
+  "egitim_sonrasi": [
+   "Deneyim kazandıkça ücret, işletmenin büyüklüğüne, sektördeki konumuna ve kişinin performansına göre değişebilir.",
+   "Kamu iktisadi teşekkülleri bünyesindeki süt işleme tesislerinde çalışanların ücreti, statülerine göre 657 sayılı Devlet Memurları Kanunu veya ilgili toplu iş sözleşmesi hükümlerine göre belirlenir.",
+   "Özel sektörde ücret, işveren ile çalışan arasındaki karşılıklı anlaşmaya, deneyime ve işletmenin ölçeğine göre değişiklik gösterir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğin örgün bir çıraklık/ustalık eğitimi programı bulunmamaktadır. İlgi duyanlar açık öğretim yoluyla ortaöğretimini tamamlayabilir, Halk Eğitim Merkezleri ve İŞKUR'un açtığı gıda/süt işleme konulu mesleki eğitim kurslarına katılarak bilgi ve becerilerini geliştirebilir; isteyenler üniversitelerin gıda mühendisliği veya süt ve ürünleri teknolojisi ile ilgili ön lisans/lisans programlarına yönelebilir.",
+  "is_hayatinda": "Deneyim kazandıkça vardiya sorumlusu, UHT hattı şefi veya üretim sorumlusu gibi görevlere yükselebilir. İleri düzeyde tecrübe ve ek eğitimle üretim müdürlüğü gibi üst düzey pozisyonlara ulaşabilir."
+ },
+ "benzer_meslekler": [
+  "Sterilizer Makinesi Operatörü (Süthane / Mandıra)",
+  "Meyveli Yoğurt İmal İşçisi",
+  "Otoklav Operatörü (Konserve İmalatı)",
+  "Kap Yıkama Makinesi Operatörü",
+  "Gıda İşlemecisi",
+  "Bitkisel ve Hayvansal Yağ Üretim Operatörü"
+ ],
+ "ek_bilgiler": "Gıda üretim tesislerinde çalışacakların periyodik sağlık muayenesinden geçmesi ve işyerince verilen gıda güvenliği/hijyen eğitimini alması gerekmektedir. Sektördeki otomasyon artışıyla birlikte makine ve kontrol sistemlerine hâkimiyet, istihdamda önemli bir avantaj sağlamaktadır.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T15:51:19",
+  "usage": {
+   "input_tokens": 4,
+   "output_tokens": 11188
+  }
+ }
+}

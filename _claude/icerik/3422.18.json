@@ -1,0 +1,88 @@
+{
+ "gorevler": [
+  "Boks teknik direktörünün hazırladığı plan, program ve çalışma yöntemlerini inceler ve uygular.",
+  "Boksörleri teknik, taktik, fizik ve psikolojik olarak müsabakalara hazırlar.",
+  "Boksörlerin dayanıklılık, hız ve güçlerini artırıcı koşu, yürüyüş vb. çalışmaları tek ya da toplu olarak yaptırır.",
+  "Yumruklar, manevralar vb. eğitim antrenmanları uygular.",
+  "Müsabaka, teknik, model, çabukluk, şartlı boks, serbest dövüş vb. antrenmanlar düzenler.",
+  "Antrenmanlarda, yapılacak müsabakaların taktiklerini uygulatıp, kişisel veya takım olarak zayıf yönleri belirleyip, güçlendirmek amacıyla gerekli teknikleri pratik olarak gösterir.",
+  "Müsabaka öncesi, rakip takım ve boksörler hakkında bilgi toplayıp takımını bilgilendirir, oyun stratejileri hakkında takımı çalıştırır.",
+  "Önemli müsabakalar öncesi ve gerektiğinde takımı kampa alır, kamp programını uygular.",
+  "Boksörlerin dengeli beslenmeleri için gıda programı hazırlatır ve uygulanmasını sağlar.",
+  "Boksörlerin sağlık durumları, özel yaşamları, izinleri ve sorunları ile ilgilenir.",
+  "Boksörlerin devamlarını ve form durumlarını izler, devamsızlığı olan ve form düşüklüğü gösteren boksörleri uyarır ve tedbir alır.",
+  "Form düşüklüğü gösteren boksörleri özel çalışmaya tabi tutar.",
+  "Teknik direktör ile boksörler arasında diyalogu sağlar.",
+  "Müsabaka öncesi soyunma odasında ve molalarda boksörlere son taktikleri verir.",
+  "Müsabaka boyunca kendisine ayrılan yerde müsabakayı izleyip boksörlere gerekli uyarılarda bulunur ve taktikler verir.",
+  "Mesleği alanındaki gelişmeleri ve boks sporundaki değişiklikleri takip eder.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "arac_gerec": [
+  "Boks eldivenleri (antrenman ve müsabaka tipi)",
+  "Boks ringi",
+  "Kum torbası ve antrenman pedleri (mitt)",
+  "El bandajı",
+  "Kafa koruyucu, diş ve ağız koruyucu",
+  "İp atlama",
+  "Kronometre, saat, düdük",
+  "Tartı",
+  "Kondisyon ve ağırlık çalışma aletleri",
+  "Müsabaka köşesi malzemeleri (tabure, havlu, su şişesi, sünger)",
+  "Kayıt ve analiz için kamera/video cihazı",
+  "Kırtasiye malzemeleri (antrenman planı, defter, kalem)",
+  "Spor kıyafetleri ve ayakkabıları"
+ ],
+ "genel_ozellikler": [
+  "Boks sporuna ve sporculara ilgi duyan, bu alanda yetenekli olan",
+  "Liderlik özelliklerine sahip, bir grubu yönetip motive edebilen",
+  "İnsanlarla iyi iletişim kurabilen, ikna edici ve sabırlı",
+  "Fiziksel olarak dayanıklı, enerjik ve hareketli",
+  "Gözlem gücü ve analiz yeteneği gelişmiş",
+  "Kararlı, disiplinli, tutarlı ve güvenilir",
+  "Stresli ve rekabetçi ortamlarda sakin kalabilen",
+  "Mesleki gelişime ve yeniliklere açık kişiler olmaları gerekir."
+ ],
+ "calisma_ortami": "Boks antrenörleri genellikle kapalı spor salonlarında, ringin bulunduğu antrenman alanlarında ve soyunma odalarında çalışırlar. Önemli müsabakalar öncesinde kamp tesislerinde, müsabaka dönemlerinde ise farklı şehir ve ülkelerdeki müsabaka salonlarında görev yaparlar; bu nedenle seyahat etmek meslek hayatının bir parçasıdır.\n\nÇalışma saatleri düzensizdir; antrenmanlar genellikle gündüz veya akşam saatlerinde yapılır, müsabaka ve kamp dönemlerinde hafta sonları dahil yoğun çalışma gerekebilir. Antrenör çoğu zaman masa başı değil ayakta ve hareket halinde çalışır, bazen teknik gösterim için boksörle birlikte pratik yapabilir. Çalışması sırasında teknik direktör, boksörler, kulüp yöneticileri, sağlık personeli, masörler, hakemler ve federasyon yetkilileriyle sürekli iletişim içindedir.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi, üniversitelerin spor bilimleri fakültelerindeki antrenörlük eğitimi bölümlerinde genel antrenörlük formasyonu şeklinde verilmekte, boks branşına özgü uzmanlaşma ise ilgili spor federasyonu tarafından düzenlenen kademeli antrenör yetiştirme kurslarıyla sağlanmaktadır. Ayrıca kulüplerde usta antrenör yanında uygulamalı olarak da mesleğe giriş yapılabilmektedir.",
+  "giris_kosullari": [
+   "Lise veya dengi okul mezunu olmak",
+   "Üniversitenin ilgili programına girebilmek için YKS'de yeterli puanı almak ve ilgili üniversitece yapılan özel yetenek sınavında başarılı olmak",
+   "Federasyon tarafından açılan antrenörlük kurslarına katılabilmek için belirlenen yaş, öğrenim ve branşla ilgili geçmiş (sporcu olarak lisanslı bulunmuş olmak gibi) şartları taşımak",
+   "Boks sporuna ve bu sporun gerektirdiği fiziksel koşullara sağlığının uygun olması"
+  ],
+  "sure_ve_icerik": "Üniversite düzeyindeki antrenörlük eğitimi programları lisans düzeyinde ve yıllar içinde teorik (spor bilimi, anatomi-fizyoloji, psikoloji, beslenme, antrenman bilgisi vb.) ve uygulamalı dersleri kapsar. Federasyon kurslarında ise genellikle kademeli bir sistem (1., 2., 3. kademe gibi) izlenir; her kademede teorik dersler ve branşa özgü uygulamalı eğitimler verilir, kademe yükseldikçe eğitim süresi ve içeriği derinleşir.",
+  "belge": "Üniversite programını tamamlayanlara antrenörlük lisans diploması, federasyon kurslarına katılıp başarılı olanlara ise ilgili kademeye ait antrenörlük belgesi/sertifikası verilir."
+ },
+ "calisma_alanlari": "Boks antrenörleri; spor kulüplerinde, boks okullarında ve salonlarında, üniversitelerin spor birimlerinde, gençlik ve spor il müdürlüklerine bağlı tesislerde ve gençlik merkezlerinde, ilgili spor federasyonu bünyesinde (il temsilcilikleri, milli takım kampları) çalışabilirler.\n\nMinik, yıldız, genç, büyük ve bayan kategorilerinde sporcu yetiştiren kulüplerde teknik direktöre bağlı olarak görev alabilecekleri gibi, deneyim kazandıktan sonra kendi boks okullarını da açabilirler.",
+ "kazanc": {
+  "egitim_suresince": "Üniversite eğitimi sırasında öğrenciler diğer üniversite öğrencileri gibi genellikle bir kazanç elde etmezler; federasyon kurslarında ise ücret alınmaz, bazı kurum ve kulüplerce yol/harcırah desteği sağlanabilir.",
+  "egitim_sonrasi": [
+   "Özel spor kulüplerinde kazanç, antrenörün deneyimine, aldığı sonuçlara ve kulübün bütçesine göre karşılıklı anlaşma ile belirlenir; mesleğe yeni başlayanlarda kazanç genellikle asgari ücret düzeyinde olabilir.",
+   "Kamu kurumlarına bağlı gençlik ve spor tesislerinde memur statüsünde çalışanlar 657 sayılı Devlet Memurları Kanunu'na, işçi statüsünde çalışanlar ise ilgili toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Milli takım antrenörlüğü, uluslararası müsabaka ve başarı prim/ödülleri gibi ek kazançlar deneyim ve başarıyla birlikte artabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Kademeli antrenörlük kurs sistemi içinde bir üst kademeye geçerek yetkinliğini artırabilir, uzmanlık alanını (minik, genç, büyük veya bayan kategorisi gibi) derinleştirebilir ve teknik direktörlük eğitimine yönelebilir.",
+  "is_hayatinda": "Deneyim kazandıkça daha üst yaş ve seviye kategorilerinde (minikten büyüklere) görev alabilir, kulüp içinde baş antrenörlüğe, ardından teknik direktörlüğe yükselebilir; başarılı antrenörler il temsilciliği, federasyon görevliliği veya milli takım antrenörlüğü gibi görevlere getirilebilir."
+ },
+ "benzer_meslekler": [
+  "Antrenör (Spor Eğitmeni)",
+  "Tekvando Antrenörü",
+  "Karete Antrenörü",
+  "Güreş Antrenörü",
+  "Judo Antrenörü",
+  "Kondisyoner"
+ ],
+ "ek_bilgiler": "Boks antrenörlüğü fiziksel olarak zorlayıcı ve rekabetçi bir meslektir; meslek minik, yıldız, genç, büyük ve bayan kategorilerindeki sporcularla çalışmayı kapsar. Mesleki Yeterlilik Kurumu (MYK) belgesi ve federasyonca verilen kademe belgeleri istihdamda ve kulüplerle anlaşmada tercih sebebi olabilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T13:59:34",
+  "usage": {
+   "input_tokens": 4,
+   "output_tokens": 10871
+  }
+ }
+}

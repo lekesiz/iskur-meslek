@@ -1,0 +1,79 @@
+{
+ "gorevler": [
+  "Analitik çalışmalar için gereksinimleri sağlar,",
+  "Halen geçerli sistemin çalışma düzenini belgeler,",
+  "Görüşmeler ve diğer yollarla gerekli bilgiyi toplar,",
+  "Günün teknolojisini kullanarak sorunlara çözüm bulur,",
+  "Sistemin geliştirilmesi için spesifikasyonlar hazırlar,",
+  "Sistemin güvenliği ve denetimini sağlayacak yöntemleri tanımlar,",
+  "Sistemin denenmesi ve dönüştürülmesi için gerekli planları yapar,",
+  "Gereğinde projedeki diğer kişileri yönlendirir,",
+  "Sistemlerin geliştirilmesi ya da değiştirilmesi için gereksinimleri tanımlar,",
+  "Önerilen maliyet açısından olumlu sonuçlar vereceğini belgelendirir,",
+  "Sistemin geliştirme ve kurma çalışmalarını yönlendirir ve gereğinde proje yöneticiliği yapar,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "arac_gerec": [
+  "Bilgisayar donanımı ve çevre birimleri",
+  "Sistem analizi ve modelleme yazılımları (UML araçları vb.)",
+  "Veritabanı yönetim sistemleri",
+  "Proje yönetimi yazılımları",
+  "İş akışı ve süreç modelleme araçları",
+  "Sunucu, ağ ve sistem test araçları",
+  "Dokümantasyon ve raporlama yazılımları",
+  "Ofis yazılımları",
+  "Versiyon kontrol sistemleri",
+  "Bulut bilişim platformları",
+  "Video konferans ve iletişim araçları"
+ ],
+ "genel_ozellikler": [
+  "Analitik düşünme ve problem çözme yeteneğine sahip,",
+  "Matematiksel ve mantıksal akıl yürütme becerisine sahip,",
+  "Yeni teknolojileri takip etmeye istekli,",
+  "İyi derecede sözlü ve yazılı iletişim kurabilen,",
+  "Ekip çalışmasına uyumlu, gerektiğinde proje yönlendirebilen,",
+  "Detaylara dikkat eden ve sistematik çalışan,",
+  "Sabırlı ve sorumluluk sahibi,"
+ ],
+ "calisma_ortami": "Sistem Çözümleyici (Sistem Analisti) genellikle büro ortamında, bilgisayar başında oturarak çalışır. Çalışma saatleri çoğunlukla düzenlidir; ancak proje teslim tarihlerine yaklaşıldığında yoğun çalışma ve ek mesai gerekebilir. Görevi sırasında yöneticiler, yazılım geliştiriciler, veritabanı yöneticileri, ağ uzmanları, ilgili iş biriminin temsilcileri ve müşterilerle sık sık iletişim kurar.\n\nBazı projelerde kurulum denetimleri, müşteri ziyaretleri veya farklı kurumlarda saha çalışması gerekebilir. Ekran başında uzun süre çalışma, yoğun zihinsel efor gerektiren analiz süreçleri ve zaman baskısı bu meslekte karşılaşılabilecek başlıca zorluklardandır.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi üniversitelerin Bilgisayar Mühendisliği, Yazılım Mühendisliği, Bilgisayar Bilimleri, Yönetim Bilişim Sistemleri ve benzeri bilişim ve mühendislik bölümlerinde lisans düzeyinde verilmektedir.",
+  "giris_kosullari": [
+   "Lise veya dengi okul mezunu olmak,",
+   "YKS (Yükseköğretim Kurumları Sınavı) kılavuzunda belirtilen giriş koşullarını taşımak ve ilgili puan türünden yeterli puanı almak,",
+   "Meslek yüksekokulu veya açıköğretim önlisans programı mezunları, Dikey Geçiş Sınavı (DGS) ile ilgili lisans programlarına geçiş yapabilirler."
+  ],
+  "sure_ve_icerik": "Lisans eğitimi 4 yıl sürmektedir. Eğitim süresince programlama dilleri, veri yapıları ve algoritmalar, veritabanı yönetimi, sistem analizi ve tasarımı, yazılım mühendisliği, ağ ve bilgi güvenliği, proje yönetimi gibi alanlarda teorik ve uygulamalı dersler okutulur. Mesleki uzmanlaşma genellikle iş hayatında edinilen deneyim, kurum içi eğitimler ve mesleki sertifika programlarıyla desteklenir.",
+  "belge": "Eğitimini başarı ile tamamlayanlara lisans diploması verilir."
+ },
+ "calisma_alanlari": "Sistem Çözümleyici (Sistem Analisti); kamu kurumlarının ve özel sektör işletmelerinin bilgi işlem/bilgi teknolojileri birimlerinde, bankacılık ve finans kuruluşlarında, yazılım geliştirme şirketlerinde, bilişim danışmanlık firmalarında; sağlık, lojistik, üretim, perakende ve e-ticaret gibi farklı sektörlerdeki kurumların bilişim departmanlarında çalışabilir.\n\nKurumsal bilgi sistemlerine olan talebin ve dijitalleşme sürecinin hızlanması, bu mesleğe yönelik istihdam olanaklarını genel olarak olumlu kılmaktadır. Ancak alan, sürekli teknolojik gelişim takibi gerektiren ve rekabetin yüksek olduğu bir çalışma alanıdır.",
+ "kazanc": {
+  "egitim_suresince": "Lisans eğitimi süresince öğrenciler Kredi ve Yurtlar Kurumunun öğrenim kredisi ve yurt hizmetlerinden, çeşitli resmi ve özel kurum/kuruluşların burslarından yararlanabilirler. Bazı öğrenciler staj veya yarı zamanlı çalışma yoluyla deneyim kazanmanın yanı sıra ek gelir de elde edebilir.",
+  "egitim_sonrasi": [
+   "Kamuda memur statüsünde çalışanlar 657 sayılı Devlet Memurları Kanunu'na, işçi statüsünde çalışanlar ise ilgili toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde ücret; çalışılan kurumun büyüklüğüne, kişinin deneyim ve uzmanlık düzeyine, üstlenilen proje sorumluluklarına göre değişmektedir. Yeni mezunlar genellikle sektör başlangıç seviyelerinde ücret alırken, deneyim ve uzmanlık arttıkça kazanç düzeyi de yükselmektedir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "İlgilenenler yüksek lisans ve doktora eğitimi alarak akademik kariyere yönelebilir. Ayrıca sistem analizi, proje yönetimi, bilgi güvenliği, bulut bilişim gibi alanlarda ulusal veya uluslararası geçerliliği olan mesleki sertifika programlarına katılarak uzmanlıklarını geliştirebilirler.",
+  "is_hayatinda": "Deneyim kazandıkça kıdemli sistem analisti, proje yöneticisi, bilgi teknolojileri (BT) birim sorumlusu gibi pozisyonlara; büyük kurumlarda BT müdürlüğü, bilgi işlem daire başkanlığı gibi üst düzey yönetici pozisyonlarına yükselme olanağı bulunmaktadır."
+ },
+ "benzer_meslekler": [
+  "Sistem Analisti (BT)",
+  "Sistem Mimarı/Tasarımcısı",
+  "BT Çözümleri Uzmanı",
+  "BT İş Analisti (Bilişim Teknolojileri İş Analisti)",
+  "Yönetim Bilişim Sistemleri Uzmanı",
+  "Bilişim Sistemleri Mühendisi",
+  "Sistem Uzmanı/Danışmanı"
+ ],
+ "ek_bilgiler": "Sistem Çözümleyici unvanı iş ilanlarında ve kurumlarda Sistem Analisti, Bilişim Sistemleri Mühendisi veya BT İş Analisti gibi farklı unvanlarla da karşılanabilmektedir; aranan nitelikler kurum ve sektöre göre değişiklik gösterebilir. Mesleki Yeterlilik Kurumu (MYK) belgeleri ile uluslararası geçerliliği olan bilişim sertifikaları istihdamda tercih sebebi olabilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T05:49:10",
+  "usage": {
+   "input_tokens": 4,
+   "output_tokens": 9623
+  }
+ }
+}

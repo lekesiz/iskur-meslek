@@ -1,0 +1,84 @@
+{
+ "arac_gerec": [
+  "Kişisel koruyucu donanımlar (baret, koruyucu gözlük, eldiven, maske, iş ayakkabısı vb.)",
+  "Gaz ölçüm ve algılama cihazları",
+  "Gürültü ve aydınlatma ölçüm cihazları",
+  "Termal kamera",
+  "Risk değerlendirme, kontrol ve denetim formları",
+  "Bilgisayar ve İSG-KATİP sistemi/yazılımları",
+  "Yangın söndürme ve acil durum müdahale ekipmanları",
+  "Topraklama ve elektriksel güvenlik ölçüm cihazları",
+  "Fotoğraf makinesi/kamera (saha tespiti için)",
+  "İlgili mevzuat, standart ve teknik şartname dokümanları"
+ ],
+ "genel_ozellikler": [
+  "Sorumluluk sahibi,",
+  "Analitik düşünebilen,",
+  "İletişim becerisi güçlü,",
+  "Dikkatli ve gözlemci,",
+  "İkna kabiliyeti yüksek,",
+  "Kararlı, gerektiğinde otorite kurabilen,",
+  "Yazılı ve sözlü ifade/raporlama becerisine sahip,",
+  "Mevzuatı sürekli takip etmeye istekli,"
+ ],
+ "calisma_ortami": "İş Güvenliği Uzmanı (Çok Tehlikeli Sınıf-A), çok tehlikeli sınıfta yer alan fabrika, maden işletmesi, şantiye, enerji tesisi, kimya tesisi gibi işyerlerinde hem büroda hem de sahada çalışır. Risk değerlendirmesi, denetim ve gözetim yapmak üzere üretim alanlarına, şantiyelere veya tesis içlerine bizzat girer; bu nedenle zaman zaman gürültü, toz, kimyasal madde, yükseklik veya hareketli ekipman gibi risklerle karşılaşabilir ve kişisel koruyucu donanım kullanır. Çalışma saatleri hizmet verdiği işyerinin vardiya düzenine göre değişebilir; tek bir işyerinde tam zamanlı olarak veya bir Ortak Sağlık ve Güvenlik Birimi (OSGB) bünyesinde birden fazla işyerine hizmet verecek şekilde kısmi zamanlı/sözleşmeli çalışabilir, bu durumda sık seyahat gerekebilir.\n\nGörevlerini yürütürken işveren, işyeri hekimi, diğer sağlık personeli, çalışan temsilcisi, destek elemanları ve iş sağlığı güvenliği kurulu üyeleriyle; gerektiğinde ilgili kamu kurumlarıyla (Çalışma ve Sosyal Güvenlik Bakanlığı, Sosyal Güvenlik Kurumu gibi) sürekli iletişim ve iş birliği içinde bulunur.",
+ "gorevler": [
+  "İşyerinde yapılan çalışmalar ve yapılacak değişikliklerle ilgili olarak tasarım, makine ve diğer teçhizatın durumu, bakımı, seçimi ve kullanılan maddeler dâhil olmak üzere işin planlanması, organizasyonu ve uygulanması, kişisel koruyucu donanımların seçimi, temini, kullanımı, bakımı, muhafazası ve test edilmesi konularının iş sağlığı ve güvenliği mevzuatına ve genel iş güvenliği kurallarına uygun olarak sürdürülmesi için işverene önerilerde bulunur.",
+  "İş sağlığı ve güvenliğiyle ilgili alınması gereken tedbirleri işverene yazılı olarak bildirir.",
+  "İşyerinde meydana gelen iş kazası ve meslek hastalıklarının nedenlerini araştırarak tekrarlanmaması için alınacak önlemler konusunda çalışmalar yapar ve işverene önerilerde bulunur.",
+  "İşyerinde meydana gelen, ölüm ya da yaralanmaya neden olmayan ancak çalışana, ekipmana veya işyerine zarar verme potansiyeli olan olayların nedenlerini araştırır ve işverene önerilerde bulunur.",
+  "İş sağlığı ve güvenliği yönünden risk değerlendirmesi yapılmasıyla ilgili çalışmalara ve uygulanmasına katılır, risk değerlendirmesi sonucunda alınması gereken önlemler konusunda işverene önerilerde bulunur ve takibini yapar.",
+  "Çalışma ortamının gözetimini yapar, iş sağlığı ve güvenliği mevzuatı gereği yapılması gereken periyodik bakım, kontrol ve ölçümleri planlar ve uygulamalarını kontrol eder.",
+  "İşyerinde kaza, yangın veya patlamaların önlenmesi için yapılan çalışmalara katılır, bu konuda işverene önerilerde bulunur, uygulamaları takip eder; acil durum planlarının hazırlanması çalışmalarına katılır, periyodik eğitim ve tatbikatların yapılmasını ve acil durum planı doğrultusunda hareket edilmesini izler ve kontrol eder.",
+  "Çalışanların iş sağlığı ve güvenliği eğitimlerinin ilgili mevzuata uygun olarak planlanması konusunda çalışma yaparak işverenin onayına sunar, uygulamalarını yapar veya kontrol eder.",
+  "Çalışma ortamıyla ilgili iş sağlığı ve güvenliği çalışmaları ve çalışma ortamı gözetim sonuçlarının kaydedildiği yıllık değerlendirme raporunu işyeri hekimiyle birlikte hazırlar.",
+  "Çalışanlara yönelik bilgilendirme faaliyetlerini düzenleyerek işverenin onayına sunar ve uygulamasını kontrol eder.",
+  "Gerekli yerlerde kullanılmak amacıyla iş sağlığı ve güvenliği talimatları ile çalışma izin prosedürlerini hazırlayarak işverenin onayına sunar ve uygulamasını kontrol eder.",
+  "Bakanlıkça belirlenen iş sağlığı ve güvenliğini ilgilendiren konulardaki bilgileri İSG-KATİP sistemine bildirir.",
+  "İşyeri hekimiyle birlikte iş kazaları ve meslek hastalıklarıyla ilgili değerlendirme yapar, tehlikeli olayın tekrarlanmaması için inceleme ve araştırma yaparak gerekli önleyici faaliyet planlarını hazırlar ve uygulamaların takibini yapar.",
+  "Bir sonraki yılda gerçekleştirilecek iş sağlığı ve güvenliğiyle ilgili faaliyetlerin yer aldığı yıllık çalışma planını işyeri hekimiyle birlikte hazırlar.",
+  "Bulunması halinde üyesi olduğu iş sağlığı ve güvenliği kuruluyla iş birliği içinde çalışır.",
+  "Çalışan temsilcisi ve destek elemanlarının çalışmalarına destek sağlar ve bu kişilerle iş birliği yapar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "İş Güvenliği Uzmanı (Çok Tehlikeli Sınıf-A) olabilmek için öncelikle mühendislik, mimarlık veya iş sağlığı ve güvenliği mevzuatında teknik eleman sayılan fakülte/bölümlerden ya da üniversitelerin iş sağlığı ve güvenliği ile ilgili lisans/lisansüstü programlarından mezun olmak gerekir. Bu temel eğitimin ardından, Çalışma ve Sosyal Güvenlik Bakanlığınca yetkilendirilmiş eğitim kurumlarında (üniversiteler, kamu kurumları veya özel eğitim kuruluşları bünyesinde açılan) iş güvenliği uzmanlığı eğitim programına katılmak gerekir.",
+  "giris_kosullari": [
+   "Mühendislik, mimarlık veya iş sağlığı ve güvenliği mevzuatında teknik eleman sayılan bir lisans programından mezun olmak ya da iş sağlığı ve güvenliği alanında lisansüstü eğitim tamamlamış olmak",
+   "Genellikle Tehlikeli Sınıf (B) iş güvenliği uzmanlığı belgesiyle mevzuatta öngörülen süre kadar fiilen görev yapmış olmak (lisansüstü eğitimle bu şart farklılaşabilir)",
+   "Yetkilendirilmiş kurumlarca açılan iş güvenliği uzmanlığı eğitim programını tamamlamak",
+   "Bakanlık/ÖSYM tarafından yapılan iş güvenliği uzmanlığı sınavında Çok Tehlikeli Sınıf (A) için başarılı olmak"
+  ],
+  "sure_ve_icerik": "Eğitim programı; iş sağlığı ve güvenliği mevzuatı, risk değerlendirmesi yöntemleri, iş hijyeni, ergonomi, acil durum ve afet yönetimi, kişisel koruyucu donanımlar, iş kazaları ve meslek hastalıklarının incelenmesi gibi konuları kapsayan teorik ve uygulamalı derslerden oluşur. Programın süresi ve içeriği, yetkilendirilmiş eğitim kurumuna ve ilgili güncel mevzuata göre değişebilmektedir.",
+  "belge": "Eğitim programını ve sınav sürecini başarıyla tamamlayanlara 'Çok Tehlikeli Sınıf (A)' iş güvenliği uzmanlığı belgesi verilir; bu belge, Çok Tehlikeli Sınıf dâhil her tehlike sınıfındaki işyerinde görev yapma yetkisi sağlar."
+ },
+ "calisma_alanlari": "İş Güvenliği Uzmanı (Çok Tehlikeli Sınıf-A); kamu kurum ve kuruluşlarında, maden işletmeleri, enerji santralleri, büyük inşaat/şantiye projeleri, kimya ve metal üretim tesisleri gibi çok tehlikeli sınıfta yer alan işyerlerinde doğrudan istihdam edilerek çalışabilir. Özel sektörde, birden fazla işyerine hizmet veren Ortak Sağlık ve Güvenlik Birimleri (OSGB) bünyesinde görev alabilir ya da serbest/bağımsız danışman olarak hizmet verebilir. İş sağlığı ve güvenliği konusundaki yasal yükümlülüklerin ve farkındalığın artması nedeniyle, özellikle çok tehlikeli sınıftaki işyerlerinde nitelikli A sınıfı uzmanlara duyulan ihtiyaç genel olarak sürmektedir.",
+ "kazanc": {
+  "egitim_suresince": "Yetkilendirilmiş kurumlarda alınan iş güvenliği uzmanlığı eğitimi sırasında düzenli bir kazanç söz konusu değildir; eğitim genellikle ücretlidir, bazı kamu destekli kurs ve programlardan faydalanma imkânı olabilir.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında istihdam edilenler, tabi oldukları statüye (657 sayılı Devlet Memurları Kanunu veya ilgili diğer mevzuat) göre maaş alır.",
+   "Özel sektörde ve OSGB'lerde çalışanların kazancı; işyerinin/işletmenin büyüklüğü, hizmet verilen işyeri sayısı, kişinin deneyimi ve sözleşme koşullarına göre değişir; mesleğe yeni başlayanlarda kazanç genellikle asgari ücret düzeyinde olabilir, deneyim ve sorumluluk arttıkça yükselebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "İş sağlığı ve güvenliği alanında yüksek lisans ve doktora yaparak uzmanlık bilgisini derinleştirebilir; Tehlikeli Sınıf (B) belgesiyle görev yapanlar, mevzuatta öngörülen deneyim süresini tamamlayıp ilgili sınavda başarılı olarak Çok Tehlikeli Sınıf (A) belgesine yükselebilir.",
+  "is_hayatinda": "Kıdemli iş güvenliği uzmanı, İSG koordinatörü, işyeri iş sağlığı ve güvenliği birim yöneticisi gibi pozisyonlara yükselebilir; yeterli deneyim ve sermayeye sahip olanlar kendi Ortak Sağlık ve Güvenlik Birimini (OSGB) veya danışmanlık firmasını kurabilir."
+ },
+ "benzer_meslekler": [
+  "İş Güvenliği Uzmanı (Tehlikeli Sınıf-B)",
+  "İş Güvenliği Uzmanı (Az Tehlikeli Sınıf-C)",
+  "İş Güvenliği Uzmanı",
+  "Tehlikeli Madde Güvenlik Danışmanı",
+  "Periyodik Kontrol Yetkilisi",
+  "Asbest Söküm Uzmanı"
+ ],
+ "ek_bilgiler": "Bu meslek 6331 sayılı İş Sağlığı ve Güvenliği Kanunu ve ilgili yönetmeliklerle düzenlenmekte olup, belge sınıfları (C, B, A) ve bunlara ilişkin eğitim/deneyim şartları zaman içinde mevzuat değişiklikleriyle güncellenebilmektedir; adayların güncel koşulları ilgili resmi kurumlardan (Çalışma ve Sosyal Güvenlik Bakanlığı, ÖSYM) teyit etmesi önerilir. Çok Tehlikeli Sınıf (A) belgesiyle görev, zaman zaman tehlikeli ve çok tehlikeli işler kapsamındaki ortamlara bizzat girmeyi gerektirdiğinden işe uygun sağlık durumu önem taşır.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-07T23:38:53",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 10725
+  }
+ }
+}

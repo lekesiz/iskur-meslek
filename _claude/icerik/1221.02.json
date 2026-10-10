@@ -1,0 +1,79 @@
+{
+ "arac_gerec": [
+  "Yazar kasa / POS cihazı",
+  "Barkod okuyucu",
+  "Bilgisayar ve stok takip/satış yazılımları",
+  "Fatura ve fiş yazdırma cihazı",
+  "Etiketleme makinesi",
+  "Raf ve teşhir ekipmanları",
+  "Sipariş ve stok takip formları",
+  "Hesap makinesi",
+  "Telsiz veya diğer iç haberleşme cihazları",
+  "Güvenlik kamerası izleme ekranı",
+  "Telefon",
+  "Fotokopi makinesi ve tarayıcı gibi büro araçları"
+ ],
+ "benzer_meslekler": [
+  "Diğer Satış Nezaretçileri",
+  "Satış Nezaretçisi (Toptan Ticaret)",
+  "Satış Müdürü/Yöneticisi",
+  "Satış Müdürü",
+  "Pazarlama Müdürü",
+  "Operasyon Yöneticisi"
+ ],
+ "calisma_alanlari": "Satış Nezaretçisi (Perakende Ticaret); süpermarket, mağaza, zincir mağaza ve alışveriş merkezleri gibi perakende ticaret işletmelerinde görev yapar. Giyim, gıda, elektronik, mobilya, kozmetik gibi farklı sektörlerdeki satış noktalarında istihdam imkânı bulur.\\n\\nBu meslekte çalışanlar genellikle satış elemanı veya kasiyer olarak işe başlayıp deneyim kazandıkça satış nezaretçiliği görevine getirilir. Deneyim ve performansa bağlı olarak mağaza müdürlüğü, bölge sorumluluğu gibi daha üst görevlere yükselme imkânı bulunmaktadır.",
+ "calisma_ortami": "Satış Nezaretçisi (Perakende Ticaret) mağaza, market, reyon ve depo gibi kapalı alanlarda çalışır. İş genellikle ayakta geçer, müşteri yoğunluğuna bağlı olarak hareketli ve tempolu bir ortamda yürütülür. Mal kabul ve stok kontrolü sırasında kısa süreli ağır kaldırma ve taşıma söz konusu olabilir.\\n\\nÇalışma saatleri işyerinin açılış-kapanış saatlerine göre düzenlenir; hafta sonu, resmi tatil ve vardiyalı çalışma yaygındır. Görevi gereği müşteriler, işyerinde çalışan diğer personel, tedarikçi/üretici firma yetkilileri ve işletme sahibi veya üst düzey yöneticilerle sürekli iletişim halindedir.",
+ "egitim": {
+  "verildigi_yerler": "Satış Nezaretçisi (Perakende Ticaret) için ayrı ve standart bir örgün yükseköğretim programı bulunmamaktadır. Meslek, genellikle lise (tercihen ticaret meslek lisesi, pazarlama ve perakende satış ile ilgili alanlar) mezuniyeti sonrası, satış elemanlığından başlanarak işbaşında ve usta-çırak ilişkisi içinde kazanılan deneyimle edinilir. Ayrıca Halk Eğitim Merkezleri, mesleki eğitim merkezleri ve İŞKUR tarafından açılan perakende satış, mağazacılık, satış teknikleri ve stok yönetimi konulu kurslardan yararlanılabilir. Üniversitelerin işletme, pazarlama veya lojistik yönetimi gibi önlisans/lisans programları da mesleğe hazırlayıcı nitelikte olabilir.",
+  "giris_kosullari": [
+   "Lise veya dengi okul mezunu olmak (meslek için gereken asgari eğitim düzeyi)",
+   "İlgili mesleki eğitim kurslarına katılmak için kurumların belirlediği koşulları sağlamak",
+   "Yükseköğretim programlarına girmek isteyenler için YKS sınavında başarılı olup ilgili bölümlerin kontenjanlarına yerleşmek"
+  ],
+  "sure_ve_icerik": "Standart ve zorunlu bir eğitim programı bulunmadığından, eğitim büyük ölçüde işbaşında ve kademeli deneyimle kazanılır. Satış teknikleri, müşteri ilişkileri, stok ve depo yönetimi, temel muhasebe ve fatura işlemleri, iş sağlığı ve güvenliği gibi konularda kısa süreli kurslara katılım mesleki bilgiyi destekler. Lise sonrası ilgili bir önlisans veya lisans eğitimi tercih edildiğinde süre 2-4 yıl arasında değişebilir; bu programlarda işletme, pazarlama, perakende yönetimi ve satış organizasyonu gibi derslere yer verilir.",
+  "belge": "Katılınan kurslar sonunda katılım veya başarı belgesi verilir; tercih edilmesi halinde önlisans ya da lisans eğitimi sonunda diploma alınır. Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "ek_bilgiler": "Perakende sektörünün yapısı gereği çalışma saatleri hafta sonu ve resmi tatilleri de kapsayabilir; vardiyalı çalışma düzeni yaygındır. İşe alımlarda genellikle satış/mağazacılık deneyimi önemli bir kriter olarak değerlendirilir.",
+ "genel_ozellikler": [
+  "İnsan ilişkilerinde başarılı, güler yüzlü ve ikna kabiliyeti olan,",
+  "Sorumluluk sahibi ve güvenilir,",
+  "Yöneticilik ve organizasyon becerisine sahip,",
+  "Sayılarla çalışmaya yatkın ve dikkatli,",
+  "Sabırlı, stresli ortamlarda sakin kalabilen,",
+  "Takım çalışmasına yatkın ve liderlik vasıflarına sahip,",
+  "Düzenli ve planlı çalışabilen",
+  "kişiler olmaları gerekir."
+ ],
+ "gorevler": [
+  "Mal sahibi veya yöneticilerin genel idaresi altında stok kontrolü yaparak satın alınacak malları miktar, kalite ve cins olarak belirler, üretici firmalarla ilişki kurarak siparişleri verir, alınan siparişleri kontrol eder, eksik ve bozuk malları tespit edip iade eder.",
+  "Müşterilere mal hakkında bilgi verir, mal seçiminde yardımcı olur.",
+  "Satılan malın tutarlarını hesaplar, fiş, fatura ve benzeri belgeleri düzenler, ödemeleri kabul eder.",
+  "Müşteri şikayetlerini dinler, stok değerlendirmesi yaparak eksilen malların cins ve miktarlarını belirler, işletmeye giren ve çıkan malların kayıtlarını tutar.",
+  "Müşteri taleplerini değerlendirir, zaman ve mevsime göre stok ayarlamasını yapar, malların müşterilerin beğenisine uygun şekilde teşhir edilmesini ve temiz tutulmasını sağlar, piyasadaki satıcı firmaların satış seyrini izler.",
+  "Malların model ve kalitelerini kontrol eder, fiyatları mukayese eder.",
+  "Çalışan işçiler arasında işbölümü yapar, yapılan işleri denetler ve yol gösterir.",
+  "İşçilerin devam ve izin durumlarını ayarlar.",
+  "İşyerinin tertip ve düzenini, işçilerin müşterilerle ilişkilerini denetler, aksaklıkların giderilmesi için açıklamalarda bulunur ve talimatlar verir.",
+  "İşçi alımı yapabilir, çalışan işçilerin ilerleme, transfer, işten çıkarma ve disiplin tedbirleriyle ilgili durumlarını değerlendirebilir.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Deneyim kazandıkça işletme içi eğitimler, seminerler ve sertifika programları ile bilgi ve becerilerini geliştirebilir. İsteyenler pazarlama, işletme gibi alanlarda örgün veya açıköğretim yoluyla yükseköğrenim görerek mesleki bilgisini ilerletebilir.",
+  "is_hayatinda": "Satış elemanlığı veya kasiyerlik gibi görevlerden başlayarak satış nezaretçiliğine, deneyim arttıkça mağaza müdürlüğüne, bölge veya operasyon müdürlüğüne ve üst düzey satış/pazarlama yöneticiliğine kadar ilerleyebilir. İsteyen ve imkânı olanlar kendi işyerini açabilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Meslek standart bir örgün eğitim programı şeklinde yürütülmediğinden, işbaşında çalışılarak genellikle asgari ücret düzeyinde kazanç elde edilir. Mesleki eğitim kurslarına katılanlar için İŞKUR kursiyer harçlığı gibi destekler söz konusu olabilir.",
+  "egitim_sonrasi": [
+   "Kamuda bu unvanla doğrudan istihdam yaygın değildir; özel sektörde perakende işletmelerinde çalışmaya başlayanlar genellikle asgari ücret düzeyinde ücret alır.",
+   "Deneyim, işletmenin büyüklüğü, faaliyet gösterilen sektör ve üstlenilen sorumluluğa göre ücret değişebilir; satış performansına bağlı prim uygulamaları yaygındır."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-07T19:28:22",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6597
+  }
+ }
+}

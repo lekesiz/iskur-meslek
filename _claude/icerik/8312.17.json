@@ -1,0 +1,91 @@
+{
+ "gorevler": [
+  "İş organizasyonu yapar",
+  "Demiryolu malzemelerinin stoklanmasını sağlar",
+  "Birinci tabaka balast serilmesi işlemlerini yürütür",
+  "Hat paneli ön montajını yapar",
+  "Panellerin sahaya nakil işlemlerini sağlar",
+  "Panel montaj işlemlerini yürütür",
+  "Birinci kademe balast kotlarının uygun olup olmadığını teyit eder",
+  "Demiryolu panellerini balast üzerine serer",
+  "Panelleri birbirine bağlar",
+  "Travers ve ray aralıklarını kontrol eder",
+  "Makas parçalarının vagonlara yüklenmesini ve sahaya nakledilmesini sağlar",
+  "Makasın montajını yapar",
+  "Makasın kontrolünü yapar",
+  "İkinci tabaka balast serilmeden önce ön kontrol yapar",
+  "İkinci tabaka balastın vagonlara yüklenmesini sağlar",
+  "İkinci tabaka balastın sevkiyatını yapar",
+  "İkinci tabaka balastın hatta serilmesini sağlar",
+  "Buraj işlemi öncesi hazırlık yapar",
+  "Alın kaynak işlemleri yürütür",
+  "Alüminotermit kaynak işlemlerini yürütür",
+  "Demiryolu hattının bakım ve onarım işlemlerini yürütür",
+  "Mesleki gelişime ilişkin faaliyetleri yürütür"
+ ],
+ "arac_gerec": [
+  "El aletleri (anahtar, çekiç, pense, kürek, balyoz)",
+  "Ray kesme ve delme makineleri",
+  "Alın kaynak makinesi",
+  "Alüminotermit kaynak takımı (pota, kalıp, ısıtma tertibatı)",
+  "Buraj (tokmaklama) makinesi ve el tamperi",
+  "Travers ve bağlantı elemanları (plaka, cıvata, klips, pandül)",
+  "Balast yükleme ve serme ekipmanları",
+  "Vinç, iş treni ve malzeme vagonları",
+  "Ölçüm aletleri (mastar, şerit metre, nivo, ray gabarisi)",
+  "Kişisel koruyucu donanım (baret, iş eldiveni, çelik burunlu ayakkabı, reflektörlü yelek, koruyucu gözlük)",
+  "İletişim araçları (telsiz)",
+  "El feneri",
+  "Takoz ve işaret levhaları"
+ ],
+ "genel_ozellikler": [
+  "Fiziksel olarak dayanıklı ve güçlü,",
+  "El ve beden becerisine sahip,",
+  "Açık havada ve zorlu koşullarda çalışmaya istekli,",
+  "Dikkatli ve sorumluluk sahibi,",
+  "Takım çalışmasına yatkın,",
+  "İşçi sağlığı ve iş güvenliği kurallarına duyarlı,",
+  "Teknik konulara ilgili ve öğrenmeye açık,",
+  "Sabırlı ve düzenli çalışabilen"
+ ],
+ "calisma_ortami": "Panel Sistem Demiryolu Ustaları, görevlerini büyük ölçüde açık havada, demiryolu güzergâhı üzerinde yürütür. Çalışma; güneş, soğuk, yağmur gibi her türlü hava koşulunda, bazen şehir dışında ve geçici konaklama gerektiren şantiye ortamlarında sürdürülebilir. Çalışma ortamında toz, gürültü, titreşim, ağır malzeme kaldırma ve kaynak işlemlerinden kaynaklanan ısı ve kıvılcım gibi riskler bulunur; iş güvenliği kurallarına uyulması ve koruyucu donanım kullanılması büyük önem taşır.\n\nİş genellikle ekip hâlinde, vardiyalı ve bazen gece saatlerinde yürütülür; tren trafiğinin durdurulduğu kısıtlı zaman dilimlerinde hızlı ve koordineli çalışma gerekebilir. Meslek elemanı; ekip arkadaşları, usta başı, sürveyan, mühendis ve diğer demiryolu personeli ile sürekli iletişim ve iş birliği içinde çalışır.",
+ "egitim": {
+  "verildigi_yerler": "Panel Sistem Demiryolu Ustalığı için ayrı, örgün bir okul programı bulunmamaktadır. Meslek elemanları genellikle demiryolu işletmelerinde (TCDD ve ilgili kuruluşlar ile demiryolu yapım-bakım işi yapan firmalar) işe alındıktan sonra işbaşında usta yanında yetişir. Ayrıca Halk Eğitim Merkezleri ve İŞKUR iş birliğiyle açılan mesleki eğitim kursları ile kurumların kendi bünyesinde düzenlediği hizmet içi eğitimlerden de yararlanılabilir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "Açık havada ve ağır fiziksel çalışma koşullarına uygun bedensel yeterliliğe sahip olmak",
+   "İşin gerektirdiği sağlık şartlarını taşıdığını belgelemek",
+   "İşe alım yapan kurumun belirlediği yaş ve diğer koşulları sağlamak"
+  ],
+  "sure_ve_icerik": "Mesleğin standart bir süresi ve içeriği belirlenmiş örgün bir eğitim programı yoktur. Yetişme süreci; işe giriş sonrası usta-çırak ilişkisi içinde uygulamalı olarak ve kurum içi hizmet içi eğitimlerle (demiryolu bakım-onarım teknikleri, balast ve panel montajı, kaynak işlemleri, iş sağlığı ve güvenliği gibi konularda) tamamlanır. Süre, kişinin deneyimine ve kurumun eğitim programına göre değişkenlik gösterir.",
+  "belge": "Örgün bir diploma yerine, çalışılan kurumun düzenlediği hizmet içi eğitim belgesi veya katılınan mesleki eğitim kursu sonunda alınan kurs bitirme belgesi söz konusu olabilir. Kaynak işlemleri gibi bazı görevler için Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Panel Sistem Demiryolu Ustaları başta TCDD olmak üzere demiryolu altyapısı işleten kamu kuruluşlarında, şehir içi raylı sistem işletmelerinde ve demiryolu yapım-bakım-onarım işlerini yürüten yüklenici/taşeron firmalarda istihdam edilir. Türkiye'de demiryolu ağının genişletilmesi, mevcut hatların yenilenmesi ve hızlı tren hatlarının yapımına yönelik yatırımlar, bu meslek elemanlarına olan ihtiyacı sürdürmektedir.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğin standart, ücretsiz bir örgün eğitimi bulunmadığından, meslek genellikle işe girildikten sonra çalışarak öğrenilir; bu dönemde kişi, bağlı olduğu kurumun ücret politikasına göre maaş alır.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında (TCDD gibi) memur statüsünde çalışanlar 657 sayılı Devlet Memurları Kanunu'na, işçi statüsünde çalışanlar ise ilgili toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde çalışanların kazancı; işletmenin büyüklüğüne, çalışanın deneyim ve becerisine, iş sözleşmesi koşullarına göre değişiklik gösterir; işe yeni başlayanlarda kazanç genellikle asgari ücret düzeyinde olmaktadır."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Meslekte ilerlemek isteyenler, demiryolu yapım ve bakım teknikleri, kaynak teknolojileri, iş sağlığı ve güvenliği gibi alanlarda açılan hizmet içi eğitim ve sertifika programlarına katılarak bilgi ve becerilerini geliştirebilir. Açık öğretim yoluyla orta ve yükseköğretim programlarını tamamlayarak teknik eleman, sürveyan veya mühendislik gibi daha üst kademelere yönelebilirler.",
+  "is_hayatinda": "Deneyim ve kıdem kazanan Panel Sistem Demiryolu Ustaları, ekip liderliği, usta başılık, sürveyanlık veya kontrolörlük gibi daha üst sorumluluk gerektiren görevlere yükselebilir; kurum içi sınav ve değerlendirme süreçleriyle üst kademelere atanabilirler."
+ },
+ "benzer_meslekler": [
+  "Yol Sürveyanı (Demiryolu)",
+  "Demiryolu Tesisler Sürveyanı",
+  "Demiryolu Yol Kontrol Görevlisi",
+  "Tesisler Kontrolörü (Demiryolu)",
+  "Katener İşçisi"
+ ],
+ "ek_bilgiler": "Meslek, ağır fiziksel iş gücü, açık havada çalışma ve ekip hâlinde koordinasyon gerektirir. Türkiye'de devam eden demiryolu yatırımları ve hat yenileme çalışmaları, bu meslek elemanlarına yönelik istihdam talebini olumlu etkilemektedir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T18:13:54",
+  "usage": {
+   "input_tokens": 4,
+   "output_tokens": 10204
+  }
+ }
+}

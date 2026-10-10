@@ -1,0 +1,75 @@
+{
+ "arac_gerec": [
+  "Reaktör ve karıştırma tankları",
+  "Hammadde depolama tankları ve silolar",
+  "Tartım kantarı/terazi",
+  "Numune alma kapları ve ekipmanları",
+  "Boru hatları, vanalar ve basit kontrol panelleri",
+  "Taşıma ekipmanları (forklift, transpalet, el arabası)",
+  "Temizlik malzemeleri ve ekipmanları",
+  "Kişisel koruyucu donanım (maske, eldiven, koruyucu gözlük, iş elbisesi, bot)",
+  "Gaz/kaçak tespit cihazları",
+  "Yangın söndürme tüpü",
+  "Basınç ve sıcaklık göstergeleri",
+  "İş emri ve takip formları"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve tedbirli,",
+  "Sorumluluk duygusu yüksek,",
+  "Talimatlara uyan,",
+  "Fiziksel olarak dayanıklı,",
+  "Takım çalışmasına yatkın,",
+  "El ve bedenini eşgüdümle kullanabilen,",
+  "Kimyasal madde ve kokulu ortamlarda çalışmaya uygun sağlık durumuna sahip,",
+  "Temiz ve düzenli çalışmaya özen gösteren,"
+ ],
+ "calisma_ortami": "Formaldehit tutkal imalat operatör yardımcıları, kimyasal ürün üretimi yapan fabrika ve tesislerde, kapalı alanlarda çalışır. Çalışma ortamında formaldehit ve üre gibi kimyasalların kokusu, zaman zaman gürültü ve kimyasal madde kaynaklı tahriş riski bulunabilir; bu nedenle kişisel koruyucu donanım kullanımı önemlidir. İş genellikle ayakta, hareketli ve fiziksel güç gerektiren şekilde yürütülür, vardiyalı çalışma düzeni yaygındır.\n\nÇalışırken operatörün talimatları doğrultusunda hareket eder; üretim ve kalite kontrol personeli, tesis bakım çalışanları ve laboratuvar görevlileriyle sık sık iletişim halinde olur. İş sağlığı ve güvenliği kurallarına, kimyasal madde yönetmeliklerine ve çevre koruma düzenlemelerine uyum, bu meslekte büyük önem taşır.",
+ "egitim": {
+  "verildigi_yerler": "Bu meslek için resmi olarak tanımlanmış, örgün bir okul programı veya standart kurs bulunmamaktadır. Meslek, genellikle kimyasal ürün imalatı yapan işletmelerde işbaşında, usta-operatör gözetiminde çalışarak öğrenilir. Halk Eğitim Merkezleri ve İŞKUR tarafından açılan kimya teknolojisi ve kimyasal ürünler üretimi alanındaki temel düzey mesleki eğitim kursları destekleyici nitelikte olabilir.",
+  "giris_kosullari": [
+   "İlköğretim mezunu olmak (meslek için aranan asgari eğitim düzeyi)",
+   "18 yaşını doldurmuş olmak",
+   "Kimyasal maddelerle çalışmaya elverişli sağlık durumuna sahip olmak",
+   "İşin gerektirdiği fiziksel güç ve dayanıklılığa sahip olmak",
+   "Talimatları anlayıp uygulayabilecek düzeyde okuryazar olmak"
+  ],
+  "sure_ve_icerik": "Standart bir eğitim süresi ve müfredatı tanımlanmamıştır. İşe yeni başlayanlara işletme bünyesinde kısa süreli iş sağlığı ve güvenliği, hammadde tanıma, kişisel koruyucu donanım kullanımı, temel kimyasal işlem bilgisi, makine-ekipman tanıtımı ve acil durum/ilk yardım konularını içeren oryantasyon eğitimi verilir. Meslek büyük ölçüde işbaşında, operatör gözetiminde kazanılan deneyimle öğrenilir.",
+  "belge": "Mesleğe özgü zorunlu bir diploma veya sertifika bulunmamaktadır. Katıldığı işletme içi eğitimler veya Halk Eğitim Merkezi/İŞKUR kursları sonunda 'Katılım Belgesi' ya da 'Kurs Bitirme Belgesi' alabilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Formaldehit tutkal imalat operatör yardımcıları, tutkal (yapıştırıcı) ve benzeri kimyasal ürünlerin üretildiği fabrika ve tesislerde, özellikle formaldehit esaslı tutkal üretim hatlarında çalışır. Ayrıca kimyasal karıştırma, kurutma, reaktör işletmeciliği gibi benzer proseslerin yürütüldüğü diğer kimya sanayi tesislerinde de görev alabilirler. İstihdam, genellikle orta ve büyük ölçekli üretim tesislerinde yoğunlaşmaktadır.",
+ "kazanc": {
+  "egitim_suresince": "Meslek büyük ölçüde işletme bünyesinde çalışarak ve işbaşında öğrenildiğinden, ayrı bir eğitim dönemi ücreti bulunmamaktadır; kişi, işe başladığı andan itibaren çalıştığı işletmeden ücret alır.",
+  "egitim_sonrasi": [
+   "Kamuda bu meslek için doğrudan bir kadro bulunmamakta olup istihdam ağırlıklı olarak özel sektördeki kimyasal üretim tesislerinde işçi statüsünde gerçekleşir.",
+   "Ücret, işletmenin büyüklüğü, çalışma koşulları ve kişinin deneyimine göre değişmekle birlikte, mesleğe yeni başlayanlarda genellikle asgari ücret düzeyindedir; deneyim ve sorumluluk arttıkça ücret de yükselebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Meslekte belirli, kademeli bir örgün eğitim basamağı tanımlı değildir. Kişi, kimya teknolojisi ve kimyasal ürünler üretimi alanında açılan mesleki eğitim kurslarına katılarak bilgi ve becerilerini artırabilir.",
+  "is_hayatinda": "Deneyim ve bilgi birikimi arttıkça Formaldehit Tutkal İmalat Operatörlüğüne yükselebilir; zamanla usta, vardiya sorumlusu veya tesis/bölüm sorumlusu gibi görevlere ilerleyebilir."
+ },
+ "benzer_meslekler": [
+  "Karıştırma Makinesi Operatörü-Kimyasal Maddeler",
+  "Kurutma Makinesi Operatörü-Kimyasal ve İlgili İşlemler",
+  "Otoklav Operatörü (Kimyasal ve İlgili İşlemler)",
+  "Proses İşçisi",
+  "Reaktör İşçisi (Boya)"
+ ],
+ "ek_bilgiler": "Formaldehit gibi kimyasalların kanserojen etkileri bulunduğu bilinmektedir; bu nedenle çalışma sırasında kişisel koruyucu donanım kullanımına, havalandırmaya ve iş sağlığı güvenliği tedbirlerine özellikle dikkat edilmesi gerekir. Mesleğin tehlikeli/çok tehlikeli işler kapsamında değerlendirilip değerlendirilmediği işyerine ve süreçlere göre değişebileceğinden, bu konuda kesin bilgi için ilgili işyeri ve mevzuata başvurulması uygundur.",
+ "gorevler": [
+  "Hammaddelerin (üre, formaldehit vb.) depodan tesise naklini sağlar.",
+  "Reaktörün temizliğini ve doldurma hazırlığını yapar.",
+  "Operatör talimatıyla basit panel kontrollerini gerçekleştirir.",
+  "Numune alma ve laboratuvara iletme işlemlerine yardımcı olur.",
+  "Çalışma alanındaki kimyasal sızıntı ve düzen kontrollerini yapar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T12:28:52",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5916
+  }
+ }
+}

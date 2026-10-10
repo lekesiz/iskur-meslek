@@ -1,0 +1,86 @@
+{
+ "arac_gerec": [
+  "Yazar kasa / POS cihazı",
+  "Terazi, baskül",
+  "Barkod okuyucu",
+  "Buzdolabı ve soğutucu teşhir dolapları",
+  "Satış rafları ve vitrinler",
+  "Fiyat etiketleme makinesi/etiketleri",
+  "Veresiye defteri",
+  "Makbuz, fiş, fatura koçanları",
+  "Ambalaj malzemeleri (poşet, paket kağıdı)",
+  "Temizlik malzeme ve ekipmanları",
+  "Güvenlik kamerası",
+  "Stok taşıma arabası / el arabası",
+  "Hesap makinesi"
+ ],
+ "benzer_meslekler": [
+  "Kendi İşletmesinde Çalışan-Perakende Ticaret",
+  "Kuruyemişçi",
+  "Aktar (Baharatçı)",
+  "Manav",
+  "Kantin İşletmecisi",
+  "Zahireci"
+ ],
+ "calisma_alanlari": "Bakkallar genellikle kendi işyerlerinde (bakkal dükkânı, küçük market, bayi) bağımsız olarak çalışırlar; ayrıca başka bir kişiye ait bakkal veya küçük market işletmelerinde çalışan statüsünde de istihdam edilebilirler.\n\nBüyük zincir marketlerin ve organize perakendenin yaygınlaşması, geleneksel bakkal sayısını zaman içinde azaltmış olsa da, mahalle aralarında, site içlerinde, kırsal alanlarda ve küçük yerleşim yerlerinde bakkallara olan talep sürmektedir. Yeterli deneyim ve sermayeye sahip olanlar kendi işyerlerini açabilir; meslek kendi işini kurmaya uygundur.",
+ "calisma_ortami": "Bakkallar genellikle kapalı mekânlarda, kendilerine veya bir işverene ait dükkânlarda çalışır. Çalışma ortamı çoğunlukla dar alanlıdır; buzdolabı ve soğutucuların bulunması nedeniyle ortam sıcaklığı değişkenlik gösterebilir. İş; uzun süre ayakta kalmayı, ürün taşıma ve raf düzenlemeyi gerektirdiğinden fiziksel çaba içerir.\n\nÇalışma saatleri genellikle uzundur; sabah erken saatlerden akşam geç saatlere kadar, hafta sonları ve resmî tatillerde de çalışma söz konusu olabilir. Bakkallar; müşteriler, toptancı ve tedarikçiler, bazen de aile işletmesi söz konusuysa aile üyeleriyle sürekli iletişim halindedir.",
+ "egitim": {
+  "verildigi_yerler": "Bakkallık mesleğinde kademeli, örgün bir mesleki eğitim programı (çıraklık/mesleki eğitim merkezi dalı) bulunmamaktadır. Meslek genellikle işbaşında, usta yanında veya aile işletmesinde çalışarak deneyim yoluyla öğrenilir. Halk Eğitim Merkezleri ve İŞKUR tarafından açılan perakende satış, müşteri ilişkileri, temel muhasebe ve gıda hijyeni gibi konulardaki kurslar mesleki bilgi ve becerilerin geliştirilmesine katkı sağlayabilir.",
+  "giris_kosullari": [
+   "Mesleğin icrası için belirli bir asgari öğrenim şartı aranmamaktadır; ancak okuma-yazma bilmek ve temel aritmetik işlemleri yapabilmek gerekir.",
+   "Kendi işyerini açmak isteyenlerin ilgili esnaf/ticaret odasına kayıt olması ve işyeri açma ve çalışma ruhsatı alması gerekir.",
+   "Gıda ürünü satışı yapılan işyerlerinde hijyen eğitimi sertifikası alınması yasal bir zorunluluktur."
+  ],
+  "sure_ve_icerik": "Bakkallık için belirli süreli ve kademeli bir örgün mesleki eğitim programı bulunmamaktadır. Mesleki bilgi ve beceriler; bir bakkal dükkânında veya aile işletmesinde çalışarak, deneyimli kişilerin yanında işbaşında uygulamalı olarak kazanılır. İŞKUR ve Halk Eğitim Merkezlerinin açtığı kısa süreli kurslarla (perakende satış teknikleri, müşteri ilişkileri, temel muhasebe, gıda hijyeni vb.) mesleki bilgi desteklenebilir.",
+  "belge": "Örgün eğitim yoluyla alınan bir diploma veya belge bulunmamaktadır. Katılınan kurslar sonunda kurs bitirme belgesi/sertifika, gıda ürünü satılan işyerlerinde ise hijyen eğitimi sertifikası alınır. Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "ek_bilgiler": "Bakkallık mesleği, büyük market zincirlerinin ve e-ticaretin yaygınlaşmasıyla rekabet baskısı altındadır; bununla birlikte mahalle aralarında, site içlerinde ve kırsal yerleşim yerlerinde hizmet veren küçük işletmelere olan talep sürmektedir. Gıda ürünü satışı yapıldığından hijyen ve gıda güvenliği kurallarına uyulması yasal bir gerekliliktir.",
+ "genel_ozellikler": [
+  "Güvenilir ve dürüst,",
+  "Dikkatli ve düzenli,",
+  "İnsan ilişkilerinde başarılı,",
+  "Sorumluluk sahibi,",
+  "Temel hesap becerisine sahip,",
+  "Sabırlı ve hoşgörülü,",
+  "Fiziksel olarak dayanıklı,",
+  "Mesleki gelişmeleri takip eden"
+ ],
+ "gorevler": [
+  "Bakkal dükkânına gelen müşterileri karşılar.",
+  "Müşterinin istediği tüketim maddelerini hazırlar.",
+  "Tartılması gerekenleri tartar, fiyatını hesaplar.",
+  "Müşteriden nakit, kredi kartı ile satılan malın bedelini tahsil eder.",
+  "Veresiye satış yapar, veresiye defteri kayıtlarını tutar.",
+  "Dayanıklı, dayanıksız tüketim mallarını toptancıdan alır.",
+  "Gazete, mecmua, ekmek, sigara satışı yapar.",
+  "Muhafaza edilmesi gereken ürünleri dolaba koyar.",
+  "Makbuz, fiş, fatura, çek, senet gibi ticari belge düzenler.",
+  "Dükkândaki ürünlerin üzerine fiyat etiketleri asar.",
+  "Buzdolapları ve dolapların temizliğini yapar.",
+  "Raflardaki biten veya azalan ürünleri tamamlar.",
+  "Dükkânın temiz ve düzenli olmasını sağlar.",
+  "Dükkânın güvenliğini sağlar, gerekli tedbirleri alır.",
+  "Sahte para aldığında kolluk kuvvetlerine bildirir.",
+  "Piyasadaki gelişmeleri takip eder.",
+  "Mesleği alanındaki gelişmeleri takip eder ve uygular."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Bakkallık için kademeli bir örgün mesleki eğitim programı bulunmadığından bu alanda belirlenmiş bir eğitim ilerleme basamağı yoktur. İsteyenler, perakende satış, pazarlama veya işletmecilik alanlarında açılan kurs ve sertifika programlarına katılarak mesleki bilgi ve becerilerini geliştirebilir.",
+  "is_hayatinda": "Deneyim kazananlar kendi işyerlerini açabilir, işletmelerini büyüterek market veya zincir mağazaya dönüştürebilir, belirli bir ürün grubunda uzmanlaşabilir ya da toptan ticarete geçebilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Bakkallık için belirli süreli, örgün bir mesleki eğitim programı bulunmadığından eğitim süresince düzenli bir ücretlendirme söz konusu değildir. İşbaşında çalışarak öğrenenler, çalıştıkları işyeri ile yaptıkları anlaşmaya bağlı olarak ücret alabilir.",
+  "egitim_sonrasi": [
+   "Başkasına ait işyerinde çalışanların kazancı genellikle asgari ücret düzeyinde başlar; kişinin tecrübesi, bilgisi ve işyerinin büyüklüğüne göre değişebilir.",
+   "Kendi işyerini açanların kazancı; işletmenin büyüklüğü, konumu, müşteri potansiyeli ve işletme becerisine göre değişkenlik gösterir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T18:21:18",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6715
+  }
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "arac_gerec": [
+  "Bilgisayar ve havayolu operasyon/otomasyon yazılımları",
+  "Uçuş loku (uçuş kayıt) formları",
+  "Yer hizmet formları",
+  "Dispeç raporları",
+  "Uçak takip formları",
+  "Uçuş tarife takip formları",
+  "Personel sicil takip formları",
+  "Yazıcı ve tarayıcı",
+  "Telefon ve dahili iletişim sistemleri",
+  "Arşiv ve dosyalama malzemeleri",
+  "Kırtasiye malzemeleri (kâğıt, kalem vb.)",
+  "İlgili mevzuat ve uygulama dokümanları"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve titiz,",
+  "Sayısal yeteneğe sahip,",
+  "Sorumluluk sahibi,",
+  "Zaman yönetimine önem veren,",
+  "Düzenli ve sistematik çalışabilen,",
+  "İletişim becerisi iyi,",
+  "Hızlı ve doğru karar verebilen,",
+  "Gizliliğe önem veren ve güvenilir"
+ ],
+ "calisma_ortami": "Ebis Kontrolörü, havayolu işletmelerinin uçuş operasyon, yer hizmetleri veya ekip planlama birimlerine bağlı büro ortamında görev yapar. Çalışma genellikle bilgisayar başında, kapalı mekânda ve masa başında sürdürülür; fiziksel açıdan ağır bir iş değildir ancak yoğun bilgi akışını takip edebilme ve veri girişinde dikkatli olma gerektirir.\n\nHavacılık sektörünün 7/24 operasyon esasına bağlı olarak çalışma saatleri vardiyalı olabilir; uçuş programlarına göre hafta sonu ve gece çalışması gerekebilir. Görevi sırasında uçuş ekibi, kabin personeli, operasyon merkezi, dispeç birimi ve ilgili idari birimlerle sürekli bilgi paylaşımı ve iletişim içindedir.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi, mesleki ve teknik ortaöğretim kurumlarında bağımsız bir alan/dal olarak tanımlanmamıştır. Havayolu şirketleri ve yer hizmetleri kuruluşları, bünyelerindeki uçuş operasyon/yer hizmetleri birimlerine aldıkları personeli kurum içi eğitim ve işbaşı eğitimi yoluyla yetiştirmektedir. Sivil havacılıkla ilgili yükseköğretim ön lisans programlarından mezun olmak işe girişte avantaj sağlayabilir.",
+  "giris_kosullari": [
+   "En az ortaöğretim (lise ve dengi okul) mezunu olmak,",
+   "İşe alım sürecinde ilgili havayolu veya yer hizmetleri kuruluşunun belirlediği sınav, mülakat ve bilgisayar kullanım yeterliliği şartlarını karşılamak."
+  ],
+  "sure_ve_icerik": "Mesleğe özgü, standart süresi ve içeriği belirlenmiş resmi bir eğitim programı bulunmamaktadır. İşe alınan personel, kurum içi oryantasyon ve işbaşı eğitimleri aracılığıyla uçuş loku düzenleme, yer hizmet formu doldurma, uçak ve uçuş tarife takip formlarının kullanımı, personel sicil takip işlemleri ile ilgili otomasyon/yazılım sistemlerinin kullanımı konusunda yetiştirilir. Bu eğitimler genellikle usta-çırak ilişkisi içinde ve kısa süreli kurslar şeklinde yürütülür.",
+  "belge": "Örgün eğitim sonunda verilen standart bir diploma veya sertifika bulunmamaktadır; kurum içi eğitimi tamamlayanlara çalıştıkları kuruluş tarafından katılım/yeterlilik belgesi verilebilir. İlgili ön lisans programından mezun olanlara ise yükseköğretim diploması verilir."
+ },
+ "calisma_alanlari": "Ebis Kontrolörü; havayolu şirketlerinin uçuş operasyon, yer hizmetleri, ekip planlama ve personel takip birimlerinde istihdam edilmektedir. Ayrıca havalimanlarında yer hizmetleri veren kuruluşlarda da çalışabilmektedir. Bu meslek, sivil havacılık sektörüne özgü ve sınırlı sayıda kuruluşta (başta havayolu işletmeleri ve yer hizmetleri şirketleri) istihdam alanı bulan bir büro mesleğidir; sektörün büyüme ve gelişimine bağlı olarak istihdam olanakları değişebilmektedir.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğe özgü standart bir eğitim/çıraklık ücreti düzenlemesi bulunmamaktadır. İşe alım sonrası kurum içi eğitim döneminde çalışılan kuruluşun ücret politikasına göre genellikle asgari ücret düzeyinde bir ücret ödenir.",
+  "egitim_sonrasi": [
+   "Kamu kurumu niteliğindeki kuruluşlarda çalışanlar 657 sayılı Devlet Memurları Kanunu veya ilgili toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektördeki havayolu ve yer hizmetleri şirketlerinde ücret; işyerinin büyüklüğü, çalışanın tecrübesi, bilgi ve becerisi ile karşılıklı anlaşmaya göre belirlenir.",
+   "Mesleğe yeni başlayanların kazancı genellikle asgari ücret düzeyindedir; deneyim ve uzmanlık arttıkça kazanç artabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Bu meslek için tanımlanmış bağımsız bir mesleki ve teknik eğitim alanı/dalı bulunmadığından, meslekte ilerleme büyük ölçüde kurum içi gelişim programları ve hizmet içi eğitimlerle sağlanır. İsteyenler sivil havacılık, işletme veya lojistik gibi alanlarda ön lisans ya da lisans eğitimi alarak bilgi ve beceri düzeyini artırabilir.",
+  "is_hayatinda": "Deneyim kazandıkça büro şefi, birim sorumlusu veya operasyon/yer hizmetleri koordinatörü gibi kademelere yükselme imkânı bulunur. Yabancı dil, bilgisayar ve havacılık otomasyon sistemleri konusundaki yetkinliğini geliştirenler daha üst düzey görevlere geçebilir."
+ },
+ "benzer_meslekler": [
+  "Uçuş Harekat Uzmanı(Dispeçer)",
+  "Ekip Tahsis Memuru-Havayolları",
+  "Uçuş Bilgi Memuru",
+  "Uçuş Hareket Memuru",
+  "Uçuş Ekip Planlama Koordinasyon Şefi",
+  "Uçuş İşletme Kontrol Merkezi Şefi"
+ ],
+ "ek_bilgiler": "\"Ebis Kontrolörü\" unvanı, sivil havacılık sektöründe sınırlı sayıda kuruluşta, özellikle havayolu şirketlerinin uçuş operasyon ve yer hizmetleri birimlerinde kullanılmaktadır. Bu nedenle istihdam alanı, işe alım koşulları ve kurum içi eğitim uygulamaları kuruluştan kuruluşa farklılık gösterebilir.",
+ "gorevler": [
+  "Günlük uçuş programlarını ve dispeç raporlarını temin ederek uçuş loklarını ve yer hizmet formlarını düzenler.",
+  "Uçuş programından uçucu personelinin uçuş saatini, mesai saatini ve uçucu personel sayısını uçuş lokuna kaydeder.",
+  "Uçak takip formunda uçağın sefer yaptığı hava limanlarını ve sefer günlerini, uçuş tarife takip formundan iniş ve kalkış saatlerini kontrol ederek bu bilgileri uçuş loklarına kaydeder.",
+  "Yer hizmet formuna kabin personelinin nöbetlerini, uçak rotasyon nedenlerini, sefer aktarma ve birleştirme nedenlerini kaydeder.",
+  "Uçuş tarife takip formundaki bilgileri personelin sicil takip formuna işleyerek, formları ilgili birimlere gönderir.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T16:42:19",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6249
+  }
+ }
+}

@@ -1,0 +1,78 @@
+{
+ "arac_gerec": [
+  "Bilgisayar ve şebeke yönetim/izleme yazılımları",
+  "Spektrum analizör ve sinyal seviye ölçüm cihazları",
+  "Fiber optik ölçüm cihazları (OTDR) ve ekleme ekipmanları",
+  "Kablo test cihazları ve multimetre",
+  "GPS ve konum belirleme cihazları",
+  "Uydu anten hizalama ekipmanları",
+  "Saha iletişim cihazları (telsiz, tablet, el terminali)",
+  "El aletleri (tornavida, pense, kablo soyma takımı vb.)",
+  "Kişisel koruyucu donanım (baret, emniyet kemeri, eldiven vb.)",
+  "Teknik çizim, proje ve saha keşif (survey) dokümanları"
+ ],
+ "benzer_meslekler": [
+  "Telekomünikasyon Mühendisi",
+  "Telekomünikasyon Yer İstasyonu Tesis ve İşletme Uzmanı",
+  "Telekomünikasyon Şebeke Planlama Uzmanı",
+  "Telekomünikasyon Operasyon ve İşletim Uzmanı",
+  "Elektronik ve Haberleşme Mühendisi"
+ ],
+ "calisma_alanlari": "Telekomünikasyon Şebeke Kurulum Uzmanları başta mobil ve sabit hat telekomünikasyon operatörleri (GSM/telekom firmaları), şebeke altyapısı kurulum ve işletim şirketleri, telekomünikasyon ekipmanı üreten ve tedarik eden firmalar ile saha hizmetleri sunan taşeron/yüklenici şirketlerde istihdam edilmektedir. Kamu kurumlarının haberleşme ve bilgi işlem birimlerinde de bu meslek alanında çalışılabilir.\n\nMobil şebekelerin (4.5G, 5G) ve sabit altyapıların (fiber, uydu) hızla genişlemesi, bu meslek alanındaki istihdam olanaklarını artırmaktadır. Deneyimli uzmanlar, yurt içinde büyük ölçekli projelerde ve bazı durumlarda yurt dışı projelerde de görev alabilmektedir.",
+ "calisma_ortami": "Telekomünikasyon Şebeke Kurulum Uzmanları işlerinin bir bölümünü ofis ortamında (planlama, koordinasyon, raporlama, yazılım üzerinden izleme) bir bölümünü ise sahada (baz istasyonları, santraller, şebeke kurulum alanları, müşteri mekânları) gerçekleştirirler. Saha çalışmaları açık havada, bazen yükseklerde veya dar/kapalı tesisat alanlarında yürütülebilir; bu nedenle iş kazası riskine karşı kişisel koruyucu donanım kullanımı ve iş güvenliği kurallarına uyum önem taşır.\n\nÇalışma saatleri genellikle tam zamanlıdır; proje teslim süreleri ve kurulum yoğunluğuna göre mesai saatleri dışında çalışma ya da şehir içi/şehir dışı seyahat gerekebilir. Görevleri sırasında saha ekipleri, teknisyenler, mühendisler, taşeron firma personeli ve müşterilerle sürekli iletişim halinde çalışırlar.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğe, üniversitelerin \"Elektronik ve Haberleşme Mühendisliği\", \"Elektrik-Elektronik Mühendisliği\" veya açıldığı dönemlerde \"Telekomünikasyon Mühendisliği\" bölümlerinde verilen lisans eğitimi sonrasında yönelinebilir.",
+  "giris_kosullari": [
+   "Lise veya dengi okul mezunu olmak",
+   "YKS (Yükseköğretim Kurumları Sınavı) sonucuna göre ilgili mühendislik lisans programına yerleşmek"
+  ],
+  "sure_ve_icerik": "Lisans eğitiminin süresi 4 yıldır. Programın ilk yıllarında temel mühendislik, matematik ve fizik dersleri; sonraki yıllarda telekomünikasyon sistemleri, şebeke mimarisi, sinyal işleme, veri iletim teknolojileri ve ilgili laboratuvar dersleri okutulur; genellikle zorunlu staj uygulaması da bulunur. Mezuniyet sonrasında şebeke kurulum alanında çalışacak kişiler, işe başladıkları işletmelerde işbaşı eğitimi ve ekipman üreticilerinin verdiği şebeke/sistem kurulum eğitimleriyle mesleki yetkinliklerini geliştirir.",
+  "belge": "Eğitimini tamamlayanlara üniversite tarafından ilgili mühendislik lisans diploması verilir. Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "ek_bilgiler": "Mobil şebekelerin (4.5G, 5G) ve fiber/uydu altyapılarının hızla yaygınlaşması bu meslekteki istihdam olanaklarını artırmaktadır. Saha ağırlıklı çalışma koşulları nedeniyle seyahate açık olmak ve esnek çalışma saatlerine uyum gerekebilir.",
+ "genel_ozellikler": [
+  "Sayısal düşünme ve analitik problem çözme yeteneğine sahip,",
+  "Teknik çizim ve projeleri okuyup yorumlayabilen,",
+  "Planlama ve iş organizasyonu becerisi gelişmiş,",
+  "Dikkatli, titiz ve kalite bilinci gelişmiş,",
+  "Sorumluluk sahibi ve işçi sağlığı/iş güvenliği kurallarına duyarlı,",
+  "Ekip çalışmasına uyumlu, iletişim becerisi iyi,",
+  "Saha koşullarına, seyahate ve değişken çalışma saatlerine uyumlu,",
+  "Teknolojik gelişmeleri takip etmeye istekli"
+ ],
+ "gorevler": [
+  "İşçi sağlığı ve iş güvenliği (İSG), çevre koruma ve kalite gerekliliklerini uygular.",
+  "Sahadaki şebeke kurulumu çalışmalarına yönelik iş organizasyonunu yapar.",
+  "Şebeke kurulumu öncesi keşif (survey) ve hazırlık işlemlerinin koordinasyonunu sağlar.",
+  "Şebeke uç noktalarının (network terminali) kurulumunun yapılmasını sağlar.",
+  "Çekirdek şebeke (core network) kurulumunun yapılmasını sağlar.",
+  "Bilgisayar tabanlı sistem kurulumu yapar.",
+  "Veri iletim yolu (transmisyon) kurulumunun yapılmasını sağlar.",
+  "Şebeke (network) alarm ve izleme sistemlerinin kontrolünü yapar.",
+  "Yapılan şebeke kurulumunun uygunluğunu denetler.",
+  "Şebekenin enerjilendirilmesini sağlar.",
+  "Sabit terminal (müşteri noktası) kurulumunun yapılmasını sağlar.",
+  "Terminal kurulum testlerinin sonuçlarını değerlendirir.",
+  "Uydu terminal kurulumunun yapılmasını sağlar.",
+  "Mesleki gelişim çalışmalarında bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Lisans eğitimi sonrasında ilgili mühendislik alanlarında yüksek lisans ve doktora yapılarak akademik kariyer veya teknik uzmanlık alanında ilerleme sağlanabilir. Ayrıca ekipman üreticilerinin düzenlediği sertifika programlarına katılarak belirli şebeke teknolojilerinde (fiber, uydu, mobil şebeke vb.) uzmanlaşılabilir.",
+  "is_hayatinda": "Deneyim kazandıkça saha ekip liderliği, proje yöneticiliği, şebeke operasyon veya planlama sorumluluğu gibi görevlere yükselinebilir. Performans ve deneyime bağlı olarak daha üst düzey teknik ve yönetim kadrolarına terfi mümkündür."
+ },
+ "kazanc": {
+  "egitim_suresince": "Lisans eğitimi sırasında öğrenciler genellikle zorunlu stajlarını ilgili işletmelerde yapar; işletmeler stajyer öğrencilere kendi ücret politikalarına göre ödeme yapabilir. Öğrenim süresince isteyen öğrenciler Yüksek Öğrenim Kredi ve Yurtlar Kurumundan öğrenim kredisi alabilir.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında çalışanlar 657 sayılı Devlet Memurları Kanunu'na göre ücretlendirilir.",
+   "Özel sektörde kazanç; çalışılan firmanın büyüklüğüne, mesleki deneyime ve üstlenilen sorumluluğa göre değişmekte olup işe yeni başlayanlarda ücret görece daha düşük olabilir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-07T21:46:40",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6973
+  }
+ }
+}

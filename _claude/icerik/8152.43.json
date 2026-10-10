@@ -1,0 +1,82 @@
+{
+ "arac_gerec": [
+  "Kops sıyırma makinesi",
+  "Kops kovası ve birikme kovaları",
+  "Boş ve dolu bobinler (masuralar)",
+  "Kops giriş haznesi",
+  "Etiketler ve etiket stokları",
+  "Patron (desen) kartları/stokları",
+  "Emniyet kolu/durdurma düzeneği",
+  "Plastik masura parçaları",
+  "Koruyucu eldiven ve kişisel koruyucu donanım",
+  "Temizlik malzemeleri (fırça, bez vb.)",
+  "Taşıma arabası/el arabası"
+ ],
+ "benzer_meslekler": [
+  "Çorap Tarak Makinesi İşçisi (Otomatik Tezgah)",
+  "Tarak İşçisi-Trikotaj",
+  "Otomatik Tezgah İplikçisi",
+  "Çözgü Makinesi Yardımcı Elemanı (Cağlıkcı)",
+  "Kumaş Sarıcı",
+  "Konik Çözgü Makinesi Operatörü"
+ ],
+ "calisma_alanlari": "Kops Sıyırma Makinesi Operatörleri, başta iplik fabrikaları olmak üzere dokuma ve örme işletmelerinin iplik hazırlama, sarım ve bobin bölümlerinde istihdam edilirler. Çalışma alanları büyük ölçüde özel sektördeki tekstil üretim tesisleriyle sınırlıdır; kamu kurumlarında bu meslekte istihdam olanağı bulunmamaktadır. Tekstil sanayinin yoğun olduğu illerdeki fabrikalarda iş bulma olasılığı daha yüksektir. Deneyim ve referansla aynı işletme içinde veya başka tekstil işletmelerinde çalışma imkânı vardır.",
+ "calisma_ortami": "Kops Sıyırma Makinesi Operatörleri, iplik ve tekstil fabrikalarının üretim atölyelerinde, kapalı mekânlarda çalışırlar. Çalışma ortamı makine sesinden dolayı gürültülü olabilir; havada iplik ve lif tozu bulunabileceğinden solunum açısından dikkat gerektirir. Görev genellikle ayakta ve hareketli şekilde yürütülür, işletmenin üretim düzenine göre vardiyalı çalışma söz konusu olabilir.\n\nÇalışma sırasında makine, bobin, kops ve iplikle sürekli ilgilenilir. Operatör; ustası, vardiya arkadaşları, vater bölümünde çalışan işçiler ve bakım-onarım personeli ile sık sık iletişim kurar. Makine arızası, malzeme sıkışması gibi durumlarda hızlı ve dikkatli hareket edilmesi gerekir.",
+ "egitim": {
+  "verildigi_yerler": "Kops Sıyırma Makinesi Operatörlüğü için örgün eğitimde ayrı bir okul programı bulunmamaktadır. Meslek, genellikle işyerlerinde usta yanında uygulamalı olarak öğrenilmekte; ayrıca Halk Eğitim Merkezleri ile İŞKUR tarafından açılan mesleki eğitim kurslarında da ilgili temel bilgi ve beceriler kazandırılabilmektedir.",
+  "giris_kosullari": [
+   "İlköğretim mezunu olmak",
+   "18 yaşını doldurmuş olmak (işyerinde çalışma için) veya mesleki eğitim merkezlerinde yaşa uygun çıraklık koşullarını taşımak",
+   "Mesleğin fiziksel gereklerine uygun sağlık durumuna sahip olmak",
+   "El ve göz koordinasyonu gerektiren işleri yapabilecek beceriye sahip olmak"
+  ],
+  "sure_ve_icerik": "Standart ve ülke çapında tek bir eğitim süresi/programı tanımlı değildir. İşyerinde usta yanında yetişme süresi işletmenin büyüklüğüne ve kişinin öğrenme hızına göre değişmekte; bu süreçte iplik ve bobin çeşitlerinin tanınması, makinenin çalıştırılması ve durdurulması, kops sıyırma işlemleri, iş güvenliği kuralları ile temel bakım-temizlik uygulamaları öğretilmektedir. Kurs olarak verildiğinde ise genellikle temel tekstil bilgisi ve ilgili makine kullanımı konularını kapsayan kısa süreli uygulamalı programlar şeklindedir.",
+  "belge": "İşyerinde usta yanında yetişenlere genellikle resmi bir diploma verilmemektedir. Halk Eğitim Merkezi veya benzeri bir kurs kapsamında eğitim alınmışsa 'Kurs Bitirme Belgesi' düzenlenebilir."
+ },
+ "ek_bilgiler": "Bu meslekte çalışanların Mesleki Yeterlilik Kurumu (MYK) belgesine sahip olması istihdamda tercih sebebi olabilir; ancak belirli bir yasal zorunluluk genel olarak aranmamaktadır. Tekstil sektöründeki otomasyon ve teknolojik gelişmeler, ileride bu tür yardımcı üretim işlerinin kapsamını ve istihdam hacmini etkileyebilir.",
+ "genel_ozellikler": [
+  "El ve göz koordinasyonu iyi olan,",
+  "El becerisine sahip,",
+  "Renkleri ve iplik türlerini ayırt edebilen,",
+  "Dikkatli ve tedbirli,",
+  "Fiziksel olarak dayanıklı, uzun süre ayakta çalışabilen,",
+  "Düzenli ve tertipli,",
+  "Takım çalışmasına uyumlu,",
+  "Sorumluluk sahibi"
+ ],
+ "gorevler": [
+  "Boş bobinleri ambardan alır, etiketler ve tanımlı raflarda yerlerine koyar.",
+  "Tanım raflarının kontrolünde bir aksaklık veya karışıklık tespit ederse ustasına haber verir.",
+  "Patron ve etiket stoklarını takip eder, ihtiyaç duyulan malın miktarını ve çeşidini ustasına sözlü olarak iletir.",
+  "Makineyi çalışır hale getirir.",
+  "Kops kovasından aldığı kopsları kops giriş haznesine sıralar ve kullanıma uygun hale getirir.",
+  "Tahliye kanalından düşüp birikme kovasında toplanan boş kopsları biriktirir, yerine yenilerini koyar.",
+  "Ayrı bir kovada biriktirdiği kalın sarımlı kopsları vater bölümünde görev yapan işçilere götürür; uygun olanların yeniden kullanılmasını, uygun olmayanların elle sıyrılmasını sağlar.",
+  "Plastik masuranın sıkışıp kırılması halinde emniyet kolunu çeker ve makineyi durdurur.",
+  "Sıkışan kopsu kurtarır, kırılan masura parçalarını makineden temizler.",
+  "Makineyi yeniden çalıştırır, kops sıyırma işlemine devam eder.",
+  "Çalışma alanının temizlik ve düzenini sağlar.",
+  "Makine arızalarını ilgililere bildirir.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "İşletme bünyesinde düzenlenen hizmet içi eğitimlerle operatör, iplik hazırlama sürecindeki diğer makinelerde (örneğin cer, vater, sarma makineleri) çalışabilecek bilgi ve beceri kazanabilir.",
+  "is_hayatinda": "Deneyim ve bilgi birikimi arttıkça usta yardımcılığı, ustalık, vardiya sorumluluğu veya bölüm şefliği gibi görevlere yükselme imkânı bulunmaktadır."
+ },
+ "kazanc": {
+  "egitim_suresince": "Meslek bir kurs kapsamında öğreniliyorsa eğitim süresince genellikle bir kazanç söz konusu değildir. İşyerinde usta yanında yetişme söz konusu olduğunda ise çalışılan süre için asgari ücret düzeyinde bir ücret ödenebilir.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanların kazancı genellikle asgari ücret düzeyindedir.",
+   "Deneyim, bilgi düzeyi ve çalışılan işletmenin büyüklüğüne bağlı olarak ücret zamanla artabilir.",
+   "Vardiyalı çalışma düzeninde ek ücret veya prim uygulamaları söz konusu olabilir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T13:56:37",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5725
+  }
+ }
+}

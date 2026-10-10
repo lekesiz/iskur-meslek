@@ -1,0 +1,82 @@
+{
+ "gorevler": [
+  "Borverk tezgahında yapılacak işleri planlar",
+  "Uygun takım, aparat ve tertibatı seçerek tezgaha bağlar",
+  "Her işlem için devir sayısını, ilerlemeyi ve paso miktarını belirleyerek tezgahı ayarlar",
+  "Verilmiş toleranslar içinde parçayı işler",
+  "Gerekli ölçme ve kontrolleri yapar",
+  "Gerektiğinde takımları biler",
+  "Borverk tezgahında yapılabilen her türlü karmaşık ve hassas işleri gerçekleştirir",
+  "İşlemi biten parçaları temizler ve istifler",
+  "Takım, aparat, tertibat ve avadanlıkları düzenli bir şekilde muhafaza eder",
+  "Gerekli bakım ve temizlik işlerini yapar",
+  "Meslek alanı ile ilgili gelişmeleri takip eder, uygular"
+ ],
+ "arac_gerec": [
+  "Borverk (bohrwerk) tezgahı",
+  "Teknik resim, kroki ve iş talimatları",
+  "Ölçü ve kontrol aletleri (kumpas, mikrometre, mastar, şablon)",
+  "Delik açma, raybalama ve frezeleme takımları",
+  "Kesici takım ve matkap uçları",
+  "Tezgaha bağlama aparatları, mengene ve tertibatlar",
+  "Soğutma ve kesme sıvısı sistemi",
+  "Takım bileme taşı/tezgahı",
+  "Kaldırma ve taşıma ekipmanları (vinç, forklift vb.)",
+  "Temizlik ve yağlama malzemeleri",
+  "Kişisel koruyucu donanım (gözlük, eldiven, iş elbisesi, kulaklık)"
+ ],
+ "genel_ozellikler": [
+  "Şekilleri doğru algılama ve zihinde canlandırma becerisine sahip,",
+  "El ve göz koordinasyonunu iyi kullanabilen,",
+  "Dikkatli ve sabırlı,",
+  "Teknik resim ve kroki okuyabilen,",
+  "Hesap yapma becerisine sahip,",
+  "Alet ve makinelerle çalışmaktan hoşlanan,",
+  "Sorumluluk sahibi ve işine özen gösteren,",
+  "Ekip içinde uyumlu çalışabilen"
+ ],
+ "calisma_ortami": "Borverk operatörü, genellikle kapalı mekanlarda, fabrika veya atölye ortamında ayakta ve tezgah başında çalışır. Çalışma ortamında talaş, yağ, gürültü ve kısmen toz bulunabilir; işlenen parçanın büyüklüğüne göre ağır ve hassas parçalarla çalışılır, bu nedenle dikkat ve iş güvenliği kurallarına uyum önemlidir. Vardiyalı çalışma düzeni görülebilir.\n\nÇalışma sırasında büyük ölçüde makineyle baş başadır; iş akışını planlamak, kalite kontrol yapmak ve bakım konularında ustabaşı, kalite kontrol elemanları ve diğer tezgah operatörleriyle kısa süreli iletişim kurar.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi için ayrı ve bağımsız bir okul programı bulunmamaktadır. Borverk operatörlüğü genellikle işyerlerinde usta yanında işbaşı eğitimiyle, mesleki eğitim merkezlerinin Makine Teknolojisi alanı kapsamındaki çıraklık/kalfalık-ustalık eğitimiyle veya Mesleki ve Teknik Anadolu Liselerinin ilgili alanlarında kazanılan temel bilgilerin işletmede geliştirilmesiyle öğrenilmektedir. Ayrıca Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kursları da temel beceri kazandırabilir.",
+  "giris_kosullari": [
+   "Mesleki eğitim merkezi yoluyla eğitime başlamak için en az ortaokul mezunu olmak ve zorunlu eğitim çağında bulunmak",
+   "14 yaşını doldurmuş olmak",
+   "Sağlık durumunun mesleğin gerektirdiği işlere uygun olması (gerektiğinde sağlık raporuyla belgelendirilir)",
+   "Eğitim görülecek işyeri bulup işveren ile çıraklık/mesleki eğitim sözleşmesi imzalamak",
+   "Kurs yoluyla yetişmek isteyenler için ilgili kurumların belirlediği genel katılım şartlarını taşımak"
+  ],
+  "sure_ve_icerik": "Eğitim süresi ve içeriği, izlenen yola göre değişir. Mesleki eğitim merkezi yoluyla yetişenlerde eğitim kalfalık ve ustalık aşamalarından oluşur; haftanın bir günü mesleki eğitim merkezinde teorik dersler, kalan günlerde işyerinde usta öğretici gözetiminde uygulamalı çalışma yapılır. İçerikte teknik resim okuma, ölçme ve kontrol teknikleri, metal işleme tezgahlarının genel çalışma prensipleri, borverk tezgahının kurulması ve ayarlanması, takım seçimi ve bileme, iş güvenliği ve kalite kontrol konuları yer alır. İşbaşı eğitiminde ise kişi, deneyimli bir usta yanında tezgahı tanıyarak, basit işlemlerden karmaşık ve hassas işlemlere doğru kademeli olarak yetişir.",
+  "belge": "Mesleki eğitim merkezi yoluyla yetişenlere kalfalık ve ustalık belgesi, fark derslerini tamamlayanlara meslek lisesi diploması verilir. Kurs yoluyla yetişenlere kursu tamamladıklarına dair katılım/başarı belgesi verilir. Mesleki Yeterlilik Kurumu (MYK) tarafından düzenlenen ilgili alan belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Borverk operatörleri, büyük ve hassas metal parçaların delinmesi, oyulması ve işlenmesinin gerektiği ağır makine imalatı, kalıp imalatı, gemi inşa, enerji ekipmanları, savunma sanayii ve genel metal işleme/makine sanayii işletmelerinde istihdam edilir. Özel sektöre ait fabrika ve atölyelerde, büyük ölçekli makine ve ekipman üreten tesislerde çalışma olanağı bulunur. Sektördeki otomasyon ve CNC teknolojilerine geçiş eğilimi, klasik borverk operatörlüğü istihdamını zaman içinde etkileyebilmektedir.",
+ "kazanc": {
+  "egitim_suresince": "Mesleki eğitim merkezi veya çıraklık sözleşmesi kapsamında eğitim görenlere, 3308 sayılı Mesleki Eğitim Kanunu çerçevesinde asgari ücretin belirli bir oranından az olmamak üzere ücret ödenir ve iş kazası/meslek hastalığı sigortası devletçe karşılanır. Kurs yoluyla yetişenlerde ise ücret genellikle söz konusu olmaz.",
+  "egitim_sonrasi": [
+   "Yeni başlayan operatörlerin kazancı genellikle asgari ücret düzeyindedir.",
+   "Deneyim, ustalık düzeyi, işletmenin büyüklüğü ve sektöre göre kazanç artabilir.",
+   "Özel sektörde ücret genellikle işveren ile çalışan arasındaki karşılıklı anlaşmaya göre belirlenir; kamuya bağlı işletmelerde işçi statüsünde çalışanlar için toplu iş sözleşmesi hükümleri uygulanır."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleki eğitim merkezinden diploma alarak mezun olanlar, tercih ettikleri takdirde ilgili alanın devamı niteliğindeki yükseköğretim (ön lisans) programlarına sınavsız veya ek puanla geçiş hakkından yararlanabilir. Usta öğreticilik belgesi alarak mesleki eğitimde eğiticilik yapabilir.",
+  "is_hayatinda": "Deneyim kazandıkça usta operatörlüğe, ardından ustabaşılık veya atölye şefliği gibi görevlere yükselebilir. CNC tezgah kullanımı konusunda ek eğitim alarak CNC borverk/işleme merkezi operatörlüğüne geçiş yapabilir, kalite kontrol sorumluluğu üstlenebilir veya yeterli sermaye ve deneyimle kendi işyerini açabilir."
+ },
+ "benzer_meslekler": [
+  "Boring Matkap Tezgâhı Ayarcı-Operatörü (Metal İşçiliği)",
+  "Boring Matkap Tezgahı Operatörü-Metal İşçiliği",
+  "Matkap Tezgahı Ayarcı-Operatörü (Metal İşçiliği)",
+  "Matkap Tezgahı Operatörü-Metal İşçiliği",
+  "Freze Tezgahı Ayarcı-Operatörü (Metal İşçiliği)",
+  "Frezeci",
+  "Metal İşleme Tezgahı Ayarcısı"
+ ],
+ "ek_bilgiler": "Borverk (bohrwerk) tezgahları, özellikle büyük boyutlu ve ağır parçaların hassas şekilde delinmesi, oyulması ve frezelenmesinde kullanılır; bu nedenle meslek, genel metal işleme operatörlüğünden farklı olarak büyük ölçekli ve karmaşık parçalarla çalışmayı gerektirir. Sektörde CNC teknolojili borverk tezgahlarının kullanımı yaygınlaşmakta olup bu durum, mesleğin geleceğinde CNC bilgisi ve becerisinin önemini artırmaktadır.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T01:26:45",
+  "usage": {
+   "input_tokens": 4,
+   "output_tokens": 10256
+  }
+ }
+}

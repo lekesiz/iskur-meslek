@@ -1,0 +1,82 @@
+{
+ "gorevler": [
+  "İmal edilecek parçanın projelerini ve diğer şartnamelerini inceler.",
+  "Gerekli tespit aparatları ve diğer bağlama elemanları ile metali tezgahın tablasına doğru bir şekilde bağlar.",
+  "Torna bıçağını seçer ve tezgahın eksenine tespit eder.",
+  "Bıçağın hareketini sınırlamak veya hareket yönünü kontrol etmek için tezgahın tablasını, kılavuzlarını, tahdit parçalarını ve diğer kontrol elemanlarını ayarlar.",
+  "Torna bıçağına verilecek devrin limitini belirler ve tezgahı çalıştırır.",
+  "Torna bıçağını metale daldırmak için tezgahı el çarkları ile veya otomatik kontrol ayarları yaparak çalıştırır.",
+  "Torna bıçağına akıtılan yağın miktarını kontrol eder.",
+  "Ölçme aletleri yardımıyla talaş alma işleminin seyrini kontrol eder ve parçanın doğru bir şekilde işlenmesi için gerekli ayarları yapar.",
+  "Tezgahı bir operatör tarafından çalıştırılmak üzere ayarlar.",
+  "Silindir boşlukları için kılavuz delikler açar.",
+  "Tezgah takımlarını düzeltir ve biler.",
+  "Belirli tipteki bir silindir torna tezgahı üzerinde ihtisaslaşabilir.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "arac_gerec": [
+  "Boring matkap (torna) tezgahı",
+  "Torna bıçakları ve kesici takımlar",
+  "Tespit aparatları ve bağlama elemanları (mengene, pens, kelepçe)",
+  "Ölçme aletleri (kumpas, mikrometre, mastar, şablon)",
+  "Kesme ve soğutma sıvısı/yağlama sistemi",
+  "El çarkları ve tezgah kontrol kolları",
+  "Otomatik kontrol paneli/kumanda ünitesi",
+  "Teknik resim, proje ve şartnameler",
+  "Bileme ve taşlama aletleri",
+  "İş parçası bağlama tablası ve kılavuzlar",
+  "Kişisel koruyucu donanım (iş gözlüğü, eldiven, kulaklık, iş elbisesi)"
+ ],
+ "genel_ozellikler": [
+  "El ve göz koordinasyonu iyi,",
+  "Şekilleri ve uzamsal ilişkileri doğru algılayabilen,",
+  "Dikkatli ve sabırlı,",
+  "Teknik resim ve ölçü okuyabilen,",
+  "Alet ve makinelerle çalışmaktan hoşlanan,",
+  "Sorumluluk sahibi,",
+  "Fiziksel olarak dayanıklı,",
+  "Analitik düşünebilen"
+ ],
+ "calisma_ortami": "Boring Matkap Tezgâhı Ayarcı-Operatörü, genellikle fabrika veya atölye ortamında, kapalı mekânda ve ayakta çalışır. Çalışma ortamı gürültülü olabilir, yağ, talaş ve metal tozu gibi kirleticilerle karşılaşılabilir; bu nedenle iş güvenliği kurallarına ve kişisel koruyucu donanım kullanımına dikkat edilmesi gerekir. Üretim temposuna bağlı olarak vardiyalı çalışma söz konusu olabilir.\n\nÇalışırken büyük ölçüde makinenin başında bağımsız olarak görev yapar; parça teslimi, iş emirleri veya kalite kontrol konularında ustabaşı, mühendis ve diğer operatörlerle kısa süreli iletişim kurar. İş, dikkat ve bedensel dayanıklılık gerektirir; uzun süre ayakta durma ve tekrarlayan hareketler mesleğin bir parçasıdır.",
+ "egitim": {
+  "verildigi_yerler": "Bu mesleğin bağımsız bir çıraklık dalı veya meslek lisesi programı olarak resmî şekilde tanımlanmış, sabit bir eğitim rotası bulunmamaktadır. Meslekle ilgili temel bilgi ve beceriler genellikle mesleki ve teknik eğitimde Metal Teknolojisi alanı kapsamındaki programlarda, işyerlerinde işbaşında usta yanında yetişme yoluyla ve Halk Eğitim Merkezleri ile İŞKUR'un açtığı mesleki eğitim kurslarında kazanılmaktadır.",
+  "giris_kosullari": [
+   "İlköğretim mezunu olmak (mesleğin gerektirdiği minimum eğitim düzeyi)",
+   "Sağlık durumunun işin fiziksel gereklerine uygun olması (gerektiğinde sağlık raporu istenebilir)",
+   "Çıraklık/işbaşı eğitimi için bir işyeri bulmak ve işveren ile anlaşmak",
+   "Mesleki eğitim merkezi programlarına girişte ilgili yaş ve kayıt koşullarını taşımak"
+  ],
+  "sure_ve_icerik": "Mesleğe özgü resmî olarak belirlenmiş sabit bir eğitim süresi bulunmamaktadır. Kişi, Metal Teknolojisi alanındaki mesleki eğitim programlarında temel torna/tezgah bilgisi edinebilir, ardından işyerinde usta operatör gözetiminde boring matkap tezgahının ayar ve kullanım tekniklerini öğrenerek ustalaşır. Eğitim süresi işletmeye, kişinin önceki deneyimine ve öğrenme hızına göre değişmektedir. Eğitim ve çalışma sürecinde teknik resim okuma, ölçü aletleri kullanımı, tezgah ayarları, kesici takım seçimi ve iş güvenliği konuları öğretilir.",
+  "belge": "Mesleki ve teknik eğitim kapsamında devam edilen bir programdan diploma, kalfalık/ustalık belgesi alınabilir; kurs yoluyla yetişenlere katılım belgesi verilebilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Boring Matkap Tezgâhı Ayarcı-Operatörleri başta metal işleme ve makine imalat sanayi olmak üzere, otomotiv yedek parça üretimi, ağır sanayi atölyeleri, döküm ve makine fabrikaları, tersaneler ve savunma sanayine hizmet veren üretim tesislerinde çalışma olanağı bulabilir. İş bulma olanakları, sanayinin yoğunlaştığı bölgelerde (organize sanayi bölgeleri, büyük şehirler) daha fazladır. CNC teknolojisinin yaygınlaşması klasik boring tezgahlarının kullanımını azaltabilmekte, ancak hassas ve özel iş parçaları için tecrübeli ayarcı-operatörlere ihtiyaç duyulmaya devam etmektedir.",
+ "kazanc": {
+  "egitim_suresince": "Resmî çıraklık/mesleki eğitim kapsamında eğitim görülüyorsa 3308 sayılı Mesleki Eğitim Kanunu hükümlerine göre asgari ücretin belirli bir yüzdesi ödenir. İşbaşında usta yanında yetişme veya kurs sürecinde kazanç, işletme ile yapılan anlaşmaya bağlı olarak değişir.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Deneyim, uzmanlık (farklı tezgah tiplerinde ve CNC teknolojisinde bilgi/beceri) ve çalışılan işletmenin büyüklüğüne göre ücret artabilir.",
+   "Kamuya bağlı sanayi tesislerinde çalışanlar işçi statüsündeyse toplu iş sözleşmesi hükümlerine tabi olabilir; özel sektörde ücret işveren ile karşılıklı anlaşmaya göre belirlenir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleki ve teknik eğitim kapsamında Metal Teknolojisi alanından diploma, kalfalık veya ustalık belgesi alanlar, alanın devamı niteliğindeki yükseköğretim ön lisans/lisans programlarını tercih ederek eğitimlerini ilerletebilir.",
+  "is_hayatinda": "Deneyim kazandıkça usta operatörlüğe, ekip liderliğine, atölye şefliğine veya üretim planlama ve kalite kontrol gibi görevlere yükselebilir; CNC teknolojisi öğrenerek daha ileri tezgahlarda çalışabilir, isterse kendi küçük işletmesini açabilir."
+ },
+ "benzer_meslekler": [
+  "Boring Matkap Tezgahı Operatörü-Metal İşçiliği",
+  "Borverk (Bohrwerk) Operatörü",
+  "Matkap Tezgahı Ayarcı-Operatörü (Metal İşçiliği)",
+  "Matkap Tezgahı Operatörü-Metal İşçiliği",
+  "Freze Tezgahı Ayarcı-Operatörü (Metal İşçiliği)",
+  "Hadde Muylu Freze Tezgâhı Ayarcı-Operatörü (Metal İşçiliği)"
+ ],
+ "ek_bilgiler": "CNC teknolojisinin metal işleme sektöründe yaygınlaşması, klasik boring matkap tezgahı operatörlüğüne olan talebi zamanla azaltabilir; bu nedenle CNC tezgah bilgisi edinmek, mesleği yürütenler için istihdam olanaklarını artırıcı bir avantaj sağlayabilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T01:24:01",
+  "usage": {
+   "input_tokens": 4,
+   "output_tokens": 8125
+  }
+ }
+}

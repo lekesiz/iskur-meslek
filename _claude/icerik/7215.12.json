@@ -1,0 +1,72 @@
+{
+ "arac_gerec": [
+  "Motorlu tırmanır (cephe) platformu",
+  "Mast (direk) üniteleri",
+  "Ankraj aparatları ve bina bağlantı elemanları",
+  "Motorlu yürüyüş (tahrik) grubu",
+  "Güvenlik freni sistemi",
+  "Çelik halat/kablo donanımı",
+  "Yük test ağırlıkları",
+  "Platform kumanda paneli",
+  "Kişisel koruyucu donanım (emniyet kemeri, baret, eldiven)",
+  "Vinç ve kaldırma ekipmanları",
+  "El aletleri (anahtar takımı, tornavida vb.)",
+  "Yük ve denge gösterge/ölçüm cihazları",
+  "Telsiz/iletişim cihazları"
+ ],
+ "genel_ozellikler": [
+  "Yüksekte çalışmaktan korkmayan,",
+  "Dikkatli ve sorumluluk sahibi,",
+  "El ve beden becerisine sahip,",
+  "Teknik alet ve ekipmanları kullanabilen,",
+  "Takım çalışmasına uyumlu,",
+  "Fiziksel olarak dayanıklı,",
+  "İş güvenliği kurallarına titizlikle uyan,"
+ ],
+ "calisma_ortami": "Otomatik Cephe Platformcusu, açık havada ve genellikle yüksek katlı binaların dış cephesinde, yerden belirli bir yükseklikte çalışır. Çalışma ortamı rüzgâr, sıcak, soğuk ve yağış gibi hava koşullarından etkilenir; olumsuz hava koşullarında çalışma durdurulabilir. Düşme ve yüksekte çalışma riski bulunduğundan kişisel koruyucu donanım kullanımı ve iş güvenliği kurallarına uyum büyük önem taşır.\n\nMeslek elemanı genellikle bir ekip içinde çalışır; şantiye/inşaat personeli, iş güvenliği uzmanları, bina yöneticileri ve cephe bakım-temizlik ekipleriyle iş birliği yapar. Çalışma saatleri yürütülen projenin takvimine göre değişebilir, bazı dönemlerde mesai yapılabilir.",
+ "egitim": {
+  "verildigi_yerler": "Bu mesleğe yönelik resmî olarak tanımlanmış, örgün bir mesleki ve teknik eğitim programı bulunmamaktadır. Meslek elemanları genellikle inşaat/metal iş kollarında işbaşında usta yanında yetişir; ayrıca platform üretici veya ithalatçı firmaların düzenlediği operatör eğitimleri ile Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kurslarından yararlanılabilir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "Yüksekte çalışmaya engel bir sağlık sorununun bulunmaması (sağlık raporu ile belgelenir)",
+   "18 yaşını doldurmuş olmak (yüksekte çalışma ve iş güvenliği mevzuatı gereği genellikle tercih edilir)"
+  ],
+  "sure_ve_icerik": "Standart bir öğretim programı ve belirli bir eğitim süresi bulunmamaktadır. Eğitim; işbaşında usta yanında uygulamalı olarak öğrenme ile platform üretici/satıcı firmaların düzenlediği kısa süreli teorik ve uygulamalı kurslardan (montaj, işletme, bakım, yüksekte çalışma güvenliği) oluşur. Çalışılan iş koluna göre iş sağlığı ve güvenliği mevzuatının gerektirdiği yüksekte çalışma ve kaldırma ekipmanı kullanım eğitimleri de alınır.",
+  "belge": "Katılınan kurs ve eğitimler sonunda katılım/başarı belgesi verilir. İş sağlığı ve güvenliği mevzuatı kapsamında alınan 'yüksekte çalışma' ve ilgili iş ekipmanı kullanım eğitim belgeleri mesleğin yürütülmesinde önemlidir. Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Meslek elemanları başlıca inşaat ve yapı sektöründe; çok katlı bina, gökdelen, alışveriş merkezi gibi yapıların dış cephe temizlik, bakım, onarım, kaplama ve boya işlerini yürüten firmalarda çalışır. Cephe platformu kiralama ve işletme hizmeti veren firmalar, bina yönetimleri ve yapı bakım hizmeti sunan şirketler de bu meslek elemanlarını istihdam eder. İş olanakları, kentsel dönüşüm ve yüksek yapı inşaatlarının yoğun olduğu büyük şehirlerde daha fazladır.",
+ "kazanc": {
+  "egitim_suresince": "Bu mesleğe yönelik standart bir çıraklık veya mesleki eğitim programı bulunmadığından, işbaşında yetişme sürecinde genellikle asgari ücret düzeyinde veya işveren ile yapılan anlaşmaya göre ücret alınır.",
+  "egitim_sonrasi": [
+   "Kamu kurum ve kuruluşlarında istihdam edilenler 657 sayılı Devlet Memurları Kanunu veya tabi oldukları iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde çalışanların kazancı işyerinin büyüklüğüne, kişinin tecrübesine, bilgi ve becerisine, çalışma kapasitesine ve sektörün ücret düzeyine göre değişebilmektedir; mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Bu mesleğe yönelik örgün, kademeli bir mesleki eğitim programı bulunmadığından belirli bir eğitimde ilerleme sistemi yoktur. Kişi deneyim kazandıkça katıldığı ek kurs ve eğitimlerle (yüksekte çalışma, iş güvenliği, teknik bakım) bilgi ve becerisini geliştirebilir.",
+  "is_hayatinda": "Deneyim kazanan meslek elemanları ekip sorumlusu veya usta konumuna gelebilir, platform bakım ve teknik servis alanında uzmanlaşabilir, iş sağlığı ve güvenliği uzmanlığı gibi ilgili alanlara yönelebilir. İsteyen ve gerekli koşulları sağlayan kişiler bağımsız olarak platform kiralama/işletme işi kurabilir."
+ },
+ "benzer_meslekler": [
+  "Sapancı (Kaldırma Teçhizatlı) -İnşaat",
+  "Sapancı (Kaldırma Teçhizatlı)",
+  "İşaretçi/Sapancı",
+  "Asma Köprü Kablo İşçisi"
+ ],
+ "ek_bilgiler": "Yüksekte çalışma içeren bir meslek olduğundan, iş sağlığı ve güvenliği mevzuatı kapsamında düzenli sağlık kontrolü ve periyodik güvenlik eğitimi gerekebilir. Bu nitelikteki işler, 6331 sayılı İş Sağlığı ve Güvenliği Kanunu kapsamında tehlikeli/çok tehlikeli işler sınıfında değerlendirilebileceğinden, çalışılacak işyerinin ilgili mevzuat gerekliliklerinin öğrenilmesi önerilir.",
+ "gorevler": [
+  "Platformun mast (direk) montajını binaya ankraj yaparak gerçekleştirir,",
+  "Motorlu yürüyüş grubunun ve güvenlik frenlerinin testlerini yapar,",
+  "Platformun yük sınırlarına ve denge kurallarına göre çalışmasını sağlar,",
+  "Personeli platform kullanımı ve güvenlik ekipmanları hakkında bilgilendirir,",
+  "İş bitiminde sistemi emniyetli bir şekilde demonte ederek istifler,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T00:56:14",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5945
+  }
+ }
+}

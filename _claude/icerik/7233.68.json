@@ -1,0 +1,76 @@
+{
+ "arac_gerec": [
+  "El takımları (anahtar, tornavida, pense, çekiç vb.)",
+  "Ölçme ve kontrol aletleri (kumpas, komparatör, manometre)",
+  "Torklu anahtarlar ve pnömatik/havalı el aletleri",
+  "Hidrolik kaldırma ekipmanları ve kriko",
+  "Kompresör ve basınçlı hava test cihazları",
+  "Yağlama ve gres dolum ekipmanları",
+  "Fren sistemi test ve ölçüm cihazları",
+  "Multimetre ve basit elektrik-elektronik test cihazları",
+  "Boji kaldırma ve taşıma donanımları",
+  "Kişisel koruyucu donanım (iş eldiveni, koruyucu gözlük, baret, iş ayakkabısı)",
+  "Taşınabilir aydınlatma ekipmanları (el feneri, baş lambası)",
+  "Bakım kayıt ve takip sistemleri (bilgisayar, tablet, bakım yazılımı)",
+  "Sızdırmazlık test düzenekleri"
+ ],
+ "genel_ozellikler": [
+  "Makine parçaları arasındaki ilişkiyi görebilen,",
+  "El ve beden becerisine sahip,",
+  "El-göz koordinasyonunu etkin kullanabilen,",
+  "Dikkatli, sabırlı ve sorumluluk sahibi,",
+  "Ekip halinde çalışmaya uyumlu,",
+  "Fiziksel olarak dayanıklı,",
+  "Teknik resim, şema ve bakım talimatlarını okuyup uygulayabilen,",
+  "İş sağlığı ve güvenliği kurallarına titizlikle uyan"
+ ],
+ "calisma_ortami": "\"Raylı sistem araçları mekanik bakım ve onarımcıları, genellikle bakım atölyelerinde, depo ve hangar sahalarında, bazen de açık alanda ray üzerinde çalışırlar. Çalışma ortamı gürültülü, yağlı ve tozlu olabilir; ağır parça ve ekipmanlarla çalışma, araçların alt kısımlarında eğilerek veya çukurlarda çalışma gerektirebilir. Trenlerin sefer saatleri dışında bakım yapılması gerektiğinden çalışma genellikle vardiyalı düzende, bazen gece saatlerini de kapsayacak şekilde yürütülür.\\n\\nMeslek çalışanları; bakım ekibi arkadaşları, teknisyenler, mühendisler ve işletme amirleriyle sürekli iletişim ve koordinasyon içinde görev yaparlar. İş, dikkat gerektiren ve demiryolu/metro emniyeti açısından sorumluluk içeren nitelikte olup belirli risklere (ağır yük, hareketli parça, elektrik hattı yakınlığı) karşı koruyucu donanım kullanımı önemlidir.\"",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi, mesleki ve teknik eğitim okul/kurumlarının motorlu araçlar veya raylı sistemler teknolojisi ile ilgili alan ve dallarında verilebilmektedir. Ayrıca raylı sistem işletmeleri (TCDD, metro/tramvay işletmeciliği yapan kuruluşlar) kendi bünyelerinde işbaşı eğitim ve kurs programları düzenleyebilmekte; Halk Eğitim Merkezleri ile İŞKUR'un açtığı mesleki eğitim kursları da bu alanda beceri kazandırabilmektedir.",
+  "giris_kosullari": [
+   "En az ortaokul mezunu olmak",
+   "Sağlık durumunun mesleğin gerektirdiği fiziksel koşullara (ağır kaldırma, dar alanda çalışma, vardiyalı çalışma) uygun olması",
+   "İlgili mesleki ve teknik eğitim programına veya kuruma kayıt/başvuru şartlarını sağlamak"
+  ],
+  "sure_ve_icerik": "Mesleki ve teknik eğitim kurumlarında örgün eğitim genellikle 4 yıl sürer ve genel kültür dersleri ile meslek derslerinden oluşur; uygulamalı eğitim işletmelerde usta öğretici gözetiminde yapılır. Eğitimde motor, şanzıman, fren, süspansiyon ve boji sistemleri, yağlama ve bakım teknikleri, hidrolik-pnömatik sistemler, iş sağlığı ve güvenliği ile teknik dokümantasyon okuma konuları yer alır. Mesleğe girişte veya sonrasında, işveren kuruluşlar tarafından verilen kurumsal bakım-onarım eğitimleri ve işbaşında usta yanında yetişme de yaygın bir yoldur.",
+  "belge": "Eğitimi tamamlayanlara meslek lisesi diploması veya mesleki eğitim merkezi kalfalık/ustalık belgesi verilir; işletme içi eğitimlerde ise kurum tarafından düzenlenen yetkinlik/yetki belgesi alınabilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "\"Raylı sistem araçları mekanik bakım ve onarımcıları başta TCDD olmak üzere demiryolu işletmeciliği yapan kamu kuruluşlarında; büyükşehir belediyelerine bağlı metro ve tramvay işletme şirketlerinde; raylı sistem araçları üreten veya bakımını üstlenen özel firmaların bakım atölye ve tesislerinde çalışabilirler. Şehirlerde metro ve tramvay hatlarının yaygınlaşması bu meslekteki istihdam olanaklarını artırmaktadır.\"",
+ "kazanc": {
+  "egitim_suresince": "Örgün mesleki eğitim kapsamında işletmede eğitim gören öğrencilere 3308 sayılı Mesleki Eğitim Kanunu çerçevesinde asgari ücretin belirli bir oranında ücret ödenir; iş kazası ve meslek hastalığı sigortası devletçe karşılanır. İşletme içi kurs ve usta yanında yetişme yoluyla eğitim alanlarda ise genellikle çalıştıkları kurumun ücret politikası uygulanır.",
+  "egitim_sonrasi": [
+   "Kamu kurum ve kuruluşlarında (TCDD, belediye iştirakleri vb.) çalışanlar, memur statusundeyse 657 sayılı Kanuna, işçi statusundeyse ilgili toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde kazanç, işyerinin büyüklüğü, çalışanın deneyimi, bilgi ve becerisine göre değişmekle birlikte mesleğe yeni başlayanlarda genellikle asgari ücret düzeyindedir.",
+   "Deneyim ve uzmanlaşmayla birlikte kazanç düzeyi artabilir."
+  ]
+ },
+ "gorevler": [
+  "Araçların alt takım ve tekerlek (boji) kontrollerini yapar,",
+  "Fren diskleri, balatalar ve havalı sistemlerdeki arızaları giderir,",
+  "Yağlama, filtre değişimi ve sızdırmazlık testlerini yürütür,",
+  "Kapı ve bağlantı mekanizmalarının fonksiyonel kontrollerini yapar,",
+  "Bakım kayıtlarını teknik sisteme işleyerek güvenli seyrüsefer onayı verir,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Meslek lisesi veya mesleki eğitim merkezinden diploma alanlar, istedikleri takdirde raylı sistemler teknolojisi, makine mühendisliği veya ilgili alanlardaki yükseköğretim (ön lisans/lisans) programlarına sınavla girebilir; mezunlar ayrıca kurum içi veya dışı kurs ve sertifika programlarıyla bilgi ve becerilerini geliştirebilirler.",
+  "is_hayatinda": "Deneyim kazandıkça ustabaşı, bakım ekip sorumlusu, bakım şefi veya kalite kontrol sorumlusu gibi görevlere yükselebilirler. İlgili eğitimleri tamamlayanlar teknisyen veya tekniker kadrolarına geçiş yapabilir."
+ },
+ "benzer_meslekler": [
+  "Mekaniker-Vagon",
+  "Mekaniker-Lokomotif",
+  "Makine Bakım ve Onarımcısı",
+  "Makine Bakım Ustası",
+  "Kestirimci Bakım Elemanı",
+  "İş Makineleri Hidrolik Sistemler Bakım ve Onarımcısı"
+ ],
+ "ek_bilgiler": "\"Kentlerde metro ve tramvay hatlarının yaygınlaşması ile demiryolu taşımacılığındaki yatırımlar, bu meslekteki istihdam olanaklarını artırmaktadır. Çalışma koşulları ve demiryolu emniyeti açısından taşıdığı sorumluluk nedeniyle, mesleğin bazı görevleri tehlikeli/çok tehlikeli işler kapsamında değerlendirilebilir; bu nedenle Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir.\"",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T03:09:07",
+  "usage": {
+   "input_tokens": 4,
+   "output_tokens": 10209
+  }
+ }
+}

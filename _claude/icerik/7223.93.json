@@ -1,0 +1,76 @@
+{
+ "arac_gerec": [
+  "CNC router makinesi ve kontrol paneli",
+  "Bilgisayar ve CAD/CAM (G-kod) yazılımı",
+  "Kesim bıçakları ve freze uçları",
+  "Malzeme sabitleme aparatları (vakum tablası, mengene, kelepçeler)",
+  "Ölçüm aletleri (kumpas, mastar, şerit metre)",
+  "Toz/talaş emme ve vakumlama sistemi",
+  "Hava kompresörü",
+  "Soğutma ve yağlama sıvıları",
+  "Kişisel koruyucu donanım (gözlük, kulaklık, eldiven, toz maskesi)",
+  "El aletleri (anahtar takımı, tornavida)",
+  "İşlenecek malzemeler (ahşap, MDF, plastik, yumuşak metal levha)",
+  "Temizlik ve bakım ekipmanları"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve titiz,",
+  "El ve göz koordinasyonu iyi,",
+  "Şekilleri ve ölçüleri doğru algılayıp zihinde canlandırabilen,",
+  "Bilgisayar ve teknik çizim okuma becerisine sahip,",
+  "Makine ve aletlerle çalışmaktan hoşlanan,",
+  "Sorumluluk sahibi ve iş güvenliği kurallarına uyan,",
+  "Uzun süre ayakta ve dikkat gerektiren işlerde çalışabilen,",
+  "Takım çalışmasına uyumlu"
+ ],
+ "calisma_ortami": "CNC Router Operatörü, genellikle atölye veya fabrika ortamında, kapalı mekânda ve ayakta çalışır. Çalışma ortamında makine gürültüsü, ahşap talaşı veya plastik tozu, bazen kesme sıvısı kokusu bulunabilir; bu nedenle koruyucu gözlük, kulaklık ve toz maskesi gibi kişisel koruyucu donanım kullanımı önemlidir. Çalışma saatleri işyerinin üretim programına göre değişebilir, bazı işletmelerde vardiyalı çalışma söz konusu olabilir.\n\nMeslek çalışanı büyük ölçüde makine ile birebir ilgilenir; üretim sürecinde atölye şefi, kalite kontrol sorumlusu ve diğer tezgah operatörleriyle kısa süreli iş ilişkisi kurar. Mobilya, ahşap doğrama, reklam/tabela ve plastik işleme gibi üretim yapan işletmelerde çalışır.",
+ "egitim": {
+  "verildigi_yerler": "CNC Router Operatörlüğü için ayrı, örgün bir mesleki eğitim merkezi dalı bulunmamaktadır. Mesleki ve teknik eğitim okullarının makine/ahşap teknolojileri alanlarında bu konuda temel bilgiler verilebilmekte, ayrıca Halk Eğitim Merkezleri ile İŞKUR'un açtığı mesleki eğitim kurslarında CNC router/CNC kesim operatörlüğüne yönelik kurslar düzenlenmektedir. Meslek büyük ölçüde işyerinde usta yanında çalışılarak öğrenilmektedir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "Açılan kurslara katılım için genellikle ortaokul veya lise mezuniyeti istenebilir",
+   "Sağlık durumunun mesleğin gerektirdiği işlere (görme, işitme, el-kol sağlığı) uygun olması",
+   "İş hayatına fiilen başlamak için 18 yaşını doldurmuş olmak"
+  ],
+  "sure_ve_icerik": "Örgün bir eğitim süresi tanımlı değildir. Açılan kurslar genellikle birkaç haftadan birkaç aya kadar sürmekte olup; CNC router makinesinin tanıtımı, G-kod okuma ve temel programlama, malzeme sabitleme ve sıfırlama, kesici takım seçimi, kesim sürecinin izlenmesi, ölçü kontrolü ve iş sağlığı-güvenliği konularını içerir. Kurs eğitimi, işyerinde usta yanında yapılan pratik çalışmayla desteklenir.",
+  "belge": "Katıldığı kursu başarıyla tamamlayanlara kurs bitirme/katılım belgesi verilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, özellikle büyük ve kurumsal işletmelerde istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "CNC Router Operatörleri; mobilya imalatı, ahşap doğrama ve dekorasyon, plastik işleme, reklam/tabela üretimi, kalıp ve model imalatı ile yumuşak metal işleme yapan özel sektör atölye ve fabrikalarında istihdam edilmektedir. Bilgisayar kontrollü üretim teknolojilerinin yaygınlaşması bu alandaki iş imkânlarını desteklemekle birlikte, iş bulma olanağı büyük ölçüde ilgili üretim sektörlerinin (mobilya, ahşap, plastik vb.) büyüklüğüne ve bulunduğu bölgedeki sanayi yoğunluğuna göre değişmektedir.",
+ "kazanc": {
+  "egitim_suresince": "Kurs döneminde genellikle ücret ödenmez; işyerinde çalışarak mesleği öğrenenlere ise genellikle asgari ücret düzeyinde ödeme yapılır. 3308 sayılı Mesleki Eğitim Kanunu kapsamında yürütülen programlarda katılımcılara ilgili mevzuata uygun ödeme yapılabilir.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Deneyim, bilgisayarlı kesim yazılımlarına hakimiyet ve çalışılan işletmenin büyüklüğüne bağlı olarak kazanç artabilir.",
+   "Özel sektörde ücret, işveren ile çalışan arasındaki karşılıklı anlaşmaya göre belirlenir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Bu meslekte örgün kalfalık/ustalık eğitimi tanımlı değildir; çalışan, ilgili mesleki ve teknik eğitim programlarına veya kurslara katılarak ya da Mesleki Yeterlilik Kurumu (MYK) belgesi alarak bilgi ve beceri düzeyini artırabilir.",
+  "is_hayatinda": "Deneyim kazanan CNC Router Operatörleri; usta operatörlüğe, tezgah ayarcılığına, üretim/atölye şefliğine veya kalite kontrol sorumluluğuna yükselebilir. Yeterli birikim ve sermayeye sahip olanlar kendi atölyelerini açabilir."
+ },
+ "benzer_meslekler": [
+  "CNC Freze Tezgahı Operatörü",
+  "CNC Lazerle Kesme Operatörü",
+  "CNC Plazma Kesim Operatörü",
+  "CNC Torna Tezgahı Operatörü",
+  "NC/CNC Tezgah Operatörü",
+  "CNC Punch Makinesi Operatörü"
+ ],
+ "ek_bilgiler": "Bilgisayarlı üretim teknolojilerinin mobilya, ahşap ve plastik işleme sektörlerinde yaygınlaşması, bu mesleğe olan talebi destekleyebilir. Mesleki Yeterlilik Kurumu (MYK) belgesine sahip olmak, özellikle kurumsal işletmelerde istihdamda avantaj sağlayabilir.",
+ "gorevler": [
+  "CNC kesim programını (G-kod) makineye yükler,",
+  "Malzemeyi makine tablasına sabitler ve sıfırlama yapar,",
+  "Kesim bıçaklarını seçer ve takımı tezgaha bağlar,",
+  "Kesim işlemini başlatır ve sürecin hassasiyetini izler,",
+  "Bitmiş parçaların ölçü kontrolünü ve makine temizliğini yapar,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T02:04:57",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5945
+  }
+ }
+}

@@ -1,0 +1,79 @@
+{
+ "arac_gerec": [
+  "Traktör, biçerdöver ve benzeri motorlu çiftlik makineleri",
+  "Pulluk, mibzer, çapa makinesi gibi toprak işleme ekipmanları",
+  "Harman makinesi, döven, savurma makinesi",
+  "Balya makinesi (saman/ot balyalayıcı)",
+  "Süt sağım makinesi ve ekipmanı",
+  "Römork ve çeki demiri",
+  "Tomruk çekme teçhizatı",
+  "El aletleri (anahtar, pense, tornavida, varyoz)",
+  "Yağdanlık ve çeşitli madeni yağlar",
+  "Yakıt (mazot, benzin) ve yakıt ikmal ekipmanı",
+  "Yedek parça ve basit tamir takımı",
+  "Koruyucu eldiven, gözlük, iş elbisesi"
+ ],
+ "benzer_meslekler": [
+  "Biçerdöver Operatörü",
+  "Biçerdöver Operatör Yardımcısı",
+  "Traktör Şoförü",
+  "Diğer Çiftlik Makineleri Operatörleri",
+  "Tarımsal Mücadele Alet ve Makineleri Operatörü",
+  "Pancar Boşaltma Operatörü"
+ ],
+ "genel_ozellikler": [
+  "Fiziksel olarak güçlü ve dayanıklı,",
+  "El, göz ve ayaklarını eşgüdümle kullanabilen,",
+  "Mekaniğe ve makine kullanımına ilgili,",
+  "Dikkatli, sabırlı ve sorumluluk sahibi,",
+  "Açık havada ve değişken hava koşullarında çalışmaya istekli,",
+  "Tarım ve hayvancılık işlerine ilgi duyan,",
+  "Pratik zekaya ve problem çözme becerisine sahip,",
+  "Takım halinde çalışmaya uyumlu"
+ ],
+ "calisma_ortami": "Motorlu Çiftlik Makineleri Operatörü çalışmalarını büyük ölçüde açık havada, tarım arazilerinde ve çiftlik içinde yürütür; makine bakım ve küçük onarım işlerini ise genellikle çiftlik veya işletme atölyesinde yapar. Çalışma ortamı mevsime, hava koşullarına ve yapılan işin türüne (sürme, ekme, biçme, harman, sağım vb.) göre tozlu, gürültülü ve yorucu olabilir; ekim-hasat dönemlerinde uzun ve düzensiz saatlerle çalışılabilir.\n\nİşini genellikle tek başına makine üzerinde yürütse de, iş öncesi ve sonrasında çiftlik sahibi veya işletme yöneticisi, diğer tarım işçileri ve gerektiğinde makine bakım-onarım elemanlarıyla iletişim kurar. Dikkatsiz kullanım, yorgunluk veya makine arızaları iş kazası riski oluşturabileceğinden iş güvenliği kurallarına uyum önemlidir.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi için resmi olarak tanımlanmış tek bir örgün program bulunmamaktadır. Eğitim; tarım alanında eğitim veren mesleki ve teknik eğitim kurumlarının ilgili alanlarında, Halk Eğitim Merkezleri ve İŞKUR'un açtığı tarım makineleri kullanımı kurslarında verilebildiği gibi, büyük ölçüde çiftlik veya işletme içinde usta yanında yetişerek de kazanılmaktadır.",
+  "giris_kosullari": [
+   "En az ilköğretim/ilkokul mezunu olmak",
+   "Traktör ve benzeri tarım araçlarını karayolunda kullanabilmek için ilgili mevzuata göre sürücü belgesi (F sınıfı ehliyet) alabilecek yaşta olmak",
+   "Mesleği icra etmesine engel bir sağlık sorunu bulunmamak",
+   "Fiziksel olarak dayanıklı ve açık hava koşullarında çalışmaya uygun olmak"
+  ],
+  "sure_ve_icerik": "Kurs ve eğitim süreleri, veren kuruma göre değişmekle birlikte genellikle temel makine bilgisi, motor ve mekanik sistemler, tarım makinelerinin kullanımı, periyodik bakım, iş güvenliği ve trafik bilgisi konularını kapsar. Uygulamalı eğitim, gerçek tarım makineleri üzerinde ve işbaşında usta yanında tamamlanır. Pratikte beceri kazanımı zaman alabileceğinden mesleğe genellikle çiftlikte yardımcı olarak başlanıp deneyimle operatörlüğe geçilir.",
+  "belge": "Katılınan kursu başarı ile tamamlayanlara katılım/başarı belgesi verilebilir; traktör gibi araçları karayolunda kullanabilmek için sürücü belgesi (F sınıfı ehliyet) alınması gerekir. Mesleki Yeterlilik Kurumu (MYK) belgesi, bazı işyerlerinde istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Motorlu Çiftlik Makineleri Operatörleri; özel çiftlikler ve tarım işletmeleri, tarımsal kooperatifler ve birlikler, büyükbaş/küçükbaş hayvancılık işletmeleri, tarım aleti ve makinesi kiralama hizmeti veren işletmeler ile kamuya bağlı tarımsal üretim işletmelerinde çalışabilirler. Ayrıca kendi arazisinde veya mevsimlik olarak başka çiftçilere hizmet vererek bağımsız şekilde de çalışabilirler. İş bulma olanakları, tarımın mekanizasyon düzeyine ve bölgesel tarımsal üretim hacmine göre değişmekte, özellikle hasat dönemlerinde talep artmaktadır.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğe genellikle çiftlikte yardımcı/çırak olarak başlanır ve eğitim işbaşında usta yanında sürdürülür; bu dönemde genellikle asgari ücret düzeyinde veya mevsimlik/parça başı ücret alınabilir.",
+  "egitim_sonrasi": [
+   "Kamuya bağlı tarımsal işletmelerde çalışanlar, statülerine göre 657 sayılı Devlet Memurları Kanunu'na veya işçi statüsündeyse ilgili toplu iş sözleşmesi hükümlerine tabi olarak ücret alır.",
+   "Özel sektörde ve çiftliklerde kazanç; işletmenin büyüklüğü, çalışma şekli (sürekli/mevsimlik), operatörün deneyimi ve yeteneğine göre değişmekte, genellikle asgari ücret düzeyinde başlamakta, deneyimle birlikte artabilmektedir.",
+   "Kendi hesabına çalışanların kazancı, hizmet verdiği çiftçi sayısına, mevsime ve bölgesel tarımsal faaliyet yoğunluğuna göre değişkenlik gösterir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Deneyim kazandıkça biçerdöver gibi daha karmaşık ve özel çiftlik makinelerinin kullanımında uzmanlaşılabilir; isteyenler tarım makineleri bakım-onarımı konusunda ek eğitim alarak bu alana yönelebilir.",
+  "is_hayatinda": "Tecrübe ve başarıya bağlı olarak baş operatör, ekip sorumlusu ya da işletme/çiftlik yöneticisi gibi konumlara yükselinebilir. Deneyimli operatörler kendi makinelerini edinerek başka çiftçilere hizmet veren bağımsız bir işletme kurabilir ya da tarım makineleri satış ve servis sektörüne geçiş yapabilir."
+ },
+ "gorevler": [
+  "Toprağı süren, eken, ürünü biçen, harmanlayan, döğen, savuran, balyalayan, süt sağan ve diğer işlerle ilgili motorlu çiftlik araçlarını ve teçhizatını kullanır,",
+  "Harman döver,",
+  "Tahılları ayıran ve diğer yerinde duran makineleri kurar, ayarlar ve çalıştırır,",
+  "Çiftlik traktörlerine römork bağlayarak nakliyat yapar,",
+  "Ağaç tomruklarını çeker ve bunlarla ilgili diğer işleri yapar,",
+  "Hareket eden ve yerinde duran makineleri temizler, yağlar ve bakımını yapar,",
+  "Küçük arızaları tamir eder,",
+  "Belirli tipte makine, alet ve teçhizatın çalıştırılmasında uzmanlaşabilir ve uygulamada bulunabilir,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ek_bilgiler": "Mesleğin icrası, Türkiye'de tarımsal mekanizasyon düzeyine ve işletme büyüklüğüne göre değişkenlik gösterir; küçük aile işletmelerinde çok yönlü (sürme, ekim, hasat, hayvan bakımı vb.) görev yapılırken, büyük işletmelerde belirli bir makine türünde uzmanlaşma daha olasıdır. Çalışma genellikle tarımsal takvime bağlı olup mevsimlik yoğunluk gösterebilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T18:31:13",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5769
+  }
+ }
+}

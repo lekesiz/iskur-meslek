@@ -1,0 +1,78 @@
+{
+ "arac_gerec": [
+  "Konverter ve pota (ladle)",
+  "Tandiş (ara döküm kabı)",
+  "Sürekli döküm kalıbı (mold)",
+  "Sıvı metal sıcaklık ölçüm cihazları (termokupl, pirometre)",
+  "Seviye ölçüm sensörleri ve göstergeleri",
+  "Döküm kumanda panosu/kontrol ünitesi",
+  "Vinç/kreyn ve pota taşıma ekipmanları",
+  "Oksijen lansı ve numune alma aparatları",
+  "Soğutma su devresi ekipmanları",
+  "Haberleşme cihazları (telsiz, interkom)",
+  "Isıya dayanıklı özel iş elbisesi, yüz siperliği, eldiven, baret, çelik burunlu ayakkabı gibi kişisel koruyucu donanım",
+  "Temel el aletleri (pense, maşa, kazıma aparatları vb.)"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve tedbirli,",
+  "Sorumluluk duygusu yüksek,",
+  "Fiziksel olarak dayanıklı ve güçlü,",
+  "Yüksek ısı ve zor çalışma koşullarına uyumlu,",
+  "Hızlı ve doğru karar verebilen,",
+  "El-göz koordinasyonu iyi,",
+  "Ekip çalışmasına yatkın,",
+  "İş sağlığı ve güvenliği kurallarına duyarlı,"
+ ],
+ "calisma_ortami": "Sürekli döküm işçileri, demir-çelik ve metal üretim tesislerinin sürekli döküm bölümlerinde, çoğunlukla kapalı ancak çok yüksek ısıya, gürültüye, kıvılcım ve toz riskine açık ağır sanayi ortamlarında çalışır. Sıvı metalle doğrudan temas riski nedeniyle yanık, sıçrama ve iş kazası tehlikesi yüksektir; bu nedenle kişisel koruyucu donanım kullanımı zorunludur. Çalışma genellikle vardiya sistemiyle (gündüz-gece dönüşümlü) sürdürülür ve üretimin kesintisiz devam etmesi beklenir.\n\nMeslek mensupları, konverter ve döküm operatörleri, amirler, bakım ekipleri ve kalite kontrol personeli ile sürekli iletişim ve koordinasyon içinde çalışır. Dikkat dağınıklığı veya ekip içi iletişim eksikliği hem üretim kalitesini hem de iş güvenliğini olumsuz etkileyebilir.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin örgün eğitim sisteminde doğrudan karşılığı olan ayrı bir mesleki ve teknik eğitim programı bulunmamaktadır. Meslek genellikle demir-çelik ve metal üretim tesislerinde işbaşında usta yanında yetiştirilerek kazanılır. Metalurji ve malzeme teknolojisi, endüstriyel üretim veya maden ile ilgili mesleki ve teknik ortaöğretim/ön lisans programları, mesleğe girişte ve teorik bilgi edinmede destekleyici olabilir. Ayrıca Halk Eğitim Merkezleri ve İŞKUR tarafından açılan kısa süreli mesleki eğitim kursları da bu alanda temel bilgi kazandırabilir.",
+  "giris_kosullari": [
+   "İlköğretim mezunu olmak (mesleğin gerektirdiği minimum eğitim düzeyi)",
+   "İşletmenin belirlediği sağlık ve fiziksel uygunluk şartlarını taşımak",
+   "Yüksek ısı ve ağır çalışma koşullarına uygun olmak",
+   "İş sağlığı ve güvenliği eğitimlerine katılmaya ve kurallara uymaya istekli olmak"
+  ],
+  "sure_ve_icerik": "Mesleğin standart ve resmî bir eğitim süresi ile müfredatı bulunmamaktadır. Eğitim, işletme bünyesinde deneyimli bir usta veya operatör nezaretinde, sürekli döküm tesisinin işleyişi, iş güvenliği kuralları ve kalite standartları konularında uygulamalı olarak verilir; bu süreç genellikle birkaç aylık bir oryantasyon ve işbaşı eğitim dönemini kapsar. İŞKUR ve Halk Eğitim Merkezlerinin açtığı mesleki kurslar, temel metal üretim bilgisi ve iş güvenliği konularında tamamlayıcı eğitim sağlayabilir.",
+  "belge": "Mesleğe özgü zorunlu bir diploma bulunmamakla birlikte, katılınan kursların bitirme/katılım belgeleri, işletme tarafından verilen işbaşı eğitim/usta yanı belgesi ve tehlikeli işler kapsamında alınan iş sağlığı ve güvenliği eğitim belgesi önemlidir."
+ },
+ "calisma_alanlari": "Sürekli döküm işçileri, başta entegre demir-çelik fabrikaları, haddehaneler ve diğer metal üretim/döküm tesisleri olmak üzere ağır sanayi kuruluşlarında istihdam edilir. Çalışma alanları genellikle büyük ölçekli özel sektör üretim tesisleriyle sınırlıdır; kamu sektöründe bu meslekte istihdam oldukça sınırlıdır. İş imkânları, demir-çelik üretiminin yoğunlaştığı sanayi bölgelerinde daha fazladır.",
+ "kazanc": {
+  "egitim_suresince": "İşletme bünyesinde usta yanında yetişme sürecinde çalışanlara işletmenin belirlediği bir ücret ödenir; bu dönemde iş kazası ve meslek hastalığı sigortası ile diğer sosyal haklar işveren tarafından sağlanır.",
+  "egitim_sonrasi": [
+   "İşe yeni başlayanlar için kazanç genellikle asgari ücret düzeyindedir.",
+   "Deneyim, vardiya/nöbet durumu, işletmenin büyüklüğü ve üretim yoğunluğuna bağlı olarak ücret zamanla artabilir.",
+   "Kamu iktisadi teşekküllerinde işçi statüsünde çalışanların ücreti ilgili toplu iş sözleşmesi hükümlerine göre, özel sektörde ise işveren ile çalışan arasındaki anlaşmaya göre belirlenir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğin örgün bir eğitim kademesi veya belirli bir yükseköğretim yolu bulunmadığından, mesleki ilerleme büyük ölçüde iş deneyimi, işletme içi eğitimler ve katılınan kurslarla sağlanır. İsteyen ve uygun şartları taşıyan kişiler, metalurji ve malzeme mühendisliği veya ilgili teknik programlara yönelerek mesleki bilgi birikimlerini ve kariyer olanaklarını geliştirebilir.",
+  "is_hayatinda": "Yeterli deneyim ve bilgi birikimine sahip olanlar; usta, ekip şefi, vardiya amiri veya sürekli döküm ustabaşı gibi daha üst görevlere yükselebilir."
+ },
+ "benzer_meslekler": [
+  "Sürekli Döküm Ustası",
+  "Konverter Operatörü",
+  "Konverter Operatör Sorumlusu",
+  "Ark Ocağı Operatörü",
+  "Yüksek Fırın Kumanda Operatörü",
+  "İzabeci"
+ ],
+ "ek_bilgiler": "Bu meslek, sıvı metalle ve yüksek ısıyla doğrudan çalışma gerektirdiğinden iş sağlığı ve güvenliği açısından riskli işler kapsamında değerlendirilebilir; işe alımda sağlık raporu ve iş güvenliği eğitimi genellikle aranmaktadır. Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir.",
+ "gorevler": [
+  "İş sağlığı ve güvenliği konusundaki yasal düzenlemelere ve işyerine ait kurallara uyar.",
+  "Kalite yönetim sistemi dokümanlarına uygun olarak çalışır.",
+  "Çalışılan yeri düzenler.",
+  "Çalışma alet ve donanımının koruyucu ve talimatlı bakımlarını sağlar.",
+  "Sürekli döküm tesisindeki işleri yerine getirir.",
+  "Döküm öncesinde ve duruş esnasında gerekli hazırlık ve kontrol işlemlerini yapar.",
+  "Döküm esnasında konverterden gelen sıvı metalin tarete konulmasını, potanın açılmasını ve tandişe dökülmesini sağlar; tandişin sıcaklık ve seviyesini, kalıp içerisindeki sıvı metalin akışını takip ederek üretimin sürekliliğini sağlar, çıkan mamulleri yükleme işlemi bitinceye kadar izler ve meydana gelen arızaları amirlerine bildirir.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T11:18:39",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6841
+  }
+ }
+}

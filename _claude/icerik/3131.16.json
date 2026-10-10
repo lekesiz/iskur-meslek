@@ -1,0 +1,85 @@
+{
+ "arac_gerec": [
+  "Fotovoltaik (güneş) panelleri",
+  "Montaj profilleri, rayları ve taşıyıcı konstrüksiyon elemanları",
+  "Bağlantı klemensleri, cıvata-somun ve sabitleme elemanları",
+  "İnvertör (eviriciler) ve bağlantı kutuları",
+  "DC/AC bağlantı kabloları ve konektörler (ör. MC4 tipi konektörler)",
+  "Topraklama ve paratoner ekipmanları",
+  "Multimetre/avometre, izolasyon test cihazı ve süreklilik test cihazı",
+  "IV eğrisi (akım-gerilim) test cihazı",
+  "Su terazisi, lazerli nivo, şerit metre",
+  "Temel el aletleri (tornavida, pense, kargaburun, anahtar takımı, matkap vb.)",
+  "Kaldırma ve taşıma ekipmanları (el arabası, transpalet, vinç/makara vb.)",
+  "Montaj şeması ve teknik çizim belgeleri",
+  "Kişisel koruyucu donanım (emniyet kemeri, baret, iş eldiveni, yalıtkan eldiven, çelik burunlu ayakkabı, koruyucu gözlük vb.)"
+ ],
+ "genel_ozellikler": [
+  "Şekil ve uzay ilişkilerini iyi algılayan, teknik çizim ve montaj şemalarını okuyup uygulayabilen",
+  "El becerisine ve el-göz koordinasyonuna sahip",
+  "Dikkatli, titiz ve sorumluluk duygusu yüksek",
+  "Elektrik ve elektroniğe ilgili, elektriksel ölçüm ve bağlantı konularında yetkin",
+  "Problem çözme ve montaj hatalarını tespit edip giderme becerisine sahip",
+  "Ekip çalışmasına yatkın ve yönerge/plan doğrultusunda çalışabilen",
+  "Yükseklikte ve açık alanda çalışmaya uygun fiziksel dayanıklılığa sahip",
+  "İş sağlığı ve güvenliği kurallarına duyarlı"
+ ],
+ "gorevler": [
+  "İş sağlığı ve güvenliği, yangın ve acil durum kurallarını uygular",
+  "Kalite yönetim sistemi ile ilgili faaliyetleri yürütür",
+  "İş organizasyonu yapar",
+  "Fotovoltaik sistem mekanik tasarımını uygular",
+  "Fotovoltaik sistem mekanik yerleşim planını çözümler",
+  "Mekanik montajı yapar",
+  "İş kalitesini sürdürür",
+  "Fotovoltaik sistem elektriksel tasarımını uygular",
+  "Fotovoltaik sistem elektriksel tasarım devresini çözümler",
+  "Alt sistemleri ve bileşenleri yerleştirir",
+  "Elektrik bağlantılarını yapar",
+  "Fotovoltaik sistemin kurulum sonrası kontrol işlemlerini gerçekleştirir",
+  "Kurulumu sonlandırır",
+  "Sistem bakım ve onarımını yapar",
+  "Mesleki gelişim faaliyetlerini yürütür"
+ ],
+ "calisma_ortami": "\"Fotovoltaik güç sistemi sorumluları, çoğunlukla açık alanlarda (çatı üstü, arazi tipi güneş enerji santralleri sahaları) çalışır; invertör odaları, pano ve bağlantı kutularının bulunduğu kapalı teknik mekanlarda da görev alabilirler. Çalışma sırasında yükseklik, güneşe uzun süre maruz kalma, elektriksel bağlantılardan kaynaklanan elektrik çarpması riski ve mevsim koşullarına bağlı sıcak-soğuk ortamlarla karşılaşabilirler; bu nedenle kişisel koruyucu donanım kullanımı önemlidir. Çalışma genellikle gündüz saatlerinde ve ekip halinde yürütülür; proje süresine göre farklı il/bölgelerde geçici görevlendirme söz konusu olabilir.\\n\\nMeslek mensupları; mühendisler, teknik ofis/proje personeli, diğer montaj ekibi üyeleri, işveren/müşteri temsilcileri ve şebeke işletmecisi yetkilileriyle sürekli iletişim halinde çalışır. İşin niteliği gereği ekip içinde koordinasyon ve plana uygun çalışma büyük önem taşır.\"",
+ "calisma_alanlari": "\"Fotovoltaik güç sistemi sorumluları; güneş enerjisi santrallerinin (GES) kurulumunu üstlenen elektrik taahhüt ve enerji firmalarında, çatı üstü ve arazi tipi GES projeleri yürüten şirketlerde, fotovoltaik panel ve sistem bileşenleri distribütörlerinde, enerji şirketlerinin kurulum ve işletme-bakım birimlerinde, bireysel/ticari/endüstriyel müşterilere yönelik güneş enerjisi sistemi kurulum ve bakım hizmeti veren işletmelerde istihdam edilebilirler. Yenilenebilir enerjiye yönelik teşvik ve yatırımların artmasıyla bu alandaki iş imkanlarının önümüzdeki yıllarda genişlemesi beklenmektedir; sektörde bölgesel farklılıklar bulunmakta olup güneşlenme süresi yüksek ve yatırımın yoğunlaştığı bölgelerde talep daha fazladır.\"",
+ "egitim": {
+  "verildigi_yerler": "Bu meslek için örgün ortaöğretim düzeyinde ayrı bir okul/dal tanımlanmamıştır. Mesleğe yönelik bilgi ve beceriler; mesleki ve teknik ortaöğretim kurumlarının Yenilenebilir Enerji Teknolojileri ile ilgili alanlarında, Halk Eğitim Merkezlerinde, mesleki eğitim merkezlerinde ve İŞKUR tarafından açılan mesleki eğitim kurslarında kazandırılmakta, ayrıca sektörde işbaşında usta/uzman yanında yetişme yoluyla da edinilmektedir.",
+  "giris_kosullari": [
+   "Ortaöğretimi (lise ve dengi) tamamlamış olmak",
+   "İlgili mesleki ve teknik eğitim programı veya kursun aradığı yaş, sağlık ve diğer giriş koşullarını taşımak",
+   "Elektrik-elektronik alanına ilgi ve temel düzeyde teknik bilgiye sahip olmak (tercih sebebidir)"
+  ],
+  "sure_ve_icerik": "Meslekle ilgili kurslar ve mesleki eğitim programları genellikle temel elektrik-elektronik bilgisi, fotovoltaik sistem bileşenleri, mekanik ve elektriksel montaj teknikleri, ölçüm ve test yöntemleri, iş sağlığı ve güvenliği konularını kapsar; süre kurumdan kuruma ve programın içeriğine göre değişmektedir. Uygulamalı eğitim, atölye ortamında ve saha/işletmede gerçekleştirilir. Meslekte ilerleme ve uzmanlaşma büyük ölçüde işbaşında kazanılan deneyimle sağlanır.",
+  "belge": "Programı tamamlayanlara kurs bitirme belgesi/sertifika veya meslek lisesi diploması (ilgili alan/dal) verilir. Ayrıca Mesleki Yeterlilik Kurumu (MYK) tarafından yetkilendirilen kuruluşlarca yapılan sınavlar sonucunda alınabilecek Mesleki Yeterlilik Belgesi, istihdamda tercih sebebi olabilir; bazı çalışma alanlarında yürürlükteki mevzuat gereği zorunlu tutulmuş olabileceğinden güncel düzenlemelerin kontrol edilmesi önerilir."
+ },
+ "ek_bilgiler": "\"Fotovoltaik sistemlerin montajı ve elektrik bağlantıları, yükseklikte ve elektrikle çalışma riski taşıdığından iş sağlığı ve güvenliği mevzuatı kapsamında değerlendirilmektedir. Bu nedenle çalışmaya başlamadan önce ilgili mevzuatta Mesleki Yeterlilik Belgesi zorunluluğu bulunup bulunmadığının güncel kaynaklardan teyit edilmesi önerilir. Yenilenebilir enerji yatırımlarındaki artış, bu meslekte istihdam olanaklarını olumlu yönde etkilemektedir.\"",
+ "kazanc": {
+  "egitim_suresince": "Mesleğe yönelik örgün bir ortaöğretim programı bulunmadığından, kurs ve işbaşı eğitim sürecinde genellikle ücret ödenmez; ancak bir işletmede çalışarak mesleği öğrenenler, çalıştıkları süre için işveren ile yapılan anlaşmaya bağlı olarak ücret alabilirler.",
+  "egitim_sonrasi": [
+   "İşe yeni başlayanlarda ücret genellikle asgari ücret düzeyinde olur.",
+   "Deneyim, bilgi-beceri düzeyi ve çalışılan işletmenin büyüklüğüne bağlı olarak ücret zamanla artabilir.",
+   "Kamu kurumlarında işçi statüsünde istihdam söz konusuysa ücret, ilgili toplu iş sözleşmesi hükümlerine göre belirlenir; özel sektörde ücret genellikle işveren ile çalışan arasındaki anlaşmaya göre şekillenir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleki ve teknik ortaöğretim ile ilgili bir programdan mezun olanlar, yükseköğretime giriş sınavlarında başarılı oldukları takdirde elektrik-elektronik, enerji sistemleri veya yenilenebilir enerji teknolojileri ile ilgili ön lisans/lisans programlarını tercih edebilirler. Ayrıca MYK Mesleki Yeterlilik Belgesi alarak bilgi ve becerilerini belgelendirebilirler.",
+  "is_hayatinda": "Deneyim kazandıkça ekip lideri, saha/montaj sorumlusu, proje sorumlusu veya işletme-bakım sorumlusu gibi görevlere yükselebilirler. İleri düzeyde deneyim ve sermaye birikimiyle kendi işini kurarak fotovoltaik sistem kurulum ve bakım hizmeti verebilirler."
+ },
+ "benzer_meslekler": [
+  "Fotovoltaik Güç Sistemi Ustası",
+  "Güneş Enerji Sistemleri Teknisyeni",
+  "Rüzgâr Güç Sistemi Sorumlusu",
+  "Rüzgâr Güç Sistemi Ustası",
+  "Rüzgar Enerji Sistemleri Teknisyeni",
+  "Yenilenebilir Enerji Teknolojileri Teknisyeni"
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T10:45:39",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6924
+  }
+ }
+}

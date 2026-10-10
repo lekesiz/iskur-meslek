@@ -1,0 +1,76 @@
+{
+ "gorevler": [
+  "Poy bobinlerini kontrole hazırlar,",
+  "Bobinlerin kod/denye kontrollerini yapar, ilgili forma kaydeder,",
+  "Bobinlerin üzerinden bir miktar iplik sağar,",
+  "Poy bobinden uzunluk tespiti yapar,",
+  "Ağırlık ve numara tespiti yapar,",
+  "İplik denyesini hesaplar,",
+  "POY bobinlerin örme, kayma, atlama, leke kontrollerini yapar,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "arac_gerec": [
+  "Denye ölçüm cihazı (deniyemetre)",
+  "Hassas terazi",
+  "Uzunluk/metraj ölçüm cihazı",
+  "Bobin kontrol ve sarım masası",
+  "İplik numaratörü",
+  "Aydınlatmalı inceleme lambası/büyüteç",
+  "Kontrol ve kayıt formları, kalem",
+  "Örnek iplik makası",
+  "Bilgisayar (veri girişi ve kayıt için)",
+  "Koruyucu eldiven",
+  "Etiketleme malzemeleri"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve titiz,",
+  "Gözlem gücü yüksek,",
+  "El becerisine sahip,",
+  "Sorumluluk sahibi,",
+  "Basit sayısal işlemleri doğru ve hızlı yapabilen,",
+  "Renk ve doku farklarını ayırt edebilen,",
+  "Monoton ve tekrarlı işlerde dikkatini uzun süre sürdürebilen,",
+  "Ekip çalışmasına yatkın"
+ ],
+ "calisma_ortami": "Denye Kontrolcüler, iplik ve tekstil üretim tesislerinin kalite kontrol bölümlerinde, kapalı ortamda, genellikle ayakta ve masa başında dönüşümlü olarak çalışır. Çalışma ortamı makine sesinden dolayı gürültülü olabilir; iplik tozu ve lif parçacıklarına maruziyet söz konusudur, bu nedenle iş sağlığı ve güvenliği kurallarına uyulması önemlidir. İşletmenin üretim düzenine göre vardiyalı çalışma yaygındır.\n\nÇalışma sırasında vardiya amiri, kalite kontrol şefi, bobinaj ve üretim bölümü çalışanları ile sürekli iletişim halindedir. Tespit edilen kusurların ve ölçüm sonuçlarının ilgili birimlere doğru ve zamanında aktarılması, üretim sürecinin aksamadan devam etmesi açısından önemlidir.",
+ "egitim": {
+  "verildigi_yerler": "Denye Kontrolcülüğü için örgün eğitim kurumlarında ayrı bir program bulunmamaktadır. Meslek, iplik/tekstil üretim tesislerinde işbaşında, deneyimli denye kontrolcüleri veya ustalar eşliğinde öğrenilmektedir. Mesleki ve teknik eğitimin tekstil teknolojisi alanına ilişkin dersler ile Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kursları, mesleğe temel hazırlık sağlayabilir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "Okuma yazma bilmek ve temel düzeyde sayısal işlem yapabilmek",
+   "Renk ayırt etme yeteneğine sahip olmak"
+  ],
+  "sure_ve_icerik": "Mesleğin resmî olarak belirlenmiş standart bir eğitim süresi ve müfredatı yoktur. İşe yeni başlayanlar, işletme içinde genellikle birkaç hafta ile birkaç ay arasında değişen bir sürede uygulamalı eğitim görür. Bu süreçte bobin hazırlama, kod/denye okuma, uzunluk-ağırlık-numara tespiti, denye hesaplama ile örme, kayma, atlama ve leke gibi kusurların tanınması konularında bilgi ve beceri kazandırılır.",
+  "belge": "Örgün bir eğitim sonunda diploma verilmez; işletme içi uygulamalı eğitimle mesleki yeterlilik kazanılır. Katılınan kurslar sonunda katılım belgesi/sertifika alınabilir. Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Denye Kontrolcüler, başta sentetik iplik (POY ve benzeri) üretimi yapan tesisler olmak üzere, iplik ve tekstil fabrikalarının kalite kontrol bölümlerinde istihdam edilir. İş bulma olanakları, tekstil ve iplik üretiminin yoğun olduğu sanayi bölgelerinde daha fazladır. Çalışma, genellikle özel sektör işletmelerinde sürdürülür.",
+ "kazanc": {
+  "egitim_suresince": "İşbaşında eğitim gören adaylar, genellikle işletmenin belirlediği stajyer/çırak ücreti veya asgari ücret düzeyinde bir ücret alır.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde ücret alır.",
+   "Deneyim arttıkça ve işletmenin büyüklüğüne bağlı olarak ücret artabilir.",
+   "Özel sektörde ücret, işveren ile çalışan arasında deneyim ve işletme koşullarına göre belirlenir; kamuya bağlı işletmelerde işçi statüsünde çalışanlar toplu iş sözleşmesi hükümlerine tabi olabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Deneyim kazandıkça kısa süreli mesleki kurs ve sertifika programlarına katılarak bilgi ve becerisini güncelleyebilir; farklı iplik türleri ve kalite kontrol yöntemleri konusunda uzmanlaşabilir.",
+  "is_hayatinda": "Kıdem ve deneyim kazandıkça vardiya sorumluluğu, ekip liderliği veya kalite kontrol şefliği gibi daha üst pozisyonlara yükselebilir."
+ },
+ "benzer_meslekler": [
+  "Tefrik Kontrolcü (İplik)",
+  "Kalite Kontrolcü-Tekstil",
+  "Örgü Kontrolörü",
+  "Elyaf Eksperi",
+  "Metocu/Numaratör",
+  "Desen Kontrol İşçisi (Tekstil)"
+ ],
+ "ek_bilgiler": "Bu meslek özellikle sentetik iplik (POY) üretimi yapan tesislerde görülmektedir. İstihdam olanağı, iplik ve tekstil üretiminin yoğunlaştığı sanayi bölgelerinde daha fazladır.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T09:58:56",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5153
+  }
+ }
+}

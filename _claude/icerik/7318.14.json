@@ -1,0 +1,73 @@
+{
+ "arac_gerec": [
+  "Karde (kardeleme) makinesi",
+  "Elyaf besleme merdaneleri",
+  "Elyaf katı/rulosu",
+  "Çile dolum kapları/sepetleri",
+  "Makine yağlama ekipmanları (yağdanlık, gres vb.)",
+  "Temizlik malzemeleri ve fırçalar",
+  "Elyaf taşıma arabaları",
+  "Koruyucu eldiven",
+  "Toz maskesi",
+  "İş önlüğü/koruyucu kıyafet",
+  "Basit el aletleri (tornavida, pense vb.)"
+ ],
+ "genel_ozellikler": [
+  "El becerisine sahip,",
+  "Dikkatli ve sabırlı,",
+  "Tekdüze ve tekrarlı işleri sürdürebilen,",
+  "Fiziksel olarak dayanıklı ve ayakta çalışmaya uygun,",
+  "Göz-el koordinasyonu gelişmiş,",
+  "Makine ile çalışmaya istekli,",
+  "Ekip halinde ve vardiya düzeninde çalışmaya uyumlu"
+ ],
+ "calisma_ortami": "Elyaf kardeci, tekstil işletmelerinin harman-hallaç ve karde dairelerinde kapalı mekanda ve genellikle ayakta çalışır. Çalışma ortamı makine sesleri nedeniyle gürültülü, elyaf tozu nedeniyle tozlu olabilir; bu nedenle solunum yolu rahatsızlıkları ve dönen makine parçalarına bağlı iş kazası riski bulunur. İşletmelerde genellikle vardiyalı çalışma düzeni uygulanır.\n\nÇalışma sırasında diğer harman-hallaç ve karde işçileri, vardiya amiri, usta ve bakım personeli ile iletişim kurar. İş, bireysel olarak makine başında yürütülmekle birlikte üretim hattının diğer aşamalarıyla eşgüdüm içinde gerçekleştirilir.",
+ "gorevler": [
+  "İş organizasyonu yapar,",
+  "Elyaf katını makinenin merdanelerine sürer,",
+  "Yeni kat rulolarının uçlarını, merdaneden daha önce geçmiş olan katın uçlarına parmak hareketleriyle bağlar,",
+  "Makineyi çalıştırır, çilelerle dolan kapları boşları ile değiştirir,",
+  "Makineyi temizler ve yağlar,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi için standart içerikli örgün bir mesleki eğitim programı bulunmamaktadır. Meslek genellikle tekstil işletmelerinde işbaşında, deneyimli bir usta veya vardiya amirinin gözetiminde öğrenilir. Ayrıca Halk Eğitim Merkezleri ile İŞKUR tarafından açılan tekstil/iplik üretimi alanındaki mesleki eğitim kurslarında da temel beceriler kazandırılabilmektedir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "İşin gerektirdiği şekilde ayakta ve tozlu/gürültülü bir ortamda çalışmaya uygun olmak",
+   "İşe alınacak işletmenin belirlediği yaş ve sağlık koşullarını taşımak"
+  ],
+  "sure_ve_icerik": "Belirli bir süresi ve içeriği standartlaştırılmış resmi bir eğitim programı bulunmamaktadır. Meslek; elyaf katının makineye sürülmesi, kat uçlarının bağlanması, makinenin çalıştırılması, çile kaplarının değiştirilmesi ile makinenin temizlik ve yağlama işlemlerinin işletmede uygulamalı olarak öğrenilmesiyle kazanılır. Bu süreç işletmenin büyüklüğüne ve kişinin öğrenme hızına göre değişmekle birlikte genellikle birkaç haftadan birkaç aya kadar sürebilir.",
+  "belge": "Örgün eğitim sonunda verilen bir diploma veya ustalık belgesi bulunmamaktadır. Katılınan kurslardan katılım/başarı belgesi alınabilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Elyaf kardeciler; iplik, kumaş, halı, yün ve benzeri ürünlerin üretildiği tekstil fabrikalarının harman-hallaç ve karde dairelerinde istihdam edilirler. Tekstil üretiminde otomasyon ve bilgisayar kontrollü modern karde makinelerinin yaygınlaşması, klasik elyaf kardeciliği işlemlerine olan talebi azaltmaktadır; buna karşılık küçük ve orta ölçekli tekstil işletmelerinde iş bulma olanağı sürmektedir.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğe özgü örgün bir eğitim süreci bulunmadığından eğitim dönemine ilişkin ayrı bir ücretlendirme söz konusu değildir. İşe yeni başlayıp işletmede çalışan statüsünde olanlar genellikle asgari ücret düzeyinde ücret alır.",
+  "egitim_sonrasi": [
+   "Kazanç; çalışılan işletmenin büyüklüğüne, kişinin deneyimine ve varsa toplu iş sözleşmesi hükümlerine göre değişmektedir.",
+   "Yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar; deneyim ve kıdem arttıkça ücret artabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğe yönelik kademeli bir mesleki eğitim ve diploma/ustalık sistemi bulunmadığından bu alanda ilerleme, işletme içinde deneyim kazanılarak sağlanır. Katılınacak tekstil üretimi ile ilgili kurslar mesleki bilgi ve becerilerin geliştirilmesine katkı sağlayabilir.",
+  "is_hayatinda": "Deneyim kazanan elyaf kardeciler; usta, formen, vardiya sorumlusu veya harman-hallaç/karde dairesi sorumluluğu gibi görevlere yükselebilir."
+ },
+ "benzer_meslekler": [
+  "Harman Hallaç İşçisi (Yün)",
+  "Harman Hallaç İşçisi (Halı)",
+  "Harman Hazırlama İşçisi (Tekstil)",
+  "Harman Hallaç Besleme İşçisi",
+  "Harman Hallaç Makinesi Arkacısı",
+  "Elyaf Harman Takipçisi",
+  "Hallaç"
+ ],
+ "ek_bilgiler": "Tekstil sektöründe otomasyonun artması nedeniyle klasik elyaf kardeciliği işlemleri günümüzde giderek daha fazla bilgisayar kontrollü modern karde makineleriyle yapılmaktadır. Bu nedenle meslek elemanlarının güncel makine teknolojilerine uyum sağlaması, iş bulma ve mesleki sürdürülebilirlik açısından önem taşımaktadır.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T04:33:03",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5435
+  }
+ }
+}

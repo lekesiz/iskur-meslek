@@ -1,0 +1,73 @@
+{
+ "arac_gerec": [
+  "Harita, kroki ve arazi değerlendirme malzemeleri",
+  "Komuta kontrol ve muharebe yönetim sistemleri",
+  "Güvenli (şifreli) haberleşme ve telsiz sistemleri",
+  "Bilgisayar, ofis yazılımları ve resmi yazışma sistemleri",
+  "Brifing, sunum ve toplantı donanımları",
+  "Askeri taşıt, helikopter ve uçak (ulaşım ve denetleme amaçlı)",
+  "Resmi rapor, talimat ve planlama dosyaları",
+  "Askeri üniforma, rütbe işaretleri ve kişisel teçhizat",
+  "İstihbarat ve durum değerlendirme raporları"
+ ],
+ "genel_ozellikler": [
+  "Liderlik vasıflarına sahip,",
+  "Analitik düşünme ve hızlı karar verme yeteneği gelişmiş,",
+  "Yüksek sorumluluk bilincine sahip,",
+  "Kriz ve stres durumlarını yönetebilen,",
+  "Etkili sözlü ve yazılı iletişim kurabilen,",
+  "Disiplinli, kurallara ve hiyerarşiye bağlı,",
+  "Vatan, millet ve bayrak sevgisiyle hareket eden,",
+  "Fiziksel ve psikolojik yönden sağlıklı,"
+ ],
+ "gorevler": [
+  "Bağlı orduların ve birliklerin eğitim ve harekat planlarını yönetir.",
+  "Milli güvenlik stratejileri doğrultusunda kararlar alır.",
+  "Personel terfi, atama ve lojistik süreçlerini denetler.",
+  "Uluslararası askeri delegasyonlarda kurumu temsil eder.",
+  "Harbe hazırlık seviyesini en üst düzeyde tutar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "calisma_ortami": "Orgeneral (Kara Kuvvetleri), görevini çoğunlukla karargâh ve komutanlık binalarında büro ortamında; ancak gerektiğinde tatbikat alanlarında, sınır bölgelerinde, harekat bölgelerinde ve açık arazide icra eder. Çalışma düzeni, önceden belirlenmiş saatlerle sınırlı değildir; ülke güvenliği ve askeri harekatların gerektirdiği durumlarda gece-gündüz, hafta sonu dahil uzun ve yoğun çalışma söz konusu olabilir. Sık sık yurt içi ve yurt dışı seyahat gerektirir.\n\nGörevi gereği üst düzey devlet yöneticileri, diğer kuvvet komutanları, uluslararası askeri heyetler ve emrindeki komutanlık kademeleriyle sürekli etkileşim içindedir. Özellikle harekat bölgelerinde görev yapılması durumunda yüksek risk ve stres içeren koşullarla karşılaşılabilir; bu nedenle görev, büyük bir sorumluluk ve fiziksel/psikolojik dayanıklılık gerektirir.",
+ "egitim": {
+  "verildigi_yerler": "Orgenerallik, doğrudan girilen bir eğitim programı veya meslek değil, Türk Silahlı Kuvvetleri hiyerarşisinde subaylık kariyerinin kademeli terfi süreciyle ulaşılan en üst rütbelerden biridir. Bu sürecin başlangıcı Kara Harp Okulu'dur; devamında ilgili kurmay ve harp akademisi eğitimleri ile çeşitli komuta ve kurmay görevleri gelir.",
+  "giris_kosullari": [
+   "Kara Harp Okulu'ndan mezun olarak Kara Kuvvetleri Komutanlığı bünyesinde subay olarak göreve başlamış olmak",
+   "Kademeli olarak Teğmen'den başlayan rütbelerde uzun yıllar hizmet ve terfi süreçlerini başarıyla tamamlamış olmak",
+   "İlgili kurmay ve harp akademisi eğitimlerini tamamlamış olmak",
+   "Görev performansı, kıdem ve kurum içi değerlendirmelerde üstün nitelikler göstermiş olmak",
+   "Yüksek Askeri Şûra kararı ile bu rütbeye terfi etmiş olmak"
+  ],
+  "sure_ve_icerik": "Bu rütbeye ulaşmak, Kara Harp Okulu'ndan subay olarak mesleğe başladıktan sonra genellikle otuz yılı aşan bir askerlik kariyeri boyunca çeşitli birliklerde komuta ve kurmay görevleri üstlenmeyi, kurmay subaylık ve harp akademisi eğitimlerini, ulusal ve uluslararası askeri kurslara katılmayı gerektirir. Orgenerallik için ayrı, standart bir okul veya kurs programı bulunmamaktadır; bu rütbe, kariyer boyunca gösterilen performans, kıdem ve stratejik yetkinliklere bağlı terfi sistemiyle kazanılır.",
+  "belge": "Türk Silahlı Kuvvetleri bünyesinde Yüksek Askeri Şûra kararı ve ilgili resmi makamların onayı ile yapılan rütbe ataması"
+ },
+ "calisma_alanlari": "Orgeneral (Kara Kuvvetleri), Kara Kuvvetleri Komutanlığı bünyesinde ordu, kolordu ve benzeri stratejik düzeydeki komutanlık kademelerinde görev yapar. Ayrıca Genelkurmay Başkanlığı, Milli Savunma Bakanlığı bünyesindeki üst düzey görevlerde ve NATO gibi uluslararası askeri kuruluşlarda Türkiye'yi temsilen görevlendirilebilir.",
+ "kazanc": {
+  "egitim_suresince": "Bu rütbeye ulaşılıncaya kadar geçen subaylık kariyeri boyunca personel, 657 sayılı Devlet Memurları Kanunu ve askeri personele özgü ilgili mevzuat çerçevesinde rütbe ve kıdemine uygun maaş ve özlük haklarından yararlanır.",
+  "egitim_sonrasi": [
+   "Orgeneral rütbesindeki personelin maaş ve özlük hakları 657 sayılı Devlet Memurları Kanunu ile askeri personele özgü mevzuat hükümlerine göre belirlenir.",
+   "Kazanç düzeyi, rütbe, kıdem, görev yeri ve ek tazminatlara göre değişiklik gösterir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Orgenerallik, Teğmen rütbesinden başlayarak Üsteğmen, Yüzbaşı, Binbaşı, Yarbay, Albay, Tuğgeneral, Tümgeneral ve Korgeneral rütbelerinden geçilerek ulaşılan, Kara Kuvvetleri'ndeki en üst rütbelerden biridir.",
+  "is_hayatinda": "Orgeneraller, Kara Kuvvetleri Komutanlığı veya Genelkurmay Başkanlığı gibi en üst düzey komuta görevlerine atanabilir. Emeklilik sonrasında güvenlik, savunma sanayii, kamu kurumları veya akademik kuruluşlarda danışmanlık ve üst düzey yöneticilik görevlerinde değerlendirilebilirler."
+ },
+ "benzer_meslekler": [
+  "Korgeneral (Kara Kuvvetleri)",
+  "Tümgeneral (Kara Kuvvetleri)",
+  "Orgeneral (Hava Kuvvetleri)",
+  "Orgeneral (Jandarma)",
+  "Oramiral(Deniz Kuvvetleri)",
+  "Genel Kurmay Başkanı"
+ ],
+ "ek_bilgiler": "Orgenerallik, doğrudan meslek seçimiyle ulaşılabilecek bir unvan değildir; Kara Harp Okulu'ndan subay olarak mesleğe başlayıp uzun bir askerlik kariyeri boyunca gösterilen performans, kıdem ve Yüksek Askeri Şûra kararlarıyla ulaşılan bir rütbedir. Bu nedenle meslek seçimi aşamasındaki gençler için asıl hedef, Kara Harp Okulu'na girerek subaylık mesleğine başlamaktır; Orgenerallik, bu kariyerin ileri aşamalarında ulaşılabilecek bir sonuçtur.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-07T17:12:08",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5455
+  }
+ }
+}

@@ -1,0 +1,88 @@
+{
+ "arac_gerec": [
+  "Traktör",
+  "Pulluk",
+  "Tırmık",
+  "Tapan (tepen)",
+  "Mibzer (ekim makinesi)",
+  "Gübre dağıtıcısı",
+  "Kimyasal ve organik gübreler",
+  "Tarım ilaçları (insektisit, herbisit vb.)",
+  "Sulama ekipmanları",
+  "Orak/biçer makinesi",
+  "Balya makinesi",
+  "Patoz makinesi",
+  "Sellektör (tohum temizleme) makinesi",
+  "Depolama ve taşıma ekipmanları",
+  "Basit bakım-onarım el aletleri"
+ ],
+ "genel_ozellikler": [
+  "Açık havada ve zorlu arazi koşullarında çalışmaktan hoşlanan,",
+  "Fiziksel olarak dayanıklı ve bedensel güce sahip,",
+  "Toprağı ve bitkiyi seven, tarımsal üretime ilgi duyan,",
+  "Dikkatli, sabırlı ve düzenli çalışabilen,",
+  "Mekanik alet ve makinelere ilgi duyan, el becerisine sahip,",
+  "Hava koşullarına ve mevsimsel çalışma temposuna uyum sağlayabilen,",
+  "Ekip halinde çalışabilen ve sorumluluk sahibi,",
+  "Gözlem yaparak hastalık ve zararlı belirtilerini ayırt edebilen"
+ ],
+ "calisma_ortami": "\"Yonca Yetiştiricisi, görevini büyük ölçüde açık tarla arazisinde yürütür; iş süreçlerinin bir kısmı (tohum ve ürünün kurutulması, depolanması, makinelerin bakımı gibi) kapalı alanlarda veya depo-ambar gibi mekânlarda da gerçekleşebilir. Çalışma, mevsimlere ve hava koşullarına bağlı olarak yoğunlaşır; ekim, sulama, biçim ve hasat dönemlerinde uzun ve değişken saatlerde, bazen güneş altında veya soğuk havada çalışmak gerekebilir. Toz, güneş, nem, tarım ilaçları ve ağır makine kullanımı gibi fiziksel risklere açıktır.\\n\\nMeslek elemanı çalışmalarını genellikle işletme sahibi, tarım işçileri, mevsimlik işçiler ve bazı durumlarda ziraat mühendisi veya teknikerlerle iş birliği içinde yürütür. Kendi işletmesinde çalışanlar üretimin tüm aşamalarından sorumlu olup, büyük işletmelerde ise belirli bir ekip içinde görev alabilirler.\"",
+ "gorevler": [
+  "Yoncanın verimli olması için ekim nöbetini (buğday-arpa-çavdar+yonca+pancar-haşhaş vb.) takip eder,",
+  "Bölgenin iklim şartları ve toprak özelliklerine uygun olarak tarlayı sürer, tırmıklar ve tapan (tepen) çekerek toprak hazırlığını yapar,",
+  "Mibzerle ekim derinliği ve sıra aralarını göz önünde bulundurarak ekimi yapar,",
+  "Hava koşullarına göre, ekim sonrasında ve tohumlar yeşillendikten sonra uygun zamanlarda sulama yapar,",
+  "Zamanında uygun gübre ile gübreleme yapar,",
+  "Yoncanın yeşil olarak biçimi yapılacaksa sonbahara kadar verim ve kaliteye göre uygun sayıda biçer,",
+  "Biçilen yoncayı güneşte soldurur,",
+  "Hastalık ve zararlılara karşı mücadele eder,",
+  "Kışlık yem olarak kullanılacaksa güneşte suyu çekilene kadar kurutarak balya yapar veya yaptırır,",
+  "Tohum üretilmek istendiğinde, ilkbaharda ilk yetişen yoncayı bir defa biçtikten sonra tohuma bırakır,",
+  "Tohumların olgunlaşmasını takiben uygun zamanda biçer,",
+  "Biçilen tohumlu yoncayı kurutur, kurumasını takiben patoz makinesiyle tohumları ayırır,",
+  "Ayrılan tohumları sellektör makinesinden geçirerek yabani ot tohumlarından temizler,",
+  "Saman haline gelen yoncayı yem olarak kullanmak üzere depolara taşır,",
+  "Kullanılan makine, araç, gereç ve ekipmanların periyodik bakımlarını yapar,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Yonca Yetiştiriciliği için ayrı, resmî bir örgün mesleki eğitim programı bulunmamaktadır. Meslekle ilgili bilgi ve beceriler genellikle tarım aileleri içinde kuşaktan kuşağa, tarımsal işletmelerde usta-çırak ilişkisi içinde ve uygulamalı olarak kazanılır. Ayrıca Halk Eğitim Merkezleri ile İŞKUR'un açtığı tarımsal üretim ve bitkisel üretim konulu mesleki eğitim kursları, tarım meslek liselerinin ve mesleki eğitim merkezlerinin tarla bitkileri/bahçıvanlık alanına yönelik programları da ilgili bilgi ve becerilerin edinilmesine katkı sağlayabilir.",
+  "giris_kosullari": [
+   "Meslek, en az ilköğretim mezunu olan kişiler tarafından yapılabilir.",
+   "Tarımsal işlerde çalışmaya uygun beden sağlığına sahip olmak gerekir.",
+   "İlgili kurumların açtığı kurslara katılmak için belirlenen yaş ve ön koşulları sağlamak gerekir."
+  ],
+  "sure_ve_icerik": "Resmî bir eğitim programı tanımlanmadığından standart bir eğitim süresi yoktur. Bilgi ve beceriler, işletmede fiilen çalışılarak zaman içinde (genellikle birkaç yetiştirme sezonu boyunca) kazanılır. Kurum ve kuruluşlarca açılan kurslar ise genellikle kısa süreli (birkaç gün ile birkaç hafta) olup toprak hazırlığı, ekim, sulama, gübreleme, hastalık-zararlı mücadelesi, hasat ve tohumculuk gibi konuları kapsar.",
+  "belge": "Örgün eğitimde diploma veya ustalık belgesi verilmemektedir. Katılınan kurslar sonunda kurs bitirme/katılım belgesi verilebilir. Mesleki Yeterlilik Kurumu (MYK) tarafından ilgili alanda belge düzenlenmesi hâlinde bu belge istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "\"Yonca Yetiştiricisi başta kendi tarım işletmesinde olmak üzere, yem bitkisi üretimi yapan tarımsal işletmelerde, hayvancılık (büyükbaş-küçükbaş) işletmelerinin kendi yem üretimi yapan bölümlerinde, tarım kooperatiflerinde, tohumluk üretimi ve ticareti yapan firmalarda çalışabilir. Ayrıca mevsimlik veya sürekli tarım işçisi olarak başka çiftçilerin ya da tarım işletmelerinin arazilerinde istihdam edilebilir. İş bulma olanağı, bulunduğu bölgede hayvancılık ve yem bitkisi üretiminin yaygınlığına, arazi varlığına ve mevsime bağlı olarak değişkenlik gösterir.\"",
+ "kazanc": {
+  "egitim_suresince": "Bu meslek için resmî bir çıraklık/mesleki eğitim programı bulunmadığından, standart bir eğitim dönemi ücreti yoktur. Bilgi ve beceriler aile işletmesinde veya ücretli tarım işçisi olarak çalışılırken kazanılır; bu dönemde elde edilen kazanç yapılan işe, çalışma süresine ve bölgeye göre değişir, genellikle gündelik ücret ya da asgari ücret düzeyinde olabilir.",
+  "egitim_sonrasi": [
+   "Kendi işletmesinde üretim yapanların kazancı; arazi büyüklüğüne, verime, ürün (yeşil yonca, kuru ot/balya veya tohum) fiyatlarına ve piyasa koşullarına göre değişkenlik gösterir, sabit bir ücretten söz etmek mümkün değildir.",
+   "Ücretli olarak bir işletmede veya başka bir çiftçinin yanında çalışanların kazancı genellikle asgari ücret düzeyinde başlar; deneyim, işin mevsimsel yoğunluğu ve işverenle yapılan anlaşmaya göre artabilir.",
+   "Kamuya bağlı tarım işletmelerinde işçi statüsünde istihdam edilenler, ilgili toplu iş sözleşmesi hükümlerine göre ücret alır."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Resmî, kademeli bir mesleki eğitim programı bulunmadığından klasik anlamda kalfalık-ustalık türü bir ilerleme yoktur. Kişi, deneyim kazanarak ve çeşitli kurum ve kuruluşların açtığı bitkisel üretim, tohumculuk, bitki koruma, sulama gibi kurslara katılarak bilgi ve becerisini geliştirebilir. İsteyenler, ilgili ön lisans/lisans programlarına (tarım teknikerliği, ziraat mühendisliği gibi) sınavla girerek mesleki bilgisini daha üst düzeye taşıyabilir.",
+  "is_hayatinda": "Deneyim kazandıkça daha büyük arazilerde üretim yapabilir, üretimini çeşitlendirebilir (yeşil yem, kuru ot, tohumluk üretimi gibi), kendi işletmesini büyütebilir veya kurabilir. Tarımsal kooperatiflerde ya da üretici birliklerinde görev alabilir, tarım makineleri ve ekipman kullanımında ustalaşarak diğer çalışanlara rehberlik edebilir."
+ },
+ "benzer_meslekler": [
+  "Baklagil Yem Bitkileri Yetiştiricisi",
+  "Fiğ Yetiştiricisi",
+  "Buğdaygil Yem Bitkileri Yetiştiricisi",
+  "Tarla Bitkileri Yetiştiricisi",
+  "Çiftçi (Tarla Ürünleri)",
+  "Silaj İşçisi"
+ ],
+ "ek_bilgiler": "\"Yonca üretimi, hayvancılık sektörünün yem ihtiyacına bağlı olarak talep görür; bu nedenle mesleğin iş hacmi, bölgedeki hayvancılık faaliyetlerinin durumuna ve yem bitkileri politikalarına göre değişebilir. Üretim, sulama suyu ve arazi varlığına bağımlı olduğundan kuraklık ve su kısıtı gibi durumlar verimliliği doğrudan etkileyebilir.\"",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T20:11:50",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6894
+  }
+ }
+}

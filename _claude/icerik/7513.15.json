@@ -1,0 +1,75 @@
+{
+ "arac_gerec": [
+  "Kantar (tartı) sistemi ve ölçüm ekranı",
+  "Süt toplama tankerlerine bağlantı hortum ve rakorları",
+  "Numune alma ekipmanları (numune şişesi, numune alıcı)",
+  "Laktodensimetre/süt yoğunluk ölçer",
+  "Stok tankları ve soğutma sistemi kontrol panelleri",
+  "Pompa ve transfer hatları",
+  "Kayıt sistemi (bilgisayar, barkod okuyucu, kayıt formları)",
+  "Temizlik ve dezenfeksiyon malzemeleri",
+  "Koruyucu iş kıyafeti (önlük, bone, eldiven, çizme)",
+  "Basit bakım-onarım el aletleri"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve titiz,",
+  "Sorumluluk sahibi,",
+  "Hijyen ve gıda güvenliği kurallarına uyan,",
+  "Sayısal işlemlere (tartım, hesaplama) yatkın,",
+  "Düzenli kayıt tutabilen,",
+  "Fiziksel olarak dayanıklı,",
+  "Ekip çalışmasına uygun,",
+  "Erken saatlerde ve vardiyalı çalışmaya uygun,"
+ ],
+ "calisma_ortami": "Süt kabul işçisi, süt ve süt ürünleri işleyen fabrikaların, mandıraların veya kooperatiflere bağlı süt kabul merkezlerinin tanker boşaltma ve kabul bölümünde çalışır. Çalışma ortamı genellikle kapalı alandır; ancak tankerlerin boşaltıldığı ve kantarın bulunduğu bölüm yarı açık olabilir. Ortam nemli, soğuk ve bazen kötü kokulu olabilir; iş büyük ölçüde ayakta ve hareketli olarak yürütülür. Süt toplama saatlerine bağlı olarak sabahın erken saatlerinde veya vardiyalı çalışma gerekebilir.\n\nGörevi sırasında tanker şoförleri, laboratuvar ve kalite kontrol personeli, üretim bölümü çalışanları ve işletme yöneticileriyle iletişim kurar. Ağır ekipman ve hareketli tankerlerle çalışma, zemin kayganlığı ve soğutma sistemleriyle temas nedeniyle iş kazası riski bulunduğundan iş güvenliği kurallarına uyulması önemlidir.",
+ "gorevler": [
+  "Süt toplama merkezlerinden tankerlerle gelen çiğ sütleri teslim alır.",
+  "Çiğ sütle dolu gelen tankerlerin kantarda dolu halde tartılmasını sağlar ve sonuçlarını kaydeder.",
+  "İşletmeye giren çiğ süt miktarını takip eder ve kaydeder.",
+  "İşletmeye giriş yapan çiğ sütlerden numune alır, alınan numuneleri laboratuvara gönderir.",
+  "Laboratuvardan gelen analiz sonuçlarına göre teslim alınan çiğ sütleri kamyonlardaki tankerden alarak stok tanklarına aktarır.",
+  "Süt tankerinin dolu ve boş halde kantarda tartılmasını sağlayarak teslim alınan sütün miktarını hesaplar ve kaydeder.",
+  "Süt toplama merkezlerinden gelen çiğ sütlerin hava şartlarından dolayı bozulmasını önlemek için stok tanklarındaki soğutma sistemini devreye sokar.",
+  "Bölümündeki makine, cihaz ve donanımların bakım ve basit onarımlarını yapar.",
+  "Çalıştığı alan ve kullandığı makine ve ekipmanların temizliğini yapar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Mesleğin bağımsız bir çıraklık dalı veya meslek lisesi programı olarak tanımlanmış örgün eğitimi bulunmamaktadır. Meslek genellikle ilköğretim sonrası işletmelerde usta yanında işbaşında öğrenilir. Halk Eğitim Merkezleri ve İŞKUR tarafından açılan gıda/süt işleme konulu mesleki eğitim kursları da temel bilgi ve beceri kazandırabilir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "Sağlık durumunun ayakta çalışmaya, ağır kaldırmaya ve soğuk/nemli ortamda çalışmaya uygun olması",
+   "Gıda sektöründe çalışmaya engel bulaşıcı hastalık taşıyıcısı olmamak (gerektiğinde sağlık raporu istenebilir)"
+  ],
+  "sure_ve_icerik": "Standart ve zorunlu bir örgün eğitim süresi veya müfredatı bulunmamaktadır. Meslek genellikle işletmede usta yanında kısa süreli uygulamalı eğitimle veya Halk Eğitim Merkezleri/İŞKUR tarafından açılan kısa süreli kurslarla öğrenilir. Bu eğitimlerde çiğ süt kabul işlemleri, tartım ve kayıt yöntemleri, numune alma teknikleri, hijyen ve gıda güvenliği kuralları, soğutma sistemlerinin kullanımı gibi konular yer alabilir.",
+  "belge": "Katılınan kurslar sonunda kurs bitirme/katılım belgesi verilir; Mesleki Yeterlilik Kurumu (MYK) belgesi bazı işletmelerde istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Süt kabul işçisi; süt ve süt ürünleri üreten fabrikalar, mandıralar, tarım/hayvancılık kooperatiflerine bağlı süt toplama ve kabul merkezleri gibi işletmelerde çalışabilir. İş bulma olanağı, çalışılan bölgedeki hayvancılık faaliyetlerinin ve süt üretiminin yoğunluğuna bağlı olarak değişmektedir.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğin standart bir örgün veya çıraklık eğitimi bulunmadığından ayrı bir eğitim dönemi ücreti düzenlemesi yoktur. İşletmede usta yanında çalışarak öğrenen kişiler genellikle asgari ücret düzeyinde ücret alır.",
+  "egitim_sonrasi": [
+   "Kamu kuruluşlarına bağlı işletmelerde (örneğin tarım kooperatifleri veya kamuya bağlı süt işletmeleri) çalışanlar ilgili mevzuata veya toplu iş sözleşmesine göre ücret alır.",
+   "Özel sektörde çalışanların kazancı genellikle asgari ücret düzeyinde başlar; işyerinin büyüklüğü, kişinin deneyimi, bilgisi ve sektördeki ücret düzeyine göre değişebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Bu meslekte örgün bir kalfalık-ustalık ilerleme basamağı tanımlanmamıştır. Çalışanlar deneyim kazandıkça daha fazla sorumluluk alabilir; isteyenler açık öğretim yoluyla öğrenimini sürdürebilir veya gıda teknolojisi gibi ilgili alanlarda örgün ya da yaygın mesleki eğitime yönelebilir.",
+  "is_hayatinda": "Deneyim kazandıkça vardiya veya ekip sorumlusu, süt kabul bölümü şefliği gibi görevlere yükselebilir; ayrıca kalite kontrol veya üretim gibi işletme içindeki ilgili bölümlere geçiş yapabilir."
+ },
+ "benzer_meslekler": [
+  "Süthane/ Mandıra İşçisi",
+  "Süt ve Süt Ürünleri İşlemecisi",
+  "Kültürcü (Süthane / Mandıra)",
+  "Canlı Piliç Kabul İşçisi",
+  "Yoğurt İmal İşçisi"
+ ],
+ "ek_bilgiler": "Mesleğin örgün bir eğitim programı tanımlı olmadığından bilgi ve beceriler genellikle işbaşında kazanılır; bu nedenle işletmeye ve bölgeye göre uygulama ve beklentiler farklılık gösterebilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T07:21:23",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6083
+  }
+ }
+}

@@ -1,0 +1,91 @@
+{
+ "arac_gerec": [
+  "Kesim ve parçalama bıçakları",
+  "Satır",
+  "Masat (bıçak bileme çeliği)",
+  "Kemik testeresi",
+  "Kesim tahtası ve tezgahı",
+  "Et kıyma makinesi",
+  "Elektronik tartı",
+  "Fiyat etiketleme makinesi",
+  "Vakumlu paketleme makinesi",
+  "Soğuk hava deposu, buzdolabı ve dondurucu",
+  "Et kancaları ve askı rayları",
+  "Koruyucu eldiven, önlük ve zincirli eldiven",
+  "Kasa/POS cihazı"
+ ],
+ "genel_ozellikler": [
+  "Herhangi bir bulaşıcı hastalığı olmayan,",
+  "Kana, ete ve kokuya karşı alerjisi olmayan, kandan korkmayan,",
+  "El ve göz koordinasyonu iyi, el becerisine sahip,",
+  "Dikkatli, titiz ve tertipli,",
+  "Fiziksel olarak güçlü ve dayanıklı,",
+  "Kişisel temizlik ve hijyen kurallarına uyan,",
+  "Müşteri ilişkilerinde güler yüzlü ve iletişime açık,",
+  "Sorumluluk sahibi ve güvenilir,"
+ ],
+ "calisma_ortami": "\"Kasaplar; kasap dükkanları, marketlerin et-şarküteri reyonları, et entegre tesisleri ve kesimhaneler gibi genellikle kapalı mekanlarda çalışır. Çalışma ortamı sık sık serin veya soğuktur, zemin nemli ve kaygan olabilir; et, kan ve baharat kokusu yoğundur. Bıçak, satır ve kemik testeresi gibi kesici aletlerle çalışıldığından yaralanma riski vardır; bu nedenle iş güvenliği kurallarına ve hijyen önlemlerine dikkat edilmesi gerekir.\\n\\nMeslek genellikle ayakta ve uzun süreli çalışmayı gerektirir. Çalışma saatleri işyerinin açılış-kapanış düzenine göre değişebilir, hafta sonları ve yoğun dönemlerde (bayram öncesi gibi) çalışma süresi uzayabilir. Kasap; işyeri sahibi/yöneticisi, çalışma arkadaşları, tedarikçiler ve özellikle müşterilerle sürekli yüz yüze iletişim halindedir.\"",
+ "egitim": {
+  "verildigi_yerler": "Kasaplık mesleğine yönelik resmî olarak tanımlanmış tek bir okul/diploma programı bulunmamaktadır. Meslek genellikle işbaşında, kasap dükkanı veya et-şarküteri işletmelerinde usta yanında çalışılarak öğrenilir. Bunun yanında Halk Eğitim Merkezleri ile İŞKUR'un açtığı mesleki eğitim kurslarında ve bazı illerde Mesleki Eğitim Merkezlerinin ilgili alan/dallarında temel kasaplık bilgi ve becerileri kazandırılabilmektedir.",
+  "giris_kosullari": [
+   "Okuryazar olmak yeterlidir; belirli bir öğrenim şartı aranmaz.",
+   "İşbaşında eğitim için bir işyeri bulunması ve işveren ile anlaşılması gerekir.",
+   "Kurs programlarına katılmak için ilgili kursun belirlediği yaş ve kayıt şartlarının karşılanması gerekir.",
+   "Sağlık durumunun ağır fiziksel çalışmaya, soğuk ortamda ve gıda ile çalışmaya uygun olması gerekir."
+  ],
+  "sure_ve_icerik": "Eğitim süresi ve içeriği, öğrenilen yere göre değişir. İşbaşında usta yanında yetişmede süre, kişinin öğrenme hızına ve işyerinin uyguladığı eğitim sürecine bağlı olarak değişkenlik gösterir; bu süreçte hayvan karkasının parçalanması, et ve tavuk ürünlerinin ana bölümlere ayrılması, bıçak ve kesim teknikleri, muhafaza yöntemleri, hijyen kuralları ve satış becerileri üzerinde durulur. Halk Eğitim Merkezleri veya İŞKUR kurslarında bu konular daha kısa süreli, yoğunlaştırılmış programlar halinde verilir.",
+  "belge": "İşbaşı eğitiminde resmî bir belge verilmesi zorunlu değildir; kurs programlarını tamamlayanlara kurs bitirme/katılım belgesi verilir. Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda ve işyeri açarken tercih sebebi olabilir."
+ },
+ "gorevler": [
+  "Sipariş listesini düzenler.",
+  "Fiyat etiketlerini düzenler.",
+  "Tavuk iade faturalarını düzenler.",
+  "Ürünlerin temizliğini, sağlığa uygunluğunu, yağ-kemik oranlarını ve damga kontrolünü yapar.",
+  "Büyükbaş hayvanlarda kesilen karkasın uygunluğunu kontrol eder.",
+  "Satın alınacak ürünleri seçer.",
+  "Ürünlerin işyerine ulaştırılmasını sağlar.",
+  "Et ve tavuk ürünlerinin muhafazasını sağlar.",
+  "Çalışma aletlerinin bakımını yapar.",
+  "Satışa sunulacak ürünleri depodan çıkartır.",
+  "Karkası (gövde) parçalar ve ana bölümlerine ayırır.",
+  "Ana bölümleri müşteri isteğine göre şekillendirir.",
+  "Ürünü kemiksiz hale getirir.",
+  "Kemiksiz kısımlardan kıyma yapar.",
+  "Rosto yapar.",
+  "Kuşbaşı, şişlik, kavurmalık, ızgaralık, biftek, pirzola yapar.",
+  "Ürün artıklarını değerlendirir.",
+  "Et ve tavuk ürünlerinin satışını gerçekleştirir.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "calisma_alanlari": "\"Kasaplar; kasap dükkanları, marketlerin et ve şarküteri reyonları, et entegre tesisleri, kesimhaneler, toptan et ticareti yapan işletmeler ile restoran, otel ve lokanta gibi gıda işletmelerinin mutfak/depo bölümlerinde çalışabilir. Deneyim kazanıp sermaye birikimi sağlayanlar kendi kasap dükkanlarını açabilir.\"",
+ "kazanc": {
+  "egitim_suresince": "İşbaşında usta yanında yetişenler, çalıştıkları işyeri ile karşılıklı anlaşmaya göre bir ücret alabilir. Kurs döneminde genellikle ücret söz konusu değildir; bazı kurs programlarında katılımcılara kursiyer harçlığı ödenebilir.",
+  "egitim_sonrasi": [
+   "Yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Deneyim, bilgi, çalışma kapasitesi ve işyerinin büyüklüğüne göre kazanç artabilir.",
+   "Toplu iş sözleşmesi uygulanan işyerlerinde ücret, sözleşme hükümlerine göre belirlenir.",
+   "Kendi işyerini açanların kazancı, işin hacmine ve müşteri potansiyeline göre değişir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Çıraklık-kalfalık-ustalık sistemi uygulanan merkezlerde bu eğitimi tamamlayanlar kalfalık ve ustalık belgesi alabilir. Çeşitli kurslara katılarak mesleki bilgi ve beceriler geliştirilebilir.",
+  "is_hayatinda": "Deneyim kazandıkça usta kasaplığa, reyon veya şube sorumluluğuna yükselinebilir; sermaye birikimi sağlayanlar kendi işyerini açabilir."
+ },
+ "benzer_meslekler": [
+  "Et Kesimcisi",
+  "Mezbaha Kesim İşçisi",
+  "Kasap (Et Hazırlayıcı)",
+  "Kesimhane İşçisi",
+  "Diğer Kasaplar ve Et Hazırlama İşçileri",
+  "Et Temizleyicisi-Sıyırıcısı"
+ ],
+ "ek_bilgiler": "\"Kasaplık mesleğinde gıda güvenliği ve hijyen kurallarına uyum büyük önem taşır; işyerlerinde periyodik sağlık muayenesi ve hijyen eğitimi yaygın bir uygulamadır.\"",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T06:48:58",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6592
+  }
+ }
+}

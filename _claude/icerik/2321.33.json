@@ -1,0 +1,77 @@
+{
+ "arac_gerec": [
+  "Resim malzemeleri (fırça, boya, tuval, kağıt)",
+  "Kil, alçı ve seramik şekillendirme malzemeleri",
+  "Heykel yapım araçları (kalıp, spatula, modelaj aletleri)",
+  "Baskı sanatları araçları (linolyum, tahta kalıp, baskı mürekkebi)",
+  "Çizim ve ölçü araçları (cetvel, gönye, pergel)",
+  "Atölye donanımı (çalışma tezgahı, seramik fırını varsa)",
+  "Projeksiyon cihazı ve bilgisayar",
+  "Fotoğraf makinesi",
+  "Sanat eserleri, slayt ve görsel kaynaklar",
+  "Ders kitapları, müfredat programı, yıllık/günlük çalışma planları",
+  "Not defteri, ders ve yoklama defterleri",
+  "Öğrenci çalışma ve değerlendirme formları"
+ ],
+ "genel_ozellikler": [
+  "Sanata ve estetiğe ilgili,",
+  "Yaratıcı ve özgün düşünebilen,",
+  "El ve göz koordinasyonu gelişmiş,",
+  "Görsel algısı ve renk duygusu güçlü,",
+  "Dikkatli ve işine özen gösteren,",
+  "İnsanlarla iyi iletişim kurabilen, hoşgörülü ve sabırlı,",
+  "Öğrencilerin duygu ve düşüncelerini anlayabilen,",
+  "Kendini sanatsal ve mesleki açıdan geliştirmeye istekli"
+ ],
+ "calisma_ortami": "Plastik Sanatlar Öğretmeni, görevini genellikle okul içinde sınıf ve atölye ortamında yürütür; dersin niteliğine göre zamanının bir bölümünü ayakta ve hareketli geçirir. Atölye çalışmalarında boya, kil, alçı gibi malzemelerle ve bazı durumlarda kesici-delici aletlerle temas söz konusu olabileceğinden, iş sağlığı ve güvenliği kurallarına uyulması önemlidir. Çalışma ortamı genellikle gürültüsüzdür; ancak atölye kullanımına bağlı olarak toz veya malzeme kokusu bulunabilir.\n\nGörevini okulun normal ders saatleri içinde yerine getirir; nöbetçi olduğu günlerde ek sorumluluk üstlenir. Öğrenciler, diğer branş öğretmenleri, okul idaresi ve veliler ile sürekli iletişim halindedir.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi, üniversitelerin Eğitim Fakültelerine bağlı Resim-İş Öğretmenliği/Görsel Sanatlar Öğretmenliği bölümlerinde verilmektedir. Bunun yanında, üniversitelerin Güzel Sanatlar Fakültelerine bağlı resim, heykel, seramik, grafik sanatlar gibi plastik sanatlar alanındaki lisans programlarını bitirenler, Milli Eğitim Bakanlığı ile Yükseköğretim Kurulu (YÖK) iş birliğinde açılan Pedagojik Formasyon Eğitimi Sertifika Programı ya da Öğretmenlik Meslek Bilgisi Tezsiz Yüksek Lisans Programını tamamlamaları halinde okullarda bu alanda öğretmen olarak atanabilirler.",
+  "giris_kosullari": [
+   "Lise veya dengi okul mezunu olmak",
+   "YKS (Yükseköğretim Kurumları Sınavı) kılavuzunda belirtilen giriş koşullarını taşımak",
+   "İlgili bölümlerin çoğunda uygulanan özel yetenek sınavında başarılı olmak",
+   "Meslek Yüksekokulları ile Açıköğretim Önlisans Programlarının ilgili bölümlerinden mezun olanlar, Dikey Geçiş Sınavı (DGS) ile lisans programına geçiş yapabilir"
+  ],
+  "sure_ve_icerik": "Lisans eğitiminin süresi 4 yıldır. Eğitim süresince resim, heykel, seramik, grafik sanatlar gibi plastik sanatlar alanına ait teorik ve uygulamalı meslek dersleri ile birlikte öğretmenlik meslek bilgisi dersleri (eğitim bilimleri, öğretim yöntemleri, ölçme-değerlendirme vb.) okutulur. Öğrenciler son sınıfta okullarda öğretmenlik uygulaması stajı yaparlar.",
+  "belge": "Eğitimini başarı ile tamamlayanlara lisans diploması verilir. Kamu kurumlarında öğretmen olarak atanabilmek için ayrıca Kamu Personeli Seçme Sınavı (KPSS) ve Milli Eğitim Bakanlığının öğretmen atama şartlarını sağlamak gerekir."
+ },
+ "calisma_alanlari": "Plastik Sanatlar Öğretmeni, başta güzel sanatlar liseleri olmak üzere, Milli Eğitim Bakanlığına bağlı resmî ve özel ortaöğretim kurumlarında görsel/plastik sanatlar alanı veya görsel sanatlar dersi kapsamında öğretmen olarak çalışabilir. Ayrıca özel eğitim kurumları, kurs ve atölyeler, dershaneler, sanat merkezleri ile çeşitli kültür-sanat kuruluşlarında eğitmen olarak görev alabilir. Kamu kurumlarında istihdam için KPSS sonucuna göre Milli Eğitim Bakanlığı tarafından yapılan atamalar takip edilmelidir.",
+ "kazanc": {
+  "egitim_suresince": "Lisans eğitimi süresince öğrenciler, devlet üniversitelerinde burs, kredi ve yurt imkanlarından yararlanabilir. Öğretmenlik uygulaması stajı sırasında genellikle ücret söz konusu değildir.",
+  "egitim_sonrasi": [
+   "Kamu okullarında çalışanlar 657 sayılı Devlet Memurları Kanunu'na göre maaş ve ek ders ücreti alır.",
+   "Özel okul ve kurumlarda çalışanların ücreti işveren ile yapılan anlaşmaya, deneyime ve kurumun özelliklerine göre değişir.",
+   "Mesleğe yeni başlayanların kazancı genellikle asgari ücret ile kamu maaş skalası arasında değişebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Lisans eğitimini tamamlayanlar, isteğe bağlı olarak sanat eğitimi, görsel sanatlar eğitimi veya ilgili plastik sanat dallarında yüksek lisans ve doktora yaparak akademik kariyer yapabilirler. Branş değişikliği isteyenler ilgili pedagojik formasyon veya tezsiz yüksek lisans programlarını tamamlayabilir.",
+  "is_hayatinda": "Kıdem, performans ve idari sınavlarda başarı göstererek müdür başyardımcısı, müdür yardımcısı veya okul müdürü gibi idari görevlere yükselebilirler. Alanında uzmanlaşarak proje yürütücülüğü, eğitici eğitimi veya sanatsal etkinliklerde koordinatörlük gibi görevler üstlenebilirler."
+ },
+ "benzer_meslekler": [
+  "Görsel Sanatlar Öğretmeni",
+  "Seramik ve Cam Teknolojisi Öğretmeni",
+  "Fotoğraf Öğretmeni"
+ ],
+ "ek_bilgiler": "Kamu okullarında öğretmen olarak atanabilmek için KPSS sonucuna ek olarak Milli Eğitim Bakanlığının o yıl için belirlediği öğretmen atama kontenjanı ve branş şartlarının takip edilmesi gerekir. Güzel sanatlar liseleri gibi özel programlı okullarda görev almak isteyenler için ilgili okulun alan/dal yapısına uygun branş bilgisi önemlidir.",
+ "gorevler": [
+  "Eğitiminden sorumlu olduğu grubun düzeyine uygun bir çalışma planı hazırlar.",
+  "Sorumlu olduğu atölye, laboratuvar, işlik vb. yerleri eğitime hazır durumda tutar.",
+  "Kendisine ayrılan ders saatlerinde çalışma planını uygulayarak öğrencilere plastik sanatlar alanı ile ilgili bilgi ve beceriler kazandırır.",
+  "Öğrencilerin başarılarını ölçer, değerlendirir, idareye sonuçları verir.",
+  "Alanı ile ilgili gelişmeleri izler, ihtiyaçları saptar, bunların öğretim programlarına yansıtılması için ilgililere önerilerde bulunur.",
+  "Öğrencilerin gelişimlerine katkıda bulunacak eğitim-öğretim yöntemlerini geliştirir ve uygular.",
+  "Nöbetçi olduğu günlerde, okulun düzen ve disiplinini sağlar.",
+  "Öğrencilerin gelişimlerini izler, sorunlarının çözümüne yardımcı olur.",
+  "Mesleği alanındaki gelişmeleri takip eder ve uygular.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T02:58:17",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6054
+  }
+ }
+}

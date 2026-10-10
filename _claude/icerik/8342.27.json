@@ -1,0 +1,76 @@
+{
+ "arac_gerec": [
+  "Yüzey delici makinesi (rock drill / delici kule)",
+  "Çeşitli formasyonlara uygun matkap uçları (dragbit, konik buton uç, roller bit vb.)",
+  "Hidrolik güç ünitesi ve hidrolik hortum/bağlantı elemanları",
+  "Kompresör ve basınçlı hava sistemi",
+  "Su püskürtme ve toz bastırma sistemi",
+  "Toz emiş/filtre sistemi",
+  "Nişan alma ve konum belirleme ekipmanları (lazer nişangah, koordinat/GPS cihazı)",
+  "Delik derinlik ve açı ölçüm aletleri",
+  "El aletleri (anahtar takımı, pense, tornavida, yağdanlık)",
+  "Yakıt ve madeni yağlar, temizlik malzemeleri (üstübü vb.)",
+  "Telsiz veya haberleşme cihazı",
+  "Kişisel koruyucu donanım (baret, iş gözlüğü, kulaklık, toz maskesi, eldiven, çelik burunlu ayakkabı, yansıtıcı iş kıyafeti)"
+ ],
+ "genel_ozellikler": [
+  "Makine ve mekanik sistemlere ilgi duyan,",
+  "El, göz ve ayak koordinasyonunu iyi kullanabilen,",
+  "Dikkatli, tedbirli ve sorumluluk sahibi,",
+  "Fiziksel olarak dayanıklı,",
+  "Proje planı, kroki ve ölçüm verilerini doğru okuyup uygulayabilen,",
+  "Ekip halinde çalışmaya uyumlu,",
+  "Açık hava ve saha koşullarında çalışmaya istekli,",
+  "Acil durumlarda hızlı ve doğru karar verebilen,"
+ ],
+ "calisma_ortami": "Yüzey Delici Makineleri (Rock) Operatörü, görevini maden sahalarında (açık ocak işletmeleri, taş ocakları) veya büyük inşaat ve yol yapım şantiyelerinde, genellikle açık havada ve makinenin kapalı kabini içinde oturarak yürütür. Çalışma ortamı tozlu, gürültülü ve titreşimlidir; sıcak, soğuk, yağmur ve rüzgâr gibi hava koşullarına açık bir sahada çalışıldığından fiziksel zorluklar söz konusudur. Dikkatsizlik veya makine arızası durumunda iş kazası riski bulunduğundan iş sağlığı ve güvenliği kurallarına titizlikle uyulması gerekir.\n\nÇalışma genellikle gündüz saatlerinde olmakla birlikte, işletmenin faaliyet şekline göre vardiyalı çalışma da söz konusu olabilir. Operatör; saha şefi, patlatma ustası/mühendisi, diğer makine operatörleri, bakım-onarım personeli ve işyeri yöneticileriyle iş öncesi, sırası ve sonrasında etkileşim halindedir.",
+ "egitim": {
+  "verildigi_yerler": "Yüzey Delici Makineleri (Rock) Operatörlüğü için ayrı, resmî bir örgün eğitim programı bulunmamaktadır. Meslek, genellikle iş makinesi operatörlüğüne yönelik kurslarda (MEB onaylı özel kurs firmaları, Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kursları) temel bilgi ve beceri kazandırılarak, ardından maden veya inşaat işletmelerinde usta yanında işbaşı eğitimiyle öğrenilir.",
+  "giris_kosullari": [
+   "18 yaşını doldurmuş olmak",
+   "En az ilköğretim mezunu olmak",
+   "Operatörlük yapmaya engel bir sağlık sorunu (işitme, görme, denge vb. açısından) bulunmamak",
+   "Bazı işletmelerde ilgili iş makinesi/operatörlük sertifikası veya kurs belgesi istenebilir"
+  ],
+  "sure_ve_icerik": "Eğitim süresi ve içeriği, eğitimi veren kuruma göre değişmekle birlikte genel olarak makinenin teknik yapısı, hidrolik sistemler, delgi teknikleri, matkap uçlarının ve ekipmanların kullanımı, günlük bakım-kontrol işlemleri, iş sağlığı ve güvenliği ile maden sahalarında patlayıcı madde güvenliğine ilişkin temel bilgiler verilir. Kurs sonrası işletmede usta yanında pratik eğitimle beceri geliştirilir.",
+  "belge": "Eğitim/kursu tamamlayanlara katılım veya başarı belgesi (operatörlük belgesi/sertifikası) verilir. İstihdamda Mesleki Yeterlilik Kurumu (MYK) belgesine sahip olmak tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Yüzey Delici Makineleri (Rock) Operatörleri, başta açık ocak maden işletmeleri ve taş ocakları olmak üzere, patlatma ve delme işleri gerektiren büyük inşaat, yol, baraj ve altyapı projelerinde çalışırlar. İstihdam, bu alanlarda faaliyet gösteren kamu kuruluşları (ör. maden ve karayolu idareleri) ile özel maden, inşaat ve delme-patlatma işleri yapan alt yüklenici firmalarda söz konusudur. Maden ve büyük ölçekli yapı projelerinin yoğun olduğu bölgelerde iş bulma olanağı nispeten daha fazladır.",
+ "kazanc": {
+  "egitim_suresince": "Kurs ve işbaşı eğitimi süresince genellikle ayrı bir ücret söz konusu değildir; işbaşında usta yanında eğitim alanlara işletme tarafından sınırlı bir ödeme yapılabilir.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanların kazancı genellikle asgari ücret düzeyindedir.",
+   "Kamu kurumlarında çalışanlar 657 sayılı Devlet Memurları Kanunu'na veya işçi statüsündeyse ilgili toplu iş sözleşmesi hükümlerine tabi olarak ücret alır.",
+   "Özel sektörde kazanç; işletmenin büyüklüğü, çalışılan sektör (maden/inşaat), kişinin deneyimi ve bilgi birikimine göre değişebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğe özgü kademeli bir örgün eğitim ilerleme basamağı bulunmamaktadır. Operatörler, katıldıkları ek kurs ve sertifika programlarıyla bilgi ve becerilerini geliştirebilirler.",
+  "is_hayatinda": "Operatör olarak deneyim kazananlar; üstün başarı göstermeleri hâlinde baş operatör, ekip lideri veya saha şefi gibi görevlere yükselebilir. Deneyim ve ek eğitimle diğer hafriyat ve delici iş makinelerinin kullanımında da uzmanlaşarak çok yönlü operatör olabilirler."
+ },
+ "benzer_meslekler": [
+  "Yeraltı Delici Makineleri (Jumbo) Operatörü",
+  "Galeri ve Tünel Açma Makinesi Operatörü",
+  "Fore Kazık Makinesi Operatörü",
+  "Kazık Çakma Makinesi Operatörü",
+  "Beton Delme Kesme Makinesi Operatörü (Karotcu)",
+  "Sismik Vibratör Operatörü"
+ ],
+ "ek_bilgiler": "Patlatma delikleri açma işlemi, genellikle maden ve büyük inşaat sahalarında patlayıcı madde kullanımıyla doğrudan ilişkili olduğundan, bu meslek çalışıldığı sektöre ve işin niteliğine göre tehlikeli veya çok tehlikeli işler kapsamında değerlendirilebilir. Bu durumda periyodik sağlık kontrolleri, iş güvenliği eğitimleri ve ilgili mevzuata uyum önem kazanır.",
+ "gorevler": [
+  "Makineyi delgi yapılacak koordinat noktasına hassas şekilde yerleştirir.",
+  "Formasyona uygun matkap ucu ve darbe gücü ayarlarını yapar.",
+  "Delik derinliğini, açısını ve çapını proje planına göre denetler.",
+  "Toz emiş ve su püskürtme sistemlerini delgi sırasında çalıştırır.",
+  "Makinenin günlük hidrolik ve mekanik kontrollerini yürütür.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T18:42:56",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5808
+  }
+ }
+}

@@ -1,0 +1,86 @@
+{
+ "arac_gerec": [
+  "Bilgisayar ve ilgili çevre birimleri",
+  "Elektronik devre tasarım ve simülasyon yazılımları",
+  "Kontrol ve kumanda sistemleri deney setleri",
+  "Mikrodenetleyici ve mikroişlemci kartları",
+  "PLC (Programlanabilir Lojik Kontrolör) eğitim setleri",
+  "Sensör ve aktüatörler",
+  "Osiloskop, multimetre gibi ölçüm cihazları",
+  "Laboratuvar deney ve test düzenekleri",
+  "Projeksiyon cihazı ve sunum araçları",
+  "Bilimsel veri tabanları ve yayın kaynakları",
+  "Ders notu, sunum ve müfredat dokümanları",
+  "Proje ve araştırma raporlama yazılımları"
+ ],
+ "genel_ozellikler": [
+  "Sayısal ve analitik düşünme yeteneğine sahip,",
+  "Araştırmaya ve bilimsel yeniliğe açık,",
+  "Bilgisayar, elektronik ve kontrol sistemleri alanına ilgili,",
+  "Sabırlı, dikkatli ve işine özen gösteren,",
+  "İyi derecede yazılı ve sözlü anlatım becerisine sahip,",
+  "Ekip çalışmasına yatkın,",
+  "Kendini sürekli geliştirmeye istekli,",
+  "Bilgi ve deneyimini paylaşmaya istekli, öğretmeyi seven,"
+ ],
+ "calisma_ortami": "Bilgisayar Kontrol-Kumanda Sistemleri Eğitimi Öğretim Üyesi, üniversite bünyesinde çalışma odası, derslik ve laboratuvar gibi kapalı ortamlarda görev yapar. Laboratuvar çalışmalarında elektronik devre ve kontrol sistemleri setleriyle uygulama yaptırdığından dikkatli olunması gerekir; genel olarak fiziksel risk düzeyi düşüktür. Zaman zaman bilimsel toplantı, kongre ve proje görüşmeleri için şehir içi veya şehir dışı seyahat edebilir.\n\nÇalışma saatleri ders programı, araştırma ve idari görevlere göre değişkenlik gösterir; genellikle tam gün çalışılır, ancak proje, yayın hazırlama ve tez danışmanlığı gibi işler nedeniyle mesai saatleri dışında da çalışma gerekebilir. Görevi sırasında öğrencilerle, diğer öğretim elemanlarıyla, idari personelle ve kamu/özel sektör kurumlarından araştırmacı ve yöneticilerle sürekli iletişim kurar.",
+ "gorevler": [
+  "Bilgisayar donanım teknolojisinin verimli şekilde kullanılmasını sağlayarak bilgi ve becerisini geliştirir.",
+  "Bilgisayarların çalışma yapısı konusunda araştırmalar yapar.",
+  "Kontrol ve kumanda sistemleri alanında çalışmalar yürütür.",
+  "Bilimsel yöntem oluşturur, geliştirir, uygular.",
+  "Yükseköğretim kurumlarında alanı ile ilgili bilimsel araştırma ve projeler üretir ve yapar.",
+  "Araştırma sonuçlarını ilgili ulusal ve uluslararası bilimsel toplantı ve kongrelerde sunar ya da bilimsel dergilerde veya elektronik formatlarda yayımlar.",
+  "Araştırma ya da projelerin uygulamaya dönük sonuçlarını ilgili kurum ve kuruluşlarla paylaşır.",
+  "Yükseköğretim kurumlarında eğitim, öğretim ve uygulama çalışmaları yapar ve yaptırır; müfredat programlarını geliştirir, yeniler ve uygular.",
+  "Ders yılı içerisinde ve bitiminde öğrencilerin bilgi düzeyinin ölçülmesi için ödevler hazırlatır, sınavlar yapar, sınav kağıtlarını okuyup değerlendirir, sonuçlarını idareye bildirir.",
+  "Lisansüstü öğrencilerine tez konularını verir ya da tez konularının seçiminde öğrencilere yardımcı olur ve çalışmalarını izler.",
+  "İlgili birim başkanlığınca düzenlenen programa göre belirli günlerde öğrencileri kabul ederek onlara gerekli konularda yardımcı olur, ilgili kanundaki amaç ve ana ilkeler doğrultusunda yol gösterir ve rehberlik eder.",
+  "Kamu ve özel sektörde bilimsel danışmanlık yapar, alanı ile ilgili konularda bilirkişilik yapar.",
+  "Çeşitli bilimsel yayınlarda hakemlik yapar, yurt içinde ve yurt dışında konferanslar verir.",
+  "Gerektiğinde idari sorumluluk yüklenir.",
+  "Konusundaki gelişme ve yenilikleri izleyip araştırmalar yapar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Bu mesleğe yönelik eğitim süreci, üniversitelerin Bilgisayar Mühendisliği, Elektrik-Elektronik Mühendisliği, Kontrol ve Otomasyon Mühendisliği, Bilgisayar Bilimleri gibi ilgili lisans programlarıyla başlar; aynı veya yakın alanlarda verilen yüksek lisans ve doktora programlarıyla tamamlanır.",
+  "giris_kosullari": [
+   "Lise veya dengi okul mezunu olmak ve YKS (Yükseköğretim Kurumları Sınavı) sonucuna göre ilgili lisans programına (Bilgisayar Mühendisliği, Elektrik-Elektronik Mühendisliği, Kontrol ve Otomasyon Mühendisliği vb.) yerleşmek,",
+   "Lisans eğitimini tamamladıktan sonra ALES ve ilgili yabancı dil sınavı sonuçları ile ilgili yüksek lisans programına kabul edilmek,",
+   "Yüksek lisans eğitimini tamamladıktan sonra doktora programına kabul edilmek ve doktora eğitimini başarıyla tamamlamak,",
+   "Öğretim üyesi kadrosuna atanabilmek için ilgili mevzuatta belirtilen akademik yeterlilik (yayın, proje vb.) ve sınav şartlarını sağlamak."
+  ],
+  "sure_ve_icerik": "Lisans eğitimi 4 yıl, yüksek lisans eğitimi genellikle 2 yıl, doktora eğitimi ise alana ve çalışmaya göre ortalama 4-6 yıl sürer. Lisans eğitiminde bilgisayar donanımı, programlama, elektronik ve temel kontrol sistemleri dersleri; yüksek lisans ve doktora eğitiminde ise kontrol-kumanda sistemleri, otomasyon, gömülü sistemler gibi alana özgü ileri düzey dersler ile tez çalışması yer alır. Doktora sonrasında akademik unvanlar (Dr. Öğretim Üyesi, Doçent, Profesör), ilgili mevzuatta belirtilen yayın, atıf, proje ve sınav şartlarının sağlanmasıyla sırasıyla kazanılır.",
+  "belge": "Eğitim sürecini başarıyla tamamlayanlara ilgili lisans, yüksek lisans ve doktora diplomaları verilir; doktora sonrasında ilgili mevzuatta belirtilen şartların sağlanmasıyla akademik unvan (Dr. Öğretim Üyesi, Doçent, Profesör) kazanılarak öğretim üyesi kadrosuna atanılır."
+ },
+ "calisma_alanlari": "Bilgisayar Kontrol-Kumanda Sistemleri Eğitimi Öğretim Üyesi, devlet ve vakıf üniversitelerinin Bilgisayar Mühendisliği, Elektrik-Elektronik Mühendisliği, Kontrol ve Otomasyon Mühendisliği gibi ilgili bölümlerinde öğretim üyesi olarak çalışır. Bunun yanında kamu ve özel sektördeki ar-ge kurumlarında, üniversite-sanayi iş birliği projelerinde bilimsel danışmanlık, bilirkişilik ve proje yürütücülüğü gibi görevler üstlenebilir.",
+ "kazanc": {
+  "egitim_suresince": "Lisans öğrencileri Yükseköğrenim Kredi ve Yurtlar Kurumu'nun kredi, yurt ve harç imkanlarından yararlanabilir. Yüksek lisans ve doktora öğrencileri ise genellikle araştırma görevlisi kadrosunda çalışarak ya da TÜBİTAK gibi kurumların sunduğu burs ve desteklerden yararlanarak gelir sağlayabilir.",
+  "egitim_sonrasi": [
+   "Kamu üniversitelerinde görev yapan öğretim üyelerinin maaş ve özlük hakları ilgili yükseköğretim mevzuatına göre belirlenir.",
+   "Vakıf üniversitelerinde çalışanların ücretleri kurumla yapılan sözleşmeye, akademik unvana (Dr. Öğretim Üyesi, Doçent, Profesör) ve deneyime göre değişebilir.",
+   "Akademik unvan yükseldikçe ve proje, danışmanlık gibi ek faaliyetler arttıkça kazanç düzeyi de genellikle artar."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Akademik kariyer; lisans eğitimi sonrasında yüksek lisans ve doktora eğitimiyle, doktora sonrasında ise sırasıyla Dr. Öğretim Üyesi, Doçent ve Profesör unvanlarının kazanılmasıyla ilerler. Unvan yükseltmeleri, ilgili mevzuatta belirtilen bilimsel yayın, atıf, proje ve sınav şartlarının yerine getirilmesine bağlıdır.",
+  "is_hayatinda": "Akademik kariyerinde ilerleyen öğretim üyeleri, bölüm başkanlığı, anabilim dalı başkanlığı, dekanlık, enstitü veya araştırma merkezi müdürlüğü gibi idari görevlere getirilebilir. Ayrıca ulusal ve uluslararası projelerde yürütücülük, bilimsel dergilerde editörlük veya hakemlik gibi sorumluluklar üstlenebilir."
+ },
+ "benzer_meslekler": [
+  "Bilgisayar Donanımı Eğitimi Öğretim Üyesi",
+  "Bilgisayar Donanımı Öğretim Üyesi",
+  "Bilgisayar Mühendisliği Öğretim Üyesi",
+  "Elektrik-Elektronik Mühendisliği Öğretim Üyesi",
+  "Devreler ve Sistemler Öğretim Üyesi",
+  "Elektronik Öğretim Üyesi"
+ ],
+ "ek_bilgiler": "2547 sayılı Yükseköğretim Kanunu'nda 2018 yılında yapılan değişiklikle \"Yardımcı Doçent\" unvanı kaldırılmış, bunun yerine \"Dr. Öğretim Üyesi\" unvanı getirilmiştir. Bu nedenle öğretim üyeliği kariyer basamakları Dr. Öğretim Üyesi, Doçent ve Profesör olarak sıralanmaktadır. Alanın bilgisayar donanımı, kontrol ve otomasyon teknolojileriyle ilişkili olması nedeniyle, üniversite-sanayi iş birliği projeleri ve teknoloji geliştirme bölgelerinde (teknokent) yürütülen çalışmalar bu meslekte ek kazanç ve proje imkânı sağlayabilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T00:09:25",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 8596
+  }
+ }
+}

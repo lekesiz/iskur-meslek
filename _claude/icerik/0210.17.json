@@ -1,0 +1,76 @@
+{
+ "gorevler": [
+  "Hava araçlarının veya yer sistemlerinin bakım süreçlerine katılır.",
+  "Sorumlu olduğu birimdeki personelin disiplinini sağlar.",
+  "Teknik kayıtları ve servis formlarını düzenler.",
+  "Nöbet ve güvenlik görevlerini yerine getirir.",
+  "Uçuş emniyeti standartlarına uygun hareket eder.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "arac_gerec": [
+  "Hava aracı bakım ve kontrol ekipmanları",
+  "El aletleri (anahtar takımları, tork anahtarları, pense, tornavida vb.)",
+  "Elektronik ve elektrikli ölçüm/test cihazları (multimetre, osiloskop vb.)",
+  "Bilgisayar ve teknik doküman/kayıt yazılımları",
+  "Haberleşme ve telsiz cihazları",
+  "Kişisel koruyucu donanım (iş elbisesi, baret, eldiven, kulaklık, gözlük)",
+  "Silah ve nöbet teçhizatı",
+  "Servis formları ve teknik kayıt defterleri",
+  "Uçuş emniyeti kontrol listeleri",
+  "Hangar ve atölye kaldırma-taşıma ekipmanları (vinç, forklift vb.)",
+  "Üniforma, rütbe işaretleri ve kişisel teçhizat",
+  "Araç ve ekipman kullanım kılavuzları"
+ ],
+ "genel_ozellikler": [
+  "Disiplinli,",
+  "Sorumluluk sahibi ve güvenilir,",
+  "Fiziksel ve psikolojik açıdan sağlıklı, dayanıklı,",
+  "Takım çalışmasına yatkın,",
+  "Teknik konulara ilgili ve analitik düşünebilen,",
+  "Dikkatli ve titiz,",
+  "Vatan ve millet sevgisiyle görev bilincine sahip,",
+  "Değişken ve stresli koşullara uyum sağlayabilen,"
+ ],
+ "calisma_ortami": "Astsubay Çavuş (Hava Kuvvetleri), Hava Kuvvetleri Komutanlığına bağlı hava üsleri, hangarlar, atölyeler ve idari birimlerde görev yapar. Görevine göre kapalı mekânlarda (ofis, atölye, hangar) veya açık havada çalışabilir; hangar ve atölye ortamları zaman zaman gürültülü olabilir ve teknik ekipmanlarla çalışma riskleri içerebilir. Nöbet sistemi gereği çalışma saatleri düzensiz olabilir, görev gereği farklı garnizon ve üslere atanabilir.\n\nHiyerarşik ve disiplinli bir yapı içinde subaylar, diğer astsubaylar ve er/erbaşlarla sürekli iletişim halinde çalışır. Görev yoğunluğuna göre uzun çalışma saatleri, seyahat ve geçici görevlendirmeler söz konusu olabilir.",
+ "egitim": {
+  "verildigi_yerler": "Milli Savunma Üniversitesi bünyesindeki Hava Astsubay Meslek Yüksekokulu gibi askeri eğitim kurumlarında verilir.",
+  "giris_kosullari": [
+   "Türk vatandaşı olmak",
+   "Lise ve dengi okul mezunu olmak",
+   "Milli Savunma Bakanlığı/Hava Kuvvetleri Komutanlığınca belirlenen yaş, sağlık, boy-kilo ve fiziki yeterlilik şartlarını taşımak",
+   "Güvenlik soruşturması ve arşiv araştırması sonucu olumlu olmak",
+   "Yapılan sınav, mülakat ve değerlendirme aşamalarını başarıyla tamamlamak"
+  ],
+  "sure_ve_icerik": "Hava Astsubay Meslek Yüksekokulunda ön lisans düzeyinde, teorik derslerin yanı sıra askeri disiplin, fiziki eğitim ve branşa yönelik teknik/idari uygulamalı eğitimler verilir. Eğitim süresince askeri eğitim ve branş eğitimi bir arada yürütülür; mezuniyet sonrası branşa göre ek hizmet içi kurslar alınabilir.",
+  "belge": "Ön lisans diploması ve Astsubay Çavuş rütbesiyle atanmaya hak kazandıran mezuniyet/göreve başlama belgesi"
+ },
+ "calisma_alanlari": "Astsubay Çavuş (Hava Kuvvetleri), Türk Silahlı Kuvvetleri bünyesinde Hava Kuvvetleri Komutanlığına bağlı hava üsleri, eğitim merkezleri, bakım birimleri ve idari birimlerde istihdam edilir. Branşına göre teknik bakım, uçuş emniyeti, idari hizmetler, haberleşme, lojistik veya güvenlik alanlarında görev alabilir.",
+ "kazanc": {
+  "egitim_suresince": "Hava Astsubay Meslek Yüksekokulu öğrencisi iken barınma, iaşe ve giyim gibi temel ihtiyaçları karşılanır; ayrıca öğrenciye belirli bir harçlık ödenir.",
+  "egitim_sonrasi": [
+   "Göreve başladıktan sonra 657 sayılı Devlet Memurları Kanunu kapsamında, rütbe ve kıdemine göre belirlenen askeri personel maaşı ile çeşitli ek ödeme ve tazminatlar alır.",
+   "Kazanç düzeyi görev yeri, branş, kıdem ve rütbeye göre değişiklik gösterir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Göreve başladıktan sonra branşına yönelik hizmet içi kurslar, teknik okullar ve ileri uzmanlık eğitimleriyle bilgi ve becerisini geliştirebilir.",
+  "is_hayatinda": "Kıdem, liyakat ve sınav sonuçlarına göre sırasıyla Astsubay Kıdemli Çavuş, Astsubay Üstçavuş, Astsubay Kıdemli Üstçavuş, Astsubay Başçavuş ve Astsubay Kıdemli Başçavuş rütbelerine terfi edebilir; branşında uzmanlaşarak eğitmenlik veya birim yöneticiliği gibi görevlere yükselebilir."
+ },
+ "benzer_meslekler": [
+  "Astsubay Çavuş(Kara Kuvvetleri)",
+  "Astsubay Çavuş(Deniz Kuvvetleri)",
+  "Astsubay Kıdemli Çavuş(Hava Kuvvetleri)",
+  "Astsubay Üstçavuş(Hava Kuvvetleri)",
+  "Astsubay Kıdemli Üstçavuş(Hava Kuvvetleri)",
+  "Uzman Çavuş"
+ ],
+ "ek_bilgiler": "Bu mesleğe giriş, yalnızca Milli Savunma Bakanlığı ve Hava Kuvvetleri Komutanlığı tarafından açılan resmî sınav ve atama süreçleriyle mümkündür. Göreve atanma, terfi ve çalışma koşulları askeri mevzuat, disiplin kuralları ve hizmet gerekleri çerçevesinde belirlenir; görev yeri değişiklikleri ve geçici görevlendirmeler söz konusu olabilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-07T17:40:13",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5021
+  }
+ }
+}

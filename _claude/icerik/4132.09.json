@@ -1,0 +1,70 @@
+{
+ "arac_gerec": [
+  "Bilgisayar",
+  "Klavye ve mouse",
+  "Veri tabanı yönetim sistemi yazılımları",
+  "Ofis yazılımları (kelime işlemci, elektronik tablolama programları)",
+  "Tarayıcı (scanner)",
+  "Yazıcı",
+  "Harici bellek ve yedekleme cihazları (harici disk, USB bellek)",
+  "İnternet ve kurum içi ağ bağlantısı",
+  "Barkod okuyucu",
+  "Telefon/faks"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve titiz,",
+  "Düzenli ve sistemli çalışabilen,",
+  "Bilgisayar kullanımına yatkın,",
+  "Hızlı ve doğru klavye kullanabilen,",
+  "Sorumluluk sahibi ve gizliliğe önem veren,",
+  "Tekrarlayan işlerde dikkatini sürdürebilen, sabırlı,",
+  "İletişim becerisi gelişmiş,",
+  "Analitik düşünebilen ve problem çözebilen"
+ ],
+ "calisma_ortami": "Bilgisayar Bilgi Yönetim Elemanı, genellikle kapalı ortamda, büro içerisinde bilgisayar başında oturarak çalışır. Çalışma süresinin büyük bölümünü ekran karşısında geçirdiğinden göz ve bel yorgunluğu, uzun süreli oturmaya bağlı fiziksel sorunlar ortaya çıkabilir. Çalışma saatleri genellikle gündüz mesai saatleri içindedir; ancak yoğun veri giriş dönemlerinde veya kurumun ihtiyacına göre fazla mesai gerekebilir.\n\nGörevlerini yerine getirirken birim yöneticileri, diğer büro çalışanları ve ilgili departmanlarla iş birliği içinde çalışır. Verilerin gizliliği ve doğruluğu konusunda yüksek sorumluluk taşır; bu nedenle dikkat ve özen gerektiren, sakin ve genellikle az riskli bir çalışma ortamına sahiptir.",
+ "gorevler": [
+  "Bilgi ve belgeleri veri tabanlarına doğru şekilde girer,",
+  "Mevcut kayıtları periyodik olarak günceller ve yedekler,",
+  "Hatalı veya eksik verileri tespit ederek düzeltir,",
+  "İlgili birimler için veri raporları ve analizleri hazırlar,",
+  "Veri gizliliği ve bilgi güvenliği standartlarına uyar,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Mesleğin ortaöğretim sonrasında girilebilecek, belirli bir okul bölümüne bağlı resmi bir eğitim programı bulunmamaktadır. Meslek; ortaöğretim mezuniyeti sonrasında Halk Eğitim Merkezleri, özel bilgisayar kursları ve İŞKUR'un açtığı mesleki eğitim kurslarında verilen \"Bilgisayar İşletmenliği\", \"Veri Giriş Elemanlığı\" gibi kurslarla ya da işyerlerinde işbaşında usta/yetkili eşliğinde yetiştirilerek kazanılabilir.",
+  "giris_kosullari": [
+   "En az ortaöğretim (lise veya dengi okul) mezunu olmak",
+   "Temel bilgisayar kullanım bilgisine ve klavye kullanım alışkanlığına sahip olmak",
+   "Kursun veya kurumun belirlediği yaş ve sağlık şartlarını taşımak"
+  ],
+  "sure_ve_icerik": "Meslek için standart bir örgün eğitim programı bulunmamaktadır. Halk Eğitim Merkezleri, özel kurslar ve İŞKUR kurslarında verilen eğitimlerde klavye kullanımı, ofis programları (kelime işlemci, elektronik tablolama), temel veri tabanı yönetimi, dosyalama-arşivleme ve bilgi güvenliği gibi konular öğretilir. Kursların süresi kurumdan kuruma değişmekle birlikte genellikle birkaç hafta ile birkaç ay arasındadır. Meslek, işyerlerinde işbaşında eğitim yoluyla da kazanılabilmektedir.",
+  "belge": "Kursu tamamlayanlara kurs bitirme belgesi veya sertifika verilir. Bu alanda Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Bilgisayar Bilgi Yönetim Elemanları; kamu kurum ve kuruluşlarının bilgi işlem, personel, muhasebe, arşiv ve yazı işleri gibi birimlerinde; özel sektörde ise bankacılık, sigortacılık, lojistik, sağlık, eğitim, perakende ve danışmanlık gibi pek çok sektörün veri giriş, kayıt ve bilgi yönetimi birimlerinde çalışabilirler. Ayrıca çağrı merkezleri, dış kaynak veri işleme (outsourcing) firmaları ve e-ticaret şirketlerinde de istihdam edilebilmektedirler. Kurumların dijitalleşme sürecinin hızlanması ve kurumsal bilgi sistemlerinin yaygınlaşması nedeniyle bu meslek elemanlarına olan ihtiyacın sürdüğü görülmektedir.",
+ "kazanc": {
+  "egitim_suresince": "Halk Eğitim Merkezleri ve İŞKUR tarafından düzenlenen kurslar genellikle ücretsizdir; İŞKUR kurslarına katılanlara kursiyer zaruri gider ödemesi yapılabilir. İşbaşında yetişenler ise genellikle çalıştıkları işyerinden ücret alırlar.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında istihdam edilenler 657 sayılı Devlet Memurları Kanunu'na, işçi statüsünde çalışanlar ise ilgili toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar; deneyim, bilgi birikimi, yabancı dil bilgisi ve çalışılan işyerinin büyüklüğüne göre kazanç değişebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Bu meslekte çalışanlar isterlerse açık öğretim veya örgün eğitim yoluyla bilgisayar programcılığı, yönetim bilişim sistemleri, büro yönetimi ve yönetici asistanlığı gibi alanlarda ön lisans/lisans eğitimi alarak kendilerini geliştirebilir ve ilgili sınavlarla üst eğitim programlarına geçiş yapabilirler.",
+  "is_hayatinda": "Deneyim ve bilgi birikimi arttıkça veri tabanı sorumluluğu, büro şefliği gibi daha üst sorumluluk gerektiren pozisyonlara yükselebilir; aldıkları hizmet içi eğitim ve sertifikalarla bilgi işlem uzmanlığı gibi görevlere ilerleyebilirler."
+ },
+ "benzer_meslekler": [
+  "Bilgisayar İşletmeni",
+  "Veri Giriş Elemanı",
+  "Veri Giriş Kontrol İşletmeni",
+  "Daktilograf"
+ ],
+ "ek_bilgiler": "Kurumların dijitalleşme süreçlerinin hızlanması, bu mesleğe olan talebin sürmesinde etkili olmaktadır. Çalışanların kişisel verilerin korunmasına ilişkin mevzuata (KVKK) ve kurumsal bilgi güvenliği kurallarına uyum göstermesi önem taşımaktadır.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T15:40:17",
+  "usage": {
+   "input_tokens": 4,
+   "output_tokens": 9901
+  }
+ }
+}

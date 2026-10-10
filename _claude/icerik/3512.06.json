@@ -1,0 +1,75 @@
+{
+ "arac_gerec": [
+  "Masaüstü ve dizüstü bilgisayarlar",
+  "İşletim sistemleri (Windows, Linux, macOS vb.)",
+  "Uzaktan erişim ve uzaktan destek yazılımları (TeamViewer, AnyDesk vb.)",
+  "Çağrı/talep takip (ticketing) ve destek yönetim sistemleri",
+  "Ofis yazılımları ve kurumsal uygulama yazılımları",
+  "Ağ ve sunucu altyapısı ile ilgili temel donanım (switch, modem, yönlendirici)",
+  "Telefon, kulaklık ve iletişim sistemleri",
+  "Yedekleme üniteleri (harici disk, bulut depolama, USB bellek vb.)",
+  "Antivirüs ve güvenlik yazılımları",
+  "Kullanım kılavuzu ve çözüm dokümantasyonu hazırlama araçları",
+  "Veri tabanı ve sunucu yönetim araçları",
+  "Ekran paylaşımı ve toplantı yazılımları"
+ ],
+ "genel_ozellikler": [
+  "Analitik düşünebilen ve problem çözme becerisine sahip,",
+  "Sabırlı ve dikkatli,",
+  "Sözlü ve yazılı iletişim becerisi yüksek,",
+  "Teknolojik gelişmeleri takip eden ve kendini yenileyebilen,",
+  "Ekip çalışmasına uyumlu,",
+  "Stres yönetimine sahip ve sakin kalabilen,",
+  "Sorumluluk sahibi ve güvenilir,",
+  "Öğrenmeye açık ve araştırmacı"
+ ],
+ "calisma_ortami": "Yazılım Destek Uzmanı, genellikle kapalı ortamda, bilgisayar başında oturarak çalışır. Çalışma mekânı büro, çağrı merkezi veya bilgi işlem birimi şeklinde olabilir; bazı durumlarda kullanıcının bulunduğu birime giderek yerinde destek de verir. İşini yaparken telefon, e-posta, canlı yazışma ve uzaktan bağlantı yazılımları aracılığıyla kullanıcılarla, yöneticilerle ve diğer bilgi işlem personeliyle sürekli iletişim halindedir.\n\nÇalışma saatleri genellikle kurumun mesai saatleriyle sınırlıdır; ancak kesintisiz hizmet veren kurumlarda vardiyalı veya nöbet usulü çalışma gerekebilir. Ekran karşısında uzun süre çalışmaya bağlı göz yorgunluğu, bel ve boyun rahatsızlıkları görülebilir; yoğun talep dönemlerinde zaman baskısı ve stres söz konusu olabilir.",
+ "gorevler": [
+  "Yazılım kurulumu ve konfigürasyon işlemlerini yapar.",
+  "Kullanıcılardan gelen hata bildirimlerini analiz eder ve çözer.",
+  "Uzaktan veya yerinde teknik destek hizmeti sunar.",
+  "Yazılım güncellemeleri hakkında kullanıcıları bilgilendirir.",
+  "Sık karşılaşılan sorunlar için çözüm kılavuzları hazırlar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Mesleğe temel oluşturan eğitim, mesleki ve teknik ortaöğretim kurumlarının Bilişim Teknolojileri alanında verilmektedir. Ayrıca üniversitelerin bilgisayar programcılığı, bilişim sistemleri ve teknolojileri, yazılım mühendisliği gibi ön lisans/lisans programları; Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kursları ile özel kurumların düzenlediği bilgisayar/yazılım destek kurslarında da bu mesleğe yönelik eğitim verilmektedir.",
+  "giris_kosullari": [
+   "Ortaokulu tamamlamış olmak ve meslek lisesi Bilişim Teknolojileri alanı için Millî Eğitim Bakanlığınca belirlenen giriş koşullarını taşımak",
+   "Ön lisans/lisans düzeyindeki ilgili programlar için yükseköğretime giriş sınavlarında yeterli puanı almak",
+   "Kurs programları için genellikle okuryazar olmak ve temel bilgisayar kullanım bilgisine sahip olmak"
+  ],
+  "sure_ve_icerik": "Ortaöğretim düzeyinde eğitim 4 yıl sürmekte, ortak genel kültür derslerinin ardından alan ve dal derslerinde bilgisayar donanımı, işletim sistemleri, ağ temelleri, yazılım kurulum ve yapılandırma, kullanıcı destek süreçleri gibi konular işlenmektedir. Ön lisans/lisans programlarında bu konular daha ayrıntılı olarak, bilgisayar ağları, sistem yönetimi, veri tabanı ve yazılım geliştirme dersleriyle desteklenmiş biçimde verilmektedir. Kurslarda ise süre ve içerik, kursu düzenleyen kuruma ve hedeflenen yeterlilik düzeyine göre değişmektedir.",
+  "belge": "Eğitimi tamamlayanlara, aldıkları eğitim türüne göre meslek lisesi diploması, ön lisans/lisans diploması veya kurs/sertifika belgesi verilmektedir. Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda tercih sebebi olabilmektedir."
+ },
+ "calisma_alanlari": "Yazılım Destek Uzmanları; yazılım geliştiren firmalarda, bilgi işlem/bilgi teknolojileri departmanı bulunan kamu kurumları ve özel sektör işletmelerinde, çağrı merkezlerinde, teknik destek firmalarında, bankacılık ve sigortacılık sektöründe, e-ticaret ve perakende şirketlerinde, eğitim kurumlarında ve bilişim hizmeti sunan danışmanlık firmalarında çalışabilmektedir. Bilgi teknolojilerinin ve kurumsal yazılımların yaygınlaşması nedeniyle, uzaktan çalışma modelleriyle birlikte bu alanda istihdam olanaklarının önümüzdeki dönemde de sürmesi beklenmektedir.",
+ "kazanc": {
+  "egitim_suresince": "Meslek lisesi öğrencileri işletmelerde yaptıkları mesleki eğitim karşılığında 3308 sayılı Mesleki Eğitim Kanunu hükümleri doğrultusunda ücret alır ve iş kazası ile meslek hastalıklarına karşı sigorta primleri devletçe karşılanır. Ön lisans/lisans öğrencileri staj dönemlerinde işletmeyle yapılan anlaşmaya göre ücret alabilir; kurs katılımcıları için genellikle ücret söz konusu değildir.",
+  "egitim_sonrasi": [
+   "Özel sektörde yeni başlayanlar genellikle asgari ücret düzeyinde kazanç elde eder; deneyim, bilgi düzeyi ve işletme büyüklüğüne göre ücret artabilir.",
+   "Kamu kurumlarında memur statüsünde çalışanların kazancı 657 sayılı Devlet Memurları Kanunu'na, işçi statüsünde çalışanların kazancı ise ilgili toplu iş sözleşmesi hükümlerine göre belirlenir.",
+   "Mesleki deneyim, ek sertifikalar ve uzmanlaşma düzeyi arttıkça kazanç imkânları yükselebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Meslek lisesi Bilişim Teknolojileri alanından mezun olanlar, alanın devamı niteliğindeki ön lisans/lisans programlarını tercih ettiklerinde sınavlarda ek puan alabilir. Mezunlar, yükseköğretime giriş sınavlarında başarılı oldukları takdirde ilgili bilgisayar/bilişim programlarına yerleşerek eğitimlerini ilerletebilirler.",
+  "is_hayatinda": "Deneyim ve bilgi birikimi arttıkça sistem yöneticiliği, ağ uzmanlığı, yazılım geliştirme veya bilgi işlem birim sorumluluğu gibi görevlere geçilebilir. Ek sertifikalar ve ileri düzey teknik bilgiyle kıdemli destek uzmanlığı, ekip liderliği veya bilgi teknolojileri yöneticiliği pozisyonlarına yükselme imkânı bulunmaktadır."
+ },
+ "benzer_meslekler": [
+  "Bilişim Teknolojileri Teknisyeni",
+  "Yazılım Uygulama ve Destek Elemanı",
+  "Bilgi İşlem Destek Elemanı",
+  "Bilgi İşlem Destek Sorumlusu",
+  "Bilgisayar Teknisyeni",
+  "Sistem İşletmeni"
+ ],
+ "ek_bilgiler": "Mesleğin icrası için özel bir ruhsat veya yasal zorunluluk bulunmamaktadır. Bilişim alanındaki sertifikalar (üretici firma sertifikaları, MYK belgesi vb.) iş bulmada ve kariyer ilerlemesinde tercih sebebi olabilir. Uzaktan çalışma ve esnek çalışma modelleri bu mesleğin icrasında giderek daha fazla tercih edilmektedir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T15:01:06",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5083
+  }
+ }
+}

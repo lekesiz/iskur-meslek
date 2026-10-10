@@ -1,0 +1,75 @@
+{
+ "arac_gerec": [
+  "Kontrol tablosu / kumanda panosu (DCS - Dağıtık Kontrol Sistemi ekranları)",
+  "Basınç gösterge ve kayıt cihazları",
+  "Sıcaklık ölçüm ve kayıt donanımları",
+  "Seviye göstergeleri (şamandıra tipi, basınç tipi ve diğer göstergeler)",
+  "Akış hızı ölçüm enstrümanları",
+  "Valf, şalter ve kumanda düğmeleri",
+  "Alarm ve otomatik devre kesme (kapatma) sistemleri",
+  "Gaz dedektörleri ve sabit/taşınabilir gaz ölçüm cihazları",
+  "Numune alma ekipmanları",
+  "Haberleşme araçları (telsiz, telefon, dahili anons sistemi)",
+  "Kayıt defterleri, vardiya raporları ve bilgisayar",
+  "Kişisel koruyucu donanım (baret, koruyucu gözlük, gaz maskesi, koruyucu giysi, iş ayakkabısı)"
+ ],
+ "benzer_meslekler": [
+  "Rafineri ve Petrokimya Teknikeri",
+  "İmbik Operatörü (Petrol Rafinesi)",
+  "Reaktör Operatörü-Petrol Rafinerisi",
+  "Petrol-Gaz Üretim Operatörü",
+  "Petrokimya Kontrol Elemanı",
+  "Petrol ve Ürünleri Elleçleme Operatörü"
+ ],
+ "calisma_alanlari": "Kontrolör (Petrol Rafinesi), petrol rafinerilerinde ve petrokimya tesislerinde, işleme ve petrol kimya ünitelerinin kontrol odalarında istihdam edilir. Ayrıca doğal gaz işleme tesisleri ve ham petrolden türev ürün üretimi yapılan büyük ölçekli sanayi tesislerinde de çalışma olanağı bulunmaktadır. Ülkemizde bu nitelikte eleman çalıştıran işletme sayısı sınırlı olduğundan, istihdam imkânları başlıca büyük rafineri ve petrokimya şirketleri ile bağlı iştirakleriyle sınırlıdır.",
+ "calisma_ortami": "Kontrolör (Petrol Rafinesi), genellikle kapalı kontrol odalarında görev yapar; gerektiğinde üretim sahasına çıkarak ekipmanları ve göstergeleri yerinde kontrol eder. Çalışma ortamı, yanıcı ve parlayıcı madde içermesi nedeniyle risk taşır; sahada gürültü, kimyasal koku ve sıcaklık/basınç kaynaklı tehlikeler bulunabilir. Bu nedenle işçi sağlığı ve iş güvenliği kurallarına eksiksiz uyulması zorunludur.\n\nRafineriler genellikle 7/24 çalıştığından görev vardiyalı sistemle yürütülür. Çalışma sırasında imbik operatörleri, mühendisler, teknisyenler, laboratuvar personeli ve vardiya amirleri ile sürekli iletişim ve koordinasyon içinde bulunulur.",
+ "ek_bilgiler": "Petrol rafinerisi iş kolu, iş sağlığı ve güvenliği mevzuatı kapsamında tehlikeli/çok tehlikeli işler sınıfında değerlendirilmektedir. Bu nedenle çalışanların düzenli İSG eğitimi almaları ve işletmenin talep ettiği sertifikalara sahip olmaları gerekebilir; Mesleki Yeterlilik Kurumu (MYK) Mesleki Yeterlilik Belgesi de istihdamda tercih sebebi olabilir. Meslekte genellikle, önce imbik/süreç operatörü olarak işe başlanıp deneyim ve eğitimle kontrolör unvanına geçilmektedir.",
+ "egitim": {
+  "verildigi_yerler": "Kontrolör (Petrol Rafinesi) için ayrı ve bağımsız bir örgün eğitim programı bulunmamaktadır. Meslek, genellikle ortaöğretim (meslek lisesi) düzeyinde kimya teknolojisi/petrokimya ile ilgili alanlardan mezun olunduktan sonra, işletme bünyesinde imbik/süreç operatörlüğünden başlayarak kazanılan deneyim ve işbaşı eğitimiyle edinilir. Ayrıca İŞKUR ve Halk Eğitim Merkezlerinin açtığı mesleki eğitim kursları ile işletmelerin kendi bünyesinde düzenlediği oryantasyon ve iş başı eğitim programları da meslek edinmede önemli rol oynamaktadır.",
+  "giris_kosullari": [
+   "Ortaokul mezunu olup ilgili alanda meslek lisesine kayıt yaptırmak ya da lise/dengi okul mezunu olmak",
+   "İşletmenin açtığı işe alım süreçlerinde istenen sağlık ve fiziksel uygunluk şartlarını taşımak",
+   "Vardiyalı çalışmaya uygun olmak"
+  ],
+  "sure_ve_icerik": "Meslek lisesi düzeyindeki ilgili alan eğitimi 4 yıl sürer ve genel kültür derslerinin yanında kimya, proses teknolojisi, ölçme ve kontrol, iş sağlığı ve güvenliği gibi mesleki dersleri içerir. Bu eğitimin ardından işletmeye giren kişi, önce operatör pozisyonunda görev alarak üretim sürecini, ekipmanları ve göstergeleri tanır; kıdem ve performansına göre işbaşı eğitimlerle kontrol tablosunu yönetecek düzeye gelir. Süreç boyunca iş sağlığı ve güvenliği, yangın güvenliği ve acil durum eğitimleri düzenli olarak tekrarlanır.",
+  "belge": "Meslek lisesi diploması ve işletme/kurs tarafından verilen katılım/yeterlilik sertifikaları alınır; ayrıca ilgili alanda alınmış MYK Mesleki Yeterlilik Belgesi bulunması tercih sebebi olabilir."
+ },
+ "genel_ozellikler": [
+  "Dikkatli ve tedbirli,",
+  "Sorumluluk sahibi,",
+  "Göstergeleri doğru okuyup yorumlayabilen,",
+  "Hızlı ve isabetli karar verebilen,",
+  "Stresli ve acil durumlarda sakin kalabilen,",
+  "Ekip çalışmasına uyumlu,",
+  "Teknik ve sayısal konulara ilgili,",
+  "Talimat ve prosedürlere titizlikle uyan"
+ ],
+ "gorevler": [
+  "İşletmenin genel çalışma prensipleri doğrultusunda, araç, gereç ve ekipmanları etkin bir şekilde kullanarak, işçi sağlığı, iş güvenliği ve çevre koruma düzenlemelerine ve mesleğin verimlilik ve kalite gereklerine uygun olarak çalışır.",
+  "Belirli şartların sağlanıp sağlanmadığını tespit etmek üzere göstergeleri inceler ve kayıtları tutar.",
+  "Akış hızını, ısıyı, basıncı, vakumu, katalizörü ve diğer muamele şartlarını düzenlemek üzere kontrol tablosu üzerindeki düğmeleri, valfları ve şalterleri ayarlar.",
+  "Teçhizattaki arızaları İmbik Operatörüne (Petrol Rafinesi) bildirir.",
+  "Mamullerin kimyasal özelliklerini ve renklerini teste tabi tutar; analiz yapılmak üzere laboratuvara örnek gönderir.",
+  "Belirli tip bir ünitenin çalıştırılmasında veya belirli bir işlemin yapılmasında ihtisaslaşabilir.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Meslek lisesi mezunu olan kontrolörler, isterlerse üniversitelerin ön lisans düzeyindeki \"Rafineri ve Petrokimya Teknolojisi\" veya \"Kimya Teknolojisi\" gibi ilgili programlarına sınavla veya meslek lisesi mezunlarına yönelik sınavsız geçiş uygulamalarından yararlanarak devam edebilir; bu sayede tekniker unvanı kazanarak mesleki bilgi ve yetkinliklerini artırabilirler.",
+  "is_hayatinda": "Deneyim ve performansına göre kontrolör, vardiya amirliği, birim sorumluluğu, şeflik gibi daha üst düzey görev ve sorumluluklara atanabilir. Ayrıca ek eğitimlerle farklı proses ünitelerinde ihtisaslaşarak kariyerini geliştirebilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Meslek lisesi eğitimi sırasında öğrenciler, diğer ortaöğretim öğrencileri gibi herhangi bir ücret almazlar; ancak bazı okullarda staj dönemlerinde işletmeler tarafından cüzi bir harçlık ödenebilir. İşletme içi işbaşı eğitim sürecinde ise genellikle çalışılan pozisyonun ücretine tabi olunur.",
+  "egitim_sonrasi": [
+   "Kamuya bağlı kuruluşlarda (örneğin kamu iktisadi teşekkülleri) çalışanlar, 657 sayılı Devlet Memurları Kanunu'na veya işçi statüsünde ise ilgili toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde çalışanların kazancı, işyerinin büyüklüğü, kişinin deneyimi, bilgi ve becerisi ile sektördeki ücret düzeyine göre değişmekte olup, mesleğe yeni başlayanlarda genellikle asgari ücret düzeyinde seyredebilmektedir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T11:09:09",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5920
+  }
+ }
+}

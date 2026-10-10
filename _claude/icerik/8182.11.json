@@ -1,0 +1,73 @@
+{
+ "arac_gerec": [
+  "Kırıcı/delici kompresör tabancası (pnömatik delik delme tabancası)",
+  "Kompresör ve hava besleme hattı",
+  "Hava hortumu ve su hortumu",
+  "Delme ucu (kalem, integral uçlar)",
+  "Yağdanlık ve tabanca yağı",
+  "Kişisel koruyucu donanım (baret, kafa lambası, kulaklık, toz maskesi, iş gözlüğü, eldiven, çelik burunlu iş ayakkabısı)",
+  "Telsiz/iletişim cihazı",
+  "Gaz ölçüm cihazı (gaz detektörü)",
+  "El aletleri (anahtar, pense, tornavida)",
+  "Taşıma arabası/el arabası"
+ ],
+ "genel_ozellikler": [
+  "Fiziksel olarak güçlü ve dayanıklı,",
+  "El, kol ve bilek kaslarını etkin kullanabilen,",
+  "Dikkatli, tedbirli ve sorumluluk sahibi,",
+  "Kapalı, dar ve karanlık alanlarda çalışmaktan rahatsızlık duymayan,",
+  "Ekip çalışmasına yatkın,",
+  "Talimatlara titizlikle uyan,",
+  "İş güvenliği kurallarına karşı duyarlı,",
+  "Göz ve el koordinasyonu güçlü"
+ ],
+ "calisma_ortami": "Çalışma, başta yer altı maden ocakları olmak üzere tünel ve galeri açma çalışmalarının yürütüldüğü kapalı, dar ve sınırlı aydınlatmaya sahip alanlarda yapılır. Çalışma ortamında yoğun gürültü, toz, titreşim, nem ve kısıtlı havalandırma gibi zorlu fiziksel koşullar bulunur; iş kazası ve meslek hastalığı riski yüksektir. Çalışma genellikle vardiyalı düzende sürdürülür.\n\nOperatör, görevini yerine getirirken vardiya amiri, ateşçi ve diğer yer altı çalışanlarıyla sürekli iletişim halinde çalışır; iş güvenliği talimatlarına tam uyum ve ekip içi koordinasyon mesleğin önemli bir parçasıdır.",
+ "gorevler": [
+  "Vardiya değişiminde amirinden çalışma bölgesi ile ilgili bilgi alır,",
+  "Çalışma ile ilgili eksik ekipmanı (tabanca, hortum, delme ucu vb.) ambardan temin eder,",
+  "Çalışma bölgesine güvenlik ekipmanlarını giyerek gider,",
+  "Çalışmanın yapılacağı bölgede (yer altında) kavlak, çatlak kontrolü yapar,",
+  "Hava ve su hortumunu çalışma alanına çeker,",
+  "Havalı tabancanın yağ kontrolünü yapar, eksik varsa yağını tamamlar,",
+  "Havalı tabancanın delme ucunu (kalem, integral) monte eder,",
+  "Yer altında galeriye (kaya, ayna) havalı tabanca ile delik deler,",
+  "Delme işlemi bitince havalı tabancanın su ve hava hortumlarını söküp toplar,",
+  "Delme ucu sökümünü yapar ve ekipmanları güvenli alana taşır,",
+  "Ateşçi deliklere dinamit yerleştirmeden önce ateşçiye deldiği delikler hakkında bilgi verir,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Mesleğin örgün bir eğitim programı bulunmamaktadır. Mesleğe genellikle işletme bünyesinde deneyimli bir operatör/usta yanında çalışılarak girilir. Ayrıca işletmelerin kendi iç eğitim birimlerinde ya da Halk Eğitim Merkezleri ve İŞKUR'un açtığı yer altı maden işçiliği, iş güvenliği ve pnömatik ekipman kullanımına yönelik kurslarda temel bilgiler kazandırılabilir.",
+  "giris_kosullari": [
+   "İlköğretim mezunu olmak",
+   "18 yaşını doldurmuş olmak",
+   "Yer altında ağır ve tehlikeli işlerde çalışmaya elverişli olduğunu gösterir sağlık raporuna sahip olmak",
+   "İşe alım öncesi işveren tarafından verilen temel iş güvenliği eğitimlerine katılmış olmak"
+  ],
+  "sure_ve_icerik": "Mesleğe yönelik standart bir eğitim süresi bulunmamaktadır. İşletmeler tarafından düzenlenen iş sağlığı ve güvenliği, yer altı çalışma teknikleri ve kırıcı/delici ekipman kullanımına ilişkin kurslar genellikle birkaç gün ile birkaç hafta arasında sürer. Bu kursların ardından deneyimli bir operatör nezaretinde uygulamalı çalışma yapılarak mesleğin inceliklerinin öğrenilmesi sağlanır.",
+  "belge": "Katılınan kurslar sonunda genellikle bir katılım/kurs bitirme belgesi verilir. Yer altı maden işlerinin çok tehlikeli işler sınıfında yer alması nedeniyle, periyodik iş güvenliği eğitimlerine katılım ve bu eğitimlere ilişkin belgelendirme mevzuat gereği zorunludur. Mesleki Yeterlilik Kurumu (MYK) belgesi, kapsam dahilindeki iş kollarında istihdamda aranan ya da tercih sebebi olan bir belge niteliği taşıyabilir."
+ },
+ "calisma_alanlari": "Kırıcı/delici kompresör tabancası operatörleri başta yer altı kömür ve metal maden işletmeleri olmak üzere, tünel ve galeri açma işleri yürüten inşaat ve alt yapı projelerinde, baraj ve enerji santrali yapımlarında kaya delme işlerini üstlenen taşeron firmalarda istihdam edilir. İş bulma olanakları, madencilik ve büyük alt yapı projelerinin yoğun olduğu bölgelerde daha fazladır; sektördeki üretim hacmine ve yatırımlara bağlı olarak değişkenlik gösterir.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğe yönelik örgün bir eğitim süreci bulunmadığından bu dönemde genellikle ayrı bir kazanç söz konusu değildir; işletme bünyesinde usta yanında çalışılarak öğrenilmesi durumunda asgari ücret düzeyinde bir ücret ödenebilir.",
+  "egitim_sonrasi": [
+   "İşe yeni başlayanlar genellikle asgari ücret düzeyinde ücretle çalışmaya başlar.",
+   "Kamuya bağlı işletmelerde işçi statüsünde çalışanların ücreti toplu iş sözleşmesi hükümlerine göre belirlenir.",
+   "Özel sektörde ücret; deneyim, işletmenin büyüklüğü, çalışma koşulları (vardiya, yer altı tazminatı gibi) ve karşılıklı anlaşmaya göre değişebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğin resmi/yaygın bir eğitimde ilerleme basamağı bulunmamaktadır. Deneyim kazandıkça işletme içi ileri düzey iş güvenliği ve ekipman kullanım eğitimlerine katılarak bilgi ve becerilerini geliştirebilir.",
+  "is_hayatinda": "Deneyim ve performansa bağlı olarak ekip liderliği, vardiya amirliği veya ustabaşılık gibi görevlere yükselebilir; ayrıca iş makinesi operatörlüğü gibi ilgili alanlara geçiş yapabilir."
+ },
+ "benzer_meslekler": [],
+ "ek_bilgiler": "Bu meslek, yer altı maden işletmeciliği faaliyetleri kapsamında icra edildiğinden İş Sağlığı ve Güvenliği mevzuatı uyarınca \"çok tehlikeli işler\" sınıfında değerlendirilir. Bu nedenle çalışanların periyodik sağlık muayenesinden geçmesi ve düzenli iş güvenliği eğitimi alması yasal bir gerekliliktir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T17:08:09",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6867
+  }
+ }
+}

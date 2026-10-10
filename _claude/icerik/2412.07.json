@@ -1,0 +1,72 @@
+{
+ "arac_gerec": [
+  "Bilgisayar ve ilgili çevre birimleri",
+  "SWIFT mesajlaşma ve teyit sistemleri",
+  "Core Banking (bankacılık ana sistemi) yazılımları",
+  "Piyasa bilgi/işlem terminalleri (örn. Bloomberg, Reuters benzeri sistemler)",
+  "Mevzuat ve uygulama dokümanları",
+  "Mutabakat ve teyit formları, dekontlar",
+  "Telefon, faks, e-posta sistemleri",
+  "Risk kontrol ve raporlama yazılımları",
+  "Dosyalama ve arşivleme sistemleri",
+  "Yazıcı, hesap makinesi"
+ ],
+ "benzer_meslekler": [
+  "Hazine Uzmanı (Banka)",
+  "Hazine ve Maliye Uzmanı",
+  "Bankacılık ve Finans Uzmanı",
+  "Risk Yönetim Uzmanı (Banka)",
+  "Finans Uzmanı",
+  "İç Kontrol Denetçisi (Banka)"
+ ],
+ "calisma_alanlari": "Bu mesleğin eğitimini alanlar başta kamu ve özel bankaların hazine operasyonu, ödemeler, takas ve mutabakat birimleri olmak üzere, katılım bankaları, yatırım bankaları ve aracı kurumların operasyon birimlerinde çalışabilir. Ayrıca Merkez Bankası, Takasbank gibi finansal altyapı kurumlarının operasyon bölümlerinde de istihdam olanağı bulunmaktadır.\\n\\nBankacılık sektöründeki işlem hacminin ve finansal piyasaların karmaşıklaşmasına bağlı olarak bu alandaki istihdam olanakları artma eğilimindedir. Meslek, genellikle büyük ve orta ölçekli bankaların merkez birimlerinde yoğunlaşmaktadır.",
+ "calisma_ortami": "Hazine Operasyon Uzmanı (Banka), büro ortamında, kapalı mekanlarda, genellikle bilgisayar başında masa başı çalışır. Bankanın hazine veya operasyon biriminde, yüksek doğruluk ve dikkat gerektiren, işlem hacminin ve zaman baskısının yoğun olduğu bir çalışma temposu söz konusudur.\\n\\nMeslek mensubu; yurt içi ve yurt dışındaki muhatap bankaların operasyon birimleriyle, bankanın hazine/dealing room çalışanlarıyla, iç kontrol ve risk yönetimi birimleriyle sürekli iletişim halindedir. Çalışma saatleri genellikle düzenlidir; ancak gün sonu mutabakat, valör ve teyit işlemleri nedeniyle özellikle ay/dönem sonlarında mesai uzayabilir ve işlemlerin zamanında ve hatasız tamamlanması gerektiğinden stres yönetimi önem taşır.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi, üniversitelerin İktisadi ve İdari Bilimler Fakülteleri ile Yüksekokulların İşletme, İktisat, Finans, Bankacılık ve Finans, Uluslararası Ticaret ve Finans gibi lisans bölümlerinde verilmektedir. Mesleğe özgü, bağımsız bir lisans programı bulunmamaktadır; bankalar genellikle bu bölümlerden mezun adayları işe alarak kendi iç eğitim programlarıyla hazine operasyonu konusunda yetiştirmektedir.",
+  "giris_kosullari": [
+   "Lise veya dengi okul mezunu olmak",
+   "YKS (Yükseköğretim Kurumları Sınavı) kılavuzunda belirtilen ilgili lisans programlarına giriş koşullarını taşımak",
+   "Meslek yüksekokulu mezunlarının, Dikey Geçiş Sınavı (DGS) ile ilgili lisans programlarına geçiş yapabilmesi"
+  ],
+  "sure_ve_icerik": "İlgili lisans eğitiminin süresi 4 yıldır. Eğitim süresince finansal muhasebe, işletme bilimi, para ve banka, uluslararası finans, sermaye piyasaları, risk yönetimi, istatistik, ekonomi ve ticaret hukuku gibi dersler okutulur. Mesleğe özgü SWIFT mesajlaşma standartları, Core Banking sistemleri, valör ve mutabakat süreçleri gibi uygulamalı bilgiler genellikle bankaya giriş sonrasında verilen oryantasyon ve işbaşı eğitim programlarıyla kazandırılır.",
+  "belge": "Eğitimini başarı ile tamamlayanlara lisans diploması verilir."
+ },
+ "ek_bilgiler": "Mesleğin icrası, Core Banking sistemleri, SWIFT mesajlaşma standartları ve bankacılık mevzuatındaki değişikliklerin yakından takip edilmesini gerektirdiğinden, bankalar genellikle işe alım sonrasında kapsamlı hizmet içi eğitim programları uygulamaktadır. Sermaye Piyasası Kurulu (SPK) lisanslama belgeleri ve Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir; ancak bu mesleğin icrası için yasal olarak zorunlu bir belge bulunmamaktadır.",
+ "genel_ozellikler": [
+  "Matematik, ekonomi ve finans konularına ilgili ve bu alanlarda başarılı,",
+  "Dikkatli ve titiz,",
+  "Sorumluluk duygusu yüksek,",
+  "Analitik düşünebilen,",
+  "Zaman baskısı altında doğru ve hızlı karar verebilen,",
+  "Bilgisayar ve sayısal sistemleri etkin kullanabilen,",
+  "Takım çalışmasına uyumlu,",
+  "Gizliliğe ve mevzuata özen gösteren,"
+ ],
+ "gorevler": [
+  "Yapılan döviz, repo ve tahvil işlemlerinin SWIFT mesajlarını ve teyitlerini kontrol eder.",
+  "İşlemleri bankacılık ana sistemine (Core Banking) hatasız girer.",
+  "Karşı bankalarla gün sonu nakit ve menkul kıymet mutabakatlarını gerçekleştirir.",
+  "Valör tarihlerine göre nakit akışını ve transfer süreçlerini izler.",
+  "Operasyonel riskleri minimize etmek için kontrol prosedürlerini uygular.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Lisans eğitimini tamamlayanlar, finans, bankacılık veya işletme alanlarında yüksek lisans ve doktora yaparak akademik kariyer yapabilir.",
+  "is_hayatinda": "Deneyim kazanan Hazine Operasyon Uzmanları; kıdemli uzman, ekip lideri veya operasyon yöneticisi gibi görevlere yükselebilir. Sermaye Piyasası Kurulu (SPK) lisanslama sınavlarından alınan belgeler ve yabancı dil bilgisi, kariyer ilerlemesinde ve bankanın hazine/dealing room birimlerine geçişte avantaj sağlayabilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Lisans eğitimi süresince öğrenciler Kredi ve Yurtlar Genel Müdürlüğü'nün öğrenim kredisi ve yurt hizmetlerinden, ayrıca çeşitli kurum ve kuruluşların burslarından yararlanabilir.",
+  "egitim_sonrasi": [
+   "Özel sektörde ücret, işyerinin büyüklüğü, çalışanın deneyimi ve bankanın ücret politikasına göre değişmekte; işe yeni başlayanlar genellikle asgari ücret düzeyine yakın ücretlerle çalışmaya başlamaktadır.",
+   "Kamu bankalarında çalışanlar, statülerine göre 657 sayılı Devlet Memurları Kanunu veya işçi statüsündeyse ilgili toplu iş sözleşmesi hükümlerine göre ücret ve mali haklardan yararlanır."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T05:12:56",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5801
+  }
+ }
+}

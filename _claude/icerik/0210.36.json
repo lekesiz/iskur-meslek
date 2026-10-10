@@ -1,0 +1,76 @@
+{
+ "arac_gerec": [
+  "Devriye botu ve deniz araçları",
+  "Telsiz ve haberleşme cihazları",
+  "Radar ve seyir/navigasyon sistemleri",
+  "GPS cihazı",
+  "Dürbün ve gözetleme ekipmanları",
+  "Kişisel koruyucu donanım (can yeleği, kask)",
+  "Silah ve mühimmat",
+  "Arama-kurtarma ekipmanları",
+  "Bot bakım ve temizlik malzemeleri",
+  "Üniforma ve kişisel teçhizat",
+  "Haritalar ve seyir defterleri"
+ ],
+ "genel_ozellikler": [
+  "Fiziksel olarak sağlıklı ve dayanıklı,",
+  "Disiplinli ve emir-komuta zincirine uyumlu,",
+  "Cesur ve kararlı,",
+  "Ekip çalışmasına uyumlu,",
+  "Riskli ve stresli ortamlarda sakin kalabilen,",
+  "Sorumluluk sahibi ve güvenilir,",
+  "Deniz ortamına ve değişken hava koşullarına dayanıklı,",
+  "Dikkatli ve tedbirli"
+ ],
+ "calisma_ortami": "Sahil Güvenlik Uzman Çavuşları, görevlerini açık denizde botlar ve gemiler üzerinde, kıyı bölgelerinde ve bağlı bulundukları birimlerin kapalı mekanlarında (karakol, kışla, liman tesisleri) yürütürler. Çalışma ortamı hava ve deniz koşullarına bağlı olarak değişkenlik gösterir; soğuk, rüzgar, dalga ve yağış gibi zorlu fiziksel koşullarda görev yapılabilir. Nöbet usulü çalışma, gece-gündüz vardiyaları ve ani operasyon çağrıları mesleğin doğasında vardır.\n\nGörev sırasında kaçakçılık, yasa dışı göç ve arama-kurtarma operasyonları nedeniyle fiziksel risk ve tehlike içeren durumlarla karşılaşılabilir. Çalışma sırasında tim komutanı, diğer sahil güvenlik personeli, kolluk kuvvetleri ve bazı durumlarda sivil vatandaşlarla (arama-kurtarma faaliyetlerinde) sıkı bir disiplin ve iş birliği içinde ilişki kurulur.",
+ "egitim": {
+  "verildigi_yerler": "Sahil Güvenlik Komutanlığı'na bağlı eğitim merkezleri ile Kara, Deniz ve Hava Kuvvetleri Komutanlıklarının astsubay/uzman erbaş eğitim kurumlarında verilen temel ve mesleki eğitim programları aracılığıyla yetiştirilir.",
+  "giris_kosullari": [
+   "Türkiye Cumhuriyeti vatandaşı olmak",
+   "İlgili alanlarda (denizcilik, güvenlik ve benzeri teknik alanlar) en az önlisans (meslek yüksekokulu) mezunu olmak",
+   "Sahil Güvenlik Komutanlığı'nın ilan ettiği yaş sınırları içinde bulunmak",
+   "Türk Silahlı Kuvvetleri Sağlık Yeteneği Yönetmeliği'nde belirtilen sağlık ve fiziksel yeterlilik şartlarını taşımak",
+   "Güvenlik soruşturması ve arşiv araştırmasından olumlu sonuç almak",
+   "Yazılı sınav, fiziki yeterlilik testi ve mülakat aşamalarını başarıyla tamamlamak"
+  ],
+  "sure_ve_icerik": "Seçilen adaylar önce temel askerlik ve disiplin eğitiminden geçer; ardından deniz ve sahil güvenlik hizmetlerine özgü mesleki-teknik eğitim, bot ve teçhizat kullanımı, seyir, arama-kurtarma teknikleri ile kaçakçılıkla mücadele uygulamaları konularında eğitim alırlar. Eğitim süresi ve müfredatı Sahil Güvenlik Komutanlığı tarafından belirlenir; eğitimi başarıyla tamamlayanlar sözleşmeli uzman çavuş olarak göreve başlar.",
+  "belge": "Eğitimi başarıyla tamamlayanlara Sahil Güvenlik Uzman Çavuş olarak atanma hakkı veren mesleki eğitim belgesi/sertifikası verilir ve sözleşmeli erbaş statüsünde göreve başlanır."
+ },
+ "calisma_alanlari": "Sahil Güvenlik Uzman Çavuşları, yalnızca Sahil Güvenlik Komutanlığı'na bağlı bot komutanlıkları, deniz üsleri, liman ve kıyı bölgelerindeki birimlerde kamu personeli olarak istihdam edilirler. Özel sektörde bu mesleğin bir karşılığı bulunmamaktadır; görevlendirme tamamen kamu kurumu bünyesinde, ülke genelindeki kıyı ve deniz bölgelerinde gerçekleştirilir.",
+ "kazanc": {
+  "egitim_suresince": "Eğitim sürecinde adaylara, Sahil Güvenlik Komutanlığı'nın ilgili mevzuatına göre harçlık veya sözleşmeli statüde maaş ödenebilir.",
+  "egitim_sonrasi": [
+   "Göreve başlayan Sahil Güvenlik Uzman Çavuşları, sözleşmeli askeri personel statüsünde ilgili mevzuata göre maaş ve ek tazminatlar alır.",
+   "Kıdem, hizmet yılı ve görev yerine (deniz görevi, riskli bölge gibi) bağlı olarak ek ödenek ve tazminatlar kazanca eklenebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Sahil Güvenlik Uzman Çavuşu olabilmek için ilgili ön koşulları taşıyan adayların Sahil Güvenlik Komutanlığı'nın açtığı sınavları kazanarak uzman erbaş temel ve mesleki eğitimini başarıyla tamamlaması gerekir.",
+  "is_hayatinda": "Hizmet süresi ve performansa bağlı olarak kıdemli uzman çavuşluğa yükselme, belirli şartları sağlayanların astsubaylığa geçiş sınavlarına girme ve farklı birim veya branşlarda görevlendirilme olanağı bulunmaktadır."
+ },
+ "benzer_meslekler": [
+  "Sahil Güvenlik Uzman Onbaşı",
+  "Uzman Çavuş",
+  "Jandarma Uzman Çavuş",
+  "Uzman Jandarma",
+  "Astsubay Çavuş (Sahil Güvenlik)",
+  "Astsubay Üstçavuş (Sahil Güvenlik)"
+ ],
+ "ek_bilgiler": "Bu meslek, sözleşmeli askeri personel statüsünde yürütülen disiplinli ve riskli bir kamu hizmetidir. Alım süreçleri Sahil Güvenlik Komutanlığı tarafından belirli dönemlerde ilan edilen sınav ve başvuru takvimine göre yürütülür; adayların belirlenen yaş, sağlık ve fiziksel yeterlilik şartlarını taşıması gerekmektedir.",
+ "gorevler": [
+  "Deniz devriye ve gözetleme görevlerini icra eder.",
+  "Bot ve teçhizatın bakım ve temizliğine katılır.",
+  "Arama-kurtarma ve kaçakçılıkla mücadele faaliyetlerinde görev alır.",
+  "Nöbet ve emniyet hizmetlerini yürütür.",
+  "Tim komutanının emirlerini sahada uygular.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-07T17:47:28",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5139
+  }
+ }
+}

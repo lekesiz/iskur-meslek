@@ -1,0 +1,79 @@
+{
+ "arac_gerec": [
+  "Bilgisayar ve kontrol yazılımları",
+  "Programlanabilir Lojik Kontrolör (PLC) cihazları",
+  "SCADA ve izleme/kumanda yazılımları",
+  "Sensörler ve transmitterler (basınç, sıcaklık, seviye, akış)",
+  "Multimetre, osiloskop ve kalibrasyon cihazları",
+  "Robotik sistem bileşenleri ve kontrol üniteleri",
+  "Hidrolik ve pnömatik devre elemanları",
+  "Elektrik/elektronik el aletleri (tornavida, pense, lehim takımı vb.)",
+  "Kablolama, bağlantı ve sinyal dönüştürücü ekipmanları",
+  "Güç kaynakları ve besleme üniteleri",
+  "Ölçü aletleri (kumpas, metre vb.)",
+  "Kişisel koruyucu donanım"
+ ],
+ "benzer_meslekler": [
+  "Otomatik Kumanda Teknisyeni",
+  "Otomasyon Sistemleri Teknisyeni / Otomatik Kumanda Teknisyeni",
+  "Endüstriyel Robot Programcısı",
+  "Otomasyon Sistemleri Programcısı",
+  "Üretim Paneli Kontrol Operatörü",
+  "NC/CNC Takım Tezgâhları Elektrik/Elektronik Servis Görevlisi"
+ ],
+ "calisma_alanlari": "Endüstriyel Otomasyon Teknolojisi/Otomatik Kumanda/Kontrol ve Enstrümantasyon Teknisyenleri; elektronik, otomotiv, gıda, kimya, tekstil, enerji, cam, çimento gibi otomatik kontrol ve bilgisayarlı üretim sistemlerinin kullanıldığı her türlü fabrika ve üretim tesisinde çalışabilirler. Bakım-onarım birimleri, üretim hatları, enstrümantasyon ve süreç kontrol departmanları başlıca istihdam alanlarıdır. Kamu kuruluşlarının teknik hizmet birimlerinde olduğu kadar özel sektördeki üretim ve sanayi işletmelerinde de iş bulma imkânı bulunmaktadır. Sanayileşmenin yoğun olduğu bölgelerde bu meslek dalında istihdam olanağı daha fazladır.",
+ "calisma_ortami": "Kontrol ve Enstrümantasyon Teknisyeni, genellikle kapalı mekanlarda; fabrika, atölye ve üretim tesislerinde çalışır. Çalışma ortamı, bulunduğu sektöre göre gürültülü, tozlu, nemli veya sıcak olabilir; elektrikli ve hareketli ekipmanlarla çalışıldığından iş kazası riski bulunur, bu nedenle iş sağlığı ve güvenliği kurallarına dikkatle uyulması gerekir. Üretimin sürekliliğini sağlamak amacıyla vardiyalı çalışma düzeni yaygındır.\n\nGörevlerini yerine getirirken mühendisler, ustabaşılar, diğer teknisyenler ve operatörlerle sıkı iletişim içinde bulunur; arıza tespiti ve bakım çalışmaları sırasında ekip halinde veya tek başına çalışabilir.",
+ "egitim": {
+  "verildigi_yerler": "Meslek eğitimi, mesleki ve teknik Anadolu liselerinin elektrik-elektronik teknolojisi, endüstriyel otomasyon teknolojileri veya mekatronik gibi ilgili alanlarında verilmektedir. Ayrıca Halk Eğitim Merkezleri ile İŞKUR'un açtığı mesleki eğitim kurslarında da bu alanda yetişme fırsatı bulunmaktadır.",
+  "giris_kosullari": [
+   "Ortaokul mezunu olmak (meslek lisesine kayıt için)",
+   "İlgili ortaöğretim kurumunun ve alanın aradığı şartları taşımak",
+   "Yetişkinler için açılan kurslara katılım için genellikle okur yazar veya ilköğretim mezunu olmak yeterlidir"
+  ],
+  "sure_ve_icerik": "Mesleki ve teknik ortaöğretim kurumlarında eğitim 4 yıl sürer; temel kültür dersleri yanında elektrik-elektronik, otomatik kontrol, PLC programlama, enstrümantasyon ve işletmelerde staj uygulamalarını kapsar. Lise mezunu olup bu alanda yetişmek isteyen yetişkinler için Halk Eğitim Merkezleri ve İŞKUR'un açtığı kurslar daha kısa sürede temel beceri kazandırmayı amaçlar.",
+  "belge": "Mesleki ve teknik lise diploması; kurs yoluyla eğitim alanlara ise kurs bitirme/katılım belgesi verilir. Mesleki Yeterlilik Kurumu (MYK) Mesleki Yeterlilik Belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "ek_bilgiler": "Mesleğin uygulandığı bazı iş kolları (yüksek voltajlı sistemler, basınçlı hava/hidrolik devreler, hareketli endüstriyel makineler gibi) tehlikeli veya çok tehlikeli işler kapsamında değerlendirilebilir; bu durumda iş sağlığı ve güvenliği eğitimi almak ve kişisel koruyucu donanım kullanmak önemlidir. Otomasyon ve endüstriyel kontrol sistemlerine olan talebin artması, bu meslekte orta ve uzun vadede istihdam olanaklarını destekleyen bir eğilim olarak değerlendirilebilir.",
+ "genel_ozellikler": [
+  "Temel bilimlere ve teknik konulara ilgi duyan,",
+  "Analitik düşünme ve problem çözme becerisine sahip,",
+  "El ve göz koordinasyonu iyi,",
+  "Dikkatli, sabırlı ve titiz çalışan,",
+  "Elektrik, elektronik ve mekanik sistemlerle çalışmaktan çekinmeyen,",
+  "Takım çalışmasına uyumlu,",
+  "Sorumluluk sahibi,",
+  "Değişen teknolojileri öğrenmeye istekli,"
+ ],
+ "gorevler": [
+  "Bilgisayar ve bilgisayarlı sistemleri kullanarak kontrol cihazlarının programlarını yapar ve işletir.",
+  "Robotik sistem öğelerini kurar ve çalıştırır.",
+  "Mekanik, hidrolik, pnömatik, elektronik sinyallerle işlem ölçümlerini yapar.",
+  "Sinyal dönüşümlerini ve iletimlerini yapar.",
+  "İşlem hatalarını saptar ve giderme yöntemlerini uygular.",
+  "İşlem testlerini ve ayar uygulamalarını gerçekleştirir.",
+  "Dijital-analog kontrol ve enstrümanların bakım, onarım, güvenlik ve ayarlarını yapar.",
+  "Arızalanan aletleri söker, onarır ve yeniden ayarlarını yapar.",
+  "Aletlerin otomatik kontrolleri için gerekli hesapları yapar.",
+  "Çeşitli kontrol sistemlerini devreye koyar, çalıştırır ve işletir.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Meslek lisesi mezunları, alanlarıyla ilgili önlisans programlarına (örneğin elektrik-elektronik, otomasyon veya mekatronik teknikerliği) sınavla girebilir ve dikey geçiş yoluyla eğitimlerini ilerletebilirler. Önlisans sonrasında ise dikey geçiş sınavı ile ilgili mühendislik lisans programlarına geçiş imkânı bulunmaktadır.",
+  "is_hayatinda": "Deneyim ve mesleki bilgi birikimine bağlı olarak ustabaşı, bakım-onarım sorumlusu veya vardiya amiri gibi görevlere yükselebilir; ileri eğitim ile mühendis unvanıyla çalışma olanağı elde edebilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Mesleki ve teknik ortaöğretim kurumlarında eğitim ücretsizdir; bazı okullarda burs ve yurt imkânlarından yararlanılabilir. İşletmelerde yapılan stajlar karşılığında öğrencilere asgari ücretin belirli bir oranında ödeme yapılabilir. Yetişkinlere yönelik kurslar genellikle ücretsiz olup bazılarında katılımcılara günlük harçlık ödenebilir.",
+  "egitim_sonrasi": [
+   "Kamu kuruluşlarında işçi statüsünde istihdam edilenler toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde ücret, işveren ile çalışan arasında bilgi, beceri, deneyim ve işletmenin özelliklerine göre belirlenir; mesleğe yeni başlayanlarda genellikle asgari ücret düzeyinde olup tecrübe arttıkça yükselme eğilimi gösterir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T11:22:07",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5964
+  }
+ }
+}

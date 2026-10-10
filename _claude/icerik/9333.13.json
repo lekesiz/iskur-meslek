@@ -1,0 +1,74 @@
+{
+ "gorevler": [
+  "Gelen malzemeleri sevk irsaliyeleri ile karşılaştırarak teslim alır.",
+  "Malları açık alanda belirlenen parsellere uygun şekilde istifler.",
+  "Malzemeleri hava koşullarından (yağmur, güneş vb.) koruyacak önlemleri alır.",
+  "Stok kayıtlarını tutar ve periyodik sayımlara katılır.",
+  "Saha temizliğini ve güvenlik şeritlerinin düzenini korur.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "arac_gerec": [
+  "Forklift, transpalet, vinç gibi yükleme-boşaltma ekipmanları",
+  "El arabası",
+  "Branda, naylon örtü, çadır bezi gibi koruyucu örtüler",
+  "Bağlama halatı, kayış ve zincirler",
+  "Ahşap/plastik paletler",
+  "Stok takip defteri/formları, barkod okuyucu",
+  "Tartı aleti/baskül",
+  "Koruyucu iş elbisesi, çelik burunlu ayakkabı, eldiven, baret",
+  "Yağmurluk, yansıtıcı yelek",
+  "Güvenlik şeridi, uyarı ve işaret levhaları",
+  "El feneri",
+  "Telsiz veya telefon"
+ ],
+ "genel_ozellikler": [
+  "Fiziksel olarak güçlü ve dayanıklı,",
+  "Dikkatli ve sorumluluk sahibi,",
+  "Açık havada ve değişken hava koşullarında çalışabilen,",
+  "Takım halinde çalışabilen,",
+  "Düzenli ve planlı çalışabilen,",
+  "Emir ve talimatlara uyabilen,",
+  "Basit sayım ve ölçüm işlemlerini yapabilen"
+ ],
+ "calisma_ortami": "\"Açık hava depo görevlisi; fabrika, liman, antrepo veya lojistik tesislerinin açık sahalarında görev yapar. Çalışma ortamı açık havada olduğundan sıcak, soğuk, yağmur, kar gibi değişken hava koşullarına maruz kalınır; toz, gürültü ve araç egzoz gazı gibi etkenler de söz konusu olabilir. Ağır yük kaldırma, eğilme ve uzun süre ayakta kalma gibi fiziksel efor gerektirir; forklift ve vinç gibi hareketli araçların bulunduğu sahada iş kazası riski bulunduğundan iş güvenliği kurallarına titizlikle uyulması gerekir.\\n\\nMeslek elemanı genellikle ekip halinde çalışır; depo sorumluları, forklift operatörleri, şoförler ve diğer saha çalışanlarıyla sürekli iletişim halindedir. Çalışma saatleri işletmenin faaliyetine göre değişebilir; vardiyalı çalışma, hafta sonu ve bazen gece çalışması söz konusu olabilir.\"",
+ "egitim": {
+  "verildigi_yerler": "Bu meslek için örgün bir mesleki eğitim programı bulunmamaktadır. Meslek genellikle işyerinde usta işçi veya depo sorumlusu gözetiminde, işbaşında öğrenilir. İş sağlığı ve güvenliği, forklift kullanımı gibi konularda Halk Eğitim Merkezleri, İŞKUR'un açtığı mesleki eğitim kursları veya işyerlerinin düzenlediği kısa süreli kurslardan yararlanılabilir.",
+  "giris_kosullari": [
+   "Belirli bir eğitim düzeyi şartı aranmamakta, okuma yazma bilmek yeterli görülmektedir.",
+   "İşin gerektirdiği ağır işleri yapabilecek fiziksel güç ve sağlık durumuna sahip olmak gerekir.",
+   "İşe alımlarda genellikle 18 yaşını doldurmuş olmak tercih edilmektedir."
+  ],
+  "sure_ve_icerik": "Mesleğe özgü belirli bir eğitim süresi ve müfredat bulunmamaktadır. Çalışmaya başlayan kişi, işyerinde deneyimli bir çalışanın ya da depo sorumlusunun yanında kısa süreli uygulamalı eğitim alarak malzeme istifleme, depo düzeni, stok takibi ve iş güvenliği kurallarını öğrenir. Forklift veya vinç gibi ekipmanların kullanıldığı işyerlerinde, bu araçların kullanımına yönelik ayrıca kurslara katılım gerekebilir.",
+  "belge": "Mesleğe özgü zorunlu bir diploma veya sertifika bulunmamaktadır. Katılınan kurslar sonunda kursu düzenleyen kurumdan katılım belgesi veya sertifika alınabilir; forklift gibi ekipman kullanımına yönelik operatör sertifikaları istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "\"Açık hava depo görevlileri; limanlar, gümrük antrepoları, fabrika ve üretim tesislerinin açık sahaları, lojistik ve nakliye şirketlerinin depo alanları, inşaat malzemesi ve hurda depoları, tarım ürünleri ve hayvan yemi depolama sahaları gibi açık alanda depolama yapılan her türlü işletmede çalışabilirler. Sanayi, lojistik ve ulaştırma sektörlerinin yaygınlığı nedeniyle bu meslekte genellikle iş bulma olanağı mevcuttur; ancak iş sayısı bölgesel sanayi ve liman yoğunluğuna göre değişebilir.\"",
+ "kazanc": {
+  "egitim_suresince": "Mesleğe özgü örgün bir eğitim süreci bulunmadığından, kişi genellikle doğrudan çalışmaya başlayarak işyerinde geçerli ücret düzeyinden kazanç sağlar; işbaşı eğitim dönemi genellikle çalışma süresine dahil edilir.",
+  "egitim_sonrasi": [
+   "Kamuya bağlı işletmelerde işçi statüsünde çalışanlar, toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde yeni başlayanların kazancı genellikle asgari ücret düzeyindedir.",
+   "Deneyim, işyerinin büyüklüğü, çalışma koşulları (vardiya, gece çalışması vb.) ve sektörün ücret düzeyine göre kazanç artabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Bu meslekte örgün bir mesleki eğitim kademesi bulunmadığından ilerleme, kişinin iş deneyimine ve kendini geliştirmesine bağlıdır. İş güvenliği, forklift operatörlüğü gibi kısa süreli kurslara katılarak bilgi ve beceriler artırılabilir; isteyen kişiler açık öğretim veya örgün eğitim yoluyla genel eğitim düzeyini yükseltebilir.",
+  "is_hayatinda": "Deneyim kazanan açık hava depo görevlileri, depo sorumlusu, vardiya amiri veya forklift operatörü gibi görevlere yükselebilir. Zaman içinde depo ve lojistik yönetimi alanında daha nitelikli pozisyonlara geçiş mümkündür."
+ },
+ "benzer_meslekler": [
+  "Depo İşçisi (Elleçleme)",
+  "Soğuk Hava Depo Görevlisi",
+  "Kapalı Depo Görevlisi",
+  "Liman İşletme Saha Çalışanı",
+  "Liman İşçisi",
+  "Ambar İşçisi (Portör)"
+ ],
+ "ek_bilgiler": "\"Açık havada ve hareketli iş makinelerinin bulunduğu sahalarda çalışma söz konusu olduğundan, bu meslek işyerinin tehlike sınıfına göre iş sağlığı ve güvenliği mevzuatı kapsamında periyodik sağlık muayenesi ve güvenlik eğitimi gerektirebilir.\"",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T20:29:45",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6164
+  }
+ }
+}

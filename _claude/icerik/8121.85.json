@@ -1,0 +1,91 @@
+{
+ "arac_gerec": [
+  "Ergitme ocağı (indüksiyon, ark veya kupol tipi)",
+  "Pota (döküm potası)",
+  "Refrakter malzeme (ateş tuğlası, silis kumu)",
+  "Termokupl (sıcaklık ölçüm cihazı)",
+  "Karbon analiz cihazı / numune alma kaşığı",
+  "Kişisel koruyucu donanım (gözlük, deri eldiven, koruyucu ayakkabı, kulaklık, baret)",
+  "Isıya dayanıklı iş elbisesi",
+  "Kepçe, kanca, maşa",
+  "Cüruf sıyırma/temizleme aletleri",
+  "Hammadde ve alaşım elemanları (hurda metal, ferroalyaj)",
+  "Vinç veya forklift",
+  "Şarj (doldurma) aparatları",
+  "El aletleri (kürek, çekiç, kazıma aleti)"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli,",
+  "Sabırlı ve tedbirli,",
+  "Yüksek sıcaklık ve ağır iş koşullarına dayanıklı,",
+  "El ve beden koordinasyonu iyi,",
+  "Sorumluluk sahibi,",
+  "Ekip çalışmasına uyumlu,",
+  "Temel malzeme ve kimya bilgisine sahip,",
+  "İş sağlığı ve güvenliği kurallarına titizlikle uyan,"
+ ],
+ "calisma_ortami": "Döküm Ocakçısı, fabrika ve atölyelerin döküm bölümlerinde, kapalı mekânlarda çalışır. Çalışma ortamı ergitme ocaklarının bulunduğu, yüksek sıcaklık, gürültü ve zaman zaman duman/gaz oluşumunun görüldüğü, fiziksel olarak zorlayıcı bir ortamdır. Erimiş metalle ve yüksek ısı kaynaklarıyla çalışıldığından iş kazası riski bulunur; bu nedenle kişisel koruyucu donanımın eksiksiz kullanılması ve iş güvenliği kurallarına titizlikle uyulması gerekir.\n\nİş genellikle vardiyalı sistemle, ayakta ve bazen ağır kaldırma gerektiren biçimde yürütülür. Meslek elemanı; ustabaşı, kalite kontrol personeli, diğer döküm işçileri ve amirleriyle sürekli iletişim ve koordinasyon içinde çalışır.",
+ "gorevler": [
+  "Ergitme ocakları ve süreçle ilgili malzeme, alet ve ekipmanı kontrol eder ve takip eder.",
+  "Tespit ettiği uygunsuzlukları amirine bildirir.",
+  "İş sağlığı ve güvenliği kurallarına uygun olarak kişisel koruyucu donanım (gözlük, deri eldiven, ayakkabı, kulaklık, baret) kullanır.",
+  "Refrakter (ısıya dayanıklı; ateş tuğlası, silis kumu vb.) maddeler ile ocağın astar harcını hazırlar ve ocağın yüzeyini harç ile sıvar.",
+  "Dökülecek makine parçasına uygun ve istenilen oranlarda hammaddeyi ocağa yükler.",
+  "Ergitme ocağının yapısına ve çalışma prensiplerine uygun şekilde ocağı kullanır.",
+  "Ocağı çalıştırarak kademeli olarak ısınmasını sağlar.",
+  "Alaşımı oluşturan madenleri işlem sırasına göre ocağa şarj eder (doldurur).",
+  "Metal sıvılaşana ve ocak doluncaya kadar hammadde eklemeye devam eder.",
+  "Dolmuş olan ocağı döküm sıcaklığına kadar ısıtır.",
+  "Ocağın içine katılan tüm maddeler eriyip sıcaklığı uygun olduğunda hem karbon analizi hem de döküme uygunluğunu kontrol etmek için numune alır.",
+  "Karbon analizini yaparak karbon oranı eksikse ocağa karbon takviyesi yapar, karbon oranı fazlaysa düşürmek için ocağa çelik ekler (karbon tayini).",
+  "Analizi yapılan erimiş sıvının içerisinde eksikliği tespit edilen madenleri ocağa ekler.",
+  "Kalite kontrolden geçen ergitilmiş sıvının termokupl adı verilen cihazla sıcaklığını ölçer.",
+  "Ocaklarda ergimiş madenin yüzeyinde oluşan cürufları düzenli olarak temizler.",
+  "Döküme hazır olan sıvı madeni ocaktan potaya boşaltır.",
+  "Ocak astarı değiştirme zamanı geldiğinde astarı değiştirir.",
+  "Ocakta kullanılan malzeme ve hammadde stokunun takibini yapar.",
+  "Döküm sonrasında ocağın içini temizler.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Döküm Ocakçılığı için örgün eğitim sisteminde ayrı bir meslek lisesi alanı/dalı olarak resmî bir program bulunmamaktadır. Meslek genellikle işyerlerinde işbaşında, usta yanında yetişerek kazanılır. Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kursları ile metalurji ve malzeme teknolojisi, döküm teknolojisi alanındaki mesleki ve teknik eğitim programları, mesleğe temel oluşturan bilgi ve becerileri sağlayabilir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "Sağlık durumunun yüksek ısı ve ağır fiziksel çalışma koşullarına uygun olması",
+   "El becerisi ve dikkat gerektiren işlere yatkın olmak"
+  ],
+  "sure_ve_icerik": "Mesleğe özgü belirli bir süre ve müfredata sahip resmî bir eğitim programı bulunmamaktadır. Eğitim; işbaşında usta gözetiminde pratik çalışma ile iş sağlığı ve güvenliği, malzeme bilgisi, ocak türleri, ergitme süreçleri ve karbon analizi gibi konuları içeren mesleki eğitim kurslarının birleşiminden oluşur. Beceri düzeyi, işyerinde kazanılan tecrübeyle gelişir.",
+  "belge": "Katılınan mesleki eğitim kurslarına ilişkin katılım/başarı belgesi alınabilir. Mesleki Yeterlilik Kurumu (MYK) Mesleki Yeterlilik Belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Döküm Ocakçıları; demir-çelik ve demir dışı metal döküm fabrikalarında, makine ve otomotiv parçaları üreten işletmelerin döküm bölümlerinde, dövme ve döküm sanayi tesislerinde, çelikhanelerde ve metal işleme fabrikalarının ergitme/döküm atölyelerinde istihdam edilirler. İş bulma olanakları, genellikle küçük ve orta ölçekli metal işleme işletmeleri ile büyük ölçekli döküm ve çelikhanelerde mevcuttur.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğe özgü örgün çıraklık/mesleki eğitim süreci bulunmadığından, eğitim genellikle işbaşında usta yanında ücretli olarak sürdürülür; katılınan mesleki eğitim kurslarında ise genellikle herhangi bir ücret ödenmez.",
+  "egitim_sonrasi": [
+   "Kamu kuruluşlarında işçi statüsünde istihdam edilenler, ilgili toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde çalışanların kazancı; işin niteliği, çalışanın tecrübesi, işyerine uyumu ve işletmenin büyüklüğüne göre değişir.",
+   "Mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar, tecrübe arttıkça ücret artabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleki eğitim kurslarıyla başlayan ve işbaşında deneyimle gelişen bu meslekte, ilerleme büyük ölçüde işyerinde kazanılan tecrübe ve ustalıkla sağlanır. Metalurji ve malzeme teknolojisi alanındaki daha ileri mesleki eğitim programlarına yönelerek bilgi düzeyi artırılabilir.",
+  "is_hayatinda": "Deneyim kazanan Döküm Ocakçıları ustabaşılığa, atölye/vardiya şefliğine veya kalite kontrol sorumluluğuna yükselebilir. Yeterli birikim ve sermayeye sahip olanlar kendi döküm işletmesini kurabilir."
+ },
+ "benzer_meslekler": [
+  "İzabeci (Kupola)",
+  "Şarj İşçisi (Kupola Ocağı)",
+  "Kupol Ocağı Operatörü",
+  "İzabeci (Metal Ergitme) (Kupola Hariç)",
+  "Çelikhane İşçisi",
+  "Potacı-Dökümcü",
+  "Elektrik Ark Fırını İzabecisi (Çelik Tasfiyesi)"
+ ],
+ "ek_bilgiler": "Döküm Ocakçıları yüksek sıcaklıkta erimiş metalle ve ağır fiziksel koşullarda çalıştığından, işin yürütüldüğü işyerine bağlı olarak tehlikeli veya çok tehlikeli işler kapsamında değerlendirilebilir; bu durumda belirli sağlık raporu ve iş güvenliği eğitimi şartları aranabilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda ve ücretlendirmede tercih sebebi olabilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T11:37:24",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6267
+  }
+ }
+}

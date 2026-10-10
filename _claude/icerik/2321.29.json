@@ -1,0 +1,79 @@
+{
+ "arac_gerec": [
+  "Alanı ile ilgili yıllık ve günlük ders planları, çalışma programları",
+  "Ders defteri, not defteri, yoklama defteri, öğrenci değerlendirme formları",
+  "Ders kitapları, yardımcı kaynaklar, iş ve işlem yaprakları, bilgi yaprakları, teknik yayınlar",
+  "Eğitim araçları (projeksiyon, bilgisayar, eğitim yazılımları, görsel-işitsel materyaller)",
+  "Motor, şanzıman, aktarma organları, fren ve süspansiyon sistemleri gibi eğitim amaçlı araç grupları ve maketleri",
+  "Motor ve araç elektrik-elektronik sistemlerine ait eğitim setleri ve devre düzenekleri",
+  "El aletleri (anahtar takımları, tornavida, pense vb.)",
+  "Ölçüm ve kontrol cihazları (multimetre, kompresyon ölçer, basınç ölçer vb.)",
+  "Araç kaldırma lifti, kriko ve atölye tezgahları",
+  "Oto teşhis (diagnostik) cihazları ve arıza tespit yazılımları",
+  "Kişisel koruyucu donanım (iş önlüğü, eldiven, koruyucu gözlük vb.)",
+  "İş güvenliği ve çevre koruma ile ilgili uyarı/levha ve ekipmanlar"
+ ],
+ "genel_ozellikler": [
+  "Fen bilimlerine ve tekniğe ilgili, bu alanlarda başarılı,",
+  "El ve gözünü eşgüdümle, dikkatli ve düzenli kullanabilen,",
+  "Düşüncelerini açık ve anlaşılır biçimde aktarabilen, iyi bir öğrenme ortamı sağlayabilen,",
+  "İnsanlarla iyi iletişim kurabilen; hoşgörülü, sabırlı,",
+  "Öğrencilerin duygu ve düşüncelerini anlayabilen, onlara rehberlik edebilen,",
+  "Sorumluluk sahibi, planlı ve düzenli çalışabilen,",
+  "Mesleki ve teknolojik gelişmeleri takip etmeye istekli, kendini geliştirmeye açık,",
+  "Girişimci ve yaratıcı"
+ ],
+ "calisma_ortami": "\"Motorlu Araçlar Teknolojisi Öğretmeni, görevini mesleki ve teknik ortaöğretim kurumlarının sınıf ortamında ve atölyelerinde yürütür. Teorik derslerde sınıfta, uygulamalı derslerde ise atölye ortamında, genellikle ayakta ve hareketli olarak çalışır. Atölye ortamında yağ, koku, gürültü ve çeşitli el aletleri ile makinelerle çalışma söz konusu olduğundan, iş sağlığı ve güvenliği kurallarına ve kişisel koruyucu donanım kullanımına özen gösterilmesi gerekir.\\n\\nÇalışma saatleri genellikle gündüz ve okulun ders programına bağlı olarak düzenlenir; nöbet günlerinde okul düzeninin sağlanmasından da sorumludur. Görevi sırasında öğrenciler, diğer öğretmenler, okul idaresi ve veliler ile sürekli iletişim ve iş birliği içinde bulunur; dönem sonlarında sınav ve değerlendirme süreçleri nedeniyle iş yoğunluğu artabilir.\"",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi, üniversitelerin ilgili teknoloji/mühendislik fakültelerinin Otomotiv Teknolojisi, Otomotiv Mühendisliği, Makine Mühendisliği veya benzeri bölümlerinde verilmektedir. Bu bölümlerden mezun olanlar, Milli Eğitim Bakanlığı ve Yükseköğretim Kurulu (YÖK) iş birliği ile açılan Pedagojik Formasyon Eğitimi Sertifika Programı ya da Öğretmenlik Meslek Bilgisi Tezsiz Yüksek Lisans Programını tamamladıklarında, mesleki ve teknik ortaöğretim kurumlarında Motorlu Araçlar Teknolojisi alanında öğretmen olarak atanabilirler.",
+  "giris_kosullari": [
+   "Lise veya dengi okul mezunu olmak",
+   "YKS (Yükseköğretim Kurumları Sınavı) kılavuzunda belirtilen giriş koşullarını taşımak ve ilgili lisans programını kazanmak",
+   "İlgili önlisans programlarından mezun olanlar için, DGS (Dikey Geçiş Sınavı) kılavuzunda belirtilen koşulları sağlamak"
+  ],
+  "sure_ve_icerik": "Lisans eğitiminin süresi 4 yıldır. Eğitim süresince motor teknolojisi, aktarma organları, fren ve süspansiyon sistemleri, araç elektrik-elektroniği, oto diagnostik gibi mesleki dersler ağırlıklı olarak okutulur; ayrıca genel mühendislik/teknoloji dersleri ile çeşitli dönemlerde sanayi stajları yapılır. Öğretmen olabilmek için lisans eğitiminin yanı sıra pedagojik formasyon eğitimi veya öğretmenlik meslek bilgisi yüksek lisans programının tamamlanması gerekir.",
+  "belge": "Eğitimini başarı ile tamamlayanlara lisans diploması; pedagojik formasyon eğitimini tamamlayanlara ise öğretmenlik için gerekli sertifika/belge verilir."
+ },
+ "calisma_alanlari": "\"Motorlu Araçlar Teknolojisi Öğretmenleri, başta Milli Eğitim Bakanlığına bağlı mesleki ve teknik Anadolu liseleri, endüstri meslek liseleri olmak üzere, motorlu araçlar teknolojisi alanının bulunduğu her tür mesleki ve teknik ortaöğretim kurumunda görev alabilirler. Ayrıca Halk Eğitim Merkezleri, Mesleki Eğitim Merkezleri, özel öğretim kurumları ve İŞKUR ile diğer kurumların açtığı mesleki eğitim kurslarında da eğitici olarak çalışma olanağı bulabilirler. Kamu kurumlarında öğretmen olarak atanmak için KPSS ve atama şartlarını sağlamak, ilgili mevzuata göre alan değişikliği veya sertifikasyon koşullarını yerine getirmek gerekir.\"",
+ "kazanc": {
+  "egitim_suresince": "Lisans eğitimi süresince öğrenciler genel olarak herhangi bir ücret almaz; başarı durumuna göre bazı üniversite ve kurumlardan burs desteği alınabilir. Sanayi stajı dönemlerinde, staj yapılan işletmenin uygulamasına bağlı olarak sınırlı bir ücret veya katkı söz konusu olabilir.",
+  "egitim_sonrasi": [
+   "Kamu okullarında öğretmen olarak atananların ücretleri 657 sayılı Devlet Memurları Kanunu'na göre belirlenir.",
+   "Özel öğretim kurumlarında çalışanların ücreti, kurumun politikası, deneyim ve ders yüküne göre işveren ile karşılıklı anlaşma yoluyla belirlenir.",
+   "Kurs ve eğitim merkezlerinde eğitici olarak çalışanların kazancı, verilen ders saati ve kurumun ücret politikasına göre değişkenlik gösterir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Lisans eğitimini tamamlayanlar, isterlerse ilgili alanlarda yüksek lisans ve doktora yaparak akademik kariyer veya uzmanlaşma yoluna gidebilir; alanındaki teknolojik gelişmeleri (elektrikli ve hibrit araçlar, yeni nesil kontrol sistemleri vb.) takip etmek üzere hizmet içi eğitim ve sertifika programlarına katılabilirler.",
+  "is_hayatinda": "Kamu okullarında çalışan öğretmenler, kıdem ve mevzuatta belirtilen koşulları sağladıkça zümre başkanlığı, bölüm şefliği, müdür başyardımcılığı veya okul müdürlüğü gibi idari görevlere yükselebilirler. Deneyim kazandıkça eğitim koordinatörlüğü, program geliştirme çalışmaları veya kurs/eğitim merkezi yöneticiliği gibi görevler üstlenebilirler."
+ },
+ "benzer_meslekler": [
+  "Raylı Sistemler Makine Öğretmeni",
+  "Makine ve Kalıp Öğretmeni",
+  "Tesisat Teknolojisi ve İklimlendirme Öğretmeni",
+  "Endüstriyel Otomasyon Teknolojileri Öğretmeni",
+  "Kaynak Öğretmeni",
+  "Uçak Bakım / Uçak Gövde-Motor Öğretmeni"
+ ],
+ "ek_bilgiler": "\"Motorlu araçlar teknolojisi alanı, elektrikli ve hibrit araçların yaygınlaşması gibi hızlı teknolojik değişimlerden etkilenen bir alandır; bu nedenle öğretmenlerin güncel teknolojileri takip etmesi ve sürekli mesleki gelişim göstermesi önem taşır. Atölye çalışmalarında kullanılan bazı alet ve ekipmanlar nedeniyle iş sağlığı ve güvenliği konusundaki eğitimlere ve kişisel koruyucu donanım kullanımına özellikle dikkat edilmesi gerekir.\"",
+ "gorevler": [
+  "Eğitiminden sorumlu olduğu grubun düzeyine uygun bir çalışma planı hazırlar.",
+  "Sorumlu olduğu atölye, laboratuvar, işlik vb. yerleri eğitime hazır durumda tutar.",
+  "Kendisine ayrılan ders saatlerinde çalışma planını uygulayarak öğrencilere motorlu araçlar teknolojisi alanı ile ilgili bilgi ve beceriler kazandırır.",
+  "Öğrencilerin başarılarını ölçer, değerlendirir ve idareye sonuçları bildirir.",
+  "Alanı ile ilgili gelişmeleri izler, ihtiyaçları saptar, bunların öğretim programlarına yansıtılması için ilgililere önerilerde bulunur.",
+  "Öğrencilerin gelişimlerine katkıda bulunacak eğitim-öğretim yöntemlerini geliştirir ve uygular.",
+  "Nöbetçi olduğu günlerde okulun düzen ve disiplinini sağlar.",
+  "Öğrencilerin gelişimlerini izler, sorunlarının çözümüne yardımcı olur.",
+  "Mesleği alanındaki gelişmeleri takip eder ve uygular.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T02:55:34",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5922
+  }
+ }
+}

@@ -1,0 +1,80 @@
+{
+ "arac_gerec": [
+  "Bilgisayar ve mobil cihaz test donanımları (akıllı telefon, tablet)",
+  "Entegre geliştirme ortamları (Eclipse, Android Studio vb.)",
+  "Java programlama dili ve ilgili kütüphaneler",
+  "Mobil işletim sistemi emülatörleri/simülatörleri",
+  "SQLite veri tabanı yönetim araçları",
+  "Kullanıcı arayüzü (UI) tasarım araçları",
+  "Sürüm kontrol sistemleri (Git vb.)",
+  "İnternet bağlantısı ve ağ servisleri",
+  "Harita ve konum servisleri API'leri",
+  "Uygulama mağazası yayınlama panelleri",
+  "Hata ayıklama (debug) araçları",
+  "Teknik dokümantasyon ve kılavuzlar"
+ ],
+ "benzer_meslekler": [
+  "Görsel Programlama Elemanı",
+  "Nesne Tabanlı Programlamacı",
+  "Bilgisayar Ağ Veri Tabanı Elemanı",
+  "Bilgisayar Ağ Temelleri Elemanı"
+ ],
+ "calisma_alanlari": "Mobil programlama elemanları başta yazılım geliştirme şirketleri olmak üzere, bilişim ve teknoloji firmalarında, kamu kurumlarının bilgi işlem birimlerinde, bankacılık ve e-ticaret şirketlerinde, medya ve oyun şirketlerinde çalışabilirler.\\n\\nAkıllı telefon ve tablet kullanımının yaygınlaşması, kurumların ve işletmelerin kendi mobil uygulamalarına olan ihtiyacını artırmaktadır. Bu nedenle mobil programlama elemanlarına olan talep gün geçtikçe büyümektedir. Deneyim, güncel teknolojileri takip etme ve geliştirdiği uygulamalardan oluşan bir portföye sahip olma iş bulmada önemli rol oynar. Ayrıca serbest (freelance) çalışarak proje bazlı iş yapma olanağı da bulunmaktadır.",
+ "calisma_ortami": "Mobil programlama elemanı genellikle kapalı ortamda, büroda bilgisayar başında oturarak çalışır. Yazılım şirketleri ve kurumların bilgi işlem birimleri gibi ortamlarda görev yapar. Çalışma ortamı elektrikle aydınlatılmıştır ve çoğunlukla bilgisayar, mobil test cihazları ile ilgilenir. Uzun süre ekran karşısında oturarak çalışmak göz ve bel sağlığını etkileyebilecek bir risk oluşturur.\\n\\nÇalışma saatleri genellikle düzenlidir; ancak proje teslim tarihlerine bağlı olarak zaman zaman yoğun ve uzun çalışma süreleri gerekebilir. Günümüzde bu meslekte esnek çalışma saatleri ve uzaktan çalışma olanakları da yaygınlaşmaktadır. Meslek, çoğunlukla bireysel yoğunlaşma gerektirse de proje yöneticileri, diğer yazılım geliştiriciler, tasarımcılar ve zaman zaman müşterilerle iletişim kurmayı gerektirir.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi, resmî olarak tanımlanmış bağımsız bir çıraklık/meslek lisesi dalı şeklinde yaygın değildir. Mesleki ve teknik Anadolu liselerinin Bilişim Teknolojileri alanı, üniversitelerin bilgisayar programcılığı (ön lisans) ile bilgisayar mühendisliği/yazılım mühendisliği (lisans) programları bu mesleğe yönelik temel ve ileri düzey bilgi kazandırır. Ayrıca Halk Eğitim Merkezleri, İŞKUR ve özel eğitim kurumlarının açtığı mobil uygulama geliştirme/programlama kursları da bu alanda beceri kazandırmaktadır.",
+  "giris_kosullari": [
+   "Mesleki ve teknik eğitim programlarına girmek için ilköğretim/ortaokul mezunu olmak ve sağlık durumunun mesleğe uygun olması",
+   "Yükseköğretim (ön lisans/lisans) programları için lise mezunu olmak ve ilgili merkezi sınavlardan yeterli puanı almak",
+   "Kurs programlarına girmek için genellikle temel bilgisayar kullanımı bilgisine sahip olmak",
+   "Mantıksal düşünme ve matematiksel yetenek açısından uygunluk"
+  ],
+  "sure_ve_icerik": "Eğitimin süresi ve içeriği izlenen yola göre değişir. Meslek lisesi düzeyinde eğitim yaklaşık 4 yıl, ön lisans düzeyinde 2 yıl, lisans düzeyinde ise 4 yıl sürebilir. Bu eğitimlerde programlama mantığı, nesne yönelimli programlama (Java vb.), mobil işletim sistemleri, kullanıcı arayüzü tasarımı, veri tabanı yönetimi (SQLite vb.), internet ve arkaplan servisleri, harita/konumlandırma servisleri ve uygulama yayınlama konularında teorik ve uygulamalı dersler yer alır. Halk Eğitim Merkezleri ve İŞKUR kurslarında ise eğitim süresi daha kısa olup yoğun uygulamalı çalışmalar şeklinde ilerler.",
+  "belge": "İzlenen eğitim yoluna göre meslek lisesi diploması, ön lisans/lisans diploması veya kurs sonunda katılım/başarı sertifikası verilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, bu alanda düzenlenmiş olması durumunda istihdamda tercih sebebi olabilir."
+ },
+ "ek_bilgiler": "Mobil teknolojiler ve işletim sistemleri hızla değiştiğinden, bu meslekte güncel araç ve yöntemleri sürekli takip etmek büyük önem taşır. İngilizce bilgisi, teknik dokümantasyonu ve güncel kaynakları takip edebilmek açısından avantaj sağlar. Geliştirilen uygulamalardan oluşan bir portföyün bulunması iş bulma sürecinde olumlu etki yapar.",
+ "genel_ozellikler": [
+  "Mantıksal ve analitik düşünme yeteneğine sahip,",
+  "Matematiğe ilgili ve bu alanda başarılı,",
+  "Dikkatli, sabırlı ve sorunlara çözüm odaklı,",
+  "Yeni teknolojileri takip etmeye istekli ve kendini geliştirmeye açık,",
+  "Ayrıntıyı algılayabilen ve sistematik çalışabilen,",
+  "Yaratıcı düşünebilen,",
+  "İngilizce teknik terimleri okuyup anlayabilen,",
+  "Ekip çalışmasına uyumlu"
+ ],
+ "gorevler": [
+  "Java ile yazılım geliştirir.",
+  "Java programlama kodlarını kullanır.",
+  "Java ile nesnel programlama yapılarını kullanır.",
+  "İşletim sistemleri ile ilgili uygulama geliştirme ortamını kurar ve kullanır.",
+  "Eclipse ile kullanıcı ara yüzü hazırlar.",
+  "Java ve intentler ile activity kullanır.",
+  "Dosya ve klasör işlemlerini yapar, tercihleri kullanır.",
+  "SQLite ile veri tabanı işlemleri yapar.",
+  "İnternet ve arkaplan işlemlerini yapar, servislerle çalışır.",
+  "Harita ve konumlandırma servislerini kullanır.",
+  "Geliştirdiği işletim sistemleri ile ilgili uygulamaları yayınlar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Meslek lisesi mezunları, alanının devamı niteliğindeki ön lisans ve lisans programlarına (bilgisayar programcılığı, bilgisayar mühendisliği, yazılım mühendisliği vb.) sınavla veya ek puan avantajıyla geçiş yapabilirler. Ayrıca çeşitli sertifika programları ve kurslara katılarak mesleki bilgi ve beceriler güncellenip artırılabilir.",
+  "is_hayatinda": "Deneyim ve bilgi birikimi arttıkça kıdemli yazılım/mobil uygulama geliştirici, proje lideri, yazılım mühendisi veya ekip yöneticisi gibi pozisyonlara yükselinebilir. Yeterli deneyim ve sermaye ile kendi yazılım/uygulama geliştirme işini kurarak bağımsız çalışılabilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Mesleki ve teknik eğitim kapsamında işletmelerde staj/uygulamalı eğitim gören öğrencilere ilgili mevzuat çerçevesinde cüzi bir ücret ödenebilir. Halk Eğitim Merkezleri ve İŞKUR kurslarında genellikle ücret ödenmez.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında istihdam edilenler 657 sayılı Devlet Memurları Kanunu'na veya bağlı oldukları statüye göre ücret alırlar.",
+   "Özel sektörde mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar; bilgi, deneyim ve uzmanlaşma arttıkça kazanç da yükselir.",
+   "Serbest (freelance) çalışanların kazancı üstlendikleri proje sayısına ve niteliğine göre değişkenlik gösterir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T06:46:26",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6514
+  }
+ }
+}

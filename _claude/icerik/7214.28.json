@@ -1,0 +1,81 @@
+{
+ "arac_gerec": [
+  "Kaynak makinesi ve kaynak ekipmanları",
+  "Oksi-gaz kesme takımı",
+  "Taşlama ve kesme makineleri (taşlama motoru, disk)",
+  "Punta kaynak makinesi",
+  "Vinç, kren ve kaldırma ekipmanları (zincir, halat, sapan)",
+  "Markalama ve mastar takımları",
+  "Metre, kumpas, gönye, su terazisi, çekül gibi ölçme-kontrol aletleri",
+  "Sac bükme ve kesme makineleri",
+  "El aletleri (çekiç, pense, anahtar takımları, tornavida)",
+  "İskele ve çalışma platformları",
+  "Kişisel koruyucu donanım (kaynak maskesi, eldiven, baret, iş elbisesi, emniyet kemeri)",
+  "Teknik resim ve imalat çizimleri"
+ ],
+ "benzer_meslekler": [
+  "Gemi Montörü-Metal",
+  "Gemi Ön İmalat ve Montaj Elemanı",
+  "Gemi Onarım İşçisi",
+  "Tekne Montaj İşçisi",
+  "Tekne Onarım İşçisi",
+  "Tersane Yardımcı İşçisi"
+ ],
+ "calisma_alanlari": "Gemi Montaj ve Onarım Elemanları başlıca tersanelerde, gemi inşa ve bakım-onarım tesislerinde, deniz araçları üretim ve onarım fabrikalarında çalışırlar. İstihdamın büyük bölümü özel sektör tersanelerinde yoğunlaşmaktadır; kamuya bağlı tersanelerde de işçi statüsünde istihdam söz konusu olabilir. Dünya ticaretinde deniz taşımacılığının ve yeni gemi siparişlerinin durumu, bakım-onarım ihtiyacı ve sektördeki yatırımlar bu meslekte iş bulma olanaklarını doğrudan etkilemektedir. Deneyimli ve vasıflı elemanlara genellikle sürekli ihtiyaç duyulmaktadır.",
+ "calisma_ortami": "Gemi Montaj ve Onarım Elemanları tersanelerin açık havuzlarında, kızaklarda, atölyelerde ve gemi gövdesinin içinde dar, kapalı ve bazen yüksekte kurulu platformlarda çalışırlar. Çalışma ortamı gürültülü olup kaynak dumanı, metal tozu, kıvılcım, ağır parça kaldırma ve yüksekte çalışma gibi riskler barındırır; bu nedenle iş sağlığı ve güvenliği kurallarına ve kişisel koruyucu donanım kullanımına büyük önem verilmesi gerekir. Çalışma hava koşullarına, gemi inşa takvimine ve sipariş yoğunluğuna bağlı olarak değişebilir, zaman zaman vardiyalı veya uzun saatli çalışma söz konusu olabilir.\n\nMeslek elemanları genellikle ekip hâlinde, kaynakçı, boyacı, elektrik tesisatçısı gibi diğer tersane çalışanları, ustabaşı ve mühendislerle yakın iş birliği içinde çalışır. İmalat resimlerine ve iş emirlerine uygun çalışmak, ekip içi koordinasyon ve iletişim mesleğin önemli bir parçasıdır.",
+ "genel_ozellikler": [
+  "El ve beden becerisine sahip,",
+  "Dikkatli ve sabırlı,",
+  "Takım hâlinde çalışmaya yatkın,",
+  "Fiziksel olarak dayanıklı,",
+  "Yüksekte ve dar/kapalı alanlarda çalışabilen,",
+  "Teknik resim ve imalat çizimlerini okuyup yorumlayabilen,",
+  "Sorumluluk sahibi,",
+  "İş sağlığı ve güvenliği kurallarına duyarlı,"
+ ],
+ "gorevler": [
+  "İş sağlığı ve güvenliği kurallarına uygun çalışır.",
+  "Çevre koruma mevzuatına uygun çalışır.",
+  "Kalite yönetim sistemi dokümantasyonunda belirtilen şartlara uygun çalışır.",
+  "İş emirleri ile belirlenmiş çalışma sahasını prosese uygun hale getirir/getirilmesini sağlar.",
+  "İş emrinin gerçekleştirilmesinde kullanılacak kişisel koruyucu donanımı, makine ve donanımı hazırlar.",
+  "Makine sisteminin transferi öncesinde gerekli hazırlıkları yapar.",
+  "Makinelerin yerlerine transferini sağlar.",
+  "Montajı yapılacak ünite ya da makineyi yerleştirir ve sabitler.",
+  "Makine montaj işlemini gerçekleştirir.",
+  "Araç ve gereçlerin bakım ve ayarını yapar.",
+  "Mesleki gelişim faaliyetlerine katılır."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Mesleğin ortaöğretim düzeyinde ayrı bir resmi alan/dal olarak tanımlanmış, yaygın biçimde uygulanan bir programı bulunmamaktadır. Meslek genellikle tersanelerde işbaşında, usta yanında çalışarak öğrenilmektedir. Yeterli talep olması hâlinde mesleki eğitim merkezlerinde Metal Teknolojisi veya Gemi Yapımı gibi ilgili alan/dallarda çıraklık eğitimi açılabilmektedir. Ayrıca Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kursları da bu alanda temel beceri kazandırmaya yönelik kurslar düzenleyebilmektedir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "Çıraklık eğitimine başlamak için 14 yaşını doldurmuş ve zorunlu eğitim çağında olmak",
+   "Sağlık durumunun ağır ve tehlikeli işlerde, yüksekte ve kapalı/dar alanlarda çalışmaya elverişli olması (gerektiğinde sağlık raporu ile belgelendirilir)",
+   "Çıraklık eğitimi için bir işyeri bulup işvereni ile çıraklık sözleşmesi imzalamak"
+  ],
+  "sure_ve_icerik": "Mesleğe özgü standart ve zorunlu bir eğitim süresi bulunmamaktadır. Eğer ilgili alanda mesleki eğitim merkezi programı açılırsa eğitim ilköğretim sonrası yaklaşık 3-4 yıl sürer (kalfalık ve ustalık eğitimi şeklinde); ancak meslek elemanlarının büyük bölümü tersanelerde çıraklık/işbaşında eğitim yoluyla, usta yanında çalışarak ve kısa süreli mesleki eğitim kurslarına katılarak yetişmektedir. Eğitim içeriğinde teknik resim okuma, ölçme-kontrol, metal şekillendirme, montaj ve birleştirme tekniklerine ilişkin temel bilgi ve beceriler yer alır.",
+  "belge": "Mesleki eğitim merkezi programına devam edip tamamlayanlara kalfalık/ustalık belgesi, kurs tamamlayanlara kurs bitirme belgesi verilir. Mesleki Yeterlilik Kurumu (MYK) Mesleki Yeterlilik Belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Çıraklık eğitimi kapsamında eğitim görenlere 3308 sayılı Mesleki Eğitim Kanunu çerçevesinde asgari ücretin belirli bir oranında ücret ödenebilir. Kısa süreli mesleki eğitim kurslarına katılanlara ise genellikle doğrudan ücret ödenmez; İŞKUR aracılığıyla düzenlenen kurslarda kursiyer zaruri gideri verilebilir.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanların kazancı genellikle asgari ücret düzeyindedir.",
+   "Deneyim, ustalık düzeyi, çalışılan tersanenin büyüklüğü ve sektördeki iş yoğunluğuna bağlı olarak kazanç artabilir.",
+   "Özel sektörde ücret işveren ile çalışan arasında karşılıklı olarak belirlenir; kamu tersanelerinde işçi statüsünde çalışanlar ilgili toplu iş sözleşmesi hükümlerine tabi olabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleki eğitim merkezi veya meslek lisesi mezunları, ilgili alanların devamı niteliğindeki ön lisans/lisans programlarına (örneğin gemi inşaatı, metal teknolojisi, kaynak teknolojisi) sınavla yerleşebilir. Kaynakçılık, teknik resim, ölçme-kontrol gibi konularda açılan ek kurs ve sertifika programlarına katılarak mesleki bilgi ve beceriler geliştirilebilir.",
+  "is_hayatinda": "Deneyim ve beceri kazandıkça usta, ekip lideri, ustabaşı gibi görevlere yükselinebilir. İleri aşamalarda kalite kontrol, üretim planlama veya bölüm sorumluluğu gibi görevlere geçilebilir. Yeterli sermaye, deneyim ve iş bağlantılarına sahip olanlar kendi atölye/işletmelerini kurabilir."
+ },
+ "ek_bilgiler": "Gemi montaj ve onarım işleri; yüksekte çalışma, kaynak/kesme işlemleri, ağır metal parçaların kaldırılması ve dar/kapalı alanlarda çalışma gibi unsurlar nedeniyle tehlikeli ve çok tehlikeli işler kapsamında değerlendirilebilmektedir. Bu nedenle iş sağlığı ve güvenliği eğitimlerine, kişisel koruyucu donanım kullanımına ve periyodik sağlık kontrollerine özel önem verilmesi gerekmektedir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T00:49:07",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6940
+  }
+ }
+}

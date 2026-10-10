@@ -1,0 +1,83 @@
+{
+ "arac_gerec": [
+  "Yoğurma tepsisi/leğeni",
+  "Et kıyma veya bulgur çekme makinesi",
+  "Bıçaklar ve doğrama tahtaları",
+  "Mutfak robotu/mikser",
+  "Hassas tartı",
+  "Soğutucu dolap/buzdolabı",
+  "Eldiven ve kişisel hijyen malzemeleri",
+  "Servis tabakları ve dürüm için lavaş/yufka",
+  "Nar ekşisi, limon gibi sos ve garnitür malzemeleri",
+  "Paketleme malzemeleri (kutu, poşet, streç film)",
+  "Kasa/fiş-fatura makinesi",
+  "Temizlik ve dezenfeksiyon malzemeleri"
+ ],
+ "genel_ozellikler": [
+  "El becerisine ve kuvvetli bileklere sahip,",
+  "Temiz, düzenli ve hijyen kurallarına dikkat eden,",
+  "Tat ve koku duyusu gelişmiş,",
+  "Dikkatli ve sabırlı,",
+  "Ayakta uzun süre çalışmaya uygun bedensel yapıya sahip,",
+  "Müşteri ilişkilerinde güler yüzlü ve iletişime açık,",
+  "Hızlı ve pratik çalışabilen,"
+ ],
+ "calisma_ortami": "Çiğ köfte ustası, genellikle çiğ köfte büfesi, restoran, kafe veya fast-food işletmelerinin mutfak ya da hazırlık bölümlerinde, kapalı mekânlarda çalışır. Çalışma ortamı bazen sıcak ve nemli olabilir; işin niteliği nedeniyle ayakta ve hareketli çalışma, elleriyle sürekli malzeme yoğurma işlemi fiziksel yorgunluğa yol açabilir. Gıda ile çalışıldığından temizlik ve hijyen kurallarına titizlikle uyulması gerekir.\n\nÇalışma saatleri işletmenin açılış-kapanış saatine göre değişir; vardiyalı çalışma, akşam, hafta sonu ve tatil günlerinde çalışma söz konusu olabilir. Meslek elemanı işyeri sahibi/yöneticisi, diğer mutfak ve servis çalışanları ile müşterilerle sürekli iletişim halindedir.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin örgün mesleki eğitim programı bulunmamaktadır. Mesleki bilgi ve beceriler genellikle işyerinde usta yanında çalışılarak, ayrıca Halk Eğitim Merkezleri ile İŞKUR tarafından açılan mesleki eğitim kurslarında kazanılmaktadır.",
+  "giris_kosullari": [
+   "İlköğretim mezunu olmak",
+   "Gıda ile çalışmaya uygun sağlık durumuna sahip olmak (gerektiğinde sağlık raporuyla belgelendirilir)",
+   "El becerisi ve bedensel uygunluk gerektiren işi yapabilecek fiziksel kapasiteye sahip olmak"
+  ],
+  "sure_ve_icerik": "Mesleğe özgü standart bir eğitim süresi bulunmamaktadır. İşbaşında yapılan eğitimde malzeme seçimi ve temizliği, hijyen kuralları, yoğurma teknikleri, kıvam kontrolü, porsiyonlama, servis ve paketleme uygulamalı olarak öğretilir. Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kurslarının süresi kursa göre değişmekte olup genellikle kısa süreli, uygulamalı eğitimlerdir.",
+  "belge": "Kurslara katılanlara katılım veya başarı belgesi verilir; mesleğe girişte zorunlu bir diploma ya da ustalık belgesi aranmamaktadır. Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Çiğ köfte ustaları; çiğ köfte büfelerinde, restoran ve kafelerde, fast-food işletmelerinde, gıda üretim ve paketleme tesislerinde, catering firmalarında çalışabilmekte, ayrıca kendi işyerini açarak çiğ köfte satışı yapabilmektedir. Nüfus yoğunluğu yüksek şehirlerde ve yoğun ticari bölgelerde iş bulma olanağı daha fazladır; sıcak aylarda ve yoğun müşteri trafiğinin olduğu dönemlerde talep artış gösterebilir.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğe özgü örgün bir eğitim süreci bulunmadığından kişi genellikle doğrudan işbaşında ücretli olarak çalışır. İŞKUR veya Halk Eğitim Merkezi kurslarına katılanlara kurs süresince bazı destekler sağlanabilir.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Özel sektörde kazanç; işyerinin büyüklüğü, kişinin deneyimi, bilgi ve becerisi ile sektördeki ücret düzeyine göre değişebilir.",
+   "Kendi işini kuranların kazancı işletmenin cirosuna ve müşteri potansiyeline göre değişkenlik gösterir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğin örgün bir eğitim kademesi bulunmamaktadır. Kişi, çeşitli kurs ve sertifika programlarına katılarak bilgi ve becerisini geliştirebilir, isterse gıda veya aşçılık alanındaki yaygın eğitim kurumlarının sunduğu ileri düzey kurslara yönelebilir.",
+  "is_hayatinda": "Deneyim ve beceri kazandıkça usta veya işletme sorumlusu/şefi konumuna yükselebilir; yeterli birikim sağlandığında kendi işyerini açarak işveren konumuna geçilebilir."
+ },
+ "benzer_meslekler": [
+  "Fast Food Hazırlayıcısı-Hamburger, Tost, Sandviç Vb.",
+  "İçli Köfte Ustası",
+  "Çiğ Köfte Üretimi Ön Hazırlık Elemanı",
+  "Döner Ustası",
+  "Izgara Köftecisi",
+  "Tantuni Ustası"
+ ],
+ "ek_bilgiler": "Gıda ile doğrudan çalışıldığından işyerinin bağlı olduğu sağlık mevzuatı kapsamında hijyen/gıda güvenliği eğitimi ve belgesi alınması gerekebilir; bu konudaki yükümlülükler işletmenin bulunduğu ildeki yerel sağlık mevzuatına göre değişebilir.",
+ "gorevler": [
+  "Çiğ köfte yapımında kullanılacak en uygun malzemeleri temin eder veya edilmesini sağlar.",
+  "Sağlık ve temizlik kurallarına uygun olarak çalışma ortamını ve kullanılacak araç, gereç ve ekipmanları temiz ve kullanıma hazır bulundurur, bulundurulmasını sağlar.",
+  "Çiğ köfte yapımında kullanılacak malzemelerin bozulmadan saklanmasını sağlar.",
+  "Yapılacak çiğ köftenin miktarına göre kullanılacak malzemeleri gerekli miktarlarda kullanıma hazır hale getirir.",
+  "Çiğ köfte yapımında kullanılacak malzemeleri yıkayarak temizler.",
+  "Doğranması gereken malzemeleri doğrar ya da makinelerde çeker.",
+  "Çiğ köfte yoğurma tepsisine yeterli miktarda gerekli malzemeleri koyarak karıştırır ve yoğurur.",
+  "Yoğurma işlemi devam ederken çiğ köftenin istenen kıvama gelip gelmediğini kontrol eder.",
+  "İstenilen kıvama gelen çiğ köfteleri porsiyonlara ayırır, tabakta ya da dürümde servise hazır hale getirir, isteyen müşterilere marul, nar ekşisi ve limon sunar.",
+  "Gerektiğinde satışı yapılmak üzere çiğ köfteleri istenen miktarda paketler.",
+  "Gerektiğinde çiğ köftelerin satışını yapar, ücretini alır, fiş veya fatura düzenleyerek verir.",
+  "Müşterilerden gelen çiğ köfte ile ilgili beğeni, istek ve şikâyetleri değerlendirir.",
+  "Kullandığı malzeme, araç, gereç ve ekipmanların ve çalışma alanının temizliğini yapar, yapılmasını sağlar.",
+  "Meslek alanı ile ilgili gelişmeleri takip eder ve uygular.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T20:36:14",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6322
+  }
+ }
+}

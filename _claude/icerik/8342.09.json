@@ -1,0 +1,85 @@
+{
+ "gorevler": [
+  "Fore kazık makinesinin günlük kontrol ve bakımını yapar.",
+  "Bomu, halatları, döndürücüyü (rotary), döndürme milini (kelly) ve çeviriciyi (osilatör) monte eder.",
+  "Döndürme miline matkap veya kova takar.",
+  "Fore kazık makinesini kurar.",
+  "Fore kazık kuyusunun merkezini sigortalar.",
+  "Muhafaza borusunu yerleştirir.",
+  "Muhafaza borusu içerisine matkap, kova veya kaşığı indirir.",
+  "Zemini kazar.",
+  "Kazılan zemini boşaltır.",
+  "Bentonit seviyesini kontrol eder.",
+  "Muhafaza borularını ekler.",
+  "Kuyu derinliğini ölçer.",
+  "Donatıyı ve beton dökme borusunu (tremi) kuyuya indirir.",
+  "Betonun dökülmesini sağlar.",
+  "Beton dökme borusunu ve muhafaza borularını kuyudan çeker.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "arac_gerec": [
+  "Fore kazık makinesi (paletli veya kamyon üstü)",
+  "Bom, halatlar",
+  "Döndürücü (rotary), döndürme mili (kelly)",
+  "Çevirici (osilatör)",
+  "Matkap, kova, kaşık (bucket) uçları",
+  "Muhafaza boruları (casing)",
+  "Bentonit ve karışım ekipmanları",
+  "Donatı demiri (armatür kafesi)",
+  "Beton dökme borusu (tremi)",
+  "Kuyu derinlik ölçüm aletleri, şerit metre",
+  "El ve ölçü aletleri (anahtar takımı, pense, varyoz)",
+  "Yağlama ve bakım malzemeleri",
+  "Kişisel koruyucu donanım (baret, eldiven, iş elbisesi, çelik burunlu bot, kulaklık, iş gözlüğü)"
+ ],
+ "genel_ozellikler": [
+  "Mekanik ve teknik konulara ilgili,",
+  "El, göz ve ayaklarını eşgüdümlü kullanabilen,",
+  "Dikkatli, sorumlu ve tedbirli,",
+  "Fiziksel olarak dayanıklı,",
+  "İş güvenliği kurallarına duyarlı,",
+  "Yönergeleri doğru ve eksiksiz uygulayabilen,",
+  "Ekip çalışmasına uyumlu,",
+  "Açık hava ve zorlu koşullarda çalışmaya istekli,"
+ ],
+ "calisma_ortami": "\"Fore Kazık Makinesi Operatörü, çalışmalarını büyük ölçüde açık havada, inşaat ve şantiye alanlarında, makine kabini içinde yürütür. Çalışma ortamı tozlu, gürültülü olabilir; makinenin çalışması sırasında titreşim söz konusudur ve iş genellikle hava koşullarından etkilenir. Fore kazık çalışması, temel ve zemin iyileştirme projelerinin bir parçası olduğundan diğer şantiye ekipmanları ve iş makineleriyle birlikte, yoğun ve bazen dar alanlarda yapılabilir.\\n\\nMeslek, gündüz çalışmasının yanı sıra proje takvimine göre vardiyalı veya uzatılmış sürelerde de yürütülebilir. Operatör; şantiye şefi, inşaat mühendisi, zemin etüdü uzmanı, yardımcı işçiler ve diğer makine operatörleriyle sürekli iletişim halindedir. Dikkatsizlik veya kurallara uyulmaması durumunda iş kazası riski bulunan bir meslektir.\"",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi; Halk Eğitim Merkezleri, özel kurs firmaları ve iş makineleri operatörlüğüne yönelik mesleki eğitim kursları ile işyerlerinde usta yanında uygulamalı olarak verilmektedir.",
+  "giris_kosullari": [
+   "18 yaşını doldurmuş olmak",
+   "En az ilköğretim okulu mezunu olmak",
+   "Operatörlük yapmasına engel bir sağlık problemi bulunmamak"
+  ],
+  "sure_ve_icerik": "Kurslarda, fore kazık makinesinin teknik yapısı, günlük kontrol ve bakım işlemleri, zemin özellikleri, muhafaza borusu ve beton dökümü uygulamaları, iş sağlığı ve güvenliği kuralları ile makinenin güvenli ve verimli kullanımına ilişkin teorik ve pratik eğitim verilir. Mesleğe giriş genellikle işbaşında, deneyimli bir operatörün yanında yardımcı olarak başlanıp zamanla makineyi bağımsız kullanabilecek düzeye gelmeyi kapsar.",
+  "belge": "Kursu başarıyla tamamlayanlara kurs bitirme belgesi verilir. İnşaat ve hafriyat makineleri operatörlüğü tehlikeli işler kapsamında değerlendirildiğinden, Mesleki Yeterlilik Kurumu (MYK) tarafından düzenlenen ulusal yeterlilik belgesi istihdamda tercih sebebi olabilir ve bazı işyerlerinde aranabilir."
+ },
+ "calisma_alanlari": "Fore Kazık Makinesi Operatörleri; inşaat firmaları, zemin etüdü ve temel güçlendirme işleri yapan şirketler, altyapı ve enerji projeleri yürüten kuruluşlar, liman, köprü, bina ve yüksek yapı projelerinde çalışan taşeron firmalar ile bazı kamu kuruluşlarının (karayolları, belediyeler, DSİ gibi) yürüttüğü büyük ölçekli inşaat projelerinde istihdam edilirler. Büyükşehirlerdeki altyapı ve bina temeli projelerinin yoğunluğu nedeniyle iş bulma olanakları genellikle inşaat sektörünün genel seyrine bağlı olarak değişmektedir.",
+ "kazanc": {
+  "egitim_suresince": "Kurs döneminde genellikle bir kazanç söz konusu değildir; işbaşında yetişenler ise yardımcı operatör olarak çalıştıkları süre boyunca asgari ücret düzeyinde bir gelir elde edebilir.",
+  "egitim_sonrasi": [
+   "Kamu kurum ve kuruluşlarında işçi statüsünde çalışanlar, ilgili toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde çalışanların kazancı, işyerinin büyüklüğü, projenin kapsamı, kişinin deneyimi ve bilgi birikimine göre değişmekte olup yeni başlayanlarda genellikle asgari ücret düzeyindedir; deneyim kazandıkça bu düzeyin üzerine çıkabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Meslekte doğrudan tanımlanmış kademeli bir eğitim programı bulunmamaktadır. Operatörler, deneyim kazandıkça ileri düzey kurslara ve sertifika programlarına katılarak farklı hafriyat ve temel makinelerinin kullanımında uzmanlaşabilir.",
+  "is_hayatinda": "Mesleğinde belirli bir süre çalışıp deneyim kazanan operatörler baş operatör, ekip sorumlusu veya şantiye şefliği gibi görevlere yükselebilir. Ayrıca kazık çakma makinesi, ekskavatör gibi diğer hafriyat ve temel makinelerinin kullanımını öğrenerek farklı iş makinelerinde de operatörlük yapabilir ve iş bulma olanaklarını artırabilir."
+ },
+ "benzer_meslekler": [
+  "Kazık Çakma Makinesi Operatörü",
+  "Döner Kepçeli Ekskavatör Operatörü",
+  "Ekskavatör (Kazıma ve Yükleme) Operatörü",
+  "Beko Loder (Kazıcı - Yükleyici) Operatörü",
+  "Yüzey Delici Makineleri (Rock) Operatörü",
+  "Yeraltı Delici Makineleri (Jumbo) Operatörü"
+ ],
+ "ek_bilgiler": "Fore kazık, zemin etüdüne göre bina, köprü, liman ve yüksek yapıların derin temellerini oluşturmak amacıyla açılan ve beton ile donatıyla doldurulan kuyu şeklindeki kazık türüdür. Bu nedenle Fore Kazık Makinesi Operatörlüğü, özellikle büyük altyapı ve üst yapı projelerinin temel aşamasında ihtiyaç duyulan bir meslektir ve talebi büyük ölçüde inşaat sektöründeki proje hacmine bağlıdır.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T18:36:19",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5535
+  }
+ }
+}

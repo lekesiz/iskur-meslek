@@ -1,0 +1,67 @@
+{
+ "arac_gerec": [
+  "Temel el aletleri (anahtar, tornavida, pense vb.)",
+  "Basit ölçüm ve kontrol cihazları",
+  "Kişisel koruyucu donanım (eldiven, gözlük, baret vb.)",
+  "Bilgisayar ve ofis yazılımları (veri kaydı için)",
+  "Teknik dokümantasyon formları ve kayıt defterleri",
+  "Basit montaj ve bakım malzemeleri (yağlama malzemesi, bağlantı elemanları vb.)",
+  "İşyerine özgü üretim/kontrol cihaz ve ekipmanları",
+  "Temizlik ve düzen sağlama malzemeleri",
+  "Haberleşme araçları (telsiz, telefon)"
+ ],
+ "benzer_meslekler": [
+  "Diğer Mühendislik Teknisyenleri",
+  "Diğer Teknisyen ve Teknikerler"
+ ],
+ "calisma_alanlari": "Diğer Teknik Hizmet Personeli, belirli bir teknik uzmanlık dalına girmeyen görevler nedeniyle çok çeşitli sektörlerde istihdam edilebilir. İmalat, enerji, inşaat, lojistik, bakım-onarım ve benzeri alanlarda faaliyet gösteren işletmelerin teknik birimlerinde, atölye, saha veya depo bölümlerinde çalışabilir.\n\nBu meslek belirli bir alana özgü olmadığından iş bulma olanağı, kişinin genel teknik bilgi ve becerisine, iş güvenliği ve temel ekipman kullanımı konusundaki yeterliliğine ve çalıştığı sektörün istihdam yapısına göre değişir. Deneyim kazanıldıkça, çalışılan işletmenin ihtiyacına göre daha özel bir teknik alanda uzmanlaşma veya o alana yönelik mesleklere geçiş mümkündür.",
+ "calisma_ortami": "Diğer Teknik Hizmet Personeli, çalıştığı işletmenin faaliyet alanına göre atölye, imalat sahası, depo, laboratuvar veya açık/kapalı şantiye ortamlarında görev yapar. Çalışma koşulları işin niteliğine göre değişmekle birlikte genellikle ayakta ve hareketli şekilde yürütülür; ortam gürültülü, tozlu, sıcak/soğuk veya nemli olabilir. Makine ve ekipmanla iç içe çalışıldığından iş güvenliği kurallarına uyulması ve kişisel koruyucu donanım kullanılması önemlidir.\n\nÇalışma saatleri genellikle düzenlidir, ancak işletmenin üretim/çalışma düzenine bağlı olarak vardiyalı çalışma söz konusu olabilir. Görevi sırasında üst amirleri, mühendis ve teknikerler, diğer teknik personel ve işçilerle sürekli iletişim halindedir.",
+ "egitim": {
+  "verildigi_yerler": "Diğer Teknik Hizmet Personeli, belirli bir teknik uzmanlık sınıfına girmeyen görevleri kapsadığından, bu meslek için Milli Eğitim Bakanlığı tarafından tanımlanmış özel bir alan/dal veya örgün bir meslek lisesi programı bulunmamaktadır. Mesleğe giriş için ortaöğretim mezuniyeti yeterli görülmekte, işe alındıktan sonra işbaşında, usta veya yetkili personel gözetiminde uygulamalı eğitim verilmektedir. Ayrıca Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kursları ile işletme içi eğitimlerden faydalanılabilir.",
+  "giris_kosullari": [
+   "Ortaöğretimi (lise ve dengi okul) tamamlamış olmak",
+   "İşin niteliğine göre temel iş sağlığı ve güvenliği eğitimi almaya uygun olmak"
+  ],
+  "sure_ve_icerik": "Bu meslek için standart bir eğitim süresi ve müfredatı tanımlanmamıştır. Eğitim, çalışılan işletmenin ihtiyacına göre işbaşında, kısa süreli uygulamalı eğitimler şeklinde verilir. İçerik genellikle temel teknik bilgi, cihaz ve ekipman kullanımı, basit bakım-onarım işlemleri, iş sağlığı ve güvenliği ile teknik dokümantasyon ve kayıt tutma konularını kapsar.",
+  "belge": "Örgün bir diploma veya sertifika programı bulunmadığından ortaöğretim diploması temel koşuldur; katılınan kurum içi veya kurs eğitimlerinden katılım/başarı belgesi alınabilir."
+ },
+ "ek_bilgiler": "Bu meslek, belirli bir teknik uzmanlık alanına girmeyen genel ve destek niteliğindeki görevleri kapsamaktadır. Bu nedenle görev içeriği, gerekli nitelikler, çalışma koşulları ve eğitim süreci büyük ölçüde çalışılan sektöre ve işletmeye göre değişir; standart ve tek bir mesleki tanım söz konusu değildir. Mesleki Yeterlilik Kurumu (MYK) belgesi, çalışılan alana bağlı olarak istihdamda tercih sebebi olabilir.",
+ "genel_ozellikler": [
+  "Dikkatli ve sorumluluk sahibi,",
+  "El becerisine sahip,",
+  "Talimat ve prosedürlere uyan,",
+  "Takım çalışmasına uygun,",
+  "Fiziksel olarak dayanıklı,",
+  "Öğrenmeye ve yeni bilgi edinmeye açık,",
+  "İş güvenliği kurallarına duyarlı,",
+  "Düzenli ve titiz"
+ ],
+ "gorevler": [
+  "Sorumlu olduğu alandaki cihaz ve ekipmanları kullanıma hazır tutar.",
+  "Basit montaj, bakım ve teknik hazırlık işlerini yapar.",
+  "Teknik dokümantasyon ve veri kayıt süreçlerine destek verir.",
+  "Saha veya laboratuvar düzenini ve güvenliğini sağlar.",
+  "Üst amirlerin verdiği teknik nitelikli genel görevleri yerine getirir.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Bu meslek için tanımlı standart bir mesleki ve teknik eğitim programı bulunmadığından, ilgi duyulan teknik alana yönelik mesleki ve teknik ortaöğretim programları veya ön lisans/lisans programlarına yönelerek belirli bir uzmanlık alanında ilerlemek mümkündür.",
+  "is_hayatinda": "Deneyim ve bilgi birikimi kazanan personel, işletme içinde daha nitelikli teknik görevlere, usta başılığa veya belirli bir teknik uzmanlık alanına yönelerek ilerleyebilir. Ek eğitim ve kurslarla belgelendirilen beceriler, daha üst teknik pozisyonlara geçişte etkili olabilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Bu meslek için örgün ve standart bir mesleki eğitim programı bulunmadığından, eğitim sürecine ilişkin genel geçerli bir ücretlendirme düzenlemesi yoktur. İşbaşında eğitim genellikle ücretli istihdam kapsamında yürütülür.",
+  "egitim_sonrasi": [
+   "Kazanç; çalışılan işletmenin büyüklüğü, sektör, kişinin tecrübesi ve iş kapasitesine göre değişmektedir.",
+   "Mesleğe yeni başlayanların kazancı genellikle asgari ücret düzeyindedir.",
+   "Kamu kurumlarında işçi statüsünde istihdam edilenlerin ücretleri ilgili toplu iş sözleşmesi hükümlerine göre belirlenir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T10:08:12",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5188
+  }
+ }
+}

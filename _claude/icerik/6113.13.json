@@ -1,0 +1,86 @@
+{
+ "arac_gerec": [
+  "Kompost hazırlama ve işleme ekipmanları",
+  "Termometre ve higrometre (ısı-nem ölçer)",
+  "Havalandırma ve iklimlendirme sistemleri",
+  "Sulama ekipmanları (hortum, yağmurlama sistemi)",
+  "Örtü toprağı ve bataklık toprağı",
+  "Hasat bıçağı/makası",
+  "Taşıma kasaları ve paketleme malzemeleri (poşet, kutu)",
+  "Tartı/baskül",
+  "Sırt pompası ve ilaçlama ekipmanları",
+  "Koruyucu eldiven, maske, iş tulumu ve çizme",
+  "Raflı/katlı yetiştirme sistemleri",
+  "Temizlik ve dezenfeksiyon malzemeleri",
+  "Soğuk hava deposu"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve sabırlı,",
+  "El becerisine sahip,",
+  "Fiziksel olarak dayanıklı,",
+  "Düzenli ve temiz çalışmaya özen gösteren,",
+  "Hijyen kurallarına duyarlı,",
+  "Kapalı ve nemli ortamda çalışmaya uygun bünyeye sahip,",
+  "Koku ve toza karşı hassasiyeti olmayan,",
+  "Sorumluluk sahibi"
+ ],
+ "calisma_ortami": "Mantar yetiştiricisi, genellikle kapalı, sıcak, loş ve nemli üretim odalarında (tünel, depo veya bu amaçla yapılmış özel tesislerde) çalışır. Kompost kokusu, toz, yüksek nem oranı ve zaman zaman ilaçlama sırasında kullanılan kimyasal maddelere maruziyet görülebilir; bu nedenle astım, romatizma gibi rahatsızlığı olanların ve kimyasal hassasiyeti bulunan kişilerin çalışma koşullarını dikkate almaları gerekir. Çalışma sırasında eğilerek, ayakta ve tekrarlı hareketlerle uzun süre uğraşmak gerekebileceğinden fiziksel dayanıklılık önemlidir.\n\nÇalışma saatleri, üretim dönemine ve hasat yoğunluğuna göre değişebilir; hasat döneminde vardiyalı veya uzun saatler çalışılabilir. Meslek sahibi; işletme sahibi/yöneticisi, ziraat mühendisi veya teknisyeni, diğer tarım işçileri ve paketleme-pazarlama birimleriyle iş birliği içinde çalışır.",
+ "egitim": {
+  "verildigi_yerler": "Mantar Yetiştiriciliği için örgün bir ön lisans veya lisans programı bulunmamaktadır. Mesleğin bilgi ve becerisi genellikle işletmelerde işbaşında usta yanında, Halk Eğitim Merkezleri ile İŞKUR'un açtığı mesleki eğitim kurslarında kazanılır. Tarım meslek liselerinin bahçecilik/bitkisel üretim alanlarında konuyla ilgili temel bilgiler verilebilir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "Okuma yazma bilmek",
+   "Fiziksel olarak kapalı ve nemli ortamda çalışmaya uygun olmak",
+   "Tarım ve bahçecilik işlerine ilgi duymak"
+  ],
+  "sure_ve_icerik": "Kurs süresi düzenleyen kuruma göre değişmekle birlikte genellikle birkaç hafta ile bir ay arasında sürer. İçerikte kompost hazırlama ve topraklama, üretim odası iklim (ısı-nem-oksijen) kontrolü, hijyen ve hastalık-zararlı yönetimi, örtü toprağı uygulaması, hasat, ayıklama, tartım-paketleme ve soğuk hava deposu koşulları gibi konular yer alır. İşletmelerde ise bu bilgi ve beceriler uzun süreli işbaşı eğitimiyle, usta-çırak ilişkisi içinde kazandırılır.",
+  "belge": "Kurs sonunda katılım/başarı belgesi verilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, iş bulma ve istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Mantar yetiştiricileri; mantar üretim tesislerinde (işletme sahibi veya işçi olarak), tarımsal üretim kooperatiflerinde, mantar yetiştiriciliği yapan çiftliklerde, gıda işleme ve paketleme tesislerinde çalışma imkânı bulabilirler. Ayrıca bilgi ve sermaye birikimiyle kendi mantar üretim işletmesini kurarak bağımsız olarak da çalışabilirler.",
+ "kazanc": {
+  "egitim_suresince": "İŞKUR veya Halk Eğitim Merkezleri tarafından düzenlenen kurslar genellikle ücretsizdir; İŞKUR kursiyerlerine düzenlemelere göre kursiyer harçlığı ödenebilir. İşletmede usta yanında eğitim alan kişilere işveren tarafından belirlenen bir ücret ödenebilir.",
+  "egitim_sonrasi": [
+   "İşe yeni başlayanların ücreti genellikle asgari ücret düzeyindedir.",
+   "Deneyim, işletmenin büyüklüğü ve üstlenilen sorumluluğa bağlı olarak ücret zamanla artabilir.",
+   "Kamu kurumlarında işçi statüsünde çalışanlar için ücret toplu iş sözleşmesi hükümlerine göre belirlenir; kendi işletmesini kuranların kazancı ise üretim ve pazarlama başarısına göre değişir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Meslek sahipleri, deneyimlerini artırmak için ileri düzey mesleki eğitim kurslarına ve bahçıvanlık/bitkisel üretim alanındaki diğer mesleki eğitim programlarına katılabilir, ustalık belgesi alabilirler.",
+  "is_hayatinda": "Deneyim kazanan meslek sahipleri usta başı, kısım şefi veya üretim sorumlusu olarak görev alabilir; bilgi ve sermaye birikimiyle kendi mantar üretim işletmesini kurarak işveren konumuna geçebilirler."
+ },
+ "benzer_meslekler": [
+  "Çiftçi (Bahçıvan)",
+  "Seracı",
+  "Bahçıvan",
+  "Tarım Çavuşu",
+  "Tarım Kısım Şefi",
+  "Diğer Fidanlık İşçileri ve Bahçıvanlar"
+ ],
+ "ek_bilgiler": "Mantar yetiştiriciliğinde üretim odalarının ısı, nem ve oksijen oranının sürekli kontrol edilmesi ile hijyen kurallarına titizlikle uyulması, hem verim hem de ürün güvenliği açısından kritik önem taşır. Bu nedenle meslek, teorik bilgiden çok uygulamalı deneyime ve düzenli takibe dayanır.",
+ "gorevler": [
+  "Ham olarak gelen kompostun (buğday sapı, at gübresi, tavuk gübresinden oluşan hammadde) düzeltilmesini ve bataklık toprağı ile topraklanmasını sağlar.",
+  "Kompostun gelişebilmesi için üretim odasının ısı, oksijen ve nem kontrolünü yaparak gerekli şartları oluşturur.",
+  "Kompostu üretim odasına yerleştirir.",
+  "Kompostun belirli bir süre (yaklaşık iki hafta) gelişmesini bekler.",
+  "Hasat dönemine kadar hijyen kurallarına uyarak ilaçlama ve bakımını yapar.",
+  "Gelişme tamamlanınca örtü toprağı işlemlerini yapar.",
+  "Toprak serer ve sular.",
+  "Mantarın toplanması (hasadı) işlemini yapar.",
+  "Mantar odalarının temizliğini ve bakımını yapar.",
+  "Mantar ayıklama işlemini yapar.",
+  "Paketleme ve tartım işlemlerini yapar.",
+  "Mantar toplama işlemi bitince malzeme ve kasaların temizliğini yapar.",
+  "Mantarın soğuk hava depolarında muhafazasını sağlar.",
+  "Mesleği alanındaki gelişmeleri takip eder ve uygular.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T21:02:13",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5180
+  }
+ }
+}

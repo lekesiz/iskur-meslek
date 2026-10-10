@@ -1,0 +1,82 @@
+{
+ "arac_gerec": [
+  "Hidrolik pres",
+  "Döküm kasnağı (silindir kalıp çerçevesi)",
+  "Papye maşe (kağıt hamuru) matris malzemesi",
+  "Döküm ocağı / eritme fırını",
+  "Hurufat metali (kurşun alaşımı)",
+  "Kenar tıraşlama ve düzeltme aletleri",
+  "Perdahlama aletleri",
+  "Klişe bükme aparatı",
+  "Dizgi kalıpları",
+  "Prova baskı makinesi",
+  "Isıya dayanıklı koruyucu eldiven ve önlük",
+  "Kumpas ve ölçü aletleri",
+  "Keçe ve kaba kağıt parçaları"
+ ],
+ "genel_ozellikler": [
+  "El becerisine sahip,",
+  "Dikkatli ve titiz çalışabilen,",
+  "Yüksek ısı ve ağır iş koşullarına dayanıklı,",
+  "Göz ve elini eşgüdümle kullanabilen,",
+  "Fiziksel olarak güçlü ve sağlıklı,",
+  "İşçi sağlığı ve iş güvenliği kurallarına uyan,",
+  "Ekip içinde uyumlu çalışabilen,",
+  "Teknik ve mekanik işlere ilgili"
+ ],
+ "calisma_ortami": "Sterotip klişeciler, matbaa ve basımevlerinin kapalı atölye bölümlerinde çalışır. Çalışma ortamı, erimiş metal döküm işlemi nedeniyle yüksek ısıya, dumana/kokuya ve gürültüye sahiptir; ayrıca ağır ekipmanlarla (hidrolik pres, döküm kasnağı) temas söz konusudur. Çalışma büyük ölçüde ayakta ve fiziksel güç gerektiren hareketlerle yürütülür, işyerinin üretim programına göre vardiyalı çalışma gerekebilir.\n\nMeslek, dizgi/mürettip bölümünden gelen kalıplarla çalıştığından dizgiciler, baskıcılar ve atölye ustaları ile sürekli iş birliği ve iletişim içindedir. İşçi sağlığı ve iş güvenliği önlemlerine (koruyucu giysi, eldiven, havalandırma vb.) uyulması, erimiş metal ve sıcak yüzeylerle çalışma nedeniyle büyük önem taşır.",
+ "gorevler": [
+  "Dizgi kalıplarını hidrolik bir presin yatağına yerleştirir.",
+  "Kalıbın üzerine papye maşe veya benzeri bir malzeme tabakası yerleştirerek presle döküm kalıbı yapar.",
+  "Döküm kalıbını presten çıkarıp kenarlarını düzeltir.",
+  "Döküm kalıbını ters yüzüne çevirip oyuklara kaba kağıt parçaları veya keçe doldurarak döküm sırasında kalıbın eğilmesine engel olur.",
+  "Kalıbı ısıtarak bir döküm kasnağı içine yerleştirir.",
+  "Erimiş hurufat metalini kasnağa dökerek klişeyi yapar.",
+  "Metalin soğumasını bekleyip soğuyan klişeyi kasnaktan çıkarır.",
+  "Baskıya hazırlamak üzere, gereğine göre klişenin kenarlarını tıraşlayıp düzeltir, perdahlayıp büker.",
+  "Bu klişe ile bir prova baskısı yapar, gerekirse yeni bir klişe döker.",
+  "Gerektiğinde elle döküm kalıbı yapar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Sterotip klişecilik, sıcak metal döküm yöntemiyle klişe üretimine dayanan geleneksel bir baskı öncesi tekniğidir ve günümüzde bilgisayarlı baskı öncesi (CTP vb.) teknolojilerinin yaygınlaşması nedeniyle bu yöntemle çalışan işletme sayısı oldukça azalmıştır. Bu nedenle meslek için örgün bir mesleki ve teknik eğitim programı bulunmamaktadır. Mesleğe ilişkin bilgi ve beceriler, varlığını sürdüren matbaalarda genellikle işbaşında usta yanında, deneyimli çalışanların gözetiminde kazanılmaktadır.",
+  "giris_kosullari": [
+   "İlköğretim mezunu olmak",
+   "14 yaşını doldurmuş olmak (çıraklık eğitimi kapsamında çalışılacaksa)",
+   "Ağır iş ve yüksek ısı koşullarına uygun sağlık durumuna sahip olmak",
+   "Eğitim görülecek işyeri ile anlaşma/sözleşme yapmak"
+  ],
+  "sure_ve_icerik": "Resmi ve standart bir eğitim süresi/müfredatı bulunmamaktadır. Mesleğe giriş, işletmede usta yanında uygulamalı olarak ve işin gerektirdiği süre boyunca (genellikle birkaç ay ile bir yıl arasında değişen bir sürede) kademeli olarak öğrenilir. Dizgi kalıplarının hazırlanması, döküm işlemleri, klişe düzeltme ve prova baskı aşamaları uygulamalı olarak gösterilir.",
+  "belge": "Örgün bir mesleki eğitim programı bulunmadığından standart bir diploma veya yeterlilik belgesi genel olarak söz konusu değildir. Çalışılan işletmenin veya varsa katılınan kursun düzenlediği katılım/deneyim belgesi alınabilir."
+ },
+ "calisma_alanlari": "Sterotip klişeciler, geçmişte başta gazete matbaaları ve büyük basımevleri olmak üzere, rotatif baskı için silindirik klişe gerektiren basım işletmelerinde istihdam edilmekteydi. Günümüzde baskı öncesi işlemler büyük ölçüde dijital/bilgisayarlı plaka hazırlama sistemlerine geçtiğinden, bu meslekle doğrudan çalışan işletme sayısı ve buna bağlı istihdam olanağı oldukça sınırlıdır. Varlığını sürdüren az sayıda geleneksel matbaa, restorasyon amaçlı baskı atölyesi veya müze/eğitim niteliğindeki üretim birimlerinde çalışma imkânı bulunabilir.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğe işbaşında usta yanında başlanması durumunda, çalışılan süre boyunca işveren ile yapılan anlaşmaya göre genellikle asgari ücret düzeyinde veya daha düşük bir ödeme yapılabilir; resmi bir çıraklık sözleşmesi varsa ilgili mevzuata göre ücret belirlenir.",
+  "egitim_sonrasi": [
+   "Özel sektörde kazanç, işyerinin büyüklüğü, kişinin tecrübesi ve sektördeki ücret düzeyine göre değişmekle birlikte genellikle asgari ücret düzeyinde başlar.",
+   "Meslekle ilgili istihdam olanaklarının çok sınırlı olması nedeniyle düzenli ve istikrarlı bir kazanç beklentisi her zaman mümkün olmayabilir.",
+   "Kamu sektöründe bu meslekte doğrudan istihdam günümüzde pratik olarak bulunmamaktadır."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Standart bir meslek eğitimi programı bulunmadığından kademeli ilerleme (kalfalık-ustalık gibi) resmi olarak tanımlı değildir; kişi, işyerinde edindiği deneyimle daha karmaşık döküm ve klişe hazırlama işlerini üstlenebilir.",
+  "is_hayatinda": "Deneyim kazanan kişi atölye sorumlusu veya usta konumuna gelebilir; ayrıca günümüz baskı öncesi teknolojilerini (dijital/bilgisayarlı plaka hazırlama gibi) öğrenerek baskı öncesi teknisyenliği gibi daha güncel mesleklere geçiş yapabilir."
+ },
+ "benzer_meslekler": [
+  "Diğer Sterotip ve Elektrotip Klişeciler",
+  "Elektrotip Klişeci",
+  "Dizgici/Baskı Öncesi İşlemcisi",
+  "Diğer Mürettipler ve Dizgiciler",
+  "Gravürcü (Metal Kalıp) (Elle)",
+  "Klişeci-Metal Gravür"
+ ],
+ "ek_bilgiler": "Sterotip klişeciliğin temeli olan sıcak metal döküm yöntemi, günümüzde bilgisayarlı baskı öncesi (CTP ve benzeri dijital plaka hazırlama) teknolojilerinin yaygınlaşması nedeniyle büyük ölçüde terk edilmiştir. Bu durum, mesleğin güncel istihdam piyasasında çok sınırlı bir yere sahip olduğu, büyük ölçüde tarihi/geleneksel üretim niteliği taşıdığı ve meslek seçimi yapacak gençler için güncel baskı öncesi teknolojilerine yönelik mesleklerin daha gerçekçi bir alternatif olabileceği anlamına gelmektedir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T05:13:01",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6168
+  }
+ }
+}

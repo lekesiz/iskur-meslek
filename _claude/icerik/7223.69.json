@@ -1,0 +1,79 @@
+{
+ "arac_gerec": [
+  "Revolver (taret) torna tezgahı",
+  "Kesici takımlar (bıçaklar, matkap ve raybalar)",
+  "Bağlama aynası ve tespit aparatları",
+  "Kılavuzlar ve tahdit (durdurucu) parçaları",
+  "Ölçme aletleri (kumpas, mikrometre, mastar, komparatör)",
+  "Kesme/soğutma yağları ve yağlama sistemi",
+  "El çarkları ve tezgah kontrol panelleri",
+  "Teknik resim, proje ve şartnameler",
+  "Bileme taşı ve bileme tezgahı",
+  "Talaş ve yağ toplama düzenekleri",
+  "Kişisel koruyucu donanım (iş gözlüğü, eldiven, iş elbisesi, kulak koruyucu)"
+ ],
+ "genel_ozellikler": [
+  "Şekilleri doğru algılayabilen ve zihinde canlandırabilen,",
+  "El becerisine sahip,",
+  "El ve gözünü eşgüdümle kullanabilen,",
+  "Dikkatli ve titiz,",
+  "Makine ve aletlerle çalışmaktan hoşlanan,",
+  "Basit matematiksel hesaplamalar yapabilen,",
+  "Fiziksel olarak dayanıklı,",
+  "Sorumluluk sahibi"
+ ],
+ "calisma_ortami": "Revolver torna tezgâhı ayarcı operatörü, fabrika ve atölye ortamında, genellikle ayakta ve belirli bir tezgâhın başında çalışır. Çalışma ortamı gürültülü olup, metal talaşı, kesme yağı ve toz nedeniyle kısmen kirlidir; kesilme, sıçrama ve makineyle ilgili kazalara karşı dikkatli olunması gerekir, bu nedenle iş sağlığı ve güvenliği kurallarına uyulması önemlidir. Çalışma süresi genellikle işyerinin vardiya düzenine bağlıdır.\n\nMeslek erbabı işini büyük ölçüde bağımsız olarak yürütür; usta, mühendis, kalite kontrol elemanı ve diğer tezgâh operatörleriyle iş akışı ve parça teslimi konusunda kısa süreli iletişim kurar.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi, yeterli talep olması durumunda mesleki eğitim merkezlerinde Metal Teknolojisi alanının ilgili dalında (torna/tesviye) çıraklık eğitimi şeklinde verilebilir. Ayrıca Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kurslarında temel torna tezgâhı bilgi ve becerisi kazandırılabilir; mesleğe işyerinde usta yanında çalışarak da girilebilmektedir.",
+  "giris_kosullari": [
+   "En az ortaokul mezunu olmak",
+   "14 yaşını doldurmuş olmak",
+   "Sağlık durumunun mesleğin gerektirdiği işlere elverişli olması",
+   "Çıraklık eğitimi için eğitim görülecek işyerini bulup işveren ile çıraklık sözleşmesi imzalamak"
+  ],
+  "sure_ve_icerik": "Mesleki eğitim merkezinde eğitim süresi ortaokuldan sonra yaklaşık 4 yıldır; bunun bir bölümü kalfalık, bir bölümü ustalık eğitimidir. Eğitim haftada bir gün mesleki eğitim merkezinde teorik derslerle, kalan günlerde işyerinde usta öğretici gözetiminde uygulamalı olarak yürütülür. Eğitim içeriğinde torna tezgâhının tanınması ve kullanımı, kesici takımların seçimi ve bağlanması, iş parçasının bağlanması, ölçme ve kontrol teknikleri, teknik resim okuma, iş güvenliği ve meslek bilgisi dersleri yer alır. İşyerinde usta yanında yetişenlerde ise bilgi ve beceri, işbaşında kademeli olarak kazandırılır.",
+  "belge": "Mesleki eğitim merkezini başarıyla tamamlayanlara kalfalık, ardından ustalık belgesi verilir; fark derslerinin tamamlanması halinde meslek lisesi diploması alınabilir. İşbaşında yetişenler ise genellikle işyerinden deneyim belgesi veya kurs katılım/kurs bitirme belgesi alır. Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Revolver torna tezgâhı ayarcı operatörleri; makine imalatı, metal işleme, otomotiv yedek parça üretimi, tarım makineleri, savunma sanayi ve genel metal imalat sektöründeki fabrika ve atölyelerde istihdam edilmektedir. Günümüzde üretimde CNC tezgâhların yaygınlaşması, klasik revolver torna tezgâhlarına olan talebi ve bu mesleğe özgü iş imkânlarını azaltma eğilimindedir; buna karşılık bu alanda deneyim kazananlar, benzer beceri setiyle CNC torna tezgâhı operatörlüğüne yönelebilmektedir.",
+ "kazanc": {
+  "egitim_suresince": "Çıraklık eğitimi sürecinde 3308 sayılı Mesleki Eğitim Kanunu kapsamında öğrencilere asgari ücretin belirli bir oranından az olmamak üzere ücret ödenir ve iş kazası ile meslek hastalıkları sigorta primleri devletçe karşılanır. İşyerinde doğrudan usta yanında çalışılarak yetişilen durumlarda ise kazanç işletme ile yapılan anlaşmaya göre belirlenir.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Deneyim, uzmanlaşma (özellikle CNC tezgâhlara hâkimiyet) ve işletme büyüklüğüne göre kazanç artabilir.",
+   "Kamu kurumlarında işçi statüsünde çalışanların ücreti toplu iş sözleşmesi hükümlerine göre belirlenir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleki eğitim merkezinden diploma alarak mezun olanlar, ilgili alanın devamı niteliğindeki yükseköğretim (ön lisans) programlarına ek puan veya sınavsız geçiş hakkından yararlanabilir. Ayrıca CNC torna/freze tezgâhı kullanımı, bilgisayar destekli üretim ve kalite kontrol gibi alanlarda ilave kurslar alarak bilgi ve becerisini geliştirebilir.",
+  "is_hayatinda": "Deneyim kazandıkça usta, tezgâh ayarcısı, vardiya veya atölye sorumlusu gibi görevlere yükselebilir. CNC tezgâhlara geçiş yaparak CNC torna/freze operatörü olarak çalışabilir. Yeterli sermaye ve deneyime sahip olanlar kendi atölyesini açabilir."
+ },
+ "benzer_meslekler": [
+  "Çok Milli Özel Torna Tezgâhı Ayarcı-Operatörü (Metal İşçiliği)",
+  "Hadde Torna Tezgâhı Ayarcı-Operatörü (Metal İşçiliği)",
+  "CNC Torna Tezgahı Operatörü",
+  "Metal Bükücü (Tornada)",
+  "Freze Tezgahı Ayarcı-Operatörü (Metal İşçiliği)",
+  "Matkap Tezgahı Ayarcı-Operatörü (Metal İşçiliği)"
+ ],
+ "ek_bilgiler": "Klasik revolver torna tezgâhları, üretimde günümüzde büyük ölçüde CNC torna tezgâhlarıyla yer değiştirmektedir. Bu nedenle bu meslekte çalışanların, iş bulma ve kariyer olanaklarını güçlendirmek amacıyla CNC tezgâh kullanımına yönelik eğitim almaları tercih sebebi olabilir.",
+ "gorevler": [
+  "İmal edilecek parçanın proje ve diğer şartnamelerini inceler.",
+  "Takım seçer ve bunları tezgahın gereken yerlerine bağlar.",
+  "Metali bağlama aynası, tespit aparatı ve diğer bağlama aparatları ile doğru bir şekilde torna tezgahına bağlar.",
+  "Kılavuzlarını ve tahdit parçalarını gerekli limitlere göre ayarlar ve takımların hareketini kontrol eder.",
+  "Metale verilecek devrin limitini tayin eder ve tezgahı çalıştırır.",
+  "Talaş bıçaklarından her birini sıra ile metalin içine doğru veya metal boyunca ilerletmek için tezgahı el çarkları ile veya otomatik kontrol ayarlarını yaparak otomatik olarak çalıştırır.",
+  "Bıçakların yanlarına akıtılan yağ miktarını kontrol eder.",
+  "Ölçme aletleri yardımı ile talaş alma işleminin seyrini kontrol eder ve parçanın doğru bir şekilde işlenmesini sağlamak için gerekli ayarları yapar.",
+  "Tezgahı bir operatör tarafından çalıştırılmak üzere ayarlayabilir; tezgah takımlarına ağız açabilir ve bunları bileyebilir.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T01:54:13",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6129
+  }
+ }
+}

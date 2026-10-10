@@ -1,0 +1,79 @@
+{
+ "arac_gerec": [
+  "Sayaç okuma el terminali (el bilgisayarı/PDA) veya yazılı okuma listesi-defteri",
+  "Kalem",
+  "El feneri",
+  "Sayaç kapağı/vana açma anahtarı ve aparatları",
+  "Koruyucu eldiven",
+  "Görünürlüğü artırıcı iş yeleği/kıyafeti ve kimlik kartı",
+  "Fotoğraf makinesi veya akıllı telefon (kaçak/arıza tespiti ve kayıt için)",
+  "Omuz çantası/evrak çantası",
+  "Yağmurluk ve mevsime uygun dış giyim",
+  "Kaçak su tespit tutanak formları ve abone bildirim fişleri",
+  "Ulaşım aracı (yaya, bisiklet, motosiklet veya kurum aracı)"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve titiz,",
+  "Sorumluluk sahibi ve dürüst,",
+  "Fiziksel olarak dayanıklı ve uzun süre yürüyebilen,",
+  "Yönünü ve mekanı kolay bulabilen,",
+  "İnsan ilişkilerinde başarılı,",
+  "Sözlü ve yazılı anlatımı düzgün,",
+  "Değişik hava koşullarında çalışmaya istekli,",
+  "Zamanını iyi planlayabilen"
+ ],
+ "calisma_ortami": "\"Sayaç Okuma Elemanı (Su), görevini büyük ölçüde açık havada, belirlenen güzergah boyunca yaya olarak dolaşarak; sayaçların bulunduğu bina girişi, bahçe, bodrum, kapı önü gibi dar, bazen loş veya nemli mekanlarda yürütür. Hava koşullarına (sıcak, soğuk, yağmur), uzun süre ayakta/yürüyerek çalışmaya, bazı binalarda merdiven çıkmaya ve nadiren köpek gibi evcil hayvan risklerine maruz kalabilir. Çalışma genellikle gündüz saatlerinde, kurum tarafından belirlenen iş programı ve bölge planına göre yürütülür.\\n\\nBu meslek mensubu çalışması sırasında aboneler, apartman yöneticileri, kapıcılar ve kurumun abone işleri, müşteri hizmetleri, kaçak-usulsüz su kullanımı takip birimleri gibi farklı birimlerinde görevli çalışma arkadaşları ve yöneticileriyle iletişim halindedir.\"",
+ "gorevler": [
+  "Okuma alanı içindeki (listedeki) tüm binaların sayaçlarını okur, aboneler tarafından tüketilen su miktarlarını iş programına göre düzenli ve doğru bir şekilde tespit ederek sayaç okuma listesine kaydeder.",
+  "Listesinde görülmeyen ancak su tüketimi yapan abone veya aboneliği olmayan yapıları kontrol eder, kayıtlara girmesi için ilgililere bilgi verir.",
+  "Sayaç okuma işlemleri sırasında abonenin sayacının seri numarası ve yerinin-mahallinin kayıtlara uygunluğuna dikkat eder, kayıtlara uygun olmayan bilgilerin düzeltilmesini sağlar.",
+  "Su tüketilen aboneliğin kayıtlarda belirtilen \"tip\" bilgisine (konut-işyeri) uygun olup olmadığını kontrol eder, kayıtlara aykırı kullanım olması halinde düzeltilmesi için ilgililere bilgi verir.",
+  "Sayaç okuma sırasında ödeme bildiriminin ilgili hanelerine sayacın son endeksini, varsa farklı durum bilgilerini (kilitli, durmuş, boş, puslu, yıkık, tüketim yok, iptal vb.) ve günün tarihini yazarak abonenin eline geçecek şekilde (kendisine, yöneticiye, kapıcıya veya posta kutusuna) bırakır.",
+  "Sayacın endeksini ve durumunu (çalışmıyor, durmuş), varsa binadaki ve sayaç mahallindeki değişikliği okuma listesindeki ilgili yere kaydeder.",
+  "Okuma alanı içinde karşılaştığı kaçak (borçtan kapatma, sayacı ters bağlama, mührü koparma, sayaç yerine boru takma ve abone olmaksızın şebekeyi delme) su tüketimlerini tespit edip ilgililere bildirir.",
+  "Sayaç okuma endeksine göre yapılan abone itirazında tespit raporu düzenleyip ilgililere teslim eder.",
+  "Resmi abonelere ait sayaçların okunması sırasında sayacın numarasını, çalışıp çalışmadığını, endeksini ve kayıtlara uygunluğunu tespit ederek okuma listesine kaydeder, okuma endeksini içeren bildirimi imza karşılığı kurum yetkilisine teslim eder.",
+  "İş sağlığı ve güvenliği ile çevre koruma kurallarına uygun çalışır.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Bu meslek için Milli Eğitim Bakanlığına bağlı okullarda veya başka bir kurumda, belirli bir diploma veya sertifika ile sonuçlanan örgün bir mesleki eğitim programı bulunmamaktadır. Meslek, genellikle işe girildikten sonra ilgili belediye/su ve kanalizasyon idaresi bünyesinde işbaşında ve usta-deneyimli personel eşliğinde öğrenilir. İŞKUR ve Halk Eğitim Merkezlerinin açtığı mesleki eğitim kursları da bu mesleğe hazırlıkta destekleyici olabilir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "Kurumların açtığı işe alım sınavı/mülakatını kazanmak",
+   "Yoğun yürüyüş ve açık havada çalışmaya uygun sağlık durumuna sahip olmak",
+   "Okuma yazma ve temel düzeyde kayıt/cihaz kullanma becerisine sahip olmak"
+  ],
+  "sure_ve_icerik": "Örgün ve standart bir eğitim süresi bulunmamaktadır. İşe yeni başlayanlara, çalıştıkları kurum tarafından genellikle birkaç gün ile birkaç hafta süren; sayaç okuma teknikleri, el terminali/kayıt sistemi kullanımı, kaçak-usulsüz su kullanımının tespiti, abone ilişkileri ve iş sağlığı-güvenliği konularını kapsayan kısa süreli teorik ve uygulamalı bir eğitim verilir. Bu eğitimin ardından bir süre deneyimli personel refakatinde sahada uygulamalı çalışma yapılır.",
+  "belge": "Örgün eğitime dayalı bir diploma söz konusu değildir; çalışılan kurum tarafından katılım belgesi veya hizmet içi eğitim sertifikası düzenlenebilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "\"Sayaç Okuma Elemanı (Su), büyükşehir belediyelerine bağlı su ve kanalizasyon idareleri ile il/ilçe belediyelerinin su işleri birimlerinde çalışabilir. Ayrıca bu kurumlara hizmet veren özel/taşeron firmalarda da istihdam edilebilir.\"",
+ "kazanc": {
+  "egitim_suresince": "Bu meslek için 3308 sayılı Mesleki Eğitim Kanunu kapsamında örgün bir mesleki eğitim süreci bulunmadığından buna bağlı bir eğitim dönemi ücreti söz konusu değildir. İşe yeni başlayanlar, kurum bünyesindeki oryantasyon/deneme sürecinde genellikle asgari ücret düzeyinde ücretlendirilir.",
+  "egitim_sonrasi": [
+   "Kamuya bağlı su idarelerinde işçi statüsünde çalışanların ücreti, ilgili toplu iş sözleşmesi hükümlerine göre belirlenir.",
+   "Özel/taşeron firmalarda çalışanların ücreti, işletmenin büyüklüğüne, bölgeye, iş yoğunluğuna ve kişinin deneyimine göre değişir; işe yeni başlayanlar genellikle asgari ücret düzeyinde ücretlendirilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Bu mesleğe özgü kademeli bir örgün mesleki eğitim basamağı bulunmamaktadır. İsteyen çalışanlar açık öğretim yoluyla öğrenimlerini sürdürebilir veya girebilecekleri sınavlarla ilgili ön lisans/lisans programlarına (örneğin çevre sağlığı, su ve kanalizasyon teknolojileri gibi alanlar) yönelebilirler.",
+  "is_hayatinda": "Deneyim ve performansına göre meslek elemanı; saha ekip sorumlusu/şefliği, kaçak-usulsüz su kullanımı tespit ekibi sorumluluğu gibi görevlere veya kurum içi eğitimlerle abone işleri ve müşteri hizmetleri gibi idari kadrolara geçiş yapabilir."
+ },
+ "benzer_meslekler": [
+  "Sayaç Okuma Elemanı (Elektrik)",
+  "Sayaç Okuma Elemanı (Doğal Gaz)",
+  "Endeks Okuma Görevlisi",
+  "Kurye",
+  "Gazete Dağıtıcısı",
+  "Paket Teslim Elemanı (Yaya)"
+ ],
+ "ek_bilgiler": "\"Son yıllarda belediyelerde yaygınlaşan akıllı sayaç ve uzaktan (otomatik) okuma sistemleri, orta ve uzun vadede sahada yerinde sayaç okuma ihtiyacını azaltabilir. Bu nedenle meslek elemanlarının kurum içi farklı görevlere (abone işleri, müşteri hizmetleri, saha denetim vb.) uyum sağlayabilmesi istihdam açısından önem taşımaktadır.\"",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T21:07:18",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6898
+  }
+ }
+}

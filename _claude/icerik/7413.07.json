@@ -1,0 +1,84 @@
+{
+ "arac_gerec": [
+  "Voltmetre, ampermetre, megger (yalıtım direnci ölçüm cihazı) gibi ölçü aletleri",
+  "Portatif topraklama takımları",
+  "İzolasyonlu el aletleri (pense, tornavida, anahtar takımı, kargaburun, yan keski)",
+  "Faz kalemi ve gerilim kontrol (voltaj dedektörü) cihazları",
+  "İzole manevra sırıkları",
+  "Baret, izolasyonlu eldiven, izolasyonlu bot gibi kişisel koruyucu donanımlar",
+  "Emniyet kemeri (paraşüt tipi) ve direk tırmanma ekipmanları (kramponlar)",
+  "Sepetli yükseltici platform/vinçli bakım aracı",
+  "Sigorta, kesici, röle, trafo gibi AG/YG teçhizatı",
+  "Kablo, iletken ve bağlantı/konektör elemanları",
+  "Toprak direnci ölçüm cihazı",
+  "El telsizi ve haberleşme cihazları"
+ ],
+ "genel_ozellikler": [
+  "El ve göz koordinasyonu iyi, dikkatli ve titiz,",
+  "Yükseklikte çalışmaktan korkmayan,",
+  "Fiziksel olarak güçlü ve dayanıklı,",
+  "Ekip halinde uyumlu çalışabilen,",
+  "Sorumluluk sahibi, disiplinli ve kurallara bağlı,",
+  "Elektrik akımının tehlikelerine karşı temkinli ve tedbirli,",
+  "Her türlü hava koşulunda açık havada çalışmaya istekli,",
+  "Hızlı ve doğru karar verebilen"
+ ],
+ "calisma_ortami": "Elektrik Dağıtım Şebekesi İşletme Bakım Görevlisi, çoğunlukla açık havada; elektrik direkleri, enerji nakil hatları, trafo merkezleri ve dağıtım tesislerinde çalışır. Bazen kapalı trafo odalarında veya şalt sahalarında da görev yapar. İşin niteliği gereği yükseklikte (direk üzerinde, sepetli platformda) çalışmayı, her türlü hava koşulunda (sıcak, soğuk, yağmur) açık alanda görev yapmayı gerektirir. Elektrik çarpması, yüksekten düşme gibi riskler bulunduğundan iş sağlığı ve güvenliği kurallarına sıkı şekilde uyulması gerekir.\n\nÇalışma genellikle ekip halinde yürütülür; arıza durumlarında mesai saatleri dışında da göreve çağrılabilir, vardiyalı veya nöbetli çalışma söz konusu olabilir. Meslek elemanı; ekip şefi/formen, mühendis, diğer bakım onarım görevlileri ve bazı durumlarda hizmet alan vatandaşlarla (abonelerle) iletişim kurar.",
+ "gorevler": [
+  "İş sağlığı ve güvenliği konusundaki ilgili yönetmeliklere ve işletmenin kurallarına uyar.",
+  "Risk etmenlerini azaltır.",
+  "Risk etmenlerini azaltır.",
+  "Topraklama işlemlerini yapar.",
+  "Topraklamayı kaldırır.",
+  "Çevre koruma faaliyetlerini yürütür.",
+  "Çalışma teçhizatının çalışabilirlik durumlarını kontrol eder.",
+  "Çalışma teçhizatının bakımını sağlar.",
+  "Yapılacak işi tespit eder, çalışmada kullanılacak malzemeyi hazırlar.",
+  "Arızalı bölgeyi ayırır (izole eder).",
+  "Arızayı giderir.",
+  "Bakım ve yenileme çalışmalarını gerçekleştirir.",
+  "Test, ayarlama ve ölçümleri gerçekleştirir.",
+  "Yük aktarımını gerçekleştirir.",
+  "Yapılan çalışmaların sonuçlarını raporlar.",
+  "Mesleki gelişim faaliyetlerine katılır."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi, ilköğretim düzeyinde yeterli sayıda müracaat olması durumunda mesleki eğitim merkezlerinin elektrik-elektronik teknolojisi alanı ile ilgili dalında çıraklık eğitimi şeklinde verilebilir. Bunun yanında elektrik dağıtım şirketleri tarafından işbaşında verilen eğitimler, Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kursları da bu mesleğe yönelik bilgi ve beceri kazandırmaktadır.",
+  "giris_kosullari": [
+   "En az ilköğretim/ortaokul mezunu olmak",
+   "İşin fiziksel gereklerine (yükseklikte çalışma, ağır iş koşulları) uygun sağlık durumuna sahip olmak; bu durumun gerektiğinde sağlık raporuyla belgelenmesi",
+   "Çıraklık eğitimine başlamak için 14 yaşını doldurmuş olmak ve işveren ile çıraklık sözleşmesi imzalamak"
+  ],
+  "sure_ve_icerik": "Mesleğin eğitimi çıraklık eğitimi kapsamında alınıyorsa ilköğretimden sonra genellikle birkaç yıl sürer; haftanın belirli günlerinde mesleki eğitim merkezinde teorik eğitim, kalan günlerde ise işyerinde (elektrik dağıtım şirketi veya yüklenici firma bünyesinde) usta öğretici gözetiminde uygulamalı eğitim verilir. Sektöre doğrudan işe alınarak girenler ise işbaşında deneyimli personel ve usta yanında uygulamalı olarak yetiştirilir; EPDK mevzuatı, iş sağlığı ve güvenliği, topraklama uygulamaları, YG/AG teçhizatının montaj-demontajı gibi konularda kurum içi eğitimlerden geçerler.",
+  "belge": "Mesleki eğitim merkezini başarıyla tamamlayanlara kalfalık, ardından ustalık belgesi verilir. Mesleğin tehlikeli/çok tehlikeli işler kapsamında değerlendirilebilmesi nedeniyle, iş sağlığı ve güvenliği mevzuatı çerçevesinde alınması gereken eğitim sertifikaları ve Mesleki Yeterlilik Kurumu (MYK) Ulusal Yeterlilik Belgesi istihdamda önemli bir koşul veya tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Elektrik Dağıtım Şebekesi İşletme Bakım Görevlisi, elektrik dağıtım şirketlerinde, bu şirketlere taahhüt/taşeron olarak hizmet veren hat bakım ve onarım firmalarında, enerji nakil hattı ve trafo tesisleri kurulum-bakım işleri yapan özel sektör işletmelerinde çalışabilir. Elektrik enerjisi talebinin ve dağıtım şebekesinin sürekli genişlemesi, bu mesleğe olan ihtiyacı korumaktadır.",
+ "kazanc": {
+  "egitim_suresince": "Çıraklık eğitimi kapsamında eğitim gören adaylara, 3308 sayılı Mesleki Eğitim Kanunu gereğince asgari ücretin belirli bir oranından az olmamak üzere ücret ödenir; ayrıca eğitim gören kişilerin iş kazası ve meslek hastalığı sigortası primleri devletçe karşılanır.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında/kamuya bağlı işletmelerde çalışanlar, tabi oldukları statüye göre (memur ise 657 sayılı Kanun, işçi statüsünde ise toplu iş sözleşmesi hükümleri) ücret alır.",
+   "Özel sektörde çalışanların kazancı, işyerinin büyüklüğüne, kişinin deneyim ve yeterliliğine, çalışılan bölgeye göre değişir; yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlarken deneyim kazandıkça bu kazanç artar."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleki eğitim merkezinden mezun olanlar, ilgili alanın devamı niteliğindeki ön lisans/lisans programlarına (örneğin elektrik, elektrik-elektronik teknolojisi alanlarında) yönelebilir. Kurum içi ve kurum dışı kurslara, sertifika programlarına katılarak mesleki bilgi ve becerilerini geliştirebilirler.",
+  "is_hayatinda": "Deneyim ve bilgi birikimi arttıkça ekip şefi, formen, bakım onarım şefi veya saha sorumlusu gibi görevlere yükselebilir; YG teçhizatı montaj ve bakımı gibi daha uzmanlık isteyen işlere geçiş yapabilirler."
+ },
+ "benzer_meslekler": [
+  "Elektrik Tesis İşletme Bakım İşçisi",
+  "Elektrik Direği Dikim İşçisi",
+  "Kent İçi Raylı Sistemler Katener Bakım Elemanı",
+  "Hat Çekici (Elektrik Enerjisi)",
+  "Kablo Ekleyici-Elektrik",
+  "Elektrik Sayacı Sökme Takma Elemanı"
+ ],
+ "ek_bilgiler": "Elektrik dağıtım şebekesinde yürütülen çalışmalar, iş sağlığı ve güvenliği mevzuatı kapsamında tehlikeli/çok tehlikeli işler arasında değerlendirilebileceğinden, çalışanların periyodik sağlık muayenesinden geçmesi ve belirli sağlık/fiziksel uygunluk koşullarını taşıması gerekebilir. EPDK mevzuatı ve dağıtım şirketlerinin kalite/işletme standartları, mesleğin uygulanma biçimini doğrudan belirler.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T06:19:31",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 7727
+  }
+ }
+}

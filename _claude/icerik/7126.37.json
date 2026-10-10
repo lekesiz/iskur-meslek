@@ -1,0 +1,75 @@
+{
+ "arac_gerec": [
+  "Vidanjör aracı",
+  "Kombine kanal açma aracı (basınçlı su ile)",
+  "Kanal görüntüleme kamerası (CCTV sistemi)",
+  "Gaz dedektörü",
+  "Kanal açma teli ve spiral ekipmanı",
+  "Boru kesme ve ekleme malzemeleri (PVC, beton, çelik boru parçaları)",
+  "Kişisel koruyucu donanım (baret, eldiven, çizme, gaz maskesi, reflektörlü iş kıyafeti)",
+  "El aletleri (anahtar takımı, kazma, kürek, balyoz)",
+  "Telsiz veya cep telefonu ile haberleşme cihazı",
+  "Trafik işaretleme ve güvenlik ekipmanları (bariyer, koni, uyarı levhası)",
+  "Ölçüm aletleri (metre, su terazisi, seviye ölçer)",
+  "İş emri, kontrol ve raporlama formları",
+  "Taşıma aracı (kamyon/pikap)"
+ ],
+ "benzer_meslekler": [
+  "Su Arıza İşçisi",
+  "Su Arıza Ekip Sorumlusu",
+  "Atık Su ve Yağmur Suyu Hatları Temizlik Operatörü",
+  "Atıksu ve Yağmur Suyu Hatları Görüntüleme Operatörü",
+  "Atıksu ve Yağmur Suyu Şebekeleri İşletme Bakım Elemanı",
+  "Su ve Atıksu Şebekeleri İşletme Bakım Sorumlusu"
+ ],
+ "calisma_alanlari": "Kanal arıza ekip sorumluları, başta büyükşehir belediyelerine bağlı su ve kanalizasyon idareleri (su ve kanalizasyon genel müdürlükleri) olmak üzere, atık su ve yağmur suyu şebekelerinin işletme ve bakımından sorumlu kamu kurumlarında çalışır. Bunun yanında, altyapı taahhüt firmalarında, inşaat şirketlerinde ve atık su arıtma/şebeke bakım hizmeti veren özel sektör işletmelerinde de istihdam edilirler. Şehirleşmenin ve altyapı yatırımlarının artması, mevcut şebekelerin yaşlanması nedeniyle bakım-onarım ihtiyacının sürekli olması, bu alanda eleman ihtiyacını korumaktadır.",
+ "calisma_ortami": "Kanal arıza ekip sorumluları büyük ölçüde açık havada, sokak ve cadde altındaki şebeke hatlarının bulunduğu alanlarda; bazen de bacalar, kanallar ve kapalı/dar mekanlar gibi zemin altı ortamlarda çalışır. Çalışma sırasında kötü koku, nem, gaz birikmesi, düşme ve yaralanma gibi riskler bulunduğundan iş güvenliği kurallarına ve kişisel koruyucu donanım kullanımına özellikle uyulması gerekir. Hava koşullarına (yağmur, sıcak, soğuk) bağlı olarak çalışma zorlaşabilir.\n\nArızalar genellikle plansız ve acil nitelikte olduğundan çalışma saatleri düzensiz olabilir; vardiyalı çalışma ve çağrı üzerine mesai dışı müdahale söz konusu olabilir. Meslek elemanı, kendisine bağlı saha ekibini yönetir; ayrıca kurum amirleri, mühendis/teknik personel, diğer altyapı birimleri (elektrik, doğal gaz gibi) ve bazen doğrudan vatandaşlarla iletişim kurar.",
+ "egitim": {
+  "verildigi_yerler": "Kanal arıza ekip sorumluluğu için resmî olarak tanımlanmış müstakil bir örgün eğitim programı (meslek lisesi alanı/dalı) bulunmamaktadır. Meslek genellikle su ve atık su şebekelerinde tesisatçı, boru döşemecisi veya saha işçisi olarak çalışılarak kazanılan tecrübe sonucunda, ekip sorumluluğuna yükselme yoluyla edinilir. Su ve kanalizasyon idareleri, belediyeler ve İŞKUR tarafından açılan mesleki eğitim kursları ile ilgili mesleki ve teknik eğitim programları (örneğin tesisat teknolojisi alanına bağlı programlar) bu alanda temel bilgi ve beceri kazandırabilir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "Fiziksel olarak sağlıklı ve dayanıklı olmak; kapalı/dar alanlarda ve açık havada çalışmaya engel bir sağlık sorununun bulunmaması",
+   "Su, atık su veya kanalizasyon şebekesi bakım-onarım işlerinde çalışmış olmak veya ilgili bir meslekte (tesisatçılık, boru döşemeciliği vb.) tecrübe sahibi olmak genellikle tercih sebebidir"
+  ],
+  "sure_ve_icerik": "Resmî olarak belirlenmiş sabit bir eğitim süresi bulunmamaktadır. Meslek, genellikle saha tecrübesiyle kazanılan bir meslektir; saha işçisi/tesisatçı olarak çalışılan dönem boyunca kanal açma ekipmanlarının kullanımı, arıza tespiti, boru tamiri ve ekip yönetimi konularında usta yanında veya iş başında yetişme söz konusudur. Katılınabilecek kurs ve eğitim programlarının içeriği kurs düzenleyen kuruma göre değişmekle birlikte genellikle iş güvenliği, kanal açma ve görüntüleme ekipmanlarının kullanımı, boru tamiri teknikleri gibi konuları kapsar.",
+  "belge": "Katılınan kurslardan başarı belgesi/sertifika alınabilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, özellikle tehlikeli iş kolu kapsamında değerlendirilen bu alanda istihdamda tercih sebebi olabilir."
+ },
+ "ek_bilgiler": "Kanal arızaları çoğunlukla acil nitelikte olduğundan, bu meslekte çalışanların mesai saatleri dışında çağrı üzerine göreve gelmesi gerekebilir. Vidanjör ve kombine kanal açma araçlarının kullanımı için işverence ilgili ehliyet veya operatör belgesi istenebilir. Kapalı/dar alanlarda gaz birikmesi riski nedeniyle iş sağlığı ve güvenliği eğitimleri önem taşır.",
+ "genel_ozellikler": [
+  "Sorumluluk sahibi,",
+  "Ekip yönetiminde başarılı ve liderlik özelliğine sahip,",
+  "Hızlı ve doğru karar verebilen,",
+  "Fiziksel olarak dayanıklı,",
+  "Dikkatli ve tedbirli,",
+  "İletişim becerisi iyi,",
+  "Teknik bilgi ve el becerisine sahip,",
+  "Stresli ve acil durumlarda sakin kalabilen"
+ ],
+ "gorevler": [
+  "Arıza noktalarını kanal görüntüleme cihazları veya saha gözlemiyle saptar,",
+  "Ekip personelinin iş dağılımını yapar ve iş güvenliği önlemlerini aldırır,",
+  "Vidanjör ve kombine kanal açma araçlarının operasyonunu yönetir,",
+  "Hasarlı boruların değişimi veya tamiri süreçlerini denetler,",
+  "Müdahale sonrası hattın akış kontrolünü yaparak çalışmayı raporlar,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Meslekte resmî, basamaklı bir örgün eğitimde ilerleme sistemi bulunmamaktadır. Çalışanlar, su ve atık su yönetimi, tesisat teknolojisi, iş sağlığı ve güvenliği gibi konularda açılan kurs ve sertifika programlarına katılarak bilgi ve becerilerini geliştirebilir.",
+  "is_hayatinda": "Meslek elemanları genellikle saha işçisi veya tesisatçı olarak işe başlar, deneyim ve bilgi birikimi kazandıktan sonra ekip sorumluluğuna yükselir. İlerleyen dönemde saha şefliği, bakım-onarım amirliği veya işletme müdürlüğü gibi daha üst düzey sorumluluk pozisyonlarına ilerleme imkânı bulunmaktadır."
+ },
+ "kazanc": {
+  "egitim_suresince": "Meslekte resmî bir çıraklık/eğitim dönemi bulunmadığından, bu aşamada saha personeli veya tesisatçı olarak çalışılırken genellikle asgari ücret düzeyinde kazanç elde edilir.",
+  "egitim_sonrasi": [
+   "Kamuya bağlı su ve kanalizasyon idarelerinde çalışanlar, statülerine göre 657 sayılı Devlet Memurları Kanunu veya işçi statüsünde iseler ilgili toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde çalışanların kazancı işyerinin büyüklüğü, kişinin tecrübesi, üstlendiği sorumluluk düzeyi ve sektörün ücret koşullarına göre değişebilir; ekip sorumluluğu üstlenen kişiler genellikle saha personeline göre daha yüksek ücret alır."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T23:36:07",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6086
+  }
+ }
+}

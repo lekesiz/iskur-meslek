@@ -1,0 +1,77 @@
+{
+ "gorevler": [
+  "Dokumaya giren tiplerin istenilen şartlara uygunluğunu kontrol eder.",
+  "Gerektiğinde desen ve yazı kartonlarını değiştirir.",
+  "Hata tespitlerini yapar.",
+  "Dokuma dairesinde tezgah üzerinde kontroller yapar ve hataları ilgililere bildirir.",
+  "Hambez dairesinden gelen numuneleri kontrol eder, ilk kontrolde kaçan hataları (desen örgü hatası, iplik numara farkı, renk farkı) bulur ve ikazda bulunur.",
+  "Çalışma alanının temizlik ve düzenini sağlar.",
+  "Meslek alanı ile ilgili gelişmeleri takip eder ve uygular.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "arac_gerec": [
+  "Desen ve yazı kartonları",
+  "Kontrol/muayene masası (ışıklı muayene masası)",
+  "Büyüteç (lup)",
+  "Cetvel, metre",
+  "İplik numara ölçüm aletleri",
+  "Renk kartelası ve numune kartları",
+  "Dokuma tezgahı üzerindeki gücü, tarak ve mekik gibi parçalar",
+  "Makas",
+  "Hata işaretleme etiketleri/iğneleri",
+  "Hata kayıt defteri veya formları",
+  "El feneri",
+  "Hambez numune parçaları"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve gözlem yeteneği yüksek,",
+  "Renkleri ve desen farklılıklarını ayırt edebilen,",
+  "El ve göz koordinasyonu iyi,",
+  "Sabırlı ve titiz çalışabilen,",
+  "Sorumluluk sahibi,",
+  "Uzun süre ayakta ve odaklanarak çalışabilen,",
+  "Ekip içinde uyumlu çalışabilen,",
+  "Kalite standartlarına duyarlı"
+ ],
+ "calisma_ortami": "Desen Kontrol İşçisi, çalışmalarını fabrika veya atölye ortamında, genellikle dokuma dairesinde tezgahların bulunduğu bölümde yürütür. Çalışma ortamı gürültülü ve zaman zaman tozlu olabilir; dokuma tezgahları arasında ayakta ve hareketli şekilde çalışılır, uzun süre dikkatini bir noktaya yöneltmesi gerekir.\n\nİşletmenin üretim düzenine göre vardiyalı çalışma söz konusu olabilir. Çalışırken tezgah operatörleri, usta, kalite kontrol şefi ve diğer meslektaşlarıyla sürekli iletişim halindedir; tespit ettiği hataları ilgili birimlere zamanında bildirmesi gerekir.",
+ "egitim": {
+  "verildigi_yerler": "Bu meslek için örgün bir yükseköğretim veya ortaöğretim programı bulunmamaktadır. Meslek genellikle işletmelerde işbaşında usta yanında yetişilerek öğrenilir. Ayrıca Halk Eğitim Merkezleri ile İŞKUR'un açtığı mesleki eğitim kursları ve mesleki ve teknik eğitim kurumlarının tekstil teknolojisi alanındaki programları bu mesleğe temel oluşturabilir.",
+  "giris_kosullari": [
+   "İlköğretim mezunu olmak",
+   "Renk ve desen farklılıklarını ayırt edebilecek görme yeteneğine sahip olmak",
+   "Uzun süre ayakta çalışmaya ve dikkatini sürdürmeye uygun fiziksel ve bedensel yeterliliğe sahip olmak"
+  ],
+  "sure_ve_icerik": "Kursların süresi ve içeriği düzenleyen kuruma göre değişmekle birlikte genellikle dokuma teknikleri, desen-örgü bilgisi, kumaş hata türlerinin tanınması, kalite kontrol standartları ve iş sağlığı-güvenliği konularını kapsar. İşbaşında yetişme sürecinde ise bilgi ve beceriler, usta yanında kademeli olarak ve uygulamalı şekilde kazanılır.",
+  "belge": "Kursu başarıyla tamamlayanlara katılım veya başarı belgesi/sertifika verilir. İşbaşında yetişenler işletme tarafından düzenlenen deneyim/çalışma belgesi ile mesleği sürdürebilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Desen Kontrol İşçisi (Tekstil), tekstil ve dokuma sektöründeki işletmelerde, özellikle jakarlı veya desenli kumaş üreten dokuma fabrikalarında kalite kontrol bölümlerinde istihdam edilir. Dokuma atölyeleri, kumaş üretim tesisleri ve bu alandaki küçük-orta ölçekli işletmeler başlıca çalışma alanlarıdır.\n\nTekstil sektörünün yoğunlaştığı organize sanayi bölgeleri ve dokuma üretiminin geliştiği illerde bu meslekte iş bulma olanağı daha fazladır. Sektördeki üretim hacmine ve sipariş yoğunluğuna bağlı olarak istihdam talebi değişkenlik gösterebilir.",
+ "kazanc": {
+  "egitim_suresince": "Halk Eğitim Merkezleri veya İŞKUR tarafından açılan kurslarda eğitim süresince genellikle ücret alınmaz. İşletmede usta yanında yetişenler, çıraklık/stajyerlik döneminde cep harçlığı düzeyinde bir ödeme alabilir.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde gelir elde eder.",
+   "Deneyim, işletmenin büyüklüğü ve çalışanın performansına bağlı olarak kazanç artabilir.",
+   "Özel sektörde ücret, işveren ile çalışan arasındaki karşılıklı anlaşmaya ve işletme politikalarına göre belirlenir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Bu meslekte örgün ve basamaklı bir eğitim ilerlemesi bulunmamaktadır. Kişi, Halk Eğitim Merkezleri veya İŞKUR'un açtığı ileri düzey tekstil kalite kontrol kurslarına katılarak bilgi ve becerisini geliştirebilir.",
+  "is_hayatinda": "Deneyim ve performansına bağlı olarak kalite kontrol şefliği, vardiya amirliği veya üretim sorumluluğu gibi pozisyonlara yükselebilir. Bu meslekte bağımsız olarak kendi işini kurma imkânı genellikle bulunmamaktadır; kariyer gelişimi çoğunlukla işletme bünyesinde gerçekleşir."
+ },
+ "benzer_meslekler": [
+  "Kalite Kontrolcü-Tekstil",
+  "Kalite Kontrolörü-Kumaş",
+  "Örgü Kontrolörü",
+  "Denye Kontrolcü",
+  "Tefrik Kontrolcü (İplik)",
+  "Tül Perde Kontrol İşçisi"
+ ],
+ "ek_bilgiler": "Tekstil sektöründe otomasyon ve dijital kalite kontrol sistemlerinin yaygınlaşması, mesleğin uygulanış biçimini zaman içinde değiştirebilir; bu nedenle temel dokuma ve desen bilgisinin yanı sıra güncel kontrol teknolojilerine aşinalık istihdamda avantaj sağlayabilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T09:56:19",
+  "usage": {
+   "input_tokens": 4,
+   "output_tokens": 9695
+  }
+ }
+}

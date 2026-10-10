@@ -1,0 +1,105 @@
+{
+ "arac_gerec": [
+  "Montaj ve sökme el aletleri (anahtar takımları, tornavida, pense, kargaburun vb.)",
+  "Boru kesme ve birleştirme ekipmanları (boru kesici, kaynak makinesi, pense)",
+  "Kaynak ekipmanı ve kaynak maskesi",
+  "Sızdırmazlık test cihazları (basınç test pompası, kaçak dedektörü)",
+  "Basınç ve sıcaklık ölçüm cihazları (manometre, termometre)",
+  "Elektrik ölçüm cihazları (avometre/multimetre)",
+  "Vana, pompa ve bağlantı elemanları",
+  "Bilgisayar ve otomasyon/izleme (SCADA) yazılımı",
+  "Sensörler ve kalibrasyon cihazları",
+  "Taşıma ve kaldırma ekipmanları (transpalet, vinç, el arabası)",
+  "Elektrik bağlantı kabloları ve bağlantı malzemeleri",
+  "Kişisel koruyucu donanım (baret, iş elbisesi, eldiven, gözlük, kulaklık, gaz maskesi, çelik burunlu ayakkabı)"
+ ],
+ "genel_ozellikler": [
+  "Fen bilimlerine (kimya, biyoloji, fizik) ilgili,",
+  "Makine, elektrik ve tesisat konularında bilgili ve bu alanlara ilgili,",
+  "El ve beden becerisi gelişmiş,",
+  "Dikkatli, tedbirli ve sorumluluk sahibi,",
+  "Takım çalışmasına uyumlu,",
+  "Fiziksel olarak sağlıklı ve dayanıklı,",
+  "Problem çözme ve analitik düşünme becerisine sahip,",
+  "Kapalı ve açık alanlarda, kötü koku ve gaz riskine karşı çalışmaya istekli,"
+ ],
+ "calisma_ortami": "Biyogaz Sistemleri Sorumlusu, genellikle biyogaz üretim tesislerinde hem açık alanda (reaktör, gaz deposu, boru hatları çevresinde) hem de kapalı mekânlarda (kontrol odası, bakım atölyesi) çalışır. Çalışma ortamında kötü koku, nem, gürültü, yanıcı ve patlayıcı gaz bulunması, hareketli mekanik parçalar ve elektrik tesisatı nedeniyle iş kazası riski bulunabilir; bu nedenle iş sağlığı ve güvenliği kurallarına titizlikle uyulması gerekir. Tesisin kesintisiz işletilmesi gerektiğinden vardiyalı çalışma söz konusu olabilir.\n\nGörevi sırasında mühendisler, teknisyenler, tesis çalışanları, hammadde tedarikçileri (çiftlik/tarımsal işletme sahipleri) ve denetim kurumlarıyla iletişim kurar; ekip içinde ve üstleriyle koordineli çalışır.",
+ "egitim": {
+  "verildigi_yerler": "Mesleki ve teknik ortaöğretim kurumlarının yenilenebilir enerji teknolojileri, makine veya elektrik-elektronik teknolojisi gibi ilgili alanlarından mezun olanlar, işbaşında usta yanında eğitim ve ilgili kurumların açtığı kurslarla bu mesleğe yönelebilir. Doğrudan \"Biyogaz Sistemleri Sorumlusu\" adıyla ayrı bir meslek lisesi dalı bulunmamaktadır. Ayrıca Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kurslarında da ilgili eğitimler verilebilmektedir.",
+  "giris_kosullari": [
+   "Ortaokulu tamamlamış olmak (mesleki ve teknik ortaöğretim için)",
+   "İlgili alan/dalın Millî Eğitim Bakanlığınca belirlenen giriş koşullarını taşımak",
+   "Kurs programları için genellikle en az ortaöğretim mezunu olmak"
+  ],
+  "sure_ve_icerik": "Mesleki ve teknik ortaöğretimde eğitim süresi 4 yıldır; ilk yıl ortak genel kültür ve temel mesleki dersler, sonraki yıllarda alan ve dala ait teorik ve uygulamalı dersler verilir, uygulamalar işletme ve atölye ortamında yapılır. Bu yolun yanında, ilgili teknik alandan mezun olanlar işletmelerde usta yanında uygulamalı eğitim ve kısa süreli mesleki kurslarla da bu mesleğe yönelebilir.",
+  "belge": "Mesleki ve teknik ortaöğretim mezunlarına meslek lisesi diploması; kurs yoluyla eğitim alanlara ise ilgili kurumdan kurs bitirme belgesi/sertifika verilir."
+ },
+ "gorevler": [
+  "İş sağlığı ve güvenliği, yangın ve acil durum kurallarını uygular.",
+  "Kalite yönetim sistemi ile ilgili faaliyetleri yürütür.",
+  "İş organizasyonu yapar.",
+  "Biyogaz sistem bileşenlerinin mekanik ve elektrik montajını yapar.",
+  "Sistem ana bileşenlerinin yerleştirilmesinde görev alır.",
+  "Boru ölçümü yapar.",
+  "Borularda kesme ve birleştirme yapar.",
+  "Boru montajını yapar.",
+  "Taşıma ve aktarım sistemlerinin montajını yapar.",
+  "Reaktör ısıtma tesisatının montajını yapar.",
+  "Gaz yakma sisteminin montajını yapar.",
+  "Elektriksel bağlantı işlemlerini gerçekleştirir.",
+  "Boru ve tankların sızdırmazlık testlerini yapar.",
+  "Sistemi devreye alır.",
+  "Tesisin periyodik kontrolünü yapar.",
+  "Reaktör ve gaz deposunun basınç kontrollerini yapar.",
+  "Vana ve pompa kontrollerini yapar.",
+  "Isıtma ve gaz yakma sisteminin kontrolünü yapar.",
+  "Tesisin bakım ve onarımını yapar.",
+  "Boru tesisatının bakımını yapar.",
+  "Taşıma ve aktarım sistemlerinin bakımını yapar.",
+  "Reaktör ısıtma sisteminin bakımını yapar.",
+  "Gaz yakma sisteminin bakımını yapar.",
+  "Elektriksel bağlantıların bakımını yapar.",
+  "Tesisin işletme faaliyetlerini yerine getirir.",
+  "Hammadde hazırlar.",
+  "Besleme ve boşaltma tanklarının kontrolünü yapar.",
+  "Tesisin hammadde ve son ürünlerini denetler.",
+  "Besleme materyallerini denetler.",
+  "Biyogaz üretimini denetler.",
+  "Fermente gübre işlemlerini denetler.",
+  "Otomasyon sistemi ölçüm ve kontrol elemanlarının dahili kalibrasyonunu ve denetimini yapar.",
+  "Kontrol vanalarını denetler.",
+  "Sensörlerin kontrolünü ve dahili kalibrasyonunu yapar.",
+  "Tesisi bilgisayar üzerinden izler.",
+  "Mesleki gelişim faaliyetlerini yürütür."
+ ],
+ "calisma_alanlari": "Biyogaz Sistemleri Sorumluları, tarımsal ve hayvansal atıklardan, organik atıklardan veya evsel katı atıklardan enerji üreten biyogaz tesislerinde istihdam edilir. Çalışma alanları arasında biyogaz enerji santralleri, tarım ve hayvancılık işletmelerine bağlı biyogaz tesisleri, belediyelere ait katı atık ve enerji tesisleri, atık yönetimi ve geri dönüşüm şirketleri, biyogaz sistemlerinin kurulum, işletme ve bakımını yapan özel firmalar ile yenilenebilir enerji şirketleri yer alır. Yenilenebilir enerjiye verilen desteklerin artmasıyla bu alanda istihdam olanaklarının gelişmesi beklenmektedir; ancak tesis sayısının bölgesel olarak sınırlı olması nedeniyle iş bulma olanakları tesislerin yoğun olduğu yörelerde daha fazladır.",
+ "kazanc": {
+  "egitim_suresince": "Mesleki ve teknik ortaöğretim kapsamında işletmelerde mesleki eğitim gören öğrencilere, 3308 sayılı Mesleki Eğitim Kanunu gereğince asgari ücretin net tutarının belirli bir oranından az olmamak üzere ücret ödenir; sigorta primleri devletçe karşılanır. Kurs yoluyla eğitim alanlarda ise genellikle ücret ödenmez.",
+  "egitim_sonrasi": [
+   "İşe yeni başlayanların kazancı genellikle asgari ücret düzeyindedir.",
+   "Deneyim, bilgi-beceri düzeyi ve çalışılan işletmenin büyüklüğüne bağlı olarak ücret artabilir; vardiya ve tehlike/risk primleri eklenebilir.",
+   "Kamu kurumlarına bağlı tesislerde çalışanlar için 657 sayılı Devlet Memurları Kanunu veya ilgili toplu iş sözleşmesi hükümleri uygulanabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleki ve teknik ortaöğretimin ilgili alanlarından (yenilenebilir enerji teknolojileri, makine, elektrik-elektronik vb.) mezun olanlar, YKS Kılavuzunda belirtilen enerji sistemleri mühendisliği, çevre mühendisliği, makine mühendisliği, elektrik-elektronik mühendisliği gibi ön lisans/lisans programlarını tercih ettiklerinde sınavla veya alanlarına göre ek puanla yerleşebilirler.",
+  "is_hayatinda": "Mesleki deneyim ve bilgi birikimi arttıkça ekip/vardiya sorumlusu, tesis işletme sorumlusu veya tesis müdürlüğü gibi görevlere yükselebilir; yeterli sermaye ve deneyime sahip olanlar kendi kurulum/bakım işletmesini açabilir."
+ },
+ "benzer_meslekler": [
+  "Biyogaz Sistemleri Personeli",
+  "Biyogaz Sistemleri Ustası",
+  "Güneş Enerji Sistemleri Teknisyeni",
+  "Fotovoltaik Güç Sistemi Sorumlusu",
+  "Rüzgâr Güç Sistemi Sorumlusu",
+  "Yenilenebilir Enerji Teknolojileri Teknisyeni"
+ ],
+ "ek_bilgiler": "Biyogaz tesislerinde yanıcı ve patlayıcı özellikteki gazlarla çalışıldığından iş sağlığı ve güvenliği kurallarına titizlikle uyulması önemlidir; bu nedenle mesleğin bazı çalışma koşulları tehlikeli/çok tehlikeli işler kapsamında değerlendirilebilir ve Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir. Yenilenebilir enerjiye yönelik yatırımların artmasıyla bu meslekte istihdam olanaklarının önümüzdeki yıllarda gelişmesi beklenmektedir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T10:44:22",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 7025
+  }
+ }
+}

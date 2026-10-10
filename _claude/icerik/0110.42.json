@@ -1,0 +1,73 @@
+{
+ "arac_gerec": [
+  "Haberleşme ve komuta kontrol sistemleri",
+  "Telsiz ve kriptolu iletişim cihazları",
+  "Bilgisayar ve karargah bilgi sistemleri yazılımları",
+  "Harita, kroki ve coğrafi bilgi sistemleri (GPS/konum takip)",
+  "Zırhlı ve zırhsız askeri araçlar",
+  "Güvenlik kamera ve izleme/gözetleme sistemleri",
+  "Resmi yazışma, rapor ve brifing doküman sistemleri",
+  "Kişisel koruma ve silah sistemleri (denetim/teftiş amaçlı)",
+  "Operasyon planlama ve tatbikat materyalleri",
+  "Resmi mühür, evrak ve arşiv dosyaları"
+ ],
+ "genel_ozellikler": [
+  "Liderlik özelliklerine sahip,",
+  "Sorumluluk sahibi ve kararlı,",
+  "Disiplinli ve kurallara bağlı,",
+  "Stresli ve riskli ortamlarda sağlıklı karar verebilen,",
+  "Fiziksel ve psikolojik olarak sağlıklı,",
+  "Analitik düşünme ve planlama becerisine sahip,",
+  "İyi iletişim kurabilen ve ikna gücü yüksek,",
+  "Vatanına ve milli değerlere bağlı"
+ ],
+ "calisma_ortami": "Albay (Jandarma), görevini çoğunlukla alay komutanlığı veya karargah birimlerindeki büro ortamında; ayrıca denetim, tatbikat ve operasyon faaliyetleri sırasında açık arazi ve saha koşullarında yürütür. Görev yeri ülke genelinde değişebilir; farklı il ve ilçelerde, kimi zaman olağanüstü güvenlik koşullarının yaşandığı bölgelerde görevlendirilebilir.\n\nÇalışma saatleri, askeri hizmetin gereği olarak düzenli mesai saatleriyle sınırlı değildir; nöbet, acil durum ve operasyon gereksinimlerine göre gece-gündüz, hafta sonu dahil çalışma söz konusudur. Üst komutanlık, emrindeki subay/astsubay/er personel, mülki idare amirleri ve diğer kamu kurumu yetkilileriyle sıkı ve hiyerarşik bir ilişki içinde çalışır; görevin niteliği nedeniyle yüksek sorumluluk ve zaman zaman riskli koşullar içerir.",
+ "egitim": {
+  "verildigi_yerler": "Jandarma subaylığına giriş, Jandarma ve Sahil Güvenlik Akademisi (JSGA) bünyesinde verilen lisans düzeyindeki askeri eğitim ile sağlanır. Albaylık; ayrı bir eğitim programıyla kazanılan bir unvan olmayıp, teğmen olarak göreve başlayan subayın yıllar içinde kıdem, performans ve terfi süreçleriyle ulaştığı bir rütbedir. Kariyer boyunca kurmaylık ve ihtisas eğitimleri Milli Savunma Üniversitesi bünyesindeki ilgili akademilerde verilebilir.",
+  "giris_kosullari": [
+   "Jandarma ve Sahil Güvenlik Akademisine girebilmek için lise mezunu olmak ve belirlenen yaş sınırları içinde bulunmak",
+   "Askeri okullara özgü fiziki yeterlilik testi, sağlık muayenesi, psikoteknik değerlendirme ve mülakat sürecinden başarıyla geçmek",
+   "Güvenlik soruşturması ve arşiv araştırmasının olumlu sonuçlanması",
+   "T.C. vatandaşı olmak, adli sicil kaydı bulunmamak ve askerliğe engel bir durumu olmamak"
+  ],
+  "sure_ve_icerik": "Jandarma ve Sahil Güvenlik Akademisinde verilen lisans eğitimi, askeri bilimler, hukuk, güvenlik, liderlik ve idare alanlarına yönelik teorik derslerle, fiziki ve uygulamalı askeri eğitimleri birlikte içerir. Eğitimi tamamlayan kişi teğmen rütbesiyle göreve başlar; sonraki yıllarda hizmet süresi, performans değerlendirmeleri, çeşitli kurs ve ihtisas eğitimleri ile üsteğmen, yüzbaşı, binbaşı ve yarbay rütbelerinden geçilerek albaylığa terfi edilir.",
+  "belge": "Jandarma ve Sahil Güvenlik Akademisi lisans diploması ve ilgili rütbeye ait resmi atama/terfi belgesi"
+ },
+ "calisma_alanlari": "Albay (Jandarma), münhasıran kamu kurumu olan Jandarma Genel Komutanlığı bünyesinde istihdam edilir. Alay komutanlıkları, il ve ilçe jandarma komutanlıkları, karargah birimleri, eğitim ve öğretim kurumları ile bağlı diğer merkezi ve taşra teşkilatlarında görev yapabilir. Sivil sektörde bu mesleğin bir karşılığı bulunmamaktadır.",
+ "kazanc": {
+  "egitim_suresince": "Jandarma ve Sahil Güvenlik Akademisi öğrencileri askeri öğrenci statüsünde barınma, iaşe (yemek) ve harçlık gibi olanaklardan yararlanır; eğitim süresince ayrıca ücret alınmaz.",
+  "egitim_sonrasi": [
+   "Albay rütbesindeki subaylar, 657 sayılı Devlet Memurları Kanunu kapsamı dışında, kendine özgü askeri personel mevzuatına (926 sayılı Türk Silahlı Kuvvetleri Personel Kanunu ve ilgili düzenlemeler) göre maaş, tazminat ve ek ödemeler alır.",
+   "Kazanç düzeyi; rütbe, kıdem, görev yeri, görev riski ve çeşitli ek tazminatlara (bölge, nöbet, görev tazminatı vb.) bağlı olarak değişir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Teğmen rütbesiyle göreve başlayan subay; hizmet süresi, başarı değerlendirmeleri ve çeşitli meslek içi kurslar sonucunda sırasıyla üsteğmen, yüzbaşı, binbaşı ve yarbay rütbelerine terfi eder, ardından albaylığa yükselir. Kurmaylık eğitimi ve ihtisas kursları bu süreçte kariyer gelişimini destekler.",
+  "is_hayatinda": "Albaylıktan sonra performans, kıdem ve kadro durumuna göre general rütbesine (tuğgeneral ve üzeri) terfi etme imkanı bulunur. Ayrıca alay komutanlığı, kurmay başkanlığı veya karargahta üst düzey yönetim görevlerine atanabilir."
+ },
+ "benzer_meslekler": [
+  "Albay (Kara Kuvvetleri)",
+  "Albay (Hava Kuvvetleri)",
+  "Albay(Deniz Kuvvetleri)",
+  "Albay (Sahil Güvenlik)",
+  "Yarbay (Jandarma)",
+  "Tuğgeneral (Jandarma)"
+ ],
+ "ek_bilgiler": "Bu meslek münhasıran kamu kurumu olan Jandarma Genel Komutanlığında istihdam edilir; sivil sektörde doğrudan bir karşılığı yoktur. Albaylık, ayrı bir mesleki eğitim programıyla doğrudan kazanılan bir unvan değil; teğmenlikten başlayarak yıllar içinde kıdem ve terfi yoluyla ulaşılan bir subay rütbesidir.",
+ "gorevler": [
+  "Alayın asayiş ve güvenlik operasyonlarını sevk ve idare eder.",
+  "Birliklerin eğitim ve harekat kapasitesini denetler.",
+  "Personel ve kaynak yönetimini gerçekleştirir.",
+  "İl ve ilçe makamlarıyla güvenlik eşgüdümünü sağlar.",
+  "Üst komutanlık direktiflerini uygular.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-07T17:26:57",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5589
+  }
+ }
+}

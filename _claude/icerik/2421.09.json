@@ -1,0 +1,79 @@
+{
+ "arac_gerec": [
+  "Bilgisayar ve ofis yazılımları (kelime işlemci, sunum programı)",
+  "Veri analizi ve tablolama yazılımları (elektronik tablo programları)",
+  "İstatistiksel analiz ve veri görselleştirme programları",
+  "Veri tabanı yönetim sistemleri",
+  "İş zekası (BI) ve raporlama araçları, gösterge panelleri (dashboard)",
+  "Proje ve süreç yönetimi yazılımları",
+  "Kurumsal bilgi sistemleri (ERP, CRM vb.) ve internet erişimi",
+  "E-posta ve video konferans uygulamaları",
+  "Yazıcı, tarayıcı ve diğer büro donanımları",
+  "İlgili mevzuat, yönetmelik, sektör raporu ve yayınlar"
+ ],
+ "genel_ozellikler": [
+  "Sayısal ve analitik düşünme yeteneğine sahip,",
+  "Dikkatli, titiz ve sabırlı,",
+  "Araştırmacı, sorgulayıcı ve meraklı,",
+  "Problem çözme ve çözüm odaklı düşünme becerisi gelişmiş,",
+  "Sözlü ve yazılı ifade yeteneği güçlü,",
+  "Bilgisayar ve veri analizi araçlarını etkin kullanabilen,",
+  "Ekip çalışmasına uyumlu,",
+  "Zaman yönetimi ve planlama becerisine sahip"
+ ],
+ "calisma_ortami": "Analist, genellikle kapalı ortamda, büro koşullarında bilgisayar başında çalışır. Çalışma düzeni çoğunlukla masa başı olup, ekran karşısında uzun süre durmaya bağlı göz ve bel yorgunluğu gibi ergonomik riskler görülebilir. Mesai saatleri genel olarak düzenlidir; ancak rapor teslim tarihleri, dönem sonu değerlendirmeleri veya proje yoğunluğu dönemlerinde çalışma süresi uzayabilir.\n\nÇalışma sırasında kurum içindeki farklı birim yöneticileri ve çalışanlarıyla, bazı durumlarda müşteri, tedarikçi veya dış danışmanlarla iş birliği içinde bulunur. Topladığı bilgi ve verileri analiz edip sunduğu için yöneticilere sık sık rapor sunumu ve toplantılara katılım gerekebilir.",
+ "calisma_alanlari": "Analistler, kamu ve özel sektörde faaliyet gösteren her ölçekteki kurum ve kuruluşun planlama, strateji geliştirme, finans, insan kaynakları, pazarlama, operasyon, süreç iyileştirme, ar-ge ve kalite yönetimi gibi birimlerinde görev alabilirler. Bankacılık ve finans kuruluşları, danışmanlık şirketleri, holding ve şirketlerin merkez ofisleri, kamu kurumlarının planlama ve strateji birimleri, sivil toplum kuruluşları ve araştırma şirketleri başlıca istihdam alanlarıdır. Kamu kurumlarında analist unvanıyla çalışmak isteyenlerin genellikle Kamu Personeli Seçme Sınavı (KPSS) sonucuna göre atanmaları söz konusudur. Sektörde veriye dayalı karar almanın öneminin artması, bu mesleğe olan talebi giderek yükseltmektedir.",
+ "egitim": {
+  "verildigi_yerler": "Analist unvanıyla çalışmak için tek bir lisans programı bulunmamaktadır. Meslek, genellikle üniversitelerin işletme, iktisat, istatistik, endüstri mühendisliği, ekonometri, yönetim bilişim sistemleri, kamu yönetimi veya maliye gibi ilgili lisans bölümlerinden mezun olunarak edinilir.",
+  "giris_kosullari": [
+   "Lise veya dengi okul mezunu olmak",
+   "YKS (Yüksek Öğretim Kurumları Sınavı) kılavuzunda ilgili lisans programı için belirtilen giriş koşullarını taşımak ve yeterli puanı almak",
+   "Meslek yüksekokulu önlisans programlarından mezun olanlar, Dikey Geçiş Sınavı (DGS) ile ilgili lisans programlarına geçiş yapabilirler"
+  ],
+  "sure_ve_icerik": "Seçilen lisans programına göre eğitim süresi genellikle dört yıldır. Eğitim süresince istatistik, veri analizi yöntemleri, araştırma teknikleri, işletme ve yönetim bilgisi, ekonomi, muhasebe ve finans, bilgi sistemleri, iş süreçleri yönetimi gibi mesleki dersler ağırlıklı olarak verilir. Lisans eğitiminin yanı sıra, çalışma hayatına geçişte veri analizi, istatistik yazılımları ve iş zekası araçlarına yönelik sertifika programları ile Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kursları da tercih edilebilmektedir.",
+  "belge": "Lisans eğitimi sonunda öğrencilere ilgili bölümün lisans diploması verilir. Ayrıca katılınan sertifika veya kurs programlarına ilişkin katılım/başarı belgeleri alınabilir."
+ },
+ "gorevler": [
+  "Çalışma alanına ilişkin veri ve bilgileri toplar.",
+  "Toplanan veri ve bilgileri inceler, sınıflandırır ve analiz eder.",
+  "Veriler arasındaki ilişkileri, eğilimleri ve dikkat çeken değişimleri belirler.",
+  "Analiz sonuçlarına ilişkin rapor, tablo, grafik ve değerlendirmeler hazırlar.",
+  "Analiz sonuçlarını yönetim ile ilgili kişi ve birimlere sunar ve gerektiğinde açıklar.",
+  "Sorunların nedenlerini araştırır ve çözüm önerileri geliştirir.",
+  "İş süreçlerini ve süreçlerin verimliliğini değerlendirerek iyileştirme önerileri geliştirir.",
+  "Belirlenen hedef ve performans göstergelerini takip eder ve gerçekleşme durumlarını değerlendirir.",
+  "Faaliyet alanına ilişkin riskleri, fırsatları ve gelişim alanlarını belirler.",
+  "Faaliyet alanıyla ilgili araştırmalar yapar ve sektörel gelişmeleri takip eder.",
+  "Farklı kaynak ve birimlerden elde edilen veri ve bilgileri karşılaştırır ve doğruluğunu kontrol eder.",
+  "Kullanılan analiz yöntemlerini, veri kaynaklarını ve raporlama süreçlerini gözden geçirir ve geliştirir.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "kazanc": {
+  "egitim_suresince": "Yükseköğrenim süresince öğrenciler, Kredi ve Yurtlar Genel Müdürlüğünün sağladığı kredi ve yurt hizmetlerinden yararlanabilir; çeşitli resmi ve özel kurum/kuruluşların sunduğu burslardan faydalanabilirler.",
+  "egitim_sonrasi": [
+   "Özel sektörde çalışanların ücreti, işe başladıkları işletmenin büyüklüğüne, sektörüne, çalışanın deneyim ve yetkinliklerine göre karşılıklı anlaşma yoluyla belirlenir; yeni mezunlar için ücret genellikle asgari ücret düzeyinde başlayıp deneyimle birlikte artış gösterir.",
+   "Kamu kurumlarında istihdam edilenler 657 sayılı Devlet Memurları Kanunu hükümlerine göre, işçi statüsünde çalışanlar ise ilgili toplu iş sözleşmesi hükümlerine göre ücret alırlar."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Lisans eğitimi sonrasında ilgili alanlarda yüksek lisans veya doktora yaparak akademik ya da uzmanlık düzeyinde ilerleme sağlanabilir. Veri analizi, istatistik, iş zekası ve süreç yönetimi konularında alınan sertifika programları mesleki gelişime katkı sunar.",
+  "is_hayatinda": "Meslek elemanları, çalıştıkları kurumun personel politikalarına bağlı olarak uzman yardımcısı, uzman, kıdemli uzman/analist, ekip lideri, şef, müdür ve üst düzey yönetici gibi unvanlara doğru ilerleyebilirler. Kamuda çalışanlar ise şef, müdür, daire başkanı gibi kademelerde yükselebilirler."
+ },
+ "benzer_meslekler": [
+  "İş Analisti",
+  "Organizasyon ve Yöntem Analisti",
+  "Yönetim Analisti",
+  "Organizasyonel Gelişim Uzmanı",
+  "İş Geliştirme Uzmanı",
+  "Sürdürülebilirlik Uzmanı"
+ ],
+ "ek_bilgiler": "\"Analist\" unvanı, çalışılan sektör ve birime göre (örneğin finans analisti, veri analisti, iş analisti, süreç analisti gibi) farklı uzmanlık alanlarına ayrılabilmektedir; bu nedenle mesleğe özgü tek bir eğitim programı veya mesleki yeterlilik belgesi bulunmamaktadır. Veri analizi, istatistik ve iş zekası yazılımlarına ilişkin bilgi ve sertifikalar istihdamda tercih sebebi olabilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T05:19:15",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5762
+  }
+ }
+}

@@ -1,0 +1,82 @@
+{
+ "arac_gerec": [
+  "Boru kesme ve pafta çekme takımları",
+  "Kaynak makinesi (elektrik ark/gaz kaynağı) ve kaynak ekipmanları",
+  "Gaz kaçak dedektörü",
+  "Basınç test pompası ve manometre",
+  "Baca gazı analiz cihazı",
+  "Anahtar takımları (İngiliz anahtarı, boru anahtarı vb.)",
+  "El aletleri (pense, tornavida, keski, çekiç)",
+  "Elektrikli el aletleri (matkap, taşlama)",
+  "Kombi, şofben, kazan montaj takımları",
+  "Merdiven ve iskele",
+  "Alçı, sıva ve tamir malzemeleri",
+  "İş güvenliği ekipmanları (eldiven, iş elbisesi, koruyucu gözlük, baret)",
+  "Proje ve teknik çizimler",
+  "Şerit metre, su terazisi, gönye"
+ ],
+ "genel_ozellikler": [
+  "El ve bedensel beceriye sahip,",
+  "Dikkatli, tedbirli ve sorumluluk duygusu gelişmiş,",
+  "Teknik çizim ve projeleri okuyup uygulayabilen,",
+  "Dar, kapalı veya yüksek alanlarda çalışabilen,",
+  "Fiziksel olarak sağlıklı ve dayanıklı,",
+  "Planlı ve düzenli çalışabilen,",
+  "İş birliğine açık, mühendis ve tekniker denetiminde çalışabilen,",
+  "Müşteri ve çalışma arkadaşlarıyla iyi iletişim kurabilen"
+ ],
+ "calisma_ortami": "Isıtma ve Doğal Gaz İç Tesisatçısı, genellikle bina içlerinde (bodrum kat, mutfak, kazan dairesi, çatı gibi farklı bölümlerde) ve bazen açık alanlarda çalışır. Çalışma sırasında kaynak işlemleri nedeniyle duman ve kıvılcımla, boru döşeme sırasında toz ve kirle karşılaşabilir; gaz kaçağı, yanma, elektrik çarpması ve yüksekte çalışma gibi riskler bulunduğundan iş güvenliği kurallarına titizlikle uyulması gerekir.\n\nÇalışma genellikle gündüz saatlerinde ve mesai saatleri içinde yürütülür; ancak arıza giderme ve acil servis çağrılarında mesai dışı çalışma da söz konusu olabilir. Meslek elemanı; projeyi hazırlayan mühendis veya teknikerin denetiminde, usta-çırak ilişkisi içinde ekip halinde, ayrıca bina sakinleri ve müşterilerle doğrudan iletişim kurarak çalışır.",
+ "gorevler": [
+  "Mühendis tarafından hazırlanan projeyi inceler.",
+  "Proje esaslarına göre yapacağı tesisat çalışması ile ilgili planlama yapar.",
+  "Tesisat için kullanacağı alet ve malzemeleri hazırlar.",
+  "Doğalgaz boru tesisatlarını çeker, uygun kaynakla boruların ek bağlantı yerlerini birleştirir.",
+  "Kombi, şofben, kalorifer kazanı, fırın, ocak, kalorifer peteği vb. cihazların bağlantılarını ve montajını yaparak tesisata bağlar.",
+  "Tesisatı test eder, varsa kaçaklarını giderir.",
+  "Önceden döşenmiş gaz borularının test işlemlerini yapar ve devreye alınmasında ön hazırlık çalışmalarını yapar.",
+  "Baca çekiş testlerini yapar ve havalandırma kanallarının yerlerini açar.",
+  "Montaj ve döşeme işlemleri tamamlandıktan sonra kırılan, çatlayan, dökülen yerleri alçılayarak tamir eder.",
+  "Doğalgazla çalışan cihazların arızalarını tespit eder, bakım ve onarımını yapar.",
+  "Gaz tesisatlarında oluşacak arızaları tespit eder, arızaları giderir, tesisatın bakım ve onarımını yapar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi, mesleki ve teknik ortaöğretim kurumlarının ilgili alan/dalında (örneğin Tesisat Teknolojisi ve İklimlendirme veya benzeri yapı/tesisat alanlarında) verilmektedir. Bunun yanında Halk Eğitim Merkezleri ile İŞKUR'un açtığı mesleki eğitim kurslarında ve usta yanında işbaşında eğitim yoluyla da meslek edinilebilmektedir.",
+  "giris_kosullari": [
+   "Ortaöğretim kurumunda eğitim için ortaokul mezunu olmak ve Millî Eğitim Bakanlığınca belirlenen alan/dal giriş koşullarını taşımak",
+   "Kurslara katılım için genellikle okuryazar olmak ve kursun aradığı yaş ve sağlık şartlarını taşımak"
+  ],
+  "sure_ve_icerik": "Mesleki ve teknik liselerde eğitim 4 yıl sürer; 9. sınıfta ortak alan dersleri, 10, 11 ve 12. sınıflarda ise tesisat/ısıtma konularına ilişkin mesleki dersler ve atölye/işletme uygulamaları verilir. Örgün eğitim dışında, Halk Eğitim Merkezleri ve İŞKUR kurslarında daha kısa süreli teorik ve uygulamalı eğitimler ile usta yanında işbaşı eğitimi yoluyla da mesleğin temel bilgi ve becerileri kazandırılabilir.",
+  "belge": "Mesleki ve teknik liseden mezun olanlara meslek lisesi diploması verilir; 3308 sayılı Mesleki Eğitim Kanunu kapsamında kalfalık/ustalık belgesi alınabilir. Kurs yoluyla eğitim alanlara ise kursu veren kurumca sertifika düzenlenir. Doğal gaz iç tesisatı işlerinde çalışabilmek için, ilgili gaz dağıtım şirketi tarafından yetkilendirilmiş firma bünyesinde ve gerekli sertifika/yetki şartlarını taşıyarak çalışma uygulamada aranmaktadır; Mesleki Yeterlilik Kurumu (MYK) belgesi de istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Isıtma ve Doğal Gaz İç Tesisatçıları; doğal gaz dağıtım şirketleri ve bu şirketlerin yetkilendirdiği tesisat firmalarında, ısıtma-sıhhi tesisat uygulama ve montaj firmalarında, inşaat şirketlerinde, kombi/kazan bakım ve servis firmalarında istihdam edilebilirler. Deneyim kazandıktan sonra kendi işyerini açarak bağımsız olarak da çalışabilirler.",
+ "kazanc": {
+  "egitim_suresince": "Mesleki ve teknik liselerde işletmelerde mesleki eğitim gören öğrencilere 3308 sayılı Mesleki Eğitim Kanunu gereğince ücret ödenir ve iş kazası-meslek hastalığı sigortaları devletçe karşılanır. Kurs yoluyla eğitim alanlar ise kursu düzenleyen kurumun (örneğin İŞKUR) uygulamalarına göre kursiyer harçlığından yararlanabilir.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanların kazancı genellikle asgari ücret düzeyindedir.",
+   "Kazanç; çalışılan işyerinin büyüklüğü, kişinin deneyimi, sertifikaları ve sektördeki ücret düzeyine göre değişebilir.",
+   "Kamu kurumlarında istihdam edilenler için 657 sayılı Devlet Memurları Kanunu veya ilgili toplu iş sözleşmesi hükümleri, özel sektörde ise işveren ile çalışan arasındaki anlaşma esastır."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleki ve teknik lise mezunları, alanlarının devamı niteliğindeki yükseköğretim ön lisans programlarına (örneğin tesisat, makine veya doğal gaz ile iklimlendirme teknolojisi alanlarında) sınavla veya ek puan avantajıyla yerleşebilirler. Ayrıca kurslar, seminerler ve sertifika programlarıyla mesleki bilgi ve becerilerini geliştirebilirler.",
+  "is_hayatinda": "Deneyim kazanan meslek elemanları; usta, ekip şefi veya proje sorumlusu konumuna yükselebilir, teknik servis ve satış sonrası hizmetler bölümlerinde görev alabilir ya da kendi işyerini açarak bağımsız çalışabilir."
+ },
+ "benzer_meslekler": [
+  "Doğal Gaz Tesisat Teknisyeni",
+  "Tesisat Teknolojisi ve İklimlendirme Teknisyeni",
+  "Doğal Gaz ve Tesisat Teknikeri",
+  "Gaz ve Tesisat Teknikeri (Sıhhi Tesisat ve Doğal Gaz Teknikeri)",
+  "Sıhhi Tesisat ve Isıtma Sistemleri Ayar ve Test Uzmanı",
+  "Soğutma ve İklimlendirme Sistemleri Teknisyeni"
+ ],
+ "ek_bilgiler": "Doğal gaz iç tesisatı yapımı, gaz kaçağı ve yangın riski taşıması nedeniyle dikkat ve özen gerektiren bir iş koludur; uygulamada bu işlerin, ilgili gaz dağıtım şirketinin yetkilendirdiği sertifikalı firmalar bünyesinde yürütülmesi beklenmektedir. Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T09:23:34",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6153
+  }
+ }
+}

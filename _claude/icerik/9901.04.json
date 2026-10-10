@@ -1,0 +1,69 @@
+{
+ "arac_gerec": [
+  "Kurs içeriğine uygun ders kitabı, defter, kalem gibi temel kırtasiye malzemeleri",
+  "Eğitim programının konusuna göre değişen uygulama araç ve gereçleri (atölye kursu ise el aletleri, bilgisayar kursu ise bilgisayar, el sanatları kursu ise ilgili malzemeler vb.)",
+  "Projeksiyon, bilgisayar, yazı tahtası gibi sınıf içi eğitim donanımları",
+  "Kurs kapsamında kullanılan görsel ve işitsel eğitim materyalleri (slayt, video, broşür vb.)",
+  "Uygulamalı derslerde kullanılan kişisel koruyucu donanım (kursun niteliğine göre)",
+  "Sınav ve değerlendirme amaçlı kullanılan form, kağıt ve ölçme-değerlendirme materyalleri",
+  "Kurs yoklama ve devam takip çizelgeleri"
+ ],
+ "genel_ozellikler": [
+  "Öğrenmeye istekli ve meraklı,",
+  "Dikkatli ve sabırlı,",
+  "Disiplinli ve kurallara uyan,",
+  "Eğitmenlerin ve diğer kursiyerlerin yönergelerini dikkatle dinleyebilen,",
+  "İletişime açık ve ekip içinde uyumlu çalışabilen,",
+  "Sorumluluk sahibi ve düzenli,",
+  "Öğrendiklerini uygulamaya istekli"
+ ],
+ "calisma_ortami": "Diğer Kursiyer olarak adlandırılan kişiler, katıldıkları kursun niteliğine göre değişen ortamlarda bulunur. Teorik dersler genellikle sınıf ortamında, kapalı ve ısıtılan mekânlarda yürütülürken; uygulamalı kurslarda atölye, laboratuvar, spor salonu veya açık alan gibi farklı ortamlarda eğitim alınabilir. Çalışma koşulları kursun konusuna bağlı olarak değişkenlik gösterir; bazı kurslarda fiziksel efor, el becerisi veya belirli ekipmanların kullanımı gerekebilir.\n\nKursiyer, eğitim süresince eğitmen ve diğer kursiyerlerle sürekli iletişim halindedir. Kurs saatleri genellikle gündüz saatlerinde, belirli gün ve saatlerde planlanır; haftada belirli gün sayısı ile sınırlı olabilir. Kursun türüne göre kısa süreli yoğun programlar veya haftalar/aylar süren düzenli programlar şeklinde yürütülebilir.",
+ "egitim": {
+  "verildigi_yerler": "Diğer Kursiyer, belirli bir meslek veya hobi dalında açılan kurslara katılan kişidir; bu nedenle kendisine özgü örgün bir meslek eğitimi programı bulunmamaktadır. Söz konusu kurslar; Türkiye İş Kurumu (İŞKUR) tarafından düzenlenen işgücü yetiştirme/mesleki eğitim kursları, Halk Eğitim Merkezleri, belediyelerin açtığı kurslar, özel kurs merkezleri, meslek odaları, sivil toplum kuruluşları ve bazı kamu kurumlarınca düzenlenen kısa süreli eğitim programları kapsamında verilebilmektedir.",
+  "giris_kosullari": [
+   "Kursun konusuna göre belirlenen asgari eğitim düzeyini (genellikle okuryazar olmak veya ilköğretim mezunu olmak) sağlamak",
+   "Kurs düzenleyen kurumun belirlediği yaş, sağlık durumu ve diğer özel koşulları (varsa) karşılamak",
+   "Bazı kurslarda İŞKUR'a kayıtlı iş arayan olmak veya belirli bir hedef gruba (örneğin genç, kadın, engelli, işsiz vb.) dâhil olmak",
+   "Kurs başvuru ve kayıt sürecini tamamlamak"
+  ],
+  "sure_ve_icerik": "Eğitimin süresi ve içeriği, katılınan kursun konusuna, düzenleyen kuruma ve hedeflenen beceri düzeyine göre büyük farklılıklar gösterir. Kurslar genellikle birkaç günden birkaç aya kadar değişen sürelerde planlanır ve teorik bilgi ile pratik/uygulamalı eğitimi bir arada içerir. Eğitim programı, eğitmenler tarafından belirlenen müfredat çerçevesinde yürütülür; kursiyerler derslere düzenli katılır, verilen uygulama ve ödevleri yerine getirir, dönem sonunda değerlendirme veya sınav sürecine katılır.",
+  "belge": "Kursu başarıyla tamamlayanlara, kursu düzenleyen kurumca kurs bitirme belgesi, katılım sertifikası veya başarı belgesi verilir. Kursun niteliğine göre bu belge, ilgili meslekte Mesleki Yeterlilik Kurumu (MYK) belgelendirme sürecinde ya da işe girişte destekleyici bir belge olarak değerlendirilebilir; ancak her kurs sonunda resmî bir diploma veya yeterlilik belgesi verilmesi zorunlu değildir."
+ },
+ "gorevler": [
+  "Eğitim programına düzenli katılım sağlar.",
+  "Eğitmenlerin gösterdiği uygulama ve ödevleri yerine getirir.",
+  "Kurs araç ve gereçlerini emniyetli şekilde kullanır.",
+  "Eğitim sonu değerlendirme ve sınav süreçlerine katılır.",
+  "Mesleki veya kültürel gelişimini takip ederek öğrenme sürecini tamamlar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "calisma_alanlari": "Diğer Kursiyer, bir istihdam alanı ya da iş kolu ifade etmemektedir; kişinin belirli bir meslek veya hobi dalında eğitim aldığı bir statüyü tanımlar. Bu kapsamda kursiyerler; İŞKUR'un işgücü yetiştirme kursları, Halk Eğitim Merkezleri, belediyelerin açtığı meslek edindirme ve hobi kursları, özel kurs merkezleri, meslek odaları ve çeşitli kurum/kuruluşlarca düzenlenen kısa süreli eğitim programlarında yer alabilirler. Kursu tamamladıktan sonra kişi, eğitim aldığı alanda iş aramaya veya çalışmaya başlayabilir; bu durumda ilgili mesleğin kendi çalışma alanları ve iş bulma olanakları geçerli olur.",
+ "kazanc": {
+  "egitim_suresince": "Kursiyerler genellikle eğitim süresince ücret almaz. Ancak İŞKUR tarafından düzenlenen bazı işgücü yetiştirme kurslarına katılan kursiyerlere, ilgili mevzuat kapsamında kursiyer zaruri gider ödemesi ve iş kazası-meslek hastalığı sigortası yapılabilmektedir. Özel kurs merkezlerinde ise kursiyer genellikle kurs ücretini kendisi öder.",
+  "egitim_sonrasi": [
+   "Diğer Kursiyer bir meslek unvanı olmadığından, eğitim sonrası doğrudan bir kazanç durumu bulunmamaktadır.",
+   "Kişi kursu tamamladıktan sonra edindiği bilgi ve becerilerle ilgili meslekte çalışmaya başlarsa, kazancı o mesleğin kamu veya özel sektördeki ücret koşullarına göre belirlenir.",
+   "Kamuda istihdam edilenler ilgili mevzuata (657 sayılı Kanun veya toplu iş sözleşmesi hükümlerine) göre, özel sektörde çalışanlar ise işyeri büyüklüğü, deneyim ve sektörün ücret düzeyine göre değişen kazanç elde eder."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Kursu başarıyla tamamlayan kişi, aynı alanda açılan daha ileri düzey kurslara katılabilir, farklı kurumlardan ek sertifikalar alarak bilgi ve becerisini artırabilir. İsteyen kişiler, kurs konusuyla ilgili örgün mesleki ve teknik eğitim programlarına (meslek lisesi, mesleki eğitim merkezi, ön lisans/lisans programları) yönelebilir.",
+  "is_hayatinda": "Kursu tamamlayan kişi, edindiği beceriler doğrultusunda ilgili meslekte işe başlayabilir. Bu durumda meslekte ilerleme, kişinin deneyimi, ek eğitimleri ve çalıştığı işyerinin olanaklarına bağlı olarak o mesleğin kendi ilerleme koşullarına göre gerçekleşir."
+ },
+ "benzer_meslekler": [
+  "Stajyer (Öğrenci)",
+  "İşletmede Beceri Eğitimi Öğrencisi",
+  "Sosyal Çalışma Programı Katılımcısı",
+  "Öğrenci (Lisans)",
+  "Öğrenci (Önlisans)"
+ ],
+ "ek_bilgiler": "Diğer Kursiyer, Türk Meslekler Sözlüğü'nde bağımsız bir meslek unvanı olarak değil, belirli bir meslek veya hobi dalında açılan kurslara katılan kişiyi tanımlamak amacıyla istatistiki/idari bir sınıflandırma olarak yer almaktadır. Bu nedenle mesleğe özgü standart bir eğitim programı, çalışma alanı veya ücret düzeyi tanımlanamamaktadır; bu dosyada verilen bilgiler genel çerçeve niteliğindedir ve asıl koşullar katılınan kursun konusuna ve düzenleyen kuruma göre değişiklik gösterir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T21:18:21",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5915
+  }
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "arac_gerec": [
+  "Çapa, bel, kürek, tırmık",
+  "Tohum ekme ve dikim aletleri",
+  "Gübre serpme aracı/aparatı",
+  "Sırt pompası veya ilaçlama pülverizatörü",
+  "Sağım kovası veya basit sağım makinesi",
+  "Yem ve su kovaları, yemlik-suluk",
+  "Ahır temizleme araçları (fırça, kürek, el arabası)",
+  "Sulama hortumu ve basit sulama ekipmanı",
+  "Hasat sepetleri, çuval",
+  "Bıçak, orak gibi hasat aletleri",
+  "Koruyucu eldiven, çizme ve iş kıyafeti"
+ ],
+ "benzer_meslekler": [
+  "Amele-Karma Çiftlik (Bitkisel Üretim ve Hayvan Yetiştiriciliği)",
+  "Çapacı-Karma Çiftlik (Bitkisel Üretim ve Hayvan Yetiştiriciliği)",
+  "Çiftlik İşçisi (Karma Bitki ve Çiftlik Hayvanı)",
+  "Ahırcı (Hayvan Bakan ve Ahırları Temizleyen)",
+  "Tarla Ürünü Çiftlik İşçisi",
+  "Yardımcı Çiftlik İşçisi (Genel)"
+ ],
+ "calisma_alanlari": "Tarım işçisi-karma çiftlik, hem bitkisel üretim hem de hayvan yetiştiriciliği yapılan özel çiftlik ve tarım işletmelerinde, aile işletmelerinde ve tarımsal üretim kooperatiflerine bağlı arazilerde çalışır. Yaylacılık yapılan bölgelerde bahar-yaz aylarında yaylaya çıkan işletmelerde de görev alabilir.\n\nBu meslekte istihdam büyük ölçüde mevsimlik ve geçici niteliktedir; ekim, dikim, bakım ve hasat dönemlerinde iş yoğunluğu ve dolayısıyla iş bulma olanağı artar. İş bulma olanakları bölgeden bölgeye, tarımsal üretim deseni ve işletmelerin büyüklüğüne göre değişir; kırsal ve tarımın yoğun olduğu bölgelerde çalışma imkânı daha fazladır.",
+ "calisma_ortami": "Tarım işçisi-karma çiftlik, büyük ölçüde açık havada; tarlada, bahçede, ahırda ve zaman zaman yaylada çalışır. Çalışma ortamı mevsim koşullarına (sıcak, soğuk, yağış, nem) açıktır ve iş genellikle fiziksel güç gerektirir; eğilme, kaldırma, taşıma, uzun süre ayakta kalma sık karşılaşılan durumlardır. Hayvan bakımı sırasında hayvan kokusu, gübre ve altlıkla; bitkisel üretimde ise toz, toprak ve zaman zaman tarım ilacı kalıntılarıyla teması söz konusu olabileceğinden kişisel koruyucu ekipman kullanımı önemlidir.\n\nÇalışma saatleri genellikle gün ağarmadan başlayabilir ve mevsime, hayvan bakım rutinine (sağım saatleri gibi) ve hasat yoğunluğuna göre değişkenlik gösterir; hafta sonu ve bayram tatillerinde çalışma olağandır. Meslek genellikle çiftlik sahibi/işveren ve diğer tarım işçileriyle birlikte, ekip hâlinde yürütülür; iletişim çoğunlukla sözlü talimatlar yoluyla gerçekleşir.",
+ "egitim": {
+  "verildigi_yerler": "Bu meslek için örgün bir mesleki eğitim programı (lise/çıraklık) bulunmamaktadır. Bilgi ve beceri genellikle işbaşında, deneyimli bir çiftçi veya usta yanında uygulamalı olarak kazanılır. Ayrıca Halk Eğitim Merkezleri, İŞKUR'un açtığı işgücü yetiştirme kursları ve tarım il/ilçe müdürlüklerinin düzenlediği kısa süreli mesleki eğitim kursları (bitkisel üretim teknikleri, hayvan yetiştiriciliği, sağım teknikleri vb.) bu alanda temel bilgi ve beceri kazandırmaktadır.",
+  "giris_kosullari": [
+   "Mesleğe girişte aranan minimum eğitim düzeyi okuryazar olmaktır; özel bir öğrenim şartı bulunmamaktadır.",
+   "İşin gerektirdiği fiziksel güce, dayanıklılığa ve sağlık durumuna sahip olmak gerekir.",
+   "Açık havada, değişken hava koşullarında ve hayvanlarla iç içe çalışmaya istekli olmak gerekir."
+  ],
+  "sure_ve_icerik": "Mesleğe özgü resmi olarak tanımlanmış standart bir eğitim süresi ve müfredat bulunmamaktadır. Bilgi ve beceri, zaman içinde işbaşında, deneyimli çiftçi veya usta gözetiminde uygulamalı olarak kazanılır. İŞKUR ve Halk Eğitim Merkezlerinin açtığı kurslar genellikle birkaç haftadan birkaç aya kadar sürebilmekte olup toprak hazırlığı, ekim-dikim, gübreleme, ilaçlama, hasat teknikleri ile hayvan bakımı, besleme ve sağım konularını kapsayabilmektedir.",
+  "belge": "Örgün eğitim yoluyla alınan bir diploma bulunmamaktadır. Katılınan kurslardan katılım veya başarı belgesi alınabilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "ek_bilgiler": "Bu meslekte çalışma koşulları mevsime ve işletmenin yoğunluğuna bağlı olarak değişkenlik gösterir; istihdam genellikle mevsimlik ve geçici niteliktedir. Tarım sektöründe kayıt dışı çalışma görülebildiğinden, sigortalı ve güvenli çalışma koşullarının işe başlamadan önce araştırılması önerilir.",
+ "genel_ozellikler": [
+  "Fiziksel olarak güçlü ve dayanıklı,",
+  "Açık havada ve değişken hava koşullarında çalışmaya istekli,",
+  "Hayvan sevgisi olan ve hayvanlarla uyumlu çalışabilen,",
+  "El becerisine sahip,",
+  "Sabırlı ve dikkatli,",
+  "Takım hâlinde çalışabilen,",
+  "Emir ve talimatlara uyabilen,",
+  "Mevsimsel ve değişken çalışma düzenine uyum sağlayabilen"
+ ],
+ "gorevler": [
+  "Bahar ve kış dönemine göre hayvanlarla ilgili işleri ve çalışmaları yapar ve sürdürür.",
+  "Sağım işlemi yapar, ahırı temizler, hayvanları yemler ve sular.",
+  "Bahar döneminde yaylaya çıkar, aynı çalışmaları yaylada da sürdürür.",
+  "Mevsimine göre sebze ve meyveleri eker ve hasat eder.",
+  "Sebze ve meyve yetiştirmek için gübreleme ve ilaçlama işlerini belirli dönemlerde gerçekleştirir.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Bu meslekte örgün bir eğitim kademesi ve diplomaya dayalı bir ilerleme basamağı bulunmamaktadır. Kişi, İŞKUR ve Halk Eğitim Merkezlerinin açtığı tarım ve hayvancılık kurslarına katılarak bilgi ve becerisini geliştirebilir; isteyenler tarım meslek lisesi, ilgili ön lisans (tarım teknolojileri, zootekni vb.) veya lisans (ziraat mühendisliği, veteriner hekimlik vb.) programlarına yönelerek daha nitelikli tarım mesleklerine geçiş yapabilir.",
+  "is_hayatinda": "Deneyim kazandıkça çiftlik içindeki sorumluluk alanı genişleyebilir; ekip sorumluluğu veya ustabaşılık gibi görevlere yükselebilir. Yeterli birikim ve tecrübeye sahip olanlar kendi tarım işletmesini kurabilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Bu meslekte resmi/örgün bir çıraklık eğitimi süreci bulunmadığından eğitim sürecine özgü düzenlenmiş bir ücret uygulaması yoktur. Katılınan kurslar genellikle ücretsizdir; işbaşında çalışılan dönemlerde ücret, işveren ile yapılan anlaşmaya göre belirlenir.",
+  "egitim_sonrasi": [
+   "Genellikle asgari ücret düzeyinde kazanç sağlanır.",
+   "Çalışılan işletmenin büyüklüğü, işin mevsimlik veya sürekli oluşu, kişinin deneyimi ve bölgesel tarımsal ücret düzeyine göre kazanç değişebilir.",
+   "Kamuya bağlı tarım işletmelerinde işçi statüsünde istihdam edilenler toplu iş sözleşmesi hükümlerine göre ücret alır."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T19:33:17",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6694
+  }
+ }
+}

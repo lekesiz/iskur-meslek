@@ -1,0 +1,85 @@
+{
+ "arac_gerec": [
+  "Pota (metal eritme kabı) ve ocak/brülör",
+  "Tel çekme tezgahı (silindir/hadde)",
+  "Kaynak takımı (hamlaç, gaz tüpü)",
+  "Cımbız ve pens",
+  "Tel kesme makası/aleti",
+  "Kalıp, mastar ve şablonlar",
+  "Kağıt üzerine çizilmiş taslak ve modeller",
+  "Nitrik asit ve ağartma kapları",
+  "Deterjanlı su ve ince telli temizlik fırçası",
+  "Odun talaşı (kurutma için)",
+  "Çelik parlatma (perdah) aleti",
+  "Hassas tartı/terazi",
+  "Koruyucu eldiven ve gözlük"
+ ],
+ "genel_ozellikler": [
+  "El becerisine sahip,",
+  "Görme ve el koordinasyonu iyi,",
+  "Dikkatli ve sabırlı,",
+  "Estetik algısı gelişmiş,",
+  "Ayrıntılara özen gösteren,",
+  "Tekrarlı ve ince işçilik gerektiren işlerden sıkılmayan,",
+  "Geleneksel el sanatlarına ilgi duyan,",
+  "Yüksek ısı ve kimyasal maddelerle çalışırken temkinli davranan"
+ ],
+ "calisma_ortami": "Telkari Ustası, çalışmalarını genellikle küçük bir atölyede veya kuyumcu dükkanında, kapalı mekanda yürütür. Çalışma ortamında eritme ve kaynak işlemleri nedeniyle sıcaklık söz konusudur; ağartma işleminde kullanılan nitrik asit gibi kimyasallar nedeniyle havalandırmaya ve koruyucu ekipman kullanımına dikkat edilmesi gerekir. İş, uzun süre oturarak ince motifler üzerinde göz ve el emeğiyle yapılan, dikkat ve sabır isteyen bir niteliktedir.\n\nÇalışma saatleri genellikle gündüz ve haftanın büyük bölümünde tam gündür. Telkari Ustası, çalışmaları sırasında usta-çırak ilişkisi içinde diğer çalışanlarla, işveren veya atölye sahibiyle, kuyumcularla ve siparişi veren müşterilerle iletişim kurar.",
+ "egitim": {
+  "verildigi_yerler": "Telkari ustalığına özgü, Milli Eğitim Bakanlığına bağlı örgün bir çıraklık/meslek lisesi dalı bulunmamaktadır. Eğitim büyük ölçüde usta-çırak ilişkisi içinde, geleneksel telkari atölyelerinde (özellikle Mardin/Midyat gibi telkari sanatının yoğun olduğu bölgelerde) işbaşında verilir. Ayrıca Halk Eğitim Merkezleri ve İŞKUR tarafından açılan telkari/gümüş işlemeciliği konulu mesleki eğitim kursları ile bu alanı destekleyen geleneksel el sanatları eğitim programları da bulunmaktadır.",
+  "giris_kosullari": [
+   "Mesleğin gerektirdiği minimum eğitim düzeyi okuryazarlıktır; örgün bir çıraklık süreci söz konusu olduğunda genellikle ortaokul mezuniyeti ve belirli bir yaşın (14 yaş) doldurulmuş olması istenir.",
+   "Usta yanında çalışmaya başlamak için işveren/usta ile anlaşma yapılması gerekir.",
+   "İnce işçilik gerektiren bir meslek olduğundan el becerisi ve görme sağlığının bu işe uygun olması gerekir."
+  ],
+  "sure_ve_icerik": "Mesleğe özgü standart bir eğitim süresi bulunmamaktadır; öğrenim genellikle usta yanında yıllar içinde kademeli olarak gerçekleşir. Önce tel çekme, tavlama ve basit motif hazırlama gibi temel işlemler öğrenilir, ardından kaynak yapma, parça birleştirme ve özgün tasarım aşamalarına geçilir. Halk Eğitim Merkezi kursları ise genellikle haftalar veya aylar süren modüller halinde telkarinin temel tekniklerini öğretmeyi hedefler.",
+  "belge": "Örgün bir çıraklık eğitim merkezinde kayıtlı olarak eğitim tamamlanırsa kalfalık ve ustalık belgesi alınabilir. Halk Eğitim Merkezi veya benzeri kurslara katılanlara kurs katılım/başarı belgesi verilir. Mesleğe özgü resmi bir diploma programı bulunmadığından, beceri genellikle usta-çırak ilişkisiyle kazanılır ve Mesleki Yeterlilik Kurumu (MYK) belgesi, varsa, istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Telkari Ustaları genellikle kuyumculuk ve geleneksel el sanatları atölyelerinde, özellikle telkari sanatının köklü olduğu bölgelerde (Mardin, Midyat gibi) bağımsız olarak ya da bir usta yanında çalışır. Küçük ölçekli aile işletmeleri, kuyumcu dükkanları, hediyelik eşya ve turizme yönelik el sanatları atölyeleri başlıca çalışma alanlarıdır. Telkari ürünlerine olan talep sınırlı ve niş bir pazara dayandığından iş bulma olanakları kısıtlıdır; meslek günümüzde daha çok kültürel mirası koruma çalışmaları, el sanatları kooperatifleri ve turizme yönelik projeler kapsamında desteklenerek sürdürülmektedir.",
+ "kazanc": {
+  "egitim_suresince": "Usta yanında çalışan çıraklara genellikle düzenli bir ücret yerine sembolik bir harçlık verilir. Eğitim, 3308 sayılı Mesleki Eğitim Kanunu kapsamında bir mesleki eğitim merkezine bağlı olarak sürdürülüyorsa, işletmelerde mesleki eğitim gören öğrencilere asgari ücretin belirli bir oranında ücret ödenmesi mümkündür.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayan ve usta yanında çalışan kişilerin kazancı genellikle asgari ücret düzeyindedir.",
+   "Deneyim, ustalık düzeyi ve ürettiği işin özgünlüğü arttıkça kazanç da artabilir.",
+   "Kendi atölyesini açan ustaların kazancı aldığı sipariş hacmine ve ürün fiyatlarına göre değişir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Bu meslekte örgün bir çıraklık-kalfalık-ustalık basamağı genellikle usta-çırak ilişkisi içinde kazanılır. Halk Eğitim Merkezleri ve İŞKUR'un açtığı kurslara katılarak teknik bilgi ve beceriler geliştirilebilir. Mesleki Yeterlilik Kurumu (MYK) belgesi edinilmesi, varsa, istihdamda tercih sebebi olabilir.",
+  "is_hayatinda": "Deneyim kazanıldıkça çıraklıktan kalfalığa, kalfalıktan ustalığa geçilir. Usta olduktan sonra bağımsız atölye/işyeri açılabilir, özgün tasarımlarla tanınarak sipariş hacmi artırılabilir, geleneksel el sanatları ustası olarak diğer çıraklara eğitim verilebilir veya kültürel miras ve turizm odaklı projelerde yer alınabilir."
+ },
+ "benzer_meslekler": [
+  "Kuyumcu-Altın ve Gümüş İşleme",
+  "Gümüş Takı İşlemecisi",
+  "Erhani Gümüş İşleme Ustası",
+  "Gümüş Kaynakçısı (Makine İle)",
+  "Kazaziye Ustası (Hasır Örmeci)",
+  "Mücevher Ustası"
+ ],
+ "ek_bilgiler": "Telkari, özellikle Mardin/Midyat bölgesinde yaşatılan, ince gümüş (bazen altın) tellerin kaynakla birleştirilerek işlendiği geleneksel bir el sanatıdır ve somut olmayan kültürel miras niteliği taşır. Meslek, günümüzde daha çok kültürel mirası koruma, el sanatları kooperatifleri ve turizme yönelik destek projeleriyle sürdürülmeye çalışılmaktadır.",
+ "gorevler": [
+  "Külçe veya hurda gümüşleri potada eritir, döküm yaparak ince çubuklar haline getirir.",
+  "Gümüş ve altın çubukları tel çekme yöntemiyle silindir veya haddelerden geçirerek istenilen inceliğe getirir.",
+  "Tasarlanan ürünü ana hatlarıyla birebir ölçekte kağıt üzerine çizer, model hazırlar.",
+  "Gümüş ve altın telleri, yumuşaklık kazanması ve kolayca işlenebilmesi için ısıtarak tavlama yapar.",
+  "Taslak üzerinde belirlenen ölçülerde, kalınlık ve uzunluklara göre telleri keser ve kullanıma hazırlar.",
+  "Ürünü oluşturan ana iskeletin kesilmiş ve yassılaştırılmış parçalarını taslak üzerine koyarak şekillendirir.",
+  "Ana ve ara parçaları milimetrik telleri belirli yerlerinden gümüş kaynağı yaparak birleştirir.",
+  "Ana iskeletin içine yerleştirmek için vav, kake, dudey, gül, tırtıl, güverse vb. isimlerle anılan motifleri hazırlar.",
+  "Tamamlanan ürünlerin doğal rengini alması ve temizlenmesi için nitrik asit ve su karışımı içerisinde ağartır.",
+  "Ağartılan ürünleri deterjanlı su ile yıkar, ince telli bir fırça ile fırçalayarak yüzeydeki fazlalıkları ve kaynak artıklarını temizler.",
+  "Odun talaşı ile ürünleri kurutarak nemini alır.",
+  "Telkari ürünlerinin yüzeyini düz bir çelik parçası ile parlatır.",
+  "Çalışma alanının ve araç, gereçlerin temizliğini yapar.",
+  "Mesleği alanındaki gelişmeleri takip eder ve uygular.",
+  "İşçi sağlığı ve iş güvenliği kurallarına uyar, uyulmasını sağlar."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T03:36:34",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 7413
+  }
+ }
+}

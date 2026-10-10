@@ -1,0 +1,79 @@
+{
+ "gorevler": [
+  "Briket-bims makinesinin hareketli aksamlarını günlük olarak yağlar, makineyi üretime hazırlar.",
+  "Harç karma makinesinde kum, çakıl, çimento ve diğer maddeleri karıştırarak harcı hazırlar.",
+  "Harcın kıvamını kontrol eder, gerektiğinde karışıma madde ilave ederek kıvamını ayarlar.",
+  "Üretimi yapılacak briket-bims kalıbını makineye monte eder.",
+  "Harcı briket imalat makinesine aktarır ve imalatını gerçekleştirir.",
+  "İmalat sırasında makineyi elektrik panosundan takip eder.",
+  "Manüel ya da otomatik olarak imal edilen briketlerin kurutulmasını sağlar.",
+  "Üretim sırasında görülen aksaklıkları giderir.",
+  "Makinelerin bakımını yapar, üretim esnasında üretim hattını kontrol eder ve kalite kontrol işlemlerini gerçekleştirir.",
+  "İş bitiminde harcın donmaması için harç ve briket makinesini temizler.",
+  "Kurumaya bırakılan briketleri daha sert ve dayanıklı olması için zamanında sular/sulatır.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "arac_gerec": [
+  "Harç karma makinesi (mikser)",
+  "Briket-bims imalat makinesi",
+  "Briket/bims kalıpları",
+  "Kum, çakıl, çimento ve katkı maddeleri",
+  "Su ve sulama ekipmanı",
+  "Kürek, mala ve kova",
+  "El arabası, forklift veya transpalet",
+  "Palet ve paletleyici ekipman",
+  "Elektrik panosu ve makine kontrol üniteleri",
+  "Yağlama ekipmanları (gresörlük, yağ)",
+  "Temizlik ekipmanları (su hortumu, fırça, kazıma aletleri)",
+  "Kişisel koruyucu donanım (iş eldiveni, gözlük, baret, kulaklık, çelik burunlu ayakkabı, toz maskesi)"
+ ],
+ "genel_ozellikler": [
+  "Fiziksel olarak güçlü ve dayanıklı,",
+  "El ve kol kaslarını etkin biçimde kullanabilen,",
+  "Dikkatli ve sorumluluk sahibi,",
+  "Makine ve ekipman kullanımına yatkın,",
+  "Takım halinde çalışmaya uyumlu,",
+  "Talimatlara uyan ve düzenli çalışabilen,",
+  "Fiziksel olarak zorlu çalışma koşullarına uyumlu."
+ ],
+ "calisma_ortami": "Briket-Bims İmalat İşçisi, briket ve bims üretimi yapan fabrika ve atölyelerde, kapalı veya yarı açık üretim alanlarında çalışır. Çalışma ortamı tozlu, gürültülü olabilir; sıcak-soğuk hava koşullarına, nem ve rutubete açık alanlarda da çalışma gerekebilir. İş genellikle ayakta, zaman zaman ağır malzeme kaldırmayı gerektiren fiziksel bir çalışmadır; dikkatsizlik halinde makine kazaları, el-kol yaralanmaları ve toz kaynaklı sağlık sorunları ortaya çıkabilir.\n\nÇalışma saatleri işyerinin üretim yoğunluğuna göre değişebilir, vardiyalı çalışma söz konusu olabilir. Meslek, çalışma sırasında ustabaşı, diğer imalat işçileri, bakım personeli ve işletme yöneticileriyle sürekli iletişim ve iş birliği gerektirir.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi için resmi olarak tanımlanmış bağımsız bir meslek lisesi veya çıraklık programı bulunmamaktadır. Meslek genellikle işyerlerinde usta yanında işbaşında öğrenilir; ayrıca Halk Eğitim Merkezleri ve İŞKUR tarafından açılan mesleki eğitim kurslarında temel düzeyde eğitim verilebilmektedir.",
+  "giris_kosullari": [
+   "İlköğretim mezunu olmak",
+   "Fiziksel olarak işin gerektirdiği güç ve dayanıklılığa sahip olmak",
+   "Sağlık durumunun mesleğin icrasına uygun olması (gerektiğinde sağlık raporuyla belgelendirilir)",
+   "İşbaşında eğitim için ilgili işletmede çalışmaya başlamak"
+  ],
+  "sure_ve_icerik": "Örgün bir eğitim programı bulunmadığından eğitim süresi işyerine ve kursa göre değişmekle birlikte, genellikle kısa süreli (günler-haftalar) kurslar ile işbaşı eğitimden oluşur. İçerikte harç hazırlama, makine ve kalıp kullanımı, üretim takibi, kalite kontrol ve iş güvenliği konuları yer alır. Mesleğin asıl ustalığı, işyerinde deneyimli bir usta gözetiminde pratik çalışmayla kazanılır.",
+  "belge": "Katılım sağlanan kurslar sonunda katılım/başarı belgesi verilebilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Briket-Bims İmalat İşçisi; briket, bims, beton blok ve benzeri yapı malzemelerini üreten fabrika ve atölyelerde, hazır beton ve yapı malzemesi işletmelerinde çalışabilir. İnşaat sektörünün hareketliliğine bağlı olarak bu işletmelerde istihdam imkânı bulunmaktadır.",
+ "kazanc": {
+  "egitim_suresince": "Örgün bir mesleki eğitim programı bulunmadığından, eğitim genellikle işyerinde işbaşı eğitim şeklinde yürütülür ve bu süreçte işveren ile yapılan anlaşmaya göre ücret ödenebilir. Halk Eğitim Merkezi veya İŞKUR kurslarına katılım ise genellikle ücretsizdir.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanların kazancı genellikle asgari ücret düzeyindedir.",
+   "Kazanç; çalışılan işletmenin büyüklüğü, kişinin deneyimi, bilgi ve beceri düzeyi ile sektörün genel ücret düzeyine göre değişebilir.",
+   "Özel sektörde ücret genellikle işveren ile çalışan arasında karşılıklı olarak belirlenir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleki ve teknik eğitim kapsamındaki kurslara katılarak bilgi ve becerilerini geliştirebilir, Mesleki Yeterlilik Kurumu belgesi alarak yetkinliğini belgelendirebilir.",
+  "is_hayatinda": "Deneyim kazanan işçi makine operatörlüğü, ustabaşılık veya üretim sorumluluğu gibi görevlere yükselebilir; yeterli birikim ve sermayeye ulaştığında kendi adına briket-bims üretim işletmesi kurabilir."
+ },
+ "benzer_meslekler": [
+  "İnşaat Elemanları Kalıpçısı (Elle)",
+  "Tuğla ve Kiremit Kalıpçısı (Elle)",
+  "Tuğla ve Kiremit Presçisi (Elle)",
+  "Çömlek ve Porselen Presçisi (Elle)"
+ ],
+ "ek_bilgiler": "Bu mesleğe olan talep, inşaat sektörünün genel hareketliliğine bağlı olarak dönemsel dalgalanmalar gösterebilir. İş sırasında makine kullanımı, toz ve ağır malzeme kaldırma nedeniyle kişisel koruyucu donanımın kullanılması ve iş sağlığı-güvenliği kurallarına uyulması önemlidir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T04:00:18",
+  "usage": {
+   "input_tokens": 4,
+   "output_tokens": 8375
+  }
+ }
+}

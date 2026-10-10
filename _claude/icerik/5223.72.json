@@ -1,0 +1,86 @@
+{
+ "arac_gerec": [
+  "Dijital/elektronik tartı ve terazi",
+  "Yazar kasa veya POS (satış noktası) cihazı",
+  "Hesap makinesi",
+  "Satış fişi, fatura ve sevk irsaliyesi",
+  "Ambalaj ve paketleme malzemeleri (kutu, selofan, kurdele, poşet)",
+  "Hediye paketi malzemeleri",
+  "Fiyat etiketleme makinesi/tabancası ve etiketler",
+  "Reyon, raf ve vitrin teşhir üniteleri",
+  "Şekerlemelerin saklandığı kavanoz, kap ve kutular",
+  "Telefon (sipariş kabulü için)",
+  "Hijyen malzemeleri (eldiven, bone, önlük, maske)",
+  "Temizlik malzeme ve ekipmanları"
+ ],
+ "genel_ozellikler": [
+  "İnsan ilişkilerinde başarılı, güler yüzlü ve girişken,",
+  "Düzgün ve anlaşılır bir konuşma biçimine sahip, ikna yeteneği olan,",
+  "Dikkatli ve titiz (tartım, fiyatlandırma ve hijyen kurallarına uyum için),",
+  "Temizlik ve düzene özen gösteren,",
+  "Sorumluluk sahibi ve güvenilir,",
+  "Sabırlı ve güler yüzünü koruyabilen,",
+  "Uzun süre ayakta çalışmaya dayanıklı,",
+  "Basit hesap işlemlerini hızlı ve doğru yapabilen"
+ ],
+ "calisma_ortami": "\"Şekerleme satış elemanı genellikle kapalı mekânlarda; şekerleme/tatlı dükkanlarında, pastanelerde, market ve süpermarketlerin şekerleme reyonlarında ya da toptan gıda satış yerlerinde çalışır. Çalışma süresince büyük ölçüde ayakta durmayı ve sürekli müşteriyle yüz yüze iletişim kurmayı gerektirir; bu nedenle uzun vadede bel ve bacak rahatsızlıkları görülebilir. Ürünler gıda maddesi olduğundan temizlik ve hijyen kurallarına titizlikle uyulması gerekir.\\n\\nÇalışma saatleri işyerinin açılış-kapanış saatlerine göre değişir; özellikle bayram, kutlama ve tatil dönemlerinde (örneğin ramazan/şeker bayramı öncesi) iş yoğunluğu önemli ölçüde artabilir. Meslek elemanı başta müşteriler olmak üzere işyeri sahibi/yöneticisi, diğer satış elemanları ve bazı durumlarda tedarikçilerle iletişim kurar.\"",
+ "gorevler": [
+  "Müşterileri güler yüzle karşılar.",
+  "Müşterileri şekerleme çeşitleri hakkında bilgilendirir.",
+  "Müşterilerin talep ettiği şekerlemeleri tartar.",
+  "Hediye paketi veya normal paketleme yapar.",
+  "Telefonla sipariş alır, hazırlar.",
+  "Kasa noktası yoksa ödemeleri tahsil eder.",
+  "Satış belgelerini tanzim eder.",
+  "Ürünleri çeşitlerine göre sınıflandırır, teşhir eder.",
+  "Ürünleri reyona yerleştirir.",
+  "Fiyat etiketlerini değiştirir, yeniler.",
+  "Vitrin, reyon düzenlemesi yapar.",
+  "Son kullanım tarihi geçen veya bozulan ürünleri ayırır.",
+  "Eksilen, biten ürünleri patron/yöneticisine bildirir.",
+  "Müşterilerin şikâyet ve memnuniyetlerini patron/yöneticisine bildirir.",
+  "Çalışma alanının tertip ve temizliğini sağlar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi, Millî Eğitim Bakanlığına bağlı mesleki eğitim merkezlerinde \"Pazarlama ve Perakende\" alanının \"Satış Elemanlığı\" dalı kapsamında çıraklık eğitimi şeklinde verilebilmektedir. Bunun dışında Halk Eğitim Merkezleri ile İŞKUR tarafından açılan mesleki eğitim kursları ve işyerlerinde usta yanında (işbaşı eğitimi) yoluyla da mesleğe giriş mümkündür.",
+  "giris_kosullari": [
+   "En az ilköğretim/ortaokul mezunu olmak",
+   "Mesleğin gerektirdiği işleri yapmaya bünyesi ve sağlık durumu uygun olmak",
+   "Çıraklık eğitimi için ilgili yaş şartlarını taşımak ve eğitim görülecek işyeri ile çıraklık sözleşmesi imzalamak",
+   "Kurs yoluyla eğitimde kursun aradığı yaş ve öğrenim şartlarını sağlamak"
+  ],
+  "sure_ve_icerik": "Mesleki eğitim merkezlerinde verilen çıraklık eğitiminin süresi ilköğretim mezunlarında genellikle 2 yıl, daha üst düzeyde genel eğitim almış olanlarda daha kısadır; eğitimin bir bölümü mesleki eğitim merkezinde teorik ders, bir bölümü ise işyerinde uygulamalı (pratik) eğitim şeklinde yürütülür. Eğitim içeriğinde müşteri ilişkileri ve satış teknikleri, ürün bilgisi, tartı ve kasa/POS işlemleri, ambalajlama, teşhir ve reyon düzenleme, gıda hijyeni ve iş sağlığı-güvenliği gibi konular yer alır. Kurs yoluyla edinilen eğitimde süre ve içerik kursu açan kuruma göre değişebilir.",
+  "belge": "Mesleki eğitim merkezinde çıraklık eğitimini tamamlayıp sınavda başarılı olanlara \"Kalfalık Belgesi\", ardından ustalık eğitimini tamamlayanlara \"Ustalık Belgesi\" verilir. Kurs yoluyla eğitim alanlara ise kursu düzenleyen kurumca katılım/başarı belgesi verilir. Ayrıca gıda satışı yapıldığından işyerinde çalışanların Gıda Hijyeni Eğitimi sertifikasına sahip olması istenebilir."
+ },
+ "calisma_alanlari": "\"Bu mesleği öğrenenler; şekerleme, tatlı ve pastane ürünleri satan dükkânlarda, market ve süpermarketlerin şekerleme/gıda reyonlarında, toptan gıda satış yerlerinde, hediyelik şekerleme/tatlı paketleri hazırlayan işletmelerde ve bazı durumlarda online sipariş alıp hazırlayan gıda satış işletmelerinde satış elemanı olarak çalışabilirler. Yeterli sermayeye ve tecrübeye sahip olanlar kendi adlarına şekerleme satış işyeri açabilirler. Özellikle bayram ve özel günler öncesinde bu alanda geçici/mevsimlik istihdam olanakları da bulunmaktadır.\"",
+ "kazanc": {
+  "egitim_suresince": "Mesleki eğitim merkezinde çıraklık eğitimi gören öğrencilere, 3308 sayılı Mesleki Eğitim Kanunu gereğince asgari ücretin belirli bir oranından az olmamak üzere ücret ödenir; ayrıca öğrencilerin iş kazası ve meslek hastalığına karşı sigorta primleri devletçe karşılanır. Kurs yoluyla eğitim alanlarda ise kazanç durumu kursun ve işyerinin koşullarına göre değişir.",
+  "egitim_sonrasi": [
+   "İşe yeni başlayanlar genellikle asgari ücret düzeyinde bir gelirle çalışmaya başlar.",
+   "Deneyim, işletmenin büyüklüğü ve çalışılan sektöre (zincir market, butik dükkan vb.) göre ücret artabilir; özel sektörde ücret genellikle işveren ile çalışan arasında karşılıklı anlaşmaya bağlıdır.",
+   "Kendi işyerini açanların kazancı yaptıkları satış hacmine göre değişkenlik gösterir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleki eğitim merkezinden kalfa olarak mezun olanlar, çalışmaya devam ederken ustalık eğitimine katılarak \"Ustalık Belgesi\" alabilirler. İlköğretim mezunu kalfa ve ustalar, açık öğretim lisesine devam ederek lise diploması da alabilirler.",
+  "is_hayatinda": "Deneyim kazanan satış elemanları reyon/bölüm sorumlusu, mağaza şefi veya satış müdürü gibi görevlere yükselebilir. Ustalık belgesine sahip olanlar veya işyerinde bu belgeye sahip birini çalıştıranlar kendi adlarına bağımsız işyeri açabilirler."
+ },
+ "benzer_meslekler": [
+  "Perakende Satış Elemanı (Gıda)",
+  "Kuruyemiş Satış Elemanı",
+  "Pişmaniye Satış Elemanı",
+  "Dondurma Satış Elemanı",
+  "Reyon Görevlisi",
+  "Ekmek Satış Elemanı"
+ ],
+ "ek_bilgiler": "\"Gıda maddesi satışı yapıldığından işyerlerinde çalışanların Gıda Hijyeni Eğitimi Yönetmeliği kapsamında hijyen eğitimi sertifikasına sahip olması istenebilir. Ayrıca bu alanda MYK Mesleki Yeterlilik Belgesi istihdamda tercih sebebi olabilir.\"",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T19:10:03",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6189
+  }
+ }
+}

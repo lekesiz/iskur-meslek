@@ -1,0 +1,88 @@
+{
+ "arac_gerec": [
+  "Tansiyon aleti ve ısı ölçer (derece)",
+  "Kuvöz",
+  "Fototerapi cihazı",
+  "Nabız oksimetre (puls oksimetre) ve monitör",
+  "Mayi/infüzyon pompası",
+  "Enjektör, serum seti ve solüsyonlar",
+  "Sonda ve aspiratör",
+  "Oksijen tüpü ve oksijen verme ekipmanları",
+  "Bebek tartı ve ölçüm aletleri",
+  "Bebek bakım malzemeleri (bez, küvet, havlu vb.)",
+  "Pansuman alet ve gereçleri",
+  "Hemşire gözlem formu, hasta dosyası ve bilgi kayıt sistemleri"
+ ],
+ "genel_ozellikler": [
+  "Biyoloji ve sağlık bilimlerine ilgili ve bu alanda başarılı,",
+  "Sorumluluk duygusu yüksek,",
+  "Dikkatli ve tedbirli,",
+  "Hızlı ve doğru karar verebilen,",
+  "Şefkatli, sabırlı ve empatik,",
+  "El becerisine sahip,",
+  "Takım çalışmasına uyumlu,",
+  "Stres altında sakin kalabilen"
+ ],
+ "gorevler": [
+  "Nöbetçi ekipten servisi ve hastaları teslim alır.",
+  "Hastaları servise kabul eder, servisin işleyişi ve kuralları hakkında bilgilendirir.",
+  "Hastaların ateş, nabız, solunum ve tansiyon takiplerini yapar, hemşire gözlem kartına kaydeder.",
+  "Hastalara günlük rutin bakımlarını (banyo, ağız, göz bakımı, alt değiştirme, cilt bakımı, yatak değiştirme vb.) yapar.",
+  "Bebekleri beslenmeleri için annelerine verir, annesi gelemeyen bebekleri besler.",
+  "Annelere emzirme eğitimi verir.",
+  "Doktor ordinolarını hemşire gözlem formuna kaydeder.",
+  "Mayi pompaları ve doz ayarlamalarını yapar, saat başı mayileri kontrol eder, alınan, kalan ve çıkan sıvıları kaydeder.",
+  "Hastaların damar yollarını takip eder, değiştirilmesi gerekenleri değiştirir.",
+  "Hasta ile ilgili numuneleri alır, uygun şekilde ve zamanında ilgili yere ulaştırılmasını sağlar.",
+  "Hastaya uygulanan bakım ve tedavi ile ilgili uygulamalar ve gözlemlere ilişkin hemşirelik kayıtlarını tutar.",
+  "Servis eczanesinden tabela ve ilaçların sayım ve kontrollerini yaparak teslim alır.",
+  "Serviste kullanılan tüm tıbbi cihazların sayım, kontrol ve kayıt işlerini yapar.",
+  "Enfeksiyon kontrol önlemlerini alır, uygular ve kontrol eder.",
+  "İlaçların güvenli bir şekilde temin edilmesini, kullanılmasını ve saklanmasını sağlar.",
+  "Taburcu olan hastalara evde uyması gereken kurallar hakkında bilgi verir.",
+  "Mesleki ilerleme ve gelişimi için seminer ve toplantılara katılır.",
+  "Hemşirelik hizmetleri konularında araştırma yapar.",
+  "Tüm uygulamalarını etik kurallar doğrultusunda yapar."
+ ],
+ "calisma_ortami": "Hemşire (Yenidoğan), hastanelerin yenidoğan servisleri, yenidoğan yoğun bakım üniteleri (YYBÜ) ve doğumhanelerde görev yapar. Çalışma ortamı genellikle kapalı, steril, sıcaklık ve nemi kontrollü alanlardır; enfeksiyon riskine karşı özel hijyen ve izolasyon önlemleri alınması gerekir. Görev yapılan kurumun uygulamasına göre vardiyalı ve nöbet usulü çalışılır, gece çalışması yaygındır.\n\nÇalışma sırasında bebekler, anneler ve aileler, doktorlar, diğer hemşireler ve sağlık personeli ile sürekli iletişim halinde olunur. Görev; ayakta ve hareketli çalışmayı, hızlı tempoyu, yüksek dikkat ve konsantrasyonu gerektirir; özellikle kritik durumdaki bebeklerle çalışılması nedeniyle fiziksel ve psikolojik açıdan yoğun olabilir.",
+ "calisma_alanlari": "Hemşire (Yenidoğan) olarak, kamuya bağlı devlet hastaneleri, üniversite hastaneleri ve Sağlık Bakanlığına bağlı sağlık kuruluşları ile özel hastane ve özel sağlık kuruluşlarının yenidoğan servisleri, yenidoğan yoğun bakım üniteleri ve doğumhanelerinde istihdam edilebilir.\n\nSağlık hizmetlerinde nitelikli hemşire personele olan talep genel olarak yüksektir ve bu durum meslekte iş bulma olanağını kolaylaştırır. Yenidoğan ve yoğun bakım gibi özel alanlarda çalışmak isteyenler için deneyim ve ek eğitim/sertifika programları tercih sebebi olabilir.",
+ "ek_bilgiler": "Yenidoğan hemşireliği, özellikle yenidoğan yoğun bakım ünitelerinde görev alacaklar için yüksek dikkat, hızlı müdahale becerisi ve enfeksiyon kontrolüne azami özen gerektirir. Bu alanda çalışmak isteyenler için hastane içi hizmet içi eğitimler ve ilgili sertifika/kurs programlarına katılım, istihdamda tercih sebebi olabilir.",
+ "egitim": {
+  "verildigi_yerler": "Üniversitelerin hemşirelik fakülteleri ve hemşirelik/sağlık bilimleri yüksekokulları bünyesindeki \"Hemşirelik\" lisans programlarında temel hemşirelik eğitimi verilir. Yenidoğan hemşireliği alanında uzmanlaşma; lisans eğitimi sonrasında hastane içi hizmet içi eğitimler, ilgili kurum ve kuruluşların açtığı sertifika programları ve mesleki deneyim yoluyla kazanılır.",
+  "giris_kosullari": [
+   "Lise veya dengi okul mezunu olmak",
+   "YKS (Yükseköğretim Kurumları Sınavı) kılavuzunda belirtilen giriş koşullarını taşımak",
+   "İlgili hemşirelik lisans programının puan türü ve taban puan şartlarını karşılamak"
+  ],
+  "sure_ve_icerik": "Hemşirelik lisans eğitiminin süresi 4 yıldır ve teorik dersler ile klinik uygulamaları (staj) birlikte içerir. Eğitim sürecinde anatomi-fizyoloji, mikrobiyoloji, farmakoloji, hemşirelik esasları, çocuk sağlığı ve hastalıkları hemşireliği, doğum ve kadın sağlığı hemşireliği gibi dersler okutulur. Yenidoğan bebeklere özgü bakım, izlem ve beslenme destekleme gibi bilgi ve beceriler; büyük ölçüde klinik stajlar, hastane içi hizmet içi eğitimler ve bu alanda açılan sertifika veya kurs programları ile geliştirilir.",
+  "belge": "Lisans eğitimini başarıyla tamamlayanlara \"Hemşirelik\" lisans diploması verilir. Yenidoğan bakımı alanında katılınan kurs ve sertifika programları sonunda katılım veya başarı belgesi alınabilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Lisans eğitimi süresince öğrenciler, Kredi ve Yurtlar Genel Müdürlüğü'nün öğrenim kredisi ve yurt hizmetlerinden yararlanabilir; ayrıca bazı üniversite ve kurum/kuruluşların sunduğu burs imkânlarından faydalanabilirler.",
+  "egitim_sonrasi": [
+   "Kamu sağlık kuruluşlarında çalışanlar 657 sayılı Devlet Memurları Kanunu veya ilgili personel mevzuatına göre ücret alır.",
+   "Özel sağlık kuruluşlarında kazanç; kurumun büyüklüğü, çalışılan birim ve çalışanın deneyimine göre değişiklik gösterir, genellikle işveren ile karşılıklı anlaşma yoluyla belirlenir.",
+   "Mesleğe yeni başlayanlarda kazanç genellikle asgari ücret düzeyinde olup, deneyim ve uzmanlaşma arttıkça yükselme eğilimindedir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Lisans eğitimini tamamlayan hemşireler, hemşirelik veya ilgili sağlık bilimleri alanlarında yüksek lisans ve doktora programlarına devam ederek akademik kariyer yapabilir; yenidoğan ve yoğun bakım hemşireliği alanında sertifika ve ileri eğitim programlarına katılarak uzmanlaşabilir.",
+  "is_hayatinda": "Deneyim kazandıkça sorumlu hemşire, servis sorumlusu ve başhemşire gibi yönetim kademelerine yükselebilir; ayrıca eğitim hemşireliği, enfeksiyon kontrol hemşireliği gibi farklı uzmanlık alanlarına geçiş yapabilir."
+ },
+ "benzer_meslekler": [
+  "Çocuk Hemşiresi",
+  "Yoğun Bakım Hemşiresi",
+  "Hemşire-Klinik",
+  "Hemşire",
+  "Diğer Hemşireler",
+  "Poliklinik Hemşiresi"
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-07T23:14:01",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 7118
+  }
+ }
+}

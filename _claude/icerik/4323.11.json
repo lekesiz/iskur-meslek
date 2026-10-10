@@ -1,0 +1,82 @@
+{
+ "arac_gerec": [
+  "Seyrüsefer cetveli ve sefer evrakları",
+  "Yük vagonu sevk ve yükleme belgeleri",
+  "El feneri / sinyal lambası",
+  "Kol ve işaret bayrakları (dur-geç flamaları)",
+  "Düdük",
+  "Telsiz veya telefon gibi haberleşme cihazları",
+  "Fren musluğu ve acil fren donanımı",
+  "Tutanak formları ve kırtasiye malzemeleri",
+  "Saat / kronometre",
+  "Koruyucu iş kıyafeti, yelek ve baret",
+  "İlk yardım çantası",
+  "Zimmet ve teslim-tesellüm belgeleri"
+ ],
+ "benzer_meslekler": [
+  "Tren Hareket Memuru",
+  "Demiryolu Trafik Kontrolörü",
+  "İstasyon Şefi-Demiryolu",
+  "Tren Kontrolörü",
+  "Tren Şefi",
+  "Karayolu Taşıma Nezaretçisi"
+ ],
+ "calisma_alanlari": "Demiryolu Servis Nezaretçisi başta TCDD (Türkiye Cumhuriyeti Devlet Demiryolları) ve bağlı/iştirak kuruluşları olmak üzere, demiryolu yolcu ve yük taşımacılığı yapan kamu ve özel sektör işletmelerinde istihdam edilir. Demiryolu sektörünün büyüklüğüne ve yeni hat yatırımlarına bağlı olarak istihdam olanakları değişiklik gösterebilir; şehirlerarası ve kent içi raylı sistem işletmelerinde de benzer nitelikte görevlere ihtiyaç duyulmaktadır.",
+ "calisma_ortami": "Demiryolu Servis Nezaretçisi büyük bölümünü açık havada, istasyonlarda ve seyir halindeki trenlerde geçirir. Çalışma ortamı hareketli, gürültülü ve farklı hava koşullarına (sıcak, soğuk, yağmur, kar) açık olabilir. Görev, trenin güvenli seyrini sağlamakla ilgili olduğundan dikkat ve tetikte olmayı gerektirir; ayrıca ani gelişen olaylara (arıza, kaza, gecikme) hızlı müdahale etme sorumluluğu taşır.\n\nÇalışma saatleri vardiyalı sistemle yürütülür; gece, gündüz, hafta sonu ve resmî tatillerde çalışma söz konusu olabilir. Görev sırasında makinist, kondüktör, hareket memuru, emniyet şefi ve gerektiğinde emniyet kuvvetleri ile sürekli iletişim halindedir; yolcu ve yük taşımacılığının güvenliğinden sorumlu olduğu için ekip çalışmasına yatkınlık önem taşır.",
+ "egitim": {
+  "belge": "Kurum içi eğitim ve uygulama sürecini başarıyla tamamlayanlara işveren kuruluş tarafından göreve başlama yetki belgesi veya iç sertifika verilir; ayrı bir diploma/lisans programı bulunmamaktadır.",
+  "giris_kosullari": [
+   "Ortaöğretimi (lise ve dengi) tamamlamış olmak",
+   "İlgili demiryolu işletmesinin açtığı personel alım sınavı ve/veya mülakatında başarılı olmak",
+   "Görevin gerektirdiği sağlık ve fiziksel yeterlilik şartlarını (iyi görme, iyi işitme vb.) taşımak"
+  ],
+  "sure_ve_icerik": "Demiryolu Servis Nezaretçiliği için standart bir örgün ön lisans veya lisans programı bulunmamaktadır. Ortaöğretim mezunu olarak ilgili demiryolu işletmesine personel alım süreciyle girenler, kurum tarafından düzenlenen teorik ve uygulamalı eğitim programlarına ve deneyimli personel nezaretinde işbaşı eğitime tabi tutulur. Bu eğitimlerde demiryolu işletme mevzuatı, sefer ve sinyalizasyon kuralları, vagon ve fren sistemleri, iş sağlığı ve güvenliği, acil durum ve kriz yönetimi gibi konular yer alır.",
+  "verildigi_yerler": "Mesleğin eğitimi, ortaöğretim sonrası demiryolu işletmelerinin (başta TCDD olmak üzere) kendi bünyesinde düzenlediği kurumsal eğitim programları ile işbaşında usta/deneyimli personel yanında verilmektedir. Ayrıca ulaştırma ile ilgili mesleki ve teknik eğitim programları da temel bilgi birikimine katkı sağlayabilir."
+ },
+ "ek_bilgiler": "Görevin yolcu ve yük güvenliğini doğrudan ilgilendirmesi nedeniyle çalışanlar düzenli sağlık muayenelerinden (özellikle görme ve işitme) geçirilebilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda tercih sebebi olabilir. İstihdam büyük ölçüde kamu kuruluşu niteliğindeki demiryolu işletmelerinin personel politikalarına bağlıdır.",
+ "genel_ozellikler": [
+  "Dikkatli ve tetikte olan",
+  "Sorumluluk sahibi",
+  "Ani gelişen durumlar karşısında hızlı ve doğru karar verebilen",
+  "İyi derecede görme ve işitme yeteneğine sahip",
+  "Ekip çalışmasına yatkın",
+  "Stres altında sakin kalabilen",
+  "Fiziksel ve zihinsel dayanıklılığa sahip",
+  "Etkili sözlü iletişim kurabilen"
+ ],
+ "gorevler": [
+  "Amirinden seyrüsefer cetvelini alır.",
+  "Vagonların talimatlarla belirlenen dizi modeline uygun dizilip dizilmediğini kontrol eder ve uygunluğunu sağlar.",
+  "Yük vagonlarına ait evrakları inceler.",
+  "Vagonların fren durumlarını kontrol eder ve treni teslim alır.",
+  "Gelmeyen personelin yerine bir başkasını temin eder.",
+  "Yüklerin yük vagonlarına yüklenmesini ve yolcuların trene binmesini izler.",
+  "Kondüktörlerden aldığı tamam işareti üzerine trenin kalkışa hazır olduğunu hareket memuruna bildirir.",
+  "İstasyonlara giriş ve çıkışlarda makasların açık olup olmadığına ve ikaz işaretlerine bakarak makiniste gerekli ikazlarda bulunur.",
+  "Seyir esnasında personelin çalışmalarını kontrol eder.",
+  "Tehlike anında bulunduğu vagondaki fren musluğunu açarak treni durdurur.",
+  "Sefer sırasındaki olaylara müdahale eder ve tutanak tutar.",
+  "Durumu emniyet şefine veya emniyet kuvvetlerine bildirir.",
+  "Sefer bitiminde gerekli kontrolleri yaparak zimmet karşılığında treni hareket memuruna teslim eder.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "is_hayatinda": "Deneyim ve kıdem kazandıkça kurum içi sınav ve değerlendirmelerle daha üst sorumluluk gerektiren görevlere (istasyon şefliği, trafik kontrolörlüğü, nezaretçi amirliği vb.) atanabilir. Hizmet içi eğitimler, seminerler ve teknik kurslarla mesleki yetkinlik geliştirilebilir.",
+  "mesleki_egitimde": "Bu meslek için örgün bir ön lisans/lisans ilerleme basamağı bulunmamaktadır; ancak ulaştırma ve lojistik alanında açılan ön lisans/lisans programları, demiryolu işletmeciliği ve yönetimi konusunda bilgi birikimini artırarak kariyer gelişimine katkı sağlayabilir."
+ },
+ "kazanc": {
+  "egitim_sonrasi": [
+   "Kamu statüsündeki demiryolu işletmelerinde (TCDD gibi) çalışanlar memur statüsündeyse 657 sayılı Devlet Memurları Kanunu'na, işçi statüsündeyse toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde çalışanların ücreti işletmenin büyüklüğü, kişinin deneyimi, bilgisi ve performansına göre değişebilir; işe yeni başlayanlarda genellikle asgari ücret düzeyinde başlar."
+  ],
+  "egitim_suresince": "Mesleğe özgü standart bir örgün eğitim programı bulunmadığından, bu süreçte ayrı bir öğrenci ücreti söz konusu değildir. Demiryolu işletmesi bünyesinde personel olarak işe alınıp kurum içi işbaşı eğitime tabi tutulanlar, bağlı bulundukları kurumun personel statüsüne göre ücret alabilir."
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T16:39:36",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5813
+  }
+ }
+}

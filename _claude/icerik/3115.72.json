@@ -1,0 +1,75 @@
+{
+ "arac_gerec": [
+  "PLC (Programlanabilir Lojik Kontrolör) cihazları ve programlama kabloları",
+  "SCADA ve HMI (operatör panel) yazılımları",
+  "Elektrik şema ve pano malzemeleri",
+  "Multimetre, osiloskop ve izolasyon test cihazı",
+  "Pnömatik devre elemanları (silindir, valf, kompresör)",
+  "Hidrolik devre elemanları (pompa, valf, silindir)",
+  "Sensörler (yakınlık, fotoelektrik, basınç, sıcaklık)",
+  "Kablo soyma, sıkma ve bağlantı takımları",
+  "El aletleri (tornavida, pense takımı, anahtar takımı)",
+  "Dizüstü bilgisayar ve saha arayüz yazılımları",
+  "Konveyör hattı ve robotik kol test/bakım düzenekleri",
+  "Kişisel koruyucu donanım (iş eldiveni, gözlük, kulaklık, iş ayakkabısı)"
+ ],
+ "genel_ozellikler": [
+  "Analitik düşünebilen ve problem çözme yeteneğine sahip,",
+  "Elektrik-elektronik ve mekanik sistemlere ilgili,",
+  "El becerisine sahip,",
+  "Dikkatli, tedbirli ve titiz,",
+  "Takım çalışmasına uygun, iş birliği içinde çalışabilen,",
+  "Teknolojik gelişmeleri takip etmeye istekli,",
+  "Sorumluluk duygusu gelişmiş,",
+  "Düzenli ve planlı çalışabilen"
+ ],
+ "calisma_ortami": "Otomasyon teknikerleri genellikle fabrika ve üretim tesislerinin hem kapalı atölye/kontrol odası ortamlarında hem de üretim hattı sahasında çalışır. Çalışma ortamında hareketli makine parçaları, elektrik panoları, gürültü ve bazı durumlarda yağ-toz gibi unsurlar bulunabilir; bu nedenle iş sağlığı ve güvenliği kurallarına uyum önemlidir. Görev genellikle hem zihinsel (devre/program analizi, arıza teşhisi) hem de bedensel (kablolama, montaj, saha müdahalesi) çalışmayı birlikte gerektirir.\n\nÜretim tesislerinin çalışma düzenine bağlı olarak vardiyalı çalışma söz konusu olabilir. Meslek elemanı; mühendisler, diğer teknisyen ve teknikerler, üretim operatörleri ve bakım ekipleriyle yakın iş birliği içinde çalışır.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi, üniversitelere bağlı meslek yüksekokullarının Kontrol ve Otomasyon Teknolojisi veya yakın içerikli (örn. Mekatronik, Elektrik-Elektronik) önlisans programlarında verilmektedir.",
+  "giris_kosullari": [
+   "Lise veya dengi okul mezunu olmak",
+   "YKS (TYT) sınavına girerek yeterli puanı almak ve ilgili önlisans programını tercih etmek",
+   "Meslek liselerinin ilgili alan/dallarından mezun olanlar, sınavsız geçiş veya ek puan gibi avantajlardan faydalanabilir"
+  ],
+  "sure_ve_icerik": "Eğitim süresi 2 yıl (4 yarıyıl) olup örgün önlisans düzeyinde verilir. Program kapsamında elektrik-elektronik temelleri, PLC programlama, SCADA/HMI sistemleri, pnömatik-hidrolik sistemler, sensörler, endüstriyel otomasyon ve mekanik sistemler gibi dersler yer alır. Ayrıca işletmelerde staj uygulaması bulunmaktadır.",
+  "belge": "Eğitimi başarıyla tamamlayanlara önlisans diploması verilir ve \"Kontrol ve Otomasyon Teknolojisi Teknikeri\" unvanı kazandırılır."
+ },
+ "calisma_alanlari": "Otomasyon teknikerleri; otomotiv, gıda, tekstil, metal, kimya gibi sektörlerdeki üretim ve imalat tesislerinde, otomasyon sistemleri kuran, satan ve bakımını yapan firmalarda, makine ve ekipman üreticilerinde, bakım-onarım hizmeti sunan işletmelerde istihdam edilebilir. Ayrıca kamuya bağlı üretim tesislerinde teknik personel olarak çalışabilir. Deneyim ve sermaye birikimiyle sınırlı ölçekte kendi teknik servis/bakım işletmesini kurabilir.",
+ "kazanc": {
+  "egitim_suresince": "Önlisans eğitimi sırasında işletmelerde staj yapan öğrenciler, ilgili mevzuat kapsamında belirlenen esaslara göre staj ücreti alabilir; staj dönemindeki iş kazası ve meslek hastalığı sigortası genellikle kurum tarafından karşılanır.",
+  "egitim_sonrasi": [
+   "İşe başlangıçta kazanç genellikle asgari ücret düzeyinde veya buna yakın olup, çalışılan işletmenin büyüklüğü, sektör ve kişinin tecrübesine göre değişebilir",
+   "Kamuda istihdam edilenler 657 sayılı Devlet Memurları Kanunu'na bağlı olarak teknik hizmetler sınıfında ücretlendirilir; işçi statüsünde çalışanlarda ise ilgili toplu iş sözleşmesi hükümleri geçerlidir",
+   "Deneyim, uzmanlık alanı (PLC, SCADA, robotik sistemler vb.) ve sahip olunan sertifikalarla kazanç düzeyi artabilir"
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Önlisans eğitimini tamamlayanlar, Dikey Geçiş Sınavı (DGS) ile elektrik-elektronik mühendisliği, mekatronik mühendisliği veya endüstriyel otomasyon mühendisliği gibi ilgili lisans programlarına geçiş yapabilir. Ayrıca kurslar, sertifika programları ve hizmet içi eğitimlerle bilgi ve becerilerini güncelleyebilir.",
+  "is_hayatinda": "Mesleki deneyim kazanan teknikerler; kıdemli tekniker, bakım/teknik ekip sorumlusu, saha koordinatörü gibi pozisyonlara yükselebilir. Mesleki Yeterlilik Kurumu (MYK) belgesi ve ek sertifikalar (PLC, SCADA, robotik sistemler gibi) istihdamda ve kariyer ilerlemesinde tercih sebebi olabilir."
+ },
+ "benzer_meslekler": [
+  "Kontrol ve Otomasyon Teknolojisi Teknikeri (Kontrol Sistemleri Teknikeri)",
+  "Hidrolik-Pnömatik Teknisyeni",
+  "Raylı Sistemler Mekotronik Teknisyeni",
+  "Endüstriyel Mekanik Teknisyeni",
+  "CNC Programcısı",
+  "Bilgisayarlı Makine İmalatı Teknisyeni"
+ ],
+ "ek_bilgiler": "Sanayi 4.0 ve akıllı üretim sistemlerinin yaygınlaşmasıyla birlikte otomasyon alanında yetişmiş teknik personele olan talep artış eğilimindedir. Saha çalışmalarında elektrik ve hareketli makine ekipmanlarıyla temas söz konusu olduğundan iş sağlığı ve güvenliği kurallarına eksiksiz uyum büyük önem taşır.",
+ "gorevler": [
+  "Otomasyon projelerinin saha uygulamasını ve kablolamasını yapar",
+  "SCADA ve HMI (operatör panel) arayüzlerini kontrol eder",
+  "Pnömatik ve hidrolik otomasyon bileşenlerinin ayarlarını yürütür",
+  "Üretim hattındaki duruş sürelerini azaltacak teknik müdahaleler yapar",
+  "Yeni ekipmanların sisteme entegrasyon testlerini gerçekleştirir",
+  "Mesleki gelişim faaliyetlerinde bulunur"
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T09:34:32",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5187
+  }
+ }
+}

@@ -1,0 +1,89 @@
+{
+ "arac_gerec": [
+  "SCADA (Denetleme Kontrol ve Veri Toplama) yazılımı kurulu bilgisayarlar ve çoklu monitör sistemleri",
+  "Şebeke yönetim ve coğrafi bilgi sistemi (CBS) yazılımları",
+  "Alarm, sinyal ve olay takip/izleme ekranları",
+  "Telsiz, telefon ve dahili haberleşme sistemleri",
+  "Uzaktan kumanda ve kontrol panelleri",
+  "Kesintisiz güç kaynağı (UPS) ve yedekli sistem altyapısı",
+  "Kayıt, raporlama ve vardiya devir-teslim yazılımları",
+  "Yük akışı ve enerji izleme yazılımları",
+  "Olay/arıza bildirim ve çağrı yönetim sistemleri",
+  "Kişisel koruyucu donanım (saha denetim ziyaretlerinde kullanılan)"
+ ],
+ "benzer_meslekler": [
+  "Elektrik Dağıtım Şebekesi Saha Koordinatörü",
+  "Elektrik Dağıtım Şebekesi Test Görevlisi",
+  "Elektrik Dağıtım Şebekesi Hat Bakım Görevlisi",
+  "Elektrik Dağıtım Şebekesi Kayıp-Kaçak ve Ölçü Kontrol Görevlisi",
+  "Elektrik Dağıtım Şebekesi İşletme Bakım Teknisyeni",
+  "Röle Ölçü Aletleri Teknisyeni / Röle Görevlisi"
+ ],
+ "calisma_alanlari": "Elektrik Dağıtımı SCADA Operatörü, başta elektrik dağıtım şirketlerinin (EDAŞ) bölge işletme müdürlükleri bünyesindeki dağıtım şebekesi kontrol merkezleri (SCADA/DMS merkezleri) olmak üzere, enerji nakil ve dağıtım tesislerinde, bazı büyük sanayi kuruluşlarının kendi enerji yönetim merkezlerinde görev alabilir.\\n\\nTürkiye'de elektrik dağıtımının bölgesel özel şirketler eliyle yürütülmesi ve dağıtım şebekelerinin giderek dijitalleşmesi (akıllı şebeke ve uzaktan izleme yatırımları), şebekenin 7 gün 24 saat kesintisiz izlenmesi zorunluluğu nedeniyle bu meslek elemanlarına olan ihtiyaç sürmektedir. İstihdam olanağı büyük ölçüde özel sektörde (dağıtım şirketleri) yoğunlaşmakla birlikte, kamuya bağlı enerji kuruluşlarında da görev alınabilir.",
+ "calisma_ortami": "Elektrik Dağıtımı SCADA Operatörü, genellikle kapalı ortamda, kontrol merkezi/operasyon odası içinde ekranlar karşısında oturarak görev yapar. Görevi, sürekli ekran takibi, veri okuma ve hızlı karar verme gerektirdiğinden yoğun dikkat ve konsantrasyon ister. Dağıtım şebekesinin kesintisiz izlenmesi gerektiğinden çalışma genellikle vardiyalı sistemle yürütülür; gece, hafta sonu ve resmî tatillerde çalışma olağandır.\\n\\nGörevi sırasında birinci derecede bilgisayar, yazılım ve izleme ekranlarıyla ilgilenir; buna karşılık sahadaki arıza ekipleri, mühendisler, vardiya amirleri ve işletme yöneticileriyle telefon/telsiz üzerinden sık ve yoğun iletişim kurar. Arıza ve kesinti durumlarında zaman baskısı altında, sorumluluğu yüksek kararlar alması gerekebilir; bu nedenle stres yönetimi önem taşır. Nadiren, gerektiğinde kısa süreli saha ziyaretleri de yapabilir.",
+ "egitim": {
+  "verildigi_yerler": "Meslek, Türk Meslekler Sözlüğü'nde ortaöğretim (lise ve dengi) düzeyinde bir giriş eğitimi gerektirmekle birlikte, bu mesleğe özgü bağımsız ve standart bir örgün eğitim programı bulunmamaktadır. Meslek elemanları genellikle mesleki ve teknik ortaöğretim kurumlarının elektrik-elektronik teknolojisi alanı ile elektrik tesisatları ve dağıtımı dalından ya da üniversitelerin elektrik, elektrik-elektronik, enerji sistemleri gibi ön lisans/lisans programlarından mezun olanlar arasından seçilerek işe alınır ve işletme içinde SCADA sistemleri ile şebeke işletme esasları konusunda eğitilerek yetiştirilir. Ayrıca İŞKUR'un açtığı mesleki eğitim kursları ve dağıtım şirketlerinin düzenlediği hizmet içi eğitim programları da bu alanda yetişmeye katkı sağlamaktadır.",
+  "giris_kosullari": [
+   "En az ortaöğretim (lise veya dengi okul) mezunu olmak",
+   "Tercihen elektrik-elektronik teknolojisi alanından veya elektrik/elektronik ile ilgili bir ön lisans/lisans programından mezun olmak",
+   "İşletmenin açtığı işe alım sınavı/mülakatında başarılı olmak",
+   "Bilgisayar ve yazılım kullanımına yatkın olmak"
+  ],
+  "sure_ve_icerik": "Örgün bir eğitim süresi tanımlı değildir. İşe başlangıçta işletme içinde oryantasyon ile SCADA/DMS yazılımı kullanımı, şebeke topolojisi ve işletme kuralları, alarm-arıza yönetimi, planlı kesinti koordinasyonu, iş sağlığı ve güvenliği ile kalite yönetim sistemi uygulamaları konularında teorik ve uygulamalı eğitimler verilir. Bu eğitimler işletmeden işletmeye değişmekle birlikte genellikle haftalar-aylar süren bir süreçte, kıdemli operatör gözetiminde işbaşında tamamlanır.",
+  "belge": "Bu meslek için örgün eğitim sonunda verilen standart bir diploma veya sertifika bulunmamaktadır; ortaöğretim ya da ön lisans/lisans diploması ile işe girilir. İşletme içi eğitim süreçlerini tamamlayanlara kurum içi katılım/yeterlilik belgesi verilebilir. Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "ek_bilgiler": "Elektrik dağıtım şebekelerinin dijitalleşmesi ve akıllı şebeke yatırımlarının artması, SCADA/DMS merkezlerinde çalışan operatörlere olan ihtiyacı artırmaktadır. Meslek, 7 gün 24 saat kesintisiz işletme gerektiren bir sistemde görev yapıldığından vardiyalı çalışma düzeni ile yürütülür. Kurumlar arasında eğitim süresi, içeriği ve kullanılan SCADA yazılımları farklılık gösterebilir.",
+ "genel_ozellikler": [
+  "Dikkatli ve sürekli konsantrasyonunu koruyabilen,",
+  "Sorumluluk duygusu gelişmiş,",
+  "Hızlı ve doğru karar verebilen,",
+  "Stres altında sakin kalabilen,",
+  "Takım çalışmasına ve ekiplerle koordinasyona uyumlu,",
+  "İyi derecede sözlü iletişim kurabilen,",
+  "Bilgisayar ve teknolojiye ilgili,",
+  "Analitik düşünebilen ve problem çözme becerisine sahip,"
+ ],
+ "gorevler": [
+  "İş sağlığı ve güvenliği konusundaki yasal ve işletmeye ait kuralları uygular",
+  "Risk etmenlerini azaltır",
+  "Acil durum yöntemlerini uygular",
+  "Çevresel risklerin azaltılmasına katkıda bulunur",
+  "Kalite yönetim sistemi dokümanlarına uygun çalışır",
+  "SCADA çalışma envanterini güncel tutar",
+  "Çalışma donanımlarının, cihaz ve aletlerinin çalışabilirlik durumlarını denetler",
+  "Sisteme giriş yapar",
+  "SCADA ekipmanlarının çalışabilirlik durumlarını takip eder ve raporlar",
+  "İlgili arıza ekibini yönlendirir",
+  "Sahada çalışan ekiplere uygun çalışma ortamının hazırlanmasına yardımcı olur",
+  "SCADA sinyal ve alarmlarının takibini yapar",
+  "Dahili alarmların takibini yapar",
+  "Harici alarmların takibini yapar",
+  "SCADA operasyonlarını yönetir",
+  "Şebekede oluşan arızaları tespit eder",
+  "Arızalı bölgenin izole edilmesini sağlar",
+  "Sistemi normal besleme durumuna getirir",
+  "Planlı enerji kesintilerini koordine eder",
+  "Yük aktarımlarını gerçekleştirir",
+  "Raporlamaları oluşturur",
+  "Mesleki gelişim faaliyetlerine katılır"
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Bu mesleğe özgü bağımsız bir örgün ilerleme basamağı bulunmamaktadır. Ortaöğretim mezunu olarak işe başlayanlar, isterlerse elektrik-elektronik teknolojisi, elektrik enerjisi üretim-iletim ve dağıtımı gibi ön lisans programlarına veya elektrik-elektronik mühendisliği, elektrik mühendisliği gibi lisans programlarına yönelerek tekniker/mühendis unvanına ilerleyebilir. Ayrıca Mesleki Yeterlilik Kurumu (MYK) belgelendirme sınavlarına girerek yeterliliğini belgeleyebilir.",
+  "is_hayatinda": "Deneyim ve bilgi birikimi arttıkça operatör yardımcılığından kıdemli SCADA operatörlüğüne, vardiya amirliğine ve kontrol merkezi şefliğine/yöneticiliğine yükselme olanağı bulunmaktadır. İleri kariyer basamaklarında şebeke işletme mühendisliği veya işletme müdürlüğü gibi görevlere geçiş mümkündür."
+ },
+ "kazanc": {
+  "egitim_suresince": "Bu meslek için 3308 sayılı Mesleki Eğitim Kanunu kapsamında bir çıraklık/stajyerlik ücretlendirmesi söz konusu değildir. İşe alınan kişi, işletme içi eğitim sürecinde işletmenin ücret politikasına göre normal ücretini alır; bu ücret genellikle asgari ücret düzeyinde başlar.",
+  "egitim_sonrasi": [
+   "Kamuya bağlı enerji/dağıtım kuruluşlarında çalışanlar, tabi oldukları mevzuata veya toplu iş sözleşmesine göre ücret alır.",
+   "Özel sektörde ücret, işletmenin büyüklüğüne, çalışanın deneyimine, bilgi ve yeteneğine, çalışma kapasitesine ve sektörün genel ücret düzeyine göre değişebilmekte, genellikle asgari ücretin üzerinde başlamaktadır."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T09:14:17",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 8300
+  }
+ }
+}

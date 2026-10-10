@@ -1,0 +1,93 @@
+{
+ "arac_gerec": [
+  "Kişisel bilgisayar ve dizüstü bilgisayarlar",
+  "Sunucu (server) donanımları ve raf kabinleri",
+  "Ağ donanımları (switch, router, access point, modem, ağ kartı)",
+  "Ağ kabloları, RJ45 konektör, kablo test cihazı, kablo pensesi",
+  "El aletleri (tornavida takımı, pense, yan keski, kablo soyma aleti)",
+  "Ölçü aletleri (multimetre/avometre)",
+  "Çevre birimleri (yazıcı, tarayıcı, projeksiyon cihazı, harici disk)",
+  "Yedekleme ve veri taşıma üniteleri (USB bellek, harici disk, yedekleme cihazı)",
+  "İşletim sistemi kurulum ve sürücü yükleme araçları",
+  "Envanter ve varlık takip yazılımları",
+  "Uzaktan erişim ve destek yazılımları",
+  "Antivirüs ve ağ güvenliği yazılımları",
+  "Dizin hizmeti (kullanıcı/kaynak yönetimi) yazılımları",
+  "Ofis yazılımları ve internet uygulamaları"
+ ],
+ "genel_ozellikler": [
+  "Sistemli ve analitik düşünebilen,",
+  "Dikkatli, sabırlı ve sorumluluk sahibi,",
+  "El ve göz koordinasyonu iyi,",
+  "Problem çözme yeteneğine sahip,",
+  "Yeni teknolojileri takip etmeye istekli ve kendini geliştirebilen,",
+  "Kullanıcılarla sabırlı ve anlaşılır iletişim kurabilen,",
+  "Takım çalışmasına uyumlu,",
+  "Ayrıntılara önem veren"
+ ],
+ "calisma_ortami": "\"Bilgi işlem destek elemanları genellikle kapalı ortamlarda; bilgi işlem odaları, sunucu odaları ve büro ortamlarında çalışır. Kurulum, bakım ve arıza giderme işlemleri için işletme içindeki farklı birimlere giderek kullanıcıların bulunduğu ofis ve çalışma alanlarında da görev yapabilirler. Çalışma sırasında çoğunlukla oturarak bilgisayar başında bulunurlar; donanım kurulumu ve kablolama gibi işlerde ise ayakta ve hareketli çalışabilirler.\\n\\nMesleğin icrası sırasında elektrikli cihazlarla ve kablolarla çalışıldığından dikkat gerektiren güvenlik riskleri bulunabilir; uzun süre ekran karşısında çalışma nedeniyle göz, boyun ve sırt yorgunluğu görülebilir. Çalışma saatleri genellikle işyerinin mesai saatleriyle sınırlıdır; ancak sistem arızaları ve kesinti durumlarında mesai dışı veya hafta sonu çağrılabilirler. Görevleri sırasında yöneticiler, meslektaşları ve işletme içindeki tüm kullanıcılarla sürekli iletişim kurarlar.\"",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi, mesleki ve teknik ortaöğretim okul/kurumlarının Bilişim Teknolojileri alanı kapsamındaki ilgili dallarında verilmektedir. Ayrıca Halk Eğitim Merkezleri, İŞKUR ve özel kurumların açtığı bilgisayar donanımı, ağ ve sistem destek konularındaki mesleki eğitim kurslarında da bu mesleğe yönelik eğitim verilmektedir.",
+  "giris_kosullari": [
+   "Ortaöğretim düzeyindeki eğitim için ortaokulu tamamlamış olmak",
+   "Milli Eğitim Bakanlığınca okul türüne ve alan/dala göre belirlenen giriş koşullarını taşımak",
+   "Kurslara katılım için genellikle en az ortaöğretim mezunu olmak"
+  ],
+  "sure_ve_icerik": "Mesleki ve teknik ortaöğretim kapsamında eğitim süresi 4 yıldır. 9. sınıfta ortak genel kültür dersleri ve alanın temel kazanımları verilir, yıl sonunda öğrenci ilgili dalını seçer. 10, 11 ve 12. sınıflarda bilgisayar donanımı, ağ sistemleri, işletim sistemi kurulumu, sunucu yapılandırması ve kullanıcı desteği gibi konuları içeren meslek dersleri okulda teorik ve uygulamalı, işletmelerde ise uygulamalı olarak verilir. Halk Eğitim Merkezleri ve İŞKUR tarafından açılan kurslar ise genellikle kısa süreli olup bilgisayar donanımı, ağ temelleri ve teknik destek konularına odaklanır.",
+  "belge": "Ortaöğretim yoluyla eğitimi tamamlayanlara Meslek Lisesi diploması verilir. Kurs yoluyla eğitim alanlara ise kursu düzenleyen kurum tarafından katılım veya başarı belgesi verilir. Mesleki Yeterlilik Kurumu (MYK) tarafından düzenlenen belgeler, istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "\"Bilgisayar kullanımının yaygınlaşması nedeniyle bilgi işlem destek elemanları, kamu ve özel sektördeki bilgi işlem/bilgi teknolojileri birimi bulunan her türlü işletmede istihdam edilebilir. Bankalar, sigorta şirketleri, bilişim ve teknik destek firmaları, eğitim kurumları, hastaneler, üretim ve hizmet sektöründeki kurumsal işletmeler, kamu kurum ve kuruluşları başlıca çalışma alanlarıdır. Deneyim kazandıktan sonra teknik servis veya BT destek hizmeti veren firmalarda da çalışabilirler. Yabancı dil bilgisine sahip olmaları ve teknolojik gelişmeleri takip etmeleri iş bulma olanaklarını artırmaktadır.\"",
+ "kazanc": {
+  "egitim_suresince": "Ortaöğretim kapsamında işletmelerde mesleki eğitim gören öğrencilere, 3308 sayılı Mesleki Eğitim Kanunu çerçevesinde belirlenen tutarlarda ücret ödenir ve iş kazası ile meslek hastalıkları sigortası devletçe karşılanır. İŞKUR veya Halk Eğitim Merkezi kurslarına katılanlara, kursun niteliğine göre kursiyer ücreti ve sigortası sağlanabilir.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında istihdam edilenler 657 sayılı Devlet Memurları Kanunu'na veya işçi statüsünde çalışanlar ilgili toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde çalışanların ücreti işyerinin büyüklüğüne, çalışanın deneyimine ve bilgi/beceri düzeyine göre değişir; mesleğe yeni başlayanlarda ücret genellikle asgari ücret düzeyinde olup deneyim ve uzmanlaşma ile artış gösterir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Ortaöğretim kapsamında eğitim alanlar, 9. sınıf sonunda ilgi ve yetenekleri doğrultusunda Bilişim Teknolojileri alanı içindeki dallardan birini seçerek eğitimlerini bu dalda sürdürür. Eğitim sonrasında ilgili mesleki eğitim kurumlarında veya kurslarda sertifika programlarına katılarak bilgi ve becerilerini geliştirebilirler.",
+  "is_hayatinda": "Mesleğe yeni başlayanlar genellikle donanım kurulumu ve temel kullanıcı desteği görevlerinde yer alır. Deneyim ve bilgi birikimi arttıkça ağ sistemleri, sunucu yönetimi veya bilgi güvenliği gibi konularda uzmanlaşarak bilgi işlem destek sorumlusu, sistem/ağ yöneticisi veya bilgi işlem birimi sorumlusu gibi görevlere yükselebilirler. İlgili alanlarda ek eğitim ve sertifikalarla kariyer gelişimi desteklenebilir."
+ },
+ "benzer_meslekler": [
+  "Ağ İşletmeni / Ağ Teknolojileri Elemanı",
+  "Bilgi İşlem Destek Sorumlusu",
+  "Bilgisayar Teknisyeni",
+  "Sistem İşletmeni",
+  "Bilgi İşlem Donanım Görevlisi",
+  "Bilgisayar Teknik Servisçisi/Bilgisayar Donanım Teknisyeni"
+ ],
+ "ek_bilgiler": "\"Mesleğin elektrikli cihazlar ve kablolama ile ilgili yönleri nedeniyle temel iş sağlığı ve güvenliği bilgisi önem taşır. Mesleki Yeterlilik Kurumu (MYK) belgesi ve üretici firmalara ait teknik sertifikalar, istihdamda tercih sebebi olabilir.\"",
+ "gorevler": [
+  "İş sağlığı ve güvenliği, yangın ve acil durum kurallarını uygular.",
+  "Kalite yönetim sistemi ile ilgili faaliyetleri yürütür.",
+  "İş organizasyonu yapar.",
+  "Bilgisayar ve ağ sistemlerinde meydana gelebilecek arızaları belirlemek ve sistemlerin istenilen şekilde çalışmasını sağlamak için gerekli elektrik, elektronik, bilgisayar ve ağ teknolojileri, internet ve ofis programlarını kullanır.",
+  "BT donanım parkının oluşturulmasına ve yazılımların teminine destek verir.",
+  "İşletmenin BT donanım ve yazılım alımlarına teknik destek sağlar.",
+  "Satın alınan BT donanımlarının ve yazılımların teslim alma işlemlerini gerçekleştirir.",
+  "İşletmenin envanterindeki donanım ve yazılımlar ile ilgili periyodik takipleri gerçekleştirir.",
+  "BT sistemlerinin fiziksel kurulumlarını yapar.",
+  "BT donanımlarının fiziksel kurulumlarını gerçekleştirir.",
+  "Ağ donanımlarının ve sunucu sistemlerinin yapılandırılmasına katkı verir.",
+  "Sunucu işletim sistemlerinin kurulumlarını yapar.",
+  "Kablosuz ağ güvenliğini sağlar.",
+  "Dizin hizmetini yapılandırır.",
+  "Sunucular üzerinde çalışacak diğer ağ servislerini yapılandırır.",
+  "Kişisel bilgisayar sistemlerini ve çevre birimlerini yapılandırır ve ilk çalıştırmasını yapar.",
+  "İşletim sistemini ve donanım sürücülerini yükler.",
+  "Ortak kullanıma sunulacak çevre birimlerini yapılandırır.",
+  "BT sistemlerinin bakımını yapar.",
+  "BT donanımlarını ve ağ yapılarını değiştirir.",
+  "BT sistemlerinin sorunlarını giderir.",
+  "İşletme içi kullanıcılara BT desteği sunar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T15:04:25",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6652
+  }
+ }
+}

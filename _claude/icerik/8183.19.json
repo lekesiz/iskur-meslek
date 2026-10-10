@@ -1,0 +1,81 @@
+{
+ "arac_gerec": [
+  "Paketleme makinesi",
+  "Ambalaj malzemeleri (poşet, kutu, şişe, torba vb.)",
+  "Hassas tartı/terazi",
+  "Konveyör bant",
+  "Kolileme makinesi ve koli bantlama malzemeleri",
+  "El arabası, transpalet",
+  "Paketleme fişleri ve sipariş formları",
+  "Etiketleme ekipmanı",
+  "Koruyucu bone, eldiven, önlük ve maske",
+  "Basit el aletleri (tornavida, pense vb.)",
+  "Temizlik ve hijyen malzemeleri"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli,",
+  "El ve göz koordinasyonu iyi,",
+  "Sorumluluk sahibi,",
+  "Hızlı ve pratik iş yapabilen,",
+  "Düzenli ve temiz çalışmaya özen gösteren,",
+  "Ekip çalışmasına uyumlu,",
+  "Ayakta ve tempolu çalışmaya dayanıklı,",
+  "Talimatlara uyan"
+ ],
+ "calisma_ortami": "Kuruyemiş paketleme işçisi, gıda üretim tesislerinin ve fabrikaların paketleme atölyelerinde, kapalı ortamda çalışır. Çalışma süresince genellikle ayakta ve makine başında bulunulur; ortamda makine gürültüsü olabilir ve gıda güvenliği gereği hijyen kurallarına (bone, önlük, eldiven kullanımı gibi) uyulması gerekir. İşin yoğunluğuna göre vardiyalı çalışma düzeni uygulanabilir.\n\nÇalışma sırasında üretim/imalat bölümü çalışanları, kalite kontrol personeli, vardiya veya hat sorumlusu, kolileme ve sevkiyat ekibiyle sürekli iletişim ve koordinasyon içinde olunur.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi için örgün bir okul veya meslek lisesi programı bulunmamaktadır. Meslek genellikle işyerlerinde işbaşında, usta yanında veya işletmenin kendi iç eğitim süreciyle öğrenilir. Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kursları da gıda üretimi/paketleme alanında destekleyici eğitimler sunabilir.",
+  "giris_kosullari": [
+   "İlköğretim mezunu olmak",
+   "İşin gerektirdiği fiziksel görevleri (ayakta çalışma, tekrarlı el hareketleri vb.) yerine getirebilecek sağlık durumuna sahip olmak",
+   "Kurslara katılım için genellikle 18 yaşından büyük olmak; küçükler için veli izni gerekebilir"
+  ],
+  "sure_ve_icerik": "Örgün ve standart bir eğitim programı bulunmadığından süre ve içerik işletmeden işletmeye değişir. Genellikle kısa süreli işbaşı eğitimiyle paketleme makinesinin kullanımı, ambalaj türleri, hijyen ve gıda güvenliği kuralları, iş güvenliği önlemleri ve temel ürün bilgisi öğretilir.",
+  "belge": "Resmi bir diploma veya sertifika zorunluluğu bulunmamaktadır. Katılınan kurslardan 'Kurs Bitirme Belgesi' alınabilir; Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Kuruyemiş paketleme işçileri; kuruyemiş, fındık, fıstık, çekirdek, kavrulmuş ürünler gibi malların üretildiği gıda fabrikalarında ve paketleme tesislerinde istihdam edilir. Çalışma alanı çoğunlukla özel sektördür. Bazı dönemlerde (bayramlar, kış ayları gibi) talebin artmasına bağlı olarak işe alımlarda mevsimsel dalgalanma görülebilir.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğin ayrı, ücretsiz bir eğitim süreci bulunmadığından; işbaşında eğitim genellikle ücretli çalışma kapsamında yürütülür.",
+  "egitim_sonrasi": [
+   "Mesleğe genellikle asgari ücret düzeyinde başlanır.",
+   "Çalışılan işletmenin büyüklüğü, deneyim, performans ve vardiya düzenine göre ücrette artış olabilir.",
+   "Özel sektörde çalışıldığından ücret, işveren ile işçi arasında karşılıklı anlaşmaya göre belirlenir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğin örgün bir eğitim kademesi veya resmi ilerleme basamağı bulunmamaktadır; ilgili kurslara katılarak bilgi ve beceriler geliştirilebilir.",
+  "is_hayatinda": "Deneyim ve performansa bağlı olarak vardiya sorumluluğu, hat sorumluluğu veya paketleme/üretim bölümü ustabaşılığı gibi görevlere yükselme mümkündür."
+ },
+ "benzer_meslekler": [
+  "Paketleme Makinesi Operatörü (Cips)",
+  "Kavurma Vakumlama Makinesi Operatörü",
+  "Çay Paketleme Makinesi Operatörü",
+  "Tuz Paketleme İşçisi",
+  "Un Paketleme İşçisi",
+  "Ambalajcı (Makine İle)"
+ ],
+ "ek_bilgiler": "Kuruyemiş sektöründe talep, bayram dönemleri ve kış aylarında artış gösterebildiğinden işe alımlarda mevsimsel hareketlilik görülebilir.",
+ "gorevler": [
+  "Paketleme siparişlerini alır.",
+  "İmalattan gelen ürün bilgilerini alır.",
+  "Gelen ürünleri paketleme fişleriyle karşılaştırır.",
+  "Uygun olmayan ürünleri ilgili birimlere sevk eder.",
+  "Paketleme makinesinin program ayarlarını yapar.",
+  "Paketlemeye uygun ambalajı makineye takar.",
+  "Kullanıma hazır hale gelen makine haznesine kuruyemişleri boşaltır.",
+  "Makineyi çalıştırır.",
+  "Dolum esnasında paketleme sürecinde aksaklık olup olmadığını gözlemler.",
+  "Dolumu yapılan ürünlerin kolileme bölümüne sevkiyatını sağlar.",
+  "Paketleme esnasında makinede arıza olursa müdahale eder.",
+  "Tamiri mümkün olmayan arızaları ilgili birime bildirir.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T17:15:51",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 4939
+  }
+ }
+}

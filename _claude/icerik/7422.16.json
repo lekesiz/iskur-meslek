@@ -1,0 +1,80 @@
+{
+ "arac_gerec": [
+  "Bilgisayar, klavye, mouse ve monitör",
+  "İşletim sistemi yazılımları",
+  "Entegre geliştirme ortamı (IDE) yazılımları",
+  "Derleyici/yorumlayıcı yazılımlar",
+  "Veritabanı yönetim sistemi yazılımları",
+  "Sürüm kontrol (versiyon yönetimi) sistemleri",
+  "Hata ayıklama (debug) araçları",
+  "Teknik dokümantasyon, kılavuz ve kaynak kodu kütüphaneleri",
+  "İnternet bağlantısı ve iletişim araçları",
+  "Yazıcı ve veri yedekleme cihazları"
+ ],
+ "benzer_meslekler": [
+  "Görsel Programlama Elemanı",
+  "Mobil Programlama Elemanı",
+  "Bilgisayar Ağ Veri Tabanı Elemanı"
+ ],
+ "calisma_alanlari": "Bilgi teknolojileri sektörünün hızla büyümesine paralel olarak yazılım geliştiren özel şirketlerde, bilgi işlem birimi bulunan kamu kurumlarında; bankacılık, finans, e-ticaret, oyun geliştirme ve mobil uygulama geliştirme gibi birçok sektörde istihdam edilebilmektedir. Ayrıca proje bazlı serbest (freelance) çalışma imkânı da bulunmaktadır. Nitelikli olan ve kendini sürekli güncelleyen programcılar için iş bulma olanakları genel olarak olumludur.",
+ "calisma_ortami": "Genellikle kapalı ortamlarda, büro veya ofis düzeninde bilgisayar başında çalışır. Çalışma saatleri çoğunlukla düzenli mesai saatleri içindedir; ancak proje teslim tarihlerine yaklaşıldığında yoğun ve fazla çalışma gerekebilir.\n\nİş, uzun süre ekran karşısında oturarak yapılan masa başı niteliğinde olduğundan göz ve bel yorgunluğu gibi ergonomik riskler söz konusu olabilir. Çalışırken daha çok bilgisayar ve yazılım araçlarıyla ilgilenir; bununla birlikte ekip arkadaşları, proje yöneticileri, test uzmanları ve bazen müşterilerle iletişim kurması gerekir.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin temel eğitimi mesleki ve teknik eğitim okullarının bilişim teknolojileri alanı ile ilgili dallarında, çeşitli üniversitelerin bilgisayar programcılığı ön lisans programlarında ve bilgisayar/yazılım mühendisliği lisans programlarında verilmektedir. Bunun yanında Halk Eğitim Merkezleri ile İŞKUR'un açtığı mesleki eğitim kurslarında da nesne tabanlı programlama konusunda eğitim alınabilmektedir.",
+  "giris_kosullari": [
+   "Mesleki ve teknik eğitim okullarına kayıt için ilköğretim/ortaokul mezunu olmak",
+   "Ön lisans programlarına girmek için lise veya dengi okul mezunu olup YKS'de yeterli puanı almak",
+   "Lisans programlarına girmek için lise veya dengi okul mezunu olup YKS'de ilgili bölümün gerektirdiği puanı almak",
+   "Kurs programlarına katılmak için genellikle ilköğretim mezunu olmak ve kursun belirlediği yaş/ön şartları taşımak"
+  ],
+  "sure_ve_icerik": "Eğitim süresi ve içeriği izlenen yola göre değişmektedir. Mesleki ve teknik eğitim okullarında eğitim süresi 4 yıl olup genel kültür dersleri yanında programlama mantığı, algoritma, nesne tabanlı programlama dilleri ve veritabanı uygulamaları gibi meslek dersleri verilmektedir. Üniversitelerin ön lisans programları genellikle 2 yıl, lisans programları 4 yıl sürmektedir ve bu programlarda nesne tabanlı programlama, veri yapıları, veritabanı ve yazılım geliştirme konuları işlenmektedir. İŞKUR ve Halk Eğitim Merkezi kursları ise genellikle kısa süreli olup temel ve ileri düzey nesne tabanlı programlama konularını kapsamaktadır.",
+  "belge": "Mesleki ve teknik eğitim okullarından mezun olanlar diploma, ön lisans/lisans programlarından mezun olanlar ön lisans/lisans diploması alır. Kurs programlarını tamamlayanlara kursu veren kurum tarafından katılım veya başarı belgesi verilir. Ayrıca ilgili alanda Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "ek_bilgiler": "Bilgi teknolojileri sektöründeki hızlı değişim nedeniyle bu meslekte çalışanların yeni programlama dilleri, çerçeveler (framework) ve teknolojileri sürekli takip etmeleri önem taşımaktadır. Meslekte belirli bir üniversite diploması olmaksızın da kurslar ve kişisel çalışmalarla yetkinlik kazanılabilmekte, ancak kurumsal istihdamda genellikle ön lisans/lisans mezuniyeti tercih edilmektedir.",
+ "genel_ozellikler": [
+  "Matematiksel ve mantıksal düşünme yeteneğine sahip,",
+  "Analitik düşünebilen ve problem çözme becerisi gelişmiş,",
+  "Dikkatli ve sabırlı,",
+  "Yeniliklere açık, teknolojik gelişmeleri takip eden,",
+  "Düzenli ve sistemli çalışabilen,",
+  "Yazılı ve teknik İngilizce kaynakları okuyup anlayabilen,",
+  "Takım çalışmasına uyumlu,",
+  "Öğrenmeye istekli ve kendini sürekli geliştiren"
+ ],
+ "gorevler": [
+  "Nesne tabanlı programlama ortamını kullanarak programlamaya başlar.",
+  "Nesne tabanlı programlamada metotlar yazar ve kapsam uygular.",
+  "Nesne tabanlı programlamada karar ve döngü ifadeleri kullanır.",
+  "Nesne tabanlı programlamada sınıfları ve nesneleri yönetir.",
+  "Nesne tabanlı programlamada değerleri ve başvuruları kullanır.",
+  "Nesne tabanlı programlamada numaralandırma ve yapılar ile değer türleri oluşturur.",
+  "Nesne tabanlı programlamada dizileri ve koleksiyonları kullanır.",
+  "Nesne tabanlı programlamada kalıtım ve arayüz ile çalışır.",
+  "Nesne tabanlı programlamada bileşenler oluşturur.",
+  "Nesne tabanlı programlamada program akışını keser ve olayları işler.",
+  "Nesne tabanlı programlamada Windows uygulamaları ile çalışır.",
+  "Nesne tabanlı programlamada veriyi yönetir.",
+  "Nesne tabanlı programlamada web uygulamaları oluşturur.",
+  "Nesne tabanlı programlamada raporlama yapar ve projenin kurulum projesini oluşturur.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleki ve teknik eğitim okullarından mezun olanlar, alanının devamı niteliğindeki yükseköğretim ön lisans/lisans programlarını tercih ettiklerinde sınavlarda ek puandan yararlanabilirler. Ön lisans mezunları dikey geçiş sınavı ile lisans programlarına geçiş yapabilir. Ayrıca mesleki gelişim kurslarına katılarak yeni programlama dilleri ve teknolojiler öğrenilebilir.",
+  "is_hayatinda": "Deneyim kazanan nesne tabanlı programlamacılar kıdemli yazılım geliştirici, ekip lideri veya proje yöneticisi gibi pozisyonlara yükselebilir. Alanında uzmanlaşarak sistem analistliği veya yazılım mimarlığı gibi görevlere geçebilir; isteyenler kendi yazılım işini/şirketini kurarak işveren olarak çalışabilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Mesleki ve teknik eğitim okullarında işletmelerde mesleki eğitim gören öğrencilere 3308 sayılı Mesleki Eğitim Kanunu çerçevesinde asgari ücretin belirli bir oranında ücret ödenir ve iş kazası ile meslek hastalığına ilişkin sigorta primleri karşılanır. Üniversite öğrencileri staj dönemlerinde işletmeden ücret alabilir; kurs programlarında ise genellikle ücret ödenmemektedir.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında memur statüsünde çalışanlar 657 sayılı Devlet Memurları Kanunu'na, işçi statüsünde çalışanlar ise toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde kazanç; çalışılan işyerinin büyüklüğüne, kişinin bilgi ve deneyimine, bildiği programlama dillerine ve sektöre göre değişmekte olup yeni başlayanlarda genellikle asgari ücret düzeyinde olabilmektedir.",
+   "Deneyim kazanan ve uzmanlaşan programcıların kazançları zamanla artabilir; serbest çalışan veya kendi işini kuranların kazancı proje hacmine göre değişkenlik gösterir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T06:41:07",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 7092
+  }
+ }
+}

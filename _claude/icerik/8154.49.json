@@ -1,0 +1,74 @@
+{
+ "arac_gerec": [
+  "Merserize iplik makinesi",
+  "Kostik (kostik soda) eritme ve karıştırma kazanı/tankı",
+  "Kimyasal madde tankları ve dozajlama ekipmanı",
+  "Silindir/merdane sistemleri",
+  "Yıkama üniteleri",
+  "Kurutma üniteleri",
+  "Hassas tartı/terazi",
+  "pH ölçüm cihazı ve kontrol aletleri",
+  "Taşıma arabası/transpalet",
+  "Kişisel koruyucu donanım (eldiven, önlük, gözlük, maske, çizme)",
+  "Temel bakım-onarım el aletleri"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve tedbirli,",
+  "El becerisine sahip,",
+  "Sorumluluk bilinci yüksek,",
+  "Kimyasal maddelerle çalışmaya uygun sağlık durumuna sahip,",
+  "Talimatlara uyumlu,",
+  "Takım çalışmasına uyumlu,",
+  "Fiziksel olarak dayanıklı,"
+ ],
+ "calisma_ortami": "Merserize iplik makinesi işçisi, iplik veya tekstil terbiye fabrikalarının üretim atölyelerinde, kapalı mekânlarda çalışır. Çalışma ortamı, kullanılan kostik ve diğer kimyasal maddeler nedeniyle nemli, sıcak ve kokulu olabilir; ortamda aşındırıcı ve tahriş edici kimyasallar, gürültü, kaygan ve ıslak zemin gibi riskler bulunur. Bu nedenle çalışma sırasında Kişisel Koruyucu Donanım (KKD) Yönetmeliği hükümlerine uygun koruyucu ekipman kullanılması gerekir.\n\nMeslek elemanı, işletmenin üretim programına bağlı olarak vardiyalı çalışabilir. Çalışma sırasında aynı bölümdeki diğer işçiler, ustabaşı ve bölüm sorumlusu ile sürekli iletişim halindedir.",
+ "gorevler": [
+  "Makine kazanına belirli miktarda eritilmiş kostik alır,",
+  "Üzerine belirli oranlarda diğer kimyasal maddeleri ilave ederek karıştırır,",
+  "Makineyi çalıştırıp iplik çilelerini silindirler arasına vererek kostik kazanından geçmesini sağlar,",
+  "Makineden çıkan iplik çilelerini kontrol eder,",
+  "Kontrol sonucuna göre işlemi uzatır veya durdurur,",
+  "Makineyi temizler,",
+  "Makinenin bakım ve onarımını yapar, merserize hale gelen iplik çilelerini yıkar ve kurutur,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Mesleğin örgün, standart bir eğitim programı bulunmamaktadır. Meslek elemanları genellikle işyerinde usta yanında işbaşı eğitimi yoluyla yetişir. Bilgi ve becerilerin geliştirilmesinde Halk Eğitim Merkezleri ile İşkur'un açtığı mesleki eğitim kurslarından ve tekstil teknolojisi alanındaki ilgili mesleki ve teknik eğitim programlarından yararlanılabilir.",
+  "giris_kosullari": [
+   "İlköğretim mezunu olmak",
+   "Kimyasal maddelerle çalışmaya elverişli sağlık durumuna sahip olmak",
+   "İşe alınacağı işyerinde işbaşı/usta yanında eğitime kabul edilmek"
+  ],
+  "sure_ve_icerik": "Mesleğe özgü belirli bir eğitim süresi ve resmî müfredat bulunmamaktadır. Meslek, genellikle işyerinde usta yanında çalışılarak, gözlem ve uygulama yoluyla kısa sürede öğrenilir. Bu süreçte kimyasal maddelerin hazırlanması ve oranlanması, makinenin çalıştırılması, üretim sürecinin kontrolü, makinenin temizliği ile basit bakım ve onarım işlemleri öğretilir.",
+  "belge": "Mesleğe yönelik zorunlu bir diploma veya sertifika bulunmamaktadır. Katılınan kurslardan katılım/başarı belgesi alınabilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Merserize iplik makinesi işçisi; iplik üreten fabrikalarda, iplik terbiye ve bitim işlemleri yapılan işletmelerde, kasar ve apre atölyelerinde çalışabilir.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğe yönelik örgün bir çıraklık eğitimi programı bulunmadığından, işbaşında eğitim alanlar genellikle çalıştıkları işletmenin ücret politikasına göre bir ücret alır.",
+  "egitim_sonrasi": [
+   "İşe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Deneyim, işteki performans, görev ve pozisyon ile çalışılan işletmenin büyüklüğüne göre ücretler değişebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğe özgü kademeli bir örgün eğitim sistemi bulunmamaktadır. İsteyenler, Halk Eğitim Merkezleri ve İŞKUR kurslarına katılarak veya tekstil teknolojisi alanındaki ilgili mesleki ve teknik eğitim programlarına yönelerek bilgi ve becerilerini geliştirebilir.",
+  "is_hayatinda": "Deneyim kazanan meslek elemanları, çalıştıkları işyerinde usta, ustabaşı veya bölüm sorumlusu düzeyine kadar ilerleyebilir."
+ },
+ "benzer_meslekler": [
+  "Mensucat Beyazlatıcı",
+  "Tekstil Terbiye İşçisi (Apre)",
+  "İplik-Elyaf Boyama Makinesi Operatörü",
+  "İplik ve Örgü Yünü Yıkama İşçisi",
+  "İpek Ağırlaştırıcı",
+  "Merserize Kumaş Makinesi İşçisi"
+ ],
+ "ek_bilgiler": "Mesleğin uygulanmasında kostik soda gibi aşındırıcı ve tehlikeli kimyasal maddeler kullanıldığından, iş sağlığı ve güvenliği kurallarına ve kişisel koruyucu donanım kullanımına özellikle dikkat edilmesi gerekir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T14:38:10",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 4560
+  }
+ }
+}

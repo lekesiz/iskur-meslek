@@ -1,0 +1,77 @@
+{
+ "arac_gerec": [
+  "Bilgisayar ve araç muayene takip yazılımı",
+  "Yazıcı ve tarayıcı (scanner)",
+  "Telefon ve internet bağlantısı",
+  "Etiket seti ve etiket yapıştırma ekipmanları",
+  "Kasa/para çekmecesi ve POS cihazı",
+  "Alındı makbuzu/fiş yazdırma cihazı",
+  "İş emri formları ve dosyalama malzemeleri",
+  "Evrak kontrol ve randevu kayıt formları",
+  "Klasör ve arşiv dolapları",
+  "Kırtasiye malzemeleri"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve titiz,",
+  "Düzgün ve anlaşılır diksiyona sahip,",
+  "Sorumluluk duygusu gelişmiş ve dürüst (kasa/nakit işlemleri nedeniyle),",
+  "Güler yüzlü, ikna kabiliyeti yüksek ve insan ilişkilerinde başarılı,",
+  "Planlı ve düzenli çalışabilen,",
+  "Stresli ve yoğun ortamda sakin kalabilen,",
+  "Temel düzeyde bilgisayar kullanabilen,",
+  "Takım çalışmasına uyumlu"
+ ],
+ "calisma_ortami": "Müşteri Kabul Görevlisi (Araç Muayene İstasyonu), araç muayene istasyonlarının müşteri kabul ve kasa biriminde, genellikle kapalı bir büro/gişe ortamında oturarak çalışır. Görevinin gerektirdiği durumlarda, muayene hattının giriş-çıkış bölümüne kısa süreli çıkabileceğinden gürültü, egzoz kokusu ve farklı hava koşullarıyla karşılaşabilir. İstasyonların işletme saatlerine bağlı olarak vardiyalı çalışma düzeni görülebilir.\n\nÇalışma sırasında istasyon amiri, amir yardımcısı, muayene teknik personeli ve diğer büro elemanlarıyla sürekli iş birliği içindedir; en çok zaman ayırdığı kişiler ise işlem yaptırmak için gelen müşterilerdir. Yoğun müşteri trafiği, randevu talepleri ve nakit işlemlerinin bir arada yürütülmesi nedeniyle zaman zaman stresli bir çalışma temposu söz konusu olabilir.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin yürütülmesine yönelik standart ve örgün bir meslek eğitim programı bulunmamaktadır. Genellikle lise ve dengi okul mezunları, çalışacakları araç muayene istasyonu işletmesi tarafından işbaşında ve hizmet içi eğitim yoluyla yetiştirilir. Halk Eğitim Merkezleri ile İŞKUR tarafından açılan büro yönetimi, müşteri ilişkileri ve bilgisayar kullanımı konulu kurslar da mesleğe hazırlık açısından destekleyici olabilir.",
+  "giris_kosullari": [
+   "En az lise veya dengi okul mezunu olmak",
+   "Tercihen büro yönetimi, bilgisayar veya ticaret meslek liseleri ile ilgili alanlardan mezun olmak",
+   "Temel bilgisayar kullanma bilgisine sahip olmak"
+  ],
+  "sure_ve_icerik": "Standart bir eğitim süresi ve müfredatı bulunmamaktadır. İşe alınan kişiler, çalıştıkları araç muayene istasyonunun ve ilgili mevzuatın belirlediği kurallar çerçevesinde; iş emri açma, etiket eşleştirme ve kayıt, kasa açma-kapama ve nakit yönetimi, randevu kaydı ve müşteri ilişkileri konularında kısa süreli işbaşında eğitimle yetiştirilir.",
+  "belge": "Örgün bir eğitim sonunda diploma verilmemektedir; katılınan hizmet içi eğitim veya kurslar sonunda \"Kurs Bitirme Belgesi\" ya da \"Katılım Belgesi\" verilebilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Müşteri Kabul Görevlisi (Araç Muayene İstasyonu), Ulaştırma ve Altyapı Bakanlığı tarafından yetkilendirilen kuruluşların işlettiği araç muayene istasyonlarının müşteri kabul ve kasa birimlerinde çalışır. Edindiği müşteri ilişkileri, evrak takibi ve kasa işlemleri deneyimiyle oto galerileri, araç bakım-onarım servisleri, ekspertiz ve sigorta şirketleri gibi otomotiv sektörüne bağlı işletmelerin müşteri karşılama/kabul birimlerinde de görev alabilir. Araç muayene istasyonu sayısının sınırlı olması nedeniyle bu mesleğe özgü iş bulma olanakları görece dardır.",
+ "kazanc": {
+  "egitim_suresince": "Örgün bir eğitim sürecinde kazanç söz konusu değildir. İşletmede işbaşında eğitim aşamasında genellikle asgari ücret veya işletmenin belirlediği bir eğitim ücreti ödenir.",
+  "egitim_sonrasi": [
+   "İşe başlangıçta genellikle asgari ücret düzeyinde kazanç sağlanır.",
+   "Çalışılan işletmenin büyüklüğüne, deneyime ve performansa bağlı olarak ücret artabilir.",
+   "Özel sektörde çalışıldığından ücret, işveren ile yapılan anlaşmaya ve işletmenin uygulamalarına göre değişebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Bu meslek için kademeli bir örgün mesleki eğitim basamağı bulunmamaktadır; mesleki bilgi ve beceriler deneyim ve hizmet içi eğitimlerle geliştirilir.",
+  "is_hayatinda": "Deneyim kazanan Müşteri Kabul Görevlileri, istasyon amir yardımcılığı ve istasyon amirliği gibi görevlere yükselebilir; yönetim becerilerini geliştirerek işletme müdürlüğü düzeyinde görev alabilirler."
+ },
+ "benzer_meslekler": [
+  "Araç Kabul Görevlisi",
+  "Müşteri Temsilcisi",
+  "Müşteri Hizmetleri Görevlisi/Asistanı",
+  "Müşteri Hizmetleri Satış ve Hizmet Yetkilisi",
+  "Satış Destek Personeli",
+  "Büro Memuru (Personel)"
+ ],
+ "ek_bilgiler": "Araç muayene istasyonlarının işletilmesi Ulaştırma ve Altyapı Bakanlığı tarafından yetkilendirilen kuruluşlar eliyle yürütülmektedir; bu nedenle işe alım koşulları, çalışma düzeni ve uygulanan prosedürler büyük ölçüde ilgili işletmenin ve yürürlükteki mevzuatın belirlediği kurallara bağlı olarak değişebilir.",
+ "gorevler": [
+  "Muayene için gelen araçların ilgili evraklarını kontrol ederek iş emri açar, eksik evrak olması durumunda müşteriye yol gösterir.",
+  "İş emri ile birlikte etiket setini eşleyerek muayene sıralamasını düzene sokar.",
+  "Ağır kusurlu bulunan araçlardan geri dönen etiketi ilgili iş emri ile birlikte bir dosya içinde saklar ve gün sonu kapanışında etiket kontrolünü yeniden düzenler, iş emirlerini sırasına göre dosyalar.",
+  "Peşin ödeme veya kart ile yapılan ödemeler için alındı makbuzu düzenler, kasa açma kapama işlemlerini yerine getirir.",
+  "Gün sonu kasa kapanışı yapar, kasa raporu alır, istasyon amiri veya amir yardımcısına teslim eder.",
+  "Gün içinde yoğun nakit akışının olması halinde, istasyon amiri veya amir yardımcısını haberdar ederek nakit transferinin gerçekleştirilmesine yardımcı olur.",
+  "Randevu için arayan müşterilerin kayıtlarını alır, randevu iş sırasını düzene sokar.",
+  "Muayene zamanı yaklaşan araç sahiplerini arar, muayene zamanının geldiğini bildirir ve uygun bir zamana randevu verir.",
+  "Mesleği alanındaki gelişmeleri takip eder ve uygular.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T17:15:41",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6182
+  }
+ }
+}

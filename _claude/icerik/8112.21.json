@@ -1,0 +1,90 @@
+{
+ "arac_gerec": [
+  "Kontrol odası kumanda paneli ve bilgisayar ekranları",
+  "Kapalı devre kamera (CCTV) izleme sistemi",
+  "Telsiz",
+  "Elektrik panosu ve devre kesiciler",
+  "Multimetre ve temel elektrik ölçüm aletleri",
+  "El takımları (anahtar takımı, pense, tornavida)",
+  "Bant/konveyör sistemleri ve tahrik motorları",
+  "Elek, kırıcı ve yıkama üniteleri",
+  "Yağlama ve bakım ekipmanları",
+  "Kişisel koruyucu donanım (baret, kulak koruyucu, toz maskesi, iş elbisesi, eldiven, iş ayakkabısı)",
+  "Yangın söndürme ekipmanları",
+  "Aydınlatma ve ikaz sistemleri"
+ ],
+ "benzer_meslekler": [
+  "Konkasör Operatörü (Kırma-Eleme)",
+  "Kırma Eleme Tesis Operatörü",
+  "Kurutmacı (Kömür)",
+  "Yıkama Makinesi Operatörü (Maden)",
+  "Mineral Kırma Makinesi Operatörü",
+  "Değirmen İşçisi (Maden)"
+ ],
+ "calisma_alanlari": "Tesis Kumanda Operatörü (Kömür), kömür hazırlama, yıkama ve zenginleştirme tesislerinde çalışır. Başlıca iş bulma alanları; kamuya bağlı maden işletmeleri ve kömür üretim kurumları ile özel sektöre ait kömür madenciliği ve kömür hazırlama tesisleridir. Ayrıca benzer bant ve tesis sistemlerinin bulunduğu mineral işleme ve kırma-eleme tesislerinde de istihdam edilebilir. Kamu kurumlarında işçi statüsünde, özel sektörde ise işletmenin ihtiyacına göre sürekli veya vardiyalı olarak çalışabilirler.",
+ "calisma_ortami": "Tesis Kumanda Operatörü (Kömür), çoğunlukla kontrol odasında ekranlar ve kamera sistemleri önünde görev yapar; ancak tesisin bant sistemlerini, motorlarını ve elektrik ekipmanlarını kontrol etmek amacıyla düzenli olarak saha içinde de dolaşır. Çalışma ortamı tozlu, gürültülü, titreşimli olabilir; kömürün nemli ve çamurlu olduğu bölümlerde zemin kaygan olabilir. Elektriksel ekipmanlara müdahale ve manevra işlemleri belirli bir risk taşır, bu nedenle iş sağlığı ve güvenliği kurallarına ve kişisel koruyucu donanım kullanımına titizlikle uyulması gerekir.\n\nÇalışma genellikle vardiyalı düzende sürdürülür; tesis sürekli çalıştığı için gece ve hafta sonu vardiyaları olağandır. Görev sırasında birim amiri, İSG uzmanı, mühendis, bakım-onarım ustaları ve elektrik teknisyenleri ile sık iletişim kurulur; acil durumlarda telsiz veya telefonla hızlı bilgi akışı sağlanır.",
+ "genel_ozellikler": [
+  "Dikkatli ve tedbirli,",
+  "Sorumluluk sahibi ve güvenilir,",
+  "Hızlı ve doğru karar verebilen,",
+  "Teknik ve mekanik sistemlere ilgili,",
+  "Ekip çalışmasına uyumlu,",
+  "Vardiyalı ve değişken çalışma koşullarına uygun,",
+  "Fiziksel olarak sağlıklı ve dayanıklı,",
+  "Acil durumlarda soğukkanlı davranabilen,"
+ ],
+ "gorevler": [
+  "İSG kurallarına uyar,",
+  "Çalışma alanında gerekli çalışma tedbirlerini alır ve kontrol eder,",
+  "Uygun kişisel koruyucu ekipmanları kullanır,",
+  "Hayati bir tehlike durumunda ilgili birim amirine ve İSG uzmanına bilgi verir,",
+  "Kömürün elek sistemlerine girme işlemlerini takip eder,",
+  "Ceviz, fındık ve şist gibi kömürün büyüklüklerine göre ayrılmasını sağlayan bantların çalışma sistemini kontrol eder,",
+  "Kömürün arınması için yıkama işlemlerini yapan bandı kontrol eder,",
+  "Kömürün kırılma işlemlerini yapan bandı kontrol eder,",
+  "Bakım, onarım ve tamir işlerinde ustalara yardımcı olur,",
+  "Periyodik bakım yapar, tesisi gözlemler,",
+  "Tüm tesisin bant sisteminin çalışıp çalışmadığını kontrol eder,",
+  "Kameradan tesis bantlarının takibini yapar,",
+  "Çalışma sırasında aksi ve acil bir durum olduğunda telsiz ile ilgili birime (İSG uzmanı, mühendis vb.) bildirir,",
+  "Tesiste çalışan motorların kontrolünü yapar,",
+  "Acil durumlarda elektrik aksamını devre dışı bırakır, elektrik panosunu kapatır,",
+  "Elektriksel ekipmanlarda meydana gelen arızaları giderir,",
+  "Elektriksel ekipmanların yer değiştirilmesi işlemlerini gerçekleştirir,",
+  "Enerji nakil hatlarında havai hatların çekimi ve arızaların giderimi gibi çalışmalarda görev alır,",
+  "İş amirinden aldığı talimatlar doğrultusunda elektriksel ekipmanlara/sistemlere müdahale eder ve manevra (enerjiyi kesme ve verme) yapar,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Mesleğin örgün bir diploma programı bulunmamaktadır. Mesleğe genellikle işletmede işbaşında, deneyimli bir usta/operatör yanında çalışarak veya Halk Eğitim Merkezleri ile İŞKUR tarafından açılan mesleki eğitim kurslarına katılarak girilir. Mesleki ve teknik eğitim veren okul ve üniversitelerin madencilik, maden teknolojisi veya elektrik-elektronik alanlarından mezun olanlar da bu mesleğe daha kolay yönelebilir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "Yer altı ve yer üstü ağır ve tehlikeli işlerde çalışabilir sağlık raporuna sahip olmak",
+   "Vardiyalı çalışmaya uygun fiziksel ve sağlık durumuna sahip olmak"
+  ],
+  "sure_ve_icerik": "Açılan mesleki eğitim kurslarının süresi ve içeriği kursu düzenleyen kuruma göre değişebilir. Eğitimlerde genel olarak iş sağlığı ve güvenliği, tesis bant ve elek sistemlerinin çalışma mantığı, temel elektrik-mekanik bilgisi, arıza tespiti ve müdahale esasları, kişisel koruyucu donanım kullanımı gibi konular işlenir. İşe yeni başlayanlar ayrıca işletme bünyesinde iş başı eğitimi ve usta yanında uygulamalı eğitim alırlar.",
+  "belge": "Kursu tamamlayanlara kurs bitirme/katılım belgesi verilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, özellikle tehlikeli iş kolu olan madencilik sektöründe istihdamda tercih sebebi olabilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Kurs döneminde genellikle bir kazanç söz konusu değildir. İşletme bünyesinde usta yanında uygulamalı eğitim alanlara, işletmenin politikasına bağlı olarak sınırlı bir ücret ödenebilir.",
+  "egitim_sonrasi": [
+   "İşe yeni başlayanların kazancı genellikle asgari ücret düzeyindedir.",
+   "Deneyim, bilgi birikimi ve çalışılan işletmenin büyüklüğüne göre kazanç artabilir.",
+   "Kamuya bağlı kuruluşlarda işçi statüsünde çalışanlar toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde ücret, işveren ile çalışan arasındaki anlaşmaya ve sektördeki arz-talep durumuna göre değişir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğin resmî, kademeli bir eğitim basamağı bulunmamaktadır. İlgili alanlarda açılan ileri düzey kurslara katılarak veya elektrik-elektronik, otomasyon gibi destekleyici alanlarda bilgi ve beceri geliştirerek mesleki yetkinlik artırılabilir.",
+  "is_hayatinda": "Tecrübe ve bilgi birikimine bağlı olarak usta, vardiya amiri, tesis sorumlusu veya nezaretçi gibi pozisyonlara yükselinebilir. İleri düzey teknik bilgi ve yönetim becerisi kazananlar tesis şefliği gibi görevlere getirilebilir."
+ },
+ "ek_bilgiler": "Madencilik sektörü genel olarak ağır ve tehlikeli işler kapsamında değerlendirildiğinden, işe alımlarda ilgili sağlık raporu şartı aranır. Mesleğin bazı görevleri (elektriksel ekipmanlara müdahale, manevra işlemleri) ileri düzeyde iş güvenliği bilinci ve dikkat gerektirir. Mesleki Yeterlilik Kurumu (MYK) belgesine sahip olmak, bu alanda çalışmak isteyenler için istihdamda tercih sebebi olabilir; ancak bu mesleğe ilişkin güncel bir yasal belge zorunluluğu bulunup bulunmadığı ilgili kurumlardan teyit edilmelidir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T10:28:36",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6201
+  }
+ }
+}

@@ -1,0 +1,81 @@
+{
+ "gorevler": [
+  "Yapılacak parçanın proje ve şartnamelerini inceler.",
+  "Metali bağlama aynaları, işkenceler, tespit aparatları, bağlama aparatları veya gerekirse mıknatıslı tabla kullanarak tezgaha doğru bir şekilde yerleştirir.",
+  "Zımpara çarklarını seçer ve tezgaha bağlar.",
+  "Tezgahın tablasını, kılavuzlarını, tahdit parçalarını ve diğer kontrollerini; metalin istikamet ve hareket mesafesini ile zımpara çarklarının hareketlerini belirlemek üzere ayarlar.",
+  "Zımpara çarkının devir hızını tespit eder ve tezgahı çalıştırır.",
+  "Zımpara çarkının kesici yüzünü, tezgaha tespit edilmiş elmas ağızlı bir bıçağa tutarak düzeltir.",
+  "Metali taşa tutmak üzere el çarklarını kullanır veya otomatik kontrolleri düzenleyerek harekete geçirir.",
+  "Gerektiğinde zımpara çarklarını ve metalin konumunu değiştirir.",
+  "Taşlama işleminin seyrini ölçme aletleriyle kontrol eder ve işin hassasiyeti bakımından gerekli ayarları yapar.",
+  "Tezgahı, tezgah operatörünün çalışmasına hazır hale getirir.",
+  "Belirli bir hassas taşlama tezgahının çalıştırılmasında uzmanlaşabilir.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "arac_gerec": [
+  "Rektifiye (silindirik/düz yüzey taşlama) tezgahı",
+  "Zımpara (taşlama) çarkları",
+  "Bağlama aynaları ve işkenceler",
+  "Tespit ve bağlama aparatları",
+  "Mıknatıslı tabla",
+  "Elmas ağızlı düzeltme bıçağı",
+  "Ölçü ve kontrol aletleri (mikrometre, kumpas, komparatör, mastar ve şablonlar)",
+  "Soğutma/kesme sıvısı sistemi",
+  "El çarkları ve tezgah kumanda panelleri",
+  "Teknik resim ve şartname dokümanları",
+  "Kişisel koruyucu donanım (koruyucu gözlük, eldiven, iş elbisesi, kulaklık)"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve titiz,",
+  "El ve göz koordinasyonunu iyi kullanabilen,",
+  "Şekilleri doğru algılayıp zihinde canlandırabilen,",
+  "Teknik resim ve ölçü aletlerini okuyup yorumlayabilen,",
+  "Alet ve makinelerle çalışmaktan hoşlanan,",
+  "Sabırlı, sistemli ve düzenli çalışabilen,",
+  "Fiziksel olarak dayanıklı,",
+  "İş güvenliği kurallarına uyumlu kişiler olmaları gerekir."
+ ],
+ "calisma_ortami": "Rektifiye tezgahı ayarcı-operatörü, genellikle fabrika veya atölye ortamında, kapalı mekanda ve çoğunlukla ayakta çalışır. Çalışma ortamı tezgahların çıkardığı gürültü, metal talaşı/tozu ve soğutma sıvısı kokusu nedeniyle kısmen olumsuz koşullar içerebilir; döner parçalar ve fırlayan talaşlar nedeniyle iş güvenliği önlemlerine dikkat edilmesi gerekir. İşletmenin üretim hacmine göre vardiyalı çalışma söz konusu olabilir.\n\nÇalışma sırasında kişi büyük ölçüde tezgah ve ölçü aletleriyle ilgilenir; ustabaşı, diğer tezgah operatörleri, kalite kontrol personeli ve mühendislerle teknik konularda kısa süreli iletişim kurar. İş genellikle bağımsız yürütülür ancak üretim hattında ekip çalışması da gerekebilir.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi, mesleki eğitim merkezlerinin Metal Teknolojisi alanı kapsamında teorik dersler ve işyerlerinde usta öğretici gözetiminde uygulamalı eğitim şeklinde verilmektedir. Ayrıca yetişkinlere yönelik olarak Halk Eğitim Merkezleri ile İŞKUR tarafından açılan mesleki eğitim kurslarında da bu meslekle ilgili temel beceriler kazandırılabilir. Birçok kişi bu mesleğe, işyerinde usta yanında çalışarak kademeli biçimde de girebilmektedir.",
+  "giris_kosullari": [
+   "Mesleki eğitim merkezinde çıraklık eğitimine başlamak için en az ortaokul mezunu olmak",
+   "14 yaşını doldurmuş olmak",
+   "Sağlık durumunun mesleğin gerektirdiği işlere uygun olması (gerektiğinde sağlık raporuyla belgelendirilir)",
+   "Eğitim görülecek meslekte bir işyeri bulup işveren ile çıraklık sözleşmesi imzalamak"
+  ],
+  "sure_ve_icerik": "Mesleki eğitim merkezlerinde eğitim süresi, ilgili alanın müfredatına göre genellikle birkaç yıl sürmekte olup kalfalık ve ustalık eğitimi aşamalarından oluşur. Eğitim; haftanın belirli günlerinde okulda genel kültür ve meslek dersleri, kalan günlerde ise çıraklık sözleşmesi yapılan işyerinde usta öğretici gözetiminde uygulamalı çalışma şeklinde yürütülür. Eğitim içeriğinde metal malzemelerin özellikleri, taşlama/rektifiye tezgahlarının yapısı ve çalışma prensibi, zımpara çarkı seçimi ve bağlanması, ölçme-kontrol teknikleri, teknik resim okuma, iş güvenliği ve meslek ahlakı gibi konular yer alır. Teorik bilgiler işyerinde usta öğretici denetiminde pratik uygulamalarla desteklenir.",
+  "belge": "Mesleki eğitim merkezinde eğitimini tamamlayanlara kalfalık, ardından ustalık belgesi verilir. Fark derslerinin tamamlanması halinde meslek lisesi diploması da alınabilir. Mesleki Yeterlilik Kurumu (MYK) tarafından düzenlenen mesleki yeterlilik belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Rektifiye tezgahı ayarcı-operatörleri başta makine imalat sanayi, otomotiv ve otomotiv yedek parça sanayi, metal işleme fabrikaları, tamir-bakım atölyeleri, kalıp imalathaneleri olmak üzere metal parçaların hassas yüzey işlemesinin gerekli olduğu birçok özel sektör işletmesinde istihdam edilmektedir. Büyükşehirlerdeki organize sanayi bölgeleri ve sanayi siteleri, bu meslekte iş bulma olanaklarının yoğunlaştığı alanlardır. Sektörde deneyimli ve ölçüm/kalite bilgisine sahip operatörlere olan talep sürekli bir eğilim göstermektedir; ancak otomasyon ve CNC teknolojilerinin yaygınlaşması, zaman içinde geleneksel yöntemle çalışan operatör sayısını etkileyebilmektedir.",
+ "kazanc": {
+  "egitim_suresince": "3308 sayılı Mesleki Eğitim Kanunu kapsamında işletmelerde mesleki eğitim gören öğrencilere, işletme büyüklüğüne göre belirlenen asgari ücretin bir oranında ücret ödenir. Eğitim gören öğrencilerin iş kazası ve meslek hastalığı sigortası primleri devlet tarafından karşılanır.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanların kazancı genellikle asgari ücret düzeyindedir.",
+   "Özel sektörde çalışan operatörlerin ücreti; deneyim, uzmanlaşılan tezgah türü, işletmenin büyüklüğü ve karşılıklı anlaşmaya göre değişiklik gösterir.",
+   "Kamu kurumlarına bağlı atölye/işletmelerde işçi statüsünde çalışanların ücreti ilgili toplu iş sözleşmesi hükümlerine göre belirlenir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleki eğitim merkezinden diploma alarak mezun olanlar, meslek lisesi diplomasına sahip olmaları halinde ilgili alanın devamı niteliğindeki makine, metal teknolojisi gibi yükseköğretim ön lisans/lisans programlarına sınavla veya ek puan avantajıyla yerleşebilirler.",
+  "is_hayatinda": "İş hayatında deneyim kazanan operatörler ustalık, formenlik, atölye şefliği veya üretim sorumluluğu gibi görevlere yükselebilir; kalite kontrol birimlerinde görev alabilir; yeterli sermaye ve deneyime sahip olanlar kendi işyerini açabilir."
+ },
+ "benzer_meslekler": [
+  "Mıknatıs Tablalı Rektifiye Tezgahı Ayarcı-Operatörü (Metal İşçiliği)",
+  "Honlama Tezgahı Ayarcı-Operatörü (Metal İşçiliği)",
+  "Honlama Tezgahı Operatörü (Metal İşçiliği)",
+  "Freze Tezgahı Ayarcı-Operatörü (Metal İşçiliği)",
+  "Matkap Tezgahı Ayarcı-Operatörü (Metal İşçiliği)",
+  "Metal İşleme Tezgahı Ayarcısı"
+ ],
+ "ek_bilgiler": "Rektifiye tezgahı ayarcı-operatörlüğü, geleneksel yöntemle hassas taşlama bilgisine dayanan bir meslek olup, günümüzde CNC taşlama tezgahlarının yaygınlaşmasıyla operatörlerden bilgisayarlı kontrol sistemlerine ilişkin temel bilgiye de sahip olmaları beklenebilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T01:53:48",
+  "usage": {
+   "input_tokens": 4,
+   "output_tokens": 7244
+  }
+ }
+}

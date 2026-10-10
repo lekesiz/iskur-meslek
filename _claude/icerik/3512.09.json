@@ -1,0 +1,75 @@
+{
+ "arac_gerec": [
+  "Bilgisayar ve çevre birimleri (anakart, işlemci, bellek, hard disk/SSD, ekran kartı vb.)",
+  "El aletleri (tornavida takımı, pense, lehim istasyonu vb.)",
+  "Antistatik bilek bandı ve antistatik çalışma matı",
+  "Ağ kabloları, switch, router, modem",
+  "Kablo ve ağ test/ölçüm cihazları, multimetre",
+  "İşletim sistemi ve sürücü kurulum ortamları (USB, DVD, imaj dosyaları)",
+  "Donanım tanılama ve izleme yazılımları",
+  "Yedekleme üniteleri (harici disk, USB bellek)",
+  "Kesintisiz güç kaynağı (UPS)",
+  "Bilgisayar temizlik malzemeleri (basınçlı hava, fırça, temizlik solüsyonu)",
+  "Envanter ve arıza takip/dokümantasyon yazılımları",
+  "Mesleğe ait diğer araç ve gereçler"
+ ],
+ "benzer_meslekler": [
+  "Bilgisayar Teknolojisi ve Programlama Teknikeri",
+  "Bilgisayar Teknisyeni",
+  "Bilgisayar Teknik Servisçisi/Bilgisayar Donanım Teknisyeni",
+  "Ağ İşletmeni / Ağ Teknolojileri Elemanı",
+  "Sistem ve Ağ Uzmanı",
+  "Bilgi İşlem Donanım Görevlisi"
+ ],
+ "calisma_alanlari": "Bilgisayar Donanım/Teknolojisi Teknikerleri; kamu kurumlarının bilgi işlem daire başkanlıkları ve bilgi işlem birimlerinde, bankalarda, hastanelerde, eğitim kurumlarında, bilişim ve yazılım şirketlerinde, bilgisayar satış ve teknik servis firmalarında, internet servis sağlayıcılarında ve ağ altyapısı kuran işletmelerde çalışabilirler. Yeterli bilgi birikimi, sermaye ve deneyime sahip olanlar kendi adlarına bilgisayar teknik servis işletmesi açabilirler. Bilgi ve iletişim teknolojilerinin kurum ve kuruluşlardaki kullanımının giderek artması, bu meslekte uzmanlaşmış teknik elemanlara olan talebin sürmesini sağlamaktadır.",
+ "calisma_ortami": "Bilgisayar Donanım/Teknolojisi Teknikeri genellikle kapalı ortamlarda; bilgi işlem merkezlerinde, ofislerde, teknik servis ve bakım-onarım atölyelerinde çalışır. Kurulum, bakım veya arıza giderme amacıyla zaman zaman işletme dışına, müşteri mekânlarına veya saha çalışmalarına gidebilir. İş genellikle oturarak ve ayakta dönüşümlü olarak, elektronik kart ve kablolarla dikkat gerektiren işlemler şeklinde yürütülür; elektrik çarpması, elektrostatik boşalma ve göz-sırt yorgunluğu gibi riskler bulunur.\n\nÇalışma saatleri genellikle gündüz ve normal mesai düzenindedir, ancak arızaların acil giderilmesi gerektiğinde mesai dışı çağrılabilir. Meslek elemanı; müşteriler, sistem yöneticileri, yazılım uzmanları ve diğer teknik personelle sürekli iş birliği ve iletişim içinde çalışır.",
+ "ek_bilgiler": "Bu meslekte çalışabilmek için zorunlu bir ruhsat veya yasal sertifika bulunmamaktadır; ancak üretici firmalara ait donanım sertifikaları ve Mesleki Yeterlilik Kurumu (MYK) belgesi, iş bulma ve kariyer gelişiminde tercih sebebi olabilir. Bilgi ve iletişim teknolojilerindeki hızlı değişim nedeniyle meslek elemanlarının yeni donanım ve ağ teknolojilerini düzenli olarak takip etmesi beklenir.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi, üniversitelere bağlı meslek yüksekokullarının bilgisayar teknolojileri, bilgisayar donanımı/bilgisayar programcılığı veya ilgili bilişim teknolojileri bölümlerinde önlisans düzeyinde verilmektedir. Ayrıca Halk Eğitim Merkezleri ve İŞKUR tarafından açılan mesleki eğitim kurslarında da donanım ve ağ konularına yönelik tamamlayıcı eğitimler alınabilir.",
+  "giris_kosullari": [
+   "Lise veya dengi okul diplomasına sahip olmak",
+   "YKS (Yükseköğretim Kurumları Sınavı) Temel Yeterlilik Testi'ne (TYT) girmiş olmak",
+   "ÖSYM tarafından ilgili önlisans programına yerleştirilmiş olmak"
+  ],
+  "sure_ve_icerik": "Eğitim süresi 2 yıl (4 yarıyıl) olup, teorik dersler ile atölye/laboratuvar uygulamalarından oluşur. Program; bilgisayar donanımı, ağ teknolojileri ve ağ güvenliği, işletim sistemleri kurulumu ve yönetimi, bakım-onarım teknikleri, temel elektronik ve mesleki İngilizce gibi dersleri kapsar. Eğitim süresince işletmelerde uygulamalı staj yapılması da programın bir parçasıdır.",
+  "belge": "Eğitimi başarıyla tamamlayanlara önlisans diploması (teknikerlik unvanı) verilir."
+ },
+ "genel_ozellikler": [
+  "El ve göz koordinasyonu iyi,",
+  "Dikkatli ve sabırlı,",
+  "Mantıksal ve sistemli düşünebilen,",
+  "Sorumluluk sahibi ve güvenilir,",
+  "Yeni teknolojileri öğrenmeye ve kendini geliştirmeye açık,",
+  "Ekip çalışmasına uyumlu,",
+  "İyi iletişim kurabilen,",
+  "Problemleri analiz edip çözüm üretebilen"
+ ],
+ "gorevler": [
+  "Network bilgisayar sistemlerinin analizini yapar, ağ yapısını çıkarır.",
+  "Müşterinin isteğine göre sistemi kurar ve çalıştırır.",
+  "Kişisel ve network bilgisayar ortamlarının periyodik bakımını yapar, varsa arızaları tespit eder ve onarır.",
+  "Sistemlerin güncellenmesinde gerekli olan birimlerin (bellek, hard disk, diğer kartlar) seçimini yapar, sisteme monte eder ve çalışır hâle getirir.",
+  "Bilgi işlem merkezlerinde gerekli donanım ve ağ güvenliği işlerini yürütür.",
+  "İşletim sistemlerini kurar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Önlisans eğitimini tamamlayanlar, Dikey Geçiş Sınavı (DGS) ile başarılı oldukları takdirde bilgisayar mühendisliği, bilişim sistemleri mühendisliği veya ilgili lisans programlarına geçiş yapabilirler.",
+  "is_hayatinda": "Mesleki deneyim ve bilgi birikimini artıranlar; sistem yöneticisi, ağ uzmanı, bilgi işlem sorumlusu/şefi gibi görevlere yükselebilir, teknik servis ekiplerinde koordinatörlük üstlenebilir veya yeterli deneyim ve sermaye ile kendi teknik servis işletmesini kurabilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Önlisans eğitimi genellikle örgün öğretim şeklinde yürütülür; bu dönemde doğrudan bir ücret söz konusu değildir. Programın zorunlu veya isteğe bağlı staj dönemlerinde işletmelerde çalışan öğrencilere genellikle asgari ücret düzeyinde ödeme yapılabilir. Ayrıca öğrenciler devletin sağladığı burs ve kredi olanaklarından yararlanabilir.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında istihdam edilenlerin kazancı 657 sayılı Devlet Memurları Kanunu'na veya ilgili toplu iş sözleşmesi hükümlerine göre belirlenir.",
+   "Özel sektörde yeni başlayanlar genellikle asgari ücret düzeyinde kazanç elde eder; deneyim, uzmanlık ve işletmenin büyüklüğüne göre bu tutar artabilir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T15:02:22",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5797
+  }
+ }
+}

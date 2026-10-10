@@ -1,0 +1,75 @@
+{
+ "arac_gerec": [
+  "El terminali (taşınabilir sayaç okuma cihazı)",
+  "Barkod okuyucu",
+  "Taşınabilir yazıcı / fatura basma sistemi",
+  "Yedek batarya ve şarj cihazı",
+  "Görevli kimlik kartı",
+  "Abone bilgi listesi ve güzergah planı",
+  "İş kıyafeti ve koruyucu ayakkabı",
+  "El feneri",
+  "Mobil haberleşme cihazı (telefon)",
+  "Evrak/malzeme çantası"
+ ],
+ "benzer_meslekler": [
+  "Sayaç Okuma Elemanı (Su)",
+  "Sayaç Okuma Elemanı (Elektrik)",
+  "Endeks Okuma Görevlisi",
+  "Kurye",
+  "Paket Teslim Elemanı (Yaya)",
+  "Tüp (LPG) Dağıtım Elemanı"
+ ],
+ "calisma_alanlari": "Sayaç Okuma Elemanı (Doğal Gaz), başta doğal gaz dağıtım şirketleri olmak üzere, bu şirketlere bağlı veya onlarla sözleşmeli çalışan taşeron/alt yüklenici firmalarda istihdam edilir. Çalışma büyük şehir ve ilçelerde, doğal gaz dağıtım ağının bulunduğu bölgelerde yoğunlaşır.",
+ "calisma_ortami": "Bu meslek büyük ölçüde açık havada ve sahada yürütülür. Sayaç okuma elemanı, kendisine verilen güzergah listesine göre mahalle, sokak ve binaları dolaşarak abonelerin adreslerine gider; sayaçların bulunduğu bahçe, merdiven altı, bodrum veya dış cephe gibi farklı noktalara girip çıkar. Çalışma genellikle yürüyerek, bazı durumlarda araçla yapılır; merdiven çıkma, ayakta durma ve uzun süre hareket halinde olma gerektirir. Yağmur, sıcak, soğuk gibi hava koşullarına, bazen köpek veya dar/karanlık alan gibi risklere maruz kalınabilir.\n\nÇalışma saatleri genellikle gündüz ve belirlenen okuma dönemlerine (periyotlara) göre düzenlenir. Meslek elemanı, abonelerle, apartman yöneticisi/kapıcı gibi kişilerle ve bağlı olduğu doğal gaz dağıtım şirketinin saha veya müşteri ilişkileri birimi çalışanlarıyla iletişim halindedir.",
+ "ek_bilgiler": "Doğal gaz dağıtım şirketleri bu hizmeti bazen kendi bünyesinde, bazen sözleşmeli taşeron firmalar aracılığıyla yürütür; bu nedenle istihdam biçimi ve çalışma koşulları işletmeden işletmeye farklılık gösterebilir. Sayaç çevresinde ve gaz tesisatına yakın alanlarda çalışma söz konusu olduğundan işveren tarafından verilen iş güvenliği eğitimine ve koruyucu ekipman kullanımına dikkat edilmesi önemlidir.",
+ "egitim": {
+  "verildigi_yerler": "Bu mesleğe yönelik örgün bir mesleki ve teknik eğitim alanı/dalı bulunmamaktadır. Meslek elemanları genellikle doğal gaz dağıtım şirketleri veya bu şirketlerle çalışan firmalar tarafından işe alındıktan sonra işbaşında ve kurum içi eğitimlerle yetiştirilir. Temel bilgisayar/el terminali kullanımı gibi destekleyici beceriler Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kurslarından edinilebilir.",
+  "giris_kosullari": [
+   "İlköğretim mezunu olmak",
+   "Okuma yazma bilmek ve temel düzeyde elektronik cihaz (el terminali) kullanabilmek",
+   "Sağlık durumunun saha çalışmasına (yürüme, merdiven kullanma, açık havada çalışma) uygun olması",
+   "İşverenin belirlediği diğer koşulları (yaş, sabıka kaydı vb.) taşımak"
+  ],
+  "sure_ve_icerik": "Mesleğe yönelik belirli bir süresi ve içeriği resmi olarak tanımlanmış bir eğitim programı bulunmamaktadır. İşe alınan kişiler, işveren tarafından kısa süreli (genellikle birkaç gün ile birkaç hafta arasında) kurum içi eğitime alınır. Bu eğitimde el terminalinin kullanımı, barkod okutma, sayaç endeksi okuma kuralları, abonelik sistemi, müşteri ilişkileri ve iş sağlığı-güvenliği konuları öğretilir. Ardından deneyimli bir personel eşliğinde işbaşında uygulamalı eğitim verilir.",
+  "belge": "Mesleğe giriş için zorunlu bir diploma veya sertifika bulunmamaktadır. İşveren tarafından düzenlenen kurum içi eğitim katılım belgesi veya İŞKUR/Halk Eğitim Merkezi kurs katılım belgesi verilebilir; Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "genel_ozellikler": [
+  "Dürüst ve güvenilir,",
+  "Fiziksel olarak dayanıklı, yürümeye ve hareketli çalışmaya uygun,",
+  "Dikkatli ve sorumluluk sahibi,",
+  "Yönünü bulma ve mekan algısı gelişmiş,",
+  "İnsan ilişkilerinde uyumlu ve nazik,",
+  "Farklı hava koşullarında çalışmaya istekli,",
+  "Basit elektronik cihazları kullanabilen,",
+  "Zamanını planlı kullanabilen"
+ ],
+ "gorevler": [
+  "Abone adresine giderek sayaç üzerindeki barkodu okutur.",
+  "El terminalinin bu aboneyle ilgili bilgileri bulmasını sağlar.",
+  "Sayaç üzerindeki mevcut endeksi girer.",
+  "Sayaçla ilgili belirtilmesi gereken durumlar varsa bunları seçer ve kaydını yapar.",
+  "Abonelerin sayaçları okunduğu anda bilgilerin online olarak sisteme geçmesini sağlar ve anında fatura çıkartır.",
+  "Okunan fatura bilgilerini müşteri adreslerine bırakır.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğe yönelik örgün bir mesleki eğitim programı bulunmadığından bu alanda tanımlı bir ilerleme basamağı yoktur. İsteyen meslek elemanları açık öğretim veya örgün eğitim yoluyla öğrenimlerini tamamlayarak farklı mesleki ve teknik eğitim programlarına veya yükseköğretime yönelebilir.",
+  "is_hayatinda": "Deneyim kazanan sayaç okuma elemanları, şirket içinde ekip sorumluluğu veya saha operasyon sorumluluğu gibi görevlere; ayrıca performans ve bilgi birikimlerine göre müşteri hizmetleri, abone işleri veya idari birimlerde görev yapmaya yönelebilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Mesleğe yönelik örgün bir eğitim süreci bulunmadığından eğitim süresince kazanç söz konusu değildir. İşe alım sonrası verilen kurum içi eğitim döneminde ilgili işletmenin uygulamasına göre normal ücret ödenmesi yaygındır.",
+  "egitim_sonrasi": [
+   "Yeni başlayanlar genellikle asgari ücret düzeyinde ücret alır.",
+   "Çalıştığı doğal gaz dağıtım şirketinin veya taşeron firmanın büyüklüğüne, deneyime ve performansa (okunan abone sayısına) göre kazanç farklılaşabilir.",
+   "Kamu kuruluşuna bağlı işlerde istihdam edilenler için ilgili toplu iş sözleşmesi hükümleri, kamuda memur statüsü söz konusu değildir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T21:08:03",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5668
+  }
+ }
+}

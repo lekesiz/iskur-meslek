@@ -1,0 +1,68 @@
+{
+ "arac_gerec": [
+  "Fiziksel ve sanal sunucular",
+  "Rack kabinleri ve sunucu odası altyapısı",
+  "KVM switch ve konsol ekipmanları",
+  "Kesintisiz güç kaynağı (UPS) ve jeneratör sistemleri",
+  "Ağ ekipmanları (switch, router, patch panel, kablolama)",
+  "Sıcaklık ve nem izleme sensörleri",
+  "Yedekleme cihazları (bant, disk, bulut yedekleme sistemleri)",
+  "Sistem ve ağ izleme (monitoring) yazılımları",
+  "Komut satırı ve uzaktan yönetim araçları",
+  "RAID denetleyicileri ve depolama üniteleri",
+  "Antistatik bilezik ve koruyucu ekipman",
+  "El aletleri (tornavida seti, kablo test cihazı vb.)",
+  "Yangın algılama ve söndürme sistemleri"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve sorumluluk sahibi,",
+  "Analitik düşünebilen ve problem çözme becerisine sahip,",
+  "Kriz anlarında sabırlı ve soğukkanlı kalabilen,",
+  "Yeni teknolojileri takip etmeye ve sürekli öğrenmeye açık,",
+  "Takım çalışmasına uyumlu,",
+  "Teknik İngilizce terminolojiyi takip edebilen,",
+  "Vardiyalı ve esnek çalışma saatlerine uyum gösterebilen,",
+  "Gizlilik ve veri güvenliği ilkelerine bağlı"
+ ],
+ "calisma_ortami": "Server Operatörleri, çoğunlukla kapalı mekânlarda; işletmelerin bilgi işlem merkezlerinde, veri merkezlerinde (data center) veya sunucu odalarında çalışırlar. Bu ortamlar genellikle sıcaklık ve nem kontrollü, fan sesleri nedeniyle gürültülü olabilen, güvenlik önlemlerinin yüksek tutulduğu alanlardır. Çalışma süresinin büyük bölümü ekran başında sistem izleme ve analiz şeklinde geçerken, zaman zaman rack kabinlerinde kablolama, parça değişimi veya fiziksel donanım kontrolü gibi işler için ayakta ve hareketli çalışma da gerekir.\n\nSistemlerin kesintisiz çalışması gerektiğinden iş genellikle vardiyalı düzende veya 7/24 nöbet sistemiyle yürütülür; kritik arıza durumlarında mesai saatleri dışında da göreve çağrılabilir. Server Operatörü, görevini yerine getirirken sistem yöneticileri, ağ uzmanları, yazılım geliştiriciler ve üst düzey bilgi işlem yöneticileriyle sürekli iletişim ve koordinasyon içinde çalışır. Statik elektrik, elektrik çarpması riski ve ağır ekipman taşıma gibi fiziksel riskler bulunabilir.",
+ "calisma_alanlari": "Server Operatörleri; kamu kurumlarının bilgi işlem daire başkanlıklarında, bankacılık ve finans sektöründe, telekomünikasyon şirketlerinde, veri merkezi (data center) işletmelerinde, bulut bilişim hizmeti sunan firmalarda, e-ticaret şirketlerinde, üniversite ve hastanelerin bilgi işlem birimlerinde, sigorta şirketlerinde ve büyük ölçekli işletmelerin bilgi teknolojileri departmanlarında istihdam edilmektedir. Bilişim ve dijitalleşme alanındaki yatırımların artması nedeniyle bu meslekte iş bulma olanakları orta ve yüksek düzeydedir; özellikle sunucu ve ağ altyapısı yönetimi konusunda deneyimli kişilere olan talep artış eğilimindedir.",
+ "egitim": {
+  "verildigi_yerler": "Meslek eğitimi; mesleki ve teknik liselerin bilişim teknolojileri alanında, meslek yüksekokullarının bilgisayar programcılığı, bilgisayar teknolojisi, ağ ve siber güvenlik gibi ön lisans programlarında, ayrıca üniversitelerin bilgisayar mühendisliği, bilgisayar bilimleri veya yazılım mühendisliği gibi lisans programlarında temel bilgi olarak verilmektedir. Bunun yanında Halk Eğitim Merkezleri ile İŞKUR'un açtığı mesleki eğitim kursları ve özel bilişim eğitim kurumlarında sunucu ve sistem yönetimi konularında kısa süreli kurslar da düzenlenmektedir. Mesleğe giriş, çoğunlukla ilgili bir eğitim programından sonra işbaşında deneyim kazanarak gerçekleşmektedir.",
+  "giris_kosullari": [
+   "Ortaöğretim (lise ve dengi okul) mezunu olmak",
+   "Ön lisans veya lisans programlarına girmek için YKS (Yükseköğretim Kurumları Sınavı) sonucuna göre ilgili programa yerleşmek",
+   "Mesleki eğitim kurslarına katılım için ilgili kurumların belirlediği koşulları taşımak"
+  ],
+  "sure_ve_icerik": "Eğitim süresi izlenen yola göre değişmektedir. Mesleki ve teknik liselerde eğitim 4 yıl, meslek yüksekokullarının ön lisans programlarında 2 yıl, üniversitelerin ilgili lisans programlarında 4 yıldır. Eğitim süresince bilgisayar donanımı, işletim sistemleri, ağ teknolojileri, veri tabanı yönetimi, sistem güvenliği ve sunucu yönetimi gibi mesleki dersler ile genel kültür dersleri okutulur. Kısa süreli kurslarda ise ağırlıklı olarak sunucu kurulumu, izleme, yedekleme ve temel ağ yönetimi konuları işlenir.",
+  "belge": "Mezun olunan programa göre lise diploması, ön lisans diploması veya lisans diploması verilir. Katılınan mesleki eğitim kurslarından kurs bitirme belgesi/sertifika alınabilir. İlgili alanlarda Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "gorevler": [
+  "Sunucu odasındaki donanımların fiziki kontrollerini yapar.",
+  "Sunucu işletim sistemlerinin güncelliğini ve servislerini izler.",
+  "Periyodik veri yedekleme ve kurtarma işlemlerini yönetir.",
+  "Sunucu üzerindeki trafik yoğunluğunu ve kaynak kullanımını analiz eder.",
+  "Sistem arızalarında ilk müdahaleyi yaparak üst uzmanlara raporlar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "kazanc": {
+  "egitim_suresince": "Ön lisans veya lisans düzeyinde eğitim gören öğrenciler, Kredi ve Yurtlar Kurumu'nun öğrenim kredisi ve yurt hizmetlerinden yararlanabilir; ayrıca bazı kurumlar tarafından sağlanan burslardan faydalanabilirler. Mesleki eğitim kurslarına katılanlar ise kurs süresince İŞKUR'un kursiyer zaruri gider desteğinden yararlanabilir.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında istihdam edilenler 657 sayılı Devlet Memurları Kanunu'na, işçi statüsünde çalışanlar ise ilgili toplu iş sözleşmesi hükümlerine göre ücret alırlar.",
+   "Özel sektörde yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlarken, deneyim, bilgi birikimi ve işletme büyüklüğüne bağlı olarak kazanç önemli ölçüde değişebilmektedir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Ön lisans programını tamamlayanlar, Dikey Geçiş Sınavı (DGS) ile bilgisayar mühendisliği, bilgisayar bilimleri gibi ilgili lisans programlarına geçiş yapabilirler. Ayrıca kurs ve sertifika programlarına katılarak ağ yönetimi, bulut bilişim veya siber güvenlik gibi alanlarda uzmanlaşabilirler.",
+  "is_hayatinda": "Deneyim kazanan Server Operatörleri; sistem yöneticisi, ağ yöneticisi, veri tabanı yöneticisi, bilgi teknolojileri uzmanı veya bilgi işlem müdürü gibi görevlere yükselebilirler. Uluslararası geçerliliği olan sistem ve ağ sertifikasyon programlarına katılarak uzmanlık alanlarını güçlendirebilirler."
+ },
+ "benzer_meslekler": [],
+ "ek_bilgiler": "Bulut bilişim ve veri merkezi hizmetlerinin yaygınlaşmasıyla bu meslekte istihdam olanaklarının artması beklenmektedir. Kritik sistemler üzerinde çalışıldığından iş güvenliği, veri güvenliği ve gizlilik kurallarına uyum büyük önem taşır.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T15:18:30",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6622
+  }
+ }
+}

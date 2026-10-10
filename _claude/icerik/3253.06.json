@@ -1,0 +1,80 @@
+{
+ "arac_gerec": [
+  "İlk yardım eğitim mankeni (CPR mankeni)",
+  "Otomatik eksternal defibrilatör (AED) eğitim cihazı",
+  "Sedye ve taşıma malzemeleri",
+  "Bandaj, sargı bezi ve flaster",
+  "Atel ve boyunluk (servikal kolar) setleri",
+  "İlk yardım çantası ve temel müdahale malzemeleri",
+  "Yara/travma simülasyon (moulage) malzemeleri",
+  "Bilgisayar ve projeksiyon cihazı",
+  "Eğitim sunumları, video ve görsel materyaller",
+  "Yazı tahtası",
+  "Ölçme-değerlendirme (sınav, katılım) formları",
+  "Çeşitli büro malzemeleri (kağıt, kalem vb.)"
+ ],
+ "genel_ozellikler": [
+  "İnsanlara yardım etmekten hoşlanan, sorumluluk sahibi,",
+  "Sözel ve öğretme/anlatım becerisi gelişmiş, topluluk önünde konuşmaktan çekinmeyen,",
+  "Acil ve stresli durumlarda sakin kalabilen, hızlı ve doğru karar verebilen,",
+  "El ve beden becerisine sahip, uygulamalı gösterim yapabilen,",
+  "Sabırlı, dikkatli ve gözlem yeteneği gelişmiş,",
+  "Biyoloji ve sağlık bilimlerine ilgili,",
+  "Başkalarıyla iyi iletişim kurabilen ve onları yönlendirebilen",
+  "Planlı ve düzenli çalışabilen"
+ ],
+ "calisma_ortami": "\"İlk Yardım Eğitmenleri genellikle kapalı mekanlarda; eğitim merkezleri, kurs salonları, işyerlerinin eğitim odaları, okullar ve halk eğitim merkezleri gibi ortamlarda uygulamalı dersler verir. Zaman zaman işyeri tatbikatları, afet eğitimleri veya açık hava etkinlikleri kapsamında saha ortamında da çalışabilirler. Görev sırasında uzun süre ayakta durma, uygulamalı gösterim yapma ve grup yönetimi gerekir.\\n\\nMesleği uygularken kursiyerler, kurum yöneticileri, işveren temsilcileri ve bazen sağlık kuruluşları ile sürekli iletişim halindedirler. Çalışma saatleri genellikle düzenlenen kurs programına göre belirlenir; işyerlerinde açılan eğitimler nedeniyle hafta sonu veya akşam saatlerinde çalışma gerekebilir, bu nedenle çalışma saatleri esnek olabilir.\"",
+ "egitim": {
+  "verildigi_yerler": "İlk Yardım Eğitmenliği, Sağlık Bakanlığı tarafından yetkilendirilmiş ilk yardım eğitim merkezleri (üniversiteler, kamu kurumları, özel eğitim kuruluşları, Kızılay gibi sivil toplum kuruluşları bünyesinde açılan merkezler) tarafından düzenlenen \"İlk Yardım Eğitici Eğitimi\" programları ile kazanılan bir yetkinliktir. Mesleğin eğitimi, örgün bir okul programı şeklinde değil, kısa süreli sertifika/eğitici eğitimi programı şeklinde verilmektedir.",
+  "giris_kosullari": [
+   "En az lise ve dengi okul mezunu olmak (gereken minimum eğitim düzeyi ortaöğretimdir)",
+   "Sağlık Bakanlığı'nın ilgili düzenlemelerinde belirtilen şartları taşımak; bu kapsamda genellikle sağlık alanında ön lisans veya lisans mezuniyeti (hemşirelik, ebelik, paramedik/acil tıp teknisyenliği gibi) ya da tabip/sağlık meslek mensubu olmak aranır",
+   "Yetkilendirilmiş ilk yardım eğitim merkezi tarafından açılan eğitici eğitimi programına kabul edilmek",
+   "Program sonunda yapılan teorik ve uygulamalı sınavlarda başarılı olmak"
+  ],
+  "sure_ve_icerik": "Eğitmen yetiştirme programları, örgün eğitime göre kısa süreli ve yoğunlaştırılmış kurslar şeklinde düzenlenir; süresi günlerle veya birkaç haftayla sınırlı olabilir. İçerikte ilk yardımın temel ilkeleri, temel yaşam desteği, kanama, yara, kırık-çıkık, zehirlenme ve yabancı cisim kaçması gibi acil durumlara müdahale teknikleri ile yetişkin eğitimi (eğitim verme teknikleri, ölçme-değerlendirme) konuları yer alır.",
+  "belge": "Programı ve ilgili sınavları başarıyla tamamlayanlara, Sağlık Bakanlığı tarafından geçerliliği tanınan \"İlk Yardım Eğitmeni\" sertifikası/kimlik belgesi verilir."
+ },
+ "calisma_alanlari": "\"İlk Yardım Eğitmenleri; Sağlık Bakanlığınca yetkilendirilmiş ilk yardım eğitim merkezlerinde, halk eğitim merkezlerinde, üniversitelerde, Kızılay gibi sivil toplum kuruluşlarında, sürücü kurslarında, okullarda ve özel eğitim kurumlarında görev alabilirler. İş sağlığı ve güvenliği mevzuatı kapsamında çalışanlara ilk yardım eğitimi verilmesinin gerekli görülmesi nedeniyle kamu ve özel sektör işyerlerinde de sıklıkla ilk yardım eğitmenine ihtiyaç duyulmaktadır. Deneyimli eğitmenler, bağımsız/serbest olarak kendi eğitim faaliyetlerini de yürütebilirler.\"",
+ "kazanc": {
+  "egitim_suresince": "Eğitmenlik eğitimi, örgün bir öğrenim programı olmadığından burs, kredi veya yurt gibi öğrenci desteklerinden genellikle yararlanılmaz; eğitim ücretleri katılımcı veya çalışılan kurum tarafından karşılanabilir.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında görev alanlar, statülerine göre 657 sayılı Devlet Memurları Kanunu veya ilgili toplu iş sözleşmesi hükümlerine göre ücret alırlar.",
+   "Özel sektörde ve serbest çalışanlarda kazanç; verilen eğitimin süresine, katılımcı sayısına, deneyime ve çalışılan kuruma göre değişiklik gösterir; işe yeni başlayanlarda kazanç genellikle asgari ücret düzeyinde olabilir, deneyim ve iş hacmi arttıkça yükselebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "İlk Yardım Eğitmenleri, ileri düzey ilk yardım ve acil bakım eğitimleri alarak bilgi ve becerilerini güncelleyebilir, eğitici eğitimcisi düzeyine yükselebilir; ayrıca sağlık alanında (hemşirelik, paramedik/acil tıp teknisyenliği gibi) lisans veya yüksek lisans eğitimine yönelerek mesleki kariyerlerini geliştirebilirler.",
+  "is_hayatinda": "Deneyim kazandıkça eğitim merkezlerinde koordinatörlük veya müdürlük gibi yönetici görevlere yükselebilir, eğitim programı geliştirme ve denetleme sorumluluğu alabilir; isteyenler kendi ilk yardım eğitim merkezini kurarak işletmeci konumuna geçebilirler."
+ },
+ "benzer_meslekler": [
+  "Sağlık Eğitimcisi",
+  "Paramedik/Ambulans ve Acil Bakım/İlk ve Acil Yardım Sağlık Teknikeri",
+  "Acil Tıp Teknisyeni",
+  "Diğer Sağlık Personeli(Acil Tıp Teknisyeni)",
+  "Toplum Sağlığı Çalışanı",
+  "Toplum Sağlığı Geliştiricisi"
+ ],
+ "ek_bilgiler": "\"İlk yardım eğitmenliği, Sağlık Bakanlığı'nın ilgili düzenlemeleri çerçevesinde yürütülen bir faaliyet olup eğitmenlerin sertifikalarını belirli aralıklarla yenilemesi ve güncel bilgi/becerilerini tazelemesi gerekebilir. İş sağlığı ve güvenliği mevzuatı kapsamında işyerlerinde çalışanlara ilk yardım eğitimi verilmesinin öngörülmesi, bu mesleğe özel sektörde de talep oluşturmaktadır.\"",
+ "gorevler": [
+  "Dersin günlük, haftalık ve dönem planlarını hazırlar, yapılan çalışmaların ilgili kayıtlarını tutar.",
+  "İlk yardım dersinde ihtiyaç duyulan eğitim materyallerinin eğitime hazır bir şekilde bulunmasını sağlar.",
+  "İlk yardım dersi müfredatındaki konuları anlatır.",
+  "İlk yardımda kullanılacak teçhizatı tanıtır ve kullanımlarını gösterir.",
+  "İlk yardım tekniklerini öğretir.",
+  "Öğretilen konularla ilgili kursiyerleri, belli aralıklarla ve kurs bitiminde çeşitli sınavlara tabi tutar.",
+  "Kursiyerlerin ilk yardım dersi ile ilgili sorularını cevaplandırır.",
+  "Eğitim için kullanılan araç-gereç ve eğitim materyallerinin korunmasını, bakım ve onarımını sağlar.",
+  "Görevlendirildiği komisyonlarda görev yapar.",
+  "Mesleği alanındaki gelişmeleri takip eder ve uygular.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T12:25:27",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 7633
+  }
+ }
+}

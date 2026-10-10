@@ -1,0 +1,67 @@
+{
+ "arac_gerec": [
+  "Teleks cihazı/terminali",
+  "Bilgisayar (kompütür) terminali ve ilgili yazılımlar",
+  "Kod ve kısaltmalar kitabı (havacılık brifing el kitabı)",
+  "İlan tahtası (brifing panosu)",
+  "Telefon ve dahili haberleşme hattı",
+  "NOTAM ve ilgili bilgilendirme formları",
+  "Havaalanı harita ve planları",
+  "Yazıcı",
+  "Haberleşme kayıt ve arşiv sistemleri"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve titiz,",
+  "Sorumluluk sahibi,",
+  "Hızlı ve doğru bilgi işleyebilen,",
+  "İyi derecede İngilizce bilen,",
+  "Kod ve kısaltmaları öğrenmeye istekli,",
+  "Stresli ortamlarda sakin kalabilen,",
+  "İletişim kurallarına uyan,",
+  "Ekip çalışmasına uygun"
+ ],
+ "calisma_ortami": "AIS memurları, havaalanlarındaki hava seyrüsefer hizmetleri birimlerine bağlı brifing/havacılık bilgi hizmetleri ofislerinde, kapalı mekânda, bilgisayar ve haberleşme terminalleri karşısında çalışırlar. Çalışma, sürekli dikkat ve yoğunlaşma gerektiren, hata toleransı düşük bir iş niteliğindedir. Havaalanı hizmetlerinin kesintisiz yürütülmesi gerektiğinden çalışma genellikle vardiya (gece-gündüz) esasına göre düzenlenir.\n\nGörev sırasında pilotlar, hava trafik kontrolörleri, yol kontrol servisi çalışanları ve diğer havaalanı personeli ile sürekli ve hızlı bilgi alışverişi içinde olunur. İşin niteliği, verilen bilginin güncel, doğru ve zamanında iletilmesine bağlı olduğundan yüksek sorumluluk gerektirir.",
+ "calisma_alanlari": "AIS memurları başta Devlet Hava Meydanları İşletmesi (DHMİ) olmak üzere havaalanlarının hava seyrüsefer hizmetleri/havacılık bilgi hizmetleri (AIS) birimlerinde istihdam edilirler. Ayrıca havayollarının ve ilgili yer hizmetleri işletmelerinin operasyon birimlerinde benzer nitelikte görevler bulunabilir. Meslek, büyük ölçüde kamu kurumu (DHMİ) bünyesinde yürütüldüğünden istihdam, kurumun açtığı personel alımlarına bağlıdır; sivil havacılık sektöründeki büyümeyle birlikte orta düzeyde iş bulma olanağı bulunmaktadır.",
+ "gorevler": [
+  "Her ülkenin uluslararası trafiğe açık havaalanlarının taksi yolları, apronlar, pist alanları ışıklandırmaları ve diğer teknik cihazları hakkındaki bilgileri teleksten alır.",
+  "Verilen mesajları kod ve kısaltmalar kitabından yararlanarak çözümler, ilan tahtasına geliş sırasına göre asar.",
+  "Gelen yeni bilgileri uçuş halindeki pilotlara ulaştırmak üzere yol kontrol servisine telefonla bildirir.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi, sivil havacılık yüksekokullarının havacılık ile ilgili ön lisans/lisans programlarında (örneğin sivil hava ulaştırma işletmeciliği gibi) temel düzeyde verilebilmektedir. Mesleğin asıl uygulama bilgi ve becerileri ise Devlet Hava Meydanları İşletmesi (DHMİ) ve ilgili havacılık kuruluşları tarafından düzenlenen hizmet içi eğitim ve meslek içi kurslarla kazandırılmaktadır.",
+  "giris_kosullari": [
+   "Lise veya dengi okul mezunu olmak (sözlükte belirtilen asgari eğitim düzeyi lise ve dengidir)",
+   "Kurumun açtığı sınav, mülakat ve değerlendirme süreçlerinde başarılı olmak",
+   "İyi derecede İngilizce bilmek (havacılık terminolojisi ve uluslararası standart ifadeler)",
+   "Mesleğin yürütülmesine engel bir sağlık sorunu bulunmamak"
+  ],
+  "sure_ve_icerik": "Eğitimin süresi ve içeriği, eğitimi veren kuruma göre değişmekle birlikte; genel olarak kod ve kısaltmaların öğrenilmesi, seyrüsefer bilgilendirme mesajlarının (NOTAM) düzenlenmesi ve çözümlenmesi, havacılık haberleşme usulleri, ilgili uluslararası sivil havacılık kuralları ve iş güvenliği konularını kapsayan teorik ve uygulamalı kurslardan oluşur. Mesleğin öğrenilmesinde işbaşında usta yanında uygulamalı çalışma önemli bir yer tutar.",
+  "belge": "Eğitimi başarıyla tamamlayanlara, eğitimi veren kurum tarafından düzenlenen kurs bitirme veya göreve başlama yeterlilik belgesi verilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Kurum tarafından düzenlenen hizmet içi eğitim ve kurslara katılanlar, genellikle bağlı oldukları kurumdan ücret almaya devam ederler; eğitim giderleri çoğunlukla kurum tarafından karşılanır.",
+  "egitim_sonrasi": [
+   "Kamu kurumunda (örneğin DHMİ) çalışanlar, tabi oldukları mevzuata (657 sayılı Kanun veya kurum personel yönetmeliği; işçi statüsünde çalışanlar için toplu iş sözleşmesi hükümleri) göre ücret alırlar.",
+   "Özel sektörde çalışanların kazancı, işletmenin büyüklüğüne, çalışanın deneyimine, bilgi ve yabancı dil düzeyine göre değişebilmektedir.",
+   "İşe yeni başlayanların kazancı genellikle asgari ücret düzeyinde olabilmektedir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Havacılık alanında ön lisans veya lisans eğitimi tamamlayarak hava trafik kontrolörlüğü, uçuş harekat memurluğu gibi ilgili havacılık mesleklerine geçiş yapabilir veya kurum içi ileri düzey kurslara katılarak alanında uzmanlaşabilir.",
+  "is_hayatinda": "Deneyim ve performansa bağlı olarak brifing/AIS birim sorumluluğu, şeflik gibi görevlere; kıdem arttıkça kurum içi daha üst düzey idari ve denetim görevlerine yükselme olanağı bulunmaktadır."
+ },
+ "benzer_meslekler": [
+  "Telgrafçı",
+  "Diğer Telsiz ve Telgraf Operatörleri"
+ ],
+ "ek_bilgiler": "Bu meslek, günümüzde havacılık bilgi hizmetleri (AIS) kapsamında Devlet Hava Meydanları İşletmesi (DHMİ) ve ilgili havacılık kuruluşlarında yürütülmektedir. Görevin niteliği uluslararası sivil havacılık (ICAO) standartlarına uygun çalışmayı gerektirir. Teleks tabanlı haberleşme tarihsel bir uygulama olup, zaman içinde havacılık bilgi hizmetlerinde dijital sistemlerin kullanımı yaygınlaşmıştır. Mesleği yürütecek kişilerin iyi derecede İngilizce bilmesi ve havacılık terminolojisine hâkim olması büyük önem taşır.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T15:11:17",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6814
+  }
+ }
+}

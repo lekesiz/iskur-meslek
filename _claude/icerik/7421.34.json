@@ -1,0 +1,79 @@
+{
+ "arac_gerec": [
+  "Otomatik dizgi (SMT) makineleri",
+  "Reflow lehim fırınları ve lehim istasyonları",
+  "Havya, lehim teli ve flux malzemeleri",
+  "Büyüteçli masa lambası ve/veya mikroskop",
+  "Multimetre ve osiloskop gibi ölçüm cihazları",
+  "ESD (elektrostatik boşalma) önleyici bileklik, mat ve giysiler",
+  "Elektronik komponentler (direnç, kondansatör, entegre devre vb.)",
+  "Vakumlu pense ve cımbız",
+  "Elektronik kart test cihazları (fonksiyon testi, devre içi test)",
+  "Otomatik optik kontrol (AOI) ve kalite kontrol ekipmanları",
+  "Bilgisayar ve üretim takip/izleme yazılımları",
+  "Koruyucu eldiven ve gözlük gibi kişisel koruyucu donanımlar"
+ ],
+ "benzer_meslekler": [
+  "Telekomünikasyon Elektronik Kart Üretim, Montaj ve Test Elemanı",
+  "Elektro Komponent Dizgi İşçisi",
+  "Elektronik Montörü (Genel)",
+  "Elektronik Montörü (Bilgisayar ve İlgili Cihazlar)",
+  "Endüstriyel Bakım-Onarım Elektronikçisi",
+  "İşletme Elektroniği Yardımcısı"
+ ],
+ "calisma_alanlari": "Telekomünikasyon ve elektronik cihaz üreten fabrikalarda, elektronik kart üretim hatlarında ve bu sektöre hizmet veren yan sanayi işletmelerinde çalışabilir. Elektronik kart üretimi, telekomünikasyon cihazlarının yanı sıra bilgisayar, beyaz eşya ve otomotiv elektroniği gibi farklı sektörlerde de yapıldığından, bu mesleği edinen kişiler çeşitli üretim tesislerinde istihdam olanağı bulabilir. Sektördeki teknolojik gelişmeler ve üretim hacmindeki artış, nitelikli kart üretim-montaj-test elemanlarına olan talebi etkilemektedir.",
+ "calisma_ortami": "Meslek elemanları, genellikle fabrika ve atölye ortamlarında, kapalı mekanlarda çalışır. Çalışma alanları çoğunlukla ESD (elektrostatik boşalma) kontrollü, temiz ve düzenli üretim hatlarıdır; uzun süre ayakta veya oturarak, küçük parçalarla dikkat gerektiren işler yapılır. İşin niteliğine göre vardiyalı çalışma düzeni uygulanabilir. Lehimleme sırasında ortaya çıkan dumana ve bazı kimyasal maddelere (flux, temizlik solventleri vb.) kısa süreli temas söz konusu olabileceğinden uygun havalandırma ve kişisel koruyucu donanım kullanımı önemlidir.\n\nÇalışma sırasında üretim mühendisleri, teknisyenler, kalite kontrol personeli ve diğer üretim hattı çalışanlarıyla yakın iş birliği içinde bulunulur.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi; mesleki ve teknik eğitim programları kapsamında Elektrik-Elektronik Teknolojisi alanına bağlı mesleki eğitim merkezlerinde ve meslek liselerinde verilebilmektedir. Bunun yanında, elektronik üretim yapan işletmelerde işbaşında usta yanında yetişme ve Halk Eğitim Merkezleri ile İŞKUR tarafından açılan mesleki eğitim kursları da bu mesleğe yönelik beceri kazandırılmasında kullanılan yollardandır.",
+  "giris_kosullari": [
+   "En az ilköğretim/ortaokul mezunu olmak",
+   "Mesleki eğitim merkezi programına başlamak için ilgili yaş ve sağlık şartlarını taşımak",
+   "Çıraklık eğitimi tercih edildiğinde bir işyeri bulup işveren ile çıraklık sözleşmesi imzalamak",
+   "El ve göz koordinasyonu gerektiren ayrıntılı işlere uygun olmak"
+  ],
+  "sure_ve_icerik": "Mesleki eğitim merkezlerinde eğitim, örgün ders programı ile işyerinde uygulamalı eğitimin birlikte yürütüldüğü bir yapıda verilir; temel elektrik-elektronik bilgisi, elektronik kart üretim teknikleri, otomatik ve manuel dizgi, lehimleme, montaj ve test uygulamaları öğretilir. Bu mesleğe, resmî bir okul programı dışında, işletmelerde kısa süreli işbaşı eğitimlerle veya kurs programlarıyla da girilebilmektedir; bu durumda eğitim süresi işletmenin ve kişinin öğrenme hızına göre değişiklik gösterebilir.",
+  "belge": "Mesleki eğitim merkezi programını tamamlayanlara kalfalık/ustalık belgesi verilir. Ayrıca Mesleki Yeterlilik Kurumu (MYK) tarafından ilgili alanda düzenlenen mesleki yeterlilik belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "ek_bilgiler": "Elektronik kart üretimi, statik elektriğe hassas parçalarla çalışmayı gerektirdiğinden, meslek elemanlarının ESD kurallarına uyması ve dikkatli çalışması büyük önem taşır. Elektronik ve telekomünikasyon sektörünün teknolojik gelişime bağlı olarak büyümesi, bu alandaki nitelikli üretim-montaj-test elemanlarına olan ihtiyacı artırmaktadır.",
+ "genel_ozellikler": [
+  "El ve göz koordinasyonu gelişmiş,",
+  "Küçük parçalarla dikkatli ve titiz çalışabilen,",
+  "El becerisine sahip,",
+  "Renkleri ve ayrıntıları ayırt edebilen,",
+  "Teknik konulara ilgili,",
+  "Sorumluluk sahibi,",
+  "Takım çalışmasına uyumlu,",
+  "Sabırlı ve düzenli çalışan kişiler olmaları gerekir."
+ ],
+ "gorevler": [
+  "İş sağlığı, iş güvenliği ve çevre koruma kurallarına uygun çalışır.",
+  "İş organizasyonu yapar.",
+  "Elektronik kart üretimine ilişkin hazırlık çalışmalarını yapar.",
+  "Otomatik dizgi makineleriyle elektronik kart üretimini gerçekleştirir.",
+  "Manuel dizgi yöntemiyle elektronik komponentleri kartlara yerleştirir.",
+  "Lehimleme işlemlerini yapar.",
+  "Elektronik kart montaj işlemlerini yapar.",
+  "Üretilen elektronik kartların test işlemlerini yapar.",
+  "Üretim süreçlerine ilişkin değerlendirme çalışmalarına katkı sunar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleki eğitim merkezi programını tamamlayarak diploma alanlar, isterlerse alanlarının devamı niteliğindeki ön lisans/lisans programlarına yönelebilir. Ayrıca çeşitli kurs ve sertifika programlarına katılarak mesleki bilgi ve becerilerini geliştirebilirler.",
+  "is_hayatinda": "Deneyim ve performansa bağlı olarak ekip lideri, ustabaşı veya kalite kontrol sorumlusu gibi görevlere yükselebilirler. İleri düzeyde uzmanlaşarak üretim süreçlerinde denetim, eğitim ve süreç geliştirme gibi görevler üstlenebilirler."
+ },
+ "kazanc": {
+  "egitim_suresince": "Mesleki eğitim merkezi kapsamında çıraklık eğitimi alanlara, 3308 sayılı Mesleki Eğitim Kanunu gereğince işletmelerde asgari ücretin belirli bir oranında ücret ödenir; eğitim gören öğrencilerin iş kazası ve meslek hastalıkları sigortası devletçe karşılanır.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Deneyim, uzmanlaşma düzeyi ve çalışılan işletmenin büyüklüğüne göre kazanç artabilir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T06:33:57",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6213
+  }
+ }
+}

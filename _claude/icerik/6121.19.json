@@ -1,0 +1,90 @@
+{
+ "gorevler": [
+  "Teslim alınan atları ve sayılarını kontrol eder.",
+  "Tavla temizlerken maske, atı tutarken koruyucu yelek, iş eldiveni, çelik burunlu çizme veya ayakkabı giyer, baret takar.",
+  "Pedigri (atın soy kütüğü) için ilgili tarım kuruluşuna müracaat eder ve gerekli bilgileri verir; kimlik, ölüm, erkek at aşım taahhütnameleri takibi için Yüksek Komiserler Kurulu (YKK) ile iletişim kurar, atın ölümünü sebebiyle birlikte bir dilekçe ile il tarım müdürlüğüne bildirir.",
+  "Tavla çavuşu ile birlikte işçilere temizlik yaptırır, havalandırma yapar, atları meraya (padok) çıkarır, altlıkları çeker, ilaçlama cihazı ile dezenfekte eder.",
+  "Doğum olan tavlalarda her gün, diğer tavlalarda üç günde bir dezenfeksiyon yapar.",
+  "Kışın yalnızca temizlik bitene kadar, yazın ise öğlen sıcağı olan 11.00-15.00 saatleri dışındaki diğer saatlerde atları dışarıda tutar; gece 03.00-05.00 saatlerinde içeri alır.",
+  "Özel yemler kullanarak atları günde üç dört defa farklı yem ve otla besler, sularını günde iki defa verir.",
+  "Tavladaki atların en az altı kuşak soy bilgisini öğrenir, ata doğru şekilde yaklaşmayı bilir.",
+  "Tayların binmeye hazırlığını yapar, fiziksel bir sıkıntısı olup olmadığını kontrol eder ve gerekirse ayırır.",
+  "Doğumdan sonraki ilk kırk gün tayın ateşini ölçer, sarılık geçirip geçirmediğini belirler, geçiriyorsa veterinere haber vererek tedavisini sağlar.",
+  "Kısrağı doğum bölmesine (loca) alır.",
+  "Doğumun yaklaşma belirtilerini gözlemler, ishal ve enfeksiyon takibi yapar, gaz sorunlarına müdahale eder.",
+  "Ocak-haziran ayları arasında atın takibini yapar, üreme için gerektiğinde erkek at kiralar.",
+  "Ocak-mayıs ayları arasındaki doğum dönemini, 15 Şubat-15 Haziran arasındaki çiftleşme dönemini takip eder.",
+  "Bakım ve beslenme takibini yapar, yem veya su azaldığında ilgili kişiye haber verir.",
+  "Ata günlük olarak tımar yapar; çamurlu durumlarda kaşağı ve sert fırça ile tarar, son olarak yumuşak fırça ile tarar.",
+  "Doğumdan önce annenin yele ve kuyruk dibi tüylerini kısaltır.",
+  "Ciddi bacak veya boyun kırığı oluştuğunda atın veteriner tarafından uyutulması için haber verir.",
+  "Veteriner iğne yaparken ata zaptırat (atı sabitleyerek tutma) yapar.",
+  "Diş bakımı takibini yapar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "arac_gerec": [
+  "Kaşağı, sert fırça ve yumuşak fırça gibi tımar malzemeleri",
+  "Yem ve su kapları, yemlik ve yalaklar",
+  "Dezenfeksiyon ve ilaçlama cihazları",
+  "Maske, koruyucu yelek, iş eldiveni, çelik burunlu çizme veya ayakkabı, baret gibi kişisel koruyucu donanım",
+  "Ateş ölçer (termometre)",
+  "Zaptırat (atı sabitlemek için kullanılan ekipman)",
+  "Tımar ve bakım seti",
+  "Doğum bölmesi (loca) ve tavla ekipmanları",
+  "Altlık malzemesi (saman, talaş vb.)",
+  "Dren, tok, koşu/yular takımı",
+  "Kayıt, bildirim ve dilekçe için kullanılan evraklar"
+ ],
+ "genel_ozellikler": [
+  "Hayvanları, özellikle atları seven ve onlara şefkatle yaklaşan,",
+  "El becerisine sahip,",
+  "Dikkatli ve sabırlı,",
+  "Fiziksel olarak dayanıklı,",
+  "Sorumluluk sahibi,",
+  "Açık havada ve zor hava koşullarında çalışmaya istekli,",
+  "Gözlem yeteneği gelişmiş,",
+  "Temizlik ve düzene özen gösteren"
+ ],
+ "calisma_ortami": "At yetiştiricisi; tavla, ahır ve mera gibi hem kapalı hem açık alanlarda çalışır. Çalışma ortamında gübre, yem ve hayvan kokusu yoğun olabilir; iş genellikle ayakta, hareketli ve fiziksel çaba gerektiren bir şekilde yürütülür. Doğum ve çiftleşme dönemlerinde, mevsim ve atın durumuna göre çalışma saatleri düzensizleşebilir; erken sabah, gece nöbeti veya hafta sonu çalışması gerekebilir.\n\nAtlarla doğrudan temas nedeniyle tekme yeme, ısırılma gibi kazalara karşı koruyucu ekipman (maske, eldiven, çizme, baret) kullanılması gerekir. Çalışma sırasında tavla çavuşu, diğer bakıcılar, veteriner hekim ve işletme sahibi/yöneticisi ile sık iletişim kurar.",
+ "egitim": {
+  "verildigi_yerler": "At yetiştiricisi mesleğine ilişkin, doğrudan bu adla açılmış bir örgün eğitim programı bulunmamaktadır. Meslek genellikle hara ve çiftliklerde deneyimli at yetiştiricilerinin veya seyislerin yanında, işbaşında uygulamalı olarak öğrenilir. Tarım meslek liselerinin hayvan yetiştiriciliği/zootekni ile ilgili alanları, Halk Eğitim Merkezleri ile İŞKUR'un açtığı mesleki eğitim kursları ve tarım il/ilçe müdürlüklerince düzenlenen eğitimler, mesleğe temel bilgi kazandırabilir.",
+  "giris_kosullari": [
+   "Okuma yazma bilmek,",
+   "İlköğretim mezunu olmak (mesleğin gerektirdiği minimum eğitim düzeyi ilköğretimdir),",
+   "Fiziksel olarak sağlıklı ve bedensel olarak elverişli olmak,",
+   "Hayvanlarla, özellikle atlarla yakın temas halinde çalışmaya istekli olmak."
+  ],
+  "sure_ve_icerik": "Mesleğe özgü belirli bir süreli örgün eğitim programı bulunmamaktadır. Meslek genellikle hara ve çiftliklerde, deneyimli at yetiştiricilerinin veya seyislerin yanında çalışılarak, atın bakımı, beslenmesi, soy kütüğü (pedigri) bilgisi, doğum ve çiftleşme takibi gibi konularda uygulamalı ve zaman içinde (genellikle birkaç yıl süren işbaşı eğitimle) kazanılır. İsteyenler, tarım meslek liselerinin hayvan yetiştiriciliği ile ilgili alanlarında veya kurum ve kuruluşların açtığı kısa süreli mesleki kurslarda temel teorik bilgi edinebilir.",
+  "belge": "Örgün eğitim kapsamında bir diploma söz konusu değildir; katılınan kurs veya programlardan katılım belgesi/sertifika alınabilir. Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "At yetiştiricisi; at yetiştiriciliği yapan özel çiftlikler ve haralar, Tarım ve Orman Bakanlığına bağlı hara ve işletmeler, Türkiye Jokey Kulübüne bağlı hara ve hipodromlar, atlı spor kulüpleri ile binicilik tesisleri ve at pansiyonlarında çalışabilir. Deneyim kazandıktan sonra kendi işletmesini kurarak bağımsız at yetiştiricisi olarak da faaliyet gösterebilir. İş bulma olanakları, atçılık ve at yarışçılığı sektörünün yoğun olduğu bölgelerde (hara ve hipodrom çevresi) daha fazladır.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğe özgü örgün bir eğitim süreci bulunmadığından öğrencilik döneminde burs veya kredi imkânından söz edilemez. İşbaşında çalışarak mesleği öğrenenler, genellikle yardımcı/çırak statüsünde çalıştıkları işletmenin belirlediği, çoğunlukla asgari ücret düzeyinde bir kazanç elde eder.",
+  "egitim_sonrasi": [
+   "Özel sektörde kazanç, işletme sahibinin ücret politikasına ve çalışanın tecrübesine göre değişir; işe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç elde eder.",
+   "Deneyim arttıkça, özellikle soy kütüğü bilgisi ve doğum/çiftleşme takibi gibi sorumluluklar genişledikçe kazanç artabilir.",
+   "Kamuya bağlı hara ve işletmelerde çalışanlar için 657 sayılı Devlet Memurları Kanunu veya ilgili toplu iş sözleşmesi hükümleri geçerli olabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Meslekte örgün bir ilerleme basamağı bulunmamaktadır. Deneyim kazandıkça tavla çavuşluğu veya sorumlu bakıcılık gibi daha fazla yetki ve sorumluluk içeren görevlere geçilebilir. İsteyenler, at yetiştiriciliği, zootekni veya veterinerlik hizmetleri alanında açılan kurs ve seminerlere katılarak bilgisini güncelleyebilir.",
+  "is_hayatinda": "Deneyim kazanan at yetiştiricileri, işletme içinde tavla çavuşu veya sorumlu bakıcı gibi daha üst pozisyonlara yükselebilir, zamanla kendi at yetiştiriciliği işletmesini kurabilir ya da bilgi ve tecrübesiyle danışmanlık yapabilir."
+ },
+ "benzer_meslekler": [
+  "Seyis",
+  "Hara İşçisi",
+  "Çiftçi (Hayvancılık)",
+  "Sığır Yetiştiricisi",
+  "Manda Yetiştiricisi",
+  "Süt Sığırı Yetiştiricisi"
+ ],
+ "ek_bilgiler": "At yetiştiriciliğinde soy kütüğü (pedigri) takibi önemli bir sorumluluktur; bu nedenle meslek mensuplarının ilgili resmî kurumlara (tarım müdürlükleri, Yüksek Komiserler Kurulu gibi) yapılan bildirim ve kayıt işlemlerine hakim olması gerekir. Doğum ve çiftleşme dönemlerinde yoğun ve düzensiz çalışma temposu söz konusu olabilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T21:41:06",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 9168
+  }
+ }
+}

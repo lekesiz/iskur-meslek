@@ -1,0 +1,78 @@
+{
+ "arac_gerec": [
+  "Yüzer vinç (gemi/şalopa vinci)",
+  "Bom",
+  "Halat ve konca",
+  "Sapan ve tırakan",
+  "Kanca",
+  "Can yeleği ve can simidi",
+  "Kask",
+  "Eldiven ve emniyet ayakkabısı",
+  "Telsiz/haberleşme cihazı",
+  "Dürbün",
+  "İşaretleşme flamaları/düdük",
+  "İş elbisesi (tulum)"
+ ],
+ "benzer_meslekler": [
+  "Gemi Vinç Operatörü",
+  "Rıhtım Vinç Operatörü",
+  "Liman Vinç Operatörü (RTG ve SSG)",
+  "Mobil Vinç Operatörü (MHC, Sahil ve Gemi Vinci)",
+  "Gantry Crane Vinç Operatörü",
+  "Transteynir Operatörü (Gemi)"
+ ],
+ "calisma_alanlari": "Yüzer vinç operatörleri; limanlarda, tersanelerde, deniz inşaatları ve altyapı projelerinde, batık gemi çıkarma ve deniz dibi temizleme/kurtarma işleri yürüten kamu ve özel kuruluşlarda, liman işletmeleri ile denizcilik ve nakliye şirketlerinde çalışabilirler.\\n\\nDeniz ticaretinin, liman trafiğinin ve kıyı/deniz yapım işlerinin yoğun olduğu bölgelerde (büyük limanlar, tersane bölgeleri) istihdam olanağı daha fazladır. Çalışma alanı, elinde bulunan sertifika ve ehliyete bağlı olarak farklı tip ve kapasitede yüzer vinçlerle sınırlı kalabilir.",
+ "calisma_ortami": "Yüzer vinç operatörü işini açık havada, deniz üzerinde bulunan yüzer platform/vinç kabininde yürütür. Çalışma ortamı dalga, rüzgâr, yağmur, güneş ve soğuk gibi değişken hava koşullarına açıktır; vinç kabininde sarsıntı, gürültü ve titreşim söz konusu olabilir. Yükseklikten ve denizde düşme, yükün savrulması, halat/kanca kopması gibi iş kazası riskleri bulunduğundan iş sağlığı ve güvenliği kurallarına titizlikle uyulması gerekir.\n\nOperatör, işlemler sırasında serdümen, güverte ekibi, bağlama/sapan elemanları ve liman/işletme yöneticileriyle sürekli koordinasyon ve haberleşme halindedir. Çalışma, yükleme-boşaltma programına, hava ve deniz koşullarına bağlı olarak vardiyalı ve düzensiz saatlerde sürebilir.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin resmî olarak tanımlanmış, standart bir örgün eğitim programı bulunmamaktadır. Meslek, genellikle denizcilik ve liman işletmeciliği alanındaki mesleki ve teknik eğitim kurumlarında, iş makineleri/vinç operatörlüğüne yönelik özel kurslarda, Halk Eğitim Merkezleri ile İŞKUR'un açtığı mesleki eğitim kurslarında veya liman/tersane işletmelerinin kendi bünyesinde verdiği işbaşı eğitimlerle, usta operatör yanında uygulamalı olarak kazanılmaktadır.",
+  "giris_kosullari": [
+   "18 yaşını doldurmuş olmak",
+   "En az ilköğretim mezunu olmak",
+   "İşitme, görme ve denge açısından operatörlük yapmaya engel bir sağlık sorunu bulunmamak",
+   "Denizde ve yükseklikte çalışmaya elverişli olmak"
+  ],
+  "sure_ve_icerik": "Eğitimin süresi ve içeriği, eğitimi veren kuruma göre değişmektedir. Genel olarak vinç mekanizması ve kontrol sistemleri, yük bağlama teknikleri (sapan ve tırakan kullanımı), denizcilik ve can güvenliği kuralları, iş sağlığı ve güvenliği, işaretleşme ve haberleşme yöntemleri konularında teorik dersler verilir. Uygulamalı eğitim ise deneyimli bir vinç operatörünün gözetiminde işbaşında tamamlanır.",
+  "belge": "Eğitimi veren kuruma göre \"Kurs Bitirme/Katılım Belgesi\" veya \"Operatör Belgesi\" verilebilir. Mesleki Yeterlilik Kurumu (MYK) Mesleki Yeterlilik Belgesi, bazı işyerlerinde istihdamda tercih sebebi olabilir."
+ },
+ "ek_bilgiler": "Meslek, denizde ve yükseklikte, değişken hava ve deniz koşullarında yürütüldüğü için iş sağlığı ve güvenliği önlemlerine uyum büyük önem taşır. Bazı liman ve işletmelerde göreve başlamadan önce sağlık muayenesi ve uygulamalı değerlendirme istenebilir.",
+ "genel_ozellikler": [
+  "Dikkatli ve tedbirli,",
+  "Sorumluluk sahibi,",
+  "El ve gözünü eşgüdümle kullanabilen,",
+  "Çevresindeki çeşitli uyarıcıları aynı anda algılayabilen,",
+  "Fiziksel olarak dayanıklı,",
+  "Ekip çalışmasına uyumlu,",
+  "Denizcilik işlerine ilgi duyan,",
+  "Hızlı ve doğru karar verebilen,"
+ ],
+ "gorevler": [
+  "İşe başlamadan vincin bağlantı ve güvenlik önlemlerinin genel kontrolünü yapar.",
+  "Elleçleme yapılacak yükün ağırlık merkezi ve ambalajı hakkında bilgi edinir.",
+  "Serdümenle koordineli olarak yüzer geminin malzemeye yükleme-boşaltma yapılacak şekilde yaklaştırılmasını sağlar.",
+  "Malzemenin bulunduğu yere göre bomu yatırır ya da toplar.",
+  "Halat uçlarındaki konca veya sapanları yüke yaklaştırır.",
+  "Sapan ya da tırakanın yükleme-boşaltma yapılacak malzemeye bağlanmasını bekler.",
+  "Malzemeyi mayna vira (aşağı-yukarı) ve ayranta (sağa-sola dönüş) yaparak kaldırır, taşır ve istenilen yere yerleştirir.",
+  "Malzeme bağlantılarının çözülmesini bekler.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Deneyim kazanan operatörler, farklı tip ve kapasitede yüzer/liman vinçlerini kullanabilmek için ek eğitim ve sertifikasyon programlarına katılarak bilgi ve becerilerini geliştirebilirler.",
+  "is_hayatinda": "Deneyim ve kıdem kazanan operatörler usta operatör, ekip sorumlusu veya liman/vinç operasyonlarından sorumlu şef/amir pozisyonlarına yükselebilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Kurs veya işbaşı eğitim sürecinde genellikle kazanç elde edilmez; işletme bünyesinde çırak/stajyer statüsünde yetiştirilenler sınırlı bir ücret alabilir.",
+  "egitim_sonrasi": [
+   "Kamu kurum ve kuruluşlarında (liman başkanlığı gibi) çalışanlar 657 sayılı Kanun'a veya tabi oldukları toplu iş sözleşmesine göre ücret alırlar.",
+   "Özel sektörde çalışanların ücreti işyerinin büyüklüğüne, kişinin tecrübesine, bilgi ve becerisine göre değişir; yeni başlayanlarda genellikle asgari ücret düzeyindedir, deneyim kazanıldıkça artabilir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T18:55:02",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5360
+  }
+ }
+}

@@ -1,0 +1,79 @@
+{
+ "arac_gerec": [
+  "Delgi (kart delme) makinesi",
+  "Delgi kartları (boş ve dolu kartlar)",
+  "Kart okuyucu cihazı",
+  "Kartları gruplandıran/sıralayan makine",
+  "Program formları ve kaynak belgeler",
+  "Kart saklama kutuları ve dolapları",
+  "Temizlik malzemeleri (delgi masası ve cihaz için)",
+  "Yedek kart stokları",
+  "Basit el aletleri (bakım ve arıza tespiti için)"
+ ],
+ "benzer_meslekler": [
+  "Veri Giriş Elemanı",
+  "Veri Giriş Kontrol İşletmeni",
+  "Bilgisayar İşletmeni",
+  "Kart ve Şerit Delme Makinesi Operatörü",
+  "Diğer Kart ve Şerit Delme Makinesi Operatörleri",
+  "Daktilograf"
+ ],
+ "calisma_alanlari": "Kart Delme Makinesi Operatörü, geçmişte bilgisayarlara veri aktarımının delgi kartları (punch card) aracılığıyla yapıldığı dönemde kamu kurumlarının ve büyük işletmelerin bilgi işlem merkezlerinde, bankalarda, sigorta şirketlerinde, sayım ve istatistik kurumlarında istihdam edilmekteydi.\n\nBilgisayar teknolojisinin gelişmesiyle veri girişi klavye üzerinden doğrudan bilgisayara, ardından manyetik ve optik ortamlara, günümüzde ise dijital veri tabanlarına yapılmaya başlanmış; delgi kartı teknolojisi kullanımdan tamamen kalkmıştır. Bu nedenle meslek, günümüz Türkiye'sinde fiilen uygulama alanı bulunmayan, tarihsel nitelikte bir meslektir. Bu alana ilgi duyan kişilerin, benzer nitelikteki güncel mesleklere (veri giriş elemanlığı, bilgisayar işletmenliği gibi) yönelmesi daha gerçekçi bir seçenektir.",
+ "calisma_ortami": "Kart Delme Makinesi Operatörü, kapalı mekânda, büro veya bilgi işlem merkezi ortamında, masa başında oturarak ve delgi makinesi başında çalışırdı. Çalışma düzeni genellikle gündüz mesaisi şeklindeydi; iş yoğunluğuna göre uzun süre aynı pozisyonda kalmak göz ve bel yorgunluğuna yol açabilirdi.\n\nÇalışma sırasında programcılar, büro amirleri, diğer veri giriş ve delgi operatörleriyle yakın işbirliği içinde bulunulurdu. Delgi hatalarının, kart sıkışmalarının ve arızaların zamanında fark edilip giderilmesi gerektiğinden dikkatli ve sürekli bir çalışma temposu gerektiren bir meslekti.",
+ "egitim": {
+  "verildigi_yerler": "Delgi kartı (punch card) teknolojisi günümüz bilgi işlem sistemlerinde kullanılmadığından, bu mesleğe yönelik Türkiye'de örgün bir eğitim programı, kurs veya sertifika programı bulunmamaktadır. Meslek, geçmişte işyerlerinde işbaşında usta yanında veya kurum içi kısa süreli uygulamalı eğitimlerle öğrenilmekteydi.",
+  "giris_kosullari": [
+   "Türk Meslekler Sözlüğü'nde mesleğin gerektirdiği minimum eğitim düzeyi ortaöğretim (lise ve dengi) olarak belirlenmiştir",
+   "Mesleğe yönelik güncel ve örgün bir eğitim programı bulunmadığından, günümüz koşullarında geçerli bir giriş koşulu tanımlanamamaktadır"
+  ],
+  "sure_ve_icerik": "Mesleğe özgü resmî bir eğitim süresi ve müfredatı bulunmamaktadır. Geçmişte bu işi yapanlar, delgi makinesinin kullanımını, kart okuma-delme işlemlerini ve basit programlama mantığını kısa süreli kurumsal eğitimlerle veya işbaşında öğrenmekteydi.",
+  "belge": "Mesleğe özgü resmî bir diploma, sertifika veya belge bulunmamaktadır."
+ },
+ "ek_bilgiler": "Kart Delme Makinesi Operatörlüğü, 1960-1980'li yıllarda bilgisayarlara veri aktarımının delgi kartları aracılığıyla yapıldığı dönemde yaygın olan bir meslekti. Klavye tabanlı doğrudan veri girişi ile manyetik, optik ve dijital depolama teknolojilerinin gelişmesi sonucunda delgi kartı sistemi kullanımdan tamamen kalkmış, meslek günümüzde Türkiye'de ve dünyada fiilen uygulanmamaktadır. Meslek, İŞKUR Türk Meslekler Sözlüğü'nde tarihsel bir kayıt olarak yer almaktadır. Bu alana ilgi duyan kişilerin, güncel teknolojiye uygun \"Veri Giriş Elemanı\" veya \"Bilgisayar İşletmeni\" gibi mesleklere yönelmesi önerilir.",
+ "genel_ozellikler": [
+  "Dikkatli ve titiz,",
+  "El ve göz koordinasyonu gelişmiş,",
+  "Hızlı ve doğru biçimde tuş/klavye kullanabilen,",
+  "Düzenli ve sistemli çalışabilen,",
+  "Sabırlı ve sürekli dikkat gerektiren işlerde yorulmadan çalışabilen,",
+  "Görsel algısı ve sayısal işlem becerisi iyi,",
+  "Makine ve teknik cihazlarla çalışmaya istekli,",
+  "Sorumluluk sahibi"
+ ],
+ "gorevler": [
+  "Kart üzerinde program hazırlar.",
+  "Forma yazılan programı sayısal ya da alfabetik olma durumuna göre sınıflandırır.",
+  "Kartları delgi makinesine yerleştirir.",
+  "Kartları, yazılması ve delinmesi için otomatik delgi kısmına alır.",
+  "Belirli bir bilgisayar programlama diline göre makineyi ayarlar.",
+  "Tuşlara basarak konuyu makinenin hafızasına verir.",
+  "Seri okumayı ayarlar.",
+  "Kartları delmek ve dışarı almak üzere ilgili tuşlara basar.",
+  "Hatalı yazıları düzeltir.",
+  "Kartları çoğaltmak gerektiğinde makineyi ona göre ayarlar ve çalıştırır.",
+  "Deldiği kartları belirli gruplara ayıran makineyi çalıştırır.",
+  "Delgi hatası, sıkışma gibi durumlarda kartları tekrar yerleştirerek yeniden çalıştırır.",
+  "Delgi masasının ve cihazın temizliğini yapar.",
+  "Arızaları ilgililere bildirir.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğe yönelik güncel bir eğitim programı bulunmadığından, mesleki eğitimde ilerlemeye ilişkin bir bilgi verilememektedir. İlgi duyan kişilerin bilgisayar ve veri işleme alanındaki güncel mesleki eğitim programlarına yönelmesi uygun olacaktır.",
+  "is_hayatinda": "Meslek günümüzde fiilen uygulanmadığından iş hayatında ilerlemeye ilişkin güncel bir bilgi bulunmamaktadır. Geçmişte bu işi yapanlar, deneyim kazandıkça bilgi işlem biriminde denetçi veya operatör şefi gibi görevlere yükselebilmekteydi."
+ },
+ "kazanc": {
+  "egitim_suresince": "Mesleğe yönelik örgün bir eğitim programı bulunmadığından eğitim süresince kazanca ilişkin bir bilgi bulunmamaktadır.",
+  "egitim_sonrasi": [
+   "Bu meslek günümüzde fiilen uygulanmadığından güncel bir kazanç bilgisi verilememektedir.",
+   "Geçmişte bu işi yapanlar, çalıştıkları kurumun statüsüne (kamu/özel) göre ilgili mevzuat veya toplu iş sözleşmesi hükümleri çerçevesinde ücret almaktaydı."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T15:36:39",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5772
+  }
+ }
+}

@@ -1,0 +1,87 @@
+{
+ "arac_gerec": [
+  "Bilgisayar ve programlama yazılımları",
+  "PLC (Programlanabilir Mantıksal Denetleyici) donanımı",
+  "Operatör panelleri (HMI)",
+  "Programlama kabloları ve haberleşme modülleri",
+  "Sensörler ve aktüatörler",
+  "Multimetre",
+  "Osiloskop",
+  "Kumanda devre elemanları (röle, kontaktör, buton vb.)",
+  "SCADA/izleme yazılımları",
+  "Teknik proje çizimleri ve şemalar",
+  "El aletleri (tornavida, pense, kablo soyma pensesi vb.)",
+  "Kablo ve bağlantı elemanları",
+  "Test ve ölçüm cihazları"
+ ],
+ "benzer_meslekler": [
+  "Otomatik Kumanda Teknisyeni",
+  "Endüstriyel Otomasyon Teknolojisi/Otomatik Kumanda/Endüstriyel Otomasyon Teknolojisi (Elektronik)/Kontrol ve Enstrümantasyon Teknisyeni",
+  "Otomasyon Sistemleri Teknisyeni / Otomatik Kumanda Teknisyeni",
+  "Endüstriyel Robot Programcısı",
+  "Bilgisayarlı Nümerik Kontrol (CNC) Teknisyeni",
+  "Dijital Fabrika Teknolojileri Teknikeri"
+ ],
+ "calisma_alanlari": "Otomasyon Sistemleri Programcıları; otomasyon sistemleri kurulumu, devreye alma ve bakımı ile uğraşan firmalarda, fabrikaların üretim ve bakım-onarım birimlerinde (gıda, tekstil, otomotiv, metal, kimya, enerji vb. sektörlerde), PLC ve otomasyon ekipmanı üreten veya satan firmalarda çalışabilirler.\n\nMezunlar kamu kurumlarının teknik birimlerinde ve özel sektör üretim tesislerinde istihdam edilebilir; deneyim ve sermaye birikimine bağlı olarak kendi otomasyon projelendirme ve danışmanlık işletmesini kurabilirler.",
+ "calisma_ortami": "Otomasyon Sistemleri Programcısı genellikle fabrika, atölye ve üretim tesisleri gibi kapalı mekanlarda; kontrol panoları, pano odaları veya sahada çalışır. Çalışma ortamı zaman zaman makine sesleri nedeniyle gürültülü olabilir; elektrik panolarıyla çalışırken elektrik çarpması riskine karşı dikkatli olunması gerekir. Proje hazırlama ve programlama aşamalarında büro ortamında bilgisayar başında, devreye alma ve test aşamalarında ise sahada çalışır.\n\nÇalışma saatleri genellikle tam gündür; üretimin durmaması gereken işletmelerde vardiyalı çalışma veya arıza anlarında mesai saatleri dışında çalışma gerekebilir. Mühendis, teknisyen, operatör, ustabaşı ve diğer bakım personeliyle sürekli iletişim ve iş birliği içinde çalışır.",
+ "egitim": {
+  "verildigi_yerler": "Meslek eğitimi, mesleki ve teknik Anadolu liselerinin elektrik-elektronik teknolojisi, mekatronik veya endüstriyel otomasyon teknolojileri alanlarında verilmektedir. Ayrıca üniversitelere bağlı meslek yüksekokullarının ilgili ön lisans programlarında (örneğin Endüstriyel Otomasyon Teknolojisi, Mekatronik) ve Halk Eğitim Merkezleri ile İŞKUR'un açtığı mesleki eğitim kurslarında temel ve ileri düzey PLC programlama eğitimleri verilmektedir.",
+  "giris_kosullari": [
+   "Meslek lisesi eğitimi için ortaokul mezunu olmak ve ilgili alana kayıt olmak",
+   "Ön lisans programları için lise veya dengi okul mezunu olmak ve YKS (Yükseköğretim Kurumları Sınavı) kılavuzunda belirtilen koşulları taşımak",
+   "Kurs programları için kurumun belirlediği öğrenim düzeyi ve yaş şartlarını taşımak"
+  ],
+  "sure_ve_icerik": "Meslek lisesi eğitimi 4 yıl sürer; temel elektrik-elektronik bilgisi, otomasyon sistemleri, PLC programlama ve proje hazırlama derslerini içerir, işletmelerde staj uygulaması bulunur. Ön lisans eğitimi 2 yıl sürer, teorik derslerin yanı sıra işletmelerde staj yapılır. Kurs düzeyindeki eğitimler ise birkaç haftadan birkaç aya kadar sürebilen, temel PLC programlama ve otomasyon uygulamalarına yönelik yoğunlaştırılmış programlardır.",
+  "belge": "Meslek lisesinden diploma, meslek yüksekokulundan ilgili alanda ön lisans diploması; kurs programlarından ise katılım veya başarı belgesi verilir. Ayrıca Mesleki Yeterlilik Kurumu (MYK) tarafından düzenlenen ilgili alan belgesi ile bazı üretici firmaların (PLC marka üreticileri) verdiği sertifikalar istihdamda tercih sebebi olabilir."
+ },
+ "ek_bilgiler": "Otomasyon ve PLC programlama alanı, sanayide dijitalleşme ve Endüstri 4.0 uygulamalarının yaygınlaşmasıyla birlikte gelişmekte olan bir alandır. Farklı üretici firmaların (örneğin Siemens, Schneider, Mitsubishi vb.) kendi ürünlerine özel verdiği sertifika programlarına sahip olmak istihdamda tercih sebebi olabilir.",
+ "genel_ozellikler": [
+  "Matematik ve fen bilimlerine ilgili",
+  "Analitik düşünme ve problem çözme yeteneğine sahip",
+  "Dikkatli ve sistemli çalışabilen",
+  "El ve göz koordinasyonu iyi",
+  "Sorumluluk sahibi",
+  "Ekip çalışmasına uyumlu",
+  "Yeni teknolojileri takip etmeye istekli",
+  "Elektrik ve elektronik sistemlerle çalışmaktan çekinmeyen"
+ ],
+ "gorevler": [
+  "İş sağlığı ve güvenliği, yangın ve acil durum kurallarını uygular.",
+  "Kalite yönetim sistemi ile ilgili faaliyetleri yürütür.",
+  "İş organizasyonu yapar.",
+  "Mikro seviyede proje hazırlar.",
+  "PLC projelerini (algoritma) tasarlar, çizer, onaya sunar.",
+  "Sıcak test yapar, projeyi devreye alır, projeyi optimize eder.",
+  "Sinyal listesini oluşturur.",
+  "Algoritmaya göre elemanları tanımlar, kodlar, sinyalleri belirler, sembolik listeyi oluşturur, yedek giriş-çıkışları belirler.",
+  "Algoritma hazırlar.",
+  "Temel programlama dilini kullanır, verilen eleman listesini prosese göre kontrol eder, akış diyagramını kağıt üzerinde tasarlar, ladder (merdiven) diyagramda programı oluşturur, algoritmayı (programı) PLC'ye yükler, test eder.",
+  "Temel seviyede PLC programı yapar.",
+  "Temel akış diyagramını hazırlar, ladder (merdiven) diyagramını hazırlar, zamanlayıcı fonksiyonlarını kullanır.",
+  "Sayıcı fonksiyonlarını kullanır, set-reset fonksiyonlarını kullanır, PLC programını kullanır, programlama cihazı ile PLC'ye program yükler.",
+  "Analog/dijital sinyal testlerini yapar.",
+  "Analog ve dijital bağlantıları kontrol eder, PLC modüllerinin konfigürasyona uygunluğunu kontrol eder, analog sinyallerin uygunluğunu kontrol eder.",
+  "Mikro seviyede proje tesisini kontrol eder.",
+  "Temel kumanda devrelerinin işlevlerini kontrol eder, kablo montajının projeye uygun olup olmadığını kontrol eder, PLC donanımı montajının projeye uygunluğunu kontrol eder, soğuk (enerjisiz) testlerini yapar, mikro seviyede operatör panelini programlar, panel ile PLC arasındaki donanımsal bağlantıyı sağlar (haberleştirir), operatör paneli paket programını kullanır, operatör panelinin ekranını tasarlar, tasarladığı programı panele yükler, paneldeki simgelere fonksiyon atar, operatör paneli fonksiyonlarını test eder.",
+  "Mesleki gelişim faaliyetlerini yürütür."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Meslek lisesi mezunları sınavla ilgili ön lisans programlarına kayıt olabilir. Ön lisans programını başarıyla tamamlayanlar, Dikey Geçiş Sınavı (DGS) ile başarılı oldukları takdirde ilgili mühendislik lisans programlarına geçiş yapabilirler.",
+  "is_hayatinda": "Mesleki bilgi ve tecrübesini artıran kişiler proje sorumlusu, ekip lideri veya bakım-onarım birim sorumlusu gibi görevlere yükselebilir; ilgili mühendislik eğitimini tamamlayarak mühendis unvanıyla da çalışabilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Meslek lisesi öğrencileri için ayrıca bir ücret söz konusu değildir. Ön lisans öğrencileri Yüksek Öğrenim Kredi ve Yurtlar Kurumu Genel Müdürlüğünün sağladığı yurt ve kredi olanaklarından yararlanabilir; staj dönemlerinde bazı işletmeler öğrencilere cüzi miktarda ödeme yapabilir.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında işçi statüsünde çalışanlar toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde ücret, kişi ile işveren arasında deneyim, bilgi birikimi ve işletmenin büyüklüğü göz önüne alınarak belirlenir; yeni başlayanlarda genellikle asgari ücret düzeyinde olabilir, deneyim ve uzmanlaşma ile artış gösterir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T11:25:57",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 7294
+  }
+ }
+}

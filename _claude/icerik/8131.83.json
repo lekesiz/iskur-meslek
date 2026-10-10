@@ -1,0 +1,79 @@
+{
+ "arac_gerec": [
+  "Ampul/flakon yıkama makinesi",
+  "Kurutma fırını/tüneli",
+  "Ampul/flakon dolum makinesi",
+  "Kapak kapatma makinesi",
+  "Otoklav (sterilizasyon cihazı)",
+  "Sterilizasyon fırını/tüneli",
+  "Çözelti hazırlama tankı/mikser",
+  "Hassas terazi ve ölçüm ekipmanları",
+  "Filtrasyon sistemi (membran filtre)",
+  "Laminar akış kabini / temiz oda ekipmanları",
+  "Numune alma ekipmanları",
+  "Ampul, flakon, kapak gibi ambalaj malzemeleri",
+  "Kalite kontrol ve partikül sayım cihazları",
+  "Kişisel koruyucu donanım (steril önlük, bone, maske, eldiven)"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve titiz,",
+  "Hijyen kurallarına son derece duyarlı,",
+  "Sorumluluk duygusu yüksek,",
+  "El becerisine sahip,",
+  "Talimat ve standartlara harfiyen uyabilen,",
+  "Ekip çalışmasına yatkın,",
+  "Steril ortam kurallarına uyum sağlayabilen,",
+  "Dikkatini uzun süre koruyabilen,"
+ ],
+ "calisma_ortami": "Parenteral ilaç imalatı, ilaç fabrikalarının steril/temiz oda (clean room) niteliğindeki üretim bölümlerinde yürütülür. Çalışma ortamı sıcaklık, nem ve partikül sayısı bakımından sıkı biçimde kontrol edilir; çalışanlar özel steril kıyafet, bone, maske ve eldiven gibi koruyucu donanım giyer. İş genellikle ayakta, makine ve ekipman eşliğinde yürütülür; işletmeye göre vardiyalı çalışma düzeni uygulanabilir.\n\nÇözücü, yardımcı madde ve sterilizasyon işlemleri sırasında kimyasal maddelerle temas söz konusu olabileceğinden iş sağlığı ve güvenliği kurallarına tam uyum gerekir. Meslek mensubu; üretim şefi, kalite kontrol personeli ve diğer imalat işçileriyle sürekli koordinasyon içinde çalışır.",
+ "egitim": {
+  "verildigi_yerler": "Parenteral ilaç imal işçiliği için örgün bir okul programı bulunmamaktadır. Mesleğe yönelik bilgi ve beceriler büyük ölçüde ilaç fabrikalarında işbaşında, usta veya uzman personel gözetiminde kazanılır. Ayrıca Halk Eğitim Merkezleri ve İŞKUR tarafından zaman zaman açılan kimya/ilaç üretimi alanındaki mesleki eğitim kurslarından da yararlanılabilir.",
+  "giris_kosullari": [
+   "Okuryazar olmak,",
+   "18 yaşını doldurmuş olmak,",
+   "Kurs veya işbaşı eğitim programının öngördüğü temel becerileri gerçekleştirebilecek fiziksel ve psikomotor yeterliğe sahip olmak."
+  ],
+  "sure_ve_icerik": "Kurs temelli eğitimlerde süre ve içerik, eğitimi açan kuruma göre değişmekle birlikte iş sağlığı ve güvenliği, hijyen ve sterilizasyon kuralları, çözelti hazırlama, kap yıkama-kurutma, dolum-kapatma işlemleri ile kalite standartlarına uygunluk konularını kapsar. İşletmelerde verilen işbaşı eğitiminde süre, işletmenin yapısına ve kişinin gelişimine göre değişebilir.",
+  "belge": "Kurs yoluyla eğitim alanlara, eğitimi tamamlamaları hâlinde 'Kurs Bitirme Belgesi' verilir; talep edenlere Europass Sertifika Eki düzenlenebilir. İşbaşı eğitiminde resmî bir belge yerine işletme içi sertifika verilebilir."
+ },
+ "gorevler": [
+  "İş sağlığı ve güvenliği, yangın ve acil durum kurallarını uygular.",
+  "Kalite yönetim sistemi ile ilgili faaliyetleri yürütür.",
+  "İş organizasyonu yapar.",
+  "Belirlenen kalite standartlarına uygun olarak kapları yıkar ve kurutur.",
+  "Belirlenen kalite standartlarına uygun olarak çözücüleri ve yardımcı maddeleri hazırlar.",
+  "Belirlenen kalite standartlarına uygun olarak ampul ve flakonları doldurur ve kapatır.",
+  "Belirlenen kalite standartlarına uygun olarak sterilizasyon uygular ve kontrollerini yapar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "calisma_alanlari": "Mesleğin gerektirdiği yeterlilikleri kazanan bireyler; parenteral (enjeksiyon, infüzyon/perfüzyon) ilaç üreten ilaç fabrikalarının üretim bölümlerinde çalışabilirler. İstihdam büyük ölçüde özel sektördeki ilaç üretim tesislerinde söz konusudur; kamuda bu meslek dalında doğrudan istihdam olanağı sınırlıdır.",
+ "kazanc": {
+  "egitim_suresince": "Kurs yoluyla eğitim alınması durumunda genellikle herhangi bir ücret söz konusu değildir. İşbaşında eğitim alınan işletmelerde, çalışılan süreye göre sınırlı bir ödeme yapılabilir.",
+  "egitim_sonrasi": [
+   "Meslekte yeni başlayanların ücreti genellikle asgari ücret düzeyindedir.",
+   "Deneyim, işletmenin büyüklüğü ve üstlenilen sorumluluk arttıkça ücret düzeyi yükselebilir.",
+   "Kamuda işçi statüsünde istihdam edilenler için toplu iş sözleşmesi hükümleri, özel sektörde ise işveren ile çalışan arasındaki anlaşma koşulları geçerlidir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Bu meslekte tanımlanmış örgün bir ilerleme basamağı bulunmamaktadır. İsteyen kişiler kimya teknolojisi, ilaç teknolojisi gibi alanlarda ön lisans veya lisans eğitimi alarak teknisyen ya da mühendis düzeyinde görevlere geçiş yapabilir.",
+  "is_hayatinda": "Bilgi, beceri ve deneyim arttıkça usta, vardiya sorumlusu, üretim şefi gibi unvanlarla iş hayatında ilerleme imkânı bulunur."
+ },
+ "benzer_meslekler": [
+  "Toz İlaç İmal İşçisi",
+  "Tablet İlaç İmal İşçisi",
+  "Şurup İmal İşçisi",
+  "Süspansiyon İlaç İmal İşçisi",
+  "Pomat İlaç İmal İşçisi",
+  "İlaç Üretim Operatörü (Beşeri ve Veteriner)"
+ ],
+ "ek_bilgiler": "Steril üretim ortamında çalışıldığından hijyen kurallarına tam uyum büyük önem taşır. Mesleğin bazı iş süreçleri (kimyasal madde kullanımı ve sterilizasyon işlemleri gibi) tehlikeli/çok tehlikeli işler kapsamında değerlendirilebilir; bu durumda Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir veya işletmenin tabi olduğu mevzuata göre gerekli olabilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T12:30:12",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5908
+  }
+ }
+}

@@ -1,0 +1,71 @@
+{
+ "arac_gerec": [
+  "Bobin sarım (sarma) makinesi",
+  "Boş masura/koni",
+  "İplik kopuk bağlama aparatları",
+  "Gerginlik (tansiyon) kontrol düzenekleri",
+  "Etiket ve etiketleme malzemeleri",
+  "Taşıma arabası, palet",
+  "Basit bakım el aletleri (anahtar, tornavida vb.)",
+  "Temizlik malzemeleri",
+  "Kişisel koruyucu donanım (eldiven, kulak tıkacı, iş önlüğü, maske)"
+ ],
+ "genel_ozellikler": [
+  "El ve göz koordinasyonuna sahip,",
+  "Dikkatli ve sabırlı,",
+  "El becerisi olan,",
+  "Monoton ve tekrarlı işleri uzun süre sürdürebilen,",
+  "Ayakta çalışmaya uygun fiziksel yapıya sahip,",
+  "Makine ve ekipmanlarla çalışmaya istekli,",
+  "Düzenli ve sorumluluk sahibi,",
+  "İşçi sağlığı ve iş güvenliği kurallarına uyan"
+ ],
+ "calisma_ortami": "Bobinci - yün iplik, iplik ve tekstil fabrikalarının üretim atölyelerinde, kapalı mekânda görev yapar. Çalışma ortamında makine gürültüsü ve iplik tozu bulunabilir; bu nedenle kişisel koruyucu donanım kullanımı önem taşır. Çalışan, sarım makinesinin başında genellikle ayakta, bazen eğilerek ve sürekli dikkat gerektiren bir tempoda çalışır.\n\nGörev genellikle bireysel olarak yürütülür; ancak işyerinde ustabaşı, vardiya sorumlusu ve diğer üretim çalışanlarıyla iletişim halindedir. İşletmenin üretim düzenine göre vardiya usulü çalışma söz konusu olabilir.",
+ "gorevler": [
+  "Sarım makinesinin ayarlarını ve boş masura beslemesini yapar,",
+  "İplik kopuklarını uygun düğüm teknikleriyle bağlar,",
+  "Bobinlerin sarım gerginliğini ve düzgünlüğünü kontrol eder,",
+  "Dolan bobinleri makineden alarak etiketler ve istifler,",
+  "Makinede oluşan basit arızaları ve temizlik işlerini yürütür,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Mesleğin örgün bir meslek lisesi programı bulunmamaktadır. Meslek genellikle işyerinde usta yanında, uygulamalı olarak öğrenilmektedir. Halk Eğitim Merkezlerinin ve İŞKUR'un açtığı mesleki eğitim/işgücü yetiştirme kursları da bu mesleğe yönelik temel bilgi ve beceri kazandırabilir.",
+  "giris_kosullari": [
+   "Okuryazar olmak (meslek için gereken minimum eğitim düzeyi okuryazarlıktır),",
+   "Çalışılacak işyerinin aradığı koşulları taşımak,",
+   "Sağlık durumunun işin fiziksel gerekliliklerine (uzun süre ayakta durma, el becerisi gerektiren işler vb.) uygun olması."
+  ],
+  "sure_ve_icerik": "Mesleğe özgü standart süre ve içeriğe sahip resmî/örgün bir eğitim programı bulunmamaktadır. Kişi, genellikle işe girdikten sonra kısa süreli bir uyum sürecinde usta işçinin gözetiminde makinenin kullanımını, düğüm tekniklerini ve bobin kontrolünü uygulamalı olarak öğrenir. İŞKUR ve Halk Eğitim Merkezlerinin açtığı tekstil/iplik üretimine yönelik kursların süre ve içeriği kurumdan kuruma değişebilir.",
+  "belge": "Örgün eğitim yoluyla alınan resmî bir diploma bulunmamaktadır. İŞKUR veya Halk Eğitim Merkezlerinin açtığı kurslara katılanlara kurs bitirme/katılım belgesi verilebilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Bobinci - yün iplik, yün iplik üretimi yapan iplik fabrikaları ve tekstil işletmelerinin bobinaj/sarım bölümlerinde çalışır. İş bulma olanakları, iplik ve tekstil sanayinin yoğun olduğu bölgelerde daha fazladır ve sektördeki üretim hacmine, sipariş yoğunluğuna göre değişkenlik gösterebilir.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğe özgü örgün bir eğitim programı bulunmadığından, işe girerek işbaşında yetişenler genellikle asgari ücret düzeyinde ücret alır. İŞKUR veya Halk Eğitim Merkezlerinin açtığı kurslara katılanlara kurs süresince genellikle ücret ödenmemektedir.",
+  "egitim_sonrasi": [
+   "Özel sektörde çalışanların kazancı, işyerinin büyüklüğü, kişinin deneyimi, bilgisi ve sektörün ücret düzeyine göre değişebilmekle birlikte, mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Deneyim kazandıkça ve sorumluluk üstlendikçe (örneğin usta, vardiya sorumlusu gibi görevlerde) kazanç artabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğin örgün bir eğitim kademesi bulunmadığından mesleki eğitimde belirli bir ilerleme basamağı tanımlanmamıştır. Kişi, isterse İŞKUR ve Halk Eğitim Merkezlerinin açtığı ileri düzey tekstil/iplik üretimi kurslarına katılarak bilgi ve becerisini geliştirebilir.",
+  "is_hayatinda": "Deneyim kazanan bobinciler zamanla usta, ustabaşı veya vardiya sorumlusu gibi görevlere yükselebilir; işletme içinde makine bakım-onarımı veya kalite kontrol gibi görevlerde de değerlendirilebilir."
+ },
+ "benzer_meslekler": [
+  "Bobin Aktarma İşçisi",
+  "Meydancı - İplik",
+  "Katçı (Tekstil)",
+  "Vater Takımcı",
+  "Ayakçı (Tekstil)",
+  "İplik Yıkama İşçisi"
+ ],
+ "ek_bilgiler": "Bu meslekte istihdam olanakları, iplik ve tekstil sektöründeki üretim hacmine bağlı olarak değişkenlik gösterir. Makine ile çalışma sırasında iş sağlığı ve güvenliği kurallarına, özellikle koruyucu donanım kullanımına dikkat edilmesi önemlidir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T20:15:12",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5511
+  }
+ }
+}

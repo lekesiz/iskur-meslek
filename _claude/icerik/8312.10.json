@@ -1,0 +1,77 @@
+{
+ "arac_gerec": [
+  "Bariyer (elle veya otomatik kumandalı)",
+  "Zincir (bariyer bulunmayan geçitlerde)",
+  "İşaret bayrakları (kırmızı-yeşil)",
+  "İşaret feneri/lambası",
+  "Düdük",
+  "Telsiz, telefon veya diğer iletişim araçları",
+  "Resmi görev kıyafeti",
+  "Geçit barakası/kulübesi",
+  "Tevkif takozu",
+  "Kestane fişeği",
+  "İlkyardım çantası",
+  "Saat",
+  "Görev/kayıt defteri",
+  "El feneri"
+ ],
+ "benzer_meslekler": [
+  "Demiryolu Sinyalcisi",
+  "Tren Teşkil Memuru (Makasçı)",
+  "Demiryolu Yol Kontrol Görevlisi",
+  "Demiryolu Frencisi",
+  "Yol Sürveyanı (Demiryolu)"
+ ],
+ "calisma_alanlari": "Geçit Bekçisi (Demiryolu), başta Türkiye Cumhuriyeti Devlet Demiryolları (TCDD) olmak üzere, demiryolu altyapısı işleten kamu ve özel kuruluşlarda; şehirlerarası ve banliyö hatlarındaki hemzemin geçitlerde istihdam edilir. İş bulma olanağı, demiryolu hattının uzunluğuna, hemzemin geçit sayısına ve bu geçitlerde otomatik bariyer/sinyalizasyon sistemlerinin kurulma düzeyine bağlı olarak değişir. Otomatik ve uzaktan kumandalı bariyer sistemlerinin yaygınlaşması, bu meslekte çalışan sayısının zamanla azalma eğilimi göstermesine yol açabilmektedir. Yeni demiryolu hatlarının yapılması, mevcut hatların bakımı ve kapasite artırımı ise meslek elemanlarına kısmen yeni istihdam alanları açabilir.",
+ "calisma_ortami": "Geçit Bekçisi, görev süresinin büyük bölümünü açık havada, hemzemin geçit yakınındaki gözetim noktasında veya geçit barakasında geçirir. Çalışma, sıcak-soğuk, yağmurlu-karlı gibi her türlü hava koşulunda sürdürülür; gürültü, trafik akışı ve geçen trenlerin oluşturduğu riskli bir ortamda, yüksek dikkat ve tetikte olma gerektirir. Vardiya sistemiyle günün her saatinde, gece dahil ve resmi tatil günlerinde de çalışılabilir.\n\nGörev genellikle tek başına yürütülür; ancak istasyon görevlileri, tren personeli, amirler ve geçitten geçmek isteyen yaya/sürücülerle sık sık iletişim kurulur. Dikkatsizlik veya ihmal sonucu ciddi kazalara yol açabilecek bir meslek olduğundan, iş sağlığı ve güvenliği kurallarına eksiksiz uyma zorunluluğu vardır.",
+ "ek_bilgiler": "Otomatik ve uzaktan kumandalı bariyer-sinyalizasyon sistemlerinin yaygınlaşması nedeniyle, bu meslekte görevli personel sayısı zamanla azalma eğilimi gösterebilir. Görevin sorumluluğu ve risk düzeyi nedeniyle işe alımlarda genellikle işitme ve görme duyularının sağlıklı olması, sağlık muayenesinden geçme şartı aranır.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimine yönelik, Milli Eğitim Bakanlığına bağlı okullarda ayrı bir örgün program bulunmamaktadır. Bu mesleğe girenler genellikle en az ilköğretim mezunu olarak işe alınır ve görevin gerektirdiği bilgi ve becerileri, TCDD veya ilgili demiryolu işletmesi tarafından düzenlenen hizmet içi eğitimlerle ve işbaşında usta/deneyimli personel yanında kazanırlar.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "Sağlık durumunun (özellikle görme ve işitme) görevi yapmaya uygun olduğunu belgelemek",
+   "İlgili demiryolu işletmesinin açtığı işe alım sınavı/mülakatı ve varsa güvenlik soruşturmasını başarıyla geçmek",
+   "18 yaşını doldurmuş olmak"
+  ],
+  "sure_ve_icerik": "Standart ve belirli bir süreye bağlanmış resmi bir eğitim programı bulunmamaktadır. İşe alındıktan sonra, demiryolu trafik kuralları, hemzemin geçit işletim talimatları, sinyal ve işaretleşme usulleri, iş sağlığı ve güvenliği ile acil durum prosedürlerini kapsayan hizmet içi eğitimler ve işbaşında uygulamalı eğitim verilir.",
+  "belge": "Hizmet içi eğitimi tamamlayan ve göreve uygun bulunan kişilere, çalıştığı kurum tarafından görevlendirme/yetki belgesi verilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "genel_ozellikler": [
+  "Dikkatli ve tetikte olan,",
+  "Sorumluluk sahibi,",
+  "Kurallara titizlikle uyan,",
+  "Sabırlı ve soğukkanlı,",
+  "Görme ve işitme duyuları sağlıklı,",
+  "Olumsuz hava koşullarına dayanıklı,",
+  "Hızlı karar verip uygulayabilen,",
+  "İletişime açık"
+ ],
+ "gorevler": [
+  "Hemzemin geçitlerden tren, otoray, motorlu drezin, otodrezin, drezin, vagonet ve diğer demiryolu araçlarının emniyetle geçmesini sağlamak üzere, geçişten önceden bariyeri kapatır; bariyer yoksa zincir çekerek demiryolunu tamamen serbest bulundurur.",
+  "Resmi görev kıyafetini giyerek görevini sürdürür, hemzemin geçidi ve geçit barakasını temiz tutar.",
+  "Hemzemin geçitler dışında demiryolu üzerinden yaya ve hayvan geçişlerine engel olur; buna uymayan kişilerin kimlik bilgilerini öğrenerek en yakın amirine bildirir, demiryolu istimlak sınırları içine yapılan üçüncü şahıs müdahalelerine engel olup durumu amirine bildirir.",
+  "Ertesi günkü sefer programını ve tarifeli trenler dışında sefere konulan veya seferden kaldırılan tren ile demiryolu araçlarına ilişkin bilgileri öğrenerek, tüm tren ve demiryolu araçlarının emniyetle geçişini sağlar; tarifeli trenlerin geçiş saatlerini takip eder, geciken trenlerin nedenini araştırıp gerekli tedbirleri alır.",
+  "Hemzemin geçitten geçen trenlerde trafik emniyetini tehlikeye düşürecek arıza veya eksiklik bulunup bulunmadığını gözetler; fark ettiği arıza ve eksiklikleri en yakın istasyona veya ilgililere bildirir, mümkün olduğunda tren personelini vereceği işaretlerle uyarır.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Geçit Bekçisi olarak çalışanlar, kurum içinde düzenlenen ek hizmet içi eğitimlere katılarak ve deneyim kazanarak makasçılık, sinyalcilik, frencilik gibi demiryolu işletmeciliğine ilişkin diğer mesleklerin eğitimlerine yönlendirilebilir.",
+  "is_hayatinda": "Kıdem ve performansa bağlı olarak, kurum içi sınav ve değerlendirmelerle yol bekçisi şefliği, istasyon memurluğu gibi gözetim ve sorumluluk düzeyi daha yüksek görevlere geçiş yapılabilir. Kamu kurumunda işçi statüsünde çalışanlar, ilgili toplu iş sözleşmesi hükümleri çerçevesinde kıdeme bağlı olarak ücret ve unvan artışı yaşayabilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Mesleğe özgü, ücretsiz veya resmi bir eğitim süreci bulunmadığından, eğitim süresince ayrıca bir kazançtan söz edilemez; kişi işe alındıktan sonra çalıştığı kurumun ücret politikasına göre maaş almaya başlar ve işbaşı eğitimi bu süre içinde yürütülür.",
+  "egitim_sonrasi": [
+   "TCDD gibi kamu kurumlarında işçi statüsünde çalışanlar, ilgili toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Taşeron veya özel sektör firmalarında çalışanların ücreti, işletmenin politikasına ve deneyime göre değişmekle birlikte, yeni başlayanlar için genellikle asgari ücret düzeyindedir.",
+   "Gece, hafta sonu ve resmi tatil çalışmaları için ayrıca mesai veya ek ödeme yapılabilir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T18:10:42",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5738
+  }
+ }
+}

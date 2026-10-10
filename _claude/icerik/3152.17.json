@@ -1,0 +1,83 @@
+{
+ "arac_gerec": [
+  "Telsiz haberleşme cihazları (VHF, MF/HF)",
+  "GMDSS (Küresel Deniz Tehlike ve Emniyet Sistemi) donanımları",
+  "Inmarsat uydu haberleşme terminalleri",
+  "NAVTEX alıcısı",
+  "EPIRB (acil durum konum belirleme vericisi)",
+  "SART (arama kurtarma transponderi)",
+  "Radar ve elektronik seyir cihazları",
+  "Test ve ölçüm cihazları (multimetre, osiloskop vb.)",
+  "El aletleri ve lehim takımı",
+  "Yedek parça ve devre kartları",
+  "Bilgisayar ve haberleşme yazılımları",
+  "Anten ve kablo donanımı",
+  "Güverte ve köprü üstü jurnal/kayıt defterleri"
+ ],
+ "genel_ozellikler": [
+  "Elektronik ve haberleşme sistemlerine ilgi duyan,",
+  "Dikkatli, tedbirli ve sorumluluk sahibi,",
+  "Acil durumlarda hızlı ve doğru karar verebilen,",
+  "El ve parmak becerisine sahip,",
+  "Ekip çalışmasına uyumlu,",
+  "Uzun süre denizde ve aileden ayrı kalmaya dayanıklı,",
+  "Temel düzeyde İngilizce bilgisine sahip,",
+  "Teknik arızaları analiz edip çözüm üretebilen"
+ ],
+ "calisma_ortami": "Gemi Elektroniği ve Haberleşme Zabiti, açık denizlerde seyreden gemilerde çalışır. Görevinin büyük kısmını geminin telsiz/haberleşme odası ve köprü üstü gibi kapalı mekânlarda geçirir, anten ve donanım kontrolleri sırasında güvertede açık havada da bulunur. Çalışma; sabit mesai yerine vardiya sistemine ve seferin gerektirdiği uzun deniz yolculuklarına göre düzenlenir, aylarca aileden ayrı kalmayı gerektirebilir. Görevi sırasında gemi kaptanı, diğer güverte ve makine zabitleri, mürettebat ile yakın iş birliği içinde çalışır; ayrıca kıyı radyo istasyonları ve diğer gemilerle sürekli haberleşme halindedir. İşin niteliğine bağlı olarak elektrik çarpması, yüksek frekanslı donanımlara yakın çalışma ve deniz tutması gibi riskler söz konusu olabilir.\n\nİş, dalgalı deniz ve değişken hava koşullarında dahi kesintisiz haberleşme ve donanım sürekliliğini gerektirdiğinden dikkat ve tedbir ön plandadır.",
+ "gorevler": [
+  "Günlük iş planı ve iş organizasyonu yapar.",
+  "İletişim araçlarının testlerini yapar.",
+  "Acil durum ve günlük haberleşmeyi yapar.",
+  "İletişim araçlarında oluşan arızaları belirler.",
+  "Gemiyi yürüten sistemlerin elektronik donanımlarında oluşan arızaları belirler.",
+  "Belirlenen arızaların gemideki yedek parça, araç ve gereçle giderilip giderilemeyeceğine karar verir.",
+  "Gemideki yedek parça ve araç-gereçle giderilebilecek arızaları giderir.",
+  "Arızası süren aracı devreden çıkarır, varsa yedeğini devreye alır.",
+  "Gemi dışından alınması gereken yedek parça veya servis hizmeti için gereken girişimi başlatır.",
+  "Haberleşme ile ilgili iş ve işlemleri ilgili kurallara uygun olarak başlatır, yürütür ve sonlandırır.",
+  "Gemi yönetmeninin vereceği görevle bağdaşık diğer işleri yapar.",
+  "Mesleği alanındaki gelişmeleri takip eder ve uygular.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi; denizcilik meslek liselerinin ilgili alanları, denizcilik yüksekokulları ile meslek yüksekokullarının deniz ulaştırma/elektronik-haberleşme ile ilgili bölümleri ve Ulaştırma ve Altyapı Bakanlığı tarafından yetkilendirilmiş kurumların açtığı GMDSS/telsiz elektronik operatörlüğü eğitim programları aracılığıyla verilmektedir.",
+  "giris_kosullari": [
+   "En az lise veya dengi okul mezunu olmak (tercihen denizcilik, elektrik-elektronik veya haberleşme alanlarından)",
+   "Gemiadamı olmaya engel bir sağlık durumu bulunmaması (gemiadamı sağlık raporu)",
+   "Renk körlüğü bulunmaması",
+   "İlgili eğitim kurumunun belirlediği giriş koşullarını (sınav, mülakat vb.) sağlamak"
+  ],
+  "sure_ve_icerik": "Eğitim süresi ve içeriği, alınan okul veya kurs türüne göre değişmektedir. Denizcilik meslek liselerinde örgün eğitim yaklaşık dört yıl sürerken, lise sonrası açılan GMDSS/telsiz elektronik operatörlüğü kurslarında eğitim daha kısa sürelidir. Eğitimde; temel elektronik, telsiz haberleşme teknikleri, GMDSS kuralları, seyir elektroniği, acil durum haberleşmesi ve denizcilik İngilizcesi gibi dersler okutulur. Ayrıca uluslararası STCW Sözleşmesi kapsamında belirlenen deniz hizmeti (staj) süresinin tamamlanması gerekmektedir.",
+  "belge": "Eğitimini ve gerekli deniz hizmetini tamamlayıp yetkili kurumlarca yapılan sınavlarda başarılı olanlara İkinci Sınıf Telsiz Elektronik Operatörü yeterlik belgesi ile birlikte Gemi Elektroniği ve Haberleşme Zabitliği yeterliği verilir."
+ },
+ "calisma_alanlari": "Yük gemileri, tankerler, konteyner gemileri, yolcu ve feribot gemileri ile çalışan deniz nakliyat şirketlerinde; kılavuzluk, römorkaj işletmelerinde; kamuya ait gemilerde (Sahil Güvenlik ve benzeri kurumların destek gemileri dâhil) ve denizcilik şirketlerinin teknik servis birimlerinde istihdam edilebilirler. Ülkemizin deniz ticaret filosunun büyüklüğü ve uluslararası taşımacılıktaki payı nedeniyle nitelikli gemi zabitlerine yönelik talep sürmekte, yabancı bayraklı gemilerde de çalışma olanağı bulunmaktadır.",
+ "kazanc": {
+  "egitim_suresince": "Öğrenciler, eğitim gördükleri kurumun türüne göre Kredi ve Yurtlar Kurumu'nun öğrenim kredisi ve yurt hizmetlerinden yararlanabilir; bazı denizcilik şirketleri staj dönemlerinde öğrencilere burs veya harçlık sağlayabilir.",
+  "egitim_sonrasi": [
+   "Kamu kurum ve kuruluşlarında istihdam edilenler, ilgili mevzuata (657 sayılı Devlet Memurları Kanunu veya işçi statüsünde ise toplu iş sözleşmesine) göre ücret alır.",
+   "Özel sektörde çalışanların kazancı; görev aldığı geminin türü ve büyüklüğü, işletmenin büyüklüğü, kişinin deneyimi, yeterliği ve sektördeki ücret düzeyine göre değişebilir.",
+   "Mesleğe yeni başlayan ve deneyimsiz zabitlerin kazancı genellikle sektördeki giriş seviyesinde oluşur, deneyim ve yeterlik yükseldikçe artış gösterir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Denizcilik meslek yüksekokulu ön lisans programlarını başarıyla tamamlayanlar, Dikey Geçiş Sınavı (DGS) ile ilgili lisans programlarına geçiş yapabilirler. Ayrıca ilgili eğitim kurumlarının açtığı kurs ve sertifika programları ile daha üst düzey telsiz/elektronik operatörlüğü yeterliklerine (Birinci Sınıf Telsiz Elektronik Operatörü gibi) yükselebilirler.",
+  "is_hayatinda": "Gerekli deniz hizmeti süresini tamamlayıp ilgili sınavlarda başarılı olanlar, daha üst yeterlik belgeleri alarak kıdemli zabitlik veya gemide elektronik donanımdan sorumlu kıdemli görevlere yükselebilirler. Deniz çalışma hayatından ayrılmak isteyenler, denizcilik şirketlerinin teknik servis, bakım-onarım veya eğitim birimlerinde kara görevlerine geçiş yapabilirler."
+ },
+ "benzer_meslekler": [
+  "Gemi Elektroniği ve Haberleşme Teknisyeni",
+  "Deniz Ulaştırma ve İşletme Teknikeri / Vardiya Zabiti",
+  "Seyir Zabiti",
+  "Güverte İşletme Teknisyeni/Gemi Yönetimi Teknisyeni/Vardiya Zabiti",
+  "Deniz Araçları Tesisat Donatım Teknisyeni"
+ ],
+ "ek_bilgiler": "Bu meslek, Uluslararası Denizcilik Örgütü'nün (IMO) STCW Sözleşmesi ve GMDSS kuralları kapsamında uluslararası geçerliliği olan bir yeterlik belgesine dayanır; yeterlik belgelerinin geçerliliğini sürdürmek için belirli aralıklarla yenileme eğitimleri alınması ve belirlenen deniz hizmeti sürelerinin tamamlanması gerekmektedir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T11:53:53",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 8832
+  }
+ }
+}

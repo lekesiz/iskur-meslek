@@ -1,0 +1,81 @@
+{
+ "arac_gerec": [
+  "Otomatik araç yıkama makinası ve kumanda panosu",
+  "Şampuanlı su hazırlama ve köpük üretim sistemi",
+  "Temizlik fırçaları (elle kullanılan)",
+  "Basınçlı su tabancası, hortum ve su pompası",
+  "Kurulama bezleri ve emici malzemeler",
+  "Kompresör / hava tabancası",
+  "Su yumuşatma cihazı",
+  "Ödeme kaydedici cihaz",
+  "Temel el aletleri (basit arıza giderme için tornavida, pense, anahtar takımı)",
+  "Kişisel koruyucu donanımlar (su geçirmez eldiven, çizme, iş kıyafeti, gerekirse koruyucu gözlük)",
+  "Elektrikli süpürge/vakum",
+  "İletişim cihazları",
+  "Temizlik kimyasalları (şampuan, deterjan, parlatıcı)"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve sorumluluk sahibi,",
+  "El, göz ve ayak koordinasyonuna sahip,",
+  "Fiziksel olarak dayanıklı ve ayakta çalışmaya uygun,",
+  "Mekanik aletlere ve makinelere ilgili,",
+  "Müşteri ile iletişimde güler yüzlü ve nazik,",
+  "Temiz, düzenli ve dikkatli çalışan,",
+  "Dış ortam ve nem koşullarına dayanıklı,",
+  "Ekip çalışmasına uyumlu"
+ ],
+ "calisma_ortami": "Oto Yıkama Elemanı (Otomatik Makina), genellikle yarı açık veya kapalı oto yıkama tesislerinde, ayakta ve sürekli hareket hâlinde çalışır. Su, deterjan ve elektrikli/mekanik ekipmanla devamlı temas söz konusudur; ortamda nem, zemin kayganlığı, gürültü ve elektrik çarpması gibi riskler bulunabilir. Hava koşullarına bağlı olarak sıcak veya soğuk ortamda çalışılabilir; bu nedenle iş sağlığı ve güvenliği kurallarına ve kişisel koruyucu donanım kullanımına uyulması önemlidir.\n\nÇalışma saatleri işletmenin açılış-kapanış saatlerine göre değişir, genellikle vardiyalı çalışma, hafta sonu ve resmî tatillerde çalışma söz konusu olabilir. Meslek, başlıca müşterilerle, işyeri sahibi veya yöneticisiyle ve birlikte çalışılan diğer personelle yüz yüze iletişim gerektirir.",
+ "egitim": {
+  "verildigi_yerler": "Bu meslek için örgün bir mesleki eğitim programı bulunmamaktadır. Eğitim genellikle işbaşında, oto yıkama/bakım işletmelerinde usta yanında verilir. Halk Eğitim Merkezleri ile İŞKUR'un açtığı mesleki eğitim kursları da temel bilgi ve beceri kazandırabilir.",
+  "giris_kosullari": [
+   "Okuryazar olmak",
+   "Meslekle ilgili fiziksel ve sağlık açısından uygun olmak",
+   "İşverenin belirlediği işe alım koşullarını karşılamak"
+  ],
+  "sure_ve_icerik": "Meslek için belirli bir öğrenim süresi öngörülmemektedir. İşe başlayan kişi, usta yanında veya işletme içi kısa süreli eğitimle otomatik yıkama makinesinin çalıştırılması, temizlik kimyasallarının kullanımı, müşteri ilişkileri, basit bakım-onarım ve iş güvenliği konularında bilgi ve beceri kazanır. Halk Eğitim Merkezleri ve İŞKUR kurslarında da benzer içerikler kısa süreli olarak öğretilebilir.",
+  "belge": "Örgün bir diploma veya sertifika zorunluluğu bulunmamaktadır. Katılınan kurslardan katılım belgesi alınabilir. Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Oto Yıkama Elemanı (Otomatik Makina); özel sektöre bağlı oto yıkama ve bakım işletmelerinde, akaryakıt istasyonları bünyesindeki yıkama ünitelerinde, oto servis ve galerilerinde, filo yönetimi yapan şirketlerde istihdam edilebilir. Deneyim ve sermaye biriktirdikten sonra kendi oto yıkama işletmesini de kurabilir. İş bulma olanakları, özellikle büyükşehirler ve araç yoğunluğunun fazla olduğu yerleşim yerlerinde daha fazladır.",
+ "kazanc": {
+  "egitim_suresince": "Örgün bir eğitim programı bulunmadığından işbaşı eğitim/deneme sürecinde kazanç, işveren ile çalışan arasında yapılan anlaşmaya bağlıdır; bu dönemde ücret genellikle asgari ücret düzeyinde olur.",
+  "egitim_sonrasi": [
+   "Özel sektörde çalışanlar işçi statüsünde istihdam edilir; ücretleri işveren ile yapılan anlaşmaya, işletmenin büyüklüğüne ve kişinin deneyimine göre değişir, çoğunlukla asgari ücret düzeyinde başlar.",
+   "Deneyim kazandıkça ekip sorumlusu/ustabaşı konumuna geçilerek daha yüksek ücret elde edilebilir.",
+   "Kendi işini kuranların kazancı işletmenin müşteri hacmine, konumuna ve işletme giderlerine göre değişkenlik gösterir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Bu meslek için örgün bir ilerleme basamağı tanımlanmamıştır. Deneyim ve ilave kurslarla oto yıkama/bakım alanında bilgi ve beceri geliştirilebilir.",
+  "is_hayatinda": "Deneyim kazanan çalışanlar ekip sorumlusu, ustabaşı veya işletme müdürü konumuna yükselebilir; yeterli sermaye ve deneyime sahip olanlar kendi oto yıkama işletmesini açabilir."
+ },
+ "benzer_meslekler": [
+  "Oto Kuaför Elemanı",
+  "Cam Temizleyici"
+ ],
+ "ek_bilgiler": "Otomatik yıkama sistemlerinin yaygınlaşması, mesleğin istihdam hacmini artırmaktadır. Elektrikli ve mekanik ekipmanla çalışıldığından iş güvenliği kurallarına, özellikle elektrik ve kayma/düşme risklerine karşı dikkat edilmesi önemlidir.",
+ "gorevler": [
+  "İş kıyafetini giyer, otomatik araç yıkama makinasını çalıştırır, gerekli kontrolleri yapar, varsa eksiklikleri giderip kullanıma hazır hâle getirir.",
+  "Temizlikte kullanılmak üzere fırça ve şampuanlı su hazırlar.",
+  "Müşterileri karşılar, gerektiğinde yıkama ücretleri ve yapılacak işlerle ilgili bilgi verir.",
+  "Müşterinin aracını yıkama yapılacak otomatik araç yıkama makinasının en uygun yerine park etmesine yardımcı olur.",
+  "Araçların sileceklerinin, antenlerin, yan kelebek aynalarının yıkama makinasına zarar görmemesi için gerekli önlemleri alır.",
+  "Otomatik araç yıkama makinasının başlama butonuna basarak yıkamayı başlatır ve yıkamaya nezaret eder.",
+  "Araç makine ile yıkanırken gerektiğinde şampuanlı fırça ile çok kirli yerleri fırçalayarak temizliğin en iyi şekilde yapılmasını sağlar.",
+  "Gerektiğinde yıkanan aracı bezlerle kurular.",
+  "Araç temizlendikten sonra gerektiğinde yapılan işin ücretini alır.",
+  "Yıkanan aracın güvenli bir şekilde otomatik araç yıkama makinasından ayrılmasını sağlar.",
+  "Araç temizliği yapılan yerde araçlardan biriken kirleri temizler.",
+  "Otomatik araç yıkama makinasının temizliğini yapar.",
+  "Otomatik araç yıkama makinasının gerekli bakımlarını yapar, yapılmasını sağlar.",
+  "Otomatik araç yıkama makinasında meydana gelen basit arızaları giderir, diğer mekanik, motor, elektrik ve elektronik arızaların giderilmesini sağlar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T19:24:19",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6168
+  }
+ }
+}

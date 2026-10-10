@@ -1,0 +1,78 @@
+{
+ "arac_gerec": [
+  "Eser/eşyaların dönem ve değerini incelemek için büyüteç ve el feneri",
+  "Metal, taş, ahşap gibi malzemelerin temizliği için özel temizlik malzemeleri ve fırçalar",
+  "Küçük onarım için el aletleri (tornavida, pense, zımpara vb.)",
+  "Hassas ölçüm için terazi ve cetvel",
+  "Eserlerin sergilenmesi için vitrin, raf ve cam dolaplar",
+  "Etiketleme ve fiyatlandırma malzemeleri",
+  "Envanter ve kayıt tutmak için defter veya bilgisayar yazılımı",
+  "Fotoğraf makinesi",
+  "Telefon ve internet bağlantılı bilgisayar",
+  "Ambalaj ve taşıma malzemeleri (kutu, kumaş, köpük vb.)",
+  "Güvenlik kamerası ve alarm sistemi",
+  "Nem ve sıcaklık kontrolü için ortam düzenleyiciler"
+ ],
+ "genel_ozellikler": [
+  "Tarih, sanat ve kültüre ilgili ve bu alanlarda bilgi sahibi,",
+  "Estetik beğeniye ve görsel hafızaya sahip,",
+  "Dikkatli ve gözlem gücü yüksek,",
+  "İletişim ve ikna becerisine sahip,",
+  "Güvenilir ve dürüst,",
+  "Sabırlı ve araştırmacı,",
+  "Ticari zekaya ve pazarlık yeteneğine sahip,",
+  "El becerisine sahip (küçük onarım işleri için)"
+ ],
+ "calisma_ortami": "Antikacılar genellikle kendi dükkân, mağaza veya antikacılar çarşısındaki işyerlerinde, kapalı mekânlarda çalışır. Çalışma ortamı çoğunlukla eski eşyalarla dolu, bazen tozlu ve dar alanlar olabilir; eserlerin korunması için ortamın nem ve sıcaklık açısından kontrollü tutulmasına özen gösterilir. Eser arama, inceleme ve satın alma amacıyla müzayede salonları, antika pazarları, fuarlar ve bazen müşterilerin evlerine giderek çalışma yürütebilirler.\n\nÇalışma saatleri genellikle dükkân açılış-kapanış saatlerine bağlı olup düzenlidir; ancak müzayedeler, fuarlar veya eser arama gezileri nedeniyle zaman zaman esnek ve uzun saatler çalışılabilir. Meslek mensupları; müşteriler, koleksiyonerler, diğer antikacılar, müzayede evleri çalışanları ve restoratörlerle sürekli iletişim halindedir.",
+ "gorevler": [
+  "Belli türde, belli bir dönem ve tarzdaki tarih ve sanat değeri olan eserleri veya eşyaları araştırır ve satın alır.",
+  "Eşyaları temizler, onarır, onarılmasını sağlar.",
+  "Eser ve eşyaların hangi tarih ve devirden kaldığını tespit eder.",
+  "Eserleri, eşyaları sergiler, sergilenmesini organize eder.",
+  "Müşterileri ilgili eser ve eşya konusunda bilgilendirir.",
+  "Koleksiyonları ve eserleri yazılı ve görsel materyallerle tanıtır.",
+  "Varsa, eser veya eşyanın kullanıcıları hakkında detaylı bilgi verir.",
+  "Müzayedelere katılır veya müzayede düzenler.",
+  "Eserlerin, eşyaların korunmasına özen gösterir, gerekli önlemleri alır.",
+  "Çalışma alanının temiz ve tertipli olmasını sağlar.",
+  "Mesleğe ilişkin gelişmeleri takip eder ve uygular.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Antikacılık mesleğinin standart, örgün bir eğitim programı bulunmamaktadır. Meslek genellikle işbaşında, usta-çırak ilişkisi içinde veya aile işletmelerinde deneyim yoluyla öğrenilir. Sanat tarihi, arkeoloji, müzecilik gibi alanlarda alınan örgün eğitim ile Halk Eğitim Merkezleri ve çeşitli kurumların açtığı eski eser tanıma, restorasyon-konservasyon konulu kurs ve seminerler mesleğe hazırlıkta destekleyici olabilir.",
+  "giris_kosullari": [
+   "İlköğretim mezunu olmak (meslek için belirtilen minimum eğitim düzeyi)",
+   "Tarih, sanat ve eski eşyalara ilgi duymak",
+   "İşyeri açacaklar için ilgili kurumlardan gerekli izin ve ruhsat süreçlerini takip edebilecek koşulları taşımak"
+  ],
+  "sure_ve_icerik": "Mesleğin belirli bir eğitim süresi ve standart bir müfredatı bulunmamaktadır. Eser ve eşyaların dönem, tarz ve değerinin tespiti, temizlik ve onarım teknikleri, müzayede süreçleri, koleksiyon yönetimi ve müşteri ilişkileri gibi bilgi ve beceriler, işyerinde çalışarak ve deneyimli antikacıların yanında zaman içinde kazanılır. Sanat tarihi, arkeoloji veya ilgili alanlarda alınacak örgün eğitim ve katılınacak kurs/seminerler mesleki bilgiyi güçlendirir.",
+  "belge": "Örgün bir eğitim süreci bulunmadığından standart bir diploma veya sertifika yoktur. Katılınan kurs ve seminerler sonunda katılım belgesi alınabilir."
+ },
+ "calisma_alanlari": "Antikacılar; kendi adlarına açtıkları antika dükkânı veya mağazalarda, antikacılar çarşısı ve pasajlarında, müzayede evlerinde, antika fuarlarında çalışabilirler. Bazı durumlarda müze ve kültür kurumlarıyla ilişkili eser değerlendirme veya satış-danışmanlık hizmetlerinde de bulunabilirler. Meslek, serbest meslek olarak kendi işini kurma imkânının yüksek olduğu bir alandır.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğin standart bir örgün eğitimi bulunmadığından, meslek genellikle işbaşında öğrenilir. Bu dönemde bir işyerinde çalışılıyorsa işverenle yapılan anlaşmaya göre bir ücret alınabilir; kendi işini açarak başlayanlar için bu aşamada düzenli bir kazançtan söz etmek mümkün değildir.",
+  "egitim_sonrasi": [
+   "Kendi işyerini açanların kazancı; işletmenin büyüklüğü, bulunduğu yer, müşteri çevresi, sermaye ve satılan eserlerin değerine göre büyük ölçüde değişmektedir.",
+   "Bir işyerinde çalışan olarak görev yapanların ücreti, işveren ile yapılan anlaşmaya, deneyime ve işletmenin ölçeğine göre belirlenir; yeni başlayanlarda genellikle asgari ücret düzeyinde olabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğin örgün bir eğitim basamağı ve buna bağlı bir sınav/ilerleme sistemi bulunmamaktadır. Kişi; sanat tarihi, müzecilik, restorasyon-konservasyon gibi alanlarda eğitim alarak veya katıldığı kurs ve seminerlerle bilgi ve becerisini geliştirebilir.",
+  "is_hayatinda": "Deneyim ve bilgi birikimi arttıkça meslek mensubunun tanınırlığı ve güvenilirliği artar; daha değerli koleksiyon ve eserlerle çalışabilir, eksper/değer tespit uzmanlığı veya müzayedecilik gibi alanlara yönelebilir, kendi işletmesini büyütebilir."
+ },
+ "benzer_meslekler": [
+  "Emlak Komisyoncusu",
+  "Emlak ve Emlak Yönetimi Meslek Elemanı/Emlak Danışmanı",
+  "Hizmet Komisyoncusu (İlan Hariç)",
+  "Tarım Aracısı"
+ ],
+ "ek_bilgiler": "Antikacılık faaliyeti için ilgili belediyeden işyeri açma ve çalışma ruhsatı alınması gerekir. Kültür varlığı niteliği taşıyan eski eser ve eşyaların alım satımı, 2863 sayılı Kültür ve Tabiat Varlıklarını Koruma Kanunu ve ilgili mevzuat kapsamında Kültür ve Turizm Bakanlığı'nın düzenlemelerine tabi olabilir; bu nedenle meslek mensuplarının ilgili yasal çerçeveyi takip etmesi önemlidir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T13:01:32",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6696
+  }
+ }
+}

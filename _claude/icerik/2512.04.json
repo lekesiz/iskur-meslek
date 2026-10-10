@@ -1,0 +1,71 @@
+{
+ "arac_gerec": [
+  "Bilgisayar ve ilgili çevre birimleri",
+  "Yazılım tasarım ve modelleme araçları (UML vb. modelleme yazılımları)",
+  "Akış diyagramı ve arayüz prototipleme (wireframe/mockup) yazılımları",
+  "Entegre geliştirme ortamları (IDE)",
+  "Veritabanı tasarım ve yönetim araçları",
+  "Versiyon kontrol sistemleri (örn. Git)",
+  "Proje ve doküman yönetim yazılımları",
+  "Ekip içi iletişim ve iş birliği araçları",
+  "Bulut bilişim ortamları ve sunucular",
+  "Teknik dokümantasyon hazırlama araçları"
+ ],
+ "genel_ozellikler": [
+  "Mantık yürütme ve analitik düşünme yeteneğine sahip,",
+  "Soyut kavramları somutlaştırabilen, sistematik düşünen,",
+  "Dikkatli ve ayrıntılara önem veren,",
+  "Problem çözme becerisi gelişmiş,",
+  "Yeni teknolojileri takip etmeye istekli, kendini sürekli geliştiren,",
+  "Ekip çalışmasına uyumlu ve iletişim kurabilen,",
+  "Sabırlı ve sorumluluk sahibi"
+ ],
+ "calisma_ortami": "Yazılım Tasarımcısı, genellikle iyi aydınlatılmış, kapalı büro ortamında bilgisayar başında oturarak çalışır. Çalışma süresinin büyük bölümü ekran karşısında geçer; bu nedenle göz ve bel sağlığı açısından ergonomik koşullara dikkat edilmesi gerekir. Proje süreçlerine bağlı olarak zaman zaman yoğun çalışma dönemleri yaşanabilir ve teslim tarihlerine göre mesai saatleri değişkenlik gösterebilir.\n\nÇalışırken yazılım geliştiriciler, sistem analistleri, test uzmanları, proje yöneticileri ve müşteri temsilcileriyle yoğun biçimde iletişim kurar. İşin niteliğine göre kısmen veya tamamen uzaktan çalışma da mümkündür.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi, üniversitelerin Mühendislik veya Bilgisayar Bilimleri Fakültelerine bağlı Yazılım Mühendisliği, Bilgisayar Mühendisliği, Bilgisayar Bilimleri gibi lisans programlarında verilmektedir. Bu alanlarda açılan yüksek lisans programları da tasarım konusunda uzmanlaşma olanağı sağlar.",
+  "giris_kosullari": [
+   "Lise veya dengi okul mezunu olmak,",
+   "YKS (Yükseköğretim Kurumları Sınavı) kılavuzunda belirtilen giriş koşullarını taşımak ve ilgili puan türünden yeterli puanı almak,",
+   "Meslek yüksekokulları ile açıköğretim ön lisans programlarının ilgili bilgisayar/bilişim bölümlerinden mezun olanlar, Dikey Geçiş Sınavı (DGS) ile ilgili lisans programlarına geçiş yapabilirler."
+  ],
+  "sure_ve_icerik": "Eğitim süresi 4 yıl, hazırlık sınıfı bulunan programlarda 5 yıldır. Öğrenim süresince algoritmalar ve veri yapıları, programlama dilleri, yazılım mühendisliği ilkeleri, sistem analizi ve tasarımı, yazılım mimarisi, veritabanı sistemleri, insan-bilgisayar etkileşimi/kullanıcı arayüzü tasarımı, yazılım test ve kalite yönetimi gibi dersler okutulur.",
+  "belge": "Eğitimini başarıyla tamamlayanlara lisans diploması verilir. Ayrıca Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Yazılım Tasarımcıları; yazılım geliştirme şirketlerinde, bilgi teknolojileri birimi bulunan kamu kurumlarında, bankacılık ve finans, e-ticaret, telekomünikasyon, sağlık, oyun ve danışmanlık sektörlerindeki işletmelerde çalışabilirler. Deneyim ve proje geçmişine bağlı olarak serbest (freelance) veya proje bazlı çalışma olanağına da sahiptirler. Bilişim sektörünün sürekli büyümesi, bu meslekte iş bulma olanaklarını olumlu etkilemektedir.",
+ "kazanc": {
+  "egitim_suresince": "Lisans eğitimi süresince öğrenim kredisi, burs ve yurt hizmetlerinden yararlanılabilir. Ayrıca staj, yarı zamanlı çalışma veya küçük ölçekli proje çalışmalarıyla gelir elde edilebilir.",
+  "egitim_sonrasi": [
+   "Kamu kurum ve kuruluşlarında çalışanlar, statülerine göre 657 sayılı Devlet Memurları Kanunu veya ilgili iş kanunu hükümlerine tabi olarak ücret alırlar.",
+   "Özel sektörde ücret; işletmenin büyüklüğü, deneyim, bilgi birikimi ve pazarlık gücüne göre değişir. Yeni mezunlar genellikle asgari ücret düzeyine yakın bir ücretle işe başlayıp, deneyim kazandıkça gelirleri artar."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Lisans eğitimini tamamlayanlar, yazılım mühendisliği, bilgisayar mühendisliği veya ilgili alanlarda yüksek lisans ve doktora yaparak akademik kariyer imkânına sahiptir; ayrıca yazılım mimarisi, sistem analistliği gibi konularda ileri uzmanlık eğitimleri alabilirler.",
+  "is_hayatinda": "Deneyim ve proje başarısına bağlı olarak kıdemli yazılım tasarımcısı, yazılım mimarı, sistem analisti, proje yöneticisi veya bilgi teknolojileri yöneticisi gibi pozisyonlara yükselebilirler. Yeterli deneyim ve sermayeye sahip olanlar kendi yazılım işletmelerini kurabilirler."
+ },
+ "benzer_meslekler": [
+  "Sistem Mimarı/Tasarımcısı",
+  "Sistem Analisti (BT)",
+  "Yazılım Mühendisi",
+  "BT İş Analisti (Bilişim Teknolojileri İş Analisti)",
+  "Yazılım Geliştirme Uzmanı",
+  "Bilişim Sistemleri Mühendisi"
+ ],
+ "ek_bilgiler": "Dijitalleşme ve yazılım tabanlı ürünlere olan talebin artması nedeniyle, sistem ve arayüz tasarımı konusunda uzmanlaşmış yazılım tasarımcılarına olan ihtiyacın önümüzdeki dönemde de sürmesi beklenmektedir.",
+ "gorevler": [
+  "Sistem gereksinimlerini ve kullanıcı ihtiyaçlarını analiz eder.",
+  "Yazılım mimarisi ve bileşenler arası ilişkileri kurgular.",
+  "Akış diyagramları ve arayüz prototipleri hazırlar.",
+  "Kullanılacak teknoloji ve veritabanı yapısını belirler.",
+  "Tasarım dokümantasyonunu geliştirme ekibine aktarır.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T05:54:21",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5052
+  }
+ }
+}

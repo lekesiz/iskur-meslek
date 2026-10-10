@@ -1,0 +1,84 @@
+{
+ "arac_gerec": [
+  "Araç kaldırma lifti veya kriko ve çalışma kanalı",
+  "Somun anahtarı ve lokma takımları",
+  "Tornavida ve pense takımları, kargaburun",
+  "Kılavuz ve pafta takımı",
+  "Punta kaynak makinesi",
+  "Balans ayar cihazı",
+  "Mengene",
+  "Zımpara/taşlama makinesi",
+  "Ölçüm aletleri (kumpas, sentil, mikrometre)",
+  "Yağlama tabancası ve yağdanlık",
+  "El feneri/çalışma lambası",
+  "Koruyucu iş elbisesi, eldiven ve gözlük"
+ ],
+ "genel_ozellikler": [
+  "El ve kol becerisine sahip,",
+  "Mekanik problemleri çözebilme gücüne sahip,",
+  "Şekiller ve parçalar arasındaki ilişkileri algılayabilen,",
+  "Dikkatli ve sabırlı,",
+  "Fiziksel olarak dayanıklı,",
+  "Sorumluluk sahibi,",
+  "Yeniliklere ve değişen teknolojiye açık"
+ ],
+ "calisma_ortami": "Şaft tamircisi, oto tamir atölyelerinde, servis istasyonlarında veya büyük araç filolarının bakım birimlerinde çalışır. Çalışma ortamı genellikle kapalı atölye olmakla birlikte, zaman zaman açık alanda da iş yapılabilir. Ortam yağlı, kirli ve gürültülü olabilir; ağır parçaların kaldırılması, eğilerek veya araç altında çalışma gerektirmesi nedeniyle fiziksel efor ve dikkat gerektirir. Kesici-delici el aletleri, kaynak işlemleri ve ağır parçalarla çalışma iş kazası riski taşıdığından iş sağlığı ve güvenliği kurallarına uyulması önemlidir.\n\nÇalışma saatleri genellikle gündüz ve tam zamanlı olup, iş yoğunluğuna göre değişebilir. Meslek sahibi; işyeri sahipleri, ustalar, çıraklar ve araç sahibi müşterilerle sürekli iletişim halindedir.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi, mesleki eğitim merkezlerinde \"Motorlu Araçlar Teknolojisi\" alanı kapsamındaki ilgili dallarda ve işyerlerinde usta yanında çıraklık eğitimi yoluyla verilmektedir. Ayrıca Halk Eğitim Merkezleri ile İŞKUR'un açtığı mesleki eğitim kurslarında da bu alana yönelik temel beceriler kazanılabilir.",
+  "giris_kosullari": [
+   "En az ilköğretim/ortaokul mezunu olmak",
+   "Çıraklık eğitimine başlamak için 14 yaşını doldurmuş olmak",
+   "Eğitim görmek istediği işyerini bulup işvereniyle çıraklık sözleşmesi imzalamak",
+   "Mesleğin fiziksel gerekliliklerine uygun sağlık durumuna sahip olmak"
+  ],
+  "sure_ve_icerik": "Eğitim, mesleki eğitim merkezlerinde verilen teorik derslerle işyerinde usta öğretici gözetiminde yapılan pratik çalışmaların birleştirilmesiyle yürütülür. Eğitim sürecinde güç aktarma organları (şanzıman, diferansiyel, şaft/kadran mili) ile ilgili söküm, arıza tespiti, parça değişimi, montaj ve balans ayarı konularında bilgi ve beceri kazandırılır. Mesleğe, çıraklık eğitimi almadan işbaşında usta yanında çalışarak da yetişmek mümkündür.",
+  "belge": "Mesleki eğitimi başarıyla tamamlayanlara kalfalık ve ardından ustalık belgesi verilir. Mesleki Yeterlilik Kurumu (MYK) belgesine sahip olmak istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Şaft tamircileri; oto tamir atölyeleri, özel servisler, şanzıman ve diferansiyel bakım servisleri, kamyon-otobüs bakım onarım merkezleri ile büyük araç filolarının bakım birimlerinde çalışabilir; deneyim kazandıktan sonra kendi işyerini açabilirler. Önden çekişli araçların yaygınlaşması nedeniyle klasik şaft (kadran mili) sistemine sahip araç sayısının azalması, bu mesleğin bağımsız bir istihdam alanı olmaktan çok, genel oto tamirciliği ve şanzıman tamirciliği hizmetleri içinde bir uzmanlık alanı olarak uygulanmasına yol açmaktadır; bu nedenle meslek sahipleri genellikle ağır vasıta (kamyon, otobüs) ve arkadan itişli araçların bakım-onarımında istihdam bulmaktadır.",
+ "kazanc": {
+  "egitim_suresince": "Çıraklık eğitimi sırasında 3308 sayılı Mesleki Eğitim Kanunu kapsamında, işletmelerde mesleki eğitim gören öğrencilere asgari ücretin belirli bir oranından az olmamak üzere ücret ödenir; ayrıca öğrencilerin iş kazası ve meslek hastalığı sigorta primleri devletçe karşılanır.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanların kazancı genellikle asgari ücret düzeyindedir.",
+   "Deneyim, bilgi, beceri ve çalışılan işletmenin büyüklüğüne göre kazanç artabilir.",
+   "Kendi işyerini açanların kazancı işin hacmine ve müşteri potansiyeline göre değişir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Çırak olarak başlayan kişi, mesleki eğitim sürecinde kalfalık ve ardından ustalık belgesini alarak usta unvanına ulaşabilir; fark derslerini tamamlaması halinde meslek lisesi diploması da alabilir.",
+  "is_hayatinda": "Deneyim kazandıkça usta, servis şefi veya atölye sorumlusu olarak çalışabilir; bilgi ve birikimini artırarak kendi işyerini (servis/atölye) açabilir."
+ },
+ "benzer_meslekler": [
+  "Şanzıman Tamircisi (Motorlu Taşıt)",
+  "Dingil Tamircisi (Motorlu Taşıt)",
+  "Makas Tamircisi (Motorlu Taşıt)",
+  "Oto Bakım-Onarımcısı (Otomotiv Mekanikcisi)",
+  "Otobüs/Kamyon Bakım Onarımcısı",
+  "Traktör Bakım Onarımcısı"
+ ],
+ "ek_bilgiler": "Önden çekişli araçların yaygınlaşmasıyla klasik şaft (kadran mili) sistemine sahip araç sayısı azaldığından, bu meslek günümüzde daha çok ağır vasıta (kamyon, otobüs) ve arkadan itişli araçların bakım onarımında uygulanmakta, genellikle genel oto/şanzıman tamirciliği hizmetleri içinde bir uzmanlık dalı olarak sürdürülmektedir.",
+ "gorevler": [
+  "Aracı çalışma kanalına alır,",
+  "Araç alt kısmında, şanzımanla diferansiyel arasındaki şaft (kadran) milini bağlayan vidaları söker,",
+  "Şaftı yatağından çıkarır,",
+  "Mafsal bilyeleri, kayıcı mil, parçaların monte edildiği şaft borusu ve mil üzerindeki dişliden meydana gelen parçaları kontrol eder ve arızayı tespit eder,",
+  "Değişmesi gereken parçaları yenisi ile değiştirir,",
+  "Tamir edilecek parçaların tamirini yapar,",
+  "Parçaları birleştirerek şaftı monte eder,",
+  "Şaft montajından sonra balans ayarı yapar,",
+  "Denge ağırlığını, şaft borusu üzerine punta kaynağı ile perçinler,",
+  "Bağlantı ve montaj vida ve somunlarında bozulma ve aşınma varsa kılavuz çekerek düzeltir,",
+  "Şaftın tamir, bakım ve balans ayarını takiben araca monte eder,",
+  "Aracı çalıştırarak şaftı araç üzerinde test eder,",
+  "Çalışmada bir aksama görülürse aynı işlemleri normal çalışma düzeni sağlanana kadar tekrar yapar,",
+  "İş bitiminde aracı müşteriye teslim eder,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T02:20:35",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5942
+  }
+ }
+}

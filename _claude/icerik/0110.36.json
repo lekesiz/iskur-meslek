@@ -1,0 +1,75 @@
+{
+ "arac_gerec": [
+  "Askeri üniforma ve kişisel teçhizat",
+  "Haberleşme cihazları (telsiz, sabit/mobil telefon)",
+  "Bilgisayar ve ofis yazılımları",
+  "Evrak, dosyalama ve kayıt malzemeleri",
+  "Kişisel koruyucu donanım",
+  "Nöbet ve devriye hizmetlerinde kullanılan araç ve ekipmanlar",
+  "Branşa özgü teknik el aletleri ve kontrol cihazları",
+  "Rapor ve form belgeleri",
+  "Güvenlik kontrol ekipmanları (metal dedektör, kamera sistemleri vb.)",
+  "Taşıt ve ulaşım araçları"
+ ],
+ "genel_ozellikler": [
+  "Disiplinli,",
+  "Sorumluluk sahibi,",
+  "Lider özellikleri gelişmiş,",
+  "Fiziksel ve psikolojik olarak sağlıklı,",
+  "Dikkatli ve tedbirli,",
+  "Ekip çalışmasına uyumlu,",
+  "Hızlı ve doğru karar verebilen,",
+  "Stres altında sakin kalabilen"
+ ],
+ "calisma_ortami": "Asteğmen (Hava Kuvvetleri), Türk Hava Kuvvetleri'ne bağlı hava üsleri, kışlalar, hangarlar ve idari binalarda hem kapalı hem açık alanlarda görev yapar. Nöbet ve emniyet hizmetleri nedeniyle çalışma saatleri düzensiz olabilir; gece veya olumsuz hava koşullarında dış mekânda uzun süre görev yapmak gerekebilir.\n\nGörevlerini üstleriyle ve emri altındaki erbaş ve erlerle sıkı bir hiyerarşik ilişki içinde yürütür; emir-komuta zinciri ve askeri disiplin esastır. Bazı görevler fiziksel dayanıklılık, uzun süre ayakta kalma ve hızlı tepki verme gerektirebilir.",
+ "egitim": {
+  "verildigi_yerler": "Muvazzaf subaylık için Hava Harp Okulu'nda yürütülen lisans eğitimini tamamlayanlar; yedek subaylık için ise lisans mezunu olup askerlik hizmetine tabi yükümlülerin katıldığı Milli Savunma Üniversitesi bünyesindeki yedek subay eğitim merkezleri.",
+  "giris_kosullari": [
+   "Lisans düzeyinde eğitim almış olmak",
+   "Askeri okullara girişte uygulanan sınav, mülakat ve sağlık/fiziki yeterlilik şartlarını karşılamak (muvazzaf subay adayları için)",
+   "Yedek subay adaylığı için askerlik hizmetine tabi olmak ve ilgili yükümlülük koşullarını taşımak",
+   "Güvenlik soruşturması ve arşiv araştırmasından olumlu sonuç almak",
+   "Sağlık açısından askeri hizmete elverişli olmak"
+  ],
+  "sure_ve_icerik": "Muvazzaf subaylıkta Hava Harp Okulu'ndaki lisans eğitimini takiben temel askerlik ve subaylık eğitimi tamamlanır. Yedek subaylıkta ise lisans eğitimini bitirmiş yükümlülere belirli bir süre temel askerlik eğitimiyle birlikte branşa yönelik kısa süreli mesleki eğitim verilir. Eğitim içeriğinde askeri disiplin, liderlik, emir-komuta, haberleşme, güvenlik ve branşa özgü teknik veya idari bilgiler yer alır.",
+  "belge": "Asteğmenlik rütbesi ve subaylık yetkisi veren atama/nasıp belgesi."
+ },
+ "calisma_alanlari": "Türk Hava Kuvvetleri Komutanlığına bağlı hava üsleri, kışlalar, eğitim merkezleri ve idari birimlerde görev yapar. Teknik branşlarda uçak bakım, haberleşme ve elektronik gibi birimlerde; idari branşlarda ise personel, lojistik ve istihbarat gibi birimlerde çalışabilir.",
+ "gorevler": [
+  "Birliğindeki nöbet ve emniyet hizmetlerini yürütür.",
+  "Erbaş ve erlerin eğitimlerini ve günlük faaliyetlerini denetler.",
+  "Branşına uygun teknik veya idari dosyalama işlemlerini yapar.",
+  "Tesislerin temizlik ve düzeninden sorumludur.",
+  "Görev alanındaki basit arıza ve eksiklikleri raporlar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "kazanc": {
+  "egitim_suresince": "Yedek subay adaylarına askerlik hizmeti süresince kanunla belirlenen harçlık ödenir; muvazzaf subay adayı öğrenciler Hava Harp Okulu'nda öğrencilik süresince barınma, iaşe ve harçlık gibi imkanlardan yararlanır.",
+  "egitim_sonrasi": [
+   "Muvazzaf subaylar askeri personel mevzuatına göre maaş ve özlük haklarından yararlanır.",
+   "Yedek subaylar askerlik hizmeti süresince kanunla belirlenen harçlık alır.",
+   "Rütbe ilerlemesiyle birlikte ücret ve özlük hakları artar."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Asteğmenlik sonrası kıdem ve hizmet süresine bağlı olarak sırasıyla teğmen, üsteğmen, yüzbaşı gibi üst rütbelere terfi edilir; branşa yönelik ileri düzey kurs ve eğitimlere katılım sağlanır.",
+  "is_hayatinda": "Hizmet süresi, performans ve kurumsal değerlendirmelerle üst rütbelere terfi edilerek kademeli olarak daha fazla sorumluluk ve komuta görevi üstlenilir."
+ },
+ "benzer_meslekler": [
+  "Teğmen (Hava Kuvvetleri)",
+  "Üsteğmen (Hava Kuvvetleri)",
+  "Asteğmen (Kara Kuvvetleri)",
+  "Asteğmen(Deniz Kuvvetleri)",
+  "Asteğmen (Jandarma)",
+  "Asteğmen (Sahil Güvenlik)"
+ ],
+ "ek_bilgiler": "Bu meslekte istihdam, Türk Silahlı Kuvvetleri'nin ilgili mevzuatına ve askeri personel sistemine tabidir. Muvazzaf subaylık Hava Harp Okulu mezuniyeti ile, yedek subaylık ise askerlik hizmeti kapsamında lisans mezunu yükümlülerin ilgili eğitim merkezlerinde eğitim almasıyla kazanılır. Göreve kabul; sağlık, güvenlik soruşturması ve diğer yasal şartlara bağlıdır.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-07T17:24:40",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5002
+  }
+ }
+}

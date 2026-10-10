@@ -1,0 +1,104 @@
+{
+ "arac_gerec": [
+  "Bilgisayar ve çevre birimleri",
+  "Jira gibi proje/talep yönetim yazılımları",
+  "Microfocus ALM gibi test yaşam döngüsü yönetim yazılımları",
+  "Microsoft Excel ve ofis yazılımları",
+  "Test senaryosu ve test vakası hazırlama araçları",
+  "Hata (bug) takip ve raporlama sistemleri",
+  "Test otomasyon araçları",
+  "Performans ve yük testi araçları",
+  "Güvenlik/sızma testi araçları",
+  "Sürüm (versiyon) kontrol sistemleri",
+  "Veritabanı yönetim araçları",
+  "Sunucu ve ağ izleme araçları",
+  "Test ortamı kurulum araçları",
+  "Dokümantasyon ve raporlama şablonları"
+ ],
+ "genel_ozellikler": [
+  "Analitik düşünme ve mantıksal çıkarım yeteneğine sahip,",
+  "Detaylara dikkat eden ve titiz,",
+  "Sabırlı ve sistemli çalışabilen,",
+  "Problem çözme becerisi gelişmiş,",
+  "Yazılı ve sözlü iletişimi iyi,",
+  "Ekip çalışmasına uyumlu,",
+  "Yeni teknolojileri öğrenmeye açık ve meraklı,",
+  "Zaman yönetimine dikkat eden"
+ ],
+ "gorevler": [
+  "Jira sistemi gibi proje/talep yönetim yazılımları üzerinden gelen talepleri inceler.",
+  "Teste başlamak için gerekli materyal kontrollerini yapar.",
+  "Proje içindeki gereksinim ve tasarım dokümanlarını gözden geçirir.",
+  "Müşterinin ihtiyaçlarını belirler ve dokümante eder.",
+  "Fonksiyonel ve fonksiyonel olmayan gereksinimlerin analizini yapar.",
+  "İhtiyaç duyulması halinde yapılacak test ile ilgili analist ile iletişime geçer.",
+  "Microfocus ALM veya Excel üzerinden test tekniklerini kullanarak test senaryolarını oluşturur.",
+  "Test senaryolarını önceliklendirir.",
+  "Geliştirilen uygulamanın gereksinim ve tasarımlara uygunluğunun testini yapar.",
+  "Hataları ve iyileştirme önerilerini geliştiricilere bildirir.",
+  "Test strateji dokümanını oluşturur ve test ortamını tasarlar.",
+  "Versiyon teslim dokümanına göre test ortamlarına yaygınlaştırma yapar ve test koşumu aşamasına geçer.",
+  "Versiyon yaygınlaştırmasında sorun oluşması halinde geliştirme, veri tabanı, ağ ve sunucu yönetimi gibi ilgili ekiplerle iletişime geçerek sorunun çözümünde koordinasyonu sağlar.",
+  "Hazırlanan senaryoların ALM veya Excel üzerinden koşumlarını yapar.",
+  "Test yazılımının kimlik numaralarını ve versiyon numaralarını kaydeder.",
+  "Testleri manuel olarak veya test koşum araçlarını kullanarak uygular.",
+  "Test gözetimi ve kontrolü yapar, beklenen sonuçlarla gerçekleşen sonuçları karşılaştırır.",
+  "Olası nedenlerin belirlenmesi için hataları analiz eder.",
+  "Test koşum sonucunu (başarılı, başarısız, engellendi gibi) kaydeder.",
+  "Onaylama testi yapar.",
+  "Regresyon testi yapar.",
+  "Senaryo koşumları tamamlandıktan sonra test kapanış raporunu oluşturur ve gerekli görülürse kullanıcı kabul testlerine destek olur.",
+  "Proje boyunca yürütülen test yazılımlarını ve ilgili bilgileri toplayıp bir araya getirir.",
+  "Tüm hata raporlarının kapatılıp kapatılmadığını kontrol eder.",
+  "Test koşumu sonunda çözülmeden kalan hataları ürün iş listesine girer.",
+  "Paydaşlara iletilmek üzere test özet raporu oluşturur.",
+  "Test ortamını, test alt yapısını ve diğer test yazılımlarını daha sonra yeniden kullanılmak üzere sonlandırır ve arşivler.",
+  "Test yazılımını bakım ekiplerine, diğer proje ekiplerine veya ilgili paydaşlara teslim eder.",
+  "Yetkinliği bulunması halinde otomasyon ve performans testleri için gerekli aksiyonları alır.",
+  "Tamamlanan test faaliyetlerinden çıkarılan dersleri analiz ederek gelecek döngüler, sürümler ve projeler için gereken değişiklikleri belirler.",
+  "Sızma (güvenlik) testi, fonksiyonel test, yük testi ve kullanılabilirlik testi yapar.",
+  "Sürdürülebilirlik testi, stres testi ve ölçeklenebilirlik testi yapar.",
+  "Son kullanıcıdan gelen düzeltici, önleyici faaliyet ve gelişim taleplerini değerlendirir.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "calisma_ortami": "Yazılım Test Edicisi, genellikle ofis ortamında bilgisayar başında çalışır; işin niteliğine göre kısmen veya tamamen uzaktan çalışma da mümkündür. Çalışma süresince geliştiriciler, analistler, proje yöneticileri, veri tabanı ve sistem yönetimi ekipleri gibi farklı disiplinlerden kişilerle sürekli iletişim kurar ve ekip çalışması yürütür.\\n\\nÇalışma saatleri genellikle düzenli büro mesaisi şeklindedir; ancak sürüm teslim tarihlerine yaklaşıldığında veya acil hata çözümü gereken dönemlerde yoğun ve zaman baskılı çalışma söz konusu olabilir. Ekran başında uzun süre oturarak çalışmak, göz ve bilek yorgunluğu gibi ergonomik riskler taşıyabilir; işin genel kabul düzeyi düşüktür ve fiziksel risk azdır.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi, üniversitelerin Bilgisayar Mühendisliği, Yazılım Mühendisliği, Bilgisayar Bilimleri Mühendisliği, Bilgisayar Bilimleri gibi ilgili lisans programlarında verilmektedir. Bilişim Sistemleri Mühendisliği, Elektrik-Elektronik Mühendisliği gibi yakın mühendislik bölümlerinden mezun olanlar da ilgili kurs, sertifika programları ve mesleki gelişimle bu alana yönelebilmektedir.",
+  "giris_kosullari": [
+   "Lise veya dengi okul mezunu olmak",
+   "YKS (Yükseköğretim Kurumları Sınavı) kılavuzunda ilgili programlar için belirtilen giriş koşullarını taşımak",
+   "Sayısal puan türünden yeterli puana sahip olmak"
+  ],
+  "sure_ve_icerik": "Mesleğin eğitim süresi lisans düzeyinde 4 yıldır. Eğitim süresince programlama, algoritmalar ve veri yapıları, yazılım mühendisliği, yazılım test ve kalite güvence yöntemleri, veritabanı yönetimi, ağ ve sistem temelleri gibi dersler verilmektedir. Yazılım test süreçlerine ilişkin bilgi ve beceriler, lisans eğitiminin yanı sıra mesleki kurslar, sertifika programları ve işbaşında usta-çırak ilişkisi içinde de geliştirilebilir.",
+  "belge": "Eğitimini başarı ile tamamlayanlara lisans diploması verilir. Ayrıca uluslararası kabul gören yazılım test sertifikaları (örneğin ISTQB) ile Mesleki Yeterlilik Kurumu (MYK) belgeleri, istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Yazılım Test Edicileri; yazılım geliştirme şirketlerinde, bilişim danışmanlık firmalarında, bankacılık ve finans kuruluşlarının bilgi teknolojileri birimlerinde, kamu kurumlarının bilgi işlem dairelerinde, e-ticaret, telekomünikasyon, sigortacılık ve oyun geliştirme şirketlerinde istihdam edilebilmektedir. Dijitalleşmenin ve yazılım projelerinin artmasına bağlı olarak yazılım kalitesinin güvence altına alınması ihtiyacı sürekli büyümekte, bu da mesleğe olan talebi desteklemektedir. İş bulma olanakları, kişinin teknik bilgi birikimine, yabancı dil düzeyine ve test araçlarına hâkimiyetine göre değişmektedir.",
+ "kazanc": {
+  "egitim_suresince": "Meslek eğitimi süresince öğrenciler Kredi ve Yurtlar Genel Müdürlüğünün sağladığı öğrenim kredisi ve yurt hizmetlerinden, ayrıca çeşitli resmi ve özel kurum/kuruluşların burslarından yararlanabilirler. Eğitim sırasında yapılan stajlar ve yarı zamanlı çalışmalar hem deneyim hem de ek kazanç sağlayabilir.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında çalışanlar 657 sayılı Devlet Memurları Kanunu'na göre öğrenim düzeyine uygun kadro ve derecelerden maaş ve yan ödeme alır.",
+   "Özel sektörde ücret; çalışılan firmaya, projeye, deneyim düzeyine ve pazarlık gücüne göre değişmektedir; yeni başlayanlar genellikle asgari ücret düzeyine yakın bir ücretle işe başlayabilir.",
+   "Deneyim ve uzmanlık arttıkça, özellikle otomasyon ve performans testi gibi ileri yetkinliklere sahip olanlarda kazanç düzeyi belirgin şekilde yükselebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Lisans eğitimini tamamlayanlar, yazılım mühendisliği veya ilgili alanlarda yüksek lisans ve doktora yaparak akademik kariyere yönelebilir. Ayrıca ISTQB gibi uluslararası test sertifikalarının ileri seviye basamaklarını tamamlayarak uzmanlıklarını belgeleyebilirler.",
+  "is_hayatinda": "Deneyim kazandıkça kıdemli yazılım test uzmanı, test lideri, test yöneticisi veya kalite güvence yöneticisi gibi pozisyonlara yükselebilir; otomasyon ve performans testi gibi alanlarda uzmanlaşarak proje yöneticiliğine geçebilirler."
+ },
+ "benzer_meslekler": [
+  "Kalite Güvence Analisti (Bilgisayar)",
+  "Sistem Test Edicisi",
+  "Yazılım Mühendisi",
+  "BT İş Analisti (Bilişim Teknolojileri İş Analisti)",
+  "Uygulama Destek Uzmanı (Bilişim)"
+ ],
+ "ek_bilgiler": "Dijitalleşme ve yazılım projelerinin artmasıyla birlikte yazılım test ediciliğine olan talep gün geçtikçe büyümektedir. Uluslararası kabul gören yazılım test sertifikaları (örneğin ISTQB) işe alımlarda ve kariyer ilerlemesinde tercih sebebi olabilir, ancak mesleğin icrası için yasal bir zorunluluk değildir. İşin niteliği, projeye göre tamamen veya kısmen uzaktan çalışmaya da uygun olabilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T06:02:45",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 7856
+  }
+ }
+}

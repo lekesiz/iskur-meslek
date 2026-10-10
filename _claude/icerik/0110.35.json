@@ -1,0 +1,72 @@
+{
+ "arac_gerec": [
+  "Silah ve mühimmat",
+  "Muhabere/haberleşme cihazları (telsiz vb.)",
+  "Harita, pusula ve GPS cihazları",
+  "Dürbün",
+  "Kişisel koruyucu teçhizat (çelik yelek, miğfer vb.)",
+  "Askeri araç ve gereçler",
+  "Nöbet ve görev kayıt defterleri",
+  "Kişisel bilgisayar ve idari kayıt yazılımları",
+  "Üniforma ve kişisel teçhizat",
+  "İlk yardım malzemeleri"
+ ],
+ "genel_ozellikler": [
+  "Liderlik vasıflarına sahip,",
+  "Sorumluluk sahibi ve disiplinli,",
+  "Fiziksel ve psikolojik yönden sağlıklı ve dayanıklı,",
+  "Stres ve zor koşullarda hızlı, doğru karar verebilen,",
+  "Ekip çalışmasına ve hiyerarşik yapıya uyumlu,",
+  "Vatan sevgisi ve görev bilinci yüksek,",
+  "İyi iletişim ve ikna kurabilen,",
+  "Dikkatli ve özenli"
+ ],
+ "gorevler": [
+  "Takımındaki personelin temel askeri eğitimini yaptırır.",
+  "Nöbet ve iç emniyet hizmetlerini sevk ve idare eder.",
+  "Birliğe ait silah ve mühimmatın güvenliğini sağlar.",
+  "Personelin idari kayıtlarını ve özlük dosyalarını takip eder.",
+  "Verilen harekat ve operasyonel görevleri yerinde icra eder.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "calisma_ortami": "Asteğmen (Kara Kuvvetleri), kışla, eğitim alanları, atış poligonları ve arazi/saha gibi hem kapalı hem açık mekanlarda görev yapar. Görevin niteliğine göre zorlu hava ve arazi koşullarında, uzun ve düzensiz çalışma saatleriyle nöbet, tatbikat ve harekat faaliyetlerinde bulunulabilir; fiziksel olarak yorucu olabilir.\n\nGörev süresince emrindeki erbaş ve erlerle, aynı rütbedeki ve üst rütbedeki subaylarla sürekli iletişim ve koordinasyon içinde çalışılır. Çalışma koşulları görev yerine ve görevlendirmeye göre değişebilir; disiplin, hiyerarşiye bağlılık ve askeri kurallara uyum mesleğin temel gerekleridir.",
+ "calisma_alanlari": "Asteğmen (Kara Kuvvetleri), Türk Silahlı Kuvvetleri'ne bağlı Kara Kuvvetleri Komutanlığı'nın birlik ve karargahlarında istihdam edilir. Bu, kamu hizmeti niteliğinde bir görevdir; özel sektörde bu unvan ve görev tanımıyla istihdam imkanı bulunmamaktadır.",
+ "egitim": {
+  "verildigi_yerler": "Kara Harp Okulu ve Milli Savunma Üniversitesi bünyesindeki ilgili fakülte/yüksekokullar ile yedek subay adaylarının eğitim gördüğü askeri eğitim merkezlerinde verilir.",
+  "giris_kosullari": [
+   "Lisans düzeyinde bir eğitim programından mezun olmak (subay adayı yetiştiren yükseköğretim kurumundan ya da yedek subaylık için çağrılan lisans mezunlarından olmak)",
+   "Türk Silahlı Kuvvetleri'nin aradığı sağlık, fiziki yeterlilik ve güvenlik soruşturması şartlarını taşımak",
+   "İlgili mevzuatta belirtilen yaş, boy-kilo ve diğer genel şartları sağlamak"
+  ],
+  "sure_ve_icerik": "Kara Harp Okulu eğitimi dört yıllık lisans düzeyinde askeri ve akademik eğitimi kapsar. Yedek subay adayları için ise lisans eğitimini tamamladıktan sonra belirli süreli temel askerlik ve subaylık eğitimi uygulanır. Eğitim sürecinde askeri disiplin, liderlik, taktik, silah kullanımı, fiziksel yeterlilik ve mesleğe özgü bilgiler kazandırılır.",
+  "belge": "Subaylığa nasıp/atama belgesi ile Asteğmen rütbesi kazanılır."
+ },
+ "kazanc": {
+  "egitim_suresince": "Harp okulu öğrencileri ve yedek subay adayları, eğitim süresince Türk Silahlı Kuvvetleri tarafından barınma ve yemek imkanlarından yararlanır; ayrıca ilgili mevzuata göre belirlenen bir harçlık/aylık ödeme alabilirler.",
+  "egitim_sonrasi": [
+   "Göreve başlayan subay, ilgili askeri personel mevzuatına göre maaş, tazminat ve özlük haklarından yararlanır.",
+   "Kazanç düzeyi rütbe, kıdem, görev yeri ve ek ödemelere göre değişiklik gösterir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Lisans eğitimi sonrasında hizmet içi kurslar, ileri askeri eğitim ve ihtisas programlarıyla bilgi ve beceriler geliştirilir.",
+  "is_hayatinda": "Asteğmen olarak göreve başlayan subay, kıdem, performans ve sınav sonuçlarına göre sırasıyla teğmen, üsteğmen, yüzbaşı ve üst rütbelere terfi edebilir; ilerleyen yıllarda kurmaylık ve üst düzey komutanlık görevlerine atanabilir."
+ },
+ "benzer_meslekler": [
+  "Teğmen (Kara Kuvvetleri)",
+  "Üsteğmen (Kara Kuvvetleri)",
+  "Asteğmen (Hava Kuvvetleri)",
+  "Asteğmen(Deniz Kuvvetleri)",
+  "Asteğmen (Jandarma)",
+  "Asteğmen (Sahil Güvenlik)"
+ ],
+ "ek_bilgiler": "Bu meslek askeri hizmete ilişkin olup atama öncesinde sağlık, fiziki yeterlilik ve güvenlik soruşturması şartları aranır. Göreve başlama, terfi ve atama süreçleri Türk Silahlı Kuvvetleri'nin ilgili mevzuatına göre yürütülür.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-07T17:24:40",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 4755
+  }
+ }
+}

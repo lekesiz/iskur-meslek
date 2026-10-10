@@ -1,0 +1,80 @@
+{
+ "arac_gerec": [
+  "Multimetre, ampermetre, voltmetre, ohmmetre gibi elektriksel ölçüm cihazları",
+  "Osiloskop ve sinyal analiz cihazları",
+  "Basınç, akış ve gaz ölçüm cihazları (medikal gaz test ekipmanları)",
+  "Kalibrasyon cihazları ve referans fantomlar/simülatörler",
+  "El takımları (tornavida takımları, pense, kargaburnu, lehim havyası, anahtar takımları)",
+  "Kablo, konektör, sigorta ve yedek elektronik/elektromekanik devre elemanları",
+  "Bilgisayar, ilgili yazılımlar ve ağ (network) test cihazları",
+  "Hastane veri ağı bağlantı ve test ekipmanları",
+  "Teknik dokümantasyon, kullanım ve servis kılavuzları",
+  "Kişisel koruyucu donanım (eldiven, maske, önlük)",
+  "Servis çantası ve taşınabilir ölçüm setleri",
+  "Elektrik devre ve elektronik kart test ekipmanları"
+ ],
+ "genel_ozellikler": [
+  "Fen bilimleri, elektronik ve bilgisayar konularına ilgi duyan ve bu alanlarda başarılı,",
+  "El ve göz koordinasyonu iyi, ince işçilik gerektiren uygulamaları dikkatle yapabilen,",
+  "Dikkatli, titiz ve sabırlı,",
+  "Sorumluluk duygusu gelişmiş ve güvenilir,",
+  "Hijyen ve enfeksiyon kontrol kurallarına duyarlı,",
+  "Analitik düşünebilen, problem çözme becerisine sahip,",
+  "Ekip çalışmasına uygun, sağlık personeli ve diğer teknik ekiplerle iyi iletişim kurabilen,",
+  "Hayati önemi olan cihazlarla çalışırken sakin ve soğukkanlı kalabilen kişiler olmaları gerekir."
+ ],
+ "calisma_ortami": "\"Yaşam Destek ve Tedavi Cihazları Teknik Servis Elemanı, başta hastaneler olmak üzere özel klinik, ameliyathane, yoğun bakım servisleri gibi sağlık kuruluşlarında; ayrıca tıbbi cihaz üretici ve servis firmalarının atölye ve depolarında çalışır. Çalışma ortamı genellikle kapalı mekânlardır; görev yaptığı alanlarda hijyen ve sterilizasyon kurallarına titizlikle uyması gerekir. Çalıştığı cihazların hastaların yaşamsal fonksiyonlarını desteklemesi nedeniyle görevlerini dikkatli ve hatasız yapması önem taşır.\\n\\nÇalışma saatleri genellikle hastanenin veya işletmenin çalışma düzenine bağlıdır; arıza bildirimleri nedeniyle vardiyalı çalışma veya mesai saatleri dışında acil çağrıya gidilmesi gerekebilir. Görevi sırasında doktor, hemşire, biyomedikal mühendis, hastane teknik servis personeli ve cihaz üretici/distribütör firma temsilcileri ile sık sık iletişim kurar.\"",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi, mesleki ve teknik Anadolu liselerinin Elektrik-Elektronik Teknolojisi alanı bünyesinde, biyomedikal cihaz teknolojilerine yönelik dallarda verilmektedir. Lise eğitiminin üzerine, üniversitelerin meslek yüksekokullarında yer alan biyomedikal cihaz teknolojisi ile ilgili ön lisans programları da mesleğe yönelik eğitim sağlamaktadır. Ayrıca sektördeki bazı meslek elemanları işbaşında usta/uzman yanında yetişerek veya ilgili kurum ve firmaların düzenlediği hizmet içi eğitim ve sertifika programlarına katılarak mesleğe giriş yapabilmektedir.",
+  "giris_kosullari": [
+   "Meslek lisesi düzeyinde eğitime girebilmek için ortaokul mezunu olmak ve ilgili ortaöğretim kurumuna kayıt şartlarını taşımak",
+   "Sağlık durumunun mesleğin gerektirdiği çalışma koşullarına uygun olması",
+   "Ön lisans programlarına girebilmek için lise veya dengi okul mezunu olmak ve merkezi yerleştirme sınavında (YKS/TYT) yeterli puan almak",
+   "İş sağlığı ve hijyen kurallarına uyabilecek fiziksel ve zihinsel uygunluk"
+  ],
+  "sure_ve_icerik": "Meslek lisesi düzeyinde eğitim 4 yıl sürmekte olup ortak kültür dersleri ile birlikte elektrik-elektronik ve biyomedikal cihaz teknolojilerine yönelik alan/dal dersleri, atölye uygulamaları ve staj çalışmalarını içerir. Ön lisans düzeyindeki biyomedikal cihaz teknolojisi programları ise 2 yıl sürmekte olup teorik derslerin yanında laboratuvar uygulamaları ve staj içermektedir. Eğitim boyunca temel elektrik-elektronik bilgisi, tıbbi cihaz çalışma prensipleri, kalibrasyon, arıza tespit ve giderme ile iş sağlığı ve güvenliği konuları işlenir.",
+  "belge": "Meslek lisesi düzeyinde eğitimi tamamlayanlara diploma; ön lisans programını tamamlayanlara ön lisans diploması verilir. Mesleki Yeterlilik Kurumu (MYK) tarafından düzenlenen ulusal yeterlilik belgesi, özellikle istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "\"Kamu ve özel hastaneler ile özel sağlık kuruluşlarının biyomedikal/teknik servis birimleri; tıbbi cihaz üreten, ithal eden veya dağıtımını yapan firmaların teknik servis bölümleri; yaşam destek ve tedavi cihazlarının bakım-onarımını üstlenen özel servis firmaları başlıca çalışma alanlarıdır. Sağlık sektöründeki teknolojik cihazların yaygınlaşması ve hastanelerde periyodik bakım/kalibrasyon zorunluluklarının artması, bu alanda nitelikli teknik personele olan ihtiyacı sürdürmektedir. Deneyim kazanan meslek elemanları, ilgili mevzuata uygun şartları sağladıklarında kendi servis işletmelerini de kurabilirler.\"",
+ "kazanc": {
+  "egitim_suresince": "Meslek lisesi döneminde işletmelerde yapılan staj/mesleki eğitim uygulamalarında, 3308 sayılı Mesleki Eğitim Kanunu kapsamında öğrencilere belirli oranda ücret ödenmekte ve iş kazası-meslek hastalığı sigortası devletçe karşılanmaktadır. Ön lisans eğitimi sırasında yapılan stajlarda ise ücret, işletmenin uygulamalarına göre değişebilir.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç elde eder.",
+   "Kazanç; deneyim, sahip olunan sertifikalar, çalışılan kurumun yapısı ve büyüklüğüne göre artış gösterebilir.",
+   "Kamu hastanelerinde işçi statüsünde çalışanlar ilgili toplu iş sözleşmesi hükümlerine, özel sektörde çalışanlar ise işveren ile yapılan anlaşmaya göre ücret alır."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Meslek lisesi mezunları, alanın devamı niteliğindeki ön lisans programlarını tercih ederek eğitimlerini ilerletebilir; ön lisans mezunları ise dikey geçiş sınavıyla ilgili lisans programlarına (örneğin biyomedikal mühendisliği gibi mühendislik programları) geçiş yapabilir. Ayrıca kurum ve firmaların düzenlediği hizmet içi eğitimler ve sertifika programlarıyla mesleki bilgi ve beceriler güncellenebilir ve geliştirilebilir.",
+  "is_hayatinda": "Deneyim kazanan meslek elemanları kıdemli teknisyen, teknik servis sorumlusu veya ekip/vardiya şefliği gibi pozisyonlara yükselebilir. Belirli bir birikim ve mevzuatın gerektirdiği şartları sağladıktan sonra kendi teknik servis işletmesini kurabilir veya bir bayilik/servis yetkisi alabilirler."
+ },
+ "benzer_meslekler": [
+  "Tıbbi Görüntüleme Sistemleri Teknik Servis Elemanı",
+  "Tıbbi Laboratuvar ve Hasta Dışı Uygulama Cihazları Teknik Servis Elemanı",
+  "Elektronik Montörü (Tıbbi Teçhizat)",
+  "Endüstriyel Bakım-Onarım Elektronikçisi",
+  "Mekatronik Bakım Onarımcısı"
+ ],
+ "ek_bilgiler": "\"Hastane ve sağlık kuruluşlarında çalıştığından hijyen, sterilizasyon ve enfeksiyon kontrol kurallarına titizlikle uyulması gerekmektedir. Yaşam destek cihazlarındaki arızaların hasta sağlığını doğrudan etkileyebilmesi nedeniyle, meslek elemanlarının bazı durumlarda mesai saatleri dışında da acil müdahale için çağrılabileceği unutulmamalıdır.\"",
+ "gorevler": [
+  "İş organizasyonunu yapar.",
+  "Temel elektrik-elektromekanik kontrolleri gerçekleştirir.",
+  "Biyomedikal sistemlerle ilgili temel ölçümleri yapar.",
+  "Tıbbi teknoloji organizasyonlarını yapar.",
+  "Yaşam destek ve tedavi cihazlarının kurulum şartlarını kontrol eder, bu cihazların arızalarını tespit eder ve giderir.",
+  "Yaşam destek ve tedavi amaçlı yüzey etkili destek ve tedavi cihazları ile özellikle ameliyathane ve yoğun bakım servislerinde kullanılan destek ekipmanlarının, dolaşım ve solunum cihazlarının kurulum ve montajını yapar; periyodik bakımlarını yapar, kalibrasyon ve ayarlarını kontrol eder.",
+  "Cihazların bilgisayar ve ilgili çevre birimleri ile bağlantılarını yapar.",
+  "Hastane veri ağı bağlantılarını kontrol eder ve tanımlamalarını yapar.",
+  "Medikal gazları ayırt eder ve gaz hat arızalarını tespit eder.",
+  "Mesleği alanındaki gelişmeleri takip eder.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T06:21:58",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6937
+  }
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "arac_gerec": [
+  "Kauçuk çekme (ekstrüzyon) makinesi",
+  "Mastar (kalıp)",
+  "Buhar kazanı ve buhar vanası",
+  "Sıcaklık/ısı kontrol paneli",
+  "Hız ve senkronizasyon kontrol cihazı",
+  "Konveyör bant sistemi",
+  "Parça/hammadde kauçuk",
+  "Ölçüm aletleri (kumpas, metre)",
+  "El aletleri (anahtar, tornavida vb.)",
+  "Kişisel koruyucu donanım (eldiven, önlük, gözlük, kulaklık)",
+  "Temizlik ve bakım malzemeleri"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve tedbirli,",
+  "El ve göz koordinasyonu iyi,",
+  "Fiziksel olarak dayanıklı,",
+  "Sıcak ve buharlı ortamda çalışmaya uygun sağlık durumuna sahip,",
+  "Makine ve tekniğe ilgili,",
+  "Sorumluluk sahibi,",
+  "Vardiyalı çalışmaya uygun,",
+  "Takım çalışmasına uyumlu"
+ ],
+ "calisma_ortami": "Kauçuk Çekme Makinesi Operatörü, kauçuk ve lastik ürünleri üreten fabrikaların üretim atölyelerinde, kapalı mekânlarda çalışır. Çalışma ortamı buhar, ısı ve kauçuk kokusu nedeniyle sıcak olabilir; makinelerin çalışmasından dolayı gürültü düzeyi yüksektir. Sıcak mastar ve buharla çalışma nedeniyle yanma riski bulunduğundan iş sağlığı ve güvenliği kurallarına uyma ve kişisel koruyucu donanım kullanma önemlidir.\n\nÇalışma genellikle ayakta ve uzun süreli dikkat gerektiren bir düzende sürer. İşletmenin üretim programına bağlı olarak vardiyalı çalışma söz konusu olabilir. Çalışma sırasında aynı hat üzerindeki diğer operatörler, vardiya amiri, bakım ve kalite kontrol personeliyle iletişim kurar.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimine yönelik, ayrı bir dal olarak düzenlenmiş örgün mesleki eğitim programı (çıraklık eğitimi) bulunmamaktadır. Meslek, genellikle kauçuk ve lastik üreten işletmelerde işbaşında, deneyimli bir operatör veya usta gözetiminde öğrenilmektedir. Halk Eğitim Merkezleri ile İŞKUR tarafından açılan mesleki eğitim kurslarında kauçuk/plastik işleme konusunda temel bilgi ve beceri kazandırılabilir. Ayrıca bazı üniversitelerin meslek yüksekokullarında yer alan lastik ve kauçuk teknolojisiyle ilgili ön lisans programları, sektöre yönelik teorik bilgi edinmek ve ileri pozisyonlara geçiş için bir zemin oluşturabilir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "Fiziksel sağlık durumunun sıcak ortamda ve ayakta çalışmaya uygun olması",
+   "İşe alım yapan işletmenin belirlediği yaş ve sağlık koşullarını taşımak"
+  ],
+  "sure_ve_icerik": "Belirli bir süre ve müfredatı olan resmi bir eğitim programı yoktur. Genellikle işe yeni başlayanlar, deneyimli bir operatör ya da usta gözetiminde birkaç haftadan birkaç aya kadar sürebilen uygulamalı bir eğitim sürecinden geçer. Bu süreçte mastar seçimi ve takılması, buhar/ısı ayarlarının yapılması, makinenin çalıştırılması, kauçuğun çekilme hızının konveyör ile senkronize edilmesi ve kalite kontrolü gibi konular işbaşında öğretilir.",
+  "belge": "Mesleğe girişte zorunlu bir diploma veya sertifika bulunmamaktadır; işletme içi eğitim tamamlandığında fiilen çalışmaya başlanır. Katılınan Halk Eğitim Merkezi veya İŞKUR kurslarından katılım belgesi alınabilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Kauçuk Çekme Makinesi Operatörleri, başta lastik, hortum, conta, profil ve diğer teknik kauçuk ürünleri üreten fabrikalar olmak üzere kauçuk işleme sektöründeki üretim tesislerinde istihdam edilir. Bu işletmelerin önemli bir kısmı otomotiv yan sanayi, inşaat malzemeleri ve beyaz eşya gibi sektörlere girdi sağlar. İş bulma olanakları, kauçuk sanayisinin yoğunlaştığı sanayi bölgelerinde ve sektördeki üretim hacmine bağlı olarak değişmektedir.",
+ "kazanc": {
+  "egitim_suresince": "Eğitim işbaşında yapıldığından, bu süreçte kişi genellikle işletmede işçi statüsünde çalışır ve kazancı işletmenin ücret politikasına göre genellikle asgari ücret düzeyinde olur.",
+  "egitim_sonrasi": [
+   "İşe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Deneyim, işletmenin büyüklüğü ve sektörün ücret düzeyine göre kazanç artabilir.",
+   "Kamuya bağlı üretim tesislerinde çalışanlar işçi statüsünde ise toplu iş sözleşmesi hükümlerine göre ücret alır; özel sektörde ücret genellikle işveren ile karşılıklı anlaşmaya göre belirlenir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Bu meslekte kalfalık-ustalık gibi örgün bir ilerleme basamağı bulunmamaktadır. Çalışanlar deneyim kazanarak farklı makine tiplerinde ve kauçuk ürün çeşitlerinde çalışabilir; Halk Eğitim Merkezi, İŞKUR veya işletme içi eğitimlerle bilgi ve becerilerini geliştirebilirler.",
+  "is_hayatinda": "Deneyim kazanan operatörler usta, vardiya sorumlusu veya bölüm şefliği gibi pozisyonlara yükselebilir; üretim planlama, bakım veya kalite kontrol birimlerinde görev alabilirler."
+ },
+ "gorevler": [
+  "İşletmenin genel çalışma prensipleri doğrultusunda, araç, gereç ve ekipmanları etkin bir şekilde kullanarak, işçi sağlığı, iş güvenliği ve çevre koruma düzenlemelerine ve mesleğin verimlilik ve kalite gereklerine uygun olarak çalışır",
+  "Mastarı seçip makineye takar",
+  "Buhar vanasını açarak mastarı istenilen derecede ısıtır",
+  "Makinenin deposunu parça kauçukla doldurur",
+  "Makineyi çalıştırıp kauçuğun mastar içinden zorla itilmesini sağlar ve konveyör süratiyle kauçuğun çekilme süratini senkronize etmek için kontrol cihazını ayarlar",
+  "Mesleki gelişim faaliyetlerinde bulunur"
+ ],
+ "benzer_meslekler": [
+  "Kauçuk Kalandır Makinesi Operatörü",
+  "Lastik Kalandır Makinesi Operatörü",
+  "Kauçuk Kalıp Presi Operatörü",
+  "Plastik Çekme Makinesi Operatörü",
+  "Kauçuk Hortum Üretim Operatörü (Ekstrüzyon)",
+  "Kauçuk Yoğurucu"
+ ],
+ "ek_bilgiler": "Kauçuk işleme sektöründe üretim teknolojilerinin gelişmesi, operatörlerin zaman zaman yeni makine ve kontrol sistemlerine uyum sağlamak için ek eğitim almasını gerektirebilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T12:42:39",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6364
+  }
+ }
+}

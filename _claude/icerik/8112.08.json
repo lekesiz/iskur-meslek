@@ -1,0 +1,83 @@
+{
+ "arac_gerec": [
+  "Öğütme değirmeni (bilyalı/çubuklu değirmen)",
+  "Besleme pompaları",
+  "Yatak ve motor soğutma sistemi ekipmanları",
+  "Yağlama sistemi ve ekipmanları",
+  "Taşıyıcı bant (konveyör) sistemi",
+  "Kontrol ve kumanda panosu",
+  "Pülp yoğunluk ölçer (densitometre)",
+  "Tane boyutu ölçüm ekipmanları (elek, partikül analiz cihazı)",
+  "Basınç göstergesi/manometre",
+  "Numune alma ekipmanları",
+  "El aletleri (anahtar takımı, yağdanlık)",
+  "Kişisel koruyucu donanım (baret, kulaklık, toz maskesi, eldiven, çelik burunlu ayakkabı)"
+ ],
+ "benzer_meslekler": [
+  "Değirmen İşçisi (Maden)",
+  "Mineral Kırma Makinesi Operatörü",
+  "Kırma Eleme Tesis Operatörü",
+  "Konkasör Operatörü (Kırma-Eleme)",
+  "Mekanik(Fiziksel) Cevher Zenginleştirme Operatörü",
+  "Yüzdürme İşletme Operatörü-Maden"
+ ],
+ "calisma_alanlari": "Öğütme Tesisi Operatörü (Madencilik), maden işletmelerine bağlı cevher zenginleştirme ve öğütme tesislerinde, mineral işleme fabrikalarında çalışır. Kamu veya özel sektöre ait maden ocağı ve işletme bünyesindeki tesislerde istihdam edilebilir. Mesleğin uygulandığı iş yerleri genellikle maden ve mineral kaynaklarının bulunduğu bölgelerde yoğunlaşmaktadır.",
+ "calisma_ortami": "Öğütme Tesisi Operatörü, maden işletmelerine bağlı öğütme/değirmen binalarında, kapalı mekanlarda çalışır. Çalışma ortamı makine sesleri nedeniyle gürültülü, tozlu ve nemli olabilir; bazı işlemlerde reaktif madde kullanımı söz konusu olduğundan kimyasal maddelerle temas riski bulunur. Bu nedenle kişisel koruyucu donanım kullanımı önemlidir.\n\nİşletmelerin genellikle sürekli üretim yapması nedeniyle vardiyalı (gece-gündüz) çalışma düzeni yaygındır. Çalışma süresince ayakta ve bazen hareketli şekilde görev yapılır; kırma-eleme operatörleri, diğer zenginleştirme tesisi operatörleri, bakım-onarım personeli, tesis mühendisleri ve iş güvenliği uzmanlarıyla iş birliği içinde çalışılır.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğe yönelik ülke genelinde standart bir örgün mesleki eğitim programı bulunmamaktadır. Meslek bilgi ve becerisi genellikle Halk Eğitim Merkezleri ile İŞKUR'un açtığı mesleki eğitim kursları ve işletmelerde işbaşında usta yanında eğitim yoluyla kazanılmaktadır. Mesleki ve teknik eğitim veren okulların maden/metalurji teknolojisi alanına bağlı ilgili programları da mesleğe temel oluşturabilir.",
+  "giris_kosullari": [
+   "En az ilkokul mezunu olmak",
+   "Ağır ve tehlikeli işlerde çalışmaya uygun sağlık raporuna sahip olmak",
+   "Fiziksel olarak uygun ve vardiyalı çalışmaya hazır olmak"
+  ],
+  "sure_ve_icerik": "Kurs süreleri kurumdan kuruma değişmekle birlikte genellikle birkaç haftadan birkaç aya kadar sürebilir. Eğitim içeriğinde değirmen çalışma prensipleri, öğütme işlemi aşamaları, pompa, soğutma ve yağlama sistemlerinin çalıştırılması, pülp yoğunluğu ve tane boyutu kontrolü ile iş sağlığı ve güvenliği konuları işlenir. İşletmelerde verilen işbaşı eğitiminin süresi işveren ve iş güvenliği uzmanlarınca belirlenir.",
+  "belge": "Kurs bitirme belgesi verilmektedir. Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "ek_bilgiler": "Bu meslekte çalışanlar bazı işlemlerde kimyasal reaktif maddelerle teması gerektiren süreçlerde görev aldığından, iş sağlığı ve güvenliği kurallarına titizlikle uyulması önemlidir. Mesleğin bazı işlem basamakları tehlikeli veya çok tehlikeli işler kapsamında değerlendirilebileceğinden, Mesleki Yeterlilik Kurumu (MYK) belgesi gerekliliğine ilişkin güncel düzenlemelerin ilgili resmi kaynaklardan teyit edilmesi önerilir.",
+ "genel_ozellikler": [
+  "Dikkatli ve gözlem gücü yüksek",
+  "Teknik alet ve makineleri kullanmaya istekli",
+  "Sorumluluk sahibi",
+  "El ve göz koordinasyonu gelişmiş",
+  "Ekip çalışmasına uyumlu",
+  "Fiziksel olarak dayanıklı",
+  "Vardiyalı çalışmaya uygun",
+  "İşçi sağlığı ve iş güvenliği kurallarına duyarlı"
+ ],
+ "gorevler": [
+  "Çalışma alanını kontrol eder, aksaklıkların giderilmesini sağlar",
+  "Çalışma alanının temizliğinin yapılmasını sağlar",
+  "Değirmenin genel kontrol ve bakımını yapar",
+  "Pompayı çalıştırır",
+  "Yatak ve motor soğutma sistemini çalıştırır",
+  "Yağlama sistemini çalıştırır",
+  "Bant katarını kontrol eder",
+  "Değirmeni devreye sokar",
+  "Değirmene beslenen su ve reaktif madde miktarını kontrol eder",
+  "Değirmene besleme yapar",
+  "Değirmenden çıkan pülp yoğunluğunu kontrol eder",
+  "Öğütülen malzemenin tane boyutunu ve silikon basınçlarını kontrol eder",
+  "Değirmeni devreden çıkartır",
+  "Mesleki gelişim faaliyetlerinde bulunur"
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleki ve teknik eğitim kurumlarının madencilik/maden teknolojisi alanlarında eğitim alarak teknik eleman veya teknisyen düzeyine ilerleyebilir; alanıyla ilgili kurs ve sertifika programlarıyla bilgi ve becerisini geliştirebilir.",
+  "is_hayatinda": "Mesleki tecrübe, bilgi birikimi ve yeteneklerine göre usta başı, nezaretçi veya vardiya amiri gibi görevlere yükselebilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Kurs döneminde genellikle bir kazanç söz konusu değildir. İşletmede işbaşı eğitimi alanlar, işveren ile yapılan anlaşmaya göre ücret alabilir.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde çalışmaya başlar",
+   "Kamu kuruluşlarına bağlı işletmelerde işçi statüsünde çalışanların ücreti toplu iş sözleşmesi hükümlerine göre belirlenir",
+   "Özel sektörde ücret; işletmenin büyüklüğü, çalışanın tecrübesi ve mesleki yeterliliğine göre değişiklik gösterebilir"
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T10:23:59",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6437
+  }
+ }
+}

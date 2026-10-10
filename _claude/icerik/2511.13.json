@@ -1,0 +1,81 @@
+{
+ "arac_gerec": [
+  "Bilgisayar ve ilgili donanımlar",
+  "Blok zincir geliştirme platformları (örn. Ethereum, Hyperledger gibi dağıtık defter altyapıları)",
+  "Akıllı sözleşme (smart contract) geliştirme dilleri ve kütüphaneleri",
+  "Entegre geliştirme ortamları (IDE)",
+  "Versiyon kontrol sistemleri (Git ve benzeri)",
+  "Kriptografi ve güvenlik kütüphaneleri",
+  "Test ve hata ayıklama (debug) araçları",
+  "API ve sistem entegrasyon araçları",
+  "Veritabanı yönetim sistemleri",
+  "Ağ ve dağıtık sistem simülasyon araçları",
+  "Bulut bilişim platformları",
+  "Teknik dokümantasyon ve proje yönetim yazılımları",
+  "Büro yazılımları ve iletişim araçları"
+ ],
+ "benzer_meslekler": [
+  "Blok Zinciri Analisti",
+  "Sistem Analisti (BT)",
+  "Yazılım Mühendisi",
+  "Yazılım Geliştirme Uzmanı",
+  "Yapay Zeka Programcısı",
+  "Etik Hacker"
+ ],
+ "calisma_alanlari": "Blok Zinciri Programcıları başta yazılım geliştirme şirketleri olmak üzere; bankacılık ve finans kuruluşları, kripto para ve fintek şirketleri, bilişim danışmanlık firmaları, Ar-Ge merkezleri ve dijital dönüşüm projeleri yürüten kamu kurumlarının bilgi işlem birimlerinde çalışabilmektedir. Tedarik zinciri yönetimi, sağlık, lojistik, enerji, kamu hizmetleri gibi farklı sektörlerde blok zincir tabanlı çözümlere yönelik ilginin artmasıyla bu alana olan talep yükselmektedir.\\n\\nMeslek, ülkemizde henüz yeni ve gelişmekte olan bir alan olduğundan nitelikli ve deneyimli eleman sayısı sınırlıdır; bu durum iyi yetişmiş kişiler için iş bulma olanağını artırmaktadır. Ancak alanın hızla değişen teknolojik yapısı nedeniyle sürekli güncel kalma ve kendini geliştirme ihtiyacı bulunmaktadır. Serbest (freelance) çalışma veya proje bazlı istihdam da bu meslekte yaygın bir seçenektir.",
+ "calisma_ortami": "Blok Zinciri Programcıları genellikle büro/ofis ortamında bilgisayar başında masa başı çalışırlar; bazı işletmelerde kısmen veya tamamen uzaktan çalışma da mümkündür. Çalışma, yoğun zihinsel efor ve uzun süre ekran karşısında oturarak yapılan görevleri içerir; proje teslim tarihlerine bağlı olarak zaman zaman normal çalışma saatlerinin dışına taşan yoğun çalışma dönemleri olabilir.\\n\\nMeslek mensupları; yazılım geliştirici ekip arkadaşları, sistem analistleri, test uzmanları, proje yöneticileri ve işin muhatabı olan birim/müşteri temsilcileri ile sürekli iletişim ve iş birliği içinde çalışır. Takım çalışması, iletişim ve yazılı/sözlü raporlama becerisi işin önemli bir parçasıdır.",
+ "ek_bilgiler": "Blok zincir teknolojisi görece yeni bir alan olduğundan, ülkemizde bu mesleğe özgü, bağımsız bir lisans programı bulunmamaktadır. Bu alanda çalışanlar genellikle Bilgisayar Mühendisliği, Yazılım Mühendisliği, Bilgisayar Bilimleri gibi bilişim temelli lisans programlarından mezun olup, lisans eğitimi sonrasında sertifika programları, çevrim içi kurslar veya işbaşı deneyimle blok zincir ve akıllı sözleşme teknolojileri üzerine uzmanlaşmaktadır. Mesleki Yeterlilik Kurumu (MYK) veya uluslararası kuruluşlarca verilen blok zincir/akıllı sözleşme sertifikaları zorunlu olmamakla birlikte istihdamda tercih sebebi olabilir.",
+ "egitim": {
+  "verildigi_yerler": "Blok Zinciri Programcılığına özgü, bağımsız bir lisans programı bulunmamaktadır. Mesleğe yönelik temel eğitim; üniversitelerin Bilgisayar Mühendisliği, Yazılım Mühendisliği, Bilgisayar Bilimleri ve Mühendisliği, Yönetim Bilişim Sistemleri gibi ilgili fakülte ve bölümlerinde verilen lisans eğitimleriyle sağlanır. Bu temel eğitimin üzerine, üniversitelerin sürekli eğitim merkezleri, çevrim içi eğitim platformları ve özel eğitim kuruluşlarınca verilen blok zincir, akıllı sözleşme ve dağıtık defter teknolojileri konulu sertifika programları ile uzmanlaşma sağlanmaktadır.",
+  "giris_kosullari": [
+   "Lise veya dengi okul mezunu olmak",
+   "YKS (Yükseköğretim Kurumları Sınavı) kılavuzunda ilgili lisans programları için belirtilen giriş koşullarını taşımak ve yeterli puanı almak",
+   "Meslek Yüksekokulu veya Açıköğretim Önlisans Programları mezunlarının Dikey Geçiş Sınavı (DGS) ile ilgili lisans programlarına geçiş yapabilmesi"
+  ],
+  "sure_ve_icerik": "İlgili lisans programlarının eğitim süresi 4 yıldır. Eğitim süresince programlama dilleri, algoritma ve veri yapıları, veritabanı yönetimi, ağ ve siber güvenlik, dağıtık sistemler, yazılım mühendisliği gibi temel dersler verilir. Blok zincir, akıllı sözleşme geliştirme, kriptografi ve dağıtık defter teknolojilerine yönelik bilgi ve beceriler ise genellikle lisans eğitimine ek olarak seçmeli dersler, sertifika programları, çevrim içi kurslar veya işbaşında usta-çırak ilişkisi içinde kazanılmaktadır.",
+  "belge": "Mesleğin temel şartı olan lisans diploması alınır. Bunun yanında katılınan sertifika programlarından başarı belgesi/sertifika alınabilir; bu belgeler zorunlu olmamakla birlikte istihdamda tercih sebebi olabilir."
+ },
+ "genel_ozellikler": [
+  "Matematiksel ve analitik düşünme yeteneğine sahip,",
+  "Soyut kavramları anlayıp uygulayabilen,",
+  "Detaylara dikkat eden ve titiz,",
+  "Yeni teknolojilere ilgili ve kendini sürekli güncelleyebilen,",
+  "Problem çözme becerisi gelişmiş,",
+  "Güvenlik bilincine sahip ve sorumluluk duygusu gelişmiş,",
+  "Takım çalışmasına uyumlu,",
+  "Sabırlı ve sistematik çalışabilen"
+ ],
+ "gorevler": [
+  "İş planlaması yapar.",
+  "Faaliyetler için yazılım, donanım ve ekipman temin eder.",
+  "Yapılan işlerin kaydını tutar.",
+  "Dijital arşivleme yapar.",
+  "Çalışma alanının düzenini takip eder.",
+  "Tasarım dokümantasyonunu değerlendirir.",
+  "Yazılım hazırlıklarını tamamlar.",
+  "Tasarımda yer alan süreçlerin kodlamasını yapar.",
+  "Yazılımı test eder.",
+  "Teknik dokümantasyon oluşturur.",
+  "Kendisinin ve başkalarının mesleki gelişimi konusunda çalışmalar yapar."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Lisans eğitimini tamamlayanlar, ilgili bilişim alanlarında yüksek lisans ve doktora yaparak akademik kariyer imkânı elde edebilir; üniversitelerde araştırma görevlisi, öğretim görevlisi gibi unvanlara ilerleyebilirler.",
+  "is_hayatinda": "Deneyim kazandıkça kıdemli blok zinciri programcısı, blok zinciri mimarı/sistem tasarımcısı, teknik lider, proje yöneticisi gibi pozisyonlara; işletme ve kariyer tercihine göre bilgi işlem/bilişim birim yöneticiliğine veya teknik direktörlük gibi üst düzey görevlere yükselebilirler."
+ },
+ "kazanc": {
+  "egitim_suresince": "Lisans eğitimi süresince Kredi ve Yurtlar Genel Müdürlüğünün sağladığı öğrenim kredisi ve yurt hizmetlerinden, ayrıca çeşitli resmi ve özel kurum/kuruluşların burslarından yararlanılabilir. İsteyen öğrenciler, yazılım şirketlerinde stajyer veya yarı zamanlı çalışarak deneyim ve ek kazanç elde edebilir.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında çalışanlar 657 sayılı Devlet Memurları Kanunu'na göre öğrenim düzeyine uygun maaş ve yan ödeme alır.",
+   "Özel sektörde ücret; çalışılan firmanın büyüklüğü, sektör, kişinin deneyimi ve bilgi birikimine göre değişmekte olup işveren ile çalışan arasında karşılıklı olarak belirlenir.",
+   "Mesleğe yeni başlayanlarda kazanç genellikle asgari ücret düzeyinde olabilirken, deneyim ve uzmanlık arttıkça kazanç önemli ölçüde yükselebilir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T05:52:01",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6260
+  }
+ }
+}

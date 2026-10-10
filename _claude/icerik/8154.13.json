@@ -1,0 +1,78 @@
+{
+ "arac_gerec": [
+  "Su kabı/kazan",
+  "Isıtma düzeneği (buhar kazanı veya elektrikli ısıtıcı)",
+  "Termometre",
+  "Sabun ve diğer temizlik maddeleri",
+  "İbrişim çileleri",
+  "Döner kollu temizleme kabı",
+  "Askı çubukları",
+  "Kamış veya metal çerçeveler",
+  "Durulama havuzu/kabı",
+  "Kurutma dolabı veya kurutma makinesi",
+  "Taşıma sepeti/arabası",
+  "Kişisel koruyucu donanım (eldiven, önlük, çizme, maske)"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli,",
+  "Sabırlı,",
+  "El becerisine sahip,",
+  "Fiziksel olarak dayanıklı,",
+  "Düzenli ve temiz çalışmaya özen gösteren,",
+  "Isı ve kimyasal maddelere karşı dayanıklı,",
+  "Talimatlara uyan,",
+  "Ayakta ve nemli ortamda uzun süre çalışabilen,"
+ ],
+ "calisma_ortami": "İpek temizleyici, kapalı ortamda, genellikle tekstil/ibrişim işleme atölye veya fabrikalarında çalışır. Çalışma ortamı, kaynar su ve buhar nedeniyle sıcak ve nemlidir; sabun ve temizlik maddelerinin kullanımı sonucu ortamda kimyasal koku bulunabilir. Zemin ıslak ve kaygan olabileceğinden düşme ve kayma riski vardır; sıcak su ve buharla doğrudan temas nedeniyle yanık riski bulunur. Bu nedenle çalışma sırasında kişisel koruyucu donanım kullanılması önemlidir.\n\nMeslek elemanı, genellikle işletmenin belirlediği vardiya düzeninde ve ayakta çalışır; iş sırasında işletmedeki diğer tekstil terbiye işçileri, usta ve atölye/bölüm sorumlusu ile iletişim kurar.",
+ "calisma_alanlari": "İpek temizleyici; ipek böcekçiliği ve ibrişim üretiminin yapıldığı bölgelerdeki ipek/ibrişim işleme tesislerinde, ipekli kumaş dokuma ve terbiye atölyelerinde, geleneksel el dokumacılığı ile bağlantılı küçük ölçekli işletmelerde çalışabilir. Türkiye'de ipek üretimi ve işlenmesi sınırlı sayıda bölgede (özellikle ipek böcekçiliğinin geleneksel olarak yapıldığı yerlerde) yoğunlaştığından bu meslekte istihdam alanı dardır ve iş yeri sayısı azdır.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğe yönelik örgün (okul temelli) bir eğitim programı bulunmamaktadır. Meslek elemanları genellikle işyerlerinde işbaşında, usta yanında çalışarak yetişir. Ayrıca Halk Eğitim Merkezleri ile İŞKUR tarafından açılan tekstil/dokuma alanındaki mesleki eğitim kurslarına katılarak da temel bilgi ve beceriler kazanılabilir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "Sıcak ortamda, ayakta ve nemli koşullarda çalışmaya uygun sağlık durumuna sahip olmak",
+   "El becerisine ve dikkate sahip olmak"
+  ],
+  "sure_ve_icerik": "Belirli ve standart bir eğitim süresi bulunmamaktadır. Meslek, işyerinde usta yanında yapılan uygulamalı çalışmalarla kademeli olarak öğrenilir; su ve karışım sıcaklığının ayarlanması, temizlik maddelerinin kullanımı, ibrişim ve ipekli kumaşın karışım içinde işlenmesi ile durulama ve kurutma işlemleri uygulamalı olarak öğretilir. İŞKUR veya Halk Eğitim Merkezlerince açılan kurslar düzenlendiğinde bunların süresi ve içeriği kursun programına göre değişir.",
+  "belge": "Örgün eğitim sonunda verilen standart bir diploma veya ustalık belgesi bulunmamaktadır. İşbaşı eğitim sonunda işveren tarafından verilen bir sertifika veya katılınan kurslardan alınan kurs bitirme/katılım belgesi bulunabilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, ilgili alanda açılmışsa istihdamda tercih sebebi olabilir."
+ },
+ "gorevler": [
+  "Su kabını doldurur.",
+  "Suyu istenilen dereceye kadar ısıtır.",
+  "İçerisine sabun veya diğer temizlik maddelerini katar.",
+  "Karışımın sıcaklığını (hararetini) kontrol eder.",
+  "İbrişim çilelerini kaynamakta olan karışıma batırır veya kabın döner kollarına yerleştirir.",
+  "İpekli kumaşı veya eşyayı askı çubuklarına kamış veya metal çerçevelere bağlayıp bunları karışım içinde hareket ettirir.",
+  "Malzemeyi sıcak suda durular.",
+  "Kabı boşaltıp temizler.",
+  "Kurutma işini yapar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "kazanc": {
+  "egitim_suresince": "Örgün bir eğitim kademesi bulunmadığından işbaşında usta yanında yetişme sürecinde genellikle düzenli bir ücret söz konusu değildir; çalışılan işyerine göre bu süreçte asgari ücretin altında bir ödeme yapılabilir veya üretime katkısı ölçüsünde ücretlendirilebilir. Katılınan kamu kurslarında (İŞKUR/Halk Eğitim) kursiyere mevzuata göre bir harçlık ödenebilir.",
+  "egitim_sonrasi": [
+   "İşe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Deneyim kazandıkça, çalışılan işyerinin büyüklüğüne, üretim hacmine ve çalışanın performansına göre ücret artabilir.",
+   "Ücret, özel sektörde işveren ile çalışan arasında karşılıklı anlaşmaya göre belirlenir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğe özgü örgün bir eğitim kademesi ve diploma sistemi bulunmadığından ilerleme sınırlıdır. Meslek elemanları, tekstil terbiye ve temizleme alanında açılan kurslara katılarak bilgi ve becerilerini geliştirebilir, ilgili alanda açılan mesleki eğitim programlarına yönelebilir.",
+  "is_hayatinda": "Deneyim kazandıkça usta işçi, vasıflı işçi veya atölye/bölüm sorumlusu düzeyine kadar ilerleyebilir. Yeterli birikim ve sermaye ile kendi işini kurabilir."
+ },
+ "benzer_meslekler": [
+  "Mensucat Beyazlatıcı",
+  "Tekstil Terbiye İşçisi",
+  "Tekstil Terbiye İşçisi (Apre)",
+  "Yıkama Makinesi İşçisi (Tekstil)",
+  "İplik ve Örgü Yünü Yıkama İşçisi"
+ ],
+ "ek_bilgiler": "İpek temizleyiciliği, ipek böcekçiliği ve ibrişim üretimine bağlı, geleneksel niteliği olan ve günümüzde sanayide çok yaygın uygulanmayan dar kapsamlı bir meslektir. İstihdam olanakları, ipek/ibrişim işlemenin yapıldığı sınırlı sayıdaki bölge ve işletmeyle sınırlıdır.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T14:23:02",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5349
+  }
+ }
+}

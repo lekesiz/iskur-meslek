@@ -1,0 +1,76 @@
+{
+ "arac_gerec": [
+  "Bilgisayar ve sunucu sistemleri",
+  "Veri tabanı yönetim sistemi (VTYS) yazılımları (MySQL, Microsoft SQL Server, Oracle, PostgreSQL vb.)",
+  "Veri modelleme ve veri tabanı tasarım araçları",
+  "SQL ve diğer sorgu dilleri, komut satırı araçları",
+  "Ağ bağlantı ve yapılandırma araçları",
+  "Yedekleme ve veri kurtarma yazılımları/üniteleri",
+  "Güvenlik duvarı, şifreleme ve erişim kontrol yazılımları",
+  "Performans izleme ve raporlama araçları",
+  "Sürüm kontrol ve dokümantasyon yazılımları",
+  "İşletim sistemi yönetim araçları (sunucu işletim sistemleri)",
+  "Mesleğe ait diğer araç ve gereçler"
+ ],
+ "benzer_meslekler": [
+  "Veri Tabanı Programcısı Teknisyeni",
+  "Bilişim / Bilgi Güvenliği Teknolojisi Teknikeri",
+  "Sistem ve Ağ Uzmanı",
+  "Bulut Bilişim Uzmanı",
+  "Yazılım Destek Uzmanı",
+  "Bilgisayar Teknolojisi ve Programlama Teknikeri"
+ ],
+ "calisma_alanlari": "Yazılım ve Veri Tabanı Uzmanları, bilgisayar ve bilgi sistemleri kullanılan kamu ve özel sektör kuruluşlarının bilgi işlem/bilişim birimlerinde çalışabilirler. Bankacılık ve finans, e-ticaret, sağlık, eğitim, lojistik, telekomünikasyon ve kamu kurumları gibi veri tabanı altyapısına sahip her türlü işletmede istihdam edilebilirler.\\n\\nAyrıca yazılım geliştirme şirketlerinde, bilgi teknolojileri danışmanlık firmalarında ve bulut hizmet sağlayıcılarında görev alabilirler. Sektördeki dijitalleşme ve veri odaklı iş süreçlerinin artması nedeniyle bu alandaki istihdam olanakları genişlemektedir.",
+ "calisma_ortami": "Yazılım ve Veri Tabanı Uzmanı, genellikle kapalı ortamda, büro veya bilgi işlem merkezlerinde bilgisayar başında oturarak çalışır. Bazı durumlarda sunucu odalarında donanım ve ağ bağlantılarıyla ilgilenmek üzere bulunabilir. İş genellikle sessiz ve düzenli bir ortamda yürütülür; ancak sistem arızaları, bakım veya acil veri kurtarma gibi durumlarda mesai saatleri dışında da çalışması gerekebilir.\\n\\nÇalışma sırasında bilgi işlem birimindeki diğer teknik personel, yazılım geliştiriciler, sistem yöneticileri ve işletmenin ilgili birimleriyle sürekli iletişim halindedir. Uzun süre ekran karşısında oturarak çalışmaya bağlı olarak görme, bel ve boyun rahatsızlıkları, yoğun dikkat gerektiren işler nedeniyle zihinsel yorgunluk görülebilir.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi, mesleki ve teknik ortaöğretim kurumlarının Bilişim Teknolojileri alanı kapsamındaki ilgili dallarında verilmektedir. Bunun yanında Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kursları ile üniversite ve özel kuruluşların düzenlediği veri tabanı ve yazılım eğitimleri de bu mesleğe yönelik bilgi ve beceri kazandırmaktadır.",
+  "giris_kosullari": [
+   "Ortaokulu tamamlamış olmak,",
+   "Mesleki ve teknik ortaöğretim kurumlarının ilgili alan/dalına yönelik Millî Eğitim Bakanlığınca belirlenen giriş koşullarını taşımak."
+  ],
+  "sure_ve_icerik": "Mesleki ve teknik ortaöğretim kurumlarında eğitim süresi 4 yıldır. 9. sınıfta ortak genel kültür dersleri verilir ve öğrenci alanını belirler. 10. sınıfta alana yönelik ortak yeterlikler kazandırılır, 10. sınıf sonunda bölgesel ve sektörel ihtiyaçlar ile öğrencinin ilgi ve isteği doğrultusunda dal seçimi yapılır. 11. ve 12. sınıflarda veri tabanı tasarımı, kurulumu, sorgu dilleri, ağ ve veri güvenliği gibi konularda teorik ve uygulamalı eğitim verilir. Eğitim; okulda teorik/uygulamalı, işletme ve atölye ortamlarında ise uygulamalı olarak yürütülür. Lise mezunu olmayanlar için de ilgili konularda Halk Eğitim Merkezleri, İŞKUR ve özel kurumların açtığı yoğunlaştırılmış kurslar bulunmaktadır.",
+  "belge": "Mesleki ve teknik ortaöğretim kurumlarından mezun olanlara meslek lisesi diploması verilir. Kurslar sonunda ise katılım/başarı belgesi verilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, işe alımda tercih sebebi olabilir."
+ },
+ "ek_bilgiler": "Bu meslekte çalışanların kişisel verilerin korunmasına ilişkin mevzuata (örneğin Kişisel Verilerin Korunması Kanunu) ve veri güvenliği standartlarına uygun çalışması önemlidir. Alandaki teknolojiler (veri tabanı yönetim sistemleri, bulut platformları) hızla değiştiğinden mesleki gelişimi sürekli takip etmek istihdam açısından avantaj sağlar.",
+ "genel_ozellikler": [
+  "Mantıksal ve sistemli düşünebilen,",
+  "Matematik ve sayısal konularda başarılı,",
+  "Dikkatli ve titiz,",
+  "Analitik düşünme yeteneğine sahip,",
+  "Sabırlı ve problem çözme becerisine sahip,",
+  "Yeni teknolojileri takip edebilen ve kendini geliştirebilen,",
+  "Ekip çalışmasına uyumlu,",
+  "Gizlilik ilkesine bağlı kalabilen"
+ ],
+ "gorevler": [
+  "Veri modellemesi yapar.",
+  "Veri tabanı tasarımı oluşturur.",
+  "Veri tabanını oluşturur.",
+  "Veri tabanının bağlantı ve yapılandırmalarını gerçekleştirir.",
+  "Veri tabanının güvenliğini sağlar.",
+  "Veri tabanının bakım ve kontrolünü yapar.",
+  "Veri tabanı performansını izler ve iyileştirir.",
+  "Veri tabanı yedekleme işlemlerini yapar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Meslek liselerinin Bilişim Teknolojileri alanından mezun olanlar, alanın devamı niteliğindeki yükseköğretim (ön lisans/lisans) programlarını tercih ettiklerinde ilgili sınav kılavuzlarında belirtilen koşullarda avantaj sağlayabilirler. Ayrıca yükseköğretime giriş sınavlarında başarılı olanlar bilgisayar programcılığı, bilişim sistemleri mühendisliği gibi ilgili bölümlere yerleşebilirler.",
+  "is_hayatinda": "Deneyim ve bilgi birikimi arttıkça veri tabanı yöneticisi (DBA), sistem yöneticisi, yazılım geliştirme uzmanı veya bilgi işlem sorumlusu gibi pozisyonlara geçiş yapabilirler. Alanda uzmanlaşarak proje yöneticiliği veya bilgi işlem birim amirliği gibi görevlere ilerleyebilirler."
+ },
+ "kazanc": {
+  "egitim_suresince": "Mesleki ve teknik ortaöğretim kurumlarında işletmelerde mesleki eğitim gören öğrencilere, 3308 sayılı Mesleki Eğitim Kanunu gereğince asgari ücretin net tutarının belirli bir oranından az olmamak üzere ücret ödenir. Kurs yoluyla eğitim alanlar için ise genellikle ücret söz konusu değildir.",
+  "egitim_sonrasi": [
+   "İşe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç elde eder.",
+   "Deneyim, bilgi düzeyi, çalıştığı sektör ve işletmenin büyüklüğüne göre kazanç artabilir.",
+   "Kamuda istihdam edilenlerin ücreti 657 sayılı Devlet Memurları Kanunu veya ilgili statüye göre; özel sektörde ise işveren ile yapılan anlaşmaya göre belirlenir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T15:02:14",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5426
+  }
+ }
+}

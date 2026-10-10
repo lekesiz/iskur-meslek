@@ -1,0 +1,82 @@
+{
+ "gorevler": [
+  "Müşterileri güler yüzle karşılar.",
+  "Müşterinin ihtiyacına uygun kıyafetleri beğenisine sunar.",
+  "Müşteriyi ürün hakkında bilgilendirir.",
+  "Beğendiği kıyafetleri denemesine yardımcı olur.",
+  "Satış belgelerini düzenler.",
+  "Kasa noktası yoksa ödemeleri tahsil eder.",
+  "Ürünleri paketler, müşteriye teslim eder.",
+  "Ürünleri askılara asar.",
+  "Fiyat etiketlerini değiştirir, yeniler.",
+  "Vitrin ve reyon düzenlemesi yapar.",
+  "Eksilen, biten ürünleri patronuna/yöneticisine bildirir.",
+  "Müşterilerin şikâyet ve memnuniyetlerini patronuna/yöneticisine bildirir.",
+  "Çalışma alanının temizlik ve düzenini sağlar.",
+  "Mesleğiyle ilgili gelişmeleri takip eder ve uygular.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "arac_gerec": [
+  "Hamile giyim ürünleri (elbise, pantolon, iç giyim, destek kıyafetleri vb.)",
+  "Hamile aksesuarları (karın bandı, hamile korseleri vb.)",
+  "Askılar ve vitrin teşhir ekipmanları",
+  "Fiyat etiketleri ve etiketleme tabancası",
+  "Yazar kasa / POS cihazı",
+  "Satış fişi, fatura, sevk irsaliyesi",
+  "Hesap makinesi",
+  "Paketleme malzemeleri (poşet, kutu, ambalaj kağıdı)",
+  "Deneme kabini aynaları ve ekipmanları",
+  "Stok takip ve barkod okuma sistemleri"
+ ],
+ "genel_ozellikler": [
+  "İnsanlarla iyi ilişkiler kurabilen ve güler yüzlü,",
+  "İkna kabiliyeti olan,",
+  "Düzgün ve anlaşılır konuşabilen,",
+  "Hamile müşterilerin ihtiyaç ve hassasiyetlerine karşı anlayışlı ve sabırlı,",
+  "Güncel giyim trendlerini takip edebilen,",
+  "Dikkatli ve düzenli çalışabilen,",
+  "Sorumluluk sahibi ve dürüst,",
+  "Ekip çalışmasına yatkın"
+ ],
+ "calisma_ortami": "Hamile giyim satış elemanı, genellikle mağaza, butik veya büyük giyim marketlerinin hamile giyim reyonlarında, kapalı ortamda görev yapar. Çalışma ortamı genellikle temiz, aydınlık ve düzenlidir; ancak iş yoğun saatlerde uzun süre ayakta kalmayı ve sürekli hareket halinde olmayı gerektirebilir, bu nedenle bel ve bacak yorgunluğu görülebilir.\n\nÇalışma saatleri mağazanın çalışma düzenine göre değişir; hafta sonları, resmî tatillerde ve indirim dönemlerinde yoğunluk artabilir. Meslek mensubu birinci derecede müşterilerle, ayrıca işyeri sahibi/yöneticisi, diğer satış elemanları ve tedarikçilerle iletişim kurar. Hamile müşterilerle çalışmak, onların özel ihtiyaç ve duygu durumlarına karşı duyarlı ve nazik bir yaklaşım gerektirir.",
+ "egitim": {
+  "verildigi_yerler": "Meslek, ilköğretim düzeyinde bir giriş eğitimi gerektirdiğinden, resmî olarak tanımlanmış ayrı bir meslek lisesi alanı/dalı bulunmamaktadır. Kişiler bu mesleğe genellikle işbaşında usta yanında yetişerek veya mesleki eğitim merkezlerinin ve Halk Eğitim Merkezleri ile İŞKUR'un açtığı genel satış ve müşteri ilişkileri kurslarına katılarak girebilirler. Pazarlama ve perakende satış alanındaki mesleki ve teknik eğitim programları da bu mesleğe temel oluşturabilir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "Mesleğin gerektirdiği işleri yapmaya uygun bünye ve sağlık durumuna sahip olmak",
+   "Giyim, moda ve satış konularına ilgi duymak"
+  ],
+  "sure_ve_icerik": "Mesleğe özgü belirli ve zorunlu bir eğitim süresi bulunmamaktadır. Kişiler genellikle işe başladıktan sonra işyerinde usta/yönetici gözetiminde, ürün bilgisi, müşteri ilişkileri, satış teknikleri, kasa ve stok işlemleri konularında uygulamalı olarak yetişirler. Bunun yanı sıra kısa süreli satış elemanlığı, müşteri ilişkileri ve iletişim kurslarına katılmak faydalı olabilir.",
+  "belge": "Mesleğe giriş için zorunlu bir diploma veya sertifika bulunmamaktadır. Katılınan kurslar sonunda kurs bitirme belgesi/sertifika verilebilir. Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Hamile giyim satış elemanları; hamile giyim satan özel mağaza ve butiklerde, hazır giyim mağazalarının hamile giyim reyonlarında, büyük alışveriş merkezlerinde ve e-ticaret işletmelerinin satış/müşteri hizmetleri bölümlerinde iş bulabilirler. Doğum oranları, kadınların çalışma hayatına katılımı ve hamile giyim pazarının genişlemesi bu alandaki istihdam olanaklarını etkilemektedir. Deneyim ve sermaye sahibi olanlar kendi hamile giyim mağazalarını açabilirler.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğe özgü zorunlu bir eğitim programı bulunmadığından, eğitim süresince kazanç genellikle söz konusu değildir. Ancak işbaşında eğitim alanlar, çalıştıkları işyerinden ücret alabilirler; staj veya kurs döneminde ise katılınan kurumun uygulamasına göre değişebilir.",
+  "egitim_sonrasi": [
+   "İşe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç elde eder.",
+   "Özel sektörde ücret, deneyim, işletmenin büyüklüğü, satış performansı ve karşılıklı anlaşmaya göre değişiklik gösterebilir.",
+   "Bazı işyerlerinde satış primi veya ikramiye uygulamaları ek kazanç sağlayabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğe özgü tanımlı ve kademeli bir mesleki eğitim ilerleme sistemi bulunmamaktadır. Kişiler, pazarlama ve perakende satış alanında mesleki eğitim programlarına veya açık öğretim yoluyla örgün eğitime devam ederek bilgi ve belge düzeylerini artırabilirler.",
+  "is_hayatinda": "Deneyim kazandıkça reyon/mağaza sorumlusu, satış danışmanı veya mağaza müdürü gibi görevlere yükselebilirler. Yeterli bilgi, deneyim ve sermayeye sahip olanlar kendi hamile giyim mağazalarını açarak işletmeci olabilirler."
+ },
+ "benzer_meslekler": [
+  "Çocuk Kıyafetleri Satış Elemanı",
+  "Giyim ve Giyim Aksesuarları Satış Elemanı",
+  "İç Giyim Satış Elemanı",
+  "Gelinlik Satıcısı",
+  "Perakende Satış Elemanı (Gıda)",
+  "Reyon Görevlisi"
+ ],
+ "ek_bilgiler": "Hamile giyim satışı, genel giyim satışından farklı olarak hamile müşterilerin fiziksel ve duygusal ihtiyaçlarına uygun, konforlu ve doğru beden/kesim ürünleri önerebilme becerisi gerektirir. Bu nedenle meslek mensuplarının hamilelik dönemine özgü kıyafet özellikleri (esneklik, beden değişimine uygunluk vb.) konusunda bilgi sahibi olması işe yarar bir avantajdır.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T19:07:26",
+  "usage": {
+   "input_tokens": 4,
+   "output_tokens": 6581
+  }
+ }
+}

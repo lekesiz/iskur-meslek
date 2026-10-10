@@ -1,0 +1,73 @@
+{
+ "arac_gerec": [
+  "Çok ekranlı bilgisayar ve izleme (SCADA/otomasyon) sistemleri",
+  "Konveyör bant ve nakil hattı kontrol panosu",
+  "Gaz sensörü izleme ve alarm panelleri",
+  "Havalandırma kontrol ve izleme sistemleri",
+  "Yeraltı telefonu ve telsiz haberleşme sistemleri",
+  "Kapalı devre kamera (CCTV) izleme sistemleri",
+  "Acil durum uyarı ve anons sistemleri",
+  "Vardiya rapor formları ve sistem kayıt defterleri",
+  "Yazıcı ve ofis donanımları",
+  "Kişisel koruyucu donanım"
+ ],
+ "benzer_meslekler": [
+  "Bant Kontrol Merkezi Operatörü (Kömür Madeni)",
+  "Yer Operatörü",
+  "Aspiratör Operatörü",
+  "Otomatik Maden Makinesi Operatörü",
+  "Mekanize Kazı Operatörü"
+ ],
+ "calisma_alanlari": "Kumanda Merkezi Operatörü (Kömür Madeni), kömür madeni işletmelerinin yer altı ocaklarına bağlı kumanda/kontrol merkezlerinde çalışır. Hem kamuya bağlı maden işletmelerinde hem de özel sektöre ait kömür madenciliği şirketlerinde istihdam edilme olanağı bulunmaktadır. İşletmenin büyüklüğüne ve otomasyon düzeyine göre çalışan sayısı ve kumanda merkezi sayısı değişebilir.",
+ "calisma_ortami": "Kumanda Merkezi Operatörü, genellikle yer üstünde veya ocak ağzına yakın kapalı bir kontrol odasında, çok ekranlı bilgisayar sistemleri karşısında oturarak çalışır. Çalışma ortamı büro ortamına benzese de sorumluluk düzeyi yüksektir; çünkü yer altında çalışan işçilerin güvenliği, havalandırma, gaz ölçümleri ve nakliyat sistemlerinin anlık takibine bağlıdır. Sürekli ekran izleme, dikkat ve odaklanma gerektiren bu görev, uzun süre oturarak çalışmayı ve yoğun bilgi akışını takip etmeyi içerir.\n\nMaden işletmelerinin özelliğine göre genellikle vardiyalı (gece-gündüz dönüşümlü) olarak çalışılır. Operatör; yer altı ekipleri, vardiya amirleri, bakım-onarım personeli, işçi sağlığı ve iş güvenliği uzmanları ile sürekli telsiz veya telefon üzerinden iletişim halindedir. Acil durumlarda (gaz kaçağı, arıza, kaza vb.) hızlı ve doğru karar vererek ilgili ekipleri yönlendirmesi gerektiğinden stres yönetimi önemli bir unsurdur.",
+ "egitim": {
+  "verildigi_yerler": "Bu meslek için Türkiye'de özel olarak tanımlanmış, standart bir örgün mesleki eğitim programı bulunmamaktadır. Mesleğe genellikle maden işletmelerinde deneyimli personelin gözetiminde işbaşında eğitim yoluyla girilir. Halk Eğitim Merkezleri ve İŞKUR tarafından açılan madencilik ve iş sağlığı güvenliği (İSG) alanındaki mesleki eğitim kursları, bu mesleğe hazırlıkta destekleyici nitelik taşımaktadır.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "Maden işlerinde çalışmaya uygun olduğunu gösteren sağlık raporuna sahip olmak",
+   "Okuma yazma ve temel bilgisayar kullanım becerisine sahip olmak",
+   "Dikkat ve algı düzeyinin görev için yeterli olması"
+  ],
+  "sure_ve_icerik": "Standart ve resmi olarak belirlenmiş bir eğitim süresi ile müfredat bulunmamaktadır. Genellikle işletme bünyesinde deneyimli bir operatör yanında, maden ocağının otomasyon, haberleşme, havalandırma ve güvenlik sistemlerinin tanıtıldığı işbaşı eğitimi uygulanır. Bu sürece ek olarak iş sağlığı ve güvenliği konularında zorunlu eğitimler alınır ve kullanılan yazılım/donanıma yönelik kısa süreli bilgilendirme eğitimleri verilebilir.",
+  "belge": "İşveren tarafından düzenlenen işbaşı eğitim/kurs katılım belgesi ile iş sağlığı ve güvenliği eğitimi tamamlama belgesi verilmektedir."
+ },
+ "ek_bilgiler": "Kömür madenciliği faaliyetleri genel olarak tehlikeli ve çok tehlikeli işler kapsamında değerlendirildiğinden, bu alanda çalışacakların iş sağlığı ve güvenliği eğitimlerini tamamlamaları ve ilgili sağlık raporuna sahip olmaları önemlidir. Mesleki Yeterlilik Kurumu (MYK) belgesine sahip olmak, istihdamda tercih sebebi olabilir. Maden sektöründeki otomasyon ve dijitalleşme eğilimleri nedeniyle bu mesleğe olan talebin gelecekte artması beklenmektedir.",
+ "genel_ozellikler": [
+  "Dikkatli ve uzun süre odaklanabilen",
+  "Sorumluluk sahibi ve güvenilir",
+  "Hızlı ve doğru karar verebilen",
+  "Stres altında soğukkanlı kalabilen",
+  "İletişim becerisi gelişmiş",
+  "Ekip çalışmasına yatkın",
+  "Teknolojik sistemleri takip edebilen ve öğrenmeye açık",
+  "Kurallara uyan"
+ ],
+ "gorevler": [
+  "Bilgisayar ekranlarından maden içi sistemleri sürekli takip eder.",
+  "Konveyör bant ve nakil hatlarını sevk ve idare eder.",
+  "Gaz sensörleri ve havalandırma verilerini denetler.",
+  "Acil durumlarda ilgili ekipleri yönlendirir.",
+  "Vardiya raporlarını hazırlar ve sistem kayıtlarını tutar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Bu meslek için kademeli, resmi bir mesleki eğitim sistemi bulunmamaktadır. İlgi duyan kişiler, maden mühendisliği, maden teknolojisi veya otomasyon/elektrik-elektronik alanlarındaki ön lisans ve lisans programlarına yönelerek bilgi ve becerilerini ileri düzeye taşıyabilirler.",
+  "is_hayatinda": "Deneyim, bilgi birikimi ve işletme içindeki performansa bağlı olarak vardiya amirliği, kumanda merkezi sorumluluğu veya saha nezaretçiliği gibi görevlere yükselme olanağı bulunmaktadır. Ayrıca ilgili teknik eğitimleri tamamlayanlar, maden mühendisi veya teknik personel gözetiminde daha üst düzey idari ve teknik pozisyonlara geçebilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Eğitim genellikle işletme bünyesinde çalışan statüsünde işbaşında verildiğinden, bu süre boyunca ücret alınması söz konusu olabilir; bu durum işletmeden işletmeye farklılık gösterebilir.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde veya buna yakın bir ücretle çalışmaya başlar.",
+   "Deneyim, işletmenin büyüklüğü ve çalışılan kurumun kamu veya özel sektöre ait olmasına göre kazanç düzeyi değişebilir.",
+   "Kamu kurumlarında işçi statüsünde çalışanların ücreti ilgili toplu iş sözleşmesi hükümlerine göre belirlenir; özel sektörde ise işveren ile çalışan arasındaki anlaşmaya bağlıdır."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T10:06:58",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6141
+  }
+ }
+}

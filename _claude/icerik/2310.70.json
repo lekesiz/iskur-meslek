@@ -1,0 +1,87 @@
+{
+ "arac_gerec": [
+  "Hücre kültürü ekipmanları ve biyogüvenlik/laminar flow kabinleri",
+  "Biyoreaktörler ve fermantasyon sistemleri",
+  "PCR cihazı ve moleküler biyoloji analiz ekipmanları",
+  "HPLC, spektrofotometre ve kromatografi cihazları",
+  "Elektroforez sistemleri ve protein analiz ekipmanları",
+  "Santrifüj, otoklav ve sterilizasyon cihazları",
+  "Laboratuvar sarf malzemeleri ve kimyasal reaktifler",
+  "Kişisel koruyucu donanım (eldiven, gözlük, önlük, maske)",
+  "Bilgisayar, istatistik ve biyoinformatik analiz yazılımları",
+  "Bilimsel literatür ve veritabanı erişim araçları",
+  "Ders anlatım ve sunum araçları (projeksiyon, bilgisayar)",
+  "Laboratuvar defteri, araştırma ve proje raporları"
+ ],
+ "genel_ozellikler": [
+  "Fen bilimlerine, özellikle biyoloji, kimya ve farmasötik bilimlere ilgili,",
+  "Analitik düşünme ve bilimsel araştırma yeteneğine sahip,",
+  "Ayrıntılara dikkat eden, titiz ve sabırlı,",
+  "Sözlü ve yazılı anlatım becerisi gelişmiş,",
+  "En az bir yabancı dili iyi derecede kullanabilen,",
+  "Ekip çalışmasına uyumlu, iletişim kurma becerisine sahip,",
+  "Yeniliklere açık, kendini sürekli güncelleyen,",
+  "Sorumluluk sahibi, çalışkan kişiler olmaları gerekir."
+ ],
+ "calisma_ortami": "Farmasötik Biyoteknoloji Öğretim Üyesi, üniversitelerin eczacılık fakülteleri ile sağlık bilimleri veya biyomedikal bilimler enstitülerine bağlı laboratuvar, araştırma merkezi, derslik ve ofis ortamlarında çalışır. Laboratuvar çalışmaları sırasında biyolojik ve kimyasal maddelerle temas söz konusu olduğundan iş güvenliği ve biyogüvenlik kurallarına uyulması önemlidir.\n\nÇalışma saatleri ders programı, araştırma projeleri, tez danışmanlıkları ve bilimsel toplantılara göre değişiklik gösterir; genellikle hafta içi gündüz saatlerinde çalışılmakla birlikte proje teslim dönemlerinde ve uluslararası işbirliklerinde yoğun ve esnek çalışma gerekebilir. Görevi sırasında lisans ve lisansüstü öğrencileri, akademik personel, üniversite yönetimi, kamu ve özel sektör araştırma kurumları ile ilaç/biyoteknoloji şirketleri temsilcileriyle iletişim kurar; bilimsel toplantılar nedeniyle yurt içi ve yurt dışı seyahat edebilir.",
+ "gorevler": [
+  "Farmasötik biyoteknoloji alanına giren peptit-protein yapıdaki tıbbi ürünleri, aşıları, ileri teknolojilere sahip gen ve hücre kökenli ilaçları, bileşiminde biyoteknolojik işlem ve süreçleri içeren nanobiyoteknoloji ve nanotıp ürünlerini üretir.",
+  "Bu ürünlerin konvansiyonel ve taşıyıcı sistemlerle formülasyon tasarımı ve geliştirilmesi alanlarında çalışır.",
+  "Ürünlerin biyoteknolojik yöntem ve araçları kullanarak analizlerini yapar, kalite güvencelerinin sağlanması için gerekli çalışmaları yürütür.",
+  "Ürünlerin tedavide etkin ve güvenli şekilde uygulanması aşamalarındaki yasal düzenlemeler konularında çalışır.",
+  "Bilimsel yöntem oluşturur, geliştirir ve uygular.",
+  "Yükseköğretim kurumlarında alanı ile ilgili bilimsel araştırma ve projeler üretir ve yapar.",
+  "Araştırma sonuçlarını ilgili ulusal ve uluslararası bilimsel toplantı ve kongrelerde sunar ya da bilimsel dergilerde veya elektronik formatlarda yayınlar.",
+  "Araştırma ya da projelerin uygulamaya dönük sonuçlarını ilgili kurum ve kuruluşlarla paylaşır.",
+  "Yükseköğretim kurumlarında eğitim, öğretim ve uygulama çalışmaları yapar ve yaptırır; müfredat programlarını geliştirir, yeniler ve uygular.",
+  "Ders yılı içerisinde ve bitiminde öğrencilerin bilgi düzeyinin ölçülmesi için ödevler hazırlatır, sınavlar yapar, sınav kağıtlarını okuyup değerlendirir, sonuçlarını idareye bildirir.",
+  "Lisansüstü öğrencilerine tez konularını verir ya da tez konularının seçiminde öğrencilere yardımcı olur ve çalışmalarını izler.",
+  "İlgili birim başkanlığınca düzenlenecek programa göre belirli günlerde öğrencileri kabul ederek gerekli konularda yardımcı olur, ilgili mevzuatın amaç ve ana ilkeleri doğrultusunda yol gösterir ve rehberlik eder.",
+  "Kamu ve özel sektörde bilimsel danışmanlık yapar, alanı ile ilgili konularda bilirkişilik yapar.",
+  "Çeşitli bilimsel yayınlarda hakemlik yapar, yurt içinde ve yurt dışında konferanslar verir.",
+  "Gerektiğinde idari sorumluluk yüklenir.",
+  "Konusundaki gelişme ve yenilikleri izleyip araştırmalar yapar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Bu mesleğe yönelik eğitim, üniversitelerin eczacılık fakültelerine bağlı sağlık bilimleri veya biyomedikal bilimler enstitülerinin \"Farmasötik Biyoteknoloji\" anabilim dalında yürütülen lisansüstü (yüksek lisans ve doktora) programlarında verilmektedir.",
+  "giris_kosullari": [
+   "Genellikle eczacılık fakültesi lisans mezunu olmak (ilgili temel bilimler mezunlarının başvurusu da bazı programlarda mümkün olabilir)",
+   "İlgili yükseköğretim kurumunun akademik personel ve lisansüstü eğitim giriş sınavlarında (ALES vb.) başarılı olmak",
+   "Yabancı dil yeterliliğini (YDS, YÖKDİL veya eşdeğeri) sağlamak",
+   "Yüksek lisans ve doktora eğitimini tamamlamış olmak, akademik kadroya atanmak için ilgili mevzuatta belirtilen bilimsel yayın ve dil yeterliliği şartlarını karşılamak"
+  ],
+  "sure_ve_icerik": "Eczacılık fakültesi lisans eğitimi genellikle 5 yıl sürer. Bu eğitimin ardından farmasötik biyoteknoloji alanında yüksek lisans (yaklaşık 2 yıl) ve doktora (yaklaşık 4 yıl ve üzeri) eğitimi tamamlanır. Doktora eğitimi süresince biyoteknolojik tıbbi ürünlerin, aşıların, gen ve hücre temelli ilaçların, nanobiyoteknoloji ve nanotıp ürünlerinin geliştirilmesi, üretimi, analizi ve kalite kontrolüne ilişkin teorik dersler ile laboratuvar çalışmaları ve özgün bir tez araştırması yürütülür. Doktora sonrasında akademik kadroya atanabilmek için bilimsel yayın ve araştırma şartlarının yerine getirilmesi gerekir; ardından doçentlik ve profesörlük unvanlarının kazanılması süreci devam eder.",
+  "belge": "Eğitimini başarı ile tamamlayanlara doktora diploması verilir. Akademik kariyer sürecinde ayrıca doçentlik ve profesörlük unvanları kazanılabilir."
+ },
+ "calisma_alanlari": "Farmasötik Biyoteknoloji Öğretim Üyelerinin başlıca çalışma alanı, eczacılık fakültesi bulunan devlet ve vakıf üniversiteleridir; bu kurumlarda fakülte bünyesinde veya sağlık bilimleri/biyomedikal bilimler enstitülerinde görev alırlar. Bunun yanında kamu ve özel araştırma merkezlerinde, ilaç ve biyoteknoloji şirketlerinin ar-ge birimlerinde, TÜBİTAK gibi kamu araştırma kurumlarında bilimsel danışman, proje yürütücüsü veya araştırmacı olarak çalışabilirler.\n\nİstihdam olanağı büyük ölçüde üniversitelerde açılan öğretim üyesi kadro ilanlarına, adayın akademik unvanına, bilimsel yayın ve proje performansına bağlıdır. Farmasötik biyoteknoloji alanının gelişmekte olan ve nispeten yeni bir disiplin olması nedeniyle, bu alanda uzmanlaşmış kadrolar sınırlı sayıda üniversitede bulunmaktadır.",
+ "kazanc": {
+  "egitim_suresince": "Yüksek lisans ve doktora eğitimi sırasında öğrenciler, üniversitelerin bilimsel araştırma projelerinde burslu araştırma görevlisi olarak çalışabilir ya da TÜBİTAK gibi kurumların doktora burslarından yararlanabilirler. Ayrıca Yükseköğrenim Kredi ve Yurtlar Kurumu'nun kredi ve yurt imkânlarından ve çeşitli kurum/kuruluşların burslarından yararlanılabilir.",
+  "egitim_sonrasi": [
+   "Kamu üniversitelerinde çalışanlar 657 sayılı Devlet Memurları Kanunu'na bağlı olarak öğretim üyesi kadrosunun unvanı ve derecesine göre maaş ve ek ödeme alır.",
+   "Vakıf üniversitelerinde çalışanların kazancı üniversite ile yapılan sözleşmeye, akademik unvana ve deneyime göre değişir.",
+   "Bilimsel proje yürütücülüğü, danışmanlık ve sektörle yapılan ar-ge çalışmalarından ek gelir sağlanabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Doktora eğitimini tamamlayanlar, bilimsel yayın, atıf ve proje şartlarını yerine getirerek önce doçentlik, ardından profesörlük unvanını kazanabilirler. Yurt içinde veya yurt dışında doktora sonrası (post-doc) araştırma deneyimi edinerek alanında daha fazla uzmanlaşabilirler.",
+  "is_hayatinda": "Akademik kariyerde ilerleyenler anabilim dalı başkanlığı, bölüm başkanlığı, enstitü veya fakülte yöneticiliği, dekanlık ve rektör yardımcılığı gibi idari görevlere getirilebilir. Ayrıca ulusal ve uluslararası bilimsel kurul üyelikleri, proje koordinatörlüğü üstlenebilir ve sektörle ortak yürütülen ar-ge çalışmalarında danışmanlık veya liderlik rolleri alabilirler."
+ },
+ "benzer_meslekler": [
+  "Biyoteknoloji Öğretim Üyesi",
+  "Eczacılık Temel Bilimleri Öğretim Üyesi",
+  "Eczacılık İşletmeciliği Öğretim Üyesi",
+  "Biyokimya Öğretim Üyesi",
+  "Analitik Kimya Öğretim Üyesi",
+  "Besin Analizleri Öğretim Üyesi"
+ ],
+ "ek_bilgiler": "Farmasötik biyoteknoloji, biyoteknolojik ilaç, aşı ve gen/hücre temelli tedavi ürünlerinin geliştirilmesine olan ihtiyacın artmasıyla önem kazanan, nispeten yeni ve gelişmekte olan bir bilim dalıdır. Bu alanda öğretim üyesi kadroları sınırlı sayıda olup genellikle eczacılık fakültesi bulunan üniversitelerle sınırlıdır; bu nedenle akademik kariyer, yoğun bilimsel yayın ve proje üretimini gerektirir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T00:42:36",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 8920
+  }
+ }
+}

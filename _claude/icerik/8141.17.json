@@ -1,0 +1,76 @@
+{
+ "arac_gerec": [
+  "Vulkanizasyon fırını (otoklav)",
+  "Buhar kazanı ve buhar besleme hattı",
+  "Hidrolik şahmerdan",
+  "Kauçuk kaplama kalıpları",
+  "Basınç göstergesi (manometre)",
+  "Isı göstergesi (termometre)",
+  "Zaman ayarlı saat (timer/kronometre)",
+  "Soğutma suyu valfleri",
+  "Kontrol paneli ve göstergeler",
+  "Vana ve bağlantı elemanları",
+  "Kaldırma ve taşıma ekipmanları (vinç, forklift, el arabası)",
+  "Kişisel koruyucu donanım (ısıya dayanıklı eldiven, gözlük, önlük, maske)"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve tedbirli,",
+  "Sorumluluk sahibi,",
+  "Fiziksel olarak güçlü ve dayanıklı,",
+  "Yüksek ısı ve buharlı ortamda çalışabilecek sağlık durumuna sahip,",
+  "Makine ve ekipman kullanımına yatkın,",
+  "Talimatlara ve iş güvenliği kurallarına titizlikle uyan,",
+  "Takım halinde çalışmaya uyumlu"
+ ],
+ "calisma_ortami": "Vulkanizasyon İşçileri (Sıcak İşlem) genellikle lastik ve kauçuk ürünleri üreten fabrikaların üretim atölyelerinde, kapalı mekanlarda çalışır. Çalışma ortamı yüksek ısı, buhar, nem ve belirli bir gürültü düzeyi ile karakterize edilir; kauçuk ve lastik malzemelere özgü kokular da ortamda bulunabilir. Basınçlı buhar ve sıcak yüzeylerle çalışma nedeniyle yanık, buhar kaçağı ve sıcak çarpması gibi riskler söz konusu olabileceğinden iş sağlığı ve güvenliği tedbirlerine özenle uyulması gerekir.\n\nÇalışma genellikle fabrikanın üretim temposuna bağlı olarak gündüz veya vardiyalı düzende yürütülür. Meslek mensupları çalışma sırasında diğer üretim işçileri, ustabaşı, vardiya amiri ve kalite kontrol personeli ile sürekli iletişim halindedir.",
+ "egitim": {
+  "verildigi_yerler": "Bu mesleğe yönelik örgün bir mesleki ve teknik eğitim programı (meslek lisesi alanı/dalı veya çıraklık eğitim programı) bulunmamaktadır. Meslek genellikle işyerinde deneyimli bir usta gözetiminde işbaşında öğrenilir. Halk Eğitim Merkezleri ve İŞKUR tarafından açılan kısa süreli mesleki eğitim kursları da meslek edinimine destek sağlayabilir; kauçuk/lastik teknolojisine ilişkin mesleki ve teknik eğitim programları ise mesleğe temel oluşturabilir.",
+  "giris_kosullari": [
+   "İlköğretim mezunu olmak (meslek için belirtilen minimum eğitim düzeyi)",
+   "Okuma yazma bilmek ve temel düzeyde sayısal işlem yapabilmek",
+   "Fiziksel olarak sağlıklı olmak; yüksek ısı ve buharlı ortamda çalışmaya uygun sağlık durumuna sahip olmak",
+   "İşe alınacağı işyerinin belirlediği yaş ve sağlık şartlarını taşımak"
+  ],
+  "sure_ve_icerik": "Standart bir eğitim süresi bulunmamaktadır. İşe yeni başlayan kişi, işyerinde deneyimli bir usta nezaretinde fırının güvenli şekilde çalıştırılması, buhar basıncı ve ısı derecesinin kontrolü, kalıpların fırına yerleştirilip çıkarılması, soğutma suyu valflerinin işletilmesi gibi uygulamaları gözlem ve pratik yoluyla öğrenir. Bu süreç işyerine ve kişinin öğrenme hızına göre değişmekle birlikte genellikle birkaç haftadan birkaç aya kadar sürebilir. Halk Eğitim Merkezleri ve İŞKUR kurslarında ise temel iş güvenliği ve lastik/kauçuk üretim süreçlerine ilişkin bilgiler kısa süreli eğitimlerle verilebilir.",
+  "belge": "Mesleğe özgü, örgün eğitim sonunda verilen resmî bir diploma veya ustalık belgesi bulunmamaktadır. İşbaşında yetişenlere işyeri tarafından çalışma/deneyim belgesi düzenlenebilir. Katılınan kurslar sonunda kurs katılım belgesi verilir. İlgili alanda bir Mesleki Yeterlilik Kurumu (MYK) ulusal yeterliliği bulunması halinde alınacak MYK Mesleki Yeterlilik Belgesi istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Vulkanizasyon İşçileri (Sıcak İşlem) başta otomotiv lastiği üretimi yapan fabrikalar olmak üzere, sanayi tipi kauçuk ürünleri (conta, hortum, kayış, kauçuk levha vb.) üreten işletmelerde istihdam edilir. Ayrıca araç lastiklerinin kaplanması (recap/kaplama) işlemini yapan atölyeler de bu meslek mensuplarına ihtiyaç duyar. Lastik ve kauçuk sanayisinin üretim hacmine bağlı olarak meslek mensuplarına belirli bir istihdam talebi bulunmakla birlikte, üretim süreçlerindeki otomasyon ve teknolojik gelişmeler bazı işletmelerde insan gücü ihtiyacını zaman içinde azaltabilmektedir.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğe özgü standart bir mesleki eğitim programı bulunmadığından, işbaşında yetişme sürecinde çalışan kişiye işyerinin belirlediği, genellikle asgari ücret düzeyinde bir ücret ödenir. Halk Eğitim Merkezi veya İŞKUR kurslarına katılım sürecinde ise genellikle ücret ödenmez.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanların kazancı genellikle asgari ücret düzeyindedir.",
+   "Deneyim, işyerinin büyüklüğü, vardiya düzeni ve çalışılan sektörün ücret politikasına göre kazanç artabilir.",
+   "Kamu kurumlarına bağlı işletmelerde işçi statüsünde çalışanların ücretleri ilgili toplu iş sözleşmesi hükümlerine göre belirlenir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Meslekte örgün bir eğitim kademesi veya diploma ilerlemesi bulunmamaktadır. Çalışanlar deneyim kazandıkça işyeri içi eğitimlerle, Halk Eğitim Merkezleri ve İŞKUR'un açtığı kurslarla bilgi ve becerilerini geliştirebilir.",
+  "is_hayatinda": "Deneyim kazanan vulkanizasyon işçileri ustabaşılığa, vardiya amirliğine veya üretim/kalite kontrol sorumluluğuna yükselebilir. Yeterli bilgi birikimi ve sermayeye sahip olanlar, uygun şartları sağladıkları takdirde kendi küçük ölçekli lastik kaplama veya vulkanizasyon atölyesini açabilir."
+ },
+ "benzer_meslekler": [
+  "Otoklav Kazanı Operatörü-Kauçuk",
+  "Kauçuk Kalıp Presi Operatörü",
+  "Dış Lastik Kalıpçısı",
+  "İç Lastik Kalıplama İşçisi",
+  "Lastik Kaplama İşçisi"
+ ],
+ "ek_bilgiler": "Bu meslekte yüksek ısı ve basınçlı buharla çalışma söz konusu olduğundan iş sağlığı ve güvenliği kurallarına eksiksiz uyulması büyük önem taşır. Çalışanların ısıya dayanıklı kişisel koruyucu donanım kullanması ve düzenli sağlık kontrolünden geçmesi önerilir.",
+ "gorevler": [
+  "Fırını muayene ederek kapak ve diğer bütün bağlantılarının yerli yerinde olmasını sağlar.",
+  "Fırın içindeki hidrolik şahmerdanı kauçuk kaplayan kalıplar üzerine bindirerek bunları sıkıca yerlerine tespit eder.",
+  "Vulkanize süresini tayin eden saati harekete geçirir, fırına verilen buhar miktarını ve ısı derecesini kontrol eder.",
+  "Göstergeleri gözleyerek en iyi vulkanizasyon şartlarının devamını sağlamak için gerekli ayarları yapar ve vulkanizasyon işlemi bitince kalıpları çıkarır.",
+  "Fırına kalıpları dolduran ve boşaltan işçilere nezaret eder.",
+  "Belirli aralıklarla kalıpların üzerinden geçen soğutma suyu valflerini işletir.",
+  "Vulkanize edilen eşyayı tipine göre ayırır.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T12:46:04",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 7346
+  }
+ }
+}

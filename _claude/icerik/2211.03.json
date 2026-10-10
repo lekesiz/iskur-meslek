@@ -1,0 +1,88 @@
+{
+ "arac_gerec": [
+  "Steteskop",
+  "Tansiyon aleti",
+  "Beden termometresi",
+  "Oftalmoskop (göz muayene aleti)",
+  "Otoskop (kulak muayene aleti)",
+  "Refleks çekici",
+  "Odyometre (işitme testi cihazı)",
+  "Spirometre (solunum fonksiyon testi cihazı)",
+  "Elektrokardiyografi (EKG) cihazı",
+  "İlkyardım ve acil müdahale malzemeleri",
+  "Kişisel koruyucu donanım (maske, eldiven, gözlük vb.)",
+  "Bilgisayar ve İSG-KATİP sistemi yazılımı",
+  "Laboratuvar numune alma malzemeleri",
+  "Muayene masası ve revir donanımı"
+ ],
+ "genel_ozellikler": [
+  "İnsan ilişkilerinde başarılı ve iletişime açık,",
+  "Sorumluluk sahibi, güvenilir ve gizliliğe önem veren,",
+  "Dikkatli ve titiz,",
+  "Analitik düşünebilen, gözlem ve karar verme yeteneği gelişmiş,",
+  "Hijyen kurallarına özen gösteren,",
+  "Meslek yaşamı boyunca kendini geliştirmeye istekli,",
+  "Takım çalışmasına uygun, işbirliğine açık,",
+  "Acil ve stresli durumlarda soğukkanlı kalabilen"
+ ],
+ "calisma_ortami": "İşyeri hekimleri, fabrika, atölye, inşaat şantiyesi, maden, ofis gibi farklı iş kollarındaki işyerlerinde; bu işyerleri bünyesindeki sağlık birimlerinde (revir) veya işyerine dışarıdan hizmet veren Ortak Sağlık ve Güvenlik Birimlerinde (OSGB) görev yaparlar. Çalışma ortamı, hizmet verilen işyerinin niteliğine göre büro/revir gibi kapalı, temiz ve düzenli bir ortam olabileceği gibi; işyeri gezileri ve risk değerlendirme çalışmaları sırasında saha, atölye veya şantiye gibi değişken koşulları içeren ortamlara da çıkılabilir.\n\nÇoğu işyeri hekimi, tek bir işverenle değil, birden fazla işyeriyle yaptığı sözleşmeler kapsamında kısmi zamanlı olarak çalışır; bu nedenle çalışma saatleri ve mekânları gün içinde değişebilir. Görevleri sırasında işveren ve yöneticiler, iş sağlığı ve güvenliği uzmanı, işyeri hemşiresi, çalışanlar ve iş sağlığı ve güvenliği kurulu üyeleriyle sürekli iletişim ve işbirliği içinde bulunurlar.",
+ "calisma_alanlari": "İşyeri hekimleri; 6331 sayılı İş Sağlığı ve Güvenliği Kanunu kapsamında belirli büyüklükteki özel ve kamu işyerlerinde, fabrikalarda, inşaat şantiyelerinde, madenlerde, hastanelerde ve ofis niteliğindeki işletmelerde çalışabilirler. Büyük ölçekli kuruluşlar bünyesinde kadrolu olarak istihdam edilebildikleri gibi, daha çok Ortak Sağlık ve Güvenlik Birimleri (OSGB) üzerinden farklı işyerlerine hizmet veren sözleşmeli hekim olarak da çalışabilirler. Kamu kurumlarında işyeri hekimliği görevi, bu kurumların kendi sağlık birimlerinde veya ilgili kadrolarda yürütülebilir.\n\nİş sağlığı ve güvenliği mevzuatının genişlemesi ve belirli sayıda çalışanı bulunan işyerlerinde işyeri hekimi bulundurma zorunluluğu, bu mesleğe olan talebi artırıcı bir etken olarak değerlendirilmektedir.",
+ "ek_bilgiler": "İşyeri hekimliği yapabilmek için tıp fakültesi diplomasının yanında, Çalışma ve Sosyal Güvenlik Bakanlığı tarafından düzenlenen eğitim ve sınav süreci sonunda verilen \"İşyeri Hekimliği Belgesi\"ne sahip olmak gerekir. Bu belgenin mevzuatta belirtilen sürelerde güncellenmesi (yenilenmesi) gerekebilir. Mesleki Yeterlilik Kurumu (MYK) belgesi gibi ek belgeler, bazı sektörlerde ve OSGB'lerde tercih sebebi olabilir.",
+ "gorevler": [
+  "Meslek hastalıkları, iş kazaları ve sık tekrarlanan işten uzaklaştırmalarda işe dönüş muayenesi yapar.",
+  "Kronik hastalığı bulunan çalışanları daha sık aralıklarla muayene eder, gerekli tetkikleri yaptırır, koruyucu önlemlerin alınması hususunda gerekli işlemleri yürütür.",
+  "Gerekli laboratuvar tetkikleri ve radyolojik muayeneleri yaptırır.",
+  "Bulaşıcı hastalıkların kontrolünü sağlar, yayılmasını önler ve aşılama çalışmaları yapar.",
+  "İşyerlerinde ilkyardım ve kurtarma çalışmalarını organize eder, ilgili personelin eğitimini sağlar ve acil tedavi hizmetlerini yürütür.",
+  "Engellilerin işe alınmaları ile işyerinde kaza ya da hastalık sonrasında geçici ya da kalıcı iş göremezliği olan çalışanların sağlık muayenelerini yapar, rapor hazırlar.",
+  "Kreş ve çocuk bakım yurdu emzirme odalarının sağlık koşullarını kontrol eder ve uygunluğunu sağlar.",
+  "Gebe ve emzikli kadınların işyerinde muhtemel sağlık tehlikelerine karşı sağlıklarını korur ve bu konuda eğitim verir.",
+  "İşyerinde kullanılan ve tüketilen maddeleri belirli aralıklarla inceler, gerekli önlemlerin alınmasını sağlar.",
+  "Meslek hastalığı veya şüphesi tanısı alan çalışanların izleme ve kontrollerini yapar, ilgili hastanelerle işbirliği içinde çalışır.",
+  "İşyerinde meslek hastalığı veya meslek hastalığı şüphesi tanısı alan çalışanların bulunduğu ortam ve çalışma koşulları ile ilgili incelemeler yapar.",
+  "İş kazası geçiren ya da meslek hastalığına tutulan çalışanların rehabilitasyonu konusunda ilgili birimlerle işbirliği içinde çalışır.",
+  "Eski hükümlü, malul ve engelli çalışanların işlerine uyum sağlamalarına yardımcı olur.",
+  "Herhangi bir hastalık ya da kaza geçiren, periyodik muayene sonrasında eski işinde çalışması sakıncalı bulunan çalışanın mevcut sağlık durumuna uygun işte çalışmasını sağlar.",
+  "İşyerinde sağlık gözetimi ile ilgili çalışmaları kaydeder, yıllık çalışma raporu hazırlar ve iş sağlığı ve güvenliği kuruluna sunar.",
+  "İşyeri yöneticilerine, iş sağlığı ve güvenliği kurul üyelerine, çalışanlara ve temsilcilerine genel sağlık konularında eğitimler verir.",
+  "İşyerinin genel hijyen koşullarını izler ve denetler.",
+  "Mesleği alanındaki gelişmeleri takip eder ve uygular.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Mesleğin temel eğitimi, üniversitelere bağlı tıp fakültelerinde verilir. Tıp fakültesinden mezun olduktan sonra, işyeri hekimi olarak çalışabilmek için Çalışma ve Sosyal Güvenlik Bakanlığı tarafından yetkilendirilen eğitim kurumları (üniversiteler, Bakanlıkça yetkilendirilmiş eğitim kuruluşları vb.) tarafından düzenlenen işyeri hekimliği eğitim programına katılmak gerekir.",
+  "sure_ve_icerik": "Tıp fakültesi eğitimi, teorik ve uygulamalı olarak 6 yıl sürer. İlk yıllarda fen bilimleri ve temel tıp dersleri, orta sınıflarda insan vücudunun anatomisi, fizyolojisi ve hastalıklarla ilgili dersler okutulur; son sınıflarda hastane içinde hasta başı eğitimleri (klinik stajlar) ve intörnlük uygulaması yapılır. Tıp fakültesini bitirip hekim unvanı alanlar, işyeri hekimliği yapabilmek için ayrıca belirli saatlik teorik ve uygulamalı içerikten oluşan işyeri hekimliği eğitim programına katılır ve Bakanlık tarafından yapılan sınavda başarılı olmaları gerekir.",
+  "belge": "Tıp fakültesi eğitimini başarı ile tamamlayanlara hekimlik lisans diploması verilir. İşyeri hekimi olarak çalışabilmek için ayrıca Çalışma ve Sosyal Güvenlik Bakanlığı tarafından verilen 'İşyeri Hekimliği Belgesi' alınması gerekir; bu belgenin mevzuatta öngörülen sürelerde yenilenmesi istenebilir.",
+  "giris_kosullari": [
+   "Tıp fakültesine girebilmek için lise veya dengi okul mezunu olmak",
+   "YKS (Yükseköğretim Kurumları Sınavı) kılavuzunda belirtilen giriş koşullarını taşımak",
+   "İşyeri hekimliği eğitimine katılabilmek için tıp fakültesinden mezun olmuş ve hekimlik diplomasına sahip olmak"
+  ]
+ },
+ "kazanc": {
+  "egitim_suresince": "Tıp fakültesi öğrencileri eğitimleri süresince Kredi ve Yurtlar Genel Müdürlüğünün sağladığı öğrenim kredisi ve yurt hizmetlerinden yararlanabilir; ayrıca çeşitli resmi ve özel kurum/kuruluşların sunduğu burslardan faydalanabilirler.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında işyeri hekimi olarak çalışanların kazançları, 657 sayılı Devlet Memurları Kanunu'na veya ilgili kurumun ücret düzenlemelerine göre belirlenir.",
+   "Özel sektörde OSGB bünyesinde veya işletmeyle doğrudan sözleşme yaparak çalışanların kazancı; deneyime, hizmet verilen işyeri sayısına ve işyerinin tehlike sınıfına göre karşılıklı anlaşma ile belirlenir.",
+   "Mesleğe yeni başlayan ve az sayıda işyerine hizmet veren hekimlerin kazancı genellikle sınırlı düzeyde olabilir; deneyim ve hizmet verilen işyeri sayısı arttıkça kazanç da artabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "İşyeri hekimliği belgesi alan bir hekim, isterse daha sonra tıpta uzmanlık eğitimi alarak farklı bir uzmanlık alanına yönelebilir veya iş sağlığı ve güvenliği alanında ileri düzey eğitimler, sertifika programları ya da akademik çalışmalar (yüksek lisans/doktora) yapabilir.",
+  "is_hayatinda": "Deneyim kazandıkça daha fazla işyeriyle sözleşme yaparak kazancını artırabilir; OSGB'lerde koordinatör hekimlik veya yöneticilik gibi görevlere gelebilir, isterse kendi OSGB'sini kurarak işveren konumuna geçebilir."
+ },
+ "benzer_meslekler": [
+  "Pratisyen Hekim (Tıp Doktoru)",
+  "Aile Hekimi",
+  "Halk Sağlığı Hekimi",
+  "Spor Hekimi"
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-07T22:09:34",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 8232
+  }
+ }
+}

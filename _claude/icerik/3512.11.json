@@ -1,0 +1,72 @@
+{
+ "arac_gerec": [
+  "Bilgisayar ve sunucular",
+  "Entegre geliştirme ortamları (IDE) (Visual Studio, IntelliJ IDEA, Eclipse vb.)",
+  "Programlama dilleri derleyici/yorumlayıcıları (Java, C#, Python, PHP, JavaScript vb.)",
+  "Veri tabanı yönetim sistemleri (MySQL, SQL Server, Oracle vb.)",
+  "Versiyon kontrol sistemleri (Git vb.)",
+  "Hata ayıklama (debug) ve test araçları",
+  "İşletim sistemleri",
+  "Ağ ve sunucu donanımları",
+  "Proje yönetimi ve dokümantasyon yazılımları",
+  "Yedekleme üniteleri (harici disk, bulut depolama vb.)"
+ ],
+ "benzer_meslekler": [
+  "Bilgisayar Teknolojisi ve Programlama Teknikeri",
+  "Veri Tabanı Programcısı Teknisyeni",
+  "Yazılım Destek Uzmanı",
+  "Web Programcılığı Teknisyeni",
+  "Web ve Çoklu Ortam Geliştiricisi",
+  "Yazılım ve Veri Tabanı Uzmanı"
+ ],
+ "calisma_alanlari": "Bilgisayar Programcılığı Teknikerleri, kamu kurum ve kuruluşlarının bilgi işlem birimlerinde, özel sektörde yazılım ve bilişim şirketlerinde, bankalarda, sigorta şirketlerinde, e-ticaret firmalarında, sağlık ve eğitim kurumlarında ve bilgisayar kullanımına ihtiyaç duyan her türlü işletmede çalışma imkanı bulur. Yetkinliklerini artırarak serbest (freelance) çalışabilir ya da kendi yazılım işini kurabilirler. Bilgi ve iletişim teknolojilerinin her alanda yaygınlaşması nedeniyle bu meslek dalında istihdam olanakları sürekli artmaktadır.",
+ "calisma_ortami": "Bilgisayar Programcılığı Teknikeri, genellikle kapalı ortamda, büro veya ofis koşullarında bilgisayar başında oturarak çalışır. Çalışma sırasında ekip arkadaşları, sistem yöneticileri, proje yöneticileri ve bazen doğrudan müşterilerle yoğun iletişim kurar. İş genellikle sessiz ve düzenli bir ortamda yürütülür; proje teslim tarihlerine bağlı olarak zaman zaman yoğun ve esnek çalışma saatleri gerekebilir, bazı işletmelerde kısmen uzaktan çalışma da mümkündür.\n\nUzun süre ekran başında oturarak çalışmaya bağlı olarak göz, bel ve boyun rahatsızlıkları ile dikkat yorgunluğu görülebilir. İş genellikle fiziksel güç gerektirmez, ancak sürekli dikkat ve zihinsel yoğunluk ister.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi, üniversitelere bağlı meslek yüksekokullarının \"Bilgisayar Programcılığı\" veya \"Bilgisayar Teknolojisi\" ön lisans programlarında verilmektedir.",
+  "giris_kosullari": [
+   "Lise ve dengi okul mezunu olmak",
+   "Ölçme, Seçme ve Yerleştirme Merkezi (ÖSYM) tarafından yapılan merkezi sınavda (YKS) yeterli puanı almış olmak veya meslek lisesi ilgili alan mezunlarının sınavsız geçiş hakkından yararlanmak"
+  ],
+  "sure_ve_icerik": "Eğitim süresi 2 yıldır (4 yarıyıl). Programda algoritma ve programlama mantığı, en az bir ya da birden fazla programlama dili (Java, C#, Python vb.), veri tabanı yönetim sistemleri, web programlama, işletim sistemleri ve ağ temelleri, yazılım test ve geliştirme teknikleri gibi dersler teorik ve uygulamalı olarak verilir. Öğrenciler ayrıca işletmelerde staj yaparak mesleki deneyim kazanır.",
+  "belge": "Eğitimi başarıyla tamamlayanlara ön lisans diploması verilir ve \"Bilgisayar Programcılığı Teknikeri\" unvanı kazanılır."
+ },
+ "ek_bilgiler": "Bilgi ve iletişim teknolojileri hızla değiştiğinden, bu meslekte çalışanların yeni programlama dillerini, araçları ve yöntemleri sürekli takip etmesi ve kendini güncellemesi büyük önem taşır. Mesleki Yeterlilik Kurumu (MYK) belgesi ile çeşitli yazılım ve teknoloji firmalarının verdiği sertifikalar istihdamda tercih sebebi olabilir, ancak mesleğin icrası için yasal bir zorunluluk değildir.",
+ "genel_ozellikler": [
+  "Mantıksal ve analitik düşünebilen,",
+  "Matematik ve sayısal konularda başarılı,",
+  "Dikkatli ve sabırlı,",
+  "Problem çözme yeteneği gelişmiş,",
+  "Yeni teknolojileri öğrenmeye istekli ve kendini geliştirebilen,",
+  "Ekip çalışmasına uyumlu,",
+  "Sorumluluk sahibi,",
+  "Uzun süre bilgisayar başında dikkatle çalışabilen"
+ ],
+ "gorevler": [
+  "Bilgilerin bilgisayarda amaca uygun olarak sistematik bir biçimde kullanımını sağlayacak bilgisayar programlarını yazar.",
+  "Bilgisayar programlama dillerini bilir.",
+  "Elindeki bilgilerin niteliğine en uygun olan programlama dilini seçer.",
+  "Programlama dillerinin yazımında kullanılan kodlamaları yapar ve uygular.",
+  "Yazdığı programları test eder.",
+  "Mesleği alanındaki gelişmeleri takip eder ve uygular.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Mezunlar, Dikey Geçiş Sınavı (DGS) ile başarılı oldukları takdirde ilgili lisans programlarına (örneğin Bilgisayar Mühendisliği, Yazılım Mühendisliği, Bilgisayar Bilimleri gibi) geçiş yapabilirler.",
+  "is_hayatinda": "Mesleki deneyim ve ek sertifikalarla yazılım geliştirici, sistem/ağ yöneticisi, veri tabanı uzmanı veya proje yöneticisi gibi pozisyonlara ilerleme imkanı bulunmaktadır. Alanında uzmanlaşan teknikerler, kıdemli pozisyonlara veya ekip liderliğine yükselebilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Eğitim süresince öğrenciler genellikle düzenli bir ücret almaz; staj dönemlerinde işletmeden sınırlı düzeyde harçlık veya ücret alabilirler.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında 657 sayılı Devlet Memurları Kanunu çerçevesinde belirlenen maaş ve ek ödemelerle istihdam edilebilirler; işçi statüsünde çalışanlar için toplu iş sözleşmesi hükümleri uygulanır.",
+   "Özel sektörde yeni mesleğe başlayanlar genellikle asgari ücret düzeyinde kazanç elde eder; deneyim, uzmanlık ve işletmenin büyüklüğüne bağlı olarak kazanç önemli ölçüde artabilir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T15:03:02",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 4899
+  }
+ }
+}

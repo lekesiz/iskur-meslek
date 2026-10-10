@@ -1,0 +1,97 @@
+{
+ "arac_gerec": [
+  "Kişisel koruyucu donanım (baret, emniyet kemeri, iş ayakkabısı, eldiven, gözlük vb.)",
+  "Gaz ölçüm cihazları",
+  "Gürültü ve aydınlatma ölçüm cihazları (ses ölçer, lüksmetre)",
+  "Yüksekte çalışma ve düşme önleme ekipmanları",
+  "Yangın söndürme tüp ve ekipmanları",
+  "İlk yardım malzemeleri",
+  "Kontrol ve denetim formları/checklist'ler",
+  "Fotoğraf makinesi veya kamera",
+  "Telsiz ve iletişim cihazları",
+  "Bilgisayar ve ofis yazılımları (raporlama için)",
+  "Uyarı/ikaz levha ve bariyerleri",
+  "İskele ve merdiven kontrol ekipmanları"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve gözlem gücü yüksek,",
+  "Sorumluluk sahibi ve kurallara bağlı,",
+  "İletişim becerisi iyi, ikna edici,",
+  "Fiziksel olarak sağlıklı, sahada ve yüksekte çalışmaya uygun,",
+  "Analitik düşünebilen ve hızlı karar verebilen,",
+  "Takım çalışmasına uygun,",
+  "Stres altında sakin kalabilen,",
+  "Yazılı ve sözlü rapor hazırlayabilen"
+ ],
+ "calisma_ortami": "İş Sağlığı ve Güvenliği Elemanı (İnşaat), büyük ölçüde açık havada kurulan inşaat şantiyelerinde, bazen de şantiye ofislerinde çalışır. Çalışma ortamı toza, gürültüye, farklı hava koşullarına ve yüksekte çalışma gibi risklere açıktır; sahada sürekli hareket halinde olmayı, iskele, platform ve merdivenlere çıkmayı gerektirir. Çalışma saatleri genellikle şantiyenin iş programına bağlı olup, gerektiğinde mesai saatleri dışında da görev yapılabilir.\n\nGörevi sırasında şantiye yöneticileri, mühendisler, taşeron firma temsilcileri, iş güvenliği uzmanları ve sahada çalışan işçilerle sürekli iletişim halindedir. Kurallara uyumun sağlanması için çalışanları sık sık uyarması ve bilgilendirmesi gerektiğinden iletişim ve ikna becerisi önem taşır.",
+ "egitim": {
+  "verildigi_yerler": "Bu mesleğe yönelik resmî olarak standartlaştırılmış, zorunlu bir ortaöğretim sonrası program bulunmamaktadır. Lise mezunları, Halk Eğitim Merkezleri ile İŞKUR'un açtığı mesleki eğitim kurslarına katılarak veya işbaşında usta/uzman yanında çalışarak mesleğe giriş yapabilir. Alanla ilgili bazı üniversitelerin önlisans düzeyinde yürüttüğü iş sağlığı ve güvenliği ağırlıklı programlar da bu mesleğe hazırlık sağlayabilir.",
+  "giris_kosullari": [
+   "Lise veya dengi okul mezunu olmak",
+   "İnşaat sahası koşullarında çalışmaya engel bir sağlık sorunu bulunmamak",
+   "İSG alanında açılan sertifikalı kurs ve eğitim programlarına katılmak faydalıdır"
+  ],
+  "sure_ve_icerik": "Eğitim süresi ve içeriği, katılınan kurs veya programa göre değişir. Kurs düzeyindeki eğitimlerde genellikle iş sağlığı ve güvenliği mevzuatı, risk değerlendirme, kişisel koruyucu donanım kullanımı, yüksekte çalışma güvenliği, yangın güvenliği, acil durum yönetimi ve ilk yardım gibi konular işlenir. Önlisans düzeyindeki programlarda bu konulara ek olarak iş hukuku, ergonomi ve iş ekipmanları güvenliği gibi dersler de yer alır. Uygulamalı eğitim ve işbaşı/staj uygulaması genellikle sürecin önemli bir parçasıdır.",
+  "belge": "Katıldığı kursa göre kurs tamamlama/katılım belgesi ya da önlisans diploması alır. Mesleki Yeterlilik Kurumu (MYK) tarafından ilgili alanda verilen belgeler istihdamda tercih sebebi olabilir. İş Güvenliği Uzmanı unvanı ve bu unvana ait yasal yetki belgesi için ayrıca lisans eğitimi ve Çalışma ve Sosyal Güvenlik Bakanlığı'nca düzenlenen sınav/sertifika süreçleri gerekmektedir; bu, bu meslek kaydının kapsamı dışındadır."
+ },
+ "calisma_alanlari": "İş Sağlığı ve Güvenliği Elemanı (İnşaat), başta inşaat şirketleri ve taşeron firmalar olmak üzere, büyük ve orta ölçekli inşaat projelerinin şantiye kadrolarında çalışabilir. Ortak Sağlık ve Güvenlik Birimleri (OSGB) bünyesinde, bir İş Güvenliği Uzmanına bağlı olarak sahada görev yapabilir. İnşaat sektörünün hacmine, yasal İSG düzenlemelerinin uygulanma yoğunluğuna ve proje sayısına bağlı olarak istihdam olanakları değişkenlik gösterir; büyük projelerde ve kamu ihalelerinde İSG personeli talebi görece daha fazladır.",
+ "kazanc": {
+  "egitim_suresince": "Kurs düzeyindeki eğitimlerde genellikle bir ücret söz konusu değildir. Önlisans düzeyinde öğrenim görenler Kredi ve Yurtlar Genel Müdürlüğü'nün öğrenim kredisi ve yurt hizmetlerinden, bazı kurum/kuruluşların burslarından yararlanabilir.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında işçi statüsünde istihdam edilenler, tabi oldukları toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde çalışanların kazancı; işyerinin büyüklüğü, projenin kapsamı, kişinin deneyimi ve bölgeye göre değişebilir.",
+   "Mesleğe yeni başlayanlarda kazanç genellikle asgari ücret düzeyinde olabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Lise mezunu olarak mesleğe başlayanlar, iş sağlığı ve güvenliği alanında önlisans veya lisans eğitimi alarak bilgi ve donanımlarını artırabilir. İlgili mühendislik, fen bilimleri veya sağlık bilimleri lisans programlarından mezun olup gerekli sınav ve sertifika süreçlerini tamamlayanlar, yasal koşulları sağlamaları hâlinde İş Güvenliği Uzmanlığı unvanına yönelebilir.",
+  "is_hayatinda": "Sahada edindiği deneyim ve ek eğitimlerle saha sorumlusu veya İSG ekip lideri gibi görevlere yükselebilir; ilgili yasal koşulları sağlaması durumunda İş Güvenliği Uzmanı olarak çalışabilir."
+ },
+ "benzer_meslekler": [
+  "İş Sağlığı ve Güvenliği Kontrolörü",
+  "İş Sağlığı ve Güvenliği Teknikeri",
+  "Teknik Emniyet Görevlisi",
+  "Güvenlik Denetçisi"
+ ],
+ "ek_bilgiler": "İnşaat sektörü, 6331 sayılı İş Sağlığı ve Güvenliği Kanunu kapsamında tehlikeli ve çok tehlikeli işler sınıfında değerlendirilmektedir; bu nedenle sahada görev yapan personelin iş sağlığı ve güvenliği kurallarına eksiksiz uyması büyük önem taşır. Bu meslekteki \"eleman\" unvanı, yasal olarak tanımlanmış \"İş Güvenliği Uzmanı\" unvanından farklıdır; uzmanlık unvanı için ayrı eğitim, sınav ve sertifika koşulları aranmaktadır.",
+ "gorevler": [
+  "Risk değerlendirme faaliyetlerini yürütür.",
+  "İş sağlığı ve güvenliği genel saha kontrolü işlemlerini yürütür.",
+  "İş güvenliği ile ilgili ölçümleme işlemlerinin yapılmasını sağlar.",
+  "İskelelerin ve merdivenlerin kontrolünü yapar.",
+  "Kişisel koruyucuların kontrolünü yapar.",
+  "Yüksekte çalışma sisteminin, asma iskele ve bina cephe asansörlerinin kontrolünü yapar.",
+  "Bakım-onarım-devreye alma işlemleri sırasında gerekli önlemlerin alınıp alınmadığını kontrol eder.",
+  "Saha ve sosyal tesislerin temizlik, tertip ve düzeninin, sahadaki korkuluk, geçiş ve rampaların kontrolünü yapar.",
+  "İksaların, stok sahası ve depoların kontrolünü yapar.",
+  "Malzeme düşme ve devrilmelerine karşı kontroller yapar.",
+  "İSG kimlik kartlarının kontrolünü yapar.",
+  "Atıkların uygun şekilde depolanıp depolanmadığını kontrol eder.",
+  "Elle kaldırma ve taşıma işlemlerinin uygunluğunu kontrol eder.",
+  "Trafik düzenini kontrol eder.",
+  "Çalışanların davranışlarını kontrol eder ve bilgilendirir.",
+  "Tehlikeli yerlerin açıklık ve boşluklarının kontrolünü yapar.",
+  "Sigara içme tahditli alanların ve aydınlatmanın kontrolünü yapar.",
+  "Kaldırma makinelerinin ve donatılarının kontrolünü yapar.",
+  "İş makinelerinin ve binek araçlarının kontrolünü yapar.",
+  "Basınçlı ekipmanın kontrolünü yapar.",
+  "Elektrikli el aletlerinin kontrolünü yapar.",
+  "Elektrik tesisatının kontrolünü yapar.",
+  "Basınçlı tüplerin kontrolünü yapar.",
+  "Parlayıcı ve patlayıcı ortamlarda kullanılan teçhizatın kontrolünü yapar.",
+  "Uyarı ve ikaz işaretlerinin kontrolünü yapar.",
+  "Mekanik el aletlerinin, makine ve tezgâhların kontrolünü yapar.",
+  "Acil durum uygulama işlemlerini yürütür.",
+  "Yangın önleme ve uygulama işlemlerini yürütür.",
+  "Kayıt ve raporlama işlemlerini yürütür.",
+  "Mesleki gelişime ilişkin faaliyetleri yürütür."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T12:32:39",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 8251
+  }
+ }
+}

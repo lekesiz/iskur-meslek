@@ -1,0 +1,75 @@
+{
+ "arac_gerec": [
+  "Kömür ve kömür tozu",
+  "Ocak küreği (foyrap küreği)",
+  "Süngü (ocak demiri)",
+  "Kazan ve ocak (fırın)",
+  "Kömür bunkeri",
+  "Kül küreği ve kül kovası",
+  "Baca ve kazan temizleme fırçaları, raspalar",
+  "Buhar basıncı göstergesi (manometre)",
+  "Su seviye göstergesi",
+  "Koruyucu eldiven ve iş tulumu",
+  "Toz/is maskesi ve koruyucu gözlük",
+  "El feneri"
+ ],
+ "benzer_meslekler": [
+  "Ateşçi (Buharlı Lokomotif)",
+  "Diğer Makine Dairesi Mürettebatı ve Ateşçileri",
+  "Gemi Ateşçisi",
+  "Buhar Kazanı Operatörü/Kazan Ateşçisi",
+  "Kalorifer Ateşçisi",
+  "Kızgın Yağ Kazanı Operatörü",
+  "Sıcak Su Kazanı Operatörü"
+ ],
+ "calisma_alanlari": "Bu meslek, kömürle çalışan buharlı gemilerde istihdam edilmek üzere tanımlanmıştır. Günümüzde deniz taşımacılığında fuel-oil, dizel ve doğalgaz yakıtlı makine sistemlerinin yaygınlaşması nedeniyle kömürle çalışan ticari gemilerin sayısı ülkemizde ve dünyada çok azalmıştır. Bu nedenle mesleğin güncel istihdam olanağı son derece sınırlıdır; iş bulma olasılığı büyük ölçüde tarihî veya müze niteliğindeki buharlı gemilerde, restore edilmiş eğitim/gezi teknelerinde ya da özel koleksiyonlarda yer alan buharlı tesislerle sınırlı kalmaktadır.",
+ "calisma_ortami": "Gemi ateşçisi (kömürlü), geminin su hattının altında yer alan kazan/makine dairesinde, kapalı, dar, sıcak ve genellikle kömür tozuyla kirlenmiş bir ortamda çalışır. Çalışma süresince ayakta durulur ve kömür küreme, kül taşıma, kazan temizleme gibi ağır fiziksel efor gerektiren işler yapılır. Yüksek sıcaklık, nem, gürültü, toz ve is nedeniyle yanık, solunum yolu rahatsızlıkları ve işitme kaybı gibi sağlık riskleri bulunmaktadır.\n\nÇalışma düzeni genellikle vardiya (nöbet) usulüyle sürdürülür; gemi seyir hâlindeyken kazanın sürekli beslenmesi ve basıncının korunması için nöbetler aralıksız devam eder. Meslek mensubu, kazan dairesindeki diğer ateşçi ve yağcılarla, baş makinist/makine zabitiyle yakın iş birliği içinde çalışır; görevi nedeniyle uzun süre açık denizde ve aileden ayrı kalabilir.",
+ "egitim": {
+  "verildigi_yerler": "Bu meslek için örgün/resmî bir eğitim programı bulunmamaktadır. Kömürle çalışan buharlı gemilerin günümüzde ticari filoda neredeyse kullanılmaması nedeniyle mesleğin öğrenimi, genellikle gemide usta ateşçinin yanında işbaşında uygulamalı olarak gerçekleşir. Denizcilikle ilgili temel güvenlik ve gemi adamı yetiştirme kursları, mesleğe hazırlık açısından destekleyici olabilir.",
+  "giris_kosullari": [
+   "İlköğretim mezunu olmak",
+   "Fiziksel olarak sağlıklı ve dayanıklı olmak; gemi adamı olarak çalışmaya engel bir sağlık durumunun bulunmaması",
+   "Denizde, kapalı ve sıcak ortamda uzun süre ağır fiziksel iş yapabilecek bedensel yeterliliğe sahip olmak"
+  ],
+  "sure_ve_icerik": "Mesleğin standart bir eğitim süresi ve müfredatı tanımlanmamıştır. Kazan dairesinde işbaşında; su tankı ve buhar basıncının takibi, kömürün ateşleme ve yakma teknikleri, kömür bunkeri doldurma, kül alma, kazan ve baca temizliği ile iş sağlığı ve güvenliği kurallarının uygulanması uygulamalı olarak öğretilir.",
+  "belge": "Mesleğe özgü resmî bir diploma veya sertifika bulunmamaktadır. Gemide çalışabilmek için ilgili denizcilik mevzuatı gereği gemi adamı cüzdanı ve temel güvenlik eğitimi belgelerinin alınması gerekebilir."
+ },
+ "ek_bilgiler": "Kömürle çalışan buharlı gemiler, günümüz deniz taşımacılığında fuel-oil, dizel ve doğalgaz yakıtlı sistemler lehine büyük ölçüde terk edilmiştir. Bu nedenle Gemi Ateşçisi (Kömürlü) mesleği büyük oranda tarihî niteliktedir ve ülkemizde güncel istihdam olanağı çok sınırlıdır.",
+ "genel_ozellikler": [
+  "Fiziksel olarak güçlü ve dayanıklı",
+  "Sıcak ve ağır çalışma koşullarına uyumlu",
+  "Dikkatli ve sorumluluk sahibi",
+  "Takım hâlinde çalışmaya istekli",
+  "El ve kol kaslarını etkin kullanabilen",
+  "Vardiyalı/nöbet usulü çalışmaya uygun",
+  "Sabırlı ve disiplinli"
+ ],
+ "gorevler": [
+  "Su tanklarını ve buhar basıncını istenilen seviyede tutar.",
+  "Ocağa kürekle kömür atar ve azami ısıyı sağlamak için süngü kullanır.",
+  "Mekanik kömür bunkerine kürekle kömür tozu atar ve kömür tozunun yakılma hızını ayarlar.",
+  "Kömür bunkerine kömür alır veya kömür kırar.",
+  "Ocaktan kül alır.",
+  "Kazan ve bacaları temizler.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğe yönelik kademeli, örgün bir eğitimde ilerleme sistemi bulunmamaktadır. Gemide deneyim kazanan ateşçiler, uygulamalı bilgi ve becerilerini zamanla geliştirerek kazan dairesindeki görev ve sorumluluklarını artırabilir.",
+  "is_hayatinda": "Deneyim ve kıdem kazanan gemi ateşçileri, kazan dairesinde sorumluluk üstlenen baş ateşçi konumuna yükselebilir. Ancak kömürle çalışan gemilerin sayısının giderek azalması nedeniyle meslekte ilerleme ve istihdam olanakları oldukça sınırlıdır. Bu alanda çalışanlar, ek eğitim alarak fuel-oil, dizel veya diğer yakıt sistemlerine sahip modern gemilerin makine dairelerinde görev alabilirler."
+ },
+ "kazanc": {
+  "egitim_suresince": "Mesleğin örgün bir eğitim süreci bulunmadığından, öğrenim genellikle işbaşında gerçekleşir ve bu dönemde ayrıca bir eğitim ücreti söz konusu değildir; çalışılan geminin bünyesinde iş karşılığı ücret alınabilir.",
+  "egitim_sonrasi": [
+   "Özel sektörde ücret; işveren ile yapılan anlaşmaya, deneyime ve çalışılan geminin işletme şartlarına göre değişmekte olup yeni başlayanlarda genellikle asgari ücret düzeyinde seyretmektedir.",
+   "Kamuya bağlı kurum veya gemilerde çalışılması durumunda, 657 sayılı Devlet Memurları Kanunu veya ilgili toplu iş sözleşmesi hükümleri çerçevesinde ücretlendirme yapılabilir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T17:05:47",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6071
+  }
+ }
+}

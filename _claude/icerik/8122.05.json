@@ -1,0 +1,75 @@
+{
+ "arac_gerec": [
+  "Sütunlu matkap",
+  "Taşlama makinesi",
+  "Metal kesme aletleri (el testeresi, disk/zımpara kesme)",
+  "Markalama ve çizim takımları (çizici, nokta vurma kalemi, gönye)",
+  "Kumpas",
+  "Mastar",
+  "Mengene",
+  "Çekiç ve keski",
+  "Metal fırça ve zımpara",
+  "Pense ve anahtar takımları",
+  "Koruyucu gözlük, eldiven ve iş elbisesi",
+  "Kulaklık (gürültüye karşı)",
+  "Teknik resim ve çizim malzemeleri",
+  "El aletleri (törpü, makas, çeşitli el takımları)"
+ ],
+ "genel_ozellikler": [
+  "El becerisine sahip,",
+  "Dikkatli ve sabırlı,",
+  "Fiziksel olarak güçlü ve dayanıklı,",
+  "Göz-el koordinasyonu gelişmiş,",
+  "Teknik resim okuyabilen,",
+  "Düzenli ve titiz çalışan,",
+  "İş güvenliği kurallarına duyarlı,",
+  "Ekip çalışmasına uyumlu"
+ ],
+ "calisma_ortami": "Diğer metal işlemcileri genellikle kapalı alanlarda, atölye veya fabrika ortamında çalışır. Çalışma sırasında gürültü, metal tozu, talaş ve keskin kenarlı parçalarla karşılaşılabileceğinden koruyucu gözlük, eldiven, iş elbisesi ve gerektiğinde kulaklık kullanımı önemlidir. Görev genellikle ayakta ve çeşitli el aletleri ile makineler kullanılarak yürütülür; işin niteliğine göre fiziksel güç gerektirebilir.\n\nÇalışma saatleri işyerinin üretim programına bağlı olarak değişebilir, bazı işletmelerde vardiyalı çalışma söz konusu olabilir. Meslek elemanı çalışma sırasında diğer metal işçileri, ustabaşı ve kalite kontrol personeli ile iletişim kurar.",
+ "egitim": {
+  "verildigi_yerler": "Bu meslek ilköğretim düzeyinde bir meslek olup, resmi olarak tanımlanmış özel bir eğitim programı veya diploması bulunmamaktadır. Meslek genellikle işyerlerinde usta yanında işbaşında öğrenilir. Ayrıca Halk Eğitim Merkezleri ve İŞKUR'un açtığı metal işleme, tesviye veya ilgili mesleki eğitim kurslarında temel bilgi ve beceriler kazanılabilir. Mesleki ve teknik eğitim okullarının metal teknolojisi alanındaki programları da bu mesleğe hazırlayıcı nitelikte olabilir.",
+  "giris_kosullari": [
+   "İlköğretim diploması",
+   "18 yaşından küçüklerin kurslara katılımı veli izni ile mümkündür",
+   "İşin gerektirdiği fiziksel güce ve sağlığa sahip olmak"
+  ],
+  "sure_ve_icerik": "İşyerlerinde işbaşında eğitim süresi, işin niteliğine ve kişinin önceki tecrübesine göre değişmekle birlikte genellikle birkaç ay sürer. Eğitim süresince teknik resme göre markalama ve hazırlama, sütunlu matkap, taşlama ve kesme aletlerinin kullanımı, parça birleştirme öncesi yüzey temizliği, kumpas ile ölçü kontrolü yapma ile iş sağlığı ve güvenliği kuralları öğretilir. Halk Eğitim Merkezi veya İŞKUR kurslarına katılım durumunda sürenin ve içeriğin kursun programına göre belirlendiği görülür.",
+  "belge": "İşbaşında yetiştirilenlere resmi bir belge verilmez; kurslara katılanlara \"Kurs Bitirme Belgesi\" verilebilir. Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "gorevler": [
+  "Metal parçaları teknik resme göre markalar ve hazırlar,",
+  "Sütunlu matkap, taşlama veya kesme aletlerini kullanır,",
+  "Parçaların birleştirilmesi öncesi yüzey temizliklerini yapar,",
+  "Üretilen parçaların ölçü kontrollerini kumpas ile gerçekleştirir,",
+  "Çalışma alanındaki metal çapaklarını ve atıkları temizler,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "calisma_alanlari": "Diğer metal işlemcileri; metal işleme, makine imalatı, metal eşya üretimi, otomotiv yan sanayi, inşaat demir-çelik işleri ve genel metal atölyeciliği gibi alanlarda faaliyet gösteren küçük ve orta ölçekli atölyeler ile büyük sanayi işletmelerinde çalışabilir. Bu meslek esas olarak özel sektörde yaygın olup, kamu kurumlarının bakım-onarım atölyelerinde de sınırlı sayıda istihdam olanağı bulunabilir.",
+ "kazanc": {
+  "egitim_suresince": "İşyerinde usta yanında işbaşında öğrenenler, çalıştıkları süre için genellikle asgari ücret düzeyinde veya vasıfsız işçi ücreti düzeyinde bir kazanç elde edebilir. Halk Eğitim Merkezi veya İŞKUR kurslarına katılım genellikle ücretsizdir.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanların kazancı genellikle asgari ücret düzeyindedir.",
+   "Deneyim ve beceri arttıkça, çalışılan işletmenin büyüklüğüne ve yapılan işin niteliğine göre ücret artabilir.",
+   "Kamu kurumlarında çalışanlar 657 sayılı Devlet Memurları Kanunu veya ilgili toplu iş sözleşmesi hükümlerine göre ücret alır."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Meslekte ilerleme, deneyim kazanma, farklı makine ve aletlerin kullanımını öğrenme ve mesleki kurs/sertifika programlarına katılma yoluyla sağlanabilir.",
+  "is_hayatinda": "Deneyim kazandıkça usta, formen veya ekip sorumlusu gibi konumlara yükselebilir; büyük işletmelerde belirli metal işleme süreçlerinde uzmanlaşabilir veya zaman içinde kendi atölyesini kurabilir."
+ },
+ "benzer_meslekler": [
+  "Metal Sıvama İşçisi (Elle)",
+  "Elektro Erozyon Tezgah İşçisi",
+  "Kum Püskürtücü-Metal",
+  "Askı-Paketleme ve İstifleme İşçisi(Metal)"
+ ],
+ "ek_bilgiler": "Bu meslek, belirli bir makineye özgü olmayan genel metal işleme (markalama, delme, taşlama, kesme, yüzey temizliği, ölçü kontrolü) görevlerini kapsadığından, çalışılan işletmenin faaliyet alanına ve üretim sürecine göre görev içeriği ve kullanılan araç-gereç değişebilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T11:45:39",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5552
+  }
+ }
+}

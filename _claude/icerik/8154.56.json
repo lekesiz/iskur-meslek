@@ -1,0 +1,78 @@
+{
+ "arac_gerec": [
+  "Traş (tüy temizleme) makinesi",
+  "Makine bıçakları ve bıçak ayar aparatları",
+  "Taşıma silindirleri",
+  "Emiş filtreleri",
+  "Yağlama ekipmanları",
+  "Taşıma arabası",
+  "Rolik (kumaş sarma tamburu)",
+  "Refakat/işlem kartı",
+  "Metre",
+  "Kişisel koruyucu donanım (eldiven, maske, kulaklık, önlük)",
+  "Temizlik ve bakım gereçleri (fırça, bez, hava tabancası)"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli,",
+  "El becerisine sahip,",
+  "Makine ve ekipman kullanımına yatkın,",
+  "Fiziksel olarak dayanıklı,",
+  "Sorumluluk sahibi,",
+  "Ekip çalışmasına uygun,",
+  "Temizlik ve düzene özen gösteren,",
+  "İş sağlığı ve güvenliği kurallarına uyan,"
+ ],
+ "gorevler": [
+  "Makineyi yağlar.",
+  "Makine bıçaklarını kontrol eder ve temizler.",
+  "Kumaşı silindirlere doğru yerleştirir ve kontrol eder.",
+  "Kumaşa göre makine ayarlarını yapar.",
+  "Makinenin emiş filtrelerini kontrol eder.",
+  "İşlemi biten kumaşın taşıma arabasına dökülmesini sağlar veya roliğe sardırır.",
+  "Dolan taşıma arabası ya da roliği değiştirir.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "calisma_ortami": "Traşçı (tekstil), tekstil terbiye/apre işletmelerinde, kapalı fabrika veya atölye ortamında, genellikle ayakta ve hareketli olarak çalışır. Çalışma ortamında kumaştan kaynaklanan tüy ve toz, makine gürültüsü ve titreşim bulunabilir; bu nedenle yeterli havalandırma ve kişisel koruyucu donanım kullanımı önemlidir. Makinede dönen bıçak ve silindirler bulunduğundan iş güvenliği kurallarına uyulması gerekir.\\n\\nMeslek elemanı, çalışma saatleri genellikle işletmenin üretim programına göre vardiyalı olabilir. Çalışma sırasında aynı bölümdeki diğer operatörler, ustabaşı ve kalite kontrol personeli ile sürekli iletişim halindedir.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi için ayrı, standart bir örgün program bulunmamaktadır. Yeterli talep olması halinde Mesleki Eğitim Merkezlerinin Tekstil Teknolojisi alanına bağlı, bitim işlemleri/terbiye ile ilgili dallarında çıraklık eğitimi kapsamında temel beceriler kazandırılabilir. Uygulamada meslek, genellikle tekstil terbiye işletmelerinde işbaşında, usta yanında çalışılarak öğrenilmektedir. Halk Eğitim Merkezleri ve İŞKUR tarafından açılan mesleki eğitim kursları da ilgili temel bilgi ve becerilerin kazandırılmasına katkı sağlayabilir.",
+  "giris_kosullari": [
+   "Mesleki eğitim merkezi kapsamında çıraklık eğitimine başlamak için en az ilköğretim/ortaokul mezunu olmak",
+   "14 yaşını doldurmuş olmak",
+   "Sağlık durumunun mesleğin gerektirdiği işlere uygun olması (gerektiğinde sağlık raporu ile belgelenir)",
+   "Eğitim görmek istenen işyeri ile çıraklık sözleşmesi imzalanması",
+   "İşbaşında yetişme yolunda ise ilgili işletmede işe alınmak"
+  ],
+  "sure_ve_icerik": "Mesleğin edinilmesi genellikle işyerinde uygulamalı olarak gerçekleşir; süre, kişinin önceki tecrübesine ve işletmenin uygulamasına göre değişmekle birlikte temel beceriler birkaç aydan bir yıla kadar sürebilir. Mesleki eğitim merkezi kapsamında çıraklık eğitimi alınması durumunda eğitim, ilgili alan müfredatına göre genel kültür ve meslek dersleri ile işyerinde uygulamalı eğitimden oluşur; teorik dersler merkezde, uygulamalı kısım işyerinde usta öğreticinin gözetiminde yürütülür.",
+  "belge": "Mesleki eğitim merkezi yoluyla yetişenlere kalfalık/ustalık belgesi verilir. İşbaşında usta yanında yetişenler işyerinden alacakları deneyim/çalışma belgesi ile mesleği icra ederler. Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Traşçı (tekstil), kumaş üretimi yapan dokuma ve örme fabrikalarının bitim işlemleri (terbiye/apre) bölümlerinde, tekstil terbiye atölye ve işletmelerinde çalışabilir. İş bulma olanakları, tekstil sektörünün yoğun olduğu bölgelerdeki üretim ve terbiye tesislerinin faaliyet hacmine bağlı olarak değişmektedir.",
+ "kazanc": {
+  "egitim_suresince": "Mesleki eğitim merkezi kapsamında çıraklık eğitimi alanlara, 3308 sayılı Mesleki Eğitim Kanunu'nda belirlenen esaslara göre işletme tarafından ücret ödenir ve iş kazası-meslek hastalığı sigortası devletçe karşılanır. İşbaşında usta yanında yetişenlerin kazancı, çalıştıkları işyeri ile yaptıkları anlaşmaya göre değişir.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanların kazancı genellikle asgari ücret düzeyindedir.",
+   "Deneyim, performans ve çalışılan işletmenin büyüklüğüne göre kazanç artabilir.",
+   "Özel sektörde ücret, işveren ile çalışan arasındaki anlaşmaya ve sektördeki ücret düzeyine göre değişir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleki eğitim merkezinden diploma ile mezun olanlar, fark derslerini tamamlayarak meslek lisesi diploması alabilir ve istedikleri takdirde ilgili tekstil alanındaki yükseköğretim (ön lisans/lisans) programlarına yönelebilirler. Ayrıca çeşitli kurum ve kuruluşların açtığı mesleki kurslara katılarak bilgi ve becerilerini geliştirebilirler.",
+  "is_hayatinda": "Meslek elemanları, deneyim kazandıkça işletme içinde daha nitelikli makine operatörlüğüne, ustabaşılığa ve bölüm/vardiya sorumluluğu gibi pozisyonlara yükselebilirler."
+ },
+ "benzer_meslekler": [
+  "Mensucat Tüylendirme Makinesi İşçisi",
+  "Zımparacı (Tekstil)",
+  "Fırçacı (Tekstil)",
+  "Dik Fırça Makinesi İşçisi",
+  "Kılçıkçı (Tekstil)",
+  "Yıpratmacı (Tekstil)"
+ ],
+ "ek_bilgiler": "Makinede dönen bıçak ve silindirler bulunduğundan, iş sağlığı ve güvenliği kurallarına uyulması ve kişisel koruyucu donanımın eksiksiz kullanılması mesleğin icrasında büyük önem taşır. Mesleğin istihdam durumu, bulunduğu bölgedeki tekstil sektörünün üretim hacmine bağlı olarak değişkenlik gösterebilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T14:40:39",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5784
+  }
+ }
+}

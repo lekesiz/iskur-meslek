@@ -1,0 +1,76 @@
+{
+ "arac_gerec": [
+  "Atık besleme sistemi kumanda ve kontrol üniteleri",
+  "Yakma fırını kontrol paneli",
+  "Kazan (boiler) sistemi ve basınç/sıcaklık göstergeleri",
+  "Baca gazı arıtma (temizleme) sistemi ekipmanları",
+  "Emisyon ve gaz ölçüm cihazları",
+  "Bilgisayar destekli izleme/SCADA sistemi",
+  "Telsiz / haberleşme cihazı",
+  "Kişisel koruyucu donanım (baret, maske, eldiven, koruyucu kıyafet, kulaklık)",
+  "Yangın söndürme ekipmanları",
+  "El aletleri ve bakım gereçleri",
+  "İş emri ve vardiya raporu formları",
+  "Vinç/kepçe kumanda sistemleri (atık besleme hattında)"
+ ],
+ "benzer_meslekler": [
+  "Atık Besleme Elemanı",
+  "Atık Yakma Operatörü",
+  "Atık Isıdan Enerji Üretim Tesisi Saha Elemanı",
+  "Atık Isıdan Enerji Üretim Tesisi Kumanda Operatörü",
+  "Alternatif Yakıt Hazırlama Operatörü",
+  "Kumanda Tablosu Operatörü"
+ ],
+ "calisma_alanlari": "Atık Yakma Saha Elemanları başta belediyeler ve belediyelere bağlı şirketler olmak üzere, özel sektöre ait evsel, endüstriyel, tıbbi veya tehlikeli atık yakma tesislerinde; atıktan enerji (ısı/buhar/elektrik) üretimi yapan tesislerde istihdam edilirler. Büyükşehirlerde ve sanayi bölgelerinde kurulu yakma ve enerji üretim tesislerinin sayısının artmasına bağlı olarak bu alanda istihdam olanağı bulunmaktadır. Deneyimli ve İSG/işletme eğitimlerini tamamlamış kişiler, tesislerin saha ve kumanda bölümlerinde daha kolay iş bulabilmektedir.",
+ "calisma_ortami": "Atık Yakma Saha Elemanı, görevini atık yakma tesisi içinde hem sahada (atık besleme, fırın ve kazan çevresi) hem de kumanda/kontrol odasında yürütür. Çalışma ortamında yüksek ısı, gürültü, koku, toz ve gaz riskleri bulunabileceğinden kişisel koruyucu donanım kullanımı önemlidir. Tesisler genellikle kesintisiz işletildiğinden çalışma vardiyalı düzende sürdürülür. Görev sırasında operatörler, teknisyenler, vardiya amirleri ve mühendislerle sürekli iletişim ve koordinasyon içinde çalışılır; iş sağlığı ve güvenliği ile çevre koruma kurallarına titizlikle uyulması gerekir.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi büyük ölçüde işyerlerinde işbaşında, usta-çırak ilişkisi içinde ve işletmelerin düzenlediği hizmet içi eğitimlerle verilmektedir. Bunun yanında Halk Eğitim Merkezleri ve İŞKUR tarafından açılan mesleki eğitim kurslarından da yararlanılabilir. Çevre, kimya, makine veya elektrik-elektronik alanlarındaki mesleki ve teknik eğitim programlarından mezun olmak işe girişte avantaj sağlayabilir.",
+  "giris_kosullari": [
+   "En az ortaöğretim (lise ve dengi okul) mezunu olmak",
+   "Fiziksel olarak vardiyalı ve zorlu koşullarda çalışmaya uygun olmak",
+   "Tercihen çevre, kimya, makine veya elektrik-elektronik ile ilgili bir alandan mezun olmak"
+  ],
+  "sure_ve_icerik": "Eğitim süresi ve içeriği işyerinden işyerine ve kişinin bilgi birikimine göre değişmektedir. İşbaşı eğitimlerde genellikle; iş sağlığı ve güvenliği kuralları, atık besleme sistemlerinin çalışma mantığı, yakma fırınının işletimi, kazan (boiler) sisteminin izlenmesi, baca gazı arıtma sistemlerinin işletimi, acil durum ve arıza bildirim prosedürleri ile vardiya teslim süreçleri konularında bilgi ve beceri kazandırılır.",
+  "belge": "Eğitim sonunda genellikle resmî bir diploma verilmemektedir; işyeri tarafından verilen İSG eğitim sertifikası ve işbaşı eğitim katılım belgeleri bulunabilir. Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "ek_bilgiler": "Atık yakma tesislerindeki çalışma koşulları nedeniyle bu meslek tehlikeli/çok tehlikeli işler kapsamında değerlendirilebileceğinden, periyodik sağlık kontrolleri ve düzenli iş sağlığı ve güvenliği eğitimleri önem taşımaktadır.",
+ "genel_ozellikler": [
+  "Dikkatli ve tedbirli,",
+  "Sorumluluk sahibi,",
+  "Fiziksel olarak dayanıklı,",
+  "Takım çalışmasına uyumlu,",
+  "Gözlem yapma becerisi yüksek,",
+  "Hızlı ve doğru karar verebilen,",
+  "Teknik konulara ilgili,",
+  "El ve göz koordinasyonu gelişmiş,"
+ ],
+ "gorevler": [
+  "İş sağlığı ve güvenliği, çevre koruma ve kalite önlemlerini uygular.",
+  "İş organizasyonu ile ilgili işlemleri yapar.",
+  "Atık besleme sistemlerinin işletimini gerçekleştirir.",
+  "Yakma fırınlarının işletimini gerçekleştirir.",
+  "Kazan (boiler) sisteminin işletimini gerçekleştirir.",
+  "Baca gazı temizleme sistemlerinin işletimini gerçekleştirir.",
+  "Mesleki gelişime ilişkin faaliyetleri yürütür."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "İşyerlerinin düzenlediği hizmet içi eğitimlere, İŞKUR ve Halk Eğitim Merkezlerinin açtığı kurslara katılarak ve mümkünse Mesleki Yeterlilik Kurumu (MYK) belgesi alarak bilgi ve becerilerini geliştirebilirler.",
+  "is_hayatinda": "Mesleğin kendi içinde resmî bir kademe sistemi bulunmamakla birlikte, tecrübe ve bilgi birikimine bağlı olarak vardiya amirliği, saha sorumluluğu veya tesis işletme sorumlusu gibi pozisyonlara geçiş mümkün olabilmektedir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Eğitim büyük ölçüde işbaşında verildiğinden, çıraklık/işbaşı eğitim dönemi için ayrı bir ücret genellikle söz konusu değildir; bazı işyerleri bu süreçte asgari ücret düzeyinde ödeme yapabilir.",
+  "egitim_sonrasi": [
+   "Yeni başlayanlar için kazanç genellikle asgari ücret düzeyindedir.",
+   "Kazanç; çalışılan işletmenin büyüklüğü, kişinin deneyimi ve üstlendiği sorumluluğa göre değişebilir.",
+   "Belediyeye bağlı kuruluşlarda işçi statüsünde çalışanlar için ilgili toplu iş sözleşmesi hükümleri, özel sektörde ise işveren ile yapılan anlaşma esas alınır."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T11:03:23",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 4696
+  }
+ }
+}

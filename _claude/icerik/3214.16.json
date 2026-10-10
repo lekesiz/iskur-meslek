@@ -1,0 +1,80 @@
+{
+ "arac_gerec": [
+  "Bilgisayar ve CAD/CAM tasarım yazılımı",
+  "Üç boyutlu optik tarayıcı (scanner)",
+  "CNC freze/işleme makinesi",
+  "Plastik, metal veya zirkonyum içerikli işleme diskleri (blok)",
+  "Diş ölçü kalıpları ve model malzemeleri",
+  "Kayıt ve takip formları",
+  "Kumpas ve benzeri ölçüm/kalite kontrol aletleri",
+  "Kişisel koruyucu donanım (eldiven, maske, koruyucu gözlük)",
+  "İş önlüğü",
+  "Temizlik ve bakım malzemeleri"
+ ],
+ "genel_ozellikler": [
+  "El ve gözünü eşgüdümle kullanabilen,",
+  "Bilgisayar kullanımına yatkın ve teknolojiye ilgili,",
+  "Şekil ve uzay ilişkilerini algılama yeteneğine sahip,",
+  "Dikkatli ve sabırlı,",
+  "Estetik görüşe sahip,",
+  "El becerisine sahip,",
+  "Takım çalışmasına uyumlu kişiler olmaları gerekir."
+ ],
+ "calisma_ortami": "Diş Protez Cad-Cam Operatörü, genellikle diş protez laboratuvarlarında kapalı ortamda, bilgisayar ve CNC işleme makineleri başında çalışır. Çalışma sırasında disk işleme (freze) işlemlerinden kaynaklanan gürültü ve toz oluşabileceğinden kişisel koruyucu donanım kullanılması gerekebilir. Görevini genellikle masa ve makine başında, oturarak veya ayakta yürütür.\n\nÇalışmasını tam zamanlı olarak, haftanın her günü yürütebilir; laboratuvarın iş yüküne göre fazla mesai söz konusu olabilir. Görevi sırasında diş hekimleri, diş protez teknisyen ve teknikerleri ile sık etkileşim halindedir.",
+ "gorevler": [
+  "Hekimlerden gelen ölçülerin kayıt formu ile uygunluğunu kontrol eder.",
+  "Hekimden gelen numune ölçü kalıplarını bilgisayar tarayıcısına yerleştirir.",
+  "Tarayıcı vasıtasıyla numunenin üç boyutlu veri değerlerini bilgisayara yükler.",
+  "Bilgisayarın ilgili menülerini kullanarak sanal ortamda modelaj işlemi yapar.",
+  "Dişin ağız yapısına uygun olarak altyapısını hazırlar.",
+  "Sanal ortamda dişe son şeklini verir.",
+  "Sanal verileri CNC makinesinde işleyerek numune oluşumunu sağlar.",
+  "İşe uygun işlenecek disketi (plastik, metal veya zirkon maddesi) seçer.",
+  "Disketi CNC makinesindeki yuvasına yerleştirerek sabitler.",
+  "İşleme uygun menü seçimini yaparak işlemi başlatır.",
+  "Makinenin disketi işleyerek diş oluşturması işlemlerine nezaret eder.",
+  "İşlem sonrasında uygunluk ve son kalite kontrollerini yapar.",
+  "Uygun işleri fırın bölümüne göndererek dişlerin fırınlanmasını sağlar.",
+  "Çalışma ortamını düzenler ve temizler.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Bu meslek için doğrudan bu adla açılmış örgün bir eğitim programı bulunmamaktadır. Mesleğe ilişkin temel bilgiler, sağlık meslek liselerinin diş protez teknisyenliği alanı veya üniversitelerin diş protez teknolojisi ön lisans programlarında verilen eğitimle kazanılmaktadır. Bilgisayar destekli tasarım/üretim (CAD/CAM) ve CNC sistemlerinin kullanımına yönelik bilgi ve beceriler ise genellikle işyerinde usta yanında uygulamalı olarak veya ilgili firmaların/İŞKUR'un ve Halk Eğitim Merkezlerinin açtığı kısa süreli mesleki kurslarla edinilmektedir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "Bünyesi ve sağlık durumu mesleğin gerektirdiği işleri yapmaya uygun olmak",
+   "Bilgisayar ve teknoloji kullanımına ilgili olmak"
+  ],
+  "sure_ve_icerik": "Eğitim süresi ve içeriği izlenen yola göre değişmektedir. Sağlık meslek liselerinde diş protez teknisyenliği eğitimi 4 yıl sürmekte; teorik derslerin yanında atölye ve laboratuvar uygulamaları içermektedir. Ön lisans düzeyindeki diş protez teknolojisi programları 2 yıl sürmekte, temel diş protez bilgisi, malzeme bilgisi, modelaj ve CAD/CAM uygulamalarına ilişkin dersler yer almaktadır. CAD/CAM operatörlüğüne özgü tarayıcı ve CNC makine kullanımı bilgi ve becerileri, bu temel eğitimlerin üzerine işbaşında veya kısa süreli uygulamalı kurslarla geliştirilmektedir.",
+  "belge": "Örgün eğitim kurumlarından mezun olanlara diploma verilir. İşbaşı eğitim veya kurslara katılanlara kurum ve kuruluşlarca katılım ya da başarı belgesi düzenlenebilir. Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Başlıca çalışma alanları özel diş protez laboratuvarları, diş hastaneleri ve kliniklere bağlı protez üniteleri ile üniversite hastanelerinin diş protez bölümleridir. Diş protez teknolojisindeki dijitalleşme ve CAD/CAM sistemlerinin giderek yaygınlaşması nedeniyle bu alanda istihdam olanağının arttığı görülmektedir; özellikle büyük şehirlerdeki laboratuvarlarda iş bulma olanağı daha fazladır.",
+ "kazanc": {
+  "egitim_suresince": "Örgün mesleki eğitim sürecinde işletmelerde staj/uygulamalı eğitim gören öğrencilere 3308 sayılı Mesleki Eğitim Kanunu kapsamında ücret ödenebilir ve iş kazası ile meslek hastalığı sigortası devletçe karşılanır. İşbaşında veya kurs yoluyla yetişenler, çalıştıkları işletmeden ücret alır.",
+  "egitim_sonrasi": [
+   "Kamu sağlık kuruluşlarında çalışanlar 657 sayılı Devlet Memurları Kanunu'na göre ücretlendirilir.",
+   "Özel sektörde çalışanların ücreti, işyerinin büyüklüğü ile çalışanın bilgi, beceri ve deneyimine göre değişmekte olup yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "İlköğretim sonrası mesleki ve teknik eğitim kurumlarından mezun olanlar, açık öğretim lisesi ve ardından ön lisans/lisans düzeyinde diş protez teknolojisi alanında eğitimlerine devam ederek unvanlarını teknisyenlik veya teknikerlik düzeyine yükseltebilirler.",
+  "is_hayatinda": "Mesleki deneyim ve bilgisini artıran CAD/CAM operatörleri laboratuvarda sorumlu teknisyen, tekniker veya atölye şefi gibi görevlere yükselebilir. Yeterli sermaye, deneyim ve mevzuata uygun koşulları sağlayanlar kendi adına diş protez laboratuvarı açabilir."
+ },
+ "benzer_meslekler": [
+  "Diş Protezcisi",
+  "Diş Protez Teknisyeni",
+  "Diş Protez Teknikeri",
+  "Pedodonti Diş Protez Teknikeri",
+  "Diş Protez Modelajcısı",
+  "Diş Protez Frezecisi"
+ ],
+ "ek_bilgiler": "Diş protez teknolojisinde dijital üretim sistemlerinin (CAD/CAM) yaygınlaşmasıyla bilgisayar ve CNC makine kullanım bilgisi mesleki açıdan önem kazanmaktadır. Bu nedenle cihaz ve yazılım üreticilerinin verdiği eğitimler ile kısa süreli sertifika programları istihdamda tercih sebebi olabilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T12:15:49",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6359
+  }
+ }
+}

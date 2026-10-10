@@ -1,0 +1,68 @@
+{
+ "arac_gerec": [
+  "Kesim tezgahı/masası",
+  "İstampa (kalıp bıçağı)",
+  "Deri kesim bıçağı",
+  "Makas",
+  "Bileme taşı/çakmak",
+  "Mastar, metre, cetvel gibi ölçüm araçları",
+  "Kesim şablonları/kalıpları",
+  "Ağırlık/baskı tokmağı",
+  "Koruyucu eldiven",
+  "Deri ve kösele"
+ ],
+ "benzer_meslekler": [
+  "Deri Kesimci",
+  "Deri İşçisi",
+  "Diğer Deri İşçileri",
+  "Deri İşlemecisi",
+  "Kesimci (Giyim)"
+ ],
+ "calisma_alanlari": "Deri kesiciler, ayakkabı, eldiven ve giyecek dışındaki deri eşyaların (çanta, kemer, saraciye ürünleri, deriden mobilya ve döşeme parçaları, deri aksesuar vb.) üretildiği küçük ve orta ölçekli imalat atölyelerinde ve fabrikalarda çalışırlar. Tabakhanelerin bitmiş deri bölümlerine bağlı kesim atölyelerinde de görev alabilirler.\n\nDeri ve deri ürünleri sanayinin yoğunlaştığı İstanbul, Bursa, Gerede (Bolu), Tekirdağ-Çorlu, Uşak, Niğde gibi illerde iş bulma olanakları daha fazladır. Sektördeki küçük atölye yapısı nedeniyle istihdam, genel olarak bölgesel deri sanayinin durumuna bağlı olarak değişkenlik gösterebilir.",
+ "calisma_ortami": "Deri kesiciler, kapalı mekânlarda, atölye veya fabrika ortamında çalışırlar. İş, genellikle bir tezgah veya masa başında ayakta ya da oturarak yapılır. Çalışma ortamında deri ve kösele kokusu, deri tozu ve kırpıntıları bulunabilir; kesim sırasında kullanılan bıçak, makas ve istampa gibi keskin aletler nedeniyle el ve parmak yaralanması riski vardır.\n\nMeslek elemanı, işini genellikle tek başına ve tekrarlayan hareketlerle yürütür; bununla birlikte diğer atölye çalışanları, ustabaşı ve işveren ile iş akışı konusunda iletişim kurar. Çalışma saatleri işyerinin sipariş yoğunluğuna göre değişebilir, zaman zaman fazla mesai gerekebilir.",
+ "ek_bilgiler": "Çalışma sırasında bıçak, makas ve istampa gibi kesici aletler kullanıldığından el ve parmak yaralanmalarına karşı dikkatli olunmalı, uygun koruyucu ekipman kullanılmalıdır. Mesleğe özgü zorunlu bir belge veya diploma bulunmamakla birlikte, Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir.",
+ "egitim": {
+  "verildigi_yerler": "Bu meslek için örgün eğitim kurumlarında ayrı bir alan/dal bulunmamaktadır. Meslek genellikle işyerlerinde usta yanında çalışılarak (işbaşı eğitimi) öğrenilir. Ayrıca Halk Eğitim Merkezleri ile İŞKUR'un açtığı mesleki eğitim kurslarında temel deri işleme bilgisi edinilebilir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "İşe başlamak için gerekli yaş ve sağlık şartlarını taşımak",
+   "El becerisine ve dikkatli çalışma yeteneğine sahip olmak"
+  ],
+  "sure_ve_icerik": "Resmi ve standart bir eğitim süresi bulunmamaktadır. İşbaşında usta yanında çalışılarak deri ve kösele çeşitlerinin tanınması, tezgah üzerine serme, istampa, bıçak ve makas kullanarak elle kesim yapma becerisi kazanılır. Kurs yoluyla eğitim alınması durumunda süre ve içerik, kursu düzenleyen kuruma göre değişir.",
+  "belge": "İşbaşı eğitimi sonunda resmi bir diploma veya ustalık belgesi verilmemektedir. Kurslara katılım halinde kurs bitirme/katılım belgesi alınabilir."
+ },
+ "genel_ozellikler": [
+  "El becerisine sahip,",
+  "Dikkatli ve sabırlı,",
+  "Gözlerini iyi kullanabilen,",
+  "El-göz koordinasyonu gelişmiş,",
+  "Fiziksel olarak dayanıklı,",
+  "Tekrarlayan işleri yapmaktan sıkılmayan,",
+  "Elleriyle çalışmaktan hoşlanan"
+ ],
+ "gorevler": [
+  "Deri veya köseleyi seçer,",
+  "Bir tezgah üzerine yayar,",
+  "İstampa, bıçak veya makastan faydalanarak elle parçalayıp keser,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Meslekte resmi bir kademeli örgün eğitim ve ilerleme sistemi bulunmamaktadır. İlgili mesleki eğitim kurslarına katılarak bilgi ve beceriler geliştirilebilir.",
+  "is_hayatinda": "Deneyim kazanarak usta işçi veya ustabaşı konumuna yükselebilir, zaman içinde kendi atölyesini/işyerini açabilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "İşbaşı eğitimi süresince işveren ile yapılan anlaşmaya göre genellikle asgari ücret düzeyinde veya parça/prim esaslı bir kazanç sağlanabilir.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Deneyim, beceri ve işletmenin büyüklüğüne göre kazanç artabilir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T09:26:49",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 4321
+  }
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "arac_gerec": [
+  "Bilgisayar ve ağ donanımları",
+  "Kod editörleri ve geliştirme ortamları (IDE)",
+  "Programlama dilleri (JavaScript, PHP, Python vb.)",
+  "Web geliştirme çerçeveleri (framework) ve kütüphaneler (React, Angular, Node.js vb.)",
+  "Veritabanı yönetim sistemleri (MySQL, PostgreSQL, MongoDB vb.)",
+  "Sürüm kontrol sistemleri (Git ve benzeri)",
+  "Sunucu ve barındırma ortamları (Apache, Nginx, bulut sunucu platformları)",
+  "API geliştirme ve test araçları (Postman vb.)",
+  "Hata ayıklama (debugging) ve kod kalite analiz araçları",
+  "Proje yönetimi ve ekip iş birliği yazılımları (Jira, Trello vb.)",
+  "Tarayıcı geliştirici araçları"
+ ],
+ "benzer_meslekler": [
+  "Web Programcısı",
+  "Web ve Çoklu Ortam Geliştiricisi ve Sorumlusu",
+  "Yazılım Geliştirme Uzmanı",
+  "Mobil Yazılım Geliştirme Uzmanı",
+  "Uygulama Programcısı",
+  "Yazılım Mühendisi"
+ ],
+ "calisma_alanlari": "İnternet Geliştiricisi; kamu kurum ve kuruluşlarının bilgi işlem birimlerinde, yazılım ve bilişim şirketlerinde, e-ticaret firmalarında, bankacılık ve finans kuruluşlarında, medya ve iletişim şirketlerinde, telekomünikasyon firmalarında ve her türlü kurumsal web/mobil uygulama geliştiren işletmelerde çalışabilir.\n\nBilişim ve dijitalleşme alanındaki sürekli büyüme, bu mesleğe olan talebi artırmaktadır. Deneyimli geliştiriciler, şirket bünyesinde çalışmanın yanı sıra serbest (freelance) olarak veya kendi yazılım işletmesini kurarak da hizmet verebilmektedir.",
+ "calisma_ortami": "İnternet Geliştiricisi, genellikle ofis/büro ortamında bilgisayar başında oturarak çalışır. Çalışma düzeni içinde proje yöneticileri, tasarımcılar, sistem yöneticileri ve diğer yazılım geliştiricilerle sık sık iletişim kurar; ekip hâlinde çalışma yaygındır. Günümüzde kısmen veya tamamen uzaktan çalışma da bu meslekte yaygın bir uygulamadır.\n\nÇalışma saatleri genellikle düzenlidir, ancak proje teslim tarihlerine yakın dönemlerde mesai yoğunlaşabilir. Uzun süre bilgisayar ekranı önünde oturmaya bağlı olarak göz yorgunluğu, bel ve boyun rahatsızlıkları gibi sağlık sorunları görülebilir.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi; ortaöğretim düzeyinde mesleki ve teknik Anadolu liselerinin bilişim teknolojileri alanında, yükseköğretim düzeyinde üniversitelerin bilgisayar programcılığı gibi ön lisans programlarında ve bilgisayar mühendisliği, yazılım mühendisliği, bilgisayar/yazılım alanlarındaki lisans programlarında verilmektedir. Ayrıca Halk Eğitim Merkezleri, İŞKUR ve özel eğitim kurumlarının açtığı web/yazılım geliştirme kurslarıyla da bu mesleğe yönelik bilgi ve beceri kazanılabilmektedir.",
+  "giris_kosullari": [
+   "Mesleki ve teknik ortaöğretim programlarına girmek için en az ortaokul mezunu olmak",
+   "Ön lisans ve lisans programlarına girmek için ilgili merkezi sınavlardan yeterli puan almak ve kayıt koşullarını sağlamak",
+   "Halk Eğitim Merkezleri ve benzeri kurumların açtığı kurslara katılmak için genellikle en az ortaöğretim (lise) mezunu olmak"
+  ],
+  "sure_ve_icerik": "Mesleki ve teknik liselerde eğitim 4 yıl sürer. Ön lisans programları 2 yıl, lisans programları 4 yıl sürmektedir. Eğitim sürecinde programlama mantığı ve algoritmalar, veri yapıları, web teknolojileri (HTML, CSS, JavaScript vb.), sunucu taraflı programlama dilleri, veritabanı tasarımı ve yönetimi, API kullanımı, yazılım geliştirme süreçleri ve proje yönetimi gibi konular işlenir. Halk Eğitim Merkezi ve benzeri kurumların açtığı kursların süresi ve içeriği kuruma göre değişmekle birlikte, genellikle temel ve ileri düzey web programlama bilgisini kapsar.",
+  "belge": "Mesleki ve teknik ortaöğretim ile yükseköğretim programlarını tamamlayanlara diploma verilir. Kursları tamamlayanlara kurs bitirme belgesi/sertifika düzenlenir. Mesleki Yeterlilik Kurumu (MYK) belgeleri ve çeşitli uluslararası teknoloji sertifikaları istihdamda tercih sebebi olabilir."
+ },
+ "ek_bilgiler": "Teknoloji ve programlama dilleri sürekli değiştiğinden, bu meslekte çalışanların kendilerini düzenli olarak güncellemesi ve yeni araç/teknolojileri öğrenmesi gerekir. İş ilanlarında genellikle ilgili alanlarda ön lisans veya lisans mezuniyeti tercih edilmekle birlikte, güçlü proje portföyü ve pratik bilgi birikimi de işe alımda etkili olabilmektedir.",
+ "genel_ozellikler": [
+  "Analitik ve mantıksal düşünme yeteneğine sahip,",
+  "Matematik ve sayısal konularda başarılı,",
+  "Problem çözme becerisi gelişmiş,",
+  "Yeni teknolojileri takip etmeye ve öğrenmeye istekli,",
+  "Dikkatli ve sabırlı,",
+  "Takım çalışmasına uyumlu,",
+  "İngilizce bilgisine sahip,",
+  "Sorumluluk sahibi"
+ ],
+ "gorevler": [
+  "Web uygulamalarının arka plan (backend) veya ön yüz (frontend) kodlamasını yapar.",
+  "Veritabanı yapılarını tasarlar ve sorgu optimizasyonlarını yürütür.",
+  "API entegrasyonlarını ve sistemler arası iletişimi sağlar.",
+  "Yazılımın güvenlik testlerini ve hata ayıklama işlemlerini gerçekleştirir.",
+  "Sunucu yapılandırmalarını ve performans iyileştirmelerini takip eder.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Ön lisans mezunları, tamamlayıcı eğitimle lisans programlarına geçiş yapabilir. Lisans mezunları, yazılım mühendisliği veya ilgili alanlarda yüksek lisans eğitimi alarak uzmanlaşabilir. Ayrıca çeşitli teknoloji sertifika programlarıyla belirli alanlarda (bulut bilişim, siber güvenlik, veri tabanı yönetimi vb.) uzmanlık kazanılabilir.",
+  "is_hayatinda": "Deneyim kazanan İnternet Geliştiricileri; kıdemli geliştirici, ekip lideri, yazılım mimarı veya proje yöneticisi gibi pozisyonlara yükselebilir. Yeterli birikim ve sermayeye sahip olanlar kendi yazılım/web geliştirme işletmesini kurabilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Örgün eğitim (lise, ön lisans, lisans) sürecinde genellikle bir kazanç söz konusu değildir. Staj dönemlerinde bazı işletmeler sınırlı düzeyde staj ücreti ödeyebilir.",
+  "egitim_sonrasi": [
+   "İşe yeni başlayanlar genellikle asgari ücret düzeyinde veya buna yakın bir ücretle çalışmaya başlar.",
+   "Deneyim, uzmanlık alanı (backend, frontend, full-stack geliştirme) ve çalışılan sektöre göre ücret düzeyi yükselebilir.",
+   "Kamu kurumlarında 657 sayılı Devlet Memurları Kanunu'na, işçi statüsünde çalışanlarda ise ilgili toplu iş sözleşmesine göre ücretlendirme yapılır; özel sektörde ücret işveren ile yapılan anlaşmaya göre belirlenir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T05:55:37",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5883
+  }
+ }
+}

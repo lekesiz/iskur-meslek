@@ -1,0 +1,75 @@
+{
+ "arac_gerec": [
+  "Konverter (hidrojenleme reaktörü)",
+  "Pompalar",
+  "Valf ve vanalar",
+  "Katalizör dozajlama sistemi",
+  "Buhar kazanı",
+  "Basınç göstergeleri",
+  "Isı (sıcaklık) göstergeleri ve kontrol panelleri",
+  "Filtreler",
+  "Karıştırma tankları",
+  "Depolama tankları",
+  "Boru hatları ve bağlantı ekipmanları",
+  "Koruyucu eldiven, gözlük ve iş elbisesi",
+  "Solunum koruyucu maske",
+  "Numune alma ve kontrol ekipmanları"
+ ],
+ "benzer_meslekler": [
+  "Değirmen İşçisi (Yağlı Tohum)",
+  "Haşhaş Yağı İmal Ustası"
+ ],
+ "calisma_alanlari": "Hidrojenleme Operatörü, margarin, bitkisel yağ ve katı-sıvı yağ üretimi yapan gıda sanayi işletmelerinde, özellikle hidrojenleme (konverter) ünitelerinde istihdam edilir. Büyük ölçekli yağ fabrikaları ve entegre gıda üretim tesislerinde çalışma imkânı bulunmaktadır.\\n\\nİş bulma olanağı, bu tür üretim tesislerinin sayısına ve bölgesel yoğunluğuna bağlı olarak değişmektedir. Sektördeki istihdam, margarin ve bitkisel yağ üretim kapasitesindeki değişimlerden etkilenebilir.",
+ "calisma_ortami": "Hidrojenleme Operatörü, margarin ve yağ üretimi yapan fabrikalarda genellikle kapalı alanlarda, üretim/proses hatlarında çalışır. Çalışma ortamında hidrojen gazı kullanımı nedeniyle yangın ve patlama riski, katalizör gibi kimyasal maddelerle temas riski ve yüksek basınç-ısı içeren ekipmanlarla çalışma söz konusudur. Bu nedenle iş sağlığı ve güvenliği kurallarına tam uyum, koruyucu ekipman kullanımı ve düzenli bakım-kontrol büyük önem taşır.\\n\\nÜretim genellikle vardiyalı sistemle yürütülür; operatör çalışma süresi boyunca vardiya amiri, diğer operatörler, kalite kontrol personeli ve bakım teknisyenleriyle sıkı iletişim ve koordinasyon içinde görev yapar.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğe özgü, resmî olarak tanımlanmış ayrı bir çıraklık veya örgün eğitim programı bulunmamaktadır. Gıda teknolojisi alanındaki mesleki ve teknik eğitim programları temel bilgi düzeyinde katkı sağlayabilir; ancak hidrojenleme operatörlüğüne özgü uygulamalı bilgi ve beceri genellikle işyerlerinde deneyimli operatör veya usta gözetiminde işbaşında kazanılmaktadır. Ayrıca Halk Eğitim Merkezleri ve İŞKUR tarafından açılan gıda/yağ sanayine yönelik mesleki eğitim kurslarında da temel bilgiler edinilebilir.",
+  "giris_kosullari": [
+   "En az ilkokul/ilköğretim mezunu olmak",
+   "18 yaşını doldurmuş olmak (basınçlı ekipman ve kimyasal madde ile çalışma gerekliliği nedeniyle)",
+   "Sağlık durumunun bu işe elverişli olduğunu belgelemek (görme, işitme, solunum sağlığı açısından)",
+   "Bedensel olarak çalışmaya uygun ve dayanıklı olmak"
+  ],
+  "sure_ve_icerik": "Standart ve zorunlu bir eğitim süresi tanımlı değildir. İşe yeni başlayan kişi, genellikle belirli bir süre deneyimli bir operatör veya usta yanında işbaşı eğitimi alarak konverter, pompa ve valf kullanımını, katalizör ilavesini, ısı-basınç kontrolünü, ürün kontrolünü ve iş güvenliği kurallarını öğrenir. Süreç, işletmenin kendi iç eğitim programlarıyla desteklenebilir.",
+  "belge": "Çalışılan işletme tarafından verilen iç eğitim belgesi/sertifika söz konusu olabilir. Mesleki Yeterlilik Kurumu (MYK) Mesleki Yeterlilik Belgesi, zorunlu olmamakla birlikte istihdamda tercih sebebi olabilir."
+ },
+ "ek_bilgiler": "Bu meslekte hidrojen gazı ve katalizör gibi kimyasal maddelerle çalışma, yüksek basınç ve ısı içeren ekipmanların kullanımı nedeniyle çalışma riski bulunabilir; iş sağlığı ve güvenliği kurallarına eksiksiz uyulması önemlidir. Sektördeki istihdam olanakları, margarin ve bitkisel yağ üretim kapasitesine ve talebine göre değişkenlik gösterebilir.",
+ "genel_ozellikler": [
+  "Dikkatli ve tedbirli,",
+  "Kimyasal maddeler ve basınçlı ekipmanlarla çalışmaya uygun sağlık durumuna sahip,",
+  "Teknik gösterge ve ölçüm araçlarını okuyup yorumlayabilen,",
+  "Sorumluluk duygusu gelişmiş,",
+  "El-göz koordinasyonu iyi,",
+  "Talimat ve prosedürlere titizlikle uyan,",
+  "Ekip çalışmasına uyumlu,",
+  "Fiziksel olarak dayanıklı"
+ ],
+ "gorevler": [
+  "Rafine edilmiş katı ve sıvı yağların konvertere sevkini sağlayan pompaları çalıştırır.",
+  "Hidrojen, buhar, hava ve suyun konvertere akışını düzenleyen valfları çevirerek belirli miktarda katalizör maddesi ilave eder.",
+  "Mamulün istenilen vasıfta olup olmadığını kontrol eder.",
+  "Muamele edilmiş yağı karıştırma tanklarına sevk eden pompaları çalıştırır.",
+  "Isı ve diğer gerekli kontrol ve ayarları yapar.",
+  "Mamulü filtreden geçirerek depolama tanklarına sevk eden pompaları çalıştırır.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğe yönelik resmî, kademeli bir eğitim sistemi (çıraklık-kalfalık-ustalık) bulunmamaktadır. Operatör, deneyim kazandıkça işletme içi eğitimlerle bilgi ve becerisini geliştirebilir; isterse gıda teknolojisi veya kimya ile ilgili mesleki ve teknik eğitim programlarına ya da yükseköğretime yönelebilir.",
+  "is_hayatinda": "Deneyim ve bilgi birikimi arttıkça vardiya sorumlusu, usta başı veya üretim şefliği gibi görevlere yükselebilir; ileri düzeyde tecrübe ile üretim sorumluluğuna kadar ilerleyebilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Mesleğe özgü resmî bir çıraklık veya stajyerlik ücret düzenlemesi bulunmamaktadır. İşe yeni başlayıp işbaşı eğitimi alanlar genellikle asgari ücret düzeyinde kazanç sağlayarak çalışmaya başlar.",
+  "egitim_sonrasi": [
+   "Deneyimsiz operatörlerin kazancı genellikle asgari ücret düzeyindedir.",
+   "Deneyim, bilgi birikimi, işletme büyüklüğü ve sektör ücret düzeyine göre kazanç değişebilir.",
+   "Kamu kuruluşlarında işçi statüsünde çalışanların ücreti toplu iş sözleşmesi hükümlerine göre, özel sektörde ise işveren ile çalışan arasında karşılıklı olarak belirlenir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T15:23:43",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6188
+  }
+ }
+}

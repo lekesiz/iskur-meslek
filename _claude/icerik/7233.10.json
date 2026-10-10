@@ -1,0 +1,78 @@
+{
+ "arac_gerec": [
+  "El takımları (anahtar, pense, tornavida, çekiç, eğe takımları)",
+  "Ölçü ve kontrol aletleri (kumpas, mikrometre, komparatör, mastar, şablon)",
+  "Metal işleme tezgahları (torna, freze, matkap, taşlama tezgahı)",
+  "Kesme ve şekillendirme aletleri (testere, makas, pres)",
+  "Kaynak makinesi ve lehim takımları",
+  "Isıl işlem fırını",
+  "Kompresör ve basınçlı hava ekipmanları",
+  "Hidrolik ve pnömatik test takımları",
+  "Yağlama ve gresleme ekipmanları",
+  "Çizim ve işaretleme malzemeleri (çizecek, pergel, mihengir)",
+  "Kişisel koruyucu donanım (eldiven, gözlük, iş elbisesi)"
+ ],
+ "genel_ozellikler": [
+  "Şekilleri ve ölçüleri doğru algılayabilen,",
+  "Makine parçaları arasındaki ilişkiyi ve işleyişi kavrayabilen,",
+  "El becerisine ve el-göz koordinasyonuna sahip,",
+  "Dikkatli, sabırlı ve düzenli çalışabilen,",
+  "Alet, makine ve malzemelerle çalışmaktan hoşlanan,",
+  "Teknik resim okuyabilen ve ölçü aletlerini doğru kullanabilen,",
+  "Sorumluluk sahibi ve ekip içinde uyumlu çalışabilen"
+ ],
+ "calisma_ortami": "Makine montaj ve bakım onarımcıları genellikle atölye, fabrika veya imalathane gibi kapalı mekanlarda çalışır; iş makinesi, ekipman veya üretim hattı üzerinde çalışma gerektiren durumlarda açık alanda veya saha ortamında da görev yapabilirler. Çalışma ortamı gürültülü, yağlı ve kirli olabilir; kışın soğuk, yazın sıcak koşullarla karşılaşılabilir. Keskin aletler, kaynak, ısıl işlem ve ağır parçalarla çalışma nedeniyle iş kazası riski bulunduğundan iş sağlığı ve güvenliği kurallarına uyum önemlidir.\n\nÇalışma genellikle gündüz saatlerinde olmakla birlikte, üretimin sürekliliğinin gerektiği işyerlerinde vardiyalı çalışma söz konusu olabilir. Meslek sahipleri; usta başı, mühendis, teknisyen gibi meslektaşlarıyla ve bazı durumlarda müşteri veya işveren ile yakın iletişim kurar; işlerini çoğunlukla takım halinde yürütür.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi, yeterli talep olması halinde mesleki eğitim merkezlerinde \"Makine Teknolojisi\" alanı ile ilişkili dallarda çıraklık, kalfalık ve ustalık eğitimi olarak verilmektedir. Aynı şekilde mesleki ve teknik ortaöğretim kurumlarının ilgili alan ve dallarında da bu mesleğe yönelik eğitim verilebilir. Ayrıca Halk Eğitim Merkezleri ile İŞKUR tarafından açılan mesleki eğitim kursları ve işyerlerinde usta yanında uygulamalı eğitim yoluyla da mesleğe giriş mümkündür.",
+  "giris_kosullari": [
+   "En az ortaokul mezunu olmak",
+   "14 yaşını doldurmuş olmak",
+   "Mesleğin öğrenimine sağlık durumu açısından uygun olmak (gerektiğinde sağlık raporu ile belgelendirilir)",
+   "Çıraklık eğitimi için ilgili işyeri ile çıraklık sözleşmesi imzalamak"
+  ],
+  "sure_ve_icerik": "Mesleki eğitim merkezlerinde eğitim genellikle 3-4 yıl sürer; bu sürenin bir bölümü kalfalık, son yılı ise ustalık eğitimine ayrılır. Eğitim haftanın bir günü mesleki eğitim merkezinde teorik ders, diğer günlerde ise sözleşme yapılan işyerinde usta öğreticinin gözetiminde uygulamalı çalışma şeklinde yürütülür. Programda genel kültür dersleri, meslek bilgisi ve teknik resim, ölçme-kontrol, malzeme bilgisi, kaynak-lehim ve makine elemanları gibi konular yer alır. Formel eğitim olanağı bulunmayan bölgelerde meslek, usta-çırak ilişkisi içinde işbaşında da öğrenilebilir.",
+  "belge": "Eğitimi başarıyla tamamlayanlara kalfalık, ardından ustalık belgesi verilir. Fark derslerinin tamamlanması halinde meslek lisesi diploması ve işyeri açma belgesi alınabilir. Mesleki Yeterlilik Kurumu (MYK) tarafından verilen mesleki yeterlilik belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Makine montaj ve bakım onarımcıları, makine imalatı yapan fabrikalarda, çeşitli sektörlere (tekstil, gıda, metal, tarım, otomotiv, enerji vb.) hizmet veren üretim tesislerinin bakım-onarım birimlerinde, makine ve ekipman satış-servis firmalarında, özel tamir atölyelerinde çalışabilirler. Ayrıca belediyeler, karayolları, DSİ gibi kamu kuruluşlarının makine parkı bakım birimlerinde de istihdam edilebilirler. Deneyim kazandıktan sonra kendi bakım-onarım işyerini açmaları da mümkündür.",
+ "kazanc": {
+  "egitim_suresince": "3308 sayılı Mesleki Eğitim Kanunu kapsamında işletmelerde mesleki eğitim gören öğrencilere, işyerinin çalışan sayısına göre belirlenen oranlarda asgari ücretin net tutarından aşağı olmamak üzere ücret ödenir. Eğitim gören öğrencilerin iş kazası ve meslek hastalığı sigortası primleri devletçe karşılanır.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında çalışanlar 657 sayılı Devlet Memurları Kanunu veya ilgili toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde yeni başlayanların kazancı genellikle asgari ücret düzeyindedir; deneyim, bilgi, beceri ve işyeri büyüklüğüne göre bu kazanç artabilir.",
+   "Kendi işyerini açanların geliri, işin hacmine ve müşteri potansiyeline bağlı olarak değişkenlik gösterir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleki eğitim merkezi veya meslek lisesinden mezun olanlar, YKS Kılavuzunda belirtilen ilgili ön lisans/lisans programlarına ek puan alarak yerleşebilirler. Mesleki bilgi ve becerilerini geliştirmek isteyenler, çeşitli kurs ve seminerlere katılabilirler.",
+  "is_hayatinda": "Deneyim kazandıkça usta öğreticilik, ekip/bakım şefliği ve bakım sorumluluğu gibi pozisyonlara yükselebilirler. Mesleki gelişim kurslarına katılarak farklı makine türlerinde uzmanlaşabilirler. Yeterli deneyim ve sermayeye sahip olanlar kendi bakım-onarım atölyelerini açabilirler."
+ },
+ "benzer_meslekler": [
+  "Makine Bakım Ustası",
+  "Makine Kurma ve Tesisat İşçisi",
+  "Mekanik Bakım ve Onarımcısı (Motorlu Taşıtlar Hariç)",
+  "İş Makineleri Tamircisi",
+  "Makine Bakım ve Onarımcısı",
+  "Kestirimci Bakım Elemanı"
+ ],
+ "ek_bilgiler": "Çalışılan sektöre ve işin niteliğine göre bu meslek, 6331 sayılı İş Sağlığı ve Güvenliği Kanunu kapsamında tehlikeli veya çok tehlikeli işler sınıfında değerlendirilebilir; bu durumda belirli işlemler için Mesleki Yeterlilik Kurumu (MYK) belgesi istenebilir veya tercih sebebi olabilir. Sanayi üretiminin ve makineleşmenin arttığı bölgelerde bu mesleğe olan talep görece yüksektir.",
+ "gorevler": [
+  "Yapılacak parçanın resim ve özelliklerini inceler ya da genel tanıma göre kendi çizim ve özelliklerini hazırlar.",
+  "Ölçüleri hesaplar ve işlem sırasını planlar.",
+  "İşlenecek metali ölçer, ölçü ve işaret noktalarını metal üzerine işaretler.",
+  "Metal parçayı özelliğine göre kesmek ve biçim vermek için tezgahı ayarlar ve çalıştırır.",
+  "Yapılan işi mikrometre, şablon ve diğer ölçü aletleriyle kontrol eder.",
+  "Metal parçalara ısıl işlem uygulayarak sertleştirir.",
+  "Bağlantı yerlerini ve çatalları lehimler, kaynak yapar.",
+  "Makine parçalarını yerine tesis eder ve onarır.",
+  "Arızalı parçalardan kaynaklanan hatalı çalışmayı belirlemek için makinenin çalışmasını gözleyerek ya da cihazlarla test yaparak yeni ve onarılmış makineleri inceler.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T02:41:06",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6077
+  }
+ }
+}

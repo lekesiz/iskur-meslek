@@ -1,0 +1,95 @@
+{
+ "arac_gerec": [
+  "Ekstruder (pişirme-şekillendirme) makinesi",
+  "Kuru karışım ve hamur hazırlama tankları/mikserleri",
+  "Pul/yaprak haline getirme (flaking) merdaneleri",
+  "Ön kurutma ve kurutma fırınları",
+  "Kaplama/şurup hazırlama tankı ve kaplama ünitesi",
+  "Soğutma bantları",
+  "Taşıma ve dozajlama bantları",
+  "Ara depolama siloları/bunkerleri",
+  "Ambalajlama ve paketleme makineleri",
+  "Tartı ve dozajlama ekipmanları",
+  "Nem ve sıcaklık ölçüm cihazları",
+  "Periyodik bakım ve basit tamir el aletleri",
+  "Bone, maske, eldiven ve koruyucu iş elbisesi"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve titiz,",
+  "Hijyen ve gıda güvenliği kurallarına duyarlı,",
+  "El ve göz koordinasyonu iyi,",
+  "Fiziksel olarak dayanıklı,",
+  "Makine ve teknik sistemlere ilgili,",
+  "Ekip çalışmasına uyumlu,",
+  "Talimatlara ve prosedürlere uyan,",
+  "Vardiyalı çalışma düzenine uyum sağlayabilen"
+ ],
+ "calisma_ortami": "\"Kahvaltılık Gevrek Üretim Operatörü, kahvaltılık tahıl ürünleri üreten gıda fabrikalarının üretim hatlarında, genellikle kapalı ve kontrollü sıcaklık/nem koşullarına sahip alanlarda çalışır. Çalışma ortamı makine gürültüsü, buhar, toz ve kokuya açık olabilir; ayakta ve hareketli bir çalışma temposu gerektirir. Üretim sürekliliği gereği genellikle vardiyalı (gündüz/gece) çalışılır.\\n\\nÇalışma sırasında üretim hattındaki diğer operatörler, bakım-onarım personeli, kalite kontrol ve vardiya sorumlusu ile sürekli iletişim halindedir. İş sağlığı ve güvenliği ile gıda hijyeni kurallarına uyum, koruyucu giysi (bone, maske, eldiven, iş elbisesi) kullanımı zorunludur; dönen/hareketli makine aksamları, sıcak yüzeyler ve buhar nedeniyle dikkatli çalışılması gereken bir meslektir.\"",
+ "egitim": {
+  "verildigi_yerler": "Bu meslek için örgün bir mesleki ve teknik eğitim programı (çıraklık/meslek lisesi dalı) bulunmamaktadır. Mesleğe giriş genellikle ilköğretim sonrası doğrudan işe alım ve işbaşında usta yanında yetişme yoluyla olur. Ayrıca Halk Eğitim Merkezleri ile İŞKUR'un açtığı gıda üretimi ve gıda hijyeni/güvenliği konulu mesleki eğitim kursları da temel bilgi ve beceri kazandırılmasında kullanılabilir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "18 yaşını doldurmuş olmak (vardiyalı ve fiziksel güç gerektiren üretim işleri nedeniyle işletmelerce tercih edilir)",
+   "Sağlık durumunun gıda üretiminde çalışmaya uygun olması (gerektiğinde sağlık raporu ile belgelendirilir)",
+   "Gıda hijyeni ve güvenliği ile ilgili alerji/bulaşıcı hastalık açısından bir engeli bulunmaması"
+  ],
+  "sure_ve_icerik": "Mesleğin resmi olarak tanımlanmış bir eğitim süresi bulunmamaktadır. Eğitim; işe alındıktan sonra işletme içinde deneyimli bir operatör/usta gözetiminde, makine ve ekipman tanıma, üretim süreçlerinin (karışım/hamur hazırlama, kurutma, kaplama, soğutma, ambalajlama) uygulamalı olarak öğrenilmesi şeklinde, genellikle birkaç haftadan birkaç aya kadar sürebilen işbaşı eğitimi biçiminde verilir. Bu sürece ek olarak gıda hijyeni, iş sağlığı ve güvenliği konularında kısa süreli kurslara da katılım sağlanabilir.",
+  "belge": "Mesleğe özgü zorunlu bir diploma veya sertifika bulunmamaktadır. Katılınan kurslar sonunda kurs bitirme belgesi, çalışılan işyerinden ise hizmet/deneyim belgesi alınabilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, ilgili alanda var olduğu durumlarda istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "\"Kahvaltılık Gevrek Üretim Operatörü, başta kahvaltılık tahıl gevreği (mısır gevreği, buğday/yulaf gevreği vb.) olmak üzere tahıl bazlı kahvaltılık ürünler üreten gıda fabrikalarının üretim hatlarında çalışır. Bu tür üretim genellikle büyük ölçekli gıda sanayi kuruluşlarında yapıldığından, iş imkânları ağırlıklı olarak büyük ve organize sanayi bölgelerinde kurulu kahvaltılık tahıl ürünleri üreticileri ile bazı un ve tahıl işleme tesislerinde bulunmaktadır.\"",
+ "kazanc": {
+  "egitim_suresince": "Resmi bir çıraklık/stajyerlik programı bulunmadığından, işe yeni başlayanlara işletmenin belirlediği ücret ödenir; bu dönemde kazanç genellikle asgari ücret düzeyindedir.",
+  "egitim_sonrasi": [
+   "Kazanç; çalışılan işletmenin büyüklüğü, kişinin deneyimi, bilgi ve beceri düzeyi, vardiya ve fazla çalışma durumuna göre değişebilir.",
+   "Özel sektörde ücret, işveren ile çalışan arasında karşılıklı anlaşma ve toplu iş sözleşmesi hükümlerine göre belirlenir.",
+   "Deneyim kazandıkça ve sorumluluk üstlendikçe kazanç düzeyi genellikle artış gösterir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğe yönelik ayrı bir örgün eğitim basamağı bulunmamakla birlikte, Gıda Teknolojisi, Gıda Mühendisliği gibi alanlarda ön lisans veya lisans eğitimi alarak teknik bilgi düzeyi artırılabilir. Gıda güvenliği, hijyen ve üretim teknolojilerine yönelik kurslara katılarak mesleki bilgi ve beceriler geliştirilebilir.",
+  "is_hayatinda": "Deneyim ve bilgi birikimi arttıkça hat/vardiya sorumluluğu, bakım koordinasyonu gibi görevler üstlenilebilir; ilerleyen süreçte üretim şefliği veya kalite kontrol gibi pozisyonlara yükselme imkânı bulunmaktadır."
+ },
+ "benzer_meslekler": [
+  "Fırın ve Unlu Mamuller Üretim Operatörü",
+  "Gıda İşlemecisi",
+  "Gıda Kurutma Fırın Operatörü",
+  "Un İmal İşçisi",
+  "Un İmal Ustası",
+  "Tarhana İmal İşçisi"
+ ],
+ "ek_bilgiler": "\"Kahvaltılık tahıl ürünleri sektörü, ambalajlı gıda tüketiminin artmasına bağlı olarak büyüme eğilimindedir. İşletmelerde ISO 22000, HACCP gibi gıda güvenliği yönetim sistemlerine ilişkin bilgi ve deneyim, iş bulma ve ilerleme açısından avantaj sağlayabilir.\"",
+ "gorevler": [
+  "İş sağlığı ve güvenliği ile çevre güvenliği önlemlerini uygular.",
+  "İş organizasyonu yapar.",
+  "Kalite, verimlilik ve gıda güvenilirliği kurallarını uygular.",
+  "Üretimde gıda hijyeni kurallarını uygular.",
+  "Üretim öncesi makine ve ekipmanı üretime hazır hale getirir.",
+  "Ekipmanın ve hatların sanitasyonunu sağlar.",
+  "Üretimde kullanılacak bileşenleri temin eder.",
+  "Kahvaltılık tahıl gevreği üretir.",
+  "Kuru karışım, ekstruder şurubu, hamur hazırlar.",
+  "Ön kurutma yapar.",
+  "Kahvaltılık tahıl gevreği üretir.",
+  "Yarı mamulü pul/yaprak şeklinde ezer.",
+  "Kurutma yapar.",
+  "Kaplama şurubu hazırlar, kaplama yapar.",
+  "Ürünü soğutur.",
+  "Banttan çıkan ürünlerin ara depolanmasını yapar.",
+  "Ambalajlama ve paketleme yapar.",
+  "Ambalajlama için ön hazırlık yapar.",
+  "Ürünleri ambalajlar.",
+  "Ambalajlanan ürünleri teslim eder.",
+  "Makine ve ekipmanın periyodik bakımlarını yapar.",
+  "Makine ve ekipmanın rutin kontrollerini yapar.",
+  "Makine ve ekipmanın arızalarının giderilmesini sağlar.",
+  "Mesleki gelişim faaliyetlerine katılır."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T16:14:04",
+  "usage": {
+   "input_tokens": 4,
+   "output_tokens": 10557
+  }
+ }
+}

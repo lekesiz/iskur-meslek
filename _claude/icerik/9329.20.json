@@ -1,0 +1,72 @@
+{
+ "arac_gerec": [
+  "Yalıtım malzemesi (presbant)",
+  "Bakır tel (çeşitli kalınlıklarda)",
+  "Manuel ve otomatik sargı makineleri",
+  "Lehim havyası/makinesi ve lehim teli",
+  "Kısa devre ve yalıtım test cihazları (ohmmetre, megger)",
+  "Sarım şablonu ve şema/çizimler",
+  "Vernik ve vernikleme ekipmanları",
+  "Kurutma fırını",
+  "El aletleri (pense, tornavida, kesici, sıyırıcı)",
+  "Koruyucu eldiven ve gözlük gibi kişisel koruyucu donanım"
+ ],
+ "genel_ozellikler": [
+  "El becerisine sahip,",
+  "Dikkatli ve sabırlı,",
+  "Görme sağlığı ve el-göz koordinasyonu iyi,",
+  "Küçük parçalarla uzun süre dikkatini dağıtmadan çalışabilen,",
+  "Elektrik akımına karşı tedbirli ve iş güvenliği kurallarına uyan,",
+  "Şema ve çizim okuyabilen,",
+  "Sorumluluk sahibi,",
+  "Takım halinde çalışmaya uyumlu"
+ ],
+ "calisma_ortami": "Rotor bobini sarma işçisi, genellikle elektrik motoru imalatı veya bakım-onarımı yapılan fabrika ve atölyelerde, kapalı mekânda çalışır. Çalışma sırasında oturarak veya ayakta, bazen eğilerek ve küçük parçalara yakından bakarak uzun süre dikkatini vermesi gerekir. Lehimleme sırasında ortaya çıkan duman, metal tozu ve vernik kokusuna maruz kalabilir; elektrik çarpması riski bulunduğundan iş sağlığı ve güvenliği kurallarına ve kişisel koruyucu donanım kullanımına özellikle dikkat edilmesi gerekir.\n\nMeslek elemanı işini genellikle atölye içinde diğer işçilerle birlikte, ustabaşı veya usta gözetiminde yürütür. Çalışma saatleri işyerinin genel çalışma düzenine bağlı olup, iş yoğunluğuna göre vardiyalı çalışma söz konusu olabilir. Çalışma sırasında ustabaşı, kalite kontrol elemanları ve diğer atölye çalışanlarıyla iletişim kurar.",
+ "egitim": {
+  "verildigi_yerler": "Bu meslek için örgün mesleki ve teknik eğitim kurumlarında ayrı bir dal bulunmamaktadır. Meslek, genellikle işyerlerinde usta yanında işbaşında yetişme yoluyla öğrenilir. Ayrıca Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kurslarında temel elektrik sargı işçiliği eğitimi verilebilmektedir. Elektrik-elektronik teknolojisi alanındaki mesleki ve teknik eğitim programları ilgili temel bilgileri kazandırabilir.",
+  "giris_kosullari": [
+   "Okuryazar olmak",
+   "Kurslara katılabilmek için genellikle en az ilkokul/ilköğretim mezunu olmak",
+   "El becerisine ve yeterli görme sağlığına sahip olmak"
+  ],
+  "sure_ve_icerik": "Meslek çoğunlukla işyerinde usta-çırak ilişkisi içinde uygulamalı olarak öğrenilir; süresi kişinin öğrenme hızına ve işyerinin ihtiyacına göre değişir. Açılan kurslarda ise süre ve içerik düzenleyen kuruma göre farklılık gösterebilir; genel olarak temel elektrik bilgisi, sargı şemalarını okuma, tel sarma teknikleri, lehimleme ve kalite kontrol konuları işlenir.",
+  "belge": "İşbaşında yetişenlere işveren tarafından düzenlenen bir çalışma/katılım belgesi; kurslara katılanlara ise kursu düzenleyen kurumdan (Halk Eğitim Merkezi, İŞKUR vb.) katılım veya başarı belgesi verilir. Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Rotor bobini sarma işçileri; elektrik motoru, jeneratör, dinamo ve benzeri elektrik makineleri üreten fabrikalarda, bu makinelerin bakım ve onarımını yapan atölyelerde, sanayi sitelerindeki elektrik motor tamirhanelerinde ve büyük sanayi işletmelerinin elektrik bakım atölyelerinde çalışabilirler. Elektrik motorlarının sanayide ve günlük hayatta yaygın kullanımı nedeniyle bu meslek elemanlarına özellikle sanayi bölgelerinde ihtiyaç duyulmaktadır.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğe işbaşında usta yanında başlayanlar, çalıştıkları işveren ile aralarındaki anlaşmaya göre ücret alır; bu dönemde kazanç genellikle asgari ücret düzeyinde veya bu düzeyin altında olabilir. Örgün çıraklık/mesleki eğitim kapsamında yetişenler için 3308 sayılı Mesleki Eğitim Kanunu hükümleri uygulanabilir.",
+  "egitim_sonrasi": [
+   "Özel sektörde çalışanların kazancı genellikle asgari ücret düzeyinde başlar; işyerinin büyüklüğü, kişinin deneyimi, bilgi ve becerisine göre artış gösterebilir.",
+   "Kamuya bağlı işletmelerde işçi statüsünde çalışanların ücreti ilgili toplu iş sözleşmesi hükümlerine göre belirlenir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Bu meslek için örgün bir ilerleme basamağı bulunmamaktadır. Kişi, elektrik-elektronik alanında açılan kurslara ve sertifika programlarına katılarak bilgi ve becerisini geliştirebilir; isteyenler açık öğretim yoluyla örgün eğitime devam ederek mesleki ve teknik eğitim veznesinde ilerleme sağlayabilir.",
+  "is_hayatinda": "Deneyim ve bilgi birikimi arttıkça usta, ustabaşı veya atölye sorumlusu konumuna yükselme imkânı vardır. Yeterli birikime ulaşanlar kendi işini kurarak elektrik motoru bakım-onarım veya sargı atölyesi açabilir."
+ },
+ "benzer_meslekler": [
+  "Stator Bobini Sarma İşçisi",
+  "Transformatör sarma işçisi",
+  "Bobin Sarma İşçisi - Elektrik",
+  "Bobinaj Sarma İşçisi (Elle)-Elektrik",
+  "Elektrik Malzemesi Montaj İşçisi",
+  "Bobin Aktarma İşçisi"
+ ],
+ "ek_bilgiler": "Meslek elemanları çalışma sırasında elektrik çarpması, lehim dumanı ve vernik buharına karşı iş sağlığı ve güvenliği kurallarına uymalı, kişisel koruyucu donanım kullanmalıdır.",
+ "gorevler": [
+  "Rotor kanallarını temizler ve yalıtım malzemelerini (presbant) yerleştirir,",
+  "Bakır telleri rotor üzerine şemaya uygun şekilde manuel veya makineyle sarar,",
+  "Bobin uçlarını kolektör dilimlerine bağlar ve lehimler,",
+  "Sargıların sağlamlığını ve elektriksel kısa devre kontrollerini yapar,",
+  "Rotorun vernikleme ve kurutma işlemlerini takip eder,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T20:12:42",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5549
+  }
+ }
+}

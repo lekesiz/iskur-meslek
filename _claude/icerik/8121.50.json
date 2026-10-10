@@ -1,0 +1,86 @@
+{
+ "arac_gerec": [
+  "Döküm potası",
+  "Taban plakası",
+  "Merkez yolluğu",
+  "Döküm kalıpları",
+  "Döküm arabası",
+  "Vinç/kren",
+  "Kepçe",
+  "Isıya dayanıklı koruyucu iş elbisesi ve önlük",
+  "Baret",
+  "Yüz siperi/koruyucu gözlük",
+  "Isıya dayanıklı eldiven ve ayakkabı",
+  "Pirometre (sıcaklık ölçüm cihazı)",
+  "Numune alma kaşığı/kalıbı",
+  "Çapak temizleme aletleri (keski, çapak alma makası)",
+  "Forklift"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli,",
+  "Fiziksel olarak güçlü ve dayanıklı,",
+  "Yüksek sıcaklık ve ağır çalışma koşullarına uyumlu,",
+  "El ve göz koordinasyonu gelişmiş,",
+  "Hızlı ve doğru karar verebilen,",
+  "Sorumluluk sahibi,",
+  "İş güvenliği kurallarına titizlikle uyan,",
+  "Ekip çalışmasına yatkın,"
+ ],
+ "calisma_ortami": "İngot Dökümcüsü, demir-çelik üretim tesislerinin çelikhane ve döküm bölümlerinde, kapalı alanlarda çalışır. Çalışma ortamı erimiş metal nedeniyle yüksek sıcaklıktır; ayrıca gürültü, duman, kıvılcım ve yanma riski gibi fiziksel zorluklar bulunur. Çalışma sırasında ağır ve sıcak malzeme ile temas edildiğinden iş güvenliği ekipmanlarının eksiksiz kullanılması ve emniyet tedbirlerine tam uyulması gerekir.\n\nÜretim sürecinin kesintisiz işlemesi nedeniyle genellikle vardiyalı (gece-gündüz) çalışma düzeni uygulanır. Meslek elemanı, döküm ekibindeki diğer işçilerle, vardiya amiriyle ve kalite kontrol personeliyle sürekli iş birliği içinde, ekip halinde çalışır.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi için ayrı bir örgün okul programı bulunmamaktadır. Eğitim genellikle işbaşında, deneyimli ustaların gözetiminde uygulamalı olarak kazanılır. Metal Teknolojisi alanındaki mesleki ve teknik eğitim programları ile mesleki eğitim merkezlerindeki ilgili dallar, Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kursları da bu mesleğe temel oluşturabilir.",
+  "giris_kosullari": [
+   "En az ilkokul/ortaokul mezunu olmak",
+   "Fiziksel olarak sağlıklı ve yüksek sıcaklıkta ağır işte çalışmaya uygun olmak",
+   "18 yaşını doldurmuş olmak (işin ağır ve tehlikeli niteliği nedeniyle)",
+   "İş sağlığı ve güvenliği eğitimlerini tamamlamak"
+  ],
+  "sure_ve_icerik": "Belirli bir resmi eğitim süresi tanımlı değildir. İşe yeni başlayanlar, bir süre deneyimli bir dökümcünün yanında yardımcı olarak çalışarak döküm hazırlığı, pota kullanımı, kalıp hazırlama, döküm sıcaklığının ayarlanması ve emniyetli döküm uygulamaları gibi işlemleri uygulamalı olarak öğrenir. Bu süreçte temel metalürji, iş güvenliği ve ekipman kullanımı konularında işletme içi eğitimler verilebilir.",
+  "belge": "Örgün bir diploma veya sertifika zorunluluğu bulunmamaktadır; işletme tarafından düzenlenen katılım/deneyim belgesi verilebilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, özellikle tehlikeli ve çok tehlikeli işler kapsamında değerlendirildiğinde istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "İngot Dökümcüleri, demir-çelik üretim tesisleri, entegre çelikhaneler ve dökümhanelerin döküm bölümlerinde istihdam edilir. Çalışma alanları genellikle kamuya veya özel sektöre ait büyük ölçekli metal üretim fabrikalarıdır. Bu tesislerin sayıca sınırlı olması nedeniyle iş bulma olanakları, metal üretiminin yoğun olduğu sanayi bölgeleriyle sınırlıdır; ancak deneyimli ve iş güvenliği bilgisi yüksek elemanlara talep sürekli olabilir.",
+ "kazanc": {
+  "egitim_suresince": "Eğitim resmi bir çıraklık programı kapsamında verilmediğinden, işe yeni başlayanlar genellikle işletmenin belirlediği giriş ücreti üzerinden, asgari ücret düzeyinde kazanç sağlar. İşyerinde eğitim gören kişilerin sigorta işlemleri işveren tarafından mevzuata uygun olarak yürütülür.",
+  "egitim_sonrasi": [
+   "Kamu sektöründe istihdam edilenler 657 sayılı Devlet Memurları Kanunu'na veya işçi statüsünde çalışıyorsa yürürlükteki toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde çalışanların ücreti işin niteliği, deneyim, işletmenin büyüklüğü ve çalışma koşullarına (vardiya, risk) göre değişir; yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar, deneyim kazandıkça ücret artabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğe özgü kademeli bir örgün eğitim programı bulunmadığından ilerleme büyük ölçüde iş başında kazanılan deneyime bağlıdır. İsteyen kişiler ilgili metal teknolojisi alanındaki mesleki ve teknik eğitim programlarına veya meslek yüksekokulu düzeyindeki metalürji programlarına devam ederek bilgi ve beceri düzeyini artırabilir.",
+  "is_hayatinda": "Deneyim ve performansa bağlı olarak usta döküm işçiliğine, ekip liderliğine, vardiya amirliğine veya döküm şefliği gibi pozisyonlara yükselme imkanı bulunur. İleri düzeyde deneyim kazananlar üretim planlama ve kalite kontrol birimlerinde görev alabilir."
+ },
+ "benzer_meslekler": [
+  "Potacı-Dökümcü",
+  "İngot Kalıp Hazırlama İşçisi",
+  "Kupol Ocağı Operatörü",
+  "Çelikhane İşçisi",
+  "Şarj İşçisi (Kupola Ocağı)",
+  "Kontinü Döküm Operatörü (Çelik)"
+ ],
+ "ek_bilgiler": "Erimiş metalle doğrudan çalışma riski taşıyan bu meslek, iş sağlığı ve güvenliği açısından yüksek dikkat gerektirir; işletmelerde bu nedenle kapsamlı güvenlik eğitimi ve koruyucu donanım kullanımı önemlidir. Mesleki Yeterlilik Kurumu (MYK) belgesi, işe alımlarda tercih sebebi olabilir.",
+ "gorevler": [
+  "Talimatlar doğrultusunda dökümü planlar, döküm öncesi hazırlıkları tamamlar.",
+  "Taban plakası, merkez yolluğu ve kalıpları hazır hale getirir.",
+  "Hazır hale gelen malzemeleri döküm arabası üzerine yerleştirir.",
+  "Döküm için malzemeleri taşır.",
+  "Potayı merkez yolluğu ile merkezler.",
+  "Döküm sıcaklık ve hızını talimatlara uygun olarak ayarlar ve kontrollerini yapar.",
+  "Dökümün emniyetli bir şekilde gerçekleşmesini sağlar.",
+  "Dökümden numune alır.",
+  "Çapak temizler.",
+  "Dökümü kalıptan sıyırır.",
+  "Çıkan ingotları ilgili birime nakleder.",
+  "Kullanılan malzemenin (pota, yolluk, plaka, sürgü sistemi, kalıplar) bakımını yapar.",
+  "Kullanılan malzeme ve ortamın düzen ve temizliğini sağlar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T11:23:12",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5726
+  }
+ }
+}

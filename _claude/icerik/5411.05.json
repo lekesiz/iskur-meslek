@@ -1,0 +1,88 @@
+{
+ "arac_gerec": [
+  "İtfaiye aracı (arazöz)",
+  "Yangın söndürme hortumu ve lans",
+  "Su, köpük ve kuru kimyasal toz/CO2 söndürücü maddeler",
+  "Motopomp",
+  "Merdivenli/sepetli itfaiye aracı ve teleskopik merdiven",
+  "Atlama çarşafı ve atlama yastığı",
+  "Solunum cihazı ve gaz maskesi",
+  "Koruyucu yangın elbisesi, kask, bot ve eldiven",
+  "İlk yardım çantası ve malzemeleri",
+  "Kurtarma ekipmanları (hidrolik makas, balyoz, halat, çelik kesici)",
+  "Telsiz ve haberleşme cihazları",
+  "Baca temizleme ekipmanları"
+ ],
+ "genel_ozellikler": [
+  "Fiziksel olarak güçlü ve dayanıklı,",
+  "Soğukkanlı, stresli ve tehlikeli durumlarda hızlı ve doğru karar verebilen,",
+  "Ekip çalışmasına yatkın, disipline uyan,",
+  "Cesur ve sorumluluk duygusu gelişmiş,",
+  "İnsan hayatını önceleyen, yardımsever,",
+  "Dikkatli, tedbirli ve talimatlara uyan,",
+  "Kapalı ve dar alanlarda, yükseklikte çalışmaktan çekinmeyen"
+ ],
+ "calisma_ortami": "İtfaiyeciler, görev yaptıkları itfaiye istasyonunda (karargâh) nöbet usulüyle çalışır; nöbet süresince hem kapalı mekanlarda (koğuş, eğitim salonu, araç bakım hangarı) hem de açık alanda (nizamiye nöbeti, tatbikat sahası) bulunurlar. Yangın ve kurtarma olaylarına müdahale sırasında ise açık havada, bazen yüksekte, dar ve kapalı alanlarda, dumanlı, sıcak, gürültülü ve yüksek riskli ortamlarda çalışırlar. Görev, can ve mal kaybı riski taşıyan fiziksel olarak yorucu çalışmaları içerir; vardiyalı sistemde, gece ve hafta sonları dahil düzensiz saatlerde, ekip arkadaşları, amirleri, olaydan etkilenen vatandaşlar, sağlık ve güvenlik görevlileriyle yakın iş birliği içinde görev yapılır.\n\nİş sağlığı ve güvenliği açısından yüksek riskli bir meslek olduğundan, koruyucu ekipman kullanımı ve ekip disiplinine titizlikle uyulması esastır. Yıpranma payı dikkate alınarak çalışanlar genellikle daha erken emekliliğe hak kazanabilir.",
+ "calisma_alanlari": "İtfaiyeciler büyükşehir, il ve ilçe belediyelerine bağlı itfaiye teşkilatlarında, organize sanayi bölgelerinin itfaiye birimlerinde, havalimanlarının yangın söndürme ve kurtarma birimlerinde (ARFF), büyük sanayi tesisleri, fabrikalar, limanlar, AVM'ler ve termik santraller gibi işletmelerin kendi bünyesinde kurduğu yangın söndürme ekiplerinde görev alabilirler. Meslekte istihdamın büyük bölümü kamu kurumları (özellikle belediyeler) üzerinden gerçekleşmekte olup, bu kurumlar belirli dönemlerde sınavla personel almaktadır. Nüfus artışı, kentleşme ve sanayileşmeyle birlikte itfaiye hizmetlerine duyulan ihtiyaç sürekli olarak devam etmektedir.",
+ "ek_bilgiler": "İtfaiyecilik, yüksek risk içeren tehlikeli ve çok tehlikeli işler kapsamında değerlendirilen bir meslektir; bu nedenle işe alımlarda kurumlarca boy, kilo, beden kitle endeksi ve genel sağlık durumu gibi fiziksel yeterlilik şartları aranabilir. Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir. Belediyeler ve diğer kamu kurumları, personel alımlarını genellikle duyurulu sınav ve mülakat yoluyla yapmaktadır.",
+ "gorevler": [
+  "Yaygım malzemelerini hazırlar ve bakımını yapar.",
+  "İçtimalara ve karargah hizmetlerine katılır.",
+  "Nizamiye nöbeti tutar ve günlük eğitime katılır.",
+  "Yangın veya kurtarma sonrası itfaiye aracının su, köpük ve kimyasal söndürücü bakımını yapar.",
+  "Söndürme ve kurtarma çalışmalarında olay türüne göre düzen alır ve can kurtarma çalışmaları yapar.",
+  "İlk yardım yapar.",
+  "Hortum serer ve yangın türüne göre hortuma takılacak lansı seçer.",
+  "Merdivenli araçları merdiven sepetinden yönlendirir.",
+  "Atlama çarşafı tüneli ve yastığı açar.",
+  "Yangın türüne göre yangın merkezine su, köpük, kuru kimyasal toz, CO2 uygular.",
+  "Yangın yerinde su takviyesi yapar.",
+  "Yangın çevresine soğutma yapar.",
+  "Yangın söndürüldükten sonra kullanılan malzemeleri toplar.",
+  "Konut ve işyerlerinden motopomp ile su tahliye eder.",
+  "Yangın ve işyerlerinde yangın konusunda bilgilendirme çalışmalarına katılır.",
+  "Binaların baca temizliğini yapar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi; ortaöğretimde ilgili mesleki ve teknik liselerin itfaiyecilik ve yangın güvenliği ile ilgili alan/dallarında, ayrıca üniversitelere bağlı meslek yüksekokullarının önlisans düzeyindeki ilgili programlarında verilmektedir. Bunun yanında, belediyeler ve diğer kamu kurumları bünyesinde göreve başlayanlara hizmet öncesi ve hizmet içi eğitim merkezlerinde temel itfaiyecilik eğitimi, uygulamalı tatbikatlar ve usta-çırak ilişkisi içinde görev başında eğitim verilmektedir.",
+  "giris_kosullari": [
+   "En az lise veya dengi okul mezunu olmak",
+   "İlgili kurumun (belediye, kamu kurumu, özel işletme vb.) açtığı sınav, mülakat ve/veya fiziki yeterlilik testini kazanmak",
+   "Kurumca belirlenen boy, kilo, beden kitle endeksi ve genel sağlık şartlarını taşımak",
+   "Adli sicil kaydı bakımından göreve engel hali bulunmamak",
+   "Önlisans programlarına girişte YKS'de ilgili puan türünden yeterli puanı almış olmak"
+  ],
+  "sure_ve_icerik": "Mesleki ve teknik liselerde eğitim süresi 4 yıl, üniversitelere bağlı meslek yüksekokullarındaki önlisans programlarında ise 2 yıldır. Eğitim süresince öğrenciler; yangın bilgisi ve yangın kimyası, yangın söndürme teknik ve taktikleri, kurtarma teknikleri, ilk yardım, yapı bilgisi, itfaiye araç-gereç ve ekipman bilgisi, iş sağlığı ve güvenliği ile afet yönetimi gibi derslerin yanında, uygulamalı tatbikat ve stajlarla desteklenen bir eğitim sürecinden geçerler. Kamu kurumlarınca doğrudan sınavla istihdam edilenler ise göreve başlamadan önce ilgili hizmet içi eğitim merkezlerinde temel itfaiyecilik eğitimi alır ve belirli bir süre usta itfaiyeci gözetiminde uygulamalı olarak yetiştirilirler.",
+  "belge": "Mesleki ve teknik lise programını tamamlayanlara lise diploması, önlisans programını tamamlayanlara önlisans diploması verilir. Hizmet içi eğitim ve kursları tamamlayanlara ise ilgili kurum tarafından katılım veya başarı belgesi düzenlenebilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Mesleki ve teknik lise veya önlisans düzeyinde örgün eğitim alan öğrenciler genel olarak herhangi bir ücret almazlar; ancak bazı okul-işletme iş birliği ve staj uygulamalarında öğrencilere sınırlı ölçüde cep harçlığı ödenebilir. Kamu kurumlarınca doğrudan sınavla alınıp hizmet içi eğitime tabi tutulanlar ise eğitim süresince kurumlarının belirlediği esaslara göre maaş/ücret almaya başlayabilir.",
+  "egitim_sonrasi": [
+   "Belediyeler ve diğer kamu kurumlarında işçi statüsünde çalışan itfaiyecilerin ücreti, ilgili toplu iş sözleşmesi hükümlerine göre belirlenir; memur statüsünde çalışanlarda ise 657 sayılı Devlet Memurları Kanunu çerçevesindeki maaş ve ek ödemeler esas alınır.",
+   "Özel sektörde (sanayi tesisi, havalimanı, AVM gibi) çalışan itfaiyecilerin ücreti işletmenin büyüklüğüne, çalışanın deneyim ve niteliklerine göre karşılıklı anlaşmayla belirlenir; mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde veya kurumun belirlediği taban ücretle çalışmaya başlar."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleki ve teknik lise mezunları, üniversitelerin ilgili önlisans programlarına; önlisans programını başarıyla tamamlayanlar ise Dikey Geçiş Sınavı ile acil durum ve afet yönetimi, yangın güvenliği gibi ilgili lisans programlarına geçiş yapabilirler.",
+  "is_hayatinda": "İtfaiyeciler, kurum içi sınavlar, kıdem ve hizmet içi eğitimlerle itfaiye eri, itfaiye onbaşısı, itfaiye çavuşu, itfaiye başçavuşu gibi kademelerde yükselebilir; ilave eğitim, deneyim ve liyakat durumuna göre amirlik, şeflik ve müdürlük gibi yönetici kademelerine atanabilirler."
+ },
+ "benzer_meslekler": [
+  "İtfaiye Başçavuşu",
+  "İtfaiye Onbaşısı",
+  "İtfaiye Çavuşu",
+  "İtfaiye Zabıta Memuru",
+  "ARFF Memuru(Havalimanı Kurtarma ve Yangınla Mücadele)",
+  "Orman İtfaiyecisi",
+  "Yangın İlk Müdahale İşçisi",
+  "Diğer İtfaiyeciler ve İlgili İşçiler"
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T19:42:05",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 7139
+  }
+ }
+}

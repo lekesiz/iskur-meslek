@@ -1,0 +1,82 @@
+{
+ "arac_gerec": [
+  "Püskürtmeli kurutma (Spray Dryer) kulesi",
+  "Çamur pompaları ve besleme hatları",
+  "Kule giriş basınç göstergeleri ve ayar valfleri",
+  "Kontrol paneli / PLC otomasyon sistemi",
+  "Elek (sieve) ve elek analiz ekipmanları",
+  "Yoğunluk ve nem ölçüm cihazları",
+  "Filtreler",
+  "Yağlama ekipmanları ve el aletleri",
+  "Üretim stok siloları ve nakil hatları",
+  "Kişisel koruyucu donanım (iş elbisesi, eldiven, maske, kulaklık, gözlük)",
+  "Vardiya kayıt defteri/formları"
+ ],
+ "benzer_meslekler": [
+  "Gazbeton Çamur Hazırlama Operatörü",
+  "Gazbeton Kireç Hazırlama Operatörü",
+  "Gazbeton Kalıp Kesme Hattı Operatörü",
+  "Gazbeton Kazan Otoklav Operatörü",
+  "Gazbeton Döküm Vinci Operatörü",
+  "Merkezi Kumanda Operatörü (Çimento)"
+ ],
+ "calisma_alanlari": "Bu meslek elemanları başta gazbeton üretimi yapan fabrikalar olmak üzere, inşaat malzemeleri üretimi yapan sanayi tesislerinde istihdam edilir. Çalışma alanı, ülkedeki gazbeton üretim tesislerinin sayısı ve yatırım hacmiyle sınırlıdır; büyükşehirler ve sanayi bölgelerinde kurulu üretim tesislerinde iş bulma imkânı bulunmaktadır.",
+ "calisma_ortami": "Meslek elemanları gazbeton fabrikalarının üretim bölümünde, kapalı mekânlarda görev yapar. Çalışma ortamı; kulenin çalışma prensibi gereği sıcak hava, toz, nem ve makine gürültüsü içerebilir. Çamur ve granül malzemeyle sürekli temas söz konusu olduğundan iş kıyafeti ve kişisel koruyucu donanım kullanılması gerekir.\n\nÇalışma genellikle vardiyalı sistemde (gece-gündüz) sürdürülür. Meslek elemanı, vardiya arkadaşları, diğer makine operatörleri, bakım-onarım personeli ve vardiya amiriyle sürekli iletişim halindedir. İşin niteliği gereği dikkatli, sistemli ve talimatlara uygun çalışmayı gerektirir.",
+ "ek_bilgiler": "Bu meslek, gazbeton üretim hattının bir parçası olarak diğer operatörlük görevleriyle (çamur hazırlama, kalıp kesme, otoklav vb.) yakından ilişkilidir; birçok işletmede bu görevler arasında rotasyon uygulanabilmektedir. Çalışma ortamındaki yüksek sıcaklık, toz ve makine riskleri nedeniyle iş sağlığı ve güvenliği kurallarına uyum büyük önem taşır.",
+ "egitim": {
+  "verildigi_yerler": "Bu meslek için örgün eğitim kurumlarında ayrı bir diploma programı bulunmamaktadır. Meslek genellikle işbaşında, fabrika bünyesinde deneyimli operatör veya usta gözetiminde uygulamalı olarak öğrenilir. Ayrıca Halk Eğitim Merkezleri ve İŞKUR tarafından açılan mesleki eğitim kursları ile mesleki ve teknik ortaöğretim kurumlarının ilgili alanlarından (örneğin kimya teknolojisi veya üretim/işletme teknolojileri alanları) mezun olanlar bu işe daha kolay uyum sağlayabilir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "İşin gerektirdiği fiziksel koşullara (vardiyalı çalışma, ayakta durma, sıcak/tozlu ortamda çalışma) uygun sağlık durumuna sahip olmak",
+   "İşe alındığı işletmenin uyguladığı oryantasyon/işbaşı eğitim sürecine katılmayı kabul etmek"
+  ],
+  "sure_ve_icerik": "Standart ve resmî olarak tanımlanmış bir eğitim süresi ve müfredatı bulunmamaktadır. İşe yeni başlayanlar, deneyimli operatör veya usta gözetiminde; çamur hazırlama ve besleme işlemleri, kule içindeki kurutma sürecinin izlenmesi, basınç ve yoğunluk ayarları, elek ve tortu kontrolleri, makine bakımı ile iş sağlığı ve güvenliği kurallarını uygulamalı olarak öğrenir. Bu süreç işletmeden işletmeye değişmekle birlikte genellikle birkaç haftadan birkaç aya kadar sürebilir.",
+  "belge": "Örgün eğitim sonunda verilen resmî bir diploma veya sertifika bulunmamaktadır. İşletme içi eğitim tamamlandığında çalışma/katılım belgesi verilebilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "genel_ozellikler": [
+  "Dikkatli ve sistemli çalışabilen,",
+  "Sorumluluk sahibi,",
+  "Fiziksel olarak dayanıklı,",
+  "El ve göz koordinasyonuna sahip,",
+  "Makine ve ekipman kullanımına yatkın,",
+  "Vardiyalı çalışma düzenine uyum sağlayabilen,",
+  "Talimatları eksiksiz uygulayabilen,",
+  "Takım çalışmasına yatkın,"
+ ],
+ "gorevler": [
+  "İşletmenin genel çalışma prensipleri doğrultusunda, araç, gereç ve ekipmanları etkin bir şekilde kullanarak, işçi sağlığı, iş güvenliği ve çevre koruma düzenlemelerine ve mesleğin verimlilik ve kalite gereklerine uygun olarak:",
+  "Çamur havuzunda bulunan çamuru püskürtmeli kurutma (Spray Dryer) tankına alır,",
+  "Püskürtmeli kurutma (Spray Dryer) kulesini kullanıma hazırlar,",
+  "Gelen çamurun yoğunluk kontrolünü yapar,",
+  "Kule içindeki çamurun yukarıya fışkırtılmasını sağlar,",
+  "Kule içindeki sıcak havanın çamur zerrelerini kurutmasını ve granüle dönüştürmesini sağlar,",
+  "Granülün reçeteye göre boyut ve nem oranını ayarlar,",
+  "Kule dibinden çıkan granülü üretim stok silolarına gönderir,",
+  "Pompanın kule giriş basıncını ayarlar,",
+  "Elek analizleri yapar, eleği kontrol ederek gerektiğinde değiştirir,",
+  "Tortu kontrolleri yapar,",
+  "Makinenin hareketli noktalarını ve filtreleri temizler, yağlar,",
+  "Vardiya bilgilerini kaydeder ve görevi bir sonraki operatöre devreder,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Bu meslekte örgün bir eğitim programı ve buna bağlı resmî bir ilerleme basamağı bulunmamaktadır. Çalışanlar isterlerse açık öğretim yoluyla genel eğitim düzeylerini yükseltebilir, ilgili mesleki ve teknik kurs ve eğitimlere katılarak bilgi ve becerilerini geliştirebilirler.",
+  "is_hayatinda": "Meslekte deneyim kazandıkça çalışanlar usta operatörlüğe, vardiya sorumluluğuna, ekip şefliğine ve zamanla üretim/işletme sorumluluğu gerektiren görevlere yükselebilirler."
+ },
+ "kazanc": {
+  "egitim_suresince": "Resmî bir mesleki eğitim programı bulunmadığından, işe yeni başlayan ve işbaşında eğitim alan kişiler genellikle işletmenin deneme süresi uygulamasına göre, çoğunlukla asgari ücret düzeyinde ücretlendirilir.",
+  "egitim_sonrasi": [
+   "Özel sektörde çalışanların ücreti işveren ile yapılan anlaşmaya, işletmenin büyüklüğüne ve bölgeye göre değişebilir; yeni başlayanlarda kazanç genellikle asgari ücret düzeyindedir.",
+   "Deneyim, bilgi, beceri ve üstlenilen sorumluluk arttıkça kazanç da artabilir.",
+   "Vardiyalı çalışma ve fazla mesai uygulamaları kazancı etkileyebilir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T10:48:41",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5869
+  }
+ }
+}

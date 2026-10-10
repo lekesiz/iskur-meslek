@@ -1,0 +1,98 @@
+{
+ "arac_gerec": [
+  "İtfaiye araçları (arazöz, merdivenli araç, kurtarma aracı vb.)",
+  "Yangın söndürme ekipmanları (hortum, lans, köpük/kimyevi tozlu söndürme sistemleri)",
+  "Kişisel koruyucu teçhizat (yangın elbisesi, miğfer, eldiven, bot, koruyucu gözlük)",
+  "Temiz hava solunum cihazı",
+  "Hidrolik kurtarma ekipmanları (kesme-ayırma aletleri, kriko, germe aparatları)",
+  "Halat, merdiven ve yüksekten kurtarma ekipmanları",
+  "Telsiz, telefon ve haberleşme cihazları",
+  "İlk yardım ve acil müdahale malzemeleri",
+  "Arama kurtarma köpekleri ve ekipmanları (bazı birimlerde)",
+  "Su altı arama kurtarma ekipmanları (bazı birimlerde)",
+  "NBC (nükleer, biyolojik, kimyasal) koruyucu giysi ve arıtma ekipmanları",
+  "Çeşitli el aletleri (balta, kazma, kürek, makas vb.)"
+ ],
+ "genel_ozellikler": [
+  "Fiziksel olarak güçlü ve dayanıklı,",
+  "Stres altında soğukkanlılığını koruyabilen ve hızlı karar verebilen,",
+  "Ekip çalışmasına yatkın, sevk ve idare yeteneğine sahip,",
+  "Sorumluluk duygusu gelişmiş ve disipline uyan,",
+  "Riskli ve tehlikeli durumlarda cesaretli,",
+  "Yüksekte, dar alanda ve su altında çalışmaktan çekinmeyen,",
+  "Talimatları doğru ve hızlı biçimde uygulayabilen,",
+  "İnsanlarla iyi iletişim kurabilen ve yardımsever"
+ ],
+ "calisma_ortami": "İtfaiye çavuşu, görev süresinin büyük bölümünü itfaiye istasyonunda, görev araçlarında ve olay yerlerinde geçirir. Olay yerleri yangın, enkaz, su baskını, trafik kazası gibi fiziksel risk taşıyan; bazen açık havada, bazen kapalı ve dumanlı ortamlarda, bazen yükseklikte veya su altında olabilen değişken koşullardır. Görev, genellikle vardiyalı sistemle 7/24 esasına göre yürütülür; gece, hafta sonu ve resmî tatillerde de çalışma söz konusudur.\n\nÇalışma sırasında kendisine bağlı itfaiye personelini sevk ve idare eder; amirleri, diğer kurtarma ve sağlık ekipleri, kolluk kuvvetleri ve olaydan etkilenen vatandaşlarla yakın iletişim kurar. Meslek, yüksek fiziksel efor, ani müdahale gerektiren stresli durumlar ve kaza, yaralanma gibi riskler içerdiğinden iş sağlığı ve güvenliği kurallarına titizlikle uyulması gerekir.",
+ "egitim": {
+  "verildigi_yerler": "İtfaiye çavuşluğu, doğrudan dışarıdan personel alınan bir giriş kademesi değil, itfaiye teşkilatı içinde kıdem, hizmet içi eğitim ve sınav yoluyla ulaşılan bir rütbedir. Adaylar genellikle önce itfaiyeci/itfaiye eri olarak belediyelerin itfaiye daire başkanlıkları veya müdürlüklerine bağlı birimlerde göreve başlar. Temel itfaiyecilik, yangın söndürme, arama kurtarma, ilk yardım ve iş sağlığı güvenliği konularındaki eğitimler belediyelerin kendi itfaiye eğitim merkezlerinde, bazı kurumların açtığı mesleki eğitim kurslarında veya işbaşında usta-çırak ilişkisi içinde verilir. Ayrıca bazı üniversitelerde önlisans düzeyinde itfaiyecilik ve sivil savunma alanında eğitim veren programlar bulunmaktadır.",
+  "giris_kosullari": [
+   "T.C. vatandaşı olmak",
+   "En az ortaöğretim (lise ve dengi okul) mezunu olmak",
+   "İlgili belediyenin açtığı itfaiyeci alım sınavlarında (yazılı sınav, fiziki yeterlilik testi, mülakat) başarılı olmak",
+   "Sağlık durumu itfaiyecilik mesleğinin gerektirdiği fiziksel faaliyetleri yapmaya elverişli olmak",
+   "Kurumca belirlenen boy, kilo ve beden kitle endeksi şartlarını taşımak",
+   "Güvenlik soruşturması ve arşiv araştırması olumlu sonuçlanmış olmak",
+   "Erkek adaylar için askerlik hizmetini yapmış veya askerlikle ilişiği bulunmamak"
+  ],
+  "sure_ve_icerik": "Mesleğe özgü standart ve tek bir eğitim programı bulunmamaktadır. Göreve yeni başlayan itfaiyeciler, kurumlarının düzenlediği hizmet içi eğitimlerde yangın söndürme teknikleri, itfaiye araç ve ekipmanlarının kullanımı, arama kurtarma yöntemleri, ilk yardım, Binaların Yangından Korunması Hakkında Yönetmelik ile ilgili uygulamalar ve iş sağlığı güvenliği konularında bilgi ve beceri kazanır. Belirli hizmet süresini tamamlayan, kurum içi değerlendirme ve sınavlarda başarılı olan itfaiyeciler kademeli olarak itfaiye onbaşılığına ve ardından itfaiye çavuşluğuna atanabilir. İsteyen adaylar, işe giriş ve ilerlemede avantaj sağlayabilecek önlisans düzeyindeki ilgili mesleki ve teknik eğitim programlarına da devam edebilir.",
+  "belge": "Hizmet içi eğitim ve kursları başarıyla tamamlayanlara kurum tarafından kurs bitirme belgesi/sertifika verilir; önlisans düzeyindeki ilgili programı tamamlayanlara önlisans diploması verilir."
+ },
+ "calisma_alanlari": "İtfaiye çavuşları başta büyükşehir belediyeleri olmak üzere il ve ilçe belediyelerinin itfaiye daire başkanlıkları veya müdürlükleri bünyesinde kamu personeli olarak istihdam edilir. Bunun yanında havalimanları, organize sanayi bölgeleri, büyük fabrikalar, limanlar ve bazı kurumların kendi bünyesinde kurduğu özel itfaiye birimlerinde de görev alabilirler.\n\nKamu kurumlarına alım, ilgili belediyenin personel ihtiyacına ve açtığı sınavlara bağlı olarak sınırlı sayıda yapılmaktadır. Mesleğe giriş genellikle itfaiyeci kadrosuyla başlar; itfaiye çavuşluğuna geçiş ise kurum içi kıdem ve sınav süreciyle gerçekleşir.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğe özgü ayrı bir örgün eğitim süreci bulunmadığından, adaylar genellikle önce itfaiyeci olarak kadroya atanır ve aldıkları hizmet içi eğitimler süresince kurumlarından ücret alırlar. Önlisans programına devam edenler ise diğer yükseköğretim öğrencileri gibi kredi, burs ve yurt olanaklarından yararlanabilir.",
+  "egitim_sonrasi": [
+   "Belediyelerde memur statüsünde çalışan itfaiye çavuşlarının ücreti 657 sayılı Devlet Memurları Kanunu ve ilgili mevzuata göre belirlenir.",
+   "İşçi statüsünde çalışanların ücreti, kurumun bağlı bulunduğu toplu iş sözleşmesi hükümlerine göre belirlenir.",
+   "Özel sektördeki itfaiye birimlerinde ücret; işletmenin büyüklüğü, çalışanın deneyimi ve karşılıklı anlaşmaya göre değişiklik gösterir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Hizmet içi eğitimlerde ve kurumsal değerlendirmelerde başarılı olan, kıdemi artan itfaiyeciler sınavlarla önce itfaiye onbaşılığına, ardından itfaiye çavuşluğuna yükselebilir. İsteyen meslek elemanları, mesleğiyle ilgili önlisans veya lisans düzeyinde eğitim tamamlayarak bilgi ve birikimlerini artırabilir.",
+  "is_hayatinda": "İtfaiye çavuşları, kurum içi sınav, kıdem ve performans değerlendirmeleriyle itfaiye başçavuşluğuna, grup amirliğine ve daha üst yönetici kademelerine yükselebilirler."
+ },
+ "benzer_meslekler": [
+  "İtfaiye Başçavuşu",
+  "İtfaiye Onbaşısı",
+  "İtfaiyeci",
+  "Diğer İtfaiyeciler ve İlgili İşçiler",
+  "Orman İtfaiyecisi",
+  "ARFF Memuru(Havalimanı Kurtarma ve Yangınla Mücadele)",
+  "Arama Kurtarma Elemanı",
+  "Arama Kurtarma Uzmanı"
+ ],
+ "ek_bilgiler": "İtfaiyecilik, Çalışma ve Sosyal Güvenlik Bakanlığı mevzuatına göre tehlikeli ve çok tehlikeli işler kapsamında değerlendirilen bir meslektir; bu nedenle düzenli sağlık kontrolleri ve iş sağlığı güvenliği eğitimleri önem taşır. İtfaiye çavuşluğu, doğrudan dışarıdan alınan bir unvan olmadığından, bu mesleği hedefleyenlerin öncelikle itfaiyeci kadrosuna girmesi ve kurum içi kıdem/sınav sürecini tamamlaması gerektiği unutulmamalıdır.",
+ "gorevler": [
+  "Görevli bulunduğu araçta kişisel teçhizatını hazır bulundurur, kendisine bağlı personelin de hazır bulundurmasını sağlar.",
+  "Görevli olduğu aracın sürekli temiz, bakımlı ve göreve hazır durumda tutulmasını sağlar.",
+  "Zil, telefon, telsiz, anons gibi araçlarla yapılan görev bildirimlerinde belirlenen sürede ve süratle olay yerine intikal eder, kendisine bağlı personelin de intikalini sağlar.",
+  "Göreve gidilen olayla ilgili haber merkezinin telsiz anonsları ile yaptığı bilgilendirmeleri takip eder.",
+  "Araca bindikten sonra olayın durumuna göre koruyucu elbisesini giyer, kendisine bağlı personelin de giyinmesini ve gerekli teçhizatı hazırlamasını sağlar.",
+  "Olay yerinde grup amirinin ve/veya başçavuşun verdiği görevleri yapar, onlara yardımcı olur, aldığı talimatları uygular; kendisine bağlı personele gerekli talimatları vererek onları sevk ve idare eder.",
+  "Üst amirlerinin bulunmadığı olaylarda görevli itfaiye personelini sevk ve idare eder.",
+  "Yangınlara müdahale eder ve söndürür; yangın söndürme çalışmalarında kendisine bağlı personeli sevk ve idare eder.",
+  "Kaza, çökme, patlama, mahsur kalma gibi teknik kurtarma gerektiren olaylara müdahale eder veya edilmesini sağlar; ilk yardım hizmetlerini yürütür veya yürütülmesini sağlar; arazide, su üstünde ve su altında arama kurtarma çalışmaları yapar veya yapılmasını sağlar.",
+  "Su baskınlarına müdahale eder, doğal afetler ve olağanüstü durumlarda kurtarma çalışmalarına katılır; bu durumlarda kendisine bağlı personeli sevk ve idare eder.",
+  "Binaların Yangından Korunması Hakkında Yönetmelik ile verilen görevleri yapar veya yapılmasını sağlar.",
+  "Nükleer, biyolojik, kimyasal (NBC) maddelerle kirlenme durumlarında arıtma işlemlerine yardımcı olur.",
+  "Halkı, kurum ve kuruluşları itfaiye hizmetleri ve alınacak önlemler konusunda bilgilendirir, eğitir ve bu amaçla yapılan tatbikat çalışmalarına katılır.",
+  "Diğer belediyelerden talep gelmesi halinde belediye sınırları dışındaki olaylara müdahale eder, talep edilmesi halinde orman yangınlarının söndürülmesi çalışmalarına katılır.",
+  "İhtiyaç duyulması halinde araçlardaki ekipmanı alarak olay yerine getirilmesini sağlar veya kullanır.",
+  "Gerekli durumlarda temiz hava solunum cihazını kullanır, kendisine bağlı personelin de kullanmasını sağlar.",
+  "Dönüş hazırlıkları aşamasında sorumlu olduğu malzemelerin toplanmasını sağlar.",
+  "Yangın sonrasında kendi sorumluluğundaki işleri yapar veya yapılmasını sağlar.",
+  "Olay yerinden dönüşte görev aracındaki eksiklikleri giderip aracı tekrar göreve hazır hale getirir.",
+  "Mesleğiyle ilgili hizmet içi eğitim faaliyetlerine katılır, kendisine bağlı personelin de katılmasını sağlar.",
+  "Mesleğiyle ilgili toplantı, seminer gibi faaliyetlere katılır, yayınları takip eder.",
+  "Mesleği alanındaki gelişmeleri takip eder ve uygular.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T19:44:13",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 9672
+  }
+ }
+}

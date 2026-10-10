@@ -1,0 +1,79 @@
+{
+ "arac_gerec": [
+  "Transformatörler ve bağlı oldukları kontrol tabloları/panoları",
+  "Dizel jeneratörler",
+  "Akü (batarya) grupları ve şarj üniteleri",
+  "Ölçü ve kontrol aletleri (avometre, megger, voltmetre, ampermetre)",
+  "İzoleli el aletleri (tornavida, pense, anahtar takımları)",
+  "Topraklama ve kısa devre koruma ekipmanları",
+  "SCADA/izleme ve kumanda ekranları",
+  "Haberleşme cihazları (telsiz, sabit/mobil telefon)",
+  "Kablo, konnektör ve bağlantı elemanları",
+  "Yangın söndürme ekipmanları",
+  "Kişisel koruyucu donanım (baret, izoleli eldiven ve ayakkabı, koruyucu gözlük, iş elbisesi)",
+  "Arıza kayıt ve vardiya rapor defterleri/formları"
+ ],
+ "benzer_meslekler": [
+  "Elektrik Tevzii Tablosu Operatörü-Enerji Merkezi",
+  "Yüksek Gerilim Trafo Merkezi İşletme Elemanı",
+  "Termik Santral Elektrik Bakımcısı",
+  "Vardiya Amiri/Elektrik Enerjisi Üretimi",
+  "Nezaretçi ve Ustabaşı (Elektrik-Gaz İstihsal ve Dağıtım)",
+  "Hidroelektrik Santral Operatörü"
+ ],
+ "calisma_alanlari": "Termik Santral Elektrik İşletme Operatörü, kömür, doğalgaz, fuel-oil gibi yakıtlarla elektrik üreten kamu veya özel sektöre ait termik santrallerin elektrik işletme/kontrol bölümlerinde çalışır. Enerji üretim şirketlerine bağlı santral tesislerinde, enerji dağıtım şirketlerinin santral içi birimlerinde ve bazı büyük sanayi tesislerinin kendi elektrik üretim ünitelerinde istihdam edilebilir. Çalışma alanları genellikle santralin kurulu olduğu bölgeyle sınırlı olduğundan meslekte coğrafi hareketlilik sınırlıdır; iş imkânları termik santral yatırımlarının bulunduğu illerde yoğunlaşır.",
+ "calisma_ortami": "Termik Santral Elektrik İşletme Operatörü, büyük ölçüde santral içindeki kontrol odalarında ve elektrik saha/pano bölümlerinde çalışır. Kontrol odası genellikle kapalı, iklimlendirilmiş bir ortamdır; saha çalışmaları ise yüksek gerilim hatlarının, transformatörlerin ve jeneratörlerin bulunduğu, gürültü, sıcaklık, titreşim ve elektrik riski taşıyan bölümlerde yürütülür. Çalışma, santralin kesintisiz işletilmesi gerektiğinden genellikle vardiya (gündüz-gece) esasına göre yapılır.\n\nMeslek mensubu, görevi sırasında vardiya arkadaşları, bakım ekipleri, vardiya amiri ve santral yöneticileriyle sürekli iletişim halindedir. İşin niteliği nedeniyle elektrik çarpması, yüksek gerilimle temas, yanık ve düşme gibi iş kazası riskleri bulunur; bu nedenle iş sağlığı ve güvenliği kurallarına, kişisel koruyucu donanım kullanımına ve enerji kesme/verme prosedürlerine titizlikle uyulması gerekir.",
+ "ek_bilgiler": "Yüksek gerilim ve enerjili sistemlerle doğrudan çalışıldığından bu meslek, tehlikeli/çok tehlikeli işler kapsamında değerlendirilebilir; işe giriş ve periyodik sağlık muayeneleri ile düzenli iş güvenliği eğitimleri önem taşır. Mesleki Yeterlilik Kurumu (MYK) tarafından ilgili alanda verilen Mesleki Yeterlilik Belgesi, istihdamda tercih sebebi olabilir.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin temel bilgi ve becerileri, mesleki ve teknik ortaöğretim kurumlarının elektrik-elektronik teknolojisi alanı ile ilgili dallarında verilmektedir. Bunun yanında santral işletmecisi kurumlar, yeni işe alınan lise ve dengi okul mezunlarına işbaşında usta yanında eğitim ile kurum içi hizmet içi eğitim ve kurslar vererek operatörlük bilgi ve becerisini kazandırmaktadır. Halk Eğitim Merkezleri ile İŞKUR'un açtığı mesleki eğitim kursları da tamamlayıcı eğitim olanağı sunabilir.",
+  "giris_kosullari": [
+   "Ortaokulu tamamlamış olmak",
+   "Mesleki ve teknik ortaöğretim kurumlarının ilgili alanına Millî Eğitim Bakanlığınca belirlenen giriş şartlarını taşımak",
+   "Kurumların açtığı işe alım sınavı/mülakatında başarılı olmak",
+   "Genellikle en az lise ve dengi okul mezunu olmak",
+   "Vardiyalı ve bazen açık alanda çalışmaya engel sağlık durumunun bulunmaması"
+  ],
+  "sure_ve_icerik": "Mesleki ve teknik ortaöğretimde elektrik-elektronik teknolojisi alanındaki eğitim 4 yıl sürmektedir; ilk yıl ortak genel kültür ve meslek dersleri, sonraki yıllarda alan ve dal derslerinin yanında işletmelerde uygulamalı eğitim verilmektedir. Lise mezuniyeti sonrasında işe alınan kişiler, santralde belirli bir süre usta/kıdemli operatör nezaretinde uygulamalı eğitim ve kurum içi teorik eğitim alarak transformatör, jeneratör, batarya ve kontrol tablolarının işletilmesi konusunda yetkinlik kazanır.",
+  "belge": "Mesleki ve teknik ortaöğretim kurumundan alınan meslek lisesi diploması; bunun yanında kurum içi eğitim/sertifikaları ve varsa Mesleki Yeterlilik Kurumu (MYK) Mesleki Yeterlilik Belgesi."
+ },
+ "genel_ozellikler": [
+  "Dikkatli ve tedbirli,",
+  "Sorumluluk duygusu yüksek,",
+  "Elektrik ve elektroniğe ilgili,",
+  "Teknik şema ve gösterge okuyabilen,",
+  "El becerisine sahip,",
+  "Takım çalışmasına uygun,",
+  "Vardiyalı ve düzensiz çalışma saatlerine uyumlu,",
+  "Acil ve stresli durumlarda soğukkanlı kalabilen,"
+ ],
+ "gorevler": [
+  "Verilen talimatlara göre transformatörleri bağlı oldukları kontrol tablolarından çalıştırır.",
+  "Otomatik çalışmaya nezaret eder ve göstergeleri izler.",
+  "Meydana gelen aksaklıkları gidermek için çalışan transformatörleri devreden çıkararak yerlerine dizel jeneratörlerini çalıştırır.",
+  "Devreden çıkan transformatörleri kontrol ederek arıza sebeplerini araştırır.",
+  "Tespit ettiği arızaları tamir eder veya ilgililere haber vererek tamir edilmesini sağlar.",
+  "Tamir edilen transformatörleri tekrar devreye sokar.",
+  "Çalışmaları hakkında kayıtlar tutar.",
+  "Muayyen zamanlarda transformatörlerin, jeneratörlerin ve bataryaların bakımlarını yapar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleki ve teknik ortaöğretimin elektrik-elektronik teknolojisi alanından mezun olanlar, YKS Kılavuzunda belirtilen ilgili ön lisans (örneğin elektrik, elektrik enerjisi üretimi/iletimi, enerji sistemleri teknikerliği) ve koşulları sağladıkları takdirde lisans programlarına yerleşebilirler.",
+  "is_hayatinda": "Meslekte deneyim ve kıdem kazandıkça kişiler kıdemli operatör, saha/kontrol odası sorumlusu, vardiya amiri, nezaretçi/formen gibi görevlere yükselebilir; ileri düzey teknik eğitimle santral bakım-işletme mühendisliği birimlerinde görev alabilirler."
+ },
+ "kazanc": {
+  "egitim_suresince": "Mesleki ve teknik ortaöğretim sırasında işletmelerde uygulamalı eğitim gören öğrencilere 3308 sayılı Mesleki Eğitim Kanunu kapsamında belirlenen esaslara göre ücret ödenir ve iş kazası ile meslek hastalıkları sigorta primleri devletçe karşılanır. Kurumların açtığı işbaşı/çıraklık eğitimlerinde ise ücret, ilgili kurumun uygulamalarına göre değişir.",
+  "egitim_sonrasi": [
+   "Kamuya bağlı santrallerde 657 sayılı Devlet Memurları Kanunu'na veya işçi statüsünde ise ilgili toplu iş sözleşmesi hükümlerine göre ücretlendirilir.",
+   "Özel sektöre ait santrallerde ücret, işletmenin büyüklüğü, çalışanın deneyimi ve bilgi-becerisine göre karşılıklı anlaşma ile belirlenir; işe yeni başlayanlarda genellikle asgari ücret düzeyinde olabilir, kıdem ve sorumluluk arttıkça yükselebilir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T10:39:01",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6374
+  }
+ }
+}

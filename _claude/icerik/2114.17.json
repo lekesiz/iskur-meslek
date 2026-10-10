@@ -1,0 +1,77 @@
+{
+ "arac_gerec": [
+  "Buz karotu sondaj ve örnekleme ekipmanları",
+  "Kayaç ve tortu örnekleyiciler",
+  "Jeolojik çekiç, pusula ve el GPS cihazı",
+  "Petrografik/polarizan mikroskop",
+  "Kütle spektrometresi (izotop analizleri için)",
+  "X-ışını floresan (XRF) ve benzeri jeokimyasal analiz cihazları",
+  "Kriyojenik/soğuk zincir örnek saklama kapları",
+  "Örnek etiketleme ve kayıt malzemeleri",
+  "Coğrafi Bilgi Sistemleri (GIS) yazılımları",
+  "İklim modelleme ve istatistiksel analiz yazılımları",
+  "Bilgisayar ve veri işleme donanımları",
+  "Laboratuvar kimyasalları ve cam malzemeler",
+  "Arazi kamp ve ulaşım ekipmanları",
+  "Kırtasiye malzemeleri"
+ ],
+ "genel_ozellikler": [
+  "Fen bilimlerine (jeoloji, kimya, fizik) ilgili ve bu alanlarda başarılı,",
+  "Analitik düşünme yeteneğine sahip,",
+  "Sabırlı, dikkatli ve detaylara önem veren,",
+  "Araştırmacı, meraklı ve bilimsel yöntemlerle çalışmaya istekli,",
+  "Ekip çalışmasına uyumlu,",
+  "Rapor yazma ve bilimsel sunum becerisine sahip,",
+  "Bilgisayar ve istatistiksel/modelleme programlarını etkin kullanabilen,",
+  "Zorlu arazi koşullarına dayanıklı"
+ ],
+ "calisma_ortami": "Paleoiklim uzmanı hem arazide hem de laboratuvar ve büro ortamında çalışır. Arazi çalışmaları buzul bölgeleri, mağaralar, göl ve deniz tabanı tortu alanları, kayaç yatakları gibi farklı coğrafyalarda gerçekleşebilir; bu çalışmalar soğuk, yüksek irtifa veya uzak bölgeler gibi zorlu iklim koşullarında uzun süreli ekip halinde seyahat gerektirebilir. Arazide toplanan örnekler laboratuvarda izotop ve mikrofosil analizlerine tabi tutulur, elde edilen veriler büroda bilgisayar ortamında modellenip bilimsel raporlara dönüştürülür.\n\nÇalışmalarını genellikle üniversiteler, araştırma enstitüleri ve kamu kurumları bünyesinde; akademisyenler, diğer yer bilimciler, meteorologlar ve araştırma ekipleriyle işbirliği içinde yürütür. Çalışma saatleri büro/laboratuvar kısmında düzenli olabilirken, arazi dönemlerinde proje takvimine göre uzayabilir.",
+ "egitim": {
+  "verildigi_yerler": "Türkiye'de \"Paleoiklim Uzmanı\" adıyla ayrı bir lisans programı bulunmamaktadır. Bu uzmanlık, genellikle üniversitelerin Mühendislik veya Fen Fakültelerine bağlı Jeoloji Mühendisliği, Jeofizik Mühendisliği, Jeoloji ya da Coğrafya bölümlerinden alınan lisans eğitiminin ardından, paleoiklim, paleontoloji, jeokimya veya iklim bilimleri alanında yapılan yüksek lisans ve doktora çalışmalarıyla kazanılır.",
+  "giris_kosullari": [
+   "Lise veya dengi okul mezunu olmak",
+   "YKS (Yükseköğretim Kurumları Sınavı) kılavuzunda ilgili lisans programları için belirtilen puan türü ve koşulları sağlamak",
+   "Alanda uzmanlaşmak isteyenlerin, lisans sonrasında ilgili yüksek lisans/doktora programlarının kabul koşullarını (ALES, yabancı dil yeterliliği, mülakat vb.) sağlamaları"
+  ],
+  "sure_ve_icerik": "Lisans eğitimi 4 yıl sürer; matematik, fizik, kimya gibi temel dersler ile mineraloji, sedimantoloji, paleontoloji, jeokimya gibi meslek dersleri bu süreçte verilir. Paleoiklim alanında uzmanlaşma genellikle lisans sonrasında 2 yıl süren yüksek lisans ve yaklaşık 4 yıl süren doktora eğitimiyle gerçekleşir; bu süreçte izotop jeokimyası, mikrofosil analizi, iklim modelleme ve ileri istatistik konularında teorik ve uygulamalı araştırma çalışmaları yapılır.",
+  "belge": "Lisans diploması; alanda uzmanlaşmak için ayrıca yüksek lisans ve doktora diploması."
+ },
+ "calisma_alanlari": "Paleoiklim uzmanları başta üniversitelerin jeoloji, jeofizik, coğrafya ve çevre bilimleri bölümleri ile bu bölümlere bağlı araştırma merkezleri olmak üzere; TÜBİTAK, Maden Tetkik ve Arama Genel Müdürlüğü (MTA), Meteoroloji Genel Müdürlüğü gibi kamu araştırma kurumlarında, iklim değişikliğiyle ilgili ulusal ve uluslararası araştırma projelerinde, bazı sivil toplum kuruluşları ve danışmanlık firmalarında çalışabilirler. Türkiye'de bu alanda doğrudan istihdam sayısı sınırlıdır; iş olanakları büyük ölçüde akademik kadrolara ve araştırma projelerine bağlıdır, bu nedenle yüksek lisans ve doktora derecesine sahip olmak iş bulmada önemli bir etkendir.",
+ "kazanc": {
+  "egitim_suresince": "Lisans eğitimi süresince Kredi ve Yurtlar Genel Müdürlüğünün öğrenim kredisi ve yurt hizmetlerinden yararlanılabilir. Yüksek lisans ve doktora döneminde TÜBİTAK gibi kurumların sağladığı burs ve araştırmacı destekleri ile üniversitelerin araştırma görevlisi kadrolarından elde edilen gelirden söz edilebilir.",
+  "egitim_sonrasi": [
+   "Kamu kurum ve araştırma kuruluşlarında çalışanlar 657 sayılı Devlet Memurları Kanunu çerçevesinde unvan ve kademeye göre ücret alır.",
+   "Üniversitelerde akademik kadroda (araştırma görevlisi, doktor öğretim üyesi, doçent, profesör) çalışanların kazancı akademik unvana göre belirlenir.",
+   "Proje bazlı veya danışmanlık çalışmalarında kazanç; deneyim, uzmanlık düzeyi ve proje bütçesine göre değişiklik gösterir; mesleğe yeni başlayanlarda gelir düzeyi genellikle araştırma görevlisi/asistan seviyesindedir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Lisans sonrası yüksek lisans ve doktora yapılarak akademik kariyerde araştırma görevlisi, doktor öğretim üyesi, doçent ve profesör unvanlarına ilerlenebilir.",
+  "is_hayatinda": "Deneyim kazandıkça araştırma projelerinde proje yürütücülüğüne, kurum içinde bölüm veya araştırma biriminin yönetimine, ulusal ve uluslararası iklim araştırma ağlarında koordinatörlük görevlerine ilerlenebilir."
+ },
+ "benzer_meslekler": [
+  "Jeokimya Uzmanı",
+  "Paleontolog (Fosil Bilimci)",
+  "Jeoloji Mühendisi",
+  "Jeomorfolog",
+  "Jeofizik Mühendisi",
+  "Mineralog"
+ ],
+ "ek_bilgiler": "Paleoiklim uzmanlığı Türkiye'de henüz ayrı ve kurumsallaşmış bir meslek dalı olarak tanımlanmamıştır; genellikle jeoloji, jeofizik veya iklim bilimleri alanında ileri düzey eğitim almış akademisyen ve araştırmacılar tarafından yürütülen bir uzmanlık alanıdır. İklim değişikliğine yönelik artan küresel ve ulusal ilgi, bu alandaki araştırma olanaklarının zaman içinde gelişmesine katkı sağlayabilir.",
+ "gorevler": [
+  "Kayaç, buz veya tortu örneklerinden veri toplar,",
+  "İzotop analizleri ve mikrofosil incelemeleri yapar,",
+  "Geçmişteki sıcaklık, yağış ve atmosfer değişimlerini modeller,",
+  "İklim değişikliği trendlerini bilimsel raporlara dönüştürür,",
+  "Paleontolojik ve jeokimyasal verileri sentezler,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-07T20:51:21",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6460
+  }
+ }
+}

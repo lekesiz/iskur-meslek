@@ -1,0 +1,74 @@
+{
+ "arac_gerec": [
+  "Ceraskal (yük asansörü) teçhizatı ve motoru",
+  "Kontrol kolları ve komuta panosu",
+  "Kadran/gösterge paneli",
+  "Zil ve sinyal işaret sistemi",
+  "Kafes (kuyu kafesi) ve kovalar",
+  "Halat, kanca ve bağlantı elemanları",
+  "Elektrik motoru ve tahrik tertibatı",
+  "Baret, baret lambası",
+  "Koruyucu iş elbisesi ve eldiven",
+  "Gaz dedektörü",
+  "Telsiz/interkom gibi iletişim cihazları",
+  "Yağlama ekipmanları ve basit bakım aletleri"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve tedbirli,",
+  "Sorumluluk sahibi,",
+  "El ve gözünü eşgüdümle kullanabilen,",
+  "İşitsel ve görsel uyarıları hızlı algılayabilen,",
+  "Stresli ve ani durumlarda sakin kalabilen,",
+  "Takım çalışmasına uygun,",
+  "Kapalı ve dar alanlarda çalışmaya elverişli sağlık durumuna sahip,",
+  "Mekaniğe ilgi duyan"
+ ],
+ "calisma_ortami": "Ceraskal operatörü (maden ocağı), görevini maden ocağının kuyu başında veya yeraltındaki kuyu dibinde, kapalı ve dar bir mekânda yürütür. Çalışma ortamı sıcak, nemli, tozlu ve gürültülü olabilir; havalandırma, gaz birikimi, çökme ve düşme gibi riskler nedeniyle iş sağlığı ve güvenliği kurallarına titizlikle uyulması gerekir. Çalışma genellikle vardiyalı sistemle yürütülür.\n\nOperatör, görevi sırasında kuyu başında ve dibinde bulunan diğer maden işçileri, nezaretçiler ve vardiya amirleri ile sürekli iletişim halindedir; verilen zil/sinyal işaretlerine göre hareket eder. Dikkatsizlik hâlinde ağır kazalara yol açabilecek bir meslek olduğundan, operatörün sürekli tetikte ve odaklanmış olması beklenir.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğe yönelik örgün bir meslek lisesi veya üniversite programı bulunmamaktadır. Eğitim genellikle maden işletmelerinde işbaşında usta yanında uygulamalı olarak, işletmelerin düzenlediği operatörlük ve iş güvenliği kurslarıyla kazanılır. Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kursları da bu alanda eğitim olanağı sunabilir.",
+  "giris_kosullari": [
+   "18 yaşını doldurmuş olmak",
+   "En az ilköğretim mezunu olmak",
+   "Yeraltı/maden ocağı koşullarında ve dar, kapalı alanlarda çalışmaya engel sağlık sorunu bulunmamak",
+   "İşe giriş sağlık muayenesinden geçmiş olmak"
+  ],
+  "sure_ve_icerik": "Eğitimin süresi işletmeden işletmeye ve kurumdan kuruma değişmekle birlikte; ceraskal teçhizatının yapısı ve çalışma prensibi, kontrol kollarının kullanımı, zil/sinyal işaretleşme usulleri, kafesin indirilip çıkarılması, periyodik bakım esasları, iş sağlığı ve güvenliği kuralları ile maden ocaklarına özgü tehlikeler ve acil durum prosedürleri gibi konuları kapsar. Teorik bilgilerin ardından deneyimli bir operatör/usta nezaretinde uygulamalı eğitim verilir.",
+  "belge": "Eğitimi tamamlayanlara işletme veya kurum tarafından katılım belgesi ya da operatör sertifikası verilir. Maden ocaklarında yapılan işler çok tehlikeli işler kapsamında değerlendirildiğinden, bu alanda çalışacakların Mesleki Yeterlilik Kurumu (MYK) Mesleki Yeterlilik Belgesine sahip olmaları istihdamda önemli bir koşul olabilir."
+ },
+ "gorevler": [
+  "Ceraskal motorunu çalıştırır.",
+  "Kontrol kollarını işleterek zil işaretlerine veya maden kuyusu başında veya dibinde duran diğer işçiler tarafından verilen işaretlere göre kafesi indirir veya kaldırır.",
+  "Kadran ibresi istenilen yüksekliğe ulaşıldığını gösterince ceraskalı durdurur.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "calisma_alanlari": "Ceraskal operatörleri (maden ocağı); kamuya veya özel sektöre ait kömür, metal ve diğer maden ocaklarının yeraltı işletmelerinde istihdam edilir. Genellikle kuyu başı veya kuyu dibinde, insan ve malzeme taşıyan kafes/kova sistemlerinin işletilmesinden sorumlu olarak çalışırlar. İstihdam olanakları, madencilik sektöründeki üretim faaliyetlerinin ve açık olan yeraltı işletmelerinin sayısına bağlı olarak değişkenlik gösterir.",
+ "kazanc": {
+  "egitim_suresince": "Eğitim/kurs süresince genellikle ücret elde etme imkânı bulunmamaktadır; işletme bünyesinde stajyer veya yardımcı personel olarak çalışılması durumunda asgari ücret düzeyinde bir ödeme yapılabilir.",
+  "egitim_sonrasi": [
+   "Kamuya ait işletmelerde çalışanlar, 657 sayılı Kanun'a veya ilgili toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde işe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Deneyim, işletmenin büyüklüğü, çalışma koşulları (vardiya, yeraltı tazminatı gibi unsurlar) ve sektörün genel ücret düzeyine göre kazanç değişebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Deneyim kazandıkça ve iş güvenliği, bakım-onarım gibi alanlarda alınan ek eğitimlerle operatör farklı maden makineleri (vinç, taşıma teçhizatı vb.) operatörlüğüne yönelebilir; isteyenler iş güvenliği uzmanlığı gibi alanlara yönelik eğitimlere devam edebilir.",
+  "is_hayatinda": "Kıdem ve performansa bağlı olarak nezaretçilik, vardiya amirliği veya ekip sorumluluğu gibi görevlere yükselme olanağı bulunur. Meslekte dikey ilerleme sınırlı olup genellikle sorumluluk alanı genişlemesi şeklinde gerçekleşir."
+ },
+ "benzer_meslekler": [
+  "Ceraskal Operatörü-İnşaat",
+  "Maden Ocağı Asansörü Operatörü",
+  "Desandre Vinççisi",
+  "Troleyci-Maden",
+  "Diğer Vinç ve Ceraskal Operatörleri",
+  "Vinç Operatörü"
+ ],
+ "ek_bilgiler": "Maden ocaklarında yürütülen bu meslek, yeraltı ortamının taşıdığı riskler nedeniyle iş sağlığı ve güvenliği kurallarına büyük önem verilmesini gerektirir. Bu alanda çalışacakların işe giriş ve periyodik sağlık muayenelerinden düzenli olarak geçmeleri, çalışma koşullarının gerektirdiği fiziksel ve psikolojik uygunluğa sahip olmaları önemlidir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T18:50:05",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5618
+  }
+ }
+}

@@ -1,0 +1,83 @@
+{
+ "arac_gerec": [
+  "Konveyör bant/taşıma hattı",
+  "Fındık kırma makinesi",
+  "Kalibrasyon ve eleme makinesi",
+  "Kavurma makinesi",
+  "Paketleme makinesi",
+  "Vakumlama makinesi",
+  "Çuvallama ekipmanı",
+  "Metal detektörü",
+  "Tartı/terazi",
+  "Bone, galoş, iş elbisesi",
+  "Eldiven ve maske"
+ ],
+ "benzer_meslekler": [
+  "Fındık Kırma İşçisi",
+  "Yer Fıstığı Seçme İşçisi",
+  "Kuruyemiş Sınıflama ve Kalibrasyon Makinesi Operatörü",
+  "Yer Fıstığı Renk Ayırıcı Makinesi Operatörü",
+  "Yer Fıstığı Kavurma Makinesi Operatörü",
+  "Kuru Baklagil Elemanı"
+ ],
+ "calisma_alanlari": "Fındık işleme işçisi, başta fındık üretiminin yoğun olduğu Karadeniz bölgesi (Giresun, Ordu, Trabzon, Düzce, Sakarya gibi iller) olmak üzere fındık işleme ve paketleme tesislerinde, gıda sanayi kuruluşlarında, ihracata yönelik çalışan fındık işleme fabrikalarında ve tarım satış kooperatiflerine bağlı işleme ünitelerinde istihdam edilmektedir.\n\nİş imkânları, fındık hasat ve işleme sezonuna bağlı olarak dönemsel artış gösterebilmekte; büyük ölçekli işletmelerde ise yıl boyunca devam eden üretim nedeniyle sürekli istihdam da söz konusu olabilmektedir.",
+ "calisma_ortami": "Fındık işleme işçisi, genellikle fabrika veya işleme tesislerinin kapalı üretim alanlarında, ayakta ve çoğunlukla konveyör bant başında çalışır. Çalışma ortamı toz, koku ve makine gürültüsü açısından hassas olabilir; hijyen kurallarına titizlikle uyulması gerekir. İşin niteliğine ve sipariş yoğunluğuna göre vardiyalı veya tam gün çalışma düzeni uygulanabilir; fındık hasat döneminde çalışma temposu ve iş yükü artabilir.\n\nÇalışma sırasında üretim şefi, vasıflı makine operatörleri, kalite kontrol personeli ve diğer işleme işçileriyle sürekli iletişim ve iş birliği içinde bulunulur. İş sağlığı ve güvenliği kurallarına, özellikle koruyucu ekipman kullanımına ve hijyen önlemlerine uyulması gerekmektedir.",
+ "egitim": {
+  "verildigi_yerler": "Fındık işleme işçiliği için örgün eğitimde ayrı bir çıraklık veya kalfalık programı bulunmamaktadır. Meslek genellikle işyerinde usta/işbaşı eğitimi yoluyla; Halk Eğitim Merkezleri ile İŞKUR tarafından açılan mesleki eğitim kurslarında kazanılmaktadır. Gıda teknolojisi alanındaki mesleki ve teknik eğitim kurumlarında görülen genel gıda işleme bilgileri de mesleğe hazırlık açısından destekleyici olabilir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "Fiziksel olarak işin gerektirdiği ayakta ve uzun süreli çalışmaya uygun sağlık durumuna sahip olmak",
+   "İşe alım sürecinde ilgili işyerinin belirlediği yaş ve diğer koşulları taşımak"
+  ],
+  "sure_ve_icerik": "Resmi olarak tanımlanmış sabit süreli bir eğitim programı yoktur. Eğitim, çoğunlukla işe başlangıçta kısa süreli bir uyum/iş başı eğitimi şeklinde, deneyimli bir işçi veya ustanın gözetiminde uygulamalı olarak verilir. İçerik; hijyen kuralları, iş sağlığı ve güvenliği, kalite kontrol kriterlerine göre fındık seçimi ve ayıklama, kullanılan makine ve ekipmanların temel kullanımı ile üretim sürecindeki destek işlemlerinden oluşur. İsteyenler, İŞKUR veya Halk Eğitim Merkezlerinin açtığı gıda işleme ile ilgili kurslara katılarak bilgi ve becerilerini geliştirebilir.",
+  "belge": "Örgün bir diploma veya ustalık belgesi bulunmamaktadır. Katılınan kurslar sonunda kurs katılım/bitirme belgesi alınabilir. Mesleki Yeterlilik Kurumu (MYK) tarafından ilgili alanda bir yeterlilik belgesi mevcutsa, bu belge istihdamda tercih sebebi olabilir."
+ },
+ "ek_bilgiler": "Fındık işleme işçiliği, fındık hasat dönemiyle bağlantılı olarak mevsimsel yoğunluk gösterebilen bir meslektir; bazı işletmelerde dönemsel/mevsimlik istihdam söz konusu olabilirken, yıl boyu üretim yapan büyük ölçekli tesislerde sürekli istihdam da mümkündür.",
+ "genel_ozellikler": [
+  "Dikkatli ve titiz,",
+  "El ve göz koordinasyonu iyi,",
+  "Görme ve ayırt etme duyusu gelişmiş,",
+  "Fiziksel olarak dayanıklı ve ayakta uzun süre çalışabilen,",
+  "Sabırlı ve tekrarlayan işe uyum sağlayabilen,",
+  "Hızlı ve doğru karar verebilen,",
+  "Hijyen ve temizlik kurallarına duyarlı,",
+  "Ekip çalışmasına uyumlu"
+ ],
+ "gorevler": [
+  "İş başı yapmadan önce iş elbisesi ile bone, galoş, terlik gibi koruyucu ekipmanları giyer",
+  "Üretim alanına girmeden önce el temizliği başta olmak üzere hijyen kurallarına uyar",
+  "Üretim şefinden gün içinde yapılacak işlere ilişkin talimat ve bilgileri alır",
+  "Konveyör bantta aktarılan iç fındığın içindeki yabancı maddeler ile kırık ya da ezik fındığın seçimini titizlikle yapar",
+  "Konveyör bantta belirli kalibrelerde aktarılan fındıktan belirlenen ölçütlere uymayan ya da ezik, çürük olanların seçimini yapar",
+  "Seçilen ve standartlara uygun hale getirilen fındığın istenen ağırlıklarda paketlenmesi işlemine destek olur",
+  "Seçilen fındığın vakumlanması işlemine destek olur",
+  "Seçilen fındığın kavrulması işlemine destek olur",
+  "Üretim bandında veya makinelerde oluşan hataları ilgili yetkiliye bildirir",
+  "Seçilen fındığın çuvallanması işlemine destek olur",
+  "Paketlenmiş, çuvallanmış veya vakumlanmış fındıkların ilgili alana sevk edilmesine destek olur",
+  "Çuvallanmış ya da paketlenmiş ürünlerde metal parçası bulunup bulunmadığını metal detektörüyle kontrol eder",
+  "İş ve işlemlerini iş sağlığı ve güvenliği kurallarına, kalite yönetimi kurallarına ve işyerinin iç talimatlarına uygun şekilde titizlikle yürütür",
+  "Mesai bitiminde kirlenen veya yıpranan iş elbiselerinin değiştirilmesi için ilgili görevlilerle iletişime geçerek bir sonraki mesai için temiz iş elbisesi hazır bulundurulmasını sağlar",
+  "Mesleki gelişim faaliyetlerinde bulunur"
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Meslekte örgün ve basamaklı bir ilerleme sistemi (çırak-kalfa-usta) bulunmamaktadır. İsteyenler, İŞKUR veya Halk Eğitim Merkezlerinin açtığı gıda işleme, kalite kontrol veya hijyen konulu kurslara katılarak bilgi ve becerilerini artırabilir; gıda teknolojisi alanında açık öğretim veya örgün eğitim yoluyla meslek lisesi diploması alarak ilgili alanda ilerleyebilir.",
+  "is_hayatinda": "Deneyim ve bilgi birikimini artıran işçiler, zaman içinde vasıflı makine operatörlüğü, kalite kontrol elemanlığı veya üretim hattı sorumluluğu gibi görevlere yükselebilir. İşletme yönetimi konusunda deneyim kazananlar formen/şef pozisyonlarına ilerleyebilir; girişimcilik bilgi ve birikimine sahip olanlar kendi küçük ölçekli işleme/paketleme işletmelerini kurabilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Resmi bir çıraklık eğitimi bulunmadığından, işe alım sırasında verilen kısa süreli iş başı eğitimi döneminde çalışanlara işyerinin belirlediği ücret ödenir; bu dönemde genellikle asgari ücret düzeyinde bir kazanç söz konusudur.",
+  "egitim_sonrasi": [
+   "Göreve yeni başlayanlar için kazanç genellikle asgari ücret düzeyindedir.",
+   "Kazanç; çalışılan işletmenin büyüklüğü, kişinin deneyimi, çalışma kapasitesi ve sektördeki ücret düzeyine göre değişebilir.",
+   "Özel sektörde ücret, işveren ile çalışan arasındaki anlaşmaya ve varsa toplu iş sözleşmesi hükümlerine göre belirlenir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T16:06:47",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5981
+  }
+ }
+}

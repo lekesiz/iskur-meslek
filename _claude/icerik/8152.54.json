@@ -1,0 +1,69 @@
+{
+ "arac_gerec": [
+  "Trikotaj/örme tezgahı",
+  "Tarak (lastik taraklama aparatı)",
+  "Kol ve beden lastikleri",
+  "Kesim makası/bıçağı",
+  "Ölçü aletleri (cetvel, mastar)",
+  "İplik ve lastik makaraları",
+  "İş önlüğü ve eldiven",
+  "Temizlik malzemeleri"
+ ],
+ "benzer_meslekler": [
+  "Çorap Tarak Makinesi İşçisi (Otomatik Tezgah)",
+  "Tarak Makinesi Ayarcısı-Tekstil",
+  "Trikotajcı/Endüstriyel Örmeci",
+  "Örgü Makinesi Operatörü (Bilgisayarlı)/Trikotaj",
+  "Çorap Örme Makinesi Operatörü",
+  "Kompleci (Yuvarlak Örme Makinesi Operatörü)"
+ ],
+ "calisma_alanlari": "Tarak işçileri, trikotaj ve örme konfeksiyon eşyası üreten fabrika ve atölyelerde, özellikle kol ve beden lastiği hazırlama bölümlerinde çalışırlar. Kamu kurumlarında bu meslek için istihdam olanağı bulunmamaktadır. Tekstil ve örme sanayinin yoğunlaştığı İstanbul, Bursa, Denizli, Kahramanmaraş gibi illerde iş bulma olanağı nispeten daha fazladır.",
+ "calisma_ortami": "Tarak İşçisi-Trikotaj, trikotaj ve örme konfeksiyon fabrika ve atölyelerinde, kapalı mekanda çalışır. Çalışma genellikle ayakta ya da oturarak, makineler ve lastik parçalarıyla iç içe sürdürülür; ortam zaman zaman gürültülü olabilir ve tekrarlayan hareketler gerektirir. Görev tam gün sürdürülür, işyerinin üretim yoğunluğuna bağlı olarak vardiyalı çalışma söz konusu olabilir.\n\nÇalışma sırasında tezgah işçisi, usta ve diğer iş arkadaşlarıyla sürekli iletişim halindedir. İş, dikkat ve el becerisi gerektirdiğinden uzun süreli odaklanma ihtiyacı vardır.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin gerektirdiği minimum eğitim düzeyi ilkokuldur ve mesleğe yönelik örgün, standart bir eğitim programı bulunmamaktadır. Mesleğe genellikle işyerinde işbaşında, usta yanında yetişerek girilir. Bunun yanında Halk Eğitim Merkezleri ve İŞKUR tarafından açılan tekstil/örme-trikotaj alanındaki mesleki eğitim kurslarında da ilgili temel beceriler kazandırılabilir.",
+  "giris_kosullari": [
+   "Okur yazar olmak veya ilkokul mezunu olmak",
+   "18 yaşından küçükler için veli izni gerekir",
+   "El ve göz koordinasyonunun gelişmiş olması beklenir"
+  ],
+  "sure_ve_icerik": "İşbaşında yetişme süreci işletmenin büyüklüğüne ve iş yoğunluğuna göre değişmekle birlikte genellikle kısa bir sürede (günler-haftalar içinde) temel beceriler kazanılır. Açılması halinde kurs süresi ve içeriği kursu düzenleyen kuruma göre belirlenir; bu tür eğitimlerde lastik kesimi, ölçü alma, lastiklerin tarağa geçirilmesi teknikleri ve iş güvenliği konuları yer alır.",
+  "belge": "Örgün biçimde düzenlenmiş bir kurs tamamlandığında \"Kurs Bitirme Belgesi\" verilebilir; işbaşında yetişme sürecinde ise genellikle resmî bir belge düzenlenmez."
+ },
+ "ek_bilgiler": "",
+ "genel_ozellikler": [
+  "El becerisine sahip,",
+  "Gözünü ve elini eşgüdümle kullanabilen,",
+  "Dikkatli ve titiz,",
+  "Sabırlı ve monoton işleri sürdürebilen,",
+  "Yönergelere uygun çalışabilen,",
+  "Fiziksel olarak uzun süre ayakta veya oturarak çalışmaya dayanıklı,",
+  "Takım çalışmasına uyumlu"
+ ],
+ "gorevler": [
+  "Makinelerden çıkan kol ve beden lastiklerini verilen ölçülerde keserek birbirinden ayırır.",
+  "Kesilen lastikleri tel kaçırmadan, önceden hazırladığı tarakların dişlerine tek tek geçirir.",
+  "Hazırladığı tarakları ilgili tezgah işçisine teslim eder.",
+  "İş bitiminde çalışma yerini temizler.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "İşletme bünyesinde düzenlenebilecek hizmet içi eğitimlerle, çalışan tezgah işçiliği ve ilgili tezgahların basit ayar işlerine ilişkin bilgi ve becerilerini geliştirebilir.",
+  "is_hayatinda": "Deneyim ve bilgi birikimi arttıkça tezgah işçisi, vardiya sorumlusu veya usta başı gibi görevlere yükselme olanağı bulunmaktadır."
+ },
+ "kazanc": {
+  "egitim_suresince": "İşbaşında yetişme sürecinde işletmenin belirlediği düşük düzeyde bir ücret ödenebilir; örgün kurslarda ise herhangi bir kazanç söz konusu değildir.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Deneyim ve işletmenin büyüklüğüne bağlı olarak ücret düzeyi artabilir.",
+   "Özel sektörde ücret, işveren ile çalışan arasında karşılıklı olarak belirlenir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T14:00:50",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 4749
+  }
+ }
+}

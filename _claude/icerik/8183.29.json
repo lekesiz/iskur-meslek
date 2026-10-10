@@ -1,0 +1,89 @@
+{
+ "arac_gerec": [
+  "Su şişeleme/dolum makinesi",
+  "Preform (şişe ön kalıbı) ve şişe üretim kalıpları",
+  "Kapak ve kapaklama ünitesi",
+  "Etiket ve etiket yapıştırma makinesi",
+  "Shrink naylon ve ısı tüneli (shrink) ünitesi",
+  "Palet ve karton ambalaj malzemeleri",
+  "Tarihleme/parti-seri baskı makinesi",
+  "Bant/konveyör (taşıma hattı) sistemi",
+  "Bunker (hammadde besleme) ünitesi",
+  "Dozajlama/dolum ayar paneli",
+  "Hava basıncı ve sıcaklık gösterge panelleri",
+  "Temel el aletleri (anahtar takımı, tornavida vb.)",
+  "Yağlama ve temizlik malzemeleri",
+  "Kişisel koruyucu donanım (eldiven, kulaklık, bone, iş gözlüğü)"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve gözlemci,",
+  "Sorumluluk sahibi,",
+  "El ve göz koordinasyonu iyi,",
+  "Makine ve teknik sistemlere ilgili,",
+  "Takım çalışmasına uyumlu,",
+  "Hijyen ve temizlik kurallarına duyarlı,",
+  "Ayakta ve vardiyalı çalışmaya uygun bedensel yapıya sahip,",
+  "Talimatlara uyan ve disiplinli"
+ ],
+ "calisma_ortami": "Su şişeleme makinesi operatörü, genellikle su ve içecek üretim tesislerinin kapalı üretim alanlarında, dolum hattı çevresinde ayakta çalışır. Çalışma ortamı makine gürültüsü, nem ve zaman zaman yüksek sıcaklık içerebilir; zeminde su/nem bulunabileceğinden kayma riski vardır. İşini yaparken kişisel koruyucu donanım kullanması gerekir.\n\nİşyerinin üretim programına göre vardiyalı (gündüz, akşam, gece) çalışma yaygındır. Görevi sırasında üst amiri, kalite kontrol ekibi, bakım teknisyenleri ve diğer hat çalışanlarıyla sürekli iletişim ve koordinasyon içinde bulunur.",
+ "egitim": {
+  "verildigi_yerler": "Su Şişeleme Makinesi Operatörlüğü için bağımsız, standart bir örgün eğitim programı bulunmamaktadır. Meslek genellikle su/içecek üretim tesislerinde işbaşında, usta yanında veya işletme içi eğitimlerle; ayrıca Halk Eğitim Merkezleri ile İŞKUR tarafından açılan mesleki eğitim kurslarında kazanılmaktadır. Mesleki ve teknik eğitim kurumlarının gıda teknolojisi ve makine/otomasyon alanlarında alınan temel eğitim, mesleğe hazırlık açısından yararlı olabilir.",
+  "giris_kosullari": [
+   "Mesleğin gerektirdiği minimum eğitim düzeyi ilköğretimdir.",
+   "İşletme içi eğitimlere, işe alınan personel genellikle doğrudan başlar; belirli bir ön koşul aranmaz.",
+   "Halk Eğitim Merkezi ve İŞKUR kurslarına her yaş, eğitim ve kültür düzeyinden kişi katılabilir; 18 yaşından küçükler veli izniyle katılabilir.",
+   "Bazı işletmeler, ağır ve tehlikeli işler kapsamında sağlık raporu ve belirli bir yaş sınırı isteyebilir."
+  ],
+  "sure_ve_icerik": "Standart bir süre ve içerik tanımlı değildir; işbaşı eğitim süresi işletmeden işletmeye değişir. Genellikle; makinenin çalışma prensibi, hammadde (preform, kapak, etiket, shrink naylon) kontrolü ve takviyesi, dozajlama ve kalıp ayarları, dolum ve kapaklama kontrolü, tarihleme işlemleri, temel bakım-temizlik işlemleri, hijyen ve gıda güvenliği kuralları ile iş sağlığı ve güvenliği uygulamaları teorik ve uygulamalı olarak verilir.",
+  "belge": "İşletme içi eğitim sonunda genellikle resmî bir diploma verilmez; işletme kendi iç eğitim/katılım belgesini düzenleyebilir. Halk Eğitim Merkezi veya İŞKUR kurslarını tamamlayanlara 'Kurs Bitirme Belgesi' verilir. Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Su şişeleme makinesi operatörleri başta maden suyu, içme suyu ve çeşitli gazlı/gazsız içecek üretimi yapan tesisler olmak üzere, şişeleme ve dolum hattı bulunan gıda-içecek sektöründeki işletmelerde çalışır. İş bulma olanağı, bu tesislerin yoğunlaştığı büyük şehirler ve organize sanayi bölgelerinde nispeten daha yüksektir. Sektörün üretim hacmi ve mevsimsel talep (özellikle yaz aylarında içecek tüketiminin artması) istihdam düzeyini etkileyebilir.",
+ "kazanc": {
+  "egitim_suresince": "İşletme içinde usta yanında veya işbaşı eğitim sürecinde genellikle asgari ücret düzeyinde bir kazanç sağlanır; kısa süreli Halk Eğitim Merkezi/İŞKUR kurslarında ise genellikle herhangi bir kazanç söz konusu değildir.",
+  "egitim_sonrasi": [
+   "İşe yeni başlayanlar genellikle asgari ücret düzeyinde bir ücretle çalışmaya başlar.",
+   "Deneyim, vardiya ve fazla mesai uygulamaları, işletmenin büyüklüğü ile üretilen ürün çeşidine göre ücret artış gösterebilir.",
+   "İşçi statüsünde çalışanların ücreti, işyerinde uygulanan toplu iş sözleşmesi hükümlerine göre belirlenebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğe özgü kademeli bir örgün eğitim basamağı bulunmamaktadır. Deneyim kazanan operatörler, dolum, kapaklama, etiketleme ve paketleme gibi farklı makine tiplerinde ek eğitimler alarak yetkinliklerini genişletebilir.",
+  "is_hayatinda": "Deneyimli operatörler, hat sorumlusu, vardiya amiri veya üretim şefliği gibi görevlere yükselebilir; ayrıca makine bakım ve teknisyenlik alanına yönelebilir."
+ },
+ "benzer_meslekler": [
+  "Sıvı Dolum Makinesi Operatörü",
+  "Dolum Tesisi Makinesi-Aseptik Operatörü-İçecek",
+  "Kap Doldurma Makinesi Operatörü",
+  "Kutu Bira Dolum Makinesi Operatörü",
+  "Şişe Etiketleme Makinesi Operatörü",
+  "Kapaklama ve Mühürleme Makinesi Operatörü"
+ ],
+ "ek_bilgiler": "Su şişeleme işlemi gıda güvenliği kapsamında değerlendirildiğinden, çalışanların hijyen kurallarına uyması ve işletmelerin periyodik sağlık kontrolü uygulamalarına tabi olması beklenir.",
+ "gorevler": [
+  "Vardiya öncesinde çalıştığı makinede kullanılan hammaddeleri (preform, kapak, etiket, shrink naylon, palet, karton vb.) kontrol eder.",
+  "Gerektiği durumlarda makinede kullanılan hammaddeleri takviye eder.",
+  "Makinenin hava basıncı, sıcaklık ve diğer göstergelerinin kontrollerini ve ayarlarını yapar; arıza çıkması durumunda üst amirine bilgi verir.",
+  "Üretilecek ürüne göre kalıp değişimi yapar.",
+  "Dozajlama ayarı yapar; gazlı dolumlarda dozajlama ayarını yaparak gerekli kontrollerin yapılması için kalite ekibine destek verir.",
+  "Üretilen ürüne göre etiket seçimi yapar ve etiket makinesini hazırlar.",
+  "Tarih makinesinde parti/seri ve tarih ayarını yapar.",
+  "Üst amiri tarafından belirtilen üretim planına göre üretimi başlatır.",
+  "Hattan gelen suları fiziksel olarak (dolum seviyesi, kapak kontrolü) kontrol eder; dolum seviyeleri ve kapak kapatma torklarını kontrol ederek kalite ekibine destek verir.",
+  "Bant sürücü (hız) ayarlarını yapar.",
+  "Bunkere hammadde yüklemesini kontrol eder.",
+  "Üretim sürecini sürekli gözetler ve aksaklıklara müdahale eder.",
+  "Dolum makinesinin temizliği ve haftalık yağlanması gibi rutin bakımlarını yapar.",
+  "Belirlenen Kalite ve Gıda Güvenliği Yönetim Sistemi kriterlerine göre önlem alınmasını ve uygulanmasını sağlar, sürecin yürütülmesine destek verir.",
+  "Kalite Yönetim Sistemi ve Ürün İzlenebilirliği sürecinde ilgili formları doldurur ve sürecin yürütülmesine destek verir.",
+  "Belirlenen iş güvenliği kriterlerine göre kişisel koruyucu donanımlarını giyer, gerekli önlemleri alır ve talimatlara uyar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T17:20:21",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 7399
+  }
+ }
+}

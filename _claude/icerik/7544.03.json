@@ -1,0 +1,77 @@
+{
+ "arac_gerec": [
+  "İlaçlama pompaları ve sırt tipi püskürtme cihazları",
+  "Motorlu/ULV (ultra düşük hacimli) sisleme cihazları",
+  "Haşere ilaçları (biyosidal/pestisit ürünler)",
+  "Kişisel koruyucu donanım (tulum, maske/respiratör, eldiven, gözlük, çizme)",
+  "El feneri",
+  "Haşere tuzakları ve yem istasyonları",
+  "Ölçüm ve dozaj kapları",
+  "İlaç depolama ve taşıma kapları",
+  "İletişim cihazı (telsiz/telefon)",
+  "Uyarı levhaları ve şerit bantları",
+  "Temel el aletleri (makine bakım-onarımı için)"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve sorumluluk sahibi,",
+  "Kimyasal maddelere karşı alerjisi olmayan, sağlıklı,",
+  "El ve bedensel beceriye sahip,",
+  "Ekip halinde uyumlu çalışabilen,",
+  "Talimatları eksiksiz uygulayabilen,",
+  "Açık havada ve farklı mekanlarda çalışmaya istekli,",
+  "İnsan ve çevre sağlığına duyarlı,",
+  "Fiziksel olarak dayanıklı"
+ ],
+ "calisma_ortami": "Filit işçileri, görev yerine göre açık havada, kapalı işyerlerinde, konutlarda, depolarda, kanalizasyon ve bodrum gibi bazen dar, nemli ve karanlık alanlarda çalışır. Çalışma sırasında kimyasal ilaçlarla temas, koku, toz ve bazı durumlarda yüksekte veya dar alanda çalışma gibi riskler bulunur; bu nedenle kişisel koruyucu donanım kullanımı önemlidir. Çalışma saatleri genellikle gündüzdür, ancak talebe bağlı olarak veya periyodik programlar nedeniyle farklı saatlerde ve bazen vardiyalı çalışma gerekebilir.\n\nMeslek elemanı çalışmalarını genellikle bir ekip halinde yürütür; iş sırasında amirleri, ekip arkadaşları, ilaçlama hizmeti alan kurum ve kişiler ile iletişim kurar.",
+ "calisma_alanlari": "Filit işçileri; belediyelerin temizlik işleri birimlerinde, özel ilaçlama (haşere mücadele) şirketlerinde, hastaneler, oteller, fabrikalar, gıda işletmeleri ve depolar gibi haşere ile mücadele hizmeti alan kurum ve işyerlerinde istihdam edilebilir. Kamuda belediyelere bağlı birimlerde işçi statüsünde çalışabilir; özel sektörde ise ilaçlama firmaları bünyesinde işveren ile yapılan sözleşme koşullarına göre görev alır.",
+ "egitim": {
+  "verildigi_yerler": "Bu mesleğe yönelik resmi/örgün bir okul eğitimi bulunmamaktadır. Mesleki bilgi ve beceriler genellikle işbaşında, işyerlerinde usta yanında çalışarak; ayrıca Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kurslarında kazanılmaktadır. Biyosidal ürünlerle çalışma konusunda ilgili kurumlarca düzenlenen eğitim ve sertifika programlarına da katılım sağlanabilmektedir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "Sağlık durumunun bu işi yapmaya uygun olması, kimyasal maddelere karşı alerjik bir durumunun bulunmaması"
+  ],
+  "sure_ve_icerik": "Meslek eğitiminin süresi ve içeriği katılınan kursa veya işyerindeki uygulama sürecine göre değişmektedir. Eğitimde genellikle; haşere türleri ve yaşam/barınma alanları, kullanılan ilaçların özellikleri ve dozajları, ilaçlama makine ve ekipmanlarının kullanımı, güvenlik önlemleri ile kişisel koruyucu donanımın doğru kullanımı gibi konular yer alır. Biyosidal ürünlerle ilgili sertifika eğitimlerinde ise bu ürünlerin insan ve çevre sağlığına etkileri ile güvenli uygulama yöntemleri konuları işlenir.",
+  "belge": "Katılınan kurs veya program sonunda kurs bitirme belgesi ya da katılım sertifikası verilir. Biyosidal ürünlerle ilgili eğitimleri tamamlayanlara ilgili kurumca düzenlenen bir sertifika verilebilir."
+ },
+ "ek_bilgiler": "Filit işçileri kimyasal içerikli biyosidal ürünlerle çalıştıklarından, bu ürünlerin kullanımına ilişkin eğitim ve belgelendirme gereklilikleri zaman zaman güncellenebilmektedir; güncel ve kesin bilgi için ilgili kamu kurumlarından (örneğin belediyeler ve ilgili bakanlık birimleri) bilgi alınması önerilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda tercih sebebi olabilir.",
+ "gorevler": [
+  "Haşere üreme ve barınma alanlarını tespit eder.",
+  "Talebe bağlı veya periyodik ilaçlama işlemleri için ön bilgi alır.",
+  "İlaçlama bölgesinin özelliğine uygun ilaç tipini ve miktarını belirler.",
+  "Kullanılacak ilaçlama makinesini ve ilaçları kullanıma hazırlar.",
+  "Ekip kurulumunda gerektiğinde görev alır, ekip hazırlığı yapar.",
+  "Sağlam makineler ve aparatlarla ekip halinde ilaçlama bölgesine gider.",
+  "İlaçlama bölgesinde güvenlik önlemlerini alır.",
+  "Varsa evcil hayvanların uzaklaştırılmasını sağlar.",
+  "Şahsi koruyucu malzemelerini kullanarak ilaçlama yapar.",
+  "İlaçlama bölgesinin bir süre kullanılmaması için gerekli uyarıları yapar.",
+  "Arızalı ilaçlama makinelerinin tamir edilmesini sağlar.",
+  "İlaçlama makinelerini temizler ve depoya teslim eder.",
+  "Çalışma alanında gerekli güvenlik önlemlerini alır.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "kazanc": {
+  "egitim_suresince": "Kurs döneminde genellikle ücret ödenmez. İşbaşında yetişme sürecinde çalışılan işyerinden ücret alınabilir; bu dönemde kazanç genellikle asgari ücret düzeyindedir.",
+  "egitim_sonrasi": [
+   "Belediyelerde işçi statüsünde çalışanların ücreti, ilgili toplu iş sözleşmesi hükümlerine göre belirlenir.",
+   "Özel sektörde ücret, işyerinin büyüklüğüne, çalışanın deneyimine ve işveren ile yapılan anlaşmaya göre değişir; işe başlangıçta kazanç genellikle asgari ücret düzeyindedir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Deneyim kazandıkça ekip sorumluluğu veya ustalık konumuna yükselebilir; biyosidal ürünlerle ilgili ek eğitim ve sertifikalar alarak uzmanlaşabilir.",
+  "is_hayatinda": "Kıdemli filit işçileri ekip şefliğine, saha sorumluluğuna veya işletmede idari pozisyonlara yükselebilir; yeterli deneyim ve sermaye ile kendi ilaçlama işletmesini kurabilir."
+ },
+ "benzer_meslekler": [
+  "Yabani Ot Kontrolörü",
+  "Zararlı Böcek Kontrolörü",
+  "Biyosidal Ürün Uygulayıcısı"
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T10:01:40",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6265
+  }
+ }
+}

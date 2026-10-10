@@ -1,0 +1,75 @@
+{
+ "arac_gerec": [
+  "Alanı ile ilgili öğretim programı, yıllık ve günlük çalışma planları, ders ve yoklama defterleri, öğrenci başarı takip formları",
+  "Ders kitapları, yardımcı kitaplar, iş ve işlem yaprakları, seyir ve denizcilik mevzuatına ilişkin teknik yayınlar",
+  "Deniz haritaları, seyir plotu, pusula, sekstant gibi klasik seyir araçları",
+  "Gemi köprüüstü/seyir simülatörü, radar ve GPS simülasyon sistemleri",
+  "VHF telsiz cihazı ve haberleşme eğitim setleri",
+  "Can kurtarma yeleği, can simidi, filika ve yangınla mücadele eğitim ekipmanları",
+  "Gemi maketleri, makine ve dümen düzeni eğitim setleri",
+  "Bilgisayar, projeksiyon cihazı ve eğitim yazılımları"
+ ],
+ "genel_ozellikler": [
+  "Denizcilik ve denizcilik mevzuatına ilgili,",
+  "Matematik, fizik ve coğrafya alanlarında bilgili ve bu alanlara ilgi duyan,",
+  "Sorumluluk sahibi, soğukkanlı ve kriz anlarında doğru karar verebilen,",
+  "Liderlik özelliklerine sahip, ekip yönetiminde başarılı,",
+  "İyi bir öğrenme ortamı sağlayabilen, düşüncelerini açık biçimde aktarabilen,",
+  "Dikkatli, titiz ve işine özen gösteren,",
+  "İnsanlarla iyi iletişim kurabilen; hoşgörülü ve sabırlı,",
+  "Kendini sürekli geliştirmeye istekli, mesleki gelişmeleri takip eden"
+ ],
+ "calisma_ortami": "Gemi Yönetimi ve Kaptanlığı Öğretmeni, görevini çoğunlukla okul binası içinde sınıf, atölye ve simülatör laboratuvarlarında yürütür. Teorik derslerin yanı sıra seyir simülatörü, haberleşme ve can kurtarma ekipmanlarının kullanıldığı uygulamalı eğitimler verir; bu uygulamalar sırasında ayakta ve hareketli çalışması gerekebilir. Okulun imkânlarına ve müfredata bağlı olarak bazı uygulamalı eğitimler, anlaşmalı eğitim gemisi veya tekne üzerinde, açık havada ve zaman zaman deniz koşullarına bağlı olarak yürütülebilir.\n\nÇalışma süresi genellikle okulun ders programına göre belirlenir; hazırlık, nöbet ve idari görevler nedeniyle mesai saatleri dışında da çalışma gerekebilir. Görevi sırasında öğrenciler, okul idaresi, diğer öğretmenler, veliler ve zaman zaman denizcilik sektöründeki kurum ve işletme temsilcileri ile iletişim kurar.",
+ "gorevler": [
+  "Eğitiminden sorumlu olduğu grubun düzeyine uygun bir çalışma planı hazırlar.",
+  "Sorumlu olduğu atölye, laboratuvar, işlik vb. yerleri eğitime hazır durumda tutar.",
+  "Kendisine ayrılan ders saatlerinde çalışma planını uygulayarak öğrencilere gemi yönetimi ve kaptanlığı alanı ile ilgili bilgi ve beceriler kazandırır.",
+  "Öğrencilerin başarılarını ölçer, değerlendirir, sonuçları idareye bildirir.",
+  "Alanı ile ilgili gelişmeleri izler, ihtiyaçları saptar, bunların öğretim programlarına yansıtılması için ilgililere önerilerde bulunur.",
+  "Öğrencilerin gelişimlerine katkıda bulunacak eğitim-öğretim yöntemlerini geliştirir ve uygular.",
+  "Nöbetçi olduğu günlerde okulun düzen ve disiplinini sağlar.",
+  "Öğrencilerin gelişimlerini izler, sorunlarının çözümüne yardımcı olur.",
+  "Mesleği alanındaki gelişmeleri takip eder ve uygular.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Gemi Yönetimi ve Kaptanlığı Öğretmenliği adıyla müstakil bir lisans programı bulunmamaktadır. Bu alanda öğretmen olmak isteyenler, genellikle üniversitelerin denizcilik fakülteleri ve meslek yüksekokullarında yer alan Gemi ve Deniz Teknolojisi Mühendisliği, Gemi Makineleri İşletme Mühendisliği, Deniz Ulaştırma İşletme Mühendisliği, Güvertecilik, Denizcilik İşletmeleri Yönetimi gibi ilgili lisans programlarından mezun olduktan sonra, Millî Eğitim Bakanlığı ve Yükseköğretim Kurulu iş birliğiyle açılan Öğretmenlik Meslek Bilgisi Tezsiz Yüksek Lisans Programını veya Pedagojik Formasyon Eğitimi Sertifika Programını tamamlayarak Mesleki ve Teknik Anadolu Liselerinin Denizcilik alanı/Gemi Yönetimi ve Kaptanlığı dalında öğretmen olarak atanabilirler.",
+  "giris_kosullari": [
+   "Lise veya dengi okul mezunu olmak",
+   "YKS (Yükseköğretim Kurumları Sınavı) kılavuzunda ilgili lisans programı için belirtilen giriş koşullarını taşımak",
+   "Bazı denizcilik lisans programlarına girişte sağlık (özellikle göz ve işitme) açısından uygunluk şartları aranabilir",
+   "Lisans sonrasında öğretmen olabilmek için ilgili pedagojik formasyon eğitimi veya tezsiz yüksek lisans programına kabul şartlarını taşımak"
+  ],
+  "sure_ve_icerik": "İlgili denizcilik alanındaki lisans eğitimi genellikle 4 yıl sürer; eğitim süresince seyir, gemi yönetimi, denizcilik mevzuatı, haberleşme ve güvenlik gibi derslerin yanı sıra uygulamalı gemi/staj eğitimleri yer alır. Öğretmenlik için bu lisans eğitimine ek olarak pedagojik formasyon eğitimi veya öğretmenlik meslek bilgisi tezsiz yüksek lisans programı tamamlanır.",
+  "belge": "İlgili alanda lisans diploması ile birlikte pedagojik formasyon eğitimi sertifikası veya öğretmenlik meslek bilgisi tezsiz yüksek lisans diploması alınır."
+ },
+ "calisma_alanlari": "Gemi Yönetimi ve Kaptanlığı Öğretmeni, Millî Eğitim Bakanlığına bağlı Mesleki ve Teknik Anadolu Liselerinin Denizcilik alanı/Gemi Yönetimi ve Kaptanlığı dalında atölye ve meslek dersi öğretmeni olarak çalışabilir. Ayrıca bu alanda eğitim veren özel öğretim kurumları, denizcilik eğitim ve kurs merkezleri ile ilgili mevzuata uygun diğer eğitim kuruluşlarında da görev alabilir. Kamu okullarındaki istihdam, Millî Eğitim Bakanlığının öğretmen atama ve kadro ilan süreçlerine bağlıdır; branşa duyulan ihtiyaç bölgelere ve dönemlere göre değişebilir.",
+ "kazanc": {
+  "egitim_suresince": "Lisans eğitimi süresince öğrenciler, devlet üniversitelerindeki genel burs ve kredi imkânlarından (KYK vb.) yararlanabilir; bazı denizcilik programlarında zorunlu staj veya gemi uygulaması karşılığında sınırlı bir ödeme söz konusu olabilir.",
+  "egitim_sonrasi": [
+   "Kamu okullarında çalışan öğretmenler, 657 sayılı Devlet Memurları Kanunu'na göre belirlenen öğretmen maaşı ile ek ders ücreti alır; kazanç kıdem ve unvana göre değişir.",
+   "Özel öğretim kurumlarında çalışanların ücreti işveren ile yapılan sözleşmeye, deneyime ve kurumun imkânlarına göre belirlenir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Alanında yüksek lisans ve doktora yaparak akademik kariyer yapabilir; denizcilik mevzuatı, seyir, gemi yönetimi veya eğitim teknolojileri konularında uzmanlaşabilir, ilgili sertifika programlarına katılabilir.",
+  "is_hayatinda": "Deneyim ve performansına bağlı olarak zümre başkanlığı, bölüm şefliği, müdür yardımcılığı ve okul müdürlüğü gibi idari görevlere, ayrıca denizcilik eğitimi veren kurum ve kuruluşlarda eğitim koordinatörlüğü gibi pozisyonlara yükselebilir."
+ },
+ "benzer_meslekler": [
+  "Gemi Elektroniği Öğretmeni",
+  "Gemi Ressamlığı Öğretmeni",
+  "Gemi Tesisatı Öğretmeni",
+  "Çelik Gemi Yapımı Öğretmeni",
+  "Tekne ve Yat Yapımı Öğretmeni",
+  "Ulaştırma Hizmetleri Öğretmeni"
+ ],
+ "ek_bilgiler": "Gemi Yönetimi ve Kaptanlığı alanındaki uygulamalı eğitimler, okullarda bulunan seyir/köprüüstü simülatörlerinde veya anlaşmalı eğitim gemisi/tekne üzerinde yürütülebilir. Bu nedenle öğretmenlerin güncel denizcilik mevzuatını, uluslararası denizcilik eğitim standartlarını ve simülatör teknolojilerindeki gelişmeleri sürekli takip etmesi önem taşır.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T02:46:45",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6460
+  }
+ }
+}

@@ -1,0 +1,80 @@
+{
+ "arac_gerec": [
+  "Kupola (ergitme) ocağı",
+  "Ateşlemede kullanılan odun",
+  "Kok kömürü",
+  "Gaz veya mazot",
+  "Üstüpü veya bez",
+  "Taşıma arabası (el arabası)",
+  "Hava vantilatörü/üfleyici sistemi",
+  "Pirometre veya sıcaklık göstergesi",
+  "Gözetleme delikleri/kapakları",
+  "Maşa, kanca gibi taşıma-yerleştirme aletleri",
+  "Isıya dayanıklı iş elbisesi",
+  "Koruyucu gözlük ve baret",
+  "İş eldiveni",
+  "Yangın söndürme cihazı"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve tedbirli,",
+  "Fiziksel olarak güçlü ve dayanıklı,",
+  "Yüksek ısı ve ağır çalışma koşullarına uyum sağlayabilen,",
+  "Sorumluluk sahibi,",
+  "El ve beden koordinasyonu gelişmiş,",
+  "Takım halinde çalışmaya uygun,",
+  "Talimatlara ve iş güvenliği kurallarına titizlikle uyan,",
+  "Sabırlı,"
+ ],
+ "calisma_ortami": "Kupol Ocağı Operatörü, demir-çelik döküm fabrikaları ve döküm atölyelerinin ocak bölümlerinde çalışır. Çalışma ortamı kapalı alan olmakla birlikte ocağın yakınında yüksek ısı, duman, is ve toz söz konusudur; ortam genellikle gürültülüdür. Ayakta çalışma, ağır malzeme (odun, kömür) taşıma ve yüksek ısıya yakın mesafede görev yapma gerektirir; yanma, sıcak temas, duman/is solunması gibi riskler bulunduğundan kişisel koruyucu donanımın eksiksiz kullanılması zorunludur.\n\nİşletmenin üretim programına bağlı olarak vardiyalı (gece-gündüz) çalışma düzeni yaygındır. Çalışırken şarj işçileri, döküm ustaları, kalıpçılar, vardiya amirleri ve işletme teknik personeli ile sürekli iş birliği içinde bulunur.",
+ "egitim": {
+  "verildigi_yerler": "Kupol Ocağı Operatörlüğü için ülkemizde örgün bir meslek lisesi programı veya mesleki eğitim merkezi dalı bulunmamaktadır. Meslek, genellikle demir-çelik döküm işletmelerinde deneyimli bir usta veya operatör gözetiminde işbaşında öğrenilir. Metal/döküm teknolojisi alanındaki mesleki ve teknik eğitim programları ile Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kursları, mesleğe temel oluşturacak bilgi ve beceri kazandırabilir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "Fiziksel olarak sağlıklı, yüksek ısı ve ağır iş koşullarına dayanıklı olmak (işin niteliğine göre sağlık raporu istenebilir)",
+   "Yüksek ısı ve ağır fiziksel çalışma koşulları nedeniyle genellikle 18 yaşını doldurmuş olmak tercih edilir",
+   "İşyeri tarafından belirlenen işe alım koşullarını karşılamak"
+  ],
+  "sure_ve_icerik": "Mesleğin belirli bir eğitim süresi ve resmi müfredatı bulunmamaktadır. Çalışmaya başlayanlar genellikle önce yardımcı işlerde (odun-kömür taşıma, şarj yardımcılığı) görevlendirilir; deneyim kazandıkça ocağın ateşlenmesi, hava verme sisteminin kullanılması, ısı kontrolü ve ocağın işletilmesi gibi sorumluluklar kendilerine devredilir. Bu süreçte iş sağlığı ve güvenliği ile temel metal/döküm teknolojisi konularında kısa süreli kurslara katılım faydalı olur.",
+  "belge": "Örgün bir diploma veya sertifika programı bulunmadığından, genellikle işyeri tarafından verilen çalışma/deneyim belgesi veya katılınan kurslara ilişkin katılım belgeleri söz konusudur. Mesleki Yeterlilik Kurumu (MYK) belgesi, iş sağlığı ve güvenliği açısından istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Kupol Ocağı Operatörleri, başta demir döküm olmak üzere metal döküm yapan özel sektör fabrika ve atölyelerinde istihdam edilir. Günümüzde pek çok dökümhane, çevresel ve verimlilik nedenleriyle kupola ocaklarından elektrik ark veya indüksiyon ocaklarına geçtiğinden, bu meslek sınırlı sayıda geleneksel döküm işletmesinde sürdürülmektedir. İş bulma olanakları, döküm sektörünün yoğunlaştığı sanayi bölgelerinde daha fazladır.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğin örgün bir eğitim dönemi bulunmadığından ayrı bir eğitim ücreti söz konusu değildir. İşe yeni başlayan ve yardımcı işlerde çalışanlar genellikle asgari ücret düzeyinde veya buna yakın bir ücret alır.",
+  "egitim_sonrasi": [
+   "Kamu kuruluşlarına bağlı döküm tesislerinde işçi statüsünde çalışanlar ilgili toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde ücret; çalışanın deneyimi, işletmenin büyüklüğü ve bölgesel koşullara göre değişir; işe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar, deneyim ve sorumluluk arttıkça ücret de yükselebilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğin örgün bir ilerleme basamağı (kalfalık-ustalık gibi kademeli bir eğitim sistemi) bulunmamaktadır. İlgili metal/döküm teknolojisi alanında açılan mesleki eğitim kurslarına katılarak bilgi ve belge düzeyi artırılabilir.",
+  "is_hayatinda": "Deneyim kazanan çalışanlar, yardımcı işçilikten ocak operatörlüğüne, kıdemli/usta operatörlüğe yükselebilir. Zamanla ergitme/şarj ekibi sorumluluğu, ustabaşılık veya vardiya amirliği gibi görevlere ilerleyebilir."
+ },
+ "benzer_meslekler": [
+  "İzabeci (Kupola)",
+  "Şarj İşçisi (Kupola Ocağı)",
+  "İzabeci (Metal Ergitme) (Kupola Hariç)",
+  "Potacı-Dökümcü",
+  "Çelikhane İşçisi",
+  "Diğer Metal Ergitmeciler ve Metal Tavlayıcılar"
+ ],
+ "ek_bilgiler": "Kupola ocakları, çevresel düzenlemeler ve verimlilik gerekleri nedeniyle günümüzde birçok dökümhanede elektrik ark veya indüksiyon ocaklarına bırakılmaktadır; bu nedenle meslek, günümüzde sınırlı sayıda geleneksel döküm işletmesinde sürdürülmektedir. Yüksek ısı, duman ve ağır fiziksel çalışma koşulları nedeniyle iş sağlığı ve güvenliği tedbirlerine eksiksiz uyulması önem taşır.",
+ "gorevler": [
+  "Taşıma arabaları ile ateşlemede kullanılacak odunları taşır ve odunları ocağın ateşleme kısmına çapraz olarak yerleştirir,",
+  "Odunlar arasına gaza veya mazota batırılmış üstüpü veya bez koyar,",
+  "Üstüpü veya bezi ateşleyip odunların tutuşturulmasını sağlar,",
+  "Belirli süre bekleyip yanan odunlar üzerine kömür atar,",
+  "Gözetleme deliklerini kapatır,",
+  "Hava vantilatörünü çalıştırarak ocak içine hava gönderir,",
+  "Yanan ocağa nezaret eder ve ocak ısısını pirometre veya diğer göstergeler yardımıyla kontrol eder,",
+  "İstenilen ısıya gelen ocağı ilgililere teslim eder,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T11:01:59",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6400
+  }
+ }
+}

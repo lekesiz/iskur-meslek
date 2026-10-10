@@ -1,0 +1,80 @@
+{
+ "arac_gerec": [
+  "Hassas terazi ve ölçü aletleri",
+  "Apre mahlülü hazırlama kazanları ve tankları",
+  "Seyyar tanklar",
+  "Karıştırıcı (mikser)",
+  "Süzgeç ve filtre ekipmanları",
+  "Dereceli kap, mezür",
+  "Kimyevi madde eritme/ısıtma kazanı",
+  "Reçete kartotek dosyaları/bilgisayar kayıtları",
+  "Taşıma arabası, transpalet",
+  "Kişisel koruyucu donanım (eldiven, gözlük, maske, önlük, bot)",
+  "Kimyasal madde depolama kapları",
+  "PH ölçer",
+  "Temizlik malzemeleri ve ekipmanları"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve tedbirli,",
+  "Hesap yapmaya yatkın,",
+  "El becerisine sahip,",
+  "Sorumluluk sahibi,",
+  "Talimat ve reçeteleri doğru uygulayabilen,",
+  "Ekip çalışmasına uygun,",
+  "Kimyasal maddelerle çalışmaya elverişli sağlık durumuna sahip,",
+  "Temizlik ve düzene özen gösteren,"
+ ],
+ "calisma_ortami": "Apre hazırlama işçisi, tekstil terbiye/apre işletmelerinin apre mutfağı denilen kapalı alanlarda çalışır. Çalışma ortamı genellikle nemli ve sıcaktır; kimyasal maddelerin kullanımına bağlı olarak kokular oluşabilir, zeminin ıslak ve kaygan olması söz konusu olabilir. Görevi sırasında kimyasal maddelerle doğrudan teması bulunduğundan iş sağlığı ve güvenliği kurallarına ve kişisel koruyucu donanım kullanımına dikkat etmesi gerekir.\n\nÇalışma genellikle fabrika vardiya düzenine göre yürütülür ve mesleğin icrası sırasında amirleri, makine operatörleri ve diğer üretim çalışanlarıyla sürekli iletişim halinde olunur.",
+ "gorevler": [
+  "Çalışılacak mal için gerekli apre reçetelerini kartoteksten çıkarır, yeni reçeteleri amirinden alır,",
+  "Apre mamulü hazırlayacağı ölçek, kap ve kazanları temizler,",
+  "Reçeteye göre miktarları tespit eder, kimyevi maddeleri tartar, eritir, süzer ve istenilen miktara tamamlayarak apre mahlülünü hazırlar ve gerekli ölçme ve kontrolleri yapar,",
+  "Seyyar tanklara, reçeteye göre apre mahlülü hazırlar ve çalışılacak makinenin yanına götürür,",
+  "Apre mutfağında mevcut kimyevi maddelerin korunması ve muhafazası için tedbirler alır,",
+  "Hazırlanan apre mahlülünün yetmemesi halinde tekrar hazırlar,",
+  "Apre mahlülü hazırlama sırasında görülen aksaklıkları amirine bildirir,",
+  "Apre mutfağındaki kazan, tank, karıştırıcı ve diğer donanım ile çalışma alanının temizlik ve düzenini sağlar,",
+  "Meslek alanı ile ilgili gelişmeleri takip eder, uygular,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Apre hazırlama işçiliği için ayrı bir örgün mesleki eğitim programı resmi olarak tanımlanmamıştır. Meslek, genellikle işyerlerinde işbaşında usta yanında çalışılarak veya Halk Eğitim Merkezleri ile İŞKUR tarafından açılan tekstil terbiye/apre alanındaki mesleki eğitim kurslarına katılarak kazanılmaktadır. Mesleki eğitim merkezlerinin Tekstil Teknolojisi alanına bağlı ilgili dallarında eğitim görenler de bu meslekte çalışabilecek bilgi ve beceriyi edinebilir.",
+  "giris_kosullari": [
+   "En az ilkokul/ortaokul mezunu olmak",
+   "Sağlık durumunun kimyasal maddelerle çalışmaya elverişli olması",
+   "İşe alınacağı bir işyeri bulmak (çıraklık sözleşmesi yapılması durumunda ilgili yaş ve sözleşme koşullarını sağlamak)"
+  ],
+  "sure_ve_icerik": "Mesleğin işbaşında öğrenilmesi halinde eğitim süresi, kişinin önceki bilgi ve becerisine, işin karmaşıklığına ve işyerinin uygulamasına göre değişmektedir. Kurs yoluyla alınan eğitimlerde içerik genellikle kimyasal madde tanıma ve güvenli kullanımı, reçete okuma, ölçme-tartma teknikleri, apre mahlülü hazırlama işlemleri, iş sağlığı ve güvenliği ile hijyen kurallarını kapsamaktadır.",
+  "belge": "İşbaşında eğitim sürecini tamamlayanlara işyeri tarafından çalışma/deneyim belgesi, kurs yoluyla eğitim alanlara ise kursu düzenleyen kurum tarafından katılım veya başarı belgesi verilir. Mesleki Yeterlilik Kurumu (MYK) Mesleki Yeterlilik Belgesine sahip olmak istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Apre hazırlama işçisi; tekstil terbiye (apre) işletmelerinde, kumaş boyama ve bitim işlemleri fabrikalarında, tekstil fabrikalarının boyahane/apre bölümlerinde özel sektör bünyesinde çalışır. Kamu kurumlarında bu meslek için istihdam alanı bulunmamaktadır; çalışma alanı genellikle tekstil üretiminin yoğun olduğu sanayi bölgeleridir.",
+ "kazanc": {
+  "egitim_suresince": "Çıraklık sözleşmesi ile işbaşında eğitim gören adaylara 3308 sayılı Mesleki Eğitim Kanunu gereğince belirlenen esaslara göre ücret ödenir ve iş kazası-meslek hastalığı sigorta primleri devletçe karşılanır. Kurs yoluyla eğitim alanlara ise genellikle ücret ödenmemektedir.",
+  "egitim_sonrasi": [
+   "İşe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Deneyim, iş performansı ve çalışılan işyerinin büyüklüğüne göre kazanç değişebilir.",
+   "Ücret, özel sektörde işveren ile çalışan arasındaki karşılıklı anlaşmaya göre belirlenir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Bu meslekte resmi olarak tanımlanmış bir kalfalık-ustalık ilerleme basamağı bulunmamaktadır. Çalışanlar, tekstil terbiye/apre alanında düzenlenen kurslara ve sertifika programlarına katılarak bilgi ve becerilerini geliştirebilir. Açık öğretim yoluyla genel eğitim düzeyini yükseltenler, ilgili mesleki ve teknik eğitim programlarına yönelebilir.",
+  "is_hayatinda": "Deneyim kazanan apre hazırlama işçileri, apre ustalığına, bölüm sorumluluğuna veya vardiye amirliğine yükselebilir. Yeterli bilgi, deneyim ve sermayeye sahip olanlar kendi işyerlerini açabilir."
+ },
+ "benzer_meslekler": [
+  "Tekstil Terbiye İşçisi (Apre)",
+  "Tekstil Terbiye İşçisi",
+  "Tekstil Terbiye İşçisi (Boya)",
+  "Kumaş Boya Hazırlayıcısı",
+  "Boya ve Apre Operatörü",
+  "Tekstil Bitim İşlemecisi (Apreci)"
+ ],
+ "ek_bilgiler": "Meslek, kimyasal maddelerle doğrudan temas gerektirdiğinden kişisel koruyucu donanım kullanımı ve kimyasal madde depolama/kullanım kurallarına uyum önem taşımaktadır. Tekstil sektöründeki üretim yoğunluğuna bağlı olarak istihdam, sanayi bölgelerinde yoğunlaşmış işletmelerde yer almaktadır.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T14:32:31",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6508
+  }
+ }
+}

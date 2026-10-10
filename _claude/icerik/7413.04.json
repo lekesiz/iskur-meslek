@@ -1,0 +1,76 @@
+{
+ "arac_gerec": [
+  "Direk tırmanma ekipmanları (krampon, emniyet kemeri, can halatı)",
+  "İzolatör ve paratoner tesisatı malzemeleri",
+  "Tel ve kablo makaraları",
+  "Tel germe ve gerdirme aletleri",
+  "Pense, kargaburun, yan keski gibi el aletleri",
+  "Kablo soyma bıçağı ve ekleme (splice) malzemeleri",
+  "Lehim takımı ve havya",
+  "Avometre, meger gibi ölçüm aletleri",
+  "Direk dikme ekipmanları (kazma, kürek, varil, vinç)",
+  "Koruyucu baret, iş eldiveni ve iş ayakkabısı",
+  "Merdiven ve iskele",
+  "El feneri ve işaret bayrağı"
+ ],
+ "benzer_meslekler": [
+  "Diğer Hat Çekiciler ve Kablo Ekleyiciler",
+  "Hat Çekici (Elektrik Cer Hatları)",
+  "Hat Çekici (Elektrik Enerjisi)",
+  "Kablo Ekleyici-Elektrik",
+  "Elektrik Direği Dikim İşçisi",
+  "Zayıf Akım Tesisatçısı (Çağırma - Haberleşme - Güvenlik)"
+ ],
+ "calisma_alanlari": "Hat Çekici (Telefon ve Telgraf), başta telekomünikasyon şirketleri olmak üzere elektrik dağıtım şirketleri, belediyeler, kamu kurumlarının haberleşme birimleri ve altyapı/taahhüt firmalarında çalışabilir.\\n\\nGünümüzde telgraf hizmetinin kullanımı büyük ölçüde sona ermiş, sabit telefon hatlarında da fiber optik ve kablosuz iletişim teknolojileri yaygınlaşmıştır. Bu nedenle meslek elemanları çoğunlukla mevcut bakır hat şebekelerinin bakım-onarımı, elektrik hattı döşeme ve benzeri işlerde istihdam edilmekte; sektördeki teknolojik dönüşüm nedeniyle bu meslekteki iş bulma olanakları zamanla azalmaktadır.",
+ "calisma_ortami": "Hat Çekici (Telefon ve Telgraf) açık havada, şehir içi ve şehirlerarası yollarda, kırsal alanlarda, her türlü hava koşulunda (yağmur, kar, sıcak, soğuk) çalışır. Direklere tırmanarak yükseklikte çalışır; bu nedenle yüksekten düşme ve elektrik çarpması riskleri bulunur. Yer altı kablo çalışmalarında kazı ve hendek ortamında da görev yapar.\\n\\nÇalışma genellikle ekip halinde yürütülür; ustabaşı, diğer hat çekicileri, elektrik teknisyenleri ve kurum/işletme teknik personeli ile iletişim kurar. Çalışma saatleri değişkenlik gösterebilir; acil arıza durumlarında mesai saatleri dışında da göreve çağrılabilir.",
+ "ek_bilgiler": "Bu meslek, geleneksel bakır telefon ve telgraf hatlarına dayanmaktadır. Fiber optik kablolama ile kablosuz iletişim teknolojilerinin yaygınlaşması nedeniyle güncel istihdam alanı giderek daralmaktadır. Yüksekte çalışma gerektirmesi nedeniyle iş sağlığı ve güvenliği eğitimi ile uygun koruyucu ekipman (emniyet kemeri, baret vb.) kullanımı özel önem taşır.",
+ "egitim": {
+  "verildigi_yerler": "Bu mesleğe özgü, bağımsız bir örgün mesleki ve teknik eğitim programı bulunmamaktadır. Meslek elemanları genellikle Elektrik-Elektronik Teknolojisi alanı kapsamındaki mesleki eğitim merkezleri veya meslek liselerinde elektrik tesisatçılığı ile ilgili temel eğitimi aldıktan sonra, telekomünikasyon veya elektrik dağıtım işletmelerinde usta yanında işbaşında yetişerek bu mesleğe yönelirler. Ayrıca Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kurslarında temel elektrik tesisatçılığı eğitimi alınabilir.",
+  "giris_kosullari": [
+   "En az ilköğretim/ortaokul mezunu olmak",
+   "Yükseklikte çalışmaya engel bir sağlık sorunu bulunmamak (sağlık raporu ile belgelenir)",
+   "Çıraklık/mesleki eğitime başlamak için ilgili yaş koşullarını taşımak, yüksekte ve riskli işlerde çalışabilmek için 18 yaşını doldurmuş olmak"
+  ],
+  "sure_ve_icerik": "Bu meslek için standart bir okul eğitimi süresi tanımlanmamıştır. İlgili elektrik tesisatçılığı alanındaki mesleki eğitim merkezi/meslek lisesi programı yaklaşık 4 yıl sürebilir (3 yıl kalfalık, 1 yıl ustalık eğitimi). Bu temel eğitimin ardından hat çekiciliğine özgü bilgi ve beceriler, çalışılan işletmede usta yanında ve hizmet içi eğitimlerle uygulamalı olarak kazanılır.",
+  "belge": "İlgili mesleki eğitim programını tamamlayanlara kalfalık/ustalık belgesi verilir. Ayrıca çalışılan kurum/işletme tarafından düzenlenen hizmet içi eğitim, yüksekte çalışma ve iş güvenliği sertifikaları verilebilir. Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "genel_ozellikler": [
+  "Yükseklik korkusu olmayan",
+  "El becerisine sahip",
+  "Dikkatli ve sabırlı",
+  "Fiziksel olarak güçlü ve dayanıklı",
+  "Açık havada ve değişen iklim koşullarında çalışmaya istekli",
+  "Denge ve koordinasyonu iyi",
+  "Takım çalışmasına uyumlu",
+  "Sorumluluk sahibi"
+ ],
+ "gorevler": [
+  "Direklere tırmanarak buralara izolatörler, paratoner tesisatı ve diğer yardımcı teçhizatı takar.",
+  "Değişen hava şartları altında kopmaması için gerekli eğimi vermeye özellikle dikkat ederek direkten direğe veya evlere tel çeker ve bağlar.",
+  "Telleri çeşitli yöntemlerle ekler.",
+  "Arızalı telleri ve yardımcı teçhizatı tamir eder.",
+  "Yer altı telefon ve telgraf kablolarını döşer ve tamir eder.",
+  "Direk diker.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "İlgili mesleki eğitim programından mezun olanlar, yükseköğretime giriş sınavlarında başarılı oldukları takdirde elektrik-elektronik teknolojileri ile ilgili ön lisans/lisans programlarına yönelebilirler. Çeşitli hizmet içi eğitim ve kurslara katılarak mesleki bilgi ve beceriler geliştirilebilir.",
+  "is_hayatinda": "Deneyim kazanan meslek elemanları ekip şefliği veya ustabaşılığı gibi görevlere yükselebilir; teknik bilgi ve eğitimini artıranlar teknisyenlik veya saha denetçiliği gibi pozisyonlara geçebilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Çıraklık/mesleki eğitim kapsamında eğitim görenlere, 3308 sayılı Mesleki Eğitim Kanunu çerçevesinde işletmelerde asgari ücretin belirli bir oranından az olmamak üzere ücret ödenir; eğitim gören öğrencilerin iş kazası ve meslek hastalıkları sigorta primleri devletçe karşılanır.",
+  "egitim_sonrasi": [
+   "Kamu kurum/kuruluşlarında çalışanlar 657 sayılı Devlet Memurları Kanunu veya ilgili toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde işe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Deneyim, uzmanlık ve çalışılan işletmenin büyüklüğüne bağlı olarak kazanç artabilir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T06:17:53",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6332
+  }
+ }
+}

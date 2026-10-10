@@ -1,0 +1,74 @@
+{
+ "gorevler": [
+  "İş sağlığı ve güvenliği ile çevre koruma önlemlerini uygular.",
+  "SSG'nin günlük bakım kontrollerini yapar.",
+  "SSG'yi yürütür.",
+  "SSG'yi konumlandırır.",
+  "SSG ile yük elleçler.",
+  "Mesleki gelişim faaliyetlerine katılır."
+ ],
+ "arac_gerec": [
+  "SSG (konteyner taşıyıcı/straddle carrier) aracı",
+  "Konteyner kaldırma aparatı (spreader)",
+  "Araç kumanda ve gösterge paneli",
+  "Telsiz/haberleşme cihazı",
+  "Kask, iş elbisesi, çelik burunlu ayakkabı, eldiven, reflektörlü yelek gibi kişisel koruyucu donanım",
+  "Günlük bakım-kontrol formları",
+  "El feneri",
+  "Yağlama ve basit bakım ekipmanları",
+  "Yangın söndürme cihazı",
+  "İlk yardım çantası",
+  "İş emri/talimat formları"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve tedbirli,",
+  "Sorumluluk sahibi,",
+  "El ve gözlerini eşgüdümle kullanabilen,",
+  "Çevresindeki uyarıları hızla algılayabilen,",
+  "Mekaniğe ve tekniğe ilgili,",
+  "Kapalı kabinde uzun süre dikkatini koruyabilen,",
+  "Ekip çalışmasına yatkın,",
+  "Talimat ve kurallara uyan"
+ ],
+ "calisma_ortami": "Liman SSG Operatörü, işini genellikle limanların konteyner terminallerinde, açık sahada bulunan SSG aracının kabininde oturarak yürütür. Çalışma ortamı sıcak, soğuk, yağmurlu, rüzgârlı ve gürültülü olabilir; ayrıca ağır yük elleçleme, yüksekte çalışma ve yoğun araç trafiği nedeniyle iş kazası riski taşır, bu yüzden iş sağlığı ve güvenliği kurallarına titizlikle uyulması gerekir. Liman operasyonlarının kesintisiz sürmesi nedeniyle çalışma genellikle vardiyalı sistemde (gündüz, gece, hafta sonu dahil) yürütülür.\n\nOperatör, çalışması sırasında saha amirleri, diğer vinç/RTG operatörleri, forklift ve çekici sürücüleri, bakım personeli ve güvenlik görevlileri ile sürekli telsiz veya işaretle iletişim hâlindedir.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi, liman işletmelerinin kendi bünyesinde düzenlediği işbaşı/usta yanında eğitim uygulamaları, Halk Eğitim Merkezleri ile İŞKUR'un açtığı mesleki eğitim kursları ve bazı özel kurs firmaları aracılığıyla verilmektedir.",
+  "giris_kosullari": [
+   "18 yaşını doldurmuş olmak",
+   "En az ilköğretim mezunu olmak",
+   "Operatörlük yapmasına engel olabilecek sağlık sorununun (görme, işitme, denge vb.) bulunmaması",
+   "İşe alınacak liman işletmesinin belirlediği fiziksel ve sağlık şartlarını taşımak"
+  ],
+  "sure_ve_icerik": "Eğitimin süresi, verildiği kurum ve programa göre değişmekle birlikte genellikle SSG'nin teknik yapısı ve çalışma prensipleri, araç kumanda sistemleri, günlük bakım ve kontrol esasları, konteyner/yük elleçleme teknikleri, iş sağlığı ve güvenliği gibi konularda teorik dersler verilir. Teorik eğitimin ardından işletme bünyesinde deneyimli bir operatör gözetiminde uygulamalı işbaşı eğitimi (staj) yapılır.",
+  "belge": "Eğitimi başarıyla tamamlayanlara kurumunca katılım belgesi veya operatör belgesi verilir. Mesleki Yeterlilik Kurumu (MYK) tarafından düzenlenen ilgili alan yeterlilik belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Liman SSG Operatörleri; kamu veya özel sektöre bağlı limanların konteyner terminallerinde, antrepolarda ve lojistik merkezlerinde çalışabilir. Türkiye'de dış ticaret hacminin ve konteyner taşımacılığının gelişmesine paralel olarak liman işletmelerinde nitelikli operatörlere duyulan ihtiyaç devam etmektedir.",
+ "kazanc": {
+  "egitim_suresince": "İşbaşı eğitim veya kurs süresince genellikle doğrudan bir kazanç elde edilmez; bazı işletmelerde eğitim sürecinde çalışanlara sınırlı düzeyde bir ödeme yapılabilir.",
+  "egitim_sonrasi": [
+   "Kamu kuruluşlarına bağlı limanlarda çalışanlar 657 sayılı Kanun'a tabi memur statüsündeyse ilgili mevzuata, işçi statüsündeyse toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde çalışanların kazancı; işyerinin büyüklüğüne, kişinin deneyimine, bilgi ve yeteneğine, sektörün genel ücret düzeyine göre değişmekle birlikte yeni başlayanlar için genellikle asgari ücret düzeyindedir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Meslekte örgün bir dikey ilerleme basamağı bulunmamaktadır. Operatör, alacağı ek kurs ve belgelerle RTG, mobil vinç gibi diğer liman ekipmanlarını kullanma yetkinliği kazanarak görev alanını genişletebilir.",
+  "is_hayatinda": "Deneyim kazanan operatörler zamanla vardiya sorumlusu veya saha/ekip amiri gibi görevlere yükselebilir. Yeterli sermaye ve tecrübeye sahip olanların bu alanda kendi işini kurma imkânı sınırlıdır, çünkü SSG işletmeciliği büyük ölçüde kurumsal liman işletmelerine bağlıdır."
+ },
+ "benzer_meslekler": [
+  "Liman RTG Operatörü",
+  "Liman Vinç Operatörü (RTG ve SSG)",
+  "Gantry Crane Vinç Operatörü",
+  "Mobil Vinç Operatörü (MHC, Sahil ve Gemi Vinci)",
+  "Rıhtım Vinç Operatörü",
+  "Transteynir Operatörü (Gemi)"
+ ],
+ "ek_bilgiler": "SSG operatörlüğü; ağır yük elleçleme, yükseklik ve kapalı kabinde uzun süreli dikkat gerektiren bir meslektir. Bu nedenle işe giriş ve çalışma sürecinde periyodik sağlık muayeneleri ile düzenli iş güvenliği eğitimleri önem taşır; mesleğin tehlike sınıfı ve buna bağlı yasal yükümlülükler, çalışılan işyerinin faaliyet alanına ve mevzuata göre değişebilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T19:03:06",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5681
+  }
+ }
+}

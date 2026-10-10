@@ -1,0 +1,79 @@
+{
+ "arac_gerec": [
+  "Fitil (flayer) makinesi",
+  "Şerit kovaları",
+  "Çağlıklar",
+  "Boş ve dolu fitil makaraları",
+  "İğ ve mekanizmaları",
+  "Bobin/masura",
+  "Şerit/fitil kopma onarım aparatları",
+  "Basınçlı hava tabancası (temizlik için)",
+  "Temel bakım el aletleri",
+  "Temizlik malzemeleri",
+  "Koruyucu iş elbisesi ve eldiven",
+  "Kulak koruyucu"
+ ],
+ "genel_ozellikler": [
+  "El ve göz koordinasyonuna sahip,",
+  "Dikkatli ve tedbirli,",
+  "Sabırlı ve düzenli çalışabilen,",
+  "Fiziksel olarak ayakta ve uzun süre çalışmaya uygun,",
+  "Makine ve teknik aletlere ilgili,",
+  "Ekip hâlinde çalışmaya yatkın,",
+  "Sorumluluk sahibi"
+ ],
+ "gorevler": [
+  "Çalışma alanının temizlik ve düzenini sağlar.",
+  "Arızaları ilgililere bildirir.",
+  "Fitil makinesinin kontrol ve temizliğini yapar.",
+  "Şerit kovalarını makine haznesine besler.",
+  "Şeritleri çağlıklardan geçirerek çekim bölgesine getirir.",
+  "Boş makaraları iğe takar.",
+  "Şeridi büküm ve sarıma hazırlar.",
+  "Fitil ve şerit akışını gözlemler.",
+  "Şerit/fitil kopma ve sarmalarına müdahale eder.",
+  "Dolu fitil makaralarını stoklar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "calisma_ortami": "Fitil (Flayer) Makineciler, iplik fabrikalarının cer-fitil-iplik üretim hattında, kapalı mekânlarda çalışırlar. Çalışma ortamı genellikle gürültülü olup havada elyaf/lif tozu bulunabilir; bu nedenle koruyucu kıyafet ve ekipman kullanımı önemlidir. Görev tam gün sürdürülür, işletmenin üretim düzenine bağlı olarak vardiyalı çalışma söz konusu olabilir, ayakta ve hareketli çalışma gerektirir.\n\nÇalışma sırasında temel olarak makine, şerit ve fitil malzemesi ile ilgilenilir. Zaman zaman vardiya amiri, bakım personeli ve diğer makine operatörleriyle iletişim kurulur. Mesleğin icrasında dikkat ve tedbir gerektiren, hareketli aksamı bulunan makinelerle çalışıldığından iş sağlığı ve güvenliği kurallarına uyulması önem taşır.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi için standart bir örgün okul programı bulunmamaktadır. Meslek elemanları çoğunlukla işyerlerinde usta yanında işbaşında yetişir. Bunun yanında, bazı Halk Eğitim Merkezleri ile İŞKUR tarafından açılan mesleki eğitim kurslarında ve mesleki eğitim merkezlerinin tekstil teknolojisi alanı kapsamında da mesleğe yönelik bilgi ve beceri kazandırılabilmektedir.",
+  "giris_kosullari": [
+   "İlköğretim mezunu olmak (meslekte aranan asgari eğitim düzeyi)",
+   "İşbaşı eğitimine başlamak için temel okuryazarlık düzeyinde olmak",
+   "Açılan kurslara katılım için kursu düzenleyen kurumun belirlediği yaş ve öğrenim şartlarını taşımak"
+  ],
+  "sure_ve_icerik": "Mesleğin eğitimi için standart bir süre belirlenmemiştir. İşbaşında yetişme süresi, kişinin önceki tecrübesine ve işletmenin uygulamasına göre değişiklik gösterir. Açılan kurslarda ise genellikle fitil makinesinin tanıtımı ve çalışma prensibi, şerit/fitil besleme, çekim-büküm-sarım işlemleri, makine bakım ve temizliği ile iş sağlığı ve güvenliği konularında bilgi ve beceri kazandırılır.",
+  "belge": "İşbaşında yetişenlere resmi bir eğitim belgesi verilmez; çalıştığı işyerinden deneyim/hizmet belgesi alabilirler. Kurs yoluyla eğitim alanlara ise kursu düzenleyen kurum tarafından 'Kurs Bitirme/Katılım Belgesi' verilir."
+ },
+ "calisma_alanlari": "Fitil (Flayer) Makineciler, iplik üretimi yapan tekstil fabrikalarında, özellikle cer-fitil-iplik üretim hattının fitil (flayer) bölümünde istihdam edilirler. Pamuklu, yünlü ve sentetik iplik üreten işletmelerde çalışma olanağı bulunmaktadır. Meslek mensupları genellikle özel sektörde istihdam edilir; kamu kurumlarında bu meslekte doğrudan istihdam olanağı sınırlıdır. Tekstil sanayinin yoğun olduğu bölgelerde iş bulma olanağı daha fazladır.",
+ "kazanc": {
+  "egitim_suresince": "Meslek çoğunlukla işbaşında, işyerinde çalışarak öğrenildiği için bu süreçte genellikle asgari ücret düzeyinde bir kazanç söz konusu olabilir. Kurs yoluyla eğitim alınması durumunda ise eğitim süresince herhangi bir kazanç söz konusu değildir.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanların kazancı genellikle asgari ücret düzeyindedir.",
+   "Deneyim, iş hızı ve işletmedeki konumuna (örneğin vardiya sorumluluğu) bağlı olarak kazanç artabilir.",
+   "Özel sektörde ücret; işveren ile çalışan arasındaki anlaşmaya, işletmenin büyüklüğüne ve çalışanın tecrübesine göre değişiklik gösterir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "İşletme bünyesinde düzenlenen hizmet içi eğitimlerle, iplik hazırlama hattındaki cer, tarak, ring/open-end gibi diğer makinelerde de çalışabilecek bilgi ve beceri kazanılabilir.",
+  "is_hayatinda": "Deneyim kazandıkça usta, vardiya sorumlusu veya bölüm şefliğine yükselebilir. İplik hazırlama ve eğirme hattının diğer makinelerinde (cer, ring, open-end vb.) operatör olarak görev alabilir."
+ },
+ "benzer_meslekler": [
+  "Cer Makinesi Operatörü-Tekstil",
+  "Tarak Makinesi Operatörü-Tekstil",
+  "İplik Eğirme Operatörü (Ring/vater/vargel)",
+  "Ön İplik Operatörü",
+  "Fitil Katlayıcı",
+  "Harman-Hallaç Makinesi Operatörü"
+ ],
+ "ek_bilgiler": "",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T13:24:34",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5477
+  }
+ }
+}

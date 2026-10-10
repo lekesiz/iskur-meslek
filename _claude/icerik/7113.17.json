@@ -1,0 +1,83 @@
+{
+ "arac_gerec": [
+  "Taş/mermer kesme makinesi (disk testere)",
+  "Köprü tipi kesim makinesi",
+  "Su jeti (waterjet) kesim makinesi",
+  "Taş işleme torna makinesi",
+  "Parlatma (cila) makinesi",
+  "Honlama makinesi",
+  "Kumlama ekipmanı ve kompresör",
+  "Oyma-kabartma el aletleri (keski, murç, mucarta, çekiç)",
+  "Elektrikli el breyizi (taşlama/kesme)",
+  "Zımpara taşı ve aşındırıcı diskler",
+  "Mozaik döşeme ve dolgu malzemeleri",
+  "Mastar, gönye, metre gibi ölçüm aletleri",
+  "Kişisel koruyucu donanım (gözlük, eldiven, toz maskesi, kulaklık)",
+  "Kaldırma ve taşıma ekipmanları (vinç, forklift, el arabası)"
+ ],
+ "genel_ozellikler": [
+  "El becerisine sahip,",
+  "Şekil ve uzay ilişkilerini görebilen,",
+  "El ve gözünü eşgüdümle kullanabilen,",
+  "Dikkatli ve sabırlı,",
+  "Estetik görüşe ve ayrıntıya özen gösteren,",
+  "Fiziksel olarak dayanıklı,",
+  "Ekip çalışmasına uyumlu,",
+  "İş sağlığı ve güvenliği kurallarına duyarlı"
+ ],
+ "calisma_ortami": "\"Mermer-doğaltaş özel imalat elemanları genellikle atölye, fabrika veya taş/mermer işleme tesislerinde, kapalı mekanlarda çalışır; blok taşıma ve bazı kesim işlemleri açık alanda da yapılabilir. Çalışma ortamı taş tozu nedeniyle tozlu, kesme ve parlatma makineleri nedeniyle gürültülü olabilir; keskin ve dönen aletlerle, elektrikli ve basınçlı ekipmanlarla çalışıldığından iş kazası riski taşır. Görev genellikle ayakta yürütülür; ağır malzeme kaldırma, eğilme ve belirli duruşlarda uzun süre çalışma gerekebilir.\\n\\nMeslek mensubu; işyeri sahibi/yöneticisi, ustabaşı, diğer meslektaşları ve müşteriler ile iletişim kurar. Çalışma süresi genellikle haftanın altı günü, gündüz saatlerinde olup iş yoğunluğuna göre fazla çalışma gerekebilir.\"",
+ "calisma_alanlari": "\"Mermer-doğaltaş özel imalat elemanları; mermer ve doğaltaş işleme atölyelerinde, mermer-granit fabrikalarında, taş ocağına bağlı işleme tesislerinde, mezar taşı ve anıt imalathanelerinde, mimari süsleme ve dekorasyon işleri yapan işletmelerde, mozaik üretim atölyelerinde ve inşaat/yapı malzemeleri sektöründeki ilgili firmalarda çalışma olanağı bulurlar. Doğaltaşın iç ve dış mekan dekorasyonunda, cephe kaplamalarında, mobilya ve süs eşyası üretiminde yaygın kullanılması nedeniyle sektörde nitelikli eleman ihtiyacı sürmektedir. İş bulma olanakları, bölgede mermer/doğaltaş kaynağı ve işleme tesislerinin yoğunluğuna göre değişmektedir.\"",
+ "kazanc": {
+  "egitim_suresince": "Mesleki eğitim merkezlerinde çıraklık eğitimi alanlara, 3308 sayılı Mesleki Eğitim Kanunu kapsamında ilgili mevzuatta belirlenen asgari bir ücret ödenir ve iş kazası-meslek hastalığı sigortası primleri devletçe karşılanır. İŞKUR veya Halk Eğitim Merkezleri aracılığıyla katılınan kurslarda ise genellikle kursiyer harçlığı/cep harçlığı uygulaması söz konusudur.",
+  "egitim_sonrasi": [
+   "İşe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç elde eder.",
+   "Deneyim, beceri düzeyi, çalışılan işletmenin büyüklüğü ve bölgeye göre ücret değişebilir.",
+   "Özel sektörde çalışanların ücreti işveren ile karşılıklı anlaşma sonucu belirlenir; kamuda işçi statüsünde istihdam söz konusu olduğunda ilgili toplu iş sözleşmesi hükümleri geçerlidir.",
+   "Ustalık düzeyine ulaşan ve kendi işyerini açan meslek mensuplarının kazancı işletmenin kapasitesine göre değişkenlik gösterir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleki eğitim merkezinde çıraklık eğitimini tamamlayıp kalfalık belgesi alanlar, bir işyerinde çalışmaya devam ederken ustalık eğitimine katılarak ustalık belgesi alabilirler. İlköğretim/ortaokul mezunu kalfa ve ustalar, açık öğretim yoluyla örgün ortaöğretim diploması almayı sürdürebilirler.",
+  "is_hayatinda": "Meslekte deneyim kazananlar usta, ustabaşı veya atölye sorumlusu olarak görev alabilir. Usta öğreticilik belgesine sahip olanlar işyerinde çırak eğitimi verebilir. Ustalık belgesine sahip olanlar kendi adına bağımsız bir mermer-doğaltaş işleme atölyesi açabilir."
+ },
+ "benzer_meslekler": [
+  "Taşçı",
+  "Mermer İşçisi",
+  "Mermerci ve Süsleme Taşçısı",
+  "Mozaikçi",
+  "Taş Oyma İşçisi (Elle)",
+  "Taş Perdah İşçisi (Elle)"
+ ],
+ "ek_bilgiler": "\"Meslek, kesici-aşındırıcı makineler ve basınçlı sistemlerle (su jeti, kumlama vb.) çalışmayı içerdiğinden iş sağlığı ve güvenliği kurallarına, kişisel koruyucu donanım kullanımına özel önem verilmelidir. Taş tozuna uzun süreli maruziyete karşı solunum koruması önemlidir. Mesleki Yeterlilik Kurumu (MYK) tarafından belirlenen mesleki yeterlilik belgesi, istihdamda ve ilgili risk sınıfındaki işlerde çalışabilmede tercih sebebi olabilir.\"",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi, 3308 sayılı Mesleki Eğitim Kanunu kapsamında, yeterli talep bulunması durumunda Mesleki Eğitim Merkezlerinin ilgili inşaat/taş işleme alan ve dallarında çıraklık eğitimi şeklinde verilebilmektedir. Bunun yanında Halk Eğitim Merkezleri ile İŞKUR tarafından açılan mesleki eğitim kurslarında da taş/mermer işleme ile ilgili beceri kazandırılabilir. Mesleğe, çoğu zaman mermer-doğaltaş işleme atölyelerinde işbaşında usta yanında yetişerek de girilmektedir.",
+  "giris_kosullari": [
+   "Çıraklık eğitimine başlamak için en az ilköğretim/ortaokul mezunu olmak",
+   "İlgili mevzuatta belirtilen asgari yaşı doldurmuş olmak",
+   "Eğitim görmek istediği meslekte bir işyeri ile çıraklık sözleşmesi imzalamak",
+   "Fiziksel olarak ağır işleri yapabilecek sağlık durumuna sahip olmak"
+  ],
+  "sure_ve_icerik": "Çıraklık eğitiminde teorik dersler haftada bir gün mesleki eğitim merkezinde, pratik eğitim ise haftanın diğer günlerinde işyerinde usta öğretici gözetiminde yürütülür. Eğitim içeriğinde iş sağlığı ve güvenliği, taş/mermer tanıma, kesim ve şekillendirme teknikleri, yüzey işleme (parlatma, honlama, kumlama, oyma-kabartma vb.) ve mozaik uygulamaları yer alır. Eğitim süresi, öğrencinin genel eğitim düzeyine göre değişmekle birlikte ilköğretim sonrası genellikle birkaç yıl sürer.",
+  "belge": "Çıraklık eğitimini tamamlayıp kalfalık sınavında başarılı olanlara Kalfalık Belgesi, ardından ustalık eğitimi ve sınavını tamamlayanlara Ustalık Belgesi verilir. Kurs yoluyla yetişenlere katılım/kurs tamamlama belgesi düzenlenebilir."
+ },
+ "gorevler": [
+  "İşyeri kalite, çevre, iş sağlığı ve güvenliği politikalarını uygular.",
+  "İş öncesi hazırlık çalışmalarını yapar.",
+  "Kesim işlemini yapar.",
+  "Parlatma işlemini yapar.",
+  "Torna makinesi ile mermer-doğaltaş işler.",
+  "Mermer-doğaltaş yüzeylerini işler.",
+  "Oyma kabartma işleri yapar.",
+  "Mozaik yapar.",
+  "Su jeti ile mermer işler.",
+  "Mesleki gelişim faaliyetlerine katılır."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T22:29:55",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5775
+  }
+ }
+}

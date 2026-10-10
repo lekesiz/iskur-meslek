@@ -1,0 +1,81 @@
+{
+ "arac_gerec": [
+  "Seri üretim (PLC, NC, CNC) tezgahları",
+  "Kesici takımlar ve uçlar (freze, matkap, torna kalemi vb.)",
+  "Takım bağlama aparatları (ayna, pens, mengene, kalıp)",
+  "Ölçü ve kontrol aletleri (kumpas, mikrometre, mastar, şablon)",
+  "Teknik resim, kroki ve iş talimatları",
+  "Kesme/soğutma sıvıları",
+  "Kaldırma ve taşıma ekipmanları (vinç, forklift, el arabası)",
+  "Temizlik bez ve malzemeleri",
+  "El aletleri (anahtar takımı, tornavida, pense)",
+  "Kişisel koruyucu donanım (eldiven, iş gözlüğü, kulaklık, iş elbisesi)"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve tedbirli,",
+  "El ve göz koordinasyonu iyi olan,",
+  "Makine ve teknik aletlerle çalışmaktan hoşlanan,",
+  "Teknik resim ve talimatları doğru okuyup uygulayabilen,",
+  "Sorumluluk sahibi,",
+  "Fiziksel olarak dayanıklı,",
+  "Takım halinde çalışmaya uyumlu,",
+  "Düzenli ve disiplinli"
+ ],
+ "calisma_ortami": "Seri üretim tezgah operatörü, genellikle fabrika veya atölye ortamında, kapalı mekanda ve çoğunlukla ayakta çalışır. Çalışma ortamı makine sesi nedeniyle gürültülü olabilir; kesme sıvısı, metal talaşı ve yağ gibi maddelerle teması söz konusudur. Bu nedenle iş güvenliği kurallarına ve kişisel koruyucu donanım kullanımına uyulması önemlidir.\\n\\nÜretimin kesintisiz sürdürüldüğü işletmelerde vardiyalı çalışma düzeni uygulanabilir. Çalışırken ustabaşı, mühendis, kalite kontrol elemanları ve diğer tezgah operatörleriyle iş birliği içinde bulunur; büyük ölçüde makine ve araç gereçlerle ilgilenir.",
+ "egitim": {
+  "verildigi_yerler": "Bu meslek için örgün eğitimde ayrı bir meslek lisesi dalı bulunmamakla birlikte, Metal Teknolojisi alanı kapsamındaki mesleki ve teknik eğitim programları ile mesleki eğitim merkezlerinde verilen ilgili dallar meslekle ilgili temel bilgi ve beceriyi kazandırır. Bunun yanında Halk Eğitim Merkezleri ve İŞKUR tarafından açılan CNC/NC tezgah operatörlüğü kursları ile işyerlerinde usta yanında işbaşı eğitimi de meslek edinmede yaygın olarak kullanılan yollardır.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak (meslek, Türk Meslekler Sözlüğünde ilköğretim düzeyinde eğitim gerektiren bir meslek olarak tanımlanmıştır)",
+   "Çıraklık/mesleki eğitim yoluyla girişte ilgili yaş ve sağlık koşullarını sağlamak",
+   "Kurs yoluyla eğitimde ilgili kurumun belirlediği yaş ve ön koşulları karşılamak",
+   "İşyerinde çalışarak öğrenmede bir işveren tarafından işe alınmış olmak"
+  ],
+  "sure_ve_icerik": "Eğitimin süresi ve içeriği izlenen yola göre değişir. Mesleki ve teknik eğitim programlarında eğitim, ilgili alanın normal öğretim süresi içinde genel kültür dersleri ile birlikte metal işleme, takım bağlama, tezgah tanıma, teknik resim okuma, ölçü ve kontrol teknikleri, iş sağlığı ve güvenliği konularını kapsar. Kurs yoluyla eğitimde ise süre kursun içeriğine göre değişmekle birlikte genellikle tezgahın tanıtımı, takım bağlama-sökme, parça yerleştirme, ölçü kontrolü, basit ayar düzeltmeleri ve iş güvenliği konularını içerir. İşyerinde usta yanında eğitimde ise bilgi ve beceri, kişinin fiilen çalışarak ve gözlem yoluyla kazanılır.",
+  "belge": "İzlenen eğitim yoluna göre meslek lisesi/mesleki eğitim merkezi diploması, kurs bitirme/katılım belgesi veya işyeri tarafından düzenlenen belge alınabilir. Mesleki Yeterlilik Kurumu (MYK) Ulusal Yeterlilik Belgesi, bazı işletmelerce istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Seri üretim tezgah operatörleri, başta metal işleme ve makine imalat sanayi olmak üzere, otomotiv ve otomotiv yan sanayi, dayanıklı tüketim malları, makine ve ekipman üretimi yapan fabrika ve atölyelerde; organize sanayi bölgelerinde ve küçük-orta ölçekli metal işleme işletmelerinde istihdam edilirler. Seri üretim yapan işletmelerin yaygınlığı nedeniyle meslekte iş bulma olanağı, sanayi üretiminin yoğun olduğu bölgelerde nispeten daha fazladır. Üretimde otomasyon ve CNC teknolojisinin yaygınlaşması, mesleğin geleceğinde bu alanlarda bilgi sahibi olan operatörlere olan talebi artırmaktadır.",
+ "kazanc": {
+  "egitim_suresince": "Eğitim örgün mesleki ve teknik eğitim veya çıraklık yoluyla alınıyorsa, 3308 sayılı Mesleki Eğitim Kanunu kapsamında işletmelerde mesleki eğitim gören öğrencilere ilgili mevzuata uygun ücret ödenir ve iş kazası ile meslek hastalıkları sigortası devletçe karşılanır. Kurs yoluyla eğitimde genellikle ücret ödenmez; işyerinde çalışarak eğitimde ise işveren ile yapılan anlaşmaya göre ücret alınabilir.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Kazanç; çalışılan sektör, işletmenin büyüklüğü, kullanılan tezgah türü (CNC/NC gibi) ve kişinin tecrübesine göre değişebilir.",
+   "Kamu kuruluşlarına bağlı üretim birimlerinde çalışanlar işçi statüsünde ise toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde ücret, işveren ile çalışan arasındaki anlaşmaya, deneyime ve işletmenin mali durumuna göre belirlenir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleki ve teknik eğitim programından mezun olanlar, tercih etmeleri ve ilgili sınav sonuçlarına göre, alanının devamı niteliğindeki yükseköğretim (ön lisans/lisans) programlarına geçiş yapabilir. Ayrıca kişi, deneyim kazandıkça CNC/NC programlama, takım tezgahları ayarcılığı gibi daha ileri teknik eğitimlere ve sertifika programlarına katılarak bilgi ve becerisini geliştirebilir.",
+  "is_hayatinda": "Deneyim kazanan seri üretim tezgah operatörü, CNC/NC tezgah operatörlüğüne, takım ayarcılığına, vardiya/atölye sorumluluğuna veya ustabaşılığa yükselebilir. Kendi işini kurma imkânı sınırlı olmakla birlikte, yeterli sermaye ve deneyime sahip olanlar küçük ölçekli metal işleme atölyesi açabilir."
+ },
+ "benzer_meslekler": [
+  "NC/CNC Tezgah Operatörü",
+  "CNC Torna Tezgahı Operatörü",
+  "CNC Freze Tezgahı Operatörü",
+  "Metal İşleme Tezgahı Ayarcısı",
+  "Metal İşleri Seri Üretim Tezgâh İşçisi",
+  "Matkap Tezgahı Operatörü-Metal İşçiliği"
+ ],
+ "ek_bilgiler": "Üretim teknolojisindeki gelişmelere bağlı olarak işletmelerde ayar gerektirmeyen, hazır takımlarla çalışan seri üretim tezgahlarının yanı sıra bilgisayar kontrollü (CNC/NC) tezgahların kullanımı artmaktadır; bu nedenle operatörlerin temel düzeyde bilgisayarlı tezgah kullanımına aşinalığı istihdamda avantaj sağlayabilir.",
+ "gorevler": [
+  "İşlem sırasına göre belirlenmiş takım ve tertibatı makine veya tezgahlara bağlar veya değiştirir, takım ayarlarını yapar.",
+  "Seri üretim tezgahlarında (PLC, NC, CNC vb.) uygun işleme hızında parça işler.",
+  "İşlemleri izler, malzeme akışını sağlar.",
+  "İşlenmesi gereken parçayı tezgaha bağlar ve işlendikten sonra söker.",
+  "Resim, kroki veya talimatlara göre parçaların ölçü kontrollerini yapar.",
+  "Ayar sapmalarında gerekli düzeltmeleri yapar.",
+  "Parçaların işlenmesi sırasında özelliğini kaybeden veya işlem göremez duruma gelen işleme takımlarını söker, yeni takımlarla değiştirir.",
+  "İşleme takımlarının yeniden kullanılması için bileme bölümüne gönderir.",
+  "İşlenen parçaları temizler, istifler.",
+  "Tezgah, makine, aparat vb. ile çalışma yerinin bakım ve temizliğini yapar.",
+  "Arıza durumunda tezgahı durdurur ve ilgililere haber verir.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T01:55:33",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5745
+  }
+ }
+}

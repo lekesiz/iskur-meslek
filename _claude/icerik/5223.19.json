@@ -1,0 +1,78 @@
+{
+ "arac_gerec": [
+  "Ekmek rafları ve tezgahlar",
+  "Ekmek poşeti/kılıfı ve ambalaj malzemeleri",
+  "Fiyat ve ürün etiketleri",
+  "Yazar kasa / POS cihazı",
+  "Satış fişi ve fatura defteri",
+  "Hesap makinesi",
+  "Ekmek maşası / tutacağı",
+  "Temizlik malzemeleri (süpürge, bez, deterjan vb.)",
+  "Stok takip defteri veya kayıt sistemi",
+  "Terazi (gramajla satış yapılan işyerlerinde)"
+ ],
+ "genel_ozellikler": [
+  "Güler yüzlü ve nazik,",
+  "İnsanlarla iyi iletişim kurabilen,",
+  "Dikkatli ve dürüst,",
+  "Hijyen kurallarına duyarlı,",
+  "Fiziksel olarak uzun süre ayakta çalışmaya uygun,",
+  "Sorumluluk sahibi,",
+  "Hesap işlerinde dikkatli,",
+  "Düzenli ve temiz çalışmaya önem veren,"
+ ],
+ "calisma_ortami": "Ekmek satış elemanı, fırınlar, ekmek büfeleri, market ve süpermarketlerin ekmek reyonları ile bakkal/bayiler gibi kapalı mekanlarda çalışır. İş, genellikle uzun süre ayakta durmayı ve hareketli olmayı gerektirir; bu nedenle meslek üyeleri arasında bel ağrısı ve varis gibi rahatsızlıklar görülebilir. Çalışma ortamı genellikle temiz ve düzenlidir ancak fırına yakın bölümlerde sıcaklık yüksek olabilir.\n\nÇalışma saatleri işletmenin açılış-kapanış düzenine göre değişir; fırınların sabah erken açılması nedeniyle erken saatlerde işe başlamak gerekebilir, hafta sonu ve resmi tatillerde de çalışma yaygındır. Gün boyunca müşteriyle yüz yüze iletişim kurar; işyeri sahibi/yöneticisi ve diğer çalışanlarla da sürekli etkileşim içindedir.",
+ "egitim": {
+  "verildigi_yerler": "Bu meslek için örgün bir mesleki eğitim programı bulunmamaktadır. Meslek genellikle işyerinde işbaşında, usta/deneyimli çalışan yanında öğrenilir. İsteyenler Halk Eğitim Merkezleri ve İŞKUR tarafından açılan satış elemanlığı veya gıda hijyeni konulu kısa süreli mesleki eğitim kurslarına katılabilir. İlköğretim sonrası mesleki ve teknik eğitim kurumlarının pazarlama ve perakende satış alanına yönelik dalları da bu mesleğe temel oluşturabilir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "Mesleğin gerektirdiği işleri yapabilecek beden ve sağlık yapısına sahip olmak",
+   "İşe alınacağı işyerinin aradığı yaş ve diğer koşulları taşımak"
+  ],
+  "sure_ve_icerik": "Standart bir eğitim süresi ve müfredatı bulunmamaktadır. Meslek genellikle işyerinde kısa süreli bir uyum ve işbaşı eğitimiyle öğrenilir. Bu süreçte ekmek çeşitlerinin tanınması, hijyen ve gıda güvenliği kuralları, müşteri ilişkileri, satış teknikleri ve kasa/fiş işlemleri gibi konularda bilgi ve beceri kazandırılır. İsteyenler Halk Eğitim Merkezleri veya İŞKUR'un açtığı satış elemanlığı ve gıda hijyeni konulu kurslara katılabilir.",
+  "belge": "Örgün bir meslek eğitimi bulunmadığından diploma niteliğinde bir belge söz konusu değildir. Katılınan kurslar sonunda katılım/kurs bitirme belgesi verilebilir; gıda sektöründe çalışacaklardan işletmeler tarafından gıda hijyeni eğitimi sertifikası istenebilir."
+ },
+ "calisma_alanlari": "Bu meslek, ekmek fırınları, ekmek büfeleri, market ve süpermarketlerin ekmek reyonları, bakkal ve ekmek bayileri gibi ekmek satışı yapılan her türlü işyerinde yürütülür. Ekmek temel bir gıda maddesi olduğundan bu işyerlerine olan talep süreklidir ve yaygındır; bu nedenle meslekte iş bulma olanağı genellikle iyidir. Deneyim kazanan ve sermaye biriktiren kişiler kendi ekmek büfesini veya bayiliğini açabilir.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğin örgün bir eğitim süreci bulunmadığından öğrencilik dönemine ilişkin bir kazanç söz konusu değildir. İşbaşında çalışarak mesleği öğrenenler, bu süre için işveren ile yapılan anlaşmaya göre ücret alabilir.",
+  "egitim_sonrasi": [
+   "İşe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Kamuya bağlı işletmelerde işçi statüsünde çalışanların ücreti toplu iş sözleşmesi hükümlerine göre belirlenir.",
+   "Özel sektörde deneyim, işletmenin büyüklüğü ve bulunduğu bölgeye göre ücret değişiklik gösterebilir.",
+   "Kendi işini kuranların kazancı satış hacmine ve işletme büyüklüğüne bağlı olarak değişir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Örgün bir mesleki eğitim programı bulunmadığından bu meslekte eğitim içinde ilerleme söz konusu değildir. İsteyenler mesleki eğitim merkezleri veya açık öğretim kurumlarında satış elemanlığı alanında eğitim alarak bilgi ve becerilerini destekleyebilir.",
+  "is_hayatinda": "Deneyim kazanan ekmek satış elemanları işyerinde sorumlu veya vardiya amiri gibi görevlere yükselebilir. Sermaye birikimi olanlar kendi adına ekmek büfesi veya fırın bayiliği açabilir. Ayrıca gıda sektöründeki diğer perakende satış alanlarına geçiş yapabilirler."
+ },
+ "benzer_meslekler": [
+  "Perakende Satış Elemanı (Gıda)",
+  "Meyve ve Sebze Satış Elemanı",
+  "Et, Et Ürünleri İşleme ve Satış Elemanı",
+  "Kuruyemiş Satış Elemanı",
+  "Reyon Görevlisi",
+  "Dondurma Satış Elemanı"
+ ],
+ "ek_bilgiler": "Ekmek, temel bir gıda maddesi olduğundan bu meslekte gıda hijyeni ve güvenliği kurallarına uyum büyük önem taşır; işletmeler çalışanlarından hijyen eğitimi belgesi isteyebilir.",
+ "gorevler": [
+  "Satış yapılmak üzere gelen ekmek çeşitlerini teslim alır, raflara ve tezgahlara yerleştirir.",
+  "Ekmek çeşitlerinin üzerlerine özelliklerini ve fiyatlarını belirten etiketler koyar.",
+  "Müşterileri güler yüzle karşılar, müşterinin istediği normal, kepekli, köy ekmeği, Trabzon ekmeği, tuzsuz ekmek, çavdar ekmeği, tost, sandviç, hamburger ekmeği gibi ekmek çeşitlerinden istenilen miktarda paketleyerek müşteriye verir.",
+  "Satışı yapılan ekmeklerin ücretini alır, fişini düzenleyerek verir.",
+  "Müşterilerin memnuniyet ve şikayetlerini alır, yetkililere iletir.",
+  "Bayatlamış ve satılamayacak durumda olan ekmekleri ayırır, satışını yapmaz.",
+  "Sorumlu olduğu bölümün temizlik ve düzenini sağlar.",
+  "Ekmek stoklarını kontrol eder, stoklar azaldığında temin edilmesini sağlar.",
+  "Meslek alanı ile ilgili gelişmeleri takip eder, uygular.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T18:44:14",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6496
+  }
+ }
+}

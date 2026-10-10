@@ -1,0 +1,77 @@
+{
+ "arac_gerec": [
+  "Parlatma tamburu (döner tambur makinesi)",
+  "Toz grafit",
+  "İnce gürgen talaşı (parlatma malzemesi)",
+  "Elek",
+  "Taşıma kutuları/kasalar",
+  "Koruyucu eldiven",
+  "Toz maskesi",
+  "Koruyucu gözlük",
+  "İşitme koruyucu (kulaklık/tıkaç)",
+  "Yağlama ekipmanları (yağdanlık vb.)",
+  "Temizlik malzemeleri (fırça, bez vb.)",
+  "Ölçü/tartı kabı"
+ ],
+ "benzer_meslekler": [
+  "Polisaj ve Taşlama Elemanı",
+  "Metal Yüzey Temizleyici",
+  "Zımpara Taşı Tezgahı İşçisi",
+  "Döküm Temizleyici",
+  "Taşlama ve Alet Bilemecisi",
+  "Taşlama Tezgâh İşçisi"
+ ],
+ "calisma_alanlari": "Parlatma tanburu işçisi; av fişeği saçmaları, vida, civata, iğne ve çivi gibi küçük metal parçaların üretildiği metal işleme fabrika ve atölyelerinde, genellikle yüzey işleme veya parlatma bölümlerinde çalışır. Bu meslek elemanları çoğunlukla orta ve büyük ölçekli metal eşya üretim işletmelerinde istihdam edilir; bağımsız olarak kendi işyerini açma olanağı oldukça sınırlıdır. İş bulma olanakları, metal eşya ve av malzemeleri üretim sektörünün bulunduğu sanayi bölgelerinde yoğunlaşmaktadır.",
+ "calisma_ortami": "Parlatma tanburu işçisi kapalı mekanda, fabrika veya atölye ortamında, makine başında ve genellikle ayakta çalışır. Çalışma ortamı makinelerin çıkardığı gürültü ve parlatma işlemi sırasında ortaya çıkan toz (grafit tozu, metal tozu) nedeniyle dikkat gerektirir; bu nedenle toz maskesi, koruyucu gözlük, eldiven ve işitme koruyucu gibi kişisel koruyucu donanımların kullanılması gerekir. İş genellikle belirli bir vardiya düzeninde ve tekrarlayan işlemler şeklinde yürütülür.\n\nÇalışma sırasında işçi genellikle makine ve malzeme ile ilgilenir; işyerinde ustabaşı, diğer atölye çalışanları ve kalite kontrol personeli ile iletişim halindedir. İşçi sağlığı ve iş güvenliği kurallarına uyum, yaralanma ve meslek hastalığı risklerinin azaltılması açısından önemlidir.",
+ "ek_bilgiler": "Bu mesleğe yönelik örgün bir mesleki eğitim programı bulunmamaktadır; meslek genellikle işyerinde usta yanında uygulamalı olarak öğrenilmektedir. Av fişeği saçması gibi bazı ürünlerin imalatı özel izin ve ruhsata tabi işletmelerde gerçekleştirildiğinden, bu alanda çalışma ilgili işletmenin faaliyet konusuna ve iznine bağlı olabilir.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin yürütülmesi için örgün bir mesleki eğitim programı bulunmamaktadır. Meslek genellikle işyerinde usta yanında işbaşında yetişilerek veya Halk Eğitim Merkezleri ile İŞKUR'un açtığı mesleki eğitim kurslarında kazanılmaktadır.",
+  "giris_kosullari": [
+   "İlköğretim mezunu olmak (mesleğin gerektirdiği minimum eğitim düzeyi ilköğretimdir)",
+   "Mesleki eğitim merkezi programlarına kayıt için ilgili yaş ve sağlık şartlarını taşımak",
+   "Halk Eğitim Merkezi kurslarına her yaş ve eğitim düzeyinden kişi katılabilir; 18 yaşından küçükler veli izniyle katılabilir"
+  ],
+  "sure_ve_icerik": "Meslek genellikle işyerinde usta yanında uygulamalı olarak, gerekirse kısa süreli mesleki eğitim kurslarıyla desteklenerek kazanılır. Eğitim/öğrenme sürecinde metal parça yüzeylerinin temizlenmesi ve parlatılması işlemleri, parlatma tamburu ve benzeri makinelerin kullanımı, parlatma malzemelerinin özellikleri ve iş sağlığı ile güvenliği kuralları gibi konular öğretilir.",
+  "belge": "İşyerinde usta yanında yetişenlere resmi bir belge verilmemektedir; mesleki eğitim merkezi programına devam edenlere kalfalık/ustalık belgesi, kurslara katılanlara ise Kurs Bitirme Belgesi verilebilir. Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "genel_ozellikler": [
+  "Dikkatli ve sabırlı,",
+  "El ve kol kaslarını kullanmada beceri sahibi,",
+  "Monoton ve tekrarlayan işleri yapmaktan sıkılmayan,",
+  "Fiziksel olarak dayanıklı,",
+  "Düzenli ve temiz çalışmaya özen gösteren,",
+  "Makine ve ekipmanlarla çalışmaya istekli,",
+  "İşçi sağlığı ve iş güvenliği kurallarına uyumlu,",
+  "Takım çalışmasına uyumlu olan"
+ ],
+ "gorevler": [
+  "Parlatılacak metal parçaları parlatma tamburu içine doldurur.",
+  "Parlatma malzemesi olarak kullanılan toz grafiti veya ince gürgen talaşını tambur içindeki parçaların üzerine döker.",
+  "Tamburun kapağını kapatıp motoru çalıştırır ve ilgili kolu çekerek tamburu ekseni etrafında döndürür.",
+  "Belirli bir süre bekleyerek tambur içindeki parçaların birbirine sürtünüp yüzeylerinin temizlenmesini ve parlamasını sağlar.",
+  "Yüzeyleri temizlenip parlatılan parçaları tambur içinden çıkarmak için tamburun çalışmasını durdurur.",
+  "Parçaları tambur içinden kutulara boşaltıp kutulardaki parçaları eleklerde eler.",
+  "İş bitiminde tamburu temizleyip yağlar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "İşyerinde çalışarak mesleki eğitim merkezi programlarına devam edenler kalfalık ve ardından ustalık belgesi alabilir. Ortaokul mezunu olan kalfa ve ustalar, mesleki ve teknik açık öğretim lisesine devam ederek meslek lisesi diploması alabilir.",
+  "is_hayatinda": "Deneyim kazandıkça usta, ustabaşı veya bölüm sorumlusu gibi görevlere yükselebilir. Ustalık belgesine sahip olanlar, daha nitelikli metal yüzey işleme (taşlama, parlatma) işlerinde çalışabilir veya işletme bünyesinde daha fazla sorumluluk üstlenebilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "İşbaşında usta yanında yetişme döneminde genellikle düzenli bir ücret söz konusu değildir; işletmede çalışarak öğrenenler genellikle asgari ücret düzeyinde bir kazanç sağlayabilir.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Kazanç; çalışılan işletmenin büyüklüğü, kişinin deneyimi ve sektörün ücret düzeyine göre değişebilir.",
+   "Bu meslekte kamu kurumlarında istihdam yaygın değildir; çalışma büyük ölçüde özel sektör işletmelerinde gerçekleşir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T02:11:31",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5581
+  }
+ }
+}

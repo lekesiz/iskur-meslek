@@ -1,0 +1,76 @@
+{
+ "arac_gerec": [
+  "Silobas (basınçlı tanker gövdeli özel araç)",
+  "Kompresör ve hava besleme sistemi",
+  "Basınç göstergeleri (manometre)",
+  "Emniyet valfleri",
+  "Dolum ve tahliye hortumları, bağlantı rakorları",
+  "Araç bakım ve kontrol defteri",
+  "Kişisel koruyucu donanım (tulum, eldiven, toz maskesi, koruyucu gözlük)",
+  "Takoz, üçgen reflektör gibi trafik güvenlik gereçleri",
+  "El feneri",
+  "Ehliyet (ağır vasıta sürücü belgesi) ve SRC belgesi",
+  "Telsiz/GPS araç takip sistemi",
+  "Tank temizlik ekipmanları"
+ ],
+ "genel_ozellikler": [
+  "Sorumluluk sahibi ve dikkatli,",
+  "Fiziksel olarak sağlıklı ve dayanıklı,",
+  "Reflekleri iyi, tepki hızı yüksek,",
+  "Trafik kurallarına titizlikle uyan,",
+  "El ve göz koordinasyonuna sahip, teknik aletleri kullanabilen,",
+  "Uzun süre araç kullanmaya uygun, sabırlı,",
+  "Tek başına çalışabilen, sorumluluğunu bilen"
+ ],
+ "calisma_ortami": "Silobas Operatörü, görevini büyük bölümü karayolunda seyir halinde geçen, kapalı araç kabini içinde oturarak yürütür; malzeme dolum ve tahliyesi sırasında ise açık havada, tesis veya saha ortamında çalışır. Taşınan malzemenin toz veya granül nitelikte olması nedeniyle dolum-boşaltma sırasında tozlu ortamla ve basınçlı sistemlerle çalışma riski bulunur; bu nedenle kişisel koruyucu donanım kullanımı önemlidir.\n\nÇalışma saatleri genellikle sevkiyat programına bağlı olarak değişkendir; uzun mesafeli taşımalarda gece çalışması, vardiyalı çalışma ve hafta sonu çalışması söz konusu olabilir. Operatör çoğunlukla yalnız çalışır; işletme sorumluları, dolum-boşaltma noktalarındaki personel ve diğer trafik katılımcılarıyla iletişim halindedir.",
+ "egitim": {
+  "verildigi_yerler": "Bu meslek için resmi olarak tanımlanmış, belirli bir okul veya kurs programı bulunmamaktadır. Meslek genellikle ağır vasıta (kamyon) sürücülüğü deneyimine sahip kişilerin, işe alındıkları işletme bünyesinde usta-çırak ilişkisi içinde veya işbaşında uygulamalı eğitimle kazanılır. Ehliyet eğitimi resmi sürücü kurslarında, SRC mesleki yeterlilik eğitimi ise Ulaştırma ve Altyapı Bakanlığınca yetkilendirilmiş eğitim kurumlarında verilir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "18 yaşını doldurmuş olmak",
+   "Ağır vasıta sürücü belgesine (E sınıfı ehliyet) sahip olmak",
+   "SRC mesleki yeterlilik belgesi almak için gerekli şartları taşımak",
+   "Sağlık açısından araç kullanmaya ve ağır vasıta sürmeye engel bir durumu bulunmamak"
+  ],
+  "sure_ve_icerik": "Meslek eğitiminin resmi olarak belirlenmiş bir süresi ve müfredatı yoktur. Ehliyet eğitimi, sürücü kurslarının belirlediği süre ve içerikte verilir. SRC belgesi eğitimi ise kısa süreli teorik eğitim ve sınavdan oluşur. Silobasa özgü bilgi ve beceriler; aracın teknik özellikleri, kompresör kullanımı, dolum-tahliye işlemleri, basınç ve emniyet valfi kontrolü, tank temizliği gibi konular, işe başladıktan sonra işletme bünyesinde deneyimli bir operatör nezaretinde uygulamalı olarak kazandırılır.",
+  "belge": "Ağır vasıta sürücü belgesi (E sınıfı ehliyet) ve SRC mesleki yeterlilik belgesi alınması gerekir. Taşınan malzemenin niteliğine göre bazı işyerlerinde Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Silobas Operatörü; çimento, un, kireç, kum, alçı, tahıl ve benzeri toz veya granül halindeki malzemeleri üreten fabrikalar, bu malzemelerin taşımacılığını yapan lojistik ve nakliye firmaları ile inşaat malzemesi üreticilerinde iş bulabilir. Bir firmaya bağlı olarak veya kendi aracıyla bağımsız nakliyeci olarak çalışabilir. İnşaat ve sanayi sektörlerindeki hareketlilik, mesleğe olan talebi doğrudan etkiler.",
+ "kazanc": {
+  "egitim_suresince": "Ehliyet ve SRC belgesi alma sürecinde herhangi bir kazanç söz konusu değildir, bu sürecin maliyeti genellikle aday tarafından karşılanır. İşletme bünyesinde işe alınarak uygulamalı eğitim verilen adaylar bu dönemde genellikle asgari ücret düzeyinde bir ücret alabilir.",
+  "egitim_sonrasi": [
+   "Özel sektörde ücret, işveren ile yapılan anlaşmaya, deneyime ve işletmenin büyüklüğüne göre değişmekte olup yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Deneyim kazandıkça ve kat edilen mesafeye/yüke göre ücretlendirme yapılan işlerde kazanç artabilir.",
+   "Kamu kurumlarına bağlı işletmelerde işçi statüsünde çalışanların ücreti ilgili toplu iş sözleşmesi hükümlerine göre belirlenir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Bu meslekte resmi olarak kademeli bir eğitim sistemi bulunmamaktadır. Deneyim kazandıkça operatör, daha büyük tonajlı veya farklı özellikteki silobas araçlarını kullanabilir; taşınan malzemenin niteliğine göre tehlikeli madde taşımacılığı (ADR) gibi ek sertifikalar alarak yetkinliğini genişletebilir.",
+  "is_hayatinda": "Deneyimli silobas operatörleri, işletmelerde sevkiyat/lojistik sorumluluğu, filo yöneticiliği gibi görevlere yükselebilir veya kendi aracını edinerek bağımsız nakliyeci olarak çalışabilir."
+ },
+ "benzer_meslekler": [
+  "Kara Tankeri Operatörü (Tehlikeli Madde Taşımacılığı)",
+  "Kamyon Şoförü",
+  "Tır-Çekici Şoförü",
+  "Şoför-Yük Taşıma",
+  "Kaya Kamyonu Operatörü",
+  "Vidanjör Şoförü"
+ ],
+ "ek_bilgiler": "Toz veya granül malzeme taşımacılığı nedeniyle meslek, tozlu ortamlarda ve basınçlı sistemlerle çalışmayı içerir; bu nedenle kişisel koruyucu donanım kullanımı ve iş güvenliği kurallarına uyum önem taşır. Taşınan malzemenin niteliğine bağlı olarak bazı durumlarda tehlikeli madde taşımacılığı mevzuatına (ADR) uygunluk gerekebilir.",
+ "gorevler": [
+  "Aracın teknik kontrollerini ve depo sızdırmazlığını denetler.",
+  "Malzemenin dolumunu ve kompresör yardımıyla tahliyesini gerçekleştirir.",
+  "Basınç saatlerini ve emniyet valflerini sürekli izler.",
+  "Trafik kurallarına uyarak yükü varış noktasına sevk eder.",
+  "Aracın periyodik bakımını ve tank temizliğini takip eder.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T18:28:43",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5801
+  }
+ }
+}

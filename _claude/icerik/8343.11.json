@@ -1,0 +1,73 @@
+{
+ "arac_gerec": [
+  "Asansör kafesi (kabin)",
+  "Elektrik zili / bizer işaretleşme sistemi",
+  "Maden vagonları (lorlar)",
+  "Ray ve vagon yönlendirme düzenekleri",
+  "Fren ve kilitleme mekanizmaları",
+  "Halat, kanca ve bağlantı aparatları",
+  "Baret ve maden lambası (kafa feneri)",
+  "İş elbisesi (tulum), eldiven, çizme",
+  "Gaz ölçüm cihazı (dedektör)",
+  "Telsiz / interkom haberleşme cihazı",
+  "Yağlama ve bakım el aletleri",
+  "Kişisel koruyucu donanım (maske, kulak tıkacı vb.)"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli ve tedbirli,",
+  "Sorumluluk sahibi,",
+  "Çevresindeki sesli ve ışıklı uyarıları hızlı algılayabilen,",
+  "El ve göz koordinasyonu iyi,",
+  "Fiziksel olarak dayanıklı,",
+  "Dar ve kapalı alanlarda çalışmaktan rahatsızlık duymayan,",
+  "Takım çalışmasına yatkın,",
+  "Talimat ve işaretleşme kurallarına titizlikle uyan,"
+ ],
+ "calisma_ortami": "Maden ocağı asansörü operatörü, yer altındaki maden kuyusu ile tüneller arasında, genellikle dar, karanlık ve kapalı alanlarda çalışır. Çalışma ortamı nemli, tozlu ve gürültülü olabilir; havalandırma ve aydınlatma koşulları sınırlıdır. Meslek, yer altı madenciliğinin taşıdığı göçük, gaz birikimi ve makine kazası gibi riskleri barındırdığından iş sağlığı ve güvenliği kurallarına titizlikle uyulması gerekir.\n\nÇalışma genellikle vardiya usulüyle yürütülür. Operatör, elektrik zili veya bizer sistemiyle ceraskal operatörüne sürekli işaret vererek iletişim kurar; ayrıca diğer maden işçileri, vagon düzenleme ekibi ve vardiya amirleriyle koordineli biçimde çalışır.",
+ "egitim": {
+  "verildigi_yerler": "Bu meslek için örgün bir okul eğitimi veya belirli bir meslek lisesi/yüksekokul programı bulunmamaktadır. Meslek elemanları genellikle maden işletmelerinde işbaşında, usta yanında uygulamalı olarak yetiştirilir. Ayrıca İŞKUR'un ve Halk Eğitim Merkezlerinin açtığı mesleki eğitim kursları ile madencilik işletmelerinin kendi bünyelerinde düzenlediği iş güvenliği ve oryantasyon eğitimlerinden yararlanılabilir.",
+  "giris_kosullari": [
+   "İlköğretim mezunu olmak (meslek için aranan asgari eğitim düzeyi)",
+   "18 yaşını doldurmuş olmak",
+   "Sağlık durumunun yer altında, dar ve kapalı alanlarda çalışmaya uygun olması",
+   "Maden işçiliği için gerekli temel iş sağlığı ve güvenliği eğitimini alabilecek durumda olmak"
+  ],
+  "sure_ve_icerik": "Meslek edinme süreci işyerine göre değişmekle birlikte genellikle işbaşında, usta yanında belirli bir süre uygulamalı olarak öğrenilir. Bu süreçte asansör kafesinin kullanımı, işaretleşme (zil/bizer) sistemleri, vagon yükleme-boşaltma işlemleri ve yer altı iş güvenliği kuralları öğretilir. Madencilik sektörü, iş sağlığı ve güvenliği mevzuatı kapsamında çok tehlikeli işler sınıfında yer aldığından, bu alanda çalışacak personelin zorunlu temel iş sağlığı ve güvenliği eğitimlerini alması gerekmektedir.",
+  "belge": "Mesleğe özgü resmî bir diploma veya sertifika programı bulunmamaktadır; işyerinde verilen iş sağlığı ve güvenliği eğitim belgeleri ve işbaşı eğitim kayıtları düzenlenebilir. Madencilik çok tehlikeli işler kapsamında değerlendirildiğinden, Mesleki Yeterlilik Kurumu (MYK) belgesi bazı görevler için istihdamda tercih sebebi veya gereklilik olabilir; bu husus ilgili işletme ve meslek kuruluşlarından teyit edilmelidir."
+ },
+ "gorevler": [
+  "Maden ocağı ceraskal operatörüne elektrik zili veya bizer sistemi ile işaret vererek asansör kafesinin hareketini sağlar.",
+  "Yüklü vagonları maden kuyusu yakınındaki belirli yerlere getirerek asansör kafesine iter.",
+  "Asansör kafesindeki boş vagonları tünele çekerek vagon dağıtım yerindeki rampalara yanaştırır.",
+  "Yüklü vagonları kafesten çıkararak bunları boş vagonlarla değiştirir.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "calisma_alanlari": "Maden ocağı asansörü operatörleri, yer altı ve yer üstü işletmelerin bulunduğu kömür, metal veya diğer maden ocaklarında istihdam edilir. Kamuya bağlı maden işletmelerinde ve özel maden şirketlerinde çalışabilirler.\n\nBu meslekte istihdam olanağı, madencilik sektöründeki üretim hacmine ve işletmelerin mekanizasyon düzeyine bağlı olarak değişkenlik göstermektedir. Teknolojik gelişmeler ve otomasyon uygulamalarının yaygınlaşması, bu alandaki iş gücü ihtiyacını zamanla azaltabilmektedir.",
+ "kazanc": {
+  "egitim_suresince": "İşbaşında yetiştirilme sürecinde genellikle yardımcı/çırak statüsünde çalışılır ve bu dönemde kazanç genellikle asgari ücret düzeyindedir.",
+  "egitim_sonrasi": [
+   "Kamuya bağlı maden işletmelerinde çalışanlar, statülerine göre 657 sayılı Devlet Memurları Kanunu veya işçi statüsündeyse geçerli toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektörde çalışanların kazancı işyerinin büyüklüğüne, kişinin tecrübesine ve sektördeki ücret düzeyine göre değişmekle birlikte, işe yeni başlayanlar için genellikle asgari ücret düzeyindedir; yer altında ve riskli ortamlarda çalışma nedeniyle ek ödemeler (yer altı/risk tazminatı vb.) söz konusu olabilir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Bu meslek için kademeli bir örgün eğitim basamağı bulunmamaktadır. Deneyim kazandıkça ilgili iş güvenliği ve teknik kurslara katılarak bilgi ve beceriler geliştirilebilir.",
+  "is_hayatinda": "Deneyim ve ek eğitimle ceraskal operatörlüğü, vinç operatörlüğü gibi görevlere veya ekip sorumluluğu/vardiya amirliği gibi pozisyonlara yükselme imkânı bulunabilir."
+ },
+ "benzer_meslekler": [
+  "Ceraskal Operatörü-Maden Ocağı",
+  "Troleyci-Maden",
+  "Monoray Operatörü",
+  "Konveyör Operatörü",
+  "Kaldırma, Taşıma Raylı Sistem Tavan Vinç Operatörü"
+ ],
+ "ek_bilgiler": "Yer altı madenciliği, iş sağlığı ve güvenliği mevzuatı gereği çok tehlikeli işler sınıfında yer aldığından, bu meslekte çalışacak kişilerin özel sağlık ve güvenlik şartlarını taşıması ve zorunlu iş güvenliği eğitimlerini tamamlaması gerekmektedir. Madencilik sektöründeki mekanizasyon ve otomasyon uygulamalarının yaygınlaşması, bu mesleğe olan ihtiyacı zamanla azaltabilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T18:53:21",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6994
+  }
+ }
+}

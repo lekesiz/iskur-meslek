@@ -1,0 +1,80 @@
+{
+ "arac_gerec": [
+  "Alanı ile ilgili meslek dersleri öğretim programı, yıllık ve günlük çalışma planları",
+  "Ders defteri, yoklama defteri, not çizelgeleri, öğrenci iş takip formları",
+  "Ders kitapları, yardımcı kaynaklar, iş ve işlem yaprakları, bilgi yaprakları",
+  "Uçak gövde ve motor kesit modelleri, maketleri, eğitim amaçlı parça örnekleri",
+  "Eğitim amaçlı uçak/motor simülatörleri ve eğitim setleri",
+  "El aletleri (tornavida, pense, anahtar takımları vb.)",
+  "Ölçüm ve kontrol cihazları (kumpas, komparatör, tork anahtarı vb.)",
+  "Hidrolik, pnömatik ve elektrik-elektronik sistem eğitim düzenekleri",
+  "Kaynak, montaj-demontaj ve bakım-onarım ekipmanları",
+  "Kişisel koruyucu donanım (iş elbisesi, eldiven, koruyucu gözlük vb.)",
+  "Projeksiyon, bilgisayar, eğitim yazılımları ve görsel-işitsel eğitim araçları",
+  "Teknik dokümanlar, bakım el kitapları ve mesleki yayınlar"
+ ],
+ "genel_ozellikler": [
+  "Havacılık ve tekniğe ilgili, bu alanda bilgi ve beceri sahibi,",
+  "El ve gözlerini eşgüdümle kullanabilen, uygulamalı çalışmaya yatkın,",
+  "Dikkatli, titiz ve sorumluluk sahibi,",
+  "Planlı ve sistemli çalışabilen,",
+  "Düşüncelerini açık biçimde aktarabilen, insanlarla iyi iletişim kurabilen,",
+  "Hoşgörülü, sabırlı, öğrencilerin duygu ve düşüncelerini anlayabilen,",
+  "Mesleki ve teknolojik gelişmeleri takip etmeye istekli,",
+  "Kendini geliştirmeye açık, girişimci ve araştırmacı"
+ ],
+ "calisma_ortami": "\"Uçak Bakım / Uçak Gövde-Motor Öğretmeni, görevini çoğunlukla ortaöğretim kurumlarının sınıf, atölye ve laboratuvar ortamlarında yürütür. Teorik derslerde sınıf ortamında, uygulamalı derslerde ise atölye veya varsa eğitim amaçlı hangar/uçak bakım ortamında çalışır; uygulamalar sırasında ayakta ve hareketli olarak görev yapar. Atölye ortamında yağ, yakıt, metal ve kompozit malzeme kalıntıları, gürültü ve kesici-delici aletler gibi risk faktörleriyle karşılaşabileceğinden iş sağlığı ve güvenliği kurallarına uyulması önemlidir.\\n\\nÇalışma saatleri genel olarak okulun ders programına göre belirlenir; nöbet günlerinde ve sınav dönemlerinde ek çalışma gerekebilir. Görevi sırasında öğrencilerle, diğer öğretmenlerle, okul idaresiyle, velilerle ve staj/uygulama yaptırılan işletmelerin teknik personeliyle sürekli iletişim kurar.\"",
+ "calisma_alanlari": "\"Uçak Bakım / Uçak Gövde-Motor Öğretmenleri, Milli Eğitim Bakanlığına bağlı mesleki ve teknik ortaöğretim kurumlarının havacılık/uçak bakım alanı bulunan programlarında meslek dersi öğretmeni olarak çalışabilirler. Ayrıca çıraklık ve yaygın eğitim kurumlarında, Halk Eğitim Merkezleri ile İŞKUR ve ilgili kurumların açtığı mesleki eğitim kurslarında eğitici olarak görev alabilirler. Havayolu şirketlerinin ve bakım kuruluşlarının (THY Teknik gibi) bünyesindeki eğitim merkezlerinde, özel havacılık akademilerinde ve havacılık sektörüne hizmet veren kurum içi eğitim birimlerinde de eğitmen olarak istihdam edilebilirler. Bu alanda mesleki ve teknik eğitim veren okul sayısı sınırlı olduğundan, iş bulma olanakları açılan okul/bölüm sayısına ve sektördeki ihtiyaca göre değişkenlik gösterir.\"",
+ "gorevler": [
+  "Eğitiminden sorumlu olduğu grubun düzeyine uygun bir çalışma planı hazırlar.",
+  "Sorumlu olduğu atölye, laboratuvar, işlik vb. yerleri eğitime hazır durumda tutar.",
+  "Kendisine ayrılan ders saatlerinde çalışma planını uygulayarak öğrencilere uçak gövde-motor alanı ile ilgili bilgi ve beceriler kazandırır.",
+  "Öğrencilerin başarılarını ölçer, değerlendirir, sonuçlarını idareye bildirir.",
+  "Alanı ile ilgili gelişmeleri izler, ihtiyaçları saptar, bunların öğretim programlarına yansıtılması için ilgililere önerilerde bulunur.",
+  "Öğrencilerin gelişimlerine katkıda bulunacak eğitim-öğretim yöntemlerini geliştirir ve uygular.",
+  "Nöbetçi olduğu günlerde okulun düzen ve disiplinini sağlar.",
+  "Öğrencilerin gelişimlerini izler, sorunlarının çözümüne yardımcı olur.",
+  "Mesleği ile ilgili alanındaki gelişmeleri takip eder ve uygular.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Bu mesleğin öğretmenliğine özgü, doğrudan bu adla açılmış bir lisans programı bulunmamaktadır. Uygulamada, üniversitelerin ilgili mühendislik/teknoloji bölümlerinden (Uçak Mühendisliği, Havacılık ve Uzay Mühendisliği, uçak gövde-motor bakım teknolojisiyle ilgili bölümler, Makine Mühendisliği vb.) mezun olanlardan, Milli Eğitim Bakanlığı ve Yükseköğretim Kurulu (YÖK) iş birliği ile açılan Öğretmenlik Meslek Bilgisi Tezsiz Yüksek Lisans Programını ya da Pedagojik Formasyon Eğitimi Sertifika Programını başarıyla tamamlayanlar, Milli Eğitim Bakanlığı tarafından belirlenen atama alanları çerçevesinde bu alanda öğretmen olarak atanabilirler.",
+  "giris_kosullari": [
+   "Lise veya dengi okul mezunu olmak",
+   "YKS (Yükseköğretim Kurumları Sınavı) kılavuzunda belirtilen giriş koşullarını taşımak",
+   "İlgili mühendislik/teknoloji lisans programına yerleşmek",
+   "Lisans eğitimi sonrasında Pedagojik Formasyon Eğitimi Sertifika Programına veya Öğretmenlik Meslek Bilgisi Tezsiz Yüksek Lisans Programına kabul edilmek"
+  ],
+  "sure_ve_icerik": "İlgili lisans eğitiminin süresi genellikle 4 yıldır ve havacılık/makine mühendisliği ağırlıklı teorik ve uygulamalı dersler içerir. Lisans eğitimine ek olarak Pedagojik Formasyon Eğitimi Sertifika Programı veya Öğretmenlik Meslek Bilgisi Tezsiz Yüksek Lisans Programı kapsamında öğretmenlik meslek bilgisi dersleri alınır.",
+  "belge": "Lisans diploması ile birlikte Pedagojik Formasyon Eğitimi Sertifikası veya Öğretmenlik Meslek Bilgisi Tezsiz Yüksek Lisans diploması alınır."
+ },
+ "kazanc": {
+  "egitim_suresince": "Lisans eğitimi süresince öğrenciler genel olarak herhangi bir ücret almazlar; başarı durumuna göre üniversite ve kamu/özel kurum burslarından yararlanabilirler. Staj dönemlerinde bazı işletmeler cep harçlığı niteliğinde ödeme yapabilir.",
+  "egitim_sonrasi": [
+   "Kamu okullarında çalışan öğretmenler 657 sayılı Devlet Memurları Kanunu'na göre maaş ve ek ders ücreti alırlar.",
+   "Özel öğretim kurumlarında ve havacılık sektörüne bağlı eğitim merkezlerinde çalışanların kazancı kurumla yapılan sözleşmeye, deneyime ve kurumun büyüklüğüne göre değişir.",
+   "Yeni mesleğe başlayanların kazancı genellikle asgari ücret düzeyinde olup deneyim ve kıdem arttıkça yükselir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğini sürdürmekte olan öğretmenler, alanıyla ilgili yüksek lisans ve doktora eğitimi alabilir; hizmet içi eğitim programlarına, sektörel havacılık bakım eğitimlerine ve meslekte uzmanlık kazandıran kurslara katılarak kendilerini geliştirebilirler.",
+  "is_hayatinda": "Mesleki kıdem ve performansa bağlı olarak zümre başkanlığı, bölüm şefliği, okul müdür yardımcılığı ve müdürlük gibi idari görevlere; başarı durumuna ve sınav sonuçlarına göre uzman öğretmenlik, başöğretmenlik unvanlarına; Milli Eğitim Bakanlığı merkez veya taşra teşkilatında idari/denetim görevlerine ilerleme olanağı bulunmaktadır. Sektör kurumlarında ise eğitim koordinatörlüğü gibi görevlere yükselme mümkündür."
+ },
+ "benzer_meslekler": [
+  "Uçak Bakım / Uçak Elektroniği Öğretmeni",
+  "Motorlu Araçlar Teknolojisi Öğretmeni",
+  "Makine ve Kalıp Öğretmeni",
+  "Raylı Sistemler Makine Öğretmeni",
+  "Endüstriyel Otomasyon Teknolojileri Öğretmeni",
+  "Tesisat Teknolojisi ve İklimlendirme Öğretmeni"
+ ],
+ "ek_bilgiler": "\"Bu mesleğin öğretmenliği, uçak bakım alanında mesleki ve teknik ortaöğretim programı bulunan okul sayısıyla sınırlı olduğundan atama imkanları diğer bazı mesleki alanlara göre daha dardır. Havacılık sektöründeki büyümeye bağlı olarak nitelikli uçak bakım teknisyeni yetiştirecek öğretmen ihtiyacı zaman zaman artabilir. Mesleki Yeterlilik Kurumu (MYK) belgesi ve ilgili sivil havacılık mevzuatına ilişkin bilgi birikimi, bu alanda görev almak isteyenler için tercih sebebi olabilir.\"",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T03:10:44",
+  "usage": {
+   "input_tokens": 4,
+   "output_tokens": 10820
+  }
+ }
+}

@@ -1,0 +1,82 @@
+{
+ "arac_gerec": [
+  "El takımları (anahtar, tornavida, pense, çekiç vb.)",
+  "Ölçüm ve kontrol cihazları (termometre, vibrasyon/titreşim ölçer, basınç ölçer)",
+  "Elektrik-elektronik test cihazları (multimetre, megger, kaçak akım ölçer)",
+  "Termal kamera ve ısı ölçüm cihazları",
+  "Yağlama ekipmanları ve yağlama kartları",
+  "Makine sicil kartı, vizit kartı ve kontrol listeleri",
+  "Bilgisayar ve bakım yönetim/planlama yazılımları (CMMS)",
+  "Endoskop kamera ve muayene aynası",
+  "Telsiz/haberleşme cihazı",
+  "Kişisel koruyucu donanım (baret, koruyucu gözlük, kulaklık, iş elbisesi, çelik burunlu ayakkabı, eldiven)",
+  "El feneri"
+ ],
+ "benzer_meslekler": [
+  "Makine Bakım Ustası",
+  "Kestirimci Bakım Elemanı",
+  "Makine Bakım ve Onarımcısı",
+  "Mekaniker-Fabrika Bakımı",
+  "Makine Montaj ve Bakım Onarımcısı",
+  "Hidrolik Pnömatik Elemanı"
+ ],
+ "calisma_alanlari": "Bu meslek elemanları öncelikle çimento fabrikaları ve çimento üretim tesislerinde istihdam edilir. Üretim sürekliliğinin kritik olduğu bu tesislerde planlı bakım organizasyonunun önemli bir parçasını oluştururlar.\n\nBenzer ağır sanayi tesislerinde (demir-çelik, kimya, enerji üretim santralleri, maden işletmeleri gibi mekanik-elektrik-elektronik ekipmanların yoğun kullanıldığı fabrikalarda) planlı bakım/vizit sorumlusu veya benzeri unvanlarla da çalışabilirler. İstihdam olanakları, çimento ve ağır sanayi sektörünün yatırım ve üretim hacmine bağlı olarak değişebilir; tecrübeli ve teknik bilgisi güçlü personele sektörde talep bulunmaktadır.",
+ "calisma_ortami": "Planlı bakım vizitörleri, çimento fabrikalarının üretim hatlarında, makine dairelerinde, açık sahalarda ve yüksek yapılarda (siloz, bant hattı, fırın gibi) çalışır. Ortam genellikle tozlu, gürültülü, sıcak ya da soğuk olabilen, bazen dar ve yüksek alanlarda inceleme yapılmasını gerektiren zorlu bir ortamdır. Çalışma, işletmenin üretim takvimine göre vardiyalı düzende olabilir.\n\nGörevlerini yerine getirirken amirleri, bakım ekipleri, operatörler ve mühendislerle sürekli iletişim halindedir; bulgularını yazılı ve sözlü olarak raporlar. İş sağlığı ve güvenliği kurallarına, özellikle kişisel koruyucu donanım kullanımına büyük önem verilmesi gereken bir çalışma ortamıdır.",
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi için doğrudan bu unvanla açılmış resmî bir mesleki ve teknik ortaöğretim alanı/dalı veya yükseköğretim programı bulunmamaktadır. Meslek; Makine Teknolojisi, Elektrik-Elektronik Teknolojisi, Mekatronik, Endüstriyel Bakım-Onarım gibi ilgili mesleki ve teknik ortaöğretim alanlarından veya ilgili ön lisans/lisans programlarından mezun olunduktan sonra, çimento fabrikalarında işbaşında ve hizmet içi eğitimle kazanılır.",
+  "giris_kosullari": [
+   "En az ortaöğretim (lise ve dengi) mezunu olmak",
+   "Tercihen Makine, Elektrik-Elektronik, Mekatronik veya Endüstriyel Bakım-Onarım gibi alanlardan mezun olmak",
+   "İşletmenin açtığı işe alım süreçlerinde (sınav/mülakat) başarılı olmak",
+   "Sağlık durumunun vardiyalı çalışma ve saha koşullarına uygun olması"
+  ],
+  "sure_ve_icerik": "Resmî olarak standartlaştırılmış bir \"Planlı Bakım Vizitörü\" eğitim programı yoktur. Meslek, ilgili mesleki ve teknik ortaöğretim ya da ön lisans/lisans eğitimi sonrasında çimento fabrikalarında usta öğretici veya mühendis gözetiminde işbaşında uygulamalı eğitimle kazanılır. İşletmeler bünyesinde mekanik-elektrik-elektronik vizit teknikleri, makine sicil ve yağlama kart sistemleri, bakım planlama yazılımları ve iş güvenliği konularında hizmet içi eğitimler verilir.",
+  "belge": "Örgün eğitim sonunda ilgili alanın lise diploması ya da ön lisans/lisans diploması alınır. İşletme içi eğitimler sonunda katılım sertifikaları, iş güvenliği ve bakım planlama konularında ise çeşitli eğitim/sertifika belgeleri edinilebilir."
+ },
+ "ek_bilgiler": "Bu meslek, çimento sektörüne özgü, üretim sürekliliğini sağlamaya yönelik \"önleyici ve planlı bakım\" yaklaşımıyla yakından ilişkilidir. Mesleki Yeterlilik Kurumu (MYK) belgeleri, özellikle ilgili bakım/kestirimci bakım alanlarında, istihdamda tercih sebebi olabilir.",
+ "genel_ozellikler": [
+  "Dikkatli ve gözlem gücü yüksek,",
+  "Analitik düşünebilen ve sorun tespitinde yetkin,",
+  "Makine, elektrik ve elektronik sistemlerin çalışma prensiplerini anlayabilen,",
+  "Planlı ve düzenli çalışabilen,",
+  "Sorumluluk sahibi,",
+  "İletişim becerisine sahip,",
+  "Raporlama ve kayıt tutmaya özen gösteren,",
+  "Ekip çalışmasına uyumlu ve fiziksel olarak dayanıklı,"
+ ],
+ "gorevler": [
+  "Tüm fabrikanın mekanik, elektrik ve elektronik vizitlerini yapar,",
+  "Bulguları açıklayıcı bilgilerle tanımlar,",
+  "Planlı vizitlerin iş emrine dönüşümünü sağlar,",
+  "Anormallikleri ve aksaklıkları amirine bildirir,",
+  "Personelden işletme ile ilgili aksaklıkları öğrenir,",
+  "Ünitelerin yıllık vizit ve duruş programını hazırlar, takibini yapar,",
+  "Vardiya raporlarından alınan bilgileri makine sicil kartlarına işler,",
+  "Fabrikanın tüm teçhizatına ait kod numaralarını açar, makinelerin sicil kartı, vizit kartı ve yağlama kartlarının açılmasını sağlar,",
+  "Hazırlanan kontrol listesine göre makine ve ekipmanların çalışmalarını kontrol eder,",
+  "Bakım ekipleriyle koordineli olarak çalışmaları sürdürür,",
+  "Yeni tesislerin devreye alınmasında çalışır,",
+  "Mesleği alanındaki gelişmeleri takip eder ve uygular,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "İlgili mesleki ve teknik ortaöğretim mezunları, alanının devamı niteliğindeki ön lisans/lisans programlarına sınavla veya ek puan avantajıyla geçiş yapabilir. Ayrıca çeşitli kurum içi ve kurum dışı eğitim, seminer ve sertifika programlarına katılarak mesleki bilgi ve becerilerini geliştirebilirler.",
+  "is_hayatinda": "Deneyim ve bilgi birikimi arttıkça bakım şefliği, bakım planlama sorumluluğu, bakım müdürlüğü gibi daha üst sorumluluklara yönelebilirler. Sektördeki teknolojik gelişmeleri takip ederek kestirimci bakım gibi özelleşmiş alanlarda uzmanlaşabilirler."
+ },
+ "kazanc": {
+  "egitim_suresince": "Meslek için standart bir çıraklık veya örgün mesleki eğitim programı bulunmadığından, bu göreve hazırlanan kişiler genellikle önce ilgili alanda mesleki/teknik eğitimlerini tamamlar; işe başlangıçta ise işletmenin belirlediği deneme süresi veya başlangıç ücreti uygulanır.",
+  "egitim_sonrasi": [
+   "Kamuya bağlı işletmelerde çalışanlar 657 sayılı Kanun'a veya ilgili toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Özel sektördeki çimento fabrikalarında ücret; işletmenin büyüklüğü, çalışanın deneyimi, bilgi ve becerisine göre karşılıklı anlaşmayla belirlenir; işe yeni başlayanlarda genellikle asgari ücret düzeyinde olabilir.",
+   "Deneyim, uzmanlık ve üstlenilen sorumluluk arttıkça kazanç düzeyi de yükselir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T02:54:40",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6713
+  }
+ }
+}

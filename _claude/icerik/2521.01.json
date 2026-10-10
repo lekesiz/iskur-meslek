@@ -1,0 +1,77 @@
+{
+ "arac_gerec": [
+  "Bilgisayar ve sunucu sistemleri",
+  "Veri tabanı yönetim sistemi (DBMS) yazılımları (Oracle, MySQL, Microsoft SQL Server, PostgreSQL vb.)",
+  "SQL ve betik dilleri",
+  "Veri tabanı tasarım ve modelleme araçları",
+  "Yedekleme (back-up) ve kurtarma yazılımları",
+  "Performans izleme ve denetim araçları",
+  "Ağ ve bilgi güvenliği yazılımları",
+  "Bulut tabanlı veri tabanı platformları",
+  "Dokümantasyon ve versiyon kontrol araçları",
+  "Proje ve görev yönetim yazılımları"
+ ],
+ "genel_ozellikler": [
+  "Sayısal ve mantıksal düşünme yeteneğine sahip,",
+  "Analitik düşünebilen,",
+  "Dikkatli ve titiz,",
+  "Sorumluluk sahibi,",
+  "Problem çözme yeteneği güçlü,",
+  "Ekip çalışmasına uygun,",
+  "Sürekli öğrenmeye ve kendini geliştirmeye açık,",
+  "Gizlilik ve veri güvenliği ilkelerine bağlı,"
+ ],
+ "calisma_ortami": "Veri Tabanı Yöneticileri, genellikle kapalı ortamda büro koşullarında bilgisayar başında çalışır; gerektiğinde sunucu odaları veya veri merkezlerinde de görev yaparlar. Çalışma, çoğunlukla masa başında ekran karşısında uzun süre oturarak yürütülen bir faaliyettir; sistem bakımı, güncelleme veya acil arıza durumlarında mesai saatleri dışında (gece veya hafta sonu) çalışmak gerekebilir.\n\nGörevleri sırasında yazılım geliştiriciler, sistem ve ağ yöneticileri, bilgi güvenliği uzmanları ve kurum yöneticileriyle sıkı iletişim içinde çalışırlar. İş, yoğun odaklanma ve dikkat gerektirir; veri bütünlüğü ve gizliliğinin korunmasına yönelik sorumluluk, zaman zaman stresli olabilir.",
+ "gorevler": [
+  "Kuruluşun bilgi ihtiyacını ve sistemlerin etkilerini inceler,",
+  "Bilgi, kullanıcılar ve kaynaklar için tanımlar yapar ve bunları güncel tutar,",
+  "Veri tabanlarının kullanımı, denetimi, güncelleştirilmesi ve bakımı için standartlar geliştirir ve bunları belgeler,",
+  "Yeni ya da mevcut bilgi kütükleriyle ilgili yöntemler konusunda sistem çözümleyiciler ve tasarımcılarla görüş birliğine varır,",
+  "Deneme ve işletim için kullanılan veri tabanlarını kurar ve güncel tutar,",
+  "Veri tabanı sözlüklerini kurar ve güncel tutar,",
+  "Yeniden kurma ve yedekleme (back-up) yöntemlerini de içeren veri tabanı güvenlik ve denetim yöntemlerini geliştirir,",
+  "Gereğinde veri tabanlarını baştan yapılandırır,",
+  "Bilgi Yönetim Sistemlerini geçer ve gereğinde değişiklikler yapar,",
+  "Veri tabanının yapısını ve kullanım standartlarını tanımlar,",
+  "Yeterli koruma altında gerekli bilgiye ekonomik ve verimli bir biçimde erişilmesini sağlar,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Mesleğin eğitimi, üniversitelerin Bilgisayar Mühendisliği, Yazılım Mühendisliği, Bilgisayar Bilimleri, Bilişim Sistemleri Mühendisliği veya benzeri bilgisayar/bilişim alanındaki lisans programlarında verilmektedir. Ayrıca üniversiteler, eğitim akademileri ve yazılım üreticileri (örneğin Oracle, Microsoft gibi firmalar) tarafından açılan veri tabanı yönetimi sertifika programlarıyla da mesleki bilgi ve beceri kazanılabilir.",
+  "giris_kosullari": [
+   "Lise ve dengi okul mezunu olarak YKS'ye girip ilgili bilgisayar/bilişim mühendisliği bölümüne yeterli puanla yerleşmek.",
+   "Sertifika programları için genellikle lisans mezunu olmak veya ilgili alanda temel bilgisayar/programlama bilgisine sahip olmak."
+  ],
+  "sure_ve_icerik": "Lisans eğitimi 4 yıl sürer. Eğitimde programlama dilleri, veri yapıları ve algoritmalar, veritabanı yönetim sistemleri, SQL ve sorgulama dilleri, işletim sistemleri, bilgisayar ağları, yazılım mühendisliği ve bilgi güvenliği gibi dersler okutulur. Mesleğe özgü uzmanlık, genellikle lisans eğitimi sonrasında iş deneyimi, kurum içi eğitimler ve yazılım üreticilerinin açtığı veri tabanı yönetim sistemleri sertifika programlarıyla kazanılmaktadır.",
+  "belge": "Eğitim sonunda lisans diploması alınır. Ayrıca ilgili veri tabanı yönetim sistemlerine (örneğin Oracle, Microsoft SQL Server vb.) yönelik üretici sertifikaları, istihdamda tercih sebebi olabilmektedir."
+ },
+ "calisma_alanlari": "Veri Tabanı Yöneticileri; kamu kurumları, bankalar ve finans kuruluşları, bilişim ve yazılım şirketleri, e-ticaret işletmeleri, telekomünikasyon firmaları, sağlık kuruluşları, lojistik ve perakende şirketleri, üniversiteler ile büyük veri hacmiyle çalışan her türlü kurum ve kuruluşun bilgi işlem/bilgi teknolojileri birimlerinde istihdam edilebilirler. Ayrıca danışmanlık firmaları aracılığıyla veya bağımsız olarak proje bazlı çalışabilirler.",
+ "kazanc": {
+  "egitim_suresince": "Lisans eğitimi süresince öğrenciler, Kredi ve Yurtlar Genel Müdürlüğünün sağladığı öğrenim kredisi ve yurt hizmetlerinden yararlanabilir; staj dönemlerinde bazı işletmelerden cep harçlığı niteliğinde ödeme alınabilir.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında istihdam edilenler 657 sayılı Devlet Memurları Kanunu'na tabi olarak ücret alırlar.",
+   "Özel sektörde kazanç; işyerinin büyüklüğü, çalışanın bilgi birikimi ve deneyimi, çalışılan sektör ve işletmenin ücret politikasına göre değişiklik göstermekle birlikte, yeni başlayanlar için genellikle asgari ücretin üzerinde bir düzeyde belirlenmektedir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "İlgili alanda yüksek lisans ve doktora yaparak akademik kariyer yapabilir; ayrıca veri tabanı yönetim sistemlerine ilişkin ileri düzey sertifika programlarıyla uzmanlık alanını geliştirebilirler.",
+  "is_hayatinda": "Deneyim kazandıkça Kıdemli Veri Tabanı Yöneticisi, Bilgi İşlem Müdürü, Bilgi Teknolojileri (BT) Yöneticisi gibi unvanlara; proje yöneticiliği veya kurumların bilgi teknolojileri birimlerinde üst düzey yöneticilik pozisyonlarına yükselebilirler."
+ },
+ "benzer_meslekler": [
+  "Veri Tabanı Analisti",
+  "Ağ Veri Tabanı Yöneticisi",
+  "Veri Tabanı Mimarı",
+  "ETL Uzmanı/Danışmanı",
+  "Veri/Bilgi Yönetimi Danışmanı",
+  "Veri ve Bilgi Mühendisi"
+ ],
+ "ek_bilgiler": "Mesleki Yeterlilik Kurumu (MYK) belgesi bu mesleğe ilişkin bir çalışma düzenlemesinde zorunlu tutulmamakla birlikte, iş başvurularında tercih sebebi olabilmektedir. Kurum içi gizlilik politikaları ve kişisel verilerin korunmasına ilişkin mevzuat (örneğin KVKK) kapsamında, mesleği yürütenlerin veri güvenliği ve gizlilik konularında güncel bilgi sahibi olmaları önemlidir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T06:04:30",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5935
+  }
+ }
+}

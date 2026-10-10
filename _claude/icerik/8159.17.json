@@ -1,0 +1,75 @@
+{
+ "arac_gerec": [
+  "Elle veya elektrikli kesme makineleri",
+  "Kalıp açma/tesviye makineleri",
+  "Otomatik matkap (delik açma) makineleri",
+  "Zımparalama ve perdahlama (keçe disk) makineleri",
+  "Kimyasal bileşim, reçine veya plastik hammaddeler",
+  "Bitkisel maddeler (kemik, ahşap, hindistan cevizi vb.)",
+  "Fildişi, inci, sedef gibi doğal malzemeler",
+  "Kimyasal temizleme ve cilalama banyoları",
+  "Kurutma ekipmanları",
+  "Ölçüm aletleri (kumpas, mastar)",
+  "Koruyucu eldiven, gözlük ve maske",
+  "Temizlik ve silme bezleri"
+ ],
+ "genel_ozellikler": [
+  "El ve göz koordinasyonu iyi,",
+  "El becerisi gelişmiş,",
+  "Dikkatli ve titiz,",
+  "Düzenli ve sabırlı,",
+  "Makine ve el aletlerini kullanmaya istekli,",
+  "Küçük parçalarla çalışmaya uygun görme yeteneğine sahip,",
+  "Takım hâlinde çalışmaya uyumlu"
+ ],
+ "calisma_ortami": "Düğme imal işçileri, genellikle düğme ve aksesuar üreten küçük ve orta ölçekli atölye ile fabrikalarda, kapalı mekânlarda çalışır. Çalışma ortamında kesme, zımparalama ve delik açma makinelerinin çıkardığı gürültü, toz ve kimyasal koku bulunabilir; bu nedenle havalandırma sistemi ve kişisel koruyucu donanım (maske, eldiven, gözlük) kullanımı önem taşır. Çalışma genellikle tam gün sürer, iş hacmine göre vardiyalı çalışma gerekebilir.\n\nMeslek mensubu çalışırken büyük ölçüde makine ve malzeme ile ilgilenir; üretim sürecinde işyeri sorumluları, usta ve diğer atölye çalışanları ile iletişim kurar. İş, ayakta ve bazı aşamalarda oturarak yapılan tekrarlı el hareketlerini içerir; dikkat dağınıklığı kesme ve delme işlemlerinde yaralanma riskini artırabileceğinden iş güvenliği kurallarına uyulması gerekir.",
+ "egitim": {
+  "verildigi_yerler": "Düğme imal işçiliği için örgün eğitimde ayrı bir okul programı bulunmamaktadır. Meslek, genellikle işbaşında usta yanında yetişme yoluyla veya Halk Eğitim Merkezleri ile İŞKUR tarafından açılan mesleki eğitim kurslarında kazanılmaktadır.",
+  "giris_kosullari": [
+   "Okuma yazma bilmek ve ilköğretim mezunu olmak (veya İŞKUR/Halk Eğitim Merkezi kurs koşullarını sağlamak),",
+   "18 yaşından küçükler için veli izni gerekmektedir,",
+   "Belirli bir yaş ve eğitim düzeyi, uygulanacak kursun özelliğine göre değişebilir."
+  ],
+  "sure_ve_icerik": "Kurs süresi ve içeriği, açılan programa göre değişmekle birlikte; genel olarak malzeme tanıma, kesme, tesviye, delik açma, temizleme, cilalama ve kalite kontrol gibi uygulamalı konular içerir. İşbaşında eğitimde ise süre, işyerinin ihtiyacına ve çalışanın gelişimine bağlı olarak değişir.",
+  "belge": "Kurs yoluyla eğitim alanlara ilgili kurumdan 'Kurs Bitirme Belgesi' verilebilir; işbaşında yetişenler için resmî bir belge düzenlenmeyebilir."
+ },
+ "calisma_alanlari": "Düğme imal işçileri, başta tekstil ve konfeksiyon sektörüne girdi üreten düğme ve aksesuar fabrikaları ile küçük atölyelerde çalışabilir. Özel sektörde istihdam ağırlıklıdır; kamu kurumlarında bu meslekte doğrudan istihdam olanağı bulunmamaktadır. Üretim genellikle tekstil sanayinin yoğun olduğu illerde ve organize sanayi bölgelerinde yoğunlaşmaktadır. Deneyim kazananlar kendi küçük işletmelerini kurabilir.",
+ "kazanc": {
+  "egitim_suresince": "İşbaşında usta yanında yetişme sürecinde, çalışılan işyerine göre değişen düzeyde ücret alınabilir; kurs yoluyla eğitimde genellikle ayrıca bir kazanç söz konusu değildir.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Özel sektörde çalışanların ücreti; deneyim, işyerinin büyüklüğü ve çalışanla işveren arasındaki anlaşmaya göre değişebilir.",
+   "Kamuda işçi statüsünde çalışanların ücreti ilgili toplu iş sözleşmesi hükümlerine göre belirlenir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "İşletmenin büyüklüğüne ve üretim yapısına göre, çalışanlara işyeri bünyesinde hizmet içi eğitimler verilebilir; bu eğitimlerle çalışanın farklı makine ve işlemlerdeki yetkinliği artırılabilir.",
+  "is_hayatinda": "Deneyim kazanan düğme imal işçisi, atölyede usta başı veya vardiya sorumlusu konumuna gelebilir. Yeterli birikim ve sermayeye sahip olanlar kendi düğme imalat atölyelerini kurabilir."
+ },
+ "benzer_meslekler": [
+  "Fermuar İmal İşçisi",
+  "Vatka Makinesi İşçisi",
+  "Prese Makinesi Operatörü (Tekstil)",
+  "Zımbacı (Konfeksiyon)",
+  "Hidrofil Pamuk İmalat İşçisi"
+ ],
+ "ek_bilgiler": "Mesleğin eğitimi için standart ve yaygın bir örgün okul/kurs programı bulunmamaktadır; bu nedenle bilgiler genel çerçevede verilmiştir. Mesleki Yeterlilik Kurumu (MYK) belgesi, iş bulma ve istihdamda tercih sebebi olabilir ancak mesleğin uygulanması için zorunlu olduğu bilinmemektedir.",
+ "gorevler": [
+  "İşletmenin genel çalışma prensipleri doğrultusunda, araç, gereç ve ekipmanları etkin bir şekilde kullanarak, işçi sağlığı, iş güvenliği ve çevre koruma düzenlemelerine ve mesleğin verimlilik ve kalite gereklerine uygun olarak çalışır,",
+  "Elle veya elektrikli kesme makineleri ile kimyasal bileşimler, bitkisel maddeler, fildişi veya inci gibi çeşitli malzemeleri kesip kaba düğmelik taneler hazırlar,",
+  "Otomatik makineler kullanarak bunların pürüzlü kenarlarını alır,",
+  "Arka ve ön tarafını tesviye ederek istenilen kalınlığı verir,",
+  "Otomatik matkap makineleri ile düğme deliklerini açar,",
+  "Düğmeleri kimyasal banyolara batırıp cilalamadan ve silip kurutmadan önce temizler,",
+  "Dönen bir keçe diskle düğmeleri perdahlar ve bitmiş olanları muayene ederek kusurları ayırır,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T14:59:51",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 2941
+  }
+ }
+}

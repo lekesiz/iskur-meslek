@@ -1,0 +1,85 @@
+{
+ "gorevler": [
+  "Hastanın şikâyetini ve tıbbi öyküsünü ayrıntılı olarak alır, hasta bilgi formuna kaydeder.",
+  "Hastanın genel fiziki muayenesini yapar.",
+  "Tanıya yönelik olarak kan, idrar, kültür ve görüntülemeye yönelik tetkikler ister.",
+  "Enfeksiyon hastalıklarının tanısına yönelik laboratuvar yöntemlerini uygular ve sonuçlarını yorumlar.",
+  "Muayene bulguları ve test sonuçlarına göre tanı ve tedavi yöntemlerini belirler, tedavi süresine karar verir, tedaviye yanıt alınıp alınmadığını kontrol eder.",
+  "Hastaya hastalığıyla ilgili bilgi verir, tedaviyle ilgili tavsiyelerde bulunur.",
+  "Cerrahi müdahale gerektiren hastaları operasyon öncesi ve sonrasında takip ve kontrol eder.",
+  "İnsanları hasta olmadan önce bağışıklanmaya yönelik aşı programlarına alır.",
+  "Hastane enfeksiyonları takip kontrol sistemini kurar, hastane enfeksiyonlarının önlenmesine yönelik çalışmaları yürütür.",
+  "İlgili hekimlerle konsültasyonda bulunur, konsültasyon istenen vakaları değerlendirir.",
+  "Hastanelerde enfeksiyon hastalıkları kliniğinde takip edilen yatan hastaları günlük vizitlerle izler, laboratuvarda uygulanan rutin testlerin doğruluğunu denetler.",
+  "Mikroorganizmalar ve parazitlerin yol açtığı hastalıklardan korunma yolları hususunda birey ve toplumu bilgilendirir.",
+  "Mahiyetinde çalışan yardımcı sağlık personelinin eğitim ve denetiminden sorumlu olur.",
+  "Mesleği ile ilgili bilimsel gelişmeleri izler, kongre, sempozyum vb. aktivitelere katılır.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "arac_gerec": [
+  "Steteskop",
+  "Tansiyon aleti",
+  "Beden termometresi",
+  "Mikroskop",
+  "Kültür ve antibiyogram malzemeleri",
+  "PCR ve serolojik test cihazları",
+  "Kan, idrar ve doku örnekleme malzemeleri (enjektör, tüp vb.)",
+  "Kişisel koruyucu ekipman (eldiven, maske, önlük, siperlik)",
+  "Aşı ve enjeksiyon malzemeleri",
+  "Hasta takip formları ve elektronik sağlık kayıt sistemleri",
+  "Görüntüleme tetkik sonuçlarının değerlendirildiği bilgisayar ve görüntüleme yazılımları",
+  "Laboratuvar steril çalışma ekipmanları (biyogüvenlik kabini vb.)"
+ ],
+ "genel_ozellikler": [
+  "Biyoloji, kimya ve mikrobiyoloji konularına ilgili ve bu alanlarda başarılı,",
+  "Analitik düşünebilen, araştırmacı ve sorgulayıcı,",
+  "Hijyen kurallarına son derece özen gösteren, dikkatli ve titiz,",
+  "Sabırlı, soğukkanlı ve özverili çalışabilen,",
+  "Sorumluluk sahibi ve hızlı karar verebilen,",
+  "İnsanlarla ve çalışma ekibiyle sağlıklı iletişim kurabilen,",
+  "Meslek yaşamı boyunca bilimsel ve teknolojik gelişmeleri takip etme sorumluluğu üstlenebilen"
+ ],
+ "calisma_ortami": "Enfeksiyon Hastalıkları ve Klinik Mikrobiyoloji Uzmanları; üniversite hastaneleri, eğitim ve araştırma hastaneleri, devlet hastaneleri ve özel hastanelerin enfeksiyon hastalıkları poliklinik, klinik ve laboratuvar birimlerinde görev yaparlar. Çalışma ortamı genellikle temizdir ancak bulaşıcı hastalık etkenleriyle temas riski bulunduğundan kişisel koruyucu ekipman kullanımı ve hijyen kurallarına uyum büyük önem taşır.\n\nÇalışma saatleri genellikle düzenli olmakla birlikte, yatan hasta takibi ve acil konsültasyonlar nedeniyle nöbet sistemi uygulanabilir. Hastalar, hasta yakınları, diğer branş hekimleri, hemşireler, laboratuvar teknisyenleri ve hastane enfeksiyon kontrol komitesi üyeleriyle sürekli iş birliği içinde çalışılır; salgın dönemlerinde saha çalışmaları ve halk sağlığı kurumlarıyla koordinasyon da gerekebilir.",
+ "egitim": {
+  "verildigi_yerler": "Temel tıp eğitimi üniversitelere bağlı tıp fakültelerinde verilir. Tıp fakültesini bitirip tıp doktoru unvanı alanlar, Tıpta Uzmanlık Sınavı (TUS) sonucuna göre Sağlık Bakanlığına bağlı eğitim ve araştırma hastaneleri ile üniversite hastanelerinin Enfeksiyon Hastalıkları ve Klinik Mikrobiyoloji anabilim dallarında uzmanlık eğitimi alırlar.",
+  "giris_kosullari": [
+   "Lise veya dengi okul mezunu olmak,",
+   "YKS (Yükseköğretim Kurumları Sınavı) sonucuna göre tıp fakültesine yerleşmek,",
+   "Tıp fakültesi eğitimini başarıyla tamamlayarak tıp doktoru unvanı almak,",
+   "Tıpta Uzmanlık Sınavı (TUS)'ında yeterli puanı alarak Enfeksiyon Hastalıkları ve Klinik Mikrobiyoloji dalını tercih etmek ve bu dala yerleşmek."
+  ],
+  "sure_ve_icerik": "Tıp fakültelerinde eğitim teorik ve uygulamalı olarak 6 yıl sürer; ilk yıllarda temel fen ve tıp bilimleri, ardından insan vücudunun yapı ve işleyişi, hastalıklardan korunma ve tedavi dersleri, son sınıflarda ise hastane içinde hasta başı (klinik staj) eğitimleri verilir.\n\nTıp fakültesi sonrasında TUS ile başlanan Enfeksiyon Hastalıkları ve Klinik Mikrobiyoloji uzmanlık eğitimi, hastane ortamında teorik ve uygulamalı olarak yürütülür; enfeksiyon hastalıklarının tanı ve tedavisi, mikrobiyoloji laboratuvar yöntemlerinin uygulanması ve yorumlanması, hastane enfeksiyonlarının kontrolü ve önlenmesi gibi konularda uygulamalı eğitim ve yatan/ayaktan hasta takibi yapılır. Uzmanlık eğitiminin süresi ilgili mevzuatla belirlenir ve genellikle yaklaşık 4 yıldır.",
+  "belge": "Eğitimi başarıyla tamamlayanlara önce tıp doktorluğu lisans diploması, uzmanlık eğitimi sonunda ise Tıpta Uzmanlık Belgesi (Enfeksiyon Hastalıkları ve Klinik Mikrobiyoloji Uzmanı diploması) verilir."
+ },
+ "calisma_alanlari": "Enfeksiyon Hastalıkları ve Klinik Mikrobiyoloji Uzmanları; üniversite hastaneleri, Sağlık Bakanlığına bağlı eğitim ve araştırma hastaneleri, devlet hastaneleri ve özel hastanelerin enfeksiyon hastalıkları kliniklerinde ve polikliniklerinde görev alabilirler. Ayrıca hastanelerin enfeksiyon kontrol komitelerinde, halk sağlığı kurumlarında, bazı özel tanı ve mikrobiyoloji laboratuvarlarında ve akademik kadrolarda (üniversitelerde öğretim üyesi olarak) çalışabilirler.\n\nÜlkemizde enfeksiyon hastalıklarıyla mücadele ve hastane enfeksiyonlarının kontrolü giderek daha fazla önem kazandığından, bu alandaki uzman hekimlere olan ihtiyaç sürmektedir. Kamu kurumlarında atama; Sağlık Bakanlığı ve bağlı kuruluşların ilgili mevzuatına göre, özel sektörde ise hastane ve polikliniklerin ihtiyacına ve kuruma göre gerçekleşir.",
+ "kazanc": {
+  "egitim_suresince": "Tıp fakültesi öğrencileri Kredi ve Yurtlar Genel Müdürlüğü'nün öğrenim kredisi ve yurt hizmetlerinden, ayrıca çeşitli resmi ve özel kurum/kuruluşların burslarından yararlanabilirler. Uzmanlık eğitimi sırasında kamu kurumlarında asistan hekim olarak çalışanlar, 657 sayılı Devlet Memurları Kanunu ve ilgili mevzuata göre belirlenen maaş ve döner sermaye ek ödemesi alırlar.",
+  "egitim_sonrasi": [
+   "Kamu hastanelerinde çalışan uzman hekimlerin ücreti 657 sayılı Devlet Memurları Kanunu ve ilgili ek ödeme mevzuatına göre belirlenir.",
+   "Özel hastane ve polikliniklerde çalışanların ücreti işveren ile yapılan sözleşmeye, mesleki deneyime ve çalışılan kurumun büyüklüğüne göre değişiklik gösterir.",
+   "Akademik kadroda (üniversite hastanelerinde) görev yapanların kazancı unvan ve döner sermaye uygulamalarına göre farklılaşabilir.",
+   "Deneyim arttıkça ve uzmanlık alanında tanınırlık kazanıldıkça gelir düzeyi genel olarak yükselme eğilimi gösterir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Tıp fakültesi eğitimi sonrasında Tıpta Uzmanlık Sınavı (TUS) ile Enfeksiyon Hastalıkları ve Klinik Mikrobiyoloji alanında uzmanlık eğitimine başlanır; bu eğitim asistan hekimlikten uzman hekimliğe geçişi sağlar. Akademik kariyer isteyenler doktora/akademik unvan süreçleriyle öğretim görevlisi, doçent ve profesör unvanlarına ilerleyebilirler.",
+  "is_hayatinda": "Deneyim kazanan uzmanlar klinik şefliği, bölüm sorumluluğu, hastane enfeksiyon kontrol komitesi başkanlığı gibi görevlere, akademik kurumlarda ise doçentlik ve profesörlük gibi unvanlara ilerleyebilirler. Ayrıca özel sektörde muayenehane veya poliklinik açabilir, danışmanlık hizmeti verebilir ya da yönetici hekimlik görevlerine yükselebilirler."
+ },
+ "benzer_meslekler": [
+  "Çocuk Enfeksiyon Uzmanı",
+  "Epidemiyolog",
+  "Halk Sağlığı Hekimi",
+  "İç Hastalıkları (Dahiliye) Uzmanı",
+  "Diğer Uzman Tıp Doktorları",
+  "Mütehassıs Hekim"
+ ],
+ "ek_bilgiler": "Bu meslek, özellikle bulaşıcı hastalık salgınları ve pandemi dönemlerinde toplum sağlığı açısından kritik önem taşır; hastane enfeksiyon kontrol komitelerinde görev alma bu uzmanlık alanına özgü bir sorumluluktur. Sağlık hizmetlerinde çalışmanın gerektirdiği genel sağlık koşullarını taşımak ve bulaşıcı etkenlere karşı gerekli koruyucu tedbirlere (aşılama vb.) uymak önemlidir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-07T22:24:10",
+  "usage": {
+   "input_tokens": 4,
+   "output_tokens": 11608
+  }
+ }
+}

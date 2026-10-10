@@ -1,0 +1,77 @@
+{
+ "arac_gerec": [
+  "Test uçağı veya test helikopteri",
+  "Uçuş test enstrümantasyon ve veri kayıt sistemleri (telemetri)",
+  "Uçuş kontrol panelleri ve göstergeler",
+  "Haberleşme ve telsiz sistemleri",
+  "G-suit, paraşüt ve oksijen maskesi gibi kurtarma ekipmanları",
+  "Uçuş test planları ve teknik el kitapları",
+  "Performans ve veri analiz yazılımları",
+  "Dizüstü bilgisayar ve kayıt cihazları",
+  "Uçuş simülatörü",
+  "Kontrol listesi",
+  "Mühendislik planları ve teknik şartnameler"
+ ],
+ "genel_ozellikler": [
+  "Mekanik ve teknik sistemlere ilgili, uçak/havacılık teknolojilerine hakim,",
+  "Analitik düşünebilen ve hızlı, isabetli karar verebilen,",
+  "Yüksek stres ve belirsizlik altında soğukkanlılığını koruyabilen,",
+  "El ve göz koordinasyonu güçlü,",
+  "Fiziksel ve psikolojik açıdan sağlıklı, yükseklik korkusu olmayan,",
+  "Sabırlı, dikkatli ve sorumluluk sahibi,",
+  "Mühendisler ve teknik ekiplerle etkili iletişim kurabilen, takım çalışmasına yatkın,",
+  "Risk değerlendirmesi konusunda disiplinli ve kararlı"
+ ],
+ "gorevler": [
+  "Uçuş öncesi teknik verileri ve mühendislik planlarını inceler,",
+  "Hava aracının sistem kontrollerini yerde ve havada gerçekleştirir,",
+  "Belirlenen test manevralarını yaparak aracın tepkilerini ölçer,",
+  "Uçuş sırasında oluşan teknik aksaklıkları anlık olarak raporlar,",
+  "Test sonuçlarını içeren detaylı uçuş raporları hazırlar,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "calisma_ortami": "Test pilotları, havacılık ve savunma sanayi kuruluşlarına ait uçuş test üslerinde ve test merkezlerinde görev yapar. Uçuş öncesi ve sonrası brifingler, planlama ve rapor hazırlama çalışmaları ofis ortamında yürütülürken; asıl test faaliyetleri açık havada, değişken hava koşullarında ve genellikle yüksek irtifada gerçekleştirilir. Mesleğin doğası gereği, henüz sertifikalandırılmamış veya modifiye edilmiş hava araçlarıyla sınır testleri yapıldığından normal pilotluğa kıyasla daha yüksek risk taşır; bu nedenle iş sağlığı ve güvenliği kurallarına titizlikle uyulması gerekir.\n\nÇalışma saatleri test programının niteliğine göre düzensiz olabilir. Test pilotu; uçuş mühendisleri, teknisyenler, kalite güvence ekipleri, hava trafik kontrolörleri ve meteoroloji görevlileri ile yoğun iş birliği içinde çalışır.",
+ "egitim": {
+  "verildigi_yerler": "Test pilotluğu, doğrudan bir yükseköğretim programıyla kazanılan bağımsız bir meslek değildir. Öncelikle sivil veya askeri pilotluk eğitimi alınarak ticari pilot ya da askeri pilot yeterliliği edinilir; ardından havacılık ve savunma sanayi kuruluşları, ilgili askeri kurumların bünyesindeki ileri uçuş test eğitim birimleri veya yurt dışındaki özel test pilotluğu okullarında verilen ileri düzey ek eğitim tamamlanarak bu mesleğe geçilir.",
+  "giris_kosullari": [
+   "Ticari pilot lisansına veya askeri pilot yeterliliğine sahip olmak,",
+   "Belirli bir uçuş saati deneyimine sahip olmak,",
+   "İlgili sağlık kurumlarından uçuşa elverişlilik raporu almak,",
+   "İleri derecede İngilizce bilmek,",
+   "Havacılık, uçak/uzay mühendisliği veya ilgili bir lisans programından mezun olmak (çoğu kurumda tercih sebebidir),",
+   "İlgili askeri veya sivil havacılık kuruluşlarının açtığı test pilotluğu eğitim programlarına kabul edilmek"
+  ],
+  "sure_ve_icerik": "Öncelikle lisans düzeyinde pilotluk eğitimi tamamlanır ve belirli bir süre uçuş tecrübesi kazanılır. Bunu takiben, test pilotluğuna özgü ileri eğitim programı kapsamında uçuş mekaniği, aerodinamik, uçuş test metodolojileri, veri analizi ve acil durum yönetimi gibi konularda teorik ve uygulamalı eğitim verilir. Bu ek eğitimin süresi ve içeriği kuruma göre değişmekle birlikte genellikle bir yıla kadar sürebilir.",
+  "belge": "Eğitim sonunda, sahip olunan ticari/askeri pilot lisansına ek olarak ilgili kurumun verdiği test pilotluğu yeterlilik sertifikası veya yetki belgesi alınır."
+ },
+ "calisma_alanlari": "Havacılık ve savunma sanayi firmaları, uçak ve helikopter üreticileri, Türk Silahlı Kuvvetleri bünyesindeki uçuş test ve değerlendirme merkezleri, yerli hava aracı üreticileri, sivil havacılık otoritesine bağlı sertifikasyon ve değerlendirme kuruluşları ile havacılık araştırma-geliştirme merkezlerinde istihdam edilebilirler.",
+ "kazanc": {
+  "egitim_suresince": "Eğitim sürecinde, askeri kurumlar bünyesinde eğitim alan adaylara genellikle harçlık veya maaş ödenirken, sivil kurumlarda eğitim masrafları kişi ya da işveren tarafından karşılanabilir; bu aşamada sabit ve düzenli bir kazançtan söz etmek genellikle mümkün değildir.",
+  "egitim_sonrasi": [
+   "Kamu veya askeri kurumlarda görev yapanların kazancı ilgili mevzuata (657 sayılı Devlet Memurları Kanunu veya askeri personel mevzuatı) göre belirlenir.",
+   "Özel sektörde havacılık ve savunma sanayi firmalarında çalışanların kazancı deneyim, uçuş saati, uzmanlık alanı ve işletmenin büyüklüğüne göre karşılıklı olarak belirlenir.",
+   "Deneyim ve uzmanlık arttıkça kazanç düzeyi genellikle önemli ölçüde yükselir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Pilotluk eğitiminin ardından uçuş saati ve deneyim biriktirilerek test pilotluğu eğitimine katılım sağlanabilir; belirli uçak veya helikopter tiplerine yönelik ek uzmanlık sertifikaları ve ileri düzey test teknikleri eğitimleriyle mesleki gelişim desteklenebilir.",
+  "is_hayatinda": "Deneyim kazandıkça baş test pilotu, uçuş test koordinatörü veya test ve değerlendirme biriminde yöneticilik gibi görevlere yükselinebilir; ayrıca uçuş eğitmenliği ya da havacılık otoritelerinde denetleyici/değerlendirici pozisyonlarına geçiş yapılabilir."
+ },
+ "benzer_meslekler": [
+  "Pilot",
+  "Helikopter Pilotu",
+  "Uçuş Öğretmeni",
+  "İnsansız Hava Aracı (İHA) Pilotu",
+  "Seyrüseferci",
+  "Balon Pilotu"
+ ],
+ "ek_bilgiler": "Test pilotluğu, yüksek risk içeren ve sınırlı sayıda uzman gerektiren özel bir uzmanlık alanıdır. Bu nedenle mesleğe yönelik bağımsız bir yükseköğretim programı bulunmamakta olup meslek, önceden pilotluk deneyimi kazanmış kişilerin ileri düzey ek eğitimler almasıyla icra edilmektedir. Havacılık ve savunma sanayinin gelişimine bağlı olarak istihdam imkanları sınırlı sayıda olmakla birlikte stratejik öneme sahiptir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T11:57:28",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6596
+  }
+ }
+}

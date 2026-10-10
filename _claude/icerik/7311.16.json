@@ -1,0 +1,90 @@
+{
+ "arac_gerec": [
+  "Referans/standart ölçü cihazları ve etalonlar",
+  "Kalibrasyon düzenekleri ve test standları",
+  "Dijital multimetre, osiloskop gibi elektriksel ölçüm cihazları",
+  "Basınç, sıcaklık ve nem kalibratörleri",
+  "Mikrometre, kumpas, komparatör gibi boyutsal ölçüm aletleri",
+  "Bilgisayar ve kalibrasyon/ölçüm yazılımları",
+  "Etiketleme ve raporlama ekipmanları",
+  "Çeşitli el aletleri (tornavida, pense, anahtar takımları)",
+  "Kişisel koruyucu donanım (eldiven, koruyucu gözlük)",
+  "Temizlik ve bakım malzemeleri",
+  "Sıcaklık/nem kontrollü laboratuvar ortam cihazları",
+  "Taşıma ve paketleme ekipmanları"
+ ],
+ "benzer_meslekler": [
+  "Kalibrasyoncu (Elektriksel ve Elektronik Ölçü Aletleri Hariç)",
+  "Enstrümancı-Ölçme ve Kontrol Cihazları",
+  "Sayaç Ayar, Ölçü Kontrol ve Tamir Teknisyeni",
+  "Üç Boyutlu Ölçüm (Cmm) Operatörü",
+  "Validasyon Uzmanı",
+  "Hassas ve Dakik Aletler Alıştırıcı-Montörü"
+ ],
+ "calisma_alanlari": "Kalibrasyoncular; bağımsız veya firmalara bağlı kalibrasyon laboratuvarlarında, sanayi ve üretim tesislerinin kalite kontrol ve ölçme-doğrulama birimlerinde, metroloji ve ölçü-ayar hizmeti veren kamu kurumlarında, hastane ve sağlık kuruluşlarının biyomedikal cihaz bakım birimlerinde, otomotiv, enerji, savunma sanayi, gıda ve ilaç gibi sektörlerin kalite/Ar-Ge birimlerinde çalışabilirler. Sanayinin ölçüm doğruluğuna verdiği önemin artması ve kalite yönetim sistemlerinin yaygınlaşması, bu meslekte iş bulma olanaklarını desteklemektedir; özellikle akredite kalibrasyon laboratuvarlarında yetişmiş eleman ihtiyacı sürmektedir.",
+ "calisma_ortami": "Kalibrasyoncu genellikle sıcaklık ve nem değerlerinin kontrollü tutulduğu kapalı laboratuvar ortamlarında çalışır; bazı durumlarda üretim tesisi, hastane veya işletme sahasında yerinde kalibrasyon yapmak üzere görevlendirilebilir. İş, uzun süre oturarak veya ayakta, hassasiyet ve dikkat gerektiren ince işlemlerle yürütülür; gözün ve elin koordinasyonu önem taşır.\n\nÇalışma saatleri genellikle gündüz mesaisi şeklindedir, ancak işletmenin üretim programına göre değişiklik gösterebilir. Görevi sırasında mühendisler, kalite kontrol personeli, teknisyenler, laboratuvar yöneticileri ve hizmet aldığı müşteri/firma temsilcileriyle iletişim kurar.",
+ "egitim": {
+  "verildigi_yerler": "Kalibrasyoncu mesleği için ayrı ve standart bir çıraklık eğitim dalı bulunmamaktadır. Meslek; mesleki ve teknik Anadolu liselerinin Elektrik-Elektronik, Metal Teknolojisi, Makine Teknolojisi veya Ölçme-Kontrol ile ilişkili alanlarından mezun olup işyerinde usta yanında yetişenler ile üniversitelerin Elektrik-Elektronik Mühendisliği, Makine Mühendisliği, Fizik veya Metroloji ve Kalite gibi bölümlerinden mezun olanlar tarafından da yürütülmektedir. Halk Eğitim Merkezleri, İŞKUR'un açtığı mesleki eğitim kursları ve kalibrasyon firmalarının/akreditasyon kuruluşlarının düzenlediği sertifikalı kurslar, mesleğe giriş ve mesleki gelişim açısından önemli bir yol sunmaktadır.",
+  "giris_kosullari": [
+   "Mesleki ve teknik lise düzeyinde eğitim için en az ortaokul mezunu olmak",
+   "Sayısal derslere, ölçme ve ölçüm konularına ilgi duymak",
+   "El ve göz koordinasyonunun iyi olması",
+   "Dikkatli, sabırlı ve titiz çalışabilme",
+   "Sağlık durumunun mesleğin gerektirdiği işlere uygun olması",
+   "Üniversite düzeyinde eğitim için ilgili lisans/ön lisans programlarına yerleştirilmiş olmak"
+  ],
+  "sure_ve_icerik": "Mesleğe özgü standart bir çıraklık eğitim süresi bulunmamaktadır. İlgili mesleki ve teknik ortaöğretim programları (Elektrik-Elektronik, Metal, Makine Teknolojisi vb.) ortaöğretimden sonra 4 yıl sürmekte, teorik meslek dersleri ile işyerinde uygulamalı eğitimi birlikte içermektedir. Yükseköğretim düzeyinde ön lisans programları 2 yıl, ilgili mühendislik/fizik lisans programları 4 yıl sürmektedir. Mesleğe giriş sonrasında, kalibrasyon yöntemleri, ölçüm belirsizliği, kalite yönetim sistemleri ve ilgili cihazlara özgü bilgi ve beceriler, işbaşında usta/uzman yanında ve kısa süreli kurslarla kazanılmaktadır.",
+  "belge": "Mesleki ve teknik ortaöğretim kurumu diploması, ön lisans/lisans diploması, katılınan kurslar sonunda verilen katılım/sertifika belgesi. İlgili alanda Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "ek_bilgiler": "Kalibrasyon hizmeti veren işletmelerin uluslararası kabul görmüş akreditasyon kuruluşlarından (örneğin TÜRKAK) akredite olması sektörde önemli bir güvenilirlik ölçütüdür; bu nedenle akredite kalibrasyon laboratuvarlarında çalışmak, mesleğin saygınlık ve istihdam açısından tercih edilen bir koludur.",
+ "genel_ozellikler": [
+  "Dikkatli ve titiz,",
+  "Sabırlı,",
+  "El ve göz koordinasyonu gelişmiş,",
+  "Sayısal ve analitik düşünebilen,",
+  "Sorumluluk sahibi,",
+  "Yeni teknolojilere ve değişen ölçüm yöntemlerine açık,",
+  "Takım çalışmasına uyumlu"
+ ],
+ "gorevler": [
+  "İş sağlığı ve güvenliği, yangın ve acil durum kurallarını uygular.",
+  "Çevre koruma mevzuatına uygun çalışır.",
+  "Kalite yönetim sistemi dokümanlarına uygun çalışır.",
+  "Çalıştığı yeri düzenler.",
+  "Çalışma alet ve donanımlarının koruyucu ve talimatlı bakımlarını sağlar.",
+  "İş organizasyonu ve dokümantasyonunun hazırlığını yapar.",
+  "Referans cihazın durumunu kontrol eder.",
+  "Kalibre edilecek cihazı hazırlar.",
+  "Kalibre edilecek cihazın ön kontrollerini yapar.",
+  "Ön test işlemlerini gerçekleştirir.",
+  "Kalibrasyon testlerini yapar.",
+  "Gerekli ayar ve hesaplama işlemlerini gerçekleştirir.",
+  "Başlangıç değeri ayarını (sıfırlama) yapar.",
+  "Doğruluk kontrolünü yapar.",
+  "Gerekli hesaplama işlemlerini yapar.",
+  "Kalibre edilen cihazın durumunu raporlar.",
+  "Hatalı cihazlar ile ilgili işlemleri gerçekleştirir.",
+  "Yeni alınacak cihazlar ile ilgili işlemleri gerçekleştirir.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleki ve teknik ortaöğretim kurumlarından mezun olanlar, alanın devamı niteliğindeki ön lisans/lisans programlarına yönelik tercihlerinde sınavsız geçiş veya ek puan gibi olanaklardan yararlanabilirler. Kalibrasyon yöntemleri, ölçüm belirsizliği hesaplamaları, kalite yönetim sistemleri ve ilgili mevzuat konularında alınan sertifika ve kurslarla mesleki bilgi ve beceriler geliştirilebilir.",
+  "is_hayatinda": "Deneyim kazandıkça kalibrasyon teknisyenliğinden kalibrasyon mühendisliğine, laboratuvar sorumluluğuna, kalite yöneticiliğine veya akreditasyon uzmanlığına doğru ilerleme olanağı bulunur. Yeterli sermaye, deneyim ve uzmanlık kazanıldığında kendi kalibrasyon/ölçüm hizmeti işletmesi kurulabilir."
+ },
+ "kazanc": {
+  "egitim_suresince": "İşyerinde uygulamalı eğitim kapsamında çalışanlara 3308 sayılı Mesleki Eğitim Kanunu hükümlerine göre ücret ödenebilir; bu dönemde kazanç genellikle asgari ücret düzeyinde olmaktadır.",
+  "egitim_sonrasi": [
+   "Özel sektörde kalibrasyon teknisyeni/mühendisi olarak çalışanların ücretleri işletmenin büyüklüğüne, çalışılan sektöre ve kişinin deneyim/uzmanlığına göre karşılıklı anlaşma ile değişmektedir.",
+   "Kamu kurumlarında memur statüsünde istihdam edilenler 657 sayılı Devlet Memurları Kanunu'na, işçi statüsünde çalışanlar ise ilgili toplu iş sözleşmesi hükümlerine göre ücret alır.",
+   "Mesleğe yeni başlayanlarda kazanç genellikle asgari ücret düzeyinde olup, deneyim, uzmanlaşma ve akreditasyonlu kuruluşlarda çalışma ile birlikte artış gösterebilmektedir."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T03:18:33",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 7700
+  }
+ }
+}

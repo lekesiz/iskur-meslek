@@ -1,0 +1,76 @@
+{
+ "arac_gerec": [
+  "Honlama tezgahı",
+  "Tezgah bağlama aparatı (mandren, pens, bağlama tablası)",
+  "Honlama bıçağı ve honlama taşları",
+  "El çarkı ve kumanda tertibatları",
+  "Otomatik ileri-geri hareket tertibatı",
+  "Ölçme ve kontrol aletleri (mikrometre, çap kumpası, mastar, şablon)",
+  "Yağlama ve soğutma sıvıları",
+  "Yağdanlık/yağlama tabancası",
+  "Temizlik bez ve malzemeleri",
+  "Tezgah bakım el aletleri (anahtar takımı, tornavida vb.)",
+  "Kişisel koruyucu donanım (iş gözlüğü, eldiven, iş elbisesi, kulak koruyucu)"
+ ],
+ "genel_ozellikler": [
+  "El ve gözü eşgüdümle kullanabilen,",
+  "Dikkatli ve sabırlı,",
+  "El becerisine sahip,",
+  "Makine ve aletlerle çalışmaktan hoşlanan,",
+  "Küçük ölçü farklarını ayırt edebilen görme yeteneğine sahip,",
+  "Tekdüzen ve sürekli dikkat gerektiren işlerde çalışabilen,",
+  "Uzun süre ayakta çalışabilecek fiziksel güce sahip,",
+  "Sorumluluk sahibi"
+ ],
+ "gorevler": [
+  "Silindiri tezgahın bağlama aparatına takar,",
+  "Tezgahı çalıştırarak honlama bıçağına devir verir ve bunu silindire daldırmak üzere el çarkını kullanır,",
+  "Honlama bıçağının silindir içinde ileri-geri hareketini temin edecek otomatik tertibatı çalıştırır,",
+  "Honlama işleminin seyrini takip eder,",
+  "Honlama işinin bitiminde tezgahı durdurur,",
+  "Silindiri ölçme aletleriyle kontrol eder, hataları bildirir ve honlama işlemini gerekirse diğer silindirlerle tekrarlar,",
+  "Tezgahı temizleyip yağlayabilir,",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "calisma_ortami": "Honlama Tezgahı Operatörü atölye veya fabrika ortamında, genellikle ayakta ve tezgah başında çalışır. Çalışma ortamı tezgahların çalışması nedeniyle gürültülü, kullanılan yağlama ve soğutma sıvıları nedeniyle kısmen kirli olabilir; metal talaşı ve sıvılarla doğrudan temas söz konusu olduğundan kişisel koruyucu donanım kullanımı önemlidir. Üretim temposuna bağlı olarak vardiyalı çalışma düzeni görülebilir.\n\nOperatör işini büyük ölçüde bağımsız olarak yürütür; çalışma sırasında diğer tezgah operatörleri, ustabaşı ve kalite kontrol elemanlarıyla kısa süreli ve işe yönelik iletişim kurar. İş, dikkat ve hassasiyet gerektiren, makineyle sürekli ilgilenmeyi gerektiren bir niteliktedir.",
+ "egitim": {
+  "verildigi_yerler": "Honlama tezgahı operatörlüğüne yönelik ayrı ve resmî olarak tanımlanmış bağımsız bir çıraklık dalı bulunmamaktadır. Mesleğe ilişkin temel bilgi ve beceriler genellikle mesleki ve teknik eğitim programları içinde Metal Teknolojisi/Makine Teknolojisi alanı kapsamında, mesleki eğitim merkezlerinde ve işyerlerinde işbaşında usta yanında kazanılır. Ayrıca Halk Eğitim Merkezleri ile İŞKUR'un açtığı mesleki eğitim kursları da ilgili makine/tezgah operatörlüğüne yönelik kısa süreli kurslar düzenleyebilir.",
+  "giris_kosullari": [
+   "En az ilköğretim mezunu olmak",
+   "Çıraklık eğitimine girecekler için 14 yaşını doldurmuş olmak ve ilgili işyeri ile çıraklık sözleşmesi imzalamak",
+   "El-göz koordinasyonu ve görme sağlığı açısından mesleğe uygun olmak"
+  ],
+  "sure_ve_icerik": "Mesleki eğitim merkezlerinde Metal Teknolojisi alanı kapsamındaki eğitim, genel düzenlemeler çerçevesinde kalfalık ve ustalık eğitimi aşamalarından oluşur; eğitim hem genel kültür ve meslek derslerini hem de işyerinde usta öğretici gözetiminde yapılan pratik çalışmayı içerir. Honlama tezgahının kullanımına ilişkin özel beceriler ise genellikle işbaşında, usta yanında ve makine üzerinde uygulamalı olarak öğrenilir. Eğitim süresince tezgahın tanınması, bağlama ve kumanda tertibatlarının kullanımı, ölçme aletleriyle kontrol yapılması ve iş güvenliği kuralları öğretilir.",
+  "belge": "Mesleki eğitim merkezinden mezun olanlara kalfalık ve ustalık belgesi verilir. Kısa süreli kurslara katılanlara kurs tamamlama/katılım belgesi verilir. Mesleki Yeterlilik Kurumu (MYK) belgesi istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Honlama Tezgahı Operatörü, metal işleme ve makine imalatı sektöründe, özellikle motor silindirleri, hidrolik ve pnömatik silindir imalatı yapan fabrika ve atölyelerde çalışır. Otomotiv yedek parça sanayi, tarım makineleri imalatı ve genel makine imalat sanayinde istihdam edilebilir. Çalışma alanı genellikle özel sektör işletmeleridir; iş bulma imkânı metal ve makine imalat sanayinin gelişmişliğine ve bu sektörlerdeki üretim hacmine bağlı olarak değişmektedir.",
+ "kazanc": {
+  "egitim_suresince": "Çıraklık eğitimi kapsamında işletmelerde mesleki eğitim gören öğrencilere 3308 sayılı Mesleki Eğitim Kanunu'na uygun olarak ücret ödenir; öğrencilerin iş kazası ve meslek hastalıkları sigortası devletçe karşılanır.",
+  "egitim_sonrasi": [
+   "Mesleğe yeni başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Kazanç, çalışılan işletmenin büyüklüğüne, sektöre, deneyime ve çalışanın ustalık düzeyine göre özel sektörde karşılıklı anlaşma ile artabilir.",
+   "Kamu kuruluşlarına bağlı üretim işletmelerinde işçi statüsünde çalışanlar için toplu iş sözleşmesi hükümleri geçerlidir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleki eğitim merkezi veya meslek lisesinden mezun olanlar, alanın devamı niteliğindeki yükseköğretim (ön lisans) programlarını tercih ettiklerinde ilgili düzenlemeler çerçevesinde sınavsız geçiş veya ek puan avantajından yararlanabilir.",
+  "is_hayatinda": "Deneyim kazanan operatör, tezgah ayarcı-operatörlüğüne, ustabaşılığa veya kalite kontrol görevlerine yükselebilir. Yeterli bilgi, beceri ve sermaye birikimiyle kendi işyerini açabilir."
+ },
+ "benzer_meslekler": [
+  "Honlama Tezgahı Ayarcı-Operatörü (Metal İşçiliği)",
+  "Mıknatıs Tablalı Rektifiye Tezgahı Ayarcı-Operatörü (Metal İşçiliği)",
+  "Borverk (Bohrwerk) Operatörü",
+  "Matkap Tezgahı Operatörü-Metal İşçiliği",
+  "Metal İşleme Tezgahı Ayarcısı",
+  "Freze Tezgahı Ayarcı-Operatörü (Metal İşçiliği)"
+ ],
+ "ek_bilgiler": "Honlama tezgahı operatörlüğü, özellikle motor ve hidrolik silindir imalatında yüksek hassasiyet gerektiren bir uzmanlık alanıdır. Günümüzde geleneksel tezgahların yanında bilgisayar kontrollü (CNC) honlama tezgahları da kullanılmakta olup bu tezgahların kullanımına ilişkin bilgi, istihdamda tercih sebebi olabilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T01:39:50",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6351
+  }
+ }
+}

@@ -1,0 +1,83 @@
+{
+ "arac_gerec": [
+  "Araç kaldırma lifti, kriko ve sehpalar (takoz)",
+  "Pnömatik ve hidrolik somun sökme tabancaları (empact)",
+  "Tork anahtarı ve anahtar takımları (açık/yıldız/lokma)",
+  "Pense, kargaburun, tornavida takımları",
+  "Çekiç, levye, zımba ve keski takımları",
+  "Rulman/burç söküm-takım presleri",
+  "Kaynak makinesi ve taşlama/zımpara makinesi",
+  "Matkap, kılavuz ve pafta takımları",
+  "Kumpas, mikrometre gibi ölçüm aletleri",
+  "Gresörlük/yağlama tabancası",
+  "Vinç, transpalet ve diğer kaldırma araçları",
+  "Kişisel koruyucu donanım (eldiven, gözlük, iş elbisesi)"
+ ],
+ "genel_ozellikler": [
+  "El ve kol kaslarını güçlü ve koordineli kullanabilen,",
+  "Mekanik problemleri çözebilme gücüne sahip,",
+  "Şekiller arasındaki ilişkileri algılayabilen,",
+  "El becerisine sahip ve dikkatli,",
+  "Fiziksel olarak dayanıklı,",
+  "Sorumluluk sahibi ve işçi sağlığı-iş güvenliği kurallarına uyan,",
+  "Takım halinde çalışmaya uyumlu,",
+  "Yenilikleri ve mesleki gelişmeleri takip eden"
+ ],
+ "calisma_ortami": "Dingil tamircisi, genellikle oto tamir atölyelerinde, ağır vasıta (kamyon, otobüs, treyler) servislerinde ve filo bakım birimlerinde kapalı mekânlarda çalışır; arıza durumuna göre bazen açık alanda da çalışması gerekebilir. Çalışma ortamı yağlı, gürültülü ve tozlu olabilir; ağır parçaların kaldırılması, kaynak ve taşlama işlemleri nedeniyle iş kazası riski bulunduğundan iş sağlığı ve güvenliği kurallarına titizlikle uyulması gerekir.\n\nÇalışma genellikle gündüz mesai saatlerinde yürütülür, iş yoğunluğuna göre fazla çalışma gerekebilir. Meslek elemanı; müşteriler, işyeri sahibi, diğer ustalar ve çıraklarla sürekli iletişim halindedir.",
+ "egitim": {
+  "verildigi_yerler": "Dingil tamirciliği, bağımsız bir meslek lisesi programı olarak değil, Mesleki Eğitim Merkezlerinde \"Motorlu Araçlar Teknolojisi\" alanı kapsamındaki ilgili dallarda (örneğin otomotiv mekanikerliği, ağır vasıta bakım-onarımı) verilen çıraklık/kalfalık-ustalık eğitiminin ardından işyerinde kazanılan bir uzmanlık alanı olarak gelişmektedir. Ayrıca Halk Eğitim Merkezleri ve İŞKUR'un açtığı mesleki eğitim kursları ile işbaşında usta yanında yetişme yoluyla da bu alana giriş mümkündür.",
+  "giris_kosullari": [
+   "En az ilköğretim/ortaokul mezunu olmak",
+   "Çıraklık eğitimine başlamak için 14 yaşını doldurmuş olmak",
+   "Sağlık durumunun mesleğin gerektirdiği fiziksel çalışmaya uygun olması",
+   "Eğitim görmek için bir işyeri bulup işvereniyle çıraklık sözleşmesi imzalamak",
+   "Kurslara katılım için genellikle okur-yazar olmak ve belirlenen yaş şartını taşımak"
+  ],
+  "sure_ve_icerik": "Mesleki eğitim merkezlerinde \"Motorlu Araçlar Teknolojisi\" alanındaki çıraklık eğitimi, ilköğretim sonrası 4 yıl sürer; bunun 3 yılı kalfalık, 1 yılı ustalık eğitimidir. Eğitim haftada bir gün mesleki eğitim merkezinde teorik derslerle, kalan günlerde çıraklık sözleşmesi yapılan işyerinde usta öğretici gözetiminde uygulamalı olarak yürütülür. Dingil tamirciliği, bu temel otomotiv mekanikerliği eğitiminin üzerine, özellikle ağır vasıtaların dingil-aks sistemleri üzerinde kazanılan iş deneyimi ve işbaşı uygulamalarla derinleşen bir uzmanlık alanıdır. Halk Eğitim Merkezi ve İŞKUR kurslarında ise motorlu taşıt bakım-onarımına yönelik daha kısa süreli, uygulamalı eğitimler verilmektedir.",
+  "belge": "Mesleki eğitim merkezinde eğitimi tamamlayanlara kalfalık, ardından ustalık belgesi verilir; fark derslerinin tamamlanması halinde meslek lisesi diploması alınabilir. Kurslara katılanlara ise katılım/başarı sertifikası verilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, istihdamda tercih sebebi olabilir."
+ },
+ "calisma_alanlari": "Dingil tamircisi; özel oto tamir atölyelerinde, ağır vasıta (kamyon, otobüs, treyler, çekici) servislerinde, nakliye ve lojistik firmalarının bakım-onarım birimlerinde, filo işletmelerinde, belediyelerin ve kamu kuruluşlarının araç bakım atölyelerinde çalışabilir. Deneyim ve sermaye birikimiyle kendi işyerini açma olanağına da sahiptir. Özellikle ağır vasıta taşımacılığının yoğun olduğu bölgelerde ve lojistik sektörünün geliştiği merkezlerde bu uzmanlığa talep bulunmaktadır.",
+ "kazanc": {
+  "egitim_suresince": "Çıraklık eğitimi sırasında, 3308 sayılı Mesleki Eğitim Kanunu çerçevesinde işletmelerde eğitim gören öğrencilere asgari ücretin belirli bir oranında ücret ödenir; sigorta primleri devletçe karşılanır. Kurs yoluyla eğitim alanlarda ise genellikle ücret söz konusu değildir, bazı kurslarda katılımcılara harçlık ödenebilir.",
+  "egitim_sonrasi": [
+   "Yeni mesleğe başlayanlar genellikle asgari ücret düzeyinde kazanç sağlar.",
+   "Deneyim, bilgi, beceri ve çalışılan işletmenin büyüklüğüne göre kazanç artabilir.",
+   "Kamu kuruluşlarında işçi statüsünde çalışanların ücreti toplu iş sözleşmesi hükümlerine göre belirlenir.",
+   "Kendi işyerini açanların kazancı işletmenin büyüklüğüne, müşteri potansiyeline ve piyasa koşullarına bağlı olarak değişir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleki eğitim merkezinde kalfalık eğitimini tamamlayan kişi ustalık eğitimine devam edebilir; ustalık belgesi aldıktan sonra fark derslerini tamamlayarak meslek lisesi diploması ve işyeri açma belgesi alabilir.",
+  "is_hayatinda": "Çırak olarak başlayan kişi, deneyim kazandıkça kalfa, usta, formen veya atölye şefi konumuna yükselebilir; biriktirdiği bilgi, beceri ve sermaye ile kendi atölyesini/servisini açabilir."
+ },
+ "benzer_meslekler": [
+  "Şaft Tamircisi (Motorlu Taşıt)",
+  "Makas Tamircisi (Motorlu Taşıt)",
+  "Otobüs/Kamyon Bakım Onarımcısı",
+  "Şanzıman Tamircisi (Motorlu Taşıt)",
+  "Traktör Bakım Onarımcısı",
+  "Oto Bakım-Onarımcısı (Otomotiv Mekanikcisi)"
+ ],
+ "ek_bilgiler": "Dingil tamirciliği, özellikle kamyon, otobüs ve treyler gibi ağır vasıtaların dingil-aks sistemlerinde uzmanlaşan bir alan olup, fiziksel güç ve ağır parçalarla güvenli çalışma becerisi gerektirir. Ağır vasıta taşımacılığının yaygın olduğu bölgelerde bu uzmanlığa duyulan ihtiyaç daha fazladır.",
+ "gorevler": [
+  "Dingil tamir, bakımı veya dingil ilavesi için gelen motorlu taşıt müşterilerinden durum hakkında bilgi alır.",
+  "Motorlu taşıtın dingil aksamını kontrol eder, yapılması gereken işlemleri belirler.",
+  "Yapılacak tamir ve bakım işlemlerinin maliyetini tespit eder, müşterilere bilgi verir.",
+  "Taşıtın dingil aksamının genel bakım ve kontrollerini yapar.",
+  "Motorlu taşıtın dingil aparatlarında tamiri yapılabilecek arızalı parçaların gerekli tamir işlerini yapar.",
+  "Arızalı ve tamiri yapılamayacak durumda olan dingil parçalarının eskilerini söker, yenilerinin montajını yapar.",
+  "İlave dingil takılacak motorlu taşıta, ilave dingil montaj işlemlerini yapar.",
+  "Tamir ve montaj işlemleri tamamlanan dingil ve aparatlarının son kontrollerini yapar.",
+  "Dingillerle ilgili yapılabilecek işlemleri biten motorlu araçları müşterilere teslim eder.",
+  "Meslek alanı ile ilgili gelişmeleri takip eder, uygular.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-09T02:23:04",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 6242
+  }
+ }
+}

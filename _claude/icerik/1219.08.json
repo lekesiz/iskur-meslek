@@ -1,0 +1,80 @@
+{
+ "arac_gerec": [
+  "Bilgisayar ve ofis yazılımları",
+  "Yazıcı, tarayıcı ve fotokopi makinesi",
+  "Telefon ve iletişim araçları",
+  "İlgili kanun, tüzük, yönetmelik, genelge ve talimat metinleri",
+  "Teftiş ve denetim rehberleri, kontrol listeleri",
+  "Rapor, tutanak ve resmi evrak örnekleri",
+  "Dosyalama ve arşiv sistemleri",
+  "Resmi mühür ve imza yetkisine ilişkin belgeler",
+  "Ses kayıt cihazı (gerektiğinde)",
+  "Seyahat için resmi araç",
+  "Mevzuat ve içtihat veri tabanlarına erişim",
+  "Muhasebe ve mali kayıt belgeleri"
+ ],
+ "genel_ozellikler": [
+  "Dikkatli, titiz ve ayrıntıları gözden kaçırmayan,",
+  "Analitik düşünme ve sayılarla akıl yürütme becerisine sahip,",
+  "Sorumluluk sahibi, güvenilir ve ilkeli,",
+  "Objektif, tarafsız ve adil karar verebilen,",
+  "Yazılı ve sözlü ifade yeteneği gelişmiş,",
+  "İnsan ilişkilerinde başarılı, ikna ve iletişim becerisine sahip,",
+  "Mevzuata, hukuk kurallarına ve kamu yönetimine ilgili,",
+  "Baskı altında sağlıklı ve hızlı karar verebilen"
+ ],
+ "calisma_ortami": "Denetçi - Kamu, görevli olduğu kurumun merkez teşkilatındaki bürosunda ve denetim/teftiş yapacağı kurum ve kuruluşların bulunduğu taşra birimlerinde çalışır. Görevi gereği sık sık farklı il ve ilçelere seyahat edebilir; incelenen kurumun şartlarına bağlı olarak atölye, fabrika, şube veya diğer iş yerlerinde de bulunabilir. Çalışma saatleri genellikle düzenlidir, ancak teftiş programı, inceleme ve rapor hazırlama süreçlerine bağlı olarak mesai saatleri uzayabilir.\n\nGörevi sırasında kurumların yöneticileri, memurları, hukuk müşavirleri ve ilgili kamu görevlileriyle sürekli iletişim kurar. Usulsüzlük, yolsuzluk veya hata tespiti gibi durumlarda gerginlik yaşanabilir; bu nedenle meslek, dikkat ve tarafsızlık gerektiren, zaman zaman stresli bir çalışma temposuna sahiptir.",
+ "gorevler": [
+  "Merkez veya taşra teşkilatlarında, teşkilatları ilgilendiren konularda kanun, tüzük, yönetmelik, genelge ve talimatların uygulanıp uygulanmadığını kontrol eder.",
+  "Memurların faaliyetleri hakkında teftiş programına göre inceleme ve teftiş yapar.",
+  "İnceleme ve teftişlerinde teknik, ekonomik, hukuki bakımdan veya diğer yönlerden görülen yanlışlık ve eksiklikleri tespit eder.",
+  "İşlerin daha verimli bir şekilde yürütülmesi ve memurların çalışmalarından daha çok faydalanılması için alınması gerekli gördüğü tedbirleri belirleyerek yetkililere sunar.",
+  "Teftişleri sırasında tespit ettiği her türlü suç unsuru olabilecek usulsüzlükleri yetkililere bildirir ve ilgililer hakkında soruşturmaya başlar.",
+  "İş ilişkisinde bulunulan diğer resmi ve özel iş yerlerine ait evrak, dosya ve belgelerin doğruluğunu inceler; inceleme sonucunda tespit ettiği yolsuzlukları yapanlar hakkında soruşturma açarak yetkililerce lüzum görülen diğer araştırma ve incelemeleri yapar.",
+  "Yetkililerden doğrudan aldığı emirleri teftiş kurulu başkanına bildirir.",
+  "Her inceleme, teftiş ve araştırma sonucunda eleştiri, öğütleme, düşünce ve önerileri kapsayan, kesin kanıya dayanan raporu gerekçileriyle birlikte hazırlayarak yetkililere verir.",
+  "Yetkililerce incelenen ve raporlarda daha ayrıntılı açıklanması veya cevaplanması gereken konuların açıklığa kavuşturulması amacıyla geri gönderilen raporlar için tamamlayıcı inceleme yaparak düşüncelerini rapora yazar ve yetkililere verir.",
+  "Fabrika veya diğer iş yerlerinde, farklı kamu kuruluşlarında sağlık ve güvenlik, ücret konuları ile iş organizasyonları üzerine teftiş yaparak teftiş raporları hazırlar ve yetkililere verir.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "egitim": {
+  "verildigi_yerler": "Doğrudan 'Denetçi - Kamu' unvanına yönelik ayrı bir lisans programı bulunmamaktadır. Mesleğe genellikle üniversitelerin hukuk, iktisadi ve idari bilimler, işletme, iktisat, maliye veya kamu yönetimi gibi lisans programlarından mezun olunduktan sonra, ilgili kamu kurumunun açtığı özel giriş sınavı ile 'denetçi/müfettiş yardımcısı' kadrosuna girilerek ulaşılır. Meslek bilgi ve becerisi büyük ölçüde kurum içinde verilen hizmet içi eğitim ve uygulamalı çalışmalarla kazanılır.",
+  "giris_kosullari": [
+   "İlgili kamu kurumunun belirlediği alanlarda (genellikle hukuk, iktisadi ve idari bilimler, işletme, iktisat, maliye, kamu yönetimi vb.) lisans mezunu olmak",
+   "Kamu Personeli Seçme Sınavında (KPSS) kurumun istediği puan türünden yeterli puanı almış olmak",
+   "İlgili kurumun açtığı yazılı ve/veya sözlü özel giriş sınavını kazanmak",
+   "657 sayılı Devlet Memurları Kanunu'nda belirtilen genel şartları (yaş, sağlık durumu, güvenlik soruşturması vb.) taşımak"
+  ],
+  "sure_ve_icerik": "Giriş sınavını kazananlar belirli bir süre (genellikle 2-3 yıl) 'denetçi/müfettiş yardımcısı' unvanıyla kurum içi hizmet içi eğitim ve uygulamalı stajlara katılır. Bu süreçte mevzuat bilgisi, denetim ve teftiş teknikleri, raporlama, muhasebe ve hukuk konularında eğitim alınır, kıdemli denetçilerin refakatinde fiilen teftiş çalışmalarına katılınır. Bu dönem sonunda yapılan yeterlilik sınavında başarılı olanlar 'Denetçi' unvanını kazanarak asil kadroya atanır.",
+  "belge": "Kuruma giriş için gerekli olan lisans diploması temel belge olup, hizmet içi eğitim ve yeterlilik sınavı sonunda kurum tarafından verilen atama/unvan belgesiyle 'Denetçi' olarak görev yapılır."
+ },
+ "calisma_alanlari": "Denetçi - Kamu, bakanlıkların ve diğer kamu kurum ve kuruluşlarının teftiş/denetim kurulu başkanlıklarında, merkez ve taşra teşkilatlarında, kamu iktisadi teşekküllerinde ve belediyeler gibi yerel yönetimlerde görev alabilir. İstihdam tamamen ilgili kamu kurumlarının açtığı sınavlara ve kadro durumuna bağlıdır; bu nedenle iş bulma olanağı, kurumların personel alım ilanları ve kontenjanlarıyla sınırlıdır. Kamu kurumları dışında özel sektörde bu unvanla doğrudan istihdam söz konusu değildir.",
+ "kazanc": {
+  "egitim_suresince": "Denetçi yardımcılığı/aday memurluk döneminde, 657 sayılı Devlet Memurları Kanunu'na göre belirlenen derece ve kademeye uygun aylık ücret ve ek ödemeler alınır.",
+  "egitim_sonrasi": [
+   "Kamu kurumlarında 657 sayılı Devlet Memurları Kanunu'na tabi olarak çalışanlar, kadro/unvan, derece ve kıdemlerine göre belirlenen aylık, ek gösterge, tazminat ve diğer mali haklardan yararlanır.",
+   "Ücret düzeyi, görev yapılan kurum, hizmet süresi ve unvana (denetçi, başdenetçi vb.) göre değişiklik gösterir."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Kurum içi hizmet içi eğitimlerle mevzuat, denetim teknikleri ve raporlama konusundaki bilgi ve becerisini geliştirebilir. Akademik kariyer yapmak isteyenler, hukuk, iktisadi ve idari bilimler gibi alanlarda yüksek lisans veya doktora eğitimi alabilir.",
+  "is_hayatinda": "Kıdem, performans ve kurumun yükselme kriterlerine bağlı olarak başdenetçi, denetim/teftiş kurulu başkan yardımcılığı ve teftiş kurulu başkanlığı gibi kademelere yükselebilir. Deneyimli denetçiler, kurum içinde daire başkanlığı veya genel müdür yardımcılığı gibi üst düzey yönetim görevlerine de atanabilir."
+ },
+ "benzer_meslekler": [
+  "İç Denetçi - Kamu",
+  "Denetçi Yardımcısı",
+  "Mal Müdürü",
+  "Vergi Dairesi Müdürü",
+  "Saymanlık Müdürü",
+  "Bütçe Müdürü"
+ ],
+ "ek_bilgiler": "Bu mesleğe giriş, doğrudan bir okul/bölüm mezuniyetine değil, ilgili kamu kurumunun açtığı özel sınavlara bağlıdır. Kurumdan kuruma giriş koşulları, aranan lisans alanları ve kullanılan unvanlar (denetçi, müfettiş, kontrolör vb.) farklılık gösterebilir; adayların hedefledikleri kurumun güncel ilan ve mevzuatını incelemeleri önerilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-07T19:27:00",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 7105
+  }
+ }
+}

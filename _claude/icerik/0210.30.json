@@ -1,0 +1,77 @@
+{
+ "arac_gerec": [
+  "Sahil güvenlik botu/gemisi ve bu araçlara ait seyir-manevra donanımları",
+  "Telsiz ve uydu haberleşme cihazları",
+  "Radar, GPS ve diğer seyir/navigasyon sistemleri",
+  "Deniz ve kara harita, plan ve kroki malzemeleri",
+  "Kişisel silah, mühimmat ve koruyucu teçhizat",
+  "Can kurtarma ve yüzer teçhizat (can yeleği, can salı vb.)",
+  "Bilgisayar, resmi yazışma ve kayıt yazılımları",
+  "Resmi evrak, rapor, teftiş ve denetim formları",
+  "Üniforma ve kişisel koruyucu donanım",
+  "İkmal, lojistik takip ve stok kayıt sistemleri",
+  "İlk yardım ve acil durum ekipmanları"
+ ],
+ "benzer_meslekler": [
+  "Astsubay Başçavuş (Sahil Güvenlik)",
+  "Astsubay Kıdemli Üstçavuş (Sahil Güvenlik)",
+  "Astsubay Üstçavuş (Sahil Güvenlik)",
+  "Astsubay Kıdemli Çavuş (Sahil Güvenlik)",
+  "Astsubay Çavuş (Sahil Güvenlik)",
+  "Sahil Güvenlik Uzman Çavuş"
+ ],
+ "calisma_alanlari": "Astsubay Kıdemli Başçavuş (Sahil Güvenlik), Sahil Güvenlik Komutanlığına bağlı kara ve deniz birimlerinde görev yapar. Bu birimler arasında bot ve gemi komutanlıkları, karakol komutanlıkları, bölge ve grup komutanlıkları ile bağlı idari/lojistik birimler sayılabilir. Görev yeri, kıdem ve ihtiyaca göre yurt içinde farklı sahil bölgelerine veya kara birimlerine atanabilir; bu meslek kamu kurumu niteliğinde, askeri hiyerarşi içinde yürütülen bir görevdir.",
+ "calisma_ortami": "Astsubay Kıdemli Başçavuş (Sahil Güvenlik), görev yerine göre hem kapalı mekânlarda (karakol, komutanlık binaları, gemi/bot iç mekânları) hem de açık havada (denizde, limanlarda, sahil kesiminde) çalışır. Görev, deniz koşullarına (dalga, rüzgâr, soğuk, sıcak) ve bazen riskli operasyonel durumlara bağlı olarak fiziksel zorluk içerebilir; nöbet ve vardiya usulü çalışma, uzun süreli deniz seferleri ve ani müdahale gerektiren durumlar söz konusu olabilir.\n\nÇalışma saatleri düzenli değildir; görev gereği gece-gündüz, hafta sonu ve resmi tatillerde de hizmet verilebilir. Meslek, astları, akranları ve üst komuta kademesiyle sürekli iletişim, emir-komuta ilişkisi ve koordinasyon gerektirir; ayrıca diğer kolluk kuvvetleri, liman idareleri ve kamu kurumlarıyla resmi temas kurulabilir.",
+ "egitim": {
+  "verildigi_yerler": "Astsubaylık mesleğine giriş, Sahil Güvenlik Komutanlığına astsubay yetiştiren meslek yüksekokulları veya ilgili askeri eğitim kurumları aracılığıyla yapılır. Astsubay Kıdemli Başçavuş unvanı ise bağımsız bir okul programıyla kazanılan bir meslek değil, astsubaylık kariyerinin en üst kıdem kademesidir; bu kademeye meslek içinde kıdem, performans ve terfi süreçleriyle ulaşılır.",
+  "giris_kosullari": [
+   "Türkiye Cumhuriyeti vatandaşı olmak",
+   "Askeri mevzuatta belirlenen yaş sınırları içinde olmak",
+   "En az önlisans (meslek yüksekokulu) düzeyinde mezun olmak",
+   "Sağlık kurulu raporuyla belirlenen fiziki ve sağlık yeterliliklerini taşımak",
+   "Güvenlik soruşturması ve arşiv araştırmasını başarıyla geçmek",
+   "İlgili giriş sınavı, mülakat ve değerlendirme süreçlerini tamamlamak"
+  ],
+  "sure_ve_icerik": "Astsubaylık mesleğine, astsubay meslek yüksekokullarında yaklaşık iki yıl süren önlisans eğitimiyle başlanır. Bu eğitimde askerlik bilgisi, disiplin, fiziki eğitim, denizcilik ve sahil güvenlik hizmetlerine yönelik teorik ve uygulamalı dersler verilir. Mezuniyet sonrası Astsubay Çavuş rütbesiyle göreve başlanır; Kıdemli Başçavuşluğa ulaşmak için uzun yıllar süren hizmet, belirli kıdem sürelerinin tamamlanması, performans değerlendirmeleri ve kurum içi hizmet içi eğitim/kurslara katılım gerekir.",
+  "belge": "Astsubay meslek yüksekokulu önlisans diploması ve kıdem ile terfi süreçleri sonunda verilen resmi rütbe/atama belgesi."
+ },
+ "ek_bilgiler": "Bu meslek askeri/kolluk statüsünde bir kariyer kademesi olup atama, terfi, çalışma ve emeklilik şartları ilgili askeri personel mevzuatı ve Sahil Güvenlik Komutanlığı düzenlemelerine tabidir. Göreve giriş ve meslekte ilerleme süreçlerinde güvenlik soruşturması, sağlık kurulu raporu ve periyodik fiziki yeterlilik değerlendirmeleri önemli rol oynar.",
+ "genel_ozellikler": [
+  "Liderlik vasfına sahip,",
+  "Disiplinli ve sorumluluk sahibi,",
+  "Fiziksel ve psikolojik olarak dayanıklı,",
+  "Hızlı ve doğru karar verebilen,",
+  "Ekip çalışmasına uyumlu,",
+  "Gizliliğe ve resmi hiyerarşiye önem veren,",
+  "Stresli ve riskli durumlarda sağlıklı karar alabilen,",
+  "İletişim ve koordinasyon becerisi gelişmiş,"
+ ],
+ "gorevler": [
+  "Birim veya bot personelinin sevk, idare ve disiplinini denetler.",
+  "Karmaşık operasyonel planların uygulanmasına liderlik eder.",
+  "Teknik ikmal ve lojistik destek süreçlerini koordine eder.",
+  "İdari denetim ve teftiş hazırlıklarını yürütür.",
+  "Üst makamların idari danışmanlık görevlerini yerine getirir.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "ilerleme": {
+  "mesleki_egitimde": "Astsubaylık mesleğine Astsubay Çavuş rütbesiyle başlanır; kıdem süresinin tamamlanması, performans değerlendirmeleri ve gerekli sınav/kursların başarıyla geçilmesiyle sırasıyla Üstçavuş, Kıdemli Üstçavuş, Başçavuş ve Kıdemli Başçavuş rütbelerine terfi edilir. Bu süreçte kurum içi hizmet içi eğitimler ve ihtisas kurslarıyla mesleki bilgi ve beceriler geliştirilir.",
+  "is_hayatinda": "Astsubay Kıdemli Başçavuşluk, astsubaylık kariyerinin ulaşılabilecek en üst kıdem kademesidir. Bu kademede görev yapanlar idari ve teknik danışmanlık, denetim, eğitmenlik veya kurmay destek görevlerine yönlendirilebilir; emeklilik sonrasında edindikleri tecrübeyle güvenlik, denizcilik veya kamu/özel sektörde danışmanlık ve eğitmenlik gibi alanlarda çalışabilirler."
+ },
+ "kazanc": {
+  "egitim_suresince": "Astsubay meslek yüksekokulu öğrencileri genellikle askeri öğrenci statüsünde eğitim görür; bu süreçte barınma, iaşe ve harçlık gibi ihtiyaçları kurum tarafından karşılanır.",
+  "egitim_sonrasi": [
+   "Görev süresince ilgili askeri personel mevzuatı çerçevesinde düzenli maaş ve ek ödemeler alınır.",
+   "Kazanç, rütbe, kıdem, görev yeri (deniz/kara) ve risk unsurlarına bağlı olarak değişebilir.",
+   "Meslekte en üst kıdem kademesi olan Kıdemli Başçavuşlukta, kıdem ve hizmet yılına bağlı ek ödemelerle gelir düzeyi kademeli olarak artar."
+  ]
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-07T17:45:10",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 5593
+  }
+ }
+}

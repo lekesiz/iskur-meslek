@@ -1,0 +1,84 @@
+{
+ "arac_gerec": [
+  "Ana makine (dizel motor) ve yardımcı makineler",
+  "Jeneratörler ve elektrik dağıtım panosu",
+  "Kumanda/kontrol paneli ve göstergeler (basınç, sıcaklık, devir göstergeleri)",
+  "Su motorları (balans/denge sistemi)",
+  "Yakıt, su ve yağ tank ve sistemleri",
+  "Pompalar ve valfler",
+  "Makine jurnali (çalışma kayıt defteri)",
+  "Haberleşme/telsiz cihazları",
+  "El aletleri ve anahtar takımları",
+  "Yangınla mücadele ekipmanları",
+  "Kişisel koruyucu donanım (iş elbisesi, eldiven, kulaklık, baret, can yeleği)",
+  "Yedek parça ve bakım malzemeleri"
+ ],
+ "genel_ozellikler": [
+  "Makine ve tekniğe ilgili,",
+  "Dikkatli ve sorumluluk sahibi,",
+  "Hızlı ve doğru karar verebilen,",
+  "Fiziksel olarak dayanıklı,",
+  "Ekip çalışmasına uyumlu,",
+  "Stresli ve acil durumlarda sakin kalabilen,",
+  "Görme, işitme ve renk ayırt etme duyuları sağlam,",
+  "Gemi ortamında uzun süre çalışmaya istekli"
+ ],
+ "calisma_ortami": "Tren ferisi makinisti, feribotun makine dairesinde kapalı, gürültülü, titreşimli ve bazen sıcak ve yağ/yakıt kokulu bir ortamda çalışır. Çalışma, seyir halindeki geminin programına bağlı olarak vardiya düzeninde yürütülür; iskeleye yanaşma, kalkış ve seyir sırasında dikkatli ve hızlı tepki gerektiren anlar yaşanabilir.\n\nGörevini yerine getirirken kaptan, güverte reisi ve diğer gemi adamları ile sürekli iletişim halindedir. Makine arızası, yangın, elektrik çarpması ve denizde çalışmaya özgü riskler söz konusu olduğundan iş sağlığı ve güvenliği kurallarına titizlikle uyulması gerekir. Çalışma saatleri seferin süresine ve programına göre düzensiz olabilir; bu durum kişinin aile ortamından uzun süre uzak kalmasına neden olabilir.",
+ "calisma_alanlari": "Tren ferisi makinistleri, tren vagonlarını taşıyan feribotlarda (özellikle göl veya deniz geçişlerinde hizmet veren özel amaçlı feribotlarda) çalışır. Bu gemileri işleten kamu kurumlarına veya özel işletmelere bağlı gemi işletmelerinde istihdam edilebilirler. Bu tür hizmetin ülkemizde sınırlı sayıda hatta verilmesi nedeniyle istihdam alanı ve iş bulma olanakları sınırlıdır; benzer nitelikteki diğer gemi makine görevlerine (yolcu/yük gemileri, feribotlar) geçiş yapılabilir.",
+ "ek_bilgiler": "Bu meslek, tren vagonlarını taşıyan feribotlarda görev yapan özel bir gemi adamlığı dalıdır; bu tür hizmetin ülkemizde sınırlı sayıda hatta (örneğin göl geçişlerinde) verilmesi nedeniyle istihdam alanı sınırlıdır. Deniz/göl ortamında çalışma risklerine karşı iş sağlığı ve güvenliği kurallarına azami uyum önemlidir. Gemiadamı olarak çalışabilmek için ilgili idarenin öngördüğü sağlık ve yeterlik koşullarının sağlanması gerekmektedir.",
+ "gorevler": [
+  "Kaptanın talimatı doğrultusunda makinayı çalıştırmaya hazırlar (çalıştırma havası, yağ, su, motorin vb. kontrol eder).",
+  "Gemi elektrik enerjisini sağlar, sahil elektrik bağlantısını keser.",
+  "Makinayı çalıştırır.",
+  "Makinanın çalışmasını kontrol eder, makinanın çalışması normal ise kumanda panelinden kontrolü kaptan köşküne verir.",
+  "Seyir esnasında makinalarda bir problem olup olmadığını sürekli kontrol eder.",
+  "Göstergelerde veya mekanik aksamda bir anormallik olursa kaptanla irtibat kurar, bilgi verir.",
+  "Sefere engel bir durum olduğunda makinayı durdurur, müdahale eder.",
+  "İskeleye yanaşınca makinaları sırasına göre durdurur.",
+  "Balans işlemi için su motorlarını çalıştırır.",
+  "Güverte reisi nezaretinde iskeledeki raylarla gemideki rayların denk gelmesini sağlar.",
+  "Feribot iskeleye oturtulduktan sonra su motorlarını durdurur.",
+  "Sahil elektrik bağlantısı yapıldıktan sonra jeneratörü durdurur.",
+  "Makine jurnaline çalışmasıyla ilgili bilgileri yazar.",
+  "Çalışmalar esnasında can ve mal güvenliğinin sağlanmasına azami dikkat eder.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "benzer_meslekler": [
+  "Gemi Yağcısı",
+  "Deniz Buhar ve Motor Makinisti",
+  "Çarkçıbaşı (Gemi)",
+  "Sınırlı Makine Zabiti",
+  "Gemi Makine Zabiti",
+  "Kompresörcü (Gemi)"
+ ],
+ "egitim": {
+  "verildigi_yerler": "Tren ferisi makinistliği için Türk Meslekler Sözlüğü'nde ortaöğretim düzeyi eğitim yeterli görülmekle birlikte, mesleğe özgü, adı belirlenmiş bir ortaöğretim alan/dalı bulunmamaktadır. Kişiler genellikle mesleki ve teknik ortaöğretim kurumlarının denizcilik veya gemi makineleri alanlarından mezun olarak ya da ilgili idarenin düzenlediği gemiadamı yeterlik eğitim ve kurslarını tamamlayarak, ardından gemide usta yanında (işbaşında) deneyim kazanarak bu mesleği edinirler.",
+  "giris_kosullari": [
+   "Ortaokulu/ortaöğretimi tamamlamış olmak",
+   "Gemiadamları ve Kılavuz Kaptanlar Eğitim ve Sınav Yönergesi kapsamında denizde çalışmaya engel bir sağlık durumu bulunmadığına dair \"Gemiadamı Olur Sağlık Raporu\" almak",
+   "İlgili mevzuatta belirtilen gemiadamı yeterlik belgesi koşullarını taşımak"
+  ],
+  "sure_ve_icerik": "Mesleki ve teknik ortaöğretim kurumlarının denizcilik/gemi makineleri alanlarında verilen eğitim 4 yıl sürmekte olup ortak genel kültür dersleri ile alana ait meslek derslerini kapsar. Mesleğe giriş için ayrıca ilgili idarece düzenlenen gemiadamı yeterlik eğitimleri ve kurslar da bir yol olarak kullanılabilir. Resmi olarak tanımlanmış, mesleğe özgü bağımsız bir eğitim programı bulunmadığından, kişi genel denizcilik eğitimini tamamladıktan sonra gemide usta yanında çalışarak mesleğin gerektirdiği bilgi ve beceriyi kazanır.",
+  "belge": "Mesleki ve teknik ortaöğretim kurumlarından mezun olanlara \"Meslek Lisesi Diploması\" verilir. Ayrıca ilgili idare (Ulaştırma ve Altyapı Bakanlığı) tarafından gemiadamı yeterlik koşullarını sağlayanlara \"Gemiadamı Cüzdanı\" ve ilgili yeterlik belgesi düzenlenir."
+ },
+ "kazanc": {
+  "egitim_suresince": "Mesleki ve teknik ortaöğretim kurumlarında işletmelerde mesleki eğitim gören öğrencilere 3308 sayılı Mesleki Eğitim Kanunu gereğince asgari ücretin belirli bir oranından az olmamak üzere ücret ödenir. Eğitim, kurs veya sertifika programı şeklinde alınıyorsa genellikle bir ücret ödemesi söz konusu olmaz.",
+  "egitim_sonrasi": [
+   "Yeni başlayanlarda kazanç genellikle asgari ücret düzeyinde olmakla birlikte, gemiadamı statüsünde çalışanlar için bu düzeyin üzerinde başlangıç ücreti söz konusu olabilir.",
+   "Kazanç; kişinin deneyimi, sahip olduğu yeterlik belgeleri, çalıştığı işletme ve sektördeki ücret düzeyine göre değişebilir.",
+   "Kamu kurumuna bağlı işletmelerde işçi statüsünde çalışanlar toplu iş sözleşmesi hükümlerine tabi olarak ücret alır."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleki ve teknik ortaöğretim kurumlarının denizcilik alanından mezun olanlar, alanın devamı niteliğindeki yükseköğretim ön lisans/lisans programlarını (örneğin gemi makineleri işletme mühendisliği, deniz ulaştırma işletme programları) tercih ederek öğrenimlerini ilerletebilir ve daha yüksek yeterlikte gemi makine personeli unvanlarına yükselebilirler. Ayrıca meslekte uzmanlaşmayı sağlayan kurs, seminer ve hizmet içi eğitimlerle bilgi ve beceri düzeyini artırabilirler.",
+  "is_hayatinda": "Deneyim kazandıkça ve gerekli yeterlik belgelerini aldıkça daha büyük veya karmaşık makine sistemlerine sahip gemilerde görev alabilir, çarkçıbaşı veya başmakinist gibi daha üst kademelere yükselebilirler. Yabancı dil bilgisi ve ek sertifikalar, meslekte ilerlemeyi ve iş bulma olanaklarını kolaylaştırır."
+ },
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T11:41:31",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 7828
+  }
+ }
+}

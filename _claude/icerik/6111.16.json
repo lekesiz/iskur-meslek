@@ -1,0 +1,78 @@
+{
+ "arac_gerec": [
+  "Pulluk",
+  "Traktör",
+  "Tırmık",
+  "Kültivatör",
+  "Mibzer (tohum ekim makinesi)",
+  "Gübre dağıtıcısı",
+  "Kimyasal ve organik gübreler",
+  "Tarım ilaçları (insektisit, fungisit)",
+  "Pülverizatör (ilaçlama makinesi)",
+  "Nohut tohumluğu",
+  "El aletleri (çapa, orak, tırpan)",
+  "Hasat için çuval, sepet ve taşıma araçları",
+  "Basit ölçme ve kontrol aletleri"
+ ],
+ "genel_ozellikler": [
+  "Açık havada ve fiziksel güç gerektiren işlerde çalışmaktan hoşlanan,",
+  "Bedensel dayanıklılığa ve el becerisine sahip,",
+  "Toprağı ve bitkiyi seven, tarımsal üretime ilgi duyan,",
+  "Dikkatli ve sabırlı,",
+  "Hava ve iklim koşullarının getirdiği değişken çalışma şartlarına uyum sağlayabilen,",
+  "Mevsimlik ve yoğun çalışma dönemlerine dayanıklı,",
+  "Ekip halinde çalışmaya istekli,",
+  "Sorumluluk sahibi"
+ ],
+ "calisma_ortami": "Nohut Yetiştiricisi, işini açık arazi koşullarında, genellikle sonbahar aylarında toprak hazırlığı ve ekim, bahar-yaz aylarında bakım, ilaçlama ve hasat şeklinde mevsimsel bir döngü içinde yürütür. Çalışma; güneş, sıcak, soğuk, toz ve rüzgâr gibi değişken hava koşullarına açık ortamda, eğilerek, yürüyerek ve bazı işlemlerde elle yapılan ağır fiziksel efor gerektirir. İlaçlama sırasında kimyasal maddelere maruziyet riski bulunduğundan koruyucu önlemlere dikkat edilmesi gerekir.\n\nÇalışma saatleri mevsime ve hava koşullarına göre değişkenlik gösterir; ekim ve hasat dönemlerinde gün ışığına bağlı olarak uzun saatler çalışılabilir. Meslek elemanı genellikle kendi işletmesinde bağımsız çalışır veya tarım işletmesi sahibi, diğer tarım işçileri ve mevsimlik işçilerle birlikte koordineli şekilde görev yapar.",
+ "egitim": {
+  "verildigi_yerler": "Nohut Yetiştiriciliği için örgün bir eğitim-öğretim programı bulunmamaktadır. Mesleğe ilişkin bilgi ve beceriler genellikle tarımla uğraşan ailelerde küçük yaşlardan itibaren gözlem ve uygulama yoluyla, ya da işbaşında deneyimli bir çiftçinin yanında çalışarak kazanılır. Ayrıca Tarım ve Orman Bakanlığı il/ilçe müdürlükleri, Halk Eğitim Merkezleri ve İŞKUR tarafından açılan tarımsal üretim konulu kısa süreli kurslardan yararlanılabilir.",
+  "giris_kosullari": [
+   "Herhangi bir öğrenim şartı bulunmamaktadır.",
+   "Açık havada, fiziksel güç gerektiren işlerde çalışabilecek sağlık durumuna sahip olmak gerekir.",
+   "Genellikle tarımla uğraşan ailelerin çocukları, mesleği aile içinde gözlem ve uygulama yoluyla öğrenmeye küçük yaşlarda başlar."
+  ],
+  "sure_ve_icerik": "Mesleğin belirli bir eğitim süresi ve standart bir müfredatı yoktur. Toprak hazırlığı, ekim, gübreleme, hastalık ve zararlılarla mücadele, hasat gibi işlemler tekrar tekrar uygulanarak zaman içinde öğrenilir. İsteyen kişiler, tarım il/ilçe müdürlüklerinin, Halk Eğitim Merkezlerinin ve İŞKUR'un açtığı kısa süreli tarımsal eğitim kurslarına katılarak bilgi ve becerilerini destekleyebilir.",
+  "belge": "Mesleğin örgün eğitimi kapsamında resmi bir diploma veya meslek belgesi bulunmamaktadır. Katılınan kısa süreli kurslar sonunda katılım belgesi verilebilir. Mesleki Yeterlilik Kurumu (MYK) belgesi, bazı işverenler tarafından istihdamda tercih sebebi olarak değerlendirilebilir."
+ },
+ "gorevler": [
+  "Sonbaharda toprağı pullukla sürer, uygun tarım aleti ile tarlayı düzelterek toprak hazırlığını yapar.",
+  "Mibzerle veya elle, ekim derinliğini ve sıra aralarını göz önünde bulundurarak tohum ekimini yapar.",
+  "Ekimden önce veya ekimle birlikte, uygun miktarda ve çeşidine göre gübreleme yapar.",
+  "Hastalık ve zararlılara karşı uygun ilacı zamanında uygulayarak mücadele eder.",
+  "Hasat zamanı geldiğinde (yaprak ve taneler sarardığında) nohudu elle sökerek hasat eder.",
+  "Kullandığı makine, araç, gereç ve ekipmanların bakımını yapar.",
+  "İş sağlığı ve güvenliği ile ilgili kurallara uyar.",
+  "Mesleki gelişim faaliyetlerinde bulunur."
+ ],
+ "calisma_alanlari": "Nohut Yetiştiricisi, büyük ölçüde kendi tarlasında veya ailesine ait tarım işletmesinde bağımsız olarak çalışır. Ayrıca tarla ürünleri yetiştiriciliği yapan özel tarım işletmelerinde, çiftlik ve kooperatiflerde mevsimlik veya sürekli işçi olarak istihdam edilebilir. Tohumluk, gübre ve zirai ilaç bayileri ile tarımsal kooperatiflerde de görev alabilir. Kamu sektöründe, Tarım ve Orman Bakanlığı'nın taşra teşkilatına bağlı tarımsal işletmelerde işçi statüsünde çalışma olanağı bulunmaktadır.",
+ "kazanc": {
+  "egitim_suresince": "Mesleğin örgün veya çıraklık niteliğinde bir eğitim programı bulunmadığından, eğitim süresince ayrı bir ücretlendirme söz konusu değildir. Mesleği aile işletmesinde öğrenenler genellikle ücretsiz aile işçisi olarak çalışır; mevsimlik tarım işçisi olarak çalışılması durumunda ise günlük veya parça başı ücret alınabilir.",
+  "egitim_sonrasi": [
+   "Kendi işletmesinde çalışanların kazancı, ekilen alanın büyüklüğüne, ürün verimine, hava ve iklim koşullarına ve piyasa fiyatlarına bağlı olarak değişir.",
+   "Ücretli olarak çalışanlar genellikle asgari ücret düzeyinde veya mevsimlik gündelik ücretle kazanç sağlar.",
+   "Kamu kurumlarında işçi statüsünde çalışanlar, tabi oldukları toplu iş sözleşmesi hükümlerine göre ücret alır."
+  ]
+ },
+ "ilerleme": {
+  "mesleki_egitimde": "Mesleğin basamaklı bir örgün eğitim-öğretim programı bulunmadığından mesleki eğitimde resmi bir ilerleme sistemi yoktur. İsteyen kişiler, tarım alanındaki mesleki ve teknik eğitim programlarına veya tarım/ziraat ile ilgili ön lisans ve lisans programlarına yönelerek bilgi ve becerilerini artırabilir.",
+  "is_hayatinda": "Deneyim kazandıkça işlediği tarım alanını büyütebilir, kendi işletmesini genişletebilir. Tarımsal kooperatiflerde veya üretici birliklerinde görev alabilir, deneyimli bir çiftçi olarak diğer üreticilere bilgi ve deneyimini aktarabilir."
+ },
+ "benzer_meslekler": [
+  "Çiftçi (Tarla Ürünleri)",
+  "Mercimek Yetiştiricisi",
+  "Fasulye Yetiştiricisi",
+  "Bakla Yetiştiricisi",
+  "Bezelye Yetiştiricisi",
+  "Yemeklik Dane Baklagil Yetiştiricisi"
+ ],
+ "ek_bilgiler": "Nohut, kuraklığa görece dayanıklı bir baklagil bitkisi olduğundan özellikle kıraç ve az sulanabilen tarım arazilerinde yetiştirilebilir; bu nedenle mesleğin yoğunlaştığı bölgeler, iklim ve toprak koşullarına bağlı olarak değişiklik gösterebilir.",
+ "_meta": {
+  "model": "sonnet",
+  "uretim": "2026-10-08T20:09:11",
+  "usage": {
+   "input_tokens": 2,
+   "output_tokens": 7078
+  }
+ }
+}
