@@ -90,3 +90,6 @@ python3 _claude/meslek_dosyasi.py pdf --kod 5141.05     # isteğe bağlı PDF (y
 `profil/iskur_17boyut_profil.{csv,json}`: 7765 meslek için O*NET tabanlı RIASEC, iş değerleri ve
 Big Five boyutları (çok dilli embedding ile eşleştirme). Düşük güvenli eşleşmeler
 `inceleme_listesi_dusuk_guven.csv` içinde; özet `ozet.json`'da. Embedding önbelleği (`.emb_cache`) repoya konmadı.
+
+> Buradaki profil ilk sürümdür (v1). LLM ile yeniden sıralanmış, daha doğru v2 eşleştirmesi
+> reflektif/reflektif PR #2726'dadır; sisteme alınırken v2 esas alınmalıdır.
